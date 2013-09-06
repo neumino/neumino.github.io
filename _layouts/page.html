@@ -2,4 +2,12 @@
 layout: default
 ---
 {% include JB/setup %}
-{% include themes/twitter/page.html %}
+
+<div class="post">
+    <i class="icon-post"></i>
+
+    <h2>
+        <a href="{{page.url}}" class="title">{{page.title}}</a>
+    </h2>
+    {{content}}
+</div>
