@@ -2,7 +2,7 @@
 layout: post
 category : Thoughts
 tags : [language, instinct]
-title: The Language Instinct: How the Mind Creates Language
+title: The Language Instinct - How the Mind Creates Language
 ---
 {% include JB/setup %}
 
