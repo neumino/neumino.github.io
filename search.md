@@ -10,7 +10,7 @@ Search
 <input type="text" id="st-search-input" class="st-search-input" />
 </form>
 <!-- Place this div where you would like the results to be displayed. -->
-<div id="st-results_container"></div>
+<div id="st-results-container"></div>
 
 <script type="text/javascript">
 var Swiftype = window.Swiftype || {};
