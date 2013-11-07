@@ -3,7 +3,7 @@ layout: page
 title: Search
 ---
 
-Search
+Search on <a href="//blog.justonepixel.com">justonepixel.com</a>.
 
 
 <form class="search_form">
