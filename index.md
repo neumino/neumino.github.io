@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Blog
 ---
 
 {% include JB/setup %}

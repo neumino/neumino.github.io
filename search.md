@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About
+title: Search
 ---
 
 Search
 
 
-<form>
+<form class="search_form">
 <input type="text" id="st-search-input" class="st-search-input" />
 </form>
 <!-- Place this div where you would like the results to be displayed. -->

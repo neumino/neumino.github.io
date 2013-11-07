@@ -114,6 +114,19 @@ p{
     }
 }
 
+form.search_form input.st-search-input{
+    width: 450px;
+}
+
+#st-results-container h3 a{
+    color: #0088cc;
+    font-weight: normal;
+    text-decoration: none;
+}
+#st-results-container h3 a{
+    font-size: 14px;
+}
+
 footer{
     margin: 20px 0px 0px 50px;
     font-size: 12px;
