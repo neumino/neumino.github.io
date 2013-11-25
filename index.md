@@ -14,4 +14,16 @@ title: Blog
     </h2>
     {{post.content}}
 </div>
+
+{% if forloop.first %}
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Blog -->
+<ins class="adsbygoogle"
+style="display:inline-block;width:728px;height:90px"
+data-ad-client="ca-pub-0353610365188957"
+data-ad-slot="8580595404"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+{% endif %}
 {% endfor %}
