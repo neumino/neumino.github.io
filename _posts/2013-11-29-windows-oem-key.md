@@ -1,8 +1,8 @@
 ---
 layout: post
 category : Geek
-tags : [ux, user, experience]
-title: Re-installing Windows 8 with an OEM key
+tags : [windows, oem, key, retail]
+title: Reinstalling Windows 8 with an OEM key
 ---
 {% include JB/setup %}
 
