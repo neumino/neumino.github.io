@@ -17,11 +17,11 @@ title: Blog
 
 {% if forloop.first %}
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Blog -->
+<!-- Blog - height 60 -->
 <ins class="adsbygoogle"
-style="display:inline-block;width:728px;height:90px"
+style="display:inline-block;width:468px;height:60px"
 data-ad-client="ca-pub-0353610365188957"
-data-ad-slot="8580595404"></ins>
+data-ad-slot="6725099001"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
