@@ -6,8 +6,8 @@ title: Building RethinkDB on a Raspberry Pi
 ---
 {% include JB/setup %}
 
-It took 3 whole days, but I did build [RethinkDB](http://rethinkdb.com) on my Raspberry
-Pi, and it's working!
+It took 3 whole days, but I did build [RethinkDB](http://rethinkdb.com) on my [
+Raspberry Pi](http://www.raspberrypi.org/), and it's working!
 
 All the praise should go to [@davidthomas426](https://github.com/davidthomas426) who
 submitted a [pull request](https://github.com/rethinkdb/rethinkdb/pull/1625) for
@@ -22,10 +22,10 @@ A few things about these instructions:
 [RethinkDB's website](http://www.rethinkdb.com/docs/install/arch/) since the branch I
 used was based on 1.10.
 
-I am using the [Archlinux Arm](http://archlinuxarm.org/platforms/armv6/raspberry-pi).  
+I built RethinkDB on [Archlinux Arm](http://archlinuxarm.org/platforms/armv6/raspberry-pi).  
 Building RethinkDB requires more than 500MB of RAM, so you have to create a swap
-partition. I built RethinkDB with 2GB of swap. I would tend to think that 1GB is enough,
-but I haven't tried it.
+partition. I used a 2GB swap, a smaller swap may work (I would say 1GB is enough), but 
+I haven't tried it.
 
 Install some dependencies.
 
@@ -66,7 +66,7 @@ Run `configure`
 ./configure --dynamic tcmalloc_minimal
 ```
 
-I also changed the swappiness to 10 (I haven't benchmark it though).  
+I also changed the swappiness to 10 - I'm not sure how useful it is though.  
 In `/etc/sysctl.d/99-sysctl.conf`, add
 
 ```
@@ -87,7 +87,7 @@ After a few beers (3 days of beers ^_^), you can start RethinkDB with
 ./rethinkdb -c 1 -no-direct-io
 ```
 
-If you are looking for the binary, it's available [here](http://justonepixel.com/retihnkdb/rethinkdbPi)
+If you are looking for the binary, it's available [here](http://justonepixel.com/retihnkdb/pi/20131206rethinkdb)
 
 I will try to spend some time creating a branch based on `next` that supports ARM and
 build again.
