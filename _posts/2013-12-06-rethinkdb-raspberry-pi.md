@@ -33,20 +33,20 @@ Install some dependencies.
 sudo pacman -S make gcc protobuf boost python2 gperftools nodejs base-devel python2-pip
 ```
 
-Make python 2 the default python.
+Make `python2` the default `python`.
 
 ```
 sudo rm /bin/python
 sudo ln -s /bin/python2 /usr/python
 ```
 
-Install Pyyaml.
+Install `pyyaml`.
 
 ```
 sudo pip2 install pyyaml
 ```
 
-Install v8 from AUR.
+Install `v8` from AUR.
 
 ```
 yaourt -S v8
@@ -66,7 +66,7 @@ Run `configure`
 ./configure --dynamic tcmalloc_minimal
 ```
 
-I also changed the swappiness to 10 - I'm not sure how useful it is though.  
+I also changed the swappiness to `10` - I'm not sure how useful it is though.  
 In `/etc/sysctl.d/99-sysctl.conf`, add
 
 ```
@@ -81,7 +81,7 @@ You have to build with `DEBUG=1` to avoid
 make DEBUG=1
 ```
 
-After a few beers (3 days of beers ^_^), you can start RethinkDB with
+After about 3 days, you can start RethinkDB with
 
 ```
 ./rethinkdb -c 1 -no-direct-io
