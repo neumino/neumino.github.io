@@ -2,7 +2,7 @@
 layout: post
 category : Geek
 tags : [rethinkdb, raspberry, pi, arm]
-title: Building RethinkDB for a Raspberry Pi
+title: Building RethinkDB on a Raspberry Pi
 ---
 {% include JB/setup %}
 
