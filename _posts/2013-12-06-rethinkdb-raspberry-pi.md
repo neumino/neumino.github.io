@@ -70,7 +70,7 @@ I also changed the swappiness to `10` - I'm not sure how useful it is though.
 In `/etc/sysctl.d/99-sysctl.conf`, add
 
 ```
-vm.swappiness=1
+vm.swappiness=10
 ```
 
 You have to build with `DEBUG=1` to avoid
