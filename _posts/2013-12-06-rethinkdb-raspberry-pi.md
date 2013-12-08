@@ -79,6 +79,8 @@ You have to build with `DEBUG=1` to avoid
 ```
 make DEBUG=1
 ```
+You may see warnings like `note: the mangling of 'va_list' has changed in GCC 4.4`. You
+can just ignore those.
 
 After about 3 days, you can start RethinkDB with
 
@@ -90,5 +92,3 @@ If you are looking for the binary, it's available [here](http://justonepixel.com
 
 I will try to spend some time creating a branch based on `next` that supports ARM and
 build again.
-
-
