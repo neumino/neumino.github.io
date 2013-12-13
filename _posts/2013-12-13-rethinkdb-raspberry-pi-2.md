@@ -11,6 +11,7 @@ I previously wrote about [compiling RethinkDB](http://blog.justonepixel.com/geek
 I merged [@davidthomas426](https://github.com/davidthomas426)'s branch in the branch
 `next` of RethinkDB (based on v1.11), and things seem to still work.  
 You can get this branch here: [michel_arm](https://github.com/neumino/rethinkdb/tree/michel_arm).  
+Binary: [http://justonepixel.com/rethinkdb/pi/20131213rethinkdb](http://justonepixel.com/rethinkdb/pi/20131213rethinkdb)
 
 
 Instructions to build are still the same, except that you do not need PyYaml anymore.  
