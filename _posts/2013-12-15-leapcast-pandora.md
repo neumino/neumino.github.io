@@ -35,8 +35,9 @@ have roomates that love pranks :)
 
 
 See the [pull request](https://github.com/dz0ny/leapcast/pull/69) for more info.  
-I also wrote a little file for systemd.
+_Edit_: Pull request merged :)
 
+I also wrote a little file for systemd.  
 Content of `/usr/lib/systemd/system/leapcast.service`:
 
 ```
@@ -65,3 +66,4 @@ Then run
 ```
 sudo systemctl enable leapcast
 ```
+
