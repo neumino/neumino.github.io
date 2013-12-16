@@ -11,9 +11,9 @@ I looked for a way to start/control Pandora on my desktop computer from my phone
 Googling around I found about [Pianobar](https://github.com/PromyLOPh/pianobar) and
 [Pianobar Remote](https://play.google.com/store/apps/details?id=com.pianobar.remote&hl=en).
 
-Pianobar Remote send commands to Pianobar via ssh, so it requires some credential to ssh
-in your machine. I am somehow not a big fan of granting access an app access to my
-computer, especially when it is not open source, so that was not a viable setup for me.
+Pianobar Remote sends commands to Pianobar via ssh, so it requires some credentials to ssh
+in your machine. I am somehow not a big fan of granting an app access to my
+computer, especially when it is not open source, so Pianobar/Pianobar Remote was not a viable setup for me.
 
 I then found about [Leapcast](https://github.com/dz0ny/leapcast), a ChromeCast emulation
 app. However Leapcast does not support Pandora.
