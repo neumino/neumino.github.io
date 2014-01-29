@@ -152,7 +152,7 @@ Once people use it for a bit and it is better tested, it should become the offic
 
 [Feedback](https://twitter.com/neumino),
 [pull requests](https://github.com/neumino/rethinkdbdash/pulls)
-and [comments](...HN Thread...) are welcome!  
+and [comments](https://news.ycombinator.com/item?id=7146502) are welcome!  
 
 
 ------------
