@@ -7,12 +7,12 @@ title: Paving the way for the new Nodejs
 {% include JB/setup %}
 
 [ReQL](http://rethinkdb.com/docs/introduction-to-reql/),
-RethinkDB Query Language, embeds into your programming
+the RethinkDB Query Language, embeds into your programming
 language, making it pleasant to write queries.  
-While the JavaScript driver is a great implementation of ReQL, it forces users to deal
+The JavaScript driver is a great implementation of ReQL, but it forces users to deal
 with callbacks making the code cumbersome.
 
-Nodejs recently [announced](http://blog.nodejs.org/2014/01/16/nodejs-road-ahead/) that
+Recently Nodejs [announced](http://blog.nodejs.org/2014/01/16/nodejs-road-ahead/) that
 the next stable release, 0.12.0, is imminent. The biggest feature in Nodejs 0.12.0 most
 developers are looking forward to is generators. Since generators remove the need for
 cumbersome callback code, I decided to take the opportunity to write a new callback-free
@@ -25,14 +25,14 @@ current one.
 A few projects wrapped the RethinkDB driver with different libraries --
 [rql-promise](https://npmjs.org/package/rql-promise),
 [reql-then](https://npmjs.org/package/reql-then)  
-The new driver provides native promises.
+The new driver works with promises natively.
 
 - __Connection pool__  
 Many ORMs ([reheat](https://npmjs.org/package/reheat),
 [thinky](https://npmjs.org/package/thinky), etc.) and connectors
 ([sweets-nougat](https://npmjs.org/package/sweets-nougat),
 [waterline-rethinkdb](https://npmjs.org/package/waterline-rethinkdb), etc.)
-are implementing their own connection pool on top of the driver.  
+are implementing their own connection pools on top of the driver.  
 The new driver provides a native connection pool without having to manually acquire and
 release a connection.
 
@@ -141,7 +141,7 @@ What is awesome here, is:
 
 Take a look at the usual
 [Todo example](https://github.com/neumino/rethinkdbdash-examples/tree/master/todo)
-built with using [AngularJS](http://angularjs.org/), [Koa](https://github.com/koajs/koa)
+built with [AngularJS](http://angularjs.org/), [Koa](https://github.com/koajs/koa)
 end [Rethinkdbdash](https://github.com/neumino/rethinkdbdash).
 
 We have to wait for the stable release of Node before the new driver can become
