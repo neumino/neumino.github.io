@@ -15,12 +15,14 @@ Binary: [http://justonepixel.com/rethinkdb/pi/20131213rethinkdb](http://justonep
 
 
 Instructions to build are still the same, except that you do not need PyYaml anymore.  
-So far the only thing that doesn't work (and that I am aware of) is the flag `--bind all`.
-
+So far the only thing that doesn't work (and that I am aware of) is the flag `--bind all`. You can track the progress on this bug
+on [this GitHub issue](https://github.com/rethinkdb/rethinkdb/issues/1925).
 
 I'll be going home next week (and won't travel with my raspberry pi), so I'll try to spend some this week end to fix this `--bind all` flag issue.
 
+
 List of packages installed with version:
+
 ```
 [michel@pi ~]$ LIST=$(pacman -Sl); for ARG in $(pacman -Qq); do echo "$LIST" | grep " $ARG "; done
 core acl 2.2.52-2 [installed]
