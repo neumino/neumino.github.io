@@ -21,8 +21,8 @@ by providing
 
 
 While you cannot use generators with the stable version of Node.js, the connection pool is a
-useful feature since you never have to deal with connections.
-
+reason good enough to make this driver available for the stable Node.js. You basically
+never have to deal with connections.  
 
 For those who want to know what the syntax looks like, here it is:
 
