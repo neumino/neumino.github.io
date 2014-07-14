@@ -134,3 +134,6 @@ footer{
 footer a{
     color: #000;
 }
+blockquote p{
+    font-size: 14px;
+}
