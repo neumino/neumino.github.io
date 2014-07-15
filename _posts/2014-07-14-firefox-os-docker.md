@@ -14,7 +14,7 @@ I created a Docker container to build Firefox OS, mostly because I didn't feel l
 
 
 If you are interested in the image, you can find it on the 
-[Docker's hub](https://registry.hub.docker.com/u/neumino/ubuntu-firefoxos/).
+[Docker's hub](https://registry.hub.docker.com/u/neumino/ubuntu-firefoxos/) once [this issue](https://github.com/dotcloud/docker/issues/7034) will be solved.
 
 Start it with
 
@@ -80,12 +80,6 @@ apt-get install libusb-1.0-0 libusb-1.0-0-dev
 apt-get install usbutils # This may not be needed, I used it to debug a few things
 ```
 
-Before building, make sure you enable the
-[remote debugging mode](https://developer.mozilla.org/en-US/Firefox_OS/Debugging/Connecting_a_Firefox_OS_device_to_the_desktop).
-
-> Open the Settings app, then Device Information > More Information > Developer.   
-> In the developer menu, check "Remote debugging".
-
 Install a few more packages required by the build process.
 
 ```
@@ -131,6 +125,15 @@ sudo docker run -t -i --privileged --expose 5037 -v /dev/bus/usb:/dev/bus/usb -v
 ```
 
 The `--privileged --expose 5037 -v /dev/bus/usb:/dev/bus/usb` options are required for `adb` to be able to find your device.
+
+Before building, make sure you enable the
+[remote debugging mode](https://developer.mozilla.org/en-US/Firefox_OS/Debugging/Connecting_a_Firefox_OS_device_to_the_desktop)
+on your phone.
+
+> Open the Settings app, then Device Information > More Information > Developer.   
+> In the developer menu, check "Remote debugging".
+
+
 
 Then you are good to go:
 
