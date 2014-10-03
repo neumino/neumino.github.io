@@ -143,8 +143,8 @@ replica without requiring any work on your end.
 Heavy refactoring of the clustering is being done right now, so hopefully
 this feature should ship soon (~2 months?).
 
-Three things to finish this article:
+Two things to finish this article:
 
-1. Thanks to [@atnnn](https://github.com/atnnn) for helping me with some bash issues.
-2. Thanks to [Jessie](https://twitter.com/jessskuo) for proofreading my Frenglish.
-3. Question? Suggestions? Ping me on Twitter: [@neumino](https://twitter.com/neumino).
+1.Thanks to [@atnnn](https://github.com/atnnn) for helping me with some bash issues,
+[Jessie](https://twitter.com/jessskuo) for proofreading my Frenglish.
+2. Questions? Suggestions? Ping me on Twitter: [@neumino](https://twitter.com/neumino).
