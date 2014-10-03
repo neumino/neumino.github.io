@@ -5,7 +5,7 @@ title: Blog
 
 {% include JB/setup %}
 
-{% for post in site.posts %}
+{% for post in site.posts limit: 7 %}
 <div class="post">
 <i class="icon-post"></i>
 
