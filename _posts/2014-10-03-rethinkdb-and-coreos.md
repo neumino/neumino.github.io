@@ -148,3 +148,7 @@ Two things to finish this article:
 1. Thanks to [@atnnn](https://github.com/atnnn) for helping me with some bash issues
 and [Jessie](https://twitter.com/jessskuo) for proofreading my Frenglish.
 2. Questions? Suggestions? Ping me on Twitter: [@neumino](https://twitter.com/neumino).
+
+_Edit_: dividuum on Hacker News pointed out that the private networking on Digital Ocean
+was not restricting other droplets from connecting to the cluster. I will follow up
+with another post to run some iptables commands to make sure that the cluster is safe.
