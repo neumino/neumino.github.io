@@ -25,7 +25,7 @@ RethinkDB is development friendly.
 - RethinkDB is schemaless. 
   - Flexible schemas are like dynamically typed languages. They
 are easier to learn, faster to bootstrap with.  
-  - No schema means no migration to update a schema.
+  - No schema means no migration is needed to update a schema.
 
 - [ReQL](http://rethinkdb.com/docs/introduction-to-reql/) (RethinkDB Query
 Language) is embedded in the host language, meaning no more SQL strings or
@@ -37,8 +37,8 @@ end up with a chainable query language:
         .update({name: "Michel"}).run(connection);
     ```
 
-- RethinkDB has efficient/distributed server-side joins. Nested structures is a [poor answer](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/)
-for many-to-many relations, which appear as soon as you try to
+- RethinkDB has efficient and distributed server-side joins. Nested structures are a [poor answer](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/)
+for many-to-many relations, a situation that appears as soon as you try to
 model a social network with users having friends.
 
 - Setting up shards and replicas is a matter of a few clicks on a gorgeous and
