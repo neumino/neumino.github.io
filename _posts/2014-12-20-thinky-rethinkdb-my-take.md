@@ -45,7 +45,7 @@ model a social network with users having friends.
 friendly web interface that natively ships with the server.
 
 - RethinkDB provides an easy way to push changes to clients -- broadcasting all the
-changes on the table `data` is as simple as:
+changes on the table `data` is as simple as this:
 
     ```js
     var sockets = []; // All your SockJS connections
@@ -61,7 +61,7 @@ changes on the table `data` is as simple as:
 
     While [Meteor](https://www.meteor.com/) and [Firebase](https://www.firebase.com/)
     are hooked on MongoDB operation logs and [Asana](https://asana.com) built
-    their famous [Luna](https://asana.com/luna) Framework on [Kraken](https://github.com/Asana/kraken)
+    their famous [Luna](https://asana.com/luna) Framework on top of [Kraken](https://github.com/Asana/kraken)
     (their distributed pubsub server), it is hard and complicated to build such
     systems. RethinkDB provides this real-time feature at no additional cost,
     without locking you to a whole stack.
@@ -84,7 +84,7 @@ network errors
 
     ```js
     Users.get("67dc69ae-e235-4f55-a71b-6b87fe4df894").run().then(function(user) {
-      // ...
+      // do something with `user`
     }).error(...)
     ```
 
@@ -110,10 +110,10 @@ server are still available, as are inner queries.
 
     ```js
     // Return the grown up friends'id of a user.
-    User.get("67dc69ae-e235-4f55-a71b-6b87fe4df894").do(function(user) {
-      return user("friend_ids").filter(function(friend_id) {
-        return Users.get("friend_id")("age").gt(18);
-      });
+    User.get("67dc69ae-e235-4f55-a71b-6b87fe4df894")("friend_ids")
+        .filter(function(friend_id) {
+          return Users.get("friend_id")("age").gt(18);
+        });
     }).execute().then(function(friend_ids) {
       // ...
     }).error(...)
@@ -150,7 +150,7 @@ like [HBase](http://hbase.apache.org/).
 - Operations on large clusters for RethinkDB do not [properly scale](http://rethinkdb.com/stability/);
 this seems to be [fixed](https://github.com/rethinkdb/rethinkdb/issues/3198)
 and should be released in the next version. Small clusters are pretty stable and
-the majority of you probably do not need more.
+the majority of you probably do not bigger clusters.
 - If you only need a key-value store, in my opinion [Cassandra](http://cassandra.apache.org/)
 is a pretty good one.
 
@@ -158,16 +158,16 @@ That being said, if you are building a common web application (i.e Yelp, Feedly,
 you probably have a lot to gain from using RethinkDB.
 
 **Should you use thinky?**  
-If you use RethinkDB and Node.js, yes. Thinky works in harmony with RethinkDB to make writing code easier and
-faster by doing common things like validation. 
+If you use RethinkDB and Node.js, yes. Thinky works in harmony with RethinkDB
+to make writing code easier and faster by doing common things like validation. 
 
-It is easy to learn if you know ReQL since the syntaxes are almost the same.
+It is easy to learn if you know ReQL since the syntaxes are almost [the same](https://github.com/neumino/thinky/blob/3b4aa9d0fc120c5d99b438328204a3acfa799d1a/lib/query.js#L375).
 Despite being simple, thinky is a powerful library:
 
 - Custom validations let you leverage all the power
 of libraries like [validator](https://github.com/chriso/validator.js).
-- [Hooks](http://thinky.io/documentation/api/model/#pre) let you use powerful
-API like [Mailgun's API](http://documentation.mailgun.com/api-email-validation.html#email-validation)
+- [Asynchronous hooks](http://thinky.io/documentation/api/model/#pre) let you use powerful
+API like [Mailgun's one](http://documentation.mailgun.com/api-email-validation.html#email-validation)
 for email verification.
 
 Give it a shot, and if you have feedback/suggestions, open an issue on [GitHub](https://github.com/neumino/thinky/issues/new),
