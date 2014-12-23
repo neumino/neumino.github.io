@@ -22,10 +22,9 @@ describing RethinkDB would be pretty hard. RethinkDB wrote an interesting
 where it stands. My thoughts on the subject are similar but slightly different:
 RethinkDB is development friendly.
 
-- RethinkDB is schemaless. 
-  - Flexible schemas are like dynamically typed languages. They
-are easier to learn, faster to bootstrap with.  
-  - No schema means no migration is needed to update a schema.
+- RethinkDB is schemaless. A schemaless database is like a dynamic programming
+language; they are both easier to learn and allow for faster bootstrapping.
+Additionally, changing the format of your data doesn’t require any migration.
 
 - [ReQL](http://rethinkdb.com/docs/introduction-to-reql/) (RethinkDB Query
 Language) is embedded in the host language, meaning no more SQL strings or
@@ -41,8 +40,8 @@ end up with a chainable query language:
 for many-to-many relations, a situation that appears as soon as you try to
 model a social network with users having friends.
 
-- Setting up shards and replicas is a matter of a few clicks on a gorgeous and
-friendly web interface that is natively shipped with the server.
+- RethinkDB can set up shards and replicas with just a few clicks on a gorgeous and
+friendly web interface that natively ships with the server.
 
 - RethinkDB provide an easy way to push changes to clients. Broadcasting all the
 changes on the table `data` is as simple as:
