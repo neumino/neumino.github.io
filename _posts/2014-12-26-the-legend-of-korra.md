@@ -27,5 +27,5 @@ or one day quote *The Legend of Korra* in an argument about social inequalities,
 this cartoon is still for them a first exposure to some of today sensitive topics.
 Hopefully it will help them open their mind.
 
-It was definitively worth my time. The [tumblr of Bryan Konietzko](http://bryankonietzko.tumblr.com/)
+It was definitively worth my time. The [Bryan Konietzko's tumblr](http://bryankonietzko.tumblr.com/)
 is also quite interesting to read.
