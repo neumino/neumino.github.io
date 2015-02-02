@@ -108,3 +108,5 @@ var Adults = Users.filter(function(user) { return user("age").gt(18) });
 Adults.update({isAdult: true}).run().then(...).error(...);
 Adults.filter({location: "US"}).run().then(...).error(...);
 ```
+
+_Note 2_: The anonymous function that get immediately called is not optional.
