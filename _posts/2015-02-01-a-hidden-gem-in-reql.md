@@ -2,7 +2,7 @@
 layout: post
 category : Geek
 tags : [rethinkdb, rethinkdbdash, thinky, extend, orm]
-title: "A hidden gem in ReQL - How to replicate ReQL API"
+title: "Replicate ReQL API in your own classes"
 ---
 {% include JB/setup %}
 
@@ -12,9 +12,9 @@ you do not have to concatenate (and escape) SQL strings, or build JSON
 objects with some special keys. Your queries are plain JavaScript.
 
 
-For example, using `rethinkdbdash`, you can update all the users that are
-at least 18 years old with a field `isAdult` set to `true`. One way to write
-the query is:
+For example, using `rethinkdbdash`, updating all the users that are
+at least 18 years old with a field `isAdult` set to `true` can be written
+like this:
 
 ```js
 var promise = r.table('users').filter(function(user) {
