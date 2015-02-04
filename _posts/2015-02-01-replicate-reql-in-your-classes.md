@@ -14,7 +14,7 @@ objects with some special keys; your queries are plain JavaScript.
 
 For example with [rethinkdbdash](https://github.com/neumino/rethinkdbdash),
 updating all the users that are at least 18 years old with a field `isAdult`
-set to `true`, can be written like this:
+set to `true`, can be written like this[1]:
 
 ```js
 var promise = r.table('users').filter(function(user) {
@@ -151,3 +151,5 @@ var promise = Users.filter({location: "UK"}).isAdult().run();
 
 Questions? Feedback? Shoot me a mail at [orphee@gmail.com](mailto:orphee@gmail.com)
 or ping me on Twitter [@neumino](https://twitter.com/neumino)
+
+[1]Read more about how anonymous function are serialized on this [blog post](http://rethinkdb.com/blog/lambda-functions/)
