@@ -31,9 +31,9 @@ you with suggestions and auto-completion, making learning ReQL easy and fun.
 But this is not the only advantage of having an embedded chainable language;
 you can import the query language in your own classes by just copying
 the commands. This is what [thinky](https://thinky.io) (a Node.js ORM)
-does and this has three benefits:
+does and this has multiple benefits:
 
-- It is easy to do; it is way easier than implementing your own methods to query the database.
+- It is easy to do and require very little work.
 - Because the API is the same, the learning curve is a [Heaviside step](http://en.wikipedia.org/wiki/Heaviside_step_function).
 
 This article explains how to replicate ReQL API using rethinkdbdash. The same
@@ -89,7 +89,7 @@ not need relations, hooks etc.) you can easily replicate the same API.
 
 ### Define your own ReQL methods
 
-You can define methods on `Users` by simply adding them in `Users.prototype`, but
+You can also define methods on `Users` by simply adding them in `Users.prototype`, but
 you can also create your own methods on the queries by wrapping the ReQL queries:
 
 ```js
@@ -103,8 +103,8 @@ function Query(query) {
 for(var key in Term) {
   (function(key) {
     if (key === "run") {
-      // We want to return the promise returned by the ReQL query here
       Query.prototype[key] = function() {
+        // We want to return the promise returned by the ReQL query here
         return this._query.run.apply(this._query, arguments));
       }
     } else {
@@ -122,9 +122,9 @@ for(var key in Term) {
 
 A few notes about this code:
 
-- You can copy all the methods on `Query.prototyp` except `run` since for this
-method you actually want to return the promise, not a wrapper around it.
-- Each method returns a new Query object to enable to fork queries:
+- You can copy all the methods on `Query.prototype` except `run` since for this
+method you want to return the promise itself.
+- Each method returns a new `Query` object to enable forking:
 
 ```js
 var Adults = Users.filter(function(user) { return user("age").gt(18) });
@@ -132,7 +132,7 @@ Adults.update({isAdult: true}).run().then(...).error(...);
 Adults.filter({location: "US"}).run().then(...).error(...);
 ```
 
-You can now for example define your own methods:
+This is it! You can now define your own methods:
 
 ```js
 Query.prototype.isAdult = function() {
@@ -148,3 +148,6 @@ User.prototype.isAdult = function() {
 // Retrieve all the adults
 var promise = Users.filter({location: "UK"}).isAdult().run();
 ```
+
+Questions? Feedback? Shoot me a mail at [orphee@gmail.com](mailto:orphee@gmail.com)
+or ping me on Twitter [@neumino](https://twitter.com/neumino)
