@@ -142,5 +142,5 @@ or ping me on Twitter [@neumino](https://twitter.com/neumino)
 _Note about streams_: `null` values are currently silently dropped from streams
 as in `objectMode`, a `null` value means the end of the stream.
 
-_Note_: `toStream` was added in rethinkdbdash 1.16.4. The argument `{stream: true}` has
+_Note_: The `toStream` command was added in rethinkdbdash 1.16.4. The argument `{stream: true}` has
 been deprecated.
