@@ -25,8 +25,7 @@ and the official driver.
 ### Support for Node.js streams
 
 One of the new feature in rethinkdbdash is the support for [Node.js streams](http://nodejs.org/api/stream.html).
-By importing the driver with `{stream: true}`, sequences 
-will be returned as Node.js streams (instead of arrays or cursors). For example, you can pipe a stream to a file.
+You can retrieve a stream with the synchronous method `toStream`.
 
 ```js
 // Create a transform stream that will convert data to a string
@@ -43,13 +42,11 @@ stringifier._transform = function (data, encoding, done) {
 var fs = require('fs');
 var file = fs.createWriteStream('result.txt');
 
-var r = require('rethinkdbdash')({stream: true});
-r.table("data").then(function(stream) {
-    // Pipe the data to the file through stringifier
-    stream.pipe(stringifier).pipe(file);
-}).error(function(error) {
-    // Handle error
-});
+var r = require('rethinkdbdash')();
+// Pipe the data to the file through stringifier
+r.table("data").toStream()
+    .pipe(stringifier)
+    .pipe(file);
 ```
 
 ### Optional run
@@ -144,3 +141,6 @@ or ping me on Twitter [@neumino](https://twitter.com/neumino)
 
 _Note about streams_: `null` values are currently silently dropped from streams
 as in `objectMode`, a `null` value means the end of the stream.
+
+_Note_: `toStream` was added in rethinkdbdash 1.16.4. The argument `{stream: true}` has
+been deprecated.
