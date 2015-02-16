@@ -10,7 +10,7 @@ I recently implemented writable and transform [streams](nodejs.org/api/stream.ht
 Importing a file to a [RethinkDB](http://rethinkdb.com) table is now as simple as piping a
 [Readable](http://nodejs.org/api/stream.html#stream_class_stream_readable) stream into a
 [Writable](http://nodejs.org/api/stream.html#stream_class_stream_writable) one.
-The constraints for the implementation are:
+The constraints for the implementation were:
 
 - Insert documents in order (first in, first written).
 - Insert documents in batch of at most `highWaterMark` documents.
@@ -23,8 +23,8 @@ to efficiently batching operations.
 
 Let's first look at the [API](http://nodejs.org/api/stream.html#stream_class_stream_writable_1)
 for Writable streams. We have to implement `writable._write(chunk, encoding, done)`.
-In rethinkdbdash case, we want to insert documents, so the stream are created in `objectMode`
-so `chunk` is one document, `encoding` is not relevant, and `done` is to be called when we are done
+In rethinkdbdash case, we want to insert documents, so the stream are created in `objectMode`;
+`chunk` is one document, `encoding` is not relevant, and `done` is to be called when we are done
 processing the supplied document.
 
 A basic implementation would be:
@@ -248,8 +248,8 @@ can always call `done` after `insert` in an attempt to buffer more incoming data
 but as far as I can tell, moving `_write` in the call stack is also required for a better
 flow.
 
-Thankfully, the API for Node.js streams is still tagged as `unstable`, and hopefully the API will
-become more friendly for use cases similar to the one I had to implement for rethinkdbdash.
+The API for Node.js streams is still tagged as `unstable`, so hopefully the API will
+become more friendly for the use cases similar to the one described here.
 
 Questions? Feedback? Shoot me a mail at [orphee@gmail.com](mailto:orphee@gmail.com)
 or ping me on Twitter [@neumino](https://twitter.com/neumino)
