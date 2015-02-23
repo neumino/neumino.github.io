@@ -22,9 +22,9 @@ streams that support buffering (with `_flush`) behave poorly when it comes
 to efficiently batching operations.
 
 Let's first look at the [API](http://nodejs.org/api/stream.html#stream_class_stream_writable_1)
-for Writable streams. We have to implement `writable._write(chunk, encoding, done)`.
+for Writable streams. We have to implement `writable._write(value, encoding, done)`.
 In rethinkdbdash case, we want to insert documents, so the stream are created in `objectMode`;
-`chunk` is one document, `encoding` is not relevant, and `done` is to be called when we are done
+`value` is one document, `encoding` is not relevant, and `done` is to be called when we are done
 processing the supplied document.
 
 A basic implementation would be:
@@ -43,7 +43,7 @@ function WritableStream(table) {
 }
 
 WritableStream.prototype._write = function(value, encoding, done) {
-  r.table(this._table).insert(chunk).run().then(function(result) {
+  r.table(this._table).insert(value).run().then(function(result) {
     done();
   }).error(done);
 }
@@ -55,8 +55,8 @@ of `Writable` streams in Node.js, a `Writable` streams has an internal buffer im
 (since 0.12 - see the relevant [pull request](https://github.com/joyent/node/pull/8826)), and you can access the
 last element of this list via [stream._writableState.lastBufferRequest](https://github.com/joyent/node/blob/v0.12.0-release/lib/_stream_writable.js#L115).
 
-So what we can do is look at the current `chunk` we are processing, check if it is the same as
-the last available chunk in the internal buffer and from here:
+So what we can do is look at the current `value` we are processing, check if it is the same as
+the last available value in the internal buffer and from here:
 
 - just call `done` to keep buffering if there is more data available
 - flush what we have if there is nothing more in the internal buffer.
@@ -78,8 +78,8 @@ function WritableStream(table) {
   });
 }
 
-WritableStream.prototype._write = function(chunk, encoding, done) {
-  this._cache.push(chunk);
+WritableStream.prototype._write = function(value, encoding, done) {
+  this._cache.push(value);
 
   if ((this._writableState.lastBufferedRequest != null) &&
       (this._writableState.lastBufferedRequest.chunk !== value)) {
@@ -100,9 +100,9 @@ WritableStream.prototype._write = function(chunk, encoding, done) {
 }
 
 WritableStream.prototype._insert = function(done) {
-  var chunks = this._cache;
+  var values = this._cache;
   this._cache = [];
-  r.table(this.table).insert(chunks).run().then(function(result) {
+  r.table(this.table).insert(values).run().then(function(result) {
     done();
   }).error(done);
 }
