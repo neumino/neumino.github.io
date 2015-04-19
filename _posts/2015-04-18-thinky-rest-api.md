@@ -39,7 +39,7 @@ The model has 4 fields:
 - `createdAt`: the date at which the user was created.
 
 The table will be automatically created under the hood. If you immediately fire
-queries while the model has not created a table yet, the queries will be queued.
+queries while the table is not ready, the queries will be queued.
 
 
 II. _Insert a new user_
