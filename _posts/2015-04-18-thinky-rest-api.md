@@ -49,6 +49,7 @@ function insert(request, response, next) {
   var user = new User(request.body);
 
   user.save().then(function(result) {
+    // user === result
     res.send(JSON.stringify(result));
   }).error(function(error) {
     // Duplicate primary key, not valid document, network errors etc.
