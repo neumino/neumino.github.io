@@ -8,7 +8,7 @@ title: "On building a REST API with thinky"
 
 ReQL is an incredibly powerful beast, and thinky wields most of its power
 by using the exact same API. While thinky can be used like classic ORMs
-like mongoose, it is a shame to miss some really nice features of thinky.
+like mongoose, it is a shame to miss some of its really nice features.
 
 This article describes how to build the thinky part of a REST API for Express,
 and hopefully is the first of a serie that will showcase what thinky can do. This
