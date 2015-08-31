@@ -1,8 +1,8 @@
 ---
 layout: post
 category : Geek
-tags : [archlinux, ovh, kimsufi]
-title: Archlinux on a OVH kimsufi server
+tags : [archlinux, qualcomm, atheros AR8161, bug]
+title: Losing connectivity after a Chrome/Firefox request. 
 ---
 {% include JB/setup %}
 
