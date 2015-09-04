@@ -2,7 +2,7 @@
 layout: post
 category : Geek
 tags : [archlinux, qualcomm, atheros AR8161, bug]
-title: Losing connectivity after a Chrome/Firefox request. 
+title: Losing connectivity after a Chrome request. 
 ---
 {% include JB/setup %}
 
