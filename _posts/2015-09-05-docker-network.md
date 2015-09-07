@@ -19,4 +19,4 @@ without internet access. The main problem was that I was not part of the `networ
 sudo usermod -aG network <user>
 ```
 
-Then things went smoothly from here.
+Then things went smoothly.
