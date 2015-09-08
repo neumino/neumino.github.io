@@ -14,7 +14,7 @@ transported in Docker containers, and steered by CoreOS._
 servers. However, running a [RethinkDB](http://rethinkdb.com) cluster on CoreOS is a bit more
 complicated than running multiple Nginx servers with a load balancer since a RethinkDB
 instance must be given at least one server to join. This article illustrates one way,
-hopefully the right way, to do it on [Digital Ocean](https://digitalocean.com).
+hopefully the right way, to do it on [Digital Ocean](https://www.digitalocean.com/?refcode=51c7697c943e).
 
 
 First, set up a fleet (or sub-fleet) of CoreOS machines; in this example, we will
