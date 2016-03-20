@@ -2,7 +2,7 @@
 layout: post
 category : Geek
 tags : [grpc, certificate]
-title: Certificates for GRPC
+title: Certificates for GRPC with TLS
 ---
 {% include JB/setup %}
 
