@@ -7,6 +7,7 @@ title: Lightdm on a specific monitor
 {% include JB/setup %}
 
 I formatted my workstation yesterday to get rid of Windows for a few reasons:
+
 - The prompt for Windows 10 was too annoying and impossible to remove.
 Considering that installing Windows 10 would have blown my dual boot away, and
 that I would have to set up my dual boot again, I just went for removing Windows.
