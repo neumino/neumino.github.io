@@ -146,3 +146,7 @@ footer a{
 blockquote p{
     font-size: 14px;
 }
+
+.adhr {
+  border-bottom: 1px dotted #999;
+}
