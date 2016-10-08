@@ -5,213 +5,189 @@ title: Recent movies in theater
 ## In theater
 
 
+	
+
+### Miss Peregrine&#39;s Home for Peculiar Children
+*Released on 2016-09-28, vote average 6.23*
+
+A teenager finds himself transported to an island where he must help protect a group of orphans with special powers from creatures intent on destroying them.
+
+		
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="http://www.youtube.com/embed/DN1uhnnKscY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"></iframe>
+		
+	
+
+	
+
+### Deepwater Horizon
+*Released on 2016-09-28, vote average 4.22*
+
+A story set on the offshore drilling rig Deepwater Horizon, which exploded during April 2010 and created the worst oil spill in U.S. history.
+
+		
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="http://www.youtube.com/embed/8yASbM8M2vg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"></iframe>
+		
+	
+
+	
+
 ### The Girl on the Train
-*released on 2016-10-06, vote average 4.53*
+*Released on 2016-10-06, vote average 4.53*
 
 Rachel Watson, an alcoholic who divorced her husband Tom after she caught him cheating on her, takes the train to work daily. She fantasizes about the relationship of her neighbours, Scott and Megan Hipwell, during her commute. That all changes when she witnesses something from the train window and Megan is missing, presumed dead.
 
-
-<iframe id="player" type="text/html" width="640" height="390"
+		
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
   src="http://www.youtube.com/embed/-CKPj4O5_9s?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"></iframe>
+		
+	
 
-
-
+	
 
 ### The Birth of a Nation
-*released on 2016-10-07, vote average 6.79*
+*Released on 2016-10-07, vote average 6.79*
 
 Nat Turner, a former slave in America, leads a liberation movement in 1831 to free African-Americans in Virgina that results in a violent retaliation from whites.
 
+		
+	
 
+	
 
+### Masterminds
+*Released on 2016-09-29, vote average 5*
 
+A night guard at an armored car company in the Southern U.S. organizes one of the biggest bank heists in American history.
 
-### Luke Warm
-*released on 2016-10-08, vote average 0*
+		
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="http://www.youtube.com/embed/qWDqXbtymgg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"></iframe>
+		
+	
 
-An experiential film told through images of a city at night.
+	
 
+	
 
+	
 
+	
 
-
-### Now: End of Season
-*released on 2016-10-07, vote average 0*
-
-In the cosmopolitan Turkish city of Izmir, thousands of Syrians fleeing Assad, ISIS, and the proxy forces lined up behind them, bide their time, waiting to cross the Aegean Sea. On the soundtrack, voices from a previous war.
-
-
-
-
-
-### Gun Runners
-*released on 2016-10-07, vote average 0*
-
-For years, Julius Arile and Robert Matanda thrive among the bands of warriors that terrorize the North Kenyan countryside. So when both warriors suddenly disappear from the bush, many assume they are dead or have been arrested. Instead, they trade in their rifles for sneakers—in the hopes of making it big as professional marathon runners. Years of fleeing from the police have prepared the men for running marathon distances, but do they have what it takes to overcome the corruption, mistrust and jealousy that threaten to derail their careers?
-
-
-
-
-
-### See a Dog, Hear a Dog
-*released on 2016-10-07, vote average 0*
-
-This tragicomic analysis of communication between humans, animals, and machines was made with original video footage, computer animations, and internet media, including YouTube dog videos, chatbot dialogue windows, and images from iTunes visualizer.
-
-
-
-
+	
 
 ### The King&#39;s Daughter
-*released on 2016-10-07, vote average 7.63*
+*Released on 2016-10-07, vote average 7.63*
 
 King Louis XIV&#39;s quest for immortality leads him to capture and steal a mermaid&#39;s life force, a move that is further complicated by his illegitimate daughter&#39;s discovery of the creature.
 
+		
+	
 
-
-
+	
 
 ### Middle School: The Worst Years of My Life
-*released on 2016-10-07, vote average 3.5*
+*Released on 2016-10-07, vote average 3.5*
 
 A quiet teenage artist Rafe Katchadorian has a wild imagination and is sick of middle school and the rules that have been put before him. Rafe and his best friend Leo have come up with a plan: break every rule in the school hand book and as you expect trouble follows.
 
-
-<iframe id="player" type="text/html" width="640" height="390"
+		
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
   src="http://www.youtube.com/embed/VahiV9JHFl8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"></iframe>
+		
+	
 
+	
 
+	
 
-
-### Steve Hates Fish
-*released on 2016-10-07, vote average 0*
-
-Recorded from a smartphone screen, its translation app running on the wrong settings and struggling to interpret North London street signs in French and convert them to English, Steve Hates Fish turns errors into unintentional poetry.
-
-
-
-
-
-### Mission Milano
-*released on 2016-10-07, vote average 0*
-
-Interpol partners with a wealthy entrepreneur to protect a new invention dubbed The Seed of God.
-
-
-
-
+	
 
 ### 13th
-*released on 2016-10-07, vote average 10*
+*Released on 2016-10-07, vote average 10*
 
 An in-depth look at the prison system in the United States and how it reveals the nation&#39;s history of racial inequality.
 
-
-<iframe id="player" type="text/html" width="640" height="390"
+		
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
   src="http://www.youtube.com/embed/V66F3WU2CKk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"></iframe>
+		
+	
 
+	
 
-
-
-### Dan and Phil&#39;s Story of TATINOF
-*released on 2016-10-05, vote average 0*
-
-The behind-the-scenes story of Dan and Phil’s adventure on tour! An intimate and epic documentary film chronicling everything from creating their stage show, to life on the road and reflecting back on it’s legacy.
-
-
-
-
+	
 
 ### Beyond Valkyrie: Dawn of the 4th Reich
-*released on 2016-10-03, vote average 3.13*
+*Released on 2016-10-03, vote average 3.13*
 
 Near the end of World War II, American and British Special Forces must extract a resistance fighter behind Nazi lines.
 
+		
+	
 
-
-
+	
 
 ### Better Off Single
-*released on 2016-10-07, vote average 4.25*
+*Released on 2016-10-07, vote average 4.25*
 
 A comedy that follows a man on a mission of self-discovery that results in hallucinations, flashbacks and fantasies in his quest to find new love and himself.
 
-
-<iframe id="player" type="text/html" width="640" height="390"
+		
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
   src="http://www.youtube.com/embed/o0ESIeFZ0fs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"></iframe>
+		
+	
 
+	
 
+	
 
-
-### The Stairs
-*released on 2016-10-07, vote average 0*
-
-Shot over the course of several years, Hugh Gibson’s profoundly affecting and compassionate documentary examines the lives of habitual drug users in Toronto’s Regent Park.
-
-
-
-
-
-### Voyage of Time: The IMAX Experience
-*released on 2016-10-07, vote average 0*
-
-A celebration of the universe, displaying the whole of time, from its start to its final collapse. This film examines all that occurred to prepare the world that stands before us now: science and spirit, birth and death, the grand cosmos and the minute life systems of our planet. (Limited release IMAX version with narration by Brad Pitt.)
-
-
-
-
+	
 
 ### A Monster Calls
-*released on 2016-10-07, vote average 4.89*
+*Released on 2016-10-07, vote average 4.89*
 
 A boy attempts to deal with his mother&#39;s illness and the bullying of his classmates by escaping to a fantastical world.
 
-
-<iframe id="player" type="text/html" width="640" height="390"
+		
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
   src="http://www.youtube.com/embed/uW_GNKVuZ1c?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"></iframe>
-
-
-
-
-### Осінні спогади
-*released on 2016-10-06, vote average 0*
-
-
-
-
-
-
-
-### The Greasy Strangler
-*released on 2016-10-07, vote average 8.33*
-
-The Los Angeles-set tale follows Ronnie, a man who runs a Disco Walking tour along with his browbeaten son, Brayden. When a sexy, alluring woman comes to take the tour, it begins a competition between father and son for her attentions. It also signals the appearance of an oily, slimy inhuman maniac who stalks the streets at night and strangles the innocent, soon dubbed ‘The Greasy Strangler.’
-
-
-<iframe id="player" type="text/html" width="640" height="390"
-  src="http://www.youtube.com/embed/eFYwz24ii4w?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"></iframe>
-
-
-
-
-### In Dubious Battle
-*released on 2016-10-08, vote average 4.25*
-
-In the California apple country, nine hundred migratory workers rise up &#34;in dubious battle&#34; against the landowners. The group takes on a life of its own-stronger than its individual members and more frightening. Led by the doomed Jim Nolan, the strike is founded on his tragic idealism-on the &#34;courage never to submit or yield.&#34; Published in 1936, In Dubious Battle is considered the first major work of Pulitzer Prize-winning author John Steinbeck.
-
-
-<iframe id="player" type="text/html" width="640" height="390"
-  src="http://www.youtube.com/embed/JLJM9uTS8Nw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"></iframe>
-
-
-
+		
+	
 
 
 ### Opening soon
