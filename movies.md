@@ -1,1 +1,4 @@
-template.md
+### In theater
+Nothing
+
+### Opening soon
