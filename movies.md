@@ -312,8 +312,7 @@ Lovable and friendly, the trolls love to play around. But one day, a mysterious 
 
 ## Acknowledgements
 
-This page is built using the [themoviedb.org](https://themoviedb.org) API.
-
+This page uses the [TMDb](https://themoviedb.org)API but is not endorsed or certified by TMDb.
 <img src="https://www.themoviedb.org/assets/c9dbe2292fb5eea61788571fbd96fa67/images/v4/logos/208x226-stacked-blue.png"
 	width="100"
 	height="109"/>
