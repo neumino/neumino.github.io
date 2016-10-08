@@ -3,10 +3,8 @@ layout: page
 title: Recent movies in theater
 ---
 
-## Background
-
 This is a convenient page that embeds trailers of movies released in the past
-14 days. The page is automatically generated every day.
+14 days. The page is automatically generated every day by a little elf.
 
 ## In theater
 
