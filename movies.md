@@ -29,7 +29,7 @@ https://www.youtube.com/watch?v=-CKPj4O5_9s
   
   var player;
   function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player' 346685 , {
+    player = new YT.Player('player346685', {
       height: '390',
       width: '640',
       videoId: '-CKPj4O5_9s',
@@ -58,7 +58,7 @@ https://www.youtube.com/watch?v=
   
   var player;
   function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player' 339408 , {
+    player = new YT.Player('player339408', {
       height: '390',
       width: '640',
       videoId: '',
@@ -87,7 +87,7 @@ https://www.youtube.com/watch?v=
   
   var player;
   function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player' 419961 , {
+    player = new YT.Player('player419961', {
       height: '390',
       width: '640',
       videoId: '',
@@ -116,7 +116,7 @@ https://www.youtube.com/watch?v=
   
   var player;
   function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player' 419726 , {
+    player = new YT.Player('player419726', {
       height: '390',
       width: '640',
       videoId: '',
@@ -145,7 +145,7 @@ https://www.youtube.com/watch?v=
   
   var player;
   function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player' 412734 , {
+    player = new YT.Player('player412734', {
       height: '390',
       width: '640',
       videoId: '',
@@ -174,7 +174,7 @@ https://www.youtube.com/watch?v=
   
   var player;
   function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player' 419729 , {
+    player = new YT.Player('player419729', {
       height: '390',
       width: '640',
       videoId: '',
@@ -203,7 +203,7 @@ https://www.youtube.com/watch?v=
   
   var player;
   function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player' 245842 , {
+    player = new YT.Player('player245842', {
       height: '390',
       width: '640',
       videoId: '',
@@ -232,7 +232,7 @@ https://www.youtube.com/watch?v=VahiV9JHFl8
   
   var player;
   function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player' 369883 , {
+    player = new YT.Player('player369883', {
       height: '390',
       width: '640',
       videoId: 'VahiV9JHFl8',
@@ -261,7 +261,7 @@ https://www.youtube.com/watch?v=
   
   var player;
   function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player' 419724 , {
+    player = new YT.Player('player419724', {
       height: '390',
       width: '640',
       videoId: '',
@@ -290,7 +290,7 @@ https://www.youtube.com/watch?v=
   
   var player;
   function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player' 419544 , {
+    player = new YT.Player('player419544', {
       height: '390',
       width: '640',
       videoId: '',
@@ -319,7 +319,7 @@ https://www.youtube.com/watch?v=V66F3WU2CKk
   
   var player;
   function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player' 407806 , {
+    player = new YT.Player('player407806', {
       height: '390',
       width: '640',
       videoId: 'V66F3WU2CKk',
@@ -348,7 +348,7 @@ https://www.youtube.com/watch?v=
   
   var player;
   function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player' 419222 , {
+    player = new YT.Player('player419222', {
       height: '390',
       width: '640',
       videoId: '',
@@ -377,7 +377,7 @@ https://www.youtube.com/watch?v=
   
   var player;
   function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player' 412467 , {
+    player = new YT.Player('player412467', {
       height: '390',
       width: '640',
       videoId: '',
@@ -406,7 +406,7 @@ https://www.youtube.com/watch?v=o0ESIeFZ0fs
   
   var player;
   function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player' 333358 , {
+    player = new YT.Player('player333358', {
       height: '390',
       width: '640',
       videoId: 'o0ESIeFZ0fs',
@@ -435,7 +435,7 @@ https://www.youtube.com/watch?v=
   
   var player;
   function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player' 410211 , {
+    player = new YT.Player('player410211', {
       height: '390',
       width: '640',
       videoId: '',
@@ -464,7 +464,7 @@ https://www.youtube.com/watch?v=
   
   var player;
   function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player' 417198 , {
+    player = new YT.Player('player417198', {
       height: '390',
       width: '640',
       videoId: '',
@@ -493,7 +493,7 @@ https://www.youtube.com/watch?v=uW_GNKVuZ1c
   
   var player;
   function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player' 258230 , {
+    player = new YT.Player('player258230', {
       height: '390',
       width: '640',
       videoId: 'uW_GNKVuZ1c',
@@ -522,7 +522,7 @@ https://www.youtube.com/watch?v=
   
   var player;
   function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player' 419482 , {
+    player = new YT.Player('player419482', {
       height: '390',
       width: '640',
       videoId: '',
@@ -551,7 +551,7 @@ https://www.youtube.com/watch?v=eFYwz24ii4w
   
   var player;
   function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player' 320413 , {
+    player = new YT.Player('player320413', {
       height: '390',
       width: '640',
       videoId: 'eFYwz24ii4w',
@@ -580,7 +580,7 @@ https://www.youtube.com/watch?v=JLJM9uTS8Nw
   
   var player;
   function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player' 337844 , {
+    player = new YT.Player('player337844', {
       height: '390',
       width: '640',
       videoId: 'JLJM9uTS8Nw',
