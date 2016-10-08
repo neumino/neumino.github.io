@@ -23,8 +23,8 @@ https://www.youtube.com/watch?v=-CKPj4O5_9s
 <div id="player346685"></div>
 
 
-<script>
 
+<script>
   
   
   var player;
@@ -32,14 +32,11 @@ https://www.youtube.com/watch?v=-CKPj4O5_9s
     player = new YT.Player('player346685', {
       height: '390',
       width: '640',
-      videoId: '-CKPj4O5_9s',
-      events: {
-        'onReady': onPlayerReady,
-        'onStateChange': onPlayerStateChange
-      }
+      videoId: '-CKPj4O5_9s'
     });
   }
 </script>
+
 
 
 
@@ -52,23 +49,7 @@ https://www.youtube.com/watch?v=
 <div id="player339408"></div>
 
 
-<script>
 
-  
-  
-  var player;
-  function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player339408', {
-      height: '390',
-      width: '640',
-      videoId: '',
-      events: {
-        'onReady': onPlayerReady,
-        'onStateChange': onPlayerStateChange
-      }
-    });
-  }
-</script>
 
 
 
@@ -81,23 +62,7 @@ https://www.youtube.com/watch?v=
 <div id="player419961"></div>
 
 
-<script>
 
-  
-  
-  var player;
-  function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player419961', {
-      height: '390',
-      width: '640',
-      videoId: '',
-      events: {
-        'onReady': onPlayerReady,
-        'onStateChange': onPlayerStateChange
-      }
-    });
-  }
-</script>
 
 
 
@@ -110,23 +75,7 @@ https://www.youtube.com/watch?v=
 <div id="player419726"></div>
 
 
-<script>
 
-  
-  
-  var player;
-  function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player419726', {
-      height: '390',
-      width: '640',
-      videoId: '',
-      events: {
-        'onReady': onPlayerReady,
-        'onStateChange': onPlayerStateChange
-      }
-    });
-  }
-</script>
 
 
 
@@ -139,23 +88,7 @@ https://www.youtube.com/watch?v=
 <div id="player412734"></div>
 
 
-<script>
 
-  
-  
-  var player;
-  function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player412734', {
-      height: '390',
-      width: '640',
-      videoId: '',
-      events: {
-        'onReady': onPlayerReady,
-        'onStateChange': onPlayerStateChange
-      }
-    });
-  }
-</script>
 
 
 
@@ -168,23 +101,7 @@ https://www.youtube.com/watch?v=
 <div id="player419729"></div>
 
 
-<script>
 
-  
-  
-  var player;
-  function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player419729', {
-      height: '390',
-      width: '640',
-      videoId: '',
-      events: {
-        'onReady': onPlayerReady,
-        'onStateChange': onPlayerStateChange
-      }
-    });
-  }
-</script>
 
 
 
@@ -197,23 +114,7 @@ https://www.youtube.com/watch?v=
 <div id="player245842"></div>
 
 
-<script>
 
-  
-  
-  var player;
-  function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player245842', {
-      height: '390',
-      width: '640',
-      videoId: '',
-      events: {
-        'onReady': onPlayerReady,
-        'onStateChange': onPlayerStateChange
-      }
-    });
-  }
-</script>
 
 
 
@@ -226,8 +127,8 @@ https://www.youtube.com/watch?v=VahiV9JHFl8
 <div id="player369883"></div>
 
 
-<script>
 
+<script>
   
   
   var player;
@@ -235,14 +136,11 @@ https://www.youtube.com/watch?v=VahiV9JHFl8
     player = new YT.Player('player369883', {
       height: '390',
       width: '640',
-      videoId: 'VahiV9JHFl8',
-      events: {
-        'onReady': onPlayerReady,
-        'onStateChange': onPlayerStateChange
-      }
+      videoId: 'VahiV9JHFl8'
     });
   }
 </script>
+
 
 
 
@@ -255,23 +153,7 @@ https://www.youtube.com/watch?v=
 <div id="player419724"></div>
 
 
-<script>
 
-  
-  
-  var player;
-  function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player419724', {
-      height: '390',
-      width: '640',
-      videoId: '',
-      events: {
-        'onReady': onPlayerReady,
-        'onStateChange': onPlayerStateChange
-      }
-    });
-  }
-</script>
 
 
 
@@ -284,23 +166,7 @@ https://www.youtube.com/watch?v=
 <div id="player419544"></div>
 
 
-<script>
 
-  
-  
-  var player;
-  function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player419544', {
-      height: '390',
-      width: '640',
-      videoId: '',
-      events: {
-        'onReady': onPlayerReady,
-        'onStateChange': onPlayerStateChange
-      }
-    });
-  }
-</script>
 
 
 
@@ -313,8 +179,8 @@ https://www.youtube.com/watch?v=V66F3WU2CKk
 <div id="player407806"></div>
 
 
-<script>
 
+<script>
   
   
   var player;
@@ -322,14 +188,11 @@ https://www.youtube.com/watch?v=V66F3WU2CKk
     player = new YT.Player('player407806', {
       height: '390',
       width: '640',
-      videoId: 'V66F3WU2CKk',
-      events: {
-        'onReady': onPlayerReady,
-        'onStateChange': onPlayerStateChange
-      }
+      videoId: 'V66F3WU2CKk'
     });
   }
 </script>
+
 
 
 
@@ -342,23 +205,7 @@ https://www.youtube.com/watch?v=
 <div id="player419222"></div>
 
 
-<script>
 
-  
-  
-  var player;
-  function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player419222', {
-      height: '390',
-      width: '640',
-      videoId: '',
-      events: {
-        'onReady': onPlayerReady,
-        'onStateChange': onPlayerStateChange
-      }
-    });
-  }
-</script>
 
 
 
@@ -371,23 +218,7 @@ https://www.youtube.com/watch?v=
 <div id="player412467"></div>
 
 
-<script>
 
-  
-  
-  var player;
-  function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player412467', {
-      height: '390',
-      width: '640',
-      videoId: '',
-      events: {
-        'onReady': onPlayerReady,
-        'onStateChange': onPlayerStateChange
-      }
-    });
-  }
-</script>
 
 
 
@@ -400,8 +231,8 @@ https://www.youtube.com/watch?v=o0ESIeFZ0fs
 <div id="player333358"></div>
 
 
-<script>
 
+<script>
   
   
   var player;
@@ -409,14 +240,11 @@ https://www.youtube.com/watch?v=o0ESIeFZ0fs
     player = new YT.Player('player333358', {
       height: '390',
       width: '640',
-      videoId: 'o0ESIeFZ0fs',
-      events: {
-        'onReady': onPlayerReady,
-        'onStateChange': onPlayerStateChange
-      }
+      videoId: 'o0ESIeFZ0fs'
     });
   }
 </script>
+
 
 
 
@@ -429,23 +257,7 @@ https://www.youtube.com/watch?v=
 <div id="player410211"></div>
 
 
-<script>
 
-  
-  
-  var player;
-  function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player410211', {
-      height: '390',
-      width: '640',
-      videoId: '',
-      events: {
-        'onReady': onPlayerReady,
-        'onStateChange': onPlayerStateChange
-      }
-    });
-  }
-</script>
 
 
 
@@ -458,23 +270,7 @@ https://www.youtube.com/watch?v=
 <div id="player417198"></div>
 
 
-<script>
 
-  
-  
-  var player;
-  function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player417198', {
-      height: '390',
-      width: '640',
-      videoId: '',
-      events: {
-        'onReady': onPlayerReady,
-        'onStateChange': onPlayerStateChange
-      }
-    });
-  }
-</script>
 
 
 
@@ -487,8 +283,8 @@ https://www.youtube.com/watch?v=uW_GNKVuZ1c
 <div id="player258230"></div>
 
 
-<script>
 
+<script>
   
   
   var player;
@@ -496,14 +292,11 @@ https://www.youtube.com/watch?v=uW_GNKVuZ1c
     player = new YT.Player('player258230', {
       height: '390',
       width: '640',
-      videoId: 'uW_GNKVuZ1c',
-      events: {
-        'onReady': onPlayerReady,
-        'onStateChange': onPlayerStateChange
-      }
+      videoId: 'uW_GNKVuZ1c'
     });
   }
 </script>
+
 
 
 
@@ -516,23 +309,7 @@ https://www.youtube.com/watch?v=
 <div id="player419482"></div>
 
 
-<script>
 
-  
-  
-  var player;
-  function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player419482', {
-      height: '390',
-      width: '640',
-      videoId: '',
-      events: {
-        'onReady': onPlayerReady,
-        'onStateChange': onPlayerStateChange
-      }
-    });
-  }
-</script>
 
 
 
@@ -545,8 +322,8 @@ https://www.youtube.com/watch?v=eFYwz24ii4w
 <div id="player320413"></div>
 
 
-<script>
 
+<script>
   
   
   var player;
@@ -554,14 +331,11 @@ https://www.youtube.com/watch?v=eFYwz24ii4w
     player = new YT.Player('player320413', {
       height: '390',
       width: '640',
-      videoId: 'eFYwz24ii4w',
-      events: {
-        'onReady': onPlayerReady,
-        'onStateChange': onPlayerStateChange
-      }
+      videoId: 'eFYwz24ii4w'
     });
   }
 </script>
+
 
 
 
@@ -574,8 +348,8 @@ https://www.youtube.com/watch?v=JLJM9uTS8Nw
 <div id="player337844"></div>
 
 
-<script>
 
+<script>
   
   
   var player;
@@ -583,14 +357,11 @@ https://www.youtube.com/watch?v=JLJM9uTS8Nw
     player = new YT.Player('player337844', {
       height: '390',
       width: '640',
-      videoId: 'JLJM9uTS8Nw',
-      events: {
-        'onReady': onPlayerReady,
-        'onStateChange': onPlayerStateChange
-      }
+      videoId: 'JLJM9uTS8Nw'
     });
   }
 </script>
+
 
 
 
