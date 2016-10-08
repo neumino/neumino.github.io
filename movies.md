@@ -4,15 +4,6 @@ title: Recent movies in theater
 ---
 ### In theater
 
-<script>
-  
-  var tag = document.createElement('script');
-
-  tag.src = "https://www.youtube.com/iframe_api";
-  var firstScriptTag = document.getElementsByTagName('script')[0];
-  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
-</script>
-
 
 - *The Girl on the Train*, released on 2016-10-06, vote average 4.53
 
@@ -24,18 +15,9 @@ https://www.youtube.com/watch?v=-CKPj4O5_9s
 
 
 
-<script>
-  
-  
-  var player;
-  function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player346685', {
-      height: '390',
-      width: '640',
-      videoId: '-CKPj4O5_9s'
-    });
-  }
-</script>
+<iframe id="player" type="text/html" width="640" height="390"
+  src="http://www.youtube.com/embed/-CKPj4O5_9s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"></iframe>
 
 
 
@@ -128,18 +110,9 @@ https://www.youtube.com/watch?v=VahiV9JHFl8
 
 
 
-<script>
-  
-  
-  var player;
-  function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player369883', {
-      height: '390',
-      width: '640',
-      videoId: 'VahiV9JHFl8'
-    });
-  }
-</script>
+<iframe id="player" type="text/html" width="640" height="390"
+  src="http://www.youtube.com/embed/VahiV9JHFl8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"></iframe>
 
 
 
@@ -180,18 +153,9 @@ https://www.youtube.com/watch?v=V66F3WU2CKk
 
 
 
-<script>
-  
-  
-  var player;
-  function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player407806', {
-      height: '390',
-      width: '640',
-      videoId: 'V66F3WU2CKk'
-    });
-  }
-</script>
+<iframe id="player" type="text/html" width="640" height="390"
+  src="http://www.youtube.com/embed/V66F3WU2CKk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"></iframe>
 
 
 
@@ -232,18 +196,9 @@ https://www.youtube.com/watch?v=o0ESIeFZ0fs
 
 
 
-<script>
-  
-  
-  var player;
-  function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player333358', {
-      height: '390',
-      width: '640',
-      videoId: 'o0ESIeFZ0fs'
-    });
-  }
-</script>
+<iframe id="player" type="text/html" width="640" height="390"
+  src="http://www.youtube.com/embed/o0ESIeFZ0fs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"></iframe>
 
 
 
@@ -284,18 +239,9 @@ https://www.youtube.com/watch?v=uW_GNKVuZ1c
 
 
 
-<script>
-  
-  
-  var player;
-  function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player258230', {
-      height: '390',
-      width: '640',
-      videoId: 'uW_GNKVuZ1c'
-    });
-  }
-</script>
+<iframe id="player" type="text/html" width="640" height="390"
+  src="http://www.youtube.com/embed/uW_GNKVuZ1c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"></iframe>
 
 
 
@@ -323,18 +269,9 @@ https://www.youtube.com/watch?v=eFYwz24ii4w
 
 
 
-<script>
-  
-  
-  var player;
-  function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player320413', {
-      height: '390',
-      width: '640',
-      videoId: 'eFYwz24ii4w'
-    });
-  }
-</script>
+<iframe id="player" type="text/html" width="640" height="390"
+  src="http://www.youtube.com/embed/eFYwz24ii4w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"></iframe>
 
 
 
@@ -349,18 +286,9 @@ https://www.youtube.com/watch?v=JLJM9uTS8Nw
 
 
 
-<script>
-  
-  
-  var player;
-  function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player337844', {
-      height: '390',
-      width: '640',
-      videoId: 'JLJM9uTS8Nw'
-    });
-  }
-</script>
+<iframe id="player" type="text/html" width="640" height="390"
+  src="http://www.youtube.com/embed/JLJM9uTS8Nw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"></iframe>
 
 
 
