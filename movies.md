@@ -5,7 +5,7 @@
 
 Rachel Watson, an alcoholic who divorced her husband Tom after she caught him cheating on her, takes the train to work daily. She fantasizes about the relationship of her neighbours, Scott and Megan Hipwell, during her commute. That all changes when she witnesses something from the train window and Megan is missing, presumed dead.
 
-https://www.youtube.com/watch?v=
+https://www.youtube.com/watch?v=-CKPj4O5_9s
 
 
 - *The Birth of a Nation*, released on 2016-10-07, vote average 6.79
@@ -54,7 +54,7 @@ https://www.youtube.com/watch?v=
 
 A quiet teenage artist Rafe Katchadorian has a wild imagination and is sick of middle school and the rules that have been put before him. Rafe and his best friend Leo have come up with a plan: break every rule in the school hand book and as you expect trouble follows.
 
-https://www.youtube.com/watch?v=
+https://www.youtube.com/watch?v=VahiV9JHFl8
 
 
 - *Steve Hates Fish*, released on 2016-10-07, vote average 0
@@ -75,7 +75,7 @@ https://www.youtube.com/watch?v=
 
 An in-depth look at the prison system in the United States and how it reveals the nation&#39;s history of racial inequality.
 
-https://www.youtube.com/watch?v=
+https://www.youtube.com/watch?v=V66F3WU2CKk
 
 
 - *Dan and Phil&#39;s Story of TATINOF*, released on 2016-10-05, vote average 0
@@ -96,7 +96,7 @@ https://www.youtube.com/watch?v=
 
 A comedy that follows a man on a mission of self-discovery that results in hallucinations, flashbacks and fantasies in his quest to find new love and himself.
 
-https://www.youtube.com/watch?v=
+https://www.youtube.com/watch?v=o0ESIeFZ0fs
 
 
 - *The Stairs*, released on 2016-10-07, vote average 0
@@ -117,7 +117,7 @@ https://www.youtube.com/watch?v=
 
 A boy attempts to deal with his mother&#39;s illness and the bullying of his classmates by escaping to a fantastical world.
 
-https://www.youtube.com/watch?v=
+https://www.youtube.com/watch?v=uW_GNKVuZ1c
 
 
 - *Осінні спогади*, released on 2016-10-06, vote average 0
@@ -131,14 +131,14 @@ https://www.youtube.com/watch?v=
 
 The Los Angeles-set tale follows Ronnie, a man who runs a Disco Walking tour along with his browbeaten son, Brayden. When a sexy, alluring woman comes to take the tour, it begins a competition between father and son for her attentions. It also signals the appearance of an oily, slimy inhuman maniac who stalks the streets at night and strangles the innocent, soon dubbed ‘The Greasy Strangler.’
 
-https://www.youtube.com/watch?v=
+https://www.youtube.com/watch?v=eFYwz24ii4w
 
 
 - *In Dubious Battle*, released on 2016-10-08, vote average 4.25
 
 In the California apple country, nine hundred migratory workers rise up &#34;in dubious battle&#34; against the landowners. The group takes on a life of its own-stronger than its individual members and more frightening. Led by the doomed Jim Nolan, the strike is founded on his tragic idealism-on the &#34;courage never to submit or yield.&#34; Published in 1936, In Dubious Battle is considered the first major work of Pulitzer Prize-winning author John Steinbeck.
 
-https://www.youtube.com/watch?v=
+https://www.youtube.com/watch?v=JLJM9uTS8Nw
 
 
 
