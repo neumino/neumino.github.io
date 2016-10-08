@@ -1,13 +1,17 @@
+---
+layout: page
+title: Recent movies in theater
+---
 ### In theater
 
-    <script>
-      
-      var tag = document.createElement('script');
+<script>
+  
+  var tag = document.createElement('script');
 
-      tag.src = "https://www.youtube.com/iframe_api";
-      var firstScriptTag = document.getElementsByTagName('script')[0];
-      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
-    </script>
+  tag.src = "https://www.youtube.com/iframe_api";
+  var firstScriptTag = document.getElementsByTagName('script')[0];
+  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+</script>
 
 
 - *The Girl on the Train*, released on 2016-10-06, vote average 4.53
@@ -16,26 +20,26 @@ Rachel Watson, an alcoholic who divorced her husband Tom after she caught him ch
 
 https://www.youtube.com/watch?v=-CKPj4O5_9s
 
-    <div id="player346685"></div>
+<div id="player346685"></div>
 
 
-    <script>
+<script>
 
-      
-      
-      var player;
-      function onYouTubeIframeAPIReady() {
-        player = new YT.Player('player' 346685 , {
-          height: '390',
-          width: '640',
-          videoId: '-CKPj4O5_9s',
-          events: {
-            'onReady': onPlayerReady,
-            'onStateChange': onPlayerStateChange
-          }
-        });
+  
+  
+  var player;
+  function onYouTubeIframeAPIReady() {
+    player = new YT.Player('player' 346685 , {
+      height: '390',
+      width: '640',
+      videoId: '-CKPj4O5_9s',
+      events: {
+        'onReady': onPlayerReady,
+        'onStateChange': onPlayerStateChange
       }
-    </script>
+    });
+  }
+</script>
 
 
 
@@ -45,26 +49,26 @@ Nat Turner, a former slave in America, leads a liberation movement in 1831 to fr
 
 https://www.youtube.com/watch?v=
 
-    <div id="player339408"></div>
+<div id="player339408"></div>
 
 
-    <script>
+<script>
 
-      
-      
-      var player;
-      function onYouTubeIframeAPIReady() {
-        player = new YT.Player('player' 339408 , {
-          height: '390',
-          width: '640',
-          videoId: '',
-          events: {
-            'onReady': onPlayerReady,
-            'onStateChange': onPlayerStateChange
-          }
-        });
+  
+  
+  var player;
+  function onYouTubeIframeAPIReady() {
+    player = new YT.Player('player' 339408 , {
+      height: '390',
+      width: '640',
+      videoId: '',
+      events: {
+        'onReady': onPlayerReady,
+        'onStateChange': onPlayerStateChange
       }
-    </script>
+    });
+  }
+</script>
 
 
 
@@ -74,26 +78,26 @@ An experiential film told through images of a city at night.
 
 https://www.youtube.com/watch?v=
 
-    <div id="player419961"></div>
+<div id="player419961"></div>
 
 
-    <script>
+<script>
 
-      
-      
-      var player;
-      function onYouTubeIframeAPIReady() {
-        player = new YT.Player('player' 419961 , {
-          height: '390',
-          width: '640',
-          videoId: '',
-          events: {
-            'onReady': onPlayerReady,
-            'onStateChange': onPlayerStateChange
-          }
-        });
+  
+  
+  var player;
+  function onYouTubeIframeAPIReady() {
+    player = new YT.Player('player' 419961 , {
+      height: '390',
+      width: '640',
+      videoId: '',
+      events: {
+        'onReady': onPlayerReady,
+        'onStateChange': onPlayerStateChange
       }
-    </script>
+    });
+  }
+</script>
 
 
 
@@ -103,26 +107,26 @@ In the cosmopolitan Turkish city of Izmir, thousands of Syrians fleeing Assad, I
 
 https://www.youtube.com/watch?v=
 
-    <div id="player419726"></div>
+<div id="player419726"></div>
 
 
-    <script>
+<script>
 
-      
-      
-      var player;
-      function onYouTubeIframeAPIReady() {
-        player = new YT.Player('player' 419726 , {
-          height: '390',
-          width: '640',
-          videoId: '',
-          events: {
-            'onReady': onPlayerReady,
-            'onStateChange': onPlayerStateChange
-          }
-        });
+  
+  
+  var player;
+  function onYouTubeIframeAPIReady() {
+    player = new YT.Player('player' 419726 , {
+      height: '390',
+      width: '640',
+      videoId: '',
+      events: {
+        'onReady': onPlayerReady,
+        'onStateChange': onPlayerStateChange
       }
-    </script>
+    });
+  }
+</script>
 
 
 
@@ -132,26 +136,26 @@ For years, Julius Arile and Robert Matanda thrive among the bands of warriors th
 
 https://www.youtube.com/watch?v=
 
-    <div id="player412734"></div>
+<div id="player412734"></div>
 
 
-    <script>
+<script>
 
-      
-      
-      var player;
-      function onYouTubeIframeAPIReady() {
-        player = new YT.Player('player' 412734 , {
-          height: '390',
-          width: '640',
-          videoId: '',
-          events: {
-            'onReady': onPlayerReady,
-            'onStateChange': onPlayerStateChange
-          }
-        });
+  
+  
+  var player;
+  function onYouTubeIframeAPIReady() {
+    player = new YT.Player('player' 412734 , {
+      height: '390',
+      width: '640',
+      videoId: '',
+      events: {
+        'onReady': onPlayerReady,
+        'onStateChange': onPlayerStateChange
       }
-    </script>
+    });
+  }
+</script>
 
 
 
@@ -161,26 +165,26 @@ This tragicomic analysis of communication between humans, animals, and machines 
 
 https://www.youtube.com/watch?v=
 
-    <div id="player419729"></div>
+<div id="player419729"></div>
 
 
-    <script>
+<script>
 
-      
-      
-      var player;
-      function onYouTubeIframeAPIReady() {
-        player = new YT.Player('player' 419729 , {
-          height: '390',
-          width: '640',
-          videoId: '',
-          events: {
-            'onReady': onPlayerReady,
-            'onStateChange': onPlayerStateChange
-          }
-        });
+  
+  
+  var player;
+  function onYouTubeIframeAPIReady() {
+    player = new YT.Player('player' 419729 , {
+      height: '390',
+      width: '640',
+      videoId: '',
+      events: {
+        'onReady': onPlayerReady,
+        'onStateChange': onPlayerStateChange
       }
-    </script>
+    });
+  }
+</script>
 
 
 
@@ -190,26 +194,26 @@ King Louis XIV&#39;s quest for immortality leads him to capture and steal a merm
 
 https://www.youtube.com/watch?v=
 
-    <div id="player245842"></div>
+<div id="player245842"></div>
 
 
-    <script>
+<script>
 
-      
-      
-      var player;
-      function onYouTubeIframeAPIReady() {
-        player = new YT.Player('player' 245842 , {
-          height: '390',
-          width: '640',
-          videoId: '',
-          events: {
-            'onReady': onPlayerReady,
-            'onStateChange': onPlayerStateChange
-          }
-        });
+  
+  
+  var player;
+  function onYouTubeIframeAPIReady() {
+    player = new YT.Player('player' 245842 , {
+      height: '390',
+      width: '640',
+      videoId: '',
+      events: {
+        'onReady': onPlayerReady,
+        'onStateChange': onPlayerStateChange
       }
-    </script>
+    });
+  }
+</script>
 
 
 
@@ -219,26 +223,26 @@ A quiet teenage artist Rafe Katchadorian has a wild imagination and is sick of m
 
 https://www.youtube.com/watch?v=VahiV9JHFl8
 
-    <div id="player369883"></div>
+<div id="player369883"></div>
 
 
-    <script>
+<script>
 
-      
-      
-      var player;
-      function onYouTubeIframeAPIReady() {
-        player = new YT.Player('player' 369883 , {
-          height: '390',
-          width: '640',
-          videoId: 'VahiV9JHFl8',
-          events: {
-            'onReady': onPlayerReady,
-            'onStateChange': onPlayerStateChange
-          }
-        });
+  
+  
+  var player;
+  function onYouTubeIframeAPIReady() {
+    player = new YT.Player('player' 369883 , {
+      height: '390',
+      width: '640',
+      videoId: 'VahiV9JHFl8',
+      events: {
+        'onReady': onPlayerReady,
+        'onStateChange': onPlayerStateChange
       }
-    </script>
+    });
+  }
+</script>
 
 
 
@@ -248,26 +252,26 @@ Recorded from a smartphone screen, its translation app running on the wrong sett
 
 https://www.youtube.com/watch?v=
 
-    <div id="player419724"></div>
+<div id="player419724"></div>
 
 
-    <script>
+<script>
 
-      
-      
-      var player;
-      function onYouTubeIframeAPIReady() {
-        player = new YT.Player('player' 419724 , {
-          height: '390',
-          width: '640',
-          videoId: '',
-          events: {
-            'onReady': onPlayerReady,
-            'onStateChange': onPlayerStateChange
-          }
-        });
+  
+  
+  var player;
+  function onYouTubeIframeAPIReady() {
+    player = new YT.Player('player' 419724 , {
+      height: '390',
+      width: '640',
+      videoId: '',
+      events: {
+        'onReady': onPlayerReady,
+        'onStateChange': onPlayerStateChange
       }
-    </script>
+    });
+  }
+</script>
 
 
 
@@ -277,26 +281,26 @@ Interpol partners with a wealthy entrepreneur to protect a new invention dubbed 
 
 https://www.youtube.com/watch?v=
 
-    <div id="player419544"></div>
+<div id="player419544"></div>
 
 
-    <script>
+<script>
 
-      
-      
-      var player;
-      function onYouTubeIframeAPIReady() {
-        player = new YT.Player('player' 419544 , {
-          height: '390',
-          width: '640',
-          videoId: '',
-          events: {
-            'onReady': onPlayerReady,
-            'onStateChange': onPlayerStateChange
-          }
-        });
+  
+  
+  var player;
+  function onYouTubeIframeAPIReady() {
+    player = new YT.Player('player' 419544 , {
+      height: '390',
+      width: '640',
+      videoId: '',
+      events: {
+        'onReady': onPlayerReady,
+        'onStateChange': onPlayerStateChange
       }
-    </script>
+    });
+  }
+</script>
 
 
 
@@ -306,26 +310,26 @@ An in-depth look at the prison system in the United States and how it reveals th
 
 https://www.youtube.com/watch?v=V66F3WU2CKk
 
-    <div id="player407806"></div>
+<div id="player407806"></div>
 
 
-    <script>
+<script>
 
-      
-      
-      var player;
-      function onYouTubeIframeAPIReady() {
-        player = new YT.Player('player' 407806 , {
-          height: '390',
-          width: '640',
-          videoId: 'V66F3WU2CKk',
-          events: {
-            'onReady': onPlayerReady,
-            'onStateChange': onPlayerStateChange
-          }
-        });
+  
+  
+  var player;
+  function onYouTubeIframeAPIReady() {
+    player = new YT.Player('player' 407806 , {
+      height: '390',
+      width: '640',
+      videoId: 'V66F3WU2CKk',
+      events: {
+        'onReady': onPlayerReady,
+        'onStateChange': onPlayerStateChange
       }
-    </script>
+    });
+  }
+</script>
 
 
 
@@ -335,26 +339,26 @@ The behind-the-scenes story of Dan and Phil’s adventure on tour! An intimate a
 
 https://www.youtube.com/watch?v=
 
-    <div id="player419222"></div>
+<div id="player419222"></div>
 
 
-    <script>
+<script>
 
-      
-      
-      var player;
-      function onYouTubeIframeAPIReady() {
-        player = new YT.Player('player' 419222 , {
-          height: '390',
-          width: '640',
-          videoId: '',
-          events: {
-            'onReady': onPlayerReady,
-            'onStateChange': onPlayerStateChange
-          }
-        });
+  
+  
+  var player;
+  function onYouTubeIframeAPIReady() {
+    player = new YT.Player('player' 419222 , {
+      height: '390',
+      width: '640',
+      videoId: '',
+      events: {
+        'onReady': onPlayerReady,
+        'onStateChange': onPlayerStateChange
       }
-    </script>
+    });
+  }
+</script>
 
 
 
@@ -364,26 +368,26 @@ Near the end of World War II, American and British Special Forces must extract a
 
 https://www.youtube.com/watch?v=
 
-    <div id="player412467"></div>
+<div id="player412467"></div>
 
 
-    <script>
+<script>
 
-      
-      
-      var player;
-      function onYouTubeIframeAPIReady() {
-        player = new YT.Player('player' 412467 , {
-          height: '390',
-          width: '640',
-          videoId: '',
-          events: {
-            'onReady': onPlayerReady,
-            'onStateChange': onPlayerStateChange
-          }
-        });
+  
+  
+  var player;
+  function onYouTubeIframeAPIReady() {
+    player = new YT.Player('player' 412467 , {
+      height: '390',
+      width: '640',
+      videoId: '',
+      events: {
+        'onReady': onPlayerReady,
+        'onStateChange': onPlayerStateChange
       }
-    </script>
+    });
+  }
+</script>
 
 
 
@@ -393,26 +397,26 @@ A comedy that follows a man on a mission of self-discovery that results in hallu
 
 https://www.youtube.com/watch?v=o0ESIeFZ0fs
 
-    <div id="player333358"></div>
+<div id="player333358"></div>
 
 
-    <script>
+<script>
 
-      
-      
-      var player;
-      function onYouTubeIframeAPIReady() {
-        player = new YT.Player('player' 333358 , {
-          height: '390',
-          width: '640',
-          videoId: 'o0ESIeFZ0fs',
-          events: {
-            'onReady': onPlayerReady,
-            'onStateChange': onPlayerStateChange
-          }
-        });
+  
+  
+  var player;
+  function onYouTubeIframeAPIReady() {
+    player = new YT.Player('player' 333358 , {
+      height: '390',
+      width: '640',
+      videoId: 'o0ESIeFZ0fs',
+      events: {
+        'onReady': onPlayerReady,
+        'onStateChange': onPlayerStateChange
       }
-    </script>
+    });
+  }
+</script>
 
 
 
@@ -422,26 +426,26 @@ Shot over the course of several years, Hugh Gibson’s profoundly affecting and 
 
 https://www.youtube.com/watch?v=
 
-    <div id="player410211"></div>
+<div id="player410211"></div>
 
 
-    <script>
+<script>
 
-      
-      
-      var player;
-      function onYouTubeIframeAPIReady() {
-        player = new YT.Player('player' 410211 , {
-          height: '390',
-          width: '640',
-          videoId: '',
-          events: {
-            'onReady': onPlayerReady,
-            'onStateChange': onPlayerStateChange
-          }
-        });
+  
+  
+  var player;
+  function onYouTubeIframeAPIReady() {
+    player = new YT.Player('player' 410211 , {
+      height: '390',
+      width: '640',
+      videoId: '',
+      events: {
+        'onReady': onPlayerReady,
+        'onStateChange': onPlayerStateChange
       }
-    </script>
+    });
+  }
+</script>
 
 
 
@@ -451,26 +455,26 @@ A celebration of the universe, displaying the whole of time, from its start to i
 
 https://www.youtube.com/watch?v=
 
-    <div id="player417198"></div>
+<div id="player417198"></div>
 
 
-    <script>
+<script>
 
-      
-      
-      var player;
-      function onYouTubeIframeAPIReady() {
-        player = new YT.Player('player' 417198 , {
-          height: '390',
-          width: '640',
-          videoId: '',
-          events: {
-            'onReady': onPlayerReady,
-            'onStateChange': onPlayerStateChange
-          }
-        });
+  
+  
+  var player;
+  function onYouTubeIframeAPIReady() {
+    player = new YT.Player('player' 417198 , {
+      height: '390',
+      width: '640',
+      videoId: '',
+      events: {
+        'onReady': onPlayerReady,
+        'onStateChange': onPlayerStateChange
       }
-    </script>
+    });
+  }
+</script>
 
 
 
@@ -480,26 +484,26 @@ A boy attempts to deal with his mother&#39;s illness and the bullying of his cla
 
 https://www.youtube.com/watch?v=uW_GNKVuZ1c
 
-    <div id="player258230"></div>
+<div id="player258230"></div>
 
 
-    <script>
+<script>
 
-      
-      
-      var player;
-      function onYouTubeIframeAPIReady() {
-        player = new YT.Player('player' 258230 , {
-          height: '390',
-          width: '640',
-          videoId: 'uW_GNKVuZ1c',
-          events: {
-            'onReady': onPlayerReady,
-            'onStateChange': onPlayerStateChange
-          }
-        });
+  
+  
+  var player;
+  function onYouTubeIframeAPIReady() {
+    player = new YT.Player('player' 258230 , {
+      height: '390',
+      width: '640',
+      videoId: 'uW_GNKVuZ1c',
+      events: {
+        'onReady': onPlayerReady,
+        'onStateChange': onPlayerStateChange
       }
-    </script>
+    });
+  }
+</script>
 
 
 
@@ -509,26 +513,26 @@ https://www.youtube.com/watch?v=uW_GNKVuZ1c
 
 https://www.youtube.com/watch?v=
 
-    <div id="player419482"></div>
+<div id="player419482"></div>
 
 
-    <script>
+<script>
 
-      
-      
-      var player;
-      function onYouTubeIframeAPIReady() {
-        player = new YT.Player('player' 419482 , {
-          height: '390',
-          width: '640',
-          videoId: '',
-          events: {
-            'onReady': onPlayerReady,
-            'onStateChange': onPlayerStateChange
-          }
-        });
+  
+  
+  var player;
+  function onYouTubeIframeAPIReady() {
+    player = new YT.Player('player' 419482 , {
+      height: '390',
+      width: '640',
+      videoId: '',
+      events: {
+        'onReady': onPlayerReady,
+        'onStateChange': onPlayerStateChange
       }
-    </script>
+    });
+  }
+</script>
 
 
 
@@ -538,26 +542,26 @@ The Los Angeles-set tale follows Ronnie, a man who runs a Disco Walking tour alo
 
 https://www.youtube.com/watch?v=eFYwz24ii4w
 
-    <div id="player320413"></div>
+<div id="player320413"></div>
 
 
-    <script>
+<script>
 
-      
-      
-      var player;
-      function onYouTubeIframeAPIReady() {
-        player = new YT.Player('player' 320413 , {
-          height: '390',
-          width: '640',
-          videoId: 'eFYwz24ii4w',
-          events: {
-            'onReady': onPlayerReady,
-            'onStateChange': onPlayerStateChange
-          }
-        });
+  
+  
+  var player;
+  function onYouTubeIframeAPIReady() {
+    player = new YT.Player('player' 320413 , {
+      height: '390',
+      width: '640',
+      videoId: 'eFYwz24ii4w',
+      events: {
+        'onReady': onPlayerReady,
+        'onStateChange': onPlayerStateChange
       }
-    </script>
+    });
+  }
+</script>
 
 
 
@@ -567,26 +571,26 @@ In the California apple country, nine hundred migratory workers rise up &#34;in 
 
 https://www.youtube.com/watch?v=JLJM9uTS8Nw
 
-    <div id="player337844"></div>
+<div id="player337844"></div>
 
 
-    <script>
+<script>
 
-      
-      
-      var player;
-      function onYouTubeIframeAPIReady() {
-        player = new YT.Player('player' 337844 , {
-          height: '390',
-          width: '640',
-          videoId: 'JLJM9uTS8Nw',
-          events: {
-            'onReady': onPlayerReady,
-            'onStateChange': onPlayerStateChange
-          }
-        });
+  
+  
+  var player;
+  function onYouTubeIframeAPIReady() {
+    player = new YT.Player('player' 337844 , {
+      height: '390',
+      width: '640',
+      videoId: 'JLJM9uTS8Nw',
+      events: {
+        'onReady': onPlayerReady,
+        'onStateChange': onPlayerStateChange
       }
-    </script>
+    });
+  }
+</script>
 
 
 
