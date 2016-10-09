@@ -28,6 +28,9 @@ A teenager finds himself transported to an island where he must help protect a g
 	
 	
 
+  
+
+
 	
 	
 
@@ -46,6 +49,9 @@ A story set on the offshore drilling rig Deepwater Horizon, which exploded durin
 
 	
 	
+
+  
+
 
 	
 	
@@ -66,9 +72,25 @@ Rachel Watson, an alcoholic who divorced her husband Tom after she caught him ch
 	
 	
 
+  
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle"
+     style="display:inline-block;width:468px;height:60px"
+     data-ad-client="ca-pub-0353610365188957"
+     data-ad-slot="9845160200"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  
+
+
 	
 	
 	
+
+  
+
 
 	
 	
@@ -89,17 +111,35 @@ A night guard at an armored car company in the Southern U.S. organizes one of th
 	
 	
 
-	
+  
+
 
 	
 
-	
+  
+
 
 	
 
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 	
 	
+
+  
+
 
 	
 	
@@ -120,9 +160,18 @@ A quiet teenage artist Rafe Katchadorian has a wild imagination and is sick of m
 	
 	
 
-	
+  
+
 
 	
+
+  
+
+
+	
+
+  
+
 
 	
 	
@@ -143,13 +192,25 @@ An in-depth look at the prison system in the United States and how it reveals th
 	
 	
 
-	
+  
+
 
 	
 
+  
+
+
+	
+
+  
+
+
 	
 	
 	
+
+  
+
 
 	
 	
@@ -170,9 +231,18 @@ A comedy that follows a man on a mission of self-discovery that results in hallu
 	
 	
 
-	
+  
+
 
 	
+
+  
+
+
+	
+
+  
+
 
 
 ## Opening soon
