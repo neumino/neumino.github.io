@@ -262,7 +262,7 @@ After waking up in a hospital with amnesia, professor Robert Langdon and a docto
 	type="text/html"
 	width="819"
 	height="460"
-  src="www.youtube.com/embed/xbNBB1D37U8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xbNBB1D37U8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -281,7 +281,7 @@ A forensic accountant un-cooks the books for illicit clients.
 	type="text/html"
 	width="819"
 	height="460"
-  src="www.youtube.com/embed/aNGhnNMSopI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/aNGhnNMSopI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -300,7 +300,7 @@ The adventures of teenager Max McGrath and alien companion Steel, who must harne
 	type="text/html"
 	width="819"
 	height="460"
-  src="www.youtube.com/embed/FSfWGcD78v4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/FSfWGcD78v4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -321,7 +321,7 @@ Lovable and friendly, the trolls love to play around. But one day, a mysterious 
 	type="text/html"
 	width="819"
 	height="460"
-  src="www.youtube.com/embed/tDnRVKPjj8k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/tDnRVKPjj8k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
