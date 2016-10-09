@@ -21,7 +21,7 @@ A teenager finds himself transported to an island where he must help protect a g
 	type="text/html"
 	width="819"
 	height="460"
-  src="http://www.youtube.com/embed/tV_IhWE4LP0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/tV_IhWE4LP0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -43,7 +43,7 @@ A story set on the offshore drilling rig Deepwater Horizon, which exploded durin
 	type="text/html"
 	width="819"
 	height="460"
-  src="http://www.youtube.com/embed/8yASbM8M2vg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/8yASbM8M2vg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -77,7 +77,7 @@ Rachel Watson, an alcoholic who divorced her husband Tom after she caught him ch
 	type="text/html"
 	width="819"
 	height="460"
-  src="http://www.youtube.com/embed/-CKPj4O5_9s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-CKPj4O5_9s?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -106,7 +106,7 @@ A night guard at an armored car company in the Southern U.S. organizes one of th
 	type="text/html"
 	width="819"
 	height="460"
-  src="http://www.youtube.com/embed/qWDqXbtymgg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/qWDqXbtymgg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -155,7 +155,7 @@ A quiet teenage artist Rafe Katchadorian has a wild imagination and is sick of m
 	type="text/html"
 	width="819"
 	height="460"
-  src="http://www.youtube.com/embed/VahiV9JHFl8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/VahiV9JHFl8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -187,7 +187,7 @@ An in-depth look at the prison system in the United States and how it reveals th
 	type="text/html"
 	width="819"
 	height="460"
-  src="http://www.youtube.com/embed/V66F3WU2CKk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/V66F3WU2CKk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -226,7 +226,7 @@ A comedy that follows a man on a mission of self-discovery that results in hallu
 	type="text/html"
 	width="819"
 	height="460"
-  src="http://www.youtube.com/embed/o0ESIeFZ0fs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/o0ESIeFZ0fs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -262,7 +262,7 @@ After waking up in a hospital with amnesia, professor Robert Langdon and a docto
 	type="text/html"
 	width="819"
 	height="460"
-  src="http://www.youtube.com/embed/xbNBB1D37U8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="www.youtube.com/embed/xbNBB1D37U8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -281,7 +281,7 @@ A forensic accountant un-cooks the books for illicit clients.
 	type="text/html"
 	width="819"
 	height="460"
-  src="http://www.youtube.com/embed/aNGhnNMSopI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="www.youtube.com/embed/aNGhnNMSopI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -300,7 +300,7 @@ The adventures of teenager Max McGrath and alien companion Steel, who must harne
 	type="text/html"
 	width="819"
 	height="460"
-  src="http://www.youtube.com/embed/FSfWGcD78v4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="www.youtube.com/embed/FSfWGcD78v4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -321,7 +321,7 @@ Lovable and friendly, the trolls love to play around. But one day, a mysterious 
 	type="text/html"
 	width="819"
 	height="460"
-  src="http://www.youtube.com/embed/tDnRVKPjj8k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="www.youtube.com/embed/tDnRVKPjj8k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
