@@ -51,6 +51,18 @@ A story set on the offshore drilling rig Deepwater Horizon, which exploded durin
 	
 
   
+<br/>
+<br/>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle"
+     style="display:inline-block;width:468px;height:60px"
+     data-ad-client="ca-pub-0353610365188957"
+     data-ad-slot="9845160200"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  
 
 
 	
@@ -72,16 +84,6 @@ Rachel Watson, an alcoholic who divorced her husband Tom after she caught him ch
 	
 	
 
-  
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-
-<ins class="adsbygoogle"
-     style="display:inline-block;width:468px;height:60px"
-     data-ad-client="ca-pub-0353610365188957"
-     data-ad-slot="9845160200"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
   
 
 
