@@ -190,8 +190,6 @@ After waking up in a hospital with amnesia, professor Robert Langdon and a docto
 	
 
 	
-
-	
 	
 
 ### The Accountant
@@ -204,24 +202,6 @@ A forensic accountant un-cooks the books for illicit clients.
 	width="819"
 	height="460"
   src="http://www.youtube.com/embed/aNGhnNMSopI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"></iframe>
-
-	
-	
-
-	
-	
-
-### In Dubious Battle
-*Released on 2016-10-08, vote average 4.25*
-
-In the California apple country, nine hundred migratory workers rise up &#34;in dubious battle&#34; against the landowners. The group takes on a life of its own-stronger than its individual members and more frightening. Led by the doomed Jim Nolan, the strike is founded on his tragic idealism-on the &#34;courage never to submit or yield.&#34; Published in 1936, In Dubious Battle is considered the first major work of Pulitzer Prize-winning author John Steinbeck.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="http://www.youtube.com/embed/JLJM9uTS8Nw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"></iframe>
 
 	
@@ -248,22 +228,6 @@ The adventures of teenager Max McGrath and alien companion Steel, who must harne
 	
 
 	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
 	
 
 ### Trolls
@@ -279,6 +243,28 @@ Lovable and friendly, the trolls love to play around. But one day, a mysterious 
   frameborder="0"></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+	
+
 	
 
 	
