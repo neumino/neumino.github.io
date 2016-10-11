@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Miss Peregrine&#39;s Home for Peculiar Children
-*Released on 2016-09-28, vote average 6.25*
+*Released on 2016-09-28, vote average 6.37*
 
 A teenager finds himself transported to an island where he must help protect a group of orphans with special powers from creatures intent on destroying them.
 
@@ -35,7 +35,7 @@ A teenager finds himself transported to an island where he must help protect a g
 	
 
 ### Deepwater Horizon
-*Released on 2016-09-28, vote average 4.22*
+*Released on 2016-09-28, vote average 4.21*
 
 A story set on the offshore drilling rig Deepwater Horizon, which exploded during April 2010 and created the worst oil spill in U.S. history.
 
@@ -69,7 +69,7 @@ A story set on the offshore drilling rig Deepwater Horizon, which exploded durin
 	
 
 ### The Girl on the Train
-*Released on 2016-10-06, vote average 4.53*
+*Released on 2016-10-06, vote average 4.87*
 
 Rachel Watson, an alcoholic who divorced her husband Tom after she caught him cheating on her, takes the train to work daily. She fantasizes about the relationship of her neighbours, Scott and Megan Hipwell, during her commute. That all changes when she witnesses something from the train window and Megan is missing, presumed dead.
 
@@ -88,6 +88,53 @@ Rachel Watson, an alcoholic who divorced her husband Tom after she caught him ch
 
 
 	
+	
+
+### A Monster Calls
+*Released on 2016-10-07, vote average 5.31*
+
+A boy attempts to deal with his mother&#39;s illness and the bullying of his classmates by escaping to a fantastical world.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/uW_GNKVuZ1c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Hollow
+*Released on 2016-10-07, vote average 7*
+
+When a U.S. congressman&#39;s daughter passing through a small town in Mississippi dies in a mysterious triple homicide, a team of F.B.I. agents descends to investigate, the team&#39;s brilliant but jaded lead agent battling demons both past and present, as his beautiful, tough-as-nails partner tries to hold him and the case together. They find a struggling and corrupt sheriff&#39;s department, a shadowy and much-feared figure, who seems to be pulling all of the town&#39;s strings from his mansion on the edge of town and a local victim with a strange connection to a number of the town&#39;s most prominent figures.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/guFyYjxyOY4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -117,45 +164,18 @@ A night guard at an armored car company in the Southern U.S. organizes one of th
 
 
 	
-
-  
-
-
 	
 
-  
+### The Swap
+*Released on 2016-10-07, vote average 6*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Middle School: The Worst Years of My Life
-*Released on 2016-10-07, vote average 3.5*
-
-A quiet teenage artist Rafe Katchadorian has a wild imagination and is sick of middle school and the rules that have been put before him. Rafe and his best friend Leo have come up with a plan: break every rule in the school hand book and as you expect trouble follows.
+Based on the book by Megan Shull, The Swap follows the adventures of a Rhythmic Gymnast named Ellie with a Make-it-or-Break-it Competition, and the younger brother named Jack in a Hockey Family, who&#39;s vying for a varsity spot on his school team. But when a Simple Text causes the two to Swap Bodies, their paths take an Unexpected Cross.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/VahiV9JHFl8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/XOHkQ12K5ew?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -166,10 +186,48 @@ A quiet teenage artist Rafe Katchadorian has a wild imagination and is sick of m
 
 
 	
+	
+	
 
   
 
 
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Phantasm: Ravager
+*Released on 2016-10-07, vote average 0.5*
+
+Brothers Mike and Jody join family friend Reggie to battle the Tall Man and his evil minions from another dimension, for the final time.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/4Dz3LdPPSSY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -179,7 +237,7 @@ A quiet teenage artist Rafe Katchadorian has a wild imagination and is sick of m
 	
 
 ### 13th
-*Released on 2016-10-07, vote average 10*
+*Released on 2016-10-07, vote average 7.22*
 
 An in-depth look at the prison system in the United States and how it reveals the nation&#39;s history of racial inequality.
 
@@ -198,16 +256,21 @@ An in-depth look at the prison system in the United States and how it reveals th
 
 
 	
-
-  
-
-
 	
 
-  
+### Amanda Knox
+*Released on 2016-09-30, vote average 6.63*
 
+This gripping, atmospheric documentary recounts the infamous trial, conviction and eventual acquittal of Seattle native Amanda Knox for the 2007 murder of a British exchange student in Italy.
 
-	
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/NueLjUNB-GM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -242,6 +305,28 @@ A comedy that follows a man on a mission of self-discovery that results in hallu
 
 
 	
+	
+
+### Middle School: The Worst Years of My Life
+*Released on 2016-10-07, vote average 3.5*
+
+A quiet teenage artist Rafe Katchadorian has a wild imagination and is sick of middle school and the rules that have been put before him. Rafe and his best friend Leo have come up with a plan: break every rule in the school hand book and as you expect trouble follows.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/VahiV9JHFl8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 
   
 
@@ -254,7 +339,7 @@ A comedy that follows a man on a mission of self-discovery that results in hallu
 	
 
 ### Inferno
-*Released on 2016-10-13, vote average 4.14*
+*Released on 2016-10-13, vote average 3.59*
 
 After waking up in a hospital with amnesia, professor Robert Langdon and a doctor must race against time to foil a deadly global plot.
 
@@ -273,7 +358,7 @@ After waking up in a hospital with amnesia, professor Robert Langdon and a docto
 	
 
 ### The Accountant
-*Released on 2016-10-14, vote average 2.9*
+*Released on 2016-10-14, vote average 2.58*
 
 A forensic accountant un-cooks the books for illicit clients.
 
@@ -286,27 +371,6 @@ A forensic accountant un-cooks the books for illicit clients.
   allowfullscreen></iframe>
 
 	
-	
-
-	
-	
-
-### Max Steel
-*Released on 2016-10-14, vote average 4.57*
-
-The adventures of teenager Max McGrath and alien companion Steel, who must harness and combine their tremendous new powers to evolve into the turbo-charged superhero Max Steel.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FSfWGcD78v4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
 	
 
 	
@@ -329,6 +393,27 @@ Lovable and friendly, the trolls love to play around. But one day, a mysterious 
 	
 
 	
+	
+
+### Max Steel
+*Released on 2016-10-14, vote average 4.31*
+
+The adventures of teenager Max McGrath and alien companion Steel, who must harness and combine their tremendous new powers to evolve into the turbo-charged superhero Max Steel.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FSfWGcD78v4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+	
 
 	
 
@@ -339,13 +424,15 @@ Lovable and friendly, the trolls love to play around. But one day, a mysterious 
 	
 
 	
+	
+	
 
 	
 
 	
 
 	
-	
+
 	
 
 	
