@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Miss Peregrine&#39;s Home for Peculiar Children
-*Released on 2016-09-28, vote average 6.37*
+*Released on 2016-09-28, vote average 6.25*
 
 A teenager finds himself transported to an island where he must help protect a group of orphans with special powers from creatures intent on destroying them.
 
@@ -21,7 +21,7 @@ A teenager finds himself transported to an island where he must help protect a g
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/tV_IhWE4LP0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/DN1uhnnKscY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -35,7 +35,7 @@ A teenager finds himself transported to an island where he must help protect a g
 	
 
 ### Deepwater Horizon
-*Released on 2016-09-28, vote average 4.21*
+*Released on 2016-09-28, vote average 4.28*
 
 A story set on the offshore drilling rig Deepwater Horizon, which exploded during April 2010 and created the worst oil spill in U.S. history.
 
@@ -69,7 +69,7 @@ A story set on the offshore drilling rig Deepwater Horizon, which exploded durin
 	
 
 ### The Girl on the Train
-*Released on 2016-10-06, vote average 4.87*
+*Released on 2016-10-06, vote average 4.91*
 
 Rachel Watson, an alcoholic who divorced her husband Tom after she caught him cheating on her, takes the train to work daily. She fantasizes about the relationship of her neighbours, Scott and Megan Hipwell, during her commute. That all changes when she witnesses something from the train window and Megan is missing, presumed dead.
 
@@ -115,6 +115,23 @@ A boy attempts to deal with his mother&#39;s illness and the bullying of his cla
 
 
 	
+	
+
+### The Late Bloomer
+*Released on 2016-10-07, vote average 4.83*
+
+A sex therapist goes through puberty after the successful removal of a benign tumor resting against his pituitary gland. He experiences all the changes and effects of puberty over a three-week period.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/lThdKt9aXyM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -145,7 +162,7 @@ When a U.S. congressman&#39;s daughter passing through a small town in Mississip
 	
 
 ### Masterminds
-*Released on 2016-09-29, vote average 5*
+*Released on 2016-09-29, vote average 5.07*
 
 A night guard at an armored car company in the Southern U.S. organizes one of the biggest bank heists in American history.
 
@@ -215,7 +232,7 @@ Based on the book by Megan Shull, The Swap follows the adventures of a Rhythmic 
 	
 
 ### Phantasm: Ravager
-*Released on 2016-10-07, vote average 0.5*
+*Released on 2016-10-07, vote average 3.25*
 
 Brothers Mike and Jody join family friend Reggie to battle the Tall Man and his evil minions from another dimension, for the final time.
 
@@ -237,7 +254,7 @@ Brothers Mike and Jody join family friend Reggie to battle the Tall Man and his 
 	
 
 ### 13th
-*Released on 2016-10-07, vote average 7.22*
+*Released on 2016-10-07, vote average 7.5*
 
 An in-depth look at the prison system in the United States and how it reveals the nation&#39;s history of racial inequality.
 
@@ -339,7 +356,7 @@ A quiet teenage artist Rafe Katchadorian has a wild imagination and is sick of m
 	
 
 ### Inferno
-*Released on 2016-10-13, vote average 3.59*
+*Released on 2016-10-13, vote average 3.63*
 
 After waking up in a hospital with amnesia, professor Robert Langdon and a doctor must race against time to foil a deadly global plot.
 
@@ -357,8 +374,27 @@ After waking up in a hospital with amnesia, professor Robert Langdon and a docto
 	
 	
 
+### Jack Reacher: Never Go Back
+*Released on 2016-10-19, vote average 3.32*
+
+Jack Reacher returns to the headquarters of his old unit, only to find out he&#39;s now accused of a 16-year-old homicide.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/aoCP_JHzBUM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
 ### The Accountant
-*Released on 2016-10-14, vote average 2.58*
+*Released on 2016-10-14, vote average 2.54*
 
 A forensic accountant un-cooks the books for illicit clients.
 
@@ -396,7 +432,7 @@ Lovable and friendly, the trolls love to play around. But one day, a mysterious 
 	
 
 ### Max Steel
-*Released on 2016-10-14, vote average 4.31*
+*Released on 2016-10-14, vote average 4.44*
 
 The adventures of teenager Max McGrath and alien companion Steel, who must harness and combine their tremendous new powers to evolve into the turbo-charged superhero Max Steel.
 
@@ -418,19 +454,21 @@ The adventures of teenager Max McGrath and alien companion Steel, who must harne
 	
 
 	
+	
+	
+
+	
+	
+	
 
 	
 
 	
 
 	
-	
-	
 
 	
-
 	
-
 	
 
 	
