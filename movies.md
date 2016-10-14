@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### The Girl on the Train
-*Released on 2016-10-06, vote average 4.94*
+### Inferno
+*Released on 2016-10-13, vote average 3.82*
 
-Rachel Watson, an alcoholic who divorced her husband Tom after she caught him cheating on her, takes the train to work daily. She fantasizes about the relationship of her neighbours, Scott and Megan Hipwell, during her commute. That all changes when she witnesses something from the train window and Megan is missing, presumed dead.
+After waking up in a hospital with amnesia, professor Robert Langdon and a doctor must race against time to foil a deadly global plot.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-CKPj4O5_9s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xbNBB1D37U8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -34,16 +34,16 @@ Rachel Watson, an alcoholic who divorced her husband Tom after she caught him ch
 	
 	
 
-### Inferno
-*Released on 2016-10-13, vote average 3.54*
+### The Girl on the Train
+*Released on 2016-10-06, vote average 4.98*
 
-After waking up in a hospital with amnesia, professor Robert Langdon and a doctor must race against time to foil a deadly global plot.
+Rachel Watson, an alcoholic who divorced her husband Tom after she caught him cheating on her, takes the train to work daily. She fantasizes about the relationship of her neighbours, Scott and Megan Hipwell, during her commute. That all changes when she witnesses something from the train window and Megan is missing, presumed dead.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xbNBB1D37U8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-CKPj4O5_9s?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@ After waking up in a hospital with amnesia, professor Robert Langdon and a docto
 	
 
 ### A Monster Calls
-*Released on 2016-10-07, vote average 5.31*
+*Released on 2016-10-07, vote average 7.12*
 
 A boy attempts to deal with his mother&#39;s illness and the bullying of his classmates by escaping to a fantastical world.
 
@@ -77,7 +77,29 @@ A boy attempts to deal with his mother&#39;s illness and the bullying of his cla
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/uW_GNKVuZ1c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/oaGOEUVl-U8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Accountant
+*Released on 2016-10-14, vote average 1.96*
+
+As a math savant uncooks the books for a new client, the Treasury Department closes in on his activities and the body count starts to rise.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/aNGhnNMSopI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -92,6 +114,23 @@ A boy attempts to deal with his mother&#39;s illness and the bullying of his cla
   
 
 
+	
+	
+
+### Max Steel
+*Released on 2016-10-14, vote average 6.75*
+
+The adventures of teenager Max McGrath and alien companion Steel, who must harness and combine their tremendous new powers to evolve into the turbo-charged superhero Max Steel.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FSfWGcD78v4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -120,18 +159,59 @@ A sex therapist goes through puberty after the successful removal of a benign tu
 
 
 	
+
+  
+
+
+	
+	
 	
 
-### Trolls
-*Released on 2016-10-13, vote average 2.63*
+  
 
-Lovable and friendly, the trolls love to play around. But one day, a mysterious giant shows up to end the party. Poppy, the optimistic leader of the Trolls, and her polar opposite, Branch, must embark on an adventure that takes them far beyond the only world they’ve ever known.
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Justin Timberlake &#43; The Tennessee Kids
+*Released on 2016-10-12, vote average 8*
+
+For Justin Timberlake it&#39;s the final two dates of his 20/20 Experience World Tour at the MGM Grand Garden Arena in Las Vegas. Surrounded by the 25 band members of The Tennessee Kids and featuring show-stopping performances from one of the highest-grossing tours of the decade, the film is a culmination of the singer’s 134 shows and 2 years on the road.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/tDnRVKPjj8k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/_LQoM8hJS6c?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -144,84 +224,16 @@ Lovable and friendly, the trolls love to play around. But one day, a mysterious 
 	
 	
 
-### The Swap
-*Released on 2016-10-07, vote average 6*
+### Batman: Return of the Caped Crusaders
+*Released on 2016-10-08, vote average 8*
 
-Based on the book by Megan Shull, The Swap follows the adventures of a Rhythmic Gymnast named Ellie with a Make-it-or-Break-it Competition, and the younger brother named Jack in a Hockey Family, who&#39;s vying for a varsity spot on his school team. But when a Simple Text causes the two to Swap Bodies, their paths take an Unexpected Cross.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XOHkQ12K5ew?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### 13th
-*Released on 2016-10-07, vote average 7.5*
-
-An in-depth look at the prison system in the United States and how it reveals the nation&#39;s history of racial inequality.
+Adam West and Burt Ward returns to their iconic roles of Batman and Robin. Featuring the voices of Adam West, Burt Ward, and Julie Newmar, the film sees the superheroes going up against classic villains like The Joker, The Riddler, The Penguin and Catwoman, both in Gotham City… and in space.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/V66F3WU2CKk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### The Hollow
-*Released on 2016-10-07, vote average 7*
-
-When a U.S. congressman&#39;s daughter passing through a small town in Mississippi dies in a mysterious triple homicide, a team of F.B.I. agents descends to investigate, the team&#39;s brilliant but jaded lead agent battling demons both past and present, as his beautiful, tough-as-nails partner tries to hold him and the case together. They find a struggling and corrupt sheriff&#39;s department, a shadowy and much-feared figure, who seems to be pulling all of the town&#39;s strings from his mansion on the edge of town and a local victim with a strange connection to a number of the town&#39;s most prominent figures.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/guFyYjxyOY4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/hGeQKu8RXDc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -237,17 +249,7 @@ When a U.S. congressman&#39;s daughter passing through a small town in Mississip
 
 
 	
-
-  
-
-
 	
-	
-	
-
-  
-
-
 	
 
   
@@ -274,27 +276,8 @@ When a U.S. congressman&#39;s daughter passing through a small town in Mississip
 	
 	
 
-### Inferno
-*Released on 2016-10-13, vote average 3.54*
-
-After waking up in a hospital with amnesia, professor Robert Langdon and a doctor must race against time to foil a deadly global plot.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xbNBB1D37U8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
 ### Jack Reacher: Never Go Back
-*Released on 2016-10-19, vote average 3.28*
+*Released on 2016-10-19, vote average 4.8*
 
 Jack Reacher returns to the headquarters of his old unit, only to find out he&#39;s now accused of a 16-year-old homicide.
 
@@ -313,9 +296,9 @@ Jack Reacher returns to the headquarters of his old unit, only to find out he&#3
 	
 
 ### The Accountant
-*Released on 2016-10-14, vote average 2.54*
+*Released on 2016-10-14, vote average 1.96*
 
-A forensic accountant un-cooks the books for illicit clients.
+As a math savant uncooks the books for a new client, the Treasury Department closes in on his activities and the body count starts to rise.
 
 <iframe id="player"
 	type="text/html"
@@ -332,7 +315,7 @@ A forensic accountant un-cooks the books for illicit clients.
 	
 
 ### Max Steel
-*Released on 2016-10-14, vote average 4.75*
+*Released on 2016-10-14, vote average 6.75*
 
 The adventures of teenager Max McGrath and alien companion Steel, who must harness and combine their tremendous new powers to evolve into the turbo-charged superhero Max Steel.
 
@@ -348,44 +331,6 @@ The adventures of teenager Max McGrath and alien companion Steel, who must harne
 	
 
 	
-	
-
-### Trolls
-*Released on 2016-10-13, vote average 2.63*
-
-Lovable and friendly, the trolls love to play around. But one day, a mysterious giant shows up to end the party. Poppy, the optimistic leader of the Trolls, and her polar opposite, Branch, must embark on an adventure that takes them far beyond the only world they’ve ever known.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tDnRVKPjj8k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-	
-
-### Ouija: Origin of Evil
-*Released on 2016-10-20, vote average 8*
-
-In 1965 Los Angeles, a widowed mother and her two daughters add a new stunt to bolster their séance scam business and unwittingly invite authentic evil into their home. When the youngest daughter is overtaken by the merciless spirit, this small family confronts unthinkable fears to save her and send her possessor back to the other side.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nDyOftZyVeA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
@@ -394,26 +339,11 @@ In 1965 Los Angeles, a widowed mother and her two daughters add a new stunt to b
 	
 
 	
-	
 
-### 1:54
-*Released on 2016-10-13, vote average 5.25*
-
-At 16, Tim is a shy young man, brilliant, and with a natural athletic talent. But the pressure it undergoes will push him into a corner, where human limits reach the point of no return.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8yApX7IuhOQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
-	
+
 	
 
 	
@@ -430,6 +360,10 @@ At 16, Tim is a shy young man, brilliant, and with a natural athletic talent. Bu
 
 	
 
+	
+
+	
+	
 	
 
 	
