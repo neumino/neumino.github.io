@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Inferno
-*Released on 2016-10-13, vote average 3.82*
+*Released on 2016-10-13, vote average 4.39*
 
 After waking up in a hospital with amnesia, professor Robert Langdon and a doctor must race against time to foil a deadly global plot.
 
@@ -35,7 +35,7 @@ After waking up in a hospital with amnesia, professor Robert Langdon and a docto
 	
 
 ### The Girl on the Train
-*Released on 2016-10-06, vote average 4.98*
+*Released on 2016-10-06, vote average 4.97*
 
 Rachel Watson, an alcoholic who divorced her husband Tom after she caught him cheating on her, takes the train to work daily. She fantasizes about the relationship of her neighbours, Scott and Megan Hipwell, during her commute. That all changes when she witnesses something from the train window and Megan is missing, presumed dead.
 
@@ -68,28 +68,6 @@ Rachel Watson, an alcoholic who divorced her husband Tom after she caught him ch
 	
 	
 
-### A Monster Calls
-*Released on 2016-10-07, vote average 7.12*
-
-A boy attempts to deal with his mother&#39;s illness and the bullying of his classmates by escaping to a fantastical world.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/oaGOEUVl-U8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Accountant
 *Released on 2016-10-14, vote average 1.96*
 
@@ -110,15 +88,10 @@ As a math savant uncooks the books for a new client, the Treasury Department clo
 
 
 	
-
-  
-
-
-	
 	
 
 ### Max Steel
-*Released on 2016-10-14, vote average 6.75*
+*Released on 2016-10-14, vote average 7.3*
 
 The adventures of teenager Max McGrath and alien companion Steel, who must harness and combine their tremendous new powers to evolve into the turbo-charged superhero Max Steel.
 
@@ -137,18 +110,28 @@ The adventures of teenager Max McGrath and alien companion Steel, who must harne
 
 
 	
+
+  
+
+
 	
 
-### The Late Bloomer
-*Released on 2016-10-07, vote average 4.83*
+  
 
-A sex therapist goes through puberty after the successful removal of a benign tumor resting against his pituitary gland. He experiences all the changes and effects of puberty over a three-week period.
+
+	
+	
+
+### A Monster Calls
+*Released on 2016-10-07, vote average 7.12*
+
+A boy attempts to deal with his mother&#39;s illness and the bullying of his classmates by escaping to a fantastical world.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/lThdKt9aXyM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/oaGOEUVl-U8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -165,53 +148,17 @@ A sex therapist goes through puberty after the successful removal of a benign tu
 
 	
 	
-	
 
-  
+### The Swap
+*Released on 2016-10-07, vote average 8*
 
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Justin Timberlake &#43; The Tennessee Kids
-*Released on 2016-10-12, vote average 8*
-
-For Justin Timberlake it&#39;s the final two dates of his 20/20 Experience World Tour at the MGM Grand Garden Arena in Las Vegas. Surrounded by the 25 band members of The Tennessee Kids and featuring show-stopping performances from one of the highest-grossing tours of the decade, the film is a culmination of the singer’s 134 shows and 2 years on the road.
+Based on the book by Megan Shull, The Swap follows the adventures of a Rhythmic Gymnast named Ellie with a Make-it-or-Break-it Competition, and the younger brother named Jack in a Hockey Family, who&#39;s vying for a varsity spot on his school team. But when a Simple Text causes the two to Swap Bodies, their paths take an Unexpected Cross.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/_LQoM8hJS6c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/XOHkQ12K5ew?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -244,11 +191,6 @@ Adam West and Burt Ward returns to their iconic roles of Batman and Robin. Featu
 
 
 	
-
-  
-
-
-	
 	
 	
 
@@ -256,6 +198,26 @@ Adam West and Burt Ward returns to their iconic roles of Batman and Robin. Featu
 
 
 	
+
+  
+
+
+	
+	
+
+### Justin Timberlake &#43; The Tennessee Kids
+*Released on 2016-10-12, vote average 8*
+
+For Justin Timberlake it&#39;s the final two dates of his 20/20 Experience World Tour at the MGM Grand Garden Arena in Las Vegas. Surrounded by the 25 band members of The Tennessee Kids and featuring show-stopping performances from one of the highest-grossing tours of the decade, the film is a culmination of the singer’s 134 shows and 2 years on the road.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_LQoM8hJS6c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -263,6 +225,68 @@ Adam West and Burt Ward returns to their iconic roles of Batman and Robin. Featu
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Mascots
+*Released on 2016-10-11, vote average 6.25*
+
+A look into the world of competitive mascots.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/swTWozTxQ-E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Late Bloomer
+*Released on 2016-10-07, vote average 4.83*
+
+A sex therapist goes through puberty after the successful removal of a benign tumor resting against his pituitary gland. He experiences all the changes and effects of puberty over a three-week period.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/lThdKt9aXyM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -277,7 +301,7 @@ Adam West and Burt Ward returns to their iconic roles of Batman and Robin. Featu
 	
 
 ### Jack Reacher: Never Go Back
-*Released on 2016-10-19, vote average 4.8*
+*Released on 2016-10-19, vote average 5.63*
 
 Jack Reacher returns to the headquarters of his old unit, only to find out he&#39;s now accused of a 16-year-old homicide.
 
@@ -293,41 +317,13 @@ Jack Reacher returns to the headquarters of his old unit, only to find out he&#3
 	
 
 	
-	
-
-### The Accountant
-*Released on 2016-10-14, vote average 1.96*
-
-As a math savant uncooks the books for a new client, the Treasury Department closes in on his activities and the body count starts to rise.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/aNGhnNMSopI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
 	
 
 	
-	
 
-### Max Steel
-*Released on 2016-10-14, vote average 6.75*
-
-The adventures of teenager Max McGrath and alien companion Steel, who must harness and combine their tremendous new powers to evolve into the turbo-charged superhero Max Steel.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FSfWGcD78v4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
@@ -353,17 +349,7 @@ The adventures of teenager Max McGrath and alien companion Steel, who must harne
 	
 
 	
-	
-	
 
-	
-
-	
-
-	
-
-	
-	
 	
 
 	
