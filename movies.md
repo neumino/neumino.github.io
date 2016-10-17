@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Inferno
-*Released on 2016-10-13, vote average 4.79*
+*Released on 2016-10-13, vote average 4.9*
 
 After waking up in a hospital with amnesia, professor Robert Langdon and a doctor must race against time to foil a deadly global plot.
 
@@ -147,28 +147,6 @@ A boy attempts to deal with his mother&#39;s illness and the bullying of his cla
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### Mascots
@@ -192,17 +170,24 @@ Eager contestants don big heads and furry suits to vie for the title of World&#3
 
 	
 	
+	
 
-### Batman: Return of the Caped Crusaders
-*Released on 2016-10-08, vote average 8*
+  
 
-Adam West and Burt Ward returns to their iconic roles of Batman and Robin. Featuring the voices of Adam West, Burt Ward, and Julie Newmar, the film sees the superheroes going up against classic villains like The Joker, The Riddler, The Penguin and Catwoman, both in Gotham City… and in space.
+
+	
+	
+
+### The Siege of Jadotville
+*Released on 2016-10-07, vote average 7.42*
+
+Irish Commandant Pat Quinlan leads a stand off with troops against French and Belgian Mercenaries in the Congo during in the early 1960s.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/hGeQKu8RXDc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/rHNtzyXvyLc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -213,8 +198,6 @@ Adam West and Burt Ward returns to their iconic roles of Batman and Robin. Featu
 
 
 	
-	
-	
 
   
 
@@ -234,6 +217,23 @@ Adam West and Burt Ward returns to their iconic roles of Batman and Robin. Featu
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -252,7 +252,7 @@ Adam West and Burt Ward returns to their iconic roles of Batman and Robin. Featu
 	
 
 ### Jack Reacher: Never Go Back
-*Released on 2016-10-19, vote average 5.63*
+*Released on 2016-10-19, vote average 4.59*
 
 Jack Reacher returns to the headquarters of his old unit, only to find out he&#39;s now accused of a 16-year-old homicide.
 
@@ -278,26 +278,11 @@ Jack Reacher returns to the headquarters of his old unit, only to find out he&#3
 	
 
 	
-
-	
-
 	
 	
 
-### HyperNormalisation
-*Released on 2016-10-16, vote average 10*
-
-HyperNormalisation tells the extraordinary story of how we got to this strange time of great uncertainty and confusion - where those who are supposed to be in power are paralysed - and have no idea what to do. And, where events keep happening that seem inexplicable and out of control - from Donald Trump to Brexit, the War in Syria, the endless migrant crisis, and random bomb attacks. It explains not only why these chaotic events are happening - but also why we, and our politicians, cannot understand them.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/KwUh-yVBV_Q?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
+
 	
 
 	
