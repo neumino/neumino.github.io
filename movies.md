@@ -35,7 +35,7 @@ After waking up in a hospital with amnesia, professor Robert Langdon and a docto
 	
 
 ### The Girl on the Train
-*Released on 2016-10-06, vote average 4.97*
+*Released on 2016-10-06, vote average 5.13*
 
 Rachel Watson, an alcoholic who divorced her husband Tom after she caught him cheating on her, takes the train to work daily. She fantasizes about the relationship of her neighbours, Scott and Megan Hipwell, during her commute. That all changes when she witnesses something from the train window and Megan is missing, presumed dead.
 
@@ -69,7 +69,7 @@ Rachel Watson, an alcoholic who divorced her husband Tom after she caught him ch
 	
 
 ### The Accountant
-*Released on 2016-10-14, vote average 1.96*
+*Released on 2016-10-14, vote average 4.46*
 
 As a math savant uncooks the books for a new client, the Treasury Department closes in on his activities and the body count starts to rise.
 
@@ -78,6 +78,28 @@ As a math savant uncooks the books for a new client, the Treasury Department clo
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/aNGhnNMSopI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### A Monster Calls
+*Released on 2016-10-07, vote average 6.24*
+
+A boy attempts to deal with his mother&#39;s illness and the bullying of his classmates by escaping to a fantastical world.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/oaGOEUVl-U8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,45 +134,8 @@ The adventures of teenager Max McGrath and alien companion Steel, who must harne
 	
 	
 
-### A Monster Calls
-*Released on 2016-10-07, vote average 7.12*
-
-A boy attempts to deal with his mother&#39;s illness and the bullying of his classmates by escaping to a fantastical world.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/oaGOEUVl-U8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### Mascots
-*Released on 2016-10-11, vote average 6.17*
+*Released on 2016-10-11, vote average 6.25*
 
 Eager contestants don big heads and furry suits to vie for the title of World&#39;s Best Mascot.
 
@@ -169,7 +154,49 @@ Eager contestants don big heads and furry suits to vie for the title of World&#3
 
 
 	
+
+  
+
+
 	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -179,7 +206,7 @@ Eager contestants don big heads and furry suits to vie for the title of World&#3
 	
 
 ### The Siege of Jadotville
-*Released on 2016-10-07, vote average 7.42*
+*Released on 2016-10-07, vote average 7.21*
 
 Irish Commandant Pat Quinlan leads a stand off with troops against French and Belgian Mercenaries in the Congo during in the early 1960s.
 
@@ -207,33 +234,6 @@ Irish Commandant Pat Quinlan leads a stand off with troops against French and Be
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -274,10 +274,6 @@ Jack Reacher returns to the headquarters of his old unit, only to find out he&#3
 	
 
 	
-
-	
-
-	
 	
 	
 
@@ -292,19 +288,57 @@ Jack Reacher returns to the headquarters of his old unit, only to find out he&#3
 	
 
 	
+	
+
+### Boo! A Madea Halloween
+*Released on 2016-10-21, vote average 3*
+
+Madea winds up in the middle of mayhem when she spends a hilarious, haunted Halloween fending off killers, paranormal poltergeists, ghosts, ghouls, and zombies while keeping a watchful eye on a group of misbehaving teens.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FyMDl6puabM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+	
+	
 
 	
 
 	
 
 	
+	
+
+### American Pastoral
+*Released on 2016-10-20, vote average 1*
+
+Set in postwar America, a man watches his seemingly perfect life fall apart as his daughter&#39;s new political affiliation threatens to destroy their family.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/079zFCh81L4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
 	
 
-	
-	
 	
 
 	
