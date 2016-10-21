@@ -35,7 +35,7 @@ After waking up in a hospital with amnesia, professor Robert Langdon and a docto
 	
 
 ### Jack Reacher: Never Go Back
-*Released on 2016-10-19, vote average 3.47*
+*Released on 2016-10-19, vote average 3.79*
 
 Jack Reacher returns to the headquarters of his old unit, only to find out he&#39;s now accused of a 16-year-old homicide.
 
@@ -68,30 +68,8 @@ Jack Reacher returns to the headquarters of his old unit, only to find out he&#3
 	
 	
 
-### The Girl on the Train
-*Released on 2016-10-06, vote average 5.02*
-
-Rachel Watson, an alcoholic who divorced her husband Tom after she caught him cheating on her, takes the train to work daily. She fantasizes about the relationship of her neighbours, Scott and Megan Hipwell, during her commute. That all changes when she witnesses something from the train window and Megan is missing, presumed dead.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-CKPj4O5_9s?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Accountant
-*Released on 2016-10-14, vote average 5.11*
+*Released on 2016-10-14, vote average 5.37*
 
 As a math savant uncooks the books for a new client, the Treasury Department closes in on his activities and the body count starts to rise.
 
@@ -104,50 +82,6 @@ As a math savant uncooks the books for a new client, the Treasury Department clo
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Max Steel
-*Released on 2016-10-14, vote average 5.89*
-
-The adventures of teenager Max McGrath and alien companion Steel, who must harness and combine their tremendous new powers to evolve into the turbo-charged superhero Max Steel.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FSfWGcD78v4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 	
 
   
@@ -176,6 +110,16 @@ A boy attempts to deal with his mother&#39;s illness and the bullying of his cla
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### Batman: Return of the Caped Crusaders
@@ -192,6 +136,74 @@ Adam West and Burt Ward returns to their iconic roles of Batman and Robin. Featu
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Keeping Up with the Joneses
+*Released on 2016-10-21, vote average 0.5*
+
+An ordinary suburban couple (Zach Galifianakis, Isla Fisher) finds it’s not easy keeping up with the Joneses (Jon Hamm, Gal Gadot) – their impossibly gorgeous and ultra-sophisticated new neighbors – especially when they discover that Mr. and Mrs. “Jones” are covert operatives.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nPfYXXg65qA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### HyperNormalisation
+*Released on 2016-10-16, vote average 10*
+
+HyperNormalisation tells the extraordinary story of how we got to this strange time of great uncertainty and confusion - where those who are supposed to be in power are paralysed - and have no idea what to do. And, where events keep happening that seem inexplicable and out of control - from Donald Trump to Brexit, the War in Syria, the endless migrant crisis, and random bomb attacks. It explains not only why these chaotic events are happening - but also why we, and our politicians, cannot understand them.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KwUh-yVBV_Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -221,52 +233,6 @@ Eager contestants don big heads and furry suits to vie for the title of World&#3
 
 	
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### HyperNormalisation
-*Released on 2016-10-16, vote average 10*
-
-HyperNormalisation tells the extraordinary story of how we got to this strange time of great uncertainty and confusion - where those who are supposed to be in power are paralysed - and have no idea what to do. And, where events keep happening that seem inexplicable and out of control - from Donald Trump to Brexit, the War in Syria, the endless migrant crisis, and random bomb attacks. It explains not only why these chaotic events are happening - but also why we, and our politicians, cannot understand them.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/KwUh-yVBV_Q?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
 
 ### The Siege of Jadotville
 *Released on 2016-10-07, vote average 7.21*
@@ -287,6 +253,38 @@ Irish Commandant Pat Quinlan leads a stand off with troops against French and Be
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Max Steel
+*Released on 2016-10-14, vote average 5.89*
+
+The adventures of teenager Max McGrath and alien companion Steel, who must harness and combine their tremendous new powers to evolve into the turbo-charged superhero Max Steel.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FSfWGcD78v4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -329,65 +327,6 @@ An ordinary suburban couple (Zach Galifianakis, Isla Fisher) finds it’s not ea
 	
 
 	
-	
-
-### Boo! A Madea Halloween
-*Released on 2016-10-21, vote average 4*
-
-Madea winds up in the middle of mayhem when she spends a hilarious, haunted Halloween fending off killers, paranormal poltergeists, ghosts, ghouls, and zombies while keeping a watchful eye on a group of misbehaving teens.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FyMDl6puabM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-	
-
-### American Pastoral
-*Released on 2016-10-20, vote average 1*
-
-Set in postwar America, a man watches his seemingly perfect life fall apart as his daughter&#39;s new political affiliation threatens to destroy their family.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/079zFCh81L4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Icebreaker
-*Released on 2016-10-20, vote average 5.5*
-
-The story is based on the real events of 1985. The team of a Russian polar icebreaker “Mikhail Gromov” discovered a giant iceberg. The ship came into collision while attempting to take cover from the weather and is forced to drift with ice along the Amundsen Sea coast. The crew of “Gromov” spent 133 days of polar night trying to find a way out of their icy trap. They have no room for mistakes; one wrong move and the vessel is crushed by ice.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8jw0IQEwcKo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
 
 	
 
@@ -408,6 +347,31 @@ A middle aged carpenter who requires state welfare after injuring himself, is jo
   allowfullscreen></iframe>
 
 	
+	
+
+	
+	
+
+### Boo! A Madea Halloween
+*Released on 2016-10-21, vote average 4*
+
+Madea winds up in the middle of mayhem when she spends a hilarious, haunted Halloween fending off killers, paranormal poltergeists, ghosts, ghouls, and zombies while keeping a watchful eye on a group of misbehaving teens.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pwX4tY4oHdo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
 	
 
 	
