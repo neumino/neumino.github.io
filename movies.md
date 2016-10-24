@@ -35,7 +35,7 @@ After waking up in a hospital with amnesia, professor Robert Langdon and a docto
 	
 
 ### Jack Reacher: Never Go Back
-*Released on 2016-10-19, vote average 3.74*
+*Released on 2016-10-19, vote average 4.24*
 
 Jack Reacher returns to the headquarters of his old unit, only to find out he&#39;s now accused of a 16-year-old homicide.
 
@@ -89,17 +89,46 @@ As a math savant uncooks the books for a new client, the Treasury Department clo
 
 	
 	
+	
 
-### I Know You&#39;re in There
-*Released on 2016-10-20, vote average 8*
+  
 
-When his mother commits suicide, Tom Redding discovers he has a long lost sister that cannot move or talk. Together they travel to their dead mother&#39;s isolated home, where Tom hopes to document her illness, only to be driven to the brink of madness by a supernatural evil.
+
+	
+	
+
+### Boo! A Madea Halloween
+*Released on 2016-10-21, vote average 5*
+
+Madea winds up in the middle of mayhem when she spends a hilarious, haunted Halloween fending off killers, paranormal poltergeists, ghosts, ghouls, and zombies while keeping a watchful eye on a group of misbehaving teens.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/https://youtu.be/wtV3q9-G9qs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/FyMDl6puabM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Rocky Horror Picture Show: Let&#39;s Do the Time Warp Again
+*Released on 2016-10-20, vote average 7*
+
+A straitlaced, square couple, seeking shelter from a storm, find themselves in the castle of a transsexual alien mad scientist intent on creating a buff bodybuilder.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/outmDIi29Bo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,6 +163,33 @@ In 1965 Los Angeles, a widowed mother and her two daughters add a new stunt to b
 	
 	
 
+### I Know You&#39;re in There
+*Released on 2016-10-20, vote average 8*
+
+When his mother commits suicide, Tom Redding discovers he has a long lost sister that cannot move or talk. Together they travel to their dead mother&#39;s isolated home, where Tom hopes to document her illness, only to be driven to the brink of madness by a supernatural evil.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/https://youtu.be/wtV3q9-G9qs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### Keeping Up with the Joneses
 *Released on 2016-10-21, vote average 0.5*
 
@@ -147,106 +203,6 @@ An ordinary suburban couple (Zach Galifianakis, Isla Fisher) finds it’s not ea
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
-	
-
-### The Rocky Horror Picture Show: Let&#39;s Do the Time Warp Again
-*Released on 2016-10-20, vote average 7*
-
-A straitlaced, square couple, seeking shelter from a storm, find themselves in the castle of a transsexual alien mad scientist intent on creating a buff bodybuilder.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/outmDIi29Bo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### I, Daniel Blake
-*Released on 2016-10-21, vote average 10*
-
-A middle aged carpenter who requires state welfare after injuring himself, is joined by a single mother in a similar scenario.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zZ-rBLtP1Ow?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Boo! A Madea Halloween
-*Released on 2016-10-21, vote average 5*
-
-Madea winds up in the middle of mayhem when she spends a hilarious, haunted Halloween fending off killers, paranormal poltergeists, ghosts, ghouls, and zombies while keeping a watchful eye on a group of misbehaving teens.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pwX4tY4oHdo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 	
 
@@ -286,6 +242,86 @@ Four high school students look to redefine themselves after graduation.
 
 
 	
+	
+	
+
+  
+
+
+	
+	
+
+### I&#39;m Not Ashamed
+*Released on 2016-10-21, vote average 9*
+
+Based on the inspiring and powerful true story and journal entries of Rachel Joy Scott- the first student killed in the Columbine high school shooting in 1999.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/RJJ2xphZjjA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Mascots
+*Released on 2016-10-11, vote average 6.21*
+
+Eager contestants don big heads and furry suits to vie for the title of World&#39;s Best Mascot.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/swTWozTxQ-E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Trolls
+*Released on 2016-10-13, vote average 5.31*
+
+Lovable and friendly, the trolls love to play around. But one day, a mysterious giant shows up to end the party. Poppy, the optimistic leader of the Trolls, and her polar opposite, Branch, must embark on an adventure that takes them far beyond the only world they’ve ever known.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/tDnRVKPjj8k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
 
   
 
@@ -303,7 +339,7 @@ Four high school students look to redefine themselves after graduation.
 	
 
 ### Doctor Strange
-*Released on 2016-10-25, vote average 2.75*
+*Released on 2016-10-25, vote average 4.25*
 
 After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under his wing and trains him to defend the world against evil.
 
@@ -342,6 +378,23 @@ After his career is destroyed, a brilliant but arrogant surgeon gets a new lease
 
 	
 
+	
+	
+
+### Shivaay
+*Released on 2016-10-28, vote average 0.5*
+
+Shivaay is a Bollywood Film directed by and starring Ajay Devgn and Sayesha Saigal in the lead roles. The film is set for release on Diwali 2016. Shivaay is a high octane action drama movie .
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/poLjq0u4_5A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
