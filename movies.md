@@ -68,8 +68,30 @@ Jack Reacher returns to the headquarters of his old unit, only to find out he&#3
 	
 	
 
+### Doctor Strange
+*Released on 2016-10-25, vote average 5.2*
+
+After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under his wing and trains him to defend the world against evil.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/HSzx-zryEgM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Accountant
-*Released on 2016-10-14, vote average 5.23*
+*Released on 2016-10-14, vote average 5.44*
 
 As a math savant uncooks the books for a new client, the Treasury Department closes in on his activities and the body count starts to rise.
 
@@ -89,60 +111,9 @@ As a math savant uncooks the books for a new client, the Treasury Department clo
 
 	
 	
-	
-
-  
-
-
-	
-	
-
-### Boo! A Madea Halloween
-*Released on 2016-10-21, vote average 5*
-
-Madea winds up in the middle of mayhem when she spends a hilarious, haunted Halloween fending off killers, paranormal poltergeists, ghosts, ghouls, and zombies while keeping a watchful eye on a group of misbehaving teens.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FyMDl6puabM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Rocky Horror Picture Show: Let&#39;s Do the Time Warp Again
-*Released on 2016-10-20, vote average 7*
-
-A straitlaced, square couple, seeking shelter from a storm, find themselves in the castle of a transsexual alien mad scientist intent on creating a buff bodybuilder.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/outmDIi29Bo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
 
 ### Ouija: Origin of Evil
-*Released on 2016-10-20, vote average 4*
+*Released on 2016-10-20, vote average 5.46*
 
 In 1965 Los Angeles, a widowed mother and her two daughters add a new stunt to bolster their séance scam business and unwittingly invite authentic evil into their home. When the youngest daughter is overtaken by the merciless spirit, this small family confronts unthinkable fears to save her and send her possessor back to the other side.
 
@@ -163,16 +134,16 @@ In 1965 Los Angeles, a widowed mother and her two daughters add a new stunt to b
 	
 	
 
-### I Know You&#39;re in There
+### The Rocky Horror Picture Show: Let&#39;s Do the Time Warp Again
 *Released on 2016-10-20, vote average 8*
 
-When his mother commits suicide, Tom Redding discovers he has a long lost sister that cannot move or talk. Together they travel to their dead mother&#39;s isolated home, where Tom hopes to document her illness, only to be driven to the brink of madness by a supernatural evil.
+A straitlaced, square couple, seeking shelter from a storm, find themselves in the castle of a transsexual alien mad scientist intent on creating a buff bodybuilder.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/https://youtu.be/wtV3q9-G9qs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/outmDIi29Bo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -183,6 +154,66 @@ When his mother commits suicide, Tom Redding discovers he has a long lost sister
 
 
 	
+	
+
+### Boo! A Madea Halloween
+*Released on 2016-10-21, vote average 5.17*
+
+Madea winds up in the middle of mayhem when she spends a hilarious, haunted Halloween fending off killers, paranormal poltergeists, ghosts, ghouls, and zombies while keeping a watchful eye on a group of misbehaving teens.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FyMDl6puabM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### King Cobra
+*Released on 2016-10-21, vote average 2.67*
+
+Offended by his paltry paycheck, Sean Paul Lockhart falls out with the owner, director, and producer of the label that made his famous Cobra video. When the newly minted sex symbol attracts the attentions of a cash-strapped pair of rival producers and performers an all out porn turf war ensues.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/u6EZvq0BqGk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
 
   
 
@@ -191,7 +222,7 @@ When his mother commits suicide, Tom Redding discovers he has a long lost sister
 	
 
 ### Keeping Up with the Joneses
-*Released on 2016-10-21, vote average 0.5*
+*Released on 2016-10-21, vote average 1.83*
 
 An ordinary suburban couple (Zach Galifianakis, Isla Fisher) finds it’s not easy keeping up with the Joneses (Jon Hamm, Gal Gadot) – their impossibly gorgeous and ultra-sophisticated new neighbors – especially when they discover that Mr. and Mrs. “Jones” are covert operatives.
 
@@ -204,16 +235,6 @@ An ordinary suburban couple (Zach Galifianakis, Isla Fisher) finds it’s not ea
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -242,8 +263,6 @@ Four high school students look to redefine themselves after graduation.
 
 
 	
-	
-	
 
   
 
@@ -251,60 +270,16 @@ Four high school students look to redefine themselves after graduation.
 	
 	
 
-### I&#39;m Not Ashamed
-*Released on 2016-10-21, vote average 9*
+### American Pastoral
+*Released on 2016-10-20, vote average 4.33*
 
-Based on the inspiring and powerful true story and journal entries of Rachel Joy Scott- the first student killed in the Columbine high school shooting in 1999.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/RJJ2xphZjjA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Mascots
-*Released on 2016-10-11, vote average 6.21*
-
-Eager contestants don big heads and furry suits to vie for the title of World&#39;s Best Mascot.
+Set in postwar America, a man watches his seemingly perfect life fall apart as his daughter&#39;s new political affiliation threatens to destroy their family.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/swTWozTxQ-E?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Trolls
-*Released on 2016-10-13, vote average 5.31*
-
-Lovable and friendly, the trolls love to play around. But one day, a mysterious giant shows up to end the party. Poppy, the optimistic leader of the Trolls, and her polar opposite, Branch, must embark on an adventure that takes them far beyond the only world they’ve ever known.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tDnRVKPjj8k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/079zFCh81L4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -322,10 +297,41 @@ Lovable and friendly, the trolls love to play around. But one day, a mysterious 
 
 
 	
+	
+
+### I, Daniel Blake
+*Released on 2016-10-21, vote average 8.33*
+
+A middle aged carpenter who requires state welfare after injuring himself, is joined by a single mother in a similar scenario.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zZ-rBLtP1Ow?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -339,7 +345,7 @@ Lovable and friendly, the trolls love to play around. But one day, a mysterious 
 	
 
 ### Doctor Strange
-*Released on 2016-10-25, vote average 4.25*
+*Released on 2016-10-25, vote average 5.2*
 
 After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under his wing and trains him to defend the world against evil.
 
@@ -347,7 +353,26 @@ After his career is destroyed, a brilliant but arrogant surgeon gets a new lease
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/3xoxeCWpZyU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/HSzx-zryEgM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### Rings
+*Released on 2016-10-27, vote average 8.67*
+
+The film revolves around the events that took place before The Ring. It tells the story of the years before the video tape came to be and the beginning of how Samara&#39;s terror began.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mQXhV4PQl3I?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -365,11 +390,7 @@ After his career is destroyed, a brilliant but arrogant surgeon gets a new lease
 	
 
 	
-
 	
-
-	
-
 	
 
 	
@@ -403,6 +424,14 @@ Shivaay is a Bollywood Film directed by and starring Ajay Devgn and Sayesha Saig
 
 	
 
+	
+
+	
+	
+	
+
+	
+	
 	
 
 	
