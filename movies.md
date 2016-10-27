@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Inferno
-*Released on 2016-10-13, vote average 5.19*
+### Jack Reacher: Never Go Back
+*Released on 2016-10-19, vote average 4.3*
 
-After waking up in a hospital with amnesia, professor Robert Langdon and a doctor must race against time to foil a deadly global plot.
+Jack Reacher must uncover the truth behind a major government conspiracy in order to clear his name. On the run as a fugitive from the law, Reacher uncovers a potential secret from his past that could change his life forever.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xbNBB1D37U8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/aoCP_JHzBUM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -34,16 +34,16 @@ After waking up in a hospital with amnesia, professor Robert Langdon and a docto
 	
 	
 
-### Jack Reacher: Never Go Back
-*Released on 2016-10-19, vote average 4.1*
+### Inferno
+*Released on 2016-10-13, vote average 5.17*
 
-Jack Reacher must uncover the truth behind a major government conspiracy in order to clear his name. On the run as a fugitive from the law, Reacher uncovers a potential secret from his past that could change his life forever.
+After waking up in a hospital with amnesia, professor Robert Langdon and a doctor must race against time to foil a deadly global plot.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/aoCP_JHzBUM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xbNBB1D37U8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,16 +68,16 @@ Jack Reacher must uncover the truth behind a major government conspiracy in orde
 	
 	
 
-### The Accountant
-*Released on 2016-10-14, vote average 5.28*
+### Doctor Strange
+*Released on 2016-10-25, vote average 5.2*
 
-As a math savant uncooks the books for a new client, the Treasury Department closes in on his activities and the body count starts to rise.
+After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under his wing and trains him to defend the world against evil.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/aNGhnNMSopI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/HSzx-zryEgM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -90,16 +90,16 @@ As a math savant uncooks the books for a new client, the Treasury Department clo
 	
 	
 
-### Doctor Strange
-*Released on 2016-10-25, vote average 5.44*
+### The Accountant
+*Released on 2016-10-14, vote average 5.41*
 
-After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under his wing and trains him to defend the world against evil.
+As a math savant uncooks the books for a new client, the Treasury Department closes in on his activities and the body count starts to rise.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/HSzx-zryEgM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/aNGhnNMSopI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -121,7 +121,7 @@ Madea winds up in the middle of mayhem when she spends a hilarious, haunted Hall
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/pwX4tY4oHdo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/FyMDl6puabM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -132,6 +132,43 @@ Madea winds up in the middle of mayhem when she spends a hilarious, haunted Hall
 
 
 	
+	
+
+### Ouija: Origin of Evil
+*Released on 2016-10-20, vote average 5.86*
+
+In 1965 Los Angeles, a widowed mother and her two daughters add a new stunt to bolster their séance scam business and unwittingly invite authentic evil into their home. When the youngest daughter is overtaken by the merciless spirit, this small family confronts unthinkable fears to save her and send her possessor back to the other side.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nDyOftZyVeA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Rings
+*Released on 2016-10-27, vote average 8.4*
+
+The film revolves around the events that took place before The Ring. It tells the story of the years before the video tape came to be and the beginning of how Samara&#39;s terror began.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mQXhV4PQl3I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -163,43 +200,6 @@ A straitlaced, square couple, seeking shelter from a storm, find themselves in t
 	
 	
 
-### Ouija: Origin of Evil
-*Released on 2016-10-20, vote average 5.54*
-
-In 1965 Los Angeles, a widowed mother and her two daughters add a new stunt to bolster their séance scam business and unwittingly invite authentic evil into their home. When the youngest daughter is overtaken by the merciless spirit, this small family confronts unthinkable fears to save her and send her possessor back to the other side.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nDyOftZyVeA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### Good Kids
 *Released on 2016-10-21, vote average 7.75*
 
@@ -221,21 +221,21 @@ Four high school students look to redefine themselves after graduation.
 
 	
 	
+	
 
-### King Cobra
-*Released on 2016-10-21, vote average 2.67*
+  
 
-Offended by his paltry paycheck, Sean Paul Lockhart falls out with the owner, director, and producer of the label that made his famous Cobra video. When the newly minted sex symbol attracts the attentions of a cash-strapped pair of rival producers and performers an all out porn turf war ensues.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/u6EZvq0BqGk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -257,6 +257,13 @@ Lovable and friendly, the trolls love to play around. But one day, a mysterious 
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -320,15 +327,6 @@ A middle aged carpenter who requires state welfare after injuring himself, is jo
 
 
 	
-	
-	
-
-  
-
-
-	
-	
-	
 
   
 
@@ -341,7 +339,7 @@ A middle aged carpenter who requires state welfare after injuring himself, is jo
 	
 
 ### Rings
-*Released on 2016-10-27, vote average 8.67*
+*Released on 2016-10-27, vote average 8.4*
 
 The film revolves around the events that took place before The Ring. It tells the story of the years before the video tape came to be and the beginning of how Samara&#39;s terror began.
 
@@ -356,10 +354,6 @@ The film revolves around the events that took place before The Ring. It tells th
 	
 	
 
-	
-
-	
-	
 	
 
 	
@@ -390,6 +384,12 @@ Shivaay is a Bollywood Film directed by and starring Ajay Devgn and Sayesha Saig
 	
 
 	
+	
+	
+
+	
+	
+	
 
 	
 
@@ -399,8 +399,6 @@ Shivaay is a Bollywood Film directed by and starring Ajay Devgn and Sayesha Saig
 
 	
 
-	
-	
 	
 
 	
