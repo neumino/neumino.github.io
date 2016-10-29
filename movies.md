@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Jack Reacher: Never Go Back
-*Released on 2016-10-19, vote average 4.3*
+*Released on 2016-10-19, vote average 4.36*
 
 Jack Reacher must uncover the truth behind a major government conspiracy in order to clear his name. On the run as a fugitive from the law, Reacher uncovers a potential secret from his past that could change his life forever.
 
@@ -35,7 +35,7 @@ Jack Reacher must uncover the truth behind a major government conspiracy in orde
 	
 
 ### Doctor Strange
-*Released on 2016-10-25, vote average 7.13*
+*Released on 2016-10-25, vote average 7.27*
 
 After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under his wing and trains him to defend the world against evil.
 
@@ -43,7 +43,7 @@ After his career is destroyed, a brilliant but arrogant surgeon gets a new lease
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/3xoxeCWpZyU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/HSzx-zryEgM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -62,50 +62,6 @@ After his career is destroyed, a brilliant but arrogant surgeon gets a new lease
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-
-
-	
-	
-
-### Rings
-*Released on 2016-10-27, vote average 8.4*
-
-The film revolves around the events that took place before The Ring. It tells the story of the years before the video tape came to be and the beginning of how Samara&#39;s terror began.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/mQXhV4PQl3I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Accountant
-*Released on 2016-10-14, vote average 5.41*
-
-As a math savant uncooks the books for a new client, the Treasury Department closes in on his activities and the body count starts to rise.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/aNGhnNMSopI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
   
 
 
@@ -134,25 +90,20 @@ Madea winds up in the middle of mayhem when she spends a hilarious, haunted Hall
 	
 	
 
-### The Rocky Horror Picture Show: Let&#39;s Do the Time Warp Again
-*Released on 2016-10-20, vote average 5.9*
+### Rings
+*Released on 2016-10-27, vote average 8.4*
 
-A straitlaced, square couple, seeking shelter from a storm, find themselves in the castle of a transsexual alien mad scientist intent on creating a buff bodybuilder.
+The film revolves around the events that took place before The Ring. It tells the story of the years before the video tape came to be and the beginning of how Samara&#39;s terror began.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/outmDIi29Bo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/mQXhV4PQl3I?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -186,15 +137,6 @@ In 1965 Los Angeles, a widowed mother and her two daughters add a new stunt to b
 
 
 	
-	
-	
-
-  
-
-
-	
-	
-	
 
   
 
@@ -207,45 +149,20 @@ In 1965 Los Angeles, a widowed mother and her two daughters add a new stunt to b
 	
 	
 
-### King Cobra
-*Released on 2016-10-21, vote average 3.2*
+### The Rocky Horror Picture Show: Let&#39;s Do the Time Warp Again
+*Released on 2016-10-20, vote average 5.9*
 
-Offended by his paltry paycheck, Sean Paul Lockhart falls out with the owner, director, and producer of the label that made his famous Cobra video. When the newly minted sex symbol attracts the attentions of a cash-strapped pair of rival producers and performers an all out porn turf war ensues.
+A straitlaced, square couple, seeking shelter from a storm, find themselves in the castle of a transsexual alien mad scientist intent on creating a buff bodybuilder.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/u6EZvq0BqGk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/outmDIi29Bo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -273,6 +190,91 @@ Shivaay is a Bollywood Film directed by and starring Ajay Devgn and Sayesha Saig
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Ring The Alarm
+*Released on 2016-10-27, vote average 10*
+
+Skiing legend Tanner Hall is back with his long awaited ski film Ring The Alarm.  For the last 2 years Tanner and his friends shredded their all-time favorite ski zones in North America and sent all the footie to long-time filmmaking collaborator Shane Nelson. (Pop Yer Bootlez! 2005, Like A Lion 2010)  Tanner and Shane spent the last 2 summers editing over 11 hours of footage down to just 38 minutes of the absolute best shots. The Ring The Alarm soundtrack features the illest underground hip-hop remixes from DJ Thomax original orchestral score by Justin Pierre &amp;amp; Matt Taylor and Tanner&#39;s favorite dancehall tracks from Randy Valentine , Cali P and others.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-mvSAbtp_7Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Kaashmora
+*Released on 2016-10-28, vote average 0.5*
+
+Kaashmora, a present era black magic specialist; Rajnayak, an ancient era warlord and Ratnamahadevi is his queen. How these three are connected? What are the issues that arise?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/AJpED8zJlzo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -283,31 +285,6 @@ Shivaay is a Bollywood Film directed by and starring Ajay Devgn and Sayesha Saig
 
 
 	
-
-	
-	
-
-### Shivaay
-*Released on 2016-10-28, vote average 0.5*
-
-Shivaay is a Bollywood Film directed by and starring Ajay Devgn and Sayesha Saigal in the lead roles. The film is set for release on Diwali 2016. Shivaay is a high octane action drama movie .
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/poLjq0u4_5A?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-	
-
-	
 	
 	
 
@@ -316,7 +293,11 @@ Shivaay is a Bollywood Film directed by and starring Ajay Devgn and Sayesha Saig
 	
 
 	
+
 	
+
+	
+
 	
 
 	
