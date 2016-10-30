@@ -6,7 +6,7 @@ title: Incomplete kernel update
 ---
 {% include JB/setup %}
 
-_These are quick notes to fix my system after a incomplete kernel update._
+_These are quick notes about fixing my system after an incomplete kernel update._
 
 During a system update, my workstation suddenly shut down (hardware failure). I
 was working on something else during the update, so I had no idea when the
