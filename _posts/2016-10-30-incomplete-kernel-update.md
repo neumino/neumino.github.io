@@ -6,6 +6,8 @@ title: Incomplete kernel update
 ---
 {% include JB/setup %}
 
+_These are quick notes to fix my system after a incomplete kernel update._
+
 During a system update, my workstation suddenly shut down (hardware failure). I
 was working on something else during the update, so I had no idea when the
 update was aborted. When I tried to boot again, I was greeted with this error:
@@ -23,10 +25,9 @@ sh: can't access tty: job control turned off
 
 At that time I thought that one of my harddrive died. Digging a bit into it,
 the partition that couldn't be found was an encrypted one. So I thought that
-maybe my fstab got somehow corrupted.
-
-I didn't have access to a shell after booting as the keyboard was not working,
-so I just booted with a live usb key. My disks are all encrypted, so the first step was to decrypt them:
+maybe my fstab got somehow corrupted. I didn't have access to a shell after
+booting as the keyboard was not working, so I just booted with a live usb key.
+My disks are all encrypted, so the first step was to decrypt them:
 
 
 Confirm that they are indeed crypted:
