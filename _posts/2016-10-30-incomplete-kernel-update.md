@@ -1,7 +1,7 @@
 ---
 layout: post
 category : Geek
-tags : []
+tags : [archlinux, kernel, encryption, disk]
 title: Incomplete kernel update
 ---
 {% include JB/setup %}
