@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Jack Reacher: Never Go Back
-*Released on 2016-10-19, vote average 4.3*
+*Released on 2016-10-19, vote average 4.36*
 
 Jack Reacher must uncover the truth behind a major government conspiracy in order to clear his name. On the run as a fugitive from the law, Reacher uncovers a potential secret from his past that could change his life forever.
 
@@ -35,7 +35,7 @@ Jack Reacher must uncover the truth behind a major government conspiracy in orde
 	
 
 ### Doctor Strange
-*Released on 2016-10-25, vote average 7.08*
+*Released on 2016-10-25, vote average 7.32*
 
 After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under his wing and trains him to defend the world against evil.
 
@@ -90,16 +90,16 @@ Madea winds up in the middle of mayhem when she spends a hilarious, haunted Hall
 	
 	
 
-### Ouija: Origin of Evil
-*Released on 2016-10-20, vote average 5.25*
+### Rings
+*Released on 2016-10-27, vote average 6.14*
 
-In 1965 Los Angeles, a widowed mother and her two daughters add a new stunt to bolster their séance scam business and unwittingly invite authentic evil into their home. When the youngest daughter is overtaken by the merciless spirit, this small family confronts unthinkable fears to save her and send her possessor back to the other side.
+The film revolves around the events that took place before The Ring. It tells the story of the years before the video tape came to be and the beginning of how Samara&#39;s terror began.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/nDyOftZyVeA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/mQXhV4PQl3I?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,20 +134,98 @@ The drama is centered around four friends and business partners who in one eveni
 	
 	
 
-### Rings
-*Released on 2016-10-27, vote average 6.14*
+### Ouija: Origin of Evil
+*Released on 2016-10-20, vote average 5.25*
 
-The film revolves around the events that took place before The Ring. It tells the story of the years before the video tape came to be and the beginning of how Samara&#39;s terror began.
+In 1965 Los Angeles, a widowed mother and her two daughters add a new stunt to bolster their séance scam business and unwittingly invite authentic evil into their home. When the youngest daughter is overtaken by the merciless spirit, this small family confronts unthinkable fears to save her and send her possessor back to the other side.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/mQXhV4PQl3I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/nDyOftZyVeA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Recovery
+*Released on 2016-10-27, vote average 7*
+
+The night before their high school graduation, Jessie and her friends are guided by a &#39;Find My iPhone&#39; app to recover her lost device from a house whose demented tenants are hell bent on making her a flesh and blood member of the family.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-L2PtrePpkw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Rocky Horror Picture Show: Let&#39;s Do the Time Warp Again
+*Released on 2016-10-20, vote average 6.21*
+
+A straitlaced, square couple, seeking shelter from a storm, find themselves in the castle of a transsexual alien mad scientist intent on creating a buff bodybuilder.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/outmDIi29Bo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### I, Daniel Blake
+*Released on 2016-10-21, vote average 6.6*
+
+A middle aged carpenter who requires state welfare after injuring himself, is joined by a single mother in a similar scenario.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zZ-rBLtP1Ow?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -181,14 +259,10 @@ Shivaay is a Bollywood Film directed by and starring Ajay Devgn and Sayesha Saig
 
 
 	
-	
-	
 
   
 
 
-	
-	
 	
 
   
@@ -219,16 +293,16 @@ Kaashmora, a present era black magic specialist; Rajnayak, an ancient era warlor
 	
 	
 
-### The Rocky Horror Picture Show: Let&#39;s Do the Time Warp Again
-*Released on 2016-10-20, vote average 6.21*
+### 7 years
+*Released on 2016-10-28, vote average 7*
 
-A straitlaced, square couple, seeking shelter from a storm, find themselves in the castle of a transsexual alien mad scientist intent on creating a buff bodybuilder.
+Four friends face an agonizing decision. One must go to prison. The other three must make the sacrifice worthwhile.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/outmDIi29Bo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/l88tkhzVMa0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -248,50 +322,6 @@ A straitlaced, square couple, seeking shelter from a storm, find themselves in t
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Ae Dil Hai Mushkil
-*Released on 2016-10-28, vote average 1.5*
-
-Ae Dil Hai Mushkil (English: O Heart, It&#39;s Difficult), also known as ADHM, is an upcoming Indian romantic drama film written and directed by Karan Johar. It features Ranbir Kapoor, Aishwarya Rai Bachchan, Anushka Sharma and Fawad Khan in the lead roles. The film is scheduled for release on 28 October 2016 on the Diwali weekend.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hXh35CtnSyU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -302,32 +332,32 @@ Ae Dil Hai Mushkil (English: O Heart, It&#39;s Difficult), also known as ADHM, i
 
 
 	
-
 	
 
-	
+### Hacksaw Ridge
+*Released on 2016-11-04, vote average 0.25*
 
-	
-
-	
-
-	
-	
-
-### The Fire People
-*Released on 2016-11-01, vote average 9*
-
-A young boy embarks on a quest to find a clan of magical forest dwellers, constantly on the run from an evil force which attempts at every turn to stop him.
+WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to win the Congressional Medal of Honor.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/qYNhjIgvQRk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/s2-1hz1juBI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
