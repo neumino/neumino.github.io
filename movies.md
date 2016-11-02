@@ -35,7 +35,7 @@ Jack Reacher must uncover the truth behind a major government conspiracy in orde
 	
 
 ### Doctor Strange
-*Released on 2016-10-25, vote average 7.37*
+*Released on 2016-10-25, vote average 7.36*
 
 After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under his wing and trains him to defend the world against evil.
 
@@ -69,7 +69,7 @@ After his career is destroyed, a brilliant but arrogant surgeon gets a new lease
 	
 
 ### Boo! A Madea Halloween
-*Released on 2016-10-21, vote average 5.09*
+*Released on 2016-10-21, vote average 4.49*
 
 Madea winds up in the middle of mayhem when she spends a hilarious, haunted Halloween fending off killers, paranormal poltergeists, ghosts, ghouls, and zombies while keeping a watchful eye on a group of misbehaving teens.
 
@@ -77,7 +77,7 @@ Madea winds up in the middle of mayhem when she spends a hilarious, haunted Hall
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/FyMDl6puabM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/pwX4tY4oHdo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,6 +112,28 @@ In 1965 Los Angeles, a widowed mother and her two daughters add a new stunt to b
 	
 	
 
+### Rings
+*Released on 2016-10-27, vote average 6.14*
+
+The film revolves around the events that took place before The Ring. It tells the story of the years before the video tape came to be and the beginning of how Samara&#39;s terror began.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mQXhV4PQl3I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### 7 Years
 *Released on 2016-10-28, vote average 7.5*
 
@@ -134,16 +156,16 @@ The drama is centered around four friends and business partners who in one eveni
 	
 	
 
-### Rings
-*Released on 2016-10-27, vote average 6.14*
+### Recovery
+*Released on 2016-10-27, vote average 3.75*
 
-The film revolves around the events that took place before The Ring. It tells the story of the years before the video tape came to be and the beginning of how Samara&#39;s terror began.
+The night before their high school graduation, Jessie and her friends are guided by a &#39;Find My iPhone&#39; app to recover her lost device from a house whose demented tenants are hell bent on making her a flesh and blood member of the family.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/mQXhV4PQl3I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-L2PtrePpkw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -159,18 +181,38 @@ The film revolves around the events that took place before The Ring. It tells th
 
 
 	
+
+  
+
+
 	
 
-### Recovery
-*Released on 2016-10-27, vote average 7*
+  
 
-The night before their high school graduation, Jessie and her friends are guided by a &#39;Find My iPhone&#39; app to recover her lost device from a house whose demented tenants are hell bent on making her a flesh and blood member of the family.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Ae Dil Hai Mushkil
+*Released on 2016-10-28, vote average 1.33*
+
+Ae Dil Hai Mushkil (English: O Heart, It&#39;s Difficult), also known as ADHM, is an upcoming Indian romantic drama film written and directed by Karan Johar. It features Ranbir Kapoor, Aishwarya Rai Bachchan, Anushka Sharma and Fawad Khan in the lead roles. The film is scheduled for release on 28 October 2016 on the Diwali weekend.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-L2PtrePpkw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/hXh35CtnSyU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -203,44 +245,10 @@ Shivaay is a Bollywood Film directed by and starring Ajay Devgn and Sayesha Saig
 
 
 	
-	
-
-### Ae Dil Hai Mushkil
-*Released on 2016-10-28, vote average 1.33*
-
-Ae Dil Hai Mushkil (English: O Heart, It&#39;s Difficult), also known as ADHM, is an upcoming Indian romantic drama film written and directed by Karan Johar. It features Ranbir Kapoor, Aishwarya Rai Bachchan, Anushka Sharma and Fawad Khan in the lead roles. The film is scheduled for release on 28 October 2016 on the Diwali weekend.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hXh35CtnSyU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
-	
-	
-
-### The Rocky Horror Picture Show: Let&#39;s Do the Time Warp Again
-*Released on 2016-10-20, vote average 6.21*
-
-A straitlaced, square couple, seeking shelter from a storm, find themselves in the castle of a transsexual alien mad scientist intent on creating a buff bodybuilder.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/outmDIi29Bo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -257,90 +265,10 @@ A straitlaced, square couple, seeking shelter from a storm, find themselves in t
 
 
 	
-	
-
-### Keeping Up with the Joneses
-*Released on 2016-10-21, vote average 1.83*
-
-An ordinary suburban couple finds it’s not easy keeping up with the Joneses – their impossibly gorgeous and ultra-sophisticated new neighbors – especially when they discover that Mr. and Mrs. “Jones” are covert operatives.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nPfYXXg65qA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
-	
-	
-	
-
-  
-
-
-	
-	
-
-### I, Daniel Blake
-*Released on 2016-10-21, vote average 6.54*
-
-A middle aged carpenter who requires state welfare after injuring himself, is joined by a single mother in a similar scenario.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zZ-rBLtP1Ow?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Fire People
-*Released on 2016-11-01, vote average 9*
-
-A young boy embarks on a quest to find a clan of magical forest dwellers, constantly on the run from an evil force which attempts at every turn to stop him.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qYNhjIgvQRk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -370,23 +298,6 @@ WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinaw
 	
 
 	
-	
-
-### The Fire People
-*Released on 2016-11-01, vote average 9*
-
-A young boy embarks on a quest to find a clan of magical forest dwellers, constantly on the run from an evil force which attempts at every turn to stop him.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qYNhjIgvQRk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
@@ -422,6 +333,8 @@ A young boy embarks on a quest to find a clan of magical forest dwellers, consta
 
 	
 
+	
+	
 	
 
 
