@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Doctor Strange
-*Released on 2016-10-25, vote average 7.25*
+*Released on 2016-10-25, vote average 7.15*
 
 After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under his wing and trains him to defend the world against evil.
 
@@ -21,7 +21,7 @@ After his career is destroyed, a brilliant but arrogant surgeon gets a new lease
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/3xoxeCWpZyU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/HSzx-zryEgM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -34,16 +34,16 @@ After his career is destroyed, a brilliant but arrogant surgeon gets a new lease
 	
 	
 
-### Boo! A Madea Halloween
-*Released on 2016-10-21, vote average 4.58*
+### Hacksaw Ridge
+*Released on 2016-11-04, vote average 4.64*
 
-Madea winds up in the middle of mayhem when she spends a hilarious, haunted Halloween fending off killers, paranormal poltergeists, ghosts, ghouls, and zombies while keeping a watchful eye on a group of misbehaving teens.
+WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to win the Congressional Medal of Honor.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/FyMDl6puabM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/s2-1hz1juBI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,16 +68,16 @@ Madea winds up in the middle of mayhem when she spends a hilarious, haunted Hall
 	
 	
 
-### Hacksaw Ridge
-*Released on 2016-11-04, vote average 3*
+### Rings
+*Released on 2016-10-27, vote average 5.65*
 
-WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to win the Congressional Medal of Honor.
+The film revolves around the events that took place before The Ring. It tells the story of the years before the video tape came to be and the beginning of how Samara&#39;s terror began.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/s2-1hz1juBI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/mQXhV4PQl3I?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -88,6 +88,8 @@ WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinaw
 
 
 	
+	
+	
 
   
 
@@ -98,7 +100,10 @@ WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinaw
 
 
 	
-	
+
+  
+
+
 	
 
   
@@ -132,18 +137,28 @@ The drama is centered around four friends and business partners who in one eveni
 
 
 	
+
+  
+
+
 	
 
-### Rings
-*Released on 2016-10-27, vote average 5.65*
+  
 
-The film revolves around the events that took place before The Ring. It tells the story of the years before the video tape came to be and the beginning of how Samara&#39;s terror began.
+
+	
+	
+
+### Ae Dil Hai Mushkil
+*Released on 2016-10-28, vote average 1.33*
+
+Ae Dil Hai Mushkil (English: O Heart, It&#39;s Difficult), also known as ADHM, is an upcoming Indian romantic drama film written and directed by Karan Johar. It features Ranbir Kapoor, Aishwarya Rai Bachchan, Anushka Sharma and Fawad Khan in the lead roles. The film is scheduled for release on 28 October 2016 on the Diwali weekend.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/mQXhV4PQl3I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/hXh35CtnSyU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -179,23 +194,6 @@ The film revolves around the events that took place before The Ring. It tells th
 
 
 	
-	
-
-### Recovery
-*Released on 2016-10-27, vote average 3.75*
-
-The night before their high school graduation, Jessie and her friends are guided by a &#39;Find My iPhone&#39; app to recover her lost device from a house whose demented tenants are hell bent on making her a flesh and blood member of the family.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-L2PtrePpkw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -206,20 +204,7 @@ The night before their high school graduation, Jessie and her friends are guided
 
 
 	
-
-  
-
-
 	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -232,16 +217,16 @@ The night before their high school graduation, Jessie and her friends are guided
 	
 	
 
-### Hacksaw Ridge
-*Released on 2016-11-04, vote average 3*
+### Arrival
+*Released on 2016-11-10, vote average 10*
 
-WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to win the Congressional Medal of Honor.
+Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/s2-1hz1juBI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/gwqSi_ToNPs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -255,13 +240,13 @@ WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinaw
 	
 
 	
+	
+	
 
 	
 
 	
 
-	
-	
 	
 
 	
