@@ -14,17 +14,4 @@ title: Blog
     {{post.content}}
 </div>
 
-{% if forloop.first %}		
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- main.blog.justonepixel.com -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:468px;height:60px"
-     data-ad-client="ca-pub-0353610365188957"
-     data-ad-slot="9845160200"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-<hr class="adhr"/>
-{% endif %}		
-
 {% endfor %}
