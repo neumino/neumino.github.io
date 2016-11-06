@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Doctor Strange
-*Released on 2016-10-25, vote average 7.15*
+*Released on 2016-10-25, vote average 7.05*
 
 After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under his wing and trains him to defend the world against evil.
 
@@ -35,7 +35,7 @@ After his career is destroyed, a brilliant but arrogant surgeon gets a new lease
 	
 
 ### Hacksaw Ridge
-*Released on 2016-11-04, vote average 4.64*
+*Released on 2016-11-04, vote average 5.53*
 
 WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to win the Congressional Medal of Honor.
 
@@ -48,6 +48,50 @@ WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinaw
   allowfullscreen></iframe>
 
 	
+	
+
+  
+<br/>
+<br/>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle"
+     style="display:inline-block;width:468px;height:60px"
+     data-ad-client="ca-pub-0353610365188957"
+     data-ad-slot="9845160200"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Mr. Church
+*Released on 2016-10-25, vote average 6.31*
+
+A unique friendship develops when a little girl and her dying mother inherit a cook - Mr. Church. What begins as an arrangement that should only last six months, instead spans fifteen years.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/K6VSQKNfr1Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -76,7 +120,54 @@ The film revolves around the events that took place before The Ring. It tells th
 
 
 	
+
+  
+
+
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -100,98 +191,19 @@ The film revolves around the events that took place before The Ring. It tells th
 	
 	
 
-### 7 Years
-*Released on 2016-10-28, vote average 5.67*
+### Stagecoach: The Texas Jack Story
+*Released on 2016-11-04, vote average 4.75*
 
-The drama is centered around four friends and business partners who in one evening are forced to find a way to save their company and themselves. The impossible decision they face is agreeing on who will be the one to sacrifice their freedom to save the others from personal and financial demise. It is a race against time that will put their friendship and sanity to the test. Who will take the fall?
+After retiring from his life as an outlaw, ranch owner Nathaniel Reed (Trace Adkins) quietly leads an honest existence with his devoted wife, Laura Lee. But his gun-slinging past suddenly comes back to haunt him when he learns that the man he once maimed during a stagecoach robbery is now a U.S. Marshal (Kim Coates) who will stop at nothing to find vengeance. After a violent shootout brings tragic consequences, Nathaniel returns to his old ways and becomes Texas Jack: the most wanted outlaw in the West. Judd Nelson also stars in this action-packed quest for redemption filled with galloping getaways, a beautiful bounty hunter and the possibility of a second chance.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/l88tkhzVMa0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/VJkSUMH0Ntw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Ae Dil Hai Mushkil
-*Released on 2016-10-28, vote average 1.33*
-
-Ae Dil Hai Mushkil (English: O Heart, It&#39;s Difficult), also known as ADHM, is an upcoming Indian romantic drama film written and directed by Karan Johar. It features Ranbir Kapoor, Aishwarya Rai Bachchan, Anushka Sharma and Fawad Khan in the lead roles. The film is scheduled for release on 28 October 2016 on the Diwali weekend.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hXh35CtnSyU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 	
 
@@ -227,8 +239,6 @@ Taking place after alien crafts land around the world, an expert linguist is rec
 
 	
 
-	
-	
 	
 
 	
