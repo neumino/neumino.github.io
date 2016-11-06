@@ -21,13 +21,25 @@ After his career is destroyed, a brilliant but arrogant surgeon gets a new lease
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/HSzx-zryEgM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/3xoxeCWpZyU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
 	
 
+  
+<br/>
+<br/>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle"
+     style="display:inline-block;width:468px;height:60px"
+     data-ad-client="ca-pub-5366199723595534"
+     data-ad-slot="2620298801"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
   
 
 
@@ -50,18 +62,6 @@ WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinaw
 	
 	
 
-  
-<br/>
-<br/>
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-
-<ins class="adsbygoogle"
-     style="display:inline-block;width:468px;height:60px"
-     data-ad-client="ca-pub-5366199723595534"
-     data-ad-slot="2620298801"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
   
 
 
