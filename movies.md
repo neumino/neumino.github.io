@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Doctor Strange
-*Released on 2016-10-25, vote average 7.05*
+*Released on 2016-10-25, vote average 7.07*
 
 After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under his wing and trains him to defend the world against evil.
 
@@ -35,7 +35,7 @@ After his career is destroyed, a brilliant but arrogant surgeon gets a new lease
 	
 
 ### Hacksaw Ridge
-*Released on 2016-11-04, vote average 5.53*
+*Released on 2016-11-04, vote average 5.56*
 
 WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to win the Congressional Medal of Honor.
 
@@ -57,16 +57,11 @@ WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinaw
 
 <ins class="adsbygoogle"
      style="display:inline-block;width:468px;height:60px"
-     data-ad-client="ca-pub-0353610365188957"
-     data-ad-slot="9845160200"></ins>
+     data-ad-client="ca-pub-5366199723595534"
+     data-ad-slot="2620298801"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-
-
-	
-
   
 
 
@@ -87,11 +82,6 @@ A unique friendship develops when a little girl and her dying mother inherit a c
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -130,49 +120,22 @@ The film revolves around the events that took place before The Ring. It tells th
 
 
 	
-
-  
-
-
 	
 
-  
+### Nocturnal Animals
+*Released on 2016-11-04, vote average 4.08*
 
+A woman named Susan receives a book manuscript from her ex-husband — a man she left 20 years earlier — asking for her opinion of his writing. As she reads, she is drawn into the fictional life of Tony Hastings, a math professor whose family vacation turns violent.
 
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hIa5cuW4K0I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -210,6 +173,94 @@ After retiring from his life as an outlaw, ranch owner Nathaniel Reed (Trace Adk
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Shivaay
+*Released on 2016-10-28, vote average 0.5*
+
+Shivaay is a Bollywood Film directed by and starring Ajay Devgn and Sayesha Saigal in the lead roles. The film is set for release on Diwali 2016. Shivaay is a high octane action drama movie .
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/poLjq0u4_5A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### 7 Years
+*Released on 2016-10-28, vote average 5.67*
+
+The drama is centered around four friends and business partners who in one evening are forced to find a way to save their company and themselves. The impossible decision they face is agreeing on who will be the one to sacrifice their freedom to save the others from personal and financial demise. It is a race against time that will put their friendship and sanity to the test. Who will take the fall?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/l88tkhzVMa0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -218,7 +269,7 @@ After retiring from his life as an outlaw, ranch owner Nathaniel Reed (Trace Adk
 	
 
 ### Arrival
-*Released on 2016-11-10, vote average 10*
+*Released on 2016-11-10, vote average 6.07*
 
 Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.
 
@@ -248,7 +299,41 @@ Taking place after alien crafts land around the world, an expert linguist is rec
 	
 
 	
+	
 
+### Billy Lynn&#39;s Long Halftime Walk
+*Released on 2016-11-11, vote average 5*
+
+19-year-old Billy Lynn is brought home for a victory tour after a harrowing Iraq battle. Through flashbacks the film shows what really happened to his squad - contrasting the realities of war with America&#39;s perceptions.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mUULFJ_I048?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### Cassandra
+*Released on 2016-11-11, vote average 10*
+
+Linda and Mark lived in the house of their dreams but problems develop. One is a previous tenant, Cassandra, who died there 100 years ago and now is back.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wrPwJGtQkj4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
