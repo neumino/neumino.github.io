@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Doctor Strange
-*Released on 2016-10-25, vote average 7.07*
+*Released on 2016-10-25, vote average 7*
 
 After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under his wing and trains him to defend the world against evil.
 
@@ -21,7 +21,7 @@ After his career is destroyed, a brilliant but arrogant surgeon gets a new lease
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/3xoxeCWpZyU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/HSzx-zryEgM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -47,7 +47,7 @@ After his career is destroyed, a brilliant but arrogant surgeon gets a new lease
 	
 
 ### Hacksaw Ridge
-*Released on 2016-11-04, vote average 5.56*
+*Released on 2016-11-04, vote average 5.92*
 
 WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to win the Congressional Medal of Honor.
 
@@ -68,8 +68,44 @@ WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinaw
 	
 	
 
+### Rings
+*Released on 2016-10-27, vote average 6.17*
+
+The film revolves around the events that took place before The Ring. It tells the story of the years before the video tape came to be and the beginning of how Samara&#39;s terror began.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mQXhV4PQl3I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
 ### Mr. Church
-*Released on 2016-10-25, vote average 6.31*
+*Released on 2016-10-25, vote average 6.4*
 
 A unique friendship develops when a little girl and her dying mother inherit a cook - Mr. Church. What begins as an arrangement that should only last six months, instead spans fifteen years.
 
@@ -89,17 +125,36 @@ A unique friendship develops when a little girl and her dying mother inherit a c
 
 	
 	
+	
 
-### Rings
-*Released on 2016-10-27, vote average 5.65*
+  
 
-The film revolves around the events that took place before The Ring. It tells the story of the years before the video tape came to be and the beginning of how Samara&#39;s terror began.
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Loving
+*Released on 2016-11-04, vote average 0.5*
+
+Richard and Mildred Loving, an interracial couple, married in Virginia 1958. Authorities broke into their home, arrested them, and they were sentenced to a year in the state penitentiary. This sentence was suspended on the condition that they be exiled from the state of Virginia. Richard and Mildred would spend the next nine years fighting to get home. All of this, because Richard was a white man and Mildred a part black, part Cherokee woman.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/mQXhV4PQl3I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/yrQ5gUrRSrc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -120,32 +175,27 @@ The film revolves around the events that took place before The Ring. It tells th
 
 
 	
+
+  
+
+
+	
 	
 
-### Nocturnal Animals
-*Released on 2016-11-04, vote average 4.08*
+### I Am the Pretty Thing That Lives in the House
+*Released on 2016-10-28, vote average 5.22*
 
-A woman named Susan receives a book manuscript from her ex-husband — a man she left 20 years earlier — asking for her opinion of his writing. As she reads, she is drawn into the fictional life of Tony Hastings, a math professor whose family vacation turns violent.
+A young nurse takes care of elderly author who lives in a haunted house.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/hIa5cuW4K0I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/NRP-4f_vyrY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -184,11 +234,6 @@ After retiring from his life as an outlaw, ranch owner Nathaniel Reed (Trace Adk
 
 
 	
-
-  
-
-
-	
 	
 	
 
@@ -198,16 +243,16 @@ After retiring from his life as an outlaw, ranch owner Nathaniel Reed (Trace Adk
 	
 	
 
-### Shivaay
-*Released on 2016-10-28, vote average 0.5*
+### Bleed for This
+*Released on 2016-11-04, vote average 1*
 
-Shivaay is a Bollywood Film directed by and starring Ajay Devgn and Sayesha Saigal in the lead roles. The film is set for release on Diwali 2016. Shivaay is a high octane action drama movie .
+The inspirational story of World Champion Boxer Vinny Pazienza, who after a near fatal car crash, which left him not knowing if he&#39;d ever walk again, made one of sports most incredible comebacks.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/poLjq0u4_5A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/0yfWnRKXRac?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -217,45 +262,6 @@ Shivaay is a Bollywood Film directed by and starring Ajay Devgn and Sayesha Saig
   
 
 
-	
-	
-
-### 7 Years
-*Released on 2016-10-28, vote average 5.67*
-
-The drama is centered around four friends and business partners who in one evening are forced to find a way to save their company and themselves. The impossible decision they face is agreeing on who will be the one to sacrifice their freedom to save the others from personal and financial demise. It is a race against time that will put their friendship and sanity to the test. Who will take the fall?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/l88tkhzVMa0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -285,26 +291,24 @@ Taking place after alien crafts land around the world, an expert linguist is rec
 	
 
 	
-
 	
 
-	
-	
+### Nocturnal Animals
+*Released on 2016-11-10, vote average 4.08*
 
-### Billy Lynn&#39;s Long Halftime Walk
-*Released on 2016-11-11, vote average 5*
-
-19-year-old Billy Lynn is brought home for a victory tour after a harrowing Iraq battle. Through flashbacks the film shows what really happened to his squad - contrasting the realities of war with America&#39;s perceptions.
+A woman named Susan receives a book manuscript from her ex-husband — a man she left 20 years earlier — asking for her opinion of his writing. As she reads, she is drawn into the fictional life of Tony Hastings, a math professor whose family vacation turns violent.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/mUULFJ_I048?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/hIa5cuW4K0I?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
@@ -332,6 +336,25 @@ Linda and Mark lived in the house of their dreams but problems develop. One is a
 
 	
 
+	
+
+	
+	
+
+### Billy Lynn&#39;s Long Halftime Walk
+*Released on 2016-11-11, vote average 5*
+
+19-year-old Billy Lynn is brought home for a victory tour after a harrowing Iraq battle. Through flashbacks the film shows what really happened to his squad - contrasting the realities of war with America&#39;s perceptions.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mUULFJ_I048?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
