@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Doctor Strange
-*Released on 2016-10-25, vote average 7*
+### Hacksaw Ridge
+*Released on 2016-11-04, vote average 5.81*
 
-After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under his wing and trains him to defend the world against evil.
+WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to win the Congressional Medal of Honor.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/HSzx-zryEgM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/s2-1hz1juBI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -44,21 +44,6 @@ After his career is destroyed, a brilliant but arrogant surgeon gets a new lease
 
 
 	
-	
-
-### Hacksaw Ridge
-*Released on 2016-11-04, vote average 5.92*
-
-WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to win the Congressional Medal of Honor.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/s2-1hz1juBI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -89,35 +74,74 @@ The film revolves around the events that took place before The Ring. It tells th
 
 	
 	
-	
 
-  
+### Stagecoach: The Texas Jack Story
+*Released on 2016-11-04, vote average 4.75*
 
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Mr. Church
-*Released on 2016-10-25, vote average 6.4*
-
-A unique friendship develops when a little girl and her dying mother inherit a cook - Mr. Church. What begins as an arrangement that should only last six months, instead spans fifteen years.
+After retiring from his life as an outlaw, ranch owner Nathaniel Reed (Trace Adkins) quietly leads an honest existence with his devoted wife, Laura Lee. But his gun-slinging past suddenly comes back to haunt him when he learns that the man he once maimed during a stagecoach robbery is now a U.S. Marshal (Kim Coates) who will stop at nothing to find vengeance. After a violent shootout brings tragic consequences, Nathaniel returns to his old ways and becomes Texas Jack: the most wanted outlaw in the West. Judd Nelson also stars in this action-packed quest for redemption filled with galloping getaways, a beautiful bounty hunter and the possibility of a second chance.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/K6VSQKNfr1Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/VJkSUMH0Ntw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Army of One
+*Released on 2016-11-04, vote average 5*
+
+Gary Faulkner (Cage) is an ex-con, unemployed handyman, and modern day Don Quixote who receives a vision from God (Brand) telling him to capture Osama Bin Laden. Armed with only a single sword purchased from a home-shopping network, Gary travels to Pakistan to complete his mission. While on his quest, Gary encounters old friends back home in Colorado, the new friends he makes in Pakistan, the enemies he makes at the CIA - and even God and Osama themselves.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/98oxZOM_niU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -182,67 +206,6 @@ Richard and Mildred Loving, an interracial couple, married in Virginia 1958. Aut
 	
 	
 
-### I Am the Pretty Thing That Lives in the House
-*Released on 2016-10-28, vote average 5.22*
-
-A young nurse takes care of elderly author who lives in a haunted house.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/NRP-4f_vyrY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Stagecoach: The Texas Jack Story
-*Released on 2016-11-04, vote average 4.75*
-
-After retiring from his life as an outlaw, ranch owner Nathaniel Reed (Trace Adkins) quietly leads an honest existence with his devoted wife, Laura Lee. But his gun-slinging past suddenly comes back to haunt him when he learns that the man he once maimed during a stagecoach robbery is now a U.S. Marshal (Kim Coates) who will stop at nothing to find vengeance. After a violent shootout brings tragic consequences, Nathaniel returns to his old ways and becomes Texas Jack: the most wanted outlaw in the West. Judd Nelson also stars in this action-packed quest for redemption filled with galloping getaways, a beautiful bounty hunter and the possibility of a second chance.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/VJkSUMH0Ntw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
 ### Bleed for This
 *Released on 2016-11-04, vote average 1*
 
@@ -253,6 +216,28 @@ The inspirational story of World Champion Boxer Vinny Pazienza, who after a near
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/0yfWnRKXRac?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Shivaay
+*Released on 2016-10-28, vote average 3.8*
+
+Shivaay , a fearless Himalayan mountaineer covered in Lord Shiva tattoos, heads to Bulgaria to fulfill his nine-year-old daughter Gaura’s  wish of seeing her mother Olga, who abandoned them years ago. But their plan goes for a toss when the little girl gets kidnapped in the foreign land. Rescuing her from the masked child-traffickers becomes his only reason for survival.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/poLjq0u4_5A?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -275,7 +260,7 @@ The inspirational story of World Champion Boxer Vinny Pazienza, who after a near
 	
 
 ### Arrival
-*Released on 2016-11-10, vote average 6.07*
+*Released on 2016-11-10, vote average 5.85*
 
 Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.
 
@@ -291,10 +276,12 @@ Taking place after alien crafts land around the world, an expert linguist is rec
 	
 
 	
+
+	
 	
 
 ### Nocturnal Animals
-*Released on 2016-11-10, vote average 4.08*
+*Released on 2016-11-10, vote average 6*
 
 A woman named Susan receives a book manuscript from her ex-husband — a man she left 20 years earlier — asking for her opinion of his writing. As she reads, she is drawn into the fictional life of Tony Hastings, a math professor whose family vacation turns violent.
 
@@ -307,6 +294,31 @@ A woman named Susan receives a book manuscript from her ex-husband — a man she
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+	
+
+### Billy Lynn&#39;s Long Halftime Walk
+*Released on 2016-11-11, vote average 5*
+
+19-year-old Billy Lynn is brought home for a victory tour after a harrowing Iraq battle. Through flashbacks the film shows what really happened to his squad - contrasting the realities of war with America&#39;s perceptions.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mUULFJ_I048?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
 	
 
 	
@@ -339,40 +351,32 @@ Linda and Mark lived in the house of their dreams but problems develop. One is a
 	
 
 	
+
 	
 
-### Billy Lynn&#39;s Long Halftime Walk
-*Released on 2016-11-11, vote average 5*
+	
 
-19-year-old Billy Lynn is brought home for a victory tour after a harrowing Iraq battle. Through flashbacks the film shows what really happened to his squad - contrasting the realities of war with America&#39;s perceptions.
+	
+	
+	
+
+	
+	
+
+### All Eyez on Me
+*Released on 2016-11-11, vote average 2*
+
+The film will focus on the career of Tupac Shakur all the way to the fatal drive-by shooting in Las Vegas in 1996.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/mUULFJ_I048?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/pfhJE1ORqas?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
