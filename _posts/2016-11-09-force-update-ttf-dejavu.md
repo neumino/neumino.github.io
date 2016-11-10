@@ -21,10 +21,10 @@ Total Installed Size:  9.75 MiB
 Net Upgrade Size:      0.57 MiB
 
 :: Proceed with installation? [Y/n] Y
-(1/1) checking keys in keyring                                                                             [###############################################################] 100%
-(1/1) checking package integrity                                                                           [###############################################################] 100%
-(1/1) loading package files                                                                                [###############################################################] 100%
-(1/1) checking for file conflicts                                                                          [###############################################################] 100%
+(1/1) checking keys in keyring                                                                             [########] 100%
+(1/1) checking package integrity                                                                           [########] 100%
+(1/1) loading package files                                                                                [########] 100%
+(1/1) checking for file conflicts                                                                          [########] 100%
 error: failed to commit transaction (conflicting files)
 ttf-dejavu: /etc/fonts/conf.d/20-unhint-small-dejavu-sans-mono.conf exists in filesystem
 ttf-dejavu: /etc/fonts/conf.d/20-unhint-small-dejavu-sans.conf exists in filesystem
