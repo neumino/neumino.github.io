@@ -36,6 +36,7 @@ Errors occurred, no packages were upgraded.
 ```
 
 Make sure to run pacman `-f` for this package.
+
 ```
 michel@xone:~$ sudo pacman -S --force ttf-dejavu
 ```
