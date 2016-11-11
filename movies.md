@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Hacksaw Ridge
-*Released on 2016-11-04, vote average 5.64*
+*Released on 2016-11-04, vote average 5.7*
 
 WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to win the Congressional Medal of Honor.
 
@@ -47,7 +47,7 @@ WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinaw
 	
 
 ### Arrival
-*Released on 2016-11-10, vote average 5.85*
+*Released on 2016-11-10, vote average 5.77*
 
 Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.
 
@@ -69,7 +69,7 @@ Taking place after alien crafts land around the world, an expert linguist is rec
 	
 
 ### Nocturnal Animals
-*Released on 2016-11-10, vote average 6.67*
+*Released on 2016-11-10, vote average 7.5*
 
 A woman named Susan receives a book manuscript from her ex-husband — a man she left 20 years earlier — asking for her opinion of his writing. As she reads, she is drawn into the fictional life of Tony Hastings, a math professor whose family vacation turns violent.
 
@@ -90,16 +90,43 @@ A woman named Susan receives a book manuscript from her ex-husband — a man she
 	
 	
 
-### Rings
-*Released on 2016-10-27, vote average 6.17*
+### Shut In
+*Released on 2016-11-11, vote average 3*
 
-The film revolves around the events that took place before The Ring. It tells the story of the years before the video tape came to be and the beginning of how Samara&#39;s terror began.
+A heart-pounding thriller about a widowed child psychologist who lives in an isolated existence in rural New England. Caught in a deadly winter storm, she must find a way to rescue a young boy before he disappears forever.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/mQXhV4PQl3I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/KqRdVOQ98k8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Billy Lynn&#39;s Long Halftime Walk
+*Released on 2016-11-11, vote average 5.5*
+
+19-year-old Billy Lynn is brought home for a victory tour after a harrowing Iraq battle. Through flashbacks the film shows what really happened to his squad - contrasting the realities of war with America&#39;s perceptions.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mUULFJ_I048?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -111,11 +138,6 @@ The film revolves around the events that took place before The Ring. It tells th
 
 	
 	
-	
-
-  
-
-
 	
 
   
@@ -149,6 +171,60 @@ After retiring from his life as an outlaw, ranch owner Nathaniel Reed (Trace Adk
 
 
 	
+	
+
+### Army of One
+*Released on 2016-11-04, vote average 5.83*
+
+Gary Faulkner (Cage) is an ex-con, unemployed handyman, and modern day Don Quixote who receives a vision from God (Brand) telling him to capture Osama Bin Laden. Armed with only a single sword purchased from a home-shopping network, Gary travels to Pakistan to complete his mission. While on his quest, Gary encounters old friends back home in Colorado, the new friends he makes in Pakistan, the enemies he makes at the CIA - and even God and Osama themselves.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/98oxZOM_niU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Cassandra
+*Released on 2016-11-11, vote average 10*
+
+Linda and Mark lived in the house of their dreams but problems develop. One is a previous tenant, Cassandra, who died there 100 years ago and now is back.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wrPwJGtQkj4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 
   
 
@@ -180,33 +256,6 @@ After retiring from his life as an outlaw, ranch owner Nathaniel Reed (Trace Adk
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -219,16 +268,16 @@ After retiring from his life as an outlaw, ranch owner Nathaniel Reed (Trace Adk
 	
 	
 
-### Arrival
-*Released on 2016-11-10, vote average 5.85*
+### Fantastic Beasts and Where to Find Them
+*Released on 2016-11-16, vote average 3.3*
 
-Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.
+In 1926, Newt Scamander arrives at the Magical Congress of the United States of America with a magically expanded briefcase, which houses a number of dangerous creatures and their habitats. When the creatures escape from the briefcase, it sends the American wizarding authorities after Newt, and threatens to strain even further the state of magical and non-magical relations.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/gwqSi_ToNPs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/FnZF82_3Cts?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -238,33 +287,27 @@ Taking place after alien crafts land around the world, an expert linguist is rec
 	
 	
 
-### Nocturnal Animals
-*Released on 2016-11-10, vote average 6.67*
+### Shut In
+*Released on 2016-11-11, vote average 3*
 
-A woman named Susan receives a book manuscript from her ex-husband — a man she left 20 years earlier — asking for her opinion of his writing. As she reads, she is drawn into the fictional life of Tony Hastings, a math professor whose family vacation turns violent.
+A heart-pounding thriller about a widowed child psychologist who lives in an isolated existence in rural New England. Caught in a deadly winter storm, she must find a way to rescue a young boy before he disappears forever.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/hIa5cuW4K0I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/KqRdVOQ98k8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
 	
 
 	
 	
 
 ### Billy Lynn&#39;s Long Halftime Walk
-*Released on 2016-11-11, vote average 5*
+*Released on 2016-11-11, vote average 5.5*
 
 19-year-old Billy Lynn is brought home for a victory tour after a harrowing Iraq battle. Through flashbacks the film shows what really happened to his squad - contrasting the realities of war with America&#39;s perceptions.
 
@@ -277,6 +320,8 @@ A woman named Susan receives a book manuscript from her ex-husband — a man she
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
@@ -299,6 +344,23 @@ Linda and Mark lived in the house of their dreams but problems develop. One is a
 	
 
 	
+	
+
+### All Eyez on Me
+*Released on 2016-11-11, vote average 2*
+
+The film will focus on the career of Tupac Shakur all the way to the fatal drive-by shooting in Las Vegas in 1996.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pfhJE1ORqas?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
@@ -306,6 +368,10 @@ Linda and Mark lived in the house of their dreams but problems develop. One is a
 
 	
 	
+	
+
+	
+
 	
 
 	
