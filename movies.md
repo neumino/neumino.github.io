@@ -47,7 +47,7 @@ WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinaw
 	
 
 ### Arrival
-*Released on 2016-11-10, vote average 5.77*
+*Released on 2016-11-10, vote average 6.27*
 
 Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.
 
@@ -69,7 +69,7 @@ Taking place after alien crafts land around the world, an expert linguist is rec
 	
 
 ### Nocturnal Animals
-*Released on 2016-11-10, vote average 7.5*
+*Released on 2016-11-10, vote average 7.2*
 
 A woman named Susan receives a book manuscript from her ex-husband — a man she left 20 years earlier — asking for her opinion of his writing. As she reads, she is drawn into the fictional life of Tony Hastings, a math professor whose family vacation turns violent.
 
@@ -77,7 +77,7 @@ A woman named Susan receives a book manuscript from her ex-husband — a man she
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/hIa5cuW4K0I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/8TmJFCakY2o?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -110,11 +110,6 @@ A heart-pounding thriller about a widowed child psychologist who lives in an iso
 
 
 	
-
-  
-
-
-	
 	
 
 ### Billy Lynn&#39;s Long Halftime Walk
@@ -137,6 +132,55 @@ A heart-pounding thriller about a widowed child psychologist who lives in an iso
 
 
 	
+
+  
+
+
+	
+	
+
+### Cassandra
+*Released on 2016-11-11, vote average 10*
+
+Linda and Mark lived in the house of their dreams but problems develop. One is a previous tenant, Cassandra, who died there 100 years ago and now is back.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wrPwJGtQkj4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Almost Christmas
+*Released on 2016-11-11, vote average 2.17*
+
+An dysfunctional family gathers together for their first Christmas since their mom died.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/aY8pZ68nbrc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -171,81 +215,54 @@ After retiring from his life as an outlaw, ranch owner Nathaniel Reed (Trace Adk
 
 
 	
+
+  
+
+
 	
 
-### Army of One
-*Released on 2016-11-04, vote average 5.83*
+  
 
-Gary Faulkner (Cage) is an ex-con, unemployed handyman, and modern day Don Quixote who receives a vision from God (Brand) telling him to capture Osama Bin Laden. Armed with only a single sword purchased from a home-shopping network, Gary travels to Pakistan to complete his mission. While on his quest, Gary encounters old friends back home in Colorado, the new friends he makes in Pakistan, the enemies he makes at the CIA - and even God and Osama themselves.
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The True Memoirs of an International Assassin
+*Released on 2016-11-11, vote average 4.83*
+
+After a publisher changes a writer&#39;s debut novel about a deadly assassin from fiction to nonfiction, the author finds himself thrust into the world of his lead character, and must take on the role of his character for his own survival.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/98oxZOM_niU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/yXjQ-PQTEBo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Cassandra
-*Released on 2016-11-11, vote average 10*
-
-Linda and Mark lived in the house of their dreams but problems develop. One is a previous tenant, Cassandra, who died there 100 years ago and now is back.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wrPwJGtQkj4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -285,81 +302,11 @@ In 1926, Newt Scamander arrives at the Magical Congress of the United States of 
 	
 
 	
-	
-
-### Shut In
-*Released on 2016-11-11, vote average 3*
-
-A heart-pounding thriller about a widowed child psychologist who lives in an isolated existence in rural New England. Caught in a deadly winter storm, she must find a way to rescue a young boy before he disappears forever.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/KqRdVOQ98k8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Billy Lynn&#39;s Long Halftime Walk
-*Released on 2016-11-11, vote average 5.5*
-
-19-year-old Billy Lynn is brought home for a victory tour after a harrowing Iraq battle. Through flashbacks the film shows what really happened to his squad - contrasting the realities of war with America&#39;s perceptions.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/mUULFJ_I048?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
 	
-	
 
-### Cassandra
-*Released on 2016-11-11, vote average 10*
-
-Linda and Mark lived in the house of their dreams but problems develop. One is a previous tenant, Cassandra, who died there 100 years ago and now is back.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wrPwJGtQkj4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### All Eyez on Me
-*Released on 2016-11-11, vote average 2*
-
-The film will focus on the career of Tupac Shakur all the way to the fatal drive-by shooting in Las Vegas in 1996.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pfhJE1ORqas?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
@@ -367,7 +314,7 @@ The film will focus on the career of Tupac Shakur all the way to the fatal drive
 	
 
 	
-	
+
 	
 
 	
