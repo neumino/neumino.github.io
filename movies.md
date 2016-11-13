@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Hacksaw Ridge
-*Released on 2016-11-04, vote average 5.7*
+### Arrival
+*Released on 2016-11-10, vote average 6.49*
 
-WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to win the Congressional Medal of Honor.
+Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/s2-1hz1juBI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/gwqSi_ToNPs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinaw
 	
 	
 
-### Arrival
-*Released on 2016-11-10, vote average 6.27*
+### Hacksaw Ridge
+*Released on 2016-11-04, vote average 5.74*
 
-Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.
+WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to win the Congressional Medal of Honor.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/gwqSi_ToNPs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/s2-1hz1juBI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -113,7 +113,7 @@ A heart-pounding thriller about a widowed child psychologist who lives in an iso
 	
 
 ### Billy Lynn&#39;s Long Halftime Walk
-*Released on 2016-11-11, vote average 5.5*
+*Released on 2016-11-11, vote average 6.2*
 
 19-year-old Billy Lynn is brought home for a victory tour after a harrowing Iraq battle. Through flashbacks the film shows what really happened to his squad - contrasting the realities of war with America&#39;s perceptions.
 
@@ -131,6 +131,57 @@ A heart-pounding thriller about a widowed child psychologist who lives in an iso
   
 
 
+	
+	
+
+### Almost Christmas
+*Released on 2016-11-11, vote average 4.13*
+
+An dysfunctional family gathers together for their first Christmas since their mom died.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/aY8pZ68nbrc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Monster
+*Released on 2016-11-10, vote average 5*
+
+A mother and her 10-year old daughter are trapped in a forest. There is something in this forest. Something unlike anything they have heard before. Something the lurks in the darkness and it’s coming after them.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/tbyCUdzR87Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -160,24 +211,17 @@ Linda and Mark lived in the house of their dreams but problems develop. One is a
 
 	
 	
-	
 
-  
+### All Eyez on Me
+*Released on 2016-11-11, vote average 2*
 
-
-	
-	
-
-### Almost Christmas
-*Released on 2016-11-11, vote average 2.17*
-
-An dysfunctional family gathers together for their first Christmas since their mom died.
+The film will focus on the career of Tupac Shakur all the way to the fatal drive-by shooting in Las Vegas in 1996.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/aY8pZ68nbrc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/pfhJE1ORqas?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -188,69 +232,10 @@ An dysfunctional family gathers together for their first Christmas since their m
 
 
 	
-
-  
-
-
-	
 	
 
-### Stagecoach: The Texas Jack Story
-*Released on 2016-11-04, vote average 4.75*
-
-After retiring from his life as an outlaw, ranch owner Nathaniel Reed (Trace Adkins) quietly leads an honest existence with his devoted wife, Laura Lee. But his gun-slinging past suddenly comes back to haunt him when he learns that the man he once maimed during a stagecoach robbery is now a U.S. Marshal (Kim Coates) who will stop at nothing to find vengeance. After a violent shootout brings tragic consequences, Nathaniel returns to his old ways and becomes Texas Jack: the most wanted outlaw in the West. Judd Nelson also stars in this action-packed quest for redemption filled with galloping getaways, a beautiful bounty hunter and the possibility of a second chance.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/VJkSUMH0Ntw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The True Memoirs of an International Assassin
-*Released on 2016-11-11, vote average 4.83*
+### True Memoirs of an International Assassin
+*Released on 2016-11-11, vote average 5.3*
 
 After a publisher changes a writer&#39;s debut novel about a deadly assassin from fiction to nonfiction, the author finds himself thrust into the world of his lead character, and must take on the role of his character for his own survival.
 
@@ -263,6 +248,57 @@ After a publisher changes a writer&#39;s debut novel about a deadly assassin fro
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Army of One
+*Released on 2016-11-04, vote average 5.83*
+
+Gary Faulkner (Cage) is an ex-con, unemployed handyman, and modern day Don Quixote who receives a vision from God (Brand) telling him to capture Osama Bin Laden. Armed with only a single sword purchased from a home-shopping network, Gary travels to Pakistan to complete his mission. While on his quest, Gary encounters old friends back home in Colorado, the new friends he makes in Pakistan, the enemies he makes at the CIA - and even God and Osama themselves.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/98oxZOM_niU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
