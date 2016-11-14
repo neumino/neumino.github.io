@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Arrival
-*Released on 2016-11-10, vote average 6.49*
+*Released on 2016-11-10, vote average 6.92*
 
 Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.
 
@@ -47,7 +47,7 @@ Taking place after alien crafts land around the world, an expert linguist is rec
 	
 
 ### Hacksaw Ridge
-*Released on 2016-11-04, vote average 5.74*
+*Released on 2016-11-04, vote average 5.77*
 
 WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to win the Congressional Medal of Honor.
 
@@ -69,7 +69,7 @@ WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinaw
 	
 
 ### Nocturnal Animals
-*Released on 2016-11-10, vote average 7.2*
+*Released on 2016-11-10, vote average 6.14*
 
 A woman named Susan receives a book manuscript from her ex-husband — a man she left 20 years earlier — asking for her opinion of his writing. As she reads, she is drawn into the fictional life of Tony Hastings, a math professor whose family vacation turns violent.
 
@@ -78,6 +78,28 @@ A woman named Susan receives a book manuscript from her ex-husband — a man she
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/8TmJFCakY2o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Monster
+*Released on 2016-11-10, vote average 4.73*
+
+A mother and her 10-year old daughter are trapped in a forest. There is something in this forest. Something unlike anything they have heard before. Something the lurks in the darkness and it’s coming after them.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/tbyCUdzR87Y?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -113,7 +135,7 @@ A heart-pounding thriller about a widowed child psychologist who lives in an iso
 	
 
 ### Billy Lynn&#39;s Long Halftime Walk
-*Released on 2016-11-11, vote average 6.2*
+*Released on 2016-11-11, vote average 7*
 
 19-year-old Billy Lynn is brought home for a victory tour after a harrowing Iraq battle. Through flashbacks the film shows what really happened to his squad - contrasting the realities of war with America&#39;s perceptions.
 
@@ -154,79 +176,6 @@ An dysfunctional family gathers together for their first Christmas since their m
 
 
 	
-	
-
-### The Monster
-*Released on 2016-11-10, vote average 5*
-
-A mother and her 10-year old daughter are trapped in a forest. There is something in this forest. Something unlike anything they have heard before. Something the lurks in the darkness and it’s coming after them.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tbyCUdzR87Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Cassandra
-*Released on 2016-11-11, vote average 10*
-
-Linda and Mark lived in the house of their dreams but problems develop. One is a previous tenant, Cassandra, who died there 100 years ago and now is back.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wrPwJGtQkj4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### All Eyez on Me
-*Released on 2016-11-11, vote average 2*
-
-The film will focus on the career of Tupac Shakur all the way to the fatal drive-by shooting in Las Vegas in 1996.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pfhJE1ORqas?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -235,7 +184,7 @@ The film will focus on the career of Tupac Shakur all the way to the fatal drive
 	
 
 ### True Memoirs of an International Assassin
-*Released on 2016-11-11, vote average 5.3*
+*Released on 2016-11-11, vote average 5.65*
 
 After a publisher changes a writer&#39;s debut novel about a deadly assassin from fiction to nonfiction, the author finds himself thrust into the world of his lead character, and must take on the role of his character for his own survival.
 
@@ -273,6 +222,28 @@ After a publisher changes a writer&#39;s debut novel about a deadly assassin fro
 
 
 	
+	
+
+### Rock On 2
+*Released on 2016-11-11, vote average 0.5*
+
+The musical drama is a sequel to the 2008 blockbuster &#39;Rock On&#39; that tells the story of four friends and their passion for music. This time around, the film centers around the regional conflict prevailing in the North Eastern states of India.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/moDxQHoGNUQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 
   
 
@@ -280,19 +251,31 @@ After a publisher changes a writer&#39;s debut novel about a deadly assassin fro
 	
 	
 
-### Army of One
-*Released on 2016-11-04, vote average 5.83*
+### Cassandra
+*Released on 2016-11-11, vote average 10*
 
-Gary Faulkner (Cage) is an ex-con, unemployed handyman, and modern day Don Quixote who receives a vision from God (Brand) telling him to capture Osama Bin Laden. Armed with only a single sword purchased from a home-shopping network, Gary travels to Pakistan to complete his mission. While on his quest, Gary encounters old friends back home in Colorado, the new friends he makes in Pakistan, the enemies he makes at the CIA - and even God and Osama themselves.
+Linda and Mark lived in the house of their dreams but problems develop. One is a previous tenant, Cassandra, who died there 100 years ago and now is back.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/98oxZOM_niU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/wrPwJGtQkj4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 	
 
@@ -322,7 +305,7 @@ Gary Faulkner (Cage) is an ex-con, unemployed handyman, and modern day Don Quixo
 	
 
 ### Fantastic Beasts and Where to Find Them
-*Released on 2016-11-16, vote average 3.3*
+*Released on 2016-11-16, vote average 3.86*
 
 In 1926, Newt Scamander arrives at the Magical Congress of the United States of America with a magically expanded briefcase, which houses a number of dangerous creatures and their habitats. When the creatures escape from the briefcase, it sends the American wizarding authorities after Newt, and threatens to strain even further the state of magical and non-magical relations.
 
