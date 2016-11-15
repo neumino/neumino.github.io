@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Arrival
-*Released on 2016-11-10, vote average 6.92*
+*Released on 2016-11-10, vote average 7.12*
 
 Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.
 
@@ -68,16 +68,16 @@ WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinaw
 	
 	
 
-### Nocturnal Animals
-*Released on 2016-11-10, vote average 6.14*
+### Almost Christmas
+*Released on 2016-11-11, vote average 4.13*
 
-A woman named Susan receives a book manuscript from her ex-husband — a man she left 20 years earlier — asking for her opinion of his writing. As she reads, she is drawn into the fictional life of Tony Hastings, a math professor whose family vacation turns violent.
+An dysfunctional family gathers together for their first Christmas since their mom died.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/8TmJFCakY2o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/aY8pZ68nbrc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,20 +112,52 @@ A mother and her 10-year old daughter are trapped in a forest. There is somethin
 	
 	
 
-### Shut In
-*Released on 2016-11-11, vote average 3*
+### Nocturnal Animals
+*Released on 2016-11-10, vote average 6.14*
 
-A heart-pounding thriller about a widowed child psychologist who lives in an isolated existence in rural New England. Caught in a deadly winter storm, she must find a way to rescue a young boy before he disappears forever.
+A woman named Susan receives a book manuscript from her ex-husband — a man she left 20 years earlier — asking for her opinion of his writing. As she reads, she is drawn into the fictional life of Tony Hastings, a math professor whose family vacation turns violent.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/KqRdVOQ98k8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/8TmJFCakY2o?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### True Memoirs of an International Assassin
+*Released on 2016-11-11, vote average 5.8*
+
+After a publisher changes a writer&#39;s debut novel about a deadly assassin from fiction to nonfiction, the author finds himself thrust into the world of his lead character, and must take on the role of his character for his own survival.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/yXjQ-PQTEBo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -155,17 +187,24 @@ A heart-pounding thriller about a widowed child psychologist who lives in an iso
 
 	
 	
+	
 
-### Almost Christmas
-*Released on 2016-11-11, vote average 4.13*
+  
 
-An dysfunctional family gathers together for their first Christmas since their mom died.
+
+	
+	
+
+### Shut In
+*Released on 2016-11-11, vote average 3*
+
+A heart-pounding thriller about a widowed child psychologist who lives in an isolated existence in rural New England. Caught in a deadly winter storm, she must find a way to rescue a young boy before he disappears forever.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/aY8pZ68nbrc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/KqRdVOQ98k8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -183,16 +222,16 @@ An dysfunctional family gathers together for their first Christmas since their m
 	
 	
 
-### True Memoirs of an International Assassin
-*Released on 2016-11-11, vote average 5.65*
+### Come And Find Me
+*Released on 2016-11-11, vote average 7*
 
-After a publisher changes a writer&#39;s debut novel about a deadly assassin from fiction to nonfiction, the author finds himself thrust into the world of his lead character, and must take on the role of his character for his own survival.
+When his girlfriend goes missing, David must track down her whereabouts after he realizes she&#39;s not who she was pretending to be.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/yXjQ-PQTEBo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/hKDSGy_FsBI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -203,18 +242,6 @@ After a publisher changes a writer&#39;s debut novel about a deadly assassin fro
 
 
 	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -224,43 +251,16 @@ After a publisher changes a writer&#39;s debut novel about a deadly assassin fro
 	
 	
 
-### Rock On 2
-*Released on 2016-11-11, vote average 0.5*
+### Dog Eat Dog
+*Released on 2016-11-04, vote average 5*
 
-The musical drama is a sequel to the 2008 blockbuster &#39;Rock On&#39; that tells the story of four friends and their passion for music. This time around, the film centers around the regional conflict prevailing in the North Eastern states of India.
+Carved from a lifetime of experience that runs the gamut from incarceration to liberation, Dog Eat Dog is the story of three men who are all out of prison and now have the task of adapting themselves to civilian life.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/moDxQHoGNUQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Cassandra
-*Released on 2016-11-11, vote average 10*
-
-Linda and Mark lived in the house of their dreams but problems develop. One is a previous tenant, Cassandra, who died there 100 years ago and now is back.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wrPwJGtQkj4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/1LJrPXWSiPU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -287,6 +287,23 @@ Linda and Mark lived in the house of their dreams but problems develop. One is a
   
 
 
+	
+	
+
+### All Eyez on Me
+*Released on 2016-11-11, vote average 2*
+
+The film will focus on the career of Tupac Shakur all the way to the fatal drive-by shooting in Las Vegas in 1996.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pfhJE1ORqas?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
