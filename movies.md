@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Arrival
-*Released on 2016-11-10, vote average 7.02*
+*Released on 2016-11-10, vote average 6.73*
 
 Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.
 
@@ -47,7 +47,7 @@ Taking place after alien crafts land around the world, an expert linguist is rec
 	
 
 ### Fantastic Beasts and Where to Find Them
-*Released on 2016-11-16, vote average 3.77*
+*Released on 2016-11-16, vote average 6.29*
 
 In 1926, Newt Scamander arrives at the Magical Congress of the United States of America with a magically expanded briefcase, which houses a number of dangerous creatures and their habitats. When the creatures escape from the briefcase, it sends the American wizarding authorities after Newt, and threatens to strain even further the state of magical and non-magical relations.
 
@@ -69,7 +69,7 @@ In 1926, Newt Scamander arrives at the Magical Congress of the United States of 
 	
 
 ### Hacksaw Ridge
-*Released on 2016-11-04, vote average 6.2*
+*Released on 2016-11-04, vote average 6.32*
 
 WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to win the Congressional Medal of Honor.
 
@@ -91,7 +91,7 @@ WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinaw
 	
 
 ### True Memoirs of an International Assassin
-*Released on 2016-11-11, vote average 5.75*
+*Released on 2016-11-11, vote average 5.69*
 
 After a publisher changes a writer&#39;s debut novel about a deadly assassin from fiction to nonfiction, the author finds himself thrust into the world of his lead character, and must take on the role of his character for his own survival.
 
@@ -113,7 +113,7 @@ After a publisher changes a writer&#39;s debut novel about a deadly assassin fro
 	
 
 ### Almost Christmas
-*Released on 2016-11-11, vote average 4.13*
+*Released on 2016-11-11, vote average 5.68*
 
 An dysfunctional family gathers together for their first Christmas since their mom died.
 
@@ -135,7 +135,7 @@ An dysfunctional family gathers together for their first Christmas since their m
 	
 
 ### Nocturnal Animals
-*Released on 2016-11-10, vote average 6*
+*Released on 2016-11-17, vote average 3.8*
 
 A woman named Susan receives a book manuscript from her ex-husband — a man she left 20 years earlier — asking for her opinion of his writing. As she reads, she is drawn into the fictional life of Tony Hastings, a math professor whose family vacation turns violent.
 
@@ -154,10 +154,15 @@ A woman named Susan receives a book manuscript from her ex-husband — a man she
 
 
 	
+
+  
+
+
+	
 	
 
 ### The Monster
-*Released on 2016-11-10, vote average 4.73*
+*Released on 2016-11-10, vote average 4.96*
 
 A mother and her 10-year old daughter are trapped in a forest. There is something in this forest. Something unlike anything they have heard before. Something the lurks in the darkness and it’s coming after them.
 
@@ -181,8 +186,6 @@ A mother and her 10-year old daughter are trapped in a forest. There is somethin
 
 
 	
-	
-	
 
   
 
@@ -200,18 +203,23 @@ A mother and her 10-year old daughter are trapped in a forest. There is somethin
 
 
 	
+
+  
+
+
+	
 	
 
-### Shut In
-*Released on 2016-11-11, vote average 3*
+### Allied
+*Released on 2016-11-17, vote average 6*
 
-A heart-pounding thriller about a widowed child psychologist who lives in an isolated existence in rural New England. Caught in a deadly winter storm, she must find a way to rescue a young boy before he disappears forever.
+In 1942, an intelligence officer in North Africa encounters a female French Resistance fighter on a deadly mission behind enemy lines. When they reunite in London, their relationship is tested by the pressures of war.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/KqRdVOQ98k8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-NSJ12-7Ulo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -224,16 +232,60 @@ A heart-pounding thriller about a widowed child psychologist who lives in an iso
 	
 	
 
-### Billy Lynn&#39;s Long Halftime Walk
-*Released on 2016-11-10, vote average 6.72*
+### Dog Eat Dog
+*Released on 2016-11-04, vote average 5*
 
-19-year-old Billy Lynn is brought home for a victory tour after a harrowing Iraq battle. Through flashbacks the film shows what really happened to his squad - contrasting the realities of war with America&#39;s perceptions.
+Carved from a lifetime of experience that runs the gamut from incarceration to liberation, Dog Eat Dog is the story of three men who are all out of prison and now have the task of adapting themselves to civilian life.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/mUULFJ_I048?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/1LJrPXWSiPU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Paterson
+*Released on 2016-11-17, vote average 8*
+
+Set in the present in Paterson, New Jersey, this is a tale about a bus driver and poet.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vWHA1lcjUt4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Come And Find Me
+*Released on 2016-11-11, vote average 6.25*
+
+When his girlfriend goes missing, David must track down her whereabouts after he realizes she&#39;s not who she was pretending to be.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hKDSGy_FsBI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -253,32 +305,6 @@ A heart-pounding thriller about a widowed child psychologist who lives in an iso
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -291,16 +317,75 @@ A heart-pounding thriller about a widowed child psychologist who lives in an iso
 	
 	
 
-### Fantastic Beasts and Where to Find Them
-*Released on 2016-11-16, vote average 3.77*
+### Nocturnal Animals
+*Released on 2016-11-17, vote average 3.8*
 
-In 1926, Newt Scamander arrives at the Magical Congress of the United States of America with a magically expanded briefcase, which houses a number of dangerous creatures and their habitats. When the creatures escape from the briefcase, it sends the American wizarding authorities after Newt, and threatens to strain even further the state of magical and non-magical relations.
+A woman named Susan receives a book manuscript from her ex-husband — a man she left 20 years earlier — asking for her opinion of his writing. As she reads, she is drawn into the fictional life of Tony Hastings, a math professor whose family vacation turns violent.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/FnZF82_3Cts?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/hIa5cuW4K0I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### Allied
+*Released on 2016-11-17, vote average 6*
+
+In 1942, an intelligence officer in North Africa encounters a female French Resistance fighter on a deadly mission behind enemy lines. When they reunite in London, their relationship is tested by the pressures of war.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-NSJ12-7Ulo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### The Edge of Seventeen
+*Released on 2016-11-18, vote average 6.17*
+
+Two high school girls are best friends until one dates the other&#39;s older brother, who is totally his sister&#39;s nemesis.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/g2eR6j8eocE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+	
+
+### Paterson
+*Released on 2016-11-17, vote average 8*
+
+Set in the present in Paterson, New Jersey, this is a tale about a bus driver and poet.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vWHA1lcjUt4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -312,7 +397,22 @@ In 1926, Newt Scamander arrives at the Magical Congress of the United States of 
 	
 
 	
+	
 
+### Manchester by the Sea
+*Released on 2016-11-18, vote average 7.5*
+
+After his older brother passes away, Lee Chandler is forced to return home to care for his 16-year-old nephew. There he is compelled to deal with a tragic past that separated him from his family and the community where he was born and raised.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/gsVoD0pTge0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -320,11 +420,7 @@ In 1926, Newt Scamander arrives at the Magical Congress of the United States of 
 	
 
 	
-
 	
-
-	
-
 	
 
 	
