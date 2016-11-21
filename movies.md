@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Arrival
-*Released on 2016-11-10, vote average 6.76*
+*Released on 2016-11-10, vote average 6.7*
 
 Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.
 
@@ -47,7 +47,7 @@ Taking place after alien crafts land around the world, an expert linguist is rec
 	
 
 ### Fantastic Beasts and Where to Find Them
-*Released on 2016-11-16, vote average 7.43*
+*Released on 2016-11-16, vote average 7.38*
 
 In 1926, Newt Scamander arrives at the Magical Congress of the United States of America with a magically expanded briefcase, which houses a number of dangerous creatures and their habitats. When the creatures escape from the briefcase, it sends the American wizarding authorities after Newt, and threatens to strain even further the state of magical and non-magical relations.
 
@@ -68,16 +68,16 @@ In 1926, Newt Scamander arrives at the Magical Congress of the United States of 
 	
 	
 
-### Nocturnal Animals
-*Released on 2016-11-17, vote average 5.32*
+### True Memoirs of an International Assassin
+*Released on 2016-11-11, vote average 5.76*
 
-A woman named Susan receives a book manuscript from her ex-husband — a man she left 20 years earlier — asking for her opinion of his writing. As she reads, she is drawn into the fictional life of Tony Hastings, a math professor whose family vacation turns violent.
+After a publisher changes a writer&#39;s debut novel about a deadly assassin from fiction to nonfiction, the author finds himself thrust into the world of his lead character, and must take on the role of his character for his own survival.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/8TmJFCakY2o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/yXjQ-PQTEBo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -90,16 +90,16 @@ A woman named Susan receives a book manuscript from her ex-husband — a man she
 	
 	
 
-### True Memoirs of an International Assassin
-*Released on 2016-11-11, vote average 5.77*
+### Nocturnal Animals
+*Released on 2016-11-17, vote average 5.83*
 
-After a publisher changes a writer&#39;s debut novel about a deadly assassin from fiction to nonfiction, the author finds himself thrust into the world of his lead character, and must take on the role of his character for his own survival.
+A woman named Susan receives a book manuscript from her ex-husband — a man she left 20 years earlier — asking for her opinion of his writing. As she reads, she is drawn into the fictional life of Tony Hastings, a math professor whose family vacation turns violent.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/yXjQ-PQTEBo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/8TmJFCakY2o?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -122,28 +122,6 @@ Two high school girls are best friends until one dates the other&#39;s older bro
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/g2eR6j8eocE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Manchester by the Sea
-*Released on 2016-11-18, vote average 7.5*
-
-After his older brother passes away, Lee Chandler is forced to return home to care for his 16-year-old nephew. There he is compelled to deal with a tragic past that separated him from his family and the community where he was born and raised.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/gsVoD0pTge0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -179,7 +157,7 @@ In 1942, an intelligence officer in North Africa encounters a female French Resi
 	
 
 ### Paterson
-*Released on 2016-11-17, vote average 8*
+*Released on 2016-11-17, vote average 7*
 
 Set in the present in Paterson, New Jersey, this is a tale about a bus driver and poet.
 
@@ -200,16 +178,16 @@ Set in the present in Paterson, New Jersey, this is a tale about a bus driver an
 	
 	
 
-### Shut In
-*Released on 2016-11-11, vote average 1.75*
+### Manchester by the Sea
+*Released on 2016-11-18, vote average 7.5*
 
-A heart-pounding thriller about a widowed child psychologist who lives in an isolated existence in rural New England. Caught in a deadly winter storm, she must find a way to rescue a young boy before he disappears forever.
+After his older brother passes away, Lee Chandler is forced to return home to care for his 16-year-old nephew. There he is compelled to deal with a tragic past that separated him from his family and the community where he was born and raised.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/KqRdVOQ98k8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/gsVoD0pTge0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -219,6 +197,23 @@ A heart-pounding thriller about a widowed child psychologist who lives in an iso
   
 
 
+	
+	
+
+### Almost Christmas
+*Released on 2016-11-11, vote average 5.68*
+
+An dysfunctional family gathers together for their first Christmas since their mom died.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/aY8pZ68nbrc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -262,22 +257,10 @@ A mother and her 10-year old daughter are trapped in a forest. There is somethin
 
 
 	
-	
 
-### Almost Christmas
-*Released on 2016-11-11, vote average 5.68*
+  
 
-An dysfunctional family gathers together for their first Christmas since their mom died.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/aY8pZ68nbrc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -300,6 +283,8 @@ An dysfunctional family gathers together for their first Christmas since their m
   
 
 
+	
+	
 	
 
   
@@ -341,6 +326,23 @@ A young woman uses her navigational talents to set sail for a fabled island. Joi
 
 	
 
+	
+	
+
+### Lion
+*Released on 2016-11-24, vote average 2*
+
+A five-year-old Indian boy gets lost on the streets of Calcutta, thousands of kilometers from home. He survives many challenges before being adopted by a couple in Australia; 25 years later, he sets out to find his lost family.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ziOLGzKq6oo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
