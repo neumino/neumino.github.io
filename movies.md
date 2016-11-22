@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Arrival
-*Released on 2016-11-10, vote average 6.7*
+*Released on 2016-11-10, vote average 6.73*
 
 Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.
 
@@ -47,7 +47,7 @@ Taking place after alien crafts land around the world, an expert linguist is rec
 	
 
 ### Fantastic Beasts and Where to Find Them
-*Released on 2016-11-16, vote average 7.38*
+*Released on 2016-11-16, vote average 7.33*
 
 In 1926, Newt Scamander arrives at the Magical Congress of the United States of America with a magically expanded briefcase, which houses a number of dangerous creatures and their habitats. When the creatures escape from the briefcase, it sends the American wizarding authorities after Newt, and threatens to strain even further the state of magical and non-magical relations.
 
@@ -69,7 +69,7 @@ In 1926, Newt Scamander arrives at the Magical Congress of the United States of 
 	
 
 ### True Memoirs of an International Assassin
-*Released on 2016-11-11, vote average 5.76*
+*Released on 2016-11-11, vote average 5.69*
 
 After a publisher changes a writer&#39;s debut novel about a deadly assassin from fiction to nonfiction, the author finds himself thrust into the world of his lead character, and must take on the role of his character for his own survival.
 
@@ -91,7 +91,7 @@ After a publisher changes a writer&#39;s debut novel about a deadly assassin fro
 	
 
 ### Nocturnal Animals
-*Released on 2016-11-17, vote average 5.83*
+*Released on 2016-11-17, vote average 5.79*
 
 A woman named Susan receives a book manuscript from her ex-husband — a man she left 20 years earlier — asking for her opinion of his writing. As she reads, she is drawn into the fictional life of Tony Hastings, a math professor whose family vacation turns violent.
 
@@ -99,7 +99,7 @@ A woman named Susan receives a book manuscript from her ex-husband — a man she
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/8TmJFCakY2o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/hIa5cuW4K0I?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,8 +134,30 @@ Two high school girls are best friends until one dates the other&#39;s older bro
 	
 	
 
+### Almost Christmas
+*Released on 2016-11-11, vote average 5.1*
+
+An dysfunctional family gathers together for their first Christmas since their mom died.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/aY8pZ68nbrc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Allied
-*Released on 2016-11-17, vote average 4.13*
+*Released on 2016-11-17, vote average 6.08*
 
 In 1942, an intelligence officer in North Africa encounters a female French Resistance fighter on a deadly mission behind enemy lines. When they reunite in London, their relationship is tested by the pressures of war.
 
@@ -176,6 +198,16 @@ Set in the present in Paterson, New Jersey, this is a tale about a bus driver an
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### Manchester by the Sea
@@ -199,54 +231,24 @@ After his older brother passes away, Lee Chandler is forced to return home to ca
 
 	
 	
+	
 
-### Almost Christmas
-*Released on 2016-11-11, vote average 5.68*
+  
 
-An dysfunctional family gathers together for their first Christmas since their mom died.
+
+	
+	
+
+### Shut In
+*Released on 2016-11-11, vote average 1.6*
+
+A heart-pounding thriller about a widowed child psychologist who lives in an isolated existence in rural New England. Caught in a deadly winter storm, she must find a way to rescue a young boy before he disappears forever.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/aY8pZ68nbrc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Monster
-*Released on 2016-11-10, vote average 5.15*
-
-A mother and her 10-year old daughter are trapped in a forest. There is something in this forest. Something unlike anything they have heard before. Something the lurks in the darkness and it’s coming after them.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tbyCUdzR87Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/KqRdVOQ98k8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -283,8 +285,6 @@ A mother and her 10-year old daughter are trapped in a forest. There is somethin
   
 
 
-	
-	
 	
 
   
@@ -303,7 +303,7 @@ A mother and her 10-year old daughter are trapped in a forest. There is somethin
 	
 
 ### Moana
-*Released on 2016-11-23, vote average 3*
+*Released on 2016-11-23, vote average 4.05*
 
 A young woman uses her navigational talents to set sail for a fabled island. Joining her on the adventure is her hero, the legendary demi-god Maui.
 
@@ -316,12 +316,6 @@ A young woman uses her navigational talents to set sail for a fabled island. Joi
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
 	
 
 	
@@ -343,6 +337,29 @@ A five-year-old Indian boy gets lost on the streets of Calcutta, thousands of ki
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+	
+
+### Miss Sloane
+*Released on 2016-11-25, vote average 0.5*
+
+An ambitious lobbyist faces off against the powerful gun lobby in an attempt to pass gun control legislation.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5k8KaMdPYTY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
 	
 
 	
