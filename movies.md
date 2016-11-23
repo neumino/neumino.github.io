@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Arrival
-*Released on 2016-11-10, vote average 6.73*
+### Fantastic Beasts and Where to Find Them
+*Released on 2016-11-16, vote average 7.33*
 
-Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.
+In 1926, Newt Scamander arrives at the Magical Congress of the United States of America with a magically expanded briefcase, which houses a number of dangerous creatures and their habitats. When the creatures escape from the briefcase, it sends the American wizarding authorities after Newt, and threatens to strain even further the state of magical and non-magical relations.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/gwqSi_ToNPs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/FnZF82_3Cts?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,38 @@ Taking place after alien crafts land around the world, an expert linguist is rec
 	
 	
 
-### Fantastic Beasts and Where to Find Them
-*Released on 2016-11-16, vote average 7.33*
+### Arrival
+*Released on 2016-11-10, vote average 6.72*
 
-In 1926, Newt Scamander arrives at the Magical Congress of the United States of America with a magically expanded briefcase, which houses a number of dangerous creatures and their habitats. When the creatures escape from the briefcase, it sends the American wizarding authorities after Newt, and threatens to strain even further the state of magical and non-magical relations.
+Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/FnZF82_3Cts?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/gwqSi_ToNPs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Moana
+*Released on 2016-11-23, vote average 4.25*
+
+A young woman uses her navigational talents to set sail for a fabled island. Joining her on the adventure is her hero, the legendary demi-god Maui.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LKFuXETZUsI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -90,16 +112,16 @@ After a publisher changes a writer&#39;s debut novel about a deadly assassin fro
 	
 	
 
-### Nocturnal Animals
-*Released on 2016-11-17, vote average 5.79*
+### The Edge of Seventeen
+*Released on 2016-11-18, vote average 6.17*
 
-A woman named Susan receives a book manuscript from her ex-husband — a man she left 20 years earlier — asking for her opinion of his writing. As she reads, she is drawn into the fictional life of Tony Hastings, a math professor whose family vacation turns violent.
+Two high school girls are best friends until one dates the other&#39;s older brother, who is totally his sister&#39;s nemesis.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/hIa5cuW4K0I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/g2eR6j8eocE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,16 +134,16 @@ A woman named Susan receives a book manuscript from her ex-husband — a man she
 	
 	
 
-### The Edge of Seventeen
-*Released on 2016-11-18, vote average 6.17*
+### Allied
+*Released on 2016-11-17, vote average 6.07*
 
-Two high school girls are best friends until one dates the other&#39;s older brother, who is totally his sister&#39;s nemesis.
+In 1942, an intelligence officer in North Africa encounters a female French Resistance fighter on a deadly mission behind enemy lines. When they reunite in London, their relationship is tested by the pressures of war.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/g2eR6j8eocE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-NSJ12-7Ulo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -156,16 +178,16 @@ An dysfunctional family gathers together for their first Christmas since their m
 	
 	
 
-### Allied
-*Released on 2016-11-17, vote average 6.08*
+### Bad Santa 2
+*Released on 2016-11-23, vote average 0.5*
 
-In 1942, an intelligence officer in North Africa encounters a female French Resistance fighter on a deadly mission behind enemy lines. When they reunite in London, their relationship is tested by the pressures of war.
+Fueled by cheap whiskey, greed and hatred, Willie Soke (Billy Bob Thornton) teams up with his angry little sidekick, Marcus, to knock off a Chicago charity on Christmas Eve. Along for the ride is chubby and cheery Thurman Merman, a 250-pound ray of sunshine who brings out Willie&#39;s sliver of humanity. Mommy issues arise when the pair are joined by Willie&#39;s horror story of a mother, Sunny Soke, who raises the bar for the gang&#39;s ambitions, while somehow lowering the standards of criminal behavior.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-NSJ12-7Ulo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/8anWq67nXhY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -176,22 +198,10 @@ In 1942, an intelligence officer in North Africa encounters a female French Resi
 
 
 	
-	
 
-### Paterson
-*Released on 2016-11-17, vote average 7*
+  
 
-Set in the present in Paterson, New Jersey, this is a tale about a bus driver and poet.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vWHA1lcjUt4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -230,6 +240,26 @@ After his older brother passes away, Lee Chandler is forced to return home to ca
 
 
 	
+
+  
+
+
+	
+	
+
+### Paterson
+*Released on 2016-11-17, vote average 7*
+
+Set in the present in Paterson, New Jersey, this is a tale about a bus driver and poet.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vWHA1lcjUt4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -264,22 +294,22 @@ A heart-pounding thriller about a widowed child psychologist who lives in an iso
 
 
 	
-
-  
-
-
 	
 
-  
+### Billy Lynn&#39;s Long Halftime Walk
+*Released on 2016-11-10, vote average 6.72*
 
+19-year-old Billy Lynn is brought home for a victory tour after a harrowing Iraq battle. Through flashbacks the film shows what really happened to his squad - contrasting the realities of war with America&#39;s perceptions.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mUULFJ_I048?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-	
-	
-
-  
-
-
 	
 
   
@@ -303,7 +333,7 @@ A heart-pounding thriller about a widowed child psychologist who lives in an iso
 	
 
 ### Moana
-*Released on 2016-11-23, vote average 4.05*
+*Released on 2016-11-23, vote average 4.25*
 
 A young woman uses her navigational talents to set sail for a fabled island. Joining her on the adventure is her hero, the legendary demi-god Maui.
 
@@ -312,6 +342,25 @@ A young woman uses her navigational talents to set sail for a fabled island. Joi
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/LKFuXETZUsI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### Bad Santa 2
+*Released on 2016-11-23, vote average 0.5*
+
+Fueled by cheap whiskey, greed and hatred, Willie Soke (Billy Bob Thornton) teams up with his angry little sidekick, Marcus, to knock off a Chicago charity on Christmas Eve. Along for the ride is chubby and cheery Thurman Merman, a 250-pound ray of sunshine who brings out Willie&#39;s sliver of humanity. Mommy issues arise when the pair are joined by Willie&#39;s horror story of a mother, Sunny Soke, who raises the bar for the gang&#39;s ambitions, while somehow lowering the standards of criminal behavior.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8anWq67nXhY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -337,8 +386,6 @@ A five-year-old Indian boy gets lost on the streets of Calcutta, thousands of ki
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
@@ -374,6 +421,23 @@ An ambitious lobbyist faces off against the powerful gun lobby in an attempt to 
 
 	
 
+	
+	
+
+### Undercover
+*Released on 2016-11-24, vote average 7*
+
+In the comedy &#39; undercover &#39; is to be Denmark&#39;s worst police officer Muhammed on his first undercover mission. The only problem is that it is small and Rikke love the Thursday before Christmas. But instead of Christmas tree and gifts to Rikke transport Crown witness Mick to Funen persecuted to a notorious gangster boss, which will have a hold of Mick and the 900,000 crowns, he is over with. Linda p. gives the gas as a Danish response to Melissa McCarthy in the grove Christmas comedy, which is written by Casper Christensen and directed by former East Coast Hustler, Nikolaj Peyk.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xRTxCBrS0Q4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
