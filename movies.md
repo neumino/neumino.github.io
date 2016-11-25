@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Fantastic Beasts and Where to Find Them
-*Released on 2016-11-16, vote average 7.35*
+*Released on 2016-11-16, vote average 7.27*
 
 In 1926, Newt Scamander arrives at the Magical Congress of the United States of America with a magically expanded briefcase, which houses a number of dangerous creatures and their habitats. When the creatures escape from the briefcase, it sends the American wizarding authorities after Newt, and threatens to strain even further the state of magical and non-magical relations.
 
@@ -46,30 +46,8 @@ In 1926, Newt Scamander arrives at the Magical Congress of the United States of 
 	
 	
 
-### Arrival
-*Released on 2016-11-10, vote average 6.69*
-
-Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/gwqSi_ToNPs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Moana
-*Released on 2016-11-23, vote average 4.56*
+*Released on 2016-11-23, vote average 4.13*
 
 A young woman uses her navigational talents to set sail for a fabled island. Joining her on the adventure is her hero, the legendary demi-god Maui.
 
@@ -90,30 +68,8 @@ A young woman uses her navigational talents to set sail for a fabled island. Joi
 	
 	
 
-### Bad Santa 2
-*Released on 2016-11-23, vote average 0.5*
-
-Fueled by cheap whiskey, greed and hatred, Willie Soke (Billy Bob Thornton) teams up with his angry little sidekick, Marcus, to knock off a Chicago charity on Christmas Eve. Along for the ride is chubby and cheery Thurman Merman, a 250-pound ray of sunshine who brings out Willie&#39;s sliver of humanity. Mommy issues arise when the pair are joined by Willie&#39;s horror story of a mother, Sunny Soke, who raises the bar for the gang&#39;s ambitions, while somehow lowering the standards of criminal behavior.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8anWq67nXhY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Allied
-*Released on 2016-11-17, vote average 6.07*
+*Released on 2016-11-17, vote average 5.73*
 
 In 1942, an intelligence officer in North Africa encounters a female French Resistance fighter on a deadly mission behind enemy lines. When they reunite in London, their relationship is tested by the pressures of war.
 
@@ -156,20 +112,91 @@ After a publisher changes a writer&#39;s debut novel about a deadly assassin fro
 	
 	
 
-### Almost Christmas
-*Released on 2016-11-11, vote average 5.01*
+### Bad Santa 2
+*Released on 2016-11-23, vote average 2.33*
 
-An dysfunctional family gathers together for their first Christmas since their mom died.
+Fueled by cheap whiskey, greed and hatred, Willie Soke (Billy Bob Thornton) teams up with his angry little sidekick, Marcus, to knock off a Chicago charity on Christmas Eve. Along for the ride is chubby and cheery Thurman Merman, a 250-pound ray of sunshine who brings out Willie&#39;s sliver of humanity. Mommy issues arise when the pair are joined by Willie&#39;s horror story of a mother, Sunny Soke, who raises the bar for the gang&#39;s ambitions, while somehow lowering the standards of criminal behavior.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/aY8pZ68nbrc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/HGcZxBNNpKM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Rules Don&#39;t Apply
+*Released on 2016-11-23, vote average 3*
+
+It&#39;s Hollywood, 1958. Small town beauty queen and devout Baptist virgin Marla Mabrey, under contract to the infamous Howard Hughes, arrives in Los Angeles. At the airport, she meets her driver Frank Forbes, who is engaged to be married to his seventh grade sweetheart and is a deeply religious Methodist. Their instant attraction not only puts their religious convictions to the test, but also defies Hughes&#39; number one rule: No employee is allowed to have any relationship whatsoever with a contract actress. Hughes&#39; behavior intersects with Marla and Frank in very separate and unexpected ways, and as they are drawn deeper into his bizarre world, their values are challenged and their lives are changed.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/D1JrMOiG5hc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Lion
+*Released on 2016-11-24, vote average 2*
+
+A five-year-old Indian boy gets lost on the streets of Calcutta, thousands of kilometers from home. He survives many challenges before being adopted by a couple in Australia; 25 years later, he sets out to find his lost family.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ziOLGzKq6oo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Miss Sloane
+*Released on 2016-11-25, vote average 0.75*
+
+An ambitious lobbyist faces off against the powerful gun lobby in an attempt to pass gun control legislation.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5k8KaMdPYTY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -203,18 +230,28 @@ Two high school girls are best friends until one dates the other&#39;s older bro
 
 
 	
+
+  
+
+
 	
 
-### Lion
-*Released on 2016-11-24, vote average 2*
+  
 
-A five-year-old Indian boy gets lost on the streets of Calcutta, thousands of kilometers from home. He survives many challenges before being adopted by a couple in Australia; 25 years later, he sets out to find his lost family.
+
+	
+	
+
+### Almost Christmas
+*Released on 2016-11-11, vote average 5.06*
+
+An dysfunctional family gathers together for their first Christmas since their mom died.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ziOLGzKq6oo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/aY8pZ68nbrc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -226,49 +263,24 @@ A five-year-old Indian boy gets lost on the streets of Calcutta, thousands of ki
 
 	
 	
+	
 
-### Rules Don&#39;t Apply
-*Released on 2016-11-23, vote average 3*
+  
 
-It&#39;s Hollywood, 1958. Small town beauty queen and devout Baptist virgin Marla Mabrey, under contract to the infamous Howard Hughes, arrives in Los Angeles. At the airport, she meets her driver Frank Forbes, who is engaged to be married to his seventh grade sweetheart and is a deeply religious Methodist. Their instant attraction not only puts their religious convictions to the test, but also defies Hughes&#39; number one rule: No employee is allowed to have any relationship whatsoever with a contract actress. Hughes&#39; behavior intersects with Marla and Frank in very separate and unexpected ways, and as they are drawn deeper into his bizarre world, their values are challenged and their lives are changed.
+
+	
+	
+
+### Shut In
+*Released on 2016-11-11, vote average 1.6*
+
+A heart-pounding thriller about a widowed child psychologist who lives in an isolated existence in rural New England. Caught in a deadly winter storm, she must find a way to rescue a young boy before he disappears forever.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/D1JrMOiG5hc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Paterson
-*Released on 2016-11-17, vote average 7*
-
-Set in the present in Paterson, New Jersey, this is a tale about a bus driver and poet.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vWHA1lcjUt4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/KqRdVOQ98k8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -289,41 +301,10 @@ Set in the present in Paterson, New Jersey, this is a tale about a bus driver an
 
 
 	
-	
-	
 
   
 
 
-	
-	
-
-### My Christmas Dream
-*Released on 2016-11-19, vote average 6*
-
-Christina Masters (McKellar), the manager of McDougal’s flagship department store, is determined to land the manager position for their new Paris location. She sets out to impress Victoria (Hall), the store’s owner, by creating the best holiday display in McDougal’s history. Fresh out of inspiration despite assuring Victoria otherwise, Christina turns to a recently-fired store employee (Haydn-Jones) who also happens to be a talented artist and single dad to his young son. As they work side-by-side, the business relationship becomes personal and she finds herself falling in love. Will the allure of her dream be too strong or will she choose to follow her heart?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/K8cYTqXPbPg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -334,20 +315,18 @@ Christina Masters (McKellar), the manager of McDougal’s flagship department st
 
 
 	
-
-	
 	
 
-### Lion
-*Released on 2016-11-24, vote average 2*
+### Underworld: Blood Wars
+*Released on 2016-12-01, vote average 4*
 
-A five-year-old Indian boy gets lost on the streets of Calcutta, thousands of kilometers from home. He survives many challenges before being adopted by a couple in Australia; 25 years later, he sets out to find his lost family.
+Underworld: Blood Wars follows Vampire death dealer, Selene, as she fends off brutal attacks from both the Lycan clan and the Vampire faction that betrayed her. With her only allies, David and his father Thomas, she must stop the eternal war between Lycans and Vampires, even if it means she has to make the ultimate sacrifice.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ziOLGzKq6oo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/FtbM_W9iNjg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -378,21 +357,10 @@ An ambitious lobbyist faces off against the powerful gun lobby in an attempt to 
 	
 
 	
+
 	
 
-### Undercover
-*Released on 2016-11-24, vote average 7*
-
-In the comedy &#39; undercover &#39; is to be Denmark&#39;s worst police officer Muhammed on his first undercover mission. The only problem is that it is small and Rikke love the Thursday before Christmas. But instead of Christmas tree and gifts to Rikke transport Crown witness Mick to Funen persecuted to a notorious gangster boss, which will have a hold of Mick and the 900,000 crowns, he is over with. Linda p. gives the gas as a Danish response to Melissa McCarthy in the grove Christmas comedy, which is written by Casper Christensen and directed by former East Coast Hustler, Nikolaj Peyk.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xRTxCBrS0Q4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
+	
 	
 	
 
@@ -400,10 +368,6 @@ In the comedy &#39; undercover &#39; is to be Denmark&#39;s worst police officer
 
 	
 
-	
-
-	
-	
 	
 
 	
