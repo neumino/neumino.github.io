@@ -47,15 +47,37 @@ In 1926, Newt Scamander arrives at the Magical Congress of the United States of 
 	
 
 ### Moana
-*Released on 2016-11-23, vote average 4.1*
+*Released on 2016-11-23, vote average 5.2*
 
-A young woman uses her navigational talents to set sail for a fabled island. Joining her on the adventure is her hero, the legendary demi-god Maui.
+In Ancient Polynesia, when a terrible curse incurred by Maui reaches an impetuous Chieftain&#39;s daughter&#39;s island, she answers the Ocean&#39;s call to seek out the demigod to set things right.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/LKFuXETZUsI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Bad Santa 2
+*Released on 2016-11-23, vote average 3.3*
+
+Fueled by cheap whiskey, greed and hatred, Willie Soke (Billy Bob Thornton) teams up with his angry little sidekick, Marcus, to knock off a Chicago charity on Christmas Eve. Along for the ride is chubby and cheery Thurman Merman, a 250-pound ray of sunshine who brings out Willie&#39;s sliver of humanity. Mommy issues arise when the pair are joined by Willie&#39;s horror story of a mother, Sunny Soke, who raises the bar for the gang&#39;s ambitions, while somehow lowering the standards of criminal behavior.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/HGcZxBNNpKM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -89,21 +111,6 @@ In 1942, an intelligence officer in North Africa encounters a female French Resi
 
 	
 	
-
-### Bad Santa 2
-*Released on 2016-11-23, vote average 2.6*
-
-Fueled by cheap whiskey, greed and hatred, Willie Soke (Billy Bob Thornton) teams up with his angry little sidekick, Marcus, to knock off a Chicago charity on Christmas Eve. Along for the ride is chubby and cheery Thurman Merman, a 250-pound ray of sunshine who brings out Willie&#39;s sliver of humanity. Mommy issues arise when the pair are joined by Willie&#39;s horror story of a mother, Sunny Soke, who raises the bar for the gang&#39;s ambitions, while somehow lowering the standards of criminal behavior.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/HGcZxBNNpKM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -111,6 +118,26 @@ Fueled by cheap whiskey, greed and hatred, Willie Soke (Billy Bob Thornton) team
 
 	
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -144,6 +171,23 @@ An ambitious lobbyist faces off against the powerful gun lobby in an attempt to 
 
 
 	
+	
+
+### Rules Don&#39;t Apply
+*Released on 2016-11-23, vote average 3*
+
+It&#39;s Hollywood, 1958. Small town beauty queen and devout Baptist virgin Marla Mabrey, under contract to the infamous Howard Hughes, arrives in Los Angeles. At the airport, she meets her driver Frank Forbes, who is engaged to be married to his seventh grade sweetheart and is a deeply religious Methodist. Their instant attraction not only puts their religious convictions to the test, but also defies Hughes&#39; number one rule: No employee is allowed to have any relationship whatsoever with a contract actress. Hughes&#39; behavior intersects with Marla and Frank in very separate and unexpected ways, and as they are drawn deeper into his bizarre world, their values are challenged and their lives are changed.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/D1JrMOiG5hc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -171,11 +215,6 @@ A five-year-old Indian boy gets lost on the streets of Calcutta, thousands of ki
 
 
 	
-
-  
-
-
-	
 	
 	
 
@@ -184,53 +223,6 @@ A five-year-old Indian boy gets lost on the streets of Calcutta, thousands of ki
 
 	
 	
-
-### Rules Don&#39;t Apply
-*Released on 2016-11-23, vote average 3*
-
-It&#39;s Hollywood, 1958. Small town beauty queen and devout Baptist virgin Marla Mabrey, under contract to the infamous Howard Hughes, arrives in Los Angeles. At the airport, she meets her driver Frank Forbes, who is engaged to be married to his seventh grade sweetheart and is a deeply religious Methodist. Their instant attraction not only puts their religious convictions to the test, but also defies Hughes&#39; number one rule: No employee is allowed to have any relationship whatsoever with a contract actress. Hughes&#39; behavior intersects with Marla and Frank in very separate and unexpected ways, and as they are drawn deeper into his bizarre world, their values are challenged and their lives are changed.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/D1JrMOiG5hc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Edge of Seventeen
-*Released on 2016-11-18, vote average 5.3*
-
-Two high school girls are best friends until one dates the other&#39;s older brother, who is totally his sister&#39;s nemesis.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/g2eR6j8eocE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -253,13 +245,6 @@ Two high school girls are best friends until one dates the other&#39;s older bro
   
 
 
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -273,7 +258,7 @@ Two high school girls are best friends until one dates the other&#39;s older bro
 	
 
 ### Underworld: Blood Wars
-*Released on 2016-12-01, vote average 4.3*
+*Released on 2016-12-01, vote average 3.4*
 
 Underworld: Blood Wars follows Vampire death dealer, Selene, as she fends off brutal attacks from both the Lycan clan and the Vampire faction that betrayed her. With her only allies, David and his father Thomas, she must stop the eternal war between Lycans and Vampires, even if it means she has to make the ultimate sacrifice.
 
@@ -289,6 +274,21 @@ Underworld: Blood Wars follows Vampire death dealer, Selene, as she fends off br
 	
 
 	
+	
+
+### La La Land
+*Released on 2016-12-01, vote average 0.5*
+
+Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/je0aAf2f8XQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
