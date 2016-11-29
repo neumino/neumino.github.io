@@ -47,7 +47,7 @@ In 1926, Newt Scamander arrives at the Magical Congress of the United States of 
 	
 
 ### Moana
-*Released on 2016-11-23, vote average 5.2*
+*Released on 2016-11-23, vote average 5.5*
 
 In Ancient Polynesia, when a terrible curse incurred by Maui reaches an impetuous Chieftain&#39;s daughter&#39;s island, she answers the Ocean&#39;s call to seek out the demigod to set things right.
 
@@ -56,6 +56,28 @@ In Ancient Polynesia, when a terrible curse incurred by Maui reaches an impetuou
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/LKFuXETZUsI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Allied
+*Released on 2016-11-17, vote average 5.9*
+
+In 1942, an intelligence officer in North Africa encounters a female French Resistance fighter on a deadly mission behind enemy lines. When they reunite in London, their relationship is tested by the pressures of war.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-NSJ12-7Ulo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -77,7 +99,7 @@ Fueled by cheap whiskey, greed and hatred, Willie Soke (Billy Bob Thornton) team
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/HGcZxBNNpKM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/8anWq67nXhY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -88,18 +110,23 @@ Fueled by cheap whiskey, greed and hatred, Willie Soke (Billy Bob Thornton) team
 
 
 	
+
+  
+
+
+	
 	
 
-### Allied
-*Released on 2016-11-17, vote average 5.6*
+### The Edge of Seventeen
+*Released on 2016-11-18, vote average 5.6*
 
-In 1942, an intelligence officer in North Africa encounters a female French Resistance fighter on a deadly mission behind enemy lines. When they reunite in London, their relationship is tested by the pressures of war.
+Two high school girls are best friends until one dates the other&#39;s older brother, who is totally his sister&#39;s nemesis.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-NSJ12-7Ulo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/g2eR6j8eocE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -110,8 +137,6 @@ In 1942, an intelligence officer in North Africa encounters a female French Resi
 
 
 	
-	
-	
 
   
 
@@ -123,6 +148,23 @@ In 1942, an intelligence officer in North Africa encounters a female French Resi
   
 
 
+	
+	
+
+### Journey Back to Christmas
+*Released on 2016-11-27, vote average 0.5*
+
+Hannah (Cameron Bure), a WWII-era nurse, is transported in time to 2016 and meets Jake (Hudson), a man who helps her discover the bonds of family and that the true meaning of Christmas is timeless.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FPQT7I9wAeU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -171,10 +213,39 @@ An ambitious lobbyist faces off against the powerful gun lobby in an attempt to 
 
 
 	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
 	
 
 ### Rules Don&#39;t Apply
-*Released on 2016-11-23, vote average 3*
+*Released on 2016-11-23, vote average 3.5*
 
 It&#39;s Hollywood, 1958. Small town beauty queen and devout Baptist virgin Marla Mabrey, under contract to the infamous Howard Hughes, arrives in Los Angeles. At the airport, she meets her driver Frank Forbes, who is engaged to be married to his seventh grade sweetheart and is a deeply religious Methodist. Their instant attraction not only puts their religious convictions to the test, but also defies Hughes&#39; number one rule: No employee is allowed to have any relationship whatsoever with a contract actress. Hughes&#39; behavior intersects with Marla and Frank in very separate and unexpected ways, and as they are drawn deeper into his bizarre world, their values are challenged and their lives are changed.
 
@@ -187,64 +258,6 @@ It&#39;s Hollywood, 1958. Small town beauty queen and devout Baptist virgin Marl
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### Lion
-*Released on 2016-11-24, vote average 2.3*
-
-A five-year-old Indian boy gets lost on the streets of Calcutta, thousands of kilometers from home. He survives many challenges before being adopted by a couple in Australia; 25 years later, he sets out to find his lost family.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ziOLGzKq6oo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -274,6 +287,8 @@ Underworld: Blood Wars follows Vampire death dealer, Selene, as she fends off br
 	
 
 	
+
+	
 	
 
 ### La La Land
@@ -290,8 +305,6 @@ Mia, an aspiring actress, serves lattes to movie stars in between auditions and 
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
