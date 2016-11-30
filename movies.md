@@ -47,7 +47,7 @@ In 1926, Newt Scamander arrives at the Magical Congress of the United States of 
 	
 
 ### Moana
-*Released on 2016-11-23, vote average 5.5*
+*Released on 2016-11-23, vote average 5.9*
 
 In Ancient Polynesia, when a terrible curse incurred by Maui reaches an impetuous Chieftain&#39;s daughter&#39;s island, she answers the Ocean&#39;s call to seek out the demigod to set things right.
 
@@ -69,7 +69,7 @@ In Ancient Polynesia, when a terrible curse incurred by Maui reaches an impetuou
 	
 
 ### Allied
-*Released on 2016-11-17, vote average 5.9*
+*Released on 2016-11-17, vote average 6*
 
 In 1942, an intelligence officer in North Africa encounters a female French Resistance fighter on a deadly mission behind enemy lines. When they reunite in London, their relationship is tested by the pressures of war.
 
@@ -78,6 +78,28 @@ In 1942, an intelligence officer in North Africa encounters a female French Resi
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/-NSJ12-7Ulo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Journey Back to Christmas
+*Released on 2016-11-27, vote average 4.2*
+
+Hannah (Cameron Bure), a WWII-era nurse, is transported in time to 2016 and meets Jake (Hudson), a man who helps her discover the bonds of family and that the true meaning of Christmas is timeless.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FPQT7I9wAeU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -99,7 +121,7 @@ Fueled by cheap whiskey, greed and hatred, Willie Soke (Billy Bob Thornton) team
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/8anWq67nXhY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/HGcZxBNNpKM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -109,6 +131,89 @@ Fueled by cheap whiskey, greed and hatred, Willie Soke (Billy Bob Thornton) team
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Miss Sloane
+*Released on 2016-11-25, vote average 1.9*
+
+An ambitious lobbyist faces off against the powerful gun lobby in an attempt to pass gun control legislation.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5k8KaMdPYTY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Paterson
+*Released on 2016-11-17, vote average 7*
+
+Set in the present in Paterson, New Jersey, this is a tale about a bus driver and poet.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vWHA1lcjUt4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -142,30 +247,6 @@ Two high school girls are best friends until one dates the other&#39;s older bro
 
 
 	
-	
-	
-
-  
-
-
-	
-	
-
-### Journey Back to Christmas
-*Released on 2016-11-27, vote average 0.5*
-
-Hannah (Cameron Bure), a WWII-era nurse, is transported in time to 2016 and meets Jake (Hudson), a man who helps her discover the bonds of family and that the true meaning of Christmas is timeless.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FPQT7I9wAeU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -176,87 +257,6 @@ Hannah (Cameron Bure), a WWII-era nurse, is transported in time to 2016 and meet
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Miss Sloane
-*Released on 2016-11-25, vote average 0.6*
-
-An ambitious lobbyist faces off against the powerful gun lobby in an attempt to pass gun control legislation.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/5k8KaMdPYTY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Rules Don&#39;t Apply
-*Released on 2016-11-23, vote average 3.5*
-
-It&#39;s Hollywood, 1958. Small town beauty queen and devout Baptist virgin Marla Mabrey, under contract to the infamous Howard Hughes, arrives in Los Angeles. At the airport, she meets her driver Frank Forbes, who is engaged to be married to his seventh grade sweetheart and is a deeply religious Methodist. Their instant attraction not only puts their religious convictions to the test, but also defies Hughes&#39; number one rule: No employee is allowed to have any relationship whatsoever with a contract actress. Hughes&#39; behavior intersects with Marla and Frank in very separate and unexpected ways, and as they are drawn deeper into his bizarre world, their values are challenged and their lives are changed.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/D1JrMOiG5hc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -271,7 +271,7 @@ It&#39;s Hollywood, 1958. Small town beauty queen and devout Baptist virgin Marl
 	
 
 ### Underworld: Blood Wars
-*Released on 2016-12-01, vote average 3.4*
+*Released on 2016-12-01, vote average 4.2*
 
 Underworld: Blood Wars follows Vampire death dealer, Selene, as she fends off brutal attacks from both the Lycan clan and the Vampire faction that betrayed her. With her only allies, David and his father Thomas, she must stop the eternal war between Lycans and Vampires, even if it means she has to make the ultimate sacrifice.
 
@@ -284,8 +284,6 @@ Underworld: Blood Wars follows Vampire death dealer, Selene, as she fends off br
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
@@ -305,6 +303,8 @@ Mia, an aspiring actress, serves lattes to movie stars in between auditions and 
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
