@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Fantastic Beasts and Where to Find Them
-*Released on 2016-11-16, vote average 7.2*
+### Underworld: Blood Wars
+*Released on 2016-12-01, vote average 4.2*
 
-In 1926, Newt Scamander arrives at the Magical Congress of the United States of America with a magically expanded briefcase, which houses a number of dangerous creatures and their habitats. When the creatures escape from the briefcase, it sends the American wizarding authorities after Newt, and threatens to strain even further the state of magical and non-magical relations.
+Underworld: Blood Wars follows Vampire death dealer, Selene, as she fends off brutal attacks from both the Lycan clan and the Vampire faction that betrayed her. With her only allies, David and his father Thomas, she must stop the eternal war between Lycans and Vampires, even if it means she has to make the ultimate sacrifice.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/FnZF82_3Cts?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/FtbM_W9iNjg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -47,7 +47,7 @@ In 1926, Newt Scamander arrives at the Magical Congress of the United States of 
 	
 
 ### Moana
-*Released on 2016-11-23, vote average 5.9*
+*Released on 2016-11-23, vote average 5.8*
 
 In Ancient Polynesia, when a terrible curse incurred by Maui reaches an impetuous Chieftain&#39;s daughter&#39;s island, she answers the Ocean&#39;s call to seek out the demigod to set things right.
 
@@ -90,10 +90,32 @@ In 1942, an intelligence officer in North Africa encounters a female French Resi
 	
 	
 
+### Bad Santa 2
+*Released on 2016-11-23, vote average 3.3*
+
+Fueled by cheap whiskey, greed and hatred, Willie Soke (Billy Bob Thornton) teams up with his angry little sidekick, Marcus, to knock off a Chicago charity on Christmas Eve. Along for the ride is chubby and cheery Thurman Merman, a 250-pound ray of sunshine who brings out Willie&#39;s sliver of humanity. Mommy issues arise when the pair are joined by Willie&#39;s horror story of a mother, Sunny Soke, who raises the bar for the gang&#39;s ambitions, while somehow lowering the standards of criminal behavior.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8anWq67nXhY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Journey Back to Christmas
 *Released on 2016-11-27, vote average 4.2*
 
-Hannah (Cameron Bure), a WWII-era nurse, is transported in time to 2016 and meets Jake (Hudson), a man who helps her discover the bonds of family and that the true meaning of Christmas is timeless.
+WWII has ended and Hanna is still grieving over her husband&#39;s disappearance. When the Christmas Comet appears for the first time in 70 years, Hanna is caught in a terrible storm and knocked unconscious. When she wakes up, she&#39;s in 2016.
 
 <iframe id="player"
 	type="text/html"
@@ -104,109 +126,6 @@ Hannah (Cameron Bure), a WWII-era nurse, is transported in time to 2016 and meet
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### Bad Santa 2
-*Released on 2016-11-23, vote average 3.3*
-
-Fueled by cheap whiskey, greed and hatred, Willie Soke (Billy Bob Thornton) teams up with his angry little sidekick, Marcus, to knock off a Chicago charity on Christmas Eve. Along for the ride is chubby and cheery Thurman Merman, a 250-pound ray of sunshine who brings out Willie&#39;s sliver of humanity. Mommy issues arise when the pair are joined by Willie&#39;s horror story of a mother, Sunny Soke, who raises the bar for the gang&#39;s ambitions, while somehow lowering the standards of criminal behavior.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/HGcZxBNNpKM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Miss Sloane
-*Released on 2016-11-25, vote average 1.9*
-
-An ambitious lobbyist faces off against the powerful gun lobby in an attempt to pass gun control legislation.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/5k8KaMdPYTY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Paterson
-*Released on 2016-11-17, vote average 7*
-
-Set in the present in Paterson, New Jersey, this is a tale about a bus driver and poet.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vWHA1lcjUt4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 	
 
   
@@ -257,7 +176,71 @@ Two high school girls are best friends until one dates the other&#39;s older bro
 
 
 	
+
+  
+
+
 	
+	
+
+### La La Land
+*Released on 2016-12-01, vote average 0.5*
+
+Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/je0aAf2f8XQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -287,6 +270,8 @@ Underworld: Blood Wars follows Vampire death dealer, Selene, as she fends off br
 	
 
 	
+
+	
 	
 
 ### La La Land
@@ -312,7 +297,22 @@ Mia, an aspiring actress, serves lattes to movie stars in between auditions and 
 	
 
 	
+	
 
+### Jackie
+*Released on 2016-12-02, vote average 3*
+
+An account of the days of First Lady, Jacqueline Kennedy, in the immediate aftermath of John F. Kennedy&#39;s assassination in 1963.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pZTXv5NpgaI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
