@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Underworld: Blood Wars
-*Released on 2016-12-01, vote average 4.2*
+*Released on 2016-12-01, vote average 4.7*
 
 Underworld: Blood Wars follows Vampire death dealer, Selene, as she fends off brutal attacks from both the Lycan clan and the Vampire faction that betrayed her. With her only allies, David and his father Thomas, she must stop the eternal war between Lycans and Vampires, even if it means she has to make the ultimate sacrifice.
 
@@ -47,7 +47,7 @@ Underworld: Blood Wars follows Vampire death dealer, Selene, as she fends off br
 	
 
 ### Moana
-*Released on 2016-11-23, vote average 5.8*
+*Released on 2016-11-23, vote average 5.7*
 
 In Ancient Polynesia, when a terrible curse incurred by Maui reaches an impetuous Chieftain&#39;s daughter&#39;s island, she answers the Ocean&#39;s call to seek out the demigod to set things right.
 
@@ -68,30 +68,8 @@ In Ancient Polynesia, when a terrible curse incurred by Maui reaches an impetuou
 	
 	
 
-### Allied
-*Released on 2016-11-17, vote average 6*
-
-In 1942, an intelligence officer in North Africa encounters a female French Resistance fighter on a deadly mission behind enemy lines. When they reunite in London, their relationship is tested by the pressures of war.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-NSJ12-7Ulo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Bad Santa 2
-*Released on 2016-11-23, vote average 3.3*
+*Released on 2016-11-23, vote average 3.5*
 
 Fueled by cheap whiskey, greed and hatred, Willie Soke (Billy Bob Thornton) teams up with his angry little sidekick, Marcus, to knock off a Chicago charity on Christmas Eve. Along for the ride is chubby and cheery Thurman Merman, a 250-pound ray of sunshine who brings out Willie&#39;s sliver of humanity. Mommy issues arise when the pair are joined by Willie&#39;s horror story of a mother, Sunny Soke, who raises the bar for the gang&#39;s ambitions, while somehow lowering the standards of criminal behavior.
 
@@ -112,16 +90,16 @@ Fueled by cheap whiskey, greed and hatred, Willie Soke (Billy Bob Thornton) team
 	
 	
 
-### Journey Back to Christmas
-*Released on 2016-11-27, vote average 4.2*
+### La La Land
+*Released on 2016-12-01, vote average 0.5*
 
-WWII has ended and Hanna is still grieving over her husband&#39;s disappearance. When the Christmas Comet appears for the first time in 70 years, Hanna is caught in a terrible storm and knocked unconscious. When she wakes up, she&#39;s in 2016.
+Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/FPQT7I9wAeU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/je0aAf2f8XQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -132,7 +110,10 @@ WWII has ended and Hanna is still grieving over her husband&#39;s disappearance.
 
 
 	
-	
+
+  
+
+
 	
 
   
@@ -176,6 +157,23 @@ Two high school girls are best friends until one dates the other&#39;s older bro
 
 
 	
+	
+
+### The Raven (by Edgar Allan Poe)
+*Released on 2016-12-01, vote average 10*
+
+Go back to the place where it all began, in the midst of a dreary night -- the kind the ghosts of our past (that come back to haunt us) find irresistible. Relive this poetic, frightening, and sad tale of love and soul forever lost in a charming, new light.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/bXG9b-6mwUc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -183,16 +181,43 @@ Two high school girls are best friends until one dates the other&#39;s older bro
 	
 	
 
-### La La Land
-*Released on 2016-12-01, vote average 0.5*
+### Journey Back to Christmas
+*Released on 2016-11-27, vote average 4.2*
 
-Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.
+WWII has ended and Hanna is still grieving over her husband&#39;s disappearance. When the Christmas Comet appears for the first time in 70 years, Hanna is caught in a terrible storm and knocked unconscious. When she wakes up, she&#39;s in 2016.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/je0aAf2f8XQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/FPQT7I9wAeU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Jackie
+*Released on 2016-12-02, vote average 3*
+
+An account of the days of First Lady, Jacqueline Kennedy, in the immediate aftermath of John F. Kennedy&#39;s assassination in 1963.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pZTXv5NpgaI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -212,18 +237,6 @@ Mia, an aspiring actress, serves lattes to movie stars in between auditions and 
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -253,52 +266,6 @@ Mia, an aspiring actress, serves lattes to movie stars in between auditions and 
 	
 	
 
-### Underworld: Blood Wars
-*Released on 2016-12-01, vote average 4.2*
-
-Underworld: Blood Wars follows Vampire death dealer, Selene, as she fends off brutal attacks from both the Lycan clan and the Vampire faction that betrayed her. With her only allies, David and his father Thomas, she must stop the eternal war between Lycans and Vampires, even if it means she has to make the ultimate sacrifice.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FtbM_W9iNjg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-	
-
-### La La Land
-*Released on 2016-12-01, vote average 0.5*
-
-Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/je0aAf2f8XQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
-
-	
-	
-
 ### Jackie
 *Released on 2016-12-02, vote average 3*
 
@@ -313,6 +280,18 @@ An account of the days of First Lady, Jacqueline Kennedy, in the immediate after
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
