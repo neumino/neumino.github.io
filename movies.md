@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Underworld: Blood Wars
-*Released on 2016-12-01, vote average 4.7*
+*Released on 2016-12-01, vote average 4.3*
 
 Underworld: Blood Wars follows Vampire death dealer, Selene, as she fends off brutal attacks from both the Lycan clan and the Vampire faction that betrayed her. With her only allies, David and his father Thomas, she must stop the eternal war between Lycans and Vampires, even if it means she has to make the ultimate sacrifice.
 
@@ -68,28 +68,6 @@ In Ancient Polynesia, when a terrible curse incurred by Maui reaches an impetuou
 	
 	
 
-### Bad Santa 2
-*Released on 2016-11-23, vote average 3.5*
-
-Fueled by cheap whiskey, greed and hatred, Willie Soke (Billy Bob Thornton) teams up with his angry little sidekick, Marcus, to knock off a Chicago charity on Christmas Eve. Along for the ride is chubby and cheery Thurman Merman, a 250-pound ray of sunshine who brings out Willie&#39;s sliver of humanity. Mommy issues arise when the pair are joined by Willie&#39;s horror story of a mother, Sunny Soke, who raises the bar for the gang&#39;s ambitions, while somehow lowering the standards of criminal behavior.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8anWq67nXhY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### La La Land
 *Released on 2016-12-01, vote average 0.5*
 
@@ -110,28 +88,55 @@ Mia, an aspiring actress, serves lattes to movie stars in between auditions and 
 
 
 	
-
-  
-
-
 	
 
-  
+### Bad Santa 2
+*Released on 2016-11-23, vote average 3.9*
 
-
-	
-	
-
-### The Edge of Seventeen
-*Released on 2016-11-18, vote average 5.6*
-
-Two high school girls are best friends until one dates the other&#39;s older brother, who is totally his sister&#39;s nemesis.
+Fueled by cheap whiskey, greed and hatred, Willie Soke (Billy Bob Thornton) teams up with his angry little sidekick, Marcus, to knock off a Chicago charity on Christmas Eve. Along for the ride is chubby and cheery Thurman Merman, a 250-pound ray of sunshine who brings out Willie&#39;s sliver of humanity. Mommy issues arise when the pair are joined by Willie&#39;s horror story of a mother, Sunny Soke, who raises the bar for the gang&#39;s ambitions, while somehow lowering the standards of criminal behavior.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/g2eR6j8eocE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/8anWq67nXhY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Jackie
+*Released on 2016-12-02, vote average 3*
+
+An account of the days of First Lady, Jacqueline Kennedy, in the immediate aftermath of John F. Kennedy&#39;s assassination in 1963.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pZTXv5NpgaI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -179,55 +184,6 @@ Go back to the place where it all began, in the midst of a dreary night -- the k
 
 
 	
-	
-
-### Journey Back to Christmas
-*Released on 2016-11-27, vote average 4.2*
-
-WWII has ended and Hanna is still grieving over her husband&#39;s disappearance. When the Christmas Comet appears for the first time in 70 years, Hanna is caught in a terrible storm and knocked unconscious. When she wakes up, she&#39;s in 2016.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FPQT7I9wAeU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Jackie
-*Released on 2016-12-02, vote average 3*
-
-An account of the days of First Lady, Jacqueline Kennedy, in the immediate aftermath of John F. Kennedy&#39;s assassination in 1963.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pZTXv5NpgaI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 
   
 
@@ -249,6 +205,16 @@ An account of the days of First Lady, Jacqueline Kennedy, in the immediate after
 
 	
 	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -263,23 +229,6 @@ An account of the days of First Lady, Jacqueline Kennedy, in the immediate after
 ## Opening soon
 
 
-	
-	
-
-### Jackie
-*Released on 2016-12-02, vote average 3*
-
-An account of the days of First Lady, Jacqueline Kennedy, in the immediate aftermath of John F. Kennedy&#39;s assassination in 1963.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pZTXv5NpgaI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
