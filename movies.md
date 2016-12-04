@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Underworld: Blood Wars
-*Released on 2016-12-01, vote average 4.3*
+*Released on 2016-12-01, vote average 4*
 
 Underworld: Blood Wars follows Vampire death dealer, Selene, as she fends off brutal attacks from both the Lycan clan and the Vampire faction that betrayed her. With her only allies, David and his father Thomas, she must stop the eternal war between Lycans and Vampires, even if it means she has to make the ultimate sacrifice.
 
@@ -90,6 +90,38 @@ Mia, an aspiring actress, serves lattes to movie stars in between auditions and 
 	
 	
 
+### Jackie
+*Released on 2016-12-02, vote average 3*
+
+An account of the days of First Lady, Jacqueline Kennedy, in the immediate aftermath of John F. Kennedy&#39;s assassination in 1963.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pZTXv5NpgaI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### Bad Santa 2
 *Released on 2016-11-23, vote average 3.9*
 
@@ -125,23 +157,6 @@ Fueled by cheap whiskey, greed and hatred, Willie Soke (Billy Bob Thornton) team
 
 
 	
-	
-
-### Jackie
-*Released on 2016-12-02, vote average 3*
-
-An account of the days of First Lady, Jacqueline Kennedy, in the immediate aftermath of John F. Kennedy&#39;s assassination in 1963.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pZTXv5NpgaI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -157,26 +172,6 @@ An account of the days of First Lady, Jacqueline Kennedy, in the immediate after
 
 
 	
-
-  
-
-
-	
-	
-
-### The Raven (by Edgar Allan Poe)
-*Released on 2016-12-01, vote average 10*
-
-Go back to the place where it all began, in the midst of a dreary night -- the kind the ghosts of our past (that come back to haunt us) find irresistible. Relive this poetic, frightening, and sad tale of love and soul forever lost in a charming, new light.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/bXG9b-6mwUc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -205,16 +200,6 @@ Go back to the place where it all began, in the midst of a dreary night -- the k
 
 	
 	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -233,6 +218,23 @@ Go back to the place where it all began, in the midst of a dreary night -- the k
 
 	
 
+	
+	
+
+### Eliminators
+*Released on 2016-12-06, vote average 5*
+
+A former US Federal Agent must abandon the witness protection program and come out of hiding when his London home is invaded in error due to a wrong address. When the event ends with multiple homicides, the news triggers those hunting him to send Europe&#39;s most dangerous assassin to kill him. Now on the run with his daughters life in jeopardy, a determined father must get her to safety before the people he&#39;s been hiding from tracks him down.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jVMz0xdDt7s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
