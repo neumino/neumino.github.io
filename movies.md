@@ -47,7 +47,7 @@ Underworld: Blood Wars follows Vampire death dealer, Selene, as she fends off br
 	
 
 ### Moana
-*Released on 2016-11-23, vote average 5.7*
+*Released on 2016-11-23, vote average 6.1*
 
 In Ancient Polynesia, when a terrible curse incurred by Maui reaches an impetuous Chieftain&#39;s daughter&#39;s island, she answers the Ocean&#39;s call to seek out the demigod to set things right.
 
@@ -56,50 +56,6 @@ In Ancient Polynesia, when a terrible curse incurred by Maui reaches an impetuou
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/LKFuXETZUsI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### La La Land
-*Released on 2016-12-01, vote average 0.5*
-
-Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/je0aAf2f8XQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Jackie
-*Released on 2016-12-02, vote average 3*
-
-An account of the days of First Lady, Jacqueline Kennedy, in the immediate aftermath of John F. Kennedy&#39;s assassination in 1963.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pZTXv5NpgaI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -142,6 +98,99 @@ Fueled by cheap whiskey, greed and hatred, Willie Soke (Billy Bob Thornton) team
 
 
 	
+	
+
+### Run the Tide
+*Released on 2016-12-02, vote average 3.3*
+
+When their drug abusing mother is released from prison determined to rebuild their family, Rey kidnaps his younger brother Oliver and escapes their desert home for the California coast.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6GlYu09cxgY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Jackie
+*Released on 2016-12-02, vote average 3*
+
+An account of the days of First Lady, Jacqueline Kennedy, in the immediate aftermath of John F. Kennedy&#39;s assassination in 1963.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pZTXv5NpgaI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### La La Land
+*Released on 2016-12-01, vote average 0.5*
+
+Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/je0aAf2f8XQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
 
   
 
@@ -173,38 +222,6 @@ Fueled by cheap whiskey, greed and hatred, Willie Soke (Billy Bob Thornton) team
 
 	
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 	
 
   
