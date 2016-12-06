@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Underworld: Blood Wars
-*Released on 2016-12-01, vote average 4*
+*Released on 2016-12-01, vote average 4.2*
 
 Underworld: Blood Wars follows Vampire death dealer, Selene, as she fends off brutal attacks from both the Lycan clan and the Vampire faction that betrayed her. With her only allies, David and his father Thomas, she must stop the eternal war between Lycans and Vampires, even if it means she has to make the ultimate sacrifice.
 
@@ -47,7 +47,7 @@ Underworld: Blood Wars follows Vampire death dealer, Selene, as she fends off br
 	
 
 ### Moana
-*Released on 2016-11-23, vote average 6.1*
+*Released on 2016-11-23, vote average 6.3*
 
 In Ancient Polynesia, when a terrible curse incurred by Maui reaches an impetuous Chieftain&#39;s daughter&#39;s island, she answers the Ocean&#39;s call to seek out the demigod to set things right.
 
@@ -71,45 +71,18 @@ In Ancient Polynesia, when a terrible curse incurred by Maui reaches an impetuou
 
 
 	
-
-  
-
-
-	
 	
 
-### Bad Santa 2
-*Released on 2016-11-23, vote average 3.9*
+### Eliminators
+*Released on 2016-12-06, vote average 5*
 
-Fueled by cheap whiskey, greed and hatred, Willie Soke (Billy Bob Thornton) teams up with his angry little sidekick, Marcus, to knock off a Chicago charity on Christmas Eve. Along for the ride is chubby and cheery Thurman Merman, a 250-pound ray of sunshine who brings out Willie&#39;s sliver of humanity. Mommy issues arise when the pair are joined by Willie&#39;s horror story of a mother, Sunny Soke, who raises the bar for the gang&#39;s ambitions, while somehow lowering the standards of criminal behavior.
+A former US Federal Agent must abandon the witness protection program and come out of hiding when his London home is invaded in error due to a wrong address. When the event ends with multiple homicides, the news triggers those hunting him to send Europe&#39;s most dangerous assassin to kill him. Now on the run with his daughters life in jeopardy, a determined father must get her to safety before the people he&#39;s been hiding from tracks him down.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/8anWq67nXhY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Run the Tide
-*Released on 2016-12-02, vote average 3.3*
-
-When their drug abusing mother is released from prison determined to rebuild their family, Rey kidnaps his younger brother Oliver and escapes their desert home for the California coast.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/6GlYu09cxgY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/jVMz0xdDt7s?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -141,6 +114,67 @@ An account of the days of First Lady, Jacqueline Kennedy, in the immediate after
   
 
 
+	
+	
+
+### Bad Santa 2
+*Released on 2016-11-23, vote average 3.9*
+
+Fueled by cheap whiskey, greed and hatred, Willie Soke (Billy Bob Thornton) teams up with his angry little sidekick, Marcus, to knock off a Chicago charity on Christmas Eve. Along for the ride is chubby and cheery Thurman Merman, a 250-pound ray of sunshine who brings out Willie&#39;s sliver of humanity. Mommy issues arise when the pair are joined by Willie&#39;s horror story of a mother, Sunny Soke, who raises the bar for the gang&#39;s ambitions, while somehow lowering the standards of criminal behavior.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8anWq67nXhY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Run the Tide
+*Released on 2016-12-02, vote average 4.2*
+
+When their drug abusing mother is released from prison determined to rebuild their family, Rey kidnaps his younger brother Oliver and escapes their desert home for the California coast.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6GlYu09cxgY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -174,27 +208,19 @@ Mia, an aspiring actress, serves lattes to movie stars in between auditions and 
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 	
 
   
 
 
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -215,13 +241,6 @@ Mia, an aspiring actress, serves lattes to movie stars in between auditions and 
   
 
 
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -232,7 +251,22 @@ Mia, an aspiring actress, serves lattes to movie stars in between auditions and 
 
 
 	
+	
 
+### Office Christmas Party
+*Released on 2016-12-07, vote average 0.5*
+
+When his uptight CEO sister (Aniston) threatens to shut down his branch, the branch manager(T J Miller) throws an epic Christmas party in order to land a big client and save the day, but the party gets way out of hand.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fquJGcqOetA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -248,6 +282,25 @@ A former US Federal Agent must abandon the witness protection program and come o
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/jVMz0xdDt7s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### Sing
+*Released on 2016-12-08, vote average 10*
+
+A koala named Buster recruits his best friend to help him drum up business for his theater by hosting a singing competition.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Zvjmt4pwtdg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
