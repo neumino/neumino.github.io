@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Underworld: Blood Wars
-*Released on 2016-12-01, vote average 4.2*
+*Released on 2016-12-01, vote average 4.1*
 
 Underworld: Blood Wars follows Vampire death dealer, Selene, as she fends off brutal attacks from both the Lycan clan and the Vampire faction that betrayed her. With her only allies, David and his father Thomas, she must stop the eternal war between Lycans and Vampires, even if it means she has to make the ultimate sacrifice.
 
@@ -46,30 +46,8 @@ Underworld: Blood Wars follows Vampire death dealer, Selene, as she fends off br
 	
 	
 
-### Moana
-*Released on 2016-11-23, vote average 6.3*
-
-In Ancient Polynesia, when a terrible curse incurred by Maui reaches an impetuous Chieftain&#39;s daughter&#39;s island, she answers the Ocean&#39;s call to seek out the demigod to set things right.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LKFuXETZUsI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Office Christmas Party
-*Released on 2016-12-07, vote average 0.5*
+*Released on 2016-12-07, vote average 3.6*
 
 When his uptight CEO sister (Aniston) threatens to shut down his branch, the branch manager(T J Miller) throws an epic Christmas party in order to land a big client and save the day, but the party gets way out of hand.
 
@@ -82,33 +60,6 @@ When his uptight CEO sister (Aniston) threatens to shut down his branch, the bra
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### Bad Santa 2
-*Released on 2016-11-23, vote average 3.8*
-
-Fueled by cheap whiskey, greed and hatred, Willie Soke (Billy Bob Thornton) teams up with his angry little sidekick, Marcus, to knock off a Chicago charity on Christmas Eve. Along for the ride is chubby and cheery Thurman Merman, a 250-pound ray of sunshine who brings out Willie&#39;s sliver of humanity. Mommy issues arise when the pair are joined by Willie&#39;s horror story of a mother, Sunny Soke, who raises the bar for the gang&#39;s ambitions, while somehow lowering the standards of criminal behavior.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8anWq67nXhY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -130,6 +81,35 @@ A former US Federal Agent must abandon the witness protection program and come o
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+	
+
+### Sing
+*Released on 2016-12-08, vote average 4*
+
+A koala named Buster recruits his best friend to help him drum up business for his theater by hosting a singing competition.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Zvjmt4pwtdg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -169,10 +149,25 @@ When their drug abusing mother is released from prison determined to rebuild the
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### La La Land
-*Released on 2016-12-01, vote average 0.5*
+*Released on 2016-12-01, vote average 5.3*
 
 Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.
 
@@ -191,7 +186,17 @@ Mia, an aspiring actress, serves lattes to movie stars in between auditions and 
 
 
 	
+
+  
+
+
 	
+	
+	
+
+  
+
+
 	
 
   
@@ -241,28 +246,6 @@ An account of the days of First Lady, Jacqueline Kennedy, in the immediate after
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -272,27 +255,8 @@ An account of the days of First Lady, Jacqueline Kennedy, in the immediate after
 	
 	
 
-### Office Christmas Party
-*Released on 2016-12-07, vote average 0.5*
-
-When his uptight CEO sister (Aniston) threatens to shut down his branch, the branch manager(T J Miller) throws an epic Christmas party in order to land a big client and save the day, but the party gets way out of hand.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xFzAPOLMHRk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
 ### Sing
-*Released on 2016-12-08, vote average 10*
+*Released on 2016-12-08, vote average 4*
 
 A koala named Buster recruits his best friend to help him drum up business for his theater by hosting a singing competition.
 
@@ -310,7 +274,7 @@ A koala named Buster recruits his best friend to help him drum up business for h
 	
 
 	
-	
+
 	
 
 	
