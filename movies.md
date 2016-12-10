@@ -46,50 +46,6 @@ Underworld: Blood Wars follows Vampire death dealer, Selene, as she fends off br
 	
 	
 
-### Office Christmas Party
-*Released on 2016-12-07, vote average 3.6*
-
-When his uptight CEO sister (Aniston) threatens to shut down his branch, the branch manager(T J Miller) throws an epic Christmas party in order to land a big client and save the day, but the party gets way out of hand.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/fquJGcqOetA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Sing
-*Released on 2016-12-08, vote average 4*
-
-A koala named Buster recruits his best friend to help him drum up business for his theater by hosting a singing competition.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Zvjmt4pwtdg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Eliminators
 *Released on 2016-12-06, vote average 5*
 
@@ -110,6 +66,65 @@ A former US Federal Agent must abandon the witness protection program and come o
 
 
 	
+	
+
+### Office Christmas Party
+*Released on 2016-12-07, vote average 4.9*
+
+When his uptight CEO sister (Aniston) threatens to shut down his branch, the branch manager(T J Miller) throws an epic Christmas party in order to land a big client and save the day, but the party gets way out of hand.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xFzAPOLMHRk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Sing
+*Released on 2016-12-08, vote average 5.5*
+
+A koala named Buster recruits his best friend to help him drum up business for his theater by hosting a singing competition.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Zvjmt4pwtdg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 
   
 
@@ -121,6 +136,27 @@ A former US Federal Agent must abandon the witness protection program and come o
   
 
 
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -135,7 +171,7 @@ A former US Federal Agent must abandon the witness protection program and come o
 	
 
 ### La La Land
-*Released on 2016-12-01, vote average 5.3*
+*Released on 2016-12-01, vote average 6.2*
 
 Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.
 
@@ -154,30 +190,6 @@ Mia, an aspiring actress, serves lattes to movie stars in between auditions and 
 
 
 	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 
   
 
@@ -190,47 +202,20 @@ Mia, an aspiring actress, serves lattes to movie stars in between auditions and 
 	
 	
 
-### It Watches
-*Released on 2016-12-06, vote average 4.5*
+### Spectral
+*Released on 2016-12-09, vote average 6*
 
-Andre, recovering from a recent accident, agrees to help his friend Robert by taking over a house sitting job at a creepy home nestled in the hills above Los Angeles. As night comes, the house reveals its insidious nature as Andre begins hearing ominous sounds and experiencing strange occurrences throughout the house that lead him to believe he is not alone, and that someone, or something is in the house with him.
+A special-ops team is dispatched to fight supernatural beings that have taken over a European city.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/DjqLwKVawLE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/rmC3ZhIHHi4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### Jackie
-*Released on 2016-12-02, vote average 3*
-
-An account of the days of First Lady, Jacqueline Kennedy, in the immediate aftermath of John F. Kennedy&#39;s assassination in 1963.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pZTXv5NpgaI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -254,7 +239,7 @@ An account of the days of First Lady, Jacqueline Kennedy, in the immediate after
 	
 
 ### Rogue One: A Star Wars Story
-*Released on 2016-12-14, vote average 6*
+*Released on 2016-12-14, vote average 6.5*
 
 A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.
 
@@ -262,7 +247,7 @@ A rogue band of resistance fighters unite for a mission to steal the Death Star 
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/LAL9ELEW2xk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/_1ALxZMto70?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
