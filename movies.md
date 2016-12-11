@@ -46,16 +46,16 @@ Underworld: Blood Wars follows Vampire death dealer, Selene, as she fends off br
 	
 	
 
-### Eliminators
-*Released on 2016-12-06, vote average 5*
+### Office Christmas Party
+*Released on 2016-12-07, vote average 4.9*
 
-A former US Federal Agent must abandon the witness protection program and come out of hiding when his London home is invaded in error due to a wrong address. When the event ends with multiple homicides, the news triggers those hunting him to send Europe&#39;s most dangerous assassin to kill him. Now on the run with his daughters life in jeopardy, a determined father must get her to safety before the people he&#39;s been hiding from tracks him down.
+When his uptight CEO sister (Aniston) threatens to shut down his branch, the branch manager(T J Miller) throws an epic Christmas party in order to land a big client and save the day, but the party gets way out of hand.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/jVMz0xdDt7s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xFzAPOLMHRk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,16 +68,16 @@ A former US Federal Agent must abandon the witness protection program and come o
 	
 	
 
-### Office Christmas Party
-*Released on 2016-12-07, vote average 4.9*
+### Eliminators
+*Released on 2016-12-06, vote average 7.3*
 
-When his uptight CEO sister (Aniston) threatens to shut down his branch, the branch manager(T J Miller) throws an epic Christmas party in order to land a big client and save the day, but the party gets way out of hand.
+A former US Federal Agent must abandon the witness protection program and come out of hiding when his London home is invaded in error due to a wrong address. When the event ends with multiple homicides, the news triggers those hunting him to send Europe&#39;s most dangerous assassin to kill him. Now on the run with his daughters life in jeopardy, a determined father must get her to safety before the people he&#39;s been hiding from tracks him down.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xFzAPOLMHRk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/jVMz0xdDt7s?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -110,58 +110,7 @@ A koala named Buster recruits his best friend to help him drum up business for h
 
 
 	
-
-  
-
-
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 	
 
   
@@ -171,7 +120,7 @@ A koala named Buster recruits his best friend to help him drum up business for h
 	
 
 ### La La Land
-*Released on 2016-12-01, vote average 6.2*
+*Released on 2016-12-01, vote average 7.1*
 
 Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.
 
@@ -195,6 +144,59 @@ Mia, an aspiring actress, serves lattes to movie stars in between auditions and 
 
 
 	
+	
+
+### Frank &amp; Lola
+*Released on 2016-12-09, vote average 6*
+
+A psychosexual noir love story, set in Las Vegas and Paris, about love, obsession, sex, betrayal, revenge and, ultimately, the search for redemption.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/B0FaxsOAyQg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
 
   
 
@@ -203,7 +205,7 @@ Mia, an aspiring actress, serves lattes to movie stars in between auditions and 
 	
 
 ### Spectral
-*Released on 2016-12-09, vote average 6*
+*Released on 2016-12-09, vote average 7.3*
 
 A special-ops team is dispatched to fight supernatural beings that have taken over a European city.
 
@@ -216,6 +218,23 @@ A special-ops team is dispatched to fight supernatural beings that have taken ov
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -239,7 +258,7 @@ A special-ops team is dispatched to fight supernatural beings that have taken ov
 	
 
 ### Rogue One: A Star Wars Story
-*Released on 2016-12-14, vote average 6.5*
+*Released on 2016-12-14, vote average 6.2*
 
 A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.
 
@@ -247,7 +266,7 @@ A rogue band of resistance fighters unite for a mission to steal the Death Star 
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/_1ALxZMto70?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/LAL9ELEW2xk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
