@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Underworld: Blood Wars
-*Released on 2016-12-01, vote average 4.1*
+*Released on 2016-12-01, vote average 4.2*
 
 Underworld: Blood Wars follows Vampire death dealer, Selene, as she fends off brutal attacks from both the Lycan clan and the Vampire faction that betrayed her. With her only allies, David and his father Thomas, she must stop the eternal war between Lycans and Vampires, even if it means she has to make the ultimate sacrifice.
 
@@ -46,6 +46,28 @@ Underworld: Blood Wars follows Vampire death dealer, Selene, as she fends off br
 	
 	
 
+### Office Christmas Party
+*Released on 2016-12-05, vote average 5.4*
+
+When his uptight CEO sister (Aniston) threatens to shut down his branch, the branch manager(T J Miller) throws an epic Christmas party in order to land a big client and save the day, but the party gets way out of hand.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xFzAPOLMHRk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Eliminators
 *Released on 2016-12-06, vote average 7.3*
 
@@ -68,16 +90,16 @@ A former US Federal Agent must abandon the witness protection program and come o
 	
 	
 
-### Office Christmas Party
-*Released on 2016-12-05, vote average 5.1*
+### Sing
+*Released on 2016-12-08, vote average 5.3*
 
-When his uptight CEO sister (Aniston) threatens to shut down his branch, the branch manager(T J Miller) throws an epic Christmas party in order to land a big client and save the day, but the party gets way out of hand.
+A koala named Buster recruits his best friend to help him drum up business for his theater by hosting a singing competition.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xFzAPOLMHRk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Zvjmt4pwtdg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,16 +134,16 @@ A psychosexual noir love story, set in Las Vegas and Paris, about love, obsessio
 	
 	
 
-### Sing
-*Released on 2016-12-08, vote average 5.5*
+### La La Land
+*Released on 2016-12-01, vote average 8.1*
 
-A koala named Buster recruits his best friend to help him drum up business for his theater by hosting a singing competition.
+Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Zvjmt4pwtdg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/je0aAf2f8XQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -135,7 +157,7 @@ A koala named Buster recruits his best friend to help him drum up business for h
 	
 
 ### Spectral
-*Released on 2016-12-09, vote average 7*
+*Released on 2016-12-09, vote average 6.9*
 
 A special-ops team is dispatched to fight supernatural beings that have taken over a European city.
 
@@ -155,11 +177,6 @@ A special-ops team is dispatched to fight supernatural beings that have taken ov
 
 	
 	
-	
-
-  
-
-
 	
 
   
@@ -188,51 +205,10 @@ Two brothers, down on their luck, fake a disappearance in the Alaskan wilderness
 
 
 	
-
-  
-
-
-	
-	
-
-### La La Land
-*Released on 2016-12-01, vote average 7.7*
-
-Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/je0aAf2f8XQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
 	
 
 ### Burn Country
-*Released on 2016-12-09, vote average 7*
+*Released on 2016-12-09, vote average 6*
 
 A former war journalist now writing for a paper in Northern California is drawn into conflict at home.
 
@@ -273,12 +249,40 @@ When her niece is cast in The Philadelphia Ballet’s production of the Nutcrack
 
 
 	
+
+  
+
+
+	
 	
 	
 
   
 
 
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -309,7 +313,7 @@ When her niece is cast in The Philadelphia Ballet’s production of the Nutcrack
 	
 
 ### Rogue One: A Star Wars Story
-*Released on 2016-12-14, vote average 5.2*
+*Released on 2016-12-14, vote average 5.6*
 
 A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.
 
