@@ -46,6 +46,28 @@ Underworld: Blood Wars follows Vampire death dealer, Selene, as she fends off br
 	
 	
 
+### Rogue One: A Star Wars Story
+*Released on 2016-12-14, vote average 5.2*
+
+A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_1ALxZMto70?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Office Christmas Party
 *Released on 2016-12-05, vote average 5.4*
 
@@ -56,6 +78,28 @@ When his uptight CEO sister (Aniston) threatens to shut down his branch, the bra
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/xFzAPOLMHRk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Spectral
+*Released on 2016-12-09, vote average 7*
+
+A special-ops team is dispatched to fight supernatural beings that have taken over a European city.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/rmC3ZhIHHi4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -90,28 +134,6 @@ A former US Federal Agent must abandon the witness protection program and come o
 	
 	
 
-### Sing
-*Released on 2016-12-08, vote average 5.3*
-
-A koala named Buster recruits his best friend to help him drum up business for his theater by hosting a singing competition.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Zvjmt4pwtdg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Frank &amp; Lola
 *Released on 2016-12-09, vote average 6.7*
 
@@ -134,8 +156,30 @@ A psychosexual noir love story, set in Las Vegas and Paris, about love, obsessio
 	
 	
 
+### Sing
+*Released on 2016-12-08, vote average 5.3*
+
+A koala named Buster recruits his best friend to help him drum up business for his theater by hosting a singing competition.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Zvjmt4pwtdg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### La La Land
-*Released on 2016-12-01, vote average 8.1*
+*Released on 2016-12-01, vote average 7.1*
 
 Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.
 
@@ -147,35 +191,6 @@ Mia, an aspiring actress, serves lattes to movie stars in between auditions and 
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
-	
-
-### Spectral
-*Released on 2016-12-09, vote average 6.9*
-
-A special-ops team is dispatched to fight supernatural beings that have taken over a European city.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rmC3ZhIHHi4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -206,21 +221,6 @@ Two brothers, down on their luck, fake a disappearance in the Alaskan wilderness
 
 	
 	
-
-### Burn Country
-*Released on 2016-12-09, vote average 6*
-
-A former war journalist now writing for a paper in Northern California is drawn into conflict at home.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nVKTx0P6MBY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -249,6 +249,30 @@ When her niece is cast in The Philadelphia Ballet’s production of the Nutcrack
 
 
 	
+	
+	
+
+  
+
+
+	
+	
+
+### Burn Country
+*Released on 2016-12-09, vote average 6*
+
+A former war journalist now writing for a paper in Northern California is drawn into conflict at home.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nVKTx0P6MBY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -261,7 +285,10 @@ When her niece is cast in The Philadelphia Ballet’s production of the Nutcrack
 
 
 	
-	
+
+  
+
+
 	
 
   
@@ -275,26 +302,27 @@ When her niece is cast in The Philadelphia Ballet’s production of the Nutcrack
 
 
 	
-	
-	
 
   
 
 
 	
 	
+
+### Contract to Kill
+*Released on 2016-12-09, vote average 10*
+
+Contract to Kill
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6AkmvKdKCWY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 	
 
   
@@ -313,7 +341,7 @@ When her niece is cast in The Philadelphia Ballet’s production of the Nutcrack
 	
 
 ### Rogue One: A Star Wars Story
-*Released on 2016-12-14, vote average 5.6*
+*Released on 2016-12-14, vote average 5.2*
 
 A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.
 
