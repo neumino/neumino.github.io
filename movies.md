@@ -47,7 +47,7 @@ Underworld: Blood Wars follows Vampire death dealer, Selene, as she fends off br
 	
 
 ### Rogue One: A Star Wars Story
-*Released on 2016-12-14, vote average 5.2*
+*Released on 2016-12-14, vote average 5*
 
 A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.
 
@@ -69,7 +69,7 @@ A rogue band of resistance fighters unite for a mission to steal the Death Star 
 	
 
 ### Office Christmas Party
-*Released on 2016-12-05, vote average 5.4*
+*Released on 2016-12-05, vote average 5.3*
 
 When his uptight CEO sister (Aniston) threatens to shut down his branch, the branch manager(T J Miller) throws an epic Christmas party in order to land a big client and save the day, but the party gets way out of hand.
 
@@ -91,7 +91,7 @@ When his uptight CEO sister (Aniston) threatens to shut down his branch, the bra
 	
 
 ### Spectral
-*Released on 2016-12-09, vote average 7*
+*Released on 2016-12-09, vote average 6.7*
 
 A special-ops team is dispatched to fight supernatural beings that have taken over a European city.
 
@@ -122,28 +122,6 @@ A former US Federal Agent must abandon the witness protection program and come o
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/jVMz0xdDt7s?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Frank &amp; Lola
-*Released on 2016-12-09, vote average 6.7*
-
-A psychosexual noir love story, set in Las Vegas and Paris, about love, obsession, sex, betrayal, revenge and, ultimately, the search for redemption.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/B0FaxsOAyQg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -198,6 +176,67 @@ Mia, an aspiring actress, serves lattes to movie stars in between auditions and 
 
 
 	
+
+  
+
+
+	
+	
+
+### Get Better: A Film About Frank Turner
+*Released on 2016-12-13, vote average 7*
+
+‘Get Better – A Film About Frank Turner’ was directed by friend Ben Morse, and follows Frank Turner and his band The Sleeping Souls for a year on the road, but the band swiftly came off the road – and Frank came off the rails before recovery.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ghKcvz3oBmc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Frank &amp; Lola
+*Released on 2016-12-09, vote average 6.7*
+
+A psychosexual noir love story, set in Las Vegas and Paris, about love, obsession, sex, betrayal, revenge and, ultimately, the search for redemption.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/B0FaxsOAyQg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### Sugar Mountain
@@ -228,74 +267,11 @@ Two brothers, down on their luck, fake a disappearance in the Alaskan wilderness
 
 	
 	
-
-### A Nutcracker Christmas
-*Released on 2016-12-10, vote average 6*
-
-When her niece is cast in The Philadelphia Ballet’s production of the Nutcracker, a jaded ex-ballerina is forced to come to terms with the life and love she left behind.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vxYsCtKO0vI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
 
 
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Burn Country
-*Released on 2016-12-09, vote average 6*
-
-A former war journalist now writing for a paper in Northern California is drawn into conflict at home.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nVKTx0P6MBY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -333,31 +309,53 @@ Contract to Kill
   
 
 
-
-## Opening soon
-
-
 	
 	
 
-### Rogue One: A Star Wars Story
-*Released on 2016-12-14, vote average 5.2*
+### Incarnate
+*Released on 2016-12-01, vote average 5.3*
 
-A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.
+An exorcist comes up against an evil from his past when he uses his skills to enter the mind of a nine year old boy.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/_1ALxZMto70?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/1BDwnp4DQK8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
 	
 
+  
+
+
+
+## Opening soon
+
+
 	
 
+	
+
+	
+	
+
+### Assassin&#39;s Creed
+*Released on 2016-12-21, vote average 0.5*
+
+Lynch discovers he is a descendant of the secret Assassins society through unlocked genetic memories that allow him to relive the adventures of his ancestor, Aguilar, in 15th Century Spain. After gaining incredible knowledge and skills he’s poised to take on the oppressive Knights Templar in the present day.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qUtn5yHJRTk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
