@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Underworld: Blood Wars
-*Released on 2016-12-01, vote average 4.2*
+### Rogue One: A Star Wars Story
+*Released on 2016-12-14, vote average 7.4*
 
-Underworld: Blood Wars follows Vampire death dealer, Selene, as she fends off brutal attacks from both the Lycan clan and the Vampire faction that betrayed her. With her only allies, David and his father Thomas, she must stop the eternal war between Lycans and Vampires, even if it means she has to make the ultimate sacrifice.
+A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/FtbM_W9iNjg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/frdj1zb9sMY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,52 +46,8 @@ Underworld: Blood Wars follows Vampire death dealer, Selene, as she fends off br
 	
 	
 
-### Rogue One: A Star Wars Story
-*Released on 2016-12-14, vote average 5*
-
-A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/_1ALxZMto70?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Office Christmas Party
-*Released on 2016-12-05, vote average 5.3*
-
-When his uptight CEO sister (Aniston) threatens to shut down his branch, the branch manager(T J Miller) throws an epic Christmas party in order to land a big client and save the day, but the party gets way out of hand.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xFzAPOLMHRk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Spectral
-*Released on 2016-12-09, vote average 6.7*
+*Released on 2016-12-09, vote average 6.8*
 
 A special-ops team is dispatched to fight supernatural beings that have taken over a European city.
 
@@ -112,16 +68,16 @@ A special-ops team is dispatched to fight supernatural beings that have taken ov
 	
 	
 
-### Eliminators
-*Released on 2016-12-06, vote average 7.3*
+### Office Christmas Party
+*Released on 2016-12-05, vote average 5.1*
 
-A former US Federal Agent must abandon the witness protection program and come out of hiding when his London home is invaded in error due to a wrong address. When the event ends with multiple homicides, the news triggers those hunting him to send Europe&#39;s most dangerous assassin to kill him. Now on the run with his daughters life in jeopardy, a determined father must get her to safety before the people he&#39;s been hiding from tracks him down.
+When his uptight CEO sister (Aniston) threatens to shut down his branch, the branch manager(T J Miller) throws an epic Christmas party in order to land a big client and save the day, but the party gets way out of hand.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/jVMz0xdDt7s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/fquJGcqOetA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -135,7 +91,7 @@ A former US Federal Agent must abandon the witness protection program and come o
 	
 
 ### Sing
-*Released on 2016-12-08, vote average 5.3*
+*Released on 2016-12-08, vote average 6.1*
 
 A koala named Buster recruits his best friend to help him drum up business for his theater by hosting a singing competition.
 
@@ -156,43 +112,16 @@ A koala named Buster recruits his best friend to help him drum up business for h
 	
 	
 
-### La La Land
-*Released on 2016-12-01, vote average 7.1*
+### Collateral Beauty
+*Released on 2016-12-15, vote average 3.8*
 
-Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/je0aAf2f8XQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Get Better: A Film About Frank Turner
-*Released on 2016-12-13, vote average 7*
-
-‘Get Better – A Film About Frank Turner’ was directed by friend Ben Morse, and follows Frank Turner and his band The Sleeping Souls for a year on the road, but the band swiftly came off the road – and Frank came off the rails before recovery.
+A tragic event sends a New York ad man on a downward spiral.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ghKcvz3oBmc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/isQ5Ycie73U?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -225,6 +154,26 @@ A psychosexual noir love story, set in Las Vegas and Paris, about love, obsessio
 
 
 	
+
+  
+
+
+	
+	
+
+### Eliminators
+*Released on 2016-12-06, vote average 6.7*
+
+A former US Federal Agent must abandon the witness protection program and come out of hiding when his London home is invaded in error due to a wrong address. When the event ends with multiple homicides, the news triggers those hunting him to send Europe&#39;s most dangerous assassin to kill him. Now on the run with his daughters life in jeopardy, a determined father must get her to safety before the people he&#39;s been hiding from tracks him down.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jVMz0xdDt7s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -240,7 +189,7 @@ A psychosexual noir love story, set in Las Vegas and Paris, about love, obsessio
 	
 
 ### Sugar Mountain
-*Released on 2016-12-09, vote average 8*
+*Released on 2016-12-09, vote average 7*
 
 Two brothers, down on their luck, fake a disappearance in the Alaskan wilderness so they&#39;ll have a great survival story to sell, but the hoax turns out to be more real than they planned.
 
@@ -259,15 +208,6 @@ Two brothers, down on their luck, fake a disappearance in the Alaskan wilderness
 
 
 	
-	
-	
-
-  
-
-
-	
-	
-	
 
   
 
@@ -285,16 +225,16 @@ Two brothers, down on their luck, fake a disappearance in the Alaskan wilderness
 	
 	
 
-### Contract to Kill
-*Released on 2016-12-09, vote average 10*
+### Jackie
+*Released on 2016-12-02, vote average 5.4*
 
-Contract to Kill
+An account of the days of First Lady, Jacqueline Kennedy, in the immediate aftermath of John F. Kennedy&#39;s assassination in 1963.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/6AkmvKdKCWY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/pZTXv5NpgaI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -311,21 +251,45 @@ Contract to Kill
 
 	
 	
+	
 
-### Incarnate
-*Released on 2016-12-01, vote average 5.3*
+  
 
-An exorcist comes up against an evil from his past when he uses his skills to enter the mind of a nine year old boy.
+
+	
+	
+
+### Get Better: A Film About Frank Turner
+*Released on 2016-12-13, vote average 7*
+
+‘Get Better – A Film About Frank Turner’ was directed by friend Ben Morse, and follows Frank Turner and his band The Sleeping Souls for a year on the road, but the band swiftly came off the road – and Frank came off the rails before recovery.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/1BDwnp4DQK8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ghKcvz3oBmc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -336,14 +300,10 @@ An exorcist comes up against an evil from his past when he uses his skills to en
 
 
 	
-
-	
-
-	
 	
 
 ### Assassin&#39;s Creed
-*Released on 2016-12-21, vote average 0.5*
+*Released on 2016-12-21, vote average 3.8*
 
 Lynch discovers he is a descendant of the secret Assassins society through unlocked genetic memories that allow him to relive the adventures of his ancestor, Aguilar, in 15th Century Spain. After gaining incredible knowledge and skills he’s poised to take on the oppressive Knights Templar in the present day.
 
@@ -356,6 +316,10 @@ Lynch discovers he is a descendant of the secret Assassins society through unloc
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
 	
 
 	
