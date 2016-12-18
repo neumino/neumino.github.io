@@ -9,6 +9,8 @@
         <!-- Enable responsive viewport -->
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+      <link rel="stylesheet" type="text/css" href="{{ ASSET_PATH }}/bootstrap/css/bootstrap.2.2.2.min.css"/>
+      <link rel="stylesheet" type="text/css" href="{{ ASSET_PATH }}/css/style.css?body=1"/>
 
         <!-- atom & rss feed -->
         <link href="{{ BASE_PATH }}{{ site.JB.atom_path }}" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
@@ -16,24 +18,6 @@
     </head>
 
     <body>
-    <noscript id="deferred-styles">
-      <link rel="stylesheet" type="text/css" href="{{ ASSET_PATH }}/bootstrap/css/bootstrap.2.2.2.min.css"/>
-      <link rel="stylesheet" type="text/css" href="{{ ASSET_PATH }}/css/style.css?body=1"/>
-    </noscript>
-    <script>
-      var loadDeferredStyles = function() {
-        var addStylesNode = document.getElementById("deferred-styles");
-        var replacement = document.createElement("div");
-        replacement.innerHTML = addStylesNode.textContent;
-        document.body.appendChild(replacement)
-        addStylesNode.parentElement.removeChild(addStylesNode);
-      };
-      var raf = requestAnimationFrame || mozRequestAnimationFrame ||
-          webkitRequestAnimationFrame || msRequestAnimationFrame;
-      if (raf) raf(function() { window.setTimeout(loadDeferredStyles, 0); });
-      else window.addEventListener('load', loadDeferredStyles);
-    </script>
-
     <div class="wrapper container">
     <div class="row">
         <div class="span1 offset1">
