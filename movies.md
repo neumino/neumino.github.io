@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Rogue One: A Star Wars Story
-*Released on 2016-12-14, vote average 7.7*
+*Released on 2016-12-14, vote average 7.6*
 
 A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.
 
@@ -69,7 +69,7 @@ A special-ops team is dispatched to fight supernatural beings that have taken ov
 	
 
 ### Office Christmas Party
-*Released on 2016-12-05, vote average 4.9*
+*Released on 2016-12-05, vote average 4.8*
 
 When his uptight CEO sister (Aniston) threatens to shut down his branch, the branch manager(T J Miller) throws an epic Christmas party in order to land a big client and save the day, but the party gets way out of hand.
 
@@ -90,30 +90,8 @@ When his uptight CEO sister (Aniston) threatens to shut down his branch, the bra
 	
 	
 
-### Sing
-*Released on 2016-12-08, vote average 6*
-
-A koala named Buster recruits his best friend to help him drum up business for his theater by hosting a singing competition.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Zvjmt4pwtdg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Collateral Beauty
-*Released on 2016-12-15, vote average 4.6*
+*Released on 2016-12-15, vote average 5.8*
 
 A tragic event sends a New York ad man on a downward spiral.
 
@@ -142,72 +120,72 @@ A tragic event sends a New York ad man on a downward spiral.
 
 
 	
-
-  
-
-
 	
 
-  
+### Sing
+*Released on 2016-12-08, vote average 6*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Frank &amp; Lola
-*Released on 2016-12-09, vote average 6.7*
-
-A psychosexual noir love story, set in Las Vegas and Paris, about love, obsession, sex, betrayal, revenge and, ultimately, the search for redemption.
+A koala named Buster recruits his best friend to help him drum up business for his theater by hosting a singing competition.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/B0FaxsOAyQg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Zvjmt4pwtdg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Closet
+*Released on 2016-12-17, vote average 10*
+
+Some doors should remain closed.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/YtqHJvAqtN4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Wasted Times
+*Released on 2016-12-16, vote average 8*
+
+Set against a chaotic, war torn Shanghai, “The Wasted Times” follows a local crime boss at the receiving end of the Japanese army’s attempt to forge a dubious alliance.  Spanning three separate times during the period, the story details mindsets from various perspectives, all culminating in a suspenseful and tense finale.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6XnoyPvycm0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -219,21 +197,43 @@ A psychosexual noir love story, set in Las Vegas and Paris, about love, obsessio
 
 	
 	
+	
 
-### Eliminators
-*Released on 2016-12-06, vote average 6.7*
+  
 
-A former US Federal Agent must abandon the witness protection program and come out of hiding when his London home is invaded in error due to a wrong address. When the event ends with multiple homicides, the news triggers those hunting him to send Europe&#39;s most dangerous assassin to kill him. Now on the run with his daughters life in jeopardy, a determined father must get her to safety before the people he&#39;s been hiding from tracks him down.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jVMz0xdDt7s?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -251,25 +251,6 @@ A former US Federal Agent must abandon the witness protection program and come o
 	
 	
 
-### Passengers
-*Released on 2016-12-21, vote average 8*
-
-A spacecraft traveling to a distant colony planet and transporting thousands of people has a malfunction in its sleep chambers. As a result, two passengers are awakened 90 years early.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/7BWWWQzTpNU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
 ### Assassin&#39;s Creed
 *Released on 2016-12-21, vote average 3.8*
 
@@ -279,7 +260,26 @@ Lynch discovers he is a descendant of the secret Assassins society through unloc
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/mcTtP1JnJ_E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/qUtn5yHJRTk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### Passengers
+*Released on 2016-12-21, vote average 7*
+
+A spacecraft traveling to a distant colony planet and transporting thousands of people has a malfunction in its sleep chambers. As a result, two passengers are awakened 90 years early.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wRaV4SIQY8A?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
