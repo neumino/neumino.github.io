@@ -47,7 +47,7 @@ A rogue band of resistance fighters unite for a mission to steal the Death Star 
 	
 
 ### Spectral
-*Released on 2016-12-09, vote average 6.7*
+*Released on 2016-12-09, vote average 6.4*
 
 A special-ops team is dispatched to fight supernatural beings that have taken over a European city.
 
@@ -56,28 +56,6 @@ A special-ops team is dispatched to fight supernatural beings that have taken ov
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/rmC3ZhIHHi4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Office Christmas Party
-*Released on 2016-12-05, vote average 4.8*
-
-When his uptight CEO sister (Aniston) threatens to shut down his branch, the branch manager(T J Miller) throws an epic Christmas party in order to land a big client and save the day, but the party gets way out of hand.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/fquJGcqOetA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -115,6 +93,23 @@ A tragic event sends a New York ad man on a downward spiral.
 
 
 	
+	
+
+### The Hollow Point
+*Released on 2016-12-16, vote average 6*
+
+&#34;The Hollow Point&#34; tells the story of a botched Mexican cartel deal in the back roads of a border town. The town&#39;s new sheriff (Wilson) must team up with the retired lawman he replaced to investigate the source of the deal in order to stop a mysterious cartel butcher and his systematic brutalization of the town&#39;s residents.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/RQ895747WYA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -142,6 +137,71 @@ A koala named Buster recruits his best friend to help him drum up business for h
 
 
 	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### the smiling bag
+*Released on 2016-12-18, vote average 8*
+
+The follow up to &#39;Nti Sheeto&#39;, the smiling bag is a new surf film starring OZZIE WRIGHT, CRAIG ANDERSON, NOA DEANE and CHIPPA WILSON. Filmed in Japan, Indonesia, Australia and USA. Shot on 16mm, Super 8 and Digital.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Bf-LStdP5Xw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -162,6 +222,13 @@ Some doors should remain closed.
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -196,50 +263,6 @@ Set against a chaotic, war torn Shanghai, “The Wasted Times” follows a local
 
 
 	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 
   
 
@@ -252,7 +275,7 @@ Set against a chaotic, war torn Shanghai, “The Wasted Times” follows a local
 	
 
 ### Assassin&#39;s Creed
-*Released on 2016-12-21, vote average 3.8*
+*Released on 2016-12-21, vote average 2.9*
 
 Lynch discovers he is a descendant of the secret Assassins society through unlocked genetic memories that allow him to relive the adventures of his ancestor, Aguilar, in 15th Century Spain. After gaining incredible knowledge and skills he’s poised to take on the oppressive Knights Templar in the present day.
 
@@ -279,7 +302,7 @@ A spacecraft traveling to a distant colony planet and transporting thousands of 
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/wRaV4SIQY8A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/7BWWWQzTpNU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
