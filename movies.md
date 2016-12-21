@@ -47,7 +47,7 @@ A rogue band of resistance fighters unite for a mission to steal the Death Star 
 	
 
 ### Spectral
-*Released on 2016-12-09, vote average 6.4*
+*Released on 2016-12-09, vote average 6.3*
 
 A special-ops team is dispatched to fight supernatural beings that have taken over a European city.
 
@@ -68,8 +68,30 @@ A special-ops team is dispatched to fight supernatural beings that have taken ov
 	
 	
 
+### Assassin&#39;s Creed
+*Released on 2016-12-21, vote average 2.8*
+
+Lynch discovers he is a descendant of the secret Assassins society through unlocked genetic memories that allow him to relive the adventures of his ancestor, Aguilar, in 15th Century Spain. After gaining incredible knowledge and skills he’s poised to take on the oppressive Knights Templar in the present day.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mcTtP1JnJ_E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Collateral Beauty
-*Released on 2016-12-15, vote average 5.8*
+*Released on 2016-12-15, vote average 5.1*
 
 A tragic event sends a New York ad man on a downward spiral.
 
@@ -88,27 +110,27 @@ A tragic event sends a New York ad man on a downward spiral.
 
 
 	
-
-  
-
-
-	
 	
 
-### The Hollow Point
-*Released on 2016-12-16, vote average 6*
+### Passengers
+*Released on 2016-12-21, vote average 7.5*
 
-&#34;The Hollow Point&#34; tells the story of a botched Mexican cartel deal in the back roads of a border town. The town&#39;s new sheriff (Wilson) must team up with the retired lawman he replaced to investigate the source of the deal in order to stop a mysterious cartel butcher and his systematic brutalization of the town&#39;s residents.
+A spacecraft traveling to a distant colony planet and transporting thousands of people has a malfunction in its sleep chambers. As a result, two passengers are awakened 90 years early.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/RQ895747WYA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/7BWWWQzTpNU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -145,58 +167,17 @@ A koala named Buster recruits his best friend to help him drum up business for h
 
 	
 	
-	
 
-  
+### The Hollow Point
+*Released on 2016-12-16, vote average 6*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### the smiling bag
-*Released on 2016-12-18, vote average 8*
-
-The follow up to &#39;Nti Sheeto&#39;, the smiling bag is a new surf film starring OZZIE WRIGHT, CRAIG ANDERSON, NOA DEANE and CHIPPA WILSON. Filmed in Japan, Indonesia, Australia and USA. Shot on 16mm, Super 8 and Digital.
+&#34;The Hollow Point&#34; tells the story of a botched Mexican cartel deal in the back roads of a border town. The town&#39;s new sheriff (Wilson) must team up with the retired lawman he replaced to investigate the source of the deal in order to stop a mysterious cartel butcher and his systematic brutalization of the town&#39;s residents.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Bf-LStdP5Xw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/RQ895747WYA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -207,22 +188,10 @@ The follow up to &#39;Nti Sheeto&#39;, the smiling bag is a new surf film starri
 
 
 	
-	
 
-### The Closet
-*Released on 2016-12-17, vote average 10*
+  
 
-Some doors should remain closed.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/YtqHJvAqtN4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -230,6 +199,40 @@ Some doors should remain closed.
 
 	
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -262,11 +265,6 @@ Set against a chaotic, war torn Shanghai, “The Wasted Times” follows a local
   
 
 
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -275,7 +273,7 @@ Set against a chaotic, war torn Shanghai, “The Wasted Times” follows a local
 	
 
 ### Assassin&#39;s Creed
-*Released on 2016-12-21, vote average 2.9*
+*Released on 2016-12-21, vote average 2.8*
 
 Lynch discovers he is a descendant of the secret Assassins society through unlocked genetic memories that allow him to relive the adventures of his ancestor, Aguilar, in 15th Century Spain. After gaining incredible knowledge and skills he’s poised to take on the oppressive Knights Templar in the present day.
 
@@ -283,7 +281,7 @@ Lynch discovers he is a descendant of the secret Assassins society through unloc
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/qUtn5yHJRTk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/mcTtP1JnJ_E?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -294,7 +292,7 @@ Lynch discovers he is a descendant of the secret Assassins society through unloc
 	
 
 ### Passengers
-*Released on 2016-12-21, vote average 7*
+*Released on 2016-12-21, vote average 7.5*
 
 A spacecraft traveling to a distant colony planet and transporting thousands of people has a malfunction in its sleep chambers. As a result, two passengers are awakened 90 years early.
 
