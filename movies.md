@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Rogue One: A Star Wars Story
-*Released on 2016-12-14, vote average 7.5*
+*Released on 2016-12-14, vote average 7.6*
 
 A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.
 
@@ -47,7 +47,7 @@ A rogue band of resistance fighters unite for a mission to steal the Death Star 
 	
 
 ### Spectral
-*Released on 2016-12-09, vote average 6.3*
+*Released on 2016-12-09, vote average 6.4*
 
 A special-ops team is dispatched to fight supernatural beings that have taken over a European city.
 
@@ -90,8 +90,30 @@ Lynch discovers he is a descendant of the secret Assassins society through unloc
 	
 	
 
+### Passengers
+*Released on 2016-12-21, vote average 5.4*
+
+A spacecraft traveling to a distant colony planet and transporting thousands of people has a malfunction in its sleep chambers. As a result, two passengers are awakened 90 years early.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/7BWWWQzTpNU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Collateral Beauty
-*Released on 2016-12-15, vote average 5.2*
+*Released on 2016-12-15, vote average 5.3*
 
 A tragic event sends a New York ad man on a downward spiral.
 
@@ -110,71 +132,27 @@ A tragic event sends a New York ad man on a downward spiral.
 
 
 	
+
+  
+
+
+	
 	
 
-### Passengers
-*Released on 2016-12-21, vote average 6.6*
+### Silence
+*Released on 2016-12-22, vote average 0.5*
 
-A spacecraft traveling to a distant colony planet and transporting thousands of people has a malfunction in its sleep chambers. As a result, two passengers are awakened 90 years early.
+Two Jesuit priests, Sebastião Rodrigues and Francis Garrpe, travel to seventeenth century Japan which has, under the Tokugawa shogunate, banned Catholicism and almost all foreign contact. There they witness the persecution of Japanese Christians at the hands of their own government which wishes to purge Japan of all western influence. Eventually the priests separate and Rodrigues travels the countryside, wondering why God remains silent while His children suffer.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/wRaV4SIQY8A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/IqrgxZLd_gE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### Sing
-*Released on 2016-12-08, vote average 5.9*
-
-A koala named Buster recruits his best friend to help him drum up business for his theater by hosting a singing competition.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Zvjmt4pwtdg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -208,6 +186,35 @@ A koala named Buster recruits his best friend to help him drum up business for h
 
 
 	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 
   
 
@@ -220,16 +227,16 @@ A koala named Buster recruits his best friend to help him drum up business for h
 	
 	
 
-### Fences
-*Released on 2016-12-16, vote average 4.3*
+### Ballerina
+*Released on 2016-12-14, vote average 6*
 
-An African American father struggles with race relations in the Unites States while trying to raise his family in the 1950s and coming to terms with the events in his life.
+Set in 1879 Paris. An orphan girl dreams of becoming a ballerina and flees her rural Brittany for Paris, where she passes for someone else and accedes to the position of pupil at the Grand Opera house.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/a2m6Jvp0bUw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/RQBkvddF32I?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -245,17 +252,12 @@ An African American father struggles with race relations in the Unites States wh
 
 
 	
-	
-	
 
   
 
 
 	
-
-  
-
-
+	
 	
 
   
