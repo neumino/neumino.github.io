@@ -46,30 +46,8 @@ A rogue band of resistance fighters unite for a mission to steal the Death Star 
 	
 	
 
-### Spectral
-*Released on 2016-12-09, vote average 6.4*
-
-A special-ops team is dispatched to fight supernatural beings that have taken over a European city.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rmC3ZhIHHi4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Assassin&#39;s Creed
-*Released on 2016-12-21, vote average 3.3*
+*Released on 2016-12-21, vote average 4*
 
 Lynch discovers he is a descendant of the secret Assassins society through unlocked genetic memories that allow him to relive the adventures of his ancestor, Aguilar, in 15th Century Spain. After gaining incredible knowledge and skills he’s poised to take on the oppressive Knights Templar in the present day.
 
@@ -91,7 +69,7 @@ Lynch discovers he is a descendant of the secret Assassins society through unloc
 	
 
 ### Passengers
-*Released on 2016-12-21, vote average 5.4*
+*Released on 2016-12-21, vote average 5.2*
 
 A spacecraft traveling to a distant colony planet and transporting thousands of people has a malfunction in its sleep chambers. As a result, two passengers are awakened 90 years early.
 
@@ -99,7 +77,7 @@ A spacecraft traveling to a distant colony planet and transporting thousands of 
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/7BWWWQzTpNU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/wRaV4SIQY8A?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -132,11 +110,6 @@ A tragic event sends a New York ad man on a downward spiral.
 
 
 	
-
-  
-
-
-	
 	
 
 ### Silence
@@ -153,6 +126,28 @@ Two Jesuit priests, Sebastião Rodrigues and Francis Garrpe, travel to seventeen
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -181,62 +176,18 @@ Two Jesuit priests, Sebastião Rodrigues and Francis Garrpe, travel to seventeen
 
 
 	
-
-  
-
-
-	
-	
 	
 
-  
+### Monster Trucks
+*Released on 2016-12-21, vote average 0.5*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Ballerina
-*Released on 2016-12-14, vote average 6*
-
-Set in 1879 Paris. An orphan girl dreams of becoming a ballerina and flees her rural Brittany for Paris, where she passes for someone else and accedes to the position of pupil at the Grand Opera house.
+Looking for any way to get away from the life and town he was born into, Tripp (Lucas Till), a high school senior, builds a Monster Truck from bits and pieces of scrapped cars. After an accident at a nearby oil-drilling site displaces a strange and subterranean creature with a taste and a talent for speed, Tripp may have just found the key to getting out of town and a most unlikely friend.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/RQBkvddF32I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/uQrj2M-2Uiw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -247,6 +198,35 @@ Set in 1879 Paris. An orphan girl dreams of becoming a ballerina and flees her r
 
 
 	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
 
   
 
@@ -258,6 +238,26 @@ Set in 1879 Paris. An orphan girl dreams of becoming a ballerina and flees her r
 
 	
 	
+
+### Dangal
+*Released on 2016-12-23, vote average 10*
+
+The film stars Aamir Khan portraying the role of Mahavir Singh Phogat, who taught wrestling to his daughters Babita Kumari and Geeta Phogat. Geeta Phogat was India&#39;s first female wrestler to win at the 2010 Commonwealth Games, where she won the gold medal (55 kg) while her sister Babita Kumari won the silver (51 kg).
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/x_7YlGv9u1g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
