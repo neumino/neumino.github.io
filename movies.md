@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Rogue One: A Star Wars Story
-*Released on 2016-12-14, vote average 7.6*
+*Released on 2016-12-14, vote average 7.4*
 
 A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.
 
@@ -47,7 +47,7 @@ A rogue band of resistance fighters unite for a mission to steal the Death Star 
 	
 
 ### Assassin&#39;s Creed
-*Released on 2016-12-21, vote average 4*
+*Released on 2016-12-21, vote average 4.3*
 
 Lynch discovers he is a descendant of the secret Assassins society through unlocked genetic memories that allow him to relive the adventures of his ancestor, Aguilar, in 15th Century Spain. After gaining incredible knowledge and skills he’s poised to take on the oppressive Knights Templar in the present day.
 
@@ -55,7 +55,7 @@ Lynch discovers he is a descendant of the secret Assassins society through unloc
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/mcTtP1JnJ_E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/qUtn5yHJRTk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@ Lynch discovers he is a descendant of the secret Assassins society through unloc
 	
 
 ### Passengers
-*Released on 2016-12-21, vote average 5.2*
+*Released on 2016-12-21, vote average 5.7*
 
 A spacecraft traveling to a distant colony planet and transporting thousands of people has a malfunction in its sleep chambers. As a result, two passengers are awakened 90 years early.
 
@@ -110,6 +110,16 @@ A tragic event sends a New York ad man on a downward spiral.
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### Silence
@@ -143,18 +153,6 @@ Two Jesuit priests, Sebastião Rodrigues and Francis Garrpe, travel to seventeen
 
 	
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 
 ### The Hollow Point
 *Released on 2016-12-16, vote average 8*
@@ -170,6 +168,38 @@ Two Jesuit priests, Sebastião Rodrigues and Francis Garrpe, travel to seventeen
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Dangal
+*Released on 2016-12-23, vote average 10*
+
+The film stars Aamir Khan portraying the role of Mahavir Singh Phogat, who taught wrestling to his daughters Babita Kumari and Geeta Phogat. Geeta Phogat was India&#39;s first female wrestler to win at the 2010 Commonwealth Games, where she won the gold medal (55 kg) while her sister Babita Kumari won the silver (51 kg).
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/x_7YlGv9u1g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -199,59 +229,44 @@ Looking for any way to get away from the life and town he was born into, Tripp (
 
 	
 	
-	
 
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Dangal
+### Sense8: A Christmas Special
 *Released on 2016-12-23, vote average 10*
 
-The film stars Aamir Khan portraying the role of Mahavir Singh Phogat, who taught wrestling to his daughters Babita Kumari and Geeta Phogat. Geeta Phogat was India&#39;s first female wrestler to win at the 2010 Commonwealth Games, where she won the gold medal (55 kg) while her sister Babita Kumari won the silver (51 kg).
+The journey continues as these eight singular hearts and minds weave in and out of each other&#39;s lives finding deeper connections, learning darker secrets about one another and struggling to identify with more than just oneself.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/x_7YlGv9u1g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/h7JTJzb6ybQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 	
 
