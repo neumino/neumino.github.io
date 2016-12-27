@@ -55,7 +55,7 @@ Lynch discovers he is a descendant of the secret Assassins society through unloc
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/mcTtP1JnJ_E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/qUtn5yHJRTk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -115,28 +115,6 @@ A tragic event sends a New York ad man on a downward spiral.
 
 
 	
-	
-
-### Sense8: A Christmas Special
-*Released on 2016-12-23, vote average 10*
-
-The journey continues as these eight singular hearts and minds weave in and out of each other&#39;s lives finding deeper connections, learning darker secrets about one another and struggling to identify with more than just oneself.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/h7JTJzb6ybQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 
   
 
@@ -174,6 +152,28 @@ A father aims to teach his daughters the sport of wrestling as he empowers them 
 
 
 	
+	
+
+### Hidden Figures
+*Released on 2016-12-25, vote average 7.8*
+
+The incredible untold story of Katherine G. Johnson, Dorothy Vaughan and Mary Jackson - brilliant African-American women working at NASA, who served as the brains behind one of the greatest operations in history: the launch of astronaut John Glenn into orbit, a stunning achievement that restored the nation&#39;s confidence, turned around the Space Race, and galvanized the world. The visionary trio crossed all gender and race lines to inspire generations to dream big.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8EiZe6WONWY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 
   
 
@@ -202,6 +202,21 @@ Two Jesuit priests, Sebastião Rodrigues and Francis Garrpe, travel to seventeen
 
 	
 	
+
+### Sense8: A Christmas Special
+*Released on 2016-12-23, vote average 10*
+
+The journey continues as these eight singular hearts and minds weave in and out of each other&#39;s lives finding deeper connections, learning darker secrets about one another and struggling to identify with more than just oneself.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/h7JTJzb6ybQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -227,6 +242,23 @@ Two Jesuit priests, Sebastião Rodrigues and Francis Garrpe, travel to seventeen
   
 
 
+	
+	
+
+### Fences
+*Released on 2016-12-16, vote average 4.3*
+
+An African American father struggles with race relations in the Unites States while trying to raise his family in the 1950s and coming to terms with the events in his life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/a2m6Jvp0bUw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
