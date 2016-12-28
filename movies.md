@@ -47,7 +47,7 @@ A rogue band of resistance fighters unite for a mission to steal the Death Star 
 	
 
 ### Assassin&#39;s Creed
-*Released on 2016-12-21, vote average 4.3*
+*Released on 2016-12-21, vote average 4.8*
 
 Lynch discovers he is a descendant of the secret Assassins society through unlocked genetic memories that allow him to relive the adventures of his ancestor, Aguilar, in 15th Century Spain. After gaining incredible knowledge and skills he’s poised to take on the oppressive Knights Templar in the present day.
 
@@ -55,7 +55,7 @@ Lynch discovers he is a descendant of the secret Assassins society through unloc
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/qUtn5yHJRTk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/mcTtP1JnJ_E?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@ Lynch discovers he is a descendant of the secret Assassins society through unloc
 	
 
 ### Passengers
-*Released on 2016-12-21, vote average 5.7*
+*Released on 2016-12-21, vote average 5.6*
 
 A spacecraft traveling to a distant colony planet and transporting thousands of people has a malfunction in its sleep chambers. As a result, two passengers are awakened 90 years early.
 
@@ -77,7 +77,7 @@ A spacecraft traveling to a distant colony planet and transporting thousands of 
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/7BWWWQzTpNU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/wRaV4SIQY8A?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -91,7 +91,7 @@ A spacecraft traveling to a distant colony planet and transporting thousands of 
 	
 
 ### Collateral Beauty
-*Released on 2016-12-15, vote average 5.3*
+*Released on 2016-12-15, vote average 5.1*
 
 A tragic event sends a New York ad man on a downward spiral.
 
@@ -104,11 +104,6 @@ A tragic event sends a New York ad man on a downward spiral.
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -181,6 +176,28 @@ The incredible untold story of Katherine G. Johnson, Dorothy Vaughan and Mary Ja
 	
 	
 
+### Why Him?
+*Released on 2016-12-22, vote average 8.1*
+
+A dad forms a bitter rivalry with his daughter&#39;s young rich boyfriend.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KRYURVuIC3o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Silence
 *Released on 2016-12-22, vote average 0.5*
 
@@ -233,28 +250,18 @@ The journey continues as these eight singular hearts and minds weave in and out 
 
 
 	
-
-  
-
-
 	
 
-  
+### Monster Trucks
+*Released on 2016-12-21, vote average 0.5*
 
-
-	
-	
-
-### Fences
-*Released on 2016-12-16, vote average 4.3*
-
-An African American father struggles with race relations in the Unites States while trying to raise his family in the 1950s and coming to terms with the events in his life.
+Looking for any way to get away from the life and town he was born into, Tripp (Lucas Till), a high school senior, builds a Monster Truck from bits and pieces of scrapped cars. After an accident at a nearby oil-drilling site displaces a strange and subterranean creature with a taste and a talent for speed, Tripp may have just found the key to getting out of town and a most unlikely friend.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/a2m6Jvp0bUw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/uQrj2M-2Uiw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -265,10 +272,24 @@ An African American father struggles with race relations in the Unites States wh
 
 
 	
+	
+	
 
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 	
 
   
