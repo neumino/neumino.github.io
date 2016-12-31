@@ -21,7 +21,7 @@ Lynch discovers he is a descendant of the secret Assassins society through unloc
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/mcTtP1JnJ_E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/qUtn5yHJRTk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -47,7 +47,7 @@ Lynch discovers he is a descendant of the secret Assassins society through unloc
 	
 
 ### Passengers
-*Released on 2016-12-21, vote average 5.7*
+*Released on 2016-12-21, vote average 5.9*
 
 A spacecraft traveling to a distant colony planet and transporting thousands of people has a malfunction in its sleep chambers. As a result, two passengers are awakened 90 years early.
 
@@ -55,7 +55,7 @@ A spacecraft traveling to a distant colony planet and transporting thousands of 
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/7BWWWQzTpNU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/wRaV4SIQY8A?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -66,6 +66,28 @@ A spacecraft traveling to a distant colony planet and transporting thousands of 
 
 
 	
+	
+	
+
+  
+
+
+	
+	
+
+### Why Him?
+*Released on 2016-12-22, vote average 7.8*
+
+A dad forms a bitter rivalry with his daughter&#39;s young rich boyfriend.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/CO6qLC4cL8E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -97,20 +119,25 @@ As the Lich King&#39;s zombie legions ravage the world, a cursed young sorceress
 	
 	
 
-### Why Him?
-*Released on 2016-12-22, vote average 7.8*
+### Silence
+*Released on 2016-12-22, vote average 0.5*
 
-A dad forms a bitter rivalry with his daughter&#39;s young rich boyfriend.
+Two Jesuit priests, Sebastião Rodrigues and Francis Garrpe, travel to seventeenth century Japan which has, under the Tokugawa shogunate, banned Catholicism and almost all foreign contact. There they witness the persecution of Japanese Christians at the hands of their own government which wishes to purge Japan of all western influence. Eventually the priests separate and Rodrigues travels the countryside, wondering why God remains silent while His children suffer.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/KRYURVuIC3o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/IqrgxZLd_gE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -122,7 +149,7 @@ A dad forms a bitter rivalry with his daughter&#39;s young rich boyfriend.
 ### Dangal
 *Released on 2016-12-23, vote average 7.8*
 
-A father aims to teach his daughters the sport of wrestling as he empowers them to achieve his lifelong goal.
+Dangal is an extraordinary true story based on the life of Mahavir Singh and his two daughters, Geeta and Babita Phogat. The film traces the inspirational journey of a father who trains his daughters to become world class wrestlers.
 
 <iframe id="player"
 	type="text/html"
@@ -138,72 +165,6 @@ A father aims to teach his daughters the sport of wrestling as he empowers them 
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Hidden Figures
-*Released on 2016-12-25, vote average 7.8*
-
-The incredible untold story of Katherine G. Johnson, Dorothy Vaughan and Mary Jackson - brilliant African-American women working at NASA, who served as the brains behind one of the greatest operations in history: the launch of astronaut John Glenn into orbit, a stunning achievement that restored the nation&#39;s confidence, turned around the Space Race, and galvanized the world. The visionary trio crossed all gender and race lines to inspire generations to dream big.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8EiZe6WONWY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Fences
-*Released on 2016-12-16, vote average 5.9*
-
-In 1950s Pittsburgh, a frustrated African-American father struggles with the constraints of poverty, racism, and his own inner demons as he tries to raise a family.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/a2m6Jvp0bUw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Silence
-*Released on 2016-12-22, vote average 0.5*
-
-Two Jesuit priests, Sebastião Rodrigues and Francis Garrpe, travel to seventeenth century Japan which has, under the Tokugawa shogunate, banned Catholicism and almost all foreign contact. There they witness the persecution of Japanese Christians at the hands of their own government which wishes to purge Japan of all western influence. Eventually the priests separate and Rodrigues travels the countryside, wondering why God remains silent while His children suffer.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IqrgxZLd_gE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -248,17 +209,24 @@ A story set in the Prohibition Era and centered around a group of individuals an
 
 	
 	
+	
 
-### The Hollow Point
-*Released on 2016-12-16, vote average 8*
+  
 
-&#34;The Hollow Point&#34; tells the story of a botched Mexican cartel deal in the back roads of a border town. The town&#39;s new sheriff (Wilson) must team up with the retired lawman he replaced to investigate the source of the deal in order to stop a mysterious cartel butcher and his systematic brutalization of the town&#39;s residents.
+
+	
+	
+
+### To Walk Invisible
+*Released on 2016-12-29, vote average 6*
+
+To Walk Invisible takes a new look at the extraordinary Brontë family, telling the story of these remarkable women who, despite the obstacles they faced, came from obscurity to produce some of the greatest novels in the English language.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/RQ895747WYA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/lC8VUfUb-hU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -279,10 +247,44 @@ A story set in the Prohibition Era and centered around a group of individuals an
 
 
 	
+	
+
+### Hidden Figures
+*Released on 2016-12-25, vote average 7.8*
+
+The incredible untold story of Katherine G. Johnson, Dorothy Vaughan and Mary Jackson - brilliant African-American women working at NASA, who served as the brains behind one of the greatest operations in history: the launch of astronaut John Glenn into orbit, a stunning achievement that restored the nation&#39;s confidence, turned around the Space Race, and galvanized the world. The visionary trio crossed all gender and race lines to inspire generations to dream big.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8EiZe6WONWY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
+	
+	
+
+### Monster Trucks
+*Released on 2016-12-21, vote average 0.5*
+
+Looking for any way to get away from the life and town he was born into, Tripp (Lucas Till), a high school senior, builds a Monster Truck from bits and pieces of scrapped cars. After an accident at a nearby oil-drilling site displaces a strange and subterranean creature with a taste and a talent for speed, Tripp may have just found the key to getting out of town and a most unlikely friend.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/uQrj2M-2Uiw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
