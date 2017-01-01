@@ -89,6 +89,28 @@ A dad forms a bitter rivalry with his daughter&#39;s young rich boyfriend.
 
 	
 	
+
+### Mythica: The Godslayer
+*Released on 2016-12-17, vote average 6*
+
+As the Lich King&#39;s zombie legions ravage the world, a cursed young sorceress (Marek) embarks on a quest to obtain a weapon from the gods, with her friend Dagen, a self-serving half-elf rogue. But when she joins her sworn enemy in a desperate attempt to save the world, she must recover the good in herself before her friends are all dead, and defeat the Lich King before the gods are destroyed and the world forever enslaved.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kU1ZtjWZML4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -256,14 +278,49 @@ Two Jesuit priests, Sebastião Rodrigues and Francis Garrpe, travel to seventeen
   
 
 
-	
-
-  
-
-
 
 ## Opening soon
 
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
 
 
 ## Acknowledgements
