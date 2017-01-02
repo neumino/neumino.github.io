@@ -21,7 +21,7 @@ Lynch discovers he is a descendant of the secret Assassins society through unloc
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/qUtn5yHJRTk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/mcTtP1JnJ_E?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -55,10 +55,17 @@ A spacecraft traveling to a distant colony planet and transporting thousands of 
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/7BWWWQzTpNU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/wRaV4SIQY8A?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -69,7 +76,7 @@ A spacecraft traveling to a distant colony planet and transporting thousands of 
 	
 
 ### Why Him?
-*Released on 2016-12-22, vote average 6.7*
+*Released on 2016-12-22, vote average 6*
 
 A dad forms a bitter rivalry with his daughter&#39;s young rich boyfriend.
 
@@ -77,7 +84,7 @@ A dad forms a bitter rivalry with his daughter&#39;s young rich boyfriend.
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/CO6qLC4cL8E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/KRYURVuIC3o?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -89,17 +96,68 @@ A dad forms a bitter rivalry with his daughter&#39;s young rich boyfriend.
 
 	
 	
+	
 
-### Mythica: The Godslayer
-*Released on 2016-12-17, vote average 6*
+  
 
-As the Lich King&#39;s zombie legions ravage the world, a cursed young sorceress (Marek) embarks on a quest to obtain a weapon from the gods, with her friend Dagen, a self-serving half-elf rogue. But when she joins her sworn enemy in a desperate attempt to save the world, she must recover the good in herself before her friends are all dead, and defeat the Lich King before the gods are destroyed and the world forever enslaved.
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Autopsy of Jane Doe
+*Released on 2016-12-21, vote average 6.2*
+
+Father and son coroners who receive a mysterious homicide victim with no apparent cause of death. As they attempt to identify the beautiful young &#34;Jane Doe,&#34; they discover increasingly bizarre clues that hold the key to her terrifying secrets.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/kU1ZtjWZML4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/RDG21tFt7wE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -110,8 +168,6 @@ As the Lich King&#39;s zombie legions ravage the world, a cursed young sorceress
 
 
 	
-	
-	
 
   
 
@@ -121,121 +177,6 @@ As the Lich King&#39;s zombie legions ravage the world, a cursed young sorceress
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Gold
-*Released on 2016-12-29, vote average 6.8*
-
-Kenny Wells, a modern-day prospector, hustler, and dreamer, is desperate for a lucky break. Left with few options, Wells teams up with an equally luckless geologist to execute a grandiose, last-ditch effort: to find gold deep in the uncharted jungle of Indonesia.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IhYROWOayLw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Dangal
-*Released on 2016-12-23, vote average 7.8*
-
-Dangal is an extraordinary true story based on the life of Mahavir Singh and his two daughters, Geeta and Babita Phogat. The film traces the inspirational journey of a father who trains his daughters to become world class wrestlers.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/x_7YlGv9u1g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Hidden Figures
-*Released on 2016-12-25, vote average 7.6*
-
-The incredible untold story of Katherine G. Johnson, Dorothy Vaughan and Mary Jackson - brilliant African-American women working at NASA, who served as the brains behind one of the greatest operations in history: the launch of astronaut John Glenn into orbit, a stunning achievement that restored the nation&#39;s confidence, turned around the Space Race, and galvanized the world. The visionary trio crossed all gender and race lines to inspire generations to dream big.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8EiZe6WONWY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### To Walk Invisible
-*Released on 2016-12-29, vote average 6*
-
-To Walk Invisible takes a new look at the extraordinary Brontë family, telling the story of these remarkable women who, despite the obstacles they faced, came from obscurity to produce some of the greatest novels in the English language.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/lC8VUfUb-hU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -264,10 +205,22 @@ Two Jesuit priests, Sebastião Rodrigues and Francis Garrpe, travel to seventeen
 
 
 	
+	
 
-  
+### Dangal
+*Released on 2016-12-23, vote average 8.1*
 
+Dangal is an extraordinary true story based on the life of Mahavir Singh and his two daughters, Geeta and Babita Phogat. The film traces the inspirational journey of a father who trains his daughters to become world class wrestlers.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/x_7YlGv9u1g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -281,46 +234,6 @@ Two Jesuit priests, Sebastião Rodrigues and Francis Garrpe, travel to seventeen
 
 ## Opening soon
 
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
 
 
 ## Acknowledgements
