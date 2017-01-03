@@ -47,7 +47,7 @@ Lynch discovers he is a descendant of the secret Assassins society through unloc
 	
 
 ### Passengers
-*Released on 2016-12-21, vote average 6*
+*Released on 2016-12-21, vote average 6.1*
 
 A spacecraft traveling to a distant colony planet and transporting thousands of people has a malfunction in its sleep chambers. As a result, two passengers are awakened 90 years early.
 
@@ -55,7 +55,7 @@ A spacecraft traveling to a distant colony planet and transporting thousands of 
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/wRaV4SIQY8A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/7BWWWQzTpNU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -67,16 +67,9 @@ A spacecraft traveling to a distant colony planet and transporting thousands of 
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Why Him?
-*Released on 2016-12-22, vote average 6*
+*Released on 2016-12-22, vote average 6.1*
 
 A dad forms a bitter rivalry with his daughter&#39;s young rich boyfriend.
 
@@ -95,109 +88,6 @@ A dad forms a bitter rivalry with his daughter&#39;s young rich boyfriend.
 
 
 	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Autopsy of Jane Doe
-*Released on 2016-12-21, vote average 6.2*
-
-Father and son coroners who receive a mysterious homicide victim with no apparent cause of death. As they attempt to identify the beautiful young &#34;Jane Doe,&#34; they discover increasingly bizarre clues that hold the key to her terrifying secrets.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/RDG21tFt7wE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Silence
-*Released on 2016-12-22, vote average 4.1*
-
-Two Jesuit priests, Sebastião Rodrigues and Francis Garrpe, travel to seventeenth century Japan which has, under the Tokugawa shogunate, banned Catholicism and almost all foreign contact. There they witness the persecution of Japanese Christians at the hands of their own government which wishes to purge Japan of all western influence. Eventually the priests separate and Rodrigues travels the countryside, wondering why God remains silent while His children suffer.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IqrgxZLd_gE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -227,6 +117,82 @@ Dangal is an extraordinary true story based on the life of Mahavir Singh and his
 
 
 	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 
   
 
@@ -234,6 +200,46 @@ Dangal is an extraordinary true story based on the life of Mahavir Singh and his
 
 ## Opening soon
 
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
 
 
 ## Acknowledgements
