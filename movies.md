@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Why Him?
-*Released on 2016-12-22, vote average 6.1*
+### Azul Magia
+*Released on 2017-01-05, vote average 8*
 
-A dad forms a bitter rivalry with his daughter&#39;s young rich boyfriend.
+Moises goes to the forest in search of a fruit that will heal his sick mother. During his search he encounters a strange girl who promises to help in exchange of protection from an evil monster haunting her.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/CO6qLC4cL8E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/lNsL4cyrlb0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -40,6 +40,31 @@ A dad forms a bitter rivalry with his daughter&#39;s young rich boyfriend.
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
   
 
 
@@ -66,10 +91,7 @@ Incisive comic Jen Kirkman gets real about women&#39;s bodies, the value of alon
 
 
 	
-
-  
-
-
+	
 	
 
   
@@ -99,24 +121,17 @@ Dangal is an extraordinary true story based on the life of Mahavir Singh and his
 
 	
 	
-	
 
-  
+### Hidden Figures
+*Released on 2016-12-25, vote average 7.7*
 
-
-	
-	
-
-### Azul Magia
-*Released on 2017-01-05, vote average 8*
-
-Moises goes to the forest in search of a fruit that will heal his sick mother. During his search he encounters a strange girl who promises to help in exchange of protection from an evil monster haunting her.
+The incredible untold story of Katherine G. Johnson, Dorothy Vaughan and Mary Jackson - brilliant African-American women working at NASA, who served as the brains behind one of the greatest operations in history: the launch of astronaut John Glenn into orbit, a stunning achievement that restored the nation&#39;s confidence, turned around the Space Race, and galvanized the world. The visionary trio crossed all gender and race lines to inspire generations to dream big.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/lNsL4cyrlb0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/8EiZe6WONWY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -127,45 +142,6 @@ Moises goes to the forest in search of a fruit that will heal his sick mother. D
 
 
 	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Silence
-*Released on 2016-12-22, vote average 4.1*
-
-Two Jesuit priests, Sebastião Rodrigues and Francis Garrpe, travel to seventeenth century Japan which has, under the Tokugawa shogunate, banned Catholicism and almost all foreign contact. There they witness the persecution of Japanese Christians at the hands of their own government which wishes to purge Japan of all western influence. Eventually the priests separate and Rodrigues travels the countryside, wondering why God remains silent while His children suffer.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IqrgxZLd_gE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 	
 
@@ -182,6 +158,13 @@ Two Jesuit priests, Sebastião Rodrigues and Francis Garrpe, travel to seventeen
   
 
 
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -217,46 +200,44 @@ Two Jesuit priests, Sebastião Rodrigues and Francis Garrpe, travel to seventeen
 
 
 	
+
 	
 
-### Azul Magia
-*Released on 2017-01-05, vote average 8*
+	
 
-Moises goes to the forest in search of a fruit that will heal his sick mother. During his search he encounters a strange girl who promises to help in exchange of protection from an evil monster haunting her.
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### David Bowie: The Last Five Years
+*Released on 2017-01-07, vote average 10*
+
+There was nothing predictable about David Bowie - everything was designed to intrigue, to challenge, to defy all expectations. But perhaps no period in David Bowie’s extraordinary career raised more fascination, more surprise, and more questions, than the last five years.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/lNsL4cyrlb0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/dX4SFVly-3A?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
 	
 
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	
 	
 
 	
