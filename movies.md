@@ -10,23 +10,6 @@ This is a convenient page that embeds trailers of movies released in the past
 
 
 	
-	
-
-### Azul Magia
-*Released on 2017-01-05, vote average 8*
-
-Moises goes to the forest in search of a fruit that will heal his sick mother. During his search he encounters a strange girl who promises to help in exchange of protection from an evil monster haunting her.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/lNsL4cyrlb0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 <br/>
@@ -48,6 +31,28 @@ Moises goes to the forest in search of a fruit that will heal his sick mother. D
   
 
 
+	
+
+  
+
+
+	
+	
+
+### Azul Magia
+*Released on 2017-01-05, vote average 8*
+
+Moises goes to the forest in search of a fruit that will heal his sick mother. During his search he encounters a strange girl who promises to help in exchange of protection from an evil monster haunting her.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/lNsL4cyrlb0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -92,38 +97,9 @@ Incisive comic Jen Kirkman gets real about women&#39;s bodies, the value of alon
 
 	
 	
-	
-
-  
-
-
-	
-	
-
-### Dangal
-*Released on 2016-12-23, vote average 8.3*
-
-Dangal is an extraordinary true story based on the life of Mahavir Singh and his two daughters, Geeta and Babita Phogat. The film traces the inspirational journey of a father who trains his daughters to become world class wrestlers.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/x_7YlGv9u1g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
 
 ### Hidden Figures
-*Released on 2016-12-25, vote average 7.7*
+*Released on 2016-12-25, vote average 7.9*
 
 The incredible untold story of Katherine G. Johnson, Dorothy Vaughan and Mary Jackson - brilliant African-American women working at NASA, who served as the brains behind one of the greatest operations in history: the launch of astronaut John Glenn into orbit, a stunning achievement that restored the nation&#39;s confidence, turned around the Space Race, and galvanized the world. The visionary trio crossed all gender and race lines to inspire generations to dream big.
 
@@ -159,11 +135,6 @@ The incredible untold story of Katherine G. Johnson, Dorothy Vaughan and Mary Ja
 
 
 	
-
-  
-
-
-	
 	
 	
 
@@ -185,6 +156,20 @@ The incredible untold story of Katherine G. Johnson, Dorothy Vaughan and Mary Ja
   
 
 
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -200,23 +185,22 @@ The incredible untold story of Katherine G. Johnson, Dorothy Vaughan and Mary Ja
 
 
 	
-
 	
 
-	
+### Mr. Church
+*Released on 2017-01-12, vote average 9*
+
+A unique friendship develops when a little girl and her dying mother inherit a cook - Mr. Church. What begins as an arrangement that should only last six months, instead spans fifteen years.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/K6VSQKNfr1Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
@@ -236,6 +220,24 @@ There was nothing predictable about David Bowie - everything was designed to int
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
