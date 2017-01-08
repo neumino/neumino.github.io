@@ -10,6 +10,23 @@ This is a convenient page that embeds trailers of movies released in the past
 
 
 	
+	
+
+### The Snare
+*Released on 2017-01-06, vote average 6*
+
+Three friends head to the seafront for a drunken weekend, only to be imprisoned on the top floor of their holiday apartment by a malevolent paranormal force.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Qh5DXFRS-Cc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 <br/>
@@ -75,21 +92,11 @@ Moises goes to the forest in search of a fruit that will heal his sick mother. D
 
 	
 	
-
-### Jen Kirkman: Just Keep Livin’?
-*Released on 2017-01-03, vote average 8*
-
-Incisive comic Jen Kirkman gets real about women&#39;s bodies, the value of alone time and an Italian private tour guide who may have been a ghost.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/bWw9CvqoxEk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
+
+  
+
+
 	
 
   
@@ -119,6 +126,21 @@ The incredible untold story of Katherine G. Johnson, Dorothy Vaughan and Mary Ja
 
 	
 	
+
+### Jen Kirkman: Just Keep Livin’?
+*Released on 2017-01-03, vote average 8*
+
+Incisive comic Jen Kirkman gets real about women&#39;s bodies, the value of alone time and an Italian private tour guide who may have been a ghost.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/bWw9CvqoxEk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -135,8 +157,6 @@ The incredible untold story of Katherine G. Johnson, Dorothy Vaughan and Mary Ja
 
 
 	
-	
-	
 
   
 
@@ -161,15 +181,6 @@ The incredible untold story of Katherine G. Johnson, Dorothy Vaughan and Mary Ja
   
 
 
-	
-	
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -185,41 +196,7 @@ The incredible untold story of Katherine G. Johnson, Dorothy Vaughan and Mary Ja
 
 
 	
-	
 
-### Mr. Church
-*Released on 2017-01-12, vote average 9*
-
-A unique friendship develops when a little girl and her dying mother inherit a cook - Mr. Church. What begins as an arrangement that should only last six months, instead spans fifteen years.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/K6VSQKNfr1Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### David Bowie: The Last Five Years
-*Released on 2017-01-07, vote average 10*
-
-There was nothing predictable about David Bowie - everything was designed to intrigue, to challenge, to defy all expectations. But perhaps no period in David Bowie’s extraordinary career raised more fascination, more surprise, and more questions, than the last five years.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/dX4SFVly-3A?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
