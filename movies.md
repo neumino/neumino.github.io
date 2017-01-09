@@ -10,23 +10,6 @@ This is a convenient page that embeds trailers of movies released in the past
 
 
 	
-	
-
-### The Snare
-*Released on 2017-01-06, vote average 6*
-
-Three friends head to the seafront for a drunken weekend, only to be imprisoned on the top floor of their holiday apartment by a malevolent paranormal force.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Qh5DXFRS-Cc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 <br/>
@@ -40,6 +23,116 @@ Three friends head to the seafront for a drunken weekend, only to be imprisoned 
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Coin Heist
+*Released on 2017-01-06, vote average 5*
+
+When a crisis threatens to destroy their high school, four teens hatch a daring plan to raise $10 million. Step one? Breaking into the U.S. Mint.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xUyTRSlmXf4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### David Bowie: The Last Five Years
+*Released on 2017-01-07, vote average 10*
+
+There was nothing predictable about David Bowie - everything was designed to intrigue, to challenge, to defy all expectations. But perhaps no period in David Bowie’s extraordinary career raised more fascination, more surprise, and more questions, than the last five years.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/dX4SFVly-3A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
   
 
 
@@ -70,112 +163,6 @@ Moises goes to the forest in search of a fruit that will heal his sick mother. D
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Hidden Figures
-*Released on 2016-12-25, vote average 7.9*
-
-The incredible untold story of Katherine G. Johnson, Dorothy Vaughan and Mary Jackson - brilliant African-American women working at NASA, who served as the brains behind one of the greatest operations in history: the launch of astronaut John Glenn into orbit, a stunning achievement that restored the nation&#39;s confidence, turned around the Space Race, and galvanized the world. The visionary trio crossed all gender and race lines to inspire generations to dream big.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8EiZe6WONWY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Jen Kirkman: Just Keep Livin’?
-*Released on 2017-01-03, vote average 8*
-
-Incisive comic Jen Kirkman gets real about women&#39;s bodies, the value of alone time and an Italian private tour guide who may have been a ghost.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/bWw9CvqoxEk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
