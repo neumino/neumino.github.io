@@ -28,22 +28,20 @@ This is a convenient page that embeds trailers of movies released in the past
 
 	
 	
-	
 
-  
+### The Snare
+*Released on 2017-01-06, vote average 4.3*
 
+Three friends head to the seafront for a drunken weekend, only to be imprisoned on the top floor of their holiday apartment by a malevolent paranormal force.
 
-	
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Qh5DXFRS-Cc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
-  
-
-
-	
-
-  
-
-
-	
 	
 	
 
@@ -78,20 +76,10 @@ When a crisis threatens to destroy their high school, four teens hatch a daring 
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### David Bowie: The Last Five Years
-*Released on 2017-01-07, vote average 10*
+*Released on 2017-01-07, vote average 9*
 
 There was nothing predictable about David Bowie - everything was designed to intrigue, to challenge, to defy all expectations. But perhaps no period in David Bowie’s extraordinary career raised more fascination, more surprise, and more questions, than the last five years.
 
@@ -110,8 +98,6 @@ There was nothing predictable about David Bowie - everything was designed to int
 
 
 	
-	
-	
 
   
 
@@ -132,6 +118,8 @@ There was nothing predictable about David Bowie - everything was designed to int
 
 
 	
+	
+	
 
   
 
@@ -142,6 +130,15 @@ There was nothing predictable about David Bowie - everything was designed to int
 
 
 	
+	
+	
+
+  
+
+
+	
+	
+	
 
   
 
@@ -149,19 +146,41 @@ There was nothing predictable about David Bowie - everything was designed to int
 	
 	
 
-### Azul Magia
-*Released on 2017-01-05, vote average 8*
+### Banking on Bitcoin
+*Released on 2016-12-30, vote average 6.5*
 
-Moises goes to the forest in search of a fruit that will heal his sick mother. During his search he encounters a strange girl who promises to help in exchange of protection from an evil monster haunting her.
+Not since the invention of the Internet has there been such a disruptive technology as Bitcoin. Bitcoin&#39;s early pioneers sought to blur the lines of sovereignty and the financial status quo. After years of underground development Bitcoin grabbed the attention of a curious public, and the ire of the regulators the technology had subverted. After landmark arrests of prominent cyber criminals Bitcoin faces its most severe adversary yet, the very banks it was built to destroy.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/lNsL4cyrlb0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/M_mKme9RoTc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 	
 
@@ -182,6 +201,23 @@ Moises goes to the forest in search of a fruit that will heal his sick mother. D
 ## Opening soon
 
 
+	
+	
+
+### Boyka: Undisputed IV
+*Released on 2017-01-15, vote average 10*
+
+In the fourth installment of the fighting franchise, Boyka is shooting for the big leagues when an accidental death in the ring makes him question everything he stands for.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8w3ZUbLv_mU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
