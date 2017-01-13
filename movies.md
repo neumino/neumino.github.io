@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Coin Heist
-*Released on 2017-01-06, vote average 4.8*
+### Hickey
+*Released on 2017-01-06, vote average 5*
 
-When a crisis threatens to destroy their high school, four teens hatch a daring plan to raise $10 million. Step one? Breaking into the U.S. Mint.
+Brilliant but insecure, young Ryan has 24 hours to save the store he hates in order to win the heart of the girl he loves.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xUyTRSlmXf4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/BdS7BSjkwf4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -40,6 +40,28 @@ When a crisis threatens to destroy their high school, four teens hatch a daring 
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+  
+
+
+	
+	
+
+### Coin Heist
+*Released on 2017-01-06, vote average 4.8*
+
+When a crisis threatens to destroy their high school, four teens hatch a daring plan to raise $10 million. Step one? Breaking into the U.S. Mint.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xUyTRSlmXf4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
   
 
 
@@ -71,23 +93,6 @@ There was nothing predictable about David Bowie - everything was designed to int
 
 
 	
-	
-
-### Hickey
-*Released on 2017-01-06, vote average 5*
-
-Brilliant but insecure, young Ryan has 24 hours to save the store he hates in order to win the heart of the girl he loves.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/BdS7BSjkwf4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -102,28 +107,6 @@ Brilliant but insecure, young Ryan has 24 hours to save the store he hates in or
   
 
 
-	
-
-  
-
-
-	
-	
-
-### The Snare
-*Released on 2017-01-06, vote average 4.3*
-
-Three friends head to the seafront for a drunken weekend, only to be imprisoned on the top floor of their holiday apartment by a malevolent paranormal force.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Qh5DXFRS-Cc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -174,6 +157,8 @@ Three friends head to the seafront for a drunken weekend, only to be imprisoned 
   
 
 
+	
+	
 	
 
   
@@ -213,11 +198,22 @@ In the fourth installment of the fighting franchise, Boyka is shooting for the b
 	
 
 	
-
 	
 
-	
+### xXx: Return of Xander Cage
+*Released on 2017-01-17, vote average 5.8*
 
+Xander Cage is left for dead after an incident, though he secretly returns to action for a new, tough assignment with his handler Augustus Gibbons.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mspnr56tnLA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -249,6 +245,12 @@ The year 2050 the planet has become overpopulated, to help control population th
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
 	
 
 	
