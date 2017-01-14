@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Hickey
-*Released on 2017-01-06, vote average 5*
+### Coin Heist
+*Released on 2017-01-06, vote average 4.4*
 
-Brilliant but insecure, young Ryan has 24 hours to save the store he hates in order to win the heart of the girl he loves.
+When a crisis threatens to destroy their high school, four teens hatch a daring plan to raise $10 million. Step one? Breaking into the U.S. Mint.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/BdS7BSjkwf4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xUyTRSlmXf4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -44,18 +44,33 @@ Brilliant but insecure, young Ryan has 24 hours to save the store he hates in or
 
 
 	
+
+  
+
+
 	
 
-### Coin Heist
-*Released on 2017-01-06, vote average 4.8*
+  
 
-When a crisis threatens to destroy their high school, four teens hatch a daring plan to raise $10 million. Step one? Breaking into the U.S. Mint.
+
+	
+
+  
+
+
+	
+	
+
+### Sleepless
+*Released on 2017-01-12, vote average 9*
+
+SLEEPLESS stars Jamie Foxx as undercover Las Vegas police officer Vincent Downs, who is caught in a high stakes web of corrupt cops and the mob-controlled casino underground. When a heist goes wrong, a crew of homicidal gangsters kidnaps Downs’ teenage son. In one sleepless night he will have to rescue his son, evade an internal affairs investigation and bring the kidnappers to justice.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xUyTRSlmXf4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Cp3Yr0PjXMs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,8 +83,97 @@ When a crisis threatens to destroy their high school, four teens hatch a daring 
 	
 	
 
+### Hickey
+*Released on 2017-01-06, vote average 5*
+
+Brilliant but insecure, young Ryan has 24 hours to save the store he hates in order to win the heart of the girl he loves.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/BdS7BSjkwf4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Snare
+*Released on 2017-01-06, vote average 4.3*
+
+Three friends head to the seafront for a drunken weekend, only to be imprisoned on the top floor of their holiday apartment by a malevolent paranormal force.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Qh5DXFRS-Cc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### David Bowie: The Last Five Years
-*Released on 2017-01-07, vote average 8*
+*Released on 2017-01-07, vote average 7.8*
 
 There was nothing predictable about David Bowie - everything was designed to intrigue, to challenge, to defy all expectations. But perhaps no period in David Bowie’s extraordinary career raised more fascination, more surprise, and more questions, than the last five years.
 
@@ -87,78 +191,6 @@ There was nothing predictable about David Bowie - everything was designed to int
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -217,15 +249,22 @@ Xander Cage is left for dead after an incident, though he secretly returns to ac
 	
 
 	
-
 	
 
-	
+### Split
+*Released on 2017-01-19, vote average 8.5*
+
+Though Kevin has evidenced 23 personalities to his trusted psychiatrist, Dr. Fletcher, there remains one still submerged who is set to materialize and dominate all the others. Compelled to abduct three teenage girls led by the willful, observant Casey, Kevin reaches a war for survival among all of those contained within him—as well as everyone around him—as the walls between his compartments shatter apart.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KIpGKumxiGg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-	
-
 	
 
 	
@@ -240,7 +279,7 @@ The year 2050 the planet has become overpopulated, to help control population th
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/68RMMw53NWY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/WicuWsUZ4IY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -255,6 +294,18 @@ The year 2050 the planet has become overpopulated, to help control population th
 
 	
 
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
 	
 
 	
