@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Coin Heist
-*Released on 2017-01-06, vote average 4.4*
+### Boyka: Undisputed IV
+*Released on 2017-01-15, vote average 10*
 
-When a crisis threatens to destroy their high school, four teens hatch a daring plan to raise $10 million. Step one? Breaking into the U.S. Mint.
+In the fourth installment of the fighting franchise, Boyka is shooting for the big leagues when an accidental death in the ring makes him question everything he stands for.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xUyTRSlmXf4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/8w3ZUbLv_mU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -40,6 +40,38 @@ When a crisis threatens to destroy their high school, four teens hatch a daring 
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+  
+
+
+	
+	
+
+### The Great Wall
+*Released on 2017-01-11, vote average 6.4*
+
+The story of an elite force making a last stand for humanity on the world’s most iconic structure.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6SKI9rgqFck?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
   
 
 
@@ -83,78 +115,16 @@ SLEEPLESS stars Jamie Foxx as undercover Las Vegas police officer Vincent Downs,
 	
 	
 
-### Hickey
-*Released on 2017-01-06, vote average 5*
+### Coin Heist
+*Released on 2017-01-06, vote average 4.4*
 
-Brilliant but insecure, young Ryan has 24 hours to save the store he hates in order to win the heart of the girl he loves.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/BdS7BSjkwf4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Snare
-*Released on 2017-01-06, vote average 4.3*
-
-Three friends head to the seafront for a drunken weekend, only to be imprisoned on the top floor of their holiday apartment by a malevolent paranormal force.
+When a crisis threatens to destroy their high school, four teens hatch a daring plan to raise $10 million. Step one? Breaking into the U.S. Mint.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Qh5DXFRS-Cc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xUyTRSlmXf4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -197,6 +167,74 @@ There was nothing predictable about David Bowie - everything was designed to int
 
 
 	
+	
+
+### The Crash
+*Released on 2017-01-13, vote average 10*
+
+In the not so distant future, a team of white collar criminals are enlisted by the Federal government to thwart a cyber-attack that threatens to bankrupt the United States of America.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vTBrsXU1m8o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Hickey
+*Released on 2017-01-06, vote average 5*
+
+Brilliant but insecure, young Ryan has 24 hours to save the store he hates in order to win the heart of the girl he loves.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/BdS7BSjkwf4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 
   
 
@@ -233,7 +271,7 @@ In the fourth installment of the fighting franchise, Boyka is shooting for the b
 	
 
 ### xXx: Return of Xander Cage
-*Released on 2017-01-17, vote average 5.8*
+*Released on 2017-01-17, vote average 5.6*
 
 Xander Cage is left for dead after an incident, though he secretly returns to action for a new, tough assignment with his handler Augustus Gibbons.
 
@@ -252,7 +290,7 @@ Xander Cage is left for dead after an incident, though he secretly returns to ac
 	
 
 ### Split
-*Released on 2017-01-19, vote average 8.5*
+*Released on 2017-01-19, vote average 5.9*
 
 Though Kevin has evidenced 23 personalities to his trusted psychiatrist, Dr. Fletcher, there remains one still submerged who is set to materialize and dominate all the others. Compelled to abduct three teenage girls led by the willful, observant Casey, Kevin reaches a war for survival among all of those contained within him—as well as everyone around him—as the walls between his compartments shatter apart.
 
@@ -304,8 +342,6 @@ The year 2050 the planet has become overpopulated, to help control population th
 
 	
 
-	
-	
 	
 
 	
