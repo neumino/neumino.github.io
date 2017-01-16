@@ -46,53 +46,6 @@ In the fourth installment of the fighting franchise, Boyka is shooting for the b
 	
 	
 
-### The Great Wall
-*Released on 2017-01-11, vote average 6.4*
-
-The story of an elite force making a last stand for humanity on the world’s most iconic structure.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/6SKI9rgqFck?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### Sleepless
 *Released on 2017-01-12, vote average 9*
 
@@ -115,16 +68,16 @@ SLEEPLESS stars Jamie Foxx as undercover Las Vegas police officer Vincent Downs,
 	
 	
 
-### Coin Heist
-*Released on 2017-01-06, vote average 4.4*
+### Bad Kids of Crestview Academy
+*Released on 2017-01-13, vote average 6*
 
-When a crisis threatens to destroy their high school, four teens hatch a daring plan to raise $10 million. Step one? Breaking into the U.S. Mint.
+It&#39;s four years later, and a new group of students has been placed in Saturday detention at the infamous and prestigious Crestview Academy. When Siouxsie, sophomore &#39;undercrust,&#39; crashes the party to avenge her sister&#39;s death, a Saturday detention reserved for the privileged seniors of Crestview Academy turns into a date in hell. It&#39;s not long before a naïve pussycat lover, gay drug dealer, smokin&#39; hot preacher&#39;s daughter, squeaky-clean senator&#39;s son, and the uninvited younger outsider find themselves locked-up in school with no way out, wondering who (or what) has set them up. Hilarity and suspense ensue while each &#39;bad kid&#39; pits one against the other, and one by one each falls victim to absurdly gruesome &#39;accidents&#39; while trying to escape.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xUyTRSlmXf4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ezZo4rg-GJ4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -135,32 +88,22 @@ When a crisis threatens to destroy their high school, four teens hatch a daring 
 
 
 	
-
-  
-
-
-	
 	
 
-### David Bowie: The Last Five Years
-*Released on 2017-01-07, vote average 7.8*
+### The Book of Love
+*Released on 2017-01-13, vote average 6.5*
 
-There was nothing predictable about David Bowie - everything was designed to intrigue, to challenge, to defy all expectations. But perhaps no period in David Bowie’s extraordinary career raised more fascination, more surprise, and more questions, than the last five years.
+After tragedy strikes Henry and Penny, he befriends a tenacious young girl and discovers she is constructing a raft to sail across the Atlantic to find her lost father. Together, along with some unlikely friends, they set forth to construct the vessel and subsequently rebuild their lives.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/dX4SFVly-3A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/8OTwGWqnOP4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -189,25 +132,6 @@ In the not so distant future, a team of white collar criminals are enlisted by t
 
 
 	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
 
   
 
@@ -215,20 +139,128 @@ In the not so distant future, a team of white collar criminals are enlisted by t
 	
 	
 
-### Hickey
-*Released on 2017-01-06, vote average 5*
+### Coin Heist
+*Released on 2017-01-06, vote average 4.4*
 
-Brilliant but insecure, young Ryan has 24 hours to save the store he hates in order to win the heart of the girl he loves.
+When a crisis threatens to destroy their high school, four teens hatch a daring plan to raise $10 million. Step one? Breaking into the U.S. Mint.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/BdS7BSjkwf4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xUyTRSlmXf4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Monster Trucks
+*Released on 2017-01-05, vote average 6.3*
+
+Looking for any way to get away from the life and town he was born into, Tripp (Lucas Till), a high school senior, builds a Monster Truck from bits and pieces of scrapped cars. After an accident at a nearby oil-drilling site displaces a strange and subterranean creature with a taste and a talent for speed, Tripp may have just found the key to getting out of town and a most unlikely friend.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Q1mO71daQCw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Clinical
+*Released on 2017-01-13, vote average 5.8*
+
+A psychiatrist tries to put her life back together after a violent attack by seeking to repair the life of a new patient, but he has his own terrifying history.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/eth7JUKVwok?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Snare
+*Released on 2017-01-06, vote average 4.3*
+
+Three friends head to the seafront for a drunken weekend, only to be imprisoned on the top floor of their holiday apartment by a malevolent paranormal force.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Qh5DXFRS-Cc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -251,27 +283,8 @@ Brilliant but insecure, young Ryan has 24 hours to save the store he hates in or
 	
 	
 
-### Boyka: Undisputed IV
-*Released on 2017-01-15, vote average 10*
-
-In the fourth installment of the fighting franchise, Boyka is shooting for the big leagues when an accidental death in the ring makes him question everything he stands for.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8w3ZUbLv_mU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
 ### xXx: Return of Xander Cage
-*Released on 2017-01-17, vote average 5.6*
+*Released on 2017-01-17, vote average 6.2*
 
 Xander Cage is left for dead after an incident, though he secretly returns to action for a new, tough assignment with his handler Augustus Gibbons.
 
@@ -317,11 +330,13 @@ The year 2050 the planet has become overpopulated, to help control population th
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/WicuWsUZ4IY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/68RMMw53NWY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
