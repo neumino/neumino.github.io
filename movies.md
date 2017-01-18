@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### xXx: Return of Xander Cage
-*Released on 2017-01-17, vote average 5.5*
+*Released on 2017-01-17, vote average 5.9*
 
 Xander Cage is left for dead after an incident, though he secretly returns to action for a new, tough assignment with his handler Augustus Gibbons.
 
@@ -68,16 +68,87 @@ In the fourth installment of the fighting franchise, Boyka is shooting for the b
 	
 	
 
-### Bad Kids of Crestview Academy
-*Released on 2017-01-13, vote average 5*
+### Death Race 2050
+*Released on 2017-01-17, vote average 2*
 
-It&#39;s four years later, and a new group of students has been placed in Saturday detention at the infamous and prestigious Crestview Academy. When Siouxsie, sophomore &#39;undercrust,&#39; crashes the party to avenge her sister&#39;s death, a Saturday detention reserved for the privileged seniors of Crestview Academy turns into a date in hell. It&#39;s not long before a naïve pussycat lover, gay drug dealer, smokin&#39; hot preacher&#39;s daughter, squeaky-clean senator&#39;s son, and the uninvited younger outsider find themselves locked-up in school with no way out, wondering who (or what) has set them up. Hilarity and suspense ensue while each &#39;bad kid&#39; pits one against the other, and one by one each falls victim to absurdly gruesome &#39;accidents&#39; while trying to escape.
+The year 2050 the planet has become overpopulated, to help control population the government develops a race. The Death Race. Annually competitors race across the country scoring points for killing people with their vehicles.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ezZo4rg-GJ4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/68RMMw53NWY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Clinical
+*Released on 2017-01-13, vote average 5.8*
+
+A psychiatrist tries to put her life back together after a violent attack by seeking to repair the life of a new patient, but he has his own terrifying history.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/eth7JUKVwok?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Crash
+*Released on 2017-01-13, vote average 6.5*
+
+In the not so distant future, a team of white collar criminals are enlisted by the Federal government to thwart a cyber-attack that threatens to bankrupt the United States of America.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vTBrsXU1m8o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Sleepless
+*Released on 2017-01-12, vote average 5.2*
+
+SLEEPLESS stars Jamie Foxx as undercover Las Vegas police officer Vincent Downs, who is caught in a high stakes web of corrupt cops and the mob-controlled casino underground. When a heist goes wrong, a crew of homicidal gangsters kidnaps Downs’ teenage son. In one sleepless night he will have to rescue his son, evade an internal affairs investigation and bring the kidnappers to justice.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Cp3Yr0PjXMs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,19 +183,87 @@ After tragedy strikes Henry and Penny, he befriends a tenacious young girl and d
 	
 	
 
-### The Crash
-*Released on 2017-01-13, vote average 6.5*
+### Arise from Darkness
+*Released on 2017-01-16, vote average 2*
 
-In the not so distant future, a team of white collar criminals are enlisted by the Federal government to thwart a cyber-attack that threatens to bankrupt the United States of America.
+Based on the early events of psychic Lazaro Ruben Torres, clinically declared dead five times. In the process of trying to reconnect with his daughter Lazaro discovers the man who killed her.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/vTBrsXU1m8o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/a0XlzxtS6Oc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+	
+
+### Bad Kids of Crestview Academy
+*Released on 2017-01-13, vote average 5*
+
+It&#39;s four years later, and a new group of students has been placed in Saturday detention at the infamous and prestigious Crestview Academy. When Siouxsie, sophomore &#39;undercrust,&#39; crashes the party to avenge her sister&#39;s death, a Saturday detention reserved for the privileged seniors of Crestview Academy turns into a date in hell. It&#39;s not long before a naïve pussycat lover, gay drug dealer, smokin&#39; hot preacher&#39;s daughter, squeaky-clean senator&#39;s son, and the uninvited younger outsider find themselves locked-up in school with no way out, wondering who (or what) has set them up. Hilarity and suspense ensue while each &#39;bad kid&#39; pits one against the other, and one by one each falls victim to absurdly gruesome &#39;accidents&#39; while trying to escape.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ezZo4rg-GJ4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Monster Trucks
+*Released on 2017-01-05, vote average 5.7*
+
+Looking for any way to get away from the life and town he was born into, Tripp (Lucas Till), a high school senior, builds a Monster Truck from bits and pieces of scrapped cars. After an accident at a nearby oil-drilling site displaces a strange and subterranean creature with a taste and a talent for speed, Tripp may have just found the key to getting out of town and a most unlikely friend.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Q1mO71daQCw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 	
 
@@ -144,50 +283,6 @@ When a crisis threatens to destroy their high school, four teens hatch a daring 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/xUyTRSlmXf4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Death Race 2050
-*Released on 2017-01-17, vote average 2*
-
-The year 2050 the planet has become overpopulated, to help control population the government develops a race. The Death Race. Annually competitors race across the country scoring points for killing people with their vehicles.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/68RMMw53NWY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Monster Trucks
-*Released on 2017-01-05, vote average 6.1*
-
-Looking for any way to get away from the life and town he was born into, Tripp (Lucas Till), a high school senior, builds a Monster Truck from bits and pieces of scrapped cars. After an accident at a nearby oil-drilling site displaces a strange and subterranean creature with a taste and a talent for speed, Tripp may have just found the key to getting out of town and a most unlikely friend.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Q1mO71daQCw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -220,76 +315,6 @@ Set in the wake of unknown catastrophe which has resulted in an adult-free commu
 
 
 	
-	
-
-### Clinical
-*Released on 2017-01-13, vote average 5.8*
-
-A psychiatrist tries to put her life back together after a violent attack by seeking to repair the life of a new patient, but he has his own terrifying history.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/eth7JUKVwok?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Sleepless
-*Released on 2017-01-12, vote average 5.2*
-
-SLEEPLESS stars Jamie Foxx as undercover Las Vegas police officer Vincent Downs, who is caught in a high stakes web of corrupt cops and the mob-controlled casino underground. When a heist goes wrong, a crew of homicidal gangsters kidnaps Downs’ teenage son. In one sleepless night he will have to rescue his son, evade an internal affairs investigation and bring the kidnappers to justice.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Cp3Yr0PjXMs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
 
   
 
@@ -318,31 +343,6 @@ When three college students move into an old house off campus, they unwittingly 
 
 	
 	
-
-### David Bowie: The Last Five Years
-*Released on 2017-01-07, vote average 7.8*
-
-There was nothing predictable about David Bowie - everything was designed to intrigue, to challenge, to defy all expectations. But perhaps no period in David Bowie’s extraordinary career raised more fascination, more surprise, and more questions, than the last five years.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/dX4SFVly-3A?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -355,27 +355,8 @@ There was nothing predictable about David Bowie - everything was designed to int
 	
 	
 
-### xXx: Return of Xander Cage
-*Released on 2017-01-17, vote average 5.5*
-
-Xander Cage is left for dead after an incident, though he secretly returns to action for a new, tough assignment with his handler Augustus Gibbons.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/mspnr56tnLA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
 ### Split
-*Released on 2017-01-19, vote average 4.7*
+*Released on 2017-01-19, vote average 6.1*
 
 Though Kevin has evidenced 23 personalities to his trusted psychiatrist, Dr. Fletcher, there remains one still submerged who is set to materialize and dominate all the others. Compelled to abduct three teenage girls led by the willful, observant Casey, Kevin reaches a war for survival among all of those contained within him—as well as everyone around him—as the walls between his compartments shatter apart.
 
@@ -391,21 +372,10 @@ Though Kevin has evidenced 23 personalities to his trusted psychiatrist, Dr. Fle
 	
 
 	
+
 	
 
-### Death Race 2050
-*Released on 2017-01-17, vote average 2*
-
-The year 2050 the planet has become overpopulated, to help control population the government develops a race. The Death Race. Annually competitors race across the country scoring points for killing people with their vehicles.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/68RMMw53NWY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
+	
 	
 	
 
@@ -417,10 +387,6 @@ The year 2050 the planet has become overpopulated, to help control population th
 
 	
 
-	
-
-	
-	
 	
 
 	
