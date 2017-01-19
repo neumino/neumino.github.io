@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### xXx: Return of Xander Cage
-*Released on 2017-01-17, vote average 5.9*
+*Released on 2017-01-17, vote average 5.5*
 
 Xander Cage is left for dead after an incident, though he secretly returns to action for a new, tough assignment with his handler Augustus Gibbons.
 
@@ -68,8 +68,30 @@ In the fourth installment of the fighting franchise, Boyka is shooting for the b
 	
 	
 
+### Split
+*Released on 2017-01-19, vote average 6.1*
+
+Though Kevin has evidenced 23 personalities to his trusted psychiatrist, Dr. Fletcher, there remains one still submerged who is set to materialize and dominate all the others. Compelled to abduct three teenage girls led by the willful, observant Casey, Kevin reaches a war for survival among all of those contained within him—as well as everyone around him—as the walls between his compartments shatter apart.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KIpGKumxiGg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Death Race 2050
-*Released on 2017-01-17, vote average 2*
+*Released on 2017-01-17, vote average 1.7*
 
 The year 2050 the planet has become overpopulated, to help control population the government develops a race. The Death Race. Annually competitors race across the country scoring points for killing people with their vehicles.
 
@@ -109,6 +131,35 @@ A psychiatrist tries to put her life back together after a violent attack by see
   
 
 
+	
+
+  
+
+
+	
+	
+
+### Coin Heist
+*Released on 2017-01-06, vote average 4.3*
+
+When a crisis threatens to destroy their high school, four teens hatch a daring plan to raise $10 million. Step one? Breaking into the U.S. Mint.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xUyTRSlmXf4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -181,23 +232,6 @@ After tragedy strikes Henry and Penny, he befriends a tenacious young girl and d
 
 
 	
-	
-
-### Arise from Darkness
-*Released on 2017-01-16, vote average 2*
-
-Based on the early events of psychic Lazaro Ruben Torres, clinically declared dead five times. In the process of trying to reconnect with his daughter Lazaro discovers the man who killed her.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/a0XlzxtS6Oc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -232,57 +266,18 @@ It&#39;s four years later, and a new group of students has been placed in Saturd
 
 
 	
-
-  
-
-
-	
 	
 
-### Monster Trucks
-*Released on 2017-01-05, vote average 5.7*
+### The Bye Bye Man
+*Released on 2017-01-06, vote average 4.5*
 
-Looking for any way to get away from the life and town he was born into, Tripp (Lucas Till), a high school senior, builds a Monster Truck from bits and pieces of scrapped cars. After an accident at a nearby oil-drilling site displaces a strange and subterranean creature with a taste and a talent for speed, Tripp may have just found the key to getting out of town and a most unlikely friend.
+When three college students move into an old house off campus, they unwittingly unleash a supernatural entity known as The Bye Bye Man, who comes to prey upon them once they discover his name. The friends must try to save each other, all the while keeping The Bye Bye Man&#39;s existence a secret to save others from the same deadly fate.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Q1mO71daQCw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Coin Heist
-*Released on 2017-01-06, vote average 4.4*
-
-When a crisis threatens to destroy their high school, four teens hatch a daring plan to raise $10 million. Step one? Breaking into the U.S. Mint.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xUyTRSlmXf4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/srHia9yRKeo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -320,29 +315,15 @@ Set in the wake of unknown catastrophe which has resulted in an adult-free commu
 
 
 	
-	
-
-### The Bye Bye Man
-*Released on 2017-01-06, vote average 4.5*
-
-When three college students move into an old house off campus, they unwittingly unleash a supernatural entity known as The Bye Bye Man, who comes to prey upon them once they discover his name. The friends must try to save each other, all the while keeping The Bye Bye Man&#39;s existence a secret to save others from the same deadly fate.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/srHia9yRKeo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
 	
-	
+
+  
+
+
 	
 
   
@@ -375,8 +356,6 @@ Though Kevin has evidenced 23 personalities to his trusted psychiatrist, Dr. Fle
 
 	
 
-	
-	
 	
 
 	
