@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### xXx: Return of Xander Cage
-*Released on 2017-01-17, vote average 5.2*
+*Released on 2017-01-17, vote average 5.3*
 
 Xander Cage is left for dead after an incident, though he secretly returns to action for a new, tough assignment with his handler Augustus Gibbons.
 
@@ -90,8 +90,30 @@ Though Kevin has evidenced 23 personalities to his trusted psychiatrist, Dr. Fle
 	
 	
 
+### Death Race 2050
+*Released on 2017-01-17, vote average 3.2*
+
+The year 2050 the planet has become overpopulated, to help control population the government develops a race. The Death Race. Annually competitors race across the country scoring points for killing people with their vehicles.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/WicuWsUZ4IY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Clinical
-*Released on 2017-01-13, vote average 5.8*
+*Released on 2017-01-13, vote average 5.5*
 
 A psychiatrist tries to put her life back together after a violent attack by seeking to repair the life of a new patient, but he has his own terrifying history.
 
@@ -110,22 +132,10 @@ A psychiatrist tries to put her life back together after a violent attack by see
 
 
 	
-	
 
-### Death Race 2050
-*Released on 2017-01-17, vote average 2.4*
+  
 
-The year 2050 the planet has become overpopulated, to help control population the government develops a race. The Death Race. Annually competitors race across the country scoring points for killing people with their vehicles.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/68RMMw53NWY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -137,22 +147,10 @@ The year 2050 the planet has become overpopulated, to help control population th
 
 
 	
-	
 
-### Coin Heist
-*Released on 2017-01-06, vote average 4.6*
+  
 
-When a crisis threatens to destroy their high school, four teens hatch a daring plan to raise $10 million. Step one? Breaking into the U.S. Mint.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xUyTRSlmXf4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -183,77 +181,6 @@ After tragedy strikes Henry and Penny, he befriends a tenacious young girl and d
 	
 	
 
-### Sleepless
-*Released on 2017-01-12, vote average 6.4*
-
-SLEEPLESS stars Jamie Foxx as undercover Las Vegas police officer Vincent Downs, who is caught in a high stakes web of corrupt cops and the mob-controlled casino underground. When a heist goes wrong, a crew of homicidal gangsters kidnaps Downs’ teenage son. In one sleepless night he will have to rescue his son, evade an internal affairs investigation and bring the kidnappers to justice.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Cp3Yr0PjXMs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Bye Bye Man
-*Released on 2017-01-06, vote average 5.5*
-
-When three college students move into an old house off campus, they unwittingly unleash a supernatural entity known as The Bye Bye Man, who comes to prey upon them once they discover his name. The friends must try to save each other, all the while keeping The Bye Bye Man&#39;s existence a secret to save others from the same deadly fate.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/srHia9yRKeo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### The Crash
 *Released on 2017-01-13, vote average 6.5*
 
@@ -275,6 +202,26 @@ In the not so distant future, a team of white collar criminals are enlisted by t
 
 	
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
