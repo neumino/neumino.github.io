@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### xXx: Return of Xander Cage
-*Released on 2017-01-17, vote average 5.2*
+*Released on 2017-01-17, vote average 5.6*
 
 Xander Cage is left for dead after an incident, though he secretly returns to action for a new, tough assignment with his handler Augustus Gibbons.
 
@@ -69,7 +69,7 @@ Though Kevin has evidenced 23 personalities to his trusted psychiatrist, Dr. Fle
 	
 
 ### Boyka: Undisputed IV
-*Released on 2017-01-15, vote average 6.2*
+*Released on 2017-01-15, vote average 5.8*
 
 In the fourth installment of the fighting franchise, Boyka is shooting for the big leagues when an accidental death in the ring makes him question everything he stands for.
 
@@ -132,43 +132,67 @@ A psychiatrist tries to put her life back together after a violent attack by see
 
 
 	
-
-  
-
-
 	
 
-  
+### Dead Story
+*Released on 2017-01-20, vote average 4*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Crash
-*Released on 2017-01-13, vote average 6.5*
-
-In the not so distant future, a team of white collar criminals are enlisted by the Federal government to thwart a cyber-attack that threatens to bankrupt the United States of America.
+Young couple Anne and Harold moves to a new home without knowing it was a site of horrific murders, Anne&#39;s loneliness and strange behavior makes their relationship complicated, when Anne finds out about a dark presence of Mary, she has no escape from Mary.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/vTBrsXU1m8o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/k8oG3qh7q-E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Take the 10
+*Released on 2017-01-20, vote average 5*
+
+A day in the life of two best friends, a drug dealer, and a store manager collide at a hip-hop concert in the Inland Empire.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/7iXwR0mFHn8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Sleepless
+*Released on 2017-01-12, vote average 6.5*
+
+SLEEPLESS stars Jamie Foxx as undercover Las Vegas police officer Vincent Downs, who is caught in a high stakes web of corrupt cops and the mob-controlled casino underground. When a heist goes wrong, a crew of homicidal gangsters kidnaps Downs’ teenage son. In one sleepless night he will have to rescue his son, evade an internal affairs investigation and bring the kidnappers to justice.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Cp3Yr0PjXMs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -199,27 +223,71 @@ In the not so distant future, a team of white collar criminals are enlisted by t
 
 
 	
+	
+
+### Surf&#39;s Up 2: WaveMania
+*Released on 2017-01-17, vote average 6*
+
+An animated comedy that features WWE Superstars, providing their own voices while matching up against talking animals.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zJarcJEmwgQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 
   
 
 
 	
 	
+
+### A Kind of Murder
+*Released on 2017-01-19, vote average 2*
+
+In 1960s New York, Walter Stackhouse is a successful architect married to the beautiful Clara who leads a seemingly perfect life. But his fascination with an unsolved murder leads him into a spiral of chaos as he is forced to play cat-and-mouse with a clever killer and an overambitious detective, while at the same time lusting after another woman.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/puh5-nzt3UY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
 
 
 	
-
-  
-
-
 	
-
-  
-
-
 	
 
   
@@ -229,6 +297,23 @@ In the not so distant future, a team of white collar criminals are enlisted by t
 ## Opening soon
 
 
+	
+	
+
+### A Dog&#39;s Purpose
+*Released on 2017-01-26, vote average 10*
+
+A dog goes on quest to discover his purpose in life over the course of several lifetimes with multiple owners.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/C4y_h9xbyDE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
