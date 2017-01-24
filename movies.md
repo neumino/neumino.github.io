@@ -13,9 +13,9 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### xXx: Return of Xander Cage
-*Released on 2017-01-17, vote average 5.6*
+*Released on 2017-01-17, vote average 5.7*
 
-Xander Cage is left for dead after an incident, though he secretly returns to action for a new, tough assignment with his handler Augustus Gibbons.
+Extreme athlete turned government operative Xander Cage (Vin Diesel) comes out of self-imposed exile, thought to be long dead, and is set on a collision course with deadly alpha warrior Xiang (Donnie Yen) and his team in a race to recover a sinister and seemingly unstoppable weapon known as Pandora&#39;s Box. Recruiting an all-new group of thrill-seeking cohorts, Xander finds himself enmeshed in a deadly conspiracy that points to collusion at the highest levels of world governments.
 
 <iframe id="player"
 	type="text/html"
@@ -134,97 +134,6 @@ A psychiatrist tries to put her life back together after a violent attack by see
 	
 	
 
-### Dead Story
-*Released on 2017-01-20, vote average 4*
-
-Young couple Anne and Harold moves to a new home without knowing it was a site of horrific murders, Anne&#39;s loneliness and strange behavior makes their relationship complicated, when Anne finds out about a dark presence of Mary, she has no escape from Mary.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/k8oG3qh7q-E?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Take the 10
-*Released on 2017-01-20, vote average 5*
-
-A day in the life of two best friends, a drug dealer, and a store manager collide at a hip-hop concert in the Inland Empire.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/7iXwR0mFHn8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Sleepless
-*Released on 2017-01-12, vote average 6.5*
-
-SLEEPLESS stars Jamie Foxx as undercover Las Vegas police officer Vincent Downs, who is caught in a high stakes web of corrupt cops and the mob-controlled casino underground. When a heist goes wrong, a crew of homicidal gangsters kidnaps Downs’ teenage son. In one sleepless night he will have to rescue his son, evade an internal affairs investigation and bring the kidnappers to justice.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Cp3Yr0PjXMs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### Surf&#39;s Up 2: WaveMania
 *Released on 2017-01-17, vote average 6*
 
@@ -245,38 +154,18 @@ An animated comedy that features WWE Superstars, providing their own voices whil
 
 
 	
-
-  
-
-
 	
 
-  
+### Take the L
+*Released on 2017-01-20, vote average 5.5*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### A Kind of Murder
-*Released on 2017-01-19, vote average 2*
-
-In 1960s New York, Walter Stackhouse is a successful architect married to the beautiful Clara who leads a seemingly perfect life. But his fascination with an unsolved murder leads him into a spiral of chaos as he is forced to play cat-and-mouse with a clever killer and an overambitious detective, while at the same time lusting after another woman.
+A day in the life of two best friends, a drug dealer, and a store manager collide at a hip-hop concert in the Inland Empire.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/puh5-nzt3UY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/7iXwR0mFHn8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -293,9 +182,94 @@ In 1960s New York, Walter Stackhouse is a successful architect married to the be
   
 
 
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Crash
+*Released on 2017-01-13, vote average 6*
+
+In the not so distant future, a team of white collar criminals are enlisted by the Federal government to thwart a cyber-attack that threatens to bankrupt the United States of America.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vTBrsXU1m8o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 
 ## Opening soon
 
+
+	
 
 	
 	
@@ -347,7 +321,22 @@ A dog goes on quest to discover his purpose in life over the course of several l
 	
 
 	
+	
 
+### A Taste Of Ink
+*Released on 2017-01-25, vote average 6*
+
+Vincent, still of tender age, has already tattooed most of his body and hoarsened his voice with his post-hardcore band – his way of venting his frustrations and desires. Ever since his mother died, he shares his time between Porte de Clignancourt and Bastille, between a piercer job he is unhappy with and his fishmonger father, Hervé, who is trying to start a new life with a younger woman named Julia. Vincent is initially appalled by the woman, with whom his father has ‘betrayed’ his mother, but the more they get to know each other, the more he becomes intrigued by the beautiful and empathetic woman. Unlike his father, she shows interest in him, even attending one of his gigs. What starts out as a potential way of reconciling with his father soon implodes.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/AYCOacXbaxY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
