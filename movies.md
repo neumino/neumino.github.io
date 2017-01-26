@@ -47,7 +47,7 @@ Extreme athlete turned government operative Xander Cage (Vin Diesel) comes out o
 	
 
 ### Split
-*Released on 2017-01-19, vote average 6.3*
+*Released on 2017-01-19, vote average 6.2*
 
 Though Kevin has evidenced 23 personalities to his trusted psychiatrist, Dr. Fletcher, there remains one still submerged who is set to materialize and dominate all the others. Compelled to abduct three teenage girls led by the willful, observant Casey, Kevin reaches a war for survival among all of those contained within him—as well as everyone around him—as the walls between his compartments shatter apart.
 
@@ -99,51 +99,7 @@ The year 2050 the planet has become overpopulated, to help control population th
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/WicuWsUZ4IY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Clinical
-*Released on 2017-01-13, vote average 5.6*
-
-A psychiatrist tries to put her life back together after a violent attack by seeking to repair the life of a new patient, but he has his own terrifying history.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/eth7JUKVwok?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Dead Story
-*Released on 2017-01-20, vote average 4*
-
-Young couple Anne and Harold moves to a new home without knowing it was a site of horrific murders, Anne&#39;s loneliness and strange behavior makes their relationship complicated, when Anne finds out about a dark presence of Mary, she has no escape from Mary.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/k8oG3qh7q-E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/68RMMw53NWY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -179,7 +135,7 @@ An animated comedy that features WWE Superstars, providing their own voices whil
 	
 
 ### Take the 10
-*Released on 2017-01-20, vote average 5.5*
+*Released on 2017-01-20, vote average 5.7*
 
 A day in the life of two best friends, a drug dealer, and a store manager collide at a hip-hop concert in the Inland Empire.
 
@@ -188,6 +144,33 @@ A day in the life of two best friends, a drug dealer, and a store manager collid
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/7iXwR0mFHn8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Clinical
+*Released on 2017-01-13, vote average 5.5*
+
+A psychiatrist tries to put her life back together after a violent attack by seeking to repair the life of a new patient, but he has his own terrifying history.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/eth7JUKVwok?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -212,8 +195,30 @@ A day in the life of two best friends, a drug dealer, and a store manager collid
 	
 	
 
+### A Dog&#39;s Purpose
+*Released on 2017-01-26, vote average 10*
+
+A dog goes on quest to discover his purpose in life over the course of several lifetimes with multiple owners.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/C4y_h9xbyDE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Justice League Dark
-*Released on 2017-01-24, vote average 10*
+*Released on 2017-01-24, vote average 8*
 
 Beings with supernatural powers join together to fight against supernatural villains.
 
@@ -249,16 +254,16 @@ Beings with supernatural powers join together to fight against supernatural vill
 	
 	
 
-### Sleepless
-*Released on 2017-01-12, vote average 6.3*
+### Trespass Against Us
+*Released on 2017-01-20, vote average 6.3*
 
-SLEEPLESS stars Jamie Foxx as undercover Las Vegas police officer Vincent Downs, who is caught in a high stakes web of corrupt cops and the mob-controlled casino underground. When a heist goes wrong, a crew of homicidal gangsters kidnaps Downs’ teenage son. In one sleepless night he will have to rescue his son, evade an internal affairs investigation and bring the kidnappers to justice.
+Three generations of the rowdy Cutler family live as outlaws in some of Britain&#39;s richest countryside -- hunting hares, ram-raiding stately homes, and taunting the police. Struggling to retain a way of life fast becoming extinct, Chad Cutler ends up caught between his father&#39;s archaic principles and trying to do right by his kids, whilst the full force of the law is finally catching up with him.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Cp3Yr0PjXMs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/vnq8jZejw-s?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -288,15 +293,46 @@ SLEEPLESS stars Jamie Foxx as undercover Las Vegas police officer Vincent Downs,
   
 
 
-	
-
-  
-
-
 
 ## Opening soon
 
 
+	
+	
+
+### Rings
+*Released on 2017-02-01, vote average 7*
+
+Julia (Matilda Lutz) becomes worried about her boyfriend, Holt (Alex Roe) when he explores the dark urban legend of a mysterious videotape said to kill the watcher seven days after viewing. She sacrifices herself to save her boyfriend and in doing so makes a horrifying discovery: there is a &#34;movie within the movie&#34; that no one has ever seen before.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FkAndUJpyX0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### T2 Trainspotting
+*Released on 2017-01-27, vote average 8*
+
+First there was an opportunity......then there was a betrayal. Twenty years have gone by. Much has changed but just as much remains the same. Mark Renton returns to the only place he can ever call home. They are waiting for him: Spud, Sick Boy and Begbie. Other old friends are waiting too: sorrow, loss, joy, vengeance, hatred, friendship, love, longing, fear, regret, diamorphine, self-destruction and mortal danger, they are all lined up to welcome him, ready to join the dance.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/dlOuPHeBjgw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -333,7 +369,22 @@ A dog goes on quest to discover his purpose in life over the course of several l
 	
 
 	
+	
 
+### Rupture
+*Released on 2017-01-26, vote average 4*
+
+A single mom tries to break free from a mysterious organization that has abducted her.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/RADFaObbFNY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -342,6 +393,8 @@ A dog goes on quest to discover his purpose in life over the course of several l
 
 	
 
+	
+	
 	
 
 	
