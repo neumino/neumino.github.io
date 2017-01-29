@@ -68,28 +68,6 @@ Though Kevin has evidenced 23 personalities to his trusted psychiatrist, Dr. Fle
 	
 	
 
-### Boyka: Undisputed IV
-*Released on 2017-01-15, vote average 5.6*
-
-In the fourth installment of the fighting franchise, Boyka is shooting for the big leagues when an accidental death in the ring makes him question everything he stands for.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8w3ZUbLv_mU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### T2 Trainspotting
 *Released on 2017-01-27, vote average 8.5*
 
@@ -112,16 +90,16 @@ First there was an opportunity......then there was a betrayal. Twenty years have
 	
 	
 
-### A Dog&#39;s Purpose
-*Released on 2017-01-26, vote average 7.8*
+### Boyka: Undisputed IV
+*Released on 2017-01-15, vote average 5.6*
 
-A dog goes on quest to discover his purpose in life over the course of several lifetimes with multiple owners.
+In the fourth installment of the fighting franchise, Boyka is shooting for the big leagues when an accidental death in the ring makes him question everything he stands for.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/C4y_h9xbyDE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/8w3ZUbLv_mU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -156,16 +134,16 @@ Beings with supernatural powers join together to fight against supernatural vill
 	
 	
 
-### Death Race 2050
-*Released on 2017-01-17, vote average 3.7*
+### Take the 10
+*Released on 2017-01-20, vote average 5.9*
 
-The year 2050 the planet has become overpopulated, to help control population the government develops a race. The Death Race. Annually competitors race across the country scoring points for killing people with their vehicles.
+A day in the life of two best friends, a drug dealer, and a store manager collide at a hip-hop concert in the Inland Empire.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/68RMMw53NWY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/7iXwR0mFHn8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -176,15 +154,22 @@ The year 2050 the planet has become overpopulated, to help control population th
 
 
 	
-
-  
-
-
 	
 
-  
+### A Dog&#39;s Purpose
+*Released on 2017-01-26, vote average 7.8*
 
+A dog goes on quest to discover his purpose in life over the course of several lifetimes with multiple owners.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/C4y_h9xbyDE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -213,8 +198,6 @@ A cruel and clever bootlegger finds trouble when a brave cop starts chasing him.
 
 
 	
-	
-	
 
   
 
@@ -222,16 +205,16 @@ A cruel and clever bootlegger finds trouble when a brave cop starts chasing him.
 	
 	
 
-### Take the 10
-*Released on 2017-01-20, vote average 5.9*
+### Death Race 2050
+*Released on 2017-01-17, vote average 3.7*
 
-A day in the life of two best friends, a drug dealer, and a store manager collide at a hip-hop concert in the Inland Empire.
+The year 2050 the planet has become overpopulated, to help control population the government develops a race. The Death Race. Annually competitors race across the country scoring points for killing people with their vehicles.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/7iXwR0mFHn8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/WicuWsUZ4IY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -242,27 +225,34 @@ A day in the life of two best friends, a drug dealer, and a store manager collid
 
 
 	
+	
+
+### Rupture
+*Released on 2017-01-26, vote average 4*
+
+A single mom tries to break free from a mysterious organization that has abducted her.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/RADFaObbFNY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
 	
 	
-
-### Gad Elmaleh - Part en Live
-*Released on 2017-01-24, vote average 6*
-
-French comic Gad Elmaleh regales a Montreal crowd with tales of awkward mix-ups and baffling customs he&#39;s encountered since moving to the U.S.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tIgwVkjLaqE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
+
+  
+
+
 	
 
   
@@ -301,18 +291,23 @@ An animated comedy that features WWE Superstars, providing their own voices whil
 
 
 	
+
+  
+
+
+	
 	
 
-### Kaabil
-*Released on 2017-01-26, vote average 8*
+### iBoy
+*Released on 2017-01-27, vote average 6.6*
 
-A man (Hrithik) is avenging the murder of his girlfriend (Yami Gautam).
+After an accident, Tom wakes from a coma to discover that fragments of his smart phone have been embedded in his head, and worse, that returning to normal teenage life is impossible because he has developed a strange set of super powers.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/WYi4GTSoVqA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/FbEWtpSmJXg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -322,6 +317,13 @@ A man (Hrithik) is avenging the murder of his girlfriend (Yami Gautam).
   
 
 
+	
+
+  
+
+
+	
+	
 	
 
   
