@@ -47,7 +47,7 @@ Extreme athlete turned government operative Xander Cage (Vin Diesel) comes out o
 	
 
 ### Split
-*Released on 2017-01-19, vote average 6.4*
+*Released on 2017-01-19, vote average 6.5*
 
 Though Kevin has evidenced 23 personalities to his trusted psychiatrist, Dr. Fletcher, there remains one still submerged who is set to materialize and dominate all the others. Compelled to abduct three teenage girls led by the willful, observant Casey, Kevin reaches a war for survival among all of those contained within him—as well as everyone around him—as the walls between his compartments shatter apart.
 
@@ -90,30 +90,8 @@ First there was an opportunity......then there was a betrayal. Twenty years have
 	
 	
 
-### Boyka: Undisputed IV
-*Released on 2017-01-15, vote average 5.6*
-
-In the fourth installment of the fighting franchise, Boyka is shooting for the big leagues when an accidental death in the ring makes him question everything he stands for.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8w3ZUbLv_mU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Justice League Dark
-*Released on 2017-01-24, vote average 8.8*
+*Released on 2017-01-24, vote average 7.9*
 
 Beings with supernatural powers join together to fight against supernatural villains.
 
@@ -121,29 +99,7 @@ Beings with supernatural powers join together to fight against supernatural vill
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/JJVfBnAIsgY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Take the 10
-*Released on 2017-01-20, vote average 5.9*
-
-A day in the life of two best friends, a drug dealer, and a store manager collide at a hip-hop concert in the Inland Empire.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/7iXwR0mFHn8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/cddLDL_kKOU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -157,7 +113,7 @@ A day in the life of two best friends, a drug dealer, and a store manager collid
 	
 
 ### A Dog&#39;s Purpose
-*Released on 2017-01-26, vote average 7.8*
+*Released on 2017-01-26, vote average 6.8*
 
 A dog goes on quest to discover his purpose in life over the course of several lifetimes with multiple owners.
 
@@ -198,11 +154,6 @@ A cruel and clever bootlegger finds trouble when a brave cop starts chasing him.
 
 
 	
-
-  
-
-
-	
 	
 
 ### Death Race 2050
@@ -219,6 +170,16 @@ The year 2050 the planet has become overpopulated, to help control population th
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -254,6 +215,23 @@ A single mom tries to break free from a mysterious organization that has abducte
 
 
 	
+	
+
+### Take the 10
+*Released on 2017-01-20, vote average 5.9*
+
+A day in the life of two best friends, a drug dealer, and a store manager collide at a hip-hop concert in the Inland Empire.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/7iXwR0mFHn8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -261,16 +239,16 @@ A single mom tries to break free from a mysterious organization that has abducte
 	
 	
 
-### Surf&#39;s Up 2: WaveMania
-*Released on 2017-01-17, vote average 3.5*
+### Kaabil
+*Released on 2017-01-26, vote average 7.5*
 
-An animated comedy that features WWE Superstars, providing their own voices while matching up against talking animals.
+A man (Hrithik) is avenging the murder of his girlfriend (Yami Gautam).
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/zJarcJEmwgQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/WYi4GTSoVqA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -291,27 +269,17 @@ An animated comedy that features WWE Superstars, providing their own voices whil
 
 
 	
+	
+	
 
   
 
 
 	
-	
 
-### iBoy
-*Released on 2017-01-27, vote average 6.6*
+  
 
-After an accident, Tom wakes from a coma to discover that fragments of his smart phone have been embedded in his head, and worse, that returning to normal teenage life is impossible because he has developed a strange set of super powers.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FbEWtpSmJXg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
