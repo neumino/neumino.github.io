@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Split
-*Released on 2017-01-19, vote average 6.4*
+*Released on 2017-01-19, vote average 6.5*
 
 Though Kevin has evidenced 23 personalities to his trusted psychiatrist, Dr. Fletcher, there remains one still submerged who is set to materialize and dominate all the others. Compelled to abduct three teenage girls led by the willful, observant Casey, Kevin reaches a war for survival among all of those contained within him—as well as everyone around him—as the walls between his compartments shatter apart.
 
@@ -69,7 +69,7 @@ Julia (Matilda Lutz) becomes worried about her boyfriend, Holt (Alex Roe) when h
 	
 
 ### Justice League Dark
-*Released on 2017-01-24, vote average 7.3*
+*Released on 2017-01-24, vote average 7.6*
 
 Beings with supernatural powers join together to fight against supernatural villains.
 
@@ -77,7 +77,29 @@ Beings with supernatural powers join together to fight against supernatural vill
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/cddLDL_kKOU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/D-5aTKSD4ww?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### iBoy
+*Released on 2017-01-27, vote average 6.1*
+
+After an accident, Tom wakes from a coma to discover that fragments of his smart phone have been embedded in his head, and worse, that returning to normal teenage life is impossible because he has developed a strange set of super powers.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FbEWtpSmJXg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -137,18 +159,28 @@ A dog goes on quest to discover his purpose in life over the course of several l
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### Raees
 *Released on 2017-01-26, vote average 4*
 
-A cruel and clever bootlegger finds trouble when a brave cop starts chasing him.
+Raees is set in the early 80’s and 90’s in Gujarat, India. It is a fictitious story of a man, Raees, who builds an entire empire from the scratch. It’s a story about his rise and his relationships, which help him become the single most powerful man in the state.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/8iv3ksZs0hk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ssFDmvyPFUg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -163,13 +195,6 @@ A cruel and clever bootlegger finds trouble when a brave cop starts chasing him.
   
 
 
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -198,6 +223,11 @@ A single mom tries to break free from a mysterious organization that has abducte
 
 
 	
+
+  
+
+
+	
 	
 
 ### Get the Girl
@@ -214,6 +244,11 @@ A wealthy young man is conned into staging a fake kidnapping in order to be a he
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -254,25 +289,7 @@ A young man raised by scientists on Mars returns to Earth to find his father.
 
 
 	
-
-  
-
-
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -282,23 +299,6 @@ A young man raised by scientists on Mars returns to Earth to find his father.
 ## Opening soon
 
 
-	
-	
-
-### Rings
-*Released on 2017-02-01, vote average 4.7*
-
-Julia (Matilda Lutz) becomes worried about her boyfriend, Holt (Alex Roe) when he explores the dark urban legend of a mysterious videotape said to kill the watcher seven days after viewing. She sacrifices herself to save her boyfriend and in doing so makes a horrifying discovery: there is a &#34;movie within the movie&#34; that no one has ever seen before.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FkAndUJpyX0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
