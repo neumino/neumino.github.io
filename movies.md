@@ -46,6 +46,28 @@ Julia becomes worried about her boyfriend, Holt when he explores the dark urban 
 	
 	
 
+### iBoy
+*Released on 2017-01-27, vote average 5.9*
+
+After an accident, Tom wakes from a coma to discover that fragments of his smart phone have been embedded in his head, and worse, that returning to normal teenage life is impossible because he has developed a strange set of super powers.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FbEWtpSmJXg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Justice League Dark
 *Released on 2017-01-24, vote average 7.7*
 
@@ -112,16 +134,16 @@ First there was an opportunity......then there was a betrayal. Twenty years have
 	
 	
 
-### The Space Between Us
-*Released on 2017-01-26, vote average 6.7*
+### Youth in Oregon
+*Released on 2017-02-03, vote average 8*
 
-A young man raised by scientists on Mars returns to Earth to find his father.
+A man is tasked with driving his embittered 80-year-old father-in-law cross country to be legally euthanized in Oregon, while along the way helping him rediscover a reason for living.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-c-QqAM-Tg4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Wm3wh_C8uvc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -142,42 +164,44 @@ A young man raised by scientists on Mars returns to Earth to find his father.
 
 
 	
+	
+
+### Wheeler
+*Released on 2017-02-03, vote average 6.5*
+
+The story of an aspiring musician from Kaufman, Texas who travels to Nashville with the lifelong dream of trying his hand at country music. By embodying the title character under prosthetic make up, actor Stephen Dorff successfully infiltrates Music City and takes his character on an authentic singer / songwriter journey. With the help of key allies on the ground, &#34;Wheeler&#34; converses with real people in real locations, with every musical number performed live. The line between reality and fiction blurs as Wheeler chases his dream in this touching tribute to old school country legends.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/o3eJ99NxVpI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
 	
 	
-	
 
-  
+### The Space Between Us
+*Released on 2017-01-26, vote average 6.7*
 
+A young man raised by scientists on Mars returns to Earth to find his father.
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-c-QqAM-Tg4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -200,6 +224,50 @@ Raees is set in the early 80’s and 90’s in Gujarat, India. It is a fictitiou
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Smetto quando voglio: Masterclass
+*Released on 2017-02-02, vote average 8*
+
+Pietro Zinni is asked by the police to revive the old gang to create a task force that will stop the spread of smart drugs.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/RR6d72Ko_QU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -248,6 +316,23 @@ When a wounded Christian Grey tries to entice a cautious Ana Steele back into hi
 	
 	
 
+	
+	
+
+### John Wick: Chapter Two
+*Released on 2017-02-09, vote average 2.6*
+
+John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassins’ guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the world’s most dangerous killers.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/slib5X6KFXo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
