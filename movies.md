@@ -46,30 +46,8 @@ Julia becomes worried about her boyfriend, Holt when he explores the dark urban 
 	
 	
 
-### iBoy
-*Released on 2017-01-27, vote average 5.9*
-
-After an accident, Tom wakes from a coma to discover that fragments of his smart phone have been embedded in his head, and worse, that returning to normal teenage life is impossible because he has developed a strange set of super powers.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FbEWtpSmJXg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Justice League Dark
-*Released on 2017-01-24, vote average 7.7*
+*Released on 2017-01-24, vote average 7.6*
 
 Beings with supernatural powers join together to fight against supernatural villains.
 
@@ -77,7 +55,7 @@ Beings with supernatural powers join together to fight against supernatural vill
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/cddLDL_kKOU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/D-5aTKSD4ww?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,8 +90,35 @@ A dog goes on quest to discover his purpose in life over the course of several l
 	
 	
 
+### The Space Between Us
+*Released on 2017-01-26, vote average 7.6*
+
+A young man raised by scientists on Mars returns to Earth to find his father.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-c-QqAM-Tg4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### T2 Trainspotting
-*Released on 2017-01-27, vote average 7.4*
+*Released on 2017-01-27, vote average 7.2*
 
 First there was an opportunity......then there was a betrayal. Twenty years have gone by. Much has changed but just as much remains the same. Mark Renton returns to the only place he can ever call home. They are waiting for him: Spud, Sick Boy and Begbie. Other old friends are waiting too: sorrow, loss, joy, vengeance, hatred, friendship, love, longing, fear, regret, diamorphine, self-destruction and mortal danger, they are all lined up to welcome him, ready to join the dance.
 
@@ -126,6 +131,11 @@ First there was an opportunity......then there was a betrayal. Twenty years have
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -154,16 +164,6 @@ A man is tasked with driving his embittered 80-year-old father-in-law cross coun
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### Wheeler
@@ -186,22 +186,63 @@ The story of an aspiring musician from Kaufman, Texas who travels to Nashville w
 
 
 	
+
+  
+
+
+	
+	
 	
 
-### The Space Between Us
-*Released on 2017-01-26, vote average 6.7*
+  
 
-A young man raised by scientists on Mars returns to Earth to find his father.
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Kung Fu Yoga
+*Released on 2017-01-28, vote average 8*
+
+Chinese archeology professor Jack teams up with beautiful Indian professor Ashmita and assistant Kyra to locate lost Magadha treasure. In a Tibetan ice cave, they find the remains of the royal army that had vanished together with the treasure, only to be ambushed by Randall, the descendent of a rebel army leader. When they free themselves, their next stop is Dubai where a diamond from the ice cave is to be auctioned. After a series of double-crosses and revelations about their past, Jack and his team travel to a mountain temple in India, using the diamond as a key to unlock the real treasure.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-c-QqAM-Tg4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/DkPluechlNY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -235,60 +276,6 @@ Raees is set in the early 80’s and 90’s in Gujarat, India. It is a fictitiou
 
 
 	
-	
-	
-
-  
-
-
-	
-	
-
-### Smetto quando voglio: Masterclass
-*Released on 2017-02-02, vote average 8*
-
-Pietro Zinni is asked by the police to revive the old gang to create a task force that will stop the spread of smart drugs.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/RR6d72Ko_QU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 
   
 
@@ -301,7 +288,7 @@ Pietro Zinni is asked by the police to revive the old gang to create a task forc
 	
 
 ### Fifty Shades Darker
-*Released on 2017-02-08, vote average 0.8*
+*Released on 2017-02-08, vote average 5.3*
 
 When a wounded Christian Grey tries to entice a cautious Ana Steele back into his life, she demands a new arrangement before she will give him another chance. As the two begin to build trust and find stability, shadowy figures from Christian’s past start to circle the couple, determined to destroy their hopes for a future together.
 
@@ -320,7 +307,7 @@ When a wounded Christian Grey tries to entice a cautious Ana Steele back into hi
 	
 
 ### John Wick: Chapter Two
-*Released on 2017-02-09, vote average 2.6*
+*Released on 2017-02-09, vote average 4.7*
 
 John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassins’ guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the world’s most dangerous killers.
 
@@ -335,6 +322,23 @@ John Wick is forced out of retirement by a former associate looking to seize con
 	
 	
 
+	
+	
+
+### The Lego Batman Movie
+*Released on 2017-02-08, vote average 8.5*
+
+In the irreverent spirit of fun that made “The LEGO® Movie” a worldwide phenomenon, the self-described leading man of that ensemble – LEGO Batman – stars in his own big-screen adventure. But there are big changes brewing in Gotham, and if he wants to save the city from The Joker’s hostile takeover, Batman may have to drop the lone vigilante thing, try to work with others and maybe, just maybe, learn to lighten up.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/aBJyp2LFHgk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
