@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Rings
-*Released on 2017-02-01, vote average 5.5*
+*Released on 2017-02-01, vote average 5.3*
 
 Julia becomes worried about her boyfriend, Holt when he explores the dark urban legend of a mysterious videotape said to kill the watcher seven days after viewing. She sacrifices herself to save her boyfriend and in doing so makes a horrifying discovery: there is a &#34;movie within the movie&#34; that no one has ever seen before.
 
@@ -46,16 +46,87 @@ Julia becomes worried about her boyfriend, Holt when he explores the dark urban 
 	
 	
 
-### Justice League Dark
-*Released on 2017-01-24, vote average 7.6*
+### iBoy
+*Released on 2017-01-27, vote average 5.9*
 
-Beings with supernatural powers join together to fight against supernatural villains.
+After an accident, Tom wakes from a coma to discover that fragments of his smart phone have been embedded in his head, and worse, that returning to normal teenage life is impossible because he has developed a strange set of super powers.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/D-5aTKSD4ww?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/FbEWtpSmJXg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Fifty Shades Darker
+*Released on 2017-02-08, vote average 5.3*
+
+When a wounded Christian Grey tries to entice a cautious Ana Steele back into his life, she demands a new arrangement before she will give him another chance. As the two begin to build trust and find stability, shadowy figures from Christian’s past start to circle the couple, determined to destroy their hopes for a future together.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/V0zGJIy50ys?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Lego Batman Movie
+*Released on 2017-02-08, vote average 8.3*
+
+In the irreverent spirit of fun that made “The LEGO® Movie” a worldwide phenomenon, the self-described leading man of that ensemble – LEGO Batman – stars in his own big-screen adventure. But there are big changes brewing in Gotham, and if he wants to save the city from The Joker’s hostile takeover, Batman may have to drop the lone vigilante thing, try to work with others and maybe, just maybe, learn to lighten up.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/aBJyp2LFHgk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### American Violence
+*Released on 2017-02-03, vote average 5.3*
+
+A psychologist interviews a death row inmate to determine whether or not a stay of execution should be granted.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/gtR0Q6qep-A?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -69,7 +140,7 @@ Beings with supernatural powers join together to fight against supernatural vill
 	
 
 ### A Dog&#39;s Purpose
-*Released on 2017-01-26, vote average 7*
+*Released on 2017-01-26, vote average 6.7*
 
 A dog goes on quest to discover his purpose in life over the course of several lifetimes with multiple owners.
 
@@ -110,11 +181,6 @@ A young man raised by scientists on Mars returns to Earth to find his father.
 
 
 	
-
-  
-
-
-	
 	
 
 ### T2 Trainspotting
@@ -131,11 +197,6 @@ First there was an opportunity......then there was a betrayal. Twenty years have
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -166,16 +227,16 @@ A man is tasked with driving his embittered 80-year-old father-in-law cross coun
 	
 	
 
-### Wheeler
-*Released on 2017-02-03, vote average 6.5*
+### Raees
+*Released on 2017-01-25, vote average 5.2*
 
-The story of an aspiring musician from Kaufman, Texas who travels to Nashville with the lifelong dream of trying his hand at country music. By embodying the title character under prosthetic make up, actor Stephen Dorff successfully infiltrates Music City and takes his character on an authentic singer / songwriter journey. With the help of key allies on the ground, &#34;Wheeler&#34; converses with real people in real locations, with every musical number performed live. The line between reality and fiction blurs as Wheeler chases his dream in this touching tribute to old school country legends.
+Raees is set in the early 80’s and 90’s in Gujarat, India. It is a fictitious story of a man, Raees, who builds an entire empire from the scratch. It’s a story about his rise and his relationships, which help him become the single most powerful man in the state.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/o3eJ99NxVpI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ssFDmvyPFUg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -186,6 +247,23 @@ The story of an aspiring musician from Kaufman, Texas who travels to Nashville w
 
 
 	
+	
+
+### Don&#39;t Knock Twice
+*Released on 2017-01-26, vote average 6.7*
+
+A mother desperate to reconnect with her troubled daughter becomes embroiled in the urban legend of a demonic witch.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wZb9sr1oYcM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -206,6 +284,11 @@ The story of an aspiring musician from Kaufman, Texas who travels to Nashville w
 
 	
 	
+	
+
+  
+
+
 	
 
   
@@ -234,33 +317,18 @@ Chinese archeology professor Jack teams up with beautiful Indian professor Ashmi
 
 
 	
-
-  
-
-
 	
 
-  
+### We All Fall Down: Part One
+*Released on 2017-02-05, vote average 8*
 
-
-	
-
-  
-
-
-	
-	
-
-### Raees
-*Released on 2017-01-25, vote average 4.7*
-
-Raees is set in the early 80’s and 90’s in Gujarat, India. It is a fictitious story of a man, Raees, who builds an entire empire from the scratch. It’s a story about his rise and his relationships, which help him become the single most powerful man in the state.
+A man named Harrison is drawn into a shadowy world of wires and secrets, one that seems impossible to comprehend. Part One of a fresh new series of short films directed by Khizer Khani.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ssFDmvyPFUg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ayt6DkEJBZ8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -326,7 +394,7 @@ John Wick is forced out of retirement by a former associate looking to seize con
 	
 
 ### The Lego Batman Movie
-*Released on 2017-02-08, vote average 8.5*
+*Released on 2017-02-08, vote average 8.3*
 
 In the irreverent spirit of fun that made “The LEGO® Movie” a worldwide phenomenon, the self-described leading man of that ensemble – LEGO Batman – stars in his own big-screen adventure. But there are big changes brewing in Gotham, and if he wants to save the city from The Joker’s hostile takeover, Batman may have to drop the lone vigilante thing, try to work with others and maybe, just maybe, learn to lighten up.
 
