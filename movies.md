@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Rings
-*Released on 2017-02-01, vote average 5.2*
+*Released on 2017-02-01, vote average 5.3*
 
 Julia becomes worried about her boyfriend, Holt when he explores the dark urban legend of a mysterious videotape said to kill the watcher seven days after viewing. She sacrifices herself to save her boyfriend and in doing so makes a horrifying discovery: there is a &#34;movie within the movie&#34; that no one has ever seen before.
 
@@ -47,7 +47,7 @@ Julia becomes worried about her boyfriend, Holt when he explores the dark urban 
 	
 
 ### Fifty Shades Darker
-*Released on 2017-02-08, vote average 6.8*
+*Released on 2017-02-08, vote average 7.2*
 
 When a wounded Christian Grey tries to entice a cautious Ana Steele back into his life, she demands a new arrangement before she will give him another chance. As the two begin to build trust and find stability, shadowy figures from Christian’s past start to circle the couple, determined to destroy their hopes for a future together.
 
@@ -69,7 +69,7 @@ When a wounded Christian Grey tries to entice a cautious Ana Steele back into hi
 	
 
 ### John Wick: Chapter Two
-*Released on 2017-02-09, vote average 4.7*
+*Released on 2017-02-09, vote average 6.2*
 
 John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassins’ guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the world’s most dangerous killers.
 
@@ -91,7 +91,7 @@ John Wick is forced out of retirement by a former associate looking to seize con
 	
 
 ### The Lego Batman Movie
-*Released on 2017-02-08, vote average 7.3*
+*Released on 2017-02-08, vote average 7.4*
 
 In the irreverent spirit of fun that made “The LEGO® Movie” a worldwide phenomenon, the self-described leading man of that ensemble – LEGO Batman – stars in his own big-screen adventure. But there are big changes brewing in Gotham, and if he wants to save the city from The Joker’s hostile takeover, Batman may have to drop the lone vigilante thing, try to work with others and maybe, just maybe, learn to lighten up.
 
@@ -130,18 +130,6 @@ In the irreverent spirit of fun that made “The LEGO® Movie” a worldwide phe
 
 
 	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 
   
 
@@ -164,37 +152,12 @@ In the irreverent spirit of fun that made “The LEGO® Movie” a worldwide phe
 
 
 	
-	
-
-### The Covenant
-*Released on 2017-02-07, vote average 1*
-
-After the tragic deaths of her husband and daughter, Sarah Doyle moves back to her childhood home with her estranged brother, Richard. It&#39;s not long before Sarah begins to experience supernatural phenomena of a violent and hostile nature.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rYllZoxcYcU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
 	
-
-  
-
-
 	
-
-  
-
-
 	
 
   
@@ -222,6 +185,60 @@ Stella Davis is a widow who saves her ranch by working with convicts to rehabili
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### 1 Night
+*Released on 2017-02-10, vote average 6*
+
+Thirty-something Elizabeth must decide whether to salvage her disappointing relationship with Drew. Meanwhile, Bea, a worrisome teenager, reconnects with her introverted childhood friend, Andy, at their high school prom. Past and present collide as two couples explore love over the course of one night at a hotel.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zFELeadAK04?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Jolly LLB 2
+*Released on 2017-02-09, vote average 8*
+
+A blunt, abrasive and yet oddly compassionate Jagdishwar Mishra aka Jolly, a small-time struggling lawyer who moves from Kanpur to the city of Nawabs to pursue his dream of becoming a big-time lawyer.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/q07SQFmL4rM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
