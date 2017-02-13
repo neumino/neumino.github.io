@@ -47,7 +47,7 @@ Julia becomes worried about her boyfriend, Holt when he explores the dark urban 
 	
 
 ### Fifty Shades Darker
-*Released on 2017-02-08, vote average 7.2*
+*Released on 2017-02-08, vote average 7.3*
 
 When a wounded Christian Grey tries to entice a cautious Ana Steele back into his life, she demands a new arrangement before she will give him another chance. As the two begin to build trust and find stability, shadowy figures from Christian’s past start to circle the couple, determined to destroy their hopes for a future together.
 
@@ -69,7 +69,7 @@ When a wounded Christian Grey tries to entice a cautious Ana Steele back into hi
 	
 
 ### John Wick: Chapter Two
-*Released on 2017-02-09, vote average 6.2*
+*Released on 2017-02-09, vote average 6.5*
 
 John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassins’ guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the world’s most dangerous killers.
 
@@ -115,26 +115,21 @@ In the irreverent spirit of fun that made “The LEGO® Movie” a worldwide phe
 
 
 	
-
-  
-
-
 	
 
-  
+### 1 Night
+*Released on 2017-02-10, vote average 6*
 
+Thirty-something Elizabeth must decide whether to salvage her disappointing relationship with Drew. Meanwhile, Bea, a worrisome teenager, reconnects with her introverted childhood friend, Andy, at their high school prom. Past and present collide as two couples explore love over the course of one night at a hotel.
 
-	
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zFELeadAK04?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
-  
-
-
-	
-
-  
-
-
-	
 	
 	
 
@@ -142,27 +137,22 @@ In the irreverent spirit of fun that made “The LEGO® Movie” a worldwide phe
 
 
 	
-
-  
-
-
 	
 
-  
+### Jolly LLB 2
+*Released on 2017-02-09, vote average 6*
 
+A blunt, abrasive and yet oddly compassionate Jagdishwar Mishra aka Jolly, a small-time struggling lawyer who moves from Kanpur to the city of Nawabs to pursue his dream of becoming a big-time lawyer.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/q07SQFmL4rM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 	
 
   
@@ -191,18 +181,30 @@ Stella Davis is a widow who saves her ranch by working with convicts to rehabili
 
 
 	
+
+  
+
+
+	
+	
 	
 
-### 1 Night
-*Released on 2017-02-10, vote average 6*
+  
 
-Thirty-something Elizabeth must decide whether to salvage her disappointing relationship with Drew. Meanwhile, Bea, a worrisome teenager, reconnects with her introverted childhood friend, Andy, at their high school prom. Past and present collide as two couples explore love over the course of one night at a hotel.
+
+	
+	
+
+### Terry Pratchett: Back in Black
+*Released on 2017-02-11, vote average 8*
+
+A poignant and humorous film telling the story of the hugely popular author of the discworld series of books, in his own words.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/zFELeadAK04?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/wVGZIxK3gv4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -218,22 +220,35 @@ Thirty-something Elizabeth must decide whether to salvage her disappointing rela
 
 
 	
-	
 
-### Jolly LLB 2
-*Released on 2017-02-09, vote average 8*
+  
 
-A blunt, abrasive and yet oddly compassionate Jagdishwar Mishra aka Jolly, a small-time struggling lawyer who moves from Kanpur to the city of Nawabs to pursue his dream of becoming a big-time lawyer.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/q07SQFmL4rM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
