@@ -47,7 +47,7 @@ Julia becomes worried about her boyfriend, Holt when he explores the dark urban 
 	
 
 ### Fifty Shades Darker
-*Released on 2017-02-08, vote average 7.3*
+*Released on 2017-02-08, vote average 6.8*
 
 When a wounded Christian Grey tries to entice a cautious Ana Steele back into his life, she demands a new arrangement before she will give him another chance. As the two begin to build trust and find stability, shadowy figures from Christian’s past start to circle the couple, determined to destroy their hopes for a future together.
 
@@ -68,7 +68,7 @@ When a wounded Christian Grey tries to entice a cautious Ana Steele back into hi
 	
 	
 
-### John Wick: Chapter Two
+### John Wick: Chapter 2
 *Released on 2017-02-09, vote average 6.4*
 
 John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassins’ guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the world’s most dangerous killers.
@@ -115,23 +115,18 @@ In the irreverent spirit of fun that made “The LEGO® Movie” a worldwide phe
 
 
 	
-
-  
-
-
-	
 	
 
-### Running Wild
-*Released on 2017-02-10, vote average 6.5*
+### A Cure for Wellness
+*Released on 2017-02-15, vote average 7*
 
-Stella Davis is a widow who saves her ranch by working with convicts to rehabilitate a herd of wild horses that wandered on to her property. Stella must fight prejudice, greed, bureaucracy and vanity (including her own) to finally understand that there is no better remedy to misfortune than helping another living creature.
+An ambitious young executive is sent to retrieve his company&#39;s CEO from an idyllic but mysterious &#34;wellness center&#34; at a remote location in the Swiss Alps but soon suspects that the spa&#39;s miraculous treatments are not what they seem.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/jkJPE8wFFUU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/SAstm684HdU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -141,23 +136,6 @@ Stella Davis is a widow who saves her ranch by working with convicts to rehabili
   
 
 
-	
-	
-
-### Terry Pratchett: Back in Black
-*Released on 2017-02-11, vote average 8*
-
-A poignant and humorous film telling the story of the hugely popular author of the discworld series of books, in his own words.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wVGZIxK3gv4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -213,53 +191,18 @@ Thirty-something Elizabeth must decide whether to salvage her disappointing rela
 
 
 	
-
-  
-
-
 	
 
-  
+### Running Wild
+*Released on 2017-02-10, vote average 6.5*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Call of the Wolf
-*Released on 2017-02-07, vote average 4*
-
-Kidnapped and trapped by a winter storm, this slow burn thriller follows two strangers who must outsmart an unseen killer.
+Stella Davis is a widow who saves her ranch by working with convicts to rehabilitate a herd of wild horses that wandered on to her property. Stella must fight prejudice, greed, bureaucracy and vanity (including her own) to finally understand that there is no better remedy to misfortune than helping another living creature.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/NjQ9zKhQ1wI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/jkJPE8wFFUU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -269,6 +212,80 @@ Kidnapped and trapped by a winter storm, this slow burn thriller follows two str
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Everybody Loves Somebody
+*Released on 2017-02-14, vote average 6*
+
+On the surface, Clara Barron seems to have it all: a job as an OB-GYN; a great house in LA; and a loving family. But, the one thing Clara doesn&#39;t have figured out is her love life. Pressured by a family wedding in Mexico, Clara asks a co-worker to pose as her boyfriend for the weekend festivities,- only to be caught by surprise when her ex- boyfriend (and family favorite) suddenly shows up after disappearing from her life completely. Torn, Clara must decide between going back to the past or open her heart to new and unexpected possibilities.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/CQ6p9YQ4PuI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Terry Pratchett: Back in Black
+*Released on 2017-02-11, vote average 8*
+
+A poignant and humorous film telling the story of the hugely popular author of the discworld series of books, in his own words.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wVGZIxK3gv4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
