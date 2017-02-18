@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Fifty Shades Darker
-*Released on 2017-02-08, vote average 6.6*
+*Released on 2017-02-08, vote average 6.7*
 
 When a wounded Christian Grey tries to entice a cautious Ana Steele back into his life, she demands a new arrangement before she will give him another chance. As the two begin to build trust and find stability, shadowy figures from Christian’s past start to circle the couple, determined to destroy their hopes for a future together.
 
@@ -47,7 +47,7 @@ When a wounded Christian Grey tries to entice a cautious Ana Steele back into hi
 	
 
 ### John Wick: Chapter 2
-*Released on 2017-02-09, vote average 6.6*
+*Released on 2017-02-08, vote average 6.6*
 
 John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassins’ guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the world’s most dangerous killers.
 
@@ -69,7 +69,7 @@ John Wick is forced out of retirement by a former associate looking to seize con
 	
 
 ### The Lego Batman Movie
-*Released on 2017-02-08, vote average 7.6*
+*Released on 2017-02-08, vote average 7.5*
 
 In the irreverent spirit of fun that made “The LEGO® Movie” a worldwide phenomenon, the self-described leading man of that ensemble – LEGO Batman – stars in his own big-screen adventure. But there are big changes brewing in Gotham, and if he wants to save the city from The Joker’s hostile takeover, Batman may have to drop the lone vigilante thing, try to work with others and maybe, just maybe, learn to lighten up.
 
@@ -133,13 +133,6 @@ An unexpected affair quickly escalates into a heart-stopping reality for two wom
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Fist Fight
 *Released on 2017-02-16, vote average 7.5*
@@ -151,6 +144,123 @@ When one school teacher gets the other fired, he is challenged to an after-schoo
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/XP1md_u8ClE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Don&#39;t Hang Up
+*Released on 2017-02-10, vote average 5.4*
+
+An evening of drunken prank calls becomes a nightmare for a pair of teenagers when a mysterious stranger turns their own game against them.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hfxhDgxvT9Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Ape
+*Released on 2017-02-17, vote average 9*
+
+To take control of his life, Travis Wilker must conquer the hallucinations that plagued his childhood.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zaRbVh1r26g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Girlfriend&#39;s Day
+*Released on 2017-02-14, vote average 4.5*
+
+In a city where greeting card writers are celebrated like movie stars, Romance writer Ray used to be the king. In trying to recapture the feelings that once made him the greatest, he gets entangled in a web of murder and deceit as writers vie to create the perfect card for a new holiday: Girlfriend&#39;s Day.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/A2L0100_Yp4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Disney&#39;s Newsies: The Broadway Musical
+*Released on 2017-02-16, vote average 10*
+
+Set in New York City and inspired by the real-life &#34;Newsboy Strike of 1899&#34;, Newsies is the Tony Award-winning tale of Jack Kelly, a newsboy who dreams of a better life far from the hardship of the streets. But when publishing titans Joseph Pulitzer and William Randolph Hearst raise distribution prices at the newsboys&#39; expense, Jack finds a cause to fight for and rallies &#34;newsies&#34; from across the city to strike and take a stand for what&#39;s right.  Filmed live on stage at the Pantages Theatre in Hollywood, the film stars Original Broadway Cast members Jeremy Jordan, Kara Lindsay, Ben Fankhauser, and Andrew Keenan-Bolger.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nFaiZI_UCVc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -198,65 +308,6 @@ On the surface, Clara Barron seems to have it all: a job as an OB-GYN; a great h
 
 
 	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Stall
-*Released on 2017-02-14, vote average 10*
-
-A young boy climbs under a public bathroom stall.....and gets far more than he had bargained for.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/6jxDNRIvlTo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 
   
 
@@ -265,6 +316,23 @@ A young boy climbs under a public bathroom stall.....and gets far more than he h
 ## Opening soon
 
 
+	
+	
+
+### Logan
+*Released on 2017-02-24, vote average 5.8*
+
+In the near future, a weary Logan cares for an ailing Professor X in a hide out on the Mexican border. But Logan&#39;s attempts to hide from the world and his legacy are up-ended when a young mutant arrives, being pursued by dark forces.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/7aiUAaMbR64?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
