@@ -47,7 +47,7 @@ When a wounded Christian Grey tries to entice a cautious Ana Steele back into hi
 	
 
 ### John Wick: Chapter 2
-*Released on 2017-02-08, vote average 6.6*
+*Released on 2017-02-08, vote average 6.5*
 
 John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassins’ guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the world’s most dangerous killers.
 
@@ -91,7 +91,7 @@ In the irreverent spirit of fun that made “The LEGO® Movie” a worldwide phe
 	
 
 ### A Cure for Wellness
-*Released on 2017-02-15, vote average 5.9*
+*Released on 2017-02-15, vote average 5.4*
 
 An ambitious young executive is sent to retrieve his company&#39;s CEO from an idyllic but mysterious &#34;wellness center&#34; at a remote location in the Swiss Alps but soon suspects that the spa&#39;s miraculous treatments are not what they seem.
 
@@ -154,21 +154,11 @@ When one school teacher gets the other fired, he is challenged to an after-schoo
 
 
 	
+
+  
+
+
 	
-
-### Don&#39;t Hang Up
-*Released on 2017-02-10, vote average 5.4*
-
-An evening of drunken prank calls becomes a nightmare for a pair of teenagers when a mysterious stranger turns their own game against them.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hfxhDgxvT9Q?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -207,30 +197,6 @@ To take control of his life, Travis Wilker must conquer the hallucinations that 
   
 
 
-	
-	
-
-### Girlfriend&#39;s Day
-*Released on 2017-02-14, vote average 4.5*
-
-In a city where greeting card writers are celebrated like movie stars, Romance writer Ray used to be the king. In trying to recapture the feelings that once made him the greatest, he gets entangled in a web of murder and deceit as writers vie to create the perfect card for a new holiday: Girlfriend&#39;s Day.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/A2L0100_Yp4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -276,10 +242,22 @@ Set in New York City and inspired by the real-life &#34;Newsboy Strike of 1899&#
 
 
 	
+	
 
-  
+### Don&#39;t Hang Up
+*Released on 2017-02-10, vote average 5.4*
 
+An evening of drunken prank calls becomes a nightmare for a pair of teenagers when a mysterious stranger turns their own game against them.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hfxhDgxvT9Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -312,6 +290,13 @@ On the surface, Clara Barron seems to have it all: a job as an OB-GYN; a great h
   
 
 
+	
+	
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -320,7 +305,7 @@ On the surface, Clara Barron seems to have it all: a job as an OB-GYN; a great h
 	
 
 ### Logan
-*Released on 2017-02-24, vote average 5.8*
+*Released on 2017-02-24, vote average 4.8*
 
 In the near future, a weary Logan cares for an ailing Professor X in a hide out on the Mexican border. But Logan&#39;s attempts to hide from the world and his legacy are up-ended when a young mutant arrives, being pursued by dark forces.
 
@@ -335,6 +320,23 @@ In the near future, a weary Logan cares for an ailing Professor X in a hide out 
 	
 	
 
+	
+	
+
+### Get Out
+*Released on 2017-02-24, vote average 5.7*
+
+A young African-American man visits his Caucasian girlfriend&#39;s cursed family estate.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/sRfnevzM9kQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
