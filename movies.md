@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Fifty Shades Darker
-*Released on 2017-02-08, vote average 6.7*
+*Released on 2017-02-08, vote average 6.6*
 
 When a wounded Christian Grey tries to entice a cautious Ana Steele back into his life, she demands a new arrangement before she will give him another chance. As the two begin to build trust and find stability, shadowy figures from Christian’s past start to circle the couple, determined to destroy their hopes for a future together.
 
@@ -112,8 +112,35 @@ An ambitious young executive is sent to retrieve his company&#39;s CEO from an i
 	
 	
 
+### Below Her Mouth
+*Released on 2017-02-10, vote average 8*
+
+An unexpected affair quickly escalates into a heart-stopping reality for two women whose passionate connection changes their lives forever.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/UlahbaaJqog?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### Fist Fight
-*Released on 2017-02-16, vote average 7.3*
+*Released on 2017-02-16, vote average 7.5*
 
 When one school teacher gets the other fired, he is challenged to an after-school fight.
 
@@ -132,22 +159,17 @@ When one school teacher gets the other fired, he is challenged to an after-schoo
 
 
 	
-	
 
-### Below Her Mouth
-*Released on 2017-02-10, vote average 8*
+  
 
-An unexpected affair quickly escalates into a heart-stopping reality for two women whose passionate connection changes their lives forever.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/UlahbaaJqog?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+	
+	
+
+  
+
+
 	
 
   
@@ -169,30 +191,6 @@ In a city where greeting card writers are celebrated like movie stars, Romance w
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -227,6 +225,32 @@ An evening of drunken prank calls becomes a nightmare for a pair of teenagers wh
 
 
 	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 
   
 
@@ -238,43 +262,6 @@ An evening of drunken prank calls becomes a nightmare for a pair of teenagers wh
 
 	
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Ape
-*Released on 2017-02-17, vote average 9*
-
-To take control of his life, Travis Wilker must conquer the hallucinations that plagued his childhood.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zaRbVh1r26g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -288,7 +275,7 @@ To take control of his life, Travis Wilker must conquer the hallucinations that 
 	
 
 ### Logan
-*Released on 2017-02-24, vote average 5.2*
+*Released on 2017-02-24, vote average 6.3*
 
 In the near future, a weary Logan cares for an ailing Professor X in a hide out on the Mexican border. But Logan&#39;s attempts to hide from the world and his legacy are up-ended when a young mutant arrives, being pursued by dark forces.
 
@@ -296,7 +283,7 @@ In the near future, a weary Logan cares for an ailing Professor X in a hide out 
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/5FLAg6S2EjM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/7aiUAaMbR64?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
