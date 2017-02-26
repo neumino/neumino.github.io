@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Logan
-*Released on 2017-02-24, vote average 6.3*
+*Released on 2017-02-24, vote average 6.5*
 
 In the near future, a weary Logan cares for an ailing Professor X in a hide out on the Mexican border. But Logan&#39;s attempts to hide from the world and his legacy are up-ended when a young mutant arrives, being pursued by dark forces.
 
@@ -21,7 +21,7 @@ In the near future, a weary Logan cares for an ailing Professor X in a hide out 
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/7aiUAaMbR64?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/5FLAg6S2EjM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -69,9 +69,9 @@ An ambitious young executive is sent to retrieve his company&#39;s CEO from an i
 	
 
 ### Get Out
-*Released on 2017-02-24, vote average 7.2*
+*Released on 2017-02-24, vote average 7.1*
 
-A young African-American man visits his Caucasian girlfriend&#39;s cursed family estate.
+A young African-American man visits his Caucasian girlfriend&#39;s cursed family estate. He finds out that many of its residents, who are black, have gone missing in the past.
 
 <iframe id="player"
 	type="text/html"
@@ -110,64 +110,7 @@ When one school teacher gets the other fired, he is challenged to an after-schoo
 
 
 	
-
-  
-
-
 	
-	
-
-### Cross Wars
-*Released on 2017-02-11, vote average 5*
-
-Cross is aided by his team of weapons experts Riot, War, Shark, Lucia, Ranger, Saint, Blackfire and Nuke. Their biggest fight is against their most dangerous enemy GUNNAR. A thousand year old Viking that&#39;s cursed to live for ever. Gunnar&#39;s only chance at ending his own life is to be the last living soul on earth. The Cross Team must stop Gunnar before he ends humanity.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ufBfnklm8_0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Rangoon
-*Released on 2017-02-24, vote average 10*
-
-Love triangle set against the backdrop of World War II.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/B-tC0wcIu24?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -196,48 +139,57 @@ A ride-share driver finds himself transporting the man who is secretly sleeping 
 
 
 	
-
-  
-
-
 	
 
-  
+### Rangoon
+*Released on 2017-02-24, vote average 10*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### This Must Be My Face
-*Released on 2017-02-23, vote average 10*
-
-10 minute experimental film.  Warning: this video involves frequent flashing of colors.
+Love triangle set against the backdrop of World War II.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/RlLBv6EBlJI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/B-tC0wcIu24?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Prologue: Last Supper
+*Released on 2017-02-22, vote average 6*
+
+The official prologue to Alien: Covenant introduces the crew of the mission as they gather for a final meal before entering cryosleep.  Set aboard the Covenant, a colonization ship on its way to a remote planet to form a new human settlement, the main crew (all couples) and their android, Walter, enjoy their final meal together before cryosleep.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EkXgRlRao5I?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -252,6 +204,75 @@ A ride-share driver finds himself transporting the man who is secretly sleeping 
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Guardians
+*Released on 2017-02-14, vote average 5*
+
+During the Cold War, an organization called &#34;Patriot&#34; created a super-hero squad, which includes members of multiple soviet republics. For years, the heroes had to hide their identities, but in hard times they must show themselves again.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QfNcy271FSI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Girlfriend&#39;s Day
+*Released on 2017-02-14, vote average 5.3*
+
+In a city where greeting card writers are celebrated like movie stars, Romance writer Ray used to be the king. In trying to recapture the feelings that once made him the greatest, he gets entangled in a web of murder and deceit as writers vie to create the perfect card for a new holiday: Girlfriend&#39;s Day.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/A2L0100_Yp4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -279,6 +300,23 @@ A ride-share driver finds himself transporting the man who is secretly sleeping 
 
 	
 
+	
+	
+
+### Shepherds and Butchers
+*Released on 2017-03-03, vote average 7*
+
+A lawyer takes on a case of a prison guard in South Africa who is traumatized by the executions he&#39;s witnessed.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/iPVOtTJ4qHI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
