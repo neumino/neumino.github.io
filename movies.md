@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Logan
-*Released on 2017-02-24, vote average 6.5*
+*Released on 2017-02-24, vote average 6.3*
 
 In the near future, a weary Logan cares for an ailing Professor X in a hide out on the Mexican border. But Logan&#39;s attempts to hide from the world and his legacy are up-ended when a young mutant arrives, being pursued by dark forces.
 
@@ -47,7 +47,7 @@ In the near future, a weary Logan cares for an ailing Professor X in a hide out 
 	
 
 ### A Cure for Wellness
-*Released on 2017-02-15, vote average 6*
+*Released on 2017-02-15, vote average 5.8*
 
 An ambitious young executive is sent to retrieve his company&#39;s CEO from an idyllic but mysterious &#34;wellness center&#34; at a remote location in the Swiss Alps but soon suspects that the spa&#39;s miraculous treatments are not what they seem.
 
@@ -110,30 +110,6 @@ When one school teacher gets the other fired, he is challenged to an after-schoo
 
 
 	
-	
-	
-
-  
-
-
-	
-	
-
-### Fare
-*Released on 2017-02-21, vote average 5*
-
-A ride-share driver finds himself transporting the man who is secretly sleeping with his wife.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/lWY1QAZ259o?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -162,83 +138,9 @@ Love triangle set against the backdrop of World War II.
 
 	
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Prologue: Last Supper
-*Released on 2017-02-22, vote average 6*
-
-The official prologue to Alien: Covenant introduces the crew of the mission as they gather for a final meal before entering cryosleep.  Set aboard the Covenant, a colonization ship on its way to a remote planet to form a new human settlement, the main crew (all couples) and their android, Walter, enjoy their final meal together before cryosleep.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EkXgRlRao5I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 
 ### Guardians
-*Released on 2017-02-14, vote average 5*
+*Released on 2017-02-14, vote average 4.7*
 
 During the Cold War, an organization called &#34;Patriot&#34; created a super-hero squad, which includes members of multiple soviet republics. For years, the heroes had to hide their identities, but in hard times they must show themselves again.
 
@@ -257,22 +159,88 @@ During the Cold War, an organization called &#34;Patriot&#34; created a super-he
 
 
 	
+
+  
+
+
 	
 
-### Girlfriend&#39;s Day
-*Released on 2017-02-14, vote average 5.3*
+  
 
-In a city where greeting card writers are celebrated like movie stars, Romance writer Ray used to be the king. In trying to recapture the feelings that once made him the greatest, he gets entangled in a web of murder and deceit as writers vie to create the perfect card for a new holiday: Girlfriend&#39;s Day.
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Fare
+*Released on 2017-02-21, vote average 5*
+
+A ride-share driver finds himself transporting the man who is secretly sleeping with his wife.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/A2L0100_Yp4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/lWY1QAZ259o?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -304,7 +272,7 @@ In a city where greeting card writers are celebrated like movie stars, Romance w
 	
 
 ### Shepherds and Butchers
-*Released on 2017-03-03, vote average 7*
+*Released on 2017-03-03, vote average 6*
 
 A lawyer takes on a case of a prison guard in South Africa who is traumatized by the executions he&#39;s witnessed.
 
