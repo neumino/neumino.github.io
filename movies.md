@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Logan
-*Released on 2017-02-24, vote average 6.3*
+### Get Out
+*Released on 2017-02-24, vote average 7.3*
 
-In the near future, a weary Logan cares for an ailing Professor X in a hide out on the Mexican border. But Logan&#39;s attempts to hide from the world and his legacy are up-ended when a young mutant arrives, being pursued by dark forces.
+A young African-American man visits his Caucasian girlfriend&#39;s cursed family estate. He finds out that many of its residents, who are black, have gone missing in the past.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/5FLAg6S2EjM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/sRfnevzM9kQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,28 +68,6 @@ An ambitious young executive is sent to retrieve his company&#39;s CEO from an i
 	
 	
 
-### Get Out
-*Released on 2017-02-24, vote average 7.1*
-
-A young African-American man visits his Caucasian girlfriend&#39;s cursed family estate. He finds out that many of its residents, who are black, have gone missing in the past.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/sRfnevzM9kQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Fist Fight
 *Released on 2017-02-16, vote average 7.7*
 
@@ -110,27 +88,12 @@ When one school teacher gets the other fired, he is challenged to an after-schoo
 
 
 	
+	
+	
 
   
 
 
-	
-	
-
-### Rangoon
-*Released on 2017-02-24, vote average 10*
-
-Love triangle set against the backdrop of World War II.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/B-tC0wcIu24?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -159,23 +122,6 @@ During the Cold War, an organization called &#34;Patriot&#34; created a super-he
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -193,6 +139,45 @@ During the Cold War, an organization called &#34;Patriot&#34; created a super-he
 
 
 	
+	
+
+### Rangoon
+*Released on 2017-02-24, vote average 7.3*
+
+Love triangle set against the backdrop of World War II.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/B-tC0wcIu24?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Needlestick
+*Released on 2017-02-21, vote average 5*
+
+A desperate doctor locks down South Union Cardiac Hospital to keep the greatest discovery in human history to himself, while a young intern races to save a dying young dancer, his ex-girlfriend, and his best friend, and stop his mentor.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_58EuNAbGcM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -203,7 +188,20 @@ During the Cold War, an organization called &#34;Patriot&#34; created a super-he
 
 
 	
+
+  
+
+
 	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -242,6 +240,23 @@ A ride-share driver finds himself transporting the man who is secretly sleeping 
 
 
 	
+	
+
+### Girlfriend&#39;s Day
+*Released on 2017-02-14, vote average 5.1*
+
+In a city where greeting card writers are celebrated like movie stars, Romance writer Ray used to be the king. In trying to recapture the feelings that once made him the greatest, he gets entangled in a web of murder and deceit as writers vie to create the perfect card for a new holiday: Girlfriend&#39;s Day.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/A2L0100_Yp4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -251,9 +266,22 @@ A ride-share driver finds himself transporting the man who is secretly sleeping 
 
 
 	
-
 	
 
+### Logan
+*Released on 2017-03-01, vote average 6*
+
+In the near future, a weary Logan cares for an ailing Professor X in a hide out on the Mexican border. But Logan&#39;s attempts to hide from the world and his legacy are up-ended when a young mutant arrives, being pursued by dark forces.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/7aiUAaMbR64?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -285,6 +313,10 @@ A lawyer takes on a case of a prison guard in South Africa who is traumatized by
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
 	
 
 	
