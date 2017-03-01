@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Get Out
-*Released on 2017-02-24, vote average 7.3*
+### Logan
+*Released on 2017-03-01, vote average 6.2*
 
-A young African-American man visits his Caucasian girlfriend&#39;s cursed family estate. He finds out that many of its residents, who are black, have gone missing in the past.
+In the near future, a weary Logan cares for an ailing Professor X in a hide out on the Mexican border. But Logan&#39;s attempts to hide from the world and his legacy are up-ended when a young mutant arrives, being pursued by dark forces.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/sRfnevzM9kQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/5FLAg6S2EjM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -40,6 +40,28 @@ A young African-American man visits his Caucasian girlfriend&#39;s cursed family
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+  
+
+
+	
+	
+
+### Get Out
+*Released on 2017-02-24, vote average 7.5*
+
+A young African-American man visits his Caucasian girlfriend&#39;s cursed family estate. He finds out that many of its residents, who are black, have gone missing in the past.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/sRfnevzM9kQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
   
 
 
@@ -69,7 +91,7 @@ An ambitious young executive is sent to retrieve his company&#39;s CEO from an i
 	
 
 ### Fist Fight
-*Released on 2017-02-16, vote average 7.7*
+*Released on 2017-02-16, vote average 7.2*
 
 When one school teacher gets the other fired, he is challenged to an after-school fight.
 
@@ -88,6 +110,11 @@ When one school teacher gets the other fired, he is challenged to an after-schoo
 
 
 	
+
+  
+
+
+	
 	
 	
 
@@ -95,26 +122,6 @@ When one school teacher gets the other fired, he is challenged to an after-schoo
 
 
 	
-
-  
-
-
-	
-	
-
-### Guardians
-*Released on 2017-02-14, vote average 4.7*
-
-During the Cold War, an organization called &#34;Patriot&#34; created a super-hero squad, which includes members of multiple soviet republics. For years, the heroes had to hide their identities, but in hard times they must show themselves again.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/QfNcy271FSI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -129,10 +136,7 @@ During the Cold War, an organization called &#34;Patriot&#34; created a super-he
 
 
 	
-
-  
-
-
+	
 	
 
   
@@ -162,17 +166,44 @@ Love triangle set against the backdrop of World War II.
 
 	
 	
+	
 
-### Needlestick
-*Released on 2017-02-21, vote average 5*
+  
 
-A desperate doctor locks down South Union Cardiac Hospital to keep the greatest discovery in human history to himself, while a young intern races to save a dying young dancer, his ex-girlfriend, and his best friend, and stop his mentor.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### XX
+*Released on 2017-02-17, vote average 4.7*
+
+This all-female horror anthology features four dark tales from four fiercely talented women.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/_58EuNAbGcM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/TJF9Qm7vC6o?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -193,38 +224,18 @@ A desperate doctor locks down South Union Cardiac Hospital to keep the greatest 
 
 
 	
-
-  
-
-
 	
 
-  
+### In Dubious Battle
+*Released on 2017-02-17, vote average 4*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Fare
-*Released on 2017-02-21, vote average 5*
-
-A ride-share driver finds himself transporting the man who is secretly sleeping with his wife.
+In the California apple country, nine hundred migratory workers rise up &#34;in dubious battle&#34; against the landowners. The group takes on a life of its own-stronger than its individual members and more frightening. Led by the doomed Jim Nolan, the strike is founded on his tragic idealism-on the &#34;courage never to submit or yield.&#34; Published in 1936, In Dubious Battle is considered the first major work of Pulitzer Prize-winning author John Steinbeck.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/lWY1QAZ259o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/dsFfBINb21Q?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -234,28 +245,6 @@ A ride-share driver finds himself transporting the man who is secretly sleeping 
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Girlfriend&#39;s Day
-*Released on 2017-02-14, vote average 5.1*
-
-In a city where greeting card writers are celebrated like movie stars, Romance writer Ray used to be the king. In trying to recapture the feelings that once made him the greatest, he gets entangled in a web of murder and deceit as writers vie to create the perfect card for a new holiday: Girlfriend&#39;s Day.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/A2L0100_Yp4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -269,7 +258,7 @@ In a city where greeting card writers are celebrated like movie stars, Romance w
 	
 
 ### Logan
-*Released on 2017-03-01, vote average 6*
+*Released on 2017-03-01, vote average 6.2*
 
 In the near future, a weary Logan cares for an ailing Professor X in a hide out on the Mexican border. But Logan&#39;s attempts to hide from the world and his legacy are up-ended when a young mutant arrives, being pursued by dark forces.
 
@@ -277,13 +266,11 @@ In the near future, a weary Logan cares for an ailing Professor X in a hide out 
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/7aiUAaMbR64?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/5FLAg6S2EjM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
@@ -313,6 +300,8 @@ A lawyer takes on a case of a prison guard in South Africa who is traumatized by
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
