@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Logan
-*Released on 2017-03-01, vote average 6.2*
+*Released on 2017-03-01, vote average 6.4*
 
 In the near future, a weary Logan cares for an ailing Professor X in a hide out on the Mexican border. But Logan&#39;s attempts to hide from the world and his legacy are up-ended when a young mutant arrives, being pursued by dark forces.
 
@@ -47,7 +47,7 @@ In the near future, a weary Logan cares for an ailing Professor X in a hide out 
 	
 
 ### Get Out
-*Released on 2017-02-24, vote average 7.5*
+*Released on 2017-02-24, vote average 7.6*
 
 A young African-American man visits his Caucasian girlfriend&#39;s cursed family estate. He finds out that many of its residents, who are black, have gone missing in the past.
 
@@ -56,28 +56,6 @@ A young African-American man visits his Caucasian girlfriend&#39;s cursed family
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/sRfnevzM9kQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### A Cure for Wellness
-*Released on 2017-02-15, vote average 5.8*
-
-An ambitious young executive is sent to retrieve his company&#39;s CEO from an idyllic but mysterious &#34;wellness center&#34; at a remote location in the Swiss Alps but soon suspects that the spa&#39;s miraculous treatments are not what they seem.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/SAstm684HdU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -122,7 +100,35 @@ When one school teacher gets the other fired, he is challenged to an after-schoo
 
 
 	
+
+  
+
+
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -130,80 +136,17 @@ When one school teacher gets the other fired, he is challenged to an after-schoo
 
 	
 	
-	
 
-  
+### Needlestick
+*Released on 2017-02-21, vote average 5*
 
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Rangoon
-*Released on 2017-02-24, vote average 7.3*
-
-Love triangle set against the backdrop of World War II.
+A desperate doctor locks down South Union Cardiac Hospital to keep the greatest discovery in human history to himself, while a young intern races to save a dying young dancer, his ex-girlfriend, and his best friend, and stop his mentor.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/B-tC0wcIu24?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### XX
-*Released on 2017-02-17, vote average 4.7*
-
-This all-female horror anthology features four dark tales from four fiercely talented women.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/TJF9Qm7vC6o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/_58EuNAbGcM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -224,22 +167,20 @@ This all-female horror anthology features four dark tales from four fiercely tal
 
 
 	
-	
 
-### In Dubious Battle
-*Released on 2017-02-17, vote average 4*
+  
 
-In the California apple country, nine hundred migratory workers rise up &#34;in dubious battle&#34; against the landowners. The group takes on a life of its own-stronger than its individual members and more frightening. Led by the doomed Jim Nolan, the strike is founded on his tragic idealism-on the &#34;courage never to submit or yield.&#34; Published in 1936, In Dubious Battle is considered the first major work of Pulitzer Prize-winning author John Steinbeck.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/dsFfBINb21Q?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -253,29 +194,6 @@ In the California apple country, nine hundred migratory workers rise up &#34;in 
 
 ## Opening soon
 
-
-	
-	
-
-### Logan
-*Released on 2017-03-01, vote average 6.2*
-
-In the near future, a weary Logan cares for an ailing Professor X in a hide out on the Mexican border. But Logan&#39;s attempts to hide from the world and his legacy are up-ended when a young mutant arrives, being pursued by dark forces.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/5FLAg6S2EjM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
 
 	
 
@@ -300,6 +218,12 @@ A lawyer takes on a case of a prison guard in South Africa who is traumatized by
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
 	
 
 	
