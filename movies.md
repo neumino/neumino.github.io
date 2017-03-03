@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Logan
-*Released on 2017-03-01, vote average 6.4*
+*Released on 2017-02-28, vote average 7.1*
 
 In the near future, a weary Logan cares for an ailing Professor X in a hide out on the Mexican border. But Logan&#39;s attempts to hide from the world and his legacy are up-ended when a young mutant arrives, being pursued by dark forces.
 
@@ -47,7 +47,7 @@ In the near future, a weary Logan cares for an ailing Professor X in a hide out 
 	
 
 ### Get Out
-*Released on 2017-02-24, vote average 7.6*
+*Released on 2017-02-24, vote average 7.5*
 
 A young African-American man visits his Caucasian girlfriend&#39;s cursed family estate. He finds out that many of its residents, who are black, have gone missing in the past.
 
@@ -66,18 +66,48 @@ A young African-American man visits his Caucasian girlfriend&#39;s cursed family
 
 
 	
+
+  
+
+
 	
 
-### Fist Fight
-*Released on 2017-02-16, vote average 7.2*
+  
 
-When one school teacher gets the other fired, he is challenged to an after-school fight.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Shepherds and Butchers
+*Released on 2017-03-03, vote average 6*
+
+A lawyer takes on a case of a prison guard in South Africa who is traumatized by the executions he&#39;s witnessed.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/XP1md_u8ClE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/iPVOtTJ4qHI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -93,64 +123,17 @@ When one school teacher gets the other fired, he is challenged to an after-schoo
 
 
 	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 
   
 
 
 	
 	
-
-### Needlestick
-*Released on 2017-02-21, vote average 5*
-
-A desperate doctor locks down South Union Cardiac Hospital to keep the greatest discovery in human history to himself, while a young intern races to save a dying young dancer, his ex-girlfriend, and his best friend, and stop his mentor.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/_58EuNAbGcM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
+
+  
+
+
 	
 
   
@@ -196,6 +179,29 @@ A desperate doctor locks down South Union Cardiac Hospital to keep the greatest 
 
 
 	
+	
+
+### Kong: Skull Island
+*Released on 2017-03-08, vote average 5.3*
+
+Explore the mysterious and dangerous home of the king of the apes as a team of explorers ventures deep inside the treacherous, primordial island.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/u3zkKemvaYM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
 
 	
 
@@ -218,12 +224,6 @@ A lawyer takes on a case of a prison guard in South Africa who is traumatized by
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
 	
 
 	
