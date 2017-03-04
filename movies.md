@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Logan
-*Released on 2017-02-28, vote average 7.1*
+*Released on 2017-02-28, vote average 7.4*
 
 In the near future, a weary Logan cares for an ailing Professor X in a hide out on the Mexican border. But Logan&#39;s attempts to hide from the world and his legacy are up-ended when a young mutant arrives, being pursued by dark forces.
 
@@ -21,7 +21,7 @@ In the near future, a weary Logan cares for an ailing Professor X in a hide out 
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/5FLAg6S2EjM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/7aiUAaMbR64?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -71,20 +71,22 @@ A young African-American man visits his Caucasian girlfriend&#39;s cursed family
 
 
 	
-
-  
-
-
 	
 
-  
+### Before I Fall
+*Released on 2017-03-03, vote average 7*
 
+Samantha Kingston has everything. Then, everything changes. After one fateful night, she wakes up with no future at all. Trapped into reliving the same day over and over, she begins to question just how perfect her life really was.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3Y84mFUl7WI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-  
-
-
 	
 
   
@@ -129,6 +131,21 @@ A lawyer takes on a case of a prison guard in South Africa who is traumatized by
 
 	
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -207,23 +224,6 @@ Explore the mysterious and dangerous home of the king of the apes as a team of e
 
 	
 
-	
-	
-
-### Shepherds and Butchers
-*Released on 2017-03-03, vote average 6*
-
-A lawyer takes on a case of a prison guard in South Africa who is traumatized by the executions he&#39;s witnessed.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/iPVOtTJ4qHI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
