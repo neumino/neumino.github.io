@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Logan
-*Released on 2017-02-28, vote average 7.6*
+*Released on 2017-02-28, vote average 7.7*
 
 In the near future, a weary Logan cares for an ailing Professor X in a hide out on the Mexican border. But Logan&#39;s attempts to hide from the world and his legacy are up-ended when a young mutant arrives, being pursued by dark forces.
 
@@ -21,7 +21,7 @@ In the near future, a weary Logan cares for an ailing Professor X in a hide out 
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Div0iP65aZo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/RH3OxVFvTeg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -113,31 +113,6 @@ Samantha Kingston has everything. Then, everything changes. After one fateful ni
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Shepherds and Butchers
-*Released on 2017-03-03, vote average 6*
-
-A lawyer takes on a case of a prison guard in South Africa who is traumatized by the executions he&#39;s witnessed.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/iPVOtTJ4qHI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -173,6 +148,60 @@ A documentary on drag queens, kings, &amp;amp; transgender performers in Columbu
 
 	
 	
+
+### Shepherds and Butchers
+*Released on 2017-03-03, vote average 6*
+
+A lawyer takes on a case of a prison guard in South Africa who is traumatized by the executions he&#39;s witnessed.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/iPVOtTJ4qHI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Maybe That&#39;s Enough
+*Released on 2017-03-04, vote average 10*
+
+Platitudes begin at peaks then rapidly descend and dismantle in order to ascend more acutely until they repeatedly and successively overwhelm.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/DLJJBRL7NvU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -196,15 +225,22 @@ A documentary on drag queens, kings, &amp;amp; transgender performers in Columbu
 
 
 	
-
-  
-
-
 	
 
-  
+### Mystery Hole//Boring Soul
+*Released on 2017-03-03, vote average 10*
 
+Time plods along in spattered irregularities as anger and depression coalesce in confusing amalgamations.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zk8jW5jhP0E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -218,7 +254,7 @@ A documentary on drag queens, kings, &amp;amp; transgender performers in Columbu
 	
 
 ### Kong: Skull Island
-*Released on 2017-03-08, vote average 6.1*
+*Released on 2017-03-08, vote average 5.1*
 
 Explore the mysterious and dangerous home of the king of the apes as a team of explorers ventures deep inside the treacherous, primordial island.
 
@@ -253,6 +289,8 @@ Port City North Carolina: During a routine camp out, a local vagrant discovers p
 	
 
 	
+
+	
 	
 
 ### Kidnap
@@ -269,8 +307,6 @@ Single mother Karla McCoy lives a perfect life with her young son Frankie. One d
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
