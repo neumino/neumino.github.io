@@ -21,7 +21,7 @@ In the near future, a weary Logan cares for an ailing Professor X in a hide out 
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/RH3OxVFvTeg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Div0iP65aZo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -47,7 +47,7 @@ In the near future, a weary Logan cares for an ailing Professor X in a hide out 
 	
 
 ### Get Out
-*Released on 2017-02-24, vote average 7.2*
+*Released on 2017-02-24, vote average 7.1*
 
 A young African-American man visits his Caucasian girlfriend&#39;s cursed family estate. He finds out that many of its residents, who are black, have gone missing in the past.
 
@@ -66,15 +66,10 @@ A young African-American man visits his Caucasian girlfriend&#39;s cursed family
 
 
 	
-
-  
-
-
-	
 	
 
 ### Before I Fall
-*Released on 2017-03-03, vote average 7*
+*Released on 2017-03-03, vote average 6.5*
 
 Samantha Kingston has everything. Then, everything changes. After one fateful night, she wakes up with no future at all. Trapped into reliving the same day over and over, she begins to question just how perfect her life really was.
 
@@ -93,6 +88,125 @@ Samantha Kingston has everything. Then, everything changes. After one fateful ni
 
 
 	
+	
+
+### The Institute
+*Released on 2017-03-03, vote average 6*
+
+In 19th century Baltimore, Isabel Porter, a girl stricken with grief from her parents&#39; untimely death, voluntarily checks herself into the Rosewood Institute. Subjected to bizarre and increasingly violent pseudo-scientific experiments in personality modification, brainwashing and mind control, she must escape the clutches of the Rosewood and exact her revenge, or else be forever lost.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/yDWj_g6haNw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Shack
+*Released on 2017-03-03, vote average 8*
+
+After suffering a family tragedy, Mack Phillips spirals into a deep depression causing him to question his innermost beliefs. Facing a crisis of faith, he receives a mysterious letter urging him to an abandoned shack deep in the Oregon wilderness. Despite his doubts, Mack journeys to the shack and encounters an enigmatic trio of strangers led by a woman named Papa. Through this meeting, Mack finds important truths that will transform his understanding of his tragedy and change his life forever.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/bw1Clqr0jqc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Wolves
+*Released on 2017-03-03, vote average 6*
+
+Anthony Keller, star of his NYC high school basketball team, is riding his way to Cornell on a sports scholarship. But he can only maintain his popular jock facade for so long, as his troubled father Lee has a gambling addiction that threatens to derail his dreams both on and off the court.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/CQ1wztlDACc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### They Tried Fixing The Sky
+*Released on 2017-03-06, vote average 10*
+
+Broken forms, broken words. City moving past its people. Past tense. Last.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-4-S78C14OQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Check Point
+*Released on 2017-03-07, vote average 10*
+
+Port City North Carolina: During a routine camp out, a local vagrant discovers plans for an invasion in America. When he tries to notify the local Sheriff about his discovery, the Sheriff dismisses his claims and has him locked up for loitering. When the Sheriff notices odd interactions with other towns folk he begins to look into the vagrants&#39; claim of a sleeper cell living amongst the locals within this small town. After evidence of a beheading is exposed, others begin to fear that the insurgents attack on hometown USA. Questions and tempers begin to rise. Why this little beach community with it&#39;s Norman Rockwell way of life? A town where everyone knows one another... or so they thought. When the truth is blind and justice seems lost, It will take an army of five unlikely heroes banding together to infiltrate the insurgents and foil their invasion plans. War is Hell and Hell comes home at the Check Point.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/GtsE7JsQwOY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
 
   
 
@@ -113,7 +227,15 @@ Samantha Kingston has everything. Then, everything changes. After one fateful ni
 
 
 	
+
+  
+
+
 	
+
+  
+
+
 	
 
   
@@ -147,30 +269,6 @@ A documentary on drag queens, kings, &amp;amp; transgender performers in Columbu
 
 
 	
-	
-
-### Shepherds and Butchers
-*Released on 2017-03-03, vote average 6*
-
-A lawyer takes on a case of a prison guard in South Africa who is traumatized by the executions he&#39;s witnessed.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/iPVOtTJ4qHI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
 
   
 
@@ -197,55 +295,6 @@ Platitudes begin at peaks then rapidly descend and dismantle in order to ascend 
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Mystery Hole//Boring Soul
-*Released on 2017-03-03, vote average 10*
-
-Time plods along in spattered irregularities as anger and depression coalesce in confusing amalgamations.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zk8jW5jhP0E?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -254,7 +303,7 @@ Time plods along in spattered irregularities as anger and depression coalesce in
 	
 
 ### Kong: Skull Island
-*Released on 2017-03-08, vote average 5.1*
+*Released on 2017-03-08, vote average 5*
 
 Explore the mysterious and dangerous home of the king of the apes as a team of explorers ventures deep inside the treacherous, primordial island.
 
