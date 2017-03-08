@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Logan
-*Released on 2017-02-28, vote average 7.7*
+*Released on 2017-02-28, vote average 7.8*
 
 In the near future, a weary Logan cares for an ailing Professor X in a hide out on the Mexican border. But Logan&#39;s attempts to hide from the world and his legacy are up-ended when a young mutant arrives, being pursued by dark forces.
 
@@ -21,7 +21,7 @@ In the near future, a weary Logan cares for an ailing Professor X in a hide out 
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Div0iP65aZo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/7aiUAaMbR64?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,38 +68,16 @@ A young African-American man visits his Caucasian girlfriend&#39;s cursed family
 	
 	
 
-### Before I Fall
-*Released on 2017-03-03, vote average 6.5*
+### Kong: Skull Island
+*Released on 2017-03-08, vote average 5.7*
 
-Samantha Kingston has everything. Then, everything changes. After one fateful night, she wakes up with no future at all. Trapped into reliving the same day over and over, she begins to question just how perfect her life really was.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Dkd56TX4guU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Institute
-*Released on 2017-03-03, vote average 6*
-
-In 19th century Baltimore, Isabel Porter, a girl stricken with grief from her parents&#39; untimely death, voluntarily checks herself into the Rosewood Institute. Subjected to bizarre and increasingly violent pseudo-scientific experiments in personality modification, brainwashing and mind control, she must escape the clutches of the Rosewood and exact her revenge, or else be forever lost.
+Explore the mysterious and dangerous home of the king of the apes as a team of explorers ventures deep inside the treacherous, primordial island.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/yDWj_g6haNw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/44LdLqgOpjo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -113,7 +91,7 @@ In 19th century Baltimore, Isabel Porter, a girl stricken with grief from her pa
 	
 
 ### The Shack
-*Released on 2017-03-03, vote average 8*
+*Released on 2017-03-03, vote average 6.5*
 
 After suffering a family tragedy, Mack Phillips spirals into a deep depression causing him to question his innermost beliefs. Facing a crisis of faith, he receives a mysterious letter urging him to an abandoned shack deep in the Oregon wilderness. Despite his doubts, Mack journeys to the shack and encounters an enigmatic trio of strangers led by a woman named Papa. Through this meeting, Mack finds important truths that will transform his understanding of his tragedy and change his life forever.
 
@@ -121,29 +99,7 @@ After suffering a family tragedy, Mack Phillips spirals into a deep depression c
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/bw1Clqr0jqc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Wolves
-*Released on 2017-03-03, vote average 6*
-
-Anthony Keller, star of his NYC high school basketball team, is riding his way to Cornell on a sports scholarship. But he can only maintain his popular jock facade for so long, as his troubled father Lee has a gambling addiction that threatens to derail his dreams both on and off the court.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/CQ1wztlDACc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/CL0yUbSS5Eg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -177,13 +133,6 @@ Broken forms, broken words. City moving past its people. Past tense. Last.
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Check Point
 *Released on 2017-03-07, vote average 10*
@@ -206,41 +155,21 @@ Port City North Carolina: During a routine camp out, a local vagrant discovers p
 
 	
 	
-	
 
-  
+### Before I Fall
+*Released on 2017-03-03, vote average 6.5*
 
+Samantha Kingston has everything. Then, everything changes. After one fateful night, she wakes up with no future at all. Trapped into reliving the same day over and over, she begins to question just how perfect her life really was.
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Dkd56TX4guU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -249,16 +178,48 @@ Port City North Carolina: During a routine camp out, a local vagrant discovers p
 	
 	
 
-### Kings, Queens, &amp; In-Betweens
+### Wolves
 *Released on 2017-03-03, vote average 6*
 
-A documentary on drag queens, kings, &amp;amp; transgender performers in Columbus, OH who tackle the complexities of gender expression, identity, sexuality, discrimination, family, &amp;amp; politics--all with humor, pathos, &amp;amp; duct tape.
+Anthony Keller, star of his NYC high school basketball team, is riding his way to Cornell on a sports scholarship. But he can only maintain his popular jock facade for so long, as his troubled father Lee has a gambling addiction that threatens to derail his dreams both on and off the court.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/3nBULq8d-jQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/CQ1wztlDACc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Before the Gates
+*Released on 2017-03-06, vote average 10*
+
+Trite, closed memories flagrantly bleed into profuse openings mixed &amp;amp; held together by retaliatory colorations &amp;amp; obfuscations.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KgkyshvdNV8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -276,20 +237,72 @@ A documentary on drag queens, kings, &amp;amp; transgender performers in Columbu
 	
 	
 
-### Maybe That&#39;s Enough
-*Released on 2017-03-04, vote average 10*
+### The Institute
+*Released on 2017-03-03, vote average 6*
 
-Platitudes begin at peaks then rapidly descend and dismantle in order to ascend more acutely until they repeatedly and successively overwhelm.
+In 19th century Baltimore, Isabel Porter, a girl stricken with grief from her parents&#39; untimely death, voluntarily checks herself into the Rosewood Institute. Subjected to bizarre and increasingly violent pseudo-scientific experiments in personality modification, brainwashing and mind control, she must escape the clutches of the Rosewood and exact her revenge, or else be forever lost.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/DLJJBRL7NvU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/yDWj_g6haNw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Jetsons &amp; WWE: Robo-WrestleMania!
+*Released on 2017-02-28, vote average 10*
+
+Blast off to adventure in this animated feature where our favorite space-age family, The Jetsons, meet the superstars of WWE! When George unearths WWE’s Big Show, who has been frozen for 100 years, the futuristic face-off begins! Once thawed, Big Show wastes no time in taking the WWE belt from the current robot champ as well as taking total control of Orbit City. It’s up to The Jetsons to travel back in time and enlist help from WWE’s brightest stars: Sheamus, Alicia Fox, Roman Reigns, Seth Rollins and the Uso brothers. Can this cosmic tag-team prevail and set this twisted time-warp straight? Tune in and see with The Jetsons and WWE!
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fUJkvYf5GZI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -303,7 +316,7 @@ Platitudes begin at peaks then rapidly descend and dismantle in order to ascend 
 	
 
 ### Kong: Skull Island
-*Released on 2017-03-08, vote average 5*
+*Released on 2017-03-08, vote average 5.7*
 
 Explore the mysterious and dangerous home of the king of the apes as a team of explorers ventures deep inside the treacherous, primordial island.
 
@@ -311,7 +324,7 @@ Explore the mysterious and dangerous home of the king of the apes as a team of e
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/u3zkKemvaYM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/44LdLqgOpjo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -319,22 +332,9 @@ Explore the mysterious and dangerous home of the king of the apes as a team of e
 	
 
 	
-	
-
-### Check Point
-*Released on 2017-03-07, vote average 10*
-
-Port City North Carolina: During a routine camp out, a local vagrant discovers plans for an invasion in America. When he tries to notify the local Sheriff about his discovery, the Sheriff dismisses his claims and has him locked up for loitering. When the Sheriff notices odd interactions with other towns folk he begins to look into the vagrants&#39; claim of a sleeper cell living amongst the locals within this small town. After evidence of a beheading is exposed, others begin to fear that the insurgents attack on hometown USA. Questions and tempers begin to rise. Why this little beach community with it&#39;s Norman Rockwell way of life? A town where everyone knows one another... or so they thought. When the truth is blind and justice seems lost, It will take an army of five unlikely heroes banding together to infiltrate the insurgents and foil their invasion plans. War is Hell and Hell comes home at the Check Point.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/GtsE7JsQwOY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
 	
 
 	
@@ -356,10 +356,6 @@ Single mother Karla McCoy lives a perfect life with her young son Frankie. One d
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
 	
 
 	
