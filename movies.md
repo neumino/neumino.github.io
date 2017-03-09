@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Logan
-*Released on 2017-02-28, vote average 7.8*
+*Released on 2017-02-28, vote average 7.7*
 
 In the near future, a weary Logan cares for an ailing Professor X in a hide out on the Mexican border. But Logan&#39;s attempts to hide from the world and his legacy are up-ended when a young mutant arrives, being pursued by dark forces.
 
@@ -46,16 +46,16 @@ In the near future, a weary Logan cares for an ailing Professor X in a hide out 
 	
 	
 
-### Get Out
-*Released on 2017-02-24, vote average 7.1*
+### Kong: Skull Island
+*Released on 2017-03-08, vote average 5.6*
 
-A young African-American man visits his Caucasian girlfriend&#39;s cursed family estate. He finds out that many of its residents, who are black, have gone missing in the past.
+Explore the mysterious and dangerous home of the king of the apes as a team of explorers ventures deep inside the treacherous, primordial island.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/sRfnevzM9kQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/44LdLqgOpjo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,16 +68,16 @@ A young African-American man visits his Caucasian girlfriend&#39;s cursed family
 	
 	
 
-### Kong: Skull Island
-*Released on 2017-03-08, vote average 5.7*
+### Get Out
+*Released on 2017-02-24, vote average 7*
 
-Explore the mysterious and dangerous home of the king of the apes as a team of explorers ventures deep inside the treacherous, primordial island.
+A young African-American man visits his Caucasian girlfriend&#39;s cursed family estate. He finds out that many of its residents, who are black, have gone missing in the past.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/44LdLqgOpjo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/sRfnevzM9kQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -110,18 +110,50 @@ After suffering a family tragedy, Mack Phillips spirals into a deep depression c
 
 
 	
+
+  
+
+
 	
 
-### They Tried Fixing The Sky
-*Released on 2017-03-06, vote average 10*
+  
 
-Broken forms, broken words. City moving past its people. Past tense. Last.
+
+	
+	
+
+### Before I Fall
+*Released on 2017-03-03, vote average 6.5*
+
+Samantha Kingston has everything. Then, everything changes. After one fateful night, she wakes up with no future at all. Trapped into reliving the same day over and over, she begins to question just how perfect her life really was.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-4-S78C14OQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Dkd56TX4guU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Institute
+*Released on 2017-03-03, vote average 6*
+
+In 19th century Baltimore, Isabel Porter, a girl stricken with grief from her parents&#39; untimely death, voluntarily checks herself into the Rosewood Institute. Subjected to bizarre and increasingly violent pseudo-scientific experiments in personality modification, brainwashing and mind control, she must escape the clutches of the Rosewood and exact her revenge, or else be forever lost.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/yDWj_g6haNw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -155,21 +187,21 @@ Port City North Carolina: During a routine camp out, a local vagrant discovers p
 
 	
 	
+	
 
-### Before I Fall
-*Released on 2017-03-03, vote average 6.5*
+  
 
-Samantha Kingston has everything. Then, everything changes. After one fateful night, she wakes up with no future at all. Trapped into reliving the same day over and over, she begins to question just how perfect her life really was.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Dkd56TX4guU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -198,96 +230,49 @@ Anthony Keller, star of his NYC high school basketball team, is riding his way t
 
 
 	
+	
 
-  
+### Devil in the Dark
+*Released on 2017-03-07, vote average 4*
 
+When estranged brothers Adam and Clint attempt to reconnect over a week-long hunting trip in remote British Columbia, they find the tables turned by a mysterious presence lurking in the forest.  Convinced that they are now besieged by a supernatural presence, the siblings begrudgingly agree on only one thing: they will have to put aside their differences and work together if they plan on making it out these dark woods alive.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/A8gVpR0effg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
 
 
 	
+
+  
+
+
+	
 	
 
-### Before the Gates
+### They Tried Fixing The Sky
 *Released on 2017-03-06, vote average 10*
 
-Trite, closed memories flagrantly bleed into profuse openings mixed &amp;amp; held together by retaliatory colorations &amp;amp; obfuscations.
+Broken forms, broken words. City moving past its people. Past tense. Last.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/KgkyshvdNV8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-4-S78C14OQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Institute
-*Released on 2017-03-03, vote average 6*
-
-In 19th century Baltimore, Isabel Porter, a girl stricken with grief from her parents&#39; untimely death, voluntarily checks herself into the Rosewood Institute. Subjected to bizarre and increasingly violent pseudo-scientific experiments in personality modification, brainwashing and mind control, she must escape the clutches of the Rosewood and exact her revenge, or else be forever lost.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/yDWj_g6haNw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Jetsons &amp; WWE: Robo-WrestleMania!
-*Released on 2017-02-28, vote average 10*
-
-Blast off to adventure in this animated feature where our favorite space-age family, The Jetsons, meet the superstars of WWE! When George unearths WWE’s Big Show, who has been frozen for 100 years, the futuristic face-off begins! Once thawed, Big Show wastes no time in taking the WWE belt from the current robot champ as well as taking total control of Orbit City. It’s up to The Jetsons to travel back in time and enlist help from WWE’s brightest stars: Sheamus, Alicia Fox, Roman Reigns, Seth Rollins and the Uso brothers. Can this cosmic tag-team prevail and set this twisted time-warp straight? Tune in and see with The Jetsons and WWE!
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/fUJkvYf5GZI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -315,28 +300,20 @@ Blast off to adventure in this animated feature where our favorite space-age fam
 	
 	
 
-### Kong: Skull Island
-*Released on 2017-03-08, vote average 5.7*
+### Beauty and the Beast
+*Released on 2017-03-15, vote average 2.5*
 
-Explore the mysterious and dangerous home of the king of the apes as a team of explorers ventures deep inside the treacherous, primordial island.
+A live-action adaptation of Disney&#39;s version of the classic &#39;Beauty and the Beast&#39; tale of a cursed prince and a beautiful young woman who helps him break the spell.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/44LdLqgOpjo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/tWapqpCEO7Y?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
 	
 
 	
@@ -356,6 +333,14 @@ Single mother Karla McCoy lives a perfect life with her young son Frankie. One d
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
 	
 
 	
