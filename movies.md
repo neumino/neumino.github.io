@@ -88,6 +88,26 @@ A young African-American man visits his Caucasian girlfriend&#39;s cursed family
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### The Shack
@@ -120,21 +140,26 @@ After suffering a family tragedy, Mack Phillips spirals into a deep depression c
 
 
 	
+
+  
+
+
 	
 
-### Before I Fall
-*Released on 2017-03-03, vote average 6.5*
+  
 
-Samantha Kingston has everything. Then, everything changes. After one fateful night, she wakes up with no future at all. Trapped into reliving the same day over and over, she begins to question just how perfect her life really was.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Dkd56TX4guU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
+	
 
+  
+
+
+	
+
+  
+
+
+	
 	
 	
 
@@ -144,16 +169,16 @@ Samantha Kingston has everything. Then, everything changes. After one fateful ni
 	
 	
 
-### The Institute
-*Released on 2017-03-03, vote average 6*
+### The Raking
+*Released on 2017-03-07, vote average 7*
 
-In 19th century Baltimore, Isabel Porter, a girl stricken with grief from her parents&#39; untimely death, voluntarily checks herself into the Rosewood Institute. Subjected to bizarre and increasingly violent pseudo-scientific experiments in personality modification, brainwashing and mind control, she must escape the clutches of the Rosewood and exact her revenge, or else be forever lost.
+THE RAKING tells the story of a group of college students who set out to debunk an urban legend in Joshua Tree, California for their anthropology thesis, only to find that they become part of the legend themselves.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/yDWj_g6haNw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/YI25lrHA2vQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -187,39 +212,39 @@ Port City North Carolina: During a routine camp out, a local vagrant discovers p
 
 	
 	
-	
 
-  
+### Kidnap
+*Released on 2017-03-10, vote average 10*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Wolves
-*Released on 2017-03-03, vote average 6*
-
-Anthony Keller, star of his NYC high school basketball team, is riding his way to Cornell on a sports scholarship. But he can only maintain his popular jock facade for so long, as his troubled father Lee has a gambling addiction that threatens to derail his dreams both on and off the court.
+Single mother Karla McCoy lives a perfect life with her young son Frankie. One day, upon entering a local park, Karla sees her son suddenly being abducted out of the blue by a kidnapper. To save Frankie from being taken, Karla goes out on a mission to demand people in the city to help rescue her son.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/CQ1wztlDACc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/R-Ht8VRPRvU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Before I Fall
+*Released on 2017-03-03, vote average 6.5*
+
+Samantha Kingston has everything. Then, everything changes. After one fateful night, she wakes up with no future at all. Trapped into reliving the same day over and over, she begins to question just how perfect her life really was.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Dkd56TX4guU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -251,48 +276,6 @@ When estranged brothers Adam and Clint attempt to reconnect over a week-long hun
   
 
 
-	
-
-  
-
-
-	
-	
-
-### They Tried Fixing The Sky
-*Released on 2017-03-06, vote average 10*
-
-Broken forms, broken words. City moving past its people. Past tense. Last.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-4-S78C14OQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -314,6 +297,8 @@ A live-action adaptation of Disney&#39;s version of the classic &#39;Beauty and 
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
@@ -344,7 +329,22 @@ Single mother Karla McCoy lives a perfect life with her young son Frankie. One d
 	
 
 	
+	
 
+### Badrinath Ki Dulhania
+*Released on 2017-03-10, vote average 10*
+
+Badrinath Ki Dulhania is an upcoming Indian romantic drama film, directed by Shashank Khaitan, and produced by Karan Johar under the Dharma Productions banner. Starring Varun Dhawan and Alia Bhatt, the film marks the second installment of a franchise that began with Humpty Sharma Ki Dulhania (2014).
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ztX-iGlZ_Ug?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
