@@ -68,28 +68,6 @@ Explore the mysterious and dangerous home of the king of the apes as a team of e
 	
 	
 
-### Kidnap
-*Released on 2017-03-10, vote average 10*
-
-Single mother Karla McCoy lives a perfect life with her young son Frankie. One day, upon entering a local park, Karla sees her son suddenly being abducted out of the blue by a kidnapper. To save Frankie from being taken, Karla goes out on a mission to demand people in the city to help rescue her son.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/R-Ht8VRPRvU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Raw
 *Released on 2017-03-10, vote average 5*
 
@@ -112,20 +90,40 @@ In Justine’s family everyone is a vet and a vegetarian. At 16, she’s a gifte
 	
 	
 
-### Devil in the Dark
-*Released on 2017-03-07, vote average 4*
+### Kidnap
+*Released on 2017-03-10, vote average 10*
 
-When estranged brothers Adam and Clint attempt to reconnect over a week-long hunting trip in remote British Columbia, they find the tables turned by a mysterious presence lurking in the forest.  Convinced that they are now besieged by a supernatural presence, the siblings begrudgingly agree on only one thing: they will have to put aside their differences and work together if they plan on making it out these dark woods alive.
+Single mother Karla McCoy lives a perfect life with her young son Frankie. One day, upon entering a local park, Karla sees her son suddenly being abducted out of the blue by a kidnapper. To save Frankie from being taken, Karla goes out on a mission to demand people in the city to help rescue her son.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/A8gVpR0effg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/R-Ht8VRPRvU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -159,8 +157,6 @@ After suffering a family tragedy, Mack Phillips spirals into a deep depression c
 
 
 	
-	
-	
 
   
 
@@ -168,16 +164,16 @@ After suffering a family tragedy, Mack Phillips spirals into a deep depression c
 	
 	
 
-### Before I Fall
-*Released on 2017-03-03, vote average 4.5*
+### Devil in the Dark
+*Released on 2017-03-07, vote average 7*
 
-Samantha Kingston has everything. Then, everything changes. After one fateful night, she wakes up with no future at all. Trapped into reliving the same day over and over, she begins to question just how perfect her life really was.
+When estranged brothers Adam and Clint attempt to reconnect over a week-long hunting trip in remote British Columbia, they find the tables turned by a mysterious presence lurking in the forest.  Convinced that they are now besieged by a supernatural presence, the siblings begrudgingly agree on only one thing: they will have to put aside their differences and work together if they plan on making it out these dark woods alive.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Dkd56TX4guU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/A8gVpR0effg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -213,30 +209,66 @@ Samantha Kingston has everything. Then, everything changes. After one fateful ni
 
 
 	
+	
 
-  
+### Before I Fall
+*Released on 2017-03-03, vote average 3.6*
 
+Samantha Kingston has everything. Then, everything changes. After one fateful night, she wakes up with no future at all. Trapped into reliving the same day over and over, she begins to question just how perfect her life really was.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Dkd56TX4guU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
 
 
 	
+	
 
-  
+### Badrinath Ki Dulhania
+*Released on 2017-03-10, vote average 10*
 
+Badrinath Ki Dulhania is an upcoming Indian romantic drama film, directed by Shashank Khaitan, and produced by Karan Johar under the Dharma Productions banner. Starring Varun Dhawan and Alia Bhatt, the film marks the second installment of a franchise that began with Humpty Sharma Ki Dulhania (2014).
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ztX-iGlZ_Ug?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
 
 
 	
+	
 
-  
+### The Institute
+*Released on 2017-03-03, vote average 4.7*
 
+In 19th century Baltimore, Isabel Porter, a girl stricken with grief from her parents&#39; untimely death, voluntarily checks herself into the Rosewood Institute. Subjected to bizarre and increasingly violent pseudo-scientific experiments in personality modification, brainwashing and mind control, she must escape the clutches of the Rosewood and exact her revenge, or else be forever lost.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/yDWj_g6haNw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -250,7 +282,7 @@ Samantha Kingston has everything. Then, everything changes. After one fateful ni
 	
 
 ### Beauty and the Beast
-*Released on 2017-03-15, vote average 5.7*
+*Released on 2017-03-15, vote average 5.3*
 
 A live-action adaptation of Disney&#39;s version of the classic &#39;Beauty and the Beast&#39; tale of a cursed prince and a beautiful young woman who helps him break the spell.
 
