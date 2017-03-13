@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Logan
-*Released on 2017-02-28, vote average 7.8*
+*Released on 2017-02-28, vote average 7.7*
 
 In the near future, a weary Logan cares for an ailing Professor X in a hide out on the Mexican border. But Logan&#39;s attempts to hide from the world and his legacy are up-ended when a young mutant arrives, being pursued by dark forces.
 
@@ -47,7 +47,7 @@ In the near future, a weary Logan cares for an ailing Professor X in a hide out 
 	
 
 ### Kong: Skull Island
-*Released on 2017-03-08, vote average 5.9*
+*Released on 2017-03-08, vote average 6*
 
 Explore the mysterious and dangerous home of the king of the apes as a team of explorers ventures deep inside the treacherous, primordial island.
 
@@ -69,7 +69,7 @@ Explore the mysterious and dangerous home of the king of the apes as a team of e
 	
 
 ### Raw
-*Released on 2017-03-10, vote average 5*
+*Released on 2017-03-10, vote average 6*
 
 In Justine’s family everyone is a vet and a vegetarian. At 16, she’s a gifted teen ready to take on her first year in vet school, where her older sister also studies. There, she gets no time to settle: hazing starts right away. Justine is forced to eat raw meat for the first time in her life. Unexpected consequences emerge as her true self begins to form.
 
@@ -82,6 +82,21 @@ In Justine’s family everyone is a vet and a vegetarian. At 16, she’s a gifte
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -104,105 +119,6 @@ Single mother Karla McCoy lives a perfect life with her young son Frankie. One d
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Shack
-*Released on 2017-03-03, vote average 6.5*
-
-After suffering a family tragedy, Mack Phillips spirals into a deep depression causing him to question his innermost beliefs. Facing a crisis of faith, he receives a mysterious letter urging him to an abandoned shack deep in the Oregon wilderness. Despite his doubts, Mack journeys to the shack and encounters an enigmatic trio of strangers led by a woman named Papa. Through this meeting, Mack finds important truths that will transform his understanding of his tragedy and change his life forever.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/CL0yUbSS5Eg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Devil in the Dark
-*Released on 2017-03-07, vote average 7*
-
-When estranged brothers Adam and Clint attempt to reconnect over a week-long hunting trip in remote British Columbia, they find the tables turned by a mysterious presence lurking in the forest.  Convinced that they are now besieged by a supernatural presence, the siblings begrudgingly agree on only one thing: they will have to put aside their differences and work together if they plan on making it out these dark woods alive.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/A8gVpR0effg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -233,6 +149,62 @@ Samantha Kingston has everything. Then, everything changes. After one fateful ni
 	
 	
 
+### The Shack
+*Released on 2017-03-03, vote average 6.5*
+
+After suffering a family tragedy, Mack Phillips spirals into a deep depression causing him to question his innermost beliefs. Facing a crisis of faith, he receives a mysterious letter urging him to an abandoned shack deep in the Oregon wilderness. Despite his doubts, Mack journeys to the shack and encounters an enigmatic trio of strangers led by a woman named Papa. Through this meeting, Mack finds important truths that will transform his understanding of his tragedy and change his life forever.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/CL0yUbSS5Eg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Devil in the Dark
+*Released on 2017-03-07, vote average 5.7*
+
+When estranged brothers Adam and Clint attempt to reconnect over a week-long hunting trip in remote British Columbia, they find the tables turned by a mysterious presence lurking in the forest.  Convinced that they are now besieged by a supernatural presence, the siblings begrudgingly agree on only one thing: they will have to put aside their differences and work together if they plan on making it out these dark woods alive.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/A8gVpR0effg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### Badrinath Ki Dulhania
 *Released on 2017-03-10, vote average 10*
 
@@ -253,22 +225,35 @@ Badrinath Ki Dulhania is an upcoming Indian romantic drama film, directed by Sha
 
 
 	
-	
 
-### The Institute
-*Released on 2017-03-03, vote average 4.7*
+  
 
-In 19th century Baltimore, Isabel Porter, a girl stricken with grief from her parents&#39; untimely death, voluntarily checks herself into the Rosewood Institute. Subjected to bizarre and increasingly violent pseudo-scientific experiments in personality modification, brainwashing and mind control, she must escape the clutches of the Rosewood and exact her revenge, or else be forever lost.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/yDWj_g6haNw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -282,7 +267,7 @@ In 19th century Baltimore, Isabel Porter, a girl stricken with grief from her pa
 	
 
 ### Beauty and the Beast
-*Released on 2017-03-15, vote average 5.3*
+*Released on 2017-03-15, vote average 5.6*
 
 A live-action adaptation of Disney&#39;s version of the classic &#39;Beauty and the Beast&#39; tale of a cursed prince and a beautiful young woman who helps him break the spell.
 
