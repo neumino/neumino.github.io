@@ -47,7 +47,7 @@ Explore the mysterious and dangerous home of the king of the apes as a team of e
 	
 
 ### Beauty and the Beast
-*Released on 2017-03-15, vote average 5.7*
+*Released on 2017-03-15, vote average 5.3*
 
 A live-action adaptation of Disney&#39;s version of the classic &#39;Beauty and the Beast&#39; tale of a cursed prince and a beautiful young woman who helps him break the spell.
 
@@ -67,6 +67,21 @@ A live-action adaptation of Disney&#39;s version of the classic &#39;Beauty and 
 
 	
 	
+
+### Tangled: Before Ever After
+*Released on 2017-03-10, vote average 7.5*
+
+Rapunzel grapples with the responsibilities of being a princess and the overprotective ways of her father. While she wholeheartedly loves Eugene, Rapunzel does not share his immediate desire to get married and settle down within the castle walls. Determined to live life on her own terms, she and her tough-as-nails Lady-in-Waiting Cassandra embark on a secret adventure where they encounter mystical rocks that magically cause Rapunzel&#39;s long blonde hair to grow back. Impossible to break and difficult to hide, Rapunzel must learn to embrace her hair and all that it represents.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jHjWcahauZc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -77,6 +92,23 @@ A live-action adaptation of Disney&#39;s version of the classic &#39;Beauty and 
   
 
 
+	
+	
+
+### The Lost City of Z
+*Released on 2017-03-15, vote average 8*
+
+A true-life drama, centering on British explorer Col. Percival Fawcett, who disappeared while searching for a mysterious city in the Amazon in the 1920s.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hjqtP459uo8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -86,7 +118,7 @@ A live-action adaptation of Disney&#39;s version of the classic &#39;Beauty and 
 	
 
 ### The Shack
-*Released on 2017-03-03, vote average 7.6*
+*Released on 2017-03-03, vote average 6.7*
 
 After suffering a family tragedy, Mack Phillips spirals into a deep depression causing him to question his innermost beliefs. Facing a crisis of faith, he receives a mysterious letter urging him to an abandoned shack deep in the Oregon wilderness. Despite his doubts, Mack journeys to the shack and encounters an enigmatic trio of strangers led by a woman named Papa. Through this meeting, Mack finds important truths that will transform his understanding of his tragedy and change his life forever.
 
@@ -107,16 +139,16 @@ After suffering a family tragedy, Mack Phillips spirals into a deep depression c
 	
 	
 
-### Before I Fall
-*Released on 2017-03-03, vote average 3.7*
+### Kidnap
+*Released on 2017-03-10, vote average 10*
 
-Samantha Kingston has everything. Then, everything changes. After one fateful night, she wakes up with no future at all. Trapped into reliving the same day over and over, she begins to question just how perfect her life really was.
+Single mother Karla McCoy lives a perfect life with her young son Frankie. One day, upon entering a local park, Karla sees her son suddenly being abducted out of the blue by a kidnapper. To save Frankie from being taken, Karla goes out on a mission to demand people in the city to help rescue her son.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Dkd56TX4guU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/R-Ht8VRPRvU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -130,7 +162,7 @@ Samantha Kingston has everything. Then, everything changes. After one fateful ni
 	
 
 ### Raw
-*Released on 2017-03-10, vote average 6*
+*Released on 2017-03-10, vote average 6.3*
 
 In Justine’s family everyone is a vet and a vegetarian. At 16, she’s a gifted teen ready to take on her first year in vet school, where her older sister also studies. There, she gets no time to settle: hazing starts right away. Justine is forced to eat raw meat for the first time in her life. Unexpected consequences emerge as her true self begins to form.
 
@@ -143,11 +175,6 @@ In Justine’s family everyone is a vet and a vegetarian. At 16, she’s a gifte
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -175,23 +202,6 @@ Badrinath Ki Dulhania is an upcoming Indian romantic drama film, directed by Sha
   
 
 
-	
-	
-
-### Kidnap
-*Released on 2017-03-10, vote average 10*
-
-Single mother Karla McCoy lives a perfect life with her young son Frankie. One day, upon entering a local park, Karla sees her son suddenly being abducted out of the blue by a kidnapper. To save Frankie from being taken, Karla goes out on a mission to demand people in the city to help rescue her son.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/R-Ht8VRPRvU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -225,6 +235,38 @@ When estranged brothers Adam and Clint attempt to reconnect over a week-long hun
 
 
 	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 
   
 
@@ -232,45 +274,20 @@ When estranged brothers Adam and Clint attempt to reconnect over a week-long hun
 	
 	
 
-### Walkers of time
-*Released on 2017-03-12, vote average 7*
+### The Institute
+*Released on 2017-03-03, vote average 4.7*
 
-María is an Amorúa girl; an indigenous group that traveled the savannas of Orinoquía as nomads. She lives with her grandmother Matilde, her sister diana and her cousins in Puerto Carreño, in the Colombia-Venezuela border. The amorúa are considered wild and are not literate. Matilde wants her granddaughters to learn to write and read to live better in this town of &#34;rational whites&#34; as they call us. The director follows María&#39;s life for 8 years from her childhood to her adolescence and invites her to travel the places her grandma did as a nomad.
+In 19th century Baltimore, Isabel Porter, a girl stricken with grief from her parents&#39; untimely death, voluntarily checks herself into the Rosewood Institute. Subjected to bizarre and increasingly violent pseudo-scientific experiments in personality modification, brainwashing and mind control, she must escape the clutches of the Rosewood and exact her revenge, or else be forever lost.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/u-hbODUDZ2s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/yDWj_g6haNw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -281,23 +298,6 @@ María is an Amorúa girl; an indigenous group that traveled the savannas of Ori
 
 
 	
-	
-
-### Beauty and the Beast
-*Released on 2017-03-15, vote average 5.7*
-
-A live-action adaptation of Disney&#39;s version of the classic &#39;Beauty and the Beast&#39; tale of a cursed prince and a beautiful young woman who helps him break the spell.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tWapqpCEO7Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
@@ -311,8 +311,6 @@ A live-action adaptation of Disney&#39;s version of the classic &#39;Beauty and 
 
 	
 
-	
-	
 	
 
 	
