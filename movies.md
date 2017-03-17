@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Kong: Skull Island
-*Released on 2017-03-08, vote average 6*
+*Released on 2017-03-08, vote average 6.1*
 
 Explore the mysterious and dangerous home of the king of the apes as a team of explorers ventures deep inside the treacherous, primordial island.
 
@@ -47,7 +47,7 @@ Explore the mysterious and dangerous home of the king of the apes as a team of e
 	
 
 ### Beauty and the Beast
-*Released on 2017-03-15, vote average 5.3*
+*Released on 2017-03-15, vote average 5.1*
 
 A live-action adaptation of Disney&#39;s version of the classic &#39;Beauty and the Beast&#39; tale of a cursed prince and a beautiful young woman who helps him break the spell.
 
@@ -115,45 +115,6 @@ A true-life drama, centering on British explorer Col. Percival Fawcett, who disa
 
 
 	
-	
-
-### The Shack
-*Released on 2017-03-03, vote average 6.7*
-
-After suffering a family tragedy, Mack Phillips spirals into a deep depression causing him to question his innermost beliefs. Facing a crisis of faith, he receives a mysterious letter urging him to an abandoned shack deep in the Oregon wilderness. Despite his doubts, Mack journeys to the shack and encounters an enigmatic trio of strangers led by a woman named Papa. Through this meeting, Mack finds important truths that will transform his understanding of his tragedy and change his life forever.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/CL0yUbSS5Eg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Kidnap
-*Released on 2017-03-10, vote average 10*
-
-Single mother Karla McCoy lives a perfect life with her young son Frankie. One day, upon entering a local park, Karla sees her son suddenly being abducted out of the blue by a kidnapper. To save Frankie from being taken, Karla goes out on a mission to demand people in the city to help rescue her son.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/R-Ht8VRPRvU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -175,6 +136,11 @@ In Justine’s family everyone is a vet and a vegetarian. At 16, she’s a gifte
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -203,28 +169,89 @@ Badrinath Ki Dulhania is an upcoming Indian romantic drama film, directed by Sha
 
 
 	
-
-  
-
-
 	
 
-  
+### The Shack
+*Released on 2017-03-03, vote average 6.9*
 
-
-	
-	
-
-### Devil in the Dark
-*Released on 2017-03-07, vote average 5.7*
-
-When estranged brothers Adam and Clint attempt to reconnect over a week-long hunting trip in remote British Columbia, they find the tables turned by a mysterious presence lurking in the forest.  Convinced that they are now besieged by a supernatural presence, the siblings begrudgingly agree on only one thing: they will have to put aside their differences and work together if they plan on making it out these dark woods alive.
+After suffering a family tragedy, Mack Phillips spirals into a deep depression causing him to question his innermost beliefs. Facing a crisis of faith, he receives a mysterious letter urging him to an abandoned shack deep in the Oregon wilderness. Despite his doubts, Mack journeys to the shack and encounters an enigmatic trio of strangers led by a woman named Papa. Through this meeting, Mack finds important truths that will transform his understanding of his tragedy and change his life forever.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/A8gVpR0effg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/CL0yUbSS5Eg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Before I Fall
+*Released on 2017-03-03, vote average 4.1*
+
+Samantha Kingston has everything. Then, everything changes. After one fateful night, she wakes up with no future at all. Trapped into reliving the same day over and over, she begins to question just how perfect her life really was.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Dkd56TX4guU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Disparate, Shifty Fate
+*Released on 2017-03-15, vote average 10*
+
+Wax and wane until there is naught but boring pain.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2k9YbzuuN1g?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -236,58 +263,31 @@ When estranged brothers Adam and Clint attempt to reconnect over a week-long hun
 
 	
 	
-	
 
-  
+### Finds Itself in Corners
+*Released on 2017-03-15, vote average 10*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Institute
-*Released on 2017-03-03, vote average 4.7*
-
-In 19th century Baltimore, Isabel Porter, a girl stricken with grief from her parents&#39; untimely death, voluntarily checks herself into the Rosewood Institute. Subjected to bizarre and increasingly violent pseudo-scientific experiments in personality modification, brainwashing and mind control, she must escape the clutches of the Rosewood and exact her revenge, or else be forever lost.
+Lines align during acclimated apexes, shadowy vertices, and bright burrows.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/yDWj_g6haNw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/jBbn_MHxoD4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -303,6 +303,23 @@ In 19th century Baltimore, Isabel Porter, a girl stricken with grief from her pa
 
 	
 
+	
+	
+
+### The Boss Baby
+*Released on 2017-03-23, vote average 7.5*
+
+A story about how a new baby&#39;s arrival impacts a family, told from the point of view of a delightfully unreliable narrator, a wildly imaginative 7 year old named Tim.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Ud8j5GaqH3c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
