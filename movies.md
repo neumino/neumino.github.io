@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Kong: Skull Island
-*Released on 2017-03-08, vote average 6*
+*Released on 2017-03-08, vote average 6.1*
 
 Explore the mysterious and dangerous home of the king of the apes as a team of explorers ventures deep inside the treacherous, primordial island.
 
@@ -47,7 +47,7 @@ Explore the mysterious and dangerous home of the king of the apes as a team of e
 	
 
 ### Beauty and the Beast
-*Released on 2017-03-15, vote average 6.3*
+*Released on 2017-03-15, vote average 7*
 
 A live-action adaptation of Disney&#39;s version of the classic &#39;Beauty and the Beast&#39; tale of a cursed prince and a beautiful young woman who helps him break the spell.
 
@@ -66,6 +66,28 @@ A live-action adaptation of Disney&#39;s version of the classic &#39;Beauty and 
 
 
 	
+	
+
+### Raw
+*Released on 2017-03-10, vote average 6.3*
+
+In Justine’s family everyone is a vet and a vegetarian. At 16, she’s a gifted teen ready to take on her first year in vet school, where her older sister also studies. There, she gets no time to settle: hazing starts right away. Justine is forced to eat raw meat for the first time in her life. Unexpected consequences emerge as her true self begins to form.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/gFlXVX2af_Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 
   
 
@@ -73,20 +95,25 @@ A live-action adaptation of Disney&#39;s version of the classic &#39;Beauty and 
 	
 	
 
-### Tangled: Before Ever After
-*Released on 2017-03-10, vote average 7.5*
+### Song to Song
+*Released on 2017-03-17, vote average 9*
 
-Rapunzel grapples with the responsibilities of being a princess and the overprotective ways of her father. While she wholeheartedly loves Eugene, Rapunzel does not share his immediate desire to get married and settle down within the castle walls. Determined to live life on her own terms, she and her tough-as-nails Lady-in-Waiting Cassandra embark on a secret adventure where they encounter mystical rocks that magically cause Rapunzel&#39;s long blonde hair to grow back. Impossible to break and difficult to hide, Rapunzel must learn to embrace her hair and all that it represents.
+In this modern love story set against the Austin, Texas music scene, two entangled couples — struggling songwriters Faye and BV, and music mogul Cook and the waitress whom he ensnares — chase success through a rock ‘n’ roll landscape of seduction and betrayal.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/jHjWcahauZc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/O4SrVkj84zc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -105,6 +132,28 @@ A true-life drama, centering on British explorer Col. Percival Fawcett, who disa
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/hjqtP459uo8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Tangled: Before Ever After
+*Released on 2017-03-10, vote average 7.5*
+
+Rapunzel grapples with the responsibilities of being a princess and the overprotective ways of her father. While she wholeheartedly loves Eugene, Rapunzel does not share his immediate desire to get married and settle down within the castle walls. Determined to live life on her own terms, she and her tough-as-nails Lady-in-Waiting Cassandra embark on a secret adventure where they encounter mystical rocks that magically cause Rapunzel&#39;s long blonde hair to grow back. Impossible to break and difficult to hide, Rapunzel must learn to embrace her hair and all that it represents.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jHjWcahauZc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -147,38 +196,6 @@ Badrinath Ki Dulhania is an upcoming Indian romantic drama film, directed by Sha
 
 
 	
-
-  
-
-
-	
-	
-
-### Raw
-*Released on 2017-03-10, vote average 6.3*
-
-In Justine’s family everyone is a vet and a vegetarian. At 16, she’s a gifted teen ready to take on her first year in vet school, where her older sister also studies. There, she gets no time to settle: hazing starts right away. Justine is forced to eat raw meat for the first time in her life. Unexpected consequences emerge as her true self begins to form.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/gFlXVX2af_Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 	
 
@@ -220,6 +237,8 @@ In Justine’s family everyone is a vet and a vegetarian. At 16, she’s a gifte
   
 
 
+	
+	
 	
 
   
@@ -230,10 +249,12 @@ In Justine’s family everyone is a vet and a vegetarian. At 16, she’s a gifte
 
 
 	
+
+	
 	
 
 ### The Boss Baby
-*Released on 2017-03-23, vote average 7.5*
+*Released on 2017-03-23, vote average 6.7*
 
 A story about how a new baby&#39;s arrival impacts a family, told from the point of view of a delightfully unreliable narrator, a wildly imaginative 7 year old named Tim.
 
@@ -246,8 +267,6 @@ A story about how a new baby&#39;s arrival impacts a family, told from the point
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
