@@ -47,7 +47,7 @@ Explore the mysterious and dangerous home of the king of the apes as a team of e
 	
 
 ### Beauty and the Beast
-*Released on 2017-03-15, vote average 7*
+*Released on 2017-03-15, vote average 7.1*
 
 A live-action adaptation of Disney&#39;s version of the classic &#39;Beauty and the Beast&#39; tale of a cursed prince and a beautiful young woman who helps him break the spell.
 
@@ -65,23 +65,6 @@ A live-action adaptation of Disney&#39;s version of the classic &#39;Beauty and 
   
 
 
-	
-	
-
-### Song to Song
-*Released on 2017-03-17, vote average 9*
-
-In this modern love story set against the Austin, Texas music scene, two entangled couples — struggling songwriters Faye and BV, and music mogul Cook and the waitress whom he ensnares — chase success through a rock ‘n’ roll landscape of seduction and betrayal.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/O4SrVkj84zc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -132,11 +115,6 @@ A true-life drama, centering on British explorer Col. Percival Fawcett, who disa
 
 
 	
-
-  
-
-
-	
 	
 
 ### Raw
@@ -159,10 +137,42 @@ In Justine’s family everyone is a vet and a vegetarian. At 16, she’s a gifte
 
 
 	
+
+  
+
+
+	
+	
+
+### Song to Song
+*Released on 2017-03-17, vote average 9*
+
+In this modern love story set against the Austin, Texas music scene, two entangled couples — struggling songwriters Faye and BV, and music mogul Cook and the waitress whom he ensnares — chase success through a rock ‘n’ roll landscape of seduction and betrayal.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/O4SrVkj84zc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### Tangled: Before Ever After
-*Released on 2017-03-10, vote average 7.5*
+*Released on 2017-03-10, vote average 6.9*
 
 Rapunzel grapples with the responsibilities of being a princess and the overprotective ways of her father. While she wholeheartedly loves Eugene, Rapunzel does not share his immediate desire to get married and settle down within the castle walls. Determined to live life on her own terms, she and her tough-as-nails Lady-in-Waiting Cassandra embark on a secret adventure where they encounter mystical rocks that magically cause Rapunzel&#39;s long blonde hair to grow back. Impossible to break and difficult to hide, Rapunzel must learn to embrace her hair and all that it represents.
 
@@ -191,10 +201,20 @@ Rapunzel grapples with the responsibilities of being a princess and the overprot
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### Badrinath Ki Dulhania
-*Released on 2017-03-10, vote average 8*
+*Released on 2017-03-10, vote average 6.4*
 
 Badrinath Ki Dulhania is an upcoming Indian romantic drama film, directed by Shashank Khaitan, and produced by Karan Johar under the Dharma Productions banner. Starring Varun Dhawan and Alia Bhatt, the film marks the second installment of a franchise that began with Humpty Sharma Ki Dulhania (2014).
 
@@ -223,42 +243,7 @@ Badrinath Ki Dulhania is an upcoming Indian romantic drama film, directed by Sha
 
 
 	
-
-  
-
-
 	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Live From The Fox Oakland - Tedeschi Trucks Band
-*Released on 2017-03-17, vote average 8*
-
-A concert film about Grammy Award-winning Tedeschi Trucks Band&#39;s 2016 show at the historic Fox Theatre in Oakland, California.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/oSks5LyI6NM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -290,11 +275,13 @@ A story about how a new baby&#39;s arrival impacts a family, told from the point
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/tquIfapGVqs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Ud8j5GaqH3c?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
@@ -314,8 +301,6 @@ The six-member crew of the International Space Station is tasked with studying a
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
