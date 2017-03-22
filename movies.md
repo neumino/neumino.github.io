@@ -74,37 +74,15 @@ A live-action adaptation of Disney&#39;s version of the classic &#39;Beauty and 
 	
 
 ### The Belko Experiment
-*Released on 2017-03-17, vote average 8.5*
+*Released on 2017-03-17, vote average 8.3*
 
-In a twisted social experiment, a group of 80 Americans are locked in their high-rise corporate office in Bogata, Colombia and ordered by an unknown voice coming from the company&#39;s intercom system to participate in a deadly game of kill or be killed.
+In a twisted social experiment, a group of 80 Americans are locked in their high-rise corporate office in Bogotá, Colombia and ordered by an unknown voice coming from the company&#39;s intercom system to participate in a deadly game of kill or be killed.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/qZNfwayNLL0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Lost City of Z
-*Released on 2017-03-15, vote average 7*
-
-A true-life drama, centering on British explorer Col. Percival Fawcett, who disappeared while searching for a mysterious city in the Amazon in the 1920s.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hjqtP459uo8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -136,6 +114,45 @@ In Justine’s family everyone is a vet and a vegetarian. At 16, she’s a gifte
   
 
 
+	
+	
+
+### The Lost City of Z
+*Released on 2017-03-15, vote average 5.5*
+
+A true-life drama, centering on British explorer Col. Percival Fawcett, who disappeared while searching for a mysterious city in the Amazon in the 1920s.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hjqtP459uo8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Tangled: Before Ever After
+*Released on 2017-03-10, vote average 6.9*
+
+Rapunzel grapples with the responsibilities of being a princess and the overprotective ways of her father. While she wholeheartedly loves Eugene, Rapunzel does not share his immediate desire to get married and settle down within the castle walls. Determined to live life on her own terms, she and her tough-as-nails Lady-in-Waiting Cassandra embark on a secret adventure where they encounter mystical rocks that magically cause Rapunzel&#39;s long blonde hair to grow back. Impossible to break and difficult to hide, Rapunzel must learn to embrace her hair and all that it represents.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jHjWcahauZc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -171,16 +188,87 @@ In this modern love story set against the Austin, Texas music scene, two entangl
 	
 	
 
-### Tangled: Before Ever After
-*Released on 2017-03-10, vote average 6.9*
+### The Devil&#39;s Candy
+*Released on 2017-03-17, vote average 6.5*
 
-Rapunzel grapples with the responsibilities of being a princess and the overprotective ways of her father. While she wholeheartedly loves Eugene, Rapunzel does not share his immediate desire to get married and settle down within the castle walls. Determined to live life on her own terms, she and her tough-as-nails Lady-in-Waiting Cassandra embark on a secret adventure where they encounter mystical rocks that magically cause Rapunzel&#39;s long blonde hair to grow back. Impossible to break and difficult to hide, Rapunzel must learn to embrace her hair and all that it represents.
+A struggling painter is possessed by satanic forces after he and his young family move into their dream home in rural Texas, in this creepy haunted-house tale.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/jHjWcahauZc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/q2P4xPmgbTs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Trapped
+*Released on 2017-03-17, vote average 10*
+
+A man gets stuck in an empty high rise without food, water or electricity.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/RJaj39jI-qk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Dave Chappelle: The Age of Spin
+*Released on 2017-03-21, vote average 8*
+
+Comedy icon Dave Chappelle makes his triumphant return to the screen with a pair of blistering, fresh stand-up specials. Filmed at The Palladium in Los Angeles, California, in March 2016.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0TRqE7rmi3g?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -201,59 +289,7 @@ Rapunzel grapples with the responsibilities of being a princess and the overprot
 
 
 	
-
-  
-
-
 	
-
-  
-
-
-	
-	
-
-### Badrinath Ki Dulhania
-*Released on 2017-03-10, vote average 6.4*
-
-Badrinath Ki Dulhania is an upcoming Indian romantic drama film, directed by Shashank Khaitan, and produced by Karan Johar under the Dharma Productions banner. Starring Varun Dhawan and Alia Bhatt, the film marks the second installment of a franchise that began with Humpty Sharma Ki Dulhania (2014).
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ztX-iGlZ_Ug?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -275,7 +311,7 @@ A story about how a new baby&#39;s arrival impacts a family, told from the point
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Ud8j5GaqH3c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/tquIfapGVqs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -288,7 +324,7 @@ A story about how a new baby&#39;s arrival impacts a family, told from the point
 	
 
 ### Life
-*Released on 2017-03-23, vote average 6.8*
+*Released on 2017-03-23, vote average 8.4*
 
 The six-member crew of the International Space Station is tasked with studying a sample from Mars that may be the first proof of extra-terrestrial life, which proves more intelligent than ever expected.
 
