@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Beauty and the Beast
-*Released on 2017-03-15, vote average 7.1*
+*Released on 2017-03-15, vote average 7.2*
 
 A live-action adaptation of Disney&#39;s version of the classic &#39;Beauty and the Beast&#39; tale of a cursed prince and a beautiful young woman who helps him break the spell.
 
@@ -47,7 +47,7 @@ A live-action adaptation of Disney&#39;s version of the classic &#39;Beauty and 
 	
 
 ### The Boss Baby
-*Released on 2017-03-23, vote average 6.1*
+*Released on 2017-03-23, vote average 6.2*
 
 A story about how a new baby&#39;s arrival impacts a family, told from the point of view of a delightfully unreliable narrator, a wildly imaginative 7 year old named Tim.
 
@@ -68,30 +68,8 @@ A story about how a new baby&#39;s arrival impacts a family, told from the point
 	
 	
 
-### Power Rangers
-*Released on 2017-03-23, vote average 5.5*
-
-A group of high-school kids, who are infused with unique superpowers, harness their abilities in order to save the world.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/5kIe6UZHSXw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Life
-*Released on 2017-03-23, vote average 6.3*
+*Released on 2017-03-23, vote average 5.5*
 
 The six-member crew of the International Space Station is tasked with studying a sample from Mars that may be the first proof of extra-terrestrial life, which proves more intelligent than ever expected.
 
@@ -111,6 +89,28 @@ The six-member crew of the International Space Station is tasked with studying a
 
 	
 	
+
+### Power Rangers
+*Released on 2017-03-23, vote average 6.4*
+
+Saban&#39;s Power Rangers follows five ordinary teens who must become something extraordinary when they learn that their small town of Angel Grove — and the world — is on the verge of being obliterated by an alien threat. Chosen by destiny, our heroes quickly discover they are the only ones who can save the planet. But to do so, they will have to overcome their real-life issues and before it’s too late, band together as the Power Rangers.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5kIe6UZHSXw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -119,16 +119,16 @@ The six-member crew of the International Space Station is tasked with studying a
 	
 	
 
-### The Lost City of Z
-*Released on 2017-03-15, vote average 5.5*
+### CHiPS
+*Released on 2017-03-23, vote average 2.8*
 
-A true-life drama, centering on British explorer Col. Percival Fawcett, who disappeared while searching for a mysterious city in the Amazon in the 1920s.
+The adventures of two California Highway Patrol motorcycle officers as they make their rounds on the freeways of Los Angeles.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/hjqtP459uo8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/nmgeiznfdLI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -142,7 +142,7 @@ A true-life drama, centering on British explorer Col. Percival Fawcett, who disa
 	
 
 ### Raw
-*Released on 2017-03-10, vote average 6.9*
+*Released on 2017-03-10, vote average 6.8*
 
 In Justine’s family everyone is a vet and a vegetarian. At 16, she’s a gifted teen ready to take on her first year in vet school, where her older sister also studies. There, she gets no time to settle: hazing starts right away. Justine is forced to eat raw meat for the first time in her life. Unexpected consequences emerge as her true self begins to form.
 
@@ -163,8 +163,30 @@ In Justine’s family everyone is a vet and a vegetarian. At 16, she’s a gifte
 	
 	
 
+### The Lost City of Z
+*Released on 2017-03-15, vote average 5.6*
+
+A true-life drama, centering on British explorer Col. Percival Fawcett, who disappeared while searching for a mysterious city in the Amazon in the 1920s.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hjqtP459uo8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Belko Experiment
-*Released on 2017-03-17, vote average 8.3*
+*Released on 2017-03-17, vote average 8.6*
 
 In a twisted social experiment, a group of 80 Americans are locked in their high-rise corporate office in Bogotá, Colombia and ordered by an unknown voice coming from the company&#39;s intercom system to participate in a deadly game of kill or be killed.
 
@@ -183,37 +205,10 @@ In a twisted social experiment, a group of 80 Americans are locked in their high
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### The Devil&#39;s Candy
-*Released on 2017-03-17, vote average 6.5*
+*Released on 2017-03-17, vote average 7.8*
 
 A struggling painter is possessed by satanic forces after he and his young family move into their dream home in rural Texas, in this creepy haunted-house tale.
 
@@ -232,18 +227,23 @@ A struggling painter is possessed by satanic forces after he and his young famil
 
 
 	
+
+  
+
+
+	
 	
 
-### Atomica
-*Released on 2017-03-21, vote average 10*
+### Dave Chappelle: The Age of Spin
+*Released on 2017-03-21, vote average 8.3*
 
-An Amercian scientific research facility opens a portal to a hostile alien world, who begin to invade the earth.
+Comedy icon Dave Chappelle makes his triumphant return to the screen with a pair of blistering, fresh stand-up specials. Filmed at The Palladium in Los Angeles, California, in March 2016.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/hfH4kJm0Kwc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/0TRqE7rmi3g?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -261,16 +261,16 @@ An Amercian scientific research facility opens a portal to a hostile alien world
 	
 	
 
-### Tangled: Before Ever After
-*Released on 2017-03-10, vote average 6.6*
+### Wilson
+*Released on 2017-03-24, vote average 6*
 
-Rapunzel grapples with the responsibilities of being a princess and the overprotective ways of her father. While she wholeheartedly loves Eugene, Rapunzel does not share his immediate desire to get married and settle down within the castle walls. Determined to live life on her own terms, she and her tough-as-nails Lady-in-Waiting Cassandra embark on a secret adventure where they encounter mystical rocks that magically cause Rapunzel&#39;s long blonde hair to grow back. Impossible to break and difficult to hide, Rapunzel must learn to embrace her hair and all that it represents.
+The middle-aged, divorced Wilson, who lives in Oakland, California, finds himself lonely, smug and obsessed with his past.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/jHjWcahauZc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/7Hf305QmNXc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -281,22 +281,42 @@ Rapunzel grapples with the responsibilities of being a princess and the overprot
 
 
 	
+
+  
+
+
 	
 
-### Complainant
-*Released on 2017-03-21, vote average 10*
+  
 
-There is nothing left to do but complain.
+
+	
+	
+
+### Dave Chappelle: Deep in the Heart of Texas
+*Released on 2017-03-21, vote average 9.5*
+
+Comedy icon Dave Chappelle makes his triumphant return to the screen with a pair of blistering, fresh stand-up specials. Filmed at the Moody Theater in Austin, Texas, in April 2015.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/fgXnWLNe5zw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/0TRqE7rmi3g?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -324,11 +344,6 @@ In this modern love story set against the Austin, Texas music scene, two entangl
   
 
 
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -336,65 +351,8 @@ In this modern love story set against the Austin, Texas music scene, two entangl
 	
 	
 
-### The Boss Baby
-*Released on 2017-03-23, vote average 6.1*
-
-A story about how a new baby&#39;s arrival impacts a family, told from the point of view of a delightfully unreliable narrator, a wildly imaginative 7 year old named Tim.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Ud8j5GaqH3c?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Power Rangers
-*Released on 2017-03-23, vote average 5.5*
-
-A group of high-school kids, who are infused with unique superpowers, harness their abilities in order to save the world.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/5kIe6UZHSXw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Life
-*Released on 2017-03-23, vote average 6.3*
-
-The six-member crew of the International Space Station is tasked with studying a sample from Mars that may be the first proof of extra-terrestrial life, which proves more intelligent than ever expected.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Heiy3mP9IIM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
 ### Ghost in the Shell
-*Released on 2017-03-29, vote average 8.5*
+*Released on 2017-03-29, vote average 7*
 
 Based on the internationally-acclaimed sci-fi property, &#34;GHOST IN THE SHELL&#34; follows the Major, a special ops, one-of-a-kind human-cyborg hybrid, who leads the elite task force Section 9. Devoted to stopping the most dangerous criminals and extremists, Section 9 is faced with an enemy whose singular goal is to wipe out Hanka Robotic&#39;s advancements in cyber technology.
 
@@ -402,7 +360,30 @@ Based on the internationally-acclaimed sci-fi property, &#34;GHOST IN THE SHELL&
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/HapT0SKcyfY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xTPvnQ2wDlI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+	
+
+### Wilson
+*Released on 2017-03-24, vote average 6*
+
+The middle-aged, divorced Wilson, who lives in Oakland, California, finds himself lonely, smug and obsessed with his past.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/7Hf305QmNXc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -420,13 +401,32 @@ Based on the internationally-acclaimed sci-fi property, &#34;GHOST IN THE SHELL&
 	
 
 	
+	
 
+### Red Nose Day Actually
+*Released on 2017-03-24, vote average 8*
+
+Fourteen years after the events of the first film, a series of encounters between people in Britain reminds us that in these different times; Love, Actually exists.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fRdsw7ceQg8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
 
 	
 
+	
+
+	
+	
 	
 
 	
