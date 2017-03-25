@@ -46,30 +46,8 @@ A live-action adaptation of Disney&#39;s version of the classic &#39;Beauty and 
 	
 	
 
-### The Boss Baby
-*Released on 2017-03-23, vote average 6.2*
-
-A story about how a new baby&#39;s arrival impacts a family, told from the point of view of a delightfully unreliable narrator, a wildly imaginative 7 year old named Tim.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Ud8j5GaqH3c?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Life
-*Released on 2017-03-23, vote average 5.5*
+*Released on 2017-03-23, vote average 6*
 
 The six-member crew of the International Space Station is tasked with studying a sample from Mars that may be the first proof of extra-terrestrial life, which proves more intelligent than ever expected.
 
@@ -91,7 +69,7 @@ The six-member crew of the International Space Station is tasked with studying a
 	
 
 ### Power Rangers
-*Released on 2017-03-23, vote average 6.4*
+*Released on 2017-03-23, vote average 6.7*
 
 Saban&#39;s Power Rangers follows five ordinary teens who must become something extraordinary when they learn that their small town of Angel Grove — and the world — is on the verge of being obliterated by an alien threat. Chosen by destiny, our heroes quickly discover they are the only ones who can save the planet. But to do so, they will have to overcome their real-life issues and before it’s too late, band together as the Power Rangers.
 
@@ -100,6 +78,28 @@ Saban&#39;s Power Rangers follows five ordinary teens who must become something 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/5kIe6UZHSXw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Boss Baby
+*Released on 2017-03-23, vote average 6*
+
+A story about how a new baby&#39;s arrival impacts a family, told from the point of view of a delightfully unreliable narrator, a wildly imaginative 7 year old named Tim.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Ud8j5GaqH3c?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -139,22 +139,69 @@ The adventures of two California Highway Patrol motorcycle officers as they make
 
 
 	
+
+  
+
+
+	
 	
 
-### Raw
-*Released on 2017-03-10, vote average 6.8*
+### Wilson
+*Released on 2017-03-24, vote average 6*
 
-In Justine’s family everyone is a vet and a vegetarian. At 16, she’s a gifted teen ready to take on her first year in vet school, where her older sister also studies. There, she gets no time to settle: hazing starts right away. Justine is forced to eat raw meat for the first time in her life. Unexpected consequences emerge as her true self begins to form.
+The middle-aged, divorced Wilson, who lives in Oakland, California, finds himself lonely, smug and obsessed with his past.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/gFlXVX2af_Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/7Hf305QmNXc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Atomica
+*Released on 2017-03-21, vote average 6.8*
+
+An Amercian scientific research facility opens a portal to a hostile alien world, who begin to invade the earth.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hfH4kJm0Kwc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -177,6 +224,60 @@ A true-life drama, centering on British explorer Col. Percival Fawcett, who disa
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Dave Chappelle: Deep in the Heart of Texas
+*Released on 2017-03-21, vote average 9.5*
+
+Comedy icon Dave Chappelle makes his triumphant return to the screen with a pair of blistering, fresh stand-up specials. Filmed at the Moody Theater in Austin, Texas, in April 2015.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0TRqE7rmi3g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Dave Chappelle: The Age of Spin
+*Released on 2017-03-21, vote average 7.8*
+
+Comedy icon Dave Chappelle makes his triumphant return to the screen with a pair of blistering, fresh stand-up specials. Filmed at The Palladium in Los Angeles, California, in March 2016.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0TRqE7rmi3g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -226,124 +327,6 @@ A struggling painter is possessed by satanic forces after he and his young famil
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Dave Chappelle: The Age of Spin
-*Released on 2017-03-21, vote average 8.3*
-
-Comedy icon Dave Chappelle makes his triumphant return to the screen with a pair of blistering, fresh stand-up specials. Filmed at The Palladium in Los Angeles, California, in March 2016.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0TRqE7rmi3g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Wilson
-*Released on 2017-03-24, vote average 6*
-
-The middle-aged, divorced Wilson, who lives in Oakland, California, finds himself lonely, smug and obsessed with his past.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/7Hf305QmNXc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Dave Chappelle: Deep in the Heart of Texas
-*Released on 2017-03-21, vote average 9.5*
-
-Comedy icon Dave Chappelle makes his triumphant return to the screen with a pair of blistering, fresh stand-up specials. Filmed at the Moody Theater in Austin, Texas, in April 2015.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0TRqE7rmi3g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Song to Song
-*Released on 2017-03-17, vote average 9*
-
-In this modern love story set against the Austin, Texas music scene, two entangled couples — struggling songwriters Faye and BV, and music mogul Cook and the waitress whom he ensnares — chase success through a rock ‘n’ roll landscape of seduction and betrayal.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/O4SrVkj84zc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -352,7 +335,7 @@ In this modern love story set against the Austin, Texas music scene, two entangl
 	
 
 ### Ghost in the Shell
-*Released on 2017-03-29, vote average 7*
+*Released on 2017-03-29, vote average 6.3*
 
 Based on the internationally-acclaimed sci-fi property, &#34;GHOST IN THE SHELL&#34; follows the Major, a special ops, one-of-a-kind human-cyborg hybrid, who leads the elite task force Section 9. Devoted to stopping the most dangerous criminals and extremists, Section 9 is faced with an enemy whose singular goal is to wipe out Hanka Robotic&#39;s advancements in cyber technology.
 
@@ -372,21 +355,10 @@ Based on the internationally-acclaimed sci-fi property, &#34;GHOST IN THE SHELL&
 	
 
 	
+
 	
 
-### Wilson
-*Released on 2017-03-24, vote average 6*
-
-The middle-aged, divorced Wilson, who lives in Oakland, California, finds himself lonely, smug and obsessed with his past.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/7Hf305QmNXc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
+	
 	
 	
 
@@ -401,32 +373,9 @@ The middle-aged, divorced Wilson, who lives in Oakland, California, finds himsel
 	
 
 	
-	
-
-### Red Nose Day Actually
-*Released on 2017-03-24, vote average 8*
-
-Fourteen years after the events of the first film, a series of encounters between people in Britain reminds us that in these different times; Love, Actually exists.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/fRdsw7ceQg8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
-	
-
-	
-
-	
-	
 	
 
 	
