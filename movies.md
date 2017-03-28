@@ -69,7 +69,7 @@ The six-member crew of the International Space Station is tasked with studying a
 	
 
 ### Power Rangers
-*Released on 2017-03-23, vote average 7*
+*Released on 2017-03-23, vote average 6.8*
 
 Saban&#39;s Power Rangers follows five ordinary teens who must become something extraordinary when they learn that their small town of Angel Grove — and the world — is on the verge of being obliterated by an alien threat. Chosen by destiny, our heroes quickly discover they are the only ones who can save the planet. But to do so, they will have to overcome their real-life issues and before it’s too late, band together as the Power Rangers.
 
@@ -99,7 +99,7 @@ A story about how a new baby&#39;s arrival impacts a family, told from the point
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Ud8j5GaqH3c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/tquIfapGVqs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -117,26 +117,6 @@ A story about how a new baby&#39;s arrival impacts a family, told from the point
 
 
 	
-
-  
-
-
-	
-	
-
-### CHiPS
-*Released on 2017-03-23, vote average 2.8*
-
-The adventures of two California Highway Patrol motorcycle officers as they make their rounds on the freeways of Los Angeles.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nmgeiznfdLI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -147,7 +127,7 @@ The adventures of two California Highway Patrol motorcycle officers as they make
 	
 
 ### Bokeh
-*Released on 2017-03-24, vote average 4.5*
+*Released on 2017-03-24, vote average 4.7*
 
 On a romantic getaway to Iceland, a young American couple wake up one morning to discover every person on Earth has disappeared. Their struggle to survive and to reconcile the mysterious event lead them to reconsider everything they know about themselves and the world.
 
@@ -168,38 +148,16 @@ On a romantic getaway to Iceland, a young American couple wake up one morning to
 	
 	
 
-### Dave Chappelle: Deep in the Heart of Texas
-*Released on 2017-03-21, vote average 7.9*
+### CHiPS
+*Released on 2017-03-23, vote average 2.8*
 
-Comedy icon Dave Chappelle makes his triumphant return to the screen with a pair of blistering, fresh stand-up specials. Filmed at the Moody Theater in Austin, Texas, in April 2015.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0TRqE7rmi3g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Red Nose Day Actually
-*Released on 2017-03-24, vote average 8*
-
-Fourteen years after the events of the first film, a series of encounters between people in Britain reminds us that in these different times Love, actually exists.
+The adventures of two California Highway Patrol motorcycle officers as they make their rounds on the freeways of Los Angeles.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/fRdsw7ceQg8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/nmgeiznfdLI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -256,16 +214,73 @@ A struggling painter is possessed by satanic forces after he and his young famil
 	
 	
 
-### Stalker&#39;s Prey
-*Released on 2017-03-25, vote average 7*
+### Dave Chappelle: Deep in the Heart of Texas
+*Released on 2017-03-21, vote average 7.9*
 
-Laura&#39;s life is turned upside down when she is attacked by a shark while celebrating her 18th birthday. She&#39;s rescued by Bruce, a handsome young man just returned home from college. As she recovers, he becomes a local hero for his bravery. As the dust settles, Bruce seems smitten with his damsel in distress, but Laura is not ready to move past the boyfriend she lost in the attack.
+Comedy icon Dave Chappelle makes his triumphant return to the screen with a pair of blistering, fresh stand-up specials. Filmed at the Moody Theater in Austin, Texas, in April 2015.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/0kF20wOLBWA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/0TRqE7rmi3g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Red Nose Day Actually
+*Released on 2017-03-24, vote average 8*
+
+Fourteen years after the events of the first film, a series of encounters between people in Britain reminds us that in these different times Love, actually exists.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fRdsw7ceQg8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -297,72 +312,6 @@ The middle-aged, divorced Wilson, who lives in Oakland, California, finds himsel
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Belko Experiment
-*Released on 2017-03-17, vote average 8.6*
-
-In a twisted social experiment, a group of 80 Americans are locked in their high-rise corporate office in Bogotá, Colombia and ordered by an unknown voice coming from the company&#39;s intercom system to participate in a deadly game of kill or be killed.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qZNfwayNLL0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Atomica
-*Released on 2017-03-21, vote average 6.8*
-
-An Amercian scientific research facility opens a portal to a hostile alien world, who begin to invade the earth.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hfH4kJm0Kwc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -379,7 +328,7 @@ Based on the internationally-acclaimed sci-fi property, &#34;GHOST IN THE SHELL&
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xTPvnQ2wDlI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/HapT0SKcyfY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
