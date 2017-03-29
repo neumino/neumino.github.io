@@ -69,7 +69,7 @@ The six-member crew of the International Space Station is tasked with studying a
 	
 
 ### Power Rangers
-*Released on 2017-03-23, vote average 6.8*
+*Released on 2017-03-23, vote average 6.7*
 
 Saban&#39;s Power Rangers follows five ordinary teens who must become something extraordinary when they learn that their small town of Angel Grove — and the world — is on the verge of being obliterated by an alien threat. Chosen by destiny, our heroes quickly discover they are the only ones who can save the planet. But to do so, they will have to overcome their real-life issues and before it’s too late, band together as the Power Rangers.
 
@@ -91,7 +91,7 @@ Saban&#39;s Power Rangers follows five ordinary teens who must become something 
 	
 
 ### The Boss Baby
-*Released on 2017-03-23, vote average 5.8*
+*Released on 2017-03-23, vote average 6.4*
 
 A story about how a new baby&#39;s arrival impacts a family, told from the point of view of a delightfully unreliable narrator, a wildly imaginative 7 year old named Tim.
 
@@ -111,34 +111,34 @@ A story about how a new baby&#39;s arrival impacts a family, told from the point
 
 	
 	
-	
 
-  
+### Ghost in the Shell
+*Released on 2017-03-29, vote average 5.8*
 
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Bokeh
-*Released on 2017-03-24, vote average 4.7*
-
-On a romantic getaway to Iceland, a young American couple wake up one morning to discover every person on Earth has disappeared. Their struggle to survive and to reconcile the mysterious event lead them to reconsider everything they know about themselves and the world.
+Based on the internationally-acclaimed sci-fi property, GHOST IN THE SHELL follows the Major, a special ops, one-of-a-kind human-cyborg hybrid, who leads the elite task force Section 9. Devoted to stopping the most dangerous criminals and extremists, Section 9 is faced with an enemy whose singular goal is to wipe out Hanka Robotic’s advancements in cyber technology.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/bJHoVWg8YDw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xTPvnQ2wDlI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -168,18 +168,23 @@ The adventures of two California Highway Patrol motorcycle officers as they make
 
 
 	
+
+  
+
+
+	
 	
 
-### Dave Chappelle: The Age of Spin
-*Released on 2017-03-21, vote average 7.9*
+### Red Nose Day Actually
+*Released on 2017-03-24, vote average 8*
 
-Comedy icon Dave Chappelle makes his triumphant return to the screen with a pair of blistering, fresh stand-up specials. Filmed at The Palladium in Los Angeles, California, in March 2016.
+Fourteen years after the events of the first film, a series of encounters between people in Britain reminds us that in these different times Love, actually exists.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/0TRqE7rmi3g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/fRdsw7ceQg8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -192,16 +197,38 @@ Comedy icon Dave Chappelle makes his triumphant return to the screen with a pair
 	
 	
 
-### The Devil&#39;s Candy
-*Released on 2017-03-17, vote average 7.2*
+### Bokeh
+*Released on 2017-03-24, vote average 5.1*
 
-A struggling painter is possessed by satanic forces after he and his young family move into their dream home in rural Texas, in this creepy haunted-house tale.
+On a romantic getaway to Iceland, a young American couple wake up one morning to discover every person on Earth has disappeared. Their struggle to survive and to reconcile the mysterious event lead them to reconsider everything they know about themselves and the world.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/q2P4xPmgbTs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/bJHoVWg8YDw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Dave Chappelle: The Age of Spin
+*Released on 2017-03-21, vote average 7.9*
+
+Comedy icon Dave Chappelle makes his triumphant return to the screen with a pair of blistering, fresh stand-up specials. Filmed at The Palladium in Los Angeles, California, in March 2016.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0TRqE7rmi3g?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -239,48 +266,18 @@ Comedy icon Dave Chappelle makes his triumphant return to the screen with a pair
 
 
 	
-
-  
-
-
 	
 
-  
+### The Devil&#39;s Candy
+*Released on 2017-03-17, vote average 7.2*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Red Nose Day Actually
-*Released on 2017-03-24, vote average 8*
-
-Fourteen years after the events of the first film, a series of encounters between people in Britain reminds us that in these different times Love, actually exists.
+A struggling painter is possessed by satanic forces after he and his young family move into their dream home in rural Texas, in this creepy haunted-house tale.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/fRdsw7ceQg8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/q2P4xPmgbTs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -291,22 +288,44 @@ Fourteen years after the events of the first film, a series of encounters betwee
 
 
 	
+
+  
+
+
+	
 	
 
-### Wilson
-*Released on 2017-03-24, vote average 6*
+### The Belko Experiment
+*Released on 2017-03-17, vote average 8.6*
 
-The middle-aged, divorced Wilson, who lives in Oakland, California, finds himself lonely, smug and obsessed with his past.
+In a twisted social experiment, a group of 80 Americans are locked in their high-rise corporate office in Bogotá, Colombia and ordered by an unknown voice coming from the company&#39;s intercom system to participate in a deadly game of kill or be killed.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/7Hf305QmNXc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/qZNfwayNLL0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -320,15 +339,15 @@ The middle-aged, divorced Wilson, who lives in Oakland, California, finds himsel
 	
 
 ### Ghost in the Shell
-*Released on 2017-03-29, vote average 6.1*
+*Released on 2017-03-29, vote average 5.8*
 
-Based on the internationally-acclaimed sci-fi property, &#34;GHOST IN THE SHELL&#34; follows the Major, a special ops, one-of-a-kind human-cyborg hybrid, who leads the elite task force Section 9. Devoted to stopping the most dangerous criminals and extremists, Section 9 is faced with an enemy whose singular goal is to wipe out Hanka Robotic&#39;s advancements in cyber technology.
+Based on the internationally-acclaimed sci-fi property, GHOST IN THE SHELL follows the Major, a special ops, one-of-a-kind human-cyborg hybrid, who leads the elite task force Section 9. Devoted to stopping the most dangerous criminals and extremists, Section 9 is faced with an enemy whose singular goal is to wipe out Hanka Robotic’s advancements in cyber technology.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/HapT0SKcyfY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xTPvnQ2wDlI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
