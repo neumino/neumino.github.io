@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Beauty and the Beast
-*Released on 2017-03-15, vote average 7.2*
+### Life
+*Released on 2017-03-23, vote average 6.2*
 
-A live-action adaptation of Disney&#39;s version of the classic &#39;Beauty and the Beast&#39; tale of a cursed prince and a beautiful young woman who helps him break the spell.
+The six-member crew of the International Space Station is tasked with studying a sample from Mars that may be the first proof of extra-terrestrial life, which proves more intelligent than ever expected.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/tWapqpCEO7Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Heiy3mP9IIM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -40,28 +40,6 @@ A live-action adaptation of Disney&#39;s version of the classic &#39;Beauty and 
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-
-
-	
-	
-
-### Life
-*Released on 2017-03-23, vote average 6.2*
-
-The six-member crew of the International Space Station is tasked with studying a sample from Mars that may be the first proof of extra-terrestrial life, which proves more intelligent than ever expected.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Heiy3mP9IIM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
   
 
 
@@ -91,7 +69,7 @@ Saban&#39;s Power Rangers follows five ordinary teens who must become something 
 	
 
 ### The Boss Baby
-*Released on 2017-03-23, vote average 6.4*
+*Released on 2017-03-23, vote average 6.3*
 
 A story about how a new baby&#39;s arrival impacts a family, told from the point of view of a delightfully unreliable narrator, a wildly imaginative 7 year old named Tim.
 
@@ -99,7 +77,7 @@ A story about how a new baby&#39;s arrival impacts a family, told from the point
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/tquIfapGVqs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Ud8j5GaqH3c?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -113,7 +91,7 @@ A story about how a new baby&#39;s arrival impacts a family, told from the point
 	
 
 ### Ghost in the Shell
-*Released on 2017-03-29, vote average 5.8*
+*Released on 2017-03-29, vote average 5.7*
 
 Based on the internationally-acclaimed sci-fi property, GHOST IN THE SHELL follows the Major, a special ops, one-of-a-kind human-cyborg hybrid, who leads the elite task force Section 9. Devoted to stopping the most dangerous criminals and extremists, Section 9 is faced with an enemy whose singular goal is to wipe out Hanka Robotic’s advancements in cyber technology.
 
@@ -121,7 +99,7 @@ Based on the internationally-acclaimed sci-fi property, GHOST IN THE SHELL follo
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xTPvnQ2wDlI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/HapT0SKcyfY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -140,24 +118,17 @@ Based on the internationally-acclaimed sci-fi property, GHOST IN THE SHELL follo
 
 	
 	
-	
 
-  
+### Smurfs: The Lost Village
+*Released on 2017-03-30, vote average 8*
 
-
-	
-	
-
-### CHiPS
-*Released on 2017-03-23, vote average 2.8*
-
-The adventures of two California Highway Patrol motorcycle officers as they make their rounds on the freeways of Los Angeles.
+The new, fully computer-animated film will explore the beginnings of the beloved Smurfs.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/nmgeiznfdLI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/k5RTJsVivVA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -168,27 +139,12 @@ The adventures of two California Highway Patrol motorcycle officers as they make
 
 
 	
+	
+	
 
   
 
 
-	
-	
-
-### Red Nose Day Actually
-*Released on 2017-03-24, vote average 8*
-
-Fourteen years after the events of the first film, a series of encounters between people in Britain reminds us that in these different times Love, actually exists.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/fRdsw7ceQg8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -241,6 +197,28 @@ Comedy icon Dave Chappelle makes his triumphant return to the screen with a pair
 	
 	
 
+### CHiPS
+*Released on 2017-03-23, vote average 5.5*
+
+The adventures of two California Highway Patrol motorcycle officers as they make their rounds on the freeways of Los Angeles.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nmgeiznfdLI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Dave Chappelle: Deep in the Heart of Texas
 *Released on 2017-03-21, vote average 7.9*
 
@@ -255,11 +233,6 @@ Comedy icon Dave Chappelle makes his triumphant return to the screen with a pair
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -282,6 +255,16 @@ A struggling painter is possessed by satanic forces after he and his young famil
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -338,25 +321,6 @@ In a twisted social experiment, a group of 80 Americans are locked in their high
 	
 	
 
-### Ghost in the Shell
-*Released on 2017-03-29, vote average 5.8*
-
-Based on the internationally-acclaimed sci-fi property, GHOST IN THE SHELL follows the Major, a special ops, one-of-a-kind human-cyborg hybrid, who leads the elite task force Section 9. Devoted to stopping the most dangerous criminals and extremists, Section 9 is faced with an enemy whose singular goal is to wipe out Hanka Robotic’s advancements in cyber technology.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xTPvnQ2wDlI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
 ### Smurfs: The Lost Village
 *Released on 2017-03-30, vote average 8*
 
@@ -399,6 +363,10 @@ The new, fully computer-animated film will explore the beginnings of the beloved
 
 	
 
+	
+
+	
+	
 	
 
 	
