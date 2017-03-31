@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Life
-*Released on 2017-03-23, vote average 6.2*
+*Released on 2017-03-23, vote average 6.3*
 
 The six-member crew of the International Space Station is tasked with studying a sample from Mars that may be the first proof of extra-terrestrial life, which proves more intelligent than ever expected.
 
@@ -77,7 +77,7 @@ A story about how a new baby&#39;s arrival impacts a family, told from the point
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Ud8j5GaqH3c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/tquIfapGVqs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -91,7 +91,7 @@ A story about how a new baby&#39;s arrival impacts a family, told from the point
 	
 
 ### Ghost in the Shell
-*Released on 2017-03-29, vote average 5.7*
+*Released on 2017-03-29, vote average 6*
 
 Based on the internationally-acclaimed sci-fi property, GHOST IN THE SHELL follows the Major, a special ops, one-of-a-kind human-cyborg hybrid, who leads the elite task force Section 9. Devoted to stopping the most dangerous criminals and extremists, Section 9 is faced with an enemy whose singular goal is to wipe out Hanka Robotic’s advancements in cyber technology.
 
@@ -99,7 +99,7 @@ Based on the internationally-acclaimed sci-fi property, GHOST IN THE SHELL follo
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/HapT0SKcyfY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xTPvnQ2wDlI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -110,8 +110,6 @@ Based on the internationally-acclaimed sci-fi property, GHOST IN THE SHELL follo
 
 
 	
-	
-	
 
   
 
@@ -120,7 +118,7 @@ Based on the internationally-acclaimed sci-fi property, GHOST IN THE SHELL follo
 	
 
 ### Smurfs: The Lost Village
-*Released on 2017-03-30, vote average 8*
+*Released on 2017-03-30, vote average 7.3*
 
 The new, fully computer-animated film will explore the beginnings of the beloved Smurfs.
 
@@ -146,6 +144,35 @@ The new, fully computer-animated film will explore the beginnings of the beloved
 
 
 	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### CHiPS
+*Released on 2017-03-23, vote average 5.5*
+
+The adventures of two California Highway Patrol motorcycle officers as they make their rounds on the freeways of Los Angeles.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nmgeiznfdLI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -163,6 +190,33 @@ On a romantic getaway to Iceland, a young American couple wake up one morning to
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/bJHoVWg8YDw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Devil&#39;s Candy
+*Released on 2017-03-17, vote average 7.3*
+
+A struggling painter is possessed by satanic forces after he and his young family move into their dream home in rural Texas, in this creepy haunted-house tale.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/q2P4xPmgbTs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -197,16 +251,16 @@ Comedy icon Dave Chappelle makes his triumphant return to the screen with a pair
 	
 	
 
-### CHiPS
-*Released on 2017-03-23, vote average 5.5*
+### The Belko Experiment
+*Released on 2017-03-17, vote average 8.6*
 
-The adventures of two California Highway Patrol motorcycle officers as they make their rounds on the freeways of Los Angeles.
+In a twisted social experiment, a group of 80 Americans are locked in their high-rise corporate office in Bogotá, Colombia and ordered by an unknown voice coming from the company&#39;s intercom system to participate in a deadly game of kill or be killed.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/nmgeiznfdLI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/qZNfwayNLL0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -239,70 +293,31 @@ Comedy icon Dave Chappelle makes his triumphant return to the screen with a pair
 
 
 	
+
+  
+
+
 	
 
-### The Devil&#39;s Candy
-*Released on 2017-03-17, vote average 7.2*
+  
 
-A struggling painter is possessed by satanic forces after he and his young family move into their dream home in rural Texas, in this creepy haunted-house tale.
+
+	
+	
+
+### Red Nose Day Actually
+*Released on 2017-03-24, vote average 8*
+
+Fourteen years after the events of the first film, a series of encounters between people in Britain reminds us that in these different times Love, actually exists.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/q2P4xPmgbTs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/fRdsw7ceQg8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Belko Experiment
-*Released on 2017-03-17, vote average 8.6*
-
-In a twisted social experiment, a group of 80 Americans are locked in their high-rise corporate office in Bogotá, Colombia and ordered by an unknown voice coming from the company&#39;s intercom system to participate in a deadly game of kill or be killed.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qZNfwayNLL0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 	
 
@@ -319,33 +334,6 @@ In a twisted social experiment, a group of 80 Americans are locked in their high
 
 
 	
-	
-
-### Smurfs: The Lost Village
-*Released on 2017-03-30, vote average 8*
-
-The new, fully computer-animated film will explore the beginnings of the beloved Smurfs.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/k5RTJsVivVA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
 
 	
 
@@ -367,6 +355,16 @@ The new, fully computer-animated film will explore the beginnings of the beloved
 
 	
 	
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
