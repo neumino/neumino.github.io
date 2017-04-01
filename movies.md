@@ -47,7 +47,7 @@ The six-member crew of the International Space Station is tasked with studying a
 	
 
 ### Power Rangers
-*Released on 2017-03-23, vote average 6.7*
+*Released on 2017-03-23, vote average 6.6*
 
 Saban&#39;s Power Rangers follows five ordinary teens who must become something extraordinary when they learn that their small town of Angel Grove — and the world — is on the verge of being obliterated by an alien threat. Chosen by destiny, our heroes quickly discover they are the only ones who can save the planet. But to do so, they will have to overcome their real-life issues and before it’s too late, band together as the Power Rangers.
 
@@ -68,8 +68,30 @@ Saban&#39;s Power Rangers follows five ordinary teens who must become something 
 	
 	
 
+### Ghost in the Shell
+*Released on 2017-03-29, vote average 6.3*
+
+Based on the internationally-acclaimed sci-fi property, GHOST IN THE SHELL follows the Major, a special ops, one-of-a-kind human-cyborg hybrid, who leads the elite task force Section 9. Devoted to stopping the most dangerous criminals and extremists, Section 9 is faced with an enemy whose singular goal is to wipe out Hanka Robotic’s advancements in cyber technology.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xTPvnQ2wDlI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Boss Baby
-*Released on 2017-03-23, vote average 6.3*
+*Released on 2017-03-23, vote average 5.9*
 
 A story about how a new baby&#39;s arrival impacts a family, told from the point of view of a delightfully unreliable narrator, a wildly imaginative 7 year old named Tim.
 
@@ -90,37 +112,10 @@ A story about how a new baby&#39;s arrival impacts a family, told from the point
 	
 	
 
-### Ghost in the Shell
-*Released on 2017-03-29, vote average 6*
-
-Based on the internationally-acclaimed sci-fi property, GHOST IN THE SHELL follows the Major, a special ops, one-of-a-kind human-cyborg hybrid, who leads the elite task force Section 9. Devoted to stopping the most dangerous criminals and extremists, Section 9 is faced with an enemy whose singular goal is to wipe out Hanka Robotic’s advancements in cyber technology.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xTPvnQ2wDlI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### Smurfs: The Lost Village
 *Released on 2017-03-30, vote average 7.3*
 
-The new, fully computer-animated film will explore the beginnings of the beloved Smurfs.
+In this fully animated, all-new take on the Smurfs, a mysterious map sets Smurfette and her friends Brainy, Clumsy and Hefty on an exciting race through the Forbidden Forest leading to the discovery of the biggest secret in Smurf history.
 
 <iframe id="player"
 	type="text/html"
@@ -136,8 +131,6 @@ The new, fully computer-animated film will explore the beginnings of the beloved
   
 
 
-	
-	
 	
 
   
@@ -180,55 +173,6 @@ The adventures of two California Highway Patrol motorcycle officers as they make
 	
 	
 
-### Bokeh
-*Released on 2017-03-24, vote average 5.1*
-
-On a romantic getaway to Iceland, a young American couple wake up one morning to discover every person on Earth has disappeared. Their struggle to survive and to reconcile the mysterious event lead them to reconsider everything they know about themselves and the world.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/bJHoVWg8YDw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Devil&#39;s Candy
-*Released on 2017-03-17, vote average 7.3*
-
-A struggling painter is possessed by satanic forces after he and his young family move into their dream home in rural Texas, in this creepy haunted-house tale.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/q2P4xPmgbTs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Dave Chappelle: The Age of Spin
 *Released on 2017-03-21, vote average 7.9*
 
@@ -250,80 +194,68 @@ Comedy icon Dave Chappelle makes his triumphant return to the screen with a pair
 
 	
 	
+	
 
-### The Belko Experiment
-*Released on 2017-03-17, vote average 8.6*
+  
 
-In a twisted social experiment, a group of 80 Americans are locked in their high-rise corporate office in Bogotá, Colombia and ordered by an unknown voice coming from the company&#39;s intercom system to participate in a deadly game of kill or be killed.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Bokeh
+*Released on 2017-03-24, vote average 5.1*
+
+On a romantic getaway to Iceland, a young American couple wake up one morning to discover every person on Earth has disappeared. Their struggle to survive and to reconcile the mysterious event lead them to reconsider everything they know about themselves and the world.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/qZNfwayNLL0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/bJHoVWg8YDw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### Dave Chappelle: Deep in the Heart of Texas
-*Released on 2017-03-21, vote average 7.9*
-
-Comedy icon Dave Chappelle makes his triumphant return to the screen with a pair of blistering, fresh stand-up specials. Filmed at the Moody Theater in Austin, Texas, in April 2015.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0TRqE7rmi3g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Red Nose Day Actually
-*Released on 2017-03-24, vote average 8*
-
-Fourteen years after the events of the first film, a series of encounters between people in Britain reminds us that in these different times Love, actually exists.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/fRdsw7ceQg8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -353,8 +285,6 @@ Fourteen years after the events of the first film, a series of encounters betwee
 
 	
 
-	
-	
 	
 
 	
