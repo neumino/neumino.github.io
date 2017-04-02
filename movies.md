@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Life
-*Released on 2017-03-23, vote average 6.3*
+*Released on 2017-03-23, vote average 6.2*
 
 The six-member crew of the International Space Station is tasked with studying a sample from Mars that may be the first proof of extra-terrestrial life, which proves more intelligent than ever expected.
 
@@ -46,6 +46,28 @@ The six-member crew of the International Space Station is tasked with studying a
 	
 	
 
+### Ghost in the Shell
+*Released on 2017-03-29, vote average 6.4*
+
+Based on the internationally-acclaimed sci-fi property, GHOST IN THE SHELL follows the Major, a special ops, one-of-a-kind human-cyborg hybrid, who leads the elite task force Section 9. Devoted to stopping the most dangerous criminals and extremists, Section 9 is faced with an enemy whose singular goal is to wipe out Hanka Robotic’s advancements in cyber technology.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/HapT0SKcyfY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Power Rangers
 *Released on 2017-03-23, vote average 6.6*
 
@@ -68,28 +90,6 @@ Saban&#39;s Power Rangers follows five ordinary teens who must become something 
 	
 	
 
-### Ghost in the Shell
-*Released on 2017-03-29, vote average 6.3*
-
-Based on the internationally-acclaimed sci-fi property, GHOST IN THE SHELL follows the Major, a special ops, one-of-a-kind human-cyborg hybrid, who leads the elite task force Section 9. Devoted to stopping the most dangerous criminals and extremists, Section 9 is faced with an enemy whose singular goal is to wipe out Hanka Robotic’s advancements in cyber technology.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xTPvnQ2wDlI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Boss Baby
 *Released on 2017-03-23, vote average 5.9*
 
@@ -99,7 +99,7 @@ A story about how a new baby&#39;s arrival impacts a family, told from the point
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/tquIfapGVqs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Ud8j5GaqH3c?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -132,17 +132,7 @@ In this fully animated, all-new take on the Smurfs, a mysterious map sets Smurfe
 
 
 	
-
-  
-
-
 	
-	
-	
-
-  
-
-
 	
 
   
@@ -171,18 +161,37 @@ The adventures of two California Highway Patrol motorcycle officers as they make
 
 
 	
+
+  
+
+
+	
+	
 	
 
-### Dave Chappelle: The Age of Spin
-*Released on 2017-03-21, vote average 7.9*
+  
 
-Comedy icon Dave Chappelle makes his triumphant return to the screen with a pair of blistering, fresh stand-up specials. Filmed at The Palladium in Los Angeles, California, in March 2016.
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Free Fire
+*Released on 2017-03-31, vote average 7.8*
+
+FREE FIRE is a crime drama set in 1970s Boston, about a gun sale which goes wrong.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/0TRqE7rmi3g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/n-8l62zeIk0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -193,8 +202,6 @@ Comedy icon Dave Chappelle makes his triumphant return to the screen with a pair
 
 
 	
-	
-	
 
   
 
@@ -205,10 +212,22 @@ Comedy icon Dave Chappelle makes his triumphant return to the screen with a pair
 
 
 	
+	
 
-  
+### The Discovery
+*Released on 2017-03-31, vote average 7.4*
 
+In the near future, due to a breakthrough scientific discovery by Dr. Thomas Harbor, there is now definitive proof of an afterlife. While countless people have chosen suicide to reset their existence, others try to decide what it all means. Among them is Dr. Harbor&#39;s son Will, who has arrived at his father&#39;s isolated compound with a mysterious young woman named Isla. There, they discover the strange acolytes who help Dr. Harbor with his experiments.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/z9j6WcdU-ts?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
