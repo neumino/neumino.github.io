@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Life
-*Released on 2017-03-23, vote average 6.2*
+### Ghost in the Shell
+*Released on 2017-03-29, vote average 6.5*
 
-The six-member crew of the International Space Station is tasked with studying a sample from Mars that may be the first proof of extra-terrestrial life, which proves more intelligent than ever expected.
+In the near future, Major is the first of her kind: a human saved from a terrible crash, who is cyber-enhanced to be a perfect soldier devoted to stopping the world&#39;s most dangerous criminals.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Heiy3mP9IIM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/HapT0SKcyfY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ The six-member crew of the International Space Station is tasked with studying a
 	
 	
 
-### Ghost in the Shell
-*Released on 2017-03-29, vote average 6.4*
+### Life
+*Released on 2017-03-23, vote average 6.1*
 
-In the near future, Major is the first of her kind: a human saved from a terrible crash, who is cyber-enhanced to be a perfect soldier devoted to stopping the world&#39;s most dangerous criminals.
+The six-member crew of the International Space Station is tasked with studying a sample from Mars that may be the first proof of extra-terrestrial life, which proves more intelligent than ever expected.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xTPvnQ2wDlI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Heiy3mP9IIM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@ In the near future, Major is the first of her kind: a human saved from a terribl
 	
 
 ### The Boss Baby
-*Released on 2017-03-23, vote average 5.9*
+*Released on 2017-03-23, vote average 5.8*
 
 A story about how a new baby&#39;s arrival impacts a family, told from the point of view of a delightfully unreliable narrator, a wildly imaginative 7 year old named Tim.
 
@@ -77,7 +77,7 @@ A story about how a new baby&#39;s arrival impacts a family, told from the point
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/tquIfapGVqs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Ud8j5GaqH3c?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -91,7 +91,7 @@ A story about how a new baby&#39;s arrival impacts a family, told from the point
 	
 
 ### Power Rangers
-*Released on 2017-03-23, vote average 6.5*
+*Released on 2017-03-23, vote average 6.6*
 
 Saban&#39;s Power Rangers follows five ordinary teens who must become something extraordinary when they learn that their small town of Angel Grove — and the world — is on the verge of being obliterated by an alien threat. Chosen by destiny, our heroes quickly discover they are the only ones who can save the planet. But to do so, they will have to overcome their real-life issues and before it’s too late, band together as the Power Rangers.
 
@@ -111,13 +111,6 @@ Saban&#39;s Power Rangers follows five ordinary teens who must become something 
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Smurfs: The Lost Village
 *Released on 2017-03-30, vote average 6.6*
@@ -129,6 +122,35 @@ In this fully animated, all-new take on the Smurfs, a mysterious map sets Smurfe
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/k5RTJsVivVA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### The Discovery
+*Released on 2017-03-31, vote average 6.9*
+
+In the near future, due to a breakthrough scientific discovery by Dr. Thomas Harbor, there is now definitive proof of an afterlife. While countless people have chosen suicide to reset their existence, others try to decide what it all means. Among them is Dr. Harbor&#39;s son Will, who has arrived at his father&#39;s isolated compound with a mysterious young woman named Isla. There, they discover the strange acolytes who help Dr. Harbor with his experiments.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/z9j6WcdU-ts?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -162,21 +184,6 @@ The adventures of two California Highway Patrol motorcycle officers as they make
 
 	
 	
-
-### The Discovery
-*Released on 2017-03-31, vote average 7.1*
-
-In the near future, due to a breakthrough scientific discovery by Dr. Thomas Harbor, there is now definitive proof of an afterlife. While countless people have chosen suicide to reset their existence, others try to decide what it all means. Among them is Dr. Harbor&#39;s son Will, who has arrived at his father&#39;s isolated compound with a mysterious young woman named Isla. There, they discover the strange acolytes who help Dr. Harbor with his experiments.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/z9j6WcdU-ts?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -202,60 +209,6 @@ The Zookeeper&#39;s Wife tells the account of keepers of the Warsaw Zoo, Jan and
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/T4yOIInh3QE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Kavan
-*Released on 2017-03-31, vote average 8*
-
-A TV reporter rebels against the corrupt practices of his channel’s boss and tries to get justice for a couple of youngsters who are fighting against a chemical plant.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/y2mei-eRw2s?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Dave Chappelle: The Age of Spin
-*Released on 2017-03-21, vote average 7.9*
-
-Comedy icon Dave Chappelle makes his triumphant return to the screen with a pair of blistering, fresh stand-up specials. Filmed at The Palladium in Los Angeles, California, in March 2016.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0TRqE7rmi3g?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -299,21 +252,38 @@ FREE FIRE is a crime drama set in 1970s Boston, about a gun sale which goes wron
 
 	
 	
+	
 
-### Dave Chappelle: Deep in the Heart of Texas
-*Released on 2017-03-21, vote average 7.9*
+  
 
-Comedy icon Dave Chappelle makes his triumphant return to the screen with a pair of blistering, fresh stand-up specials. Filmed at the Moody Theater in Austin, Texas, in April 2015.
+
+	
+	
+
+### Jeepers Creepers 3
+*Released on 2017-04-01, vote average 10*
+
+Trish Jenner is now a mother of a teenage son named Darry, named after the brother she lost 23 years ago. Trish has a recurring nightmare where her son suffers the same fate as her brother did, killed by the Creeper. Determined to prevent this from happening, Trish, who is now a rich and powerful woman, sets out on a final quest with Jack Taggart Sr. and Jr. to end the Creeper’s reign of terror once and for all. The Creeper fights back in gory glory as its enemies grow closer than ever before to learning the secret of its dark origins.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/0TRqE7rmi3g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/eYUZVYy86BQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -359,6 +329,14 @@ On a romantic getaway to Iceland, a young American couple wake up one morning to
 	
 
 	
+	
+	
+
+	
+
+	
+
+	
 
 	
 
@@ -374,12 +352,6 @@ On a romantic getaway to Iceland, a young American couple wake up one morning to
 
 	
 	
-	
-
-	
-
-	
-
 	
 
 	
