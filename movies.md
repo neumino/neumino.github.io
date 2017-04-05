@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Ghost in the Shell
-*Released on 2017-03-29, vote average 6.5*
+*Released on 2017-03-29, vote average 6.4*
 
 In the near future, Major is the first of her kind: a human saved from a terrible crash, who is cyber-enhanced to be a perfect soldier devoted to stopping the world&#39;s most dangerous criminals.
 
@@ -21,7 +21,7 @@ In the near future, Major is the first of her kind: a human saved from a terribl
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/HapT0SKcyfY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xTPvnQ2wDlI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -40,6 +40,28 @@ In the near future, Major is the first of her kind: a human saved from a terribl
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+  
+
+
+	
+	
+
+### The Boss Baby
+*Released on 2017-03-23, vote average 5.8*
+
+A story about how a new baby&#39;s arrival impacts a family, told from the point of view of a delightfully unreliable narrator, a wildly imaginative 7 year old named Tim.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/tquIfapGVqs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
   
 
 
@@ -68,28 +90,6 @@ The six-member crew of the International Space Station is tasked with studying a
 	
 	
 
-### The Boss Baby
-*Released on 2017-03-23, vote average 5.8*
-
-A story about how a new baby&#39;s arrival impacts a family, told from the point of view of a delightfully unreliable narrator, a wildly imaginative 7 year old named Tim.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Ud8j5GaqH3c?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Power Rangers
 *Released on 2017-03-23, vote average 6.6*
 
@@ -100,28 +100,6 @@ Saban&#39;s Power Rangers follows five ordinary teens who must become something 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/5kIe6UZHSXw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Smurfs: The Lost Village
-*Released on 2017-03-30, vote average 6.6*
-
-In this fully animated, all-new take on the Smurfs, a mysterious map sets Smurfette and her friends Brainy, Clumsy and Hefty on an exciting race through the Forbidden Forest leading to the discovery of the biggest secret in Smurf history.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/k5RTJsVivVA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -163,6 +141,28 @@ In the near future, due to a breakthrough scientific discovery by Dr. Thomas Har
 	
 	
 
+### Smurfs: The Lost Village
+*Released on 2017-03-30, vote average 6.6*
+
+In this fully animated, all-new take on the Smurfs, a mysterious map sets Smurfette and her friends Brainy, Clumsy and Hefty on an exciting race through the Forbidden Forest leading to the discovery of the biggest secret in Smurf history.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/k5RTJsVivVA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### CHiPS
 *Released on 2017-03-23, vote average 4.9*
 
@@ -184,6 +184,26 @@ The adventures of two California Highway Patrol motorcycle officers as they make
 
 	
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -219,10 +239,15 @@ The Zookeeper&#39;s Wife tells the account of keepers of the Warsaw Zoo, Jan and
 
 
 	
+
+  
+
+
+	
 	
 
 ### Free Fire
-*Released on 2017-03-31, vote average 7.8*
+*Released on 2017-03-31, vote average 6.9*
 
 FREE FIRE is a crime drama set in 1970s Boston, about a gun sale which goes wrong.
 
@@ -234,23 +259,6 @@ FREE FIRE is a crime drama set in 1970s Boston, about a gun sale which goes wron
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 	
 
@@ -285,28 +293,18 @@ Trish Jenner is now a mother of a teenage son named Darry, named after the broth
 
 
 	
-
-  
-
-
 	
 
-  
+### Love at First Bark
+*Released on 2017-04-01, vote average 6*
 
-
-	
-	
-
-### Bokeh
-*Released on 2017-03-24, vote average 5*
-
-On a romantic getaway to Iceland, a young American couple wake up one morning to discover every person on Earth has disappeared. Their struggle to survive and to reconcile the mysterious event lead them to reconsider everything they know about themselves and the world.
+Portland interior designer Julia Galvins (Jana Kramer) adopts a dog and seeks the help of expert and handsome dog trainer Owen Michaels (Kevin McGarry). When she is hired to design a nursery and a “puppery,” as well as plan a puppy shower fund-raiser for a pregnant client and her pregnant dog, Julia asks Owen’s advice, and their friendship just might turn into something more.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/bJHoVWg8YDw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/NICrILggtiI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -323,6 +321,23 @@ On a romantic getaway to Iceland, a young American couple wake up one morning to
 	
 
 	
+	
+
+### Going in Style
+*Released on 2017-04-06, vote average 1*
+
+Desperate to pay the bills and come through for their loved ones, three lifelong pals risk it all by embarking on a daring bid to knock off the very bank that absconded with their money.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zy4V-JJHiG4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
@@ -350,8 +365,6 @@ On a romantic getaway to Iceland, a young American couple wake up one morning to
 
 	
 
-	
-	
 	
 
 	
