@@ -111,13 +111,6 @@ Saban&#39;s Power Rangers follows five ordinary teens who must become something 
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### The Discovery
 *Released on 2017-03-31, vote average 6.9*
@@ -142,7 +135,7 @@ In the near future, due to a breakthrough scientific discovery by Dr. Thomas Har
 	
 
 ### Smurfs: The Lost Village
-*Released on 2017-03-30, vote average 6.6*
+*Released on 2017-03-30, vote average 6*
 
 In this fully animated, all-new take on the Smurfs, a mysterious map sets Smurfette and her friends Brainy, Clumsy and Hefty on an exciting race through the Forbidden Forest leading to the discovery of the biggest secret in Smurf history.
 
@@ -151,6 +144,69 @@ In this fully animated, all-new take on the Smurfs, a mysterious map sets Smurfe
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/k5RTJsVivVA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Going in Style
+*Released on 2017-04-06, vote average 1*
+
+Desperate to pay the bills and come through for their loved ones, three lifelong pals risk it all by embarking on a daring bid to knock off the very bank that absconded with their money.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zy4V-JJHiG4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Free Fire
+*Released on 2017-03-31, vote average 6.5*
+
+FREE FIRE is a crime drama set in 1970s Boston, about a gun sale which goes wrong.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/n-8l62zeIk0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -183,6 +239,26 @@ The adventures of two California Highway Patrol motorcycle officers as they make
 
 
 	
+
+  
+
+
+	
+	
+
+### Louis C.K. 2017
+*Released on 2017-04-04, vote average 8.3*
+
+Louis C.K. muses on religion, eternal love, giving dogs drugs, email fights, teachers and more in a live performance from Washington, D.C.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/d1Fe3mInaTI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -190,20 +266,7 @@ The adventures of two California Highway Patrol motorcycle officers as they make
 
 
 	
-
-  
-
-
 	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -239,23 +302,18 @@ The Zookeeper&#39;s Wife tells the account of keepers of the Warsaw Zoo, Jan and
 
 
 	
-
-  
-
-
-	
 	
 
-### Free Fire
-*Released on 2017-03-31, vote average 6.9*
+### Bokeh
+*Released on 2017-03-24, vote average 5*
 
-FREE FIRE is a crime drama set in 1970s Boston, about a gun sale which goes wrong.
+On a romantic getaway to Iceland, a young American couple wake up one morning to discover every person on Earth has disappeared. Their struggle to survive and to reconcile the mysterious event lead them to reconsider everything they know about themselves and the world.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/n-8l62zeIk0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/bJHoVWg8YDw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -267,48 +325,11 @@ FREE FIRE is a crime drama set in 1970s Boston, about a gun sale which goes wron
 
 	
 	
-
-### Jeepers Creepers 3
-*Released on 2017-04-01, vote average 10*
-
-Trish Jenner is now a mother of a teenage son named Darry, named after the brother she lost 23 years ago. Trish has a recurring nightmare where her son suffers the same fate as her brother did, killed by the Creeper. Determined to prevent this from happening, Trish, who is now a rich and powerful woman, sets out on a final quest with Jack Taggart Sr. and Jr. to end the Creeper’s reign of terror once and for all. The Creeper fights back in gory glory as its enemies grow closer than ever before to learning the secret of its dark origins.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/eYUZVYy86BQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Love at First Bark
-*Released on 2017-04-01, vote average 6*
-
-Portland interior designer Julia Galvins (Jana Kramer) adopts a dog and seeks the help of expert and handsome dog trainer Owen Michaels (Kevin McGarry). When she is hired to design a nursery and a “puppery,” as well as plan a puppy shower fund-raiser for a pregnant client and her pregnant dog, Julia asks Owen’s advice, and their friendship just might turn into something more.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/NICrILggtiI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -318,6 +339,23 @@ Portland interior designer Julia Galvins (Jana Kramer) adopts a dog and seeks th
 ## Opening soon
 
 
+	
+	
+
+### The Fate of the Furious
+*Released on 2017-04-12, vote average 8*
+
+When a mysterious woman seduces Dom into the world of crime and a betrayal of those closest to him, the crew face trials that will test them as never before.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/440rPhbkZnA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -344,8 +382,6 @@ Desperate to pay the bills and come through for their loved ones, three lifelong
 	
 
 	
-	
-	
 
 	
 
@@ -365,6 +401,23 @@ Desperate to pay the bills and come through for their loved ones, three lifelong
 
 	
 
+	
+	
+
+### Steve Byrne: Tell The Damn Joke
+*Released on 2017-04-07, vote average 6*
+
+He&#39;s a comic. A husband. A dad. An American. And on top of it all, he&#39;s hilarious. Steve Byrne brings his signature style to Chicago with an all-new comedy special that holds no punches, calls it like it is and tells the damn jokes.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/d-ddl7r07pE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
