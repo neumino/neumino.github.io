@@ -21,7 +21,7 @@ In the near future, Major is the first of her kind: a human saved from a terribl
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/HapT0SKcyfY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xTPvnQ2wDlI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -47,7 +47,7 @@ In the near future, Major is the first of her kind: a human saved from a terribl
 	
 
 ### The Discovery
-*Released on 2017-03-31, vote average 6.7*
+*Released on 2017-03-31, vote average 6.6*
 
 In the near future, due to a breakthrough scientific discovery by Dr. Thomas Harbor, there is now definitive proof of an afterlife. While countless people have chosen suicide to reset their existence, others try to decide what it all means. Among them is Dr. Harbor&#39;s son Will, who has arrived at his father&#39;s isolated compound with a mysterious young woman named Isla. There, they discover the strange acolytes who help Dr. Harbor with his experiments.
 
@@ -139,6 +139,35 @@ Based on the airline accident that occurred in July of 2002 and on the events th
 
 
 	
+	
+
+### Monster High: Electrified
+*Released on 2017-04-04, vote average 1*
+
+Monster High: Electrified
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/YGRc3v4Ss_4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
 
   
 
@@ -166,13 +195,6 @@ Louis C.K. muses on religion, eternal love, giving dogs drugs, email fights, tea
 
 
 	
-	
-	
-
-  
-
-
-	
 
   
 
@@ -181,9 +203,9 @@ Louis C.K. muses on religion, eternal love, giving dogs drugs, email fights, tea
 	
 
 ### Free Fire
-*Released on 2017-03-31, vote average 6.5*
+*Released on 2017-03-31, vote average 6*
 
-FREE FIRE is a crime drama set in 1970s Boston, about a gun sale which goes wrong.
+Free Fire is a crime drama set in 1970&#39;s Boston, about a gun sale which goes wrong.
 
 <iframe id="player"
 	type="text/html"
@@ -213,7 +235,7 @@ FREE FIRE is a crime drama set in 1970s Boston, about a gun sale which goes wron
 	
 
 ### Teleios
-*Released on 2017-04-06, vote average 5*
+*Released on 2017-04-06, vote average 7.5*
 
 A deep space mining vessel has been adrift for two years. It is suspected the crew brutally killed each other, but the reason for the bloodbath is unknown. A rescue crew is sent to find if there are any survivors, what happened and why.
 
@@ -247,10 +269,22 @@ A deep space mining vessel has been adrift for two years. It is suspected the cr
 
 
 	
+	
 
-  
+### Carrie Pilby
+*Released on 2017-03-31, vote average 6.5*
 
+Awkward, isolated and disapproving of most of the people around her, a precocious 19-year-old genius is challenged to put her convictions to the test by venturing out on to the NYC dating scene, in this adaptation of Caren Lissner’s best-selling 2003 novel.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nLiUc1OKKQk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -269,7 +303,7 @@ A deep space mining vessel has been adrift for two years. It is suspected the cr
 	
 
 ### The Fate of the Furious
-*Released on 2017-04-12, vote average 7.5*
+*Released on 2017-04-12, vote average 7.7*
 
 When a mysterious woman seduces Dom into the world of crime and a betrayal of those closest to him, the crew face trials that will test them as never before.
 
@@ -277,7 +311,7 @@ When a mysterious woman seduces Dom into the world of crime and a betrayal of th
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ZOfiPLaQ-qI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/440rPhbkZnA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
