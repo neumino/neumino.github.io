@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Ghost in the Shell
-*Released on 2017-03-29, vote average 6.3*
+*Released on 2017-03-29, vote average 6.2*
 
 In the near future, Major is the first of her kind: a human saved from a terrible crash, who is cyber-enhanced to be a perfect soldier devoted to stopping the world&#39;s most dangerous criminals.
 
@@ -47,7 +47,7 @@ In the near future, Major is the first of her kind: a human saved from a terribl
 	
 
 ### The Discovery
-*Released on 2017-03-31, vote average 6.9*
+*Released on 2017-03-31, vote average 6.7*
 
 In the near future, due to a breakthrough scientific discovery by Dr. Thomas Harbor, there is now definitive proof of an afterlife. While countless people have chosen suicide to reset their existence, others try to decide what it all means. Among them is Dr. Harbor&#39;s son Will, who has arrived at his father&#39;s isolated compound with a mysterious young woman named Isla. There, they discover the strange acolytes who help Dr. Harbor with his experiments.
 
@@ -69,7 +69,7 @@ In the near future, due to a breakthrough scientific discovery by Dr. Thomas Har
 	
 
 ### Smurfs: The Lost Village
-*Released on 2017-03-30, vote average 6.3*
+*Released on 2017-03-30, vote average 6.6*
 
 In this fully animated, all-new take on the Smurfs, a mysterious map sets Smurfette and her friends Brainy, Clumsy and Hefty on an exciting race through the Forbidden Forest leading to the discovery of the biggest secret in Smurf history.
 
@@ -81,13 +81,6 @@ In this fully animated, all-new take on the Smurfs, a mysterious map sets Smurfe
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -117,17 +110,63 @@ Desperate to pay the bills and come through for their loved ones, three lifelong
 
 
 	
-
-  
-
-
-	
 	
 	
 
   
 
 
+	
+	
+
+### Aftermath
+*Released on 2017-04-06, vote average 6.3*
+
+Based on the airline accident that occurred in July of 2002 and on the events that took place 478 days later.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-9SAbOXOwMs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Louis C.K. 2017
+*Released on 2017-04-04, vote average 8.5*
+
+Louis C.K. muses on religion, eternal love, giving dogs drugs, email fights, teachers and more in a live performance from Washington, D.C.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/d1Fe3mInaTI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -173,16 +212,16 @@ FREE FIRE is a crime drama set in 1970s Boston, about a gun sale which goes wron
 	
 	
 
-### Louis C.K. 2017
-*Released on 2017-04-04, vote average 8*
+### Teleios
+*Released on 2017-04-06, vote average 5*
 
-Louis C.K. muses on religion, eternal love, giving dogs drugs, email fights, teachers and more in a live performance from Washington, D.C.
+A deep space mining vessel has been adrift for two years. It is suspected the crew brutally killed each other, but the reason for the bloodbath is unknown. A rescue crew is sent to find if there are any survivors, what happened and why.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/d1Fe3mInaTI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/2FEBtfUaVxg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -197,30 +236,6 @@ Louis C.K. muses on religion, eternal love, giving dogs drugs, email fights, tea
   
 
 
-	
-	
-	
-
-  
-
-
-	
-	
-
-### The Zookeeper&#39;s Wife
-*Released on 2017-03-31, vote average 6*
-
-The Zookeeper&#39;s Wife tells the account of keepers of the Warsaw Zoo, Jan and Antonina Zabinski, who helped save hundreds of people and animals during the Nazi invasion.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/T4yOIInh3QE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -254,7 +269,7 @@ The Zookeeper&#39;s Wife tells the account of keepers of the Warsaw Zoo, Jan and
 	
 
 ### The Fate of the Furious
-*Released on 2017-04-12, vote average 7.7*
+*Released on 2017-04-12, vote average 7.5*
 
 When a mysterious woman seduces Dom into the world of crime and a betrayal of those closest to him, the crew face trials that will test them as never before.
 
@@ -262,7 +277,7 @@ When a mysterious woman seduces Dom into the world of crime and a betrayal of th
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/440rPhbkZnA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ZOfiPLaQ-qI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -277,23 +292,6 @@ When a mysterious woman seduces Dom into the world of crime and a betrayal of th
 
 	
 
-	
-	
-
-### Steve Byrne: Tell The Damn Joke
-*Released on 2017-04-07, vote average 6*
-
-He&#39;s a comic. A husband. A dad. An American. And on top of it all, he&#39;s hilarious. Steve Byrne brings his signature style to Chicago with an all-new comedy special that holds no punches, calls it like it is and tells the damn jokes.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/d-ddl7r07pE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
