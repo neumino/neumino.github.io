@@ -3,31 +3,9 @@ layout: page
 title: Contact
 ---
 
-# Climbing the Leaderboard
+## Climbing the Leaderboard
 
 ```
-process.stdin.resume();
-process.stdin.setEncoding('ascii');
-
-var input_stdin = "";
-var input_stdin_array = "";
-var input_currentline = 0;
-
-process.stdin.on('data', function (data) {
-    input_stdin += data;
-});
-
-process.stdin.on('end', function () {
-    input_stdin_array = input_stdin.split("\n");
-    main();    
-});
-
-function readLine() {
-    return input_stdin_array[input_currentline++];
-}
-
-/////////////// ignore above this line ////////////////////
-
 function main() {
   var n = parseInt(readLine());
   scores = readLine().split(' ');
@@ -57,5 +35,20 @@ function main() {
     aliceRank = next+1;
     console.log(aliceRank + 1); // +1 because rank are 1-indexed.
   }
+}
+```
+
+## The Hurdle Race
+
+```
+function main() {
+    var n_temp = readLine().split(' ');
+    var n = parseInt(n_temp[0]);
+    var k = parseInt(n_temp[1]);
+    height = readLine().split(' ');
+    height = height.map(Number);
+    // your code goes here
+    var max_height = Math.max.apply(Math, height)
+    console.log(Math.max(0, max_height-k));
 }
 ```
