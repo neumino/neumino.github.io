@@ -42,13 +42,37 @@ function main() {
 
 ```js
 function main() {
-    var n_temp = readLine().split(' ');
-    var n = parseInt(n_temp[0]);
-    var k = parseInt(n_temp[1]);
-    height = readLine().split(' ');
-    height = height.map(Number);
-    // your code goes here
-    var max_height = Math.max.apply(Math, height)
-    console.log(Math.max(0, max_height-k));
+  var n_temp = readLine().split(' ');
+  var n = parseInt(n_temp[0]);
+  var k = parseInt(n_temp[1]);
+  height = readLine().split(' ');
+  height = height.map(Number);
+  // your code goes here
+  var max_height = Math.max.apply(Math, height)
+  console.log(Math.max(0, max_height-k));
+}
+```
+
+### Designer PDF Viewer
+
+```js
+function main() {
+  h = readLine().split(' ');
+  h = h.map(Number);
+  var alphabet = 'abcdefghijklmnopqrstuvwxyz';
+  var chars = alphabet.split('');
+  var letter_height = {}; // map char -> height
+  for(var i=0; i<alphabet.length; i++) {
+    letter_height[alphabet[i]] = h[i];
+  }
+  var word = readLine();
+  var letters = word.split('');
+  var max_height = 0;
+  for(var i=0; i<letters.length; i++) {
+    if (max_height < letter_height[letters[i]]) {
+      max_height = letter_height[letters[i]];
+    }
+  }
+  console.log(max_height*letters.length)
 }
 ```
