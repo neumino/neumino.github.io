@@ -3,6 +3,9 @@ layout: page
 title: Contact
 ---
 
+Some solutions for some [HackerRank](https://www.hackerrank.com) problems. Use
+it to learn something, not to score points.
+
 ### Climbing the Leaderboard
 
 ```js
@@ -75,4 +78,40 @@ function main() {
   }
   console.log(max_height*letters.length)
 }
+```
+
+
+### Beautiful Days at the Movies
+
+```js
+function processData(input) {
+  var values = input.split(' ');
+  var i = parseInt(values[0]);
+  var j = parseInt(values[1]);
+  var k = parseInt(values[2]);
+  var result = 0;
+  for(var day=i; day<=j; day++) {
+    if (Math.abs(day-parseInt((''+day).split('').reverse().join(''))) % k == 0) {
+      result++;
+    }
+  }
+  console.log(result);
+}
+```
+
+
+### Viral Advertising
+
+```js
+function processData(input) {
+  var n = parseInt(input);
+  var reached = 5;
+  var liked = 0;
+  for(var i=0; i<n; i++) {
+    var new_liked = Math.floor(reached/2);
+    liked += new_liked;
+    reached = new_liked*3;
+  }
+  console.log(liked);
+} 
 ```
