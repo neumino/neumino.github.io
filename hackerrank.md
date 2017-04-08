@@ -3,9 +3,9 @@ layout: page
 title: Contact
 ---
 
-## Climbing the Leaderboard
+### Climbing the Leaderboard
 
-```
+```js
 function main() {
   var n = parseInt(readLine());
   scores = readLine().split(' ');
@@ -38,9 +38,9 @@ function main() {
 }
 ```
 
-## The Hurdle Race
+### The Hurdle Race
 
-```
+```js
 function main() {
     var n_temp = readLine().split(' ');
     var n = parseInt(n_temp[0]);
