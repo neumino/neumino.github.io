@@ -232,3 +232,49 @@ function main() {
   console.log(result ? 'Yes' : 'No')
 }
 ```
+
+### Non-Divisible Subset
+
+```js
+function processData(input) {
+  var lines = input.split('\n');
+  var k = parseInt(lines[0].split(' ')[1])
+  var a = lines[1].split(' ').map(Number)
+
+  var mods = {};
+  for(var i=0; i<a.length; i++) {
+    var rest = a[i] % k;
+    if (mods[rest] == null) {
+      mods[rest] = 1;
+    } else {
+      mods[rest]++;
+    }
+  }
+  var subset_count = {};
+  for(var key in mods) {
+    if (k == 2*key || key == 0) {
+      subset_count[key] = 1;
+      continue;
+    }
+
+    var sub_key;
+    if (key > k/2) {
+      sub_key = Math.abs(key-k)
+    } else {
+      sub_key = key;
+    }
+
+    if (subset_count[sub_key] == null) {
+      subset_count[sub_key] = mods[key];
+    } else if (subset_count[sub_key] < mods[key]) {
+      subset_count[sub_key] = mods[key];
+    }
+  }
+
+  var result = 0;
+  for(var key in subset_count) {
+    result += subset_count[key]
+  }
+  console.log(result);
+}
+```
