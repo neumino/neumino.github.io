@@ -303,3 +303,24 @@ function main() {
   console.log(result);
 }
 ```
+
+### Jumping on the clouds
+
+```js
+function main() {
+  var n = parseInt(readLine());
+  c = readLine().split(' ');
+  c = c.map(Number);
+  var current_position = 0;
+  var num_jump = 0;
+  while (current_position < n-1) {
+    if (c[current_position+2] == 0) {
+      current_position += 2;
+    } else {
+      current_position += 1;
+    }
+    num_jump++;
+  }
+  console.log(num_jump)
+}
+```
