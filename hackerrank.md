@@ -324,3 +324,26 @@ function main() {
   console.log(num_jump)
 }
 ```
+
+### Equalize the Array 
+
+```js
+function processData(input) {
+  var values = input.split('\n')[1].split(' ');
+  var map_values = {};
+  for(var i=0; i<values.length; i++) {
+    if (map_values[values[i]] == null) {
+      map_values[values[i]] = 1;
+    } else {
+      map_values[values[i]]++;
+    }
+  }
+  var max = null;
+  for(var key in map_values) {
+    if (max == null || map_values[key] > max) {
+      max = map_values[key];
+    }
+  }
+  console.log(values.length-max)
+}
+```
