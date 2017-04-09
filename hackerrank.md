@@ -155,3 +155,19 @@ function main() {
 }
 
 ```
+
+### Sequence Equation
+
+```js
+process.stdin.on("end", function () {
+  var lines = input.split('\n');
+  var map = {}; // p(x) -> x
+  var data = lines[1].split(' ');
+  for(var i=0; i<data.length; i++) {
+    map[data[i]] = i+1;
+  }
+  for(var i=0; i<data.length; i++) {
+    console.log(map[map[i+1]])
+  }
+});
+```
