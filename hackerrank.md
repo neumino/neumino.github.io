@@ -171,3 +171,31 @@ process.stdin.on("end", function () {
   }
 });
 ```
+
+### Jumping on the clouds: Revisited
+
+```js
+function main() {
+  var n_temp = readLine().split(' ');
+  var n = parseInt(n_temp[0]);
+  var k = parseInt(n_temp[1]);
+  c = readLine().split(' ');
+  c = c.map(Number);
+
+  var position = 0;
+  var energy = 100;
+  while(energy > 0) {
+    position += k;
+    position = position % n;
+    if (c[position % n] == 1) {
+      energy -= 2;
+    }
+    energy--;
+    
+    if (position == 0) {
+      break;
+    }
+  }
+  console.log(energy);
+}
+```
