@@ -115,3 +115,23 @@ function processData(input) {
   console.log(liked);
 } 
 ```
+
+### Save the Prisoner!
+
+```js
+function processData(input) {
+  var lines = input.split('\n');
+  var T = parseInt(lines[0]);
+  for(var t=0; t<T; t++) {
+    var data = lines[t+1].split(' ');
+    var N = parseInt(data[0]); // number of prisoners
+    var M = parseInt(data[1]); // number of sweets
+    var S = parseInt(data[2]); // first prisoner
+    
+    var rest = M % N;
+    var result = (S+rest-1)%N;
+    if (result == 0) { result = N; }
+    console.log(result);
+  }
+} 
+```
