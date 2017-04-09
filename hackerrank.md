@@ -135,3 +135,23 @@ function processData(input) {
   }
 } 
 ```
+
+### Circular Array Rotation
+
+```js
+function main() {
+  var n_temp = readLine().split(' ');
+  var n = parseInt(n_temp[0]); // size array
+  var k = parseInt(n_temp[1]); // number of rotation
+  var q = parseInt(n_temp[2]); // number of queries
+  a = readLine().split(' ');
+  a = a.map(Number);
+  for(var a0 = 0; a0 < q; a0++){
+    var m = parseInt(readLine());
+    var key = (m-k)%n;
+    if (key < 0) { key += n }
+    console.log(a[key])
+  }
+}
+
+```
