@@ -199,3 +199,36 @@ function main() {
   console.log(energy);
 }
 ```
+
+### Append and Delete
+
+```js
+function main() {
+  var s = readLine().split('');
+  var t = readLine().split('');
+  var k = parseInt(readLine());
+  // deletions or insertions required to make the strings the same length.
+  var required_operation = Math.abs(t.length-s.length);
+  if (k < required_operation) {
+    console.log('No');
+    return;
+  }
+  var operation_left = k-required_operation;
+  var result = true;
+  if (operation_left % 2 == 1) {
+    // We have an odd number of operation left.
+    // This can match only if we can delete everything and do one no-op deletion.
+    if (Math.min(s.length, t.length) > Math.floor((operation_left)/2)) {
+      console.log('No');
+      return;
+    }
+  }
+  for(var i=0; i<Math.min(s.length, t.length)-Math.floor((operation_left)/2); i++) {
+    if (s[i] != t[i]) {
+      result = false;
+      break;
+    }
+  }
+  console.log(result ? 'Yes' : 'No')
+}
+```
