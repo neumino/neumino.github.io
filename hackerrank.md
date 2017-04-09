@@ -278,3 +278,28 @@ function processData(input) {
   console.log(result);
 }
 ```
+
+### Repeated String
+
+```js
+function main() {
+  var s = readLine();
+  var n = parseInt(readLine());
+  var letters = s.split('');
+  var a_per_word = 0;
+  for(var i=0; i<letters.length; i++) {
+    if (letters[i] == 'a') {
+      a_per_word++;
+    }
+  }
+  var rest = n % s.length;
+  var num_full_word = (n-rest)/s.length
+  var result = num_full_word * a_per_word;
+  for(var i=0; i<rest; i++) {
+    if (letters[i] == 'a') {
+      result++;
+    }
+  }
+  console.log(result);
+}
+```
