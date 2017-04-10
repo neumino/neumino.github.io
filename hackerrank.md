@@ -347,3 +347,41 @@ function processData(input) {
   console.log(values.length-max)
 }
 ```
+
+### Organizing Containers of Balls
+
+```js
+function main() {
+  var q = parseInt(readLine());
+  for(var a0 = 0; a0 < q; a0++){
+    var n = parseInt(readLine());
+    var M = []; // [container][ball]
+    for(M_i = 0; M_i < n; M_i++){
+       M[M_i] = readLine().split(' ');
+       M[M_i] = M[M_i].map(Number);
+    }
+    var num_balls_per_container = []; // container -> num balls
+    var num_balls_per_type = []; // type -> num balls
+    for(var i=0; i<n; i++) {
+      var balls_in_container = 0;
+      var balls_of_type = 0;
+      for(var j=0; j<n; j++) {
+        balls_in_container += M[i][j];
+        balls_of_type += M[j][i];
+      }
+      num_balls_per_container.push(balls_in_container);
+      num_balls_per_type.push(balls_of_type);
+    }
+    num_balls_per_container.sort(function(a,b) { return a - b; })
+    num_balls_per_type.sort(function(a,b) { return a  b; })
+    var result = "Possible"
+    for(var i=0; i<n; i++) {
+      if (num_balls_per_container[i] != num_balls_per_type[i]) {
+        result = 'Impossible'
+        break;
+      }
+    }
+    console.log(result);
+  }
+}
+```
