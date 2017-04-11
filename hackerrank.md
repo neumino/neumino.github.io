@@ -453,3 +453,31 @@ function main() {
   console.log(max);
 }
 ```
+
+### Fair Rations
+
+```js
+function main() {
+  var N = parseInt(readLine());
+  B = readLine().split(' ');
+  B = B.map(Number);
+  var result = 0;
+  for(var i=0; i<B.length-1; i++) {
+    if (i == B.length-2) {
+      if (B[i] % 2 == 0 && B[i+1] % 2 == 0) {
+        console.log(result);
+      } else if (B[i] % 2 == 1 && B[i+1] % 2 == 1) {
+        console.log(result+1);
+      } else {
+        console.log('NO');
+      }
+    } else {
+      if (B[i] % 2 == 1) {
+        //B[i]++;
+        B[i+1]++;
+        result += 2;
+      }
+    }
+  }
+}
+```
