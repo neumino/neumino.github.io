@@ -535,3 +535,25 @@ function main() {
   }
 }
 ```
+
+### Strange Counter
+
+```js
+function main() {
+  var t = parseInt(readLine());
+  var start = 3;
+  var position = 1;
+  while(true) {
+    // position             -> start
+    // position + 1         -> start - 1
+    // position + start - 1 -> 1
+    if (position+start-1 < t) {
+      position = position+start;
+      start *= 2
+    } else {
+      console.log(start-t+position);
+      return;
+    }
+  }
+}
+```
