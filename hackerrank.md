@@ -385,3 +385,29 @@ function main() {
   }
 }
 ```
+
+### Beautiful Triplets
+
+```js
+function processData(input) {
+  var lines = input.split('\n');
+  var d = parseInt(lines[0].split(' ')[1])
+  var numbers = lines[1].split(' ').map(Number)
+  var map = {} // ai -> i
+  for(var i=0; i<numbers.length; i++) {
+    map[numbers[i]] = parseInt(numbers[i]);
+  }
+  var result = 0;
+  //for(var i=0; i<numbers.length; i++) {
+  for(var key in map) {
+    var ai = map[key]
+    if (map[d+ai] != null) {
+      aj = map[d+ai]
+      if (map[d+aj] != null) {
+        result++;
+      }
+    }
+  }
+  console.log(result);
+}
+```
