@@ -411,3 +411,26 @@ function processData(input) {
   console.log(result);
 }
 ```
+
+### Minimum Distances 
+
+```js
+function main() {
+  var n = parseInt(readLine());
+  A = readLine().split(' ');
+  A = A.map(Number);
+  var map = {};
+  var min = null;
+  for(var i=0; i<A.length; i++) {
+    if (map[A[i]] != null) {
+      min = min == null ? i-map[A[i]] : Math.min(min, i-map[A[i]]);
+    }
+    map[A[i]] = i;
+  }
+  if (min == null) {
+    console.log(-1);
+  } else {
+    console.log(min);
+  }
+}
+```
