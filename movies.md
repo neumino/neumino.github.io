@@ -21,7 +21,7 @@ In the near future, Major is the first of her kind: a human saved from a terribl
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xTPvnQ2wDlI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/HapT0SKcyfY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,16 +112,16 @@ Based on the airline accident that occurred in July of 2002 and on the events th
 	
 	
 
-### Going in Style
-*Released on 2017-04-06, vote average 4.8*
+### Monster High: Electrified
+*Released on 2017-04-04, vote average 5.5*
 
-Desperate to pay the bills and come through for their loved ones, three lifelong pals risk it all by embarking on a daring bid to knock off the very bank that absconded with their money.
+Monster High: Electrified
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/zy4V-JJHiG4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/YGRc3v4Ss_4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -133,24 +133,17 @@ Desperate to pay the bills and come through for their loved ones, three lifelong
 
 	
 	
-	
 
-  
+### Going in Style
+*Released on 2017-04-06, vote average 4.8*
 
-
-	
-	
-
-### Monster High: Electrified
-*Released on 2017-04-04, vote average 5.5*
-
-Monster High: Electrified
+Desperate to pay the bills and come through for their loved ones, three lifelong pals risk it all by embarking on a daring bid to knock off the very bank that absconded with their money.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/YGRc3v4Ss_4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/zy4V-JJHiG4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -190,12 +183,22 @@ A deep space mining vessel has been adrift for two years. It is suspected the cr
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### Free Fire
-*Released on 2017-03-31, vote average 6*
+*Released on 2017-03-31, vote average 5.8*
 
-Free Fire is a crime drama set in 1970&#39;s Boston, about a gun sale which goes wrong.
+A crime drama set in 1970s Boston, about a gun sale which goes wrong.
 
 <iframe id="player"
 	type="text/html"
@@ -212,15 +215,10 @@ Free Fire is a crime drama set in 1970&#39;s Boston, about a gun sale which goes
 
 
 	
-
-  
-
-
-	
 	
 
 ### Louis C.K. 2017
-*Released on 2017-04-04, vote average 8.5*
+*Released on 2017-04-04, vote average 8.1*
 
 Louis C.K. muses on religion, eternal love, giving dogs drugs, email fights, teachers and more in a live performance from Washington, D.C.
 
@@ -233,35 +231,6 @@ Louis C.K. muses on religion, eternal love, giving dogs drugs, email fights, tea
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -299,6 +268,50 @@ Claire and her husband find themselves moving back into Claire&#39;s childhood h
   
 
 
+	
+
+  
+
+
+	
+	
+
+### We Don&#39;t Belong Here
+*Released on 2017-04-04, vote average 10*
+
+A matriarch of a dysfunctional family is pushed to her tipping point by the disappearance of her son.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/gS-TvE0UqA4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -315,7 +328,7 @@ When a mysterious woman seduces Dom into the world of crime and a betrayal of th
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ZOfiPLaQ-qI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/440rPhbkZnA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
