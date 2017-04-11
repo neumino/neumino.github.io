@@ -115,3 +115,48 @@ function processData(input) {
   console.log(liked);
 } 
 ```
+
+### Absolute Permutation
+
+```js
+function main() {
+  var t = parseInt(readLine());
+  for(var a0 = 0; a0 < t; a0++){
+    var n_temp = readLine().split(' ');
+    var n = parseInt(n_temp[0]);
+    var k = parseInt(n_temp[1]);
+    var result = [];
+    var used = {};
+    for(var i=1; i<=n; i++) {
+      // abs(posi-i) = k
+      // posi = k + i or posti = i-k
+      var valid = [];
+      if (i-k>0) {
+        valid.push(i-k);
+      }
+      if (i+k<=n) {
+        valid.push(i+k);
+      }
+      valid.sort(function(a, b) { return a-b});
+      var found = false;
+      for(var j=0; j<valid.length; j++) {
+        if (used[valid[j]] == null) {
+          result.push(valid[j]);
+          used[valid[j]] = true;
+          found = true;
+          break;
+        }
+      }
+      if (found === false) {
+        result = null;
+        break;
+      }
+    }
+    if (result == null) {
+      console.log(-1);
+    } else {
+      console.log(result.join(' '));
+    }
+  }
+}
+```
