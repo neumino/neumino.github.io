@@ -600,3 +600,70 @@ function main() {
   }
 }
 ```
+
+### The Bomberman Game
+
+```js
+function print(grid) {
+  for(var i=0; i<grid.length; i++) {
+    console.log(grid[i].join(''));
+  }
+}
+function processData(input) {
+  // 0   1   2   3  4  5  6  7  8  9  10 11
+  // 3.  2.  13  .. 33 2. 13 .. 33 2. 13 ..
+  // ..  ..  33  .2 31 .. 33 .2 31 .. 33 .2
+  var lines = input.split('\n');
+  var N = parseInt(lines[0].split(' ')[2]);
+  var grid = [];
+  for(var i=1; i<lines.length; i++) {
+    grid.push(lines[i].split(''));
+  }
+  var grid3 = [];
+  for(var i=0; i<grid.length; i++) {
+    grid3.push([]);
+    for(var j=0; j<grid[0].length; j++) {
+      if (grid[i][j] == 'O'
+         || (i+1 < grid.length && grid[i+1][j] == 'O')
+         || (i > 0 && grid[i-1][j] == 'O')
+         || (j+1 < grid[0].length && grid[i][j+1] == 'O')
+         || (j > 0 && grid[i][j-1] == 'O')) {
+        grid3[i].push('.')
+      } else {
+        grid3[i].push('O')
+      }
+    }
+  }
+  
+  var grid1 = [];
+  for(var i=0; i<grid3.length; i++) {
+    grid1.push([]);
+    for(var j=0; j<grid3[0].length; j++) {
+      if (grid3[i][j] == 'O'
+         || (i+1 < grid3.length && grid3[i+1][j] == 'O')
+         || (i > 0 && grid3[i-1][j] == 'O')
+         || (j+1 < grid3[0].length && grid3[i][j+1] == 'O')
+         || (j > 0 && grid3[i][j-1] == 'O')) {
+        grid1[i].push('.')
+      } else {
+        grid1[i].push('O')
+      }
+    }
+  }  
+  
+  if (N == 0 || N==1) {
+    print(grid);
+  } else if (N % 2 == 0) {
+    for(var i=0; i<grid.length; i++) {
+      for(var j=0; j<grid[0].length; j++) {
+        grid[i][j] = 'O'
+      }
+    }
+    print(grid);
+  } else if (N % 4 == 3) {
+    print(grid3);
+  } else if (N % 4 == 1) {
+    print(grid1);  
+  }
+} 
+```
