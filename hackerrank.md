@@ -481,3 +481,57 @@ function main() {
   }
 }
 ```
+
+### Happy Ladybugs
+
+```js
+function main() {
+  var Q = parseInt(readLine());
+  for(var a0 = 0; a0 < Q; a0++){
+    var n = parseInt(readLine());
+    var b = readLine().split('');
+    var map = {};
+    var has_empty_cell = false;
+    for(var i=0; i<b.length; i++) {
+      if (b[i] == '_') {
+        has_empty_cell = true;
+      } else {
+        if (map[b[i]] == null) {
+          map[b[i]] = 1;
+        } else {
+          map[b[i]]++;
+        }
+      }
+    }
+    if (has_empty_cell) {
+      var result = 'YES'
+      for(var key in map) {
+        if (map[key] == 1) {
+          result = 'NO'
+        }
+      }
+      console.log(result);
+    } else {
+      var result = 'YES'
+      var last = b[0];
+      var count = 1;
+      for(var i=1; i<b.length; i++) {
+        if (b[i] == last) {
+          count++;
+        } else {
+          if (count == 1) {
+            result = 'NO'
+          } else {
+            last = b[i];
+            count = 1;
+          }
+        }
+      }
+      if (count == 1) {
+        result = 'NO';
+      }
+      console.log(result)
+    }
+  }
+}
+```
