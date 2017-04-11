@@ -434,3 +434,22 @@ function main() {
   }
 }
 ```
+
+### Flatland Space Stations
+
+```js
+function main() {
+  var n_temp = readLine().split(' ');
+  var n = parseInt(n_temp[0]);
+  var m = parseInt(n_temp[1]);
+  c = readLine().split(' ');
+  c = c.map(Number);
+  c.sort(function(a, b) { return a - b});
+  var max = c[0];
+  for(var i=1; i<c.length; i++) {
+    max = Math.max(max, Math.floor((c[i]-c[i-1])/2));
+  }
+  max = Math.max(max, n-1-c[c.length-1])
+  console.log(max);
+}
+```
