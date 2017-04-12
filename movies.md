@@ -46,6 +46,28 @@ In the near future, Major is the first of her kind: a human saved from a terribl
 	
 	
 
+### The Fate of the Furious
+*Released on 2017-04-12, vote average 6.3*
+
+When a mysterious woman seduces Dom into the world of crime and a betrayal of those closest to him, the crew face trials that will test them as never before.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZOfiPLaQ-qI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Discovery
 *Released on 2017-03-31, vote average 6.6*
 
@@ -91,7 +113,7 @@ In this fully animated, all-new take on the Smurfs, a mysterious map sets Smurfe
 	
 
 ### Aftermath
-*Released on 2017-04-06, vote average 5.4*
+*Released on 2017-04-06, vote average 5.5*
 
 Based on the airline accident that occurred in July of 2002 and on the events that took place 478 days later.
 
@@ -134,8 +156,30 @@ Monster High: Electrified
 	
 	
 
+### Teleios
+*Released on 2017-04-06, vote average 7.5*
+
+A deep space mining vessel has been adrift for two years. It is suspected the crew brutally killed each other, but the reason for the bloodbath is unknown. A rescue crew is sent to find if there are any survivors, what happened and why.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2FEBtfUaVxg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Going in Style
-*Released on 2017-04-06, vote average 4.8*
+*Released on 2017-04-06, vote average 5.2*
 
 Desperate to pay the bills and come through for their loved ones, three lifelong pals risk it all by embarking on a daring bid to knock off the very bank that absconded with their money.
 
@@ -155,24 +199,17 @@ Desperate to pay the bills and come through for their loved ones, three lifelong
 
 	
 	
-	
 
-  
+### Louis C.K. 2017
+*Released on 2017-04-04, vote average 8.1*
 
-
-	
-	
-
-### Teleios
-*Released on 2017-04-06, vote average 7.5*
-
-A deep space mining vessel has been adrift for two years. It is suspected the crew brutally killed each other, but the reason for the bloodbath is unknown. A rescue crew is sent to find if there are any survivors, what happened and why.
+Louis C.K. muses on religion, eternal love, giving dogs drugs, email fights, teachers and more in a live performance from Washington, D.C.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/2FEBtfUaVxg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/d1Fe3mInaTI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -215,22 +252,15 @@ A crime drama set in 1970s Boston, about a gun sale which goes wrong.
 
 
 	
-	
 
-### Louis C.K. 2017
-*Released on 2017-04-04, vote average 8.1*
+  
 
-Louis C.K. muses on religion, eternal love, giving dogs drugs, email fights, teachers and more in a live performance from Washington, D.C.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/d1Fe3mInaTI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
 	
 
   
@@ -274,40 +304,6 @@ Claire and her husband find themselves moving back into Claire&#39;s childhood h
 
 
 	
-	
-
-### We Don&#39;t Belong Here
-*Released on 2017-04-04, vote average 10*
-
-A matriarch of a dysfunctional family is pushed to her tipping point by the disappearance of her son.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/gS-TvE0UqA4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
 
   
 
@@ -320,7 +316,7 @@ A matriarch of a dysfunctional family is pushed to her tipping point by the disa
 	
 
 ### The Fate of the Furious
-*Released on 2017-04-12, vote average 7.7*
+*Released on 2017-04-12, vote average 6.3*
 
 When a mysterious woman seduces Dom into the world of crime and a betrayal of those closest to him, the crew face trials that will test them as never before.
 
@@ -328,7 +324,7 @@ When a mysterious woman seduces Dom into the world of crime and a betrayal of th
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/440rPhbkZnA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ZOfiPLaQ-qI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
