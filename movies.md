@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Fate of the Furious
-*Released on 2017-04-12, vote average 6.7*
+*Released on 2017-04-12, vote average 7.2*
 
 When a mysterious woman seduces Dom into the world of crime and a betrayal of those closest to him, the crew face trials that will test them as never before.
 
@@ -21,7 +21,7 @@ When a mysterious woman seduces Dom into the world of crime and a betrayal of th
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/440rPhbkZnA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ZOfiPLaQ-qI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ When a mysterious woman seduces Dom into the world of crime and a betrayal of th
 	
 	
 
-### The Discovery
-*Released on 2017-03-31, vote average 6.6*
+### Going in Style
+*Released on 2017-04-06, vote average 5.1*
 
-In the near future, due to a breakthrough scientific discovery by Dr. Thomas Harbor, there is now definitive proof of an afterlife. While countless people have chosen suicide to reset their existence, others try to decide what it all means. Among them is Dr. Harbor&#39;s son Will, who has arrived at his father&#39;s isolated compound with a mysterious young woman named Isla. There, they discover the strange acolytes who help Dr. Harbor with his experiments.
+Desperate to pay the bills and come through for their loved ones, three lifelong pals risk it all by embarking on a daring bid to knock off the very bank that absconded with their money.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/z9j6WcdU-ts?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/zy4V-JJHiG4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -90,28 +90,6 @@ Based on the airline accident that occurred in July of 2002 and on the events th
 	
 	
 
-### Teleios
-*Released on 2017-04-06, vote average 6.3*
-
-A deep space mining vessel has been adrift for two years. It is suspected the crew brutally killed each other, but the reason for the bloodbath is unknown. A rescue crew is sent to find if there are any survivors, what happened and why.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2FEBtfUaVxg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Monster High: Electrified
 *Released on 2017-04-04, vote average 5.5*
 
@@ -132,33 +110,18 @@ Monster High: Electrified
 
 
 	
-
-  
-
-
 	
 
-  
+### Teleios
+*Released on 2017-04-06, vote average 6.3*
 
-
-	
-
-  
-
-
-	
-	
-
-### Going in Style
-*Released on 2017-04-06, vote average 5.1*
-
-Desperate to pay the bills and come through for their loved ones, three lifelong pals risk it all by embarking on a daring bid to knock off the very bank that absconded with their money.
+A deep space mining vessel has been adrift for two years. It is suspected the crew brutally killed each other, but the reason for the bloodbath is unknown. A rescue crew is sent to find if there are any survivors, what happened and why.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/zy4V-JJHiG4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/2FEBtfUaVxg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -173,45 +136,6 @@ Desperate to pay the bills and come through for their loved ones, three lifelong
   
 
 
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Free Fire
-*Released on 2017-03-31, vote average 6*
-
-A crime drama set in 1970s Boston, about a gun sale which goes wrong.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/n-8l62zeIk0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -230,6 +154,38 @@ In the middle of a routine patrol, officer Daniel Carter happens upon a blood-so
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/xKpu0OKvvIU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Sandy Wexler
+*Released on 2017-04-14, vote average 6.5*
+
+Sandy Wexler (Adam Sandler) is a talent manager working in Los Angeles in the 1990s, diligently representing a group of eccentric clients on the fringes of show business. His single minded devotion is put to the test when he falls in love with his newest client, Courtney Clarke, a tremendously talented singer who he discovers at an amusement park. Over the course of a decade, the two of them play out a star-crossed love story.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wZBYQcaHdrM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -276,6 +232,48 @@ Louis C.K. muses on religion, eternal love, giving dogs drugs, email fights, tea
   
 
 
+	
+	
+
+### Cigarette Soup
+*Released on 2017-04-11, vote average 10*
+
+Afghanistan 2006 - A young aspiring journalist gets the opportunity of a lifetime when he is embedded with a small band of American soldiers.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/iLs6HGo5c8g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -287,12 +285,6 @@ Louis C.K. muses on religion, eternal love, giving dogs drugs, email fights, tea
 	
 
 	
-
-	
-
-	
-
-	
 	
 	
 
@@ -312,6 +304,29 @@ Louis C.K. muses on religion, eternal love, giving dogs drugs, email fights, tea
 
 	
 
+	
+
+	
+
+	
+
+	
+	
+
+### Lucas Brothers: On Drugs
+*Released on 2017-04-18, vote average 7*
+
+Deadpan twin comics Keith and Kenny Lucas take the stage in Brooklyn with a set that touches on drugs, race, Deion Sanders, teachers and O.J. Simpson.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ktr1a2p36Cw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
