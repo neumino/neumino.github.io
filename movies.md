@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Fate of the Furious
-*Released on 2017-04-12, vote average 7.2*
+*Released on 2017-04-12, vote average 7.3*
 
 When a mysterious woman seduces Dom into the world of crime and a betrayal of those closest to him, the crew face trials that will test them as never before.
 
@@ -46,6 +46,28 @@ When a mysterious woman seduces Dom into the world of crime and a betrayal of th
 	
 	
 
+### Aftermath
+*Released on 2017-04-06, vote average 5.9*
+
+Based on the airline accident that occurred in July of 2002 and on the events that took place 478 days later.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/oUXUm6he2-s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Going in Style
 *Released on 2017-04-06, vote average 5.1*
 
@@ -56,50 +78,6 @@ Desperate to pay the bills and come through for their loved ones, three lifelong
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/zy4V-JJHiG4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Aftermath
-*Released on 2017-04-06, vote average 5.9*
-
-Based on the airline accident that occurred in July of 2002 and on the events that took place 478 days later.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-9SAbOXOwMs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Monster High: Electrified
-*Released on 2017-04-04, vote average 5.5*
-
-Monster High: Electrified
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/YGRc3v4Ss_4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -137,6 +115,23 @@ A deep space mining vessel has been adrift for two years. It is suspected the cr
 
 
 	
+	
+
+### Monster High: Electrified
+*Released on 2017-04-04, vote average 5.5*
+
+Monster High: Electrified
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/YGRc3v4Ss_4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -145,7 +140,7 @@ A deep space mining vessel has been adrift for two years. It is suspected the cr
 	
 
 ### The Void
-*Released on 2017-04-07, vote average 6.6*
+*Released on 2017-04-07, vote average 6.5*
 
 In the middle of a routine patrol, officer Daniel Carter happens upon a blood-soaked figure limping down a deserted stretch of road. He rushes the young man to a nearby rural hospital staffed by a skeleton crew, only to discover that patients and personnel are transforming into something inhuman. As the horror intensifies, Carter leads the other survivors on a hellish voyage into the subterranean depths of the hospital in a desperate bid to end the nightmare before it&#39;s too late.
 
@@ -164,37 +159,22 @@ In the middle of a routine patrol, officer Daniel Carter happens upon a blood-so
 
 
 	
-
-  
-
-
 	
 
-  
+### Gifted
+*Released on 2017-04-12, vote average 4.5*
 
-
-	
-	
-
-### Sandy Wexler
-*Released on 2017-04-14, vote average 6.5*
-
-Sandy Wexler (Adam Sandler) is a talent manager working in Los Angeles in the 1990s, diligently representing a group of eccentric clients on the fringes of show business. His single minded devotion is put to the test when he falls in love with his newest client, Courtney Clarke, a tremendously talented singer who he discovers at an amusement park. Over the course of a decade, the two of them play out a star-crossed love story.
+Frank Adler (Chris Evans) is a single man raising a child prodigy - his spirited young niece Mary (Mckenna Grace) in a coastal town in Florida. Frank&#39;s plans for a normal school life for Mary are foiled when the seven-year-old&#39;s mathematical abilities come to the attention of Frank&#39;s formidable mother Evelyn (Lindsay Duncan) whose plans for her granddaughter threaten to separate Frank and Mary. Octavia Spencer plays Roberta, Frank and Mary&#39;s landlady and best friend. Jenny Slate is Mary&#39;s teacher, Bonnie, a young woman whose concern for her student develops into a connection with her uncle as well.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/wZBYQcaHdrM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/x7CAjpdRaXU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -233,10 +213,42 @@ Louis C.K. muses on religion, eternal love, giving dogs drugs, email fights, tea
 
 
 	
+
+  
+
+
+	
+	
+
+### Sandy Wexler
+*Released on 2017-04-14, vote average 7*
+
+Sandy Wexler (Adam Sandler) is a talent manager working in Los Angeles in the 1990s, diligently representing a group of eccentric clients on the fringes of show business. His single minded devotion is put to the test when he falls in love with his newest client, Courtney Clarke, a tremendously talented singer who he discovers at an amusement park. Over the course of a decade, the two of them play out a star-crossed love story.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wZBYQcaHdrM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### Cigarette Soup
-*Released on 2017-04-11, vote average 10*
+*Released on 2017-04-10, vote average 10*
 
 Afghanistan 2006 - A young aspiring journalist gets the opportunity of a lifetime when he is embedded with a small band of American soldiers.
 
@@ -248,6 +260,13 @@ Afghanistan 2006 - A young aspiring journalist gets the opportunity of a lifetim
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -285,20 +304,6 @@ Afghanistan 2006 - A young aspiring journalist gets the opportunity of a lifetim
 	
 
 	
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
 
 	
 
@@ -327,6 +332,18 @@ Deadpan twin comics Keith and Kenny Lucas take the stage in Brooklyn with a set 
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
