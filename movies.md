@@ -21,7 +21,7 @@ When a mysterious woman seduces Dom into the world of crime and a betrayal of th
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-9FU7Ia-BKg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/vve9TtFg9wM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -47,7 +47,7 @@ When a mysterious woman seduces Dom into the world of crime and a betrayal of th
 	
 
 ### Aftermath
-*Released on 2017-04-06, vote average 5.9*
+*Released on 2017-04-06, vote average 5.7*
 
 Based on the airline accident that occurred in July of 2002 and on the events that took place 478 days later.
 
@@ -90,28 +90,6 @@ In the middle of a routine patrol, officer Daniel Carter happens upon a blood-so
 	
 	
 
-### Monster High: Electrified
-*Released on 2017-04-04, vote average 5.5*
-
-Monster High: Electrified
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/YGRc3v4Ss_4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Teleios
 *Released on 2017-04-06, vote average 6.3*
 
@@ -126,33 +104,6 @@ A deep space mining vessel has been adrift for two years. It is suspected the cr
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### Gifted
-*Released on 2017-04-12, vote average 4.5*
-
-Frank Adler (Chris Evans) is a single man raising a child prodigy - his spirited young niece Mary (Mckenna Grace) in a coastal town in Florida. Frank&#39;s plans for a normal school life for Mary are foiled when the seven-year-old&#39;s mathematical abilities come to the attention of Frank&#39;s formidable mother Evelyn (Lindsay Duncan) whose plans for her granddaughter threaten to separate Frank and Mary. Octavia Spencer plays Roberta, Frank and Mary&#39;s landlady and best friend. Jenny Slate is Mary&#39;s teacher, Bonnie, a young woman whose concern for her student develops into a connection with her uncle as well.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/x7CAjpdRaXU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -184,7 +135,7 @@ Sandy Wexler (Adam Sandler) is a talent manager working in Los Angeles in the 19
 	
 
 ### Going in Style
-*Released on 2017-04-06, vote average 5.1*
+*Released on 2017-04-06, vote average 5.9*
 
 Desperate to pay the bills and come through for their loved ones, three lifelong pals risk it all by embarking on a daring bid to knock off the very bank that absconded with their money.
 
@@ -202,6 +153,57 @@ Desperate to pay the bills and come through for their loved ones, three lifelong
   
 
 
+	
+	
+
+### Stayin&#39; Alive: A Grammy Salute to the Music of the Bee Gees
+*Released on 2017-04-16, vote average 6*
+
+A star-studded tribute concert celebrating the iconic pop trio&#39;s impressive career.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3Ehs47uSpEI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Monster High: Electrified
+*Released on 2017-04-04, vote average 5.5*
+
+Monster High: Electrified
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/YGRc3v4Ss_4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -240,18 +242,23 @@ Louis C.K. muses on religion, eternal love, giving dogs drugs, email fights, tea
 
 
 	
+
+  
+
+
+	
 	
 
-### The Outcasts
-*Released on 2017-04-14, vote average 6*
+### Gifted
+*Released on 2017-04-12, vote average 4.5*
 
-After falling victim to a humiliating prank by the high school Queen Bee, best friends and world-class geeks, Mindy and Jodi, decide to get their revenge by uniting the outcasts of the school against her and her circle of friends.
+Frank Adler (Chris Evans) is a single man raising a child prodigy - his spirited young niece Mary (Mckenna Grace) in a coastal town in Florida. Frank&#39;s plans for a normal school life for Mary are foiled when the seven-year-old&#39;s mathematical abilities come to the attention of Frank&#39;s formidable mother Evelyn (Lindsay Duncan) whose plans for her granddaughter threaten to separate Frank and Mary. Octavia Spencer plays Roberta, Frank and Mary&#39;s landlady and best friend. Jenny Slate is Mary&#39;s teacher, Bonnie, a young woman whose concern for her student develops into a connection with her uncle as well.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/QkEhyS6kfbs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/x7CAjpdRaXU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -274,10 +281,22 @@ After falling victim to a humiliating prank by the high school Queen Bee, best f
 
 
 	
+	
 
-  
+### The Outcasts
+*Released on 2017-04-14, vote average 6*
 
+After falling victim to a humiliating prank by the high school Queen Bee, best friends and world-class geeks, Mindy and Jodi, decide to get their revenge by uniting the outcasts of the school against her and her circle of friends.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QkEhyS6kfbs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -342,6 +361,8 @@ Deadpan twin comics Keith and Kenny Lucas take the stage in Brooklyn with a set 
 
 	
 
+	
+	
 	
 
 	
