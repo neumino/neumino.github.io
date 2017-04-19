@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Fate of the Furious
-*Released on 2017-04-12, vote average 7.2*
+*Released on 2017-04-12, vote average 7.1*
 
 When a mysterious woman seduces Dom into the world of crime and a betrayal of those closest to him, the crew face trials that will test them as never before.
 
@@ -46,16 +46,16 @@ When a mysterious woman seduces Dom into the world of crime and a betrayal of th
 	
 	
 
-### Aftermath
-*Released on 2017-04-06, vote average 5.7*
+### Sandy Wexler
+*Released on 2017-04-14, vote average 5.5*
 
-Based on the airline accident that occurred in July of 2002 and on the events that took place 478 days later.
+Sandy Wexler (Adam Sandler) is a talent manager working in Los Angeles in the 1990s, diligently representing a group of eccentric clients on the fringes of show business. His single minded devotion is put to the test when he falls in love with his newest client, Courtney Clarke, a tremendously talented singer who he discovers at an amusement park. Over the course of a decade, the two of them play out a star-crossed love story.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/oUXUm6he2-s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/wZBYQcaHdrM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -90,6 +90,28 @@ In the middle of a routine patrol, officer Daniel Carter happens upon a blood-so
 	
 	
 
+### Aftermath
+*Released on 2017-04-06, vote average 5.7*
+
+Based on the airline accident that occurred in July of 2002 and on the events that took place 478 days later.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/oUXUm6he2-s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Teleios
 *Released on 2017-04-06, vote average 6.3*
 
@@ -109,45 +131,6 @@ A deep space mining vessel has been adrift for two years. It is suspected the cr
   
 
 
-	
-	
-
-### Sandy Wexler
-*Released on 2017-04-14, vote average 6*
-
-Sandy Wexler (Adam Sandler) is a talent manager working in Los Angeles in the 1990s, diligently representing a group of eccentric clients on the fringes of show business. His single minded devotion is put to the test when he falls in love with his newest client, Courtney Clarke, a tremendously talented singer who he discovers at an amusement park. Over the course of a decade, the two of them play out a star-crossed love story.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wZBYQcaHdrM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Going in Style
-*Released on 2017-04-06, vote average 5.9*
-
-Desperate to pay the bills and come through for their loved ones, three lifelong pals risk it all by embarking on a daring bid to knock off the very bank that absconded with their money.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zy4V-JJHiG4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -178,69 +161,20 @@ A star-studded tribute concert celebrating the iconic pop trio&#39;s impressive 
 	
 	
 
-### Monster High: Electrified
-*Released on 2017-04-04, vote average 5.5*
+### Going in Style
+*Released on 2017-04-06, vote average 5.9*
 
-Monster High: Electrified
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/YGRc3v4Ss_4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Louis C.K. 2017
-*Released on 2017-04-04, vote average 8.1*
-
-Louis C.K. muses on religion, eternal love, giving dogs drugs, email fights, teachers and more in a live performance from Washington, D.C.
+Desperate to pay the bills and come through for their loved ones, three lifelong pals risk it all by embarking on a daring bid to knock off the very bank that absconded with their money.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/d1Fe3mInaTI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/hcdTN5soeQw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -250,7 +184,7 @@ Louis C.K. muses on religion, eternal love, giving dogs drugs, email fights, tea
 	
 
 ### Gifted
-*Released on 2017-04-12, vote average 4.5*
+*Released on 2017-04-12, vote average 5.7*
 
 Frank Adler (Chris Evans) is a single man raising a child prodigy - his spirited young niece Mary (Mckenna Grace) in a coastal town in Florida. Frank&#39;s plans for a normal school life for Mary are foiled when the seven-year-old&#39;s mathematical abilities come to the attention of Frank&#39;s formidable mother Evelyn (Lindsay Duncan) whose plans for her granddaughter threaten to separate Frank and Mary. Octavia Spencer plays Roberta, Frank and Mary&#39;s landlady and best friend. Jenny Slate is Mary&#39;s teacher, Bonnie, a young woman whose concern for her student develops into a connection with her uncle as well.
 
@@ -274,6 +208,26 @@ Frank Adler (Chris Evans) is a single man raising a child prodigy - his spirited
 
 
 	
+
+  
+
+
+	
+	
+
+### Lucas Brothers: On Drugs
+*Released on 2017-04-18, vote average 7.5*
+
+Deadpan twin comics Keith and Kenny Lucas take the stage in Brooklyn with a set that touches on drugs, race, Deion Sanders, teachers and O.J. Simpson.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ktr1a2p36Cw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -308,6 +262,35 @@ After falling victim to a humiliating prank by the high school Queen Bee, best f
 
 
 	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 
   
 
@@ -317,26 +300,18 @@ After falling victim to a humiliating prank by the high school Queen Bee, best f
 
 
 	
-
 	
 
-	
+### Guardians of the Galaxy Vol. 2
+*Released on 2017-04-25, vote average 6.3*
 
-	
-
-	
-	
-
-### Lucas Brothers: On Drugs
-*Released on 2017-04-18, vote average 7*
-
-Deadpan twin comics Keith and Kenny Lucas take the stage in Brooklyn with a set that touches on drugs, race, Deion Sanders, teachers and O.J. Simpson.
+The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill&#39;s true parentage.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ktr1a2p36Cw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/wUn05hdkhjM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -362,7 +337,13 @@ Deadpan twin comics Keith and Kenny Lucas take the stage in Brooklyn with a set 
 	
 
 	
+
 	
+
+	
+
+	
+
 	
 
 	
