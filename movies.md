@@ -47,7 +47,7 @@ When a mysterious woman seduces Dom into the world of crime and a betrayal of th
 	
 
 ### Sandy Wexler
-*Released on 2017-04-14, vote average 5.5*
+*Released on 2017-04-14, vote average 5.7*
 
 Sandy Wexler (Adam Sandler) is a talent manager working in Los Angeles in the 1990s, diligently representing a group of eccentric clients on the fringes of show business. His single minded devotion is put to the test when he falls in love with his newest client, Courtney Clarke, a tremendously talented singer who he discovers at an amusement park. Over the course of a decade, the two of them play out a star-crossed love story.
 
@@ -68,16 +68,16 @@ Sandy Wexler (Adam Sandler) is a talent manager working in Los Angeles in the 19
 	
 	
 
-### The Void
-*Released on 2017-04-07, vote average 6.4*
+### Aftermath
+*Released on 2017-04-06, vote average 5.5*
 
-In the middle of a routine patrol, officer Daniel Carter happens upon a blood-soaked figure limping down a deserted stretch of road. He rushes the young man to a nearby rural hospital staffed by a skeleton crew, only to discover that patients and personnel are transforming into something inhuman. As the horror intensifies, Carter leads the other survivors on a hellish voyage into the subterranean depths of the hospital in a desperate bid to end the nightmare before it&#39;s too late.
+Based on the airline accident that occurred in July of 2002 and on the events that took place 478 days later.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xKpu0OKvvIU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/oUXUm6he2-s?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -90,16 +90,38 @@ In the middle of a routine patrol, officer Daniel Carter happens upon a blood-so
 	
 	
 
-### Aftermath
-*Released on 2017-04-06, vote average 5.7*
+### Going in Style
+*Released on 2017-04-06, vote average 5.9*
 
-Based on the airline accident that occurred in July of 2002 and on the events that took place 478 days later.
+Desperate to pay the bills and come through for their loved ones, three lifelong pals risk it all by embarking on a daring bid to knock off the very bank that absconded with their money.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/oUXUm6he2-s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/hcdTN5soeQw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Void
+*Released on 2017-04-07, vote average 6.3*
+
+In the middle of a routine patrol, officer Daniel Carter happens upon a blood-soaked figure limping down a deserted stretch of road. He rushes the young man to a nearby rural hospital staffed by a skeleton crew, only to discover that patients and personnel are transforming into something inhuman. As the horror intensifies, Carter leads the other survivors on a hellish voyage into the subterranean depths of the hospital in a desperate bid to end the nightmare before it&#39;s too late.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xKpu0OKvvIU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -159,18 +181,23 @@ A star-studded tribute concert celebrating the iconic pop trio&#39;s impressive 
 
 
 	
+
+  
+
+
+	
 	
 
-### Going in Style
-*Released on 2017-04-06, vote average 5.9*
+### Lucas Brothers: On Drugs
+*Released on 2017-04-18, vote average 7.5*
 
-Desperate to pay the bills and come through for their loved ones, three lifelong pals risk it all by embarking on a daring bid to knock off the very bank that absconded with their money.
+Deadpan twin comics Keith and Kenny Lucas take the stage in Brooklyn with a set that touches on drugs, race, Deion Sanders, teachers and O.J. Simpson.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/hcdTN5soeQw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ktr1a2p36Cw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -181,10 +208,15 @@ Desperate to pay the bills and come through for their loved ones, three lifelong
 
 
 	
+
+  
+
+
+	
 	
 
 ### Gifted
-*Released on 2017-04-12, vote average 5.7*
+*Released on 2017-04-12, vote average 5.5*
 
 Frank Adler (Chris Evans) is a single man raising a child prodigy - his spirited young niece Mary (Mckenna Grace) in a coastal town in Florida. Frank&#39;s plans for a normal school life for Mary are foiled when the seven-year-old&#39;s mathematical abilities come to the attention of Frank&#39;s formidable mother Evelyn (Lindsay Duncan) whose plans for her granddaughter threaten to separate Frank and Mary. Octavia Spencer plays Roberta, Frank and Mary&#39;s landlady and best friend. Jenny Slate is Mary&#39;s teacher, Bonnie, a young woman whose concern for her student develops into a connection with her uncle as well.
 
@@ -213,22 +245,15 @@ Frank Adler (Chris Evans) is a single man raising a child prodigy - his spirited
 
 
 	
-	
 
-### Lucas Brothers: On Drugs
-*Released on 2017-04-18, vote average 7.5*
+  
 
-Deadpan twin comics Keith and Kenny Lucas take the stage in Brooklyn with a set that touches on drugs, race, Deion Sanders, teachers and O.J. Simpson.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ktr1a2p36Cw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
 	
 
   
@@ -262,35 +287,6 @@ After falling victim to a humiliating prank by the high school Queen Bee, best f
 
 
 	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 
   
 
@@ -303,7 +299,7 @@ After falling victim to a humiliating prank by the high school Queen Bee, best f
 	
 
 ### Guardians of the Galaxy Vol. 2
-*Released on 2017-04-25, vote average 6.3*
+*Released on 2017-04-24, vote average 6.8*
 
 The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill&#39;s true parentage.
 
@@ -332,6 +328,8 @@ The Guardians must fight to keep their newfound family together as they unravel 
 
 	
 
+	
+	
 	
 
 	
