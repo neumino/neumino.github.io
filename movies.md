@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Fate of the Furious
-*Released on 2017-04-12, vote average 7.1*
+*Released on 2017-04-12, vote average 7*
 
 When a mysterious woman seduces Dom into the world of crime and a betrayal of those closest to him, the crew face trials that will test them as never before.
 
@@ -66,45 +66,6 @@ Sandy Wexler (Adam Sandler) is a talent manager working in Los Angeles in the 19
 
 
 	
-	
-
-### Aftermath
-*Released on 2017-04-06, vote average 5.5*
-
-Based on the airline accident that occurred in July of 2002 and on the events that took place 478 days later.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/oUXUm6he2-s?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Going in Style
-*Released on 2017-04-06, vote average 5.9*
-
-Desperate to pay the bills and come through for their loved ones, three lifelong pals risk it all by embarking on a daring bid to knock off the very bank that absconded with their money.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hcdTN5soeQw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -132,72 +93,28 @@ In the middle of a routine patrol, officer Daniel Carter happens upon a blood-so
 
 
 	
+
+  
+
+
 	
 
-### Teleios
-*Released on 2017-04-06, vote average 6.3*
+  
 
-A deep space mining vessel has been adrift for two years. It is suspected the crew brutally killed each other, but the reason for the bloodbath is unknown. A rescue crew is sent to find if there are any survivors, what happened and why.
+
+	
+	
+
+### Born in China
+*Released on 2017-04-21, vote average 5*
+
+Venturing into the wilds of China, &#34;Born in China&#34; captures intimate moments with a panda bear and her growing cub, a young golden monkey who feels displaced by his baby sister, and a mother snow leopard struggling to raise her two cubs.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/2FEBtfUaVxg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Stayin&#39; Alive: A Grammy Salute to the Music of the Bee Gees
-*Released on 2017-04-16, vote average 6*
-
-A star-studded tribute concert celebrating the iconic pop trio&#39;s impressive career.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3Ehs47uSpEI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Lucas Brothers: On Drugs
-*Released on 2017-04-18, vote average 7.5*
-
-Deadpan twin comics Keith and Kenny Lucas take the stage in Brooklyn with a set that touches on drugs, race, Deion Sanders, teachers and O.J. Simpson.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ktr1a2p36Cw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/PGJh7Zhq6SE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -250,32 +167,64 @@ Frank Adler (Chris Evans) is a single man raising a child prodigy - his spirited
 
 
 	
-
-  
-
-
 	
 
-  
+### Lucas Brothers: On Drugs
+*Released on 2017-04-18, vote average 7.5*
 
-
-	
-	
-
-### The Outcasts
-*Released on 2017-04-14, vote average 6*
-
-After falling victim to a humiliating prank by the high school Queen Bee, best friends and world-class geeks, Mindy and Jodi, decide to get their revenge by uniting the outcasts of the school against her and her circle of friends.
+Deadpan twin comics Keith and Kenny Lucas take the stage in Brooklyn with a set that touches on drugs, race, Deion Sanders, teachers and O.J. Simpson.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/QkEhyS6kfbs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ktr1a2p36Cw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Stayin&#39; Alive: A Grammy Salute to the Music of the Bee Gees
+*Released on 2017-04-16, vote average 6*
+
+A star-studded tribute concert celebrating the iconic pop trio&#39;s impressive career.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3Ehs47uSpEI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -299,7 +248,7 @@ After falling victim to a humiliating prank by the high school Queen Bee, best f
 	
 
 ### Guardians of the Galaxy Vol. 2
-*Released on 2017-04-24, vote average 6.8*
+*Released on 2017-04-24, vote average 7.9*
 
 The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill&#39;s true parentage.
 
@@ -308,6 +257,29 @@ The Guardians must fight to keep their newfound family together as they unravel 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/wUn05hdkhjM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+	
+
+### Born in China
+*Released on 2017-04-21, vote average 5*
+
+Venturing into the wilds of China, &#34;Born in China&#34; captures intimate moments with a panda bear and her growing cub, a young golden monkey who feels displaced by his baby sister, and a mother snow leopard struggling to raise her two cubs.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PGJh7Zhq6SE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -329,17 +301,11 @@ The Guardians must fight to keep their newfound family together as they unravel 
 	
 
 	
-	
-	
 
 	
 
 	
-
 	
-
-	
-
 	
 
 	
