@@ -21,7 +21,7 @@ When a mysterious woman seduces Dom into the world of crime and a betrayal of th
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/vve9TtFg9wM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-9FU7Ia-BKg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -73,20 +73,25 @@ Sandy Wexler (Adam Sandler) is a talent manager working in Los Angeles in the 19
 	
 	
 
-### The Void
-*Released on 2017-04-07, vote average 6.3*
+### The Promise
+*Released on 2017-04-21, vote average 9*
 
-In the middle of a routine patrol, officer Daniel Carter happens upon a blood-soaked figure limping down a deserted stretch of road. He rushes the young man to a nearby rural hospital staffed by a skeleton crew, only to discover that patients and personnel are transforming into something inhuman. As the horror intensifies, Carter leads the other survivors on a hellish voyage into the subterranean depths of the hospital in a desperate bid to end the nightmare before it&#39;s too late.
+Set during the last days of the Ottoman Empire, The Promise follows a love triangle between Michael, a brilliant medical student, the beautiful and sophisticated artist Ana, and Chris - a renowned American journalist based in Paris.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xKpu0OKvvIU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/gnwgMYeaqr4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -130,21 +135,16 @@ Venturing into the wilds of China, &#34;Born in China&#34; captures intimate mom
 
 
 	
+
+  
+
+
 	
 
-### Gifted
-*Released on 2017-04-12, vote average 5.5*
+  
 
-Frank Adler (Chris Evans) is a single man raising a child prodigy - his spirited young niece Mary (Mckenna Grace) in a coastal town in Florida. Frank&#39;s plans for a normal school life for Mary are foiled when the seven-year-old&#39;s mathematical abilities come to the attention of Frank&#39;s formidable mother Evelyn (Lindsay Duncan) whose plans for her granddaughter threaten to separate Frank and Mary. Octavia Spencer plays Roberta, Frank and Mary&#39;s landlady and best friend. Jenny Slate is Mary&#39;s teacher, Bonnie, a young woman whose concern for her student develops into a connection with her uncle as well.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/x7CAjpdRaXU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
+	
 	
 	
 
@@ -167,59 +167,10 @@ Frank Adler (Chris Evans) is a single man raising a child prodigy - his spirited
 
 
 	
-	
-
-### Lucas Brothers: On Drugs
-*Released on 2017-04-18, vote average 7.5*
-
-Deadpan twin comics Keith and Kenny Lucas take the stage in Brooklyn with a set that touches on drugs, race, Deion Sanders, teachers and O.J. Simpson.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ktr1a2p36Cw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Stayin&#39; Alive: A Grammy Salute to the Music of the Bee Gees
-*Released on 2017-04-16, vote average 6*
-
-A star-studded tribute concert celebrating the iconic pop trio&#39;s impressive career.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3Ehs47uSpEI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -248,7 +199,7 @@ A star-studded tribute concert celebrating the iconic pop trio&#39;s impressive 
 	
 
 ### Guardians of the Galaxy Vol. 2
-*Released on 2017-04-24, vote average 7.9*
+*Released on 2017-04-24, vote average 7.5*
 
 The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill&#39;s true parentage.
 
@@ -268,23 +219,6 @@ The Guardians must fight to keep their newfound family together as they unravel 
 	
 
 	
-	
-
-### Born in China
-*Released on 2017-04-21, vote average 5*
-
-Venturing into the wilds of China, &#34;Born in China&#34; captures intimate moments with a panda bear and her growing cub, a young golden monkey who feels displaced by his baby sister, and a mother snow leopard struggling to raise her two cubs.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/PGJh7Zhq6SE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
@@ -304,8 +238,6 @@ Venturing into the wilds of China, &#34;Born in China&#34; captures intimate mom
 
 	
 
-	
-	
 	
 
 	
