@@ -66,11 +66,6 @@ Sandy Wexler (Adam Sandler) is a talent manager working in Los Angeles in the 19
 
 
 	
-
-  
-
-
-	
 	
 
 ### The Promise
@@ -87,6 +82,16 @@ Set during the last days of the Ottoman Empire, The Promise follows a love trian
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -145,8 +150,6 @@ Venturing into the wilds of China, &#34;Born in China&#34; captures intimate mom
 
 
 	
-	
-	
 
   
 
@@ -162,15 +165,29 @@ Venturing into the wilds of China, &#34;Born in China&#34; captures intimate mom
 
 
 	
+	
 
-  
+### Sand Castle
+*Released on 2017-04-21, vote average 6.3*
 
+Set during the occupation of Iraq, a squad of U.S. soldiers try to protect a small village.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8hq28cZ938E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
 
 
+	
+	
 	
 
   
@@ -199,7 +216,7 @@ Venturing into the wilds of China, &#34;Born in China&#34; captures intimate mom
 	
 
 ### Guardians of the Galaxy Vol. 2
-*Released on 2017-04-24, vote average 7.5*
+*Released on 2017-04-24, vote average 7.2*
 
 The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill&#39;s true parentage.
 
