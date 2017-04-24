@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Fate of the Furious
-*Released on 2017-04-12, vote average 7*
+*Released on 2017-04-12, vote average 6.9*
 
 When a mysterious woman seduces Dom into the world of crime and a betrayal of those closest to him, the crew face trials that will test them as never before.
 
@@ -46,8 +46,35 @@ When a mysterious woman seduces Dom into the world of crime and a betrayal of th
 	
 	
 
+### Guardians of the Galaxy Vol. 2
+*Released on 2017-04-24, vote average 7*
+
+The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill&#39;s true parentage.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wUn05hdkhjM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### Sandy Wexler
-*Released on 2017-04-14, vote average 5.7*
+*Released on 2017-04-14, vote average 5.5*
 
 Sandy Wexler (Adam Sandler) is a talent manager working in Los Angeles in the 1990s, diligently representing a group of eccentric clients on the fringes of show business. His single minded devotion is put to the test when he falls in love with his newest client, Courtney Clarke, a tremendously talented singer who he discovers at an amusement park. Over the course of a decade, the two of them play out a star-crossed love story.
 
@@ -88,31 +115,6 @@ Set during the last days of the Ottoman Empire, The Promise follows a love trian
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### Born in China
@@ -140,35 +142,10 @@ Venturing into the wilds of China, &#34;Born in China&#34; captures intimate mom
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### Sand Castle
-*Released on 2017-04-21, vote average 6.3*
+*Released on 2017-04-21, vote average 6.4*
 
 Set during the occupation of Iraq, a squad of U.S. soldiers try to protect a small village.
 
@@ -187,7 +164,64 @@ Set during the occupation of Iraq, a squad of U.S. soldiers try to protect a sma
 
 
 	
+
+  
+
+
 	
+
+  
+
+
+	
+	
+
+### Gifted
+*Released on 2017-04-12, vote average 5.6*
+
+Frank Adler (Chris Evans) is a single man raising a child prodigy - his spirited young niece Mary (Mckenna Grace) in a coastal town in Florida. Frank&#39;s plans for a normal school life for Mary are foiled when the seven-year-old&#39;s mathematical abilities come to the attention of Frank&#39;s formidable mother Evelyn (Lindsay Duncan) whose plans for her granddaughter threaten to separate Frank and Mary. Octavia Spencer plays Roberta, Frank and Mary&#39;s landlady and best friend. Jenny Slate is Mary&#39;s teacher, Bonnie, a young woman whose concern for her student develops into a connection with her uncle as well.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/x7CAjpdRaXU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -216,7 +250,7 @@ Set during the occupation of Iraq, a squad of U.S. soldiers try to protect a sma
 	
 
 ### Guardians of the Galaxy Vol. 2
-*Released on 2017-04-24, vote average 7.2*
+*Released on 2017-04-24, vote average 7*
 
 The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill&#39;s true parentage.
 
