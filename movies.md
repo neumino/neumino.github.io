@@ -21,7 +21,7 @@ When a mysterious woman seduces Dom into the world of crime and a betrayal of th
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-9FU7Ia-BKg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/vve9TtFg9wM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -66,6 +66,23 @@ The Guardians must fight to keep their newfound family together as they unravel 
 
 
 	
+	
+
+### The Promise
+*Released on 2017-04-21, vote average 9*
+
+Set during the last days of the Ottoman Empire, The Promise follows a love triangle between Mikael, a brilliant medical student, the beautiful and sophisticated artist Ana, and Chris - a renowned American journalist based in Paris.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/gnwgMYeaqr4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -87,55 +104,6 @@ Sandy Wexler (Adam Sandler) is a talent manager working in Los Angeles in the 19
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### The Promise
-*Released on 2017-04-21, vote average 9*
-
-Set during the last days of the Ottoman Empire, The Promise follows a love triangle between Michael, a brilliant medical student, the beautiful and sophisticated artist Ana, and Chris - a renowned American journalist based in Paris.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/gnwgMYeaqr4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Born in China
-*Released on 2017-04-21, vote average 5*
-
-Venturing into the wilds of China, &#34;Born in China&#34; captures intimate moments with a panda bear and her growing cub, a young golden monkey who feels displaced by his baby sister, and a mother snow leopard struggling to raise her two cubs.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/PGJh7Zhq6SE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -169,23 +137,18 @@ Set during the occupation of Iraq, a squad of U.S. soldiers try to protect a sma
 
 
 	
-
-  
-
-
-	
 	
 
-### Gifted
-*Released on 2017-04-12, vote average 5.6*
+### I Am Heath Ledger
+*Released on 2017-04-23, vote average 10*
 
-Frank Adler (Chris Evans) is a single man raising a child prodigy - his spirited young niece Mary (Mckenna Grace) in a coastal town in Florida. Frank&#39;s plans for a normal school life for Mary are foiled when the seven-year-old&#39;s mathematical abilities come to the attention of Frank&#39;s formidable mother Evelyn (Lindsay Duncan) whose plans for her granddaughter threaten to separate Frank and Mary. Octavia Spencer plays Roberta, Frank and Mary&#39;s landlady and best friend. Jenny Slate is Mary&#39;s teacher, Bonnie, a young woman whose concern for her student develops into a connection with her uncle as well.
+The life and career of an actor, artist, and icon. His own journey through his own camera.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/x7CAjpdRaXU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/5PPTDsTnaPk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -201,7 +164,25 @@ Frank Adler (Chris Evans) is a single man raising a child prodigy - his spirited
 
 
 	
+
+  
+
+
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -246,23 +227,6 @@ Frank Adler (Chris Evans) is a single man raising a child prodigy - his spirited
 ## Opening soon
 
 
-	
-	
-
-### Guardians of the Galaxy Vol. 2
-*Released on 2017-04-24, vote average 7*
-
-The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill&#39;s true parentage.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wUn05hdkhjM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
