@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### The Fate of the Furious
-*Released on 2017-04-12, vote average 6.9*
+### Guardians of the Galaxy Vol. 2
+*Released on 2017-04-24, vote average 7.6*
 
-When a mysterious woman seduces Dom into the world of crime and a betrayal of those closest to him, the crew face trials that will test them as never before.
+The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill&#39;s true parentage.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-9FU7Ia-BKg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/wUn05hdkhjM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,38 +46,16 @@ When a mysterious woman seduces Dom into the world of crime and a betrayal of th
 	
 	
 
-### Guardians of the Galaxy Vol. 2
-*Released on 2017-04-24, vote average 6.9*
+### The Circle
+*Released on 2017-04-27, vote average 0.5*
 
-The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill&#39;s true parentage.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wUn05hdkhjM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Sandy Wexler
-*Released on 2017-04-14, vote average 5.5*
-
-Sandy Wexler (Adam Sandler) is a talent manager working in Los Angeles in the 1990s, diligently representing a group of eccentric clients on the fringes of show business. His single minded devotion is put to the test when he falls in love with his newest client, Courtney Clarke, a tremendously talented singer who he discovers at an amusement park. Over the course of a decade, the two of them play out a star-crossed love story.
+A young tech worker takes a job at a powerful Internet corporation, quickly rises up the company&#39;s ranks, and soon finds herself in a perilous situation concerning privacy, surveillance and freedom. She comes to learn that her decisions and actions will determine the future of humanity.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/wZBYQcaHdrM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/QUlr8Am4zQ0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -113,7 +91,7 @@ Set during the occupation of Iraq, a squad of U.S. soldiers try to protect a sma
 	
 
 ### The Promise
-*Released on 2017-04-21, vote average 9*
+*Released on 2017-04-21, vote average 6.3*
 
 Set during the last days of the Ottoman Empire, The Promise follows a love triangle between Mikael, a brilliant medical student, the beautiful and sophisticated artist Ana, and Chris - a renowned American journalist based in Paris.
 
@@ -159,52 +137,91 @@ A woman sets out to make life hell for her ex-husband&#39;s new wife.
 
 
 	
-
-  
-
-
 	
 
-  
+### Baahubali 2: The Conclusion
+*Released on 2017-04-27, vote average 1*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Gifted
-*Released on 2017-04-12, vote average 5.6*
-
-Frank Adler (Chris Evans) is a single man raising a child prodigy - his spirited young niece Mary (Mckenna Grace) in a coastal town in Florida. Frank&#39;s plans for a normal school life for Mary are foiled when the seven-year-old&#39;s mathematical abilities come to the attention of Frank&#39;s formidable mother Evelyn (Lindsay Duncan) whose plans for her granddaughter threaten to separate Frank and Mary. Octavia Spencer plays Roberta, Frank and Mary&#39;s landlady and best friend. Jenny Slate is Mary&#39;s teacher, Bonnie, a young woman whose concern for her student develops into a connection with her uncle as well.
+Our hero Shivudu comes to terms with his legacy and the responsibility placed on him by this knowledge. Amarendra Baahubali&#39;s quest aims to find the answer to the question &#34;Why did Kattappa kill Mahendra Baahubali ?&#34;
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/x7CAjpdRaXU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/5CHDp2pkvjs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Sandy Wexler
+*Released on 2017-04-14, vote average 5.5*
+
+Sandy Wexler (Adam Sandler) is a talent manager working in Los Angeles in the 1990s, diligently representing a group of eccentric clients on the fringes of show business. His single minded devotion is put to the test when he falls in love with his newest client, Courtney Clarke, a tremendously talented singer who he discovers at an amusement park. Over the course of a decade, the two of them play out a star-crossed love story.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wZBYQcaHdrM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Immortal Life of Henrietta Lacks
+*Released on 2017-04-22, vote average 6.2*
+
+An African-American woman becomes an unwitting pioneer for medical breakthroughs when her cells are used to create the first immortal human cell line in the early 1950s.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/X-jxEX1XQpY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -253,6 +270,23 @@ The life and career of an actor, artist, and icon. His own journey through his o
 
 
 	
+	
+
+### Vir Das: Abroad Understanding
+*Released on 2017-04-25, vote average 8*
+
+Comedian Vir Das tackles nationalism, globalism, good food and bad politics in two cleverly crosscut performances in New York and New Delhi.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zpkHBXYREkE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -281,14 +315,12 @@ A young tech worker takes a job at a powerful Internet corporation, quickly rise
 	
 
 	
-
-	
 	
 
 ### Baahubali 2: The Conclusion
 *Released on 2017-04-27, vote average 1*
 
-Our hero Shivudu comes to terms with his legacy and the responsibility placed on him by this knowledge. Shivudu&#39;s quest aims to find the answer to the question &#34;Why did Kattappa kill Baahubali?&#34;
+Our hero Shivudu comes to terms with his legacy and the responsibility placed on him by this knowledge. Amarendra Baahubali&#39;s quest aims to find the answer to the question &#34;Why did Kattappa kill Mahendra Baahubali ?&#34;
 
 <iframe id="player"
 	type="text/html"
@@ -313,6 +345,25 @@ Our hero Shivudu comes to terms with his legacy and the responsibility placed on
 
 	
 
+	
+
+	
+	
+
+### The Assignment
+*Released on 2017-04-27, vote average 10*
+
+Ace assassin Frank Kitchen is double crossed by gangsters and falls into the hands of rogue surgeon known as The Doctor who turns him into a woman. The hitman, now a hitwoman, sets out for revenge, aided by a nurse named Johnnie who also has secrets.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/iH1H4Ph4CEo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
