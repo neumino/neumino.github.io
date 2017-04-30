@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Guardians of the Galaxy Vol. 2
-*Released on 2017-04-24, vote average 7.7*
+*Released on 2017-04-24, vote average 7.8*
 
 The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill&#39;s true parentage.
 
@@ -91,15 +91,64 @@ Set during the occupation of Iraq, a squad of U.S. soldiers try to protect a sma
 	
 
 ### Baahubali 2: The Conclusion
-*Released on 2017-04-27, vote average 1*
+*Released on 2017-04-27, vote average 7.1*
 
-Our hero Shivudu comes to terms with his legacy and the responsibility placed on him by this knowledge. Amarendra Baahubali&#39;s quest aims to find the answer to the question &#34;Why did Kattappa kill Mahendra Baahubali ?&#34;
+When Mahendra, the son of Bahubali, learns about his heritage, he begins to look for answers. His story is juxtaposed with past events that unfolded in the Mahishmati Kingdom.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/5CHDp2pkvjs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/PJ-mIEZMJes?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### How to Be a Latin Lover
+*Released on 2017-04-28, vote average 10*
+
+An aging Latin lover gets dumped by his sugar mama and must fend for himself in a harsh world.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Nt2sbtg9Yfk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Casting JonBenet
+*Released on 2017-04-28, vote average 6.8*
+
+Twenty years after the modern world&#39;s most notorious child murder, the legacy of the crime and its impact are explored.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IxrUIiJ4rGg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -132,61 +181,7 @@ Set during the last days of the Ottoman Empire, The Promise follows a love trian
 
 
 	
-
-  
-
-
 	
-	
-	
-
-  
-
-
-	
-	
-
-### How to Be a Latin Lover
-*Released on 2017-04-28, vote average 10*
-
-An aging Latin lover gets dumped by his sugar mama and must fend for himself in a harsh world.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Nt2sbtg9Yfk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Unforgettable
-*Released on 2017-04-20, vote average 6.2*
-
-A woman sets out to make life hell for her ex-husband&#39;s new wife.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/iFXIBL617yc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -220,12 +215,32 @@ Ace assassin Frank Kitchen is double crossed by gangsters and falls into the han
 
 
 	
+	
+
+### Unforgettable
+*Released on 2017-04-20, vote average 5.8*
+
+A woman sets out to make life hell for her ex-husband&#39;s new wife.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/iFXIBL617yc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
 	
-	
+
+  
+
+
 	
 
   
