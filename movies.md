@@ -47,7 +47,7 @@ The Guardians must fight to keep their newfound family together as they unravel 
 	
 
 ### The Circle
-*Released on 2017-04-27, vote average 4.6*
+*Released on 2017-04-27, vote average 5.2*
 
 A young tech worker takes a job at a powerful Internet corporation, quickly rises up the company&#39;s ranks, and soon finds herself in a perilous situation concerning privacy, surveillance and freedom. She comes to learn that her decisions and actions will determine the future of humanity.
 
@@ -134,16 +134,16 @@ Set in 1950s Tuscany, Voice from the Stone is the haunting and suspenseful story
 	
 	
 
-### Unforgettable
-*Released on 2017-04-20, vote average 5.1*
+### Casting JonBenet
+*Released on 2017-04-28, vote average 6.4*
 
-A woman sets out to make life hell for her ex-husband&#39;s new wife.
+Twenty years after the modern world&#39;s most notorious child murder, the legacy of the crime and its impact are explored.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/iFXIBL617yc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/IxrUIiJ4rGg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -156,16 +156,48 @@ A woman sets out to make life hell for her ex-husband&#39;s new wife.
 	
 	
 
-### Casting JonBenet
-*Released on 2017-04-28, vote average 6.1*
+### How to Be a Latin Lover
+*Released on 2017-04-28, vote average 9.3*
 
-Twenty years after the modern world&#39;s most notorious child murder, the legacy of the crime and its impact are explored.
+An aging Latin lover gets dumped by his sugar mama and must fend for himself in a harsh world.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/IxrUIiJ4rGg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Nt2sbtg9Yfk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Unforgettable
+*Released on 2017-04-20, vote average 5.1*
+
+A woman sets out to make life hell for her ex-husband&#39;s new wife.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/iFXIBL617yc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -200,50 +232,6 @@ Set during the last days of the Ottoman Empire, The Promise follows a love trian
 	
 	
 
-### How to Be a Latin Lover
-*Released on 2017-04-28, vote average 9*
-
-An aging Latin lover gets dumped by his sugar mama and must fend for himself in a harsh world.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Nt2sbtg9Yfk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Small Crimes
-*Released on 2017-04-28, vote average 5.9*
-
-A disgraced former cop, fresh off a six-year prison sentence for attempted murder - returns home looking for redemption but winds up trapped in the mess he left behind.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/iGViGe452co?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Assignment
 *Released on 2017-04-27, vote average 6.2*
 
@@ -264,22 +252,7 @@ Ace assassin Frank Kitchen is double crossed by gangsters and falls into the han
 
 
 	
-
-  
-
-
 	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 	
 
   
@@ -293,12 +266,37 @@ Ace assassin Frank Kitchen is double crossed by gangsters and falls into the han
 
 
 	
+	
+
+### Vir Das: Abroad Understanding
+*Released on 2017-04-25, vote average 7*
+
+Comedian Vir Das tackles nationalism, globalism, good food and bad politics in two cleverly crosscut performances in New York and New Delhi.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zpkHBXYREkE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
 	
+
+  
+
+
 	
+
+  
+
+
 	
 
   
