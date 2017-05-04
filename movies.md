@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Guardians of the Galaxy Vol. 2
-*Released on 2017-04-24, vote average 7.9*
+*Released on 2017-04-24, vote average 7.8*
 
 The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill&#39;s true parentage.
 
@@ -46,16 +46,16 @@ The Guardians must fight to keep their newfound family together as they unravel 
 	
 	
 
-### The Circle
-*Released on 2017-04-27, vote average 5.3*
+### Baahubali 2: The Conclusion
+*Released on 2017-04-27, vote average 7.7*
 
-A young tech worker takes a job at a powerful Internet corporation, quickly rises up the company&#39;s ranks, and soon finds herself in a perilous situation concerning privacy, surveillance and freedom. She comes to learn that her decisions and actions will determine the future of humanity.
+When Mahendra, the son of Bahubali, learns about his heritage, he begins to look for answers. His story is juxtaposed with past events that unfolded in the Mahishmati Kingdom.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/QUlr8Am4zQ0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/PJ-mIEZMJes?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,16 +68,16 @@ A young tech worker takes a job at a powerful Internet corporation, quickly rise
 	
 	
 
-### Baahubali 2: The Conclusion
-*Released on 2017-04-27, vote average 7.7*
+### The Circle
+*Released on 2017-04-27, vote average 5.1*
 
-When Mahendra, the son of Bahubali, learns about his heritage, he begins to look for answers. His story is juxtaposed with past events that unfolded in the Mahishmati Kingdom.
+A young tech worker takes a job at a powerful Internet corporation, quickly rises up the company&#39;s ranks, and soon finds herself in a perilous situation concerning privacy, surveillance and freedom. She comes to learn that her decisions and actions will determine the future of humanity.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/PJ-mIEZMJes?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/QUlr8Am4zQ0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -113,7 +113,7 @@ Set in 1950s Tuscany, Voice from the Stone is the haunting and suspenseful story
 	
 
 ### Sand Castle
-*Released on 2017-04-21, vote average 6.4*
+*Released on 2017-04-21, vote average 6.3*
 
 Set during the occupation of Iraq, a squad of U.S. soldiers try to protect a small village.
 
@@ -134,20 +134,25 @@ Set during the occupation of Iraq, a squad of U.S. soldiers try to protect a sma
 	
 	
 
-### Small Crimes
-*Released on 2017-04-28, vote average 5.7*
+### The Promise
+*Released on 2017-04-21, vote average 6.3*
 
-A disgraced former cop, fresh off a six-year prison sentence for attempted murder - returns home looking for redemption but winds up trapped in the mess he left behind.
+Set during the last days of the Ottoman Empire, The Promise follows a love triangle between Mikael, a brilliant medical student, the beautiful and sophisticated artist Ana, and Chris - a renowned American journalist based in Paris.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/iGViGe452co?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/gnwgMYeaqr4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -176,18 +181,86 @@ An aging Latin lover gets dumped by his sugar mama and must fend for himself in 
 
 
 	
+
+  
+
+
+	
 	
 
-### The Promise
-*Released on 2017-04-21, vote average 6.3*
+### Warning: This Drug May Kill You
+*Released on 2017-05-01, vote average 5*
 
-Set during the last days of the Ottoman Empire, The Promise follows a love triangle between Mikael, a brilliant medical student, the beautiful and sophisticated artist Ana, and Chris - a renowned American journalist based in Paris.
+A harrowing, unflinching look at the devastating effects of opioid addiction in the U.S. told from the perspectives of four families devastated by the deadly epidemic.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/gnwgMYeaqr4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/cO1JpHEOcSI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Unforgettable
+*Released on 2017-04-20, vote average 4.4*
+
+A woman sets out to make life hell for her ex-husband&#39;s new wife.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/iFXIBL617yc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### The Assignment
+*Released on 2017-04-27, vote average 6.2*
+
+Ace assassin Frank Kitchen is double crossed by gangsters and falls into the hands of rogue surgeon known as The Doctor who turns him into a woman. The hitman, now a hitwoman, sets out for revenge, aided by a nurse named Johnnie who also has secrets.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/iH1H4Ph4CEo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -230,92 +303,6 @@ Twenty years after the modern world&#39;s most notorious child murder, the legac
 
 
 	
-	
-
-### Unforgettable
-*Released on 2017-04-20, vote average 4.4*
-
-A woman sets out to make life hell for her ex-husband&#39;s new wife.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/iFXIBL617yc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Warning: This Drug May Kill You
-*Released on 2017-05-01, vote average 5*
-
-A harrowing, unflinching look at the devastating effects of opioid addiction in the U.S. told from the perspectives of four families devastated by the deadly epidemic.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cO1JpHEOcSI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Assignment
-*Released on 2017-04-27, vote average 6.2*
-
-Ace assassin Frank Kitchen is double crossed by gangsters and falls into the hands of rogue surgeon known as The Doctor who turns him into a woman. The hitman, now a hitwoman, sets out for revenge, aided by a nurse named Johnnie who also has secrets.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/iH1H4Ph4CEo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 
   
 
@@ -329,6 +316,23 @@ Ace assassin Frank Kitchen is double crossed by gangsters and falls into the han
 ## Opening soon
 
 
+	
+	
+
+### Alien: Covenant
+*Released on 2017-05-10, vote average 8.5*
+
+Bound for a remote planet on the far side of the galaxy, the crew of the colony ship Covenant discovers what they think is an uncharted paradise, but is actually a dark, dangerous world — whose sole inhabitant is the “synthetic” David, survivor of the doomed Prometheus expedition.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/H0VW6sg50Pk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
