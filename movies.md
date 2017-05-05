@@ -46,30 +46,8 @@ The Guardians must fight to keep their newfound family together as they unravel 
 	
 	
 
-### Baahubali 2: The Conclusion
-*Released on 2017-04-27, vote average 7.7*
-
-When Mahendra, the son of Bahubali, learns about his heritage, he begins to look for answers. His story is juxtaposed with past events that unfolded in the Mahishmati Kingdom.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/PJ-mIEZMJes?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Circle
-*Released on 2017-04-27, vote average 5.1*
+*Released on 2017-04-27, vote average 5*
 
 A young tech worker takes a job at a powerful Internet corporation, quickly rises up the company&#39;s ranks, and soon finds herself in a perilous situation concerning privacy, surveillance and freedom. She comes to learn that her decisions and actions will determine the future of humanity.
 
@@ -90,16 +68,38 @@ A young tech worker takes a job at a powerful Internet corporation, quickly rise
 	
 	
 
-### Voice from the Stone
-*Released on 2017-04-28, vote average 5.9*
+### Baahubali 2: The Conclusion
+*Released on 2017-04-27, vote average 5.6*
 
-Set in 1950s Tuscany, Voice from the Stone is the haunting and suspenseful story of Verena, a solemn nurse drawn to aid a young boy who has fallen silent since the sudden passing of his mother.
+When Mahendra, the son of Bahubali, learns about his heritage, he begins to look for answers. His story is juxtaposed with past events that unfolded in the Mahishmati Kingdom.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/NU4qhUHYewA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/PJ-mIEZMJes?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Small Crimes
+*Released on 2017-04-28, vote average 5.7*
+
+A disgraced former cop, fresh off a six-year prison sentence for attempted murder - returns home looking for redemption but winds up trapped in the mess he left behind.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/iGViGe452co?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -122,6 +122,60 @@ Set during the occupation of Iraq, a squad of U.S. soldiers try to protect a sma
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/8hq28cZ938E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Voice from the Stone
+*Released on 2017-04-28, vote average 5.6*
+
+Set in 1950s Tuscany, Voice from the Stone is the haunting and suspenseful story of Verena, a solemn nurse drawn to aid a young boy who has fallen silent since the sudden passing of his mother.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/NU4qhUHYewA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### How to Be a Latin Lover
+*Released on 2017-04-28, vote average 8.2*
+
+An aging Latin lover gets dumped by his sugar mama and must fend for himself in a harsh world.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Nt2sbtg9Yfk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -160,111 +214,6 @@ Set during the last days of the Ottoman Empire, The Promise follows a love trian
 
 	
 	
-
-### How to Be a Latin Lover
-*Released on 2017-04-28, vote average 9.3*
-
-An aging Latin lover gets dumped by his sugar mama and must fend for himself in a harsh world.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Nt2sbtg9Yfk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Warning: This Drug May Kill You
-*Released on 2017-05-01, vote average 5*
-
-A harrowing, unflinching look at the devastating effects of opioid addiction in the U.S. told from the perspectives of four families devastated by the deadly epidemic.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cO1JpHEOcSI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Unforgettable
-*Released on 2017-04-20, vote average 4.4*
-
-A woman sets out to make life hell for her ex-husband&#39;s new wife.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/iFXIBL617yc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### The Assignment
-*Released on 2017-04-27, vote average 6.2*
-
-Ace assassin Frank Kitchen is double crossed by gangsters and falls into the hands of rogue surgeon known as The Doctor who turns him into a woman. The hitman, now a hitwoman, sets out for revenge, aided by a nurse named Johnnie who also has secrets.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/iH1H4Ph4CEo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -281,22 +230,20 @@ Ace assassin Frank Kitchen is double crossed by gangsters and falls into the han
 
 
 	
-	
 
-### Casting JonBenet
-*Released on 2017-04-28, vote average 6.4*
+  
 
-Twenty years after the modern world&#39;s most notorious child murder, the legacy of the crime and its impact are explored.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IxrUIiJ4rGg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -347,6 +294,23 @@ Bound for a remote planet on the far side of the galaxy, the crew of the colony 
 
 	
 
+	
+	
+
+### Snatched
+*Released on 2017-05-11, vote average 0.5*
+
+When her boyfriend dumps Emily, a spontaneous woman in her 30s, she persuades her ultra-cautious mom to accompany her on a vacation to Ecuador. At Emily&#39;s insistence, the pair seek out adventure, but suddenly find themselves kidnapped. When these two very different women are trapped on this wild journey, their bond as mother and daughter is tested and strengthened while they attempt to navigate the jungle and escape.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PsBWnst8f7w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
