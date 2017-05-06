@@ -46,28 +46,6 @@ The Guardians must fight to keep their newfound family together as they unravel 
 	
 	
 
-### The Circle
-*Released on 2017-04-27, vote average 5*
-
-A young tech worker takes a job at a powerful Internet corporation, quickly rises up the company&#39;s ranks, and soon finds herself in a perilous situation concerning privacy, surveillance and freedom. She comes to learn that her decisions and actions will determine the future of humanity.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/QUlr8Am4zQ0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Baahubali 2: The Conclusion
 *Released on 2017-04-27, vote average 5.6*
 
@@ -90,38 +68,16 @@ When Mahendra, the son of Bahubali, learns about his heritage, he begins to look
 	
 	
 
-### Small Crimes
-*Released on 2017-04-28, vote average 5.7*
+### The Circle
+*Released on 2017-04-27, vote average 5*
 
-A disgraced former cop, fresh off a six-year prison sentence for attempted murder - returns home looking for redemption but winds up trapped in the mess he left behind.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/iGViGe452co?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Sand Castle
-*Released on 2017-04-21, vote average 6.3*
-
-Set during the occupation of Iraq, a squad of U.S. soldiers try to protect a small village.
+A young tech worker takes a job at a powerful Internet corporation, quickly rises up the company&#39;s ranks, and soon finds herself in a perilous situation concerning privacy, surveillance and freedom. She comes to learn that her decisions and actions will determine the future of humanity.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/8hq28cZ938E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/QUlr8Am4zQ0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -135,7 +91,7 @@ Set during the occupation of Iraq, a squad of U.S. soldiers try to protect a sma
 	
 
 ### Voice from the Stone
-*Released on 2017-04-28, vote average 5.6*
+*Released on 2017-04-28, vote average 5.7*
 
 Set in 1950s Tuscany, Voice from the Stone is the haunting and suspenseful story of Verena, a solemn nurse drawn to aid a young boy who has fallen silent since the sudden passing of his mother.
 
@@ -164,6 +120,45 @@ Set in 1950s Tuscany, Voice from the Stone is the haunting and suspenseful story
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### How to Be a Latin Lover
@@ -180,50 +175,6 @@ An aging Latin lover gets dumped by his sugar mama and must fend for himself in 
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### The Promise
-*Released on 2017-04-21, vote average 6.3*
-
-Set during the last days of the Ottoman Empire, The Promise follows a love triangle between Mikael, a brilliant medical student, the beautiful and sophisticated artist Ana, and Chris - a renowned American journalist based in Paris.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/gnwgMYeaqr4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -287,14 +238,6 @@ Bound for a remote planet on the far side of the galaxy, the crew of the colony 
 	
 
 	
-
-	
-
-	
-
-	
-
-	
 	
 
 ### Snatched
@@ -311,6 +254,14 @@ When her boyfriend dumps Emily, a spontaneous woman in her 30s, she persuades he
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
 	
 
 	
