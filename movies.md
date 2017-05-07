@@ -46,6 +46,28 @@ The Guardians must fight to keep their newfound family together as they unravel 
 	
 	
 
+### The Circle
+*Released on 2017-04-27, vote average 5*
+
+A young tech worker takes a job at a powerful Internet corporation, quickly rises up the company&#39;s ranks, and soon finds herself in a perilous situation concerning privacy, surveillance and freedom. She comes to learn that her decisions and actions will determine the future of humanity.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QUlr8Am4zQ0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Baahubali 2: The Conclusion
 *Released on 2017-04-27, vote average 5.6*
 
@@ -68,20 +90,25 @@ When Mahendra, the son of Bahubali, learns about his heritage, he begins to look
 	
 	
 
-### The Circle
-*Released on 2017-04-27, vote average 5*
+### Small Crimes
+*Released on 2017-04-28, vote average 5.7*
 
-A young tech worker takes a job at a powerful Internet corporation, quickly rises up the company&#39;s ranks, and soon finds herself in a perilous situation concerning privacy, surveillance and freedom. She comes to learn that her decisions and actions will determine the future of humanity.
+A disgraced former cop, fresh off a six-year prison sentence for attempted murder - returns home looking for redemption but winds up trapped in the mess he left behind.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/QUlr8Am4zQ0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/iGViGe452co?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -110,6 +137,8 @@ Set in 1950s Tuscany, Voice from the Stone is the haunting and suspenseful story
 
 
 	
+	
+	
 
   
 
@@ -119,18 +148,6 @@ Set in 1950s Tuscany, Voice from the Stone is the haunting and suspenseful story
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -159,42 +176,42 @@ Set in 1950s Tuscany, Voice from the Stone is the haunting and suspenseful story
 
 
 	
+
+  
+
+
 	
 
-### How to Be a Latin Lover
-*Released on 2017-04-28, vote average 8.2*
+  
 
-An aging Latin lover gets dumped by his sugar mama and must fend for himself in a harsh world.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Handsome
+*Released on 2017-05-05, vote average 7.4*
+
+A Netflix Mystery Movie, starring Jeff Garlin (&#34;Curb Your Enthusiasm,&#34; &#34;The Goldbergs&#34;) as Gene Handsome, an LA homicide detective who tries to make sense of his life as he solves crime. Handsome’s knack for solving mysteries is matched only by his inability to make sense of his own problems. The film, which is also written and directed by Garlin and co-written by Andrea Seigel, is a lo-fi, Columbo-style mystery comedy. It co-stars Natasha Lyonne, Amy Sedaris, Christine Woods, Steven Weber, Eddie Pepitone and Leah Remini.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Nt2sbtg9Yfk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/3UkpMYswxHY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
