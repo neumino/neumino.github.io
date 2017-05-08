@@ -46,6 +46,28 @@ The Guardians must fight to keep their newfound family together as they unravel 
 	
 	
 
+### Baahubali 2: The Conclusion
+*Released on 2017-04-27, vote average 6.1*
+
+When Mahendra, the son of Bahubali, learns about his heritage, he begins to look for answers. His story is juxtaposed with past events that unfolded in the Mahishmati Kingdom.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PJ-mIEZMJes?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Circle
 *Released on 2017-04-27, vote average 5*
 
@@ -68,16 +90,16 @@ A young tech worker takes a job at a powerful Internet corporation, quickly rise
 	
 	
 
-### Baahubali 2: The Conclusion
-*Released on 2017-04-27, vote average 5.6*
+### King Arthur: Legend of the Sword
+*Released on 2017-04-27, vote average 5.5*
 
-When Mahendra, the son of Bahubali, learns about his heritage, he begins to look for answers. His story is juxtaposed with past events that unfolded in the Mahishmati Kingdom.
+When the child Arthur’s father is murdered, Vortigern, Arthur’s uncle, seizes the crown. Robbed of his birthright and with no idea who he truly is, Arthur comes up the hard way in the back alleys of the city. But once he pulls the sword Excalibur from the stone, his life is turned upside down and he is forced to acknowledge his true legacy... whether he likes it or not.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/PJ-mIEZMJes?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/6rbPTQIdjmY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -89,26 +111,6 @@ When Mahendra, the son of Bahubali, learns about his heritage, he begins to look
 
 	
 	
-
-### Small Crimes
-*Released on 2017-04-28, vote average 5.7*
-
-A disgraced former cop, fresh off a six-year prison sentence for attempted murder - returns home looking for redemption but winds up trapped in the mess he left behind.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/iGViGe452co?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -137,22 +139,12 @@ Set in 1950s Tuscany, Voice from the Stone is the haunting and suspenseful story
 
 
 	
-	
-	
 
   
 
 
 	
-
-  
-
-
 	
-
-  
-
-
 	
 
   
@@ -171,47 +163,74 @@ Set in 1950s Tuscany, Voice from the Stone is the haunting and suspenseful story
 
 
 	
-
-  
-
-
 	
 
-  
+### How to Be a Latin Lover
+*Released on 2017-04-28, vote average 6.6*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Handsome
-*Released on 2017-05-05, vote average 7.4*
-
-A Netflix Mystery Movie, starring Jeff Garlin (&#34;Curb Your Enthusiasm,&#34; &#34;The Goldbergs&#34;) as Gene Handsome, an LA homicide detective who tries to make sense of his life as he solves crime. Handsome’s knack for solving mysteries is matched only by his inability to make sense of his own problems. The film, which is also written and directed by Garlin and co-written by Andrea Seigel, is a lo-fi, Columbo-style mystery comedy. It co-stars Natasha Lyonne, Amy Sedaris, Christine Woods, Steven Weber, Eddie Pepitone and Leah Remini.
+An aging Latin lover gets dumped by his sugar mama and must fend for himself in a harsh world.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/3UkpMYswxHY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Nt2sbtg9Yfk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### American Exorcism
+*Released on 2017-05-02, vote average 6.5*
+
+Damon Richter thought he left the world of possessions, exorcisms, and evil behind until an old friend arrives with frightening information about his estranged daughter knowing that only his otherworldly skills can save her.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Po_tqDnNwK0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -235,7 +254,7 @@ A Netflix Mystery Movie, starring Jeff Garlin (&#34;Curb Your Enthusiasm,&#34; &
 	
 
 ### Alien: Covenant
-*Released on 2017-05-10, vote average 8.5*
+*Released on 2017-05-10, vote average 5.4*
 
 Bound for a remote planet on the far side of the galaxy, the crew of the colony ship Covenant discovers what they think is an uncharted paradise, but is actually a dark, dangerous world — whose sole inhabitant is the “synthetic” David, survivor of the doomed Prometheus expedition.
 
@@ -253,14 +272,12 @@ Bound for a remote planet on the far side of the galaxy, the crew of the colony 
 	
 
 	
-
-	
 	
 
 ### Snatched
 *Released on 2017-05-11, vote average 0.5*
 
-When her boyfriend dumps Emily, a spontaneous woman in her 30s, she persuades her ultra-cautious mom to accompany her on a vacation to Ecuador. At Emily&#39;s insistence, the pair seek out adventure, but suddenly find themselves kidnapped. When these two very different women are trapped on this wild journey, their bond as mother and daughter is tested and strengthened while they attempt to navigate the jungle and escape.
+When her boyfriend dumps Emily, a spontaneous woman in her 30s, she persuades her ultra-cautious mom to accompany her on a vacation to Ecuador. When these two very different women are trapped on this wild journey, their bond as mother and daughter is tested and strengthened while they attempt to navigate the jungle and escape.
 
 <iframe id="player"
 	type="text/html"
@@ -291,6 +308,25 @@ When her boyfriend dumps Emily, a spontaneous woman in her 30s, she persuades he
 
 	
 
+	
+
+	
+	
+
+### Meri Pyaari Bindu
+*Released on 2017-05-12, vote average 10*
+
+Fed up with the lack of critical appreciation despite being a successful writer, Abhimanyu Roy returns to his roots in Kolkata to write more meaningful literature and decides on an old-fashioned love story – which was now, 3 years in the making. How do you contain this unpredictable, crazy, restless, larger than life, live wire in the pages of a book?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5q1nXmyB1RI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
