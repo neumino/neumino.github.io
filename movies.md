@@ -69,7 +69,7 @@ When Mahendra, the son of Bahubali, learns about his heritage, he begins to look
 	
 
 ### The Circle
-*Released on 2017-04-27, vote average 5*
+*Released on 2017-04-27, vote average 5.2*
 
 A young tech worker takes a job at a powerful Internet corporation, quickly rises up the company&#39;s ranks, and soon finds herself in a perilous situation concerning privacy, surveillance and freedom. She comes to learn that her decisions and actions will determine the future of humanity.
 
@@ -111,6 +111,21 @@ When the child Arthur’s father is murdered, Vortigern, Arthur’s uncle, seize
 
 	
 	
+
+### Baywatch
+*Released on 2017-05-11, vote average 5.3*
+
+Devoted lifeguard Mitch Buchannon butts heads with a brash new recruit. Together, they uncover a local criminal plot that threatens the future of the Bay.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Bp5q1sejIX0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -118,6 +133,136 @@ When the child Arthur’s father is murdered, Vortigern, Arthur’s uncle, seize
 
 	
 	
+
+### Snatched
+*Released on 2017-05-11, vote average 0.5*
+
+When her boyfriend dumps Emily, a spontaneous woman in her 30s, she persuades her ultra-cautious mom to accompany her on a vacation to Ecuador. When these two very different women are trapped on this wild journey, their bond as mother and daughter is tested and strengthened while they attempt to navigate the jungle and escape.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PsBWnst8f7w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Handsome: A Netflix Mystery Movie
+*Released on 2017-05-05, vote average 6.7*
+
+A Netflix Mystery Movie, starring Jeff Garlin (&#34;Curb Your Enthusiasm,&#34; &#34;The Goldbergs&#34;) as Gene Handsome, an LA homicide detective who tries to make sense of his life as he solves crime. Handsome’s knack for solving mysteries is matched only by his inability to make sense of his own problems. The film, which is also written and directed by Garlin and co-written by Andrea Seigel, is a lo-fi, Columbo-style mystery comedy. It co-stars Natasha Lyonne, Amy Sedaris, Christine Woods, Steven Weber, Eddie Pepitone and Leah Remini.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3UkpMYswxHY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Boone: The Bounty Hunter
+*Released on 2017-05-09, vote average 8*
+
+When fame-seeking reality show bounty hunter, Boone, attempts to bring down a drug lord and his empire, he uncovers more than he bargains for and learns that justice means more than ratings.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/CZA72Kon3sY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Small Crimes
+*Released on 2017-04-28, vote average 5.8*
+
+A disgraced former cop, fresh off a six-year prison sentence for attempted murder - returns home looking for redemption but winds up trapped in the mess he left behind.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/iGViGe452co?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Unlocked
+*Released on 2017-04-27, vote average 6.1*
+
+A CIA agent is baited into a trap involving London and a biological attack.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0-t9iIpsbgA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -127,7 +272,7 @@ When the child Arthur’s father is murdered, Vortigern, Arthur’s uncle, seize
 	
 
 ### How to Be a Latin Lover
-*Released on 2017-04-28, vote average 6*
+*Released on 2017-04-28, vote average 6.5*
 
 An aging Latin lover gets dumped by his sugar mama and must fend for himself in a harsh world.
 
@@ -148,25 +293,20 @@ An aging Latin lover gets dumped by his sugar mama and must fend for himself in 
 	
 	
 
-### Unlocked
-*Released on 2017-04-27, vote average 6*
+### American Exorcism
+*Released on 2017-05-02, vote average 6.5*
 
-A CIA agent is baited into a trap involving London and a biological attack.
+Damon Richter thought he left the world of possessions, exorcisms, and evil behind until an old friend arrives with frightening information about his estranged daughter knowing that only his otherworldly skills can save her.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/0-t9iIpsbgA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Po_tqDnNwK0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -204,65 +344,6 @@ Set in 1950s Tuscany, Voice from the Stone is the haunting and suspenseful story
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### American Exorcism
-*Released on 2017-05-02, vote average 6.5*
-
-Damon Richter thought he left the world of possessions, exorcisms, and evil behind until an old friend arrives with frightening information about his estranged daughter knowing that only his otherworldly skills can save her.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Po_tqDnNwK0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -270,27 +351,8 @@ Damon Richter thought he left the world of possessions, exorcisms, and evil behi
 	
 	
 
-### Alien: Covenant
-*Released on 2017-05-10, vote average 5.2*
-
-Bound for a remote planet on the far side of the galaxy, the crew of the colony ship Covenant discovers what they think is an uncharted paradise, but is actually a dark, dangerous world — whose sole inhabitant is the “synthetic” David, survivor of the doomed Prometheus expedition.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/H0VW6sg50Pk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
 ### Baywatch
-*Released on 2017-05-11, vote average 5.5*
+*Released on 2017-05-11, vote average 5.3*
 
 Devoted lifeguard Mitch Buchannon butts heads with a brash new recruit. Together, they uncover a local criminal plot that threatens the future of the Bay.
 
@@ -341,16 +403,6 @@ When her boyfriend dumps Emily, a spontaneous woman in her 30s, she persuades he
 	
 
 	
-
-	
-
-	
-
-	
-
-	
-
-	
 	
 
 ### Meri Pyaari Bindu
@@ -367,6 +419,18 @@ Fed up with the lack of critical appreciation despite being a successful writer,
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
