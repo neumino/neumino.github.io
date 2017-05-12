@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Alien: Covenant
-*Released on 2017-05-10, vote average 5.2*
+*Released on 2017-05-10, vote average 5.5*
 
 Bound for a remote planet on the far side of the galaxy, the crew of the colony ship Covenant discovers what they think is an uncharted paradise, but is actually a dark, dangerous world — whose sole inhabitant is the “synthetic” David, survivor of the doomed Prometheus expedition.
 
@@ -46,74 +46,8 @@ Bound for a remote planet on the far side of the galaxy, the crew of the colony 
 	
 	
 
-### Baahubali 2: The Conclusion
-*Released on 2017-04-27, vote average 6.1*
-
-When Mahendra, the son of Bahubali, learns about his heritage, he begins to look for answers. His story is juxtaposed with past events that unfolded in the Mahishmati Kingdom.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/PJ-mIEZMJes?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Circle
-*Released on 2017-04-27, vote average 5.2*
-
-A young tech worker takes a job at a powerful Internet corporation, quickly rises up the company&#39;s ranks, and soon finds herself in a perilous situation concerning privacy, surveillance and freedom. She comes to learn that her decisions and actions will determine the future of humanity.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/QUlr8Am4zQ0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### King Arthur: Legend of the Sword
-*Released on 2017-04-27, vote average 4.8*
-
-When the child Arthur’s father is murdered, Vortigern, Arthur’s uncle, seizes the crown. Robbed of his birthright and with no idea who he truly is, Arthur comes up the hard way in the back alleys of the city. But once he pulls the sword Excalibur from the stone, his life is turned upside down and he is forced to acknowledge his true legacy... whether he likes it or not.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/6rbPTQIdjmY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Baywatch
-*Released on 2017-05-11, vote average 5.3*
+*Released on 2017-05-11, vote average 5.5*
 
 Devoted lifeguard Mitch Buchannon butts heads with a brash new recruit. Together, they uncover a local criminal plot that threatens the future of the Bay.
 
@@ -135,7 +69,7 @@ Devoted lifeguard Mitch Buchannon butts heads with a brash new recruit. Together
 	
 
 ### Snatched
-*Released on 2017-05-11, vote average 0.5*
+*Released on 2017-05-11, vote average 0.7*
 
 When her boyfriend dumps Emily, a spontaneous woman in her 30s, she persuades her ultra-cautious mom to accompany her on a vacation to Ecuador. When these two very different women are trapped on this wild journey, their bond as mother and daughter is tested and strengthened while they attempt to navigate the jungle and escape.
 
@@ -144,6 +78,177 @@ When her boyfriend dumps Emily, a spontaneous woman in her 30s, she persuades he
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/PsBWnst8f7w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### How to Be a Latin Lover
+*Released on 2017-04-28, vote average 6.1*
+
+An aging Latin lover gets dumped by his sugar mama and must fend for himself in a harsh world.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Nt2sbtg9Yfk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Boone: The Bounty Hunter
+*Released on 2017-05-09, vote average 8.5*
+
+When fame-seeking reality show bounty hunter, Boone, attempts to bring down a drug lord and his empire, he uncovers more than he bargains for and learns that justice means more than ratings.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/CZA72Kon3sY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Voice from the Stone
+*Released on 2017-04-28, vote average 5.8*
+
+Set in 1950s Tuscany, Voice from the Stone is the haunting and suspenseful story of Verena, a solemn nurse drawn to aid a young boy who has fallen silent since the sudden passing of his mother.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/NU4qhUHYewA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Levelling
+*Released on 2017-05-12, vote average 10*
+
+Clover is finishing a veterinary course when her brother dies and she is called home to her family&#39;s struggling Somerset farm.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/r423OfVwPZ4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Batman &amp; Bill
+*Released on 2017-05-06, vote average 8*
+
+For years, Bob Kane has been credited as Batman&#39;s creator. As time passed, rumors swirled that the Caped Crusader had another father. Who was this man? Batman &amp; Bill tells the story of the uncredited creator of Batman, and a crusade to bring him justice.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/YcBDjjY2swE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Norm Macdonald: Hitler&#39;s Dog, Gossip &amp; Trickery
+*Released on 2017-05-09, vote average 7*
+
+In this new stand-up special, Norm Macdonald delivers sly, deadpan observations from an older -- and perhaps even wiser -- point of view.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/U0-jiWeRr9g?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -176,163 +281,11 @@ A Netflix Mystery Movie, starring Jeff Garlin (&#34;Curb Your Enthusiasm,&#34; &
 
 
 	
-	
-
-### Boone: The Bounty Hunter
-*Released on 2017-05-09, vote average 8*
-
-When fame-seeking reality show bounty hunter, Boone, attempts to bring down a drug lord and his empire, he uncovers more than he bargains for and learns that justice means more than ratings.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/CZA72Kon3sY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
 	
-	
-	
-
-  
-
-
-	
-	
-
-### Small Crimes
-*Released on 2017-04-28, vote average 5.8*
-
-A disgraced former cop, fresh off a six-year prison sentence for attempted murder - returns home looking for redemption but winds up trapped in the mess he left behind.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/iGViGe452co?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Unlocked
-*Released on 2017-04-27, vote average 6.1*
-
-A CIA agent is baited into a trap involving London and a biological attack.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0-t9iIpsbgA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### How to Be a Latin Lover
-*Released on 2017-04-28, vote average 6.5*
-
-An aging Latin lover gets dumped by his sugar mama and must fend for himself in a harsh world.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Nt2sbtg9Yfk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### American Exorcism
-*Released on 2017-05-02, vote average 6.5*
-
-Damon Richter thought he left the world of possessions, exorcisms, and evil behind until an old friend arrives with frightening information about his estranged daughter knowing that only his otherworldly skills can save her.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Po_tqDnNwK0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Voice from the Stone
-*Released on 2017-04-28, vote average 5.4*
-
-Set in 1950s Tuscany, Voice from the Stone is the haunting and suspenseful story of Verena, a solemn nurse drawn to aid a young boy who has fallen silent since the sudden passing of his mother.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/NU4qhUHYewA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -349,18 +302,20 @@ Set in 1950s Tuscany, Voice from the Stone is the haunting and suspenseful story
 
 
 	
+
+	
 	
 
-### Baywatch
-*Released on 2017-05-11, vote average 5.3*
+### The Levelling
+*Released on 2017-05-12, vote average 10*
 
-Devoted lifeguard Mitch Buchannon butts heads with a brash new recruit. Together, they uncover a local criminal plot that threatens the future of the Bay.
+Clover is finishing a veterinary course when her brother dies and she is called home to her family&#39;s struggling Somerset farm.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Bp5q1sejIX0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/r423OfVwPZ4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -370,36 +325,20 @@ Devoted lifeguard Mitch Buchannon butts heads with a brash new recruit. Together
 	
 	
 
-### Snatched
-*Released on 2017-05-11, vote average 0.5*
+### Shepherds and Butchers
+*Released on 2017-05-12, vote average 5*
 
-When her boyfriend dumps Emily, a spontaneous woman in her 30s, she persuades her ultra-cautious mom to accompany her on a vacation to Ecuador. When these two very different women are trapped on this wild journey, their bond as mother and daughter is tested and strengthened while they attempt to navigate the jungle and escape.
+A lawyer takes on a case of a prison guard in South Africa who is traumatized by the executions he&#39;s witnessed.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/PsBWnst8f7w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/iPVOtTJ4qHI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
@@ -419,6 +358,20 @@ Fed up with the lack of critical appreciation despite being a successful writer,
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
