@@ -47,7 +47,7 @@ Bound for a remote planet on the far side of the galaxy, the crew of the colony 
 	
 
 ### Baywatch
-*Released on 2017-05-11, vote average 5.5*
+*Released on 2017-05-11, vote average 5.4*
 
 Devoted lifeguard Mitch Buchannon butts heads with a brash new recruit. Together, they uncover a local criminal plot that threatens the future of the Bay.
 
@@ -69,7 +69,7 @@ Devoted lifeguard Mitch Buchannon butts heads with a brash new recruit. Together
 	
 
 ### Snatched
-*Released on 2017-05-11, vote average 0.7*
+*Released on 2017-05-11, vote average 0.8*
 
 When her boyfriend dumps Emily, a spontaneous woman in her 30s, she persuades her ultra-cautious mom to accompany her on a vacation to Ecuador. When these two very different women are trapped on this wild journey, their bond as mother and daughter is tested and strengthened while they attempt to navigate the jungle and escape.
 
@@ -88,21 +88,11 @@ When her boyfriend dumps Emily, a spontaneous woman in her 30s, she persuades he
 
 
 	
+
+  
+
+
 	
-
-### How to Be a Latin Lover
-*Released on 2017-04-28, vote average 6.1*
-
-An aging Latin lover gets dumped by his sugar mama and must fend for himself in a harsh world.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Nt2sbtg9Yfk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -142,41 +132,10 @@ When fame-seeking reality show bounty hunter, Boone, attempts to bring down a dr
 
 
 	
-	
-	
 
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Voice from the Stone
-*Released on 2017-04-28, vote average 5.8*
-
-Set in 1950s Tuscany, Voice from the Stone is the haunting and suspenseful story of Verena, a solemn nurse drawn to aid a young boy who has fallen silent since the sudden passing of his mother.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/NU4qhUHYewA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -212,43 +171,16 @@ Clover is finishing a veterinary course when her brother dies and she is called 
 	
 	
 
-### Batman &amp; Bill
-*Released on 2017-05-06, vote average 8*
+### Shepherds and Butchers
+*Released on 2017-05-12, vote average 5*
 
-For years, Bob Kane has been credited as Batman&#39;s creator. As time passed, rumors swirled that the Caped Crusader had another father. Who was this man? Batman &amp; Bill tells the story of the uncredited creator of Batman, and a crusade to bring him justice.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/YcBDjjY2swE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Norm Macdonald: Hitler&#39;s Dog, Gossip &amp; Trickery
-*Released on 2017-05-09, vote average 7*
-
-In this new stand-up special, Norm Macdonald delivers sly, deadpan observations from an older -- and perhaps even wiser -- point of view.
+A lawyer takes on a case of a prison guard in South Africa who is traumatized by the executions he&#39;s witnessed.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/U0-jiWeRr9g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/iPVOtTJ4qHI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -281,11 +213,6 @@ A Netflix Mystery Movie, starring Jeff Garlin (&#34;Curb Your Enthusiasm,&#34; &
 
 
 	
-
-  
-
-
-	
 	
 	
 
@@ -296,50 +223,6 @@ A Netflix Mystery Movie, starring Jeff Garlin (&#34;Curb Your Enthusiasm,&#34; &
 
   
 
-
-
-## Opening soon
-
-
-	
-
-	
-	
-
-### The Levelling
-*Released on 2017-05-12, vote average 10*
-
-Clover is finishing a veterinary course when her brother dies and she is called home to her family&#39;s struggling Somerset farm.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/r423OfVwPZ4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Shepherds and Butchers
-*Released on 2017-05-12, vote average 5*
-
-A lawyer takes on a case of a prison guard in South Africa who is traumatized by the executions he&#39;s witnessed.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/iPVOtTJ4qHI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 	
@@ -358,6 +241,36 @@ Fed up with the lack of critical appreciation despite being a successful writer,
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+
+## Opening soon
+
+
+	
+
+	
+
+	
+
 	
 
 	
