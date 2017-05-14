@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Alien: Covenant
-*Released on 2017-05-10, vote average 5.5*
+*Released on 2017-05-10, vote average 5.6*
 
 Bound for a remote planet on the far side of the galaxy, the crew of the colony ship Covenant discovers what they think is an uncharted paradise, but is actually a dark, dangerous world — whose sole inhabitant is the “synthetic” David, survivor of the doomed Prometheus expedition.
 
@@ -69,7 +69,7 @@ Devoted lifeguard Mitch Buchannon butts heads with a brash new recruit. Together
 	
 
 ### Snatched
-*Released on 2017-05-11, vote average 0.8*
+*Released on 2017-05-11, vote average 1.2*
 
 When her boyfriend dumps Emily, a spontaneous woman in her 30s, she persuades her ultra-cautious mom to accompany her on a vacation to Ecuador. When these two very different women are trapped on this wild journey, their bond as mother and daughter is tested and strengthened while they attempt to navigate the jungle and escape.
 
@@ -94,6 +94,26 @@ When her boyfriend dumps Emily, a spontaneous woman in her 30s, she persuades he
 
 	
 	
+
+### The Wall
+*Released on 2017-05-12, vote average 3.3*
+
+An American sniper and his spotter engage in a deadly cat-and-mouse game with an Iraqi sniper.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/OZbjGKtR8QQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -122,46 +142,6 @@ When fame-seeking reality show bounty hunter, Boone, attempts to bring down a dr
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Levelling
-*Released on 2017-05-12, vote average 10*
-
-Clover is finishing a veterinary course when her brother dies and she is called home to her family&#39;s struggling Somerset farm.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/r423OfVwPZ4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -181,6 +161,28 @@ A lawyer takes on a case of a prison guard in South Africa who is traumatized by
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/iPVOtTJ4qHI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Levelling
+*Released on 2017-05-12, vote average 10*
+
+Clover is finishing a veterinary course when her brother dies and she is called home to her family&#39;s struggling Somerset farm.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/r423OfVwPZ4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -214,18 +216,6 @@ A Netflix Mystery Movie, starring Jeff Garlin (&#34;Curb Your Enthusiasm,&#34; &
 
 	
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 
 ### Meri Pyaari Bindu
 *Released on 2017-05-12, vote average 10*
@@ -247,10 +237,73 @@ Fed up with the lack of critical appreciation despite being a successful writer,
 
 
 	
+	
+	
 
   
 
 
+	
+	
+
+### Batman &amp; Bill
+*Released on 2017-05-06, vote average 8*
+
+Everyone thinks that Bob Kane created Batman, but that’s not the whole truth. One author makes it his crusade to make it known that Bill Finger, a struggling writer, actually helped invent the iconic superhero, from concept to costume to the very character we all know and love. Bruce Wayne may be Batman’s secret identity, but his creator was always a true mystery.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/YcBDjjY2swE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Dead Awake
+*Released on 2017-05-12, vote average 6*
+
+A young woman must save herself and her friends from an ancient evil that stalks its victims through the real-life phenomenon of sleep paralysis.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FMGn74PgEZ8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
