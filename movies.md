@@ -69,7 +69,7 @@ Devoted lifeguard Mitch Buchannon butts heads with a brash new recruit. Together
 	
 
 ### Snatched
-*Released on 2017-05-11, vote average 1.2*
+*Released on 2017-05-11, vote average 2.4*
 
 When her boyfriend dumps Emily, a spontaneous woman in her 30s, she persuades her ultra-cautious mom to accompany her on a vacation to Ecuador. When these two very different women are trapped on this wild journey, their bond as mother and daughter is tested and strengthened while they attempt to navigate the jungle and escape.
 
@@ -112,30 +112,8 @@ An American sniper and his spotter engage in a deadly cat-and-mouse game with an
 	
 	
 
-### Boone: The Bounty Hunter
-*Released on 2017-05-09, vote average 7.7*
-
-When fame-seeking reality show bounty hunter, Boone, attempts to bring down a drug lord and his empire, he uncovers more than he bargains for and learns that justice means more than ratings.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/CZA72Kon3sY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Dead Awake
-*Released on 2017-05-12, vote average 6*
+*Released on 2017-05-12, vote average 4.6*
 
 A young woman must save herself and her friends from an ancient evil that stalks its victims through the real-life phenomenon of sleep paralysis.
 
@@ -147,6 +125,13 @@ A young woman must save herself and her friends from an ancient evil that stalks
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -181,23 +166,6 @@ A lawyer takes on a case of a prison guard in South Africa who is traumatized by
 
 
 	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### Handsome: A Netflix Mystery Movie
@@ -226,6 +194,26 @@ LA homicide detective Gene Handsome&#39;s knack for solving mysteries is matched
 
 	
 	
+
+### Mindhorn
+*Released on 2017-05-05, vote average 7.5*
+
+A washed up actor who played Mindhorn, a secret agent with a bionic eye, returns to the Isle of Man, the area where his most famous role was set, to help catch a killer.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/lA5njebTiZY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -234,16 +222,38 @@ LA homicide detective Gene Handsome&#39;s knack for solving mysteries is matched
 	
 	
 
-### Meri Pyaari Bindu
-*Released on 2017-05-12, vote average 10*
+### Boone: The Bounty Hunter
+*Released on 2017-05-09, vote average 7.7*
 
-Fed up with the lack of critical appreciation despite being a successful writer, Abhimanyu Roy returns to his roots in Kolkata to write more meaningful literature and decides on an old-fashioned love story – which was now, 3 years in the making. How do you contain this unpredictable, crazy, restless, larger than life, live wire in the pages of a book?
+When fame-seeking reality show bounty hunter, Boone, attempts to bring down a drug lord and his empire, he uncovers more than he bargains for and learns that justice means more than ratings.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/5q1nXmyB1RI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/CZA72Kon3sY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Chuck
+*Released on 2017-05-05, vote average 9*
+
+A drama inspired by the life of heavyweight boxer Chuck Wepner.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0AQXwOOqNNw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -281,27 +291,17 @@ Clover is finishing a veterinary course when her brother dies and she is called 
 
 
 	
-	
 
-### Norm Macdonald: Hitler&#39;s Dog, Gossip &amp; Trickery
-*Released on 2017-05-09, vote average 7*
+  
 
-In this new stand-up special, Norm Macdonald delivers sly, deadpan observations from an older -- and perhaps even wiser -- point of view.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/U0-jiWeRr9g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
 
 
+	
+	
 	
 
   
