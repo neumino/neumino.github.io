@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Alien: Covenant
-*Released on 2017-05-10, vote average 5.6*
+*Released on 2017-05-10, vote average 5.8*
 
 Bound for a remote planet on the far side of the galaxy, the crew of the colony ship Covenant discovers what they think is an uncharted paradise, but is actually a dark, dangerous world — whose sole inhabitant is the “synthetic” David, survivor of the doomed Prometheus expedition.
 
@@ -113,9 +113,9 @@ An American sniper and his spotter engage in a deadly cat-and-mouse game with an
 	
 
 ### Dead Awake
-*Released on 2017-05-12, vote average 4.6*
+*Released on 2017-05-12, vote average 5.5*
 
-A young woman must save herself and her friends from an ancient evil that stalks its victims through the real-life phenomenon of sleep paralysis.
+Kate Bowman (Jocelin Donahue) is an average social worker who is investigating in the mysterious deaths of people who died in their sleep. Shortly before their deaths, the victims all reported a supernatural force that appeared to them while they were suffering from sleep-paralysis. When Kate investigates further into the case, she opens herself up to the creature&#39;s wrath, and soon finds herself, and her family suffering from an ancient evil.
 
 <iframe id="player"
 	type="text/html"
@@ -133,6 +133,11 @@ A young woman must save herself and her friends from an ancient evil that stalks
 
 	
 	
+	
+
+  
+
+
 	
 
   
@@ -168,52 +173,20 @@ A lawyer takes on a case of a prison guard in South Africa who is traumatized by
 	
 	
 
-### Handsome: A Netflix Mystery Movie
-*Released on 2017-05-05, vote average 6.7*
+### Batman &amp; Bill
+*Released on 2017-05-06, vote average 8*
 
-LA homicide detective Gene Handsome&#39;s knack for solving mysteries is matched only by his inability to make sense of his own problems.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3UkpMYswxHY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Mindhorn
-*Released on 2017-05-05, vote average 7.5*
-
-A washed up actor who played Mindhorn, a secret agent with a bionic eye, returns to the Isle of Man, the area where his most famous role was set, to help catch a killer.
+Everyone thinks that Bob Kane created Batman, but that’s not the whole truth. One author makes it his crusade to make it known that Bill Finger, a struggling writer, actually helped invent the iconic superhero, from concept to costume to the very character we all know and love. Bruce Wayne may be Batman’s secret identity, but his creator was always a true mystery.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/lA5njebTiZY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/YcBDjjY2swE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -232,6 +205,40 @@ When fame-seeking reality show bounty hunter, Boone, attempts to bring down a dr
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/CZA72Kon3sY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Handsome: A Netflix Mystery Movie
+*Released on 2017-05-05, vote average 6.7*
+
+LA homicide detective Gene Handsome&#39;s knack for solving mysteries is matched only by his inability to make sense of his own problems.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3UkpMYswxHY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -265,17 +272,41 @@ A drama inspired by the life of heavyweight boxer Chuck Wepner.
 
 	
 	
+	
 
-### The Levelling
-*Released on 2017-05-12, vote average 8*
+  
 
-Clover is finishing a veterinary course when her brother dies and she is called home to her family&#39;s struggling Somerset farm.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Mindhorn
+*Released on 2017-05-05, vote average 7.3*
+
+A washed up actor who played Mindhorn, a secret agent with a bionic eye, returns to the Isle of Man, the area where his most famous role was set, to help catch a killer.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/r423OfVwPZ4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/lA5njebTiZY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -285,36 +316,13 @@ Clover is finishing a veterinary course when her brother dies and she is called 
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
+
+	
+
+	
 
 	
 
@@ -335,10 +343,6 @@ A teenager who&#39;s lived a sheltered life because she&#39;s allergic to everyt
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
 	
 
 	
