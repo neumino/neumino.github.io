@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Alien: Covenant
-*Released on 2017-05-10, vote average 5.8*
+*Released on 2017-05-10, vote average 5.9*
 
 Bound for a remote planet on the far side of the galaxy, the crew of the colony ship Covenant discovers what they think is an uncharted paradise, but is actually a dark, dangerous world — whose sole inhabitant is the “synthetic” David, survivor of the doomed Prometheus expedition.
 
@@ -46,30 +46,8 @@ Bound for a remote planet on the far side of the galaxy, the crew of the colony 
 	
 	
 
-### Baywatch
-*Released on 2017-05-11, vote average 4.6*
-
-Devoted lifeguard Mitch Buchannon butts heads with a brash new recruit. Together, they uncover a local criminal plot that threatens the future of the Bay.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Bp5q1sejIX0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Snatched
-*Released on 2017-05-11, vote average 2.4*
+*Released on 2017-05-11, vote average 3.1*
 
 When her boyfriend dumps Emily, a spontaneous woman in her 30s, she persuades her ultra-cautious mom to accompany her on a vacation to Ecuador. When these two very different women are trapped on this wild journey, their bond as mother and daughter is tested and strengthened while they attempt to navigate the jungle and escape.
 
@@ -90,16 +68,38 @@ When her boyfriend dumps Emily, a spontaneous woman in her 30s, she persuades he
 	
 	
 
-### The Wall
-*Released on 2017-05-12, vote average 3.3*
+### Baywatch
+*Released on 2017-05-11, vote average 4.7*
 
-An American sniper and his spotter engage in a deadly cat-and-mouse game with an Iraqi sniper.
+Devoted lifeguard Mitch Buchannon butts heads with a brash new recruit. Together, they uncover a local criminal plot that threatens the future of the Bay.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/OZbjGKtR8QQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Bp5q1sejIX0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Mindhorn
+*Released on 2017-05-05, vote average 7.2*
+
+A washed up actor who played Mindhorn, a secret agent with a bionic eye, returns to the Isle of Man, the area where his most famous role was set, to help catch a killer.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/lA5njebTiZY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -132,18 +132,6 @@ Kate Bowman (Jocelin Donahue) is an average social worker who is investigating i
 
 
 	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 
   
 
@@ -151,20 +139,40 @@ Kate Bowman (Jocelin Donahue) is an average social worker who is investigating i
 	
 	
 
-### Shepherds and Butchers
-*Released on 2017-05-12, vote average 5*
+### The Wall
+*Released on 2017-05-12, vote average 3.5*
 
-A lawyer takes on a case of a prison guard in South Africa who is traumatized by the executions he&#39;s witnessed.
+An American sniper and his spotter engage in a deadly cat-and-mouse game with an Iraqi sniper.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/iPVOtTJ4qHI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/OZbjGKtR8QQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -193,30 +201,6 @@ Everyone thinks that Bob Kane created Batman, but that’s not the whole truth. 
 
 
 	
-	
-
-### Boone: The Bounty Hunter
-*Released on 2017-05-09, vote average 7.7*
-
-When fame-seeking reality show bounty hunter, Boone, attempts to bring down a drug lord and his empire, he uncovers more than he bargains for and learns that justice means more than ratings.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/CZA72Kon3sY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
 
   
 
@@ -226,23 +210,6 @@ When fame-seeking reality show bounty hunter, Boone, attempts to bring down a dr
   
 
 
-	
-	
-
-### Handsome: A Netflix Mystery Movie
-*Released on 2017-05-05, vote average 6.7*
-
-LA homicide detective Gene Handsome&#39;s knack for solving mysteries is matched only by his inability to make sense of his own problems.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3UkpMYswxHY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -278,35 +245,18 @@ A drama inspired by the life of heavyweight boxer Chuck Wepner.
 
 
 	
-
-  
-
-
 	
 
-  
+### Shepherds and Butchers
+*Released on 2017-05-12, vote average 5*
 
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Mindhorn
-*Released on 2017-05-05, vote average 7.3*
-
-A washed up actor who played Mindhorn, a secret agent with a bionic eye, returns to the Isle of Man, the area where his most famous role was set, to help catch a killer.
+A lawyer takes on a case of a prison guard in South Africa who is traumatized by the executions he&#39;s witnessed.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/lA5njebTiZY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/iPVOtTJ4qHI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -316,13 +266,19 @@ A washed up actor who played Mindhorn, a secret agent with a bionic eye, returns
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
 
 ## Opening soon
 
-
-	
-
-	
 
 	
 
@@ -343,6 +299,10 @@ A teenager who&#39;s lived a sheltered life because she&#39;s allergic to everyt
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
 	
 
 	
