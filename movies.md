@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Alien: Covenant
-*Released on 2017-05-09, vote average 6*
+### Pirates of the Caribbean: Dead Men Tell No Tales
+*Released on 2017-05-23, vote average 4.7*
 
-Bound for a remote planet on the far side of the galaxy, the crew of the colony ship Covenant discovers what they think is an uncharted paradise, but is actually a dark, dangerous world — whose sole inhabitant is the “synthetic” David, survivor of the doomed Prometheus expedition.
+Captain Jack Sparrow is pursued by an old rival, Captain Salazar, who along with his crew of ghost pirates has escaped from the Devil&#39;s Triangle, and is determined to kill every pirate at sea. Jack seeks the Trident of Poseidon, a powerful artifact that grants its possessor total control over the seas, in order to defeat Salazar.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/H0VW6sg50Pk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Hgeu5rhoxxY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -40,28 +40,6 @@ Bound for a remote planet on the far side of the galaxy, the crew of the colony 
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-
-
-	
-	
-
-### Pirates of the Caribbean: Dead Men Tell No Tales
-*Released on 2017-05-23, vote average 4.7*
-
-Captain Jack Sparrow is pursued by an old rival, Captain Salazar, who along with his crew of ghost pirates has escaped from the Devil&#39;s Triangle, and is determined to kill every pirate at sea. Jack seeks the Trident of Poseidon, a powerful artifact that grants its possessor total control over the seas, in order to defeat Salazar.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Hgeu5rhoxxY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
   
 
 
@@ -87,23 +65,6 @@ Devoted lifeguard Mitch Buchannon butts heads with a brash new recruit. Together
   
 
 
-	
-	
-
-### Snatched
-*Released on 2017-05-11, vote average 4*
-
-When her boyfriend dumps Emily, a spontaneous woman in her 30s, she persuades her ultra-cautious mom to accompany her on a vacation to Ecuador. When these two very different women are trapped on this wild journey, their bond as mother and daughter is tested and strengthened while they attempt to navigate the jungle and escape.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/PsBWnst8f7w?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -139,8 +100,30 @@ A teenager who&#39;s lived a sheltered life because she&#39;s allergic to everyt
 	
 	
 
+### Snatched
+*Released on 2017-05-11, vote average 4*
+
+When her boyfriend dumps Emily, a spontaneous woman in her 30s, she persuades her ultra-cautious mom to accompany her on a vacation to Ecuador. When these two very different women are trapped on this wild journey, their bond as mother and daughter is tested and strengthened while they attempt to navigate the jungle and escape.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PsBWnst8f7w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Wizard of Lies
-*Released on 2017-05-20, vote average 5.8*
+*Released on 2017-05-20, vote average 6.1*
 
 A look behind the scenes at Bernie Madoff&#39;s massive Ponzi scheme, how it was perpetrated on the public and the trail of destruction it left in its wake, both for the victims and Madoff&#39;s family.
 
@@ -158,94 +141,6 @@ A look behind the scenes at Bernie Madoff&#39;s massive Ponzi scheme, how it was
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Diary of a Wimpy Kid: The Long Haul
-*Released on 2017-05-19, vote average 5*
-
-A Heffley family road trip to attend Meemaw&#39;s 90th birthday party goes hilariously off course thanks to Greg&#39;s newest scheme to get to a video gaming convention.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nlI3Ykm3HV4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Harry Styles: Behind the Album
-*Released on 2017-05-15, vote average 10*
-
-Chronicles Harry’s musical journey while creating his much anticipated debut solo album. The film features exclusive interviews and behind the scenes footage shot in Jamaica, Los Angeles and London during the making of the album and is complemented by Harry and his band performing songs from it for the first time at the world famous Abbey Road Studios in London.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Harry%20Styles:%20Behind%20the%20Album?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Half Girlfriend
-*Released on 2017-05-19, vote average 5.7*
-
-Madhav Jha, a rustic boy from Bihar who is drawn to his college-mate, Riya Somani, an affluent English-speaking girl from Delhi. There’s just one hitch here. Riya is willing to go thus far and no further; Madhav continues being obsessed with her. Will the Bihar boy and the Delhi girl make it past the half-way mark?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/KmlBnmyelHI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Hounds of Love
-*Released on 2017-05-12, vote average 6.3*
-
-Vicki Maloney is randomly abducted from a suburban street by a disturbed couple. As she observes the dynamic between her captors she quickly realises she must drive a wedge between them if she is to survive.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/uWZFHEz37Jc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -284,10 +179,44 @@ In the distant technological future, civilization has reached its ultimate Net-b
 
 
 	
+	
+
+### Annabelle: Creation
+*Released on 2017-05-19, vote average 5*
+
+Several years after the tragic death of their little girl, a dollmaker and his wife welcome a nun and several girls from a shuttered orphanage into their home, soon becoming the target of the dollmaker&#39;s possessed creation, Annabelle.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LEE7KNaczb8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
+	
+	
+
+### Diary of a Wimpy Kid: The Long Haul
+*Released on 2017-05-19, vote average 5*
+
+A Heffley family road trip to attend Meemaw&#39;s 90th birthday party goes hilariously off course thanks to Greg&#39;s newest scheme to get to a video gaming convention.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nlI3Ykm3HV4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -298,6 +227,62 @@ In the distant technological future, civilization has reached its ultimate Net-b
   
 
 
+	
+
+  
+
+
+	
+	
+
+### Harry Styles: Behind the Album
+*Released on 2017-05-15, vote average 10*
+
+Chronicles Harry’s musical journey while creating his much anticipated debut solo album. The film features exclusive interviews and behind the scenes footage shot in Jamaica, Los Angeles and London during the making of the album and is complemented by Harry and his band performing songs from it for the first time at the world famous Abbey Road Studios in London.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Harry%20Styles:%20Behind%20the%20Album?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Hounds of Love
+*Released on 2017-05-12, vote average 6.3*
+
+Vicki Maloney is randomly abducted from a suburban street by a disturbed couple. As she observes the dynamic between her captors she quickly realises she must drive a wedge between them if she is to survive.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/uWZFHEz37Jc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -315,27 +300,8 @@ In the distant technological future, civilization has reached its ultimate Net-b
 	
 	
 
-### Pirates of the Caribbean: Dead Men Tell No Tales
-*Released on 2017-05-23, vote average 4.7*
-
-Captain Jack Sparrow is pursued by an old rival, Captain Salazar, who along with his crew of ghost pirates has escaped from the Devil&#39;s Triangle, and is determined to kill every pirate at sea. Jack seeks the Trident of Poseidon, a powerful artifact that grants its possessor total control over the seas, in order to defeat Salazar.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Hgeu5rhoxxY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
 ### Wonder Woman
-*Released on 2017-05-25, vote average 5.7*
+*Released on 2017-05-25, vote average 5.1*
 
 An Amazon princess comes to the world of Man to become the greatest of the female superheroes.
 
@@ -362,6 +328,25 @@ An Amazon princess comes to the world of Man to become the greatest of the femal
 
 	
 
+	
+
+	
+	
+
+### Danger Close
+*Released on 2017-05-26, vote average 4*
+
+Freelance female war reporter Alex Quade covers U.S. Special Operations Forces (SOF) on highly classified combat missions. Since 2001, she has embedded with elite SOF, including the U.S. Army Special Forces or Green Berets, Army Rangers, Navy Seals, and CIA clandestine operatives to tell their stories from the front lines. &#34;Danger Close&#34; follows Alex as she lives alongside these highly trained forces on some of the most daring missions ever documented in Iraq and Afghanistan.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mbeR3v5QkAA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
