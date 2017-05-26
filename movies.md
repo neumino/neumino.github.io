@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Pirates of the Caribbean: Dead Men Tell No Tales
-*Released on 2017-05-23, vote average 5.3*
+*Released on 2017-05-23, vote average 5.6*
 
 Captain Jack Sparrow is pursued by an old rival, Captain Salazar, who along with his crew of ghost pirates has escaped from the Devil&#39;s Triangle, and is determined to kill every pirate at sea. Jack seeks the Trident of Poseidon, a powerful artifact that grants its possessor total control over the seas, in order to defeat Salazar.
 
@@ -47,7 +47,7 @@ Captain Jack Sparrow is pursued by an old rival, Captain Salazar, who along with
 	
 
 ### Wonder Woman
-*Released on 2017-05-25, vote average 5.9*
+*Released on 2017-05-25, vote average 5.6*
 
 An Amazon princess comes to the world of Man to become the greatest of the female superheroes.
 
@@ -55,7 +55,7 @@ An Amazon princess comes to the world of Man to become the greatest of the femal
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/5lGoQhFb4NM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/tsJeu11shJg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@ An Amazon princess comes to the world of Man to become the greatest of the femal
 	
 
 ### Baywatch
-*Released on 2017-05-12, vote average 4.6*
+*Released on 2017-05-12, vote average 4.4*
 
 Devoted lifeguard Mitch Buchannon butts heads with a brash new recruit. Together, they uncover a local criminal plot that threatens the future of the Bay.
 
@@ -78,6 +78,28 @@ Devoted lifeguard Mitch Buchannon butts heads with a brash new recruit. Together
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/Bp5q1sejIX0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Everything, Everything
+*Released on 2017-05-19, vote average 7.1*
+
+A teenager who&#39;s lived a sheltered life because she&#39;s allergic to everything, falls for the boy who moves in next door.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mzlUbsODpAQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -115,49 +137,10 @@ A look behind the scenes at Bernie Madoff&#39;s massive Ponzi scheme, how it was
 
 
 	
-	
-
-### Snatched
-*Released on 2017-05-11, vote average 3.9*
-
-When her boyfriend dumps Emily, a spontaneous woman in her 30s, she persuades her ultra-cautious mom to accompany her on a vacation to Ecuador. When these two very different women are trapped on this wild journey, their bond as mother and daughter is tested and strengthened while they attempt to navigate the jungle and escape.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/PsBWnst8f7w?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Everything, Everything
-*Released on 2017-05-19, vote average 7.1*
-
-A teenager who&#39;s lived a sheltered life because she&#39;s allergic to everything, falls for the boy who moves in next door.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/mzlUbsODpAQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -191,86 +174,69 @@ In the distant technological future, civilization has reached its ultimate Net-b
 
 
 	
+
+  
+
+
 	
 
-### Hounds of Love
-*Released on 2017-05-12, vote average 6.3*
+  
 
-Vicki Maloney is randomly abducted from a suburban street by a disturbed couple. As she observes the dynamic between her captors she quickly realises she must drive a wedge between them if she is to survive.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Wall
+*Released on 2017-05-12, vote average 4.4*
+
+An American sniper and his spotter engage in a deadly cat-and-mouse game with an Iraqi sniper.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/uWZFHEz37Jc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/OZbjGKtR8QQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Diary of a Wimpy Kid: The Long Haul
-*Released on 2017-05-19, vote average 5*
-
-A Heffley family road trip to attend Meemaw&#39;s 90th birthday party goes hilariously off course thanks to Greg&#39;s newest scheme to get to a video gaming convention.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nlI3Ykm3HV4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -281,32 +247,32 @@ A Heffley family road trip to attend Meemaw&#39;s 90th birthday party goes hilar
 
 
 	
+
 	
 
-### Wonder Woman
-*Released on 2017-05-25, vote average 5.9*
+	
 
-An Amazon princess comes to the world of Man to become the greatest of the female superheroes.
+	
+
+	
+
+	
+	
+
+### Danger Close
+*Released on 2017-05-26, vote average 4*
+
+Freelance female war reporter Alex Quade covers U.S. Special Operations Forces (SOF) on highly classified combat missions. Since 2001, she has embedded with elite SOF, including the U.S. Army Special Forces or Green Berets, Army Rangers, Navy Seals, and CIA clandestine operatives to tell their stories from the front lines. &#34;Danger Close&#34; follows Alex as she lives alongside these highly trained forces on some of the most daring missions ever documented in Iraq and Afghanistan.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/5lGoQhFb4NM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/mbeR3v5QkAA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
