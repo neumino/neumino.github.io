@@ -8,7 +8,7 @@ title: "Thinky and its Raison d'être!"
 
 *Disclaimer: This post reflects my opinion and just mine. I also used to work at RethinkDB.*
 
-I am the author of [thinky](https://thinky.io). For those not familiar with it,
+I am the author of [thinky](https://www.justonepixel.com/thinky). For those not familiar with it,
 thinky is a [Node.js](https://nodejs.org) ORM for [RethinkDB](http://rethinkdb.com).
 I never really took the time to write about the philosophy behind thinky. Since I
 have some time during these holidays, here we are.
@@ -166,7 +166,7 @@ Despite being simple, thinky is a powerful library:
 
 - Custom validations let you leverage all the power
 of libraries like [validator](https://github.com/chriso/validator.js).
-- [Asynchronous hooks](http://thinky.io/documentation/api/model/#pre) let you use powerful
+- [Asynchronous hooks](http://www.justonepixel.com/thinky/documentation/api/model/#pre) let you use powerful
 API like [Mailgun's one](http://documentation.mailgun.com/api-email-validation.html#email-validation)
 for email verification.
 

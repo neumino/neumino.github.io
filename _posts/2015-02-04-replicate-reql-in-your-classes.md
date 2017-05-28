@@ -30,7 +30,7 @@ you with suggestions and auto-completion, making learning ReQL easy and fun.
 
 But this is not the only advantage of having an embedded chainable language;
 you can import the query language in your own classes by just copying
-the commands. This is what [thinky](https://thinky.io) (a Node.js ORM)
+the commands. This is what [thinky](https://www.justonepixel.com/thinky) (a Node.js ORM)
 does and this has multiple benefits:
 
 - It is easy to do and require very little work.
