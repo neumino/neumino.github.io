@@ -116,6 +116,48 @@ function processData(input) {
 } 
 ```
 
+<<<<<<< HEAD
+### Absolute Permutation
+
+```js
+function main() {
+  var t = parseInt(readLine());
+  for(var a0 = 0; a0 < t; a0++){
+    var n_temp = readLine().split(' ');
+    var n = parseInt(n_temp[0]);
+    var k = parseInt(n_temp[1]);
+    var result = [];
+    var used = {};
+    for(var i=1; i<=n; i++) {
+      // abs(posi-i) = k
+      // posi = k + i or posti = i-k
+      var valid = [];
+      if (i-k>0) {
+        valid.push(i-k);
+      }
+      if (i+k<=n) {
+        valid.push(i+k);
+      }
+      valid.sort(function(a, b) { return a-b});
+      var found = false;
+      for(var j=0; j<valid.length; j++) {
+        if (used[valid[j]] == null) {
+          result.push(valid[j]);
+          used[valid[j]] = true;
+          found = true;
+          break;
+        }
+      }
+      if (found === false) {
+        result = null;
+        break;
+      }
+    }
+    if (result == null) {
+      console.log(-1);
+    } else {
+      console.log(result.join(' '));
+=======
 ### Save the Prisoner!
 
 ```js
@@ -553,7 +595,75 @@ function main() {
     } else {
       console.log(start-t+position);
       return;
+>>>>>>> 42d90dfca2411af7b7e2f1df603416323ce56197
     }
   }
 }
+```
+
+### The Bomberman Game
+
+```js
+function print(grid) {
+  for(var i=0; i<grid.length; i++) {
+    console.log(grid[i].join(''));
+  }
+}
+function processData(input) {
+  // 0   1   2   3  4  5  6  7  8  9  10 11
+  // 3.  2.  13  .. 33 2. 13 .. 33 2. 13 ..
+  // ..  ..  33  .2 31 .. 33 .2 31 .. 33 .2
+  var lines = input.split('\n');
+  var N = parseInt(lines[0].split(' ')[2]);
+  var grid = [];
+  for(var i=1; i<lines.length; i++) {
+    grid.push(lines[i].split(''));
+  }
+  var grid3 = [];
+  for(var i=0; i<grid.length; i++) {
+    grid3.push([]);
+    for(var j=0; j<grid[0].length; j++) {
+      if (grid[i][j] == 'O'
+         || (i+1 < grid.length && grid[i+1][j] == 'O')
+         || (i > 0 && grid[i-1][j] == 'O')
+         || (j+1 < grid[0].length && grid[i][j+1] == 'O')
+         || (j > 0 && grid[i][j-1] == 'O')) {
+        grid3[i].push('.')
+      } else {
+        grid3[i].push('O')
+      }
+    }
+  }
+  
+  var grid1 = [];
+  for(var i=0; i<grid3.length; i++) {
+    grid1.push([]);
+    for(var j=0; j<grid3[0].length; j++) {
+      if (grid3[i][j] == 'O'
+         || (i+1 < grid3.length && grid3[i+1][j] == 'O')
+         || (i > 0 && grid3[i-1][j] == 'O')
+         || (j+1 < grid3[0].length && grid3[i][j+1] == 'O')
+         || (j > 0 && grid3[i][j-1] == 'O')) {
+        grid1[i].push('.')
+      } else {
+        grid1[i].push('O')
+      }
+    }
+  }  
+  
+  if (N == 0 || N==1) {
+    print(grid);
+  } else if (N % 2 == 0) {
+    for(var i=0; i<grid.length; i++) {
+      for(var j=0; j<grid[0].length; j++) {
+        grid[i][j] = 'O'
+      }
+    }
+    print(grid);
+  } else if (N % 4 == 3) {
+    print(grid3);
+  } else if (N % 4 == 1) {
+    print(grid1);  
+  }
+} 
 ```
