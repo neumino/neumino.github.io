@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Pirates of the Caribbean: Dead Men Tell No Tales
-*Released on 2017-05-23, vote average 6.3*
+*Released on 2017-05-23, vote average 6.2*
 
 Captain Jack Sparrow is pursued by an old rival, Captain Salazar, who along with his crew of ghost pirates has escaped from the Devil&#39;s Triangle, and is determined to kill every pirate at sea. Jack seeks the Trident of Poseidon, a powerful artifact that grants its possessor total control over the seas, in order to defeat Salazar.
 
@@ -44,23 +44,18 @@ Captain Jack Sparrow is pursued by an old rival, Captain Salazar, who along with
 
 
 	
-
-  
-
-
-	
 	
 
-### The Wizard of Lies
-*Released on 2017-05-20, vote average 6.6*
+### Berlin Syndrome
+*Released on 2017-05-25, vote average 7.8*
 
-A look behind the scenes at Bernie Madoff&#39;s massive Ponzi scheme, how it was perpetrated on the public and the trail of destruction it left in its wake, both for the victims and Madoff&#39;s family.
+A passionate holiday romance leads to an obsessive relationship, when an Australian photojournalist wakes one morning in a Berlin apartment and is unable to leave.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/jo_CYCumZgI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/GQw-IX9yqXw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -71,10 +66,7 @@ A look behind the scenes at Bernie Madoff&#39;s massive Ponzi scheme, how it was
 
 
 	
-
-  
-
-
+	
 	
 
   
@@ -104,16 +96,9 @@ In the distant technological future, civilization has reached its ultimate Net-b
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### War Machine
-*Released on 2017-05-26, vote average 6.8*
+*Released on 2017-05-26, vote average 6.6*
 
 A rock star general bent on winning the “impossible” war in Afghanistan takes us inside the complex machinery of modern war. Inspired by a true story.
 
@@ -122,55 +107,6 @@ A rock star general bent on winning the “impossible” war in Afghanistan take
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/eygQI6k3vq0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Sargoshiyan
-*Released on 2017-05-26, vote average 10*
-
-The story of the film is weaved around Kashmir and Kashmiri people&#39;s simplicity, pride and Kashmiriyat. It&#39;s a very simple and interesting theme, all about Kashmir where J&amp;K and the Kashmiri people are central to certain developments taking place in the movie. In the recent past, Kashmir has been portrayed in many films for the unrest in the region, however in this film there is no violence and the movie depicts the beauty and chastity of Kashmir and Kashmiris. The film travels through lots of beautiful locations in Kashmir which have never been shown before. It&#39;s a soul searching journey for the characters where they meet different people undergoing their challenges in very difficult conditions and yet they are positive, hopeful and facing the harsh realities of life with a &#39;never say die&#39; attitude.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pvaCMLRE3dc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Buena Vista Social Club: Adios
-*Released on 2017-05-26, vote average 8.5*
-
-In 1996, Cuban bandleader Juan de Marcos Gonzalez, British producer Nick Gold, and American guitarist Ry Cooder convened in Havana to produce a Cuban-Malian collaboration. When the Malians couldn’t get visas, the team turned their attention to reviving a forgotten generation of legendary son cubano musicians and formed an on-the-fly ensemble: the Buena Vista Social Club.  Two decades since that fateful first session, we catch up to these master musicians, as they reflect on the magical unfolding of their lives—from humble origins to the evolution and surprising revival of their careers, all against the backdrop of Cuba’s dramatic history. Brimming with unseen concert, rehearsal, and archival footage, this film is an emotional, shimmering celebration of music’s power to transcend age, ideologies, and class, and to connect us to each other through our souls.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/gMNUl-gQsJ4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -203,18 +139,121 @@ A teenager who&#39;s lived a sheltered life because she&#39;s allergic to everyt
 
 
 	
+
+  
+
+
 	
 
-### Berlin Syndrome
-*Released on 2017-05-25, vote average 8*
+  
 
-A passionate holiday romance leads to an obsessive relationship, when an Australian photojournalist wakes one morning in a Berlin apartment and is unable to leave.
+
+	
+	
+
+### The Wizard of Lies
+*Released on 2017-05-20, vote average 6.6*
+
+A look behind the scenes at Bernie Madoff&#39;s massive Ponzi scheme, how it was perpetrated on the public and the trail of destruction it left in its wake, both for the victims and Madoff&#39;s family.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Y8tpKbrN9Uo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/jo_CYCumZgI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Drone
+*Released on 2017-05-26, vote average 5.3*
+
+Ideologies collide with fatal results when a military drone contractor meets an enigmatic Pakistani businessman.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3si8gJ_u1jk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Sargoshiyan
+*Released on 2017-05-26, vote average 10*
+
+The story of the film is weaved around Kashmir and Kashmiri people&#39;s simplicity, pride and Kashmiriyat. It&#39;s a very simple and interesting theme, all about Kashmir where J&amp;K and the Kashmiri people are central to certain developments taking place in the movie. In the recent past, Kashmir has been portrayed in many films for the unrest in the region, however in this film there is no violence and the movie depicts the beauty and chastity of Kashmir and Kashmiris. The film travels through lots of beautiful locations in Kashmir which have never been shown before. It&#39;s a soul searching journey for the characters where they meet different people undergoing their challenges in very difficult conditions and yet they are positive, hopeful and facing the harsh realities of life with a &#39;never say die&#39; attitude.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pvaCMLRE3dc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Danger Close
+*Released on 2017-05-26, vote average 7*
+
+Freelance female war reporter Alex Quade covers U.S. Special Operations Forces (SOF) on highly classified combat missions. Since 2001, she has embedded with elite SOF, including the U.S. Army Special Forces or Green Berets, Army Rangers, Navy Seals, and CIA clandestine operatives to tell their stories from the front lines. &#34;Danger Close&#34; follows Alex as she lives alongside these highly trained forces on some of the most daring missions ever documented in Iraq and Afghanistan.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mbeR3v5QkAA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Buena Vista Social Club: Adios
+*Released on 2017-05-26, vote average 8.5*
+
+In 1996, Cuban bandleader Juan de Marcos Gonzalez, British producer Nick Gold, and American guitarist Ry Cooder convened in Havana to produce a Cuban-Malian collaboration. When the Malians couldn’t get visas, the team turned their attention to reviving a forgotten generation of legendary son cubano musicians and formed an on-the-fly ensemble: the Buena Vista Social Club.  Two decades since that fateful first session, we catch up to these master musicians, as they reflect on the magical unfolding of their lives—from humble origins to the evolution and surprising revival of their careers, all against the backdrop of Cuba’s dramatic history. Brimming with unseen concert, rehearsal, and archival footage, this film is an emotional, shimmering celebration of music’s power to transcend age, ideologies, and class, and to connect us to each other through our souls.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/gMNUl-gQsJ4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -240,10 +279,22 @@ A passionate holiday romance leads to an obsessive relationship, when an Austral
 
 
 	
+	
 
-  
+### Black Butterfly
+*Released on 2017-05-26, vote average 7.7*
 
+Remake of French thriller, Papillon Noir by Herve Korian. Paul is a down-on-his-luck screenwriter who picks up a drifter and offers him a place to stay. However, when the deranged stranger takes Paul hostage and forces him to write, their unhinged relationship brings buried secrets to light.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MFOaolQR6jk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -267,7 +318,7 @@ A passionate holiday romance leads to an obsessive relationship, when an Austral
 	
 
 ### Wonder Woman
-*Released on 2017-05-30, vote average 6.1*
+*Released on 2017-05-30, vote average 6.2*
 
 An Amazon princess comes to the world of Man to become the greatest of the female superheroes.
 
