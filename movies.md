@@ -69,7 +69,7 @@ An Amazon princess comes to the world of Man to become the greatest of the femal
 	
 
 ### War Machine
-*Released on 2017-05-26, vote average 6.6*
+*Released on 2017-05-26, vote average 6.4*
 
 A rock star general bent on winning the “impossible” war in Afghanistan takes us inside the complex machinery of modern war. Inspired by a true story.
 
@@ -91,7 +91,7 @@ A rock star general bent on winning the “impossible” war in Afghanistan take
 	
 
 ### Berlin Syndrome
-*Released on 2017-05-25, vote average 7.7*
+*Released on 2017-05-25, vote average 7*
 
 A passionate holiday romance leads to an obsessive relationship, when an Australian photojournalist wakes one morning in a Berlin apartment and is unable to leave.
 
@@ -113,7 +113,7 @@ A passionate holiday romance leads to an obsessive relationship, when an Austral
 	
 
 ### Drone
-*Released on 2017-05-26, vote average 5.8*
+*Released on 2017-05-26, vote average 5.3*
 
 Ideologies collide with fatal results when a military drone contractor meets an enigmatic Pakistani businessman.
 
@@ -121,7 +121,34 @@ Ideologies collide with fatal results when a military drone contractor meets an 
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/t_fq1hmMeqg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/3si8gJ_u1jk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Black Butterfly
+*Released on 2017-05-26, vote average 7.2*
+
+Remake of French thriller, Papillon Noir by Herve Korian. Paul is a down-on-his-luck screenwriter who picks up a drifter and offers him a place to stay. However, when the deranged stranger takes Paul hostage and forces him to write, their unhinged relationship brings buried secrets to light.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MFOaolQR6jk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -155,28 +182,21 @@ A teenager who&#39;s lived a sheltered life because she&#39;s allergic to everyt
 
 	
 	
-
-### The Wizard of Lies
-*Released on 2017-05-20, vote average 6.6*
-
-A look behind the scenes at Bernie Madoff&#39;s massive Ponzi scheme, how it was perpetrated on the public and the trail of destruction it left in its wake, both for the victims and Madoff&#39;s family.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jo_CYCumZgI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
 
 
 	
+
+  
+
+
 	
+
+  
+
+
 	
 
   
@@ -185,16 +205,16 @@ A look behind the scenes at Bernie Madoff&#39;s massive Ponzi scheme, how it was
 	
 	
 
-### The Double Lover
-*Released on 2017-05-26, vote average 7*
+### Sarah Silverman: A Speck of Dust
+*Released on 2017-05-30, vote average 7.7*
 
-Chloé, a fragile young woman, falls in love with her psychoanalyst, Paul. A few months later she moves in with him, but soon discovers that her lover is concealing a part of his identity.
+In her first comedy special post-health scare, Sarah Silverman shares a mix of fun facts, sad truths and yeah-she-just-went-there moments.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xqVGWGG9J5Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/02IAhy5OKT0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -227,28 +247,18 @@ Resident Evil: Vendetta (also known as Biohazard: Vendetta) is an upcoming CGI a
 
 
 	
-
-  
-
-
 	
 
-  
-
-
-	
-	
-
-### Danger Close
+### The Double Lover
 *Released on 2017-05-26, vote average 7*
 
-Freelance female war reporter Alex Quade covers U.S. Special Operations Forces (SOF) on highly classified combat missions. Since 2001, she has embedded with elite SOF, including the U.S. Army Special Forces or Green Berets, Army Rangers, Navy Seals, and CIA clandestine operatives to tell their stories from the front lines. &#34;Danger Close&#34; follows Alex as she lives alongside these highly trained forces on some of the most daring missions ever documented in Iraq and Afghanistan.
+Chloé, a fragile young woman, falls in love with her psychoanalyst, Paul. A few months later she moves in with him, but soon discovers that her lover is concealing a part of his identity.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/mbeR3v5QkAA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xqVGWGG9J5Y?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -269,28 +279,18 @@ Freelance female war reporter Alex Quade covers U.S. Special Operations Forces (
 
 
 	
-
-  
-
-
 	
 
-  
+### The Wizard of Lies
+*Released on 2017-05-20, vote average 6.6*
 
-
-	
-	
-
-### Blame!
-*Released on 2017-05-20, vote average 6.8*
-
-In the distant technological future, civilization has reached its ultimate Net-based form. An &#34;infection&#34; in the past caused the automated systems to spiral out of order, resulting in a multi-leveled city structure that replicates itself infinitely in all directions. Now humanity has lost access to the city&#39;s controls, and is hunted down and purged by the defense system known as the Safeguard. In a tiny corner of the city, a little enclave known as the Electro-Fishers is facing eventual extinction, trapped between the threat of the Safeguard and dwindling food supplies. A girl named Zuru goes on a journey to find food for her village, only to inadvertently cause doom when an observation tower senses her and summons a Safeguard pack to eliminate the threat. With her companions dead and all escape routes blocked, the only thing that can save her now is the sudden arrival of Killy the Wanderer, on his quest for the Net Terminal Genes, the key to restoring order to the world.
+A look behind the scenes at Bernie Madoff&#39;s massive Ponzi scheme, how it was perpetrated on the public and the trail of destruction it left in its wake, both for the victims and Madoff&#39;s family.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/tz5siEX72nY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/jo_CYCumZgI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -323,15 +323,32 @@ In the distant technological future, civilization has reached its ultimate Net-b
 	
 
 	
+	
+
+### The Exception
+*Released on 2017-06-02, vote average 7*
+
+A German soldier tries to determine if the Dutch resistance has planted a spy to infiltrate the home of Kaiser Wilhelm in Holland during the onset of World War II, but falls for a young Jewish Dutch woman during his investigation.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ld4eE2HU-ig?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
 	
-	
 
 	
 
 	
 
+	
+
+	
+	
 	
 
 	
