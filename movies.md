@@ -47,7 +47,7 @@ Captain Jack Sparrow is pursued by an old rival, Captain Salazar, who along with
 	
 
 ### Wonder Woman
-*Released on 2017-05-30, vote average 5.4*
+*Released on 2017-05-30, vote average 6.3*
 
 An Amazon princess comes to the world of Man to become the greatest of the female superheroes.
 
@@ -91,7 +91,7 @@ A rock star general bent on winning the “impossible” war in Afghanistan take
 	
 
 ### Berlin Syndrome
-*Released on 2017-05-25, vote average 7*
+*Released on 2017-05-25, vote average 6.9*
 
 A passionate holiday romance leads to an obsessive relationship, when an Australian photojournalist wakes one morning in a Berlin apartment and is unable to leave.
 
@@ -110,6 +110,11 @@ A passionate holiday romance leads to an obsessive relationship, when an Austral
 
 
 	
+
+  
+
+
+	
 	
 
 ### Drone
@@ -121,7 +126,7 @@ Ideologies collide with fatal results when a military drone contractor meets an 
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/3si8gJ_u1jk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/t_fq1hmMeqg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -131,138 +136,6 @@ Ideologies collide with fatal results when a military drone contractor meets an 
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Black Butterfly
-*Released on 2017-05-26, vote average 7.2*
-
-Remake of French thriller, Papillon Noir by Herve Korian. Paul is a down-on-his-luck screenwriter who picks up a drifter and offers him a place to stay. However, when the deranged stranger takes Paul hostage and forces him to write, their unhinged relationship brings buried secrets to light.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MFOaolQR6jk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Everything, Everything
-*Released on 2017-05-19, vote average 7.3*
-
-A teenager who&#39;s lived a sheltered life because she&#39;s allergic to everything, falls for the boy who moves in next door.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/mzlUbsODpAQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Sarah Silverman: A Speck of Dust
-*Released on 2017-05-30, vote average 7.7*
-
-In her first comedy special post-health scare, Sarah Silverman shares a mix of fun facts, sad truths and yeah-she-just-went-there moments.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/02IAhy5OKT0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Resident Evil: Vendetta
-*Released on 2017-05-27, vote average 10*
-
-Resident Evil: Vendetta (also known as Biohazard: Vendetta) is an upcoming CGI animation movie. The movie is scheduled for 2017 release.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Uw2Styd2RAU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Double Lover
-*Released on 2017-05-26, vote average 7*
-
-Chloé, a fragile young woman, falls in love with her psychoanalyst, Paul. A few months later she moves in with him, but soon discovers that her lover is concealing a part of his identity.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xqVGWGG9J5Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -301,6 +174,45 @@ A look behind the scenes at Bernie Madoff&#39;s massive Ponzi scheme, how it was
 
 
 	
+	
+
+### Sarah Silverman: A Speck of Dust
+*Released on 2017-05-30, vote average 7.7*
+
+In her first comedy special post-health scare, Sarah Silverman shares a mix of fun facts, sad truths and yeah-she-just-went-there moments.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/02IAhy5OKT0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Everything, Everything
+*Released on 2017-05-19, vote average 7.3*
+
+A teenager who&#39;s lived a sheltered life because she&#39;s allergic to everything, falls for the boy who moves in next door.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mzlUbsODpAQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -310,10 +222,100 @@ A look behind the scenes at Bernie Madoff&#39;s massive Ponzi scheme, how it was
   
 
 
+	
+	
+
+### Blame!
+*Released on 2017-05-20, vote average 6.7*
+
+In the distant technological future, civilization has reached its ultimate Net-based form. An &#34;infection&#34; in the past caused the automated systems to spiral out of order, resulting in a multi-leveled city structure that replicates itself infinitely in all directions. Now humanity has lost access to the city&#39;s controls, and is hunted down and purged by the defense system known as the Safeguard. In a tiny corner of the city, a little enclave known as the Electro-Fishers is facing eventual extinction, trapped between the threat of the Safeguard and dwindling food supplies. A girl named Zuru goes on a journey to find food for her village, only to inadvertently cause doom when an observation tower senses her and summons a Safeguard pack to eliminate the threat. With her companions dead and all escape routes blocked, the only thing that can save her now is the sudden arrival of Killy the Wanderer, on his quest for the Net Terminal Genes, the key to restoring order to the world.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/tz5siEX72nY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Resident Evil: Vendetta
+*Released on 2017-05-27, vote average 10*
+
+BSAA Chris Redfield enlists the help of government agent Leon S. Kennedy and Professor Rebecca Chambers from Alexander Institute of Biotechnology to stop a death merchant with a vengeance from spreading a deadly virus in New York.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Uw2Styd2RAU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 
 ## Opening soon
 
 
+	
+	
+
+### The Mummy
+*Released on 2017-06-08, vote average 5.8*
+
+Though safely entombed in a crypt deep beneath the unforgiving desert, an ancient queen whose destiny was unjustly taken from her is awakened in our current day, bringing with her malevolence grown over millennia, and terrors that defy human comprehension.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IjHgzkQM2Sg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -347,8 +349,6 @@ A German soldier tries to determine if the Dutch resistance has planted a spy to
 
 	
 
-	
-	
 	
 
 	
