@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Pirates of the Caribbean: Dead Men Tell No Tales
-*Released on 2017-05-23, vote average 6.6*
+*Released on 2017-05-23, vote average 6.5*
 
 Captain Jack Sparrow is pursued by an old rival, Captain Salazar, who along with his crew of ghost pirates has escaped from the Devil&#39;s Triangle, and is determined to kill every pirate at sea. Jack seeks the Trident of Poseidon, a powerful artifact that grants its possessor total control over the seas, in order to defeat Salazar.
 
@@ -47,7 +47,7 @@ Captain Jack Sparrow is pursued by an old rival, Captain Salazar, who along with
 	
 
 ### Wonder Woman
-*Released on 2017-05-30, vote average 6.8*
+*Released on 2017-05-30, vote average 7.1*
 
 An Amazon princess comes to the world of Man to become the greatest of the female superheroes.
 
@@ -55,7 +55,7 @@ An Amazon princess comes to the world of Man to become the greatest of the femal
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/5lGoQhFb4NM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/tsJeu11shJg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -88,6 +88,8 @@ A rock star general bent on winning the “impossible” war in Afghanistan take
 
 
 	
+	
+	
 
   
 
@@ -101,7 +103,7 @@ A rock star general bent on winning the “impossible” war in Afghanistan take
 	
 
 ### Berlin Syndrome
-*Released on 2017-05-25, vote average 6.9*
+*Released on 2017-05-25, vote average 6.6*
 
 A passionate holiday romance leads to an obsessive relationship, when an Australian photojournalist wakes one morning in a Berlin apartment and is unable to leave.
 
@@ -110,6 +112,28 @@ A passionate holiday romance leads to an obsessive relationship, when an Austral
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/GQw-IX9yqXw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Sarah Silverman: A Speck of Dust
+*Released on 2017-05-30, vote average 7.8*
+
+In her first comedy special post-health scare, Sarah Silverman shares a mix of fun facts, sad truths and yeah-she-just-went-there moments.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/02IAhy5OKT0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -131,7 +155,7 @@ Ideologies collide with fatal results when a military drone contractor meets an 
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/3si8gJ_u1jk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/t_fq1hmMeqg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -143,21 +167,11 @@ Ideologies collide with fatal results when a military drone contractor meets an 
 
 	
 	
-
-### Sarah Silverman: A Speck of Dust
-*Released on 2017-05-30, vote average 7.7*
-
-In her first comedy special post-health scare, Sarah Silverman shares a mix of fun facts, sad truths and yeah-she-just-went-there moments.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/02IAhy5OKT0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
+
+  
+
+
 	
 
   
@@ -181,67 +195,6 @@ A German soldier tries to determine if the Dutch resistance has planted a spy to
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/ld4eE2HU-ig?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Wizard of Lies
-*Released on 2017-05-20, vote average 6.6*
-
-A look behind the scenes at Bernie Madoff&#39;s massive Ponzi scheme, how it was perpetrated on the public and the trail of destruction it left in its wake, both for the victims and Madoff&#39;s family.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jo_CYCumZgI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Black Butterfly
-*Released on 2017-05-26, vote average 7.2*
-
-Remake of French thriller, Papillon Noir by Herve Korian. Paul is a down-on-his-luck screenwriter who picks up a drifter and offers him a place to stay. However, when the deranged stranger takes Paul hostage and forces him to write, their unhinged relationship brings buried secrets to light.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MFOaolQR6jk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -293,6 +246,40 @@ BSAA Chris Redfield enlists the help of government agent Leon S. Kennedy and Pro
   
 
 
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Black Butterfly
+*Released on 2017-05-26, vote average 7*
+
+Remake of French thriller, Papillon Noir by Herve Korian. Paul is a down-on-his-luck screenwriter who picks up a drifter and offers him a place to stay. However, when the deranged stranger takes Paul hostage and forces him to write, their unhinged relationship brings buried secrets to light.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MFOaolQR6jk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -301,7 +288,7 @@ BSAA Chris Redfield enlists the help of government agent Leon S. Kennedy and Pro
 	
 
 ### The Mummy
-*Released on 2017-06-08, vote average 6.9*
+*Released on 2017-06-08, vote average 5.8*
 
 Though safely entombed in a crypt deep beneath the unforgiving desert, an ancient queen whose destiny was unjustly taken from her is awakened in our current day, bringing with her malevolence grown over millennia, and terrors that defy human comprehension.
 
@@ -326,6 +313,23 @@ Though safely entombed in a crypt deep beneath the unforgiving desert, an ancien
 
 	
 
+	
+	
+
+### My Cousin Rachel
+*Released on 2017-06-08, vote average 8.5*
+
+A young Englishman plots revenge against his mysterious, beautiful cousin, believing that she murdered his guardian. But his feelings become complicated as he finds himself falling under the beguiling spell of her charms.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8NfQ7o_rCC0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
