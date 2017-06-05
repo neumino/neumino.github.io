@@ -13,9 +13,9 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Pirates of the Caribbean: Dead Men Tell No Tales
-*Released on 2017-05-23, vote average 6.5*
+*Released on 2017-05-23, vote average 6.6*
 
-Captain Jack Sparrow is pursued by an old rival, Captain Salazar, who along with his crew of ghost pirates has escaped from the Devil&#39;s Triangle, and is determined to kill every pirate at sea. Jack seeks the Trident of Poseidon, a powerful artifact that grants its possessor total control over the seas, in order to defeat Salazar.
+
 
 <iframe id="player"
 	type="text/html"
@@ -47,7 +47,7 @@ Captain Jack Sparrow is pursued by an old rival, Captain Salazar, who along with
 	
 
 ### Wonder Woman
-*Released on 2017-05-30, vote average 7.1*
+*Released on 2017-05-30, vote average 7*
 
 An Amazon princess comes to the world of Man to become the greatest of the female superheroes.
 
@@ -102,8 +102,30 @@ A rock star general bent on winning the “impossible” war in Afghanistan take
 	
 	
 
+### The Exception
+*Released on 2017-06-02, vote average 6.6*
+
+A German soldier tries to determine if the Dutch resistance has planted a spy to infiltrate the home of Kaiser Wilhelm in Holland during the onset of World War II, but falls for a young Jewish Dutch woman during his investigation.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ld4eE2HU-ig?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Berlin Syndrome
-*Released on 2017-05-25, vote average 6.6*
+*Released on 2017-05-25, vote average 6.4*
 
 A passionate holiday romance leads to an obsessive relationship, when an Australian photojournalist wakes one morning in a Berlin apartment and is unable to leave.
 
@@ -167,34 +189,17 @@ Ideologies collide with fatal results when a military drone contractor meets an 
 
 	
 	
-	
 
-  
+### Black Butterfly
+*Released on 2017-05-26, vote average 7*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Exception
-*Released on 2017-06-02, vote average 7*
-
-A German soldier tries to determine if the Dutch resistance has planted a spy to infiltrate the home of Kaiser Wilhelm in Holland during the onset of World War II, but falls for a young Jewish Dutch woman during his investigation.
+Remake of French thriller, Papillon Noir by Herve Korian. Paul is a down-on-his-luck screenwriter who picks up a drifter and offers him a place to stay. However, when the deranged stranger takes Paul hostage and forces him to write, their unhinged relationship brings buried secrets to light.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ld4eE2HU-ig?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/MFOaolQR6jk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -214,6 +219,67 @@ A German soldier tries to determine if the Dutch resistance has planted a spy to
   
 
 
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Život po Moskriju
+*Released on 2017-06-03, vote average 10*
+
+The late controversial hip-hopper, the founder of Prti Bee Gee rap group, Davor Bobic Moskri, suddenly returns to the world of the living. He&#39;s allowed to return as a 10 year old child, with a goal to win a ticket to paradise, by showing his followers from underground where the motto Hit the pot, win a jackpot leads.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_-sKW5k5PmI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Double Lover
+*Released on 2017-05-26, vote average 7*
+
+Chloé, a fragile young woman, falls in love with her psychoanalyst, Paul. A few months later she moves in with him, but soon discovers that her lover is concealing a part of his identity.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xqVGWGG9J5Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -246,40 +312,6 @@ BSAA Chris Redfield enlists the help of government agent Leon S. Kennedy and Pro
   
 
 
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Black Butterfly
-*Released on 2017-05-26, vote average 7*
-
-Remake of French thriller, Papillon Noir by Herve Korian. Paul is a down-on-his-luck screenwriter who picks up a drifter and offers him a place to stay. However, when the deranged stranger takes Paul hostage and forces him to write, their unhinged relationship brings buried secrets to light.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MFOaolQR6jk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -288,7 +320,7 @@ Remake of French thriller, Papillon Noir by Herve Korian. Paul is a down-on-his-
 	
 
 ### The Mummy
-*Released on 2017-06-08, vote average 5.8*
+*Released on 2017-06-06, vote average 5.3*
 
 Though safely entombed in a crypt deep beneath the unforgiving desert, an ancient queen whose destiny was unjustly taken from her is awakened in our current day, bringing with her malevolence grown over millennia, and terrors that defy human comprehension.
 
@@ -301,6 +333,18 @@ Though safely entombed in a crypt deep beneath the unforgiving desert, an ancien
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
@@ -330,18 +374,6 @@ A young Englishman plots revenge against his mysterious, beautiful cousin, belie
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
