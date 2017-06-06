@@ -15,7 +15,7 @@ This is a convenient page that embeds trailers of movies released in the past
 ### Pirates of the Caribbean: Dead Men Tell No Tales
 *Released on 2017-05-23, vote average 6.6*
 
-
+Captain Jack Sparrow searches for the trident of Poseidon while being pursued by an undead sea captain and his crew.
 
 <iframe id="player"
 	type="text/html"
@@ -47,7 +47,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Wonder Woman
-*Released on 2017-05-30, vote average 7*
+*Released on 2017-05-30, vote average 7.2*
 
 An Amazon princess comes to the world of Man to become the greatest of the female superheroes.
 
@@ -56,6 +56,28 @@ An Amazon princess comes to the world of Man to become the greatest of the femal
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/tsJeu11shJg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Mummy
+*Released on 2017-06-06, vote average 5.3*
+
+Though safely entombed in a crypt deep beneath the unforgiving desert, an ancient queen whose destiny was unjustly taken from her is awakened in our current day, bringing with her malevolence grown over millennia, and terrors that defy human comprehension.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IjHgzkQM2Sg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -81,13 +103,6 @@ A rock star general bent on winning the “impossible” war in Afghanistan take
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -123,6 +138,13 @@ A German soldier tries to determine if the Dutch resistance has planted a spy to
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Berlin Syndrome
 *Released on 2017-05-25, vote average 6.4*
@@ -134,28 +156,6 @@ A passionate holiday romance leads to an obsessive relationship, when an Austral
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/GQw-IX9yqXw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Sarah Silverman: A Speck of Dust
-*Released on 2017-05-30, vote average 7.8*
-
-In her first comedy special post-health scare, Sarah Silverman shares a mix of fun facts, sad truths and yeah-she-just-went-there moments.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/02IAhy5OKT0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -188,6 +188,53 @@ Ideologies collide with fatal results when a military drone contractor meets an 
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### Black Butterfly
@@ -214,104 +261,6 @@ Remake of French thriller, Papillon Noir by Herve Korian. Paul is a down-on-his-
   
 
 
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Život po Moskriju
-*Released on 2017-06-03, vote average 10*
-
-The late controversial hip-hopper, the founder of Prti Bee Gee rap group, Davor Bobic Moskri, suddenly returns to the world of the living. He&#39;s allowed to return as a 10 year old child, with a goal to win a ticket to paradise, by showing his followers from underground where the motto Hit the pot, win a jackpot leads.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/_-sKW5k5PmI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Double Lover
-*Released on 2017-05-26, vote average 7*
-
-Chloé, a fragile young woman, falls in love with her psychoanalyst, Paul. A few months later she moves in with him, but soon discovers that her lover is concealing a part of his identity.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xqVGWGG9J5Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Resident Evil: Vendetta
-*Released on 2017-05-27, vote average 10*
-
-BSAA Chris Redfield enlists the help of government agent Leon S. Kennedy and Professor Rebecca Chambers from Alexander Institute of Biotechnology to stop a death merchant with a vengeance from spreading a deadly virus in New York.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Uw2Styd2RAU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -333,20 +282,6 @@ Though safely entombed in a crypt deep beneath the unforgiving desert, an ancien
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
@@ -386,6 +321,22 @@ A young Englishman plots revenge against his mysterious, beautiful cousin, belie
 
 	
 
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
 	
 
 	
