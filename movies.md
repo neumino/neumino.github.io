@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Pirates of the Caribbean: Dead Men Tell No Tales
-*Released on 2017-05-23, vote average 6.6*
+### Wonder Woman
+*Released on 2017-05-30, vote average 7.2*
 
-Captain Jack Sparrow searches for the trident of Poseidon while being pursued by an undead sea captain and his crew.
+An Amazon princess comes to the world of Man to become the greatest of the female superheroes.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Hgeu5rhoxxY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/5lGoQhFb4NM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,30 +46,8 @@ Captain Jack Sparrow searches for the trident of Poseidon while being pursued by
 	
 	
 
-### Wonder Woman
-*Released on 2017-05-30, vote average 7.2*
-
-An Amazon princess comes to the world of Man to become the greatest of the female superheroes.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tsJeu11shJg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Mummy
-*Released on 2017-06-06, vote average 5.3*
+*Released on 2017-06-06, vote average 4.6*
 
 Though safely entombed in a crypt deep beneath the unforgiving desert, an ancient queen whose destiny was unjustly taken from her is awakened in our current day, bringing with her malevolence grown over millennia, and terrors that defy human comprehension.
 
@@ -91,7 +69,7 @@ Though safely entombed in a crypt deep beneath the unforgiving desert, an ancien
 	
 
 ### War Machine
-*Released on 2017-05-26, vote average 6.3*
+*Released on 2017-05-26, vote average 6.4*
 
 A rock star general bent on winning the “impossible” war in Afghanistan takes us inside the complex machinery of modern war. Inspired by a true story.
 
@@ -110,6 +88,40 @@ A rock star general bent on winning the “impossible” war in Afghanistan take
 
 
 	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Berlin Syndrome
+*Released on 2017-05-25, vote average 6.2*
+
+A passionate holiday romance leads to an obsessive relationship, when an Australian photojournalist wakes one morning in a Berlin apartment and is unable to leave.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/GQw-IX9yqXw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 
   
 
@@ -118,7 +130,7 @@ A rock star general bent on winning the “impossible” war in Afghanistan take
 	
 
 ### The Exception
-*Released on 2017-06-02, vote average 6.6*
+*Released on 2017-06-02, vote average 6.5*
 
 A German soldier tries to determine if the Dutch resistance has planted a spy to infiltrate the home of Kaiser Wilhelm in Holland during the onset of World War II, but falls for a young Jewish Dutch woman during his investigation.
 
@@ -138,38 +150,9 @@ A German soldier tries to determine if the Dutch resistance has planted a spy to
 
 	
 	
-	
-
-  
-
-
-	
-	
-
-### Berlin Syndrome
-*Released on 2017-05-25, vote average 6.4*
-
-A passionate holiday romance leads to an obsessive relationship, when an Australian photojournalist wakes one morning in a Berlin apartment and is unable to leave.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/GQw-IX9yqXw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
 
 ### Drone
-*Released on 2017-05-26, vote average 5.3*
+*Released on 2017-05-26, vote average 5.8*
 
 Ideologies collide with fatal results when a military drone contractor meets an enigmatic Pakistani businessman.
 
@@ -182,53 +165,6 @@ Ideologies collide with fatal results when a military drone contractor meets an 
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -261,6 +197,87 @@ Remake of French thriller, Papillon Noir by Herve Korian. Paul is a down-on-his-
   
 
 
+	
+	
+
+### One Love Manchester
+*Released on 2017-06-04, vote average 8*
+
+Live coverage of the concert set up by Ariana Grande at Old Trafford cricket ground to benefit those affected by the May 2017 Manchester bomb attack.  Performers include Ariana Grande, Justin Bieber, Coldplay, Katy Perry, Take That, Pharrell Williams, Niall Horan, Miley Cyrus, Usher, Robbie Williams, Little Mix and The Black Eyed Peas.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/gZkol4rcbgo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### This Cacophony Runs Over Me
+*Released on 2017-06-04, vote average 10*
+
+This cacophony runs over me, over everything I see, everything I want to see: it&#39;s me.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nbWxwFEPrKA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -268,20 +285,45 @@ Remake of French thriller, Papillon Noir by Herve Korian. Paul is a down-on-his-
 	
 	
 
-### The Mummy
-*Released on 2017-06-06, vote average 5.3*
+### The Hunter&#39;s Prayer
+*Released on 2017-06-08, vote average 7*
 
-Though safely entombed in a crypt deep beneath the unforgiving desert, an ancient queen whose destiny was unjustly taken from her is awakened in our current day, bringing with her malevolence grown over millennia, and terrors that defy human comprehension.
+An assassin helps a young woman avenge the death of her family.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/IjHgzkQM2Sg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/EO2Rnh21oeE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+	
+
+### It Comes at Night
+*Released on 2017-06-09, vote average 4*
+
+A father will stop at nothing to protect his wife and son from a malevolent, mysterious presence terrorizing them right outside their doorstep.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/sKnigN8OiNc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
 	
 
 	
@@ -327,16 +369,6 @@ A young Englishman plots revenge against his mysterious, beautiful cousin, belie
 
 	
 
-	
-
-	
-
-	
-
-	
-
-	
-	
 	
 
 	
