@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Wonder Woman
-*Released on 2017-05-30, vote average 7.2*
+*Released on 2017-05-30, vote average 7.1*
 
 An Amazon princess comes to the world of Man to become the greatest of the female superheroes.
 
@@ -47,7 +47,7 @@ An Amazon princess comes to the world of Man to become the greatest of the femal
 	
 
 ### The Mummy
-*Released on 2017-06-06, vote average 4.6*
+*Released on 2017-06-06, vote average 4.9*
 
 Though safely entombed in a crypt deep beneath the unforgiving desert, an ancient queen whose destiny was unjustly taken from her is awakened in our current day, bringing with her malevolence grown over millennia, and terrors that defy human comprehension.
 
@@ -88,6 +88,158 @@ A rock star general bent on winning the “impossible” war in Afghanistan take
 
 
 	
+
+  
+
+
+	
+	
+
+### The Hunter&#39;s Prayer
+*Released on 2017-06-08, vote average 7*
+
+An assassin helps a young woman avenge the death of her family.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EO2Rnh21oeE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Captain Underpants: The First Epic Movie
+*Released on 2017-06-01, vote average 7.4*
+
+Two mischievous kids hypnotize their mean high school principal and turn him into their comic book creation, the kind-hearted and elastic-banded Captain Underpants.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/VDm_2m-Hg6c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Exception
+*Released on 2017-06-02, vote average 6.5*
+
+A German soldier tries to determine if the Dutch resistance has planted a spy to infiltrate the home of Kaiser Wilhelm in Holland during the onset of World War II, but falls for a young Jewish Dutch woman during his investigation.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ld4eE2HU-ig?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### One Love Manchester
+*Released on 2017-06-04, vote average 8*
+
+Live coverage of the concert set up by Ariana Grande at Old Trafford cricket ground to benefit those affected by the May 2017 Manchester bomb attack.  Performers include Ariana Grande, Justin Bieber, Coldplay, Katy Perry, Take That, Pharrell Williams, Niall Horan, Miley Cyrus, Usher, Robbie Williams, Little Mix and The Black Eyed Peas.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/gZkol4rcbgo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Drone
+*Released on 2017-05-26, vote average 5.8*
+
+Ideologies collide with fatal results when a military drone contractor meets an enigmatic Pakistani businessman.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3si8gJ_u1jk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Black Butterfly
+*Released on 2017-05-26, vote average 7*
+
+Remake of French thriller, Papillon Noir by Herve Korian. Paul is a down-on-his-luck screenwriter who picks up a drifter and offers him a place to stay. However, when the deranged stranger takes Paul hostage and forces him to write, their unhinged relationship brings buried secrets to light.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MFOaolQR6jk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -128,65 +280,6 @@ A passionate holiday romance leads to an obsessive relationship, when an Austral
 
 	
 	
-
-### The Exception
-*Released on 2017-06-02, vote average 6.5*
-
-A German soldier tries to determine if the Dutch resistance has planted a spy to infiltrate the home of Kaiser Wilhelm in Holland during the onset of World War II, but falls for a young Jewish Dutch woman during his investigation.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ld4eE2HU-ig?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Drone
-*Released on 2017-05-26, vote average 5.8*
-
-Ideologies collide with fatal results when a military drone contractor meets an enigmatic Pakistani businessman.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/t_fq1hmMeqg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Black Butterfly
-*Released on 2017-05-26, vote average 7*
-
-Remake of French thriller, Papillon Noir by Herve Korian. Paul is a down-on-his-luck screenwriter who picks up a drifter and offers him a place to stay. However, when the deranged stranger takes Paul hostage and forces him to write, their unhinged relationship brings buried secrets to light.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MFOaolQR6jk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -197,82 +290,6 @@ Remake of French thriller, Papillon Noir by Herve Korian. Paul is a down-on-his-
   
 
 
-	
-	
-
-### One Love Manchester
-*Released on 2017-06-04, vote average 8*
-
-Live coverage of the concert set up by Ariana Grande at Old Trafford cricket ground to benefit those affected by the May 2017 Manchester bomb attack.  Performers include Ariana Grande, Justin Bieber, Coldplay, Katy Perry, Take That, Pharrell Williams, Niall Horan, Miley Cyrus, Usher, Robbie Williams, Little Mix and The Black Eyed Peas.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/gZkol4rcbgo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### This Cacophony Runs Over Me
-*Released on 2017-06-04, vote average 10*
-
-This cacophony runs over me, over everything I see, everything I want to see: it&#39;s me.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nbWxwFEPrKA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -304,6 +321,8 @@ An assassin helps a young woman avenge the death of her family.
 	
 
 	
+
+	
 	
 
 ### It Comes at Night
@@ -320,12 +339,6 @@ A father will stop at nothing to protect his wife and son from a malevolent, mys
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
 	
 
 	
@@ -367,6 +380,12 @@ A young Englishman plots revenge against his mysterious, beautiful cousin, belie
 
 	
 
+	
+
+	
+
+	
+	
 	
 
 	
