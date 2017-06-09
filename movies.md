@@ -47,7 +47,7 @@ An Amazon princess comes to the world of Man to become the greatest of the femal
 	
 
 ### The Mummy
-*Released on 2017-06-06, vote average 4.9*
+*Released on 2017-06-06, vote average 4.7*
 
 Though safely entombed in a crypt deep beneath the unforgiving desert, an ancient queen whose destiny was unjustly taken from her is awakened in our current day, bringing with her malevolence grown over millennia, and terrors that defy human comprehension.
 
@@ -88,11 +88,6 @@ A rock star general bent on winning the “impossible” war in Afghanistan take
 
 
 	
-
-  
-
-
-	
 	
 
 ### The Hunter&#39;s Prayer
@@ -105,6 +100,82 @@ An assassin helps a young woman avenge the death of her family.
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/EO2Rnh21oeE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### It Comes at Night
+*Released on 2017-06-09, vote average 4*
+
+A father will stop at nothing to protect his wife and son from a malevolent, mysterious presence terrorizing them right outside their doorstep.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/sKnigN8OiNc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Megan Leavey
+*Released on 2017-06-09, vote average 5*
+
+The true story of Marine Corporal Megan Leavey, who forms a powerful bond with an aggressive combat dog, Rex. While deployed in Iraq, the two complete more than 100 missions and save countless lives, until an IED explosion puts their faithfulness to the test.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ITNgeXVvJT0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -137,6 +208,11 @@ Two mischievous kids hypnotize their mean high school principal and turn him int
 
 
 	
+
+  
+
+
+	
 	
 
 ### The Exception
@@ -159,16 +235,50 @@ A German soldier tries to determine if the Dutch resistance has planted a spy to
 
 
 	
-
-  
-
-
+	
 	
 
   
 
 
 	
+	
+
+### Black Butterfly
+*Released on 2017-05-26, vote average 7*
+
+Remake of French thriller, Papillon Noir by Herve Korian. Paul is a down-on-his-luck screenwriter who picks up a drifter and offers him a place to stay. However, when the deranged stranger takes Paul hostage and forces him to write, their unhinged relationship brings buried secrets to light.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MFOaolQR6jk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Drone
+*Released on 2017-05-26, vote average 5.8*
+
+Ideologies collide with fatal results when a military drone contractor meets an enigmatic Pakistani businessman.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/t_fq1hmMeqg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -198,99 +308,6 @@ Live coverage of the concert set up by Ariana Grande at Old Trafford cricket gro
 
 
 	
-	
-
-### Drone
-*Released on 2017-05-26, vote average 5.8*
-
-Ideologies collide with fatal results when a military drone contractor meets an enigmatic Pakistani businessman.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3si8gJ_u1jk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Black Butterfly
-*Released on 2017-05-26, vote average 7*
-
-Remake of French thriller, Papillon Noir by Herve Korian. Paul is a down-on-his-luck screenwriter who picks up a drifter and offers him a place to stay. However, when the deranged stranger takes Paul hostage and forces him to write, their unhinged relationship brings buried secrets to light.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MFOaolQR6jk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Berlin Syndrome
-*Released on 2017-05-25, vote average 6.2*
-
-A passionate holiday romance leads to an obsessive relationship, when an Australian photojournalist wakes one morning in a Berlin apartment and is unable to leave.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/GQw-IX9yqXw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 
   
 
@@ -298,29 +315,6 @@ A passionate holiday romance leads to an obsessive relationship, when an Austral
 
 ## Opening soon
 
-
-	
-	
-
-### The Hunter&#39;s Prayer
-*Released on 2017-06-08, vote average 7*
-
-An assassin helps a young woman avenge the death of her family.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EO2Rnh21oeE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
 
 	
 	
@@ -342,24 +336,43 @@ A father will stop at nothing to protect his wife and son from a malevolent, mys
 	
 
 	
-
 	
 
-	
+### Megan Leavey
+*Released on 2017-06-09, vote average 5*
 
-	
-	
-
-### My Cousin Rachel
-*Released on 2017-06-08, vote average 8.5*
-
-A young Englishman plots revenge against his mysterious, beautiful cousin, believing that she murdered his guardian. But his feelings become complicated as he finds himself falling under the beguiling spell of her charms.
+The true story of Marine Corporal Megan Leavey, who forms a powerful bond with an aggressive combat dog, Rex. While deployed in Iraq, the two complete more than 100 missions and save countless lives, until an IED explosion puts their faithfulness to the test.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/8NfQ7o_rCC0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ITNgeXVvJT0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Awakening the Zodiac
+*Released on 2017-06-09, vote average 9*
+
+The story follows a down-on-their-luck couple who discovers a serial killer&#39;s film reels. They decide to take the law into their own hands, risking everything for the chance at a $100,000 reward. It isn&#39;t long until they find themselves in the killer&#39;s lethal cross-hairs.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LTnpvxbHhvc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -385,7 +398,9 @@ A young Englishman plots revenge against his mysterious, beautiful cousin, belie
 	
 
 	
+
 	
+
 	
 
 	
