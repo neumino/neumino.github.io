@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Wonder Woman
-*Released on 2017-05-30, vote average 7.1*
+*Released on 2017-05-30, vote average 7.2*
 
 An Amazon princess comes to the world of Man to become the greatest of the female superheroes.
 
@@ -90,28 +90,6 @@ An assassin helps a young woman avenge the death of her family.
 	
 	
 
-### Megan Leavey
-*Released on 2017-06-09, vote average 5*
-
-The true story of Marine Corporal Megan Leavey, who forms a powerful bond with an aggressive combat dog, Rex. While deployed in Iraq, the two complete more than 100 missions and save countless lives, until an IED explosion puts their faithfulness to the test.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ITNgeXVvJT0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### It Comes at Night
 *Released on 2017-06-09, vote average 7.3*
 
@@ -159,10 +137,22 @@ Two mischievous kids hypnotize their mean high school principal and turn him int
 
 
 	
+	
 
-  
+### Megan Leavey
+*Released on 2017-06-09, vote average 6*
 
+The true story of Marine Corporal Megan Leavey, who forms a powerful bond with an aggressive combat dog, Rex. While deployed in Iraq, the two complete more than 100 missions and save countless lives, until an IED explosion puts their faithfulness to the test.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ITNgeXVvJT0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -170,11 +160,50 @@ Two mischievous kids hypnotize their mean high school principal and turn him int
 
 	
 	
+
+### Awakening the Zodiac
+*Released on 2017-06-09, vote average 9*
+
+The story follows a down-on-their-luck couple who discovers a serial killer&#39;s film reels. They decide to take the law into their own hands, risking everything for the chance at a $100,000 reward. It isn&#39;t long until they find themselves in the killer&#39;s lethal cross-hairs.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LTnpvxbHhvc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
 
 
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Invidia
+*Released on 2017-06-08, vote average 10*
+
+A young woman is envious of her childhood friend who has broken into the modelling industry
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Hb9kh_-V7Tg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -203,10 +232,47 @@ Ryan Hinds awakes inside a sealed industrial kiln. He is set challenges by a voi
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### 11:55
+*Released on 2017-06-09, vote average 6.5*
+
+Upon his return home, a U.S. Marine must face up to the consequences of a shameful tragedy that has defined his past before he runs out of time.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/DuG-7SD-R_Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 
 ### My Cousin Rachel
-*Released on 2017-06-08, vote average 8.5*
+*Released on 2017-06-08, vote average 7.8*
 
 A young Englishman plots revenge against his mysterious, beautiful cousin, believing that she murdered his guardian. But his feelings become complicated as he finds himself falling under the beguiling spell of her charms.
 
@@ -219,38 +285,6 @@ A young Englishman plots revenge against his mysterious, beautiful cousin, belie
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Exception
-*Released on 2017-06-02, vote average 6.5*
-
-A German soldier tries to determine if the Dutch resistance has planted a spy to infiltrate the home of Kaiser Wilhelm in Holland during the onset of World War II, but falls for a young Jewish Dutch woman during his investigation.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ld4eE2HU-ig?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -281,7 +315,41 @@ A German soldier tries to determine if the Dutch resistance has planted a spy to
 
 
 	
+	
 
+### Cars 3
+*Released on 2017-06-15, vote average 5.3*
+
+Blindsided by a new generation of blazing-fast racers, the legendary Lightning McQueen is suddenly pushed out of the sport he loves. To get back in the game, he will need the help of an eager young race technician with her own plan to win, inspiration from the late Fabulous Hudson Hornet, and a few unexpected turns. Proving that #95 isn&#39;t through yet will test the heart of a champion on Piston Cup Racing’s biggest stage!
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/U1eQYk74R1g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### 47 Meters Down
+*Released on 2017-06-15, vote average 2.3*
+
+Two sisters on Mexican vacation are trapped in a shark observation cage at the bottom of the ocean, with oxygen running low and great whites circling nearby, they have less than an hour of air left to figure out how to get to the surface.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LBmBcASLdK8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
