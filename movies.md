@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Wonder Woman
-*Released on 2017-05-30, vote average 7.1*
+### The Mummy
+*Released on 2017-06-06, vote average 5*
 
-An Amazon princess comes to the world of Man to become the greatest of the female superheroes.
+Though safely entombed in a crypt deep beneath the unforgiving desert, an ancient queen whose destiny was unjustly taken from her is awakened in our current day, bringing with her malevolence grown over millennia, and terrors that defy human comprehension.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/5lGoQhFb4NM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/IjHgzkQM2Sg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,28 +46,6 @@ An Amazon princess comes to the world of Man to become the greatest of the femal
 	
 	
 
-### The Mummy
-*Released on 2017-06-06, vote average 5*
-
-Though safely entombed in a crypt deep beneath the unforgiving desert, an ancient queen whose destiny was unjustly taken from her is awakened in our current day, bringing with her malevolence grown over millennia, and terrors that defy human comprehension.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IjHgzkQM2Sg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### It Comes at Night
 *Released on 2017-06-09, vote average 4.9*
 
@@ -78,28 +56,6 @@ Secure within a desolate home as an unnatural threat terrorizes the world, a man
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/sKnigN8OiNc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Hunter&#39;s Prayer
-*Released on 2017-06-08, vote average 5*
-
-An assassin helps a young woman avenge the death of her family.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EO2Rnh21oeE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -132,6 +88,33 @@ Two mischievous kids hypnotize their mean high school principal and turn him int
 
 
 	
+
+  
+
+
+	
+	
+
+### Shimmer Lake
+*Released on 2017-06-09, vote average 6.1*
+
+An inventive crime thriller told backwards -- reversing day by day through a week -- following a local sheriff&#39;s quest to unlock the mystery of three small town criminals and a bank heist gone wrong.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/x8BFWNAg0aI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 
 ### Megan Leavey
@@ -148,16 +131,6 @@ The true story of Marine Corporal Megan Leavey, who forms a powerful bond with a
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -191,22 +164,69 @@ The story follows a down-on-their-luck couple who discovers a serial killer&#39;
 
 
 	
+
+  
+
+
+	
 	
 
-### Shimmer Lake
-*Released on 2017-06-09, vote average 6.2*
+### The Hunter&#39;s Prayer
+*Released on 2017-06-08, vote average 4.6*
 
-An inventive crime thriller told backwards -- reversing day by day through a week -- following a local sheriff&#39;s quest to unlock the mystery of three small town criminals and a bank heist gone wrong.
+An assassin helps a young woman avenge the death of her family.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/x8BFWNAg0aI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/EO2Rnh21oeE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Exception
+*Released on 2017-06-02, vote average 6.7*
+
+A German soldier tries to determine if the Dutch resistance has planted a spy to infiltrate the home of Kaiser Wilhelm in Holland during the onset of World War II, but falls for a young Jewish Dutch woman during his investigation.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ld4eE2HU-ig?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -241,6 +261,18 @@ Upon his return home, a U.S. Marine must face up to the consequences of a shamef
 
 	
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 
 ### My Cousin Rachel
 *Released on 2017-06-08, vote average 7.8*
@@ -261,96 +293,17 @@ A young Englishman plots revenge against his mysterious, beautiful cousin, belie
   
 
 
-	
-
-  
-
-
-	
-	
-
-### The Exception
-*Released on 2017-06-02, vote average 6.7*
-
-A German soldier tries to determine if the Dutch resistance has planted a spy to infiltrate the home of Kaiser Wilhelm in Holland during the onset of World War II, but falls for a young Jewish Dutch woman during his investigation.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ld4eE2HU-ig?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Always Aching &amp; Bending Back
-*Released on 2017-06-11, vote average 10*
-
-Slowed, stowed, achingly retold.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/9H0HHalNP50?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### One Love Manchester
-*Released on 2017-06-04, vote average 8*
-
-Live coverage of the concert set up by Ariana Grande at Old Trafford cricket ground to benefit those affected by the May 2017 Manchester bomb attack.  Performers include Ariana Grande, Justin Bieber, Coldplay, Katy Perry, Take That, Pharrell Williams, Niall Horan, Miley Cyrus, Usher, Robbie Williams, Little Mix and The Black Eyed Peas.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/mw5Y0AbHt1o?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 
 ## Opening soon
 
 
 	
+
+	
 	
 
 ### Cars 3
-*Released on 2017-06-15, vote average 4.1*
+*Released on 2017-06-15, vote average 3.6*
 
 Blindsided by a new generation of blazing-fast racers, the legendary Lightning McQueen is suddenly pushed out of the sport he loves. To get back in the game, he will need the help of an eager young race technician with her own plan to win, inspiration from the late Fabulous Hudson Hornet, and a few unexpected turns. Proving that #95 isn&#39;t through yet will test the heart of a champion on Piston Cup Racing’s biggest stage!
 
@@ -369,7 +322,7 @@ Blindsided by a new generation of blazing-fast racers, the legendary Lightning M
 	
 
 ### 47 Meters Down
-*Released on 2017-06-15, vote average 3.8*
+*Released on 2017-06-15, vote average 3*
 
 Two sisters on Mexican vacation are trapped in a shark observation cage at the bottom of the ocean, with oxygen running low and great whites circling nearby, they have less than an hour of air left to figure out how to get to the surface.
 
@@ -382,8 +335,6 @@ Two sisters on Mexican vacation are trapped in a shark observation cage at the b
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
