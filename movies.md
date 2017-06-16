@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Mummy
-*Released on 2017-06-06, vote average 5.1*
+*Released on 2017-06-06, vote average 5.2*
 
 Though safely entombed in a crypt deep beneath the unforgiving desert, an ancient queen whose destiny was unjustly taken from her is awakened in our current day, bringing with her malevolence grown over millennia, and terrors that defy human comprehension.
 
@@ -46,30 +46,8 @@ Though safely entombed in a crypt deep beneath the unforgiving desert, an ancien
 	
 	
 
-### It Comes at Night
-*Released on 2017-06-09, vote average 5*
-
-Secure within a desolate home as an unnatural threat terrorizes the world, a man has established a tenuous domestic order with his wife and son, but this will soon be put to test when a desperate young family arrives seeking refuge.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/sKnigN8OiNc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Cars 3
-*Released on 2017-06-15, vote average 3.1*
+*Released on 2017-06-15, vote average 4.3*
 
 Blindsided by a new generation of blazing-fast racers, the legendary Lightning McQueen is suddenly pushed out of the sport he loves. To get back in the game, he will need the help of an eager young race technician with her own plan to win, inspiration from the late Fabulous Hudson Hornet, and a few unexpected turns. Proving that #95 isn&#39;t through yet will test the heart of a champion on Piston Cup Racing’s biggest stage!
 
@@ -91,7 +69,7 @@ Blindsided by a new generation of blazing-fast racers, the legendary Lightning M
 	
 
 ### 47 Meters Down
-*Released on 2017-06-15, vote average 3*
+*Released on 2017-06-15, vote average 3.3*
 
 Two sisters on Mexican vacation are trapped in a shark observation cage at the bottom of the ocean, with oxygen running low and great whites circling nearby, they have less than an hour of air left to figure out how to get to the surface.
 
@@ -112,20 +90,30 @@ Two sisters on Mexican vacation are trapped in a shark observation cage at the b
 	
 	
 
-### Captain Underpants: The First Epic Movie
-*Released on 2017-06-01, vote average 7.3*
+### It Comes at Night
+*Released on 2017-06-09, vote average 5*
 
-Two mischievous kids hypnotize their mean high school principal and turn him into their comic book creation, the kind-hearted and elastic-banded Captain Underpants.
+Secure within a desolate home as an unnatural threat terrorizes the world, a man has established a tenuous domestic order with his wife and son, but this will soon be put to test when a desperate young family arrives seeking refuge.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/VDm_2m-Hg6c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/sKnigN8OiNc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -164,6 +152,43 @@ An inventive crime thriller told backwards -- reversing day by day through a wee
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Awakening the Zodiac
+*Released on 2017-06-09, vote average 9*
+
+The story follows a down-on-their-luck couple who discovers a serial killer&#39;s film reels. They decide to take the law into their own hands, risking everything for the chance at a $100,000 reward. It isn&#39;t long until they find themselves in the killer&#39;s lethal cross-hairs.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LTnpvxbHhvc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 
 ### Megan Leavey
@@ -180,6 +205,40 @@ The true story of Marine Corporal Megan Leavey, who forms a powerful bond with a
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### The Exception
+*Released on 2017-06-02, vote average 6.7*
+
+A German soldier tries to determine if the Dutch resistance has planted a spy to infiltrate the home of Kaiser Wilhelm in Holland during the onset of World War II, but falls for a young Jewish Dutch woman during his investigation.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ld4eE2HU-ig?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -213,80 +272,6 @@ An assassin helps a young woman avenge the death of her family.
 
 
 	
-	
-
-### Awakening the Zodiac
-*Released on 2017-06-09, vote average 9*
-
-The story follows a down-on-their-luck couple who discovers a serial killer&#39;s film reels. They decide to take the law into their own hands, risking everything for the chance at a $100,000 reward. It isn&#39;t long until they find themselves in the killer&#39;s lethal cross-hairs.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LTnpvxbHhvc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### 11:55
-*Released on 2017-06-09, vote average 6.5*
-
-Upon his return home, a U.S. Marine must face up to the consequences of a shameful tragedy that has defined his past before he runs out of time.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/DuG-7SD-R_Q?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 
   
 
@@ -298,41 +283,7 @@ Upon his return home, a U.S. Marine must face up to the consequences of a shamef
 	
 
 	
-	
 
-### Cars 3
-*Released on 2017-06-15, vote average 3.1*
-
-Blindsided by a new generation of blazing-fast racers, the legendary Lightning McQueen is suddenly pushed out of the sport he loves. To get back in the game, he will need the help of an eager young race technician with her own plan to win, inspiration from the late Fabulous Hudson Hornet, and a few unexpected turns. Proving that #95 isn&#39;t through yet will test the heart of a champion on Piston Cup Racing’s biggest stage!
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/U1eQYk74R1g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### 47 Meters Down
-*Released on 2017-06-15, vote average 3*
-
-Two sisters on Mexican vacation are trapped in a shark observation cage at the bottom of the ocean, with oxygen running low and great whites circling nearby, they have less than an hour of air left to figure out how to get to the surface.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LBmBcASLdK8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
