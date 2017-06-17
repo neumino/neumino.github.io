@@ -47,7 +47,7 @@ Though safely entombed in a crypt deep beneath the unforgiving desert, an ancien
 	
 
 ### Cars 3
-*Released on 2017-06-15, vote average 4.3*
+*Released on 2017-06-15, vote average 5.4*
 
 Blindsided by a new generation of blazing-fast racers, the legendary Lightning McQueen is suddenly pushed out of the sport he loves. To get back in the game, he will need the help of an eager young race technician with her own plan to win, inspiration from the late Fabulous Hudson Hornet, and a few unexpected turns. Proving that #95 isn&#39;t through yet will test the heart of a champion on Piston Cup Racing’s biggest stage!
 
@@ -90,6 +90,28 @@ Two sisters on Mexican vacation are trapped in a shark observation cage at the b
 	
 	
 
+### All Eyez on Me
+*Released on 2017-06-12, vote average 6.9*
+
+All Eyez on Me chronicles the life and legacy of Tupac Shakur, including his rise to superstardom as a hip-hop artist, actor, poet and activist, as well as his imprisonment and prolific, controversial time at Death Row Records. Against insurmountable odds, Tupac rose to become a cultural icon whose career and persona both continue to grow long after his passing.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pfhJE1ORqas?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### It Comes at Night
 *Released on 2017-06-09, vote average 5*
 
@@ -110,20 +132,22 @@ Secure within a desolate home as an unnatural threat terrorizes the world, a man
 
 
 	
-
-  
-
-
 	
 
-  
+### Rough Night
+*Released on 2017-06-15, vote average 6.5*
 
+Five best friends from college reunite 10 years later for a wild bachelorette weekend in Miami. Their hard partying takes a hilariously dark turn when they accidentally kill a male stripper. Amidst the craziness of trying to cover it up, they&#39;re ultimately brought closer together when it matters most.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/oIB4jNYeRY4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-  
-
-
 	
 
   
@@ -167,22 +191,30 @@ An inventive crime thriller told backwards -- reversing day by day through a wee
 
 
 	
-	
 
-### Awakening the Zodiac
-*Released on 2017-06-09, vote average 9*
+  
 
-The story follows a down-on-their-luck couple who discovers a serial killer&#39;s film reels. They decide to take the law into their own hands, risking everything for the chance at a $100,000 reward. It isn&#39;t long until they find themselves in the killer&#39;s lethal cross-hairs.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LTnpvxbHhvc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -191,45 +223,16 @@ The story follows a down-on-their-luck couple who discovers a serial killer&#39;
 	
 	
 
-### Megan Leavey
-*Released on 2017-06-09, vote average 6*
+### Rakka
+*Released on 2017-06-14, vote average 7.3*
 
-The true story of Marine Corporal Megan Leavey, who forms a powerful bond with an aggressive combat dog, Rex. While deployed in Iraq, the two complete more than 100 missions and save countless lives, until an IED explosion puts their faithfulness to the test.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ITNgeXVvJT0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### The Exception
-*Released on 2017-06-02, vote average 6.7*
-
-A German soldier tries to determine if the Dutch resistance has planted a spy to infiltrate the home of Kaiser Wilhelm in Holland during the onset of World War II, but falls for a young Jewish Dutch woman during his investigation.
+&#34;Rakka&#34; is the story of broken humanity following the invasion of a technologically superior alien species. Bleak harrowing and unrelenting, the humans we meet must find enough courage to go on fighting.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ld4eE2HU-ig?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/VjQ2t_yNHQs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -271,15 +274,27 @@ An assassin helps a young woman avenge the death of her family.
   
 
 
-	
-
-  
-
-
 
 ## Opening soon
 
 
+	
+	
+
+### Transformers: The Last Knight
+*Released on 2017-06-21, vote average 5.5*
+
+In the absence of Optimus Prime, a battle for survival has commenced between the human race and the Transformers. Cade Yeager forms an alliance with Bumblebee, an English lord, and an Oxford professor to learn why the Transformers keep coming back to Earth.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/sKyLJI91EM0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
