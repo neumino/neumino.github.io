@@ -47,7 +47,7 @@ Though safely entombed in a crypt deep beneath the unforgiving desert, an ancien
 	
 
 ### Cars 3
-*Released on 2017-06-15, vote average 5.4*
+*Released on 2017-06-15, vote average 6*
 
 Blindsided by a new generation of blazing-fast racers, the legendary Lightning McQueen is suddenly pushed out of the sport he loves. To get back in the game, he will need the help of an eager young race technician with her own plan to win, inspiration from the late Fabulous Hudson Hornet, and a few unexpected turns. Proving that #95 isn&#39;t through yet will test the heart of a champion on Piston Cup Racing’s biggest stage!
 
@@ -90,6 +90,28 @@ Two sisters on Mexican vacation are trapped in a shark observation cage at the b
 	
 	
 
+### Rough Night
+*Released on 2017-06-15, vote average 6.5*
+
+Five best friends from college reunite 10 years later for a wild bachelorette weekend in Miami. Their hard partying takes a hilariously dark turn when they accidentally kill a male stripper. Amidst the craziness of trying to cover it up, they&#39;re ultimately brought closer together when it matters most.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/oIB4jNYeRY4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### All Eyez on Me
 *Released on 2017-06-12, vote average 6.9*
 
@@ -113,7 +135,7 @@ All Eyez on Me chronicles the life and legacy of Tupac Shakur, including his ris
 	
 
 ### It Comes at Night
-*Released on 2017-06-09, vote average 5*
+*Released on 2017-06-09, vote average 4.6*
 
 Secure within a desolate home as an unnatural threat terrorizes the world, a man has established a tenuous domestic order with his wife and son, but this will soon be put to test when a desperate young family arrives seeking refuge.
 
@@ -126,90 +148,6 @@ Secure within a desolate home as an unnatural threat terrorizes the world, a man
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### Rough Night
-*Released on 2017-06-15, vote average 6.5*
-
-Five best friends from college reunite 10 years later for a wild bachelorette weekend in Miami. Their hard partying takes a hilariously dark turn when they accidentally kill a male stripper. Amidst the craziness of trying to cover it up, they&#39;re ultimately brought closer together when it matters most.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/oIB4jNYeRY4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Shimmer Lake
-*Released on 2017-06-09, vote average 6.1*
-
-An inventive crime thriller told backwards -- reversing day by day through a week -- following a local sheriff&#39;s quest to unlock the mystery of three small town criminals and a bank heist gone wrong.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/x8BFWNAg0aI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -255,16 +193,97 @@ An inventive crime thriller told backwards -- reversing day by day through a wee
 	
 	
 
-### The Hunter&#39;s Prayer
-*Released on 2017-06-08, vote average 4.6*
+### Shimmer Lake
+*Released on 2017-06-09, vote average 6.1*
 
-An assassin helps a young woman avenge the death of her family.
+An inventive crime thriller told backwards -- reversing day by day through a week -- following a local sheriff&#39;s quest to unlock the mystery of three small town criminals and a bank heist gone wrong.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/EO2Rnh21oeE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/x8BFWNAg0aI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Megan Leavey
+*Released on 2017-06-09, vote average 7.4*
+
+The true story of Marine Corporal Megan Leavey, who forms a powerful bond with an aggressive combat dog, Rex. While deployed in Iraq, the two complete more than 100 missions and save countless lives, until an IED explosion puts their faithfulness to the test.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ITNgeXVvJT0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Kill&#39;em All
+*Released on 2017-06-06, vote average 5*
+
+After a massive shootout, a mysterious stranger (Van Damme) arrives at a local hospital on the brink of death. Then, a foreign gang brazenly comes to the hospital to hunt him down. His nurse, the sole surviving witness to the follow-up shootout, must face an FBI interrogation that unlocks a plot of international intrigue and revenge. With enough twists and turns, KILL&#39;EM ALL will keep you guessing until the final bullet is fired.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/sCVIclirqo0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
