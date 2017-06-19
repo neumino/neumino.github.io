@@ -90,6 +90,28 @@ Two sisters on Mexican vacation are trapped in a shark observation cage at the b
 	
 	
 
+### All Eyez on Me
+*Released on 2017-06-12, vote average 6.1*
+
+All Eyez on Me chronicles the life and legacy of Tupac Shakur, including his rise to superstardom as a hip-hop artist, actor, poet and activist, as well as his imprisonment and prolific, controversial time at Death Row Records. Against insurmountable odds, Tupac rose to become a cultural icon whose career and persona both continue to grow long after his passing.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pfhJE1ORqas?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Rough Night
 *Released on 2017-06-15, vote average 6.5*
 
@@ -112,30 +134,8 @@ Five best friends from college reunite 10 years later for a wild bachelorette we
 	
 	
 
-### All Eyez on Me
-*Released on 2017-06-12, vote average 6.9*
-
-All Eyez on Me chronicles the life and legacy of Tupac Shakur, including his rise to superstardom as a hip-hop artist, actor, poet and activist, as well as his imprisonment and prolific, controversial time at Death Row Records. Against insurmountable odds, Tupac rose to become a cultural icon whose career and persona both continue to grow long after his passing.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pfhJE1ORqas?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### It Comes at Night
-*Released on 2017-06-09, vote average 4.6*
+*Released on 2017-06-09, vote average 4.8*
 
 Secure within a desolate home as an unnatural threat terrorizes the world, a man has established a tenuous domestic order with his wife and son, but this will soon be put to test when a desperate young family arrives seeking refuge.
 
@@ -148,38 +148,6 @@ Secure within a desolate home as an unnatural threat terrorizes the world, a man
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Rakka
-*Released on 2017-06-14, vote average 7.3*
-
-&#34;Rakka&#34; is the story of broken humanity following the invasion of a technologically superior alien species. Bleak harrowing and unrelenting, the humans we meet must find enough courage to go on fighting.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/VjQ2t_yNHQs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -213,50 +181,40 @@ An inventive crime thriller told backwards -- reversing day by day through a wee
 
 
 	
-
-  
-
-
 	
 
-  
+### Rakka
+*Released on 2017-06-14, vote average 7.3*
 
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Megan Leavey
-*Released on 2017-06-09, vote average 7.4*
-
-The true story of Marine Corporal Megan Leavey, who forms a powerful bond with an aggressive combat dog, Rex. While deployed in Iraq, the two complete more than 100 missions and save countless lives, until an IED explosion puts their faithfulness to the test.
+&#34;Rakka&#34; is the story of broken humanity following the invasion of a technologically superior alien species. Bleak harrowing and unrelenting, the humans we meet must find enough courage to go on fighting.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ITNgeXVvJT0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/VjQ2t_yNHQs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Peechankai
+*Released on 2017-06-16, vote average 6.5*
+
+S. Muthu (aka Smoothu) , who is a pickpocket expert, meets with an accident and after that incident, he starts to suffer from a disease, alien hand syndrome, which means that his left hand wouldn&#39;t be under his control. Now, what problems this syndrome creates and how does it bring about a change in Smuthu&#39;s life?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jmqTRUAS79s?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -272,22 +230,79 @@ The true story of Marine Corporal Megan Leavey, who forms a powerful bond with a
 
 
 	
+
+  
+
+
+	
 	
 
-### Kill&#39;em All
-*Released on 2017-06-06, vote average 5*
+### The Hunter&#39;s Prayer
+*Released on 2017-06-08, vote average 4.6*
 
-After a massive shootout, a mysterious stranger (Van Damme) arrives at a local hospital on the brink of death. Then, a foreign gang brazenly comes to the hospital to hunt him down. His nurse, the sole surviving witness to the follow-up shootout, must face an FBI interrogation that unlocks a plot of international intrigue and revenge. With enough twists and turns, KILL&#39;EM ALL will keep you guessing until the final bullet is fired.
+An assassin helps a young woman avenge the death of her family.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/sCVIclirqo0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/EO2Rnh21oeE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Once Upon a Time in Venice
+*Released on 2017-06-08, vote average 6*
+
+An L.A. detective seeks out the ruthless gang that stole his dog.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/DdmFD81pBWw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -301,7 +316,7 @@ After a massive shootout, a mysterious stranger (Van Damme) arrives at a local h
 	
 
 ### Transformers: The Last Knight
-*Released on 2017-06-21, vote average 5.5*
+*Released on 2017-06-21, vote average 6.1*
 
 In the absence of Optimus Prime, a battle for survival has commenced between the human race and the Transformers. Cade Yeager forms an alliance with Bumblebee, an English lord, and an Oxford professor to learn why the Transformers keep coming back to Earth.
 
@@ -317,7 +332,22 @@ In the absence of Optimus Prime, a battle for survival has commenced between the
 	
 
 	
+	
 
+### The Beguiled
+*Released on 2017-06-23, vote average 3.5*
+
+During the Civil War, at a Southern girls’ boarding school, young women take in an injured enemy soldier. As they provide refuge and tend to his wounds, the house is taken over with sexual tension and dangerous rivalries, and taboos are broken in an unexpected turn of events.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_r_FSRbuZ9Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -334,6 +364,10 @@ In the absence of Optimus Prime, a battle for survival has commenced between the
 
 	
 
+	
+
+	
+	
 	
 
 	
