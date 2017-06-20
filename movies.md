@@ -47,7 +47,7 @@ Though safely entombed in a crypt deep beneath the unforgiving desert, an ancien
 	
 
 ### Cars 3
-*Released on 2017-06-15, vote average 6*
+*Released on 2017-06-15, vote average 5.8*
 
 Blindsided by a new generation of blazing-fast racers, the legendary Lightning McQueen is suddenly pushed out of the sport he loves. To get back in the game, he will need the help of an eager young race technician with her own plan to win, inspiration from the late Fabulous Hudson Hornet, and a few unexpected turns. Proving that #95 isn&#39;t through yet will test the heart of a champion on Piston Cup Racing’s biggest stage!
 
@@ -161,16 +161,16 @@ Secure within a desolate home as an unnatural threat terrorizes the world, a man
 	
 	
 
-### Shimmer Lake
-*Released on 2017-06-09, vote average 6.1*
+### Once Upon a Time in Venice
+*Released on 2017-06-08, vote average 5.9*
 
-An inventive crime thriller told backwards -- reversing day by day through a week -- following a local sheriff&#39;s quest to unlock the mystery of three small town criminals and a bank heist gone wrong.
+A Los Angeles detective seeks out the ruthless gang that stole his dog.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/x8BFWNAg0aI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/DdmFD81pBWw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -193,6 +193,97 @@ An inventive crime thriller told backwards -- reversing day by day through a wee
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/VjQ2t_yNHQs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Kill&#39;em All
+*Released on 2017-06-06, vote average 5*
+
+After a massive shootout, a mysterious stranger (Van Damme) arrives at a local hospital on the brink of death. Then, a foreign gang brazenly comes to the hospital to hunt him down. His nurse, the sole surviving witness to the follow-up shootout, must face an FBI interrogation that unlocks a plot of international intrigue and revenge. With enough twists and turns, KILL&#39;EM ALL will keep you guessing until the final bullet is fired.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/sCVIclirqo0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Shimmer Lake
+*Released on 2017-06-09, vote average 6.1*
+
+An inventive crime thriller told backwards -- reversing day by day through a week -- following a local sheriff&#39;s quest to unlock the mystery of three small town criminals and a bank heist gone wrong.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/x8BFWNAg0aI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Pray for Rain
+*Released on 2017-06-16, vote average 0.5*
+
+When Emma Gardner, a whip smart NYC reporter learns of her father&#39;s untimely death, she returns to her home town to find that the idyllic farming community of her childhood has been ravaged by drought and has become a place tormented by gangs and the ill effects of extreme poverty. She quickly figures out that her dad&#39;s accidental death was not accidental at all. The lists of possible suspects include overly zealous environmentalists, a local war lord and other farmers jealous of her father&#39;s outstanding reputation.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/rXAglboP9no?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -234,80 +325,6 @@ S. Muthu (aka Smoothu) , who is a pickpocket expert, meets with an accident and 
   
 
 
-	
-	
-
-### The Hunter&#39;s Prayer
-*Released on 2017-06-08, vote average 4.6*
-
-An assassin helps a young woman avenge the death of her family.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EO2Rnh21oeE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Once Upon a Time in Venice
-*Released on 2017-06-08, vote average 6*
-
-An L.A. detective seeks out the ruthless gang that stole his dog.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/DdmFD81pBWw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -316,7 +333,7 @@ An L.A. detective seeks out the ruthless gang that stole his dog.
 	
 
 ### Transformers: The Last Knight
-*Released on 2017-06-21, vote average 6.1*
+*Released on 2017-06-21, vote average 5.8*
 
 In the absence of Optimus Prime, a battle for survival has commenced between the human race and the Transformers. Cade Yeager forms an alliance with Bumblebee, an English lord, and an Oxford professor to learn why the Transformers keep coming back to Earth.
 
@@ -329,6 +346,10 @@ In the absence of Optimus Prime, a battle for survival has commenced between the
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
 	
 
 	
@@ -357,17 +378,47 @@ During the Civil War, at a Southern girls’ boarding school, young women take i
 	
 
 	
-
 	
-
-	
-
-	
-
 	
 
 	
 	
+
+### The Bad Batch
+*Released on 2017-06-23, vote average 10*
+
+A love story set in a community of cannibals in a future dystopia. In a desert wasteland in Texas, a muscled cannibal breaks one important rule: don’t play with your food.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/4aJeVSMaf20?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### The Big Sick
+*Released on 2017-06-23, vote average 10*
+
+A couple deals with their cultural differences as their relationship grows.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PJmpSMRQhhs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
 	
 
 	
