@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Transformers: The Last Knight
-*Released on 2017-06-21, vote average 6.3*
+*Released on 2017-06-21, vote average 6*
 
 In the absence of Optimus Prime, a battle for survival has commenced between the human race and the Transformers. Cade Yeager forms an alliance with Bumblebee, an English lord, and an Oxford professor to learn why the Transformers keep coming back to Earth.
 
@@ -112,28 +112,6 @@ Two sisters on Mexican vacation are trapped in a shark observation cage at the b
 	
 	
 
-### Once Upon a Time in Venice
-*Released on 2017-06-08, vote average 6*
-
-A Los Angeles detective seeks out the ruthless gang that stole his dog.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/DdmFD81pBWw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Rough Night
 *Released on 2017-06-15, vote average 4.8*
 
@@ -191,6 +169,77 @@ Secure within a desolate home as an unnatural threat terrorizes the world, a man
 
 
 	
+	
+
+### The Bad Batch
+*Released on 2017-06-23, vote average 10*
+
+A love story set in a community of cannibals in a future dystopia. In a desert wasteland in Texas, a muscled cannibal breaks one important rule: don’t play with your food.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/4aJeVSMaf20?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Beguiled
+*Released on 2017-06-23, vote average 4.2*
+
+During the Civil War, at a Southern girls’ boarding school, young women take in an injured enemy soldier. As they provide refuge and tend to his wounds, the house is taken over with sexual tension and dangerous rivalries, and taboos are broken in an unexpected turn of events.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_r_FSRbuZ9Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Big Sick
+*Released on 2017-06-23, vote average 10*
+
+A couple deals with their cultural differences as their relationship grows.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PJmpSMRQhhs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -218,50 +267,18 @@ T.J. Miller stars in his first HBO comedy special. T.J. Miller: Meticulously Rid
 
 
 	
-
-  
-
-
 	
 
-  
+### Shimmer Lake
+*Released on 2017-06-09, vote average 6.4*
 
-
-	
-	
-
-### Pray for Rain
-*Released on 2017-06-16, vote average 2.8*
-
-When Emma Gardner, a whip smart NYC reporter learns of her father&#39;s untimely death, she returns to her home town to find that the idyllic farming community of her childhood has been ravaged by drought and has become a place tormented by gangs and the ill effects of extreme poverty. She quickly figures out that her dad&#39;s accidental death was not accidental at all. The lists of possible suspects include overly zealous environmentalists, a local war lord and other farmers jealous of her father&#39;s outstanding reputation.
+An inventive crime thriller told backwards -- reversing day by day through a week -- following a local sheriff&#39;s quest to unlock the mystery of three small town criminals and a bank heist gone wrong.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/rXAglboP9no?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### My Cousin Rachel
-*Released on 2017-06-08, vote average 6.5*
-
-A young Englishman plots revenge against his mysterious, beautiful cousin, believing that she murdered his guardian. But his feelings become complicated as he finds himself falling under the beguiling spell of her charms.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8NfQ7o_rCC0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/x8BFWNAg0aI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -286,6 +303,23 @@ A young Englishman plots revenge against his mysterious, beautiful cousin, belie
   
 
 
+	
+	
+
+### Counterpunch
+*Released on 2017-06-16, vote average 8.2*
+
+As boxing&#39;s popularity wanes, three fighters at different stages of their career make sacrifices to pursue their dreams of becoming champions.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/p1Q4cfiho-4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -294,33 +328,6 @@ A young Englishman plots revenge against his mysterious, beautiful cousin, belie
 
 ## Opening soon
 
-
-	
-
-	
-
-	
-	
-
-### The Beguiled
-*Released on 2017-06-23, vote average 4.3*
-
-During the Civil War, at a Southern girls’ boarding school, young women take in an injured enemy soldier. As they provide refuge and tend to his wounds, the house is taken over with sexual tension and dangerous rivalries, and taboos are broken in an unexpected turn of events.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/_r_FSRbuZ9Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
 
 	
 
@@ -339,6 +346,25 @@ A love story set in a community of cannibals in a future dystopia. In a desert w
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/4aJeVSMaf20?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### The Beguiled
+*Released on 2017-06-23, vote average 4.2*
+
+During the Civil War, at a Southern girls’ boarding school, young women take in an injured enemy soldier. As they provide refuge and tend to his wounds, the house is taken over with sexual tension and dangerous rivalries, and taboos are broken in an unexpected turn of events.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_r_FSRbuZ9Y?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -375,7 +401,13 @@ A couple deals with their cultural differences as their relationship grows.
 	
 
 	
+
 	
+
+	
+
+	
+
 	
 
 	
