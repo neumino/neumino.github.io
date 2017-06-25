@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Transformers: The Last Knight
-*Released on 2017-06-21, vote average 5.5*
+*Released on 2017-06-21, vote average 5.7*
 
 In the absence of Optimus Prime, a battle for survival has commenced between the human race and the Transformers. Cade Yeager forms an alliance with Bumblebee, an English lord, and an Oxford professor to learn why the Transformers keep coming back to Earth.
 
@@ -134,6 +134,28 @@ Five best friends from college reunite 10 years later for a wild bachelorette we
 	
 	
 
+### The Bad Batch
+*Released on 2017-06-23, vote average 5.8*
+
+A love story set in a community of cannibals in a future dystopia. In a desert wasteland in Texas, a muscled cannibal breaks one important rule: don’t play with your food.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/4aJeVSMaf20?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Beguiled
 *Released on 2017-06-23, vote average 4.6*
 
@@ -144,60 +166,6 @@ During the Civil War, at a Southern girls’ boarding school, young women take i
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/_r_FSRbuZ9Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Rakka
-*Released on 2017-06-14, vote average 7.3*
-
-&#34;Rakka&#34; is the story of broken humanity following the invasion of a technologically superior alien species. Bleak harrowing and unrelenting, the humans we meet must find enough courage to go on fighting.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/VjQ2t_yNHQs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Bad Batch
-*Released on 2017-06-23, vote average 5.5*
-
-A love story set in a community of cannibals in a future dystopia. In a desert wasteland in Texas, a muscled cannibal breaks one important rule: don’t play with your food.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/4aJeVSMaf20?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -230,6 +198,50 @@ A couple deals with their cultural differences as their relationship grows.
 
 
 	
+	
+
+### Rakka
+*Released on 2017-06-14, vote average 7.3*
+
+&#34;Rakka&#34; is the story of broken humanity following the invasion of a technologically superior alien species. Bleak harrowing and unrelenting, the humans we meet must find enough courage to go on fighting.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/VjQ2t_yNHQs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### You Get Me
+*Released on 2017-06-23, vote average 6*
+
+After arguing with his girlfriend, Ali, Tyler lands in the arms of sexy new girl, Holly. The next morning, he finds that not only does Ali agree to take him back, but Holly is a new student at their school and is dead set on her new man.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IQZuAWcxm2c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -255,7 +267,10 @@ A couple deals with their cultural differences as their relationship grows.
 
 
 	
-	
+
+  
+
+
 	
 
   
@@ -284,7 +299,7 @@ A couple deals with their cultural differences as their relationship grows.
 	
 
 ### Despicable Me 3
-*Released on 2017-06-29, vote average 0.8*
+*Released on 2017-06-29, vote average 2.9*
 
 Gru and his wife Lucy must stop former &#39;80s child star Balthazar Bratt from achieving world domination.
 
@@ -303,9 +318,9 @@ Gru and his wife Lucy must stop former &#39;80s child star Balthazar Bratt from 
 	
 
 ### Baby Driver
-*Released on 2017-06-28, vote average 1.5*
+*Released on 2017-06-28, vote average 4.8*
 
-A talented, young getaway driver Baby  relies on the beat of his personal soundtrack to be the best in the game. When he meets the girl of his dreams, Baby sees a chance to ditch his criminal life and make a clean getaway. But after being coerced into working for a crime boss, he must face the music when a doomed heist threatens his life, love and freedom.
+After being coerced into working for a crime boss, a young getaway driver finds himself taking part in a heist doomed to fail.
 
 <iframe id="player"
 	type="text/html"
