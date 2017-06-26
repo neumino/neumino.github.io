@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Transformers: The Last Knight
-*Released on 2017-06-21, vote average 5.7*
+*Released on 2017-06-21, vote average 5.8*
 
 In the absence of Optimus Prime, a battle for survival has commenced between the human race and the Transformers. Cade Yeager forms an alliance with Bumblebee, an English lord, and an Oxford professor to learn why the Transformers keep coming back to Earth.
 
@@ -154,6 +154,38 @@ A love story set in a community of cannibals in a future dystopia. In a desert w
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### You Get Me
+*Released on 2017-06-23, vote average 5.4*
+
+After arguing with his girlfriend, Ali, Tyler lands in the arms of sexy new girl, Holly. The next morning, he finds that not only does Ali agree to take him back, but Holly is a new student at their school and is dead set on her new man.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IQZuAWcxm2c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 
 ### The Beguiled
@@ -166,6 +198,55 @@ During the Civil War, at a Southern girls’ boarding school, young women take i
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/_r_FSRbuZ9Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Ripped
+*Released on 2017-06-23, vote average 4.3*
+
+Two free-spirited stoners find themselves catapulted into 2016 after smoking some top secret pot created by the CIA in 1986. With 30 years of their lives lost, these now balding and overweight friends use their uncomplicated enthusiasm to get their lives back on track and figure out the modern world.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Ja25yyABTaI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Rakka
+*Released on 2017-06-14, vote average 7.3*
+
+&#34;Rakka&#34; is the story of broken humanity following the invasion of a technologically superior alien species. Bleak harrowing and unrelenting, the humans we meet must find enough courage to go on fighting.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/VjQ2t_yNHQs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -200,67 +281,20 @@ A couple deals with their cultural differences as their relationship grows.
 	
 	
 
-### Rakka
-*Released on 2017-06-14, vote average 7.3*
+### The Book of Henry
+*Released on 2017-06-16, vote average 10*
 
-&#34;Rakka&#34; is the story of broken humanity following the invasion of a technologically superior alien species. Bleak harrowing and unrelenting, the humans we meet must find enough courage to go on fighting.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/VjQ2t_yNHQs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### You Get Me
-*Released on 2017-06-23, vote average 6*
-
-After arguing with his girlfriend, Ali, Tyler lands in the arms of sexy new girl, Holly. The next morning, he finds that not only does Ali agree to take him back, but Holly is a new student at their school and is dead set on her new man.
+A boy named Henry has a crush on Christina, the daughter of an abusive Police Commissioner. To keep her safe Henry comes up with a rescue plan. Henry&#39;s mother, Susan, decides to help him carry out this plan.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/IQZuAWcxm2c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Nd60i3ZnLOE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -338,9 +372,43 @@ After being coerced into working for a crime boss, a young getaway driver finds 
 	
 
 	
+	
+
+### 2:22
+*Released on 2017-06-29, vote average 1*
+
+A man&#39;s life is derailed when an ominous pattern of events repeats itself in exactly the same manner every day, ending at precisely 2:22 p.m.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Af2N3N5rURI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
+	
+	
+
+### Yalghaar
+*Released on 2017-06-26, vote average 4*
+
+Based on a true story, over 76 hours of a successful military operation conducted in the Piochar region of Swat district, Yalghaar goes up close to follow the lives of the young, passionate officers and soldiers whose patriotism is throbbing with every heartbeat for their country (Pakistan).
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-bki50dACgk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
