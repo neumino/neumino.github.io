@@ -68,16 +68,16 @@ Blindsided by a new generation of blazing-fast racers, the legendary Lightning M
 	
 	
 
-### All Eyez on Me
-*Released on 2017-06-12, vote average 5.8*
+### 47 Meters Down
+*Released on 2017-06-15, vote average 4.5*
 
-All Eyez on Me chronicles the life and legacy of Tupac Shakur, including his rise to superstardom as a hip-hop artist, actor, poet and activist, as well as his imprisonment and prolific, controversial time at Death Row Records. Against insurmountable odds, Tupac rose to become a cultural icon whose career and persona both continue to grow long after his passing.
+Two sisters on Mexican vacation are trapped in a shark observation cage at the bottom of the ocean, with oxygen running low and great whites circling nearby, they have less than an hour of air left to figure out how to get to the surface.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/pfhJE1ORqas?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/LBmBcASLdK8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -90,16 +90,16 @@ All Eyez on Me chronicles the life and legacy of Tupac Shakur, including his ris
 	
 	
 
-### 47 Meters Down
-*Released on 2017-06-15, vote average 4.5*
+### The Bad Batch
+*Released on 2017-06-23, vote average 4.5*
 
-Two sisters on Mexican vacation are trapped in a shark observation cage at the bottom of the ocean, with oxygen running low and great whites circling nearby, they have less than an hour of air left to figure out how to get to the surface.
+A love story set in a community of cannibals in a future dystopia. In a desert wasteland in Texas, a muscled cannibal breaks one important rule: don’t play with your food.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/LBmBcASLdK8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/4aJeVSMaf20?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,40 +134,8 @@ Five best friends from college reunite 10 years later for a wild bachelorette we
 	
 	
 
-### The Bad Batch
-*Released on 2017-06-23, vote average 5.8*
-
-A love story set in a community of cannibals in a future dystopia. In a desert wasteland in Texas, a muscled cannibal breaks one important rule: don’t play with your food.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/4aJeVSMaf20?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### You Get Me
-*Released on 2017-06-23, vote average 5.4*
+*Released on 2017-06-23, vote average 5.5*
 
 After arguing with his girlfriend, Ali, Tyler lands in the arms of sexy new girl, Holly. The next morning, he finds that not only does Ali agree to take him back, but Holly is a new student at their school and is dead set on her new man.
 
@@ -208,23 +176,6 @@ During the Civil War, at a Southern girls’ boarding school, young women take i
 
 
 	
-	
-
-### Ripped
-*Released on 2017-06-23, vote average 4.3*
-
-Two free-spirited stoners find themselves catapulted into 2016 after smoking some top secret pot created by the CIA in 1986. With 30 years of their lives lost, these now balding and overweight friends use their uncomplicated enthusiasm to get their lives back on track and figure out the modern world.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Ja25yyABTaI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -258,6 +209,23 @@ Two free-spirited stoners find themselves catapulted into 2016 after smoking som
 
 	
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 
 ### The Big Sick
 *Released on 2017-06-23, vote average 10*
@@ -281,16 +249,16 @@ A couple deals with their cultural differences as their relationship grows.
 	
 	
 
-### The Book of Henry
-*Released on 2017-06-16, vote average 10*
+### Ripped
+*Released on 2017-06-23, vote average 4.3*
 
-A boy named Henry has a crush on Christina, the daughter of an abusive Police Commissioner. To keep her safe Henry comes up with a rescue plan. Henry&#39;s mother, Susan, decides to help him carry out this plan.
+Two free-spirited stoners find themselves catapulted into 2016 after smoking some top secret pot created by the CIA in 1986. With 30 years of their lives lost, these now balding and overweight friends use their uncomplicated enthusiasm to get their lives back on track and figure out the modern world.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Nd60i3ZnLOE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Ja25yyABTaI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -311,10 +279,44 @@ A boy named Henry has a crush on Christina, the daughter of an abusive Police Co
 
 
 	
+	
+
+### No(thing) Staring Back
+*Released on 2017-06-25, vote average 10*
+
+On the Clickity-clack Express it&#39;s clear I&#39;m always under duress, unless I forget.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/R2DsAc2hRCo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
+	
+	
+
+### Firing Flares @ Unnoticed Glares
+*Released on 2017-06-25, vote average 10*
+
+Shadows frighten what one oughtn&#39;t be gripping (that thing before/hind you).
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/iu1fnATNHgM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -333,7 +335,7 @@ A boy named Henry has a crush on Christina, the daughter of an abusive Police Co
 	
 
 ### Despicable Me 3
-*Released on 2017-06-29, vote average 2.9*
+*Released on 2017-06-29, vote average 5.2*
 
 Gru and his wife Lucy must stop former &#39;80s child star Balthazar Bratt from achieving world domination.
 
@@ -368,10 +370,6 @@ After being coerced into working for a crime boss, a young getaway driver finds 
 	
 
 	
-
-	
-
-	
 	
 
 ### 2:22
@@ -393,22 +391,9 @@ A man&#39;s life is derailed when an ominous pattern of events repeats itself in
 	
 
 	
-	
-
-### Yalghaar
-*Released on 2017-06-26, vote average 4*
-
-Based on a true story, over 76 hours of a successful military operation conducted in the Piochar region of Swat district, Yalghaar goes up close to follow the lives of the young, passionate officers and soldiers whose patriotism is throbbing with every heartbeat for their country (Pakistan).
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-bki50dACgk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
 	
 
 	
