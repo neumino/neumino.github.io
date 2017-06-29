@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Transformers: The Last Knight
-*Released on 2017-06-21, vote average 5.9*
+*Released on 2017-06-21, vote average 6.1*
 
 In the absence of Optimus Prime, a battle for survival has commenced between the human race and the Transformers. Cade Yeager forms an alliance with Bumblebee, an English lord, and an Oxford professor to learn why the Transformers keep coming back to Earth.
 
@@ -47,7 +47,7 @@ In the absence of Optimus Prime, a battle for survival has commenced between the
 	
 
 ### Cars 3
-*Released on 2017-06-15, vote average 6*
+*Released on 2017-06-15, vote average 6.3*
 
 Blindsided by a new generation of blazing-fast racers, the legendary Lightning McQueen is suddenly pushed out of the sport he loves. To get back in the game, he will need the help of an eager young race technician with her own plan to win, inspiration from the late Fabulous Hudson Hornet, and a few unexpected turns. Proving that #95 isn&#39;t through yet will test the heart of a champion on Piston Cup Racing’s biggest stage!
 
@@ -68,8 +68,30 @@ Blindsided by a new generation of blazing-fast racers, the legendary Lightning M
 	
 	
 
+### Despicable Me 3
+*Released on 2017-06-29, vote average 5.2*
+
+Gru and his wife Lucy must stop former &#39;80s child star Balthazar Bratt from achieving world domination.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6DBi41reeF0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Baby Driver
-*Released on 2017-06-28, vote average 4.8*
+*Released on 2017-06-28, vote average 5.9*
 
 After being coerced into working for a crime boss, a young getaway driver finds himself taking part in a heist doomed to fail.
 
@@ -90,30 +112,8 @@ After being coerced into working for a crime boss, a young getaway driver finds 
 	
 	
 
-### 47 Meters Down
-*Released on 2017-06-15, vote average 4.5*
-
-Two sisters on Mexican vacation are trapped in a shark observation cage at the bottom of the ocean, with oxygen running low and great whites circling nearby, they have less than an hour of air left to figure out how to get to the surface.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LBmBcASLdK8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Bad Batch
-*Released on 2017-06-23, vote average 4.6*
+*Released on 2017-06-23, vote average 4.3*
 
 A love story set in a community of cannibals in a future dystopia. In a desert wasteland in Texas, a muscled cannibal breaks one important rule: don’t play with your food.
 
@@ -154,16 +154,21 @@ After arguing with his girlfriend, Ali, Tyler lands in the arms of sexy new girl
 
 
 	
-
-  
-
-
 	
 
-  
+### 47 Meters Down
+*Released on 2017-06-15, vote average 4.6*
 
+Two sisters on Mexican vacation are trapped in a shark observation cage at the bottom of the ocean, with oxygen running low and great whites circling nearby, they have less than an hour of air left to figure out how to get to the surface.
 
-	
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LBmBcASLdK8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -187,6 +192,92 @@ Five best friends from college reunite 10 years later for a wild bachelorette we
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Beguiled
+*Released on 2017-06-23, vote average 4.6*
+
+During the Civil War, at a Southern girls’ boarding school, young women take in an injured enemy soldier. As they provide refuge and tend to his wounds, the house is taken over with sexual tension and dangerous rivalries, and taboos are broken in an unexpected turn of events.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_r_FSRbuZ9Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### 2:22
+*Released on 2017-06-29, vote average 1*
+
+A man&#39;s life is derailed when an ominous pattern of events repeats itself in exactly the same manner every day, ending at precisely 2:22 p.m.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Af2N3N5rURI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Big Sick
+*Released on 2017-06-23, vote average 10*
+
+A couple deals with their cultural differences as their relationship grows.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PJmpSMRQhhs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -221,20 +312,12 @@ Music video for the song &#34;Slowed Down&#34; by Candle-Lit Scene
 
 	
 	
+	
 
-### The Beguiled
-*Released on 2017-06-23, vote average 4.3*
+  
 
-During the Civil War, at a Southern girls’ boarding school, young women take in an injured enemy soldier. As they provide refuge and tend to his wounds, the house is taken over with sexual tension and dangerous rivalries, and taboos are broken in an unexpected turn of events.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/_r_FSRbuZ9Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
+	
 	
 	
 
@@ -263,87 +346,6 @@ Two free-spirited stoners find themselves catapulted into 2016 after smoking som
   
 
 
-	
-	
-
-### Rakka
-*Released on 2017-06-14, vote average 7.5*
-
-&#34;Rakka&#34; is the story of broken humanity following the invasion of a technologically superior alien species. Bleak harrowing and unrelenting, the humans we meet must find enough courage to go on fighting.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/VjQ2t_yNHQs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Big Sick
-*Released on 2017-06-23, vote average 10*
-
-A couple deals with their cultural differences as their relationship grows.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/PJmpSMRQhhs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Yalghaar
-*Released on 2017-06-26, vote average 4*
-
-Based on a true story, over 76 hours of a successful military operation conducted in the Piochar region of Swat district, Yalghaar goes up close to follow the lives of the young, passionate officers and soldiers whose patriotism is throbbing with every heartbeat for their country (Pakistan).
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-bki50dACgk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -352,7 +354,7 @@ Based on a true story, over 76 hours of a successful military operation conducte
 	
 
 ### Despicable Me 3
-*Released on 2017-06-29, vote average 5.5*
+*Released on 2017-06-29, vote average 5.2*
 
 Gru and his wife Lucy must stop former &#39;80s child star Balthazar Bratt from achieving world domination.
 
@@ -361,25 +363,6 @@ Gru and his wife Lucy must stop former &#39;80s child star Balthazar Bratt from 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/6DBi41reeF0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Baby Driver
-*Released on 2017-06-28, vote average 4.8*
-
-After being coerced into working for a crime boss, a young getaway driver finds himself taking part in a heist doomed to fail.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/z2z857RSfhk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -405,6 +388,8 @@ A man&#39;s life is derailed when an ominous pattern of events repeats itself in
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
