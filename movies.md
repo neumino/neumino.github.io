@@ -13,9 +13,9 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Transformers: The Last Knight
-*Released on 2017-06-21, vote average 6.1*
+*Released on 2017-06-21, vote average 6.2*
 
-In the absence of Optimus Prime, a battle for survival has commenced between the human race and the Transformers. Cade Yeager forms an alliance with Bumblebee, an English lord, and an Oxford professor to learn why the Transformers keep coming back to Earth.
+In the DANOVIC GHAHAHAH OMG NASHDHASDASDASDance with Bumblebee, an English lord, and an Oxford professor to learn why the Transformers keep coming back to Earth.
 
 <iframe id="player"
 	type="text/html"
@@ -46,28 +46,6 @@ In the absence of Optimus Prime, a battle for survival has commenced between the
 	
 	
 
-### Cars 3
-*Released on 2017-06-15, vote average 6.3*
-
-Blindsided by a new generation of blazing-fast racers, the legendary Lightning McQueen is suddenly pushed out of the sport he loves. To get back in the game, he will need the help of an eager young race technician with her own plan to win, inspiration from the late Fabulous Hudson Hornet, and a few unexpected turns. Proving that #95 isn&#39;t through yet will test the heart of a champion on Piston Cup Racing’s biggest stage!
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/U1eQYk74R1g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Despicable Me 3
 *Released on 2017-06-29, vote average 5.2*
 
@@ -91,7 +69,7 @@ Gru and his wife Lucy must stop former &#39;80s child star Balthazar Bratt from 
 	
 
 ### Baby Driver
-*Released on 2017-06-28, vote average 5.9*
+*Released on 2017-06-28, vote average 6.2*
 
 After being coerced into working for a crime boss, a young getaway driver finds himself taking part in a heist doomed to fail.
 
@@ -112,30 +90,8 @@ After being coerced into working for a crime boss, a young getaway driver finds 
 	
 	
 
-### The Bad Batch
-*Released on 2017-06-23, vote average 4.3*
-
-A love story set in a community of cannibals in a future dystopia. In a desert wasteland in Texas, a muscled cannibal breaks one important rule: don’t play with your food.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/4aJeVSMaf20?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### You Get Me
-*Released on 2017-06-23, vote average 5.5*
+*Released on 2017-06-23, vote average 5.6*
 
 After arguing with his girlfriend, Ali, Tyler lands in the arms of sexy new girl, Holly. The next morning, he finds that not only does Ali agree to take him back, but Holly is a new student at their school and is dead set on her new man.
 
@@ -156,16 +112,16 @@ After arguing with his girlfriend, Ali, Tyler lands in the arms of sexy new girl
 	
 	
 
-### 47 Meters Down
-*Released on 2017-06-15, vote average 4.6*
+### The Bad Batch
+*Released on 2017-06-23, vote average 4.5*
 
-Two sisters on Mexican vacation are trapped in a shark observation cage at the bottom of the ocean, with oxygen running low and great whites circling nearby, they have less than an hour of air left to figure out how to get to the surface.
+A love story set in a community of cannibals in a future dystopia. In a desert wasteland in Texas, a muscled cannibal breaks one important rule: don’t play with your food.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/LBmBcASLdK8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/4aJeVSMaf20?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -176,18 +132,23 @@ Two sisters on Mexican vacation are trapped in a shark observation cage at the b
 
 
 	
+
+  
+
+
+	
 	
 
-### Rough Night
-*Released on 2017-06-15, vote average 5.2*
+### 2:22
+*Released on 2017-06-29, vote average 1*
 
-Five best friends from college reunite 10 years later for a wild bachelorette weekend in Miami. Their hard partying takes a hilariously dark turn when they accidentally kill a male stripper. Amidst the craziness of trying to cover it up, they&#39;re ultimately brought closer together when it matters most.
+A man&#39;s life is derailed when an ominous pattern of events repeats itself in exactly the same manner every day, ending at precisely 2:22 p.m.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/oIB4jNYeRY4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Af2N3N5rURI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -232,16 +193,16 @@ During the Civil War, at a Southern girls’ boarding school, young women take i
 	
 	
 
-### 2:22
-*Released on 2017-06-29, vote average 1*
+### By Any Means
+*Released on 2017-06-27, vote average 6*
 
-A man&#39;s life is derailed when an ominous pattern of events repeats itself in exactly the same manner every day, ending at precisely 2:22 p.m.
+A C-list celebrity gets kidnapped and held hostage after a night-club appearance. When the police interrogate the man she accuses, they question whether she&#39;s after justice or a front-page story.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Af2N3N5rURI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/9VXsEMkYXVo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -257,23 +218,6 @@ A man&#39;s life is derailed when an ominous pattern of events repeats itself in
 
 
 	
-	
-
-### The Big Sick
-*Released on 2017-06-23, vote average 10*
-
-A couple deals with their cultural differences as their relationship grows.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/PJmpSMRQhhs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -283,23 +227,6 @@ A couple deals with their cultural differences as their relationship grows.
   
 
 
-	
-	
-
-### Slowed Down
-*Released on 2017-06-27, vote average 7*
-
-Music video for the song &#34;Slowed Down&#34; by Candle-Lit Scene
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Vgt3tYdwy44?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -318,29 +245,15 @@ Music video for the song &#34;Slowed Down&#34; by Candle-Lit Scene
 
 
 	
-	
-	
 
   
 
 
 	
-	
 
-### Ripped
-*Released on 2017-06-23, vote average 4.3*
+  
 
-Two free-spirited stoners find themselves catapulted into 2016 after smoking some top secret pot created by the CIA in 1986. With 30 years of their lives lost, these now balding and overweight friends use their uncomplicated enthusiasm to get their lives back on track and figure out the modern world.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Ja25yyABTaI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -353,37 +266,16 @@ Two free-spirited stoners find themselves catapulted into 2016 after smoking som
 	
 	
 
-### Despicable Me 3
-*Released on 2017-06-29, vote average 5.2*
+### Spider-Man: Homecoming
+*Released on 2017-07-06, vote average 10*
 
-Gru and his wife Lucy must stop former &#39;80s child star Balthazar Bratt from achieving world domination.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/6DBi41reeF0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-	
-
-### 2:22
-*Released on 2017-06-29, vote average 1*
-
-A man&#39;s life is derailed when an ominous pattern of events repeats itself in exactly the same manner every day, ending at precisely 2:22 p.m.
+Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Af2N3N5rURI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/lCkVr1n1eCA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -398,6 +290,27 @@ A man&#39;s life is derailed when an ominous pattern of events repeats itself in
 
 	
 
+	
+
+	
+
+	
+	
+
+### Fatal Countdown: Reset
+*Released on 2017-06-30, vote average 7*
+
+When her son is kidnapped, the inventor of a time machine teams up with multiple versions of herself to rescue him.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mWstNJUsh4E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
