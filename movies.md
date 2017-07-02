@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Transformers: The Last Knight
-*Released on 2017-06-21, vote average 6.1*
+*Released on 2017-06-21, vote average 6.2*
 
 Autobots and Decepticons are at war, with humans on the sidelines. Optimus Prime is gone. The key to saving our future lies buried in the secrets of the past, in the hidden history of Transformers on Earth.
 
@@ -90,6 +90,50 @@ After being coerced into working for a crime boss, a young getaway driver finds 
 	
 	
 
+### 2:22
+*Released on 2017-06-29, vote average 4*
+
+A man&#39;s life is derailed when an ominous pattern of events repeats itself in exactly the same manner every day, ending at precisely 2:22 p.m.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Af2N3N5rURI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The House
+*Released on 2017-06-29, vote average 10*
+
+A dad convinces his friends to start an illegal casino in his basement after he and his wife spend their daughter&#39;s college fund.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/tlhPYN3gXog?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Bad Batch
 *Released on 2017-06-23, vote average 4.7*
 
@@ -132,18 +176,28 @@ After arguing with his girlfriend, Ali, Tyler lands in the arms of sexy new girl
 
 
 	
+
+  
+
+
 	
 
-### The House
-*Released on 2017-06-29, vote average 10*
+  
 
-A dad convinces his friends to start an illegal casino in his basement after he and his wife spend their daughter&#39;s college fund.
+
+	
+	
+
+### The Beguiled
+*Released on 2017-06-23, vote average 4.2*
+
+During the Civil War, at a Southern girls’ boarding school, young women take in an injured enemy soldier. As they provide refuge and tend to his wounds, the house is taken over with sexual tension and dangerous rivalries, and taboos are broken in an unexpected turn of events.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/tlhPYN3gXog?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/_r_FSRbuZ9Y?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -156,16 +210,16 @@ A dad convinces his friends to start an illegal casino in his basement after he 
 	
 	
 
-### 2:22
-*Released on 2017-06-29, vote average 3*
+### Inconceivable
+*Released on 2017-06-30, vote average 7*
 
-A man&#39;s life is derailed when an ominous pattern of events repeats itself in exactly the same manner every day, ending at precisely 2:22 p.m.
+A mother looks to escape her abusive past by moving to a new town where she befriends another mother, who grows suspicious of her.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Af2N3N5rURI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/vse9mg7AnGM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -181,10 +235,7 @@ A man&#39;s life is derailed when an ominous pattern of events repeats itself in
 
 
 	
-
-  
-
-
+	
 	
 
   
@@ -223,66 +274,32 @@ A couple deals with their cultural differences as their relationship grows.
 
 
 	
+
+  
+
+
 	
 
-### By Any Means
-*Released on 2017-06-27, vote average 6*
+  
 
-A C-list celebrity gets kidnapped and held hostage after a night-club appearance. When the police interrogate the man she accuses, they question whether she&#39;s after justice or a front-page story.
+
+	
+	
+
+### Fatal Countdown: Reset
+*Released on 2017-06-30, vote average 7*
+
+When her son is kidnapped, the inventor of a time machine teams up with multiple versions of herself to rescue him.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/9VXsEMkYXVo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/mWstNJUsh4E?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### The Beguiled
-*Released on 2017-06-23, vote average 4.6*
-
-During the Civil War, at a Southern girls’ boarding school, young women take in an injured enemy soldier. As they provide refuge and tend to his wounds, the house is taken over with sexual tension and dangerous rivalries, and taboos are broken in an unexpected turn of events.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/_r_FSRbuZ9Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -301,7 +318,7 @@ During the Civil War, at a Southern girls’ boarding school, young women take i
 	
 
 ### Spider-Man: Homecoming
-*Released on 2017-07-06, vote average 7.4*
+*Released on 2017-07-05, vote average 7.3*
 
 Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.
 
@@ -346,6 +363,23 @@ Following the events of Captain America: Civil War, Peter Parker, with the help 
 
 	
 
+	
+	
+
+### Tommy&#39;s Honour
+*Released on 2017-07-07, vote average 10*
+
+In every generation, a torch passes from father to son. And that timeless dynamic is the beating heart of Tommy&#39;s Honor - an intimate, powerfully moving tale of the real-life founders of the modern game of golf.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/UgdRDee1Ssw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
