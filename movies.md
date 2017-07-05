@@ -47,7 +47,7 @@ Autobots and Decepticons are at war, with humans on the sidelines. Optimus Prime
 	
 
 ### Despicable Me 3
-*Released on 2017-06-29, vote average 5.6*
+*Released on 2017-06-29, vote average 5.8*
 
 Gru and his wife Lucy must stop former &#39;80s child star Balthazar Bratt from achieving world domination.
 
@@ -56,6 +56,28 @@ Gru and his wife Lucy must stop former &#39;80s child star Balthazar Bratt from 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/6DBi41reeF0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Spider-Man: Homecoming
+*Released on 2017-07-05, vote average 6.2*
+
+Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/lCkVr1n1eCA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,16 +134,38 @@ A man&#39;s life is derailed when an ominous pattern of events repeats itself in
 	
 	
 
-### The House
-*Released on 2017-06-29, vote average 5.7*
+### Inconceivable
+*Released on 2017-06-30, vote average 7.3*
 
-A dad convinces his friends to start an illegal casino in his basement after he and his wife spend their daughter&#39;s college fund.
+A mother looks to escape her abusive past by moving to a new town where she befriends another mother, who grows suspicious of her.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/tlhPYN3gXog?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/vse9mg7AnGM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Beguiled
+*Released on 2017-06-23, vote average 6*
+
+During the Civil War, at a Southern girls’ boarding school, young women take in an injured enemy soldier. As they provide refuge and tend to his wounds, the house is taken over with sexual tension and dangerous rivalries, and taboos are broken in an unexpected turn of events.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_r_FSRbuZ9Y?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -156,16 +200,16 @@ After arguing with his girlfriend, Ali, Tyler lands in the arms of sexy new girl
 	
 	
 
-### Inconceivable
-*Released on 2017-06-30, vote average 7.3*
+### The House
+*Released on 2017-06-29, vote average 5.7*
 
-A mother looks to escape her abusive past by moving to a new town where she befriends another mother, who grows suspicious of her.
+A dad convinces his friends to start an illegal casino in his basement after he and his wife spend their daughter&#39;s college fund.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/vse9mg7AnGM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/tlhPYN3gXog?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -176,10 +220,15 @@ A mother looks to escape her abusive past by moving to a new town where she befr
 
 
 	
+
+  
+
+
+	
 	
 
 ### The Bad Batch
-*Released on 2017-06-23, vote average 4.7*
+*Released on 2017-06-23, vote average 5.1*
 
 A love story set in a community of cannibals in a future dystopia. In a desert wasteland in Texas, a muscled cannibal breaks one important rule: don’t play with your food.
 
@@ -203,34 +252,10 @@ A love story set in a community of cannibals in a future dystopia. In a desert w
 
 
 	
-	
-
-### The Beguiled
-*Released on 2017-06-23, vote average 5.3*
-
-During the Civil War, at a Southern girls’ boarding school, young women take in an injured enemy soldier. As they provide refuge and tend to his wounds, the house is taken over with sexual tension and dangerous rivalries, and taboos are broken in an unexpected turn of events.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/_r_FSRbuZ9Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -269,15 +294,22 @@ A couple deals with their cultural differences as their relationship grows.
 
 
 	
-
-  
-
-
 	
 
-  
+### Overdrive
+*Released on 2017-06-29, vote average 8*
 
+Master car thieves square off against French gangsters in the South of France with money, women and lives all on the line.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/NyQUe80IXt8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -301,7 +333,7 @@ A couple deals with their cultural differences as their relationship grows.
 	
 
 ### Spider-Man: Homecoming
-*Released on 2017-07-05, vote average 6.3*
+*Released on 2017-07-05, vote average 6.2*
 
 Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.
 
@@ -335,6 +367,14 @@ Following the events of Captain America: Civil War, Peter Parker, with the help 
 	
 
 	
+	
+	
+
+	
+
+	
+	
+	
 
 	
 
@@ -361,12 +401,6 @@ In every generation, a torch passes from father to son. And that timeless dynami
 
 	
 
-	
-
-	
-
-	
-	
 	
 
 	
