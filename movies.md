@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Despicable Me 3
-*Released on 2017-06-29, vote average 6*
+*Released on 2017-06-29, vote average 5.9*
 
 Gru and his wife Lucy must stop former &#39;80s child star Balthazar Bratt from achieving world domination.
 
@@ -47,7 +47,7 @@ Gru and his wife Lucy must stop former &#39;80s child star Balthazar Bratt from 
 	
 
 ### Spider-Man: Homecoming
-*Released on 2017-07-05, vote average 6*
+*Released on 2017-07-05, vote average 7.1*
 
 Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.
 
@@ -91,7 +91,7 @@ After being coerced into working for a crime boss, a young getaway driver finds 
 	
 
 ### 2:22
-*Released on 2017-06-29, vote average 5.9*
+*Released on 2017-06-29, vote average 4.9*
 
 A man&#39;s life is derailed when an ominous pattern of events repeats itself in exactly the same manner every day, ending at precisely 2:22 p.m.
 
@@ -100,94 +100,6 @@ A man&#39;s life is derailed when an ominous pattern of events repeats itself in
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/Af2N3N5rURI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### You Get Me
-*Released on 2017-06-23, vote average 5.6*
-
-After arguing with his girlfriend, Ali, Tyler lands in the arms of sexy new girl, Holly. The next morning, he finds that not only does Ali agree to take him back, but Holly is a new student at their school and is dead set on her new man.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IQZuAWcxm2c?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Inconceivable
-*Released on 2017-06-30, vote average 6.8*
-
-A mother looks to escape her abusive past by moving to a new town where she befriends another mother, who grows suspicious of her.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vse9mg7AnGM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Beguiled
-*Released on 2017-06-23, vote average 6*
-
-During the Civil War, at a Southern girls’ boarding school, young women take in an injured enemy soldier. As they provide refuge and tend to his wounds, the house is taken over with sexual tension and dangerous rivalries, and taboos are broken in an unexpected turn of events.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/_r_FSRbuZ9Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Bad Batch
-*Released on 2017-06-23, vote average 5.1*
-
-A love story set in a community of cannibals in a future dystopia. In a desert wasteland in Texas, a muscled cannibal breaks one important rule: don’t play with your food.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/4aJeVSMaf20?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -220,6 +132,57 @@ A dad convinces his friends to start an illegal casino in his basement after he 
 
 
 	
+	
+
+### Inconceivable
+*Released on 2017-06-30, vote average 6.8*
+
+A mother looks to escape her abusive past by moving to a new town where she befriends another mother, who grows suspicious of her.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vse9mg7AnGM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Austin Found
+*Released on 2017-07-07, vote average 6*
+
+A woman who is fed up with her mundane lifestyle hatches a scheme to make her family instant celebrities by having her ex-boyfriend kidnap her 11-year-old daughter for a month.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PFx-BpbRDTk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
 
   
 
@@ -247,53 +210,18 @@ Nearly murdered as a child by her mother, a woman (Katrina Law) returns to the h
 
 
 	
-
-  
-
-
 	
 
-  
+### Tommy&#39;s Honour
+*Released on 2017-07-07, vote average 10*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Overdrive
-*Released on 2017-06-29, vote average 8*
-
-Master car thieves square off against French gangsters in the South of France with money, women and lives all on the line.
+In every generation, a torch passes from father to son. And that timeless dynamic is the beating heart of Tommy&#39;s Honor - an intimate, powerfully moving tale of the real-life founders of the modern game of golf.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/NyQUe80IXt8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/UgdRDee1Ssw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -304,22 +232,47 @@ Master car thieves square off against French gangsters in the South of France wi
 
 
 	
-	
 
-### The Big Sick
-*Released on 2017-06-23, vote average 7.7*
+  
 
-A couple deals with their cultural differences as their relationship grows.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/PJmpSMRQhhs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -360,23 +313,6 @@ Caesar and his apes are forced into a deadly conflict with an army of humans led
 
 	
 
-	
-	
-
-### Tommy&#39;s Honour
-*Released on 2017-07-07, vote average 10*
-
-In every generation, a torch passes from father to son. And that timeless dynamic is the beating heart of Tommy&#39;s Honor - an intimate, powerfully moving tale of the real-life founders of the modern game of golf.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/UgdRDee1Ssw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
