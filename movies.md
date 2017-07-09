@@ -69,7 +69,7 @@ Following the events of Captain America: Civil War, Peter Parker, with the help 
 	
 
 ### Baby Driver
-*Released on 2017-06-28, vote average 6.8*
+*Released on 2017-06-28, vote average 6.6*
 
 After being coerced into working for a crime boss, a young getaway driver finds himself taking part in a heist doomed to fail.
 
@@ -134,6 +134,38 @@ A dad convinces his friends to start an illegal casino in his basement after he 
 	
 	
 
+### Austin Found
+*Released on 2017-07-07, vote average 6*
+
+A woman who is fed up with her mundane lifestyle hatches a scheme to make her family instant celebrities by having her ex-boyfriend kidnap her 11-year-old daughter for a month.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PFx-BpbRDTk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### Inconceivable
 *Released on 2017-06-30, vote average 6.8*
 
@@ -159,51 +191,10 @@ A mother looks to escape her abusive past by moving to a new town where she befr
 
 
 	
-	
-
-### Austin Found
-*Released on 2017-07-07, vote average 6*
-
-A woman who is fed up with her mundane lifestyle hatches a scheme to make her family instant celebrities by having her ex-boyfriend kidnap her 11-year-old daughter for a month.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/PFx-BpbRDTk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Darkness Rising
-*Released on 2017-06-30, vote average 6*
-
-Nearly murdered as a child by her mother, a woman (Katrina Law) returns to the house where her mom went mad.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tjlivAICrTc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -232,10 +223,14 @@ In every generation, a torch passes from father to son. And that timeless dynami
 
 
 	
+	
+	
 
   
 
 
+	
+	
 	
 
   
@@ -257,16 +252,21 @@ In every generation, a torch passes from father to son. And that timeless dynami
 
 
 	
-
-  
-
-
 	
 
-  
+### Red Bikini
+*Released on 2017-07-06, vote average 10*
 
+A couples&#39; trip to Pattaya turns into hell when each others&#39; secrets come out into the open!  Soo-jeong and Tae-hyeon decide to go abroad with Sang-jin and Ji-hyeon to celebrate Ji-hyeon&#39;s birthday. However, Ji-hyeon can&#39;t make it last minute and the three set off.  However the local tour guide tricks them into losing everything they&#39;ve got. Then they meet Lizzie, who Sang-jin falls for right away. They cross the line and Soo-jeong who secretly had a crush on Sang-jin, films them quietly. She then threatens Sang-jin to tell Ji-hyeon with the video of their affair and demands he takes her in. Tae-hyeon finds out about everything and the dreamy vacation turns into hell...
 
-	
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/cZjCdZKo74c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -286,7 +286,7 @@ In every generation, a torch passes from father to son. And that timeless dynami
 	
 
 ### War for the Planet of the Apes
-*Released on 2017-07-13, vote average 8.5*
+*Released on 2017-07-13, vote average 6.4*
 
 Caesar and his apes are forced into a deadly conflict with an army of humans led by a ruthless Colonel. After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind. As the journey finally brings them face to face, Caesar and the Colonel are pitted against each other in an epic battle that will determine the fate of both their species and the future of the planet.
 
