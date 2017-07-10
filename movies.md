@@ -47,7 +47,7 @@ Gru and his wife Lucy must stop former &#39;80s child star Balthazar Bratt from 
 	
 
 ### Spider-Man: Homecoming
-*Released on 2017-07-05, vote average 7.1*
+*Released on 2017-07-05, vote average 7.4*
 
 Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.
 
@@ -69,7 +69,7 @@ Following the events of Captain America: Civil War, Peter Parker, with the help 
 	
 
 ### Baby Driver
-*Released on 2017-06-28, vote average 6.6*
+*Released on 2017-06-28, vote average 6.5*
 
 After being coerced into working for a crime boss, a young getaway driver finds himself taking part in a heist doomed to fail.
 
@@ -159,11 +159,6 @@ A woman who is fed up with her mundane lifestyle hatches a scheme to make her fa
 
 
 	
-
-  
-
-
-	
 	
 
 ### Inconceivable
@@ -176,6 +171,50 @@ A mother looks to escape her abusive past by moving to a new town where she befr
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/vse9mg7AnGM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Hickok
+*Released on 2017-07-07, vote average 5.3*
+
+Legendary Lawman and Gunslinger Wild Bill Hickok, is tasked with taming the wildest cow-town in the West, wile delivering his own brand of frontier Justice and infamous gunfighter&#39;s reputation as the fastest draw in the West is put to the test
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZJVcI6tw5jo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Red Bikini
+*Released on 2017-07-06, vote average 10*
+
+A couples&#39; trip to Pattaya turns into hell when each others&#39; secrets come out into the open!  Soo-jeong and Tae-hyeon decide to go abroad with Sang-jin and Ji-hyeon to celebrate Ji-hyeon&#39;s birthday. However, Ji-hyeon can&#39;t make it last minute and the three set off.  However the local tour guide tricks them into losing everything they&#39;ve got. Then they meet Lizzie, who Sang-jin falls for right away. They cross the line and Soo-jeong who secretly had a crush on Sang-jin, films them quietly. She then threatens Sang-jin to tell Ji-hyeon with the video of their affair and demands he takes her in. Tae-hyeon finds out about everything and the dreamy vacation turns into hell...
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/cZjCdZKo74c?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -223,30 +262,6 @@ In every generation, a torch passes from father to son. And that timeless dynami
 
 
 	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 
   
 
@@ -254,16 +269,16 @@ In every generation, a torch passes from father to son. And that timeless dynami
 	
 	
 
-### Red Bikini
-*Released on 2017-07-06, vote average 10*
+### Darkness Rising
+*Released on 2017-06-30, vote average 6*
 
-A couples&#39; trip to Pattaya turns into hell when each others&#39; secrets come out into the open!  Soo-jeong and Tae-hyeon decide to go abroad with Sang-jin and Ji-hyeon to celebrate Ji-hyeon&#39;s birthday. However, Ji-hyeon can&#39;t make it last minute and the three set off.  However the local tour guide tricks them into losing everything they&#39;ve got. Then they meet Lizzie, who Sang-jin falls for right away. They cross the line and Soo-jeong who secretly had a crush on Sang-jin, films them quietly. She then threatens Sang-jin to tell Ji-hyeon with the video of their affair and demands he takes her in. Tae-hyeon finds out about everything and the dreamy vacation turns into hell...
+Nearly murdered as a child by her mother, a woman (Katrina Law) returns to the house where her mom went mad.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/cZjCdZKo74c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/tjlivAICrTc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -273,6 +288,25 @@ A couples&#39; trip to Pattaya turns into hell when each others&#39; secrets com
   
 
 
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -305,6 +339,23 @@ Caesar and his apes are forced into a deadly conflict with an army of humans led
 
 	
 
+	
+	
+
+### Wu Kong
+*Released on 2017-07-13, vote average 10*
+
+The story tells the story of Sun Wukong (Eddie Peng) and Erlang Shen (Shawn Yue), who comes to the Immortal Mountain to cultivate their skills. They gained friendship, experienced love and ultimately betrayal, growing throughout their life journey.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EpFQaYv8MV4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
