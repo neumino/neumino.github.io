@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Despicable Me 3
-*Released on 2017-06-29, vote average 5.9*
+*Released on 2017-06-29, vote average 6*
 
 Gru and his wife Lucy must stop former &#39;80s child star Balthazar Bratt from achieving world domination.
 
@@ -69,7 +69,7 @@ Following the events of Captain America: Civil War, Peter Parker, with the help 
 	
 
 ### Baby Driver
-*Released on 2017-06-28, vote average 6.5*
+*Released on 2017-06-28, vote average 6.6*
 
 After being coerced into working for a crime boss, a young getaway driver finds himself taking part in a heist doomed to fail.
 
@@ -132,6 +132,11 @@ A dad convinces his friends to start an illegal casino in his basement after he 
 
 
 	
+
+  
+
+
+	
 	
 
 ### Austin Found
@@ -148,6 +153,55 @@ A woman who is fed up with her mundane lifestyle hatches a scheme to make her fa
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Hickok
+*Released on 2017-07-07, vote average 5.3*
+
+Legendary Lawman and Gunslinger Wild Bill Hickok, is tasked with taming the wildest cow-town in the West, wile delivering his own brand of frontier Justice and infamous gunfighter&#39;s reputation as the fastest draw in the West is put to the test
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZJVcI6tw5jo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Media Studies
+*Released on 2017-07-10, vote average 8*
+
+Three students embark on their end of year Media Studies project unaware of the horrific and unspeakable fate that awaits them. What starts as a seemingly simple mystery soon turns into a claustrophobic and hellish nightmare.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/XGXuSa93lwg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -183,28 +237,6 @@ A mother looks to escape her abusive past by moving to a new town where she befr
 	
 	
 
-### Hickok
-*Released on 2017-07-07, vote average 5.3*
-
-Legendary Lawman and Gunslinger Wild Bill Hickok, is tasked with taming the wildest cow-town in the West, wile delivering his own brand of frontier Justice and infamous gunfighter&#39;s reputation as the fastest draw in the West is put to the test
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZJVcI6tw5jo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Red Bikini
 *Released on 2017-07-06, vote average 10*
 
@@ -225,15 +257,7 @@ A couples&#39; trip to Pattaya turns into hell when each others&#39; secrets com
 
 
 	
-
-  
-
-
 	
-
-  
-
-
 	
 
   
@@ -242,16 +266,16 @@ A couples&#39; trip to Pattaya turns into hell when each others&#39; secrets com
 	
 	
 
-### Tommy&#39;s Honour
-*Released on 2017-07-07, vote average 10*
+### Guest iin London
+*Released on 2017-07-07, vote average 7.3*
 
-In every generation, a torch passes from father to son. And that timeless dynamic is the beating heart of Tommy&#39;s Honor - an intimate, powerfully moving tale of the real-life founders of the modern game of golf.
+The film is a comedy revolving around Kartik Aaryan&#39;s character, who is in a live-in relationship with his girlfriend (Kriti Kharbanda) when Paresh Rawal and his wife (Tanvi Azmi) barge into his home as guests, setting off a laugh-riot
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/UgdRDee1Ssw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/nPezCIqTZ-k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -267,18 +291,23 @@ In every generation, a torch passes from father to son. And that timeless dynami
 
 
 	
+
+  
+
+
+	
 	
 
-### Darkness Rising
-*Released on 2017-06-30, vote average 6*
+### Amityville: The Awakening
+*Released on 2017-06-30, vote average 7.4*
 
-Nearly murdered as a child by her mother, a woman (Katrina Law) returns to the house where her mom went mad.
+Belle, her little sister, and her comatose twin brother move into a new house with their single mother Joan in order to save money to help pay for her brother&#39;s expensive healthcare. But when strange phenomena begin to occur in the house including the miraculous recovery of her brother, Belle begins to suspect her Mother isn&#39;t telling her everything and soon realizes they just moved into the infamous Amityville house.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/tjlivAICrTc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/pCN3Ouo-Hys?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -293,20 +322,6 @@ Nearly murdered as a child by her mother, a woman (Katrina Law) returns to the h
   
 
 
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -320,7 +335,7 @@ Nearly murdered as a child by her mother, a woman (Katrina Law) returns to the h
 	
 
 ### War for the Planet of the Apes
-*Released on 2017-07-13, vote average 6.4*
+*Released on 2017-07-13, vote average 5.5*
 
 Caesar and his apes are forced into a deadly conflict with an army of humans led by a ruthless Colonel. After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind. As the journey finally brings them face to face, Caesar and the Colonel are pitted against each other in an epic battle that will determine the fate of both their species and the future of the planet.
 
@@ -333,8 +348,6 @@ Caesar and his apes are forced into a deadly conflict with an army of humans led
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
@@ -356,6 +369,8 @@ The story tells the story of Sun Wukong (Eddie Peng) and Erlang Shen (Shawn Yue)
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
