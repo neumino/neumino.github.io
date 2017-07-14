@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Despicable Me 3
-*Released on 2017-06-29, vote average 6*
+### Spider-Man: Homecoming
+*Released on 2017-07-05, vote average 7.5*
 
-Gru and his wife Lucy must stop former &#39;80s child star Balthazar Bratt from achieving world domination.
+Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/6DBi41reeF0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/lCkVr1n1eCA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,30 +46,8 @@ Gru and his wife Lucy must stop former &#39;80s child star Balthazar Bratt from 
 	
 	
 
-### Spider-Man: Homecoming
-*Released on 2017-07-05, vote average 7.4*
-
-Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/lCkVr1n1eCA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### War for the Planet of the Apes
-*Released on 2017-07-13, vote average 6.1*
+*Released on 2017-07-11, vote average 6.2*
 
 Caesar and his apes are forced into a deadly conflict with an army of humans led by a ruthless Colonel. After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind. As the journey finally brings them face to face, Caesar and the Colonel are pitted against each other in an epic battle that will determine the fate of both their species and the future of the planet.
 
@@ -87,72 +65,6 @@ Caesar and his apes are forced into a deadly conflict with an army of humans led
   
 
 
-	
-	
-
-### 2:22
-*Released on 2017-06-29, vote average 5.2*
-
-A man&#39;s life is derailed when an ominous pattern of events repeats itself in exactly the same manner every day, ending at precisely 2:22 p.m.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Af2N3N5rURI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Tour De Pharmacy
-*Released on 2017-07-08, vote average 8*
-
-A mockumentary that chronicles the prevalence of doping in the world of professional cycling.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pOTIqkD9fPA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The House
-*Released on 2017-06-29, vote average 5.7*
-
-A dad convinces his friends to start an illegal casino in his basement after he and his wife spend their daughter&#39;s college fund.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tlhPYN3gXog?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -183,6 +95,33 @@ The story tells the story of Sun Wukong (Eddie Peng) and Erlang Shen (Shawn Yue)
 	
 	
 
+### Tour De Pharmacy
+*Released on 2017-07-08, vote average 8*
+
+A mockumentary that chronicles the prevalence of doping in the world of professional cycling.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pOTIqkD9fPA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### Hickok
 *Released on 2017-07-07, vote average 5.3*
 
@@ -202,6 +141,20 @@ Legendary Lawman and Gunslinger Wild Bill Hickok, is tasked with taming the wild
   
 
 
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -252,88 +205,52 @@ A woman who is fed up with her mundane lifestyle hatches a scheme to make her fa
 
 
 	
+
+  
+
+
 	
 
-### Wish Upon
-*Released on 2017-07-07, vote average 4*
+  
 
-A teenage girl discovers a box with magical powers, but those powers comes with a deadly price.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Zygote
+*Released on 2017-07-12, vote average 6.8*
+
+Stranded in an Arctic mine, two survivors are forced to fight for their lives against a new kind of terror.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/2TlcxQdK0og?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Y-bDmNZilA8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Inconceivable
-*Released on 2017-06-30, vote average 6.8*
-
-A mother looks to escape her abusive past by moving to a new town where she befriends another mother, who grows suspicious of her.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vse9mg7AnGM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Amityville: The Awakening
-*Released on 2017-06-30, vote average 7.4*
-
-Belle, her little sister, and her comatose twin brother move into a new house with their single mother Joan in order to save money to help pay for her brother&#39;s expensive healthcare. But when strange phenomena begin to occur in the house including the miraculous recovery of her brother, Belle begins to suspect her Mother isn&#39;t telling her everything and soon realizes they just moved into the infamous Amityville house.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pCN3Ouo-Hys?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -351,41 +268,16 @@ Belle, her little sister, and her comatose twin brother move into a new house wi
 	
 	
 
-### War for the Planet of the Apes
-*Released on 2017-07-13, vote average 6.1*
+### Dunkirk
+*Released on 2017-07-19, vote average 1*
 
-Caesar and his apes are forced into a deadly conflict with an army of humans led by a ruthless Colonel. After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind. As the journey finally brings them face to face, Caesar and the Colonel are pitted against each other in an epic battle that will determine the fate of both their species and the future of the planet.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/UEP1Mk6Un98?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
-
-	
-	
-
-### Wu Kong
-*Released on 2017-07-13, vote average 10*
-
-The story tells the story of Sun Wukong (Eddie Peng) and Erlang Shen (Shawn Yue), who comes to the Immortal Mountain to cultivate their skills. They gained friendship, experienced love and ultimately betrayal, growing throughout their life journey.
+Miraculous evacuation of Allied soldiers from Belgium, Britain, Canada, and France, who were cut off and surrounded by the German army from the beaches and harbor of Dunkirk, France, between May 26- June 04, 1940, during Battle of France in World War II.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/EpFQaYv8MV4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/PC460OxDNhc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -400,6 +292,31 @@ The story tells the story of Sun Wukong (Eddie Peng) and Erlang Shen (Shawn Yue)
 
 	
 
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Jagga Jasoos
+*Released on 2017-07-14, vote average 8*
+
+A gifted teenage detective searches for his missing father with his ladylove assistant.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xtm48kJwL1I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
