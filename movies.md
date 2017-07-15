@@ -66,6 +66,8 @@ Caesar and his apes are forced into a deadly conflict with an army of humans led
 
 
 	
+	
+	
 
   
 
@@ -93,10 +95,15 @@ The story tells the story of Sun Wukong (Eddie Peng) and Erlang Shen (Shawn Yue)
 
 
 	
+
+  
+
+
+	
 	
 
 ### Tour De Pharmacy
-*Released on 2017-07-08, vote average 8*
+*Released on 2017-07-08, vote average 7.7*
 
 A mockumentary that chronicles the prevalence of doping in the world of professional cycling.
 
@@ -120,18 +127,28 @@ A mockumentary that chronicles the prevalence of doping in the world of professi
 
 
 	
+
+  
+
+
 	
 
-### Hickok
-*Released on 2017-07-07, vote average 5.3*
+  
 
-Legendary Lawman and Gunslinger Wild Bill Hickok, is tasked with taming the wildest cow-town in the West, wile delivering his own brand of frontier Justice and infamous gunfighter&#39;s reputation as the fastest draw in the West is put to the test
+
+	
+	
+
+### Wish Upon
+*Released on 2017-07-07, vote average 4*
+
+A teenage girl discovers a box with magical powers, but those powers comes with a deadly price.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ZJVcI6tw5jo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Sp8GRrrbE-A?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -142,8 +159,6 @@ Legendary Lawman and Gunslinger Wild Bill Hickok, is tasked with taming the wild
 
 
 	
-	
-	
 
   
 
@@ -153,52 +168,6 @@ Legendary Lawman and Gunslinger Wild Bill Hickok, is tasked with taming the wild
   
 
 
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Media Studies
-*Released on 2017-07-10, vote average 8*
-
-Three students embark on their end of year Media Studies project unaware of the horrific and unspeakable fate that awaits them. What starts as a seemingly simple mystery soon turns into a claustrophobic and hellish nightmare.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XGXuSa93lwg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Austin Found
-*Released on 2017-07-07, vote average 6*
-
-A woman who is fed up with her mundane lifestyle hatches a scheme to make her family instant celebrities by having her ex-boyfriend kidnap her 11-year-old daughter for a month.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/PFx-BpbRDTk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -256,11 +225,6 @@ Stranded in an Arctic mine, two survivors are forced to fight for their lives ag
   
 
 
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -269,7 +233,7 @@ Stranded in an Arctic mine, two survivors are forced to fight for their lives ag
 	
 
 ### Dunkirk
-*Released on 2017-07-19, vote average 1*
+*Released on 2017-07-19, vote average 3.9*
 
 Miraculous evacuation of Allied soldiers from Belgium, Britain, Canada, and France, who were cut off and surrounded by the German army from the beaches and harbor of Dunkirk, France, between May 26- June 04, 1940, during Battle of France in World War II.
 
@@ -300,23 +264,6 @@ Miraculous evacuation of Allied soldiers from Belgium, Britain, Canada, and Fran
 
 	
 
-	
-	
-
-### Jagga Jasoos
-*Released on 2017-07-14, vote average 8*
-
-A gifted teenage detective searches for his missing father with his ladylove assistant.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xtm48kJwL1I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
