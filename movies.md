@@ -47,7 +47,7 @@ Following the events of Captain America: Civil War, Peter Parker, with the help 
 	
 
 ### War for the Planet of the Apes
-*Released on 2017-07-11, vote average 6.2*
+*Released on 2017-07-11, vote average 6.4*
 
 Caesar and his apes are forced into a deadly conflict with an army of humans led by a ruthless Colonel. After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind. As the journey finally brings them face to face, Caesar and the Colonel are pitted against each other in an epic battle that will determine the fate of both their species and the future of the planet.
 
@@ -89,85 +89,6 @@ The story tells the story of Sun Wukong (Eddie Peng) and Erlang Shen (Shawn Yue)
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Tour De Pharmacy
-*Released on 2017-07-08, vote average 7.7*
-
-A mockumentary that chronicles the prevalence of doping in the world of professional cycling.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pOTIqkD9fPA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Wish Upon
-*Released on 2017-07-07, vote average 4*
-
-A teenage girl discovers a box with magical powers, but those powers comes with a deadly price.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Sp8GRrrbE-A?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -225,6 +146,102 @@ Stranded in an Arctic mine, two survivors are forced to fight for their lives ag
   
 
 
+	
+	
+
+### Blind
+*Released on 2017-07-14, vote average 8*
+
+A novelist is blinded in a car crash that killed his wife and several years later rediscovers his passion for life and writing when he embarks on an affair with the neglected wife of an indicted businessman.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3oMTkNDtvjQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Tour De Pharmacy
+*Released on 2017-07-08, vote average 7.7*
+
+A mockumentary that chronicles the prevalence of doping in the world of professional cycling.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pOTIqkD9fPA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Wish Upon
+*Released on 2017-07-07, vote average 4*
+
+A teenage girl discovers a box with magical powers, but those powers comes with a deadly price.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Sp8GRrrbE-A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -233,7 +250,7 @@ Stranded in an Arctic mine, two survivors are forced to fight for their lives ag
 	
 
 ### Dunkirk
-*Released on 2017-07-19, vote average 3.9*
+*Released on 2017-07-19, vote average 4.8*
 
 Miraculous evacuation of Allied soldiers from Belgium, Britain, Canada, and France, who were cut off and surrounded by the German army from the beaches and harbor of Dunkirk, France, between May 26- June 04, 1940, during Battle of France in World War II.
 
