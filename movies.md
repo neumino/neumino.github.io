@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Spider-Man: Homecoming
-*Released on 2017-07-05, vote average 7.5*
+*Released on 2017-07-05, vote average 7.4*
 
 Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.
 
@@ -47,7 +47,7 @@ Following the events of Captain America: Civil War, Peter Parker, with the help 
 	
 
 ### War for the Planet of the Apes
-*Released on 2017-07-11, vote average 6.4*
+*Released on 2017-07-11, vote average 6.3*
 
 Caesar and his apes are forced into a deadly conflict with an army of humans led by a ruthless Colonel. After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind. As the journey finally brings them face to face, Caesar and the Colonel are pitted against each other in an epic battle that will determine the fate of both their species and the future of the planet.
 
@@ -76,7 +76,7 @@ Caesar and his apes are forced into a deadly conflict with an army of humans led
 	
 
 ### Wu Kong
-*Released on 2017-07-13, vote average 10*
+*Released on 2017-07-13, vote average 9.8*
 
 The story tells the story of Sun Wukong (Eddie Peng) and Erlang Shen (Shawn Yue), who comes to the Immortal Mountain to cultivate their skills. They gained friendship, experienced love and ultimately betrayal, growing throughout their life journey.
 
@@ -85,58 +85,6 @@ The story tells the story of Sun Wukong (Eddie Peng) and Erlang Shen (Shawn Yue)
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/EpFQaYv8MV4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Zygote
-*Released on 2017-07-12, vote average 6.8*
-
-Stranded in an Arctic mine, two survivors are forced to fight for their lives against a new kind of terror.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Y-bDmNZilA8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -169,23 +117,18 @@ A novelist is blinded in a car crash that killed his wife and several years late
 
 
 	
-
-  
-
-
-	
 	
 
-### Tour De Pharmacy
-*Released on 2017-07-08, vote average 7.7*
+### Zygote
+*Released on 2017-07-12, vote average 7*
 
-A mockumentary that chronicles the prevalence of doping in the world of professional cycling.
+Stranded in an Arctic mine, two survivors are forced to fight for their lives against a new kind of terror.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/pOTIqkD9fPA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Y-bDmNZilA8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -196,15 +139,10 @@ A mockumentary that chronicles the prevalence of doping in the world of professi
 
 
 	
-
-  
-
-
-	
 	
 
 ### Wish Upon
-*Released on 2017-07-07, vote average 4*
+*Released on 2017-07-07, vote average 5*
 
 A teenage girl discovers a box with magical powers, but those powers comes with a deadly price.
 
@@ -217,6 +155,70 @@ A teenage girl discovers a box with magical powers, but those powers comes with 
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Jagga Jasoos
+*Released on 2017-07-14, vote average 7.7*
+
+A gifted teenage detective searches for his missing father with his ladylove assistant.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xtm48kJwL1I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -250,7 +252,7 @@ A teenage girl discovers a box with magical powers, but those powers comes with 
 	
 
 ### Dunkirk
-*Released on 2017-07-19, vote average 4.8*
+*Released on 2017-07-19, vote average 5.1*
 
 Miraculous evacuation of Allied soldiers from Belgium, Britain, Canada, and France, who were cut off and surrounded by the German army from the beaches and harbor of Dunkirk, France, between May 26- June 04, 1940, during Battle of France in World War II.
 
@@ -259,6 +261,67 @@ Miraculous evacuation of Allied soldiers from Belgium, Britain, Canada, and Fran
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/PC460OxDNhc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### Valerian and the City of a Thousand Planets
+*Released on 2017-07-20, vote average 10*
+
+In the 28th century, Valerian and Laureline are special operatives charged with keeping order throughout the human territories. On assignment from the Minister of Defense, the two undertake a mission to Alpha, an ever-expanding metropolis where species from across the universe have converged over centuries to share knowledge, intelligence, and cultures. At the center of Alpha is a mysterious dark force which threatens the peaceful existence of the City of a Thousand Planets, and Valerian and Laureline must race to identify the menace and safeguard not just Alpha, but the future of the universe.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/1CWfrJL-hC0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+	
+
+### Girls Trip
+*Released on 2017-07-21, vote average 2*
+
+Four girlfriends take a trip to New Orleans for an annual festival and, along the way, rediscover their wild sides and strengthen the bonds of sisterhood.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2A3TcTcnYFQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+	
+
+### Space Squad: Space Sheriff Gavan vs. Tokusou Sentai Dekaranger
+*Released on 2017-07-19, vote average 10*
+
+Space Sheriff Gavan vs Tokusou Sentai Dekaranger features the return of Yuma Ishigaki from 2012’s Space Sheriff Gavan: The Movie and the 2015 Space Sheriff Next Generation films. The first installment will join the two police themed heroes as they face a massive space crime organization.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/TsEdf1bC-Wc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -276,15 +339,22 @@ Miraculous evacuation of Allied soldiers from Belgium, Britain, Canada, and Fran
 	
 
 	
-
 	
 
-	
+### Descendants 2
+*Released on 2017-07-21, vote average 10*
+
+
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/OrZmzYJbgo4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-	
-
 	
 
 	
