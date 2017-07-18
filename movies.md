@@ -47,7 +47,7 @@ Following the events of Captain America: Civil War, Peter Parker, with the help 
 	
 
 ### War for the Planet of the Apes
-*Released on 2017-07-11, vote average 6.3*
+*Released on 2017-07-11, vote average 6.5*
 
 Caesar and his apes are forced into a deadly conflict with an army of humans led by a ruthless Colonel. After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind. As the journey finally brings them face to face, Caesar and the Colonel are pitted against each other in an epic battle that will determine the fate of both their species and the future of the planet.
 
@@ -75,6 +75,28 @@ Caesar and his apes are forced into a deadly conflict with an army of humans led
 	
 	
 
+### Zygote
+*Released on 2017-07-12, vote average 7*
+
+Stranded in an Arctic mine, two survivors are forced to fight for their lives against a new kind of terror.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Y-bDmNZilA8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Wu Kong
 *Released on 2017-07-13, vote average 9.8*
 
@@ -85,6 +107,33 @@ The story tells the story of Sun Wukong (Eddie Peng) and Erlang Shen (Shawn Yue)
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/EpFQaYv8MV4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Wish Upon
+*Released on 2017-07-07, vote average 5*
+
+A teenage girl discovers a box with magical powers, but those powers comes with a deadly price.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2TlcxQdK0og?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -118,93 +167,48 @@ A novelist is blinded in a car crash that killed his wife and several years late
 
 	
 	
+	
 
-### Zygote
-*Released on 2017-07-12, vote average 7*
+  
 
-Stranded in an Arctic mine, two survivors are forced to fight for their lives against a new kind of terror.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Tour De Pharmacy
+*Released on 2017-07-08, vote average 7.6*
+
+A mockumentary that chronicles the prevalence of doping in the world of professional cycling.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Y-bDmNZilA8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Wish Upon
-*Released on 2017-07-07, vote average 5*
-
-A teenage girl discovers a box with magical powers, but those powers comes with a deadly price.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Sp8GRrrbE-A?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Jagga Jasoos
-*Released on 2017-07-14, vote average 7.7*
-
-A gifted teenage detective searches for his missing father with his ladylove assistant.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xtm48kJwL1I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/pOTIqkD9fPA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -252,7 +256,7 @@ A gifted teenage detective searches for his missing father with his ladylove ass
 	
 
 ### Dunkirk
-*Released on 2017-07-19, vote average 5.1*
+*Released on 2017-07-19, vote average 4.8*
 
 Miraculous evacuation of Allied soldiers from Belgium, Britain, Canada, and France, who were cut off and surrounded by the German army from the beaches and harbor of Dunkirk, France, between May 26- June 04, 1940, during Battle of France in World War II.
 
@@ -271,7 +275,7 @@ Miraculous evacuation of Allied soldiers from Belgium, Britain, Canada, and Fran
 	
 
 ### Valerian and the City of a Thousand Planets
-*Released on 2017-07-20, vote average 10*
+*Released on 2017-07-20, vote average 7*
 
 In the 28th century, Valerian and Laureline are special operatives charged with keeping order throughout the human territories. On assignment from the Minister of Defense, the two undertake a mission to Alpha, an ever-expanding metropolis where species from across the universe have converged over centuries to share knowledge, intelligence, and cultures. At the center of Alpha is a mysterious dark force which threatens the peaceful existence of the City of a Thousand Planets, and Valerian and Laureline must race to identify the menace and safeguard not just Alpha, but the future of the universe.
 
@@ -284,8 +288,6 @@ In the 28th century, Valerian and Laureline are special operatives charged with 
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
@@ -333,12 +335,6 @@ Space Sheriff Gavan vs Tokusou Sentai Dekaranger features the return of Yuma Ish
 	
 
 	
-
-	
-
-	
-
-	
 	
 
 ### Descendants 2
@@ -355,6 +351,14 @@ Space Sheriff Gavan vs Tokusou Sentai Dekaranger features the return of Yuma Ish
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
 	
 
 	
