@@ -47,7 +47,7 @@ Following the events of Captain America: Civil War, Peter Parker, with the help 
 	
 
 ### War for the Planet of the Apes
-*Released on 2017-07-11, vote average 6.5*
+*Released on 2017-07-11, vote average 6.6*
 
 Caesar and his apes are forced into a deadly conflict with an army of humans led by a ruthless Colonel. After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind. As the journey finally brings them face to face, Caesar and the Colonel are pitted against each other in an epic battle that will determine the fate of both their species and the future of the planet.
 
@@ -67,27 +67,27 @@ Caesar and his apes are forced into a deadly conflict with an army of humans led
 
 	
 	
+
+### Dunkirk
+*Released on 2017-07-19, vote average 4.9*
+
+Miraculous evacuation of Allied soldiers from Belgium, Britain, Canada, and France, who were cut off and surrounded by the German army from the beaches and harbor of Dunkirk, France, between May 26- June 04, 1940, during Battle of France in World War II.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PC460OxDNhc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
 
 
 	
-	
-
-### Zygote
-*Released on 2017-07-12, vote average 7*
-
-Stranded in an Arctic mine, two survivors are forced to fight for their lives against a new kind of terror.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Y-bDmNZilA8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -107,33 +107,6 @@ The story tells the story of Sun Wukong (Eddie Peng) and Erlang Shen (Shawn Yue)
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/EpFQaYv8MV4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Wish Upon
-*Released on 2017-07-07, vote average 5*
-
-A teenage girl discovers a box with magical powers, but those powers comes with a deadly price.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2TlcxQdK0og?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -173,42 +146,106 @@ A novelist is blinded in a car crash that killed his wife and several years late
 
 
 	
-
-  
-
-
 	
 
-  
+### Wish Upon
+*Released on 2017-07-07, vote average 5*
 
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Tour De Pharmacy
-*Released on 2017-07-08, vote average 7.6*
-
-A mockumentary that chronicles the prevalence of doping in the world of professional cycling.
+A teenage girl discovers a box with magical powers, but those powers comes with a deadly price.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/pOTIqkD9fPA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Sp8GRrrbE-A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Zygote
+*Released on 2017-07-12, vote average 7*
+
+Stranded in an Arctic mine, two survivors are forced to fight for their lives against a new kind of terror.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Y-bDmNZilA8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Jagga Jasoos
+*Released on 2017-07-14, vote average 7.7*
+
+A gifted teenage detective searches for his missing father with his ladylove assistant.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xtm48kJwL1I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Space Squad: Space Sheriff Gavan vs. Tokusou Sentai Dekaranger
+*Released on 2017-07-19, vote average 10*
+
+Space Sheriff Gavan vs Tokusou Sentai Dekaranger features the return of Yuma Ishigaki from 2012’s Space Sheriff Gavan: The Movie and the 2015 Space Sheriff Next Generation films. The first installment will join the two police themed heroes as they face a massive space crime organization.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/TsEdf1bC-Wc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -234,10 +271,7 @@ A mockumentary that chronicles the prevalence of doping in the world of professi
 
 
 	
-
-  
-
-
+	
 	
 
   
@@ -256,7 +290,7 @@ A mockumentary that chronicles the prevalence of doping in the world of professi
 	
 
 ### Dunkirk
-*Released on 2017-07-19, vote average 4.8*
+*Released on 2017-07-19, vote average 4.9*
 
 Miraculous evacuation of Allied soldiers from Belgium, Britain, Canada, and France, who were cut off and surrounded by the German army from the beaches and harbor of Dunkirk, France, between May 26- June 04, 1940, during Battle of France in World War II.
 
@@ -283,11 +317,13 @@ In the 28th century, Valerian and Laureline are special operatives charged with 
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/1CWfrJL-hC0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/TPY27EI589c?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
@@ -310,8 +346,6 @@ Four girlfriends take a trip to New Orleans for an annual festival and, along th
 	
 
 	
-
-	
 	
 
 ### Space Squad: Space Sheriff Gavan vs. Tokusou Sentai Dekaranger
@@ -328,8 +362,6 @@ Space Sheriff Gavan vs Tokusou Sentai Dekaranger features the return of Yuma Ish
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
@@ -375,6 +407,10 @@ Space Sheriff Gavan vs Tokusou Sentai Dekaranger features the return of Yuma Ish
 
 	
 
+	
+
+	
+	
 	
 
 
