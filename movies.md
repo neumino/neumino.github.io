@@ -47,7 +47,7 @@ Caesar and his apes are forced into a deadly conflict with an army of humans led
 	
 
 ### Dunkirk
-*Released on 2017-07-19, vote average 7.1*
+*Released on 2017-07-19, vote average 7.3*
 
 Miraculous evacuation of Allied soldiers from Belgium, Britain, Canada, and France, who were cut off and surrounded by the German army from the beaches and harbor of Dunkirk, France, between May 26 and June 04, 1940, during Battle of France in World War II.
 
@@ -69,7 +69,7 @@ Miraculous evacuation of Allied soldiers from Belgium, Britain, Canada, and Fran
 	
 
 ### Valerian and the City of a Thousand Planets
-*Released on 2017-07-20, vote average 7.1*
+*Released on 2017-07-20, vote average 6.8*
 
 In the 28th century, Valerian and Laureline are special operatives charged with keeping order throughout the human territories. On assignment from the Minister of Defense, the two undertake a mission to Alpha, an ever-expanding metropolis where species from across the universe have converged over centuries to share knowledge, intelligence, and cultures. At the center of Alpha is a mysterious dark force which threatens the peaceful existence of the City of a Thousand Planets, and Valerian and Laureline must race to identify the menace and safeguard not just Alpha, but the future of the universe.
 
@@ -119,6 +119,28 @@ Four girlfriends take a trip to New Orleans for an annual festival and, along th
 	
 	
 
+### Descendants 2
+*Released on 2017-07-21, vote average 8.2*
+
+When the pressure to be royal becomes too much for Mal, she returns to the Isle of the Lost where her archenemy Uma, Ursula&#39;s daughter, has taken her spot as self-proclaimed queen.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/iwE57nUG80?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Feed
 *Released on 2017-07-18, vote average 8*
 
@@ -141,25 +163,20 @@ Olivia and Matthew Grey, 18-year-old twins born into a world of privilege and hi
 	
 	
 
-### Descendants 2
-*Released on 2017-07-21, vote average 10*
+### First Kill
+*Released on 2017-07-21, vote average 5*
 
-
+A police chief tries to solve a kidnapping that involves a bank robber holding a young boy hostage.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/iwE57nUG80?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/t719hhEdWJc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -188,87 +205,33 @@ The story tells the story of Sun Wukong (Eddie Peng) and Erlang Shen (Shawn Yue)
 
 
 	
+
+  
+
+
 	
 
-### First Kill
-*Released on 2017-07-21, vote average 4.5*
+  
 
-A police chief tries to solve a kidnapping that involves a bank robber holding a young boy hostage.
+
+	
+
+  
+
+
+	
+	
+
+### Munna Michael
+*Released on 2017-07-21, vote average 7.2*
+
+Munna is an orphan brought up by an ageing chorus dancer Michael in a Mumbai chawl. The boy grows up idolising Michael Jackson. To realise his dream of grooving like the King of Pop, he even agrees to tutor a hoodlum, Mahindar Fauji. Their bromance turns ugly when both end up falling in love with Deepika aka Dolly.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/t719hhEdWJc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Zygote
-*Released on 2017-07-12, vote average 7.1*
-
-Stranded in an Arctic mine, two survivors are forced to fight for their lives against a new kind of terror.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Y-bDmNZilA8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Space Squad: Space Sheriff Gavan vs. Tokusou Sentai Dekaranger
-*Released on 2017-07-19, vote average 10*
-
-Space Sheriff Gavan vs Tokusou Sentai Dekaranger features the return of Yuma Ishigaki from 2012’s Space Sheriff Gavan: The Movie and the 2015 Space Sheriff Next Generation films. The first installment will join the two police themed heroes as they face a massive space crime organization.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/TsEdf1bC-Wc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/1YOfv5tIGwU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -310,12 +273,83 @@ A novelist is blinded in a car crash that killed his wife and several years late
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Space Squad: Space Sheriff Gavan vs. Tokusou Sentai Dekaranger
+*Released on 2017-07-19, vote average 10*
+
+Space Sheriff Gavan vs Tokusou Sentai Dekaranger features the return of Yuma Ishigaki from 2012’s Space Sheriff Gavan: The Movie and the 2015 Space Sheriff Next Generation films. The first installment will join the two police themed heroes as they face a massive space crime organization.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/TsEdf1bC-Wc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 
 ## Opening soon
 
 
 	
+	
 
+### Atomic Blonde
+*Released on 2017-07-26, vote average 5*
+
+An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/R-ys7yd_9Xs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### The Dark Tower
+*Released on 2017-07-27, vote average 1*
+
+The last Gunslinger, Roland Deschain, has been locked in an eternal battle with Walter O’Dim, also known as the Man in Black, determined to prevent him from toppling the Dark Tower, which holds the universe together. With the fate of the worlds at stake, good and evil will collide in the ultimate battle as only Roland can defend the Tower from the Man in Black.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/GjwfqXTebIY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
