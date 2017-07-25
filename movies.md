@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Dunkirk
-*Released on 2017-07-19, vote average 7.3*
+### War for the Planet of the Apes
+*Released on 2017-07-11, vote average 6.6*
 
-Miraculous evacuation of Allied soldiers from Belgium, Britain, Canada, and France, who were cut off and surrounded by the German army from the beaches and harbor of Dunkirk, France, between May 26 and June 04, 1940, during Battle of France in World War II.
+Caesar and his apes are forced into a deadly conflict with an army of humans led by a ruthless Colonel. After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind. As the journey finally brings them face to face, Caesar and the Colonel are pitted against each other in an epic battle that will determine the fate of both their species and the future of the planet.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/PC460OxDNhc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/wWNk3COVNS4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ Miraculous evacuation of Allied soldiers from Belgium, Britain, Canada, and Fran
 	
 	
 
-### War for the Planet of the Apes
-*Released on 2017-07-11, vote average 6.6*
+### Dunkirk
+*Released on 2017-07-19, vote average 7.4*
 
-Caesar and his apes are forced into a deadly conflict with an army of humans led by a ruthless Colonel. After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind. As the journey finally brings them face to face, Caesar and the Colonel are pitted against each other in an epic battle that will determine the fate of both their species and the future of the planet.
+Miraculous evacuation of Allied soldiers from Belgium, Britain, Canada, and France, who were cut off and surrounded by the German army from the beaches and harbor of Dunkirk, France, between May 26 and June 04, 1940, during Battle of France in World War II.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/wWNk3COVNS4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/PC460OxDNhc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@ Caesar and his apes are forced into a deadly conflict with an army of humans led
 	
 
 ### Valerian and the City of a Thousand Planets
-*Released on 2017-07-20, vote average 6.7*
+*Released on 2017-07-20, vote average 6.5*
 
 In the 28th century, Valerian and Laureline are special operatives charged with keeping order throughout the human territories. On assignment from the Minister of Defense, the two undertake a mission to Alpha, an ever-expanding metropolis where species from across the universe have converged over centuries to share knowledge, intelligence, and cultures. At the center of Alpha is a mysterious dark force which threatens the peaceful existence of the City of a Thousand Planets, and Valerian and Laureline must race to identify the menace and safeguard not just Alpha, but the future of the universe.
 
@@ -77,7 +77,7 @@ In the 28th century, Valerian and Laureline are special operatives charged with 
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/y0n1cdoaiZE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/1CWfrJL-hC0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -88,28 +88,6 @@ In the 28th century, Valerian and Laureline are special operatives charged with 
 
 
 	
-	
-	
-
-  
-
-
-	
-	
-
-### Girls Trip
-*Released on 2017-07-21, vote average 6*
-
-Four girlfriends take a trip to New Orleans for an annual festival and, along the way, rediscover their wild sides and strengthen the bonds of sisterhood.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2A3TcTcnYFQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -142,7 +120,7 @@ When the pressure to be royal becomes too much for Mal, she returns to the Isle 
 	
 
 ### First Kill
-*Released on 2017-07-21, vote average 5*
+*Released on 2017-07-21, vote average 5.3*
 
 A police chief tries to solve a kidnapping that involves a bank robber holding a young boy hostage.
 
@@ -151,6 +129,50 @@ A police chief tries to solve a kidnapping that involves a bank robber holding a
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/t719hhEdWJc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Girls Trip
+*Released on 2017-07-21, vote average 6*
+
+Four girlfriends take a trip to New Orleans for an annual festival and, along the way, rediscover their wild sides and strengthen the bonds of sisterhood.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2A3TcTcnYFQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Origin Wars
+*Released on 2017-07-24, vote average 6.9*
+
+Set in the future in a time of interplanetary colonisation, Sy, escapes a brutal prison where mysterious experiments have been taking place under the watch of a savage warden. After orchestrating an escape, Sy meets Kane, a lieutenant working for an off-world military contractor - EXOR, who have set in motion a plan to wipe out all life from the face of the planet in an attempt to cover up their crimes - when their terrifying “experiments” escape. Now, the unlikely pair must work together to rescue Kane’s young daughter, Indi, and reach safety before it’s too late. Teaming up with a pair of rough-and-ready outlaws, Gyp and Bill, it’s a race against time for the group as they clash with EXOR in an attempt to escape while battling the savage creatures that roam the barren planet.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ah2f2FlOcOE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -176,13 +198,6 @@ The story tells the story of Sun Wukong (Eddie Peng) and Erlang Shen (Shawn Yue)
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -222,11 +237,6 @@ Olivia and Matthew Grey, 18-year-old twins born into a world of privilege and hi
 
 
 	
-
-  
-
-
-	
 	
 
 ### Lipstick Under My Burkha
@@ -249,21 +259,11 @@ Four ordinary women, inflicted by silly societal norms, have to steal, lie, chea
 
 
 	
+
+  
+
+
 	
-
-### Zygote
-*Released on 2017-07-12, vote average 7.1*
-
-Stranded in an Arctic mine, two survivors are forced to fight for their lives against a new kind of terror.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Y-bDmNZilA8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -308,8 +308,6 @@ Munna is an orphan brought up by an ageing chorus dancer Michael in a Mumbai cha
 
 
 	
-	
-	
 
   
 
@@ -322,7 +320,7 @@ Munna is an orphan brought up by an ageing chorus dancer Michael in a Mumbai cha
 	
 
 ### Atomic Blonde
-*Released on 2017-07-26, vote average 6.1*
+*Released on 2017-07-26, vote average 6.6*
 
 An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents.
 
@@ -356,8 +354,6 @@ The last Gunslinger, Roland Deschain, has been locked in an eternal battle with 
 	
 	
 
-	
-	
 	
 
 	
