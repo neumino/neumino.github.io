@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### War for the Planet of the Apes
-*Released on 2017-07-11, vote average 6.6*
+### Dunkirk
+*Released on 2017-07-19, vote average 7.5*
 
-Caesar and his apes are forced into a deadly conflict with an army of humans led by a ruthless Colonel. After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind. As the journey finally brings them face to face, Caesar and the Colonel are pitted against each other in an epic battle that will determine the fate of both their species and the future of the planet.
+Miraculous evacuation of Allied soldiers from Belgium, Britain, Canada, and France, who were cut off and surrounded by the German army from the beaches and harbor of Dunkirk, France, between May 26 and June 04, 1940, during Battle of France in World War II.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/wWNk3COVNS4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/PC460OxDNhc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,30 +46,8 @@ Caesar and his apes are forced into a deadly conflict with an army of humans led
 	
 	
 
-### Dunkirk
-*Released on 2017-07-19, vote average 7.4*
-
-Miraculous evacuation of Allied soldiers from Belgium, Britain, Canada, and France, who were cut off and surrounded by the German army from the beaches and harbor of Dunkirk, France, between May 26 and June 04, 1940, during Battle of France in World War II.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/PC460OxDNhc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Valerian and the City of a Thousand Planets
-*Released on 2017-07-20, vote average 6.5*
+*Released on 2017-07-20, vote average 6.6*
 
 In the 28th century, Valerian and Laureline are special operatives charged with keeping order throughout the human territories. On assignment from the Minister of Defense, the two undertake a mission to Alpha, an ever-expanding metropolis where species from across the universe have converged over centuries to share knowledge, intelligence, and cultures. At the center of Alpha is a mysterious dark force which threatens the peaceful existence of the City of a Thousand Planets, and Valerian and Laureline must race to identify the menace and safeguard not just Alpha, but the future of the universe.
 
@@ -77,7 +55,7 @@ In the 28th century, Valerian and Laureline are special operatives charged with 
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/1CWfrJL-hC0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/y0n1cdoaiZE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -88,6 +66,28 @@ In the 28th century, Valerian and Laureline are special operatives charged with 
 
 
 	
+	
+	
+
+  
+
+
+	
+	
+
+### Atomic Blonde
+*Released on 2017-07-26, vote average 6.5*
+
+An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/HNKX2Ymfhbg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -259,6 +259,23 @@ Four ordinary women, inflicted by silly societal norms, have to steal, lie, chea
 
 
 	
+	
+
+### The Gracefield Incident
+*Released on 2017-07-21, vote average 5.9*
+
+On August 16, 2013, the Supreme Court mandated the CIA to declassify files that had been kept secret for the past 75 years. Visual records of documented paranormal events were released to the public. The following incident took place in Gracefield, Quebec.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/z4LRvzyHN9Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -320,7 +337,7 @@ Munna is an orphan brought up by an ageing chorus dancer Michael in a Mumbai cha
 	
 
 ### Atomic Blonde
-*Released on 2017-07-26, vote average 6.6*
+*Released on 2017-07-26, vote average 6.5*
 
 An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents.
 
@@ -339,7 +356,7 @@ An undercover MI6 agent is sent to Berlin during the Cold War to investigate the
 	
 
 ### The Dark Tower
-*Released on 2017-07-27, vote average 1*
+*Released on 2017-07-27, vote average 2.2*
 
 The last Gunslinger, Roland Deschain, has been locked in an eternal battle with Walter O’Dim, also known as the Man in Black, determined to prevent him from toppling the Dark Tower, which holds the universe together. With the fate of the worlds at stake, good and evil will collide in the ultimate battle as only Roland can defend the Tower from the Man in Black.
 
