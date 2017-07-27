@@ -45,6 +45,13 @@ Miraculous evacuation of Allied soldiers from Belgium, Britain, Canada, and Fran
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Valerian and the City of a Thousand Planets
 *Released on 2017-07-20, vote average 6.6*
@@ -67,16 +74,9 @@ In the 28th century, Valerian and Laureline are special operatives charged with 
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Atomic Blonde
-*Released on 2017-07-26, vote average 6.5*
+*Released on 2017-07-26, vote average 6.1*
 
 An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents.
 
@@ -85,50 +85,6 @@ An undercover MI6 agent is sent to Berlin during the Cold War to investigate the
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/HNKX2Ymfhbg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Descendants 2
-*Released on 2017-07-21, vote average 8.5*
-
-When the pressure to be royal becomes too much for Mal, she returns to the Isle of the Lost where her archenemy Uma, Ursula&#39;s daughter, has taken her spot as self-proclaimed queen.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/iwE57nUG80?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### First Kill
-*Released on 2017-07-21, vote average 5.3*
-
-A police chief tries to solve a kidnapping that involves a bank robber holding a young boy hostage.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/t719hhEdWJc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -163,16 +119,104 @@ Four girlfriends take a trip to New Orleans for an annual festival and, along th
 	
 	
 
-### Origin Wars
-*Released on 2017-07-24, vote average 6.9*
+### The Dark Tower
+*Released on 2017-07-27, vote average 2.2*
 
-Set in the future in a time of interplanetary colonisation, Sy, escapes a brutal prison where mysterious experiments have been taking place under the watch of a savage warden. After orchestrating an escape, Sy meets Kane, a lieutenant working for an off-world military contractor - EXOR, who have set in motion a plan to wipe out all life from the face of the planet in an attempt to cover up their crimes - when their terrifying “experiments” escape. Now, the unlikely pair must work together to rescue Kane’s young daughter, Indi, and reach safety before it’s too late. Teaming up with a pair of rough-and-ready outlaws, Gyp and Bill, it’s a race against time for the group as they clash with EXOR in an attempt to escape while battling the savage creatures that roam the barren planet.
+The last Gunslinger, Roland Deschain, has been locked in an eternal battle with Walter O’Dim, also known as the Man in Black, determined to prevent him from toppling the Dark Tower, which holds the universe together. With the fate of the worlds at stake, good and evil will collide in the ultimate battle as only Roland can defend the Tower from the Man in Black.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ah2f2FlOcOE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/GjwfqXTebIY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Descendants 2
+*Released on 2017-07-21, vote average 8.3*
+
+When the pressure to be royal becomes too much for Mal, she returns to the Isle of the Lost where her archenemy Uma, Ursula&#39;s daughter, has taken her spot as self-proclaimed queen.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/iwE57nUG80?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### First Kill
+*Released on 2017-07-21, vote average 4.8*
+
+A police chief tries to solve a kidnapping that involves a bank robber holding a young boy hostage.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/t719hhEdWJc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Feed
+*Released on 2017-07-18, vote average 8*
+
+Olivia and Matthew Grey, 18-year-old twins born into a world of privilege and high expectations. There are almost no boundaries between them - even their dreams are connected.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/tFqV9xtw0Ig?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Munna Michael
+*Released on 2017-07-21, vote average 7.2*
+
+Munna is an orphan brought up by an ageing chorus dancer Michael in a Mumbai chawl. The boy grows up idolising Michael Jackson. To realise his dream of grooving like the King of Pop, he even agrees to tutor a hoodlum, Mahindar Fauji. Their bromance turns ugly when both end up falling in love with Deepika aka Dolly.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/1YOfv5tIGwU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -207,48 +251,16 @@ The story tells the story of Sun Wukong (Eddie Peng) and Erlang Shen (Shawn Yue)
 	
 	
 
-### Feed
-*Released on 2017-07-18, vote average 8*
+### Origin Wars
+*Released on 2017-07-24, vote average 6.9*
 
-Olivia and Matthew Grey, 18-year-old twins born into a world of privilege and high expectations. There are almost no boundaries between them - even their dreams are connected.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tFqV9xtw0Ig?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Lipstick Under My Burkha
-*Released on 2017-07-21, vote average 7.1*
-
-Four ordinary women, inflicted by silly societal norms, have to steal, lie, cheat and hide in order to lead the lives that they rightfully deserve.
+Set in the future in a time of interplanetary colonisation, Sy, escapes a brutal prison where mysterious experiments have been taking place under the watch of a savage warden. After orchestrating an escape, Sy meets Kane, a lieutenant working for an off-world military contractor - EXOR, who have set in motion a plan to wipe out all life from the face of the planet in an attempt to cover up their crimes - when their terrifying “experiments” escape. Now, the unlikely pair must work together to rescue Kane’s young daughter, Indi, and reach safety before it’s too late. Teaming up with a pair of rough-and-ready outlaws, Gyp and Bill, it’s a race against time for the group as they clash with EXOR in an attempt to escape while battling the savage creatures that roam the barren planet.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/EpHqeHF8NM0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ah2f2FlOcOE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -281,7 +293,10 @@ On August 16, 2013, the Supreme Court mandated the CIA to declassify files that 
 
 
 	
-	
+
+  
+
+
 	
 
   
@@ -290,16 +305,16 @@ On August 16, 2013, the Supreme Court mandated the CIA to declassify files that 
 	
 	
 
-### Munna Michael
-*Released on 2017-07-21, vote average 7.2*
+### Diana, Our Mother: Her Life and Legacy
+*Released on 2017-07-24, vote average 8*
 
-Munna is an orphan brought up by an ageing chorus dancer Michael in a Mumbai chawl. The boy grows up idolising Michael Jackson. To realise his dream of grooving like the King of Pop, he even agrees to tutor a hoodlum, Mahindar Fauji. Their bromance turns ugly when both end up falling in love with Deepika aka Dolly.
+Diana, Our Mother features interviews with HRH The Duke of Cambridge and HRH Prince Harry, both of whom talk openly about their mother and pay tribute to the many ways her influence has shaped their lives. The film offers a fresh and revealing insight into Princess Diana through the personal and intimate reflections of her two sons and her friends and family, many of whom have never spoken publicly before, to bring together a unique portrait of an iconic person who touched the lives of millions.  The 65-minute film includes never-before-seen photographs of Diana, taken from an album that she had assembled. The brothers look through the private family album and recall some of the most joyful and touching moments from their childhood.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/1YOfv5tIGwU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/5hkdZSOGK58?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -336,25 +351,6 @@ Munna is an orphan brought up by an ageing chorus dancer Michael in a Mumbai cha
 	
 	
 
-### Atomic Blonde
-*Released on 2017-07-26, vote average 6.5*
-
-An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/HNKX2Ymfhbg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
 ### The Dark Tower
 *Released on 2017-07-27, vote average 2.2*
 
@@ -369,6 +365,8 @@ The last Gunslinger, Roland Deschain, has been locked in an eternal battle with 
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
