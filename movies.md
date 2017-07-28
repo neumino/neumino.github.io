@@ -45,16 +45,9 @@ Miraculous evacuation of Allied soldiers from Belgium, Britain, Canada, and Fran
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Valerian and the City of a Thousand Planets
-*Released on 2017-07-20, vote average 6.6*
+*Released on 2017-07-20, vote average 6.8*
 
 In the 28th century, Valerian and Laureline are special operatives charged with keeping order throughout the human territories. On assignment from the Minister of Defense, the two undertake a mission to Alpha, an ever-expanding metropolis where species from across the universe have converged over centuries to share knowledge, intelligence, and cultures. At the center of Alpha is a mysterious dark force which threatens the peaceful existence of the City of a Thousand Planets, and Valerian and Laureline must race to identify the menace and safeguard not just Alpha, but the future of the universe.
 
@@ -97,30 +90,8 @@ An undercover MI6 agent is sent to Berlin during the Cold War to investigate the
 	
 	
 
-### Girls Trip
-*Released on 2017-07-21, vote average 6*
-
-Four girlfriends take a trip to New Orleans for an annual festival and, along the way, rediscover their wild sides and strengthen the bonds of sisterhood.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2A3TcTcnYFQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Dark Tower
-*Released on 2017-07-27, vote average 2.2*
+*Released on 2017-07-27, vote average 2.5*
 
 The last Gunslinger, Roland Deschain, has been locked in an eternal battle with Walter O’Dim, also known as the Man in Black, determined to prevent him from toppling the Dark Tower, which holds the universe together. With the fate of the worlds at stake, good and evil will collide in the ultimate battle as only Roland can defend the Tower from the Man in Black.
 
@@ -141,16 +112,38 @@ The last Gunslinger, Roland Deschain, has been locked in an eternal battle with 
 	
 	
 
-### Descendants 2
-*Released on 2017-07-21, vote average 8.3*
+### Girls Trip
+*Released on 2017-07-21, vote average 7*
 
-When the pressure to be royal becomes too much for Mal, she returns to the Isle of the Lost where her archenemy Uma, Ursula&#39;s daughter, has taken her spot as self-proclaimed queen.
+Four girlfriends take a trip to New Orleans for an annual festival and, along the way, rediscover their wild sides and strengthen the bonds of sisterhood.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/iwE57nUG80?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/2A3TcTcnYFQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Emoji Movie
+*Released on 2017-07-28, vote average 2.9*
+
+Gene, a multi-expressional emoji, sets out on a journey to become a normal emoji.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KFv5bgIOlg4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -164,7 +157,7 @@ When the pressure to be royal becomes too much for Mal, she returns to the Isle 
 	
 
 ### First Kill
-*Released on 2017-07-21, vote average 4.8*
+*Released on 2017-07-21, vote average 4.7*
 
 A police chief tries to solve a kidnapping that involves a bank robber holding a young boy hostage.
 
@@ -185,118 +178,20 @@ A police chief tries to solve a kidnapping that involves a bank robber holding a
 	
 	
 
-### Feed
-*Released on 2017-07-18, vote average 8*
+### Descendants 2
+*Released on 2017-07-21, vote average 8*
 
-Olivia and Matthew Grey, 18-year-old twins born into a world of privilege and high expectations. There are almost no boundaries between them - even their dreams are connected.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tFqV9xtw0Ig?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Munna Michael
-*Released on 2017-07-21, vote average 7.2*
-
-Munna is an orphan brought up by an ageing chorus dancer Michael in a Mumbai chawl. The boy grows up idolising Michael Jackson. To realise his dream of grooving like the King of Pop, he even agrees to tutor a hoodlum, Mahindar Fauji. Their bromance turns ugly when both end up falling in love with Deepika aka Dolly.
+When the pressure to be royal becomes too much for Mal, she returns to the Isle of the Lost where her archenemy Uma, Ursula&#39;s daughter, has taken her spot as self-proclaimed queen.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/1YOfv5tIGwU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/iwE57nUG80?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### Wu Kong
-*Released on 2017-07-13, vote average 9.8*
-
-The story tells the story of Sun Wukong (Eddie Peng) and Erlang Shen (Shawn Yue), who comes to the Immortal Mountain to cultivate their skills. They gained friendship, experienced love and ultimately betrayal, growing throughout their life journey.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EpFQaYv8MV4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Origin Wars
-*Released on 2017-07-24, vote average 6.9*
-
-Set in the future in a time of interplanetary colonisation, Sy, escapes a brutal prison where mysterious experiments have been taking place under the watch of a savage warden. After orchestrating an escape, Sy meets Kane, a lieutenant working for an off-world military contractor - EXOR, who have set in motion a plan to wipe out all life from the face of the planet in an attempt to cover up their crimes - when their terrifying “experiments” escape. Now, the unlikely pair must work together to rescue Kane’s young daughter, Indi, and reach safety before it’s too late. Teaming up with a pair of rough-and-ready outlaws, Gyp and Bill, it’s a race against time for the group as they clash with EXOR in an attempt to escape while battling the savage creatures that roam the barren planet.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ah2f2FlOcOE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Gracefield Incident
-*Released on 2017-07-21, vote average 5.9*
-
-On August 16, 2013, the Supreme Court mandated the CIA to declassify files that had been kept secret for the past 75 years. Visual records of documented paranormal events were released to the public. The following incident took place in Gracefield, Quebec.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/z4LRvzyHN9Q?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -330,6 +225,92 @@ Diana, Our Mother features interviews with HRH The Duke of Cambridge and HRH Pri
 
 
 	
+	
+
+### The Gracefield Incident
+*Released on 2017-07-21, vote average 5.3*
+
+On August 16, 2013, the Supreme Court mandated the CIA to declassify files that had been kept secret for the past 75 years. Visual records of documented paranormal events were released to the public. The following incident took place in Gracefield, Quebec.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/z4LRvzyHN9Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Origin Wars
+*Released on 2017-07-24, vote average 6.9*
+
+Set in the future in a time of interplanetary colonisation, Sy, escapes a brutal prison where mysterious experiments have been taking place under the watch of a savage warden. After orchestrating an escape, Sy meets Kane, a lieutenant working for an off-world military contractor - EXOR, who have set in motion a plan to wipe out all life from the face of the planet in an attempt to cover up their crimes - when their terrifying “experiments” escape. Now, the unlikely pair must work together to rescue Kane’s young daughter, Indi, and reach safety before it’s too late. Teaming up with a pair of rough-and-ready outlaws, Gyp and Bill, it’s a race against time for the group as they clash with EXOR in an attempt to escape while battling the savage creatures that roam the barren planet.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ah2f2FlOcOE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Feed
+*Released on 2017-07-18, vote average 7.4*
+
+Olivia and Matthew Grey, 18-year-old twins born into a world of privilege and high expectations. There are almost no boundaries between them - even their dreams are connected.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/tFqV9xtw0Ig?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 
   
 
@@ -351,16 +332,16 @@ Diana, Our Mother features interviews with HRH The Duke of Cambridge and HRH Pri
 	
 	
 
-### The Dark Tower
-*Released on 2017-07-27, vote average 2.2*
+### The Emoji Movie
+*Released on 2017-07-28, vote average 2.9*
 
-The last Gunslinger, Roland Deschain, has been locked in an eternal battle with Walter O’Dim, also known as the Man in Black, determined to prevent him from toppling the Dark Tower, which holds the universe together. With the fate of the worlds at stake, good and evil will collide in the ultimate battle as only Roland can defend the Tower from the Man in Black.
+Gene, a multi-expressional emoji, sets out on a journey to become a normal emoji.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/GjwfqXTebIY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/KFv5bgIOlg4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -379,6 +360,23 @@ The last Gunslinger, Roland Deschain, has been locked in an eternal battle with 
 
 	
 
+	
+	
+
+### Menashe
+*Released on 2017-07-28, vote average 7.5*
+
+Within Brooklyn’s ultra-orthodox Jewish community, a widower battles for custody of his son.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/83UoZcdX__Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
