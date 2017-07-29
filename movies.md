@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Dunkirk
-*Released on 2017-07-19, vote average 7.5*
+*Released on 2017-07-19, vote average 7.6*
 
 Miraculous evacuation of Allied soldiers from Belgium, Britain, Canada, and France, who were cut off and surrounded by the German army from the beaches and harbor of Dunkirk, France, between May 26 and June 04, 1940, during Battle of France in World War II.
 
@@ -69,7 +69,7 @@ In the 28th century, Valerian and Laureline are special operatives charged with 
 	
 
 ### Atomic Blonde
-*Released on 2017-07-26, vote average 6.1*
+*Released on 2017-07-26, vote average 6.3*
 
 An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents.
 
@@ -90,30 +90,8 @@ An undercover MI6 agent is sent to Berlin during the Cold War to investigate the
 	
 	
 
-### The Dark Tower
-*Released on 2017-07-27, vote average 2.5*
-
-The last Gunslinger, Roland Deschain, has been locked in an eternal battle with Walter O’Dim, also known as the Man in Black, determined to prevent him from toppling the Dark Tower, which holds the universe together. With the fate of the worlds at stake, good and evil will collide in the ultimate battle as only Roland can defend the Tower from the Man in Black.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/GjwfqXTebIY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Girls Trip
-*Released on 2017-07-21, vote average 7*
+*Released on 2017-07-21, vote average 7.2*
 
 Four girlfriends take a trip to New Orleans for an annual festival and, along the way, rediscover their wild sides and strengthen the bonds of sisterhood.
 
@@ -134,8 +112,30 @@ Four girlfriends take a trip to New Orleans for an annual festival and, along th
 	
 	
 
+### The Dark Tower
+*Released on 2017-07-27, vote average 3.2*
+
+The last Gunslinger, Roland Deschain, has been locked in an eternal battle with Walter O’Dim, also known as the Man in Black, determined to prevent him from toppling the Dark Tower, which holds the universe together. With the fate of the worlds at stake, good and evil will collide in the ultimate battle as only Roland can defend the Tower from the Man in Black.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/GjwfqXTebIY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Emoji Movie
-*Released on 2017-07-28, vote average 2.9*
+*Released on 2017-07-28, vote average 4.6*
 
 Gene, a multi-expressional emoji, sets out on a journey to become a normal emoji.
 
@@ -157,7 +157,7 @@ Gene, a multi-expressional emoji, sets out on a journey to become a normal emoji
 	
 
 ### First Kill
-*Released on 2017-07-21, vote average 4.7*
+*Released on 2017-07-21, vote average 4.6*
 
 A police chief tries to solve a kidnapping that involves a bank robber holding a young boy hostage.
 
@@ -179,7 +179,7 @@ A police chief tries to solve a kidnapping that involves a bank robber holding a
 	
 
 ### Descendants 2
-*Released on 2017-07-21, vote average 8*
+*Released on 2017-07-21, vote average 7.9*
 
 When the pressure to be royal becomes too much for Mal, she returns to the Isle of the Lost where her archenemy Uma, Ursula&#39;s daughter, has taken her spot as self-proclaimed queen.
 
@@ -192,6 +192,21 @@ When the pressure to be royal becomes too much for Mal, she returns to the Isle 
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -214,6 +229,26 @@ Diana, Our Mother features interviews with HRH The Duke of Cambridge and HRH Pri
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -256,75 +291,6 @@ On August 16, 2013, the Supreme Court mandated the CIA to declassify files that 
   
 
 
-	
-	
-
-### Origin Wars
-*Released on 2017-07-24, vote average 6.9*
-
-Set in the future in a time of interplanetary colonisation, Sy, escapes a brutal prison where mysterious experiments have been taking place under the watch of a savage warden. After orchestrating an escape, Sy meets Kane, a lieutenant working for an off-world military contractor - EXOR, who have set in motion a plan to wipe out all life from the face of the planet in an attempt to cover up their crimes - when their terrifying “experiments” escape. Now, the unlikely pair must work together to rescue Kane’s young daughter, Indi, and reach safety before it’s too late. Teaming up with a pair of rough-and-ready outlaws, Gyp and Bill, it’s a race against time for the group as they clash with EXOR in an attempt to escape while battling the savage creatures that roam the barren planet.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ah2f2FlOcOE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Feed
-*Released on 2017-07-18, vote average 7.4*
-
-Olivia and Matthew Grey, 18-year-old twins born into a world of privilege and high expectations. There are almost no boundaries between them - even their dreams are connected.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tFqV9xtw0Ig?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -332,16 +298,16 @@ Olivia and Matthew Grey, 18-year-old twins born into a world of privilege and hi
 	
 	
 
-### The Emoji Movie
-*Released on 2017-07-28, vote average 2.9*
+### Savage Dog
+*Released on 2017-08-04, vote average 4*
 
-Gene, a multi-expressional emoji, sets out on a journey to become a normal emoji.
+A story set in Indochina in 1959, a lawless land controlled by the criminal class: Vietnamese warlords and European war-criminals. Den-Dhin-Chan Labor Camp is run by four such dangerous men. The worst prison in the land, it is here that an Irish, former-champion boxer Martin Tillman has made a name for himself fighting tournaments, on which wealthy criminals gamble in high stakes events. When Tillman is due for release, he just wants to return home, but the corrupt forces running the jail will do everything in their power to keep him locked down. When all that Tillman holds dear is taken away in a vicious act of violence, he is forced to confront the men responsible and take his revenge.  The birth of a legend.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/KFv5bgIOlg4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/hMhn-LrF7QI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -360,23 +326,6 @@ Gene, a multi-expressional emoji, sets out on a journey to become a normal emoji
 
 	
 
-	
-	
-
-### Menashe
-*Released on 2017-07-28, vote average 7.5*
-
-Within Brooklyn’s ultra-orthodox Jewish community, a widower battles for custody of his son.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/83UoZcdX__Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
