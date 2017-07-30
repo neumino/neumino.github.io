@@ -90,6 +90,28 @@ An undercover MI6 agent is sent to Berlin during the Cold War to investigate the
 	
 	
 
+### The Emoji Movie
+*Released on 2017-07-28, vote average 5*
+
+Gene, a multi-expressional emoji, sets out on a journey to become a normal emoji.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KFv5bgIOlg4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Girls Trip
 *Released on 2017-07-21, vote average 7.2*
 
@@ -113,7 +135,7 @@ Four girlfriends take a trip to New Orleans for an annual festival and, along th
 	
 
 ### The Dark Tower
-*Released on 2017-07-27, vote average 3.2*
+*Released on 2017-07-27, vote average 4.2*
 
 The last Gunslinger, Roland Deschain, has been locked in an eternal battle with Walter O’Dim, also known as the Man in Black, determined to prevent him from toppling the Dark Tower, which holds the universe together. With the fate of the worlds at stake, good and evil will collide in the ultimate battle as only Roland can defend the Tower from the Man in Black.
 
@@ -134,16 +156,16 @@ The last Gunslinger, Roland Deschain, has been locked in an eternal battle with 
 	
 	
 
-### The Emoji Movie
-*Released on 2017-07-28, vote average 4.6*
+### Descendants 2
+*Released on 2017-07-21, vote average 8.1*
 
-Gene, a multi-expressional emoji, sets out on a journey to become a normal emoji.
+When the pressure to be royal becomes too much for Mal, she returns to the Isle of the Lost where her archenemy Uma, Ursula&#39;s daughter, has taken her spot as self-proclaimed queen.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/KFv5bgIOlg4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/iwE57nUG80?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -175,23 +197,6 @@ A police chief tries to solve a kidnapping that involves a bank robber holding a
   
 
 
-	
-	
-
-### Descendants 2
-*Released on 2017-07-21, vote average 7.9*
-
-When the pressure to be royal becomes too much for Mal, she returns to the Isle of the Lost where her archenemy Uma, Ursula&#39;s daughter, has taken her spot as self-proclaimed queen.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/iwE57nUG80?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -235,31 +240,6 @@ Diana, Our Mother features interviews with HRH The Duke of Cambridge and HRH Pri
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### The Gracefield Incident
@@ -291,9 +271,31 @@ On August 16, 2013, the Supreme Court mandated the CIA to declassify files that 
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 
 ## Opening soon
 
+
+	
 
 	
 	
@@ -312,8 +314,6 @@ A story set in Indochina in 1959, a lawless land controlled by the criminal clas
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
