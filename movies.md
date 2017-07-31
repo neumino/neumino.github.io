@@ -90,16 +90,16 @@ An undercover MI6 agent is sent to Berlin during the Cold War to investigate the
 	
 	
 
-### The Emoji Movie
-*Released on 2017-07-28, vote average 5*
+### Girls Trip
+*Released on 2017-07-21, vote average 6.7*
 
-Gene, a multi-expressional emoji, sets out on a journey to become a normal emoji.
+Four girlfriends take a trip to New Orleans for an annual festival and, along the way, rediscover their wild sides and strengthen the bonds of sisterhood.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/KFv5bgIOlg4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/2A3TcTcnYFQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,16 +112,16 @@ Gene, a multi-expressional emoji, sets out on a journey to become a normal emoji
 	
 	
 
-### Girls Trip
-*Released on 2017-07-21, vote average 7.2*
+### The Emoji Movie
+*Released on 2017-07-28, vote average 4.1*
 
-Four girlfriends take a trip to New Orleans for an annual festival and, along the way, rediscover their wild sides and strengthen the bonds of sisterhood.
+Gene, a multi-expressional emoji, sets out on a journey to become a normal emoji.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/2A3TcTcnYFQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/KFv5bgIOlg4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -157,7 +157,7 @@ The last Gunslinger, Roland Deschain, has been locked in an eternal battle with 
 	
 
 ### Descendants 2
-*Released on 2017-07-21, vote average 8.1*
+*Released on 2017-07-21, vote average 8.2*
 
 When the pressure to be royal becomes too much for Mal, she returns to the Isle of the Lost where her archenemy Uma, Ursula&#39;s daughter, has taken her spot as self-proclaimed queen.
 
@@ -179,7 +179,7 @@ When the pressure to be royal becomes too much for Mal, she returns to the Isle 
 	
 
 ### First Kill
-*Released on 2017-07-21, vote average 4.6*
+*Released on 2017-07-21, vote average 5.1*
 
 A police chief tries to solve a kidnapping that involves a bank robber holding a young boy hostage.
 
@@ -218,23 +218,6 @@ A police chief tries to solve a kidnapping that involves a bank robber holding a
 
 
 	
-	
-
-### Diana, Our Mother: Her Life and Legacy
-*Released on 2017-07-24, vote average 8*
-
-Diana, Our Mother features interviews with HRH The Duke of Cambridge and HRH Prince Harry, both of whom talk openly about their mother and pay tribute to the many ways her influence has shaped their lives. The film offers a fresh and revealing insight into Princess Diana through the personal and intimate reflections of her two sons and her friends and family, many of whom have never spoken publicly before, to bring together a unique portrait of an iconic person who touched the lives of millions.  The 65-minute film includes never-before-seen photographs of Diana, taken from an album that she had assembled. The brothers look through the private family album and recall some of the most joyful and touching moments from their childhood.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/5hkdZSOGK58?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -272,6 +255,23 @@ On August 16, 2013, the Supreme Court mandated the CIA to declassify files that 
 
 
 	
+	
+
+### Diana, Our Mother: Her Life and Legacy
+*Released on 2017-07-24, vote average 8*
+
+Diana, Our Mother features interviews with HRH The Duke of Cambridge and HRH Prince Harry, both of whom talk openly about their mother and pay tribute to the many ways her influence has shaped their lives. The film offers a fresh and revealing insight into Princess Diana through the personal and intimate reflections of her two sons and her friends and family, many of whom have never spoken publicly before, to bring together a unique portrait of an iconic person who touched the lives of millions.  The 65-minute film includes never-before-seen photographs of Diana, taken from an album that she had assembled. The brothers look through the private family album and recall some of the most joyful and touching moments from their childhood.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5hkdZSOGK58?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -295,6 +295,23 @@ On August 16, 2013, the Supreme Court mandated the CIA to declassify files that 
 ## Opening soon
 
 
+	
+	
+
+### Kidnap
+*Released on 2017-08-04, vote average 4.1*
+
+Single mother Karla McCoy lives a perfect life with her young son Frankie. One day, upon entering a local park, Karla sees her son suddenly being abducted out of the blue by a kidnapper. To save Frankie from being taken, Karla goes out on a mission to demand people in the city to help rescue her son.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/R-Ht8VRPRvU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
