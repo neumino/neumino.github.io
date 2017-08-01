@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Dunkirk
-*Released on 2017-07-19, vote average 7.6*
+*Released on 2017-07-19, vote average 7.5*
 
 Miraculous evacuation of Allied soldiers from Belgium, Britain, Canada, and France, who were cut off and surrounded by the German army from the beaches and harbor of Dunkirk, France, between May 26 and June 04, 1940, during Battle of France in World War II.
 
@@ -69,7 +69,7 @@ In the 28th century, Valerian and Laureline are special operatives charged with 
 	
 
 ### Atomic Blonde
-*Released on 2017-07-26, vote average 6.3*
+*Released on 2017-07-26, vote average 5.9*
 
 An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents.
 
@@ -78,6 +78,28 @@ An undercover MI6 agent is sent to Berlin during the Cold War to investigate the
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/HNKX2Ymfhbg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Emoji Movie
+*Released on 2017-07-28, vote average 4.3*
+
+Gene, a multi-expressional emoji, sets out on a journey to become a normal emoji.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KFv5bgIOlg4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,30 +134,8 @@ Four girlfriends take a trip to New Orleans for an annual festival and, along th
 	
 	
 
-### The Emoji Movie
-*Released on 2017-07-28, vote average 4.1*
-
-Gene, a multi-expressional emoji, sets out on a journey to become a normal emoji.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/KFv5bgIOlg4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Dark Tower
-*Released on 2017-07-27, vote average 4.2*
+*Released on 2017-07-27, vote average 4.1*
 
 The last Gunslinger, Roland Deschain, has been locked in an eternal battle with Walter O’Dim, also known as the Man in Black, determined to prevent him from toppling the Dark Tower, which holds the universe together. With the fate of the worlds at stake, good and evil will collide in the ultimate battle as only Roland can defend the Tower from the Man in Black.
 
@@ -179,7 +179,7 @@ When the pressure to be royal becomes too much for Mal, she returns to the Isle 
 	
 
 ### First Kill
-*Released on 2017-07-21, vote average 5.1*
+*Released on 2017-07-21, vote average 5.2*
 
 A police chief tries to solve a kidnapping that involves a bank robber holding a young boy hostage.
 
@@ -208,36 +208,6 @@ A police chief tries to solve a kidnapping that involves a bank robber holding a
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Gracefield Incident
-*Released on 2017-07-21, vote average 5.3*
-
-On August 16, 2013, the Supreme Court mandated the CIA to declassify files that had been kept secret for the past 75 years. Visual records of documented paranormal events were released to the public. The following incident took place in Gracefield, Quebec.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/z4LRvzyHN9Q?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -255,22 +225,20 @@ On August 16, 2013, the Supreme Court mandated the CIA to declassify files that 
 
 
 	
-	
 
-### Diana, Our Mother: Her Life and Legacy
-*Released on 2017-07-24, vote average 8*
+  
 
-Diana, Our Mother features interviews with HRH The Duke of Cambridge and HRH Prince Harry, both of whom talk openly about their mother and pay tribute to the many ways her influence has shaped their lives. The film offers a fresh and revealing insight into Princess Diana through the personal and intimate reflections of her two sons and her friends and family, many of whom have never spoken publicly before, to bring together a unique portrait of an iconic person who touched the lives of millions.  The 65-minute film includes never-before-seen photographs of Diana, taken from an album that she had assembled. The brothers look through the private family album and recall some of the most joyful and touching moments from their childhood.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/5hkdZSOGK58?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -299,7 +267,7 @@ Diana, Our Mother features interviews with HRH The Duke of Cambridge and HRH Pri
 	
 
 ### Kidnap
-*Released on 2017-08-04, vote average 4.1*
+*Released on 2017-08-04, vote average 4.5*
 
 Single mother Karla McCoy lives a perfect life with her young son Frankie. One day, upon entering a local park, Karla sees her son suddenly being abducted out of the blue by a kidnapper. To save Frankie from being taken, Karla goes out on a mission to demand people in the city to help rescue her son.
 
