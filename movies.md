@@ -47,7 +47,7 @@ Miraculous evacuation of Allied soldiers from Belgium, Britain, Canada, and Fran
 	
 
 ### Valerian and the City of a Thousand Planets
-*Released on 2017-07-20, vote average 6.8*
+*Released on 2017-07-20, vote average 6.9*
 
 In the 28th century, Valerian and Laureline are special operatives charged with keeping order throughout the human territories. On assignment from the Minister of Defense, the two undertake a mission to Alpha, an ever-expanding metropolis where species from across the universe have converged over centuries to share knowledge, intelligence, and cultures. At the center of Alpha is a mysterious dark force which threatens the peaceful existence of the City of a Thousand Planets, and Valerian and Laureline must race to identify the menace and safeguard not just Alpha, but the future of the universe.
 
@@ -113,7 +113,7 @@ Gene, a multi-expressional emoji, sets out on a journey to become a normal emoji
 	
 
 ### Girls Trip
-*Released on 2017-07-21, vote average 6.7*
+*Released on 2017-07-21, vote average 6.6*
 
 Four girlfriends take a trip to New Orleans for an annual festival and, along the way, rediscover their wild sides and strengthen the bonds of sisterhood.
 
@@ -122,28 +122,6 @@ Four girlfriends take a trip to New Orleans for an annual festival and, along th
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/2A3TcTcnYFQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Dark Tower
-*Released on 2017-07-27, vote average 4.1*
-
-The last Gunslinger, Roland Deschain, has been locked in an eternal battle with Walter O’Dim, also known as the Man in Black, determined to prevent him from toppling the Dark Tower, which holds the universe together. With the fate of the worlds at stake, good and evil will collide in the ultimate battle as only Roland can defend the Tower from the Man in Black.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/GjwfqXTebIY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -179,7 +157,7 @@ When the pressure to be royal becomes too much for Mal, she returns to the Isle 
 	
 
 ### First Kill
-*Released on 2017-07-21, vote average 5.2*
+*Released on 2017-07-21, vote average 5.1*
 
 A police chief tries to solve a kidnapping that involves a bank robber holding a young boy hostage.
 
@@ -220,6 +198,13 @@ A police chief tries to solve a kidnapping that involves a bank robber holding a
 
 
 	
+	
+	
+
+  
+
+
+	
 
   
 
@@ -234,6 +219,23 @@ A police chief tries to solve a kidnapping that involves a bank robber holding a
   
 
 
+	
+	
+
+### The Gracefield Incident
+*Released on 2017-07-21, vote average 5.3*
+
+On August 16, 2013, the Supreme Court mandated the CIA to declassify files that had been kept secret for the past 75 years. Visual records of documented paranormal events were released to the public. The following incident took place in Gracefield, Quebec.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/z4LRvzyHN9Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -262,6 +264,25 @@ A police chief tries to solve a kidnapping that involves a bank robber holding a
 
 ## Opening soon
 
+
+	
+	
+
+### The Dark Tower
+*Released on 2017-08-03, vote average 4*
+
+The last Gunslinger, Roland Deschain, has been locked in an eternal battle with Walter O’Dim, also known as the Man in Black, determined to prevent him from toppling the Dark Tower, which holds the universe together. With the fate of the worlds at stake, good and evil will collide in the ultimate battle as only Roland can defend the Tower from the Man in Black.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/GjwfqXTebIY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 	
@@ -304,7 +325,22 @@ A story set in Indochina in 1959, a lawless land controlled by the criminal clas
 	
 
 	
+	
 
+### Wind River
+*Released on 2017-08-03, vote average 9*
+
+An FBI agent teams with the town&#39;s veteran game tracker to investigate a murder that occurred on a Native American reservation.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/CZgN0dpFoaE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
