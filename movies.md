@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Dunkirk
-*Released on 2017-07-19, vote average 7.5*
+### Valerian and the City of a Thousand Planets
+*Released on 2017-07-20, vote average 6.9*
 
-Miraculous evacuation of Allied soldiers from Belgium, Britain, Canada, and France, who were cut off and surrounded by the German army from the beaches and harbor of Dunkirk, France, between May 26 and June 04, 1940, during Battle of France in World War II.
+In the 28th century, Valerian and Laureline are special operatives charged with keeping order throughout the human territories. On assignment from the Minister of Defense, the two undertake a mission to Alpha, an ever-expanding metropolis where species from across the universe have converged over centuries to share knowledge, intelligence, and cultures. At the center of Alpha is a mysterious dark force which threatens the peaceful existence of the City of a Thousand Planets, and Valerian and Laureline must race to identify the menace and safeguard not just Alpha, but the future of the universe.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/PC460OxDNhc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/y0n1cdoaiZE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -40,28 +40,6 @@ Miraculous evacuation of Allied soldiers from Belgium, Britain, Canada, and Fran
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-
-
-	
-	
-
-### Valerian and the City of a Thousand Planets
-*Released on 2017-07-20, vote average 6.9*
-
-In the 28th century, Valerian and Laureline are special operatives charged with keeping order throughout the human territories. On assignment from the Minister of Defense, the two undertake a mission to Alpha, an ever-expanding metropolis where species from across the universe have converged over centuries to share knowledge, intelligence, and cultures. At the center of Alpha is a mysterious dark force which threatens the peaceful existence of the City of a Thousand Planets, and Valerian and Laureline must race to identify the menace and safeguard not just Alpha, but the future of the universe.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/y0n1cdoaiZE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
   
 
 
@@ -113,7 +91,7 @@ Gene, a multi-expressional emoji, sets out on a journey to become a normal emoji
 	
 
 ### Girls Trip
-*Released on 2017-07-21, vote average 6.6*
+*Released on 2017-07-21, vote average 6.7*
 
 Four girlfriends take a trip to New Orleans for an annual festival and, along the way, rediscover their wild sides and strengthen the bonds of sisterhood.
 
@@ -134,16 +112,16 @@ Four girlfriends take a trip to New Orleans for an annual festival and, along th
 	
 	
 
-### Descendants 2
-*Released on 2017-07-21, vote average 8.2*
+### The Dark Tower
+*Released on 2017-08-03, vote average 4.7*
 
-When the pressure to be royal becomes too much for Mal, she returns to the Isle of the Lost where her archenemy Uma, Ursula&#39;s daughter, has taken her spot as self-proclaimed queen.
+The last Gunslinger, Roland Deschain, has been locked in an eternal battle with Walter O’Dim, also known as the Man in Black, determined to prevent him from toppling the Dark Tower, which holds the universe together. With the fate of the worlds at stake, good and evil will collide in the ultimate battle as only Roland can defend the Tower from the Man in Black.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/iwE57nUG80?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/GjwfqXTebIY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -176,62 +154,50 @@ A police chief tries to solve a kidnapping that involves a bank robber holding a
 
 
 	
-
-  
-
-
 	
 
-  
+### Descendants 2
+*Released on 2017-07-21, vote average 8.2*
 
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Gracefield Incident
-*Released on 2017-07-21, vote average 5.3*
-
-On August 16, 2013, the Supreme Court mandated the CIA to declassify files that had been kept secret for the past 75 years. Visual records of documented paranormal events were released to the public. The following incident took place in Gracefield, Quebec.
+When the pressure to be royal becomes too much for Mal, she returns to the Isle of the Lost where her archenemy Uma, Ursula&#39;s daughter, has taken her spot as self-proclaimed queen.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/z4LRvzyHN9Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/iwE57nUG80?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Wind River
+*Released on 2017-08-03, vote average 9*
+
+An FBI agent teams with the town&#39;s veteran game tracker to investigate a murder that occurred on a Native American reservation.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/CZgN0dpFoaE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -261,6 +227,38 @@ On August 16, 2013, the Supreme Court mandated the CIA to declassify files that 
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -269,7 +267,7 @@ On August 16, 2013, the Supreme Court mandated the CIA to declassify files that 
 	
 
 ### The Dark Tower
-*Released on 2017-08-03, vote average 4*
+*Released on 2017-08-03, vote average 4.7*
 
 The last Gunslinger, Roland Deschain, has been locked in an eternal battle with Walter O’Dim, also known as the Man in Black, determined to prevent him from toppling the Dark Tower, which holds the universe together. With the fate of the worlds at stake, good and evil will collide in the ultimate battle as only Roland can defend the Tower from the Man in Black.
 
@@ -355,6 +353,23 @@ An FBI agent teams with the town&#39;s veteran game tracker to investigate a mur
 
 	
 
+	
+	
+
+### Jab Harry met Sejal
+*Released on 2017-08-03, vote average 10*
+
+This is love story based in the land of beautiful Europe
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0Oz8zFwEn0E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
