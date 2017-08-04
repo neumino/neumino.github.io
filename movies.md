@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Valerian and the City of a Thousand Planets
-*Released on 2017-07-20, vote average 6.9*
+### Atomic Blonde
+*Released on 2017-07-26, vote average 5.7*
 
-In the 28th century, Valerian and Laureline are special operatives charged with keeping order throughout the human territories. On assignment from the Minister of Defense, the two undertake a mission to Alpha, an ever-expanding metropolis where species from across the universe have converged over centuries to share knowledge, intelligence, and cultures. At the center of Alpha is a mysterious dark force which threatens the peaceful existence of the City of a Thousand Planets, and Valerian and Laureline must race to identify the menace and safeguard not just Alpha, but the future of the universe.
+An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/y0n1cdoaiZE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/HNKX2Ymfhbg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ In the 28th century, Valerian and Laureline are special operatives charged with 
 	
 	
 
-### Atomic Blonde
-*Released on 2017-07-26, vote average 5.9*
+### The Dark Tower
+*Released on 2017-08-03, vote average 4.7*
 
-An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents.
+The last Gunslinger, Roland Deschain, has been locked in an eternal battle with Walter O’Dim, also known as the Man in Black, determined to prevent him from toppling the Dark Tower, which holds the universe together. With the fate of the worlds at stake, good and evil will collide in the ultimate battle as only Roland can defend the Tower from the Man in Black.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/HNKX2Ymfhbg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/GjwfqXTebIY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@ An undercover MI6 agent is sent to Berlin during the Cold War to investigate the
 	
 
 ### The Emoji Movie
-*Released on 2017-07-28, vote average 4.3*
+*Released on 2017-07-28, vote average 4.4*
 
 Gene, a multi-expressional emoji, sets out on a journey to become a normal emoji.
 
@@ -91,7 +91,7 @@ Gene, a multi-expressional emoji, sets out on a journey to become a normal emoji
 	
 
 ### Girls Trip
-*Released on 2017-07-21, vote average 6.7*
+*Released on 2017-07-21, vote average 6.6*
 
 Four girlfriends take a trip to New Orleans for an annual festival and, along the way, rediscover their wild sides and strengthen the bonds of sisterhood.
 
@@ -112,16 +112,38 @@ Four girlfriends take a trip to New Orleans for an annual festival and, along th
 	
 	
 
-### The Dark Tower
-*Released on 2017-08-03, vote average 4.7*
+### Kidnap
+*Released on 2017-08-04, vote average 5.2*
 
-The last Gunslinger, Roland Deschain, has been locked in an eternal battle with Walter O’Dim, also known as the Man in Black, determined to prevent him from toppling the Dark Tower, which holds the universe together. With the fate of the worlds at stake, good and evil will collide in the ultimate battle as only Roland can defend the Tower from the Man in Black.
+Single mother Karla McCoy lives a perfect life with her young son Frankie. One day, upon entering a local park, Karla sees her son suddenly being abducted out of the blue by a kidnapper. To save Frankie from being taken, Karla goes out on a mission to demand people in the city to help rescue her son.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/GjwfqXTebIY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/R-Ht8VRPRvU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Savage Dog
+*Released on 2017-08-04, vote average 4*
+
+A story set in Indochina in 1959, a lawless land controlled by the criminal class: Vietnamese warlords and European war-criminals. Den-Dhin-Chan Labor Camp is run by four such dangerous men. The worst prison in the land, it is here that an Irish, former-champion boxer Martin Tillman has made a name for himself fighting tournaments, on which wealthy criminals gamble in high stakes events. When Tillman is due for release, he just wants to return home, but the corrupt forces running the jail will do everything in their power to keep him locked down. When all that Tillman holds dear is taken away in a vicious act of violence, he is forced to confront the men responsible and take his revenge.  The birth of a legend.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hMhn-LrF7QI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -176,16 +198,6 @@ When the pressure to be royal becomes too much for Mal, she returns to the Isle 
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### Wind River
@@ -238,12 +250,32 @@ An FBI agent teams with the town&#39;s veteran game tracker to investigate a mur
 
 
 	
-	
+
+  
+
+
 	
 
   
 
 
+	
+	
+
+### The Gracefield Incident
+*Released on 2017-07-21, vote average 5.3*
+
+On August 16, 2013, the Supreme Court mandated the CIA to declassify files that had been kept secret for the past 75 years. Visual records of documented paranormal events were released to the public. The following incident took place in Gracefield, Quebec.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/z4LRvzyHN9Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -266,27 +298,8 @@ An FBI agent teams with the town&#39;s veteran game tracker to investigate a mur
 	
 	
 
-### The Dark Tower
-*Released on 2017-08-03, vote average 4.7*
-
-The last Gunslinger, Roland Deschain, has been locked in an eternal battle with Walter O’Dim, also known as the Man in Black, determined to prevent him from toppling the Dark Tower, which holds the universe together. With the fate of the worlds at stake, good and evil will collide in the ultimate battle as only Roland can defend the Tower from the Man in Black.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/GjwfqXTebIY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
 ### Kidnap
-*Released on 2017-08-04, vote average 4.5*
+*Released on 2017-08-04, vote average 5.2*
 
 Single mother Karla McCoy lives a perfect life with her young son Frankie. One day, upon entering a local park, Karla sees her son suddenly being abducted out of the blue by a kidnapper. To save Frankie from being taken, Karla goes out on a mission to demand people in the city to help rescue her son.
 
@@ -321,20 +334,18 @@ A story set in Indochina in 1959, a lawless land controlled by the criminal clas
 	
 
 	
-
-	
 	
 
-### Wind River
-*Released on 2017-08-03, vote average 9*
+### Annabelle: Creation
+*Released on 2017-08-09, vote average 10*
 
-An FBI agent teams with the town&#39;s veteran game tracker to investigate a murder that occurred on a Native American reservation.
+Several years after the tragic death of their little girl, a dollmaker and his wife welcome a nun and several girls from a shuttered orphanage into their home, soon becoming the target of the dollmaker&#39;s possessed creation, Annabelle.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/CZgN0dpFoaE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/KisPhy7T__Q?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -354,22 +365,9 @@ An FBI agent teams with the town&#39;s veteran game tracker to investigate a mur
 	
 
 	
-	
-
-### Jab Harry met Sejal
-*Released on 2017-08-03, vote average 10*
-
-This is love story based in the land of beautiful Europe
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0Oz8zFwEn0E?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
 	
 
 	
