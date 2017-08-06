@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Atomic Blonde
-*Released on 2017-07-26, vote average 5.6*
+*Released on 2017-07-26, vote average 5.5*
 
 An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents.
 
@@ -159,16 +159,6 @@ An FBI agent teams with the town&#39;s veteran game tracker to investigate a mur
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### Detroit
@@ -185,16 +175,6 @@ A police raid in Detroit in 1967 results in one of the largest citizens&#39; upr
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -235,6 +215,8 @@ A SWAT compound comes under fire from an international terrorist who relentlessl
 
 
 	
+	
+	
 
   
 
@@ -250,22 +232,27 @@ A SWAT compound comes under fire from an international terrorist who relentlessl
 
 
 	
-	
 
-### Jab Harry met Sejal
-*Released on 2017-08-03, vote average 10*
+  
 
-This is love story based in the land of beautiful Europe
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0Oz8zFwEn0E?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
