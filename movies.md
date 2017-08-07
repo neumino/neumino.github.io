@@ -154,15 +154,10 @@ An FBI agent teams with the town&#39;s veteran game tracker to investigate a mur
 
 
 	
-
-  
-
-
-	
 	
 
 ### Detroit
-*Released on 2017-07-28, vote average 6*
+*Released on 2017-07-28, vote average 5*
 
 A police raid in Detroit in 1967 results in one of the largest citizens&#39; uprisings in the history of the United States.
 
@@ -182,16 +177,9 @@ A police raid in Detroit in 1967 results in one of the largest citizens&#39; upr
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### S.W.A.T. Under Siege
-*Released on 2017-08-01, vote average 5.5*
+*Released on 2017-08-01, vote average 5.8*
 
 A SWAT compound comes under fire from an international terrorist who relentlessly and violently pursues a mystery man who was apprehended by Seattle SWAT after a raid went horribly wrong.
 
@@ -215,23 +203,6 @@ A SWAT compound comes under fire from an international terrorist who relentlessl
 
 
 	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 
   
 
@@ -254,10 +225,62 @@ A SWAT compound comes under fire from an international terrorist who relentlessl
 
 
 	
+	
+
+### Jab Harry met Sejal
+*Released on 2017-08-03, vote average 6*
+
+This is love story based in the land of beautiful Europe
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0Oz8zFwEn0E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
 	
 
   
