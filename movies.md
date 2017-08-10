@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Dark Tower
-*Released on 2017-08-03, vote average 4.9*
+*Released on 2017-08-03, vote average 5.4*
 
 The last Gunslinger, Roland Deschain, has been locked in an eternal battle with Walter O’Dim, also known as the Man in Black, determined to prevent him from toppling the Dark Tower, which holds the universe together. With the fate of the worlds at stake, good and evil will collide in the ultimate battle as only Roland can defend the Tower from the Man in Black.
 
@@ -46,30 +46,8 @@ The last Gunslinger, Roland Deschain, has been locked in an eternal battle with 
 	
 	
 
-### Atomic Blonde
-*Released on 2017-07-26, vote average 5.4*
-
-An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/HNKX2Ymfhbg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Kidnap
-*Released on 2017-08-04, vote average 5.9*
+*Released on 2017-08-04, vote average 5.8*
 
 Single mother Karla McCoy lives a perfect life with her young son Frankie. One day, upon entering a local park, Karla sees her son suddenly being abducted out of the blue by a kidnapper. To save Frankie from being taken, Karla goes out on a mission to demand people in the city to help rescue her son.
 
@@ -91,7 +69,7 @@ Single mother Karla McCoy lives a perfect life with her young son Frankie. One d
 	
 
 ### The Emoji Movie
-*Released on 2017-07-28, vote average 4.6*
+*Released on 2017-07-28, vote average 4.8*
 
 Gene, a multi-expressional emoji, sets out on a journey to become a normal emoji.
 
@@ -135,7 +113,7 @@ Several years after the tragic death of their little girl, a dollmaker and his w
 	
 
 ### Savage Dog
-*Released on 2017-08-04, vote average 4*
+*Released on 2017-08-04, vote average 3*
 
 A story set in Indochina in 1959, a lawless land controlled by the criminal class: Vietnamese warlords and European war-criminals. Den-Dhin-Chan Labor Camp is run by four such dangerous men. The worst prison in the land, it is here that an Irish, former-champion boxer Martin Tillman has made a name for himself fighting tournaments, on which wealthy criminals gamble in high stakes events. When Tillman is due for release, he just wants to return home, but the corrupt forces running the jail will do everything in their power to keep him locked down. When all that Tillman holds dear is taken away in a vicious act of violence, he is forced to confront the men responsible and take his revenge.  The birth of a legend.
 
@@ -157,7 +135,7 @@ A story set in Indochina in 1959, a lawless land controlled by the criminal clas
 	
 
 ### Wind River
-*Released on 2017-08-03, vote average 9*
+*Released on 2017-08-03, vote average 5*
 
 An FBI agent teams with the town&#39;s veteran game tracker to investigate a murder that occurred on a Native American reservation.
 
@@ -179,7 +157,7 @@ An FBI agent teams with the town&#39;s veteran game tracker to investigate a mur
 	
 
 ### Detroit
-*Released on 2017-07-28, vote average 5*
+*Released on 2017-07-28, vote average 6*
 
 A police raid in Detroit in 1967 results in one of the largest citizens&#39; uprisings in the history of the United States.
 
@@ -220,6 +198,8 @@ A SWAT compound comes under fire from an international terrorist who relentlessl
 
 
 	
+	
+	
 
   
 
@@ -231,6 +211,21 @@ A SWAT compound comes under fire from an international terrorist who relentlessl
 
 	
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -271,26 +266,10 @@ After a month-long tour of Europe, Sejal is just about to board her flight to In
 
 
 	
-	
-	
 
   
 
 
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -308,22 +287,9 @@ After a month-long tour of Europe, Sejal is just about to board her flight to In
 
 
 	
-	
-
-### Annabelle: Creation
-*Released on 2017-08-09, vote average 7.4*
-
-Several years after the tragic death of their little girl, a dollmaker and his wife welcome a nun and several girls from a shuttered orphanage into their home, soon becoming the target of the dollmaker&#39;s possessed creation, Annabelle.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/KisPhy7T__Q?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
 	
 
 	
@@ -343,10 +309,6 @@ In 13th century Ireland a group of monks must escort a sacred relic across an Ir
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
 	
 
 	
