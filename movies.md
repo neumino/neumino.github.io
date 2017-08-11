@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Dark Tower
-*Released on 2017-08-03, vote average 5.4*
+*Released on 2017-08-03, vote average 5.5*
 
 The last Gunslinger, Roland Deschain, has been locked in an eternal battle with Walter O’Dim, also known as the Man in Black, determined to prevent him from toppling the Dark Tower, which holds the universe together. With the fate of the worlds at stake, good and evil will collide in the ultimate battle as only Roland can defend the Tower from the Man in Black.
 
@@ -46,6 +46,28 @@ The last Gunslinger, Roland Deschain, has been locked in an eternal battle with 
 	
 	
 
+### Annabelle: Creation
+*Released on 2017-08-09, vote average 7.4*
+
+Several years after the tragic death of their little girl, a dollmaker and his wife welcome a nun and several girls from a shuttered orphanage into their home, soon becoming the target of the dollmaker&#39;s possessed creation, Annabelle.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KisPhy7T__Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Kidnap
 *Released on 2017-08-04, vote average 5.8*
 
@@ -69,7 +91,7 @@ Single mother Karla McCoy lives a perfect life with her young son Frankie. One d
 	
 
 ### The Emoji Movie
-*Released on 2017-07-28, vote average 4.8*
+*Released on 2017-07-28, vote average 4.9*
 
 Gene, a multi-expressional emoji, sets out on a journey to become a normal emoji.
 
@@ -78,28 +100,6 @@ Gene, a multi-expressional emoji, sets out on a journey to become a normal emoji
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/KFv5bgIOlg4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Annabelle: Creation
-*Released on 2017-08-09, vote average 7.4*
-
-Several years after the tragic death of their little girl, a dollmaker and his wife welcome a nun and several girls from a shuttered orphanage into their home, soon becoming the target of the dollmaker&#39;s possessed creation, Annabelle.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/KisPhy7T__Q?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -133,6 +133,13 @@ A story set in Indochina in 1959, a lawless land controlled by the criminal clas
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Wind River
 *Released on 2017-08-03, vote average 5*
@@ -144,6 +151,50 @@ An FBI agent teams with the town&#39;s veteran game tracker to investigate a mur
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/CZgN0dpFoaE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Pilgrimage
+*Released on 2017-08-11, vote average 8*
+
+In 13th century Ireland a group of monks must escort a sacred relic across an Irish landscape fraught with peril.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MQZ7_Uo0OI0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### S.W.A.T.: Under Siege
+*Released on 2017-08-01, vote average 6*
+
+When a D.E.A. and S.W.A.T. cartel takedown ends in a shootout, S.W.A.T. Agent Travis Hall seizes a mysterious prisoner taking him into custody. Before long, the S.W.A.T. compound is under siege by wave-after-wave of assault teams attempting to recover the prisoner known as “The Scorpion” for the tattoo blazed across his back. When Travis discovers that his prisoner is a Secret Ops double agent planted within the cartel, it’s up to him and his expert S.W.A.T. team to keep “The Scorpion” and his billion dollar secrets safe.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/H8-SFAbDu3w?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -177,62 +228,11 @@ A police raid in Detroit in 1967 results in one of the largest citizens&#39; upr
 
 	
 	
-
-### S.W.A.T. Under Siege
-*Released on 2017-08-01, vote average 5.8*
-
-A SWAT compound comes under fire from an international terrorist who relentlessly and violently pursues a mystery man who was apprehended by Seattle SWAT after a raid went horribly wrong.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/H8-SFAbDu3w?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
 
 
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -247,7 +247,7 @@ A SWAT compound comes under fire from an international terrorist who relentlessl
 	
 
 ### Jab Harry met Sejal
-*Released on 2017-08-04, vote average 5.3*
+*Released on 2017-08-04, vote average 4.8*
 
 After a month-long tour of Europe, Sejal is just about to board her flight to India, when she realises that her engagement ring is lost. In quest of the object, she hires the same tour-guide Harry  and together they set off visiting the exact same spots that she and her family visited—in the hope of finding the heirloom. Of course the journey proves to be much more…
 
@@ -259,6 +259,25 @@ After a month-long tour of Europe, Sejal is just about to board her flight to In
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -287,12 +306,6 @@ After a month-long tour of Europe, Sejal is just about to board her flight to In
 
 
 	
-
-	
-
-	
-
-	
 	
 
 ### Pilgrimage
@@ -309,6 +322,29 @@ In 13th century Ireland a group of monks must escort a sacred relic across an Ir
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+	
+
+### The Hitman&#39;s Bodyguard
+*Released on 2017-08-17, vote average 10*
+
+The world&#39;s top bodyguard gets a new client, a hit man who must testify at the International Court of Justice. They must put their differences aside and work together to make it to the trial on time.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Anps6VPe0u8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
 	
 
 	
