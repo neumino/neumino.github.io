@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Dark Tower
-*Released on 2017-08-03, vote average 5.5*
+*Released on 2017-08-03, vote average 5.6*
 
 The last Gunslinger, Roland Deschain, has been locked in an eternal battle with Walter O’Dim, also known as the Man in Black, determined to prevent him from toppling the Dark Tower, which holds the universe together. With the fate of the worlds at stake, good and evil will collide in the ultimate battle as only Roland can defend the Tower from the Man in Black.
 
@@ -47,7 +47,7 @@ The last Gunslinger, Roland Deschain, has been locked in an eternal battle with 
 	
 
 ### Annabelle: Creation
-*Released on 2017-08-09, vote average 7.4*
+*Released on 2017-08-09, vote average 7.1*
 
 Several years after the tragic death of their little girl, a dollmaker and his wife welcome a nun and several girls from a shuttered orphanage into their home, soon becoming the target of the dollmaker&#39;s possessed creation, Annabelle.
 
@@ -69,7 +69,7 @@ Several years after the tragic death of their little girl, a dollmaker and his w
 	
 
 ### Kidnap
-*Released on 2017-08-04, vote average 5.8*
+*Released on 2017-08-04, vote average 5.9*
 
 Single mother Karla McCoy lives a perfect life with her young son Frankie. One day, upon entering a local park, Karla sees her son suddenly being abducted out of the blue by a kidnapper. To save Frankie from being taken, Karla goes out on a mission to demand people in the city to help rescue her son.
 
@@ -89,21 +89,6 @@ Single mother Karla McCoy lives a perfect life with her young son Frankie. One d
 
 	
 	
-
-### The Emoji Movie
-*Released on 2017-07-28, vote average 4.9*
-
-Gene, a multi-expressional emoji, sets out on a journey to become a normal emoji.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/KFv5bgIOlg4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -113,7 +98,7 @@ Gene, a multi-expressional emoji, sets out on a journey to become a normal emoji
 	
 
 ### Savage Dog
-*Released on 2017-08-04, vote average 3*
+*Released on 2017-08-04, vote average 3.6*
 
 A story set in Indochina in 1959, a lawless land controlled by the criminal class: Vietnamese warlords and European war-criminals. Den-Dhin-Chan Labor Camp is run by four such dangerous men. The worst prison in the land, it is here that an Irish, former-champion boxer Martin Tillman has made a name for himself fighting tournaments, on which wealthy criminals gamble in high stakes events. When Tillman is due for release, he just wants to return home, but the corrupt forces running the jail will do everything in their power to keep him locked down. When all that Tillman holds dear is taken away in a vicious act of violence, he is forced to confront the men responsible and take his revenge.  The birth of a legend.
 
@@ -132,8 +117,6 @@ A story set in Indochina in 1959, a lawless land controlled by the criminal clas
 
 
 	
-	
-	
 
   
 
@@ -142,7 +125,7 @@ A story set in Indochina in 1959, a lawless land controlled by the criminal clas
 	
 
 ### Wind River
-*Released on 2017-08-03, vote average 5*
+*Released on 2017-08-03, vote average 5.8*
 
 An FBI agent teams with the town&#39;s veteran game tracker to investigate a murder that occurred on a Native American reservation.
 
@@ -151,28 +134,6 @@ An FBI agent teams with the town&#39;s veteran game tracker to investigate a mur
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/CZgN0dpFoaE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Pilgrimage
-*Released on 2017-08-11, vote average 8*
-
-In 13th century Ireland a group of monks must escort a sacred relic across an Irish landscape fraught with peril.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MQZ7_Uo0OI0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -206,33 +167,6 @@ When a D.E.A. and S.W.A.T. cartel takedown ends in a shootout, S.W.A.T. Agent Tr
 
 	
 	
-
-### Detroit
-*Released on 2017-07-28, vote average 6*
-
-A police raid in Detroit in 1967 results in one of the largest citizens&#39; uprisings in the history of the United States.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/HFeWsDpy9y0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 	
 
   
@@ -247,7 +181,7 @@ A police raid in Detroit in 1967 results in one of the largest citizens&#39; upr
 	
 
 ### Jab Harry met Sejal
-*Released on 2017-08-04, vote average 4.8*
+*Released on 2017-08-04, vote average 4.7*
 
 After a month-long tour of Europe, Sejal is just about to board her flight to India, when she realises that her engagement ring is lost. In quest of the object, she hires the same tour-guide Harry  and together they set off visiting the exact same spots that she and her family visited—in the hope of finding the heirloom. Of course the journey proves to be much more…
 
@@ -271,20 +205,6 @@ After a month-long tour of Europe, Sejal is just about to board her flight to In
 
 
 	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
 
   
 
@@ -301,15 +221,45 @@ After a month-long tour of Europe, Sejal is just about to board her flight to In
   
 
 
+	
+	
+	
 
-## Opening soon
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Krotoa
+*Released on 2017-08-04, vote average 7.5*
+
+Krotoa, a feisty, bright, 11-year-old girl is removed from her close-knit Khoi tribe to serve Jan van Riebeeck, her uncle’s trading partner and the first Governor of the Cape Colony. She is brought into the first Fort established by the Dutch East India Company in 1652. There she grows into a visionary young woman who assimilates the Dutch language and culture so well that she rises to become an influential translator but ends up being rejected by her own people as she tries to bridge the gap between the two cultures about to collide.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ARuo-YsVFI4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
 
 
 	
 	
 
 ### Pilgrimage
-*Released on 2017-08-11, vote average 8*
+*Released on 2017-08-11, vote average 7*
 
 In 13th century Ireland a group of monks must escort a sacred relic across an Irish landscape fraught with peril.
 
@@ -324,6 +274,52 @@ In 13th century Ireland a group of monks must escort a sacred relic across an Ir
 	
 	
 
+  
+
+
+	
+	
+
+### Cage Dive
+*Released on 2017-08-11, vote average 7.5*
+
+Three friends from California are filming an audition tape for an extreme reality game show. They document their journey to Australia where they will be doing their most dangerous activity.... Shark Cage Diving. A catastrophic turn of events leaves them in baited water full of Great White Sharks, turning their recording into a blood chilling diary of survival... and death.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ECRSsskS1gM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+
+## Opening soon
+
+
+	
+	
+
+### It
+*Released on 2017-08-17, vote average 10*
+
+In a small town in Maine, seven children known as The Losers Club come face to face with life problems, bullies and a monster that takes the shape of a clown called Pennywise.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FnCdOQsX5kc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -343,6 +339,8 @@ The world&#39;s top bodyguard gets a new client, a hit man who must testify at t
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
