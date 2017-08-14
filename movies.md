@@ -47,7 +47,7 @@ Several years after the tragic death of their little girl, a dollmaker and his w
 	
 
 ### The Dark Tower
-*Released on 2017-08-03, vote average 5.6*
+*Released on 2017-08-03, vote average 5.9*
 
 The last Gunslinger, Roland Deschain, has been locked in an eternal battle with Walter O’Dim, also known as the Man in Black, determined to prevent him from toppling the Dark Tower, which holds the universe together. With the fate of the worlds at stake, good and evil will collide in the ultimate battle as only Roland can defend the Tower from the Man in Black.
 
@@ -89,6 +89,25 @@ Single mother Karla McCoy lives a perfect life with her young son Frankie. One d
 
 	
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 
 ### Pilgrimage
 *Released on 2017-08-11, vote average 7*
@@ -111,34 +130,47 @@ In 13th century Ireland a group of monks must escort a sacred relic across an Ir
 
 	
 	
-	
 
-  
+### Cage Dive
+*Released on 2017-08-11, vote average 6.7*
 
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Wind River
-*Released on 2017-08-03, vote average 5.8*
-
-An FBI agent teams with the town&#39;s veteran game tracker to investigate a murder that occurred on a Native American reservation.
+Three friends from California are filming an audition tape for an extreme reality game show. They document their journey to Australia where they will be doing their most dangerous activity.... Shark Cage Diving. A catastrophic turn of events leaves them in baited water full of Great White Sharks, turning their recording into a blood chilling diary of survival... and death.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/CZgN0dpFoaE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ECRSsskS1gM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 	
 
@@ -195,96 +227,22 @@ A story set in Indochina in 1959, a lawless land controlled by the criminal clas
 
 
 	
-
-  
-
-
 	
 
-  
+### The Nut Job 2: Nutty by Nature
+*Released on 2017-08-11, vote average 8*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Diana: In Her Own Words
-*Released on 2017-08-06, vote average 9*
-
-A Channel 4 documentary featuring Diana at her most candid, natural and charismatic. From old recordings filmed by her voice coach, these tapes provide valuable insight into one of the most iconic women of the late 20th century.
+When the evil mayor of Oakton decides to bulldoze Liberty Park and build a dangerous amusement park in its place, Surly Squirrel and his ragtag group of animal friends need to band together to save their home, defeat the mayor, and take back the park.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/UfaTLTo3250?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/nYif5QTYI9w?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Cage Dive
-*Released on 2017-08-11, vote average 6.7*
-
-Three friends from California are filming an audition tape for an extreme reality game show. They document their journey to Australia where they will be doing their most dangerous activity.... Shark Cage Diving. A catastrophic turn of events leaves them in baited water full of Great White Sharks, turning their recording into a blood chilling diary of survival... and death.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ECRSsskS1gM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Jab Harry met Sejal
-*Released on 2017-08-04, vote average 5*
-
-After a month-long tour of Europe, Sejal is just about to board her flight to India, when she realises that her engagement ring is lost. In quest of the object, she hires the same tour-guide Harry  and together they set off visiting the exact same spots that she and her family visited—in the hope of finding the heirloom. Of course the journey proves to be much more…
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0Oz8zFwEn0E?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -307,6 +265,33 @@ Ingrid becomes obsessed with a social network star named Taylor Sloane who seemi
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Wind River
+*Released on 2017-08-03, vote average 5.8*
+
+An FBI agent teams with the town&#39;s veteran game tracker to investigate a murder that occurred on a Native American reservation.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/CZgN0dpFoaE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
