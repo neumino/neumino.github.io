@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Annabelle: Creation
-*Released on 2017-08-09, vote average 6.9*
+*Released on 2017-08-09, vote average 6.4*
 
 Several years after the tragic death of their little girl, a dollmaker and his wife welcome a nun and several girls from a shuttered orphanage into their home, soon becoming the target of the dollmaker&#39;s possessed creation, Annabelle.
 
@@ -67,6 +67,65 @@ The last Gunslinger, Roland Deschain, has been locked in an eternal battle with 
 
 	
 	
+
+### It
+*Released on 2017-08-17, vote average 7*
+
+In a small town in Maine, seven children known as The Losers Club come face to face with life problems, bullies and a monster that takes the shape of a clown called Pennywise.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FnCdOQsX5kc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Hitman&#39;s Bodyguard
+*Released on 2017-08-16, vote average 5.9*
+
+The world&#39;s top bodyguard gets a new client, a hit man who must testify at the International Court of Justice. They must put their differences aside and work together to make it to the trial on time.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Anps6VPe0u8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Logan Lucky
+*Released on 2017-08-17, vote average 9*
+
+Trying to reverse a family curse, brothers Jimmy and Clyde Logan set out to execute an elaborate robbery during the legendary Coca-Cola 600 race at the Charlotte Motor Speedway.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/aPzvKH8AVf0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -95,37 +154,10 @@ In 13th century Ireland a group of monks must escort a sacred relic across an Ir
 
 
 	
-
-  
-
-
-	
-	
-
-### Cage Dive
-*Released on 2017-08-11, vote average 6.7*
-
-Three friends from California are filming an audition tape for an extreme reality game show. They document their journey to Australia where they will be doing their most dangerous activity.... Shark Cage Diving. A catastrophic turn of events leaves them in baited water full of Great White Sharks, turning their recording into a blood chilling diary of survival... and death.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ECRSsskS1gM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 	
 
 ### The Nut Job 2: Nutty by Nature
-*Released on 2017-08-11, vote average 9*
+*Released on 2017-08-11, vote average 6.8*
 
 When the evil mayor of Oakton decides to bulldoze Liberty Park and build a dangerous amusement park in its place, Surly Squirrel and his ragtag group of animal friends need to band together to save their home, defeat the mayor, and take back the park.
 
@@ -138,6 +170,38 @@ When the evil mayor of Oakton decides to bulldoze Liberty Park and build a dange
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### American Made
+*Released on 2017-08-17, vote average 5.3*
+
+The true story of pilot Barry Seal, who transported contraband for the CIA and the Medellin cartel in the 1980s.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/q3UWRqZE0Hc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -168,6 +232,40 @@ Single mother Karla McCoy lives a perfect life with her young son Frankie. One d
 	
 	
 
+### Cage Dive
+*Released on 2017-08-11, vote average 6.7*
+
+Three friends from California are filming an audition tape for an extreme reality game show. They document their journey to Australia where they will be doing their most dangerous activity.... Shark Cage Diving. A catastrophic turn of events leaves them in baited water full of Great White Sharks, turning their recording into a blood chilling diary of survival... and death.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ECRSsskS1gM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
 ### Ingrid Goes West
 *Released on 2017-08-11, vote average 7*
 
@@ -187,6 +285,23 @@ Ingrid becomes obsessed with a social network star named Taylor Sloane who seemi
   
 
 
+	
+	
+
+### Good Time
+*Released on 2017-08-11, vote average 8*
+
+A bank robber tries to avoid the law closing in on him.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/AVyGCxHZ_Ko?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -231,38 +346,6 @@ Keshav and Jaya are from two villages near Mathura, where at least 80% of househ
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -271,7 +354,7 @@ Keshav and Jaya are from two villages near Mathura, where at least 80% of househ
 	
 
 ### It
-*Released on 2017-08-17, vote average 7.5*
+*Released on 2017-08-17, vote average 7*
 
 In a small town in Maine, seven children known as The Losers Club come face to face with life problems, bullies and a monster that takes the shape of a clown called Pennywise.
 
@@ -280,25 +363,6 @@ In a small town in Maine, seven children known as The Losers Club come face to f
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/FnCdOQsX5kc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### The Hitman&#39;s Bodyguard
-*Released on 2017-08-17, vote average 5.3*
-
-The world&#39;s top bodyguard gets a new client, a hit man who must testify at the International Court of Justice. They must put their differences aside and work together to make it to the trial on time.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Anps6VPe0u8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -325,26 +389,28 @@ Trying to reverse a family curse, brothers Jimmy and Clyde Logan set out to exec
 	
 
 	
-
 	
 
-	
-	
+### American Made
+*Released on 2017-08-17, vote average 5.3*
 
-### What Happened to Monday
-*Released on 2017-08-17, vote average 7.8*
-
-In a world where families are limited to one child due to overpopulation, a set of identical septuplets must avoid being put to a long sleep by the government and dangerous infighting while investigating the disappearance of one of their own.
+The true story of pilot Barry Seal, who transported contraband for the CIA and the Medellin cartel in the 1980s.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/hOiWSWLt-NA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/q3UWRqZE0Hc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
 	
 
 	
