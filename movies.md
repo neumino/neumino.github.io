@@ -47,7 +47,7 @@ Several years after the tragic death of their little girl, a dollmaker and his w
 	
 
 ### It
-*Released on 2017-08-17, vote average 6.2*
+*Released on 2017-08-17, vote average 5.9*
 
 In a small town in Maine, seven children known as The Losers Club come face to face with life problems, bullies and a monster that takes the shape of a clown called Pennywise.
 
@@ -69,7 +69,7 @@ In a small town in Maine, seven children known as The Losers Club come face to f
 	
 
 ### The Hitman&#39;s Bodyguard
-*Released on 2017-08-16, vote average 5*
+*Released on 2017-08-16, vote average 5.2*
 
 The world&#39;s top bodyguard gets a new client, a hit man who must testify at the International Court of Justice. They must put their differences aside and work together to make it to the trial on time.
 
@@ -91,7 +91,7 @@ The world&#39;s top bodyguard gets a new client, a hit man who must testify at t
 	
 
 ### Logan Lucky
-*Released on 2017-08-17, vote average 9.5*
+*Released on 2017-08-17, vote average 8.8*
 
 Trying to reverse a family curse, brothers Jimmy and Clyde Logan set out to execute an elaborate robbery during the legendary Coca-Cola 600 race at the Charlotte Motor Speedway.
 
@@ -110,15 +110,10 @@ Trying to reverse a family curse, brothers Jimmy and Clyde Logan set out to exec
 
 
 	
-
-  
-
-
-	
 	
 
 ### American Made
-*Released on 2017-08-17, vote average 5.3*
+*Released on 2017-08-17, vote average 4*
 
 The true story of pilot Barry Seal, who transported contraband for the CIA and the Medellin cartel in the 1980s.
 
@@ -131,6 +126,11 @@ The true story of pilot Barry Seal, who transported contraband for the CIA and t
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -162,7 +162,7 @@ Keshav and Jaya are from two villages near Mathura, where at least 80% of househ
 	
 
 ### What Happened to Monday
-*Released on 2017-08-18, vote average 7.8*
+*Released on 2017-08-18, vote average 7.3*
 
 In a world where families are limited to one child due to overpopulation, a set of identical septuplets must avoid being put to a long sleep by the government and dangerous infighting while investigating the disappearance of one of their own.
 
@@ -186,50 +186,16 @@ In a world where families are limited to one child due to overpopulation, a set 
 
 
 	
-	
 
-### Cage Dive
-*Released on 2017-08-11, vote average 4.1*
+  
 
-Three friends from California are filming an audition tape for an extreme reality game show. They document their journey to Australia where they will be doing their most dangerous activity.... Shark Cage Diving. A catastrophic turn of events leaves them in baited water full of Great White Sharks, turning their recording into a blood chilling diary of survival... and death.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ECRSsskS1gM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
 
 
 	
-	
-	
-
-  
-
-
-	
-	
-
-### Pilgrimage
-*Released on 2017-08-11, vote average 7*
-
-In 13th century Ireland a group of monks must escort a sacred relic across an Irish landscape fraught with peril.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MQZ7_Uo0OI0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -259,28 +225,18 @@ When the evil mayor of Oakton decides to bulldoze Liberty Park and build a dange
 
 
 	
-
-  
-
-
 	
 
-  
+### Cage Dive
+*Released on 2017-08-11, vote average 4.1*
 
-
-	
-	
-
-### Kidnap
-*Released on 2017-08-04, vote average 5.7*
-
-Single mother Karla McCoy lives a perfect life with her young son Frankie. One day, upon entering a local park, Karla sees her son suddenly being abducted out of the blue by a kidnapper. To save Frankie from being taken, Karla goes out on a mission to demand people in the city to help rescue her son.
+Three friends from California are filming an audition tape for an extreme reality game show. They document their journey to Australia where they will be doing their most dangerous activity.... Shark Cage Diving. A catastrophic turn of events leaves them in baited water full of Great White Sharks, turning their recording into a blood chilling diary of survival... and death.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/R-Ht8VRPRvU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ECRSsskS1gM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -291,15 +247,10 @@ Single mother Karla McCoy lives a perfect life with her young son Frankie. One d
 
 
 	
-
-  
-
-
-	
 	
 
 ### Batman and Harley Quinn
-*Released on 2017-08-14, vote average 7.5*
+*Released on 2017-08-14, vote average 7.1*
 
 Batman and Nightwing are forced to team with the Joker&#39;s sometimes-girlfriend Harley Quinn to stop a global threat brought about by Poison Ivy and Jason Woodrue, the Floronic Man.
 
@@ -318,18 +269,23 @@ Batman and Nightwing are forced to team with the Joker&#39;s sometimes-girlfrien
 
 
 	
+
+  
+
+
+	
 	
 
-### Ingrid Goes West
-*Released on 2017-08-11, vote average 6.7*
+### Pilgrimage
+*Released on 2017-08-11, vote average 7*
 
-Ingrid becomes obsessed with a social network star named Taylor Sloane who seemingly has a perfect life. But when Ingrid decides to drop everything and move west to be Taylor&#39;s friend, her behaviour turns unsettling and dangerous.
+In 13th century Ireland a group of monks must escort a sacred relic across an Irish landscape fraught with peril.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/FbvoNz387K0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/MQZ7_Uo0OI0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -341,6 +297,16 @@ Ingrid becomes obsessed with a social network star named Taylor Sloane who seemi
 
 	
 	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -352,23 +318,6 @@ Ingrid becomes obsessed with a social network star named Taylor Sloane who seemi
 
 	
 
-	
-	
-
-### What Happened to Monday
-*Released on 2017-08-18, vote average 7.8*
-
-In a world where families are limited to one child due to overpopulation, a set of identical septuplets must avoid being put to a long sleep by the government and dangerous infighting while investigating the disappearance of one of their own.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hOiWSWLt-NA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
