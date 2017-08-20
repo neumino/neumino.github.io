@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Annabelle: Creation
-*Released on 2017-08-09, vote average 6.3*
+*Released on 2017-08-09, vote average 6.2*
 
 Several years after the tragic death of their little girl, a dollmaker and his wife welcome a nun and several girls from a shuttered orphanage into their home, soon becoming the target of the dollmaker&#39;s possessed creation, Annabelle.
 
@@ -47,7 +47,7 @@ Several years after the tragic death of their little girl, a dollmaker and his w
 	
 
 ### It
-*Released on 2017-08-17, vote average 5.9*
+*Released on 2017-08-17, vote average 5.8*
 
 In a small town in Maine, seven children known as The Losers Club come face to face with life problems, bullies and a monster that takes the shape of a clown called Pennywise.
 
@@ -69,7 +69,7 @@ In a small town in Maine, seven children known as The Losers Club come face to f
 	
 
 ### The Hitman&#39;s Bodyguard
-*Released on 2017-08-16, vote average 5.2*
+*Released on 2017-08-16, vote average 5.4*
 
 The world&#39;s top bodyguard gets a new client, a hit man who must testify at the International Court of Justice. They must put their differences aside and work together to make it to the trial on time.
 
@@ -91,7 +91,7 @@ The world&#39;s top bodyguard gets a new client, a hit man who must testify at t
 	
 
 ### Logan Lucky
-*Released on 2017-08-17, vote average 8.8*
+*Released on 2017-08-17, vote average 7.8*
 
 Trying to reverse a family curse, brothers Jimmy and Clyde Logan set out to execute an elaborate robbery during the legendary Coca-Cola 600 race at the Charlotte Motor Speedway.
 
@@ -122,33 +122,6 @@ The true story of pilot Barry Seal, who transported contraband for the CIA and t
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/AEBIJRAkujM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Toilet - Ek Prem Katha
-*Released on 2017-08-11, vote average 6.9*
-
-Keshav and Jaya are from two villages near Mathura, where at least 80% of households are without any access to a lavatories. Conflict comes knocking on the first day of their marriage, when Jaya leaves Keshav&#39;s house for good, after discovering that there is no toilet in the home. Distraught and desperate, Keshav sets out on mission to win back his love- by battling against the age old traditions, mind-set and value system of his country.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ym4EJQ7XORk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -197,6 +170,45 @@ In a world where families are limited to one child due to overpopulation, a set 
 
 	
 	
+
+### Batman and Harley Quinn
+*Released on 2017-08-14, vote average 7.1*
+
+Batman and Nightwing are forced to team with the Joker&#39;s sometimes-girlfriend Harley Quinn to stop a global threat brought about by Poison Ivy and Jason Woodrue, the Floronic Man.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Qi3yJTc8Gjk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -206,7 +218,7 @@ In a world where families are limited to one child due to overpopulation, a set 
 	
 
 ### The Nut Job 2: Nutty by Nature
-*Released on 2017-08-11, vote average 6.8*
+*Released on 2017-08-11, vote average 6.1*
 
 When the evil mayor of Oakton decides to bulldoze Liberty Park and build a dangerous amusement park in its place, Surly Squirrel and his ragtag group of animal friends need to band together to save their home, defeat the mayor, and take back the park.
 
@@ -215,6 +227,72 @@ When the evil mayor of Oakton decides to bulldoze Liberty Park and build a dange
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/nYif5QTYI9w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Naked
+*Released on 2017-08-11, vote average 6.3*
+
+Nervous about finally getting married a guy is forced to relive the same nerve-wracking hours over and over again until he gets things right on his wedding day.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nIgeVoVMv90?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Toilet - Ek Prem Katha
+*Released on 2017-08-11, vote average 6.9*
+
+Keshav and Jaya are from two villages near Mathura, where at least 80% of households are without any access to a lavatories. Conflict comes knocking on the first day of their marriage, when Jaya leaves Keshav&#39;s house for good, after discovering that there is no toilet in the home. Distraught and desperate, Keshav sets out on mission to win back his love- by battling against the age old traditions, mind-set and value system of his country.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ym4EJQ7XORk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Glass Castle
+*Released on 2017-08-10, vote average 2.8*
+
+A young girl is raised in a dysfunctional family constantly on the run from the FBI. Living in poverty, she comes of age guided by her drunkard, ingenious father who distracts her with magical stories to keep her mind off the family&#39;s dire state, and her selfish, nonconformist mother who has no intention of raising a family, along with her younger brother and sister, and her other older sister. Together, they fend for each other as they mature in an unorthodox journey that is their family life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/VJFRjL8_Dvs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -248,65 +326,6 @@ Three friends from California are filming an audition tape for an extreme realit
 
 	
 	
-
-### Batman and Harley Quinn
-*Released on 2017-08-14, vote average 7.1*
-
-Batman and Nightwing are forced to team with the Joker&#39;s sometimes-girlfriend Harley Quinn to stop a global threat brought about by Poison Ivy and Jason Woodrue, the Floronic Man.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Qi3yJTc8Gjk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Pilgrimage
-*Released on 2017-08-11, vote average 7*
-
-In 13th century Ireland a group of monks must escort a sacred relic across an Irish landscape fraught with peril.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MQZ7_Uo0OI0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -316,6 +335,23 @@ In 13th century Ireland a group of monks must escort a sacred relic across an Ir
 ## Opening soon
 
 
+	
+	
+
+### Starship Troopers: Traitor of Mars
+*Released on 2017-08-21, vote average 5*
+
+Federation trooper Johnny Rico is ordered to work with a group of new recruits on a satellite station on Mars, where giant bugs have decided to target their next attack.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8R0yLRoevnA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
