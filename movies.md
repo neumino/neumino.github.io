@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Annabelle: Creation
-*Released on 2017-08-09, vote average 6.1*
+*Released on 2017-08-09, vote average 6.2*
 
 Several years after the tragic death of their little girl, a dollmaker and his wife welcome a nun and several girls from a shuttered orphanage into their home, soon becoming the target of the dollmaker&#39;s possessed creation, Annabelle.
 
@@ -46,28 +46,6 @@ Several years after the tragic death of their little girl, a dollmaker and his w
 	
 	
 
-### The Hitman&#39;s Bodyguard
-*Released on 2017-08-16, vote average 5.7*
-
-The world&#39;s top bodyguard gets a new client, a hit man who must testify at the International Court of Justice. They must put their differences aside and work together to make it to the trial on time.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Anps6VPe0u8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### It
 *Released on 2017-08-17, vote average 5.8*
 
@@ -78,28 +56,6 @@ In a small town in Maine, seven children known as The Losers Club come face to f
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/FnCdOQsX5kc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Logan Lucky
-*Released on 2017-08-17, vote average 7.3*
-
-Trying to reverse a family curse, brothers Jimmy and Clyde Logan set out to execute an elaborate robbery during the legendary Coca-Cola 600 race at the Charlotte Motor Speedway.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/aPzvKH8AVf0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -132,6 +88,23 @@ Federation trooper Johnny Rico is ordered to work with a group of new recruits o
 
 
 	
+	
+
+### The Hitman&#39;s Bodyguard
+*Released on 2017-08-16, vote average 5.6*
+
+The world&#39;s top bodyguard gets a new client, a hit man who must testify at the International Court of Justice. They must put their differences aside and work together to make it to the trial on time.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Anps6VPe0u8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -140,7 +113,7 @@ Federation trooper Johnny Rico is ordered to work with a group of new recruits o
 	
 
 ### What Happened to Monday
-*Released on 2017-08-18, vote average 7.5*
+*Released on 2017-08-18, vote average 7.8*
 
 In a world where families are limited to one child due to overpopulation, a set of identical septuplets must avoid being put to a long sleep by the government and dangerous infighting while investigating the disappearance of one of their own.
 
@@ -163,6 +136,23 @@ In a world where families are limited to one child due to overpopulation, a set 
   
 
 
+	
+	
+
+### Logan Lucky
+*Released on 2017-08-17, vote average 7.3*
+
+Trying to reverse a family curse, brothers Jimmy and Clyde Logan set out to execute an elaborate robbery during the legendary Coca-Cola 600 race at the Charlotte Motor Speedway.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/aPzvKH8AVf0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -196,7 +186,10 @@ The true story of pilot Barry Seal, who transported contraband for the CIA and t
 
 
 	
-	
+
+  
+
+
 	
 
   
@@ -206,7 +199,7 @@ The true story of pilot Barry Seal, who transported contraband for the CIA and t
 	
 
 ### Batman and Harley Quinn
-*Released on 2017-08-14, vote average 7.1*
+*Released on 2017-08-14, vote average 6.6*
 
 Batman and Nightwing are forced to team with the Joker&#39;s sometimes-girlfriend Harley Quinn to stop a global threat brought about by Poison Ivy and Jason Woodrue, the Floronic Man.
 
@@ -233,7 +226,7 @@ Batman and Nightwing are forced to team with the Joker&#39;s sometimes-girlfrien
 	
 
 ### Naked
-*Released on 2017-08-11, vote average 6.3*
+*Released on 2017-08-11, vote average 6.2*
 
 Nervous about finally getting married a guy is forced to relive the same nerve-wracking hours over and over again until he gets things right on his wedding day.
 
@@ -259,23 +252,6 @@ Nervous about finally getting married a guy is forced to relive the same nerve-w
 
 
 	
-	
-
-### Toilet - Ek Prem Katha
-*Released on 2017-08-11, vote average 7*
-
-Keshav and Jaya are from two villages near Mathura, where at least 80% of households are without any access to a lavatories. Conflict comes knocking on the first day of their marriage, when Jaya leaves Keshav&#39;s house for good, after discovering that there is no toilet in the home. Distraught and desperate, Keshav sets out on mission to win back his love- by battling against the age old traditions, mind-set and value system of his country.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ym4EJQ7XORk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -292,21 +268,11 @@ Keshav and Jaya are from two villages near Mathura, where at least 80% of househ
 
 	
 	
-
-### The Glass Castle
-*Released on 2017-08-10, vote average 2.8*
-
-A young girl is raised in a dysfunctional family constantly on the run from the FBI. Living in poverty, she comes of age guided by her drunkard, ingenious father who distracts her with magical stories to keep her mind off the family&#39;s dire state, and her selfish, nonconformist mother who has no intention of raising a family, along with her younger brother and sister, and her other older sister. Together, they fend for each other as they mature in an unorthodox journey that is their family life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/VJFRjL8_Dvs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
+
+  
+
+
 	
 
   
@@ -317,18 +283,26 @@ A young girl is raised in a dysfunctional family constantly on the run from the 
 
 
 	
+
 	
 
-### Starship Troopers: Traitor of Mars
-*Released on 2017-08-21, vote average 5*
+	
+	
+	
 
-Federation trooper Johnny Rico is ordered to work with a group of new recruits on a satellite station on Mars, where giant bugs have decided to target their next attack.
+	
+	
+
+### Birth of the Dragon
+*Released on 2017-08-25, vote average 9.5*
+
+Set against the backdrop of San Francisco’s Chinatown, this cross-cultural biopic chronicles Bruce Lee’s emergence as a martial-arts superstar after his legendary secret showdown with fellow martial artist Wong Jack Man.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/8R0yLRoevnA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/SL7OfxJo2oA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -342,11 +316,22 @@ Federation trooper Johnny Rico is ordered to work with a group of new recruits o
 	
 
 	
-
 	
 
-	
+### 120 Beats Per Minute
+*Released on 2017-08-23, vote average 8*
 
+Paris, in the early 1990s: a group of young activists is desperately tied to finding the cure against an unknown lethal disease. They target the pharmaceutical labs that are retaining potential cures, and multiply direct actions, with the hope of saving their lives as well as the ones of future generations.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2fhO2A4SL24?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
