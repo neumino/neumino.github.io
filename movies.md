@@ -46,8 +46,30 @@ Several years after the tragic death of their little girl, a dollmaker and his w
 	
 	
 
+### Starship Troopers: Traitor of Mars
+*Released on 2017-08-21, vote average 6.7*
+
+Federation trooper Johnny Rico is ordered to work with a group of new recruits on a satellite station on Mars, where giant bugs have decided to target their next attack.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8R0yLRoevnA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### It
-*Released on 2017-08-17, vote average 5.8*
+*Released on 2017-08-17, vote average 6.1*
 
 In a small town in Maine, seven children known as The Losers Club come face to face with life problems, bullies and a monster that takes the shape of a clown called Pennywise.
 
@@ -65,23 +87,6 @@ In a small town in Maine, seven children known as The Losers Club come face to f
   
 
 
-	
-	
-
-### Starship Troopers: Traitor of Mars
-*Released on 2017-08-21, vote average 5*
-
-Federation trooper Johnny Rico is ordered to work with a group of new recruits on a satellite station on Mars, where giant bugs have decided to target their next attack.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8R0yLRoevnA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -113,7 +118,7 @@ The world&#39;s top bodyguard gets a new client, a hit man who must testify at t
 	
 
 ### What Happened to Monday
-*Released on 2017-08-18, vote average 7.8*
+*Released on 2017-08-18, vote average 7.7*
 
 In a world where families are limited to one child due to overpopulation, a set of identical septuplets must avoid being put to a long sleep by the government and dangerous infighting while investigating the disappearance of one of their own.
 
@@ -132,15 +137,10 @@ In a world where families are limited to one child due to overpopulation, a set 
 
 
 	
-
-  
-
-
-	
 	
 
 ### Logan Lucky
-*Released on 2017-08-17, vote average 7.3*
+*Released on 2017-08-17, vote average 7*
 
 Trying to reverse a family curse, brothers Jimmy and Clyde Logan set out to execute an elaborate robbery during the legendary Coca-Cola 600 race at the Charlotte Motor Speedway.
 
@@ -149,6 +149,77 @@ Trying to reverse a family curse, brothers Jimmy and Clyde Logan set out to exec
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/aPzvKH8AVf0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Patti Cake$
+*Released on 2017-08-18, vote average 8*
+
+Straight out of Jersey comes Patricia Dombrowski, a.k.a. Killa P, a.k.a. Patti Cake$, an aspiring rapper fighting through a world of strip malls and strip clubs on an unlikely quest for glory.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/L-591Dqa48g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Batman and Harley Quinn
+*Released on 2017-08-14, vote average 6.9*
+
+Batman and Nightwing are forced to team with the Joker&#39;s sometimes-girlfriend Harley Quinn to stop a global threat brought about by Poison Ivy and Jason Woodrue, the Floronic Man.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Qi3yJTc8Gjk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### 120 Beats Per Minute
+*Released on 2017-08-23, vote average 8*
+
+Paris, in the early 1990s: a group of young activists is desperately tied to finding the cure against an unknown lethal disease. They target the pharmaceutical labs that are retaining potential cures, and multiply direct actions, with the hope of saving their lives as well as the ones of future generations.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2fhO2A4SL24?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -196,77 +267,38 @@ The true story of pilot Barry Seal, who transported contraband for the CIA and t
 
 
 	
+
+  
+
+
 	
 
-### Batman and Harley Quinn
-*Released on 2017-08-14, vote average 6.6*
+  
 
-Batman and Nightwing are forced to team with the Joker&#39;s sometimes-girlfriend Harley Quinn to stop a global threat brought about by Poison Ivy and Jason Woodrue, the Floronic Man.
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### The Nut Job 2: Nutty by Nature
+*Released on 2017-08-11, vote average 6.3*
+
+When the evil mayor of Oakton decides to bulldoze Liberty Park and build a dangerous amusement park in its place, Surly Squirrel and his ragtag group of animal friends need to band together to save their home, defeat the mayor, and take back the park.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Qi3yJTc8Gjk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/nYif5QTYI9w?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Naked
-*Released on 2017-08-11, vote average 6.2*
-
-Nervous about finally getting married a guy is forced to relive the same nerve-wracking hours over and over again until he gets things right on his wedding day.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nIgeVoVMv90?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 	
 
@@ -281,39 +313,6 @@ Nervous about finally getting married a guy is forced to relive the same nerve-w
 
 ## Opening soon
 
-
-	
-
-	
-
-	
-	
-	
-
-	
-	
-
-### Birth of the Dragon
-*Released on 2017-08-25, vote average 9.5*
-
-Set against the backdrop of San Francisco’s Chinatown, this cross-cultural biopic chronicles Bruce Lee’s emergence as a martial-arts superstar after his legendary secret showdown with fellow martial artist Wong Jack Man.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/SL7OfxJo2oA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
 
 	
 	
@@ -332,6 +331,39 @@ Paris, in the early 1990s: a group of young activists is desperately tied to fin
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+	
+	
+
+	
+
+	
+
+	
+	
+
+### Birth of the Dragon
+*Released on 2017-08-25, vote average 6*
+
+Set against the backdrop of San Francisco’s Chinatown, this cross-cultural biopic chronicles Bruce Lee’s emergence as a martial-arts superstar after his legendary secret showdown with fellow martial artist Wong Jack Man.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/SL7OfxJo2oA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
 	
 
 	
