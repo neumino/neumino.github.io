@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Annabelle: Creation
-*Released on 2017-08-09, vote average 6.2*
+### The Hitman&#39;s Bodyguard
+*Released on 2017-08-16, vote average 5.7*
 
-Several years after the tragic death of their little girl, a dollmaker and his wife welcome a nun and several girls from a shuttered orphanage into their home, soon becoming the target of the dollmaker&#39;s possessed creation, Annabelle.
+The world&#39;s top bodyguard gets a new client, a hit man who must testify at the International Court of Justice. They must put their differences aside and work together to make it to the trial on time.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/KisPhy7T__Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Anps6VPe0u8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -47,7 +47,7 @@ Several years after the tragic death of their little girl, a dollmaker and his w
 	
 
 ### Starship Troopers: Traitor of Mars
-*Released on 2017-08-21, vote average 6.7*
+*Released on 2017-08-21, vote average 5.8*
 
 Federation trooper Johnny Rico is ordered to work with a group of new recruits on a satellite station on Mars, where giant bugs have decided to target their next attack.
 
@@ -95,30 +95,8 @@ In a small town in Maine, seven children known as The Losers Club come face to f
 	
 	
 
-### The Hitman&#39;s Bodyguard
-*Released on 2017-08-16, vote average 5.6*
-
-The world&#39;s top bodyguard gets a new client, a hit man who must testify at the International Court of Justice. They must put their differences aside and work together to make it to the trial on time.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Anps6VPe0u8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### What Happened to Monday
-*Released on 2017-08-18, vote average 7.7*
+*Released on 2017-08-18, vote average 7.5*
 
 In a world where families are limited to one child due to overpopulation, a set of identical septuplets must avoid being put to a long sleep by the government and dangerous infighting while investigating the disappearance of one of their own.
 
@@ -140,7 +118,7 @@ In a world where families are limited to one child due to overpopulation, a set 
 	
 
 ### Logan Lucky
-*Released on 2017-08-17, vote average 7*
+*Released on 2017-08-17, vote average 6.8*
 
 Trying to reverse a family curse, brothers Jimmy and Clyde Logan set out to execute an elaborate robbery during the legendary Coca-Cola 600 race at the Charlotte Motor Speedway.
 
@@ -158,6 +136,42 @@ Trying to reverse a family curse, brothers Jimmy and Clyde Logan set out to exec
   
 
 
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Batman and Harley Quinn
+*Released on 2017-08-14, vote average 6.7*
+
+Batman and Nightwing are forced to team with the Joker&#39;s sometimes-girlfriend Harley Quinn to stop a global threat brought about by Poison Ivy and Jason Woodrue, the Floronic Man.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Qi3yJTc8Gjk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -188,28 +202,6 @@ Straight out of Jersey comes Patricia Dombrowski, a.k.a. Killa P, a.k.a. Patti C
 	
 	
 
-### Batman and Harley Quinn
-*Released on 2017-08-14, vote average 6.9*
-
-Batman and Nightwing are forced to team with the Joker&#39;s sometimes-girlfriend Harley Quinn to stop a global threat brought about by Poison Ivy and Jason Woodrue, the Floronic Man.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Qi3yJTc8Gjk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### 120 Beats Per Minute
 *Released on 2017-08-23, vote average 8*
 
@@ -224,11 +216,6 @@ Paris, in the early 1990s: a group of young activists is desperately tied to fin
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -272,18 +259,6 @@ The true story of pilot Barry Seal, who transported contraband for the CIA and t
 
 
 	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
 	
 
 ### The Nut Job 2: Nutty by Nature
@@ -310,37 +285,39 @@ When the evil mayor of Oakton decides to bulldoze Liberty Park and build a dange
   
 
 
+	
 
-## Opening soon
+  
 
 
 	
 	
 
-### 120 Beats Per Minute
-*Released on 2017-08-23, vote average 8*
+### Cage Dive
+*Released on 2017-08-11, vote average 4.2*
 
-Paris, in the early 1990s: a group of young activists is desperately tied to finding the cure against an unknown lethal disease. They target the pharmaceutical labs that are retaining potential cures, and multiply direct actions, with the hope of saving their lives as well as the ones of future generations.
+Three friends from California are filming an audition tape for an extreme reality game show. They document their journey to Australia where they will be doing their most dangerous activity.... Shark Cage Diving. A catastrophic turn of events leaves them in baited water full of Great White Sharks, turning their recording into a blood chilling diary of survival... and death.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/2fhO2A4SL24?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ECRSsskS1gM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
 	
 
-	
+  
+
+
+
+## Opening soon
+
 
 	
 	
-	
-
-	
-
 	
 
 	
@@ -382,6 +359,16 @@ Set against the backdrop of San Francisco’s Chinatown, this cross-cultural bio
 
 	
 
+	
+
+	
+
+	
+
+	
+
+	
+	
 	
 
 	
