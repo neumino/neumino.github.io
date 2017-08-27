@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Hitman&#39;s Bodyguard
-*Released on 2017-08-16, vote average 5.9*
+*Released on 2017-08-16, vote average 5.8*
 
 The world&#39;s top bodyguard gets a new client, a hit man who must testify at the International Court of Justice. They must put their differences aside and work together to make it to the trial on time.
 
@@ -46,8 +46,30 @@ The world&#39;s top bodyguard gets a new client, a hit man who must testify at t
 	
 	
 
+### Death Note
+*Released on 2017-08-25, vote average 4.8*
+
+A young man comes to possess a supernatural notebook, the Death Note, that grants him the power to kill any person simply by writing down their name on the pages. He then decides to use the notebook to kill criminals and change the world, but an enigmatic detective attempts to track him down and end his reign of terror.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/HMs3CPB6ukg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Starship Troopers: Traitor of Mars
-*Released on 2017-08-21, vote average 6.1*
+*Released on 2017-08-21, vote average 5.8*
 
 Federation trooper Johnny Rico is ordered to work with a group of new recruits on a satellite station on Mars, where giant bugs have decided to target their next attack.
 
@@ -67,6 +89,21 @@ Federation trooper Johnny Rico is ordered to work with a group of new recruits o
 
 	
 	
+
+### Bushwick
+*Released on 2017-08-25, vote average 5.6*
+
+In a Brooklyn neighborhood, 20-year-old Lucy and war veteran Stupe must cross a treacherous five blocks to escape an invading military force.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3GgKghKUOnw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -85,77 +122,6 @@ Set against the backdrop of San Francisco’s Chinatown, this cross-cultural bio
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/SL7OfxJo2oA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Death Note
-*Released on 2017-08-25, vote average 4.6*
-
-A young man comes to possess a supernatural notebook, the Death Note, that grants him the power to kill any person simply by writing down their name on the pages. He then decides to use the notebook to kill criminals and change the world, but an enigmatic detective attempts to track him down and end his reign of terror.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/HMs3CPB6ukg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### What Happened to Monday
-*Released on 2017-08-18, vote average 7.3*
-
-In a world where families are limited to one child due to overpopulation, a set of identical septuplets must avoid being put to a long sleep by the government and dangerous infighting while investigating the disappearance of one of their own.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hOiWSWLt-NA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Bushwick
-*Released on 2017-08-25, vote average 6.7*
-
-In a Brooklyn neighborhood, 20-year-old Lucy and war veteran Stupe must cross a treacherous five blocks to escape an invading military force.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3GgKghKUOnw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -188,10 +154,66 @@ Gaurav dreams of settling down with Kavya, the woman of his dreams, but she pref
 
 
 	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### All Saints
+*Released on 2017-08-25, vote average 1*
+
+ALL SAINTS is based on the inspiring true story of salesman-turned-pastor Michael Spurlock (John Corbett), the tiny church he was ordered to shut down, and a group of refugees from Southeast Asia. Together, they risked everything to plant seeds for a future that might just save them all.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IaMfIvCTY-o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### Batman and Harley Quinn
-*Released on 2017-08-14, vote average 6.3*
+*Released on 2017-08-14, vote average 6.1*
 
 Batman and Nightwing are forced to team with the Joker&#39;s sometimes-girlfriend Harley Quinn to stop a global threat brought about by Poison Ivy and Jason Woodrue, the Floronic Man.
 
@@ -232,37 +254,22 @@ Trying to reverse a family curse, brothers Jimmy and Clyde Logan set out to exec
 
 
 	
-
-  
-
-
 	
 
-  
+### What Happened to Monday
+*Released on 2017-08-18, vote average 7.3*
 
-
-	
-	
-
-### 120 Beats Per Minute
-*Released on 2017-08-23, vote average 7.4*
-
-Paris, in the early 1990s: a group of young activists is desperately tied to finding the cure against an unknown lethal disease. They target the pharmaceutical labs that are retaining potential cures, and multiply direct actions, with the hope of saving their lives as well as the ones of future generations.
+In a world where families are limited to one child due to overpopulation, a set of identical septuplets must avoid being put to a long sleep by the government and dangerous infighting while investigating the disappearance of one of their own.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/2fhO2A4SL24?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/hOiWSWLt-NA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -296,26 +303,6 @@ In a small town in Maine, seven children known as The Losers Club come face to f
 
 
 	
-
-  
-
-
-	
-	
-
-### Thomas &amp; Friends: Journey Beyond Sodor
-*Released on 2017-08-22, vote average 1*
-
-Join Thomas and his friends in this exciting adventure to the mainland that shows us friendship is more important than being the favorite engine. Can Thomas and the new experimental engines save James and help bring him back to the Island of Sodor?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jusEVahyDa8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -330,6 +317,8 @@ Join Thomas and his friends in this exciting adventure to the mainland that show
 
 ## Opening soon
 
+
+	
 
 	
 
@@ -380,8 +369,6 @@ Set in the future in a time of interplanetary colonization, an unlikely pair rac
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
