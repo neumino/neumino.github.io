@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Hitman&#39;s Bodyguard
-*Released on 2017-08-16, vote average 5.8*
+*Released on 2017-08-16, vote average 5.9*
 
 The world&#39;s top bodyguard gets a new client, a hit man who must testify at the International Court of Justice. They must put their differences aside and work together to make it to the trial on time.
 
@@ -47,7 +47,7 @@ The world&#39;s top bodyguard gets a new client, a hit man who must testify at t
 	
 
 ### Death Note
-*Released on 2017-08-25, vote average 4.8*
+*Released on 2017-08-25, vote average 4.7*
 
 A young man comes to possess a supernatural notebook, the Death Note, that grants him the power to kill any person simply by writing down their name on the pages. He then decides to use the notebook to kill criminals and change the world, but an enigmatic detective attempts to track him down and end his reign of terror.
 
@@ -60,6 +60,33 @@ A young man comes to possess a supernatural notebook, the Death Note, that grant
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Birth of the Dragon
+*Released on 2017-08-25, vote average 7.3*
+
+Set against the backdrop of San Francisco’s Chinatown, this cross-cultural biopic chronicles Bruce Lee’s emergence as a martial-arts superstar after his legendary secret showdown with fellow martial artist Wong Jack Man.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/SL7OfxJo2oA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -110,21 +137,11 @@ In a Brooklyn neighborhood, 20-year-old Lucy and war veteran Stupe must cross a 
 
 
 	
+
+  
+
+
 	
-
-### Birth of the Dragon
-*Released on 2017-08-25, vote average 7.3*
-
-Set against the backdrop of San Francisco’s Chinatown, this cross-cultural biopic chronicles Bruce Lee’s emergence as a martial-arts superstar after his legendary secret showdown with fellow martial artist Wong Jack Man.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/SL7OfxJo2oA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -160,60 +177,9 @@ Gaurav dreams of settling down with Kavya, the woman of his dreams, but she pref
 
 	
 	
-	
-
-  
-
-
-	
-	
-
-### All Saints
-*Released on 2017-08-25, vote average 1*
-
-ALL SAINTS is based on the inspiring true story of salesman-turned-pastor Michael Spurlock (John Corbett), the tiny church he was ordered to shut down, and a group of refugees from Southeast Asia. Together, they risked everything to plant seeds for a future that might just save them all.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IaMfIvCTY-o?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 
 ### Batman and Harley Quinn
-*Released on 2017-08-14, vote average 6.1*
+*Released on 2017-08-14, vote average 6.2*
 
 Batman and Nightwing are forced to team with the Joker&#39;s sometimes-girlfriend Harley Quinn to stop a global threat brought about by Poison Ivy and Jason Woodrue, the Floronic Man.
 
@@ -231,23 +197,6 @@ Batman and Nightwing are forced to team with the Joker&#39;s sometimes-girlfrien
   
 
 
-	
-	
-
-### Logan Lucky
-*Released on 2017-08-17, vote average 6.7*
-
-Trying to reverse a family curse, brothers Jimmy and Clyde Logan set out to execute an elaborate robbery during the legendary Coca-Cola 600 race at the Charlotte Motor Speedway.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/aPzvKH8AVf0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -276,23 +225,18 @@ In a world where families are limited to one child due to overpopulation, a set 
 
 
 	
-
-  
-
-
-	
 	
 
-### It
-*Released on 2017-08-17, vote average 6*
+### Logan Lucky
+*Released on 2017-08-17, vote average 6.6*
 
-In a small town in Maine, seven children known as The Losers Club come face to face with life problems, bullies and a monster that takes the shape of a clown called Pennywise.
+Trying to reverse a family curse, brothers Jimmy and Clyde Logan set out to execute an elaborate robbery during the legendary Coca-Cola 600 race at the Charlotte Motor Speedway.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/FnCdOQsX5kc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/aPzvKH8AVf0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -304,6 +248,28 @@ In a small town in Maine, seven children known as The Losers Club come face to f
 
 	
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -343,20 +309,10 @@ In a small town in Maine, seven children known as The Losers Club come face to f
 	
 
 	
-
 	
 
-	
-
-	
-
-	
-
-	
-	
-
-### Science Fiction Volume One: The Osiris Child
-*Released on 2017-08-31, vote average 4*
+### The Osiris Child: Science Fiction Volume One
+*Released on 2017-08-31, vote average 5*
 
 Set in the future in a time of interplanetary colonization, an unlikely pair race against an impending global crisis and are confronted by the monsters that live inside us all.
 
@@ -369,6 +325,16 @@ Set in the future in a time of interplanetary colonization, an unlikely pair rac
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
