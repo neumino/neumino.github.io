@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Hitman&#39;s Bodyguard
-*Released on 2017-08-16, vote average 5.9*
+*Released on 2017-08-16, vote average 6*
 
 The world&#39;s top bodyguard gets a new client, a hit man who must testify at the International Court of Justice. They must put their differences aside and work together to make it to the trial on time.
 
@@ -66,6 +66,11 @@ A young man comes to possess a supernatural notebook, the Death Note, that grant
 
 
 	
+
+  
+
+
+	
 	
 
 ### Birth of the Dragon
@@ -88,37 +93,10 @@ Set against the backdrop of San Francisco’s Chinatown, this cross-cultural bio
 
 
 	
-
-  
-
-
-	
-	
-
-### Starship Troopers: Traitor of Mars
-*Released on 2017-08-21, vote average 5.8*
-
-Federation trooper Johnny Rico is ordered to work with a group of new recruits on a satellite station on Mars, where giant bugs have decided to target their next attack.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8R0yLRoevnA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 	
 
 ### Bushwick
-*Released on 2017-08-25, vote average 5.6*
+*Released on 2017-08-25, vote average 5.7*
 
 In a Brooklyn neighborhood, 20-year-old Lucy and war veteran Stupe must cross a treacherous five blocks to escape an invading military force.
 
@@ -137,30 +115,18 @@ In a Brooklyn neighborhood, 20-year-old Lucy and war veteran Stupe must cross a 
 
 
 	
-
-  
-
-
-	
-	
 	
 
-  
+### Starship Troopers: Traitor of Mars
+*Released on 2017-08-21, vote average 6*
 
-
-	
-	
-
-### A Gentleman
-*Released on 2017-08-25, vote average 8*
-
-Gaurav dreams of settling down with Kavya, the woman of his dreams, but she prefers a man who&#39;s more adventurous and willing to take risks. He soon stands to lose everything when a case of mistaken identity rocks his once-happy life.
+Federation trooper Johnny Rico is ordered to work with a group of new recruits on a satellite station on Mars, where giant bugs have decided to target their next attack.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/IMXifj-peiQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/8R0yLRoevnA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -178,43 +144,16 @@ Gaurav dreams of settling down with Kavya, the woman of his dreams, but she pref
 	
 	
 
-### Batman and Harley Quinn
-*Released on 2017-08-14, vote average 6.2*
+### Crown Heights
+*Released on 2017-08-25, vote average 5*
 
-Batman and Nightwing are forced to team with the Joker&#39;s sometimes-girlfriend Harley Quinn to stop a global threat brought about by Poison Ivy and Jason Woodrue, the Floronic Man.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Qi3yJTc8Gjk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### What Happened to Monday
-*Released on 2017-08-18, vote average 7.3*
-
-In a world where families are limited to one child due to overpopulation, a set of identical septuplets must avoid being put to a long sleep by the government and dangerous infighting while investigating the disappearance of one of their own.
+When Colin Warner was wrongfully convicted of murder, his best friend Carl King devoted his life to proving his innocence.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/hOiWSWLt-NA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/P2sLyAAfQ2g?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -227,16 +166,16 @@ In a world where families are limited to one child due to overpopulation, a set 
 	
 	
 
-### Logan Lucky
-*Released on 2017-08-17, vote average 6.6*
+### All Saints
+*Released on 2017-08-25, vote average 0.8*
 
-Trying to reverse a family curse, brothers Jimmy and Clyde Logan set out to execute an elaborate robbery during the legendary Coca-Cola 600 race at the Charlotte Motor Speedway.
+ALL SAINTS is based on the inspiring true story of salesman-turned-pastor Michael Spurlock (John Corbett), the tiny church he was ordered to shut down, and a group of refugees from Southeast Asia. Together, they risked everything to plant seeds for a future that might just save them all.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/aPzvKH8AVf0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/IaMfIvCTY-o?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -264,7 +203,30 @@ Trying to reverse a family curse, brothers Jimmy and Clyde Logan set out to exec
 
 
 	
+
+  
+
+
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -285,30 +247,6 @@ Trying to reverse a family curse, brothers Jimmy and Clyde Logan set out to exec
 
 
 	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
 	
 
 ### The Osiris Child: Science Fiction Volume One
@@ -325,6 +263,47 @@ Set in the future in a time of interplanetary colonization, an unlikely pair rac
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+	
+
+### The Limehouse Golem
+*Released on 2017-08-31, vote average 6*
+
+A series of murders has shaken the community to the point where people believe that only a legendary creature from dark times - the mythical so-called Golem - must be responsible.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MCJp8-MebGY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
