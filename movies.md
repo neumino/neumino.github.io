@@ -46,6 +46,28 @@ A young man comes to possess a supernatural notebook, the Death Note, that grant
 	
 	
 
+### Starship Troopers: Traitor of Mars
+*Released on 2017-08-21, vote average 5.7*
+
+Federation trooper Johnny Rico is ordered to work with a group of new recruits on a satellite station on Mars, where giant bugs have decided to target their next attack.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8R0yLRoevnA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Birth of the Dragon
 *Released on 2017-08-25, vote average 7.3*
 
@@ -68,16 +90,16 @@ Set against the backdrop of San Francisco’s Chinatown, this cross-cultural bio
 	
 	
 
-### Starship Troopers: Traitor of Mars
-*Released on 2017-08-21, vote average 5.7*
+### The Layover
+*Released on 2017-09-01, vote average 6.5*
 
-Federation trooper Johnny Rico is ordered to work with a group of new recruits on a satellite station on Mars, where giant bugs have decided to target their next attack.
+When their plane is rerouted due to a hurricane warning, two single female best friends find themselves competing for the same guy during an extended layover in St. Louis.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/8R0yLRoevnA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/lvhnNd0RoT8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -89,45 +111,6 @@ Federation trooper Johnny Rico is ordered to work with a group of new recruits o
 
 	
 	
-	
-
-  
-
-
-	
-	
-
-### What Happened to Monday
-*Released on 2017-08-18, vote average 7.4*
-
-In a world where families are limited to one child due to overpopulation, a set of identical septuplets must avoid being put to a long sleep by the government and dangerous infighting while investigating the disappearance of one of their own.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/idZPTuwcMJA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 	
 
   
@@ -158,64 +141,8 @@ When Colin Warner was wrongfully convicted of murder, his best friend Carl King 
 	
 	
 
-### All Saints
-*Released on 2017-08-25, vote average 1.5*
-
-ALL SAINTS is based on the inspiring true story of salesman-turned-pastor Michael Spurlock (John Corbett), the tiny church he was ordered to shut down, and a group of refugees from Southeast Asia. Together, they risked everything to plant seeds for a future that might just save them all.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IaMfIvCTY-o?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Patti Cake$
-*Released on 2017-08-18, vote average 6*
-
-Straight out of Jersey comes Patricia Dombrowski, a.k.a. Killa P, a.k.a. Patti Cake$, an aspiring rapper fighting through a world of strip malls and strip clubs on an unlikely quest for glory.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/L-591Dqa48g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### The Osiris Child: Science Fiction Volume One
-*Released on 2017-08-31, vote average 5.3*
+*Released on 2017-08-31, vote average 4.9*
 
 Set in the future in a time of interplanetary colonization, an unlikely pair race against an impending global crisis and are confronted by the monsters that live inside us all.
 
@@ -236,16 +163,16 @@ Set in the future in a time of interplanetary colonization, an unlikely pair rac
 	
 	
 
-### Bushwick
-*Released on 2017-08-25, vote average 5.6*
+### All Saints
+*Released on 2017-08-25, vote average 1.5*
 
-In a Brooklyn neighborhood, 20-year-old Lucy and war veteran Stupe must cross a treacherous five blocks to escape an invading military force.
+ALL SAINTS is based on the inspiring true story of salesman-turned-pastor Michael Spurlock (John Corbett), the tiny church he was ordered to shut down, and a group of refugees from Southeast Asia. Together, they risked everything to plant seeds for a future that might just save them all.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/3GgKghKUOnw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/IaMfIvCTY-o?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -283,6 +210,15 @@ A series of murders has shaken the community to the point where people believe t
 
 
 	
+	
+	
+
+  
+
+
+	
+	
+	
 
   
 
@@ -291,19 +227,6 @@ A series of murders has shaken the community to the point where people believe t
 
   
 
-
-	
-	
-	
-
-  
-
-
-
-## Opening soon
-
-
-	
 
 	
 	
@@ -322,6 +245,49 @@ A team of Navy SEALs discover an underwater treasure in a Bosnian lake.
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+
+## Opening soon
+
+
+	
+
 	
 
 	
