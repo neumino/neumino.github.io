@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Death Note
-*Released on 2017-08-25, vote average 4.7*
+*Released on 2017-08-25, vote average 4.6*
 
 A young man comes to possess a supernatural notebook, the Death Note, that grants him the power to kill any person simply by writing down their name on the pages. He then decides to use the notebook to kill criminals and change the world, but an enigmatic detective attempts to track him down and end his reign of terror.
 
@@ -46,6 +46,28 @@ A young man comes to possess a supernatural notebook, the Death Note, that grant
 	
 	
 
+### The Layover
+*Released on 2017-09-01, vote average 7.7*
+
+When their plane is rerouted due to a hurricane warning, two single female best friends find themselves competing for the same guy during an extended layover in St. Louis.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/lvhnNd0RoT8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Starship Troopers: Traitor of Mars
 *Released on 2017-08-21, vote average 5.7*
 
@@ -69,7 +91,7 @@ Federation trooper Johnny Rico is ordered to work with a group of new recruits o
 	
 
 ### Birth of the Dragon
-*Released on 2017-08-25, vote average 7.3*
+*Released on 2017-08-25, vote average 5.3*
 
 Set against the backdrop of San Francisco’s Chinatown, this cross-cultural biopic chronicles Bruce Lee’s emergence as a martial-arts superstar after his legendary secret showdown with fellow martial artist Wong Jack Man.
 
@@ -78,79 +100,6 @@ Set against the backdrop of San Francisco’s Chinatown, this cross-cultural bio
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/SL7OfxJo2oA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Layover
-*Released on 2017-09-01, vote average 6.5*
-
-When their plane is rerouted due to a hurricane warning, two single female best friends find themselves competing for the same guy during an extended layover in St. Louis.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/lvhnNd0RoT8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Crown Heights
-*Released on 2017-08-25, vote average 5*
-
-When Colin Warner was wrongfully convicted of murder, his best friend Carl King devoted his life to proving his innocence.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/P2sLyAAfQ2g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Osiris Child: Science Fiction Volume One
-*Released on 2017-08-31, vote average 4.9*
-
-Set in the future in a time of interplanetary colonization, an unlikely pair race against an impending global crisis and are confronted by the monsters that live inside us all.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/lXy5GTk7_c0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -183,6 +132,55 @@ ALL SAINTS is based on the inspiring true story of salesman-turned-pastor Michae
 
 
 	
+
+  
+
+
+	
+	
+
+### The Osiris Child: Science Fiction Volume One
+*Released on 2017-08-31, vote average 4.9*
+
+Set in the future in a time of interplanetary colonization, an unlikely pair race against an impending global crisis and are confronted by the monsters that live inside us all.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/lXy5GTk7_c0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Crown Heights
+*Released on 2017-08-25, vote average 4.3*
+
+When Colin Warner was wrongfully convicted of murder, his best friend Carl King devoted his life to proving his innocence.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/P2sLyAAfQ2g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 
 ### The Limehouse Golem
@@ -199,30 +197,6 @@ A series of murders has shaken the community to the point where people believe t
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 	
 
   
@@ -261,6 +235,43 @@ A team of Navy SEALs discover an underwater treasure in a Bosnian lake.
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Jackals
+*Released on 2017-09-01, vote average 6*
+
+Set in the 1980s, an estranged family hires a cult deprogrammer to take back their teenage son from a murderous cult, but find themselves under siege when the cultists surround their cabin, demanding the boy back.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Ck1HSUfYXBQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 	
 
@@ -277,6 +288,8 @@ A team of Navy SEALs discover an underwater treasure in a Bosnian lake.
   
 
 
+	
+	
 	
 
   
