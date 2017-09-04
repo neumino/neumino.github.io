@@ -47,7 +47,7 @@ A young man comes to possess a supernatural notebook, the Death Note, that grant
 	
 
 ### The Layover
-*Released on 2017-09-01, vote average 7.7*
+*Released on 2017-09-01, vote average 7.2*
 
 When their plane is rerouted due to a hurricane warning, two single female best friends find themselves competing for the same guy during an extended layover in St. Louis.
 
@@ -91,7 +91,7 @@ Federation trooper Johnny Rico is ordered to work with a group of new recruits o
 	
 
 ### Birth of the Dragon
-*Released on 2017-08-25, vote average 5.3*
+*Released on 2017-08-25, vote average 5.1*
 
 Set against the backdrop of San Francisco’s Chinatown, this cross-cultural biopic chronicles Bruce Lee’s emergence as a martial-arts superstar after his legendary secret showdown with fellow martial artist Wong Jack Man.
 
@@ -113,7 +113,7 @@ Set against the backdrop of San Francisco’s Chinatown, this cross-cultural bio
 	
 
 ### All Saints
-*Released on 2017-08-25, vote average 1.5*
+*Released on 2017-08-25, vote average 2.5*
 
 ALL SAINTS is based on the inspiring true story of salesman-turned-pastor Michael Spurlock (John Corbett), the tiny church he was ordered to shut down, and a group of refugees from Southeast Asia. Together, they risked everything to plant seeds for a future that might just save them all.
 
@@ -132,26 +132,6 @@ ALL SAINTS is based on the inspiring true story of salesman-turned-pastor Michae
 
 
 	
-
-  
-
-
-	
-	
-
-### The Osiris Child: Science Fiction Volume One
-*Released on 2017-08-31, vote average 4.9*
-
-Set in the future in a time of interplanetary colonization, an unlikely pair race against an impending global crisis and are confronted by the monsters that live inside us all.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/lXy5GTk7_c0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -183,30 +163,8 @@ When Colin Warner was wrongfully convicted of murder, his best friend Carl King 
 	
 	
 
-### The Limehouse Golem
-*Released on 2017-08-31, vote average 6*
-
-A series of murders has shaken the community to the point where people believe that only a legendary creature from dark times - the mythical so-called Golem - must be responsible.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MCJp8-MebGY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Renegades
-*Released on 2017-09-01, vote average 5.3*
+*Released on 2017-09-01, vote average 4.5*
 
 A team of Navy SEALs discover an underwater treasure in a Bosnian lake.
 
@@ -230,10 +188,22 @@ A team of Navy SEALs discover an underwater treasure in a Bosnian lake.
 
 
 	
+	
 
-  
+### The Osiris Child: Science Fiction Volume One
+*Released on 2017-08-31, vote average 4.6*
 
+Set in the future in a time of interplanetary colonization, an unlikely pair race against an impending global crisis and are confronted by the monsters that live inside us all.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/lXy5GTk7_c0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -248,7 +218,7 @@ A team of Navy SEALs discover an underwater treasure in a Bosnian lake.
 	
 
 ### Jackals
-*Released on 2017-09-01, vote average 6*
+*Released on 2017-09-01, vote average 5.8*
 
 Set in the 1980s, an estranged family hires a cult deprogrammer to take back their teenage son from a murderous cult, but find themselves under siege when the cultists surround their cabin, demanding the boy back.
 
@@ -267,6 +237,50 @@ Set in the 1980s, an estranged family hires a cult deprogrammer to take back the
 
 
 	
+	
+
+### The Limehouse Golem
+*Released on 2017-08-31, vote average 6.1*
+
+A series of murders has shaken the community to the point where people believe that only a legendary creature from dark times - the mythical so-called Golem - must be responsible.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MCJp8-MebGY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Temple
+*Released on 2017-09-01, vote average 3.5*
+
+Three American tourists follow a mysterious map deep into the jungles of Japan searching for an ancient temple. When spirits entrap them, their adventure quickly becomes a horrific nightmare.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/w6bQji-tJrQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -284,12 +298,17 @@ Set in the 1980s, an estranged family hires a cult deprogrammer to take back the
 
 
 	
+	
+	
 
   
 
 
 	
-	
+
+  
+
+
 	
 
   
@@ -300,7 +319,51 @@ Set in the 1980s, an estranged family hires a cult deprogrammer to take back the
 
 
 	
+	
 
+### Rememory
+*Released on 2017-09-08, vote average 6*
+
+The widow of a wise professor stumbles upon one of his inventions that&#39;s able to record and play a person&#39;s memory.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/v86ZsGr3qww?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+	
+	
+
+	
+
+	
+
+	
+	
+
+### Best F(r)iends
+*Released on 2017-09-04, vote average 9*
+
+The second collaboration between Tommy Wiseau and Greg Sestero, focusing on a man who comes across a Mortician that steals the gold from the teeth of the deceased.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Svu3jrsfy3A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -314,13 +377,7 @@ Set in the 1980s, an estranged family hires a cult deprogrammer to take back the
 	
 
 	
-
 	
-
-	
-
-	
-
 	
 
 	
