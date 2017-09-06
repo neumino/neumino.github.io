@@ -68,6 +68,28 @@ When their plane is rerouted due to a hurricane warning, two single female best 
 	
 	
 
+### Renegades
+*Released on 2017-09-01, vote average 4.5*
+
+A team of Navy SEALs discover an underwater treasure in a Bosnian lake.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Bl8INGEnrbQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Birth of the Dragon
 *Released on 2017-08-25, vote average 5.3*
 
@@ -95,6 +117,11 @@ Set against the backdrop of San Francisco’s Chinatown, this cross-cultural bio
 
 
 	
+
+  
+
+
+	
 	
 
 ### All Saints
@@ -111,6 +138,11 @@ ALL SAINTS is based on the inspiring true story of salesman-turned-pastor Michae
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -141,38 +173,6 @@ When Colin Warner was wrongfully convicted of murder, his best friend Carl King 
 	
 	
 
-### Renegades
-*Released on 2017-09-01, vote average 4.5*
-
-A team of Navy SEALs discover an underwater treasure in a Bosnian lake.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Bl8INGEnrbQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### Jackals
 *Released on 2017-09-01, vote average 6.8*
 
@@ -186,6 +186,13 @@ Set in the 1980s, an estranged family hires a cult deprogrammer to take back the
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -218,7 +225,7 @@ A series of murders has shaken the community to the point where people believe t
 	
 
 ### The Osiris Child: Science Fiction Volume One
-*Released on 2017-08-31, vote average 4.6*
+*Released on 2017-08-31, vote average 5.3*
 
 Set in the future in a time of interplanetary colonization, an unlikely pair race against an impending global crisis and are confronted by the monsters that live inside us all.
 
@@ -231,16 +238,6 @@ Set in the future in a time of interplanetary colonization, an unlikely pair rac
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -274,18 +271,6 @@ Three American tourists follow a mysterious map deep into the jungles of Japan s
 
 
 	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
 	
 
 ### Best F(r)iends
@@ -308,7 +293,20 @@ The second collaboration between Tommy Wiseau and Greg Sestero, focusing on a ma
 
 
 	
+
+  
+
+
 	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -340,6 +338,12 @@ The widow of a wise professor stumbles upon one of his inventions that&#39;s abl
 	
 
 	
+
+	
+
+	
+
+	
 	
 	
 
@@ -350,17 +354,11 @@ The widow of a wise professor stumbles upon one of his inventions that&#39;s abl
 	
 
 	
-
 	
-
-	
-
 	
 
 	
 
-	
-	
 	
 
 	
