@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Layover
-*Released on 2017-09-01, vote average 7.2*
+*Released on 2017-09-01, vote average 5.1*
 
 When their plane is rerouted due to a hurricane warning, two single female best friends find themselves competing for the same guy during an extended layover in St. Louis.
 
@@ -68,16 +68,16 @@ A young man comes to possess a supernatural notebook, the Death Note, that grant
 	
 	
 
-### Birth of the Dragon
-*Released on 2017-08-25, vote average 5.3*
+### Rememory
+*Released on 2017-09-08, vote average 5.5*
 
-Set against the backdrop of San Francisco’s Chinatown, this cross-cultural biopic chronicles Bruce Lee’s emergence as a martial-arts superstar after his legendary secret showdown with fellow martial artist Wong Jack Man.
+The widow of a wise professor stumbles upon one of his inventions that&#39;s able to record and play a person&#39;s memory.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/SL7OfxJo2oA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/v86ZsGr3qww?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -100,6 +100,55 @@ A team of Navy SEALs discover an underwater treasure in a Bosnian lake.
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/Bl8INGEnrbQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Birth of the Dragon
+*Released on 2017-08-25, vote average 5.3*
+
+Set against the backdrop of San Francisco’s Chinatown, this cross-cultural biopic chronicles Bruce Lee’s emergence as a martial-arts superstar after his legendary secret showdown with fellow martial artist Wong Jack Man.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/SL7OfxJo2oA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Home Again
+*Released on 2017-09-08, vote average 3.8*
+
+Life for a single mom in Los Angeles takes an unexpected turn when she allows three young guys to move in with her.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/l9lmo3zdM4M?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -144,33 +193,6 @@ ALL SAINTS is based on the inspiring true story of salesman-turned-pastor Michae
 
 
 	
-
-  
-
-
-	
-	
-
-### Crown Heights
-*Released on 2017-08-25, vote average 4.3*
-
-When Colin Warner was wrongfully convicted of murder, his best friend Carl King devoted his life to proving his innocence.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/P2sLyAAfQ2g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 	
 
 ### Jackals
@@ -193,18 +215,50 @@ Set in the 1980s, an estranged family hires a cult deprogrammer to take back the
 
 
 	
+
+  
+
+
 	
 
-### The Osiris Child: Science Fiction Volume One
-*Released on 2017-08-31, vote average 5.3*
+  
 
-Set in the future in a time of interplanetary colonization, an unlikely pair race against an impending global crisis and are confronted by the monsters that live inside us all.
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Crown Heights
+*Released on 2017-08-25, vote average 5.4*
+
+When Colin Warner was wrongfully convicted of murder, his best friend Carl King devoted his life to proving his innocence.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/lXy5GTk7_c0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/P2sLyAAfQ2g?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -215,31 +269,6 @@ Set in the future in a time of interplanetary colonization, an unlikely pair rac
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Limehouse Golem
-*Released on 2017-08-31, vote average 6.1*
-
-A series of murders has shaken the community to the point where people believe that only a legendary creature from dark times - the mythical so-called Golem - must be responsible.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MCJp8-MebGY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -247,32 +276,7 @@ A series of murders has shaken the community to the point where people believe t
 
 
 	
-
-  
-
-
 	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -323,9 +327,28 @@ Life for a single mom in Los Angeles takes an unexpected turn when she allows th
 	
 
 	
+	
+
+### Mother!
+*Released on 2017-09-13, vote average 10*
+
+A couple&#39;s relationship is tested when uninvited guests arrive at their home, disrupting their tranquil existence.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_0NF2YP7SU8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
+	
+	
 	
 
 	
