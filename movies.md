@@ -46,16 +46,16 @@ When their plane is rerouted due to a hurricane warning, two single female best 
 	
 	
 
-### Death Note
-*Released on 2017-08-25, vote average 4.6*
+### Rememory
+*Released on 2017-09-08, vote average 5.5*
 
-A young man comes to possess a supernatural notebook, the Death Note, that grants him the power to kill any person simply by writing down their name on the pages. He then decides to use the notebook to kill criminals and change the world, but an enigmatic detective attempts to track him down and end his reign of terror.
+The widow of a wise professor stumbles upon one of his inventions that&#39;s able to record and play a person&#39;s memory.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/HMs3CPB6ukg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/v86ZsGr3qww?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,16 +68,16 @@ A young man comes to possess a supernatural notebook, the Death Note, that grant
 	
 	
 
-### Rememory
-*Released on 2017-09-08, vote average 5.5*
+### Home Again
+*Released on 2017-09-08, vote average 3.8*
 
-The widow of a wise professor stumbles upon one of his inventions that&#39;s able to record and play a person&#39;s memory.
+Life for a single mom in Los Angeles takes an unexpected turn when she allows three young guys to move in with her.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/v86ZsGr3qww?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/l9lmo3zdM4M?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -111,100 +111,24 @@ A team of Navy SEALs discover an underwater treasure in a Bosnian lake.
 
 	
 	
+	
 
-### Birth of the Dragon
-*Released on 2017-08-25, vote average 5.3*
+  
 
-Set against the backdrop of San Francisco’s Chinatown, this cross-cultural biopic chronicles Bruce Lee’s emergence as a martial-arts superstar after his legendary secret showdown with fellow martial artist Wong Jack Man.
+
+	
+	
+
+### The Good Catholic
+*Released on 2017-09-08, vote average 1*
+
+An idealistic young priest is dedicated to his calling until he meets a woman at confession. After the meeting, he seeks guidance from his fellow priests.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/SL7OfxJo2oA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Home Again
-*Released on 2017-09-08, vote average 3.8*
-
-Life for a single mom in Los Angeles takes an unexpected turn when she allows three young guys to move in with her.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/l9lmo3zdM4M?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### All Saints
-*Released on 2017-08-25, vote average 2.5*
-
-ALL SAINTS is based on the inspiring true story of salesman-turned-pastor Michael Spurlock (John Corbett), the tiny church he was ordered to shut down, and a group of refugees from Southeast Asia. Together, they risked everything to plant seeds for a future that might just save them all.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IaMfIvCTY-o?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Jackals
-*Released on 2017-09-01, vote average 6.8*
-
-Set in the 1980s, an estranged family hires a cult deprogrammer to take back their teenage son from a murderous cult, but find themselves under siege when the cultists surround their cabin, demanding the boy back.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Ck1HSUfYXBQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ENzlngM8xEs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -225,7 +149,25 @@ Set in the 1980s, an estranged family hires a cult deprogrammer to take back the
 
 
 	
+
+  
+
+
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -247,36 +189,20 @@ Set in the 1980s, an estranged family hires a cult deprogrammer to take back the
 
 
 	
-	
 
-### Crown Heights
-*Released on 2017-08-25, vote average 5.4*
+  
 
-When Colin Warner was wrongfully convicted of murder, his best friend Carl King devoted his life to proving his innocence.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/P2sLyAAfQ2g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
 
 
 	
-	
-	
 
   
 
 
-	
-	
 	
 
   
@@ -285,46 +211,6 @@ When Colin Warner was wrongfully convicted of murder, his best friend Carl King 
 
 ## Opening soon
 
-
-	
-	
-
-### Rememory
-*Released on 2017-09-08, vote average 5.5*
-
-The widow of a wise professor stumbles upon one of his inventions that&#39;s able to record and play a person&#39;s memory.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/v86ZsGr3qww?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Home Again
-*Released on 2017-09-08, vote average 3.8*
-
-Life for a single mom in Los Angeles takes an unexpected turn when she allows three young guys to move in with her.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/l9lmo3zdM4M?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
 
 	
 	
@@ -346,15 +232,19 @@ A couple&#39;s relationship is tested when uninvited guests arrive at their home
 	
 
 	
-
 	
-	
-	
-
 	
 
 	
+
 	
+
+	
+
+	
+
+	
+
 	
 
 	
