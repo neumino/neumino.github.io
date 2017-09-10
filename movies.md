@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Layover
-*Released on 2017-09-01, vote average 5.1*
+*Released on 2017-09-01, vote average 4.4*
 
 When their plane is rerouted due to a hurricane warning, two single female best friends find themselves competing for the same guy during an extended layover in St. Louis.
 
@@ -47,7 +47,7 @@ When their plane is rerouted due to a hurricane warning, two single female best 
 	
 
 ### Rememory
-*Released on 2017-09-08, vote average 5.5*
+*Released on 2017-09-08, vote average 6.5*
 
 The widow of a wise professor stumbles upon one of his inventions that&#39;s able to record and play a person&#39;s memory.
 
@@ -69,7 +69,7 @@ The widow of a wise professor stumbles upon one of his inventions that&#39;s abl
 	
 
 ### Home Again
-*Released on 2017-09-08, vote average 3.8*
+*Released on 2017-09-07, vote average 3.8*
 
 Life for a single mom in Los Angeles takes an unexpected turn when she allows three young guys to move in with her.
 
@@ -119,6 +119,28 @@ A team of Navy SEALs discover an underwater treasure in a Bosnian lake.
 	
 	
 
+### True to the Game
+*Released on 2017-09-08, vote average 6*
+
+Based on the Terri Woods best selling novel, True to the Game is the love story of Quadir Richards, a charismatic drug lord, and Gena Rollins, a young girl from the projects of Philly. Quadir was able to gain the trust and love of Gena and was on his way out of the game to start a new life with his future bride when tragedy strikes.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/XUDdveQqYdk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Good Catholic
 *Released on 2017-09-08, vote average 1*
 
@@ -144,10 +166,29 @@ An idealistic young priest is dedicated to his calling until he meets a woman at
 
 
 	
+	
+	
 
   
 
 
+	
+	
+
+### The Limehouse Golem
+*Released on 2017-08-31, vote average 6.6*
+
+A series of murders has shaken the community to the point where people believe that only a legendary creature from dark times – the mythical Golem – must be responsible.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MCJp8-MebGY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -174,10 +215,29 @@ An idealistic young priest is dedicated to his calling until he meets a woman at
 
 
 	
+	
+
+### Jackals
+*Released on 2017-09-01, vote average 6.8*
+
+Set in the 1980s, an estranged family hires a cult deprogrammer to take back their teenage son from a murderous cult, but find themselves under siege when the cultists surround their cabin, demanding the boy back.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Ck1HSUfYXBQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
+	
+	
 	
 
   
@@ -189,10 +249,22 @@ An idealistic young priest is dedicated to his calling until he meets a woman at
 
 
 	
+	
 
-  
+### The Vault
+*Released on 2017-09-01, vote average 4.8*
 
+Two estranged sisters are forced to rob a bank in order to save their brother. But this is no ordinary bank.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nu6_3CPnCjE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -216,7 +288,7 @@ An idealistic young priest is dedicated to his calling until he meets a woman at
 	
 
 ### Mother!
-*Released on 2017-09-13, vote average 10*
+*Released on 2017-09-13, vote average 3.7*
 
 A couple&#39;s relationship is tested when uninvited guests arrive at their home, disrupting their tranquil existence.
 
@@ -232,9 +304,9 @@ A couple&#39;s relationship is tested when uninvited guests arrive at their home
 	
 
 	
-	
-	
 
+	
+	
 	
 
 	
