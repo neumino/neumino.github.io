@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Layover
-*Released on 2017-09-01, vote average 4.4*
+*Released on 2017-09-01, vote average 4.6*
 
 When their plane is rerouted due to a hurricane warning, two single female best friends find themselves competing for the same guy during an extended layover in St. Louis.
 
@@ -304,25 +304,22 @@ A couple&#39;s relationship is tested when uninvited guests arrive at their home
 	
 
 	
-
-	
-	
 	
 
-	
+### American Assassin
+*Released on 2017-09-14, vote average 3*
+
+Mitch Rapp is a CIA black ops recruit under the instruction of Cold War veteran Stan Hurley. The pair then is enlisted by CIA Deputy Director Irene Kennedy to investigate a wave of apparently random attacks on military and civilian targets. Together they discover a pattern in the violence that leads them to a joint mission with a lethal Turkish agent to stop a mysterious operative intent on starting a world war in the Middle East.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/XwHAGKxsbcg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
@@ -337,6 +334,41 @@ A couple&#39;s relationship is tested when uninvited guests arrive at their home
 
 	
 
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Borg vs McEnroe
+*Released on 2017-09-15, vote average 8*
+
+Borg/McEnroe is a film about one of the world&#39;s greatest icons Björn Borg and his biggest rival, the young and talented John McEnroe and their legendary duel during the 1980&#39;s Wimbledon tournament. It&#39;s a story about two men that became legends and the price they had to pay.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/RTfD1_-lEMg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
