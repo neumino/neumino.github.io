@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Layover
-*Released on 2017-09-01, vote average 4.6*
+*Released on 2017-09-01, vote average 4.5*
 
 When their plane is rerouted due to a hurricane warning, two single female best friends find themselves competing for the same guy during an extended layover in St. Louis.
 
@@ -40,6 +40,13 @@ When their plane is rerouted due to a hurricane warning, two single female best 
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+  
+
+
+	
+	
+	
+
   
 
 
@@ -90,35 +97,6 @@ Life for a single mom in Los Angeles takes an unexpected turn when she allows th
 	
 	
 
-### Renegades
-*Released on 2017-09-01, vote average 5*
-
-A team of Navy SEALs discover an underwater treasure in a Bosnian lake.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Bl8INGEnrbQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
 ### True to the Game
 *Released on 2017-09-08, vote average 6*
 
@@ -151,6 +129,28 @@ An idealistic young priest is dedicated to his calling until he meets a woman at
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/ENzlngM8xEs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Renegades
+*Released on 2017-09-01, vote average 5*
+
+A team of Navy SEALs discover an underwater treasure in a Bosnian lake.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Bl8INGEnrbQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -215,30 +215,6 @@ A series of murders has shaken the community to the point where people believe t
 
 
 	
-	
-
-### Jackals
-*Released on 2017-09-01, vote average 6.8*
-
-Set in the 1980s, an estranged family hires a cult deprogrammer to take back their teenage son from a murderous cult, but find themselves under siege when the cultists surround their cabin, demanding the boy back.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Ck1HSUfYXBQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
 
   
 
@@ -249,22 +225,10 @@ Set in the 1980s, an estranged family hires a cult deprogrammer to take back the
 
 
 	
-	
 
-### The Vault
-*Released on 2017-09-01, vote average 4.8*
+  
 
-Two estranged sisters are forced to rob a bank in order to save their brother. But this is no ordinary bank.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nu6_3CPnCjE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -288,7 +252,7 @@ Two estranged sisters are forced to rob a bank in order to save their brother. B
 	
 
 ### Mother!
-*Released on 2017-09-13, vote average 3.7*
+*Released on 2017-09-13, vote average 5.9*
 
 A couple&#39;s relationship is tested when uninvited guests arrive at their home, disrupting their tranquil existence.
 
@@ -301,6 +265,8 @@ A couple&#39;s relationship is tested when uninvited guests arrive at their home
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
@@ -349,28 +315,28 @@ Mitch Rapp is a CIA black ops recruit under the instruction of Cold War veteran 
 	
 
 	
-
 	
 
-	
-	
+### Leatherface
+*Released on 2017-09-14, vote average 7*
 
-### Borg vs McEnroe
-*Released on 2017-09-15, vote average 8*
-
-Borg/McEnroe is a film about one of the world&#39;s greatest icons Björn Borg and his biggest rival, the young and talented John McEnroe and their legendary duel during the 1980&#39;s Wimbledon tournament. It&#39;s a story about two men that became legends and the price they had to pay.
+A young nurse is kidnapped by a group of violent teens who escape from a mental hospital and take her on the road trip from hell. Pursued by an equally deranged lawman out for revenge, one of these teens is destined for tragedy and horrors that will destroy his mind, molding him into the monster we now call Leatherface.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/RTfD1_-lEMg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/wt8wybR4sfk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
 	
 
+	
+
+	
+	
 	
 
 	
