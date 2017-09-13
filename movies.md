@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Layover
-*Released on 2017-09-01, vote average 4.5*
+*Released on 2017-09-01, vote average 4.7*
 
 When their plane is rerouted due to a hurricane warning, two single female best friends find themselves competing for the same guy during an extended layover in St. Louis.
 
@@ -45,6 +45,33 @@ When their plane is rerouted due to a hurricane warning, two single female best 
 
 	
 	
+
+### Mother!
+*Released on 2017-09-13, vote average 5.9*
+
+A couple&#39;s relationship is tested when uninvited guests arrive at their home, disrupting their tranquil existence.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_0NF2YP7SU8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -54,7 +81,7 @@ When their plane is rerouted due to a hurricane warning, two single female best 
 	
 
 ### Rememory
-*Released on 2017-09-08, vote average 6.5*
+*Released on 2017-09-08, vote average 6.6*
 
 The widow of a wise professor stumbles upon one of his inventions that&#39;s able to record and play a person&#39;s memory.
 
@@ -76,7 +103,7 @@ The widow of a wise professor stumbles upon one of his inventions that&#39;s abl
 	
 
 ### Home Again
-*Released on 2017-09-07, vote average 3.8*
+*Released on 2017-09-07, vote average 3.4*
 
 Life for a single mom in Los Angeles takes an unexpected turn when she allows three young guys to move in with her.
 
@@ -142,7 +169,7 @@ An idealistic young priest is dedicated to his calling until he meets a woman at
 	
 
 ### Renegades
-*Released on 2017-09-01, vote average 5*
+*Released on 2017-09-01, vote average 4.3*
 
 A team of Navy SEALs discover an underwater treasure in a Bosnian lake.
 
@@ -160,13 +187,6 @@ A team of Navy SEALs discover an underwater treasure in a Bosnian lake.
   
 
 
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -200,10 +220,7 @@ A series of murders has shaken the community to the point where people believe t
 
 
 	
-
-  
-
-
+	
 	
 
   
@@ -305,16 +322,6 @@ Mitch Rapp is a CIA black ops recruit under the instruction of Cold War veteran 
 	
 
 	
-
-	
-
-	
-
-	
-
-	
-
-	
 	
 
 ### Leatherface
@@ -336,9 +343,19 @@ A young nurse is kidnapped by a group of violent teens who escape from a mental 
 	
 
 	
-	
+
 	
 
+	
+
+	
+
+	
+
+	
+
+	
+	
 	
 
 
