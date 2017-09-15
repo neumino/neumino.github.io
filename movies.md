@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### It
-*Released on 2017-09-06, vote average 7.4*
+*Released on 2017-09-06, vote average 7.6*
 
 In a small town in Maine, seven children known as The Losers Club come face to face with life problems, bullies and a monster that takes the shape of a clown called Pennywise.
 
@@ -69,7 +69,7 @@ When their plane is rerouted due to a hurricane warning, two single female best 
 	
 
 ### Mother!
-*Released on 2017-09-13, vote average 6.4*
+*Released on 2017-09-13, vote average 6.7*
 
 A couple&#39;s relationship is tested when uninvited guests arrive at their home, disrupting their tranquil existence.
 
@@ -88,10 +88,15 @@ A couple&#39;s relationship is tested when uninvited guests arrive at their home
 
 
 	
+
+  
+
+
+	
 	
 
 ### Gun Shy
-*Released on 2017-09-08, vote average 4.8*
+*Released on 2017-09-08, vote average 5.3*
 
 A mega-platinum, aging rock star&#39;s supermodel wife is abducted by pirates while vacationing in Chile.
 
@@ -100,55 +105,6 @@ A mega-platinum, aging rock star&#39;s supermodel wife is abducted by pirates 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/e0mmLQsnd_I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### American Assassin
-*Released on 2017-09-14, vote average 4.2*
-
-Mitch Rapp is a CIA black ops recruit under the instruction of Cold War veteran Stan Hurley. The pair then is enlisted by CIA Deputy Director Irene Kennedy to investigate a wave of apparently random attacks on military and civilian targets. Together they discover a pattern in the violence that leads them to a joint mission with a lethal Turkish agent to stop a mysterious operative intent on starting a world war in the Middle East.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XwHAGKxsbcg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Home Again
-*Released on 2017-09-07, vote average 4.4*
-
-Life for a single mom in Los Angeles takes an unexpected turn when she allows three young guys to move in with her.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/l9lmo3zdM4M?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -183,19 +139,48 @@ The widow of a wise professor stumbles upon one of his inventions that&#39;s abl
 	
 	
 
-### True to the Game
-*Released on 2017-09-08, vote average 6*
+### American Assassin
+*Released on 2017-09-14, vote average 4.4*
 
-Based on the Terri Woods best selling novel, True to the Game is the love story of Quadir Richards, a charismatic drug lord, and Gena Rollins, a young girl from the projects of Philly. Quadir was able to gain the trust and love of Gena and was on his way out of the game to start a new life with his future bride when tragedy strikes.
+Following the murder of his fiancée, Mitch Rapp trains under the instruction of Cold War veteran Stan Hurley. The pair then is enlisted to investigate a wave of apparently random attacks on military and civilian targets.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/XUDdveQqYdk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/XwHAGKxsbcg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+	
+
+### Home Again
+*Released on 2017-09-07, vote average 4*
+
+Life for a single mom in Los Angeles takes an unexpected turn when she allows three young guys to move in with her.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/l9lmo3zdM4M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -215,6 +200,28 @@ An idealistic young priest is dedicated to his calling until he meets a woman at
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/ENzlngM8xEs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### True to the Game
+*Released on 2017-09-08, vote average 5.6*
+
+Based on the Terri Woods best selling novel, True to the Game is the love story of Quadir Richards, a charismatic drug lord, and Gena Rollins, a young girl from the projects of Philly. Quadir was able to gain the trust and love of Gena and was on his way out of the game to start a new life with his future bride when tragedy strikes.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/XUDdveQqYdk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -247,6 +254,8 @@ A team of Navy SEALs discover an underwater treasure in a Bosnian lake.
 
 
 	
+	
+	
 
   
 
@@ -257,18 +266,23 @@ A team of Navy SEALs discover an underwater treasure in a Bosnian lake.
 
 
 	
+
+  
+
+
+	
 	
 
-### The Limehouse Golem
-*Released on 2017-08-31, vote average 6.6*
+### Leatherface
+*Released on 2017-09-14, vote average 8.3*
 
-A series of murders has shaken the community to the point where people believe that only a legendary creature from dark times – the mythical Golem – must be responsible.
+A young nurse is kidnapped by a group of violent teens who escape from a mental hospital and take her on the road trip from hell. Pursued by an equally deranged lawman out for revenge, one of these teens is destined for tragedy and horrors that will destroy his mind, molding him into the monster we now call Leatherface.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/MCJp8-MebGY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/wt8wybR4sfk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -289,11 +303,6 @@ A series of murders has shaken the community to the point where people believe t
 
 
 	
-
-  
-
-
-	
 	
 	
 
@@ -301,10 +310,7 @@ A series of murders has shaken the community to the point where people believe t
 
 
 	
-
-  
-
-
+	
 	
 
   
@@ -317,39 +323,16 @@ A series of murders has shaken the community to the point where people believe t
 	
 	
 
-### American Assassin
-*Released on 2017-09-14, vote average 4.2*
+### Kingsman: The Golden Circle
+*Released on 2017-09-20, vote average 9*
 
-Mitch Rapp is a CIA black ops recruit under the instruction of Cold War veteran Stan Hurley. The pair then is enlisted by CIA Deputy Director Irene Kennedy to investigate a wave of apparently random attacks on military and civilian targets. Together they discover a pattern in the violence that leads them to a joint mission with a lethal Turkish agent to stop a mysterious operative intent on starting a world war in the Middle East.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XwHAGKxsbcg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
-	
-
-### Leatherface
-*Released on 2017-09-14, vote average 7*
-
-A young nurse is kidnapped by a group of violent teens who escape from a mental hospital and take her on the road trip from hell. Pursued by an equally deranged lawman out for revenge, one of these teens is destined for tragedy and horrors that will destroy his mind, molding him into the monster we now call Leatherface.
+When an attack on the Kingsman headquarters takes place and a new villain rises, Eggsy and Merlin are forced to work together with the American agency known as the Statesman to save the world.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/wt8wybR4sfk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/oXx9tr89fZA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -373,6 +356,12 @@ Borg/McEnroe is a film about one of the world&#39;s greatest icons Björn Borg a
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
 	
 
 	
@@ -408,8 +397,6 @@ Supernatural thriller where a young woman discovers she has strange powers.
 
 	
 
-	
-	
 	
 
 	
