@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### It
-*Released on 2017-09-06, vote average 7.6*
+*Released on 2017-09-05, vote average 7.5*
 
 In a small town in Maine, seven children known as The Losers Club come face to face with life problems, bullies and a monster that takes the shape of a clown called Pennywise.
 
@@ -46,30 +46,8 @@ In a small town in Maine, seven children known as The Losers Club come face to f
 	
 	
 
-### The Layover
-*Released on 2017-09-01, vote average 4.7*
-
-When their plane is rerouted due to a hurricane warning, two single female best friends find themselves competing for the same guy during an extended layover in St. Louis.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/lvhnNd0RoT8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Mother!
-*Released on 2017-09-13, vote average 6.7*
+*Released on 2017-09-13, vote average 6.3*
 
 A couple&#39;s relationship is tested when uninvited guests arrive at their home, disrupting their tranquil existence.
 
@@ -87,6 +65,52 @@ A couple&#39;s relationship is tested when uninvited guests arrive at their home
   
 
 
+	
+	
+
+### American Assassin
+*Released on 2017-09-14, vote average 4.1*
+
+Following the murder of his fiancée, Mitch Rapp trains under the instruction of Cold War veteran Stan Hurley. The pair then is enlisted to investigate a wave of apparently random attacks on military and civilian targets.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/XwHAGKxsbcg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Home Again
+*Released on 2017-09-07, vote average 3.8*
+
+Life for a single mom in Los Angeles takes an unexpected turn when she allows three young guys to move in with her.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/l9lmo3zdM4M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -118,7 +142,7 @@ A mega-platinum, aging rock star&#39;s supermodel wife is abducted by pirates 
 	
 
 ### Rememory
-*Released on 2017-09-08, vote average 6.6*
+*Released on 2017-09-08, vote average 6.5*
 
 The widow of a wise professor stumbles upon one of his inventions that&#39;s able to record and play a person&#39;s memory.
 
@@ -138,50 +162,11 @@ The widow of a wise professor stumbles upon one of his inventions that&#39;s abl
 
 	
 	
-
-### American Assassin
-*Released on 2017-09-14, vote average 4.4*
-
-Following the murder of his fiancée, Mitch Rapp trains under the instruction of Cold War veteran Stan Hurley. The pair then is enlisted to investigate a wave of apparently random attacks on military and civilian targets.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XwHAGKxsbcg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
 
 
-	
-	
-
-### Home Again
-*Released on 2017-09-07, vote average 4*
-
-Life for a single mom in Los Angeles takes an unexpected turn when she allows three young guys to move in with her.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/l9lmo3zdM4M?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -191,7 +176,7 @@ Life for a single mom in Los Angeles takes an unexpected turn when she allows th
 	
 
 ### The Good Catholic
-*Released on 2017-09-08, vote average 1*
+*Released on 2017-09-08, vote average 2.3*
 
 An idealistic young priest is dedicated to his calling until he meets a woman at confession. After the meeting, he seeks guidance from his fellow priests.
 
@@ -203,6 +188,13 @@ An idealistic young priest is dedicated to his calling until he meets a woman at
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -234,16 +226,16 @@ Based on the Terri Woods best selling novel, True to the Game is the love story 
 	
 	
 
-### Renegades
-*Released on 2017-09-01, vote average 4.3*
+### Borg vs McEnroe
+*Released on 2017-09-15, vote average 8*
 
-A team of Navy SEALs discover an underwater treasure in a Bosnian lake.
+Borg/McEnroe is a film about one of the world&#39;s greatest icons Björn Borg and his biggest rival, the young and talented John McEnroe and their legendary duel during the 1980&#39;s Wimbledon tournament. It&#39;s a story about two men that became legends and the price they had to pay.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Bl8INGEnrbQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/RTfD1_-lEMg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -255,6 +247,48 @@ A team of Navy SEALs discover an underwater treasure in a Bosnian lake.
 
 	
 	
+
+### Roof Culture Asia
+*Released on 2017-09-04, vote average 9.7*
+
+Team Storror showcase Parkour on a stage never before seen - the rooftops of Asian megacities. The film follows team Storror on their exploration into what drives them to push the sport to such extremes, and the battles that face them when trying to shoot a feature film totally guerilla. RCA delves into the mental and physical preparation Parkour athletes have to undertake to make impossible &#39;leaps of faith&#39;, possible.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/BDpopiBqm9Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Thelma
+*Released on 2017-09-15, vote average 8*
+
+Supernatural thriller where a young woman discovers she has strange powers.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vgQMHG9SGlU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -274,7 +308,7 @@ A team of Navy SEALs discover an underwater treasure in a Bosnian lake.
 	
 
 ### Leatherface
-*Released on 2017-09-14, vote average 8.3*
+*Released on 2017-09-14, vote average 5.5*
 
 A young nurse is kidnapped by a group of violent teens who escape from a mental hospital and take her on the road trip from hell. Pursued by an equally deranged lawman out for revenge, one of these teens is destined for tragedy and horrors that will destroy his mind, molding him into the monster we now call Leatherface.
 
@@ -297,25 +331,6 @@ A young nurse is kidnapped by a group of violent teens who escape from a mental 
   
 
 
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -324,7 +339,7 @@ A young nurse is kidnapped by a group of violent teens who escape from a mental 
 	
 
 ### Kingsman: The Golden Circle
-*Released on 2017-09-20, vote average 9*
+*Released on 2017-09-20, vote average 9.3*
 
 When an attack on the Kingsman headquarters takes place and a new villain rises, Eggsy and Merlin are forced to work together with the American agency known as the Statesman to save the world.
 
@@ -340,23 +355,6 @@ When an attack on the Kingsman headquarters takes place and a new villain rises,
 	
 
 	
-	
-
-### Borg vs McEnroe
-*Released on 2017-09-15, vote average 8*
-
-Borg/McEnroe is a film about one of the world&#39;s greatest icons Björn Borg and his biggest rival, the young and talented John McEnroe and their legendary duel during the 1980&#39;s Wimbledon tournament. It&#39;s a story about two men that became legends and the price they had to pay.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/RTfD1_-lEMg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
@@ -370,23 +368,6 @@ Borg/McEnroe is a film about one of the world&#39;s greatest icons Björn Borg a
 
 	
 
-	
-	
-
-### Thelma
-*Released on 2017-09-15, vote average 8*
-
-Supernatural thriller where a young woman discovers she has strange powers.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vgQMHG9SGlU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
