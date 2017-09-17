@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### It
-*Released on 2017-09-05, vote average 7.5*
+*Released on 2017-09-05, vote average 7.6*
 
 In a small town in Maine, seven children known as The Losers Club come face to face with life problems, bullies and a monster that takes the shape of a clown called Pennywise.
 
@@ -47,7 +47,7 @@ In a small town in Maine, seven children known as The Losers Club come face to f
 	
 
 ### Mother!
-*Released on 2017-09-13, vote average 6.3*
+*Released on 2017-09-13, vote average 6.2*
 
 A couple&#39;s relationship is tested when uninvited guests arrive at their home, disrupting their tranquil existence.
 
@@ -59,6 +59,13 @@ A couple&#39;s relationship is tested when uninvited guests arrive at their home
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -89,16 +96,9 @@ Following the murder of his fiancée, Mitch Rapp trains under the instruction of
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Home Again
-*Released on 2017-09-07, vote average 3.8*
+*Released on 2017-09-07, vote average 3.6*
 
 Life for a single mom in Los Angeles takes an unexpected turn when she allows three young guys to move in with her.
 
@@ -107,28 +107,6 @@ Life for a single mom in Los Angeles takes an unexpected turn when she allows th
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/l9lmo3zdM4M?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Gun Shy
-*Released on 2017-09-08, vote average 5.3*
-
-A mega-platinum, aging rock star&#39;s supermodel wife is abducted by pirates while vacationing in Chile.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/e0mmLQsnd_I?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -162,29 +140,17 @@ The widow of a wise professor stumbles upon one of his inventions that&#39;s abl
 
 	
 	
-	
 
-  
+### Gun Shy
+*Released on 2017-09-08, vote average 5.3*
 
-
-	
-
-  
-
-
-	
-	
-
-### The Good Catholic
-*Released on 2017-09-08, vote average 2.3*
-
-An idealistic young priest is dedicated to his calling until he meets a woman at confession. After the meeting, he seeks guidance from his fellow priests.
+A mega-platinum, aging rock star&#39;s supermodel wife is abducted by pirates while vacationing in Chile.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ENzlngM8xEs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/e0mmLQsnd_I?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -195,50 +161,6 @@ An idealistic young priest is dedicated to his calling until he meets a woman at
 
 
 	
-	
-	
-
-  
-
-
-	
-	
-
-### True to the Game
-*Released on 2017-09-08, vote average 5.6*
-
-Based on the Terri Woods best selling novel, True to the Game is the love story of Quadir Richards, a charismatic drug lord, and Gena Rollins, a young girl from the projects of Philly. Quadir was able to gain the trust and love of Gena and was on his way out of the game to start a new life with his future bride when tragedy strikes.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XUDdveQqYdk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Borg vs McEnroe
-*Released on 2017-09-15, vote average 8*
-
-Borg/McEnroe is a film about one of the world&#39;s greatest icons Björn Borg and his biggest rival, the young and talented John McEnroe and their legendary duel during the 1980&#39;s Wimbledon tournament. It&#39;s a story about two men that became legends and the price they had to pay.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/RTfD1_-lEMg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -258,6 +180,62 @@ Team Storror showcase Parkour on a stage never before seen - the rooftops of Asi
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/BDpopiBqm9Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Justice
+*Released on 2017-09-15, vote average 6*
+
+A U.S. Marshal seeking justice for his brother&#39;s murder defends a small town from a corrupt Mayor and his henchmen with intents to revive the civil war.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/I3d9y19fRR0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### First They Killed My Father: A Daughter of Cambodia Remembers
+*Released on 2017-09-15, vote average 8.3*
+
+Cambodian author and human rights activist Loung Ung recounts the horrors she suffered under the rule of the deadly Khmer Rouge.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Ty34ABLXur8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -295,32 +273,54 @@ Supernatural thriller where a young woman discovers she has strange powers.
 
 
 	
-
-  
-
-
 	
 
-  
+### Simran
+*Released on 2017-09-15, vote average 8*
 
-
-	
-	
-
-### Leatherface
-*Released on 2017-09-14, vote average 5.5*
-
-A young nurse is kidnapped by a group of violent teens who escape from a mental hospital and take her on the road trip from hell. Pursued by an equally deranged lawman out for revenge, one of these teens is destined for tragedy and horrors that will destroy his mind, molding him into the monster we now call Leatherface.
+Praful Patel (Kangana) is a 30-year-old divorcee living in Georgia with her middle-class parents. A housekeeper by profession, she gets drawn to a life of crime after her tryst with gambling at a Las Vegas casino. One bad turn leads to several more and before you know it, Praful is in a sordid mess.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/wt8wybR4sfk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/_LUe4r6eeQA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Borg vs McEnroe
+*Released on 2017-09-15, vote average 8*
+
+Borg/McEnroe is a film about one of the world&#39;s greatest icons Björn Borg and his biggest rival, the young and talented John McEnroe and their legendary duel during the 1980&#39;s Wimbledon tournament. It&#39;s a story about two men that became legends and the price they had to pay.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/RTfD1_-lEMg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
