@@ -47,7 +47,7 @@ In a small town in Maine, seven children known as The Losers Club come face to f
 	
 
 ### Mother!
-*Released on 2017-09-13, vote average 6.2*
+*Released on 2017-09-13, vote average 6.1*
 
 A couple&#39;s relationship is tested when uninvited guests arrive at their home, disrupting their tranquil existence.
 
@@ -76,7 +76,7 @@ A couple&#39;s relationship is tested when uninvited guests arrive at their home
 	
 
 ### American Assassin
-*Released on 2017-09-14, vote average 4.1*
+*Released on 2017-09-14, vote average 4.4*
 
 Following the murder of his fiancée, Mitch Rapp trains under the instruction of Cold War veteran Stan Hurley. The pair then is enlisted to investigate a wave of apparently random attacks on military and civilian targets.
 
@@ -119,16 +119,16 @@ Life for a single mom in Los Angeles takes an unexpected turn when she allows th
 	
 	
 
-### Rememory
-*Released on 2017-09-08, vote average 6.5*
+### Gun Shy
+*Released on 2017-09-08, vote average 5.3*
 
-The widow of a wise professor stumbles upon one of his inventions that&#39;s able to record and play a person&#39;s memory.
+A mega-platinum, aging rock star&#39;s supermodel wife is abducted by pirates while vacationing in Chile.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/v86ZsGr3qww?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/e0mmLQsnd_I?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -141,16 +141,16 @@ The widow of a wise professor stumbles upon one of his inventions that&#39;s abl
 	
 	
 
-### Gun Shy
-*Released on 2017-09-08, vote average 5.3*
+### Rememory
+*Released on 2017-09-08, vote average 6.5*
 
-A mega-platinum, aging rock star&#39;s supermodel wife is abducted by pirates while vacationing in Chile.
+The widow of a wise professor stumbles upon one of his inventions that&#39;s able to record and play a person&#39;s memory.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/e0mmLQsnd_I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/v86ZsGr3qww?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -190,11 +190,21 @@ Team Storror showcase Parkour on a stage never before seen - the rooftops of Asi
 
 
 	
-
-  
-
-
 	
+
+### Thelma
+*Released on 2017-09-15, vote average 8*
+
+Supernatural thriller where a young woman discovers she has strange powers.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vgQMHG9SGlU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -227,7 +237,7 @@ A U.S. Marshal seeking justice for his brother&#39;s murder defends a small town
 	
 
 ### First They Killed My Father: A Daughter of Cambodia Remembers
-*Released on 2017-09-15, vote average 8.3*
+*Released on 2017-09-15, vote average 7.6*
 
 Cambodian author and human rights activist Loung Ung recounts the horrors she suffered under the rule of the deadly Khmer Rouge.
 
@@ -246,21 +256,18 @@ Cambodian author and human rights activist Loung Ung recounts the horrors she su
 
 
 	
+
+  
+
+
+	
+	
 	
 
-### Thelma
-*Released on 2017-09-15, vote average 8*
+  
 
-Supernatural thriller where a young woman discovers she has strange powers.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vgQMHG9SGlU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
+	
 	
 	
 
@@ -272,45 +279,6 @@ Supernatural thriller where a young woman discovers she has strange powers.
   
 
 
-	
-	
-
-### Simran
-*Released on 2017-09-15, vote average 8*
-
-Praful Patel (Kangana) is a 30-year-old divorcee living in Georgia with her middle-class parents. A housekeeper by profession, she gets drawn to a life of crime after her tryst with gambling at a Las Vegas casino. One bad turn leads to several more and before you know it, Praful is in a sordid mess.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/_LUe4r6eeQA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Borg vs McEnroe
-*Released on 2017-09-15, vote average 8*
-
-Borg/McEnroe is a film about one of the world&#39;s greatest icons Björn Borg and his biggest rival, the young and talented John McEnroe and their legendary duel during the 1980&#39;s Wimbledon tournament. It&#39;s a story about two men that became legends and the price they had to pay.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/RTfD1_-lEMg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -368,6 +336,8 @@ When an attack on the Kingsman headquarters takes place and a new villain rises,
 
 	
 
+	
+	
 	
 
 	
