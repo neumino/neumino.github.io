@@ -47,7 +47,7 @@ In a small town in Maine, seven children known as The Losers Club come face to f
 	
 
 ### Mother!
-*Released on 2017-09-13, vote average 6.1*
+*Released on 2017-09-13, vote average 6*
 
 A couple&#39;s relationship is tested when uninvited guests arrive at their home, disrupting their tranquil existence.
 
@@ -67,16 +67,9 @@ A couple&#39;s relationship is tested when uninvited guests arrive at their home
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### American Assassin
-*Released on 2017-09-14, vote average 4.4*
+*Released on 2017-09-14, vote average 4.7*
 
 Following the murder of his fiancée, Mitch Rapp trains under the instruction of Cold War veteran Stan Hurley. The pair then is enlisted to investigate a wave of apparently random attacks on military and civilian targets.
 
@@ -98,7 +91,7 @@ Following the murder of his fiancée, Mitch Rapp trains under the instruction of
 	
 
 ### Home Again
-*Released on 2017-09-07, vote average 3.6*
+*Released on 2017-09-07, vote average 3.7*
 
 Life for a single mom in Los Angeles takes an unexpected turn when she allows three young guys to move in with her.
 
@@ -107,28 +100,6 @@ Life for a single mom in Los Angeles takes an unexpected turn when she allows th
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/l9lmo3zdM4M?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Gun Shy
-*Released on 2017-09-08, vote average 5.3*
-
-A mega-platinum, aging rock star&#39;s supermodel wife is abducted by pirates while vacationing in Chile.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/e0mmLQsnd_I?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -162,6 +133,21 @@ The widow of a wise professor stumbles upon one of his inventions that&#39;s abl
 
 	
 	
+
+### Gun Shy
+*Released on 2017-09-08, vote average 5.3*
+
+A mega-platinum, aging rock star&#39;s supermodel wife is abducted by pirates while vacationing in Chile.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/e0mmLQsnd_I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -169,21 +155,11 @@ The widow of a wise professor stumbles upon one of his inventions that&#39;s abl
 
 	
 	
-
-### Roof Culture Asia
-*Released on 2017-09-04, vote average 9.7*
-
-Team Storror showcase Parkour on a stage never before seen - the rooftops of Asian megacities. The film follows team Storror on their exploration into what drives them to push the sport to such extremes, and the battles that face them when trying to shoot a feature film totally guerilla. RCA delves into the mental and physical preparation Parkour athletes have to undertake to make impossible &#39;leaps of faith&#39;, possible.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/BDpopiBqm9Q?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
+
+  
+
+
 	
 
   
@@ -193,9 +169,9 @@ Team Storror showcase Parkour on a stage never before seen - the rooftops of Asi
 	
 
 ### Thelma
-*Released on 2017-09-15, vote average 8*
+*Released on 2017-09-15, vote average 6.7*
 
-Supernatural thriller where a young woman discovers she has strange powers.
+A college student starts to experience extreme seizures while studying at a university in Oslo, Norway. She soon learns that the violent episodes are a symptom of inexplicable, and often dangerous, supernatural abilities.
 
 <iframe id="player"
 	type="text/html"
@@ -205,6 +181,20 @@ Supernatural thriller where a young woman discovers she has strange powers.
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -234,23 +224,6 @@ A U.S. Marshal seeking justice for his brother&#39;s murder defends a small town
 
 
 	
-	
-
-### First They Killed My Father: A Daughter of Cambodia Remembers
-*Released on 2017-09-15, vote average 7.6*
-
-Cambodian author and human rights activist Loung Ung recounts the horrors she suffered under the rule of the deadly Khmer Rouge.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Ty34ABLXur8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -260,15 +233,6 @@ Cambodian author and human rights activist Loung Ung recounts the horrors she su
   
 
 
-	
-	
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -322,6 +286,23 @@ When an attack on the Kingsman headquarters takes place and a new villain rises,
 	
 	
 
+	
+	
+
+### The LEGO Ninjago Movie
+*Released on 2017-09-21, vote average 7.5*
+
+Six young ninjas are tasked with defending their island home of Ninjago. By night, they’re gifted warriors using their skill and awesome fleet of vehicles to fight villains and monsters. By day, they’re ordinary teens struggling against their greatest enemy....high school.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/sZSYYiATFTI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
