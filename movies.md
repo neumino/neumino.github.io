@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### It
-*Released on 2017-09-05, vote average 7.6*
+### Mother!
+*Released on 2017-09-13, vote average 5.9*
 
-In a small town in Maine, seven children known as The Losers Club come face to face with life problems, bullies and a monster that takes the shape of a clown called Pennywise.
+A couple&#39;s relationship is tested when uninvited guests arrive at their home, disrupting their tranquil existence.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/FnCdOQsX5kc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/_0NF2YP7SU8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -40,28 +40,6 @@ In a small town in Maine, seven children known as The Losers Club come face to f
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-
-
-	
-	
-
-### Mother!
-*Released on 2017-09-13, vote average 6*
-
-A couple&#39;s relationship is tested when uninvited guests arrive at their home, disrupting their tranquil existence.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/_0NF2YP7SU8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
   
 
 
@@ -161,6 +139,23 @@ A mega-platinum, aging rock star&#39;s supermodel wife is abducted by pirates 
 
 
 	
+	
+
+### Kingsman: The Golden Circle
+*Released on 2017-09-20, vote average 7.2*
+
+When an attack on the Kingsman headquarters takes place and a new villain rises, Eggsy and Merlin are forced to work together with the American agency known as the Statesman to save the world.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/oXx9tr89fZA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -178,6 +173,28 @@ A college student starts to experience extreme seizures while studying at a univ
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/vgQMHG9SGlU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Victoria &amp; Abdul
+*Released on 2017-09-14, vote average 10*
+
+Queen Victoria strikes up an unlikely friendship with a young Indian clerk named Abdul Karim.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3xo-EP_O5pQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -271,7 +288,7 @@ A U.S. Marshal seeking justice for his brother&#39;s murder defends a small town
 	
 
 ### Kingsman: The Golden Circle
-*Released on 2017-09-20, vote average 9.3*
+*Released on 2017-09-20, vote average 7.2*
 
 When an attack on the Kingsman headquarters takes place and a new villain rises, Eggsy and Merlin are forced to work together with the American agency known as the Statesman to save the world.
 
@@ -318,9 +335,9 @@ Six young ninjas are tasked with defending their island home of Ninjago. By nigh
 	
 
 	
-	
-	
 
+	
+	
 	
 
 	
