@@ -68,6 +68,28 @@ Following the murder of his fiancée, Mitch Rapp trains under the instruction of
 	
 	
 
+### Kingsman: The Golden Circle
+*Released on 2017-09-20, vote average 6.9*
+
+When an attack on the Kingsman headquarters takes place and a new villain rises, Eggsy and Merlin are forced to work together with the American agency known as the Statesman to save the world.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/oXx9tr89fZA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Home Again
 *Released on 2017-09-07, vote average 3.7*
 
@@ -141,38 +163,16 @@ A mega-platinum, aging rock star&#39;s supermodel wife is abducted by pirates 
 	
 	
 
-### Kingsman: The Golden Circle
-*Released on 2017-09-20, vote average 7.2*
+### The LEGO Ninjago Movie
+*Released on 2017-09-21, vote average 7.5*
 
-When an attack on the Kingsman headquarters takes place and a new villain rises, Eggsy and Merlin are forced to work together with the American agency known as the Statesman to save the world.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/oXx9tr89fZA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Thelma
-*Released on 2017-09-15, vote average 6.7*
-
-A college student starts to experience extreme seizures while studying at a university in Oslo, Norway. She soon learns that the violent episodes are a symptom of inexplicable, and often dangerous, supernatural abilities.
+Six young ninjas are tasked with defending their island home of Ninjago. By night, they’re gifted warriors using their skill and awesome fleet of vehicles to fight villains and monsters. By day, they’re ordinary teens struggling against their greatest enemy....high school.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/vgQMHG9SGlU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/sZSYYiATFTI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -206,31 +206,17 @@ Queen Victoria strikes up an unlikely friendship with a young Indian clerk named
 
 	
 	
-	
 
-  
+### Thelma
+*Released on 2017-09-15, vote average 6.7*
 
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Justice
-*Released on 2017-09-15, vote average 6*
-
-A U.S. Marshal seeking justice for his brother&#39;s murder defends a small town from a corrupt Mayor and his henchmen with intents to revive the civil war.
+A college student starts to experience extreme seizures while studying at a university in Oslo, Norway. She soon learns that the violent episodes are a symptom of inexplicable, and often dangerous, supernatural abilities.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/I3d9y19fRR0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/vgQMHG9SGlU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -251,6 +237,8 @@ A U.S. Marshal seeking justice for his brother&#39;s murder defends a small town
 
 
 	
+	
+	
 
   
 
@@ -260,6 +248,35 @@ A U.S. Marshal seeking justice for his brother&#39;s murder defends a small town
   
 
 
+	
+	
+
+### Jerry Before Seinfeld
+*Released on 2017-09-19, vote average 8*
+
+Jerry Seinfeld returns to the club that gave him his start in the 1970s, mixing iconic jokes with stories from his childhood and early days in comedy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/uqT0ayeR8Ps?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -283,25 +300,6 @@ A U.S. Marshal seeking justice for his brother&#39;s murder defends a small town
 
 ## Opening soon
 
-
-	
-	
-
-### Kingsman: The Golden Circle
-*Released on 2017-09-20, vote average 7.2*
-
-When an attack on the Kingsman headquarters takes place and a new villain rises, Eggsy and Merlin are forced to work together with the American agency known as the Statesman to save the world.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/oXx9tr89fZA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 	
@@ -338,6 +336,8 @@ Six young ninjas are tasked with defending their island home of Ninjago. By nigh
 
 	
 	
+	
+
 	
 
 	
