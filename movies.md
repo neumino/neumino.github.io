@@ -12,8 +12,8 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Mother!
-*Released on 2017-09-13, vote average 5.9*
+### mother!
+*Released on 2017-09-13, vote average 6*
 
 A couple&#39;s relationship is tested when uninvited guests arrive at their home, disrupting their tranquil existence.
 
@@ -47,7 +47,7 @@ A couple&#39;s relationship is tested when uninvited guests arrive at their home
 	
 
 ### American Assassin
-*Released on 2017-09-14, vote average 4.7*
+*Released on 2017-09-14, vote average 4.8*
 
 Following the murder of his fiancée, Mitch Rapp trains under the instruction of Cold War veteran Stan Hurley. The pair then is enlisted to investigate a wave of apparently random attacks on military and civilian targets.
 
@@ -69,7 +69,7 @@ Following the murder of his fiancée, Mitch Rapp trains under the instruction of
 	
 
 ### Kingsman: The Golden Circle
-*Released on 2017-09-20, vote average 6.9*
+*Released on 2017-09-20, vote average 7.4*
 
 When an attack on the Kingsman headquarters takes place and a new villain rises, Eggsy and Merlin are forced to work together with the American agency known as the Statesman to save the world.
 
@@ -78,28 +78,6 @@ When an attack on the Kingsman headquarters takes place and a new villain rises,
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/oXx9tr89fZA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Home Again
-*Released on 2017-09-07, vote average 3.7*
-
-Life for a single mom in Los Angeles takes an unexpected turn when she allows three young guys to move in with her.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/l9lmo3zdM4M?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -183,22 +161,10 @@ Six young ninjas are tasked with defending their island home of Ninjago. By nigh
 
 
 	
-	
 
-### Victoria &amp; Abdul
-*Released on 2017-09-14, vote average 10*
+  
 
-Queen Victoria strikes up an unlikely friendship with a young Indian clerk named Abdul Karim.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3xo-EP_O5pQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -221,6 +187,16 @@ A college student starts to experience extreme seizures while studying at a univ
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -276,18 +252,6 @@ Jerry Seinfeld returns to the club that gave him his start in the 1970s, mixing 
 
 
 	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 
   
 
@@ -302,23 +266,6 @@ Jerry Seinfeld returns to the club that gave him his start in the 1970s, mixing 
 
 
 	
-	
-
-### The LEGO Ninjago Movie
-*Released on 2017-09-21, vote average 7.5*
-
-Six young ninjas are tasked with defending their island home of Ninjago. By night, they’re gifted warriors using their skill and awesome fleet of vehicles to fight villains and monsters. By day, they’re ordinary teens struggling against their greatest enemy....high school.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/sZSYYiATFTI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
@@ -334,8 +281,6 @@ Six young ninjas are tasked with defending their island home of Ninjago. By nigh
 
 	
 
-	
-	
 	
 
 	
