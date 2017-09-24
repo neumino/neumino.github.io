@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### mother!
-*Released on 2017-09-13, vote average 6.1*
+### Kingsman: The Golden Circle
+*Released on 2017-09-20, vote average 7.6*
 
-A couple&#39;s relationship is tested when uninvited guests arrive at their home, disrupting their tranquil existence.
+When an attack on the Kingsman headquarters takes place and a new villain rises, Eggsy and Merlin are forced to work together with the American agency known as the Statesman to save the world.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/_0NF2YP7SU8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/oXx9tr89fZA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ A couple&#39;s relationship is tested when uninvited guests arrive at their home
 	
 	
 
-### Kingsman: The Golden Circle
-*Released on 2017-09-20, vote average 7.7*
+### mother!
+*Released on 2017-09-13, vote average 6.1*
 
-When an attack on the Kingsman headquarters takes place and a new villain rises, Eggsy and Merlin are forced to work together with the American agency known as the Statesman to save the world.
+A couple&#39;s relationship is tested when uninvited guests arrive at their home, disrupting their tranquil existence.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/oXx9tr89fZA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/_0NF2YP7SU8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@ When an attack on the Kingsman headquarters takes place and a new villain rises,
 	
 
 ### American Assassin
-*Released on 2017-09-14, vote average 4.9*
+*Released on 2017-09-14, vote average 4.8*
 
 Following the murder of his fiancée, Mitch Rapp trains under the instruction of Cold War veteran Stan Hurley. The pair then is enlisted to investigate a wave of apparently random attacks on military and civilian targets.
 
@@ -95,10 +95,22 @@ Following the murder of his fiancée, Mitch Rapp trains under the instruction of
 
 
 	
+	
 
-  
+### Battle of the Sexes
+*Released on 2017-09-22, vote average 8*
 
+The true story of the 1973 tennis match between World number one Billie Jean King and ex-champ and serial hustler Bobby Riggs.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5AWP1K7FaFI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -117,38 +129,6 @@ Six young ninjas are tasked with defending their island home of Ninjago. By nigh
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/sZSYYiATFTI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Jerry Before Seinfeld
-*Released on 2017-09-19, vote average 8*
-
-Jerry Seinfeld returns to the club that gave him his start in the 1970s, mixing iconic jokes with stories from his childhood and early days in comedy.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/uqT0ayeR8Ps?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -181,6 +161,45 @@ A college student starts to experience extreme seizures while studying at a univ
 
 
 	
+	
+
+### Stronger
+*Released on 2017-09-22, vote average 6.3*
+
+A victim of the Boston Marathon bombing in 2013 helps the police track down the killers while struggling to recover from devastating trauma.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/I6MN0QfQx7I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Jerry Before Seinfeld
+*Released on 2017-09-19, vote average 8*
+
+Jerry Seinfeld returns to the club that gave him his start in the 1970s, mixing iconic jokes with stories from his childhood and early days in comedy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/uqT0ayeR8Ps?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -206,7 +225,39 @@ A college student starts to experience extreme seizures while studying at a univ
 
 
 	
+
+  
+
+
 	
+	
+
+### Gaga: Five Foot Two
+*Released on 2017-09-22, vote average 8.8*
+
+Go behind the scenes with pop provocateur Lady Gaga as she releases a bold new album and prepares for her Super Bowl halftime show.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kxIua1MXhgo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -237,6 +288,23 @@ A college student starts to experience extreme seizures while studying at a univ
 
 	
 
+	
+	
+
+### Jeepers Creepers III
+*Released on 2017-09-26, vote average 2*
+
+Taking place on the last day of the Creeper’s twenty-three-day feeding frenzy, as the skeptical Sergeant Tubbs teams up with a task force hellbent on destroying the Creeper for good. The Creeper fights back in gory glory as its enemies grow closer than ever before to learning the secret of its dark origins.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Jgium_8mSFM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
