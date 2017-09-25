@@ -47,7 +47,7 @@ When an attack on the Kingsman headquarters takes place and a new villain rises,
 	
 
 ### mother!
-*Released on 2017-09-13, vote average 6.1*
+*Released on 2017-09-13, vote average 6.3*
 
 A couple&#39;s relationship is tested when uninvited guests arrive at their home, disrupting their tranquil existence.
 
@@ -69,7 +69,7 @@ A couple&#39;s relationship is tested when uninvited guests arrive at their home
 	
 
 ### American Assassin
-*Released on 2017-09-14, vote average 4.8*
+*Released on 2017-09-14, vote average 5*
 
 Following the murder of his fiancée, Mitch Rapp trains under the instruction of Cold War veteran Stan Hurley. The pair then is enlisted to investigate a wave of apparently random attacks on military and civilian targets.
 
@@ -97,50 +97,6 @@ Following the murder of his fiancée, Mitch Rapp trains under the instruction of
 	
 	
 
-### Battle of the Sexes
-*Released on 2017-09-22, vote average 8*
-
-The true story of the 1973 tennis match between World number one Billie Jean King and ex-champ and serial hustler Bobby Riggs.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/5AWP1K7FaFI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The LEGO Ninjago Movie
-*Released on 2017-09-21, vote average 7.5*
-
-Six young ninjas are tasked with defending their island home of Ninjago. By night, they’re gifted warriors using their skill and awesome fleet of vehicles to fight villains and monsters. By day, they’re ordinary teens struggling against their greatest enemy....high school.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/sZSYYiATFTI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Thelma
 *Released on 2017-09-15, vote average 6.7*
 
@@ -151,6 +107,28 @@ A college student starts to experience extreme seizures while studying at a univ
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/vgQMHG9SGlU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Battle of the Sexes
+*Released on 2017-09-22, vote average 8*
+
+The true story of the 1973 tennis match between World number one Billie Jean King and ex-champ and serial hustler Bobby Riggs.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5AWP1K7FaFI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -185,6 +163,28 @@ A victim of the Boston Marathon bombing in 2013 helps the police track down the 
 	
 	
 
+### The LEGO Ninjago Movie
+*Released on 2017-09-21, vote average 6.8*
+
+Six young ninjas are tasked with defending their island home of Ninjago. By night, they’re gifted warriors using their skill and awesome fleet of vehicles to fight villains and monsters. By day, they’re ordinary teens struggling against their greatest enemy....high school.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/sZSYYiATFTI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Jerry Before Seinfeld
 *Released on 2017-09-19, vote average 8*
 
@@ -199,31 +199,6 @@ Jerry Seinfeld returns to the club that gave him his start in the 1970s, mixing 
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -252,6 +227,46 @@ Go behind the scenes with pop provocateur Lady Gaga as she releases a bold new a
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Cult of Chucky
+*Released on 2017-09-23, vote average 6*
+
+Confined to an asylum for the criminally insane for the past four years, Nica Pierce is erroneously convinced that she, not Chucky, murdered her entire family. But when her psychiatrist introduces a new therapeutic “tool” to facilitate his patients’ group sessions — an all-too-familiar “Good Guy” doll with an innocently smiling face — a string of grisly deaths begins to plague the asylum, and Nica starts to wonder if maybe she isn’t crazy after all. Meanwhile, Andy Barclay, Chucky’s now all-grown-up nemesis from the first three Child’s Plays, races to Nica’s aid. But to save her he’ll have to get past Tiffany, Chucky’s long-ago bride, who will do anything, no matter how deadly or depraved, to help her beloved evil devilish doll.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0zW2NGgAPQQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -273,8 +288,6 @@ Go behind the scenes with pop provocateur Lady Gaga as she releases a bold new a
   
 
 
-	
-	
 	
 
   
@@ -284,6 +297,23 @@ Go behind the scenes with pop provocateur Lady Gaga as she releases a bold new a
 ## Opening soon
 
 
+	
+	
+
+### Flatliners
+*Released on 2017-09-28, vote average 3.3*
+
+Five medical students, hoping to gain insight into the mystery of what lies beyond the confines of life, embark on a daring and dangerous experiment. By stopping their hearts for short periods of time, each triggers a near-death experience. As the investigation becomes more and more perilous, they are forced to confront the sins of their pasts, as well as contend with the paranormal consequences of trespassing to the other side.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/H8oTh4u8tqE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
