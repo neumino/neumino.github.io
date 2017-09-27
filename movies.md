@@ -21,7 +21,7 @@ When an attack on the Kingsman headquarters takes place and a new villain rises,
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/oXx9tr89fZA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/NnWnm__XREc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -47,7 +47,7 @@ When an attack on the Kingsman headquarters takes place and a new villain rises,
 	
 
 ### mother!
-*Released on 2017-09-13, vote average 6.3*
+*Released on 2017-09-13, vote average 6.6*
 
 A couple&#39;s relationship is tested when uninvited guests arrive at their home, disrupting their tranquil existence.
 
@@ -97,6 +97,28 @@ Following the murder of his fiancée, Mitch Rapp trains under the instruction of
 	
 	
 
+### Jeepers Creepers III
+*Released on 2017-09-26, vote average 2*
+
+Taking place on the last day of the Creeper’s twenty-three-day feeding frenzy, as the skeptical Sergeant Tubbs teams up with a task force hellbent on destroying the Creeper for good. The Creeper fights back in gory glory as its enemies grow closer than ever before to learning the secret of its dark origins.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Jgium_8mSFM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Thelma
 *Released on 2017-09-15, vote average 6.7*
 
@@ -107,6 +129,79 @@ A college student starts to experience extreme seizures while studying at a univ
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/vgQMHG9SGlU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Signed, Sealed, Delivered: Home Again
+*Released on 2017-09-24, vote average 6*
+
+When the Postables discover an antique vase, they trace it back to three girls who attempted to sell it in to save their family farm. With the farm again facing hardship, the Postables must choose between doing what&#39;s legal and what&#39;s moral.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vTTwNFEle3M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Cult of Chucky
+*Released on 2017-09-23, vote average 4.9*
+
+Confined to an asylum for the criminally insane for the past four years, Nica Pierce is erroneously convinced that she, not Chucky, murdered her entire family. But when her psychiatrist introduces a new therapeutic “tool” to facilitate his patients’ group sessions — an all-too-familiar “Good Guy” doll with an innocently smiling face — a string of grisly deaths begins to plague the asylum, and Nica starts to wonder if maybe she isn’t crazy after all. Meanwhile, Andy Barclay, Chucky’s now all-grown-up nemesis from the first three Child’s Plays, races to Nica’s aid. But to save her he’ll have to get past Tiffany, Chucky’s long-ago bride, who will do anything, no matter how deadly or depraved, to help her beloved evil devilish doll.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0zW2NGgAPQQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Gaga: Five Foot Two
+*Released on 2017-09-22, vote average 8.8*
+
+Go behind the scenes with pop provocateur Lady Gaga as she releases a bold new album and prepares for her Super Bowl halftime show.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kxIua1MXhgo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -141,101 +236,6 @@ Six young ninjas are tasked with defending their island home of Ninjago. By nigh
 	
 	
 
-### Jeepers Creepers III
-*Released on 2017-09-26, vote average 2*
-
-Taking place on the last day of the Creeper’s twenty-three-day feeding frenzy, as the skeptical Sergeant Tubbs teams up with a task force hellbent on destroying the Creeper for good. The Creeper fights back in gory glory as its enemies grow closer than ever before to learning the secret of its dark origins.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Jgium_8mSFM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Gaga: Five Foot Two
-*Released on 2017-09-22, vote average 8.8*
-
-Go behind the scenes with pop provocateur Lady Gaga as she releases a bold new album and prepares for her Super Bowl halftime show.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kxIua1MXhgo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Jerry Before Seinfeld
-*Released on 2017-09-19, vote average 7.9*
-
-Jerry Seinfeld returns to the club that gave him his start in the 1970s, mixing iconic jokes with stories from his childhood and early days in comedy.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/uqT0ayeR8Ps?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Signed, Sealed, Delivered: Home Again
-*Released on 2017-09-24, vote average 6*
-
-When the Postables discover an antique vase, they trace it back to three girls who attempted to sell it in to save their family farm. With the farm again facing hardship, the Postables must choose between doing what&#39;s legal and what&#39;s moral.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vTTwNFEle3M?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
 ### Leatherface
 *Released on 2017-09-14, vote average 5.7*
 
@@ -256,8 +256,6 @@ A young nurse is kidnapped by a group of violent teens who escape from a mental 
 
 
 	
-	
-	
 
   
 
@@ -265,16 +263,16 @@ A young nurse is kidnapped by a group of violent teens who escape from a mental 
 	
 	
 
-### Battle of the Sexes
-*Released on 2017-09-22, vote average 8*
+### Jerry Before Seinfeld
+*Released on 2017-09-19, vote average 7.9*
 
-The true story of the 1973 tennis match between World number one Billie Jean King and ex-champ and serial hustler Bobby Riggs.
+Jerry Seinfeld returns to the club that gave him his start in the 1970s, mixing iconic jokes with stories from his childhood and early days in comedy.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/5AWP1K7FaFI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/uqT0ayeR8Ps?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -312,6 +310,23 @@ A victim of the Boston Marathon bombing in 2013 helps the police track down the 
 
 
 	
+	
+
+### Battle of the Sexes
+*Released on 2017-09-22, vote average 8*
+
+The true story of the 1973 tennis match between World number one Billie Jean King and ex-champ and serial hustler Bobby Riggs.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5AWP1K7FaFI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -336,6 +351,8 @@ A victim of the Boston Marathon bombing in 2013 helps the police track down the 
 
 
 	
+
+	
 	
 
 ### Flatliners
@@ -354,25 +371,6 @@ Five medical students, hoping to gain insight into the mystery of what lies beyo
 	
 	
 
-	
-
-	
-	
-
-### Jeepers Creepers III
-*Released on 2017-09-26, vote average 2*
-
-Taking place on the last day of the Creeper’s twenty-three-day feeding frenzy, as the skeptical Sergeant Tubbs teams up with a task force hellbent on destroying the Creeper for good. The Creeper fights back in gory glory as its enemies grow closer than ever before to learning the secret of its dark origins.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Jgium_8mSFM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
