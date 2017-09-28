@@ -46,30 +46,8 @@ When an attack on the Kingsman headquarters takes place and a new villain rises,
 	
 	
 
-### mother!
-*Released on 2017-09-13, vote average 6.6*
-
-A couple&#39;s relationship is tested when uninvited guests arrive at their home, disrupting their tranquil existence.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/_0NF2YP7SU8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### American Assassin
-*Released on 2017-09-14, vote average 4.9*
+*Released on 2017-09-14, vote average 4.8*
 
 Following the murder of his fiancée, Mitch Rapp trains under the instruction of Cold War veteran Stan Hurley. The pair then is enlisted to investigate a wave of apparently random attacks on military and civilian targets.
 
@@ -89,24 +67,17 @@ Following the murder of his fiancée, Mitch Rapp trains under the instruction of
 
 	
 	
-	
 
-  
+### Flatliners
+*Released on 2017-09-28, vote average 3.3*
 
-
-	
-	
-
-### Jeepers Creepers III
-*Released on 2017-09-26, vote average 2*
-
-Taking place on the last day of the Creeper’s twenty-three-day feeding frenzy, as the skeptical Sergeant Tubbs teams up with a task force hellbent on destroying the Creeper for good. The Creeper fights back in gory glory as its enemies grow closer than ever before to learning the secret of its dark origins.
+Five medical students, hoping to gain insight into the mystery of what lies beyond the confines of life, embark on a daring and dangerous experiment. By stopping their hearts for short periods of time, each triggers a near-death experience. As the investigation becomes more and more perilous, they are forced to confront the sins of their pasts, as well as contend with the paranormal consequences of trespassing to the other side.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Jgium_8mSFM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/H8oTh4u8tqE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -163,16 +134,16 @@ When the Postables discover an antique vase, they trace it back to three girls w
 	
 	
 
-### Cult of Chucky
-*Released on 2017-09-23, vote average 4.9*
+### Jeepers Creepers III
+*Released on 2017-09-26, vote average 5*
 
-Confined to an asylum for the criminally insane for the past four years, Nica Pierce is erroneously convinced that she, not Chucky, murdered her entire family. But when her psychiatrist introduces a new therapeutic “tool” to facilitate his patients’ group sessions — an all-too-familiar “Good Guy” doll with an innocently smiling face — a string of grisly deaths begins to plague the asylum, and Nica starts to wonder if maybe she isn’t crazy after all. Meanwhile, Andy Barclay, Chucky’s now all-grown-up nemesis from the first three Child’s Plays, races to Nica’s aid. But to save her he’ll have to get past Tiffany, Chucky’s long-ago bride, who will do anything, no matter how deadly or depraved, to help her beloved evil devilish doll.
+Taking place on the last day of the Creeper’s twenty-three-day feeding frenzy, as the skeptical Sergeant Tubbs teams up with a task force hellbent on destroying the Creeper for good. The Creeper fights back in gory glory as its enemies grow closer than ever before to learning the secret of its dark origins.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/0zW2NGgAPQQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Jgium_8mSFM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -184,16 +155,9 @@ Confined to an asylum for the criminally insane for the past four years, Nica Pi
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Gaga: Five Foot Two
-*Released on 2017-09-22, vote average 8.8*
+*Released on 2017-09-22, vote average 8.3*
 
 Go behind the scenes with pop provocateur Lady Gaga as she releases a bold new album and prepares for her Super Bowl halftime show.
 
@@ -215,7 +179,7 @@ Go behind the scenes with pop provocateur Lady Gaga as she releases a bold new a
 	
 
 ### The LEGO Ninjago Movie
-*Released on 2017-09-21, vote average 6.8*
+*Released on 2017-09-21, vote average 6.7*
 
 Six young ninjas are tasked with defending their island home of Ninjago. By night, they’re gifted warriors using their skill and awesome fleet of vehicles to fight villains and monsters. By day, they’re ordinary teens struggling against their greatest enemy....high school.
 
@@ -228,33 +192,6 @@ Six young ninjas are tasked with defending their island home of Ninjago. By nigh
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### Leatherface
-*Released on 2017-09-14, vote average 5.7*
-
-A young nurse is kidnapped by a group of violent teens who escape from a mental hospital and take her on the road trip from hell. Pursued by an equally deranged lawman out for revenge, one of these teens is destined for tragedy and horrors that will destroy his mind, molding him into the monster we now call Leatherface.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wt8wybR4sfk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -310,18 +247,23 @@ A victim of the Boston Marathon bombing in 2013 helps the police track down the 
 
 
 	
+
+  
+
+
+	
 	
 
-### Battle of the Sexes
-*Released on 2017-09-22, vote average 8*
+### Cult of Chucky
+*Released on 2017-09-23, vote average 5.3*
 
-The true story of the 1973 tennis match between World number one Billie Jean King and ex-champ and serial hustler Bobby Riggs.
+Confined to an asylum for the criminally insane for the past four years, Nica Pierce is erroneously convinced that she, not Chucky, murdered her entire family. But when her psychiatrist introduces a new therapeutic “tool” to facilitate his patients’ group sessions — an all-too-familiar “Good Guy” doll with an innocently smiling face — a string of grisly deaths begins to plague the asylum, and Nica starts to wonder if maybe she isn’t crazy after all. Meanwhile, Andy Barclay, Chucky’s now all-grown-up nemesis from the first three Child’s Plays, races to Nica’s aid. But to save her he’ll have to get past Tiffany, Chucky’s long-ago bride, who will do anything, no matter how deadly or depraved, to help her beloved evil devilish doll.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/5AWP1K7FaFI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/0zW2NGgAPQQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -337,6 +279,45 @@ The true story of the 1973 tennis match between World number one Billie Jean Kin
 
 
 	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Leatherface
+*Released on 2017-09-14, vote average 5.8*
+
+A young nurse is kidnapped by a group of violent teens who escape from a mental hospital and take her on the road trip from hell. Pursued by an equally deranged lawman out for revenge, one of these teens is destined for tragedy and horrors that will destroy his mind, molding him into the monster we now call Leatherface.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wt8wybR4sfk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -349,8 +330,6 @@ The true story of the 1973 tennis match between World number one Billie Jean Kin
 
 ## Opening soon
 
-
-	
 
 	
 	
@@ -369,6 +348,8 @@ Five medical students, hoping to gain insight into the mystery of what lies beyo
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
