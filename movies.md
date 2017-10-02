@@ -46,30 +46,8 @@ When an attack on the Kingsman headquarters takes place and a new villain rises,
 	
 	
 
-### Cult of Chucky
-*Released on 2017-09-23, vote average 5.3*
-
-Confined to an asylum for the criminally insane for the past four years, Nica Pierce is erroneously convinced that she, not Chucky, murdered her entire family. But when her psychiatrist introduces a new therapeutic “tool” to facilitate his patients’ group sessions — an all-too-familiar “Good Guy” doll with an innocently smiling face — a string of grisly deaths begins to plague the asylum, and Nica starts to wonder if maybe she isn’t crazy after all. Meanwhile, Andy Barclay, Chucky’s now all-grown-up nemesis from the first three Child’s Plays, races to Nica’s aid. But to save her he’ll have to get past Tiffany, Chucky’s long-ago bride, who will do anything, no matter how deadly or depraved, to help her beloved evil devilish doll.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zlgl4G5ttfw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Flatliners
-*Released on 2017-09-28, vote average 4.1*
+*Released on 2017-09-28, vote average 4.2*
 
 Five medical students, hoping to gain insight into the mystery of what lies beyond the confines of life, embark on a daring and dangerous experiment. By stopping their hearts for short periods of time, each triggers a near-death experience. As the investigation becomes more and more perilous, they are forced to confront the sins of their pasts, as well as contend with the paranormal consequences of trespassing to the other side.
 
@@ -88,10 +66,22 @@ Five medical students, hoping to gain insight into the mystery of what lies beyo
 
 
 	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
 	
 
 ### The Foreigner
-*Released on 2017-09-28, vote average 6*
+*Released on 2017-09-28, vote average 7*
 
 Quan is a humble London businessman whose long-buried past erupts in a revenge-fueled vendetta when the only person left for him to love -- his teenage daughter -- dies in a senseless act of politically motivated terrorism. His relentless search to find the terrorists leads to a cat-and-mouse conflict with a British government official whose own past may hold the clues to the identities of the elusive killers.
 
@@ -110,17 +100,22 @@ Quan is a humble London businessman whose long-buried past erupts in a revenge-f
 
 
 	
-
-  
-
-
-	
-	
 	
 
-  
+### Cult of Chucky
+*Released on 2017-09-23, vote average 5.3*
 
+Confined to an asylum for the criminally insane for the past four years, Nica Pierce is erroneously convinced that she, not Chucky, murdered her entire family. But when her psychiatrist introduces a new therapeutic “tool” to facilitate his patients’ group sessions — an all-too-familiar “Good Guy” doll with an innocently smiling face — a string of grisly deaths begins to plague the asylum, and Nica starts to wonder if maybe she isn’t crazy after all. Meanwhile, Andy Barclay, Chucky’s now all-grown-up nemesis from the first three Child’s Plays, races to Nica’s aid. But to save her he’ll have to get past Tiffany, Chucky’s long-ago bride, who will do anything, no matter how deadly or depraved, to help her beloved evil devilish doll.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zlgl4G5ttfw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -166,6 +161,35 @@ When the Postables discover an antique vase, they trace it back to three girls w
 
 
 	
+	
+
+### The LEGO Ninjago Movie
+*Released on 2017-09-21, vote average 6.3*
+
+Six young ninjas are tasked with defending their island home of Ninjago. By night, they’re gifted warriors using their skill and awesome fleet of vehicles to fight villains and monsters. By day, they’re ordinary teens struggling against their greatest enemy....high school.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/sZSYYiATFTI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
 
   
 
@@ -198,7 +222,15 @@ Taking place on the last day of the Creeper’s twenty-three-day feeding frenzy,
 
 
 	
+
+  
+
+
 	
+
+  
+
+
 	
 
   
@@ -207,16 +239,16 @@ Taking place on the last day of the Creeper’s twenty-three-day feeding frenzy,
 	
 	
 
-### The LEGO Ninjago Movie
-*Released on 2017-09-21, vote average 6.5*
+### Judwaa 2
+*Released on 2017-09-29, vote average 8.6*
 
-Six young ninjas are tasked with defending their island home of Ninjago. By night, they’re gifted warriors using their skill and awesome fleet of vehicles to fight villains and monsters. By day, they’re ordinary teens struggling against their greatest enemy....high school.
+Two brothers (twins) born to an honest businessman are separated at birth when their father exposes a smuggling racket and a king pin. One of the brothers is thought to be dead but only resurfaces stronger after living life on the streets to reunite with his family over a sequence of events and twist of fate. Genetically bound by reflexes both the brother&#39;s lives interlink in strange ways and a comedy of errors. They eventually come together to destroy the smuggling nexus and save their family from a downfall that awaits them.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/sZSYYiATFTI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/4LPJQVFgY-4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -226,55 +258,6 @@ Six young ninjas are tasked with defending their island home of Ninjago. By nigh
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Stronger
-*Released on 2017-09-22, vote average 6.3*
-
-A victim of the Boston Marathon bombing in 2013 helps the police track down the killers while struggling to recover from devastating trauma.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/I6MN0QfQx7I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Gaga: Five Foot Two
-*Released on 2017-09-22, vote average 8.4*
-
-Go behind the scenes with pop provocateur Lady Gaga as she releases a bold new album and prepares for her Super Bowl halftime show.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kxIua1MXhgo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -288,7 +271,7 @@ Go behind the scenes with pop provocateur Lady Gaga as she releases a bold new a
 	
 
 ### Blade Runner 2049
-*Released on 2017-10-04, vote average 6.3*
+*Released on 2017-10-04, vote average 5.6*
 
 Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what&#39;s left of society into chaos. K&#39;s discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.
 
@@ -301,8 +284,6 @@ Thirty years after the events of the first film, a new blade runner, LAPD Office
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
@@ -344,6 +325,8 @@ Stranded after a tragic plane crash, two strangers must forge a connection to su
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
