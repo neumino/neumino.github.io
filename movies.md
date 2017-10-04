@@ -46,16 +46,16 @@ When an attack on the Kingsman headquarters takes place and a new villain rises,
 	
 	
 
-### Cult of Chucky
-*Released on 2017-09-23, vote average 5.1*
+### Blade Runner 2049
+*Released on 2017-10-04, vote average 5.5*
 
-Confined to an asylum for the criminally insane for the past four years, Nica Pierce is erroneously convinced that she, not Chucky, murdered her entire family. But when her psychiatrist introduces a new therapeutic “tool” to facilitate his patients’ group sessions — an all-too-familiar “Good Guy” doll with an innocently smiling face — a string of grisly deaths begins to plague the asylum, and Nica starts to wonder if maybe she isn’t crazy after all. Meanwhile, Andy Barclay, Chucky’s now all-grown-up nemesis from the first three Child’s Plays, races to Nica’s aid. But to save her he’ll have to get past Tiffany, Chucky’s long-ago bride, who will do anything, no matter how deadly or depraved, to help her beloved evil devilish doll.
+Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what&#39;s left of society into chaos. K&#39;s discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/zlgl4G5ttfw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/haXvp8M9Cog?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -88,6 +88,23 @@ Quan is a humble London businessman whose long-buried past erupts in a revenge-f
 
 
 	
+	
+
+### Cult of Chucky
+*Released on 2017-09-23, vote average 5.1*
+
+Confined to an asylum for the criminally insane for the past four years, Nica Pierce is erroneously convinced that she, not Chucky, murdered her entire family. But when her psychiatrist introduces a new therapeutic “tool” to facilitate his patients’ group sessions — an all-too-familiar “Good Guy” doll with an innocently smiling face — a string of grisly deaths begins to plague the asylum, and Nica starts to wonder if maybe she isn’t crazy after all. Meanwhile, Andy Barclay, Chucky’s now all-grown-up nemesis from the first three Child’s Plays, races to Nica’s aid. But to save her he’ll have to get past Tiffany, Chucky’s long-ago bride, who will do anything, no matter how deadly or depraved, to help her beloved evil devilish doll.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zlgl4G5ttfw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -114,15 +131,6 @@ Five medical students, hoping to gain insight into the mystery of what lies beyo
   
 
 
-	
-	
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -151,21 +159,6 @@ Six young ninjas are tasked with defending their island home of Ninjago. By nigh
 
 
 	
-	
-
-### Gerald&#39;s Game
-*Released on 2017-09-19, vote average 6.5*
-
-When her husband&#39;s sex game goes wrong, Jessie -- handcuffed to a bed in a remote lake house -- faces warped visions, dark secrets and a dire choice.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/twbGU2CqqQU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -200,26 +193,6 @@ Two brothers (twins) born to an honest businessman are separated at birth when t
 
 
 	
-
-  
-
-
-	
-	
-
-### Jeepers Creepers III
-*Released on 2017-09-26, vote average 5*
-
-Taking place on the last day of the Creeper’s twenty-three-day feeding frenzy, as the skeptical Sergeant Tubbs teams up with a task force hellbent on destroying the Creeper for good. The Creeper fights back in gory glory as its enemies grow closer than ever before to learning the secret of its dark origins.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Jgium_8mSFM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -227,44 +200,12 @@ Taking place on the last day of the Creeper’s twenty-three-day feeding frenzy,
 
 
 	
-
-  
-
-
-	
-	
-
-### Stronger
-*Released on 2017-09-22, vote average 6.3*
-
-A victim of the Boston Marathon bombing in 2013 helps the police track down the killers while struggling to recover from devastating trauma.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/I6MN0QfQx7I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -293,6 +234,43 @@ The true story of the 1973 tennis match between World number one Billie Jean Kin
 
 
 	
+
+  
+
+
+	
+	
+
+### Jeepers Creepers III
+*Released on 2017-09-26, vote average 5.6*
+
+Taking place on the last day of the Creeper’s twenty-three-day feeding frenzy, as the skeptical Sergeant Tubbs teams up with a task force hellbent on destroying the Creeper for good. The Creeper fights back in gory glory as its enemies grow closer than ever before to learning the secret of its dark origins.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Jgium_8mSFM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### &#39;Til Death Do Us Part
@@ -314,6 +292,11 @@ Michael and Madison Roland had planned to spend the rest of their lives together
   
 
 
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -322,7 +305,7 @@ Michael and Madison Roland had planned to spend the rest of their lives together
 	
 
 ### Blade Runner 2049
-*Released on 2017-10-04, vote average 5.6*
+*Released on 2017-10-04, vote average 5.5*
 
 Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what&#39;s left of society into chaos. K&#39;s discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.
 
@@ -375,6 +358,8 @@ A new dark force threatens Ponyville, and the Mane 6 – Twilight Sparkle, Apple
 	
 
 	
+
+	
 	
 
 ### The Mountain Between Us
@@ -405,10 +390,6 @@ Stranded after a tragic plane crash, two strangers must forge a connection to su
 
 	
 
-	
-
-	
-	
 	
 
 
