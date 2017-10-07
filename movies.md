@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Blade Runner 2049
-*Released on 2017-10-04, vote average 7.2*
+*Released on 2017-10-04, vote average 7.7*
 
 Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what&#39;s left of society into chaos. K&#39;s discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.
 
@@ -46,16 +46,16 @@ Thirty years after the events of the first film, a new blade runner, LAPD Office
 	
 	
 
-### My Little Pony: The Movie
-*Released on 2017-10-05, vote average 4.5*
+### Better Watch Out
+*Released on 2017-10-06, vote average 7.3*
 
-A new dark force threatens Ponyville, and the Mane 6 – Twilight Sparkle, Applejack, Rainbow Dash, Pinkie Pie, Fluttershy and Rarity – embark on an unforgettable journey beyond Equestria where they meet new friends and exciting challenges on a quest to use the magic of friendship and save their home.
+On a quiet suburban street tucked within a &#39;safe neighborhood&#39;, a babysitter must defend a twelve-year-old boy from strangers breaking into the house, only to discover that this is FAR FROM a normal home invasion.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/kIv_ConaZ1c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/1BDxAsaoM1Y?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -89,17 +89,24 @@ Confined to an asylum for the criminally insane for the past four years, Nica Pi
 
 	
 	
+	
 
-### The Foreigner
-*Released on 2017-09-28, vote average 7*
+  
 
-Quan is a humble London businessman whose long-buried past erupts in a revenge-fueled vendetta when the only person left for him to love -- his teenage daughter -- dies in a senseless act of politically motivated terrorism. His relentless search to find the terrorists leads to a cat-and-mouse conflict with a British government official whose own past may hold the clues to the identities of the elusive killers.
+
+	
+	
+
+### My Little Pony: The Movie
+*Released on 2017-10-05, vote average 6.3*
+
+A new dark force threatens Ponyville, and the Mane 6 – Twilight Sparkle, Applejack, Rainbow Dash, Pinkie Pie, Fluttershy and Rarity – embark on an unforgettable journey beyond Equestria where they meet new friends and exciting challenges on a quest to use the magic of friendship and save their home.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/r_rSAbYyIq0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/kIv_ConaZ1c?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -115,17 +122,27 @@ Quan is a humble London businessman whose long-buried past erupts in a revenge-f
 
 
 	
-	
-	
 
   
 
 
 	
+	
 
-  
+### The Foreigner
+*Released on 2017-09-24, vote average 7*
 
+Quan is a humble London businessman whose long-buried past erupts in a revenge-fueled vendetta when the only person left for him to love -- his teenage daughter -- dies in a senseless act of politically motivated terrorism. His relentless search to find the terrorists leads to a cat-and-mouse conflict with a British government official whose own past may hold the clues to the identities of the elusive killers.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/r_rSAbYyIq0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -174,27 +191,37 @@ Stranded after a tragic plane crash, two strangers must forge a connection to su
 
 
 	
-	
 
-### Flatliners
-*Released on 2017-09-28, vote average 4.8*
+  
 
-Five medical students, hoping to gain insight into the mystery of what lies beyond the confines of life, embark on a daring and dangerous experiment. By stopping their hearts for short periods of time, each triggers a near-death experience. As the investigation becomes more and more perilous, they are forced to confront the sins of their pasts, as well as contend with the paranormal consequences of trespassing to the other side.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/NBR7JxBHl-E?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
 
 
+	
+
+  
+
+
+	
+	
+
+### You Were Never Really Here
+*Released on 2017-10-05, vote average 8*
+
+A missing teenage girl. A brutal and tormented enforcer on a rescue mission. Corrupt power and vengeance unleash a storm of violence that may lead to his awakening.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/G_IeNsAaclA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -232,33 +259,6 @@ Two brothers (twins) born to an honest businessman are separated at birth when t
   
 
 
-	
-
-  
-
-
-	
-	
-
-### You Were Never Really Here
-*Released on 2017-10-05, vote average 8*
-
-A missing teenage girl. A brutal and tormented enforcer on a rescue mission. Corrupt power and vengeance unleash a storm of violence that may lead to his awakening.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/G_IeNsAaclA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -266,6 +266,25 @@ A missing teenage girl. A brutal and tormented enforcer on a rescue mission. Cor
 	
 
 	
+
+	
+
+	
+	
+
+### The Snowman
+*Released on 2017-10-12, vote average 10*
+
+Detective Harry Hole investigates the disappearance of a woman whose pink scarf is found wrapped around an ominous looking snowman.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/c44kam_8N3I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -288,9 +307,7 @@ A missing teenage girl. A brutal and tormented enforcer on a rescue mission. Cor
 	
 
 	
-
 	
-
 	
 
 	
