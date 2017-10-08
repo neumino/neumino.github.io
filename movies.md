@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Blade Runner 2049
-*Released on 2017-10-04, vote average 7.7*
+*Released on 2017-10-04, vote average 7.8*
 
 Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what&#39;s left of society into chaos. K&#39;s discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.
 
@@ -47,7 +47,7 @@ Thirty years after the events of the first film, a new blade runner, LAPD Office
 	
 
 ### Better Watch Out
-*Released on 2017-10-06, vote average 7.3*
+*Released on 2017-10-06, vote average 6.9*
 
 On a quiet suburban street tucked within a &#39;safe neighborhood&#39;, a babysitter must defend a twelve-year-old boy from strangers breaking into the house, only to discover that this is FAR FROM a normal home invasion.
 
@@ -59,35 +59,6 @@ On a quiet suburban street tucked within a &#39;safe neighborhood&#39;, a babysi
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
-	
-
-### Cult of Chucky
-*Released on 2017-09-23, vote average 5.2*
-
-Confined to an asylum for the criminally insane for the past four years, Nica Pierce is erroneously convinced that she, not Chucky, murdered her entire family. But when her psychiatrist introduces a new therapeutic “tool” to facilitate his patients’ group sessions — an all-too-familiar “Good Guy” doll with an innocently smiling face — a string of grisly deaths begins to plague the asylum, and Nica starts to wonder if maybe she isn’t crazy after all. Meanwhile, Andy Barclay, Chucky’s now all-grown-up nemesis from the first three Child’s Plays, races to Nica’s aid. But to save her he’ll have to get past Tiffany, Chucky’s long-ago bride, who will do anything, no matter how deadly or depraved, to help her beloved evil devilish doll.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zlgl4G5ttfw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -117,10 +88,22 @@ A new dark force threatens Ponyville, and the Mane 6 – Twilight Sparkle, Apple
 
 
 	
+	
 
-  
+### The Mountain Between Us
+*Released on 2017-10-05, vote average 5.3*
 
+Stranded after a tragic plane crash, two strangers must forge a connection to survive the extreme elements of a remote snow covered mountain. When they realize help is not coming, they embark on a perilous journey across the wilderness.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8ffEs6GfMSI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -130,7 +113,7 @@ A new dark force threatens Ponyville, and the Mane 6 – Twilight Sparkle, Apple
 	
 
 ### The Foreigner
-*Released on 2017-09-24, vote average 7*
+*Released on 2017-09-24, vote average 7.3*
 
 Quan is a humble London businessman whose long-buried past erupts in a revenge-fueled vendetta when the only person left for him to love -- his teenage daughter -- dies in a senseless act of politically motivated terrorism. His relentless search to find the terrorists leads to a cat-and-mouse conflict with a British government official whose own past may hold the clues to the identities of the elusive killers.
 
@@ -154,36 +137,6 @@ Quan is a humble London businessman whose long-buried past erupts in a revenge-f
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Mountain Between Us
-*Released on 2017-10-05, vote average 10*
-
-Stranded after a tragic plane crash, two strangers must forge a connection to survive the extreme elements of a remote snow covered mountain. When they realize help is not coming, they embark on a perilous journey across the wilderness.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8ffEs6GfMSI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -206,22 +159,45 @@ Stranded after a tragic plane crash, two strangers must forge a connection to su
 
 
 	
-	
 
-### You Were Never Really Here
-*Released on 2017-10-05, vote average 8*
+  
 
-A missing teenage girl. A brutal and tormented enforcer on a rescue mission. Corrupt power and vengeance unleash a storm of violence that may lead to his awakening.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/G_IeNsAaclA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -249,23 +225,9 @@ Two brothers (twins) born to an honest businessman are separated at birth when t
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
-
-	
-
-	
 
 	
 
@@ -307,7 +269,9 @@ Detective Harry Hole investigates the disappearance of a woman whose pink scarf 
 	
 
 	
+
 	
+
 	
 
 	
