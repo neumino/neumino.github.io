@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Blade Runner 2049
-*Released on 2017-10-04, vote average 7.7*
+*Released on 2017-10-04, vote average 7.8*
 
 Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what&#39;s left of society into chaos. K&#39;s discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.
 
@@ -46,28 +46,6 @@ Thirty years after the events of the first film, a new blade runner, LAPD Office
 	
 	
 
-### Better Watch Out
-*Released on 2017-10-06, vote average 6.8*
-
-On a quiet suburban street tucked within a &#39;safe neighborhood&#39;, a babysitter must defend a twelve-year-old boy from strangers breaking into the house, only to discover that this is FAR FROM a normal home invasion.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/1BDxAsaoM1Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Mountain Between Us
 *Released on 2017-10-05, vote average 5.3*
 
@@ -90,8 +68,30 @@ Stranded after a tragic plane crash, two strangers must forge a connection to su
 	
 	
 
+### Better Watch Out
+*Released on 2017-10-06, vote average 6.5*
+
+On a quiet suburban street tucked within a &#39;safe neighborhood&#39;, a babysitter must defend a twelve-year-old boy from strangers breaking into the house, only to discover that this is FAR FROM a normal home invasion.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/1BDxAsaoM1Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### My Little Pony: The Movie
-*Released on 2017-10-05, vote average 6.3*
+*Released on 2017-10-05, vote average 7.4*
 
 A new dark force threatens Ponyville, and the Mane 6 – Twilight Sparkle, Applejack, Rainbow Dash, Pinkie Pie, Fluttershy and Rarity – embark on an unforgettable journey beyond Equestria where they meet new friends and exciting challenges on a quest to use the magic of friendship and save their home.
 
@@ -115,32 +115,10 @@ A new dark force threatens Ponyville, and the Mane 6 – Twilight Sparkle, Apple
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### Jeepers Creepers III
-*Released on 2017-09-26, vote average 6*
+*Released on 2017-09-26, vote average 6.8*
 
 Taking place on the last day of the Creeper’s twenty-three-day feeding frenzy, as the skeptical Sergeant Tubbs teams up with a task force hellbent on destroying the Creeper for good. The Creeper fights back in gory glory as its enemies grow closer than ever before to learning the secret of its dark origins.
 
@@ -149,6 +127,74 @@ Taking place on the last day of the Creeper’s twenty-three-day feeding frenzy,
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/Jgium_8mSFM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Spielberg
+*Released on 2017-10-05, vote average 8*
+
+A retrospective on the career of director Steven Spielberg.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/dSdSYmXCPXU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Mark Felt: The Man Who Brought Down the White House
+*Released on 2017-09-29, vote average 4*
+
+The story of Mark Felt, who under the name &#34;Deep Throat&#34; helped journalists Bob Woodward and Carl Bernstein uncover the Watergate scandal in 1974.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/c34BtMNwTzE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -174,22 +220,44 @@ Taking place on the last day of the Creeper’s twenty-three-day feeding frenzy,
 
 
 	
+	
+
+### Super Dark Times
+*Released on 2017-09-29, vote average 7.8*
+
+A horrible accident causes a tectonic shift between high school best friends Zach and Josh, spiraling them in different directions. Set in 1990s suburbia, Super Dark Times is a thriller that explores the twilight zone between adolescence and adulthood, lust and love, bravery and fear, good and evil.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/a-nnMkMnFbI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
 	
 	
+
+### Judwaa 2
+*Released on 2017-09-29, vote average 7.8*
+
+Two brothers (twins) born to an honest businessman are separated at birth when their father exposes a smuggling racket and a king pin. One of the brothers is thought to be dead but only resurfaces stronger after living life on the streets to reunite with his family over a sequence of events and twist of fate. Genetically bound by reflexes both the brother&#39;s lives interlink in strange ways and a comedy of errors. They eventually come together to destroy the smuggling nexus and save their family from a downfall that awaits them.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/4LPJQVFgY-4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
