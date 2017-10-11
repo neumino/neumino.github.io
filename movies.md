@@ -47,7 +47,7 @@ Thirty years after the events of the first film, a new blade runner, LAPD Office
 	
 
 ### The Mountain Between Us
-*Released on 2017-10-05, vote average 5.3*
+*Released on 2017-10-05, vote average 6.9*
 
 Stranded after a tragic plane crash, two strangers must forge a connection to survive the extreme elements of a remote snow covered mountain. When they realize help is not coming, they embark on a perilous journey across the wilderness.
 
@@ -110,37 +110,10 @@ A new dark force threatens Ponyville, and the Mane 6 – Twilight Sparkle, Apple
 
 
 	
-
-  
-
-
-	
-	
-
-### Jeepers Creepers III
-*Released on 2017-09-26, vote average 6.8*
-
-Taking place on the last day of the Creeper’s twenty-three-day feeding frenzy, as the skeptical Sergeant Tubbs teams up with a task force hellbent on destroying the Creeper for good. The Creeper fights back in gory glory as its enemies grow closer than ever before to learning the secret of its dark origins.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Jgium_8mSFM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 	
 
 ### Spielberg
-*Released on 2017-10-05, vote average 8*
+*Released on 2017-10-05, vote average 7*
 
 A retrospective on the career of director Steven Spielberg.
 
@@ -159,6 +132,33 @@ A retrospective on the career of director Steven Spielberg.
 
 
 	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 
   
 
@@ -177,24 +177,17 @@ A retrospective on the career of director Steven Spielberg.
 
 	
 	
-	
 
-  
+### Flatliners
+*Released on 2017-09-28, vote average 4.8*
 
-
-	
-	
-
-### Mark Felt: The Man Who Brought Down the White House
-*Released on 2017-09-29, vote average 4*
-
-The story of Mark Felt, who under the name &#34;Deep Throat&#34; helped journalists Bob Woodward and Carl Bernstein uncover the Watergate scandal in 1974.
+Five medical students, hoping to gain insight into the mystery of what lies beyond the confines of life, embark on a daring and dangerous experiment. By stopping their hearts for short periods of time, each triggers a near-death experience. As the investigation becomes more and more perilous, they are forced to confront the sins of their pasts, as well as contend with the paranormal consequences of trespassing to the other side.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/c34BtMNwTzE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/NBR7JxBHl-E?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -214,50 +207,6 @@ The story of Mark Felt, who under the name &#34;Deep Throat&#34; helped journali
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Super Dark Times
-*Released on 2017-09-29, vote average 7.8*
-
-A horrible accident causes a tectonic shift between high school best friends Zach and Josh, spiraling them in different directions. Set in 1990s suburbia, Super Dark Times is a thriller that explores the twilight zone between adolescence and adulthood, lust and love, bravery and fear, good and evil.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/a-nnMkMnFbI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Judwaa 2
-*Released on 2017-09-29, vote average 7.8*
-
-Two brothers (twins) born to an honest businessman are separated at birth when their father exposes a smuggling racket and a king pin. One of the brothers is thought to be dead but only resurfaces stronger after living life on the streets to reunite with his family over a sequence of events and twist of fate. Genetically bound by reflexes both the brother&#39;s lives interlink in strange ways and a comedy of errors. They eventually come together to destroy the smuggling nexus and save their family from a downfall that awaits them.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/4LPJQVFgY-4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -288,7 +237,7 @@ Two brothers (twins) born to an honest businessman are separated at birth when t
 	
 
 ### The Snowman
-*Released on 2017-10-12, vote average 10*
+*Released on 2017-10-12, vote average 5.5*
 
 Detective Harry Hole investigates the disappearance of a woman whose pink scarf is found wrapped around an ominous looking snowman.
 
@@ -326,6 +275,23 @@ Thurgood Marshall, the first African-American Supreme Court Justice, battles thr
 	
 	
 
+	
+	
+
+### 6 Below: Miracle on the Mountain
+*Released on 2017-10-13, vote average 10*
+
+An adrenaline seeking snowboarder gets lost in a massive winter storm in the back country of the High Sierras where he is pushed to the limits of human endurance and forced to battle his own personal demons as he fights for survival....
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Lz030oqR7GI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
