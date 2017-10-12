@@ -46,6 +46,50 @@ Thirty years after the events of the first film, a new blade runner, LAPD Office
 	
 	
 
+### Happy Death Day
+*Released on 2017-10-12, vote average 8*
+
+A college student relives the day of her murder over and over again as she tries to discover her killer&#39;s identity.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ntxS1bBg5o0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Snowman
+*Released on 2017-10-12, vote average 4.6*
+
+Detective Harry Hole investigates the disappearance of a woman whose pink scarf is found wrapped around an ominous looking snowman.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/c44kam_8N3I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Mountain Between Us
 *Released on 2017-10-05, vote average 6.9*
 
@@ -176,33 +220,6 @@ A retrospective on the career of director Steven Spielberg.
 
 
 	
-	
-
-### Flatliners
-*Released on 2017-09-28, vote average 4.8*
-
-Five medical students, hoping to gain insight into the mystery of what lies beyond the confines of life, embark on a daring and dangerous experiment. By stopping their hearts for short periods of time, each triggers a near-death experience. As the investigation becomes more and more perilous, they are forced to confront the sins of their pasts, as well as contend with the paranormal consequences of trespassing to the other side.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/NBR7JxBHl-E?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 
   
 
@@ -232,12 +249,29 @@ Five medical students, hoping to gain insight into the mystery of what lies beyo
 
 
 	
+	
+
+### Happy Death Day
+*Released on 2017-10-12, vote average 8*
+
+A college student relives the day of her murder over and over again as she tries to discover her killer&#39;s identity.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ntxS1bBg5o0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 	
 
 ### The Snowman
-*Released on 2017-10-12, vote average 5.5*
+*Released on 2017-10-12, vote average 4.6*
 
 Detective Harry Hole investigates the disappearance of a woman whose pink scarf is found wrapped around an ominous looking snowman.
 
@@ -250,6 +284,8 @@ Detective Harry Hole investigates the disappearance of a woman whose pink scarf 
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
@@ -292,8 +328,6 @@ An adrenaline seeking snowboarder gets lost in a massive winter storm in the bac
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
