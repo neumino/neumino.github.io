@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Blade Runner 2049
-*Released on 2017-10-04, vote average 7.8*
+*Released on 2017-10-04, vote average 7.7*
 
 Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what&#39;s left of society into chaos. K&#39;s discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.
 
@@ -46,6 +46,28 @@ Thirty years after the events of the first film, a new blade runner, LAPD Office
 	
 	
 
+### The Snowman
+*Released on 2017-10-12, vote average 4.2*
+
+Detective Harry Hole investigates the disappearance of a woman whose pink scarf is found wrapped around an ominous looking snowman.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/c44kam_8N3I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Happy Death Day
 *Released on 2017-10-12, vote average 8*
 
@@ -68,16 +90,107 @@ A college student relives the day of her murder over and over again as she tries
 	
 	
 
-### The Snowman
-*Released on 2017-10-12, vote average 4.2*
+### Professor Marston &amp; the Wonder Women
+*Released on 2017-10-13, vote average 3.8*
 
-Detective Harry Hole investigates the disappearance of a woman whose pink scarf is found wrapped around an ominous looking snowman.
+The unconventional life of Dr. William Marston, the Harvard psychologist and inventor who helped invent the modern lie detector test and created Wonder Woman in 1941.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/c44kam_8N3I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/OILVviwLfUM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Marshall
+*Released on 2017-10-13, vote average 10*
+
+Thurgood Marshall, the first African-American Supreme Court Justice, battles through one of his career-defining cases.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/C_bfOWof0Sg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### 6 Below: Miracle on the Mountain
+*Released on 2017-10-13, vote average 10*
+
+An adrenaline seeking snowboarder gets lost in a massive winter storm in the back country of the High Sierras where he is pushed to the limits of human endurance and forced to battle his own personal demons as he fights for survival....
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Lz030oqR7GI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Better Watch Out
+*Released on 2017-10-06, vote average 6.3*
+
+On a quiet suburban street tucked within a &#39;safe neighborhood&#39;, a babysitter must defend a twelve-year-old boy from strangers breaking into the house, only to discover that this is FAR FROM a normal home invasion.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/1BDxAsaoM1Y?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -122,87 +235,6 @@ Stranded after a tragic plane crash, two strangers must forge a connection to su
 	
 	
 
-### Marshall
-*Released on 2017-10-13, vote average 10*
-
-Thurgood Marshall, the first African-American Supreme Court Justice, battles through one of his career-defining cases.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/C_bfOWof0Sg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### 6 Below: Miracle on the Mountain
-*Released on 2017-10-13, vote average 10*
-
-An adrenaline seeking snowboarder gets lost in a massive winter storm in the back country of the High Sierras where he is pushed to the limits of human endurance and forced to battle his own personal demons as he fights for survival....
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Lz030oqR7GI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Better Watch Out
-*Released on 2017-10-06, vote average 6.3*
-
-On a quiet suburban street tucked within a &#39;safe neighborhood&#39;, a babysitter must defend a twelve-year-old boy from strangers breaking into the house, only to discover that this is FAR FROM a normal home invasion.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/1BDxAsaoM1Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### My Little Pony: The Movie
 *Released on 2017-10-05, vote average 7.4*
 
@@ -217,6 +249,21 @@ A new dark force threatens Ponyville, and the Mane 6 – Twilight Sparkle, Apple
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -244,38 +291,6 @@ A retrospective on the career of director Steven Spielberg.
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -283,20 +298,18 @@ A retrospective on the career of director Steven Spielberg.
 	
 
 	
-
-	
 	
 
-### Marshall
-*Released on 2017-10-13, vote average 10*
+### Jigsaw
+*Released on 2017-10-20, vote average 10*
 
-Thurgood Marshall, the first African-American Supreme Court Justice, battles through one of his career-defining cases.
+Dead bodies begin to turn up all over the city, each meeting their demise in a variety of grisly ways. All investigations begin to point the finger at deceased killer John Kramer.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/C_bfOWof0Sg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/UG7nL8DwzvA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -304,22 +317,7 @@ Thurgood Marshall, the first African-American Supreme Court Justice, battles thr
 	
 
 	
-	
 
-### 6 Below: Miracle on the Mountain
-*Released on 2017-10-13, vote average 10*
-
-An adrenaline seeking snowboarder gets lost in a massive winter storm in the back country of the High Sierras where he is pushed to the limits of human endurance and forced to battle his own personal demons as he fights for survival....
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Lz030oqR7GI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
