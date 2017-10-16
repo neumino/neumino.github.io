@@ -69,7 +69,7 @@ A college student relives the day of her murder over and over again as she tries
 	
 
 ### The Snowman
-*Released on 2017-10-12, vote average 4.2*
+*Released on 2017-10-12, vote average 4.8*
 
 Detective Harry Hole investigates the disappearance of a woman whose pink scarf is found wrapped around an ominous looking snowman.
 
@@ -91,7 +91,7 @@ Detective Harry Hole investigates the disappearance of a woman whose pink scarf 
 	
 
 ### 6 Below: Miracle on the Mountain
-*Released on 2017-10-13, vote average 6.8*
+*Released on 2017-10-13, vote average 4.4*
 
 An adrenaline seeking snowboarder gets lost in a massive winter storm in the back country of the High Sierras where he is pushed to the limits of human endurance and forced to battle his own personal demons as he fights for survival....
 
@@ -169,11 +169,6 @@ Thurgood Marshall, the first African-American Supreme Court Justice, battles thr
 
 
 	
-
-  
-
-
-	
 	
 
 ### Better Watch Out
@@ -228,33 +223,6 @@ A new dark force threatens Ponyville, and the Mane 6 – Twilight Sparkle, Apple
 
 
 	
-
-  
-
-
-	
-	
-
-### The Mountain Between Us
-*Released on 2017-10-05, vote average 7.1*
-
-Stranded after a tragic plane crash, two strangers must forge a connection to survive the extreme elements of a remote snow covered mountain. When they realize help is not coming, they embark on a perilous journey across the wilderness.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8ffEs6GfMSI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 	
 
 ### Bomb Scared
@@ -276,6 +244,40 @@ A dysfunctional group of wannabe Basque terrorists awaits word about a new missi
   
 
 
+	
+
+  
+
+
+	
+	
+
+### The Mountain Between Us
+*Released on 2017-10-05, vote average 6.8*
+
+Stranded after a tragic plane crash, two strangers must forge a connection to survive the extreme elements of a remote snow covered mountain. When they realize help is not coming, they embark on a perilous journey across the wilderness.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8ffEs6GfMSI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 	
 
   
