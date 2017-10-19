@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Blade Runner 2049
-*Released on 2017-10-04, vote average 7.7*
+### Happy Death Day
+*Released on 2017-10-12, vote average 7.2*
 
-Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what&#39;s left of society into chaos. K&#39;s discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.
+A college student relives the day of her murder over and over again as she tries to discover her killer&#39;s identity.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/haXvp8M9Cog?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ntxS1bBg5o0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ Thirty years after the events of the first film, a new blade runner, LAPD Office
 	
 	
 
-### Happy Death Day
-*Released on 2017-10-12, vote average 7.3*
+### Geostorm
+*Released on 2017-10-19, vote average 5.2*
 
-A college student relives the day of her murder over and over again as she tries to discover her killer&#39;s identity.
+Gerard Butler playing a stubborn but charming satellite designer who, when the world’s climate-controlling satellites malfunction, has to work together with his estranged brother to save the world from a man-made storm of epic proportions. A trip into space follows, while on Earth a plot to assassinate the president begins to unfold.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ntxS1bBg5o0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/EuOlYPSEzSc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -78,6 +78,28 @@ Detective Harry Hole investigates the disappearance of a woman whose pink scarf 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/c44kam_8N3I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Only the Brave
+*Released on 2017-10-19, vote average 6.5*
+
+Members of the Granite Mountain Hotshots battle deadly wildfires to save an Arizona town.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/DSHk_BHQxp0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,6 +156,35 @@ A dysfunctional group of wannabe Basque terrorists awaits word about a new missi
 	
 	
 
+### My Little Pony: The Movie
+*Released on 2017-10-05, vote average 8.2*
+
+A new dark force threatens Ponyville, and the Mane 6 – Twilight Sparkle, Applejack, Rainbow Dash, Pinkie Pie, Fluttershy and Rarity – embark on an unforgettable journey beyond Equestria where they meet new friends and exciting challenges on a quest to use the magic of friendship and save their home.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kIv_ConaZ1c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
 ### The Mountain Between Us
 *Released on 2017-10-05, vote average 7.1*
 
@@ -163,38 +214,16 @@ Stranded after a tragic plane crash, two strangers must forge a connection to su
 	
 	
 
-### Professor Marston &amp; the Wonder Women
-*Released on 2017-10-13, vote average 3.8*
+### Better Watch Out
+*Released on 2017-10-06, vote average 6.4*
 
-The unconventional life of Dr. William Marston, the Harvard psychologist and inventor who helped invent the modern lie detector test and created Wonder Woman in 1941.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/OILVviwLfUM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### My Little Pony: The Movie
-*Released on 2017-10-05, vote average 8.2*
-
-A new dark force threatens Ponyville, and the Mane 6 – Twilight Sparkle, Applejack, Rainbow Dash, Pinkie Pie, Fluttershy and Rarity – embark on an unforgettable journey beyond Equestria where they meet new friends and exciting challenges on a quest to use the magic of friendship and save their home.
+On a quiet suburban street tucked within a &#39;safe neighborhood&#39;, a babysitter must defend a twelve-year-old boy from strangers breaking into the house, only to discover that this is far from a normal home invasion.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/kIv_ConaZ1c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/1BDxAsaoM1Y?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -229,72 +258,6 @@ Thurgood Marshall, the first African-American Supreme Court Justice, battles thr
 	
 	
 
-### Better Watch Out
-*Released on 2017-10-06, vote average 6.4*
-
-On a quiet suburban street tucked within a &#39;safe neighborhood&#39;, a babysitter must defend a twelve-year-old boy from strangers breaking into the house, only to discover that this is far from a normal home invasion.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/1BDxAsaoM1Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### The Babysitter
-*Released on 2017-10-13, vote average 6.6*
-
-When Cole stays up past his bedtime, he discovers that his hot babysitter is part of a Satanic cult that will stop at nothing to keep him quiet.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/6qCqrODw1nM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### Swing Away
 *Released on 2017-10-13, vote average 6*
 
@@ -320,6 +283,62 @@ Following a meltdown that leads to a suspension, professional golfer Zoe Papadop
 
 
 	
+	
+
+### Professor Marston &amp; the Wonder Women
+*Released on 2017-10-13, vote average 3.8*
+
+The unconventional life of Dr. William Marston, the Harvard psychologist and inventor who helped invent the modern lie detector test and created Wonder Woman in 1941.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/OILVviwLfUM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Babysitter
+*Released on 2017-10-13, vote average 6.5*
+
+When Cole stays up past his bedtime, he discovers that his hot babysitter is part of a Satanic cult that will stop at nothing to keep him quiet.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6qCqrODw1nM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
 
   
 
@@ -339,7 +358,7 @@ Following a meltdown that leads to a suspension, professional golfer Zoe Papadop
 	
 
 ### Geostorm
-*Released on 2017-10-19, vote average 5*
+*Released on 2017-10-19, vote average 5.2*
 
 Gerard Butler playing a stubborn but charming satellite designer who, when the world’s climate-controlling satellites malfunction, has to work together with his estranged brother to save the world from a man-made storm of epic proportions. A trip into space follows, while on Earth a plot to assassinate the president begins to unfold.
 
@@ -373,6 +392,23 @@ Dead bodies begin to turn up all over the city, each meeting their demise in a v
 	
 	
 
+	
+	
+
+### Only the Brave
+*Released on 2017-10-19, vote average 6.5*
+
+Members of the Granite Mountain Hotshots battle deadly wildfires to save an Arizona town.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/DSHk_BHQxp0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
