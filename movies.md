@@ -47,7 +47,7 @@ A college student relives the day of her murder over and over again as she tries
 	
 
 ### Geostorm
-*Released on 2017-10-19, vote average 5.2*
+*Released on 2017-10-19, vote average 5.6*
 
 Gerard Butler playing a stubborn but charming satellite designer who, when the world’s climate-controlling satellites malfunction, has to work together with his estranged brother to save the world from a man-made storm of epic proportions. A trip into space follows, while on Earth a plot to assassinate the president begins to unfold.
 
@@ -68,16 +68,16 @@ Gerard Butler playing a stubborn but charming satellite designer who, when the w
 	
 	
 
-### The Snowman
-*Released on 2017-10-12, vote average 4.9*
+### Jigsaw
+*Released on 2017-10-20, vote average 7.8*
 
-Detective Harry Hole investigates the disappearance of a woman whose pink scarf is found wrapped around an ominous looking snowman.
+Dead bodies begin to turn up all over the city, each meeting their demise in a variety of grisly ways. All investigations begin to point the finger at deceased killer John Kramer.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/c44kam_8N3I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/UG7nL8DwzvA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -110,18 +110,38 @@ Members of the Granite Mountain Hotshots battle deadly wildfires to save an Ariz
 
 
 	
+
+  
+
+
 	
 
-### 6 Below: Miracle on the Mountain
-*Released on 2017-10-13, vote average 4.6*
+  
 
-An adrenaline seeking snowboarder gets lost in a massive winter storm in the back country of the High Sierras where he is pushed to the limits of human endurance and forced to battle his own personal demons as he fights for survival....
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Snowman
+*Released on 2017-10-12, vote average 4.9*
+
+Detective Harry Hole investigates the disappearance of a woman whose pink scarf is found wrapped around an ominous looking snowman.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Lz030oqR7GI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/c44kam_8N3I?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -154,76 +174,23 @@ A dysfunctional group of wannabe Basque terrorists awaits word about a new missi
 
 
 	
+
+  
+
+
+	
 	
 
-### My Little Pony: The Movie
-*Released on 2017-10-05, vote average 8.2*
+### 6 Below: Miracle on the Mountain
+*Released on 2017-10-13, vote average 4.6*
 
-A new dark force threatens Ponyville, and the Mane 6 – Twilight Sparkle, Applejack, Rainbow Dash, Pinkie Pie, Fluttershy and Rarity – embark on an unforgettable journey beyond Equestria where they meet new friends and exciting challenges on a quest to use the magic of friendship and save their home.
+An adrenaline seeking snowboarder gets lost in a massive winter storm in the back country of the High Sierras where he is pushed to the limits of human endurance and forced to battle his own personal demons as he fights for survival....
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/kIv_ConaZ1c?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### The Mountain Between Us
-*Released on 2017-10-05, vote average 7.1*
-
-Stranded after a tragic plane crash, two strangers must forge a connection to survive the extreme elements of a remote snow covered mountain. When they realize help is not coming, they embark on a perilous journey across the wilderness.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8ffEs6GfMSI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Better Watch Out
-*Released on 2017-10-06, vote average 6.4*
-
-On a quiet suburban street tucked within a &#39;safe neighborhood&#39;, a babysitter must defend a twelve-year-old boy from strangers breaking into the house, only to discover that this is far from a normal home invasion.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/1BDxAsaoM1Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Lz030oqR7GI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -236,74 +203,20 @@ On a quiet suburban street tucked within a &#39;safe neighborhood&#39;, a babysi
 	
 	
 
-### Marshall
-*Released on 2017-10-13, vote average 8.8*
+### Brawl in Cell Block 99
+*Released on 2017-10-06, vote average 6.2*
 
-Thurgood Marshall, the first African-American Supreme Court Justice, battles through one of his career-defining cases.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/C_bfOWof0Sg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Swing Away
-*Released on 2017-10-13, vote average 6*
-
-Following a meltdown that leads to a suspension, professional golfer Zoe Papadopoulos travels to her grandparents&#39; village in Greece to escape the harsh spotlight of the international sports world. Between baking bread and eating baklava, she meets and mentors a ten-year-old girl who is determined - against all odds - to become the next golf sensation. Along the way, Zoe rediscovers her Greek heritage, her love of the game, and the hidden strength within herself as she inspires the townspeople in an epic showdown against a greedy American developer.
+After working as a drug courier and getting into a brutal shootout with police, a former boxer finds himself at the mercy of his enemies as they force him to instigate violent acts that turn the prison he resides in into a battleground.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/DcQwgyIQFn0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/7FnAhrJDTqs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Professor Marston &amp; the Wonder Women
-*Released on 2017-10-13, vote average 3.8*
-
-The unconventional life of Dr. William Marston, the Harvard psychologist and inventor who helped invent the modern lie detector test and created Wonder Woman in 1941.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/OILVviwLfUM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -332,12 +245,29 @@ When Cole stays up past his bedtime, he discovers that his hot babysitter is par
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 	
 
   
 
 
+	
+	
 	
 
   
@@ -352,25 +282,6 @@ When Cole stays up past his bedtime, he discovers that his hot babysitter is par
 ## Opening soon
 
 
-	
-
-	
-	
-
-### Geostorm
-*Released on 2017-10-19, vote average 5.2*
-
-Gerard Butler playing a stubborn but charming satellite designer who, when the world’s climate-controlling satellites malfunction, has to work together with his estranged brother to save the world from a man-made storm of epic proportions. A trip into space follows, while on Earth a plot to assassinate the president begins to unfold.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EuOlYPSEzSc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
@@ -393,22 +304,7 @@ Dead bodies begin to turn up all over the city, each meeting their demise in a v
 	
 
 	
-	
 
-### Only the Brave
-*Released on 2017-10-19, vote average 6.5*
-
-Members of the Granite Mountain Hotshots battle deadly wildfires to save an Arizona town.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/DSHk_BHQxp0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
