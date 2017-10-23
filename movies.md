@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Happy Death Day
-*Released on 2017-10-12, vote average 7.2*
+*Released on 2017-10-12, vote average 7*
 
 A college student relives the day of her murder over and over again as she tries to discover her killer&#39;s identity.
 
@@ -56,28 +56,6 @@ Dead bodies begin to turn up all over the city, each meeting their demise in a v
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/UG7nL8DwzvA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Geostorm
-*Released on 2017-10-13, vote average 5.4*
-
-Gerard Butler playing a stubborn but charming satellite designer who, when the world’s climate-controlling satellites malfunction, has to work together with his estranged brother to save the world from a man-made storm of epic proportions. A trip into space follows, while on Earth a plot to assassinate the president begins to unfold.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EuOlYPSEzSc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -139,20 +117,25 @@ Madea and the gang encounter monsters, goblins and boogeymen at a haunted campgr
 	
 	
 
-### Jungle
-*Released on 2017-10-20, vote average 7.5*
+### The Babysitter
+*Released on 2017-10-13, vote average 6.5*
 
-A mysterious guide escorts an enthusiastic adventurer and his friend into the Amazon jungle. Their journey turns into a terrifying ordeal as the darkest elements of human nature and the deadliest threats of the wild force them to fight for survival.
+When Cole stays up past his bedtime, he discovers that his hot babysitter is part of a Satanic cult that will stop at nothing to keep him quiet.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-imfwYLne14?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/6qCqrODw1nM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -181,21 +164,11 @@ Members of the Granite Mountain Hotshots battle deadly wildfires to save an Ariz
 
 
 	
+
+  
+
+
 	
-
-### The Babysitter
-*Released on 2017-10-13, vote average 6.4*
-
-When Cole stays up past his bedtime, he discovers that his hot babysitter is part of a Satanic cult that will stop at nothing to keep him quiet.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/6qCqrODw1nM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -212,48 +185,6 @@ When Cole stays up past his bedtime, he discovers that his hot babysitter is par
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### 6 Below: Miracle on the Mountain
-*Released on 2017-10-13, vote average 4.6*
-
-An adrenaline seeking snowboarder gets lost in a massive winter storm in the back country of the High Sierras where he is pushed to the limits of human endurance and forced to battle his own personal demons as he fights for survival....
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Lz030oqR7GI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -268,7 +199,7 @@ An adrenaline seeking snowboarder gets lost in a massive winter storm in the bac
 	
 
 ### 1922
-*Released on 2017-10-20, vote average 7.4*
+*Released on 2017-10-20, vote average 6.8*
 
 A simple yet proud rancher in the year 1922 conspires to murder his wife for financial gain, convincing his teenage son to participate.
 
@@ -280,6 +211,18 @@ A simple yet proud rancher in the year 1922 conspires to murder his wife for fin
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 	
 
@@ -303,6 +246,33 @@ The film revolves around the life of a child who aspires to be a singer.
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Wheelman
+*Released on 2017-10-20, vote average 5.6*
+
+A getaway driver for a bank robbery realizes he has been double crossed and races to find out who betrayed him.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/f_LpIydyVlk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -341,6 +311,23 @@ Thor is imprisoned on the other side of the universe and finds himself in a race
 
 	
 
+	
+	
+
+### Dual Mania
+*Released on 2017-10-26, vote average 10*
+
+A psychological suspense thriller dealing with the dual persona a young man possesses and attempts to conceal throughout his ongoing sessions with his therapist.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IQPdTpf2tOU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
