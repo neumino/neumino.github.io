@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Happy Death Day
-*Released on 2017-10-12, vote average 7*
+*Released on 2017-10-12, vote average 6.7*
 
 A college student relives the day of her murder over and over again as she tries to discover her killer&#39;s identity.
 
@@ -66,6 +66,45 @@ Dead bodies begin to turn up all over the city, each meeting their demise in a v
 
 
 	
+	
+
+### Geostorm
+*Released on 2017-10-13, vote average 5.5*
+
+Gerard Butler playing a stubborn but charming satellite designer who, when the world’s climate-controlling satellites malfunction, has to work together with his estranged brother to save the world from a man-made storm of epic proportions. A trip into space follows, while on Earth a plot to assassinate the president begins to unfold.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EuOlYPSEzSc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Killing of a Sacred Deer
+*Released on 2017-10-20, vote average 7*
+
+A teenager&#39;s attempts to bring a brilliant surgeon into his dysfunctional family take an unexpected turn.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/CQFdGfwChtw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -117,6 +156,28 @@ Madea and the gang encounter monsters, goblins and boogeymen at a haunted campgr
 	
 	
 
+### Only the Brave
+*Released on 2017-10-19, vote average 4.3*
+
+Members of the Granite Mountain Hotshots battle deadly wildfires to save an Arizona town.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/DSHk_BHQxp0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Babysitter
 *Released on 2017-10-13, vote average 6.5*
 
@@ -142,18 +203,23 @@ When Cole stays up past his bedtime, he discovers that his hot babysitter is par
 
 
 	
+
+  
+
+
+	
 	
 
-### Only the Brave
-*Released on 2017-10-19, vote average 4.3*
+### Same Kind of Different as Me
+*Released on 2017-10-20, vote average 4*
 
-Members of the Granite Mountain Hotshots battle deadly wildfires to save an Arizona town.
+International art dealer Ron Hall must befriend a dangerous homeless man in order to save his struggling marriage to his wife, a woman whose dreams will lead all three of them on the journey of their lives.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/DSHk_BHQxp0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/v8MWxtpjVp8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -169,27 +235,27 @@ Members of the Granite Mountain Hotshots battle deadly wildfires to save an Ariz
 
 
 	
-	
-	
 
   
 
 
 	
-
-  
-
-
 	
 
-  
+### 6 Below: Miracle on the Mountain
+*Released on 2017-10-13, vote average 4.6*
 
+An adrenaline seeking snowboarder gets lost in a massive winter storm in the back country of the High Sierras where he is pushed to the limits of human endurance and forced to battle his own personal demons as he fights for survival....
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Lz030oqR7GI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-  
-
-
 	
 
   
@@ -199,7 +265,7 @@ Members of the Granite Mountain Hotshots battle deadly wildfires to save an Ariz
 	
 
 ### 1922
-*Released on 2017-10-20, vote average 6.8*
+*Released on 2017-10-20, vote average 6.7*
 
 A simple yet proud rancher in the year 1922 conspires to murder his wife for financial gain, convincing his teenage son to participate.
 
@@ -208,40 +274,6 @@ A simple yet proud rancher in the year 1922 conspires to murder his wife for fin
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/3E_fT0aTsjI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Secret Superstar
-*Released on 2017-10-19, vote average 8.5*
-
-The film revolves around the life of a child who aspires to be a singer.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/P6jaRsnchro?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -268,6 +300,23 @@ A getaway driver for a bank robbery realizes he has been double crossed and race
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -312,6 +361,20 @@ Thor is imprisoned on the other side of the universe and finds himself in a race
 	
 
 	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
 	
 
 ### Dual Mania
@@ -328,20 +391,6 @@ A psychological suspense thriller dealing with the dual persona a young man poss
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
