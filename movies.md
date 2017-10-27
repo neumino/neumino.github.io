@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Thor: Ragnarok
-*Released on 2017-10-25, vote average 7.2*
+*Released on 2017-10-25, vote average 7.5*
 
 Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his homeworld and the end of Asgardian civilization, at the hands of an all-powerful new threat, the ruthless Hela.
 
@@ -46,28 +46,6 @@ Thor is imprisoned on the other side of the universe and finds himself in a race
 	
 	
 
-### Happy Death Day
-*Released on 2017-10-12, vote average 6.8*
-
-A college student relives the day of her murder over and over again as she tries to discover her killer&#39;s identity.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ntxS1bBg5o0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Jigsaw
 *Released on 2017-10-20, vote average 5.6*
 
@@ -91,7 +69,7 @@ Dead bodies begin to turn up all over the city, each meeting their demise in a v
 	
 
 ### Geostorm
-*Released on 2017-10-13, vote average 5.5*
+*Released on 2017-10-13, vote average 5.6*
 
 Gerard Butler playing a stubborn but charming satellite designer who, when the world’s climate-controlling satellites malfunction, has to work together with his estranged brother to save the world from a man-made storm of epic proportions. A trip into space follows, while on Earth a plot to assassinate the president begins to unfold.
 
@@ -134,16 +112,16 @@ A teenager&#39;s attempts to bring a brilliant surgeon into his dysfunctional fa
 	
 	
 
-### The Snowman
-*Released on 2017-10-12, vote average 4.8*
+### Suburbicon
+*Released on 2017-10-27, vote average 5*
 
-Detective Harry Hole investigates the disappearance of a woman whose pink scarf is found wrapped around an ominous looking snowman.
+A crime mystery set in the quiet family town of Suburbicon during the 1950s, where the best and worst of humanity is hilariously reflected through the deeds of seemingly ordinary people. When a home invasion turns deadly, a picture-perfect family turns to blackmail, revenge, and murder.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/c44kam_8N3I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/IYga2m0V2O0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -200,6 +178,28 @@ A mysterious guide escorts an enthusiastic adventurer and his friend into the Am
 	
 	
 
+### Tragedy Girls
+*Released on 2017-10-20, vote average 4*
+
+Following two death-obsessed teenage girls who use their online show about real-life tragedies to send their small Midwestern town into a frenzy and cement their legacy as modern horror legends.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3GmFP7pfz1U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Only the Brave
 *Released on 2017-10-19, vote average 4.8*
 
@@ -220,22 +220,37 @@ Members of the Granite Mountain Hotshots battle deadly wildfires to save an Ariz
 
 
 	
+
+  
+
+
 	
 
-### Tragedy Girls
-*Released on 2017-10-20, vote average 4*
+  
 
-Following two death-obsessed teenage girls who use their online show about real-life tragedies to send their small Midwestern town into a frenzy and cement their legacy as modern horror legends.
+
+	
+	
+
+### The Carmilla Movie
+*Released on 2017-10-26, vote average 10*
+
+It has been five years since Laura and Carmilla vanquished the apocalypse and Carmilla became a bonafide mortal human. They have settled in to a cozy apartment in downtown Toronto, Laura continues to hone her journalism skills while Carmilla adjusts to a non-vampire lifestyle. Their domestic bliss is suddenly ruptured when Carmilla begins to show signs of &#34;re-vamping&#34; – from a fondness for bloody treats to accidental biting – while Laura has started having bizarre, ghostly dreams. The couple must now enlist their old friends from Silas University to uncover the unknown supernatural threat and save humanity – including Carmilla&#39;s.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/3GmFP7pfz1U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/g2wZdJ0KKyk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -259,65 +274,6 @@ International art dealer Ron Hall must befriend a dangerous homeless man in orde
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/v8MWxtpjVp8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Babysitter
-*Released on 2017-10-13, vote average 6.5*
-
-When Cole stays up past his bedtime, he discovers that his hot babysitter is part of a Satanic cult that will stop at nothing to keep him quiet.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/6qCqrODw1nM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### 6 Below: Miracle on the Mountain
-*Released on 2017-10-13, vote average 4.6*
-
-An adrenaline seeking snowboarder gets lost in a massive winter storm in the back country of the High Sierras where he is pushed to the limits of human endurance and forced to battle his own personal demons as he fights for survival....
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Lz030oqR7GI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -352,8 +308,35 @@ A simple yet proud rancher in the year 1922 conspires to murder his wife for fin
 	
 	
 
+### The Babysitter
+*Released on 2017-10-13, vote average 6.5*
+
+When Cole stays up past his bedtime, he discovers that his hot babysitter is part of a Satanic cult that will stop at nothing to keep him quiet.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6qCqrODw1nM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### Wheelman
-*Released on 2017-10-20, vote average 5.9*
+*Released on 2017-10-20, vote average 6*
 
 A getaway driver for a bank robbery realizes he has been double crossed and races to find out who betrayed him.
 
@@ -424,18 +407,26 @@ A crime mystery set in the quiet family town of Suburbicon during the 1950s, whe
 	
 
 	
+
 	
 
-### Dual Mania
-*Released on 2017-10-26, vote average 10*
+	
 
-A psychological suspense thriller dealing with the dual persona a young man possesses and attempts to conceal throughout his ongoing sessions with his therapist.
+	
+
+	
+	
+
+### Marrowbone
+*Released on 2017-10-27, vote average 7*
+
+A young man and his four younger siblings, who have kept secret the death of their beloved mother in order to remain together, are plagued by a sinister presence in the sprawling manor in which they live.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/IQPdTpf2tOU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/bkCqmAxZXvg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -444,16 +435,6 @@ A psychological suspense thriller dealing with the dual persona a young man poss
 
 	
 
-	
-
-	
-
-	
-
-	
-
-	
-	
 	
 
 
