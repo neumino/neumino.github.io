@@ -55,29 +55,7 @@ Dead bodies begin to turn up all over the city, each meeting their demise in a v
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/UG7nL8DwzvA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Geostorm
-*Released on 2017-10-13, vote average 5.6*
-
-Gerard Butler playing a stubborn but charming satellite designer who, when the world’s climate-controlling satellites malfunction, has to work together with his estranged brother to save the world from a man-made storm of epic proportions. A trip into space follows, while on Earth a plot to assassinate the president begins to unfold.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EuOlYPSEzSc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/vPP6aIw1vgY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -91,7 +69,7 @@ Gerard Butler playing a stubborn but charming satellite designer who, when the w
 	
 
 ### The Killing of a Sacred Deer
-*Released on 2017-10-20, vote average 8*
+*Released on 2017-10-20, vote average 7.8*
 
 A teenager&#39;s attempts to bring a brilliant surgeon into his dysfunctional family take an unexpected turn.
 
@@ -100,28 +78,6 @@ A teenager&#39;s attempts to bring a brilliant surgeon into his dysfunctional fa
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/CQFdGfwChtw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Suburbicon
-*Released on 2017-10-27, vote average 5*
-
-A crime mystery set in the quiet family town of Suburbicon during the 1950s, where the best and worst of humanity is hilariously reflected through the deeds of seemingly ordinary people. When a home invasion turns deadly, a picture-perfect family turns to blackmail, revenge, and murder.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IYga2m0V2O0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -157,7 +113,7 @@ Madea and the gang encounter monsters, goblins and boogeymen at a haunted campgr
 	
 
 ### Jungle
-*Released on 2017-10-20, vote average 6.4*
+*Released on 2017-10-20, vote average 6.5*
 
 A mysterious guide escorts an enthusiastic adventurer and his friend into the Amazon jungle, but their journey turns into a terrifying ordeal as the darkest elements of human nature and the deadliest threats of the wild force them to fight for survival.
 
@@ -166,28 +122,6 @@ A mysterious guide escorts an enthusiastic adventurer and his friend into the Am
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/-imfwYLne14?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Tragedy Girls
-*Released on 2017-10-20, vote average 4*
-
-Following two death-obsessed teenage girls who use their online show about real-life tragedies to send their small Midwestern town into a frenzy and cement their legacy as modern horror legends.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3GmFP7pfz1U?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -220,10 +154,71 @@ Members of the Granite Mountain Hotshots battle deadly wildfires to save an Ariz
 
 
 	
+	
+
+### Tragedy Girls
+*Released on 2017-10-20, vote average 4*
+
+Following two death-obsessed teenage girls who use their online show about real-life tragedies to send their small Midwestern town into a frenzy and cement their legacy as modern horror legends.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3GmFP7pfz1U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
+	
+
+  
+
+
+	
+	
+
+### Suburbicon
+*Released on 2017-10-27, vote average 5*
+
+A crime mystery set in the quiet family town of Suburbicon during the 1950s, where the best and worst of humanity is hilariously reflected through the deeds of seemingly ordinary people. When a home invasion turns deadly, a picture-perfect family turns to blackmail, revenge, and murder.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IYga2m0V2O0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Same Kind of Different as Me
+*Released on 2017-10-20, vote average 4*
+
+International art dealer Ron Hall must befriend a dangerous homeless man in order to save his struggling marriage to his wife, a woman whose dreams will lead all three of them on the journey of their lives.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/v8MWxtpjVp8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -264,30 +259,8 @@ It has been five years since Laura and Carmilla vanquished the apocalypse and Ca
 	
 	
 
-### Same Kind of Different as Me
-*Released on 2017-10-20, vote average 4*
-
-International art dealer Ron Hall must befriend a dangerous homeless man in order to save his struggling marriage to his wife, a woman whose dreams will lead all three of them on the journey of their lives.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/v8MWxtpjVp8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### 1922
-*Released on 2017-10-20, vote average 6.5*
+*Released on 2017-10-20, vote average 6.4*
 
 A simple yet proud rancher in the year 1922 conspires to murder his wife for financial gain, convincing his teenage son to participate.
 
@@ -306,18 +279,23 @@ A simple yet proud rancher in the year 1922 conspires to murder his wife for fin
 
 
 	
+
+  
+
+
+	
 	
 
-### The Babysitter
-*Released on 2017-10-13, vote average 6.5*
+### Thank You for Your Service
+*Released on 2017-10-26, vote average 5.5*
 
-When Cole stays up past his bedtime, he discovers that his hot babysitter is part of a Satanic cult that will stop at nothing to keep him quiet.
+A look at how Post Traumatic Stress Disorder affects American servicemen and women returning home from war.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/6qCqrODw1nM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/GTl5SHYJxz4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -333,10 +311,15 @@ When Cole stays up past his bedtime, he discovers that his hot babysitter is par
 
 
 	
+
+  
+
+
+	
 	
 
 ### Wheelman
-*Released on 2017-10-20, vote average 6*
+*Released on 2017-10-20, vote average 5.8*
 
 A getaway driver for a bank robbery realizes he has been double crossed and races to find out who betrayed him.
 
@@ -364,23 +347,6 @@ A getaway driver for a bank robbery realizes he has been double crossed and race
 
 
 	
-	
-
-### Suburbicon
-*Released on 2017-10-27, vote average 5*
-
-A crime mystery set in the quiet family town of Suburbicon during the 1950s, where the best and worst of humanity is hilariously reflected through the deeds of seemingly ordinary people. When a home invasion turns deadly, a picture-perfect family turns to blackmail, revenge, and murder.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IYga2m0V2O0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
@@ -414,23 +380,6 @@ A crime mystery set in the quiet family town of Suburbicon during the 1950s, whe
 
 	
 
-	
-	
-
-### Marrowbone
-*Released on 2017-10-27, vote average 7*
-
-A young man and his four younger siblings, who have kept secret the death of their beloved mother in order to remain together, are plagued by a sinister presence in the sprawling manor in which they live.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/bkCqmAxZXvg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
