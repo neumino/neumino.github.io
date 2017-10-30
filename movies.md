@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Thor: Ragnarok
-*Released on 2017-10-25, vote average 7.6*
+*Released on 2017-10-25, vote average 7.5*
 
 Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his homeworld and the end of Asgardian civilization, at the hands of an all-powerful new threat, the ruthless Hela.
 
@@ -47,7 +47,7 @@ Thor is imprisoned on the other side of the universe and finds himself in a race
 	
 
 ### Jigsaw
-*Released on 2017-10-20, vote average 5.3*
+*Released on 2017-10-20, vote average 5.4*
 
 Dead bodies begin to turn up all over the city, each meeting their demise in a variety of grisly ways. All investigations begin to point the finger at deceased killer John Kramer.
 
@@ -90,8 +90,30 @@ A teenager&#39;s attempts to bring a brilliant surgeon into his dysfunctional fa
 	
 	
 
+### Jungle
+*Released on 2017-10-20, vote average 6*
+
+A mysterious guide escorts an enthusiastic adventurer and his friend into the Amazon jungle, but their journey turns into a terrifying ordeal as the darkest elements of human nature and the deadliest threats of the wild force them to fight for survival.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-imfwYLne14?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Suburbicon
-*Released on 2017-10-27, vote average 5*
+*Released on 2017-10-27, vote average 4.3*
 
 A crime mystery set in the quiet family town of Suburbicon during the 1950s, where the best and worst of humanity is hilariously reflected through the deeds of seemingly ordinary people. When a home invasion turns deadly, a picture-perfect family turns to blackmail, revenge, and murder.
 
@@ -122,28 +144,6 @@ Madea and the gang encounter monsters, goblins and boogeymen at a haunted campgr
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/eA5MHLL5dwk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Jungle
-*Released on 2017-10-20, vote average 6.4*
-
-A mysterious guide escorts an enthusiastic adventurer and his friend into the Amazon jungle, but their journey turns into a terrifying ordeal as the darkest elements of human nature and the deadliest threats of the wild force them to fight for survival.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-imfwYLne14?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -200,6 +200,28 @@ Members of the Granite Mountain Hotshots battle deadly wildfires to save an Ariz
 	
 	
 
+### Same Kind of Different as Me
+*Released on 2017-10-20, vote average 5.5*
+
+International art dealer Ron Hall must befriend a dangerous homeless man in order to save his struggling marriage to his wife, a woman whose dreams will lead all three of them on the journey of their lives.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/v8MWxtpjVp8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Wonderstruck
 *Released on 2017-10-20, vote average 7*
 
@@ -223,7 +245,7 @@ The story of a young boy in the Midwest is told simultaneously with a tale about
 	
 
 ### Thank You for Your Service
-*Released on 2017-10-26, vote average 5.5*
+*Released on 2017-10-26, vote average 4*
 
 A look at how Post Traumatic Stress Disorder affects American servicemen and women returning home from war.
 
@@ -242,10 +264,15 @@ A look at how Post Traumatic Stress Disorder affects American servicemen and wom
 
 
 	
+
+  
+
+
+	
 	
 
 ### The Carmilla Movie
-*Released on 2017-10-26, vote average 9.4*
+*Released on 2017-10-26, vote average 9.5*
 
 It has been five years since Laura and Carmilla vanquished the apocalypse and Carmilla became a bonafide mortal human. They have settled in to a cozy apartment in downtown Toronto, Laura continues to hone her journalism skills while Carmilla adjusts to a non-vampire lifestyle. Their domestic bliss is suddenly ruptured when Carmilla begins to show signs of &#34;re-vamping&#34; – from a fondness for bloody treats to accidental biting – while Laura has started having bizarre, ghostly dreams. The couple must now enlist their old friends from Silas University to uncover the unknown supernatural threat and save humanity – including Carmilla&#39;s.
 
@@ -268,28 +295,6 @@ It has been five years since Laura and Carmilla vanquished the apocalypse and Ca
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Same Kind of Different as Me
-*Released on 2017-10-20, vote average 4*
-
-International art dealer Ron Hall must befriend a dangerous homeless man in order to save his struggling marriage to his wife, a woman whose dreams will lead all three of them on the journey of their lives.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/v8MWxtpjVp8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -333,23 +338,18 @@ A simple yet proud rancher in the year 1922 conspires to murder his wife for fin
 
 
 	
-
-  
-
-
-	
 	
 
-### Wheelman
-*Released on 2017-10-20, vote average 6.1*
+### Coco
+*Released on 2017-10-27, vote average 8.3*
 
-A getaway driver for a bank robbery realizes he has been double crossed and races to find out who betrayed him.
+The discovery of a generations-old mystery leads to a most extraordinary and surprising family reunion.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/f_LpIydyVlk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/zNCz4mQzfEI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -363,6 +363,23 @@ A getaway driver for a bank robbery realizes he has been double crossed and race
 ## Opening soon
 
 
+	
+	
+
+### A Bad Moms Christmas
+*Released on 2017-11-03, vote average 10*
+
+The titular under-appreciated and over-burdened friends cope with the stresses of the most wonderful time of year as their own mothers visit for the holidays.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/7a5W7LZsWg0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
