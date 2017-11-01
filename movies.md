@@ -90,16 +90,16 @@ A teenager&#39;s attempts to bring a brilliant surgeon into his dysfunctional fa
 	
 	
 
-### Suburbicon
-*Released on 2017-10-27, vote average 3.6*
+### Jungle
+*Released on 2017-10-20, vote average 5.8*
 
-A crime mystery set in the quiet family town of Suburbicon during the 1950s, where the best and worst of humanity is hilariously reflected through the deeds of seemingly ordinary people. When a home invasion turns deadly, a picture-perfect family turns to blackmail, revenge, and murder.
+A mysterious guide escorts an enthusiastic adventurer and his friend into the Amazon jungle, but their journey turns into a terrifying ordeal as the darkest elements of human nature and the deadliest threats of the wild force them to fight for survival.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/IYga2m0V2O0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ADjYDl1RCGs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,16 +134,16 @@ Madea and the gang encounter monsters, goblins and boogeymen at a haunted campgr
 	
 	
 
-### Jungle
-*Released on 2017-10-20, vote average 5.9*
+### Only the Brave
+*Released on 2017-10-19, vote average 5*
 
-A mysterious guide escorts an enthusiastic adventurer and his friend into the Amazon jungle, but their journey turns into a terrifying ordeal as the darkest elements of human nature and the deadliest threats of the wild force them to fight for survival.
+Members of the Granite Mountain Hotshots battle deadly wildfires to save an Arizona town.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ADjYDl1RCGs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/DSHk_BHQxp0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -157,7 +157,7 @@ A mysterious guide escorts an enthusiastic adventurer and his friend into the Am
 	
 
 ### Tragedy Girls
-*Released on 2017-10-20, vote average 4*
+*Released on 2017-10-20, vote average 2.5*
 
 Following two death-obsessed teenage girls who use their online show about real-life tragedies to send their small Midwestern town into a frenzy and cement their legacy as modern horror legends.
 
@@ -178,16 +178,16 @@ Following two death-obsessed teenage girls who use their online show about real-
 	
 	
 
-### Only the Brave
-*Released on 2017-10-19, vote average 4.8*
+### Suburbicon
+*Released on 2017-10-27, vote average 3.4*
 
-Members of the Granite Mountain Hotshots battle deadly wildfires to save an Arizona town.
+A crime mystery set in the quiet family town of Suburbicon during the 1950s, where the best and worst of humanity is hilariously reflected through the deeds of seemingly ordinary people. When a home invasion turns deadly, a picture-perfect family turns to blackmail, revenge, and murder.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/DSHk_BHQxp0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/IYga2m0V2O0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -210,28 +210,6 @@ The story of a young boy in the Midwest is told simultaneously with a tale about
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/qMNW-5SV7Cc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Thank You for Your Service
-*Released on 2017-10-26, vote average 4*
-
-A look at how Post Traumatic Stress Disorder affects American servicemen and women returning home from war.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/GTl5SHYJxz4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -291,6 +269,60 @@ International art dealer Ron Hall must befriend a dangerous homeless man in orde
 
 
 	
+	
+
+### Thank You for Your Service
+*Released on 2017-10-26, vote average 4*
+
+A look at how Post Traumatic Stress Disorder affects American servicemen and women returning home from war.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/GTl5SHYJxz4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Coco
+*Released on 2017-10-27, vote average 8.7*
+
+The discovery of a generations-old mystery leads to a most extraordinary and surprising family reunion.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zNCz4mQzfEI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 
   
 
@@ -327,47 +359,17 @@ A simple yet proud rancher in the year 1922 conspires to murder his wife for fin
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Dual Mania
-*Released on 2017-10-26, vote average 10*
-
-A psychological suspense thriller dealing with the dual persona a young man possesses and attempts to conceal throughout his ongoing sessions with his therapist.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZYWCuZkamzI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 
 ## Opening soon
 
 
 	
+
+	
 	
 
 ### A Bad Moms Christmas
-*Released on 2017-11-03, vote average 10*
+*Released on 2017-11-03, vote average 6*
 
 The titular under-appreciated and over-burdened friends cope with the stresses of the most wonderful time of year as their own mothers visit for the holidays.
 
@@ -383,6 +385,23 @@ The titular under-appreciated and over-burdened friends cope with the stresses o
 	
 
 	
+	
+
+### Murder on the Orient Express
+*Released on 2017-11-03, vote average 8*
+
+Genius Belgian detective Hercule Poirot investigates the murder of an American tycoon aboard the Orient Express train.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Mq4m3yAoW8E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
@@ -407,6 +426,23 @@ The titular under-appreciated and over-burdened friends cope with the stresses o
 	
 
 	
+	
+
+### You Were Never Really Here
+*Released on 2017-11-03, vote average 6*
+
+A missing teenage girl. A brutal and tormented enforcer on a rescue mission. Corrupt power and vengeance unleash a storm of violence that may lead to his awakening.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/G_IeNsAaclA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
@@ -416,10 +452,6 @@ The titular under-appreciated and over-burdened friends cope with the stresses o
 
 	
 
-	
-
-	
-	
 	
 
 
