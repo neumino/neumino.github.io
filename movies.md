@@ -68,6 +68,28 @@ Dead bodies begin to turn up all over the city, each meeting their demise in a v
 	
 	
 
+### Jungle
+*Released on 2017-10-20, vote average 5.9*
+
+A mysterious guide escorts an enthusiastic adventurer and his friend into the Amazon jungle, but their journey turns into a terrifying ordeal as the darkest elements of human nature and the deadliest threats of the wild force them to fight for survival.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ADjYDl1RCGs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Killing of a Sacred Deer
 *Released on 2017-10-20, vote average 6.1*
 
@@ -90,30 +112,8 @@ A teenager&#39;s attempts to bring a brilliant surgeon into his dysfunctional fa
 	
 	
 
-### Jungle
-*Released on 2017-10-20, vote average 5.8*
-
-A mysterious guide escorts an enthusiastic adventurer and his friend into the Amazon jungle, but their journey turns into a terrifying ordeal as the darkest elements of human nature and the deadliest threats of the wild force them to fight for survival.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ADjYDl1RCGs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Boo 2! A Madea Halloween
-*Released on 2017-10-20, vote average 6.1*
+*Released on 2017-10-20, vote average 5.5*
 
 Madea and the gang encounter monsters, goblins and boogeymen at a haunted campground.
 
@@ -134,8 +134,30 @@ Madea and the gang encounter monsters, goblins and boogeymen at a haunted campgr
 	
 	
 
+### Suburbicon
+*Released on 2017-10-27, vote average 5.5*
+
+A crime mystery set in the quiet family town of Suburbicon during the 1950s, where the best and worst of humanity is hilariously reflected through the deeds of seemingly ordinary people. When a home invasion turns deadly, a picture-perfect family turns to blackmail, revenge, and murder.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IYga2m0V2O0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Only the Brave
-*Released on 2017-10-19, vote average 5*
+*Released on 2017-10-19, vote average 5.3*
 
 Members of the Granite Mountain Hotshots battle deadly wildfires to save an Arizona town.
 
@@ -178,30 +200,8 @@ Following two death-obsessed teenage girls who use their online show about real-
 	
 	
 
-### Suburbicon
-*Released on 2017-10-27, vote average 3.4*
-
-A crime mystery set in the quiet family town of Suburbicon during the 1950s, where the best and worst of humanity is hilariously reflected through the deeds of seemingly ordinary people. When a home invasion turns deadly, a picture-perfect family turns to blackmail, revenge, and murder.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IYga2m0V2O0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Wonderstruck
-*Released on 2017-10-20, vote average 7*
+*Released on 2017-10-20, vote average 5.2*
 
 The story of a young boy in the Midwest is told simultaneously with a tale about a young girl in New York from fifty years ago as they both seek the same mysterious connection.
 
@@ -210,28 +210,6 @@ The story of a young boy in the Midwest is told simultaneously with a tale about
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/qMNW-5SV7Cc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Carmilla Movie
-*Released on 2017-10-26, vote average 9.5*
-
-It has been five years since Laura and Carmilla vanquished the apocalypse and Carmilla became a bonafide mortal human. They have settled in to a cozy apartment in downtown Toronto, Laura continues to hone her journalism skills while Carmilla adjusts to a non-vampire lifestyle. Their domestic bliss is suddenly ruptured when Carmilla begins to show signs of &#34;re-vamping&#34; – from a fondness for bloody treats to accidental biting – while Laura has started having bizarre, ghostly dreams. The couple must now enlist their old friends from Silas University to uncover the unknown supernatural threat and save humanity – including Carmilla&#39;s.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/g2wZdJ0KKyk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -264,6 +242,23 @@ International art dealer Ron Hall must befriend a dangerous homeless man in orde
 
 
 	
+	
+
+### The Carmilla Movie
+*Released on 2017-10-26, vote average 8.5*
+
+It has been five years since Laura and Carmilla vanquished the apocalypse and Carmilla became a bonafide mortal human. They have settled in to a cozy apartment in downtown Toronto, Laura continues to hone her journalism skills while Carmilla adjusts to a non-vampire lifestyle. Their domestic bliss is suddenly ruptured when Carmilla begins to show signs of &#34;re-vamping&#34; – from a fondness for bloody treats to accidental biting – while Laura has started having bizarre, ghostly dreams. The couple must now enlist their old friends from Silas University to uncover the unknown supernatural threat and save humanity – including Carmilla&#39;s.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/g2wZdJ0KKyk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -291,6 +286,33 @@ A look at how Post Traumatic Stress Disorder affects American servicemen and wom
 
 
 	
+	
+
+### Laddie
+*Released on 2017-10-20, vote average 1*
+
+Profile of the producer and former studio head of 20th Century Fox in the 1970s, Alan Ladd Jr.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/WMlZlzkTn9w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 
   
 
@@ -304,7 +326,7 @@ A look at how Post Traumatic Stress Disorder affects American servicemen and wom
 	
 
 ### Coco
-*Released on 2017-10-27, vote average 8.7*
+*Released on 2017-10-27, vote average 8.2*
 
 The discovery of a generations-old mystery leads to a most extraordinary and surprising family reunion.
 
@@ -333,28 +355,6 @@ The discovery of a generations-old mystery leads to a most extraordinary and sur
 
 
 	
-	
-
-### 1922
-*Released on 2017-10-20, vote average 6.4*
-
-A simple yet proud rancher in the year 1922 conspires to murder his wife for financial gain, convincing his teenage son to participate.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3E_fT0aTsjI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 
   
 
@@ -364,12 +364,10 @@ A simple yet proud rancher in the year 1922 conspires to murder his wife for fin
 
 
 	
-
-	
 	
 
 ### A Bad Moms Christmas
-*Released on 2017-11-03, vote average 6*
+*Released on 2017-11-03, vote average 5.1*
 
 The titular under-appreciated and over-burdened friends cope with the stresses of the most wonderful time of year as their own mothers visit for the holidays.
 
@@ -416,16 +414,6 @@ Genius Belgian detective Hercule Poirot investigates the murder of an American t
 	
 
 	
-
-	
-
-	
-
-	
-
-	
-
-	
 	
 
 ### You Were Never Really Here
@@ -442,6 +430,35 @@ A missing teenage girl. A brutal and tormented enforcer on a rescue mission. Cor
   allowfullscreen></iframe>
 
 	
+	
+
+	
+	
+
+### 78/52
+*Released on 2017-11-03, vote average 8*
+
+78 shots. 52 cuts. The shower scene from PSYCHO.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5nHPX3Emup4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
