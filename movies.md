@@ -47,7 +47,7 @@ Thor is imprisoned on the other side of the universe and finds himself in a race
 	
 
 ### Jigsaw
-*Released on 2017-10-20, vote average 5.6*
+*Released on 2017-10-20, vote average 5.8*
 
 Dead bodies begin to turn up all over the city, each meeting their demise in a variety of grisly ways. All investigations begin to point the finger at deceased killer John Kramer.
 
@@ -69,7 +69,7 @@ Dead bodies begin to turn up all over the city, each meeting their demise in a v
 	
 
 ### Jungle
-*Released on 2017-10-20, vote average 5.9*
+*Released on 2017-10-20, vote average 5.8*
 
 A mysterious guide escorts an enthusiastic adventurer and his friend into the Amazon jungle, but their journey turns into a terrifying ordeal as the darkest elements of human nature and the deadliest threats of the wild force them to fight for survival.
 
@@ -91,7 +91,7 @@ A mysterious guide escorts an enthusiastic adventurer and his friend into the Am
 	
 
 ### The Killing of a Sacred Deer
-*Released on 2017-10-20, vote average 6.1*
+*Released on 2017-10-20, vote average 5.5*
 
 A teenager&#39;s attempts to bring a brilliant surgeon into his dysfunctional family take an unexpected turn.
 
@@ -134,6 +134,28 @@ Madea and the gang encounter monsters, goblins and boogeymen at a haunted campgr
 	
 	
 
+### Wonderstruck
+*Released on 2017-10-20, vote average 5.2*
+
+The story of a young boy in the Midwest is told simultaneously with a tale about a young girl in New York from fifty years ago as they both seek the same mysterious connection.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qMNW-5SV7Cc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Suburbicon
 *Released on 2017-10-27, vote average 5.5*
 
@@ -156,28 +178,6 @@ A crime mystery set in the quiet family town of Suburbicon during the 1950s, whe
 	
 	
 
-### Only the Brave
-*Released on 2017-10-19, vote average 5.3*
-
-Members of the Granite Mountain Hotshots battle deadly wildfires to save an Arizona town.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/DSHk_BHQxp0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Tragedy Girls
 *Released on 2017-10-20, vote average 2.5*
 
@@ -188,28 +188,6 @@ Following two death-obsessed teenage girls who use their online show about real-
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/3GmFP7pfz1U?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Wonderstruck
-*Released on 2017-10-20, vote average 5.2*
-
-The story of a young boy in the Midwest is told simultaneously with a tale about a young girl in New York from fifty years ago as they both seek the same mysterious connection.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qMNW-5SV7Cc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -266,6 +244,28 @@ It has been five years since Laura and Carmilla vanquished the apocalypse and Ca
 	
 	
 
+### Laddie
+*Released on 2017-10-20, vote average 1*
+
+Profile of the producer and former studio head of 20th Century Fox in the 1970s, Alan Ladd Jr.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/WMlZlzkTn9w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Thank You for Your Service
 *Released on 2017-10-26, vote average 4*
 
@@ -288,16 +288,16 @@ A look at how Post Traumatic Stress Disorder affects American servicemen and wom
 	
 	
 
-### Laddie
-*Released on 2017-10-20, vote average 1*
+### Murder on the Orient Express
+*Released on 2017-11-03, vote average 8*
 
-Profile of the producer and former studio head of 20th Century Fox in the 1970s, Alan Ladd Jr.
+Genius Belgian detective Hercule Poirot investigates the murder of an American tycoon aboard the Orient Express train.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/WMlZlzkTn9w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Mq4m3yAoW8E?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -307,6 +307,23 @@ Profile of the producer and former studio head of 20th Century Fox in the 1970s,
   
 
 
+	
+	
+
+### A Bad Moms Christmas
+*Released on 2017-11-03, vote average 5.1*
+
+The titular under-appreciated and over-burdened friends cope with the stresses of the most wonderful time of year as their own mothers visit for the holidays.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fPLTUwxGjms?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -350,6 +367,23 @@ The discovery of a generations-old mystery leads to a most extraordinary and sur
 
 
 	
+	
+
+### 1922
+*Released on 2017-10-20, vote average 6.3*
+
+A simple yet proud rancher in the year 1922 conspires to murder his wife for financial gain, convincing his teenage son to participate.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3E_fT0aTsjI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -362,25 +396,6 @@ The discovery of a generations-old mystery leads to a most extraordinary and sur
 
 ## Opening soon
 
-
-	
-	
-
-### A Bad Moms Christmas
-*Released on 2017-11-03, vote average 5.1*
-
-The titular under-appreciated and over-burdened friends cope with the stresses of the most wonderful time of year as their own mothers visit for the holidays.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/fPLTUwxGjms?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 	
@@ -402,34 +417,38 @@ Genius Belgian detective Hercule Poirot investigates the murder of an American t
 	
 
 	
-
 	
 
-	
+### A Bad Moms Christmas
+*Released on 2017-11-03, vote average 5.1*
 
-	
-
-	
-
-	
-
-	
-	
-
-### You Were Never Really Here
-*Released on 2017-11-03, vote average 6*
-
-A missing teenage girl. A brutal and tormented enforcer on a rescue mission. Corrupt power and vengeance unleash a storm of violence that may lead to his awakening.
+The titular under-appreciated and over-burdened friends cope with the stresses of the most wonderful time of year as their own mothers visit for the holidays.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/G_IeNsAaclA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/fPLTUwxGjms?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
@@ -452,7 +471,22 @@ A missing teenage girl. A brutal and tormented enforcer on a rescue mission. Cor
 	
 
 	
+	
 
+### You Were Never Really Here
+*Released on 2017-11-03, vote average 6*
+
+A missing teenage girl. A brutal and tormented enforcer on a rescue mission. Corrupt power and vengeance unleash a storm of violence that may lead to his awakening.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/G_IeNsAaclA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
