@@ -47,7 +47,7 @@ Thor is imprisoned on the other side of the universe and finds himself in a race
 	
 
 ### Suburbicon
-*Released on 2017-10-27, vote average 5.5*
+*Released on 2017-10-27, vote average 5.3*
 
 A crime mystery set in the quiet family town of Suburbicon during the 1950s, where the best and worst of humanity is hilariously reflected through the deeds of seemingly ordinary people. When a home invasion turns deadly, a picture-perfect family turns to blackmail, revenge, and murder.
 
@@ -91,7 +91,7 @@ A look at how Post Traumatic Stress Disorder affects American servicemen and wom
 	
 
 ### The Carmilla Movie
-*Released on 2017-10-26, vote average 8.5*
+*Released on 2017-10-26, vote average 8.6*
 
 It has been five years since Laura and Carmilla vanquished the apocalypse and Carmilla became a bonafide mortal human. They have settled in to a cozy apartment in downtown Toronto, Laura continues to hone her journalism skills while Carmilla adjusts to a non-vampire lifestyle. Their domestic bliss is suddenly ruptured when Carmilla begins to show signs of &#34;re-vamping&#34; – from a fondness for bloody treats to accidental biting – while Laura has started having bizarre, ghostly dreams. The couple must now enlist their old friends from Silas University to uncover the unknown supernatural threat and save humanity – including Carmilla&#39;s.
 
@@ -100,28 +100,6 @@ It has been five years since Laura and Carmilla vanquished the apocalypse and Ca
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/g2wZdJ0KKyk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### A Bad Moms Christmas
-*Released on 2017-11-03, vote average 4.3*
-
-The titular under-appreciated and over-burdened friends cope with the stresses of the most wonderful time of year as their own mothers visit for the holidays.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/fPLTUwxGjms?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -154,10 +132,22 @@ Genius Belgian detective Hercule Poirot investigates the murder of an American t
 
 
 	
+	
 
-  
+### A Bad Moms Christmas
+*Released on 2017-11-03, vote average 5*
 
+In this comedy a few  titular under-appreciated and over-burdened friends cope with the stresses of the most wonderful time of year as their own mothers visit for the holidays.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fPLTUwxGjms?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -228,16 +218,43 @@ The discovery of a generations-old mystery leads to a most extraordinary and sur
 	
 	
 
-### Acts of Vengeance
-*Released on 2017-10-27, vote average 7.4*
+### Call Me by Your Name
+*Released on 2017-10-27, vote average 8.3*
 
-A fast-talking lawyer transforms his body and takes a vow of silence, not to be broken until he finds out who killed his wife and daughter and has his revenge.
+Elio Perlman is spending the summer with his family at their vacation home in Lombardy, Italy. When his father hires a handsome doctoral student, the curious 17-year-old finds himself developing a growing attraction to the young man.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/f4Lrm7w6O4M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/QkJ5H_LnRTY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### 78/52
+*Released on 2017-11-03, vote average 8*
+
+78 shots. 52 cuts. The shower scene from PSYCHO.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5nHPX3Emup4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -270,21 +287,6 @@ A missing teenage girl. A brutal and tormented enforcer on a rescue mission. Cor
 
 
 	
-	
-
-### 78/52
-*Released on 2017-11-03, vote average 8*
-
-78 shots. 52 cuts. The shower scene from PSYCHO.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/5nHPX3Emup4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
