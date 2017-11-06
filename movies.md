@@ -113,7 +113,7 @@ It has been five years since Laura and Carmilla vanquished the apocalypse and Ca
 	
 
 ### Murder on the Orient Express
-*Released on 2017-11-03, vote average 4.9*
+*Released on 2017-11-03, vote average 5.9*
 
 Genius Belgian detective Hercule Poirot investigates the murder of an American tycoon aboard the Orient Express train.
 
@@ -135,7 +135,7 @@ Genius Belgian detective Hercule Poirot investigates the murder of an American t
 	
 
 ### A Bad Moms Christmas
-*Released on 2017-11-03, vote average 5*
+*Released on 2017-11-03, vote average 5.1*
 
 In this comedy a few  titular under-appreciated and over-burdened friends cope with the stresses of the most wonderful time of year as their own mothers visit for the holidays.
 
@@ -218,6 +218,33 @@ The discovery of a generations-old mystery leads to a most extraordinary and sur
 	
 	
 
+### Acts of Vengeance
+*Released on 2017-10-27, vote average 6.9*
+
+A fast-talking lawyer transforms his body and takes a vow of silence, not to be broken until he finds out who killed his wife and daughter and has his revenge.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/f4Lrm7w6O4M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### Call Me by Your Name
 *Released on 2017-10-27, vote average 8.3*
 
@@ -238,23 +265,18 @@ Elio Perlman is spending the summer with his family at their vacation home in Lo
 
 
 	
-
-  
-
-
-	
 	
 
-### 78/52
-*Released on 2017-11-03, vote average 8*
+### Crash Pad
+*Released on 2017-10-27, vote average 7*
 
-78 shots. 52 cuts. The shower scene from PSYCHO.
+A hopeless romantic who thinks he&#39;s found true love with an older woman, only to learn that she&#39;s married and that his fling is merely an instrument of revenge against her neglectful husband.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/5nHPX3Emup4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/HfLuNqpK7yg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -264,30 +286,6 @@ Elio Perlman is spending the summer with his family at their vacation home in Lo
   
 
 
-	
-	
-
-### You Were Never Really Here
-*Released on 2017-11-03, vote average 5*
-
-A missing teenage girl. A brutal and tormented enforcer on a rescue mission. Corrupt power and vengeance unleash a storm of violence that may lead to his awakening.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/G_IeNsAaclA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -297,6 +295,23 @@ A missing teenage girl. A brutal and tormented enforcer on a rescue mission. Cor
 ## Opening soon
 
 
+	
+	
+
+### Daddy&#39;s Home 2
+*Released on 2017-11-09, vote average 4.7*
+
+Brad and Dusty must deal with their intrusive fathers during the holidays.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/huaGQdrkrK0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
