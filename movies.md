@@ -47,7 +47,7 @@ Thor is imprisoned on the other side of the universe and finds himself in a race
 	
 
 ### Suburbicon
-*Released on 2017-10-27, vote average 5.3*
+*Released on 2017-10-27, vote average 5.1*
 
 A crime mystery set in the quiet family town of Suburbicon during the 1950s, where the best and worst of humanity is hilariously reflected through the deeds of seemingly ordinary people. When a home invasion turns deadly, a picture-perfect family turns to blackmail, revenge, and murder.
 
@@ -113,7 +113,7 @@ It has been five years since Laura and Carmilla vanquished the apocalypse and Ca
 	
 
 ### Murder on the Orient Express
-*Released on 2017-11-03, vote average 5.9*
+*Released on 2017-11-03, vote average 6.2*
 
 Genius Belgian detective Hercule Poirot investigates the murder of an American tycoon aboard the Orient Express train.
 
@@ -135,7 +135,7 @@ Genius Belgian detective Hercule Poirot investigates the murder of an American t
 	
 
 ### A Bad Moms Christmas
-*Released on 2017-11-03, vote average 5.1*
+*Released on 2017-11-03, vote average 4.9*
 
 In this comedy a few  titular under-appreciated and over-burdened friends cope with the stresses of the most wonderful time of year as their own mothers visit for the holidays.
 
@@ -211,6 +211,33 @@ The discovery of a generations-old mystery leads to a most extraordinary and sur
 
 
 	
+	
+
+### Call Me by Your Name
+*Released on 2017-10-27, vote average 8.3*
+
+Elio Perlman is spending the summer with his family at their vacation home in Lombardy, Italy. When his father hires a handsome doctoral student, the curious 17-year-old finds himself developing a growing attraction to the young man.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QkJ5H_LnRTY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 
   
 
@@ -244,48 +271,6 @@ A fast-talking lawyer transforms his body and takes a vow of silence, not to be 
 
 	
 	
-
-### Call Me by Your Name
-*Released on 2017-10-27, vote average 8.3*
-
-Elio Perlman is spending the summer with his family at their vacation home in Lombardy, Italy. When his father hires a handsome doctoral student, the curious 17-year-old finds himself developing a growing attraction to the young man.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/QkJ5H_LnRTY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Crash Pad
-*Released on 2017-10-27, vote average 7*
-
-A hopeless romantic who thinks he&#39;s found true love with an older woman, only to learn that she&#39;s married and that his fling is merely an instrument of revenge against her neglectful husband.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/HfLuNqpK7yg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -299,7 +284,7 @@ A hopeless romantic who thinks he&#39;s found true love with an older woman, onl
 	
 
 ### Daddy&#39;s Home 2
-*Released on 2017-11-09, vote average 4.7*
+*Released on 2017-11-09, vote average 4.9*
 
 Brad and Dusty must deal with their intrusive fathers during the holidays.
 
@@ -324,6 +309,8 @@ Brad and Dusty must deal with their intrusive fathers during the holidays.
 
 	
 
+	
+	
 	
 
 	
