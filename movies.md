@@ -47,7 +47,7 @@ Thor is imprisoned on the other side of the universe and finds himself in a race
 	
 
 ### Suburbicon
-*Released on 2017-10-27, vote average 5.1*
+*Released on 2017-10-27, vote average 4.9*
 
 A crime mystery set in the quiet family town of Suburbicon during the 1950s, where the best and worst of humanity is hilariously reflected through the deeds of seemingly ordinary people. When a home invasion turns deadly, a picture-perfect family turns to blackmail, revenge, and murder.
 
@@ -113,7 +113,7 @@ It has been five years since Laura and Carmilla vanquished the apocalypse and Ca
 	
 
 ### Murder on the Orient Express
-*Released on 2017-11-03, vote average 6.2*
+*Released on 2017-11-03, vote average 6.1*
 
 Genius Belgian detective Hercule Poirot investigates the murder of an American tycoon aboard the Orient Express train.
 
@@ -157,9 +157,9 @@ In this comedy a few  titular under-appreciated and over-burdened friends cope w
 	
 
 ### Coco
-*Released on 2017-10-27, vote average 8.2*
+*Released on 2017-10-27, vote average 7.8*
 
-The discovery of a generations-old mystery leads to a most extraordinary and surprising family reunion.
+Despite his family’s baffling generations-old ban on music, Miguel (voice of newcomer Anthony Gonzalez) dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz (voice of Benjamin Bratt). Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector (voice of Gael García Bernal), and together, they set off on an extraordinary journey to unlock the real story behind Miguel&#39;s family history.
 
 <iframe id="player"
 	type="text/html"
@@ -170,6 +170,11 @@ The discovery of a generations-old mystery leads to a most extraordinary and sur
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -233,10 +238,29 @@ Elio Perlman is spending the summer with his family at their vacation home in Lo
 
 
 	
+	
+	
 
   
 
 
+	
+	
+
+### The Perfect Christmas Present
+*Released on 2017-11-04, vote average 6*
+
+Tom Jacobs is Mr Christmas! He&#39;s built an entire business around helping clients find the perfect gift. But what happens when he falls for one lucky recipient?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/CctsZoLpxYo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -269,16 +293,11 @@ A fast-talking lawyer transforms his body and takes a vow of silence, not to be 
   
 
 
-	
-	
-	
-
-  
-
-
 
 ## Opening soon
 
+
+	
 
 	
 	
@@ -310,11 +329,9 @@ Brad and Dusty must deal with their intrusive fathers during the holidays.
 	
 
 	
-	
-	
 
 	
-
+	
 	
 
 	
