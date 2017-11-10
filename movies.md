@@ -46,50 +46,6 @@ A crime mystery set in the quiet family town of Suburbicon during the 1950s, whe
 	
 	
 
-### Thank You for Your Service
-*Released on 2017-10-26, vote average 4*
-
-A look at how Post Traumatic Stress Disorder affects American servicemen and women returning home from war.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/GTl5SHYJxz4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Carmilla Movie
-*Released on 2017-10-26, vote average 8.6*
-
-It has been five years since Laura and Carmilla vanquished the apocalypse and Carmilla became a bonafide mortal human. They have settled in to a cozy apartment in downtown Toronto, Laura continues to hone her journalism skills while Carmilla adjusts to a non-vampire lifestyle. Their domestic bliss is suddenly ruptured when Carmilla begins to show signs of &#34;re-vamping&#34; – from a fondness for bloody treats to accidental biting – while Laura has started having bizarre, ghostly dreams. The couple must now enlist their old friends from Silas University to uncover the unknown supernatural threat and save humanity – including Carmilla&#39;s.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/g2wZdJ0KKyk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Daddy&#39;s Home 2
 *Released on 2017-11-09, vote average 4.9*
 
@@ -110,10 +66,15 @@ Brad and Dusty must deal with their intrusive fathers during the holidays.
 
 
 	
+
+  
+
+
+	
 	
 
 ### Murder on the Orient Express
-*Released on 2017-11-03, vote average 6*
+*Released on 2017-11-03, vote average 6.3*
 
 Genius Belgian detective Hercule Poirot investigates the murder of an American tycoon aboard the Orient Express train.
 
@@ -148,6 +109,38 @@ Despite his family’s baffling generations-old ban on music, Miguel (voice of n
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Three Billboards Outside Ebbing, Missouri
+*Released on 2017-11-10, vote average 5.5*
+
+After seven months have passed without a culprit in her daughter&#39;s murder case, Mildred Hayes makes a bold move, painting three signs leading into her town with a controversial message directed at Bill Willoughby, the town&#39;s revered chief of police. When his second-in-command Officer Jason Dixon, an immature mother&#39;s boy with a penchant for violence, gets involved, the battle between Mildred and Ebbing&#39;s law enforcement is only exacerbated.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Jit3YhGx5pU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -203,10 +196,7 @@ Elio Perlman is spending the summer with his family at their vacation home in Lo
 
 
 	
-
-  
-
-
+	
 	
 
   
@@ -222,6 +212,8 @@ Elio Perlman is spending the summer with his family at their vacation home in Lo
   
 
 
+	
+	
 	
 
   
@@ -260,36 +252,10 @@ Tom Jacobs is Mr Christmas! He&#39;s built an entire business around helping cli
 
 
 	
-	
-	
 
   
 
 
-	
-	
-
-### Acts of Vengeance
-*Released on 2017-10-27, vote average 6.9*
-
-A fast-talking lawyer transforms his body and takes a vow of silence, not to be broken until he finds out who killed his wife and daughter and has his revenge.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/f4Lrm7w6O4M?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -302,27 +268,8 @@ A fast-talking lawyer transforms his body and takes a vow of silence, not to be 
 	
 	
 
-### Daddy&#39;s Home 2
-*Released on 2017-11-09, vote average 4.9*
-
-Brad and Dusty must deal with their intrusive fathers during the holidays.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/huaGQdrkrK0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
 ### Justice League
-*Released on 2017-11-15, vote average 7.5*
+*Released on 2017-11-15, vote average 6.6*
 
 Fueled by his restored faith in humanity and inspired by Superman&#39;s selfless act, Bruce Wayne and Diana Prince assemble a team of metahumans consisting of Barry Allen, Arthur Curry, and Victor Stone to face the catastrophic threat of Steppenwolf and the Parademons who are on the hunt for three Mother Boxes on Earth.
 
@@ -356,6 +303,8 @@ After seven months have passed without a culprit in her daughter&#39;s murder ca
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
