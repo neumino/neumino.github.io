@@ -51,6 +51,28 @@ Brad and Dusty must deal with their intrusive fathers during the holidays.
 	
 	
 
+### Murder on the Orient Express
+*Released on 2017-11-03, vote average 6.3*
+
+Genius Belgian detective Hercule Poirot investigates the murder of an American tycoon aboard the Orient Express train.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Mq4m3yAoW8E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Three Billboards Outside Ebbing, Missouri
 *Released on 2017-11-10, vote average 5.5*
 
@@ -73,16 +95,16 @@ After seven months have passed without a culprit in her daughter&#39;s murder ca
 	
 	
 
-### Murder on the Orient Express
-*Released on 2017-11-03, vote average 6.3*
+### Amanda &amp; Jack Go Glamping
+*Released on 2017-11-10, vote average 7.5*
 
-Genius Belgian detective Hercule Poirot investigates the murder of an American tycoon aboard the Orient Express train.
+With his marriage and career against the ropes, dejected author Jack Spencer travels with his wife, Amanda, to an isolated glamping retreat in search of a spark. When a surprise double booking finds their private retreat anything but private, Jack spins into a comedic exploration of love, lost dreams, small-town-wisdom, and friendship with a miniature donkey to get over himself before he loses all he holds dear.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Mq4m3yAoW8E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Kflr2jiOmyE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -93,20 +115,10 @@ Genius Belgian detective Hercule Poirot investigates the murder of an American t
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### A Bad Moms Christmas
-*Released on 2017-11-03, vote average 5*
+*Released on 2017-11-03, vote average 5.3*
 
 In this comedy a few  titular under-appreciated and over-burdened friends cope with the stresses of the most wonderful time of year as their own mothers visit for the holidays.
 
@@ -125,7 +137,15 @@ In this comedy a few  titular under-appreciated and over-burdened friends cope w
 
 
 	
+
+  
+
+
 	
+
+  
+
+
 	
 
   
@@ -137,21 +157,6 @@ In this comedy a few  titular under-appreciated and over-burdened friends cope w
 
 
 	
-	
-
-### The Perfect Christmas Present
-*Released on 2017-11-04, vote average 6*
-
-Tom Jacobs is Mr Christmas! He&#39;s built an entire business around helping clients find the perfect gift. But what happens when he falls for one lucky recipient?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/CctsZoLpxYo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -220,11 +225,6 @@ A missing teenage girl. A brutal and tormented enforcer on a rescue mission. Cor
   
 
 
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -248,6 +248,23 @@ Fueled by his restored faith in humanity and inspired by Superman&#39;s selfless
 	
 	
 
+	
+	
+
+### Wonder
+*Released on 2017-11-16, vote average 1*
+
+Based on the New York Times bestseller, Wonder tells the inspiring and heartwarming story of August Pullman. Born with facial differences that, up until now, have prevented him from going to a mainstream school, Auggie becomes the most unlikely of heroes when he enters the local fifth grade. As his family, his new classmates, and the larger community all struggle to find their compassion and acceptance, Auggie&#39;s extraordinary journey will unite them all and prove you can&#39;t blend in when you were born to stand out.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZDPEKXx_lAI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
