@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Daddy&#39;s Home 2
-*Released on 2017-11-09, vote average 5.4*
+*Released on 2017-11-09, vote average 5.2*
 
 Brad and Dusty must deal with their intrusive fathers during the holidays.
 
@@ -44,23 +44,18 @@ Brad and Dusty must deal with their intrusive fathers during the holidays.
 
 
 	
-
-  
-
-
-	
 	
 
-### Murder on the Orient Express
-*Released on 2017-11-03, vote average 6.3*
+### Roman J. Israel, Esq.
+*Released on 2017-11-10, vote average 10*
 
-Genius Belgian detective Hercule Poirot investigates the murder of an American tycoon aboard the Orient Express train.
+Hard-nosed liberal lawyer Roman J. Israel has been fighting the good fight forever while others take the credit. When his partner, the firm’s frontman, has a heart attack, Israel suddenly takes on that role. He soon discovers some unsettling truths about the firm--truths that conflict with his values of helping the poor and dispossessed--and finds himself in an existential crisis that leads to extreme actions.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Mq4m3yAoW8E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/CItEtnp3nPY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -73,16 +68,16 @@ Genius Belgian detective Hercule Poirot investigates the murder of an American t
 	
 	
 
-### Three Billboards Outside Ebbing, Missouri
-*Released on 2017-11-10, vote average 5.5*
+### Murder on the Orient Express
+*Released on 2017-11-03, vote average 6.6*
 
-After seven months have passed without a culprit in her daughter&#39;s murder case, Mildred Hayes makes a bold move, painting three signs leading into her town with a controversial message directed at Bill Willoughby, the town&#39;s revered chief of police. When his second-in-command Officer Jason Dixon, an immature mother&#39;s boy with a penchant for violence, gets involved, the battle between Mildred and Ebbing&#39;s law enforcement is only exacerbated.
+Genius Belgian detective Hercule Poirot investigates the murder of an American tycoon aboard the Orient Express train.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Jit3YhGx5pU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Mq4m3yAoW8E?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -105,6 +100,28 @@ With his marriage and career against the ropes, dejected author Jack Spencer tra
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/Kflr2jiOmyE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Three Billboards Outside Ebbing, Missouri
+*Released on 2017-11-10, vote average 5.5*
+
+After seven months have passed without a culprit in her daughter&#39;s murder case, Mildred Hayes makes a bold move, painting three signs leading into her town with a controversial message directed at Bill Willoughby, the town&#39;s revered chief of police. When his second-in-command Officer Jason Dixon, an immature mother&#39;s boy with a penchant for violence, gets involved, the battle between Mildred and Ebbing&#39;s law enforcement is only exacerbated.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Jit3YhGx5pU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -152,74 +169,93 @@ In this comedy a few  titular under-appreciated and over-burdened friends cope w
 
 
 	
-
-  
-
-
-	
-	
 	
 
-  
+### The Perfect Christmas Present
+*Released on 2017-11-04, vote average 6*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### You Were Never Really Here
-*Released on 2017-11-03, vote average 5.7*
-
-A missing teenage girl. A brutal and tormented enforcer on a rescue mission. Corrupt power and vengeance unleash a storm of violence that may lead to his awakening.
+Tom Jacobs is Mr Christmas! He&#39;s built an entire business around helping clients find the perfect gift. But what happens when he falls for one lucky recipient?
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/G_IeNsAaclA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/CctsZoLpxYo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Paddington 2
+*Released on 2017-11-10, vote average 8*
+
+Paddington, now happily settled with the Brown family and a popular member of the local community, picks up a series of odd jobs to buy the perfect present for his Aunt Lucy&#39;s 100th birthday, only for the gift to be stolen.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/cBPt7vS5abI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -233,7 +269,7 @@ A missing teenage girl. A brutal and tormented enforcer on a rescue mission. Cor
 	
 
 ### Justice League
-*Released on 2017-11-15, vote average 7.2*
+*Released on 2017-11-15, vote average 7.6*
 
 Fueled by his restored faith in humanity and inspired by Superman&#39;s selfless act, Bruce Wayne and Diana Prince assemble a team of metahumans consisting of Barry Allen, Arthur Curry, and Victor Stone to face the catastrophic threat of Steppenwolf and the Parademons who are on the hunt for three Mother Boxes on Earth.
 
@@ -246,6 +282,8 @@ Fueled by his restored faith in humanity and inspired by Superman&#39;s selfless
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
@@ -296,7 +334,22 @@ Based on the New York Times bestseller, Wonder tells the inspiring and heartwarm
 	
 
 	
+	
 
+### Batman vs. Two-Face
+*Released on 2017-11-14, vote average 8*
+
+Former Gotham City District Attorney Harvey Dent, one side of his face scarred by acid, goes on a crime spree based on the number &#39;2&#39;. All of his actions are decided by the flip of a defaced, two-headed silver dollar.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/1lgWIi8a9UU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
