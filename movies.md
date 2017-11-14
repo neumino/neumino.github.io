@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Daddy&#39;s Home 2
-*Released on 2017-11-09, vote average 5.2*
+*Released on 2017-11-09, vote average 5.4*
 
 Brad and Dusty must deal with their intrusive fathers during the holidays.
 
@@ -88,45 +88,6 @@ Genius Belgian detective Hercule Poirot investigates the murder of an American t
 
 
 	
-	
-
-### Amanda &amp; Jack Go Glamping
-*Released on 2017-11-10, vote average 7.5*
-
-With his marriage and career against the ropes, dejected author Jack Spencer travels with his wife, Amanda, to an isolated glamping retreat in search of a spark. When a surprise double booking finds their private retreat anything but private, Jack spins into a comedic exploration of love, lost dreams, small-town-wisdom, and friendship with a miniature donkey to get over himself before he loses all he holds dear.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Kflr2jiOmyE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Three Billboards Outside Ebbing, Missouri
-*Released on 2017-11-10, vote average 5.5*
-
-After seven months have passed without a culprit in her daughter&#39;s murder case, Mildred Hayes makes a bold move, painting three signs leading into her town with a controversial message directed at Bill Willoughby, the town&#39;s revered chief of police. When his second-in-command Officer Jason Dixon, an immature mother&#39;s boy with a penchant for violence, gets involved, the battle between Mildred and Ebbing&#39;s law enforcement is only exacerbated.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Jit3YhGx5pU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -154,33 +115,40 @@ In this comedy a few  titular under-appreciated and over-burdened friends cope w
 
 
 	
-
-  
-
-
 	
 
-  
+### Three Billboards Outside Ebbing, Missouri
+*Released on 2017-11-10, vote average 6.3*
 
-
-	
-
-  
-
-
-	
-	
-
-### The Perfect Christmas Present
-*Released on 2017-11-04, vote average 6*
-
-Tom Jacobs is Mr Christmas! He&#39;s built an entire business around helping clients find the perfect gift. But what happens when he falls for one lucky recipient?
+After seven months have passed without a culprit in her daughter&#39;s murder case, Mildred Hayes makes a bold move, painting three signs leading into her town with a controversial message directed at Bill Willoughby, the town&#39;s revered chief of police. When his second-in-command Officer Jason Dixon, an immature mother&#39;s boy with a penchant for violence, gets involved, the battle between Mildred and Ebbing&#39;s law enforcement is only exacerbated.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/CctsZoLpxYo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Jit3YhGx5pU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Amanda &amp; Jack Go Glamping
+*Released on 2017-11-10, vote average 7.5*
+
+With his marriage and career against the ropes, dejected author Jack Spencer travels with his wife, Amanda, to an isolated glamping retreat in search of a spark. When a surprise double booking finds their private retreat anything but private, Jack spins into a comedic exploration of love, lost dreams, small-town-wisdom, and friendship with a miniature donkey to get over himself before he loses all he holds dear.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Kflr2jiOmyE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -201,6 +169,8 @@ Tom Jacobs is Mr Christmas! He&#39;s built an entire business around helping cli
 
 
 	
+	
+	
 
   
 
@@ -221,7 +191,15 @@ Tom Jacobs is Mr Christmas! He&#39;s built an entire business around helping cli
 
 
 	
+
+  
+
+
 	
+
+  
+
+
 	
 
   
@@ -250,7 +228,10 @@ Paddington, now happily settled with the Brown family and a popular member of th
 
 
 	
-	
+
+  
+
+
 	
 
   
@@ -285,12 +266,10 @@ Fueled by his restored faith in humanity and inspired by Superman&#39;s selfless
 	
 
 	
-
-	
 	
 
 ### Wonder
-*Released on 2017-11-16, vote average 1*
+*Released on 2017-11-16, vote average 2.5*
 
 Based on the New York Times bestseller, Wonder tells the inspiring and heartwarming story of August Pullman. Born with facial differences that, up until now, have prevented him from going to a mainstream school, Auggie becomes the most unlikely of heroes when he enters the local fifth grade. As his family, his new classmates, and the larger community all struggle to find their compassion and acceptance, Auggie&#39;s extraordinary journey will unite them all and prove you can&#39;t blend in when you were born to stand out.
 
@@ -303,16 +282,6 @@ Based on the New York Times bestseller, Wonder tells the inspiring and heartwarm
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
@@ -350,6 +319,18 @@ Former Gotham City District Attorney Harvey Dent, one side of his face scarred b
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
