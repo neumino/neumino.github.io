@@ -69,7 +69,7 @@ Hard-nosed liberal lawyer Roman J. Israel has been fighting the good fight forev
 	
 
 ### Daddy&#39;s Home 2
-*Released on 2017-11-09, vote average 5.8*
+*Released on 2017-11-09, vote average 5.4*
 
 Brad and Dusty must deal with their intrusive fathers during the holidays.
 
@@ -78,6 +78,28 @@ Brad and Dusty must deal with their intrusive fathers during the holidays.
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/huaGQdrkrK0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Murder on the Orient Express
+*Released on 2017-11-03, vote average 6.6*
+
+Genius Belgian detective Hercule Poirot investigates the murder of an American tycoon aboard the Orient Express train.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Mq4m3yAoW8E?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,28 +134,6 @@ A small but brave donkey and his animal friends become the unsung heroes of the 
 	
 	
 
-### Murder on the Orient Express
-*Released on 2017-11-03, vote average 6.7*
-
-Genius Belgian detective Hercule Poirot investigates the murder of an American tycoon aboard the Orient Express train.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Mq4m3yAoW8E?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Wonder
 *Released on 2017-11-16, vote average 2.3*
 
@@ -148,6 +148,21 @@ Based on the New York Times bestseller, Wonder tells the inspiring and heartwarm
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -176,6 +191,21 @@ Helen tries to cope with the recent death of her husband, a scientist who killed
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### A Bad Moms Christmas
@@ -188,33 +218,6 @@ In this comedy a few  titular under-appreciated and over-burdened friends cope w
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/fPLTUwxGjms?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Batman vs. Two-Face
-*Released on 2017-11-14, vote average 8*
-
-Former Gotham City District Attorney Harvey Dent, one side of his face scarred by acid, goes on a crime spree based on the number &#39;2&#39;. All of his actions are decided by the flip of a defaced, two-headed silver dollar.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/1lgWIi8a9UU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -247,22 +250,10 @@ After seven months have passed without a culprit in her daughter&#39;s murder ca
 
 
 	
-	
 
-### Amanda &amp; Jack Go Glamping
-*Released on 2017-11-10, vote average 7.5*
+  
 
-With his marriage and career against the ropes, dejected author Jack Spencer travels with his wife, Amanda, to an isolated glamping retreat in search of a spark. When a surprise double booking finds their private retreat anything but private, Jack spins into a comedic exploration of love, lost dreams, small-town-wisdom, and friendship with a miniature donkey to get over himself before he loses all he holds dear.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Kflr2jiOmyE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -300,76 +291,9 @@ In 2020, Elias van Dorne (John Cusack), CEO of VA Industries, the world&#39;s la
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Engaging Father Christmas
-*Released on 2017-11-12, vote average 5.5*
-
-It&#39;s Christmas and Miranda (Krakow) leaves Seattle with a suitcase full of presents to join her long- lost family in Carlton Heath, where she will experience the joyful traditions she missed as a child. Last Christmas, Miranda fell in love with Ian (Matter), a local man who helped her as she searched for her father, James Whitcomb, a famous theatre actor she believed had a connection to the town. At his widow Margaret’s (Malick) request, Miranda agrees to keep it a secret to protect the family from scandal. This Christmas, she fears the warm welcome she received from the Whitcomb family will soon turn cold when Miranda receives an anonymous text from someone who threatens to expose her identity.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/YANEH6_WAUg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 
 ## Opening soon
 
-
-	
-	
-
-### Wonder
-*Released on 2017-11-16, vote average 2.3*
-
-Based on the New York Times bestseller, Wonder tells the inspiring and heartwarming story of August Pullman. Born with facial differences that, up until now, have prevented him from going to a mainstream school, Auggie becomes the most unlikely of heroes when he enters the local fifth grade. As his family, his new classmates, and the larger community all struggle to find their compassion and acceptance, Auggie&#39;s extraordinary journey will unite them all and prove you can&#39;t blend in when you were born to stand out.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZDPEKXx_lAI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
 
 	
 
@@ -416,6 +340,12 @@ When Hong Kong police negotiator Lee Chung-chi (Louis Koo) was informed about th
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
 	
 
 	
