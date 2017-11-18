@@ -69,7 +69,7 @@ Hard-nosed liberal lawyer Roman J. Israel has been fighting the good fight forev
 	
 
 ### Daddy&#39;s Home 2
-*Released on 2017-11-09, vote average 5.4*
+*Released on 2017-11-09, vote average 5.5*
 
 Brad and Dusty must deal with their intrusive fathers during the holidays.
 
@@ -78,28 +78,6 @@ Brad and Dusty must deal with their intrusive fathers during the holidays.
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/huaGQdrkrK0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Murder on the Orient Express
-*Released on 2017-11-03, vote average 6.6*
-
-Genius Belgian detective Hercule Poirot investigates the murder of an American tycoon aboard the Orient Express train.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Mq4m3yAoW8E?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -132,6 +110,11 @@ A small but brave donkey and his animal friends become the unsung heroes of the 
 
 
 	
+
+  
+
+
+	
 	
 
 ### Wonder
@@ -148,6 +131,33 @@ Based on the New York Times bestseller, Wonder tells the inspiring and heartwarm
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Mudbound
+*Released on 2017-11-17, vote average 10*
+
+In the post–World War II South, two families are pitted against a barbaric social hierarchy and an unrelenting landscape as they simultaneously fight the battle at home and the battle abroad.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vAZWhFI9lLQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -191,33 +201,18 @@ Helen tries to cope with the recent death of her husband, a scientist who killed
 
 
 	
-
-  
-
-
 	
 
-  
+### Batman vs. Two-Face
+*Released on 2017-11-14, vote average 8*
 
-
-	
-
-  
-
-
-	
-	
-
-### A Bad Moms Christmas
-*Released on 2017-11-03, vote average 5.2*
-
-In this comedy a few  titular under-appreciated and over-burdened friends cope with the stresses of the most wonderful time of year as their own mothers visit for the holidays.
+Former Gotham City District Attorney Harvey Dent, one side of his face scarred by acid, goes on a crime spree based on the number &#39;2&#39;. All of his actions are decided by the flip of a defaced, two-headed silver dollar.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/fPLTUwxGjms?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/1lgWIi8a9UU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -228,10 +223,15 @@ In this comedy a few  titular under-appreciated and over-burdened friends cope w
 
 
 	
+
+  
+
+
+	
 	
 
 ### Three Billboards Outside Ebbing, Missouri
-*Released on 2017-11-10, vote average 6.3*
+*Released on 2017-11-10, vote average 7.2*
 
 After seven months have passed without a culprit in her daughter&#39;s murder case, Mildred Hayes makes a bold move, painting three signs leading into her town with a controversial message directed at Bill Willoughby, the town&#39;s revered chief of police. When his second-in-command Officer Jason Dixon, an immature mother&#39;s boy with a penchant for violence, gets involved, the battle between Mildred and Ebbing&#39;s law enforcement is only exacerbated.
 
@@ -264,23 +264,6 @@ After seven months have passed without a culprit in her daughter&#39;s murder ca
   
 
 
-	
-	
-
-### Singularity
-*Released on 2017-11-03, vote average 4.8*
-
-In 2020, Elias van Dorne (John Cusack), CEO of VA Industries, the world&#39;s largest robotics company, introduces his most powerful invention--Kronos, a super computer designed to end all wars. When Kronos goes online, it quickly determines that mankind, itself, is the biggest threat to world peace and launches a worldwide robot attack to rid the world of the &#34;infection&#34; of man. Ninety-seven years later, a small band of humans remain alive but on the run from the robot army. A teenage boy, Andrew (Julian Schaffner) and a teenage girl, Calia (Jeannine Wacker), form an unlikely alliance to reach a new world, where it is rumored mankind exists without fear of robot persecution. But does this world actually exist? And will they live long enough to find out?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/DRnFncoDmww?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -323,23 +306,6 @@ In 2020, Elias van Dorne (John Cusack), CEO of VA Industries, the world&#39;s la
 
 	
 
-	
-	
-
-### Paradox
-*Released on 2017-11-17, vote average 6*
-
-When Hong Kong police negotiator Lee Chung-chi (Louis Koo) was informed about the sudden disappearance of his 16-year-old daughter, Lee Wing-chi (Hanna Chan), during her trip to Pattaya, he decides to travel to Thailand to search for her daughter&#39;s whereabouts. There, He receives assistance from local Chinese detective, Chui Kit (Wu Yue), and his colleague, Tak (Tony Jaa), and also encounters the American gangster, Sacha (Chris Collins).
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/_Ay3r6dxua0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
