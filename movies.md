@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Justice League
-*Released on 2017-11-15, vote average 7.2*
+*Released on 2017-11-15, vote average 7.1*
 
 Fueled by his restored faith in humanity and inspired by Superman&#39;s selfless act, Bruce Wayne and Diana Prince assemble a team of metahumans consisting of Barry Allen, Arthur Curry, and Victor Stone to face the catastrophic threat of Steppenwolf and the Parademons who are on the hunt for three Mother Boxes on Earth.
 
@@ -46,16 +46,16 @@ Fueled by his restored faith in humanity and inspired by Superman&#39;s selfless
 	
 	
 
-### Roman J. Israel, Esq.
-*Released on 2017-11-10, vote average 10*
+### Daddy&#39;s Home 2
+*Released on 2017-11-09, vote average 5.5*
 
-Hard-nosed liberal lawyer Roman J. Israel has been fighting the good fight forever while others take the credit. When his partner, the firm’s frontman, has a heart attack, Israel suddenly takes on that role. He soon discovers some unsettling truths about the firm--truths that conflict with his values of helping the poor and dispossessed--and finds himself in an existential crisis that leads to extreme actions.
+Brad and Dusty must deal with their intrusive fathers during the holidays.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/CItEtnp3nPY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/huaGQdrkrK0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,16 +68,16 @@ Hard-nosed liberal lawyer Roman J. Israel has been fighting the good fight forev
 	
 	
 
-### Daddy&#39;s Home 2
-*Released on 2017-11-09, vote average 5.5*
+### Roman J. Israel, Esq.
+*Released on 2017-11-10, vote average 10*
 
-Brad and Dusty must deal with their intrusive fathers during the holidays.
+Hard-nosed liberal lawyer Roman J. Israel has been fighting the good fight forever while others take the credit. When his partner, the firm’s frontman, has a heart attack, Israel suddenly takes on that role. He soon discovers some unsettling truths about the firm--truths that conflict with his values of helping the poor and dispossessed--and finds himself in an existential crisis that leads to extreme actions.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/huaGQdrkrK0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/CItEtnp3nPY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -110,37 +110,10 @@ A small but brave donkey and his animal friends become the unsung heroes of the 
 
 
 	
-
-  
-
-
-	
-	
-
-### Wonder
-*Released on 2017-11-16, vote average 2.3*
-
-Based on the New York Times bestseller, Wonder tells the inspiring and heartwarming story of August Pullman. Born with facial differences that, up until now, have prevented him from going to a mainstream school, Auggie becomes the most unlikely of heroes when he enters the local fifth grade. As his family, his new classmates, and the larger community all struggle to find their compassion and acceptance, Auggie&#39;s extraordinary journey will unite them all and prove you can&#39;t blend in when you were born to stand out.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZDPEKXx_lAI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 	
 
 ### Mudbound
-*Released on 2017-11-17, vote average 10*
+*Released on 2017-11-17, vote average 9.5*
 
 In the post–World War II South, two families are pitted against a barbaric social hierarchy and an unrelenting landscape as they simultaneously fight the battle at home and the battle abroad.
 
@@ -159,6 +132,50 @@ In the post–World War II South, two families are pitted against a barbaric soc
 
 
 	
+	
+
+### Sweet Virginia
+*Released on 2017-11-17, vote average 7*
+
+A former rodeo champ befriends a young man with a propensity for violence.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/gPE17-BUnFQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Wonder
+*Released on 2017-11-16, vote average 5.8*
+
+Based on the New York Times bestseller, Wonder tells the inspiring and heartwarming story of August Pullman. Born with facial differences that, up until now, have prevented him from going to a mainstream school, Auggie becomes the most unlikely of heroes when he enters the local fifth grade. As his family, his new classmates, and the larger community all struggle to find their compassion and acceptance, Auggie&#39;s extraordinary journey will unite them all and prove you can&#39;t blend in when you were born to stand out.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZDPEKXx_lAI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 
   
 
@@ -173,6 +190,28 @@ In the post–World War II South, two families are pitted against a barbaric soc
   
 
 
+	
+
+  
+
+
+	
+	
+
+### Three Billboards Outside Ebbing, Missouri
+*Released on 2017-11-10, vote average 7.2*
+
+After seven months have passed without a culprit in her daughter&#39;s murder case, Mildred Hayes makes a bold move, painting three signs leading into her town with a controversial message directed at Bill Willoughby, the town&#39;s revered chief of police. When his second-in-command Officer Jason Dixon, an immature mother&#39;s boy with a penchant for violence, gets involved, the battle between Mildred and Ebbing&#39;s law enforcement is only exacerbated.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Jit3YhGx5pU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -191,6 +230,33 @@ Helen tries to cope with the recent death of her husband, a scientist who killed
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/cn79sO5-zcQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Almost Friends
+*Released on 2017-11-17, vote average 9*
+
+A man in his mid-20s and still living at home with his mother and stepfather who puts all his eggs in one basket: the girl who works at his local coffee shop. The problem is, she has a serious boyfriend. As the become closer, the line between friendship and intimacy is blurred, and the situation forces both to examine where they are in their lives.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/snDP66_WjrM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -228,18 +294,23 @@ Former Gotham City District Attorney Harvey Dent, one side of his face scarred b
 
 
 	
+
+  
+
+
+	
 	
 
-### Three Billboards Outside Ebbing, Missouri
-*Released on 2017-11-10, vote average 7.2*
+### A Christmas Prince
+*Released on 2017-11-17, vote average 7.3*
 
-After seven months have passed without a culprit in her daughter&#39;s murder case, Mildred Hayes makes a bold move, painting three signs leading into her town with a controversial message directed at Bill Willoughby, the town&#39;s revered chief of police. When his second-in-command Officer Jason Dixon, an immature mother&#39;s boy with a penchant for violence, gets involved, the battle between Mildred and Ebbing&#39;s law enforcement is only exacerbated.
+When a reporter goes undercover as a nanny to get the inside scoop on a playboy prince, she gets tangled in some royal intrigue and ends up finding love - but will she be able to keep up her lie?
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Jit3YhGx5pU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/3Xr665Fdjbw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -250,25 +321,22 @@ After seven months have passed without a culprit in her daughter&#39;s murder ca
 
 
 	
-
-  
-
-
 	
 
-  
+### Paradox
+*Released on 2017-11-17, vote average 6*
 
+When Hong Kong police negotiator Lee Chung-chi (Louis Koo) was informed about the sudden disappearance of his 16-year-old daughter, Lee Wing-chi (Hanna Chan), during her trip to Pattaya, he decides to travel to Thailand to search for her daughter&#39;s whereabouts. There, He receives assistance from local Chinese detective, Chui Kit (Wu Yue), and his colleague, Tak (Tony Jaa), and also encounters the American gangster, Sacha (Chris Collins).
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_Ay3r6dxua0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
