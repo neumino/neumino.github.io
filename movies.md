@@ -46,16 +46,16 @@ Fueled by his restored faith in humanity and inspired by Superman&#39;s selfless
 	
 	
 
-### Roman J. Israel, Esq.
-*Released on 2017-11-10, vote average 5.5*
+### Daddy&#39;s Home 2
+*Released on 2017-11-09, vote average 5.6*
 
-Hard-nosed liberal lawyer Roman J. Israel has been fighting the good fight forever while others take the credit. When his partner, the firm’s frontman, has a heart attack, Israel suddenly takes on that role. He soon discovers some unsettling truths about the firm--truths that conflict with his values of helping the poor and dispossessed--and finds himself in an existential crisis that leads to extreme actions.
+Brad and Dusty must deal with their intrusive fathers during the holidays.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/CItEtnp3nPY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/huaGQdrkrK0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,16 +68,16 @@ Hard-nosed liberal lawyer Roman J. Israel has been fighting the good fight forev
 	
 	
 
-### Daddy&#39;s Home 2
-*Released on 2017-11-09, vote average 5.6*
+### Roman J. Israel, Esq.
+*Released on 2017-11-10, vote average 5.5*
 
-Brad and Dusty must deal with their intrusive fathers during the holidays.
+Hard-nosed liberal lawyer Roman J. Israel has been fighting the good fight forever while others take the credit. When his partner, the firm’s frontman, has a heart attack, Israel suddenly takes on that role. He soon discovers some unsettling truths about the firm--truths that conflict with his values of helping the poor and dispossessed--and finds himself in an existential crisis that leads to extreme actions.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/huaGQdrkrK0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/CItEtnp3nPY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -113,7 +113,7 @@ A small but brave donkey and his animal friends become the unsung heroes of the 
 	
 
 ### Mudbound
-*Released on 2017-11-17, vote average 8.1*
+*Released on 2017-11-17, vote average 8.2*
 
 In the post–World War II South, two families are pitted against a barbaric social hierarchy and an unrelenting landscape as they simultaneously fight the battle at home and the battle abroad.
 
@@ -135,7 +135,7 @@ In the post–World War II South, two families are pitted against a barbaric soc
 	
 
 ### Sweet Virginia
-*Released on 2017-11-17, vote average 7*
+*Released on 2017-11-17, vote average 7.3*
 
 A former rodeo champ befriends a young man with a propensity for violence.
 
@@ -154,15 +154,10 @@ A former rodeo champ befriends a young man with a propensity for violence.
 
 
 	
-
-  
-
-
-	
 	
 
 ### Wonder
-*Released on 2017-11-16, vote average 5.8*
+*Released on 2017-11-16, vote average 6.6*
 
 Based on the New York Times bestseller, Wonder tells the inspiring and heartwarming story of August Pullman. Born with facial differences that, up until now, have prevented him from going to a mainstream school, Auggie becomes the most unlikely of heroes when he enters the local fifth grade. As his family, his new classmates, and the larger community all struggle to find their compassion and acceptance, Auggie&#39;s extraordinary journey will unite them all and prove you can&#39;t blend in when you were born to stand out.
 
@@ -181,37 +176,27 @@ Based on the New York Times bestseller, Wonder tells the inspiring and heartwarm
 
 
 	
-
-  
-
-
 	
 
-  
+### Cook-Off!
+*Released on 2017-11-17, vote average 5.5*
 
-
-	
-
-  
-
-
-	
-	
-
-### Almost Friends
-*Released on 2017-11-17, vote average 8.3*
-
-A man in his mid-20s and still living at home with his mother and stepfather who puts all his eggs in one basket: the girl who works at his local coffee shop. The problem is, she has a serious boyfriend. As the become closer, the line between friendship and intimacy is blurred, and the situation forces both to examine where they are in their lives.
+Amateur &#39;chefs&#39; from around the country compete for a million dollar prize in the ultimate food fight.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/snDP66_WjrM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/1QWLyi03twg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -245,6 +230,33 @@ After seven months have passed without a culprit in her daughter&#39;s murder ca
 
 
 	
+
+  
+
+
+	
+	
+
+### Almost Friends
+*Released on 2017-11-17, vote average 7.3*
+
+A man in his mid-20s and still living at home with his mother and stepfather who puts all his eggs in one basket: the girl who works at his local coffee shop. The problem is, she has a serious boyfriend. As the become closer, the line between friendship and intimacy is blurred, and the situation forces both to examine where they are in their lives.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/snDP66_WjrM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 
 ### Batman vs. Two-Face
@@ -261,6 +273,11 @@ Former Gotham City District Attorney Harvey Dent, one side of his face scarred b
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -289,15 +306,10 @@ Helen tries to cope with the recent death of her husband, a scientist who killed
 
 
 	
-
-  
-
-
-	
 	
 
 ### A Christmas Prince
-*Released on 2017-11-17, vote average 7.3*
+*Released on 2017-11-17, vote average 7.1*
 
 When a reporter goes undercover as a nanny to get the inside scoop on a playboy prince, she gets tangled in some royal intrigue and ends up finding love - but will she be able to keep up her lie?
 
@@ -320,6 +332,45 @@ When a reporter goes undercover as a nanny to get the inside scoop on a playboy 
   
 
 
+	
+	
+
+### Spreading Darkness
+*Released on 2017-11-21, vote average 10*
+
+Stu Undercoffler (Eric Roberts) is a corrupt CEO whose drive for power has led him to make some highly unethical choices. Once Stu&#39;s self-serving decisions have begun to spread darkness through the world, there&#39;s no stopping it. After losing his wife, Stu begins to have a crisis of conscience but starts to believe he is being stalked and has been hallucinating. Is he losing his mind or have his former victims come back to wreck havoc on him?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QrJgqucqPiU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Coming Home for Christmas
+*Released on 2017-11-18, vote average 6*
+
+Lizzie Richfield is at a crossroads when she lands a job as house manager for the exquisite Ashford Estate in the Virginia countryside. While preparing the place for sale, Lizzie plans one final Christmas Eve gala for the Marley family, though they seem to be a family in name only. There’s Kip Marley, who never met a party he didn’t like; Robert, the handsome but all-business executor of the estate; Sloane, who arrives with her two young children, sans husband, and the 90-year-old matriarch, Pippa, a spitfire who doesn&#39;t want to put the house up for sale at all. As Lizzie is inserted into the home and the lives of the Marley family, she finds herself drawn to Robert -- even as Kip pursues her. Can she navigate her suddenly complicated love life, while helping mend family feuds and maybe teaching all the true spirit of Christmas?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/H07Cu9SJsqQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
