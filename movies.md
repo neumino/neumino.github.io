@@ -91,7 +91,7 @@ Hard-nosed liberal lawyer Roman J. Israel has been fighting the good fight forev
 	
 
 ### The Star
-*Released on 2017-11-15, vote average 3.1*
+*Released on 2017-11-15, vote average 3.9*
 
 A small but brave donkey and his animal friends become the unsung heroes of the greatest story ever told, the first Christmas.
 
@@ -132,18 +132,28 @@ In the post–World War II South, two families are pitted against a barbaric soc
 
 
 	
+
+  
+
+
 	
 
-### Sweet Virginia
-*Released on 2017-11-17, vote average 7.3*
+  
 
-A former rodeo champ befriends a young man with a propensity for violence.
+
+	
+	
+
+### Olaf&#39;s Frozen Adventure
+*Released on 2017-11-22, vote average 8.7*
+
+A Christmas-themed special featuring characters from the Disney film, &#39;Frozen&#39;.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/gPE17-BUnFQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/pNpc4Eqqc-I?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -178,8 +188,30 @@ Based on the New York Times bestseller, Wonder tells the inspiring and heartwarm
 	
 	
 
+### Sweet Virginia
+*Released on 2017-11-17, vote average 7.3*
+
+A former rodeo champ befriends a young man with a propensity for violence.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/gPE17-BUnFQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Cook-Off!
-*Released on 2017-11-17, vote average 5.5*
+*Released on 2017-11-17, vote average 5*
 
 Amateur &#39;chefs&#39; from around the country compete for a million dollar prize in the ultimate food fight.
 
@@ -198,6 +230,23 @@ Amateur &#39;chefs&#39; from around the country compete for a million dollar pri
 
 
 	
+	
+
+### A Christmas Prince
+*Released on 2017-11-17, vote average 7.1*
+
+When a reporter goes undercover as a nanny to get the inside scoop on a playboy prince, she gets tangled in some royal intrigue and ends up finding love - but will she be able to keep up her lie?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3Xr665Fdjbw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -211,7 +260,7 @@ Amateur &#39;chefs&#39; from around the country compete for a million dollar pri
 	
 
 ### Three Billboards Outside Ebbing, Missouri
-*Released on 2017-11-10, vote average 7.2*
+*Released on 2017-11-10, vote average 8.1*
 
 After seven months have passed without a culprit in her daughter&#39;s murder case, Mildred Hayes makes a bold move, painting three signs leading into her town with a controversial message directed at Bill Willoughby, the town&#39;s revered chief of police. When his second-in-command Officer Jason Dixon, an immature mother&#39;s boy with a penchant for violence, gets involved, the battle between Mildred and Ebbing&#39;s law enforcement is only exacerbated.
 
@@ -259,6 +308,28 @@ A man in his mid-20s and still living at home with his mother and stepfather who
 	
 	
 
+### Spreading Darkness
+*Released on 2017-11-21, vote average 10*
+
+Stu Undercoffler (Eric Roberts) is a corrupt CEO whose drive for power has led him to make some highly unethical choices. Once Stu&#39;s self-serving decisions have begun to spread darkness through the world, there&#39;s no stopping it. After losing his wife, Stu begins to have a crisis of conscience but starts to believe he is being stalked and has been hallucinating. Is he losing his mind or have his former victims come back to wreck havoc on him?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QrJgqucqPiU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Batman vs. Two-Face
 *Released on 2017-11-14, vote average 8*
 
@@ -284,94 +355,6 @@ Former Gotham City District Attorney Harvey Dent, one side of his face scarred b
 
 
 	
-	
-
-### Curvature
-*Released on 2017-11-15, vote average 4*
-
-Helen tries to cope with the recent death of her husband, a scientist who killed himself right when he was on the verge of successfully completing the invention of a time machine. One day, she receives a phone call, and a voice suspiciously resembling her own voice warns her that she’s in danger. Is it possible Helen has time travelled? And what could have led her to do something like that?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cn79sO5-zcQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### A Christmas Prince
-*Released on 2017-11-17, vote average 7.1*
-
-When a reporter goes undercover as a nanny to get the inside scoop on a playboy prince, she gets tangled in some royal intrigue and ends up finding love - but will she be able to keep up her lie?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3Xr665Fdjbw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Spreading Darkness
-*Released on 2017-11-21, vote average 10*
-
-Stu Undercoffler (Eric Roberts) is a corrupt CEO whose drive for power has led him to make some highly unethical choices. Once Stu&#39;s self-serving decisions have begun to spread darkness through the world, there&#39;s no stopping it. After losing his wife, Stu begins to have a crisis of conscience but starts to believe he is being stalked and has been hallucinating. Is he losing his mind or have his former victims come back to wreck havoc on him?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/QrJgqucqPiU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Coming Home for Christmas
-*Released on 2017-11-18, vote average 6*
-
-Lizzie Richfield is at a crossroads when she lands a job as house manager for the exquisite Ashford Estate in the Virginia countryside. While preparing the place for sale, Lizzie plans one final Christmas Eve gala for the Marley family, though they seem to be a family in name only. There’s Kip Marley, who never met a party he didn’t like; Robert, the handsome but all-business executor of the estate; Sloane, who arrives with her two young children, sans husband, and the 90-year-old matriarch, Pippa, a spitfire who doesn&#39;t want to put the house up for sale at all. As Lizzie is inserted into the home and the lives of the Marley family, she finds herself drawn to Robert -- even as Kip pursues her. Can she navigate her suddenly complicated love life, while helping mend family feuds and maybe teaching all the true spirit of Christmas?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/H07Cu9SJsqQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -385,24 +368,24 @@ Lizzie Richfield is at a crossroads when she lands a job as house manager for th
 	
 
 	
-
-	
 	
 
-### Spreading Darkness
-*Released on 2017-11-21, vote average 10*
+### Olaf&#39;s Frozen Adventure
+*Released on 2017-11-22, vote average 8.7*
 
-Stu Undercoffler (Eric Roberts) is a corrupt CEO whose drive for power has led him to make some highly unethical choices. Once Stu&#39;s self-serving decisions have begun to spread darkness through the world, there&#39;s no stopping it. After losing his wife, Stu begins to have a crisis of conscience but starts to believe he is being stalked and has been hallucinating. Is he losing his mind or have his former victims come back to wreck havoc on him?
+A Christmas-themed special featuring characters from the Disney film, &#39;Frozen&#39;.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/QrJgqucqPiU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/pNpc4Eqqc-I?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
