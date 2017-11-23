@@ -47,7 +47,7 @@ Fueled by his restored faith in humanity and inspired by Superman&#39;s selfless
 	
 
 ### Daddy&#39;s Home 2
-*Released on 2017-11-09, vote average 5.6*
+*Released on 2017-11-09, vote average 5.7*
 
 Brad and Dusty must deal with their intrusive fathers during the holidays.
 
@@ -110,32 +110,27 @@ A small but brave donkey and his animal friends become the unsung heroes of the 
 
 
 	
+
+  
+
+
+	
 	
 
-### Mudbound
-*Released on 2017-11-17, vote average 8.2*
+### Darkest Hour
+*Released on 2017-11-22, vote average 5*
 
-In the post–World War II South, two families are pitted against a barbaric social hierarchy and an unrelenting landscape as they simultaneously fight the battle at home and the battle abroad.
+A thrilling and inspiring true story begins on the eve of World War II as, within days of becoming Prime Minister of Great Britain, Winston Churchill must face one of his most turbulent and defining trials: exploring a negotiated peace treaty with Nazi Germany, or standing firm to fight for the ideals, liberty and freedom of a nation. As the unstoppable Nazi forces roll across Western Europe and the threat of invasion is imminent, and with an unprepared public, a skeptical King, and his own party plotting against him, Churchill must withstand his darkest hour, rally a nation, and attempt to change the course of world history.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/vAZWhFI9lLQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/eFFj2gS9UWs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -166,8 +161,30 @@ A Christmas-themed special featuring characters from the Disney film, &#39;Froze
 	
 	
 
+### Mudbound
+*Released on 2017-11-17, vote average 8.2*
+
+In the post–World War II South, two families are pitted against a barbaric social hierarchy and an unrelenting landscape as they simultaneously fight the battle at home and the battle abroad.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vAZWhFI9lLQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Wonder
-*Released on 2017-11-16, vote average 6.6*
+*Released on 2017-11-16, vote average 6.7*
 
 Based on the New York Times bestseller, Wonder tells the inspiring and heartwarming story of August Pullman. Born with facial differences that, up until now, have prevented him from going to a mainstream school, Auggie becomes the most unlikely of heroes when he enters the local fifth grade. As his family, his new classmates, and the larger community all struggle to find their compassion and acceptance, Auggie&#39;s extraordinary journey will unite them all and prove you can&#39;t blend in when you were born to stand out.
 
@@ -210,28 +227,6 @@ A former rodeo champ befriends a young man with a propensity for violence.
 	
 	
 
-### Cook-Off!
-*Released on 2017-11-17, vote average 5*
-
-Amateur &#39;chefs&#39; from around the country compete for a million dollar prize in the ultimate food fight.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/1QWLyi03twg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### A Christmas Prince
 *Released on 2017-11-17, vote average 7.1*
 
@@ -242,60 +237,6 @@ When a reporter goes undercover as a nanny to get the inside scoop on a playboy 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/3Xr665Fdjbw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Three Billboards Outside Ebbing, Missouri
-*Released on 2017-11-10, vote average 8.1*
-
-After seven months have passed without a culprit in her daughter&#39;s murder case, Mildred Hayes makes a bold move, painting three signs leading into her town with a controversial message directed at Bill Willoughby, the town&#39;s revered chief of police. When his second-in-command Officer Jason Dixon, an immature mother&#39;s boy with a penchant for violence, gets involved, the battle between Mildred and Ebbing&#39;s law enforcement is only exacerbated.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Jit3YhGx5pU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Almost Friends
-*Released on 2017-11-17, vote average 7.3*
-
-A man in his mid-20s and still living at home with his mother and stepfather who puts all his eggs in one basket: the girl who works at his local coffee shop. The problem is, she has a serious boyfriend. As the become closer, the line between friendship and intimacy is blurred, and the situation forces both to examine where they are in their lives.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/snDP66_WjrM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -350,6 +291,82 @@ Former Gotham City District Attorney Harvey Dent, one side of his face scarred b
 
 
 	
+	
+
+### Cook-Off!
+*Released on 2017-11-17, vote average 5*
+
+Amateur &#39;chefs&#39; from around the country compete for a million dollar prize in the ultimate food fight.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/1QWLyi03twg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Almost Friends
+*Released on 2017-11-17, vote average 6.3*
+
+A man in his mid-20s and still living at home with his mother and stepfather who puts all his eggs in one basket: the girl who works at his local coffee shop. The problem is, she has a serious boyfriend. As the become closer, the line between friendship and intimacy is blurred, and the situation forces both to examine where they are in their lives.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/snDP66_WjrM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Three Billboards Outside Ebbing, Missouri
+*Released on 2017-11-10, vote average 8.1*
+
+After seven months have passed without a culprit in her daughter&#39;s murder case, Mildred Hayes makes a bold move, painting three signs leading into her town with a controversial message directed at Bill Willoughby, the town&#39;s revered chief of police. When his second-in-command Officer Jason Dixon, an immature mother&#39;s boy with a penchant for violence, gets involved, the battle between Mildred and Ebbing&#39;s law enforcement is only exacerbated.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Jit3YhGx5pU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 
   
 
@@ -367,23 +384,6 @@ Former Gotham City District Attorney Harvey Dent, one side of his face scarred b
 
 	
 
-	
-	
-
-### Olaf&#39;s Frozen Adventure
-*Released on 2017-11-22, vote average 8.7*
-
-A Christmas-themed special featuring characters from the Disney film, &#39;Frozen&#39;.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pNpc4Eqqc-I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
