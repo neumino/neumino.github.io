@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Justice League
-*Released on 2017-11-15, vote average 7.1*
+*Released on 2017-11-15, vote average 7*
 
 Fueled by his restored faith in humanity and inspired by Superman&#39;s selfless act, Bruce Wayne and Diana Prince assemble a team of metahumans consisting of Barry Allen, Arthur Curry, and Victor Stone to face the catastrophic threat of Steppenwolf and the Parademons who are on the hunt for three Mother Boxes on Earth.
 
@@ -40,28 +40,6 @@ Fueled by his restored faith in humanity and inspired by Superman&#39;s selfless
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-
-
-	
-	
-
-### Daddy&#39;s Home 2
-*Released on 2017-11-09, vote average 5.7*
-
-Brad and Dusty must deal with their intrusive fathers during the holidays.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/huaGQdrkrK0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
   
 
 
@@ -139,30 +117,8 @@ A thrilling and inspiring true story begins on the eve of World War II as, withi
 	
 	
 
-### Olaf&#39;s Frozen Adventure
-*Released on 2017-11-22, vote average 8.7*
-
-A Christmas-themed special featuring characters from the Disney film, &#39;Frozen&#39;.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pNpc4Eqqc-I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Mudbound
-*Released on 2017-11-17, vote average 8.2*
+*Released on 2017-11-17, vote average 8.3*
 
 In the post–World War II South, two families are pitted against a barbaric social hierarchy and an unrelenting landscape as they simultaneously fight the battle at home and the battle abroad.
 
@@ -205,16 +161,16 @@ Based on the New York Times bestseller, Wonder tells the inspiring and heartwarm
 	
 	
 
-### Sweet Virginia
-*Released on 2017-11-17, vote average 7.3*
+### Olaf&#39;s Frozen Adventure
+*Released on 2017-11-22, vote average 8.7*
 
-A former rodeo champ befriends a young man with a propensity for violence.
+A Christmas-themed special featuring characters from the Disney film, &#39;Frozen&#39;.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/gPE17-BUnFQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/pNpc4Eqqc-I?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -227,16 +183,16 @@ A former rodeo champ befriends a young man with a propensity for violence.
 	
 	
 
-### A Christmas Prince
-*Released on 2017-11-17, vote average 7.1*
+### Sweet Virginia
+*Released on 2017-11-17, vote average 7.3*
 
-When a reporter goes undercover as a nanny to get the inside scoop on a playboy prince, she gets tangled in some royal intrigue and ends up finding love - but will she be able to keep up her lie?
+A former rodeo champ befriends a young man with a propensity for violence.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/3Xr665Fdjbw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/gPE17-BUnFQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -271,16 +227,67 @@ Stu Undercoffler (Eric Roberts) is a corrupt CEO whose drive for power has led h
 	
 	
 
-### Batman vs. Two-Face
-*Released on 2017-11-14, vote average 8*
+### A Christmas Prince
+*Released on 2017-11-17, vote average 6.6*
 
-Former Gotham City District Attorney Harvey Dent, one side of his face scarred by acid, goes on a crime spree based on the number &#39;2&#39;. All of his actions are decided by the flip of a defaced, two-headed silver dollar.
+When a reporter goes undercover as a nanny to get the inside scoop on a playboy prince, she gets tangled in some royal intrigue and ends up finding love - but will she be able to keep up her lie?
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/1lgWIi8a9UU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/3Xr665Fdjbw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Last Flag Flying
+*Released on 2017-11-17, vote average 3.5*
+
+Thirty years after serving together in the Vietnam War, Larry &#34;Doc&#34; Shepherd, Sal Nealon and the Rev. Richard Mueller reunite for a different type of mission: to bury Doc&#39;s son, a young Marine killed in Iraq. Forgoing burial at Arlington National Cemetery, Doc and his old buddies take the casket on a bittersweet trip up the coast to New Hampshire. Along the way, the three men find themselves reminiscing and coming to terms with the shared memories of a war that continues to shape their lives.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/VmS4lTZ34uk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Three Billboards Outside Ebbing, Missouri
+*Released on 2017-11-10, vote average 8.1*
+
+After seven months have passed without a culprit in her daughter&#39;s murder case, Mildred Hayes makes a bold move, painting three signs leading into her town with a controversial message directed at Bill Willoughby, the town&#39;s revered chief of police. When his second-in-command Officer Jason Dixon, an immature mother&#39;s boy with a penchant for violence, gets involved, the battle between Mildred and Ebbing&#39;s law enforcement is only exacerbated.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Jit3YhGx5pU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -313,11 +320,6 @@ Amateur &#39;chefs&#39; from around the country compete for a million dollar pri
 
 
 	
-
-  
-
-
-	
 	
 
 ### Almost Friends
@@ -340,27 +342,27 @@ A man in his mid-20s and still living at home with his mother and stepfather who
 
 
 	
+
+  
+
+
+	
 	
 
-### Three Billboards Outside Ebbing, Missouri
-*Released on 2017-11-10, vote average 8.1*
+### Batman vs. Two-Face
+*Released on 2017-11-14, vote average 8*
 
-After seven months have passed without a culprit in her daughter&#39;s murder case, Mildred Hayes makes a bold move, painting three signs leading into her town with a controversial message directed at Bill Willoughby, the town&#39;s revered chief of police. When his second-in-command Officer Jason Dixon, an immature mother&#39;s boy with a penchant for violence, gets involved, the battle between Mildred and Ebbing&#39;s law enforcement is only exacerbated.
+Former Gotham City District Attorney Harvey Dent, one side of his face scarred by acid, goes on a crime spree based on the number &#39;2&#39;. All of his actions are decided by the flip of a defaced, two-headed silver dollar.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Jit3YhGx5pU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/1lgWIi8a9UU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
