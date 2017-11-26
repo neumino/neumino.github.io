@@ -47,7 +47,7 @@ Fueled by his restored faith in humanity and inspired by Superman&#39;s selfless
 	
 
 ### The Star
-*Released on 2017-11-15, vote average 4.7*
+*Released on 2017-11-15, vote average 4.4*
 
 A small but brave donkey and his animal friends become the unsung heroes of the greatest story ever told, the first Christmas.
 
@@ -65,6 +65,23 @@ A small but brave donkey and his animal friends become the unsung heroes of the 
   
 
 
+	
+	
+
+### The Man Who Invented Christmas
+*Released on 2017-11-22, vote average 5.8*
+
+After a series his books have been flops, Charles Dickens decides to write and self-publish A Christmas Carol.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nx3ctBjG6yI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -117,8 +134,30 @@ In the post–World War II South, two families are pitted against a barbaric soc
 	
 	
 
+### Wonder
+*Released on 2017-11-16, vote average 6.8*
+
+Based on the New York Times bestseller, Wonder tells the inspiring and heartwarming story of August Pullman. Born with facial differences that, up until now, have prevented him from going to a mainstream school, Auggie becomes the most unlikely of heroes when he enters the local fifth grade. As his family, his new classmates, and the larger community all struggle to find their compassion and acceptance, Auggie&#39;s extraordinary journey will unite them all and prove you can&#39;t blend in when you were born to stand out.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZDPEKXx_lAI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Olaf&#39;s Frozen Adventure
-*Released on 2017-11-22, vote average 8.7*
+*Released on 2017-11-22, vote average 7.1*
 
 A Christmas-themed special featuring characters from the Disney film, &#39;Frozen&#39;.
 
@@ -139,33 +178,6 @@ A Christmas-themed special featuring characters from the Disney film, &#39;Froze
 	
 	
 
-### Wonder
-*Released on 2017-11-16, vote average 6.7*
-
-Based on the New York Times bestseller, Wonder tells the inspiring and heartwarming story of August Pullman. Born with facial differences that, up until now, have prevented him from going to a mainstream school, Auggie becomes the most unlikely of heroes when he enters the local fifth grade. As his family, his new classmates, and the larger community all struggle to find their compassion and acceptance, Auggie&#39;s extraordinary journey will unite them all and prove you can&#39;t blend in when you were born to stand out.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZDPEKXx_lAI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### Sweet Virginia
 *Released on 2017-11-17, vote average 7.4*
 
@@ -176,35 +188,6 @@ A former rodeo champ befriends a young man with a propensity for violence.
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/gPE17-BUnFQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Spreading Darkness
-*Released on 2017-11-21, vote average 10*
-
-Stu Undercoffler (Eric Roberts) is a corrupt CEO whose drive for power has led him to make some highly unethical choices. Once Stu&#39;s self-serving decisions have begun to spread darkness through the world, there&#39;s no stopping it. After losing his wife, Stu begins to have a crisis of conscience but starts to believe he is being stalked and has been hallucinating. Is he losing his mind or have his former victims come back to wreck havoc on him?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/QrJgqucqPiU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -239,8 +222,30 @@ Thirty years after serving together in the Vietnam War, Larry &#34;Doc&#34; Shep
 	
 	
 
+### Spreading Darkness
+*Released on 2017-11-21, vote average 10*
+
+Stu Undercoffler (Eric Roberts) is a corrupt CEO whose drive for power has led him to make some highly unethical choices. Once Stu&#39;s self-serving decisions have begun to spread darkness through the world, there&#39;s no stopping it. After losing his wife, Stu begins to have a crisis of conscience but starts to believe he is being stalked and has been hallucinating. Is he losing his mind or have his former victims come back to wreck havoc on him?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QrJgqucqPiU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### A Christmas Prince
-*Released on 2017-11-17, vote average 6.7*
+*Released on 2017-11-17, vote average 6.6*
 
 When a reporter goes undercover as a nanny to get the inside scoop on a playboy prince, she gets tangled in some royal intrigue and ends up finding love - but will she be able to keep up her lie?
 
@@ -253,6 +258,18 @@ When a reporter goes undercover as a nanny to get the inside scoop on a playboy 
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -288,16 +305,16 @@ A man in his mid-20s and still living at home with his mother and stepfather who
 	
 	
 
-### Cook-Off!
-*Released on 2017-11-17, vote average 5*
+### Batman vs. Two-Face
+*Released on 2017-11-14, vote average 8*
 
-Amateur &#39;chefs&#39; from around the country compete for a million dollar prize in the ultimate food fight.
+Former Gotham City District Attorney Harvey Dent, one side of his face scarred by acid, goes on a crime spree based on the number &#39;2&#39;. All of his actions are decided by the flip of a defaced, two-headed silver dollar.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/1QWLyi03twg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/1lgWIi8a9UU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -312,6 +329,23 @@ Amateur &#39;chefs&#39; from around the country compete for a million dollar pri
   
 
 
+	
+	
+
+### Cook-Off!
+*Released on 2017-11-17, vote average 5*
+
+Amateur &#39;chefs&#39; from around the country compete for a million dollar prize in the ultimate food fight.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/1QWLyi03twg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
