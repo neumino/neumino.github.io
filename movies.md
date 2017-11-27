@@ -91,7 +91,7 @@ After a series his books have been flops, Charles Dickens decides to write and s
 	
 
 ### Darkest Hour
-*Released on 2017-11-22, vote average 5*
+*Released on 2017-11-22, vote average 2.1*
 
 A thrilling and inspiring true story begins on the eve of World War II as, within days of becoming Prime Minister of Great Britain, Winston Churchill must face one of his most turbulent and defining trials: exploring a negotiated peace treaty with Nazi Germany, or standing firm to fight for the ideals, liberty and freedom of a nation. As the unstoppable Nazi forces roll across Western Europe and the threat of invasion is imminent, and with an unprepared public, a skeptical King, and his own party plotting against him, Churchill must withstand his darkest hour, rally a nation, and attempt to change the course of world history.
 
@@ -113,7 +113,7 @@ A thrilling and inspiring true story begins on the eve of World War II as, withi
 	
 
 ### Mudbound
-*Released on 2017-11-17, vote average 8.3*
+*Released on 2017-11-17, vote average 8*
 
 In the post–World War II South, two families are pitted against a barbaric social hierarchy and an unrelenting landscape as they simultaneously fight the battle at home and the battle abroad.
 
@@ -135,7 +135,7 @@ In the post–World War II South, two families are pitted against a barbaric soc
 	
 
 ### Wonder
-*Released on 2017-11-16, vote average 6.8*
+*Released on 2017-11-16, vote average 6.6*
 
 Based on the New York Times bestseller, Wonder tells the inspiring and heartwarming story of August Pullman. Born with facial differences that, up until now, have prevented him from going to a mainstream school, Auggie becomes the most unlikely of heroes when he enters the local fifth grade. As his family, his new classmates, and the larger community all struggle to find their compassion and acceptance, Auggie&#39;s extraordinary journey will unite them all and prove you can&#39;t blend in when you were born to stand out.
 
@@ -154,6 +154,11 @@ Based on the New York Times bestseller, Wonder tells the inspiring and heartwarm
 
 
 	
+
+  
+
+
+	
 	
 
 ### Olaf&#39;s Frozen Adventure
@@ -166,6 +171,35 @@ A Christmas-themed special featuring characters from the Disney film, &#39;Froze
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/pNpc4Eqqc-I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### A Christmas Prince
+*Released on 2017-11-17, vote average 6.6*
+
+When a reporter goes undercover as a nanny to get the inside scoop on a playboy prince, she gets tangled in some royal intrigue and ends up finding love - but will she be able to keep up her lie?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3Xr665Fdjbw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -200,28 +234,6 @@ A former rodeo champ befriends a young man with a propensity for violence.
 	
 	
 
-### Last Flag Flying
-*Released on 2017-11-17, vote average 3.5*
-
-Thirty years after serving together in the Vietnam War, Larry &#34;Doc&#34; Shepherd, Sal Nealon and the Rev. Richard Mueller reunite for a different type of mission: to bury Doc&#39;s son, a young Marine killed in Iraq. Forgoing burial at Arlington National Cemetery, Doc and his old buddies take the casket on a bittersweet trip up the coast to New Hampshire. Along the way, the three men find themselves reminiscing and coming to terms with the shared memories of a war that continues to shape their lives.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/VmS4lTZ34uk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Spreading Darkness
 *Released on 2017-11-21, vote average 10*
 
@@ -242,39 +254,27 @@ Stu Undercoffler (Eric Roberts) is a corrupt CEO whose drive for power has led h
 
 
 	
+
+  
+
+
+	
 	
 
-### A Christmas Prince
-*Released on 2017-11-17, vote average 6.6*
+### Last Flag Flying
+*Released on 2017-11-17, vote average 3.5*
 
-When a reporter goes undercover as a nanny to get the inside scoop on a playboy prince, she gets tangled in some royal intrigue and ends up finding love - but will she be able to keep up her lie?
+Thirty years after serving together in the Vietnam War, Larry &#34;Doc&#34; Shepherd, Sal Nealon and the Rev. Richard Mueller reunite for a different type of mission: to bury Doc&#39;s son, a young Marine killed in Iraq. Forgoing burial at Arlington National Cemetery, Doc and his old buddies take the casket on a bittersweet trip up the coast to New Hampshire. Along the way, the three men find themselves reminiscing and coming to terms with the shared memories of a war that continues to shape their lives.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/3Xr665Fdjbw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/VmS4lTZ34uk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -303,6 +303,11 @@ A man in his mid-20s and still living at home with his mother and stepfather who
 
 
 	
+
+  
+
+
+	
 	
 
 ### Batman vs. Two-Face
@@ -319,11 +324,6 @@ Former Gotham City District Attorney Harvey Dent, one side of his face scarred b
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
