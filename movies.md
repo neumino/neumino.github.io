@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Justice League
-*Released on 2017-11-15, vote average 7*
+*Released on 2017-11-15, vote average 6.9*
 
 Fueled by his restored faith in humanity and inspired by Superman&#39;s selfless act, Bruce Wayne and Diana Prince assemble a team of metahumans consisting of Barry Allen, Arthur Curry, and Victor Stone to face the catastrophic threat of Steppenwolf and the Parademons who are on the hunt for three Mother Boxes on Earth.
 
@@ -113,7 +113,7 @@ A thrilling and inspiring true story begins on the eve of World War II as, withi
 	
 
 ### Mudbound
-*Released on 2017-11-17, vote average 8*
+*Released on 2017-11-17, vote average 7.9*
 
 In the post–World War II South, two families are pitted against a barbaric social hierarchy and an unrelenting landscape as they simultaneously fight the battle at home and the battle abroad.
 
@@ -154,15 +154,10 @@ Based on the New York Times bestseller, Wonder tells the inspiring and heartwarm
 
 
 	
-
-  
-
-
-	
 	
 
 ### Olaf&#39;s Frozen Adventure
-*Released on 2017-11-22, vote average 7.1*
+*Released on 2017-11-22, vote average 6.9*
 
 A Christmas-themed special featuring characters from the Disney film, &#39;Frozen&#39;.
 
@@ -180,30 +175,6 @@ A Christmas-themed special featuring characters from the Disney film, &#39;Froze
   
 
 
-	
-	
-	
-
-  
-
-
-	
-	
-
-### A Christmas Prince
-*Released on 2017-11-17, vote average 6.6*
-
-When a reporter goes undercover as a nanny to get the inside scoop on a playboy prince, she gets tangled in some royal intrigue and ends up finding love - but will she be able to keep up her lie?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3Xr665Fdjbw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -234,16 +205,16 @@ A former rodeo champ befriends a young man with a propensity for violence.
 	
 	
 
-### Spreading Darkness
-*Released on 2017-11-21, vote average 10*
+### A Christmas Prince
+*Released on 2017-11-17, vote average 6.8*
 
-Stu Undercoffler (Eric Roberts) is a corrupt CEO whose drive for power has led him to make some highly unethical choices. Once Stu&#39;s self-serving decisions have begun to spread darkness through the world, there&#39;s no stopping it. After losing his wife, Stu begins to have a crisis of conscience but starts to believe he is being stalked and has been hallucinating. Is he losing his mind or have his former victims come back to wreck havoc on him?
+When a reporter goes undercover as a nanny to get the inside scoop on a playboy prince, she gets tangled in some royal intrigue and ends up finding love - but will she be able to keep up her lie?
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/QrJgqucqPiU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/tG4Fbj1B1bY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -253,6 +224,8 @@ Stu Undercoffler (Eric Roberts) is a corrupt CEO whose drive for power has led h
   
 
 
+	
+	
 	
 
   
@@ -271,28 +244,6 @@ Thirty years after serving together in the Vietnam War, Larry &#34;Doc&#34; Shep
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/VmS4lTZ34uk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Almost Friends
-*Released on 2017-11-17, vote average 6.3*
-
-A man in his mid-20s and still living at home with his mother and stepfather who puts all his eggs in one basket: the girl who works at his local coffee shop. The problem is, she has a serious boyfriend. As the become closer, the line between friendship and intimacy is blurred, and the situation forces both to examine where they are in their lives.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/snDP66_WjrM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -332,6 +283,77 @@ Former Gotham City District Attorney Harvey Dent, one side of his face scarred b
 	
 	
 
+### Almost Friends
+*Released on 2017-11-17, vote average 6.3*
+
+A man in his mid-20s and still living at home with his mother and stepfather who puts all his eggs in one basket: the girl who works at his local coffee shop. The problem is, she has a serious boyfriend. As the become closer, the line between friendship and intimacy is blurred, and the situation forces both to examine where they are in their lives.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/snDP66_WjrM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Spreading Darkness
+*Released on 2017-11-21, vote average 10*
+
+Stu Undercoffler (Eric Roberts) is a corrupt CEO whose drive for power has led him to make some highly unethical choices. Once Stu&#39;s self-serving decisions have begun to spread darkness through the world, there&#39;s no stopping it. After losing his wife, Stu begins to have a crisis of conscience but starts to believe he is being stalked and has been hallucinating. Is he losing his mind or have his former victims come back to wreck havoc on him?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QrJgqucqPiU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Mariah Carey&#39;s All I Want for Christmas Is You
+*Released on 2017-11-14, vote average 10*
+
+When young Mariah sees a darling little puppy named &#34;Princess&#34; at the pet store, she suddenly knows exactly what she wants for Christmas. But before her Christmas wish can come true, she must prove that she can dog-sit her uncle&#39;s dog, Jack, a scraggly rascal; in fact, the worst dog in the county!
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZQ95VtBPLLI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Cook-Off!
 *Released on 2017-11-17, vote average 5*
 
@@ -346,11 +368,6 @@ Amateur &#39;chefs&#39; from around the country compete for a million dollar pri
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
