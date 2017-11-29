@@ -91,7 +91,7 @@ After a series his books have been flops, Charles Dickens decides to write and s
 	
 
 ### Darkest Hour
-*Released on 2017-11-22, vote average 2.1*
+*Released on 2017-11-22, vote average 3.3*
 
 A thrilling and inspiring true story begins on the eve of World War II as, within days of becoming Prime Minister of Great Britain, Winston Churchill must face one of his most turbulent and defining trials: exploring a negotiated peace treaty with Nazi Germany, or standing firm to fight for the ideals, liberty and freedom of a nation. As the unstoppable Nazi forces roll across Western Europe and the threat of invasion is imminent, and with an unprepared public, a skeptical King, and his own party plotting against him, Churchill must withstand his darkest hour, rally a nation, and attempt to change the course of world history.
 
@@ -100,28 +100,6 @@ A thrilling and inspiring true story begins on the eve of World War II as, withi
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/eFFj2gS9UWs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Mudbound
-*Released on 2017-11-17, vote average 7.9*
-
-In the post–World War II South, two families are pitted against a barbaric social hierarchy and an unrelenting landscape as they simultaneously fight the battle at home and the battle abroad.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vAZWhFI9lLQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -156,8 +134,30 @@ Based on the New York Times bestseller, Wonder tells the inspiring and heartwarm
 	
 	
 
+### Mudbound
+*Released on 2017-11-17, vote average 7.9*
+
+In the post–World War II South, two families are pitted against a barbaric social hierarchy and an unrelenting landscape as they simultaneously fight the battle at home and the battle abroad.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vAZWhFI9lLQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Olaf&#39;s Frozen Adventure
-*Released on 2017-11-22, vote average 6.9*
+*Released on 2017-11-22, vote average 6.8*
 
 A Christmas-themed special featuring characters from the Disney film, &#39;Frozen&#39;.
 
@@ -166,6 +166,28 @@ A Christmas-themed special featuring characters from the Disney film, &#39;Froze
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/pNpc4Eqqc-I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### A Christmas Prince
+*Released on 2017-11-17, vote average 6.8*
+
+When a reporter goes undercover as a nanny to get the inside scoop on a playboy prince, she gets tangled in some royal intrigue and ends up finding love - but will she be able to keep up her lie?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/tG4Fbj1B1bY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -205,35 +227,6 @@ A former rodeo champ befriends a young man with a propensity for violence.
 	
 	
 
-### A Christmas Prince
-*Released on 2017-11-17, vote average 6.8*
-
-When a reporter goes undercover as a nanny to get the inside scoop on a playboy prince, she gets tangled in some royal intrigue and ends up finding love - but will she be able to keep up her lie?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tG4Fbj1B1bY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
 ### Last Flag Flying
 *Released on 2017-11-17, vote average 3.5*
 
@@ -244,55 +237,6 @@ Thirty years after serving together in the Vietnam War, Larry &#34;Doc&#34; Shep
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/VmS4lTZ34uk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Batman vs. Two-Face
-*Released on 2017-11-14, vote average 8*
-
-Former Gotham City District Attorney Harvey Dent, one side of his face scarred by acid, goes on a crime spree based on the number &#39;2&#39;. All of his actions are decided by the flip of a defaced, two-headed silver dollar.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/1lgWIi8a9UU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Almost Friends
-*Released on 2017-11-17, vote average 6.3*
-
-A man in his mid-20s and still living at home with his mother and stepfather who puts all his eggs in one basket: the girl who works at his local coffee shop. The problem is, she has a serious boyfriend. As the become closer, the line between friendship and intimacy is blurred, and the situation forces both to examine where they are in their lives.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/snDP66_WjrM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -332,28 +276,6 @@ Stu Undercoffler (Eric Roberts) is a corrupt CEO whose drive for power has led h
 	
 	
 
-### Mariah Carey&#39;s All I Want for Christmas Is You
-*Released on 2017-11-14, vote average 10*
-
-When young Mariah sees a darling little puppy named &#34;Princess&#34; at the pet store, she suddenly knows exactly what she wants for Christmas. But before her Christmas wish can come true, she must prove that she can dog-sit her uncle&#39;s dog, Jack, a scraggly rascal; in fact, the worst dog in the county!
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZQ95VtBPLLI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Cook-Off!
 *Released on 2017-11-17, vote average 5*
 
@@ -374,6 +296,50 @@ Amateur &#39;chefs&#39; from around the country compete for a million dollar pri
 
 
 	
+	
+
+### Almost Friends
+*Released on 2017-11-17, vote average 6.3*
+
+A man in his mid-20s and still living at home with his mother and stepfather who puts all his eggs in one basket: the girl who works at his local coffee shop. The problem is, she has a serious boyfriend. As the become closer, the line between friendship and intimacy is blurred, and the situation forces both to examine where they are in their lives.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/snDP66_WjrM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
 
   
 
@@ -382,6 +348,23 @@ Amateur &#39;chefs&#39; from around the country compete for a million dollar pri
 ## Opening soon
 
 
+	
+	
+
+### The Disaster Artist
+*Released on 2017-12-01, vote average 7.5*
+
+An aspiring actor in Hollywood meets an enigmatic stranger by the name of Tommy Wiseau, the meeting leads the actor down a path nobody could have predicted; creating the worst movie ever made.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/4qab3TMg42k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
