@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Justice League
-*Released on 2017-11-15, vote average 6.9*
+### The Man Who Invented Christmas
+*Released on 2017-11-22, vote average 5.8*
 
-Fueled by his restored faith in humanity and inspired by Superman&#39;s selfless act, Bruce Wayne and Diana Prince assemble a team of metahumans consisting of Barry Allen, Arthur Curry, and Victor Stone to face the catastrophic threat of Steppenwolf and the Parademons who are on the hunt for three Mother Boxes on Earth.
+After a series his books have been flops, Charles Dickens decides to write and self-publish A Christmas Carol.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/g_6yBZKj-eo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/nx3ctBjG6yI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -40,50 +40,6 @@ Fueled by his restored faith in humanity and inspired by Superman&#39;s selfless
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-
-
-	
-	
-
-### The Star
-*Released on 2017-11-15, vote average 4.4*
-
-A small but brave donkey and his animal friends become the unsung heroes of the greatest story ever told, the first Christmas.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tVgQuZf5o1M?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Man Who Invented Christmas
-*Released on 2017-11-22, vote average 5.8*
-
-After a series his books have been flops, Charles Dickens decides to write and self-publish A Christmas Carol.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nx3ctBjG6yI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
   
 
 
@@ -113,7 +69,7 @@ A thrilling and inspiring true story begins on the eve of World War II as, withi
 	
 
 ### Wonder
-*Released on 2017-11-16, vote average 6.6*
+*Released on 2017-11-16, vote average 6.7*
 
 Based on the New York Times bestseller, Wonder tells the inspiring and heartwarming story of August Pullman. Born with facial differences that, up until now, have prevented him from going to a mainstream school, Auggie becomes the most unlikely of heroes when he enters the local fifth grade. As his family, his new classmates, and the larger community all struggle to find their compassion and acceptance, Auggie&#39;s extraordinary journey will unite them all and prove you can&#39;t blend in when you were born to stand out.
 
@@ -198,11 +154,6 @@ When a reporter goes undercover as a nanny to get the inside scoop on a playboy 
 
 
 	
-
-  
-
-
-	
 	
 
 ### Sweet Virginia
@@ -276,28 +227,6 @@ Stu Undercoffler (Eric Roberts) is a corrupt CEO whose drive for power has led h
 	
 	
 
-### Cook-Off!
-*Released on 2017-11-17, vote average 5*
-
-Amateur &#39;chefs&#39; from around the country compete for a million dollar prize in the ultimate food fight.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/1QWLyi03twg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Almost Friends
 *Released on 2017-11-17, vote average 6.3*
 
@@ -328,17 +257,71 @@ A man in his mid-20s and still living at home with his mother and stepfather who
 
 
 	
+	
+
+### Cook-Off!
+*Released on 2017-11-17, vote average 5*
+
+Amateur &#39;chefs&#39; from around the country compete for a million dollar prize in the ultimate food fight.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/1QWLyi03twg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 
   
 
 
 	
 	
+
+### Hey Arnold! The Jungle Movie
+*Released on 2017-11-23, vote average 8*
+
+An upcoming two-hour American animated television film split into two parts. Based on Craig Bartlett&#39;s Hey Arnold! TV series, it will serve as a sequel to the series finale in which Arnold found his father&#39;s journal and read about the life of his scientist parents, including their first meeting, birthing him, and a map showing the route they took to the San Lorenzo before they disappeared.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QMiE3yekxz8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 	
 
   
