@@ -68,20 +68,45 @@ A thrilling and inspiring true story begins on the eve of World War II as, withi
 	
 	
 
-### Wonder
-*Released on 2017-11-16, vote average 6.7*
+### The Disaster Artist
+*Released on 2017-12-01, vote average 7.5*
 
-Based on the New York Times bestseller, Wonder tells the inspiring and heartwarming story of August Pullman. Born with facial differences that, up until now, have prevented him from going to a mainstream school, Auggie becomes the most unlikely of heroes when he enters the local fifth grade. As his family, his new classmates, and the larger community all struggle to find their compassion and acceptance, Auggie&#39;s extraordinary journey will unite them all and prove you can&#39;t blend in when you were born to stand out.
+An aspiring actor in Hollywood meets an enigmatic stranger by the name of Tommy Wiseau, the meeting leads the actor down a path nobody could have predicted; creating the worst movie ever made.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ZDPEKXx_lAI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/4qab3TMg42k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -100,28 +125,6 @@ In the post–World War II South, two families are pitted against a barbaric soc
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/vAZWhFI9lLQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Olaf&#39;s Frozen Adventure
-*Released on 2017-11-22, vote average 6.8*
-
-A Christmas-themed special featuring characters from the Disney film, &#39;Frozen&#39;.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pNpc4Eqqc-I?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -156,6 +159,28 @@ When a reporter goes undercover as a nanny to get the inside scoop on a playboy 
 	
 	
 
+### Olaf&#39;s Frozen Adventure
+*Released on 2017-11-22, vote average 6.8*
+
+A Christmas-themed special featuring characters from the Disney film, &#39;Frozen&#39;.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pNpc4Eqqc-I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Sweet Virginia
 *Released on 2017-11-17, vote average 7.4*
 
@@ -170,6 +195,26 @@ A former rodeo champ befriends a young man with a propensity for violence.
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -227,38 +272,6 @@ Stu Undercoffler (Eric Roberts) is a corrupt CEO whose drive for power has led h
 	
 	
 
-### Almost Friends
-*Released on 2017-11-17, vote average 6.3*
-
-A man in his mid-20s and still living at home with his mother and stepfather who puts all his eggs in one basket: the girl who works at his local coffee shop. The problem is, she has a serious boyfriend. As the become closer, the line between friendship and intimacy is blurred, and the situation forces both to examine where they are in their lives.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/snDP66_WjrM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### Cook-Off!
 *Released on 2017-11-17, vote average 5*
 
@@ -272,55 +285,6 @@ Amateur &#39;chefs&#39; from around the country compete for a million dollar pri
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Hey Arnold! The Jungle Movie
-*Released on 2017-11-23, vote average 8*
-
-An upcoming two-hour American animated television film split into two parts. Based on Craig Bartlett&#39;s Hey Arnold! TV series, it will serve as a sequel to the series finale in which Arnold found his father&#39;s journal and read about the life of his scientist parents, including their first meeting, birthing him, and a map showing the route they took to the San Lorenzo before they disappeared.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/QMiE3yekxz8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 	
 
