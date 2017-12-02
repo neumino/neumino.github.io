@@ -88,43 +88,55 @@ An aspiring actor in Hollywood meets an enigmatic stranger by the name of Tommy 
 
 
 	
-
-  
-
-
 	
 
-  
+### Wonder Wheel
+*Released on 2017-12-01, vote average 1*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Mudbound
-*Released on 2017-11-17, vote average 7.9*
-
-In the post–World War II South, two families are pitted against a barbaric social hierarchy and an unrelenting landscape as they simultaneously fight the battle at home and the battle abroad.
+The story of four characters whose lives intertwine amid the hustle and bustle of the Coney Island amusement park in the 1950s: Ginny, an emotionally volatile former actress now working as a waitress in a clam house; Humpty, Ginny’s rough-hewn carousel operator husband; Mickey, a handsome young lifeguard who dreams of becoming a playwright; and Carolina, Humpty’s long-estranged daughter, who is now hiding out from gangsters at her father’s apartment.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/vAZWhFI9lLQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/VFM0UqX9MJ8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Just Getting Started
+*Released on 2017-12-01, vote average 7.5*
+
+A retired FBI agent and an ex-mob lawyer in the witness protection program having to put aside their petty rivalry on the golf course to fend off a mob hit.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/lqDTpKAtxrs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -137,20 +149,35 @@ In the post–World War II South, two families are pitted against a barbaric soc
 	
 	
 
-### A Christmas Prince
-*Released on 2017-11-17, vote average 6.8*
+### Alien Invasion: S.U.M.1
+*Released on 2017-12-01, vote average 7*
 
-When a reporter goes undercover as a nanny to get the inside scoop on a playboy prince, she gets tangled in some royal intrigue and ends up finding love - but will she be able to keep up her lie?
+An aggressive race of aliens took over Planet Earth and humanity&#39;s at its end, living in giant bunkers below ground. Young Military rookie S.U.M.1 (Iwan Rheon) is sent to the surface to save a group of unprotected survivors.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/tG4Fbj1B1bY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/csR75ae-wTg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -179,23 +206,6 @@ A Christmas-themed special featuring characters from the Disney film, &#39;Froze
 
 
 	
-	
-
-### Sweet Virginia
-*Released on 2017-11-17, vote average 7.4*
-
-A former rodeo champ befriends a young man with a propensity for violence.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/gPE17-BUnFQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -205,38 +215,6 @@ A former rodeo champ befriends a young man with a propensity for violence.
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Last Flag Flying
-*Released on 2017-11-17, vote average 3.5*
-
-Thirty years after serving together in the Vietnam War, Larry &#34;Doc&#34; Shepherd, Sal Nealon and the Rev. Richard Mueller reunite for a different type of mission: to bury Doc&#39;s son, a young Marine killed in Iraq. Forgoing burial at Arlington National Cemetery, Doc and his old buddies take the casket on a bittersweet trip up the coast to New Hampshire. Along the way, the three men find themselves reminiscing and coming to terms with the shared memories of a war that continues to shape their lives.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/VmS4lTZ34uk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -270,22 +248,10 @@ Stu Undercoffler (Eric Roberts) is a corrupt CEO whose drive for power has led h
 
 
 	
-	
 
-### Cook-Off!
-*Released on 2017-11-17, vote average 5*
+  
 
-Amateur &#39;chefs&#39; from around the country compete for a million dollar prize in the ultimate food fight.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/1QWLyi03twg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -295,23 +261,6 @@ Amateur &#39;chefs&#39; from around the country compete for a million dollar pri
 ## Opening soon
 
 
-	
-	
-
-### The Disaster Artist
-*Released on 2017-12-01, vote average 7.5*
-
-An aspiring actor in Hollywood meets an enigmatic stranger by the name of Tommy Wiseau, the meeting leads the actor down a path nobody could have predicted; creating the worst movie ever made.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/4qab3TMg42k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
