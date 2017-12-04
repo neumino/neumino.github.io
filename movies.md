@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Man Who Invented Christmas
-*Released on 2017-11-22, vote average 5.8*
+*Released on 2017-11-22, vote average 4.8*
 
 After a series his books have been flops, Charles Dickens decides to write and self-publish A Christmas Carol.
 
@@ -91,7 +91,7 @@ An aspiring actor in Hollywood meets an enigmatic stranger by the name of Tommy 
 	
 
 ### Wonder Wheel
-*Released on 2017-12-01, vote average 1*
+*Released on 2017-12-01, vote average 2.1*
 
 The story of four characters whose lives intertwine amid the hustle and bustle of the Coney Island amusement park in the 1950s: Ginny, an emotionally volatile former actress now working as a waitress in a clam house; Humpty, Ginny’s rough-hewn carousel operator husband; Mickey, a handsome young lifeguard who dreams of becoming a playwright; and Carolina, Humpty’s long-estranged daughter, who is now hiding out from gangsters at her father’s apartment.
 
@@ -181,20 +181,10 @@ A retired FBI agent and an ex-mob lawyer in the witness protection program havin
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### Olaf&#39;s Frozen Adventure
-*Released on 2017-11-22, vote average 7*
+*Released on 2017-11-22, vote average 7.1*
 
 A Christmas-themed special featuring characters from the Disney film, &#39;Frozen&#39;.
 
@@ -248,6 +238,33 @@ A Christmas-themed special featuring characters from the Disney film, &#39;Froze
 
 
 	
+	
+
+### Spreading Darkness
+*Released on 2017-11-21, vote average 10*
+
+Stu Undercoffler (Eric Roberts) is a corrupt CEO whose drive for power has led him to make some highly unethical choices. Once Stu&#39;s self-serving decisions have begun to spread darkness through the world, there&#39;s no stopping it. After losing his wife, Stu begins to have a crisis of conscience but starts to believe he is being stalked and has been hallucinating. Is he losing his mind or have his former victims come back to wreck havoc on him?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QrJgqucqPiU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 
   
 
@@ -264,7 +281,41 @@ A Christmas-themed special featuring characters from the Disney film, &#39;Froze
 	
 
 	
+	
 
+### November Criminals
+*Released on 2017-12-08, vote average 10*
+
+A teenager takes on his own investigation of a murder in Washington D.C.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/TImAMCQbwJo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### I, Tonya
+*Released on 2017-12-08, vote average 5.9*
+
+Competitive ice skater Tonya Harding rises amongst the ranks at the U.S. Figure Skating Championships, but her future in the activity is thrown into doubt when her ex-husband intervenes.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/c_weoC3HT6Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -276,7 +327,41 @@ A Christmas-themed special featuring characters from the Disney film, &#39;Froze
 	
 
 	
+	
 
+### Jumanji: Welcome to the Jungle
+*Released on 2017-12-08, vote average 7.5*
+
+The tables are turned as four teenagers are sucked into Jumanji&#39;s world - pitted against rhinos, black mambas and an endless variety of jungle traps and puzzles. To survive, they&#39;ll play as characters from the game.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2QKg5SZ_35I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### Ferdinand
+*Released on 2017-12-09, vote average 6*
+
+Ferdinand, a little bull, prefers sitting quietly under a cork tree just smelling the flowers versus jumping around, snorting, and butting heads with other bulls. As Ferdinand grows big and strong, his temperament remains mellow, but one day five men come to choose the &#34;biggest, fastest, roughest bull&#34; for the bullfights in Madrid and Ferdinand is mistakenly chosen.  Based on the classic 1936 children&#39;s book by Munro Leaf.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/HBXVM7oUPVk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
