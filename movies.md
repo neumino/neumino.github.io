@@ -91,7 +91,7 @@ An aspiring actor in Hollywood meets an enigmatic stranger by the name of Tommy 
 	
 
 ### Wonder Wheel
-*Released on 2017-12-01, vote average 2.1*
+*Released on 2017-12-01, vote average 1.8*
 
 The story of four characters whose lives intertwine amid the hustle and bustle of the Coney Island amusement park in the 1950s: Ginny, an emotionally volatile former actress now working as a waitress in a clam house; Humpty, Ginny’s rough-hewn carousel operator husband; Mickey, a handsome young lifeguard who dreams of becoming a playwright; and Carolina, Humpty’s long-estranged daughter, who is now hiding out from gangsters at her father’s apartment.
 
@@ -260,10 +260,14 @@ Stu Undercoffler (Eric Roberts) is a corrupt CEO whose drive for power has led h
 
 
 	
+	
+	
 
   
 
 
+	
+	
 	
 
   
@@ -325,8 +329,6 @@ Competitive ice skater Tonya Harding rises amongst the ranks at the U.S. Figure 
 	
 
 	
-
-	
 	
 
 ### Jumanji: Welcome to the Jungle
@@ -343,6 +345,8 @@ The tables are turned as four teenagers are sucked into Jumanji&#39;s world - pi
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
@@ -366,6 +370,8 @@ Ferdinand, a little bull, prefers sitting quietly under a cork tree just smellin
 
 	
 
+	
+	
 	
 
 	
