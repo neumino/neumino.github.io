@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### The Man Who Invented Christmas
-*Released on 2017-11-22, vote average 4.8*
+### The Disaster Artist
+*Released on 2017-12-01, vote average 7.3*
 
-After a series his books have been flops, Charles Dickens decides to write and self-publish A Christmas Carol.
+An aspiring actor in Hollywood meets an enigmatic stranger by the name of Tommy Wiseau, the meeting leads the actor down a path nobody could have predicted; creating the worst movie ever made.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/nx3ctBjG6yI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/4qab3TMg42k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ After a series his books have been flops, Charles Dickens decides to write and s
 	
 	
 
-### Darkest Hour
-*Released on 2017-11-22, vote average 3.3*
+### The Man Who Invented Christmas
+*Released on 2017-11-22, vote average 4.8*
 
-A thrilling and inspiring true story begins on the eve of World War II as, within days of becoming Prime Minister of Great Britain, Winston Churchill must face one of his most turbulent and defining trials: exploring a negotiated peace treaty with Nazi Germany, or standing firm to fight for the ideals, liberty and freedom of a nation. As the unstoppable Nazi forces roll across Western Europe and the threat of invasion is imminent, and with an unprepared public, a skeptical King, and his own party plotting against him, Churchill must withstand his darkest hour, rally a nation, and attempt to change the course of world history.
+After a series his books have been flops, Charles Dickens decides to write and self-publish A Christmas Carol.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/eFFj2gS9UWs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/nx3ctBjG6yI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,16 +68,16 @@ A thrilling and inspiring true story begins on the eve of World War II as, withi
 	
 	
 
-### The Disaster Artist
-*Released on 2017-12-01, vote average 7.8*
+### Darkest Hour
+*Released on 2017-11-22, vote average 3.3*
 
-An aspiring actor in Hollywood meets an enigmatic stranger by the name of Tommy Wiseau, the meeting leads the actor down a path nobody could have predicted; creating the worst movie ever made.
+A thrilling and inspiring true story begins on the eve of World War II as, within days of becoming Prime Minister of Great Britain, Winston Churchill must face one of his most turbulent and defining trials: exploring a negotiated peace treaty with Nazi Germany, or standing firm to fight for the ideals, liberty and freedom of a nation. As the unstoppable Nazi forces roll across Western Europe and the threat of invasion is imminent, and with an unprepared public, a skeptical King, and his own party plotting against him, Churchill must withstand his darkest hour, rally a nation, and attempt to change the course of world history.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/4qab3TMg42k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/eFFj2gS9UWs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -113,7 +113,7 @@ The story of four characters whose lives intertwine amid the hustle and bustle o
 	
 
 ### The Tribes of Palos Verdes
-*Released on 2017-12-01, vote average 10*
+*Released on 2017-12-01, vote average 7*
 
 When the situation at her idyllic Palos Verdes home turns volatile, young Medina attempts to surf her way to happiness.
 
@@ -135,7 +135,7 @@ When the situation at her idyllic Palos Verdes home turns volatile, young Medina
 	
 
 ### Love Beats Rhymes
-*Released on 2017-12-01, vote average 10*
+*Released on 2017-12-01, vote average 5.5*
 
 An aspiring hip-hop artist discovers the world of slam poetry.
 
@@ -153,6 +153,28 @@ An aspiring hip-hop artist discovers the world of slam poetry.
   
 
 
+	
+
+  
+
+
+	
+	
+
+### Olaf&#39;s Frozen Adventure
+*Released on 2017-11-22, vote average 7*
+
+A Christmas-themed special featuring characters from the Disney film, &#39;Frozen&#39;.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pNpc4Eqqc-I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -181,21 +203,18 @@ A retired FBI agent and an ex-mob lawyer in the witness protection program havin
 
 
 	
+
+  
+
+
+	
+	
 	
 
-### Olaf&#39;s Frozen Adventure
-*Released on 2017-11-22, vote average 7.1*
+  
 
-A Christmas-themed special featuring characters from the Disney film, &#39;Frozen&#39;.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pNpc4Eqqc-I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
+	
 	
 	
 
@@ -227,40 +246,6 @@ A Christmas-themed special featuring characters from the Disney film, &#39;Froze
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Spreading Darkness
-*Released on 2017-11-21, vote average 10*
-
-Stu Undercoffler (Eric Roberts) is a corrupt CEO whose drive for power has led him to make some highly unethical choices. Once Stu&#39;s self-serving decisions have begun to spread darkness through the world, there&#39;s no stopping it. After losing his wife, Stu begins to have a crisis of conscience but starts to believe he is being stalked and has been hallucinating. Is he losing his mind or have his former victims come back to wreck havoc on him?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/QrJgqucqPiU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -304,10 +289,12 @@ A teenager takes on his own investigation of a murder in Washington D.C.
 	
 
 	
+
+	
 	
 
 ### I, Tonya
-*Released on 2017-12-08, vote average 5.9*
+*Released on 2017-12-08, vote average 5.1*
 
 Competitive ice skater Tonya Harding rises amongst the ranks at the U.S. Figure Skating Championships, but her future in the activity is thrown into doubt when her ex-husband intervenes.
 
@@ -348,8 +335,6 @@ The tables are turned as four teenagers are sucked into Jumanji&#39;s world - pi
 	
 
 	
-
-	
 	
 
 ### Ferdinand
@@ -371,8 +356,6 @@ Ferdinand, a little bull, prefers sitting quietly under a cork tree just smellin
 	
 
 	
-	
-	
 
 	
 
@@ -380,6 +363,8 @@ Ferdinand, a little bull, prefers sitting quietly under a cork tree just smellin
 
 	
 
+	
+	
 	
 
 	
