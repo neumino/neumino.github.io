@@ -46,52 +46,8 @@ An aspiring actor in Hollywood meets an enigmatic stranger by the name of Tommy 
 	
 	
 
-### The Man Who Invented Christmas
-*Released on 2017-11-22, vote average 4.8*
-
-After a series his books have been flops, Charles Dickens decides to write and self-publish A Christmas Carol.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nx3ctBjG6yI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Darkest Hour
-*Released on 2017-11-22, vote average 3.3*
-
-A thrilling and inspiring true story begins on the eve of World War II as, within days of becoming Prime Minister of Great Britain, Winston Churchill must face one of his most turbulent and defining trials: exploring a negotiated peace treaty with Nazi Germany, or standing firm to fight for the ideals, liberty and freedom of a nation. As the unstoppable Nazi forces roll across Western Europe and the threat of invasion is imminent, and with an unprepared public, a skeptical King, and his own party plotting against him, Churchill must withstand his darkest hour, rally a nation, and attempt to change the course of world history.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/eFFj2gS9UWs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Wonder Wheel
-*Released on 2017-12-01, vote average 1.8*
+*Released on 2017-12-01, vote average 1.7*
 
 The story of four characters whose lives intertwine amid the hustle and bustle of the Coney Island amusement park in the 1950s: Ginny, an emotionally volatile former actress now working as a waitress in a clam house; Humpty, Ginny’s rough-hewn carousel operator husband; Mickey, a handsome young lifeguard who dreams of becoming a playwright; and Carolina, Humpty’s long-estranged daughter, who is now hiding out from gangsters at her father’s apartment.
 
@@ -159,23 +115,6 @@ An aspiring hip-hop artist discovers the world of slam poetry.
 
 
 	
-	
-
-### Olaf&#39;s Frozen Adventure
-*Released on 2017-11-22, vote average 7*
-
-A Christmas-themed special featuring characters from the Disney film, &#39;Frozen&#39;.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pNpc4Eqqc-I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -215,6 +154,16 @@ A retired FBI agent and an ex-mob lawyer in the witness protection program havin
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 	
 
@@ -246,6 +195,8 @@ A retired FBI agent and an ex-mob lawyer in the witness protection program havin
   
 
 
+	
+	
 	
 
   
@@ -268,6 +219,23 @@ A retired FBI agent and an ex-mob lawyer in the witness protection program havin
 
 
 	
+	
+
+### Star Wars: The Last Jedi
+*Released on 2017-12-13, vote average 5.3*
+
+Having taken her first steps into a larger world, Rey continues her epic journey with Finn, Poe and Luke Skywalker in the next chapter of the Star Wars saga.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ye6GCY_vqYk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 	
@@ -282,6 +250,25 @@ A teenager takes on his own investigation of a murder in Washington D.C.
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/TImAMCQbwJo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### The Shape of Water
+*Released on 2017-12-08, vote average 7.7*
+
+An other-worldly story, set against the backdrop of Cold War era America circa 1962, where a mute janitor working at a lab falls in love with an amphibious man being held captive there and devises a plan to help him escape.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/XFYWazblaUA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -310,16 +297,10 @@ Competitive ice skater Tonya Harding rises amongst the ranks at the U.S. Figure 
 	
 
 	
-
-	
-
-	
-
-	
 	
 
 ### Jumanji: Welcome to the Jungle
-*Released on 2017-12-08, vote average 7.5*
+*Released on 2017-12-08, vote average 6.6*
 
 The tables are turned as four teenagers are sucked into Jumanji&#39;s world - pitted against rhinos, black mambas and an endless variety of jungle traps and puzzles. To survive, they&#39;ll play as characters from the game.
 
@@ -332,6 +313,10 @@ The tables are turned as four teenagers are sucked into Jumanji&#39;s world - pi
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
 	
 
 	
@@ -363,8 +348,6 @@ Ferdinand, a little bull, prefers sitting quietly under a cork tree just smellin
 
 	
 
-	
-	
 	
 
 	
