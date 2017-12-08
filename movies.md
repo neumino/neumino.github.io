@@ -115,6 +115,99 @@ An aspiring hip-hop artist discovers the world of slam poetry.
 
 
 	
+	
+
+### November Criminals
+*Released on 2017-12-08, vote average 10*
+
+A teenager takes on his own investigation of a murder in Washington D.C.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/TImAMCQbwJo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Shape of Water
+*Released on 2017-12-08, vote average 7.3*
+
+An other-worldly story, set against the backdrop of Cold War era America circa 1962, where a mute janitor working at a lab falls in love with an amphibious man being held captive there and devises a plan to help him escape.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/XFYWazblaUA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Jumanji: Welcome to the Jungle
+*Released on 2017-12-08, vote average 6.7*
+
+The tables are turned as four teenagers are sucked into Jumanji&#39;s world - pitted against rhinos, black mambas and an endless variety of jungle traps and puzzles. To survive, they&#39;ll play as characters from the game.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2QKg5SZ_35I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### I, Tonya
+*Released on 2017-12-08, vote average 5.1*
+
+Competitive ice skater Tonya Harding rises amongst the ranks at the U.S. Figure Skating Championships, but her future in the activity is thrown into doubt when her ex-husband intervenes.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/c_weoC3HT6Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 
   
 
@@ -147,35 +240,6 @@ A retired FBI agent and an ex-mob lawyer in the witness protection program havin
 
 
 	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 
   
 
@@ -203,12 +267,12 @@ A retired FBI agent and an ex-mob lawyer in the witness protection program havin
 
 
 	
-	
-	
 
   
 
 
+	
+	
 	
 
   
@@ -260,7 +324,7 @@ A teenager takes on his own investigation of a murder in Washington D.C.
 	
 
 ### The Shape of Water
-*Released on 2017-12-08, vote average 7.7*
+*Released on 2017-12-08, vote average 7.3*
 
 An other-worldly story, set against the backdrop of Cold War era America circa 1962, where a mute janitor working at a lab falls in love with an amphibious man being held captive there and devises a plan to help him escape.
 
@@ -276,6 +340,23 @@ An other-worldly story, set against the backdrop of Cold War era America circa 1
 	
 
 	
+	
+
+### Jumanji: Welcome to the Jungle
+*Released on 2017-12-08, vote average 6.7*
+
+The tables are turned as four teenagers are sucked into Jumanji&#39;s world - pitted against rhinos, black mambas and an endless variety of jungle traps and puzzles. To survive, they&#39;ll play as characters from the game.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2QKg5SZ_35I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 	
@@ -290,25 +371,6 @@ Competitive ice skater Tonya Harding rises amongst the ranks at the U.S. Figure 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/c_weoC3HT6Q?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Jumanji: Welcome to the Jungle
-*Released on 2017-12-08, vote average 6.6*
-
-The tables are turned as four teenagers are sucked into Jumanji&#39;s world - pitted against rhinos, black mambas and an endless variety of jungle traps and puzzles. To survive, they&#39;ll play as characters from the game.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2QKg5SZ_35I?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -336,6 +398,8 @@ Ferdinand, a little bull, prefers sitting quietly under a cork tree just smellin
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
