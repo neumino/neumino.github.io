@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Disaster Artist
-*Released on 2017-12-01, vote average 6.5*
+*Released on 2017-12-01, vote average 6.9*
 
 An aspiring actor in Hollywood meets an enigmatic stranger by the name of Tommy Wiseau, the meeting leads the actor down a path nobody could have predicted; creating the worst movie ever made.
 
@@ -69,7 +69,7 @@ The story of four characters whose lives intertwine amid the hustle and bustle o
 	
 
 ### The Tribes of Palos Verdes
-*Released on 2017-12-01, vote average 7*
+*Released on 2017-12-01, vote average 6*
 
 When the situation at her idyllic Palos Verdes home turns volatile, young Medina attempts to surf her way to happiness.
 
@@ -110,15 +110,10 @@ An aspiring hip-hop artist discovers the world of slam poetry.
 
 
 	
-
-  
-
-
-	
 	
 
 ### November Criminals
-*Released on 2017-12-08, vote average 10*
+*Released on 2017-12-08, vote average 8*
 
 A teenager takes on his own investigation of a murder in Washington D.C.
 
@@ -159,6 +154,11 @@ An other-worldly story, set against the backdrop of Cold War era America circa 1
 
 
 	
+
+  
+
+
+	
 	
 
 ### Bullet Head
@@ -183,30 +183,8 @@ In the Vein of Reservoir Dogs, a group of career criminals find themselves trapp
 	
 	
 
-### I, Tonya
-*Released on 2017-12-08, vote average 5.1*
-
-Competitive ice skater Tonya Harding rises amongst the ranks at the U.S. Figure Skating Championships, but her future in the activity is thrown into doubt when her ex-husband intervenes.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/c_weoC3HT6Q?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Jumanji: Welcome to the Jungle
-*Released on 2017-12-08, vote average 6*
+*Released on 2017-12-08, vote average 6.3*
 
 The tables are turned as four teenagers are sucked into Jumanji&#39;s world - pitted against rhinos, black mambas and an endless variety of jungle traps and puzzles. To survive, they&#39;ll play as characters from the game.
 
@@ -247,6 +225,23 @@ After an inspiring chance encounter with his idol, rookie journalist Jay Bahadur
 
 
 	
+	
+
+### Hollow in the Land
+*Released on 2017-12-08, vote average 4*
+
+With their father in prison for murder, siblings Alison and Brandon are instantly considered suspects when a string of killings plagues their town, and they must fight to clear their names.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pgpSB8D2XTQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -264,6 +259,28 @@ Ferdinand, a little bull, prefers sitting quietly under a cork tree just smellin
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/HBXVM7oUPVk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### I, Tonya
+*Released on 2017-12-08, vote average 5.1*
+
+Competitive ice skater Tonya Harding rises amongst the ranks at the U.S. Figure Skating Championships, but her future in the activity is thrown into doubt when her ex-husband intervenes.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/c_weoC3HT6Q?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -306,6 +323,15 @@ A retired FBI agent and an ex-mob lawyer in the witness protection program havin
 
 
 	
+	
+	
+
+  
+
+
+	
+	
+	
 
   
 
@@ -315,13 +341,6 @@ A retired FBI agent and an ex-mob lawyer in the witness protection program havin
   
 
 
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -335,7 +354,7 @@ A retired FBI agent and an ex-mob lawyer in the witness protection program havin
 	
 
 ### Star Wars: The Last Jedi
-*Released on 2017-12-13, vote average 5.3*
+*Released on 2017-12-13, vote average 6.5*
 
 Having taken her first steps into a larger world, Rey continues her epic journey with Finn, Poe and Luke Skywalker in the next chapter of the Star Wars saga.
 
@@ -350,23 +369,6 @@ Having taken her first steps into a larger world, Rey continues her epic journey
 	
 	
 
-	
-	
-
-### Ferdinand
-*Released on 2017-12-09, vote average 6*
-
-Ferdinand, a little bull, prefers sitting quietly under a cork tree just smelling the flowers versus jumping around, snorting, and butting heads with other bulls. As Ferdinand grows big and strong, his temperament remains mellow, but one day five men come to choose the &#34;biggest, fastest, roughest bull&#34; for the bullfights in Madrid and Ferdinand is mistakenly chosen.  Based on the classic 1936 children&#39;s book by Munro Leaf.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/HBXVM7oUPVk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
