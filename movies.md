@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Disaster Artist
-*Released on 2017-12-01, vote average 7.5*
+*Released on 2017-12-01, vote average 7.7*
 
 An aspiring actor in Hollywood meets an enigmatic stranger by the name of Tommy Wiseau, the meeting leads the actor down a path nobody could have predicted; creating the worst movie ever made.
 
@@ -111,13 +111,6 @@ An aspiring hip-hop artist discovers the world of slam poetry.
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### November Criminals
 *Released on 2017-12-08, vote average 5.3*
@@ -142,7 +135,7 @@ A teenager takes on his own investigation of a murder in Washington D.C.
 	
 
 ### The Shape of Water
-*Released on 2017-12-08, vote average 7.8*
+*Released on 2017-12-01, vote average 8.1*
 
 An other-worldly story, set against the backdrop of Cold War era America circa 1962, where a mute janitor working at a lab falls in love with an amphibious man being held captive there and devises a plan to help him escape.
 
@@ -154,6 +147,13 @@ An other-worldly story, set against the backdrop of Cold War era America circa 1
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -186,7 +186,7 @@ In the Vein of Reservoir Dogs, a group of career criminals find themselves trapp
 	
 
 ### Jumanji: Welcome to the Jungle
-*Released on 2017-12-08, vote average 6.5*
+*Released on 2017-12-08, vote average 6.6*
 
 The tables are turned as four teenagers are sucked into Jumanji&#39;s world - pitted against rhinos, black mambas and an endless variety of jungle traps and puzzles. To survive, they&#39;ll play as characters from the game.
 
@@ -229,28 +229,6 @@ After an inspiring chance encounter with his idol, rookie journalist Jay Bahadur
 	
 	
 
-### Hollow in the Land
-*Released on 2017-12-08, vote average 5.5*
-
-With their father in prison for murder, siblings Alison and Brandon are instantly considered suspects when a string of killings plagues their town, and they must fight to clear their names.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pgpSB8D2XTQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Ferdinand
 *Released on 2017-12-09, vote average 6*
 
@@ -273,8 +251,30 @@ Ferdinand, a little bull, prefers sitting quietly under a cork tree just smellin
 	
 	
 
+### Hollow in the Land
+*Released on 2017-12-08, vote average 5.5*
+
+With their father in prison for murder, siblings Alison and Brandon are instantly considered suspects when a string of killings plagues their town, and they must fight to clear their names.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pgpSB8D2XTQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### I, Tonya
-*Released on 2017-12-08, vote average 5.1*
+*Released on 2017-12-08, vote average 5.5*
 
 Competitive ice skater Tonya Harding rises amongst the ranks at the U.S. Figure Skating Championships, but her future in the activity is thrown into doubt when her ex-husband intervenes.
 
@@ -320,11 +320,6 @@ A retired FBI agent and an ex-mob lawyer in the witness protection program havin
 
 
 	
-
-  
-
-
-	
 	
 	
 
@@ -337,21 +332,11 @@ A retired FBI agent and an ex-mob lawyer in the witness protection program havin
 
 
 	
+
+  
+
+
 	
-
-### Psych: The Movie
-*Released on 2017-12-07, vote average 8.3*
-
-The ambitious friends come together during the holidays after a mystery assailant targets one of their own. A comedic thrill-ride follows, as the wild and unpredictable Psych team pursues the bad guys, justice … and, of course, food!
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/yjxPGx1brCA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -371,7 +356,7 @@ The ambitious friends come together during the holidays after a mystery assailan
 	
 
 ### Star Wars: The Last Jedi
-*Released on 2017-12-13, vote average 6.5*
+*Released on 2017-12-13, vote average 5.7*
 
 Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares to do battle with the First Order.
 
@@ -402,6 +387,23 @@ Rey develops her newly discovered abilities with the guidance of Luke Skywalker,
 
 	
 
+	
+	
+
+### Fukrey Returns
+*Released on 2017-12-15, vote average 8*
+
+Mayhem continues in the sequel to Fukrey.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/f-UzOpuKOVY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
