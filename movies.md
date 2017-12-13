@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Disaster Artist
-*Released on 2017-12-01, vote average 7.7*
+*Released on 2017-12-01, vote average 7.6*
 
 An aspiring actor in Hollywood meets an enigmatic stranger by the name of Tommy Wiseau, the meeting leads the actor down a path nobody could have predicted; creating the worst movie ever made.
 
@@ -40,6 +40,28 @@ An aspiring actor in Hollywood meets an enigmatic stranger by the name of Tommy 
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+  
+
+
+	
+	
+
+### Star Wars: The Last Jedi
+*Released on 2017-12-13, vote average 5.7*
+
+Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares to do battle with the First Order.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ye6GCY_vqYk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
   
 
 
@@ -155,16 +177,9 @@ An other-worldly story, set against the backdrop of Cold War era America circa 1
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Bullet Head
-*Released on 2017-12-07, vote average 8*
+*Released on 2017-12-07, vote average 4.9*
 
 In the Vein of Reservoir Dogs, a group of career criminals find themselves trapped in a warehouse with the law and an Attack Dog named DeNiro closing in.
 
@@ -184,9 +199,16 @@ In the Vein of Reservoir Dogs, a group of career criminals find themselves trapp
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Jumanji: Welcome to the Jungle
-*Released on 2017-12-08, vote average 6.6*
+*Released on 2017-12-08, vote average 6.7*
 
 The tables are turned as four teenagers are sucked into Jumanji&#39;s world - pitted against rhinos, black mambas and an endless variety of jungle traps and puzzles. To survive, they&#39;ll play as characters from the game.
 
@@ -230,7 +252,7 @@ After an inspiring chance encounter with his idol, rookie journalist Jay Bahadur
 	
 
 ### Ferdinand
-*Released on 2017-12-09, vote average 6*
+*Released on 2017-12-09, vote average 5.3*
 
 Ferdinand, a little bull, prefers sitting quietly under a cork tree just smelling the flowers versus jumping around, snorting, and butting heads with other bulls. As Ferdinand grows big and strong, his temperament remains mellow, but one day five men come to choose the &#34;biggest, fastest, roughest bull&#34; for the bullfights in Madrid and Ferdinand is mistakenly chosen.  Based on the classic 1936 children&#39;s book by Munro Leaf.
 
@@ -243,6 +265,11 @@ Ferdinand, a little bull, prefers sitting quietly under a cork tree just smellin
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -293,6 +320,15 @@ Competitive ice skater Tonya Harding rises amongst the ranks at the U.S. Figure 
 
 
 	
+	
+	
+
+  
+
+
+	
+	
+	
 
   
 
@@ -321,22 +357,20 @@ A retired FBI agent and an ex-mob lawyer in the witness protection program havin
 
 	
 	
-	
 
-  
+### El Camino Christmas
+*Released on 2017-12-08, vote average 7.1*
 
+A young man seeking a father he has never met, through no fault of his own, ends up barricaded in a liquor store with five other people on Christmas Eve in the fictitious town of El Camino, NV.
 
-	
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8h5tAhXwma8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
-  
-
-
-	
-
-  
-
-
-	
 	
 	
 
@@ -376,6 +410,25 @@ Rey develops her newly discovered abilities with the guidance of Luke Skywalker,
 	
 
 	
+	
+
+### The Ballad of Lefty Brown
+*Released on 2017-12-15, vote average 10*
+
+Aging sidekick Lefty Brown has ridden with Eddie Johnson his entire life. But when a rustler kills Eddie, Lefty is forced from his partner’s shadow and must confront the ugly realities of frontier justice.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Sv2khM97ylU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
 
 	
 
@@ -404,8 +457,6 @@ Mayhem continues in the sequel to Fukrey.
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
