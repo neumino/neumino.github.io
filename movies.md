@@ -110,11 +110,6 @@ A group of career criminals finds itself trapped in a warehouse with the law –
 
 
 	
-
-  
-
-
-	
 	
 
 ### The Ballad of Lefty Brown
@@ -131,6 +126,33 @@ Aging sidekick Lefty Brown has ridden with Eddie Johnson his entire life. But wh
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Christmas Inheritance
+*Released on 2017-12-15, vote average 7.9*
+
+Before ambitious heiress Ellen Langford can inherit her father&#39;s gift business, she must deliver a special Christmas card to her dad&#39;s former partner in Snow Falls, the hometown she never knew. When a snowstorm strands her at the town inn, she&#39;s forced to work for her keep, and in the process, finds romance and discovers the true gift of Christmas.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZHfgIeCqDu0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -170,6 +192,20 @@ After an inspiring chance encounter with his idol, rookie journalist Jay Bahadur
 
 	
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
 
 ### Ferdinand
 *Released on 2017-12-09, vote average 6.2*
@@ -193,30 +229,20 @@ Ferdinand, a little bull, prefers sitting quietly under a cork tree just smellin
 	
 	
 
-### Christmas Inheritance
-*Released on 2017-12-15, vote average 9*
+### El Camino Christmas
+*Released on 2017-12-08, vote average 7*
 
-Before ambitious heiress Ellen Langford can inherit her father&#39;s gift business, she must deliver a special Christmas card to her dad&#39;s former partner in Snow Falls, the hometown she never knew. When a snowstorm strands her at the town inn, she&#39;s forced to work for her keep, and in the process, finds romance and discovers the true gift of Christmas.
+A young man seeking a father he has never met, through no fault of his own, ends up barricaded in a liquor store with five other people on Christmas Eve in the fictitious town of El Camino, NV.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ZHfgIeCqDu0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/8h5tAhXwma8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -235,35 +261,6 @@ With their father in prison for murder, siblings Alison and Brandon are instantl
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/pgpSB8D2XTQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Fukrey Returns
-*Released on 2017-12-15, vote average 8*
-
-Mayhem continues in the sequel to Fukrey.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/f-UzOpuKOVY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -296,8 +293,6 @@ Competitive ice skater Tonya Harding rises amongst the ranks at the U.S. Figure 
 
 
 	
-	
-	
 
   
 
@@ -305,16 +300,16 @@ Competitive ice skater Tonya Harding rises amongst the ranks at the U.S. Figure 
 	
 	
 
-### El Camino Christmas
-*Released on 2017-12-08, vote average 7*
+### Fukrey Returns
+*Released on 2017-12-15, vote average 8*
 
-A young man seeking a father he has never met, through no fault of his own, ends up barricaded in a liquor store with five other people on Christmas Eve in the fictitious town of El Camino, NV.
+Mayhem continues in the sequel to Fukrey.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/8h5tAhXwma8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/f-UzOpuKOVY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -325,7 +320,10 @@ A young man seeking a father he has never met, through no fault of his own, ends
 
 
 	
-	
+
+  
+
+
 	
 
   
@@ -337,6 +335,23 @@ A young man seeking a father he has never met, through no fault of his own, ends
 
 	
 
+	
+	
+
+### Pitch Perfect 3
+*Released on 2017-12-21, vote average 6*
+
+After the highs of winning the world championships, the Bellas find themselves split apart and discovering there aren&#39;t job prospects for making music with your mouth. But when they get the chance to reunite for an overseas USO tour, this group of awesome nerds will come together to make some music, and some questionable decisions, one last time.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qZkuyLsN3gM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -358,6 +373,23 @@ A homicide detective teams up with a criminal profiler to catch a serial killer 
 	
 	
 
+	
+	
+
+### Downsizing
+*Released on 2017-12-22, vote average 10*
+
+A kindly occupational therapist undergoes a new procedure to be shrunken to four inches tall so that he and his wife can help save the planet and afford a nice lifestyle at the same time.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/bkadMe_Iqs4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
