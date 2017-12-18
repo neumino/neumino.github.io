@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Star Wars: The Last Jedi
-*Released on 2017-12-13, vote average 7.6*
+*Released on 2017-12-13, vote average 7.5*
 
 Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares to do battle with the First Order.
 
@@ -69,9 +69,9 @@ The tables are turned as four teenagers are sucked into Jumanji&#39;s world - pi
 	
 
 ### November Criminals
-*Released on 2017-12-08, vote average 5.3*
+*Released on 2017-12-08, vote average 4.3*
 
-A teenager takes on his own investigation of a murder in Washington D.C.
+Addison Schacht investigates the murder of his friend Kevin, with the help of Pheobe, and they discover the truth is darker than they ever imagined.
 
 <iframe id="player"
 	type="text/html"
@@ -135,7 +135,7 @@ Aging sidekick Lefty Brown has ridden with Eddie Johnson his entire life. But wh
 	
 
 ### Christmas Inheritance
-*Released on 2017-12-15, vote average 7.9*
+*Released on 2017-12-15, vote average 7.1*
 
 Before ambitious heiress Ellen Langford can inherit her father&#39;s gift business, she must deliver a special Christmas card to her dad&#39;s former partner in Snow Falls, the hometown she never knew. When a snowstorm strands her at the town inn, she&#39;s forced to work for her keep, and in the process, finds romance and discovers the true gift of Christmas.
 
@@ -153,6 +153,28 @@ Before ambitious heiress Ellen Langford can inherit her father&#39;s gift busine
   
 
 
+	
+
+  
+
+
+	
+	
+
+### Ferdinand
+*Released on 2017-12-09, vote average 7*
+
+Ferdinand, a little bull, prefers sitting quietly under a cork tree just smelling the flowers versus jumping around, snorting, and butting heads with other bulls. As Ferdinand grows big and strong, his temperament remains mellow, but one day five men come to choose the &#34;biggest, fastest, roughest bull&#34; for the bullfights in Madrid and Ferdinand is mistakenly chosen.  Based on the classic 1936 children&#39;s book by Munro Leaf.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/HBXVM7oUPVk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -199,57 +221,6 @@ After an inspiring chance encounter with his idol, rookie journalist Jay Bahadur
 
 	
 	
-	
-
-  
-
-
-	
-	
-
-### Ferdinand
-*Released on 2017-12-09, vote average 6.2*
-
-Ferdinand, a little bull, prefers sitting quietly under a cork tree just smelling the flowers versus jumping around, snorting, and butting heads with other bulls. As Ferdinand grows big and strong, his temperament remains mellow, but one day five men come to choose the &#34;biggest, fastest, roughest bull&#34; for the bullfights in Madrid and Ferdinand is mistakenly chosen.  Based on the classic 1936 children&#39;s book by Munro Leaf.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/HBXVM7oUPVk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### El Camino Christmas
-*Released on 2017-12-08, vote average 7*
-
-A young man seeking a father he has never met, through no fault of his own, ends up barricaded in a liquor store with five other people on Christmas Eve in the fictitious town of El Camino, NV.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8h5tAhXwma8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
 
 ### Hollow in the Land
 *Released on 2017-12-08, vote average 6.5*
@@ -274,7 +245,7 @@ With their father in prison for murder, siblings Alison and Brandon are instantl
 	
 
 ### I, Tonya
-*Released on 2017-12-08, vote average 5.5*
+*Released on 2017-12-08, vote average 6.2*
 
 Competitive ice skater Tonya Harding rises amongst the ranks at the U.S. Figure Skating Championships, but her future in the activity is thrown into doubt when her ex-husband intervenes.
 
@@ -283,6 +254,40 @@ Competitive ice skater Tonya Harding rises amongst the ranks at the U.S. Figure 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/c_weoC3HT6Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### El Camino Christmas
+*Released on 2017-12-08, vote average 6.7*
+
+A young man seeking a father he has never met, through no fault of his own, ends up barricaded in a liquor store with five other people on Christmas Eve in the fictitious town of El Camino, NV.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8h5tAhXwma8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -324,30 +329,23 @@ Mayhem continues in the sequel to Fukrey.
   
 
 
-	
-
-  
-
-
 
 ## Opening soon
 
 
 	
-
-	
 	
 
-### Pitch Perfect 3
-*Released on 2017-12-21, vote average 6*
+### The Greatest Showman
+*Released on 2017-12-20, vote average 2*
 
-After the highs of winning the world championships, the Bellas find themselves split apart and discovering there aren&#39;t job prospects for making music with your mouth. But when they get the chance to reunite for an overseas USO tour, this group of awesome nerds will come together to make some music, and some questionable decisions, one last time.
+The story of American showman P.T. Barnum, founder of the circus that became the famous traveling Ringling Bros. and Barnum &amp; Bailey Circus.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/qZkuyLsN3gM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/jr9QtXwC9vc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -390,6 +388,8 @@ A kindly occupational therapist undergoes a new procedure to be shrunken to four
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
