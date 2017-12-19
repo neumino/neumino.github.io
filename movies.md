@@ -47,7 +47,7 @@ Rey develops her newly discovered abilities with the guidance of Luke Skywalker,
 	
 
 ### Jumanji: Welcome to the Jungle
-*Released on 2017-12-08, vote average 6.3*
+*Released on 2017-12-08, vote average 5.8*
 
 The tables are turned as four teenagers are sucked into Jumanji&#39;s world - pitted against rhinos, black mambas and an endless variety of jungle traps and puzzles. To survive, they&#39;ll play as characters from the game.
 
@@ -112,6 +112,28 @@ A group of career criminals finds itself trapped in a warehouse with the law –
 	
 	
 
+### Christmas Inheritance
+*Released on 2017-12-15, vote average 7.2*
+
+Before ambitious heiress Ellen Langford can inherit her father&#39;s gift business, she must deliver a special Christmas card to her dad&#39;s former partner in Snow Falls, the hometown she never knew. When a snowstorm strands her at the town inn, she&#39;s forced to work for her keep, and in the process, finds romance and discovers the true gift of Christmas.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZHfgIeCqDu0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Ballad of Lefty Brown
 *Released on 2017-12-15, vote average 10*
 
@@ -134,35 +156,8 @@ Aging sidekick Lefty Brown has ridden with Eddie Johnson his entire life. But wh
 	
 	
 
-### Christmas Inheritance
-*Released on 2017-12-15, vote average 7.1*
-
-Before ambitious heiress Ellen Langford can inherit her father&#39;s gift business, she must deliver a special Christmas card to her dad&#39;s former partner in Snow Falls, the hometown she never knew. When a snowstorm strands her at the town inn, she&#39;s forced to work for her keep, and in the process, finds romance and discovers the true gift of Christmas.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZHfgIeCqDu0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### Ferdinand
-*Released on 2017-12-09, vote average 7*
+*Released on 2017-12-09, vote average 7.3*
 
 Ferdinand, a little bull, prefers sitting quietly under a cork tree just smelling the flowers versus jumping around, snorting, and butting heads with other bulls. As Ferdinand grows big and strong, his temperament remains mellow, but one day five men come to choose the &#34;biggest, fastest, roughest bull&#34; for the bullfights in Madrid and Ferdinand is mistakenly chosen.  Based on the classic 1936 children&#39;s book by Munro Leaf.
 
@@ -175,6 +170,11 @@ Ferdinand, a little bull, prefers sitting quietly under a cork tree just smellin
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -206,13 +206,6 @@ After an inspiring chance encounter with his idol, rookie journalist Jay Bahadur
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -269,8 +262,6 @@ Competitive ice skater Tonya Harding rises amongst the ranks at the U.S. Figure 
 
 
 	
-	
-	
 
   
 
@@ -298,26 +289,18 @@ A young man seeking a father he has never met, through no fault of his own, ends
 
 
 	
+	
+	
 
   
 
 
 	
+
+  
+
+
 	
-
-### Fukrey Returns
-*Released on 2017-12-15, vote average 8*
-
-Mayhem continues in the sequel to Fukrey.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/f-UzOpuKOVY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -372,6 +355,8 @@ A homicide detective teams up with a criminal profiler to catch a serial killer 
 	
 
 	
+
+	
 	
 
 ### Downsizing
@@ -391,9 +376,41 @@ A kindly occupational therapist undergoes a new procedure to be shrunken to four
 	
 
 	
-
 	
 
+### The Post
+*Released on 2017-12-22, vote average 10*
+
+A cover-up that spanned four U.S. Presidents pushed the country&#39;s first female newspaper publisher and a hard-driving editor to join an unprecedented battle between journalist and government. Inspired by true events.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nrXlY6gzTTM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### All the Money in the World
+*Released on 2017-12-21, vote average 8*
+
+The story of the kidnapping of 16-year-old John Paul Getty III and the desperate attempt by his devoted mother to convince his billionaire grandfather Jean Paul Getty to pay the ransom.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KXHrCBkIxQQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
