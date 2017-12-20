@@ -47,7 +47,7 @@ Rey develops her newly discovered abilities with the guidance of Luke Skywalker,
 	
 
 ### Jumanji: Welcome to the Jungle
-*Released on 2017-12-08, vote average 5.8*
+*Released on 2017-12-08, vote average 5.6*
 
 The tables are turned as four teenagers are sucked into Jumanji&#39;s world - pitted against rhinos, black mambas and an endless variety of jungle traps and puzzles. To survive, they&#39;ll play as characters from the game.
 
@@ -91,7 +91,7 @@ Addison Schacht investigates the murder of his friend Kevin, with the help of Ph
 	
 
 ### Bullet Head
-*Released on 2017-12-07, vote average 5*
+*Released on 2017-12-07, vote average 4.6*
 
 A group of career criminals finds itself trapped in a warehouse with the law – and an Attack Dog named DeNiro closing in.
 
@@ -100,6 +100,28 @@ A group of career criminals finds itself trapped in a warehouse with the law –
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/m4K6OJ1Hodg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Greatest Showman
+*Released on 2017-12-20, vote average 2*
+
+The story of American showman P.T. Barnum, founder of the circus that became the famous traveling Ringling Bros. and Barnum &amp; Bailey Circus.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jr9QtXwC9vc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,6 +156,28 @@ Before ambitious heiress Ellen Langford can inherit her father&#39;s gift busine
 	
 	
 
+### Ferdinand
+*Released on 2017-12-09, vote average 7.3*
+
+Ferdinand, a little bull, prefers sitting quietly under a cork tree just smelling the flowers versus jumping around, snorting, and butting heads with other bulls. As Ferdinand grows big and strong, his temperament remains mellow, but one day five men come to choose the &#34;biggest, fastest, roughest bull&#34; for the bullfights in Madrid and Ferdinand is mistakenly chosen.  Based on the classic 1936 children&#39;s book by Munro Leaf.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/HBXVM7oUPVk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Ballad of Lefty Brown
 *Released on 2017-12-15, vote average 10*
 
@@ -154,27 +198,27 @@ Aging sidekick Lefty Brown has ridden with Eddie Johnson his entire life. But wh
 
 
 	
+
+  
+
+
+	
 	
 
-### Ferdinand
-*Released on 2017-12-09, vote average 7.3*
+### Hollow in the Land
+*Released on 2017-12-08, vote average 6.5*
 
-Ferdinand, a little bull, prefers sitting quietly under a cork tree just smelling the flowers versus jumping around, snorting, and butting heads with other bulls. As Ferdinand grows big and strong, his temperament remains mellow, but one day five men come to choose the &#34;biggest, fastest, roughest bull&#34; for the bullfights in Madrid and Ferdinand is mistakenly chosen.  Based on the classic 1936 children&#39;s book by Munro Leaf.
+With their father in prison for murder, siblings Alison and Brandon are instantly considered suspects when a string of killings plagues their town, and they must fight to clear their names.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/HBXVM7oUPVk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/pgpSB8D2XTQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -215,30 +259,8 @@ After an inspiring chance encounter with his idol, rookie journalist Jay Bahadur
 	
 	
 
-### Hollow in the Land
-*Released on 2017-12-08, vote average 6.5*
-
-With their father in prison for murder, siblings Alison and Brandon are instantly considered suspects when a string of killings plagues their town, and they must fight to clear their names.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pgpSB8D2XTQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### I, Tonya
-*Released on 2017-12-08, vote average 6.2*
+*Released on 2017-12-08, vote average 6.4*
 
 Competitive ice skater Tonya Harding rises amongst the ranks at the U.S. Figure Skating Championships, but her future in the activity is thrown into doubt when her ex-husband intervenes.
 
@@ -261,6 +283,8 @@ Competitive ice skater Tonya Harding rises amongst the ranks at the U.S. Figure 
   
 
 
+	
+	
 	
 
   
@@ -290,18 +314,26 @@ A young man seeking a father he has never met, through no fault of his own, ends
 
 	
 	
+
+### Apache Warrior
+*Released on 2017-12-12, vote average 1.5*
+
+“Apache Warrior” focuses on the U.S. Army helicopter crews in the war-torn countries of Iraq and Afghanistan. The film includes real-life footage of the crews providing 24-hour transport, air cover and rescue.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_HpCpkxx5KY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
 
 
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -317,6 +349,8 @@ A young man seeking a father he has never met, through no fault of his own, ends
 
 
 	
+
+	
 	
 
 ### The Greatest Showman
@@ -329,6 +363,25 @@ The story of American showman P.T. Barnum, founder of the circus that became the
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/jr9QtXwC9vc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### Pitch Perfect 3
+*Released on 2017-12-21, vote average 5*
+
+After the highs of winning the world championships, the Bellas find themselves split apart and discovering there aren&#39;t job prospects for making music with your mouth. But when they get the chance to reunite for an overseas USO tour, this group of awesome nerds will come together to make some music, and some questionable decisions, one last time.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qZkuyLsN3gM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -355,12 +408,10 @@ A homicide detective teams up with a criminal profiler to catch a serial killer 
 	
 
 	
-
-	
 	
 
 ### Downsizing
-*Released on 2017-12-22, vote average 10*
+*Released on 2017-12-22, vote average 6.2*
 
 A kindly occupational therapist undergoes a new procedure to be shrunken to four inches tall so that he and his wife can help save the planet and afford a nice lifestyle at the same time.
 
@@ -369,6 +420,25 @@ A kindly occupational therapist undergoes a new procedure to be shrunken to four
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/bkadMe_Iqs4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### All the Money in the World
+*Released on 2017-12-21, vote average 5.3*
+
+The story of the kidnapping of 16-year-old John Paul Getty III and the desperate attempt by his devoted mother to convince his billionaire grandfather Jean Paul Getty to pay the ransom.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KXHrCBkIxQQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -392,27 +462,6 @@ A cover-up that spanned four U.S. Presidents pushed the country&#39;s first fema
   allowfullscreen></iframe>
 
 	
-	
-
-	
-	
-
-### All the Money in the World
-*Released on 2017-12-21, vote average 8*
-
-The story of the kidnapping of 16-year-old John Paul Getty III and the desperate attempt by his devoted mother to convince his billionaire grandfather Jean Paul Getty to pay the ransom.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/KXHrCBkIxQQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
 	
 
 	
