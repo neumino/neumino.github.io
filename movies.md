@@ -68,28 +68,6 @@ The tables are turned as four teenagers are sucked into Jumanji&#39;s world - pi
 	
 	
 
-### The Greatest Showman
-*Released on 2017-12-20, vote average 2*
-
-The story of American showman P.T. Barnum, founder of the circus that became the famous traveling Ringling Bros. and Barnum &amp; Bailey Circus.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jr9QtXwC9vc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### November Criminals
 *Released on 2017-12-08, vote average 4.3*
 
@@ -112,16 +90,16 @@ Addison Schacht investigates the murder of his friend Kevin, with the help of Ph
 	
 	
 
-### Bullet Head
-*Released on 2017-12-07, vote average 4.6*
+### The Greatest Showman
+*Released on 2017-12-20, vote average 7.2*
 
-A group of career criminals finds itself trapped in a warehouse with the law – and an Attack Dog named DeNiro closing in.
+The story of American showman P.T. Barnum, founder of the circus that became the famous traveling Ringling Bros. and Barnum &amp; Bailey Circus.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/m4K6OJ1Hodg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/jr9QtXwC9vc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -135,7 +113,7 @@ A group of career criminals finds itself trapped in a warehouse with the law –
 	
 
 ### Pitch Perfect 3
-*Released on 2017-12-21, vote average 4.6*
+*Released on 2017-12-21, vote average 5.4*
 
 After the highs of winning the world championships, the Bellas find themselves split apart and discovering there aren&#39;t job prospects for making music with your mouth. But when they get the chance to reunite for an overseas USO tour, this group of awesome nerds will come together to make some music, and some questionable decisions, one last time.
 
@@ -156,16 +134,16 @@ After the highs of winning the world championships, the Bellas find themselves s
 	
 	
 
-### Christmas Inheritance
-*Released on 2017-12-15, vote average 7.2*
+### Hangman
+*Released on 2017-12-22, vote average 8.5*
 
-Before ambitious heiress Ellen Langford can inherit her father&#39;s gift business, she must deliver a special Christmas card to her dad&#39;s former partner in Snow Falls, the hometown she never knew. When a snowstorm strands her at the town inn, she&#39;s forced to work for her keep, and in the process, finds romance and discovers the true gift of Christmas.
+A homicide detective teams up with a criminal profiler to catch a serial killer whose crimes are inspired by the children&#39;s game, Hangman.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ZHfgIeCqDu0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/msfROsXKbws?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -198,6 +176,77 @@ The story of the kidnapping of 16-year-old John Paul Getty III and the desperate
 
 
 	
+	
+
+### Downsizing
+*Released on 2017-12-22, vote average 6.2*
+
+A kindly occupational therapist undergoes a new procedure to be shrunken to four inches tall so that he and his wife can help save the planet and afford a nice lifestyle at the same time.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/bkadMe_Iqs4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Post
+*Released on 2017-12-22, vote average 9.3*
+
+A cover-up that spanned four U.S. Presidents pushed the country&#39;s first female newspaper publisher and a hard-driving editor to join an unprecedented battle between journalist and government. Inspired by true events.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nrXlY6gzTTM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Christmas Inheritance
+*Released on 2017-12-15, vote average 6.7*
+
+Before ambitious heiress Ellen Langford can inherit her father&#39;s gift business, she must deliver a special Christmas card to her dad&#39;s former partner in Snow Falls, the hometown she never knew. When a snowstorm strands her at the town inn, she&#39;s forced to work for her keep, and in the process, finds romance and discovers the true gift of Christmas.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZHfgIeCqDu0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -206,7 +255,7 @@ The story of the kidnapping of 16-year-old John Paul Getty III and the desperate
 	
 
 ### Ferdinand
-*Released on 2017-12-09, vote average 7.3*
+*Released on 2017-12-09, vote average 6.8*
 
 Ferdinand, a little bull, prefers sitting quietly under a cork tree just smelling the flowers versus jumping around, snorting, and butting heads with other bulls. As Ferdinand grows big and strong, his temperament remains mellow, but one day five men come to choose the &#34;biggest, fastest, roughest bull&#34; for the bullfights in Madrid and Ferdinand is mistakenly chosen.  Based on the classic 1936 children&#39;s book by Munro Leaf.
 
@@ -227,8 +276,30 @@ Ferdinand, a little bull, prefers sitting quietly under a cork tree just smellin
 	
 	
 
+### The Current War
+*Released on 2017-12-22, vote average 3*
+
+Electricity titans Thomas Edison and George Westinghouse compete to create a sustainable system and market it to the American people.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wMECv6yLOFM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Ballad of Lefty Brown
-*Released on 2017-12-15, vote average 10*
+*Released on 2017-12-15, vote average 8*
 
 Aging sidekick Lefty Brown has ridden with Eddie Johnson his entire life. But when a rustler kills Eddie, Lefty is forced from his partner’s shadow and must confront the ugly realities of frontier justice.
 
@@ -241,16 +312,6 @@ Aging sidekick Lefty Brown has ridden with Eddie Johnson his entire life. But wh
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -286,50 +347,16 @@ After an inspiring chance encounter with his idol, rookie journalist Jay Bahadur
 	
 	
 
-### I, Tonya
-*Released on 2017-12-08, vote average 6.4*
+### El Camino Christmas
+*Released on 2017-12-08, vote average 6.7*
 
-Competitive ice skater Tonya Harding rises amongst the ranks at the U.S. Figure Skating Championships, but her future in the activity is thrown into doubt when her ex-husband intervenes.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/c_weoC3HT6Q?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Hollow in the Land
-*Released on 2017-12-08, vote average 6.5*
-
-With their father in prison for murder, siblings Alison and Brandon are instantly considered suspects when a string of killings plagues their town, and they must fight to clear their names.
+A young man seeking a father he has never met, through no fault of his own, ends up barricaded in a liquor store with five other people on Christmas Eve in the fictitious town of El Camino, NV.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/pgpSB8D2XTQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/8h5tAhXwma8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -341,6 +368,26 @@ With their father in prison for murder, siblings Alison and Brandon are instantl
 
 	
 	
+
+### Bright
+*Released on 2017-12-22, vote average 10*
+
+In an alternate present-day where magical creatures live among us, two L.A. cops become embroiled in a prophesied turf battle.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6EZCBSsBxko?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -350,44 +397,6 @@ With their father in prison for murder, siblings Alison and Brandon are instantl
 ## Opening soon
 
 
-	
-
-	
-	
-
-### Pitch Perfect 3
-*Released on 2017-12-21, vote average 4.6*
-
-After the highs of winning the world championships, the Bellas find themselves split apart and discovering there aren&#39;t job prospects for making music with your mouth. But when they get the chance to reunite for an overseas USO tour, this group of awesome nerds will come together to make some music, and some questionable decisions, one last time.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qZkuyLsN3gM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### All the Money in the World
-*Released on 2017-12-21, vote average 5.3*
-
-The story of the kidnapping of 16-year-old John Paul Getty III and the desperate attempt by his devoted mother to convince his billionaire grandfather Jean Paul Getty to pay the ransom.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/KXHrCBkIxQQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
@@ -407,8 +416,6 @@ A homicide detective teams up with a criminal profiler to catch a serial killer 
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
@@ -468,6 +475,29 @@ Electricity titans Thomas Edison and George Westinghouse compete to create a sus
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+	
+
+### Bright
+*Released on 2017-12-22, vote average 10*
+
+In an alternate present-day where magical creatures live among us, two L.A. cops become embroiled in a prophesied turf battle.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6EZCBSsBxko?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
 	
 
 	
