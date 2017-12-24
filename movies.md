@@ -69,7 +69,7 @@ The story of American showman P.T. Barnum, founder of the circus that became the
 	
 
 ### Pitch Perfect 3
-*Released on 2017-12-21, vote average 5.5*
+*Released on 2017-12-21, vote average 5.9*
 
 After the highs of winning the world championships, the Bellas find themselves split apart and discovering there aren&#39;t job prospects for making music with your mouth. But when they get the chance to reunite for an overseas USO tour, this group of awesome nerds will come together to make some music, and some questionable decisions, one last time.
 
@@ -90,16 +90,16 @@ After the highs of winning the world championships, the Bellas find themselves s
 	
 	
 
-### Hangman
-*Released on 2017-12-22, vote average 8.5*
+### The Post
+*Released on 2017-12-22, vote average 9.6*
 
-A homicide detective teams up with a criminal profiler to catch a serial killer whose crimes are inspired by the children&#39;s game, Hangman.
+A cover-up that spanned four U.S. Presidents pushed the country&#39;s first female newspaper publisher and a hard-driving editor to join an unprecedented battle between journalist and government. Inspired by true events.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/msfROsXKbws?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/nrXlY6gzTTM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,43 +134,16 @@ A kindly occupational therapist undergoes a new procedure to be shrunken to four
 	
 	
 
-### The Post
-*Released on 2017-12-22, vote average 9.6*
+### Hangman
+*Released on 2017-12-22, vote average 8.5*
 
-A cover-up that spanned four U.S. Presidents pushed the country&#39;s first female newspaper publisher and a hard-driving editor to join an unprecedented battle between journalist and government. Inspired by true events.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nrXlY6gzTTM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### All the Money in the World
-*Released on 2017-12-21, vote average 5.3*
-
-The story of the kidnapping of 16-year-old John Paul Getty III and the desperate attempt by his devoted mother to convince his billionaire grandfather Jean Paul Getty to pay the ransom.
+A homicide detective teams up with a criminal profiler to catch a serial killer whose crimes are inspired by the children&#39;s game, Hangman.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/KXHrCBkIxQQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/msfROsXKbws?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -193,6 +166,28 @@ To inherit her father&#39;s company, socialite Ellen must first visit his small 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/K4STcvndzbE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Hostiles
+*Released on 2017-12-22, vote average 6*
+
+The story centers on a legendary Native American-hating Army captain, nearing retirement in 1892, who is given one last assignment: to escort a Cheyenne chief and his family through dangerous territory back to his Montana reservation.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/asyLVVFuT7w?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -232,16 +227,16 @@ Electricity titans Thomas Edison and George Westinghouse compete to create a sus
 	
 	
 
-### Ferdinand
-*Released on 2017-12-09, vote average 6.8*
+### All the Money in the World
+*Released on 2017-12-21, vote average 5.3*
 
-Ferdinand, a little bull, prefers sitting quietly under a cork tree just smelling the flowers versus jumping around, snorting, and butting heads with other bulls. As Ferdinand grows big and strong, his temperament remains mellow, but one day five men come to choose the &#34;biggest, fastest, roughest bull&#34; for the bullfights in Madrid and Ferdinand is mistakenly chosen.  Based on the classic 1936 children&#39;s book by Munro Leaf.
+The story of the kidnapping of 16-year-old John Paul Getty III and the desperate attempt by his devoted mother to convince his billionaire grandfather Jean Paul Getty to pay the ransom.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/HBXVM7oUPVk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/KXHrCBkIxQQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -255,7 +250,7 @@ Ferdinand, a little bull, prefers sitting quietly under a cork tree just smellin
 	
 
 ### Bright
-*Released on 2017-12-22, vote average 6.7*
+*Released on 2017-12-22, vote average 6.6*
 
 In an alternate present-day where magical creatures live among us, two L.A. cops become embroiled in a prophesied turf battle.
 
@@ -325,6 +320,13 @@ Aging sidekick Lefty Brown has ridden with Eddie Johnson his entire life. But wh
   
 
 
+	
+	
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -336,11 +338,7 @@ Aging sidekick Lefty Brown has ridden with Eddie Johnson his entire life. But wh
 	
 
 	
-
 	
-	
-	
-
 	
 
 	
@@ -352,7 +350,7 @@ Aging sidekick Lefty Brown has ridden with Eddie Johnson his entire life. But wh
 	
 
 	
-
+	
 	
 
 	
@@ -368,7 +366,11 @@ Aging sidekick Lefty Brown has ridden with Eddie Johnson his entire life. But wh
 	
 
 	
+
 	
+
+	
+
 	
 
 	
