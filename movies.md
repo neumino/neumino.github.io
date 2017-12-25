@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Star Wars: The Last Jedi
-*Released on 2017-12-13, vote average 7.5*
+*Released on 2017-12-13, vote average 7.4*
 
 Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares to do battle with the First Order.
 
@@ -60,6 +60,11 @@ The story of American showman P.T. Barnum, founder of the circus that became the
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -135,7 +140,7 @@ A kindly occupational therapist undergoes a new procedure to be shrunken to four
 	
 
 ### Hangman
-*Released on 2017-12-22, vote average 8.5*
+*Released on 2017-12-22, vote average 7.6*
 
 A homicide detective teams up with a criminal profiler to catch a serial killer whose crimes are inspired by the children&#39;s game, Hangman.
 
@@ -200,35 +205,8 @@ The story centers on a legendary Native American-hating Army captain, nearing re
 	
 	
 
-### The Current War
-*Released on 2017-12-22, vote average 3*
-
-Electricity titans Thomas Edison and George Westinghouse compete to create a sustainable system and market it to the American people.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wMECv6yLOFM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### All the Money in the World
-*Released on 2017-12-21, vote average 5.3*
+*Released on 2017-12-21, vote average 4.8*
 
 The story of the kidnapping of 16-year-old John Paul Getty III and the desperate attempt by his devoted mother to convince his billionaire grandfather Jean Paul Getty to pay the ransom.
 
@@ -247,10 +225,15 @@ The story of the kidnapping of 16-year-old John Paul Getty III and the desperate
 
 
 	
+
+  
+
+
+	
 	
 
 ### Bright
-*Released on 2017-12-22, vote average 6.6*
+*Released on 2017-12-22, vote average 6.5*
 
 In an alternate present-day where magical creatures live among us, two L.A. cops become embroiled in a prophesied turf battle.
 
@@ -259,6 +242,28 @@ In an alternate present-day where magical creatures live among us, two L.A. cops
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/6EZCBSsBxko?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Current War
+*Released on 2017-12-22, vote average 3*
+
+Electricity titans Thomas Edison and George Westinghouse compete to create a sustainable system and market it to the American people.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wMECv6yLOFM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -316,11 +321,6 @@ Aging sidekick Lefty Brown has ridden with Eddie Johnson his entire life. But wh
 
 
 	
-
-  
-
-
-	
 	
 	
 
@@ -336,11 +336,7 @@ Aging sidekick Lefty Brown has ridden with Eddie Johnson his entire life. But wh
 	
 
 	
-
 	
-	
-	
-
 	
 
 	
@@ -350,7 +346,9 @@ Aging sidekick Lefty Brown has ridden with Eddie Johnson his entire life. But wh
 	
 
 	
+
 	
+
 	
 
 	
