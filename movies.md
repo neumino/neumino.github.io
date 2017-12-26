@@ -47,7 +47,7 @@ Rey develops her newly discovered abilities with the guidance of Luke Skywalker,
 	
 
 ### The Greatest Showman
-*Released on 2017-12-20, vote average 7.4*
+*Released on 2017-12-20, vote average 7*
 
 The story of American showman P.T. Barnum, founder of the circus that became the famous traveling Ringling Bros. and Barnum &amp; Bailey Circus.
 
@@ -117,16 +117,16 @@ A cover-up that spanned four U.S. Presidents pushed the country&#39;s first fema
 	
 	
 
-### Downsizing
-*Released on 2017-12-22, vote average 6.2*
+### Christmas Inheritance
+*Released on 2017-12-15, vote average 6.7*
 
-A kindly occupational therapist undergoes a new procedure to be shrunken to four inches tall so that he and his wife can help save the planet and afford a nice lifestyle at the same time.
+To inherit her father&#39;s company, socialite Ellen must first visit his small hometown, where she learns the value of hard work and helping others.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/bkadMe_Iqs4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/K4STcvndzbE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -161,16 +161,43 @@ A homicide detective teams up with a criminal profiler to catch a serial killer 
 	
 	
 
-### Christmas Inheritance
-*Released on 2017-12-15, vote average 6.7*
+### Downsizing
+*Released on 2017-12-22, vote average 6*
 
-To inherit her father&#39;s company, socialite Ellen must first visit his small hometown, where she learns the value of hard work and helping others.
+A kindly occupational therapist undergoes a new procedure to be shrunken to four inches tall so that he and his wife can help save the planet and afford a nice lifestyle at the same time.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/K4STcvndzbE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/bkadMe_Iqs4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Bright
+*Released on 2017-12-22, vote average 6.5*
+
+In an alternate present-day where magical creatures live among us, two L.A. cops become embroiled in a prophesied turf battle.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6EZCBSsBxko?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -204,6 +231,13 @@ The story centers on a legendary Native American-hating Army captain, nearing re
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### All the Money in the World
 *Released on 2017-12-21, vote average 4.8*
@@ -225,23 +259,18 @@ The story of the kidnapping of 16-year-old John Paul Getty III and the desperate
 
 
 	
-
-  
-
-
-	
 	
 
-### Bright
-*Released on 2017-12-22, vote average 6.5*
+### Father Figures
+*Released on 2017-12-21, vote average 4.7*
 
-In an alternate present-day where magical creatures live among us, two L.A. cops become embroiled in a prophesied turf battle.
+Upon learning that their mother has been lying to them for years about their allegedly deceased father, two fraternal twin brothers hit the road in order to find him.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/6EZCBSsBxko?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/VNZEtLfShMQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -315,18 +344,6 @@ Aging sidekick Lefty Brown has ridden with Eddie Johnson his entire life. But wh
   
 
 
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -335,8 +352,6 @@ Aging sidekick Lefty Brown has ridden with Eddie Johnson his entire life. But wh
 
 	
 
-	
-	
 	
 
 	
