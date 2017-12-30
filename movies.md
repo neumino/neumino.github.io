@@ -45,13 +45,6 @@ The story of American showman P.T. Barnum, founder of the circus that became the
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Pitch Perfect 3
 *Released on 2017-12-21, vote average 6.3*
@@ -66,6 +59,13 @@ After the highs of winning the world championships, the Bellas find themselves s
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -97,30 +97,8 @@ A cover-up that spanned four U.S. Presidents pushed the country&#39;s first fema
 	
 	
 
-### Christmas Inheritance
-*Released on 2017-12-15, vote average 6.6*
-
-To inherit her father&#39;s company, socialite Ellen must first visit his small hometown, where she learns the value of hard work and helping others.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/K4STcvndzbE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Bright
-*Released on 2017-12-22, vote average 6.4*
+*Released on 2017-12-22, vote average 6.5*
 
 In an alternate present-day where magical creatures live among us, two L.A. cops become embroiled in a prophesied turf battle.
 
@@ -142,7 +120,7 @@ In an alternate present-day where magical creatures live among us, two L.A. cops
 	
 
 ### Downsizing
-*Released on 2017-12-22, vote average 5.6*
+*Released on 2017-12-22, vote average 5.5*
 
 A kindly occupational therapist undergoes a new procedure to be shrunken to four inches tall so that he and his wife can help save the planet and afford a nice lifestyle at the same time.
 
@@ -151,28 +129,6 @@ A kindly occupational therapist undergoes a new procedure to be shrunken to four
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/bkadMe_Iqs4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Hostiles
-*Released on 2017-12-22, vote average 4.8*
-
-The story centers on a legendary Native American-hating Army captain, nearing retirement in 1892, who is given one last assignment: to escort a Cheyenne chief and his family through dangerous territory back to his Montana reservation.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/asyLVVFuT7w?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -207,16 +163,16 @@ Molly Bloom, a young skier and former Olympic hopeful becomes a successful entre
 	
 	
 
-### Phantom Thread
-*Released on 2017-12-25, vote average 10*
+### Hostiles
+*Released on 2017-12-22, vote average 4.8*
 
-In the glamour of 1950s post-war London, renowned dressmaker Reynolds Woodcock and his sister Cyril are at the center of British fashion, dressing royalty, movie stars, heiresses, socialites, debutants and dames with the distinct style of The House of Woodcock. Women come and go through Woodcock’s life, providing the confirmed bachelor with inspiration and companionship, until he comes across a young, strong-willed woman, Alma, who soon becomes a fixture in his life as his muse and lover. Once controlled and planned, he finds his carefully tailored life disrupted by love.
+The story centers on a legendary Native American-hating Army captain, nearing retirement in 1892, who is given one last assignment: to escort a Cheyenne chief and his family through dangerous territory back to his Montana reservation.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xNsiQMeSvMk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/asyLVVFuT7w?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -230,7 +186,7 @@ In the glamour of 1950s post-war London, renowned dressmaker Reynolds Woodcock a
 	
 
 ### All the Money in the World
-*Released on 2017-12-21, vote average 5.6*
+*Released on 2017-12-21, vote average 5.5*
 
 The story of the kidnapping of 16-year-old John Paul Getty III and the desperate attempt by his devoted mother to convince his billionaire grandfather Jean Paul Getty to pay the ransom.
 
@@ -251,8 +207,30 @@ The story of the kidnapping of 16-year-old John Paul Getty III and the desperate
 	
 	
 
+### Phantom Thread
+*Released on 2017-12-25, vote average 8*
+
+In the glamour of 1950s post-war London, renowned dressmaker Reynolds Woodcock and his sister Cyril are at the center of British fashion, dressing royalty, movie stars, heiresses, socialites, debutants and dames with the distinct style of The House of Woodcock. Women come and go through Woodcock’s life, providing the confirmed bachelor with inspiration and companionship, until he comes across a young, strong-willed woman, Alma, who soon becomes a fixture in his life as his muse and lover. Once controlled and planned, he finds his carefully tailored life disrupted by love.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xNsiQMeSvMk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Hangman
-*Released on 2017-12-22, vote average 7.3*
+*Released on 2017-12-22, vote average 6.5*
 
 A homicide detective teams up with a criminal profiler to catch a serial killer whose crimes are inspired by the children&#39;s game, Hangman.
 
@@ -293,42 +271,10 @@ Upon learning that their mother has been lying to them for years about their all
 
 
 	
-
-  
-
-
-	
-	
-
-### The Ballad of Lefty Brown
-*Released on 2017-12-15, vote average 8*
-
-Aging sidekick Lefty Brown has ridden with Eddie Johnson his entire life. But when a rustler kills Eddie, Lefty is forced from his partner’s shadow and must confront the ugly realities of frontier justice.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Sv2khM97ylU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### Tiger Zinda Hai
-*Released on 2017-12-18, vote average 6.3*
+*Released on 2017-12-18, vote average 7.2*
 
 RAW agent Tiger/Avinash Singh Rathore returns from the dead to take on an international terrorist organisation but this time he has his wife Zoya by his side.
 
@@ -340,6 +286,20 @@ RAW agent Tiger/Avinash Singh Rathore returns from the dead to take on an intern
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -378,11 +338,38 @@ Electricity titans Thomas Edison and George Westinghouse compete to create a sus
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
 
 ## Opening soon
 
 
 	
+	
+
+### Insidious: The Last Key
+*Released on 2018-01-03, vote average 7.5*
+
+Parapsychologist Elise Rainier and her team travel to Five Keys, N.M., to investigate a man&#39;s claim of a haunting. Terror soon strikes when Rainier realizes that the house he lives in was her family&#39;s old home.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/acQyrwQyCOk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
@@ -417,11 +404,11 @@ Electricity titans Thomas Edison and George Westinghouse compete to create a sus
 	
 
 	
-	
-	
 
 	
 
+	
+	
 	
 
 
