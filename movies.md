@@ -47,7 +47,7 @@ The story of American showman P.T. Barnum, founder of the circus that became the
 	
 
 ### Pitch Perfect 3
-*Released on 2017-12-21, vote average 6.4*
+*Released on 2017-12-21, vote average 6.3*
 
 After the highs of winning the world championships, the Bellas find themselves split apart and discovering there aren&#39;t job prospects for making music with your mouth. But when they get the chance to reunite for an overseas USO tour, this group of awesome nerds will come together to make some music, and some questionable decisions, one last time.
 
@@ -59,13 +59,6 @@ After the highs of winning the world championships, the Bellas find themselves s
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -162,9 +155,38 @@ The story centers on a legendary Native American-hating Army captain, nearing re
 
 	
 	
+	
+
+  
+
+
+	
+	
+
+### All the Money in the World
+*Released on 2017-12-21, vote average 5.5*
+
+The story of the kidnapping of 16-year-old John Paul Getty III and the desperate attempt by his devoted mother to convince his billionaire grandfather Jean Paul Getty to pay the ransom.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KXHrCBkIxQQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
 
 ### Molly&#39;s Game
-*Released on 2017-12-21, vote average 5.2*
+*Released on 2017-12-21, vote average 6.2*
 
 Molly Bloom, a young skier and former Olympic hopeful becomes a successful entrepreneur (and a target of an FBI investigation) when she establishes a high-stakes, international poker game.
 
@@ -185,16 +207,16 @@ Molly Bloom, a young skier and former Olympic hopeful becomes a successful entre
 	
 	
 
-### All the Money in the World
-*Released on 2017-12-21, vote average 5.2*
+### Phantom Thread
+*Released on 2017-12-25, vote average 6.5*
 
-The story of the kidnapping of 16-year-old John Paul Getty III and the desperate attempt by his devoted mother to convince his billionaire grandfather Jean Paul Getty to pay the ransom.
+In the glamour of 1950s post-war London, renowned dressmaker Reynolds Woodcock and his sister Cyril are at the center of British fashion, dressing royalty, movie stars, heiresses, socialites, debutants and dames with the distinct style of The House of Woodcock. Women come and go through Woodcock’s life, providing the confirmed bachelor with inspiration and companionship, until he comes across a young, strong-willed woman, Alma, who soon becomes a fixture in his life as his muse and lover. Once controlled and planned, he finds his carefully tailored life disrupted by love.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/KXHrCBkIxQQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xNsiQMeSvMk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -229,30 +251,8 @@ A homicide detective teams up with a criminal profiler to catch a serial killer 
 	
 	
 
-### Phantom Thread
-*Released on 2017-12-25, vote average 8*
-
-In the glamour of 1950s post-war London, renowned dressmaker Reynolds Woodcock and his sister Cyril are at the center of British fashion, dressing royalty, movie stars, heiresses, socialites, debutants and dames with the distinct style of The House of Woodcock. Women come and go through Woodcock’s life, providing the confirmed bachelor with inspiration and companionship, until he comes across a young, strong-willed woman, Alma, who soon becomes a fixture in his life as his muse and lover. Once controlled and planned, he finds his carefully tailored life disrupted by love.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xNsiQMeSvMk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Father Figures
-*Released on 2017-12-21, vote average 4.7*
+*Released on 2017-12-21, vote average 4.2*
 
 Upon learning that their mother has been lying to them for years about their allegedly deceased father, two fraternal twin brothers hit the road in order to find him.
 
@@ -298,6 +298,11 @@ Electricity titans Thomas Edison and George Westinghouse compete to create a sus
 
 
 	
+
+  
+
+
+	
 	
 
 ### Tiger Zinda Hai
@@ -335,10 +340,7 @@ RAW agent Tiger/Avinash Singh Rathore returns from the dead to take on an intern
 
 
 	
-
-  
-
-
+	
 	
 
   
@@ -379,8 +381,6 @@ Parapsychologist Elise Rainier and her team travel to Five Keys, N.M., to invest
 
 	
 
-	
-	
 	
 
 	
