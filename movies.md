@@ -69,7 +69,7 @@ After the highs of winning the world championships, the Bellas find themselves s
 	
 
 ### The Post
-*Released on 2017-12-22, vote average 6.6*
+*Released on 2017-12-22, vote average 5.9*
 
 A cover-up that spanned four U.S. Presidents pushed the country&#39;s first female newspaper publisher and a hard-driving editor to join an unprecedented battle between journalist and government. Inspired by true events.
 
@@ -156,8 +156,30 @@ The story centers on a legendary Native American-hating Army captain, nearing re
 	
 	
 
+### Insidious: The Last Key
+*Released on 2018-01-03, vote average 6.1*
+
+Parapsychologist Elise Rainier and her team travel to Five Keys, N.M., to investigate a man&#39;s claim of a haunting. Terror soon strikes when Rainier realizes that the house he lives in was her family&#39;s old home.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/acQyrwQyCOk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Molly&#39;s Game
-*Released on 2017-12-21, vote average 6.2*
+*Released on 2017-12-21, vote average 6.8*
 
 Molly Bloom, a young skier and former Olympic hopeful becomes a successful entrepreneur (and a target of an FBI investigation) when she establishes a high-stakes, international poker game.
 
@@ -177,16 +199,9 @@ Molly Bloom, a young skier and former Olympic hopeful becomes a successful entre
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### All the Money in the World
-*Released on 2017-12-21, vote average 5.5*
+*Released on 2017-12-21, vote average 5.2*
 
 The story of the kidnapping of 16-year-old John Paul Getty III and the desperate attempt by his devoted mother to convince his billionaire grandfather Jean Paul Getty to pay the ransom.
 
@@ -271,21 +286,6 @@ Upon learning that their mother has been lying to them for years about their all
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### The Current War
@@ -323,6 +323,40 @@ Electricity titans Thomas Edison and George Westinghouse compete to create a sus
 
 
 	
+	
+
+### Dave Chappelle: Equanimity
+*Released on 2017-12-30, vote average 8.7*
+
+Comedy legend Dave Chappelle returns to his roots with an all-new stand-up special filmed at the Warner Theatre in Washington, D.C.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/cZ5AmFo4vbY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 
   
 
@@ -335,7 +369,7 @@ Electricity titans Thomas Edison and George Westinghouse compete to create a sus
 	
 
 ### Insidious: The Last Key
-*Released on 2018-01-03, vote average 5.7*
+*Released on 2018-01-03, vote average 6.1*
 
 Parapsychologist Elise Rainier and her team travel to Five Keys, N.M., to investigate a man&#39;s claim of a haunting. Terror soon strikes when Rainier realizes that the house he lives in was her family&#39;s old home.
 
