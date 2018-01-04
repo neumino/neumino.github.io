@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### The Greatest Showman
-*Released on 2017-12-20, vote average 8*
+### Pitch Perfect 3
+*Released on 2017-12-21, vote average 6.2*
 
-The story of American showman P.T. Barnum, founder of the circus that became the famous traveling Ringling Bros. and Barnum &amp; Bailey Circus.
+After the highs of winning the world championships, the Bellas find themselves split apart and discovering there aren&#39;t job prospects for making music with your mouth. But when they get the chance to reunite for an overseas USO tour, this group of awesome nerds will come together to make some music, and some questionable decisions, one last time.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/jr9QtXwC9vc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/qZkuyLsN3gM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,28 +46,6 @@ The story of American showman P.T. Barnum, founder of the circus that became the
 	
 	
 
-### Pitch Perfect 3
-*Released on 2017-12-21, vote average 6.3*
-
-After the highs of winning the world championships, the Bellas find themselves split apart and discovering there aren&#39;t job prospects for making music with your mouth. But when they get the chance to reunite for an overseas USO tour, this group of awesome nerds will come together to make some music, and some questionable decisions, one last time.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qZkuyLsN3gM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Post
 *Released on 2017-12-22, vote average 5.9*
 
@@ -78,28 +56,6 @@ A cover-up that spanned four U.S. Presidents pushed the country&#39;s first fema
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/nrXlY6gzTTM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Bright
-*Released on 2017-12-22, vote average 6.4*
-
-In an alternate present-day where magical creatures live among us, two L.A. cops become embroiled in a prophesied turf battle.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/6EZCBSsBxko?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,6 +90,50 @@ A kindly occupational therapist undergoes a new procedure to be shrunken to four
 	
 	
 
+### Bright
+*Released on 2017-12-22, vote average 6.4*
+
+In an alternate present-day where magical creatures live among us, two L.A. cops become embroiled in a prophesied turf battle.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6EZCBSsBxko?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Insidious: The Last Key
+*Released on 2018-01-03, vote average 7.5*
+
+Parapsychologist Elise Rainier and her team travel to Five Keys, N.M., to investigate a man&#39;s claim of a haunting. Terror soon strikes when Rainier realizes that the house he lives in was her family&#39;s old home.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/acQyrwQyCOk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Hostiles
 *Released on 2017-12-22, vote average 4.8*
 
@@ -156,30 +156,8 @@ The story centers on a legendary Native American-hating Army captain, nearing re
 	
 	
 
-### Insidious: The Last Key
-*Released on 2018-01-03, vote average 6.1*
-
-Parapsychologist Elise Rainier and her team travel to Five Keys, N.M., to investigate a man&#39;s claim of a haunting. Terror soon strikes when Rainier realizes that the house he lives in was her family&#39;s old home.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/acQyrwQyCOk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Molly&#39;s Game
-*Released on 2017-12-21, vote average 6.8*
+*Released on 2017-12-21, vote average 7.1*
 
 Molly Bloom, a young skier and former Olympic hopeful becomes a successful entrepreneur (and a target of an FBI investigation) when she establishes a high-stakes, international poker game.
 
@@ -198,10 +176,15 @@ Molly Bloom, a young skier and former Olympic hopeful becomes a successful entre
 
 
 	
+
+  
+
+
+	
 	
 
 ### All the Money in the World
-*Released on 2017-12-21, vote average 5.2*
+*Released on 2017-12-21, vote average 5.4*
 
 The story of the kidnapping of 16-year-old John Paul Getty III and the desperate attempt by his devoted mother to convince his billionaire grandfather Jean Paul Getty to pay the ransom.
 
@@ -245,7 +228,7 @@ In the glamour of 1950s post-war London, renowned dressmaker Reynolds Woodcock a
 	
 
 ### Hangman
-*Released on 2017-12-22, vote average 6.5*
+*Released on 2017-12-22, vote average 6.1*
 
 A homicide detective teams up with a criminal profiler to catch a serial killer whose crimes are inspired by the children&#39;s game, Hangman.
 
@@ -276,6 +259,38 @@ Upon learning that their mother has been lying to them for years about their all
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/VNZEtLfShMQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Dave Chappelle: Equanimity
+*Released on 2017-12-30, vote average 8.7*
+
+Comedy legend Dave Chappelle returns to his roots with an all-new stand-up special filmed at the Warner Theatre in Washington, D.C.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/cZ5AmFo4vbY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -318,39 +333,7 @@ Electricity titans Thomas Edison and George Westinghouse compete to create a sus
 
 
 	
-
-  
-
-
 	
-	
-
-### Dave Chappelle: Equanimity
-*Released on 2017-12-30, vote average 8.7*
-
-Comedy legend Dave Chappelle returns to his roots with an all-new stand-up special filmed at the Warner Theatre in Washington, D.C.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cZ5AmFo4vbY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 	
 
   
@@ -365,23 +348,6 @@ Comedy legend Dave Chappelle returns to his roots with an all-new stand-up speci
 ## Opening soon
 
 
-	
-	
-
-### Insidious: The Last Key
-*Released on 2018-01-03, vote average 6.1*
-
-Parapsychologist Elise Rainier and her team travel to Five Keys, N.M., to investigate a man&#39;s claim of a haunting. Terror soon strikes when Rainier realizes that the house he lives in was her family&#39;s old home.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/acQyrwQyCOk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
