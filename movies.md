@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Pitch Perfect 3
-*Released on 2017-12-21, vote average 6.2*
+### The Post
+*Released on 2017-12-22, vote average 6.1*
 
-After the highs of winning the world championships, the Bellas find themselves split apart and discovering there aren&#39;t job prospects for making music with your mouth. But when they get the chance to reunite for an overseas USO tour, this group of awesome nerds will come together to make some music, and some questionable decisions, one last time.
+A cover-up that spanned four U.S. Presidents pushed the country&#39;s first female newspaper publisher and a hard-driving editor to join an unprecedented battle between journalist and government. Inspired by true events.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/qZkuyLsN3gM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/nrXlY6gzTTM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,28 +46,6 @@ After the highs of winning the world championships, the Bellas find themselves s
 	
 	
 
-### The Post
-*Released on 2017-12-22, vote average 5.9*
-
-A cover-up that spanned four U.S. Presidents pushed the country&#39;s first female newspaper publisher and a hard-driving editor to join an unprecedented battle between journalist and government. Inspired by true events.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nrXlY6gzTTM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Downsizing
 *Released on 2017-12-22, vote average 5.5*
 
@@ -78,28 +56,6 @@ A kindly occupational therapist undergoes a new procedure to be shrunken to four
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/bkadMe_Iqs4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Bright
-*Released on 2017-12-22, vote average 6.4*
-
-In an alternate present-day where magical creatures live among us, two L.A. cops become embroiled in a prophesied turf battle.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/6EZCBSsBxko?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,8 +90,30 @@ Parapsychologist Elise Rainier and her team travel to Five Keys, N.M., to invest
 	
 	
 
+### Bright
+*Released on 2017-12-22, vote average 6.4*
+
+In an alternate present-day where magical creatures live among us, two L.A. cops become embroiled in a prophesied turf battle.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6EZCBSsBxko?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Hostiles
-*Released on 2017-12-22, vote average 4.8*
+*Released on 2017-12-22, vote average 5.1*
 
 The story centers on a legendary Native American-hating Army captain, nearing retirement in 1892, who is given one last assignment: to escort a Cheyenne chief and his family through dangerous territory back to his Montana reservation.
 
@@ -154,28 +132,6 @@ The story centers on a legendary Native American-hating Army captain, nearing re
 
 
 	
-	
-
-### Molly&#39;s Game
-*Released on 2017-12-21, vote average 7.1*
-
-Molly Bloom, a young skier and former Olympic hopeful becomes a successful entrepreneur (and a target of an FBI investigation) when she establishes a high-stakes, international poker game.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Vu4UPet8Nyc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 
   
 
@@ -183,16 +139,16 @@ Molly Bloom, a young skier and former Olympic hopeful becomes a successful entre
 	
 	
 
-### All the Money in the World
-*Released on 2017-12-21, vote average 5.4*
+### Hangman
+*Released on 2017-12-22, vote average 6.1*
 
-The story of the kidnapping of 16-year-old John Paul Getty III and the desperate attempt by his devoted mother to convince his billionaire grandfather Jean Paul Getty to pay the ransom.
+A homicide detective teams up with a criminal profiler to catch a serial killer whose crimes are inspired by the children&#39;s game, Hangman.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/KXHrCBkIxQQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/msfROsXKbws?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -225,18 +181,33 @@ In the glamour of 1950s post-war London, renowned dressmaker Reynolds Woodcock a
 
 
 	
+
+  
+
+
 	
 
-### Hangman
-*Released on 2017-12-22, vote average 6.1*
+  
 
-A homicide detective teams up with a criminal profiler to catch a serial killer whose crimes are inspired by the children&#39;s game, Hangman.
+
+	
+
+  
+
+
+	
+	
+
+### The Current War
+*Released on 2017-12-22, vote average 4.3*
+
+Electricity titans Thomas Edison and George Westinghouse compete to create a sustainable system and market it to the American people.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/msfROsXKbws?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/wMECv6yLOFM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -249,25 +220,20 @@ A homicide detective teams up with a criminal profiler to catch a serial killer 
 	
 	
 
-### Father Figures
-*Released on 2017-12-21, vote average 4.4*
+### The Leisure Seeker
+*Released on 2018-01-03, vote average 6*
 
-Upon learning that their mother has been lying to them for years about their allegedly deceased father, two fraternal twin brothers hit the road in order to find him.
+A runaway couple going on an unforgettable journey in the faithful old RV they call The Leisure Seeker, traveling from Boston to Key West. They recapture their passion for life and their love for each other on a road trip that provides revelation and surprise right up to the very end.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/VNZEtLfShMQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/VGGKsVFslJ8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -303,16 +269,38 @@ Comedy legend Dave Chappelle returns to his roots with an all-new stand-up speci
 	
 	
 
-### The Current War
-*Released on 2017-12-22, vote average 4.3*
+### Escape from Mr. Lemoncello&#39;s Library
+*Released on 2017-12-26, vote average 3.7*
 
-Electricity titans Thomas Edison and George Westinghouse compete to create a sustainable system and market it to the American people.
+Can twelve 12-year-olds escape from the most ridiculously brilliant library ever created? Escape from Mr. Lemoncello&#39;s Library plunks a dozen sixth-graders into the middle of a futuristic library for a night of nonstop fun and adventure.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/wMECv6yLOFM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/M1nOp0Poom4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Mayaanadhi
+*Released on 2017-12-22, vote average 8*
+
+After a deal goes wrong in Kodaikanal, Mathan (Tovino) rushes to Kochi and meets his past love interest Aparna (Aishwarya Lakshmi). What follows is a volatile but passionate relationship as Aparna struggles to make it as an actress and Mathan is still chased by cops.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/RYYxyNxr_4E?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -327,13 +315,6 @@ Electricity titans Thomas Edison and George Westinghouse compete to create a sus
   
 
 
-	
-
-  
-
-
-	
-	
 	
 
   
