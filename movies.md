@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Insidious: The Last Key
-*Released on 2018-01-03, vote average 6.9*
+*Released on 2018-01-03, vote average 6.8*
 
 Parapsychologist Elise Rainier and her team travel to Five Keys, N.M., to investigate a man&#39;s claim of a haunting. Terror soon strikes when Rainier realizes that the house he lives in was her family&#39;s old home.
 
@@ -47,7 +47,7 @@ Parapsychologist Elise Rainier and her team travel to Five Keys, N.M., to invest
 	
 
 ### Day of the Dead: Bloodline
-*Released on 2018-01-04, vote average 3.3*
+*Released on 2018-01-04, vote average 5*
 
 In a world overrun by zombies, military personnel and survivalists live in an underground bunker while they seek a cure.
 
@@ -115,6 +115,21 @@ In the glamour of 1950s post-war London, renowned dressmaker Reynolds Woodcock a
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### Dave Chappelle: The Bird Revelation
@@ -137,10 +152,62 @@ Comedy juggernaut Dave Chappelle&#39;s fourth Netflix Special, taped on November
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Arif V 216
+*Released on 2018-01-05, vote average 8.5*
+
+Arif V 216 is the sequel of G.O.R.A.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/p4FjN5DF-QQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### Dave Chappelle: Equanimity
-*Released on 2017-12-30, vote average 8.8*
+*Released on 2017-12-30, vote average 9*
 
 Comedy legend Dave Chappelle returns to his roots with an all-new stand-up special filmed at the Warner Theatre in Washington, D.C.
 
@@ -169,58 +236,6 @@ Comedy legend Dave Chappelle returns to his roots with an all-new stand-up speci
 
 
 	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 
   
 
@@ -229,6 +244,23 @@ Comedy legend Dave Chappelle returns to his roots with an all-new stand-up speci
 ## Opening soon
 
 
+	
+	
+
+### The Commuter
+*Released on 2018-01-11, vote average 1*
+
+A businessman on his daily commute home gets unwittingly caught up in a criminal conspiracy that threatens not only his life but the lives of those around him.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/aDshY43Ol2U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
