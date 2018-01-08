@@ -47,7 +47,7 @@ Parapsychologist Elise Rainier and her team travel to Five Keys, N.M., to invest
 	
 
 ### Day of the Dead: Bloodline
-*Released on 2018-01-04, vote average 5*
+*Released on 2018-01-04, vote average 5.5*
 
 In a world overrun by zombies, military personnel and survivalists live in an underground bunker while they seek a cure.
 
@@ -115,53 +115,6 @@ In the glamour of 1950s post-war London, renowned dressmaker Reynolds Woodcock a
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Dave Chappelle: The Bird Revelation
-*Released on 2017-12-31, vote average 9*
-
-Comedy juggernaut Dave Chappelle&#39;s fourth Netflix Special, taped on November 20th, 2017 at Los Angeles&#39; Comedy Store.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/r6TlioPZElk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### Arif V 216
@@ -184,10 +137,22 @@ Arif V 216 is the sequel of G.O.R.A.
 
 
 	
+	
 
-  
+### Dave Chappelle: The Bird Revelation
+*Released on 2017-12-31, vote average 9*
 
+Comedy juggernaut Dave Chappelle&#39;s fourth Netflix Special, taped on November 20th, 2017 at Los Angeles&#39; Comedy Store.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/r6TlioPZElk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -240,6 +205,60 @@ Comedy legend Dave Chappelle returns to his roots with an all-new stand-up speci
   
 
 
+	
+
+  
+
+
+	
+	
+
+### Escape from Mr. Lemoncello&#39;s Library
+*Released on 2017-12-26, vote average 3.7*
+
+Can twelve 12-year-olds escape from the most ridiculously brilliant library ever created? Escape from Mr. Lemoncello&#39;s Library plunks a dozen sixth-graders into the middle of a futuristic library for a night of nonstop fun and adventure.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/M1nOp0Poom4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -248,7 +267,7 @@ Comedy legend Dave Chappelle returns to his roots with an all-new stand-up speci
 	
 
 ### The Commuter
-*Released on 2018-01-11, vote average 1*
+*Released on 2018-01-11, vote average 3*
 
 A businessman on his daily commute home gets unwittingly caught up in a criminal conspiracy that threatens not only his life but the lives of those around him.
 
