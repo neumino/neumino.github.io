@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Insidious: The Last Key
-*Released on 2018-01-03, vote average 6.8*
+*Released on 2018-01-03, vote average 6.6*
 
 Parapsychologist Elise Rainier and her team travel to Five Keys, N.M., to investigate a man&#39;s claim of a haunting. Terror soon strikes when Rainier realizes that the house he lives in was her family&#39;s old home.
 
@@ -47,7 +47,7 @@ Parapsychologist Elise Rainier and her team travel to Five Keys, N.M., to invest
 	
 
 ### Day of the Dead: Bloodline
-*Released on 2018-01-04, vote average 5.5*
+*Released on 2018-01-04, vote average 5.6*
 
 In a world overrun by zombies, military personnel and survivalists live in an underground bunker while they seek a cure.
 
@@ -88,18 +88,23 @@ A runaway couple going on an unforgettable journey in the faithful old RV they c
 
 
 	
+
+  
+
+
+	
 	
 
-### Phantom Thread
-*Released on 2017-12-25, vote average 6.8*
+### The Current War
+*Released on 2018-01-05, vote average 3.6*
 
-In the glamour of 1950s post-war London, renowned dressmaker Reynolds Woodcock and his sister Cyril are at the center of British fashion, dressing royalty, movie stars, heiresses, socialites, debutants and dames with the distinct style of The House of Woodcock. Women come and go through Woodcock’s life, providing the confirmed bachelor with inspiration and companionship, until he comes across a young, strong-willed woman, Alma, who soon becomes a fixture in his life as his muse and lover. Once controlled and planned, he finds his carefully tailored life disrupted by love.
+Electricity titans Thomas Edison and George Westinghouse compete to create a sustainable system and market it to the American people.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xNsiQMeSvMk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/wMECv6yLOFM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -131,6 +136,28 @@ Arif V 216 is the sequel of G.O.R.A.
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -169,6 +196,31 @@ Comedy juggernaut Dave Chappelle&#39;s fourth Netflix Special, taped on November
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### Dave Chappelle: Equanimity
@@ -185,75 +237,6 @@ Comedy legend Dave Chappelle returns to his roots with an all-new stand-up speci
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Escape from Mr. Lemoncello&#39;s Library
-*Released on 2017-12-26, vote average 3.7*
-
-Can twelve 12-year-olds escape from the most ridiculously brilliant library ever created? Escape from Mr. Lemoncello&#39;s Library plunks a dozen sixth-graders into the middle of a futuristic library for a night of nonstop fun and adventure.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/M1nOp0Poom4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
