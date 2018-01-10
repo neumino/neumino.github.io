@@ -47,7 +47,7 @@ Parapsychologist Elise Rainier and her team travel to Five Keys, N.M., to invest
 	
 
 ### Day of the Dead: Bloodline
-*Released on 2018-01-04, vote average 5.6*
+*Released on 2018-01-04, vote average 5.4*
 
 In a world overrun by zombies, military personnel and survivalists live in an underground bunker while they seek a cure.
 
@@ -88,6 +88,13 @@ A runaway couple going on an unforgettable journey in the faithful old RV they c
 
 
 	
+	
+	
+
+  
+
+
+	
 
   
 
@@ -114,6 +121,30 @@ Electricity titans Thomas Edison and George Westinghouse compete to create a sus
   
 
 
+	
+	
+	
+
+  
+
+
+	
+	
+
+### The Strange Ones
+*Released on 2018-01-05, vote average 7*
+
+Mysterious events surround the travels of two brothers as they make their way across a remote American landscape. On the surface all seems normal, but what appears to be a simple vacation soon gives way to a dark and complex web of secrets. This is the feature film version of the 2011 short film going by the same name.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zfV2ERT4664?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -142,40 +173,18 @@ Arif V 216 is the sequel of G.O.R.A.
 
 
 	
-
-  
-
-
-	
-	
 	
 
-  
+### The Beyond
+*Released on 2018-01-09, vote average 2.7*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Dave Chappelle: The Bird Revelation
-*Released on 2017-12-31, vote average 9*
-
-Comedy juggernaut Dave Chappelle&#39;s fourth Netflix Special, taped on November 20th, 2017 at Los Angeles&#39; Comedy Store.
+Set in 2019, The Beyond chronicles the groundbreaking mission which sent astronauts - modified with advanced robotics, through a newly discovered wormhole known as the Void. When the mission returns unexpectedly, the space agency races to discover what the astronauts encountered on their first of its kind interstellar space journey.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/r6TlioPZElk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/x2cuW62yGr0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -221,22 +230,15 @@ Comedy juggernaut Dave Chappelle&#39;s fourth Netflix Special, taped on November
 
 
 	
-	
 
-### Dave Chappelle: Equanimity
-*Released on 2017-12-30, vote average 9*
+  
 
-Comedy legend Dave Chappelle returns to his roots with an all-new stand-up special filmed at the Warner Theatre in Washington, D.C.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cZ5AmFo4vbY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
 	
 
   
