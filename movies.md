@@ -47,7 +47,7 @@ Parapsychologist Elise Rainier and her team travel to Five Keys, N.M., to invest
 	
 
 ### Day of the Dead: Bloodline
-*Released on 2018-01-04, vote average 5.4*
+*Released on 2018-01-04, vote average 5.2*
 
 In a world overrun by zombies, military personnel and survivalists live in an underground bunker while they seek a cure.
 
@@ -56,6 +56,28 @@ In a world overrun by zombies, military personnel and survivalists live in an un
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/3hhFT3vCeko?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Commuter
+*Released on 2018-01-11, vote average 3.1*
+
+A businessman on his daily commute home gets unwittingly caught up in a criminal conspiracy that threatens not only his life but the lives of those around him.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/aDshY43Ol2U?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -95,6 +117,8 @@ A runaway couple going on an unforgettable journey in the faithful old RV they c
 
 
 	
+	
+	
 
   
 
@@ -102,16 +126,16 @@ A runaway couple going on an unforgettable journey in the faithful old RV they c
 	
 	
 
-### The Current War
-*Released on 2018-01-05, vote average 3.6*
+### The Beyond
+*Released on 2018-01-09, vote average 5.2*
 
-Electricity titans Thomas Edison and George Westinghouse compete to create a sustainable system and market it to the American people.
+Set in 2019, The Beyond chronicles the groundbreaking mission which sent astronauts - modified with advanced robotics, through a newly discovered wormhole known as the Void. When the mission returns unexpectedly, the space agency races to discover what the astronauts encountered on their first of its kind interstellar space journey.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/wMECv6yLOFM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/x2cuW62yGr0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -122,8 +146,6 @@ Electricity titans Thomas Edison and George Westinghouse compete to create a sus
 
 
 	
-	
-	
 
   
 
@@ -131,16 +153,16 @@ Electricity titans Thomas Edison and George Westinghouse compete to create a sus
 	
 	
 
-### The Strange Ones
-*Released on 2018-01-05, vote average 7*
+### Scooby-Doo! &amp; Batman: The Brave and the Bold
+*Released on 2018-01-09, vote average 10*
 
-Mysterious events surround the travels of two brothers as they make their way across a remote American landscape. On the surface all seems normal, but what appears to be a simple vacation soon gives way to a dark and complex web of secrets. This is the feature film version of the 2011 short film going by the same name.
+Batman teams up with the Scooby gang when villains from both of their worlds unite to wreak havoc on the city. Featuring classic DC villains like the Joker, Catwoman, Harley Quinn and the Riddler  alongside heroes like Aquaman, Black Canary, and Plastic Man. Also featuring classic Scooby-Doo villains like the Ghost Clown, Space Kook, and Miner 49er.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/zfV2ERT4664?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Qf3xIcaCBEk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -173,37 +195,32 @@ Arif V 216 is the sequel of G.O.R.A.
 
 
 	
+
+  
+
+
 	
 
-### The Beyond
-*Released on 2018-01-09, vote average 2.7*
+  
 
-Set in 2019, The Beyond chronicles the groundbreaking mission which sent astronauts - modified with advanced robotics, through a newly discovered wormhole known as the Void. When the mission returns unexpectedly, the space agency races to discover what the astronauts encountered on their first of its kind interstellar space journey.
+
+	
+	
+
+### A Tale of Two Coreys
+*Released on 2018-01-06, vote average 6*
+
+The story of teen heartthrobs Corey Feldman and Corey Haim, whose lives were forever changed by the glitz, glamour, and the darker side of show business.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/x2cuW62yGr0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/X8lJJcedIiU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -252,7 +269,7 @@ Set in 2019, The Beyond chronicles the groundbreaking mission which sent astrona
 	
 
 ### The Commuter
-*Released on 2018-01-11, vote average 3*
+*Released on 2018-01-11, vote average 3.1*
 
 A businessman on his daily commute home gets unwittingly caught up in a criminal conspiracy that threatens not only his life but the lives of those around him.
 
