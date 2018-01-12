@@ -69,7 +69,7 @@ In a world overrun by zombies, military personnel and survivalists live in an un
 	
 
 ### The Commuter
-*Released on 2018-01-11, vote average 3.1*
+*Released on 2018-01-11, vote average 4.7*
 
 A businessman on his daily commute home gets unwittingly caught up in a criminal conspiracy that threatens not only his life but the lives of those around him.
 
@@ -82,6 +82,16 @@ A businessman on his daily commute home gets unwittingly caught up in a criminal
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -124,28 +134,6 @@ A runaway couple going on an unforgettable journey in the faithful old RV they c
 
 
 	
-	
-
-### The Beyond
-*Released on 2018-01-09, vote average 5.2*
-
-Set in 2019, The Beyond chronicles the groundbreaking mission which sent astronauts - modified with advanced robotics, through a newly discovered wormhole known as the Void. When the mission returns unexpectedly, the space agency races to discover what the astronauts encountered on their first of its kind interstellar space journey.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/x2cuW62yGr0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 
   
 
@@ -175,25 +163,20 @@ Batman teams up with the Scooby gang when villains from both of their worlds uni
 	
 	
 
-### Arif V 216
-*Released on 2018-01-05, vote average 8.5*
+### The Strange Ones
+*Released on 2018-01-05, vote average 7*
 
-Arif V 216 is the sequel of G.O.R.A.
+Mysterious events surround the travels of two brothers as they make their way across a remote American landscape. On the surface all seems normal, but what appears to be a simple vacation soon gives way to a dark and complex web of secrets. This is the feature film version of the 2011 short film going by the same name.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/p4FjN5DF-QQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/zfV2ERT4664?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -265,23 +248,6 @@ The story of teen heartthrobs Corey Feldman and Corey Haim, whose lives were for
 ## Opening soon
 
 
-	
-	
-
-### The Commuter
-*Released on 2018-01-11, vote average 3.1*
-
-A businessman on his daily commute home gets unwittingly caught up in a criminal conspiracy that threatens not only his life but the lives of those around him.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/aDshY43Ol2U?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
