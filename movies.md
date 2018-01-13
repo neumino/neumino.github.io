@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Insidious: The Last Key
-*Released on 2018-01-03, vote average 6.6*
+*Released on 2018-01-03, vote average 6.5*
 
 Parapsychologist Elise Rainier and her team travel to Five Keys, N.M., to investigate a man&#39;s claim of a haunting. Terror soon strikes when Rainier realizes that the house he lives in was her family&#39;s old home.
 
@@ -46,8 +46,30 @@ Parapsychologist Elise Rainier and her team travel to Five Keys, N.M., to invest
 	
 	
 
+### The Commuter
+*Released on 2018-01-11, vote average 4.6*
+
+A businessman on his daily commute home gets unwittingly caught up in a criminal conspiracy that threatens not only his life but the lives of those around him.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/aDshY43Ol2U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Day of the Dead: Bloodline
-*Released on 2018-01-04, vote average 5.2*
+*Released on 2018-01-04, vote average 4.8*
 
 In a world overrun by zombies, military personnel and survivalists live in an underground bunker while they seek a cure.
 
@@ -68,16 +90,16 @@ In a world overrun by zombies, military personnel and survivalists live in an un
 	
 	
 
-### The Commuter
-*Released on 2018-01-11, vote average 4.7*
+### Proud Mary
+*Released on 2018-01-12, vote average 8.3*
 
-A businessman on his daily commute home gets unwittingly caught up in a criminal conspiracy that threatens not only his life but the lives of those around him.
+A hit woman kills a drug boss only to learn that she has left a boy orphaned. A year later, she saves the boy from a dangerous life on the street but finds herself unable to give the boy or herself a fresh start.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/aDshY43Ol2U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/kQ1Zcv54USA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -92,6 +114,8 @@ A businessman on his daily commute home gets unwittingly caught up in a criminal
   
 
 
+	
+	
 	
 
   
@@ -121,18 +145,21 @@ A runaway couple going on an unforgettable journey in the faithful old RV they c
 
 	
 	
+
+### Acts of Violence
+*Released on 2018-01-12, vote average 10*
+
+When his fiancee is kidnapped by human traffickers, Roman and his ex-military brothers set out to track her down and save her before it is too late. Along the way, Roman teams up with Avery, a cop investigating human trafficking and fighting the corrupt bureaucracy that has harmful intentions.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/j3fL63AKrmU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 	
 
   
@@ -161,10 +188,35 @@ Batman teams up with the Scooby gang when villains from both of their worlds uni
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### The Strange Ones
-*Released on 2018-01-05, vote average 7*
+*Released on 2018-01-05, vote average 7.6*
 
 Mysterious events surround the travels of two brothers as they make their way across a remote American landscape. On the surface all seems normal, but what appears to be a simple vacation soon gives way to a dark and complex web of secrets. This is the feature film version of the 2011 short film going by the same name.
 
@@ -188,47 +240,12 @@ Mysterious events surround the travels of two brothers as they make their way ac
 
 
 	
-	
-
-### A Tale of Two Coreys
-*Released on 2018-01-06, vote average 6*
-
-The story of teen heartthrobs Corey Feldman and Corey Haim, whose lives were forever changed by the glitz, glamour, and the darker side of show business.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/X8lJJcedIiU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
 	
-
-  
-
-
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -250,6 +267,23 @@ The story of teen heartthrobs Corey Feldman and Corey Haim, whose lives were for
 
 	
 
+	
+	
+
+### Maze Runner: The Death Cure
+*Released on 2018-01-17, vote average 5*
+
+Thomas leads his group of escaped Gladers on their final and most dangerous mission yet. To save their friends, they must break into the legendary Last City, a WCKD-controlled labyrinth that may turn out to be the deadliest maze of all. Anyone who makes it out alive will get answers to the questions the Gladers have been asking since they first arrived in the maze.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wnE_y4vN9nQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
