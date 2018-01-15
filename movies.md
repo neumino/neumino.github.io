@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Insidious: The Last Key
-*Released on 2018-01-03, vote average 6.5*
+*Released on 2018-01-03, vote average 6.3*
 
 Parapsychologist Elise Rainier and her team travel to Five Keys, N.M., to investigate a man&#39;s claim of a haunting. Terror soon strikes when Rainier realizes that the house he lives in was her family&#39;s old home.
 
@@ -47,7 +47,7 @@ Parapsychologist Elise Rainier and her team travel to Five Keys, N.M., to invest
 	
 
 ### The Commuter
-*Released on 2018-01-11, vote average 4.6*
+*Released on 2018-01-11, vote average 5.2*
 
 A businessman on his daily commute home gets unwittingly caught up in a criminal conspiracy that threatens not only his life but the lives of those around him.
 
@@ -69,7 +69,7 @@ A businessman on his daily commute home gets unwittingly caught up in a criminal
 	
 
 ### Day of the Dead: Bloodline
-*Released on 2018-01-04, vote average 4.8*
+*Released on 2018-01-04, vote average 4.7*
 
 In a world overrun by zombies, military personnel and survivalists live in an underground bunker while they seek a cure.
 
@@ -112,6 +112,28 @@ A hit woman kills a drug boss only to learn that she has left a boy orphaned. A 
 	
 	
 
+### The Leisure Seeker
+*Released on 2018-01-03, vote average 7*
+
+A runaway couple going on an unforgettable journey in the faithful old RV they call The Leisure Seeker, traveling from Boston to Key West. They recapture their passion for life and their love for each other on a road trip that provides revelation and surprise right up to the very end.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/VGGKsVFslJ8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Freak Show
 *Released on 2018-01-12, vote average 10*
 
@@ -133,6 +155,28 @@ The story of teenager Billy Bloom who, despite attending an ultra conservative h
 
 	
 	
+
+### Acts of Violence
+*Released on 2018-01-12, vote average 6*
+
+When his fiancee is kidnapped by human traffickers, Roman and his ex-military brothers set out to track her down and save her before it is too late. Along the way, Roman teams up with Avery, a cop investigating human trafficking and fighting the corrupt bureaucracy that has harmful intentions.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/j3fL63AKrmU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -141,16 +185,16 @@ The story of teenager Billy Bloom who, despite attending an ultra conservative h
 	
 	
 
-### The Leisure Seeker
-*Released on 2018-01-03, vote average 6*
+### The Strange Ones
+*Released on 2018-01-05, vote average 7.6*
 
-A runaway couple going on an unforgettable journey in the faithful old RV they call The Leisure Seeker, traveling from Boston to Key West. They recapture their passion for life and their love for each other on a road trip that provides revelation and surprise right up to the very end.
+Mysterious events surround the travels of two brothers as they make their way across a remote American landscape. On the surface all seems normal, but what appears to be a simple vacation soon gives way to a dark and complex web of secrets. This is the feature film version of the 2011 short film going by the same name.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/VGGKsVFslJ8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/zfV2ERT4664?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -183,57 +227,47 @@ Batman teams up with the Scooby gang when villains from both of their worlds uni
 
 
 	
+
+  
+
+
 	
 
-### The Strange Ones
-*Released on 2018-01-05, vote average 7.6*
+  
 
-Mysterious events surround the travels of two brothers as they make their way across a remote American landscape. On the surface all seems normal, but what appears to be a simple vacation soon gives way to a dark and complex web of secrets. This is the feature film version of the 2011 short film going by the same name.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Voldemort: Origins of the Heir
+*Released on 2018-01-13, vote average 6.7*
+
+After his graduation from Hogwarts School of Witchcraft and Wizardry, Tom Riddle disappears. He comes back ten years later, with new powers and a new name. His journey in search of the secrets of dark magic has deeply changed him, and it&#39;s up to two old acquaintances to stop him before he reaches his goal: immortality.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/zfV2ERT4664?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/mdOlsUBMLUI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -266,8 +300,27 @@ Mysterious events surround the travels of two brothers as they make their way ac
 	
 	
 
+### 12 Strong
+*Released on 2018-01-18, vote average 6*
+
+A team of CIA agents and special forces head into Afghanistan in the aftermath of the September 11th attacks in an attempt to dismantle the Taliban.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Zxag9p-63RU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
 ### Maze Runner: The Death Cure
-*Released on 2018-01-17, vote average 5*
+*Released on 2018-01-17, vote average 7.7*
 
 Thomas leads his group of escaped Gladers on their final and most dangerous mission yet. To save their friends, they must break into the legendary Last City, a WCKD-controlled labyrinth that may turn out to be the deadliest maze of all. Anyone who makes it out alive will get answers to the questions the Gladers have been asking since they first arrived in the maze.
 
@@ -283,7 +336,22 @@ Thomas leads his group of escaped Gladers on their final and most dangerous miss
 	
 
 	
+	
 
+### Den of Thieves
+*Released on 2018-01-18, vote average 10*
+
+While planning a bank heist, a thief gets trapped between two sets of criminals.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/XaR-YVAOpZY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
