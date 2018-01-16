@@ -47,7 +47,7 @@ Parapsychologist Elise Rainier and her team travel to Five Keys, N.M., to invest
 	
 
 ### The Commuter
-*Released on 2018-01-11, vote average 5.2*
+*Released on 2018-01-11, vote average 5.3*
 
 A businessman on his daily commute home gets unwittingly caught up in a criminal conspiracy that threatens not only his life but the lives of those around him.
 
@@ -112,6 +112,35 @@ A hit woman kills a drug boss only to learn that she has left a boy orphaned. A 
 	
 	
 
+### Freak Show
+*Released on 2018-01-12, vote average 5.5*
+
+The story of teenager Billy Bloom who, despite attending an ultra conservative high school, makes the decision to run for homecoming queen.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/drg74wOy8z8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
 ### The Leisure Seeker
 *Released on 2018-01-03, vote average 7*
 
@@ -134,57 +163,6 @@ A runaway couple going on an unforgettable journey in the faithful old RV they c
 	
 	
 
-### Freak Show
-*Released on 2018-01-12, vote average 10*
-
-The story of teenager Billy Bloom who, despite attending an ultra conservative high school, makes the decision to run for homecoming queen.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/drg74wOy8z8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Acts of Violence
-*Released on 2018-01-12, vote average 6*
-
-When his fiancee is kidnapped by human traffickers, Roman and his ex-military brothers set out to track her down and save her before it is too late. Along the way, Roman teams up with Avery, a cop investigating human trafficking and fighting the corrupt bureaucracy that has harmful intentions.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/j3fL63AKrmU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
 ### The Strange Ones
 *Released on 2018-01-05, vote average 7.6*
 
@@ -195,6 +173,33 @@ Mysterious events surround the travels of two brothers as they make their way ac
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/zfV2ERT4664?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Voldemort: Origins of the Heir
+*Released on 2018-01-13, vote average 6.7*
+
+After his graduation from Hogwarts School of Witchcraft and Wizardry, Tom Riddle disappears. He comes back ten years later, with new powers and a new name. His journey in search of the secrets of dark magic has deeply changed him, and it&#39;s up to two old acquaintances to stop him before he reaches his goal: immortality.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mdOlsUBMLUI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -232,6 +237,8 @@ Batman teams up with the Scooby gang when villains from both of their worlds uni
 
 
 	
+	
+	
 
   
 
@@ -252,37 +259,32 @@ Batman teams up with the Scooby gang when villains from both of their worlds uni
 
 
 	
+
+  
+
+
 	
 
-### Voldemort: Origins of the Heir
-*Released on 2018-01-13, vote average 6.7*
+  
 
-After his graduation from Hogwarts School of Witchcraft and Wizardry, Tom Riddle disappears. He comes back ten years later, with new powers and a new name. His journey in search of the secrets of dark magic has deeply changed him, and it&#39;s up to two old acquaintances to stop him before he reaches his goal: immortality.
+
+	
+	
+
+### Arif V 216
+*Released on 2018-01-05, vote average 8*
+
+Arif V 216 is the sequel of G.O.R.A.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/mdOlsUBMLUI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/p4FjN5DF-QQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -300,25 +302,6 @@ After his graduation from Hogwarts School of Witchcraft and Wizardry, Tom Riddle
 	
 	
 
-### 12 Strong
-*Released on 2018-01-18, vote average 6*
-
-A team of CIA agents and special forces head into Afghanistan in the aftermath of the September 11th attacks in an attempt to dismantle the Taliban.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Zxag9p-63RU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
 ### Maze Runner: The Death Cure
 *Released on 2018-01-17, vote average 7.7*
 
@@ -329,6 +312,25 @@ Thomas leads his group of escaped Gladers on their final and most dangerous miss
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/wnE_y4vN9nQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### 12 Strong
+*Released on 2018-01-18, vote average 6*
+
+A team of CIA agents and special forces head into Afghanistan in the aftermath of the September 11th attacks in an attempt to dismantle the Taliban.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Zxag9p-63RU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
