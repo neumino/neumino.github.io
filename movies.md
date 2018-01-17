@@ -47,7 +47,7 @@ Parapsychologist Elise Rainier and her team travel to Five Keys, N.M., to invest
 	
 
 ### The Commuter
-*Released on 2018-01-11, vote average 5.3*
+*Released on 2018-01-11, vote average 5.4*
 
 A businessman on his daily commute home gets unwittingly caught up in a criminal conspiracy that threatens not only his life but the lives of those around him.
 
@@ -56,6 +56,28 @@ A businessman on his daily commute home gets unwittingly caught up in a criminal
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/aDshY43Ol2U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Proud Mary
+*Released on 2018-01-12, vote average 6*
+
+A hit woman kills a drug boss only to learn that she has left a boy orphaned. A year later, she saves the boy from a dangerous life on the street but finds herself unable to give the boy or herself a fresh start.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kQ1Zcv54USA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -90,16 +112,45 @@ In a world overrun by zombies, military personnel and survivalists live in an un
 	
 	
 
-### Proud Mary
-*Released on 2018-01-12, vote average 8.8*
+### Maze Runner: The Death Cure
+*Released on 2018-01-17, vote average 7.9*
 
-A hit woman kills a drug boss only to learn that she has left a boy orphaned. A year later, she saves the boy from a dangerous life on the street but finds herself unable to give the boy or herself a fresh start.
+Thomas leads his group of escaped Gladers on their final and most dangerous mission yet. To save their friends, they must break into the legendary Last City, a WCKD-controlled labyrinth that may turn out to be the deadliest maze of all. Anyone who makes it out alive will get answers to the questions the Gladers have been asking since they first arrived in the maze.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/kQ1Zcv54USA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/wnE_y4vN9nQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Acts of Violence
+*Released on 2018-01-12, vote average 5.4*
+
+When his fiancee is kidnapped by human traffickers, Roman and his ex-military brothers set out to track her down and save her before it is too late. Along the way, Roman teams up with Avery, a cop investigating human trafficking and fighting the corrupt bureaucracy that has harmful intentions.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/j3fL63AKrmU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -125,13 +176,6 @@ The story of teenager Billy Bloom who, despite attending an ultra conservative h
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -183,15 +227,10 @@ Mysterious events surround the travels of two brothers as they make their way ac
 
 
 	
-
-  
-
-
-	
 	
 
 ### Voldemort: Origins of the Heir
-*Released on 2018-01-13, vote average 6.7*
+*Released on 2018-01-13, vote average 6.6*
 
 After his graduation from Hogwarts School of Witchcraft and Wizardry, Tom Riddle disappears. He comes back ten years later, with new powers and a new name. His journey in search of the secrets of dark magic has deeply changed him, and it&#39;s up to two old acquaintances to stop him before he reaches his goal: immortality.
 
@@ -237,6 +276,11 @@ Batman teams up with the Scooby gang when villains from both of their worlds uni
 
 
 	
+
+  
+
+
+	
 	
 	
 
@@ -258,33 +302,6 @@ Batman teams up with the Scooby gang when villains from both of their worlds uni
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Arif V 216
-*Released on 2018-01-05, vote average 8*
-
-Arif V 216 is the sequel of G.O.R.A.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/p4FjN5DF-QQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -303,7 +320,7 @@ Arif V 216 is the sequel of G.O.R.A.
 	
 
 ### Maze Runner: The Death Cure
-*Released on 2018-01-17, vote average 7.7*
+*Released on 2018-01-17, vote average 7.9*
 
 Thomas leads his group of escaped Gladers on their final and most dangerous mission yet. To save their friends, they must break into the legendary Last City, a WCKD-controlled labyrinth that may turn out to be the deadliest maze of all. Anyone who makes it out alive will get answers to the questions the Gladers have been asking since they first arrived in the maze.
 
@@ -341,7 +358,7 @@ A team of CIA agents and special forces head into Afghanistan in the aftermath o
 	
 
 ### Den of Thieves
-*Released on 2018-01-18, vote average 10*
+*Released on 2018-01-18, vote average 9.5*
 
 While planning a bank heist, a thief gets trapped between two sets of criminals.
 
