@@ -69,7 +69,7 @@ A hit woman kills a drug boss only to learn that she has left a boy orphaned. A 
 	
 
 ### 12 Strong
-*Released on 2018-01-18, vote average 4.6*
+*Released on 2018-01-18, vote average 5.1*
 
 A team of CIA agents and special forces head into Afghanistan in the aftermath of the September 11th attacks in an attempt to dismantle the Taliban.
 
@@ -78,28 +78,6 @@ A team of CIA agents and special forces head into Afghanistan in the aftermath o
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/Zxag9p-63RU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Maze Runner: The Death Cure
-*Released on 2018-01-17, vote average 8.5*
-
-Thomas leads his group of escaped Gladers on their final and most dangerous mission yet. To save their friends, they must break into the legendary Last City, a WCKD-controlled labyrinth that may turn out to be the deadliest maze of all. Anyone who makes it out alive will get answers to the questions the Gladers have been asking since they first arrived in the maze.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wnE_y4vN9nQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,6 +112,33 @@ While planning a bank heist, a thief gets trapped between two sets of criminals.
 	
 	
 
+### Maze Runner: The Death Cure
+*Released on 2018-01-17, vote average 7.8*
+
+Thomas leads his group of escaped Gladers on their final and most dangerous mission yet. To save their friends, they must break into the legendary Last City, a WCKD-controlled labyrinth that may turn out to be the deadliest maze of all. Anyone who makes it out alive will get answers to the questions the Gladers have been asking since they first arrived in the maze.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wnE_y4vN9nQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### Freak Show
 *Released on 2018-01-12, vote average 5.5*
 
@@ -153,40 +158,6 @@ The story of teenager Billy Bloom who, despite attending an ultra conservative h
   
 
 
-	
-	
-
-### Acts of Violence
-*Released on 2018-01-12, vote average 5.4*
-
-When his fiancee is kidnapped by human traffickers, Roman and his ex-military brothers set out to track her down and save her before it is too late. Along the way, Roman teams up with Avery, a cop investigating human trafficking and fighting the corrupt bureaucracy that has harmful intentions.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/j3fL63AKrmU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -216,6 +187,20 @@ After his graduation from Hogwarts School of Witchcraft and Wizardry, Tom Riddle
 
 	
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
 
 ### Scooby-Doo! &amp; Batman: The Brave and the Bold
 *Released on 2018-01-09, vote average 10*
@@ -237,29 +222,10 @@ Batman teams up with the Scooby gang when villains from both of their worlds uni
 
 
 	
-	
-	
 
   
 
 
-	
-	
-
-### The Strange Ones
-*Released on 2018-01-05, vote average 7.6*
-
-Mysterious events surround the travels of two brothers as they make their way across a remote American landscape. On the surface all seems normal, but what appears to be a simple vacation soon gives way to a dark and complex web of secrets. This is the feature film version of the 2011 short film going by the same name.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zfV2ERT4664?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -270,6 +236,8 @@ Mysterious events surround the travels of two brothers as they make their way ac
   
 
 
+	
+	
 	
 
   
