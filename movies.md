@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Commuter
-*Released on 2018-01-11, vote average 5.4*
+*Released on 2018-01-11, vote average 5.5*
 
 A businessman on his daily commute home gets unwittingly caught up in a criminal conspiracy that threatens not only his life but the lives of those around him.
 
@@ -46,6 +46,28 @@ A businessman on his daily commute home gets unwittingly caught up in a criminal
 	
 	
 
+### 12 Strong
+*Released on 2018-01-18, vote average 5*
+
+A team of CIA agents and special forces head into Afghanistan in the aftermath of the September 11th attacks in an attempt to dismantle the Taliban.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Zxag9p-63RU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Proud Mary
 *Released on 2018-01-12, vote average 5.4*
 
@@ -68,16 +90,16 @@ A hit woman kills a drug boss only to learn that she has left a boy orphaned. A 
 	
 	
 
-### 12 Strong
-*Released on 2018-01-18, vote average 5.1*
+### Den of Thieves
+*Released on 2018-01-18, vote average 7.3*
 
-A team of CIA agents and special forces head into Afghanistan in the aftermath of the September 11th attacks in an attempt to dismantle the Taliban.
+While planning a bank heist, a thief gets trapped between two sets of criminals.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Zxag9p-63RU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/XaR-YVAOpZY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -90,16 +112,16 @@ A team of CIA agents and special forces head into Afghanistan in the aftermath o
 	
 	
 
-### Den of Thieves
-*Released on 2018-01-18, vote average 9.5*
+### Mom and Dad
+*Released on 2018-01-19, vote average 5.5*
 
-While planning a bank heist, a thief gets trapped between two sets of criminals.
+A teenage girl and her little brother must survive a wild 24 hours during which a mass hysteria of unknown origin causes parents to turn violently on their own kids.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/XaR-YVAOpZY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/O4Kb40pnoOY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -126,11 +148,6 @@ Thomas leads his group of escaped Gladers on their final and most dangerous miss
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -166,6 +183,50 @@ The story of teenager Billy Bloom who, despite attending an ultra conservative h
 	
 	
 
+### Scooby-Doo! &amp; Batman: The Brave and the Bold
+*Released on 2018-01-09, vote average 10*
+
+Batman teams up with the Scooby gang when villains from both of their worlds unite to wreak havoc on the city. Featuring classic DC villains like the Joker, Catwoman, Harley Quinn and the Riddler  alongside heroes like Aquaman, Black Canary, and Plastic Man. Also featuring classic Scooby-Doo villains like the Ghost Clown, Space Kook, and Miner 49er.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Qf3xIcaCBEk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Acts of Violence
+*Released on 2018-01-12, vote average 4.9*
+
+When his fiancee is kidnapped by human traffickers, Roman and his ex-military brothers set out to track her down and save her before it is too late. Along the way, Roman teams up with Avery, a cop investigating human trafficking and fighting the corrupt bureaucracy that has harmful intentions.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/j3fL63AKrmU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Voldemort: Origins of the Heir
 *Released on 2018-01-13, vote average 6.7*
 
@@ -193,29 +254,15 @@ After his graduation from Hogwarts School of Witchcraft and Wizardry, Tom Riddle
 
 
 	
-	
-	
 
   
 
 
 	
-	
 
-### Scooby-Doo! &amp; Batman: The Brave and the Bold
-*Released on 2018-01-09, vote average 10*
+  
 
-Batman teams up with the Scooby gang when villains from both of their worlds unite to wreak havoc on the city. Featuring classic DC villains like the Joker, Catwoman, Harley Quinn and the Riddler  alongside heroes like Aquaman, Black Canary, and Plastic Man. Also featuring classic Scooby-Doo villains like the Ghost Clown, Space Kook, and Miner 49er.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Qf3xIcaCBEk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -238,21 +285,6 @@ Batman teams up with the Scooby gang when villains from both of their worlds uni
 
 	
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
