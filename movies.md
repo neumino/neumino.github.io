@@ -91,7 +91,7 @@ A hit woman kills a drug boss only to learn that she has left a boy orphaned. A 
 	
 
 ### Den of Thieves
-*Released on 2018-01-18, vote average 7.3*
+*Released on 2018-01-18, vote average 6.1*
 
 While planning a bank heist, a thief gets trapped between two sets of criminals.
 
@@ -112,16 +112,16 @@ While planning a bank heist, a thief gets trapped between two sets of criminals.
 	
 	
 
-### Mom and Dad
-*Released on 2018-01-19, vote average 5.5*
+### Maze Runner: The Death Cure
+*Released on 2018-01-17, vote average 8*
 
-A teenage girl and her little brother must survive a wild 24 hours during which a mass hysteria of unknown origin causes parents to turn violently on their own kids.
+Thomas leads his group of escaped Gladers on their final and most dangerous mission yet. To save their friends, they must break into the legendary Last City, a WCKD-controlled labyrinth that may turn out to be the deadliest maze of all. Anyone who makes it out alive will get answers to the questions the Gladers have been asking since they first arrived in the maze.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/O4Kb40pnoOY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/wnE_y4vN9nQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,16 +134,16 @@ A teenage girl and her little brother must survive a wild 24 hours during which 
 	
 	
 
-### Maze Runner: The Death Cure
-*Released on 2018-01-17, vote average 7.8*
+### Mom and Dad
+*Released on 2018-01-19, vote average 5.7*
 
-Thomas leads his group of escaped Gladers on their final and most dangerous mission yet. To save their friends, they must break into the legendary Last City, a WCKD-controlled labyrinth that may turn out to be the deadliest maze of all. Anyone who makes it out alive will get answers to the questions the Gladers have been asking since they first arrived in the maze.
+A teenage girl and her little brother must survive a wild 24 hours during which a mass hysteria of unknown origin causes parents to turn violently on their own kids.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/wnE_y4vN9nQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/O4Kb40pnoOY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -205,28 +205,6 @@ Batman teams up with the Scooby gang when villains from both of their worlds uni
 	
 	
 
-### Acts of Violence
-*Released on 2018-01-12, vote average 4.9*
-
-When his fiancee is kidnapped by human traffickers, Roman and his ex-military brothers set out to track her down and save her before it is too late. Along the way, Roman teams up with Avery, a cop investigating human trafficking and fighting the corrupt bureaucracy that has harmful intentions.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/j3fL63AKrmU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Voldemort: Origins of the Heir
 *Released on 2018-01-13, vote average 6.7*
 
@@ -274,6 +252,28 @@ After his graduation from Hogwarts School of Witchcraft and Wizardry, Tom Riddle
 
 
 	
+	
+
+### The Open House
+*Released on 2018-01-19, vote average 3.9*
+
+A teenager and his mother find themselves besieged by threatening forces when they move into a new house.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/tMSu3Gyz1jU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 
   
 
@@ -283,8 +283,6 @@ After his graduation from Hogwarts School of Witchcraft and Wizardry, Tom Riddle
   
 
 
-	
-	
 	
 
   
