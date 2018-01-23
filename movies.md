@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Commuter
-*Released on 2018-01-11, vote average 5.5*
+*Released on 2018-01-11, vote average 5.6*
 
 A businessman on his daily commute home gets unwittingly caught up in a criminal conspiracy that threatens not only his life but the lives of those around him.
 
@@ -47,7 +47,7 @@ A businessman on his daily commute home gets unwittingly caught up in a criminal
 	
 
 ### 12 Strong
-*Released on 2018-01-18, vote average 5*
+*Released on 2018-01-18, vote average 5.2*
 
 A team of CIA agents and special forces head into Afghanistan in the aftermath of the September 11th attacks in an attempt to dismantle the Taliban.
 
@@ -91,7 +91,7 @@ A hit woman kills a drug boss only to learn that she has left a boy orphaned. A 
 	
 
 ### Den of Thieves
-*Released on 2018-01-18, vote average 6.1*
+*Released on 2018-01-18, vote average 6.4*
 
 While planning a bank heist, a thief gets trapped between two sets of criminals.
 
@@ -100,28 +100,6 @@ While planning a bank heist, a thief gets trapped between two sets of criminals.
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/XaR-YVAOpZY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Maze Runner: The Death Cure
-*Released on 2018-01-17, vote average 8*
-
-Thomas leads his group of escaped Gladers on their final and most dangerous mission yet. To save their friends, they must break into the legendary Last City, a WCKD-controlled labyrinth that may turn out to be the deadliest maze of all. Anyone who makes it out alive will get answers to the questions the Gladers have been asking since they first arrived in the maze.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wnE_y4vN9nQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -176,6 +154,23 @@ The story of teenager Billy Bloom who, despite attending an ultra conservative h
 
 
 	
+	
+
+### Maze Runner: The Death Cure
+*Released on 2018-01-17, vote average 8*
+
+Thomas leads his group of escaped Gladers on their final and most dangerous mission yet. To save their friends, they must break into the legendary Last City, a WCKD-controlled labyrinth that may turn out to be the deadliest maze of all. Anyone who makes it out alive will get answers to the questions the Gladers have been asking since they first arrived in the maze.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wnE_y4vN9nQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -203,10 +198,37 @@ Batman teams up with the Scooby gang when villains from both of their worlds uni
 
 
 	
+
+  
+
+
+	
+	
+
+### Acts of Violence
+*Released on 2018-01-12, vote average 5.2*
+
+When his fiancee is kidnapped by human traffickers, Roman and his ex-military brothers set out to track her down and save her before it is too late. Along the way, Roman teams up with Avery, a cop investigating human trafficking and fighting the corrupt bureaucracy that has harmful intentions.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/j3fL63AKrmU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 
 ### Voldemort: Origins of the Heir
-*Released on 2018-01-13, vote average 6.7*
+*Released on 2018-01-13, vote average 6.6*
 
 After his graduation from Hogwarts School of Witchcraft and Wizardry, Tom Riddle disappears. He comes back ten years later, with new powers and a new name. His journey in search of the secrets of dark magic has deeply changed him, and it&#39;s up to two old acquaintances to stop him before he reaches his goal: immortality.
 
@@ -219,33 +241,6 @@ After his graduation from Hogwarts School of Witchcraft and Wizardry, Tom Riddle
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -284,6 +279,43 @@ A teenager and his mother find themselves besieged by threatening forces when th
 
 
 	
+	
+
+### Step Sisters
+*Released on 2018-01-19, vote average 7.6*
+
+Jamilah has her whole life figured out. She&#39;s the president of her black sorority, captain of their champion step dance crew, is student liaison to the college dean, and her next move is on to Harvard Law School. She&#39;s got it all, right? But when the hard-partying white girls from Sigma Beta Beta embarrass the school, Jamilah is ordered to come to the rescue. Her mission is to not only teach the rhythmically-challenged girls how to step dance, but to win the Steptacular, the most competitive of dance competitions. With the SBBs reputations and charter on the line, and Jamilah&#39;s dream of attending Harvard in jeopardy, these outcast screw-ups and their unlikely teacher stumble through one hilarious misstep after another. Cultures clash, romance blossoms, and sisterhood prevails as everyone steps out of their comfort zones.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qMXO6Up6pvE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 
   
 
@@ -297,6 +329,23 @@ A teenager and his mother find themselves besieged by threatening forces when th
 ## Opening soon
 
 
+	
+	
+
+### Forever My Girl
+*Released on 2018-01-26, vote average 9.5*
+
+After being gone for a decade a country star returns home to the love he left behind.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IpjApG307D8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
