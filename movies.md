@@ -47,7 +47,7 @@ A businessman on his daily commute home gets unwittingly caught up in a criminal
 	
 
 ### 12 Strong
-*Released on 2018-01-18, vote average 5.2*
+*Released on 2018-01-18, vote average 5.3*
 
 A team of CIA agents and special forces head into Afghanistan in the aftermath of the September 11th attacks in an attempt to dismantle the Taliban.
 
@@ -56,6 +56,28 @@ A team of CIA agents and special forces head into Afghanistan in the aftermath o
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/Zxag9p-63RU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Den of Thieves
+*Released on 2018-01-18, vote average 6.2*
+
+While planning a bank heist, a thief gets trapped between two sets of criminals.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/XaR-YVAOpZY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -78,28 +100,6 @@ A hit woman kills a drug boss only to learn that she has left a boy orphaned. A 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/kQ1Zcv54USA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Den of Thieves
-*Released on 2018-01-18, vote average 6.4*
-
-While planning a bank heist, a thief gets trapped between two sets of criminals.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XaR-YVAOpZY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -176,18 +176,23 @@ Thomas leads his group of escaped Gladers on their final and most dangerous miss
 
 
 	
+
+  
+
+
+	
 	
 
-### Scooby-Doo! &amp; Batman: The Brave and the Bold
-*Released on 2018-01-09, vote average 10*
+### The Open House
+*Released on 2018-01-19, vote average 3.9*
 
-Batman teams up with the Scooby gang when villains from both of their worlds unite to wreak havoc on the city. Featuring classic DC villains like the Joker, Catwoman, Harley Quinn and the Riddler  alongside heroes like Aquaman, Black Canary, and Plastic Man. Also featuring classic Scooby-Doo villains like the Ghost Clown, Space Kook, and Miner 49er.
+A teenager and his mother find themselves besieged by threatening forces when they move into a new house.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Qf3xIcaCBEk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/tMSu3Gyz1jU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -198,26 +203,6 @@ Batman teams up with the Scooby gang when villains from both of their worlds uni
 
 
 	
-
-  
-
-
-	
-	
-
-### Acts of Violence
-*Released on 2018-01-12, vote average 5.2*
-
-When his fiancee is kidnapped by human traffickers, Roman and his ex-military brothers set out to track her down and save her before it is too late. Along the way, Roman teams up with Avery, a cop investigating human trafficking and fighting the corrupt bureaucracy that has harmful intentions.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/j3fL63AKrmU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -247,23 +232,6 @@ After his graduation from Hogwarts School of Witchcraft and Wizardry, Tom Riddle
 
 
 	
-	
-
-### The Open House
-*Released on 2018-01-19, vote average 3.9*
-
-A teenager and his mother find themselves besieged by threatening forces when they move into a new house.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tMSu3Gyz1jU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -282,7 +250,7 @@ A teenager and his mother find themselves besieged by threatening forces when th
 	
 
 ### Step Sisters
-*Released on 2018-01-19, vote average 7.6*
+*Released on 2018-01-19, vote average 7*
 
 Jamilah has her whole life figured out. She&#39;s the president of her black sorority, captain of their champion step dance crew, is student liaison to the college dean, and her next move is on to Harvard Law School. She&#39;s got it all, right? But when the hard-partying white girls from Sigma Beta Beta embarrass the school, Jamilah is ordered to come to the rescue. Her mission is to not only teach the rhythmically-challenged girls how to step dance, but to win the Steptacular, the most competitive of dance competitions. With the SBBs reputations and charter on the line, and Jamilah&#39;s dream of attending Harvard in jeopardy, these outcast screw-ups and their unlikely teacher stumble through one hilarious misstep after another. Cultures clash, romance blossoms, and sisterhood prevails as everyone steps out of their comfort zones.
 
@@ -310,6 +278,8 @@ Jamilah has her whole life figured out. She&#39;s the president of her black sor
   
 
 
+	
+	
 	
 
   
@@ -348,6 +318,23 @@ After being gone for a decade a country star returns home to the love he left be
 	
 	
 
+	
+	
+
+### Kickboxer: Retaliation
+*Released on 2018-01-26, vote average 6.7*
+
+One year after the events of &#34;Kickboxer: Vengeance&#34;, Kurt Sloan has vowed never to return to Thailand. However, while gearing up for a MMA title shot, he finds himself sedated and forced back into Thailand, this time in prison. He is there because the ones responsible want him to face a 6&#39;8&#34; 400 lbs. beast named Mongkut and in return for the fight, Kurt will get two million dollars and his freedom back. Kurt at first refuses, in which a bounty is placed on his head as a way to force him to face Mongkut. Kurt soon learns he will have no other choice and will undergo his most rigorous training yet under some unexpected mentors in order to face Mongkut in hopes to regain his freedom.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/18yT09uykrY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
