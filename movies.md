@@ -47,7 +47,7 @@ A businessman on his daily commute home gets unwittingly caught up in a criminal
 	
 
 ### 12 Strong
-*Released on 2018-01-18, vote average 5.3*
+*Released on 2018-01-18, vote average 5.2*
 
 A team of CIA agents and special forces head into Afghanistan in the aftermath of the September 11th attacks in an attempt to dismantle the Taliban.
 
@@ -69,7 +69,7 @@ A team of CIA agents and special forces head into Afghanistan in the aftermath o
 	
 
 ### Den of Thieves
-*Released on 2018-01-18, vote average 6.2*
+*Released on 2018-01-18, vote average 5.9*
 
 While planning a bank heist, a thief gets trapped between two sets of criminals.
 
@@ -113,7 +113,7 @@ A hit woman kills a drug boss only to learn that she has left a boy orphaned. A 
 	
 
 ### Mom and Dad
-*Released on 2018-01-19, vote average 5.7*
+*Released on 2018-01-19, vote average 5.6*
 
 A teenage girl and her little brother must survive a wild 24 hours during which a mass hysteria of unknown origin causes parents to turn violently on their own kids.
 
@@ -122,6 +122,28 @@ A teenage girl and her little brother must survive a wild 24 hours during which 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/O4Kb40pnoOY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Maze Runner: The Death Cure
+*Released on 2018-01-17, vote average 7.8*
+
+Thomas leads his group of escaped Gladers on their final and most dangerous mission yet. To save their friends, they must break into the legendary Last City, a WCKD-controlled labyrinth that may turn out to be the deadliest maze of all. Anyone who makes it out alive will get answers to the questions the Gladers have been asking since they first arrived in the maze.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wnE_y4vN9nQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -153,23 +175,6 @@ The story of teenager Billy Bloom who, despite attending an ultra conservative h
   
 
 
-	
-	
-
-### Maze Runner: The Death Cure
-*Released on 2018-01-17, vote average 8*
-
-Thomas leads his group of escaped Gladers on their final and most dangerous mission yet. To save their friends, they must break into the legendary Last City, a WCKD-controlled labyrinth that may turn out to be the deadliest maze of all. Anyone who makes it out alive will get answers to the questions the Gladers have been asking since they first arrived in the maze.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wnE_y4vN9nQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -204,6 +209,63 @@ A teenager and his mother find themselves besieged by threatening forces when th
 
 	
 	
+
+### Step Sisters
+*Released on 2018-01-19, vote average 7*
+
+Jamilah has her whole life figured out. She&#39;s the president of her black sorority, captain of their champion step dance crew, is student liaison to the college dean, and her next move is on to Harvard Law School. She&#39;s got it all, right? But when the hard-partying white girls from Sigma Beta Beta embarrass the school, Jamilah is ordered to come to the rescue. Her mission is to not only teach the rhythmically-challenged girls how to step dance, but to win the Steptacular, the most competitive of dance competitions. With the SBBs reputations and charter on the line, and Jamilah&#39;s dream of attending Harvard in jeopardy, these outcast screw-ups and their unlikely teacher stumble through one hilarious misstep after another. Cultures clash, romance blossoms, and sisterhood prevails as everyone steps out of their comfort zones.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qMXO6Up6pvE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Acts of Violence
+*Released on 2018-01-12, vote average 5.2*
+
+When his fiancee is kidnapped by human traffickers, Roman and his ex-military brothers set out to track her down and save her before it is too late. Along the way, Roman teams up with Avery, a cop investigating human trafficking and fighting the corrupt bureaucracy that has harmful intentions.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/j3fL63AKrmU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -246,55 +308,6 @@ After his graduation from Hogwarts School of Witchcraft and Wizardry, Tom Riddle
   
 
 
-	
-	
-
-### Step Sisters
-*Released on 2018-01-19, vote average 7*
-
-Jamilah has her whole life figured out. She&#39;s the president of her black sorority, captain of their champion step dance crew, is student liaison to the college dean, and her next move is on to Harvard Law School. She&#39;s got it all, right? But when the hard-partying white girls from Sigma Beta Beta embarrass the school, Jamilah is ordered to come to the rescue. Her mission is to not only teach the rhythmically-challenged girls how to step dance, but to win the Steptacular, the most competitive of dance competitions. With the SBBs reputations and charter on the line, and Jamilah&#39;s dream of attending Harvard in jeopardy, these outcast screw-ups and their unlikely teacher stumble through one hilarious misstep after another. Cultures clash, romance blossoms, and sisterhood prevails as everyone steps out of their comfort zones.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qMXO6Up6pvE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -316,6 +329,8 @@ After being gone for a decade a country star returns home to the love he left be
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
@@ -360,7 +375,22 @@ One year after the events of &#34;Kickboxer: Vengeance&#34;, Kurt Sloan has vowe
 	
 
 	
+	
 
+### Dilan 1990
+*Released on 2018-01-25, vote average 8*
+
+It was 1990. Milea just moved from Jakarta to Bandung. She met a boy named Dilan. Soon they will face a great journey upon them.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/X_b-wNkz4DU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
