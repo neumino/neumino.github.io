@@ -46,16 +46,16 @@ A team of CIA agents and special forces head into Afghanistan in the aftermath o
 	
 	
 
-### Den of Thieves
-*Released on 2018-01-18, vote average 6.2*
+### Maze Runner: The Death Cure
+*Released on 2018-01-17, vote average 7.6*
 
-While planning a bank heist, a thief gets trapped between two sets of criminals.
+Thomas leads his group of escaped Gladers on their final and most dangerous mission yet. To save their friends, they must break into the legendary Last City, a WCKD-controlled labyrinth that may turn out to be the deadliest maze of all. Anyone who makes it out alive will get answers to the questions the Gladers have been asking since they first arrived in the maze.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/XaR-YVAOpZY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/wnE_y4vN9nQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,16 +68,16 @@ While planning a bank heist, a thief gets trapped between two sets of criminals.
 	
 	
 
-### Maze Runner: The Death Cure
-*Released on 2018-01-17, vote average 7.9*
+### Den of Thieves
+*Released on 2018-01-18, vote average 6.4*
 
-Thomas leads his group of escaped Gladers on their final and most dangerous mission yet. To save their friends, they must break into the legendary Last City, a WCKD-controlled labyrinth that may turn out to be the deadliest maze of all. Anyone who makes it out alive will get answers to the questions the Gladers have been asking since they first arrived in the maze.
+While planning a bank heist, a thief gets trapped between two sets of criminals.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/wnE_y4vN9nQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/XaR-YVAOpZY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -140,7 +140,7 @@ After being gone for a decade a country star returns home to the love he left be
 	
 
 ### Kickboxer: Retaliation
-*Released on 2018-01-26, vote average 7.5*
+*Released on 2018-01-26, vote average 8*
 
 One year after the events of &#34;Kickboxer: Vengeance&#34;, Kurt Sloan has vowed never to return to Thailand. However, while gearing up for a MMA title shot, he finds himself sedated and forced back into Thailand, this time in prison. He is there because the ones responsible want him to face a 6&#39;8&#34; 400 lbs. beast named Mongkut and in return for the fight, Kurt will get two million dollars and his freedom back. Kurt at first refuses, in which a bounty is placed on his head as a way to force him to face Mongkut. Kurt soon learns he will have no other choice and will undergo his most rigorous training yet under some unexpected mentors in order to face Mongkut in hopes to regain his freedom.
 
@@ -158,6 +158,23 @@ One year after the events of &#34;Kickboxer: Vengeance&#34;, Kurt Sloan has vowe
   
 
 
+	
+	
+
+### The Clapper
+*Released on 2018-01-26, vote average 5.5*
+
+15 minutes of fame destroys the life of a man who works as a clapper in television.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hFYwmBzqoac?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -196,10 +213,37 @@ A teenager and his mother find themselves besieged by threatening forces when th
 
 
 	
+
+  
+
+
+	
+	
+
+### A Futile and Stupid Gesture
+*Released on 2018-01-24, vote average 8.2*
+
+The National Lampoon name became globally recognized after the monumental success of Animal House—but before the glory days, it was a scrappy yet divinely subversive magazine and radio show that introduced the world to comedic geniuses like Bill Murray, Chevy Chase, John Belushi, and Gilda Radner. The driving force behind National Lampoon was Doug Kenney (Will Forte), and his truly wild and crazy story unfolds in A Futile and Stupid Gesture from Harvard to Hollywood to Caddyshack and beyond.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/33dztfqRu_k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 
 ### Step Sisters
-*Released on 2018-01-19, vote average 6.9*
+*Released on 2018-01-19, vote average 6.6*
 
 Jamilah has her whole life figured out. She&#39;s the president of her black sorority, captain of their champion step dance crew, is student liaison to the college dean, and her next move is on to Harvard Law School. She&#39;s got it all, right? But when the hard-partying white girls from Sigma Beta Beta embarrass the school, Jamilah is ordered to come to the rescue. Her mission is to not only teach the rhythmically-challenged girls how to step dance, but to win the Steptacular, the most competitive of dance competitions. With the SBBs reputations and charter on the line, and Jamilah&#39;s dream of attending Harvard in jeopardy, these outcast screw-ups and their unlikely teacher stumble through one hilarious misstep after another. Cultures clash, romance blossoms, and sisterhood prevails as everyone steps out of their comfort zones.
 
@@ -218,23 +262,18 @@ Jamilah has her whole life figured out. She&#39;s the president of her black sor
 
 
 	
-
-  
-
-
-	
 	
 
-### A Futile &amp; Stupid Gesture
-*Released on 2018-01-26, vote average 8*
+### Little Bitches
+*Released on 2018-01-23, vote average 10*
 
-The life and times of groundbreaking National Lampoon satirist Douglas Kenney.
+A group of friends vow to open their college acceptance letters at the same time during the big end-of -year party.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/33dztfqRu_k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Jo8UCcryQwU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -272,34 +311,27 @@ Rani Padmavati - the wife of Maharawal Ratan Singh, is known for her beauty and 
 
 
 	
+
+  
+
+
+	
 	
 
-### Little Bitches
-*Released on 2018-01-23, vote average 10*
+### Dilan 1990
+*Released on 2018-01-25, vote average 4.3*
 
-A group of friends vow to open their college acceptance letters at the same time during the big end-of -year party.
+It was 1990. Milea just moved from Jakarta to Bandung. She met a boy named Dilan. Soon they will face a great journey upon them.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Jo8UCcryQwU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/X_b-wNkz4DU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 	
 
   
