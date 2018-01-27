@@ -68,16 +68,16 @@ While planning a bank heist, a thief gets trapped between two sets of criminals.
 	
 	
 
-### Proud Mary
-*Released on 2018-01-12, vote average 5.3*
+### Maze Runner: The Death Cure
+*Released on 2018-01-17, vote average 7.9*
 
-A hit woman kills a drug boss only to learn that she has left a boy orphaned. A year later, she saves the boy from a dangerous life on the street but finds herself unable to give the boy or herself a fresh start.
+Thomas leads his group of escaped Gladers on their final and most dangerous mission yet. To save their friends, they must break into the legendary Last City, a WCKD-controlled labyrinth that may turn out to be the deadliest maze of all. Anyone who makes it out alive will get answers to the questions the Gladers have been asking since they first arrived in the maze.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/kQ1Zcv54USA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/wnE_y4vN9nQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -91,7 +91,7 @@ A hit woman kills a drug boss only to learn that she has left a boy orphaned. A 
 	
 
 ### Mom and Dad
-*Released on 2018-01-19, vote average 5.5*
+*Released on 2018-01-19, vote average 5.7*
 
 A teenage girl and her little brother must survive a wild 24 hours during which a mass hysteria of unknown origin causes parents to turn violently on their own kids.
 
@@ -100,28 +100,6 @@ A teenage girl and her little brother must survive a wild 24 hours during which 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/O4Kb40pnoOY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Maze Runner: The Death Cure
-*Released on 2018-01-17, vote average 7.7*
-
-Thomas leads his group of escaped Gladers on their final and most dangerous mission yet. To save their friends, they must break into the legendary Last City, a WCKD-controlled labyrinth that may turn out to be the deadliest maze of all. Anyone who makes it out alive will get answers to the questions the Gladers have been asking since they first arrived in the maze.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wnE_y4vN9nQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -154,28 +132,6 @@ After being gone for a decade a country star returns home to the love he left be
 
 
 	
-	
-
-### Freak Show
-*Released on 2018-01-12, vote average 6.7*
-
-The story of teenager Billy Bloom who, despite attending an ultra conservative high school, makes the decision to run for homecoming queen.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/drg74wOy8z8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 
   
 
@@ -184,7 +140,7 @@ The story of teenager Billy Bloom who, despite attending an ultra conservative h
 	
 
 ### Kickboxer: Retaliation
-*Released on 2018-01-26, vote average 6.7*
+*Released on 2018-01-26, vote average 7.5*
 
 One year after the events of &#34;Kickboxer: Vengeance&#34;, Kurt Sloan has vowed never to return to Thailand. However, while gearing up for a MMA title shot, he finds himself sedated and forced back into Thailand, this time in prison. He is there because the ones responsible want him to face a 6&#39;8&#34; 400 lbs. beast named Mongkut and in return for the fight, Kurt will get two million dollars and his freedom back. Kurt at first refuses, in which a bounty is placed on his head as a way to force him to face Mongkut. Kurt soon learns he will have no other choice and will undergo his most rigorous training yet under some unexpected mentors in order to face Mongkut in hopes to regain his freedom.
 
@@ -197,6 +153,16 @@ One year after the events of &#34;Kickboxer: Vengeance&#34;, Kurt Sloan has vowe
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -230,11 +196,6 @@ A teenager and his mother find themselves besieged by threatening forces when th
 
 
 	
-
-  
-
-
-	
 	
 
 ### Step Sisters
@@ -251,6 +212,60 @@ Jamilah has her whole life figured out. She&#39;s the president of her black sor
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### A Futile &amp; Stupid Gesture
+*Released on 2018-01-26, vote average 8*
+
+The life and times of groundbreaking National Lampoon satirist Douglas Kenney.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/33dztfqRu_k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Padmaavat
+*Released on 2018-01-25, vote average 9*
+
+Rani Padmavati - the wife of Maharawal Ratan Singh, is known for her beauty and valour in 13th century India. She captures the fancy of the reigning Sultan of Delhi, the tyrant Alauddin Khilji, who becomes obsessed with her and goes to great lengths to fulfill his greed.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/X_5_BLt76c0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -279,36 +294,6 @@ A group of friends vow to open their college acceptance letters at the same time
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Acts of Violence
-*Released on 2018-01-12, vote average 5.5*
-
-When his fiancee is kidnapped by human traffickers, Roman and his ex-military brothers set out to track her down and save her before it is too late. Along the way, Roman teams up with Avery, a cop investigating human trafficking and fighting the corrupt bureaucracy that has harmful intentions.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/j3fL63AKrmU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -320,6 +305,8 @@ When his fiancee is kidnapped by human traffickers, Roman and his ex-military br
   
 
 
+	
+	
 	
 
   
@@ -330,41 +317,7 @@ When his fiancee is kidnapped by human traffickers, Roman and his ex-military br
 
 
 	
-	
 
-### Forever My Girl
-*Released on 2018-01-26, vote average 8.8*
-
-After being gone for a decade a country star returns home to the love he left behind.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IpjApG307D8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Kickboxer: Retaliation
-*Released on 2018-01-26, vote average 6.7*
-
-One year after the events of &#34;Kickboxer: Vengeance&#34;, Kurt Sloan has vowed never to return to Thailand. However, while gearing up for a MMA title shot, he finds himself sedated and forced back into Thailand, this time in prison. He is there because the ones responsible want him to face a 6&#39;8&#34; 400 lbs. beast named Mongkut and in return for the fight, Kurt will get two million dollars and his freedom back. Kurt at first refuses, in which a bounty is placed on his head as a way to force him to face Mongkut. Kurt soon learns he will have no other choice and will undergo his most rigorous training yet under some unexpected mentors in order to face Mongkut in hopes to regain his freedom.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/18yT09uykrY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
