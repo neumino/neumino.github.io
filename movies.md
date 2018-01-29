@@ -46,16 +46,16 @@ A team of CIA agents and special forces head into Afghanistan in the aftermath o
 	
 	
 
-### Maze Runner: The Death Cure
-*Released on 2018-01-17, vote average 7.6*
+### Den of Thieves
+*Released on 2018-01-18, vote average 6.4*
 
-Thomas leads his group of escaped Gladers on their final and most dangerous mission yet. To save their friends, they must break into the legendary Last City, a WCKD-controlled labyrinth that may turn out to be the deadliest maze of all. Anyone who makes it out alive will get answers to the questions the Gladers have been asking since they first arrived in the maze.
+While planning a bank heist, a thief gets trapped between two sets of criminals.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/wnE_y4vN9nQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/XaR-YVAOpZY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,16 +68,16 @@ Thomas leads his group of escaped Gladers on their final and most dangerous miss
 	
 	
 
-### Den of Thieves
-*Released on 2018-01-18, vote average 6.4*
+### Maze Runner: The Death Cure
+*Released on 2018-01-17, vote average 7.6*
 
-While planning a bank heist, a thief gets trapped between two sets of criminals.
+Thomas leads his group of escaped Gladers on their final and most dangerous mission yet. To save their friends, they must break into the legendary Last City, a WCKD-controlled labyrinth that may turn out to be the deadliest maze of all. Anyone who makes it out alive will get answers to the questions the Gladers have been asking since they first arrived in the maze.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/XaR-YVAOpZY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/wnE_y4vN9nQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -132,11 +132,6 @@ After being gone for a decade a country star returns home to the love he left be
 
 
 	
-
-  
-
-
-	
 	
 
 ### Kickboxer: Retaliation
@@ -153,6 +148,11 @@ One year after the events of &#34;Kickboxer: Vengeance&#34;, Kurt Sloan has vowe
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -208,32 +208,27 @@ A teenager and his mother find themselves besieged by threatening forces when th
 
 
 	
-
-  
-
-
 	
 
-  
+### Early Man
+*Released on 2018-01-26, vote average 2.6*
 
-
-	
-	
-
-### A Futile and Stupid Gesture
-*Released on 2018-01-24, vote average 8.2*
-
-The National Lampoon name became globally recognized after the monumental success of Animal House—but before the glory days, it was a scrappy yet divinely subversive magazine and radio show that introduced the world to comedic geniuses like Bill Murray, Chevy Chase, John Belushi, and Gilda Radner. The driving force behind National Lampoon was Doug Kenney (Will Forte), and his truly wild and crazy story unfolds in A Futile and Stupid Gesture from Harvard to Hollywood to Caddyshack and beyond.
+Set at the dawn of time, when dinosaurs and woolly mammoths roamed the earth, Early Man tells the story of how one plucky caveman unites his tribe against a mighty enemy and saves the day!
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/33dztfqRu_k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xwp8betWIiM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -252,28 +247,6 @@ Jamilah has her whole life figured out. She&#39;s the president of her black sor
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/qMXO6Up6pvE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Little Bitches
-*Released on 2018-01-23, vote average 10*
-
-A group of friends vow to open their college acceptance letters at the same time during the big end-of -year party.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Jo8UCcryQwU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -316,21 +289,11 @@ Rani Padmavati - the wife of Maharawal Ratan Singh, is known for her beauty and 
 
 
 	
+
+  
+
+
 	
-
-### Dilan 1990
-*Released on 2018-01-25, vote average 4.3*
-
-It was 1990. Milea just moved from Jakarta to Bandung. She met a boy named Dilan. Soon they will face a great journey upon them.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/X_b-wNkz4DU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -338,7 +301,10 @@ It was 1990. Milea just moved from Jakarta to Bandung. She met a boy named Dilan
 
 
 	
-	
+
+  
+
+
 	
 
   
@@ -351,11 +317,45 @@ It was 1990. Milea just moved from Jakarta to Bandung. She met a boy named Dilan
 	
 
 	
+	
 
+### Winchester
+*Released on 2018-02-02, vote average 6*
+
+Firearm heiress Sarah Winchester is convinced that she is haunted by the souls killed at the hands of the Winchester repeating rifle. After the sudden deaths of her husband and child, she throws herself into the construction of an enormous mansion designed to keep the evil spirits at bay. But when skeptical San Francisco psychiatrist Eric Price is dispatched to the estate to evaluate her state of mind, he discovers that her obsession may not be so insane after all.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0Juc2cL26mg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
 
+	
+
+	
+	
+
+### Bilal: A New Breed of Hero
+*Released on 2018-02-02, vote average 9*
+
+A thousand years ago, one boy with a dream of becoming a great warrior is abducted with his sister and taken to a land far away from home. Thrown into a world where greed and injustice rule all, Bilal finds the courage to raise his voice and make a change. Inspired by true events, this is a story of a real hero who earned his remembrance in time and history.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/186eRogdnCg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
