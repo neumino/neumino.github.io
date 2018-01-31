@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### 12 Strong
-*Released on 2018-01-18, vote average 5.1*
+### Maze Runner: The Death Cure
+*Released on 2018-01-17, vote average 7.5*
 
-A team of CIA agents and special forces head into Afghanistan in the aftermath of the September 11th attacks in an attempt to dismantle the Taliban.
+Thomas leads his group of escaped Gladers on their final and most dangerous mission yet. To save their friends, they must break into the legendary Last City, a WCKD-controlled labyrinth that may turn out to be the deadliest maze of all. Anyone who makes it out alive will get answers to the questions the Gladers have been asking since they first arrived in the maze.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Zxag9p-63RU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/4-BTxXm8KSg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ A team of CIA agents and special forces head into Afghanistan in the aftermath o
 	
 	
 
-### Maze Runner: The Death Cure
-*Released on 2018-01-17, vote average 7.5*
+### 12 Strong
+*Released on 2018-01-18, vote average 5.1*
 
-Thomas leads his group of escaped Gladers on their final and most dangerous mission yet. To save their friends, they must break into the legendary Last City, a WCKD-controlled labyrinth that may turn out to be the deadliest maze of all. Anyone who makes it out alive will get answers to the questions the Gladers have been asking since they first arrived in the maze.
+A team of CIA agents and special forces head into Afghanistan in the aftermath of the September 11th attacks in an attempt to dismantle the Taliban.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/wnE_y4vN9nQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Zxag9p-63RU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -133,13 +133,6 @@ After being gone for a decade a country star returns home to the love he left be
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Kickboxer: Retaliation
 *Released on 2018-01-26, vote average 8*
@@ -162,6 +155,13 @@ One year after the events of &#34;Kickboxer: Vengeance&#34;, Kurt Sloan has vowe
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### The Open House
 *Released on 2018-01-19, vote average 3.7*
@@ -173,28 +173,6 @@ A teenager and his mother find themselves besieged by threatening forces when th
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/tMSu3Gyz1jU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Early Man
-*Released on 2018-01-26, vote average 2.6*
-
-Set at the dawn of time, when dinosaurs and woolly mammoths roamed the earth, Early Man tells the story of how one plucky caveman unites his tribe against a mighty enemy and saves the day!
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xwp8betWIiM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -229,6 +207,50 @@ The National Lampoon name became globally recognized after the monumental succes
 	
 	
 
+### Step Sisters
+*Released on 2018-01-19, vote average 6.6*
+
+Jamilah has her whole life figured out. She&#39;s the president of her black sorority, captain of their champion step dance crew, is student liaison to the college dean, and her next move is on to Harvard Law School. She&#39;s got it all, right? But when the hard-partying white girls from Sigma Beta Beta embarrass the school, Jamilah is ordered to come to the rescue. Her mission is to not only teach the rhythmically-challenged girls how to step dance, but to win the Steptacular, the most competitive of dance competitions. With the SBBs reputations and charter on the line, and Jamilah&#39;s dream of attending Harvard in jeopardy, these outcast screw-ups and their unlikely teacher stumble through one hilarious misstep after another. Cultures clash, romance blossoms, and sisterhood prevails as everyone steps out of their comfort zones.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qMXO6Up6pvE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Early Man
+*Released on 2018-01-26, vote average 2.6*
+
+Set at the dawn of time, when dinosaurs and woolly mammoths roamed the earth, Early Man tells the story of how one plucky caveman unites his tribe against a mighty enemy and saves the day!
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xwp8betWIiM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Clapper
 *Released on 2018-01-26, vote average 5.5*
 
@@ -243,11 +265,6 @@ The National Lampoon name became globally recognized after the monumental succes
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -281,21 +298,16 @@ Rani Padmavati - the wife of Maharawal Ratan Singh, is known for her beauty and 
 
 
 	
+
+  
+
+
 	
 
-### Step Sisters
-*Released on 2018-01-19, vote average 6.6*
+  
 
-Jamilah has her whole life figured out. She&#39;s the president of her black sorority, captain of their champion step dance crew, is student liaison to the college dean, and her next move is on to Harvard Law School. She&#39;s got it all, right? But when the hard-partying white girls from Sigma Beta Beta embarrass the school, Jamilah is ordered to come to the rescue. Her mission is to not only teach the rhythmically-challenged girls how to step dance, but to win the Steptacular, the most competitive of dance competitions. With the SBBs reputations and charter on the line, and Jamilah&#39;s dream of attending Harvard in jeopardy, these outcast screw-ups and their unlikely teacher stumble through one hilarious misstep after another. Cultures clash, romance blossoms, and sisterhood prevails as everyone steps out of their comfort zones.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qMXO6Up6pvE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
+	
 	
 	
 
@@ -334,39 +346,10 @@ A group of friends vow to open their college acceptance letters at the same time
   
 
 
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
 
-	
-	
-
-### Winchester
-*Released on 2018-02-02, vote average 6*
-
-Firearm heiress Sarah Winchester is convinced that she is haunted by the souls killed at the hands of the Winchester repeating rifle. After the sudden deaths of her husband and child, she throws herself into the construction of an enormous mansion designed to keep the evil spirits at bay. But when skeptical San Francisco psychiatrist Eric Price is dispatched to the estate to evaluate her state of mind, he discovers that her obsession may not be so insane after all.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0Juc2cL26mg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
@@ -382,6 +365,25 @@ Mike Fallon, the Accident Man, is a stone cold killer.  When a loved one is murd
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/ODmJXjcRzG0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### Winchester
+*Released on 2018-02-02, vote average 4.3*
+
+Firearm heiress Sarah Winchester is convinced that she is haunted by the souls killed at the hands of the Winchester repeating rifle. After the sudden deaths of her husband and child, she throws herself into the construction of an enormous mansion designed to keep the evil spirits at bay. But when skeptical San Francisco psychiatrist Eric Price is dispatched to the estate to evaluate her state of mind, he discovers that her obsession may not be so insane after all.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0Juc2cL26mg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -422,7 +424,7 @@ A thousand years ago, one boy with a dream of becoming a great warrior is abduct
 	
 
 	
-
+	
 	
 
 	
