@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Maze Runner: The Death Cure
-*Released on 2018-01-17, vote average 7.5*
+### 12 Strong
+*Released on 2018-01-18, vote average 5.1*
 
-Thomas leads his group of escaped Gladers on their final and most dangerous mission yet. To save their friends, they must break into the legendary Last City, a WCKD-controlled labyrinth that may turn out to be the deadliest maze of all. Anyone who makes it out alive will get answers to the questions the Gladers have been asking since they first arrived in the maze.
+A team of CIA agents and special forces head into Afghanistan in the aftermath of the September 11th attacks in an attempt to dismantle the Taliban.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/4-BTxXm8KSg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Zxag9p-63RU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ Thomas leads his group of escaped Gladers on their final and most dangerous miss
 	
 	
 
-### 12 Strong
-*Released on 2018-01-18, vote average 5.1*
+### Den of Thieves
+*Released on 2018-01-18, vote average 5.7*
 
-A team of CIA agents and special forces head into Afghanistan in the aftermath of the September 11th attacks in an attempt to dismantle the Taliban.
+While planning a bank heist, a thief gets trapped between two sets of criminals.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Zxag9p-63RU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/XaR-YVAOpZY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,16 +68,16 @@ A team of CIA agents and special forces head into Afghanistan in the aftermath o
 	
 	
 
-### Den of Thieves
-*Released on 2018-01-18, vote average 5.9*
+### Forever My Girl
+*Released on 2018-01-26, vote average 7.8*
 
-While planning a bank heist, a thief gets trapped between two sets of criminals.
+After being gone for a decade a country star returns home to the love he left behind.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/XaR-YVAOpZY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/IpjApG307D8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -100,28 +100,6 @@ A teenage girl and her little brother must survive a wild 24 hours during which 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/O4Kb40pnoOY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Forever My Girl
-*Released on 2018-01-26, vote average 8.8*
-
-After being gone for a decade a country star returns home to the love he left behind.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IpjApG307D8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -164,7 +142,7 @@ One year after the events of &#34;Kickboxer: Vengeance&#34;, Kurt Sloan has vowe
 	
 
 ### The Open House
-*Released on 2018-01-19, vote average 3.7*
+*Released on 2018-01-19, vote average 3.6*
 
 A teenager and his mother find themselves besieged by threatening forces when they move into a new house.
 
@@ -186,7 +164,7 @@ A teenager and his mother find themselves besieged by threatening forces when th
 	
 
 ### A Futile and Stupid Gesture
-*Released on 2018-01-24, vote average 7.4*
+*Released on 2018-01-24, vote average 7.2*
 
 The National Lampoon name became globally recognized after the monumental success of Animal House—but before the glory days, it was a scrappy yet divinely subversive magazine and radio show that introduced the world to comedic geniuses like Bill Murray, Chevy Chase, John Belushi, and Gilda Radner. The driving force behind National Lampoon was Doug Kenney (Will Forte), and his truly wild and crazy story unfolds in A Futile and Stupid Gesture from Harvard to Hollywood to Caddyshack and beyond.
 
@@ -195,6 +173,33 @@ The National Lampoon name became globally recognized after the monumental succes
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/33dztfqRu_k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Early Man
+*Released on 2018-01-26, vote average 3.7*
+
+Set at the dawn of time, when dinosaurs and woolly mammoths roamed the earth, Early Man tells the story of how one plucky caveman unites his tribe against a mighty enemy and saves the day!
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xwp8betWIiM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -229,20 +234,47 @@ Jamilah has her whole life figured out. She&#39;s the president of her black sor
 	
 	
 
-### Early Man
-*Released on 2018-01-26, vote average 2.6*
+### Padmaavat
+*Released on 2018-01-25, vote average 8.6*
 
-Set at the dawn of time, when dinosaurs and woolly mammoths roamed the earth, Early Man tells the story of how one plucky caveman unites his tribe against a mighty enemy and saves the day!
+Rani Padmavati - the wife of Maharawal Ratan Singh, is known for her beauty and valour in 13th century India. She captures the fancy of the reigning Sultan of Delhi, the tyrant Alauddin Khilji, who becomes obsessed with her and goes to great lengths to fulfill his greed.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xwp8betWIiM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/X_5_BLt76c0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Death Race: Beyond Anarchy
+*Released on 2018-01-30, vote average 10*
+
+Danny Trejo returns as the ruthless bookie, Goldberg, in the wildest, bloodiest, Death Race ever. After a failed attack on inmate and legendary driver, Frankenstein, Black Ops specialist Connor Gibson (McGowan) infiltrates a super-maximum federal prison with one goal - enter the immoral and illegal Death Race and take Frankenstein down. Connor enlists the help of Baltimore Bob (Glover) and Lists (Koehler), and unexpectedly falls in love with bartending beauty, Jane (Marzano). Connor will have to fight for more than his life in this brutal world of no guards, no rules, no track, and no fear.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Fz5kxN6q1dM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -271,23 +303,6 @@ Set at the dawn of time, when dinosaurs and woolly mammoths roamed the earth, Ea
 
 
 	
-	
-
-### Padmaavat
-*Released on 2018-01-25, vote average 9*
-
-Rani Padmavati - the wife of Maharawal Ratan Singh, is known for her beauty and valour in 13th century India. She captures the fancy of the reigning Sultan of Delhi, the tyrant Alauddin Khilji, who becomes obsessed with her and goes to great lengths to fulfill his greed.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/X_5_BLt76c0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -302,40 +317,6 @@ Rani Padmavati - the wife of Maharawal Ratan Singh, is known for her beauty and 
   
 
 
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Little Bitches
-*Released on 2018-01-23, vote average 3.8*
-
-A group of friends vow to open their college acceptance letters at the same time during the big end-of -year party.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Jo8UCcryQwU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -350,6 +331,23 @@ A group of friends vow to open their college acceptance letters at the same time
 ## Opening soon
 
 
+	
+	
+
+### Winchester
+*Released on 2018-02-02, vote average 4.3*
+
+Firearm heiress Sarah Winchester is convinced that she is haunted by the souls killed at the hands of the Winchester repeating rifle. After the sudden deaths of her husband and child, she throws herself into the construction of an enormous mansion designed to keep the evil spirits at bay. But when skeptical San Francisco psychiatrist Eric Price is dispatched to the estate to evaluate her state of mind, he discovers that her obsession may not be so insane after all.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0Juc2cL26mg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -372,18 +370,20 @@ Mike Fallon, the Accident Man, is a stone cold killer.  When a loved one is murd
 	
 
 	
+
+	
 	
 
-### Winchester
-*Released on 2018-02-02, vote average 4.3*
+### The 15:17 to Paris
+*Released on 2018-02-02, vote average 0.5*
 
-Firearm heiress Sarah Winchester is convinced that she is haunted by the souls killed at the hands of the Winchester repeating rifle. After the sudden deaths of her husband and child, she throws herself into the construction of an enormous mansion designed to keep the evil spirits at bay. But when skeptical San Francisco psychiatrist Eric Price is dispatched to the estate to evaluate her state of mind, he discovers that her obsession may not be so insane after all.
+In August 2015, an ISIS terrorist boarded train #9364 from Brussels to Paris. Armed with an AK-47 and enough ammo to kill more than 500 people, the terrorist might have succeeded except for three American friends who refused to give in to fear. Stone was a martial arts enthusiast and airman first class in the U.S. Air Force, Skarlatos was a member of the Oregon National Guard, and all three pals proved fearless as they charged and ultimately overpowered the gunman after he emerged from a bathroom armed and ready to kill.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/0Juc2cL26mg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/IC_lnyn2R2Q?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -421,10 +421,6 @@ A thousand years ago, one boy with a dream of becoming a great warrior is abduct
 
 	
 
-	
-
-	
-	
 	
 
 	
