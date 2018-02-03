@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Mom and Dad
-*Released on 2018-01-19, vote average 5.4*
+### Winchester
+*Released on 2018-02-02, vote average 5.3*
 
-A teenage girl and her little brother must survive a wild 24 hours during which a mass hysteria of unknown origin causes parents to turn violently on their own kids.
+Firearm heiress Sarah Winchester is convinced that she is haunted by the souls killed at the hands of the Winchester repeating rifle. After the sudden deaths of her husband and child, she throws herself into the construction of an enormous mansion designed to keep the evil spirits at bay. But when skeptical San Francisco psychiatrist Eric Price is dispatched to the estate to evaluate her state of mind, he discovers that her obsession may not be so insane after all.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/O4Kb40pnoOY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/0Juc2cL26mg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -40,6 +40,99 @@ A teenage girl and her little brother must survive a wild 24 hours during which 
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+  
+
+
+	
+	
+
+### The 15:17 to Paris
+*Released on 2018-02-02, vote average 3.8*
+
+In August 2015, an ISIS terrorist boarded train #9364 from Brussels to Paris. Armed with an AK-47 and enough ammo to kill more than 500 people, the terrorist might have succeeded except for three American friends who refused to give in to fear. Stone was a martial arts enthusiast and airman first class in the U.S. Air Force, Skarlatos was a member of the Oregon National Guard, and all three pals proved fearless as they charged and ultimately overpowered the gunman after he emerged from a bathroom armed and ready to kill.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IC_lnyn2R2Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Bilal: A New Breed of Hero
+*Released on 2018-02-02, vote average 9*
+
+A thousand years ago, one boy with a dream of becoming a great warrior is abducted with his sister and taken to a land far away from home. Thrown into a world where greed and injustice rule all, Bilal finds the courage to raise his voice and make a change. Inspired by true events, this is a story of a real hero who earned his remembrance in time and history.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/186eRogdnCg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Death Race: Beyond Anarchy
+*Released on 2018-01-30, vote average 10*
+
+Danny Trejo returns as the ruthless bookie, Goldberg, in the wildest, bloodiest, Death Race ever. After a failed attack on inmate and legendary driver, Frankenstein, Black Ops specialist Connor Gibson (McGowan) infiltrates a super-maximum federal prison with one goal - enter the immoral and illegal Death Race and take Frankenstein down. Connor enlists the help of Baltimore Bob (Glover) and Lists (Koehler), and unexpectedly falls in love with bartending beauty, Jane (Marzano). Connor will have to fight for more than his life in this brutal world of no guards, no rules, no track, and no fear.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Fz5kxN6q1dM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Braven
+*Released on 2018-02-01, vote average 7*
+
+A logger defends his family from a group of dangerous drug runners.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/psqUcvR4Vhc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
   
 
 
@@ -90,155 +183,6 @@ One year after the events of &#34;Kickboxer: Vengeance&#34;, Kurt Sloan has vowe
 	
 	
 
-### Step Sisters
-*Released on 2018-01-19, vote average 6.6*
-
-Jamilah has her whole life figured out. She&#39;s the president of her black sorority, captain of their champion step dance crew, is student liaison to the college dean, and her next move is on to Harvard Law School. She&#39;s got it all, right? But when the hard-partying white girls from Sigma Beta Beta embarrass the school, Jamilah is ordered to come to the rescue. Her mission is to not only teach the rhythmically-challenged girls how to step dance, but to win the Steptacular, the most competitive of dance competitions. With the SBBs reputations and charter on the line, and Jamilah&#39;s dream of attending Harvard in jeopardy, these outcast screw-ups and their unlikely teacher stumble through one hilarious misstep after another. Cultures clash, romance blossoms, and sisterhood prevails as everyone steps out of their comfort zones.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qMXO6Up6pvE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Winchester
-*Released on 2018-02-02, vote average 4.3*
-
-Firearm heiress Sarah Winchester is convinced that she is haunted by the souls killed at the hands of the Winchester repeating rifle. After the sudden deaths of her husband and child, she throws herself into the construction of an enormous mansion designed to keep the evil spirits at bay. But when skeptical San Francisco psychiatrist Eric Price is dispatched to the estate to evaluate her state of mind, he discovers that her obsession may not be so insane after all.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0Juc2cL26mg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The 15:17 to Paris
-*Released on 2018-02-02, vote average 0.5*
-
-In August 2015, an ISIS terrorist boarded train #9364 from Brussels to Paris. Armed with an AK-47 and enough ammo to kill more than 500 people, the terrorist might have succeeded except for three American friends who refused to give in to fear. Stone was a martial arts enthusiast and airman first class in the U.S. Air Force, Skarlatos was a member of the Oregon National Guard, and all three pals proved fearless as they charged and ultimately overpowered the gunman after he emerged from a bathroom armed and ready to kill.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IC_lnyn2R2Q?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Bilal: A New Breed of Hero
-*Released on 2018-02-02, vote average 9*
-
-A thousand years ago, one boy with a dream of becoming a great warrior is abducted with his sister and taken to a land far away from home. Thrown into a world where greed and injustice rule all, Bilal finds the courage to raise his voice and make a change. Inspired by true events, this is a story of a real hero who earned his remembrance in time and history.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/186eRogdnCg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Early Man
-*Released on 2018-01-26, vote average 3.7*
-
-Set at the dawn of time, when dinosaurs and woolly mammoths roamed the earth, Early Man tells the story of how one plucky caveman unites his tribe against a mighty enemy and saves the day!
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xwp8betWIiM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Death Race: Beyond Anarchy
-*Released on 2018-01-30, vote average 10*
-
-Danny Trejo returns as the ruthless bookie, Goldberg, in the wildest, bloodiest, Death Race ever. After a failed attack on inmate and legendary driver, Frankenstein, Black Ops specialist Connor Gibson (McGowan) infiltrates a super-maximum federal prison with one goal - enter the immoral and illegal Death Race and take Frankenstein down. Connor enlists the help of Baltimore Bob (Glover) and Lists (Koehler), and unexpectedly falls in love with bartending beauty, Jane (Marzano). Connor will have to fight for more than his life in this brutal world of no guards, no rules, no track, and no fear.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Fz5kxN6q1dM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### A Futile and Stupid Gesture
 *Released on 2018-01-24, vote average 7.2*
 
@@ -259,18 +203,50 @@ The National Lampoon name became globally recognized after the monumental succes
 
 
 	
+
+  
+
+
 	
 
-### The Open House
-*Released on 2018-01-19, vote average 3.6*
+  
 
-A teenager and his mother find themselves besieged by threatening forces when they move into a new house.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Early Man
+*Released on 2018-01-26, vote average 4.4*
+
+Set at the dawn of time, when dinosaurs and woolly mammoths roamed the earth, Early Man tells the story of how one plucky caveman unites his tribe against a mighty enemy and saves the day!
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/tMSu3Gyz1jU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xwp8betWIiM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -281,15 +257,10 @@ A teenager and his mother find themselves besieged by threatening forces when th
 
 
 	
-
-  
-
-
-	
 	
 
 ### Padmaavat
-*Released on 2018-01-25, vote average 8.6*
+*Released on 2018-01-25, vote average 8*
 
 Rani Padmavati - the wife of Maharawal Ratan Singh, is known for her beauty and valour in 13th century India. She captures the fancy of the reigning Sultan of Delhi, the tyrant Alauddin Khilji, who becomes obsessed with her and goes to great lengths to fulfill his greed.
 
@@ -309,33 +280,11 @@ Rani Padmavati - the wife of Maharawal Ratan Singh, is known for her beauty and 
 
 	
 	
-
-### The Clapper
-*Released on 2018-01-26, vote average 5.5*
-
-15 minutes of fame destroys the life of a man who works as a clapper in television.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hFYwmBzqoac?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
 
 
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -349,6 +298,25 @@ Rani Padmavati - the wife of Maharawal Ratan Singh, is known for her beauty and 
 
 ## Opening soon
 
+
+	
+	
+
+### Fifty Shades Freed
+*Released on 2018-02-07, vote average 8.5*
+
+The third installment of the Fifty Shades Trilogy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/GpAuCG6iUcA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 	
@@ -370,81 +338,11 @@ Mike Fallon, the Accident Man, is a stone cold killer.  When a loved one is murd
 	
 
 	
-	
-
-### Winchester
-*Released on 2018-02-02, vote average 4.3*
-
-Firearm heiress Sarah Winchester is convinced that she is haunted by the souls killed at the hands of the Winchester repeating rifle. After the sudden deaths of her husband and child, she throws herself into the construction of an enormous mansion designed to keep the evil spirits at bay. But when skeptical San Francisco psychiatrist Eric Price is dispatched to the estate to evaluate her state of mind, he discovers that her obsession may not be so insane after all.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0Juc2cL26mg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
 	
-	
 
-### The 15:17 to Paris
-*Released on 2018-02-02, vote average 0.5*
-
-In August 2015, an ISIS terrorist boarded train #9364 from Brussels to Paris. Armed with an AK-47 and enough ammo to kill more than 500 people, the terrorist might have succeeded except for three American friends who refused to give in to fear. Stone was a martial arts enthusiast and airman first class in the U.S. Air Force, Skarlatos was a member of the Oregon National Guard, and all three pals proved fearless as they charged and ultimately overpowered the gunman after he emerged from a bathroom armed and ready to kill.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IC_lnyn2R2Q?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Bilal: A New Breed of Hero
-*Released on 2018-02-02, vote average 9*
-
-A thousand years ago, one boy with a dream of becoming a great warrior is abducted with his sister and taken to a land far away from home. Thrown into a world where greed and injustice rule all, Bilal finds the courage to raise his voice and make a change. Inspired by true events, this is a story of a real hero who earned his remembrance in time and history.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/186eRogdnCg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Fifty Shades Freed
-*Released on 2018-02-07, vote average 10*
-
-The third installment of the Fifty Shades Trilogy.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/GpAuCG6iUcA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
