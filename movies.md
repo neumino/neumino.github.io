@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Winchester
-*Released on 2018-02-02, vote average 5.3*
+*Released on 2018-02-02, vote average 5.6*
 
 Firearm heiress Sarah Winchester is convinced that she is haunted by the souls killed at the hands of the Winchester repeating rifle. After the sudden deaths of her husband and child, she throws herself into the construction of an enormous mansion designed to keep the evil spirits at bay. But when skeptical San Francisco psychiatrist Eric Price is dispatched to the estate to evaluate her state of mind, he discovers that her obsession may not be so insane after all.
 
@@ -47,7 +47,7 @@ Firearm heiress Sarah Winchester is convinced that she is haunted by the souls k
 	
 
 ### The 15:17 to Paris
-*Released on 2018-02-02, vote average 3.8*
+*Released on 2018-02-02, vote average 3.7*
 
 In August 2015, an ISIS terrorist boarded train #9364 from Brussels to Paris. Armed with an AK-47 and enough ammo to kill more than 500 people, the terrorist might have succeeded except for three American friends who refused to give in to fear. Stone was a martial arts enthusiast and airman first class in the U.S. Air Force, Skarlatos was a member of the Oregon National Guard, and all three pals proved fearless as they charged and ultimately overpowered the gunman after he emerged from a bathroom armed and ready to kill.
 
@@ -56,6 +56,28 @@ In August 2015, an ISIS terrorist boarded train #9364 from Brussels to Paris. Ar
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/IC_lnyn2R2Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Death Race: Beyond Anarchy
+*Released on 2018-01-30, vote average 5.5*
+
+Danny Trejo returns as the ruthless bookie, Goldberg, in the wildest, bloodiest, Death Race ever. After a failed attack on inmate and legendary driver, Frankenstein, Black Ops specialist Connor Gibson (McGowan) infiltrates a super-maximum federal prison with one goal - enter the immoral and illegal Death Race and take Frankenstein down. Connor enlists the help of Baltimore Bob (Glover) and Lists (Koehler), and unexpectedly falls in love with bartending beauty, Jane (Marzano). Connor will have to fight for more than his life in this brutal world of no guards, no rules, no track, and no fear.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Fz5kxN6q1dM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -95,30 +117,8 @@ A thousand years ago, one boy with a dream of becoming a great warrior is abduct
 	
 	
 
-### Death Race: Beyond Anarchy
-*Released on 2018-01-30, vote average 10*
-
-Danny Trejo returns as the ruthless bookie, Goldberg, in the wildest, bloodiest, Death Race ever. After a failed attack on inmate and legendary driver, Frankenstein, Black Ops specialist Connor Gibson (McGowan) infiltrates a super-maximum federal prison with one goal - enter the immoral and illegal Death Race and take Frankenstein down. Connor enlists the help of Baltimore Bob (Glover) and Lists (Koehler), and unexpectedly falls in love with bartending beauty, Jane (Marzano). Connor will have to fight for more than his life in this brutal world of no guards, no rules, no track, and no fear.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Fz5kxN6q1dM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Braven
-*Released on 2018-02-01, vote average 7*
+*Released on 2018-02-01, vote average 6*
 
 A logger defends his family from a group of dangerous drug runners.
 
@@ -184,7 +184,7 @@ One year after the events of &#34;Kickboxer: Vengeance&#34;, Kurt Sloan has vowe
 	
 
 ### A Futile and Stupid Gesture
-*Released on 2018-01-24, vote average 7.2*
+*Released on 2018-01-24, vote average 7.1*
 
 The National Lampoon name became globally recognized after the monumental success of Animal House—but before the glory days, it was a scrappy yet divinely subversive magazine and radio show that introduced the world to comedic geniuses like Bill Murray, Chevy Chase, John Belushi, and Gilda Radner. The driving force behind National Lampoon was Doug Kenney (Will Forte), and his truly wild and crazy story unfolds in A Futile and Stupid Gesture from Harvard to Hollywood to Caddyshack and beyond.
 
@@ -193,60 +193,6 @@ The National Lampoon name became globally recognized after the monumental succes
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/33dztfqRu_k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Early Man
-*Released on 2018-01-26, vote average 4.4*
-
-Set at the dawn of time, when dinosaurs and woolly mammoths roamed the earth, Early Man tells the story of how one plucky caveman unites his tribe against a mighty enemy and saves the day!
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xwp8betWIiM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -279,7 +225,57 @@ Rani Padmavati - the wife of Maharawal Ratan Singh, is known for her beauty and 
 
 
 	
+
+  
+
+
 	
+
+  
+
+
+	
+	
+
+### Early Man
+*Released on 2018-01-26, vote average 4.4*
+
+Set at the dawn of time, when dinosaurs and woolly mammoths roamed the earth, Early Man tells the story of how one plucky caveman unites his tribe against a mighty enemy and saves the day!
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xwp8betWIiM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -303,7 +299,7 @@ Rani Padmavati - the wife of Maharawal Ratan Singh, is known for her beauty and 
 	
 
 ### Fifty Shades Freed
-*Released on 2018-02-07, vote average 8.5*
+*Released on 2018-02-07, vote average 8.1*
 
 The third installment of the Fifty Shades Trilogy.
 
@@ -322,7 +318,7 @@ The third installment of the Fifty Shades Trilogy.
 	
 
 ### Accident Man
-*Released on 2018-02-05, vote average 5*
+*Released on 2018-02-05, vote average 5.4*
 
 Mike Fallon, the Accident Man, is a stone cold killer.  When a loved one is murdered by his own crew, Fallon is forced to avenge the one person who actually meant something to him.
 
@@ -369,6 +365,8 @@ Mike Fallon, the Accident Man, is a stone cold killer.  When a loved one is murd
 
 	
 
+	
+	
 	
 
 	
