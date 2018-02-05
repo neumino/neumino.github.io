@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Winchester
-*Released on 2018-02-02, vote average 5.6*
+### Death Race: Beyond Anarchy
+*Released on 2018-01-30, vote average 5.7*
 
-Firearm heiress Sarah Winchester is convinced that she is haunted by the souls killed at the hands of the Winchester repeating rifle. After the sudden deaths of her husband and child, she throws herself into the construction of an enormous mansion designed to keep the evil spirits at bay. But when skeptical San Francisco psychiatrist Eric Price is dispatched to the estate to evaluate her state of mind, he discovers that her obsession may not be so insane after all.
+Danny Trejo returns as the ruthless bookie, Goldberg, in the wildest, bloodiest, Death Race ever. After a failed attack on inmate and legendary driver, Frankenstein, Black Ops specialist Connor Gibson (McGowan) infiltrates a super-maximum federal prison with one goal - enter the immoral and illegal Death Race and take Frankenstein down. Connor enlists the help of Baltimore Bob (Glover) and Lists (Koehler), and unexpectedly falls in love with bartending beauty, Jane (Marzano). Connor will have to fight for more than his life in this brutal world of no guards, no rules, no track, and no fear.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/0Juc2cL26mg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Fz5kxN6q1dM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,79 +46,8 @@ Firearm heiress Sarah Winchester is convinced that she is haunted by the souls k
 	
 	
 
-### The 15:17 to Paris
-*Released on 2018-02-02, vote average 3.7*
-
-In August 2015, an ISIS terrorist boarded train #9364 from Brussels to Paris. Armed with an AK-47 and enough ammo to kill more than 500 people, the terrorist might have succeeded except for three American friends who refused to give in to fear. Stone was a martial arts enthusiast and airman first class in the U.S. Air Force, Skarlatos was a member of the Oregon National Guard, and all three pals proved fearless as they charged and ultimately overpowered the gunman after he emerged from a bathroom armed and ready to kill.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IC_lnyn2R2Q?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Death Race: Beyond Anarchy
-*Released on 2018-01-30, vote average 5.5*
-
-Danny Trejo returns as the ruthless bookie, Goldberg, in the wildest, bloodiest, Death Race ever. After a failed attack on inmate and legendary driver, Frankenstein, Black Ops specialist Connor Gibson (McGowan) infiltrates a super-maximum federal prison with one goal - enter the immoral and illegal Death Race and take Frankenstein down. Connor enlists the help of Baltimore Bob (Glover) and Lists (Koehler), and unexpectedly falls in love with bartending beauty, Jane (Marzano). Connor will have to fight for more than his life in this brutal world of no guards, no rules, no track, and no fear.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Fz5kxN6q1dM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Bilal: A New Breed of Hero
-*Released on 2018-02-02, vote average 9*
-
-A thousand years ago, one boy with a dream of becoming a great warrior is abducted with his sister and taken to a land far away from home. Thrown into a world where greed and injustice rule all, Bilal finds the courage to raise his voice and make a change. Inspired by true events, this is a story of a real hero who earned his remembrance in time and history.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/186eRogdnCg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Braven
-*Released on 2018-02-01, vote average 6*
+*Released on 2018-02-01, vote average 5.8*
 
 A logger defends his family from a group of dangerous drug runners.
 
@@ -139,16 +68,16 @@ A logger defends his family from a group of dangerous drug runners.
 	
 	
 
-### Forever My Girl
-*Released on 2018-01-26, vote average 7.8*
+### Winchester
+*Released on 2018-02-02, vote average 5.2*
 
-After being gone for a decade a country star returns home to the love he left behind.
+Firearm heiress Sarah Winchester is convinced that she is haunted by the souls killed at the hands of the Winchester repeating rifle. After the sudden deaths of her husband and child, she throws herself into the construction of an enormous mansion designed to keep the evil spirits at bay. But when skeptical San Francisco psychiatrist Eric Price is dispatched to the estate to evaluate her state of mind, he discovers that her obsession may not be so insane after all.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/IpjApG307D8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/0Juc2cL26mg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -161,16 +90,38 @@ After being gone for a decade a country star returns home to the love he left be
 	
 	
 
-### Kickboxer: Retaliation
-*Released on 2018-01-26, vote average 5.9*
+### Accident Man
+*Released on 2018-02-05, vote average 5.4*
 
-One year after the events of &#34;Kickboxer: Vengeance&#34;, Kurt Sloan has vowed never to return to Thailand. However, while gearing up for a MMA title shot, he finds himself sedated and forced back into Thailand, this time in prison. He is there because the ones responsible want him to face a 6&#39;8&#34; 400 lbs. beast named Mongkut and in return for the fight, Kurt will get two million dollars and his freedom back. Kurt at first refuses, in which a bounty is placed on his head as a way to force him to face Mongkut. Kurt soon learns he will have no other choice and will undergo his most rigorous training yet under some unexpected mentors in order to face Mongkut in hopes to regain his freedom.
+Mike Fallon, the Accident Man, is a stone cold killer.  When a loved one is murdered by his own crew, Fallon is forced to avenge the one person who actually meant something to him.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/18yT09uykrY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ODmJXjcRzG0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The 15:17 to Paris
+*Released on 2018-02-02, vote average 3.7*
+
+In August 2015, an ISIS terrorist boarded train #9364 from Brussels to Paris. Armed with an AK-47 and enough ammo to kill more than 500 people, the terrorist might have succeeded except for three American friends who refused to give in to fear. Stone was a martial arts enthusiast and airman first class in the U.S. Air Force, Skarlatos was a member of the Oregon National Guard, and all three pals proved fearless as they charged and ultimately overpowered the gunman after he emerged from a bathroom armed and ready to kill.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IC_lnyn2R2Q?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -205,6 +156,77 @@ The National Lampoon name became globally recognized after the monumental succes
 	
 	
 
+### Wastelander
+*Released on 2018-02-02, vote average 5.5*
+
+In a post-apocalyptic landscape, an ex-soldier wanders in search of his lost home and family. Along the way, he joins a makeshift group of survivors who convince him to lead them through the wasteland. But when a band of pillaging raiders comes after them, they must fight to survive in this cruel dystopia.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/NHV7aizjdC4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Bilal: A New Breed of Hero
+*Released on 2018-02-02, vote average 9*
+
+A thousand years ago, one boy with a dream of becoming a great warrior is abducted with his sister and taken to a land far away from home. Thrown into a world where greed and injustice rule all, Bilal finds the courage to raise his voice and make a change. Inspired by true events, this is a story of a real hero who earned his remembrance in time and history.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/186eRogdnCg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Forever My Girl
+*Released on 2018-01-26, vote average 7.8*
+
+After being gone for a decade a country star returns home to the love he left behind.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IpjApG307D8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### Padmaavat
 *Released on 2018-01-25, vote average 8*
 
@@ -218,6 +240,47 @@ Rani Padmavati - the wife of Maharawal Ratan Singh, is known for her beauty and 
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Kickboxer: Retaliation
+*Released on 2018-01-26, vote average 5.9*
+
+One year after the events of &#34;Kickboxer: Vengeance&#34;, Kurt Sloan has vowed never to return to Thailand. However, while gearing up for a MMA title shot, he finds himself sedated and forced back into Thailand, this time in prison. He is there because the ones responsible want him to face a 6&#39;8&#34; 400 lbs. beast named Mongkut and in return for the fight, Kurt will get two million dollars and his freedom back. Kurt at first refuses, in which a bounty is placed on his head as a way to force him to face Mongkut. Kurt soon learns he will have no other choice and will undergo his most rigorous training yet under some unexpected mentors in order to face Mongkut in hopes to regain his freedom.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/18yT09uykrY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 	
 
@@ -266,31 +329,6 @@ Set at the dawn of time, when dinosaurs and woolly mammoths roamed the earth, Ea
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -299,7 +337,7 @@ Set at the dawn of time, when dinosaurs and woolly mammoths roamed the earth, Ea
 	
 
 ### Fifty Shades Freed
-*Released on 2018-02-07, vote average 8.1*
+*Released on 2018-02-07, vote average 7.3*
 
 The third installment of the Fifty Shades Trilogy.
 
@@ -334,6 +372,23 @@ Mike Fallon, the Accident Man, is a stone cold killer.  When a loved one is murd
 	
 
 	
+	
+
+### Peter Rabbit
+*Released on 2018-02-07, vote average 10*
+
+Feature adaptation of Beatrix Potter&#39;s classic tale of a rebellious rabbit trying to sneak into a farmer&#39;s vegetable garden.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ahW0AP1ecxY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
@@ -352,6 +407,23 @@ Mike Fallon, the Accident Man, is a stone cold killer.  When a loved one is murd
 	
 
 	
+	
+
+### Aiyaary
+*Released on 2018-02-09, vote average 7*
+
+Witness the story of two Indian Army officers, a mentor and his protégé on this Republic Day.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KcWXKmnZZVo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
@@ -365,8 +437,6 @@ Mike Fallon, the Accident Man, is a stone cold killer.  When a loved one is murd
 
 	
 
-	
-	
 	
 
 	
