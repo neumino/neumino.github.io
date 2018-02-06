@@ -46,6 +46,28 @@ Danny Trejo returns as the ruthless bookie, Goldberg, in the wildest, bloodiest,
 	
 	
 
+### Accident Man
+*Released on 2018-02-05, vote average 5.4*
+
+Mike Fallon, the Accident Man, is a stone cold killer.  When a loved one is murdered by his own crew, Fallon is forced to avenge the one person who actually meant something to him.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ODmJXjcRzG0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Braven
 *Released on 2018-02-01, vote average 5.8*
 
@@ -90,16 +112,16 @@ Firearm heiress Sarah Winchester is convinced that she is haunted by the souls k
 	
 	
 
-### Accident Man
-*Released on 2018-02-05, vote average 5.4*
+### A Futile and Stupid Gesture
+*Released on 2018-01-24, vote average 7.1*
 
-Mike Fallon, the Accident Man, is a stone cold killer.  When a loved one is murdered by his own crew, Fallon is forced to avenge the one person who actually meant something to him.
+The National Lampoon name became globally recognized after the monumental success of Animal House—but before the glory days, it was a scrappy yet divinely subversive magazine and radio show that introduced the world to comedic geniuses like Bill Murray, Chevy Chase, John Belushi, and Gilda Radner. The driving force behind National Lampoon was Doug Kenney (Will Forte), and his truly wild and crazy story unfolds in A Futile and Stupid Gesture from Harvard to Hollywood to Caddyshack and beyond.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ODmJXjcRzG0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/33dztfqRu_k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,19 +156,48 @@ In August 2015, an ISIS terrorist boarded train #9364 from Brussels to Paris. Ar
 	
 	
 
-### A Futile and Stupid Gesture
-*Released on 2018-01-24, vote average 7.1*
+### Padmaavat
+*Released on 2018-01-25, vote average 8*
 
-The National Lampoon name became globally recognized after the monumental success of Animal House—but before the glory days, it was a scrappy yet divinely subversive magazine and radio show that introduced the world to comedic geniuses like Bill Murray, Chevy Chase, John Belushi, and Gilda Radner. The driving force behind National Lampoon was Doug Kenney (Will Forte), and his truly wild and crazy story unfolds in A Futile and Stupid Gesture from Harvard to Hollywood to Caddyshack and beyond.
+Rani Padmavati - the wife of Maharawal Ratan Singh, is known for her beauty and valour in 13th century India. She captures the fancy of the reigning Sultan of Delhi, the tyrant Alauddin Khilji, who becomes obsessed with her and goes to great lengths to fulfill his greed.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/33dztfqRu_k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/X_5_BLt76c0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+	
+
+### Forever My Girl
+*Released on 2018-01-26, vote average 7.8*
+
+After being gone for a decade a country star returns home to the love he left behind.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IpjApG307D8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -198,18 +249,23 @@ A thousand years ago, one boy with a dream of becoming a great warrior is abduct
 
 
 	
+
+  
+
+
+	
 	
 
-### Forever My Girl
-*Released on 2018-01-26, vote average 7.8*
+### Early Man
+*Released on 2018-01-26, vote average 4.5*
 
-After being gone for a decade a country star returns home to the love he left behind.
+Set at the dawn of time, when dinosaurs and woolly mammoths roamed the earth, Early Man tells the story of how one plucky caveman unites his tribe against a mighty enemy and saves the day!
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/IpjApG307D8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xwp8betWIiM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -219,35 +275,6 @@ After being gone for a decade a country star returns home to the love he left be
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Padmaavat
-*Released on 2018-01-25, vote average 8*
-
-Rani Padmavati - the wife of Maharawal Ratan Singh, is known for her beauty and valour in 13th century India. She captures the fancy of the reigning Sultan of Delhi, the tyrant Alauddin Khilji, who becomes obsessed with her and goes to great lengths to fulfill his greed.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/X_5_BLt76c0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -298,33 +325,6 @@ One year after the events of &#34;Kickboxer: Vengeance&#34;, Kurt Sloan has vowe
 
 
 	
-	
-
-### Early Man
-*Released on 2018-01-26, vote average 4.4*
-
-Set at the dawn of time, when dinosaurs and woolly mammoths roamed the earth, Early Man tells the story of how one plucky caveman unites his tribe against a mighty enemy and saves the day!
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xwp8betWIiM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 
   
 
@@ -332,6 +332,8 @@ Set at the dawn of time, when dinosaurs and woolly mammoths roamed the earth, Ea
 
 ## Opening soon
 
+
+	
 
 	
 	
@@ -346,25 +348,6 @@ The third installment of the Fifty Shades Trilogy.
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/GpAuCG6iUcA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Accident Man
-*Released on 2018-02-05, vote average 5.4*
-
-Mike Fallon, the Accident Man, is a stone cold killer.  When a loved one is murdered by his own crew, Fallon is forced to avenge the one person who actually meant something to him.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ODmJXjcRzG0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -407,6 +390,8 @@ Feature adaptation of Beatrix Potter&#39;s classic tale of a rebellious rabbit t
 	
 
 	
+
+	
 	
 
 ### Aiyaary
@@ -423,8 +408,6 @@ Witness the story of two Indian Army officers, a mentor and his protégé on thi
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
