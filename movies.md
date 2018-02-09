@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Accident Man
-*Released on 2018-02-05, vote average 5*
+### Fifty Shades Freed
+*Released on 2018-02-07, vote average 6*
 
-Mike Fallon, the Accident Man, is a stone cold killer.  When a loved one is murdered by his own crew, Fallon is forced to avenge the one person who actually meant something to him.
+Believing they have left behind shadowy figures from their past, newlyweds Christian and Ana fully embrace an inextricable connection and shared life of luxury. But just as she steps into her role as Mrs. Grey and he relaxes into an unfamiliar stability, new threats could jeopardize their happy ending before it even begins.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ODmJXjcRzG0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/GpAuCG6iUcA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ Mike Fallon, the Accident Man, is a stone cold killer.  When a loved one is murd
 	
 	
 
-### Fifty Shades Freed
-*Released on 2018-02-07, vote average 6.2*
+### Accident Man
+*Released on 2018-02-05, vote average 4.8*
 
-Believing they have left behind shadowy figures from their past, newlyweds Christian and Ana fully embrace an inextricable connection and shared life of luxury. But just as she steps into her role as Mrs. Grey and he relaxes into an unfamiliar stability, new threats could jeopardize their happy ending before it even begins.
+Mike Fallon, the Accident Man, is a stone cold killer.  When a loved one is murdered by his own crew, Fallon is forced to avenge the one person who actually meant something to him.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/GpAuCG6iUcA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ODmJXjcRzG0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -91,7 +91,7 @@ Danny Trejo returns as the ruthless bookie, Goldberg, in the wildest, bloodiest,
 	
 
 ### Braven
-*Released on 2018-02-01, vote average 6.4*
+*Released on 2018-02-01, vote average 6.6*
 
 A logger defends his family from a group of dangerous drug runners.
 
@@ -135,7 +135,7 @@ Feature adaptation of Beatrix Potter&#39;s classic tale of a rebellious rabbit t
 	
 
 ### The 15:17 to Paris
-*Released on 2018-02-02, vote average 3.3*
+*Released on 2018-02-02, vote average 3.2*
 
 In August 2015, an ISIS terrorist boarded train #9364 from Brussels to Paris. Armed with an AK-47 and enough ammo to kill more than 500 people, the terrorist might have succeeded except for three American friends who refused to give in to fear. Stone was a martial arts enthusiast and airman first class in the U.S. Air Force, Skarlatos was a member of the Oregon National Guard, and all three pals proved fearless as they charged and ultimately overpowered the gunman after he emerged from a bathroom armed and ready to kill.
 
@@ -176,7 +176,10 @@ Firearm heiress Sarah Winchester is convinced that she is haunted by the souls k
 
 
 	
-	
+
+  
+
+
 	
 
   
@@ -185,16 +188,16 @@ Firearm heiress Sarah Winchester is convinced that she is haunted by the souls k
 	
 	
 
-### Forever My Girl
-*Released on 2018-01-26, vote average 7.8*
+### Wastelander
+*Released on 2018-02-02, vote average 5.5*
 
-After being gone for a decade a country star returns home to the love he left behind.
+In a post-apocalyptic landscape, an ex-soldier wanders in search of his lost home and family. Along the way, he joins a makeshift group of survivors who convince him to lead them through the wasteland. But when a band of pillaging raiders comes after them, they must fight to survive in this cruel dystopia.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/IpjApG307D8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/NHV7aizjdC4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -227,81 +230,39 @@ Orbiting above a planet on the brink of war, scientists test a device to solve a
 
 
 	
+
+  
+
+
 	
 
-### Wastelander
-*Released on 2018-02-02, vote average 5.5*
+  
 
-In a post-apocalyptic landscape, an ex-soldier wanders in search of his lost home and family. Along the way, he joins a makeshift group of survivors who convince him to lead them through the wasteland. But when a band of pillaging raiders comes after them, they must fight to survive in this cruel dystopia.
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Forever My Girl
+*Released on 2018-01-26, vote average 7.8*
+
+After being gone for a decade a country star returns home to the love he left behind.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/NHV7aizjdC4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/IpjApG307D8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### Bilal: A New Breed of Hero
-*Released on 2018-02-02, vote average 9*
-
-A thousand years ago, one boy with a dream of becoming a great warrior is abducted with his sister and taken to a land far away from home. Thrown into a world where greed and injustice rule all, Bilal finds the courage to raise his voice and make a change. Inspired by true events, this is a story of a real hero who earned his remembrance in time and history.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/186eRogdnCg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Padmaavat
-*Released on 2018-01-25, vote average 7.8*
-
-Rani Padmavati - the wife of Maharawal Ratan Singh, is known for her beauty and valour in 13th century India. She captures the fancy of the reigning Sultan of Delhi, the tyrant Alauddin Khilji, who becomes obsessed with her and goes to great lengths to fulfill his greed.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/X_5_BLt76c0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -340,6 +301,30 @@ Set at the dawn of time, when dinosaurs and woolly mammoths roamed the earth, Ea
 
 
 	
+	
+	
+
+  
+
+
+	
+	
+
+### Aiyaary
+*Released on 2018-02-09, vote average 7*
+
+Witness the story of two Indian Army officers, a mentor and his protégé on this Republic Day.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KcWXKmnZZVo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -352,7 +337,7 @@ Set at the dawn of time, when dinosaurs and woolly mammoths roamed the earth, Ea
 	
 
 ### Black Panther
-*Released on 2018-02-13, vote average 3.6*
+*Released on 2018-02-13, vote average 5.2*
 
 T&#39;Challa, the new ruler of the advanced kingdom of Wakanda, must defend his land from being torn apart by enemies from outside and inside the country.
 
@@ -365,8 +350,6 @@ T&#39;Challa, the new ruler of the advanced kingdom of Wakanda, must defend his 
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
@@ -394,6 +377,8 @@ Witness the story of two Indian Army officers, a mentor and his protégé on thi
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
