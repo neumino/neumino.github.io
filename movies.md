@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Accident Man
-*Released on 2018-02-05, vote average 4.5*
+### Fifty Shades Freed
+*Released on 2018-02-07, vote average 7*
 
-Mike Fallon, the Accident Man, is a stone cold killer.  When a loved one is murdered by his own crew, Fallon is forced to avenge the one person who actually meant something to him.
+Believing they have left behind shadowy figures from their past, newlyweds Christian and Ana fully embrace an inextricable connection and shared life of luxury. But just as she steps into her role as Mrs. Grey and he relaxes into an unfamiliar stability, new threats could jeopardize their happy ending before it even begins.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ODmJXjcRzG0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/GpAuCG6iUcA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ Mike Fallon, the Accident Man, is a stone cold killer.  When a loved one is murd
 	
 	
 
-### Fifty Shades Freed
-*Released on 2018-02-07, vote average 6.8*
+### Accident Man
+*Released on 2018-02-05, vote average 4.5*
 
-Believing they have left behind shadowy figures from their past, newlyweds Christian and Ana fully embrace an inextricable connection and shared life of luxury. But just as she steps into her role as Mrs. Grey and he relaxes into an unfamiliar stability, new threats could jeopardize their happy ending before it even begins.
+Mike Fallon, the Accident Man, is a stone cold killer.  When a loved one is murdered by his own crew, Fallon is forced to avenge the one person who actually meant something to him.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/GpAuCG6iUcA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ODmJXjcRzG0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@ Believing they have left behind shadowy figures from their past, newlyweds Chris
 	
 
 ### Death Race: Beyond Anarchy
-*Released on 2018-01-30, vote average 5.7*
+*Released on 2018-01-30, vote average 5.5*
 
 Danny Trejo returns as the ruthless bookie, Goldberg, in the wildest, bloodiest, Death Race ever. After a failed attack on inmate and legendary driver, Frankenstein, Black Ops specialist Connor Gibson (McGowan) infiltrates a super-maximum federal prison with one goal - enter the immoral and illegal Death Race and take Frankenstein down. Connor enlists the help of Baltimore Bob (Glover) and Lists (Koehler), and unexpectedly falls in love with bartending beauty, Jane (Marzano). Connor will have to fight for more than his life in this brutal world of no guards, no rules, no track, and no fear.
 
@@ -90,8 +90,35 @@ Danny Trejo returns as the ruthless bookie, Goldberg, in the wildest, bloodiest,
 	
 	
 
+### The 15:17 to Paris
+*Released on 2018-02-02, vote average 4.3*
+
+In August 2015, an ISIS terrorist boarded train #9364 from Brussels to Paris. Armed with an AK-47 and enough ammo to kill more than 500 people, the terrorist might have succeeded except for three American friends who refused to give in to fear. Stone was a martial arts enthusiast and airman first class in the U.S. Air Force, Skarlatos was a member of the Oregon National Guard, and all three pals proved fearless as they charged and ultimately overpowered the gunman after he emerged from a bathroom armed and ready to kill.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IC_lnyn2R2Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### Braven
-*Released on 2018-02-01, vote average 6.6*
+*Released on 2018-02-01, vote average 6.3*
 
 A logger defends his family from a group of dangerous drug runners.
 
@@ -112,16 +139,38 @@ A logger defends his family from a group of dangerous drug runners.
 	
 	
 
-### The 15:17 to Paris
-*Released on 2018-02-02, vote average 3.2*
+### Permission
+*Released on 2018-02-09, vote average 5*
 
-In August 2015, an ISIS terrorist boarded train #9364 from Brussels to Paris. Armed with an AK-47 and enough ammo to kill more than 500 people, the terrorist might have succeeded except for three American friends who refused to give in to fear. Stone was a martial arts enthusiast and airman first class in the U.S. Air Force, Skarlatos was a member of the Oregon National Guard, and all three pals proved fearless as they charged and ultimately overpowered the gunman after he emerged from a bathroom armed and ready to kill.
+A woman on the brink of a marriage proposal is told by a friend that she should date other men before spending the rest of her life with her boyfriend.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/IC_lnyn2R2Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/o0ahdaQgvmY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Cloverfield Paradox
+*Released on 2018-02-04, vote average 6.1*
+
+Orbiting above a planet on the brink of war, scientists test a device to solve an energy crisis and end up face-to-face with a dark alternate reality.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8brYvhEg5Aw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -166,69 +215,20 @@ Feature adaptation of Beatrix Potter&#39;s classic tale of a rebellious rabbit t
 	
 	
 
-### When We First Met
-*Released on 2018-02-09, vote average 6.8*
+### Aiyaary
+*Released on 2018-02-09, vote average 7*
 
-Noah spends the perfect first night with the girl of his dreams Avery but gets relegated to the friend zone. He spends the next three years wondering what went wrong - until he gets the unexpected chance to travel back in time and alter that night, and his fate, over and over again.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/d2sJNee7FQ4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Cloverfield Paradox
-*Released on 2018-02-04, vote average 6.1*
-
-Orbiting above a planet on the brink of war, scientists test a device to solve an energy crisis and end up face-to-face with a dark alternate reality.
+Witness the story of two Indian Army officers, a mentor and his protégé on this Republic Day.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/8brYvhEg5Aw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/KcWXKmnZZVo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### Winchester
-*Released on 2018-02-02, vote average 5.2*
-
-Firearm heiress Sarah Winchester is convinced that she is haunted by the souls killed at the hands of the Winchester repeating rifle. After the sudden deaths of her husband and child, she throws herself into the construction of an enormous mansion designed to keep the evil spirits at bay. But when skeptical San Francisco psychiatrist Eric Price is dispatched to the estate to evaluate her state of mind, he discovers that her obsession may not be so insane after all.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0Juc2cL26mg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -262,23 +262,18 @@ In a post-apocalyptic landscape, an ex-soldier wanders in search of his lost hom
 
 
 	
-
-  
-
-
-	
 	
 
-### Aiyaary
-*Released on 2018-02-09, vote average 7*
+### Winchester
+*Released on 2018-02-02, vote average 5.2*
 
-Witness the story of two Indian Army officers, a mentor and his protégé on this Republic Day.
+Firearm heiress Sarah Winchester is convinced that she is haunted by the souls killed at the hands of the Winchester repeating rifle. After the sudden deaths of her husband and child, she throws herself into the construction of an enormous mansion designed to keep the evil spirits at bay. But when skeptical San Francisco psychiatrist Eric Price is dispatched to the estate to evaluate her state of mind, he discovers that her obsession may not be so insane after all.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/KcWXKmnZZVo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/0Juc2cL26mg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -294,6 +289,26 @@ Witness the story of two Indian Army officers, a mentor and his protégé on thi
 
 
 	
+
+  
+
+
+	
+	
+
+### Padman
+*Released on 2018-02-09, vote average 8*
+
+Concerned about his wife Gayatri&#39;s menstrual hygiene, Lakshmikant Chauhan urges her to ditch the cloth and opt for sanitary napkins. Gayatri is reluctant to go for disposable pads as they are expensive. Lakshmi obsessing over a &#39;ladies problem&#39; makes her cringe but he insists on bringing upon a change by addressing the taboo topic. Subjected to hostility for ruffling the religious and age-old beliefs of people around, can the man brave the resistance and get his point across?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-K9ujx8vO_A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -318,7 +333,7 @@ Witness the story of two Indian Army officers, a mentor and his protégé on thi
 	
 
 ### Black Panther
-*Released on 2018-02-13, vote average 5.9*
+*Released on 2018-02-13, vote average 5*
 
 T&#39;Challa, the new ruler of the advanced kingdom of Wakanda, must defend his land from being torn apart by enemies from outside and inside the country.
 
