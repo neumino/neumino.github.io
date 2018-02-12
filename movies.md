@@ -47,7 +47,7 @@ Believing they have left behind shadowy figures from their past, newlyweds Chris
 	
 
 ### Accident Man
-*Released on 2018-02-05, vote average 4.5*
+*Released on 2018-02-05, vote average 5.1*
 
 Mike Fallon, the Accident Man, is a stone cold killer.  When a loved one is murdered by his own crew, Fallon is forced to avenge the one person who actually meant something to him.
 
@@ -110,6 +110,23 @@ In August 2015, an ISIS terrorist boarded train #9364 from Brussels to Paris. Ar
 
 
 	
+	
+
+### Permission
+*Released on 2018-02-09, vote average 5*
+
+A woman on the brink of a marriage proposal is told by a friend that she should date other men before spending the rest of her life with her boyfriend.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/o0ahdaQgvmY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -118,7 +135,7 @@ In August 2015, an ISIS terrorist boarded train #9364 from Brussels to Paris. Ar
 	
 
 ### Braven
-*Released on 2018-02-01, vote average 6.3*
+*Released on 2018-02-01, vote average 6.4*
 
 A logger defends his family from a group of dangerous drug runners.
 
@@ -139,16 +156,16 @@ A logger defends his family from a group of dangerous drug runners.
 	
 	
 
-### Permission
-*Released on 2018-02-09, vote average 5*
+### When We First Met
+*Released on 2018-02-09, vote average 6.8*
 
-A woman on the brink of a marriage proposal is told by a friend that she should date other men before spending the rest of her life with her boyfriend.
+Noah spends the perfect first night with the girl of his dreams Avery but gets relegated to the friend zone. He spends the next three years wondering what went wrong - until he gets the unexpected chance to travel back in time and alter that night, and his fate, over and over again.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/o0ahdaQgvmY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/d2sJNee7FQ4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -208,60 +225,6 @@ Feature adaptation of Beatrix Potter&#39;s classic tale of a rebellious rabbit t
 
 
 	
-
-  
-
-
-	
-	
-
-### Aiyaary
-*Released on 2018-02-09, vote average 7*
-
-Witness the story of two Indian Army officers, a mentor and his protégé on this Republic Day.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/KcWXKmnZZVo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Wastelander
-*Released on 2018-02-02, vote average 5.5*
-
-In a post-apocalyptic landscape, an ex-soldier wanders in search of his lost home and family. Along the way, he joins a makeshift group of survivors who convince him to lead them through the wasteland. But when a band of pillaging raiders comes after them, they must fight to survive in this cruel dystopia.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/NHV7aizjdC4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### Winchester
@@ -294,6 +257,33 @@ Firearm heiress Sarah Winchester is convinced that she is haunted by the souls k
 
 
 	
+
+  
+
+
+	
+	
+
+### Aiyaary
+*Released on 2018-02-09, vote average 7*
+
+Witness the story of two Indian Army officers, a mentor and his protégé on this Republic Day.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KcWXKmnZZVo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 
 ### Padman
@@ -310,6 +300,16 @@ Concerned about his wife Gayatri&#39;s menstrual hygiene, Lakshmikant Chauhan ur
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
