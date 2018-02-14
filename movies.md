@@ -47,7 +47,7 @@ Believing they have left behind shadowy figures from their past, newlyweds Chris
 	
 
 ### Black Panther
-*Released on 2018-02-13, vote average 5.1*
+*Released on 2018-02-13, vote average 5.3*
 
 T&#39;Challa, the new ruler of the advanced kingdom of Wakanda, must defend his land from being torn apart by enemies from outside and inside the country.
 
@@ -69,7 +69,7 @@ T&#39;Challa, the new ruler of the advanced kingdom of Wakanda, must defend his 
 	
 
 ### Accident Man
-*Released on 2018-02-05, vote average 5.1*
+*Released on 2018-02-05, vote average 5.2*
 
 Mike Fallon, the Accident Man, is a stone cold killer.  When a loved one is murdered by his own crew, Fallon is forced to avenge the one person who actually meant something to him.
 
@@ -90,38 +90,16 @@ Mike Fallon, the Accident Man, is a stone cold killer.  When a loved one is murd
 	
 	
 
-### Death Race: Beyond Anarchy
-*Released on 2018-01-30, vote average 5.5*
+### When We First Met
+*Released on 2018-02-09, vote average 6.7*
 
-Danny Trejo returns as the ruthless bookie, Goldberg, in the wildest, bloodiest, Death Race ever. After a failed attack on inmate and legendary driver, Frankenstein, Black Ops specialist Connor Gibson (McGowan) infiltrates a super-maximum federal prison with one goal - enter the immoral and illegal Death Race and take Frankenstein down. Connor enlists the help of Baltimore Bob (Glover) and Lists (Koehler), and unexpectedly falls in love with bartending beauty, Jane (Marzano). Connor will have to fight for more than his life in this brutal world of no guards, no rules, no track, and no fear.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Fz5kxN6q1dM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The 15:17 to Paris
-*Released on 2018-02-02, vote average 4.4*
-
-In August 2015, an ISIS terrorist boarded train #9364 from Brussels to Paris. Armed with an AK-47 and enough ammo to kill more than 500 people, the terrorist might have succeeded except for three American friends who refused to give in to fear. Stone was a martial arts enthusiast and airman first class in the U.S. Air Force, Skarlatos was a member of the Oregon National Guard, and all three pals proved fearless as they charged and ultimately overpowered the gunman after he emerged from a bathroom armed and ready to kill.
+Noah spends the perfect first night with the girl of his dreams Avery but gets relegated to the friend zone. He spends the next three years wondering what went wrong - until he gets the unexpected chance to travel back in time and alter that night, and his fate, over and over again.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/IC_lnyn2R2Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/d2sJNee7FQ4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -135,7 +113,7 @@ In August 2015, an ISIS terrorist boarded train #9364 from Brussels to Paris. Ar
 	
 
 ### The Cloverfield Paradox
-*Released on 2018-02-04, vote average 6.1*
+*Released on 2018-02-04, vote average 6*
 
 Orbiting above a planet on the brink of war, scientists test a device to solve an energy crisis and end up face-to-face with a dark alternate reality.
 
@@ -156,16 +134,16 @@ Orbiting above a planet on the brink of war, scientists test a device to solve a
 	
 	
 
-### Braven
-*Released on 2018-02-01, vote average 6.4*
+### The 15:17 to Paris
+*Released on 2018-02-02, vote average 4.8*
 
-A logger defends his family from a group of dangerous drug runners.
+In August 2015, an ISIS terrorist boarded train #9364 from Brussels to Paris. Armed with an AK-47 and enough ammo to kill more than 500 people, the terrorist might have succeeded except for three American friends who refused to give in to fear. Stone was a martial arts enthusiast and airman first class in the U.S. Air Force, Skarlatos was a member of the Oregon National Guard, and all three pals proved fearless as they charged and ultimately overpowered the gunman after he emerged from a bathroom armed and ready to kill.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/psqUcvR4Vhc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/IC_lnyn2R2Q?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -188,6 +166,28 @@ A woman on the brink of a marriage proposal is told by a friend that she should 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/o0ahdaQgvmY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Braven
+*Released on 2018-02-01, vote average 6.5*
+
+A logger defends his family from a group of dangerous drug runners.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/psqUcvR4Vhc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -227,38 +227,6 @@ Feature adaptation of Beatrix Potter&#39;s classic tale of a rebellious rabbit t
 
 
 	
-
-  
-
-
-	
-	
-
-### When We First Met
-*Released on 2018-02-09, vote average 6.8*
-
-Noah spends the perfect first night with the girl of his dreams Avery but gets relegated to the friend zone. He spends the next three years wondering what went wrong - until he gets the unexpected chance to travel back in time and alter that night, and his fate, over and over again.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/d2sJNee7FQ4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### Winchester
@@ -275,6 +243,31 @@ Firearm heiress Sarah Winchester is convinced that she is haunted by the souls k
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -308,20 +301,29 @@ Concerned about his wife Gayatri&#39;s menstrual hygiene, Lakshmikant Chauhan ur
 
 
 	
+	
 
-  
+### The Mercy
+*Released on 2018-02-09, vote average 8*
 
+Yachtsman Donald Crowhurst&#39;s disastrous attempt to win the 1968 Golden Globe Race ends up with him creating an outrageous account of traveling the world alone by sea.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ToN2G3K5pOE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
 
 
 	
-
-  
-
-
+	
 	
 
   
@@ -332,23 +334,6 @@ Concerned about his wife Gayatri&#39;s menstrual hygiene, Lakshmikant Chauhan ur
 
 
 	
-	
-
-### Black Panther
-*Released on 2018-02-13, vote average 5.1*
-
-T&#39;Challa, the new ruler of the advanced kingdom of Wakanda, must defend his land from being torn apart by enemies from outside and inside the country.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/dxWvtMOGAhw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
@@ -356,6 +341,8 @@ T&#39;Challa, the new ruler of the advanced kingdom of Wakanda, must defend his 
 
 	
 
+	
+	
 	
 
 	
