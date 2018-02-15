@@ -47,7 +47,7 @@ Believing they have left behind shadowy figures from their past, newlyweds Chris
 	
 
 ### Black Panther
-*Released on 2018-02-13, vote average 5.3*
+*Released on 2018-02-13, vote average 6.2*
 
 T&#39;Challa, the new ruler of the advanced kingdom of Wakanda, must defend his land from being torn apart by enemies from outside and inside the country.
 
@@ -69,7 +69,7 @@ T&#39;Challa, the new ruler of the advanced kingdom of Wakanda, must defend his 
 	
 
 ### Accident Man
-*Released on 2018-02-05, vote average 5.2*
+*Released on 2018-02-05, vote average 5*
 
 Mike Fallon, the Accident Man, is a stone cold killer.  When a loved one is murdered by his own crew, Fallon is forced to avenge the one person who actually meant something to him.
 
@@ -90,30 +90,8 @@ Mike Fallon, the Accident Man, is a stone cold killer.  When a loved one is murd
 	
 	
 
-### When We First Met
-*Released on 2018-02-09, vote average 6.7*
-
-Noah spends the perfect first night with the girl of his dreams Avery but gets relegated to the friend zone. He spends the next three years wondering what went wrong - until he gets the unexpected chance to travel back in time and alter that night, and his fate, over and over again.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/d2sJNee7FQ4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Cloverfield Paradox
-*Released on 2018-02-04, vote average 6*
+*Released on 2018-02-04, vote average 5.9*
 
 Orbiting above a planet on the brink of war, scientists test a device to solve an energy crisis and end up face-to-face with a dark alternate reality.
 
@@ -156,28 +134,6 @@ In August 2015, an ISIS terrorist boarded train #9364 from Brussels to Paris. Ar
 	
 	
 
-### Permission
-*Released on 2018-02-09, vote average 4*
-
-A woman on the brink of a marriage proposal is told by a friend that she should date other men before spending the rest of her life with her boyfriend.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/o0ahdaQgvmY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Braven
 *Released on 2018-02-01, vote average 6.5*
 
@@ -200,8 +156,30 @@ A logger defends his family from a group of dangerous drug runners.
 	
 	
 
+### When We First Met
+*Released on 2018-02-09, vote average 6.7*
+
+Noah spends the perfect first night with the girl of his dreams Avery but gets relegated to the friend zone. He spends the next three years wondering what went wrong - until he gets the unexpected chance to travel back in time and alter that night, and his fate, over and over again.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/d2sJNee7FQ4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Peter Rabbit
-*Released on 2018-02-07, vote average 10*
+*Released on 2018-02-07, vote average 7.2*
 
 Feature adaptation of Beatrix Potter&#39;s classic tale of a rebellious rabbit trying to sneak into a farmer&#39;s vegetable garden.
 
@@ -221,24 +199,17 @@ Feature adaptation of Beatrix Potter&#39;s classic tale of a rebellious rabbit t
 
 	
 	
-	
 
-  
+### Permission
+*Released on 2018-02-09, vote average 4*
 
-
-	
-	
-
-### Winchester
-*Released on 2018-02-02, vote average 5.1*
-
-Firearm heiress Sarah Winchester is convinced that she is haunted by the souls killed at the hands of the Winchester repeating rifle. After the sudden deaths of her husband and child, she throws herself into the construction of an enormous mansion designed to keep the evil spirits at bay. But when skeptical San Francisco psychiatrist Eric Price is dispatched to the estate to evaluate her state of mind, he discovers that her obsession may not be so insane after all.
+A woman on the brink of a marriage proposal is told by a friend that she should date other men before spending the rest of her life with her boyfriend.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/0Juc2cL26mg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/o0ahdaQgvmY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -264,10 +235,7 @@ Firearm heiress Sarah Winchester is convinced that she is haunted by the souls k
 
 
 	
-
-  
-
-
+	
 	
 
   
@@ -302,21 +270,16 @@ Concerned about his wife Gayatri&#39;s menstrual hygiene, Lakshmikant Chauhan ur
 
 	
 	
+	
 
-### The Mercy
-*Released on 2018-02-09, vote average 8*
+  
 
-Yachtsman Donald Crowhurst&#39;s disastrous attempt to win the 1968 Golden Globe Race ends up with him creating an outrageous account of traveling the world alone by sea.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ToN2G3K5pOE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
 	
 
   
@@ -324,6 +287,11 @@ Yachtsman Donald Crowhurst&#39;s disastrous attempt to win the 1968 Golden Globe
 
 	
 	
+	
+
+  
+
+
 	
 
   
@@ -341,8 +309,6 @@ Yachtsman Donald Crowhurst&#39;s disastrous attempt to win the 1968 Golden Globe
 
 	
 
-	
-	
 	
 
 	
