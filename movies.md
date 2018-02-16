@@ -47,7 +47,7 @@ Believing they have left behind shadowy figures from their past, newlyweds Chris
 	
 
 ### Black Panther
-*Released on 2018-02-13, vote average 6.2*
+*Released on 2018-02-13, vote average 6.4*
 
 T&#39;Challa, the new ruler of the advanced kingdom of Wakanda, must defend his land from being torn apart by enemies from outside and inside the country.
 
@@ -56,28 +56,6 @@ T&#39;Challa, the new ruler of the advanced kingdom of Wakanda, must defend his 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/dxWvtMOGAhw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Accident Man
-*Released on 2018-02-05, vote average 5*
-
-Mike Fallon, the Accident Man, is a stone cold killer.  When a loved one is murdered by his own crew, Fallon is forced to avenge the one person who actually meant something to him.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ODmJXjcRzG0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,52 +90,8 @@ Orbiting above a planet on the brink of war, scientists test a device to solve a
 	
 	
 
-### The 15:17 to Paris
-*Released on 2018-02-02, vote average 4.8*
-
-In August 2015, an ISIS terrorist boarded train #9364 from Brussels to Paris. Armed with an AK-47 and enough ammo to kill more than 500 people, the terrorist might have succeeded except for three American friends who refused to give in to fear. Stone was a martial arts enthusiast and airman first class in the U.S. Air Force, Skarlatos was a member of the Oregon National Guard, and all three pals proved fearless as they charged and ultimately overpowered the gunman after he emerged from a bathroom armed and ready to kill.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IC_lnyn2R2Q?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Braven
-*Released on 2018-02-01, vote average 6.5*
-
-A logger defends his family from a group of dangerous drug runners.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/psqUcvR4Vhc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### When We First Met
-*Released on 2018-02-09, vote average 6.7*
+*Released on 2018-02-09, vote average 6.8*
 
 Noah spends the perfect first night with the girl of his dreams Avery but gets relegated to the friend zone. He spends the next three years wondering what went wrong - until he gets the unexpected chance to travel back in time and alter that night, and his fate, over and over again.
 
@@ -178,16 +112,43 @@ Noah spends the perfect first night with the girl of his dreams Avery but gets r
 	
 	
 
-### Peter Rabbit
-*Released on 2018-02-07, vote average 7.2*
+### Accident Man
+*Released on 2018-02-05, vote average 5*
 
-Feature adaptation of Beatrix Potter&#39;s classic tale of a rebellious rabbit trying to sneak into a farmer&#39;s vegetable garden.
+Mike Fallon, the Accident Man, is a stone cold killer.  When a loved one is murdered by his own crew, Fallon is forced to avenge the one person who actually meant something to him.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ahW0AP1ecxY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ODmJXjcRzG0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The 15:17 to Paris
+*Released on 2018-02-02, vote average 4.8*
+
+In August 2015, an ISIS terrorist boarded train #9364 from Brussels to Paris. Armed with an AK-47 and enough ammo to kill more than 500 people, the terrorist might have succeeded except for three American friends who refused to give in to fear. Stone was a martial arts enthusiast and airman first class in the U.S. Air Force, Skarlatos was a member of the Oregon National Guard, and all three pals proved fearless as they charged and ultimately overpowered the gunman after he emerged from a bathroom armed and ready to kill.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IC_lnyn2R2Q?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -242,18 +203,57 @@ A woman on the brink of a marriage proposal is told by a friend that she should 
 
 
 	
+
+  
+
+
+	
+	
 	
 
-### Padman
-*Released on 2018-02-09, vote average 8*
+  
 
-Concerned about his wife Gayatri&#39;s menstrual hygiene, Lakshmikant Chauhan urges her to ditch the cloth and opt for sanitary napkins. Gayatri is reluctant to go for disposable pads as they are expensive. Lakshmi obsessing over a &#39;ladies problem&#39; makes her cringe but he insists on bringing upon a change by addressing the taboo topic. Subjected to hostility for ruffling the religious and age-old beliefs of people around, can the man brave the resistance and get his point across?
+
+	
+
+  
+
+
+	
+	
+
+### Peter Rabbit
+*Released on 2018-02-07, vote average 7.2*
+
+Feature adaptation of Beatrix Potter&#39;s classic tale of a rebellious rabbit trying to sneak into a farmer&#39;s vegetable garden.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-K9ujx8vO_A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ahW0AP1ecxY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Winchester
+*Released on 2018-02-02, vote average 5.2*
+
+Firearm heiress Sarah Winchester is convinced that she is haunted by the souls killed at the hands of the Winchester repeating rifle. After the sudden deaths of her husband and child, she throws herself into the construction of an enormous mansion designed to keep the evil spirits at bay. But when skeptical San Francisco psychiatrist Eric Price is dispatched to the estate to evaluate her state of mind, he discovers that her obsession may not be so insane after all.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0Juc2cL26mg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -268,25 +268,6 @@ Concerned about his wife Gayatri&#39;s menstrual hygiene, Lakshmikant Chauhan ur
   
 
 
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 	
 
   
