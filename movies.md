@@ -47,9 +47,9 @@ Believing they have left behind shadowy figures from their past, newlyweds Chris
 	
 
 ### Black Panther
-*Released on 2018-02-13, vote average 7*
+*Released on 2018-02-13, vote average 7.1*
 
-T&#39;Challa, the new ruler of the advanced kingdom of Wakanda, must defend his land from being torn apart by enemies from outside and inside the country.
+T&#39;Challa, after the death of his father, the King of Wakanda, returns home to the isolated, technologically advanced African nation to succeed to the throne and take his rightful place as king.
 
 <iframe id="player"
 	type="text/html"
@@ -91,7 +91,7 @@ Orbiting above a planet on the brink of war, scientists test a device to solve a
 	
 
 ### Accident Man
-*Released on 2018-02-05, vote average 5*
+*Released on 2018-02-05, vote average 4.5*
 
 Mike Fallon, the Accident Man, is a stone cold killer.  When a loved one is murdered by his own crew, Fallon is forced to avenge the one person who actually meant something to him.
 
@@ -131,6 +131,28 @@ Noah spends the perfect first night with the girl of his dreams Avery but gets r
   
 
 
+	
+
+  
+
+
+	
+	
+
+### Nostalgia
+*Released on 2018-02-16, vote average 4*
+
+A group of people are connected through a loss.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/97YwKGrq00s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -195,45 +217,38 @@ A woman on the brink of a marriage proposal is told by a friend that she should 
 
 	
 	
+	
 
-### Hellraiser: Judgment
-*Released on 2018-02-13, vote average 5.7*
+  
 
-Detectives Sean and David Carter are on the case to find a gruesome serial killer terrorizing the city. Joining forces with Detective Christine Egerton, they dig deeper into a spiraling maze of horror that may not be of this world.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Peter Rabbit
+*Released on 2018-02-07, vote average 7.2*
+
+Feature adaptation of Beatrix Potter&#39;s classic tale of a rebellious rabbit trying to sneak into a farmer&#39;s vegetable garden.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/6T4oDRP69Xo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ahW0AP1ecxY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 	
 
   
@@ -248,6 +263,23 @@ Detectives Sean and David Carter are on the case to find a gruesome serial kille
 ## Opening soon
 
 
+	
+	
+
+### Annihilation
+*Released on 2018-02-22, vote average 1*
+
+A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don&#39;t apply.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/89OP78l9oF0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
