@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Fifty Shades Freed
-*Released on 2018-02-07, vote average 6.9*
+*Released on 2018-02-07, vote average 6.8*
 
 Believing they have left behind shadowy figures from their past, newlyweds Christian and Ana fully embrace an inextricable connection and shared life of luxury. But just as she steps into her role as Mrs. Grey and he relaxes into an unfamiliar stability, new threats could jeopardize their happy ending before it even begins.
 
@@ -47,7 +47,7 @@ Believing they have left behind shadowy figures from their past, newlyweds Chris
 	
 
 ### Black Panther
-*Released on 2018-02-13, vote average 7.1*
+*Released on 2018-02-13, vote average 7.4*
 
 T&#39;Challa, after the death of his father, the King of Wakanda, returns home to the isolated, technologically advanced African nation to succeed to the throne and take his rightful place as king.
 
@@ -56,28 +56,6 @@ T&#39;Challa, after the death of his father, the King of Wakanda, returns home t
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/dxWvtMOGAhw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Cloverfield Paradox
-*Released on 2018-02-04, vote average 5.9*
-
-Orbiting above a planet on the brink of war, scientists test a device to solve an energy crisis and end up face-to-face with a dark alternate reality.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8brYvhEg5Aw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -113,7 +91,7 @@ Mike Fallon, the Accident Man, is a stone cold killer.  When a loved one is murd
 	
 
 ### When We First Met
-*Released on 2018-02-09, vote average 6.8*
+*Released on 2018-02-09, vote average 6.9*
 
 Noah spends the perfect first night with the girl of his dreams Avery but gets relegated to the friend zone. He spends the next three years wondering what went wrong - until he gets the unexpected chance to travel back in time and alter that night, and his fate, over and over again.
 
@@ -126,6 +104,43 @@ Noah spends the perfect first night with the girl of his dreams Avery but gets r
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Hellraiser: Judgment
+*Released on 2018-02-13, vote average 5.4*
+
+Detectives Sean and David Carter are on the case to find a gruesome serial killer terrorizing the city. Joining forces with Detective Christine Egerton, they dig deeper into a spiraling maze of horror that may not be of this world.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6T4oDRP69Xo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -174,69 +189,10 @@ A group of people are connected through a loss.
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Permission
-*Released on 2018-02-09, vote average 4*
-
-A woman on the brink of a marriage proposal is told by a friend that she should date other men before spending the rest of her life with her boyfriend.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/o0ahdaQgvmY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### Peter Rabbit
-*Released on 2018-02-07, vote average 7.2*
+*Released on 2018-02-07, vote average 7.4*
 
 Feature adaptation of Beatrix Potter&#39;s classic tale of a rebellious rabbit trying to sneak into a farmer&#39;s vegetable garden.
 
@@ -254,6 +210,52 @@ Feature adaptation of Beatrix Potter&#39;s classic tale of a rebellious rabbit t
   
 
 
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Scent of Rain &amp; Lightning
+*Released on 2018-02-16, vote average 6.5*
+
+When a young woman learns her parents&#39; killer has been released from jail, she is forced to revisit old wounds while discovering the destructive power of hate and the true cost of family secrets fully revealing themselves.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/CtIyaKnLA_I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 	
 
   
