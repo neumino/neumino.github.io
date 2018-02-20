@@ -49,35 +49,13 @@ Believing they have left behind shadowy figures from their past, newlyweds Chris
 ### Black Panther
 *Released on 2018-02-13, vote average 7.4*
 
-T&#39;Challa, after the death of his father, the King of Wakanda, returns home to the isolated, technologically advanced African nation to succeed to the throne and take his rightful place as king.
+Shark Bait ooh haha!
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/dxWvtMOGAhw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Accident Man
-*Released on 2018-02-05, vote average 4.5*
-
-Mike Fallon, the Accident Man, is a stone cold killer.  When a loved one is murdered by his own crew, Fallon is forced to avenge the one person who actually meant something to him.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ODmJXjcRzG0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -115,18 +93,28 @@ Noah spends the perfect first night with the girl of his dreams Avery but gets r
 
 
 	
+
+  
+
+
 	
 
-### Hellraiser: Judgment
-*Released on 2018-02-13, vote average 5.4*
+  
 
-Detectives Sean and David Carter are on the case to find a gruesome serial killer terrorizing the city. Joining forces with Detective Christine Egerton, they dig deeper into a spiraling maze of horror that may not be of this world.
+
+	
+	
+
+### The Scent of Rain &amp; Lightning
+*Released on 2018-02-16, vote average 6.3*
+
+When a young woman learns her parents&#39; killer has been released from jail, she is forced to revisit old wounds while discovering the destructive power of hate and the true cost of family secrets fully revealing themselves.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/6T4oDRP69Xo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/CtIyaKnLA_I?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -142,10 +130,22 @@ Detectives Sean and David Carter are on the case to find a gruesome serial kille
 
 
 	
+	
 
-  
+### Peter Rabbit
+*Released on 2018-02-07, vote average 7.4*
 
+Feature adaptation of Beatrix Potter&#39;s classic tale of a rebellious rabbit trying to sneak into a farmer&#39;s vegetable garden.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ahW0AP1ecxY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -184,23 +184,18 @@ A group of people are connected through a loss.
 
 
 	
-
-  
-
-
-	
 	
 
-### Peter Rabbit
-*Released on 2018-02-07, vote average 7.4*
+### Hellraiser: Judgment
+*Released on 2018-02-13, vote average 5.1*
 
-Feature adaptation of Beatrix Potter&#39;s classic tale of a rebellious rabbit trying to sneak into a farmer&#39;s vegetable garden.
+Detectives Sean and David Carter are on the case to find a gruesome serial killer terrorizing the city. Joining forces with Detective Christine Egerton, they dig deeper into a spiraling maze of horror that may not be of this world.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ahW0AP1ecxY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/6T4oDRP69Xo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -217,29 +212,17 @@ Feature adaptation of Beatrix Potter&#39;s classic tale of a rebellious rabbit t
 
 	
 	
-	
 
-  
+### Permission
+*Released on 2018-02-09, vote average 4*
 
-
-	
-
-  
-
-
-	
-	
-
-### The Scent of Rain &amp; Lightning
-*Released on 2018-02-16, vote average 6.5*
-
-When a young woman learns her parents&#39; killer has been released from jail, she is forced to revisit old wounds while discovering the destructive power of hate and the true cost of family secrets fully revealing themselves.
+A woman on the brink of a marriage proposal is told by a friend that she should date other men before spending the rest of her life with her boyfriend.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/CtIyaKnLA_I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/o0ahdaQgvmY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -255,7 +238,22 @@ When a young woman learns her parents&#39; killer has been released from jail, s
 
 
 	
+
+  
+
+
 	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
