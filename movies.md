@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Fifty Shades Freed
-*Released on 2018-02-07, vote average 6.8*
+### Black Panther
+*Released on 2018-02-13, vote average 7.4*
 
-Believing they have left behind shadowy figures from their past, newlyweds Christian and Ana fully embrace an inextricable connection and shared life of luxury. But just as she steps into her role as Mrs. Grey and he relaxes into an unfamiliar stability, new threats could jeopardize their happy ending before it even begins.
+After the events of Captain America: Civil War, King T&#39;Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country&#39;s new leader. However, T&#39;Challa soon finds that he is challenged for the throne from factions within his own country. When two foes conspire to destroy Wakanda, the hero known as Black Panther must team up with C.I.A. agent Everett K. Ross and members of the Dora Milaje, Wakandan special forces, to prevent Wakanda from being dragged into a world war.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/GpAuCG6iUcA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/dxWvtMOGAhw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ Believing they have left behind shadowy figures from their past, newlyweds Chris
 	
 	
 
-### Black Panther
-*Released on 2018-02-13, vote average 7.4*
+### Fifty Shades Freed
+*Released on 2018-02-07, vote average 6.8*
 
-Shark Bait ooh haha!
+Believing they have left behind shadowy figures from their past, newlyweds Christian and Ana fully embrace an inextricable connection and shared life of luxury. But just as she steps into her role as Mrs. Grey and he relaxes into an unfamiliar stability, new threats could jeopardize their happy ending before it even begins.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/dxWvtMOGAhw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/GpAuCG6iUcA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -88,15 +88,22 @@ Noah spends the perfect first night with the girl of his dreams Avery but gets r
 
 
 	
-
-  
-
-
 	
 
-  
+### Hellraiser: Judgment
+*Released on 2018-02-13, vote average 5.1*
 
+Detectives Sean and David Carter are on the case to find a gruesome serial killer terrorizing the city. Joining forces with Detective Christine Egerton, they dig deeper into a spiraling maze of horror that may not be of this world.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6T4oDRP69Xo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -106,7 +113,7 @@ Noah spends the perfect first night with the girl of his dreams Avery but gets r
 	
 
 ### The Scent of Rain &amp; Lightning
-*Released on 2018-02-16, vote average 6.3*
+*Released on 2018-02-16, vote average 5.8*
 
 When a young woman learns her parents&#39; killer has been released from jail, she is forced to revisit old wounds while discovering the destructive power of hate and the true cost of family secrets fully revealing themselves.
 
@@ -119,6 +126,26 @@ When a young woman learns her parents&#39; killer has been released from jail, s
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -152,6 +179,46 @@ Feature adaptation of Beatrix Potter&#39;s classic tale of a rebellious rabbit t
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### Nostalgia
@@ -173,92 +240,6 @@ A group of people are connected through a loss.
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Hellraiser: Judgment
-*Released on 2018-02-13, vote average 5.1*
-
-Detectives Sean and David Carter are on the case to find a gruesome serial killer terrorizing the city. Joining forces with Detective Christine Egerton, they dig deeper into a spiraling maze of horror that may not be of this world.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/6T4oDRP69Xo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Permission
-*Released on 2018-02-09, vote average 4*
-
-A woman on the brink of a marriage proposal is told by a friend that she should date other men before spending the rest of her life with her boyfriend.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/o0ahdaQgvmY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -267,7 +248,7 @@ A woman on the brink of a marriage proposal is told by a friend that she should 
 	
 
 ### Annihilation
-*Released on 2018-02-22, vote average 1*
+*Released on 2018-02-22, vote average 0.8*
 
 A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don&#39;t apply.
 
@@ -282,6 +263,23 @@ A biologist signs up for a dangerous, secret expedition into a mysterious zone w
 	
 	
 
+	
+	
+
+### Game Night
+*Released on 2018-02-22, vote average 6*
+
+A group of friends who meet regularly for game nights find themselves trying to solve a murder mystery.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-76o69txkZs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
