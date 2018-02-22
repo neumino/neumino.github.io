@@ -46,28 +46,6 @@ After the events of Captain America: Civil War, King T&#39;Challa returns home t
 	
 	
 
-### Fifty Shades Freed
-*Released on 2018-02-07, vote average 6.8*
-
-Believing they have left behind shadowy figures from their past, newlyweds Christian and Ana fully embrace an inextricable connection and shared life of luxury. But just as she steps into her role as Mrs. Grey and he relaxes into an unfamiliar stability, new threats could jeopardize their happy ending before it even begins.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/GpAuCG6iUcA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### When We First Met
 *Released on 2018-02-09, vote average 6.9*
 
@@ -82,6 +60,65 @@ Noah spends the perfect first night with the girl of his dreams Avery but gets r
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Annihilation
+*Released on 2018-02-22, vote average 5.7*
+
+A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don&#39;t apply.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/89OP78l9oF0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Game Night
+*Released on 2018-02-22, vote average 6*
+
+A group of friends who meet regularly for game nights find themselves trying to solve a murder mystery.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-76o69txkZs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -157,80 +194,43 @@ When a young woman learns her parents&#39; killer has been released from jail, s
 
 
 	
+
+  
+
+
 	
 
-### Peter Rabbit
-*Released on 2018-02-07, vote average 7.4*
+  
 
-Feature adaptation of Beatrix Potter&#39;s classic tale of a rebellious rabbit trying to sneak into a farmer&#39;s vegetable garden.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### A Wish for Giants
+*Released on 2018-02-17, vote average 10*
+
+Sophie, a young volunteer, meets her kindred spirit in Roxie, a girl with a life threatening medical condition and a unique wish to meet Bigfoot.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ahW0AP1ecxY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Nostalgia
-*Released on 2018-02-16, vote average 4*
-
-A group of people are connected through a loss.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/97YwKGrq00s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/kDMZZNpeMRM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -248,7 +248,7 @@ A group of people are connected through a loss.
 	
 
 ### Annihilation
-*Released on 2018-02-22, vote average 0.8*
+*Released on 2018-02-22, vote average 5.7*
 
 A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don&#39;t apply.
 
