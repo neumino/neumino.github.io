@@ -47,7 +47,7 @@ After the events of Captain America: Civil War, King T&#39;Challa returns home t
 	
 
 ### When We First Met
-*Released on 2018-02-09, vote average 6.9*
+*Released on 2018-02-09, vote average 6.8*
 
 Noah spends the perfect first night with the girl of his dreams Avery but gets relegated to the friend zone. He spends the next three years wondering what went wrong - until he gets the unexpected chance to travel back in time and alter that night, and his fate, over and over again.
 
@@ -69,7 +69,7 @@ Noah spends the perfect first night with the girl of his dreams Avery but gets r
 	
 
 ### Annihilation
-*Released on 2018-02-22, vote average 5.7*
+*Released on 2018-02-22, vote average 7.4*
 
 A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don&#39;t apply.
 
@@ -115,32 +115,12 @@ A group of friends who meet regularly for game nights find themselves trying to 
 
 
 	
+	
+	
 
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Hellraiser: Judgment
-*Released on 2018-02-13, vote average 5.1*
-
-Detectives Sean and David Carter are on the case to find a gruesome serial killer terrorizing the city. Joining forces with Detective Christine Egerton, they dig deeper into a spiraling maze of horror that may not be of this world.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/6T4oDRP69Xo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -150,7 +130,7 @@ Detectives Sean and David Carter are on the case to find a gruesome serial kille
 	
 
 ### The Scent of Rain &amp; Lightning
-*Released on 2018-02-16, vote average 5.8*
+*Released on 2018-02-16, vote average 5.6*
 
 When a young woman learns her parents&#39; killer has been released from jail, she is forced to revisit old wounds while discovering the destructive power of hate and the true cost of family secrets fully revealing themselves.
 
@@ -194,47 +174,52 @@ When a young woman learns her parents&#39; killer has been released from jail, s
 
 
 	
-
-  
-
-
 	
 
-  
+### Hellraiser: Judgment
+*Released on 2018-02-13, vote average 5.1*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### A Wish for Giants
-*Released on 2018-02-17, vote average 10*
-
-Sophie, a young volunteer, meets her kindred spirit in Roxie, a girl with a life threatening medical condition and a unique wish to meet Bigfoot.
+Detectives Sean and David Carter are on the case to find a gruesome serial killer terrorizing the city. Joining forces with Detective Christine Egerton, they dig deeper into a spiraling maze of horror that may not be of this world.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/kDMZZNpeMRM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/6T4oDRP69Xo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -245,41 +230,7 @@ Sophie, a young volunteer, meets her kindred spirit in Roxie, a girl with a life
 
 
 	
-	
 
-### Annihilation
-*Released on 2018-02-22, vote average 5.7*
-
-A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don&#39;t apply.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/89OP78l9oF0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Game Night
-*Released on 2018-02-22, vote average 6*
-
-A group of friends who meet regularly for game nights find themselves trying to solve a murder mystery.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-76o69txkZs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
