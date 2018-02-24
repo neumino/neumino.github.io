@@ -46,30 +46,8 @@ After the events of Captain America: Civil War, King T&#39;Challa returns home t
 	
 	
 
-### When We First Met
-*Released on 2018-02-09, vote average 6.8*
-
-Noah spends the perfect first night with the girl of his dreams Avery but gets relegated to the friend zone. He spends the next three years wondering what went wrong - until he gets the unexpected chance to travel back in time and alter that night, and his fate, over and over again.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/d2sJNee7FQ4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Annihilation
-*Released on 2018-02-22, vote average 7.4*
+*Released on 2018-02-22, vote average 7.3*
 
 A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don&#39;t apply.
 
@@ -110,12 +88,86 @@ A group of friends who meet regularly for game nights find themselves trying to 
 
 
 	
+	
+
+### Every Day
+*Released on 2018-02-22, vote average 10*
+
+16-year old Rhiannon falls in love with a mysterious spirit named “A” that inhabits a different body every day. Feeling an unmatched connection, Rhiannon and “A” work each day to find each other, not knowing what the next day will bring.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/dRvKm__GrqU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 
   
 
 
 	
 	
+
+### Mute
+*Released on 2018-02-23, vote average 6.1*
+
+A mute man with a violent past is forced to take on the teeming underworld of a near-future Berlin as he searches for his missing girlfriend.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ma8te7ywEio?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -173,58 +225,6 @@ When a young woman learns her parents&#39; killer has been released from jail, s
   
 
 
-	
-	
-
-### Hellraiser: Judgment
-*Released on 2018-02-13, vote average 5.1*
-
-Detectives Sean and David Carter are on the case to find a gruesome serial killer terrorizing the city. Joining forces with Detective Christine Egerton, they dig deeper into a spiraling maze of horror that may not be of this world.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/6T4oDRP69Xo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -244,7 +244,7 @@ Detectives Sean and David Carter are on the case to find a gruesome serial kille
 	
 
 	
-
+	
 	
 
 	
@@ -267,6 +267,10 @@ Detectives Sean and David Carter are on the case to find a gruesome serial kille
 
 	
 
+	
+
+	
+	
 	
 
 
