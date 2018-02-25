@@ -47,7 +47,7 @@ After the events of Captain America: Civil War, King T&#39;Challa returns home t
 	
 
 ### Annihilation
-*Released on 2018-02-22, vote average 7.3*
+*Released on 2018-02-22, vote average 6.8*
 
 A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don&#39;t apply.
 
@@ -69,7 +69,7 @@ A biologist signs up for a dangerous, secret expedition into a mysterious zone w
 	
 
 ### Game Night
-*Released on 2018-02-22, vote average 6*
+*Released on 2018-02-22, vote average 7*
 
 A group of friends who meet regularly for game nights find themselves trying to solve a murder mystery.
 
@@ -115,25 +115,10 @@ A group of friends who meet regularly for game nights find themselves trying to 
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### Mute
-*Released on 2018-02-23, vote average 6.1*
+*Released on 2018-02-23, vote average 5.6*
 
 A mute man with a violent past is forced to take on the teeming underworld of a near-future Berlin as he searches for his missing girlfriend.
 
@@ -157,8 +142,6 @@ A mute man with a violent past is forced to take on the teeming underworld of a 
 
 
 	
-	
-	
 
   
 
@@ -169,10 +152,7 @@ A mute man with a violent past is forced to take on the teeming underworld of a 
 
 
 	
-
-  
-
-
+	
 	
 
   
@@ -195,6 +175,45 @@ When a young woman learns her parents&#39; killer has been released from jail, s
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Lodgers
+*Released on 2018-02-15, vote average 6*
+
+1920, rural Ireland. Anglo-Irish twins Rachel and Edward share a strange existence in their crumbling family estate. Each night, the property becomes the domain of a sinister presence (The Lodgers) which enforces three rules upon the twins: they must be in bed by midnight; they may not permit an outsider past the threshold; and if one attempts to escape, the life of the other is placed in jeopardy. When troubled war veteran Sean returns to the nearby village, he is immediately drawn to the mysterious Rachel, who in turn begins to break the rules set out by The Lodgers. The consequences pull Rachel into a deadly confrontation with her brother - and with the curse that haunts them.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/YLSV-41h2LQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -232,6 +251,23 @@ When a young woman learns her parents&#39; killer has been released from jail, s
 	
 
 	
+	
+
+### Death Wish
+*Released on 2018-03-02, vote average 10*
+
+A mild-mannered father is transformed into a killing machine after his family is torn apart by a violent act.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/v_I4zqC7GN8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
@@ -244,6 +280,16 @@ When a young woman learns her parents&#39; killer has been released from jail, s
 	
 
 	
+
+	
+
+	
+
+	
+
+	
+
+	
 	
 	
 
@@ -259,18 +305,6 @@ When a young woman learns her parents&#39; killer has been released from jail, s
 
 	
 
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	
 	
 
 
