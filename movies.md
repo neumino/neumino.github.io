@@ -47,7 +47,7 @@ After the events of Captain America: Civil War, King T&#39;Challa returns home t
 	
 
 ### Annihilation
-*Released on 2018-02-22, vote average 6.8*
+*Released on 2018-02-22, vote average 6.3*
 
 A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don&#39;t apply.
 
@@ -90,8 +90,30 @@ A group of friends who meet regularly for game nights find themselves trying to 
 	
 	
 
+### Mute
+*Released on 2018-02-23, vote average 5.6*
+
+A mute man with a violent past is forced to take on the teeming underworld of a near-future Berlin as he searches for his missing girlfriend.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ma8te7ywEio?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Every Day
-*Released on 2018-02-22, vote average 10*
+*Released on 2018-02-22, vote average 8*
 
 16-year old Rhiannon falls in love with a mysterious spirit named “A” that inhabits a different body every day. Feeling an unmatched connection, Rhiannon and “A” work each day to find each other, not knowing what the next day will bring.
 
@@ -115,23 +137,6 @@ A group of friends who meet regularly for game nights find themselves trying to 
 
 
 	
-	
-
-### Mute
-*Released on 2018-02-23, vote average 5.6*
-
-A mute man with a violent past is forced to take on the teeming underworld of a near-future Berlin as he searches for his missing girlfriend.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ma8te7ywEio?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -152,7 +157,10 @@ A mute man with a violent past is forced to take on the teeming underworld of a 
 
 
 	
-	
+
+  
+
+
 	
 
   
@@ -187,20 +195,12 @@ When a young woman learns her parents&#39; killer has been released from jail, s
 
 	
 	
+	
 
-### The Lodgers
-*Released on 2018-02-15, vote average 6*
+  
 
-1920, rural Ireland. Anglo-Irish twins Rachel and Edward share a strange existence in their crumbling family estate. Each night, the property becomes the domain of a sinister presence (The Lodgers) which enforces three rules upon the twins: they must be in bed by midnight; they may not permit an outsider past the threshold; and if one attempts to escape, the life of the other is placed in jeopardy. When troubled war veteran Sean returns to the nearby village, he is immediately drawn to the mysterious Rachel, who in turn begins to break the rules set out by The Lodgers. The consequences pull Rachel into a deadly confrontation with her brother - and with the curse that haunts them.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/YLSV-41h2LQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
+	
 	
 	
 
@@ -220,20 +220,7 @@ When a young woman learns her parents&#39; killer has been released from jail, s
 
 
 	
-
-  
-
-
 	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -289,8 +276,6 @@ A mild-mannered father is transformed into a killing machine after his family is
 
 	
 
-	
-	
 	
 
 	
