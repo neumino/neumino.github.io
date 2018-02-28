@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Black Panther
-*Released on 2018-02-13, vote average 7.4*
+### Annihilation
+*Released on 2018-02-22, vote average 6.1*
 
-After the events of Captain America: Civil War, King T&#39;Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country&#39;s new leader. However, T&#39;Challa soon finds that he is challenged for the throne from factions within his own country. When two foes conspire to destroy Wakanda, the hero known as Black Panther must team up with C.I.A. agent Everett K. Ross and members of the Dora Milaje, Wakandan special forces, to prevent Wakanda from being dragged into a world war.
+A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don&#39;t apply.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/dxWvtMOGAhw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/89OP78l9oF0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,30 +46,8 @@ After the events of Captain America: Civil War, King T&#39;Challa returns home t
 	
 	
 
-### Annihilation
-*Released on 2018-02-22, vote average 6.2*
-
-A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don&#39;t apply.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/89OP78l9oF0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Game Night
-*Released on 2018-02-22, vote average 7*
+*Released on 2018-02-22, vote average 7.3*
 
 A group of friends who meet regularly for game nights find themselves trying to solve a murder mystery.
 
@@ -91,7 +69,7 @@ A group of friends who meet regularly for game nights find themselves trying to 
 	
 
 ### Mute
-*Released on 2018-02-23, vote average 5.6*
+*Released on 2018-02-23, vote average 5.7*
 
 A mute man with a violent past is forced to take on the teeming underworld of a near-future Berlin as he searches for his missing girlfriend.
 
@@ -103,13 +81,6 @@ A mute man with a violent past is forced to take on the teeming underworld of a 
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -139,10 +110,15 @@ A mute man with a violent past is forced to take on the teeming underworld of a 
 
 
 	
+
+  
+
+
+	
 	
 
 ### The Lodgers
-*Released on 2018-02-15, vote average 6*
+*Released on 2018-02-15, vote average 7*
 
 1920, rural Ireland. Anglo-Irish twins Rachel and Edward share a strange existence in their crumbling family estate. Each night, the property becomes the domain of a sinister presence (The Lodgers) which enforces three rules upon the twins: they must be in bed by midnight; they may not permit an outsider past the threshold; and if one attempts to escape, the life of the other is placed in jeopardy. When troubled war veteran Sean returns to the nearby village, he is immediately drawn to the mysterious Rachel, who in turn begins to break the rules set out by The Lodgers. The consequences pull Rachel into a deadly confrontation with her brother - and with the curse that haunts them.
 
@@ -155,43 +131,6 @@ A mute man with a violent past is forced to take on the teeming underworld of a 
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### Hellraiser: Judgment
-*Released on 2018-02-13, vote average 4.8*
-
-Detectives Sean and David Carter are on the case to find a gruesome serial killer terrorizing the city. Joining forces with Detective Christine Egerton, they dig deeper into a spiraling maze of horror that may not be of this world.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/6T4oDRP69Xo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -240,7 +179,32 @@ When a young woman learns her parents&#39; killer has been released from jail, s
 
 
 	
+
+  
+
+
 	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -315,6 +279,23 @@ A mild-mannered father is transformed into a killing machine after his family is
 
 	
 
+	
+	
+
+### The Vanishing of Sidney Hall
+*Released on 2018-03-02, vote average 7*
+
+Over the course of 12 years, and three stages of life, Sidney Hall falls in love, writes the book of a generation and then disappears without a trace.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jmSciysEDoE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
