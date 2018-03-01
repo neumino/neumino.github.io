@@ -46,8 +46,52 @@ A biologist signs up for a dangerous, secret expedition into a mysterious zone w
 	
 	
 
+### Mute
+*Released on 2018-02-23, vote average 5.7*
+
+A mute man with a violent past is forced to take on the teeming underworld of a near-future Berlin as he searches for his missing girlfriend.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ma8te7ywEio?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Red Sparrow
+*Released on 2018-03-01, vote average 4.8*
+
+Prima ballerina Dominika Egorova faces a bleak and uncertain future after she suffers an injury that ends her career. She soon turns to Sparrow School, a secret intelligence service that trains exceptional young people to use their minds and bodies as weapons. Egorova emerges as the most dangerous Sparrow after completing the sadistic training process. As she comes to terms with her new abilities, Dominika meets a CIA agent who tries to convince her that he is the only person she can trust.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0221W4fUkS8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Game Night
-*Released on 2018-02-22, vote average 7.3*
+*Released on 2018-02-22, vote average 7.6*
 
 A group of friends who meet regularly for game nights find themselves trying to solve a murder mystery.
 
@@ -68,19 +112,26 @@ A group of friends who meet regularly for game nights find themselves trying to 
 	
 	
 
-### Mute
-*Released on 2018-02-23, vote average 5.7*
+### The Lodgers
+*Released on 2018-02-15, vote average 6*
 
-A mute man with a violent past is forced to take on the teeming underworld of a near-future Berlin as he searches for his missing girlfriend.
+1920, rural Ireland. Anglo-Irish twins Rachel and Edward share a strange existence in their crumbling family estate. Each night, the property becomes the domain of a sinister presence (The Lodgers) which enforces three rules upon the twins: they must be in bed by midnight; they may not permit an outsider past the threshold; and if one attempts to escape, the life of the other is placed in jeopardy. When troubled war veteran Sean returns to the nearby village, he is immediately drawn to the mysterious Rachel, who in turn begins to break the rules set out by The Lodgers. The consequences pull Rachel into a deadly confrontation with her brother - and with the curse that haunts them.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ma8te7ywEio?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/YLSV-41h2LQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -115,22 +166,25 @@ A mute man with a violent past is forced to take on the teeming underworld of a 
 
 
 	
-	
 
-### The Lodgers
-*Released on 2018-02-15, vote average 7*
+  
 
-1920, rural Ireland. Anglo-Irish twins Rachel and Edward share a strange existence in their crumbling family estate. Each night, the property becomes the domain of a sinister presence (The Lodgers) which enforces three rules upon the twins: they must be in bed by midnight; they may not permit an outsider past the threshold; and if one attempts to escape, the life of the other is placed in jeopardy. When troubled war veteran Sean returns to the nearby village, he is immediately drawn to the mysterious Rachel, who in turn begins to break the rules set out by The Lodgers. The consequences pull Rachel into a deadly confrontation with her brother - and with the curse that haunts them.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/YLSV-41h2LQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -152,66 +206,10 @@ A mute man with a violent past is forced to take on the teeming underworld of a 
 
 
 	
-	
-
-### The Scent of Rain &amp; Lightning
-*Released on 2018-02-16, vote average 5.6*
-
-When a young woman learns her parents&#39; killer has been released from jail, she is forced to revisit old wounds while discovering the destructive power of hate and the true cost of family secrets fully revealing themselves.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/CtIyaKnLA_I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -243,7 +241,7 @@ Prima ballerina Dominika Egorova faces a bleak and uncertain future after she su
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ZQUBjoGm1ls?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/0221W4fUkS8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -262,19 +260,11 @@ A mild-mannered father is transformed into a killing machine after his family is
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/v_I4zqC7GN8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/vbPwPDyVSts?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
 	
 
 	
@@ -316,6 +306,31 @@ Over the course of 12 years, and three stages of life, Sidney Hall falls in love
 
 	
 
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Mohawk
+*Released on 2018-03-02, vote average 6.6*
+
+A young Mohawk woman and her two lovers battle a squad of American soldiers hell-bent on revenge.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0utooEV8F8o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
