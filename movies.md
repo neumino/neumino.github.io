@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Annihilation
-*Released on 2018-02-22, vote average 6.1*
+*Released on 2018-02-22, vote average 5.9*
 
 A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don&#39;t apply.
 
@@ -69,7 +69,7 @@ A mute man with a violent past is forced to take on the teeming underworld of a 
 	
 
 ### Red Sparrow
-*Released on 2018-03-01, vote average 4.8*
+*Released on 2018-03-01, vote average 6.4*
 
 Prima ballerina Dominika Egorova faces a bleak and uncertain future after she suffers an injury that ends her career. She soon turns to Sparrow School, a secret intelligence service that trains exceptional young people to use their minds and bodies as weapons. Egorova emerges as the most dangerous Sparrow after completing the sadistic training process. As she comes to terms with her new abilities, Dominika meets a CIA agent who tries to convince her that he is the only person she can trust.
 
@@ -77,7 +77,7 @@ Prima ballerina Dominika Egorova faces a bleak and uncertain future after she su
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/0221W4fUkS8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/PmUL6wMpMWw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -91,7 +91,7 @@ Prima ballerina Dominika Egorova faces a bleak and uncertain future after she su
 	
 
 ### Game Night
-*Released on 2018-02-22, vote average 7.6*
+*Released on 2018-02-22, vote average 7.5*
 
 A group of friends who meet regularly for game nights find themselves trying to solve a murder mystery.
 
@@ -112,16 +112,16 @@ A group of friends who meet regularly for game nights find themselves trying to 
 	
 	
 
-### The Lodgers
-*Released on 2018-02-15, vote average 6*
+### Death Wish
+*Released on 2018-03-02, vote average 4*
 
-1920, rural Ireland. Anglo-Irish twins Rachel and Edward share a strange existence in their crumbling family estate. Each night, the property becomes the domain of a sinister presence (The Lodgers) which enforces three rules upon the twins: they must be in bed by midnight; they may not permit an outsider past the threshold; and if one attempts to escape, the life of the other is placed in jeopardy. When troubled war veteran Sean returns to the nearby village, he is immediately drawn to the mysterious Rachel, who in turn begins to break the rules set out by The Lodgers. The consequences pull Rachel into a deadly confrontation with her brother - and with the curse that haunts them.
+A mild-mannered father is transformed into a killing machine after his family is torn apart by a violent act.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/YLSV-41h2LQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/HzILu6yyA20?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -132,7 +132,54 @@ A group of friends who meet regularly for game nights find themselves trying to 
 
 
 	
+
+  
+
+
 	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Vanishing of Sidney Hall
+*Released on 2018-03-02, vote average 7*
+
+Over the course of 12 years, and three stages of life, Sidney Hall falls in love, writes the book of a generation and then disappears without a trace.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jmSciysEDoE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -142,7 +189,7 @@ A group of friends who meet regularly for game nights find themselves trying to 
 	
 
 ### Every Day
-*Released on 2018-02-22, vote average 8*
+*Released on 2018-02-22, vote average 7*
 
 16-year old Rhiannon falls in love with a mysterious spirit named “A” that inhabits a different body every day. Feeling an unmatched connection, Rhiannon and “A” work each day to find each other, not knowing what the next day will bring.
 
@@ -195,36 +242,6 @@ A group of friends who meet regularly for game nights find themselves trying to 
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -232,27 +249,8 @@ A group of friends who meet regularly for game nights find themselves trying to 
 	
 	
 
-### Red Sparrow
-*Released on 2018-03-01, vote average 4.8*
-
-Prima ballerina Dominika Egorova faces a bleak and uncertain future after she suffers an injury that ends her career. She soon turns to Sparrow School, a secret intelligence service that trains exceptional young people to use their minds and bodies as weapons. Egorova emerges as the most dangerous Sparrow after completing the sadistic training process. As she comes to terms with her new abilities, Dominika meets a CIA agent who tries to convince her that he is the only person she can trust.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0221W4fUkS8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
 ### Death Wish
-*Released on 2018-03-02, vote average 5.5*
+*Released on 2018-03-02, vote average 4*
 
 A mild-mannered father is transformed into a killing machine after his family is torn apart by a violent act.
 
@@ -260,7 +258,7 @@ A mild-mannered father is transformed into a killing machine after his family is
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/vbPwPDyVSts?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/HzILu6yyA20?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -309,12 +307,6 @@ Over the course of 12 years, and three stages of life, Sidney Hall falls in love
 	
 
 	
-
-	
-
-	
-
-	
 	
 
 ### Mohawk
@@ -331,6 +323,14 @@ A young Mohawk woman and her two lovers battle a squad of American soldiers hell
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
 	
 
 	
