@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Red Sparrow
-*Released on 2018-03-01, vote average 6.1*
+### Mute
+*Released on 2018-02-23, vote average 5.7*
 
-Prima ballerina Dominika Egorova faces a bleak and uncertain future after she suffers an injury that ends her career. She soon turns to Sparrow School, a secret intelligence service that trains exceptional young people to use their minds and bodies as weapons. Egorova emerges as the most dangerous Sparrow after completing the sadistic training process. As she comes to terms with her new abilities, Dominika meets a CIA agent who tries to convince her that he is the only person she can trust.
+A mute man with a violent past is forced to take on the teeming underworld of a near-future Berlin as he searches for his missing girlfriend.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/PmUL6wMpMWw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ma8te7ywEio?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -40,6 +40,28 @@ Prima ballerina Dominika Egorova faces a bleak and uncertain future after she su
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+  
+
+
+	
+	
+
+### Red Sparrow
+*Released on 2018-03-01, vote average 6.2*
+
+Prima ballerina Dominika Egorova faces a bleak and uncertain future after she suffers an injury that ends her career. She soon turns to Sparrow School, a secret intelligence service that trains exceptional young people to use their minds and bodies as weapons. Egorova emerges as the most dangerous Sparrow after completing the sadistic training process. As she comes to terms with her new abilities, Dominika meets a CIA agent who tries to convince her that he is the only person she can trust.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PmUL6wMpMWw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
   
 
 
@@ -68,16 +90,16 @@ A biologist signs up for a dangerous, secret expedition into a mysterious zone w
 	
 	
 
-### Mute
-*Released on 2018-02-23, vote average 5.7*
+### Death Wish
+*Released on 2018-03-02, vote average 3.2*
 
-A mute man with a violent past is forced to take on the teeming underworld of a near-future Berlin as he searches for his missing girlfriend.
+A mild-mannered father is transformed into a killing machine after his family is torn apart by a violent act.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ma8te7ywEio?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/HzILu6yyA20?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -100,28 +122,6 @@ A group of friends who meet regularly for game nights find themselves trying to 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/-76o69txkZs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Death Wish
-*Released on 2018-03-02, vote average 4*
-
-A mild-mannered father is transformed into a killing machine after his family is torn apart by a violent act.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/HzILu6yyA20?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -169,8 +169,6 @@ Over the course of 12 years, and three stages of life, Sidney Hall falls in love
 
 
 	
-	
-	
 
   
 
@@ -210,23 +208,6 @@ Over the course of 12 years, and three stages of life, Sidney Hall falls in love
   
 
 
-	
-	
-
-### Every Day
-*Released on 2018-02-22, vote average 7*
-
-16-year old Rhiannon falls in love with a mysterious spirit named “A” that inhabits a different body every day. Feeling an unmatched connection, Rhiannon and “A” work each day to find each other, not knowing what the next day will bring.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/dRvKm__GrqU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -264,6 +245,23 @@ Over the course of 12 years, and three stages of life, Sidney Hall falls in love
 
 	
 
+	
+	
+
+### You Were Never Really Here
+*Released on 2018-03-09, vote average 6.6*
+
+A missing teenage girl. A brutal and tormented enforcer on a rescue mission. Corrupt power and vengeance unleash a storm of violence that may lead to his awakening.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/R8oYYg75Qvg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
