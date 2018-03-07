@@ -68,16 +68,16 @@ A group of friends who meet regularly for game nights find themselves trying to 
 	
 	
 
-### Annihilation
-*Released on 2018-02-22, vote average 5.6*
+### Death Wish
+*Released on 2018-03-02, vote average 4.4*
 
-A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don&#39;t apply.
+A mild-mannered father is transformed into a killing machine after his family is torn apart by a violent act.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/89OP78l9oF0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/HzILu6yyA20?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,16 +112,16 @@ A mute man with a violent past is forced to take on the teeming underworld of a 
 	
 	
 
-### Death Wish
-*Released on 2018-03-02, vote average 3.2*
+### Annihilation
+*Released on 2018-02-22, vote average 5.7*
 
-A mild-mannered father is transformed into a killing machine after his family is torn apart by a violent act.
+A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don&#39;t apply.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/HzILu6yyA20?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/89OP78l9oF0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -154,15 +154,10 @@ Over the course of 12 years, and three stages of life, Sidney Hall falls in love
 
 
 	
-
-  
-
-
-	
 	
 
 ### Mohawk
-*Released on 2018-03-02, vote average 6.6*
+*Released on 2018-03-02, vote average 6.4*
 
 A young Mohawk woman and her two lovers battle a squad of American soldiers hell-bent on revenge.
 
@@ -185,6 +180,58 @@ A young Mohawk woman and her two lovers battle a squad of American soldiers hell
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Fairy
+*Released on 2018-03-02, vote average 8*
+
+Pari is a supernatural horror film in which a man attempts to help a woman named Ruksana, an abuse victim, who he found chained up in a hut.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/iTomHDVLl4E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -229,36 +276,6 @@ A Chilean comedian fuses activism with irreverence for a stand-up set filled wit
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -281,6 +298,8 @@ A Chilean comedian fuses activism with irreverence for a stand-up set filled wit
 
 	
 
+	
+	
 	
 
 	
