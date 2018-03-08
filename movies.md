@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Red Sparrow
-*Released on 2018-03-01, vote average 6.7*
+*Released on 2018-03-01, vote average 6.6*
 
 Prima ballerina Dominika Egorova faces a bleak and uncertain future after she suffers an injury that ends her career. She soon turns to Sparrow School, a secret intelligence service that trains exceptional young people to use their minds and bodies as weapons. Egorova emerges as the most dangerous Sparrow after completing the sadistic training process. As she comes to terms with her new abilities, Dominika meets a CIA agent who tries to convince her that he is the only person she can trust.
 
@@ -46,28 +46,6 @@ Prima ballerina Dominika Egorova faces a bleak and uncertain future after she su
 	
 	
 
-### Game Night
-*Released on 2018-02-22, vote average 7.5*
-
-A group of friends who meet regularly for game nights find themselves trying to solve a murder mystery.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-76o69txkZs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Death Wish
 *Released on 2018-03-02, vote average 4.4*
 
@@ -90,16 +68,16 @@ A mild-mannered father is transformed into a killing machine after his family is
 	
 	
 
-### Mute
-*Released on 2018-02-23, vote average 5.6*
+### Game Night
+*Released on 2018-02-22, vote average 7.4*
 
-A mute man with a violent past is forced to take on the teeming underworld of a near-future Berlin as he searches for his missing girlfriend.
+A group of friends who meet regularly for game nights find themselves trying to solve a murder mystery.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ma8te7ywEio?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-76o69txkZs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,6 +112,28 @@ A biologist signs up for a dangerous, secret expedition into a mysterious zone w
 	
 	
 
+### A Wrinkle in Time
+*Released on 2018-03-08, vote average 4*
+
+After the disappearance of her scientist father, three peculiar beings send Meg, her brother, and her friend to space in order to find him.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/E4U3TeY2wtM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Vanishing of Sidney Hall
 *Released on 2018-03-02, vote average 7*
 
@@ -148,6 +148,38 @@ Over the course of 12 years, and three stages of life, Sidney Hall falls in love
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Mute
+*Released on 2018-02-23, vote average 5.6*
+
+A mute man with a violent past is forced to take on the teeming underworld of a near-future Berlin as he searches for his missing girlfriend.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ma8te7ywEio?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -211,26 +243,6 @@ A young Mohawk woman and her two lovers battle a squad of American soldiers hell
 
 
 	
-
-  
-
-
-	
-	
-
-### Fairy
-*Released on 2018-03-02, vote average 8*
-
-Pari is a supernatural horror film in which a man attempts to help a woman named Ruksana, an abuse victim, who he found chained up in a hut.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/iTomHDVLl4E?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -242,35 +254,6 @@ Pari is a supernatural horror film in which a man attempts to help a woman named
   
 
 
-	
-	
-
-### Natalia Valdebenito : The Special
-*Released on 2018-03-02, vote average 1*
-
-A Chilean comedian fuses activism with irreverence for a stand-up set filled with jokes about misogyny, reproductive rights and respecting women.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LC4m4VmnJDE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -281,6 +264,41 @@ A Chilean comedian fuses activism with irreverence for a stand-up set filled wit
 
 
 	
+	
+
+### A Wrinkle in Time
+*Released on 2018-03-08, vote average 4*
+
+After the disappearance of her scientist father, three peculiar beings send Meg, her brother, and her friend to space in order to find him.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/E4U3TeY2wtM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
 
 	
 
@@ -300,24 +318,6 @@ A Chilean comedian fuses activism with irreverence for a stand-up set filled wit
 
 	
 	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
