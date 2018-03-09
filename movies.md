@@ -46,74 +46,8 @@ Prima ballerina Dominika Egorova faces a bleak and uncertain future after she su
 	
 	
 
-### Death Wish
-*Released on 2018-03-02, vote average 4.4*
-
-A mild-mannered father is transformed into a killing machine after his family is torn apart by a violent act.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/HzILu6yyA20?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Game Night
-*Released on 2018-02-22, vote average 7.4*
-
-A group of friends who meet regularly for game nights find themselves trying to solve a murder mystery.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-76o69txkZs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Annihilation
-*Released on 2018-02-22, vote average 5.7*
-
-A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don&#39;t apply.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/89OP78l9oF0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### A Wrinkle in Time
-*Released on 2018-03-08, vote average 4*
+*Released on 2018-03-08, vote average 4.8*
 
 After the disappearance of her scientist father, three peculiar beings send Meg, her brother, and her friend to space in order to find him.
 
@@ -134,16 +68,16 @@ After the disappearance of her scientist father, three peculiar beings send Meg,
 	
 	
 
-### The Vanishing of Sidney Hall
-*Released on 2018-03-02, vote average 7*
+### Death Wish
+*Released on 2018-03-02, vote average 4.1*
 
-Over the course of 12 years, and three stages of life, Sidney Hall falls in love, writes the book of a generation and then disappears without a trace.
+A mild-mannered father is transformed into a killing machine after his family is torn apart by a violent act.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/jmSciysEDoE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/HzILu6yyA20?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -157,7 +91,7 @@ Over the course of 12 years, and three stages of life, Sidney Hall falls in love
 	
 
 ### Mute
-*Released on 2018-02-23, vote average 5.6*
+*Released on 2018-02-23, vote average 5.7*
 
 A mute man with a violent past is forced to take on the teeming underworld of a near-future Berlin as he searches for his missing girlfriend.
 
@@ -176,10 +110,22 @@ A mute man with a violent past is forced to take on the teeming underworld of a 
 
 
 	
+	
 
-  
+### The Vanishing of Sidney Hall
+*Released on 2018-03-02, vote average 6.4*
 
+Over the course of 12 years, and three stages of life, Sidney Hall falls in love, writes the book of a generation and then disappears without a trace.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jmSciysEDoE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -238,12 +184,34 @@ A young Mohawk woman and her two lovers battle a squad of American soldiers hell
 
 
 	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 
   
 
 
 	
 	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -266,16 +234,16 @@ A young Mohawk woman and her two lovers battle a squad of American soldiers hell
 	
 	
 
-### A Wrinkle in Time
-*Released on 2018-03-08, vote average 4*
+### Tomb Raider
+*Released on 2018-03-14, vote average 10*
 
-After the disappearance of her scientist father, three peculiar beings send Meg, her brother, and her friend to space in order to find him.
+Lara Croft, the fiercely independent daughter of a missing adventurer, must push herself beyond her limits when she finds herself on the island where her father disappeared.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/E4U3TeY2wtM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/enLIWGK9cC8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -316,8 +284,6 @@ After the disappearance of her scientist father, three peculiar beings send Meg,
 
 	
 
-	
-	
 	
 
 	
