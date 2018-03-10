@@ -47,7 +47,7 @@ Prima ballerina Dominika Egorova faces a bleak and uncertain future after she su
 	
 
 ### A Wrinkle in Time
-*Released on 2018-03-08, vote average 4.8*
+*Released on 2018-03-08, vote average 5.4*
 
 After the disappearance of her scientist father, three peculiar beings send Meg, her brother, and her friend to space in order to find him.
 
@@ -69,7 +69,7 @@ After the disappearance of her scientist father, three peculiar beings send Meg,
 	
 
 ### Death Wish
-*Released on 2018-03-02, vote average 4.1*
+*Released on 2018-03-02, vote average 4.4*
 
 A mild-mannered father is transformed into a killing machine after his family is torn apart by a violent act.
 
@@ -78,28 +78,6 @@ A mild-mannered father is transformed into a killing machine after his family is
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/HzILu6yyA20?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Mute
-*Released on 2018-02-23, vote average 5.7*
-
-A mute man with a violent past is forced to take on the teeming underworld of a near-future Berlin as he searches for his missing girlfriend.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ma8te7ywEio?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -122,6 +100,131 @@ Over the course of 12 years, and three stages of life, Sidney Hall falls in love
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/jmSciysEDoE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Gringo
+*Released on 2018-03-09, vote average 6*
+
+An American businessman with a stake in a pharmaceutical company that&#39;s about to go public finds his life is thrown into turmoil by an incident in Mexico.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MnKbM9Zxtn8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Outsider
+*Released on 2018-03-09, vote average 6.7*
+
+It’s an epic story set in post-World War II Japan, chronicling the life of a former American G.I. who becomes part of the Japanese yakuza.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QNNcl2mEHzQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Strangers: Prey at Night
+*Released on 2018-03-07, vote average 4*
+
+A family&#39;s road trip takes a dangerous turn when they arrive at a secluded mobile home park to stay with some relatives and find it mysteriously deserted. Under the cover of darkness, three masked psychopaths pay them a visit to test the family&#39;s every limit as they struggle to survive.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/4_geUW08phI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Bent
+*Released on 2018-03-09, vote average 4*
+
+On his latest private investigation, a shamed former cop connects a murder case to a government conspiracy involving rogue agents from a top spy agency.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/K87nFzlw-M4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -173,60 +276,6 @@ A young Mohawk woman and her two lovers battle a squad of American soldiers hell
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -252,6 +301,23 @@ Lara Croft, the fiercely independent daughter of a missing adventurer, must push
 
 	
 
+	
+	
+
+### Love, Simon
+*Released on 2018-03-16, vote average 8*
+
+Everyone deserves a great love story. But for seventeen-year old Simon Spier it’s a little more complicated: he’s yet to tell his family or friends he’s gay and he doesn’t actually know the identity of the anonymous classmate he’s fallen for online.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ykHeGtN4m94?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
