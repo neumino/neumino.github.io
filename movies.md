@@ -47,7 +47,7 @@ Prima ballerina Dominika Egorova faces a bleak and uncertain future after she su
 	
 
 ### A Wrinkle in Time
-*Released on 2018-03-08, vote average 4.1*
+*Released on 2018-03-08, vote average 5*
 
 After the disappearance of her scientist father, three peculiar beings send Meg, her brother, and her friend to space in order to find him.
 
@@ -69,7 +69,7 @@ After the disappearance of her scientist father, three peculiar beings send Meg,
 	
 
 ### Death Wish
-*Released on 2018-03-02, vote average 4.4*
+*Released on 2018-03-02, vote average 5*
 
 A mild-mannered father is transformed into a killing machine after his family is torn apart by a violent act.
 
@@ -112,6 +112,50 @@ It’s an epic story set in post-World War II Japan, chronicling the life of a f
 	
 	
 
+### Bent
+*Released on 2018-03-09, vote average 4.7*
+
+On his latest private investigation, a shamed former cop connects a murder case to a government conspiracy involving rogue agents from a top spy agency.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/K87nFzlw-M4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Hate Story 4
+*Released on 2018-03-09, vote average 6*
+
+Hate Story 4 is a 2018 Indian Hindi-language erotic thriller film directed by Vishal Pandya and written by Sammeer Arora. The film features Urvashi Rautela, Karan Wahi, Vivan Bhatena and Ihana Dhillon in the lead roles. Two brothers compete against each other to win the affection of a girl. But the girl has her own ulterior motives to manipulate the brothers.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0B7athiVJBA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Gringo
 *Released on 2018-03-09, vote average 6*
 
@@ -132,22 +176,39 @@ An American businessman with a stake in a pharmaceutical company that&#39;s abou
 
 
 	
+
+  
+
+
+	
 	
 
-### Bent
-*Released on 2018-03-09, vote average 4.7*
+### Thoroughbreds
+*Released on 2018-03-09, vote average 6.4*
 
-On his latest private investigation, a shamed former cop connects a murder case to a government conspiracy involving rogue agents from a top spy agency.
+Two teenage girls in suburban Connecticut rekindle their unlikely friendship after years of growing apart. In the process, they learn that neither is what she seems to be, and that a murder might solve both of their problems.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/K87nFzlw-M4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/TPcV_3D3V2A?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -181,27 +242,27 @@ Over the course of 12 years, and three stages of life, Sidney Hall falls in love
 
 
 	
-
-  
-
-
-	
 	
 
-### Hate Story 4
-*Released on 2018-03-09, vote average 6*
+### The Strangers: Prey at Night
+*Released on 2018-03-07, vote average 3.3*
 
-Hate Story 4 is a 2018 Indian Hindi-language erotic thriller film directed by Vishal Pandya and written by Sammeer Arora. The film features Urvashi Rautela, Karan Wahi, Vivan Bhatena and Ihana Dhillon in the lead roles. Two brothers compete against each other to win the affection of a girl. But the girl has her own ulterior motives to manipulate the brothers.
+A family&#39;s road trip takes a dangerous turn when they arrive at a secluded mobile home park to stay with some relatives and find it mysteriously deserted. Under the cover of darkness, three masked psychopaths pay them a visit to test the family&#39;s every limit as they struggle to survive.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/0B7athiVJBA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/4_geUW08phI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -239,31 +300,6 @@ A young Mohawk woman and her two lovers battle a squad of American soldiers hell
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
