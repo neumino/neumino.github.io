@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Red Sparrow
-*Released on 2018-03-01, vote average 6.4*
+*Released on 2018-03-01, vote average 6.3*
 
 Prima ballerina Dominika Egorova faces a bleak and uncertain future after she suffers an injury that ends her career. She soon turns to Sparrow School, a secret intelligence service that trains exceptional young people to use their minds and bodies as weapons. Egorova emerges as the most dangerous Sparrow after completing the sadistic training process. As she comes to terms with her new abilities, Dominika meets a CIA agent who tries to convince her that he is the only person she can trust.
 
@@ -46,8 +46,30 @@ Prima ballerina Dominika Egorova faces a bleak and uncertain future after she su
 	
 	
 
+### Tomb Raider
+*Released on 2018-03-14, vote average 6.8*
+
+Lara Croft, the fiercely independent daughter of a missing adventurer, must push herself beyond her limits when she finds herself on the island where her father disappeared.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/enLIWGK9cC8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### A Wrinkle in Time
-*Released on 2018-03-08, vote average 5*
+*Released on 2018-03-08, vote average 4.9*
 
 After the disappearance of her scientist father, three peculiar beings send Meg, her brother, and her friend to space in order to find him.
 
@@ -56,6 +78,28 @@ After the disappearance of her scientist father, three peculiar beings send Meg,
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/E4U3TeY2wtM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Outsider
+*Released on 2018-03-09, vote average 6.7*
+
+Itâ€™s an epic story set in post-World War II Japan, chronicling the life of a former American G.I. who becomes part of the Japanese yakuza.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QNNcl2mEHzQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -90,30 +134,8 @@ A mild-mannered father is transformed into a killing machine after his family is
 	
 	
 
-### The Outsider
-*Released on 2018-03-09, vote average 6.8*
-
-Itâ€™s an epic story set in post-World War II Japan, chronicling the life of a former American G.I. who becomes part of the Japanese yakuza.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/QNNcl2mEHzQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Bent
-*Released on 2018-03-09, vote average 4.7*
+*Released on 2018-03-09, vote average 5*
 
 On his latest private investigation, a shamed former cop connects a murder case to a government conspiracy involving rogue agents from a top spy agency.
 
@@ -176,11 +198,6 @@ An American businessman with a stake in a pharmaceutical company that&#39;s abou
 
 
 	
-
-  
-
-
-	
 	
 
 ### Thoroughbreds
@@ -193,45 +210,6 @@ Two teenage girls in suburban Connecticut rekindle their unlikely friendship aft
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/TPcV_3D3V2A?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Vanishing of Sidney Hall
-*Released on 2018-03-02, vote average 6.4*
-
-Over the course of 12 years, and three stages of life, Sidney Hall falls in love, writes the book of a generation and then disappears without a trace.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jmSciysEDoE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -264,42 +242,81 @@ A family&#39;s road trip takes a dangerous turn when they arrive at a secluded m
 
 
 	
-
-  
-
-
 	
 
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Mohawk
+### The Vanishing of Sidney Hall
 *Released on 2018-03-02, vote average 6.4*
 
-A young Mohawk woman and her two lovers battle a squad of American soldiers hell-bent on revenge.
+Over the course of 12 years, and three stages of life, Sidney Hall falls in love, writes the book of a generation and then disappears without a trace.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/0utooEV8F8o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/jmSciysEDoE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Terrible Two
+*Released on 2018-03-06, vote average 3*
+
+Albert and Rose Poe bought their dream house seven years ago in Greenfield, NC. They had no idea of the unspeakable horrors that took place in the house before they moved in. If they had known, then their children, Addi and Jade would still be alive. Instead the Poes now find themselves imprisoned in the house they thought was their safe place, and battling their two daughters for survival.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3xpmhE7KOLk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -334,8 +351,6 @@ Lara Croft, the fiercely independent daughter of a missing adventurer, must push
 	
 
 	
-
-	
 	
 
 ### Love, Simon
@@ -348,6 +363,25 @@ Everyone deserves a great love story. But for seventeen-year old Simon Spier itâ
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/ykHeGtN4m94?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### Compulsion
+*Released on 2018-03-15, vote average 6*
+
+Sadie, a young female novelist, and an enigmatic woman named Francesca, are enticed by an ex-lover to join him at his Italian villa for a weekend celebration being held to honor the release of Sadie&#39;s latest book. Once there, Sadie begins to fear his true intentions as she and Francesca become embroiled in a dangerous game of moral and sexual discovery.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/dGfiFGsYPi0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -378,6 +412,23 @@ Everyone deserves a great love story. But for seventeen-year old Simon Spier itâ
 
 	
 
+	
+	
+
+### Be With You
+*Released on 2018-03-14, vote average 10*
+
+Along with his young son, Ji-ho, Woo-jin misses his wife Soo-a, who died after promising to return a year later with the rainy season. Miraculously, they reunite with Soo-a when the rainy season comes around, but she has no memory of her husband and son whom she dearly loved.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/s_GBy9vx2PQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
