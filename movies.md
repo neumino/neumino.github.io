@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Red Sparrow
-*Released on 2018-03-01, vote average 6.3*
+*Released on 2018-03-01, vote average 6.4*
 
 Prima ballerina Dominika Egorova faces a bleak and uncertain future after she suffers an injury that ends her career. She soon turns to Sparrow School, a secret intelligence service that trains exceptional young people to use their minds and bodies as weapons. Egorova emerges as the most dangerous Sparrow after completing the sadistic training process. As she comes to terms with her new abilities, Dominika meets a CIA agent who tries to convince her that he is the only person she can trust.
 
@@ -47,7 +47,7 @@ Prima ballerina Dominika Egorova faces a bleak and uncertain future after she su
 	
 
 ### Tomb Raider
-*Released on 2018-03-14, vote average 6.8*
+*Released on 2018-03-14, vote average 6.6*
 
 Lara Croft, the fiercely independent daughter of a missing adventurer, must push herself beyond her limits when she finds herself on the island where her father disappeared.
 
@@ -69,7 +69,7 @@ Lara Croft, the fiercely independent daughter of a missing adventurer, must push
 	
 
 ### A Wrinkle in Time
-*Released on 2018-03-08, vote average 4.9*
+*Released on 2018-03-08, vote average 5*
 
 After the disappearance of her scientist father, three peculiar beings send Meg, her brother, and her friend to space in order to find him.
 
@@ -90,30 +90,8 @@ After the disappearance of her scientist father, three peculiar beings send Meg,
 	
 	
 
-### The Outsider
-*Released on 2018-03-09, vote average 6.7*
-
-It’s an epic story set in post-World War II Japan, chronicling the life of a former American G.I. who becomes part of the Japanese yakuza.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/QNNcl2mEHzQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Death Wish
-*Released on 2018-03-02, vote average 5*
+*Released on 2018-03-02, vote average 5.1*
 
 A mild-mannered father is transformed into a killing machine after his family is torn apart by a violent act.
 
@@ -134,16 +112,16 @@ A mild-mannered father is transformed into a killing machine after his family is
 	
 	
 
-### Bent
-*Released on 2018-03-09, vote average 5*
+### The Outsider
+*Released on 2018-03-09, vote average 6.8*
 
-On his latest private investigation, a shamed former cop connects a murder case to a government conspiracy involving rogue agents from a top spy agency.
+It’s an epic story set in post-World War II Japan, chronicling the life of a former American G.I. who becomes part of the Japanese yakuza.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/K87nFzlw-M4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/QNNcl2mEHzQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -178,8 +156,74 @@ Hate Story 4 is a 2018 Indian Hindi-language erotic thriller film directed by Vi
 	
 	
 
+### Compulsion
+*Released on 2018-03-15, vote average 6*
+
+Sadie, a young female novelist, and an enigmatic woman named Francesca, are enticed by an ex-lover to join him at his Italian villa for a weekend celebration being held to honor the release of Sadie&#39;s latest book. Once there, Sadie begins to fear his true intentions as she and Francesca become embroiled in a dangerous game of moral and sexual discovery.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/dGfiFGsYPi0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Bent
+*Released on 2018-03-09, vote average 5*
+
+On his latest private investigation, a shamed former cop connects a murder case to a government conspiracy involving rogue agents from a top spy agency.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/K87nFzlw-M4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Sherlock Gnomes
+*Released on 2018-03-15, vote average 1*
+
+Garden gnomes, Gnomeo &amp; Juliet, recruit renown detective, Sherlock Gnomes, to investigate the mysterious disappearance of other garden ornaments.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/TR-sefx8ncI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Gringo
-*Released on 2018-03-09, vote average 6*
+*Released on 2018-03-09, vote average 6.8*
 
 An American businessman with a stake in a pharmaceutical company that&#39;s about to go public finds his life is thrown into turmoil by an incident in Mexico.
 
@@ -198,10 +242,15 @@ An American businessman with a stake in a pharmaceutical company that&#39;s abou
 
 
 	
+
+  
+
+
+	
 	
 
 ### Thoroughbreds
-*Released on 2018-03-09, vote average 6.4*
+*Released on 2018-03-09, vote average 6.6*
 
 Two teenage girls in suburban Connecticut rekindle their unlikely friendship after years of growing apart. In the process, they learn that neither is what she seems to be, and that a murder might solve both of their problems.
 
@@ -214,6 +263,16 @@ Two teenage girls in suburban Connecticut rekindle their unlikely friendship aft
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -264,49 +323,7 @@ Over the course of 12 years, and three stages of life, Sidney Hall falls in love
 
 
 	
-
-  
-
-
 	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Terrible Two
-*Released on 2018-03-06, vote average 3*
-
-Albert and Rose Poe bought their dream house seven years ago in Greenfield, NC. They had no idea of the unspeakable horrors that took place in the house before they moved in. If they had known, then their children, Addi and Jade would still be alive. Instead the Poes now find themselves imprisoned in the house they thought was their safe place, and battling their two daughters for survival.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3xpmhE7KOLk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -334,16 +351,16 @@ Albert and Rose Poe bought their dream house seven years ago in Greenfield, NC. 
 	
 	
 
-### Tomb Raider
-*Released on 2018-03-14, vote average 6.8*
+### Compulsion
+*Released on 2018-03-15, vote average 6*
 
-Lara Croft, the fiercely independent daughter of a missing adventurer, must push herself beyond her limits when she finds herself on the island where her father disappeared.
+Sadie, a young female novelist, and an enigmatic woman named Francesca, are enticed by an ex-lover to join him at his Italian villa for a weekend celebration being held to honor the release of Sadie&#39;s latest book. Once there, Sadie begins to fear his true intentions as she and Francesca become embroiled in a dangerous game of moral and sexual discovery.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/enLIWGK9cC8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/dGfiFGsYPi0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -372,16 +389,16 @@ Everyone deserves a great love story. But for seventeen-year old Simon Spier it�
 	
 	
 
-### Compulsion
-*Released on 2018-03-15, vote average 6*
+### Sherlock Gnomes
+*Released on 2018-03-15, vote average 1*
 
-Sadie, a young female novelist, and an enigmatic woman named Francesca, are enticed by an ex-lover to join him at his Italian villa for a weekend celebration being held to honor the release of Sadie&#39;s latest book. Once there, Sadie begins to fear his true intentions as she and Francesca become embroiled in a dangerous game of moral and sexual discovery.
+Garden gnomes, Gnomeo &amp; Juliet, recruit renown detective, Sherlock Gnomes, to investigate the mysterious disappearance of other garden ornaments.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/dGfiFGsYPi0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/TR-sefx8ncI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -412,23 +429,6 @@ Sadie, a young female novelist, and an enigmatic woman named Francesca, are enti
 
 	
 
-	
-	
-
-### Be With You
-*Released on 2018-03-14, vote average 10*
-
-Along with his young son, Ji-ho, Woo-jin misses his wife Soo-a, who died after promising to return a year later with the rainy season. Miraculously, they reunite with Soo-a when the rainy season comes around, but she has no memory of her husband and son whom she dearly loved.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/s_GBy9vx2PQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
