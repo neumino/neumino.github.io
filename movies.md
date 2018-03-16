@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Red Sparrow
-*Released on 2018-03-01, vote average 6.4*
+### Tomb Raider
+*Released on 2018-03-14, vote average 6.5*
 
-Prima ballerina Dominika Egorova faces a bleak and uncertain future after she suffers an injury that ends her career. She soon turns to Sparrow School, a secret intelligence service that trains exceptional young people to use their minds and bodies as weapons. Egorova emerges as the most dangerous Sparrow after completing the sadistic training process. As she comes to terms with her new abilities, Dominika meets a CIA agent who tries to convince her that he is the only person she can trust.
+Lara Croft, the fiercely independent daughter of a missing adventurer, must push herself beyond her limits when she finds herself on the island where her father disappeared.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/PmUL6wMpMWw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/enLIWGK9cC8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,30 +46,8 @@ Prima ballerina Dominika Egorova faces a bleak and uncertain future after she su
 	
 	
 
-### Tomb Raider
-*Released on 2018-03-14, vote average 6.6*
-
-Lara Croft, the fiercely independent daughter of a missing adventurer, must push herself beyond her limits when she finds herself on the island where her father disappeared.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/enLIWGK9cC8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### A Wrinkle in Time
-*Released on 2018-03-08, vote average 5*
+*Released on 2018-03-08, vote average 4.9*
 
 After the disappearance of her scientist father, three peculiar beings send Meg, her brother, and her friend to space in order to find him.
 
@@ -112,16 +90,16 @@ A mild-mannered father is transformed into a killing machine after his family is
 	
 	
 
-### The Outsider
-*Released on 2018-03-09, vote average 6.8*
+### Love, Simon
+*Released on 2018-03-16, vote average 8*
 
-It’s an epic story set in post-World War II Japan, chronicling the life of a former American G.I. who becomes part of the Japanese yakuza.
+Everyone deserves a great love story. But for seventeen-year old Simon Spier it’s a little more complicated: he’s yet to tell his family or friends he’s gay and he doesn’t actually know the identity of the anonymous classmate he’s fallen for online.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/QNNcl2mEHzQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ykHeGtN4m94?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -144,6 +122,28 @@ Hate Story 4 is a 2018 Indian Hindi-language erotic thriller film directed by Vi
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/0B7athiVJBA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Outsider
+*Released on 2018-03-09, vote average 6.8*
+
+It’s an epic story set in post-World War II Japan, chronicling the life of a former American G.I. who becomes part of the Japanese yakuza.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QNNcl2mEHzQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -220,10 +220,15 @@ Garden gnomes, Gnomeo &amp; Juliet, recruit renown detective, Sherlock Gnomes, t
 
 
 	
+
+  
+
+
+	
 	
 
 ### Gringo
-*Released on 2018-03-09, vote average 6.8*
+*Released on 2018-03-09, vote average 6.9*
 
 An American businessman with a stake in a pharmaceutical company that&#39;s about to go public finds his life is thrown into turmoil by an incident in Mexico.
 
@@ -236,6 +241,16 @@ An American businessman with a stake in a pharmaceutical company that&#39;s abou
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -269,28 +284,18 @@ Two teenage girls in suburban Connecticut rekindle their unlikely friendship aft
 
 
 	
-
-  
-
-
 	
 
-  
+### Ricky Gervais: Humanity
+*Released on 2018-03-13, vote average 8.1*
 
-
-	
-	
-
-### The Strangers: Prey at Night
-*Released on 2018-03-07, vote average 3.3*
-
-A family&#39;s road trip takes a dangerous turn when they arrive at a secluded mobile home park to stay with some relatives and find it mysteriously deserted. Under the cover of darkness, three masked psychopaths pay them a visit to test the family&#39;s every limit as they struggle to survive.
+In his first special in seven years, Ricky Gervais slings his trademark snark at celebrity, mortality and a society that takes everything personally.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/4_geUW08phI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/XAwU3Lyn--U?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -301,34 +306,27 @@ A family&#39;s road trip takes a dangerous turn when they arrive at a secluded m
 
 
 	
+
+  
+
+
+	
 	
 
-### The Vanishing of Sidney Hall
-*Released on 2018-03-02, vote average 6.4*
+### Mary Magdalene
+*Released on 2018-03-15, vote average 6*
 
-Over the course of 12 years, and three stages of life, Sidney Hall falls in love, writes the book of a generation and then disappears without a trace.
+Set in the Holy Land in the first century C.E., a young woman leaves her small fishing village and traditional family behind to join a radical new social movement. At its head is a charismatic leader, Jesus of Nazareth, who promises that the world is changing. Mary is searching for a new way of living, and an authenticity that is denied her by the rigid hierarchies of the day. As the notoriety of the group spread and more are drawn to follow Jesus’ inspirational message, Mary’s spiritual journey places her at the heart of a story that will lead to the capital city of Jerusalem, where she must confront the reality of Jesus’ destiny and her own place within it.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/jmSciysEDoE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/JS3rRHwrOpM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 	
 
   
@@ -351,25 +349,6 @@ Over the course of 12 years, and three stages of life, Sidney Hall falls in love
 	
 	
 
-### Compulsion
-*Released on 2018-03-15, vote average 6*
-
-Sadie, a young female novelist, and an enigmatic woman named Francesca, are enticed by an ex-lover to join him at his Italian villa for a weekend celebration being held to honor the release of Sadie&#39;s latest book. Once there, Sadie begins to fear his true intentions as she and Francesca become embroiled in a dangerous game of moral and sexual discovery.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/dGfiFGsYPi0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
 ### Love, Simon
 *Released on 2018-03-16, vote average 8*
 
@@ -387,22 +366,7 @@ Everyone deserves a great love story. But for seventeen-year old Simon Spier it�
 	
 
 	
-	
 
-### Sherlock Gnomes
-*Released on 2018-03-15, vote average 1*
-
-Garden gnomes, Gnomeo &amp; Juliet, recruit renown detective, Sherlock Gnomes, to investigate the mysterious disappearance of other garden ornaments.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/TR-sefx8ncI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
