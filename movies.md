@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Tomb Raider
-*Released on 2018-03-14, vote average 6.3*
+*Released on 2018-03-14, vote average 6.2*
 
 Lara Croft, the fiercely independent daughter of a missing adventurer, must push herself beyond her limits when she finds herself on the island where her father disappeared.
 
@@ -47,7 +47,7 @@ Lara Croft, the fiercely independent daughter of a missing adventurer, must push
 	
 
 ### A Wrinkle in Time
-*Released on 2018-03-08, vote average 4.9*
+*Released on 2018-03-08, vote average 5.2*
 
 After the disappearance of her scientist father, three peculiar beings send Meg, her brother, and her friend to space in order to find him.
 
@@ -110,6 +110,28 @@ It’s an epic story set in post-World War II Japan, chronicling the life of a f
 
 
 	
+	
+
+### Dear Dictator
+*Released on 2018-03-16, vote average 5.5*
+
+When political turmoil forces a British-Caribbean dictator to flee his island nation, he seeks refuge and hides with a rebellious teenage girl in suburban America, and ends up teaching the young teen how to start a revolution and overthrow the &#34;mean girls&#34; in her high school.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/iod3IeDErt0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 
   
 
@@ -127,6 +149,57 @@ Aryan and Rajveer spike drinks, lie and cheat and do everything despicable to se
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/0B7athiVJBA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Mary Magdalene
+*Released on 2018-03-15, vote average 5.8*
+
+Set in the Holy Land in the first century C.E., a young woman leaves her small fishing village and traditional family behind to join a radical new social movement. At its head is a charismatic leader, Jesus of Nazareth, who promises that the world is changing. Mary is searching for a new way of living, and an authenticity that is denied her by the rigid hierarchies of the day. As the notoriety of the group spread and more are drawn to follow Jesus’ inspirational message, Mary’s spiritual journey places her at the heart of a story that will lead to the capital city of Jerusalem, where she must confront the reality of Jesus’ destiny and her own place within it.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/JS3rRHwrOpM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### 7 Days in Entebbe
+*Released on 2018-03-16, vote average 7*
+
+Four hijackers take over an airplane, take the passengers hostage, and force it to land in Entebbe, Uganda in 1976 in an effort to free of dozens of Palestinian terrorists jailed in Israel.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kuTBea8_-LY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -166,55 +239,6 @@ Garden gnomes, Gnomeo &amp; Juliet, recruit renown detective, Sherlock Gnomes, t
 	
 	
 
-### Compulsion
-*Released on 2018-03-15, vote average 6*
-
-Sadie, a young female novelist, and an enigmatic woman named Francesca, are enticed by an ex-lover to join him at his Italian villa for a weekend celebration being held to honor the release of Sadie&#39;s latest book. Once there, Sadie begins to fear his true intentions as she and Francesca become embroiled in a dangerous game of moral and sexual discovery.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/dGfiFGsYPi0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Mary Magdalene
-*Released on 2018-03-15, vote average 5.8*
-
-Set in the Holy Land in the first century C.E., a young woman leaves her small fishing village and traditional family behind to join a radical new social movement. At its head is a charismatic leader, Jesus of Nazareth, who promises that the world is changing. Mary is searching for a new way of living, and an authenticity that is denied her by the rigid hierarchies of the day. As the notoriety of the group spread and more are drawn to follow Jesus’ inspirational message, Mary’s spiritual journey places her at the heart of a story that will lead to the capital city of Jerusalem, where she must confront the reality of Jesus’ destiny and her own place within it.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/JS3rRHwrOpM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### Ricky Gervais: Humanity
 *Released on 2018-03-13, vote average 8.4*
 
@@ -235,43 +259,18 @@ In his first special in seven years, Ricky Gervais slings his trademark snark at
 
 
 	
-
-  
-
-
 	
 
-  
+### Compulsion
+*Released on 2018-03-15, vote average 5*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Raid
-*Released on 2018-03-16, vote average 5*
-
-Set in the 80s in Uttar Pradesh, India, Raid is based on the true story of one of the most high profile raids the country has ever known. Amay Patnaik (Ajay Devgn), an upright and no-nonsense Income Tax officer has already been transferred 49 times in the past seven years owing to his idealistic and courageous disposition to uncover tax frauds, hitting hard the pockets of many a big shot. When Patnaik is assigned the case of Tauji, a highly influential and feared man in Uttar Pradesh, little does he know that his unerring determination to bring Tauji to justice would culminate in the longest and most challenging raid of his career as also the history of the Income Tax Department of India. Would Amay succeed in the face of an increasingly stubborn and belligerent Tauji forms the crux of the story.
+Sadie, a young female novelist, and an enigmatic woman named Francesca, are enticed by an ex-lover to join him at his Italian villa for a weekend celebration being held to honor the release of Sadie&#39;s latest book. Once there, Sadie begins to fear his true intentions as she and Francesca become embroiled in a dangerous game of moral and sexual discovery.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/3h4thS-Hcrk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/dGfiFGsYPi0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -284,19 +283,58 @@ Set in the 80s in Uttar Pradesh, India, Raid is based on the true story of one o
 	
 	
 
-### Gringo
-*Released on 2018-03-09, vote average 6.9*
+### Bent
+*Released on 2018-03-09, vote average 5.7*
 
-An American businessman with a stake in a pharmaceutical company that&#39;s about to go public finds his life is thrown into turmoil by an incident in Mexico.
+On his latest private investigation, a shamed former cop connects a murder case to a government conspiracy involving rogue agents from a top spy agency.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/MnKbM9Zxtn8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/K87nFzlw-M4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### I Can Only Imagine
+*Released on 2018-03-08, vote average 8.7*
+
+The True Story follows the life of Bart Millard, the lead singer of the Christian Band MercyMe, who loses his Father to Cancer and inspires him to write the Mega-hit song, I Can Only Imagine
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Fgo6xs93OEw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 	
 
@@ -313,7 +351,22 @@ An American businessman with a stake in a pharmaceutical company that&#39;s abou
 
 
 	
+	
 
+### Pacific Rim: Uprising
+*Released on 2018-03-21, vote average 5.3*
+
+It has been ten years since The Battle of the Breach and the oceans are still, but restless. Vindicated by the victory at the Breach, the Jaeger program has evolved into the most powerful global defense force in human history. The PPDC now calls upon the best and brightest to rise up and become the next generation of heroes when the Kaiju threat returns.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Am-gG-VyXPg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -324,6 +377,25 @@ An American businessman with a stake in a pharmaceutical company that&#39;s abou
 
 	
 
+	
+
+	
+	
+
+### Welcome the Stranger
+*Released on 2018-03-20, vote average 9*
+
+Alice arrives unannounced at her estranged brother Ethan&#39;s house in an attempt to reconcile, but bizarre visions, the return of his strange girlfriend and Alice&#39;s paranoia and suspicion force the siblings to cling onto reality amidst mysterious circumstances.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/oZjFRArA0_8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
