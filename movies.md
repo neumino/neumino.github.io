@@ -69,7 +69,7 @@ It has been ten years since The Battle of the Breach and the oceans are still, b
 	
 
 ### A Wrinkle in Time
-*Released on 2018-03-08, vote average 5.1*
+*Released on 2018-03-08, vote average 5.2*
 
 After the disappearance of her scientist father, three peculiar beings send Meg, her brother, and her friend to space in order to find him.
 
@@ -90,16 +90,16 @@ After the disappearance of her scientist father, three peculiar beings send Meg,
 	
 	
 
-### Love, Simon
-*Released on 2018-03-16, vote average 8.2*
+### The Outsider
+*Released on 2018-03-09, vote average 6.5*
 
-Everyone deserves a great love story. But for seventeen-year old Simon Spier it’s a little more complicated: he’s yet to tell his family or friends he’s gay and he doesn’t actually know the identity of the anonymous classmate he’s fallen for online.
+It’s an epic story set in post-World War II Japan, chronicling the life of a former American G.I. who becomes part of the Japanese yakuza.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ykHeGtN4m94?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/QNNcl2mEHzQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,16 +112,16 @@ Everyone deserves a great love story. But for seventeen-year old Simon Spier it�
 	
 	
 
-### The Outsider
-*Released on 2018-03-09, vote average 6.6*
+### Love, Simon
+*Released on 2018-03-16, vote average 8.1*
 
-It’s an epic story set in post-World War II Japan, chronicling the life of a former American G.I. who becomes part of the Japanese yakuza.
+Everyone deserves a great love story. But for seventeen-year old Simon Spier it’s a little more complicated: he’s yet to tell his family or friends he’s gay and he doesn’t actually know the identity of the anonymous classmate he’s fallen for online.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/QNNcl2mEHzQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ykHeGtN4m94?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -156,6 +156,28 @@ When political turmoil forces a British-Caribbean dictator to flee his island na
 	
 	
 
+### Demon House
+*Released on 2018-03-16, vote average 7.3*
+
+As mass hysteria breaks-out over an alleged demonic possession in an Indiana home, referred to as a “Portal to Hell,” Ghost Adventures host and paranormal investigator Zak Bagans buys the house, sight unseen, over the phone. He and his crew then become the next victims of the most documented case of demonic possession in US history… the “house of 200 demons.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qOa5KSX8_ew?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Josie
 *Released on 2018-03-16, vote average 5*
 
@@ -176,6 +198,11 @@ Everyone knows everyone in Huntsville. So when tattooed, sweet-talking Josie str
 
 
 	
+
+  
+
+
+	
 	
 
 ### Sherlock Gnomes
@@ -188,28 +215,6 @@ Garden gnomes, Gnomeo &amp; Juliet, recruit renown detective, Sherlock Gnomes, t
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/TR-sefx8ncI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### 7 Days in Entebbe
-*Released on 2018-03-16, vote average 7*
-
-Four hijackers take over an airplane, take the passengers hostage, and force it to land in Entebbe, Uganda in 1976 in an effort to free of dozens of Palestinian terrorists jailed in Israel.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kuTBea8_-LY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -242,23 +247,6 @@ Aryan and Rajveer spike drinks, lie and cheat and do everything despicable to se
 
 
 	
-	
-
-### Demon House
-*Released on 2018-03-16, vote average 7.3*
-
-As mass hysteria breaks-out over an alleged demonic possession in an Indiana home, referred to as a “Portal to Hell,” Ghost Adventures host and paranormal investigator Zak Bagans buys the house, sight unseen, over the phone. He and his crew then become the next victims of the most documented case of demonic possession in US history… the “house of 200 demons.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qOa5KSX8_ew?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -266,16 +254,16 @@ As mass hysteria breaks-out over an alleged demonic possession in an Indiana hom
 	
 	
 
-### I Can Only Imagine
-*Released on 2018-03-08, vote average 8.7*
+### Bent
+*Released on 2018-03-09, vote average 6*
 
-The True Story follows the life of Bart Millard, the lead singer of the Christian Band MercyMe, who loses his Father to Cancer and inspires him to write the Mega-hit song, I Can Only Imagine
+On his latest private investigation, a shamed former cop connects a murder case to a government conspiracy involving rogue agents from a top spy agency.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Fgo6xs93OEw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/K87nFzlw-M4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -294,7 +282,7 @@ The True Story follows the life of Bart Millard, the lead singer of the Christia
 	
 
 ### Welcome the Stranger
-*Released on 2018-03-20, vote average 5.8*
+*Released on 2018-03-20, vote average 7*
 
 Alice arrives unannounced at her estranged brother Ethan&#39;s house in an attempt to reconcile, but bizarre visions, the return of his strange girlfriend and Alice&#39;s paranoia and suspicion force the siblings to cling onto reality amidst mysterious circumstances.
 
@@ -303,28 +291,6 @@ Alice arrives unannounced at her estranged brother Ethan&#39;s house in an attem
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/oZjFRArA0_8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Ricky Gervais: Humanity
-*Released on 2018-03-13, vote average 7.7*
-
-In his first special in seven years, Ricky Gervais slings his trademark snark at celebrity, mortality and a society that takes everything personally.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XAwU3Lyn--U?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -362,23 +328,18 @@ Sadie, a young female novelist, and an enigmatic woman named Francesca, are enti
 
 
 	
-
-  
-
-
-	
 	
 
-### Mary Magdalene
-*Released on 2018-03-15, vote average 6.3*
+### I Can Only Imagine
+*Released on 2018-03-08, vote average 8.7*
 
-Set in the Holy Land in the first century C.E., a young woman leaves her small fishing village and traditional family behind to join a radical new social movement. At its head is a charismatic leader, Jesus of Nazareth, who promises that the world is changing. Mary is searching for a new way of living, and an authenticity that is denied her by the rigid hierarchies of the day. As the notoriety of the group spread and more are drawn to follow Jesus’ inspirational message, Mary’s spiritual journey places her at the heart of a story that will lead to the capital city of Jerusalem, where she must confront the reality of Jesus’ destiny and her own place within it.
+Growing up in Texas, Bart Millard suffers physical and emotional abuse at the hands of his father. His childhood and relationship with his dad inspires him to write the hit song &#34;I Can Only Imagine&#34; as singer of the Christian band MercyMe.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/JS3rRHwrOpM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Fgo6xs93OEw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -389,18 +350,23 @@ Set in the Holy Land in the first century C.E., a young woman leaves her small f
 
 
 	
+
+  
+
+
+	
 	
 
-### GRINGO: SE BUSCA VIVO O MUERTO
-*Released on 2018-03-09, vote average 6.7*
+### 7 Days in Entebbe
+*Released on 2018-03-16, vote average 7*
 
-An American businessman with a stake in a pharmaceutical company that&#39;s about to go public finds his life is thrown into turmoil by an incident in Mexico.
+Four hijackers take over an airplane, take the passengers hostage, and force it to land in Entebbe, Uganda in 1976 in an effort to free of dozens of Palestinian terrorists jailed in Israel.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/MnKbM9Zxtn8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/kuTBea8_-LY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -417,26 +383,20 @@ An American businessman with a stake in a pharmaceutical company that&#39;s abou
 	
 	
 
-### Pacific Rim: Uprising
-*Released on 2018-03-21, vote average 5.3*
+### Ready Player One
+*Released on 2018-03-28, vote average 8.9*
 
-It has been ten years since The Battle of the Breach and the oceans are still, but restless. Vindicated by the victory at the Breach, the Jaeger program has evolved into the most powerful global defense force in human history. The PPDC now calls upon the best and brightest to rise up and become the next generation of heroes when the Kaiju threat returns.
+When the creator of a popular video game system dies, a virtual contest is created to compete for his fortune.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Am-gG-VyXPg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/dtwpjnuaVTE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
 	
 
 	
@@ -485,7 +445,11 @@ A woman is involuntarily committed to a mental institution amid uncertainty as t
 	
 
 	
+
 	
+
+	
+
 	
 
 	
