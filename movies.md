@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Pacific Rim: Uprising
-*Released on 2018-03-21, vote average 6.4*
+*Released on 2018-03-21, vote average 6.6*
 
 It has been ten years since The Battle of the Breach and the oceans are still, but restless. Vindicated by the victory at the Breach, the Jaeger program has evolved into the most powerful global defense force in human history. The PPDC now calls upon the best and brightest to rise up and become the next generation of heroes when the Kaiju threat returns.
 
@@ -46,28 +46,6 @@ It has been ten years since The Battle of the Breach and the oceans are still, b
 	
 	
 
-### Love, Simon
-*Released on 2018-03-16, vote average 8.1*
-
-Everyone deserves a great love story. But for seventeen-year old Simon Spier it’s a little more complicated: he’s yet to tell his family or friends he’s gay and he doesn’t actually know the identity of the anonymous classmate he’s fallen for online.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ykHeGtN4m94?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Isle of Dogs
 *Released on 2018-03-23, vote average 6*
 
@@ -90,8 +68,52 @@ In the future, an outbreak of canine flu leads the mayor of a Japanese city to b
 	
 	
 
+### Midnight Sun
+*Released on 2018-03-22, vote average 3.5*
+
+Katie, a 17-year-old, has been sheltered since childhood and confined to her house during the day by a rare disease that makes even the smallest amount of sunlight deadly. Fate intervenes when she meets Charlie and they embark on a summer romance.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fEskVQgtwaI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Love, Simon
+*Released on 2018-03-16, vote average 8.1*
+
+Everyone deserves a great love story. But for seventeen-year old Simon Spier it’s a little more complicated: he’s yet to tell his family or friends he’s gay and he doesn’t actually know the identity of the anonymous classmate he’s fallen for online.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ykHeGtN4m94?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Welcome the Stranger
-*Released on 2018-03-20, vote average 7*
+*Released on 2018-03-20, vote average 6.9*
 
 Alice arrives unannounced at her estranged brother Ethan&#39;s house in an attempt to reconcile, but bizarre visions, the return of his strange girlfriend and Alice&#39;s paranoia and suspicion force the siblings to cling onto reality amidst mysterious circumstances.
 
@@ -112,38 +134,16 @@ Alice arrives unannounced at her estranged brother Ethan&#39;s house in an attem
 	
 	
 
-### I Kill Giants
-*Released on 2018-03-23, vote average 6.5*
+### Unsane
+*Released on 2018-03-23, vote average 1.5*
 
-Barbara Thorson struggles through life by escaping into a fantasy life of magic and monsters.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/n7Jg-eo8nBo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Midnight Sun
-*Released on 2018-03-22, vote average 3.5*
-
-Katie, a 17-year-old, has been sheltered since childhood and confined to her house during the day by a rare disease that makes even the smallest amount of sunlight deadly. Fate intervenes when she meets Charlie and they embark on a summer romance.
+A woman is involuntarily committed to a mental institution amid uncertainty as to whether her greatest fear is real or delusional.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/fEskVQgtwaI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/u7KZrt_cHH0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -210,38 +210,16 @@ Garden gnomes, Gnomeo &amp; Juliet, recruit renown detective, Sherlock Gnomes, t
 	
 	
 
-### Bent
-*Released on 2018-03-09, vote average 6*
+### Game Over, Man!
+*Released on 2018-03-23, vote average 5.1*
 
-On his latest private investigation, a shamed former cop connects a murder case to a government conspiracy involving rogue agents from a top spy agency.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/K87nFzlw-M4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Outsider
-*Released on 2018-03-09, vote average 6.5*
-
-It’s an epic story set in post-World War II Japan, chronicling the life of a former American G.I. who becomes part of the Japanese yakuza.
+Three friends are on the verge of getting their video game financed when their benefactor is taken hostage by terrorists.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/QNNcl2mEHzQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/zz5SSoSMmrs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -274,22 +252,35 @@ Everyone knows everyone in Huntsville. So when tattooed, sweet-talking Josie str
 
 
 	
-	
 
-### Unsane
-*Released on 2018-03-23, vote average 1*
+  
 
-A woman is involuntarily committed to a mental institution amid uncertainty as to whether her greatest fear is real or delusional.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/u7KZrt_cHH0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -317,65 +308,6 @@ As mass hysteria breaks-out over an alleged demonic possession in an Indiana hom
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Hate Story 4
-*Released on 2018-03-09, vote average 6*
-
-Aryan and Rajveer spike drinks, lie and cheat and do everything despicable to seduce women. Tasha&#39;s who aspires to make it big in life meets them and her beauty and appeal catch the eye of both brothers which changes their life. She enters their life with the motive to manipulate and destroy them. Unknowing her hidden intentions the bothers fight with each other to win her.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0B7athiVJBA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Gringo
-*Released on 2018-03-09, vote average 6.7*
-
-An American businessman with a stake in a pharmaceutical company that&#39;s about to go public finds his life is thrown into turmoil by an incident in Mexico.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MnKbM9Zxtn8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -384,7 +316,7 @@ An American businessman with a stake in a pharmaceutical company that&#39;s abou
 	
 
 ### Ready Player One
-*Released on 2018-03-28, vote average 8.8*
+*Released on 2018-03-28, vote average 8.3*
 
 When the creator of a popular video game system dies, a virtual contest is created to compete for his fortune.
 
@@ -400,60 +332,9 @@ When the creator of a popular video game system dies, a virtual contest is creat
 	
 
 	
-	
-
-### Isle of Dogs
-*Released on 2018-03-23, vote average 6*
-
-In the future, an outbreak of canine flu leads the mayor of a Japanese city to banish all dogs to an island that&#39;s a garbage dump. The outcasts must soon embark on an epic journey when a 12-year-old boy arrives on the island to find his beloved pet.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/dt__kig8PVU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
-	
 
-	
-	
-
-### I Kill Giants
-*Released on 2018-03-23, vote average 6.5*
-
-Barbara Thorson struggles through life by escaping into a fantasy life of magic and monsters.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/n7Jg-eo8nBo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Unsane
-*Released on 2018-03-23, vote average 1*
-
-A woman is involuntarily committed to a mental institution amid uncertainty as to whether her greatest fear is real or delusional.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/u7KZrt_cHH0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
