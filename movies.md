@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Pacific Rim: Uprising
-*Released on 2018-03-21, vote average 6.6*
+*Released on 2018-03-21, vote average 6.3*
 
 It has been ten years since The Battle of the Breach and the oceans are still, but restless. Vindicated by the victory at the Breach, the Jaeger program has evolved into the most powerful global defense force in human history. The PPDC now calls upon the best and brightest to rise up and become the next generation of heroes when the Kaiju threat returns.
 
@@ -69,7 +69,7 @@ In the future, an outbreak of canine flu leads the mayor of a Japanese city to b
 	
 
 ### Midnight Sun
-*Released on 2018-03-22, vote average 3.5*
+*Released on 2018-03-22, vote average 7.1*
 
 Katie, a 17-year-old, has been sheltered since childhood and confined to her house during the day by a rare disease that makes even the smallest amount of sunlight deadly. Fate intervenes when she meets Charlie and they embark on a summer romance.
 
@@ -78,28 +78,6 @@ Katie, a 17-year-old, has been sheltered since childhood and confined to her hou
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/fEskVQgtwaI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Love, Simon
-*Released on 2018-03-16, vote average 8.1*
-
-Everyone deserves a great love story. But for seventeen-year old Simon Spier it’s a little more complicated: he’s yet to tell his family or friends he’s gay and he doesn’t actually know the identity of the anonymous classmate he’s fallen for online.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ykHeGtN4m94?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -154,18 +132,23 @@ A woman is involuntarily committed to a mental institution amid uncertainty as t
 
 
 	
+
+  
+
+
+	
 	
 
-### Dear Dictator
-*Released on 2018-03-16, vote average 5.8*
+### Love, Simon
+*Released on 2018-03-16, vote average 8.1*
 
-When political turmoil forces a British-Caribbean dictator to flee his island nation, he seeks refuge and hides with a rebellious teenage girl in suburban America, and ends up teaching the young teen how to start a revolution and overthrow the &#34;mean girls&#34; in her high school.
+Everyone deserves a great love story. But for seventeen-year old Simon Spier it’s a little more complicated: he’s yet to tell his family or friends he’s gay and he doesn’t actually know the identity of the anonymous classmate he’s fallen for online.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/iod3IeDErt0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ykHeGtN4m94?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -198,20 +181,10 @@ Garden gnomes, Gnomeo &amp; Juliet, recruit renown detective, Sherlock Gnomes, t
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### Game Over, Man!
-*Released on 2018-03-23, vote average 5.1*
+*Released on 2018-03-23, vote average 5.9*
 
 Three friends are on the verge of getting their video game financed when their benefactor is taken hostage by terrorists.
 
@@ -231,9 +204,58 @@ Three friends are on the verge of getting their video game financed when their b
 
 	
 	
+	
+
+  
+
+
+	
+	
+
+### Dear Dictator
+*Released on 2018-03-16, vote average 5.4*
+
+When political turmoil forces a British-Caribbean dictator to flee his island nation, he seeks refuge and hides with a rebellious teenage girl in suburban America, and ends up teaching the young teen how to start a revolution and overthrow the &#34;mean girls&#34; in her high school.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/iod3IeDErt0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 
 ### Josie
-*Released on 2018-03-16, vote average 5*
+*Released on 2018-03-16, vote average 5.2*
 
 Everyone knows everyone in Huntsville. So when tattooed, sweet-talking Josie struts into town, heads turn. Striking up relationships with young punk Gator and loner Hank, she quickly becomes a hot topic of local gossip. But her true intentions for showing up in this small, southern community are far more sinister as her dark past comes to light.
 
@@ -266,43 +288,6 @@ Everyone knows everyone in Huntsville. So when tattooed, sweet-talking Josie str
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Demon House
-*Released on 2018-03-16, vote average 7.3*
-
-As mass hysteria breaks-out over an alleged demonic possession in an Indiana home, referred to as a “Portal to Hell,” Ghost Adventures host and paranormal investigator Zak Bagans buys the house, sight unseen, over the phone. He and his crew then become the next victims of the most documented case of demonic possession in US history… the “house of 200 demons.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qOa5KSX8_ew?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
