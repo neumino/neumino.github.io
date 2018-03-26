@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Pacific Rim: Uprising
-*Released on 2018-03-21, vote average 6.3*
+*Released on 2018-03-21, vote average 6.4*
 
 It has been ten years since The Battle of the Breach and the oceans are still, but restless. Vindicated by the victory at the Breach, the Jaeger program has evolved into the most powerful global defense force in human history. The PPDC now calls upon the best and brightest to rise up and become the next generation of heroes when the Kaiju threat returns.
 
@@ -47,7 +47,7 @@ It has been ten years since The Battle of the Breach and the oceans are still, b
 	
 
 ### Isle of Dogs
-*Released on 2018-03-23, vote average 6*
+*Released on 2018-03-23, vote average 6.2*
 
 In the future, an outbreak of canine flu leads the mayor of a Japanese city to banish all dogs to an island that&#39;s a garbage dump. The outcasts must soon embark on an epic journey when a 12-year-old boy arrives on the island to find his beloved pet.
 
@@ -56,6 +56,28 @@ In the future, an outbreak of canine flu leads the mayor of a Japanese city to b
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/dt__kig8PVU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Unsane
+*Released on 2018-03-23, vote average 1.5*
+
+A woman is involuntarily committed to a mental institution amid uncertainty as to whether her greatest fear is real or delusional.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/u7KZrt_cHH0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -90,57 +112,8 @@ Katie, a 17-year-old, has been sheltered since childhood and confined to her hou
 	
 	
 
-### Welcome the Stranger
-*Released on 2018-03-20, vote average 6.9*
-
-Alice arrives unannounced at her estranged brother Ethan&#39;s house in an attempt to reconcile, but bizarre visions, the return of his strange girlfriend and Alice&#39;s paranoia and suspicion force the siblings to cling onto reality amidst mysterious circumstances.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/oZjFRArA0_8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Unsane
-*Released on 2018-03-23, vote average 1.5*
-
-A woman is involuntarily committed to a mental institution amid uncertainty as to whether her greatest fear is real or delusional.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/u7KZrt_cHH0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### Love, Simon
-*Released on 2018-03-16, vote average 8.1*
+*Released on 2018-03-16, vote average 8.3*
 
 Everyone deserves a great love story. But for seventeen-year old Simon Spier it’s a little more complicated: he’s yet to tell his family or friends he’s gay and he doesn’t actually know the identity of the anonymous classmate he’s fallen for online.
 
@@ -160,9 +133,38 @@ Everyone deserves a great love story. But for seventeen-year old Simon Spier it�
 
 	
 	
+	
+
+  
+
+
+	
+	
+
+### Game Over, Man!
+*Released on 2018-03-23, vote average 6.1*
+
+Three friends are on the verge of getting their video game financed when their benefactor is taken hostage by terrorists.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zz5SSoSMmrs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
 
 ### Sherlock Gnomes
-*Released on 2018-03-15, vote average 5.5*
+*Released on 2018-03-15, vote average 4*
 
 Garden gnomes, Gnomeo &amp; Juliet, recruit renown detective, Sherlock Gnomes, to investigate the mysterious disappearance of other garden ornaments.
 
@@ -183,20 +185,25 @@ Garden gnomes, Gnomeo &amp; Juliet, recruit renown detective, Sherlock Gnomes, t
 	
 	
 
-### Game Over, Man!
-*Released on 2018-03-23, vote average 5.9*
+### Welcome the Stranger
+*Released on 2018-03-20, vote average 6.9*
 
-Three friends are on the verge of getting their video game financed when their benefactor is taken hostage by terrorists.
+Alice arrives unannounced at her estranged brother Ethan&#39;s house in an attempt to reconcile, but bizarre visions, the return of his strange girlfriend and Alice&#39;s paranoia and suspicion force the siblings to cling onto reality amidst mysterious circumstances.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/zz5SSoSMmrs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/oZjFRArA0_8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -246,28 +253,6 @@ When political turmoil forces a British-Caribbean dictator to flee his island na
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Josie
-*Released on 2018-03-16, vote average 5.2*
-
-Everyone knows everyone in Huntsville. So when tattooed, sweet-talking Josie struts into town, heads turn. Striking up relationships with young punk Gator and loner Hank, she quickly becomes a hot topic of local gossip. But her true intentions for showing up in this small, southern community are far more sinister as her dark past comes to light.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/457t5kaiOYI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
