@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Pacific Rim: Uprising
-*Released on 2018-03-21, vote average 6.4*
+*Released on 2018-03-21, vote average 6.3*
 
 It has been ten years since The Battle of the Breach and the oceans are still, but restless. Vindicated by the victory at the Breach, the Jaeger program has evolved into the most powerful global defense force in human history. The PPDC now calls upon the best and brightest to rise up and become the next generation of heroes when the Kaiju threat returns.
 
@@ -45,17 +45,24 @@ It has been ten years since The Battle of the Breach and the oceans are still, b
 
 	
 	
+	
 
-### Isle of Dogs
-*Released on 2018-03-23, vote average 6.2*
+  
 
-In the future, an outbreak of canine flu leads the mayor of a Japanese city to banish all dogs to an island that&#39;s a garbage dump. The outcasts must soon embark on an epic journey when a 12-year-old boy arrives on the island to find his beloved pet.
+
+	
+	
+
+### Love, Simon
+*Released on 2018-03-16, vote average 8.3*
+
+Everyone deserves a great love story. But for seventeen-year old Simon Spier it’s a little more complicated: he’s yet to tell his family or friends he’s gay and he doesn’t actually know the identity of the anonymous classmate he’s fallen for online.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/dt__kig8PVU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ykHeGtN4m94?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,16 +75,60 @@ In the future, an outbreak of canine flu leads the mayor of a Japanese city to b
 	
 	
 
-### Unsane
-*Released on 2018-03-23, vote average 1.5*
+### Game Over, Man!
+*Released on 2018-03-23, vote average 6.1*
 
-A woman is involuntarily committed to a mental institution amid uncertainty as to whether her greatest fear is real or delusional.
+Three friends are on the verge of getting their video game financed when their benefactor is taken hostage by terrorists.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/u7KZrt_cHH0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/zz5SSoSMmrs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Sherlock Gnomes
+*Released on 2018-03-15, vote average 4.5*
+
+Garden gnomes, Gnomeo &amp; Juliet, recruit renown detective, Sherlock Gnomes, to investigate the mysterious disappearance of other garden ornaments.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/TR-sefx8ncI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Isle of Dogs
+*Released on 2018-03-23, vote average 6.2*
+
+In the future, an outbreak of canine flu leads the mayor of a Japanese city to banish all dogs to an island that&#39;s a garbage dump. The outcasts must soon embark on an epic journey when a 12-year-old boy arrives on the island to find his beloved pet.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/dt__kig8PVU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,45 +163,16 @@ Katie, a 17-year-old, has been sheltered since childhood and confined to her hou
 	
 	
 
-### Love, Simon
-*Released on 2018-03-16, vote average 8.3*
+### Unsane
+*Released on 2018-03-23, vote average 1.5*
 
-Everyone deserves a great love story. But for seventeen-year old Simon Spier it’s a little more complicated: he’s yet to tell his family or friends he’s gay and he doesn’t actually know the identity of the anonymous classmate he’s fallen for online.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ykHeGtN4m94?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Game Over, Man!
-*Released on 2018-03-23, vote average 6.1*
-
-Three friends are on the verge of getting their video game financed when their benefactor is taken hostage by terrorists.
+A woman is involuntarily committed to a mental institution amid uncertainty as to whether her greatest fear is real or delusional.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/zz5SSoSMmrs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/u7KZrt_cHH0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -163,20 +185,25 @@ Three friends are on the verge of getting their video game financed when their b
 	
 	
 
-### Sherlock Gnomes
-*Released on 2018-03-15, vote average 4*
+### Paul, Apostle of Christ
+*Released on 2018-03-23, vote average 10*
 
-Garden gnomes, Gnomeo &amp; Juliet, recruit renown detective, Sherlock Gnomes, to investigate the mysterious disappearance of other garden ornaments.
+Risking his life, Luke ventures to Rome to visit Paul -- the apostle who&#39;s bound in chains and held captive in Nero&#39;s darkest and bleakest prison cell. Haunted by the shadows of his past misdeeds, Paul wonders if he&#39;s been forgotten as he awaits his grisly execution. Before Paul&#39;s death, Luke resolves to write another book that details the birth of what will come to be known as the church.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/TR-sefx8ncI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/LyOqQZUDdO4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -205,11 +232,53 @@ Alice arrives unannounced at her estranged brother Ethan&#39;s house in an attem
 
 
 	
+	
+	
 
   
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Mary Magdalene
+*Released on 2018-03-15, vote average 6.1*
+
+Set in the Holy Land in the first century C.E., a young woman leaves her small fishing village and traditional family behind to join a radical new social movement. At its head is a charismatic leader, Jesus of Nazareth, who promises that the world is changing. Mary is searching for a new way of living, and an authenticity that is denied her by the rigid hierarchies of the day. As the notoriety of the group spread and more are drawn to follow Jesus’ inspirational message, Mary’s spiritual journey places her at the heart of a story that will lead to the capital city of Jerusalem, where she must confront the reality of Jesus’ destiny and her own place within it.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/JS3rRHwrOpM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -233,41 +302,6 @@ When political turmoil forces a British-Caribbean dictator to flee his island na
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
