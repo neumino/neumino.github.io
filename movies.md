@@ -45,6 +45,72 @@ It has been ten years since The Battle of the Breach and the oceans are still, b
 
 	
 	
+
+### Ready Player One
+*Released on 2018-03-28, vote average 8.3*
+
+When the creator of a popular video game system dies, a virtual contest is created to compete for his fortune.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/dtwpjnuaVTE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Game Over, Man!
+*Released on 2018-03-23, vote average 6*
+
+Three friends are on the verge of getting their video game financed when their benefactor is taken hostage by terrorists.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zz5SSoSMmrs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Isle of Dogs
+*Released on 2018-03-23, vote average 7.3*
+
+In the future, an outbreak of canine flu leads the mayor of a Japanese city to banish all dogs to an island that&#39;s a garbage dump. The outcasts must soon embark on an epic journey when a 12-year-old boy arrives on the island to find his beloved pet.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/dt__kig8PVU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -63,28 +129,6 @@ Everyone deserves a great love story. But for seventeen-year old Simon Spier it�
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/ykHeGtN4m94?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Game Over, Man!
-*Released on 2018-03-23, vote average 6.1*
-
-Three friends are on the verge of getting their video game financed when their benefactor is taken hostage by terrorists.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zz5SSoSMmrs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -119,30 +163,8 @@ Garden gnomes, Gnomeo &amp; Juliet, recruit renown detective, Sherlock Gnomes, t
 	
 	
 
-### Isle of Dogs
-*Released on 2018-03-23, vote average 6.2*
-
-In the future, an outbreak of canine flu leads the mayor of a Japanese city to banish all dogs to an island that&#39;s a garbage dump. The outcasts must soon embark on an epic journey when a 12-year-old boy arrives on the island to find his beloved pet.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/dt__kig8PVU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Midnight Sun
-*Released on 2018-03-22, vote average 7.1*
+*Released on 2018-03-22, vote average 7.8*
 
 Katie, a 17-year-old, has been sheltered since childhood and confined to her house during the day by a rare disease that makes even the smallest amount of sunlight deadly. Fate intervenes when she meets Charlie and they embark on a summer romance.
 
@@ -164,7 +186,7 @@ Katie, a 17-year-old, has been sheltered since childhood and confined to her hou
 	
 
 ### Unsane
-*Released on 2018-03-23, vote average 1.5*
+*Released on 2018-03-23, vote average 5.6*
 
 A woman is involuntarily committed to a mental institution amid uncertainty as to whether her greatest fear is real or delusional.
 
@@ -210,30 +232,6 @@ Risking his life, Luke ventures to Rome to visit Paul -- the apostle who&#39;s b
 
 
 	
-	
-
-### Welcome the Stranger
-*Released on 2018-03-20, vote average 6.9*
-
-Alice arrives unannounced at her estranged brother Ethan&#39;s house in an attempt to reconcile, but bizarre visions, the return of his strange girlfriend and Alice&#39;s paranoia and suspicion force the siblings to cling onto reality amidst mysterious circumstances.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/oZjFRArA0_8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
 
   
 
@@ -244,20 +242,7 @@ Alice arrives unannounced at her estranged brother Ethan&#39;s house in an attem
 
 
 	
-
-  
-
-
 	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -267,7 +252,7 @@ Alice arrives unannounced at her estranged brother Ethan&#39;s house in an attem
 	
 
 ### Mary Magdalene
-*Released on 2018-03-15, vote average 6.1*
+*Released on 2018-03-15, vote average 6.3*
 
 Set in the Holy Land in the first century C.E., a young woman leaves her small fishing village and traditional family behind to join a radical new social movement. At its head is a charismatic leader, Jesus of Nazareth, who promises that the world is changing. Mary is searching for a new way of living, and an authenticity that is denied her by the rigid hierarchies of the day. As the notoriety of the group spread and more are drawn to follow Jesus’ inspirational message, Mary’s spiritual journey places her at the heart of a story that will lead to the capital city of Jerusalem, where she must confront the reality of Jesus’ destiny and her own place within it.
 
@@ -280,6 +265,21 @@ Set in the Holy Land in the first century C.E., a young woman leaves her small f
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
