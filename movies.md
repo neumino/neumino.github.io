@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Pacific Rim: Uprising
-*Released on 2018-03-21, vote average 6.3*
+*Released on 2018-03-21, vote average 6.2*
 
 It has been ten years since The Battle of the Breach and the oceans are still, but restless. Vindicated by the victory at the Breach, the Jaeger program has evolved into the most powerful global defense force in human history. The PPDC now calls upon the best and brightest to rise up and become the next generation of heroes when the Kaiju threat returns.
 
@@ -47,7 +47,7 @@ It has been ten years since The Battle of the Breach and the oceans are still, b
 	
 
 ### Ready Player One
-*Released on 2018-03-28, vote average 8.3*
+*Released on 2018-03-28, vote average 8.1*
 
 When the creator of a popular video game system dies, a virtual contest is created to compete for his fortune.
 
@@ -59,13 +59,6 @@ When the creator of a popular video game system dies, a virtual contest is creat
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -95,21 +88,6 @@ Three friends are on the verge of getting their video game financed when their b
 
 
 	
-	
-
-### Isle of Dogs
-*Released on 2018-03-23, vote average 7.3*
-
-In the future, an outbreak of canine flu leads the mayor of a Japanese city to banish all dogs to an island that&#39;s a garbage dump. The outcasts must soon embark on an epic journey when a 12-year-old boy arrives on the island to find his beloved pet.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/dt__kig8PVU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -164,7 +142,7 @@ Garden gnomes, Gnomeo &amp; Juliet, recruit renown detective, Sherlock Gnomes, t
 	
 
 ### Midnight Sun
-*Released on 2018-03-22, vote average 7.8*
+*Released on 2018-03-22, vote average 7.9*
 
 Katie, a 17-year-old, has been sheltered since childhood and confined to her house during the day by a rare disease that makes even the smallest amount of sunlight deadly. Fate intervenes when she meets Charlie and they embark on a summer romance.
 
@@ -173,6 +151,28 @@ Katie, a 17-year-old, has been sheltered since childhood and confined to her hou
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/fEskVQgtwaI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Isle of Dogs
+*Released on 2018-03-23, vote average 7.3*
+
+In the future, an outbreak of canine flu leads the mayor of a Japanese city to banish all dogs to an island that&#39;s a garbage dump. The outcasts must soon embark on an epic journey when a 12-year-old boy arrives on the island to find his beloved pet.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/dt__kig8PVU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -242,7 +242,15 @@ Risking his life, Luke ventures to Rome to visit Paul -- the apostle who&#39;s b
 
 
 	
+
+  
+
+
 	
+
+  
+
+
 	
 
   
@@ -251,16 +259,16 @@ Risking his life, Luke ventures to Rome to visit Paul -- the apostle who&#39;s b
 	
 	
 
-### Mary Magdalene
-*Released on 2018-03-15, vote average 6.3*
+### Paradox
+*Released on 2018-03-15, vote average 10*
 
-Set in the Holy Land in the first century C.E., a young woman leaves her small fishing village and traditional family behind to join a radical new social movement. At its head is a charismatic leader, Jesus of Nazareth, who promises that the world is changing. Mary is searching for a new way of living, and an authenticity that is denied her by the rigid hierarchies of the day. As the notoriety of the group spread and more are drawn to follow Jesus’ inspirational message, Mary’s spiritual journey places her at the heart of a story that will lead to the capital city of Jerusalem, where she must confront the reality of Jesus’ destiny and her own place within it.
+A loud Poem. A whimsical western tale of music and love.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/JS3rRHwrOpM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/uecHqZx_wrs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -275,33 +283,6 @@ Set in the Holy Land in the first century C.E., a young woman leaves her small f
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Dear Dictator
-*Released on 2018-03-16, vote average 5.4*
-
-When political turmoil forces a British-Caribbean dictator to flee his island nation, he seeks refuge and hides with a rebellious teenage girl in suburban America, and ends up teaching the young teen how to start a revolution and overthrow the &#34;mean girls&#34; in her high school.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/iod3IeDErt0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -317,40 +298,40 @@ When political turmoil forces a British-Caribbean dictator to flee his island na
 
 
 	
+
 	
 
-### Ready Player One
-*Released on 2018-03-28, vote average 8.3*
+	
 
-When the creator of a popular video game system dies, a virtual contest is created to compete for his fortune.
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Blockers
+*Released on 2018-03-30, vote average 6*
+
+When three parents discover their daughters’ pact to lose their virginity at prom, they launch a covert one-night operation to stop the teens from sealing the deal.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/dtwpjnuaVTE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/g1WVgyh5ah4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
