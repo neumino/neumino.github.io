@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Pacific Rim: Uprising
-*Released on 2018-03-21, vote average 6.2*
+### Ready Player One
+*Released on 2018-03-28, vote average 8*
 
-It has been ten years since The Battle of the Breach and the oceans are still, but restless. Vindicated by the victory at the Breach, the Jaeger program has evolved into the most powerful global defense force in human history. The PPDC now calls upon the best and brightest to rise up and become the next generation of heroes when the Kaiju threat returns.
+When the creator of a popular video game system dies, a virtual contest is created to compete for his fortune.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Am-gG-VyXPg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/dtwpjnuaVTE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ It has been ten years since The Battle of the Breach and the oceans are still, b
 	
 	
 
-### Ready Player One
-*Released on 2018-03-28, vote average 8.1*
+### A Quiet Place
+*Released on 2018-04-05, vote average 7.3*
 
-When the creator of a popular video game system dies, a virtual contest is created to compete for his fortune.
+A family is forced to live in silence while hiding from creatures that hunt by sound.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/dtwpjnuaVTE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/p9wE8dyzEJE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,16 +68,16 @@ When the creator of a popular video game system dies, a virtual contest is creat
 	
 	
 
-### Game Over, Man!
-*Released on 2018-03-23, vote average 6*
+### The Titan
+*Released on 2018-03-30, vote average 5.7*
 
-Three friends are on the verge of getting their video game financed when their benefactor is taken hostage by terrorists.
+On a bleak future Earth, a soldier endures a radical genetic transformation to save humanity. But his wife fears he&#39;s becoming more creature than man.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/zz5SSoSMmrs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ctM8zpe3BHo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -88,8 +88,6 @@ Three friends are on the verge of getting their video game financed when their b
 
 
 	
-	
-	
 
   
 
@@ -97,38 +95,16 @@ Three friends are on the verge of getting their video game financed when their b
 	
 	
 
-### Love, Simon
-*Released on 2018-03-16, vote average 8.3*
+### Blockers
+*Released on 2018-03-30, vote average 6.4*
 
-Everyone deserves a great love story. But for seventeen-year old Simon Spier it’s a little more complicated: he’s yet to tell his family or friends he’s gay and he doesn’t actually know the identity of the anonymous classmate he’s fallen for online.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ykHeGtN4m94?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Sherlock Gnomes
-*Released on 2018-03-15, vote average 4.5*
-
-Garden gnomes, Gnomeo &amp; Juliet, recruit renown detective, Sherlock Gnomes, to investigate the mysterious disappearance of other garden ornaments.
+When three parents discover their daughters’ pact to lose their virginity at prom, they launch a covert one-night operation to stop the teens from sealing the deal.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/TR-sefx8ncI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/g1WVgyh5ah4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -141,16 +117,16 @@ Garden gnomes, Gnomeo &amp; Juliet, recruit renown detective, Sherlock Gnomes, t
 	
 	
 
-### Midnight Sun
-*Released on 2018-03-22, vote average 7.9*
+### Trouble Is My Business
+*Released on 2018-04-03, vote average 7*
 
-Katie, a 17-year-old, has been sheltered since childhood and confined to her house during the day by a rare disease that makes even the smallest amount of sunlight deadly. Fate intervenes when she meets Charlie and they embark on a summer romance.
+Private eye Roland Drake cracks cases and romances femme fatales in 1940&#39;s Los Angeles while corrupt cop Det Barry Tate rules the city. A tale told in the classic style of film noir. Drake has fallen on hard times in a harsh world. He has been evicted from his office and disgraced by a missing persons case. Ruined in the public eye and with the police. it seems like it&#39;s all over for Roland Drake. Then, redemption walks in - with curves. The owner of those curves is a sexy, dark haired beauty named Katherine Montemar. She wants his help. The chemistry is immediate and her concern for the disappearance of her family members pulls him into her case - and into bed.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/fEskVQgtwaI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/4Gy3GWiZGkg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -163,16 +139,16 @@ Katie, a 17-year-old, has been sheltered since childhood and confined to her hou
 	
 	
 
-### Isle of Dogs
-*Released on 2018-03-23, vote average 7.3*
+### Suicide Squad: Hell to Pay
+*Released on 2018-03-27, vote average 7.1*
 
-In the future, an outbreak of canine flu leads the mayor of a Japanese city to banish all dogs to an island that&#39;s a garbage dump. The outcasts must soon embark on an epic journey when a 12-year-old boy arrives on the island to find his beloved pet.
+Task Force X targets a powerful mystical object that they will risk their lives to steal.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/dt__kig8PVU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/EPZZvk-wbGE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -185,38 +161,16 @@ In the future, an outbreak of canine flu leads the mayor of a Japanese city to b
 	
 	
 
-### Unsane
-*Released on 2018-03-23, vote average 5.6*
+### Acrimony
+*Released on 2018-03-30, vote average 8.5*
 
-A woman is involuntarily committed to a mental institution amid uncertainty as to whether her greatest fear is real or delusional.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/u7KZrt_cHH0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Paul, Apostle of Christ
-*Released on 2018-03-23, vote average 10*
-
-Risking his life, Luke ventures to Rome to visit Paul -- the apostle who&#39;s bound in chains and held captive in Nero&#39;s darkest and bleakest prison cell. Haunted by the shadows of his past misdeeds, Paul wonders if he&#39;s been forgotten as he awaits his grisly execution. Before Paul&#39;s death, Luke resolves to write another book that details the birth of what will come to be known as the church.
+A faithful wife takes action when it becomes clear to her that her devious husband has betrayed her.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/LyOqQZUDdO4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/NazF97Dol04?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -237,6 +191,8 @@ Risking his life, Luke ventures to Rome to visit Paul -- the apostle who&#39;s b
 
 
 	
+	
+	
 
   
 
@@ -257,18 +213,28 @@ Risking his life, Luke ventures to Rome to visit Paul -- the apostle who&#39;s b
 
 
 	
+
+  
+
+
 	
 
-### Paradox
-*Released on 2018-03-15, vote average 10*
+  
 
-A loud Poem. A whimsical western tale of music and love.
+
+	
+	
+
+### Pandas
+*Released on 2018-04-06, vote average 6*
+
+In the mountains of Sichuan, China, a researcher forms a bond with Qian Qian, a panda who is about to experience nature for the first time.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/uecHqZx_wrs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/cAamrkLjIuM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -298,42 +264,76 @@ A loud Poem. A whimsical western tale of music and love.
 
 
 	
-
 	
 
-	
+### Rampage
+*Released on 2018-04-12, vote average 7.5*
 
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	
-
-### Blockers
-*Released on 2018-03-30, vote average 6*
-
-When three parents discover their daughters’ pact to lose their virginity at prom, they launch a covert one-night operation to stop the teens from sealing the deal.
+Primatologist Davis Okoye shares an unshakable bond with George, the extraordinarily intelligent, silverback gorilla who has been in his care since birth.  But a rogue genetic experiment gone awry mutates this gentle ape into a raging creature of enormous size.  To make matters worse, it’s soon discovered there are other similarly altered animals.  As these newly created alpha predators tear across North America, destroying everything in their path, Okoye teams with a discredited genetic engineer to secure an antidote, fighting his way through an ever-changing battlefield, not only to halt a global catastrophe but to save the fearsome creature that was once his friend.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/g1WVgyh5ah4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/coOKvrsmQiI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
 	
 
+	
+
+	
+	
+
+### Truth or Dare
+*Released on 2018-04-12, vote average 7*
+
+A harmless game of “Truth or Dare” among friends turns deadly when someone—or something—begins to punish those who tell a lie—or refuse the dare.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/BjRNY3u3bUw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Ghost Stories
+*Released on 2018-04-13, vote average 9*
+
+Arch sceptic Professor Phillip Goodman embarks upon a terror filled quest when he stumbles across a long-lost file containing details of three cases of inexplicable &#39;hauntings&#39;.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/o0USj9KfYZc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
