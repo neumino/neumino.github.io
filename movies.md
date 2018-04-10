@@ -47,7 +47,7 @@ When the creator of a popular video game system dies, a virtual contest is creat
 	
 
 ### A Quiet Place
-*Released on 2018-04-05, vote average 7.3*
+*Released on 2018-04-05, vote average 7.4*
 
 A family is forced to live in silence while hiding from creatures that hunt by sound.
 
@@ -69,7 +69,7 @@ A family is forced to live in silence while hiding from creatures that hunt by s
 	
 
 ### The Titan
-*Released on 2018-03-30, vote average 5.7*
+*Released on 2018-03-30, vote average 5.6*
 
 On a bleak future Earth, a soldier endures a radical genetic transformation to save humanity. But his wife fears he&#39;s becoming more creature than man.
 
@@ -87,6 +87,23 @@ On a bleak future Earth, a soldier endures a radical genetic transformation to s
   
 
 
+	
+	
+
+### Paterno
+*Released on 2018-04-07, vote average 9.3*
+
+After becoming the winningest coach in college football history, Joe Paterno is embroiled in Penn State&#39;s Jerry Sandusky sexual abuse scandal, challenging his legacy and forcing him to face questions of institutional failure regarding the victims.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Kc6j1IAK19k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -191,13 +208,6 @@ A faithful wife takes action when it becomes clear to her that her devious husba
 
 
 	
-	
-	
-
-  
-
-
-	
 
   
 
@@ -259,6 +269,28 @@ In the mountains of Sichuan, China, a researcher forms a bond with Qian Qian, a 
   
 
 
+	
+	
+
+### Chappaquiddick
+*Released on 2018-04-06, vote average 5.5*
+
+Ted Kennedy&#39;s life and political career become derailed in the aftermath of a fatal car accident in 1969 that claims the life of a young campaign strategist, Mary Jo Kopechne.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jTzPXc2DW2k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -267,7 +299,7 @@ In the mountains of Sichuan, China, a researcher forms a bond with Qian Qian, a 
 	
 
 ### Rampage
-*Released on 2018-04-12, vote average 7.5*
+*Released on 2018-04-12, vote average 7.3*
 
 Primatologist Davis Okoye shares an unshakable bond with George, the extraordinarily intelligent, silverback gorilla who has been in his care since birth.  But a rogue genetic experiment gone awry mutates this gentle ape into a raging creature of enormous size.  To make matters worse, it’s soon discovered there are other similarly altered animals.  As these newly created alpha predators tear across North America, destroying everything in their path, Okoye teams with a discredited genetic engineer to secure an antidote, fighting his way through an ever-changing battlefield, not only to halt a global catastrophe but to save the fearsome creature that was once his friend.
 
@@ -303,6 +335,8 @@ A harmless game of “Truth or Dare” among friends turns deadly when someone�
 	
 	
 
+	
+	
 	
 
 	
