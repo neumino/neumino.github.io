@@ -91,7 +91,7 @@ On a bleak future Earth, a soldier endures a radical genetic transformation to s
 	
 
 ### Paterno
-*Released on 2018-04-07, vote average 9.3*
+*Released on 2018-04-07, vote average 8.3*
 
 After becoming the winningest coach in college football history, Joe Paterno is embroiled in Penn State&#39;s Jerry Sandusky sexual abuse scandal, challenging his legacy and forcing him to face questions of institutional failure regarding the victims.
 
@@ -134,50 +134,6 @@ When three parents discover their daughters’ pact to lose their virginity at p
 	
 	
 
-### Trouble Is My Business
-*Released on 2018-04-03, vote average 7*
-
-Private eye Roland Drake cracks cases and romances femme fatales in 1940&#39;s Los Angeles while corrupt cop Det Barry Tate rules the city. A tale told in the classic style of film noir. Drake has fallen on hard times in a harsh world. He has been evicted from his office and disgraced by a missing persons case. Ruined in the public eye and with the police. it seems like it&#39;s all over for Roland Drake. Then, redemption walks in - with curves. The owner of those curves is a sexy, dark haired beauty named Katherine Montemar. She wants his help. The chemistry is immediate and her concern for the disappearance of her family members pulls him into her case - and into bed.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/4Gy3GWiZGkg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Suicide Squad: Hell to Pay
-*Released on 2018-03-27, vote average 7.1*
-
-Task Force X targets a powerful mystical object that they will risk their lives to steal.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EPZZvk-wbGE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Acrimony
 *Released on 2018-03-30, vote average 8.5*
 
@@ -198,6 +154,8 @@ A faithful wife takes action when it becomes clear to her that her devious husba
 
 
 	
+	
+	
 
   
 
@@ -223,28 +181,18 @@ A faithful wife takes action when it becomes clear to her that her devious husba
 
 
 	
-
-  
-
-
 	
 
-  
+### Trouble Is My Business
+*Released on 2018-04-03, vote average 7*
 
-
-	
-	
-
-### Pandas
-*Released on 2018-04-06, vote average 6*
-
-In the mountains of Sichuan, China, a researcher forms a bond with Qian Qian, a panda who is about to experience nature for the first time.
+Private eye Roland Drake cracks cases and romances femme fatales in 1940&#39;s Los Angeles while corrupt cop Det Barry Tate rules the city. A tale told in the classic style of film noir. Drake has fallen on hard times in a harsh world. He has been evicted from his office and disgraced by a missing persons case. Ruined in the public eye and with the police. it seems like it&#39;s all over for Roland Drake. Then, redemption walks in - with curves. The owner of those curves is a sexy, dark haired beauty named Katherine Montemar. She wants his help. The chemistry is immediate and her concern for the disappearance of her family members pulls him into her case - and into bed.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/cAamrkLjIuM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/4Gy3GWiZGkg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -270,18 +218,38 @@ In the mountains of Sichuan, China, a researcher forms a bond with Qian Qian, a 
 
 
 	
+
+  
+
+
 	
 
-### Chappaquiddick
-*Released on 2018-04-06, vote average 5.5*
+  
 
-Ted Kennedy&#39;s life and political career become derailed in the aftermath of a fatal car accident in 1969 that claims the life of a young campaign strategist, Mary Jo Kopechne.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Amateur
+*Released on 2018-04-06, vote average 6.7*
+
+14-year-old basketball phenom Terron Forte has to navigate the under-the-table world of amateur athletics when he is recruited to an elite NCAA prep school.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/jTzPXc2DW2k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/0cQ3sBXpNtw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -299,7 +267,7 @@ Ted Kennedy&#39;s life and political career become derailed in the aftermath of 
 	
 
 ### Rampage
-*Released on 2018-04-12, vote average 7.3*
+*Released on 2018-04-12, vote average 6.4*
 
 Primatologist Davis Okoye shares an unshakable bond with George, the extraordinarily intelligent, silverback gorilla who has been in his care since birth.  But a rogue genetic experiment gone awry mutates this gentle ape into a raging creature of enormous size.  To make matters worse, it’s soon discovered there are other similarly altered animals.  As these newly created alpha predators tear across North America, destroying everything in their path, Okoye teams with a discredited genetic engineer to secure an antidote, fighting his way through an ever-changing battlefield, not only to halt a global catastrophe but to save the fearsome creature that was once his friend.
 
