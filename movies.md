@@ -47,7 +47,7 @@ A family is forced to live in silence while hiding from creatures that hunt by s
 	
 
 ### Rampage
-*Released on 2018-04-12, vote average 6.2*
+*Released on 2018-04-12, vote average 5.6*
 
 Primatologist Davis Okoye shares an unshakable bond with George, the extraordinarily intelligent, silverback gorilla who has been in his care since birth.  But a rogue genetic experiment gone awry mutates this gentle ape into a raging creature of enormous size.  To make matters worse, it’s soon discovered there are other similarly altered animals.  As these newly created alpha predators tear across North America, destroying everything in their path, Okoye teams with a discredited genetic engineer to secure an antidote, fighting his way through an ever-changing battlefield, not only to halt a global catastrophe but to save the fearsome creature that was once his friend.
 
@@ -110,6 +110,11 @@ After becoming the winningest coach in college football history, Joe Paterno is 
 
 
 	
+
+  
+
+
+	
 	
 
 ### Truth or Dare
@@ -133,13 +138,6 @@ A harmless game of “Truth or Dare” among friends turns deadly when someone�
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Acrimony
 *Released on 2018-03-30, vote average 8.5*
@@ -154,6 +152,13 @@ A faithful wife takes action when it becomes clear to her that her devious husba
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -195,28 +200,6 @@ When three parents discover their daughters’ pact to lose their virginity at p
 	
 	
 
-### Trouble Is My Business
-*Released on 2018-04-03, vote average 7*
-
-Private eye Roland Drake cracks cases and romances femme fatales in 1940&#39;s Los Angeles while corrupt cop Det Barry Tate rules the city. A tale told in the classic style of film noir. Drake has fallen on hard times in a harsh world. He has been evicted from his office and disgraced by a missing persons case. Ruined in the public eye and with the police. it seems like it&#39;s all over for Roland Drake. Then, redemption walks in - with curves. The owner of those curves is a sexy, dark haired beauty named Katherine Montemar. She wants his help. The chemistry is immediate and her concern for the disappearance of her family members pulls him into her case - and into bed.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/4Gy3GWiZGkg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Andre the Giant
 *Released on 2018-04-10, vote average 6*
 
@@ -237,8 +220,6 @@ An ambitious and wide-ranging documentary exploring Andre’s upbringing in Fran
 
 
 	
-	
-	
 
   
 
@@ -249,18 +230,23 @@ An ambitious and wide-ranging documentary exploring Andre’s upbringing in Fran
 
 
 	
+
+  
+
+
+	
 	
 
-### Chappaquiddick
-*Released on 2018-04-06, vote average 6*
+### Ghost Stories
+*Released on 2018-04-13, vote average 6.7*
 
-Ted Kennedy&#39;s life and political career become derailed in the aftermath of a fatal car accident in 1969 that claims the life of a young campaign strategist, Mary Jo Kopechne.
+Arch sceptic Professor Phillip Goodman embarks upon a terror filled quest when he stumbles across a long-lost file containing details of three cases of inexplicable &#39;hauntings&#39;.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/jTzPXc2DW2k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/o0USj9KfYZc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -271,15 +257,10 @@ Ted Kennedy&#39;s life and political career become derailed in the aftermath of 
 
 
 	
-
-  
-
-
-	
 	
 
 ### Amateur
-*Released on 2018-04-06, vote average 6.7*
+*Released on 2018-04-06, vote average 6.5*
 
 14-year-old basketball phenom Terron Forte has to navigate the under-the-table world of amateur athletics when he is recruited to an elite NCAA prep school.
 
@@ -317,42 +298,6 @@ Ted Kennedy&#39;s life and political career become derailed in the aftermath of 
 
 
 	
-	
-
-### Rampage
-*Released on 2018-04-12, vote average 6.2*
-
-Primatologist Davis Okoye shares an unshakable bond with George, the extraordinarily intelligent, silverback gorilla who has been in his care since birth.  But a rogue genetic experiment gone awry mutates this gentle ape into a raging creature of enormous size.  To make matters worse, it’s soon discovered there are other similarly altered animals.  As these newly created alpha predators tear across North America, destroying everything in their path, Okoye teams with a discredited genetic engineer to secure an antidote, fighting his way through an ever-changing battlefield, not only to halt a global catastrophe but to save the fearsome creature that was once his friend.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/coOKvrsmQiI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Truth or Dare
-*Released on 2018-04-12, vote average 7*
-
-A harmless game of “Truth or Dare” among friends turns deadly when someone—or something—begins to punish those who tell a lie—or refuse the dare.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/BjRNY3u3bUw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
@@ -368,7 +313,7 @@ A harmless game of “Truth or Dare” among friends turns deadly when someone�
 	
 
 ### Ghost Stories
-*Released on 2018-04-13, vote average 9*
+*Released on 2018-04-13, vote average 6.7*
 
 Arch sceptic Professor Phillip Goodman embarks upon a terror filled quest when he stumbles across a long-lost file containing details of three cases of inexplicable &#39;hauntings&#39;.
 
@@ -399,6 +344,25 @@ Arch sceptic Professor Phillip Goodman embarks upon a terror filled quest when h
 
 	
 
+	
+
+	
+	
+
+### Deep Blue Sea 2
+*Released on 2018-04-17, vote average 3.7*
+
+When shark conservationist Dr. Misty Calhoun is invited to consult on a top-secret project run by pharmaceutical billionaire Carl Durant, she is shocked to learn that the company is using unpredictable and highly aggressive bull sharks as its test subjects, which soon break loose and cause havoc.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nF465jHpqXk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
