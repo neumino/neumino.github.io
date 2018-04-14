@@ -47,7 +47,7 @@ A family is forced to live in silence while hiding from creatures that hunt by s
 	
 
 ### Rampage
-*Released on 2018-04-12, vote average 5.6*
+*Released on 2018-04-12, vote average 6.3*
 
 Primatologist Davis Okoye shares an unshakable bond with George, the extraordinarily intelligent, silverback gorilla who has been in his care since birth.  But a rogue genetic experiment gone awry mutates this gentle ape into a raging creature of enormous size.  To make matters worse, it’s soon discovered there are other similarly altered animals.  As these newly created alpha predators tear across North America, destroying everything in their path, Okoye teams with a discredited genetic engineer to secure an antidote, fighting his way through an ever-changing battlefield, not only to halt a global catastrophe but to save the fearsome creature that was once his friend.
 
@@ -68,20 +68,30 @@ Primatologist Davis Okoye shares an unshakable bond with George, the extraordina
 	
 	
 
-### The Titan
-*Released on 2018-03-30, vote average 5.6*
+### Truth or Dare
+*Released on 2018-04-12, vote average 6.7*
 
-On a bleak future Earth, a soldier endures a radical genetic transformation to save humanity. But his wife fears he&#39;s becoming more creature than man.
+A harmless game of “Truth or Dare” among friends turns deadly when someone—or something—begins to punish those who tell a lie—or refuse the dare.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ctM8zpe3BHo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/BjRNY3u3bUw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -110,77 +120,6 @@ After becoming the winningest coach in college football history, Joe Paterno is 
 
 
 	
-
-  
-
-
-	
-	
-
-### Truth or Dare
-*Released on 2018-04-12, vote average 7*
-
-A harmless game of “Truth or Dare” among friends turns deadly when someone—or something—begins to punish those who tell a lie—or refuse the dare.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/BjRNY3u3bUw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Acrimony
-*Released on 2018-03-30, vote average 8.5*
-
-A faithful wife takes action when it becomes clear to her that her devious husband has betrayed her.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/NazF97Dol04?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Blockers
-*Released on 2018-03-30, vote average 6*
-
-When three parents discover their daughters’ pact to lose their virginity at prom, they launch a covert one-night operation to stop the teens from sealing the deal.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/g1WVgyh5ah4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -220,21 +159,6 @@ An ambitious and wide-ranging documentary exploring Andre’s upbringing in Fran
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### Ghost Stories
@@ -251,6 +175,33 @@ Arch sceptic Professor Phillip Goodman embarks upon a terror filled quest when h
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -284,6 +235,23 @@ Arch sceptic Professor Phillip Goodman embarks upon a terror filled quest when h
 
 
 	
+	
+
+### Chappaquiddick
+*Released on 2018-04-06, vote average 6*
+
+Ted Kennedy&#39;s life and political career become derailed in the aftermath of a fatal car accident in 1969 that claims the life of a young campaign strategist, Mary Jo Kopechne.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jTzPXc2DW2k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -296,53 +264,6 @@ Arch sceptic Professor Phillip Goodman embarks upon a terror filled quest when h
 
 ## Opening soon
 
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	
-
-### Ghost Stories
-*Released on 2018-04-13, vote average 6.7*
-
-Arch sceptic Professor Phillip Goodman embarks upon a terror filled quest when he stumbles across a long-lost file containing details of three cases of inexplicable &#39;hauntings&#39;.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/o0USj9KfYZc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
 
 	
 
@@ -363,6 +284,53 @@ When shark conservationist Dr. Misty Calhoun is invited to consult on a top-secr
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+	
+
+### Tully
+*Released on 2018-04-20, vote average 8*
+
+Marlo, a mother of three including a newborn, is gifted a night nanny by her brother. Hesitant to the extravagance at first, Marlo comes to form a bond with the thoughtful, surprising, and sometimes challenging nanny named Tully.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QRtBP07gIHY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
