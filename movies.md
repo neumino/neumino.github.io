@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### A Quiet Place
-*Released on 2018-04-05, vote average 7.4*
+*Released on 2018-04-05, vote average 7.5*
 
 A family is forced to live in silence while hiding from creatures that hunt by sound.
 
@@ -47,7 +47,7 @@ A family is forced to live in silence while hiding from creatures that hunt by s
 	
 
 ### Rampage
-*Released on 2018-04-12, vote average 6.3*
+*Released on 2018-04-12, vote average 6.1*
 
 Primatologist Davis Okoye shares an unshakable bond with George, the extraordinarily intelligent, silverback gorilla who has been in his care since birth.  But a rogue genetic experiment gone awry mutates this gentle ape into a raging creature of enormous size.  To make matters worse, it’s soon discovered there are other similarly altered animals.  As these newly created alpha predators tear across North America, destroying everything in their path, Okoye teams with a discredited genetic engineer to secure an antidote, fighting his way through an ever-changing battlefield, not only to halt a global catastrophe but to save the fearsome creature that was once his friend.
 
@@ -69,7 +69,7 @@ Primatologist Davis Okoye shares an unshakable bond with George, the extraordina
 	
 
 ### Truth or Dare
-*Released on 2018-04-12, vote average 6.7*
+*Released on 2018-04-12, vote average 5.8*
 
 A harmless game of “Truth or Dare” among friends turns deadly when someone—or something—begins to punish those who tell a lie—or refuse the dare.
 
@@ -88,38 +88,21 @@ A harmless game of “Truth or Dare” among friends turns deadly when someone�
 
 
 	
-
-  
-
-
 	
 
-  
+### 10x10
+*Released on 2018-04-13, vote average 3.9*
 
-
-	
-	
-
-### Paterno
-*Released on 2018-04-07, vote average 8*
-
-After becoming the winningest coach in college football history, Joe Paterno is embroiled in Penn State&#39;s Jerry Sandusky sexual abuse scandal, challenging his legacy and forcing him to face questions of institutional failure regarding the victims.
+Lewis is an outwardly ordinary guy, but in reality he is hiding an obsession - revenge - against Cathy. Lewis kidnaps Cathy in broad daylight and takes her to his home, where he locks her in a soundproof cell and attempt to extract a dark secret from her past.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Kc6j1IAK19k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/3ZaMk8t98H8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -140,7 +123,7 @@ After becoming the winningest coach in college football history, Joe Paterno is 
 	
 
 ### Andre the Giant
-*Released on 2018-04-10, vote average 6*
+*Released on 2018-04-10, vote average 7.7*
 
 An ambitious and wide-ranging documentary exploring Andre’s upbringing in France, his celebrated career in WWE, and his forays in the entertainment world.
 
@@ -153,6 +136,23 @@ An ambitious and wide-ranging documentary exploring Andre’s upbringing in Fran
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -181,37 +181,10 @@ Arch sceptic Professor Phillip Goodman embarks upon a terror filled quest when h
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### Amateur
-*Released on 2018-04-06, vote average 6.5*
+*Released on 2018-04-06, vote average 6.6*
 
 14-year-old basketball phenom Terron Forte has to navigate the under-the-table world of amateur athletics when he is recruited to an elite NCAA prep school.
 
@@ -237,16 +210,16 @@ Arch sceptic Professor Phillip Goodman embarks upon a terror filled quest when h
 	
 	
 
-### Chappaquiddick
-*Released on 2018-04-06, vote average 6*
+### Wildling
+*Released on 2018-04-13, vote average 7*
 
-Ted Kennedy&#39;s life and political career become derailed in the aftermath of a fatal car accident in 1969 that claims the life of a young campaign strategist, Mary Jo Kopechne.
+A young woman held in captivity discovers the realities of truth and lies in the outside world.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/jTzPXc2DW2k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/cfgvVsC2Vq8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -256,6 +229,50 @@ Ted Kennedy&#39;s life and political career become derailed in the aftermath of 
   
 
 
+	
+	
+
+### Paterno
+*Released on 2018-04-07, vote average 8*
+
+After becoming the winningest coach in college football history, Joe Paterno is embroiled in Penn State&#39;s Jerry Sandusky sexual abuse scandal, challenging his legacy and forcing him to face questions of institutional failure regarding the victims.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Kc6j1IAK19k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -264,27 +281,6 @@ Ted Kennedy&#39;s life and political career become derailed in the aftermath of 
 
 ## Opening soon
 
-
-	
-
-	
-	
-
-### Deep Blue Sea 2
-*Released on 2018-04-17, vote average 3.7*
-
-When shark conservationist Dr. Misty Calhoun is invited to consult on a top-secret project run by pharmaceutical billionaire Carl Durant, she is shocked to learn that the company is using unpredictable and highly aggressive bull sharks as its test subjects, which soon break loose and cause havoc.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nF465jHpqXk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
@@ -305,6 +301,10 @@ Marlo, a mother of three including a newborn, is gifted a night nanny by her bro
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
 	
 
 	
