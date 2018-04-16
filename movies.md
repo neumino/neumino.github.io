@@ -47,7 +47,7 @@ A family is forced to live in silence while hiding from creatures that hunt by s
 	
 
 ### Rampage
-*Released on 2018-04-12, vote average 6.1*
+*Released on 2018-04-12, vote average 6.5*
 
 Primatologist Davis Okoye shares an unshakable bond with George, the extraordinarily intelligent, silverback gorilla who has been in his care since birth.  But a rogue genetic experiment gone awry mutates this gentle ape into a raging creature of enormous size.  To make matters worse, it’s soon discovered there are other similarly altered animals.  As these newly created alpha predators tear across North America, destroying everything in their path, Okoye teams with a discredited genetic engineer to secure an antidote, fighting his way through an ever-changing battlefield, not only to halt a global catastrophe but to save the fearsome creature that was once his friend.
 
@@ -56,28 +56,6 @@ Primatologist Davis Okoye shares an unshakable bond with George, the extraordina
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/coOKvrsmQiI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Truth or Dare
-*Released on 2018-04-12, vote average 5.8*
-
-A harmless game of “Truth or Dare” among friends turns deadly when someone—or something—begins to punish those who tell a lie—or refuse the dare.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/BjRNY3u3bUw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -110,10 +88,85 @@ Lewis is an outwardly ordinary guy, but in reality he is hiding an obsession - r
 
 
 	
+	
+
+### Truth or Dare
+*Released on 2018-04-12, vote average 5.8*
+
+A harmless game of “Truth or Dare” among friends turns deadly when someone—or something—begins to punish those who tell a lie—or refuse the dare.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/BjRNY3u3bUw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
+	
+
+  
+
+
+	
+	
+
+### Wildling
+*Released on 2018-04-13, vote average 6.5*
+
+A young woman held in captivity discovers the realities of truth and lies in the outside world.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/cfgvVsC2Vq8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Amateur
+*Released on 2018-04-06, vote average 6.5*
+
+14-year-old basketball phenom Terron Forte has to navigate the under-the-table world of amateur athletics when he is recruited to an elite NCAA prep school.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0cQ3sBXpNtw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -142,11 +195,21 @@ An ambitious and wide-ranging documentary exploring Andre’s upbringing in Fran
 
 
 	
-
-  
-
-
 	
+
+### Deep Blue Sea 2
+*Released on 2018-04-14, vote average 3.8*
+
+When shark conservationist Dr. Misty Calhoun is invited to consult on a top-secret project run by pharmaceutical billionaire Carl Durant, she is shocked to learn that the company is using unpredictable and highly aggressive bull sharks as its test subjects, which soon break loose and cause havoc.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nF465jHpqXk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -162,7 +225,7 @@ An ambitious and wide-ranging documentary exploring Andre’s upbringing in Fran
 	
 
 ### Ghost Stories
-*Released on 2018-04-13, vote average 6.7*
+*Released on 2018-04-13, vote average 7.4*
 
 Arch sceptic Professor Phillip Goodman embarks upon a terror filled quest when he stumbles across a long-lost file containing details of three cases of inexplicable &#39;hauntings&#39;.
 
@@ -171,55 +234,6 @@ Arch sceptic Professor Phillip Goodman embarks upon a terror filled quest when h
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/o0USj9KfYZc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Amateur
-*Released on 2018-04-06, vote average 6.6*
-
-14-year-old basketball phenom Terron Forte has to navigate the under-the-table world of amateur athletics when he is recruited to an elite NCAA prep school.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0cQ3sBXpNtw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Wildling
-*Released on 2018-04-13, vote average 7*
-
-A young woman held in captivity discovers the realities of truth and lies in the outside world.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cfgvVsC2Vq8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -273,6 +287,26 @@ After becoming the winningest coach in college football history, Joe Paterno is 
 
 	
 	
+
+### I Am Not an Easy Man
+*Released on 2018-04-13, vote average 6.6*
+
+The chauvinist Damien wakes up in a world where women and men have their roles reversed in society, and everything is dominated by women.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2bFHdkzqSZA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -303,6 +337,23 @@ Marlo, a mother of three including a newborn, is gifted a night nanny by her bro
 	
 	
 
+	
+	
+
+### I feel Pretty
+*Released on 2018-04-20, vote average 0.5*
+
+A head injury causes a woman to develop an extraordinary amount of confidence and believe she&#39;s drop dead gorgeous.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/cVx9EFK3DWE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
