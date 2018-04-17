@@ -90,35 +90,8 @@ Lewis is an outwardly ordinary guy, but in reality he is hiding an obsession - r
 	
 	
 
-### Truth or Dare
-*Released on 2018-04-12, vote average 5.8*
-
-A harmless game of “Truth or Dare” among friends turns deadly when someone—or something—begins to punish those who tell a lie—or refuse the dare.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/BjRNY3u3bUw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### Wildling
-*Released on 2018-04-13, vote average 6.5*
+*Released on 2018-04-13, vote average 6.4*
 
 A young woman held in captivity discovers the realities of truth and lies in the outside world.
 
@@ -145,24 +118,17 @@ A young woman held in captivity discovers the realities of truth and lies in the
 
 	
 	
-	
 
-  
+### Truth or Dare
+*Released on 2018-04-12, vote average 5.8*
 
-
-	
-	
-
-### Amateur
-*Released on 2018-04-06, vote average 6.5*
-
-14-year-old basketball phenom Terron Forte has to navigate the under-the-table world of amateur athletics when he is recruited to an elite NCAA prep school.
+A harmless game of “Truth or Dare” among friends turns deadly when someone—or something—begins to punish those who tell a lie—or refuse the dare.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/0cQ3sBXpNtw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/BjRNY3u3bUw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -197,8 +163,37 @@ An ambitious and wide-ranging documentary exploring Andre’s upbringing in Fran
 	
 	
 
+### Amateur
+*Released on 2018-04-06, vote average 6.5*
+
+14-year-old basketball phenom Terron Forte has to navigate the under-the-table world of amateur athletics when he is recruited to an elite NCAA prep school.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0cQ3sBXpNtw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
 ### Deep Blue Sea 2
-*Released on 2018-04-14, vote average 3.8*
+*Released on 2018-04-14, vote average 3.1*
 
 When shark conservationist Dr. Misty Calhoun is invited to consult on a top-secret project run by pharmaceutical billionaire Carl Durant, she is shocked to learn that the company is using unpredictable and highly aggressive bull sharks as its test subjects, which soon break loose and cause havoc.
 
@@ -216,28 +211,6 @@ When shark conservationist Dr. Misty Calhoun is invited to consult on a top-secr
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Ghost Stories
-*Released on 2018-04-13, vote average 7.4*
-
-Arch sceptic Professor Phillip Goodman embarks upon a terror filled quest when he stumbles across a long-lost file containing details of three cases of inexplicable &#39;hauntings&#39;.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/o0USj9KfYZc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -271,25 +244,10 @@ After becoming the winningest coach in college football history, Joe Paterno is 
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### I Am Not an Easy Man
-*Released on 2018-04-13, vote average 6.6*
+*Released on 2018-04-13, vote average 6.5*
 
 The chauvinist Damien wakes up in a world where women and men have their roles reversed in society, and everything is dominated by women.
 
@@ -307,6 +265,65 @@ The chauvinist Damien wakes up in a world where women and men have their roles r
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Chappaquiddick
+*Released on 2018-04-06, vote average 6*
+
+Ted Kennedy&#39;s life and political career become derailed in the aftermath of a fatal car accident in 1969 that claims the life of a young campaign strategist, Mary Jo Kopechne.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jTzPXc2DW2k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Ghost Stories
+*Released on 2018-04-13, vote average 7.4*
+
+Arch sceptic Professor Phillip Goodman embarks upon a terror filled quest when he stumbles across a long-lost file containing details of three cases of inexplicable &#39;hauntings&#39;.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/o0USj9KfYZc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
