@@ -68,6 +68,28 @@ Primatologist Davis Okoye shares an unshakable bond with George, the extraordina
 	
 	
 
+### Wildling
+*Released on 2018-04-13, vote average 6.5*
+
+A young woman held in captivity discovers the realities of truth and lies in the outside world.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/cfgvVsC2Vq8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### 10x10
 *Released on 2018-04-13, vote average 3.9*
 
@@ -88,28 +110,26 @@ Lewis is an outwardly ordinary guy, but in reality he is hiding an obsession - r
 
 
 	
-	
-
-### Wildling
-*Released on 2018-04-13, vote average 6.4*
-
-A young woman held in captivity discovers the realities of truth and lies in the outside world.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cfgvVsC2Vq8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
 	
+	
+
+### Deep Blue Sea 2
+*Released on 2018-04-17, vote average 3.3*
+
+When shark conservationist Dr. Misty Calhoun is invited to consult on a top-secret project run by pharmaceutical billionaire Carl Durant, she is shocked to learn that the company is using unpredictable and highly aggressive bull sharks as its test subjects, which soon break loose and cause havoc.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nF465jHpqXk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -132,6 +152,35 @@ A harmless game of “Truth or Dare” among friends turns deadly when someone�
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+	
+
+### I Am Not an Easy Man
+*Released on 2018-04-13, vote average 6.5*
+
+The chauvinist Damien wakes up in a world where women and men have their roles reversed in society, and everything is dominated by women.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2bFHdkzqSZA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -183,121 +232,6 @@ An ambitious and wide-ranging documentary exploring Andre’s upbringing in Fran
 
 
 	
-	
-	
-
-  
-
-
-	
-	
-
-### Deep Blue Sea 2
-*Released on 2018-04-14, vote average 3.1*
-
-When shark conservationist Dr. Misty Calhoun is invited to consult on a top-secret project run by pharmaceutical billionaire Carl Durant, she is shocked to learn that the company is using unpredictable and highly aggressive bull sharks as its test subjects, which soon break loose and cause havoc.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nF465jHpqXk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Paterno
-*Released on 2018-04-07, vote average 8*
-
-After becoming the winningest coach in college football history, Joe Paterno is embroiled in Penn State&#39;s Jerry Sandusky sexual abuse scandal, challenging his legacy and forcing him to face questions of institutional failure regarding the victims.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Kc6j1IAK19k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### I Am Not an Easy Man
-*Released on 2018-04-13, vote average 6.5*
-
-The chauvinist Damien wakes up in a world where women and men have their roles reversed in society, and everything is dominated by women.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2bFHdkzqSZA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Chappaquiddick
-*Released on 2018-04-06, vote average 6*
-
-Ted Kennedy&#39;s life and political career become derailed in the aftermath of a fatal car accident in 1969 that claims the life of a young campaign strategist, Mary Jo Kopechne.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jTzPXc2DW2k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 
   
 
@@ -329,9 +263,58 @@ Arch sceptic Professor Phillip Goodman embarks upon a terror filled quest when h
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Spinning Man
+*Released on 2018-04-06, vote average 5.1*
+
+A &#39;happily married&#39; professor, known for having many affairs with students, becomes the prime suspect when a young woman is found murdered.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/syitpT-swzE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 
 ## Opening soon
 
+
+	
 
 	
 
@@ -352,6 +335,8 @@ Marlo, a mother of three including a newborn, is gifted a night nanny by her bro
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
@@ -396,9 +381,7 @@ A head injury causes a woman to develop an extraordinary amount of confidence an
 	
 
 	
-
 	
-
 	
 
 	
