@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### A Quiet Place
-*Released on 2018-04-05, vote average 7.5*
+### Rampage
+*Released on 2018-04-12, vote average 6.1*
 
-A family is forced to live in silence while hiding from creatures that hunt by sound.
+Primatologist Davis Okoye shares an unshakable bond with George, the extraordinarily intelligent, silverback gorilla who has been in his care since birth.  But a rogue genetic experiment gone awry mutates this gentle ape into a raging creature of enormous size.  To make matters worse, it’s soon discovered there are other similarly altered animals.  As these newly created alpha predators tear across North America, destroying everything in their path, Okoye teams with a discredited genetic engineer to secure an antidote, fighting his way through an ever-changing battlefield, not only to halt a global catastrophe but to save the fearsome creature that was once his friend.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/p9wE8dyzEJE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/coOKvrsmQiI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,30 +46,8 @@ A family is forced to live in silence while hiding from creatures that hunt by s
 	
 	
 
-### Rampage
-*Released on 2018-04-12, vote average 6.3*
-
-Primatologist Davis Okoye shares an unshakable bond with George, the extraordinarily intelligent, silverback gorilla who has been in his care since birth.  But a rogue genetic experiment gone awry mutates this gentle ape into a raging creature of enormous size.  To make matters worse, it’s soon discovered there are other similarly altered animals.  As these newly created alpha predators tear across North America, destroying everything in their path, Okoye teams with a discredited genetic engineer to secure an antidote, fighting his way through an ever-changing battlefield, not only to halt a global catastrophe but to save the fearsome creature that was once his friend.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/coOKvrsmQiI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Wildling
-*Released on 2018-04-13, vote average 6.5*
+*Released on 2018-04-13, vote average 6.3*
 
 A young woman held in captivity discovers the realities of truth and lies in the outside world.
 
@@ -88,6 +66,8 @@ A young woman held in captivity discovers the realities of truth and lies in the
 
 
 	
+	
+	
 
   
 
@@ -96,7 +76,7 @@ A young woman held in captivity discovers the realities of truth and lies in the
 	
 
 ### Deep Blue Sea 2
-*Released on 2018-04-17, vote average 4.3*
+*Released on 2018-04-17, vote average 4.2*
 
 When shark conservationist Dr. Misty Calhoun is invited to consult on a top-secret project run by pharmaceutical billionaire Carl Durant, she is shocked to learn that the company is using unpredictable and highly aggressive bull sharks as its test subjects, which soon break loose and cause havoc.
 
@@ -108,6 +88,57 @@ When shark conservationist Dr. Misty Calhoun is invited to consult on a top-secr
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+	
+
+### Tully
+*Released on 2018-04-20, vote average 8*
+
+Marlo, a mother of three including a newborn, is gifted a night nanny by her brother. Hesitant to the extravagance at first, Marlo comes to form a bond with the thoughtful, surprising, and sometimes challenging nanny named Tully.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QRtBP07gIHY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### I Am Not an Easy Man
+*Released on 2018-04-13, vote average 6.7*
+
+The chauvinist Damien wakes up in a world where women and men have their roles reversed in society, and everything is dominated by women.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2bFHdkzqSZA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -138,38 +169,9 @@ Lewis is an outwardly ordinary guy, but in reality he is hiding an obsession - r
 
 	
 	
-	
-
-  
-
-
-	
-	
-
-### I Am Not an Easy Man
-*Released on 2018-04-13, vote average 6.5*
-
-The chauvinist Damien wakes up in a world where women and men have their roles reversed in society, and everything is dominated by women.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2bFHdkzqSZA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
 
 ### Truth or Dare
-*Released on 2018-04-12, vote average 5.3*
+*Released on 2018-04-12, vote average 5.2*
 
 A harmless game of “Truth or Dare” among friends turns deadly when someone—or something—begins to punish those who tell a lie—or refuse the dare.
 
@@ -188,23 +190,18 @@ A harmless game of “Truth or Dare” among friends turns deadly when someone�
 
 
 	
-
-  
-
-
-	
 	
 
-### Andre the Giant
-*Released on 2018-04-10, vote average 7.7*
+### I Feel Pretty
+*Released on 2018-04-20, vote average 0.5*
 
-An ambitious and wide-ranging documentary exploring Andre’s upbringing in France, his celebrated career in WWE, and his forays in the entertainment world.
+A head injury causes a woman to develop an extraordinary amount of confidence and believe she&#39;s drop dead gorgeous.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/vlIr1QkJ1SY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/cVx9EFK3DWE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -215,10 +212,35 @@ An ambitious and wide-ranging documentary exploring Andre’s upbringing in Fran
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### Amateur
-*Released on 2018-04-06, vote average 6.5*
+*Released on 2018-04-06, vote average 6.3*
 
 14-year-old basketball phenom Terron Forte has to navigate the under-the-table world of amateur athletics when he is recruited to an elite NCAA prep school.
 
@@ -242,66 +264,10 @@ An ambitious and wide-ranging documentary exploring Andre’s upbringing in Fran
 
 
 	
-	
-	
 
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Chappaquiddick
-*Released on 2018-04-06, vote average 6.6*
-
-Ted Kennedy&#39;s life and political career become derailed in the aftermath of a fatal car accident in 1969 that claims the life of a young campaign strategist, Mary Jo Kopechne.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jTzPXc2DW2k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Paterno
-*Released on 2018-04-07, vote average 8*
-
-After becoming the winningest coach in college football history, Joe Paterno is embroiled in Penn State&#39;s Jerry Sandusky sexual abuse scandal, challenging his legacy and forcing him to face questions of institutional failure regarding the victims.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Kc6j1IAK19k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -316,25 +282,6 @@ After becoming the winningest coach in college football history, Joe Paterno is 
 ## Opening soon
 
 
-	
-
-	
-	
-
-### I Feel Pretty
-*Released on 2018-04-20, vote average 0.5*
-
-A head injury causes a woman to develop an extraordinary amount of confidence and believe she&#39;s drop dead gorgeous.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cVx9EFK3DWE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
@@ -360,7 +307,7 @@ Marlo, a mother of three including a newborn, is gifted a night nanny by her bro
 	
 
 ### Solo: A Star Wars Story
-*Released on 2018-04-25, vote average 1*
+*Released on 2018-04-25, vote average 5.5*
 
 Through a series of daring escapades deep within a dark and dangerous criminal underworld, Han Solo meets his mighty future copilot Chewbacca and encounters the notorious gambler Lando Calrissian.
 
@@ -369,6 +316,25 @@ Through a series of daring escapades deep within a dark and dangerous criminal u
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/dNW0B0HsvVs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### I Feel Pretty
+*Released on 2018-04-20, vote average 0.5*
+
+A head injury causes a woman to develop an extraordinary amount of confidence and believe she&#39;s drop dead gorgeous.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/cVx9EFK3DWE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
