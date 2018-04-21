@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Rampage
-*Released on 2018-04-12, vote average 6.1*
+*Released on 2018-04-12, vote average 6.2*
 
 Primatologist Davis Okoye shares an unshakable bond with George, the extraordinarily intelligent, silverback gorilla who has been in his care since birth.  But a rogue genetic experiment gone awry mutates this gentle ape into a raging creature of enormous size.  To make matters worse, it’s soon discovered there are other similarly altered animals.  As these newly created alpha predators tear across North America, destroying everything in their path, Okoye teams with a discredited genetic engineer to secure an antidote, fighting his way through an ever-changing battlefield, not only to halt a global catastrophe but to save the fearsome creature that was once his friend.
 
@@ -40,6 +40,28 @@ Primatologist Davis Okoye shares an unshakable bond with George, the extraordina
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+  
+
+
+	
+	
+
+### Deep Blue Sea 2
+*Released on 2018-04-17, vote average 3.8*
+
+When shark conservationist Dr. Misty Calhoun is invited to consult on a top-secret project run by pharmaceutical billionaire Carl Durant, she is shocked to learn that the company is using unpredictable and highly aggressive bull sharks as its test subjects, which soon break loose and cause havoc.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nF465jHpqXk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
   
 
 
@@ -75,16 +97,16 @@ A young woman held in captivity discovers the realities of truth and lies in the
 	
 	
 
-### Deep Blue Sea 2
-*Released on 2018-04-17, vote average 4.2*
+### I Feel Pretty
+*Released on 2018-04-20, vote average 0.5*
 
-When shark conservationist Dr. Misty Calhoun is invited to consult on a top-secret project run by pharmaceutical billionaire Carl Durant, she is shocked to learn that the company is using unpredictable and highly aggressive bull sharks as its test subjects, which soon break loose and cause havoc.
+A head injury causes a woman to develop an extraordinary amount of confidence and believe she&#39;s drop dead gorgeous.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/nF465jHpqXk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/cVx9EFK3DWE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -107,57 +129,6 @@ Marlo, a mother of three including a newborn, is gifted a night nanny by her bro
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/QRtBP07gIHY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### I Am Not an Easy Man
-*Released on 2018-04-13, vote average 6.7*
-
-The chauvinist Damien wakes up in a world where women and men have their roles reversed in society, and everything is dominated by women.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2bFHdkzqSZA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### 10x10
-*Released on 2018-04-13, vote average 3.9*
-
-Lewis is an outwardly ordinary guy, but in reality he is hiding an obsession - revenge - against Cathy. Lewis kidnaps Cathy in broad daylight and takes her to his home, where he locks her in a soundproof cell and attempt to extract a dark secret from her past.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3ZaMk8t98H8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -192,16 +163,16 @@ A harmless game of “Truth or Dare” among friends turns deadly when someone�
 	
 	
 
-### I Feel Pretty
-*Released on 2018-04-20, vote average 0.5*
+### Super Troopers 2
+*Released on 2018-04-20, vote average 7*
 
-A head injury causes a woman to develop an extraordinary amount of confidence and believe she&#39;s drop dead gorgeous.
+When an international border dispute arises between the U.S. and Canada, the Super Troopers- Mac, Thorny, Foster, Rabbit and Farva, are called in to set up a new Highway Patrol station in the disputed area.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/cVx9EFK3DWE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/zt0mSRLTEbQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -212,43 +183,18 @@ A head injury causes a woman to develop an extraordinary amount of confidence an
 
 
 	
-
-  
-
-
 	
 
-  
+### I Am Not an Easy Man
+*Released on 2018-04-13, vote average 6.7*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Amateur
-*Released on 2018-04-06, vote average 6.3*
-
-14-year-old basketball phenom Terron Forte has to navigate the under-the-table world of amateur athletics when he is recruited to an elite NCAA prep school.
+The chauvinist Damien wakes up in a world where women and men have their roles reversed in society, and everything is dominated by women.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/0cQ3sBXpNtw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/2bFHdkzqSZA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -259,6 +205,30 @@ A head injury causes a woman to develop an extraordinary amount of confidence an
 
 
 	
+	
+
+### 10x10
+*Released on 2018-04-13, vote average 3.9*
+
+Lewis is an outwardly ordinary guy, but in reality he is hiding an obsession - revenge - against Cathy. Lewis kidnaps Cathy in broad daylight and takes her to his home, where he locks her in a soundproof cell and attempt to extract a dark secret from her past.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3ZaMk8t98H8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
 
   
 
@@ -268,6 +238,38 @@ A head injury causes a woman to develop an extraordinary amount of confidence an
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -283,20 +285,18 @@ A head injury causes a woman to develop an extraordinary amount of confidence an
 
 
 	
-
-	
 	
 
-### Tully
-*Released on 2018-04-20, vote average 8*
+### Avengers: Infinity War
+*Released on 2018-04-25, vote average 3.7*
 
-Marlo, a mother of three including a newborn, is gifted a night nanny by her brother. Hesitant to the extravagance at first, Marlo comes to form a bond with the thoughtful, surprising, and sometimes challenging nanny named Tully.
+As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/QRtBP07gIHY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/6ZfuNTqbHE8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -323,22 +323,7 @@ Through a series of daring escapades deep within a dark and dangerous criminal u
 	
 
 	
-	
 
-### I Feel Pretty
-*Released on 2018-04-20, vote average 0.5*
-
-A head injury causes a woman to develop an extraordinary amount of confidence and believe she&#39;s drop dead gorgeous.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cVx9EFK3DWE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
