@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Rampage
-*Released on 2018-04-12, vote average 6.2*
+*Released on 2018-04-12, vote average 6.1*
 
 Primatologist Davis Okoye shares an unshakable bond with George, the extraordinarily intelligent, silverback gorilla who has been in his care since birth.  But a rogue genetic experiment gone awry mutates this gentle ape into a raging creature of enormous size.  To make matters worse, it’s soon discovered there are other similarly altered animals.  As these newly created alpha predators tear across North America, destroying everything in their path, Okoye teams with a discredited genetic engineer to secure an antidote, fighting his way through an ever-changing battlefield, not only to halt a global catastrophe but to save the fearsome creature that was once his friend.
 
@@ -47,7 +47,7 @@ Primatologist Davis Okoye shares an unshakable bond with George, the extraordina
 	
 
 ### Deep Blue Sea 2
-*Released on 2018-04-17, vote average 3.8*
+*Released on 2018-04-17, vote average 4.6*
 
 When shark conservationist Dr. Misty Calhoun is invited to consult on a top-secret project run by pharmaceutical billionaire Carl Durant, she is shocked to learn that the company is using unpredictable and highly aggressive bull sharks as its test subjects, which soon break loose and cause havoc.
 
@@ -69,7 +69,7 @@ When shark conservationist Dr. Misty Calhoun is invited to consult on a top-secr
 	
 
 ### Wildling
-*Released on 2018-04-13, vote average 6.3*
+*Released on 2018-04-13, vote average 6.6*
 
 A young woman held in captivity discovers the realities of truth and lies in the outside world.
 
@@ -78,35 +78,6 @@ A young woman held in captivity discovers the realities of truth and lies in the
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/cfgvVsC2Vq8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### I Feel Pretty
-*Released on 2018-04-20, vote average 0.5*
-
-A head injury causes a woman to develop an extraordinary amount of confidence and believe she&#39;s drop dead gorgeous.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cVx9EFK3DWE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -129,6 +100,28 @@ Marlo, a mother of three including a newborn, is gifted a night nanny by her bro
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/QRtBP07gIHY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### I Feel Pretty
+*Released on 2018-04-20, vote average 3.3*
+
+A head injury causes a woman to develop an extraordinary amount of confidence and believe she&#39;s drop dead gorgeous.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/cVx9EFK3DWE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -183,10 +176,22 @@ When an international border dispute arises between the U.S. and Canada, the Sup
 
 
 	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
 	
 
 ### I Am Not an Easy Man
-*Released on 2018-04-13, vote average 6.7*
+*Released on 2018-04-13, vote average 6.6*
 
 The chauvinist Damien wakes up in a world where women and men have their roles reversed in society, and everything is dominated by women.
 
@@ -195,6 +200,33 @@ The chauvinist Damien wakes up in a world where women and men have their roles r
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/2bFHdkzqSZA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Traffik
+*Released on 2018-04-20, vote average 6*
+
+A couple off for a romantic weekend in the mountains are accosted by a biker gang. Alone in the mountains, Brea and John must defend themselves against the gang, who will stop at nothing to protect their secrets.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/oz-XiYNCo7o?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -227,28 +259,6 @@ Lewis is an outwardly ordinary guy, but in reality he is hiding an obsession - r
 
 
 	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 
   
 
@@ -270,6 +280,11 @@ Lewis is an outwardly ordinary guy, but in reality he is hiding an obsession - r
 
 	
 	
+	
+
+  
+
+
 	
 
   
@@ -288,7 +303,7 @@ Lewis is an outwardly ordinary guy, but in reality he is hiding an obsession - r
 	
 
 ### Avengers: Infinity War
-*Released on 2018-04-25, vote average 3.7*
+*Released on 2018-04-26, vote average 7.1*
 
 As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.
 
@@ -303,23 +318,6 @@ As the Avengers and their allies have continued to protect the world from threat
 	
 	
 
-	
-	
-
-### Solo: A Star Wars Story
-*Released on 2018-04-25, vote average 5.5*
-
-Through a series of daring escapades deep within a dark and dangerous criminal underworld, Han Solo meets his mighty future copilot Chewbacca and encounters the notorious gambler Lando Calrissian.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/dNW0B0HsvVs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
