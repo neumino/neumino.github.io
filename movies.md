@@ -47,7 +47,7 @@ Primatologist Davis Okoye shares an unshakable bond with George, the extraordina
 	
 
 ### Deep Blue Sea 2
-*Released on 2018-04-17, vote average 4.6*
+*Released on 2018-04-17, vote average 4.4*
 
 When shark conservationist Dr. Misty Calhoun is invited to consult on a top-secret project run by pharmaceutical billionaire Carl Durant, she is shocked to learn that the company is using unpredictable and highly aggressive bull sharks as its test subjects, which soon break loose and cause havoc.
 
@@ -68,38 +68,16 @@ When shark conservationist Dr. Misty Calhoun is invited to consult on a top-secr
 	
 	
 
-### Wildling
-*Released on 2018-04-13, vote average 6.6*
+### Super Troopers 2
+*Released on 2018-04-20, vote average 7*
 
-A young woman held in captivity discovers the realities of truth and lies in the outside world.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cfgvVsC2Vq8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Tully
-*Released on 2018-04-20, vote average 8*
-
-Marlo, a mother of three including a newborn, is gifted a night nanny by her brother. Hesitant to the extravagance at first, Marlo comes to form a bond with the thoughtful, surprising, and sometimes challenging nanny named Tully.
+When an international border dispute arises between the U.S. and Canada, the Super Troopers- Mac, Thorny, Foster, Rabbit and Farva, are called in to set up a new Highway Patrol station in the disputed area.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/QRtBP07gIHY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/zt0mSRLTEbQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,53 +112,19 @@ A head injury causes a woman to develop an extraordinary amount of confidence an
 	
 	
 
-### Truth or Dare
-*Released on 2018-04-12, vote average 5.2*
+### Wildling
+*Released on 2018-04-13, vote average 6.6*
 
-A harmless game of “Truth or Dare” among friends turns deadly when someone—or something—begins to punish those who tell a lie—or refuse the dare.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/BjRNY3u3bUw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Super Troopers 2
-*Released on 2018-04-20, vote average 7*
-
-When an international border dispute arises between the U.S. and Canada, the Super Troopers- Mac, Thorny, Foster, Rabbit and Farva, are called in to set up a new Highway Patrol station in the disputed area.
+A young woman held in captivity discovers the realities of truth and lies in the outside world.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/zt0mSRLTEbQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/cfgvVsC2Vq8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 	
 
@@ -210,23 +154,18 @@ The chauvinist Damien wakes up in a world where women and men have their roles r
 
 
 	
-
-  
-
-
-	
 	
 
-### Traffik
-*Released on 2018-04-20, vote average 6*
+### Tully
+*Released on 2018-04-20, vote average 8*
 
-A couple off for a romantic weekend in the mountains are accosted by a biker gang. Alone in the mountains, Brea and John must defend themselves against the gang, who will stop at nothing to protect their secrets.
+Marlo, a mother of three including a newborn, is gifted a night nanny by her brother. Hesitant to the extravagance at first, Marlo comes to form a bond with the thoughtful, surprising, and sometimes challenging nanny named Tully.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/oz-XiYNCo7o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/QRtBP07gIHY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -259,6 +198,69 @@ Lewis is an outwardly ordinary guy, but in reality he is hiding an obsession - r
 
 
 	
+	
+
+### Traffik
+*Released on 2018-04-20, vote average 6*
+
+A couple off for a romantic weekend in the mountains are accosted by a biker gang. Alone in the mountains, Brea and John must defend themselves against the gang, who will stop at nothing to protect their secrets.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/oz-XiYNCo7o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Truth or Dare
+*Released on 2018-04-12, vote average 5.6*
+
+A harmless game of “Truth or Dare” among friends turns deadly when someone—or something—begins to punish those who tell a lie—or refuse the dare.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/BjRNY3u3bUw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -278,8 +280,6 @@ Lewis is an outwardly ordinary guy, but in reality he is hiding an obsession - r
   
 
 
-	
-	
 	
 
   
@@ -303,7 +303,7 @@ Lewis is an outwardly ordinary guy, but in reality he is hiding an obsession - r
 	
 
 ### Avengers: Infinity War
-*Released on 2018-04-26, vote average 7.1*
+*Released on 2018-04-25, vote average 7.3*
 
 As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.
 
