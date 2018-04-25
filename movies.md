@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Rampage
-*Released on 2018-04-12, vote average 6*
+*Released on 2018-04-12, vote average 5.9*
 
 Primatologist Davis Okoye shares an unshakable bond with George, the extraordinarily intelligent, silverback gorilla who has been in his care since birth.  But a rogue genetic experiment gone awry mutates this gentle ape into a raging creature of enormous size.  To make matters worse, it’s soon discovered there are other similarly altered animals.  As these newly created alpha predators tear across North America, destroying everything in their path, Okoye teams with a discredited genetic engineer to secure an antidote, fighting his way through an ever-changing battlefield, not only to halt a global catastrophe but to save the fearsome creature that was once his friend.
 
@@ -40,6 +40,28 @@ Primatologist Davis Okoye shares an unshakable bond with George, the extraordina
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+  
+
+
+	
+	
+
+### Avengers: Infinity War
+*Released on 2018-04-25, vote average 6.9*
+
+As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6ZfuNTqbHE8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
   
 
 
@@ -90,16 +112,16 @@ When an international border dispute arises between the U.S. and Canada, the Sup
 	
 	
 
-### Wildling
-*Released on 2018-04-13, vote average 6.6*
+### Batman Ninja
+*Released on 2018-04-24, vote average 6.5*
 
-A young woman held in captivity discovers the realities of truth and lies in the outside world.
+Batman, along with a number of his allies and adversaries, finds himself transplanted from modern Gotham City to feudal Japan.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/cfgvVsC2Vq8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/nXsWXgOJ0Q8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -113,7 +135,7 @@ A young woman held in captivity discovers the realities of truth and lies in the
 	
 
 ### I Feel Pretty
-*Released on 2018-04-20, vote average 3.3*
+*Released on 2018-04-20, vote average 5.3*
 
 A head injury causes a woman to develop an extraordinary amount of confidence and believe she&#39;s drop dead gorgeous.
 
@@ -132,6 +154,11 @@ A head injury causes a woman to develop an extraordinary amount of confidence an
 
 
 	
+
+  
+
+
+	
 	
 
 ### Truth or Dare
@@ -144,6 +171,28 @@ A harmless game of “Truth or Dare” among friends turns deadly when someone�
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/BjRNY3u3bUw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Wildling
+*Released on 2018-04-13, vote average 6.6*
+
+A young woman held in captivity discovers the realities of truth and lies in the outside world.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/cfgvVsC2Vq8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -176,18 +225,23 @@ Marlo, a mother of three including a newborn, is gifted a night nanny by her bro
 
 
 	
+
+  
+
+
+	
 	
 
-### 10x10
-*Released on 2018-04-13, vote average 3.9*
+### I Am Not an Easy Man
+*Released on 2018-04-13, vote average 6.5*
 
-Lewis is an outwardly ordinary guy, but in reality he is hiding an obsession - revenge - against Cathy. Lewis kidnaps Cathy in broad daylight and takes her to his home, where he locks her in a soundproof cell and attempt to extract a dark secret from her past.
+The chauvinist Damien wakes up in a world where women and men have their roles reversed in society, and everything is dominated by women.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/3ZaMk8t98H8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/2bFHdkzqSZA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -206,17 +260,24 @@ Lewis is an outwardly ordinary guy, but in reality he is hiding an obsession - r
 
 	
 	
+	
 
-### I Am Not an Easy Man
-*Released on 2018-04-13, vote average 6.5*
+  
 
-The chauvinist Damien wakes up in a world where women and men have their roles reversed in society, and everything is dominated by women.
+
+	
+	
+
+### 10x10
+*Released on 2018-04-13, vote average 3.9*
+
+Lewis is an outwardly ordinary guy, but in reality he is hiding an obsession - revenge - against Cathy. Lewis kidnaps Cathy in broad daylight and takes her to his home, where he locks her in a soundproof cell and attempt to extract a dark secret from her past.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/2bFHdkzqSZA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/3ZaMk8t98H8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -259,33 +320,6 @@ A couple off for a romantic weekend in the mountains are accosted by a biker gan
 
 
 	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 
   
 
@@ -303,7 +337,7 @@ A couple off for a romantic weekend in the mountains are accosted by a biker gan
 	
 
 ### Avengers: Infinity War
-*Released on 2018-04-25, vote average 6.6*
+*Released on 2018-04-25, vote average 6.9*
 
 As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.
 
