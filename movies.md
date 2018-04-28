@@ -47,7 +47,7 @@ As the Avengers and their allies have continued to protect the world from threat
 	
 
 ### Deep Blue Sea 2
-*Released on 2018-04-17, vote average 4.4*
+*Released on 2018-04-17, vote average 4.6*
 
 When shark conservationist Dr. Misty Calhoun is invited to consult on a top-secret project run by pharmaceutical billionaire Carl Durant, she is shocked to learn that the company is using unpredictable and highly aggressive bull sharks as its test subjects, which soon break loose and cause havoc.
 
@@ -68,57 +68,8 @@ When shark conservationist Dr. Misty Calhoun is invited to consult on a top-secr
 	
 	
 
-### Batman Ninja
-*Released on 2018-04-24, vote average 6.9*
-
-Batman, along with a number of his allies and adversaries, finds himself transplanted from modern Gotham City to feudal Japan.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nXsWXgOJ0Q8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Wildling
-*Released on 2018-04-13, vote average 6.6*
-
-A young woman held in captivity discovers the realities of truth and lies in the outside world.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cfgvVsC2Vq8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Super Troopers 2
-*Released on 2018-04-20, vote average 6.7*
+*Released on 2018-04-20, vote average 6.9*
 
 When an international border dispute arises between the U.S. and Canada, the Super Troopers- Mac, Thorny, Foster, Rabbit and Farva, are called in to set up a new Highway Patrol station in the disputed area.
 
@@ -137,79 +88,18 @@ When an international border dispute arises between the U.S. and Canada, the Sup
 
 
 	
-
-  
-
-
-	
 	
 
-### Supercon
-*Released on 2018-04-27, vote average 2*
+### Batman Ninja
+*Released on 2018-04-24, vote average 7.2*
 
-A rag-tag group of former TV stars and comic book artists, who make their living working at conventions, decide to steal the loot from a crooked promoter and an overbearing former TV icon.
+Batman, along with a number of his allies and adversaries, finds himself transplanted from modern Gotham City to feudal Japan.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/5Hry74zTHeI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### I Feel Pretty
-*Released on 2018-04-20, vote average 5.3*
-
-A head injury causes a woman to develop an extraordinary amount of confidence and believe she&#39;s drop dead gorgeous.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cVx9EFK3DWE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### 10x10
-*Released on 2018-04-13, vote average 3.9*
-
-Lewis is an outwardly ordinary guy, but in reality he is hiding an obsession - revenge - against Cathy. Lewis kidnaps Cathy in broad daylight and takes her to his home, where he locks her in a soundproof cell and attempt to extract a dark secret from her past.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3ZaMk8t98H8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/nXsWXgOJ0Q8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -242,6 +132,8 @@ Marlo, a mother of three including a newborn, is gifted a night nanny by her bro
 
 
 	
+	
+	
 
   
 
@@ -257,28 +149,18 @@ Marlo, a mother of three including a newborn, is gifted a night nanny by her bro
 
 
 	
-
-  
-
-
 	
 
-  
+### I Feel Pretty
+*Released on 2018-04-20, vote average 5.3*
 
-
-	
-	
-
-### I Am Not an Easy Man
-*Released on 2018-04-13, vote average 6.5*
-
-The chauvinist Damien wakes up in a world where women and men have their roles reversed in society, and everything is dominated by women.
+A head injury causes a woman to develop an extraordinary amount of confidence and believe she&#39;s drop dead gorgeous.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/2bFHdkzqSZA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/cVx9EFK3DWE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -286,15 +168,6 @@ The chauvinist Damien wakes up in a world where women and men have their roles r
 	
 
   
-
-
-	
-
-  
-
-
-
-## Opening soon
 
 
 	
@@ -314,6 +187,69 @@ A rag-tag group of former TV stars and comic book artists, who make their living
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+
+## Opening soon
+
+
 	
 
 	
