@@ -47,7 +47,7 @@ As the Avengers and their allies have continued to protect the world from threat
 	
 
 ### Deep Blue Sea 2
-*Released on 2018-04-17, vote average 4.6*
+*Released on 2018-04-17, vote average 4.8*
 
 When shark conservationist Dr. Misty Calhoun is invited to consult on a top-secret project run by pharmaceutical billionaire Carl Durant, she is shocked to learn that the company is using unpredictable and highly aggressive bull sharks as its test subjects, which soon break loose and cause havoc.
 
@@ -60,6 +60,33 @@ When shark conservationist Dr. Misty Calhoun is invited to consult on a top-secr
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Batman Ninja
+*Released on 2018-04-24, vote average 6.9*
+
+Batman, along with a number of his allies and adversaries, finds himself transplanted from modern Gotham City to feudal Japan.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nXsWXgOJ0Q8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -88,18 +115,52 @@ When an international border dispute arises between the U.S. and Canada, the Sup
 
 
 	
+
+  
+
+
+	
 	
 
-### Batman Ninja
-*Released on 2018-04-24, vote average 7.2*
+### Supercon
+*Released on 2018-04-27, vote average 2*
 
-Batman, along with a number of his allies and adversaries, finds himself transplanted from modern Gotham City to feudal Japan.
+A rag-tag group of former TV stars and comic book artists, who make their living working at conventions, decide to steal the loot from a crooked promoter and an overbearing former TV icon.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/nXsWXgOJ0Q8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/5Hry74zTHeI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### I Feel Pretty
+*Released on 2018-04-20, vote average 5.1*
+
+A head injury causes a woman to develop an extraordinary amount of confidence and believe she&#39;s drop dead gorgeous.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/cVx9EFK3DWE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -132,18 +193,6 @@ Marlo, a mother of three including a newborn, is gifted a night nanny by her bro
 
 
 	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 
   
 
@@ -151,38 +200,16 @@ Marlo, a mother of three including a newborn, is gifted a night nanny by her bro
 	
 	
 
-### I Feel Pretty
-*Released on 2018-04-20, vote average 5.3*
+### The Week Of
+*Released on 2018-04-27, vote average 4.9*
 
-A head injury causes a woman to develop an extraordinary amount of confidence and believe she&#39;s drop dead gorgeous.
+The parents of a soon-to-be married couple make the final preparations for the wedding ceremony.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/cVx9EFK3DWE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Supercon
-*Released on 2018-04-27, vote average 2*
-
-A rag-tag group of former TV stars and comic book artists, who make their living working at conventions, decide to steal the loot from a crooked promoter and an overbearing former TV icon.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/5Hry74zTHeI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Mo9ZuZ2joGU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -229,18 +256,6 @@ A rag-tag group of former TV stars and comic book artists, who make their living
 
 	
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 	
 
   
