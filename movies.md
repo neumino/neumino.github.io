@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Avengers: Infinity War
-*Released on 2018-04-25, vote average 8.8*
+*Released on 2018-04-25, vote average 8.7*
 
 As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.
 
@@ -68,33 +68,6 @@ When shark conservationist Dr. Misty Calhoun is invited to consult on a top-secr
 	
 	
 
-### Batman Ninja
-*Released on 2018-04-24, vote average 6.9*
-
-Batman, along with a number of his allies and adversaries, finds himself transplanted from modern Gotham City to feudal Japan.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nXsWXgOJ0Q8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### Super Troopers 2
 *Released on 2018-04-20, vote average 6.9*
 
@@ -115,52 +88,18 @@ When an international border dispute arises between the U.S. and Canada, the Sup
 
 
 	
-
-  
-
-
-	
 	
 
-### Supercon
-*Released on 2018-04-27, vote average 2*
+### Batman Ninja
+*Released on 2018-04-24, vote average 6.9*
 
-A rag-tag group of former TV stars and comic book artists, who make their living working at conventions, decide to steal the loot from a crooked promoter and an overbearing former TV icon.
+Batman, along with a number of his allies and adversaries, finds himself transplanted from modern Gotham City to feudal Japan.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/5Hry74zTHeI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### I Feel Pretty
-*Released on 2018-04-20, vote average 5.1*
-
-A head injury causes a woman to develop an extraordinary amount of confidence and believe she&#39;s drop dead gorgeous.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cVx9EFK3DWE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/nXsWXgOJ0Q8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -200,16 +139,82 @@ Marlo, a mother of three including a newborn, is gifted a night nanny by her bro
 	
 	
 
-### The Week Of
-*Released on 2018-04-27, vote average 4.9*
+### Snake Outta Compton
+*Released on 2018-04-23, vote average 3*
 
-The parents of a soon-to-be married couple make the final preparations for the wedding ceremony.
+A rap group on the verge of signing their first record deal is the city&#39;s only hope in a battle with a giant mutating snake monster.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Mo9ZuZ2joGU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/SVF3ldx8o-4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### I Feel Pretty
+*Released on 2018-04-20, vote average 5.7*
+
+A head injury causes a woman to develop an extraordinary amount of confidence and believe she&#39;s drop dead gorgeous.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/cVx9EFK3DWE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Supercon
+*Released on 2018-04-27, vote average 2*
+
+A rag-tag group of former TV stars and comic book artists, who make their living working at conventions, decide to steal the loot from a crooked promoter and an overbearing former TV icon.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5Hry74zTHeI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Escape of Prisoner 614
+*Released on 2018-04-27, vote average 5*
+
+Two inept, small-town Sheriff&#39;s Deputies catch an escaped prisoner that they believe was wrongly convicted.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/WiJ79sekuCw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -235,6 +240,23 @@ The parents of a soon-to-be married couple make the final preparations for the w
 
 
 	
+	
+
+### The Rachel Divide
+*Released on 2018-04-23, vote average 6.6*
+
+Rachel Dolezal became infamous when she was unmasked as a white woman passing for black so thoroughly that she had become the head of her local N.A.A.C.P. chapter. This portrait cuts through the very public controversy to reveal Dolezal’s motivations.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/gyhOTvC1v-A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -245,6 +267,22 @@ The parents of a soon-to-be married couple make the final preparations for the w
 
 
 	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
 
   
 
@@ -254,8 +292,6 @@ The parents of a soon-to-be married couple make the final preparations for the w
   
 
 
-	
-	
 	
 
   
