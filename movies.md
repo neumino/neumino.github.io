@@ -46,6 +46,28 @@ As the Avengers and their allies have continued to protect the world from threat
 	
 	
 
+### Batman Ninja
+*Released on 2018-04-24, vote average 6.8*
+
+«Batman Ninja» takes a journey across the ages as Gorilla Grodd&#39;s time displacement machine transports many of Batman&#39;s worst enemies to feudal Japan —along with the Dark Knight and a few of his allies. The villains take over the forms of the feudal lords that rule the divided land, with the Joker taking the lead among the warring factions. As his traditional high-tech weaponry is exhausted almost immediately, Batman must rely on his intellect and his allies —including Catwoman and the extended Bat-family— to restore order to the land, and return to present-day Gotham City.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nXsWXgOJ0Q8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Deep Blue Sea 2
 *Released on 2018-04-17, vote average 4.8*
 
@@ -56,6 +78,99 @@ When shark conservationist Dr. Misty Calhoun is invited to consult on a top-secr
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/nF465jHpqXk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Week Of
+*Released on 2018-04-27, vote average 5.1*
+
+The parents of a soon-to-be married couple make the final preparations for the wedding ceremony.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Mo9ZuZ2joGU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Snake Outta Compton
+*Released on 2018-04-23, vote average 3*
+
+A rap group on the verge of signing their first record deal is the city&#39;s only hope in a battle with a giant mutating snake monster.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/SVF3ldx8o-4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Supercon
+*Released on 2018-04-27, vote average 2*
+
+A rag-tag group of former TV stars and comic book artists, who make their living working at conventions, decide to steal the loot from a crooked promoter and an overbearing former TV icon.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5Hry74zTHeI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Escape of Prisoner 614
+*Released on 2018-04-27, vote average 5*
+
+Two inept, small-town Sheriff&#39;s Deputies catch an escaped prisoner that they believe was wrongly convicted.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/WiJ79sekuCw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -89,70 +204,6 @@ When an international border dispute arises between the U.S. and Canada, the Sup
 
 	
 	
-
-### Batman Ninja
-*Released on 2018-04-24, vote average 6.9*
-
-Batman, along with a number of his allies and adversaries, finds himself transplanted from modern Gotham City to feudal Japan.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nXsWXgOJ0Q8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Tully
-*Released on 2018-04-20, vote average 3.3*
-
-Marlo, a mother of three including a newborn, is gifted a night nanny by her brother. Hesitant to the extravagance at first, Marlo comes to form a bond with the thoughtful, surprising, and sometimes challenging nanny named Tully.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/QRtBP07gIHY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Snake Outta Compton
-*Released on 2018-04-23, vote average 3*
-
-A rap group on the verge of signing their first record deal is the city&#39;s only hope in a battle with a giant mutating snake monster.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/SVF3ldx8o-4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -183,75 +234,16 @@ A head injury causes a woman to develop an extraordinary amount of confidence an
 	
 	
 
-### Supercon
-*Released on 2018-04-27, vote average 2*
+### Tully
+*Released on 2018-04-20, vote average 2.7*
 
-A rag-tag group of former TV stars and comic book artists, who make their living working at conventions, decide to steal the loot from a crooked promoter and an overbearing former TV icon.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/5Hry74zTHeI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Escape of Prisoner 614
-*Released on 2018-04-27, vote average 5*
-
-Two inept, small-town Sheriff&#39;s Deputies catch an escaped prisoner that they believe was wrongly convicted.
+Marlo, a mother of three including a newborn, is gifted a night nanny by her brother. Hesitant to the extravagance at first, Marlo comes to form a bond with the thoughtful, surprising, and sometimes challenging nanny named Tully.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/WiJ79sekuCw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Rachel Divide
-*Released on 2018-04-23, vote average 6.6*
-
-Rachel Dolezal became infamous when she was unmasked as a white woman passing for black so thoroughly that she had become the head of her local N.A.A.C.P. chapter. This portrait cuts through the very public controversy to reveal Dolezal’s motivations.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/gyhOTvC1v-A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/QRtBP07gIHY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -275,13 +267,36 @@ Rachel Dolezal became infamous when she was unmasked as a white woman passing fo
 
 	
 	
+
+### Kodachrome
+*Released on 2018-04-20, vote average 6.9*
+
+Matt Ryder is convinced to drive his estranged and dying father Benjamin Ryder cross country to deliver four old rolls of Kodachrome film to the last lab in the world that can develop them before it shuts down for good. Along with Ben&#39;s nurse Zooey, the three navigate a world changing from analogue to digital while trying to put the past behind them.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/g3IvVejktJE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
 
 
 	
+
+  
+
+
 	
+
+  
+
+
 	
 
   
