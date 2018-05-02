@@ -47,7 +47,7 @@ As the Avengers and their allies have continued to protect the world from threat
 	
 
 ### Batman Ninja
-*Released on 2018-04-24, vote average 6.8*
+*Released on 2018-04-24, vote average 6.7*
 
 «Batman Ninja» takes a journey across the ages as Gorilla Grodd&#39;s time displacement machine transports many of Batman&#39;s worst enemies to feudal Japan —along with the Dark Knight and a few of his allies. The villains take over the forms of the feudal lords that rule the divided land, with the Joker taking the lead among the warring factions. As his traditional high-tech weaponry is exhausted almost immediately, Batman must rely on his intellect and his allies —including Catwoman and the extended Bat-family— to restore order to the land, and return to present-day Gotham City.
 
@@ -56,28 +56,6 @@ As the Avengers and their allies have continued to protect the world from threat
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/nXsWXgOJ0Q8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Deep Blue Sea 2
-*Released on 2018-04-17, vote average 4.8*
-
-When shark conservationist Dr. Misty Calhoun is invited to consult on a top-secret project run by pharmaceutical billionaire Carl Durant, she is shocked to learn that the company is using unpredictable and highly aggressive bull sharks as its test subjects, which soon break loose and cause havoc.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nF465jHpqXk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,28 +90,6 @@ The parents of a soon-to-be married couple make the final preparations for the w
 	
 	
 
-### Snake Outta Compton
-*Released on 2018-04-23, vote average 3*
-
-A rap group on the verge of signing their first record deal is the city&#39;s only hope in a battle with a giant mutating snake monster.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/SVF3ldx8o-4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Supercon
 *Released on 2018-04-27, vote average 2*
 
@@ -148,11 +104,6 @@ A rag-tag group of former TV stars and comic book artists, who make their living
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -203,8 +154,6 @@ When an international border dispute arises between the U.S. and Canada, the Sup
 
 
 	
-	
-	
 
   
 
@@ -222,6 +171,28 @@ A head injury causes a woman to develop an extraordinary amount of confidence an
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/cVx9EFK3DWE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Snake Outta Compton
+*Released on 2018-04-23, vote average 3*
+
+A rap group on the verge of signing their first record deal is the city&#39;s only hope in a battle with a giant mutating snake monster.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/SVF3ldx8o-4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -266,18 +237,38 @@ Marlo, a mother of three including a newborn, is gifted a night nanny by her bro
 
 
 	
+
+  
+
+
 	
 
-### Kodachrome
-*Released on 2018-04-20, vote average 6.9*
+  
 
-Matt Ryder is convinced to drive his estranged and dying father Benjamin Ryder cross country to deliver four old rolls of Kodachrome film to the last lab in the world that can develop them before it shuts down for good. Along with Ben&#39;s nurse Zooey, the three navigate a world changing from analogue to digital while trying to put the past behind them.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Rachel Divide
+*Released on 2018-04-23, vote average 6.6*
+
+Rachel Dolezal became infamous when she was unmasked as a white woman passing for black so thoroughly that she had become the head of her local N.A.A.C.P. chapter. This portrait cuts through the very public controversy to reveal Dolezal’s motivations.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/g3IvVejktJE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/gyhOTvC1v-A?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -288,15 +279,7 @@ Matt Ryder is convinced to drive his estranged and dying father Benjamin Ryder c
 
 
 	
-
-  
-
-
 	
-
-  
-
-
 	
 
   
