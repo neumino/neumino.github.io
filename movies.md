@@ -47,7 +47,7 @@ As the Avengers and their allies have continued to protect the world from threat
 	
 
 ### Batman Ninja
-*Released on 2018-04-24, vote average 6.7*
+*Released on 2018-04-24, vote average 6.8*
 
 «Batman Ninja» takes a journey across the ages as Gorilla Grodd&#39;s time displacement machine transports many of Batman&#39;s worst enemies to feudal Japan —along with the Dark Knight and a few of his allies. The villains take over the forms of the feudal lords that rule the divided land, with the Joker taking the lead among the warring factions. As his traditional high-tech weaponry is exhausted almost immediately, Batman must rely on his intellect and his allies —including Catwoman and the extended Bat-family— to restore order to the land, and return to present-day Gotham City.
 
@@ -69,7 +69,7 @@ As the Avengers and their allies have continued to protect the world from threat
 	
 
 ### The Week Of
-*Released on 2018-04-27, vote average 5.1*
+*Released on 2018-04-27, vote average 4.9*
 
 The parents of a soon-to-be married couple make the final preparations for the wedding ceremony.
 
@@ -88,10 +88,20 @@ The parents of a soon-to-be married couple make the final preparations for the w
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### Supercon
-*Released on 2018-04-27, vote average 2*
+*Released on 2018-04-27, vote average 3*
 
 A rag-tag group of former TV stars and comic book artists, who make their living working at conventions, decide to steal the loot from a crooked promoter and an overbearing former TV icon.
 
@@ -100,6 +110,35 @@ A rag-tag group of former TV stars and comic book artists, who make their living
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/5Hry74zTHeI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Super Troopers 2
+*Released on 2018-04-20, vote average 6.9*
+
+When an international border dispute arises between the U.S. and Canada, the Super Troopers- Mac, Thorny, Foster, Rabbit and Farva, are called in to set up a new Highway Patrol station in the disputed area.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zt0mSRLTEbQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,55 +173,6 @@ Two inept, small-town Sheriff&#39;s Deputies catch an escaped prisoner that they
 	
 	
 
-### Super Troopers 2
-*Released on 2018-04-20, vote average 6.9*
-
-When an international border dispute arises between the U.S. and Canada, the Super Troopers- Mac, Thorny, Foster, Rabbit and Farva, are called in to set up a new Highway Patrol station in the disputed area.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zt0mSRLTEbQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### I Feel Pretty
-*Released on 2018-04-20, vote average 5.7*
-
-A head injury causes a woman to develop an extraordinary amount of confidence and believe she&#39;s drop dead gorgeous.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cVx9EFK3DWE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Snake Outta Compton
 *Released on 2018-04-23, vote average 3*
 
@@ -197,6 +187,31 @@ A rap group on the verge of signing their first record deal is the city&#39;s on
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -225,50 +240,18 @@ Marlo, a mother of three including a newborn, is gifted a night nanny by her bro
 
 
 	
-
-  
-
-
-	
-	
 	
 
-  
+### I Feel Pretty
+*Released on 2018-04-20, vote average 5.7*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Rachel Divide
-*Released on 2018-04-23, vote average 6.6*
-
-Rachel Dolezal became infamous when she was unmasked as a white woman passing for black so thoroughly that she had become the head of her local N.A.A.C.P. chapter. This portrait cuts through the very public controversy to reveal Dolezal’s motivations.
+A head injury causes a woman to develop an extraordinary amount of confidence and believe she&#39;s drop dead gorgeous.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/gyhOTvC1v-A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/cVx9EFK3DWE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -278,8 +261,6 @@ Rachel Dolezal became infamous when she was unmasked as a white woman passing fo
   
 
 
-	
-	
 	
 
   
