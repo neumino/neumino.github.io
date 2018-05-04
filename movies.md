@@ -121,6 +121,41 @@ A rag-tag group of former TV stars and comic book artists, who make their living
 
 	
 	
+
+### The Debt Collector
+*Released on 2018-04-26, vote average 7.7*
+
+A classically-trained martial artist goes to work as a debt collector for the mob. The job seems easy enough, until one “client” pulls him into a situation deeper than could ever be expected.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/N0O5iwmXzXM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -129,16 +164,16 @@ A rag-tag group of former TV stars and comic book artists, who make their living
 	
 	
 
-### Super Troopers 2
-*Released on 2018-04-20, vote average 6.9*
+### Tully
+*Released on 2018-04-20, vote average 2.7*
 
-When an international border dispute arises between the U.S. and Canada, the Super Troopers- Mac, Thorny, Foster, Rabbit and Farva, are called in to set up a new Highway Patrol station in the disputed area.
+Marlo, a mother of three including a newborn, is gifted a night nanny by her brother. Hesitant to the extravagance at first, Marlo comes to form a bond with the thoughtful, surprising, and sometimes challenging nanny named Tully.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/zt0mSRLTEbQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/QRtBP07gIHY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -193,25 +228,7 @@ A rap group on the verge of signing their first record deal is the city&#39;s on
 
 
 	
-
-  
-
-
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -220,16 +237,16 @@ A rap group on the verge of signing their first record deal is the city&#39;s on
 	
 	
 
-### Tully
-*Released on 2018-04-20, vote average 2.7*
+### Tremors: A Cold Day in Hell
+*Released on 2018-05-01, vote average 5.5*
 
-Marlo, a mother of three including a newborn, is gifted a night nanny by her brother. Hesitant to the extravagance at first, Marlo comes to form a bond with the thoughtful, surprising, and sometimes challenging nanny named Tully.
+Burt Gummer (Michael Gross) and his son Travis Welker (Jamie Kennedy) find themselves up to their ears in Graboids and Ass-Blasters when they head to Canada to investigate a series of deadly giant-worm attacks. Arriving at a remote research facility in the artic tundra, Burt begins to suspect that Graboids are secretly being weaponized, but before he can prove his theory, he is sidelined by Graboid venom. With just 48 hours to live, the only hope is to create an antidote from fresh venom — but to do that, someone will have to figure out how to milk a Graboid!
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/QRtBP07gIHY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Dn2hSvhkkRY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -266,6 +283,23 @@ A head injury causes a woman to develop an extraordinary amount of confidence an
   
 
 
+	
+	
+
+### Super Troopers 2
+*Released on 2018-04-20, vote average 6.9*
+
+When an international border dispute arises between the U.S. and Canada, the Super Troopers- Mac, Thorny, Foster, Rabbit and Farva, are called in to set up a new Highway Patrol station in the disputed area.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zt0mSRLTEbQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
