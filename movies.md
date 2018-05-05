@@ -47,7 +47,7 @@ As the Avengers and their allies have continued to protect the world from threat
 	
 
 ### Batman Ninja
-*Released on 2018-04-24, vote average 6.8*
+*Released on 2018-04-24, vote average 6.7*
 
 «Batman Ninja» takes a journey across the ages as Gorilla Grodd&#39;s time displacement machine transports many of Batman&#39;s worst enemies to feudal Japan —along with the Dark Knight and a few of his allies. The villains take over the forms of the feudal lords that rule the divided land, with the Joker taking the lead among the warring factions. As his traditional high-tech weaponry is exhausted almost immediately, Batman must rely on his intellect and his allies —including Catwoman and the extended Bat-family— to restore order to the land, and return to present-day Gotham City.
 
@@ -60,6 +60,11 @@ As the Avengers and their allies have continued to protect the world from threat
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -98,22 +103,20 @@ The parents of a soon-to-be married couple make the final preparations for the w
 
 
 	
-	
 
-### Supercon
-*Released on 2018-04-27, vote average 3*
+  
 
-A rag-tag group of former TV stars and comic book artists, who make their living working at conventions, decide to steal the loot from a crooked promoter and an overbearing former TV icon.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/5Hry74zTHeI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -142,38 +145,18 @@ A classically-trained martial artist goes to work as a debt collector for the mo
 
 
 	
-
-  
-
-
 	
 
-  
+### Disobedience
+*Released on 2018-04-27, vote average 8*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Tully
-*Released on 2018-04-20, vote average 2.7*
-
-Marlo, a mother of three including a newborn, is gifted a night nanny by her brother. Hesitant to the extravagance at first, Marlo comes to form a bond with the thoughtful, surprising, and sometimes challenging nanny named Tully.
+A woman learns about the death of her father. She returns to her Orthodox Jewish home and falls in love with her best childhood friend who is now married to her cousin.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/QRtBP07gIHY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/HEVonh8bjC0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -184,22 +167,52 @@ Marlo, a mother of three including a newborn, is gifted a night nanny by her bro
 
 
 	
+
+  
+
+
 	
 
-### The Escape of Prisoner 614
-*Released on 2018-04-27, vote average 5*
+  
 
-Two inept, small-town Sheriff&#39;s Deputies catch an escaped prisoner that they believe was wrongly convicted.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Supercon
+*Released on 2018-04-27, vote average 3*
+
+A rag-tag group of former TV stars and comic book artists, who make their living working at conventions, decide to steal the loot from a crooked promoter and an overbearing former TV icon.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/WiJ79sekuCw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/5Hry74zTHeI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -222,89 +235,6 @@ A rap group on the verge of signing their first record deal is the city&#39;s on
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Tremors: A Cold Day in Hell
-*Released on 2018-05-01, vote average 5.5*
-
-Burt Gummer (Michael Gross) and his son Travis Welker (Jamie Kennedy) find themselves up to their ears in Graboids and Ass-Blasters when they head to Canada to investigate a series of deadly giant-worm attacks. Arriving at a remote research facility in the artic tundra, Burt begins to suspect that Graboids are secretly being weaponized, but before he can prove his theory, he is sidelined by Graboid venom. With just 48 hours to live, the only hope is to create an antidote from fresh venom — but to do that, someone will have to figure out how to milk a Graboid!
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Dn2hSvhkkRY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### I Feel Pretty
-*Released on 2018-04-20, vote average 5.7*
-
-A head injury causes a woman to develop an extraordinary amount of confidence and believe she&#39;s drop dead gorgeous.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cVx9EFK3DWE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Super Troopers 2
-*Released on 2018-04-20, vote average 6.9*
-
-When an international border dispute arises between the U.S. and Canada, the Super Troopers- Mac, Thorny, Foster, Rabbit and Farva, are called in to set up a new Highway Patrol station in the disputed area.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zt0mSRLTEbQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
