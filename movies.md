@@ -98,47 +98,94 @@ The parents of a soon-to-be married couple make the final preparations for the w
 
 
 	
-
-  
-
-
 	
 
-  
+### Anon
+*Released on 2018-05-03, vote average 5.8*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Debt Collector
-*Released on 2018-04-26, vote average 7.7*
-
-A classically-trained martial artist goes to work as a debt collector for the mob. The job seems easy enough, until one “client” pulls him into a situation deeper than could ever be expected.
+Set in a near-future world where there is no privacy, ignorance or anonymity, our private memories are recorded and crime almost ceases to exist. In trying to solve a series of unsolved murders, Sal Frieland stumbles onto a young woman who appears to have subverted the system and disappeared. She has no identity, no history and no record. Sal realizes it may not be the end of crime but the beginning. Known only as &#39;The Girl&#39;, Sal must find her before he becomes the next victim.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/N0O5iwmXzXM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/D2mjQP8cmYA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Tremors: A Cold Day in Hell
+*Released on 2018-05-01, vote average 5.5*
+
+Burt Gummer (Michael Gross) and his son Travis Welker (Jamie Kennedy) find themselves up to their ears in Graboids and Ass-Blasters when they head to Canada to investigate a series of deadly giant-worm attacks. Arriving at a remote research facility in the artic tundra, Burt begins to suspect that Graboids are secretly being weaponized, but before he can prove his theory, he is sidelined by Graboid venom. With just 48 hours to live, the only hope is to create an antidote from fresh venom — but to do that, someone will have to figure out how to milk a Graboid!
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Dn2hSvhkkRY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -171,70 +218,6 @@ A woman learns about the death of her father. She returns to her Orthodox Jewish
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Supercon
-*Released on 2018-04-27, vote average 3*
-
-A rag-tag group of former TV stars and comic book artists, who make their living working at conventions, decide to steal the loot from a crooked promoter and an overbearing former TV icon.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/5Hry74zTHeI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Snake Outta Compton
-*Released on 2018-04-23, vote average 3*
-
-A rap group on the verge of signing their first record deal is the city&#39;s only hope in a battle with a giant mutating snake monster.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/SVF3ldx8o-4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
