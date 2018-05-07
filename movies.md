@@ -66,11 +66,6 @@ As the Avengers and their allies have continued to protect the world from threat
 
 
 	
-
-  
-
-
-	
 	
 
 ### The Week Of
@@ -93,6 +88,23 @@ The parents of a soon-to-be married couple make the final preparations for the w
 
 
 	
+	
+
+### Overboard
+*Released on 2018-05-03, vote average 5*
+
+A spoiled, wealthy yacht owner is thrown overboard and becomes the target of revenge from his mistreated employee. A remake of the 1987 comedy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/OLAJ0ooorDU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -101,7 +113,7 @@ The parents of a soon-to-be married couple make the final preparations for the w
 	
 
 ### Anon
-*Released on 2018-05-03, vote average 5.8*
+*Released on 2018-05-03, vote average 6*
 
 Set in a near-future world where there is no privacy, ignorance or anonymity, our private memories are recorded and crime almost ceases to exist. In trying to solve a series of unsolved murders, Sal Frieland stumbles onto a young woman who appears to have subverted the system and disappeared. She has no identity, no history and no record. Sal realizes it may not be the end of crime but the beginning. Known only as &#39;The Girl&#39;, Sal must find her before he becomes the next victim.
 
@@ -114,43 +126,6 @@ Set in a near-future world where there is no privacy, ignorance or anonymity, ou
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Tremors: A Cold Day in Hell
-*Released on 2018-05-01, vote average 5.5*
-
-Burt Gummer (Michael Gross) and his son Travis Welker (Jamie Kennedy) find themselves up to their ears in Graboids and Ass-Blasters when they head to Canada to investigate a series of deadly giant-worm attacks. Arriving at a remote research facility in the artic tundra, Burt begins to suspect that Graboids are secretly being weaponized, but before he can prove his theory, he is sidelined by Graboid venom. With just 48 hours to live, the only hope is to create an antidote from fresh venom — but to do that, someone will have to figure out how to milk a Graboid!
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Dn2hSvhkkRY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -195,7 +170,7 @@ Burt Gummer (Michael Gross) and his son Travis Welker (Jamie Kennedy) find thems
 	
 
 ### Disobedience
-*Released on 2018-04-27, vote average 8*
+*Released on 2018-04-27, vote average 7*
 
 A woman learns about the death of her father. She returns to her Orthodox Jewish home and falls in love with her best childhood friend who is now married to her cousin.
 
@@ -213,6 +188,99 @@ A woman learns about the death of her father. She returns to her Orthodox Jewish
   
 
 
+	
+
+  
+
+
+	
+	
+
+### Tremors: A Cold Day in Hell
+*Released on 2018-05-01, vote average 5.3*
+
+Burt Gummer (Michael Gross) and his son Travis Welker (Jamie Kennedy) find themselves up to their ears in Graboids and Ass-Blasters when they head to Canada to investigate a series of deadly giant-worm attacks. Arriving at a remote research facility in the artic tundra, Burt begins to suspect that Graboids are secretly being weaponized, but before he can prove his theory, he is sidelined by Graboid venom. With just 48 hours to live, the only hope is to create an antidote from fresh venom — but to do that, someone will have to figure out how to milk a Graboid!
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Dn2hSvhkkRY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### 102 Not Out
+*Released on 2018-05-04, vote average 10*
+
+A 102-year-old man tries to break the record for the oldest person in the world.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2hkhKftPcIY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Supercon
+*Released on 2018-04-27, vote average 3*
+
+A ragtag group of former TV stars and comic book artists who make their living working at conventions decide to steal the loot from a crooked promoter and an overbearing former TV icon.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5Hry74zTHeI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Debt Collector
+*Released on 2018-04-26, vote average 7.3*
+
+A classically-trained martial artist goes to work as a debt collector for the mob. The job seems easy enough, until one “client” pulls him into a situation deeper than could ever be expected.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/N0O5iwmXzXM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
