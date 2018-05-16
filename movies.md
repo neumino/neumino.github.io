@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Deadpool 2
-*Released on 2018-05-15, vote average 6.6*
+*Released on 2018-05-15, vote average 7.8*
 
 Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy&#39;s life.
 
@@ -69,7 +69,7 @@ Set in a near-future world where there is no privacy, ignorance or anonymity, ou
 	
 
 ### Overboard
-*Released on 2018-05-03, vote average 5.3*
+*Released on 2018-05-03, vote average 5.2*
 
 A spoiled, wealthy yacht owner is thrown overboard and becomes the target of revenge from his mistreated employee. A remake of the 1987 comedy.
 
@@ -90,30 +90,8 @@ A spoiled, wealthy yacht owner is thrown overboard and becomes the target of rev
 	
 	
 
-### Life of the Party
-*Released on 2018-05-11, vote average 6.3*
-
-Dumped by her husband, longtime housewife Deanna turns regret into reset by going back to college. Winding up at the same school as her daughter, Deanna plunges headlong into the campus experience -- embracing the fun, the freedom and the frat boys.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/T1B1CxmAXLk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Terminal
-*Released on 2018-05-11, vote average 5.8*
+*Released on 2018-05-11, vote average 6*
 
 In the dark heart of a sprawling, anonymous city, two assassins carrying out a sinister mission, a teacher battles a fatal illness, and an enigmatic janitor and a curious waitress leading dangerous double lives. Murderous consequences unravel in the dead of night as their lives all intertwine at the hands of a mysterious criminal mastermind hell-bent on revenge.
 
@@ -134,60 +112,16 @@ In the dark heart of a sprawling, anonymous city, two assassins carrying out a s
 	
 	
 
-### Tremors: A Cold Day in Hell
-*Released on 2018-05-01, vote average 5.5*
+### Life of the Party
+*Released on 2018-05-11, vote average 6.2*
 
-Burt Gummer (Michael Gross) and his son Travis Welker (Jamie Kennedy) find themselves up to their ears in Graboids and Ass-Blasters when they head to Canada to investigate a series of deadly giant-worm attacks. Arriving at a remote research facility in the artic tundra, Burt begins to suspect that Graboids are secretly being weaponized, but before he can prove his theory, he is sidelined by Graboid venom. With just 48 hours to live, the only hope is to create an antidote from fresh venom — but to do that, someone will have to figure out how to milk a Graboid!
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Dn2hSvhkkRY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Tully
-*Released on 2018-05-04, vote average 7*
-
-Marlo, a mother of three including a newborn, is gifted a night nanny by her brother. Hesitant to the extravagance at first, Marlo comes to form a bond with the thoughtful, surprising, and sometimes challenging nanny named Tully.
+Dumped by her husband, longtime housewife Deanna turns regret into reset by going back to college. Winding up at the same school as her daughter, Deanna plunges headlong into the campus experience -- embracing the fun, the freedom and the frat boys.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/QRtBP07gIHY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Show Dogs
-*Released on 2018-05-10, vote average 10*
-
-Max, a macho, solitary Rottweiler police dog is ordered to go undercover as a primped show dog in a prestigious Dog Show, along with his human partner, to avert a disaster from happening.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/f7H0fCTBdFQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/T1B1CxmAXLk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -225,28 +159,52 @@ A woman fights to protect her family during a home invasion at a house designed 
 
 
 	
-
-  
-
-
 	
 
-  
+### Tully
+*Released on 2018-05-04, vote average 7*
 
-
-	
-	
-
-### Darc
-*Released on 2018-05-01, vote average 6.3*
-
-To bring down a global human trafficking ring, an Interpol agent recruits the help of a brutal criminal with inside knowledge of the yakuza.
+Marlo, a mother of three including a newborn, is gifted a night nanny by her brother. Hesitant to the extravagance at first, Marlo comes to form a bond with the thoughtful, surprising, and sometimes challenging nanny named Tully.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/56BaU33u0Zg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/QRtBP07gIHY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Con Is On
+*Released on 2018-05-04, vote average 6*
+
+In an effort to avoid paying of a massive gambling debt to a notorious mobster in England, a couple flees to Los Angeles and hatch a jewel theft plot.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-3hucyd-s9U?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -267,7 +225,15 @@ To bring down a global human trafficking ring, an Interpol agent recruits the he
 
 
 	
+
+  
+
+
 	
+
+  
+
+
 	
 
   
@@ -278,6 +244,8 @@ To bring down a global human trafficking ring, an Interpol agent recruits the he
   
 
 
+	
+	
 	
 
   
@@ -298,24 +266,24 @@ To bring down a global human trafficking ring, an Interpol agent recruits the he
 
 
 	
+
+	
 	
 
-### Deadpool 2
-*Released on 2018-05-15, vote average 6.6*
+### Show Dogs
+*Released on 2018-05-18, vote average 4.7*
 
-Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy&#39;s life.
+Max, a macho, solitary Rottweiler police dog is ordered to go undercover as a primped show dog in a prestigious Dog Show, along with his human partner, to avert a disaster from happening.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Z5ezsReZcxU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/f7H0fCTBdFQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
