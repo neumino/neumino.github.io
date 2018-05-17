@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Deadpool 2
-*Released on 2018-05-15, vote average 7.8*
+*Released on 2018-05-15, vote average 8*
 
 Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy&#39;s life.
 
@@ -46,8 +46,30 @@ Wisecracking mercenary Deadpool battles the evil and powerful Cable and other ba
 	
 	
 
+### Terminal
+*Released on 2018-05-11, vote average 6*
+
+In the dark heart of a sprawling, anonymous city, two assassins carrying out a sinister mission, a teacher battles a fatal illness, and an enigmatic janitor and a curious waitress leading dangerous double lives. Murderous consequences unravel in the dead of night as their lives all intertwine at the hands of a mysterious criminal mastermind hell-bent on revenge.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0le19v80S80?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Anon
-*Released on 2018-05-03, vote average 6*
+*Released on 2018-05-03, vote average 5.9*
 
 Set in a near-future world where there is no privacy, ignorance or anonymity, our private memories are recorded and crime almost ceases to exist. In trying to solve a series of unsolved murders, Sal Frieland stumbles onto a young woman who appears to have subverted the system and disappeared. She has no identity, no history and no record. Sal realizes it may not be the end of crime but the beginning. Known only as &#39;The Girl&#39;, Sal must find her before he becomes the next victim.
 
@@ -88,23 +110,6 @@ A spoiled, wealthy yacht owner is thrown overboard and becomes the target of rev
 
 
 	
-	
-
-### Terminal
-*Released on 2018-05-11, vote average 6*
-
-In the dark heart of a sprawling, anonymous city, two assassins carrying out a sinister mission, a teacher battles a fatal illness, and an enigmatic janitor and a curious waitress leading dangerous double lives. Murderous consequences unravel in the dead of night as their lives all intertwine at the hands of a mysterious criminal mastermind hell-bent on revenge.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0le19v80S80?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -131,23 +136,6 @@ Dumped by her husband, longtime housewife Deanna turns regret into reset by goin
   
 
 
-	
-	
-
-### Breaking In
-*Released on 2018-05-05, vote average 4*
-
-A woman fights to protect her family during a home invasion at a house designed with impenetrable security.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/DsDVOt3M7OM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -182,6 +170,38 @@ Marlo, a mother of three including a newborn, is gifted a night nanny by her bro
 
 	
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Breaking In
+*Released on 2018-05-05, vote average 6.4*
+
+A woman fights to protect her family during a home invasion at a house designed with impenetrable security.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/DsDVOt3M7OM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -239,31 +259,13 @@ In an effort to avoid paying of a massive gambling debt to a notorious mobster i
   
 
 
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
+
+	
+
+	
 
 	
 
@@ -287,13 +289,43 @@ Max, a macho, solitary Rottweiler police dog is ordered to go undercover as a pr
 	
 
 	
+	
 
+### First Reformed
+*Released on 2018-05-18, vote average 10*
+
+Reverend Ernst Toller is a solitary, middle-aged parish pastor at a small Dutch Reform church in upstate New York on the cusp of celebrating its 250th anniversary. Once a stop on the Underground Railroad, the church is now a tourist attraction catering to a dwindling congregation, eclipsed by its nearby parent church, Abundant Life, with its state-of-the-art facilities and 5,000-strong flock. When a pregnant parishioner asks Reverend Toller to counsel her husband, a radical environmentalist, the clergyman finds himself plunged into his own tormented past, and equally despairing future, until he finds redemption in an act of grandiose violence.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hCF5Y8dQpR4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
 
 	
+	
 
+### Fahrenheit 451
+*Released on 2018-05-19, vote average 6*
+
+In an oppressive future, a &#39;fireman&#39; whose duty is to destroy all books begins to question his task.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/gwHA7d1OkAY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
