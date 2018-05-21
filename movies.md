@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Deadpool 2
-*Released on 2018-05-15, vote average 8.1*
+*Released on 2018-05-15, vote average 8*
 
 Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy&#39;s life.
 
@@ -44,6 +44,8 @@ Wisecracking mercenary Deadpool battles the evil and powerful Cable and other ba
 
 
 	
+	
+	
 
   
 
@@ -52,7 +54,7 @@ Wisecracking mercenary Deadpool battles the evil and powerful Cable and other ba
 	
 
 ### Terminal
-*Released on 2018-05-11, vote average 5.6*
+*Released on 2018-05-11, vote average 5.8*
 
 In the dark heart of a sprawling, anonymous city, two assassins carrying out a sinister mission, a teacher battles a fatal illness, and an enigmatic janitor and a curious waitress leading dangerous double lives. Murderous consequences unravel in the dead of night as their lives all intertwine at the hands of a mysterious criminal mastermind hell-bent on revenge.
 
@@ -73,62 +75,8 @@ In the dark heart of a sprawling, anonymous city, two assassins carrying out a s
 	
 	
 
-### Book Club
-*Released on 2018-05-18, vote average 6.5*
-
-Four lifelong friends have their lives forever changed after reading Fifty Shades of Grey in their monthly book club.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LDxgPIsv6sY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### First Reformed
-*Released on 2018-05-18, vote average 10*
-
-A pastor of a small church in upstate New York starts to spiral out of control after a soul-shaking encounter with an unstable environmental activist and his pregnant wife.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hCF5Y8dQpR4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### Fahrenheit 451
-*Released on 2018-05-19, vote average 6*
+*Released on 2018-05-19, vote average 6.3*
 
 In an oppressive future, a &#39;fireman&#39; whose duty is to destroy all books begins to question his task.
 
@@ -147,6 +95,82 @@ In an oppressive future, a &#39;fireman&#39; whose duty is to destroy all books 
 
 
 	
+	
+
+### Book Club
+*Released on 2018-05-18, vote average 4.7*
+
+Four lifelong friends have their lives forever changed after reading Fifty Shades of Grey in their monthly book club.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LDxgPIsv6sY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### First Reformed
+*Released on 2018-05-18, vote average 8.7*
+
+A pastor of a small church in upstate New York starts to spiral out of control after a soul-shaking encounter with an unstable environmental activist and his pregnant wife.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EC0TIg0wPhw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Pope Francis: A Man of His Word
+*Released on 2018-05-18, vote average 10*
+
+Pope Francis responds to questions from around the world, discussing topics including ecology, immigration, consumerism and social justice.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MOmY8i-uBcY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -172,6 +196,8 @@ In an oppressive future, a &#39;fireman&#39; whose duty is to destroy all books 
 
 
 	
+	
+	
 
   
 
@@ -186,13 +212,6 @@ In an oppressive future, a &#39;fireman&#39; whose duty is to destroy all books 
   
 
 
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -216,7 +235,7 @@ In an oppressive future, a &#39;fireman&#39; whose duty is to destroy all books 
 	
 
 ### Solo: A Star Wars Story
-*Released on 2018-05-23, vote average 4.2*
+*Released on 2018-05-23, vote average 5.2*
 
 Through a series of daring escapades deep within a dark and dangerous criminal underworld, Han Solo meets his mighty future copilot Chewbacca and encounters the notorious gambler Lando Calrissian.
 
@@ -229,6 +248,10 @@ Through a series of daring escapades deep within a dark and dangerous criminal u
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
 	
 
 	
@@ -281,9 +304,7 @@ Before their eventual team-up with Scooby and the gang, bright and optimistic Da
 	
 
 	
-
 	
-
 	
 
 
