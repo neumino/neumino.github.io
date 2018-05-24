@@ -47,7 +47,7 @@ Wisecracking mercenary Deadpool battles the evil and powerful Cable and other ba
 	
 
 ### Solo: A Star Wars Story
-*Released on 2018-05-23, vote average 6.2*
+*Released on 2018-05-23, vote average 6.5*
 
 Through a series of daring escapades deep within a dark and dangerous criminal underworld, Han Solo meets his mighty future copilot Chewbacca and encounters the notorious gambler Lando Calrissian.
 
@@ -76,7 +76,7 @@ Through a series of daring escapades deep within a dark and dangerous criminal u
 	
 
 ### Fahrenheit 451
-*Released on 2018-05-19, vote average 6*
+*Released on 2018-05-19, vote average 5.8*
 
 In an oppressive future, a &#39;fireman&#39; whose duty is to destroy all books begins to question his task.
 
@@ -98,7 +98,7 @@ In an oppressive future, a &#39;fireman&#39; whose duty is to destroy all books 
 	
 
 ### Terminal
-*Released on 2018-05-11, vote average 5.8*
+*Released on 2018-05-11, vote average 5.5*
 
 In the dark heart of a sprawling, anonymous city, two assassins carrying out a sinister mission, a teacher battles a fatal illness, and an enigmatic janitor and a curious waitress leading dangerous double lives. Murderous consequences unravel in the dead of night as their lives all intertwine at the hands of a mysterious criminal mastermind hell-bent on revenge.
 
@@ -122,6 +122,45 @@ In the dark heart of a sprawling, anonymous city, two assassins carrying out a s
 
 
 	
+	
+
+### Black Water
+*Released on 2018-05-18, vote average 7*
+
+A deep cover operative awakens to find himself imprisoned in a CIA black site on a submarine.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8jtnZbWzNbk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Dark Crimes
+*Released on 2018-05-18, vote average 5.5*
+
+A hard-boiled detective becomes suspicious of an author when the incidents described in his hit novel resemble the inner-workings of an unsolved murder.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5TTdcyRi-nw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -139,6 +178,35 @@ Four lifelong friends have their lives forever changed after reading Fifty Shade
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/LDxgPIsv6sY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Daphne &amp; Velma
+*Released on 2018-05-22, vote average 5.4*
+
+Before their eventual team-up with Scooby and the gang, bright and optimistic Daphne and whip-smart and analytical Velma are both mystery-solving teens who are best friends but have only met online - until now. Daphne has just transferred to Velma&#39;s school, Ridge Valley High, an incredible tech-savvy institute with all the latest gadgets provided by the school&#39;s benefactor, tech billionaire Tobias Bloom. And while competition is fierce among the students for a coveted internship at Bloom Innovative, Daphne and Velma dig beyond all the gadgets and tech to investigate what is causing some of the brightest students in school to disappear - only to emerge again in a zombie-fied state.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/A40-vFz3tc0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -171,30 +239,18 @@ A pastor of a small church in upstate New York starts to spiral out of control a
 
 
 	
-
-  
-
-
-	
-	
 	
 
-  
+### Harry &amp; Meghan: A Royal Romance
+*Released on 2018-05-13, vote average 7*
 
-
-	
-	
-
-### Dark Crimes
-*Released on 2018-05-18, vote average 5.6*
-
-A hard-boiled detective becomes suspicious of an author when the incidents described in his hit novel resemble the inner-workings of an unsolved murder.
+Examine the history of Prince Harry and Meghan Markle from the moment they met after being set up by friends, through their initial courtship when they were able to keep their romance under wraps, and ultimately the intense global media attention surrounding their relationship and Meghan’s life as a divorced American actress.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/5TTdcyRi-nw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/t1v0BgiYgHE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -204,8 +260,6 @@ A hard-boiled detective becomes suspicious of an author when the incidents descr
   
 
 
-	
-	
 	
 
   
@@ -235,48 +289,6 @@ Dumped by her husband, longtime housewife Deanna turns regret into reset by goin
 
 	
 	
-
-### Harry &amp; Meghan: A Royal Romance
-*Released on 2018-05-13, vote average 7*
-
-Examine the history of Prince Harry and Meghan Markle from the moment they met after being set up by friends, through their initial courtship when they were able to keep their romance under wraps, and ultimately the intense global media attention surrounding their relationship and Meghan’s life as a divorced American actress.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/t1v0BgiYgHE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Daphne &amp; Velma
-*Released on 2018-05-22, vote average 10*
-
-Before their eventual team-up with Scooby and the gang, bright and optimistic Daphne and whip-smart and analytical Velma are both mystery-solving teens who are best friends but have only met online - until now. Daphne has just transferred to Velma&#39;s school, Ridge Valley High, an incredible tech-savvy institute with all the latest gadgets provided by the school&#39;s benefactor, tech billionaire Tobias Bloom. And while competition is fierce among the students for a coveted internship at Bloom Innovative, Daphne and Velma dig beyond all the gadgets and tech to investigate what is causing some of the brightest students in school to disappear - only to emerge again in a zombie-fied state.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/A40-vFz3tc0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -310,6 +322,28 @@ Pope Francis responds to questions from around the world, discussing topics incl
 
 
 	
+	
+
+### Show Dogs
+*Released on 2018-05-10, vote average 6*
+
+Max, a macho, solitary Rottweiler police dog is ordered to go undercover as a primped show dog in a prestigious Dog Show, along with his human partner, to avert a disaster from happening.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/f7H0fCTBdFQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 
   
 
@@ -319,30 +353,32 @@ Pope Francis responds to questions from around the world, discussing topics incl
 
 
 	
+
 	
 
-### Solo: A Star Wars Story
-*Released on 2018-05-23, vote average 6.2*
+	
 
-Through a series of daring escapades deep within a dark and dangerous criminal underworld, Han Solo meets his mighty future copilot Chewbacca and encounters the notorious gambler Lando Calrissian.
+	
+
+	
+
+	
+	
+
+### Meatball Machine Kodoku
+*Released on 2018-05-25, vote average 4.5*
+
+Nobody knows where they came from. They parasitize in human beings, take control of them and change their bodies into hideous monsters (Necro-borg). The Necro-borg fight each other until the other dies. Where did they come from? To what end? Yuji and Kaoru, whom both have dark secrets within themselves, get caught up in the horrific battles of Necro-borg. What will their fate be?
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/dNW0B0HsvVs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/fdXSyeLN2WY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
 	
 
 	
@@ -376,8 +412,6 @@ When the Fist found a mystical gold fleece jacket, he became the biggest porn st
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
