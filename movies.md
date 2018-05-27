@@ -47,7 +47,7 @@ Wisecracking mercenary Deadpool battles the evil and powerful Cable and other ba
 	
 
 ### Solo: A Star Wars Story
-*Released on 2018-05-23, vote average 7.1*
+*Released on 2018-05-23, vote average 6.9*
 
 Through a series of daring escapades deep within a dark and dangerous criminal underworld, Han Solo meets his mighty future copilot Chewbacca and encounters the notorious gambler Lando Calrissian.
 
@@ -67,9 +67,16 @@ Through a series of daring escapades deep within a dark and dangerous criminal u
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Fahrenheit 451
-*Released on 2018-05-19, vote average 5.8*
+*Released on 2018-05-19, vote average 5.7*
 
 In an oppressive future, a &#39;fireman&#39; whose duty is to destroy all books begins to question his task.
 
@@ -89,16 +96,9 @@ In an oppressive future, a &#39;fireman&#39; whose duty is to destroy all books 
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Black Water
-*Released on 2018-05-18, vote average 6.3*
+*Released on 2018-05-18, vote average 6.1*
 
 A deep cover operative awakens to find himself imprisoned in a CIA black site on a submarine.
 
@@ -142,7 +142,7 @@ A hard-boiled detective becomes suspicious of an author when the incidents descr
 	
 
 ### Future World
-*Released on 2018-05-25, vote average 9*
+*Released on 2018-05-25, vote average 7.4*
 
 A young boy searches a future world wasteland for a rumored cure for his dying mother.
 
@@ -161,38 +161,18 @@ A young boy searches a future world wasteland for a rumored cure for his dying m
 
 
 	
-
-  
-
-
 	
 
-  
+### In Darkness
+*Released on 2018-05-25, vote average 8*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Meatball Machine Kodoku
-*Released on 2018-05-25, vote average 4.5*
-
-Nobody knows where they came from. They parasitize in human beings, take control of them and change their bodies into hideous monsters (Necro-borg). The Necro-borg fight each other until the other dies. Where did they come from? To what end? Yuji and Kaoru, whom both have dark secrets within themselves, get caught up in the horrific battles of Necro-borg. What will their fate be?
+A blind musician hears a murder committed in the apartment upstairs from hers that sends her down a dark path into London&#39;s gritty criminal underworld.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/fdXSyeLN2WY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/lAvHoeClyc4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -203,22 +183,10 @@ Nobody knows where they came from. They parasitize in human beings, take control
 
 
 	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
 	
 
 ### Cargo
-*Released on 2018-05-18, vote average 6.3*
+*Released on 2018-05-18, vote average 6.4*
 
 After being infected in the wake of a violent pandemic and  with only 48 hours  to live, a father struggles to find a new home for his baby daughter.
 
@@ -237,7 +205,52 @@ After being infected in the wake of a violent pandemic and  with only 48 hours  
 
 
 	
+
+  
+
+
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Fury of the Fist and the Golden Fleece
+*Released on 2018-05-25, vote average 5.5*
+
+When the Fist found a mystical gold fleece jacket, he became the biggest porn star of the 1970s. But in the ‘80s, he’s on the cusp of eviction from a run-down studio apartment, having lost his gold fleece and his mojo along with it. When a local street thug named Superfly enters the diner where Fist works, robbing his customers, Fist and friends fight back. And thus begins a wild adventure, as Superfly’s bosses come to collect from Fist, sending him on a journey that unravels a conspiracy to sell meat pumped full of estrogen, which threatens to emasculate men.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KpyQkjRc9rg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -270,6 +283,8 @@ Four lifelong friends have their lives forever changed after reading Fifty Shade
   
 
 
+	
+	
 	
 
   
