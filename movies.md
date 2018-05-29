@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Deadpool 2
-*Released on 2018-05-15, vote average 8*
+*Released on 2018-05-15, vote average 7.9*
 
 Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy&#39;s life.
 
@@ -47,7 +47,7 @@ Wisecracking mercenary Deadpool battles the evil and powerful Cable and other ba
 	
 
 ### Solo: A Star Wars Story
-*Released on 2018-05-23, vote average 6.8*
+*Released on 2018-05-23, vote average 6.9*
 
 Through a series of daring escapades deep within a dark and dangerous criminal underworld, Han Solo meets his mighty future copilot Chewbacca and encounters the notorious gambler Lando Calrissian.
 
@@ -98,7 +98,7 @@ In an oppressive future, a &#39;fireman&#39; whose duty is to destroy all books 
 	
 
 ### Future World
-*Released on 2018-05-25, vote average 6.1*
+*Released on 2018-05-25, vote average 6*
 
 A young boy searches a future world wasteland for a rumored cure for his dying mother.
 
@@ -107,6 +107,50 @@ A young boy searches a future world wasteland for a rumored cure for his dying m
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/tu1cwITUm3M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Black Water
+*Released on 2018-05-18, vote average 5.3*
+
+A deep cover operative awakens to find himself imprisoned in a CIA black site on a submarine.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8jtnZbWzNbk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### In Darkness
+*Released on 2018-05-25, vote average 7.3*
+
+A blind musician hears a murder committed in the apartment upstairs from hers that sends her down a dark path into London&#39;s gritty criminal underworld.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/lAvHoeClyc4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -141,28 +185,6 @@ A hard-boiled detective becomes suspicious of an author when the incidents descr
 	
 	
 
-### Black Water
-*Released on 2018-05-18, vote average 6.1*
-
-A deep cover operative awakens to find himself imprisoned in a CIA black site on a submarine.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8jtnZbWzNbk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Cargo
 *Released on 2018-05-18, vote average 6.4*
 
@@ -173,28 +195,6 @@ After being infected in the wake of a violent pandemic and  with only 48 hours  
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/u5qZOqrPr_A?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### In Darkness
-*Released on 2018-05-25, vote average 7.1*
-
-A blind musician hears a murder committed in the apartment upstairs from hers that sends her down a dark path into London&#39;s gritty criminal underworld.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/lAvHoeClyc4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -232,50 +232,18 @@ When the Fist found a mystical gold fleece jacket, he became the biggest porn st
 
 
 	
-
-  
-
-
 	
 
-  
+### Book Club
+*Released on 2018-05-18, vote average 6*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Meatball Machine Kodoku
-*Released on 2018-05-25, vote average 4.5*
-
-Nobody knows where they came from. They parasitize in human beings, take control of them and change their bodies into hideous monsters (Necro-borg). The Necro-borg fight each other until the other dies. Where did they come from? To what end? Yuji and Kaoru, whom both have dark secrets within themselves, get caught up in the horrific battles of Necro-borg. What will their fate be?
+Four lifelong friends have their lives forever changed after reading Fifty Shades of Grey in their monthly book club.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/fdXSyeLN2WY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/LDxgPIsv6sY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -285,6 +253,40 @@ Nobody knows where they came from. They parasitize in human beings, take control
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 	
 
   
