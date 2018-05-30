@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Deadpool 2
-*Released on 2018-05-15, vote average 7.9*
+### Solo: A Star Wars Story
+*Released on 2018-05-23, vote average 6.9*
 
-Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy&#39;s life.
+Through a series of daring escapades deep within a dark and dangerous criminal underworld, Han Solo meets his mighty future copilot Chewbacca and encounters the notorious gambler Lando Calrissian.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Z5ezsReZcxU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/dNW0B0HsvVs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -45,50 +45,6 @@ Wisecracking mercenary Deadpool battles the evil and powerful Cable and other ba
 
 	
 	
-
-### Solo: A Star Wars Story
-*Released on 2018-05-23, vote average 6.9*
-
-Through a series of daring escapades deep within a dark and dangerous criminal underworld, Han Solo meets his mighty future copilot Chewbacca and encounters the notorious gambler Lando Calrissian.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/dNW0B0HsvVs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Fahrenheit 451
-*Released on 2018-05-19, vote average 5.7*
-
-In an oppressive future, a &#39;fireman&#39; whose duty is to destroy all books begins to question his task.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/gwHA7d1OkAY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -98,7 +54,7 @@ In an oppressive future, a &#39;fireman&#39; whose duty is to destroy all books 
 	
 
 ### Future World
-*Released on 2018-05-25, vote average 6*
+*Released on 2018-05-25, vote average 5.8*
 
 A young boy searches a future world wasteland for a rumored cure for his dying mother.
 
@@ -119,8 +75,30 @@ A young boy searches a future world wasteland for a rumored cure for his dying m
 	
 	
 
+### Fahrenheit 451
+*Released on 2018-05-19, vote average 5.8*
+
+In an oppressive future, a &#39;fireman&#39; whose duty is to destroy all books begins to question his task.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mNKwe9k55fs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Black Water
-*Released on 2018-05-18, vote average 5.3*
+*Released on 2018-05-18, vote average 5.4*
 
 A deep cover operative awakens to find himself imprisoned in a CIA black site on a submarine.
 
@@ -141,8 +119,30 @@ A deep cover operative awakens to find himself imprisoned in a CIA black site on
 	
 	
 
+### Cargo
+*Released on 2018-05-18, vote average 6.4*
+
+After being infected in the wake of a violent pandemic and  with only 48 hours  to live, a father struggles to find a new home for his baby daughter.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/u5qZOqrPr_A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### In Darkness
-*Released on 2018-05-25, vote average 7.3*
+*Released on 2018-05-25, vote average 7*
 
 A blind musician hears a murder committed in the apartment upstairs from hers that sends her down a dark path into London&#39;s gritty criminal underworld.
 
@@ -185,20 +185,42 @@ A hard-boiled detective becomes suspicious of an author when the incidents descr
 	
 	
 
-### Cargo
-*Released on 2018-05-18, vote average 6.4*
+### Book Club
+*Released on 2018-05-18, vote average 6*
 
-After being infected in the wake of a violent pandemic and  with only 48 hours  to live, a father struggles to find a new home for his baby daughter.
+Four lifelong friends have their lives forever changed after reading Fifty Shades of Grey in their monthly book club.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/u5qZOqrPr_A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/LDxgPIsv6sY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -233,21 +255,6 @@ When the Fist found a mystical gold fleece jacket, he became the biggest porn st
 
 	
 	
-
-### Book Club
-*Released on 2018-05-18, vote average 6*
-
-Four lifelong friends have their lives forever changed after reading Fifty Shades of Grey in their monthly book club.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LDxgPIsv6sY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -263,30 +270,6 @@ Four lifelong friends have their lives forever changed after reading Fifty Shade
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -308,11 +291,45 @@ Four lifelong friends have their lives forever changed after reading Fifty Shade
 	
 
 	
+	
 
+### Hereditary
+*Released on 2018-06-04, vote average 6.5*
+
+After their reclusive grandmother passes away, the Graham family tries to escape the dark fate they&#39;ve inherited.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/V6wWKNij_1M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
 
+	
+
+	
+	
+
+### Social Animals
+*Released on 2018-06-01, vote average 6.5*
+
+Determined not to turn into her parents, or be drawn into any relationship longer than a one night stand, Zoe constantly struggles with her failing business and love life. Then she falls in love for the first time with Paul. But there&#39;s one problem: Paul is married.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EiFGL9OM0fs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
