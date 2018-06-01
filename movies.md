@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Solo: A Star Wars Story
-*Released on 2018-05-23, vote average 6.9*
+*Released on 2018-05-23, vote average 6.8*
 
 Through a series of daring escapades deep within a dark and dangerous criminal underworld, Han Solo meets his mighty future copilot Chewbacca and encounters the notorious gambler Lando Calrissian.
 
@@ -40,6 +40,28 @@ Through a series of daring escapades deep within a dark and dangerous criminal u
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+  
+
+
+	
+	
+
+### Future World
+*Released on 2018-05-25, vote average 5.7*
+
+A young boy searches a future world wasteland for a rumored cure for his dying mother.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/tu1cwITUm3M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
   
 
 
@@ -75,50 +97,6 @@ In an oppressive future, a &#39;fireman&#39; whose duty is to destroy all books 
 	
 	
 
-### Future World
-*Released on 2018-05-25, vote average 5.8*
-
-A young boy searches a future world wasteland for a rumored cure for his dying mother.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tu1cwITUm3M?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Cargo
-*Released on 2018-05-17, vote average 6.4*
-
-After being infected in the wake of a violent pandemic and  with only 48 hours  to live, a father struggles to find a new home for his baby daughter.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/u5qZOqrPr_A?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Black Water
 *Released on 2018-05-18, vote average 4.9*
 
@@ -142,7 +120,7 @@ A deep cover operative awakens to find himself imprisoned in a CIA black site on
 	
 
 ### In Darkness
-*Released on 2018-05-25, vote average 7*
+*Released on 2018-05-25, vote average 6.6*
 
 A blind musician hears a murder committed in the apartment upstairs from hers that sends her down a dark path into London&#39;s gritty criminal underworld.
 
@@ -155,6 +133,16 @@ A blind musician hears a murder committed in the apartment upstairs from hers th
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -183,6 +171,65 @@ A hard-boiled detective becomes suspicious of an author when the incidents descr
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Social Animals
+*Released on 2018-06-01, vote average 6.5*
+
+Determined not to turn into her parents, or be drawn into any relationship longer than a one night stand, Zoe constantly struggles with her failing business and love life. Then she falls in love for the first time with Paul. But there&#39;s one problem: Paul is married.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EiFGL9OM0fs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### Book Club
@@ -199,55 +246,6 @@ Four lifelong friends have their lives forever changed after reading Fifty Shade
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -271,7 +269,7 @@ Four lifelong friends have their lives forever changed after reading Fifty Shade
 	
 
 ### Jurassic World: Fallen Kingdom
-*Released on 2018-06-06, vote average 9.7*
+*Released on 2018-06-06, vote average 8.5*
 
 A volcanic eruption threatens the remaining dinosaurs on the island of Isla Nublar, where the creatures have freely roamed for several years after the demise of an animal theme park known as Jurassic World. Claire Dearing, the former park manager, has now founded the Dinosaur Protection Group, an organization dedicated to protecting the dinosaurs. To help with her cause, Claire has recruited Owen Grady, a former dinosaur trainer who worked at the park, to prevent the extinction of the dinosaurs once again.
 
@@ -290,6 +288,25 @@ A volcanic eruption threatens the remaining dinosaurs on the island of Isla Nubl
 
 	
 
+	
+
+	
+	
+
+### Social Animals
+*Released on 2018-06-01, vote average 6.5*
+
+Determined not to turn into her parents, or be drawn into any relationship longer than a one night stand, Zoe constantly struggles with her failing business and love life. Then she falls in love for the first time with Paul. But there&#39;s one problem: Paul is married.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EiFGL9OM0fs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -323,8 +340,6 @@ After their reclusive grandmother passes away, the Graham family tries to escape
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
