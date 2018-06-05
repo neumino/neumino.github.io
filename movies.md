@@ -46,6 +46,28 @@ Through a series of daring escapades deep within a dark and dangerous criminal u
 	
 	
 
+### Future World
+*Released on 2018-05-25, vote average 5.8*
+
+A young boy searches a future world wasteland for a rumored cure for his dying mother.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/tu1cwITUm3M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### In Darkness
 *Released on 2018-05-25, vote average 6.4*
 
@@ -68,16 +90,38 @@ A blind musician hears a murder committed in the apartment upstairs from hers th
 	
 	
 
-### Future World
-*Released on 2018-05-25, vote average 5.8*
+### Hereditary
+*Released on 2018-06-04, vote average 6.5*
 
-A young boy searches a future world wasteland for a rumored cure for his dying mother.
+After their reclusive grandmother passes away, the Graham family tries to escape the dark fate they&#39;ve inherited.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/tu1cwITUm3M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/V6wWKNij_1M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Social Animals
+*Released on 2018-06-01, vote average 6.5*
+
+Determined not to turn into her parents, or be drawn into any relationship longer than a one night stand, Zoe constantly struggles with her failing business and love life. Then she falls in love for the first time with Paul. But there&#39;s one problem: Paul is married.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EiFGL9OM0fs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,16 +156,16 @@ A brutal mugging leaves Grey Trace paralyzed in the hospital and his beloved wif
 	
 	
 
-### Hereditary
-*Released on 2018-06-04, vote average 6.5*
+### Adrift
+*Released on 2018-05-31, vote average 6.1*
 
-After their reclusive grandmother passes away, the Graham family tries to escape the dark fate they&#39;ve inherited.
+A woman and her fiancé find themselves caught in a hurricane after departing Tahiti by boat. She wakes up after being knocked out, only to discover him missing, and the elements threatening.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/V6wWKNij_1M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/n9ukI7khQpE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -132,15 +176,22 @@ After their reclusive grandmother passes away, the Graham family tries to escape
 
 
 	
-
-  
-
-
 	
 
-  
+### Action Point
+*Released on 2018-06-01, vote average 5.5*
 
+A daredevil designs and operates his own theme park with his friends.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ri1Cc3Yz09U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -214,7 +265,7 @@ After their reclusive grandmother passes away, the Graham family tries to escape
 	
 
 ### Jurassic World: Fallen Kingdom
-*Released on 2018-06-06, vote average 7.2*
+*Released on 2018-06-06, vote average 7*
 
 A volcanic eruption threatens the remaining dinosaurs on the island of Isla Nublar, where the creatures have freely roamed for several years after the demise of an animal theme park known as Jurassic World. Claire Dearing, the former park manager, has now founded the Dinosaur Protection Group, an organization dedicated to protecting the dinosaurs. To help with her cause, Claire has recruited Owen Grady, a former dinosaur trainer who worked at the park, to prevent the extinction of the dinosaurs once again.
 
@@ -223,25 +274,6 @@ A volcanic eruption threatens the remaining dinosaurs on the island of Isla Nubl
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/70DUmBQytrc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Hereditary
-*Released on 2018-06-04, vote average 6.5*
-
-After their reclusive grandmother passes away, the Graham family tries to escape the dark fate they&#39;ve inherited.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/V6wWKNij_1M?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -265,6 +297,8 @@ Debbie Ocean, a criminal mastermind, gathers a crew of seven other female thieve
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
