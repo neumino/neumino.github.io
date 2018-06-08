@@ -68,6 +68,109 @@ Debbie Ocean, a criminal mastermind, gathers a crew of seven other female thieve
 	
 	
 
+### Veere Di Wedding
+*Released on 2018-06-01, vote average 5*
+
+Kalindi, Avni, Sakshi and Meera are childhood friends. Kalindi and Rishabh are getting married, and the four gal pals come together for their veere’s wedding. But of course, there can be no shaadi without showsha and a lot of drama. This wedding celebration brings out skeletons from the closet, unspoken truths and some harsh realities as well.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IZODr96ZRCc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Hereditary
+*Released on 2018-06-04, vote average 6.3*
+
+After their reclusive grandmother passes away, the Graham family tries to escape the dark fate they&#39;ve inherited.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/V6wWKNij_1M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### In Darkness
+*Released on 2018-05-25, vote average 6.4*
+
+A blind musician hears a murder committed in the apartment upstairs from hers that sends her down a dark path into London&#39;s gritty criminal underworld.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/lAvHoeClyc4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Rake
+*Released on 2018-06-05, vote average 9*
+
+Ben and Ashley come together 20 years after the murder of their parents to determine the cause of their parents&#39; death. Ashley is troubled by the idea that the thing that took her parents&#39; lives may not be finished with her family.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/oe236UFefcs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### Future World
 *Released on 2018-05-25, vote average 5.8*
 
@@ -88,27 +191,27 @@ A young boy searches a future world wasteland for a rumored cure for his dying m
 
 
 	
+
+  
+
+
+	
 	
 
-### Hereditary
-*Released on 2018-06-04, vote average 6.5*
+### Kaala
+*Released on 2018-06-07, vote average 5*
 
-After their reclusive grandmother passes away, the Graham family tries to escape the dark fate they&#39;ve inherited.
+A gangster from Tirunelveli, who is the King of Dharavi, fights for keeping the land safe from mighty politicians and the land mafia.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/V6wWKNij_1M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/pSnMt6h6zk0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -142,22 +245,10 @@ A brutal mugging leaves Grey Trace paralyzed in the hospital and his beloved wif
 
 
 	
-	
 
-### In Darkness
-*Released on 2018-05-25, vote average 6.4*
+  
 
-A blind musician hears a murder committed in the apartment upstairs from hers that sends her down a dark path into London&#39;s gritty criminal underworld.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/lAvHoeClyc4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -191,135 +282,10 @@ A woman and her fiancé find themselves caught in a hurricane after departing Ta
 
 
 	
-	
-
-### The Rake
-*Released on 2018-06-05, vote average 8*
-
-Ben and Ashley come together 20 years after the murder of their parents to determine the cause of their parents&#39; death. Ashley is troubled by the idea that the thing that took her parents&#39; lives may not be finished with her family.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/oe236UFefcs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
-	
-	
-
-### Action Point
-*Released on 2018-06-01, vote average 5.5*
-
-A daredevil designs and operates his own theme park with his friends.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ri1Cc3Yz09U?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Kaala
-*Released on 2018-06-06, vote average 5*
-
-Kaala Karikaalan is an upcoming tamil movie starring Rajinikanth, directed by Pa. Ranjith &amp; produced under the banner of Wunderbar films by Dhanush. It  will be also to be shot/dubbed in Telugu &amp; Hindi.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pSnMt6h6zk0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Social Animals
-*Released on 2018-06-01, vote average 6*
-
-Determined not to turn into her parents, or be drawn into any relationship longer than a one night stand, Zoe constantly struggles with her failing business and love life. Then she falls in love for the first time with Paul. But there&#39;s one problem: Paul is married.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EiFGL9OM0fs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Debt Collector
-*Released on 2018-06-05, vote average 7.5*
-
-A classically-trained martial artist goes to work as a debt collector for the mob. The job seems easy enough, until one “client” pulls him into a situation deeper than could ever be expected.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/N0O5iwmXzXM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -329,23 +295,6 @@ A classically-trained martial artist goes to work as a debt collector for the mo
 ## Opening soon
 
 
-	
-	
-
-### Ocean&#39;s 8
-*Released on 2018-06-07, vote average 10*
-
-Debbie Ocean, a criminal mastermind, gathers a crew of seven other female thieves to pull off the heist of the century at New York&#39;s annual Met Gala.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MFWF9dU5Zc0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
