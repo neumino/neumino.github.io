@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Jurassic World: Fallen Kingdom
-*Released on 2018-06-06, vote average 7.3*
+*Released on 2018-06-06, vote average 7.2*
 
 A volcanic eruption threatens the remaining dinosaurs on the island of Isla Nublar, where the creatures have freely roamed for several years after the demise of an animal theme park known as Jurassic World. Claire Dearing, the former park manager, has now founded the Dinosaur Protection Group, an organization dedicated to protecting the dinosaurs. To help with her cause, Claire has recruited Owen Grady, a former dinosaur trainer who worked at the park, to prevent the extinction of the dinosaurs once again.
 
@@ -47,7 +47,7 @@ A volcanic eruption threatens the remaining dinosaurs on the island of Isla Nubl
 	
 
 ### Ocean&#39;s 8
-*Released on 2018-06-07, vote average 10*
+*Released on 2018-06-07, vote average 7.4*
 
 Debbie Ocean, a criminal mastermind, gathers a crew of seven other female thieves to pull off the heist of the century at New York&#39;s annual Met Gala.
 
@@ -56,6 +56,28 @@ Debbie Ocean, a criminal mastermind, gathers a crew of seven other female thieve
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/MFWF9dU5Zc0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Hereditary
+*Released on 2018-06-04, vote average 6.8*
+
+After their reclusive grandmother passes away, the Graham family tries to escape the dark fate they&#39;ve inherited.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/V6wWKNij_1M?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -90,38 +112,16 @@ Kalindi, Avni, Sakshi and Meera are childhood friends. Kalindi and Rishabh are g
 	
 	
 
-### Hereditary
-*Released on 2018-06-04, vote average 6.3*
+### Kaala
+*Released on 2018-06-07, vote average 5*
 
-After their reclusive grandmother passes away, the Graham family tries to escape the dark fate they&#39;ve inherited.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/V6wWKNij_1M?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### In Darkness
-*Released on 2018-05-25, vote average 6.4*
-
-A blind musician hears a murder committed in the apartment upstairs from hers that sends her down a dark path into London&#39;s gritty criminal underworld.
+A gangster from Tirunelveli, who is the King of Dharavi, fights for keeping the land safe from mighty politicians and the land mafia.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/lAvHoeClyc4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/pSnMt6h6zk0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -154,33 +154,18 @@ Ben and Ashley come together 20 years after the murder of their parents to deter
 
 
 	
-
-  
-
-
 	
 
-  
+### Hotel Artemis
+*Released on 2018-06-08, vote average 4*
 
-
-	
-
-  
-
-
-	
-	
-
-### Future World
-*Released on 2018-05-25, vote average 5.8*
-
-A young boy searches a future world wasteland for a rumored cure for his dying mother.
+A near-future thriller, set in its own distinctive crime universe, &#34;Hotel Artemis&#34; follows a nurse who runs an underground hospital for Los Angeles&#39; most sinister criminals, and finds that one of her patients is actually there to assassinate another.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/tu1cwITUm3M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/JqfuKsoEEms?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -196,21 +181,16 @@ A young boy searches a future world wasteland for a rumored cure for his dying m
 
 
 	
+
+  
+
+
 	
 
-### Kaala
-*Released on 2018-06-07, vote average 5*
+  
 
-A gangster from Tirunelveli, who is the King of Dharavi, fights for keeping the land safe from mighty politicians and the land mafia.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pSnMt6h6zk0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
+	
 	
 	
 
@@ -255,23 +235,18 @@ A brutal mugging leaves Grey Trace paralyzed in the hospital and his beloved wif
 
 
 	
-
-  
-
-
-	
 	
 
-### Adrift
-*Released on 2018-05-31, vote average 6.1*
+### The Debt Collector
+*Released on 2018-06-05, vote average 7.5*
 
-A woman and her fiancé find themselves caught in a hurricane after departing Tahiti by boat. She wakes up after being knocked out, only to discover him missing, and the elements threatening.
+A classically-trained martial artist goes to work as a debt collector for the mob. The job seems easy enough, until one “client” pulls him into a situation deeper than could ever be expected.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/n9ukI7khQpE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/N0O5iwmXzXM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -291,10 +266,37 @@ A woman and her fiancé find themselves caught in a hurricane after departing Ta
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
 
 ## Opening soon
 
 
+	
+	
+
+### Incredibles 2
+*Released on 2018-06-14, vote average 5*
+
+Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet – taking care of the problems of his three children.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZJDMWVZta3M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
