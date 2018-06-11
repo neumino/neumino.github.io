@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Jurassic World: Fallen Kingdom
-*Released on 2018-06-06, vote average 6.9*
+*Released on 2018-06-06, vote average 6.8*
 
 A volcanic eruption threatens the remaining dinosaurs on the island of Isla Nublar, where the creatures have freely roamed for several years after the demise of an animal theme park known as Jurassic World. Claire Dearing, the former park manager, has now founded the Dinosaur Protection Group, an organization dedicated to protecting the dinosaurs. To help with her cause, Claire has recruited Owen Grady, a former dinosaur trainer who worked at the park, to prevent the extinction of the dinosaurs once again.
 
@@ -47,7 +47,7 @@ A volcanic eruption threatens the remaining dinosaurs on the island of Isla Nubl
 	
 
 ### Ocean&#39;s 8
-*Released on 2018-06-07, vote average 7*
+*Released on 2018-06-07, vote average 6.9*
 
 Debbie Ocean, a criminal mastermind, gathers a crew of seven other female thieves to pull off the heist of the century at New York&#39;s annual Met Gala.
 
@@ -69,7 +69,7 @@ Debbie Ocean, a criminal mastermind, gathers a crew of seven other female thieve
 	
 
 ### Hereditary
-*Released on 2018-06-04, vote average 6.7*
+*Released on 2018-06-04, vote average 6.9*
 
 After their reclusive grandmother passes away, the Graham family tries to escape the dark fate they&#39;ve inherited.
 
@@ -91,7 +91,7 @@ After their reclusive grandmother passes away, the Graham family tries to escape
 	
 
 ### Hotel Artemis
-*Released on 2018-06-08, vote average 5.7*
+*Released on 2018-06-08, vote average 6.2*
 
 A near-future thriller, set in its own distinctive crime universe, &#34;Hotel Artemis&#34; follows a nurse who runs an underground hospital for Los Angeles&#39; most sinister criminals, and finds that one of her patients is actually there to assassinate another.
 
@@ -109,55 +109,6 @@ A near-future thriller, set in its own distinctive crime universe, &#34;Hotel Ar
   
 
 
-	
-	
-
-### Won&#39;t You Be My Neighbor?
-*Released on 2018-06-08, vote average 10*
-
-Fred Rogers used puppets and play to explore complex social issues: race, disability, equality and tragedy, helping form the American concept of childhood. He spoke directly to children and they responded enthusiastically. Yet today, his impact is unclear. Have we lived up to Fred&#39;s ideal of good neighbors?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/eRDf65lforc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Rake
-*Released on 2018-06-05, vote average 9*
-
-Ben and Ashley come together 20 years after the murder of their parents to determine the cause of their parents&#39; death. Ashley is troubled by the idea that the thing that took her parents&#39; lives may not be finished with her family.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/oe236UFefcs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -186,6 +137,16 @@ A gangster from Tirunelveli, who is the King of Dharavi, fights for keeping the 
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### Adrift
@@ -207,6 +168,67 @@ A woman and her fiancé find themselves caught in a hurricane after departing Ta
   
 
 
+	
+	
+
+### Won&#39;t You Be My Neighbor?
+*Released on 2018-06-08, vote average 9*
+
+Fred Rogers used puppets and play to explore complex social issues: race, disability, equality and tragedy, helping form the American concept of childhood. He spoke directly to children and they responded enthusiastically. Yet today, his impact is unclear. Have we lived up to Fred&#39;s ideal of good neighbors?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/eRDf65lforc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Debt Collector
+*Released on 2018-06-05, vote average 7.5*
+
+A classically-trained martial artist goes to work as a debt collector for the mob. The job seems easy enough, until one “client” pulls him into a situation deeper than could ever be expected.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/N0O5iwmXzXM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Upgrade
+*Released on 2018-06-01, vote average 6.6*
+
+A brutal mugging leaves Grey Trace paralyzed in the hospital and his beloved wife dead. A billionaire inventor soon offers Trace a cure — an artificial intelligence implant called STEM that will enhance his body. Now able to walk, Grey finds that he also has superhuman strength and agility — skills he uses to seek revenge against the thugs who destroyed his life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/1hTLGlgZ4Z8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -237,16 +259,16 @@ Kalindi, Avni, Sakshi and Meera are childhood friends. Kalindi and Rishabh are g
 	
 	
 
-### Upgrade
-*Released on 2018-06-01, vote average 6.1*
+### The Rake
+*Released on 2018-06-05, vote average 9*
 
-A brutal mugging leaves Grey Trace paralyzed in the hospital and his beloved wife dead. A billionaire inventor soon offers Trace a cure — an artificial intelligence implant called STEM that will enhance his body. Now able to walk, Grey finds that he also has superhuman strength and agility — skills he uses to seek revenge against the thugs who destroyed his life.
+Ben and Ashley come together 20 years after the murder of their parents to determine the cause of their parents&#39; death. Ashley is troubled by the idea that the thing that took her parents&#39; lives may not be finished with her family.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/1hTLGlgZ4Z8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/oe236UFefcs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -289,30 +311,6 @@ A NYC couple navigate the competitive world of NYC kindergarten admissions while
 
 
 	
-	
-
-### The Debt Collector
-*Released on 2018-06-05, vote average 7.5*
-
-A classically-trained martial artist goes to work as a debt collector for the mob. The job seems easy enough, until one “client” pulls him into a situation deeper than could ever be expected.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/N0O5iwmXzXM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
 
   
 
@@ -335,7 +333,7 @@ A classically-trained martial artist goes to work as a debt collector for the mo
 	
 
 ### Incredibles 2
-*Released on 2018-06-14, vote average 7.5*
+*Released on 2018-06-14, vote average 4.3*
 
 Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet – taking care of the problems of his three children.
 
