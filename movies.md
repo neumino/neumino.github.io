@@ -69,7 +69,7 @@ Debbie Ocean, a criminal mastermind, gathers a crew of seven other female thieve
 	
 
 ### Hereditary
-*Released on 2018-06-04, vote average 6.9*
+*Released on 2018-06-04, vote average 6.8*
 
 After their reclusive grandmother passes away, the Graham family tries to escape the dark fate they&#39;ve inherited.
 
@@ -110,23 +110,18 @@ A near-future thriller, set in its own distinctive crime universe, &#34;Hotel Ar
 
 
 	
-
-  
-
-
-	
 	
 
-### Kaala
-*Released on 2018-06-07, vote average 4.3*
+### Upgrade
+*Released on 2018-06-01, vote average 6.6*
 
-A gangster from Tirunelveli, who is the King of Dharavi, fights for keeping the land safe from mighty politicians and the land mafia.
+A brutal mugging leaves Grey Trace paralyzed in the hospital and his beloved wife dead. A billionaire inventor soon offers Trace a cure — an artificial intelligence implant called STEM that will enhance his body. Now able to walk, Grey finds that he also has superhuman strength and agility — skills he uses to seek revenge against the thugs who destroyed his life.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/pSnMt6h6zk0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/1hTLGlgZ4Z8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -169,6 +164,16 @@ A woman and her fiancé find themselves caught in a hurricane after departing Ta
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### Won&#39;t You Be My Neighbor?
@@ -190,89 +195,6 @@ Fred Rogers used puppets and play to explore complex social issues: race, disabi
   
 
 
-	
-	
-
-### The Debt Collector
-*Released on 2018-06-05, vote average 7.5*
-
-A classically-trained martial artist goes to work as a debt collector for the mob. The job seems easy enough, until one “client” pulls him into a situation deeper than could ever be expected.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/N0O5iwmXzXM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Upgrade
-*Released on 2018-06-01, vote average 6.6*
-
-A brutal mugging leaves Grey Trace paralyzed in the hospital and his beloved wife dead. A billionaire inventor soon offers Trace a cure — an artificial intelligence implant called STEM that will enhance his body. Now able to walk, Grey finds that he also has superhuman strength and agility — skills he uses to seek revenge against the thugs who destroyed his life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/1hTLGlgZ4Z8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Veere Di Wedding
-*Released on 2018-06-01, vote average 5*
-
-Kalindi, Avni, Sakshi and Meera are childhood friends. Kalindi and Rishabh are getting married, and the four gal pals come together for their veere’s wedding. But of course, there can be no shaadi without showsha and a lot of drama. This wedding celebration brings out skeletons from the closet, unspoken truths and some harsh realities as well.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IZODr96ZRCc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Rake
-*Released on 2018-06-05, vote average 9*
-
-Ben and Ashley come together 20 years after the murder of their parents to determine the cause of their parents&#39; death. Ashley is troubled by the idea that the thing that took her parents&#39; lives may not be finished with her family.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/oe236UFefcs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -316,10 +238,71 @@ A NYC couple navigate the competitive world of NYC kindergarten admissions while
 
 
 	
+	
+
+### The Debt Collector
+*Released on 2018-06-05, vote average 7.5*
+
+A classically-trained martial artist goes to work as a debt collector for the mob. The job seems easy enough, until one “client” pulls him into a situation deeper than could ever be expected.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/N0O5iwmXzXM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
+	
+
+  
+
+
+	
+	
+
+### Action Point
+*Released on 2018-06-01, vote average 5.5*
+
+A daredevil designs and operates his own theme park with his friends.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ri1Cc3Yz09U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Kaala
+*Released on 2018-06-07, vote average 4.3*
+
+A gangster from Tirunelveli, who is the King of Dharavi, fights for keeping the land safe from mighty politicians and the land mafia.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pSnMt6h6zk0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
