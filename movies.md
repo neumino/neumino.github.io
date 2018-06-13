@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Jurassic World: Fallen Kingdom
-*Released on 2018-06-06, vote average 6.8*
+*Released on 2018-06-06, vote average 6.7*
 
 A volcanic eruption threatens the remaining dinosaurs on the island of Isla Nublar, where the creatures have freely roamed for several years after the demise of an animal theme park known as Jurassic World. Claire Dearing, the former park manager, has now founded the Dinosaur Protection Group, an organization dedicated to protecting the dinosaurs. To help with her cause, Claire has recruited Owen Grady, a former dinosaur trainer who worked at the park, to prevent the extinction of the dinosaurs once again.
 
@@ -47,7 +47,7 @@ A volcanic eruption threatens the remaining dinosaurs on the island of Isla Nubl
 	
 
 ### Ocean&#39;s 8
-*Released on 2018-06-07, vote average 6.9*
+*Released on 2018-06-07, vote average 6.8*
 
 Debbie Ocean, a criminal mastermind, gathers a crew of seven other female thieves to pull off the heist of the century at New York&#39;s annual Met Gala.
 
@@ -91,7 +91,7 @@ After their reclusive grandmother passes away, the Graham family tries to escape
 	
 
 ### Hotel Artemis
-*Released on 2018-06-08, vote average 6.2*
+*Released on 2018-06-08, vote average 5.9*
 
 A near-future thriller, set in its own distinctive crime universe, &#34;Hotel Artemis&#34; follows a nurse who runs an underground hospital for Los Angeles&#39; most sinister criminals, and finds that one of her patients is actually there to assassinate another.
 
@@ -100,28 +100,6 @@ A near-future thriller, set in its own distinctive crime universe, &#34;Hotel Ar
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/JqfuKsoEEms?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Upgrade
-*Released on 2018-06-01, vote average 6.6*
-
-A brutal mugging leaves Grey Trace paralyzed in the hospital and his beloved wife dead. A billionaire inventor soon offers Trace a cure — an artificial intelligence implant called STEM that will enhance his body. Now able to walk, Grey finds that he also has superhuman strength and agility — skills he uses to seek revenge against the thugs who destroyed his life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/1hTLGlgZ4Z8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -145,7 +123,7 @@ A brutal mugging leaves Grey Trace paralyzed in the hospital and his beloved wif
 	
 
 ### Adrift
-*Released on 2018-05-31, vote average 6*
+*Released on 2018-05-31, vote average 6.1*
 
 A woman and her fiancé find themselves caught in a hurricane after departing Tahiti by boat. She wakes up after being knocked out, only to discover him missing, and the elements threatening.
 
@@ -154,6 +132,85 @@ A woman and her fiancé find themselves caught in a hurricane after departing Ta
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/n9ukI7khQpE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Debt Collector
+*Released on 2018-06-05, vote average 7.5*
+
+A classically-trained martial artist goes to work as a debt collector for the mob. The job seems easy enough, until one “client” pulls him into a situation deeper than could ever be expected.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/N0O5iwmXzXM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Upgrade
+*Released on 2018-06-01, vote average 6.7*
+
+A brutal mugging leaves Grey Trace paralyzed in the hospital and his beloved wife dead. A billionaire inventor soon offers Trace a cure — an artificial intelligence implant called STEM that will enhance his body. Now able to walk, Grey finds that he also has superhuman strength and agility — skills he uses to seek revenge against the thugs who destroyed his life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/1hTLGlgZ4Z8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -196,109 +253,18 @@ Fred Rogers used puppets and play to explore complex social issues: race, disabi
 
 
 	
-
-  
-
-
-	
 	
 
-### A Kid Like Jake
-*Released on 2018-06-01, vote average 9*
+### The Rake
+*Released on 2018-06-05, vote average 9*
 
-A NYC couple navigate the competitive world of NYC kindergarten admissions while trying to understand what is best for their son.
+Ben and Ashley come together 20 years after the murder of their parents to determine the cause of their parents&#39; death. Ashley is troubled by the idea that the thing that took her parents&#39; lives may not be finished with her family.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/VTMGI2s5VNs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Debt Collector
-*Released on 2018-06-05, vote average 7.5*
-
-A classically-trained martial artist goes to work as a debt collector for the mob. The job seems easy enough, until one “client” pulls him into a situation deeper than could ever be expected.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/N0O5iwmXzXM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Action Point
-*Released on 2018-06-01, vote average 5.5*
-
-A daredevil designs and operates his own theme park with his friends.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ri1Cc3Yz09U?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Kaala
-*Released on 2018-06-07, vote average 4.3*
-
-A gangster from Tirunelveli, who is the King of Dharavi, fights for keeping the land safe from mighty politicians and the land mafia.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pSnMt6h6zk0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/oe236UFefcs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
