@@ -47,7 +47,7 @@ A volcanic eruption threatens the remaining dinosaurs on the island of Isla Nubl
 	
 
 ### Ocean&#39;s 8
-*Released on 2018-06-07, vote average 6.9*
+*Released on 2018-06-07, vote average 6.8*
 
 Debbie Ocean, a criminal mastermind, gathers a crew of seven other female thieves to pull off the heist of the century at New York&#39;s annual Met Gala.
 
@@ -69,7 +69,7 @@ Debbie Ocean, a criminal mastermind, gathers a crew of seven other female thieve
 	
 
 ### Incredibles 2
-*Released on 2018-06-14, vote average 6.5*
+*Released on 2018-06-14, vote average 7.1*
 
 Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet – taking care of the problems of his three children.
 
@@ -99,11 +99,73 @@ After their reclusive grandmother passes away, the Graham family tries to escape
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/V6wWKNij_1M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/9hnj_5aozMs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Upgrade
+*Released on 2018-06-01, vote average 6.7*
+
+A brutal mugging leaves Grey Trace paralyzed in the hospital and his beloved wife dead. A billionaire inventor soon offers Trace a cure — an artificial intelligence implant called STEM that will enhance his body. Now able to walk, Grey finds that he also has superhuman strength and agility — skills he uses to seek revenge against the thugs who destroyed his life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/1hTLGlgZ4Z8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -127,87 +189,6 @@ A near-future thriller, set in its own distinctive crime universe, &#34;Hotel Ar
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/JqfuKsoEEms?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Adrift
-*Released on 2018-05-31, vote average 6.1*
-
-A woman and her fiancé find themselves caught in a hurricane after departing Tahiti by boat. She wakes up after being knocked out, only to discover him missing, and the elements threatening.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/n9ukI7khQpE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### A Kid Like Jake
-*Released on 2018-06-01, vote average 9*
-
-A NYC couple navigate the competitive world of NYC kindergarten admissions while trying to understand what is best for their son.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/VTMGI2s5VNs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Upgrade
-*Released on 2018-06-01, vote average 6.7*
-
-A brutal mugging leaves Grey Trace paralyzed in the hospital and his beloved wife dead. A billionaire inventor soon offers Trace a cure — an artificial intelligence implant called STEM that will enhance his body. Now able to walk, Grey finds that he also has superhuman strength and agility — skills he uses to seek revenge against the thugs who destroyed his life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/1hTLGlgZ4Z8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -259,77 +240,11 @@ A classically-trained martial artist goes to work as a debt collector for the mo
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Kaala
-*Released on 2018-06-07, vote average 4.5*
-
-A gangster from Tirunelveli, who is the King of Dharavi, fights for keeping the land safe from mighty politicians and the land mafia.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pSnMt6h6zk0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Action Point
-*Released on 2018-06-01, vote average 5.5*
-
-A daredevil designs and operates his own theme park with his friends.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ri1Cc3Yz09U?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 
 ## Opening soon
 
 
 	
-	
-
-### Incredibles 2
-*Released on 2018-06-14, vote average 6.5*
-
-Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet – taking care of the problems of his three children.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZJDMWVZta3M?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
@@ -351,6 +266,8 @@ Elastigirl springs into action to save the day, while Mr. Incredible faces his g
 
 	
 
+	
+	
 	
 
 	
