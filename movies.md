@@ -69,7 +69,7 @@ Debbie Ocean, a criminal mastermind, gathers a crew of seven other female thieve
 	
 
 ### Incredibles 2
-*Released on 2018-06-14, vote average 7.1*
+*Released on 2018-06-14, vote average 6.9*
 
 Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet – taking care of the problems of his three children.
 
@@ -91,7 +91,7 @@ Elastigirl springs into action to save the day, while Mr. Incredible faces his g
 	
 
 ### Hereditary
-*Released on 2018-06-04, vote average 6.9*
+*Released on 2018-06-04, vote average 6.8*
 
 After their reclusive grandmother passes away, the Graham family tries to escape the dark fate they&#39;ve inherited.
 
@@ -110,47 +110,72 @@ After their reclusive grandmother passes away, the Graham family tries to escape
 
 
 	
-
-  
-
-
 	
 
-  
+### Tag
+*Released on 2018-06-14, vote average 9*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Upgrade
-*Released on 2018-06-01, vote average 6.7*
-
-A brutal mugging leaves Grey Trace paralyzed in the hospital and his beloved wife dead. A billionaire inventor soon offers Trace a cure — an artificial intelligence implant called STEM that will enhance his body. Now able to walk, Grey finds that he also has superhuman strength and agility — skills he uses to seek revenge against the thugs who destroyed his life.
+For one month every year, five highly competitive friends hit the ground running in a no-holds-barred game of tag they’ve been playing since the first grade. This year, the game coincides with the wedding of their only undefeated player, which should finally make him an easy target. But he knows they’re coming...and he’s ready.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/1hTLGlgZ4Z8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/kjC1zmZo30U?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -198,48 +223,6 @@ A near-future thriller, set in its own distinctive crime universe, &#34;Hotel Ar
   
 
 
-	
-	
-
-### The Debt Collector
-*Released on 2018-06-05, vote average 7.5*
-
-A classically-trained martial artist goes to work as a debt collector for the mob. The job seems easy enough, until one “client” pulls him into a situation deeper than could ever be expected.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/N0O5iwmXzXM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -266,8 +249,6 @@ A classically-trained martial artist goes to work as a debt collector for the mo
 
 	
 
-	
-	
 	
 
 	
