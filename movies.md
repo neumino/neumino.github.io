@@ -69,7 +69,7 @@ Debbie Ocean, a criminal mastermind, gathers a crew of seven other female thieve
 	
 
 ### Incredibles 2
-*Released on 2018-06-14, vote average 6.9*
+*Released on 2018-06-14, vote average 7.4*
 
 Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet – taking care of the problems of his three children.
 
@@ -113,7 +113,7 @@ After their reclusive grandmother passes away, the Graham family tries to escape
 	
 
 ### Tag
-*Released on 2018-06-14, vote average 9*
+*Released on 2018-06-14, vote average 8*
 
 For one month every year, five highly competitive friends hit the ground running in a no-holds-barred game of tag they’ve been playing since the first grade. This year, the game coincides with the wedding of their only undefeated player, which should finally make him an easy target. But he knows they’re coming...and he’s ready.
 
@@ -122,6 +122,55 @@ For one month every year, five highly competitive friends hit the ground running
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/kjC1zmZo30U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Race 3
+*Released on 2018-06-15, vote average 3*
+
+The story of a landowner who gets sabotaged by a criminal.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xBht9TG7ySw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Billy Boy
+*Released on 2018-06-15, vote average 0.5*
+
+When an angry teenager discovers a close friend has been killed, grief jeopardizes his future and he finds himself engulfed in danger.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nnouh3C-o6w?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -152,10 +201,44 @@ For one month every year, five highly competitive friends hit the ground running
 
 
 	
+	
+
+### Apocalypse Rising
+*Released on 2018-06-12, vote average 10*
+
+A human girl and her warrior comrades from another world travel to Earth to save humanity from an impending apocalypse.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vPLmkTkbeqQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
+	
+	
+
+### Bao
+*Released on 2018-06-15, vote average 8*
+
+An empty-nesting Chinese mom gets another chance at motherhood when one of her dumplings springs to life, but she must come to terms with the bittersweet revelation that nothing stays cute and small forever.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/v0cKmGJbuYc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -167,30 +250,22 @@ For one month every year, five highly competitive friends hit the ground running
 
 
 	
-
-  
-
-
 	
 
-  
+### The Debt Collector
+*Released on 2018-06-05, vote average 7.5*
 
+A classically-trained martial artist goes to work as a debt collector for the mob. The job seems easy enough, until one “client” pulls him into a situation deeper than could ever be expected.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/N0O5iwmXzXM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -218,6 +293,16 @@ A near-future thriller, set in its own distinctive crime universe, &#34;Hotel Ar
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
