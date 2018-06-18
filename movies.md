@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Jurassic World: Fallen Kingdom
-*Released on 2018-06-06, vote average 6.7*
+*Released on 2018-06-06, vote average 6.8*
 
 A volcanic eruption threatens the remaining dinosaurs on the island of Isla Nublar, where the creatures have freely roamed for several years after the demise of an animal theme park known as Jurassic World. Claire Dearing, the former park manager, has now founded the Dinosaur Protection Group, an organization dedicated to protecting the dinosaurs. To help with her cause, Claire has recruited Owen Grady, a former dinosaur trainer who worked at the park, to prevent the extinction of the dinosaurs once again.
 
@@ -46,6 +46,28 @@ A volcanic eruption threatens the remaining dinosaurs on the island of Isla Nubl
 	
 	
 
+### Incredibles 2
+*Released on 2018-06-14, vote average 7.5*
+
+Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet – taking care of the problems of his three children.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZJDMWVZta3M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Ocean&#39;s 8
 *Released on 2018-06-07, vote average 6.8*
 
@@ -68,30 +90,8 @@ Debbie Ocean, a criminal mastermind, gathers a crew of seven other female thieve
 	
 	
 
-### Incredibles 2
-*Released on 2018-06-14, vote average 7.4*
-
-Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet – taking care of the problems of his three children.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZJDMWVZta3M?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Hereditary
-*Released on 2018-06-04, vote average 6.8*
+*Released on 2018-06-04, vote average 6.9*
 
 After their reclusive grandmother passes away, the Graham family tries to escape the dark fate they&#39;ve inherited.
 
@@ -135,9 +135,9 @@ For one month every year, five highly competitive friends hit the ground running
 	
 
 ### Race 3
-*Released on 2018-06-15, vote average 3*
+*Released on 2018-06-15, vote average 3.2*
 
-The story of a landowner who gets sabotaged by a criminal.
+The Singh family comprises of Shamsher his step-son Sikandar, twins Suraj and Sanjana. They run a business of illegal arms and trade with the help of their friend Yash. Things get dramatic when Jessica meets Sikandar and the family ties are strained under each character’s ulterior motives.
 
 <iframe id="player"
 	type="text/html"
@@ -154,15 +154,10 @@ The story of a landowner who gets sabotaged by a criminal.
 
 
 	
-
-  
-
-
-	
 	
 
 ### Billy Boy
-*Released on 2018-06-15, vote average 0.5*
+*Released on 2018-06-15, vote average 5.3*
 
 When an angry teenager discovers a close friend has been killed, grief jeopardizes his future and he finds himself engulfed in danger.
 
@@ -186,37 +181,52 @@ When an angry teenager discovers a close friend has been killed, grief jeopardiz
 
 
 	
-
-  
-
-
 	
 
-  
+### Escape Plan 2: Hades
+*Released on 2018-06-05, vote average 4.8*
 
-
-	
-
-  
-
-
-	
-	
-
-### Apocalypse Rising
-*Released on 2018-06-12, vote average 10*
-
-A human girl and her warrior comrades from another world travel to Earth to save humanity from an impending apocalypse.
+Ray Breslin manages an elite team of security specialists trained in the art of breaking people out of the world&#39;s most impenetrable prisons. When his most trusted operative, Shu Ren, is kidnapped and disappears inside the most elaborate prison ever built, Ray must track him down with the help of some of his former friends.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/vPLmkTkbeqQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/6Q7vVt-MeXk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -235,33 +245,6 @@ An empty-nesting Chinese mom gets another chance at motherhood when one of her d
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/v0cKmGJbuYc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Debt Collector
-*Released on 2018-06-05, vote average 7.5*
-
-A classically-trained martial artist goes to work as a debt collector for the mob. The job seems easy enough, until one “client” pulls him into a situation deeper than could ever be expected.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/N0O5iwmXzXM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -303,6 +286,23 @@ A near-future thriller, set in its own distinctive crime universe, &#34;Hotel Ar
   
 
 
+	
+	
+
+### Apocalypse Rising
+*Released on 2018-06-12, vote average 10*
+
+A human girl and her warrior comrades from another world travel to Earth to save humanity from an impending apocalypse.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vPLmkTkbeqQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
