@@ -47,7 +47,7 @@ A volcanic eruption threatens the remaining dinosaurs on the island of Isla Nubl
 	
 
 ### Incredibles 2
-*Released on 2018-06-14, vote average 7.5*
+*Released on 2018-06-14, vote average 7.4*
 
 Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet – taking care of the problems of his three children.
 
@@ -69,7 +69,7 @@ Elastigirl springs into action to save the day, while Mr. Incredible faces his g
 	
 
 ### Ocean&#39;s 8
-*Released on 2018-06-07, vote average 6.8*
+*Released on 2018-06-07, vote average 6.7*
 
 Debbie Ocean, a criminal mastermind, gathers a crew of seven other female thieves to pull off the heist of the century at New York&#39;s annual Met Gala.
 
@@ -90,30 +90,8 @@ Debbie Ocean, a criminal mastermind, gathers a crew of seven other female thieve
 	
 	
 
-### Hereditary
-*Released on 2018-06-04, vote average 6.9*
-
-After their reclusive grandmother passes away, the Graham family tries to escape the dark fate they&#39;ve inherited.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/9hnj_5aozMs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Tag
-*Released on 2018-06-14, vote average 8*
+*Released on 2018-06-14, vote average 7.8*
 
 For one month every year, five highly competitive friends hit the ground running in a no-holds-barred game of tag they’ve been playing since the first grade. This year, the game coincides with the wedding of their only undefeated player, which should finally make him an easy target. But he knows they’re coming...and he’s ready.
 
@@ -157,7 +135,7 @@ The Singh family comprises of Shamsher his step-son Sikandar, twins Suraj and Sa
 	
 
 ### Billy Boy
-*Released on 2018-06-15, vote average 5.3*
+*Released on 2018-06-15, vote average 4.8*
 
 When an angry teenager discovers a close friend has been killed, grief jeopardizes his future and he finds himself engulfed in danger.
 
@@ -176,6 +154,23 @@ When an angry teenager discovers a close friend has been killed, grief jeopardiz
 
 
 	
+	
+
+### Apocalypse Rising
+*Released on 2018-06-12, vote average 6*
+
+A human girl and her warrior comrades from another world travel to Earth to save humanity from an impending apocalypse.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vPLmkTkbeqQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -183,16 +178,16 @@ When an angry teenager discovers a close friend has been killed, grief jeopardiz
 	
 	
 
-### Escape Plan 2: Hades
-*Released on 2018-06-05, vote average 4.8*
+### SuperFly
+*Released on 2018-06-13, vote average 9.5*
 
-Ray Breslin manages an elite team of security specialists trained in the art of breaking people out of the world&#39;s most impenetrable prisons. When his most trusted operative, Shu Ren, is kidnapped and disappears inside the most elaborate prison ever built, Ray must track him down with the help of some of his former friends.
+Career criminal Youngblood Priest wants out of the Atlanta drug scene, but as he ramps up sales, one little slip up threatens to bring the whole operation down before he can make his exit.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/6Q7vVt-MeXk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Y5IxGgf3d3A?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -212,43 +207,6 @@ Ray Breslin manages an elite team of security specialists trained in the art of 
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Bao
-*Released on 2018-06-15, vote average 8*
-
-An empty-nesting Chinese mom gets another chance at motherhood when one of her dumplings springs to life, but she must come to terms with the bittersweet revelation that nothing stays cute and small forever.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/v0cKmGJbuYc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -282,6 +240,23 @@ A near-future thriller, set in its own distinctive crime universe, &#34;Hotel Ar
 
 
 	
+	
+
+### Escape Plan 2: Hades
+*Released on 2018-06-05, vote average 4.8*
+
+Ray Breslin manages an elite team of security specialists trained in the art of breaking people out of the world&#39;s most impenetrable prisons. When his most trusted operative, Shu Ren, is kidnapped and disappears inside the most elaborate prison ever built, Ray must track him down with the help of some of his former friends.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6Q7vVt-MeXk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -289,20 +264,45 @@ A near-future thriller, set in its own distinctive crime universe, &#34;Hotel Ar
 	
 	
 
-### Apocalypse Rising
-*Released on 2018-06-12, vote average 10*
+### Bao
+*Released on 2018-06-15, vote average 8*
 
-A human girl and her warrior comrades from another world travel to Earth to save humanity from an impending apocalypse.
+An empty-nesting Chinese mom gets another chance at motherhood when one of her dumplings springs to life, but she must come to terms with the bittersweet revelation that nothing stays cute and small forever.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/vPLmkTkbeqQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/v0cKmGJbuYc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -340,6 +340,8 @@ A human girl and her warrior comrades from another world travel to Earth to save
 
 	
 
+	
+	
 	
 
 	
