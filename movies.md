@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Jurassic World: Fallen Kingdom
-*Released on 2018-06-06, vote average 6.8*
+*Released on 2018-06-06, vote average 6.7*
 
 A volcanic eruption threatens the remaining dinosaurs on the island of Isla Nublar, where the creatures have freely roamed for several years after the demise of an animal theme park known as Jurassic World. Claire Dearing, the former park manager, has now founded the Dinosaur Protection Group, an organization dedicated to protecting the dinosaurs. To help with her cause, Claire has recruited Owen Grady, a former dinosaur trainer who worked at the park, to prevent the extinction of the dinosaurs once again.
 
@@ -47,7 +47,7 @@ A volcanic eruption threatens the remaining dinosaurs on the island of Isla Nubl
 	
 
 ### Incredibles 2
-*Released on 2018-06-14, vote average 7.4*
+*Released on 2018-06-14, vote average 7.5*
 
 Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet – taking care of the problems of his three children.
 
@@ -69,7 +69,7 @@ Elastigirl springs into action to save the day, while Mr. Incredible faces his g
 	
 
 ### Ocean&#39;s 8
-*Released on 2018-06-07, vote average 6.7*
+*Released on 2018-06-07, vote average 6.8*
 
 Debbie Ocean, a criminal mastermind, gathers a crew of seven other female thieves to pull off the heist of the century at New York&#39;s annual Met Gala.
 
@@ -113,7 +113,7 @@ For one month every year, five highly competitive friends hit the ground running
 	
 
 ### Race 3
-*Released on 2018-06-15, vote average 3.2*
+*Released on 2018-06-15, vote average 3.7*
 
 The Singh family comprises of Shamsher his step-son Sikandar, twins Suraj and Sanjana. They run a business of illegal arms and trade with the help of their friend Yash. Things get dramatic when Jessica meets Sikandar and the family ties are strained under each character’s ulterior motives.
 
@@ -148,6 +148,11 @@ When an angry teenager discovers a close friend has been killed, grief jeopardiz
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -242,28 +247,6 @@ A near-future thriller, set in its own distinctive crime universe, &#34;Hotel Ar
 	
 	
 
-### Escape Plan 2: Hades
-*Released on 2018-06-05, vote average 4.8*
-
-Ray Breslin manages an elite team of security specialists trained in the art of breaking people out of the world&#39;s most impenetrable prisons. When his most trusted operative, Shu Ren, is kidnapped and disappears inside the most elaborate prison ever built, Ray must track him down with the help of some of his former friends.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/6Q7vVt-MeXk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Bao
 *Released on 2018-06-15, vote average 8*
 
@@ -340,8 +323,6 @@ An empty-nesting Chinese mom gets another chance at motherhood when one of her d
 
 	
 
-	
-	
 	
 
 	
