@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Jurassic World: Fallen Kingdom
-*Released on 2018-06-06, vote average 6.7*
+### Incredibles 2
+*Released on 2018-06-14, vote average 7.6*
 
-A volcanic eruption threatens the remaining dinosaurs on the island of Isla Nublar, where the creatures have freely roamed for several years after the demise of an animal theme park known as Jurassic World. Claire Dearing, the former park manager, has now founded the Dinosaur Protection Group, an organization dedicated to protecting the dinosaurs. To help with her cause, Claire has recruited Owen Grady, a former dinosaur trainer who worked at the park, to prevent the extinction of the dinosaurs once again.
+Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet – taking care of the problems of his three children.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/70DUmBQytrc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ZJDMWVZta3M?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -40,28 +40,6 @@ A volcanic eruption threatens the remaining dinosaurs on the island of Isla Nubl
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-
-
-	
-	
-
-### Incredibles 2
-*Released on 2018-06-14, vote average 7.5*
-
-Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet – taking care of the problems of his three children.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZJDMWVZta3M?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
   
 
 
@@ -112,6 +90,33 @@ For one month every year, five highly competitive friends hit the ground running
 	
 	
 
+### Apocalypse Rising
+*Released on 2018-06-12, vote average 6*
+
+A human girl and her warrior comrades from another world travel to Earth to save humanity from an impending apocalypse.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vPLmkTkbeqQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### Race 3
 *Released on 2018-06-15, vote average 3.7*
 
@@ -126,6 +131,102 @@ The Singh family comprises of Shamsher his step-son Sikandar, twins Suraj and Sa
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Set It Up
+*Released on 2018-06-12, vote average 6.9*
+
+Two overworked assistants with nasty bosses try to get their supervisors out of their hair.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/X-eRc9PF3TU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Gotti
+*Released on 2018-06-15, vote average 6.3*
+
+John Gotti rises to the top of the New York underworld to become the boss of the Gambino crime family. His life takes a tumultuous turn as he faces tragedy, multiple trials and a prison sentence.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/D_nv-5xCp50?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### SuperFly
+*Released on 2018-06-13, vote average 9.5*
+
+Career criminal Youngblood Priest wants out of the Atlanta drug scene, but as he ramps up sales, one little slip up threatens to bring the whole operation down before he can make his exit.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Y5IxGgf3d3A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -161,121 +262,20 @@ When an angry teenager discovers a close friend has been killed, grief jeopardiz
 	
 	
 
-### Apocalypse Rising
-*Released on 2018-06-12, vote average 6*
+### Affairs of State
+*Released on 2018-06-15, vote average 7*
 
-A human girl and her warrior comrades from another world travel to Earth to save humanity from an impending apocalypse.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vPLmkTkbeqQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### SuperFly
-*Released on 2018-06-13, vote average 9.5*
-
-Career criminal Youngblood Priest wants out of the Atlanta drug scene, but as he ramps up sales, one little slip up threatens to bring the whole operation down before he can make his exit.
+A young campaign aide gets in way over his head when he sleeps with the wife of a presidential candidate, sending him into a downward spiral of corruption and blackmail. He is left fighting not only for his career, but also his life.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Y5IxGgf3d3A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/k32gdOsyz3Y?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Hotel Artemis
-*Released on 2018-06-08, vote average 5.9*
-
-A near-future thriller, set in its own distinctive crime universe, &#34;Hotel Artemis&#34; follows a nurse who runs an underground hospital for Los Angeles&#39; most sinister criminals, and finds that one of her patients is actually there to assassinate another.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/JqfuKsoEEms?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Bao
-*Released on 2018-06-15, vote average 8*
-
-An empty-nesting Chinese mom gets another chance at motherhood when one of her dumplings springs to life, but she must come to terms with the bittersweet revelation that nothing stays cute and small forever.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/v0cKmGJbuYc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -303,6 +303,8 @@ An empty-nesting Chinese mom gets another chance at motherhood when one of her d
 
 	
 
+	
+	
 	
 
 	
