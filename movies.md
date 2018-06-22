@@ -46,28 +46,6 @@ Elastigirl springs into action to save the day, while Mr. Incredible faces his g
 	
 	
 
-### Ocean&#39;s 8
-*Released on 2018-06-07, vote average 6.8*
-
-Debbie Ocean, a criminal mastermind, gathers a crew of seven other female thieves to pull off the heist of the century at New York&#39;s annual Met Gala.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MFWF9dU5Zc0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Tag
 *Released on 2018-06-14, vote average 7.8*
 
@@ -78,28 +56,6 @@ For one month every year, five highly competitive friends hit the ground running
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/kjC1zmZo30U?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Apocalypse Rising
-*Released on 2018-06-12, vote average 6*
-
-A human girl and her warrior comrades from another world travel to Earth to save humanity from an impending apocalypse.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vPLmkTkbeqQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -142,82 +98,18 @@ The Singh family comprises of Shamsher his step-son Sikandar, twins Suraj and Sa
 
 
 	
-
-  
-
-
 	
 
-  
+### Den blomstertid nu kommer
+*Released on 2018-06-20, vote average 8*
 
-
-	
-	
-
-### Set It Up
-*Released on 2018-06-12, vote average 6.9*
-
-Two overworked assistants with nasty bosses try to get their supervisors out of their hair.
+In Swedish film collective Crazy Pictures feature &#34;Den blomstertid nu kommer&#34; Sweden faces a mysterious attack while Alex tries to reunite with his youth love, Anna.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/X-eRc9PF3TU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Gotti
-*Released on 2018-06-15, vote average 6.3*
-
-John Gotti rises to the top of the New York underworld to become the boss of the Gambino crime family. His life takes a tumultuous turn as he faces tragedy, multiple trials and a prison sentence.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/D_nv-5xCp50?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### SuperFly
-*Released on 2018-06-13, vote average 9.5*
-
-Career criminal Youngblood Priest wants out of the Atlanta drug scene, but as he ramps up sales, one little slip up threatens to bring the whole operation down before he can make his exit.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Y5IxGgf3d3A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/LTdZL_8O9fc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -262,6 +154,72 @@ When an angry teenager discovers a close friend has been killed, grief jeopardiz
 	
 	
 
+### SuperFly
+*Released on 2018-06-13, vote average 9.5*
+
+Career criminal Youngblood Priest wants out of the Atlanta drug scene, but as he ramps up sales, one little slip up threatens to bring the whole operation down before he can make his exit.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Y5IxGgf3d3A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Gotti
+*Released on 2018-06-15, vote average 6.3*
+
+John Gotti rises to the top of the New York underworld to become the boss of the Gambino crime family. His life takes a tumultuous turn as he faces tragedy, multiple trials and a prison sentence.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/D_nv-5xCp50?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Apocalypse Rising
+*Released on 2018-06-12, vote average 6*
+
+A human girl and her warrior comrades from another world travel to Earth to save humanity from an impending apocalypse.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vPLmkTkbeqQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Affairs of State
 *Released on 2018-06-15, vote average 7*
 
@@ -291,6 +249,31 @@ A young campaign aide gets in way over his head when he sleeps with the wife of 
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -298,13 +281,28 @@ A young campaign aide gets in way over his head when he sleeps with the wife of 
 	
 
 	
+	
+
+### Sicario: Day of the Soldado
+*Released on 2018-06-27, vote average 5.5*
+
+FBI agent Matt Graver teams up with operative Alejandro Gillick to prevent Mexican drug cartels from smuggling terrorists across the U.S. border.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Pymm6cmE9uQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
 	
 
-	
-	
 	
 
 	
