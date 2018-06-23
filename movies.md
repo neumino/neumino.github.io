@@ -47,7 +47,7 @@ Elastigirl springs into action to save the day, while Mr. Incredible faces his g
 	
 
 ### Tag
-*Released on 2018-06-14, vote average 7.8*
+*Released on 2018-06-14, vote average 7.3*
 
 For one month every year, five highly competitive friends hit the ground running in a no-holds-barred game of tag they’ve been playing since the first grade. This year, the game coincides with the wedding of their only undefeated player, which should finally make him an easy target. But he knows they’re coming...and he’s ready.
 
@@ -56,6 +56,65 @@ For one month every year, five highly competitive friends hit the ground running
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/kjC1zmZo30U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Set It Up
+*Released on 2018-06-12, vote average 6.9*
+
+Two overworked assistants with nasty bosses try to get their supervisors out of their hair.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/X-eRc9PF3TU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Affairs of State
+*Released on 2018-06-15, vote average 7*
+
+A young campaign aide gets in way over his head when he sleeps with the wife of a presidential candidate, sending him into a downward spiral of corruption and blackmail. He is left fighting not only for his career, but also his life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/k32gdOsyz3Y?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -93,6 +152,8 @@ The Singh family comprises of Shamsher his step-son Sikandar, twins Suraj and Sa
 
 
 	
+	
+	
 
   
 
@@ -114,6 +175,11 @@ In Swedish film collective Crazy Pictures feature &#34;Den blomstertid nu kommer
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -154,28 +220,6 @@ When an angry teenager discovers a close friend has been killed, grief jeopardiz
 	
 	
 
-### SuperFly
-*Released on 2018-06-13, vote average 9.5*
-
-Career criminal Youngblood Priest wants out of the Atlanta drug scene, but as he ramps up sales, one little slip up threatens to bring the whole operation down before he can make his exit.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Y5IxGgf3d3A?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Gotti
 *Released on 2018-06-15, vote average 6.3*
 
@@ -190,65 +234,6 @@ John Gotti rises to the top of the New York underworld to become the boss of the
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### Apocalypse Rising
-*Released on 2018-06-12, vote average 6*
-
-A human girl and her warrior comrades from another world travel to Earth to save humanity from an impending apocalypse.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vPLmkTkbeqQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Affairs of State
-*Released on 2018-06-15, vote average 7*
-
-A young campaign aide gets in way over his head when he sleeps with the wife of a presidential candidate, sending him into a downward spiral of corruption and blackmail. He is left fighting not only for his career, but also his life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/k32gdOsyz3Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -279,8 +264,6 @@ A young campaign aide gets in way over his head when he sleeps with the wife of 
 
 
 	
-
-	
 	
 
 ### Sicario: Day of the Soldado
@@ -297,6 +280,8 @@ FBI agent Matt Graver teams up with operative Alejandro Gillick to prevent Mexic
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
