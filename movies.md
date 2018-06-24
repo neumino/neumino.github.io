@@ -44,6 +44,11 @@ Elastigirl springs into action to save the day, while Mr. Incredible faces his g
 
 
 	
+
+  
+
+
+	
 	
 
 ### Tag
@@ -60,6 +65,16 @@ For one month every year, five highly competitive friends hit the ground running
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -103,22 +118,32 @@ Two overworked assistants with nasty bosses try to get their supervisors out of 
 
 
 	
+
+  
+
+
+	
 	
 
-### Affairs of State
-*Released on 2018-06-15, vote average 7*
+### Ideal Home
+*Released on 2018-06-21, vote average 2*
 
-A young campaign aide gets in way over his head when he sleeps with the wife of a presidential candidate, sending him into a downward spiral of corruption and blackmail. He is left fighting not only for his career, but also his life.
+A gay couple are going through marital troubles made worse when a previously unknown grandson shows up.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/k32gdOsyz3Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/S8b1Dh-3fkw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -153,6 +178,21 @@ The Singh family comprises of Shamsher his step-son Sikandar, twins Suraj and Sa
 
 	
 	
+
+### Affairs of State
+*Released on 2018-06-15, vote average 7*
+
+A young campaign aide gets in way over his head when he sleeps with the wife of a presidential candidate, sending him into a downward spiral of corruption and blackmail. He is left fighting not only for his career, but also his life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/k32gdOsyz3Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -161,10 +201,10 @@ The Singh family comprises of Shamsher his step-son Sikandar, twins Suraj and Sa
 	
 	
 
-### Den blomstertid nu kommer
+### The Unthinkable
 *Released on 2018-06-20, vote average 8*
 
-In Swedish film collective Crazy Pictures feature &#34;Den blomstertid nu kommer&#34; Sweden faces a mysterious attack while Alex tries to reunite with his youth love, Anna.
+In Swedish film collective Crazy Pictures feature &#34;Den blomstertid nu kommer&#34; (aka &#34;The Unthinkable&#34;) Sweden faces a mysterious attack while Alex tries to reunite with his youth love, Anna.
 
 <iframe id="player"
 	type="text/html"
@@ -175,11 +215,6 @@ In Swedish film collective Crazy Pictures feature &#34;Den blomstertid nu kommer
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -218,43 +253,6 @@ When an angry teenager discovers a close friend has been killed, grief jeopardiz
 
 
 	
-	
-
-### Gotti
-*Released on 2018-06-15, vote average 6.3*
-
-John Gotti rises to the top of the New York underworld to become the boss of the Gambino crime family. His life takes a tumultuous turn as he faces tragedy, multiple trials and a prison sentence.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/D_nv-5xCp50?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 
   
 
@@ -267,7 +265,7 @@ John Gotti rises to the top of the New York underworld to become the boss of the
 	
 
 ### Sicario: Day of the Soldado
-*Released on 2018-06-27, vote average 5.5*
+*Released on 2018-06-27, vote average 5.3*
 
 FBI agent Matt Graver teams up with operative Alejandro Gillick to prevent Mexican drug cartels from smuggling terrorists across the U.S. border.
 
@@ -282,6 +280,23 @@ FBI agent Matt Graver teams up with operative Alejandro Gillick to prevent Mexic
 	
 	
 
+	
+	
+
+### Uncle Drew
+*Released on 2018-06-28, vote average 1*
+
+Uncle Drew recruits a squad of older basketball players to return to the court to compete in a tournament.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/9H2SSvQ8ihA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
