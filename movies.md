@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Incredibles 2
-*Released on 2018-06-14, vote average 7.6*
+*Released on 2018-06-14, vote average 7.7*
 
 Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet – taking care of the problems of his three children.
 
@@ -43,6 +43,23 @@ Elastigirl springs into action to save the day, while Mr. Incredible faces his g
   
 
 
+	
+	
+
+### Set It Up
+*Released on 2018-06-12, vote average 6.9*
+
+Two overworked assistants with nasty bosses try to get their supervisors out of their hair.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/X-eRc9PF3TU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -76,28 +93,18 @@ For one month every year, five highly competitive friends hit the ground running
 
 
 	
-
-  
-
-
 	
 
-  
+### Distorted
+*Released on 2018-06-22, vote average 4.5*
 
-
-	
-	
-
-### Set It Up
-*Released on 2018-06-12, vote average 6.9*
-
-Two overworked assistants with nasty bosses try to get their supervisors out of their hair.
+A married couple suspect that the &#39;smart apartments&#39; in their high tech residence are being used by its owner for sinister reasons.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/X-eRc9PF3TU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/VIAqGOBOnyw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -117,6 +124,57 @@ Two overworked assistants with nasty bosses try to get their supervisors out of 
   
 
 
+	
+	
+
+### Affairs of State
+*Released on 2018-06-15, vote average 7*
+
+A young campaign aide gets in way over his head when he sleeps with the wife of a presidential candidate, sending him into a downward spiral of corruption and blackmail. He is left fighting not only for his career, but also his life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/k32gdOsyz3Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Race 3
+*Released on 2018-06-15, vote average 3.7*
+
+The Singh family comprises of Shamsher his step-son Sikandar, twins Suraj and Sanjana. They run a business of illegal arms and trade with the help of their friend Yash. Things get dramatic when Jessica meets Sikandar and the family ties are strained under each character’s ulterior motives.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xBht9TG7ySw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -155,98 +213,42 @@ A gay couple are going through marital troubles made worse when a previously unk
 
 
 	
+
+  
+
+
 	
 
-### Race 3
-*Released on 2018-06-15, vote average 3.7*
+  
 
-The Singh family comprises of Shamsher his step-son Sikandar, twins Suraj and Sanjana. They run a business of illegal arms and trade with the help of their friend Yash. Things get dramatic when Jessica meets Sikandar and the family ties are strained under each character’s ulterior motives.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### SuperFly
+*Released on 2018-06-13, vote average 7.4*
+
+Career criminal Youngblood Priest wants out of the Atlanta drug scene, but as he ramps up sales, one little slip up threatens to bring the whole operation down before he can make his exit.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xBht9TG7ySw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Y5IxGgf3d3A?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### Affairs of State
-*Released on 2018-06-15, vote average 7*
-
-A young campaign aide gets in way over his head when he sleeps with the wife of a presidential candidate, sending him into a downward spiral of corruption and blackmail. He is left fighting not only for his career, but also his life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/k32gdOsyz3Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Unthinkable
-*Released on 2018-06-20, vote average 8*
-
-In Swedish film collective Crazy Pictures feature &#34;Den blomstertid nu kommer&#34; (aka &#34;The Unthinkable&#34;) Sweden faces a mysterious attack while Alex tries to reunite with his youth love, Anna.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LTdZL_8O9fc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Billy Boy
-*Released on 2018-06-15, vote average 4.8*
-
-When an angry teenager discovers a close friend has been killed, grief jeopardizes his future and he finds himself engulfed in danger.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nnouh3C-o6w?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -265,7 +267,7 @@ When an angry teenager discovers a close friend has been killed, grief jeopardiz
 	
 
 ### Sicario: Day of the Soldado
-*Released on 2018-06-27, vote average 5.3*
+*Released on 2018-06-27, vote average 6.2*
 
 FBI agent Matt Graver teams up with operative Alejandro Gillick to prevent Mexican drug cartels from smuggling terrorists across the U.S. border.
 
