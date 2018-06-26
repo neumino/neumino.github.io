@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Incredibles 2
-*Released on 2018-06-14, vote average 7.7*
+*Released on 2018-06-14, vote average 7.6*
 
 Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet – taking care of the problems of his three children.
 
@@ -40,6 +40,28 @@ Elastigirl springs into action to save the day, while Mr. Incredible faces his g
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+  
+
+
+	
+	
+
+### Distorted
+*Released on 2018-06-22, vote average 4.5*
+
+A married couple suspect that the &#39;smart apartments&#39; in their high tech residence are being used by its owner for sinister reasons.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/VIAqGOBOnyw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
   
 
 
@@ -95,20 +117,30 @@ For one month every year, five highly competitive friends hit the ground running
 	
 	
 
-### Distorted
-*Released on 2018-06-22, vote average 4.5*
+### Race 3
+*Released on 2018-06-15, vote average 3.7*
 
-A married couple suspect that the &#39;smart apartments&#39; in their high tech residence are being used by its owner for sinister reasons.
+The Singh family comprises of Shamsher his step-son Sikandar, twins Suraj and Sanjana. They run a business of illegal arms and trade with the help of their friend Yash. Things get dramatic when Jessica meets Sikandar and the family ties are strained under each character’s ulterior motives.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/VIAqGOBOnyw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xBht9TG7ySw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -147,33 +179,21 @@ A young campaign aide gets in way over his head when he sleeps with the wife of 
 
 
 	
-
-  
-
-
-	
 	
 
-### Race 3
-*Released on 2018-06-15, vote average 3.7*
+### Billy Boy
+*Released on 2018-06-15, vote average 4.8*
 
-The Singh family comprises of Shamsher his step-son Sikandar, twins Suraj and Sanjana. They run a business of illegal arms and trade with the help of their friend Yash. Things get dramatic when Jessica meets Sikandar and the family ties are strained under each character’s ulterior motives.
+When an angry teenager discovers a close friend has been killed, grief jeopardizes his future and he finds himself engulfed in danger.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xBht9TG7ySw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/nnouh3C-o6w?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -208,6 +228,8 @@ A gay couple are going through marital troubles made worse when a previously unk
 
 
 	
+	
+	
 
   
 
@@ -235,25 +257,20 @@ A gay couple are going through marital troubles made worse when a previously unk
 	
 	
 
-### SuperFly
-*Released on 2018-06-13, vote average 7.4*
+### Gotti
+*Released on 2018-06-15, vote average 6.3*
 
-Career criminal Youngblood Priest wants out of the Atlanta drug scene, but as he ramps up sales, one little slip up threatens to bring the whole operation down before he can make his exit.
+John Gotti rises to the top of the New York underworld to become the boss of the Gambino crime family. His life takes a tumultuous turn as he faces tragedy, multiple trials and a prison sentence.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Y5IxGgf3d3A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/D_nv-5xCp50?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -267,7 +284,7 @@ Career criminal Youngblood Priest wants out of the Atlanta drug scene, but as he
 	
 
 ### Sicario: Day of the Soldado
-*Released on 2018-06-27, vote average 6.2*
+*Released on 2018-06-27, vote average 6.6*
 
 FBI agent Matt Graver teams up with operative Alejandro Gillick to prevent Mexican drug cartels from smuggling terrorists across the U.S. border.
 
