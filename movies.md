@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Incredibles 2
-*Released on 2018-06-14, vote average 7.6*
+*Released on 2018-06-14, vote average 7.7*
 
 Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet – taking care of the problems of his three children.
 
@@ -46,6 +46,28 @@ Elastigirl springs into action to save the day, while Mr. Incredible faces his g
 	
 	
 
+### Sicario: Day of the Soldado
+*Released on 2018-06-27, vote average 6.6*
+
+FBI agent Matt Graver teams up with operative Alejandro Gillick to prevent Mexican drug cartels from smuggling terrorists across the U.S. border.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Pymm6cmE9uQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Distorted
 *Released on 2018-06-22, vote average 4.5*
 
@@ -68,30 +90,8 @@ A married couple suspect that the &#39;smart apartments&#39; in their high tech 
 	
 	
 
-### Set It Up
-*Released on 2018-06-12, vote average 6.9*
-
-Two overworked assistants with nasty bosses try to get their supervisors out of their hair.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/X-eRc9PF3TU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Tag
-*Released on 2018-06-14, vote average 7.3*
+*Released on 2018-06-14, vote average 6.9*
 
 For one month every year, five highly competitive friends hit the ground running in a no-holds-barred game of tag they’ve been playing since the first grade. This year, the game coincides with the wedding of their only undefeated player, which should finally make him an easy target. But he knows they’re coming...and he’s ready.
 
@@ -104,6 +104,43 @@ For one month every year, five highly competitive friends hit the ground running
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### SuperFly
+*Released on 2018-06-13, vote average 7.4*
+
+Career criminal Youngblood Priest wants out of the Atlanta drug scene, but as he ramps up sales, one little slip up threatens to bring the whole operation down before he can make his exit.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Y5IxGgf3d3A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -179,50 +216,6 @@ A young campaign aide gets in way over his head when he sleeps with the wife of 
 
 
 	
-	
-
-### Billy Boy
-*Released on 2018-06-15, vote average 4.8*
-
-When an angry teenager discovers a close friend has been killed, grief jeopardizes his future and he finds himself engulfed in danger.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nnouh3C-o6w?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Ideal Home
-*Released on 2018-06-21, vote average 2*
-
-A gay couple are going through marital troubles made worse when a previously unknown grandson shows up.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/S8b1Dh-3fkw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 
   
 
@@ -244,33 +237,6 @@ A gay couple are going through marital troubles made worse when a previously unk
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Gotti
-*Released on 2018-06-15, vote average 6.3*
-
-John Gotti rises to the top of the New York underworld to become the boss of the Gambino crime family. His life takes a tumultuous turn as he faces tragedy, multiple trials and a prison sentence.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/D_nv-5xCp50?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -279,6 +245,8 @@ John Gotti rises to the top of the New York underworld to become the boss of the
 
 ## Opening soon
 
+
+	
 
 	
 	
@@ -300,6 +268,8 @@ FBI agent Matt Graver teams up with operative Alejandro Gillick to prevent Mexic
 	
 
 	
+
+	
 	
 
 ### Uncle Drew
@@ -316,10 +286,6 @@ Uncle Drew recruits a squad of older basketball players to return to the court t
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
 	
 
 	
