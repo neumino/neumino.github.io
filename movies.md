@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Incredibles 2
-*Released on 2018-06-14, vote average 7.7*
+*Released on 2018-06-14, vote average 7.6*
 
 Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet – taking care of the problems of his three children.
 
@@ -69,7 +69,7 @@ FBI agent Matt Graver teams up with operative Alejandro Gillick to prevent Mexic
 	
 
 ### Distorted
-*Released on 2018-06-22, vote average 4.5*
+*Released on 2018-06-22, vote average 5.4*
 
 A married couple suspect that the &#39;smart apartments&#39; in their high tech residence are being used by its owner for sinister reasons.
 
@@ -91,7 +91,7 @@ A married couple suspect that the &#39;smart apartments&#39; in their high tech 
 	
 
 ### Tag
-*Released on 2018-06-14, vote average 6.9*
+*Released on 2018-06-14, vote average 7*
 
 For one month every year, five highly competitive friends hit the ground running in a no-holds-barred game of tag they’ve been playing since the first grade. This year, the game coincides with the wedding of their only undefeated player, which should finally make him an easy target. But he knows they’re coming...and he’s ready.
 
@@ -110,32 +110,71 @@ For one month every year, five highly competitive friends hit the ground running
 
 
 	
-
-  
-
-
 	
 
-  
+### Uncle Drew
+*Released on 2018-06-28, vote average 5.5*
 
-
-	
-	
-
-### SuperFly
-*Released on 2018-06-13, vote average 7.4*
-
-Career criminal Youngblood Priest wants out of the Atlanta drug scene, but as he ramps up sales, one little slip up threatens to bring the whole operation down before he can make his exit.
+Uncle Drew recruits a squad of older basketball players to return to the court to compete in a tournament.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Y5IxGgf3d3A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/9H2SSvQ8ihA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -188,92 +227,53 @@ The Singh family comprises of Shamsher his step-son Sikandar, twins Suraj and Sa
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Affairs of State
-*Released on 2018-06-15, vote average 7*
-
-A young campaign aide gets in way over his head when he sleeps with the wife of a presidential candidate, sending him into a downward spiral of corruption and blackmail. He is left fighting not only for his career, but also his life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/k32gdOsyz3Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
 
 	
-
-	
 	
 
-### Sicario: Day of the Soldado
-*Released on 2018-06-27, vote average 6.6*
+### Ant-Man and the Wasp
+*Released on 2018-07-04, vote average 9*
 
-FBI agent Matt Graver teams up with operative Alejandro Gillick to prevent Mexican drug cartels from smuggling terrorists across the U.S. border.
+As Scott Lang balances being both a superhero and a father, Hope van Dyne and Dr. Hank Pym present an urgent new mission that finds the Ant-Man fighting alongside the Wasp to uncover secrets from their past.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Pymm6cmE9uQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Ew7hvsnSbAY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
 	
 
+	
+	
+
+### The First Purge
+*Released on 2018-07-04, vote average 2*
+
+To push the crime rate below one percent for the rest of the year, the New Founding Fathers of America (NFFA) test a sociological theory that vents aggression for one night in one isolated community. But when the violence of the oppressors meets the rage of the marginalized, the contagion will explode from the trial-city borders and spread across the nation.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/gYYMnkoFtjM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
 	
 
 ### Uncle Drew
-*Released on 2018-06-28, vote average 1*
+*Released on 2018-06-28, vote average 5.5*
 
 Uncle Drew recruits a squad of older basketball players to return to the court to compete in a tournament.
 
@@ -286,6 +286,8 @@ Uncle Drew recruits a squad of older basketball players to return to the court t
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
