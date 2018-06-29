@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Incredibles 2
-*Released on 2018-06-14, vote average 7.6*
+### Sicario: Day of the Soldado
+*Released on 2018-06-27, vote average 6.6*
 
-Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet – taking care of the problems of his three children.
+FBI agent Matt Graver teams up with operative Alejandro Gillick to prevent Mexican drug cartels from smuggling terrorists across the U.S. border.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ZJDMWVZta3M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Pymm6cmE9uQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -40,28 +40,6 @@ Elastigirl springs into action to save the day, while Mr. Incredible faces his g
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-
-
-	
-	
-
-### Sicario: Day of the Soldado
-*Released on 2018-06-27, vote average 6.6*
-
-FBI agent Matt Graver teams up with operative Alejandro Gillick to prevent Mexican drug cartels from smuggling terrorists across the U.S. border.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Pymm6cmE9uQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
   
 
 
@@ -90,30 +68,8 @@ A married couple suspect that the &#39;smart apartments&#39; in their high tech 
 	
 	
 
-### Tag
-*Released on 2018-06-14, vote average 7*
-
-For one month every year, five highly competitive friends hit the ground running in a no-holds-barred game of tag they’ve been playing since the first grade. This year, the game coincides with the wedding of their only undefeated player, which should finally make him an easy target. But he knows they’re coming...and he’s ready.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kjC1zmZo30U?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Uncle Drew
-*Released on 2018-06-28, vote average 5.5*
+*Released on 2018-06-28, vote average 7*
 
 Uncle Drew recruits a squad of older basketball players to return to the court to compete in a tournament.
 
@@ -191,22 +147,10 @@ Uncle Drew recruits a squad of older basketball players to return to the court t
 
 
 	
-	
 
-### Race 3
-*Released on 2018-06-15, vote average 3.7*
+  
 
-The Singh family comprises of Shamsher his step-son Sikandar, twins Suraj and Sanjana. They run a business of illegal arms and trade with the help of their friend Yash. Things get dramatic when Jessica meets Sikandar and the family ties are strained under each character’s ulterior motives.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xBht9TG7ySw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -222,6 +166,13 @@ The Singh family comprises of Shamsher his step-son Sikandar, twins Suraj and Sa
   
 
 
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -269,23 +220,6 @@ To push the crime rate below one percent for the rest of the year, the New Found
 	
 	
 
-	
-	
-
-### Uncle Drew
-*Released on 2018-06-28, vote average 5.5*
-
-Uncle Drew recruits a squad of older basketball players to return to the court to compete in a tournament.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/9H2SSvQ8ihA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
