@@ -46,28 +46,6 @@ FBI agent Matt Graver teams up with operative Alejandro Gillick to prevent Mexic
 	
 	
 
-### Distorted
-*Released on 2018-06-22, vote average 5.4*
-
-A married couple suspect that the &#39;smart apartments&#39; in their high tech residence are being used by its owner for sinister reasons.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/VIAqGOBOnyw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Uncle Drew
 *Released on 2018-06-28, vote average 7*
 
@@ -89,28 +67,21 @@ Uncle Drew recruits a squad of older basketball players to return to the court t
 
 	
 	
-	
 
-  
+### Distorted
+*Released on 2018-06-22, vote average 4.8*
 
+A married couple suspect that the &#39;smart apartments&#39; in their high tech residence are being used by its owner for sinister reasons.
 
-	
-	
-	
-
-  
-
-
-	
-
-  
-
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/VIAqGOBOnyw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-  
-
-
 	
 
   
@@ -167,12 +138,52 @@ Uncle Drew recruits a squad of older basketball players to return to the court t
 
 
 	
+	
+
+### Tau
+*Released on 2018-06-20, vote average 5.3*
+
+Held captive in a futuristic smart house, a woman hopes to escape by befriending the A.I. program that controls the house.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/h9nrBkQ2YBo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
 	
+
+  
+
+
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -186,7 +197,7 @@ Uncle Drew recruits a squad of older basketball players to return to the court t
 	
 
 ### Ant-Man and the Wasp
-*Released on 2018-07-04, vote average 9*
+*Released on 2018-07-04, vote average 9.7*
 
 As Scott Lang balances being both a superhero and a father, Hope van Dyne and Dr. Hank Pym present an urgent new mission that finds the Ant-Man fighting alongside the Wasp to uncover secrets from their past.
 
