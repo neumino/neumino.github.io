@@ -46,8 +46,30 @@ FBI agent Matt Graver teams up with operative Alejandro Gillick to prevent Mexic
 	
 	
 
+### Tau
+*Released on 2018-06-20, vote average 6.6*
+
+Held captive in a futuristic smart house, a woman hopes to escape by befriending the A.I. program that controls the house.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/h9nrBkQ2YBo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Sanju
-*Released on 2018-06-29, vote average 9*
+*Released on 2018-06-29, vote average 8.8*
 
 Few lives in our times are as dramatic and enigmatic as the saga of Sanjay Dutt. Coming from a family of cinema legends, he himself became a film star, and then saw dizzying heights and darkest depths: adulation of diehard fans, unending battles with various addictions, brushes with the underworld, prison terms, loss of loved ones, and the haunting speculation that he might or might not be a terrorist.  Sanju is in turns a hilarious and heartbreaking exploration of one man’s battle against his own wild self and the formidable external forces trying to crush him. It depicts the journey of a man through everything that life can throw at him. Some true stories leave you thinking “did this really happen?” This is one such unbelievable story that happens to be true.
 
@@ -68,16 +90,16 @@ Few lives in our times are as dramatic and enigmatic as the saga of Sanjay Dutt.
 	
 	
 
-### Tau
-*Released on 2018-06-20, vote average 6.6*
+### Ideal Home
+*Released on 2018-06-21, vote average 6*
 
-Held captive in a futuristic smart house, a woman hopes to escape by befriending the A.I. program that controls the house.
+A gay couple are going through marital troubles made worse when a previously unknown grandson shows up.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/h9nrBkQ2YBo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/S8b1Dh-3fkw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -87,6 +109,23 @@ Held captive in a futuristic smart house, a woman hopes to escape by befriending
   
 
 
+	
+	
+
+### Woman Walks Ahead
+*Released on 2018-06-29, vote average 7*
+
+A headstrong New York painter embarks on a dangerous journey to meet Sitting Bull, but must face off with an Army officer intent war with the Native Americans.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/feJsLV7kqHU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -114,6 +153,33 @@ Uncle Drew recruits a squad of older basketball players to return to the court t
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Catcher Was a Spy
+*Released on 2018-06-22, vote average 8*
+
+Major league baseball player, Moe Berg, lives a double life working for the Office of Strategic Services.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Ffmzqctbkbo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -191,21 +257,6 @@ A married couple suspect that the &#39;smart apartments&#39; in their high tech 
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -214,7 +265,7 @@ A married couple suspect that the &#39;smart apartments&#39; in their high tech 
 	
 
 ### Ant-Man and the Wasp
-*Released on 2018-07-04, vote average 7.6*
+*Released on 2018-07-04, vote average 6.7*
 
 As Scott Lang balances being both a superhero and a father, Hope van Dyne and Dr. Hank Pym present an urgent new mission that finds the Ant-Man fighting alongside the Wasp to uncover secrets from their past.
 
@@ -233,7 +284,7 @@ As Scott Lang balances being both a superhero and a father, Hope van Dyne and Dr
 	
 
 ### The First Purge
-*Released on 2018-07-04, vote average 1.5*
+*Released on 2018-07-04, vote average 4.5*
 
 To push the crime rate below one percent for the rest of the year, the New Founding Fathers of America (NFFA) test a sociological theory that vents aggression for one night in one isolated community. But when the violence of the oppressors meets the rage of the marginalized, the contagion will explode from the trial-city borders and spread across the nation.
 
@@ -256,6 +307,23 @@ To push the crime rate below one percent for the rest of the year, the New Found
 
 	
 
+	
+	
+
+### Whitney
+*Released on 2018-07-06, vote average 10*
+
+Filmmaker Kevin Macdonald examines the life and career of singer Whitney Houston. Features never-before-seen archival footage, exclusive recordings, rare performances and interviews with the people who knew her best.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6-fB0VrW8rQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
