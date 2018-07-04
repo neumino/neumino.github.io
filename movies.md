@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Sicario: Day of the Soldado
-*Released on 2018-06-27, vote average 6.6*
+### Ant-Man and the Wasp
+*Released on 2018-07-04, vote average 6.1*
 
-FBI agent Matt Graver teams up with operative Alejandro Gillick to prevent Mexican drug cartels from smuggling terrorists across the U.S. border.
+As Scott Lang balances being both a superhero and a father, Hope van Dyne and Dr. Hank Pym present an urgent new mission that finds the Ant-Man fighting alongside the Wasp to uncover secrets from their past.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Pymm6cmE9uQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Ew7hvsnSbAY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -40,6 +40,50 @@ FBI agent Matt Graver teams up with operative Alejandro Gillick to prevent Mexic
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+  
+
+
+	
+	
+
+### Sicario: Day of the Soldado
+*Released on 2018-06-27, vote average 6.6*
+
+FBI agent Matt Graver teams up with operative Alejandro Gillick to prevent Mexican drug cartels from smuggling terrorists across the U.S. border.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Pymm6cmE9uQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The First Purge
+*Released on 2018-07-04, vote average 5.6*
+
+To push the crime rate below one percent for the rest of the year, the New Founding Fathers of America (NFFA) test a sociological theory that vents aggression for one night in one isolated community. But when the violence of the oppressors meets the rage of the marginalized, the contagion will explode from the trial-city borders and spread across the nation.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/gYYMnkoFtjM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
   
 
 
@@ -90,50 +134,6 @@ Few lives in our times are as dramatic and enigmatic as the saga of Sanjay Dutt.
 	
 	
 
-### Ideal Home
-*Released on 2018-06-21, vote average 6*
-
-A gay couple are going through marital troubles made worse when a previously unknown grandson shows up.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/S8b1Dh-3fkw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Woman Walks Ahead
-*Released on 2018-06-29, vote average 7*
-
-A headstrong New York painter embarks on a dangerous journey to meet Sitting Bull, but must face off with an Army officer intent war with the Native Americans.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/feJsLV7kqHU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Uncle Drew
 *Released on 2018-06-28, vote average 7*
 
@@ -159,32 +159,22 @@ Uncle Drew recruits a squad of older basketball players to return to the court t
 
 
 	
-
-  
-
-
-	
 	
 
-### The Catcher Was a Spy
-*Released on 2018-06-22, vote average 8*
+### Woman Walks Ahead
+*Released on 2018-06-29, vote average 7*
 
-Major league baseball player, Moe Berg, lives a double life working for the Office of Strategic Services.
+A headstrong New York painter embarks on a dangerous journey to meet Sitting Bull, but must face off with an Army officer intent war with the Native Americans.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Ffmzqctbkbo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/feJsLV7kqHU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -217,6 +207,50 @@ A married couple suspect that the &#39;smart apartments&#39; in their high tech 
   
 
 
+	
+	
+
+### Ideal Home
+*Released on 2018-06-21, vote average 5.7*
+
+A gay couple are going through marital troubles made worse when a previously unknown grandson shows up.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/S8b1Dh-3fkw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Catcher Was a Spy
+*Released on 2018-06-22, vote average 8*
+
+Major league baseball player, Moe Berg, lives a double life working for the Office of Strategic Services.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Ffmzqctbkbo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -265,7 +299,7 @@ A married couple suspect that the &#39;smart apartments&#39; in their high tech 
 	
 
 ### Ant-Man and the Wasp
-*Released on 2018-07-04, vote average 6.7*
+*Released on 2018-07-04, vote average 6.1*
 
 As Scott Lang balances being both a superhero and a father, Hope van Dyne and Dr. Hank Pym present an urgent new mission that finds the Ant-Man fighting alongside the Wasp to uncover secrets from their past.
 
@@ -284,7 +318,7 @@ As Scott Lang balances being both a superhero and a father, Hope van Dyne and Dr
 	
 
 ### The First Purge
-*Released on 2018-07-04, vote average 4.5*
+*Released on 2018-07-04, vote average 5.6*
 
 To push the crime rate below one percent for the rest of the year, the New Founding Fathers of America (NFFA) test a sociological theory that vents aggression for one night in one isolated community. But when the violence of the oppressors meets the rage of the marginalized, the contagion will explode from the trial-city borders and spread across the nation.
 
@@ -297,8 +331,6 @@ To push the crime rate below one percent for the rest of the year, the New Found
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
@@ -324,6 +356,8 @@ Filmmaker Kevin Macdonald examines the life and career of singer Whitney Houston
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
