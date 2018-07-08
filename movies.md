@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Ant-Man and the Wasp
-*Released on 2018-07-04, vote average 6.8*
+*Released on 2018-07-04, vote average 7.1*
 
 As Scott Lang balances being both a superhero and a father, Hope van Dyne and Dr. Hank Pym present an urgent new mission that finds the Ant-Man fighting alongside the Wasp to uncover secrets from their past.
 
@@ -91,7 +91,7 @@ FBI agent Matt Graver teams up with operative Alejandro Gillick to prevent Mexic
 	
 
 ### Big Legend
-*Released on 2018-07-01, vote average 5.7*
+*Released on 2018-07-01, vote average 6.3*
 
 An ex-soldier ventures into the Pacific Northwest to uncover the truth behind his fiance&#39;s disappearance.
 
@@ -113,7 +113,7 @@ An ex-soldier ventures into the Pacific Northwest to uncover the truth behind hi
 	
 
 ### The Death of Superman
-*Released on 2018-07-03, vote average 6*
+*Released on 2018-07-03, vote average 6.7*
 
 When a hulking monster emerges from an underground resting place and begins a mindless rampage, the Justice League is quickly called in to stop the colossal force of nature. But it soon becomes apparent that only Superman can stand against the monstrosity that has been nicknamed Doomsday.
 
@@ -126,33 +126,6 @@ When a hulking monster emerges from an underground resting place and begins a mi
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### Sanju
-*Released on 2018-06-29, vote average 8.4*
-
-Few lives in our times are as dramatic and enigmatic as the saga of Sanjay Dutt. Coming from a family of cinema legends, he himself became a film star, and then saw dizzying heights and darkest depths: adulation of diehard fans, unending battles with various addictions, brushes with the underworld, prison terms, loss of loved ones, and the haunting speculation that he might or might not be a terrorist.  Sanju is in turns a hilarious and heartbreaking exploration of one man’s battle against his own wild self and the formidable external forces trying to crush him. It depicts the journey of a man through everything that life can throw at him. Some true stories leave you thinking “did this really happen?” This is one such unbelievable story that happens to be true.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rRr1qiJRsXk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -188,16 +161,16 @@ Filmmaker Kevin Macdonald examines the life and career of singer Whitney Houston
 	
 	
 
-### Hover
-*Released on 2018-06-29, vote average 4*
+### Sanju
+*Released on 2018-06-29, vote average 8.2*
 
-In a near future when environmental havoc is causing food shortages and compelling the government to protect its organized crop system by deploying sentinel drones, a handful of locals discover a sinister connection between sick farmland inhabitants and the tech that’s meant to be protect them.
+Few lives in our times are as dramatic and enigmatic as the saga of Sanjay Dutt. Coming from a family of cinema legends, he himself became a film star, and then saw dizzying heights and darkest depths: adulation of diehard fans, unending battles with various addictions, brushes with the underworld, prison terms, loss of loved ones, and the haunting speculation that he might or might not be a terrorist.  Sanju is in turns a hilarious and heartbreaking exploration of one man’s battle against his own wild self and the formidable external forces trying to crush him. It depicts the journey of a man through everything that life can throw at him. Some true stories leave you thinking “did this really happen?” This is one such unbelievable story that happens to be true.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/P94PLpNzKiE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/rRr1qiJRsXk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -208,20 +181,10 @@ In a near future when environmental havoc is causing food shortages and compelli
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### Uncle Drew
-*Released on 2018-06-27, vote average 6.9*
+*Released on 2018-06-27, vote average 7.1*
 
 Uncle Drew recruits a squad of older basketball players to return to the court to compete in a tournament.
 
@@ -239,23 +202,6 @@ Uncle Drew recruits a squad of older basketball players to return to the court t
   
 
 
-	
-	
-
-### Woman Walks Ahead
-*Released on 2018-06-29, vote average 6.3*
-
-A headstrong New York painter embarks on a dangerous journey to meet Sitting Bull, but must face off with an Army officer intent war with the Native Americans.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/feJsLV7kqHU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -289,6 +235,28 @@ A man who is suffering a mid-life crisis finds new meaning in his life as part o
 
 
 	
+	
+
+### My Story
+*Released on 2018-07-06, vote average 1*
+
+My Story is a Malayalam movie starring Prithviraj Sukumaran and Parvathy in prominent roles. It is a drama movie directed by Roshni Dinakar, forming part of the crew.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KvZqiCEIG0s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 
   
 
@@ -303,6 +271,40 @@ A man who is suffering a mid-life crisis finds new meaning in his life as part o
   
 
 
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Hover
+*Released on 2018-06-29, vote average 4*
+
+In a near future when environmental havoc is causing food shortages and compelling the government to protect its organized crop system by deploying sentinel drones, a handful of locals discover a sinister connection between sick farmland inhabitants and the tech that’s meant to be protect them.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/P94PLpNzKiE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -313,10 +315,12 @@ A man who is suffering a mid-life crisis finds new meaning in his life as part o
 
 
 	
+
+	
 	
 
 ### Skyscraper
-*Released on 2018-07-11, vote average 5*
+*Released on 2018-07-11, vote average 7.5*
 
 Framed and on the run, a former FBI agent must save his family from a blazing fire in the world&#39;s tallest building.
 
@@ -329,8 +333,6 @@ Framed and on the run, a former FBI agent must save his family from a blazing fi
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
