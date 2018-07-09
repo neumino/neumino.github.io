@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Ant-Man and the Wasp
-*Released on 2018-07-04, vote average 7.1*
+*Released on 2018-07-04, vote average 7.2*
 
 As Scott Lang balances being both a superhero and a father, Hope van Dyne and Dr. Hank Pym present an urgent new mission that finds the Ant-Man fighting alongside the Wasp to uncover secrets from their past.
 
@@ -47,7 +47,7 @@ As Scott Lang balances being both a superhero and a father, Hope van Dyne and Dr
 	
 
 ### The First Purge
-*Released on 2018-07-04, vote average 6*
+*Released on 2018-07-04, vote average 6.4*
 
 To push the crime rate below one percent for the rest of the year, the New Founding Fathers of America test a sociological theory that vents aggression for one night in one isolated community. But when the violence of oppressors meets the rage of the others, the contagion will explode from the trial-city borders and spread across the nation.
 
@@ -90,6 +90,28 @@ FBI agent Matt Graver teams up with operative Alejandro Gillick to prevent Mexic
 	
 	
 
+### The Death of Superman
+*Released on 2018-07-03, vote average 7.3*
+
+When a hulking monster emerges from an underground resting place and begins a mindless rampage, the Justice League is quickly called in to stop the colossal force of nature. But it soon becomes apparent that only Superman can stand against the monstrosity that has been nicknamed Doomsday.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/yQoMhtoQw18?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Big Legend
 *Released on 2018-07-01, vote average 6.3*
 
@@ -112,16 +134,16 @@ An ex-soldier ventures into the Pacific Northwest to uncover the truth behind hi
 	
 	
 
-### The Death of Superman
-*Released on 2018-07-03, vote average 6.7*
+### Whitney
+*Released on 2018-07-06, vote average 8.8*
 
-When a hulking monster emerges from an underground resting place and begins a mindless rampage, the Justice League is quickly called in to stop the colossal force of nature. But it soon becomes apparent that only Superman can stand against the monstrosity that has been nicknamed Doomsday.
+Filmmaker Kevin Macdonald examines the life and career of singer Whitney Houston. Features never-before-seen archival footage, exclusive recordings, rare performances and interviews with the people who knew her best.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/yQoMhtoQw18?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/6-fB0VrW8rQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -132,23 +154,18 @@ When a hulking monster emerges from an underground resting place and begins a mi
 
 
 	
-
-  
-
-
-	
 	
 
-### Whitney
-*Released on 2018-07-06, vote average 10*
+### Sorry to Bother You
+*Released on 2018-07-06, vote average 8*
 
-Filmmaker Kevin Macdonald examines the life and career of singer Whitney Houston. Features never-before-seen archival footage, exclusive recordings, rare performances and interviews with the people who knew her best.
+In an alternate present-day version of Oakland, black telemarketer Cassius Green discovers a magical key to professional success – which propels him into a macabre universe.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/6-fB0VrW8rQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/enH3xA4mYcY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -184,7 +201,7 @@ Few lives in our times are as dramatic and enigmatic as the saga of Sanjay Dutt.
 	
 
 ### Uncle Drew
-*Released on 2018-06-27, vote average 7.1*
+*Released on 2018-06-27, vote average 6.8*
 
 Uncle Drew recruits a squad of older basketball players to return to the court to compete in a tournament.
 
@@ -202,6 +219,23 @@ Uncle Drew recruits a squad of older basketball players to return to the court t
   
 
 
+	
+	
+
+### Hover
+*Released on 2018-06-30, vote average 3.7*
+
+In a near future when environmental havoc is causing food shortages and compelling the government to protect its organized crop system by deploying sentinel drones, a handful of locals discover a sinister connection between sick farmland inhabitants and the tech that’s meant to be protect them.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/P94PLpNzKiE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -235,6 +269,58 @@ A man who is suffering a mid-life crisis finds new meaning in his life as part o
 
 
 	
+
+  
+
+
+	
+	
+
+### Woman Walks Ahead
+*Released on 2018-06-29, vote average 6.3*
+
+A headstrong New York painter embarks on a dangerous journey to meet Sitting Bull, but must face off with an Army officer intent war with the Native Americans.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/feJsLV7kqHU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### My Story
@@ -256,71 +342,15 @@ My Story is a Malayalam movie starring Prithviraj Sukumaran and Parvathy in prom
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Hover
-*Released on 2018-06-29, vote average 4*
-
-In a near future when environmental havoc is causing food shortages and compelling the government to protect its organized crop system by deploying sentinel drones, a handful of locals discover a sinister connection between sick farmland inhabitants and the tech that’s meant to be protect them.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/P94PLpNzKiE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 
 ## Opening soon
 
 
 	
-
-	
 	
 
 ### Skyscraper
-*Released on 2018-07-11, vote average 7.5*
+*Released on 2018-07-11, vote average 7*
 
 Framed and on the run, a former FBI agent must save his family from a blazing fire in the world&#39;s tallest building.
 
@@ -329,6 +359,25 @@ Framed and on the run, a former FBI agent must save his family from a blazing fi
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/6v-qs3ah-z0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### Hotel Transylvania 3: Summer Vacation
+*Released on 2018-07-12, vote average 6*
+
+Dracula, Mavis, Johnny and the rest of the Drac Pack take a vacation on a luxury Monster Cruise Ship, where Dracula falls in love with the ship&#39;s captain, Ericka, who&#39;s secretly a descendant of Abraham Van Helsing, the notorious monster slayer.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Gga6WrloxcE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
