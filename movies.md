@@ -68,6 +68,28 @@ To push the crime rate below one percent for the rest of the year, the New Found
 	
 	
 
+### Skyscraper
+*Released on 2018-07-11, vote average 7.5*
+
+Framed and on the run, a former FBI agent must save his family from a blazing fire in the world&#39;s tallest building.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6v-qs3ah-z0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Sicario: Day of the Soldado
 *Released on 2018-06-27, vote average 6.6*
 
@@ -113,7 +135,7 @@ An ex-soldier ventures into the Pacific Northwest to uncover the truth behind hi
 	
 
 ### The Death of Superman
-*Released on 2018-07-03, vote average 7.9*
+*Released on 2018-07-03, vote average 7.6*
 
 When a hulking monster emerges from an underground resting place and begins a mindless rampage, the Justice League is quickly called in to stop the colossal force of nature. But it soon becomes apparent that only Superman can stand against the monstrosity that has been nicknamed Doomsday.
 
@@ -131,72 +153,6 @@ When a hulking monster emerges from an underground resting place and begins a mi
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Whitney
-*Released on 2018-07-06, vote average 8.8*
-
-Filmmaker Kevin Macdonald examines the life and career of singer Whitney Houston. Features never-before-seen archival footage, exclusive recordings, rare performances and interviews with the people who knew her best.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/6-fB0VrW8rQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Uncle Drew
-*Released on 2018-06-27, vote average 6.9*
-
-Uncle Drew recruits a squad of older basketball players to return to the court to compete in a tournament.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/9H2SSvQ8ihA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Sanju
-*Released on 2018-06-29, vote average 8.2*
-
-Few lives in our times are as dramatic and enigmatic as the saga of Sanjay Dutt. Coming from a family of cinema legends, he himself became a film star, and then saw dizzying heights and darkest depths: adulation of diehard fans, unending battles with various addictions, brushes with the underworld, prison terms, loss of loved ones, and the haunting speculation that he might or might not be a terrorist.  Sanju is in turns a hilarious and heartbreaking exploration of one man’s battle against his own wild self and the formidable external forces trying to crush him. It depicts the journey of a man through everything that life can throw at him. Some true stories leave you thinking “did this really happen?” This is one such unbelievable story that happens to be true.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rRr1qiJRsXk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -225,42 +181,101 @@ In an alternate present-day version of Oakland, black telemarketer Cassius Green
 
 
 	
-
-  
-
-
 	
 
-  
+### Whitney
+*Released on 2018-07-06, vote average 8.8*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Woman Walks Ahead
-*Released on 2018-06-29, vote average 6.3*
-
-A headstrong New York painter embarks on a dangerous journey to meet Sitting Bull, but must face off with an Army officer intent war with the Native Americans.
+Filmmaker Kevin Macdonald examines the life and career of singer Whitney Houston. Features never-before-seen archival footage, exclusive recordings, rare performances and interviews with the people who knew her best.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/feJsLV7kqHU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/6-fB0VrW8rQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Uncle Drew
+*Released on 2018-06-27, vote average 6.8*
+
+Uncle Drew recruits a squad of older basketball players to return to the court to compete in a tournament.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/9H2SSvQ8ihA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Sanju
+*Released on 2018-06-29, vote average 8.2*
+
+Few lives in our times are as dramatic and enigmatic as the saga of Sanjay Dutt. Coming from a family of cinema legends, he himself became a film star, and then saw dizzying heights and darkest depths: adulation of diehard fans, unending battles with various addictions, brushes with the underworld, prison terms, loss of loved ones, and the haunting speculation that he might or might not be a terrorist.  Sanju is in turns a hilarious and heartbreaking exploration of one man’s battle against his own wild self and the formidable external forces trying to crush him. It depicts the journey of a man through everything that life can throw at him. Some true stories leave you thinking “did this really happen?” This is one such unbelievable story that happens to be true.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/rRr1qiJRsXk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -289,40 +304,6 @@ In a near future when environmental havoc is causing food shortages and compelli
 
 
 	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Swimming with Men
-*Released on 2018-07-06, vote average 8*
-
-A man who is suffering a mid-life crisis finds new meaning in his life as part of an all-male, middle-aged, amateur synchronised swimming team.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/f495YKIfuaw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -330,6 +311,25 @@ A man who is suffering a mid-life crisis finds new meaning in his life as part o
 
 ## Opening soon
 
+
+	
+	
+
+### Skyscraper
+*Released on 2018-07-11, vote average 7.5*
+
+Framed and on the run, a former FBI agent must save his family from a blazing fire in the world&#39;s tallest building.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6v-qs3ah-z0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 	
@@ -343,26 +343,7 @@ Dracula, Mavis, Johnny and the rest of the Drac Pack take a vacation on a luxury
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Gga6WrloxcE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Skyscraper
-*Released on 2018-07-11, vote average 7*
-
-Framed and on the run, a former FBI agent must save his family from a blazing fire in the world&#39;s tallest building.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/6v-qs3ah-z0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Ku52zNnft8k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
