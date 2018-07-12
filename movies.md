@@ -68,8 +68,30 @@ To push the crime rate below one percent for the rest of the year, the New Found
 	
 	
 
+### Hotel Transylvania 3: Summer Vacation
+*Released on 2018-07-12, vote average 7.4*
+
+Dracula, Mavis, Johnny and the rest of the Drac Pack take a vacation on a luxury Monster Cruise Ship, where Dracula falls in love with the ship&#39;s captain, Ericka, who&#39;s secretly a descendant of Abraham Van Helsing, the notorious monster slayer.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Ku52zNnft8k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Skyscraper
-*Released on 2018-07-11, vote average 7.5*
+*Released on 2018-07-11, vote average 6.8*
 
 Framed and on the run, a former FBI agent must save his family from a blazing fire in the world&#39;s tallest building.
 
@@ -90,16 +112,16 @@ Framed and on the run, a former FBI agent must save his family from a blazing fi
 	
 	
 
-### Sicario: Day of the Soldado
-*Released on 2018-06-27, vote average 6.6*
+### The Death of Superman
+*Released on 2018-07-03, vote average 7.9*
 
-FBI agent Matt Graver teams up with operative Alejandro Gillick to prevent Mexican drug cartels from smuggling terrorists across the U.S. border.
+When a hulking monster emerges from an underground resting place and begins a mindless rampage, the Justice League is quickly called in to stop the colossal force of nature. But it soon becomes apparent that only Superman can stand against the monstrosity that has been nicknamed Doomsday.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Pymm6cmE9uQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/yQoMhtoQw18?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -122,28 +144,6 @@ An ex-soldier ventures into the Pacific Northwest to uncover the truth behind hi
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/ad6rNYYvXKc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Death of Superman
-*Released on 2018-07-03, vote average 7.6*
-
-When a hulking monster emerges from an underground resting place and begins a mindless rampage, the Justice League is quickly called in to stop the colossal force of nature. But it soon becomes apparent that only Superman can stand against the monstrosity that has been nicknamed Doomsday.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/yQoMhtoQw18?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -208,28 +208,6 @@ Filmmaker Kevin Macdonald examines the life and career of singer Whitney Houston
 
 
 	
-	
-
-### Uncle Drew
-*Released on 2018-06-27, vote average 6.8*
-
-Uncle Drew recruits a squad of older basketball players to return to the court to compete in a tournament.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/9H2SSvQ8ihA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 
   
 
@@ -257,35 +235,10 @@ Few lives in our times are as dramatic and enigmatic as the saga of Sanjay Dutt.
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### Hover
-*Released on 2018-06-30, vote average 3.7*
+*Released on 2018-06-30, vote average 5.3*
 
 In a near future when environmental havoc is causing food shortages and compelling the government to protect its organized crop system by deploying sentinel drones, a handful of locals discover a sinister connection between sick farmland inhabitants and the tech that’s meant to be protect them.
 
@@ -308,6 +261,53 @@ In a near future when environmental havoc is causing food shortages and compelli
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Woman Walks Ahead
+*Released on 2018-06-29, vote average 6.4*
+
+A headstrong New York painter embarks on a dangerous journey to meet Sitting Bull, but must face off with an Army officer intent war with the Native Americans.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/feJsLV7kqHU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -315,27 +315,8 @@ In a near future when environmental havoc is causing food shortages and compelli
 	
 	
 
-### Skyscraper
-*Released on 2018-07-11, vote average 7.5*
-
-Framed and on the run, a former FBI agent must save his family from a blazing fire in the world&#39;s tallest building.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/6v-qs3ah-z0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
 ### Hotel Transylvania 3: Summer Vacation
-*Released on 2018-07-12, vote average 6.8*
+*Released on 2018-07-12, vote average 7.4*
 
 Dracula, Mavis, Johnny and the rest of the Drac Pack take a vacation on a luxury Monster Cruise Ship, where Dracula falls in love with the ship&#39;s captain, Ericka, who&#39;s secretly a descendant of Abraham Van Helsing, the notorious monster slayer.
 
@@ -348,6 +329,8 @@ Dracula, Mavis, Johnny and the rest of the Drac Pack take a vacation on a luxury
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
