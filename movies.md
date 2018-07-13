@@ -68,16 +68,16 @@ To push the crime rate below one percent for the rest of the year, the New Found
 	
 	
 
-### Hotel Transylvania 3: Summer Vacation
-*Released on 2018-07-12, vote average 7.4*
+### Skyscraper
+*Released on 2018-07-11, vote average 6.7*
 
-Dracula, Mavis, Johnny and the rest of the Drac Pack take a vacation on a luxury Monster Cruise Ship, where Dracula falls in love with the ship&#39;s captain, Ericka, who&#39;s secretly a descendant of Abraham Van Helsing, the notorious monster slayer.
+Framed and on the run, a former FBI agent must save his family from a blazing fire in the world&#39;s tallest building.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Ku52zNnft8k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/6v-qs3ah-z0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -90,16 +90,16 @@ Dracula, Mavis, Johnny and the rest of the Drac Pack take a vacation on a luxury
 	
 	
 
-### Skyscraper
-*Released on 2018-07-11, vote average 6.8*
+### Hotel Transylvania 3: Summer Vacation
+*Released on 2018-07-12, vote average 7.3*
 
-Framed and on the run, a former FBI agent must save his family from a blazing fire in the world&#39;s tallest building.
+Dracula, Mavis, Johnny and the rest of the Drac Pack take a vacation on a luxury Monster Cruise Ship, where Dracula falls in love with the ship&#39;s captain, Ericka, who&#39;s secretly a descendant of Abraham Van Helsing, the notorious monster slayer.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/6v-qs3ah-z0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Ku52zNnft8k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -154,6 +154,38 @@ An ex-soldier ventures into the Pacific Northwest to uncover the truth behind hi
 
 
 	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 
   
 
@@ -175,6 +207,33 @@ In an alternate present-day version of Oakland, black telemarketer Cassius Green
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Eighth Grade
+*Released on 2018-07-13, vote average 10*
+
+Thirteen-year-old Kayla endures the tidal wave of contemporary suburban adolescence as she makes her way through the last week of middle school — the end of her thus far disastrous eighth grade year — before she begins high school.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/y8lFgF_IjPw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -213,97 +272,6 @@ Filmmaker Kevin Macdonald examines the life and career of singer Whitney Houston
 
 
 	
-	
-
-### Sanju
-*Released on 2018-06-29, vote average 8.2*
-
-Few lives in our times are as dramatic and enigmatic as the saga of Sanjay Dutt. Coming from a family of cinema legends, he himself became a film star, and then saw dizzying heights and darkest depths: adulation of diehard fans, unending battles with various addictions, brushes with the underworld, prison terms, loss of loved ones, and the haunting speculation that he might or might not be a terrorist.  Sanju is in turns a hilarious and heartbreaking exploration of one man’s battle against his own wild self and the formidable external forces trying to crush him. It depicts the journey of a man through everything that life can throw at him. Some true stories leave you thinking “did this really happen?” This is one such unbelievable story that happens to be true.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rRr1qiJRsXk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Hover
-*Released on 2018-06-30, vote average 5.3*
-
-In a near future when environmental havoc is causing food shortages and compelling the government to protect its organized crop system by deploying sentinel drones, a handful of locals discover a sinister connection between sick farmland inhabitants and the tech that’s meant to be protect them.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/P94PLpNzKiE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Woman Walks Ahead
-*Released on 2018-06-29, vote average 6.4*
-
-A headstrong New York painter embarks on a dangerous journey to meet Sitting Bull, but must face off with an Army officer intent war with the Native Americans.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/feJsLV7kqHU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 
   
 
@@ -313,28 +281,28 @@ A headstrong New York painter embarks on a dangerous journey to meet Sitting Bul
 
 
 	
+
 	
 
-### Hotel Transylvania 3: Summer Vacation
-*Released on 2018-07-12, vote average 7.4*
+	
 
-Dracula, Mavis, Johnny and the rest of the Drac Pack take a vacation on a luxury Monster Cruise Ship, where Dracula falls in love with the ship&#39;s captain, Ericka, who&#39;s secretly a descendant of Abraham Van Helsing, the notorious monster slayer.
+	
+	
+
+### Eighth Grade
+*Released on 2018-07-13, vote average 10*
+
+Thirteen-year-old Kayla endures the tidal wave of contemporary suburban adolescence as she makes her way through the last week of middle school — the end of her thus far disastrous eighth grade year — before she begins high school.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Ku52zNnft8k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/y8lFgF_IjPw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
 	
 
 	
