@@ -47,7 +47,7 @@ As Scott Lang balances being both a superhero and a father, Hope van Dyne and Dr
 	
 
 ### The First Purge
-*Released on 2018-07-04, vote average 6.4*
+*Released on 2018-07-04, vote average 6.3*
 
 To push the crime rate below one percent for the rest of the year, the New Founding Fathers of America test a sociological theory that vents aggression for one night in one isolated community. But when the violence of oppressors meets the rage of the others, the contagion will explode from the trial-city borders and spread across the nation.
 
@@ -68,30 +68,8 @@ To push the crime rate below one percent for the rest of the year, the New Found
 	
 	
 
-### Skyscraper
-*Released on 2018-07-11, vote average 6.7*
-
-Framed and on the run, a former FBI agent must save his family from a blazing fire in the world&#39;s tallest building.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/6v-qs3ah-z0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Hotel Transylvania 3: Summer Vacation
-*Released on 2018-07-12, vote average 7.3*
+*Released on 2018-07-12, vote average 7.5*
 
 Dracula, Mavis, Johnny and the rest of the Drac Pack take a vacation on a luxury Monster Cruise Ship, where Dracula falls in love with the ship&#39;s captain, Ericka, who&#39;s secretly a descendant of Abraham Van Helsing, the notorious monster slayer.
 
@@ -112,8 +90,30 @@ Dracula, Mavis, Johnny and the rest of the Drac Pack take a vacation on a luxury
 	
 	
 
+### Skyscraper
+*Released on 2018-07-11, vote average 6.2*
+
+Framed and on the run, a former FBI agent must save his family from a blazing fire in the world&#39;s tallest building.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6v-qs3ah-z0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Death of Superman
-*Released on 2018-07-03, vote average 7.9*
+*Released on 2018-07-03, vote average 8.1*
 
 When a hulking monster emerges from an underground resting place and begins a mindless rampage, the Justice League is quickly called in to stop the colossal force of nature. But it soon becomes apparent that only Superman can stand against the monstrosity that has been nicknamed Doomsday.
 
@@ -155,6 +155,21 @@ An ex-soldier ventures into the Pacific Northwest to uncover the truth behind hi
 
 	
 	
+
+### Eighth Grade
+*Released on 2018-07-13, vote average 10*
+
+Thirteen-year-old Kayla endures the tidal wave of contemporary suburban adolescence as she makes her way through the last week of middle school — the end of her thus far disastrous eighth grade year — before she begins high school.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/y8lFgF_IjPw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -180,6 +195,8 @@ An ex-soldier ventures into the Pacific Northwest to uncover the truth behind hi
   
 
 
+	
+	
 	
 
   
@@ -213,23 +230,6 @@ In an alternate present-day version of Oakland, black telemarketer Cassius Green
 
 
 	
-	
-
-### Eighth Grade
-*Released on 2018-07-13, vote average 10*
-
-Thirteen-year-old Kayla endures the tidal wave of contemporary suburban adolescence as she makes her way through the last week of middle school — the end of her thus far disastrous eighth grade year — before she begins high school.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/y8lFgF_IjPw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -239,23 +239,6 @@ Thirteen-year-old Kayla endures the tidal wave of contemporary suburban adolesce
   
 
 
-	
-	
-
-### Whitney
-*Released on 2018-07-06, vote average 8.8*
-
-Filmmaker Kevin Macdonald examines the life and career of singer Whitney Houston. Features never-before-seen archival footage, exclusive recordings, rare performances and interviews with the people who knew her best.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/6-fB0VrW8rQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -283,22 +266,18 @@ Filmmaker Kevin Macdonald examines the life and career of singer Whitney Houston
 	
 
 	
-
 	
 
-	
-	
+### Mamma Mia! Here We Go Again
+*Released on 2018-07-19, vote average 3*
 
-### Eighth Grade
-*Released on 2018-07-13, vote average 10*
-
-Thirteen-year-old Kayla endures the tidal wave of contemporary suburban adolescence as she makes her way through the last week of middle school — the end of her thus far disastrous eighth grade year — before she begins high school.
+Sophie finds out more about her mother&#39;s past while seeking guidance on how to handle her pregnancy.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/y8lFgF_IjPw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/XcSMdhfKga4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -313,6 +292,12 @@ Thirteen-year-old Kayla endures the tidal wave of contemporary suburban adolesce
 
 	
 
+	
+
+	
+
+	
+	
 	
 
 	
