@@ -15,7 +15,7 @@ This is a convenient page that embeds trailers of movies released in the past
 ### Ant-Man and the Wasp
 *Released on 2018-07-04, vote average 7.2*
 
-As Scott Lang balances being both a superhero and a father, Hope van Dyne and Dr. Hank Pym present an urgent new mission that finds the Ant-Man fighting alongside the Wasp to uncover secrets from their past.
+As Scott Lang awaits expiration of his term of house detention, Hope van Dyne and Dr. Hank Pym involve him in a scheme to rescue Mrs. van Dyne from the micro-universe into which she has fallen, while two groups of schemers converge on them with intentions of stealing Dr. Pym&#39;s inventions.
 
 <iframe id="player"
 	type="text/html"
@@ -47,7 +47,7 @@ As Scott Lang balances being both a superhero and a father, Hope van Dyne and Dr
 	
 
 ### The First Purge
-*Released on 2018-07-04, vote average 6.3*
+*Released on 2018-07-04, vote average 6.2*
 
 To push the crime rate below one percent for the rest of the year, the New Founding Fathers of America test a sociological theory that vents aggression for one night in one isolated community. But when the violence of oppressors meets the rage of the others, the contagion will explode from the trial-city borders and spread across the nation.
 
@@ -56,28 +56,6 @@ To push the crime rate below one percent for the rest of the year, the New Found
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/gYYMnkoFtjM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Hotel Transylvania 3: Summer Vacation
-*Released on 2018-07-12, vote average 7.5*
-
-Dracula, Mavis, Johnny and the rest of the Drac Pack take a vacation on a luxury Monster Cruise Ship, where Dracula falls in love with the ship&#39;s captain, Ericka, who&#39;s secretly a descendant of Abraham Van Helsing, the notorious monster slayer.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Ku52zNnft8k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,6 +90,33 @@ Framed and on the run, a former FBI agent must save his family from a blazing fi
 	
 	
 
+### Hotel Transylvania 3: Summer Vacation
+*Released on 2018-07-12, vote average 7.8*
+
+Dracula, Mavis, Johnny and the rest of the Drac Pack take a vacation on a luxury Monster Cruise Ship, where Dracula falls in love with the ship&#39;s captain, Ericka, who&#39;s secretly a descendant of Abraham Van Helsing, the notorious monster slayer.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Ku52zNnft8k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### The Death of Superman
 *Released on 2018-07-03, vote average 8.1*
 
@@ -132,18 +137,23 @@ When a hulking monster emerges from an underground resting place and begins a mi
 
 
 	
+
+  
+
+
+	
 	
 
-### Big Legend
-*Released on 2018-07-01, vote average 6.3*
+### Shock and Awe
+*Released on 2018-07-13, vote average 5*
 
-An ex-soldier ventures into the Pacific Northwest to uncover the truth behind his fiance&#39;s disappearance.
+A group of journalists covering George Bush&#39;s planned invasion of Iraq in 2003 are skeptical of the presidents claim that Saddam Hussein has &#34;weapons of mass destruction.&#34;
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ad6rNYYvXKc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ZjJI_FMg1Xc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -176,50 +186,50 @@ Thirteen-year-old Kayla endures the tidal wave of contemporary suburban adolesce
 
 
 	
-
-  
-
-
 	
 
-  
+### How It Ends
+*Released on 2018-07-13, vote average 6*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Sorry to Bother You
-*Released on 2018-07-06, vote average 8*
-
-In an alternate present-day version of Oakland, black telemarketer Cassius Green discovers a magical key to professional success – which propels him into a macabre universe.
+A desperate father tries to return home to his pregnant wife after a mysterious apocalyptic event turns everything to chaos.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/enH3xA4mYcY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/WJyyJ7lexnM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Jim Jefferies: This Is Me Now
+*Released on 2018-07-13, vote average 10*
+
+The gleefully irreverent Jefferies skewers “grabby” celebrities, political hypocrisy and his own ill-advised career moves in a brash stand-up special.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pwLZSyIRuAc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -245,6 +255,45 @@ In an alternate present-day version of Oakland, black telemarketer Cassius Green
 
 
 	
+	
+
+### Sorry to Bother You
+*Released on 2018-07-06, vote average 7.7*
+
+In an alternate present-day version of Oakland, black telemarketer Cassius Green discovers a magical key to professional success – which propels him into a macabre universe.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/enH3xA4mYcY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Big Legend
+*Released on 2018-07-01, vote average 6.3*
+
+An ex-soldier ventures into the Pacific Northwest to uncover the truth behind his fiance&#39;s disappearance.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ad6rNYYvXKc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -264,12 +313,10 @@ In an alternate present-day version of Oakland, black telemarketer Cassius Green
 
 
 	
-
-	
 	
 
 ### Mamma Mia! Here We Go Again
-*Released on 2018-07-19, vote average 3*
+*Released on 2018-07-19, vote average 4.3*
 
 Sophie finds out more about her mother&#39;s past while seeking guidance on how to handle her pregnancy.
 
@@ -297,7 +344,7 @@ Sophie finds out more about her mother&#39;s past while seeking guidance on how 
 	
 
 	
-	
+
 	
 
 	
