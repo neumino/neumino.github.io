@@ -69,7 +69,7 @@ To push the crime rate below one percent for the rest of the year, the New Found
 	
 
 ### Skyscraper
-*Released on 2018-07-11, vote average 6.3*
+*Released on 2018-07-11, vote average 6*
 
 Framed and on the run, a former FBI agent must save his family from a blazing fire in the world&#39;s tallest building.
 
@@ -91,7 +91,7 @@ Framed and on the run, a former FBI agent must save his family from a blazing fi
 	
 
 ### Hotel Transylvania 3: Summer Vacation
-*Released on 2018-07-12, vote average 7.5*
+*Released on 2018-07-12, vote average 7.3*
 
 Dracula, Mavis, Johnny and the rest of the Drac Pack take a vacation on a luxury Monster Cruise Ship, where Dracula falls in love with the ship&#39;s captain, Ericka, who&#39;s secretly a descendant of Abraham Van Helsing, the notorious monster slayer.
 
@@ -100,6 +100,50 @@ Dracula, Mavis, Johnny and the rest of the Drac Pack take a vacation on a luxury
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/Ku52zNnft8k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Siberia
+*Released on 2018-07-13, vote average 5*
+
+A diamond trader travels to Russia to arrange a sale. When his partner goes missing (along with the gems), the diamond trader winds up disappearing to Siberia. There, he begins a relationship with a local cafe owner, only to have his past soon catch up with him.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FrXPIZN2ehY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### How It Ends
+*Released on 2018-07-13, vote average 5.3*
+
+A desperate father tries to return home to his pregnant wife after a mysterious apocalyptic event turns everything to chaos.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/WJyyJ7lexnM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -135,7 +179,7 @@ A group of journalists covering George Bush&#39;s planned invasion of Iraq in 20
 	
 
 ### The Death of Superman
-*Released on 2018-07-03, vote average 7.9*
+*Released on 2018-07-03, vote average 7.8*
 
 When a hulking monster emerges from an underground resting place and begins a mindless rampage, the Justice League is quickly called in to stop the colossal force of nature. But it soon becomes apparent that only Superman can stand against the monstrosity that has been nicknamed Doomsday.
 
@@ -186,6 +230,11 @@ Thirteen-year-old Kayla endures the tidal wave of contemporary suburban adolesce
 
 
 	
+
+  
+
+
+	
 	
 
 ### Jim Jefferies: This Is Me Now
@@ -202,16 +251,6 @@ The gleefully irreverent Jefferies skewers “grabby” celebrities, political h
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -240,23 +279,6 @@ In an alternate present-day version of Oakland, black telemarketer Cassius Green
 
 
 	
-	
-
-### On the Ropes
-*Released on 2018-07-03, vote average 4*
-
-Following the sudden death of their father, two brothers realize the greatest threat to their criminal empire might just be each other. A no-holds-barred battle for power ensues that threatens to destroy everything their old man built.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rLjeQXlX_SE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -281,13 +303,6 @@ Following the sudden death of their father, two brothers realize the greatest th
   
 
 
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -301,7 +316,7 @@ Following the sudden death of their father, two brothers realize the greatest th
 	
 
 ### Mamma Mia! Here We Go Again
-*Released on 2018-07-19, vote average 4.3*
+*Released on 2018-07-19, vote average 5.8*
 
 Sophie finds out more about her mother&#39;s past while seeking guidance on how to handle her pregnancy.
 
@@ -336,8 +351,6 @@ Sophie finds out more about her mother&#39;s past while seeking guidance on how 
 
 	
 
-	
-	
 	
 
 	
