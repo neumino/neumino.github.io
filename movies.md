@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Skyscraper
-*Released on 2018-07-11, vote average 6*
+*Released on 2018-07-11, vote average 6.1*
 
 Framed and on the run, a former FBI agent must save his family from a blazing fire in the world&#39;s tallest building.
 
@@ -46,30 +46,8 @@ Framed and on the run, a former FBI agent must save his family from a blazing fi
 	
 	
 
-### How It Ends
-*Released on 2018-07-13, vote average 5.2*
-
-A desperate father tries to return home to his pregnant wife after a mysterious apocalyptic event turns everything to chaos.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/WJyyJ7lexnM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Mamma Mia! Here We Go Again
-*Released on 2018-07-18, vote average 6.5*
+*Released on 2018-07-18, vote average 6.8*
 
 On the Greek island of Kalokairi, the daughter of Donna Sheridan, Sophie, finds out more about her mother&#39;s past while seeking guidance on how to handle her pregnancy.
 
@@ -91,7 +69,7 @@ On the Greek island of Kalokairi, the daughter of Donna Sheridan, Sophie, finds 
 	
 
 ### The Equalizer 2
-*Released on 2018-07-19, vote average 5.9*
+*Released on 2018-07-19, vote average 6.4*
 
 Robert McCall returns to deliver his special brand of vigilante justice -- but how far will he go when it&#39;s someone he loves?
 
@@ -104,6 +82,124 @@ Robert McCall returns to deliver his special brand of vigilante justice -- but h
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Billionaire Boys Club
+*Released on 2018-07-19, vote average 6.3*
+
+Led by their fellow preppie friend Joe Hunt, a group of wealthy boys in Los Angeles during the early 1980s establish a get rich quick scam that turns deadly.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ldjNA0_7mIk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Zoe
+*Released on 2018-07-19, vote average 8*
+
+Two colleagues at a revolutionary research lab design technology to improve and perfect romantic relationships. As their work progresses, their discoveries become more profound.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_QdVzr1UGZ0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Miseducation of Cameron Post
+*Released on 2018-07-18, vote average 8.1*
+
+1993: after being caught having sex with the prom queen, a girl is forced into a gay conversion therapy center.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/VEdngvMGjg0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Signed, Sealed, Delivered: To the Altar
+*Released on 2018-07-15, vote average 8*
+
+The team work to reunite a wedding dress with its rightful recipient, but find that they may have far more to do. Meanwhile, Rita and Norman’s wedding plans present new challenges.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8a-CFkNuT4o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -138,21 +234,6 @@ A diamond trader travels to Russia to arrange a sale. When his partner goes miss
 
 	
 	
-
-### The Miseducation of Cameron Post
-*Released on 2018-07-18, vote average 8.1*
-
-1993: after being caught having sex with the prom queen, a girl is forced into a gay conversion therapy center.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/VEdngvMGjg0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -161,82 +242,16 @@ A diamond trader travels to Russia to arrange a sale. When his partner goes miss
 	
 	
 
-### Zoe
-*Released on 2018-07-19, vote average 8*
+### Father of the Year
+*Released on 2018-07-20, vote average 5.9*
 
-Two colleagues at a revolutionary research lab design technology to improve and perfect romantic relationships. As their work progresses, their discoveries become more profound.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/_QdVzr1UGZ0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Billionaire Boys Club
-*Released on 2018-07-19, vote average 6.3*
-
-Led by their fellow preppie friend Joe Hunt, a group of wealthy boys in Los Angeles during the early 1980s establish a get rich quick scam that turns deadly.
+Two college grads return to their hometown, where a hypothetical question -- whose dad would win in a fight? -- leads to mass mayhem.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ldjNA0_7mIk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Signed, Sealed, Delivered: To the Altar
-*Released on 2018-07-15, vote average 8*
-
-The team work to reunite a wedding dress with its rightful recipient, but find that they may have far more to do. Meanwhile, Rita and Norman’s wedding plans present new challenges.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8a-CFkNuT4o?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Shock and Awe
-*Released on 2018-07-13, vote average 7*
-
-A group of journalists covering George Bush&#39;s planned invasion of Iraq in 2003 are skeptical of the presidents claim that Saddam Hussein has &#34;weapons of mass destruction.&#34;
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZjJI_FMg1Xc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/eYFezrCkbAQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -269,71 +284,22 @@ Thirteen-year-old Kayla endures the tidal wave of contemporary suburban adolesce
 
 
 	
-
-  
-
-
-	
-	
 	
 
-  
+### Buffalo Boys
+*Released on 2018-07-19, vote average 4*
 
-
-	
-
-  
-
-
-	
-	
-
-### Jim Jefferies: This Is Me Now
-*Released on 2018-07-13, vote average 7*
-
-The gleefully irreverent Jefferies skewers “grabby” celebrities, political hypocrisy and his own ill-advised career moves in a brash stand-up special.
+The core of this action movie story is about two original people of Javanese descent (Indonesia) revenge against the ruler of the VOC.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/pwLZSyIRuAc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-rvwva5a1p8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Father of the Year
-*Released on 2018-07-20, vote average 7*
-
-Two college grads return to their hometown, where a hypothetical question -- whose dad would win in a fight? -- leads to mass mayhem.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/eYFezrCkbAQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -370,8 +336,6 @@ When an IMF mission ends badly, the world is faced with dire consequences. As Et
 	
 
 	
-
-	
 	
 
 ### Papillon
@@ -388,6 +352,8 @@ Henri Charriere, called &#34;Papillon&#34; for the butterfly tattoo on his chest
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
