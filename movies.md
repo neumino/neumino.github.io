@@ -21,7 +21,7 @@ Framed and on the run, a former FBI agent must save his family from a blazing fi
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/6v-qs3ah-z0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/t9QePUT-Yt8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,8 +68,30 @@ On the Greek island of Kalokairi, the daughter of Donna Sheridan, Sophie, finds 
 	
 	
 
+### How It Ends
+*Released on 2018-07-13, vote average 5.2*
+
+A desperate father tries to return home to his pregnant wife after a mysterious apocalyptic event turns everything to chaos.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/WJyyJ7lexnM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Equalizer 2
-*Released on 2018-07-19, vote average 6.4*
+*Released on 2018-07-19, vote average 5.3*
 
 Robert McCall returns to deliver his special brand of vigilante justice -- but how far will he go when it&#39;s someone he loves?
 
@@ -88,23 +110,18 @@ Robert McCall returns to deliver his special brand of vigilante justice -- but h
 
 
 	
-
-  
-
-
-	
 	
 
-### Billionaire Boys Club
-*Released on 2018-07-19, vote average 6.3*
+### Unfriended: Dark Web
+*Released on 2018-07-20, vote average 6.8*
 
-Led by their fellow preppie friend Joe Hunt, a group of wealthy boys in Los Angeles during the early 1980s establish a get rich quick scam that turns deadly.
+​When a 20-something finds a cache of hidden files on his new laptop, he and his friends are unwittingly thrust into the depths of the dark web.  They soon discover someone has been watching their every move and will go to unimaginable lengths to protect the dark web.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ldjNA0_7mIk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/4DJAWGXkvq8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -115,15 +132,10 @@ Led by their fellow preppie friend Joe Hunt, a group of wealthy boys in Los Ange
 
 
 	
-
-  
-
-
-	
 	
 
 ### Zoe
-*Released on 2018-07-19, vote average 8*
+*Released on 2018-07-19, vote average 8.5*
 
 Two colleagues at a revolutionary research lab design technology to improve and perfect romantic relationships. As their work progresses, their discoveries become more profound.
 
@@ -142,69 +154,22 @@ Two colleagues at a revolutionary research lab design technology to improve and 
 
 
 	
-
-  
-
-
-	
 	
 
-### The Miseducation of Cameron Post
-*Released on 2018-07-18, vote average 8.1*
+### Billionaire Boys Club
+*Released on 2018-07-19, vote average 5.4*
 
-1993: after being caught having sex with the prom queen, a girl is forced into a gay conversion therapy center.
+Led by their fellow preppie friend Joe Hunt, a group of wealthy boys in Los Angeles during the early 1980s establish a get rich quick scam that turns deadly.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/VEdngvMGjg0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ldjNA0_7mIk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Signed, Sealed, Delivered: To the Altar
-*Released on 2018-07-15, vote average 8*
-
-The team work to reunite a wedding dress with its rightful recipient, but find that they may have far more to do. Meanwhile, Rita and Norman’s wedding plans present new challenges.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8a-CFkNuT4o?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -214,7 +179,7 @@ The team work to reunite a wedding dress with its rightful recipient, but find t
 	
 
 ### Siberia
-*Released on 2018-07-13, vote average 3.9*
+*Released on 2018-07-13, vote average 4.6*
 
 A diamond trader travels to Russia to arrange a sale. When his partner goes missing (along with the gems), the diamond trader winds up disappearing to Siberia. There, he begins a relationship with a local cafe owner, only to have his past soon catch up with him.
 
@@ -234,16 +199,9 @@ A diamond trader travels to Russia to arrange a sale. When his partner goes miss
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Father of the Year
-*Released on 2018-07-20, vote average 5.9*
+*Released on 2018-07-20, vote average 6.3*
 
 Two college grads return to their hometown, where a hypothetical question -- whose dad would win in a fight? -- leads to mass mayhem.
 
@@ -252,6 +210,82 @@ Two college grads return to their hometown, where a hypothetical question -- who
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/eYFezrCkbAQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Broken Star
+*Released on 2018-07-20, vote average 7*
+
+Abandoned by her friends and family and with her career in jeopardy, starlet Markey Marlowe is sequestered in a duplex with a reclusive landlord who just may be more dangerous than she is.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/WKNyptlKEHY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Shock and Awe
+*Released on 2018-07-13, vote average 7.5*
+
+A group of journalists covering George Bush&#39;s planned invasion of Iraq in 2003 are skeptical of the presidents claim that Saddam Hussein has &#34;weapons of mass destruction.&#34;
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZjJI_FMg1Xc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Miseducation of Cameron Post
+*Released on 2018-07-18, vote average 8.1*
+
+1993: after being caught having sex with the prom queen, a girl is forced into a gay conversion therapy center.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/VEdngvMGjg0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -284,27 +318,27 @@ Thirteen-year-old Kayla endures the tidal wave of contemporary suburban adolesce
 
 
 	
-	
 
-### Buffalo Boys
-*Released on 2018-07-19, vote average 4*
+  
 
-The core of this action movie story is about two original people of Javanese descent (Indonesia) revenge against the ruler of the VOC.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-rvwva5a1p8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -318,7 +352,7 @@ The core of this action movie story is about two original people of Javanese des
 	
 
 ### Mission: Impossible - Fallout
-*Released on 2018-07-25, vote average 5.7*
+*Released on 2018-07-25, vote average 5.3*
 
 When an IMF mission ends badly, the world is faced with dire consequences. As Ethan Hunt takes it upon himself to fulfil his original briefing, the CIA begin to question his loyalty and his motives. The IMF team find themselves in a race against time, hunted by assassins while trying to prevent a global catastrophe.
 
