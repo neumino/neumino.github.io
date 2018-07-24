@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Skyscraper
-*Released on 2018-07-11, vote average 6.1*
+### Mamma Mia! Here We Go Again
+*Released on 2018-07-18, vote average 7*
 
-Framed and on the run, a former FBI agent must save his family from a blazing fire in the world&#39;s tallest building.
+On the Greek island of Kalokairi, the daughter of Donna Sheridan, Sophie, finds out more about her mother&#39;s past while seeking guidance on how to handle her pregnancy.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/t9QePUT-Yt8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/XcSMdhfKga4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,52 +46,8 @@ Framed and on the run, a former FBI agent must save his family from a blazing fi
 	
 	
 
-### Mamma Mia! Here We Go Again
-*Released on 2018-07-18, vote average 6.8*
-
-On the Greek island of Kalokairi, the daughter of Donna Sheridan, Sophie, finds out more about her mother&#39;s past while seeking guidance on how to handle her pregnancy.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XcSMdhfKga4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### How It Ends
-*Released on 2018-07-13, vote average 5.2*
-
-A desperate father tries to return home to his pregnant wife after a mysterious apocalyptic event turns everything to chaos.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/WJyyJ7lexnM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Equalizer 2
-*Released on 2018-07-19, vote average 5.3*
+*Released on 2018-07-19, vote average 5.6*
 
 Robert McCall returns to deliver his special brand of vigilante justice -- but how far will he go when it&#39;s someone he loves?
 
@@ -112,8 +68,30 @@ Robert McCall returns to deliver his special brand of vigilante justice -- but h
 	
 	
 
+### Skyscraper
+*Released on 2018-07-11, vote average 6*
+
+Framed and on the run, a former FBI agent must save his family from a blazing fire in the world&#39;s tallest building.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/t9QePUT-Yt8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Unfriended: Dark Web
-*Released on 2018-07-20, vote average 6.8*
+*Released on 2018-07-20, vote average 5.2*
 
 ​When a 20-something finds a cache of hidden files on his new laptop, he and his friends are unwittingly thrust into the depths of the dark web.  They soon discover someone has been watching their every move and will go to unimaginable lengths to protect the dark web.
 
@@ -135,7 +113,7 @@ Robert McCall returns to deliver his special brand of vigilante justice -- but h
 	
 
 ### Zoe
-*Released on 2018-07-19, vote average 8.5*
+*Released on 2018-07-19, vote average 6.3*
 
 Two colleagues at a revolutionary research lab design technology to improve and perfect romantic relationships. As their work progresses, their discoveries become more profound.
 
@@ -156,8 +134,30 @@ Two colleagues at a revolutionary research lab design technology to improve and 
 	
 	
 
+### Broken Star
+*Released on 2018-07-20, vote average 7*
+
+Abandoned by her friends and family and with her career in jeopardy, starlet Markey Marlowe is sequestered in a duplex with a reclusive landlord who just may be more dangerous than she is.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/WKNyptlKEHY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Billionaire Boys Club
-*Released on 2018-07-19, vote average 5.4*
+*Released on 2018-07-19, vote average 5*
 
 Led by their fellow preppie friend Joe Hunt, a group of wealthy boys in Los Angeles during the early 1980s establish a get rich quick scam that turns deadly.
 
@@ -200,16 +200,16 @@ A diamond trader travels to Russia to arrange a sale. When his partner goes miss
 	
 	
 
-### Father of the Year
-*Released on 2018-07-20, vote average 6.3*
+### Dhadak
+*Released on 2018-07-20, vote average 10*
 
-Two college grads return to their hometown, where a hypothetical question -- whose dad would win in a fight? -- leads to mass mayhem.
+Madhukar and Parthavi fall head over heels in love with each other, but the fact that they belong to different castes of society, becomes an obstacle in their romance. The lovers dare to go against societal norms and battle all odds for the sake of love.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/eYFezrCkbAQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/XRyCqjuERGk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -220,23 +220,18 @@ Two college grads return to their hometown, where a hypothetical question -- who
 
 
 	
-
-  
-
-
-	
 	
 
-### Broken Star
-*Released on 2018-07-20, vote average 7*
+### Father of the Year
+*Released on 2018-07-20, vote average 5.6*
 
-Abandoned by her friends and family and with her career in jeopardy, starlet Markey Marlowe is sequestered in a duplex with a reclusive landlord who just may be more dangerous than she is.
+Two college grads return to their hometown, where a hypothetical question -- whose dad would win in a fight? -- leads to mass mayhem.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/WKNyptlKEHY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/eYFezrCkbAQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -263,7 +258,7 @@ A group of journalists covering George Bush&#39;s planned invasion of Iraq in 20
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ZjJI_FMg1Xc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-9xTDZDYfI8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -286,6 +281,28 @@ A group of journalists covering George Bush&#39;s planned invasion of Iraq in 20
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/VEdngvMGjg0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### How It Ends
+*Released on 2018-07-13, vote average 5.2*
+
+A desperate father tries to return home to his pregnant wife after a mysterious apocalyptic event turns everything to chaos.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/WJyyJ7lexnM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -328,17 +345,32 @@ Thirteen-year-old Kayla endures the tidal wave of contemporary suburban adolesce
 
 
 	
+	
 
-  
+### Signed, Sealed, Delivered: To the Altar
+*Released on 2018-07-15, vote average 8*
 
+The team work to reunite a wedding dress with its rightful recipient, but find that they may have far more to do. Meanwhile, Rita and Norman’s wedding plans present new challenges.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8a-CFkNuT4o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
 
 
 	
-	
+
+  
+
+
 	
 
   
@@ -352,7 +384,7 @@ Thirteen-year-old Kayla endures the tidal wave of contemporary suburban adolesce
 	
 
 ### Mission: Impossible - Fallout
-*Released on 2018-07-25, vote average 5.3*
+*Released on 2018-07-25, vote average 5.2*
 
 When an IMF mission ends badly, the world is faced with dire consequences. As Ethan Hunt takes it upon himself to fulfil his original briefing, the CIA begin to question his loyalty and his motives. The IMF team find themselves in a race against time, hunted by assassins while trying to prevent a global catastrophe.
 
@@ -365,8 +397,6 @@ When an IMF mission ends badly, the world is faced with dire consequences. As Et
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
@@ -386,6 +416,8 @@ Henri Charriere, called &#34;Papillon&#34; for the butterfly tattoo on his chest
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
