@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Mission: Impossible - Fallout
-*Released on 2018-07-25, vote average 6.8*
+*Released on 2018-07-25, vote average 7.5*
 
 When an IMF mission ends badly, the world is faced with dire consequences. As Ethan Hunt takes it upon himself to fulfil his original briefing, the CIA begin to question his loyalty and his motives. The IMF team find themselves in a race against time, hunted by assassins while trying to prevent a global catastrophe.
 
@@ -69,7 +69,7 @@ Robert McCall returns to deliver his special brand of vigilante justice -- but h
 	
 
 ### Mamma Mia! Here We Go Again
-*Released on 2018-07-18, vote average 7.4*
+*Released on 2018-07-18, vote average 7.5*
 
 On the Greek island of Kalokairi, the daughter of Donna Sheridan, Sophie, finds out more about her mother&#39;s past while seeking guidance on how to handle her pregnancy.
 
@@ -91,7 +91,7 @@ On the Greek island of Kalokairi, the daughter of Donna Sheridan, Sophie, finds 
 	
 
 ### Father of the Year
-*Released on 2018-07-20, vote average 5.6*
+*Released on 2018-07-20, vote average 5.7*
 
 Two college grads return to their hometown, where a hypothetical question -- whose dad would win in a fight? -- leads to mass mayhem.
 
@@ -100,116 +100,6 @@ Two college grads return to their hometown, where a hypothetical question -- who
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/eYFezrCkbAQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### How It Ends
-*Released on 2018-07-13, vote average 5.2*
-
-A desperate father tries to return home to his pregnant wife after a mysterious apocalyptic event turns everything to chaos.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/WJyyJ7lexnM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Zoe
-*Released on 2018-07-19, vote average 5.5*
-
-Two colleagues at a revolutionary research lab design technology to improve and perfect romantic relationships. As their work progresses, their discoveries become more profound.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/_QdVzr1UGZ0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Unfriended: Dark Web
-*Released on 2018-07-19, vote average 5.6*
-
-​When a 20-something finds a cache of hidden files on his new laptop, he and his friends are unwittingly thrust into the depths of the dark web.  They soon discover someone has been watching their every move and will go to unimaginable lengths to protect the dark web.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/4DJAWGXkvq8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Siberia
-*Released on 2018-07-13, vote average 4.7*
-
-A diamond trader travels to Russia to arrange a sale. When his partner goes missing (along with the gems), the diamond trader winds up disappearing to Siberia. There, he begins a relationship with a local cafe owner, only to have his past soon catch up with him.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FrXPIZN2ehY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Billionaire Boys Club
-*Released on 2018-07-19, vote average 4.7*
-
-Led by their fellow preppie friend Joe Hunt, a group of wealthy boys in Los Angeles during the early 1980s establish a get rich quick scam that turns deadly.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ldjNA0_7mIk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -242,6 +132,23 @@ Henri Charriere, called &#34;Papillon&#34; for the butterfly tattoo on his chest
 
 
 	
+	
+
+### Zoe
+*Released on 2018-07-19, vote average 5.6*
+
+Two colleagues at a revolutionary research lab design technology to improve and perfect romantic relationships. As their work progresses, their discoveries become more profound.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_QdVzr1UGZ0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -249,20 +156,116 @@ Henri Charriere, called &#34;Papillon&#34; for the butterfly tattoo on his chest
 	
 	
 
-### Hot Summer Nights
-*Released on 2018-07-27, vote average 6*
+### Unfriended: Dark Web
+*Released on 2018-07-19, vote average 5.6*
 
-A teen winds up in over his head while dealing drugs with a rebellious partner and chasing the young man&#39;s enigmatic sister during the summer of 1991 that he spends in Cape Cod, Massachusetts.
+​When a 20-something finds a cache of hidden files on his new laptop, he and his friends are unwittingly thrust into the depths of the dark web.They soon discover someone has been watching their every move and will go to unimaginable lengths to protect the dark web.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/O5ROSS9ReUY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/4DJAWGXkvq8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Billionaire Boys Club
+*Released on 2018-07-19, vote average 4.4*
+
+Led by their fellow preppie friend Joe Hunt, a group of wealthy boys in Los Angeles during the early 1980s establish a get rich quick scam that turns deadly.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ldjNA0_7mIk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Extinction
+*Released on 2018-07-27, vote average 4.3*
+
+A chief mechanic at a factory, haunted by nightmares in which his wife is assaulted, becomes a hero when Earth is invaded by an army bent on destruction.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-ePDPGXkvlw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Iliza Shlesinger: Elder Millennial
+*Released on 2018-07-24, vote average 7.3*
+
+Filmed February 23, 2018, aboard the USS Hornet, comedian Iliza Shlesinger brings an ‘elder millennial’ perspective to her audience. Recently engaged, she dives into undeniable truths about life at age 35. Looking back at the insanity of the road traveled and what’s to come, Iliza talks first apartments, a woman&#39;s inner she dragon, peacock mating calls, and her newfound urge to squeeze a chubby baby leg.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/WO9qW20H0uM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -291,68 +294,10 @@ Abandoned by her friends and family and with her career in jeopardy, starlet Mar
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Miseducation of Cameron Post
-*Released on 2018-07-18, vote average 8.1*
-
-In 1993 after teenage Cameron is caught in the backseat of a car with the prom queen, she is sent away to a treatment center in a remote area called God&#39;s Promise. While she is being subjected to questionable gay conversion therapies, she bonds with some fellow residents as they pretend to go along with the process while waiting to be released.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/VEdngvMGjg0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-
-## Opening soon
-
-
-	
-
-	
 	
 
 ### Hot Summer Nights
-*Released on 2018-07-27, vote average 6*
+*Released on 2018-07-27, vote average 6.2*
 
 A teen winds up in over his head while dealing drugs with a rebellious partner and chasing the young man&#39;s enigmatic sister during the summer of 1991 that he spends in Cape Cod, Massachusetts.
 
@@ -365,6 +310,44 @@ A teen winds up in over his head while dealing drugs with a rebellious partner a
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### LEGO DC Super Heroes - Aquaman: Rage Of Atlantis
+*Released on 2018-07-23, vote average 6*
+
+Aquaman must battle foes in the air, on land and in the depths of the Seven Seas, along with some help from The Justice League, to save the day.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/__SmDkmZTpA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+
+## Opening soon
+
+
+	
+
 	
 
 	
