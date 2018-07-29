@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Mission: Impossible - Fallout
-*Released on 2018-07-25, vote average 7.5*
+*Released on 2018-07-25, vote average 7.4*
 
 When an IMF mission ends badly, the world is faced with dire consequences. As Ethan Hunt takes it upon himself to fulfil his original briefing, the CIA begin to question his loyalty and his motives. The IMF team find themselves in a race against time, hunted by assassins while trying to prevent a global catastrophe.
 
@@ -46,8 +46,30 @@ When an IMF mission ends badly, the world is faced with dire consequences. As Et
 	
 	
 
+### Father of the Year
+*Released on 2018-07-20, vote average 5.6*
+
+Two college grads return to their hometown, where a hypothetical question -- whose dad would win in a fight? -- leads to mass mayhem.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/eYFezrCkbAQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Equalizer 2
-*Released on 2018-07-19, vote average 6*
+*Released on 2018-07-19, vote average 6.2*
 
 Robert McCall returns to deliver his special brand of vigilante justice -- but how far will he go when it&#39;s someone he loves?
 
@@ -69,7 +91,7 @@ Robert McCall returns to deliver his special brand of vigilante justice -- but h
 	
 
 ### Mamma Mia! Here We Go Again
-*Released on 2018-07-18, vote average 7.5*
+*Released on 2018-07-18, vote average 7.7*
 
 On the Greek island of Kalokairi, the daughter of Donna Sheridan, Sophie, finds out more about her mother&#39;s past while seeking guidance on how to handle her pregnancy.
 
@@ -90,16 +112,16 @@ On the Greek island of Kalokairi, the daughter of Donna Sheridan, Sophie, finds 
 	
 	
 
-### Father of the Year
-*Released on 2018-07-20, vote average 5.7*
+### Teen Titans Go! To the Movies
+*Released on 2018-07-27, vote average 9*
 
-Two college grads return to their hometown, where a hypothetical question -- whose dad would win in a fight? -- leads to mass mayhem.
+When the Teen Titans go to the big screen, they go big! Teen Titans GO! to the Movies finds our egocentric, wildly satirical superheroes in their first feature film extravaganza—a fresh, gleefully clever, kid-appropriately crass and tongue-in-cheek play on the superhero genre, complete with musical numbers.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/eYFezrCkbAQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/1sqYpN1oxmg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,8 +134,72 @@ Two college grads return to their hometown, where a hypothetical question -- who
 	
 	
 
+### Hot Summer Nights
+*Released on 2018-07-27, vote average 5.6*
+
+A teen winds up in over his head while dealing drugs with a rebellious partner and chasing the young man&#39;s enigmatic sister during the summer of 1991 that he spends in Cape Cod, Massachusetts.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/O5ROSS9ReUY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Extinction
+*Released on 2018-07-27, vote average 5.4*
+
+A chief mechanic at a factory, haunted by nightmares in which his wife is assaulted, becomes a hero when Earth is invaded by an army bent on destruction.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-ePDPGXkvlw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### Papillon
-*Released on 2018-07-26, vote average 8.1*
+*Released on 2018-07-26, vote average 8.3*
 
 Henri Charriere, called &#34;Papillon&#34; for the butterfly tattoo on his chest, is convicted in Paris for a murder he did not commit. Sentenced to life imprisonment in the penal colony of French Guiana, he becomes obsessed with escaping. After planning and executing a series of treacherous yet failed attempts, he&#39;s sent to the notorious prison Devil&#39;s Island, a place from which no one has ever escaped.
 
@@ -126,55 +212,6 @@ Henri Charriere, called &#34;Papillon&#34; for the butterfly tattoo on his chest
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### Zoe
-*Released on 2018-07-19, vote average 5.6*
-
-Two colleagues at a revolutionary research lab design technology to improve and perfect romantic relationships. As their work progresses, their discoveries become more profound.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/_QdVzr1UGZ0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Unfriended: Dark Web
-*Released on 2018-07-19, vote average 5.6*
-
-​When a 20-something finds a cache of hidden files on his new laptop, he and his friends are unwittingly thrust into the depths of the dark web.They soon discover someone has been watching their every move and will go to unimaginable lengths to protect the dark web.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/4DJAWGXkvq8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -215,16 +252,38 @@ Led by their fellow preppie friend Joe Hunt, a group of wealthy boys in Los Ange
 	
 	
 
-### Extinction
-*Released on 2018-07-27, vote average 4.3*
+### Zoe
+*Released on 2018-07-19, vote average 5.5*
 
-A chief mechanic at a factory, haunted by nightmares in which his wife is assaulted, becomes a hero when Earth is invaded by an army bent on destruction.
+Two colleagues at a revolutionary research lab design technology to improve and perfect romantic relationships. As their work progresses, their discoveries become more profound.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-ePDPGXkvlw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/_QdVzr1UGZ0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Unfriended: Dark Web
+*Released on 2018-07-19, vote average 5*
+
+​When a 20-something finds a cache of hidden files on his new laptop, he and his friends are unwittingly thrust into the depths of the dark web.They soon discover someone has been watching their every move and will go to unimaginable lengths to protect the dark web.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/4DJAWGXkvq8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -240,103 +299,10 @@ A chief mechanic at a factory, haunted by nightmares in which his wife is assaul
 
 
 	
-	
-
-### Iliza Shlesinger: Elder Millennial
-*Released on 2018-07-24, vote average 7.3*
-
-Filmed February 23, 2018, aboard the USS Hornet, comedian Iliza Shlesinger brings an ‘elder millennial’ perspective to her audience. Recently engaged, she dives into undeniable truths about life at age 35. Looking back at the insanity of the road traveled and what’s to come, Iliza talks first apartments, a woman&#39;s inner she dragon, peacock mating calls, and her newfound urge to squeeze a chubby baby leg.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/WO9qW20H0uM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Broken Star
-*Released on 2018-07-20, vote average 7.5*
-
-Abandoned by her friends and family and with her career in jeopardy, starlet Markey Marlowe is sequestered in a duplex with a reclusive landlord who just may be more dangerous than she is.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/WKNyptlKEHY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Hot Summer Nights
-*Released on 2018-07-27, vote average 6.2*
-
-A teen winds up in over his head while dealing drugs with a rebellious partner and chasing the young man&#39;s enigmatic sister during the summer of 1991 that he spends in Cape Cod, Massachusetts.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/O5ROSS9ReUY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### LEGO DC Super Heroes - Aquaman: Rage Of Atlantis
-*Released on 2018-07-23, vote average 6*
-
-Aquaman must battle foes in the air, on land and in the depths of the Seven Seas, along with some help from The Justice League, to save the day.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/__SmDkmZTpA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -347,7 +313,22 @@ Aquaman must battle foes in the air, on land and in the depths of the Seven Seas
 
 
 	
+	
 
+### The Spy Who Dumped Me
+*Released on 2018-08-02, vote average 10*
+
+Audrey and Morgan are best friends who unwittingly become entangled in an international conspiracy when one of the women discovers the boyfriend who dumped her was actually a spy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/OZsYiWBgFOk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -365,7 +346,43 @@ Aquaman must battle foes in the air, on land and in the depths of the Seven Seas
 	
 
 	
+	
 
+### Searching
+*Released on 2018-08-03, vote average 3*
+
+After his 16-year-old daughter goes missing, a desperate father breaks into her laptop to look for clues to find her. A thriller that unfolds entirely on computer screens.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3Ro9ebQxEOY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+	
+
+### The Darkest Minds
+*Released on 2018-08-02, vote average 10*
+
+After a disease kills 98% of America&#39;s children, the surviving 2% develop superpowers and are placed in internment camps. A 16-year-old girl escapes her camp and joins a group of other teens on the run from the government.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/tN8o_E_f9FQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
