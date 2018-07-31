@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Mission: Impossible - Fallout
-*Released on 2018-07-25, vote average 7.5*
+*Released on 2018-07-25, vote average 7.6*
 
 When an IMF mission ends badly, the world is faced with dire consequences. As Ethan Hunt takes it upon himself to fulfil his original briefing, the CIA begin to question his loyalty and his motives. The IMF team find themselves in a race against time, hunted by assassins while trying to prevent a global catastrophe.
 
@@ -47,7 +47,7 @@ When an IMF mission ends badly, the world is faced with dire consequences. As Et
 	
 
 ### Father of the Year
-*Released on 2018-07-20, vote average 5.5*
+*Released on 2018-07-20, vote average 5.6*
 
 Two college grads return to their hometown, where a hypothetical question -- whose dad would win in a fight? -- leads to mass mayhem.
 
@@ -69,7 +69,7 @@ Two college grads return to their hometown, where a hypothetical question -- who
 	
 
 ### The Equalizer 2
-*Released on 2018-07-19, vote average 6.2*
+*Released on 2018-07-19, vote average 6.4*
 
 Robert McCall returns to deliver his special brand of vigilante justice -- but how far will he go when it&#39;s someone he loves?
 
@@ -91,7 +91,7 @@ Robert McCall returns to deliver his special brand of vigilante justice -- but h
 	
 
 ### Mamma Mia! Here We Go Again
-*Released on 2018-07-18, vote average 7.6*
+*Released on 2018-07-18, vote average 7.7*
 
 On the Greek island of Kalokairi, the daughter of Donna Sheridan, Sophie, finds out more about her mother&#39;s past while seeking guidance on how to handle her pregnancy.
 
@@ -100,6 +100,77 @@ On the Greek island of Kalokairi, the daughter of Donna Sheridan, Sophie, finds 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/XcSMdhfKga4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Extinction
+*Released on 2018-07-27, vote average 6.1*
+
+A chief mechanic at a factory, haunted by apocalyptic nightmares, becomes a hero when Earth is invaded by a mysterious army bent on destruction.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-ePDPGXkvlw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Our House
+*Released on 2018-07-27, vote average 5.3*
+
+Ethan is suffering enormous guilt after his parents are killed in a car accident. He quits a promising future at MIT and work on a revolutionary experiment in order to care for his younger siblings.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MZRC3xfhxnY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Row
+*Released on 2018-07-27, vote average 1*
+
+A Killer Stalks and Terrorizes a group of Sorority Girls on a College Campus.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/XcQmDma3caM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,67 +205,8 @@ When the Teen Titans go to the big screen, they go big! Teen Titans GO! to the M
 	
 	
 
-### Our House
-*Released on 2018-07-27, vote average 5*
-
-Ethan is suffering enormous guilt after his parents are killed in a car accident. He quits a promising future at MIT and work on a revolutionary experiment in order to care for his younger siblings.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MZRC3xfhxnY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Extinction
-*Released on 2018-07-27, vote average 5.6*
-
-A chief mechanic at a factory, haunted by apocalyptic nightmares, becomes a hero when Earth is invaded by a mysterious army bent on destruction.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-ePDPGXkvlw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### Hot Summer Nights
-*Released on 2018-07-27, vote average 6*
+*Released on 2018-07-27, vote average 6.1*
 
 A teen winds up in over his head while dealing drugs with a rebellious partner and chasing the young man&#39;s enigmatic sister during the summer of 1991 that he spends in Cape Cod, Massachusetts.
 
@@ -260,7 +272,7 @@ Two colleagues at a revolutionary research lab design technology to improve and 
 	
 
 ### Papillon
-*Released on 2018-07-26, vote average 8.3*
+*Released on 2018-07-26, vote average 8.2*
 
 Henri Charriere, called &#34;Papillon&#34; for the butterfly tattoo on his chest, is convicted in Paris for a murder he did not commit. Sentenced to life imprisonment in the penal colony of French Guiana, he becomes obsessed with escaping. After planning and executing a series of treacherous yet failed attempts, he&#39;s sent to the notorious prison Devil&#39;s Island, a place from which no one has ever escaped.
 
@@ -284,6 +296,23 @@ Henri Charriere, called &#34;Papillon&#34; for the butterfly tattoo on his chest
 
 
 	
+	
+
+### Billionaire Boys Club
+*Released on 2018-07-19, vote average 4.5*
+
+Led by their fellow preppie friend Joe Hunt, a group of wealthy boys in Los Angeles during the early 1980s establish a get rich quick scam that turns deadly.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ldjNA0_7mIk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -291,16 +320,16 @@ Henri Charriere, called &#34;Papillon&#34; for the butterfly tattoo on his chest
 	
 	
 
-### Unfriended: Dark Web
-*Released on 2018-07-19, vote average 5*
+### Damascus Cover
+*Released on 2018-07-20, vote average 6.7*
 
-​When a 20-something finds a cache of hidden files on his new laptop, he and his friends are unwittingly thrust into the depths of the dark web.They soon discover someone has been watching their every move and will go to unimaginable lengths to protect the dark web.
+A spy navigates the precarious terrain of love and survival during an undercover mission in Syria.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/4DJAWGXkvq8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/JIQNsPiv4Cw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -322,21 +351,11 @@ Henri Charriere, called &#34;Papillon&#34; for the butterfly tattoo on his chest
 
 	
 	
-
-### Iliza Shlesinger: Elder Millennial
-*Released on 2018-07-24, vote average 7*
-
-Filmed February 23, 2018, aboard the USS Hornet, comedian Iliza Shlesinger brings an ‘elder millennial’ perspective to her audience. Recently engaged, she dives into undeniable truths about life at age 35. Looking back at the insanity of the road traveled and what’s to come, Iliza talks first apartments, a woman&#39;s inner she dragon, peacock mating calls, and her newfound urge to squeeze a chubby baby leg.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/WO9qW20H0uM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
+
+  
+
+
 	
 
   
@@ -345,6 +364,8 @@ Filmed February 23, 2018, aboard the USS Hornet, comedian Iliza Shlesinger bring
 
 ## Opening soon
 
+
+	
 
 	
 	
@@ -389,11 +410,17 @@ After a disease kills 98% of America&#39;s children, the surviving 2% develop su
 	
 
 	
+
 	
+
 	
 
 	
 
+	
+
+	
+	
 	
 
 	
@@ -419,14 +446,6 @@ After his 16-year-old daughter goes missing, a desperate father breaks into her 
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
 	
 
 	
