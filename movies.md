@@ -46,30 +46,8 @@ When an IMF mission ends badly, the world is faced with dire consequences. As Et
 	
 	
 
-### Father of the Year
-*Released on 2018-07-20, vote average 5.4*
-
-Two college grads return to their hometown, where a hypothetical question -- whose dad would win in a fight? -- leads to mass mayhem.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/eYFezrCkbAQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Equalizer 2
-*Released on 2018-07-19, vote average 6.3*
+*Released on 2018-07-19, vote average 6.2*
 
 Robert McCall returns to deliver his special brand of vigilante justice -- but how far will he go when it&#39;s someone he loves?
 
@@ -90,16 +68,16 @@ Robert McCall returns to deliver his special brand of vigilante justice -- but h
 	
 	
 
-### Mamma Mia! Here We Go Again
-*Released on 2018-07-18, vote average 7.7*
+### Father of the Year
+*Released on 2018-07-20, vote average 5.3*
 
-On the Greek island of Kalokairi, the daughter of Donna Sheridan, Sophie, finds out more about her mother&#39;s past while seeking guidance on how to handle her pregnancy.
+Two college grads return to their hometown, where a hypothetical question -- whose dad would win in a fight? -- leads to mass mayhem.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/XcSMdhfKga4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/eYFezrCkbAQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -140,15 +118,37 @@ A chief mechanic at a factory, haunted by apocalyptic nightmares, becomes a hero
 	
 
 ### Teen Titans Go! To the Movies
-*Released on 2018-07-27, vote average 8.4*
+*Released on 2018-07-27, vote average 8.5*
 
-When the Teen Titans go to the big screen, they go big! Teen Titans GO! to the Movies finds our egocentric, wildly satirical superheroes in their first feature film extravaganza—a fresh, gleefully clever, kid-appropriately crass and tongue-in-cheek play on the superhero genre, complete with musical numbers.
+It seems that all the major superheroes out there are starring in their own movies -- all but the Teen Titans. Robin is bound and determined to remedy that situation by becoming a star instead of a sidekick. With a few madcap ideas and a song in their hearts, the Teen Titans head to Hollywood to fulfill their dreams. Things soon go awry, however, when a supervillain plans to take over the planet -- putting the very fate of the young heroes on the line.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/1sqYpN1oxmg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### LEGO DC Super Heroes - Aquaman: Rage Of Atlantis
+*Released on 2018-07-23, vote average 5*
+
+Aquaman must battle foes in the air, on land and in the depths of the Seven Seas, along with some help from The Justice League, to save the day.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/__SmDkmZTpA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -183,16 +183,38 @@ A Killer Stalks and Terrorizes a group of Sorority Girls on a College Campus.
 	
 	
 
-### LEGO DC Super Heroes - Aquaman: Rage Of Atlantis
-*Released on 2018-07-23, vote average 5*
+### Christopher Robin
+*Released on 2018-08-02, vote average 2*
 
-Aquaman must battle foes in the air, on land and in the depths of the Seven Seas, along with some help from The Justice League, to save the day.
+Working-class family man Christopher Robin encounters his childhood friend Winnie-the-Pooh, who helps him to rediscover the joys of life.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/__SmDkmZTpA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/425M4M3Opkk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Spy Who Dumped Me
+*Released on 2018-08-02, vote average 6.5*
+
+Audrey and Morgan are best friends who unwittingly become entangled in an international conspiracy when one of the women discovers the boyfriend who dumped her was actually a spy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/OZsYiWBgFOk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -315,6 +337,28 @@ Two colleagues at a revolutionary research lab design technology to improve and 
 	
 	
 
+### The Darkest Minds
+*Released on 2018-08-02, vote average 9*
+
+After a disease kills 98% of America&#39;s children, the surviving 2% develop superpowers and are placed in internment camps. A 16-year-old girl escapes her camp and joins a group of other teens on the run from the government.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/tN8o_E_f9FQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Damascus Cover
 *Released on 2018-07-20, vote average 6.7*
 
@@ -334,40 +378,9 @@ A spy navigates the precarious terrain of love and survival during an undercover
   
 
 
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 
 ## Opening soon
 
-
-	
-	
-
-### The Spy Who Dumped Me
-*Released on 2018-08-02, vote average 6.5*
-
-Audrey and Morgan are best friends who unwittingly become entangled in an international conspiracy when one of the women discovers the boyfriend who dumped her was actually a spy.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/OZsYiWBgFOk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
@@ -384,6 +397,25 @@ Working-class family man Christopher Robin encounters his childhood friend Winni
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/425M4M3Opkk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### The Spy Who Dumped Me
+*Released on 2018-08-02, vote average 6.5*
+
+Audrey and Morgan are best friends who unwittingly become entangled in an international conspiracy when one of the women discovers the boyfriend who dumped her was actually a spy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/OZsYiWBgFOk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -410,13 +442,7 @@ After a disease kills 98% of America&#39;s children, the surviving 2% develop su
 	
 
 	
-
 	
-	
-	
-
-	
-
 	
 
 	
@@ -438,6 +464,12 @@ After his 16-year-old daughter goes missing, a desperate father breaks into her 
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
 	
 
 	
