@@ -46,16 +46,16 @@ When an IMF mission ends badly, the world is faced with dire consequences. As Et
 	
 	
 
-### The Equalizer 2
-*Released on 2018-07-19, vote average 6.2*
+### Extinction
+*Released on 2018-07-27, vote average 6*
 
-Robert McCall returns to deliver his special brand of vigilante justice -- but how far will he go when it&#39;s someone he loves?
+A chief mechanic at a factory, haunted by apocalyptic nightmares, becomes a hero when Earth is invaded by a mysterious army bent on destruction.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/HyNJ3UrGk_I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-ePDPGXkvlw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -78,28 +78,6 @@ Two college grads return to their hometown, where a hypothetical question -- who
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/eYFezrCkbAQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Extinction
-*Released on 2018-07-27, vote average 5.9*
-
-A chief mechanic at a factory, haunted by apocalyptic nightmares, becomes a hero when Earth is invaded by a mysterious army bent on destruction.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-ePDPGXkvlw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -139,16 +117,16 @@ It seems that all the major superheroes out there are starring in their own movi
 	
 	
 
-### LEGO DC Super Heroes - Aquaman: Rage Of Atlantis
-*Released on 2018-07-23, vote average 5*
+### The Spy Who Dumped Me
+*Released on 2018-08-02, vote average 6.5*
 
-Aquaman must battle foes in the air, on land and in the depths of the Seven Seas, along with some help from The Justice League, to save the day.
+Audrey and Morgan are best friends who unwittingly become entangled in an international conspiracy when one of the women discovers the boyfriend who dumped her was actually a spy.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/__SmDkmZTpA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/OZsYiWBgFOk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -184,7 +162,7 @@ A Killer Stalks and Terrorizes a group of Sorority Girls on a College Campus.
 	
 
 ### Christopher Robin
-*Released on 2018-08-02, vote average 2*
+*Released on 2018-08-02, vote average 6.1*
 
 Working-class family man Christopher Robin encounters his childhood friend Winnie-the-Pooh, who helps him to rediscover the joys of life.
 
@@ -205,16 +183,16 @@ Working-class family man Christopher Robin encounters his childhood friend Winni
 	
 	
 
-### The Spy Who Dumped Me
-*Released on 2018-08-02, vote average 6.5*
+### LEGO DC Super Heroes - Aquaman: Rage Of Atlantis
+*Released on 2018-07-23, vote average 5.9*
 
-Audrey and Morgan are best friends who unwittingly become entangled in an international conspiracy when one of the women discovers the boyfriend who dumped her was actually a spy.
+Aquaman must battle foes in the air, on land and in the depths of the Seven Seas, along with some help from The Justice League, to save the day.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/OZsYiWBgFOk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/__SmDkmZTpA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -269,72 +247,6 @@ A teen winds up in over his head while dealing drugs with a rebellious partner a
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Zoe
-*Released on 2018-07-19, vote average 5.6*
-
-Two colleagues at a revolutionary research lab design technology to improve and perfect romantic relationships. As their work progresses, their discoveries become more profound.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/_QdVzr1UGZ0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Unfriended: Dark Web
-*Released on 2018-07-19, vote average 5.6*
-
-​When a 20-something finds a cache of hidden files on his new laptop, he and his friends are unwittingly thrust into the depths of the dark web. They soon discover someone has been watching their every move and will go to unimaginable lengths to protect the dark web.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/4DJAWGXkvq8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
 	
 
 ### The Darkest Minds
@@ -357,21 +269,77 @@ After a disease kills 98% of America&#39;s children, the surviving 2% develop su
 
 
 	
+
+  
+
+
+	
 	
 
-### Damascus Cover
-*Released on 2018-07-20, vote average 6.7*
+### Comedy Central Roast of Bruce Willis
+*Released on 2018-07-29, vote average 10*
 
-A spy navigates the precarious terrain of love and survival during an undercover mission in Syria.
+Bruce Willis goes from &#34;Die Hard&#34; to dead on arrival as some of the biggest names in entertainment serve up punches of their own to Hollywood&#39;s go-to action star. And with Roast Master Joseph Gordon-Levitt at the helm, nobody is leaving the dais unscathed.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/JIQNsPiv4Cw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/6BEu38CU8ZQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Like Father
+*Released on 2018-08-03, vote average 10*
+
+When a workaholic young executive (Kristen Bell), is left at the altar, she ends up on her Caribbean honeymoon cruise with the last person she ever expected: her estranged and equally workaholic father (Kelsey Grammer). The two depart as strangers, but over the course of a few hilarious adventures, a couple of umbrella-clad cocktails and a whole lot of soul-searching, they return with a renewed appreciation for family and life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_bfqsNh6U7c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 	
 
@@ -387,54 +355,16 @@ A spy navigates the precarious terrain of love and survival during an undercover
 	
 	
 
-### Christopher Robin
-*Released on 2018-08-02, vote average 2*
+### Like Father
+*Released on 2018-08-03, vote average 10*
 
-Working-class family man Christopher Robin encounters his childhood friend Winnie-the-Pooh, who helps him to rediscover the joys of life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/425M4M3Opkk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### The Spy Who Dumped Me
-*Released on 2018-08-02, vote average 6.5*
-
-Audrey and Morgan are best friends who unwittingly become entangled in an international conspiracy when one of the women discovers the boyfriend who dumped her was actually a spy.
+When a workaholic young executive (Kristen Bell), is left at the altar, she ends up on her Caribbean honeymoon cruise with the last person she ever expected: her estranged and equally workaholic father (Kelsey Grammer). The two depart as strangers, but over the course of a few hilarious adventures, a couple of umbrella-clad cocktails and a whole lot of soul-searching, they return with a renewed appreciation for family and life.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/OZsYiWBgFOk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### The Darkest Minds
-*Released on 2018-08-02, vote average 9*
-
-After a disease kills 98% of America&#39;s children, the surviving 2% develop superpowers and are placed in internment camps. A 16-year-old girl escapes her camp and joins a group of other teens on the run from the government.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tN8o_E_f9FQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/_bfqsNh6U7c?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -482,6 +412,27 @@ After his 16-year-old daughter goes missing, a desperate father breaks into her 
 
 	
 
+	
+
+	
+
+	
+	
+
+### Ghajinikanth
+*Released on 2018-08-03, vote average 10*
+
+Ghajinikanth is a Tamil movie starring Arya and Sayyeshaa in prominent roles. It is a comedy drama directed by Santhosh P. Jayakumar.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/gjqjGbsbgPk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
