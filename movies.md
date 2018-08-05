@@ -69,7 +69,7 @@ A chief mechanic at a factory, haunted by apocalyptic nightmares, becomes a hero
 	
 
 ### Christopher Robin
-*Released on 2018-08-02, vote average 5.3*
+*Released on 2018-08-02, vote average 6.7*
 
 Working-class family man Christopher Robin encounters his childhood friend Winnie-the-Pooh, who helps him to rediscover the joys of life.
 
@@ -91,7 +91,7 @@ Working-class family man Christopher Robin encounters his childhood friend Winni
 	
 
 ### The Spy Who Dumped Me
-*Released on 2018-08-02, vote average 6.5*
+*Released on 2018-08-02, vote average 5.3*
 
 Audrey and Morgan are best friends who unwittingly become entangled in an international conspiracy when one of the women discovers the boyfriend who dumped her was actually a spy.
 
@@ -117,30 +117,8 @@ Audrey and Morgan are best friends who unwittingly become entangled in an intern
 	
 	
 
-### LEGO DC Super Heroes - Aquaman: Rage Of Atlantis
-*Released on 2018-07-23, vote average 5.9*
-
-Aquaman must battle foes in the air, on land and in the depths of the Seven Seas, along with some help from The Justice League, to save the day.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/__SmDkmZTpA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Darkest Minds
-*Released on 2018-08-02, vote average 7.3*
+*Released on 2018-08-02, vote average 7.8*
 
 After a disease kills 98% of America&#39;s children, the surviving 2% develop superpowers and are placed in internment camps. A 16-year-old girl escapes her camp and joins a group of other teens on the run from the government.
 
@@ -161,16 +139,16 @@ After a disease kills 98% of America&#39;s children, the surviving 2% develop su
 	
 	
 
-### Hot Summer Nights
-*Released on 2018-07-26, vote average 6.2*
+### Teen Titans Go! To the Movies
+*Released on 2018-07-27, vote average 8.6*
 
-A teen winds up in over his head while dealing drugs with a rebellious partner and chasing the young man&#39;s enigmatic sister during the summer of 1991 that he spends in Cape Cod, Massachusetts.
+It seems that all the major superheroes out there are starring in their own movies -- all but the Teen Titans. Robin is bound and determined to remedy that situation by becoming a star instead of a sidekick. With a few madcap ideas and a song in their hearts, the Teen Titans head to Hollywood to fulfill their dreams. Things soon go awry, however, when a supervillain plans to take over the planet -- putting the very fate of the young heroes on the line.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/O5ROSS9ReUY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/1sqYpN1oxmg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -181,6 +159,23 @@ A teen winds up in over his head while dealing drugs with a rebellious partner a
 
 
 	
+	
+
+### The Wife
+*Released on 2018-08-03, vote average 8*
+
+A wife questions her life choices as she travels to Stockholm with her husband, where he is slated to receive the Nobel Prize for Literature.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/d81IM0loH7o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -189,7 +184,7 @@ A teen winds up in over his head while dealing drugs with a rebellious partner a
 	
 
 ### Like Father
-*Released on 2018-08-03, vote average 6.9*
+*Released on 2018-08-03, vote average 5.9*
 
 When a workaholic young executive, is left at the altar, she ends up on her Caribbean honeymoon cruise with the last person she ever expected: her estranged and equally workaholic father. The two depart as strangers, but over the course of a few hilarious adventures, a couple of umbrella-clad cocktails and a whole lot of soul-searching, they return with a renewed appreciation for family and life.
 
@@ -202,6 +197,11 @@ When a workaholic young executive, is left at the altar, she ends up on her Cari
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -244,16 +244,16 @@ Bruce Willis goes from &#34;Die Hard&#34; to dead on arrival as some of the bigg
 	
 	
 
-### Teen Titans Go! To the Movies
-*Released on 2018-07-27, vote average 8.6*
+### LEGO DC Super Heroes - Aquaman: Rage Of Atlantis
+*Released on 2018-07-23, vote average 5.9*
 
-It seems that all the major superheroes out there are starring in their own movies -- all but the Teen Titans. Robin is bound and determined to remedy that situation by becoming a star instead of a sidekick. With a few madcap ideas and a song in their hearts, the Teen Titans head to Hollywood to fulfill their dreams. Things soon go awry, however, when a supervillain plans to take over the planet -- putting the very fate of the young heroes on the line.
+Aquaman must battle foes in the air, on land and in the depths of the Seven Seas, along with some help from The Justice League, to save the day.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/1sqYpN1oxmg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/__SmDkmZTpA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -286,49 +286,10 @@ Ethan is suffering enormous guilt after his parents are killed in a car accident
 
 
 	
-
-  
-
-
-	
-	
-
-### The Row
-*Released on 2018-07-27, vote average 1*
-
-A Killer Stalks and Terrorizes a group of Sorority Girls on a College Campus.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XcQmDma3caM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
 	
 
 ### Down a Dark Hall
-*Released on 2018-08-01, vote average 2*
+*Released on 2018-08-01, vote average 4.3*
 
 Kitt Gordy, a new student at the exclusive Blackwood Boarding School, confronts the institution&#39;s supernatural occurrences and dark powers of its headmistress.
 
@@ -346,6 +307,45 @@ Kitt Gordy, a new student at the exclusive Blackwood Boarding School, confronts 
   
 
 
+	
+	
+
+### Hot Summer Nights
+*Released on 2018-07-26, vote average 6.5*
+
+A teen winds up in over his head while dealing drugs with a rebellious partner and chasing the young man&#39;s enigmatic sister during the summer of 1991 that he spends in Cape Cod, Massachusetts.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/O5ROSS9ReUY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -354,7 +354,7 @@ Kitt Gordy, a new student at the exclusive Blackwood Boarding School, confronts 
 	
 
 ### The Meg
-*Released on 2018-08-09, vote average 5.5*
+*Released on 2018-08-09, vote average 7*
 
 A deep sea submersible pilot revisits his past fears in the Mariana Trench, and accidentally unleashes the seventy foot ancestor of the Great White Shark believed to be extinct.
 
@@ -371,6 +371,23 @@ A deep sea submersible pilot revisits his past fears in the Mariana Trench, and 
 
 	
 
+	
+	
+
+### Slender Man
+*Released on 2018-08-10, vote average 6*
+
+Slender Man tells the story of a tall, thin horrifying figure with unnaturally long arms and a featureless face, who is reputed to be responsible for the haunting and disappearance of countless children and teens.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ySy8mcceTno?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
