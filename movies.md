@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Mission: Impossible - Fallout
-*Released on 2018-07-25, vote average 7.6*
+*Released on 2018-07-25, vote average 7.5*
 
 When an IMF mission ends badly, the world is faced with dire consequences. As Ethan Hunt takes it upon himself to fulfil his original briefing, the CIA begin to question his loyalty and his motives. The IMF team find themselves in a race against time, hunted by assassins while trying to prevent a global catastrophe.
 
@@ -69,7 +69,7 @@ A chief mechanic at a factory, haunted by apocalyptic nightmares, becomes a hero
 	
 
 ### Christopher Robin
-*Released on 2018-08-02, vote average 6.7*
+*Released on 2018-08-02, vote average 6.9*
 
 Working-class family man Christopher Robin encounters his childhood friend Winnie-the-Pooh, who helps him to rediscover the joys of life.
 
@@ -90,8 +90,35 @@ Working-class family man Christopher Robin encounters his childhood friend Winni
 	
 	
 
+### The Darkest Minds
+*Released on 2018-08-02, vote average 7.6*
+
+After a disease kills 98% of America&#39;s children, the surviving 2% develop superpowers and are placed in internment camps. A 16-year-old girl escapes her camp and joins a group of other teens on the run from the government.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/tN8o_E_f9FQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### The Spy Who Dumped Me
-*Released on 2018-08-02, vote average 5.3*
+*Released on 2018-08-02, vote average 5.9*
 
 Audrey and Morgan are best friends who unwittingly become entangled in an international conspiracy when one of the women discovers the boyfriend who dumped her was actually a spy.
 
@@ -110,23 +137,18 @@ Audrey and Morgan are best friends who unwittingly become entangled in an intern
 
 
 	
-
-  
-
-
-	
 	
 
-### The Darkest Minds
-*Released on 2018-08-02, vote average 7.8*
+### Like Father
+*Released on 2018-08-03, vote average 6.5*
 
-After a disease kills 98% of America&#39;s children, the surviving 2% develop superpowers and are placed in internment camps. A 16-year-old girl escapes her camp and joins a group of other teens on the run from the government.
+When a workaholic young executive, is left at the altar, she ends up on her Caribbean honeymoon cruise with the last person she ever expected: her estranged and equally workaholic father. The two depart as strangers, but over the course of a few hilarious adventures, a couple of umbrella-clad cocktails and a whole lot of soul-searching, they return with a renewed appreciation for family and life.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/tN8o_E_f9FQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/_bfqsNh6U7c?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -171,28 +193,6 @@ A wife questions her life choices as she travels to Stockholm with her husband, 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/d81IM0loH7o?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Like Father
-*Released on 2018-08-03, vote average 5.9*
-
-When a workaholic young executive, is left at the altar, she ends up on her Caribbean honeymoon cruise with the last person she ever expected: her estranged and equally workaholic father. The two depart as strangers, but over the course of a few hilarious adventures, a couple of umbrella-clad cocktails and a whole lot of soul-searching, they return with a renewed appreciation for family and life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/_bfqsNh6U7c?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -308,38 +308,40 @@ Kitt Gordy, a new student at the exclusive Blackwood Boarding School, confronts 
 
 
 	
+
+  
+
+
+	
+	
 	
 
-### Hot Summer Nights
-*Released on 2018-07-26, vote average 6.5*
+  
 
-A teen winds up in over his head while dealing drugs with a rebellious partner and chasing the young man&#39;s enigmatic sister during the summer of 1991 that he spends in Cape Cod, Massachusetts.
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Flavors of Youth
+*Released on 2018-08-04, vote average 6.5*
+
+Three different stories of youth set in different cities of China.  1 Shanghai Love.  2 Sunny Breakfast.  3 Small Fashion Show.  Directed by Zhenxing Yi, the plot revolves around a young man working in Beijing. He used to live with his grandma in his less developed hometown Hunan. While he is drown in his childhood reminiscence, he receives an unexpected call – Grandma is in critical condition.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/O5ROSS9ReUY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/CKdOr976h3Y?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 	
 
@@ -354,7 +356,7 @@ A teen winds up in over his head while dealing drugs with a rebellious partner a
 	
 
 ### The Meg
-*Released on 2018-08-09, vote average 7*
+*Released on 2018-08-09, vote average 7.8*
 
 A deep sea submersible pilot revisits his past fears in the Mariana Trench, and accidentally unleashes the seventy foot ancestor of the Great White Shark believed to be extinct.
 
@@ -367,8 +369,6 @@ A deep sea submersible pilot revisits his past fears in the Mariana Trench, and 
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
@@ -388,6 +388,8 @@ Slender Man tells the story of a tall, thin horrifying figure with unnaturally l
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
