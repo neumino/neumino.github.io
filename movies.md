@@ -47,7 +47,7 @@ When an IMF mission ends badly, the world is faced with dire consequences. As Et
 	
 
 ### Extinction
-*Released on 2018-07-27, vote average 6*
+*Released on 2018-07-27, vote average 6.1*
 
 A chief mechanic at a factory, haunted by apocalyptic nightmares, becomes a hero when Earth is invaded by a mysterious army bent on destruction.
 
@@ -91,7 +91,7 @@ Working-class family man Christopher Robin encounters his childhood friend Winni
 	
 
 ### The Darkest Minds
-*Released on 2018-08-02, vote average 7.6*
+*Released on 2018-08-02, vote average 7.3*
 
 After a disease kills 98% of America&#39;s children, the surviving 2% develop superpowers and are placed in internment camps. A 16-year-old girl escapes her camp and joins a group of other teens on the run from the government.
 
@@ -100,33 +100,6 @@ After a disease kills 98% of America&#39;s children, the surviving 2% develop su
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/tN8o_E_f9FQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Spy Who Dumped Me
-*Released on 2018-08-02, vote average 5.9*
-
-Audrey and Morgan are best friends who unwittingly become entangled in an international conspiracy when one of the women discovers the boyfriend who dumped her was actually a spy.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/OZsYiWBgFOk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -161,8 +134,74 @@ When a workaholic young executive, is left at the altar, she ends up on her Cari
 	
 	
 
+### The Spy Who Dumped Me
+*Released on 2018-08-02, vote average 5.7*
+
+Audrey and Morgan are best friends who unwittingly become entangled in an international conspiracy when one of the women discovers the boyfriend who dumped her was actually a spy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/OZsYiWBgFOk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Our House
+*Released on 2018-07-27, vote average 5.9*
+
+Ethan is suffering enormous guilt after his parents are killed in a car accident. He quits a promising future at MIT and work on a revolutionary experiment in order to care for his younger siblings.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MZRC3xfhxnY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### Teen Titans Go! To the Movies
-*Released on 2018-07-27, vote average 8.6*
+*Released on 2018-07-27, vote average 8.5*
 
 It seems that all the major superheroes out there are starring in their own movies -- all but the Teen Titans. Robin is bound and determined to remedy that situation by becoming a star instead of a sidekick. With a few madcap ideas and a song in their hearts, the Teen Titans head to Hollywood to fulfill their dreams. Things soon go awry, however, when a supervillain plans to take over the planet -- putting the very fate of the young heroes on the line.
 
@@ -174,6 +213,35 @@ It seems that all the major superheroes out there are starring in their own movi
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+	
+
+### Flavors of Youth
+*Released on 2018-08-04, vote average 7*
+
+Three different stories of youth set in different cities of China.  1 Shanghai Love.  2 Sunny Breakfast.  3 Small Fashion Show.  Directed by Zhenxing Yi, the plot revolves around a young man working in Beijing. He used to live with his grandma in his less developed hometown Hunan. While he is drown in his childhood reminiscence, he receives an unexpected call – Grandma is in critical condition.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/CKdOr976h3Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -203,35 +271,18 @@ A wife questions her life choices as she travels to Stockholm with her husband, 
 
 
 	
-
-  
-
-
-	
-	
 	
 
-  
+### Ghajinikanth
+*Released on 2018-08-03, vote average 10*
 
-
-	
-
-  
-
-
-	
-	
-
-### Comedy Central Roast of Bruce Willis
-*Released on 2018-07-29, vote average 10*
-
-Bruce Willis goes from &#34;Die Hard&#34; to dead on arrival as some of the biggest names in entertainment serve up punches of their own to Hollywood&#39;s go-to action star. And with Roast Master Joseph Gordon-Levitt at the helm, nobody is leaving the dais unscathed.
+A forgetful young man falls in love with a girl whose father hates his condition.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/6BEu38CU8ZQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/gjqjGbsbgPk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -244,16 +295,16 @@ Bruce Willis goes from &#34;Die Hard&#34; to dead on arrival as some of the bigg
 	
 	
 
-### LEGO DC Super Heroes - Aquaman: Rage Of Atlantis
-*Released on 2018-07-23, vote average 5.9*
+### Hot Summer Nights
+*Released on 2018-07-26, vote average 6.7*
 
-Aquaman must battle foes in the air, on land and in the depths of the Seven Seas, along with some help from The Justice League, to save the day.
+A teen winds up in over his head while dealing drugs with a rebellious partner and chasing the young man&#39;s enigmatic sister during the summer of 1991 that he spends in Cape Cod, Massachusetts.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/__SmDkmZTpA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/O5ROSS9ReUY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -266,16 +317,16 @@ Aquaman must battle foes in the air, on land and in the depths of the Seven Seas
 	
 	
 
-### Our House
-*Released on 2018-07-27, vote average 6.1*
+### Searching
+*Released on 2018-08-03, vote average 3*
 
-Ethan is suffering enormous guilt after his parents are killed in a car accident. He quits a promising future at MIT and work on a revolutionary experiment in order to care for his younger siblings.
+After his 16-year-old daughter goes missing, a desperate father breaks into her laptop to look for clues to find her. A thriller that unfolds entirely on computer screens.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/MZRC3xfhxnY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/3Ro9ebQxEOY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -289,7 +340,7 @@ Ethan is suffering enormous guilt after his parents are killed in a car accident
 	
 
 ### Down a Dark Hall
-*Released on 2018-08-01, vote average 4.3*
+*Released on 2018-08-01, vote average 5.9*
 
 Kitt Gordy, a new student at the exclusive Blackwood Boarding School, confronts the institution&#39;s supernatural occurrences and dark powers of its headmistress.
 
@@ -312,42 +363,6 @@ Kitt Gordy, a new student at the exclusive Blackwood Boarding School, confronts 
   
 
 
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Flavors of Youth
-*Released on 2018-08-04, vote average 6.5*
-
-Three different stories of youth set in different cities of China.  1 Shanghai Love.  2 Sunny Breakfast.  3 Small Fashion Show.  Directed by Zhenxing Yi, the plot revolves around a young man working in Beijing. He used to live with his grandma in his less developed hometown Hunan. While he is drown in his childhood reminiscence, he receives an unexpected call – Grandma is in critical condition.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/CKdOr976h3Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -356,7 +371,7 @@ Three different stories of youth set in different cities of China.  1 Shanghai L
 	
 
 ### The Meg
-*Released on 2018-08-09, vote average 7.8*
+*Released on 2018-08-09, vote average 7.4*
 
 A deep sea submersible pilot revisits his past fears in the Mariana Trench, and accidentally unleashes the seventy foot ancestor of the Great White Shark believed to be extinct.
 
@@ -369,6 +384,8 @@ A deep sea submersible pilot revisits his past fears in the Mariana Trench, and 
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
@@ -391,9 +408,41 @@ Slender Man tells the story of a tall, thin horrifying figure with unnaturally l
 	
 
 	
-
 	
 
+### BlacKkKlansman
+*Released on 2018-08-10, vote average 8.5*
+
+Ron Stallworth, an African-American police officer from Colorado, successfully managed to infiltrate the local Ku Klux Klan and became the head of the local chapter.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pFc6I0rgmgY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### Under the Silver Lake
+*Released on 2018-08-08, vote average 10*
+
+Young and disenchanted Sam meets a mysterious and beautiful woman who&#39;s swimming in his building&#39;s pool one night. When she suddenly vanishes the next morning, Sam embarks on a surreal quest across Los Angeles to decode the secret behind her disappearance, leading him into the murkiest depths of mystery, scandal and conspiracy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mwgUesU1pz4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
