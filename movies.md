@@ -68,8 +68,30 @@ A chief mechanic at a factory, haunted by apocalyptic nightmares, becomes a hero
 	
 	
 
+### Like Father
+*Released on 2018-08-03, vote average 6.5*
+
+When a workaholic young executive, is left at the altar, she ends up on her Caribbean honeymoon cruise with the last person she ever expected: her estranged and equally workaholic father. The two depart as strangers, but over the course of a few hilarious adventures, a couple of umbrella-clad cocktails and a whole lot of soul-searching, they return with a renewed appreciation for family and life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_bfqsNh6U7c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Christopher Robin
-*Released on 2018-08-02, vote average 6.9*
+*Released on 2018-08-02, vote average 7*
 
 Working-class family man Christopher Robin encounters his childhood friend Winnie-the-Pooh, who helps him to rediscover the joys of life.
 
@@ -110,22 +132,10 @@ After a disease kills 98% of America&#39;s children, the surviving 2% develop su
 
 
 	
-	
 
-### Like Father
-*Released on 2018-08-03, vote average 6.5*
+  
 
-When a workaholic young executive, is left at the altar, she ends up on her Caribbean honeymoon cruise with the last person she ever expected: her estranged and equally workaholic father. The two depart as strangers, but over the course of a few hilarious adventures, a couple of umbrella-clad cocktails and a whole lot of soul-searching, they return with a renewed appreciation for family and life.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/_bfqsNh6U7c?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -148,50 +158,6 @@ Audrey and Morgan are best friends who unwittingly become entangled in an intern
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Our House
-*Released on 2018-07-27, vote average 5.9*
-
-Ethan is suffering enormous guilt after his parents are killed in a car accident. He quits a promising future at MIT and work on a revolutionary experiment in order to care for his younger siblings.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MZRC3xfhxnY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -223,7 +189,7 @@ It seems that all the major superheroes out there are starring in their own movi
 	
 
 ### Flavors of Youth
-*Released on 2018-08-04, vote average 7*
+*Released on 2018-08-04, vote average 7.2*
 
 Three different stories of youth set in different cities of China.  1 Shanghai Love.  2 Sunny Breakfast.  3 Small Fashion Show.  Directed by Zhenxing Yi, the plot revolves around a young man working in Beijing. He used to live with his grandma in his less developed hometown Hunan. While he is drown in his childhood reminiscence, he receives an unexpected call – Grandma is in critical condition.
 
@@ -232,6 +198,28 @@ Three different stories of youth set in different cities of China.  1 Shanghai L
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/CKdOr976h3Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Our House
+*Released on 2018-07-27, vote average 5.8*
+
+Ethan is suffering enormous guilt after his parents are killed in a car accident. He quits a promising future at MIT and work on a revolutionary experiment in order to care for his younger siblings.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MZRC3xfhxnY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -273,16 +261,16 @@ A wife questions her life choices as she travels to Stockholm with her husband, 
 	
 	
 
-### Ghajinikanth
-*Released on 2018-08-03, vote average 10*
+### Under the Silver Lake
+*Released on 2018-08-08, vote average 10*
 
-A forgetful young man falls in love with a girl whose father hates his condition.
+Young and disenchanted Sam meets a mysterious and beautiful woman who&#39;s swimming in his building&#39;s pool one night. When she suddenly vanishes the next morning, Sam embarks on a surreal quest across Los Angeles to decode the secret behind her disappearance, leading him into the murkiest depths of mystery, scandal and conspiracy.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/gjqjGbsbgPk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/mwgUesU1pz4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -293,22 +281,22 @@ A forgetful young man falls in love with a girl whose father hates his condition
 
 
 	
-	
 
-### Hot Summer Nights
-*Released on 2018-07-26, vote average 6.7*
+  
 
-A teen winds up in over his head while dealing drugs with a rebellious partner and chasing the young man&#39;s enigmatic sister during the summer of 1991 that he spends in Cape Cod, Massachusetts.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/O5ROSS9ReUY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -317,38 +305,16 @@ A teen winds up in over his head while dealing drugs with a rebellious partner a
 	
 	
 
-### Searching
-*Released on 2018-08-03, vote average 3*
+### Mulk
+*Released on 2018-08-03, vote average 6*
 
-After his 16-year-old daughter goes missing, a desperate father breaks into her laptop to look for clues to find her. A thriller that unfolds entirely on computer screens.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3Ro9ebQxEOY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Down a Dark Hall
-*Released on 2018-08-01, vote average 5.9*
-
-Kitt Gordy, a new student at the exclusive Blackwood Boarding School, confronts the institution&#39;s supernatural occurrences and dark powers of its headmistress.
+Mulq is a 2018 Hindi feature film directed by Anubhav Sinha. The film is shooting in Benaras and Lucknow. Mulk articulates the prejudice of those that are quick to tar an entire community with the same brush for the violent actions of a few, but see no wrong in the systemic violence - political, social and economic - that is perpetrated day in and day out on those that are condemned to the fringes of a counterfeit development story designed to serve narrow interests. Mulk is an important film because it reflects the concerns of those that hold humanity dear and abhor binaries fuelled by WhatsApp-driven fear-mongering.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/TwHoY2dVZLE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/1MjC30zo1KA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -427,6 +393,8 @@ Ron Stallworth, an African-American police officer from Colorado, successfully m
 	
 
 	
+
+	
 	
 
 ### Under the Silver Lake
@@ -443,8 +411,6 @@ Young and disenchanted Sam meets a mysterious and beautiful woman who&#39;s swim
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
