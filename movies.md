@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Mission: Impossible - Fallout
-*Released on 2018-07-25, vote average 7.5*
+### The Meg
+*Released on 2018-08-09, vote average 7.4*
 
-When an IMF mission ends badly, the world is faced with dire consequences. As Ethan Hunt takes it upon himself to fulfil his original briefing, the CIA begin to question his loyalty and his motives. The IMF team find themselves in a race against time, hunted by assassins while trying to prevent a global catastrophe.
+A deep sea submersible pilot revisits his past fears in the Mariana Trench, and accidentally unleashes the seventy foot ancestor of the Great White Shark believed to be extinct.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/wb49-oV0F78?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/bsLk0NPRFAc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -90,30 +90,8 @@ When a workaholic young executive, is left at the altar, she ends up on her Cari
 	
 	
 
-### Christopher Robin
-*Released on 2018-08-02, vote average 7*
-
-Working-class family man Christopher Robin encounters his childhood friend Winnie-the-Pooh, who helps him to rediscover the joys of life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/425M4M3Opkk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Darkest Minds
-*Released on 2018-08-02, vote average 7.3*
+*Released on 2018-08-02, vote average 7*
 
 After a disease kills 98% of America&#39;s children, the surviving 2% develop superpowers and are placed in internment camps. A 16-year-old girl escapes her camp and joins a group of other teens on the run from the government.
 
@@ -136,6 +114,23 @@ After a disease kills 98% of America&#39;s children, the surviving 2% develop su
   
 
 
+	
+	
+
+### Christopher Robin
+*Released on 2018-08-02, vote average 7*
+
+Working-class family man Christopher Robin encounters his childhood friend Winnie-the-Pooh, who helps him to rediscover the joys of life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/425M4M3Opkk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -166,30 +161,8 @@ Audrey and Morgan are best friends who unwittingly become entangled in an intern
 	
 	
 
-### Teen Titans Go! To the Movies
-*Released on 2018-07-27, vote average 8.5*
-
-It seems that all the major superheroes out there are starring in their own movies -- all but the Teen Titans. Robin is bound and determined to remedy that situation by becoming a star instead of a sidekick. With a few madcap ideas and a song in their hearts, the Teen Titans head to Hollywood to fulfill their dreams. Things soon go awry, however, when a supervillain plans to take over the planet -- putting the very fate of the young heroes on the line.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/1sqYpN1oxmg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Flavors of Youth
-*Released on 2018-08-04, vote average 7.2*
+*Released on 2018-08-04, vote average 7.3*
 
 Three different stories of youth set in different cities of China.  1 Shanghai Love.  2 Sunny Breakfast.  3 Small Fashion Show.  Directed by Zhenxing Yi, the plot revolves around a young man working in Beijing. He used to live with his grandma in his less developed hometown Hunan. While he is drown in his childhood reminiscence, he receives an unexpected call – Grandma is in critical condition.
 
@@ -210,16 +183,16 @@ Three different stories of youth set in different cities of China.  1 Shanghai L
 	
 	
 
-### Our House
-*Released on 2018-07-27, vote average 5.8*
+### Teen Titans Go! To the Movies
+*Released on 2018-07-27, vote average 8.4*
 
-Ethan is suffering enormous guilt after his parents are killed in a car accident. He quits a promising future at MIT and work on a revolutionary experiment in order to care for his younger siblings.
+It seems that all the major superheroes out there are starring in their own movies -- all but the Teen Titans. Robin is bound and determined to remedy that situation by becoming a star instead of a sidekick. With a few madcap ideas and a song in their hearts, the Teen Titans head to Hollywood to fulfill their dreams. Things soon go awry, however, when a supervillain plans to take over the planet -- putting the very fate of the young heroes on the line.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/MZRC3xfhxnY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/1sqYpN1oxmg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -229,30 +202,6 @@ Ethan is suffering enormous guilt after his parents are killed in a car accident
   
 
 
-	
-	
-	
-
-  
-
-
-	
-	
-
-### The Wife
-*Released on 2018-08-03, vote average 8*
-
-A wife questions her life choices as she travels to Stockholm with her husband, where he is slated to receive the Nobel Prize for Literature.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/d81IM0loH7o?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -281,40 +230,18 @@ Young and disenchanted Sam meets a mysterious and beautiful woman who&#39;s swim
 
 
 	
-
-  
-
-
 	
 
-  
+### Our House
+*Released on 2018-07-27, vote average 5.6*
 
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Mulk
-*Released on 2018-08-03, vote average 6*
-
-Mulq is a 2018 Hindi feature film directed by Anubhav Sinha. The film is shooting in Benaras and Lucknow. Mulk articulates the prejudice of those that are quick to tar an entire community with the same brush for the violent actions of a few, but see no wrong in the systemic violence - political, social and economic - that is perpetrated day in and day out on those that are condemned to the fringes of a counterfeit development story designed to serve narrow interests. Mulk is an important film because it reflects the concerns of those that hold humanity dear and abhor binaries fuelled by WhatsApp-driven fear-mongering.
+Ethan is suffering enormous guilt after his parents are killed in a car accident. He quits a promising future at MIT and work on a revolutionary experiment in order to care for his younger siblings.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/1MjC30zo1KA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/MZRC3xfhxnY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -324,6 +251,77 @@ Mulq is a 2018 Hindi feature film directed by Anubhav Sinha. The film is shootin
   
 
 
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Wife
+*Released on 2018-08-03, vote average 8*
+
+A wife questions her life choices as she travels to Stockholm with her husband, where he is slated to receive the Nobel Prize for Literature.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/d81IM0loH7o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Destination Wedding
+*Released on 2018-08-02, vote average 4*
+
+Frank and Lindsay two emotionally broken people, must attend a destination wedding. They meet and, over the course of the weekend and against all odds, find themselves drawn to one another even as they are repulsed by one another.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Vo7BTumnPvM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -353,8 +351,6 @@ A deep sea submersible pilot revisits his past fears in the Mariana Trench, and 
 	
 
 	
-
-	
 	
 
 ### Slender Man
@@ -377,7 +373,7 @@ Slender Man tells the story of a tall, thin horrifying figure with unnaturally l
 	
 
 ### BlacKkKlansman
-*Released on 2018-08-10, vote average 8.5*
+*Released on 2018-08-10, vote average 9.3*
 
 Ron Stallworth, an African-American police officer from Colorado, successfully managed to infiltrate the local Ku Klux Klan and became the head of the local chapter.
 
@@ -395,38 +391,40 @@ Ron Stallworth, an African-American police officer from Colorado, successfully m
 	
 
 	
+
 	
 
-### Under the Silver Lake
-*Released on 2018-08-08, vote average 10*
+	
 
-Young and disenchanted Sam meets a mysterious and beautiful woman who&#39;s swimming in his building&#39;s pool one night. When she suddenly vanishes the next morning, Sam embarks on a surreal quest across Los Angeles to decode the secret behind her disappearance, leading him into the murkiest depths of mystery, scandal and conspiracy.
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### May The Devil Take You
+*Released on 2018-08-09, vote average 10*
+
+Two step sisters tries to find out the secret that their father kept in a villa.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/mwgUesU1pz4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/UZ_nAutjjc4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
