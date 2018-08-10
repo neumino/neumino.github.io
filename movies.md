@@ -69,7 +69,7 @@ A chief mechanic at a factory, haunted by apocalyptic nightmares, becomes a hero
 	
 
 ### Like Father
-*Released on 2018-08-03, vote average 6.5*
+*Released on 2018-08-03, vote average 6.6*
 
 When a workaholic young executive, is left at the altar, she ends up on her Caribbean honeymoon cruise with the last person she ever expected: her estranged and equally workaholic father. The two depart as strangers, but over the course of a few hilarious adventures, a couple of umbrella-clad cocktails and a whole lot of soul-searching, they return with a renewed appreciation for family and life.
 
@@ -90,16 +90,16 @@ When a workaholic young executive, is left at the altar, she ends up on her Cari
 	
 	
 
-### The Darkest Minds
-*Released on 2018-08-02, vote average 7*
+### Uchu Sentai Kyuranger vs. Space Squad
+*Released on 2018-08-08, vote average 1*
 
-After a disease kills 98% of America&#39;s children, the surviving 2% develop superpowers and are placed in internment camps. A 16-year-old girl escapes her camp and joins a group of other teens on the run from the government.
+Taking place 4 years after the events of the Uchu Sentai Kyuranger TV series, the universe is at peace. But that changes when Hammie (Chameleon Green) attacks the Rebellion and steals the newly developed Neo Kyutama! Fearing its possible misuse once it falls into the wrong hands, Space Federation President Tsurugi Ohtori (Houou Soldier) declares Hammie wanted all across the universe. Lucky (Shishi Red) and some of the Kyurangers believe in Hammie, fighting against Tsurugi&#39;s decision, causing a rift amongst the Kyurangers. And where do Space Sheriff Gavan and Space Sheriff Shaider fit onto all this?
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/tN8o_E_f9FQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/VjPItHDBmzg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -110,15 +110,10 @@ After a disease kills 98% of America&#39;s children, the surviving 2% develop su
 
 
 	
-
-  
-
-
-	
 	
 
 ### Christopher Robin
-*Released on 2018-08-02, vote average 7*
+*Released on 2018-08-02, vote average 6.9*
 
 Working-class family man Christopher Robin encounters his childhood friend Winnie-the-Pooh, who helps him to rediscover the joys of life.
 
@@ -139,16 +134,16 @@ Working-class family man Christopher Robin encounters his childhood friend Winni
 	
 	
 
-### The Spy Who Dumped Me
-*Released on 2018-08-02, vote average 5.7*
+### The Darkest Minds
+*Released on 2018-08-02, vote average 6.9*
 
-Audrey and Morgan are best friends who unwittingly become entangled in an international conspiracy when one of the women discovers the boyfriend who dumped her was actually a spy.
+After a disease kills 98% of America&#39;s children, the surviving 2% develop superpowers and are placed in internment camps. A 16-year-old girl escapes her camp and joins a group of other teens on the run from the government.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/OZsYiWBgFOk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/tN8o_E_f9FQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -162,7 +157,7 @@ Audrey and Morgan are best friends who unwittingly become entangled in an intern
 	
 
 ### Flavors of Youth
-*Released on 2018-08-04, vote average 7.3*
+*Released on 2018-08-04, vote average 7.2*
 
 Three different stories of youth set in different cities of China.  1 Shanghai Love.  2 Sunny Breakfast.  3 Small Fashion Show.  Directed by Zhenxing Yi, the plot revolves around a young man working in Beijing. He used to live with his grandma in his less developed hometown Hunan. While he is drown in his childhood reminiscence, he receives an unexpected call – Grandma is in critical condition.
 
@@ -183,8 +178,145 @@ Three different stories of youth set in different cities of China.  1 Shanghai L
 	
 	
 
+### Slender Man
+*Released on 2018-08-10, vote average 6*
+
+Slender Man tells the story of a tall, thin horrifying figure with unnaturally long arms and a featureless face, who is reputed to be responsible for the haunting and disappearance of countless children and teens.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ySy8mcceTno?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Spy Who Dumped Me
+*Released on 2018-08-02, vote average 6.5*
+
+Audrey and Morgan are best friends who unwittingly become entangled in an international conspiracy when one of the women discovers the boyfriend who dumped her was actually a spy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/OZsYiWBgFOk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### BlacKkKlansman
+*Released on 2018-08-10, vote average 7.4*
+
+Ron Stallworth, an African-American police officer from Colorado, successfully managed to infiltrate the local Ku Klux Klan and became the head of the local chapter.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pFc6I0rgmgY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Under the Silver Lake
+*Released on 2018-08-08, vote average 7.7*
+
+Young and disenchanted Sam meets a mysterious and beautiful woman who&#39;s swimming in his building&#39;s pool one night. When she suddenly vanishes the next morning, Sam embarks on a surreal quest across Los Angeles to decode the secret behind her disappearance, leading him into the murkiest depths of mystery, scandal and conspiracy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mwgUesU1pz4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Our House
+*Released on 2018-07-27, vote average 5.3*
+
+Ethan is suffering enormous guilt after his parents are killed in a car accident. He quits a promising future at MIT and work on a revolutionary experiment in order to care for his younger siblings.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MZRC3xfhxnY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Teen Titans Go! To the Movies
-*Released on 2018-07-27, vote average 8.4*
+*Released on 2018-07-27, vote average 8.3*
 
 It seems that all the major superheroes out there are starring in their own movies -- all but the Teen Titans. Robin is bound and determined to remedy that situation by becoming a star instead of a sidekick. With a few madcap ideas and a song in their hearts, the Teen Titans head to Hollywood to fulfill their dreams. Things soon go awry, however, when a supervillain plans to take over the planet -- putting the very fate of the young heroes on the line.
 
@@ -208,121 +340,6 @@ It seems that all the major superheroes out there are starring in their own movi
 
 
 	
-	
-
-### Under the Silver Lake
-*Released on 2018-08-08, vote average 10*
-
-Young and disenchanted Sam meets a mysterious and beautiful woman who&#39;s swimming in his building&#39;s pool one night. When she suddenly vanishes the next morning, Sam embarks on a surreal quest across Los Angeles to decode the secret behind her disappearance, leading him into the murkiest depths of mystery, scandal and conspiracy.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/mwgUesU1pz4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Our House
-*Released on 2018-07-27, vote average 5.6*
-
-Ethan is suffering enormous guilt after his parents are killed in a car accident. He quits a promising future at MIT and work on a revolutionary experiment in order to care for his younger siblings.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MZRC3xfhxnY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Wife
-*Released on 2018-08-03, vote average 8*
-
-A wife questions her life choices as she travels to Stockholm with her husband, where he is slated to receive the Nobel Prize for Literature.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/d81IM0loH7o?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Destination Wedding
-*Released on 2018-08-02, vote average 4*
-
-Frank and Lindsay two emotionally broken people, must attend a destination wedding. They meet and, over the course of the weekend and against all odds, find themselves drawn to one another even as they are repulsed by one another.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Vo7BTumnPvM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -330,25 +347,6 @@ Frank and Lindsay two emotionally broken people, must attend a destination weddi
 
 ## Opening soon
 
-
-	
-	
-
-### The Meg
-*Released on 2018-08-09, vote average 7.4*
-
-A deep sea submersible pilot revisits his past fears in the Mariana Trench, and accidentally unleashes the seventy foot ancestor of the Great White Shark believed to be extinct.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/bsLk0NPRFAc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 	
@@ -373,7 +371,7 @@ Slender Man tells the story of a tall, thin horrifying figure with unnaturally l
 	
 
 ### BlacKkKlansman
-*Released on 2018-08-10, vote average 9.3*
+*Released on 2018-08-10, vote average 7.4*
 
 Ron Stallworth, an African-American police officer from Colorado, successfully managed to infiltrate the local Ku Klux Klan and became the head of the local chapter.
 
@@ -409,22 +407,7 @@ Ron Stallworth, an African-American police officer from Colorado, successfully m
 	
 
 	
-	
 
-### May The Devil Take You
-*Released on 2018-08-09, vote average 10*
-
-Two step sisters tries to find out the secret that their father kept in a villa.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/UZ_nAutjjc4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
