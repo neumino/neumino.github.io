@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Meg
-*Released on 2018-08-09, vote average 6.4*
+*Released on 2018-08-09, vote average 6.5*
 
 A deep sea submersible pilot revisits his past fears in the Mariana Trench, and accidentally unleashes the seventy foot ancestor of the Great White Shark believed to be extinct.
 
@@ -46,6 +46,72 @@ A deep sea submersible pilot revisits his past fears in the Mariana Trench, and 
 	
 	
 
+### Slender Man
+*Released on 2018-08-10, vote average 3.5*
+
+In a small town in Massachusetts, four high school girls perform a ritual in an attempt to debunk the lore of Slender Man. When one of the girls goes mysteriously missing, they begin to suspect that she is, in fact, his latest victim.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ySy8mcceTno?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### BlacKkKlansman
+*Released on 2018-08-10, vote average 7.6*
+
+Ron Stallworth, an African-American police officer from Colorado, successfully managed to infiltrate the local Ku Klux Klan and became the head of the local chapter.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pFc6I0rgmgY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Mile 22
+*Released on 2018-08-10, vote average 7*
+
+A CIA field officer and an Indonesian police officer are forced to work together in confronting political corruption. An informant must be moved twenty-two miles to safety.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3CVV8X01824?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Like Father
 *Released on 2018-08-03, vote average 6.5*
 
@@ -69,7 +135,7 @@ When a workaholic young executive, is left at the altar, she ends up on her Cari
 	
 
 ### The Darkest Minds
-*Released on 2018-08-02, vote average 7.1*
+*Released on 2018-08-02, vote average 7*
 
 After a disease kills 98% of America&#39;s children, the surviving 2% develop superpowers and are placed in internment camps. A 16-year-old girl escapes her camp and joins a group of other teens on the run from the government.
 
@@ -90,38 +156,16 @@ After a disease kills 98% of America&#39;s children, the surviving 2% develop su
 	
 	
 
-### Slender Man
-*Released on 2018-08-10, vote average 6*
+### Dog Days
+*Released on 2018-08-10, vote average 2.8*
 
-In a small town in Massachusetts, four high school girls perform a ritual in an attempt to debunk the lore of Slender Man. When one of the girls goes mysteriously missing, they begin to suspect that she is, in fact, his latest victim.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ySy8mcceTno?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Spy Who Dumped Me
-*Released on 2018-08-02, vote average 6.6*
-
-Audrey and Morgan are best friends who unwittingly become entangled in an international conspiracy when one of the women discovers the boyfriend who dumped her was actually a spy.
+Elizabeth is a charming anchorwoman who seeks advice from her dog&#39;s therapist. Tara is a spunky barista who dreams of a life beyond the coffee shop. Daisy is a dog walker who&#39;s enamored with a client. Garrett pines for a woman while trying to keep his adopt-a-dog business afloat. The beloved canines in their lives soon start to influence their careers, friendships and romantic relationships in funny and unexpected ways.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/OZsYiWBgFOk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/fAfqqHwgI1U?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -135,7 +179,7 @@ Audrey and Morgan are best friends who unwittingly become entangled in an intern
 	
 
 ### Flavors of Youth
-*Released on 2018-08-04, vote average 7*
+*Released on 2018-08-04, vote average 6.9*
 
 Three different stories of youth set in different cities of China.  1 Shanghai Love.  2 Sunny Breakfast.  3 Small Fashion Show.  Directed by Zhenxing Yi, the plot revolves around a young man working in Beijing. He used to live with his grandma in his less developed hometown Hunan. While he is drown in his childhood reminiscence, he receives an unexpected call – Grandma is in critical condition.
 
@@ -153,23 +197,6 @@ Three different stories of youth set in different cities of China.  1 Shanghai L
   
 
 
-	
-	
-
-### BlacKkKlansman
-*Released on 2018-08-10, vote average 7.4*
-
-Ron Stallworth, an African-American police officer from Colorado, successfully managed to infiltrate the local Ku Klux Klan and became the head of the local chapter.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pFc6I0rgmgY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -220,44 +247,10 @@ Working-class family man Christopher Robin encounters his childhood friend Winni
 
 
 	
-	
-
-### Mile 22
-*Released on 2018-08-10, vote average 7*
-
-A CIA field officer and an Indonesian police officer are forced to work together in confronting political corruption. An informant must be moved twenty-two miles to safety.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3CVV8X01824?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
-	
-	
-
-### Dog Days
-*Released on 2018-08-10, vote average 2.8*
-
-Elizabeth is a charming anchorwoman who seeks advice from her dog&#39;s therapist. Tara is a spunky barista who dreams of a life beyond the coffee shop. Daisy is a dog walker who&#39;s enamored with a client. Garrett pines for a woman while trying to keep his adopt-a-dog business afloat. The beloved canines in their lives soon start to influence their careers, friendships and romantic relationships in funny and unexpected ways.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/fAfqqHwgI1U?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -272,7 +265,7 @@ Elizabeth is a charming anchorwoman who seeks advice from her dog&#39;s therapis
 	
 
 ### The Package
-*Released on 2018-08-10, vote average 3.9*
+*Released on 2018-08-10, vote average 4.9*
 
 When a group of teenagers goes on a spring break camping trip, an unfortunate accident sets off a race to save their friend’s most prized possession.
 
@@ -291,37 +284,32 @@ When a group of teenagers goes on a spring break camping trip, an unfortunate ac
 
 
 	
-
-  
-
-
 	
 
-  
+### The Spy Who Dumped Me
+*Released on 2018-08-02, vote average 6.8*
 
-
-	
-
-  
-
-
-	
-	
-
-### Under the Silver Lake
-*Released on 2018-08-08, vote average 7*
-
-Young and disenchanted Sam meets a mysterious and beautiful woman who&#39;s swimming in his building&#39;s pool one night. When she suddenly vanishes the next morning, Sam embarks on a surreal quest across Los Angeles to decode the secret behind her disappearance, leading him into the murkiest depths of mystery, scandal and conspiracy.
+Audrey and Morgan are best friends who unwittingly become entangled in an international conspiracy when one of the women discovers the boyfriend who dumped her was actually a spy.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/mwgUesU1pz4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/OZsYiWBgFOk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -354,13 +342,6 @@ Wizam attempts to save the nation from warrior Omar.
   
 
 
-	
-	
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -385,6 +366,23 @@ Wizam attempts to save the nation from warrior Omar.
 
 	
 
+	
+	
+
+### Patient Zero
+*Released on 2018-08-14, vote average 6.7*
+
+After an unprecedented global pandemic has turned the majority of humankind into violent &#34;Infected,&#34; a man gifted with the ability to speak the Infected&#39;s new language leads the last survivors on a hunt for Patient Zero and a cure.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/W9uddyaqAPE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
