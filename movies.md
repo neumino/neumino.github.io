@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Meg
-*Released on 2018-08-09, vote average 6.5*
+*Released on 2018-08-09, vote average 6.6*
 
 A deep sea submersible pilot revisits his past fears in the Mariana Trench, and accidentally unleashes the seventy foot ancestor of the Great White Shark believed to be extinct.
 
@@ -47,7 +47,7 @@ A deep sea submersible pilot revisits his past fears in the Mariana Trench, and 
 	
 
 ### Slender Man
-*Released on 2018-08-10, vote average 3.5*
+*Released on 2018-08-10, vote average 3.9*
 
 In a small town in Massachusetts, four high school girls perform a ritual in an attempt to debunk the lore of Slender Man. When one of the girls goes mysteriously missing, they begin to suspect that she is, in fact, his latest victim.
 
@@ -68,8 +68,30 @@ In a small town in Massachusetts, four high school girls perform a ritual in an 
 	
 	
 
+### The Spy Who Dumped Me
+*Released on 2018-08-02, vote average 6.5*
+
+Audrey and Morgan are best friends who unwittingly become entangled in an international conspiracy when one of the women discovers the boyfriend who dumped her was actually a spy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/OZsYiWBgFOk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### BlacKkKlansman
-*Released on 2018-08-10, vote average 7.6*
+*Released on 2018-08-10, vote average 8*
 
 Ron Stallworth, an African-American police officer from Colorado, successfully managed to infiltrate the local Ku Klux Klan and became the head of the local chapter.
 
@@ -78,50 +100,6 @@ Ron Stallworth, an African-American police officer from Colorado, successfully m
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/pFc6I0rgmgY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Mile 22
-*Released on 2018-08-10, vote average 7*
-
-A CIA field officer and an Indonesian police officer are forced to work together in confronting political corruption. An informant must be moved twenty-two miles to safety.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3CVV8X01824?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Like Father
-*Released on 2018-08-03, vote average 6.5*
-
-When a workaholic young executive, is left at the altar, she ends up on her Caribbean honeymoon cruise with the last person she ever expected: her estranged and equally workaholic father. The two depart as strangers, but over the course of a few hilarious adventures, a couple of umbrella-clad cocktails and a whole lot of soul-searching, they return with a renewed appreciation for family and life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/_bfqsNh6U7c?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -156,6 +134,50 @@ After a disease kills 98% of America&#39;s children, the surviving 2% develop su
 	
 	
 
+### The Package
+*Released on 2018-08-10, vote average 5.7*
+
+When a group of teenagers goes on a spring break camping trip, an unfortunate accident sets off a race to save their friend’s most prized possession.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FA_K9QPuKuM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Like Father
+*Released on 2018-08-03, vote average 6.4*
+
+When a workaholic young executive, is left at the altar, she ends up on her Caribbean honeymoon cruise with the last person she ever expected: her estranged and equally workaholic father. The two depart as strangers, but over the course of a few hilarious adventures, a couple of umbrella-clad cocktails and a whole lot of soul-searching, they return with a renewed appreciation for family and life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_bfqsNh6U7c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Dog Days
 *Released on 2018-08-10, vote average 2.8*
 
@@ -166,6 +188,77 @@ Elizabeth is a charming anchorwoman who seeks advice from her dog&#39;s therapis
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/fAfqqHwgI1U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Mile 22
+*Released on 2018-08-10, vote average 7*
+
+A CIA field officer and an Indonesian police officer are forced to work together in confronting political corruption. An informant must be moved twenty-two miles to safety.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3CVV8X01824?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Christopher Robin
+*Released on 2018-08-02, vote average 6.9*
+
+Working-class family man Christopher Robin encounters his childhood friend Winnie-the-Pooh, who helps him to rediscover the joys of life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/425M4M3Opkk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Uchu Sentai Kyuranger vs. Space Squad
+*Released on 2018-08-08, vote average 1*
+
+Taking place 4 years after the events of the Uchu Sentai Kyuranger TV series, the universe is at peace. But that changes when Hammie (Chameleon Green) attacks the Rebellion and steals the newly developed Neo Kyutama! Fearing its possible misuse once it falls into the wrong hands, Space Federation President Tsurugi Ohtori (Houou Soldier) declares Hammie wanted all across the universe. Lucky (Shishi Red) and some of the Kyurangers believe in Hammie, fighting against Tsurugi&#39;s decision, causing a rift amongst the Kyurangers. And where do Space Sheriff Gavan and Space Sheriff Shaider fit onto all this?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/VjPItHDBmzg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -198,45 +291,18 @@ Three different stories of youth set in different cities of China.  1 Shanghai L
 
 
 	
-
-  
-
-
-	
 	
 
-### Uchu Sentai Kyuranger vs. Space Squad
-*Released on 2018-08-08, vote average 1*
+### Hope Springs Eternal
+*Released on 2018-08-10, vote average 5*
 
-Taking place 4 years after the events of the Uchu Sentai Kyuranger TV series, the universe is at peace. But that changes when Hammie (Chameleon Green) attacks the Rebellion and steals the newly developed Neo Kyutama! Fearing its possible misuse once it falls into the wrong hands, Space Federation President Tsurugi Ohtori (Houou Soldier) declares Hammie wanted all across the universe. Lucky (Shishi Red) and some of the Kyurangers believe in Hammie, fighting against Tsurugi&#39;s decision, causing a rift amongst the Kyurangers. And where do Space Sheriff Gavan and Space Sheriff Shaider fit onto all this?
+A teen&#39;s cancer diagnosis makes her more popular at school, so when she goes into remission, she decides to conceal the news.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/VjPItHDBmzg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Christopher Robin
-*Released on 2018-08-02, vote average 6.9*
-
-Working-class family man Christopher Robin encounters his childhood friend Winnie-the-Pooh, who helps him to rediscover the joys of life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/425M4M3Opkk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/D6zmzJ8wqZ0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -264,38 +330,16 @@ Working-class family man Christopher Robin encounters his childhood friend Winni
 	
 	
 
-### The Package
-*Released on 2018-08-10, vote average 4.9*
+### Demetri Martin: The Overthinker
+*Released on 2018-08-10, vote average 6*
 
-When a group of teenagers goes on a spring break camping trip, an unfortunate accident sets off a race to save their friend’s most prized possession.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FA_K9QPuKuM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Spy Who Dumped Me
-*Released on 2018-08-02, vote average 6.8*
-
-Audrey and Morgan are best friends who unwittingly become entangled in an international conspiracy when one of the women discovers the boyfriend who dumped her was actually a spy.
+With his signature one-liners and drawings, Demetri Martin muses on doughnut holes, dogs, sports bars, the alphabet&#39;s most aggressive letters and more.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/OZsYiWBgFOk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/O8beQPnPhtU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -310,33 +354,6 @@ Audrey and Morgan are best friends who unwittingly become entangled in an intern
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Vishwaroopam II
-*Released on 2018-08-09, vote average 9*
-
-Wizam attempts to save the nation from warrior Omar.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nOBdtU1tzWk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -345,8 +362,6 @@ Wizam attempts to save the nation from warrior Omar.
 
 ## Opening soon
 
-
-	
 
 	
 
@@ -383,6 +398,8 @@ After an unprecedented global pandemic has turned the majority of humankind into
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
