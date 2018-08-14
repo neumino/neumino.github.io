@@ -47,7 +47,7 @@ A deep sea submersible pilot revisits his past fears in the Mariana Trench, and 
 	
 
 ### Slender Man
-*Released on 2018-08-10, vote average 3.9*
+*Released on 2018-08-10, vote average 4.4*
 
 In a small town in Massachusetts, four high school girls perform a ritual in an attempt to debunk the lore of Slender Man. When one of the girls goes mysteriously missing, they begin to suspect that she is, in fact, his latest victim.
 
@@ -56,94 +56,6 @@ In a small town in Massachusetts, four high school girls perform a ritual in an 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/ySy8mcceTno?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Spy Who Dumped Me
-*Released on 2018-08-02, vote average 6.5*
-
-Audrey and Morgan are best friends who unwittingly become entangled in an international conspiracy when one of the women discovers the boyfriend who dumped her was actually a spy.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/OZsYiWBgFOk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### BlacKkKlansman
-*Released on 2018-08-10, vote average 8*
-
-Ron Stallworth, an African-American police officer from Colorado, successfully managed to infiltrate the local Ku Klux Klan and became the head of the local chapter.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pFc6I0rgmgY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Darkest Minds
-*Released on 2018-08-02, vote average 7*
-
-After a disease kills 98% of America&#39;s children, the surviving 2% develop superpowers and are placed in internment camps. A 16-year-old girl escapes her camp and joins a group of other teens on the run from the government.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tN8o_E_f9FQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Package
-*Released on 2018-08-10, vote average 5.7*
-
-When a group of teenagers goes on a spring break camping trip, an unfortunate accident sets off a race to save their friend’s most prized possession.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FA_K9QPuKuM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -178,16 +90,104 @@ When a workaholic young executive, is left at the altar, she ends up on her Cari
 	
 	
 
-### Dog Days
-*Released on 2018-08-10, vote average 2.8*
+### BlacKkKlansman
+*Released on 2018-08-10, vote average 7.8*
 
-Elizabeth is a charming anchorwoman who seeks advice from her dog&#39;s therapist. Tara is a spunky barista who dreams of a life beyond the coffee shop. Daisy is a dog walker who&#39;s enamored with a client. Garrett pines for a woman while trying to keep his adopt-a-dog business afloat. The beloved canines in their lives soon start to influence their careers, friendships and romantic relationships in funny and unexpected ways.
+Ron Stallworth, an African-American police officer from Colorado, successfully managed to infiltrate the local Ku Klux Klan and became the head of the local chapter.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/fAfqqHwgI1U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/pFc6I0rgmgY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Package
+*Released on 2018-08-10, vote average 5.6*
+
+When a group of teenagers goes on a spring break camping trip, an unfortunate accident sets off a race to save their friend’s most prized possession.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FA_K9QPuKuM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Darkest Minds
+*Released on 2018-08-02, vote average 7*
+
+After a disease kills 98% of America&#39;s children, the surviving 2% develop superpowers and are placed in internment camps. A 16-year-old girl escapes her camp and joins a group of other teens on the run from the government.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/tN8o_E_f9FQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Spy Who Dumped Me
+*Released on 2018-08-02, vote average 6.4*
+
+Audrey and Morgan are best friends who unwittingly become entangled in an international conspiracy when one of the women discovers the boyfriend who dumped her was actually a spy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/OZsYiWBgFOk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Christopher Robin
+*Released on 2018-08-02, vote average 7*
+
+Working-class family man Christopher Robin encounters his childhood friend Winnie-the-Pooh, who helps him to rediscover the joys of life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/425M4M3Opkk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -220,6 +220,28 @@ A CIA field officer and an Indonesian police officer are forced to work together
 
 
 	
+	
+
+### Freaky Friday
+*Released on 2018-08-10, vote average 3*
+
+When an overworked mother and her teenage daughter magically swap bodies, they have just one day to put things right again before mom’s big wedding.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/GhajYz6tH1A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 
   
 
@@ -227,16 +249,38 @@ A CIA field officer and an Indonesian police officer are forced to work together
 	
 	
 
-### Christopher Robin
-*Released on 2018-08-02, vote average 6.9*
+### Flavors of Youth
+*Released on 2018-08-04, vote average 6.8*
 
-Working-class family man Christopher Robin encounters his childhood friend Winnie-the-Pooh, who helps him to rediscover the joys of life.
+Three different stories of youth set in different cities of China.  1 Shanghai Love.  2 Sunny Breakfast.  3 Small Fashion Show.  Directed by Zhenxing Yi, the plot revolves around a young man working in Beijing. He used to live with his grandma in his less developed hometown Hunan. While he is drown in his childhood reminiscence, he receives an unexpected call – Grandma is in critical condition.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/425M4M3Opkk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/CKdOr976h3Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Dog Days
+*Released on 2018-08-10, vote average 2.8*
+
+Elizabeth is a charming anchorwoman who seeks advice from her dog&#39;s therapist. Tara is a spunky barista who dreams of a life beyond the coffee shop. Daisy is a dog walker who&#39;s enamored with a client. Garrett pines for a woman while trying to keep his adopt-a-dog business afloat. The beloved canines in their lives soon start to influence their careers, friendships and romantic relationships in funny and unexpected ways.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fAfqqHwgI1U?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -271,38 +315,16 @@ Taking place 4 years after the events of the Uchu Sentai Kyuranger TV series, th
 	
 	
 
-### Flavors of Youth
-*Released on 2018-08-04, vote average 6.9*
+### Kesha: Rainbow - The Film
+*Released on 2018-08-10, vote average 10*
 
-Three different stories of youth set in different cities of China.  1 Shanghai Love.  2 Sunny Breakfast.  3 Small Fashion Show.  Directed by Zhenxing Yi, the plot revolves around a young man working in Beijing. He used to live with his grandma in his less developed hometown Hunan. While he is drown in his childhood reminiscence, he receives an unexpected call – Grandma is in critical condition.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/CKdOr976h3Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Hope Springs Eternal
-*Released on 2018-08-10, vote average 5*
-
-A teen&#39;s cancer diagnosis makes her more popular at school, so when she goes into remission, she decides to conceal the news.
+In this moving short film, pop superstar Kesha shares the vision behind her 2017 album, Rainbow. An intimate portrait of her songwriting process and personal struggles—depression, insomnia, and an eating disorder—the piece follows her journey from hospitals and rehab to a triumphant performance of “Praying” at the 2018 GRAMMY® awards. “It’s called Rainbow because after the storm, there’s a rainbow,” she says in the film. “I wrote it as a message to myself that I could make it through.” The film includes music video clips, live performances, and footage of the singer writing and recording with Ben Folds, the Dap-Kings, and Sandra Williams.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/D6zmzJ8wqZ0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Y_sZnhp466c?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -322,28 +344,6 @@ A teen&#39;s cancer diagnosis makes her more popular at school, so when she goes
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Demetri Martin: The Overthinker
-*Released on 2018-08-10, vote average 6*
-
-With his signature one-liners and drawings, Demetri Martin muses on doughnut holes, dogs, sports bars, the alphabet&#39;s most aggressive letters and more.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/O8beQPnPhtU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -366,15 +366,22 @@ With his signature one-liners and drawings, Demetri Martin muses on doughnut hol
 	
 
 	
-
 	
 
-	
+### Juliet, Naked
+*Released on 2018-08-16, vote average 5*
+
+A woman has a romance with a past his prime musician revered by a man in her life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/oMjSNkAaABs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-	
-
 	
 
 	
@@ -385,7 +392,7 @@ With his signature one-liners and drawings, Demetri Martin muses on doughnut hol
 	
 
 ### Patient Zero
-*Released on 2018-08-14, vote average 6.7*
+*Released on 2018-08-14, vote average 6.4*
 
 After an unprecedented global pandemic has turned the majority of humankind into violent &#34;Infected,&#34; a man gifted with the ability to speak the Infected&#39;s new language leads the last survivors on a hunt for Patient Zero and a cure.
 
@@ -398,6 +405,33 @@ After an unprecedented global pandemic has turned the majority of humankind into
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+	
+
+### The Wife
+*Released on 2018-08-17, vote average 10*
+
+A wife questions her life choices as she travels to Stockholm with her husband, where he is slated to receive the Nobel Prize for Literature.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/d81IM0loH7o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
 	
 
 	
