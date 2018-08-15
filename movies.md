@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Meg
-*Released on 2018-08-09, vote average 6.6*
+*Released on 2018-08-09, vote average 6.5*
 
 A deep sea submersible pilot revisits his past fears in the Mariana Trench, and accidentally unleashes the seventy foot ancestor of the Great White Shark believed to be extinct.
 
@@ -46,8 +46,74 @@ A deep sea submersible pilot revisits his past fears in the Mariana Trench, and 
 	
 	
 
+### The Package
+*Released on 2018-08-10, vote average 5.6*
+
+When a group of teenagers goes on a spring break camping trip, an unfortunate accident sets off a race to save their friend’s most prized possession.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FA_K9QPuKuM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Spy Who Dumped Me
+*Released on 2018-08-02, vote average 6.4*
+
+Audrey and Morgan are best friends who unwittingly become entangled in an international conspiracy when one of the women discovers the boyfriend who dumped her was actually a spy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/OZsYiWBgFOk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### BlacKkKlansman
+*Released on 2018-08-10, vote average 7.7*
+
+Ron Stallworth, an African-American police officer from Colorado, successfully managed to infiltrate the local Ku Klux Klan and became the head of the local chapter.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pFc6I0rgmgY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Slender Man
-*Released on 2018-08-10, vote average 4.4*
+*Released on 2018-08-10, vote average 3.9*
 
 In a small town in Massachusetts, four high school girls perform a ritual in an attempt to debunk the lore of Slender Man. When one of the girls goes mysteriously missing, they begin to suspect that she is, in fact, his latest victim.
 
@@ -90,50 +156,6 @@ When a workaholic young executive, is left at the altar, she ends up on her Cari
 	
 	
 
-### BlacKkKlansman
-*Released on 2018-08-10, vote average 7.8*
-
-Ron Stallworth, an African-American police officer from Colorado, successfully managed to infiltrate the local Ku Klux Klan and became the head of the local chapter.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pFc6I0rgmgY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Package
-*Released on 2018-08-10, vote average 5.6*
-
-When a group of teenagers goes on a spring break camping trip, an unfortunate accident sets off a race to save their friend’s most prized possession.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FA_K9QPuKuM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Darkest Minds
 *Released on 2018-08-02, vote average 7*
 
@@ -144,28 +166,6 @@ After a disease kills 98% of America&#39;s children, the surviving 2% develop su
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/tN8o_E_f9FQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Spy Who Dumped Me
-*Released on 2018-08-02, vote average 6.4*
-
-Audrey and Morgan are best friends who unwittingly become entangled in an international conspiracy when one of the women discovers the boyfriend who dumped her was actually a spy.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/OZsYiWBgFOk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -214,6 +214,11 @@ A CIA field officer and an Indonesian police officer are forced to work together
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -291,6 +296,11 @@ Elizabeth is a charming anchorwoman who seeks advice from her dog&#39;s therapis
 
 
 	
+
+  
+
+
+	
 	
 
 ### Uchu Sentai Kyuranger vs. Space Squad
@@ -314,46 +324,38 @@ Taking place 4 years after the events of the Uchu Sentai Kyuranger TV series, th
 
 	
 	
+	
 
-### Kesha: Rainbow - The Film
-*Released on 2018-08-10, vote average 10*
+  
 
-In this moving short film, pop superstar Kesha shares the vision behind her 2017 album, Rainbow. An intimate portrait of her songwriting process and personal struggles—depression, insomnia, and an eating disorder—the piece follows her journey from hospitals and rehab to a triumphant performance of “Praying” at the 2018 GRAMMY® awards. “It’s called Rainbow because after the storm, there’s a rainbow,” she says in the film. “I wrote it as a message to myself that I could make it through.” The film includes music video clips, live performances, and footage of the singer writing and recording with Ben Folds, the Dap-Kings, and Sandra Williams.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Patient Zero
+*Released on 2018-08-14, vote average 5.3*
+
+After an unprecedented global pandemic has turned the majority of humankind into violent &#34;Infected,&#34; a man gifted with the ability to speak the Infected&#39;s new language leads the last survivors on a hunt for Patient Zero and a cure.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Y_sZnhp466c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/W9uddyaqAPE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -388,23 +390,6 @@ A woman has a romance with a past his prime musician revered by a man in her lif
 
 	
 
-	
-	
-
-### Patient Zero
-*Released on 2018-08-14, vote average 6.4*
-
-After an unprecedented global pandemic has turned the majority of humankind into violent &#34;Infected,&#34; a man gifted with the ability to speak the Infected&#39;s new language leads the last survivors on a hunt for Patient Zero and a cure.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/W9uddyaqAPE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
