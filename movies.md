@@ -46,8 +46,52 @@ A deep sea submersible pilot revisits his past fears in the Mariana Trench, and 
 	
 	
 
+### Alpha
+*Released on 2018-08-17, vote average 7*
+
+After a hunting expedition goes awry, a young caveman struggles against the elements to find his way home.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/uIxnTi4GmCo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Marainthirunthu Paarkum Marmam Enna
+*Released on 2018-08-17, vote average 2*
+
+A daring young man joins a gang that is behind chain-snatching crimes in the city. What&#39;s his game plan?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ebXgYUP1s4M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Package
-*Released on 2018-08-10, vote average 5.5*
+*Released on 2018-08-10, vote average 5.6*
 
 When a group of teenagers goes on a spring break camping trip, an unfortunate accident sets off a race to save their friend’s most prized possession.
 
@@ -68,16 +112,16 @@ When a group of teenagers goes on a spring break camping trip, an unfortunate ac
 	
 	
 
-### Crazy Rich Asians
-*Released on 2018-08-15, vote average 1*
+### A.X.L.
+*Released on 2018-08-16, vote average 2.5*
 
-An American-born Chinese economics professor accompanies her boyfriend to Singapore for his best friend&#39;s wedding, only to get thrust into the lives of Asia&#39;s rich and famous.
+The life of a teenage boy is forever altered by a chance encounter with cutting edge military technology.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/PI5mBzQ1Iok?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/--8nr2kt4uk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -90,16 +134,16 @@ An American-born Chinese economics professor accompanies her boyfriend to Singap
 	
 	
 
-### BlacKkKlansman
-*Released on 2018-08-10, vote average 7.3*
+### Crazy Rich Asians
+*Released on 2018-08-15, vote average 5.3*
 
-Ron Stallworth, an African-American police officer from Colorado, successfully manages to infiltrate the local Ku Klux Klan and become the head of the local chapter.
+An American-born Chinese economics professor accompanies her boyfriend to Singapore for his best friend&#39;s wedding, only to get thrust into the lives of Asia&#39;s rich and famous.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/pFc6I0rgmgY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/PI5mBzQ1Iok?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -132,87 +176,6 @@ A woman has a romance with a past his prime musician revered by a man in her lif
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Snapshots
-*Released on 2018-08-14, vote average 7*
-
-Rose spends her days fishing near the beautiful lake house she’s called home for 50 years. She’s not getting any younger and her daughter Patti worries about Rose being all alone, but the stubborn matriarch will not sell. There are memories here that she doesn’t want to leave. These come flooding back one weekend during a visit from Patti and granddaughter Allison, when a long-forgotten roll of film reminds Rose of the summer she met and fell in love with the bold and beautiful Louise.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/gB8WRTcTjLs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Patient Zero
-*Released on 2018-08-14, vote average 5.4*
-
-After an unprecedented global pandemic has turned the majority of humankind into violent &#39;Infected&#39;, a man gifted with the ability to speak the Infected&#39;s new language leads the last survivors on a hunt for Patient Zero and a cure.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/W9uddyaqAPE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Mile 22
-*Released on 2018-08-10, vote average 7*
-
-A CIA field officer and an Indonesian police officer are forced to work together in confronting political corruption. An informant must be moved twenty-two miles to safety.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3CVV8X01824?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 	
 
 ### Slender Man
@@ -235,6 +198,23 @@ In a small town in Massachusetts, four high school girls perform a ritual in an 
 
 
 	
+	
+
+### BlacKkKlansman
+*Released on 2018-08-10, vote average 7.5*
+
+Ron Stallworth, an African-American police officer from Colorado, successfully manages to infiltrate the local Ku Klux Klan and become the head of the local chapter.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pFc6I0rgmgY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -242,20 +222,25 @@ In a small town in Massachusetts, four high school girls perform a ritual in an 
 	
 	
 
-### Like Father
-*Released on 2018-08-03, vote average 6.5*
+### Patient Zero
+*Released on 2018-08-14, vote average 5*
 
-When a workaholic young executive, is left at the altar, she ends up on her Caribbean honeymoon cruise with the last person she ever expected: her estranged and equally workaholic father. The two depart as strangers, but over the course of a few hilarious adventures, a couple of umbrella-clad cocktails and a whole lot of soul-searching, they return with a renewed appreciation for family and life.
+After an unprecedented global pandemic has turned the majority of humankind into violent &#39;Infected&#39;, a man gifted with the ability to speak the Infected&#39;s new language leads the last survivors on a hunt for Patient Zero and a cure.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/_bfqsNh6U7c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/W9uddyaqAPE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -284,12 +269,49 @@ A wife questions her life choices as she travels to Stockholm with her husband, 
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Mile 22
+*Released on 2018-08-10, vote average 4*
+
+A CIA field officer and an Indonesian police officer are forced to work together in confronting political corruption. An informant must be moved twenty-two miles to safety.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3CVV8X01824?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### To All the Boys I&#39;ve Loved Before
-*Released on 2018-08-17, vote average 6*
+*Released on 2018-08-17, vote average 8.2*
 
-Lara Jean’s love life goes from imaginary to out of control when her secret letters to every boy she’s ever fallen for are mysteriously mailed out.
+Lara Jean&#39;s love life goes from imaginary to out of control when her secret letters to every boy she&#39;s ever fallen for are mysteriously mailed out.
 
 <iframe id="player"
 	type="text/html"
@@ -310,28 +332,6 @@ Lara Jean’s love life goes from imaginary to out of control when her secret le
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Geetha Govindam
-*Released on 2018-08-15, vote average 7.5*
-
-It is a tale of a young guy Govindam who falls in love with a peppy girl named Geetha. Govindam tries his best to impress her in many ways.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/OYK2eJ0oeg8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -353,41 +353,7 @@ It is a tale of a young guy Govindam who falls in love with a peppy girl named G
 	
 
 	
-	
 
-### The Wife
-*Released on 2018-08-17, vote average 10*
-
-A wife questions her life choices as she travels to Stockholm with her husband, where he is slated to receive the Nobel Prize for Literature.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/d81IM0loH7o?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### To All the Boys I&#39;ve Loved Before
-*Released on 2018-08-17, vote average 6*
-
-Lara Jean’s love life goes from imaginary to out of control when her secret letters to every boy she’s ever fallen for are mysteriously mailed out.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/mTLc_RzqaJc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
