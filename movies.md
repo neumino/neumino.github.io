@@ -46,16 +46,16 @@ A deep sea submersible pilot revisits his past fears in the Mariana Trench, and 
 	
 	
 
-### Alpha
-*Released on 2018-08-17, vote average 7*
+### Marainthirunthu Paarkum Marmam Enna
+*Released on 2018-08-17, vote average 2*
 
-After a hunting expedition goes awry, a young caveman struggles against the elements to find his way home.
+A daring young man joins a gang that is behind chain-snatching crimes in the city. What&#39;s his game plan?
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/uIxnTi4GmCo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ebXgYUP1s4M?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,16 +68,16 @@ After a hunting expedition goes awry, a young caveman struggles against the elem
 	
 	
 
-### Marainthirunthu Paarkum Marmam Enna
-*Released on 2018-08-17, vote average 2*
+### Alpha
+*Released on 2018-08-17, vote average 6.8*
 
-A daring young man joins a gang that is behind chain-snatching crimes in the city. What&#39;s his game plan?
+After a hunting expedition goes awry, a young caveman struggles against the elements to find his way home.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ebXgYUP1s4M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/uIxnTi4GmCo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -132,89 +132,6 @@ The life of a teenage boy is forever altered by a chance encounter with cutting 
 
 
 	
-	
-
-### Crazy Rich Asians
-*Released on 2018-08-15, vote average 5.3*
-
-An American-born Chinese economics professor accompanies her boyfriend to Singapore for his best friend&#39;s wedding, only to get thrust into the lives of Asia&#39;s rich and famous.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/PI5mBzQ1Iok?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Juliet, Naked
-*Released on 2018-08-16, vote average 5*
-
-A woman has a romance with a past his prime musician revered by a man in her life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/oMjSNkAaABs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Slender Man
-*Released on 2018-08-10, vote average 4.2*
-
-In a small town in Massachusetts, four high school girls perform a ritual in an attempt to debunk the lore of Slender Man. When one of the girls goes mysteriously missing, they begin to suspect that she is, in fact, his latest victim.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ySy8mcceTno?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### BlacKkKlansman
-*Released on 2018-08-10, vote average 7.5*
-
-Ron Stallworth, an African-American police officer from Colorado, successfully manages to infiltrate the local Ku Klux Klan and become the head of the local chapter.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pFc6I0rgmgY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -223,7 +140,7 @@ Ron Stallworth, an African-American police officer from Colorado, successfully m
 	
 
 ### Patient Zero
-*Released on 2018-08-14, vote average 5*
+*Released on 2018-08-14, vote average 5.2*
 
 After an unprecedented global pandemic has turned the majority of humankind into violent &#39;Infected&#39;, a man gifted with the ability to speak the Infected&#39;s new language leads the last survivors on a hunt for Patient Zero and a cure.
 
@@ -236,38 +153,6 @@ After an unprecedented global pandemic has turned the majority of humankind into
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Wife
-*Released on 2018-08-17, vote average 10*
-
-A wife questions her life choices as she travels to Stockholm with her husband, where he is slated to receive the Nobel Prize for Literature.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/d81IM0loH7o?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -301,6 +186,67 @@ A CIA field officer and an Indonesian police officer are forced to work together
 
 
 	
+	
+
+### Crazy Rich Asians
+*Released on 2018-08-15, vote average 6.5*
+
+An American-born Chinese economics professor accompanies her boyfriend to Singapore for his best friend&#39;s wedding, only to get thrust into the lives of Asia&#39;s rich and famous.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PI5mBzQ1Iok?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### BlacKkKlansman
+*Released on 2018-08-10, vote average 7.6*
+
+Ron Stallworth, an African-American police officer from Colorado, successfully manages to infiltrate the local Ku Klux Klan and become the head of the local chapter.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pFc6I0rgmgY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Wife
+*Released on 2018-08-17, vote average 10*
+
+A wife questions her life choices as she travels to Stockholm with her husband, where he is slated to receive the Nobel Prize for Literature.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/d81IM0loH7o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -309,7 +255,7 @@ A CIA field officer and an Indonesian police officer are forced to work together
 	
 
 ### To All the Boys I&#39;ve Loved Before
-*Released on 2018-08-17, vote average 8.2*
+*Released on 2018-08-17, vote average 8.4*
 
 Lara Jean&#39;s love life goes from imaginary to out of control when her secret letters to every boy she&#39;s ever fallen for are mysteriously mailed out.
 
@@ -322,6 +268,43 @@ Lara Jean&#39;s love life goes from imaginary to out of control when her secret 
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Juliet, Naked
+*Released on 2018-08-16, vote average 5*
+
+A woman has a romance with a past his prime musician revered by a man in her life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/oMjSNkAaABs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
