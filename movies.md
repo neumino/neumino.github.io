@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Meg
-*Released on 2018-08-09, vote average 6.3*
+*Released on 2018-08-09, vote average 6.2*
 
 A deep sea submersible pilot revisits his past fears in the Mariana Trench, and accidentally unleashes the seventy foot ancestor of the Great White Shark believed to be extinct.
 
@@ -69,7 +69,7 @@ A daring young man joins a gang that is behind chain-snatching crimes in the cit
 	
 
 ### Alpha
-*Released on 2018-08-17, vote average 6.8*
+*Released on 2018-08-17, vote average 6.1*
 
 After a hunting expedition goes awry, a young caveman struggles against the elements to find his way home.
 
@@ -78,28 +78,6 @@ After a hunting expedition goes awry, a young caveman struggles against the elem
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/uIxnTi4GmCo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Package
-*Released on 2018-08-10, vote average 5.6*
-
-When a group of teenagers goes on a spring break camping trip, an unfortunate accident sets off a race to save their friend’s most prized possession.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FA_K9QPuKuM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -132,64 +110,10 @@ The life of a teenage boy is forever altered by a chance encounter with cutting 
 
 
 	
-
-  
-
-
-	
-	
-
-### Patient Zero
-*Released on 2018-08-14, vote average 5.2*
-
-After an unprecedented global pandemic has turned the majority of humankind into violent &#39;Infected&#39;, a man gifted with the ability to speak the Infected&#39;s new language leads the last survivors on a hunt for Patient Zero and a cure.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/W9uddyaqAPE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Mile 22
-*Released on 2018-08-10, vote average 4*
-
-A CIA field officer and an Indonesian police officer are forced to work together in confronting political corruption. An informant must be moved twenty-two miles to safety.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3CVV8X01824?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 	
 
 ### Crazy Rich Asians
-*Released on 2018-08-15, vote average 6.5*
+*Released on 2018-08-15, vote average 6.8*
 
 An American-born Chinese economics professor accompanies her boyfriend to Singapore for his best friend&#39;s wedding, only to get thrust into the lives of Asia&#39;s rich and famous.
 
@@ -232,16 +156,38 @@ Ron Stallworth, an African-American police officer from Colorado, successfully m
 	
 	
 
-### The Wife
-*Released on 2018-08-17, vote average 10*
+### The Package
+*Released on 2018-08-10, vote average 5.5*
 
-A wife questions her life choices as she travels to Stockholm with her husband, where he is slated to receive the Nobel Prize for Literature.
+When a group of teenagers goes on a spring break camping trip, an unfortunate accident sets off a race to save their friend’s most prized possession.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/d81IM0loH7o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/FA_K9QPuKuM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Mile 22
+*Released on 2018-08-10, vote average 5.7*
+
+A CIA field officer and an Indonesian police officer are forced to work together in confronting political corruption. An informant must be moved twenty-two miles to safety.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3CVV8X01824?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -268,6 +214,97 @@ Lara Jean&#39;s love life goes from imaginary to out of control when her secret 
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Patient Zero
+*Released on 2018-08-14, vote average 5.2*
+
+After an unprecedented global pandemic has turned the majority of humankind into violent &#39;Infected&#39;, a man gifted with the ability to speak the Infected&#39;s new language leads the last survivors on a hunt for Patient Zero and a cure.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/W9uddyaqAPE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Slender Man
+*Released on 2018-08-10, vote average 3.8*
+
+In a small town in Massachusetts, four high school girls perform a ritual in an attempt to debunk the lore of Slender Man. When one of the girls goes mysteriously missing, they begin to suspect that she is, in fact, his latest victim.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ySy8mcceTno?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Wife
+*Released on 2018-08-17, vote average 10*
+
+A wife questions her life choices as she travels to Stockholm with her husband, where he is slated to receive the Nobel Prize for Literature.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/d81IM0loH7o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -305,30 +342,27 @@ A woman has a romance with a past his prime musician revered by a man in her lif
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
 
+	
+	
+
+### Searching
+*Released on 2018-08-24, vote average 5*
+
+After his 16-year-old daughter goes missing, a desperate father breaks into her laptop to look for clues to find her. A thriller that unfolds entirely on computer screens.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3Ro9ebQxEOY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
