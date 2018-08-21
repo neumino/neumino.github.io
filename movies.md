@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Meg
-*Released on 2018-08-09, vote average 6.2*
+*Released on 2018-08-09, vote average 6.3*
 
 A deep sea submersible pilot revisits his past fears in the Mariana Trench, and accidentally unleashes the seventy foot ancestor of the Great White Shark believed to be extinct.
 
@@ -90,30 +90,8 @@ After a hunting expedition goes awry, a young caveman struggles against the elem
 	
 	
 
-### A.X.L.
-*Released on 2018-08-16, vote average 2.5*
-
-The life of a teenage boy is forever altered by a chance encounter with cutting edge military technology.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/--8nr2kt4uk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Crazy Rich Asians
-*Released on 2018-08-15, vote average 6.8*
+*Released on 2018-08-15, vote average 7*
 
 An American-born Chinese economics professor accompanies her boyfriend to Singapore for his best friend&#39;s wedding, only to get thrust into the lives of Asia&#39;s rich and famous.
 
@@ -122,72 +100,6 @@ An American-born Chinese economics professor accompanies her boyfriend to Singap
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/PI5mBzQ1Iok?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### BlacKkKlansman
-*Released on 2018-08-10, vote average 7.6*
-
-Ron Stallworth, an African-American police officer from Colorado, successfully manages to infiltrate the local Ku Klux Klan and become the head of the local chapter.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pFc6I0rgmgY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Package
-*Released on 2018-08-10, vote average 5.5*
-
-When a group of teenagers goes on a spring break camping trip, an unfortunate accident sets off a race to save their friend’s most prized possession.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FA_K9QPuKuM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Mile 22
-*Released on 2018-08-10, vote average 5.7*
-
-A CIA field officer and an Indonesian police officer are forced to work together in confronting political corruption. An informant must be moved twenty-two miles to safety.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3CVV8X01824?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -222,8 +134,106 @@ Lara Jean&#39;s love life goes from imaginary to out of control when her secret 
 	
 	
 
+### Mile 22
+*Released on 2018-08-10, vote average 5.8*
+
+A CIA field officer and an Indonesian police officer are forced to work together in confronting political corruption. An informant must be moved twenty-two miles to safety.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3CVV8X01824?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### A.X.L.
+*Released on 2018-08-16, vote average 2.4*
+
+The life of a teenage boy is forever altered by a chance encounter with cutting edge military technology.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/--8nr2kt4uk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Package
+*Released on 2018-08-10, vote average 5.5*
+
+When a group of teenagers goes on a spring break camping trip, an unfortunate accident sets off a race to save their friend’s most prized possession.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FA_K9QPuKuM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### BlacKkKlansman
+*Released on 2018-08-10, vote average 7.6*
+
+Ron Stallworth, an African-American police officer from Colorado, successfully manages to infiltrate the local Ku Klux Klan and become the head of the local chapter.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pFc6I0rgmgY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### Patient Zero
-*Released on 2018-08-14, vote average 5.2*
+*Released on 2018-08-14, vote average 5.1*
 
 After an unprecedented global pandemic has turned the majority of humankind into violent &#39;Infected&#39;, a man gifted with the ability to speak the Infected&#39;s new language leads the last survivors on a hunt for Patient Zero and a cure.
 
@@ -247,15 +257,10 @@ After an unprecedented global pandemic has turned the majority of humankind into
 
 
 	
-
-  
-
-
-	
 	
 
 ### Slender Man
-*Released on 2018-08-10, vote average 3.8*
+*Released on 2018-08-10, vote average 4.1*
 
 In a small town in Massachusetts, four high school girls perform a ritual in an attempt to debunk the lore of Slender Man. When one of the girls goes mysteriously missing, they begin to suspect that she is, in fact, his latest victim.
 
@@ -268,6 +273,21 @@ In a small town in Massachusetts, four high school girls perform a ritual in an 
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -305,46 +325,13 @@ A wife questions her life choices as she travels to Stockholm with her husband, 
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Juliet, Naked
-*Released on 2018-08-16, vote average 5*
-
-A woman has a romance with a past his prime musician revered by a man in her life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/oMjSNkAaABs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
+
+	
+
+	
 
 	
 	
@@ -363,10 +350,6 @@ After his 16-year-old daughter goes missing, a desperate father breaks into her 
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
 	
 
 	
