@@ -69,7 +69,7 @@ A daring young man joins a gang that is behind chain-snatching crimes in the cit
 	
 
 ### Alpha
-*Released on 2018-08-17, vote average 6.1*
+*Released on 2018-08-17, vote average 5.6*
 
 After a hunting expedition goes awry, a young caveman struggles against the elements to find his way home.
 
@@ -113,7 +113,7 @@ Lara Jean&#39;s love life goes from imaginary to out of control when her secret 
 	
 
 ### Crazy Rich Asians
-*Released on 2018-08-15, vote average 7.5*
+*Released on 2018-08-15, vote average 7.1*
 
 An American-born Chinese economics professor accompanies her boyfriend to Singapore for his best friend&#39;s wedding, only to get thrust into the lives of Asia&#39;s rich and famous.
 
@@ -156,33 +156,6 @@ The Seven Deadly Sins travel to a remote land in search of the phantom ingredien
 	
 	
 
-### BlacKkKlansman
-*Released on 2018-08-09, vote average 7.8*
-
-Ron Stallworth, an African-American police officer from Colorado, successfully manages to infiltrate the local Ku Klux Klan and become the head of the local chapter.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pFc6I0rgmgY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### A.X.L.
 *Released on 2018-08-16, vote average 2.4*
 
@@ -205,16 +178,16 @@ The life of a teenage boy is forever altered by a chance encounter with cutting 
 	
 	
 
-### Mile 22
-*Released on 2018-08-10, vote average 5.7*
+### The Little Mermaid
+*Released on 2018-08-17, vote average 2.7*
 
-A CIA field officer and an Indonesian police officer are forced to work together in confronting political corruption. An informant must be moved twenty-two miles to safety.
+A young reporter and his niece discover a beautiful and enchanting creature they believe to be the real little mermaid.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/3CVV8X01824?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/usl5u9ruA0U?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -249,8 +222,128 @@ When a group of teenagers goes on a spring break camping trip, an unfortunate ac
 	
 	
 
+### BlacKkKlansman
+*Released on 2018-08-09, vote average 7.8*
+
+Ron Stallworth, an African-American police officer from Colorado, successfully manages to infiltrate the local Ku Klux Klan and become the head of the local chapter.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pFc6I0rgmgY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Mile 22
+*Released on 2018-08-10, vote average 5.5*
+
+A CIA field officer and an Indonesian police officer are forced to work together in confronting political corruption. An informant must be moved twenty-two miles to safety.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3CVV8X01824?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Slender Man
+*Released on 2018-08-10, vote average 4.2*
+
+In a small town in Massachusetts, four high school girls perform a ritual in an attempt to debunk the lore of Slender Man. When one of the girls goes mysteriously missing, they begin to suspect that she is, in fact, his latest victim.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ySy8mcceTno?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Domestics
+*Released on 2018-08-23, vote average 10*
+
+A young husband and wife must fight to return home in a post-apocalyptic mid-western landscape ravaged by gangs.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IrcQhTm2h2I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Last Sharknado: It&#39;s About Time
+*Released on 2018-08-23, vote average 5*
+
+With much of America lying in ruins, the rest of the world braces for a global sharknado, Fin and his family must travel around the world to stop them.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Mew6nQLtAMk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Patient Zero
-*Released on 2018-08-14, vote average 5.2*
+*Released on 2018-08-14, vote average 5.1*
 
 After an unprecedented global pandemic has turned the majority of humankind into violent &#39;Infected&#39;, a man gifted with the ability to speak the Infected&#39;s new language leads the last survivors on a hunt for Patient Zero and a cure.
 
@@ -276,53 +369,16 @@ After an unprecedented global pandemic has turned the majority of humankind into
 	
 	
 
-### Slender Man
-*Released on 2018-08-10, vote average 4.1*
+### What Still Remains
+*Released on 2018-08-14, vote average 6.7*
 
-In a small town in Massachusetts, four high school girls perform a ritual in an attempt to debunk the lore of Slender Man. When one of the girls goes mysteriously missing, they begin to suspect that she is, in fact, his latest victim.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ySy8mcceTno?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Running for Grace
-*Released on 2018-08-17, vote average 6*
-
-An orphan boy of mixed race finds family with the newly arrived white village doctor in Hawaii. The boy can run like the wind, and begins bringing Doc&#39;s medicine to coffee pickers throughout the mountainous region. On an errand, the medicine runner meets the daughter of the plantation owner and a forbidden, young love blossoms like the white &#34;Kona Snow&#34; of the surrounding coffee trees.
+After the loss of her family, a young woman struggles to survive in a world long-since destroyed by disease; but when a lonely traveler offers her a place in his community, she must decide if the promise of a better life is worth the risk of trusting him.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/b-XDdH5jS4M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/LLFYxOZ1igg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -354,33 +410,9 @@ A wife questions her life choices as she travels to Stockholm with her husband, 
   
 
 
-	
-
-  
-
-
 
 ## Opening soon
 
-
-	
-	
-
-### The Last Sharknado: It&#39;s About Time
-*Released on 2018-08-23, vote average 5*
-
-With much of America lying in ruins, the rest of the world braces for a global sharknado, Fin and his family must travel around the world to stop them.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Mew6nQLtAMk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 	
@@ -404,8 +436,27 @@ A young husband and wife must fight to return home in a post-apocalyptic mid-wes
 	
 	
 
+### The Last Sharknado: It&#39;s About Time
+*Released on 2018-08-23, vote average 5*
+
+With much of America lying in ruins, the rest of the world braces for a global sharknado, Fin and his family must travel around the world to stop them.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Mew6nQLtAMk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
 ### Searching
-*Released on 2018-08-24, vote average 5*
+*Released on 2018-08-24, vote average 7.3*
 
 After his 16-year-old daughter goes missing, a desperate father breaks into her laptop to look for clues to find her. A thriller that unfolds entirely on computer screens.
 
