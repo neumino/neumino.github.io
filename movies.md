@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### The Meg
-*Released on 2018-08-09, vote average 6.3*
+### Marainthirunthu Paarkum Marmam Enna
+*Released on 2018-08-17, vote average 3.3*
 
-A deep sea submersible pilot revisits his past fears in the Mariana Trench, and accidentally unleashes the seventy foot ancestor of the Great White Shark believed to be extinct.
+A daring young man joins a gang that is behind chain-snatching crimes in the city. What&#39;s his game plan?
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/bsLk0NPRFAc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ebXgYUP1s4M?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,30 +46,8 @@ A deep sea submersible pilot revisits his past fears in the Mariana Trench, and 
 	
 	
 
-### Marainthirunthu Paarkum Marmam Enna
-*Released on 2018-08-17, vote average 3*
-
-A daring young man joins a gang that is behind chain-snatching crimes in the city. What&#39;s his game plan?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ebXgYUP1s4M?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Alpha
-*Released on 2018-08-17, vote average 5.6*
+*Released on 2018-08-17, vote average 5.3*
 
 After a hunting expedition goes awry, a young caveman struggles against the elements to find his way home.
 
@@ -112,8 +90,30 @@ Lara Jean&#39;s love life goes from imaginary to out of control when her secret 
 	
 	
 
+### The Seven Deadly Sins: Prisoners of the Sky
+*Released on 2018-08-18, vote average 6.3*
+
+The Seven Deadly Sins travel to a remote land in search of the phantom ingredient &#34;sky fish.&#34; Meliodas and Hawk end up at a &#34;Sky Palace&#34; that exists above the clouds, where all the residents have wings. Meliodas is mistaken for a boy who committed a crime and is thrown in prison. Meanwhile, the residents are preparing a ceremony for defense against a ferocious beast that awakens once every 3,000 years. But the Six Knights of Black, a Demon Clan army, arrives and removes the seal on the beast in order to threaten the lives of the residents of Sky Palace. Meliodas and his allies meet the Six Knights of Black in battle.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/spFeJK30TXw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Crazy Rich Asians
-*Released on 2018-08-15, vote average 7.1*
+*Released on 2018-08-15, vote average 7.3*
 
 An American-born Chinese economics professor accompanies her boyfriend to Singapore for his best friend&#39;s wedding, only to get thrust into the lives of Asia&#39;s rich and famous.
 
@@ -134,16 +134,16 @@ An American-born Chinese economics professor accompanies her boyfriend to Singap
 	
 	
 
-### The Seven Deadly Sins: Prisoners of the Sky
-*Released on 2018-08-18, vote average 6.5*
+### The Little Mermaid
+*Released on 2018-08-17, vote average 5.2*
 
-The Seven Deadly Sins travel to a remote land in search of the phantom ingredient &#34;sky fish.&#34; Meliodas and Hawk end up at a &#34;Sky Palace&#34; that exists above the clouds, where all the residents have wings. Meliodas is mistaken for a boy who committed a crime and is thrown in prison. Meanwhile, the residents are preparing a ceremony for defense against a ferocious beast that awakens once every 3,000 years. But the Six Knights of Black, a Demon Clan army, arrives and removes the seal on the beast in order to threaten the lives of the residents of Sky Palace. Meliodas and his allies meet the Six Knights of Black in battle.
+A young reporter and his niece discover a beautiful and enchanting creature they believe to be the real little mermaid.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/spFeJK30TXw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/usl5u9ruA0U?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -178,60 +178,16 @@ The life of a teenage boy is forever altered by a chance encounter with cutting 
 	
 	
 
-### The Little Mermaid
-*Released on 2018-08-17, vote average 2.7*
+### The Last Sharknado: It&#39;s About Time
+*Released on 2018-08-23, vote average 5*
 
-A young reporter and his niece discover a beautiful and enchanting creature they believe to be the real little mermaid.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/usl5u9ruA0U?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Package
-*Released on 2018-08-10, vote average 5.6*
-
-When a group of teenagers goes on a spring break camping trip, an unfortunate accident sets off a race to save their friend’s most prized possession.
+With much of America lying in ruins, the rest of the world braces for a global sharknado, Fin and his family must travel around the world to stop them.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/FA_K9QPuKuM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### BlacKkKlansman
-*Released on 2018-08-09, vote average 7.8*
-
-Ron Stallworth, an African-American police officer from Colorado, successfully manages to infiltrate the local Ku Klux Klan and become the head of the local chapter.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pFc6I0rgmgY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Mew6nQLtAMk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -245,7 +201,7 @@ Ron Stallworth, an African-American police officer from Colorado, successfully m
 	
 
 ### Mile 22
-*Released on 2018-08-10, vote average 5.5*
+*Released on 2018-08-10, vote average 5.6*
 
 A CIA field officer and an Indonesian police officer are forced to work together in confronting political corruption. An informant must be moved twenty-two miles to safety.
 
@@ -254,6 +210,50 @@ A CIA field officer and an Indonesian police officer are forced to work together
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/3CVV8X01824?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Domestics
+*Released on 2018-08-23, vote average 8*
+
+A young husband and wife must fight to return home in a post-apocalyptic mid-western landscape ravaged by gangs.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IrcQhTm2h2I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Searching
+*Released on 2018-08-24, vote average 7.3*
+
+After his 16-year-old daughter goes missing, a desperate father breaks into her laptop to look for clues to find her. A thriller that unfolds entirely on computer screens.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3Ro9ebQxEOY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -286,23 +286,18 @@ In a small town in Massachusetts, four high school girls perform a ritual in an 
 
 
 	
-
-  
-
-
-	
 	
 
-### The Domestics
-*Released on 2018-08-23, vote average 10*
+### The Package
+*Released on 2018-08-10, vote average 5.6*
 
-A young husband and wife must fight to return home in a post-apocalyptic mid-western landscape ravaged by gangs.
+When a group of teenagers goes on a spring break camping trip, an unfortunate accident sets off a race to save their friend’s most prized possession.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/IrcQhTm2h2I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/FA_K9QPuKuM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -317,23 +312,6 @@ A young husband and wife must fight to return home in a post-apocalyptic mid-wes
   
 
 
-	
-	
-
-### The Last Sharknado: It&#39;s About Time
-*Released on 2018-08-23, vote average 5*
-
-With much of America lying in ruins, the rest of the world braces for a global sharknado, Fin and his family must travel around the world to stop them.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Mew6nQLtAMk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -362,27 +340,17 @@ After an unprecedented global pandemic has turned the majority of humankind into
 
 
 	
+	
+	
 
   
 
 
 	
-	
 
-### What Still Remains
-*Released on 2018-08-14, vote average 6.7*
+  
 
-After the loss of her family, a young woman struggles to survive in a world long-since destroyed by disease; but when a lonely traveler offers her a place in his community, she must decide if the promise of a better life is worth the risk of trusting him.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LLFYxOZ1igg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -391,16 +359,16 @@ After the loss of her family, a young woman struggles to survive in a world long
 	
 	
 
-### The Wife
-*Released on 2018-08-17, vote average 10*
+### The Happytime Murders
+*Released on 2018-08-17, vote average 1*
 
-A wife questions her life choices as she travels to Stockholm with her husband, where he is slated to receive the Nobel Prize for Literature.
+When the puppet cast of an &#39;80s children&#39;s TV show begins to get murdered one by one, a disgraced LAPD detective-turned-private eye puppet takes on the case.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/d81IM0loH7o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-eks8LG72uo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -413,44 +381,6 @@ A wife questions her life choices as she travels to Stockholm with her husband, 
 
 ## Opening soon
 
-
-	
-	
-
-### The Domestics
-*Released on 2018-08-23, vote average 10*
-
-A young husband and wife must fight to return home in a post-apocalyptic mid-western landscape ravaged by gangs.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IrcQhTm2h2I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### The Last Sharknado: It&#39;s About Time
-*Released on 2018-08-23, vote average 5*
-
-With much of America lying in ruins, the rest of the world braces for a global sharknado, Fin and his family must travel around the world to stop them.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Mew6nQLtAMk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 	
@@ -497,6 +427,27 @@ After his 16-year-old daughter goes missing, a desperate father breaks into her 
 
 	
 
+	
+
+	
+
+	
+	
+
+### Killing For The Prosecution
+*Released on 2018-08-24, vote average 9*
+
+Young Public Prosecutor Keiichiro Okino (Kazunari Ninomiya) is assigned to the department of Tokyo Public Prosecutors Office which deals with violent cases. He is thrilled to work with Takeshi Mogami (Takuya Kimura) whom he admires. One day, an elderly money lender is killed and Shigeo Matsukura is identified as a suspect. He borrowed money from the victim. In his past, Shigeo Matsukura testified in a female middle school murder case. Takeshi Mogami is aware of the heavy grief carried by the deceased girl&#39;s family and he tries his best to prove Shigeo Matsukura&#39;s guilt. --asianwiki
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/4apNRNDHUlk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
