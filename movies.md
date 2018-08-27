@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Alpha
-*Released on 2018-08-17, vote average 5.5*
+### To All the Boys I&#39;ve Loved Before
+*Released on 2018-08-17, vote average 8.3*
 
-After a hunting expedition goes awry, a young caveman struggles against the elements to find his way home.
+Lara Jean&#39;s love life goes from imaginary to out of control when her secret letters to every boy she&#39;s ever fallen for are mysteriously mailed out.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/uIxnTi4GmCo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/mTLc_RzqaJc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ After a hunting expedition goes awry, a young caveman struggles against the elem
 	
 	
 
-### To All the Boys I&#39;ve Loved Before
-*Released on 2018-08-17, vote average 8.3*
+### Alpha
+*Released on 2018-08-17, vote average 5.2*
 
-Lara Jean&#39;s love life goes from imaginary to out of control when her secret letters to every boy she&#39;s ever fallen for are mysteriously mailed out.
+After a hunting expedition goes awry, a young caveman struggles against the elements to find his way home.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/mTLc_RzqaJc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/uIxnTi4GmCo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@ Lara Jean&#39;s love life goes from imaginary to out of control when her secret 
 	
 
 ### The Seven Deadly Sins: Prisoners of the Sky
-*Released on 2018-08-18, vote average 6.3*
+*Released on 2018-08-18, vote average 5.5*
 
 The Seven Deadly Sins travel to a remote land in search of the phantom ingredient &#34;sky fish.&#34; Meliodas and Hawk end up at a &#34;Sky Palace&#34; that exists above the clouds, where all the residents have wings. Meliodas is mistaken for a boy who committed a crime and is thrown in prison. Meanwhile, the residents are preparing a ceremony for defense against a ferocious beast that awakens once every 3,000 years. But the Six Knights of Black, a Demon Clan army, arrives and removes the seal on the beast in order to threaten the lives of the residents of Sky Palace. Meliodas and his allies meet the Six Knights of Black in battle.
 
@@ -113,7 +113,7 @@ A daring young man joins a gang that is behind chain-snatching crimes in the cit
 	
 
 ### Crazy Rich Asians
-*Released on 2018-08-15, vote average 7.2*
+*Released on 2018-08-15, vote average 7*
 
 An American-born Chinese economics professor accompanies her boyfriend to Singapore for his best friend&#39;s wedding, only to get thrust into the lives of Asia&#39;s rich and famous.
 
@@ -134,8 +134,30 @@ An American-born Chinese economics professor accompanies her boyfriend to Singap
 	
 	
 
+### The Little Mermaid
+*Released on 2018-08-17, vote average 5*
+
+A young reporter and his niece discover a beautiful and enchanting creature they believe to be the real little mermaid.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/usl5u9ruA0U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Last Sharknado: It&#39;s About Time
-*Released on 2018-08-23, vote average 4*
+*Released on 2018-08-23, vote average 3.8*
 
 With much of America lying in ruins, the rest of the world braces for a global sharknado, Fin and his family must travel around the world to stop them.
 
@@ -157,7 +179,7 @@ With much of America lying in ruins, the rest of the world braces for a global s
 	
 
 ### Searching
-*Released on 2018-08-24, vote average 5.9*
+*Released on 2018-08-24, vote average 6.3*
 
 After his 16-year-old daughter goes missing, a desperate father breaks into her laptop to look for clues to find her. A thriller that unfolds entirely on computer screens.
 
@@ -176,32 +198,22 @@ After his 16-year-old daughter goes missing, a desperate father breaks into her 
 
 
 	
-
-  
-
-
-	
 	
 
-### The Little Mermaid
-*Released on 2018-08-17, vote average 5.3*
+### A.X.L.
+*Released on 2018-08-16, vote average 2.2*
 
-A young reporter and his niece discover a beautiful and enchanting creature they believe to be the real little mermaid.
+The life of a teenage boy is forever altered by a chance encounter with cutting edge military technology.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/usl5u9ruA0U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/--8nr2kt4uk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -235,42 +247,10 @@ A young husband and wife must fight to return home in a post-apocalyptic mid-wes
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### A.X.L.
-*Released on 2018-08-16, vote average 2.4*
-
-The life of a teenage boy is forever altered by a chance encounter with cutting edge military technology.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/--8nr2kt4uk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 	
 
 ### The Happytime Murders
-*Released on 2018-08-17, vote average 3.8*
+*Released on 2018-08-17, vote average 4.5*
 
 When the puppet cast of an &#39;80s children&#39;s TV show begins to get murdered one by one, a disgraced LAPD detective-turned-private eye puppet takes on the case.
 
@@ -283,6 +263,33 @@ When the puppet cast of an &#39;80s children&#39;s TV show begins to get murdere
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Blue Iguana
+*Released on 2018-08-23, vote average 5*
+
+He&#39;s a low level criminal with no future and just out of prison. She&#39;s a low level lawyer never noticed by others, a lost soul without a life. Their anger and hostility makes them serious criminals. Love happens in the strangest of places.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/1ZIcL95jWSA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -311,10 +318,32 @@ After an unprecedented global pandemic has turned the majority of humankind into
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### The After Party
-*Released on 2018-08-24, vote average 5.2*
+*Released on 2018-08-24, vote average 5.9*
 
 When an aspiring rapper goes viral for the wrong reasons, he thinks his career is sunk. But a wild party gives him one more chance to make it right.
 
@@ -327,16 +356,6 @@ When an aspiring rapper goes viral for the wrong reasons, he thinks his career i
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -390,9 +409,9 @@ An ex-convict and his brother are forced on the run by a vengeful criminal.
 	
 
 	
-	
-	
 
+	
+	
 	
 
 	
