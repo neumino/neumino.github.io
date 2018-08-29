@@ -47,7 +47,7 @@ Lara Jean&#39;s love life goes from imaginary to out of control when her secret 
 	
 
 ### The Seven Deadly Sins: Prisoners of the Sky
-*Released on 2018-08-18, vote average 5.2*
+*Released on 2018-08-18, vote average 6*
 
 The Seven Deadly Sins travel to a remote land in search of the phantom ingredient &#34;sky fish.&#34; Meliodas and Hawk end up at a &#34;Sky Palace&#34; that exists above the clouds, where all the residents have wings. Meliodas is mistaken for a boy who committed a crime and is thrown in prison. Meanwhile, the residents are preparing a ceremony for defense against a ferocious beast that awakens once every 3,000 years. But the Six Knights of Black, a Demon Clan army, arrives and removes the seal on the beast in order to threaten the lives of the residents of Sky Palace. Meliodas and his allies meet the Six Knights of Black in battle.
 
@@ -69,7 +69,7 @@ The Seven Deadly Sins travel to a remote land in search of the phantom ingredien
 	
 
 ### Alpha
-*Released on 2018-08-17, vote average 5.9*
+*Released on 2018-08-17, vote average 6.1*
 
 After a hunting expedition goes awry, a young caveman struggles against the elements to find his way home.
 
@@ -134,52 +134,8 @@ A daring young man joins a gang that is behind chain-snatching crimes in the cit
 	
 	
 
-### The Little Mermaid
-*Released on 2018-08-17, vote average 4.8*
-
-A young reporter and his niece discover a beautiful and enchanting creature they believe to be the real little mermaid.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/usl5u9ruA0U?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Searching
-*Released on 2018-08-24, vote average 6.8*
-
-After his 16-year-old daughter goes missing, a desperate father breaks into her laptop to look for clues to find her. A thriller that unfolds entirely on computer screens.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3Ro9ebQxEOY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Happytime Murders
-*Released on 2018-08-17, vote average 5.1*
+*Released on 2018-08-22, vote average 5.3*
 
 When the puppet cast of an &#39;80s children&#39;s TV show begins to get murdered one by one, a disgraced LAPD detective-turned-private eye puppet takes on the case.
 
@@ -188,6 +144,28 @@ When the puppet cast of an &#39;80s children&#39;s TV show begins to get murdere
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/-eks8LG72uo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Little Mermaid
+*Released on 2018-08-17, vote average 5*
+
+A young reporter and his niece discover a beautiful and enchanting creature they believe to be the real little mermaid.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/usl5u9ruA0U?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -223,7 +201,7 @@ With much of America lying in ruins, the rest of the world braces for a global s
 	
 
 ### The After Party
-*Released on 2018-08-24, vote average 5.9*
+*Released on 2018-08-24, vote average 6*
 
 When an aspiring rapper goes viral for the wrong reasons, he thinks his career is sunk. But a wild party gives him one more chance to make it right.
 
@@ -232,6 +210,55 @@ When an aspiring rapper goes viral for the wrong reasons, he thinks his career i
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/coG5LwaHp3c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Searching
+*Released on 2018-08-24, vote average 6.8*
+
+After his 16-year-old daughter goes missing, a desperate father breaks into her laptop to look for clues to find her. A thriller that unfolds entirely on computer screens.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3Ro9ebQxEOY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Kin
+*Released on 2018-08-29, vote average 8*
+
+An ex-convict and his brother are forced on the run by a vengeful criminal.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Ac5wrM2uYbk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -258,45 +285,6 @@ The life of a teenage boy is forever altered by a chance encounter with cutting 
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Patient Zero
-*Released on 2018-08-14, vote average 5.2*
-
-After an unprecedented global pandemic has turned the majority of humankind into violent &#39;Infected&#39;, a man gifted with the ability to speak the Infected&#39;s new language leads the last survivors on a hunt for Patient Zero and a cure.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/W9uddyaqAPE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -336,21 +324,33 @@ He&#39;s a low level criminal with no future and just out of prison. She&#39;s a
 
 	
 	
+	
 
-### The Domestics
-*Released on 2018-08-23, vote average 8.3*
+  
 
-A young husband and wife must fight to return home in a post-apocalyptic mid-western landscape ravaged by gangs.
+
+	
+	
+
+### Bert Kreischer: Secret Time
+*Released on 2018-08-24, vote average 7*
+
+Shirtless comic Bert Kreischer relays personal secrets and stories about being a cool -- if not always responsible -- dad in this stand-up special.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/IrcQhTm2h2I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/7q4PLdoy3n8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -387,6 +387,31 @@ An ex-convict and his brother are forced on the run by a vengeful criminal.
 	
 
 	
+	
+
+### The Little Stranger
+*Released on 2018-08-30, vote average 6*
+
+In a dusty post-war summer in rural Warwickshire, a doctor is called to a patient at lonely Hundreds Hall. Home to the Ayres family for over two centuries, the Georgian house is now in decline. But are the Ayreses haunted by something more sinister than a dying way of life?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ASR04zW4K8w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+	
+	
 
 	
 
@@ -397,6 +422,10 @@ An ex-convict and his brother are forced on the run by a vengeful criminal.
 	
 
 	
+
+	
+
+	
 	
 	
 
@@ -413,15 +442,7 @@ An ex-convict and his brother are forced on the run by a vengeful criminal.
 	
 
 	
-
 	
-
-	
-
-	
-
-	
-
 	
 
 
