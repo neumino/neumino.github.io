@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### To All the Boys I&#39;ve Loved Before
-*Released on 2018-08-17, vote average 8.3*
+### The Seven Deadly Sins: Prisoners of the Sky
+*Released on 2018-08-18, vote average 6.6*
 
-Lara Jean&#39;s love life goes from imaginary to out of control when her secret letters to every boy she&#39;s ever fallen for are mysteriously mailed out.
+The Seven Deadly Sins travel to a remote land in search of the phantom ingredient &#34;sky fish.&#34; Meliodas and Hawk end up at a &#34;Sky Palace&#34; that exists above the clouds, where all the residents have wings. Meliodas is mistaken for a boy who committed a crime and is thrown in prison. Meanwhile, the residents are preparing a ceremony for defense against a ferocious beast that awakens once every 3,000 years. But the Six Knights of Black, a Demon Clan army, arrives and removes the seal on the beast in order to threaten the lives of the residents of Sky Palace. Meliodas and his allies meet the Six Knights of Black in battle.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/mTLc_RzqaJc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/spFeJK30TXw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ Lara Jean&#39;s love life goes from imaginary to out of control when her secret 
 	
 	
 
-### The Seven Deadly Sins: Prisoners of the Sky
-*Released on 2018-08-18, vote average 6*
+### To All the Boys I&#39;ve Loved Before
+*Released on 2018-08-17, vote average 8.3*
 
-The Seven Deadly Sins travel to a remote land in search of the phantom ingredient &#34;sky fish.&#34; Meliodas and Hawk end up at a &#34;Sky Palace&#34; that exists above the clouds, where all the residents have wings. Meliodas is mistaken for a boy who committed a crime and is thrown in prison. Meanwhile, the residents are preparing a ceremony for defense against a ferocious beast that awakens once every 3,000 years. But the Six Knights of Black, a Demon Clan army, arrives and removes the seal on the beast in order to threaten the lives of the residents of Sky Palace. Meliodas and his allies meet the Six Knights of Black in battle.
+Lara Jean&#39;s love life goes from imaginary to out of control when her secret letters to every boy she&#39;s ever fallen for are mysteriously mailed out.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/spFeJK30TXw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/mTLc_RzqaJc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@ The Seven Deadly Sins travel to a remote land in search of the phantom ingredien
 	
 
 ### Alpha
-*Released on 2018-08-17, vote average 6.1*
+*Released on 2018-08-17, vote average 5.9*
 
 After a hunting expedition goes awry, a young caveman struggles against the elements to find his way home.
 
@@ -78,28 +78,6 @@ After a hunting expedition goes awry, a young caveman struggles against the elem
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/uIxnTi4GmCo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Crazy Rich Asians
-*Released on 2018-08-15, vote average 7*
-
-An American-born Chinese economics professor accompanies her boyfriend to Singapore for his best friend&#39;s wedding, only to get thrust into the lives of Asia&#39;s rich and famous.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/PI5mBzQ1Iok?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,6 +112,55 @@ A daring young man joins a gang that is behind chain-snatching crimes in the cit
 	
 	
 
+### The After Party
+*Released on 2018-08-24, vote average 5.8*
+
+When an aspiring rapper goes viral for the wrong reasons, he thinks his career is sunk. But a wild party gives him one more chance to make it right.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/coG5LwaHp3c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Kin
+*Released on 2018-08-29, vote average 8*
+
+An ex-convict and his brother are forced on the run by a vengeful criminal.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Ac5wrM2uYbk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Happytime Murders
 *Released on 2018-08-22, vote average 5.3*
 
@@ -156,8 +183,96 @@ When the puppet cast of an &#39;80s children&#39;s TV show begins to get murdere
 	
 	
 
+### Support the Girls
+*Released on 2018-08-24, vote average 4.5*
+
+Lisa Conroy may not love managing the restaurant Double Whammies, but she loves her employees more than anything, not only Danyelle, and Maci, her closest friends, but also her extended family. Unfortunately, the cheap, curmudgeonly owner Ben Cubby doesn’t care nearly as much, and confronts Lisa when he learns that she’s using the restaurant to raise money for Shaina, an employee in legal trouble related to an abusive boyfriend. To get even, the girls decide to sabotage the restaurant on the night of a major mixed martial arts fight.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/gp-8oB53P7k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Arizona
+*Released on 2018-08-24, vote average 5.8*
+
+Set in the midst of the 2009 housing crisis, the life of Cassie Fowler, a single mother and struggling realtor, goes off the rails when she witnesses a murder.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/RmvNhJOMo4Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Searching
+*Released on 2018-08-24, vote average 6.9*
+
+After his 16-year-old daughter goes missing, a desperate father breaks into her laptop to look for clues to find her. A thriller that unfolds entirely on computer screens.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3Ro9ebQxEOY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Little Stranger
+*Released on 2018-08-30, vote average 6*
+
+In a dusty post-war summer in rural Warwickshire, a doctor is called to a patient at lonely Hundreds Hall. Home to the Ayres family for over two centuries, the Georgian house is now in decline. But are the Ayreses haunted by something more sinister than a dying way of life?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ASR04zW4K8w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Little Mermaid
-*Released on 2018-08-17, vote average 5*
+*Released on 2018-08-17, vote average 5.3*
 
 A young reporter and his niece discover a beautiful and enchanting creature they believe to be the real little mermaid.
 
@@ -199,114 +314,11 @@ With much of America lying in ruins, the rest of the world braces for a global s
 
 	
 	
-
-### The After Party
-*Released on 2018-08-24, vote average 6*
-
-When an aspiring rapper goes viral for the wrong reasons, he thinks his career is sunk. But a wild party gives him one more chance to make it right.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/coG5LwaHp3c?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Searching
-*Released on 2018-08-24, vote average 6.8*
-
-After his 16-year-old daughter goes missing, a desperate father breaks into her laptop to look for clues to find her. A thriller that unfolds entirely on computer screens.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3Ro9ebQxEOY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Kin
-*Released on 2018-08-29, vote average 8*
-
-An ex-convict and his brother are forced on the run by a vengeful criminal.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Ac5wrM2uYbk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### A.X.L.
-*Released on 2018-08-16, vote average 2.2*
-
-The life of a teenage boy is forever altered by a chance encounter with cutting edge military technology.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/--8nr2kt4uk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Blue Iguana
-*Released on 2018-08-23, vote average 5*
-
-He&#39;s a low level criminal with no future and just out of prison. She&#39;s a low level lawyer never noticed by others, a lost soul without a life. Their anger and hostility makes them serious criminals. Love happens in the strangest of places.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/1ZIcL95jWSA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -324,33 +336,6 @@ He&#39;s a low level criminal with no future and just out of prison. She&#39;s a
 
 	
 	
-	
-
-  
-
-
-	
-	
-
-### Bert Kreischer: Secret Time
-*Released on 2018-08-24, vote average 7*
-
-Shirtless comic Bert Kreischer relays personal secrets and stories about being a cool -- if not always responsible -- dad in this stand-up special.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/7q4PLdoy3n8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -365,25 +350,6 @@ Shirtless comic Bert Kreischer relays personal secrets and stories about being a
 ## Opening soon
 
 
-	
-
-	
-	
-
-### Kin
-*Released on 2018-08-29, vote average 8*
-
-An ex-convict and his brother are forced on the run by a vengeful criminal.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Ac5wrM2uYbk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
@@ -410,6 +376,29 @@ In a dusty post-war summer in rural Warwickshire, a doctor is called to a patien
 	
 
 	
+
+	
+	
+	
+
+	
+
+	
+	
+
+### Wiro Sableng: 212 Warrior
+*Released on 2018-08-30, vote average 8*
+
+Wiro is sent by his master Sinto Gendeng to stop Mahesa Birawa from ruining the whole kingdom.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_7ouPGxu0OE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -424,11 +413,7 @@ In a dusty post-war summer in rural Warwickshire, a doctor is called to a patien
 	
 
 	
-
 	
-	
-	
-
 	
 
 	
@@ -441,8 +426,6 @@ In a dusty post-war summer in rural Warwickshire, a doctor is called to a patien
 
 	
 
-	
-	
 	
 
 
