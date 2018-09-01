@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Seven Deadly Sins: Prisoners of the Sky
-*Released on 2018-08-18, vote average 6.7*
+*Released on 2018-08-18, vote average 7*
 
 The Seven Deadly Sins travel to a remote land in search of the phantom ingredient &#34;sky fish.&#34; Meliodas and Hawk end up at a &#34;Sky Palace&#34; that exists above the clouds, where all the residents have wings. Meliodas is mistaken for a boy who committed a crime and is thrown in prison. Meanwhile, the residents are preparing a ceremony for defense against a ferocious beast that awakens once every 3,000 years. But the Six Knights of Black, a Demon Clan army, arrives and removes the seal on the beast in order to threaten the lives of the residents of Sky Palace. Meliodas and his allies meet the Six Knights of Black in battle.
 
@@ -46,16 +46,16 @@ The Seven Deadly Sins travel to a remote land in search of the phantom ingredien
 	
 	
 
-### To All the Boys I&#39;ve Loved Before
-*Released on 2018-08-17, vote average 8.2*
+### Support the Girls
+*Released on 2018-08-24, vote average 6.3*
 
-Lara Jean&#39;s love life goes from imaginary to out of control when her secret letters to every boy she&#39;s ever fallen for are mysteriously mailed out.
+Lisa Conroy may not love managing the restaurant Double Whammies, but she loves her employees more than anything, not only Danyelle, and Maci, her closest friends, but also her extended family. Unfortunately, the cheap, curmudgeonly owner Ben Cubby doesn’t care nearly as much, and confronts Lisa when he learns that she’s using the restaurant to raise money for Shaina, an employee in legal trouble related to an abusive boyfriend. To get even, the girls decide to sabotage the restaurant on the night of a major mixed martial arts fight.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/mTLc_RzqaJc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/gp-8oB53P7k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,47 +68,20 @@ Lara Jean&#39;s love life goes from imaginary to out of control when her secret 
 	
 	
 
-### Alpha
-*Released on 2018-08-17, vote average 5.7*
+### Operation Finale
+*Released on 2018-08-29, vote average 8.6*
 
-After a hunting expedition goes awry, a young caveman struggles against the elements to find his way home.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/uIxnTi4GmCo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Marainthirunthu Paarkum Marmam Enna
-*Released on 2018-08-17, vote average 4.2*
-
-A daring young man joins a gang that is behind chain-snatching crimes in the city. What&#39;s his game plan?
+15 years after World War II, a team of secret agents are brought together to track down Adolf Eichmann, the infamous Nazi architect of the Holocaust.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ebXgYUP1s4M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/07Y4_6PD0Z4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -118,7 +91,7 @@ A daring young man joins a gang that is behind chain-snatching crimes in the cit
 	
 
 ### The After Party
-*Released on 2018-08-24, vote average 6.2*
+*Released on 2018-08-24, vote average 6.4*
 
 When an aspiring rapper goes viral for the wrong reasons, he thinks his career is sunk. But a wild party gives him one more chance to make it right.
 
@@ -139,16 +112,16 @@ When an aspiring rapper goes viral for the wrong reasons, he thinks his career i
 	
 	
 
-### Kin
-*Released on 2018-08-29, vote average 7.4*
+### The Happytime Murders
+*Released on 2018-08-22, vote average 5.6*
 
-An ex-convict and his brother are forced on the run by a vengeful criminal.
+When the puppet cast of an &#39;80s children&#39;s TV show begins to get murdered one by one, a disgraced LAPD detective-turned-private eye puppet takes on the case.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Ac5wrM2uYbk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-eks8LG72uo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -162,7 +135,7 @@ An ex-convict and his brother are forced on the run by a vengeful criminal.
 	
 
 ### The Little Stranger
-*Released on 2018-08-30, vote average 6*
+*Released on 2018-08-30, vote average 8*
 
 In a dusty post-war summer in rural Warwickshire, a doctor is called to a patient at lonely Hundreds Hall. Home to the Ayres family for over two centuries, the Georgian house is now in decline. But are the Ayreses haunted by something more sinister than a dying way of life?
 
@@ -183,8 +156,59 @@ In a dusty post-war summer in rural Warwickshire, a doctor is called to a patien
 	
 	
 
+### Kin
+*Released on 2018-08-29, vote average 7.7*
+
+An ex-convict and his brother are forced on the run by a vengeful criminal.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Ac5wrM2uYbk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Reprisal
+*Released on 2018-08-31, vote average 1.5*
+
+Jacob, a bank manager haunted by a violent heist that took the life of a coworker, teams up with his ex-cop neighbor, James, to bring down the assailant. While the two men work together to figure out the thief’s next move, Gabriel, the highly-trained criminal, is one step ahead. When Gabriel kidnaps Jacob’s wife and daughter, Jacob barrels down a path of bloodshed that initiates an explosive counterattack and brings all three men to the breaking point.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/r2Z5UYpEIAU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Searching
-*Released on 2018-08-24, vote average 7.1*
+*Released on 2018-08-24, vote average 7.4*
 
 After his 16-year-old daughter goes missing, a desperate father breaks into her laptop to look for clues to find her. A thriller that unfolds entirely on computer screens.
 
@@ -203,22 +227,17 @@ After his 16-year-old daughter goes missing, a desperate father breaks into her 
 
 
 	
-	
 
-### The Happytime Murders
-*Released on 2018-08-22, vote average 5.4*
+  
 
-When the puppet cast of an &#39;80s children&#39;s TV show begins to get murdered one by one, a disgraced LAPD detective-turned-private eye puppet takes on the case.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-eks8LG72uo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+	
+	
+
+  
+
+
 	
 
   
@@ -252,63 +271,10 @@ Wiro is sent by his master Sinto Gendeng to stop Mahesa Birawa from ruining the 
 
 
 	
-	
-	
 
   
 
 
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Little Mermaid
-*Released on 2018-08-17, vote average 5.4*
-
-A young reporter and his niece discover a beautiful and enchanting creature they believe to be the real little mermaid.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/usl5u9ruA0U?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Last Sharknado: It&#39;s About Time
-*Released on 2018-08-23, vote average 3.4*
-
-With much of America lying in ruins, the rest of the world braces for a global sharknado, Fin and his family must travel around the world to stop them.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Mew6nQLtAMk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -333,6 +299,23 @@ With much of America lying in ruins, the rest of the world braces for a global s
 ## Opening soon
 
 
+	
+	
+
+### The Nun
+*Released on 2018-09-06, vote average 10*
+
+When a young nun at a cloistered abbey in Romania takes her own life, a priest with a haunted past and a novitiate on the threshold of her final vows are sent by the Vatican to investigate. Together they uncover the order’s unholy secret. Risking not only their lives but their faith and their very souls, they confront a malevolent force in the form of the same demonic nun that first terrorized audiences in “The Conjuring 2,” as the abbey becomes a horrific battleground between the living and the damned.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pzD9zGcUNrw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
