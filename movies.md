@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Operation Finale
-*Released on 2018-08-29, vote average 8.6*
+### Reprisal
+*Released on 2018-08-31, vote average 4.8*
 
-15 years after World War II, a team of secret agents are brought together to track down Adolf Eichmann, the infamous Nazi architect of the Holocaust.
+Jacob, a bank manager haunted by a violent heist that took the life of a coworker, teams up with his ex-cop neighbor, James, to bring down the assailant. While the two men work together to figure out the thief’s next move, Gabriel, the highly-trained criminal, is one step ahead. When Gabriel kidnaps Jacob’s wife and daughter, Jacob barrels down a path of bloodshed that initiates an explosive counterattack and brings all three men to the breaking point.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/07Y4_6PD0Z4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/r2Z5UYpEIAU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### The After Party
-*Released on 2018-08-24, vote average 6.4*
+### Boarding School
+*Released on 2018-08-31, vote average 4.8*
 
-When an aspiring rapper goes viral for the wrong reasons, he thinks his career is sunk. But a wild party gives him one more chance to make it right.
+When troubled 12-year-old Jacob Felsen is sent away to boarding school, he enters every kid&#39;s worst nightmare: A creepy old mansion, deserted except for six other teenage misfits and two menacing and mysterious teachers. As events become increasingly horrific, Jacob must conquer his fears to find the strength to survive.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/coG5LwaHp3c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xiBFGYwmc6E?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -78,28 +78,6 @@ An ex-convict and his brother are forced on the run by a vengeful criminal.
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/Ac5wrM2uYbk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Wiro Sableng: 212 Warrior
-*Released on 2018-08-30, vote average 8*
-
-Wiro is sent by his master Sinto Gendeng to stop Mahesa Birawa from ruining the whole kingdom.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/_7ouPGxu0OE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -156,16 +134,16 @@ After his 16-year-old daughter goes missing, a desperate father breaks into her 
 	
 	
 
-### Reprisal
-*Released on 2018-08-31, vote average 3.5*
+### Operation Finale
+*Released on 2018-08-29, vote average 7.5*
 
-Jacob, a bank manager haunted by a violent heist that took the life of a coworker, teams up with his ex-cop neighbor, James, to bring down the assailant. While the two men work together to figure out the thief’s next move, Gabriel, the highly-trained criminal, is one step ahead. When Gabriel kidnaps Jacob’s wife and daughter, Jacob barrels down a path of bloodshed that initiates an explosive counterattack and brings all three men to the breaking point.
+15 years after the end of  World War II, a team of Israeli secret agents is assigned to track down Adolf Eichmann, the infamous Nazi architect of the Holocaust, reported hiding in Argentina, and smuggle him back to Israel for trial.  A true story.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/r2Z5UYpEIAU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/07Y4_6PD0Z4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -177,28 +155,26 @@ Jacob, a bank manager haunted by a violent heist that took the life of a coworke
 
 	
 	
-	
 
-  
+### Wiro Sableng: 212 Warrior
+*Released on 2018-08-30, vote average 8*
 
-
-	
-	
-
-### The Happytime Murders
-*Released on 2018-08-22, vote average 5.9*
-
-When the puppet cast of a &#39;90s children&#39;s TV show begins to get murdered one by one, a disgraced LAPD detective-turned-private eye puppet takes on the case.
+Wiro is sent by his master Sinto Gendeng to stop Mahesa Birawa from ruining the whole kingdom.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-eks8LG72uo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/_7ouPGxu0OE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -227,18 +203,60 @@ Lisa Conroy may not love managing the restaurant Double Whammies, but she loves 
 
 
 	
+
+  
+
+
 	
 
-### Boarding School
-*Released on 2018-08-31, vote average 5.3*
+  
 
-When troubled 12-year-old Jacob Felsen is sent away to boarding school, he enters every kid&#39;s worst nightmare: A creepy old mansion, deserted except for six other teenage misfits and two menacing and mysterious teachers. As events become increasingly horrific, Jacob must conquer his fears to find the strength to survive.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Happytime Murders
+*Released on 2018-08-22, vote average 5.4*
+
+When the puppet cast of a &#39;90s children&#39;s TV show begins to get murdered one by one, a disgraced LAPD detective-turned-private eye puppet takes on the case.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xiBFGYwmc6E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-eks8LG72uo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -249,44 +267,22 @@ When troubled 12-year-old Jacob Felsen is sent away to boarding school, he enter
 
 
 	
-
-  
-
-
 	
 
-  
+### Arizona
+*Released on 2018-08-24, vote average 5.9*
 
+Set in the midst of the 2009 housing crisis, the life of Cassie Fowler, a single mother and struggling realtor, goes off the rails when she witnesses a murder.
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/RmvNhJOMo4Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 	
 
   
@@ -305,7 +301,7 @@ When troubled 12-year-old Jacob Felsen is sent away to boarding school, he enter
 	
 
 ### The Nun
-*Released on 2018-09-06, vote average 10*
+*Released on 2018-09-06, vote average 5.4*
 
 When a young nun at a cloistered abbey in Romania takes her own life, a priest with a haunted past and a novitiate on the threshold of her final vows are sent by the Vatican to investigate. Together they uncover the order’s unholy secret. Risking not only their lives but their faith and their very souls, they confront a malevolent force in the form of the same demonic nun that first terrorized audiences in “The Conjuring 2,” as the abbey becomes a horrific battleground between the living and the damned.
 
@@ -336,23 +332,6 @@ When a young nun at a cloistered abbey in Romania takes her own life, a priest w
 
 	
 
-	
-	
-
-### Dark Crimes
-*Released on 2018-09-06, vote average 4.5*
-
-A hard-boiled detective becomes suspicious of an author when the incidents described in his hit novel resemble the inner workings of an unsolved murder.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/5TTdcyRi-nw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
