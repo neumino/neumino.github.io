@@ -46,16 +46,16 @@ Jacob, a bank manager haunted by a violent heist that took the life of a coworke
 	
 	
 
-### Boarding School
-*Released on 2018-08-31, vote average 4.8*
+### Searching
+*Released on 2018-08-24, vote average 7.5*
 
-When troubled 12-year-old Jacob Felsen is sent away to boarding school, he enters every kid&#39;s worst nightmare: A creepy old mansion, deserted except for six other teenage misfits and two menacing and mysterious teachers. As events become increasingly horrific, Jacob must conquer his fears to find the strength to survive.
+After his 16-year-old daughter goes missing, a desperate father breaks into her laptop to look for clues to find her. A thriller that unfolds entirely on computer screens.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xiBFGYwmc6E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/3Ro9ebQxEOY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@ When troubled 12-year-old Jacob Felsen is sent away to boarding school, he enter
 	
 
 ### Kin
-*Released on 2018-08-29, vote average 7.1*
+*Released on 2018-08-29, vote average 7*
 
 An ex-convict and his brother are forced on the run by a vengeful criminal.
 
@@ -78,6 +78,50 @@ An ex-convict and his brother are forced on the run by a vengeful criminal.
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/Ac5wrM2uYbk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Operation Finale
+*Released on 2018-08-29, vote average 7.6*
+
+15 years after the end of  World War II, a team of Israeli secret agents is assigned to track down Adolf Eichmann, the infamous Nazi architect of the Holocaust, reported hiding in Argentina, and smuggle him back to Israel for trial.  A true story.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/07Y4_6PD0Z4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Boarding School
+*Released on 2018-08-31, vote average 5.3*
+
+When troubled 12-year-old Jacob Felsen is sent away to boarding school, he enters every kid&#39;s worst nightmare: A creepy old mansion, deserted except for six other teenage misfits and two menacing and mysterious teachers. As events become increasingly horrific, Jacob must conquer his fears to find the strength to survive.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xiBFGYwmc6E?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,16 +156,16 @@ In a dusty post-war summer in rural Warwickshire, a doctor is called to a patien
 	
 	
 
-### Searching
-*Released on 2018-08-24, vote average 7.3*
+### The After Party
+*Released on 2018-08-24, vote average 6.4*
 
-After his 16-year-old daughter goes missing, a desperate father breaks into her laptop to look for clues to find her. A thriller that unfolds entirely on computer screens.
+When an aspiring rapper goes viral for the wrong reasons, he thinks his career is sunk. But a wild party gives him one more chance to make it right.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/3Ro9ebQxEOY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/coG5LwaHp3c?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,20 +178,30 @@ After his 16-year-old daughter goes missing, a desperate father breaks into her 
 	
 	
 
-### Operation Finale
-*Released on 2018-08-29, vote average 7.5*
+### The Happytime Murders
+*Released on 2018-08-22, vote average 5.4*
 
-15 years after the end of  World War II, a team of Israeli secret agents is assigned to track down Adolf Eichmann, the infamous Nazi architect of the Holocaust, reported hiding in Argentina, and smuggle him back to Israel for trial.  A true story.
+When the puppet cast of a &#39;90s children&#39;s TV show begins to get murdered one by one, a disgraced LAPD detective-turned-private eye puppet takes on the case.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/07Y4_6PD0Z4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-eks8LG72uo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -181,23 +235,6 @@ Wiro is sent by his master Sinto Gendeng to stop Mahesa Birawa from ruining the 
 
 
 	
-	
-
-### Support the Girls
-*Released on 2018-08-24, vote average 6.5*
-
-Lisa Conroy may not love managing the restaurant Double Whammies, but she loves her employees more than anything, not only Danyelle, and Maci, her closest friends, but also her extended family. Unfortunately, the cheap, curmudgeonly owner Ben Cubby doesn’t care nearly as much, and confronts Lisa when he learns that she’s using the restaurant to raise money for Shaina, an employee in legal trouble related to an abusive boyfriend. To get even, the girls decide to sabotage the restaurant on the night of a major mixed martial arts fight.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/gp-8oB53P7k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -227,62 +264,6 @@ Lisa Conroy may not love managing the restaurant Double Whammies, but she loves 
   
 
 
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Happytime Murders
-*Released on 2018-08-22, vote average 5.4*
-
-When the puppet cast of a &#39;90s children&#39;s TV show begins to get murdered one by one, a disgraced LAPD detective-turned-private eye puppet takes on the case.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-eks8LG72uo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Arizona
-*Released on 2018-08-24, vote average 5.9*
-
-Set in the midst of the 2009 housing crisis, the life of Cassie Fowler, a single mother and struggling realtor, goes off the rails when she witnesses a murder.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/RmvNhJOMo4Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -319,11 +300,45 @@ When a young nun at a cloistered abbey in Romania takes her own life, a priest w
 	
 
 	
+	
 
+### UFO
+*Released on 2018-09-04, vote average 7.7*
+
+One ufologist shares what he believes to be proof of extraterrestrial beings.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/gxUcHrPhewY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
 
+	
+
+	
+	
+
+### Dark Crimes
+*Released on 2018-09-06, vote average 4.5*
+
+A hard-boiled detective becomes suspicious of an author when the incidents described in his hit novel resemble the inner workings of an unsolved murder.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5TTdcyRi-nw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
