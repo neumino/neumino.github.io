@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Nun
-*Released on 2018-09-05, vote average 6.2*
+*Released on 2018-09-05, vote average 6.1*
 
 When a young nun at a cloistered abbey in Romania takes her own life, a priest with a haunted past and a novitiate on the threshold of her final vows are sent by the Vatican to investigate. Together they uncover the order’s unholy secret. Risking not only their lives but their faith and their very souls, they confront a malevolent force in the form of the same demonic nun that first terrorized audiences in “The Conjuring 2,” as the abbey becomes a horrific battleground between the living and the damned.
 
@@ -69,7 +69,7 @@ Jacob, a bank manager haunted by a violent heist that took the life of a coworke
 	
 
 ### Searching
-*Released on 2018-08-24, vote average 7.3*
+*Released on 2018-08-24, vote average 7.4*
 
 After his 16-year-old daughter goes missing, a desperate father breaks into her laptop to look for clues to find her. A thriller that unfolds entirely on computer screens.
 
@@ -91,7 +91,7 @@ After his 16-year-old daughter goes missing, a desperate father breaks into her 
 	
 
 ### Peppermint
-*Released on 2018-09-06, vote average 6*
+*Released on 2018-09-06, vote average 3.5*
 
 A grieving mother transforms herself into a vigilante following the murders of her husband and son, eluding the authorities to deliver her own personal brand of justice.
 
@@ -100,50 +100,6 @@ A grieving mother transforms herself into a vigilante following the murders of h
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/sdL70wkf_H0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Boarding School
-*Released on 2018-08-31, vote average 5.7*
-
-When troubled 12-year-old Jacob Felsen is sent away to boarding school, he enters every kid&#39;s worst nightmare: A creepy old mansion, deserted except for six other teenage misfits and two menacing and mysterious teachers. As events become increasingly horrific, Jacob must conquer his fears to find the strength to survive.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xiBFGYwmc6E?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Operation Finale
-*Released on 2018-08-29, vote average 7.4*
-
-15 years after the end of  World War II, a team of Israeli secret agents is assigned to track down Adolf Eichmann, the infamous Nazi architect of the Holocaust, reported hiding in Argentina, and smuggle him back to Israel for trial.  A true story.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/07Y4_6PD0Z4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -179,7 +135,7 @@ One ufologist shares what he believes to be proof of extraterrestrial beings.
 	
 
 ### Kin
-*Released on 2018-08-29, vote average 6.8*
+*Released on 2018-08-29, vote average 6.9*
 
 Co-directors Jonathan Baker and Josh Baker’s Sci-Fi action thriller features James Franco, Zoe Kravitz, and Dennis Quaid. A young boy (Myles Truitt) finds a powerful otherworldly weapon, which he uses to save his older adoptive brother (Jack Reynor) from a crew of thugs. Before long, the two of them are also pursued by federal agents and mysterious mercenaries aiming to reclaim their asset.
 
@@ -203,42 +159,10 @@ Co-directors Jonathan Baker and Josh Baker’s Sci-Fi action thriller features J
 
 
 	
-
-  
-
-
-	
-	
-
-### Dark Crimes
-*Released on 2018-09-06, vote average 5*
-
-A hard-boiled detective becomes suspicious of an author when the incidents described in his hit novel resemble the inner workings of an unsolved murder.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/5TTdcyRi-nw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### Vox Lux
-*Released on 2018-09-04, vote average 6.5*
+*Released on 2018-09-04, vote average 6.4*
 
 Drama set between 1999 and the present day, following a young woman as she rises from tragedy to become a pop superstar.
 
@@ -257,18 +181,23 @@ Drama set between 1999 and the present day, following a young woman as she rises
 
 
 	
+
+  
+
+
+	
 	
 
-### Wiro Sableng: 212 Warrior
-*Released on 2018-08-30, vote average 8*
+### Boarding School
+*Released on 2018-08-31, vote average 5.7*
 
-Wiro is sent by his master Sinto Gendeng to stop Mahesa Birawa from ruining the whole kingdom.
+When troubled 12-year-old Jacob Felsen is sent away to boarding school, he enters every kid&#39;s worst nightmare: A creepy old mansion, deserted except for six other teenage misfits and two menacing and mysterious teachers. As events become increasingly horrific, Jacob must conquer his fears to find the strength to survive.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/_7ouPGxu0OE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xiBFGYwmc6E?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -279,26 +208,6 @@ Wiro is sent by his master Sinto Gendeng to stop Mahesa Birawa from ruining the 
 
 
 	
-
-  
-
-
-	
-	
-
-### Support the Girls
-*Released on 2018-08-24, vote average 6.5*
-
-Lisa Conroy may not love managing the restaurant Double Whammies, but she loves her employees more than anything, not only Danyelle, and Maci, her closest friends, but also her extended family. Unfortunately, the cheap, curmudgeonly owner Ben Cubby doesn’t care nearly as much, and confronts Lisa when he learns that she’s using the restaurant to raise money for Shaina, an employee in legal trouble related to an abusive boyfriend. To get even, the girls decide to sabotage the restaurant on the night of a major mixed martial arts fight.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/gp-8oB53P7k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -316,22 +225,15 @@ Lisa Conroy may not love managing the restaurant Double Whammies, but she loves 
 
 
 	
-	
 
-### The After Party
-*Released on 2018-08-24, vote average 6.4*
+  
 
-When an aspiring rapper goes viral for the wrong reasons, he thinks his career is sunk. But a wild party gives him one more chance to make it right.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/coG5LwaHp3c?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
 	
 
   
@@ -342,30 +244,15 @@ When an aspiring rapper goes viral for the wrong reasons, he thinks his career i
   
 
 
+	
 
-## Opening soon
+  
 
 
 	
 
-	
-	
+  
 
-### Peppermint
-*Released on 2018-09-06, vote average 6*
-
-A grieving mother transforms herself into a vigilante following the murders of her husband and son, eluding the authorities to deliver her own personal brand of justice.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/sdL70wkf_H0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 	
@@ -384,6 +271,19 @@ A hard-boiled detective becomes suspicious of an author when the incidents descr
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+
+## Opening soon
+
+
+	
+
+	
+
 	
 
 	
