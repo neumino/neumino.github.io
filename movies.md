@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Nun
-*Released on 2018-09-05, vote average 6.1*
+*Released on 2018-09-05, vote average 6.2*
 
 When a young nun at a cloistered abbey in Romania takes her own life, a priest with a haunted past and a novitiate on the threshold of her final vows are sent by the Vatican to investigate. Together they uncover the order’s unholy secret. Risking not only their lives but their faith and their very souls, they confront a malevolent force in the form of the same demonic nun that first terrorized audiences in “The Conjuring 2,” as the abbey becomes a horrific battleground between the living and the damned.
 
@@ -46,50 +46,6 @@ When a young nun at a cloistered abbey in Romania takes her own life, a priest w
 	
 	
 
-### Reprisal
-*Released on 2018-08-31, vote average 4.8*
-
-Jacob, a bank manager haunted by a violent heist that took the life of a coworker, teams up with his ex-cop neighbor, James, to bring down the assailant. While the two men work together to figure out the thief’s next move, Gabriel, the highly-trained criminal, is one step ahead. When Gabriel kidnaps Jacob’s wife and daughter, Jacob barrels down a path of bloodshed that initiates an explosive counterattack and brings all three men to the breaking point.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/r2Z5UYpEIAU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Searching
-*Released on 2018-08-24, vote average 7.4*
-
-After his 16-year-old daughter goes missing, a desperate father breaks into her laptop to look for clues to find her. A thriller that unfolds entirely on computer screens.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3Ro9ebQxEOY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Peppermint
 *Released on 2018-09-06, vote average 3.5*
 
@@ -100,6 +56,28 @@ A grieving mother transforms herself into a vigilante following the murders of h
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/sdL70wkf_H0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Reprisal
+*Released on 2018-08-31, vote average 4.8*
+
+Jacob, a bank manager haunted by a violent heist that took the life of a coworker, teams up with his ex-cop neighbor, James, to bring down the assailant. While the two men work together to figure out the thief’s next move, Gabriel, the highly-trained criminal, is one step ahead. When Gabriel kidnaps Jacob’s wife and daughter, Jacob barrels down a path of bloodshed that initiates an explosive counterattack and brings all three men to the breaking point.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/r2Z5UYpEIAU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -135,7 +113,7 @@ One ufologist shares what he believes to be proof of extraterrestrial beings.
 	
 
 ### Kin
-*Released on 2018-08-29, vote average 6.9*
+*Released on 2018-08-29, vote average 6.8*
 
 Co-directors Jonathan Baker and Josh Baker’s Sci-Fi action thriller features James Franco, Zoe Kravitz, and Dennis Quaid. A young boy (Myles Truitt) finds a powerful otherworldly weapon, which he uses to save his older adoptive brother (Jack Reynor) from a crew of thugs. Before long, the two of them are also pursued by federal agents and mysterious mercenaries aiming to reclaim their asset.
 
@@ -148,107 +126,6 @@ Co-directors Jonathan Baker and Josh Baker’s Sci-Fi action thriller features J
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Vox Lux
-*Released on 2018-09-04, vote average 6.4*
-
-Drama set between 1999 and the present day, following a young woman as she rises from tragedy to become a pop superstar.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nRoYUKDnNDM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Boarding School
-*Released on 2018-08-31, vote average 5.7*
-
-When troubled 12-year-old Jacob Felsen is sent away to boarding school, he enters every kid&#39;s worst nightmare: A creepy old mansion, deserted except for six other teenage misfits and two menacing and mysterious teachers. As events become increasingly horrific, Jacob must conquer his fears to find the strength to survive.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xiBFGYwmc6E?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -270,6 +147,114 @@ A hard-boiled detective becomes suspicious of an author when the incidents descr
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Sierra Burgess Is a Loser
+*Released on 2018-09-07, vote average 7.2*
+
+A case of mistaken identity results in unexpected romance when the most popular girl in high school and the biggest loser must come together to win over their crushes.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/q9Pk_Eq4BUc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Outlaw / King
+*Released on 2018-09-06, vote average 10*
+
+Forced into exile by the English after being crowned King of Scotland, legendary warrior Robert the Bruce fights to reclaim the throne.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Q-G1BME8FKw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 	
 
