@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Nun
-*Released on 2018-09-05, vote average 6.5*
+*Released on 2018-09-05, vote average 6.3*
 
 When a young nun at a cloistered abbey in Romania takes her own life, a priest with a haunted past and a novitiate on the threshold of her final vows are sent by the Vatican to investigate. Together they uncover the order’s unholy secret. Risking not only their lives but their faith and their very souls, they confront a malevolent force in the form of the same demonic nun that first terrorized audiences in “The Conjuring 2,” as the abbey becomes a horrific battleground between the living and the damned.
 
@@ -47,7 +47,7 @@ When a young nun at a cloistered abbey in Romania takes her own life, a priest w
 	
 
 ### Peppermint
-*Released on 2018-09-06, vote average 5.3*
+*Released on 2018-09-06, vote average 5.6*
 
 A grieving mother transforms herself into a vigilante following the murders of her husband and daughter, eluding the authorities to deliver her own personal brand of justice.
 
@@ -69,7 +69,7 @@ A grieving mother transforms herself into a vigilante following the murders of h
 	
 
 ### UFO
-*Released on 2018-09-04, vote average 6.5*
+*Released on 2018-09-04, vote average 6.4*
 
 One ufologist shares what he believes to be proof of extraterrestrial beings.
 
@@ -112,6 +112,50 @@ A case of mistaken identity results in unexpected romance when the most popular 
 	
 	
 
+### The Most Assassinated Woman in the World
+*Released on 2018-09-07, vote average 5*
+
+Set against the backdrop of the infamous Theatre Grand Guignol the story revolves around iconic actress Paula Maxa - the most famous of the Grand Guignol&#39;s leading ladies and the titular Most Assassinated Woman, who was graphically slain on stage multiple times a day.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xacSes-zouQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Next Gen
+*Released on 2018-09-07, vote average 7.3*
+
+A friendship with a top-secret robot turns a lonely girl&#39;s life into a thrilling adventure as they take on bullies, evil bots and a scheming madman.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/uf3ALGKgpGU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Reprisal
 *Released on 2018-08-31, vote average 4.9*
 
@@ -132,21 +176,6 @@ Jacob, a bank manager haunted by a violent heist that took the life of a coworke
 
 
 	
-	
-
-### The Most Assassinated Woman in the World
-*Released on 2018-09-07, vote average 5*
-
-Set against the backdrop of the infamous Theatre Grand Guignol the story revolves around iconic actress Paula Maxa - the most famous of the Grand Guignol&#39;s leading ladies and the titular Most Assassinated Woman, who was graphically slain on stage multiple times a day.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xacSes-zouQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -181,6 +210,13 @@ Co-directors Jonathan Baker and Josh Baker’s Sci-Fi action thriller features J
 
 
 	
+	
+	
+
+  
+
+
+	
 
   
 
@@ -188,16 +224,16 @@ Co-directors Jonathan Baker and Josh Baker’s Sci-Fi action thriller features J
 	
 	
 
-### Dark Crimes
-*Released on 2018-09-06, vote average 4.6*
+### Muse
+*Released on 2018-09-09, vote average 6*
 
-A hard-boiled detective becomes suspicious of an author when the incidents described in his hit novel resemble the inner workings of an unsolved murder.
+A painter&#39;s life is forever changed when a mythical and deadly spirit from Celtic lore – a Leannán Sí – becomes his muse and lover.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/5TTdcyRi-nw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-PqMCTg7mMM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -208,25 +244,44 @@ A hard-boiled detective becomes suspicious of an author when the incidents descr
 
 
 	
+	
 
-  
+### Mara
+*Released on 2018-09-06, vote average 4.5*
 
+Criminal psychologist Kate Fuller is assigned to the murder of a man who has seemingly been strangled in his sleep by his wife and the only witness is their eight-year-old daughter, Sophie. As Kate digs into the mystery of an ancient demon which kills people in their sleep, she experiences the same petrifying symptoms as all previous victims and spirals through a chilling nightmare to save herself and Sophie before she dares fall asleep again.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zfkBx9PproA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
 
 
 	
-
-  
-
-
 	
 
-  
+### Her Smell
+*Released on 2018-09-09, vote average 4*
 
+A self-destructive punk rocker struggles with sobriety while trying to recapture the creative inspiration that led her band to success.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-Ijv37TA9QM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -265,7 +320,7 @@ A hard-boiled detective becomes suspicious of an author when the incidents descr
 	
 
 ### The Predator
-*Released on 2018-09-13, vote average 6.7*
+*Released on 2018-09-13, vote average 4.2*
 
 From the outer reaches of space to the small-town streets of suburbia, the hunt comes home. Now, the universe’s most lethal hunters are stronger, smarter and deadlier than ever before, having genetically upgraded themselves with DNA from other species. When a young boy accidentally triggers their return to Earth, only a ragtag crew of ex-soldiers and a disgruntled science teacher can prevent the end of the human race.
 
@@ -281,7 +336,26 @@ From the outer reaches of space to the small-town streets of suburbia, the hunt 
 	
 
 	
+	
 
+### A Simple Favor
+*Released on 2018-09-13, vote average 0.5*
+
+Mommy vlogger Stephanie joins her best friend Emily&#39;s husband, Sean, to investigate her sudden disappearance from their small town.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fbNgGYXNgGM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
 	
 
 	
@@ -306,18 +380,6 @@ Pacific Northwest. 1983 AD. Outsiders Red Miller and Mandy Bloom lead a loving a
 	
 
 	
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
 
 	
 	
@@ -335,6 +397,35 @@ Pacific Northwest. 1983 AD. Outsiders Red Miller and Mandy Bloom lead a loving a
 
 	
 
+	
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Thunder Road
+*Released on 2018-09-12, vote average 6.5*
+
+Officer Arnaud raises his daughter as a love letter to his late Mom.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/NxWw3oJi6QE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
