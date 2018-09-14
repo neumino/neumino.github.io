@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Nun
-*Released on 2018-09-05, vote average 6.2*
+*Released on 2018-09-05, vote average 6.3*
 
 When a young nun at a cloistered abbey in Romania takes her own life, a priest with a haunted past and a novitiate on the threshold of her final vows are sent by the Vatican to investigate. Together they uncover the order’s unholy secret. Risking not only their lives but their faith and their very souls, they confront a malevolent force in the form of the same demonic nun that first terrorized audiences in “The Conjuring 2,” as the abbey becomes a horrific battleground between the living and the damned.
 
@@ -47,7 +47,7 @@ When a young nun at a cloistered abbey in Romania takes her own life, a priest w
 	
 
 ### The Predator
-*Released on 2018-09-13, vote average 3.8*
+*Released on 2018-09-13, vote average 4.8*
 
 From the outer reaches of space to the small-town streets of suburbia, the hunt comes home. Now, the universe’s most lethal hunters are stronger, smarter and deadlier than ever before, having genetically upgraded themselves with DNA from other species. When a young boy accidentally triggers their return to Earth, only a ragtag crew of ex-soldiers and a disgruntled science teacher can prevent the end of the human race.
 
@@ -90,8 +90,30 @@ A case of mistaken identity results in unexpected romance when the most popular 
 	
 	
 
+### A Simple Favor
+*Released on 2018-09-13, vote average 6.1*
+
+Mommy vlogger Stephanie joins her best friend Emily&#39;s husband, Sean, to investigate her sudden disappearance from their small town.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fbNgGYXNgGM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Peppermint
-*Released on 2018-09-06, vote average 7*
+*Released on 2018-09-06, vote average 7.1*
 
 A grieving mother transforms herself into a vigilante following the murders of her husband and daughter, eluding the authorities to deliver her own personal brand of justice.
 
@@ -112,16 +134,16 @@ A grieving mother transforms herself into a vigilante following the murders of h
 	
 	
 
-### Next Gen
-*Released on 2018-09-07, vote average 7.6*
+### Mandy
+*Released on 2018-09-13, vote average 6.5*
 
-A friendship with a top-secret robot turns a lonely girl&#39;s life into a thrilling adventure as they take on bullies, evil bots and a scheming madman.
+Pacific Northwest. 1983 AD. Outsiders Red Miller and Mandy Bloom lead a loving and peaceful existence. When their pine-scented haven is savagely destroyed by a cult led by the sadistic Jeremiah Sand, Red is catapulted into a phantasmagoric journey filled with bloody vengeance and laced with fire.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/uf3ALGKgpGU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/hRKVxT4-1wM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,16 +156,16 @@ A friendship with a top-secret robot turns a lonely girl&#39;s life into a thril
 	
 	
 
-### A Simple Favor
-*Released on 2018-09-13, vote average 3.8*
+### Final Score
+*Released on 2018-09-07, vote average 6*
 
-Mommy vlogger Stephanie joins her best friend Emily&#39;s husband, Sean, to investigate her sudden disappearance from their small town.
+Stadium is seized by a group of heavily armed criminals during a major sporting event. An ex-soldier must use all his military skills to save the 35,000 capacity crowd, one of which is the daughter of his fallen comrade.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/fbNgGYXNgGM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/aLzYyK8gPSI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -178,57 +200,6 @@ Set against the backdrop of the infamous Theatre Grand Guignol the story revolve
 	
 	
 
-### Mandy
-*Released on 2018-09-13, vote average 6*
-
-Pacific Northwest. 1983 AD. Outsiders Red Miller and Mandy Bloom lead a loving and peaceful existence. When their pine-scented haven is savagely destroyed by a cult led by the sadistic Jeremiah Sand, Red is catapulted into a phantasmagoric journey filled with bloody vengeance and laced with fire.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hRKVxT4-1wM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### The Death &amp; Life of John F. Donovan
-*Released on 2018-09-10, vote average 10*
-
-An American movie star finds his correspondence with an 11-year-old actor exposed, prompting assumptions that begin to destroy his life and career.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/U-pjv81DNbA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### UFO
 *Released on 2018-09-04, vote average 6.5*
 
@@ -242,6 +213,40 @@ One ufologist shares what he believes to be proof of extraterrestrial beings.
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+	
+
+### White Boy Rick
+*Released on 2018-09-14, vote average 6*
+
+The story of teenager, Richard Wershe Jr., who became an undercover informant for the police during the 1980s and was ultimately arrested for drug-trafficking and sentenced to life in prison.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qns48PtK2io?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 	
 
@@ -272,17 +277,34 @@ Jacob, a bank manager haunted by a violent heist that took the life of a coworke
 
 	
 	
+	
 
-### Final Score
-*Released on 2018-09-07, vote average 6*
+  
 
-Stadium is seized by a group of heavily armed criminals during a major sporting event. An ex-soldier must use all his military skills to save the 35,000 capacity crowd, one of which is the daughter of his fallen comrade.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Slice
+*Released on 2018-09-10, vote average 5.1*
+
+In a spooky small town, when a slew of pizza delivery boys are slain on the job, two daring survivors set out to catch the culprits behind the cryptic crime spree.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/aLzYyK8gPSI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/dYt4AeiU-Vc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -293,16 +315,6 @@ Stadium is seized by a group of heavily armed criminals during a major sporting 
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 	
 
@@ -311,16 +323,21 @@ Stadium is seized by a group of heavily armed criminals during a major sporting 
 
 	
 	
+
+### Mary Queen of Scots
+*Released on 2018-09-14, vote average 10*
+
+Mary Stuart attempts to overthrow her cousin Elizabeth I, Queen of England, only to find herself condemned to years of imprisonment before facing execution.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wnqjSgMU36U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -338,54 +355,16 @@ Stadium is seized by a group of heavily armed criminals during a major sporting 
 	
 	
 
-### The Predator
-*Released on 2018-09-13, vote average 3.8*
+### White Boy Rick
+*Released on 2018-09-14, vote average 6*
 
-From the outer reaches of space to the small-town streets of suburbia, the hunt comes home. Now, the universe’s most lethal hunters are stronger, smarter and deadlier than ever before, having genetically upgraded themselves with DNA from other species. When a young boy accidentally triggers their return to Earth, only a ragtag crew of ex-soldiers and a disgruntled science teacher can prevent the end of the human race.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/WaG1KZqrLvM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### A Simple Favor
-*Released on 2018-09-13, vote average 3.8*
-
-Mommy vlogger Stephanie joins her best friend Emily&#39;s husband, Sean, to investigate her sudden disappearance from their small town.
+The story of teenager, Richard Wershe Jr., who became an undercover informant for the police during the 1980s and was ultimately arrested for drug-trafficking and sentenced to life in prison.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/fbNgGYXNgGM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Mandy
-*Released on 2018-09-13, vote average 6*
-
-Pacific Northwest. 1983 AD. Outsiders Red Miller and Mandy Bloom lead a loving and peaceful existence. When their pine-scented haven is savagely destroyed by a cult led by the sadistic Jeremiah Sand, Red is catapulted into a phantasmagoric journey filled with bloody vengeance and laced with fire.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hRKVxT4-1wM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/qns48PtK2io?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -395,37 +374,71 @@ Pacific Northwest. 1983 AD. Outsiders Red Miller and Mandy Bloom lead a loving a
 	
 
 	
-
 	
 
-	
+### The Sisters Brothers
+*Released on 2018-09-19, vote average 7*
+
+The colourfully named gold prospector Hermann Kermit Warm has being pursued across 1,000 miles of 1850s Oregon desert to San Francisco by the notorious assassins Eli and Charlie Sisters. Except Eli is having a personal crisis and beginning to doubt the longevity of his chosen career. And Hermann might have a better offer.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3OwvqKwTKmE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
 
 	
 	
+
+### Mary Queen of Scots
+*Released on 2018-09-14, vote average 10*
+
+Mary Stuart attempts to overthrow her cousin Elizabeth I, Queen of England, only to find herself condemned to years of imprisonment before facing execution.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wnqjSgMU36U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
