@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Nun
-*Released on 2018-09-05, vote average 6.2*
+*Released on 2018-09-05, vote average 6.1*
 
 When a young nun at a cloistered abbey in Romania takes her own life, a priest with a haunted past and a novitiate on the threshold of her final vows are sent by the Vatican to investigate. Together they uncover the order’s unholy secret. Risking not only their lives but their faith and their very souls, they confront a malevolent force in the form of the same demonic nun that first terrorized audiences in “The Conjuring 2,” as the abbey becomes a horrific battleground between the living and the damned.
 
@@ -47,7 +47,7 @@ When a young nun at a cloistered abbey in Romania takes her own life, a priest w
 	
 
 ### The Predator
-*Released on 2018-09-13, vote average 5.3*
+*Released on 2018-09-13, vote average 5.4*
 
 From the outer reaches of space to the small-town streets of suburbia, the hunt comes home. Now, the universe’s most lethal hunters are stronger, smarter and deadlier than ever before, having genetically upgraded themselves with DNA from other species. When a young boy accidentally triggers their return to Earth, only a ragtag crew of ex-soldiers and a disgruntled science teacher can prevent the end of the human race.
 
@@ -112,16 +112,43 @@ Mommy vlogger Stephanie joins her best friend Emily&#39;s husband, Sean, to inve
 	
 	
 
-### Mandy
-*Released on 2018-09-13, vote average 6.3*
+### White Boy Rick
+*Released on 2018-09-14, vote average 5*
 
-Pacific Northwest. 1983 AD. Outsiders Red Miller and Mandy Bloom lead a loving and peaceful existence. When their pine-scented haven is savagely destroyed by a cult led by the sadistic Jeremiah Sand, Red is catapulted into a phantasmagoric journey filled with bloody vengeance and laced with fire.
+The story of teenager, Richard Wershe Jr., who became an undercover informant for the police during the 1980s and was ultimately arrested for drug-trafficking and sentenced to life in prison.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/hRKVxT4-1wM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/qns48PtK2io?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### On My Skin
+*Released on 2018-09-12, vote average 8.4*
+
+The incredible true story behind the most controversial Italian court cases in recent years. Stefano Cucchi was arrested for a minor crime and mysteriously found dead during his detention. In one week&#39;s time, a family is changed forever.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/4B1TXIVKdLw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -154,93 +181,10 @@ A grieving mother transforms herself into a vigilante following the murders of h
 
 
 	
-	
-
-### White Boy Rick
-*Released on 2018-09-14, vote average 6*
-
-The story of teenager, Richard Wershe Jr., who became an undercover informant for the police during the 1980s and was ultimately arrested for drug-trafficking and sentenced to life in prison.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qns48PtK2io?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
-	
-
-  
-
-
-	
-	
-
-### UFO
-*Released on 2018-09-04, vote average 6.5*
-
-One ufologist shares what he believes to be proof of extraterrestrial beings.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/gxUcHrPhewY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Bel Canto
-*Released on 2018-09-13, vote average 3*
-
-A famous opera singer is held hostage in South America by a guerrilla rebel group after performing at a Japanese businessman&#39;s lavish birthday party. Unexpected bonds are forged in the standoff that ensues.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/dBIQ0KFGn8M?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Final Score
-*Released on 2018-09-07, vote average 6*
-
-Stadium is seized by a group of heavily armed criminals during a major sporting event. An ex-soldier must use all his military skills to save the 35,000 capacity crowd, one of which is the daughter of his fallen comrade.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/aLzYyK8gPSI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -269,8 +213,6 @@ Mary Stuart attempts to overthrow her cousin Elizabeth I, Queen of England, only
 
 
 	
-	
-	
 
   
 
@@ -281,52 +223,23 @@ Mary Stuart attempts to overthrow her cousin Elizabeth I, Queen of England, only
 
 
 	
+
+  
+
+
+	
 	
 
-### Slice
-*Released on 2018-09-10, vote average 5.1*
+### Final Score
+*Released on 2018-09-07, vote average 5.7*
 
-In a spooky small town, when a slew of pizza delivery boys are slain on the job, two daring survivors set out to catch the culprits behind the cryptic crime spree.
+Stadium is seized by a group of heavily armed criminals during a major sporting event. An ex-soldier must use all his military skills to save the 35,000 capacity crowd, one of which is the daughter of his fallen comrade.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/dYt4AeiU-Vc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Most Assassinated Woman in the World
-*Released on 2018-09-07, vote average 5.9*
-
-Set against the backdrop of the infamous Theatre Grand Guignol the story revolves around iconic actress Paula Maxa - the most famous of the Grand Guignol&#39;s leading ladies and the titular Most Assassinated Woman, who was graphically slain on stage multiple times a day.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xacSes-zouQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/aLzYyK8gPSI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -344,20 +257,35 @@ Set against the backdrop of the infamous Theatre Grand Guignol the story revolve
 	
 	
 
-### On My Skin
-*Released on 2018-09-12, vote average 8.4*
+### The Land of Steady Habits
+*Released on 2018-09-12, vote average 8*
 
-The incredible true story behind the most controversial Italian court cases in recent years. Stefano Cucchi was arrested for a minor crime and mysteriously found dead during his detention. In one week&#39;s time, a family is changed forever.
+After leaving his wife and his job to find happiness, Anders begins a clumsy, heartbreaking quest to reassemble the pieces of his fractured life.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/4B1TXIVKdLw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ZbKDFMW8hGE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -401,6 +329,8 @@ The colourfully named gold prospector Hermann Kermit Warm has being pursued acro
 	
 
 	
+	
+	
 
 	
 
@@ -418,23 +348,6 @@ The colourfully named gold prospector Hermann Kermit Warm has being pursued acro
 
 	
 
-	
-	
-
-### Climax
-*Released on 2018-09-19, vote average 7.7*
-
-In the mid &#39;90s, a group of urban dancers gather for a three-day rehearsal in a closed-down boarding school located in the heart of a forest. Having drunk from the sangria bowl, the atmosphere becomes charged and a strange madness seizes them. If it seems obvious to them that they have been drugged, they neither know by whom nor why. It soon becomes impossible for them to resist their neuroses and psychoses, numbed by the hypnotic electric rhythm of the music… And while some experience paradise, most of them plunge into hell.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Hi69nL_VrTE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
