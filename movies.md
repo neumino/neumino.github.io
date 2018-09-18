@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### The Nun
-*Released on 2018-09-05, vote average 6*
+### The Predator
+*Released on 2018-09-13, vote average 5.2*
 
-When a young nun at a cloistered abbey in Romania takes her own life, a priest with a haunted past and a novitiate on the threshold of her final vows are sent by the Vatican to investigate. Together they uncover the order’s unholy secret. Risking not only their lives but their faith and their very souls, they confront a malevolent force in the form of the same demonic nun that first terrorized audiences in “The Conjuring 2,” as the abbey becomes a horrific battleground between the living and the damned.
+From the outer reaches of space to the small-town streets of suburbia, the hunt comes home. Now, the universe’s most lethal hunters are stronger, smarter and deadlier than ever before, having genetically upgraded themselves with DNA from other species. When a young boy accidentally triggers their return to Earth, only a ragtag crew of ex-soldiers and a disgruntled science teacher can prevent the end of the human race.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/pzD9zGcUNrw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/WaG1KZqrLvM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ When a young nun at a cloistered abbey in Romania takes her own life, a priest w
 	
 	
 
-### The Predator
-*Released on 2018-09-13, vote average 5.3*
+### The Nun
+*Released on 2018-09-05, vote average 6*
 
-From the outer reaches of space to the small-town streets of suburbia, the hunt comes home. Now, the universe’s most lethal hunters are stronger, smarter and deadlier than ever before, having genetically upgraded themselves with DNA from other species. When a young boy accidentally triggers their return to Earth, only a ragtag crew of ex-soldiers and a disgruntled science teacher can prevent the end of the human race.
+When a young nun at a cloistered abbey in Romania takes her own life, a priest with a haunted past and a novitiate on the threshold of her final vows are sent by the Vatican to investigate. Together they uncover the order’s unholy secret. Risking not only their lives but their faith and their very souls, they confront a malevolent force in the form of the same demonic nun that first terrorized audiences in “The Conjuring 2,” as the abbey becomes a horrific battleground between the living and the damned.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/WaG1KZqrLvM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/pzD9zGcUNrw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -90,28 +90,6 @@ A case of mistaken identity results in unexpected romance when the most popular 
 	
 	
 
-### A Simple Favor
-*Released on 2018-09-13, vote average 5.9*
-
-Mommy vlogger Stephanie joins her best friend Emily&#39;s husband, Sean, to investigate her sudden disappearance from their small town.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/fbNgGYXNgGM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### On My Skin
 *Released on 2018-09-12, vote average 8.4*
 
@@ -134,43 +112,16 @@ The incredible true story behind the most controversial Italian court cases in r
 	
 	
 
-### Peppermint
-*Released on 2018-09-06, vote average 7*
+### A Simple Favor
+*Released on 2018-09-13, vote average 6.1*
 
-A grieving mother transforms herself into a vigilante following the murders of her husband and daughter, eluding the authorities to deliver her own personal brand of justice.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/sdL70wkf_H0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### White Boy Rick
-*Released on 2018-09-14, vote average 4.7*
-
-The story of teenager, Richard Wershe Jr., who became an undercover informant for the police during the 1980s and was ultimately arrested for drug-trafficking and sentenced to life in prison.
+Mommy vlogger Stephanie joins her best friend Emily&#39;s husband, Sean, to investigate her sudden disappearance from their small town.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/qns48PtK2io?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/fbNgGYXNgGM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -184,7 +135,7 @@ The story of teenager, Richard Wershe Jr., who became an undercover informant fo
 	
 
 ### The Land of Steady Habits
-*Released on 2018-09-12, vote average 8*
+*Released on 2018-09-12, vote average 6.1*
 
 After leaving his wife and his job to find happiness, Anders begins a clumsy, heartbreaking quest to reassemble the pieces of his fractured life.
 
@@ -205,20 +156,108 @@ After leaving his wife and his job to find happiness, Anders begins a clumsy, he
 	
 	
 
-### Final Score
-*Released on 2018-09-07, vote average 5.9*
+### Peppermint
+*Released on 2018-09-06, vote average 6.9*
 
-Stadium is seized by a group of heavily armed criminals during a major sporting event. An ex-soldier must use all his military skills to save the 35,000 capacity crowd, one of which is the daughter of his fallen comrade.
+A grieving mother transforms herself into a vigilante following the murders of her husband and daughter, eluding the authorities to deliver her own personal brand of justice.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/aLzYyK8gPSI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/sdL70wkf_H0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### The House with a Clock in Its Walls
+*Released on 2018-09-15, vote average 6*
+
+Ten-year-old Lewis goes to live with his uncle in a creaky old house that contains a mysterious ticktock noise. When Lewis accidentally awakens the dead, the town&#39;s sleepy facade magically springs to life with a secret world of witches and warlocks.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/oQGA42-U0Ro?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### White Boy Rick
+*Released on 2018-09-14, vote average 5*
+
+The story of teenager, Richard Wershe Jr., who became an undercover informant for the police during the 1980s and was ultimately arrested for drug-trafficking and sentenced to life in prison.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qns48PtK2io?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Johnny English Strikes Again
+*Released on 2018-09-14, vote average 7.4*
+
+Disaster strikes when a criminal mastermind reveals the identities of all active undercover agents in Britain. The secret service can now rely on only one man -- Johnny English. Currently teaching at a minor prep school, Johnny springs back into action to find the mysterious hacker. For this mission to succeed, he&#39;ll need all of his skills -- what few he has -- as the man with yesterday&#39;s analogue methods faces off against tomorrow&#39;s digital technology.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/YJoOuyayMKM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -248,7 +287,7 @@ Stadium is seized by a group of heavily armed criminals during a major sporting 
 	
 
 ### UFO
-*Released on 2018-09-04, vote average 6.4*
+*Released on 2018-09-04, vote average 6.3*
 
 One ufologist shares what he believes to be proof of extraterrestrial beings.
 
@@ -271,30 +310,27 @@ One ufologist shares what he believes to be proof of extraterrestrial beings.
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
 
+	
+	
+
+### Smallfoot
+*Released on 2018-09-20, vote average 8.5*
+
+A Yeti is convinced that the elusive creatures known as &#34;humans&#34; really do exist.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/cNYwnlcjnDU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -319,21 +355,7 @@ The colourfully named gold prospector Hermann Kermit Warm has being pursued acro
 	
 
 	
-
 	
-
-	
-
-	
-	
-	
-
-	
-
-	
-
-	
-
 	
 
 	
@@ -364,18 +386,32 @@ In the mid &#39;90s, a group of urban dancers gather for a three-day rehearsal i
 	
 
 	
+
 	
 
-### London Fields
-*Released on 2018-09-20, vote average 7.5*
+	
 
-Clairvoyant femme fatale Nicola Six has been living with a dark premonition of her impending death by murder. She begins a tangled love affair with three uniquely different men: one of whom she knows will be her murderer... The film is based on a dystopian Martin Amis novel.
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Life Itself
+*Released on 2018-09-21, vote average 8*
+
+As a young New York couple goes from college romance to marriage and the birth of their first child, the unexpected twists of their journey create reverberations that echo over continents and through lifetimes.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/qV2E8_R9kkI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/aC5lxLCyyhQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -386,6 +422,8 @@ Clairvoyant femme fatale Nicola Six has been living with a dark premonition of h
 
 	
 
+	
+	
 	
 
 
