@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Predator
-*Released on 2018-09-13, vote average 5.2*
+*Released on 2018-09-13, vote average 5.3*
 
 From the outer reaches of space to the small-town streets of suburbia, the hunt comes home. Now, the universe’s most lethal hunters are stronger, smarter and deadlier than ever before, having genetically upgraded themselves with DNA from other species. When a young boy accidentally triggers their return to Earth, only a ragtag crew of ex-soldiers and a disgruntled science teacher can prevent the end of the human race.
 
@@ -69,7 +69,7 @@ When a young nun at a cloistered abbey in Romania takes her own life, a priest w
 	
 
 ### Sierra Burgess Is a Loser
-*Released on 2018-09-07, vote average 7.2*
+*Released on 2018-09-07, vote average 7.1*
 
 A case of mistaken identity results in unexpected romance when the most popular girl in high school and the biggest loser must come together to win over their crushes.
 
@@ -113,7 +113,7 @@ The incredible true story behind the most controversial Italian court cases in r
 	
 
 ### A Simple Favor
-*Released on 2018-09-13, vote average 6.1*
+*Released on 2018-09-13, vote average 6.4*
 
 Mommy vlogger Stephanie joins her best friend Emily&#39;s husband, Sean, to investigate her sudden disappearance from their small town.
 
@@ -135,7 +135,7 @@ Mommy vlogger Stephanie joins her best friend Emily&#39;s husband, Sean, to inve
 	
 
 ### The Land of Steady Habits
-*Released on 2018-09-12, vote average 6.1*
+*Released on 2018-09-12, vote average 6*
 
 After leaving his wife and his job to find happiness, Anders begins a clumsy, heartbreaking quest to reassemble the pieces of his fractured life.
 
@@ -156,76 +156,20 @@ After leaving his wife and his job to find happiness, Anders begins a clumsy, he
 	
 	
 
-### Peppermint
-*Released on 2018-09-06, vote average 6.9*
+### The Sisters Brothers
+*Released on 2018-09-19, vote average 7*
 
-A grieving mother transforms herself into a vigilante following the murders of her husband and daughter, eluding the authorities to deliver her own personal brand of justice.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/sdL70wkf_H0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The House with a Clock in Its Walls
-*Released on 2018-09-15, vote average 6*
-
-Ten-year-old Lewis goes to live with his uncle in a creaky old house that contains a mysterious ticktock noise. When Lewis accidentally awakens the dead, the town&#39;s sleepy facade magically springs to life with a secret world of witches and warlocks.
+The colourfully named gold prospector Hermann Kermit Warm has being pursued across 1,000 miles of 1850s Oregon desert to San Francisco by the notorious assassins Eli and Charlie Sisters. Except Eli is having a personal crisis and beginning to doubt the longevity of his chosen career. And Hermann might have a better offer.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/oQGA42-U0Ro?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/3OwvqKwTKmE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### White Boy Rick
-*Released on 2018-09-14, vote average 5*
-
-The story of teenager, Richard Wershe Jr., who became an undercover informant for the police during the 1980s and was ultimately arrested for drug-trafficking and sentenced to life in prison.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qns48PtK2io?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 	
 
   
@@ -254,52 +198,108 @@ Disaster strikes when a criminal mastermind reveals the identities of all active
 
 
 	
-
-  
-
-
 	
 
-  
+### The House with a Clock in Its Walls
+*Released on 2018-09-15, vote average 7*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### UFO
-*Released on 2018-09-04, vote average 6.3*
-
-One ufologist shares what he believes to be proof of extraterrestrial beings.
+Ten-year-old Lewis goes to live with his uncle in a creaky old house that contains a mysterious ticktock noise. When Lewis accidentally awakens the dead, the town&#39;s sleepy facade magically springs to life with a secret world of witches and warlocks.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/gxUcHrPhewY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/oQGA42-U0Ro?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Climax
+*Released on 2018-09-19, vote average 7.5*
+
+In the mid &#39;90s, a group of urban dancers gather for a three-day rehearsal in a closed-down boarding school located in the heart of a forest. Having drunk from the sangria bowl, the atmosphere becomes charged and a strange madness seizes them. If it seems obvious to them that they have been drugged, they neither know by whom nor why. It soon becomes impossible for them to resist their neuroses and psychoses, numbed by the hypnotic electric rhythm of the music… And while some experience paradise, most of them plunge into hell.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Hi69nL_VrTE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### White Boy Rick
+*Released on 2018-09-14, vote average 5*
+
+The story of teenager, Richard Wershe Jr., who became an undercover informant for the police during the 1980s and was ultimately arrested for drug-trafficking and sentenced to life in prison.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qns48PtK2io?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -353,16 +353,10 @@ The colourfully named gold prospector Hermann Kermit Warm has being pursued acro
 	
 
 	
-
-	
-	
-	
-
-	
 	
 
 ### Climax
-*Released on 2018-09-19, vote average 7.8*
+*Released on 2018-09-19, vote average 7.5*
 
 In the mid &#39;90s, a group of urban dancers gather for a three-day rehearsal in a closed-down boarding school located in the heart of a forest. Having drunk from the sangria bowl, the atmosphere becomes charged and a strange madness seizes them. If it seems obvious to them that they have been drugged, they neither know by whom nor why. It soon becomes impossible for them to resist their neuroses and psychoses, numbed by the hypnotic electric rhythm of the music… And while some experience paradise, most of them plunge into hell.
 
@@ -378,17 +372,26 @@ In the mid &#39;90s, a group of urban dancers gather for a three-day rehearsal i
 	
 
 	
+	
 
+### Assassination Nation
+*Released on 2018-09-21, vote average 7*
+
+High school senior Lily and her group of friends live in a haze of texts, posts, selfies and chats just like the rest of the world. So, when an anonymous hacker starts posting details from the private lives of everyone in their small town, the result is absolute madness leaving Lily and her friends questioning whether they&#39;ll live through the night.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MWE4x1vmHZ4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
-
 	
-
-	
-
-	
-
 	
 
 	
@@ -403,7 +406,7 @@ In the mid &#39;90s, a group of urban dancers gather for a three-day rehearsal i
 	
 
 ### Life Itself
-*Released on 2018-09-21, vote average 8*
+*Released on 2018-09-21, vote average 7.5*
 
 As a young New York couple goes from college romance to marriage and the birth of their first child, the unexpected twists of their journey create reverberations that echo over continents and through lifetimes.
 
@@ -423,7 +426,36 @@ As a young New York couple goes from college romance to marriage and the birth o
 	
 
 	
+
 	
+
+	
+	
+
+### London Fields
+*Released on 2018-09-20, vote average 7.5*
+
+Clairvoyant femme fatale Nicola Six has been living with a dark premonition of her impending death by murder. She begins a tangled love affair with three uniquely different men: one of whom she knows will be her murderer... The film is based on a dystopian Martin Amis novel.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qV2E8_R9kkI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 
