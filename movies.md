@@ -46,72 +46,6 @@ From the outer reaches of space to the small-town streets of suburbia, the hunt 
 	
 	
 
-### The Nun
-*Released on 2018-09-05, vote average 6*
-
-When a young nun at a cloistered abbey in Romania takes her own life, a priest with a haunted past and a novitiate on the threshold of her final vows are sent by the Vatican to investigate. Together they uncover the order’s unholy secret. Risking not only their lives but their faith and their very souls, they confront a malevolent force in the form of the same demonic nun that first terrorized audiences in “The Conjuring 2,” as the abbey becomes a horrific battleground between the living and the damned.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pzD9zGcUNrw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Sierra Burgess Is a Loser
-*Released on 2018-09-07, vote average 7.1*
-
-A case of mistaken identity results in unexpected romance when the most popular girl in high school and the biggest loser must come together to win over their crushes.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/q9Pk_Eq4BUc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### On My Skin
-*Released on 2018-09-12, vote average 8.4*
-
-The incredible true story behind the most controversial Italian court cases in recent years. Stefano Cucchi was arrested for a minor crime and mysteriously found dead during his detention. In one week&#39;s time, a family is changed forever.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/4B1TXIVKdLw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### A Simple Favor
 *Released on 2018-09-13, vote average 6.4*
 
@@ -122,28 +56,6 @@ Mommy vlogger Stephanie joins her best friend Emily&#39;s husband, Sean, to inve
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/fbNgGYXNgGM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Land of Steady Habits
-*Released on 2018-09-12, vote average 6*
-
-After leaving his wife and his job to find happiness, Anders begins a clumsy, heartbreaking quest to reassemble the pieces of his fractured life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZbKDFMW8hGE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -178,16 +90,16 @@ The colourfully named gold prospector Hermann Kermit Warm has being pursued acro
 	
 	
 
-### Johnny English Strikes Again
-*Released on 2018-09-14, vote average 7.4*
+### Sierra Burgess Is a Loser
+*Released on 2018-09-07, vote average 7.1*
 
-Disaster strikes when a criminal mastermind reveals the identities of all active undercover agents in Britain. The secret service can now rely on only one man -- Johnny English. Currently teaching at a minor prep school, Johnny springs back into action to find the mysterious hacker. For this mission to succeed, he&#39;ll need all of his skills -- what few he has -- as the man with yesterday&#39;s analogue methods faces off against tomorrow&#39;s digital technology.
+A case of mistaken identity results in unexpected romance when the most popular girl in high school and the biggest loser must come together to win over their crushes.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/YJoOuyayMKM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/q9Pk_Eq4BUc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -200,16 +112,60 @@ Disaster strikes when a criminal mastermind reveals the identities of all active
 	
 	
 
-### The House with a Clock in Its Walls
-*Released on 2018-09-15, vote average 7*
+### Smallfoot
+*Released on 2018-09-20, vote average 8.5*
 
-Ten-year-old Lewis goes to live with his uncle in a creaky old house that contains a mysterious ticktock noise. When Lewis accidentally awakens the dead, the town&#39;s sleepy facade magically springs to life with a secret world of witches and warlocks.
+A Yeti is convinced that the elusive creatures known as &#34;humans&#34; really do exist.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/oQGA42-U0Ro?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/cNYwnlcjnDU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### On My Skin
+*Released on 2018-09-12, vote average 8.4*
+
+The incredible true story behind the most controversial Italian court cases in recent years. Stefano Cucchi was arrested for a minor crime and mysteriously found dead during his detention. In one week&#39;s time, a family is changed forever.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/4B1TXIVKdLw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Johnny English Strikes Again
+*Released on 2018-09-14, vote average 7.4*
+
+Disaster strikes when a criminal mastermind reveals the identities of all active undercover agents in Britain. The secret service can now rely on only one man -- Johnny English. Currently teaching at a minor prep school, Johnny springs back into action to find the mysterious hacker. For this mission to succeed, he&#39;ll need all of his skills -- what few he has -- as the man with yesterday&#39;s analogue methods faces off against tomorrow&#39;s digital technology.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/YJoOuyayMKM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -247,10 +203,37 @@ In the mid &#39;90s, a group of urban dancers gather for a three-day rehearsal i
 
 
 	
+
+  
+
+
+	
+	
+
+### The Land of Steady Habits
+*Released on 2018-09-12, vote average 6*
+
+After leaving his wife and his job to find happiness, Anders begins a clumsy, heartbreaking quest to reassemble the pieces of his fractured life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZbKDFMW8hGE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 
 ### White Boy Rick
-*Released on 2018-09-14, vote average 5*
+*Released on 2018-09-14, vote average 4.9*
 
 The story of teenager, Richard Wershe Jr., who became an undercover informant for the police during the 1980s and was ultimately arrested for drug-trafficking and sentenced to life in prison.
 
@@ -259,6 +242,28 @@ The story of teenager, Richard Wershe Jr., who became an undercover informant fo
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/qns48PtK2io?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Peppermint
+*Released on 2018-09-06, vote average 6.6*
+
+A grieving mother transforms herself into a vigilante following the murders of her husband and daughter, eluding the authorities to deliver her own personal brand of justice.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/sdL70wkf_H0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -284,11 +289,21 @@ The story of teenager, Richard Wershe Jr., who became an undercover informant fo
 
 
 	
-
-  
-
-
 	
+
+### The House with a Clock in Its Walls
+*Released on 2018-09-15, vote average 6*
+
+Ten-year-old Lewis goes to live with his uncle in a creaky old house that contains a mysterious ticktock noise. When Lewis accidentally awakens the dead, the town&#39;s sleepy facade magically springs to life with a secret world of witches and warlocks.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/oQGA42-U0Ro?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -336,44 +351,6 @@ A Yeti is convinced that the elusive creatures known as &#34;humans&#34; really 
 	
 	
 
-### The Sisters Brothers
-*Released on 2018-09-19, vote average 7*
-
-The colourfully named gold prospector Hermann Kermit Warm has being pursued across 1,000 miles of 1850s Oregon desert to San Francisco by the notorious assassins Eli and Charlie Sisters. Except Eli is having a personal crisis and beginning to doubt the longevity of his chosen career. And Hermann might have a better offer.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3OwvqKwTKmE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Climax
-*Released on 2018-09-19, vote average 7.5*
-
-In the mid &#39;90s, a group of urban dancers gather for a three-day rehearsal in a closed-down boarding school located in the heart of a forest. Having drunk from the sangria bowl, the atmosphere becomes charged and a strange madness seizes them. If it seems obvious to them that they have been drugged, they neither know by whom nor why. It soon becomes impossible for them to resist their neuroses and psychoses, numbed by the hypnotic electric rhythm of the music… And while some experience paradise, most of them plunge into hell.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Hi69nL_VrTE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
 ### Assassination Nation
 *Released on 2018-09-21, vote average 7*
 
@@ -392,10 +369,6 @@ High school senior Lily and her group of friends live in a haze of texts, posts,
 
 	
 	
-	
-
-	
-
 	
 
 	
@@ -422,14 +395,6 @@ As a young New York couple goes from college romance to marriage and the birth o
 	
 
 	
-
-	
-
-	
-
-	
-
-	
 	
 
 ### London Fields
@@ -446,6 +411,24 @@ Clairvoyant femme fatale Nicola Six has been living with a dark premonition of h
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+	
+
 	
 
 	
