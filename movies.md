@@ -68,16 +68,16 @@ A Yeti is convinced that the elusive creatures known as &#34;humans&#34; really 
 	
 	
 
-### Johnny English Strikes Again
-*Released on 2018-09-14, vote average 6.9*
+### Assassination Nation
+*Released on 2018-09-21, vote average 7*
 
-Disaster strikes when a criminal mastermind reveals the identities of all active undercover agents in Britain. The secret service can now rely on only one man -- Johnny English. Currently teaching at a minor prep school, Johnny springs back into action to find the mysterious hacker. For this mission to succeed, he&#39;ll need all of his skills -- what few he has -- as the man with yesterday&#39;s analogue methods faces off against tomorrow&#39;s digital technology.
+High school senior Lily and her group of friends live in a haze of texts, posts, selfies and chats just like the rest of the world. So, when an anonymous hacker starts posting details from the private lives of everyone in their small town, the result is absolute madness leaving Lily and her friends questioning whether they&#39;ll live through the night.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/YJoOuyayMKM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/MWE4x1vmHZ4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -89,9 +89,16 @@ Disaster strikes when a criminal mastermind reveals the identities of all active
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### A Simple Favor
-*Released on 2018-09-13, vote average 6.3*
+*Released on 2018-09-13, vote average 6*
 
 Mommy vlogger Stephanie joins her best friend Emily&#39;s husband, Sean, to investigate her sudden disappearance from their small town.
 
@@ -112,16 +119,16 @@ Mommy vlogger Stephanie joins her best friend Emily&#39;s husband, Sean, to inve
 	
 	
 
-### The Sisters Brothers
-*Released on 2018-09-19, vote average 8.3*
+### Johnny English Strikes Again
+*Released on 2018-09-14, vote average 6.4*
 
-The colourfully named gold prospector Hermann Kermit Warm has being pursued across 1,000 miles of 1850s Oregon desert to San Francisco by the notorious assassins Eli and Charlie Sisters. Except Eli is having a personal crisis and beginning to doubt the longevity of his chosen career. And Hermann might have a better offer.
+Disaster strikes when a criminal mastermind reveals the identities of all active undercover agents in Britain. The secret service can now rely on only one man -- Johnny English. Currently teaching at a minor prep school, Johnny springs back into action to find the mysterious hacker. For this mission to succeed, he&#39;ll need all of his skills -- what few he has -- as the man with yesterday&#39;s analogue methods faces off against tomorrow&#39;s digital technology.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/3OwvqKwTKmE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/YJoOuyayMKM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -132,23 +139,6 @@ The colourfully named gold prospector Hermann Kermit Warm has being pursued acro
 
 
 	
-	
-
-### Sierra Burgess Is a Loser
-*Released on 2018-09-07, vote average 7.1*
-
-A case of mistaken identity results in unexpected romance when the most popular girl in high school and the biggest loser must come together to win over their crushes.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/q9Pk_Eq4BUc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -156,16 +146,16 @@ A case of mistaken identity results in unexpected romance when the most popular 
 	
 	
 
-### Assassination Nation
-*Released on 2018-09-21, vote average 7*
+### Life Itself
+*Released on 2018-09-21, vote average 7.5*
 
-High school senior Lily and her group of friends live in a haze of texts, posts, selfies and chats just like the rest of the world. So, when an anonymous hacker starts posting details from the private lives of everyone in their small town, the result is absolute madness leaving Lily and her friends questioning whether they&#39;ll live through the night.
+As a young New York couple goes from college romance to marriage and the birth of their first child, the unexpected twists of their journey create reverberations that echo over continents and through lifetimes.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/MWE4x1vmHZ4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/aC5lxLCyyhQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -198,62 +188,6 @@ The incredible true story behind the most controversial Italian court cases in r
 
 
 	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Climax
-*Released on 2018-09-19, vote average 8.1*
-
-In the mid &#39;90s, a group of urban dancers gather for a three-day rehearsal in a closed-down boarding school located in the heart of a forest. Having drunk from the sangria bowl, the atmosphere becomes charged and a strange madness seizes them. If it seems obvious to them that they have been drugged, they neither know by whom nor why. It soon becomes impossible for them to resist their neuroses and psychoses, numbed by the hypnotic electric rhythm of the music… And while some experience paradise, most of them plunge into hell.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Hi69nL_VrTE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Life Itself
-*Released on 2018-09-21, vote average 7.5*
-
-As a young New York couple goes from college romance to marriage and the birth of their first child, the unexpected twists of their journey create reverberations that echo over continents and through lifetimes.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/aC5lxLCyyhQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -282,6 +216,46 @@ Clairvoyant femme fatale Nicola Six has been living with a dark premonition of h
 
 	
 	
+
+### The Sisters Brothers
+*Released on 2018-09-19, vote average 7.9*
+
+The colourfully named gold prospector Hermann Kermit Warm has being pursued across 1,000 miles of 1850s Oregon desert to San Francisco by the notorious assassins Eli and Charlie Sisters. Except Eli is having a personal crisis and beginning to doubt the longevity of his chosen career. And Hermann might have a better offer.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3OwvqKwTKmE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -289,17 +263,20 @@ Clairvoyant femme fatale Nicola Six has been living with a dark premonition of h
 
 	
 	
-	
 
-  
+### The House with a Clock in Its Walls
+*Released on 2018-09-15, vote average 6.6*
 
+Ten-year-old Lewis goes to live with his uncle in a creaky old house that contains a mysterious ticktock noise. When Lewis accidentally awakens the dead, the town&#39;s sleepy facade magically springs to life with a secret world of witches and warlocks.
 
-	
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/oQGA42-U0Ro?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
-  
-
-
-	
 	
 	
 
@@ -321,47 +298,9 @@ Clairvoyant femme fatale Nicola Six has been living with a dark premonition of h
 
 
 	
-	
-
-### Assassination Nation
-*Released on 2018-09-21, vote average 7*
-
-High school senior Lily and her group of friends live in a haze of texts, posts, selfies and chats just like the rest of the world. So, when an anonymous hacker starts posting details from the private lives of everyone in their small town, the result is absolute madness leaving Lily and her friends questioning whether they&#39;ll live through the night.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MWE4x1vmHZ4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-	
 
 	
 
-	
-	
-
-### Life Itself
-*Released on 2018-09-21, vote average 7.5*
-
-As a young New York couple goes from college romance to marriage and the birth of their first child, the unexpected twists of their journey create reverberations that echo over continents and through lifetimes.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/aC5lxLCyyhQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
@@ -381,6 +320,8 @@ On vacation at a remote lake house, a mother and her two young daughters must fi
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
