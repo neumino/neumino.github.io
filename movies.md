@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Predator
-*Released on 2018-09-13, vote average 5.7*
+*Released on 2018-09-13, vote average 5.6*
 
 From the outer reaches of space to the small-town streets of suburbia, the hunt comes home. Now, the universe’s most lethal hunters are stronger, smarter and deadlier than ever before, having genetically upgraded themselves with DNA from other species. When a young boy accidentally triggers their return to Earth, only a ragtag crew of ex-soldiers and a disgruntled science teacher can prevent the end of the human race.
 
@@ -46,48 +46,19 @@ From the outer reaches of space to the small-town streets of suburbia, the hunt 
 	
 	
 
-### Smallfoot
-*Released on 2018-09-20, vote average 8.5*
+### Mandy
+*Released on 2018-09-13, vote average 6.8*
 
-A Yeti is convinced that the elusive creatures known as &#34;humans&#34; really do exist.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cNYwnlcjnDU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Assassination Nation
-*Released on 2018-09-21, vote average 7*
-
-High school senior Lily and her group of friends live in a haze of texts, posts, selfies and chats just like the rest of the world. So, when an anonymous hacker starts posting details from the private lives of everyone in their small town, the result is absolute madness leaving Lily and her friends questioning whether they&#39;ll live through the night.
+The Shadow Mountains, 1983. Red and Mandy lead a loving and peaceful existence; but when their pine-scented haven is savagely destroyed, Red is catapulted into a phantasmagoric journey filled with bloody vengeance and laced with fire.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/MWE4x1vmHZ4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/rI054ow6KJk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -119,16 +90,16 @@ Mommy vlogger Stephanie joins her best friend Emily&#39;s husband, Sean, to inve
 	
 	
 
-### Johnny English Strikes Again
-*Released on 2018-09-14, vote average 6.4*
+### Smallfoot
+*Released on 2018-09-20, vote average 9*
 
-Disaster strikes when a criminal mastermind reveals the identities of all active undercover agents in Britain. The secret service can now rely on only one man -- Johnny English. Currently teaching at a minor prep school, Johnny springs back into action to find the mysterious hacker. For this mission to succeed, he&#39;ll need all of his skills -- what few he has -- as the man with yesterday&#39;s analogue methods faces off against tomorrow&#39;s digital technology.
+A Yeti is convinced that the elusive creatures known as &#34;humans&#34; really do exist.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/YJoOuyayMKM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/cNYwnlcjnDU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -139,6 +110,30 @@ Disaster strikes when a criminal mastermind reveals the identities of all active
 
 
 	
+	
+
+### Assassination Nation
+*Released on 2018-09-21, vote average 3*
+
+High school senior Lily and her group of friends live in a haze of texts, posts, selfies and chats just like the rest of the world. So, when an anonymous hacker starts posting details from the private lives of everyone in their small town, the result is absolute madness leaving Lily and her friends questioning whether they&#39;ll live through the night.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MWE4x1vmHZ4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
 
   
 
@@ -147,7 +142,7 @@ Disaster strikes when a criminal mastermind reveals the identities of all active
 	
 
 ### Life Itself
-*Released on 2018-09-21, vote average 7.5*
+*Released on 2018-09-21, vote average 8.3*
 
 As a young New York couple goes from college romance to marriage and the birth of their first child, the unexpected twists of their journey create reverberations that echo over continents and through lifetimes.
 
@@ -156,6 +151,28 @@ As a young New York couple goes from college romance to marriage and the birth o
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/aC5lxLCyyhQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Johnny English Strikes Again
+*Released on 2018-09-14, vote average 6.7*
+
+Disaster strikes when a criminal mastermind reveals the identities of all active undercover agents in Britain. The secret service can now rely on only one man -- Johnny English. Currently teaching at a minor prep school, Johnny springs back into action to find the mysterious hacker. For this mission to succeed, he&#39;ll need all of his skills -- what few he has -- as the man with yesterday&#39;s analogue methods faces off against tomorrow&#39;s digital technology.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/YJoOuyayMKM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -195,16 +212,16 @@ The incredible true story behind the most controversial Italian court cases in r
 	
 	
 
-### London Fields
-*Released on 2018-09-20, vote average 7.5*
+### Fahrenheit 11/9
+*Released on 2018-09-21, vote average 3.5*
 
-Clairvoyant femme fatale Nicola Six has been living with a dark premonition of her impending death by murder. She begins a tangled love affair with three uniquely different men: one of whom she knows will be her murderer... The film is based on a dystopian Martin Amis novel.
+Michael Moore&#39;s provocative documentary explores the two most important questions of the Trump Era: How the f--k did we get here, and how the f--k do we get out?
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/qV2E8_R9kkI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/WRQv9xMQ3E0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -217,45 +234,20 @@ Clairvoyant femme fatale Nicola Six has been living with a dark premonition of h
 	
 	
 
-### The Sisters Brothers
-*Released on 2018-09-19, vote average 7.9*
+### Nappily Ever After
+*Released on 2018-09-21, vote average 8.1*
 
-The colourfully named gold prospector Hermann Kermit Warm has being pursued across 1,000 miles of 1850s Oregon desert to San Francisco by the notorious assassins Eli and Charlie Sisters. Except Eli is having a personal crisis and beginning to doubt the longevity of his chosen career. And Hermann might have a better offer.
+After an accident at the hair salon, Violet realizes she&#39;s not living life to the fullest. A soulful barber helps her put the pieces back together.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/3OwvqKwTKmE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/3xh9XFxo2Hg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -278,6 +270,48 @@ Ten-year-old Lewis goes to live with his uncle in a creaky old house that contai
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Quincy
+*Released on 2018-09-21, vote average 8*
+
+An intimate look into the life of icon Quincy Jones. A unique force in music and popular culture for 70 years, Jones has transcended racial and cultural boundaries; his story is inextricably woven into the fabric of America.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/WT7gn6nhsAc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
