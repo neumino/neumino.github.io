@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Predator
-*Released on 2018-09-13, vote average 5.6*
+*Released on 2018-09-13, vote average 5.5*
 
 From the outer reaches of space to the small-town streets of suburbia, the hunt comes home. Now, the universe’s most lethal hunters are stronger, smarter and deadlier than ever before, having genetically upgraded themselves with DNA from other species. When a young boy accidentally triggers their return to Earth, only a ragtag crew of ex-soldiers and a disgruntled science teacher can prevent the end of the human race.
 
@@ -68,8 +68,30 @@ The Shadow Mountains, 1983. Red and Mandy lead a loving and peaceful existence; 
 	
 	
 
+### Nappily Ever After
+*Released on 2018-09-21, vote average 8.2*
+
+After an accident at the hair salon, Violet realizes she&#39;s not living life to the fullest. A soulful barber helps her put the pieces back together.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3xh9XFxo2Hg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### A Simple Favor
-*Released on 2018-09-13, vote average 6.3*
+*Released on 2018-09-13, vote average 6.2*
 
 Mommy vlogger Stephanie joins her best friend Emily’s husband, Sean, to investigate her sudden disappearance from their small town.
 
@@ -112,16 +134,16 @@ A Yeti is convinced that the elusive creatures known as &#34;humans&#34; really 
 	
 	
 
-### Nappily Ever After
-*Released on 2018-09-21, vote average 8.2*
+### He’s Out There
+*Released on 2018-09-24, vote average 7.2*
 
-After an accident at the hair salon, Violet realizes she&#39;s not living life to the fullest. A soulful barber helps her put the pieces back together.
+On vacation at a remote lake house, a mother and her two young daughters must fight for survival after falling into a terrifying and bizarre nightmare conceived by a psychopath.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/3xh9XFxo2Hg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/piz_KhWmYU8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -135,7 +157,7 @@ After an accident at the hair salon, Violet realizes she&#39;s not living life t
 	
 
 ### Johnny English Strikes Again
-*Released on 2018-09-14, vote average 7.3*
+*Released on 2018-09-14, vote average 6.8*
 
 Disaster strikes when a criminal mastermind reveals the identities of all active undercover agents in Britain. The secret service can now rely on only one man—Johnny English. Currently teaching at a minor prep school, Johnny springs back into action to find the mysterious hacker. For this mission to succeed, he’ll need all of his skills—what few he has—as the man with yesterday’s analogue methods faces off against tomorrow’s digital technology.
 
@@ -147,35 +169,6 @@ Disaster strikes when a criminal mastermind reveals the identities of all active
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
-	
-
-### Assassination Nation
-*Released on 2018-09-21, vote average 3.4*
-
-High school senior Lily and her group of friends live in a haze of texts, posts, selfies and chats just like the rest of the world. So, when an anonymous hacker starts posting details from the private lives of everyone in their small town, the result is absolute madness leaving Lily and her friends questioning whether they&#39;ll live through the night.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MWE4x1vmHZ4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -205,42 +198,10 @@ The incredible true story behind the most controversial Italian court cases in r
 
 
 	
-
-  
-
-
-	
-	
-
-### He’s Out There
-*Released on 2018-09-24, vote average 8.3*
-
-On vacation at a remote lake house, a mother and her two young daughters must fight for survival after falling into a terrifying and bizarre nightmare conceived by a psychopath.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/piz_KhWmYU8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### The House with a Clock in Its Walls
-*Released on 2018-09-15, vote average 6*
+*Released on 2018-09-15, vote average 6.1*
 
 Ten-year-old Lewis goes to live with his uncle in a creaky old house that contains a mysterious ticktock noise. When Lewis accidentally awakens the dead, the town&#39;s sleepy facade magically springs to life with a secret world of witches and warlocks.
 
@@ -261,16 +222,16 @@ Ten-year-old Lewis goes to live with his uncle in a creaky old house that contai
 	
 	
 
-### Quincy
-*Released on 2018-09-21, vote average 8*
+### I Think We&#39;re Alone Now
+*Released on 2018-09-14, vote average 6.3*
 
-An intimate look into the life of icon Quincy Jones. A unique force in music and popular culture for 70 years, Jones has transcended racial and cultural boundaries; his story is inextricably woven into the fabric of America.
+Del is alone in the world. After the human race is wiped out, he lives in his small, empty town, content in his solitude and the utopia he&#39;s methodically created for himself -- until he is discovered by Grace, an interloper whose history and motives are obscure. And to make matters worse, she wants to stay.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/WT7gn6nhsAc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/CvYQsWw-g-c?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -282,17 +243,24 @@ An intimate look into the life of icon Quincy Jones. A unique force in music and
 
 	
 	
+	
 
-### Life Itself
-*Released on 2018-09-21, vote average 8.3*
+  
 
-As a young New York couple goes from college romance to marriage and the birth of their first child, the unexpected twists of their journey create reverberations that echo over continents and through lifetimes.
+
+	
+	
+
+### Assassination Nation
+*Released on 2018-09-21, vote average 4.5*
+
+High school senior Lily and her group of friends live in a haze of texts, posts, selfies and chats just like the rest of the world. So, when an anonymous hacker starts posting details from the private lives of everyone in their small town, the result is absolute madness leaving Lily and her friends questioning whether they&#39;ll live through the night.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/aC5lxLCyyhQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/MWE4x1vmHZ4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -308,22 +276,20 @@ As a young New York couple goes from college romance to marriage and the birth o
 
 
 	
-	
 
-### Fahrenheit 11/9
-*Released on 2018-09-21, vote average 5.7*
+  
 
-Michael Moore&#39;s provocative documentary explores the two most important questions of the Trump Era: How the f--k did we get here, and how the f--k do we get out?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/WRQv9xMQ3E0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -349,20 +315,37 @@ Michael Moore&#39;s provocative documentary explores the two most important ques
 
 
 	
-
-	
 	
 
-### He’s Out There
-*Released on 2018-09-24, vote average 8.3*
+### A Star Is Born
+*Released on 2018-09-28, vote average 6.7*
 
-On vacation at a remote lake house, a mother and her two young daughters must fight for survival after falling into a terrifying and bizarre nightmare conceived by a psychopath.
+Seasoned musician Jackson Maine discovers—and falls in love with—struggling artist Ally. She has just about given up on her dream to make it big as a singer—until Jack coaxes her into the spotlight. But even as Ally&#39;s career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/piz_KhWmYU8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/nSbzyEJ8X9E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### Night School
+*Released on 2018-09-27, vote average 7*
+
+A group of misfits are forced to attend adult classes to prepare for the GED exam.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/t9QtXGirWf0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -403,11 +386,11 @@ A 16-year-old girl and her extended family are left reeling after her calculatin
 	
 
 	
+	
+	
 
 	
 
-	
-	
 	
 
 	
