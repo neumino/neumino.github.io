@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Predator
-*Released on 2018-09-13, vote average 5.5*
+*Released on 2018-09-13, vote average 5.4*
 
 From the outer reaches of space to the small-town streets of suburbia, the hunt comes home. Now, the universe’s most lethal hunters are stronger, smarter and deadlier than ever before, having genetically upgraded themselves with DNA from other species. When a young boy accidentally triggers their return to Earth, only a ragtag crew of ex-soldiers and a disgruntled science teacher can prevent the end of the human race.
 
@@ -47,7 +47,7 @@ From the outer reaches of space to the small-town streets of suburbia, the hunt 
 	
 
 ### Mandy
-*Released on 2018-09-13, vote average 6.7*
+*Released on 2018-09-13, vote average 6.6*
 
 The Shadow Mountains, 1983. Red and Mandy lead a loving and peaceful existence; but when their pine-scented haven is savagely destroyed, Red is catapulted into a phantasmagoric journey filled with bloody vengeance and laced with fire.
 
@@ -69,7 +69,7 @@ The Shadow Mountains, 1983. Red and Mandy lead a loving and peaceful existence; 
 	
 
 ### Nappily Ever After
-*Released on 2018-09-21, vote average 8.2*
+*Released on 2018-09-21, vote average 8.1*
 
 After an accident at the hair salon, Violet realizes she&#39;s not living life to the fullest. A soulful barber helps her put the pieces back together.
 
@@ -113,7 +113,7 @@ Mommy vlogger Stephanie joins her best friend Emily’s husband, Sean, to invest
 	
 
 ### Smallfoot
-*Released on 2018-09-20, vote average 9*
+*Released on 2018-09-20, vote average 7.4*
 
 A Yeti is convinced that the elusive creatures known as &#34;humans&#34; really do exist.
 
@@ -144,6 +144,28 @@ On vacation at a remote lake house, a mother and her two young daughters must fi
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/piz_KhWmYU8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The House with a Clock in Its Walls
+*Released on 2018-09-15, vote average 6.3*
+
+Ten-year-old Lewis goes to live with his uncle in a creaky old house that contains a mysterious ticktock noise. When Lewis accidentally awakens the dead, the town&#39;s sleepy facade magically springs to life with a secret world of witches and warlocks.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/oQGA42-U0Ro?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -200,28 +222,6 @@ The incredible true story behind the most controversial Italian court cases in r
 	
 	
 
-### The House with a Clock in Its Walls
-*Released on 2018-09-15, vote average 6.1*
-
-Ten-year-old Lewis goes to live with his uncle in a creaky old house that contains a mysterious ticktock noise. When Lewis accidentally awakens the dead, the town&#39;s sleepy facade magically springs to life with a secret world of witches and warlocks.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/oQGA42-U0Ro?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### I Think We&#39;re Alone Now
 *Released on 2018-09-14, vote average 6.3*
 
@@ -242,7 +242,37 @@ Del is alone in the world. After the human race is wiped out, he lives in his sm
 
 
 	
+
+  
+
+
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -280,45 +310,17 @@ High school senior Lily and her group of friends live in a haze of texts, posts,
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
 
 	
+
+	
 	
 
 ### A Star Is Born
-*Released on 2018-09-28, vote average 6.7*
+*Released on 2018-09-28, vote average 5.1*
 
 Seasoned musician Jackson Maine discovers—and falls in love with—struggling artist Ally. She has just about given up on her dream to make it big as a singer—until Jack coaxes her into the spotlight. But even as Ally&#39;s career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.
 
@@ -356,6 +358,20 @@ A group of misfits are forced to attend adult classes to prepare for the GED exa
 
 	
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
 
 ### Summer &#39;03
 *Released on 2018-09-28, vote average 1*
@@ -370,22 +386,6 @@ A 16-year-old girl and her extended family are left reeling after her calculatin
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
 	
 	
 
