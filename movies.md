@@ -68,8 +68,30 @@ The Shadow Mountains, 1983. Red and Mandy lead a loving and peaceful existence; 
 	
 	
 
+### A Simple Favor
+*Released on 2018-09-13, vote average 6.2*
+
+Mommy vlogger Stephanie joins her best friend Emily’s husband, Sean, to investigate her sudden disappearance from their small town.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fbNgGYXNgGM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Nappily Ever After
-*Released on 2018-09-21, vote average 8.1*
+*Released on 2018-09-21, vote average 8*
 
 After an accident at the hair salon, Violet realizes she&#39;s not living life to the fullest. A soulful barber helps her put the pieces back together.
 
@@ -90,20 +112,47 @@ After an accident at the hair salon, Violet realizes she&#39;s not living life t
 	
 	
 
-### A Simple Favor
-*Released on 2018-09-13, vote average 6.2*
+### Night School
+*Released on 2018-09-27, vote average 7*
 
-Mommy vlogger Stephanie joins her best friend Emily’s husband, Sean, to investigate her sudden disappearance from their small town.
+Teddy Walker is a successful salesman whose life takes an unexpected turn when he accidentally blows up his place of employment. Forced to attend night school to get his GED, Teddy soon finds himself dealing with a group of misfit students, his former high school nemesis and a feisty teacher who doesn&#39;t think he&#39;s too bright.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/fbNgGYXNgGM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/t9QtXGirWf0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### The House with a Clock in Its Walls
+*Released on 2018-09-15, vote average 6.4*
+
+Ten-year-old Lewis goes to live with his uncle in a creaky old house that contains a mysterious ticktock noise. When Lewis accidentally awakens the dead, the town&#39;s sleepy facade magically springs to life with a secret world of witches and warlocks.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/oQGA42-U0Ro?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -134,52 +183,8 @@ A Yeti is convinced that the elusive creatures known as &#34;humans&#34; really 
 	
 	
 
-### He’s Out There
-*Released on 2018-09-24, vote average 7.2*
-
-On vacation at a remote lake house, a mother and her two young daughters must fight for survival after falling into a terrifying and bizarre nightmare conceived by a psychopath.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/piz_KhWmYU8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The House with a Clock in Its Walls
-*Released on 2018-09-15, vote average 6.3*
-
-Ten-year-old Lewis goes to live with his uncle in a creaky old house that contains a mysterious ticktock noise. When Lewis accidentally awakens the dead, the town&#39;s sleepy facade magically springs to life with a secret world of witches and warlocks.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/oQGA42-U0Ro?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Johnny English Strikes Again
-*Released on 2018-09-14, vote average 6.8*
+*Released on 2018-09-14, vote average 6.7*
 
 Disaster strikes when a criminal mastermind reveals the identities of all active undercover agents in Britain. The secret service can now rely on only one man—Johnny English. Currently teaching at a minor prep school, Johnny springs back into action to find the mysterious hacker. For this mission to succeed, he’ll need all of his skills—what few he has—as the man with yesterday’s analogue methods faces off against tomorrow’s digital technology.
 
@@ -199,58 +204,6 @@ Disaster strikes when a criminal mastermind reveals the identities of all active
 
 	
 	
-
-### On My Skin
-*Released on 2018-09-12, vote average 8.4*
-
-The incredible true story behind the most controversial Italian court cases in recent years. Stefano Cucchi was arrested for a minor crime and mysteriously found dead during his detention. In one week&#39;s time, a family is changed forever.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/4B1TXIVKdLw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### I Think We&#39;re Alone Now
-*Released on 2018-09-14, vote average 6.3*
-
-Del is alone in the world. After the human race is wiped out, he lives in his small, empty town, content in his solitude and the utopia he&#39;s methodically created for himself -- until he is discovered by Grace, an interloper whose history and motives are obscure. And to make matters worse, she wants to stay.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/CvYQsWw-g-c?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -279,22 +232,20 @@ Del is alone in the world. After the human race is wiped out, he lives in his sm
 
 
 	
-	
 
-### Assassination Nation
-*Released on 2018-09-21, vote average 4.5*
+  
 
-High school senior Lily and her group of friends live in a haze of texts, posts, selfies and chats just like the rest of the world. So, when an anonymous hacker starts posting details from the private lives of everyone in their small town, the result is absolute madness leaving Lily and her friends questioning whether they&#39;ll live through the night.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MWE4x1vmHZ4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -319,6 +270,25 @@ High school senior Lily and her group of friends live in a haze of texts, posts,
 	
 	
 
+### Night School
+*Released on 2018-09-27, vote average 7*
+
+Teddy Walker is a successful salesman whose life takes an unexpected turn when he accidentally blows up his place of employment. Forced to attend night school to get his GED, Teddy soon finds himself dealing with a group of misfit students, his former high school nemesis and a feisty teacher who doesn&#39;t think he&#39;s too bright.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/t9QtXGirWf0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
 ### A Star Is Born
 *Released on 2018-09-28, vote average 5.1*
 
@@ -333,35 +303,6 @@ Seasoned musician Jackson Maine discovers—and falls in love with—struggling 
   allowfullscreen></iframe>
 
 	
-	
-
-	
-	
-
-### Night School
-*Released on 2018-09-27, vote average 7*
-
-A group of misfits are forced to attend adult classes to prepare for the GED exam.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/t9QtXGirWf0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-	
-	
-
-	
-
 	
 
 	
@@ -387,6 +328,14 @@ A 16-year-old girl and her extended family are left reeling after her calculatin
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
 	
 
 	
