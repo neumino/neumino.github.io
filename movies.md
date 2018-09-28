@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### The Predator
-*Released on 2018-09-13, vote average 5.4*
+### Night School
+*Released on 2018-09-27, vote average 6*
 
-From the outer reaches of space to the small-town streets of suburbia, the hunt comes home. Now, the universe’s most lethal hunters are stronger, smarter and deadlier than ever before, having genetically upgraded themselves with DNA from other species. When a young boy accidentally triggers their return to Earth, only a ragtag crew of ex-soldiers and a disgruntled science teacher can prevent the end of the human race.
+Teddy Walker is a successful salesman whose life takes an unexpected turn when he accidentally blows up his place of employment. Forced to attend night school to get his GED, Teddy soon finds himself dealing with a group of misfit students, his former high school nemesis and a feisty teacher who doesn&#39;t think he&#39;s too bright.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/WaG1KZqrLvM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/t9QtXGirWf0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,38 +46,16 @@ From the outer reaches of space to the small-town streets of suburbia, the hunt 
 	
 	
 
-### Mandy
-*Released on 2018-09-13, vote average 6.6*
+### A Star Is Born
+*Released on 2018-09-28, vote average 5.1*
 
-The Shadow Mountains, 1983. Red and Mandy lead a loving and peaceful existence; but when their pine-scented haven is savagely destroyed, Red is catapulted into a phantasmagoric journey filled with bloody vengeance and laced with fire.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rI054ow6KJk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### A Simple Favor
-*Released on 2018-09-13, vote average 6.2*
-
-Mommy vlogger Stephanie joins her best friend Emily’s husband, Sean, to investigate her sudden disappearance from their small town.
+Seasoned musician Jackson Maine discovers—and falls in love with—struggling artist Ally. She has just about given up on her dream to make it big as a singer—until Jack coaxes her into the spotlight. But even as Ally&#39;s career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/fbNgGYXNgGM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/nSbzyEJ8X9E?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -110,22 +88,10 @@ After an accident at the hair salon, Violet realizes she&#39;s not living life t
 
 
 	
-	
 
-### Night School
-*Released on 2018-09-27, vote average 7*
+  
 
-Teddy Walker is a successful salesman whose life takes an unexpected turn when he accidentally blows up his place of employment. Forced to attend night school to get his GED, Teddy soon finds himself dealing with a group of misfit students, his former high school nemesis and a feisty teacher who doesn&#39;t think he&#39;s too bright.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/t9QtXGirWf0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -154,15 +120,10 @@ Ten-year-old Lewis goes to live with his uncle in a creaky old house that contai
 
 
 	
-
-  
-
-
-	
 	
 
 ### Smallfoot
-*Released on 2018-09-20, vote average 7.4*
+*Released on 2018-09-20, vote average 6.5*
 
 A Yeti is convinced that the elusive creatures known as &#34;humans&#34; really do exist.
 
@@ -184,7 +145,7 @@ A Yeti is convinced that the elusive creatures known as &#34;humans&#34; really 
 	
 
 ### Johnny English Strikes Again
-*Released on 2018-09-14, vote average 6.7*
+*Released on 2018-09-14, vote average 6.8*
 
 Disaster strikes when a criminal mastermind reveals the identities of all active undercover agents in Britain. The secret service can now rely on only one man—Johnny English. Currently teaching at a minor prep school, Johnny springs back into action to find the mysterious hacker. For this mission to succeed, he’ll need all of his skills—what few he has—as the man with yesterday’s analogue methods faces off against tomorrow’s digital technology.
 
@@ -203,6 +164,26 @@ Disaster strikes when a criminal mastermind reveals the identities of all active
 
 
 	
+
+  
+
+
+	
+	
+
+### Summer &#39;03
+*Released on 2018-09-28, vote average 1*
+
+A 16-year-old girl and her extended family are left reeling after her calculating grandmother unveils an array of secrets on her deathbed.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/j5MnLhPZe_o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -236,6 +217,8 @@ Disaster strikes when a criminal mastermind reveals the identities of all active
   
 
 
+	
+	
 	
 
   
@@ -266,20 +249,18 @@ Disaster strikes when a criminal mastermind reveals the identities of all active
 
 
 	
-
-	
 	
 
-### Night School
-*Released on 2018-09-27, vote average 7*
+### Venom
+*Released on 2018-10-03, vote average 5*
 
-Teddy Walker is a successful salesman whose life takes an unexpected turn when he accidentally blows up his place of employment. Forced to attend night school to get his GED, Teddy soon finds himself dealing with a group of misfit students, his former high school nemesis and a feisty teacher who doesn&#39;t think he&#39;s too bright.
+When Eddie Brock acquires the powers of a symbiote, he will have to release his alter-ego “Venom” to save his life.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/t9QtXGirWf0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/dzxFdtWmjto?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -306,12 +287,6 @@ Seasoned musician Jackson Maine discovers—and falls in love with—struggling 
 	
 
 	
-
-	
-
-	
-
-	
 	
 
 ### Summer &#39;03
@@ -328,6 +303,14 @@ A 16-year-old girl and her extended family are left reeling after her calculatin
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
 	
 
 	
