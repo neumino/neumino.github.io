@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Night School
-*Released on 2018-09-27, vote average 6*
+### A Star Is Born
+*Released on 2018-09-28, vote average 4.5*
 
-Teddy Walker is a successful salesman whose life takes an unexpected turn when he accidentally blows up his place of employment. Forced to attend night school to get his GED, Teddy soon finds himself dealing with a group of misfit students, his former high school nemesis and a feisty teacher who doesn&#39;t think he&#39;s too bright.
+Seasoned musician Jackson Maine discovers—and falls in love with—struggling artist Ally. She has just about given up on her dream to make it big as a singer—until Jack coaxes her into the spotlight. But even as Ally&#39;s career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/t9QtXGirWf0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/nSbzyEJ8X9E?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,104 @@ Teddy Walker is a successful salesman whose life takes an unexpected turn when h
 	
 	
 
-### A Star Is Born
-*Released on 2018-09-28, vote average 5.1*
+### Night School
+*Released on 2018-09-27, vote average 7.8*
 
-Seasoned musician Jackson Maine discovers—and falls in love with—struggling artist Ally. She has just about given up on her dream to make it big as a singer—until Jack coaxes her into the spotlight. But even as Ally&#39;s career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.
+Teddy Walker is a successful salesman whose life takes an unexpected turn when he accidentally blows up his place of employment. Forced to attend night school to get his GED, Teddy soon finds himself dealing with a group of misfit students, his former high school nemesis and a feisty teacher who doesn&#39;t think he&#39;s too bright.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/nSbzyEJ8X9E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/t9QtXGirWf0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Summer &#39;03
+*Released on 2018-09-28, vote average 1*
+
+A 16-year-old girl and her extended family are left reeling after her calculating grandmother unveils an array of secrets on her deathbed.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/j5MnLhPZe_o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Padre
+*Released on 2018-09-28, vote average 8*
+
+American retired Judge Randall Nemes and his hired gun, Gaspar, track down a con man posing as a priest in a small Colombian town only to be thrown off-course by a scrappy 16-year-old girl intent on reuniting with her sister in the United States.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_qkEnUvFGoc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Smallfoot
+*Released on 2018-09-20, vote average 7*
+
+A Yeti is convinced that the elusive creatures known as &#34;humans&#34; really do exist.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/cNYwnlcjnDU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Hell Fest
+*Released on 2018-09-27, vote average 6*
+
+On Halloween night at a horror theme park, a costumed killer begins slaying innocent patrons who believe that it&#39;s all part of the festivities.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jsC03DVTrpk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -98,6 +186,26 @@ After an accident at the hair salon, Violet realizes she&#39;s not living life t
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### The House with a Clock in Its Walls
@@ -121,21 +229,6 @@ Ten-year-old Lewis goes to live with his uncle in a creaky old house that contai
 
 	
 	
-
-### Smallfoot
-*Released on 2018-09-20, vote average 6.5*
-
-A Yeti is convinced that the elusive creatures known as &#34;humans&#34; really do exist.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cNYwnlcjnDU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -144,16 +237,16 @@ A Yeti is convinced that the elusive creatures known as &#34;humans&#34; really 
 	
 	
 
-### Johnny English Strikes Again
-*Released on 2018-09-14, vote average 6.8*
+### Hold the Dark
+*Released on 2018-09-28, vote average 6.7*
 
-Disaster strikes when a criminal mastermind reveals the identities of all active undercover agents in Britain. The secret service can now rely on only one man—Johnny English. Currently teaching at a minor prep school, Johnny springs back into action to find the mysterious hacker. For this mission to succeed, he’ll need all of his skills—what few he has—as the man with yesterday’s analogue methods faces off against tomorrow’s digital technology.
+In the grim Alaskan winter, a naturalist hunts for wolves blamed for killing a local boy, but he soon finds himself swept into a chilling mystery.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/YJoOuyayMKM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/OFAwDO6b5KI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -171,64 +264,20 @@ Disaster strikes when a criminal mastermind reveals the identities of all active
 	
 	
 
-### Summer &#39;03
-*Released on 2018-09-28, vote average 1*
+### Sui Dhaaga
+*Released on 2018-09-28, vote average 8*
 
-A 16-year-old girl and her extended family are left reeling after her calculating grandmother unveils an array of secrets on her deathbed.
+Sui Dhaaga – Made in India is a heartwarming story of pride and self-reliance. Mauji (Varun Dhawan) stays in a village near Delhi with his wife Mamta (Anushka Sharma), father (Raghubir Yadav) and mother (Yamini Das). Varun works at a shop that sells sewing machines, owned by Bansal (Sidharth Bhardwaj) and his son Prashant (Ashish Verma). Both have a habit of ill-treating Mauji and make him do fun antics. When Prashant gets married, Bansal invites Mauji and his entire family. Mamta feels humiliated when she sees Mauji being asked to imitate a dog by the Bansals.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/j5MnLhPZe_o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/wotNruuQYv4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -252,7 +301,7 @@ A 16-year-old girl and her extended family are left reeling after her calculatin
 	
 
 ### Venom
-*Released on 2018-10-03, vote average 5*
+*Released on 2018-10-03, vote average 5.9*
 
 When Eddie Brock acquires the powers of a symbiote, he will have to release his alter-ego “Venom” to save his life.
 
@@ -268,41 +317,7 @@ When Eddie Brock acquires the powers of a symbiote, he will have to release his 
 	
 
 	
-	
 
-### A Star Is Born
-*Released on 2018-09-28, vote average 5.1*
-
-Seasoned musician Jackson Maine discovers—and falls in love with—struggling artist Ally. She has just about given up on her dream to make it big as a singer—until Jack coaxes her into the spotlight. But even as Ally&#39;s career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nSbzyEJ8X9E?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Summer &#39;03
-*Released on 2018-09-28, vote average 1*
-
-A 16-year-old girl and her extended family are left reeling after her calculating grandmother unveils an array of secrets on her deathbed.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/j5MnLhPZe_o?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
