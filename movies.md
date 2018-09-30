@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### A Star Is Born
-*Released on 2018-09-28, vote average 4.5*
+*Released on 2018-09-28, vote average 5.4*
 
 Seasoned musician Jackson Maine discovers—and falls in love with—struggling artist Ally. She has just about given up on her dream to make it big as a singer—until Jack coaxes her into the spotlight. But even as Ally&#39;s career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.
 
@@ -47,7 +47,7 @@ Seasoned musician Jackson Maine discovers—and falls in love with—struggling 
 	
 
 ### Night School
-*Released on 2018-09-27, vote average 7.8*
+*Released on 2018-09-27, vote average 7.2*
 
 Teddy Walker is a successful salesman whose life takes an unexpected turn when he accidentally blows up his place of employment. Forced to attend night school to get his GED, Teddy soon finds himself dealing with a group of misfit students, his former high school nemesis and a feisty teacher who doesn&#39;t think he&#39;s too bright.
 
@@ -69,7 +69,7 @@ Teddy Walker is a successful salesman whose life takes an unexpected turn when h
 	
 
 ### Summer &#39;03
-*Released on 2018-09-28, vote average 1*
+*Released on 2018-09-28, vote average 4.3*
 
 A 16-year-old girl and her extended family are left reeling after her calculating grandmother unveils an array of secrets on her deathbed.
 
@@ -91,7 +91,7 @@ A 16-year-old girl and her extended family are left reeling after her calculatin
 	
 
 ### The Padre
-*Released on 2018-09-28, vote average 8*
+*Released on 2018-09-28, vote average 5*
 
 American retired Judge Randall Nemes and his hired gun, Gaspar, track down a con man posing as a priest in a small Colombian town only to be thrown off-course by a scrappy 16-year-old girl intent on reuniting with her sister in the United States.
 
@@ -112,38 +112,16 @@ American retired Judge Randall Nemes and his hired gun, Gaspar, track down a con
 	
 	
 
-### Smallfoot
-*Released on 2018-09-20, vote average 7*
+### Hold the Dark
+*Released on 2018-09-28, vote average 6.3*
 
-A Yeti is convinced that the elusive creatures known as &#34;humans&#34; really do exist.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cNYwnlcjnDU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Hell Fest
-*Released on 2018-09-27, vote average 6*
-
-On Halloween night at a horror theme park, a costumed killer begins slaying innocent patrons who believe that it&#39;s all part of the festivities.
+In the grim Alaskan winter, a naturalist hunts for wolves blamed for killing a local boy, but he soon finds himself swept into a chilling mystery.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/jsC03DVTrpk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/OFAwDO6b5KI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -157,7 +135,7 @@ On Halloween night at a horror theme park, a costumed killer begins slaying inno
 	
 
 ### Nappily Ever After
-*Released on 2018-09-21, vote average 8*
+*Released on 2018-09-21, vote average 7.9*
 
 After an accident at the hair salon, Violet realizes she&#39;s not living life to the fullest. A soulful barber helps her put the pieces back together.
 
@@ -191,71 +169,22 @@ After an accident at the hair salon, Violet realizes she&#39;s not living life t
 
 
 	
-
-  
-
-
 	
 
-  
+### Smallfoot
+*Released on 2018-09-20, vote average 7*
 
-
-	
-
-  
-
-
-	
-	
-
-### The House with a Clock in Its Walls
-*Released on 2018-09-15, vote average 6.4*
-
-Ten-year-old Lewis goes to live with his uncle in a creaky old house that contains a mysterious ticktock noise. When Lewis accidentally awakens the dead, the town&#39;s sleepy facade magically springs to life with a secret world of witches and warlocks.
+A Yeti is convinced that the elusive creatures known as &#34;humans&#34; really do exist.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/oQGA42-U0Ro?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/cNYwnlcjnDU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Hold the Dark
-*Released on 2018-09-28, vote average 6.7*
-
-In the grim Alaskan winter, a naturalist hunts for wolves blamed for killing a local boy, but he soon finds himself swept into a chilling mystery.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/OFAwDO6b5KI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -278,6 +207,75 @@ Sui Dhaaga – Made in India is a heartwarming story of pride and self-reliance.
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Realm
+*Released on 2018-09-28, vote average 8*
+
+Manuel is a crooked politician who enjoys the lifestyle that kickbacks afford. He eats at fancy restaurants, parties with his friends on yachts, and provides a very luxurious lifestyle for his family. Manuel brazenly bribes, extorts, and pays off anyone who threatens to expose the activities of his inner circle. When he is singled out to take the fall for a case of fraudulent government contracts, rather than admit to any wrongdoing, Manuel decides to sell out his whole party in an effort to avoid jail time. It&#39;s a decision that puts many lives at risk.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/XoH6bJnweFo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Hell Fest
+*Released on 2018-09-27, vote average 6*
+
+On Halloween night at a horror theme park, a costumed killer begins slaying innocent patrons who believe that it&#39;s all part of the festivities.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jsC03DVTrpk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
