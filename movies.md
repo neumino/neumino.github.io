@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Hold the Dark
-*Released on 2018-09-28, vote average 6.1*
+*Released on 2018-09-28, vote average 5.9*
 
 In the grim Alaskan winter, a naturalist hunts for wolves blamed for killing a local boy, but he soon finds himself swept into a chilling mystery.
 
@@ -46,8 +46,52 @@ In the grim Alaskan winter, a naturalist hunts for wolves blamed for killing a l
 	
 	
 
+### Smallfoot
+*Released on 2018-09-20, vote average 7*
+
+A Yeti is convinced that the elusive creatures known as &#34;humans&#34; really do exist.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/cNYwnlcjnDU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Night School
+*Released on 2018-09-27, vote average 6.1*
+
+Teddy Walker is a successful salesman whose life takes an unexpected turn when he accidentally blows up his place of employment. Forced to attend night school to get his GED, Teddy soon finds himself dealing with a group of misfit students, his former high school nemesis and a feisty teacher who doesn&#39;t think he&#39;s too bright.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/t9QtXGirWf0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### A Star Is Born
-*Released on 2018-09-28, vote average 5.9*
+*Released on 2018-09-28, vote average 6.1*
 
 Seasoned musician Jackson Maine discovers—and falls in love with—struggling artist Ally. She has just about given up on her dream to make it big as a singer—until Jack coaxes her into the spotlight. But even as Ally&#39;s career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.
 
@@ -68,16 +112,16 @@ Seasoned musician Jackson Maine discovers—and falls in love with—struggling 
 	
 	
 
-### Night School
-*Released on 2018-09-27, vote average 5.9*
+### Black 47
+*Released on 2018-09-28, vote average 7.3*
 
-Teddy Walker is a successful salesman whose life takes an unexpected turn when he accidentally blows up his place of employment. Forced to attend night school to get his GED, Teddy soon finds himself dealing with a group of misfit students, his former high school nemesis and a feisty teacher who doesn&#39;t think he&#39;s too bright.
+It’s 1847 and Ireland is in the grip of the Great Famine that has ravaged the country for two long years. Feeney, a hardened Irish Ranger who has been fighting for the British Army abroad, abandons his post to return home and reunite with his estranged family.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/t9QtXGirWf0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/q1W1DLwg3lk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,28 +156,6 @@ A 16-year-old girl and her extended family are left reeling after her calculatin
 	
 	
 
-### Smallfoot
-*Released on 2018-09-20, vote average 6.9*
-
-A Yeti is convinced that the elusive creatures known as &#34;humans&#34; really do exist.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cNYwnlcjnDU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Nappily Ever After
 *Released on 2018-09-21, vote average 7.9*
 
@@ -154,22 +176,15 @@ After an accident at the hair salon, Violet realizes she&#39;s not living life t
 
 
 	
-	
 
-### The Padre
-*Released on 2018-09-28, vote average 5*
+  
 
-American retired Judge Randall Nemes and his hired gun, Gaspar, track down a con man posing as a priest in a small Colombian town only to be thrown off-course by a scrappy 16-year-old girl intent on reuniting with her sister in the United States.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/M1hY5hmUulQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
 	
 
   
@@ -181,76 +196,10 @@ American retired Judge Randall Nemes and his hired gun, Gaspar, track down a con
 
 
 	
-	
-
-### Black 47
-*Released on 2018-09-28, vote average 8*
-
-It’s 1847 and Ireland is in the grip of the Great Famine that has ravaged the country for two long years. Feeney, a hardened Irish Ranger who has been fighting for the British Army abroad, abandons his post to return home and reunite with his estranged family.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/q1W1DLwg3lk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
-	
-
-  
-
-
-	
-	
-
-### All of My Heart: The Wedding
-*Released on 2018-09-29, vote average 8*
-
-Jenny and Brian’s wedding plans are interrupted when Meg arrives, claiming she’s also an heir to their inn. Now they must focus on raising the money to buy Meg out, and Brian considers returning to Wall Street, until Bucks County has a fundraiser. Still, they’re short on the funds they need, and an interested buyer shows up who intends to rebuild the aging structure rather than tenderly repair it like Jenny and Brian always have. For now, though, focusing on marrying is all that matters to these loving innkeepers, who hope their happy-ever-after can be spent creating more romance in Emily’s Inn.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/lPrARpdy408?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Sui Dhaaga
-*Released on 2018-09-28, vote average 8*
-
-Sui Dhaaga – Made in India is a heartwarming story of pride and self-reliance. Mauji (Varun Dhawan) stays in a village near Delhi with his wife Mamta (Anushka Sharma), father (Raghubir Yadav) and mother (Yamini Das). Varun works at a shop that sells sewing machines, owned by Bansal (Sidharth Bhardwaj) and his son Prashant (Ashish Verma). Both have a habit of ill-treating Mauji and make him do fun antics. When Prashant gets married, Bansal invites Mauji and his entire family. Mamta feels humiliated when she sees Mauji being asked to imitate a dog by the Bansals.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wotNruuQYv4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -299,7 +248,7 @@ Sui Dhaaga – Made in India is a heartwarming story of pride and self-reliance.
 	
 
 ### Venom
-*Released on 2018-10-03, vote average 6.6*
+*Released on 2018-10-03, vote average 5.9*
 
 When Eddie Brock acquires the powers of a symbiote, he will have to release his alter-ego “Venom” to save his life.
 
@@ -321,7 +270,22 @@ When Eddie Brock acquires the powers of a symbiote, he will have to release his 
 	
 
 	
+	
 
+### Prospect
+*Released on 2018-10-02, vote average 7*
+
+A teenage girl and her father travel to a remote alien moon, aiming to strike it rich. They&#39;ve secured a contract to harvest a large deposit of the elusive gems hidden in the depths of the moon&#39;s toxic forest. But there are others roving the wilderness and the job quickly devolves into a fight to survive. Not to be confused with the 2014 short film with the same name by the same directors.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-Adpq3KUP5A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -339,11 +303,17 @@ When Eddie Brock acquires the powers of a symbiote, he will have to release his 
 	
 
 	
+	
+	
+
+	
 
 	
 
 	
 
+	
+	
 	
 
 	
