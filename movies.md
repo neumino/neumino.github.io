@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Hold the Dark
-*Released on 2018-09-28, vote average 5.9*
+### Venom
+*Released on 2018-10-03, vote average 6*
 
-In the grim Alaskan winter, a naturalist hunts for wolves blamed for killing a local boy, but he soon finds himself swept into a chilling mystery.
+When Eddie Brock acquires the powers of a symbiote, he will have to release his alter-ego “Venom” to save his life.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/OFAwDO6b5KI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/dzxFdtWmjto?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,8 +46,30 @@ In the grim Alaskan winter, a naturalist hunts for wolves blamed for killing a l
 	
 	
 
+### Hold the Dark
+*Released on 2018-09-28, vote average 5.8*
+
+In the grim Alaskan winter, a naturalist hunts for wolves blamed for killing a local boy, but he soon finds himself swept into a chilling mystery.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/OFAwDO6b5KI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Smallfoot
-*Released on 2018-09-20, vote average 7*
+*Released on 2018-09-20, vote average 7.1*
 
 A Yeti is convinced that the elusive creatures known as &#34;humans&#34; really do exist.
 
@@ -69,7 +91,7 @@ A Yeti is convinced that the elusive creatures known as &#34;humans&#34; really 
 	
 
 ### Night School
-*Released on 2018-09-27, vote average 6.1*
+*Released on 2018-09-27, vote average 6.2*
 
 Teddy Walker is a successful salesman whose life takes an unexpected turn when he accidentally blows up his place of employment. Forced to attend night school to get his GED, Teddy soon finds himself dealing with a group of misfit students, his former high school nemesis and a feisty teacher who doesn&#39;t think he&#39;s too bright.
 
@@ -91,7 +113,7 @@ Teddy Walker is a successful salesman whose life takes an unexpected turn when h
 	
 
 ### A Star Is Born
-*Released on 2018-09-28, vote average 6.1*
+*Released on 2018-09-28, vote average 5.7*
 
 Seasoned musician Jackson Maine discovers—and falls in love with—struggling artist Ally. She has just about given up on her dream to make it big as a singer—until Jack coaxes her into the spotlight. But even as Ally&#39;s career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.
 
@@ -110,21 +132,16 @@ Seasoned musician Jackson Maine discovers—and falls in love with—struggling 
 
 
 	
+
+  
+
+
 	
 
-### Black 47
-*Released on 2018-09-28, vote average 7.3*
+  
 
-It’s 1847 and Ireland is in the grip of the Great Famine that has ravaged the country for two long years. Feeney, a hardened Irish Ranger who has been fighting for the British Army abroad, abandons his post to return home and reunite with his estranged family.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/q1W1DLwg3lk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
+	
 	
 	
 
@@ -154,18 +171,23 @@ A 16-year-old girl and her extended family are left reeling after her calculatin
 
 
 	
+
+  
+
+
+	
 	
 
-### Nappily Ever After
-*Released on 2018-09-21, vote average 7.9*
+### Black 47
+*Released on 2018-09-28, vote average 8*
 
-After an accident at the hair salon, Violet realizes she&#39;s not living life to the fullest. A soulful barber helps her put the pieces back together.
+It’s 1847 and Ireland is in the grip of the Great Famine that has ravaged the country for two long years. Feeney, a hardened Irish Ranger who has been fighting for the British Army abroad, abandons his post to return home and reunite with his estranged family.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/3xh9XFxo2Hg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/q1W1DLwg3lk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -186,25 +208,22 @@ After an accident at the hair salon, Violet realizes she&#39;s not living life t
 
 
 	
-
-  
-
-
 	
 
-  
+### Prospect
+*Released on 2018-10-02, vote average 7*
 
+A teenage girl and her father travel to a remote alien moon, aiming to strike it rich. They&#39;ve secured a contract to harvest a large deposit of the elusive gems hidden in the depths of the moon&#39;s toxic forest. But there are others roving the wilderness and the job quickly devolves into a fight to survive. Not to be confused with the 2014 short film with the same name by the same directors.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-Adpq3KUP5A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -248,7 +267,7 @@ After an accident at the hair salon, Violet realizes she&#39;s not living life t
 	
 
 ### Venom
-*Released on 2018-10-03, vote average 5.9*
+*Released on 2018-10-03, vote average 6*
 
 When Eddie Brock acquires the powers of a symbiote, he will have to release his alter-ego “Venom” to save his life.
 
@@ -266,22 +285,50 @@ When Eddie Brock acquires the powers of a symbiote, he will have to release his 
 	
 
 	
+	
+	
+
+	
+
+	
+
+	
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
 
 	
 
 	
 	
 
-### Prospect
-*Released on 2018-10-02, vote average 7*
+### The Favourite
+*Released on 2018-10-06, vote average 9*
 
-A teenage girl and her father travel to a remote alien moon, aiming to strike it rich. They&#39;ve secured a contract to harvest a large deposit of the elusive gems hidden in the depths of the moon&#39;s toxic forest. But there are others roving the wilderness and the job quickly devolves into a fight to survive. Not to be confused with the 2014 short film with the same name by the same directors.
+In early 18th century England, a frail Queen Anne occupies the throne and her close friend Lady Sarah governs the country in her stead. When a new servant Abigail arrives, her charm endears her to Sarah.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-Adpq3KUP5A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/SojHxpqswV8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -293,33 +340,7 @@ A teenage girl and her father travel to a remote alien moon, aiming to strike it
 	
 
 	
-
 	
-
-	
-
-	
-
-	
-
-	
-	
-	
-
-	
-
-	
-
-	
-
-	
-	
-	
-
-	
-
-	
-
 	
 
 
