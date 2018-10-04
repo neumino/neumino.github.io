@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Venom
-*Released on 2018-10-03, vote average 6*
+*Released on 2018-10-01, vote average 6*
 
 When Eddie Brock acquires the powers of a symbiote, he will have to release his alter-ego “Venom” to save his life.
 
@@ -47,7 +47,7 @@ When Eddie Brock acquires the powers of a symbiote, he will have to release his 
 	
 
 ### Hold the Dark
-*Released on 2018-09-28, vote average 5.8*
+*Released on 2018-09-28, vote average 5.6*
 
 In the grim Alaskan winter, a naturalist hunts for wolves blamed for killing a local boy, but he soon finds himself swept into a chilling mystery.
 
@@ -68,16 +68,16 @@ In the grim Alaskan winter, a naturalist hunts for wolves blamed for killing a l
 	
 	
 
-### Smallfoot
-*Released on 2018-09-20, vote average 7.1*
+### A Star Is Born
+*Released on 2018-10-03, vote average 6.1*
 
-A Yeti is convinced that the elusive creatures known as &#34;humans&#34; really do exist.
+Seasoned musician Jackson Maine discovers—and falls in love with—struggling artist Ally. She has just about given up on her dream to make it big as a singer—until Jack coaxes her into the spotlight. But even as Ally&#39;s career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/cNYwnlcjnDU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/nSbzyEJ8X9E?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -91,7 +91,7 @@ A Yeti is convinced that the elusive creatures known as &#34;humans&#34; really 
 	
 
 ### Night School
-*Released on 2018-09-27, vote average 6.2*
+*Released on 2018-09-27, vote average 5.8*
 
 Teddy Walker is a successful salesman whose life takes an unexpected turn when he accidentally blows up his place of employment. Forced to attend night school to get his GED, Teddy soon finds himself dealing with a group of misfit students, his former high school nemesis and a feisty teacher who doesn&#39;t think he&#39;s too bright.
 
@@ -112,16 +112,16 @@ Teddy Walker is a successful salesman whose life takes an unexpected turn when h
 	
 	
 
-### A Star Is Born
-*Released on 2018-09-28, vote average 5.7*
+### Smallfoot
+*Released on 2018-09-20, vote average 7.1*
 
-Seasoned musician Jackson Maine discovers—and falls in love with—struggling artist Ally. She has just about given up on her dream to make it big as a singer—until Jack coaxes her into the spotlight. But even as Ally&#39;s career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.
+A bright young yeti finds something he thought didn&#39;t exist—a human. News of this “smallfoot” throws the simple yeti community into an uproar over what else might be out there in the big world beyond their snowy village.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/nSbzyEJ8X9E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/34cHO5_LX9g?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -137,11 +137,28 @@ Seasoned musician Jackson Maine discovers—and falls in love with—struggling 
 
 
 	
+	
+	
 
   
 
 
 	
+	
+
+### Bad Times at the El Royale
+*Released on 2018-10-04, vote average 6*
+
+Seven strangers, each with a secret to bury, meet at Lake Tahoe’s El Royale, a rundown hotel with a dark past in 1969. Over the course of one fateful night, everyone will have a last shot at redemption.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/SQmOaJciI7Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -171,26 +188,18 @@ A 16-year-old girl and her extended family are left reeling after her calculatin
 
 
 	
+	
+	
 
   
 
 
 	
+
+  
+
+
 	
-
-### Black 47
-*Released on 2018-09-28, vote average 8*
-
-It’s 1847 and Ireland is in the grip of the Great Famine that has ravaged the country for two long years. Feeney, a hardened Irish Ranger who has been fighting for the British Army abroad, abandons his post to return home and reunite with his estranged family.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/q1W1DLwg3lk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -230,10 +239,22 @@ A teenage girl and her father travel to a remote alien moon, aiming to strike it
 
 
 	
+	
 
-  
+### Journal 64
+*Released on 2018-10-04, vote average 9*
 
+A series of mysterious disappearances in 1987 are all eerily connected to the same person.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jfVTL2FxsDY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -245,10 +266,29 @@ A teenage girl and her father travel to a remote alien moon, aiming to strike it
 
 
 	
+	
+
+### Black &#39;47
+*Released on 2018-09-28, vote average 8*
+
+It’s 1847 and Ireland is in the grip of the Great Famine that has ravaged the country for two long years. Feeney, a hardened Irish Ranger who has been fighting for the British Army abroad, abandons his post to return home and reunite with his estranged family.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/q1W1DLwg3lk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
+	
+	
 	
 
   
@@ -266,16 +306,16 @@ A teenage girl and her father travel to a remote alien moon, aiming to strike it
 	
 	
 
-### Venom
-*Released on 2018-10-03, vote average 6*
+### Bad Times at the El Royale
+*Released on 2018-10-04, vote average 6*
 
-When Eddie Brock acquires the powers of a symbiote, he will have to release his alter-ego “Venom” to save his life.
+Seven strangers, each with a secret to bury, meet at Lake Tahoe’s El Royale, a rundown hotel with a dark past in 1969. Over the course of one fateful night, everyone will have a last shot at redemption.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/dzxFdtWmjto?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/SQmOaJciI7Q?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -286,6 +326,21 @@ When Eddie Brock acquires the powers of a symbiote, he will have to release his 
 
 	
 	
+
+### Journal 64
+*Released on 2018-10-04, vote average 9*
+
+A series of mysterious disappearances in 1987 are all eerily connected to the same person.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jfVTL2FxsDY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -294,26 +349,6 @@ When Eddie Brock acquires the powers of a symbiote, he will have to release his 
 
 	
 	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
@@ -340,7 +375,25 @@ In early 18th century England, a frail Queen Anne occupies the throne and her cl
 	
 
 	
+
 	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 
