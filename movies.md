@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Venom
-*Released on 2018-10-01, vote average 6*
+*Released on 2018-10-03, vote average 5.8*
 
 When Eddie Brock acquires the powers of a symbiote, he will have to release his alter-ego “Venom” to save his life.
 
@@ -68,30 +68,8 @@ In the grim Alaskan winter, a naturalist hunts for wolves blamed for killing a l
 	
 	
 
-### A Star Is Born
-*Released on 2018-10-03, vote average 6.1*
-
-Seasoned musician Jackson Maine discovers—and falls in love with—struggling artist Ally. She has just about given up on her dream to make it big as a singer—until Jack coaxes her into the spotlight. But even as Ally&#39;s career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nSbzyEJ8X9E?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Night School
-*Released on 2018-09-27, vote average 5.8*
+*Released on 2018-09-27, vote average 6*
 
 Teddy Walker is a successful salesman whose life takes an unexpected turn when he accidentally blows up his place of employment. Forced to attend night school to get his GED, Teddy soon finds himself dealing with a group of misfit students, his former high school nemesis and a feisty teacher who doesn&#39;t think he&#39;s too bright.
 
@@ -112,16 +90,16 @@ Teddy Walker is a successful salesman whose life takes an unexpected turn when h
 	
 	
 
-### Smallfoot
-*Released on 2018-09-20, vote average 7.1*
+### A Star Is Born
+*Released on 2018-10-03, vote average 6.5*
 
-A bright young yeti finds something he thought didn&#39;t exist—a human. News of this “smallfoot” throws the simple yeti community into an uproar over what else might be out there in the big world beyond their snowy village.
+Seasoned musician Jackson Maine discovers—and falls in love with—struggling artist Ally. She has just about given up on her dream to make it big as a singer—until Jack coaxes her into the spotlight. But even as Ally&#39;s career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/34cHO5_LX9g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/nSbzyEJ8X9E?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -132,24 +110,12 @@ A bright young yeti finds something he thought didn&#39;t exist—a human. News 
 
 
 	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
 	
 
 ### Bad Times at the El Royale
-*Released on 2018-10-04, vote average 6*
+*Released on 2018-10-04, vote average 3.5*
 
-Seven strangers, each with a secret to bury, meet at Lake Tahoe’s El Royale, a rundown hotel with a dark past in 1969. Over the course of one fateful night, everyone will have a last shot at redemption.
+Seven strangers, each with a secret to bury, meet at Lake Tahoe&#39;s El Royale, a rundown hotel with a dark past in 1969. Over the course of one fateful night, everyone will have a last shot at redemption.
 
 <iframe id="player"
 	type="text/html"
@@ -168,67 +134,16 @@ Seven strangers, each with a secret to bury, meet at Lake Tahoe’s El Royale, a
 	
 	
 
-### Summer &#39;03
-*Released on 2018-09-28, vote average 4.3*
+### Death Race 4: Beyond Anarchy
+*Released on 2018-10-02, vote average 6.5*
 
-A 16-year-old girl and her extended family are left reeling after her calculating grandmother unveils an array of secrets on her deathbed.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/j5MnLhPZe_o?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Prospect
-*Released on 2018-10-02, vote average 7*
-
-A teenage girl and her father travel to a remote alien moon, aiming to strike it rich. They&#39;ve secured a contract to harvest a large deposit of the elusive gems hidden in the depths of the moon&#39;s toxic forest. But there are others roving the wilderness and the job quickly devolves into a fight to survive. Not to be confused with the 2014 short film with the same name by the same directors.
+Black Ops specialist Connor Gibson infiltrates a maximum security prison to take down legendary driver Frankenstein in a violent and brutal car race.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-Adpq3KUP5A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Fz5kxN6q1dM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -255,6 +170,76 @@ A series of mysterious disappearances in 1987 are all eerily connected to the sa
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### 96
+*Released on 2018-10-04, vote average 7*
+
+96 is an upcoming Indian Tamil-language action-comedy film directed by C. Prem Kumar, who handled the cinematography for Naduvula Konjam Pakkatha Kaanom, the film features Vijay Sethupathi and Trisha Krishnan in the lead and the film is bankrolled by Nandagopal of Madras Enterprises.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/r0synl-lI4I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -288,12 +273,27 @@ It’s 1847 and Ireland is in the grip of the Great Famine that has ravaged the 
 
 
 	
-	
-	
 
   
 
 
+	
+	
+
+### Joe Rogan: Strange Times
+*Released on 2018-10-02, vote average 7.8*
+
+Outspoken as ever, comedian Joe Rogan takes on politics, pro wrestling, pot laws, cats, vegans and much more in a stand-up special shot in Boston.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/g5bx5DGr1o8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -304,51 +304,11 @@ It’s 1847 and Ireland is in the grip of the Great Famine that has ravaged the 
 
 
 	
-	
-
-### Bad Times at the El Royale
-*Released on 2018-10-04, vote average 6*
-
-Seven strangers, each with a secret to bury, meet at Lake Tahoe’s El Royale, a rundown hotel with a dark past in 1969. Over the course of one fateful night, everyone will have a last shot at redemption.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/SQmOaJciI7Q?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-	
-
-### Journal 64
-*Released on 2018-10-04, vote average 9*
-
-A series of mysterious disappearances in 1987 are all eerily connected to the same person.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jfVTL2FxsDY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
 	
 
-	
-	
 	
 
 	
@@ -371,7 +331,7 @@ In early 18th century England, a frail Queen Anne occupies the throne and her cl
 	
 
 	
-
+	
 	
 
 	
@@ -380,6 +340,46 @@ In early 18th century England, a frail Queen Anne occupies the throne and her cl
 
 	
 
+	
+
+	
+	
+
+### Galveston
+*Released on 2018-10-07, vote average 8.5*
+
+After a violent encounter with his boss&#39; men, Roy finds a prostitute and sees something in her frightened, defiant eyes that prompts a fateful decision. He takes her with him as he flees to Galveston, an action as ill-advised as it is inescapable.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/82UWW1bJdl0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+	
+
+### Strangeways Here We Come
+*Released on 2018-10-05, vote average 6.3*
+
+A comedy in which the tenants of a high rise work together to defeat a cruel loan shark.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/rNrUGwTghQA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
