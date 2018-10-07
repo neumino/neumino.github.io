@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Venom
-*Released on 2018-10-03, vote average 6.4*
+*Released on 2018-10-03, vote average 6.5*
 
 When Eddie Brock acquires the powers of a symbiote, he will have to release his alter-ego “Venom” to save his life.
 
@@ -47,7 +47,7 @@ When Eddie Brock acquires the powers of a symbiote, he will have to release his 
 	
 
 ### A Star Is Born
-*Released on 2018-10-03, vote average 6.5*
+*Released on 2018-10-03, vote average 6.9*
 
 Seasoned musician Jackson Maine discovers—and falls in love with—struggling artist Ally. She has just about given up on her dream to make it big as a singer—until Jack coaxes her into the spotlight. But even as Ally&#39;s career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.
 
@@ -69,7 +69,7 @@ Seasoned musician Jackson Maine discovers—and falls in love with—struggling 
 	
 
 ### Hold the Dark
-*Released on 2018-09-28, vote average 5.5*
+*Released on 2018-09-28, vote average 5.6*
 
 In the grim Alaskan winter, a naturalist hunts for wolves blamed for killing a local boy, but he soon finds himself swept into a chilling mystery.
 
@@ -90,16 +90,16 @@ In the grim Alaskan winter, a naturalist hunts for wolves blamed for killing a l
 	
 	
 
-### Night School
-*Released on 2018-09-27, vote average 5.7*
+### Private Life
+*Released on 2018-10-05, vote average 8*
 
-Teddy Walker is a successful salesman whose life takes an unexpected turn when he accidentally blows up his place of employment. Forced to attend night school to get his GED, Teddy soon finds himself dealing with a group of misfit students, his former high school nemesis and a feisty teacher who doesn&#39;t think he&#39;s too bright.
+Richard and Rachel, a couple in the throes of infertility, try to maintain their marriage as they descend deeper and deeper into the insular world of assisted reproduction and domestic adoption.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/t9QtXGirWf0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/J1orjA9Z8g4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -113,7 +113,7 @@ Teddy Walker is a successful salesman whose life takes an unexpected turn when h
 	
 
 ### Bad Times at the El Royale
-*Released on 2018-10-04, vote average 3*
+*Released on 2018-10-04, vote average 4.4*
 
 Seven strangers, each with a secret to bury, meet at Lake Tahoe&#39;s El Royale, a rundown hotel with a dark past in 1969. Over the course of one fateful night, everyone will have a last shot at redemption.
 
@@ -134,115 +134,10 @@ Seven strangers, each with a secret to bury, meet at Lake Tahoe&#39;s El Royale,
 	
 	
 
-### Journal 64
-*Released on 2018-10-04, vote average 9*
-
-A series of mysterious disappearances in 1987 are all eerily connected to the same person.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jfVTL2FxsDY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### 96
-*Released on 2018-10-04, vote average 7*
-
-96 is an upcoming Indian Tamil-language action-comedy film directed by C. Prem Kumar, who handled the cinematography for Naduvula Konjam Pakkatha Kaanom, the film features Vijay Sethupathi and Trisha Krishnan in the lead and the film is bankrolled by Nandagopal of Madras Enterprises.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/r0synl-lI4I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Private Life
-*Released on 2018-10-05, vote average 8*
-
-An author is undergoing multiple fertility therapies to get pregnant, putting her relationship with her husband on edge.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/J1orjA9Z8g4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Pariyerum Perumal
-*Released on 2018-09-28, vote average 9*
-
-A law student from a lower caste begins a friendship with his classmate, a girl who belongs to a higher caste, and the men in her family start giving him trouble over this.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/GMNsUxJe4R4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### Malevolent
-*Released on 2018-10-05, vote average 6.5*
+*Released on 2018-10-05, vote average 5.9*
 
-Siblings Jackson and Angela run a profitable ghostbusting racket; swindling the bereaved with fake detection equipment and Angela&#39;s paranormal &#39;visions&#39;. Hired to investigate a haunted old foster home, the team uncover its terrifying past: young girls brutally slaughtered, mouths stitched shut; silenced by a sadistic killer. And Angela&#39;s on the edge - sleepless, strung out and losing her mind, no longer certain what&#39;s actually real; convinced she hears the girls crying out to her from the darkness... But supernatural terrors are the least of their problems when they discover the very real evil lurking in the isolated house.
+A brother-sister team who fake paranormal encounters for cash get more than they bargained for when a job at a haunted estate turns very, very real.
 
 <iframe id="player"
 	type="text/html"
@@ -282,24 +177,17 @@ In early 18th century England, a frail Queen Anne occupies the throne and her cl
 
 	
 	
-	
 
-  
+### Bayou Caviar
+*Released on 2018-10-05, vote average 5.3*
 
-
-	
-	
-
-### The Dawn Wall
-*Released on 2018-10-04, vote average 6*
-
-In the middle of Yosemite National Park towers El Capitan, a huge block of granite whose smoothest side, the Dawn Wall, is said to be the most difficult rock climb in the world. Tommy Caldwell didn’t see inhospitable terrain, but rather a puzzle almost a kilometer tall. In The Dawn Wall, we follow him and Kevin Jorgeson in their historic ascent to the summit.
+A Russian gangster engages a former boxer to take down his associate’s son-in-law via a salacious video tape.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/fRkMaQEVd9c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/wlsXCOCRAwU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -310,28 +198,18 @@ In the middle of Yosemite National Park towers El Capitan, a huge block of grani
 
 
 	
-
-  
-
-
 	
 
-  
+### Night School
+*Released on 2018-09-27, vote average 5.7*
 
-
-	
-	
-
-### Andhadhun
-*Released on 2018-10-05, vote average 10*
-
-He sees what he shouldn&#39;t. She sees what he couldn&#39;t. So the question is, does he see it or not?
+Teddy Walker is a successful salesman whose life takes an unexpected turn when he accidentally blows up his place of employment. Forced to attend night school to get his GED, Teddy soon finds himself dealing with a group of misfit students, his former high school nemesis and a feisty teacher who doesn&#39;t think he&#39;s too bright.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/2iVYI99VGaw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/t9QtXGirWf0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -340,40 +218,12 @@ He sees what he shouldn&#39;t. She sees what he couldn&#39;t. So the question is
 
   
 
-
-	
-
-  
-
-
-
-## Opening soon
-
-
-	
-	
-
-### The Favourite
-*Released on 2018-10-06, vote average 9*
-
-In early 18th century England, a frail Queen Anne occupies the throne and her close friend Lady Sarah governs the country in her stead. When a new servant Abigail arrives, her charm endears her to Sarah.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/SojHxpqswV8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 	
 
 ### Galveston
-*Released on 2018-10-07, vote average 8.5*
+*Released on 2018-10-07, vote average 4.8*
 
 After a violent encounter with his boss&#39; men, Roy finds a prostitute and sees something in her frightened, defiant eyes that prompts a fateful decision. He takes her with him as he flees to Galveston, an action as ill-advised as it is inescapable.
 
@@ -388,11 +238,45 @@ After a violent encounter with his boss&#39; men, Roy finds a prostitute and see
 	
 	
 
-	
+  
+
 
 	
 
+  
+
+
 	
+	
+
+### Pariyerum Perumal
+*Released on 2018-09-28, vote average 9*
+
+A law student from a lower caste begins a friendship with his classmate, a girl who belongs to a higher caste, and the men in her family start giving him trouble over this.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/GMNsUxJe4R4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
 
 	
 	
@@ -411,6 +295,120 @@ Manny, Joel and Jonah tear their way through childhood and push against the vola
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Andhadhun
+*Released on 2018-10-05, vote average 7.5*
+
+Andhadhun is the story of a creative artist who gets involved in a crime scene. Akash is a blind piano player based in Pune. While crossing the road, he one day accidentally bumps into Sophie, who along with her father runs a restaurant named Franco’s. Impressed with his piano skills, she hires Akash to play at Franco’s. Akash impresses the guests with his performance and also Sophie. Both start a love affair. A frequent customer at Franco’s is yesteryear actor Pramod Sinha. He has retired from films and is now into real estate. Three years ago, he married Simi, who is his second wife.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2iVYI99VGaw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Strangeways Here We Come
+*Released on 2018-10-05, vote average 6.3*
+
+A comedy in which the tenants of a high rise work together to defeat a cruel loan shark.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/rNrUGwTghQA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+
+## Opening soon
+
+
+	
+	
+
+### Galveston
+*Released on 2018-10-07, vote average 4.8*
+
+After a violent encounter with his boss&#39; men, Roy finds a prostitute and sees something in her frightened, defiant eyes that prompts a fateful decision. He takes her with him as he flees to Galveston, an action as ill-advised as it is inescapable.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/82UWW1bJdl0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### First Man
+*Released on 2018-10-11, vote average 1*
+
+A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/O9Y7DTCn7Cc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+
 	
 
 	
