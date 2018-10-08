@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Venom
-*Released on 2018-10-03, vote average 6.5*
+*Released on 2018-10-03, vote average 6.6*
 
 When Eddie Brock acquires the powers of a symbiote, he will have to release his alter-ego “Venom” to save his life.
 
@@ -47,7 +47,7 @@ When Eddie Brock acquires the powers of a symbiote, he will have to release his 
 	
 
 ### A Star Is Born
-*Released on 2018-10-03, vote average 6.9*
+*Released on 2018-10-03, vote average 7.3*
 
 Seasoned musician Jackson Maine discovers—and falls in love with—struggling artist Ally. She has just about given up on her dream to make it big as a singer—until Jack coaxes her into the spotlight. But even as Ally&#39;s career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.
 
@@ -56,28 +56,6 @@ Seasoned musician Jackson Maine discovers—and falls in love with—struggling 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/nSbzyEJ8X9E?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Hold the Dark
-*Released on 2018-09-28, vote average 5.6*
-
-In the grim Alaskan winter, a naturalist hunts for wolves blamed for killing a local boy, but he soon finds himself swept into a chilling mystery.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/OFAwDO6b5KI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,16 +90,16 @@ Richard and Rachel, a couple in the throes of infertility, try to maintain their
 	
 	
 
-### Bad Times at the El Royale
-*Released on 2018-10-04, vote average 4.4*
+### Malevolent
+*Released on 2018-10-05, vote average 5.5*
 
-Seven strangers, each with a secret to bury, meet at Lake Tahoe&#39;s El Royale, a rundown hotel with a dark past in 1969. Over the course of one fateful night, everyone will have a last shot at redemption.
+A brother-sister team who fake paranormal encounters for cash get more than they bargained for when a job at a haunted estate turns very, very real.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/SQmOaJciI7Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/kJ3tMPVvE6w?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,16 +112,16 @@ Seven strangers, each with a secret to bury, meet at Lake Tahoe&#39;s El Royale,
 	
 	
 
-### Malevolent
-*Released on 2018-10-05, vote average 5.9*
+### Bad Times at the El Royale
+*Released on 2018-10-04, vote average 4.4*
 
-A brother-sister team who fake paranormal encounters for cash get more than they bargained for when a job at a haunted estate turns very, very real.
+Seven strangers, each with a secret to bury, meet at Lake Tahoe&#39;s El Royale, a rundown hotel with a dark past in 1969. Over the course of one fateful night, everyone will have a last shot at redemption.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/kJ3tMPVvE6w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/SQmOaJciI7Q?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -181,7 +159,7 @@ In early 18th century England, a frail Queen Anne occupies the throne and her cl
 ### Bayou Caviar
 *Released on 2018-10-05, vote average 5.3*
 
-A Russian gangster engages a former boxer to take down his associate’s son-in-law via a salacious video tape.
+Rodney is a former boxing champ who, after a deathbed visit to his trainer and mentor, is propelled into reclaiming victory for his now simple life as a nightclub bouncer. He partners with a no-nonsense, lesbian photographer and an aspiring starlet to make a compromising tape with Isaac—a married, devout, Orthodox Jewish real estate mogul—that sets off a chain of events that brings down an empire.
 
 <iframe id="player"
 	type="text/html"
@@ -236,11 +214,6 @@ After a violent encounter with his boss&#39; men, Roy finds a prostitute and see
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -361,28 +334,19 @@ A comedy in which the tenants of a high rise work together to defeat a cruel loa
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
 
 ## Opening soon
 
-
-	
-	
-
-### Galveston
-*Released on 2018-10-07, vote average 4.8*
-
-After a violent encounter with his boss&#39; men, Roy finds a prostitute and sees something in her frightened, defiant eyes that prompts a fateful decision. He takes her with him as he flees to Galveston, an action as ill-advised as it is inescapable.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/82UWW1bJdl0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 	
@@ -401,6 +365,8 @@ A look at the life of the astronaut, Neil Armstrong, and the legendary space mis
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
