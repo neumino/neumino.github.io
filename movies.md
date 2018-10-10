@@ -69,7 +69,7 @@ Seasoned musician Jackson Maine discovers—and falls in love with—struggling 
 	
 
 ### Malevolent
-*Released on 2018-10-05, vote average 5.4*
+*Released on 2018-10-05, vote average 5.2*
 
 A brother-sister team who fake paranormal encounters for cash get more than they bargained for when a job at a haunted estate turns very, very real.
 
@@ -91,7 +91,7 @@ A brother-sister team who fake paranormal encounters for cash get more than they
 	
 
 ### Private Life
-*Released on 2018-10-05, vote average 7.6*
+*Released on 2018-10-05, vote average 7.5*
 
 Richard and Rachel, a couple in the throes of infertility, try to maintain their marriage as they descend deeper and deeper into the insular world of assisted reproduction and domestic adoption.
 
@@ -104,6 +104,82 @@ Richard and Rachel, a couple in the throes of infertility, try to maintain their
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Legend of Halloween Jack
+*Released on 2018-10-08, vote average 10*
+
+On Halloween night, a serial killer returns from the dead to take revenge on the vigilantes who put him to death one year earlier.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/A6QjQb-UsGs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Night School
+*Released on 2018-09-27, vote average 5.7*
+
+Teddy Walker is a successful salesman whose life takes an unexpected turn when he accidentally blows up his place of employment. Forced to attend night school to get his GED, Teddy soon finds himself dealing with a group of misfit students, his former high school nemesis and a feisty teacher who doesn&#39;t think he&#39;s too bright.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/t9QtXGirWf0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Bad Times at the El Royale
+*Released on 2018-10-04, vote average 3.9*
+
+Seven strangers, each with a secret to bury, meet at Lake Tahoe&#39;s El Royale, a rundown hotel with a dark past in 1969. Over the course of one fateful night, everyone will have a last shot at redemption.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/SQmOaJciI7Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -131,23 +207,6 @@ After a violent encounter with his boss&#39; men, Roy finds a prostitute and see
   
 
 
-	
-	
-
-### Night School
-*Released on 2018-09-27, vote average 5.6*
-
-Teddy Walker is a successful salesman whose life takes an unexpected turn when he accidentally blows up his place of employment. Forced to attend night school to get his GED, Teddy soon finds himself dealing with a group of misfit students, his former high school nemesis and a feisty teacher who doesn&#39;t think he&#39;s too bright.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/t9QtXGirWf0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -181,22 +240,32 @@ Rodney is a former boxing champ who, after a deathbed visit to his trainer and m
 
 
 	
-	
 
-### Bad Times at the El Royale
-*Released on 2018-10-04, vote average 3.1*
+  
 
-Seven strangers, each with a secret to bury, meet at Lake Tahoe&#39;s El Royale, a rundown hotel with a dark past in 1969. Over the course of one fateful night, everyone will have a last shot at redemption.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/SQmOaJciI7Q?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -224,73 +293,6 @@ In early 18th century England, a frail Queen Anne occupies the throne and her cl
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Pariyerum Perumal
-*Released on 2018-09-28, vote average 9*
-
-A law student from a lower caste begins a friendship with his classmate, a girl who belongs to a higher caste, and the men in her family start giving him trouble over this.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/GMNsUxJe4R4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -299,7 +301,7 @@ A law student from a lower caste begins a friendship with his classmate, a girl 
 	
 
 ### First Man
-*Released on 2018-10-11, vote average 4*
+*Released on 2018-10-11, vote average 3.5*
 
 A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.
 
@@ -319,12 +321,14 @@ A look at the life of the astronaut, Neil Armstrong, and the legendary space mis
 	
 
 	
+
+	
 	
 
 ### Beautiful Boy
 *Released on 2018-10-12, vote average 3*
 
-Chronicles meth addiction and recovery through the eyes of a father who watches his son as he struggles with the disease.
+After he and his first wife separate, journalist David Sheff struggles to help their son Nic, who goes from experimenting with drugs to becoming devastatingly addicted to methamphetamine.
 
 <iframe id="player"
 	type="text/html"
@@ -340,15 +344,7 @@ Chronicles meth addiction and recovery through the eyes of a father who watches 
 	
 
 	
-
 	
-
-	
-
-	
-	
-	
-
 	
 
 	
@@ -376,6 +372,12 @@ The fierce psychological confrontation between a detective and a killer who conf
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
 	
 
 	
