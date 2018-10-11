@@ -47,7 +47,7 @@ When Eddie Brock acquires the powers of a symbiote, he will have to release his 
 	
 
 ### A Star Is Born
-*Released on 2018-10-03, vote average 7.2*
+*Released on 2018-10-03, vote average 7.3*
 
 Seasoned musician Jackson Maine discovers—and falls in love with—struggling artist Ally. She has just about given up on her dream to make it big as a singer—until Jack coaxes her into the spotlight. But even as Ally&#39;s career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.
 
@@ -69,7 +69,7 @@ Seasoned musician Jackson Maine discovers—and falls in love with—struggling 
 	
 
 ### Malevolent
-*Released on 2018-10-05, vote average 5.2*
+*Released on 2018-10-05, vote average 5.1*
 
 A brother-sister team who fake paranormal encounters for cash get more than they bargained for when a job at a haunted estate turns very, very real.
 
@@ -90,8 +90,30 @@ A brother-sister team who fake paranormal encounters for cash get more than they
 	
 	
 
+### First Man
+*Released on 2018-10-11, vote average 4.3*
+
+A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/O9Y7DTCn7Cc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Private Life
-*Released on 2018-10-05, vote average 7.5*
+*Released on 2018-10-05, vote average 7.2*
 
 Richard and Rachel, a couple in the throes of infertility, try to maintain their marriage as they descend deeper and deeper into the insular world of assisted reproduction and domestic adoption.
 
@@ -104,6 +126,21 @@ Richard and Rachel, a couple in the throes of infertility, try to maintain their
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -138,6 +175,18 @@ On Halloween night, a serial killer returns from the dead to take revenge on the
 
 	
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 
 ### Night School
 *Released on 2018-09-27, vote average 5.7*
@@ -159,18 +208,38 @@ Teddy Walker is a successful salesman whose life takes an unexpected turn when h
 
 
 	
+
+  
+
+
 	
 
-### Bad Times at the El Royale
-*Released on 2018-10-04, vote average 3.9*
+  
 
-Seven strangers, each with a secret to bury, meet at Lake Tahoe&#39;s El Royale, a rundown hotel with a dark past in 1969. Over the course of one fateful night, everyone will have a last shot at redemption.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Dark Figure of Crime
+*Released on 2018-10-10, vote average 7*
+
+The fierce psychological confrontation between a detective and a killer who confessed to multiple murders.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/SQmOaJciI7Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/y56z6DcQVww?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -185,109 +254,6 @@ Seven strangers, each with a secret to bury, meet at Lake Tahoe&#39;s El Royale,
   
 
 
-	
-	
-
-### Galveston
-*Released on 2018-10-07, vote average 3.9*
-
-After a violent encounter with his boss&#39; men, Roy finds a prostitute and sees something in her frightened, defiant eyes that prompts a fateful decision. He takes her with him as he flees to Galveston, an action as ill-advised as it is inescapable.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/82UWW1bJdl0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Bayou Caviar
-*Released on 2018-10-05, vote average 3.3*
-
-Rodney is a former boxing champ who, after a deathbed visit to his trainer and mentor, is propelled into reclaiming victory for his now simple life as a nightclub bouncer. He partners with a no-nonsense, lesbian photographer and an aspiring starlet to make a compromising tape with Isaac—a married, devout, Orthodox Jewish real estate mogul—that sets off a chain of events that brings down an empire.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wlsXCOCRAwU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Favourite
-*Released on 2018-10-06, vote average 5.8*
-
-In early 18th century England, a frail Queen Anne occupies the throne and her close friend Lady Sarah governs the country in her stead. When a new servant Abigail arrives, her charm endears her to Sarah.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/SojHxpqswV8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -301,7 +267,7 @@ In early 18th century England, a frail Queen Anne occupies the throne and her cl
 	
 
 ### First Man
-*Released on 2018-10-11, vote average 3.5*
+*Released on 2018-10-11, vote average 4.3*
 
 A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.
 
@@ -323,10 +289,12 @@ A look at the life of the astronaut, Neil Armstrong, and the legendary space mis
 	
 
 	
+
+	
 	
 
 ### Beautiful Boy
-*Released on 2018-10-12, vote average 3*
+*Released on 2018-10-12, vote average 6.5*
 
 After he and his first wife separate, journalist David Sheff struggles to help their son Nic, who goes from experimenting with drugs to becoming devastatingly addicted to methamphetamine.
 
@@ -344,8 +312,6 @@ After he and his first wife separate, journalist David Sheff struggles to help t
 	
 
 	
-	
-	
 
 	
 
@@ -357,23 +323,6 @@ After he and his first wife separate, journalist David Sheff struggles to help t
 
 	
 	
-
-### Dark Figure of Crime
-*Released on 2018-10-10, vote average 7*
-
-The fierce psychological confrontation between a detective and a killer who confessed to multiple murders.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/y56z6DcQVww?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
 	
 
 	
