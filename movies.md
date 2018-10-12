@@ -68,8 +68,30 @@ Seasoned musician Jackson Maine discovers—and falls in love with—struggling 
 	
 	
 
+### First Man
+*Released on 2018-10-11, vote average 3.8*
+
+A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/O9Y7DTCn7Cc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Malevolent
-*Released on 2018-10-05, vote average 5.1*
+*Released on 2018-10-05, vote average 5.2*
 
 A brother-sister team who fake paranormal encounters for cash get more than they bargained for when a job at a haunted estate turns very, very real.
 
@@ -88,22 +110,15 @@ A brother-sister team who fake paranormal encounters for cash get more than they
 
 
 	
-	
 
-### First Man
-*Released on 2018-10-11, vote average 4.3*
+  
 
-A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/O9Y7DTCn7Cc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
 	
 
   
@@ -132,72 +147,18 @@ Richard and Rachel, a couple in the throes of infertility, try to maintain their
 
 
 	
-
-  
-
-
 	
 
-  
+### Beautiful Boy
+*Released on 2018-10-12, vote average 6.5*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Legend of Halloween Jack
-*Released on 2018-10-08, vote average 10*
-
-On Halloween night, a serial killer returns from the dead to take revenge on the vigilantes who put him to death one year earlier.
+After he and his first wife separate, journalist David Sheff struggles to help their son Nic, who goes from experimenting with drugs to becoming devastatingly addicted to methamphetamine.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/A6QjQb-UsGs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Night School
-*Released on 2018-09-27, vote average 5.7*
-
-Teddy Walker is a successful salesman whose life takes an unexpected turn when he accidentally blows up his place of employment. Forced to attend night school to get his GED, Teddy soon finds himself dealing with a group of misfit students, his former high school nemesis and a feisty teacher who doesn&#39;t think he&#39;s too bright.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/t9QtXGirWf0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/OoAQj7hxcM0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -228,27 +189,32 @@ Teddy Walker is a successful salesman whose life takes an unexpected turn when h
 
 
 	
-	
 
-### Dark Figure of Crime
-*Released on 2018-10-10, vote average 7*
+  
 
-The fierce psychological confrontation between a detective and a killer who confessed to multiple murders.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/y56z6DcQVww?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -262,31 +228,6 @@ The fierce psychological confrontation between a detective and a killer who conf
 
 ## Opening soon
 
-
-	
-	
-
-### First Man
-*Released on 2018-10-11, vote average 4.3*
-
-A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/O9Y7DTCn7Cc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
 
 	
 
@@ -310,6 +251,23 @@ After he and his first wife separate, journalist David Sheff struggles to help t
 	
 
 	
+	
+
+### Halloween
+*Released on 2018-10-18, vote average 4*
+
+Laurie Strode comes to her final confrontation with Michael Myers, the masked figure who has haunted her since she narrowly escaped his killing spree on Halloween night four decades ago. This being the 11th film in the &#34;Halloween&#34; series, will ignore the events of all previous sequels, picking up 40 years after the events of the original film.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/aMCLVSlk1Tk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
@@ -322,7 +280,13 @@ After he and his first wife separate, journalist David Sheff struggles to help t
 	
 
 	
+
 	
+
+	
+
+	
+
 	
 
 	
