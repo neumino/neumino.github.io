@@ -47,7 +47,7 @@ When Eddie Brock acquires the powers of a symbiote, he will have to release his 
 	
 
 ### A Star Is Born
-*Released on 2018-10-03, vote average 7.3*
+*Released on 2018-10-03, vote average 7.5*
 
 Seasoned musician Jackson Maine discovers—and falls in love with—struggling artist Ally. She has just about given up on her dream to make it big as a singer—until Jack coaxes her into the spotlight. But even as Ally&#39;s career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.
 
@@ -69,7 +69,7 @@ Seasoned musician Jackson Maine discovers—and falls in love with—struggling 
 	
 
 ### First Man
-*Released on 2018-10-11, vote average 3.8*
+*Released on 2018-10-11, vote average 4.5*
 
 A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.
 
@@ -90,8 +90,62 @@ A look at the life of the astronaut, Neil Armstrong, and the legendary space mis
 	
 	
 
+### Goosebumps 2: Haunted Halloween
+*Released on 2018-10-12, vote average 8*
+
+Two boys face an onslaught from witches, monsters, ghouls and a talking dummy after they discover a mysterious book by author R. L. Stine.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nQeOzfm-lps?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Beautiful Boy
+*Released on 2018-10-12, vote average 7*
+
+After he and his first wife separate, journalist David Sheff struggles to help their son Nic, who goes from experimenting with drugs to becoming devastatingly addicted to methamphetamine.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/OoAQj7hxcM0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### Malevolent
-*Released on 2018-10-05, vote average 5.2*
+*Released on 2018-10-05, vote average 5.1*
 
 A brother-sister team who fake paranormal encounters for cash get more than they bargained for when a job at a haunted estate turns very, very real.
 
@@ -115,20 +169,10 @@ A brother-sister team who fake paranormal encounters for cash get more than they
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### Private Life
-*Released on 2018-10-05, vote average 7.2*
+*Released on 2018-10-05, vote average 6.8*
 
 Richard and Rachel, a couple in the throes of infertility, try to maintain their marriage as they descend deeper and deeper into the insular world of assisted reproduction and domestic adoption.
 
@@ -147,18 +191,28 @@ Richard and Rachel, a couple in the throes of infertility, try to maintain their
 
 
 	
+
+  
+
+
 	
 
-### Beautiful Boy
-*Released on 2018-10-12, vote average 6.5*
+  
 
-After he and his first wife separate, journalist David Sheff struggles to help their son Nic, who goes from experimenting with drugs to becoming devastatingly addicted to methamphetamine.
+
+	
+	
+
+### The Oath
+*Released on 2018-10-12, vote average 8*
+
+In a politically divided America, a man struggles to make it through the Thanksgiving holiday without destroying his family.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/OoAQj7hxcM0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/OV03zjNVRdc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -189,32 +243,12 @@ After he and his first wife separate, journalist David Sheff struggles to help t
 
 
 	
-
-  
-
-
 	
-
-  
-
-
 	
 
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -228,27 +262,6 @@ After he and his first wife separate, journalist David Sheff struggles to help t
 
 ## Opening soon
 
-
-	
-
-	
-	
-
-### Beautiful Boy
-*Released on 2018-10-12, vote average 6.5*
-
-After he and his first wife separate, journalist David Sheff struggles to help their son Nic, who goes from experimenting with drugs to becoming devastatingly addicted to methamphetamine.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/OoAQj7hxcM0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 	
@@ -267,6 +280,10 @@ Laurie Strode comes to her final confrontation with Michael Myers, the masked fi
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
 	
 
 	
