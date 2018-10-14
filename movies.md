@@ -69,7 +69,7 @@ Seasoned musician Jackson Maine discovers—and falls in love with—struggling 
 	
 
 ### First Man
-*Released on 2018-10-11, vote average 4.5*
+*Released on 2018-10-11, vote average 5.8*
 
 A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.
 
@@ -91,7 +91,7 @@ A look at the life of the astronaut, Neil Armstrong, and the legendary space mis
 	
 
 ### Goosebumps 2: Haunted Halloween
-*Released on 2018-10-12, vote average 8*
+*Released on 2018-10-12, vote average 6*
 
 Two boys face an onslaught from witches, monsters, ghouls and a talking dummy after they discover a mysterious book by author R. L. Stine.
 
@@ -110,10 +110,15 @@ Two boys face an onslaught from witches, monsters, ghouls and a talking dummy af
 
 
 	
+
+  
+
+
+	
 	
 
 ### Beautiful Boy
-*Released on 2018-10-12, vote average 7*
+*Released on 2018-10-12, vote average 5.5*
 
 After he and his first wife separate, journalist David Sheff struggles to help their son Nic, who goes from experimenting with drugs to becoming devastatingly addicted to methamphetamine.
 
@@ -131,60 +136,6 @@ After he and his first wife separate, journalist David Sheff struggles to help t
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Malevolent
-*Released on 2018-10-05, vote average 5.1*
-
-A brother-sister team who fake paranormal encounters for cash get more than they bargained for when a job at a haunted estate turns very, very real.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kJ3tMPVvE6w?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Private Life
-*Released on 2018-10-05, vote average 6.8*
-
-Richard and Rachel, a couple in the throes of infertility, try to maintain their marriage as they descend deeper and deeper into the insular world of assisted reproduction and domestic adoption.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/J1orjA9Z8g4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -233,6 +184,50 @@ In a politically divided America, a man struggles to make it through the Thanksg
 
 
 	
+	
+
+### Bad Times at the El Royale
+*Released on 2018-10-04, vote average 6.1*
+
+Seven strangers, each with a secret to bury, meet at Lake Tahoe&#39;s El Royale, a rundown hotel with a dark past in 1969. Over the course of one fateful night, everyone will have a last shot at redemption.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/SQmOaJciI7Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Malevolent
+*Released on 2018-10-05, vote average 5.1*
+
+A brother-sister team who fake paranormal encounters for cash get more than they bargained for when a job at a haunted estate turns very, very real.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kJ3tMPVvE6w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -244,6 +239,21 @@ In a politically divided America, a man struggles to make it through the Thanksg
 
 	
 	
+
+### Aravindha Sametha
+*Released on 2018-10-11, vote average 10*
+
+Aravinda Sametha is a 2018 Telugu action drama, which has been written &amp; directed by Trivikram Srinivas. The movie stars Jr. Ntr and Pooja Hedge in the lead roles.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mRmuVYP36Hs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -254,6 +264,28 @@ In a politically divided America, a man struggles to make it through the Thanksg
   
 
 
+	
+
+  
+
+
+	
+	
+
+### Jane and Emma
+*Released on 2018-10-12, vote average 7.5*
+
+Two women. One white. The other black. Society mandated they be enemies. The gospel of Jesus Christ required they be friends. On the eve of the death of Joseph Smith, his widow, Emma, is on the brink of destruction. In order to stand with her friend in her darkest hour, one woman, Jane Manning, will need to hear the voice of God once more. Can she hear His voice again? And if so, can she find the strength to abide it?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/BkwYD083Tt0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -267,7 +299,7 @@ In a politically divided America, a man struggles to make it through the Thanksg
 	
 
 ### Halloween
-*Released on 2018-10-18, vote average 4*
+*Released on 2018-10-18, vote average 5*
 
 Laurie Strode comes to her final confrontation with Michael Myers, the masked figure who has haunted her since she narrowly escaped his killing spree on Halloween night four decades ago. This being the 11th film in the &#34;Halloween&#34; series, will ignore the events of all previous sequels, picking up 40 years after the events of the original film.
 
