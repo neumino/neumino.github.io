@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### First Man
-*Released on 2018-10-11, vote average 6.8*
+*Released on 2018-10-11, vote average 6.9*
 
 A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.
 
@@ -46,6 +46,57 @@ A look at the life of the astronaut, Neil Armstrong, and the legendary space mis
 	
 	
 
+### Goosebumps 2: Haunted Halloween
+*Released on 2018-10-11, vote average 6.2*
+
+Two boys face an onslaught from witches, monsters, ghouls and a talking dummy after they discover a mysterious book by author R. L. Stine.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nQeOzfm-lps?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Halloween
+*Released on 2018-10-18, vote average 6.6*
+
+Laurie Strode comes to her final confrontation with Michael Myers, the masked figure who has haunted her since she narrowly escaped his killing spree on Halloween night four decades ago.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ek1ePFp-nBI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Ratsasan
 *Released on 2018-10-05, vote average 8*
 
@@ -66,44 +117,10 @@ A serial killer is murdering school girls, and a newbie cop has to track him dow
 
 
 	
-	
-
-### Bad Times at the El Royale
-*Released on 2018-10-04, vote average 6.7*
-
-Seven strangers, each with a secret to bury, meet at Lake Tahoe&#39;s El Royale, a rundown hotel with a dark past in 1969. Over the course of one fateful night, everyone will have a last shot at redemption.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/SQmOaJciI7Q?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
-	
-	
-
-### Goosebumps 2: Haunted Halloween
-*Released on 2018-10-11, vote average 6.4*
-
-Two boys face an onslaught from witches, monsters, ghouls and a talking dummy after they discover a mysterious book by author R. L. Stine.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nQeOzfm-lps?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -117,19 +134,26 @@ Two boys face an onslaught from witches, monsters, ghouls and a talking dummy af
 	
 	
 
-### Halloween
-*Released on 2018-10-18, vote average 6.8*
+### The Hate U Give
+*Released on 2018-10-19, vote average 9*
 
-Laurie Strode comes to her final confrontation with Michael Myers, the masked figure who has haunted her since she narrowly escaped his killing spree on Halloween night four decades ago.
+Raised in a poverty-stricken slum, a 16-year-old girl named Starr now attends a suburban prep school. After she witnesses a police officer shoot her unarmed best friend, she&#39;s torn between her two very different worlds as she tries to speak her truth.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ek1ePFp-nBI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/3MM8OkVT0hw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -159,32 +183,12 @@ Gellert Grindelwald has escaped imprisonment and has begun gathering followers t
 
 
 	
+	
+	
 
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Look Away
-*Released on 2018-10-12, vote average 5.3*
-
-A timid and reclusive 18-year-old high school student is alienated by her parents and ruthlessly rejected by her peers. Desperate and isolated, she confides in her own reflection — and in the mirror she finds her imagined evil twin, someone who supports her, encourages her and knows all her secret desires. When the “girls” trade places, repressed sexuality and a ferocious violence erupt with a dangerous sense of freedom.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wuLJHROphdM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -218,22 +222,7 @@ A timid and reclusive 18-year-old high school student is alienated by her parent
 
 
 	
-
-  
-
-
 	
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -247,27 +236,6 @@ A timid and reclusive 18-year-old high school student is alienated by her parent
 
 ## Opening soon
 
-
-	
-	
-
-### Halloween
-*Released on 2018-10-18, vote average 6.8*
-
-Laurie Strode comes to her final confrontation with Michael Myers, the masked figure who has haunted her since she narrowly escaped his killing spree on Halloween night four decades ago.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ek1ePFp-nBI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
 
 	
 
@@ -295,8 +263,6 @@ Raised in a poverty-stricken slum, a 16-year-old girl named Starr now attends a 
 	
 
 	
-	
-	
 
 	
 
@@ -311,7 +277,9 @@ Raised in a poverty-stricken slum, a 16-year-old girl named Starr now attends a 
 	
 
 	
+
 	
+
 	
 
 	
