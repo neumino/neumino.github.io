@@ -76,7 +76,7 @@ Two boys face an onslaught from witches, monsters, ghouls and a talking dummy af
 	
 
 ### Halloween
-*Released on 2018-10-18, vote average 6.6*
+*Released on 2018-10-18, vote average 5.9*
 
 Laurie Strode comes to her final confrontation with Michael Myers, the masked figure who has haunted her since she narrowly escaped his killing spree on Halloween night four decades ago.
 
@@ -95,33 +95,6 @@ Laurie Strode comes to her final confrontation with Michael Myers, the masked fi
 
 
 	
-	
-
-### Ratsasan
-*Released on 2018-10-05, vote average 8*
-
-A serial killer is murdering school girls, and a newbie cop has to track him down before the victim count increases.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZkJr6EVkBaU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 
   
 
@@ -154,8 +127,6 @@ Raised in a poverty-stricken slum, a 16-year-old girl named Starr now attends a 
 
 
 	
-	
-	
 
   
 
@@ -163,16 +134,16 @@ Raised in a poverty-stricken slum, a 16-year-old girl named Starr now attends a 
 	
 	
 
-### Fantastic Beasts: The Crimes of Grindelwald
-*Released on 2018-10-16, vote average 4*
+### Mid90s
+*Released on 2018-10-19, vote average 8*
 
-Gellert Grindelwald has escaped imprisonment and has begun gathering followers to his cause—elevating wizards above all non-magical beings. The only one capable of putting a stop to him is the wizard he once called his closest friend, Albus Dumbledore. However, Dumbledore will need to seek help from the wizard who had thwarted Grindelwald once before, his former student Newt Scamander.
+Stevie is a sweet 13-year-old about to explode. His mom is loving and attentive, but a little too forthcoming about her romantic life. His big brother is a taciturn and violent bully. So Stevie searches his working-class Los Angeles suburb for somewhere to belong. He finds it at the Motor Avenue skate shop.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/5sEaYB4rLFQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/w9Rx6-GaSIE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -183,25 +154,6 @@ Gellert Grindelwald has escaped imprisonment and has begun gathering followers t
 
 
 	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
 
   
 
@@ -222,12 +174,37 @@ Gellert Grindelwald has escaped imprisonment and has begun gathering followers t
 
 
 	
-	
+
+  
+
+
 	
 
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -241,23 +218,6 @@ Gellert Grindelwald has escaped imprisonment and has begun gathering followers t
 
 	
 
-	
-	
-
-### The Hate U Give
-*Released on 2018-10-19, vote average 9*
-
-Raised in a poverty-stricken slum, a 16-year-old girl named Starr now attends a suburban prep school. After she witnesses a police officer shoot her unarmed best friend, she&#39;s torn between her two very different worlds as she tries to speak her truth.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3MM8OkVT0hw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
