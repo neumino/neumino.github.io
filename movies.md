@@ -47,7 +47,7 @@ A look at the life of the astronaut, Neil Armstrong, and the legendary space mis
 	
 
 ### Goosebumps 2: Haunted Halloween
-*Released on 2018-10-11, vote average 6.2*
+*Released on 2018-10-11, vote average 6.3*
 
 Two boys face an onslaught from witches, monsters, ghouls and a talking dummy after they discover a mysterious book by author R. L. Stine.
 
@@ -67,16 +67,9 @@ Two boys face an onslaught from witches, monsters, ghouls and a talking dummy af
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Halloween
-*Released on 2018-10-18, vote average 5.9*
+*Released on 2018-10-18, vote average 6.3*
 
 Laurie Strode comes to her final confrontation with Michael Myers, the masked figure who has haunted her since she narrowly escaped his killing spree on Halloween night four decades ago.
 
@@ -95,10 +88,29 @@ Laurie Strode comes to her final confrontation with Michael Myers, the masked fi
 
 
 	
+	
+	
 
   
 
 
+	
+	
+
+### Kung Fu League
+*Released on 2018-10-19, vote average 1*
+
+Martial arts comedy following a group of kung fu legends banding together to take on the bad guys. The legends includes VINCENT ZHAO reprising his role as ‘Wong Fei Hung’ with DENNIS TO once again portraying ‘Wing Chun’ master ‘Ip Man’, DANNY CHAN KWOK KWAN as ‘Chen Zhen’ and ANDY ON as master ‘Huo Yuan Jia’.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8T5Uikfy3uI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -108,7 +120,7 @@ Laurie Strode comes to her final confrontation with Michael Myers, the masked fi
 	
 
 ### The Hate U Give
-*Released on 2018-10-19, vote average 9*
+*Released on 2018-10-19, vote average 8.9*
 
 Raised in a poverty-stricken slum, a 16-year-old girl named Starr now attends a suburban prep school. After she witnesses a police officer shoot her unarmed best friend, she&#39;s torn between her two very different worlds as she tries to speak her truth.
 
@@ -179,6 +191,35 @@ Stevie is a sweet 13-year-old about to explode. His mom is loving and attentive,
 
 
 	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Badhaai Ho
+*Released on 2018-10-19, vote average 8*
+
+A middle income Railway Ticket Collector lives in New Delhi with his spouse, two grown up children and his mother. News breaks out that his wife is pregnant which comes like a shock to the entire family. To top it they also have to deal with social embarrassment - friends, relatives, neighbors, everyone&#39;s gaze is now turned towards the Kaushik household. It is the elder son, Nakul, in particular wasn&#39;t really looking forward to this new addition to the family. What follows is a phase of resentment and emotional confusion for Nakul as he also goes through ups-and-downs in his relationship with his upper-class girlfriend, Renee. Torn between public embarrassment and love for his family, especially his mother, Nakul tries to come to terms with the idea of his parents&#39; active sex life and the idea of family itself.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/unAljCZMQYw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -198,13 +239,6 @@ Stevie is a sweet 13-year-old about to explode. His mom is loving and attentive,
   
 
 
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -216,6 +250,23 @@ Stevie is a sweet 13-year-old about to explode. His mom is loving and attentive,
 
 	
 
+	
+	
+
+### Bohemian Rhapsody
+*Released on 2018-10-24, vote average 10*
+
+Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock &#39;n&#39; roll band Queen in 1970. Hit songs become instant classics. When Mercury&#39;s increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6S9c5nnDd_s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
