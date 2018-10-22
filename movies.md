@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### First Man
-*Released on 2018-10-11, vote average 6.9*
+### Halloween
+*Released on 2018-10-18, vote average 6.4*
 
-A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.
+Laurie Strode comes to her final confrontation with Michael Myers, the masked figure who has haunted her since she narrowly escaped his killing spree on Halloween night four decades ago.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/O9Y7DTCn7Cc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ek1ePFp-nBI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -47,7 +47,7 @@ A look at the life of the astronaut, Neil Armstrong, and the legendary space mis
 	
 
 ### Goosebumps 2: Haunted Halloween
-*Released on 2018-10-11, vote average 6.3*
+*Released on 2018-10-11, vote average 6.1*
 
 Two boys face an onslaught from witches, monsters, ghouls and a talking dummy after they discover a mysterious book by author R. L. Stine.
 
@@ -68,16 +68,16 @@ Two boys face an onslaught from witches, monsters, ghouls and a talking dummy af
 	
 	
 
-### Halloween
-*Released on 2018-10-18, vote average 6.3*
+### First Man
+*Released on 2018-10-11, vote average 7.1*
 
-Laurie Strode comes to her final confrontation with Michael Myers, the masked figure who has haunted her since she narrowly escaped his killing spree on Halloween night four decades ago.
+A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ek1ePFp-nBI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/O9Y7DTCn7Cc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -89,16 +89,9 @@ Laurie Strode comes to her final confrontation with Michael Myers, the masked fi
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Kung Fu League
-*Released on 2018-10-19, vote average 1*
+*Released on 2018-10-19, vote average 3.5*
 
 Martial arts comedy following a group of kung fu legends banding together to take on the bad guys. The legends includes VINCENT ZHAO reprising his role as ‘Wong Fei Hung’ with DENNIS TO once again portraying ‘Wing Chun’ master ‘Ip Man’, DANNY CHAN KWOK KWAN as ‘Chen Zhen’ and ANDY ON as master ‘Huo Yuan Jia’.
 
@@ -118,9 +111,16 @@ Martial arts comedy following a group of kung fu legends banding together to tak
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### The Hate U Give
-*Released on 2018-10-19, vote average 8.9*
+*Released on 2018-10-19, vote average 8.6*
 
 Raised in a poverty-stricken slum, a 16-year-old girl named Starr now attends a suburban prep school. After she witnesses a police officer shoot her unarmed best friend, she&#39;s torn between her two very different worlds as she tries to speak her truth.
 
@@ -133,11 +133,6 @@ Raised in a poverty-stricken slum, a 16-year-old girl named Starr now attends a 
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -171,54 +166,57 @@ Stevie is a sweet 13-year-old about to explode. His mom is loving and attentive,
 
 
 	
-
-  
-
-
 	
 
-  
+### Hunter Killer
+*Released on 2018-10-19, vote average 5.5*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Badhaai Ho
-*Released on 2018-10-19, vote average 8*
-
-A middle income Railway Ticket Collector lives in New Delhi with his spouse, two grown up children and his mother. News breaks out that his wife is pregnant which comes like a shock to the entire family. To top it they also have to deal with social embarrassment - friends, relatives, neighbors, everyone&#39;s gaze is now turned towards the Kaushik household. It is the elder son, Nakul, in particular wasn&#39;t really looking forward to this new addition to the family. What follows is a phase of resentment and emotional confusion for Nakul as he also goes through ups-and-downs in his relationship with his upper-class girlfriend, Renee. Torn between public embarrassment and love for his family, especially his mother, Nakul tries to come to terms with the idea of his parents&#39; active sex life and the idea of family itself.
+An untested American submarine captain teams with U.S. Navy Seals to rescue the Russian president, who has been kidnapped by a rogue general.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/unAljCZMQYw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/mnP_z3qXDCQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -251,6 +249,16 @@ A middle income Railway Ticket Collector lives in New Delhi with his spouse, two
 	
 
 	
+
+	
+
+	
+
+	
+
+	
+
+	
 	
 
 ### Bohemian Rhapsody
@@ -274,15 +282,22 @@ Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guita
 	
 
 	
-
 	
 
-	
+### He&#39;s Out There
+*Released on 2018-10-25, vote average 5.6*
+
+On vacation at a remote lake house, a mother and her two young daughters must fight for survival after falling into a terrifying and bizarre nightmare conceived by a psychopath.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/piz_KhWmYU8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-	
-
 	
 
 	
