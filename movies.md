@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Halloween
-*Released on 2018-10-18, vote average 6.4*
+### First Man
+*Released on 2018-10-11, vote average 7.1*
 
-Laurie Strode comes to her final confrontation with Michael Myers, the masked figure who has haunted her since she narrowly escaped his killing spree on Halloween night four decades ago.
+A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ek1ePFp-nBI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/O9Y7DTCn7Cc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -47,7 +47,7 @@ Laurie Strode comes to her final confrontation with Michael Myers, the masked fi
 	
 
 ### Goosebumps 2: Haunted Halloween
-*Released on 2018-10-11, vote average 6.1*
+*Released on 2018-10-11, vote average 5.9*
 
 Two boys face an onslaught from witches, monsters, ghouls and a talking dummy after they discover a mysterious book by author R. L. Stine.
 
@@ -68,16 +68,16 @@ Two boys face an onslaught from witches, monsters, ghouls and a talking dummy af
 	
 	
 
-### First Man
-*Released on 2018-10-11, vote average 7.1*
+### Halloween
+*Released on 2018-10-18, vote average 6.4*
 
-A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.
+Laurie Strode comes to her final confrontation with Michael Myers, the masked figure who has haunted her since she narrowly escaped his killing spree on Halloween night four decades ago.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/O9Y7DTCn7Cc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ek1ePFp-nBI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -91,7 +91,7 @@ A look at the life of the astronaut, Neil Armstrong, and the legendary space mis
 	
 
 ### Kung Fu League
-*Released on 2018-10-19, vote average 3.5*
+*Released on 2018-10-19, vote average 6*
 
 Martial arts comedy following a group of kung fu legends banding together to take on the bad guys. The legends includes VINCENT ZHAO reprising his role as ‘Wong Fei Hung’ with DENNIS TO once again portraying ‘Wing Chun’ master ‘Ip Man’, DANNY CHAN KWOK KWAN as ‘Chen Zhen’ and ANDY ON as master ‘Huo Yuan Jia’.
 
@@ -119,16 +119,16 @@ Martial arts comedy following a group of kung fu legends banding together to tak
 	
 	
 
-### The Hate U Give
-*Released on 2018-10-19, vote average 8.6*
+### My Dinner With Hervé
+*Released on 2018-10-20, vote average 7.7*
 
-Raised in a poverty-stricken slum, a 16-year-old girl named Starr now attends a suburban prep school. After she witnesses a police officer shoot her unarmed best friend, she&#39;s torn between her two very different worlds as she tries to speak her truth.
+An unlikely friendship evolves over one wild night in LA between a struggling journalist and actor Hervé Villechaize, the world&#39;s most famous gun-tothing dwarf, resulting in life-changing consequences for both
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/3MM8OkVT0hw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/S2WfK1hsuRA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -141,16 +141,16 @@ Raised in a poverty-stricken slum, a 16-year-old girl named Starr now attends a 
 	
 	
 
-### Mid90s
-*Released on 2018-10-19, vote average 8*
+### Galveston
+*Released on 2018-10-10, vote average 5.8*
 
-Stevie is a sweet 13-year-old about to explode. His mom is loving and attentive, but a little too forthcoming about her romantic life. His big brother is a taciturn and violent bully. So Stevie searches his working-class Los Angeles suburb for somewhere to belong. He finds it at the Motor Avenue skate shop.
+After a violent encounter, Roy finds Rocky and sees something in her eyes that prompts a fateful decision. He takes her with him as he flees to Galveston, an action as ill-advised as it is inescapable.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/w9Rx6-GaSIE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/82UWW1bJdl0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -203,10 +203,14 @@ An untested American submarine captain teams with U.S. Navy Seals to rescue the 
 
 
 	
+	
+	
 
   
 
 
+	
+	
 	
 
   
@@ -247,18 +251,6 @@ An untested American submarine captain teams with U.S. Navy Seals to rescue the 
 
 
 	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
 	
 
 ### Bohemian Rhapsody
@@ -275,6 +267,32 @@ Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guita
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
@@ -301,19 +319,22 @@ On vacation at a remote lake house, a mother and her two young daughters must fi
 	
 
 	
-
 	
 
-	
+### Adam Sandler: 100% Fresh
+*Released on 2018-10-23, vote average 10*
+
+Adam Sandler takes his comical musical musings back out on the road, from comedy clubs to concert halls to one very unsuspecting subway station.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jBQr7th2KD4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-	
-
-	
-
-	
-
 	
 
 	
