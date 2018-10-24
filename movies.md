@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### First Man
-*Released on 2018-10-11, vote average 7.1*
+*Released on 2018-10-11, vote average 7.2*
 
 A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.
 
@@ -46,30 +46,8 @@ A look at the life of the astronaut, Neil Armstrong, and the legendary space mis
 	
 	
 
-### Goosebumps 2: Haunted Halloween
-*Released on 2018-10-11, vote average 5.9*
-
-Two boys face an onslaught from witches, monsters, ghouls and a talking dummy after they discover a mysterious book by author R. L. Stine.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nQeOzfm-lps?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Halloween
-*Released on 2018-10-18, vote average 6.4*
+*Released on 2018-10-18, vote average 6.5*
 
 Laurie Strode comes to her final confrontation with Michael Myers, the masked figure who has haunted her since she narrowly escaped his killing spree on Halloween night four decades ago.
 
@@ -90,8 +68,30 @@ Laurie Strode comes to her final confrontation with Michael Myers, the masked fi
 	
 	
 
+### Goosebumps 2: Haunted Halloween
+*Released on 2018-10-11, vote average 5.8*
+
+Two boys face an onslaught from witches, monsters, ghouls and a talking dummy after they discover a mysterious book by author R. L. Stine.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nQeOzfm-lps?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Kung Fu League
-*Released on 2018-10-19, vote average 6*
+*Released on 2018-10-19, vote average 5*
 
 Martial arts comedy following a group of kung fu legends banding together to take on the bad guys. The legends includes VINCENT ZHAO reprising his role as ‘Wong Fei Hung’ with DENNIS TO once again portraying ‘Wing Chun’ master ‘Ip Man’, DANNY CHAN KWOK KWAN as ‘Chen Zhen’ and ANDY ON as master ‘Huo Yuan Jia’.
 
@@ -120,7 +120,7 @@ Martial arts comedy following a group of kung fu legends banding together to tak
 	
 
 ### My Dinner With Hervé
-*Released on 2018-10-20, vote average 7.7*
+*Released on 2018-10-20, vote average 6.3*
 
 An unlikely friendship evolves over one wild night in LA between a struggling journalist and actor Hervé Villechaize, the world&#39;s most famous gun-tothing dwarf, resulting in life-changing consequences for both
 
@@ -142,7 +142,7 @@ An unlikely friendship evolves over one wild night in LA between a struggling jo
 	
 
 ### Galveston
-*Released on 2018-10-10, vote average 5.8*
+*Released on 2018-10-10, vote average 5.5*
 
 After a violent encounter, Roy finds Rocky and sees something in her eyes that prompts a fateful decision. He takes her with him as he flees to Galveston, an action as ill-advised as it is inescapable.
 
@@ -155,11 +155,6 @@ After a violent encounter, Roy finds Rocky and sees something in her eyes that p
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -188,73 +183,10 @@ An untested American submarine captain teams with U.S. Navy Seals to rescue the 
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-
-## Opening soon
-
-
-	
 	
 
 ### Bohemian Rhapsody
-*Released on 2018-10-24, vote average 10*
+*Released on 2018-10-24, vote average 7*
 
 Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock &#39;n&#39; roll band Queen in 1970. Hit songs become instant classics. When Mercury&#39;s increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.
 
@@ -269,28 +201,136 @@ Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guita
 	
 	
 
-	
+  
+
 
 	
 
-	
+  
+
 
 	
 
-	
+  
+
 
 	
 
-	
+  
+
 
 	
 
-	
+  
+
 
 	
 
+  
+
+
 	
 
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Hate U Give
+*Released on 2018-10-19, vote average 8.5*
+
+Raised in a poverty-stricken slum, a 16-year-old girl named Starr now attends a suburban prep school. After she witnesses a police officer shoot her unarmed best friend, she&#39;s torn between her two very different worlds as she tries to speak her truth.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/P-w598IUhV8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Scorpion King: Book of Souls
+*Released on 2018-10-23, vote average 7*
+
+The Scorpion King teams up with a female warrior named Tala, who is the sister of The Nubian King. Together they search for a legendary relic known as The Book of Souls, which will allow them to put an end to an evil warlord.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/anvnDpxWyJc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Fantastic Beasts: The Crimes of Grindelwald
+*Released on 2018-10-16, vote average 6*
+
+Gellert Grindelwald has escaped imprisonment and has begun gathering followers to his cause—elevating wizards above all non-magical beings. The only one capable of putting a stop to him is the wizard he once called his closest friend, Albus Dumbledore. However, Dumbledore will need to seek help from the wizard who had thwarted Grindelwald once before, his former student Newt Scamander.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5sEaYB4rLFQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+
+## Opening soon
+
+
+	
+	
+
+### Bohemian Rhapsody
+*Released on 2018-10-24, vote average 7*
+
+Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock &#39;n&#39; roll band Queen in 1970. Hit songs become instant classics. When Mercury&#39;s increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6S9c5nnDd_s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -319,22 +359,29 @@ On vacation at a remote lake house, a mother and her two young daughters must fi
 	
 
 	
-	
-
-### Adam Sandler: 100% Fresh
-*Released on 2018-10-23, vote average 10*
-
-Adam Sandler takes his comical musical musings back out on the road, from comedy clubs to concert halls to one very unsuspecting subway station.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jBQr7th2KD4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
