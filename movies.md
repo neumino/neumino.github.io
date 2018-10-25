@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### First Man
-*Released on 2018-10-11, vote average 7.2*
+### Halloween
+*Released on 2018-10-18, vote average 6.7*
 
-A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.
+Laurie Strode comes to her final confrontation with Michael Myers, the masked figure who has haunted her since she narrowly escaped his killing spree on Halloween night four decades ago.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/O9Y7DTCn7Cc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ek1ePFp-nBI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ A look at the life of the astronaut, Neil Armstrong, and the legendary space mis
 	
 	
 
-### Halloween
-*Released on 2018-10-18, vote average 6.5*
+### First Man
+*Released on 2018-10-11, vote average 7.3*
 
-Laurie Strode comes to her final confrontation with Michael Myers, the masked figure who has haunted her since she narrowly escaped his killing spree on Halloween night four decades ago.
+A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ek1ePFp-nBI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/O9Y7DTCn7Cc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -91,7 +91,7 @@ Two boys face an onslaught from witches, monsters, ghouls and a talking dummy af
 	
 
 ### Kung Fu League
-*Released on 2018-10-19, vote average 5*
+*Released on 2018-10-19, vote average 4.1*
 
 Martial arts comedy following a group of kung fu legends banding together to take on the bad guys. The legends includes VINCENT ZHAO reprising his role as ‘Wong Fei Hung’ with DENNIS TO once again portraying ‘Wing Chun’ master ‘Ip Man’, DANNY CHAN KWOK KWAN as ‘Chen Zhen’ and ANDY ON as master ‘Huo Yuan Jia’.
 
@@ -119,74 +119,8 @@ Martial arts comedy following a group of kung fu legends banding together to tak
 	
 	
 
-### My Dinner With Hervé
-*Released on 2018-10-20, vote average 6.3*
-
-An unlikely friendship evolves over one wild night in LA between a struggling journalist and actor Hervé Villechaize, the world&#39;s most famous gun-tothing dwarf, resulting in life-changing consequences for both
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/S2WfK1hsuRA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Galveston
-*Released on 2018-10-10, vote average 5.5*
-
-After a violent encounter, Roy finds Rocky and sees something in her eyes that prompts a fateful decision. He takes her with him as he flees to Galveston, an action as ill-advised as it is inescapable.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/82UWW1bJdl0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Hunter Killer
-*Released on 2018-10-19, vote average 5.5*
-
-An untested American submarine captain teams with U.S. Navy Seals to rescue the Russian president, who has been kidnapped by a rogue general.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/mnP_z3qXDCQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Bohemian Rhapsody
-*Released on 2018-10-24, vote average 7*
+*Released on 2018-10-24, vote average 8.1*
 
 Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock &#39;n&#39; roll band Queen in 1970. Hit songs become instant classics. When Mercury&#39;s increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.
 
@@ -205,53 +139,18 @@ Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guita
 
 
 	
-
-  
-
-
 	
 
-  
+### My Dinner With Hervé
+*Released on 2018-10-20, vote average 5.5*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Hate U Give
-*Released on 2018-10-19, vote average 8.5*
-
-Raised in a poverty-stricken slum, a 16-year-old girl named Starr now attends a suburban prep school. After she witnesses a police officer shoot her unarmed best friend, she&#39;s torn between her two very different worlds as she tries to speak her truth.
+An unlikely friendship evolves over one wild night in LA between a struggling journalist and actor Hervé Villechaize, the world&#39;s most famous gun-tothing dwarf, resulting in life-changing consequences for both
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/P-w598IUhV8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/S2WfK1hsuRA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -284,6 +183,43 @@ The Scorpion King teams up with a female warrior named Tala, who is the sister o
 
 
 	
+	
+
+### Hunter Killer
+*Released on 2018-10-19, vote average 5.5*
+
+An untested American submarine captain teams with U.S. Navy Seals to rescue the Russian president, who has been kidnapped by a rogue general.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mnP_z3qXDCQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 
   
 
@@ -291,20 +227,69 @@ The Scorpion King teams up with a female warrior named Tala, who is the sister o
 	
 	
 
-### Fantastic Beasts: The Crimes of Grindelwald
-*Released on 2018-10-16, vote average 6*
+### The Thinning: New World Order
+*Released on 2018-10-17, vote average 7.2*
 
-Gellert Grindelwald has escaped imprisonment and has begun gathering followers to his cause—elevating wizards above all non-magical beings. The only one capable of putting a stop to him is the wizard he once called his closest friend, Albus Dumbledore. However, Dumbledore will need to seek help from the wizard who had thwarted Grindelwald once before, his former student Newt Scamander.
+Blake Redding is trapped in this dark room wanting to protect his love so the only thing he will do is escape like no failed student has done before.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/5sEaYB4rLFQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/WOeHsQ7q3nw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### The Hate U Give
+*Released on 2018-10-19, vote average 8.5*
+
+Raised in a poverty-stricken slum, a 16-year-old girl named Starr now attends a suburban prep school. After she witnesses a police officer shoot her unarmed best friend, she&#39;s torn between her two very different worlds as she tries to speak her truth.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3MM8OkVT0hw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -315,35 +300,12 @@ Gellert Grindelwald has escaped imprisonment and has begun gathering followers t
 
 
 	
-	
-
-### Bohemian Rhapsody
-*Released on 2018-10-24, vote average 7*
-
-Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock &#39;n&#39; roll band Queen in 1970. Hit songs become instant classics. When Mercury&#39;s increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/6S9c5nnDd_s?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
 
 	
 	
 
 ### He&#39;s Out There
-*Released on 2018-10-25, vote average 5.6*
+*Released on 2018-10-25, vote average 4*
 
 On vacation at a remote lake house, a mother and her two young daughters must fight for survival after falling into a terrifying and bizarre nightmare conceived by a psychopath.
 
@@ -356,6 +318,12 @@ On vacation at a remote lake house, a mother and her two young daughters must fi
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
 	
 
 	
