@@ -46,50 +46,6 @@ Laurie Strode comes to her final confrontation with Michael Myers, the masked fi
 	
 	
 
-### First Man
-*Released on 2018-10-11, vote average 7.3*
-
-A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/O9Y7DTCn7Cc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Goosebumps 2: Haunted Halloween
-*Released on 2018-10-11, vote average 5.8*
-
-Two boys face an onslaught from witches, monsters, ghouls and a talking dummy after they discover a mysterious book by author R. L. Stine.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nQeOzfm-lps?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Kung Fu League
 *Released on 2018-10-19, vote average 4.1*
 
@@ -111,16 +67,9 @@ Martial arts comedy following a group of kung fu legends banding together to tak
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Bohemian Rhapsody
-*Released on 2018-10-24, vote average 8.1*
+*Released on 2018-10-24, vote average 8.3*
 
 Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock &#39;n&#39; roll band Queen in 1970. Hit songs become instant classics. When Mercury&#39;s increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.
 
@@ -140,21 +89,6 @@ Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guita
 
 	
 	
-
-### My Dinner With Hervé
-*Released on 2018-10-20, vote average 5.5*
-
-An unlikely friendship evolves over one wild night in LA between a struggling journalist and actor Hervé Villechaize, the world&#39;s most famous gun-tothing dwarf, resulting in life-changing consequences for both
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/S2WfK1hsuRA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -164,7 +98,7 @@ An unlikely friendship evolves over one wild night in LA between a struggling jo
 	
 
 ### The Scorpion King: Book of Souls
-*Released on 2018-10-23, vote average 7*
+*Released on 2018-10-23, vote average 6.3*
 
 The Scorpion King teams up with a female warrior named Tala, who is the sister of The Nubian King. Together they search for a legendary relic known as The Book of Souls, which will allow them to put an end to an evil warlord.
 
@@ -177,43 +111,6 @@ The Scorpion King teams up with a female warrior named Tala, who is the sister o
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### Hunter Killer
-*Released on 2018-10-19, vote average 5.5*
-
-An untested American submarine captain teams with U.S. Navy Seals to rescue the Russian president, who has been kidnapped by a rogue general.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/mnP_z3qXDCQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -248,17 +145,24 @@ Blake Redding is trapped in this dark room wanting to protect his love so the on
 
 	
 	
+	
 
-### The Hate U Give
-*Released on 2018-10-19, vote average 8.5*
+  
 
-Raised in a poverty-stricken slum, a 16-year-old girl named Starr now attends a suburban prep school. After she witnesses a police officer shoot her unarmed best friend, she&#39;s torn between her two very different worlds as she tries to speak her truth.
+
+	
+	
+
+### He&#39;s Out There
+*Released on 2018-10-25, vote average 4*
+
+On vacation at a remote lake house, a mother and her two young daughters must fight for survival after falling into a terrifying and bizarre nightmare conceived by a psychopath.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/3MM8OkVT0hw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/piz_KhWmYU8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -270,6 +174,85 @@ Raised in a poverty-stricken slum, a 16-year-old girl named Starr now attends a 
 
 	
 	
+
+### Adam Sandler: 100% Fresh
+*Released on 2018-10-23, vote average 9*
+
+Adam Sandler takes his comical musical musings back out on the road, from comedy clubs to concert halls to one very unsuspecting subway station.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jBQr7th2KD4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Hunter Killer
+*Released on 2018-10-19, vote average 2.5*
+
+An untested American submarine captain teams with U.S. Navy Seals to rescue the Russian president, who has been kidnapped by a rogue general.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mnP_z3qXDCQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### My Dinner With Hervé
+*Released on 2018-10-20, vote average 6.1*
+
+An unlikely friendship evolves over one wild night in LA between a struggling journalist and actor Hervé Villechaize, the world&#39;s most famous gun-tothing dwarf, resulting in life-changing consequences for both
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/S2WfK1hsuRA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -301,23 +284,6 @@ Raised in a poverty-stricken slum, a 16-year-old girl named Starr now attends a 
 
 	
 
-	
-	
-
-### He&#39;s Out There
-*Released on 2018-10-25, vote average 4*
-
-On vacation at a remote lake house, a mother and her two young daughters must fight for survival after falling into a terrifying and bizarre nightmare conceived by a psychopath.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/piz_KhWmYU8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
