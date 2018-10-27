@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Halloween
-*Released on 2018-10-18, vote average 6.7*
+*Released on 2018-10-18, vote average 6.8*
 
 Laurie Strode comes to her final confrontation with Michael Myers, the masked figure who has haunted her since she narrowly escaped his killing spree on Halloween night four decades ago.
 
@@ -68,35 +68,6 @@ Martial arts comedy following a group of kung fu legends banding together to tak
 	
 	
 
-### Bohemian Rhapsody
-*Released on 2018-10-24, vote average 8.3*
-
-Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock &#39;n&#39; roll band Queen in 1970. Hit songs become instant classics. When Mercury&#39;s increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/6S9c5nnDd_s?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
 ### The Scorpion King: Book of Souls
 *Released on 2018-10-23, vote average 6.3*
 
@@ -116,6 +87,45 @@ The Scorpion King teams up with a female warrior named Tala, who is the sister o
   
 
 
+	
+	
+
+### Bohemian Rhapsody
+*Released on 2018-10-24, vote average 8.4*
+
+Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock &#39;n&#39; roll band Queen in 1970. Hit songs become instant classics. When Mercury&#39;s increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6S9c5nnDd_s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Nutcracker and the Four Realms
+*Released on 2018-10-26, vote average 6*
+
+A young girl is transported into a magical world of gingerbread soldiers and an army of mice.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2ktuvx9hrMw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -151,10 +161,15 @@ Blake Redding is trapped in this dark room wanting to protect his love so the on
 
 
 	
+
+  
+
+
+	
 	
 
 ### He&#39;s Out There
-*Released on 2018-10-25, vote average 4*
+*Released on 2018-10-25, vote average 5.9*
 
 On vacation at a remote lake house, a mother and her two young daughters must fight for survival after falling into a terrifying and bizarre nightmare conceived by a psychopath.
 
@@ -167,6 +182,11 @@ On vacation at a remote lake house, a mother and her two young daughters must fi
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -195,69 +215,49 @@ Adam Sandler takes his comical musical musings back out on the road, from comedy
 
 
 	
+
+  
+
+
 	
 
-### Hunter Killer
-*Released on 2018-10-19, vote average 2.5*
+  
 
-An untested American submarine captain teams with U.S. Navy Seals to rescue the Russian president, who has been kidnapped by a rogue general.
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Fantastic Beasts: The Crimes of Grindelwald
+*Released on 2018-10-16, vote average 6*
+
+Gellert Grindelwald has escaped imprisonment and has begun gathering followers to his cause—elevating wizards above all non-magical beings. The only one capable of putting a stop to him is the wizard he once called his closest friend, Albus Dumbledore. However, Dumbledore will need to seek help from the wizard who had thwarted Grindelwald once before, his former student Newt Scamander.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/mnP_z3qXDCQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/5sEaYB4rLFQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### My Dinner With Hervé
-*Released on 2018-10-20, vote average 6.1*
-
-An unlikely friendship evolves over one wild night in LA between a struggling journalist and actor Hervé Villechaize, the world&#39;s most famous gun-tothing dwarf, resulting in life-changing consequences for both
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/S2WfK1hsuRA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
