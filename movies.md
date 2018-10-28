@@ -45,17 +45,24 @@ Laurie Strode comes to her final confrontation with Michael Myers, the masked fi
 
 	
 	
+	
 
-### Kung Fu League
-*Released on 2018-10-19, vote average 4.1*
+  
 
-Martial arts comedy following a group of kung fu legends banding together to take on the bad guys. The legends includes VINCENT ZHAO reprising his role as ‘Wong Fei Hung’ with DENNIS TO once again portraying ‘Wing Chun’ master ‘Ip Man’, DANNY CHAN KWOK KWAN as ‘Chen Zhen’ and ANDY ON as master ‘Huo Yuan Jia’.
+
+	
+	
+
+### The Thinning: New World Order
+*Released on 2018-10-17, vote average 7.5*
+
+Blake Redding is trapped in this dark room wanting to protect his love so the only thing he will do is escape like no failed student has done before.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/8T5Uikfy3uI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/WOeHsQ7q3nw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -69,7 +76,7 @@ Martial arts comedy following a group of kung fu legends banding together to tak
 	
 
 ### The Scorpion King: Book of Souls
-*Released on 2018-10-23, vote average 6.3*
+*Released on 2018-10-23, vote average 6.4*
 
 The Scorpion King teams up with a female warrior named Tala, who is the sister of The Nubian King. Together they search for a legendary relic known as The Book of Souls, which will allow them to put an end to an evil warlord.
 
@@ -91,7 +98,7 @@ The Scorpion King teams up with a female warrior named Tala, who is the sister o
 	
 
 ### Bohemian Rhapsody
-*Released on 2018-10-24, vote average 8.4*
+*Released on 2018-10-24, vote average 8.2*
 
 Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock &#39;n&#39; roll band Queen in 1970. Hit songs become instant classics. When Mercury&#39;s increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.
 
@@ -113,7 +120,7 @@ Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guita
 	
 
 ### The Nutcracker and the Four Realms
-*Released on 2018-10-26, vote average 6*
+*Released on 2018-10-26, vote average 6.7*
 
 A young girl is transported into a magical world of gingerbread soldiers and an army of mice.
 
@@ -132,18 +139,40 @@ A young girl is transported into a magical world of gingerbread soldiers and an 
 
 
 	
+
+  
+
+
 	
 
-### The Thinning: New World Order
-*Released on 2018-10-17, vote average 7.2*
+  
 
-Blake Redding is trapped in this dark room wanting to protect his love so the only thing he will do is escape like no failed student has done before.
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Girl in the Spider&#39;s Web
+*Released on 2018-10-26, vote average 4.5*
+
+Lisbeth Salander and Mikael Blomkvist find themselves caught in a web of spies, cyber-criminals and corrupt government officials - both in Sweden and in the United States - whom are only know as The Spider Society.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/WOeHsQ7q3nw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/XKMSP9OKspQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -154,7 +183,27 @@ Blake Redding is trapped in this dark room wanting to protect his love so the on
 
 
 	
+
+  
+
+
 	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -169,7 +218,7 @@ Blake Redding is trapped in this dark room wanting to protect his love so the on
 	
 
 ### He&#39;s Out There
-*Released on 2018-10-25, vote average 5.9*
+*Released on 2018-10-25, vote average 5.8*
 
 On vacation at a remote lake house, a mother and her two young daughters must fight for survival after falling into a terrifying and bizarre nightmare conceived by a psychopath.
 
@@ -182,87 +231,6 @@ On vacation at a remote lake house, a mother and her two young daughters must fi
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Adam Sandler: 100% Fresh
-*Released on 2018-10-23, vote average 9*
-
-Adam Sandler takes his comical musical musings back out on the road, from comedy clubs to concert halls to one very unsuspecting subway station.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jBQr7th2KD4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Fantastic Beasts: The Crimes of Grindelwald
-*Released on 2018-10-16, vote average 6*
-
-Gellert Grindelwald has escaped imprisonment and has begun gathering followers to his cause—elevating wizards above all non-magical beings. The only one capable of putting a stop to him is the wizard he once called his closest friend, Albus Dumbledore. However, Dumbledore will need to seek help from the wizard who had thwarted Grindelwald once before, his former student Newt Scamander.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/5sEaYB4rLFQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
