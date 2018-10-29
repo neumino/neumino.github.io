@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Halloween
-*Released on 2018-10-18, vote average 6.8*
+*Released on 2018-10-18, vote average 6.7*
 
 Laurie Strode comes to her final confrontation with Michael Myers, the masked figure who has haunted her since she narrowly escaped his killing spree on Halloween night four decades ago.
 
@@ -40,6 +40,28 @@ Laurie Strode comes to her final confrontation with Michael Myers, the masked fi
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+  
+
+
+	
+	
+
+### The Scorpion King: Book of Souls
+*Released on 2018-10-23, vote average 6.4*
+
+The Scorpion King teams up with a female warrior named Tala, who is the sister of The Nubian King. Together they search for a legendary relic known as The Book of Souls, which will allow them to put an end to an evil warlord.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/anvnDpxWyJc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
   
 
 
@@ -75,16 +97,16 @@ Blake Redding is trapped in this dark room wanting to protect his love so the on
 	
 	
 
-### The Scorpion King: Book of Souls
-*Released on 2018-10-23, vote average 6.4*
+### Air Strike
+*Released on 2018-10-26, vote average 3*
 
-The Scorpion King teams up with a female warrior named Tala, who is the sister of The Nubian King. Together they search for a legendary relic known as The Book of Souls, which will allow them to put an end to an evil warlord.
+An American pilot is sent to a Chinese province to teach a crew of would-be pilots how to fly war planes against the Japanese during World War II.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/anvnDpxWyJc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/BgIJfoo0n9Q?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -117,10 +139,15 @@ Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guita
 
 
 	
+
+  
+
+
+	
 	
 
 ### The Nutcracker and the Four Realms
-*Released on 2018-10-26, vote average 6.7*
+*Released on 2018-10-26, vote average 6*
 
 A young girl is transported into a magical world of gingerbread soldiers and an army of mice.
 
@@ -150,21 +177,9 @@ A young girl is transported into a magical world of gingerbread soldiers and an 
 
 	
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 
 ### The Girl in the Spider&#39;s Web
-*Released on 2018-10-26, vote average 4.5*
+*Released on 2018-10-26, vote average 4.8*
 
 Lisbeth Salander and Mikael Blomkvist find themselves caught in a web of spies, cyber-criminals and corrupt government officials - both in Sweden and in the United States - whom are only know as The Spider Society.
 
@@ -188,11 +203,6 @@ Lisbeth Salander and Mikael Blomkvist find themselves caught in a web of spies, 
 
 
 	
-
-  
-
-
-	
 	
 	
 
@@ -215,22 +225,10 @@ Lisbeth Salander and Mikael Blomkvist find themselves caught in a web of spies, 
 
 
 	
-	
 
-### He&#39;s Out There
-*Released on 2018-10-25, vote average 5.8*
+  
 
-On vacation at a remote lake house, a mother and her two young daughters must fight for survival after falling into a terrifying and bizarre nightmare conceived by a psychopath.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/piz_KhWmYU8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -266,6 +264,23 @@ On vacation at a remote lake house, a mother and her two young daughters must fi
 
 	
 
+	
+	
+
+### Boy Erased
+*Released on 2018-11-02, vote average 9*
+
+Jared, the son of a Baptist pastor in a small American town, is outed to his parents at age 19. Jared is faced with an ultimatum: attend a gay conversion therapy program – or be permanently exiled and shunned by his family, friends, and faith.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-B71eyB_Onw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
