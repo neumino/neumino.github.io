@@ -47,7 +47,7 @@ Laurie Strode comes to her final confrontation with Michael Myers, the masked fi
 	
 
 ### The Scorpion King: Book of Souls
-*Released on 2018-10-23, vote average 6.4*
+*Released on 2018-10-23, vote average 6*
 
 The Scorpion King teams up with a female warrior named Tala, who is the sister of The Nubian King. Together they search for a legendary relic known as The Book of Souls, which will allow them to put an end to an evil warlord.
 
@@ -76,7 +76,7 @@ The Scorpion King teams up with a female warrior named Tala, who is the sister o
 	
 
 ### The Thinning: New World Order
-*Released on 2018-10-17, vote average 7.5*
+*Released on 2018-10-17, vote average 7.6*
 
 Blake Redding is trapped in this dark room wanting to protect his love so the only thing he will do is escape like no failed student has done before.
 
@@ -97,30 +97,8 @@ Blake Redding is trapped in this dark room wanting to protect his love so the on
 	
 	
 
-### Air Strike
-*Released on 2018-10-26, vote average 3*
-
-An American pilot is sent to a Chinese province to teach a crew of would-be pilots how to fly war planes against the Japanese during World War II.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/BgIJfoo0n9Q?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Bohemian Rhapsody
-*Released on 2018-10-24, vote average 8.2*
+*Released on 2018-10-24, vote average 8.1*
 
 Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock &#39;n&#39; roll band Queen in 1970. Hit songs become instant classics. When Mercury&#39;s increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.
 
@@ -133,6 +111,33 @@ Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guita
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Christmas at Pemberley Manor
+*Released on 2018-10-27, vote average 7*
+
+As Christmas approaches, Elizabeth Bennett, a New York event planner, is sent to a quaint, small town to organize their holiday festival. When she arrives, she finds William Darcy, a high-profile billionaire lacking in holiday spirit, in the process of selling the charming estate she hoped to use as a venue. Determined to make her event a success, Elizabeth persuades the reluctant Darcy to let her hold the festival on the historical estate once known for its holiday cheer. When they wind up working together to arrange the festivities, the unlikely pair begins falling for each other. But when complications arise and the festival is unexpectedly shut down, the couple parts ways and Darcy moves forward with his plans to sell the estate. On the night before Christmas, a wistful Elizabeth hopes for a Christmas miracle to revive the festival, save the estate, and rekindle her holiday romance.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/U8-dWfwYM7M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -176,10 +181,20 @@ A young girl is transported into a magical world of gingerbread soldiers and an 
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### The Girl in the Spider&#39;s Web
-*Released on 2018-10-26, vote average 4.8*
+*Released on 2018-10-26, vote average 4.2*
 
 Lisbeth Salander and Mikael Blomkvist find themselves caught in a web of spies, cyber-criminals and corrupt government officials - both in Sweden and in the United States - whom are only know as The Spider Society.
 
@@ -198,27 +213,22 @@ Lisbeth Salander and Mikael Blomkvist find themselves caught in a web of spies, 
 
 
 	
-
-  
-
-
-	
-	
 	
 
-  
+### Possum
+*Released on 2018-10-26, vote average 8*
 
+A disgraced children’s puppeteer returns to his childhood home and is forced to confront his wicked stepfather and the secrets that have tortured him his entire life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/O5jaqmQyAJw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -230,6 +240,45 @@ Lisbeth Salander and Mikael Blomkvist find themselves caught in a web of spies, 
 
 
 	
+	
+
+### Killer Kate!
+*Released on 2018-10-26, vote average 5.5*
+
+Kate attends her estranged sister&#39;s bachelorette party at the request of their dying father. The weekend, held at a remote cabin booked on a home sharing app, turns into a savage life-or-death struggle that pits family against family, and past against present.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Ygwk9tnYp44?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Hunter Killer
+*Released on 2018-10-19, vote average 6.1*
+
+An untested American submarine captain teams with U.S. Navy Seals to rescue the Russian president, who has been kidnapped by a rogue general.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mnP_z3qXDCQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -239,6 +288,23 @@ Lisbeth Salander and Mikael Blomkvist find themselves caught in a web of spies, 
   
 
 
+	
+	
+
+### Downrange
+*Released on 2018-10-25, vote average 6*
+
+Stranded at the side of the road after a tire blowout, a group of friends become targets for an enigmatic sniper.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/WNh4yYXrbEg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -247,8 +313,6 @@ Lisbeth Salander and Mikael Blomkvist find themselves caught in a web of spies, 
 
 ## Opening soon
 
-
-	
 
 	
 
@@ -283,6 +347,25 @@ Jared, the son of a Baptist pastor in a small American town, is outed to his par
 	
 	
 
+	
+
+	
+	
+
+### Don&#39;t Open Your Eyes
+*Released on 2018-10-31, vote average 10*
+
+A home-care nurse takes a job, but as it proves to be his toughest yet; he is inadvertently pulled into something much more sinister.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/34agXhRYH3w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
