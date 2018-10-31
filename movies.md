@@ -47,7 +47,7 @@ Laurie Strode comes to her final confrontation with Michael Myers, the masked fi
 	
 
 ### The Scorpion King: Book of Souls
-*Released on 2018-10-23, vote average 6*
+*Released on 2018-10-23, vote average 5.7*
 
 The Scorpion King teams up with a female warrior named Tala, who is the sister of The Nubian King. Together they search for a legendary relic known as The Book of Souls, which will allow them to put an end to an evil warlord.
 
@@ -66,28 +66,6 @@ The Scorpion King teams up with a female warrior named Tala, who is the sister o
 
 
 	
-	
-	
-
-  
-
-
-	
-	
-
-### The Thinning: New World Order
-*Released on 2018-10-17, vote average 7.6*
-
-Blake Redding is trapped in this dark room wanting to protect his love so the only thing he will do is escape like no failed student has done before.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/WOeHsQ7q3nw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -119,8 +97,30 @@ Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guita
 	
 	
 
+### The Thinning: New World Order
+*Released on 2018-10-17, vote average 7.6*
+
+Blake Redding is trapped in this dark room wanting to protect his love so the only thing he will do is escape like no failed student has done before.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/WOeHsQ7q3nw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Christmas at Pemberley Manor
-*Released on 2018-10-27, vote average 7*
+*Released on 2018-10-27, vote average 6.5*
 
 As Christmas approaches, Elizabeth Bennett, a New York event planner, is sent to a quaint, small town to organize their holiday festival. When she arrives, she finds William Darcy, a high-profile billionaire lacking in holiday spirit, in the process of selling the charming estate she hoped to use as a venue. Determined to make her event a success, Elizabeth persuades the reluctant Darcy to let her hold the festival on the historical estate once known for its holiday cheer. When they wind up working together to arrange the festivities, the unlikely pair begins falling for each other. But when complications arise and the festival is unexpectedly shut down, the couple parts ways and Darcy moves forward with his plans to sell the estate. On the night before Christmas, a wistful Elizabeth hopes for a Christmas miracle to revive the festival, save the estate, and rekindle her holiday romance.
 
@@ -139,10 +139,66 @@ As Christmas approaches, Elizabeth Bennett, a New York event planner, is sent to
 
 
 	
+	
+
+### Hunter Killer
+*Released on 2018-10-19, vote average 6.1*
+
+An untested American submarine captain teams with U.S. Navy Seals to rescue the Russian president, who has been kidnapped by a rogue general.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mnP_z3qXDCQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
+	
+	
+
+### Possum
+*Released on 2018-10-26, vote average 8*
+
+A disgraced children’s puppeteer returns to his childhood home and is forced to confront his wicked stepfather and the secrets that have tortured him his entire life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/O5jaqmQyAJw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Don&#39;t Go
+*Released on 2018-10-26, vote average 10*
+
+Devastated by his daughter&#39;s death in a terrible accident, Ben becomes convinced that he can bring her back through a recurring dream. But is it just a dream? Or is Ben losing his mind?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FzzAZ6r5ZkU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -165,6 +221,21 @@ A young girl is transported into a magical world of gingerbread soldiers and an 
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -215,33 +286,6 @@ Lisbeth Salander and Mikael Blomkvist find themselves caught in a web of spies, 
 	
 	
 
-### Possum
-*Released on 2018-10-26, vote average 8*
-
-A disgraced children’s puppeteer returns to his childhood home and is forced to confront his wicked stepfather and the secrets that have tortured him his entire life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/O5jaqmQyAJw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### Killer Kate!
 *Released on 2018-10-26, vote average 5.5*
 
@@ -264,43 +308,16 @@ Kate attends her estranged sister&#39;s bachelorette party at the request of the
 	
 	
 
-### Hunter Killer
-*Released on 2018-10-19, vote average 6.1*
+### The Hate U Give
+*Released on 2018-10-19, vote average 8*
 
-An untested American submarine captain teams with U.S. Navy Seals to rescue the Russian president, who has been kidnapped by a rogue general.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/mnP_z3qXDCQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Downrange
-*Released on 2018-10-25, vote average 6*
-
-Stranded at the side of the road after a tire blowout, a group of friends become targets for an enigmatic sniper.
+Raised in a poverty-stricken slum, a 16-year-old girl named Starr now attends a suburban prep school. After she witnesses a police officer shoot her unarmed best friend, she&#39;s torn between her two very different worlds as she tries to speak her truth.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/WNh4yYXrbEg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/3MM8OkVT0hw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -313,14 +330,6 @@ Stranded at the side of the road after a tire blowout, a group of friends become
 
 ## Opening soon
 
-
-	
-
-	
-
-	
-
-	
 
 	
 
@@ -348,8 +357,6 @@ Jared, the son of a Baptist pastor in a small American town, is outed to his par
 	
 
 	
-
-	
 	
 
 ### Don&#39;t Open Your Eyes
@@ -366,6 +373,16 @@ A home-care nurse takes a job, but as it proves to be his toughest yet; he is in
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
