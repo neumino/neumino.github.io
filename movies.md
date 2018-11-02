@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Halloween
-*Released on 2018-10-18, vote average 6.7*
+### The Scorpion King: Book of Souls
+*Released on 2018-10-23, vote average 5.2*
 
-Laurie Strode comes to her final confrontation with Michael Myers, the masked figure who has haunted her since she narrowly escaped his killing spree on Halloween night four decades ago.
+The Scorpion King teams up with a female warrior named Tala, who is the sister of The Nubian King. Together they search for a legendary relic known as The Book of Souls, which will allow them to put an end to an evil warlord.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ek1ePFp-nBI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/anvnDpxWyJc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -53,30 +53,8 @@ Laurie Strode comes to her final confrontation with Michael Myers, the masked fi
 	
 	
 
-### The Scorpion King: Book of Souls
-*Released on 2018-10-23, vote average 5.1*
-
-The Scorpion King teams up with a female warrior named Tala, who is the sister of The Nubian King. Together they search for a legendary relic known as The Book of Souls, which will allow them to put an end to an evil warlord.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/anvnDpxWyJc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Bohemian Rhapsody
-*Released on 2018-10-24, vote average 8.4*
+*Released on 2018-10-24, vote average 8.6*
 
 Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock &#39;n&#39; roll band Queen in 1970. Hit songs become instant classics. When Mercury&#39;s increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.
 
@@ -117,10 +95,20 @@ An untested American submarine captain teams with U.S. Navy Seals to rescue the 
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### The Nutcracker and the Four Realms
-*Released on 2018-10-26, vote average 6.3*
+*Released on 2018-10-26, vote average 6.4*
 
 A young girl is transported into a magical world of gingerbread soldiers and an army of mice.
 
@@ -139,15 +127,7 @@ A young girl is transported into a magical world of gingerbread soldiers and an 
 
 
 	
-
-  
-
-
 	
-
-  
-
-
 	
 
   
@@ -176,6 +156,28 @@ A home-care nurse takes a job, but as it proves to be his toughest yet; he is in
 
 
 	
+	
+
+### Boy Erased
+*Released on 2018-11-02, vote average 9.5*
+
+Jared, the son of a Baptist pastor in a small American town, is outed to his parents at age 19. Jared is faced with an ultimatum: attend a gay conversion therapy program – or be permanently exiled and shunned by his family, friends, and faith.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-B71eyB_Onw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 
   
 
@@ -190,6 +192,8 @@ A home-care nurse takes a job, but as it proves to be his toughest yet; he is in
   
 
 
+	
+	
 	
 
   
@@ -230,14 +234,10 @@ A home-care nurse takes a job, but as it proves to be his toughest yet; he is in
 
 
 	
-
-	
-
-	
 	
 
 ### Boy Erased
-*Released on 2018-11-02, vote average 9*
+*Released on 2018-11-02, vote average 9.5*
 
 Jared, the son of a Baptist pastor in a small American town, is outed to his parents at age 19. Jared is faced with an ultimatum: attend a gay conversion therapy program – or be permanently exiled and shunned by his family, friends, and faith.
 
@@ -277,9 +277,28 @@ Jared, the son of a Baptist pastor in a small American town, is outed to his par
 	
 
 	
+
+	
+
+	
+
 	
 	
 
+### The Holiday Calendar
+*Released on 2018-11-02, vote average 7*
+
+A talented photographer stuck in a dead-end job inherits an antique Advent calendar that may be predicting the future -- and pointing her toward love.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/km7gv28_uX0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
