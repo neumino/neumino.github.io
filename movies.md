@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Bohemian Rhapsody
-*Released on 2018-10-24, vote average 8.6*
+*Released on 2018-10-24, vote average 8.5*
 
 Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock &#39;n&#39; roll band Queen in 1970. Hit songs become instant classics. When Mercury&#39;s increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.
 
@@ -46,8 +46,30 @@ Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guita
 	
 	
 
+### The Nutcracker and the Four Realms
+*Released on 2018-10-26, vote average 6.3*
+
+A young girl is transported into a magical world of gingerbread soldiers and an army of mice.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2ktuvx9hrMw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Scorpion King: Book of Souls
-*Released on 2018-10-23, vote average 5.2*
+*Released on 2018-10-23, vote average 5*
 
 The Scorpion King teams up with a female warrior named Tala, who is the sister of The Nubian King. Together they search for a legendary relic known as The Book of Souls, which will allow them to put an end to an evil warlord.
 
@@ -66,23 +88,18 @@ The Scorpion King teams up with a female warrior named Tala, who is the sister o
 
 
 	
-
-  
-
-
-	
 	
 
-### The Nutcracker and the Four Realms
-*Released on 2018-10-26, vote average 6.3*
+### The Other Side of the Wind
+*Released on 2018-11-02, vote average 7*
 
-A young girl is transported into a magical world of gingerbread soldiers and an army of mice.
+Surrounded by fans and skeptics, grizzled director J.J. &#34;Jake&#34; Hannaford returns from years abroad in Europe to a changed Hollywood, where he attempts to make his innovative comeback film.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/2ktuvx9hrMw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/nMWHBUTHmf0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -135,10 +152,22 @@ Jared, the son of a Baptist pastor in a small American town, is outed to his par
 
 
 	
+	
 
-  
+### The Holiday Calendar
+*Released on 2018-11-02, vote average 7.5*
 
+A talented photographer stuck in a dead-end job inherits an antique Advent calendar that may be predicting the future -- and pointing her toward love.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/km7gv28_uX0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -154,6 +183,13 @@ Jared, the son of a Baptist pastor in a small American town, is outed to his par
   
 
 
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -210,6 +246,8 @@ Jared, the son of a Baptist pastor in a small American town, is outed to his par
 	
 
 	
+	
+	
 
 	
 
@@ -225,8 +263,6 @@ Jared, the son of a Baptist pastor in a small American town, is outed to his par
 
 	
 
-	
-	
 	
 
 	
