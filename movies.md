@@ -68,6 +68,28 @@ A young girl is transported into a magical world of gingerbread soldiers and an 
 	
 	
 
+### The Other Side of the Wind
+*Released on 2018-11-02, vote average 7.5*
+
+Surrounded by fans and skeptics, grizzled director J.J. &#34;Jake&#34; Hannaford returns from years abroad in Europe to a changed Hollywood, where he attempts to make his innovative comeback film.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nMWHBUTHmf0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Scorpion King: Book of Souls
 *Released on 2018-10-23, vote average 5*
 
@@ -90,72 +112,8 @@ The Scorpion King teams up with a female warrior named Tala, who is the sister o
 	
 	
 
-### The Other Side of the Wind
-*Released on 2018-11-02, vote average 7*
-
-Surrounded by fans and skeptics, grizzled director J.J. &#34;Jake&#34; Hannaford returns from years abroad in Europe to a changed Hollywood, where he attempts to make his innovative comeback film.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nMWHBUTHmf0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Boy Erased
-*Released on 2018-11-02, vote average 9.5*
-
-Jared, the son of a Baptist pastor in a small American town, is outed to his parents at age 19. Jared is faced with an ultimatum: attend a gay conversion therapy program – or be permanently exiled and shunned by his family, friends, and faith.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-B71eyB_Onw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### The Holiday Calendar
-*Released on 2018-11-02, vote average 7.5*
+*Released on 2018-11-02, vote average 7.6*
 
 A talented photographer stuck in a dead-end job inherits an antique Advent calendar that may be predicting the future -- and pointing her toward love.
 
@@ -190,6 +148,63 @@ A talented photographer stuck in a dead-end job inherits an antique Advent calen
 
 	
 	
+
+### Boy Erased
+*Released on 2018-11-02, vote average 9.5*
+
+Jared, the son of a Baptist pastor in a small American town, is outed to his parents at age 19. Jared is faced with an ultimatum: attend a gay conversion therapy program – or be permanently exiled and shunned by his family, friends, and faith.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-B71eyB_Onw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Nobody&#39;s Fool
+*Released on 2018-11-02, vote average 5*
+
+A woman who gets released from prison and reunites with her sister, who discovers she is in an online relationship with a man that may be &#34;catfishing&#34; her.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MsFbMw9LO5M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -238,6 +253,8 @@ A talented photographer stuck in a dead-end job inherits an antique Advent calen
 	
 
 	
+	
+	
 
 	
 
@@ -245,8 +262,6 @@ A talented photographer stuck in a dead-end job inherits an antique Advent calen
 
 	
 
-	
-	
 	
 
 	
