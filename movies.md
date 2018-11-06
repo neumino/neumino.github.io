@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Bohemian Rhapsody
-*Released on 2018-10-24, vote average 8.5*
+*Released on 2018-10-24, vote average 8.4*
 
 Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock &#39;n&#39; roll band Queen in 1970. Hit songs become instant classics. When Mercury&#39;s increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.
 
@@ -68,28 +68,6 @@ A young girl is transported into a magical world of gingerbread soldiers and an 
 	
 	
 
-### The Other Side of the Wind
-*Released on 2018-11-02, vote average 7.5*
-
-Surrounded by fans and skeptics, grizzled director J.J. &#34;Jake&#34; Hannaford returns from years abroad in Europe to a changed Hollywood, where he attempts to make his innovative comeback film.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nMWHBUTHmf0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Scorpion King: Book of Souls
 *Released on 2018-10-23, vote average 5*
 
@@ -113,7 +91,7 @@ The Scorpion King teams up with a female warrior named Tala, who is the sister o
 	
 
 ### The Holiday Calendar
-*Released on 2018-11-02, vote average 7.6*
+*Released on 2018-11-02, vote average 7.2*
 
 A talented photographer stuck in a dead-end job inherits an antique Advent calendar that may be predicting the future -- and pointing her toward love.
 
@@ -132,10 +110,93 @@ A talented photographer stuck in a dead-end job inherits an antique Advent calen
 
 
 	
+	
+
+### The Other Side of the Wind
+*Released on 2018-11-02, vote average 6.3*
+
+Surrounded by fans and skeptics, grizzled director J.J. &#34;Jake&#34; Hannaford returns from years abroad in Europe to a changed Hollywood, where he attempts to make his innovative comeback film.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nMWHBUTHmf0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Monster Party
+*Released on 2018-11-02, vote average 3*
+
+Three teenage thieves infiltrate a mansion dinner party, unaware that it is secretly being hosted by a serial killer cult for the social elite.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3PpPPMIHAkc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -169,6 +230,8 @@ Jared, the son of a Baptist pastor in a small American town, is outed to his par
 
 
 	
+	
+	
 
   
 
@@ -200,51 +263,57 @@ A woman who gets released from prison and reunites with her sister, who discover
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
 
 	
+	
+
+### The Grinch
+*Released on 2018-11-08, vote average 2*
+
+The Grinch hatches a scheme to ruin Christmas when the residents of Whoville plan their annual holiday celebration.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2mNMvz85NG8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+	
+	
+
+	
+
+	
+
+	
+	
+
+### Kursk
+*Released on 2018-11-07, vote average 6*
+
+The story of the 2000 K-141 Kursk submarine disaster and the governmental negligence that followed. As the sailors fight for survival, their families desperately battle political obstacles and impossible odds to save them.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xExzwSc4_eQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
@@ -253,8 +322,6 @@ A woman who gets released from prison and reunites with her sister, who discover
 	
 
 	
-	
-	
 
 	
 
@@ -265,15 +332,7 @@ A woman who gets released from prison and reunites with her sister, who discover
 	
 
 	
-
 	
-
-	
-
-	
-
-	
-
 	
 
 	
