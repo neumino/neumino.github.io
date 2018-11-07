@@ -47,7 +47,7 @@ Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guita
 	
 
 ### The Nutcracker and the Four Realms
-*Released on 2018-10-26, vote average 6.3*
+*Released on 2018-10-26, vote average 6.2*
 
 A young girl is transported into a magical world of gingerbread soldiers and an army of mice.
 
@@ -56,28 +56,6 @@ A young girl is transported into a magical world of gingerbread soldiers and an 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/2ktuvx9hrMw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Scorpion King: Book of Souls
-*Released on 2018-10-23, vote average 5*
-
-The Scorpion King teams up with a female warrior named Tala, who is the sister of The Nubian King. Together they search for a legendary relic known as The Book of Souls, which will allow them to put an end to an evil warlord.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/anvnDpxWyJc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -113,7 +91,7 @@ A talented photographer stuck in a dead-end job inherits an antique Advent calen
 	
 
 ### The Other Side of the Wind
-*Released on 2018-11-02, vote average 6.3*
+*Released on 2018-11-02, vote average 6.7*
 
 Surrounded by fans and skeptics, grizzled director J.J. &#34;Jake&#34; Hannaford returns from years abroad in Europe to a changed Hollywood, where he attempts to make his innovative comeback film.
 
@@ -137,6 +115,57 @@ Surrounded by fans and skeptics, grizzled director J.J. &#34;Jake&#34; Hannaford
 
 
 	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Widows
+*Released on 2018-11-06, vote average 10*
+
+Set in contemporary Chicago, amidst a time of turmoil, four women with nothing in common except a debt left behind by their dead husbands&#39; criminal activities take fate into their own hands and conspire to forge a future on their own terms.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nN2yBBSRC78?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 
   
 
@@ -145,7 +174,7 @@ Surrounded by fans and skeptics, grizzled director J.J. &#34;Jake&#34; Hannaford
 	
 
 ### Monster Party
-*Released on 2018-11-02, vote average 3*
+*Released on 2018-11-02, vote average 4.5*
 
 Three teenage thieves infiltrate a mansion dinner party, unaware that it is secretly being hosted by a serial killer cult for the social elite.
 
@@ -165,61 +194,17 @@ Three teenage thieves infiltrate a mansion dinner party, unaware that it is secr
 
 	
 	
-	
 
-  
+### Kursk
+*Released on 2018-11-07, vote average 6*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Boy Erased
-*Released on 2018-11-02, vote average 9.5*
-
-Jared, the son of a Baptist pastor in a small American town, is outed to his parents at age 19. Jared is faced with an ultimatum: attend a gay conversion therapy program – or be permanently exiled and shunned by his family, friends, and faith.
+The story of the 2000 K-141 Kursk submarine disaster and the governmental negligence that followed. As the sailors fight for survival, their families desperately battle political obstacles and impossible odds to save them.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-B71eyB_Onw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xExzwSc4_eQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -238,21 +223,23 @@ Jared, the son of a Baptist pastor in a small American town, is outed to his par
 
 	
 	
+	
 
-### Nobody&#39;s Fool
-*Released on 2018-11-02, vote average 5*
+  
 
-A woman who gets released from prison and reunites with her sister, who discovers she is in an online relationship with a man that may be &#34;catfishing&#34; her.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MsFbMw9LO5M?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -268,10 +255,12 @@ A woman who gets released from prison and reunites with her sister, who discover
 
 
 	
+
+	
 	
 
 ### The Grinch
-*Released on 2018-11-08, vote average 2*
+*Released on 2018-11-08, vote average 6*
 
 The Grinch hatches a scheme to ruin Christmas when the residents of Whoville plan their annual holiday celebration.
 
@@ -287,11 +276,7 @@ The Grinch hatches a scheme to ruin Christmas when the residents of Whoville pla
 	
 
 	
-
 	
-	
-	
-
 	
 
 	
@@ -324,6 +309,10 @@ The story of the 2000 K-141 Kursk submarine disaster and the governmental neglig
 	
 
 	
+	
+	
+
+	
 
 	
 
@@ -332,9 +321,24 @@ The story of the 2000 K-141 Kursk submarine disaster and the governmental neglig
 	
 
 	
+
 	
 	
 
+### Jonathan
+*Released on 2018-11-08, vote average 9*
+
+Jonathan is a young man with a strange condition that only his brother understands.  But when he begins to yearn for a different life, their unique bond becomes increasingly tested.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/V17pEDh6VYw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
