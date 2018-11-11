@@ -10,6 +10,23 @@ This is a convenient page that embeds trailers of movies released in the past
 
 
 	
+	
+
+### Replicas
+*Released on 2018-11-01, vote average 5.7*
+
+A scientist becomes obsessed with bringing back his family members who died in a traffic accident.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hRwS1mXkmag?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 <br/>
@@ -30,7 +47,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Grinch
-*Released on 2018-11-08, vote average 6.1*
+*Released on 2018-11-08, vote average 5.9*
 
 The Grinch hatches a scheme to ruin Christmas when the residents of Whoville plan their annual holiday celebration.
 
@@ -39,50 +56,6 @@ The Grinch hatches a scheme to ruin Christmas when the residents of Whoville pla
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/2mNMvz85NG8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Thugs of Hindostan
-*Released on 2018-11-07, vote average 4*
-
-An adaptation of Philip Meadows Taylor&#39;s 1839 novel, Confessions of a Thug; during the early 19th century, Ameer Ali and his gang of thugs pose a serious challenge to the British Empire in India.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/PC8NkPaPvQ0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Kursk
-*Released on 2018-11-07, vote average 7.8*
-
-The story of the 2000 K-141 Kursk submarine disaster and the governmental negligence that followed. As the sailors fight for survival, their families desperately battle political obstacles and impossible odds to save them.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xExzwSc4_eQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -115,18 +88,28 @@ Long-term couple Owen and Hallie are breaking up—or maybe not?—and just as t
 
 
 	
+
+  
+
+
 	
 
-### Jonathan
-*Released on 2018-11-08, vote average 9*
+  
 
-Jonathan is a young man with a strange condition that only his brother understands.  But when he begins to yearn for a different life, their unique bond becomes increasingly tested.
+
+	
+	
+
+### Thugs of Hindostan
+*Released on 2018-11-07, vote average 5.3*
+
+After the British company’s officer Clive takes over the kingdom of Mirza, Princess Zafira and Khudabaksh aka Azaad form a band of rebel pirates who swear to defeat the English officer and win their freedom back. The British Company in return, hire the wily thug Firangi track Azaad’s gang and thwart his plans.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/V17pEDh6VYw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/PC8NkPaPvQ0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -137,10 +120,15 @@ Jonathan is a young man with a strange condition that only his brother understan
 
 
 	
+
+  
+
+
+	
 	
 
 ### Widows
-*Released on 2018-11-06, vote average 6.1*
+*Released on 2018-11-06, vote average 6.2*
 
 Set in contemporary Chicago, amidst a time of turmoil, four women with nothing in common except a debt left behind by their dead husbands&#39; criminal activities take fate into their own hands and conspire to forge a future on their own terms.
 
@@ -191,10 +179,22 @@ Set in contemporary Chicago, amidst a time of turmoil, four women with nothing i
 
 
 	
+	
 
-  
+### Jonathan
+*Released on 2018-11-08, vote average 9*
 
+Jonathan is a young man with a strange condition that only his brother understands.  But when he begins to yearn for a different life, their unique bond becomes increasingly tested.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/V17pEDh6VYw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -233,9 +233,9 @@ Set in contemporary Chicago, amidst a time of turmoil, four women with nothing i
 	
 
 ### Fantastic Beasts: The Crimes of Grindelwald
-*Released on 2018-11-14, vote average 7.8*
+*Released on 2018-11-14, vote average 7.2*
 
-Gellert Grindelwald has escaped imprisonment and has begun gathering followers to his cause—elevating wizards above all non-magical beings. The only one capable of putting a stop to him is the wizard he once called his closest friend, Albus Dumbledore. However, Dumbledore will need to seek help from the wizard who had thwarted Grindelwald once before, his former student Newt Scamander.
+Gellert Grindelwald has escaped imprisonment and has begun gathering followers to his cause—elevating wizards above all non-magical beings. The only one capable of putting a stop to him is the wizard he once called his closest friend, Albus Dumbledore. However, Dumbledore will need to seek help from the wizard who had thwarted Grindelwald once before, his former student Newt Scamander, who agrees to help, unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world.
 
 <iframe id="player"
 	type="text/html"
