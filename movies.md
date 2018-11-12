@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Replicas
-*Released on 2018-11-01, vote average 5.7*
+### The Grinch
+*Released on 2018-11-08, vote average 6.1*
 
-A scientist becomes obsessed with bringing back his family members who died in a traffic accident.
+The Grinch hatches a scheme to ruin Christmas when the residents of Whoville plan their annual holiday celebration.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/hRwS1mXkmag?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/2mNMvz85NG8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ A scientist becomes obsessed with bringing back his family members who died in a
 	
 	
 
-### The Grinch
-*Released on 2018-11-08, vote average 5.9*
+### Replicas
+*Released on 2018-11-01, vote average 5.7*
 
-The Grinch hatches a scheme to ruin Christmas when the residents of Whoville plan their annual holiday celebration.
+A scientist becomes obsessed with bringing back his family members who died in a traffic accident.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/2mNMvz85NG8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/hRwS1mXkmag?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -66,10 +66,20 @@ The Grinch hatches a scheme to ruin Christmas when the residents of Whoville pla
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### In a Relationship
-*Released on 2018-11-09, vote average 6*
+*Released on 2018-11-09, vote average 8*
 
 Long-term couple Owen and Hallie are breaking up—or maybe not?—and just as their relationship reaches a turning point, Matt and Willa embark on a romance of their own.
 
@@ -82,16 +92,6 @@ Long-term couple Owen and Hallie are breaking up—or maybe not?—and just as t
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -120,6 +120,82 @@ After the British company’s officer Clive takes over the kingdom of Mirza, Pri
 
 
 	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### A Man Called Ahok
+*Released on 2018-11-11, vote average 8*
+
+An indonesian biopic movie on the controversial former Jakarta governor Ahok.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KxkLF0SPpGo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -128,7 +204,7 @@ After the British company’s officer Clive takes over the kingdom of Mirza, Pri
 	
 
 ### Widows
-*Released on 2018-11-06, vote average 6.2*
+*Released on 2018-11-06, vote average 6.4*
 
 Set in contemporary Chicago, amidst a time of turmoil, four women with nothing in common except a debt left behind by their dead husbands&#39; criminal activities take fate into their own hands and conspire to forge a future on their own terms.
 
@@ -141,80 +217,6 @@ Set in contemporary Chicago, amidst a time of turmoil, four women with nothing i
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Jonathan
-*Released on 2018-11-08, vote average 9*
-
-Jonathan is a young man with a strange condition that only his brother understands.  But when he begins to yearn for a different life, their unique bond becomes increasingly tested.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/V17pEDh6VYw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
