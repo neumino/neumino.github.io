@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Fantastic Beasts: The Crimes of Grindelwald
-*Released on 2018-11-14, vote average 7.5*
+*Released on 2018-11-14, vote average 7.3*
 
 Gellert Grindelwald has escaped imprisonment and has begun gathering followers to his cause—elevating wizards above all non-magical beings. The only one capable of putting a stop to him is the wizard he once called his closest friend, Albus Dumbledore. However, Dumbledore will need to seek help from the wizard who had thwarted Grindelwald once before, his former student Newt Scamander, who agrees to help, unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world.
 
@@ -66,6 +66,28 @@ The Grinch hatches a scheme to ruin Christmas when the residents of Whoville pla
 
 
 	
+	
+
+### Coldplay: A Head Full of Dreams
+*Released on 2018-11-14, vote average 7.9*
+
+An in-depth and intimate portrait of Coldplay&#39;s spectacular rise from the backrooms of Camden pubs to selling out stadiums across the planet. At the heart of the story is the band&#39;s unshakeable brotherhood which has endured through many highs and lows.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Lhzu6bQxFo4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 
   
 
@@ -78,6 +100,23 @@ The Grinch hatches a scheme to ruin Christmas when the residents of Whoville pla
 
 
 	
+	
+
+### Welcome Home
+*Released on 2018-11-16, vote average 10*
+
+A couple try to repair their damaged union in an Italian vacation paradise. Then they discover the owner&#39;s intentions.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/DJyfgoZXoqM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -87,6 +126,33 @@ The Grinch hatches a scheme to ruin Christmas when the residents of Whoville pla
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Instant Family
+*Released on 2018-11-16, vote average 1*
+
+When Pete and Ellie decide to start a family, they stumble into the world of foster care adoption. They hope to take in one small child but when they meet three siblings, including a rebellious 15 year old girl, they find themselves speeding from zero to three kids overnight.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IUfZq3DUd3Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -101,7 +167,7 @@ The Grinch hatches a scheme to ruin Christmas when the residents of Whoville pla
 	
 
 ### Widows
-*Released on 2018-11-06, vote average 6.7*
+*Released on 2018-11-06, vote average 6.8*
 
 Set in contemporary Chicago, amidst a time of turmoil, four women with nothing in common except a debt left behind by their dead husbands&#39; criminal activities take fate into their own hands and conspire to forge a future on their own terms.
 
@@ -120,23 +186,6 @@ Set in contemporary Chicago, amidst a time of turmoil, four women with nothing i
 
 
 	
-	
-
-### Time Freak
-*Released on 2018-11-09, vote average 6.5*
-
-Stillman, a heartbroken physics student, builds a time machine when his girlfriend breaks up with him. Going back in time, he attempts to save their relationship by fixing every mistake he made—while dragging his best friend along in the process.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/TWQz0p550Do?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -171,38 +220,6 @@ Stillman, a heartbroken physics student, builds a time machine when his girlfrie
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### River Runs Red
-*Released on 2018-11-09, vote average 1*
-
-When the son of a successful judge is killed by two police officers and the system sets them free, a hardened veteran detective finds some incriminating files on the officers and the judge teams up with another mourning father to take the law into his own hands.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/H7MC3vJmeas?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -215,7 +232,41 @@ When the son of a successful judge is killed by two police officers and the syst
 	
 
 	
+	
 
+### Welcome Home
+*Released on 2018-11-16, vote average 10*
+
+A couple try to repair their damaged union in an Italian vacation paradise. Then they discover the owner&#39;s intentions.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/DJyfgoZXoqM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### Instant Family
+*Released on 2018-11-16, vote average 1*
+
+When Pete and Ellie decide to start a family, they stumble into the world of foster care adoption. They hope to take in one small child but when they meet three siblings, including a rebellious 15 year old girl, they find themselves speeding from zero to three kids overnight.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IUfZq3DUd3Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
