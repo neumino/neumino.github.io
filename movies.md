@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Fantastic Beasts: The Crimes of Grindelwald
-*Released on 2018-11-14, vote average 7.3*
+*Released on 2018-11-14, vote average 7.2*
 
 Gellert Grindelwald has escaped imprisonment and has begun gathering followers to his cause—elevating wizards above all non-magical beings. The only one capable of putting a stop to him is the wizard he once called his closest friend, Albus Dumbledore. However, Dumbledore will need to seek help from the wizard who had thwarted Grindelwald once before, his former student Newt Scamander, who agrees to help, unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world.
 
@@ -47,7 +47,7 @@ Gellert Grindelwald has escaped imprisonment and has begun gathering followers t
 	
 
 ### The Grinch
-*Released on 2018-11-08, vote average 6.6*
+*Released on 2018-11-08, vote average 6.5*
 
 The Grinch hatches a scheme to ruin Christmas when the residents of Whoville plan their annual holiday celebration.
 
@@ -68,52 +68,8 @@ The Grinch hatches a scheme to ruin Christmas when the residents of Whoville pla
 	
 	
 
-### The Clovehitch Killer
-*Released on 2018-11-16, vote average 5.6*
-
-A teenage boy begins to suspect that his wholesome, all-American dad is actually the serial killer terrorizing their small town.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/aJO3G17JqZ8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Instant Family
-*Released on 2018-11-16, vote average 6.2*
-
-When Pete and Ellie decide to start a family, they stumble into the world of foster care adoption. They hope to take in one small child but when they meet three siblings, including a rebellious 15 year old girl, they find themselves speeding from zero to three kids overnight.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IUfZq3DUd3Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Princess Switch
-*Released on 2018-11-16, vote average 7.6*
+*Released on 2018-11-16, vote average 7.4*
 
 When a down-to-earth Chicago baker and a soon-to-be princess discover they look like twins, they hatch a Christmastime plan to trade places.
 
@@ -134,8 +90,30 @@ When a down-to-earth Chicago baker and a soon-to-be princess discover they look 
 	
 	
 
+### Ralph Breaks the Internet
+*Released on 2018-11-20, vote average 8.5*
+
+Taking place six years following the events of the first film, the story will center on Ralph&#39;s adventures in the Internet data space when a Wi-Fi router gets plugged into the arcade as he must find a replacement part to fix Sugar Rush.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_BcYBFC6zfY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Time Freak
-*Released on 2018-11-09, vote average 7.8*
+*Released on 2018-11-09, vote average 7.9*
 
 Stillman, a heartbroken physics student, builds a time machine when his girlfriend breaks up with him. Going back in time, he attempts to save their relationship by fixing every mistake he made—while dragging his best friend along in the process.
 
@@ -155,6 +133,109 @@ Stillman, a heartbroken physics student, builds a time machine when his girlfrie
 
 	
 	
+
+### Creed II
+*Released on 2018-11-20, vote average 7.7*
+
+Follows Adonis Creed&#39;s life inside and outside of the ring as he deals with new found fame, issues with his family, and his continuing quest to become a champion.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/cPNVNqn4T9I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Clovehitch Killer
+*Released on 2018-11-16, vote average 6.3*
+
+A teenage boy begins to suspect that his wholesome, all-American dad is actually the serial killer terrorizing their small town.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/aJO3G17JqZ8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Ballad of Buster Scruggs
+*Released on 2018-11-09, vote average 7.4*
+
+Vignettes weaving together the stories of six individuals in the old West at the end of the Civil War. Following the tales of a sharp-shooting songster, a wannabe bank robber, two weary traveling performers, a lone gold prospector, a woman traveling the West to an uncertain future, and a motley crew of strangers undertaking a carriage ride.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_2PyxzSH1HM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Instant Family
+*Released on 2018-11-16, vote average 6.9*
+
+When Pete and Ellie decide to start a family, they stumble into the world of foster care adoption. They hope to take in one small child but when they meet three siblings, including a rebellious 15 year old girl, they find themselves speeding from zero to three kids overnight.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IUfZq3DUd3Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -183,110 +264,10 @@ Set in contemporary Chicago, amidst a time of turmoil, four women with nothing i
 
 
 	
-	
-
-### A Private War
-*Released on 2018-11-16, vote average 4*
-
-One of the most celebrated war correspondents of our time, Marie Colvin is an utterly fearless and rebellious spirit, driven to the frontlines of conflicts across the globe to give voice to the voiceless.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/88w-xtEzibY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
-	
-	
-
-### Green Book
-*Released on 2018-11-16, vote average 8.3*
-
-Tony Lip, a bouncer in 1962, is hired to drive pianist Don Shirley on a tour through the Deep South in the days when African Americans forced to find alternate accommodations and services due to segregation laws below the Mason-Dixon Line relied on a guide called The Negro Motorist Green Book.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/QkZxoko_HC0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Welcome Home
-*Released on 2018-11-16, vote average 5.3*
-
-A couple try to repair their damaged union in an Italian vacation paradise. Then they discover the owner&#39;s intentions.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/DJyfgoZXoqM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Ballad of Buster Scruggs
-*Released on 2018-11-09, vote average 7.5*
-
-Vignettes weaving together the stories of six individuals in the old West at the end of the Civil War. Following the tales of a sharp-shooting songster, a wannabe bank robber, two weary traveling performers, a lone gold prospector, a woman traveling the West to an uncertain future, and a motley crew of strangers undertaking a carriage ride.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/_2PyxzSH1HM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -320,7 +301,7 @@ Vignettes weaving together the stories of six individuals in the old West at the
 	
 
 ### Ralph Breaks the Internet
-*Released on 2018-11-20, vote average 9.5*
+*Released on 2018-11-20, vote average 8.5*
 
 Taking place six years following the events of the first film, the story will center on Ralph&#39;s adventures in the Internet data space when a Wi-Fi router gets plugged into the arcade as he must find a replacement part to fix Sugar Rush.
 
@@ -339,7 +320,7 @@ Taking place six years following the events of the first film, the story will ce
 	
 
 ### Creed II
-*Released on 2018-11-20, vote average 8.5*
+*Released on 2018-11-20, vote average 7.7*
 
 Follows Adonis Creed&#39;s life inside and outside of the ring as he deals with new found fame, issues with his family, and his continuing quest to become a champion.
 
@@ -359,13 +340,19 @@ Follows Adonis Creed&#39;s life inside and outside of the ring as he deals with 
 	
 
 	
-
+	
 	
 
 	
 
 	
 
+	
+	
+	
+
+	
+	
 	
 
 	
