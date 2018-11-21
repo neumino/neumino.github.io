@@ -47,7 +47,7 @@ Gellert Grindelwald has escaped imprisonment and has begun gathering followers t
 	
 
 ### The Grinch
-*Released on 2018-11-08, vote average 6.5*
+*Released on 2018-11-08, vote average 6.4*
 
 The Grinch hatches a scheme to ruin Christmas when the residents of Whoville plan their annual holiday celebration.
 
@@ -112,30 +112,8 @@ Taking place six years following the events of the first film, the story will ce
 	
 	
 
-### Time Freak
-*Released on 2018-11-09, vote average 7.9*
-
-Stillman, a heartbroken physics student, builds a time machine when his girlfriend breaks up with him. Going back in time, he attempts to save their relationship by fixing every mistake he made—while dragging his best friend along in the process.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/TWQz0p550Do?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Creed II
-*Released on 2018-11-20, vote average 7.7*
+*Released on 2018-11-20, vote average 7.4*
 
 Follows Adonis Creed&#39;s life inside and outside of the ring as he deals with new found fame, issues with his family, and his continuing quest to become a champion.
 
@@ -144,28 +122,6 @@ Follows Adonis Creed&#39;s life inside and outside of the ring as he deals with 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/cPNVNqn4T9I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Clovehitch Killer
-*Released on 2018-11-16, vote average 6.3*
-
-A teenage boy begins to suspect that his wholesome, all-American dad is actually the serial killer terrorizing their small town.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/aJO3G17JqZ8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -200,16 +156,43 @@ Vignettes weaving together the stories of six individuals in the old West at the
 	
 	
 
-### Instant Family
-*Released on 2018-11-16, vote average 6.9*
+### Time Freak
+*Released on 2018-11-09, vote average 7.9*
 
-When Pete and Ellie decide to start a family, they stumble into the world of foster care adoption. They hope to take in one small child but when they meet three siblings, including a rebellious 15 year old girl, they find themselves speeding from zero to three kids overnight.
+Stillman, a heartbroken physics student, builds a time machine when his girlfriend breaks up with him. Going back in time, he attempts to save their relationship by fixing every mistake he made—while dragging his best friend along in the process.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/IUfZq3DUd3Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/TWQz0p550Do?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Clovehitch Killer
+*Released on 2018-11-16, vote average 6.3*
+
+A teenage boy begins to suspect that his wholesome, all-American dad is actually the serial killer terrorizing their small town.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/aJO3G17JqZ8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -237,6 +220,23 @@ When Pete and Ellie decide to start a family, they stumble into the world of fos
 
 
 	
+	
+
+### Jonathan
+*Released on 2018-11-08, vote average 6.2*
+
+Jonathan is a young man with a strange condition that only his brother understands.  But when he begins to yearn for a different life, their unique bond becomes increasingly tested.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/rtJxvqQa4kc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -244,16 +244,16 @@ When Pete and Ellie decide to start a family, they stumble into the world of fos
 	
 	
 
-### Widows
-*Released on 2018-11-06, vote average 6.4*
+### Instant Family
+*Released on 2018-11-16, vote average 6.9*
 
-Set in contemporary Chicago, amidst a time of turmoil, four women with nothing in common except a debt left behind by their dead husbands&#39; criminal activities take fate into their own hands and conspire to forge a future on their own terms.
+When Pete and Ellie decide to start a family, they stumble into the world of foster care adoption. They hope to take in one small child but when they meet three siblings, including a rebellious 15 year old girl, they find themselves speeding from zero to three kids overnight.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/nN2yBBSRC78?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/IUfZq3DUd3Y?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -298,67 +298,48 @@ Set in contemporary Chicago, amidst a time of turmoil, four women with nothing i
 
 
 	
+
+	
+	
 	
 
-### Ralph Breaks the Internet
-*Released on 2018-11-20, vote average 8.5*
+	
+	
+	
 
-Taking place six years following the events of the first film, the story will center on Ralph&#39;s adventures in the Internet data space when a Wi-Fi router gets plugged into the arcade as he must find a replacement part to fix Sugar Rush.
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### The Christmas Chronicles
+*Released on 2018-11-22, vote average 9*
+
+Siblings Kate and Teddy try to prove Santa Claus is real, but when they accidentally cause his sleigh to crash, they have to save Christmas.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/_BcYBFC6zfY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/V0xv99h17QE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-	
-	
-
-### Creed II
-*Released on 2018-11-20, vote average 7.7*
-
-Follows Adonis Creed&#39;s life inside and outside of the ring as he deals with new found fame, issues with his family, and his continuing quest to become a champion.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cPNVNqn4T9I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
-	
-	
-
-	
-
-	
-
-	
-	
-	
-
-	
-	
-	
-
-	
-
-	
-
 	
 
 	
