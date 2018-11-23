@@ -46,30 +46,8 @@ Gellert Grindelwald has escaped imprisonment and has begun gathering followers t
 	
 	
 
-### The Grinch
-*Released on 2018-11-08, vote average 6.3*
-
-The Grinch hatches a scheme to ruin Christmas when the residents of Whoville plan their annual holiday celebration.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2mNMvz85NG8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Princess Switch
-*Released on 2018-11-16, vote average 7.4*
+*Released on 2018-11-16, vote average 7.3*
 
 When a down-to-earth Chicago baker and a soon-to-be princess discover they look like twins, they hatch a Christmastime plan to trade places.
 
@@ -91,7 +69,7 @@ When a down-to-earth Chicago baker and a soon-to-be princess discover they look 
 	
 
 ### Ralph Breaks the Internet
-*Released on 2018-11-20, vote average 8.4*
+*Released on 2018-11-20, vote average 8.6*
 
 Taking place six years following the events of the first film, the story will center on Ralph&#39;s adventures in the Internet data space when a Wi-Fi router gets plugged into the arcade as he must find a replacement part to fix Sugar Rush.
 
@@ -135,7 +113,7 @@ Vignettes weaving together the stories of six individuals in the old West at the
 	
 
 ### Creed II
-*Released on 2018-11-20, vote average 7.5*
+*Released on 2018-11-20, vote average 6.9*
 
 Follows Adonis Creed&#39;s life inside and outside of the ring as he deals with new found fame, issues with his family, and his continuing quest to become a champion.
 
@@ -181,10 +159,37 @@ Stillman, a heartbroken physics student, builds a time machine when his girlfrie
 
 
 	
+
+  
+
+
+	
+	
+
+### The Christmas Chronicles
+*Released on 2018-11-22, vote average 6.8*
+
+Siblings Kate and Teddy try to prove Santa Claus is real, but when they accidentally cause his sleigh to crash, they have to save Christmas.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/V0xv99h17QE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 
 ### The Clovehitch Killer
-*Released on 2018-11-16, vote average 6.3*
+*Released on 2018-11-16, vote average 6.5*
 
 A teenage boy begins to suspect that his wholesome, all-American dad is actually the serial killer terrorizing their small town.
 
@@ -206,7 +211,7 @@ A teenage boy begins to suspect that his wholesome, all-American dad is actually
 	
 
 ### Trevor Noah: Son of Patricia
-*Released on 2018-11-20, vote average 7.4*
+*Released on 2018-11-20, vote average 7.1*
 
 Trevor Noah gets out from behind the &#34;Daily Show&#34; desk and takes the stage for a stand-up special that touches on racism, immigration, camping and more.
 
@@ -225,62 +230,6 @@ Trevor Noah gets out from behind the &#34;Daily Show&#34; desk and takes the sta
 
 
 	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Jonathan
-*Released on 2018-11-08, vote average 6.6*
-
-Jonathan is a young man with a strange condition that only his brother understands.  But when he begins to yearn for a different life, their unique bond becomes increasingly tested.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rtJxvqQa4kc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Instant Family
-*Released on 2018-11-16, vote average 6.9*
-
-When Pete and Ellie decide to start a family, they stumble into the world of foster care adoption. They hope to take in one small child but when they meet three siblings, including a rebellious 15 year old girl, they find themselves speeding from zero to three kids overnight.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IUfZq3DUd3Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -303,47 +252,6 @@ When Pete and Ellie decide to start a family, they stumble into the world of fos
 
   
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-
-## Opening soon
-
-
-	
-	
-
-### The Christmas Chronicles
-*Released on 2018-11-22, vote average 5*
-
-Siblings Kate and Teddy try to prove Santa Claus is real, but when they accidentally cause his sleigh to crash, they have to save Christmas.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/V0xv99h17QE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-	
-	
-
-	
 
 	
 	
@@ -364,8 +272,66 @@ Maya, a 40-year-old woman struggling with frustrations from unfulfilled dreams. 
 	
 	
 
+  
+
+
 	
 
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+
+## Opening soon
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Postcards from London
+*Released on 2018-11-23, vote average 6*
+
+&#39;Postcards From London&#39; tells the story of beautiful teenager Jim who, having travelled from rural Essex, finds himself in Soho where he falls in with a gang of unusual high class male escorts – The Raconteurs – who specialise in post-coital conversation. From shy novice to sought after escort, and eventually artist’s muse, Jim would be the toast of the town if it wasn’t for his annoying affliction – Stendhal Syndrome – a rare condition which causes him to hallucinate and faint. When Jim is roped into the world of detecting art forgery, could his condition bring about his downfall?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xEZI4jJvwb0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
