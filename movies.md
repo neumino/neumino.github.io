@@ -46,28 +46,6 @@ Gellert Grindelwald has escaped imprisonment and has begun gathering followers t
 	
 	
 
-### The Princess Switch
-*Released on 2018-11-16, vote average 7.3*
-
-When a down-to-earth Chicago baker and a soon-to-be princess discover they look like twins, they hatch a Christmastime plan to trade places.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-WBhj57fHeI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Ralph Breaks the Internet
 *Released on 2018-11-20, vote average 8.6*
 
@@ -90,16 +68,16 @@ Taking place six years following the events of the first film, the story will ce
 	
 	
 
-### The Ballad of Buster Scruggs
-*Released on 2018-11-09, vote average 7.4*
+### The Princess Switch
+*Released on 2018-11-16, vote average 7.4*
 
-Vignettes weaving together the stories of six individuals in the old West at the end of the Civil War. Following the tales of a sharp-shooting songster, a wannabe bank robber, two weary traveling performers, a lone gold prospector, a woman traveling the West to an uncertain future, and a motley crew of strangers undertaking a carriage ride.
+When a down-to-earth Chicago baker and a soon-to-be princess discover they look like twins, they hatch a Christmastime plan to trade places.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/_2PyxzSH1HM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-WBhj57fHeI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -113,7 +91,7 @@ Vignettes weaving together the stories of six individuals in the old West at the
 	
 
 ### Creed II
-*Released on 2018-11-20, vote average 6.9*
+*Released on 2018-11-20, vote average 6.8*
 
 Follows Adonis Creed&#39;s life inside and outside of the ring as he deals with new found fame, issues with his family, and his continuing quest to become a champion.
 
@@ -134,40 +112,8 @@ Follows Adonis Creed&#39;s life inside and outside of the ring as he deals with 
 	
 	
 
-### Time Freak
-*Released on 2018-11-09, vote average 7.9*
-
-Stillman, a heartbroken physics student, builds a time machine when his girlfriend breaks up with him. Going back in time, he attempts to save their relationship by fixing every mistake he made—while dragging his best friend along in the process.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/TWQz0p550Do?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### The Christmas Chronicles
-*Released on 2018-11-22, vote average 6.8*
+*Released on 2018-11-22, vote average 6.1*
 
 Siblings Kate and Teddy try to prove Santa Claus is real, but when they accidentally cause his sleigh to crash, they have to save Christmas.
 
@@ -180,74 +126,6 @@ Siblings Kate and Teddy try to prove Santa Claus is real, but when they accident
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### The Clovehitch Killer
-*Released on 2018-11-16, vote average 6.5*
-
-A teenage boy begins to suspect that his wholesome, all-American dad is actually the serial killer terrorizing their small town.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/aJO3G17JqZ8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Trevor Noah: Son of Patricia
-*Released on 2018-11-20, vote average 7.1*
-
-Trevor Noah gets out from behind the &#34;Daily Show&#34; desk and takes the stage for a stand-up special that touches on racism, immigration, camping and more.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/m6fseZL2uwM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 	
 
   
@@ -276,6 +154,20 @@ Maya, a 40-year-old woman struggling with frustrations from unfulfilled dreams. 
 
 
 	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
 
   
 
@@ -286,7 +178,35 @@ Maya, a 40-year-old woman struggling with frustrations from unfulfilled dreams. 
 
 
 	
+
+  
+
+
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -294,6 +214,31 @@ Maya, a 40-year-old woman struggling with frustrations from unfulfilled dreams. 
 
 	
 	
+
+### The Clovehitch Killer
+*Released on 2018-11-16, vote average 6.5*
+
+A teenage boy begins to suspect that his wholesome, all-American dad is actually the serial killer terrorizing their small town.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/aJO3G17JqZ8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -315,23 +260,6 @@ Maya, a 40-year-old woman struggling with frustrations from unfulfilled dreams. 
 
 	
 
-	
-	
-
-### Postcards from London
-*Released on 2018-11-23, vote average 6*
-
-&#39;Postcards From London&#39; tells the story of beautiful teenager Jim who, having travelled from rural Essex, finds himself in Soho where he falls in with a gang of unusual high class male escorts – The Raconteurs – who specialise in post-coital conversation. From shy novice to sought after escort, and eventually artist’s muse, Jim would be the toast of the town if it wasn’t for his annoying affliction – Stendhal Syndrome – a rare condition which causes him to hallucinate and faint. When Jim is roped into the world of detecting art forgery, could his condition bring about his downfall?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xEZI4jJvwb0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
