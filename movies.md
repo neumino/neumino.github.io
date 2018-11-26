@@ -47,7 +47,7 @@ Gellert Grindelwald has escaped imprisonment and has begun gathering followers t
 	
 
 ### Ralph Breaks the Internet
-*Released on 2018-11-20, vote average 7.9*
+*Released on 2018-11-20, vote average 7.6*
 
 Taking place six years following the events of the first film, the story will center on Ralph&#39;s adventures in the Internet data space when a Wi-Fi router gets plugged into the arcade as he must find a replacement part to fix Sugar Rush.
 
@@ -69,7 +69,7 @@ Taking place six years following the events of the first film, the story will ce
 	
 
 ### The Christmas Chronicles
-*Released on 2018-11-22, vote average 7.2*
+*Released on 2018-11-22, vote average 7.5*
 
 Siblings Kate and Teddy try to prove Santa Claus is real, but when they accidentally cause his sleigh to crash, they have to save Christmas.
 
@@ -78,28 +78,6 @@ Siblings Kate and Teddy try to prove Santa Claus is real, but when they accident
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/V0xv99h17QE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Creed II
-*Released on 2018-11-20, vote average 7.3*
-
-Follows Adonis Creed&#39;s life inside and outside of the ring as he deals with new found fame, issues with his family, and his continuing quest to become a champion.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cPNVNqn4T9I?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -132,55 +110,18 @@ When a down-to-earth Chicago baker and a soon-to-be princess discover they look 
 
 
 	
-
-  
-
-
-	
-	
 	
 
-  
+### Creed II
+*Released on 2018-11-20, vote average 7.4*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Postcards from London
-*Released on 2018-11-23, vote average 6*
-
-&#39;Postcards From London&#39; tells the story of beautiful teenager Jim who, having travelled from rural Essex, finds himself in Soho where he falls in with a gang of unusual high class male escorts – The Raconteurs – who specialise in post-coital conversation. From shy novice to sought after escort, and eventually artist’s muse, Jim would be the toast of the town if it wasn’t for his annoying affliction – Stendhal Syndrome – a rare condition which causes him to hallucinate and faint. When Jim is roped into the world of detecting art forgery, could his condition bring about his downfall?
+Follows Adonis Creed&#39;s life inside and outside of the ring as he deals with new found fame, issues with his family, and his continuing quest to become a champion.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xEZI4jJvwb0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/cPNVNqn4T9I?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -191,6 +132,18 @@ When a down-to-earth Chicago baker and a soon-to-be princess discover they look 
 
 
 	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 
   
 
@@ -210,6 +163,55 @@ When a down-to-earth Chicago baker and a soon-to-be princess discover they look 
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Pride, Prejudice and Mistletoe
+*Released on 2018-11-23, vote average 6.3*
+
+Darcy has always worked hard to prove herself and be successful on her own terms, even choosing to start her own company, rather than work with her father. Returning to her hometown for Christmas, Darcy reconnects with an old rival, restaurant owner Luke, and they are forced to plan a charity event together. As Darcy spends time with her family and Luke, she starts to realize what matters most in life and sets out to mend her relationship with her father, and possibly fall in love.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/NuHmkQXFRDQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
