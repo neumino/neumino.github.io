@@ -47,7 +47,7 @@ Gellert Grindelwald has escaped imprisonment and has begun gathering followers t
 	
 
 ### Ralph Breaks the Internet
-*Released on 2018-11-20, vote average 7.6*
+*Released on 2018-11-20, vote average 7.4*
 
 Taking place six years following the events of the first film, the story will center on Ralph&#39;s adventures in the Internet data space when a Wi-Fi router gets plugged into the arcade as he must find a replacement part to fix Sugar Rush.
 
@@ -133,81 +133,17 @@ Follows Adonis Creed&#39;s life inside and outside of the ring as he deals with 
 
 	
 	
-	
 
-  
+### Christmas Harmony
+*Released on 2018-11-24, vote average 6*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Pride, Prejudice and Mistletoe
-*Released on 2018-11-23, vote average 6.3*
-
-Darcy has always worked hard to prove herself and be successful on her own terms, even choosing to start her own company, rather than work with her father. Returning to her hometown for Christmas, Darcy reconnects with an old rival, restaurant owner Luke, and they are forced to plan a charity event together. As Darcy spends time with her family and Luke, she starts to realize what matters most in life and sets out to mend her relationship with her father, and possibly fall in love.
+A young woman returns to her small hometown to rediscover music, family bonds, and the magic of the Christmas season.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/NuHmkQXFRDQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/PMqn7KmxHAI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -217,6 +153,102 @@ Darcy has always worked hard to prove herself and be successful on her own terms
   
 
 
+	
+	
+
+### Jingle Belle
+*Released on 2018-11-25, vote average 10*
+
+Every year, Isabelle (Tatyana Ali) and her high school sweetheart Mike (Cornelius Smith Jr.), rocked their small town’s annual Christmas Eve Pageant with a sweet Christmas duet. But after graduation, Isabelle left to study at Juillard in New York – leaving Mike behind. Years later, when Isabelle returns to her hometown to write music for the annual Christmas Eve Pageant, she is shocked to learn that Mike is the one directing the show. Can Isabelle and Mike put the past behind them and reunite on stage for another show-stopping duet?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/WSFo69kZld8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Clovehitch Killer
+*Released on 2018-11-16, vote average 6.8*
+
+A teenage boy begins to suspect that his wholesome, all-American dad is actually the serial killer terrorizing their small town.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/aJO3G17JqZ8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -246,7 +278,7 @@ Darcy has always worked hard to prove herself and be successful on her own terms
 	
 
 	
-
+	
 	
 
 	
@@ -255,6 +287,10 @@ Darcy has always worked hard to prove herself and be successful on her own terms
 
 	
 
+	
+
+	
+	
 	
 
 	
