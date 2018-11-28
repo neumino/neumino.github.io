@@ -47,7 +47,7 @@ Gellert Grindelwald has escaped imprisonment and has begun gathering followers t
 	
 
 ### Ralph Breaks the Internet
-*Released on 2018-11-20, vote average 7.4*
+*Released on 2018-11-20, vote average 7.6*
 
 Taking place six years following the events of the first film, the story will center on Ralph&#39;s adventures in the Internet data space when a Wi-Fi router gets plugged into the arcade as he must find a replacement part to fix Sugar Rush.
 
@@ -69,7 +69,7 @@ Taking place six years following the events of the first film, the story will ce
 	
 
 ### The Christmas Chronicles
-*Released on 2018-11-22, vote average 7.5*
+*Released on 2018-11-22, vote average 7.3*
 
 Siblings Kate and Teddy try to prove Santa Claus is real, but when they accidentally cause his sleigh to crash, they have to save Christmas.
 
@@ -90,30 +90,8 @@ Siblings Kate and Teddy try to prove Santa Claus is real, but when they accident
 	
 	
 
-### The Princess Switch
-*Released on 2018-11-16, vote average 7.4*
-
-When a down-to-earth Chicago baker and a soon-to-be princess discover they look like twins, they hatch a Christmastime plan to trade places.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-WBhj57fHeI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Creed II
-*Released on 2018-11-20, vote average 7.4*
+*Released on 2018-11-20, vote average 7.3*
 
 Follows Adonis Creed&#39;s life inside and outside of the ring as he deals with new found fame, issues with his family, and his continuing quest to become a champion.
 
@@ -148,6 +126,38 @@ A young woman returns to her small hometown to rediscover music, family bonds, a
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### The Princess Switch
+*Released on 2018-11-16, vote average 7.4*
+
+When a down-to-earth Chicago baker and a soon-to-be princess discover they look like twins, they hatch a Christmastime plan to trade places.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-WBhj57fHeI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -218,15 +228,44 @@ Every year, Isabelle (Tatyana Ali) and her high school sweetheart Mike (Corneliu
 
 
 	
+	
 
-  
+### The Truth About Christmas
+*Released on 2018-11-25, vote average 4*
 
+Jillian, a successful political consultant whose next big project is the upcoming mayoral campaign for her boyfriend, is on the way to meet George’s family for the first time. After an unusual confrontation with a toy store Santa, Jillian can’t stop herself from wildly spilling the truth. Jillian must find a way to make it stop before her holidays, her job and her relationship are ruined.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MSlnL5fb6w4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
 
 
+	
+	
+
+### Instant Family
+*Released on 2018-11-16, vote average 7*
+
+When Pete and Ellie decide to start a family, they stumble into the world of foster care adoption. They hope to take in one small child but when they meet three siblings, including a rebellious 15 year old girl, they find themselves speeding from zero to three kids overnight.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IUfZq3DUd3Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -254,11 +293,6 @@ A teenage boy begins to suspect that his wholesome, all-American dad is actually
   
 
 
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -276,11 +310,7 @@ A teenage boy begins to suspect that his wholesome, all-American dad is actually
 	
 
 	
-
 	
-	
-	
-
 	
 
 	
@@ -291,6 +321,10 @@ A teenage boy begins to suspect that his wholesome, all-American dad is actually
 
 	
 	
+	
+
+	
+
 	
 
 	
