@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Fantastic Beasts: The Crimes of Grindelwald
-*Released on 2018-11-14, vote average 7.1*
+### Ralph Breaks the Internet
+*Released on 2018-11-20, vote average 7.4*
 
-Gellert Grindelwald has escaped imprisonment and has begun gathering followers to his cause—elevating wizards above all non-magical beings. The only one capable of putting a stop to him is the wizard he once called his closest friend, Albus Dumbledore. However, Dumbledore will need to seek help from the wizard who had thwarted Grindelwald once before, his former student Newt Scamander, who agrees to help, unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world.
+Taking place six years following the events of the first film, the story will center on Ralph&#39;s adventures in the Internet data space when a Wi-Fi router gets plugged into the arcade as he must find a replacement part to fix Sugar Rush.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/5sEaYB4rLFQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/_BcYBFC6zfY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -40,28 +40,6 @@ Gellert Grindelwald has escaped imprisonment and has begun gathering followers t
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-
-
-	
-	
-
-### Ralph Breaks the Internet
-*Released on 2018-11-20, vote average 7.6*
-
-Taking place six years following the events of the first film, the story will center on Ralph&#39;s adventures in the Internet data space when a Wi-Fi router gets plugged into the arcade as he must find a replacement part to fix Sugar Rush.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/_BcYBFC6zfY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
   
 
 
@@ -112,28 +90,6 @@ Follows Adonis Creed&#39;s life inside and outside of the ring as he deals with 
 	
 	
 
-### Christmas Harmony
-*Released on 2018-11-24, vote average 6*
-
-A young woman returns to her small hometown to rediscover music, family bonds, and the magic of the Christmas season.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/PMqn7KmxHAI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Princess Switch
 *Released on 2018-11-16, vote average 7.4*
 
@@ -164,109 +120,6 @@ When a down-to-earth Chicago baker and a soon-to-be princess discover they look 
 
 
 	
-	
-
-### Jingle Belle
-*Released on 2018-11-25, vote average 10*
-
-Every year, Isabelle (Tatyana Ali) and her high school sweetheart Mike (Cornelius Smith Jr.), rocked their small town’s annual Christmas Eve Pageant with a sweet Christmas duet. But after graduation, Isabelle left to study at Juillard in New York – leaving Mike behind. Years later, when Isabelle returns to her hometown to write music for the annual Christmas Eve Pageant, she is shocked to learn that Mike is the one directing the show. Can Isabelle and Mike put the past behind them and reunite on stage for another show-stopping duet?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/WSFo69kZld8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Truth About Christmas
-*Released on 2018-11-25, vote average 4*
-
-Jillian, a successful political consultant whose next big project is the upcoming mayoral campaign for her boyfriend, is on the way to meet George’s family for the first time. After an unusual confrontation with a toy store Santa, Jillian can’t stop herself from wildly spilling the truth. Jillian must find a way to make it stop before her holidays, her job and her relationship are ruined.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MSlnL5fb6w4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Instant Family
-*Released on 2018-11-16, vote average 7*
-
-When Pete and Ellie decide to start a family, they stumble into the world of foster care adoption. They hope to take in one small child but when they meet three siblings, including a rebellious 15 year old girl, they find themselves speeding from zero to three kids overnight.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IUfZq3DUd3Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -293,6 +146,104 @@ A teenage boy begins to suspect that his wholesome, all-American dad is actually
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Christmas Harmony
+*Released on 2018-11-24, vote average 6*
+
+A young woman returns to her small hometown to rediscover music, family bonds, and the magic of the Christmas season.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PMqn7KmxHAI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### A Shoe Addict&#39;s Christmas
+*Released on 2018-11-25, vote average 4*
+
+As Christmas approaches, a department store worker whose life lacks fulfillment meets her guardian angel, who offers her a chance to change her circumstances by magically transporting her to Christmases past whenever she tries on a new pair of shoes.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/HBdTsHXvyG8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -310,8 +261,6 @@ A teenage boy begins to suspect that his wholesome, all-American dad is actually
 	
 
 	
-	
-	
 
 	
 
@@ -320,9 +269,24 @@ A teenage boy begins to suspect that his wholesome, all-American dad is actually
 	
 
 	
+
 	
 	
 
+### Tiger
+*Released on 2018-11-30, vote average 9*
+
+A practicing Sikh is banned by the boxing commission for refusing to back down from his religious beliefs. Through racial profiling and stereotypical threats, he does what any strong American would do: fight back.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8EdXfB_miN0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
