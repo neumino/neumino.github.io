@@ -68,28 +68,6 @@ Siblings Kate and Teddy try to prove Santa Claus is real, but when they accident
 	
 	
 
-### Creed II
-*Released on 2018-11-20, vote average 7.3*
-
-Follows Adonis Creed&#39;s life inside and outside of the ring as he deals with new found fame, issues with his family, and his continuing quest to become a champion.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cPNVNqn4T9I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Princess Switch
 *Released on 2018-11-16, vote average 7.4*
 
@@ -115,10 +93,22 @@ When a down-to-earth Chicago baker and a soon-to-be princess discover they look 
 
 
 	
+	
 
-  
+### Creed II
+*Released on 2018-11-20, vote average 7.4*
 
+Follows Adonis Creed&#39;s life inside and outside of the ring as he deals with new found fame, issues with his family, and his continuing quest to become a champion.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/cPNVNqn4T9I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -128,7 +118,7 @@ When a down-to-earth Chicago baker and a soon-to-be princess discover they look 
 	
 
 ### The Clovehitch Killer
-*Released on 2018-11-16, vote average 6.8*
+*Released on 2018-11-16, vote average 7*
 
 A teenage boy begins to suspect that his wholesome, all-American dad is actually the serial killer terrorizing their small town.
 
@@ -147,38 +137,18 @@ A teenage boy begins to suspect that his wholesome, all-American dad is actually
 
 
 	
-
-  
-
-
 	
 
-  
+### 2.0
+*Released on 2018-11-29, vote average 8*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Christmas Harmony
-*Released on 2018-11-24, vote average 6*
-
-A young woman returns to her small hometown to rediscover music, family bonds, and the magic of the Christmas season.
+An ornithologist who commits suicide returns as fifth force to wreack vengeance on mankind for harming birds with mobile phone radiation. The only thing that is standing in his way is 2.0, the upgraded version of Chitti, the robot.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/PMqn7KmxHAI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/jrETX2eDhL8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -189,7 +159,20 @@ A young woman returns to her small hometown to rediscover music, family bonds, a
 
 
 	
+
+  
+
+
 	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -206,39 +189,54 @@ A young woman returns to her small hometown to rediscover music, family bonds, a
 
 
 	
+
+  
+
+
 	
 
-### A Shoe Addict&#39;s Christmas
-*Released on 2018-11-25, vote average 4*
+  
 
-As Christmas approaches, a department store worker whose life lacks fulfillment meets her guardian angel, who offers her a chance to change her circumstances by magically transporting her to Christmases past whenever she tries on a new pair of shoes.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Tiger
+*Released on 2018-11-30, vote average 9*
+
+A practicing Sikh is banned by the boxing commission for refusing to back down from his religious beliefs. Through racial profiling and stereotypical threats, he does what any strong American would do: fight back.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/HBdTsHXvyG8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/8EdXfB_miN0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -247,24 +245,6 @@ As Christmas approaches, a department store worker whose life lacks fulfillment 
 
 ## Opening soon
 
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
 
 	
 
@@ -287,6 +267,43 @@ A practicing Sikh is banned by the boxing commission for refusing to back down f
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### A Christmas Prince: The Royal Wedding
+*Released on 2018-11-30, vote average 6*
+
+A year after Amber helped Richard secure the crown. The two are set to tie the knot in a royal Christmas wedding — but their plans are jeopardized when Amber finds herself second-guessing whether or not she&#39;s cut out to be queen, and Richard is faced with a political crisis that threatens to tarnish not only the holiday season but the future of the kingdom.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Gtd3OBkGg64?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+	
+	
+
+	
+
 	
 
 	
