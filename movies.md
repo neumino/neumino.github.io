@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Robin Hood
-*Released on 2018-11-20, vote average 6.6*
+*Released on 2018-11-20, vote average 6.4*
 
 A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown.
 
@@ -91,7 +91,7 @@ Siblings Kate and Teddy try to prove Santa Claus is real, but when they accident
 	
 
 ### 2.0
-*Released on 2018-11-29, vote average 8*
+*Released on 2018-11-29, vote average 8.1*
 
 An ornithologist who commits suicide returns as fifth force to wreack vengeance on mankind for harming birds with mobile phone radiation. The only thing that is standing in his way is 2.0, the upgraded version of Chitti, the robot.
 
@@ -100,6 +100,55 @@ An ornithologist who commits suicide returns as fifth force to wreack vengeance 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/jrETX2eDhL8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Blood Brother
+*Released on 2018-11-30, vote average 10*
+
+Blood Brother takes place on he mean streets of a city in decay, where a recently released convict begins to take a murderous revenge against his childhood friends, whom he believes let him take the fall for a crime they collectively committed. As the bodies start piling up, one of the friends, now a cop, will stop at nothing to put and end to the murderous rampage and to right the many wrongs of their tragically violent past.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZLgodNut1mQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### A Christmas Prince: The Royal Wedding
+*Released on 2018-11-30, vote average 6.6*
+
+A year after Amber helped Richard secure the crown. The two are set to tie the knot in a royal Christmas wedding — but their plans are jeopardized when Amber finds herself second-guessing whether or not she&#39;s cut out to be queen, and Richard is faced with a political crisis that threatens to tarnish not only the holiday season but the future of the kingdom.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Gtd3OBkGg64?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -139,6 +188,28 @@ After her fiance is falsely imprisoned, a pregnant African-American woman sets o
 	
 	
 
+### Creed II
+*Released on 2018-11-20, vote average 7.6*
+
+Follows Adonis Creed&#39;s life inside and outside of the ring as he deals with new found fame, issues with his family, and his continuing quest to become a champion.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/cPNVNqn4T9I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Tiger
 *Released on 2018-11-30, vote average 9*
 
@@ -165,53 +236,6 @@ A practicing Sikh is banned by the boxing commission for refusing to back down f
 
 	
 	
-
-### Creed II
-*Released on 2018-11-20, vote average 7.4*
-
-Follows Adonis Creed&#39;s life inside and outside of the ring as he deals with new found fame, issues with his family, and his continuing quest to become a champion.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cPNVNqn4T9I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### A Christmas Prince: The Royal Wedding
-*Released on 2018-11-30, vote average 6.9*
-
-A year after Amber helped Richard secure the crown. The two are set to tie the knot in a royal Christmas wedding — but their plans are jeopardized when Amber finds herself second-guessing whether or not she&#39;s cut out to be queen, and Richard is faced with a political crisis that threatens to tarnish not only the holiday season but the future of the kingdom.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Gtd3OBkGg64?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -232,13 +256,6 @@ A year after Amber helped Richard secure the crown. The two are set to tie the k
   
 
 
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -295,6 +312,8 @@ A year after Amber helped Richard secure the crown. The two are set to tie the k
 
 	
 
+	
+	
 	
 
 	
