@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Robin Hood
-*Released on 2018-11-20, vote average 6.4*
+*Released on 2018-11-20, vote average 6.3*
 
 A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown.
 
@@ -47,7 +47,7 @@ A war-hardened Crusader and his Moorish commander mount an audacious revolt agai
 	
 
 ### Ralph Breaks the Internet
-*Released on 2018-11-20, vote average 7.4*
+*Released on 2018-11-20, vote average 7.5*
 
 Taking place six years following the events of the first film, the story will center on Ralph&#39;s adventures in the Internet data space when a Wi-Fi router gets plugged into the arcade as he must find a replacement part to fix Sugar Rush.
 
@@ -69,7 +69,7 @@ Taking place six years following the events of the first film, the story will ce
 	
 
 ### The Christmas Chronicles
-*Released on 2018-11-22, vote average 7.3*
+*Released on 2018-11-22, vote average 7.2*
 
 Siblings Kate and Teddy try to prove Santa Claus is real, but when they accidentally cause his sleigh to crash, they have to save Christmas.
 
@@ -91,7 +91,7 @@ Siblings Kate and Teddy try to prove Santa Claus is real, but when they accident
 	
 
 ### 2.0
-*Released on 2018-11-29, vote average 8.1*
+*Released on 2018-11-29, vote average 7.3*
 
 An ornithologist who commits suicide returns as fifth force to wreack vengeance on mankind for harming birds with mobile phone radiation. The only thing that is standing in his way is 2.0, the upgraded version of Chitti, the robot.
 
@@ -112,35 +112,8 @@ An ornithologist who commits suicide returns as fifth force to wreack vengeance 
 	
 	
 
-### Blood Brother
-*Released on 2018-11-30, vote average 10*
-
-Blood Brother takes place on he mean streets of a city in decay, where a recently released convict begins to take a murderous revenge against his childhood friends, whom he believes let him take the fall for a crime they collectively committed. As the bodies start piling up, one of the friends, now a cop, will stop at nothing to put and end to the murderous rampage and to right the many wrongs of their tragically violent past.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZLgodNut1mQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### A Christmas Prince: The Royal Wedding
-*Released on 2018-11-30, vote average 6.6*
+*Released on 2018-11-30, vote average 6.7*
 
 A year after Amber helped Richard secure the crown. The two are set to tie the knot in a royal Christmas wedding — but their plans are jeopardized when Amber finds herself second-guessing whether or not she&#39;s cut out to be queen, and Richard is faced with a political crisis that threatens to tarnish not only the holiday season but the future of the kingdom.
 
@@ -149,33 +122,6 @@ A year after Amber helped Richard secure the crown. The two are set to tie the k
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/Gtd3OBkGg64?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### If Beale Street Could Talk
-*Released on 2018-11-30, vote average 8*
-
-After her fiance is falsely imprisoned, a pregnant African-American woman sets out to clear his name and prove his innocence.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/k2zvPTGiJj4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -210,16 +156,60 @@ Follows Adonis Creed&#39;s life inside and outside of the ring as he deals with 
 	
 	
 
-### Tiger
-*Released on 2018-11-30, vote average 9*
+### Blood Brother
+*Released on 2018-11-30, vote average 10*
 
-A practicing Sikh is banned by the boxing commission for refusing to back down from his religious beliefs. Through racial profiling and stereotypical threats, he does what any strong American would do: fight back.
+Blood Brother takes place on he mean streets of a city in decay, where a recently released convict begins to take a murderous revenge against his childhood friends, whom he believes let him take the fall for a crime they collectively committed. As the bodies start piling up, one of the friends, now a cop, will stop at nothing to put and end to the murderous rampage and to right the many wrongs of their tragically violent past.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/8EdXfB_miN0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ZLgodNut1mQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Anna and the Apocalypse
+*Released on 2018-11-30, vote average 2.3*
+
+A zombie apocalypse threatens the sleepy town of Little Haven – at Christmas – forcing Anna and her friends to fight, slash and sing their way to survival, facing the undead in a desperate race to reach their loved ones. But they soon discover that no one is safe in this new world, and with civilization falling apart around them, the only people they can truly rely on are each other.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/dfWIfwKJ7vA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### DriverX
+*Released on 2018-11-30, vote average 4.5*
+
+Skidding into middle-age, a stay-at-home dad must drive for an Uber-like rideshare company (DriverX) to help support his working wife and two young daughters. But low pay and wild LA nights put an even greater strain on his marriage.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/bKtrQTktIvs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -235,8 +225,6 @@ A practicing Sikh is banned by the boxing commission for refusing to back down f
 
 
 	
-	
-	
 
   
 
@@ -261,6 +249,33 @@ A practicing Sikh is banned by the boxing commission for refusing to back down f
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Tiger
+*Released on 2018-11-30, vote average 9*
+
+A practicing Sikh is banned by the boxing commission for refusing to back down from his religious beliefs. Through racial profiling and stereotypical threats, he does what any strong American would do: fight back.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8EdXfB_miN0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -291,6 +306,8 @@ A practicing Sikh is banned by the boxing commission for refusing to back down f
 	
 
 	
+	
+	
 
 	
 
@@ -307,13 +324,13 @@ A practicing Sikh is banned by the boxing commission for refusing to back down f
 	
 
 	
+	
+	
 
 	
 
 	
 
-	
-	
 	
 
 	
