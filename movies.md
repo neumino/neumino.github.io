@@ -47,7 +47,7 @@ A war-hardened Crusader and his Moorish commander mount an audacious revolt agai
 	
 
 ### Ralph Breaks the Internet
-*Released on 2018-11-20, vote average 7.5*
+*Released on 2018-11-20, vote average 7.4*
 
 Taking place six years following the events of the first film, the story will center on Ralph&#39;s adventures in the Internet data space when a Wi-Fi router gets plugged into the arcade as he must find a replacement part to fix Sugar Rush.
 
@@ -69,7 +69,7 @@ Taking place six years following the events of the first film, the story will ce
 	
 
 ### The Christmas Chronicles
-*Released on 2018-11-22, vote average 7.2*
+*Released on 2018-11-22, vote average 7.3*
 
 Siblings Kate and Teddy try to prove Santa Claus is real, but when they accidentally cause his sleigh to crash, they have to save Christmas.
 
@@ -90,30 +90,8 @@ Siblings Kate and Teddy try to prove Santa Claus is real, but when they accident
 	
 	
 
-### 2.0
-*Released on 2018-11-29, vote average 7.3*
-
-An ornithologist who commits suicide returns as fifth force to wreack vengeance on mankind for harming birds with mobile phone radiation. The only thing that is standing in his way is 2.0, the upgraded version of Chitti, the robot.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jrETX2eDhL8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### A Christmas Prince: The Royal Wedding
-*Released on 2018-11-30, vote average 6.7*
+*Released on 2018-11-30, vote average 6.6*
 
 A year after Amber helped Richard secure the crown. The two are set to tie the knot in a royal Christmas wedding — but their plans are jeopardized when Amber finds herself second-guessing whether or not she&#39;s cut out to be queen, and Richard is faced with a political crisis that threatens to tarnish not only the holiday season but the future of the kingdom.
 
@@ -134,8 +112,30 @@ A year after Amber helped Richard secure the crown. The two are set to tie the k
 	
 	
 
+### 2.0
+*Released on 2018-11-29, vote average 6*
+
+An ornithologist who commits suicide returns as fifth force to wreack vengeance on mankind for harming birds with mobile phone radiation. The only thing that is standing in his way is 2.0, the upgraded version of Chitti, the robot.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jrETX2eDhL8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Creed II
-*Released on 2018-11-20, vote average 7.6*
+*Released on 2018-11-20, vote average 7.3*
 
 Follows Adonis Creed&#39;s life inside and outside of the ring as he deals with new found fame, issues with his family, and his continuing quest to become a champion.
 
@@ -176,22 +176,42 @@ Blood Brother takes place on he mean streets of a city in decay, where a recentl
 
 
 	
-	
 
-### Anna and the Apocalypse
-*Released on 2018-11-30, vote average 2.3*
+  
 
-A zombie apocalypse threatens the sleepy town of Little Haven – at Christmas – forcing Anna and her friends to fight, slash and sing their way to survival, facing the undead in a desperate race to reach their loved ones. But they soon discover that no one is safe in this new world, and with civilization falling apart around them, the only people they can truly rely on are each other.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/dfWIfwKJ7vA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -225,53 +245,18 @@ Skidding into middle-age, a stay-at-home dad must drive for an Uber-like ridesha
 
 
 	
-
-  
-
-
 	
 
-  
+### Anna and the Apocalypse
+*Released on 2018-11-30, vote average 2.3*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Tiger
-*Released on 2018-11-30, vote average 9*
-
-A practicing Sikh is banned by the boxing commission for refusing to back down from his religious beliefs. Through racial profiling and stereotypical threats, he does what any strong American would do: fight back.
+A zombie apocalypse threatens the sleepy town of Little Haven – at Christmas – forcing Anna and her friends to fight, slash and sing their way to survival, facing the undead in a desperate race to reach their loved ones. But they soon discover that no one is safe in this new world, and with civilization falling apart around them, the only people they can truly rely on are each other.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/8EdXfB_miN0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/dfWIfwKJ7vA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -282,10 +267,29 @@ A practicing Sikh is banned by the boxing commission for refusing to back down f
 
 
 	
+	
+
+### Christmas Harmony
+*Released on 2018-11-24, vote average 6*
+
+A young woman returns to her small hometown to rediscover music, family bonds, and the magic of the Christmas season.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PMqn7KmxHAI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
+	
+	
 	
 
   
@@ -323,8 +327,6 @@ A practicing Sikh is banned by the boxing commission for refusing to back down f
 
 	
 
-	
-	
 	
 
 	
