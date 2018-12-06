@@ -44,6 +44,11 @@ Siblings Kate and Teddy try to prove Santa Claus is real, but when they accident
 
 
 	
+
+  
+
+
+	
 	
 
 ### 2.0
@@ -88,16 +93,6 @@ A year after Amber helped Richard secure the crown. The two are set to tie the k
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 	
 
@@ -110,22 +105,15 @@ A year after Amber helped Richard secure the crown. The two are set to tie the k
 
 
 	
-	
 
-### Blood Brother
-*Released on 2018-11-30, vote average 6.8*
+  
 
-Blood Brother takes place on he mean streets of a city in decay, where a recently released convict begins to take a murderous revenge against his childhood friends, whom he believes let him take the fall for a crime they collectively committed. As the bodies start piling up, one of the friends, now a cop, will stop at nothing to put and end to the murderous rampage and to right the many wrongs of their tragically violent past.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZLgodNut1mQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
 	
 
   
@@ -163,28 +151,6 @@ Blood Brother takes place on he mean streets of a city in decay, where a recentl
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Life-Size 2
-*Released on 2018-12-02, vote average 5.8*
-
-Grace Manning is in the middle of her quarter-life crisis, realizing she is in over her head as CEO. To make matters worse, her wild-child ways are causing the company’s stock to plummet. With the help of her young next-door neighbor, Grace’s old Eve doll magically awakens to help get Grace back on track and give her the confidence to be the woman and leader Eve knows Grace can be.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3HqnOVCIIXo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -215,6 +181,23 @@ Grace Manning is in the middle of her quarter-life crisis, realizing she is in o
 
 
 	
+	
+
+### Aquaman
+*Released on 2018-12-12, vote average 1*
+
+The film reveals the origin story of half-human, half-Atlantean Arthur Curry and takes him on the journey of his lifetime—one that will not only force him to face who he really is, but to discover if he is worthy of who he was born to be… a king.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/WDkg3h8PCVU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
@@ -222,7 +205,7 @@ Grace Manning is in the middle of her quarter-life crisis, realizing she is in o
 	
 
 ### Spider-Man: Into the Spider-Verse
-*Released on 2018-12-07, vote average 8.7*
+*Released on 2018-12-07, vote average 9*
 
 Miles Morales is juggling his life between being a high school student and being Spider-Man. However, when Wilson &#34;Kingpin&#34; Fisk uses a super collider, another Spider-Man from another dimension, Peter Parker, accidentally winds up in Miles&#39; dimension. As Peter trains Miles to become a better Spider-Man, they are soon joined by four other Spider-Men from across the &#34;Spider-Verse&#34;. As all these clashing dimensions start to tear Brooklyn apart, Miles must help the others stop Fisk and return everyone to their own dimensions.
 
@@ -238,16 +221,6 @@ Miles Morales is juggling his life between being a high school student and being
 	
 
 	
-	
-	
-
-	
-
-	
-
-	
-
-	
 
 	
 
@@ -262,6 +235,8 @@ Miles Morales is juggling his life between being a high school student and being
 	
 
 	
+	
+	
 
 	
 
@@ -274,7 +249,13 @@ Miles Morales is juggling his life between being a high school student and being
 	
 
 	
+
 	
+
+	
+
+	
+
 	
 
 
