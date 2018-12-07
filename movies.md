@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### The Christmas Chronicles
-*Released on 2018-11-22, vote average 7.2*
+### Mortal Engines
+*Released on 2018-12-06, vote average 8.8*
 
-Siblings Kate and Teddy try to prove Santa Claus is real, but when they accidentally cause his sleigh to crash, they have to save Christmas.
+Set in a world many thousands of years in the future. Earth’s cities now roam the globe on huge wheels, devouring each other in a struggle for ever diminishing resources. On one of these massive Traction Cities, Tom Natsworthy has an unexpected encounter with a mysterious young woman from the Outlands who will change the course of his life forever.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/V0xv99h17QE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/nPeQ_24KnbU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -44,6 +44,30 @@ Siblings Kate and Teddy try to prove Santa Claus is real, but when they accident
 
 
 	
+	
+
+### Spider-Man: Into the Spider-Verse
+*Released on 2018-12-07, vote average 8.2*
+
+Miles Morales is juggling his life between being a high school student and being Spider-Man. However, when Wilson &#34;Kingpin&#34; Fisk uses a super collider, another Spider-Man from another dimension, Peter Parker, accidentally winds up in Miles&#39; dimension. As Peter trains Miles to become a better Spider-Man, they are soon joined by four other Spider-Men from across the &#34;Spider-Verse&#34;. As all these clashing dimensions start to tear Brooklyn apart, Miles must help the others stop Fisk and return everyone to their own dimensions.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/g4Hbz2jLxvQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
 
   
 
@@ -52,7 +76,7 @@ Siblings Kate and Teddy try to prove Santa Claus is real, but when they accident
 	
 
 ### 2.0
-*Released on 2018-11-29, vote average 6.1*
+*Released on 2018-11-29, vote average 5.7*
 
 An ornithologist who commits suicide returns as fifth force to wreack vengeance on mankind for harming birds with mobile phone radiation. The only thing that is standing in his way is 2.0, the upgraded version of Chitti, the robot.
 
@@ -65,6 +89,11 @@ An ornithologist who commits suicide returns as fifth force to wreack vengeance 
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -93,6 +122,37 @@ A year after Amber helped Richard secure the crown. The two are set to tie the k
 
 
 	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 	
 
@@ -120,42 +180,7 @@ A year after Amber helped Richard secure the crown. The two are set to tie the k
 
 
 	
-
-  
-
-
 	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -184,7 +209,7 @@ A year after Amber helped Richard secure the crown. The two are set to tie the k
 	
 
 ### Aquaman
-*Released on 2018-12-12, vote average 1*
+*Released on 2018-12-12, vote average 5.5*
 
 The film reveals the origin story of half-human, half-Atlantean Arthur Curry and takes him on the journey of his lifetime—one that will not only force him to face who he really is, but to discover if he is worthy of who he was born to be… a king.
 
@@ -200,12 +225,10 @@ The film reveals the origin story of half-human, half-Atlantean Arthur Curry and
 	
 
 	
-
-	
 	
 
 ### Spider-Man: Into the Spider-Verse
-*Released on 2018-12-07, vote average 9*
+*Released on 2018-12-07, vote average 8.2*
 
 Miles Morales is juggling his life between being a high school student and being Spider-Man. However, when Wilson &#34;Kingpin&#34; Fisk uses a super collider, another Spider-Man from another dimension, Peter Parker, accidentally winds up in Miles&#39; dimension. As Peter trains Miles to become a better Spider-Man, they are soon joined by four other Spider-Men from across the &#34;Spider-Verse&#34;. As all these clashing dimensions start to tear Brooklyn apart, Miles must help the others stop Fisk and return everyone to their own dimensions.
 
@@ -225,8 +248,6 @@ Miles Morales is juggling his life between being a high school student and being
 	
 
 	
-	
-	
 
 	
 
@@ -235,7 +256,7 @@ Miles Morales is juggling his life between being a high school student and being
 	
 
 	
-	
+
 	
 
 	
