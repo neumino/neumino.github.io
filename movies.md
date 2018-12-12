@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Mortal Engines
-*Released on 2018-12-06, vote average 6*
+### Aquaman
+*Released on 2018-12-07, vote average 5.8*
 
-Set in a world many thousands of years in the future. Earth’s cities now roam the globe on huge wheels, devouring each other in a struggle for ever diminishing resources. On one of these massive Traction Cities, Tom Natsworthy has an unexpected encounter with a mysterious young woman from the Outlands who will change the course of his life forever.
+The film reveals the origin story of half-human, half-Atlantean Arthur Curry and takes him on the journey of his lifetime—one that will not only force him to face who he really is, but to discover if he is worthy of who he was born to be… a king.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/nPeQ_24KnbU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/WDkg3h8PCVU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ Set in a world many thousands of years in the future. Earth’s cities now roam 
 	
 	
 
-### Aquaman
-*Released on 2018-12-07, vote average 5.9*
+### Mortal Engines
+*Released on 2018-12-06, vote average 5.9*
 
-The film reveals the origin story of half-human, half-Atlantean Arthur Curry and takes him on the journey of his lifetime—one that will not only force him to face who he really is, but to discover if he is worthy of who he was born to be… a king.
+Set in a world many thousands of years in the future. Earth’s cities now roam the globe on huge wheels, devouring each other in a struggle for ever diminishing resources. On one of these massive Traction Cities, Tom Natsworthy has an unexpected encounter with a mysterious young woman from the Outlands who will change the course of his life forever.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/WDkg3h8PCVU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/nPeQ_24KnbU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@ The film reveals the origin story of half-human, half-Atlantean Arthur Curry and
 	
 
 ### Bumblebee
-*Released on 2018-12-08, vote average 5.7*
+*Released on 2018-12-08, vote average 5.5*
 
 On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken.  When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.
 
@@ -91,7 +91,7 @@ On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Cal
 	
 
 ### Spider-Man: Into the Spider-Verse
-*Released on 2018-12-07, vote average 8.3*
+*Released on 2018-12-07, vote average 8.4*
 
 Miles Morales is juggling his life between being a high school student and being Spider-Man. However, when Wilson &#34;Kingpin&#34; Fisk uses a super collider, another Spider-Man from another dimension, Peter Parker, accidentally winds up in Miles&#39; dimension. As Peter trains Miles to become a better Spider-Man, they are soon joined by four other Spider-Men from across the &#34;Spider-Verse&#34;. As all these clashing dimensions start to tear Brooklyn apart, Miles must help the others stop Fisk and return everyone to their own dimensions.
 
@@ -104,6 +104,11 @@ Miles Morales is juggling his life between being a high school student and being
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -137,7 +142,25 @@ Asher is a former Mossad agent turned gun for hire, living an austere life in an
 
 
 	
+
+  
+
+
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -147,7 +170,7 @@ Asher is a former Mossad agent turned gun for hire, living an austere life in an
 	
 
 ### A Christmas Prince: The Royal Wedding
-*Released on 2018-11-30, vote average 6.5*
+*Released on 2018-11-30, vote average 6.4*
 
 A year after Amber helped Richard secure the crown. The two are set to tie the knot in a royal Christmas wedding — but their plans are jeopardized when Amber finds herself second-guessing whether or not she&#39;s cut out to be queen, and Richard is faced with a political crisis that threatens to tarnish not only the holiday season but the future of the kingdom.
 
@@ -166,73 +189,10 @@ A year after Amber helped Richard secure the crown. The two are set to tie the k
 
 
 	
-	
-
-### Vox Lux
-*Released on 2018-12-07, vote average 10*
-
-In 1999, teenage sisters Celeste and Eleanor survive a seismic, violent tragedy. The sisters compose and perform a song about their experience, making something lovely and cathartic out of a catastrophe - while also catapulting Celeste to stardom. By 2017, Celeste is a mother to a teenage daughter of her own and is struggling to navigate a career fraught with scandals when another act of terrifying violence demands her attention.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nRoYUKDnNDM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Hospitality
-*Released on 2018-12-07, vote average 10*
-
-A woman with a checkered past must protect her son when a man brings trouble to her isolated bed and breakfast.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LPNoBY_gO6M?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -242,7 +202,7 @@ A woman with a checkered past must protect her son when a man brings trouble to 
 	
 
 ### 2.0
-*Released on 2018-11-29, vote average 5.8*
+*Released on 2018-11-29, vote average 6.1*
 
 An ornithologist who commits suicide returns as fifth force to wreack vengeance on mankind for harming birds with mobile phone radiation. The only thing that is standing in his way is 2.0, the upgraded version of Chitti, the robot.
 
@@ -266,10 +226,29 @@ An ornithologist who commits suicide returns as fifth force to wreack vengeance 
 
 
 	
+	
+	
 
   
 
 
+	
+	
+
+### Vox Lux
+*Released on 2018-12-07, vote average 10*
+
+In 1999, teenage sisters Celeste and Eleanor survive a seismic, violent tragedy. The sisters compose and perform a song about their experience, making something lovely and cathartic out of a catastrophe - while also catapulting Celeste to stardom. By 2017, Celeste is a mother to a teenage daughter of her own and is struggling to navigate a career fraught with scandals when another act of terrifying violence demands her attention.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nRoYUKDnNDM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -312,6 +291,39 @@ Earth is peaceful following the Tournament of Power. Realizing that the universe
 	
 
 	
+	
+	
+
+	
+
+	
+	
+
+### Odiyan
+*Released on 2018-12-13, vote average 10*
+
+With the arrival of electricity in the region under the British rule, the Odiyan clan that possesses the supernatural powers to assume animal form find it difficult to survive as they are ruthlessly captured and killed by the British. How the last Odiyan tries to save his clan with his stealth attacks, forms the crux.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hwpylN-aHq0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
 
 	
 
@@ -323,20 +335,6 @@ Earth is peaceful following the Tournament of Power. Realizing that the universe
 
 	
 	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
