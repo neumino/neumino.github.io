@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Aquaman
-*Released on 2018-12-07, vote average 5.8*
+*Released on 2018-12-07, vote average 5.9*
 
 The film reveals the origin story of half-human, half-Atlantean Arthur Curry and takes him on the journey of his lifetime—one that will not only force him to face who he really is, but to discover if he is worthy of who he was born to be… a king.
 
@@ -91,7 +91,7 @@ On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Cal
 	
 
 ### Spider-Man: Into the Spider-Verse
-*Released on 2018-12-07, vote average 8.4*
+*Released on 2018-12-07, vote average 8.5*
 
 Miles Morales is juggling his life between being a high school student and being Spider-Man. However, when Wilson &#34;Kingpin&#34; Fisk uses a super collider, another Spider-Man from another dimension, Peter Parker, accidentally winds up in Miles&#39; dimension. As Peter trains Miles to become a better Spider-Man, they are soon joined by four other Spider-Men from across the &#34;Spider-Verse&#34;. As all these clashing dimensions start to tear Brooklyn apart, Miles must help the others stop Fisk and return everyone to their own dimensions.
 
@@ -100,6 +100,70 @@ Miles Morales is juggling his life between being a high school student and being
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/g4Hbz2jLxvQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Odiyan
+*Released on 2018-12-13, vote average 10*
+
+With the arrival of electricity in the region under the British rule, the Odiyan clan that possesses the supernatural powers to assume animal form find it difficult to survive as they are ruthlessly captured and killed by the British. How the last Odiyan tries to save his clan with his stealth attacks, forms the crux.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hwpylN-aHq0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -161,137 +225,10 @@ Asher is a former Mossad agent turned gun for hire, living an austere life in an
   
 
 
-	
-
-  
-
-
-	
-	
-
-### A Christmas Prince: The Royal Wedding
-*Released on 2018-11-30, vote average 6.4*
-
-A year after Amber helped Richard secure the crown. The two are set to tie the knot in a royal Christmas wedding — but their plans are jeopardized when Amber finds herself second-guessing whether or not she&#39;s cut out to be queen, and Richard is faced with a political crisis that threatens to tarnish not only the holiday season but the future of the kingdom.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Gtd3OBkGg64?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### 2.0
-*Released on 2018-11-29, vote average 6.1*
-
-An ornithologist who commits suicide returns as fifth force to wreack vengeance on mankind for harming birds with mobile phone radiation. The only thing that is standing in his way is 2.0, the upgraded version of Chitti, the robot.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jrETX2eDhL8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Vox Lux
-*Released on 2018-12-07, vote average 10*
-
-In 1999, teenage sisters Celeste and Eleanor survive a seismic, violent tragedy. The sisters compose and perform a song about their experience, making something lovely and cathartic out of a catastrophe - while also catapulting Celeste to stardom. By 2017, Celeste is a mother to a teenage daughter of her own and is struggling to navigate a career fraught with scandals when another act of terrifying violence demands her attention.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nRoYUKDnNDM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
 
-	
-	
-
-### Dragon Ball Super: Broly
-*Released on 2018-12-14, vote average 8.5*
-
-Earth is peaceful following the Tournament of Power. Realizing that the universes still hold many more strong people yet to see, Goku spends all his days training to reach even greater heights. Then one day, Goku and Vegeta are faced by a Saiyan called &#39;Broly&#39; who they&#39;ve never seen before. The Saiyans were supposed to have been almost completely wiped out in the destruction of Planet Vegeta, so what&#39;s this one doing on Earth? This encounter between the three Saiyans who have followed completely different destinies turns into a stupendous battle, with even Frieza (back from Hell) getting caught up in the mix.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FHgm89hKpXU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	
 	
 
 	
@@ -322,12 +259,31 @@ With the arrival of electricity in the region under the British rule, the Odiyan
 	
 
 	
+	
+
+### Backtrace
+*Released on 2018-12-14, vote average 10*
+
+The lone surviving thief of a violent armored car robbery is sprung from a high security facility and administered an experimental drug.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/INDleu1aHyE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
 	
 
 	
+	
+	
 
 	
 
@@ -335,6 +291,18 @@ With the arrival of electricity in the region under the British rule, the Odiyan
 
 	
 	
+	
+
+	
+
+	
+	
+	
+
+	
+
+	
+
 	
 
 	
