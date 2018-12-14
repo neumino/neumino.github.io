@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Aquaman
-*Released on 2018-12-07, vote average 5.9*
+*Released on 2018-12-07, vote average 6.4*
 
 The film reveals the origin story of half-human, half-Atlantean Arthur Curry and takes him on the journey of his lifetime—one that will not only force him to face who he really is, but to discover if he is worthy of who he was born to be… a king.
 
@@ -47,7 +47,7 @@ The film reveals the origin story of half-human, half-Atlantean Arthur Curry and
 	
 
 ### Mortal Engines
-*Released on 2018-12-06, vote average 5.9*
+*Released on 2018-12-06, vote average 6.1*
 
 Set in a world many thousands of years in the future. Earth’s cities now roam the globe on huge wheels, devouring each other in a struggle for ever diminishing resources. On one of these massive Traction Cities, Tom Natsworthy has an unexpected encounter with a mysterious young woman from the Outlands who will change the course of his life forever.
 
@@ -68,8 +68,30 @@ Set in a world many thousands of years in the future. Earth’s cities now roam 
 	
 	
 
+### Dragon Ball Super: Broly
+*Released on 2018-12-14, vote average 8.5*
+
+Earth is peaceful following the Tournament of Power. Realizing that the universes still hold many more strong people yet to see, Goku spends all his days training to reach even greater heights. Then one day, Goku and Vegeta are faced by a Saiyan called &#39;Broly&#39; who they&#39;ve never seen before. The Saiyans were supposed to have been almost completely wiped out in the destruction of Planet Vegeta, so what&#39;s this one doing on Earth? This encounter between the three Saiyans who have followed completely different destinies turns into a stupendous battle, with even Frieza (back from Hell) getting caught up in the mix.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FHgm89hKpXU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Bumblebee
-*Released on 2018-12-08, vote average 5.5*
+*Released on 2018-12-08, vote average 5.6*
 
 On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken.  When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.
 
@@ -91,7 +113,7 @@ On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Cal
 	
 
 ### Spider-Man: Into the Spider-Verse
-*Released on 2018-12-07, vote average 8.5*
+*Released on 2018-12-07, vote average 8.4*
 
 Miles Morales is juggling his life between being a high school student and being Spider-Man. However, when Wilson &#34;Kingpin&#34; Fisk uses a super collider, another Spider-Man from another dimension, Peter Parker, accidentally winds up in Miles&#39; dimension. As Peter trains Miles to become a better Spider-Man, they are soon joined by four other Spider-Men from across the &#34;Spider-Verse&#34;. As all these clashing dimensions start to tear Brooklyn apart, Miles must help the others stop Fisk and return everyone to their own dimensions.
 
@@ -104,48 +126,6 @@ Miles Morales is juggling his life between being a high school student and being
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -179,6 +159,25 @@ With the arrival of electricity in the region under the British rule, the Odiyan
 
 
 	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
 
   
 
@@ -186,20 +185,40 @@ With the arrival of electricity in the region under the British rule, the Odiyan
 	
 	
 
-### Asher
-*Released on 2018-12-07, vote average 6.8*
+### Backtrace
+*Released on 2018-12-14, vote average 10*
 
-Asher is a former Mossad agent turned gun for hire, living an austere life in an ever-changing Brooklyn. Approaching the end of his career, he breaks the oath he took as a young man when he meets Sophie on a hit gone wrong. In order to have love in his life before it&#39;s too late, he must kill the man he was, for a chance at becoming the man he wants to be.
+The lone surviving thief of a violent armored car robbery is sprung from a high security facility and administered an experimental drug.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/nwfXcY55aPg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/INDleu1aHyE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -230,28 +249,22 @@ Asher is a former Mossad agent turned gun for hire, living an austere life in an
 
 
 	
-
 	
 
-	
-	
+### Dragon Ball Super: Broly
+*Released on 2018-12-14, vote average 8.5*
 
-### Odiyan
-*Released on 2018-12-13, vote average 10*
-
-With the arrival of electricity in the region under the British rule, the Odiyan clan that possesses the supernatural powers to assume animal form find it difficult to survive as they are ruthlessly captured and killed by the British. How the last Odiyan tries to save his clan with his stealth attacks, forms the crux.
+Earth is peaceful following the Tournament of Power. Realizing that the universes still hold many more strong people yet to see, Goku spends all his days training to reach even greater heights. Then one day, Goku and Vegeta are faced by a Saiyan called &#39;Broly&#39; who they&#39;ve never seen before. The Saiyans were supposed to have been almost completely wiped out in the destruction of Planet Vegeta, so what&#39;s this one doing on Earth? This encounter between the three Saiyans who have followed completely different destinies turns into a stupendous battle, with even Frieza (back from Hell) getting caught up in the mix.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/hwpylN-aHq0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/FHgm89hKpXU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
@@ -280,23 +293,25 @@ The lone surviving thief of a violent armored car robbery is sprung from a high 
 	
 
 	
-
-	
-	
-	
-
-	
-
-	
-
-	
 	
 	
 
 	
 
 	
+
 	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
