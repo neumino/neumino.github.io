@@ -47,7 +47,7 @@ The film reveals the origin story of half-human, half-Atlantean Arthur Curry and
 	
 
 ### Mortal Engines
-*Released on 2018-12-06, vote average 6.1*
+*Released on 2018-12-06, vote average 6.2*
 
 Set in a world many thousands of years in the future. Earth’s cities now roam the globe on huge wheels, devouring each other in a struggle for ever diminishing resources. On one of these massive Traction Cities, Tom Natsworthy has an unexpected encounter with a mysterious young woman from the Outlands who will change the course of his life forever.
 
@@ -91,7 +91,7 @@ Earth is peaceful following the Tournament of Power. Realizing that the universe
 	
 
 ### Spider-Man: Into the Spider-Verse
-*Released on 2018-12-07, vote average 8.6*
+*Released on 2018-12-07, vote average 8.4*
 
 Miles Morales is juggling his life between being a high school student and being Spider-Man. However, when Wilson &#34;Kingpin&#34; Fisk uses a super collider, another Spider-Man from another dimension, Peter Parker, accidentally winds up in Miles&#39; dimension. As Peter trains Miles to become a better Spider-Man, they are soon joined by four other Spider-Men from across the &#34;Spider-Verse&#34;. As all these clashing dimensions start to tear Brooklyn apart, Miles must help the others stop Fisk and return everyone to their own dimensions.
 
@@ -113,7 +113,7 @@ Miles Morales is juggling his life between being a high school student and being
 	
 
 ### Bumblebee
-*Released on 2018-12-15, vote average 5.4*
+*Released on 2018-12-15, vote average 5.6*
 
 On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken.  When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.
 
@@ -122,33 +122,6 @@ On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Cal
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/fAIX12F6958?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Odiyan
-*Released on 2018-12-13, vote average 8.3*
-
-With the arrival of electricity in the region under the British rule, the Odiyan clan that possesses the supernatural powers to assume animal form find it difficult to survive as they are ruthlessly captured and killed by the British. How the last Odiyan tries to save his clan with his stealth attacks, forms the crux.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hwpylN-aHq0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -182,16 +155,65 @@ The lone surviving thief of a violent armored car robbery is sprung from a high 
 
 	
 	
+
+### The Mule
+*Released on 2018-12-14, vote average 7.3*
+
+A 90-year-old horticulturalist and WWII veteran is caught transporting $3 million worth of cocaine through Michigan for a Mexican drug cartel.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/N_QksSzK7sI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
 
 
 	
+	
+
+### Odiyan
+*Released on 2018-12-13, vote average 5.3*
+
+With the arrival of electricity in the region under the British rule, the Odiyan clan that possesses the supernatural powers to assume animal form find it difficult to survive as they are ruthlessly captured and killed by the British. How the last Odiyan tries to save his clan with his stealth attacks, forms the crux.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hwpylN-aHq0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
+	
+	
+
+### Beyond White Space
+*Released on 2018-12-14, vote average 4*
+
+When a deep space fishing vessel is robbed by a gang of pirates, the Captain makes a daring decision to go after a rare and nearly extinct species. His obsession propels them further into space as the crew spins toward mutiny and betrayal.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_RihSzdaCtc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -220,77 +242,64 @@ Follow Alex Honnold as he becomes the first person to ever free solo climb Yosem
 
 
 	
-
-  
-
-
 	
 
-  
+### Drug$
+*Released on 2018-12-15, vote average 9*
 
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-
-## Opening soon
-
-
-	
-	
-
-### Bumblebee
-*Released on 2018-12-15, vote average 5.4*
-
-On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken.  When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.
+A feature-length documentary about the soaring price of medicines in the U.S., featuring interviews with academics, patients, advocates and political leaders, including Senator Bernie Sanders and Congressman Elijah Cummings. In a titanic struggle against corporate greed, see how a diverse group of concerned Americans is fighting back to keep lifesaving medicines affordable for us all.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/fAIX12F6958?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/3OIQAn5jAbM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
 	
 
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 	
 
 ### Dumplin&#39;
-*Released on 2018-12-20, vote average 7.4*
+*Released on 2018-12-07, vote average 7.3*
 
 To prove a point about measuring up and fitting in, Texas teen Willowdean “Dumplin’” Dickson enters a local pageant run by her ex-beauty queen mom.
 
@@ -305,28 +314,46 @@ To prove a point about measuring up and fitting in, Texas teen Willowdean “Dum
 	
 	
 
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+
+## Opening soon
+
+
+	
+	
+
+### Mary Poppins Returns
+*Released on 2018-12-19, vote average 10*
+
+In Depression-era London, a now-grown Jane and Michael Banks, along with Michael&#39;s three children, are visited by the enigmatic Mary Poppins following a personal loss. Through her unique magical skills, and with the aid of her friend Jack, she helps the family rediscover the joy and wonder missing in their lives.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PzcaR1N0pTI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
 
 	
-	
-	
 
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	
 	
 
 	
@@ -343,6 +370,24 @@ To prove a point about measuring up and fitting in, Texas teen Willowdean “Dum
 
 	
 
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
 	
 
 
