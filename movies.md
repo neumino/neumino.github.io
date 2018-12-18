@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Aquaman
-*Released on 2018-12-07, vote average 6.9*
+*Released on 2018-12-07, vote average 7*
 
 The film reveals the origin story of half-human, half-Atlantean Arthur Curry and takes him on the journey of his lifetime—one that will not only force him to face who he really is, but to discover if he is worthy of who he was born to be… a king.
 
@@ -46,6 +46,28 @@ The film reveals the origin story of half-human, half-Atlantean Arthur Curry and
 	
 	
 
+### Dragon Ball Super: Broly
+*Released on 2018-12-14, vote average 7.6*
+
+Earth is peaceful following the Tournament of Power. Realizing that the universes still hold many more strong people yet to see, Goku spends all his days training to reach even greater heights. Then one day, Goku and Vegeta are faced by a Saiyan called &#39;Broly&#39; who they&#39;ve never seen before. The Saiyans were supposed to have been almost completely wiped out in the destruction of Planet Vegeta, so what&#39;s this one doing on Earth? This encounter between the three Saiyans who have followed completely different destinies turns into a stupendous battle, with even Frieza (back from Hell) getting caught up in the mix.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FHgm89hKpXU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Mortal Engines
 *Released on 2018-12-06, vote average 6.2*
 
@@ -68,30 +90,8 @@ Set in a world many thousands of years in the future. Earth’s cities now roam 
 	
 	
 
-### Dragon Ball Super: Broly
-*Released on 2018-12-14, vote average 7.9*
-
-Earth is peaceful following the Tournament of Power. Realizing that the universes still hold many more strong people yet to see, Goku spends all his days training to reach even greater heights. Then one day, Goku and Vegeta are faced by a Saiyan called &#39;Broly&#39; who they&#39;ve never seen before. The Saiyans were supposed to have been almost completely wiped out in the destruction of Planet Vegeta, so what&#39;s this one doing on Earth? This encounter between the three Saiyans who have followed completely different destinies turns into a stupendous battle, with even Frieza (back from Hell) getting caught up in the mix.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FHgm89hKpXU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Spider-Man: Into the Spider-Verse
-*Released on 2018-12-07, vote average 8.5*
+*Released on 2018-12-07, vote average 8.6*
 
 Miles Morales is juggling his life between being a high school student and being Spider-Man. However, when Wilson &#34;Kingpin&#34; Fisk uses a super collider, another Spider-Man from another dimension, Peter Parker, accidentally winds up in Miles&#39; dimension. As Peter trains Miles to become a better Spider-Man, they are soon joined by four other Spider-Men from across the &#34;Spider-Verse&#34;. As all these clashing dimensions start to tear Brooklyn apart, Miles must help the others stop Fisk and return everyone to their own dimensions.
 
@@ -113,7 +113,7 @@ Miles Morales is juggling his life between being a high school student and being
 	
 
 ### Bumblebee
-*Released on 2018-12-15, vote average 5.6*
+*Released on 2018-12-15, vote average 5.9*
 
 On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken.  When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.
 
@@ -135,7 +135,7 @@ On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Cal
 	
 
 ### Backtrace
-*Released on 2018-12-14, vote average 10*
+*Released on 2018-12-14, vote average 8*
 
 The lone surviving thief of a violent armored car robbery is sprung from a high security facility and administered an experimental drug.
 
@@ -144,6 +144,28 @@ The lone surviving thief of a violent armored car robbery is sprung from a high 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/INDleu1aHyE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Springsteen On Broadway
+*Released on 2018-12-16, vote average 10*
+
+Springsteen on Broadway is a solo acoustic performance written and performed by Tony Award, Academy Award, and 20-time Grammy Award winner Bruce Springsteen. Based on his worldwide best-selling autobiography &#39;Born to Run,&#39; Springsteen on Broadway is a unique evening with Bruce, his guitar, a piano, and his very personal stories. In addition, it features a special appearance by Patti Scialfa. Netflix will allow global audiences to see the show critics have been raving about from anywhere they are.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/M1xDzgob1JI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -178,6 +200,28 @@ A 90-year-old horticulturalist and Korean War veteran is caught transporting $3 
 	
 	
 
+### Odiyan
+*Released on 2018-12-13, vote average 8*
+
+With the arrival of electricity in the region under the British rule, the Odiyan clan that possesses the supernatural powers to assume animal form find it difficult to survive as they are ruthlessly captured and killed by the British. How the last Odiyan tries to save his clan with his stealth attacks, forms the crux.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hwpylN-aHq0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Beyond White Space
 *Released on 2018-12-14, vote average 4*
 
@@ -198,18 +242,38 @@ When a deep space fishing vessel is robbed by a gang of pirates, the Captain mak
 
 
 	
+
+  
+
+
 	
 
-### Odiyan
-*Released on 2018-12-13, vote average 5.3*
+  
 
-With the arrival of electricity in the region under the British rule, the Odiyan clan that possesses the supernatural powers to assume animal form find it difficult to survive as they are ruthlessly captured and killed by the British. How the last Odiyan tries to save his clan with his stealth attacks, forms the crux.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Free Rein: The Twelve Neighs of Christmas
+*Released on 2018-12-07, vote average 7.3*
+
+As Bright Fields preps for its Mistletoe Ball, a broken ornament leads Zoe to a family secret, while Gaby finds herself at the mercy of new boss Mia.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/hwpylN-aHq0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/V7mAAuO1yx0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -220,57 +284,6 @@ With the arrival of electricity in the region under the British rule, the Odiyan
 
 
 	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Drug$
-*Released on 2018-12-15, vote average 9*
-
-A feature-length documentary about the soaring price of medicines in the U.S., featuring interviews with academics, patients, advocates and political leaders, including Senator Bernie Sanders and Congressman Elijah Cummings. In a titanic struggle against corporate greed, see how a diverse group of concerned Americans is fighting back to keep lifesaving medicines affordable for us all.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3OIQAn5jAbM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Dumplin&#39;
-*Released on 2018-12-07, vote average 7.2*
-
-To prove a point about measuring up and fitting in, Texas teen Willowdean “Dumplin’” Dickson enters a local pageant run by her ex-beauty queen mom.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/k86KDFh_q6E?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -283,20 +296,7 @@ To prove a point about measuring up and fitting in, Texas teen Willowdean “Dum
 
 
 	
-
-  
-
-
 	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -338,6 +338,8 @@ In Depression-era London, a now-grown Jane and Michael Banks, along with Michael
 	
 
 	
+	
+	
 
 	
 
@@ -366,11 +368,11 @@ In Depression-era London, a now-grown Jane and Michael Banks, along with Michael
 	
 
 	
+	
+	
 
 	
 
-	
-	
 	
 
 	
