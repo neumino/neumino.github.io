@@ -91,7 +91,7 @@ On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Cal
 	
 
 ### Spider-Man: Into the Spider-Verse
-*Released on 2018-12-07, vote average 8.7*
+*Released on 2018-12-07, vote average 8.6*
 
 Miles Morales is juggling his life between being a high school student and being Spider-Man. However, when Wilson &#34;Kingpin&#34; Fisk uses a super collider, another Spider-Man from another dimension, Peter Parker, accidentally winds up in Miles&#39; dimension. As Peter trains Miles to become a better Spider-Man, they are soon joined by four other Spider-Men from across the &#34;Spider-Verse&#34;. As all these clashing dimensions start to tear Brooklyn apart, Miles must help the others stop Fisk and return everyone to their own dimensions.
 
@@ -135,7 +135,7 @@ Set in a world many thousands of years in the future. Earth’s cities now roam 
 	
 
 ### Mary Poppins Returns
-*Released on 2018-12-19, vote average 9.5*
+*Released on 2018-12-19, vote average 7.7*
 
 In Depression-era London, a now-grown Jane and Michael Banks, along with Michael&#39;s three children, are visited by the enigmatic Mary Poppins following a personal loss. Through her unique magical skills, and with the aid of her friend Jack, she helps the family rediscover the joy and wonder missing in their lives.
 
@@ -156,16 +156,16 @@ In Depression-era London, a now-grown Jane and Michael Banks, along with Michael
 	
 	
 
-### Backtrace
-*Released on 2018-12-14, vote average 8*
+### Ellen DeGeneres: Relatable
+*Released on 2018-12-18, vote average 6.2*
 
-The lone surviving thief of a violent armored car robbery is sprung from a high security facility and administered an experimental drug.
+In her first special since 2003, Ellen revisits her road to stardom and details the heartfelt -- and hilarious -- lessons she&#39;s learned along the way.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/INDleu1aHyE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/bWJvNd9JMlU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -200,6 +200,85 @@ To prove a point about measuring up and fitting in, Texas teen Willowdean “Dum
 	
 	
 
+### Backtrace
+*Released on 2018-12-14, vote average 7.6*
+
+The lone surviving thief of a violent armored car robbery is sprung from a high security facility and administered an experimental drug.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/INDleu1aHyE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### They Shall Not Grow Old
+*Released on 2018-12-17, vote average 8.2*
+
+A documentary about World War I with never-before-seen footage to commemorate the centennial of Armistice Day, and the end of the war.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/D6Do1p1CWyc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### Springsteen On Broadway
 *Released on 2018-12-16, vote average 10*
 
@@ -220,121 +299,6 @@ Springsteen on Broadway is a solo acoustic performance written and performed by 
 
 
 	
-	
-
-### The Mule
-*Released on 2018-12-14, vote average 6.5*
-
-A 90-year-old horticulturalist and Korean War veteran is caught transporting $3 million worth of cocaine through Illinois for a Mexican drug cartel.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/N_QksSzK7sI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Odiyan
-*Released on 2018-12-13, vote average 8*
-
-With the arrival of electricity in the region under the British rule, the Odiyan clan that possesses the supernatural powers to assume animal form find it difficult to survive as they are ruthlessly captured and killed by the British. How the last Odiyan tries to save his clan with his stealth attacks, forms the crux.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hwpylN-aHq0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Beyond White Space
-*Released on 2018-12-14, vote average 4*
-
-When a deep space fishing vessel is robbed by a gang of pirates, the Captain makes a daring decision to go after a rare and nearly extinct species. His obsession propels them further into space as the crew spins toward mutiny and betrayal.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/_RihSzdaCtc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Free Rein: The Twelve Neighs of Christmas
-*Released on 2018-12-07, vote average 7*
-
-As Bright Fields preps for its Mistletoe Ball, a broken ornament leads Zoe to a family secret, while Gaby finds herself at the mercy of new boss Mia.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/V7mAAuO1yx0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 
   
 
@@ -347,33 +311,6 @@ As Bright Fields preps for its Mistletoe Ball, a broken ornament leads Zoe to a 
 
 ## Opening soon
 
-
-	
-	
-
-### Mary Poppins Returns
-*Released on 2018-12-19, vote average 9.5*
-
-In Depression-era London, a now-grown Jane and Michael Banks, along with Michael&#39;s three children, are visited by the enigmatic Mary Poppins following a personal loss. Through her unique magical skills, and with the aid of her friend Jack, she helps the family rediscover the joy and wonder missing in their lives.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/PzcaR1N0pTI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
-
-	
 
 	
 
@@ -401,11 +338,53 @@ Joe—a down-on-his-luck truck driver haunted by the memory of his deceased wife
 	
 
 	
+	
+
+### Welcome to Marwen
+*Released on 2018-12-21, vote average 10*
+
+When a devastating attack shatters Mark Hogancamp and wipes away all memories, no one expected recovery. Putting together pieces from his old and new life, Mark meticulously creates a wondrous town named Marwen where he can heal and be heroic. As he builds an astonishing art installation — a testament to the most powerful women he knows — through his fantasy world, he draws strength to triumph in the real one
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/W6dy7xQ8NeE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
 	
+
 	
+
+	
+
+	
+	
+
+### Zero
+*Released on 2018-12-21, vote average 8*
+
+Bauua Singh is a vertically challenged man who is full of charm and wit, with a pinch of arrogance. Born to a wealthy family and raised in an environment of affluence and indulgence, Bauua was never failed by Meerut or its people. But when he meets two women, his experiences with these women take him on a journey to complete his &#39;incompleteness&#39; and broaden his horizons to find a purpose he never knew he had.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/RF7DhGIQE1k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
 	
 
 	
