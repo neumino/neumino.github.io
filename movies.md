@@ -15,7 +15,7 @@ This is a convenient page that embeds trailers of movies released in the past
 ### Aquaman
 *Released on 2018-12-07, vote average 6.9*
 
-The film reveals the origin story of half-human, half-Atlantean Arthur Curry and takes him on the journey of his lifetime—one that will not only force him to face who he really is, but to discover if he is worthy of who he was born to be… a king.
+Arthur Curry learns that he is the heir to the underwater kingdom of Atlantis, and must step forward to lead his people and be a hero to the world.
 
 <iframe id="player"
 	type="text/html"
@@ -46,16 +46,16 @@ The film reveals the origin story of half-human, half-Atlantean Arthur Curry and
 	
 	
 
-### Dragon Ball Super: Broly
-*Released on 2018-12-14, vote average 7.7*
+### Bumblebee
+*Released on 2018-12-15, vote average 6.3*
 
-Earth is peaceful following the Tournament of Power. Realizing that the universes still hold many more strong people yet to see, Goku spends all his days training to reach even greater heights. Then one day, Goku and Vegeta are faced by a Saiyan called &#39;Broly&#39; who they&#39;ve never seen before. The Saiyans were supposed to have been almost completely wiped out in the destruction of Planet Vegeta, so what&#39;s this one doing on Earth? This encounter between the three Saiyans who have followed completely different destinies turns into a stupendous battle, with even Frieza (back from Hell) getting caught up in the mix.
+On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken.  When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/FHgm89hKpXU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/fAIX12F6958?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,16 +68,16 @@ Earth is peaceful following the Tournament of Power. Realizing that the universe
 	
 	
 
-### Bumblebee
-*Released on 2018-12-15, vote average 6.2*
+### Dragon Ball Super: Broly
+*Released on 2018-12-14, vote average 7.4*
 
-On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken.  When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.
+Earth is peaceful following the Tournament of Power. Realizing that the universes still hold many more strong people yet to see, Goku spends all his days training to reach even greater heights. Then one day, Goku and Vegeta are faced by a Saiyan called &#39;Broly&#39; who they&#39;ve never seen before. The Saiyans were supposed to have been almost completely wiped out in the destruction of Planet Vegeta, so what&#39;s this one doing on Earth? This encounter between the three Saiyans who have followed completely different destinies turns into a stupendous battle, with even Frieza (back from Hell) getting caught up in the mix.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/fAIX12F6958?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/FHgm89hKpXU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,30 +112,8 @@ Miles Morales is juggling his life between being a high school student and being
 	
 	
 
-### Mortal Engines
-*Released on 2018-12-06, vote average 6.2*
-
-Set in a world many thousands of years in the future. Earth’s cities now roam the globe on huge wheels, devouring each other in a struggle for ever diminishing resources. On one of these massive Traction Cities, Tom Natsworthy has an unexpected encounter with a mysterious young woman from the Outlands who will change the course of his life forever.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nPeQ_24KnbU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Mary Poppins Returns
-*Released on 2018-12-19, vote average 7.7*
+*Released on 2018-12-19, vote average 7.1*
 
 In Depression-era London, a now-grown Jane and Michael Banks, along with Michael&#39;s three children, are visited by the enigmatic Mary Poppins following a personal loss. Through her unique magical skills, and with the aid of her friend Jack, she helps the family rediscover the joy and wonder missing in their lives.
 
@@ -154,22 +132,10 @@ In Depression-era London, a now-grown Jane and Michael Banks, along with Michael
 
 
 	
-	
 
-### Ellen DeGeneres: Relatable
-*Released on 2018-12-18, vote average 6.2*
+  
 
-In her first special since 2003, Ellen revisits her road to stardom and details the heartfelt -- and hilarious -- lessons she&#39;s learned along the way.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/bWJvNd9JMlU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -179,7 +145,7 @@ In her first special since 2003, Ellen revisits her road to stardom and details 
 	
 
 ### Dumplin&#39;
-*Released on 2018-12-07, vote average 7.3*
+*Released on 2018-12-07, vote average 7.2*
 
 To prove a point about measuring up and fitting in, Texas teen Willowdean “Dumplin’” Dickson enters a local pageant run by her ex-beauty queen mom.
 
@@ -191,6 +157,13 @@ To prove a point about measuring up and fitting in, Texas teen Willowdean “Dum
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -220,101 +193,6 @@ The lone surviving thief of a violent armored car robbery is sprung from a high 
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### They Shall Not Grow Old
-*Released on 2018-12-17, vote average 8.2*
-
-A documentary about World War I with never-before-seen footage to commemorate the centennial of Armistice Day, and the end of the war.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/D6Do1p1CWyc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Springsteen On Broadway
-*Released on 2018-12-16, vote average 10*
-
-Springsteen on Broadway is a solo acoustic performance written and performed by Tony Award, Academy Award, and 20-time Grammy Award winner Bruce Springsteen. Based on his worldwide best-selling autobiography &#39;Born to Run,&#39; Springsteen on Broadway is a unique evening with Bruce, his guitar, a piano, and his very personal stories. In addition, it features a special appearance by Patti Scialfa. Netflix will allow global audiences to see the show critics have been raving about from anywhere they are.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/M1xDzgob1JI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-
-## Opening soon
-
-
-	
-
-	
 	
 
 ### Between Worlds
@@ -333,8 +211,96 @@ Joe—a down-on-his-luck truck driver haunted by the memory of his deceased wife
 	
 	
 
+  
+
+
+	
 	
 
+### Ellen DeGeneres: Relatable
+*Released on 2018-12-18, vote average 7.6*
+
+In her first special since 2003, Ellen revisits her road to stardom and details the heartfelt -- and hilarious -- lessons she&#39;s learned along the way.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/bWJvNd9JMlU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+
+## Opening soon
+
+
+	
+	
+
+### Between Worlds
+*Released on 2018-12-21, vote average 5*
+
+Joe—a down-on-his-luck truck driver haunted by the memory of his deceased wife and child—meets Julie, a spiritually gifted woman who enlists his help in a desperate effort to find the lost soul of her comatose daughter. But the spirit of Joe&#39;s dead wife proves stronger, possessing the young woman&#39;s body and determined to settle her unfinished business with the living.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/WnKltEsRorg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -359,12 +325,6 @@ When a devastating attack shatters Mark Hogancamp and wipes away all memories, n
 	
 
 	
-
-	
-
-	
-
-	
 	
 
 ### Zero
@@ -381,6 +341,18 @@ Bauua Singh is a vertically challenged man who is full of charm and wit, with a 
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
