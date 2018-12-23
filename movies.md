@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Bumblebee
-*Released on 2018-12-15, vote average 6.4*
+*Released on 2018-12-15, vote average 6.5*
 
 On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken.  When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.
 
@@ -47,7 +47,7 @@ On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Cal
 	
 
 ### Dragon Ball Super: Broly
-*Released on 2018-12-14, vote average 7*
+*Released on 2018-12-14, vote average 7.1*
 
 Earth is peaceful following the Tournament of Power. Realizing that the universes still hold many more strong people yet to see, Goku spends all his days training to reach even greater heights. Then one day, Goku and Vegeta are faced by a Saiyan called &#39;Broly&#39; who they&#39;ve never seen before. The Saiyans were supposed to have been almost completely wiped out in the destruction of Planet Vegeta, so what&#39;s this one doing on Earth? This encounter between the three Saiyans who have followed completely different destinies turns into a stupendous battle, with even Frieza (back from Hell) getting caught up in the mix.
 
@@ -88,32 +88,27 @@ In Depression-era London, a now-grown Jane and Michael Banks, along with Michael
 
 
 	
+
+  
+
+
+	
 	
 
-### Between Worlds
-*Released on 2018-12-21, vote average 5*
+### Zero
+*Released on 2018-12-21, vote average 8*
 
-Joe—a down-on-his-luck truck driver haunted by the memory of his deceased wife and child—meets Julie, a spiritually gifted woman who enlists his help in a desperate effort to find the lost soul of her comatose daughter. But the spirit of Joe&#39;s dead wife proves stronger, possessing the young woman&#39;s body and determined to settle her unfinished business with the living.
+Bauua Singh is a vertically challenged man who is full of charm and wit, with a pinch of arrogance. Born to a wealthy family and raised in an environment of affluence and indulgence, Bauua was never failed by Meerut or its people. But when he meets two women, his experiences with these women take him on a journey to complete his &#39;incompleteness&#39; and broaden his horizons to find a purpose he never knew he had.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/WnKltEsRorg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/RF7DhGIQE1k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -144,123 +139,8 @@ When a devastating attack shatters Mark Hogancamp and wipes away all memories, n
 	
 	
 
-### Seethakathi
-*Released on 2018-12-20, vote average 6*
-
-Seethakathi is a 2017 Tamil drama film written and directed by Balaji Tharaneetharan. Vijay Sethupathi stars in the lead role.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/GDyg4qxeX68?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Milly &amp; Mamet
-*Released on 2018-12-20, vote average 8.5*
-
-Milly and Mamet are busy taking care of their baby. One day, Mamet met Alexandra, a close friend at college, who now had investors to finance the restaurant ideas they had once wanted together.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/oeSJPEsd4bM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Zero
-*Released on 2018-12-21, vote average 8*
-
-Bauua Singh is a vertically challenged man who is full of charm and wit, with a pinch of arrogance. Born to a wealthy family and raised in an environment of affluence and indulgence, Bauua was never failed by Meerut or its people. But when he meets two women, his experiences with these women take him on a journey to complete his &#39;incompleteness&#39; and broaden his horizons to find a purpose he never knew he had.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/RF7DhGIQE1k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Ellen DeGeneres: Relatable
-*Released on 2018-12-18, vote average 7.7*
-
-In her first special since 2003, Ellen revisits her road to stardom and details the heartfelt -- and hilarious -- lessons she&#39;s learned along the way.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/bWJvNd9JMlU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### Backtrace
-*Released on 2018-12-14, vote average 7.6*
+*Released on 2018-12-14, vote average 6.1*
 
 The lone surviving thief of a violent armored car robbery is sprung from a high security facility and administered an experimental drug.
 
@@ -279,23 +159,18 @@ The lone surviving thief of a violent armored car robbery is sprung from a high 
 
 
 	
-
-  
-
-
-	
 	
 
-### They Shall Not Grow Old
-*Released on 2018-12-17, vote average 8.1*
+### Between Worlds
+*Released on 2018-12-21, vote average 5*
 
-A documentary about World War I with never-before-seen footage to commemorate the centennial of Armistice Day, and the end of the war.
+Joe—a down-on-his-luck truck driver haunted by the memory of his deceased wife and child—meets Julie, a spiritually gifted woman who enlists his help in a desperate effort to find the lost soul of her comatose daughter. But the spirit of Joe&#39;s dead wife proves stronger, possessing the young woman&#39;s body and determined to settle her unfinished business with the living.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/D6Do1p1CWyc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/WnKltEsRorg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -310,17 +185,66 @@ A documentary about World War I with never-before-seen footage to commemorate th
   
 
 
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 
 ## Opening soon
 
-
-	
-
-	
-	
-	
-
-	
 
 	
 
@@ -352,6 +276,8 @@ Young lawyer Ruth Bader Ginsburg teams with her husband Marty to bring a groundb
 	
 
 	
+
+	
 	
 
 ### Destroyer
@@ -376,6 +302,27 @@ Erin Bell is an LAPD detective who, as a young cop, was placed undercover with a
 
 	
 
+	
+
+	
+
+	
+	
+
+### Stan &amp; Ollie
+*Released on 2018-12-28, vote average 10*
+
+With their golden era long behind them, comedy duo Stan Laurel and Oliver Hardy embark on a variety hall tour of Britain and Ireland. Despite the pressures of a hectic schedule, and with the support of their wives Lucille and Ida – a formidable double act in their own right – the pair&#39;s love of performing, as well as for each other, endures as they secure their place in the hearts of their adoring public
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MdcBNrjc3wo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
