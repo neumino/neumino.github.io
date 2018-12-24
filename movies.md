@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Bumblebee
-*Released on 2018-12-15, vote average 6.5*
+*Released on 2018-12-15, vote average 6.6*
 
 On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken.  When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.
 
@@ -69,7 +69,7 @@ Earth is peaceful following the Tournament of Power. Realizing that the universe
 	
 
 ### Mary Poppins Returns
-*Released on 2018-12-19, vote average 7.4*
+*Released on 2018-12-19, vote average 7.3*
 
 In Depression-era London, a now-grown Jane and Michael Banks, along with Michael&#39;s three children, are visited by the enigmatic Mary Poppins following a personal loss. Through her unique magical skills, and with the aid of her friend Jack, she helps the family rediscover the joy and wonder missing in their lives.
 
@@ -96,7 +96,7 @@ In Depression-era London, a now-grown Jane and Michael Banks, along with Michael
 	
 
 ### Zero
-*Released on 2018-12-21, vote average 8*
+*Released on 2018-12-21, vote average 6*
 
 Bauua Singh is a vertically challenged man who is full of charm and wit, with a pinch of arrogance. Born to a wealthy family and raised in an environment of affluence and indulgence, Bauua was never failed by Meerut or its people. But when he meets two women, his experiences with these women take him on a journey to complete his &#39;incompleteness&#39; and broaden his horizons to find a purpose he never knew he had.
 
@@ -117,16 +117,16 @@ Bauua Singh is a vertically challenged man who is full of charm and wit, with a 
 	
 	
 
-### Welcome to Marwen
-*Released on 2018-12-21, vote average 10*
+### Kamen Rider Heisei Generations FOREVER
+*Released on 2018-12-22, vote average 10*
 
-When a devastating attack shatters Mark Hogancamp and wipes away all memories, no one expected recovery. Putting together pieces from his old and new life, Mark meticulously creates a wondrous town named Marwen where he can heal and be heroic. As he builds an astonishing art installation — a testament to the most powerful women he knows — through his fantasy world, he draws strength to triumph in the real one.
+An upcoming Kamen Rider Movie War (tenth overall) crossover film of Kamen Rider Build and Kamen Rider Zi-O, and the third installment of the Heisei Generations Series.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/W6dy7xQ8NeE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/_A0AcF7XGDs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -149,6 +149,49 @@ The lone surviving thief of a violent armored car robbery is sprung from a high 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/INDleu1aHyE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Welcome to Marwen
+*Released on 2018-12-21, vote average 10*
+
+When a devastating attack shatters Mark Hogancamp and wipes away all memories, no one expected recovery. Putting together pieces from his old and new life, Mark meticulously creates a wondrous town named Marwen where he can heal and be heroic. As he builds an astonishing art installation — a testament to the most powerful women he knows — through his fantasy world, he draws strength to triumph in the real one.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/W6dy7xQ8NeE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -186,8 +229,6 @@ Joe—a down-on-his-luck truck driver haunted by the memory of his deceased wife
 
 
 	
-	
-	
 
   
 
@@ -203,40 +244,73 @@ Joe—a down-on-his-luck truck driver haunted by the memory of his deceased wife
 
 
 	
+	
 
-  
+### The Mule
+*Released on 2018-12-14, vote average 6.6*
 
+A 90-year-old horticulturalist and Korean War veteran is caught transporting $3 million worth of cocaine through Illinois for a Mexican drug cartel.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/N_QksSzK7sI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
 
 
 	
+	
 
-  
+### They Shall Not Grow Old
+*Released on 2018-12-17, vote average 8*
 
+A documentary about World War I with never-before-seen footage to commemorate the centennial of Armistice Day, and the end of the war.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/D6Do1p1CWyc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
 
 
 	
-
-  
-
-
+	
 	
 
   
 
 
 	
+	
 
-  
+### Milly &amp; Mamet
+*Released on 2018-12-20, vote average 8.5*
 
+Milly and Mamet are busy taking care of their baby. One day, Mamet met Alexandra, a close friend at college, who now had investors to finance the restaurant ideas they had once wanted together.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/oeSJPEsd4bM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -245,10 +319,6 @@ Joe—a down-on-his-luck truck driver haunted by the memory of his deceased wife
 
 ## Opening soon
 
-
-	
-
-	
 
 	
 
@@ -273,6 +343,8 @@ Young lawyer Ruth Bader Ginsburg teams with her husband Marty to bring a groundb
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
@@ -307,22 +379,7 @@ Erin Bell is an LAPD detective who, as a young cop, was placed undercover with a
 	
 
 	
-	
 
-### Stan &amp; Ollie
-*Released on 2018-12-28, vote average 10*
-
-With their golden era long behind them, comedy duo Stan Laurel and Oliver Hardy embark on a variety hall tour of Britain and Ireland. Despite the pressures of a hectic schedule, and with the support of their wives Lucille and Ida – a formidable double act in their own right – the pair&#39;s love of performing, as well as for each other, endures as they secure their place in the hearts of their adoring public
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MdcBNrjc3wo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
@@ -335,6 +392,8 @@ With their golden era long behind them, comedy duo Stan Laurel and Oliver Hardy 
 
 	
 
+	
+	
 	
 
 
