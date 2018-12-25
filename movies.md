@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Bumblebee
-*Released on 2018-12-15, vote average 6.6*
+*Released on 2018-12-15, vote average 6.5*
 
 On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken.  When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.
 
@@ -88,37 +88,10 @@ In Depression-era London, a now-grown Jane and Michael Banks, along with Michael
 
 
 	
-
-  
-
-
-	
-	
-
-### Zero
-*Released on 2018-12-21, vote average 6*
-
-Bauua Singh is a vertically challenged man who is full of charm and wit, with a pinch of arrogance. Born to a wealthy family and raised in an environment of affluence and indulgence, Bauua was never failed by Meerut or its people. But when he meets two women, his experiences with these women take him on a journey to complete his &#39;incompleteness&#39; and broaden his horizons to find a purpose he never knew he had.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/RF7DhGIQE1k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 	
 
 ### Kamen Rider Heisei Generations FOREVER
-*Released on 2018-12-22, vote average 10*
+*Released on 2018-12-22, vote average 5.5*
 
 An upcoming Kamen Rider Movie War (tenth overall) crossover film of Kamen Rider Build and Kamen Rider Zi-O, and the third installment of the Heisei Generations Series.
 
@@ -139,8 +112,30 @@ An upcoming Kamen Rider Movie War (tenth overall) crossover film of Kamen Rider 
 	
 	
 
+### Thuppakki Munai
+*Released on 2018-12-14, vote average 1*
+
+Birla Bose, an encounter specialist&#39;s next assignment takes him to the holy city of Rameshwaram, where the greatest challenge of his career awaits for him.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/62yiqu4RS_A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Backtrace
-*Released on 2018-12-14, vote average 6.1*
+*Released on 2018-12-14, vote average 6.6*
 
 The lone surviving thief of a violent armored car robbery is sprung from a high security facility and administered an experimental drug.
 
@@ -167,31 +162,17 @@ The lone surviving thief of a violent armored car robbery is sprung from a high 
 
 	
 	
-	
 
-  
+### Holmes and Watson
+*Released on 2018-12-25, vote average 10*
 
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Welcome to Marwen
-*Released on 2018-12-21, vote average 10*
-
-When a devastating attack shatters Mark Hogancamp and wipes away all memories, no one expected recovery. Putting together pieces from his old and new life, Mark meticulously creates a wondrous town named Marwen where he can heal and be heroic. As he builds an astonishing art installation — a testament to the most powerful women he knows — through his fantasy world, he draws strength to triumph in the real one.
+Detective Sherlock Holmes and Dr. John Watson join forces to investigate a murder at Buckingham Palace. They soon learn that they have only four days to solve the case, or the queen will become the next victim.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/W6dy7xQ8NeE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/brjkpRBpFnc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -204,16 +185,16 @@ When a devastating attack shatters Mark Hogancamp and wipes away all memories, n
 	
 	
 
-### Between Worlds
+### Zero
 *Released on 2018-12-21, vote average 5*
 
-Joe—a down-on-his-luck truck driver haunted by the memory of his deceased wife and child—meets Julie, a spiritually gifted woman who enlists his help in a desperate effort to find the lost soul of her comatose daughter. But the spirit of Joe&#39;s dead wife proves stronger, possessing the young woman&#39;s body and determined to settle her unfinished business with the living.
+Bauua Singh is a vertically challenged man who is full of charm and wit, with a pinch of arrogance. Born to a wealthy family and raised in an environment of affluence and indulgence, Bauua was never failed by Meerut or its people. But when he meets two women, his experiences with these women take him on a journey to complete his &#39;incompleteness&#39; and broaden his horizons to find a purpose he never knew he had.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/WnKltEsRorg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/RF7DhGIQE1k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -229,55 +210,18 @@ Joe—a down-on-his-luck truck driver haunted by the memory of his deceased wife
 
 
 	
-
-  
-
-
 	
 
-  
+### On the Basis of Sex
+*Released on 2018-12-25, vote average 9*
 
-
-	
-
-  
-
-
-	
-	
-
-### The Mule
-*Released on 2018-12-14, vote average 6.6*
-
-A 90-year-old horticulturalist and Korean War veteran is caught transporting $3 million worth of cocaine through Illinois for a Mexican drug cartel.
+Young lawyer Ruth Bader Ginsburg teams with her husband Marty to bring a groundbreaking case before the U.S. Court of Appeals and overturn a century of gender discrimination.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/N_QksSzK7sI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### They Shall Not Grow Old
-*Released on 2018-12-17, vote average 8*
-
-A documentary about World War I with never-before-seen footage to commemorate the centennial of Armistice Day, and the end of the war.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/D6Do1p1CWyc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/28dHbIR_NB4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -296,21 +240,58 @@ A documentary about World War I with never-before-seen footage to commemorate th
 
 	
 	
+	
 
-### Milly &amp; Mamet
-*Released on 2018-12-20, vote average 8.5*
+  
 
-Milly and Mamet are busy taking care of their baby. One day, Mamet met Alexandra, a close friend at college, who now had investors to finance the restaurant ideas they had once wanted together.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Destroyer
+*Released on 2018-12-25, vote average 7.5*
+
+Erin Bell is an LAPD detective who, as a young cop, was placed undercover with a gang in the California desert with tragic results. When the leader of that gang re-emerges many years later, she must work her way back through the remaining members and into her own history with them to finally reckon with the demons that destroyed her past.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/oeSJPEsd4bM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/bqHaLUoiWZU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -322,6 +303,23 @@ Milly and Mamet are busy taking care of their baby. One day, Mamet met Alexandra
 
 	
 
+	
+	
+
+### Holmes and Watson
+*Released on 2018-12-25, vote average 10*
+
+Detective Sherlock Holmes and Dr. John Watson join forces to investigate a murder at Buckingham Palace. They soon learn that they have only four days to solve the case, or the queen will become the next victim.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/brjkpRBpFnc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -346,14 +344,10 @@ Young lawyer Ruth Bader Ginsburg teams with her husband Marty to bring a groundb
 	
 
 	
-
-	
-
-	
 	
 
 ### Destroyer
-*Released on 2018-12-25, vote average 7*
+*Released on 2018-12-25, vote average 7.5*
 
 Erin Bell is an LAPD detective who, as a young cop, was placed undercover with a gang in the California desert with tragic results. When the leader of that gang re-emerges many years later, she must work her way back through the remaining members and into her own history with them to finally reckon with the demons that destroyed her past.
 
@@ -389,11 +383,30 @@ Erin Bell is an LAPD detective who, as a young cop, was placed undercover with a
 	
 
 	
+	
+
+### The Bachelor 3
+*Released on 2018-12-25, vote average 10*
+
+Jimmy is getting married and he gathers his buddies for the legendary bachelor. All is surprisingly normal this time and the wedding day is here. But something will disturb this wedding.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Cot7kQR3KEc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
 	
+
 	
+
 	
 
 
