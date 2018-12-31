@@ -68,16 +68,38 @@ In Depression-era London, a now-grown Jane and Michael Banks, along with Michael
 	
 	
 
-### Stan &amp; Ollie
-*Released on 2018-12-28, vote average 10*
+### Black Mirror: Bandersnatch
+*Released on 2018-12-28, vote average 7.7*
 
-With their golden era long behind them, comedy duo Stan Laurel and Oliver Hardy embark on a variety hall tour of Britain and Ireland. Despite the pressures of a hectic schedule, and with the support of their wives Lucille and Ida – a formidable double act in their own right – the pair&#39;s love of performing, as well as for each other, endures as they secure their place in the hearts of their adoring public
+A young programmer makes a fantasy novel into a game. Soon, reality and virtual world are mixed and start to create confusion.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/MdcBNrjc3wo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/XM0xWpBYlNM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Silukkuvarupatti Singam
+*Released on 2018-12-21, vote average 1*
+
+A constable who prefers to mind his own business gets into a situation where he has to hide from a most-wanted gangster.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/OETXlAEerEo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,16 +134,38 @@ An upcoming Kamen Rider Movie War (tenth overall) crossover film of Kamen Rider 
 	
 	
 
-### Black Mirror: Bandersnatch
-*Released on 2018-12-28, vote average 7.9*
+### Milly &amp; Mamet
+*Released on 2018-12-20, vote average 8.3*
 
-A young programmer makes a fantasy novel into a game. Soon, reality and virtual world are mixed and start to create confusion.
+Milly and Mamet are busy taking care of their baby. One day, Mamet met Alexandra, a close friend at college, who now had investors to finance the restaurant ideas they had once wanted together.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/XM0xWpBYlNM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/oeSJPEsd4bM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Stan &amp; Ollie
+*Released on 2018-12-28, vote average 8.3*
+
+With their golden era long behind them, comedy duo Stan Laurel and Oliver Hardy embark on a variety hall tour of Britain and Ireland. Despite the pressures of a hectic schedule, and with the support of their wives Lucille and Ida – a formidable double act in their own right – the pair&#39;s love of performing, as well as for each other, endures as they secure their place in the hearts of their adoring public
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MdcBNrjc3wo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -135,7 +179,7 @@ A young programmer makes a fantasy novel into a game. Soon, reality and virtual 
 	
 
 ### Vice
-*Released on 2018-12-25, vote average 7.5*
+*Released on 2018-12-25, vote average 7.2*
 
 George W. Bush picks Dick Cheney, the CEO of Halliburton Co., to be his Republican running mate in the 2000 presidential election. No stranger to politics, Cheney&#39;s impressive résumé includes stints as White House chief of staff, House Minority Whip and defense secretary. When Bush wins by a narrow margin, Cheney begins to use his newfound power to help reshape the country and the world.
 
@@ -154,22 +198,10 @@ George W. Bush picks Dick Cheney, the CEO of Halliburton Co., to be his Republic
 
 
 	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
 	
 
 ### Holmes &amp; Watson
-*Released on 2018-12-25, vote average 3.8*
+*Released on 2018-12-25, vote average 4.3*
 
 Detective Sherlock Holmes and Dr. John Watson join forces to investigate a murder at Buckingham Palace. They soon learn that they have only four days to solve the case, or the queen will become the next victim.
 
@@ -208,52 +240,69 @@ Detective Sherlock Holmes and Dr. John Watson join forces to investigate a murde
 
 
 	
-
-  
-
-
 	
 
-  
+### Zero
+*Released on 2018-12-21, vote average 5.1*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Milly &amp; Mamet
-*Released on 2018-12-20, vote average 8.7*
-
-Milly and Mamet are busy taking care of their baby. One day, Mamet met Alexandra, a close friend at college, who now had investors to finance the restaurant ideas they had once wanted together.
+Short in stature but big on love, a bachelor meets two very different women who broaden his horizons and help him find purpose in life.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/oeSJPEsd4bM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/RF7DhGIQE1k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Ascharya Fuck It
+*Released on 2018-12-18, vote average 6*
+
+Desire and greed intertwines the lives of a Bollywood star, his chauffeur, a prostitute and her pimp in an unlikely love story.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ox-pGTiqsjo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
