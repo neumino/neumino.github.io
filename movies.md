@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Mary Poppins Returns
-*Released on 2018-12-19, vote average 7.1*
+*Released on 2018-12-19, vote average 7*
 
 In Depression-era London, a now-grown Jane and Michael Banks, along with Michael&#39;s three children, are visited by the enigmatic Mary Poppins following a personal loss. Through her unique magical skills, and with the aid of her friend Jack, she helps the family rediscover the joy and wonder missing in their lives.
 
@@ -47,7 +47,7 @@ In Depression-era London, a now-grown Jane and Michael Banks, along with Michael
 	
 
 ### T-34
-*Released on 2018-12-27, vote average 7*
+*Released on 2018-12-27, vote average 7.6*
 
 1941. WWii. the second lieutenant Nikolai ivushkin, commander of a t-34, engages in an unequal battle against the tank ace Klaus Jager in a battle near moscow. His mission is more of a suicide - to destroy a dozen german tanks, all by himself. that said, luck does favour the bold. He wins the battle, barely survives, but loses his tank and lands himself in captivity for three long years... there was little to no chance for ivushkin and Jager to meet again, but the war knows how to throw a curve ball.in the spring of 1944, the Wehrmacht commands Jager to take charge of the ohrdruf  re range and turn it into a training center for elite german armored forces, using the latest t-34 as a running target. this is how Jager and ivushkin cross paths again. Jager o ers ivushkin to become the commander of a legendary tank and pick his crew from fellow camp prisoners. Nothing goes according to plan, though, when ivushkin uses exercises for a daring and carefully planned escape.
 
@@ -155,43 +155,6 @@ Milly and Mamet are busy taking care of their baby. One day, Mamet met Alexandra
 
 	
 	
-
-### Stan &amp; Ollie
-*Released on 2018-12-28, vote average 8.3*
-
-With their golden era long behind them, comedy duo Stan Laurel and Oliver Hardy embark on a variety hall tour of Britain and Ireland. Despite the pressures of a hectic schedule, and with the support of their wives Lucille and Ida – a formidable double act in their own right – the pair&#39;s love of performing, as well as for each other, endures as they secure their place in the hearts of their adoring public
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MdcBNrjc3wo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Vice
-*Released on 2018-12-25, vote average 7.2*
-
-George W. Bush picks Dick Cheney, the CEO of Halliburton Co., to be his Republican running mate in the 2000 presidential election. No stranger to politics, Cheney&#39;s impressive résumé includes stints as White House chief of staff, House Minority Whip and defense secretary. When Bush wins by a narrow margin, Cheney begins to use his newfound power to help reshape the country and the world.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/g09a9laLh0k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -201,7 +164,7 @@ George W. Bush picks Dick Cheney, the CEO of Halliburton Co., to be his Republic
 	
 
 ### Holmes &amp; Watson
-*Released on 2018-12-25, vote average 4.3*
+*Released on 2018-12-25, vote average 4*
 
 Detective Sherlock Holmes and Dr. John Watson join forces to investigate a murder at Buckingham Palace. They soon learn that they have only four days to solve the case, or the queen will become the next victim.
 
@@ -230,28 +193,18 @@ Detective Sherlock Holmes and Dr. John Watson join forces to investigate a murde
 
 
 	
-
-  
-
-
 	
 
-  
+### Vice
+*Released on 2018-12-25, vote average 7.4*
 
-
-	
-	
-
-### Zero
-*Released on 2018-12-21, vote average 5.1*
-
-Short in stature but big on love, a bachelor meets two very different women who broaden his horizons and help him find purpose in life.
+George W. Bush picks Dick Cheney, the CEO of Halliburton Co., to be his Republican running mate in the 2000 presidential election. No stranger to politics, Cheney&#39;s impressive résumé includes stints as White House chief of staff, House Minority Whip and defense secretary. When Bush wins by a narrow margin, Cheney begins to use his newfound power to help reshape the country and the world.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/RF7DhGIQE1k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/g09a9laLh0k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -277,22 +230,37 @@ Short in stature but big on love, a bachelor meets two very different women who 
 
 
 	
+
+  
+
+
 	
 
-### Ascharya Fuck It
-*Released on 2018-12-18, vote average 6*
+  
 
-Desire and greed intertwines the lives of a Bollywood star, his chauffeur, a prostitute and her pimp in an unlikely love story.
+
+	
+	
+
+### Taylor Swift: Reputation Stadium Tour
+*Released on 2018-12-31, vote average 9.9*
+
+Taylor Swift takes the stage in Dallas for the Reputation Stadium Tour and celebrates a monumental night of music, memories and visual magic.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ox-pGTiqsjo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/HIb_TlK2HAI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -312,6 +280,23 @@ Desire and greed intertwines the lives of a Bollywood star, his chauffeur, a pro
 ## Opening soon
 
 
+	
+	
+
+### How to Train Your Dragon: The Hidden World
+*Released on 2019-01-03, vote average 10*
+
+As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away.  When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/7Pbk02GqixU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
