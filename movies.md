@@ -74,7 +74,7 @@ In 1984, a young programmer begins to question reality as he adapts a dark fanta
 	
 
 ### Rust Creek
-*Released on 2019-01-04, vote average 5.3*
+*Released on 2019-01-04, vote average 5.8*
 
 When an overachieving college senior makes a wrong turn, her road trip becomes a life-changing fight for survival in rural Kentucky.
 
@@ -87,6 +87,33 @@ When an overachieving college senior makes a wrong turn, her road trip becomes a
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Vice
+*Released on 2018-12-25, vote average 7.1*
+
+George W. Bush picks Dick Cheney, the CEO of Halliburton Co., to be his Republican running mate in the 2000 presidential election. No stranger to politics, Cheney&#39;s impressive résumé includes stints as White House chief of staff, House Minority Whip and defense secretary. When Bush wins by a narrow margin, Cheney begins to use his newfound power to help reshape the country and the world.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/g09a9laLh0k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -118,7 +145,7 @@ As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ 
 	
 
 ### Escape Room
-*Released on 2019-01-03, vote average 7.9*
+*Released on 2019-01-03, vote average 7.6*
 
 Six strangers find themselves in circumstances beyond their control, and must use their wits to survive.
 
@@ -159,6 +186,16 @@ Taylor Swift takes the stage in Dallas for the Reputation Stadium Tour and celeb
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### State Like Sleep
@@ -175,90 +212,6 @@ Following the death of her husband, Katherine travels to Brussels, where a few l
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### Vice
-*Released on 2018-12-25, vote average 7.1*
-
-George W. Bush picks Dick Cheney, the CEO of Halliburton Co., to be his Republican running mate in the 2000 presidential election. No stranger to politics, Cheney&#39;s impressive résumé includes stints as White House chief of staff, House Minority Whip and defense secretary. When Bush wins by a narrow margin, Cheney begins to use his newfound power to help reshape the country and the world.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/g09a9laLh0k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Keluarga Cemara
-*Released on 2019-01-03, vote average 8.5*
-
-Tells about Abah and Emak who have to face problems. Then their two children, Euis and Ara must face the new situation that befell their family. Euis who had to change schools and adapt to her new friends, and Abah who had to change jobs. A simple family story full of warmth and affection.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/sGaeDzD_3o0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -287,6 +240,53 @@ Detective Sherlock Holmes and Dr. John Watson join forces to investigate a murde
 
 
 	
+	
+
+### On the Basis of Sex
+*Released on 2018-12-25, vote average 7.4*
+
+Young lawyer Ruth Bader Ginsburg teams with her husband Marty to bring a groundbreaking case before the U.S. Court of Appeals and overturn a century of gender discrimination.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/28dHbIR_NB4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 
   
 
@@ -299,7 +299,7 @@ Detective Sherlock Holmes and Dr. John Watson join forces to investigate a murde
 	
 
 ### Look Away
-*Released on 2019-01-10, vote average 5*
+*Released on 2019-01-10, vote average 6.3*
 
 A timid and reclusive 18-year-old high school student is alienated by her parents and ruthlessly rejected by her peers. Desperate and isolated, she confides in her own reflection — and in the mirror she finds her imagined evil twin, someone who supports her, encourages her and knows all her secret desires. When the “girls” trade places, repressed sexuality and a ferocious violence erupt with a dangerous sense of freedom.
 
