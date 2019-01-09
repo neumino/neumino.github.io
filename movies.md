@@ -10,6 +10,8 @@ This is a convenient page that embeds trailers of movies released in the past
 
 
 	
+	
+	
 
   
 <br/>
@@ -30,7 +32,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### T-34
-*Released on 2018-12-27, vote average 4.7*
+*Released on 2018-12-27, vote average 4.8*
 
 1941 - WWii. the second lieutenant Nikolai ivushkin, commander of a t-34, engages in an unequal battle against the tank ace Klaus Jager in a battle near moscow. His mission is more of a suicide - to destroy a dozen german tanks, all by himself. that said, luck does favour the bold. He wins the battle, barely survives, but loses his tank and lands himself in captivity for three long years... there was little to no chance for ivushkin and Jager to meet again, but the war knows how to throw a curve ball.in the spring of 1944, the Wehrmacht commands Jager to take charge of the ohrdruf  re range and turn it into a training center for elite german armored forces, using the latest t-34 as a running target. this is how Jager and ivushkin cross paths again. Jager o ers ivushkin to become the commander of a legendary tank and pick his crew from fellow camp prisoners. Nothing goes according to plan, though, when ivushkin uses exercises for a daring and carefully planned escape.
 
@@ -71,10 +73,15 @@ In 1984, a young programmer begins to question reality as he adapts a dark fanta
 
 
 	
+
+  
+
+
+	
 	
 
 ### Rust Creek
-*Released on 2019-01-04, vote average 5.8*
+*Released on 2019-01-04, vote average 6.1*
 
 When an overachieving college senior makes a wrong turn, her road trip becomes a life-changing fight for survival in rural Kentucky.
 
@@ -87,33 +94,6 @@ When an overachieving college senior makes a wrong turn, her road trip becomes a
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### Vice
-*Released on 2018-12-25, vote average 7.1*
-
-George W. Bush picks Dick Cheney, the CEO of Halliburton Co., to be his Republican running mate in the 2000 presidential election. No stranger to politics, Cheney&#39;s impressive résumé includes stints as White House chief of staff, House Minority Whip and defense secretary. When Bush wins by a narrow margin, Cheney begins to use his newfound power to help reshape the country and the world.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/g09a9laLh0k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -164,6 +144,38 @@ Six strangers find themselves in circumstances beyond their control, and must us
 
 
 	
+
+  
+
+
+	
+	
+
+### Brexit: The Uncivil War
+*Released on 2019-01-07, vote average 8.5*
+
+Strategist Dominic Cummings leads a campaign to convince British voters to leave the European Union.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/E5S1EMmCWAE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### Taylor Swift: Reputation Stadium Tour
@@ -196,6 +208,16 @@ Taylor Swift takes the stage in Dallas for the Reputation Stadium Tour and celeb
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### State Like Sleep
@@ -212,60 +234,6 @@ Following the death of her husband, Katherine travels to Brussels, where a few l
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### Holmes &amp; Watson
-*Released on 2018-12-25, vote average 3.9*
-
-Detective Sherlock Holmes and Dr. John Watson join forces to investigate a murder at Buckingham Palace. They soon learn that they have only four days to solve the case, or the queen will become the next victim.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/brjkpRBpFnc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### On the Basis of Sex
-*Released on 2018-12-25, vote average 7.4*
-
-Young lawyer Ruth Bader Ginsburg teams with her husband Marty to bring a groundbreaking case before the U.S. Court of Appeals and overturn a century of gender discrimination.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/28dHbIR_NB4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
