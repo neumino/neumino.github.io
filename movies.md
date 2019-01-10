@@ -32,7 +32,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### T-34
-*Released on 2018-12-27, vote average 4.8*
+*Released on 2018-12-27, vote average 4.9*
 
 1941 - WWii. the second lieutenant Nikolai ivushkin, commander of a t-34, engages in an unequal battle against the tank ace Klaus Jager in a battle near moscow. His mission is more of a suicide - to destroy a dozen german tanks, all by himself. that said, luck does favour the bold. He wins the battle, barely survives, but loses his tank and lands himself in captivity for three long years... there was little to no chance for ivushkin and Jager to meet again, but the war knows how to throw a curve ball.in the spring of 1944, the Wehrmacht commands Jager to take charge of the ohrdruf  re range and turn it into a training center for elite german armored forces, using the latest t-34 as a running target. this is how Jager and ivushkin cross paths again. Jager o ers ivushkin to become the commander of a legendary tank and pick his crew from fellow camp prisoners. Nothing goes according to plan, though, when ivushkin uses exercises for a daring and carefully planned escape.
 
@@ -73,6 +73,55 @@ In 1984, a young programmer begins to question reality as he adapts a dark fanta
 
 
 	
+	
+
+### Look Away
+*Released on 2019-01-10, vote average 5.3*
+
+A timid and reclusive 18-year-old high school student is alienated by her parents and ruthlessly rejected by her peers. Desperate and isolated, she confides in her own reflection — and in the mirror she finds her imagined evil twin, someone who supports her, encourages her and knows all her secret desires. When the “girls” trade places, repressed sexuality and a ferocious violence erupt with a dangerous sense of freedom.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wuLJHROphdM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Brexit: The Uncivil War
+*Released on 2019-01-07, vote average 8.5*
+
+Strategist Dominic Cummings leads a campaign to convince British voters to leave the European Union.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/E5S1EMmCWAE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 
   
 
@@ -100,22 +149,15 @@ When an overachieving college senior makes a wrong turn, her road trip becomes a
 
 
 	
-	
 
-### How to Train Your Dragon: The Hidden World
-*Released on 2019-01-03, vote average 7.5*
+  
 
-As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away.  When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/7Pbk02GqixU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
 	
 
   
@@ -151,16 +193,16 @@ Six strangers find themselves in circumstances beyond their control, and must us
 	
 	
 
-### Brexit: The Uncivil War
-*Released on 2019-01-07, vote average 8.5*
+### How to Train Your Dragon: The Hidden World
+*Released on 2019-01-03, vote average 7.8*
 
-Strategist Dominic Cummings leads a campaign to convince British voters to leave the European Union.
+As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away.  When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/E5S1EMmCWAE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/7Pbk02GqixU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -175,65 +217,6 @@ Strategist Dominic Cummings leads a campaign to convince British voters to leave
   
 
 
-	
-	
-
-### Taylor Swift: Reputation Stadium Tour
-*Released on 2018-12-31, vote average 8.8*
-
-Taylor Swift takes the stage in Dallas for the Reputation Stadium Tour and celebrates a monumental night of music, memories and visual magic.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/HIb_TlK2HAI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### State Like Sleep
-*Released on 2019-01-04, vote average 5.5*
-
-Following the death of her husband, Katherine travels to Brussels, where a few loose ends become a whole web of secrets as she untangles her late spouse’s mysterious last days alive.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wRWZYDVdgyw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -267,7 +250,7 @@ Following the death of her husband, Katherine travels to Brussels, where a few l
 	
 
 ### Look Away
-*Released on 2019-01-10, vote average 6.3*
+*Released on 2019-01-10, vote average 5.3*
 
 A timid and reclusive 18-year-old high school student is alienated by her parents and ruthlessly rejected by her peers. Desperate and isolated, she confides in her own reflection — and in the mirror she finds her imagined evil twin, someone who supports her, encourages her and knows all her secret desires. When the “girls” trade places, repressed sexuality and a ferocious violence erupt with a dangerous sense of freedom.
 
@@ -276,6 +259,29 @@ A timid and reclusive 18-year-old high school student is alienated by her parent
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/wuLJHROphdM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+	
+
+### Fate/stay night: Heaven’s Feel II. lost butterfly
+*Released on 2019-01-12, vote average 6*
+
+Theatrical-release adaptation of the visual novel &#34;Fate/stay night&#34;, following the third and final route. (Part 2 of a trilogy.)
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/XD8h_UelYaU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -297,11 +303,7 @@ A timid and reclusive 18-year-old high school student is alienated by her parent
 	
 
 	
-
 	
-
-	
-
 	
 
 	
