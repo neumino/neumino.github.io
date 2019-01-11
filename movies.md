@@ -31,30 +31,8 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### T-34
-*Released on 2018-12-27, vote average 4.9*
-
-1941 - WWii. the second lieutenant Nikolai ivushkin, commander of a t-34, engages in an unequal battle against the tank ace Klaus Jager in a battle near moscow. His mission is more of a suicide - to destroy a dozen german tanks, all by himself. that said, luck does favour the bold. He wins the battle, barely survives, but loses his tank and lands himself in captivity for three long years... there was little to no chance for ivushkin and Jager to meet again, but the war knows how to throw a curve ball.in the spring of 1944, the Wehrmacht commands Jager to take charge of the ohrdruf  re range and turn it into a training center for elite german armored forces, using the latest t-34 as a running target. this is how Jager and ivushkin cross paths again. Jager o ers ivushkin to become the commander of a legendary tank and pick his crew from fellow camp prisoners. Nothing goes according to plan, though, when ivushkin uses exercises for a daring and carefully planned escape.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Qm_5TYbxgpc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Black Mirror: Bandersnatch
-*Released on 2018-12-28, vote average 7.4*
+*Released on 2018-12-28, vote average 7.3*
 
 In 1984, a young programmer begins to question reality as he adapts a dark fantasy novel into a video game. A mind-bending tale with multiple endings.
 
@@ -73,22 +51,10 @@ In 1984, a young programmer begins to question reality as he adapts a dark fanta
 
 
 	
-	
 
-### Look Away
-*Released on 2019-01-10, vote average 5.3*
+  
 
-A timid and reclusive 18-year-old high school student is alienated by her parents and ruthlessly rejected by her peers. Desperate and isolated, she confides in her own reflection — and in the mirror she finds her imagined evil twin, someone who supports her, encourages her and knows all her secret desires. When the “girls” trade places, repressed sexuality and a ferocious violence erupt with a dangerous sense of freedom.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wuLJHROphdM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -98,7 +64,7 @@ A timid and reclusive 18-year-old high school student is alienated by her parent
 	
 
 ### Brexit: The Uncivil War
-*Released on 2019-01-07, vote average 8.5*
+*Released on 2019-01-07, vote average 8.3*
 
 Strategist Dominic Cummings leads a campaign to convince British voters to leave the European Union.
 
@@ -122,6 +88,50 @@ Strategist Dominic Cummings leads a campaign to convince British voters to leave
 
 
 	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### N.T.R. Kathanayakudu
+*Released on 2019-01-09, vote average 7*
+
+Based on the journey of the legendary Telugu actor, filmmaker and ex-Chief Minister Late Taraka Rama Rao Nandamuri.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/1-2J7avI9W8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -130,7 +140,7 @@ Strategist Dominic Cummings leads a campaign to convince British voters to leave
 	
 
 ### Rust Creek
-*Released on 2019-01-04, vote average 6.1*
+*Released on 2019-01-04, vote average 5.6*
 
 When an overachieving college senior makes a wrong turn, her road trip becomes a life-changing fight for survival in rural Kentucky.
 
@@ -143,11 +153,6 @@ When an overachieving college senior makes a wrong turn, her road trip becomes a
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -186,6 +191,8 @@ Six strangers find themselves in circumstances beyond their control, and must us
 
 
 	
+	
+	
 
   
 
@@ -222,52 +229,9 @@ As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ 
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
-
-	
-	
-
-### Look Away
-*Released on 2019-01-10, vote average 5.3*
-
-A timid and reclusive 18-year-old high school student is alienated by her parents and ruthlessly rejected by her peers. Desperate and isolated, she confides in her own reflection — and in the mirror she finds her imagined evil twin, someone who supports her, encourages her and knows all her secret desires. When the “girls” trade places, repressed sexuality and a ferocious violence erupt with a dangerous sense of freedom.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wuLJHROphdM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
 
 	
 	
@@ -303,8 +267,6 @@ Theatrical-release adaptation of the visual novel &#34;Fate/stay night&#34;, fol
 	
 
 	
-	
-	
 
 	
 
@@ -314,6 +276,29 @@ Theatrical-release adaptation of the visual novel &#34;Fate/stay night&#34;, fol
 
 	
 
+	
+
+	
+
+	
+
+	
+	
+
+### Reign of the Supermen
+*Released on 2019-01-13, vote average 6*
+
+In the wake of The Death of Superman, the world is still mourning the loss of the Man of Steel following his fatal battle with the monster Doomsday. However, no sooner as his body been laid to rest than do four new bearers of the Superman shield come forward to take on the mantle. The Last Son of Krypton, Superboy, Steel, and the Cyborg Superman all attempt to fill the vacuum left by the world&#39;s greatest champion. Meanwhile, Superman&#39;s death has also signaled to the universe that Earth is vulnerable. Can these new Supermen and the rest of the heroes prove them wrong?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jMdcSTVPOFw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
