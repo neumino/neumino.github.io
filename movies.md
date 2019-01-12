@@ -31,16 +31,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Black Mirror: Bandersnatch
-*Released on 2018-12-28, vote average 7.3*
+### Fate/stay night: Heaven’s Feel II. lost butterfly
+*Released on 2019-01-12, vote average 6*
 
-In 1984, a young programmer begins to question reality as he adapts a dark fantasy novel into a video game. A mind-bending tale with multiple endings.
+Theatrical-release adaptation of the visual novel &#34;Fate/stay night&#34;, following the third and final route. (Part 2 of a trilogy.)
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/XM0xWpBYlNM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/XD8h_UelYaU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -55,6 +55,23 @@ In 1984, a young programmer begins to question reality as he adapts a dark fanta
   
 
 
+	
+	
+
+### A Dog&#39;s Way Home
+*Released on 2019-01-10, vote average 6*
+
+A dog travels 400 miles in search of her owner.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/1pKdCHvH310?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -83,50 +100,18 @@ Strategist Dominic Cummings leads a campaign to convince British voters to leave
 
 
 	
-
-  
-
-
-	
-	
 	
 
-  
+### How to Train Your Dragon: The Hidden World
+*Released on 2019-01-03, vote average 8.4*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### N.T.R. Kathanayakudu
-*Released on 2019-01-09, vote average 7*
-
-Based on the journey of the legendary Telugu actor, filmmaker and ex-Chief Minister Late Taraka Rama Rao Nandamuri.
+As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away.  When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/1-2J7avI9W8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/7Pbk02GqixU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -137,10 +122,42 @@ Based on the journey of the legendary Telugu actor, filmmaker and ex-Chief Minis
 
 
 	
+
+  
+
+
+	
+	
+
+### Viswasam
+*Released on 2019-01-10, vote average 6*
+
+A village ruffian, who settles disputes in his native, takes on a big shot when he tries to sort out the rough patch in his marriage after several years.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/TiDyv53adt0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### Rust Creek
-*Released on 2019-01-04, vote average 5.6*
+*Released on 2019-01-04, vote average 5.3*
 
 When an overachieving college senior makes a wrong turn, her road trip becomes a life-changing fight for survival in rural Kentucky.
 
@@ -164,23 +181,18 @@ When an overachieving college senior makes a wrong turn, her road trip becomes a
 
 
 	
-
-  
-
-
-	
 	
 
-### Escape Room
-*Released on 2019-01-03, vote average 7.6*
+### Uri: The Surgical Strike
+*Released on 2019-01-11, vote average 6*
 
-Six strangers find themselves in circumstances beyond their control, and must use their wits to survive.
+Following the roguish terrorist attacks at Uri Army Base camp in Kashmir, India takes the fight to the enemy, in its most successful covert operation till date with one and only one objective of avenging their fallen heroes.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/6dSKUoV0SNI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/aXYPUqFL9ZU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -191,7 +203,27 @@ Six strangers find themselves in circumstances beyond their control, and must us
 
 
 	
+
+  
+
+
 	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -200,16 +232,16 @@ Six strangers find themselves in circumstances beyond their control, and must us
 	
 	
 
-### How to Train Your Dragon: The Hidden World
-*Released on 2019-01-03, vote average 7.8*
+### Petta
+*Released on 2019-01-10, vote average 6.8*
 
-As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away.  When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.
+A hostel warden becomes the target of a dreaded politician and his gangster son, but little do they realise that it is they who should fear him.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/7Pbk02GqixU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/bbMLUadeMnA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -259,30 +291,6 @@ Theatrical-release adaptation of the visual novel &#34;Fate/stay night&#34;, fol
 	
 
 	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
 	
 
 ### Reign of the Supermen
@@ -299,6 +307,30 @@ In the wake of The Death of Superman, the world is still mourning the loss of th
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
