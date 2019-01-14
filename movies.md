@@ -11,6 +11,21 @@ This is a convenient page that embeds trailers of movies released in the past
 
 	
 	
+
+### Fate/stay night: Heaven’s Feel II. lost butterfly
+*Released on 2019-01-12, vote average 6*
+
+Theatrical-release adaptation of the visual novel &#34;Fate/stay night&#34;, following the third and final route. (Part 2 of a trilogy.)
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/XD8h_UelYaU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -30,17 +45,46 @@ This is a convenient page that embeds trailers of movies released in the past
 
 	
 	
+	
 
-### Fate/stay night: Heaven’s Feel II. lost butterfly
-*Released on 2019-01-12, vote average 6*
+  
 
-Theatrical-release adaptation of the visual novel &#34;Fate/stay night&#34;, following the third and final route. (Part 2 of a trilogy.)
+
+	
+	
+
+### The Last Laugh
+*Released on 2019-01-11, vote average 6*
+
+After moving to a retirement home, restless talent manager Al reconnects with long-ago client Buddy and coaxes him back out on the comedy circuit.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/XD8h_UelYaU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/he3DPldzW8I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Reign of the Supermen
+*Released on 2019-01-13, vote average 8*
+
+In the wake of The Death of Superman, the world is still mourning the loss of the Man of Steel following his fatal battle with the monster Doomsday. However, no sooner as his body been laid to rest than do four new bearers of the Superman shield come forward to take on the mantle. The Last Son of Krypton, Superboy, Steel, and the Cyborg Superman all attempt to fill the vacuum left by the world&#39;s greatest champion. Meanwhile, Superman&#39;s death has also signaled to the universe that Earth is vulnerable. Can these new Supermen and the rest of the heroes prove them wrong?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jMdcSTVPOFw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -54,7 +98,7 @@ Theatrical-release adaptation of the visual novel &#34;Fate/stay night&#34;, fol
 	
 
 ### How to Train Your Dragon: The Hidden World
-*Released on 2019-01-03, vote average 8.4*
+*Released on 2019-01-03, vote average 8.1*
 
 As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away.  When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.
 
@@ -78,7 +122,7 @@ As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ 
 ### The Upside
 *Released on 2019-01-10, vote average 7.7*
 
-A comedic look at the relationship between a wealthy paraplegic and a unemployed man with a criminal record who is hired to help him.
+Phillip is a wealthy quadriplegic who needs a caretaker to help him with his day-to-day routine in his New York penthouse. He decides to hire Dell, a struggling parolee who&#39;s trying to reconnect with his ex and his young son. Despite coming from two different worlds, an unlikely friendship starts to blossom.
 
 <iframe id="player"
 	type="text/html"
@@ -95,18 +139,38 @@ A comedic look at the relationship between a wealthy paraplegic and a unemployed
 
 
 	
+
+  
+
+
 	
 
-### The Last Laugh
-*Released on 2019-01-11, vote average 5.9*
+  
 
-After moving to a retirement home, restless talent manager Al reconnects with long-ago client Buddy and coaxes him back out on the comedy circuit.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Escape Room
+*Released on 2019-01-03, vote average 7.3*
+
+Six strangers find themselves in circumstances beyond their control, and must use their wits to survive.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/he3DPldzW8I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/6dSKUoV0SNI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -121,6 +185,50 @@ After moving to a retirement home, restless talent manager Al reconnects with lo
   
 
 
+	
+	
+
+### The Aspern Papers
+*Released on 2019-01-11, vote average 6*
+
+A young writer tries to obtain romance letters a poet sent to his mistress.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/F2T4dyEeo6M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### A Dog&#39;s Way Home
+*Released on 2019-01-10, vote average 6.1*
+
+A dog travels 400 miles in search of her owner.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/1pKdCHvH310?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -154,18 +262,23 @@ Following the roguish terrorist attacks at Uri Army Base camp in Kashmir, India 
 
 
 	
+
+  
+
+
+	
 	
 
-### A Dog&#39;s Way Home
-*Released on 2019-01-10, vote average 7.3*
+### Anthem of a Teenage Prophet
+*Released on 2018-12-31, vote average 3.5*
 
-A dog travels 400 miles in search of her owner.
+Based on the award-winning novel, a teenager’s gift of premonition becomes a curse when after predicting the death of one of his friends, Luke Hunter is dubbed the ‘prophet of death’ by a local news reporter. A media madhouse infiltrates Luke’s life, everyone in his Michigan hometown desperate to know more. Luke holds everyone at arm’s length – the relentless news crew, his mother and father, even Faith, the girl he has secretly loved for as long as he can remember – telling no one that the premonitions keep happening. Troubled and confused, Luke must make sense of his newfound abilities in this fast moving tale of struggling youth.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/1pKdCHvH310?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/N_kLYgcBZKQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -175,102 +288,6 @@ A dog travels 400 miles in search of her owner.
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Brexit: The Uncivil War
-*Released on 2019-01-07, vote average 9.1*
-
-Political strategist Dominic Cummings leads a popular but controversial campaign to convince British voters to leave the European Union from 2015 up until the present day.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/E5S1EMmCWAE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Reign of the Supermen
-*Released on 2019-01-13, vote average 8*
-
-In the wake of The Death of Superman, the world is still mourning the loss of the Man of Steel following his fatal battle with the monster Doomsday. However, no sooner as his body been laid to rest than do four new bearers of the Superman shield come forward to take on the mantle. The Last Son of Krypton, Superboy, Steel, and the Cyborg Superman all attempt to fill the vacuum left by the world&#39;s greatest champion. Meanwhile, Superman&#39;s death has also signaled to the universe that Earth is vulnerable. Can these new Supermen and the rest of the heroes prove them wrong?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jMdcSTVPOFw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Escape Room
-*Released on 2019-01-03, vote average 7.4*
-
-Six strangers find themselves in circumstances beyond their control, and must use their wits to survive.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/6dSKUoV0SNI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -282,23 +299,6 @@ Six strangers find themselves in circumstances beyond their control, and must us
 
 	
 
-	
-	
-
-### Reign of the Supermen
-*Released on 2019-01-13, vote average 8*
-
-In the wake of The Death of Superman, the world is still mourning the loss of the Man of Steel following his fatal battle with the monster Doomsday. However, no sooner as his body been laid to rest than do four new bearers of the Superman shield come forward to take on the mantle. The Last Son of Krypton, Superboy, Steel, and the Cyborg Superman all attempt to fill the vacuum left by the world&#39;s greatest champion. Meanwhile, Superman&#39;s death has also signaled to the universe that Earth is vulnerable. Can these new Supermen and the rest of the heroes prove them wrong?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jMdcSTVPOFw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
