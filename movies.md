@@ -45,16 +45,9 @@ Theatrical-release adaptation of the visual novel &#34;Fate/stay night&#34;, fol
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### The Last Laugh
-*Released on 2019-01-11, vote average 6*
+*Released on 2019-01-11, vote average 5.9*
 
 After moving to a retirement home, restless talent manager Al reconnects with long-ago client Buddy and coaxes him back out on the comedy circuit.
 
@@ -76,7 +69,7 @@ After moving to a retirement home, restless talent manager Al reconnects with lo
 	
 
 ### Reign of the Supermen
-*Released on 2019-01-13, vote average 8*
+*Released on 2019-01-13, vote average 7*
 
 In the wake of The Death of Superman, the world is still mourning the loss of the Man of Steel following his fatal battle with the monster Doomsday. However, no sooner as his body been laid to rest than do four new bearers of the Superman shield come forward to take on the mantle. The Last Son of Krypton, Superboy, Steel, and the Cyborg Superman all attempt to fill the vacuum left by the world&#39;s greatest champion. Meanwhile, Superman&#39;s death has also signaled to the universe that Earth is vulnerable. Can these new Supermen and the rest of the heroes prove them wrong?
 
@@ -120,7 +113,7 @@ As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ 
 	
 
 ### The Upside
-*Released on 2019-01-10, vote average 7.7*
+*Released on 2019-01-10, vote average 7.9*
 
 Phillip is a wealthy quadriplegic who needs a caretaker to help him with his day-to-day routine in his New York penthouse. He decides to hire Dell, a struggling parolee who&#39;s trying to reconnect with his ex and his young son. Despite coming from two different worlds, an unlikely friendship starts to blossom.
 
@@ -144,25 +137,10 @@ Phillip is a wealthy quadriplegic who needs a caretaker to help him with his day
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### Escape Room
-*Released on 2019-01-03, vote average 7.3*
+*Released on 2019-01-03, vote average 7.4*
 
 Six strangers find themselves in circumstances beyond their control, and must use their wits to survive.
 
@@ -181,6 +159,28 @@ Six strangers find themselves in circumstances beyond their control, and must us
 
 
 	
+	
+
+### One Winter Proposal
+*Released on 2019-01-12, vote average 6*
+
+Cara and Ben return to the resort where they fell in love a year earlier. They invite her friend Megan, hoping she&#39;ll reconnect with Ben&#39;s friend Sean, now the resort&#39;s doctor. During the trip Cara finds a jewelry receipt, leading her to expect a proposal from Ben, but a misunderstanding may ice his plan.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/tf7lBZ5iIf0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 
   
 
@@ -189,7 +189,7 @@ Six strangers find themselves in circumstances beyond their control, and must us
 	
 
 ### The Aspern Papers
-*Released on 2019-01-11, vote average 6*
+*Released on 2019-01-11, vote average 5.5*
 
 A young writer tries to obtain romance letters a poet sent to his mistress.
 
@@ -208,15 +208,10 @@ A young writer tries to obtain romance letters a poet sent to his mistress.
 
 
 	
-
-  
-
-
-	
 	
 
 ### A Dog&#39;s Way Home
-*Released on 2019-01-10, vote average 6.1*
+*Released on 2019-01-10, vote average 5.9*
 
 A dog travels 400 miles in search of her owner.
 
@@ -225,6 +220,92 @@ A dog travels 400 miles in search of her owner.
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/1pKdCHvH310?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Rust Creek
+*Released on 2019-01-04, vote average 5.3*
+
+When an overachieving college senior makes a wrong turn, her road trip becomes a life-changing fight for survival in rural Kentucky.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5sLIwhkWS3c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### American Hangman
+*Released on 2019-01-04, vote average 7*
+
+An unidentified man posts a live feed on social media showing that he has kidnapped two strangers and intends to kill one before the day is out. His intention is to hold a capital &#39;trial&#39; online. As the authorities recognize what&#39;s happening, it becomes apparent that the online public is going to act as judge and jury.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/WrpFKTvS1-I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Legend of Secret Pass
+*Released on 2019-01-15, vote average 4*
+
+A Native American teenager named Manu spends the summer with his grandfather high in the desert mountains. As a terrifying doom approaches, Manu must embrace his remarkable destiny and take on an incredible responsibility if he and his family are to thrive and survive.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/SPUJy2DYRZw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -257,37 +338,22 @@ Following the roguish terrorist attacks at Uri Army Base camp in Kashmir, India 
 
 
 	
-
-  
-
-
 	
 
-  
+### Brexit: The Uncivil War
+*Released on 2019-01-07, vote average 9.1*
 
-
-	
-	
-
-### Anthem of a Teenage Prophet
-*Released on 2018-12-31, vote average 3.5*
-
-Based on the award-winning novel, a teenager’s gift of premonition becomes a curse when after predicting the death of one of his friends, Luke Hunter is dubbed the ‘prophet of death’ by a local news reporter. A media madhouse infiltrates Luke’s life, everyone in his Michigan hometown desperate to know more. Luke holds everyone at arm’s length – the relentless news crew, his mother and father, even Faith, the girl he has secretly loved for as long as he can remember – telling no one that the premonitions keep happening. Troubled and confused, Luke must make sense of his newfound abilities in this fast moving tale of struggling youth.
+Political strategist Dominic Cummings leads a popular but controversial campaign to convince British voters to leave the European Union from 2015 up until the present day.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/N_kLYgcBZKQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/E5S1EMmCWAE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -298,7 +364,43 @@ Based on the award-winning novel, a teenager’s gift of premonition becomes a c
 
 
 	
+	
 
+### Glass
+*Released on 2019-01-16, vote average 5*
+
+Following the conclusion of Split, Glass finds David Dunn pursuing Kevin Wendell Crumb’s superhuman figure of The Beast in a series of escalating encounters, while the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/95ghQs5AmNk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+	
+
+### The Legend of Secret Pass
+*Released on 2019-01-15, vote average 4*
+
+A Native American teenager named Manu spends the summer with his grandfather high in the desert mountains. As a terrifying doom approaches, Manu must embrace his remarkable destiny and take on an incredible responsibility if he and his family are to thrive and survive.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/SPUJy2DYRZw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -324,7 +426,7 @@ Based on the award-winning novel, a teenager’s gift of premonition becomes a c
 	
 
 	
-
+	
 	
 
 	
