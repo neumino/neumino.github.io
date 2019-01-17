@@ -69,7 +69,7 @@ In the wake of The Death of Superman, the world is still mourning the loss of th
 	
 
 ### Glass
-*Released on 2019-01-16, vote average 4.5*
+*Released on 2019-01-16, vote average 6.3*
 
 Following the conclusion of Split, Glass finds David Dunn pursuing Kevin Wendell Crumb’s superhuman figure of The Beast in a series of escalating encounters, while the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.
 
@@ -91,7 +91,7 @@ Following the conclusion of Split, Glass finds David Dunn pursuing Kevin Wendell
 	
 
 ### How to Train Your Dragon: The Hidden World
-*Released on 2019-01-03, vote average 8.2*
+*Released on 2019-01-03, vote average 8.3*
 
 As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away.  When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.
 
@@ -100,50 +100,6 @@ As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/7Pbk02GqixU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Last Laugh
-*Released on 2019-01-11, vote average 5.9*
-
-After moving to a retirement home, restless talent manager Al reconnects with long-ago client Buddy and coaxes him back out on the comedy circuit.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/he3DPldzW8I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Upside
-*Released on 2019-01-10, vote average 7.9*
-
-Phillip is a wealthy quadriplegic who needs a caretaker to help him with his day-to-day routine in his New York penthouse. He decides to hire Dell, a struggling parolee who&#39;s trying to reconnect with his ex and his young son. Despite coming from two different worlds, an unlikely friendship starts to blossom.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EWw7rCHcduQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -176,42 +132,86 @@ A Native American teenager named Manu spends the summer with his grandfather hig
 
 
 	
-
-  
-
-
 	
 
-  
+### The Upside
+*Released on 2019-01-10, vote average 7.8*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Rust Creek
-*Released on 2019-01-04, vote average 6.6*
-
-When an overachieving college senior makes a wrong turn, her road trip becomes a life-changing fight for survival in rural Kentucky.
+Phillip is a wealthy quadriplegic who needs a caretaker to help him with his day-to-day routine in his New York penthouse. He decides to hire Dell, a struggling parolee who&#39;s trying to reconnect with his ex and his young son. Despite coming from two different worlds, an unlikely friendship starts to blossom.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/5sLIwhkWS3c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/EWw7rCHcduQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### The Last Laugh
+*Released on 2019-01-11, vote average 6*
+
+After moving to a retirement home, restless talent manager Al reconnects with long-ago client Buddy and coaxes him back out on the comedy circuit.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/he3DPldzW8I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Sebastian Maniscalco: Stay Hungry
+*Released on 2019-01-15, vote average 8*
+
+Sebastian Maniscalco brings an acerbically unique approach to peacocks on planes, life hacks, rich in-laws and life&#39;s annoyances in this comedy special.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/OTosCy89z7A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -270,23 +270,6 @@ Six strangers find themselves in circumstances beyond their control, and must us
 
 
 	
-	
-
-### One Winter Proposal
-*Released on 2019-01-12, vote average 6*
-
-Cara and Ben return to the resort where they fell in love a year earlier. They invite her friend Megan, hoping she&#39;ll reconnect with Ben&#39;s friend Sean, now the resort&#39;s doctor. During the trip Cara finds a jewelry receipt, leading her to expect a proposal from Ben, but a misunderstanding may ice his plan.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tf7lBZ5iIf0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -295,23 +278,6 @@ Cara and Ben return to the resort where they fell in love a year earlier. They i
 ## Opening soon
 
 
-	
-	
-
-### Glass
-*Released on 2019-01-16, vote average 4.5*
-
-Following the conclusion of Split, Glass finds David Dunn pursuing Kevin Wendell Crumb’s superhuman figure of The Beast in a series of escalating encounters, while the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/95ghQs5AmNk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
