@@ -47,7 +47,7 @@ Theatrical-release adaptation of the visual novel &#34;Fate/stay night&#34;, fol
 	
 
 ### Reign of the Supermen
-*Released on 2019-01-13, vote average 7.4*
+*Released on 2019-01-13, vote average 7.2*
 
 In the wake of The Death of Superman, the world is still mourning the loss of the Man of Steel following his fatal battle with the monster Doomsday. However, no sooner as his body been laid to rest than do four new bearers of the Superman shield come forward to take on the mantle. The Last Son of Krypton, Superboy, Steel, and the Cyborg Superman all attempt to fill the vacuum left by the world&#39;s greatest champion. Meanwhile, Superman&#39;s death has also signaled to the universe that Earth is vulnerable. Can these new Supermen and the rest of the heroes prove them wrong?
 
@@ -69,7 +69,7 @@ In the wake of The Death of Superman, the world is still mourning the loss of th
 	
 
 ### Glass
-*Released on 2019-01-16, vote average 6.3*
+*Released on 2019-01-16, vote average 7.5*
 
 Following the conclusion of Split, Glass finds David Dunn pursuing Kevin Wendell Crumb’s superhuman figure of The Beast in a series of escalating encounters, while the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.
 
@@ -88,66 +88,10 @@ Following the conclusion of Split, Glass finds David Dunn pursuing Kevin Wendell
 
 
 	
-	
-
-### How to Train Your Dragon: The Hidden World
-*Released on 2019-01-03, vote average 8.3*
-
-As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away.  When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/7Pbk02GqixU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
-	
-	
-
-### The Legend of Secret Pass
-*Released on 2019-01-15, vote average 4*
-
-A Native American teenager named Manu spends the summer with his grandfather high in the desert mountains. As a terrifying doom approaches, Manu must embrace his remarkable destiny and take on an incredible responsibility if he and his family are to thrive and survive.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/SPUJy2DYRZw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Upside
-*Released on 2019-01-10, vote average 7.8*
-
-Phillip is a wealthy quadriplegic who needs a caretaker to help him with his day-to-day routine in his New York penthouse. He decides to hire Dell, a struggling parolee who&#39;s trying to reconnect with his ex and his young son. Despite coming from two different worlds, an unlikely friendship starts to blossom.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EWw7rCHcduQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -166,6 +110,53 @@ After moving to a retirement home, restless talent manager Al reconnects with lo
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/he3DPldzW8I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Upside
+*Released on 2019-01-10, vote average 7.7*
+
+Phillip is a wealthy quadriplegic who needs a caretaker to help him with his day-to-day routine in his New York penthouse. He decides to hire Dell, a struggling parolee who&#39;s trying to reconnect with his ex and his young son. Despite coming from two different worlds, an unlikely friendship starts to blossom.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EWw7rCHcduQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -197,48 +188,6 @@ Sebastian Maniscalco brings an acerbically unique approach to peacocks on planes
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Escape Room
-*Released on 2019-01-03, vote average 7.3*
-
-Six strangers find themselves in circumstances beyond their control, and must use their wits to survive.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/6dSKUoV0SNI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
