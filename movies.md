@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Fate/stay night: Heaven’s Feel II. lost butterfly
-*Released on 2019-01-12, vote average 3*
+### Reign of the Supermen
+*Released on 2019-01-13, vote average 7.4*
 
-Theatrical-release adaptation of the visual novel &#34;Fate/stay night&#34;, following the third and final route. (Part 2 of a trilogy.)
+In the wake of The Death of Superman, the world is still mourning the loss of the Man of Steel following his fatal battle with the monster Doomsday. However, no sooner as his body been laid to rest than do four new bearers of the Superman shield come forward to take on the mantle. The Last Son of Krypton, Superboy, Steel, and the Cyborg Superman all attempt to fill the vacuum left by the world&#39;s greatest champion. Meanwhile, Superman&#39;s death has also signaled to the universe that Earth is vulnerable. Can these new Supermen and the rest of the heroes prove them wrong?
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/XD8h_UelYaU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/jMdcSTVPOFw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ Theatrical-release adaptation of the visual novel &#34;Fate/stay night&#34;, fol
 	
 	
 
-### Reign of the Supermen
-*Released on 2019-01-13, vote average 7.2*
+### Fate/stay night: Heaven’s Feel II. lost butterfly
+*Released on 2019-01-12, vote average 2.6*
 
-In the wake of The Death of Superman, the world is still mourning the loss of the Man of Steel following his fatal battle with the monster Doomsday. However, no sooner as his body been laid to rest than do four new bearers of the Superman shield come forward to take on the mantle. The Last Son of Krypton, Superboy, Steel, and the Cyborg Superman all attempt to fill the vacuum left by the world&#39;s greatest champion. Meanwhile, Superman&#39;s death has also signaled to the universe that Earth is vulnerable. Can these new Supermen and the rest of the heroes prove them wrong?
+Theatrical-release adaptation of the visual novel &#34;Fate/stay night&#34;, following the third and final route. (Part 2 of a trilogy.)
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/jMdcSTVPOFw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/XD8h_UelYaU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@ In the wake of The Death of Superman, the world is still mourning the loss of th
 	
 
 ### Glass
-*Released on 2019-01-16, vote average 7.5*
+*Released on 2019-01-16, vote average 7.2*
 
 Following the conclusion of Split, Glass finds David Dunn pursuing Kevin Wendell Crumb’s superhuman figure of The Beast in a series of escalating encounters, while the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.
 
@@ -82,6 +82,21 @@ Following the conclusion of Split, Glass finds David Dunn pursuing Kevin Wendell
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -125,32 +140,12 @@ After moving to a retirement home, restless talent manager Al reconnects with lo
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### The Upside
-*Released on 2019-01-10, vote average 7.7*
+*Released on 2019-01-10, vote average 7.3*
 
-Phillip is a wealthy quadriplegic who needs a caretaker to help him with his day-to-day routine in his New York penthouse. He decides to hire Dell, a struggling parolee who&#39;s trying to reconnect with his ex and his young son. Despite coming from two different worlds, an unlikely friendship starts to blossom.
+ONLY IN STREAM FLIXS  TO BAD FOR YOU PPL THAT USE KODI
 
 <iframe id="player"
 	type="text/html"
@@ -169,20 +164,25 @@ Phillip is a wealthy quadriplegic who needs a caretaker to help him with his day
 	
 	
 
-### Sebastian Maniscalco: Stay Hungry
-*Released on 2019-01-15, vote average 8*
+### Close
+*Released on 2019-01-18, vote average 10*
 
-Sebastian Maniscalco brings an acerbically unique approach to peacocks on planes, life hacks, rich in-laws and life&#39;s annoyances in this comedy special.
+A counter-terrorism expert takes a job protecting a young heiress. After an attempted kidnapping puts both of their lives in danger, they must flee.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/OTosCy89z7A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/qWKsiHEpiJM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
