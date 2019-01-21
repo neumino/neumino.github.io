@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Reign of the Supermen
-*Released on 2019-01-13, vote average 7.3*
+### Glass
+*Released on 2019-01-16, vote average 6.9*
 
-In the wake of The Death of Superman, the world is still mourning the loss of the Man of Steel following his fatal battle with the monster Doomsday. However, no sooner as his body been laid to rest than do four new bearers of the Superman shield come forward to take on the mantle. The Last Son of Krypton, Superboy, Steel, and the Cyborg Superman all attempt to fill the vacuum left by the world&#39;s greatest champion. Meanwhile, Superman&#39;s death has also signaled to the universe that Earth is vulnerable. Can these new Supermen and the rest of the heroes prove them wrong?
+Following the conclusion of Split, Glass finds David Dunn pursuing Kevin Wendell Crumb’s superhuman figure of The Beast in a series of escalating encounters, while the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/jMdcSTVPOFw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/95ghQs5AmNk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,16 +68,16 @@ Theatrical-release adaptation of the visual novel &#34;Fate/stay night&#34;, fol
 	
 	
 
-### Glass
-*Released on 2019-01-16, vote average 7.1*
+### Reign of the Supermen
+*Released on 2019-01-13, vote average 6.8*
 
-Following the conclusion of Split, Glass finds David Dunn pursuing Kevin Wendell Crumb’s superhuman figure of The Beast in a series of escalating encounters, while the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.
+In the wake of The Death of Superman, the world is still mourning the loss of the Man of Steel following his fatal battle with the monster Doomsday. However, no sooner as his body been laid to rest than do four new bearers of the Superman shield come forward to take on the mantle. The Last Son of Krypton, Superboy, Steel, and the Cyborg Superman all attempt to fill the vacuum left by the world&#39;s greatest champion. Meanwhile, Superman&#39;s death has also signaled to the universe that Earth is vulnerable. Can these new Supermen and the rest of the heroes prove them wrong?
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/95ghQs5AmNk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/jMdcSTVPOFw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -87,6 +87,67 @@ Following the conclusion of Split, Glass finds David Dunn pursuing Kevin Wendell
   
 
 
+	
+	
+
+### Close
+*Released on 2019-01-18, vote average 6.3*
+
+A counter-terrorism expert takes a job protecting a young heiress. After an attempted kidnapping puts both of their lives in danger, they must flee.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qWKsiHEpiJM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Standoff at Sparrow Creek
+*Released on 2019-01-18, vote average 8*
+
+A former cop-turned-militia man investigates a shooting at a police funeral.  After a mass shooting at a police funeral, reclusive ex-cop Gannon finds himself unwittingly forced out of retirement when he realizes that the killer belongs to the same militia he joined after quitting the force. Understanding that the shooting could set off a chain reaction of copycat violence across the country, Gannon quarantines his fellow militiamen in the remote lumber mill they call their headquarters. There, he sets about a series of gruelling interrogations, intent on ferreting out the killer and turning him over to the authorities to prevent further bloodshed.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Cu8cfNMu99Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### IO
+*Released on 2019-01-18, vote average 5*
+
+As a young scientist searches for a way to save a dying Earth, she finds a connection with a man who&#39;s racing to catch the last shuttle off the planet.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/y3GLhAumiec?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -122,16 +183,16 @@ Former top U.S. security adviser Elizabeth &#34;Libby&#34; Lamm is threatened by
 	
 	
 
-### Close
-*Released on 2019-01-18, vote average 6.1*
+### The Upside
+*Released on 2019-01-10, vote average 7.4*
 
-A counter-terrorism expert takes a job protecting a young heiress. After an attempted kidnapping puts both of their lives in danger, they must flee.
+Phillip is a wealthy quadriplegic who needs a caretaker to help him with his day-to-day routine in his New York penthouse. He decides to hire Dell, a struggling parolee who&#39;s trying to reconnect with his ex and his young son. Despite coming from two different worlds, an unlikely friendship starts to blossom.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/qWKsiHEpiJM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/EWw7rCHcduQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -142,10 +203,35 @@ A counter-terrorism expert takes a job protecting a young heiress. After an atte
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### Canal Street
-*Released on 2019-01-18, vote average 4.5*
+*Released on 2019-01-18, vote average 4.8*
 
 Guilty until proven innocent.
 
@@ -164,74 +250,37 @@ Guilty until proven innocent.
 
 
 	
+
+  
+
+
 	
 
-### IO
-*Released on 2019-01-18, vote average 5.1*
+  
 
-As a young scientist searches for a way to save a dying Earth, she finds a connection with a man who&#39;s racing to catch the last shuttle off the planet.
+
+	
+
+  
+
+
+	
+	
+
+### Fyre
+*Released on 2019-01-18, vote average 7*
+
+He promised supermodels and yachts, but delivered tents and cheese sandwiches. How one man engineered a music festival disaster.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/y3GLhAumiec?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/uZ0KNVU2fV0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
