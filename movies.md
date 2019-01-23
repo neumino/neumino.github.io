@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Glass
-*Released on 2019-01-16, vote average 6.9*
+### Fate/stay night: Heaven’s Feel II. lost butterfly
+*Released on 2019-01-12, vote average 5.1*
 
-Following the conclusion of Split, Glass finds David Dunn pursuing Kevin Wendell Crumb’s superhuman figure of The Beast in a series of escalating encounters, while the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.
+Theatrical-release adaptation of the visual novel &#34;Fate/stay night&#34;, following the third and final route. (Part 2 of a trilogy.)
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/95ghQs5AmNk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/XD8h_UelYaU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ Following the conclusion of Split, Glass finds David Dunn pursuing Kevin Wendell
 	
 	
 
-### Fate/stay night: Heaven’s Feel II. lost butterfly
-*Released on 2019-01-12, vote average 5.1*
+### Glass
+*Released on 2019-01-16, vote average 6.9*
 
-Theatrical-release adaptation of the visual novel &#34;Fate/stay night&#34;, following the third and final route. (Part 2 of a trilogy.)
+Following the conclusion of Split, Glass finds David Dunn pursuing Kevin Wendell Crumb’s superhuman figure of The Beast in a series of escalating encounters, while the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/XD8h_UelYaU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/95ghQs5AmNk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -90,6 +90,28 @@ In the wake of The Death of Superman, the world is still mourning the loss of th
 	
 	
 
+### IO
+*Released on 2019-01-18, vote average 5.1*
+
+As a young scientist searches for a way to save a dying Earth, she finds a connection with a man who&#39;s racing to catch the last shuttle off the planet.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/y3GLhAumiec?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Close
 *Released on 2019-01-18, vote average 6.1*
 
@@ -112,16 +134,16 @@ A counter-terrorism expert takes a job protecting a young heiress. After an atte
 	
 	
 
-### IO
-*Released on 2019-01-18, vote average 5*
+### Preman Pensiun
+*Released on 2019-01-17, vote average 8.5*
 
-As a young scientist searches for a way to save a dying Earth, she finds a connection with a man who&#39;s racing to catch the last shuttle off the planet.
+
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/y3GLhAumiec?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/WnB7YMFsKFI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -131,6 +153,23 @@ As a young scientist searches for a way to save a dying Earth, she finds a conne
   
 
 
+	
+	
+
+### Fyre
+*Released on 2019-01-18, vote average 7*
+
+He promised supermodels and yachts, but delivered tents and cheese sandwiches. How one man engineered a music festival disaster.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/uZ0KNVU2fV0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -149,6 +188,60 @@ After a mass shooting at a police funeral, reclusive ex-cop Gannon finds himself
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/Cu8cfNMu99Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Upside
+*Released on 2019-01-10, vote average 7.4*
+
+Phillip is a wealthy quadriplegic who needs a caretaker to help him with his day-to-day routine in his New York penthouse. He decides to hire Dell, a struggling parolee who&#39;s trying to reconnect with his ex and his young son. Despite coming from two different worlds, an unlikely friendship starts to blossom.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EWw7rCHcduQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Polar
+*Released on 2019-01-15, vote average 7.2*
+
+When a retiring assassin realizes he&#39;s the target of a hit, he winds up back in the game going head to head with an army of younger, ruthless killers.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/oMHwRal-AR8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -186,69 +279,27 @@ Former top U.S. security adviser Elizabeth &#34;Libby&#34; Lamm is threatened by
 
 
 	
+
+  
+
+
+	
 	
 
-### Fyre
-*Released on 2019-01-18, vote average 6.9*
+### Revenger
+*Released on 2019-01-15, vote average 5.7*
 
-He promised supermodels and yachts, but delivered tents and cheese sandwiches. How one man engineered a music festival disaster.
+Hell-bent on avenging the murder of his family, a former detective infiltrates a remote island that serves as a prison for vicious death row criminals.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/uZ0KNVU2fV0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/g5ISXzmxiMg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### The Upside
-*Released on 2019-01-10, vote average 7.4*
-
-Phillip is a wealthy quadriplegic who needs a caretaker to help him with his day-to-day routine in his New York penthouse. He decides to hire Dell, a struggling parolee who&#39;s trying to reconnect with his ex and his young son. Despite coming from two different worlds, an unlikely friendship starts to blossom.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EWw7rCHcduQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -297,14 +348,12 @@ Phillip is a wealthy quadriplegic who needs a caretaker to help him with his day
 	
 
 	
-
-	
 	
 
 ### Orang Kaya Baru
-*Released on 2019-01-24, vote average 10*
+*Released on 2019-01-24, vote average 8.5*
 
-Crazy Rich Indonesian.
+After her father died, Tika and her family inherited a fortune they never expected before.
 
 <iframe id="player"
 	type="text/html"
@@ -315,6 +364,8 @@ Crazy Rich Indonesian.
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
