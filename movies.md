@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Fate/stay night: Heaven’s Feel II. lost butterfly
-*Released on 2019-01-12, vote average 5.2*
+*Released on 2019-01-12, vote average 5.1*
 
 Theatrical-release adaptation of the visual novel &#34;Fate/stay night&#34;, following the third and final route. (Part 2 of a trilogy.)
 
@@ -49,35 +49,13 @@ Theatrical-release adaptation of the visual novel &#34;Fate/stay night&#34;, fol
 ### Glass
 *Released on 2019-01-16, vote average 6.9*
 
-Following the conclusion of Split, Glass finds David Dunn pursuing Kevin Wendell Crumb’s superhuman figure of The Beast in a series of escalating encounters, while the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.
+In a series of escalating encounters, security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/95ghQs5AmNk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### IO
-*Released on 2019-01-18, vote average 5.1*
-
-As a young scientist searches for a way to save a dying Earth, she finds a connection with a man who&#39;s racing to catch the last shuttle off the planet.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/y3GLhAumiec?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -100,6 +78,28 @@ As a young scientist searches for a way to save a dying Earth, she finds a conne
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/WnB7YMFsKFI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### IO
+*Released on 2019-01-18, vote average 5*
+
+As a young scientist searches for a way to save a dying Earth, she finds a connection with a man who&#39;s racing to catch the last shuttle off the planet.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/y3GLhAumiec?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -157,7 +157,7 @@ A counter-terrorism expert takes a job protecting a young heiress. After an atte
 	
 
 ### Fyre
-*Released on 2019-01-18, vote average 6.9*
+*Released on 2019-01-18, vote average 7*
 
 He promised supermodels and yachts, but delivered tents and cheese sandwiches. How one man engineered a music festival disaster.
 
@@ -178,30 +178,8 @@ He promised supermodels and yachts, but delivered tents and cheese sandwiches. H
 	
 	
 
-### The Upside
-*Released on 2019-01-10, vote average 7.3*
-
-Phillip is a wealthy quadriplegic who needs a caretaker to help him with his day-to-day routine in his New York penthouse. He decides to hire Dell, a struggling parolee who&#39;s trying to reconnect with his ex and his young son. Despite coming from two different worlds, an unlikely friendship starts to blossom.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EWw7rCHcduQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Polar
-*Released on 2019-01-15, vote average 7.1*
+*Released on 2019-01-15, vote average 6.4*
 
 When a retiring assassin realizes he&#39;s the target of a hit, he winds up back in the game going head to head with an army of younger, ruthless killers.
 
@@ -219,6 +197,89 @@ When a retiring assassin realizes he&#39;s the target of a hit, he winds up back
   
 
 
+	
+	
+
+### Serenity
+*Released on 2019-01-24, vote average 10*
+
+Baker Dill is a fishing boat captain leading tours off a tranquil, tropical enclave called Plymouth Island. His quiet life is shattered, however, when his ex-wife Karen tracks him down with a desperate plea for help.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FXYK3U0UxT0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Orang Kaya Baru
+*Released on 2019-01-24, vote average 8.5*
+
+After her father died, Tika and her family inherited a fortune they never expected before.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZY4clGa250c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Astral
+*Released on 2019-01-24, vote average 5*
+
+A detached university student faces the consequences of astral projection when he uses it to reconnect with his dead mother.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/JTdM9XqXNRo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -262,63 +323,6 @@ After a mass shooting at a police funeral, reclusive ex-cop Gannon finds himself
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Serenity
-*Released on 2019-01-24, vote average 10*
-
-Baker Dill is a fishing boat captain leading tours off a tranquil, tropical enclave called Plymouth Island. His quiet life is shattered, however, when his ex-wife Karen tracks him down with a desperate plea for help.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FXYK3U0UxT0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Orang Kaya Baru
-*Released on 2019-01-24, vote average 8.5*
-
-After her father died, Tika and her family inherited a fortune they never expected before.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZY4clGa250c?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -330,56 +334,28 @@ After her father died, Tika and her family inherited a fortune they never expect
 
 
 	
+
 	
 
-### Serenity
-*Released on 2019-01-24, vote average 10*
+	
 
-Baker Dill is a fishing boat captain leading tours off a tranquil, tropical enclave called Plymouth Island. His quiet life is shattered, however, when his ex-wife Karen tracks him down with a desperate plea for help.
+	
+
+	
+
+	
+	
+
+### Thackeray
+*Released on 2019-01-25, vote average 5*
+
+Thackeray is an upcoming Indian biographical film based on the life of Bal Thackeray. It is being directed by Abhijit Panse and has been written by Shiv Sena politician Sanjay Raut. Starring Nawazuddin Siddiqui, Amrita Rao and Laxman Singh Rajput.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/FXYK3U0UxT0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Orang Kaya Baru
-*Released on 2019-01-24, vote average 8.5*
-
-After her father died, Tika and her family inherited a fortune they never expected before.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZY4clGa250c?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Astral
-*Released on 2019-01-24, vote average 5*
-
-A detached university student faces the consequences of astral projection when he uses it to reconnect with his dead mother.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/JTdM9XqXNRo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Qqpl_sAcQF8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -395,11 +371,7 @@ A detached university student faces the consequences of astral projection when h
 	
 
 	
-
 	
-
-	
-
 	
 
 	
