@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Fate/stay night: Heaven’s Feel II. lost butterfly
-*Released on 2019-01-12, vote average 5.1*
+### Glass
+*Released on 2019-01-16, vote average 6.9*
 
-Theatrical-release adaptation of the visual novel &#34;Fate/stay night&#34;, following the third and final route. (Part 2 of a trilogy.)
+In a series of escalating encounters, security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/XD8h_UelYaU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/95ghQs5AmNk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ Theatrical-release adaptation of the visual novel &#34;Fate/stay night&#34;, fol
 	
 	
 
-### Glass
-*Released on 2019-01-16, vote average 6.9*
+### Fate/stay night: Heaven’s Feel II. lost butterfly
+*Released on 2019-01-12, vote average 5.1*
 
-In a series of escalating encounters, security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.
+Theatrical-release adaptation of the visual novel &#34;Fate/stay night&#34;, following the third and final route. (Part 2 of a trilogy.)
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/95ghQs5AmNk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/XD8h_UelYaU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@ In a series of escalating encounters, security guard David Dunn uses his superna
 	
 
 ### Preman Pensiun
-*Released on 2019-01-17, vote average 8.5*
+*Released on 2019-01-17, vote average 9.3*
 
 
 
@@ -134,8 +134,30 @@ In the wake of The Death of Superman, the world is still mourning the loss of th
 	
 	
 
+### Polar
+*Released on 2019-01-25, vote average 6.6*
+
+When a retiring assassin realizes he is the target of a hit, he winds up back in the game going head to head with a gang of younger, ruthless killers.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/oMHwRal-AR8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Close
-*Released on 2019-01-18, vote average 6.1*
+*Released on 2019-01-18, vote average 6*
 
 A counter-terrorism expert takes a job protecting a young heiress. After an attempted kidnapping puts both of their lives in danger, they must flee.
 
@@ -166,28 +188,6 @@ He promised supermodels and yachts, but delivered tents and cheese sandwiches. H
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/uZ0KNVU2fV0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Polar
-*Released on 2019-01-15, vote average 6.4*
-
-When a retiring assassin realizes he&#39;s the target of a hit, he winds up back in the game going head to head with an army of younger, ruthless killers.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/oMHwRal-AR8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -254,16 +254,6 @@ After her father died, Tika and her family inherited a fortune they never expect
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### Astral
@@ -296,52 +286,9 @@ A detached university student faces the consequences of astral projection when h
 
 
 	
-	
-
-### The Standoff at Sparrow Creek
-*Released on 2019-01-18, vote average 8*
-
-After a mass shooting at a police funeral, reclusive ex-cop Gannon finds himself unwittingly forced out of retirement when he realizes that the killer belongs to the same militia he joined after quitting the force. Understanding that the shooting could set off a chain reaction of copycat violence across the country, Gannon quarantines his fellow militiamen in the remote lumber mill they call their headquarters. There, he sets about a series of grueling interrogations, intent on ferreting out the killer and turning him over to the authorities to prevent further bloodshed.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Cu8cfNMu99Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-
-## Opening soon
-
-
-	
-
-	
-
-	
-
-	
-
-	
 
 	
 	
@@ -362,6 +309,34 @@ Thackeray is an upcoming Indian biographical film based on the life of Bal Thack
 	
 	
 
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+
+## Opening soon
+
+
+	
+
+	
+
+	
+
 	
 
 	
@@ -371,7 +346,13 @@ Thackeray is an upcoming Indian biographical film based on the life of Bal Thack
 	
 
 	
+
 	
+
+	
+	
+	
+
 	
 
 	
