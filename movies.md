@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Preman Pensiun
-*Released on 2019-01-17, vote average 9.3*
+### Glass
+*Released on 2019-01-16, vote average 6.9*
 
-
+In a series of escalating encounters, security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/WnB7YMFsKFI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/95ghQs5AmNk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Glass
-*Released on 2019-01-16, vote average 6.9*
+### Preman Pensiun
+*Released on 2019-01-17, vote average 6.3*
 
-In a series of escalating encounters, security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.
+
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/95ghQs5AmNk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/WnB7YMFsKFI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -111,27 +111,27 @@ As a young scientist searches for a way to save a dying Earth, she finds a conne
 
 	
 	
-
-### Reign of the Supermen
-*Released on 2019-01-13, vote average 6.9*
-
-In the wake of The Death of Superman, the world is still mourning the loss of the Man of Steel following his fatal battle with the monster Doomsday. However, no sooner as his body been laid to rest than do four new bearers of the Superman shield come forward to take on the mantle. The Last Son of Krypton, Superboy, Steel, and the Cyborg Superman all attempt to fill the vacuum left by the world&#39;s greatest champion. Meanwhile, Superman&#39;s death has also signaled to the universe that Earth is vulnerable. Can these new Supermen and the rest of the heroes prove them wrong?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jMdcSTVPOFw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
 
 
 	
+	
+
+### Fyre
+*Released on 2019-01-18, vote average 7*
+
+He promised supermodels and yachts, but delivered tents and cheese sandwiches. How one man engineered a music festival disaster.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/uZ0KNVU2fV0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -163,20 +163,52 @@ A counter-terrorism expert takes a job protecting a young heiress. After an atte
 	
 	
 
-### Fyre
-*Released on 2019-01-18, vote average 7*
+### The Lego Movie 2: The Second Part
+*Released on 2019-01-26, vote average 8.7*
 
-He promised supermodels and yachts, but delivered tents and cheese sandwiches. How one man engineered a music festival disaster.
+It&#39;s been five years since everything was awesome and the citizens are facing a huge new threat: LEGO DUPLO® invaders from outer space, wrecking everything faster than they can rebuild.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/uZ0KNVU2fV0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/XvHSlHhh1gk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### BTS World Tour: Love Yourself in Seoul
+*Released on 2019-01-26, vote average 9.3*
+
+Shot at the Olympic Stadium in Seoul during the BTS WORLD TOUR ‘LOVE YOURSELF’, an exclusive screening of the most sought-after concert of 2018 hits movie theaters worldwide for a one-day only event. This event will bring fans together to celebrate the seven members of the global boyband and their unprecedented international phenomenon.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/g4LluD7HSjc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -210,50 +242,6 @@ Baker Dill is a fishing boat captain leading tours off a tranquil, tropical encl
 
 
 	
-	
-
-### Manikarnika
-*Released on 2019-01-25, vote average 4*
-
-Story of Rani Lakshmibai, one of the leading figures of the Indian Rebellion of 1857 and her resistance to the British Raj.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/eBw8SPPvGXQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Orang Kaya Baru
-*Released on 2019-01-24, vote average 8.5*
-
-After her father died, Tika and her family inherited a fortune they never expected before.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZY4clGa250c?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -278,28 +266,6 @@ After her father died, Tika and her family inherited a fortune they never expect
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Thackeray
-*Released on 2019-01-25, vote average 5*
-
-Based on the life of Keshav Thackeray, an Indian politician who is also known as Balasaheb Thackeray.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Qqpl_sAcQF8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
