@@ -46,16 +46,16 @@ In a series of escalating encounters, security guard David Dunn uses his superna
 	
 	
 
-### Preman Pensiun
-*Released on 2019-01-17, vote average 6.3*
+### Polar
+*Released on 2019-01-25, vote average 6.6*
 
-
+When a retiring assassin realizes he is the target of a hit, he winds up back in the game going head to head with a gang of younger, ruthless killers.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/WnB7YMFsKFI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/oMHwRal-AR8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,16 +68,16 @@ In a series of escalating encounters, security guard David Dunn uses his superna
 	
 	
 
-### Polar
-*Released on 2019-01-25, vote average 6.5*
+### Preman Pensiun
+*Released on 2019-01-17, vote average 5*
 
-When a retiring assassin realizes he is the target of a hit, he winds up back in the game going head to head with a gang of younger, ruthless killers.
+
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/oMHwRal-AR8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/WnB7YMFsKFI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -111,16 +111,9 @@ As a young scientist searches for a way to save a dying Earth, she finds a conne
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Fyre
-*Released on 2019-01-18, vote average 7*
+*Released on 2019-01-18, vote average 6.9*
 
 He promised supermodels and yachts, but delivered tents and cheese sandwiches. How one man engineered a music festival disaster.
 
@@ -161,10 +154,15 @@ A counter-terrorism expert takes a job protecting a young heiress. After an atte
 
 
 	
+
+  
+
+
+	
 	
 
 ### The Lego Movie 2: The Second Part
-*Released on 2019-01-26, vote average 8.7*
+*Released on 2019-01-26, vote average 7.5*
 
 It&#39;s been five years since everything was awesome and the citizens are facing a huge new threat: LEGO DUPLO® invaders from outer space, wrecking everything faster than they can rebuild.
 
@@ -183,32 +181,12 @@ It&#39;s been five years since everything was awesome and the citizens are facin
 
 
 	
-	
-
-### BTS World Tour: Love Yourself in Seoul
-*Released on 2019-01-26, vote average 9.3*
-
-Shot at the Olympic Stadium in Seoul during the BTS WORLD TOUR ‘LOVE YOURSELF’, an exclusive screening of the most sought-after concert of 2018 hits movie theaters worldwide for a one-day only event. This event will bring fans together to celebrate the seven members of the global boyband and their unprecedented international phenomenon.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/g4LluD7HSjc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
 	
-
-  
-
-
+	
 	
 
   
@@ -218,7 +196,7 @@ Shot at the Olympic Stadium in Seoul during the BTS WORLD TOUR ‘LOVE YOURSELF�
 	
 
 ### Serenity
-*Released on 2019-01-24, vote average 10*
+*Released on 2019-01-24, vote average 7.8*
 
 Baker Dill is a fishing boat captain leading tours off a tranquil, tropical enclave called Plymouth Island. His quiet life is shattered, however, when his ex-wife Karen tracks him down with a desperate plea for help.
 
@@ -246,6 +224,28 @@ Baker Dill is a fishing boat captain leading tours off a tranquil, tropical encl
   
 
 
+	
+
+  
+
+
+	
+	
+
+### The Kid Who Would Be King
+*Released on 2019-01-16, vote average 7.9*
+
+A band of kids embark on an epic quest to thwart a medieval menace.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/TADKiHYj6RE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
