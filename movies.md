@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Glass
-*Released on 2019-01-16, vote average 6.9*
+### Polar
+*Released on 2019-01-25, vote average 6.4*
 
-In a series of escalating encounters, security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.
+When a retiring assassin realizes he is the target of a hit, he winds up back in the game going head to head with a gang of younger, ruthless killers.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/95ghQs5AmNk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/oMHwRal-AR8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ In a series of escalating encounters, security guard David Dunn uses his superna
 	
 	
 
-### Polar
-*Released on 2019-01-25, vote average 6.6*
+### Glass
+*Released on 2019-01-16, vote average 6.8*
 
-When a retiring assassin realizes he is the target of a hit, he winds up back in the game going head to head with a gang of younger, ruthless killers.
+In a series of escalating encounters, security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/oMHwRal-AR8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/95ghQs5AmNk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -113,7 +113,7 @@ As a young scientist searches for a way to save a dying Earth, she finds a conne
 	
 
 ### Fyre
-*Released on 2019-01-18, vote average 6.9*
+*Released on 2019-01-18, vote average 7*
 
 He promised supermodels and yachts, but delivered tents and cheese sandwiches. How one man engineered a music festival disaster.
 
@@ -135,7 +135,7 @@ He promised supermodels and yachts, but delivered tents and cheese sandwiches. H
 	
 
 ### Close
-*Released on 2019-01-18, vote average 5.9*
+*Released on 2019-01-18, vote average 5.7*
 
 A counter-terrorism expert takes a job protecting a young heiress. After an attempted kidnapping puts both of their lives in danger, they must flee.
 
@@ -144,6 +144,28 @@ A counter-terrorism expert takes a job protecting a young heiress. After an atte
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/qWKsiHEpiJM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Kid Who Would Be King
+*Released on 2019-01-16, vote average 6.9*
+
+Alex thinks he’s just another nobody, until he stumbles upon the mythical Sword in the Stone, Excalibur. Now, he must unite his friends and enemies into a band of knights and, together with the legendary wizard Merlin, take on the wicked enchantress Morgana. With the future at stake, Alex must become the great leader he never dreamed he could be.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/TADKiHYj6RE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -181,22 +203,10 @@ It&#39;s been five years since everything was awesome and the citizens are facin
 
 
 	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
 	
 
 ### Serenity
-*Released on 2019-01-24, vote average 7.8*
+*Released on 2019-01-24, vote average 6.9*
 
 Baker Dill is a fishing boat captain leading tours off a tranquil, tropical enclave called Plymouth Island. His quiet life is shattered, however, when his ex-wife Karen tracks him down with a desperate plea for help.
 
@@ -230,22 +240,10 @@ Baker Dill is a fishing boat captain leading tours off a tranquil, tropical encl
 
 
 	
-	
 
-### The Kid Who Would Be King
-*Released on 2019-01-16, vote average 7.9*
+  
 
-A band of kids embark on an epic quest to thwart a medieval menace.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/TADKiHYj6RE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -284,6 +282,23 @@ A band of kids embark on an epic quest to thwart a medieval menace.
 
 	
 
+	
+	
+
+### Velvet Buzzsaw
+*Released on 2019-02-01, vote average 4*
+
+Big money artists and mega-collectors pay a high price when art collides with commerce. After a series of paintings by an unknown artist are discovered, a supernatural force enacts revenge on those who have allowed their greed to get in the way of art.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/XdAR-lK43YU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
