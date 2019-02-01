@@ -47,7 +47,7 @@ When a retiring assassin realizes he is the target of a hit, he winds up back in
 	
 
 ### IO
-*Released on 2019-01-18, vote average 5*
+*Released on 2019-01-18, vote average 4.9*
 
 As a young scientist searches for a way to save a dying Earth, she finds a connection with a man who&#39;s racing to catch the last shuttle off the planet.
 
@@ -69,7 +69,7 @@ As a young scientist searches for a way to save a dying Earth, she finds a conne
 	
 
 ### Fyre
-*Released on 2019-01-18, vote average 7*
+*Released on 2019-01-18, vote average 6.9*
 
 He promised supermodels and yachts, but delivered tents and cheese sandwiches. How one man engineered a music festival disaster.
 
@@ -91,7 +91,7 @@ He promised supermodels and yachts, but delivered tents and cheese sandwiches. H
 	
 
 ### Close
-*Released on 2019-01-18, vote average 5.7*
+*Released on 2019-01-18, vote average 5.6*
 
 A counter-terrorism expert takes a job protecting a young heiress. After an attempted kidnapping puts both of their lives in danger, they must flee.
 
@@ -112,30 +112,8 @@ A counter-terrorism expert takes a job protecting a young heiress. After an atte
 	
 	
 
-### Preman Pensiun
-*Released on 2019-01-17, vote average 5.9*
-
-
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/WnB7YMFsKFI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Serenity
-*Released on 2019-01-24, vote average 6.8*
+*Released on 2019-01-24, vote average 6.4*
 
 Baker Dill is a fishing boat captain leading tours off a tranquil, tropical enclave called Plymouth Island. His quiet life is shattered, however, when his ex-wife Karen tracks him down with a desperate plea for help.
 
@@ -148,6 +126,70 @@ Baker Dill is a fishing boat captain leading tours off a tranquil, tropical encl
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Velvet Buzzsaw
+*Released on 2019-02-01, vote average 7*
+
+Big money artists and mega-collectors pay a high price when art collides with commerce. After a series of paintings by an unknown artist are discovered, a supernatural force enacts revenge on those who have allowed their greed to get in the way of art.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/XdAR-lK43YU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -200,55 +242,9 @@ It&#39;s been five years since everything was awesome and the citizens are facin
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 
 ## Opening soon
 
-
-	
-
-	
 
 	
 	
@@ -290,22 +286,9 @@ Big money artists and mega-collectors pay a high price when art collides with co
 	
 
 	
-	
-
-### Terlalu Tampan
-*Released on 2019-01-31, vote average 8*
-
-Mas Kulin who is too handsome always avoids entering regular school and chooses to spend almost 100% of his life inside the house. He makes his father, Pak Archewe, his mother, Bu Suk, and his brother, Mas Okis, worry. They arrange a scenario that succeed in making Mas Kulin agree to spend the last year of his high school years at a special school for boys, Horridson High School. Mas Kulin&#39;s handsomeness is then exposed to the outside world so his days go unusual: female teachers faint and he becomes the target of BBM High School students. Including a girl that is too beautiful: Amanda. However, in the midst of all that, Mas Kulin find Kibo and Rere, which make him believe that there are still people who can see him as he is.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/gyibcholOzg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
 	
 
 	
