@@ -46,74 +46,8 @@ When a retiring assassin realizes he is the target of a hit, he winds up back in
 	
 	
 
-### IO
-*Released on 2019-01-18, vote average 4.9*
-
-As a young scientist searches for a way to save a dying Earth, she finds a connection with a man who&#39;s racing to catch the last shuttle off the planet.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/y3GLhAumiec?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Fyre
-*Released on 2019-01-18, vote average 6.9*
-
-He promised supermodels and yachts, but delivered tents and cheese sandwiches. How one man engineered a music festival disaster.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/uZ0KNVU2fV0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Close
-*Released on 2019-01-18, vote average 5.6*
-
-A counter-terrorism expert takes a job protecting a young heiress. After an attempted kidnapping puts both of their lives in danger, they must flee.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qWKsiHEpiJM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Serenity
-*Released on 2019-01-24, vote average 6.4*
+*Released on 2019-01-24, vote average 6.3*
 
 Baker Dill is a fishing boat captain leading tours off a tranquil, tropical enclave called Plymouth Island. His quiet life is shattered, however, when his ex-wife Karen tracks him down with a desperate plea for help.
 
@@ -132,20 +66,10 @@ Baker Dill is a fishing boat captain leading tours off a tranquil, tropical encl
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### Velvet Buzzsaw
-*Released on 2019-02-01, vote average 7*
+*Released on 2019-02-01, vote average 6.6*
 
 Big money artists and mega-collectors pay a high price when art collides with commerce. After a series of paintings by an unknown artist are discovered, a supernatural force enacts revenge on those who have allowed their greed to get in the way of art.
 
@@ -164,6 +88,26 @@ Big money artists and mega-collectors pay a high price when art collides with co
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 	
 
@@ -191,23 +135,18 @@ Big money artists and mega-collectors pay a high price when art collides with co
 
 
 	
-
-  
-
-
-	
 	
 
-### The Lego Movie 2: The Second Part
-*Released on 2019-01-26, vote average 7.2*
+### Ek Ladki Ko Dekha Toh Aisa Laga
+*Released on 2019-02-01, vote average 6*
 
-It&#39;s been five years since everything was awesome and the citizens are facing a huge new threat: LEGO DUPLO® invaders from outer space, wrecking everything faster than they can rebuild.
+An unhappily married woman discovers her father&#39;s infidelity with her co-worker through a series of quirky encounters.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/XvHSlHhh1gk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/pKcamCgBvMo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -237,6 +176,20 @@ It&#39;s been five years since everything was awesome and the citizens are facin
   
 
 
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -246,23 +199,6 @@ It&#39;s been five years since everything was awesome and the citizens are facin
 ## Opening soon
 
 
-	
-	
-
-### Velvet Buzzsaw
-*Released on 2019-02-01, vote average 7*
-
-Big money artists and mega-collectors pay a high price when art collides with commerce. After a series of paintings by an unknown artist are discovered, a supernatural force enacts revenge on those who have allowed their greed to get in the way of art.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XdAR-lK43YU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
