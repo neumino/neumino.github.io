@@ -47,7 +47,7 @@ When a retiring assassin realizes he is the target of a hit, he winds up back in
 	
 
 ### Serenity
-*Released on 2019-01-24, vote average 5*
+*Released on 2019-01-24, vote average 4.7*
 
 Baker Dill is a fishing boat captain leading tours off a tranquil, tropical enclave called Plymouth Island. His quiet life is shattered, however, when his ex-wife Karen tracks him down with a desperate plea for help.
 
@@ -69,7 +69,7 @@ Baker Dill is a fishing boat captain leading tours off a tranquil, tropical encl
 	
 
 ### Velvet Buzzsaw
-*Released on 2019-02-01, vote average 6.3*
+*Released on 2019-02-01, vote average 6.1*
 
 Big money artists and mega-collectors pay a high price when art collides with commerce. After a series of paintings by an unknown artist are discovered, a supernatural force enacts revenge on those who have allowed their greed to get in the way of art.
 
@@ -88,23 +88,18 @@ Big money artists and mega-collectors pay a high price when art collides with co
 
 
 	
-
-  
-
-
-	
 	
 
-### Miss Bala
-*Released on 2019-02-01, vote average 7.5*
+### An Affair to Die For
+*Released on 2019-02-01, vote average 6*
 
-Gloria finds a power she never knew she had when she is drawn into a dangerous world of cross-border crime. Surviving will require all of her cunning, inventiveness, and strength.
+A weekend get-away for two lovers turns into a nightmare of psychological mind games when their infidelity is discovered.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/e-kPf-n4Mto?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/VkvmdLoO4Wk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -115,15 +110,10 @@ Gloria finds a power she never knew she had when she is drawn into a dangerous w
 
 
 	
-
-  
-
-
-	
 	
 
 ### Then Came You
-*Released on 2019-02-01, vote average 6*
+*Released on 2019-02-01, vote average 6.5*
 
 An American hypochondriac who is working as a baggage handler at the Cape Town airport is forced to confront his fears when a British teenager with a terminal illness enlists him to help her carry out her eccentric bucket list.
 
@@ -142,59 +132,27 @@ An American hypochondriac who is working as a baggage handler at the Cape Town a
 
 
 	
+
+  
+
+
+	
 	
 
-### Ek Ladki Ko Dekha Toh Aisa Laga
-*Released on 2019-02-01, vote average 6*
+### Miss Bala
+*Released on 2019-02-01, vote average 6.8*
 
-Sweety has to contend with her over-enthusiastic family that wants her to get married but the ultimate truth is that her love might not find acceptance in her family and society.
+Gloria finds a power she never knew she had when she is drawn into a dangerous world of cross-border crime. Surviving will require all of her cunning, inventiveness, and strength.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/pKcamCgBvMo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/e-kPf-n4Mto?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -223,7 +181,64 @@ It&#39;s been five years since everything was awesome and the citizens are facin
 
 
 	
+
+  
+
+
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Ek Ladki Ko Dekha Toh Aisa Laga
+*Released on 2019-02-01, vote average 6*
+
+Sweety has to contend with her over-enthusiastic family that wants her to get married but the ultimate truth is that her love might not find acceptance in her family and society.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pKcamCgBvMo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -251,7 +266,22 @@ It&#39;s been five years since everything was awesome and the citizens are facin
 
 
 	
+	
 
+### Alita: Battle Angel
+*Released on 2019-02-05, vote average 1*
+
+When Alita awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido, a compassionate doctor who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QvHv-99VfcU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -274,6 +304,10 @@ It&#39;s been five years since everything was awesome and the citizens are facin
 
 	
 
+	
+
+	
+	
 	
 
 	
