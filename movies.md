@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Polar
-*Released on 2019-01-25, vote average 6.4*
+### Serenity
+*Released on 2019-01-24, vote average 4.9*
 
-When a retiring assassin realizes he is the target of a hit, he winds up back in the game going head to head with a gang of younger, ruthless killers.
+Baker Dill is a fishing boat captain leading tours off a tranquil, tropical enclave called Plymouth Island. His quiet life is shattered, however, when his ex-wife Karen tracks him down with a desperate plea for help.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/oMHwRal-AR8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/FXYK3U0UxT0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ When a retiring assassin realizes he is the target of a hit, he winds up back in
 	
 	
 
-### Serenity
-*Released on 2019-01-24, vote average 4.7*
+### Polar
+*Released on 2019-01-25, vote average 6.3*
 
-Baker Dill is a fishing boat captain leading tours off a tranquil, tropical enclave called Plymouth Island. His quiet life is shattered, however, when his ex-wife Karen tracks him down with a desperate plea for help.
+When a retiring assassin realizes he is the target of a hit, he winds up back in the game going head to head with a gang of younger, ruthless killers.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/FXYK3U0UxT0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/oMHwRal-AR8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@ Baker Dill is a fishing boat captain leading tours off a tranquil, tropical encl
 	
 
 ### Velvet Buzzsaw
-*Released on 2019-02-01, vote average 6.1*
+*Released on 2019-02-01, vote average 6*
 
 Big money artists and mega-collectors pay a high price when art collides with commerce. After a series of paintings by an unknown artist are discovered, a supernatural force enacts revenge on those who have allowed their greed to get in the way of art.
 
@@ -78,6 +78,28 @@ Big money artists and mega-collectors pay a high price when art collides with co
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/XdAR-lK43YU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Alita: Battle Angel
+*Released on 2019-02-05, vote average 4.8*
+
+When Alita awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido, a compassionate doctor who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QvHv-99VfcU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -110,10 +132,15 @@ A weekend get-away for two lovers turns into a nightmare of psychological mind g
 
 
 	
+
+  
+
+
+	
 	
 
 ### Then Came You
-*Released on 2019-02-01, vote average 6.5*
+*Released on 2019-02-01, vote average 7.5*
 
 An American hypochondriac who is working as a baggage handler at the Cape Town airport is forced to confront his fears when a British teenager with a terminal illness enlists him to help her carry out her eccentric bucket list.
 
@@ -132,15 +159,10 @@ An American hypochondriac who is working as a baggage handler at the Cape Town a
 
 
 	
-
-  
-
-
-	
 	
 
 ### Miss Bala
-*Released on 2019-02-01, vote average 6.8*
+*Released on 2019-02-01, vote average 6.9*
 
 Gloria finds a power she never knew she had when she is drawn into a dangerous world of cross-border crime. Surviving will require all of her cunning, inventiveness, and strength.
 
@@ -159,10 +181,20 @@ Gloria finds a power she never knew she had when she is drawn into a dangerous w
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### The Lego Movie 2: The Second Part
-*Released on 2019-01-26, vote average 6.7*
+*Released on 2019-01-26, vote average 7.1*
 
 It&#39;s been five years since everything was awesome and the citizens are facing a huge new threat: LEGO DUPLO® invaders from outer space, wrecking everything faster than they can rebuild.
 
@@ -181,10 +213,24 @@ It&#39;s been five years since everything was awesome and the citizens are facin
 
 
 	
+	
+	
 
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -223,35 +269,6 @@ Sweety has to contend with her over-enthusiastic family that wants her to get ma
 
 
 	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
 
   
 
@@ -269,7 +286,7 @@ Sweety has to contend with her over-enthusiastic family that wants her to get ma
 	
 
 ### Alita: Battle Angel
-*Released on 2019-02-05, vote average 1*
+*Released on 2019-02-05, vote average 4.8*
 
 When Alita awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido, a compassionate doctor who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past.
 
