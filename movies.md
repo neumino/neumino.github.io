@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Serenity
-*Released on 2019-01-24, vote average 5.2*
+*Released on 2019-01-24, vote average 5*
 
 Baker Dill is a fishing boat captain leading tours off a tranquil, tropical enclave called Plymouth Island. His quiet life is shattered, however, when his ex-wife Karen tracks him down with a desperate plea for help.
 
@@ -46,16 +46,16 @@ Baker Dill is a fishing boat captain leading tours off a tranquil, tropical encl
 	
 	
 
-### Polar
-*Released on 2019-01-25, vote average 6.3*
+### Velvet Buzzsaw
+*Released on 2019-02-01, vote average 5.8*
 
-When a retiring assassin realizes that he is the target of a hit, he winds up back in the game going head to head with a gang of younger, ruthless killers.
+Big money artists and mega-collectors pay a high price when art collides with commerce. After a series of paintings by an unknown artist are discovered, a supernatural force enacts revenge on those who have allowed their greed to get in the way of art.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/oMHwRal-AR8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/XdAR-lK43YU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,16 +68,16 @@ When a retiring assassin realizes that he is the target of a hit, he winds up ba
 	
 	
 
-### Velvet Buzzsaw
-*Released on 2019-02-01, vote average 5.8*
+### Polar
+*Released on 2019-01-25, vote average 6.3*
 
-Big money artists and mega-collectors pay a high price when art collides with commerce. After a series of paintings by an unknown artist are discovered, a supernatural force enacts revenge on those who have allowed their greed to get in the way of art.
+When a retiring assassin realizes that he is the target of a hit, he winds up back in the game going head to head with a gang of younger, ruthless killers.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/XdAR-lK43YU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/oMHwRal-AR8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -110,16 +110,6 @@ When Alita awakens with no memory of who she is in a future world she does not r
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### Scooby-Doo! and the Curse of the 13th Ghost
@@ -142,22 +132,10 @@ Mystery Inc. withdraws from solving crimes after botching a case. When Vincent V
 
 
 	
-	
 
-### An Affair to Die For
-*Released on 2019-02-01, vote average 6*
+  
 
-A weekend get-away for two lovers turns into a nightmare of psychological mind games when their infidelity is discovered.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/VkvmdLoO4Wk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -191,6 +169,30 @@ It&#39;s been five years since everything was awesome and the citizens are facin
 
 
 	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
 
   
 
@@ -198,16 +200,16 @@ It&#39;s been five years since everything was awesome and the citizens are facin
 	
 	
 
-### Miss Bala
-*Released on 2019-02-01, vote average 6.9*
+### An Affair to Die For
+*Released on 2019-02-01, vote average 6*
 
-Gloria finds a power she never knew she had when she is drawn into a dangerous world of cross-border crime. Surviving will require all of her cunning, inventiveness, and strength.
+A weekend get-away for two lovers turns into a nightmare of psychological mind games when their infidelity is discovered.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/e-kPf-n4Mto?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/VkvmdLoO4Wk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -232,40 +234,6 @@ Gloria finds a power she never knew she had when she is drawn into a dangerous w
   
 
 
-	
-	
-
-### Then Came You
-*Released on 2019-02-01, vote average 7.3*
-
-An American hypochondriac who is working as a baggage handler at the Cape Town airport is forced to confront his fears when a British teenager with a terminal illness enlists him to help her carry out her eccentric bucket list.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/SIkRfCKd7Lc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -282,8 +250,6 @@ An American hypochondriac who is working as a baggage handler at the Cape Town a
 
 	
 
-	
-	
 	
 
 	
