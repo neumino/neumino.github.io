@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Serenity
-*Released on 2019-01-24, vote average 5*
+### Polar
+*Released on 2019-01-25, vote average 6.3*
 
-Baker Dill is a fishing boat captain leading tours off a tranquil, tropical enclave called Plymouth Island. His quiet life is shattered, however, when his ex-wife Karen tracks him down with a desperate plea for help.
+When a retiring assassin realizes that he is the target of a hit, he winds up back in the game going head to head with a gang of younger, ruthless killers.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/FXYK3U0UxT0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/oMHwRal-AR8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,30 +68,8 @@ Big money artists and mega-collectors pay a high price when art collides with co
 	
 	
 
-### Polar
-*Released on 2019-01-25, vote average 6.3*
-
-When a retiring assassin realizes that he is the target of a hit, he winds up back in the game going head to head with a gang of younger, ruthless killers.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/oMHwRal-AR8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Alita: Battle Angel
-*Released on 2019-02-05, vote average 7.1*
+*Released on 2019-02-05, vote average 7.3*
 
 When Alita awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido, a compassionate doctor who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past.
 
@@ -142,10 +120,15 @@ Mystery Inc. withdraws from solving crimes after botching a case. When Vincent V
 
 
 	
+
+  
+
+
+	
 	
 
 ### The Lego Movie 2: The Second Part
-*Released on 2019-01-26, vote average 7.4*
+*Released on 2019-01-26, vote average 7.3*
 
 It&#39;s been five years since everything was awesome and the citizens are facing a huge new threat: LEGO DUPLO® invaders from outer space, wrecking everything faster than they can rebuild.
 
@@ -164,11 +147,6 @@ It&#39;s been five years since everything was awesome and the citizens are facin
 
 
 	
-
-  
-
-
-	
 	
 	
 
@@ -198,22 +176,10 @@ It&#39;s been five years since everything was awesome and the citizens are facin
 
 
 	
-	
 
-### An Affair to Die For
-*Released on 2019-02-01, vote average 6*
+  
 
-A weekend get-away for two lovers turns into a nightmare of psychological mind games when their infidelity is discovered.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/VkvmdLoO4Wk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -269,7 +235,22 @@ A weekend get-away for two lovers turns into a nightmare of psychological mind g
 	
 
 	
+	
 
+### We Are Little Zombies
+*Released on 2019-02-08, vote average 8*
+
+Their parents are dead. They should be sad, but they can&#39;t cry. So they form a kick-ass band. This is the story of four 13-year-olds in search of their emotions.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Pf_ULPwxq7M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -278,6 +259,10 @@ A weekend get-away for two lovers turns into a nightmare of psychological mind g
 
 	
 
+	
+
+	
+	
 	
 
 	
