@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Polar
-*Released on 2019-01-25, vote average 6.3*
+### Alita: Battle Angel
+*Released on 2019-02-05, vote average 6.9*
 
-When a retiring assassin realizes that he is the target of a hit, he winds up back in the game going head to head with a gang of younger, ruthless killers.
+When Alita awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido, a compassionate doctor who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/oMHwRal-AR8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/QvHv-99VfcU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -66,18 +66,23 @@ Big money artists and mega-collectors pay a high price when art collides with co
 
 
 	
+
+  
+
+
+	
 	
 
-### Alita: Battle Angel
-*Released on 2019-02-05, vote average 7.3*
+### Cold Pursuit
+*Released on 2019-02-07, vote average 9*
 
-When Alita awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido, a compassionate doctor who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past.
+Nels Coxman&#39;s quiet life comes crashing down when his beloved son dies under mysterious circumstances. His search for the truth soon becomes a quest for revenge as he seeks coldblooded justice against a drug lord and his inner circle.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/QvHv-99VfcU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/0phuNQQ_gHI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -88,10 +93,49 @@ When Alita awakens with no memory of who she is in a future world she does not r
 
 
 	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### The Lego Movie 2: The Second Part
+*Released on 2019-01-26, vote average 7.9*
+
+It&#39;s been five years since everything was awesome and the citizens are facing a huge new threat: LEGO DUPLO® invaders from outer space, wrecking everything faster than they can rebuild.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/XvHSlHhh1gk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### Scooby-Doo! and the Curse of the 13th Ghost
-*Released on 2019-02-05, vote average 6.3*
+*Released on 2019-02-05, vote average 7.7*
 
 Mystery Inc. withdraws from solving crimes after botching a case. When Vincent Van Ghoul contacts the gang about an unfinished investigation from Daphne, Shaggy and Scooby&#39;s past, the gang springs into action to finish the job that involves catching the 13th Ghost that escaped from the Chest of Demons and is still at large.
 
@@ -126,33 +170,6 @@ Mystery Inc. withdraws from solving crimes after botching a case. When Vincent V
 
 	
 	
-
-### The Lego Movie 2: The Second Part
-*Released on 2019-01-26, vote average 7.3*
-
-It&#39;s been five years since everything was awesome and the citizens are facing a huge new threat: LEGO DUPLO® invaders from outer space, wrecking everything faster than they can rebuild.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XvHSlHhh1gk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 	
 
   
@@ -176,10 +193,7 @@ It&#39;s been five years since everything was awesome and the citizens are facin
 
 
 	
-
-  
-
-
+	
 	
 
   
@@ -191,15 +205,7 @@ It&#39;s been five years since everything was awesome and the citizens are facin
 
 
 	
-
-  
-
-
 	
-
-  
-
-
 	
 
   
@@ -235,23 +241,6 @@ It&#39;s been five years since everything was awesome and the citizens are facin
 	
 
 	
-	
-
-### We Are Little Zombies
-*Released on 2019-02-08, vote average 8*
-
-Their parents are dead. They should be sad, but they can&#39;t cry. So they form a kick-ass band. This is the story of four 13-year-olds in search of their emotions.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Pf_ULPwxq7M?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
@@ -261,8 +250,6 @@ Their parents are dead. They should be sad, but they can&#39;t cry. So they form
 
 	
 
-	
-	
 	
 
 	
