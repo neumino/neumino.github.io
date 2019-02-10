@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Alita: Battle Angel
-*Released on 2019-02-05, vote average 6.9*
+*Released on 2019-02-05, vote average 6.7*
 
 When Alita awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido, a compassionate doctor who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past.
 
@@ -66,6 +66,50 @@ Big money artists and mega-collectors pay a high price when art collides with co
 
 
 	
+	
+
+### The Man Who Killed Hitler and Then the Bigfoot
+*Released on 2019-02-08, vote average 6.3*
+
+A legendary American war veteran is recruited to hunt a mythical creature.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/UkP4bZKCHE8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### What Men Want
+*Released on 2019-02-08, vote average 6.8*
+
+Magically able to hear what men are thinking, a sports agent uses her newfound ability to turn the tables on her overbearing male colleagues.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/HeoLiTirRp4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -74,7 +118,7 @@ Big money artists and mega-collectors pay a high price when art collides with co
 	
 
 ### Cold Pursuit
-*Released on 2019-02-07, vote average 9*
+*Released on 2019-02-07, vote average 6*
 
 Nels Coxman&#39;s quiet life comes crashing down when his beloved son dies under mysterious circumstances. His search for the truth soon becomes a quest for revenge as he seeks coldblooded justice against a drug lord and his inner circle.
 
@@ -99,28 +143,26 @@ Nels Coxman&#39;s quiet life comes crashing down when his beloved son dies under
 
 	
 	
-	
 
-  
+### The Prodigy
+*Released on 2019-02-07, vote average 5.5*
 
-
-	
-	
-
-### The Lego Movie 2: The Second Part
-*Released on 2019-01-26, vote average 7.9*
-
-It&#39;s been five years since everything was awesome and the citizens are facing a huge new threat: LEGO DUPLO® invaders from outer space, wrecking everything faster than they can rebuild.
+A mother concerned about her young son&#39;s disturbing behavior thinks something supernatural may be affecting him.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/XvHSlHhh1gk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/BC4cyYRxjFk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -169,6 +211,26 @@ Mystery Inc. withdraws from solving crimes after botching a case. When Vincent V
 
 
 	
+
+  
+
+
+	
+	
+
+### We Are Little Zombies
+*Released on 2019-02-08, vote average 8*
+
+Their parents are dead. They should be sad, but they can&#39;t cry. So they form a kick-ass band. This is the story of four 13-year-olds in search of their emotions.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Pf_ULPwxq7M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -181,8 +243,6 @@ Mystery Inc. withdraws from solving crimes after botching a case. When Vincent V
 
 
 	
-	
-	
 
   
 
@@ -194,23 +254,6 @@ Mystery Inc. withdraws from solving crimes after botching a case. When Vincent V
 
 	
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 	
 
   
