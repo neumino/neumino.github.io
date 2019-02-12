@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Alita: Battle Angel
-*Released on 2019-02-05, vote average 6.4*
+*Released on 2019-01-31, vote average 6.3*
 
 When Alita awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido, a compassionate doctor who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past.
 
@@ -46,6 +46,28 @@ When Alita awakens with no memory of who she is in a future world she does not r
 	
 	
 
+### Cold Pursuit
+*Released on 2019-02-07, vote average 6.9*
+
+Nels Coxman&#39;s quiet life comes crashing down when his beloved son dies under mysterious circumstances. His search for the truth soon becomes a quest for revenge as he seeks coldblooded justice against a drug lord and his inner circle.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0phuNQQ_gHI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Man Who Killed Hitler and Then the Bigfoot
 *Released on 2019-02-08, vote average 6*
 
@@ -69,7 +91,7 @@ A legendary American war veteran is recruited to hunt a mythical creature.
 	
 
 ### Velvet Buzzsaw
-*Released on 2019-02-01, vote average 5.8*
+*Released on 2019-02-01, vote average 5.7*
 
 Big money artists and mega-collectors pay a high price when art collides with commerce. After a series of paintings by an unknown artist are discovered, a supernatural force enacts revenge on those who have allowed their greed to get in the way of art.
 
@@ -90,30 +112,8 @@ Big money artists and mega-collectors pay a high price when art collides with co
 	
 	
 
-### Cold Pursuit
-*Released on 2019-02-07, vote average 6.5*
-
-Nels Coxman&#39;s quiet life comes crashing down when his beloved son dies under mysterious circumstances. His search for the truth soon becomes a quest for revenge as he seeks coldblooded justice against a drug lord and his inner circle.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0phuNQQ_gHI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### What Men Want
-*Released on 2019-02-08, vote average 7.3*
+*Released on 2019-02-08, vote average 6.9*
 
 Magically able to hear what men are thinking, a sports agent uses her newfound ability to turn the tables on her overbearing male colleagues.
 
@@ -132,10 +132,22 @@ Magically able to hear what men are thinking, a sports agent uses her newfound a
 
 
 	
+	
 
-  
+### Scooby-Doo! and the Curse of the 13th Ghost
+*Released on 2019-02-05, vote average 7.1*
 
+Mystery Inc. withdraws from solving crimes after botching a case. When Vincent Van Ghoul contacts the gang about an unfinished investigation from Daphne, Shaggy and Scooby&#39;s past, the gang springs into action to finish the job that involves catching the 13th Ghost that escaped from the Chest of Demons and is still at large.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jTKbXWGjSe0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -156,6 +168,28 @@ Magically able to hear what men are thinking, a sports agent uses her newfound a
   
 
 
+	
+
+  
+
+
+	
+	
+
+### The Wandering Earth
+*Released on 2019-02-05, vote average 7.4*
+
+The sun is dying out, a group of brave astronauts set out to find a new home for the entire human race and the planet.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/areWwcCRNHE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -239,6 +273,8 @@ Tree Gelbman learns that dying over and over again was surprisingly easier than 
 
 	
 
+	
+	
 	
 
 	
