@@ -47,7 +47,7 @@ When Alita awakens with no memory of who she is in a future world she does not r
 	
 
 ### Cold Pursuit
-*Released on 2019-02-07, vote average 6.9*
+*Released on 2019-02-07, vote average 6.7*
 
 Nels Coxman&#39;s quiet life comes crashing down when his beloved son dies under mysterious circumstances. His search for the truth soon becomes a quest for revenge as he seeks coldblooded justice against a drug lord and his inner circle.
 
@@ -68,16 +68,16 @@ Nels Coxman&#39;s quiet life comes crashing down when his beloved son dies under
 	
 	
 
-### The Man Who Killed Hitler and Then the Bigfoot
-*Released on 2019-02-08, vote average 6*
+### Happy Death Day 2U
+*Released on 2019-02-13, vote average 6*
 
-A legendary American war veteran is recruited to hunt a mythical creature.
+Tree Gelbman learns that dying over and over again was surprisingly easier than the dangers that lie ahead.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/UkP4bZKCHE8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/IeXqWDFJZiw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,8 +112,52 @@ Big money artists and mega-collectors pay a high price when art collides with co
 	
 	
 
+### The Man Who Killed Hitler and Then the Bigfoot
+*Released on 2019-02-08, vote average 5.4*
+
+A legendary American war veteran is recruited to hunt a mythical creature.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/UkP4bZKCHE8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Wandering Earth
+*Released on 2019-02-05, vote average 7.4*
+
+The sun is dying out, a group of brave astronauts set out to find a new home for the entire human race and the planet.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/areWwcCRNHE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### What Men Want
-*Released on 2019-02-08, vote average 6.9*
+*Released on 2019-02-08, vote average 5.7*
 
 Magically able to hear what men are thinking, a sports agent uses her newfound ability to turn the tables on her overbearing male colleagues.
 
@@ -126,6 +170,26 @@ Magically able to hear what men are thinking, a sports agent uses her newfound a
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -174,23 +238,6 @@ Mystery Inc. withdraws from solving crimes after botching a case. When Vincent V
 
 
 	
-	
-
-### The Wandering Earth
-*Released on 2019-02-05, vote average 7.4*
-
-The sun is dying out, a group of brave astronauts set out to find a new home for the entire human race and the planet.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/areWwcCRNHE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -206,35 +253,7 @@ The sun is dying out, a group of brave astronauts set out to find a new home for
 
 
 	
-
-  
-
-
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -266,14 +285,6 @@ Tree Gelbman learns that dying over and over again was surprisingly easier than 
 	
 
 	
-
-	
-
-	
-
-	
-
-	
 	
 	
 
@@ -289,6 +300,16 @@ Tree Gelbman learns that dying over and over again was surprisingly easier than 
 
 	
 
+	
+
+	
+
+	
+
+	
+
+	
+	
 	
 
 	
