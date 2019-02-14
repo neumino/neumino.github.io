@@ -47,7 +47,7 @@ When Alita awakens with no memory of who she is in a future world she does not r
 	
 
 ### Cold Pursuit
-*Released on 2019-02-07, vote average 6.7*
+*Released on 2019-02-07, vote average 6.3*
 
 Nels Coxman&#39;s quiet life comes crashing down when his beloved son dies under mysterious circumstances. His search for the truth soon becomes a quest for revenge as he seeks coldblooded justice against a drug lord and his inner circle.
 
@@ -69,7 +69,7 @@ Nels Coxman&#39;s quiet life comes crashing down when his beloved son dies under
 	
 
 ### Happy Death Day 2U
-*Released on 2019-02-13, vote average 6*
+*Released on 2019-02-13, vote average 5.5*
 
 Tree Gelbman learns that dying over and over again was surprisingly easier than the dangers that lie ahead.
 
@@ -90,8 +90,30 @@ Tree Gelbman learns that dying over and over again was surprisingly easier than 
 	
 	
 
+### The Wandering Earth
+*Released on 2019-02-05, vote average 7.6*
+
+The sun is dying out, a group of brave astronauts set out to find a new home for the entire human race and the planet.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/areWwcCRNHE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Velvet Buzzsaw
-*Released on 2019-02-01, vote average 5.7*
+*Released on 2019-02-01, vote average 5.6*
 
 Big money artists and mega-collectors pay a high price when art collides with commerce. After a series of paintings by an unknown artist are discovered, a supernatural force enacts revenge on those who have allowed their greed to get in the way of art.
 
@@ -132,18 +154,40 @@ A legendary American war veteran is recruited to hunt a mythical creature.
 
 
 	
+
+  
+
+
+	
+	
 	
 
-### The Wandering Earth
-*Released on 2019-02-05, vote average 7.4*
+  
 
-The sun is dying out, a group of brave astronauts set out to find a new home for the entire human race and the planet.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### St. Agatha
+*Released on 2019-02-14, vote average 6*
+
+St. Agatha is set in the 1950s in small town Georgia. A pregnant con woman named Agatha is on the run and seeks refuge in a convent hidden in deafening isolation. What first starts out as the perfect place to have a child turns into a dark lair where silence is forced. Ghastly secrets are masked, and every bit of will power Agatha has is tested. She soon learns the sick and twisted truth of the convent and the odd people that lurk inside its halls. Agatha must now find a way to discover the unyielding strength needed to escape and save her baby before she’s caged behind these walls forever.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/areWwcCRNHE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/JPHkRJQ3ydw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -157,7 +201,7 @@ The sun is dying out, a group of brave astronauts set out to find a new home for
 	
 
 ### What Men Want
-*Released on 2019-02-08, vote average 5.7*
+*Released on 2019-02-08, vote average 5.8*
 
 Magically able to hear what men are thinking, a sports agent uses her newfound ability to turn the tables on her overbearing male colleagues.
 
@@ -196,23 +240,6 @@ Magically able to hear what men are thinking, a sports agent uses her newfound a
 
 
 	
-	
-
-### Scooby-Doo! and the Curse of the 13th Ghost
-*Released on 2019-02-05, vote average 7.1*
-
-Mystery Inc. withdraws from solving crimes after botching a case. When Vincent Van Ghoul contacts the gang about an unfinished investigation from Daphne, Shaggy and Scooby&#39;s past, the gang springs into action to finish the job that involves catching the 13th Ghost that escaped from the Chest of Demons and is still at large.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jTKbXWGjSe0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -227,33 +254,6 @@ Mystery Inc. withdraws from solving crimes after botching a case. When Vincent V
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -266,16 +266,16 @@ Mystery Inc. withdraws from solving crimes after botching a case. When Vincent V
 	
 	
 
-### Happy Death Day 2U
-*Released on 2019-02-13, vote average 6*
+### St. Agatha
+*Released on 2019-02-14, vote average 6*
 
-Tree Gelbman learns that dying over and over again was surprisingly easier than the dangers that lie ahead.
+St. Agatha is set in the 1950s in small town Georgia. A pregnant con woman named Agatha is on the run and seeks refuge in a convent hidden in deafening isolation. What first starts out as the perfect place to have a child turns into a dark lair where silence is forced. Ghastly secrets are masked, and every bit of will power Agatha has is tested. She soon learns the sick and twisted truth of the convent and the odd people that lurk inside its halls. Agatha must now find a way to discover the unyielding strength needed to escape and save her baby before she’s caged behind these walls forever.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/IeXqWDFJZiw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/JPHkRJQ3ydw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -285,6 +285,18 @@ Tree Gelbman learns that dying over and over again was surprisingly easier than 
 	
 
 	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
 	
 	
 
@@ -299,19 +311,22 @@ Tree Gelbman learns that dying over and over again was surprisingly easier than 
 	
 
 	
-
 	
 
-	
+### Calon Bini
+*Released on 2019-02-14, vote average 6*
+
+Because of the ambition and greed to become the village chief, Paklik Agung forces Ningsih to marry Sapto. Ningsih herself is more concerned about how to continue her studies, but her parents could not afford it. When it is decided that Ningsih would get married, she goes to Jakarta. Paklik Agung is confused. Sapto cries every day. Ningsih finds moral support and finally fall in love with a character in a virtual world called &#34;Footsteps&#34;. Ningsih works for Prawira and Andini. In this family, in-law and daughter-in-law relations do not get along. The only thing that fits is Satria Bagus who is sent to school in London.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/AyKdG2ylVzo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-	
-
-	
-	
-	
-
 	
 
 	
