@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Alita: Battle Angel
-*Released on 2019-01-31, vote average 6.3*
+### Cold Pursuit
+*Released on 2019-02-07, vote average 6.4*
 
-When Alita awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido, a compassionate doctor who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past.
+Nels Coxman&#39;s quiet life comes crashing down when his beloved son dies under mysterious circumstances. His search for the truth soon becomes a quest for revenge as he seeks coldblooded justice against a drug lord and his inner circle.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/QvHv-99VfcU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/0phuNQQ_gHI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,30 +46,8 @@ When Alita awakens with no memory of who she is in a future world she does not r
 	
 	
 
-### Cold Pursuit
-*Released on 2019-02-07, vote average 6.3*
-
-Nels Coxman&#39;s quiet life comes crashing down when his beloved son dies under mysterious circumstances. His search for the truth soon becomes a quest for revenge as he seeks coldblooded justice against a drug lord and his inner circle.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0phuNQQ_gHI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Happy Death Day 2U
-*Released on 2019-02-13, vote average 5.5*
+*Released on 2019-02-13, vote average 6.2*
 
 Tree Gelbman learns that dying over and over again was surprisingly easier than the dangers that lie ahead.
 
@@ -91,7 +69,7 @@ Tree Gelbman learns that dying over and over again was surprisingly easier than 
 	
 
 ### The Wandering Earth
-*Released on 2019-02-05, vote average 7.6*
+*Released on 2019-02-05, vote average 7*
 
 The sun is dying out, a group of brave astronauts set out to find a new home for the entire human race and the planet.
 
@@ -134,6 +112,28 @@ Big money artists and mega-collectors pay a high price when art collides with co
 	
 	
 
+### St. Agatha
+*Released on 2019-02-14, vote average 6*
+
+St. Agatha is set in the 1950s in small town Georgia. A pregnant con woman named Agatha is on the run and seeks refuge in a convent hidden in deafening isolation. What first starts out as the perfect place to have a child turns into a dark lair where silence is forced. Ghastly secrets are masked, and every bit of will power Agatha has is tested. She soon learns the sick and twisted truth of the convent and the odd people that lurk inside its halls. Agatha must now find a way to discover the unyielding strength needed to escape and save her baby before she’s caged behind these walls forever.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/JPHkRJQ3ydw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Man Who Killed Hitler and Then the Bigfoot
 *Released on 2019-02-08, vote average 5.4*
 
@@ -159,7 +159,20 @@ A legendary American war veteran is recruited to hunt a mythical creature.
 
 
 	
+
+  
+
+
 	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -176,18 +189,23 @@ A legendary American war veteran is recruited to hunt a mythical creature.
 
 
 	
+
+  
+
+
+	
 	
 
-### St. Agatha
-*Released on 2019-02-14, vote average 6*
+### Corgi
+*Released on 2019-02-13, vote average 10*
 
-St. Agatha is set in the 1950s in small town Georgia. A pregnant con woman named Agatha is on the run and seeks refuge in a convent hidden in deafening isolation. What first starts out as the perfect place to have a child turns into a dark lair where silence is forced. Ghastly secrets are masked, and every bit of will power Agatha has is tested. She soon learns the sick and twisted truth of the convent and the odd people that lurk inside its halls. Agatha must now find a way to discover the unyielding strength needed to escape and save her baby before she’s caged behind these walls forever.
+&#34;The Queen&#39;s Corgi&#34; is about the adventure of Rex, the British monarch&#39;s most beloved dog, who loses track of his mistress and stumbles across a clan with dogs of all kinds confronting and fighting each other. During his epic journey to return to the queen, Rex falls in love and discovers his true self.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/JPHkRJQ3ydw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/1EezOE9WtvU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -199,61 +217,45 @@ St. Agatha is set in the 1950s in small town Georgia. A pregnant con woman named
 
 	
 	
+	
 
-### What Men Want
-*Released on 2019-02-08, vote average 5.8*
+  
 
-Magically able to hear what men are thinking, a sports agent uses her newfound ability to turn the tables on her overbearing male colleagues.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Gully Boy
+*Released on 2019-02-14, vote average 7*
+
+A coming-of-age story based on the lives of street rappers in Mumbai.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/HeoLiTirRp4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/JfbxcD6biOk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -264,22 +266,11 @@ Magically able to hear what men are thinking, a sports agent uses her newfound a
 
 
 	
-	
-
-### St. Agatha
-*Released on 2019-02-14, vote average 6*
-
-St. Agatha is set in the 1950s in small town Georgia. A pregnant con woman named Agatha is on the run and seeks refuge in a convent hidden in deafening isolation. What first starts out as the perfect place to have a child turns into a dark lair where silence is forced. Ghastly secrets are masked, and every bit of will power Agatha has is tested. She soon learns the sick and twisted truth of the convent and the odd people that lurk inside its halls. Agatha must now find a way to discover the unyielding strength needed to escape and save her baby before she’s caged behind these walls forever.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/JPHkRJQ3ydw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+	
+
 	
 
 	
@@ -297,36 +288,11 @@ St. Agatha is set in the 1950s in small town Georgia. A pregnant con woman named
 	
 
 	
-	
-	
 
 	
 
 	
 
-	
-
-	
-
-	
-
-	
-	
-
-### Calon Bini
-*Released on 2019-02-14, vote average 6*
-
-Because of the ambition and greed to become the village chief, Paklik Agung forces Ningsih to marry Sapto. Ningsih herself is more concerned about how to continue her studies, but her parents could not afford it. When it is decided that Ningsih would get married, she goes to Jakarta. Paklik Agung is confused. Sapto cries every day. Ningsih finds moral support and finally fall in love with a character in a virtual world called &#34;Footsteps&#34;. Ningsih works for Prawira and Andini. In this family, in-law and daughter-in-law relations do not get along. The only thing that fits is Satria Bagus who is sent to school in London.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/AyKdG2ylVzo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
