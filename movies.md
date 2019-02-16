@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Cold Pursuit
-*Released on 2019-02-07, vote average 6.4*
+*Released on 2019-02-07, vote average 6.3*
 
 Nels Coxman&#39;s quiet life comes crashing down when his beloved son dies under mysterious circumstances. His search for the truth soon becomes a quest for revenge as he seeks coldblooded justice against a drug lord and his inner circle.
 
@@ -46,30 +46,8 @@ Nels Coxman&#39;s quiet life comes crashing down when his beloved son dies under
 	
 	
 
-### Happy Death Day 2U
-*Released on 2019-02-13, vote average 6.2*
-
-Tree Gelbman learns that dying over and over again was surprisingly easier than the dangers that lie ahead.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IeXqWDFJZiw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Wandering Earth
-*Released on 2019-02-05, vote average 7*
+*Released on 2019-02-05, vote average 6.9*
 
 The sun is dying out, a group of brave astronauts set out to find a new home for the entire human race and the planet.
 
@@ -90,16 +68,16 @@ The sun is dying out, a group of brave astronauts set out to find a new home for
 	
 	
 
-### Velvet Buzzsaw
-*Released on 2019-02-01, vote average 5.6*
+### Happy Death Day 2U
+*Released on 2019-02-13, vote average 6.9*
 
-Big money artists and mega-collectors pay a high price when art collides with commerce. After a series of paintings by an unknown artist are discovered, a supernatural force enacts revenge on those who have allowed their greed to get in the way of art.
+Tree Gelbman learns that dying over and over again was surprisingly easier than the dangers that lie ahead.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/XdAR-lK43YU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/IeXqWDFJZiw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -110,10 +88,15 @@ Big money artists and mega-collectors pay a high price when art collides with co
 
 
 	
+
+  
+
+
+	
 	
 
 ### St. Agatha
-*Released on 2019-02-14, vote average 6*
+*Released on 2019-02-08, vote average 5*
 
 St. Agatha is set in the 1950s in small town Georgia. A pregnant con woman named Agatha is on the run and seeks refuge in a convent hidden in deafening isolation. What first starts out as the perfect place to have a child turns into a dark lair where silence is forced. Ghastly secrets are masked, and every bit of will power Agatha has is tested. She soon learns the sick and twisted truth of the convent and the odd people that lurk inside its halls. Agatha must now find a way to discover the unyielding strength needed to escape and save her baby before she’s caged behind these walls forever.
 
@@ -126,6 +109,58 @@ St. Agatha is set in the 1950s in small town Georgia. A pregnant con woman named
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Gully Boy
+*Released on 2019-02-14, vote average 8*
+
+A coming-of-age story based on the lives of street rappers in Mumbai.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/JfbxcD6biOk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -159,53 +194,18 @@ A legendary American war veteran is recruited to hunt a mythical creature.
 
 
 	
-
-  
-
-
 	
 
-  
+### Antologi Rasa
+*Released on 2019-02-14, vote average 8*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Corgi
-*Released on 2019-02-13, vote average 10*
-
-&#34;The Queen&#39;s Corgi&#34; is about the adventure of Rex, the British monarch&#39;s most beloved dog, who loses track of his mistress and stumbles across a clan with dogs of all kinds confronting and fighting each other. During his epic journey to return to the queen, Rex falls in love and discovers his true self.
+The story of four bankers who have been friends for years: Harris, Keara, Ruly, and Denise, who secretly love each other. Harris is in love with Keara; Keara believes Ruly is her soul mate; Ruly’s heart has been engraved on Denise, and Denise had married someone else.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/1EezOE9WtvU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/JNsm3MpC6dQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -216,8 +216,6 @@ A legendary American war veteran is recruited to hunt a mythical creature.
 
 
 	
-	
-	
 
   
 
@@ -239,23 +237,6 @@ A legendary American war veteran is recruited to hunt a mythical creature.
   
 
 
-	
-	
-
-### Gully Boy
-*Released on 2019-02-14, vote average 7*
-
-A coming-of-age story based on the lives of street rappers in Mumbai.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/JfbxcD6biOk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
