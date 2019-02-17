@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Cold Pursuit
-*Released on 2019-02-07, vote average 6.3*
+*Released on 2019-02-07, vote average 5.7*
 
 Nels Coxman&#39;s quiet life comes crashing down when his beloved son dies under mysterious circumstances. His search for the truth soon becomes a quest for revenge as he seeks coldblooded justice against a drug lord and his inner circle.
 
@@ -46,30 +46,8 @@ Nels Coxman&#39;s quiet life comes crashing down when his beloved son dies under
 	
 	
 
-### The Wandering Earth
-*Released on 2019-02-05, vote average 6.9*
-
-The sun is dying out, a group of brave astronauts set out to find a new home for the entire human race and the planet.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/areWwcCRNHE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Happy Death Day 2U
-*Released on 2019-02-13, vote average 6.9*
+*Released on 2019-02-13, vote average 6.7*
 
 Tree Gelbman learns that dying over and over again was surprisingly easier than the dangers that lie ahead.
 
@@ -88,6 +66,28 @@ Tree Gelbman learns that dying over and over again was surprisingly easier than 
 
 
 	
+	
+
+### The Wandering Earth
+*Released on 2019-02-05, vote average 7.3*
+
+The sun is dying out, a group of brave astronauts set out to find a new home for the entire human race and the planet.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/areWwcCRNHE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 
   
 
@@ -95,20 +95,115 @@ Tree Gelbman learns that dying over and over again was surprisingly easier than 
 	
 	
 
-### St. Agatha
-*Released on 2019-02-08, vote average 5*
+### What Men Want
+*Released on 2019-02-08, vote average 6*
 
-St. Agatha is set in the 1950s in small town Georgia. A pregnant con woman named Agatha is on the run and seeks refuge in a convent hidden in deafening isolation. What first starts out as the perfect place to have a child turns into a dark lair where silence is forced. Ghastly secrets are masked, and every bit of will power Agatha has is tested. She soon learns the sick and twisted truth of the convent and the odd people that lurk inside its halls. Agatha must now find a way to discover the unyielding strength needed to escape and save her baby before she’s caged behind these walls forever.
+Magically able to hear what men are thinking, a sports agent uses her newfound ability to turn the tables on her overbearing male colleagues.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/JPHkRJQ3ydw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/HeoLiTirRp4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### The Man Who Killed Hitler and Then the Bigfoot
+*Released on 2019-02-08, vote average 5.4*
+
+A legendary American war veteran is recruited to hunt a mythical creature.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/UkP4bZKCHE8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Isn&#39;t It Romantic
+*Released on 2019-02-13, vote average 5.8*
+
+For a long time, Natalie, an Australian architect living in New York City, had always believed that what she had seen in rom-coms is all fantasy. But after thwarting a mugger at a subway station only to be knocked out while fleeing, Natalie wakes up and discovers that her life has suddenly become her worst nightmare—a romantic comedy—and she is the leading lady.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8ZwgoVmILQU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Fighting with My Family
+*Released on 2019-02-14, vote average 10*
+
+Born into a tight-knit wrestling family, Paige and her brother Zak are ecstatic when they get the once-in-a-lifetime opportunity to try out for the WWE. But when only Paige earns a spot in the competitive training program, she must leave her loved ones behind and face this new cutthroat world alone. Paige&#39;s journey pushes her to dig deep and ultimately prove to the world that what makes her different is the very thing that can make her a star.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Mh4zSZHhEeo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -147,41 +242,6 @@ A coming-of-age story based on the lives of street rappers in Mumbai.
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Man Who Killed Hitler and Then the Bigfoot
-*Released on 2019-02-08, vote average 5.4*
-
-A legendary American war veteran is recruited to hunt a mythical creature.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/UkP4bZKCHE8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -193,45 +253,6 @@ A legendary American war veteran is recruited to hunt a mythical creature.
   
 
 
-	
-	
-
-### Antologi Rasa
-*Released on 2019-02-14, vote average 8*
-
-The story of four bankers who have been friends for years: Harris, Keara, Ruly, and Denise, who secretly love each other. Harris is in love with Keara; Keara believes Ruly is her soul mate; Ruly’s heart has been engraved on Denise, and Denise had married someone else.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/JNsm3MpC6dQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 	
 
   
