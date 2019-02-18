@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Cold Pursuit
-*Released on 2019-02-07, vote average 5.7*
+*Released on 2019-02-07, vote average 5.4*
 
 Nels Coxman&#39;s quiet life comes crashing down when his beloved son dies under mysterious circumstances. His search for the truth soon becomes a quest for revenge as he seeks coldblooded justice against a drug lord and his inner circle.
 
@@ -47,7 +47,7 @@ Nels Coxman&#39;s quiet life comes crashing down when his beloved son dies under
 	
 
 ### Happy Death Day 2U
-*Released on 2019-02-13, vote average 6.7*
+*Released on 2019-02-13, vote average 6.4*
 
 Tree Gelbman learns that dying over and over again was surprisingly easier than the dangers that lie ahead.
 
@@ -69,7 +69,7 @@ Tree Gelbman learns that dying over and over again was surprisingly easier than 
 	
 
 ### The Wandering Earth
-*Released on 2019-02-05, vote average 7.3*
+*Released on 2019-02-05, vote average 7.6*
 
 The sun is dying out, a group of brave astronauts set out to find a new home for the entire human race and the planet.
 
@@ -78,6 +78,33 @@ The sun is dying out, a group of brave astronauts set out to find a new home for
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/areWwcCRNHE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Man Who Killed Hitler and Then the Bigfoot
+*Released on 2019-02-08, vote average 5.9*
+
+A legendary American war veteran is recruited to hunt a mythical creature.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/UkP4bZKCHE8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -115,42 +142,6 @@ Magically able to hear what men are thinking, a sports agent uses her newfound a
 
 
 	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### The Man Who Killed Hitler and Then the Bigfoot
-*Released on 2019-02-08, vote average 5.4*
-
-A legendary American war veteran is recruited to hunt a mythical creature.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/UkP4bZKCHE8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -159,7 +150,7 @@ A legendary American war veteran is recruited to hunt a mythical creature.
 	
 
 ### Isn&#39;t It Romantic
-*Released on 2019-02-13, vote average 5.8*
+*Released on 2019-02-13, vote average 6.1*
 
 For a long time, Natalie, an Australian architect living in New York City, had always believed that what she had seen in rom-coms is all fantasy. But after thwarting a mugger at a subway station only to be knocked out while fleeing, Natalie wakes up and discovers that her life has suddenly become her worst nightmare—a romantic comedy—and she is the leading lady.
 
@@ -172,6 +163,43 @@ For a long time, Natalie, an Australian architect living in New York City, had a
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Prodigy
+*Released on 2019-02-07, vote average 6.1*
+
+A mother concerned about her young son&#39;s disturbing behavior thinks something supernatural may be affecting him.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/BC4cyYRxjFk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -204,38 +232,6 @@ Born into a tight-knit wrestling family, Paige and her brother Zak are ecstatic 
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Gully Boy
-*Released on 2019-02-14, vote average 8*
-
-A coming-of-age story based on the lives of street rappers in Mumbai.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/JfbxcD6biOk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -278,7 +274,11 @@ A coming-of-age story based on the lives of street rappers in Mumbai.
 	
 
 	
+	
+	
 
+	
+	
 	
 
 	
@@ -301,6 +301,23 @@ A coming-of-age story based on the lives of street rappers in Mumbai.
 
 	
 
+	
+	
+
+### The Journey
+*Released on 2019-02-20, vote average 6.3*
+
+Sara enters Baghdad station with sinister intentions for its reopening ceremony. As she braces to commit an unthinkable act, her plans are drastically altered by an unwanted and awkward encounter with Salam, a self-assured and flirtatious salesman. With Salam now hostage to Sara’s confused and deluded plan, he battles desperately to appeal to her humanity and sway her decision. In a moment of consideration and with her convictions crumbling before her, Sara is given the opportunity to witness the life and innocence she was so willing to destroy. But is this a second chance or an admission of guilt?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/DNDnRWEOW7Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
