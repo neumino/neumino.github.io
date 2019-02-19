@@ -88,15 +88,10 @@ The sun is dying out, a group of brave astronauts set out to find a new home for
 
 
 	
-
-  
-
-
-	
 	
 
 ### The Man Who Killed Hitler and Then the Bigfoot
-*Released on 2019-02-08, vote average 5.9*
+*Released on 2019-02-08, vote average 6*
 
 A legendary American war veteran is recruited to hunt a mythical creature.
 
@@ -109,11 +104,6 @@ A legendary American war veteran is recruited to hunt a mythical creature.
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -136,65 +126,6 @@ Magically able to hear what men are thinking, a sports agent uses her newfound a
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Isn&#39;t It Romantic
-*Released on 2019-02-13, vote average 6.1*
-
-For a long time, Natalie, an Australian architect living in New York City, had always believed that what she had seen in rom-coms is all fantasy. But after thwarting a mugger at a subway station only to be knocked out while fleeing, Natalie wakes up and discovers that her life has suddenly become her worst nightmare—a romantic comedy—and she is the leading lady.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8ZwgoVmILQU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Prodigy
-*Released on 2019-02-07, vote average 6.1*
-
-A mother concerned about her young son&#39;s disturbing behavior thinks something supernatural may be affecting him.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/BC4cyYRxjFk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -239,6 +170,73 @@ Born into a tight-knit wrestling family, Paige and her brother Zak are ecstatic 
 
 	
 	
+
+### Isn&#39;t It Romantic
+*Released on 2019-02-13, vote average 6.1*
+
+For a long time, Natalie, an Australian architect living in New York City, had always believed that what she had seen in rom-coms is all fantasy. But after thwarting a mugger at a subway station only to be knocked out while fleeing, Natalie wakes up and discovers that her life has suddenly become her worst nightmare—a romantic comedy—and she is the leading lady.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8ZwgoVmILQU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Love, Romance &amp; Chocolate
+*Released on 2019-02-16, vote average 6*
+
+Emma and chocolatier Luc compete for Belgium&#39;s Royal Chocolatier. The beauty and romance of Bruges inspire unique chocolate combinations, but will their entry win without them losing their hearts?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/uwk95b8KMXA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -266,27 +264,11 @@ Born into a tight-knit wrestling family, Paige and her brother Zak are ecstatic 
 	
 
 	
-
-	
-
-	
-
-	
-
-	
 	
 	
 
 	
 	
-	
-
-	
-
-	
-
-	
-
 	
 
 	
@@ -318,6 +300,22 @@ Sara enters Baghdad station with sinister intentions for its reopening ceremony.
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
