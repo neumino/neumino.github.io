@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Cold Pursuit
-*Released on 2019-02-07, vote average 5.4*
+### Happy Death Day 2U
+*Released on 2019-02-13, vote average 6.4*
 
-Nels Coxman&#39;s quiet life comes crashing down when his beloved son dies under mysterious circumstances. His search for the truth soon becomes a quest for revenge as he seeks coldblooded justice against a drug lord and his inner circle.
+Tree Gelbman learns that dying over and over again was surprisingly easier than the dangers that lie ahead.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/0phuNQQ_gHI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/IeXqWDFJZiw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,60 +46,16 @@ Nels Coxman&#39;s quiet life comes crashing down when his beloved son dies under
 	
 	
 
-### Happy Death Day 2U
-*Released on 2019-02-13, vote average 6.4*
+### Cold Pursuit
+*Released on 2019-02-07, vote average 5*
 
-Tree Gelbman learns that dying over and over again was surprisingly easier than the dangers that lie ahead.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IeXqWDFJZiw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Wandering Earth
-*Released on 2019-02-05, vote average 7.6*
-
-The sun is dying out, a group of brave astronauts set out to find a new home for the entire human race and the planet.
+Nels Coxman&#39;s quiet life comes crashing down when his beloved son dies under mysterious circumstances. His search for the truth soon becomes a quest for revenge as he seeks coldblooded justice against a drug lord and his inner circle.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/areWwcCRNHE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Man Who Killed Hitler and Then the Bigfoot
-*Released on 2019-02-08, vote average 6*
-
-A legendary American war veteran is recruited to hunt a mythical creature.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/UkP4bZKCHE8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/0phuNQQ_gHI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -132,47 +88,10 @@ Magically able to hear what men are thinking, a sports agent uses her newfound a
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Fighting with My Family
-*Released on 2019-02-14, vote average 10*
-
-Born into a tight-knit wrestling family, Paige and her brother Zak are ecstatic when they get the once-in-a-lifetime opportunity to try out for the WWE. But when only Paige earns a spot in the competitive training program, she must leave her loved ones behind and face this new cutthroat world alone. Paige&#39;s journey pushes her to dig deep and ultimately prove to the world that what makes her different is the very thing that can make her a star.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Mh4zSZHhEeo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### Isn&#39;t It Romantic
-*Released on 2019-02-13, vote average 6.1*
+*Released on 2019-02-13, vote average 5.6*
 
 For a long time, Natalie, an Australian architect living in New York City, had always believed that what she had seen in rom-coms is all fantasy. But after thwarting a mugger at a subway station only to be knocked out while fleeing, Natalie wakes up and discovers that her life has suddenly become her worst nightmare—a romantic comedy—and she is the leading lady.
 
@@ -211,6 +130,106 @@ For a long time, Natalie, an Australian architect living in New York City, had a
 
 
 	
+	
+	
+
+  
+
+
+	
+	
+
+### Fighting with My Family
+*Released on 2019-02-14, vote average 10*
+
+Born into a tight-knit wrestling family, Paige and her brother Zak are ecstatic when they get the once-in-a-lifetime opportunity to try out for the WWE. But when only Paige earns a spot in the competitive training program, she must leave her loved ones behind and face this new cutthroat world alone. Paige&#39;s journey pushes her to dig deep and ultimately prove to the world that what makes her different is the very thing that can make her a star.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Mh4zSZHhEeo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Kim Possible
+*Released on 2019-02-15, vote average 7.5*
+
+Everyday teen hero Kim Possible and her best friend Ron Stoppable embark on their freshman year of high school, all while saving the world from evil villains. While Kim and Ron have always been one step ahead of their opponents, navigating the social hierarchy of high school is more challenging than the action-hero ever imagined. With Drakken and Shego lurking in the wings, Kim must rely on her family and Team Possible—Ron, tech-genius Wade, new friend Athena, and Rufus, a Naked mole-rat.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PEm3qCUWTXw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Man Who Killed Hitler and Then the Bigfoot
+*Released on 2019-02-08, vote average 6*
+
+A legendary American war veteran is recruited to hunt a mythical creature.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/UkP4bZKCHE8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -242,37 +261,18 @@ Emma and chocolatier Luc compete for Belgium&#39;s Royal Chocolatier. The beauty
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
 
 	
-
-	
-	
-	
-
-	
 	
 	
 
 	
 
+	
+	
 	
 
 	
@@ -300,6 +300,10 @@ Sara enters Baghdad station with sinister intentions for its reopening ceremony.
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
 	
 
 	
