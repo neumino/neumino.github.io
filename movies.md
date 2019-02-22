@@ -46,32 +46,20 @@ Collegian Tree Gelbman wakes up in horror to learn that she&#39;s stuck in a par
 	
 	
 
-### Cold Pursuit
-*Released on 2019-02-07, vote average 4.9*
+### Foxtrot Six
+*Released on 2019-02-21, vote average 8*
 
-Nels Coxman&#39;s quiet life comes crashing down when his beloved son dies under mysterious circumstances. His search for the truth soon becomes a quest for revenge as he seeks coldblooded justice against a drug lord and his inner circle.
+Escalating climate change is turning the world economy upside down. With crops dying and food price spiking, FOOD has replaced oil as the world&#39;s most valuable commodity.  Among the very few lands still left fertile, Indonesia is quickly rising as the next economic superpower, when its government is suddenly and ruthlessly overtaken by a popular rogue political party.  In just three days, six former Marines must work together, find their long-lost brotherhood, stop a nationwide government- sanctioned genocide, and save millions of lives, for one last shot at redemption. Or die trying.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/0phuNQQ_gHI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/K6n3VPO1oGE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 	
 
   
@@ -107,10 +95,7 @@ Magically able to hear what men are thinking, a sports agent uses her newfound a
 
 
 	
-
-  
-
-
+	
 	
 
   
@@ -149,6 +134,75 @@ For a long time, Natalie, an Australian architect living in New York City, had a
 
 
 	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Fighting with My Family
+*Released on 2019-02-14, vote average 10*
+
+Born into a tight-knit wrestling family, Paige and her brother Zak are ecstatic when they get the once-in-a-lifetime opportunity to try out for the WWE. But when only Paige earns a spot in the competitive training program, she must leave her loved ones behind and face this new cutthroat world alone. Paige&#39;s journey pushes her to dig deep and ultimately prove to the world that what makes her different is the very thing that can make her a star.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Mh4zSZHhEeo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 
   
 
@@ -170,58 +224,6 @@ Sara enters Baghdad station with sinister intentions for its reopening ceremony.
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Prodigy
-*Released on 2019-02-07, vote average 6.1*
-
-A mother concerned about her young son&#39;s disturbing behavior thinks something supernatural may be affecting him.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/BC4cyYRxjFk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -269,8 +271,6 @@ A mother concerned about her young son&#39;s disturbing behavior thinks somethin
 
 	
 
-	
-	
 	
 
 
