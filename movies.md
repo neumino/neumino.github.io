@@ -47,7 +47,7 @@ Collegian Tree Gelbman wakes up in horror to learn that she&#39;s stuck in a par
 	
 
 ### Foxtrot Six
-*Released on 2019-02-21, vote average 8*
+*Released on 2019-02-21, vote average 7*
 
 Escalating climate change is turning the world economy upside down. With crops dying and food price spiking, FOOD has replaced oil as the world&#39;s most valuable commodity.  Among the very few lands still left fertile, Indonesia is quickly rising as the next economic superpower, when its government is suddenly and ruthlessly overtaken by a popular rogue political party.  In just three days, six former Marines must work together, find their long-lost brotherhood, stop a nationwide government- sanctioned genocide, and save millions of lives, for one last shot at redemption. Or die trying.
 
@@ -66,32 +66,10 @@ Escalating climate change is turning the world economy upside down. With crops d
 
 
 	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### Paris Is Us
-*Released on 2019-02-22, vote average 7.5*
+*Released on 2019-02-22, vote average 5.9*
 
 Dreams and reality collide as a young woman navigates a tumultuous relationship amid rising social tensions, protests and tragedies in Paris.
 
@@ -148,6 +126,41 @@ Dreams and reality collide as a young woman navigates a tumultuous relationship 
 
 	
 	
+
+### Furie
+*Released on 2019-02-22, vote average 6*
+
+When a little girl is kidnapped by a trafficking ring, they soon find they messed with the wrong child. Her mother, a notorious former gang leader, is close on their trail and will go to any lengths to bring her child home.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/rrDVvRuSXIM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -186,6 +199,23 @@ Dreams and reality collide as a young woman navigates a tumultuous relationship 
 
 	
 
+	
+	
+
+### The Hole in the Ground
+*Released on 2019-03-01, vote average 6*
+
+Trying to escape her broken past, Sarah O’Neill is building a new life on the fringes of a backwood rural town with her young son Chris. A terrifying encounter with a mysterious neighbour shatters her fragile security, throwing Sarah into a spiralling nightmare of paranoia and mistrust, as she tries to uncover if the disturbing changes in her little boy are connected to an ominous sinkhole buried deep in the forest that borders their home.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/BxY2vnJiByw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
