@@ -47,7 +47,7 @@ Collegian Tree Gelbman wakes up in horror to learn that she&#39;s stuck in a par
 	
 
 ### Paris Is Us
-*Released on 2019-02-22, vote average 5.9*
+*Released on 2019-02-22, vote average 6*
 
 Dreams and reality collide as a young woman navigates a tumultuous relationship amid rising social tensions, protests and tragedies in Paris.
 
@@ -88,23 +88,6 @@ Escalating climate change is turning the world economy upside down. With crops d
 
 
 	
-	
-
-### Total Dhamaal
-*Released on 2019-02-22, vote average 5.5*
-
-Con-artists Guddu and Johnny, a bickering couple Avinash and Bindu who are on a verge of divorce, a fireman Lallan and his side-kick siblings Adi and Manav and a cunning police commissioner set out on a mad chase for a hidden booty of Rs 50 crores in a zoo in Janakpur.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/fo9EhcwQXcM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -118,7 +101,7 @@ Con-artists Guddu and Johnny, a bickering couple Avinash and Bindu who are on a 
 	
 
 ### Fighting with My Family
-*Released on 2019-02-14, vote average 9*
+*Released on 2019-02-14, vote average 7.9*
 
 Born into a tight-knit wrestling family, Paige and her brother Zak are ecstatic when they get the once-in-a-lifetime opportunity to try out for the WWE. But when only Paige earns a spot in the competitive training program, she must leave her loved ones behind and face this new cutthroat world alone. Paige&#39;s journey pushes her to dig deep and ultimately prove to the world that what makes her different is the very thing that can make her a star.
 
@@ -137,15 +120,29 @@ Born into a tight-knit wrestling family, Paige and her brother Zak are ecstatic 
 
 
 	
+	
 
-  
+### Isn&#39;t It Romantic
+*Released on 2019-02-13, vote average 6*
 
+For a long time, Natalie, an Australian architect living in New York City, had always believed that what she had seen in rom-coms is all fantasy. But after thwarting a mugger at a subway station only to be knocked out while fleeing, Natalie wakes up and discovers that her life has suddenly become her worst nightmare—a romantic comedy—and she is the leading lady.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8ZwgoVmILQU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
 
 
+	
+	
 	
 
   
@@ -155,7 +152,7 @@ Born into a tight-knit wrestling family, Paige and her brother Zak are ecstatic 
 	
 
 ### Donnybrook
-*Released on 2019-02-15, vote average 8*
+*Released on 2019-02-15, vote average 6.5*
 
 An ex-marine who struggles to provide for his family and a violent drug dealer with an undefeated fighting record are determined to compete in the Donnybrook, a legendary, bare-knuckle brawl with a cash prize of $100,000.
 
@@ -184,6 +181,44 @@ An ex-marine who struggles to provide for his family and a violent drug dealer w
 
 
 	
+	
+
+### Total Dhamaal
+*Released on 2019-02-22, vote average 5.5*
+
+Con-artists Guddu and Johnny, a bickering couple Avinash and Bindu who are on a verge of divorce, a fireman Lallan and his side-kick siblings Adi and Manav and a cunning police commissioner set out on a mad chase for a hidden booty of Rs 50 crores in a zoo in Janakpur.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fo9EhcwQXcM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
 
   
 
@@ -194,23 +229,18 @@ An ex-marine who struggles to provide for his family and a violent drug dealer w
 
 
 	
-
-  
-
-
-	
 	
 
-### Furie
+### Firebrand
 *Released on 2019-02-22, vote average 6*
 
-When a little girl is kidnapped by a trafficking ring, they soon find they messed with the wrong child. Her mother, a notorious former gang leader, is close on their trail and will go to any lengths to bring her child home.
+While she advocates for her female clients in divorce cases, a lawyer&#39;s trauma from sexual violence impacts her own marriage.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/rrDVvRuSXIM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/vMvg6LtskNc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -221,34 +251,10 @@ When a little girl is kidnapped by a trafficking ring, they soon find they messe
 
 
 	
-	
-	
 
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Isn&#39;t It Romantic
-*Released on 2019-02-13, vote average 5.8*
-
-For a long time, Natalie, an Australian architect living in New York City, had always believed that what she had seen in rom-coms is all fantasy. But after thwarting a mugger at a subway station only to be knocked out while fleeing, Natalie wakes up and discovers that her life has suddenly become her worst nightmare—a romantic comedy—and she is the leading lady.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8ZwgoVmILQU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -262,10 +268,6 @@ For a long time, Natalie, an Australian architect living in New York City, had a
 
 ## Opening soon
 
-
-	
-
-	
 
 	
 	
@@ -284,6 +286,10 @@ Trying to escape her broken past, Sarah O’Neill is building a new life on the 
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
 	
 
 	
