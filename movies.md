@@ -47,7 +47,7 @@ Collegian Tree Gelbman wakes up in horror to learn that she&#39;s stuck in a par
 	
 
 ### Paris Is Us
-*Released on 2019-02-22, vote average 6*
+*Released on 2019-02-22, vote average 5.7*
 
 Dreams and reality collide as a young woman navigates a tumultuous relationship amid rising social tensions, protests and tragedies in Paris.
 
@@ -56,60 +56,6 @@ Dreams and reality collide as a young woman navigates a tumultuous relationship 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/YG6JJXyMbAw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Foxtrot Six
-*Released on 2019-02-21, vote average 7*
-
-Escalating climate change is turning the world economy upside down. With crops dying and food price spiking, FOOD has replaced oil as the world&#39;s most valuable commodity.  Among the very few lands still left fertile, Indonesia is quickly rising as the next economic superpower, when its government is suddenly and ruthlessly overtaken by a popular rogue political party.  In just three days, six former Marines must work together, find their long-lost brotherhood, stop a nationwide government- sanctioned genocide, and save millions of lives, for one last shot at redemption. Or die trying.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/K6n3VPO1oGE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Fighting with My Family
-*Released on 2019-02-14, vote average 7.9*
-
-Born into a tight-knit wrestling family, Paige and her brother Zak are ecstatic when they get the once-in-a-lifetime opportunity to try out for the WWE. But when only Paige earns a spot in the competitive training program, she must leave her loved ones behind and face this new cutthroat world alone. Paige&#39;s journey pushes her to dig deep and ultimately prove to the world that what makes her different is the very thing that can make her a star.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Mh4zSZHhEeo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -142,6 +88,48 @@ For a long time, Natalie, an Australian architect living in New York City, had a
 
 
 	
+
+  
+
+
+	
+	
+
+### Foxtrot Six
+*Released on 2019-02-21, vote average 7*
+
+Escalating climate change is turning the world economy upside down. With crops dying and food price spiking, FOOD has replaced oil as the world&#39;s most valuable commodity.  Among the very few lands still left fertile, Indonesia is quickly rising as the next economic superpower, when its government is suddenly and ruthlessly overtaken by a popular rogue political party.  In just three days, six former Marines must work together, find their long-lost brotherhood, stop a nationwide government- sanctioned genocide, and save millions of lives, for one last shot at redemption. Or die trying.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/K6n3VPO1oGE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Fighting with My Family
+*Released on 2019-02-14, vote average 7.8*
+
+Born into a tight-knit wrestling family, Paige and her brother Zak are ecstatic when they get the once-in-a-lifetime opportunity to try out for the WWE. But when only Paige earns a spot in the competitive training program, she must leave her loved ones behind and face this new cutthroat world alone. Paige&#39;s journey pushes her to dig deep and ultimately prove to the world that what makes her different is the very thing that can make her a star.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Mh4zSZHhEeo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -181,18 +169,50 @@ An ex-marine who struggles to provide for his family and a violent drug dealer w
 
 
 	
+
+  
+
+
 	
 
-### Total Dhamaal
-*Released on 2019-02-22, vote average 5.5*
+  
 
-Con-artists Guddu and Johnny, a bickering couple Avinash and Bindu who are on a verge of divorce, a fireman Lallan and his side-kick siblings Adi and Manav and a cunning police commissioner set out on a mad chase for a hidden booty of Rs 50 crores in a zoo in Janakpur.
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Trading Paint
+*Released on 2019-02-22, vote average 10*
+
+The love and rivalry between a racing veteran and his fellow driver son creates many conflicts for a family.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/fo9EhcwQXcM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/4hzfdq-aFpU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -203,47 +223,6 @@ Con-artists Guddu and Johnny, a bickering couple Avinash and Bindu who are on a 
 
 
 	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Firebrand
-*Released on 2019-02-22, vote average 6*
-
-While she advocates for her female clients in divorce cases, a lawyer&#39;s trauma from sexual violence impacts her own marriage.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vMvg6LtskNc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -270,6 +249,10 @@ While she advocates for her female clients in divorce cases, a lawyer&#39;s trau
 
 
 	
+
+	
+
+	
 	
 
 ### The Hole in the Ground
@@ -286,10 +269,6 @@ Trying to escape her broken past, Sarah O’Neill is building a new life on the 
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
 	
 
 	
