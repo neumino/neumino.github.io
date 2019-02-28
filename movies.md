@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Happy Death Day 2U
-*Released on 2019-02-13, vote average 6.3*
+### Paris Is Us
+*Released on 2019-02-22, vote average 5.4*
 
-Collegian Tree Gelbman wakes up in horror to learn that she&#39;s stuck in a parallel universe. Her boyfriend Carter is now with someone else, and her friends and fellow students seem to be completely different versions of themselves. When Tree discovers that Carter&#39;s roommate has been altering time, she finds herself once again the target of a masked killer. When the psychopath starts to go after her inner circle, Tree soon realizes that she must die over and over again to save everyone.
+Dreams and reality collide as a young woman navigates a tumultuous relationship amid rising social tensions, protests and tragedies in Paris.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/IeXqWDFJZiw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/YG6JJXyMbAw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -40,50 +40,6 @@ Collegian Tree Gelbman wakes up in horror to learn that she&#39;s stuck in a par
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-
-
-	
-	
-
-### Paris Is Us
-*Released on 2019-02-22, vote average 5.7*
-
-Dreams and reality collide as a young woman navigates a tumultuous relationship amid rising social tensions, protests and tragedies in Paris.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/YG6JJXyMbAw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Isn&#39;t It Romantic
-*Released on 2019-02-13, vote average 6*
-
-For a long time, Natalie, an Australian architect living in New York City, had always believed that what she had seen in rom-coms is all fantasy. But after thwarting a mugger at a subway station only to be knocked out while fleeing, Natalie wakes up and discovers that her life has suddenly become her worst nightmare—a romantic comedy—and she is the leading lady.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8ZwgoVmILQU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
   
 
 
@@ -115,55 +71,6 @@ Escalating climate change is turning the world economy upside down. With crops d
 
 
 	
-	
-
-### Fighting with My Family
-*Released on 2019-02-14, vote average 7.8*
-
-Born into a tight-knit wrestling family, Paige and her brother Zak are ecstatic when they get the once-in-a-lifetime opportunity to try out for the WWE. But when only Paige earns a spot in the competitive training program, she must leave her loved ones behind and face this new cutthroat world alone. Paige&#39;s journey pushes her to dig deep and ultimately prove to the world that what makes her different is the very thing that can make her a star.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Mh4zSZHhEeo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Donnybrook
-*Released on 2019-02-15, vote average 6.5*
-
-An ex-marine who struggles to provide for his family and a violent drug dealer with an undefeated fighting record are determined to compete in the Donnybrook, a legendary, bare-knuckle brawl with a cash prize of $100,000.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/dlxYlvNlj8o?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 
   
 
@@ -180,6 +87,28 @@ An ex-marine who struggles to provide for his family and a violent drug dealer w
 
 	
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -223,7 +152,10 @@ The love and rivalry between a racing veteran and his fellow driver son creates 
 
 
 	
-	
+
+  
+
+
 	
 
   
@@ -253,10 +185,14 @@ The love and rivalry between a racing veteran and his fellow driver son creates 
 	
 
 	
+
+	
+
+	
 	
 
 ### The Hole in the Ground
-*Released on 2019-03-01, vote average 6*
+*Released on 2019-03-01, vote average 6.7*
 
 Trying to escape her broken past, Sarah O’Neill is building a new life on the fringes of a backwood rural town with her young son Chris. A terrifying encounter with a mysterious neighbour shatters her fragile security, throwing Sarah into a spiralling nightmare of paranoia and mistrust, as she tries to uncover if the disturbing changes in her little boy are connected to an ominous sinkhole buried deep in the forest that borders their home.
 
@@ -274,9 +210,7 @@ Trying to escape her broken past, Sarah O’Neill is building a new life on the 
 	
 
 	
-
 	
-
 	
 
 	
