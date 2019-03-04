@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### A Madea Family Funeral
-*Released on 2019-03-01, vote average 9.5*
+### Trading Paint
+*Released on 2019-02-22, vote average 10*
 
-A joyous family reunion becomes a hilarious nightmare as Madea and the crew travel to backwoods Georgia, where they find themselves unexpectedly planning a funeral that might unveil unpleasant family secrets.
+The love and rivalry between a racing veteran and his fellow driver son creates many conflicts for a family.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/id61hcbdMZA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/4hzfdq-aFpU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -40,55 +40,6 @@ A joyous family reunion becomes a hilarious nightmare as Madea and the crew trav
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-
-
-	
-	
-
-### Trading Paint
-*Released on 2019-02-22, vote average 10*
-
-The love and rivalry between a racing veteran and his fellow driver son creates many conflicts for a family.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/4hzfdq-aFpU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Hole in the Ground
-*Released on 2019-03-01, vote average 6.8*
-
-Trying to escape her broken past, Sarah O’Neill is building a new life on the fringes of a backwood rural town with her young son Chris. A terrifying encounter with a mysterious neighbour shatters her fragile security, throwing Sarah into a spiralling nightmare of paranoia and mistrust, as she tries to uncover if the disturbing changes in her little boy are connected to an ominous sinkhole buried deep in the forest that borders their home.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/BxY2vnJiByw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
   
 
 
@@ -115,45 +66,18 @@ Lucas, a 14-year-old boy inducted into the gang life in Washington D.C., is dete
 
 
 	
-
-  
-
-
 	
 
-  
+### A Madea Family Funeral
+*Released on 2019-03-01, vote average 8.5*
 
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Feedback
-*Released on 2019-03-01, vote average 10*
-
-A radio host is kidnapped on air and forced to tell secrets about his past.
+A joyous family reunion becomes a hilarious nightmare as Madea and the crew travel to backwoods Georgia, where they find themselves unexpectedly planning a funeral that might unveil unpleasant family secrets.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/V-WxXDT9N_o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/id61hcbdMZA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -164,43 +88,18 @@ A radio host is kidnapped on air and forced to tell secrets about his past.
 
 
 	
-
-  
-
-
 	
 
-  
+### The Hole in the Ground
+*Released on 2019-03-01, vote average 6.2*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Killer Reputation
-*Released on 2019-03-01, vote average 6*
-
-Hollywood PR maven Adrienne takes pride in her low profile and good reputation. Yet she risks both to help a fading action star accused of killing his ex-wife. She believes he’s innocent because she knows him better than most; they were college sweethearts. But whoever the real killer is, no one in Gareth’s life is safe, and once again… that includes Adrienne. Shara Connolly, Mark Lawson, Anna Hutchison star.
+Trying to escape her broken past, Sarah O’Neill is building a new life on the fringes of a backwood rural town with her young son Chris. A terrifying encounter with a mysterious neighbour shatters her fragile security, throwing Sarah into a spiralling nightmare of paranoia and mistrust, as she tries to uncover if the disturbing changes in her little boy are connected to an ominous sinkhole buried deep in the forest that borders their home.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/CVkW52MrjVU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/BxY2vnJiByw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -214,7 +113,7 @@ Hollywood PR maven Adrienne takes pride in her low profile and good reputation. 
 	
 
 ### Apollo 11
-*Released on 2019-03-01, vote average 6*
+*Released on 2019-03-01, vote average 8*
 
 A look at the Apollo 11 mission to land on the moon led by commander Neil Armstrong and pilot Buzz Aldrin.
 
@@ -238,6 +137,141 @@ A look at the Apollo 11 mission to land on the moon led by commander Neil Armstr
 
 
 	
+	
+
+### The Aftermath
+*Released on 2019-03-01, vote average 1*
+
+In the aftermath of World War II, a British colonel and his wife are assigned to live in Hamburg during the post-war reconstruction, but tensions arise with the German widower who lives with them.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FPv3e2FZOgo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Greta
+*Released on 2019-03-01, vote average 5*
+
+A young woman returns an elderly widow’s lost purse, leading to an unlikely relationship between the two — until the young woman discovers her elder might not be all that she seems.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/WAEoJkL_8zU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Run the Race
+*Released on 2019-02-22, vote average 2*
+
+Reeling from his mother’s death and his father’s abandonment, Zach, an All-State athlete, finds glory on the football field, working to earn a college scholarship and the brothers’ ticket out of town. When a devastating injury puts Zach—and his dreams—on the sidelines, David laces up his track cleats to salvage their future and point Zach toward hope.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZJAl7A6oTvQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Feedback
+*Released on 2019-03-01, vote average 6.5*
+
+A radio host is kidnapped on air and forced to tell secrets about his past.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/V-WxXDT9N_o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 
   
 
@@ -246,6 +280,23 @@ A look at the Apollo 11 mission to land on the moon led by commander Neil Armstr
 ## Opening soon
 
 
+	
+	
+
+### Captain Marvel
+*Released on 2019-03-06, vote average 4.7*
+
+The story follows Carol Danvers as she becomes one of the universe’s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Z1BCujX3pw8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
