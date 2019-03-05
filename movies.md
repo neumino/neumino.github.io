@@ -46,16 +46,16 @@ The love and rivalry between a racing veteran and his fellow driver son creates 
 	
 	
 
-### We Die Young
-*Released on 2019-03-01, vote average 6*
+### A Madea Family Funeral
+*Released on 2019-03-01, vote average 7.3*
 
-Lucas, a 14-year-old boy inducted into the gang life in Washington D.C., is determined that his 10-year-old brother won&#39;t follow the same path. When an Afghanistan war veteran comes into the neighborhood, an opportunity arises.
+A joyous family reunion becomes a hilarious nightmare as Madea and the crew travel to backwoods Georgia, where they find themselves unexpectedly planning a funeral that might unveil unpleasant family secrets.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/EflGhkNvWPM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/id61hcbdMZA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,16 +68,16 @@ Lucas, a 14-year-old boy inducted into the gang life in Washington D.C., is dete
 	
 	
 
-### A Madea Family Funeral
-*Released on 2019-03-01, vote average 8.5*
+### We Die Young
+*Released on 2019-03-01, vote average 7*
 
-A joyous family reunion becomes a hilarious nightmare as Madea and the crew travel to backwoods Georgia, where they find themselves unexpectedly planning a funeral that might unveil unpleasant family secrets.
+Lucas, a 14-year-old boy inducted into the gang life in Washington D.C., is determined that his 10-year-old brother won&#39;t follow the same path. When an Afghanistan war veteran comes into the neighborhood, an opportunity arises.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/id61hcbdMZA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/EflGhkNvWPM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -104,6 +104,60 @@ Trying to escape her broken past, Sarah O’Neill is building a new life on the 
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Greta
+*Released on 2019-03-01, vote average 5.3*
+
+A young woman returns an elderly widow’s lost purse, leading to an unlikely relationship between the two — until the young woman discovers her elder might not be all that she seems.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/WAEoJkL_8zU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Foxtrot Six
+*Released on 2019-02-21, vote average 6*
+
+Escalating climate change is turning the world economy upside down. With crops dying and food price spiking, FOOD has replaced oil as the world&#39;s most valuable commodity.  Among the very few lands still left fertile, Indonesia is quickly rising as the next economic superpower, when its government is suddenly and ruthlessly overtaken by a popular rogue political party.  In just three days, six former Marines must work together, find their long-lost brotherhood, stop a nationwide government- sanctioned genocide, and save millions of lives, for one last shot at redemption. Or die trying.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/K6n3VPO1oGE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -138,9 +192,16 @@ A look at the Apollo 11 mission to land on the moon led by commander Neil Armstr
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### The Aftermath
-*Released on 2019-03-01, vote average 1*
+*Released on 2019-03-01, vote average 0.8*
 
 In the aftermath of World War II, a British colonel and his wife are assigned to live in Hamburg during the post-war reconstruction, but tensions arise with the German widower who lives with them.
 
@@ -159,21 +220,36 @@ In the aftermath of World War II, a British colonel and his wife are assigned to
 
 
 	
+
+  
+
+
 	
 
-### Greta
-*Released on 2019-03-01, vote average 5*
+  
 
-A young woman returns an elderly widow’s lost purse, leading to an unlikely relationship between the two — until the young woman discovers her elder might not be all that she seems.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/WAEoJkL_8zU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
+	
 
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 	
 
@@ -202,80 +278,6 @@ Reeling from his mother’s death and his father’s abandonment, Zach, an All-S
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Feedback
-*Released on 2019-03-01, vote average 6.5*
-
-A radio host is kidnapped on air and forced to tell secrets about his past.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/V-WxXDT9N_o?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -284,7 +286,7 @@ A radio host is kidnapped on air and forced to tell secrets about his past.
 	
 
 ### Captain Marvel
-*Released on 2019-03-06, vote average 4.7*
+*Released on 2019-03-06, vote average 5.2*
 
 The story follows Carol Danvers as she becomes one of the universe’s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe.
 
@@ -323,6 +325,8 @@ The story follows Carol Danvers as she becomes one of the universe’s most powe
 
 	
 
+	
+	
 	
 
 	
