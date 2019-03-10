@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Captain Marvel
-*Released on 2019-03-06, vote average 7.2*
+*Released on 2019-03-06, vote average 7.3*
 
 The story follows Carol Danvers as she becomes one of the universe’s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe.
 
@@ -46,8 +46,35 @@ The story follows Carol Danvers as she becomes one of the universe’s most powe
 	
 	
 
+### I&#39;m Not Here
+*Released on 2019-03-08, vote average 6*
+
+A man struggles with the tragic memories of his past to make sense of his present, but soon realizes that time isn&#39;t the enemy he thinks it is.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/dnvDA74Plqs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### A Madea Family Funeral
-*Released on 2019-03-01, vote average 6.7*
+*Released on 2019-03-01, vote average 6.8*
 
 A joyous family reunion becomes a hilarious nightmare as Madea and the crew travel to backwoods Georgia, where they find themselves unexpectedly planning a funeral that might unveil unpleasant family secrets.
 
@@ -66,10 +93,29 @@ A joyous family reunion becomes a hilarious nightmare as Madea and the crew trav
 
 
 	
+	
+	
 
   
 
 
+	
+	
+
+### Juanita
+*Released on 2019-03-08, vote average 5.3*
+
+Fed up with her deadbeat grown kids and marginal urban existence, Juanita takes a Greyhound bus to Paper Moon, Montana where she reinvents herself and finds her mojo.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kg5uqDh00H4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -79,7 +125,7 @@ A joyous family reunion becomes a hilarious nightmare as Madea and the crew trav
 	
 
 ### The Boy Who Harnessed the Wind
-*Released on 2019-03-01, vote average 8.1*
+*Released on 2019-03-01, vote average 8*
 
 Against all the odds, a thirteen year old boy in Malawi invents an unconventional way to save his family and village from famine.
 
@@ -98,10 +144,30 @@ Against all the odds, a thirteen year old boy in Malawi invents an unconventiona
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### Gloria Bell
-*Released on 2019-03-07, vote average 7*
+*Released on 2019-03-07, vote average 4.5*
 
 Gloria is a free-spirited divorcée who spends her days at a straight-laced office job and her nights on the dance floor, joyfully letting loose at clubs around Los Angeles. After meeting Arnold on a night out, she finds herself thrust into an unexpected new romance, filled with both the joys of budding love and the complications of dating, identity, and family.
 
@@ -120,97 +186,31 @@ Gloria is a free-spirited divorcée who spends her days at a straight-laced offi
 
 
 	
+
+  
+
+
 	
 
-### Triple Frontier
-*Released on 2019-03-06, vote average 1*
+  
 
-Struggling to make ends meet, former special ops soldiers reunite for a high-stakes heist: stealing $75 million from a South American drug lord.
+
+	
+	
+
+### Badla
+*Released on 2019-03-08, vote average 7*
+
+A dynamic young entrepreneur finds herself locked in a hotel room with the corpse of her dead lover. She hires a prestigious lawyer to defend her and they work together to figure out what actually happened.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Fo3yRLLrXQA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/mSlgu8AQAd4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### We Die Young
-*Released on 2019-03-01, vote average 6.3*
-
-Lucas, a 14-year-old boy inducted into the gang life in Washington D.C., is determined that his 10-year-old brother won&#39;t follow the same path. When an Afghanistan war veteran comes into the neighborhood, an opportunity arises.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EflGhkNvWPM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Professor and the Madman
-*Released on 2019-03-07, vote average 8*
-
-Professor James Murray begins work compiling words for the first edition of the Oxford English Dictionary in the mid 19th century and receives over 10,000 entries from a patient at Broadmoor Criminal Lunatic Asylum , Dr William Minor.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/C8PKn2r48Bg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -246,6 +246,23 @@ Professor James Murray begins work compiling words for the first edition of the 
 ## Opening soon
 
 
+	
+	
+
+### Us
+*Released on 2019-03-14, vote average 10*
+
+Husband and wife Gabe and Adelaide Wilson take their kids to their beach house expecting to unplug and unwind with friends. But as night descends, their serenity turns to tension and chaos when some shocking visitors arrive uninvited.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hNCmb-4oXJA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
