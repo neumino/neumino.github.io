@@ -45,26 +45,6 @@ The story follows Carol Danvers as she becomes one of the universe’s most powe
 
 	
 	
-
-### I&#39;m Not Here
-*Released on 2019-03-08, vote average 6*
-
-A man struggles with the tragic memories of his past to make sense of his present, but soon realizes that time isn&#39;t the enemy he thinks it is.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/dnvDA74Plqs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -74,7 +54,7 @@ A man struggles with the tragic memories of his past to make sense of his presen
 	
 
 ### A Madea Family Funeral
-*Released on 2019-03-01, vote average 6.8*
+*Released on 2019-03-01, vote average 7.3*
 
 A joyous family reunion becomes a hilarious nightmare as Madea and the crew travel to backwoods Georgia, where they find themselves unexpectedly planning a funeral that might unveil unpleasant family secrets.
 
@@ -94,16 +74,9 @@ A joyous family reunion becomes a hilarious nightmare as Madea and the crew trav
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Juanita
-*Released on 2019-03-08, vote average 5.3*
+*Released on 2019-03-08, vote average 4.6*
 
 Fed up with her deadbeat grown kids and marginal urban existence, Juanita takes a Greyhound bus to Paper Moon, Montana where she reinvents herself and finds her mojo.
 
@@ -112,6 +85,28 @@ Fed up with her deadbeat grown kids and marginal urban existence, Juanita takes 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/kg5uqDh00H4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### I&#39;m Not Here
+*Released on 2019-03-08, vote average 6*
+
+A man struggles with the tragic memories of his past to make sense of his present, but soon realizes that time isn&#39;t the enemy he thinks it is.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/dnvDA74Plqs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -164,23 +159,6 @@ Against all the odds, a thirteen year old boy in Malawi invents an unconventiona
 
 
 	
-	
-
-### Gloria Bell
-*Released on 2019-03-07, vote average 4.5*
-
-Gloria is a free-spirited divorcée who spends her days at a straight-laced office job and her nights on the dance floor, joyfully letting loose at clubs around Los Angeles. After meeting Arnold on a night out, she finds herself thrust into an unexpected new romance, filled with both the joys of budding love and the complications of dating, identity, and family.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/YCwCdQK2Qss?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -196,22 +174,10 @@ Gloria is a free-spirited divorcée who spends her days at a straight-laced offi
 
 
 	
-	
 
-### Badla
-*Released on 2019-03-08, vote average 7*
+  
 
-A dynamic young entrepreneur finds herself locked in a hotel room with the corpse of her dead lover. She hires a prestigious lawyer to defend her and they work together to figure out what actually happened.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/mSlgu8AQAd4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -293,6 +259,8 @@ Husband and wife Gabe and Adelaide Wilson take their kids to their beach house e
 
 	
 
+	
+	
 	
 
 	
