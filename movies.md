@@ -45,13 +45,6 @@ The story follows Carol Danvers as she becomes one of the universe’s most powe
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### A Madea Family Funeral
 *Released on 2019-03-01, vote average 7.3*
@@ -76,7 +69,7 @@ A joyous family reunion becomes a hilarious nightmare as Madea and the crew trav
 	
 
 ### Juanita
-*Released on 2019-03-08, vote average 4.6*
+*Released on 2019-03-08, vote average 5.2*
 
 Fed up with her deadbeat grown kids and marginal urban existence, Juanita takes a Greyhound bus to Paper Moon, Montana where she reinvents herself and finds her mojo.
 
@@ -97,16 +90,16 @@ Fed up with her deadbeat grown kids and marginal urban existence, Juanita takes 
 	
 	
 
-### I&#39;m Not Here
-*Released on 2019-03-08, vote average 6*
+### Walk. Ride. Rodeo.
+*Released on 2019-03-08, vote average 7.1*
 
-A man struggles with the tragic memories of his past to make sense of his present, but soon realizes that time isn&#39;t the enemy he thinks it is.
+
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/dnvDA74Plqs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/BK0rbzLk0YI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -138,6 +131,28 @@ Against all the odds, a thirteen year old boy in Malawi invents an unconventiona
   
 
 
+	
+
+  
+
+
+	
+	
+
+### I&#39;m Not Here
+*Released on 2019-03-08, vote average 6*
+
+A man struggles with the tragic memories of his past to make sense of his present, but soon realizes that time isn&#39;t the enemy he thinks it is.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/dnvDA74Plqs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -244,6 +259,35 @@ Husband and wife Gabe and Adelaide Wilson take their kids to their beach house e
 	
 
 	
+	
+	
+
+	
+
+	
+
+	
+	
+
+### Hotel Mumbai
+*Released on 2019-03-14, vote average 9.5*
+
+Based on the 2009 documentary Surviving Mumbai about the Mumbai attacks in 2008 at the Taj Mahal Palace Hotel in India.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ygfTbGmKRd0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+	
 
 	
 
@@ -254,15 +298,7 @@ Husband and wife Gabe and Adelaide Wilson take their kids to their beach house e
 	
 
 	
-
 	
-
-	
-
-	
-	
-	
-
 	
 
 	
