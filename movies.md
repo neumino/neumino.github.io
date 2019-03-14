@@ -47,7 +47,7 @@ The story follows Carol Danvers as she becomes one of the universe’s most powe
 	
 
 ### A Madea Family Funeral
-*Released on 2019-03-01, vote average 7.3*
+*Released on 2019-03-01, vote average 7.4*
 
 A joyous family reunion becomes a hilarious nightmare as Madea and the crew travel to backwoods Georgia, where they find themselves unexpectedly planning a funeral that might unveil unpleasant family secrets.
 
@@ -68,38 +68,16 @@ A joyous family reunion becomes a hilarious nightmare as Madea and the crew trav
 	
 	
 
-### Juanita
-*Released on 2019-03-08, vote average 5.2*
+### Us
+*Released on 2019-03-14, vote average 8.6*
 
-Fed up with her deadbeat grown kids and marginal urban existence, Juanita takes a Greyhound bus to Paper Moon, Montana where she reinvents herself and finds her mojo.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kg5uqDh00H4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Walk. Ride. Rodeo.
-*Released on 2019-03-08, vote average 7.1*
-
-
+Husband and wife Gabe and Adelaide Wilson take their kids to their beach house expecting to unplug and unwind with friends. But as night descends, their serenity turns to tension and chaos when some shocking visitors arrive uninvited.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/BK0rbzLk0YI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/hNCmb-4oXJA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -132,23 +110,18 @@ Against all the odds, a thirteen year old boy in Malawi invents an unconventiona
 
 
 	
-
-  
-
-
-	
 	
 
-### I&#39;m Not Here
-*Released on 2019-03-08, vote average 6*
+### Wonder Park
+*Released on 2019-03-14, vote average 4*
 
-A man struggles with the tragic memories of his past to make sense of his present, but soon realizes that time isn&#39;t the enemy he thinks it is.
+The story of a magnificent amusement park where the imagination of a wildly creative girl named June comes alive.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/dnvDA74Plqs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/vYm7mYd0SgE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -164,6 +137,23 @@ A man struggles with the tragic memories of his past to make sense of his presen
 
 
 	
+	
+
+### Walk. Ride. Rodeo.
+*Released on 2019-03-08, vote average 6.8*
+
+
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/BK0rbzLk0YI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -173,6 +163,52 @@ A man struggles with the tragic memories of his past to make sense of his presen
   
 
 
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Juanita
+*Released on 2019-03-08, vote average 5.1*
+
+Fed up with her deadbeat grown kids and marginal urban existence, Juanita takes a Greyhound bus to Paper Moon, Montana where she reinvents herself and finds her mojo.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kg5uqDh00H4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Hotel Mumbai
+*Released on 2019-03-14, vote average 9.8*
+
+In 2008 the Taj Mahal Palace Hotel in Mumbai becomes the target of a deadly attack by Pakistani militants. Dozens of people are held hostage as fire races through the building.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Dz4jnixs8yA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -231,7 +267,7 @@ A man struggles with the tragic memories of his past to make sense of his presen
 	
 
 ### Us
-*Released on 2019-03-14, vote average 10*
+*Released on 2019-03-14, vote average 8.6*
 
 Husband and wife Gabe and Adelaide Wilson take their kids to their beach house expecting to unplug and unwind with friends. But as night descends, their serenity turns to tension and chaos when some shocking visitors arrive uninvited.
 
@@ -247,21 +283,22 @@ Husband and wife Gabe and Adelaide Wilson take their kids to their beach house e
 	
 
 	
-
 	
 
-	
+### Wonder Park
+*Released on 2019-03-14, vote average 4*
+
+The story of a magnificent amusement park where the imagination of a wildly creative girl named June comes alive.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vYm7mYd0SgE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-	
-
-	
-
-	
-	
-	
-
 	
 
 	
@@ -270,15 +307,15 @@ Husband and wife Gabe and Adelaide Wilson take their kids to their beach house e
 	
 
 ### Hotel Mumbai
-*Released on 2019-03-14, vote average 9.5*
+*Released on 2019-03-14, vote average 9.8*
 
-Based on the 2009 documentary Surviving Mumbai about the Mumbai attacks in 2008 at the Taj Mahal Palace Hotel in India.
+In 2008 the Taj Mahal Palace Hotel in Mumbai becomes the target of a deadly attack by Pakistani militants. Dozens of people are held hostage as fire races through the building.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ygfTbGmKRd0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Dz4jnixs8yA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -286,6 +323,16 @@ Based on the 2009 documentary Surviving Mumbai about the Mumbai attacks in 2008 
 	
 
 	
+
+	
+	
+	
+
+	
+	
+	
+
+	
 	
 	
 
@@ -298,13 +345,21 @@ Based on the 2009 documentary Surviving Mumbai about the Mumbai attacks in 2008 
 	
 
 	
+
 	
+
+	
+
 	
 
 	
 
 	
 
+	
+
+	
+	
 	
 
 
