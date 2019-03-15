@@ -21,7 +21,7 @@ The story follows Carol Danvers as she becomes one of the universe’s most powe
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Z1BCujX3pw8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/0LHxvxdRnYc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -47,7 +47,7 @@ The story follows Carol Danvers as she becomes one of the universe’s most powe
 	
 
 ### A Madea Family Funeral
-*Released on 2019-03-01, vote average 7.4*
+*Released on 2019-03-01, vote average 6.9*
 
 A joyous family reunion becomes a hilarious nightmare as Madea and the crew travel to backwoods Georgia, where they find themselves unexpectedly planning a funeral that might unveil unpleasant family secrets.
 
@@ -90,6 +90,28 @@ Husband and wife Gabe and Adelaide Wilson take their kids to their beach house e
 	
 	
 
+### Wonder Park
+*Released on 2019-03-14, vote average 4*
+
+The story of a magnificent amusement park where the imagination of a wildly creative girl named June comes alive.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vYm7mYd0SgE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Boy Who Harnessed the Wind
 *Released on 2019-03-01, vote average 8*
 
@@ -112,16 +134,16 @@ Against all the odds, a thirteen year old boy in Malawi invents an unconventiona
 	
 	
 
-### Wonder Park
-*Released on 2019-03-14, vote average 4*
+### Hotel Mumbai
+*Released on 2019-03-14, vote average 9.8*
 
-The story of a magnificent amusement park where the imagination of a wildly creative girl named June comes alive.
+In 2008 the Taj Mahal Palace Hotel in Mumbai becomes the target of a deadly attack by Pakistani militants. Dozens of people are held hostage as fire races through the building.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/vYm7mYd0SgE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Dz4jnixs8yA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -139,8 +161,114 @@ The story of a magnificent amusement park where the imagination of a wildly crea
 	
 	
 
+### The Death &amp; Life of John F. Donovan
+*Released on 2019-03-13, vote average 8.8*
+
+An American movie star finds his correspondence with an 11-year-old actor exposed, prompting assumptions that begin to destroy his life and career.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/U-pjv81DNbA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Triple Frontier
+*Released on 2019-03-06, vote average 6.4*
+
+Struggling to make ends meet, former special ops soldiers reunite for a high-stakes heist: stealing $75 million from a South American drug lord.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Fo3yRLLrXQA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### Walk. Ride. Rodeo.
-*Released on 2019-03-08, vote average 6.8*
+*Released on 2019-03-08, vote average 6.9*
 
 
 
@@ -158,124 +286,31 @@ The story of a magnificent amusement park where the imagination of a wildly crea
   
 
 
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Juanita
-*Released on 2019-03-08, vote average 5.1*
-
-Fed up with her deadbeat grown kids and marginal urban existence, Juanita takes a Greyhound bus to Paper Moon, Montana where she reinvents herself and finds her mojo.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kg5uqDh00H4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Hotel Mumbai
-*Released on 2019-03-14, vote average 9.8*
-
-In 2008 the Taj Mahal Palace Hotel in Mumbai becomes the target of a deadly attack by Pakistani militants. Dozens of people are held hostage as fire races through the building.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Dz4jnixs8yA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
 
 	
+
 	
 
-### Us
-*Released on 2019-03-14, vote average 8.6*
+	
+	
+	
 
-Husband and wife Gabe and Adelaide Wilson take their kids to their beach house expecting to unplug and unwind with friends. But as night descends, their serenity turns to tension and chaos when some shocking visitors arrive uninvited.
+	
+	
+
+### Giant Little Ones
+*Released on 2019-03-15, vote average 6*
+
+Two popular teen boys, best friends since childhood, discover their lives, families, and girlfriends dramatically upended after an unexpected incident occurs on the night of a 17th birthday party.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/hNCmb-4oXJA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/3hfVG2u5Icw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -285,16 +320,16 @@ Husband and wife Gabe and Adelaide Wilson take their kids to their beach house e
 	
 	
 
-### Wonder Park
-*Released on 2019-03-14, vote average 4*
+### No manches Frida 2
+*Released on 2019-03-15, vote average 10*
 
-The story of a magnificent amusement park where the imagination of a wildly creative girl named June comes alive.
+Ex-con Zequi and company come back for a new adventure.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/vYm7mYd0SgE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/eeDYKlRV9Qs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -304,37 +339,6 @@ The story of a magnificent amusement park where the imagination of a wildly crea
 	
 
 	
-	
-
-### Hotel Mumbai
-*Released on 2019-03-14, vote average 9.8*
-
-In 2008 the Taj Mahal Palace Hotel in Mumbai becomes the target of a deadly attack by Pakistani militants. Dozens of people are held hostage as fire races through the building.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Dz4jnixs8yA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-	
-	
-
-	
-	
-	
-
-	
-	
-	
 
 	
 
@@ -359,7 +363,7 @@ In 2008 the Taj Mahal Palace Hotel in Mumbai becomes the target of a deadly atta
 	
 
 	
-	
+
 	
 
 
