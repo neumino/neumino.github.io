@@ -21,7 +21,7 @@ The story follows Carol Danvers as she becomes one of the universe’s most powe
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/0LHxvxdRnYc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Y_JGZTlUbZg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,30 +46,8 @@ The story follows Carol Danvers as she becomes one of the universe’s most powe
 	
 	
 
-### A Madea Family Funeral
-*Released on 2019-03-01, vote average 6.9*
-
-A joyous family reunion becomes a hilarious nightmare as Madea and the crew travel to backwoods Georgia, where they find themselves unexpectedly planning a funeral that might unveil unpleasant family secrets.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/id61hcbdMZA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Us
-*Released on 2019-03-14, vote average 8.6*
+*Released on 2019-03-14, vote average 7.8*
 
 Husband and wife Gabe and Adelaide Wilson take their kids to their beach house expecting to unplug and unwind with friends. But as night descends, their serenity turns to tension and chaos when some shocking visitors arrive uninvited.
 
@@ -90,8 +68,30 @@ Husband and wife Gabe and Adelaide Wilson take their kids to their beach house e
 	
 	
 
+### Five Feet Apart
+*Released on 2019-03-15, vote average 2*
+
+Seventeen-year-old Stella spends most of her time in the hospital as a cystic fibrosis patient. Her life is full of routines, boundaries and self-control -- all of which get put to the test when she meets Will, an impossibly charming teen who has the same illness.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5cJ7MT1RTqs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Wonder Park
-*Released on 2019-03-14, vote average 4*
+*Released on 2019-03-14, vote average 5.7*
 
 The story of a magnificent amusement park where the imagination of a wildly creative girl named June comes alive.
 
@@ -110,21 +110,11 @@ The story of a magnificent amusement park where the imagination of a wildly crea
 
 
 	
+
+  
+
+
 	
-
-### The Boy Who Harnessed the Wind
-*Released on 2019-03-01, vote average 8*
-
-Against all the odds, a thirteen year old boy in Malawi invents an unconventional way to save his family and village from famine.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nPkr9HmglG0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -154,85 +144,6 @@ In 2008 the Taj Mahal Palace Hotel in Mumbai becomes the target of a deadly atta
 
 
 	
-
-  
-
-
-	
-	
-
-### The Death &amp; Life of John F. Donovan
-*Released on 2019-03-13, vote average 8.8*
-
-An American movie star finds his correspondence with an 11-year-old actor exposed, prompting assumptions that begin to destroy his life and career.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/U-pjv81DNbA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
 	
 
 ### Triple Frontier
@@ -255,50 +166,6 @@ Struggling to make ends meet, former special ops soldiers reunite for a high-sta
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Walk. Ride. Rodeo.
-*Released on 2019-03-08, vote average 6.9*
-
-
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/BK0rbzLk0YI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-
-## Opening soon
-
-
-	
-
-	
-
-	
-	
-	
-
-	
 	
 
 ### Giant Little Ones
@@ -317,6 +184,9 @@ Two popular teen boys, best friends since childhood, discover their lives, famil
 	
 	
 
+  
+
+
 	
 	
 
@@ -334,6 +204,111 @@ Ex-con Zequi and company come back for a new adventure.
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Never Grow Old
+*Released on 2019-03-15, vote average 5*
+
+An Irish undertaker profits when outlaws take over a peaceful town, but his own family come under threat as the death toll increases dramatically.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/65QJ8DvDin0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Death &amp; Life of John F. Donovan
+*Released on 2019-03-13, vote average 8.7*
+
+An American movie star finds his correspondence with an 11-year-old actor exposed, prompting assumptions that begin to destroy his life and career.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/U-pjv81DNbA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+
+## Opening soon
+
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
