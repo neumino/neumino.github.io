@@ -46,30 +46,8 @@ The story follows Carol Danvers as she becomes one of the universe’s most powe
 	
 	
 
-### Five Feet Apart
-*Released on 2019-03-15, vote average 8*
-
-Seventeen-year-old Stella spends most of her time in the hospital as a cystic fibrosis patient. Her life is full of routines, boundaries and self-control -- all of which get put to the test when she meets Will, an impossibly charming teen who has the same illness.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/5cJ7MT1RTqs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Triple Frontier
-*Released on 2019-03-06, vote average 6.3*
+*Released on 2019-03-06, vote average 6.4*
 
 Struggling to make ends meet, former special ops soldiers reunite for a high-stakes heist: stealing $75 million from a South American drug lord.
 
@@ -90,38 +68,16 @@ Struggling to make ends meet, former special ops soldiers reunite for a high-sta
 	
 	
 
-### Us
-*Released on 2019-03-14, vote average 7.8*
+### Five Feet Apart
+*Released on 2019-03-15, vote average 8.6*
 
-Husband and wife Gabe and Adelaide Wilson take their kids to their beach house expecting to unplug and unwind with friends. But as night descends, their serenity turns to tension and chaos when some shocking visitors arrive uninvited.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hNCmb-4oXJA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Captive State
-*Released on 2019-03-15, vote average 4*
-
-Nearly a decade after occupation by an extraterrestrial force, the lives of a Chicago neighborhood on both sides of the conflict are explored.
+Seventeen-year-old Stella spends most of her time in the hospital as a cystic fibrosis patient. Her life is full of routines, boundaries and self-control -- all of which get put to the test when she meets Will, an impossibly charming teen who has the same illness.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/uwZEdpe3N9g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/5cJ7MT1RTqs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -154,6 +110,50 @@ An Irish undertaker profits when outlaws take over a peaceful town, but his own 
 
 
 	
+	
+
+### Us
+*Released on 2019-03-14, vote average 7.5*
+
+Husband and wife Gabe and Adelaide Wilson take their kids to their beach house expecting to unplug and unwind with friends. But as night descends, their serenity turns to tension and chaos when some shocking visitors arrive uninvited.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hNCmb-4oXJA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Captive State
+*Released on 2019-03-15, vote average 4.5*
+
+Nearly a decade after occupation by an extraterrestrial force, the lives of a Chicago neighborhood on both sides of the conflict are explored.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/uwZEdpe3N9g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -171,35 +171,6 @@ The story of a magnificent amusement park where the imagination of a wildly crea
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/vYm7mYd0SgE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### No manches Frida 2
-*Released on 2019-03-15, vote average 10*
-
-Ex-con Zequi and company come back for a new adventure.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/eeDYKlRV9Qs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -232,7 +203,37 @@ Two popular teen boys, best friends since childhood, discover their lives, famil
 
 
 	
+
+  
+
+
 	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -275,49 +276,14 @@ In 2008 the Taj Mahal Palace Hotel in Mumbai becomes the target of a deadly atta
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Death &amp; Life of John F. Donovan
-*Released on 2019-03-13, vote average 8.5*
-
-An American movie star finds his correspondence with an 11-year-old actor exposed, prompting assumptions that begin to destroy his life and career.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/U-pjv81DNbA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
 
 	
 
+	
+	
 	
 
 	
