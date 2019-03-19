@@ -47,7 +47,7 @@ The story follows Carol Danvers as she becomes one of the universe’s most powe
 	
 
 ### Triple Frontier
-*Released on 2019-03-06, vote average 6.4*
+*Released on 2019-03-06, vote average 6.3*
 
 Struggling to make ends meet, former special ops soldiers reunite for a high-stakes heist: stealing $75 million from a South American drug lord.
 
@@ -69,7 +69,7 @@ Struggling to make ends meet, former special ops soldiers reunite for a high-sta
 	
 
 ### Five Feet Apart
-*Released on 2019-03-15, vote average 8.6*
+*Released on 2019-03-15, vote average 8.8*
 
 Seventeen-year-old Stella spends most of her time in the hospital as a cystic fibrosis patient. Her life is full of routines, boundaries and self-control -- all of which get put to the test when she meets Will, an impossibly charming teen who has the same illness.
 
@@ -90,16 +90,16 @@ Seventeen-year-old Stella spends most of her time in the hospital as a cystic fi
 	
 	
 
-### Never Grow Old
-*Released on 2019-03-15, vote average 5*
+### Captive State
+*Released on 2019-03-15, vote average 5.1*
 
-An Irish undertaker profits when outlaws take over a peaceful town, but his own family come under threat as the death toll increases dramatically.
+Nearly a decade after occupation by an extraterrestrial force, the lives of a Chicago neighborhood on both sides of the conflict are explored.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/65QJ8DvDin0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/uwZEdpe3N9g?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -132,6 +132,23 @@ Husband and wife Gabe and Adelaide Wilson take their kids to their beach house e
 
 
 	
+	
+
+### Never Grow Old
+*Released on 2019-03-15, vote average 4*
+
+An Irish undertaker profits when outlaws take over a peaceful town, but his own family come under threat as the death toll increases dramatically.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/65QJ8DvDin0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -139,16 +156,16 @@ Husband and wife Gabe and Adelaide Wilson take their kids to their beach house e
 	
 	
 
-### Captive State
-*Released on 2019-03-15, vote average 4.5*
+### Finding Steve McQueen
+*Released on 2019-03-15, vote average 7*
 
-Nearly a decade after occupation by an extraterrestrial force, the lives of a Chicago neighborhood on both sides of the conflict are explored.
+In 1972, a gang of close-knit thieves from Youngstown, Ohio attempt to steal $30 million in illegal contributions. Based on the true story of the biggest bank heist in US history.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/uwZEdpe3N9g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/kiTP5h0uZj8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -162,7 +179,7 @@ Nearly a decade after occupation by an extraterrestrial force, the lives of a Ch
 	
 
 ### Wonder Park
-*Released on 2019-03-14, vote average 5.8*
+*Released on 2019-03-14, vote average 6*
 
 The story of a magnificent amusement park where the imagination of a wildly creative girl named June comes alive.
 
@@ -181,23 +198,6 @@ The story of a magnificent amusement park where the imagination of a wildly crea
 
 
 	
-	
-
-### Giant Little Ones
-*Released on 2019-03-15, vote average 6*
-
-Two popular teen boys, best friends since childhood, discover their lives, families, and girlfriends dramatically upended after an unexpected incident occurs on the night of a 17th birthday party.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3hfVG2u5Icw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -212,13 +212,6 @@ Two popular teen boys, best friends since childhood, discover their lives, famil
   
 
 
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -250,22 +243,10 @@ Two popular teen boys, best friends since childhood, discover their lives, famil
 
 
 	
-	
 
-### Hotel Mumbai
-*Released on 2019-03-14, vote average 9.8*
+  
 
-In 2008 the Taj Mahal Palace Hotel in Mumbai becomes the target of a deadly attack by Pakistani militants. Dozens of people are held hostage as fire races through the building.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Dz4jnixs8yA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -281,11 +262,7 @@ In 2008 the Taj Mahal Palace Hotel in Mumbai becomes the target of a deadly atta
 
 
 	
-
 	
-	
-	
-
 	
 
 	
@@ -310,6 +287,12 @@ In 2008 the Taj Mahal Palace Hotel in Mumbai becomes the target of a deadly atta
 
 	
 
+	
+
+	
+
+	
+	
 	
 
 	
