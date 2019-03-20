@@ -68,16 +68,16 @@ Struggling to make ends meet, former special ops soldiers reunite for a high-sta
 	
 	
 
-### Five Feet Apart
-*Released on 2019-03-15, vote average 8.8*
+### Captive State
+*Released on 2019-03-15, vote average 5.4*
 
-Seventeen-year-old Stella spends most of her time in the hospital as a cystic fibrosis patient. Her life is full of routines, boundaries and self-control -- all of which get put to the test when she meets Will, an impossibly charming teen who has the same illness.
+Nearly a decade after occupation by an extraterrestrial force, the lives of a Chicago neighborhood on both sides of the conflict are explored.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/5cJ7MT1RTqs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/uwZEdpe3N9g?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -90,16 +90,16 @@ Seventeen-year-old Stella spends most of her time in the hospital as a cystic fi
 	
 	
 
-### Captive State
-*Released on 2019-03-15, vote average 5.1*
+### Five Feet Apart
+*Released on 2019-03-15, vote average 8.8*
 
-Nearly a decade after occupation by an extraterrestrial force, the lives of a Chicago neighborhood on both sides of the conflict are explored.
+Seventeen-year-old Stella spends most of her time in the hospital as a cystic fibrosis patient. Her life is full of routines, boundaries and self-control -- all of which get put to the test when she meets Will, an impossibly charming teen who has the same illness.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/uwZEdpe3N9g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/5cJ7MT1RTqs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -133,9 +133,38 @@ Husband and wife Gabe and Adelaide Wilson take their kids to their beach house e
 
 	
 	
+	
+
+  
+
+
+	
+	
+
+### Wonder Park
+*Released on 2019-03-14, vote average 6*
+
+The story of a magnificent amusement park where the imagination of a wildly creative girl named June comes alive.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vYm7mYd0SgE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
 
 ### Never Grow Old
-*Released on 2019-03-15, vote average 4*
+*Released on 2019-03-15, vote average 4.5*
 
 An Irish undertaker profits when outlaws take over a peaceful town, but his own family come under threat as the death toll increases dramatically.
 
@@ -176,23 +205,6 @@ In 1972, a gang of close-knit thieves from Youngstown, Ohio attempt to steal $30
 
 
 	
-	
-
-### Wonder Park
-*Released on 2019-03-14, vote average 6*
-
-The story of a magnificent amusement park where the imagination of a wildly creative girl named June comes alive.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vYm7mYd0SgE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -238,15 +250,7 @@ The story of a magnificent amusement park where the imagination of a wildly crea
 
 
 	
-
-  
-
-
 	
-
-  
-
-
 	
 
   
@@ -277,6 +281,8 @@ The story of a magnificent amusement park where the imagination of a wildly crea
 
 	
 
+	
+	
 	
 
 	
