@@ -53,8 +53,30 @@ Nearly a decade after occupation by an extraterrestrial force, the lives of a Ch
 	
 	
 
+### Wonder Park
+*Released on 2019-03-14, vote average 6.8*
+
+The story of a magnificent amusement park where the imagination of a wildly creative girl named June comes alive.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vYm7mYd0SgE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Us
-*Released on 2019-03-14, vote average 7.1*
+*Released on 2019-03-14, vote average 7.3*
 
 Husband and wife Gabe and Adelaide Wilson take their kids to their beach house expecting to unplug and unwind with friends. But as night descends, their serenity turns to tension and chaos when some shocking visitors arrive uninvited.
 
@@ -75,19 +97,85 @@ Husband and wife Gabe and Adelaide Wilson take their kids to their beach house e
 	
 	
 
-### Wonder Park
-*Released on 2019-03-14, vote average 6*
+### Amy Schumer: Growing
+*Released on 2019-03-19, vote average 6.1*
 
-The story of a magnificent amusement park where the imagination of a wildly creative girl named June comes alive.
+Amy Schumer&#39;s live stand-up set performed in Chicago where she jokes about marriage, pregnancy and personal growth.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/vYm7mYd0SgE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/SdOtvQkrNZY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+	
+
+### Never Grow Old
+*Released on 2019-03-15, vote average 4.5*
+
+An Irish undertaker profits when outlaws take over a peaceful town, but his own family come under threat as the death toll increases dramatically.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Q8sRCnCiqAI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Beach Bum
+*Released on 2019-03-21, vote average 8*
+
+An irreverent comedy about the misadventures of Moondog, a rebellious stoner and lovable rogue who lives large.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PiPecJE30hA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 	
 
@@ -118,21 +206,6 @@ Seventeen-year-old Stella spends most of her time in the hospital as a cystic fi
 
 	
 	
-
-### Amy Schumer: Growing
-*Released on 2019-03-19, vote average 5.9*
-
-Amy Schumer&#39;s live stand-up set performed in Chicago where she jokes about marriage, pregnancy and personal growth.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/SdOtvQkrNZY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -155,55 +228,6 @@ Amy Schumer&#39;s live stand-up set performed in Chicago where she jokes about m
 
 	
 	
-
-### Never Grow Old
-*Released on 2019-03-15, vote average 4.5*
-
-An Irish undertaker profits when outlaws take over a peaceful town, but his own family come under threat as the death toll increases dramatically.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/65QJ8DvDin0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Finding Steve McQueen
-*Released on 2019-03-15, vote average 7*
-
-In 1972, a gang of close-knit thieves from Youngstown, Ohio attempt to steal $30 million in illegal contributions. Based on the true story of the biggest bank heist in US history.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kiTP5h0uZj8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -220,41 +244,6 @@ In 1972, a gang of close-knit thieves from Youngstown, Ohio attempt to steal $30
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Death &amp; Life of John F. Donovan
-*Released on 2019-03-13, vote average 8.1*
-
-An American movie star finds his correspondence with an 11-year-old actor exposed, prompting assumptions that begin to destroy his life and career.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/U-pjv81DNbA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -269,7 +258,7 @@ An American movie star finds his correspondence with an 11-year-old actor expose
 	
 
 ### Shazam!
-*Released on 2019-03-23, vote average 9.7*
+*Released on 2019-03-23, vote average 7.5*
 
 A boy is given the ability to become an adult superhero in times of need with a single magic word.
 
@@ -295,8 +284,6 @@ A boy is given the ability to become an adult superhero in times of need with a 
 	
 
 	
-	
-	
 
 	
 
@@ -320,6 +307,23 @@ A boy is given the ability to become an adult superhero in times of need with a 
 
 	
 
+	
+	
+
+### The Killer Downstairs
+*Released on 2019-03-23, vote average 3*
+
+Alison Peters has always done everything right but finds her life in turmoil as a lawyer stuck working at a grocery store job. Desperate for cash, she rents her basement on MiCasaSuCasa.com and gets a response from James Brewer who explains that he and his wife have recently split. At work, Alison and her friend Sarah, deal with a boss, Brandon, who&#39;s been harassing Alison. When Brandon is murdered, the police are suspicious of her. As romance starts to bloom between Alison and James, more people in her life begin disappearing.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/WbBFev-sWSI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
