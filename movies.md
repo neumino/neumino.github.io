@@ -11,21 +11,6 @@ This is a convenient page that embeds trailers of movies released in the past
 
 	
 	
-
-### Captive State
-*Released on 2019-03-15, vote average 5.3*
-
-Nearly a decade after occupation by an extraterrestrial force, the lives of a Chicago neighborhood on both sides of the conflict are explored.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/uwZEdpe3N9g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -45,16 +30,9 @@ Nearly a decade after occupation by an extraterrestrial force, the lives of a Ch
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Us
-*Released on 2019-03-14, vote average 7.2*
+*Released on 2019-03-14, vote average 7.4*
 
 Husband and wife Gabe and Adelaide Wilson take their kids to their beach house expecting to unplug and unwind with friends. But as night descends, their serenity turns to tension and chaos when some shocking visitors arrive uninvited.
 
@@ -75,8 +53,30 @@ Husband and wife Gabe and Adelaide Wilson take their kids to their beach house e
 	
 	
 
+### Captive State
+*Released on 2019-03-15, vote average 4.7*
+
+Nearly a decade after occupation by an extraterrestrial force, the lives of a Chicago neighborhood on both sides of the conflict are explored.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/uwZEdpe3N9g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Wonder Park
-*Released on 2019-03-14, vote average 6.3*
+*Released on 2019-03-14, vote average 5.8*
 
 The story of a magnificent amusement park where the imagination of a wildly creative girl named June comes alive.
 
@@ -98,7 +98,7 @@ The story of a magnificent amusement park where the imagination of a wildly crea
 	
 
 ### Shazam!
-*Released on 2019-03-23, vote average 6.8*
+*Released on 2019-03-23, vote average 6.1*
 
 A boy is given the ability to become an adult superhero in times of need with a single magic word.
 
@@ -107,6 +107,50 @@ A boy is given the ability to become an adult superhero in times of need with a 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/go6GEIrcvFY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Five Feet Apart
+*Released on 2019-03-15, vote average 8*
+
+Seventeen-year-old Stella spends most of her time in the hospital as a cystic fibrosis patient. Her life is full of routines, boundaries and self-control -- all of which get put to the test when she meets Will, an impossibly charming teen who has the same illness.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5cJ7MT1RTqs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Dirt
+*Released on 2019-03-22, vote average 7.2*
+
+The story of Mötley Crüe and their rise from the Sunset Strip club scene of the early 1980s to superstardom.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-NOp5ROn1HE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -139,27 +183,17 @@ Amy Schumer&#39;s live stand-up set performed in Chicago where she jokes about m
 
 
 	
+	
+	
 
   
 
 
 	
-	
 
-### Five Feet Apart
-*Released on 2019-03-15, vote average 7.9*
+  
 
-Seventeen-year-old Stella spends most of her time in the hospital as a cystic fibrosis patient. Her life is full of routines, boundaries and self-control -- all of which get put to the test when she meets Will, an impossibly charming teen who has the same illness.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/5cJ7MT1RTqs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -193,10 +227,59 @@ An Irish undertaker profits when outlaws take over a peaceful town, but his own 
 
 
 	
+
+  
+
+
+	
+	
+
+### The Killer Downstairs
+*Released on 2019-03-23, vote average 3*
+
+Alison Peters has always done everything right but finds her life in turmoil as a lawyer stuck working at a grocery store job. Desperate for cash, she rents her basement on MiCasaSuCasa.com and gets a response from James Brewer who explains that he and his wife have recently split. At work, Alison and her friend Sarah, deal with a boss, Brandon, who&#39;s been harassing Alison. When Brandon is murdered, the police are suspicious of her. As romance starts to bloom between Alison and James, more people in her life begin disappearing.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/WbBFev-sWSI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Kesari
+*Released on 2019-03-21, vote average 9.3*
+
+The story of Havildar Ishar Singh who participates in the Battle of Saragarhi (in which an army of 21 Sikhs fought against 10,000 Afghans in 1897) while yearning for the respect of his estranged daughter.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/r6c9ALhgzH4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 
 ### The Beach Bum
-*Released on 2019-03-21, vote average 5*
+*Released on 2019-03-21, vote average 3.7*
 
 An irreverent comedy about the misadventures of Moondog, a rebellious stoner and lovable rogue who lives large.
 
@@ -229,70 +312,6 @@ An irreverent comedy about the misadventures of Moondog, a rebellious stoner and
   
 
 
-	
-	
-
-### The Dirt
-*Released on 2019-03-22, vote average 7.7*
-
-The story of Mötley Crüe and their rise from the Sunset Strip club scene of the early 1980s to superstardom.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-NOp5ROn1HE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Kesari
-*Released on 2019-03-21, vote average 9.3*
-
-The story of Havildar Ishar Singh who participates in the Battle of Saragarhi while yearning for the respect of his estranged daughter.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/r6c9ALhgzH4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -300,27 +319,8 @@ The story of Havildar Ishar Singh who participates in the Battle of Saragarhi wh
 	
 	
 
-### Shazam!
-*Released on 2019-03-23, vote average 6.8*
-
-A boy is given the ability to become an adult superhero in times of need with a single magic word.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/go6GEIrcvFY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
 ### Dumbo
-*Released on 2019-03-27, vote average 4.5*
+*Released on 2019-03-27, vote average 4.8*
 
 A young elephant, whose oversized ears enable him to fly, helps save a struggling circus, but when the circus plans a new venture, Dumbo and his friends discover dark secrets beneath its shiny veneer.
 
@@ -336,22 +336,7 @@ A young elephant, whose oversized ears enable him to fly, helps save a strugglin
 	
 
 	
-	
 
-### The Killer Downstairs
-*Released on 2019-03-23, vote average 3*
-
-Alison Peters has always done everything right but finds her life in turmoil as a lawyer stuck working at a grocery store job. Desperate for cash, she rents her basement on MiCasaSuCasa.com and gets a response from James Brewer who explains that he and his wife have recently split. At work, Alison and her friend Sarah, deal with a boss, Brandon, who&#39;s been harassing Alison. When Brandon is murdered, the police are suspicious of her. As romance starts to bloom between Alison and James, more people in her life begin disappearing.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/WbBFev-sWSI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
