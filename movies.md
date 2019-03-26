@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Us
-*Released on 2019-03-14, vote average 7.3*
+*Released on 2019-03-14, vote average 7.4*
 
 Husband and wife Gabe and Adelaide Wilson take their kids to their beach house expecting to unplug and unwind with friends. But as night descends, their serenity turns to tension and chaos when some shocking visitors arrive uninvited.
 
@@ -45,9 +45,16 @@ Husband and wife Gabe and Adelaide Wilson take their kids to their beach house e
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Captive State
-*Released on 2019-03-15, vote average 4.4*
+*Released on 2019-03-15, vote average 4.5*
 
 Nearly a decade after occupation by an extraterrestrial force, the lives of a Chicago neighborhood on both sides of the conflict are explored.
 
@@ -59,13 +66,6 @@ Nearly a decade after occupation by an extraterrestrial force, the lives of a Ch
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -98,7 +98,7 @@ The story of a magnificent amusement park where the imagination of a wildly crea
 	
 
 ### Shazam!
-*Released on 2019-03-23, vote average 7.5*
+*Released on 2019-03-23, vote average 7.3*
 
 A boy is given the ability to become an adult superhero in times of need with a single magic word.
 
@@ -120,7 +120,7 @@ A boy is given the ability to become an adult superhero in times of need with a 
 	
 
 ### The Dirt
-*Released on 2019-03-22, vote average 7*
+*Released on 2019-03-22, vote average 7.1*
 
 The story of Mötley Crüe and their rise from the Sunset Strip club scene of the early 1980s to superstardom.
 
@@ -171,6 +171,23 @@ Seventeen-year-old Stella spends most of her time in the hospital as a cystic fi
 
 
 	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### Never Grow Old
@@ -198,7 +215,10 @@ An Irish undertaker profits when outlaws take over a peaceful town, but his own 
 
 
 	
-	
+
+  
+
+
 	
 
   
@@ -207,16 +227,16 @@ An Irish undertaker profits when outlaws take over a peaceful town, but his own 
 	
 	
 
-### The Killer Downstairs
-*Released on 2019-03-23, vote average 3*
+### The Death &amp; Life of John F. Donovan
+*Released on 2019-03-13, vote average 7.9*
 
-Alison Peters has always done everything right but finds her life in turmoil as a lawyer stuck working at a grocery store job. Desperate for cash, she rents her basement on MiCasaSuCasa.com and gets a response from James Brewer who explains that he and his wife have recently split. At work, Alison and her friend Sarah, deal with a boss, Brandon, who&#39;s been harassing Alison. When Brandon is murdered, the police are suspicious of her. As romance starts to bloom between Alison and James, more people in her life begin disappearing.
+An American movie star finds his correspondence with an 11-year-old actor exposed, prompting assumptions that begin to destroy his life and career.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/WbBFev-sWSI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/U-pjv81DNbA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -226,6 +246,23 @@ Alison Peters has always done everything right but finds her life in turmoil as 
   
 
 
+	
+	
+
+### Love to the Rescue
+*Released on 2019-03-23, vote average 6*
+
+Two single parents come head to head when their kids want to adopt the same dog. Agreeing to co-foster, free-spirited Kate and type-A Eric must work together to find the dog&#39;s forever home.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/TPrmlcpIsmk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -253,26 +290,6 @@ The story of Havildar Ishar Singh who participates in the Battle of Saragarhi (i
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -308,18 +325,6 @@ A young elephant, whose oversized ears enable him to fly, helps save a strugglin
 	
 
 	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
 	
 
 ### The Chaperone
@@ -336,6 +341,18 @@ In the early 1920s, a Kansas woman finds her life forever changed when she accom
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
