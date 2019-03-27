@@ -45,6 +45,28 @@ Husband and wife Gabe and Adelaide Wilson take their kids to their beach house e
 
 	
 	
+
+### Wonder Park
+*Released on 2019-03-14, vote average 5.7*
+
+The story of a magnificent amusement park where the imagination of a wildly creative girl named June comes alive.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vYm7mYd0SgE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -75,16 +97,16 @@ Nearly a decade after occupation by an extraterrestrial force, the lives of a Ch
 	
 	
 
-### Wonder Park
-*Released on 2019-03-14, vote average 5.2*
+### The Dirt
+*Released on 2019-03-22, vote average 7.2*
 
-The story of a magnificent amusement park where the imagination of a wildly creative girl named June comes alive.
+The story of Mötley Crüe and their rise from the Sunset Strip club scene of the early 1980s to superstardom.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/vYm7mYd0SgE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-NOp5ROn1HE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -119,20 +141,25 @@ A boy is given the ability to become an adult superhero in times of need with a 
 	
 	
 
-### The Dirt
-*Released on 2019-03-22, vote average 7.1*
+### Dumbo
+*Released on 2019-03-27, vote average 6*
 
-The story of Mötley Crüe and their rise from the Sunset Strip club scene of the early 1980s to superstardom.
+A young elephant, whose oversized ears enable him to fly, helps save a struggling circus, but when the circus plans a new venture, Dumbo and his friends discover dark secrets beneath its shiny veneer.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-NOp5ROn1HE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-QPdRfqTnt4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -176,12 +203,22 @@ Seventeen-year-old Stella spends most of her time in the hospital as a cystic fi
 
 
 	
-	
+
+  
+
+
 	
 
   
 
 
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -215,77 +252,25 @@ An Irish undertaker profits when outlaws take over a peaceful town, but his own 
 
 
 	
+	
+	
 
   
 
 
 	
-
-  
-
-
-	
 	
 
-### The Death &amp; Life of John F. Donovan
-*Released on 2019-03-13, vote average 7.9*
+### The Beach Bum
+*Released on 2019-03-21, vote average 3.7*
 
-An American movie star finds his correspondence with an 11-year-old actor exposed, prompting assumptions that begin to destroy his life and career.
+An irreverent comedy about the misadventures of Moondog, a rebellious stoner and lovable rogue who lives large.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/U-pjv81DNbA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Love to the Rescue
-*Released on 2019-03-23, vote average 6*
-
-Two single parents come head to head when their kids want to adopt the same dog. Agreeing to co-foster, free-spirited Kate and type-A Eric must work together to find the dog&#39;s forever home.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/TPrmlcpIsmk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Kesari
-*Released on 2019-03-21, vote average 9.3*
-
-The story of Havildar Ishar Singh who participates in the Battle of Saragarhi (in which an army of 21 Sikhs fought against 10,000 Afghans in 1897) while yearning for the respect of his estranged daughter.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/r6c9ALhgzH4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/PiPecJE30hA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -303,7 +288,7 @@ The story of Havildar Ishar Singh who participates in the Battle of Saragarhi (i
 	
 
 ### Dumbo
-*Released on 2019-03-27, vote average 4.7*
+*Released on 2019-03-27, vote average 6*
 
 A young elephant, whose oversized ears enable him to fly, helps save a struggling circus, but when the circus plans a new venture, Dumbo and his friends discover dark secrets beneath its shiny veneer.
 
@@ -316,6 +301,41 @@ A young elephant, whose oversized ears enable him to fly, helps save a strugglin
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Hotel by the River
+*Released on 2019-03-27, vote average 8*
+
+An old poet staying for free in a riverside hotel summons his two estranged sons. This is because he feels, for no apparent reason, like he is going to die. After being betrayed by the man she was living with, a young woman gets a room at the hotel. Seeking support, she summons a friend.  The poet spends a day with his sons and tries to wrap up the loose ends in his life. But it&#39;s not so easy to do that in one day. But then he sees the young woman and her friend, after a sudden, unbelievably heavy snowfall.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3x0aZS6uY7E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
@@ -341,24 +361,6 @@ In the early 1920s, a Kansas woman finds her life forever changed when she accom
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
