@@ -46,8 +46,52 @@ Husband and wife Gabe and Adelaide Wilson take their kids to their beach house e
 	
 	
 
+### Dumbo
+*Released on 2019-03-27, vote average 6.7*
+
+A young elephant, whose oversized ears enable him to fly, helps save a struggling circus, but when the circus plans a new venture, Dumbo and his friends discover dark secrets beneath its shiny veneer.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-QPdRfqTnt4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Dirt
+*Released on 2019-03-22, vote average 7.1*
+
+The story of Mötley Crüe and their rise from the Sunset Strip club scene of the early 1980s to superstardom.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-NOp5ROn1HE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Wonder Park
-*Released on 2019-03-14, vote average 5.7*
+*Released on 2019-03-14, vote average 6*
 
 The story of a magnificent amusement park where the imagination of a wildly creative girl named June comes alive.
 
@@ -59,13 +103,6 @@ The story of a magnificent amusement park where the imagination of a wildly crea
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -95,21 +132,6 @@ Nearly a decade after occupation by an extraterrestrial force, the lives of a Ch
 
 
 	
-	
-
-### The Dirt
-*Released on 2019-03-22, vote average 7.2*
-
-The story of Mötley Crüe and their rise from the Sunset Strip club scene of the early 1980s to superstardom.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-NOp5ROn1HE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -141,35 +163,8 @@ A boy is given the ability to become an adult superhero in times of need with a 
 	
 	
 
-### Dumbo
-*Released on 2019-03-27, vote average 6*
-
-A young elephant, whose oversized ears enable him to fly, helps save a struggling circus, but when the circus plans a new venture, Dumbo and his friends discover dark secrets beneath its shiny veneer.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-QPdRfqTnt4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### Five Feet Apart
-*Released on 2019-03-15, vote average 8.2*
+*Released on 2019-03-15, vote average 8.3*
 
 Seventeen-year-old Stella spends most of her time in the hospital as a cystic fibrosis patient. Her life is full of routines, boundaries and self-control -- all of which get put to the test when she meets Will, an impossibly charming teen who has the same illness.
 
@@ -188,55 +183,18 @@ Seventeen-year-old Stella spends most of her time in the hospital as a cystic fi
 
 
 	
-
-  
-
-
 	
 
-  
+### Styx
+*Released on 2019-03-27, vote average 1*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Never Grow Old
-*Released on 2019-03-15, vote average 5.2*
-
-An Irish undertaker profits when outlaws take over a peaceful town, but his own family come under threat as the death toll increases dramatically.
+Rike is forty, a successful doctor whose job demands everything of her. She intends to use her much-needed annual holiday to fulfill her long-cherished dream of sailing alone from Gibraltar to Ascension, a small tropical island in the middle of the Atlantic. Her desire for a carefree holiday seems to be coming to pass but then, after a storm, her beautiful adventure suddenly turns into an unprecedented challenge when she spots a badly damaged, hopelessly overloaded refugee boat nearby.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Q8sRCnCiqAI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/d7jCGHMTg1A?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -252,62 +210,14 @@ An Irish undertaker profits when outlaws take over a peaceful town, but his own 
 
 
 	
-	
-	
 
   
 
 
 	
-	
-
-### The Beach Bum
-*Released on 2019-03-21, vote average 3.7*
-
-An irreverent comedy about the misadventures of Moondog, a rebellious stoner and lovable rogue who lives large.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/PiPecJE30hA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
-
-
-## Opening soon
-
-
-	
-	
-
-### Dumbo
-*Released on 2019-03-27, vote average 6*
-
-A young elephant, whose oversized ears enable him to fly, helps save a struggling circus, but when the circus plans a new venture, Dumbo and his friends discover dark secrets beneath its shiny veneer.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-QPdRfqTnt4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
 
 	
 	
@@ -328,9 +238,47 @@ An old poet staying for free in a riverside hotel summons his two estranged sons
 	
 	
 
-	
+  
+
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+
+## Opening soon
+
 
 	
 
@@ -361,6 +309,20 @@ In the early 1920s, a Kansas woman finds her life forever changed when she accom
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
