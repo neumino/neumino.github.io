@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Us
-*Released on 2019-03-14, vote average 7.4*
+### Dumbo
+*Released on 2019-03-27, vote average 6.4*
 
-Husband and wife Gabe and Adelaide Wilson take their kids to their beach house expecting to unplug and unwind with friends. But as night descends, their serenity turns to tension and chaos when some shocking visitors arrive uninvited.
+A young elephant, whose oversized ears enable him to fly, helps save a struggling circus, but when the circus plans a new venture, Dumbo and his friends discover dark secrets beneath its shiny veneer.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/hNCmb-4oXJA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-QPdRfqTnt4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,74 +46,8 @@ Husband and wife Gabe and Adelaide Wilson take their kids to their beach house e
 	
 	
 
-### Dumbo
-*Released on 2019-03-27, vote average 6.7*
-
-A young elephant, whose oversized ears enable him to fly, helps save a struggling circus, but when the circus plans a new venture, Dumbo and his friends discover dark secrets beneath its shiny veneer.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-QPdRfqTnt4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Dirt
-*Released on 2019-03-22, vote average 7.1*
-
-The story of Mötley Crüe and their rise from the Sunset Strip club scene of the early 1980s to superstardom.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-NOp5ROn1HE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Wonder Park
-*Released on 2019-03-14, vote average 6*
-
-The story of a magnificent amusement park where the imagination of a wildly creative girl named June comes alive.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vYm7mYd0SgE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Captive State
-*Released on 2019-03-15, vote average 4.5*
+*Released on 2019-03-15, vote average 4.3*
 
 Nearly a decade after occupation by an extraterrestrial force, the lives of a Chicago neighborhood on both sides of the conflict are explored.
 
@@ -122,6 +56,28 @@ Nearly a decade after occupation by an extraterrestrial force, the lives of a Ch
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/uwZEdpe3N9g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Triple Threat
+*Released on 2019-03-19, vote average 6.7*
+
+A crime syndicate places a hit on a billionaire&#39;s daughter, making her the target of an elite assassin squad. A small band of down-and-out mercenaries protects her, fighting tooth and nail to stop the assassins from reaching their target.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/DovnHrIwfTY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -163,6 +119,28 @@ A boy is given the ability to become an adult superhero in times of need with a 
 	
 	
 
+### The Dirt
+*Released on 2019-03-22, vote average 7.1*
+
+The story of Mötley Crüe and their rise from the Sunset Strip club scene of the early 1980s to superstardom.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-NOp5ROn1HE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Five Feet Apart
 *Released on 2019-03-15, vote average 8.3*
 
@@ -186,7 +164,7 @@ Seventeen-year-old Stella spends most of her time in the hospital as a cystic fi
 	
 
 ### Styx
-*Released on 2019-03-27, vote average 1*
+*Released on 2019-03-27, vote average 4.5*
 
 Rike is forty, a successful doctor whose job demands everything of her. She intends to use her much-needed annual holiday to fulfill her long-cherished dream of sailing alone from Gibraltar to Ascension, a small tropical island in the middle of the Atlantic. Her desire for a carefree holiday seems to be coming to pass but then, after a storm, her beautiful adventure suddenly turns into an unprecedented challenge when she spots a badly damaged, hopelessly overloaded refugee boat nearby.
 
@@ -209,6 +187,42 @@ Rike is forty, a successful doctor whose job demands everything of her. She inte
   
 
 
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -242,35 +256,29 @@ An old poet staying for free in a riverside hotel summons his two estranged sons
 
 
 	
+	
 
-  
+### Fast Color
+*Released on 2019-03-29, vote average 10*
 
+A woman is forced to go on the run when her superhuman abilities are discovered. Years after having abandoned her family, the only place she has left to hide is home.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/se9n853lBNo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
 
 
 	
-
-  
-
-
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -283,13 +291,22 @@ An old poet staying for free in a riverside hotel summons his two estranged sons
 	
 
 	
-
 	
 
-	
+### Fast Color
+*Released on 2019-03-29, vote average 10*
+
+A woman is forced to go on the run when her superhuman abilities are discovered. Years after having abandoned her family, the only place she has left to hide is home.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/se9n853lBNo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
 	
 
 	
@@ -324,6 +341,16 @@ In the early 1920s, a Kansas woman finds her life forever changed when she accom
 	
 
 	
+	
+	
+
+	
+
+	
+
+	
+
+	
 
 	
 
@@ -335,6 +362,8 @@ In the early 1920s, a Kansas woman finds her life forever changed when she accom
 
 	
 
+	
+	
 	
 
 
