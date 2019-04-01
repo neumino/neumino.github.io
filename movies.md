@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Dumbo
-*Released on 2019-03-27, vote average 6.8*
+*Released on 2019-03-27, vote average 6.9*
 
 A young elephant, whose oversized ears enable him to fly, helps save a struggling circus, but when the circus plans a new venture, Dumbo and his friends discover dark secrets beneath its shiny veneer.
 
@@ -47,7 +47,7 @@ A young elephant, whose oversized ears enable him to fly, helps save a strugglin
 	
 
 ### Triple Threat
-*Released on 2019-03-19, vote average 5.7*
+*Released on 2019-03-19, vote average 5.4*
 
 A crime syndicate places a hit on a billionaire&#39;s daughter, making her the target of an elite assassin squad. A small band of down-and-out mercenaries protects her, fighting tooth and nail to stop the assassins from reaching their target.
 
@@ -76,7 +76,7 @@ A crime syndicate places a hit on a billionaire&#39;s daughter, making her the t
 	
 
 ### Shazam!
-*Released on 2019-03-23, vote average 7*
+*Released on 2019-03-23, vote average 6.8*
 
 A boy is given the ability to become an adult superhero in times of need with a single magic word.
 
@@ -85,6 +85,50 @@ A boy is given the ability to become an adult superhero in times of need with a 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/go6GEIrcvFY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### A Vigilante
+*Released on 2019-03-29, vote average 7.3*
+
+A vigilante helps victims escape their domestic abusers.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wyZ_Gu8rSZE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Justice League vs. the Fatal Five
+*Released on 2019-03-30, vote average 5.9*
+
+The Justice League faces a powerful new threat — the Fatal Five! Superman, Batman and Wonder Woman seek answers as the time-traveling trio of Mano, Persuader and Tharok terrorize Metropolis in search of budding Green Lantern, Jessica Cruz. With her unwilling help, they aim to free remaining Fatal Five members Emerald Empress and Validus to carry out their sinister plan. But the Justice League has also discovered an ally from another time in the peculiar Star Boy — brimming with volatile power, could he be the key to thwarting the Fatal Five? An epic battle against ultimate evil awaits!
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/7Hj-oR8XirE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -117,22 +161,54 @@ The story of Mötley Crüe and their rise from the Sunset Strip club scene of th
 
 
 	
+
+  
+
+
 	
 
-### A Vigilante
-*Released on 2019-03-29, vote average 7*
+  
 
-A vigilante helps victims escape their domestic abusers.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### The Beach Bum
+*Released on 2019-03-21, vote average 4.8*
+
+An irreverent comedy about the misadventures of Moondog, a rebellious stoner and lovable rogue who lives large.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/wyZ_Gu8rSZE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/PiPecJE30hA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -164,7 +240,7 @@ A woman is forced to go on the run when her superhuman abilities are discovered.
 	
 
 ### The Chaperone
-*Released on 2019-03-29, vote average 7*
+*Released on 2019-03-29, vote average 4*
 
 In the early 1920s, a Kansas woman finds her life forever changed when she accompanies a young dancer on her fame-seeking journey to New York City.
 
@@ -182,69 +258,6 @@ In the early 1920s, a Kansas woman finds her life forever changed when she accom
   
 
 
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Justice League vs. the Fatal Five
-*Released on 2019-03-30, vote average 6*
-
-Justice League vs. the Fatal Five finds the fate of the earth hanging in the balance when the Justice League faces a powerful new threat — the Fatal Five! Superman, Batman and Wonder Woman seek answers as the time-traveling trio of Mano, Persuader and Tharok terrorize Metropolis in search of budding Green Lantern, Jessica Cruz. With her unwilling help, they aim to free remaining Fatal Five members Emerald Empress and Validus to carry out their sinister plan. But the Justice League has also discovered an ally from another time in the peculiar Star Boy — brimming with volatile power, could he be the key to thwarting the Fatal Five? An epic battle against ultimate evil awaits!
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/7Hj-oR8XirE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -275,7 +288,7 @@ Justice League vs. the Fatal Five finds the fate of the earth hanging in the bal
 	
 
 ### Pet Sematary
-*Released on 2019-04-04, vote average 6*
+*Released on 2019-04-04, vote average 8*
 
 Louis Creed, his wife Rachel and their two children Gage and Ellie move to a rural home where they are welcomed and enlightened about the eerie &#39;Pet Sematary&#39; located nearby. After the tragedy of their cat being killed by a truck, Louis resorts to burying it in the mysterious pet cemetery, which is definitely not as it seems, as it proves to the Creeds that sometimes dead is better.
 
@@ -313,25 +326,6 @@ Louis Creed, his wife Rachel and their two children Gage and Ellie move to a rur
 	
 
 	
-	
-
-### Mercy Black
-*Released on 2019-03-31, vote average 5*
-
-Fifteen years after conjuring an imaginary phantom known as Mercy Black, a repentant woman returns to her hometown to live with her sister and young nephew. But as Mercy continues to haunt her and the death count rises, she must face her deepest terror and discover the truth of her past before Mercy Black claims her nephew. Daniella Pineda, Austin Amelio, Elle LaMont, Miles Emmons, Lee Eddy, and Janeane Garofalo star in this terrifying story of regret, redemption, and the dark side of belief.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/CvhcxbHl7pg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
 
 	
 
@@ -360,6 +354,8 @@ Nuria and Fabio arrive at dawn with their mother Amparo at an unknown island on 
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 
