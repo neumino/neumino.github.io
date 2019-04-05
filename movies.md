@@ -47,7 +47,7 @@ A young elephant, whose oversized ears enable him to fly, helps save a strugglin
 	
 
 ### A Vigilante
-*Released on 2019-03-29, vote average 7.6*
+*Released on 2019-03-29, vote average 6*
 
 A vigilante helps victims escape their domestic abusers.
 
@@ -91,7 +91,7 @@ A boy is given the ability to become an adult superhero in times of need with a 
 	
 
 ### Pet Sematary
-*Released on 2019-04-04, vote average 6.5*
+*Released on 2019-04-04, vote average 6.1*
 
 Louis Creed, his wife Rachel and their two children Gage and Ellie move to a rural home where they are welcomed and enlightened about the eerie &#39;Pet Sematary&#39; located nearby. After the tragedy of their cat being killed by a truck, Louis resorts to burying it in the mysterious pet cemetery, which is definitely not as it seems, as it proves to the Creeds that sometimes dead is better.
 
@@ -100,50 +100,6 @@ Louis Creed, his wife Rachel and their two children Gage and Ellie move to a rur
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/VllcgXSIJkE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Beach Bum
-*Released on 2019-03-21, vote average 4.9*
-
-An irreverent comedy about the misadventures of Moondog, a rebellious stoner and lovable rogue who lives large.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/PiPecJE30hA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Justice League vs. the Fatal Five
-*Released on 2019-03-30, vote average 6.1*
-
-The Justice League faces a powerful new threat — the Fatal Five! Superman, Batman and Wonder Woman seek answers as the time-traveling trio of Mano, Persuader and Tharok terrorize Metropolis in search of budding Green Lantern, Jessica Cruz. With her unwilling help, they aim to free remaining Fatal Five members Emerald Empress and Validus to carry out their sinister plan. But the Justice League has also discovered an ally from another time in the peculiar Star Boy — brimming with volatile power, could he be the key to thwarting the Fatal Five? An epic battle against ultimate evil awaits!
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/7Hj-oR8XirE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -178,19 +134,36 @@ The story of Mötley Crüe and their rise from the Sunset Strip club scene of th
 	
 	
 
-### Unplanned
-*Released on 2019-03-21, vote average 10*
+### Justice League vs. the Fatal Five
+*Released on 2019-03-30, vote average 6.4*
 
-As one of the youngest Planned Parenthood clinic directors in the nation, Abby Johnson was involved in upwards of 22,000 abortions and counseled countless women on their reproductive choices. Her passion surrounding a woman&#39;s right to choose led her to become a spokesperson for Planned Parenthood, fighting to enact legislation for the cause she so deeply believed in. Until the day she saw something that changed everything.
+The Justice League faces a powerful new threat — the Fatal Five! Superman, Batman and Wonder Woman seek answers as the time-traveling trio of Mano, Persuader and Tharok terrorize Metropolis in search of budding Green Lantern, Jessica Cruz. With her unwilling help, they aim to free remaining Fatal Five members Emerald Empress and Validus to carry out their sinister plan. But the Justice League has also discovered an ally from another time in the peculiar Star Boy — brimming with volatile power, could he be the key to thwarting the Fatal Five? An epic battle against ultimate evil awaits!
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/gBLWpKbC3ww?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/7Hj-oR8XirE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 	
 
@@ -230,6 +203,33 @@ Nuria and Fabio arrive at dawn with their mother Amparo at an unknown island on 
 
 
 	
+	
+
+### The Best of Enemies
+*Released on 2019-04-05, vote average 8*
+
+The story of the real-life unlikely relationship between an outspoken civil rights activist and a local Ku Klux Klan leader in 1971 North Carolina.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/eKM6fSTs-A0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 
   
 
@@ -241,25 +241,6 @@ Nuria and Fabio arrive at dawn with their mother Amparo at an unknown island on 
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -285,29 +266,6 @@ Nuria and Fabio arrive at dawn with their mother Amparo at an unknown island on 
 
 
 	
-	
-
-### Pet Sematary
-*Released on 2019-04-04, vote average 6.5*
-
-Louis Creed, his wife Rachel and their two children Gage and Ellie move to a rural home where they are welcomed and enlightened about the eerie &#39;Pet Sematary&#39; located nearby. After the tragedy of their cat being killed by a truck, Louis resorts to burying it in the mysterious pet cemetery, which is definitely not as it seems, as it proves to the Creeds that sometimes dead is better.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/VllcgXSIJkE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
 
 	
 	
@@ -329,20 +287,6 @@ The story of the real-life unlikely relationship between an outspoken civil righ
 	
 
 	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
 	
 
 ### Teen Spirit
@@ -359,6 +303,26 @@ Violet, a shy teenager living on the Isle of Wight off the south coast of Englan
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
