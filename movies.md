@@ -46,52 +46,8 @@ A young elephant, whose oversized ears enable him to fly, helps save a strugglin
 	
 	
 
-### Shazam!
-*Released on 2019-03-23, vote average 7.3*
-
-A boy is given the ability to become an adult superhero in times of need with a single magic word.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/go6GEIrcvFY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### A Vigilante
-*Released on 2019-03-29, vote average 5.4*
-
-A vigilante helps victims escape their domestic abusers.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wyZ_Gu8rSZE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Pet Sematary
-*Released on 2019-04-04, vote average 6.2*
+*Released on 2019-04-04, vote average 6*
 
 Louis Creed, his wife Rachel and their two children Gage and Ellie move to a rural home where they are welcomed and enlightened about the eerie &#39;Pet Sematary&#39; located nearby. After the tragedy of their cat being killed by a truck, Louis resorts to burying it in the mysterious pet cemetery, which is definitely not as it seems, as it proves to the Creeds that sometimes dead is better.
 
@@ -110,28 +66,45 @@ Louis Creed, his wife Rachel and their two children Gage and Ellie move to a rur
 
 
 	
-
-  
-
-
 	
 
-  
+### A Vigilante
+*Released on 2019-03-29, vote average 5*
 
-
-	
-	
-
-### The Best of Enemies
-*Released on 2019-04-05, vote average 8*
-
-The story of the real-life unlikely relationship between an outspoken civil rights activist and a local Ku Klux Klan leader in 1971 North Carolina.
+A vigilante helps victims escape their domestic abusers.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/eKM6fSTs-A0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/wyZ_Gu8rSZE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Head Hunter
+*Released on 2019-04-05, vote average 7*
+
+On the outskirts of a kingdom, a quiet but fierce medieval warrior protects the realm from monsters and the occult. His gruesome collection of heads is missing only one - the monster that killed his daughter years ago. Driven by a thirst for revenge, he travels wild expanses on horseback. When his second chance arrives, it’s in a way far more horrifying than he ever imagined.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PJ3UyXKnJDo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -158,6 +131,33 @@ The Justice League faces a powerful new threat — the Fatal Five! Superman, Bat
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### The Best of Enemies
+*Released on 2019-04-05, vote average 7.5*
+
+The story of the real-life unlikely relationship between an outspoken civil rights activist and a local Ku Klux Klan leader in 1971 North Carolina.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/eKM6fSTs-A0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -201,8 +201,6 @@ Violet, a shy teenager living on the Isle of Wight off the south coast of Englan
 
 
 	
-	
-	
 
   
 
@@ -222,6 +220,23 @@ Violet, a shy teenager living on the Isle of Wight off the south coast of Englan
   
 
 
+	
+	
+
+### Missing Link
+*Released on 2019-04-04, vote average 6.5*
+
+The charismatic Sir Lionel Frost considers himself to be the world&#39;s foremost investigator of myths and monsters. Trouble is, none of his small-minded, high-society peers seems to recognize this. Hoping to finally gain acceptance from these fellow adventurers, Sir Lionel travels to the Pacific Northwest to prove the existence of a legendary creature known as the missing link.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vM5VC7nCv_Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
