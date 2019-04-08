@@ -47,7 +47,7 @@ A young elephant, whose oversized ears enable him to fly, helps save a strugglin
 	
 
 ### Pet Sematary
-*Released on 2019-04-04, vote average 6*
+*Released on 2019-04-04, vote average 5.9*
 
 Louis Creed, his wife Rachel and their two children Gage and Ellie move to a rural home where they are welcomed and enlightened about the eerie &#39;Pet Sematary&#39; located nearby. After the tragedy of their cat being killed by a truck, Louis resorts to burying it in the mysterious pet cemetery, which is definitely not as it seems, as it proves to the Creeds that sometimes dead is better.
 
@@ -69,7 +69,7 @@ Louis Creed, his wife Rachel and their two children Gage and Ellie move to a rur
 	
 
 ### A Vigilante
-*Released on 2019-03-29, vote average 5*
+*Released on 2019-03-29, vote average 5.1*
 
 A vigilante helps victims escape their domestic abusers.
 
@@ -118,7 +118,7 @@ On the outskirts of a kingdom, a quiet but fierce medieval warrior protects the 
 	
 
 ### Justice League vs. the Fatal Five
-*Released on 2019-03-30, vote average 6.4*
+*Released on 2019-03-30, vote average 6.3*
 
 The Justice League faces a powerful new threat — the Fatal Five! Superman, Batman and Wonder Woman seek answers as the time-traveling trio of Mano, Persuader and Tharok terrorize Metropolis in search of budding Green Lantern, Jessica Cruz. With her unwilling help, they aim to free remaining Fatal Five members Emerald Empress and Validus to carry out their sinister plan. But the Justice League has also discovered an ally from another time in the peculiar Star Boy — brimming with volatile power, could he be the key to thwarting the Fatal Five? An epic battle against ultimate evil awaits!
 
@@ -127,6 +127,28 @@ The Justice League faces a powerful new threat — the Fatal Five! Superman, Bat
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/7Hj-oR8XirE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Haunting of Sharon Tate
+*Released on 2019-04-05, vote average 4.1*
+
+Based on a True Story of one of the most Horrific Murders in History:  Pregnant with director Roman Polanski&#39;s child and awaiting his return from Europe, 26-year-old Hollywood actress Sharon Tate becomes plagued by visions of her imminent death.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/R9JFD50C83Y?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -158,6 +180,58 @@ The story of the real-life unlikely relationship between an outspoken civil righ
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Public
+*Released on 2019-04-05, vote average 8*
+
+Downtown Cincinnati librarians Stuart Goodson and Myra see their regular winter day shaken up when homeless patrons decide to take shelter in their library for the night. What starts as a peaceful sit-in quickly escalates into a face-off with the police and the media.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6eZtMGM6ya8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -196,35 +270,10 @@ Violet, a shy teenager living on the Isle of Wight off the south coast of Englan
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### Missing Link
-*Released on 2019-04-04, vote average 6.5*
+*Released on 2019-04-04, vote average 7.7*
 
 The charismatic Sir Lionel Frost considers himself to be the world&#39;s foremost investigator of myths and monsters. Trouble is, none of his small-minded, high-society peers seems to recognize this. Hoping to finally gain acceptance from these fellow adventurers, Sir Lionel travels to the Pacific Northwest to prove the existence of a legendary creature known as the missing link.
 
@@ -237,21 +286,6 @@ The charismatic Sir Lionel Frost considers himself to be the world&#39;s foremos
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
