@@ -69,7 +69,7 @@ Louis Creed, his wife Rachel and their two children Gage and Ellie move to a rur
 	
 
 ### A Vigilante
-*Released on 2019-03-29, vote average 5.1*
+*Released on 2019-03-29, vote average 5.5*
 
 A vigilante helps victims escape their domestic abusers.
 
@@ -88,15 +88,10 @@ A vigilante helps victims escape their domestic abusers.
 
 
 	
-
-  
-
-
-	
 	
 
 ### The Head Hunter
-*Released on 2019-04-05, vote average 7*
+*Released on 2019-04-05, vote average 6.2*
 
 On the outskirts of a kingdom, a quiet but fierce medieval warrior protects the realm from monsters and the occult. His gruesome collection of heads is missing only one - the monster that killed his daughter years ago. Driven by a thirst for revenge, he travels wild expanses on horseback. When his second chance arrives, it’s in a way far more horrifying than he ever imagined.
 
@@ -115,10 +110,15 @@ On the outskirts of a kingdom, a quiet but fierce medieval warrior protects the 
 
 
 	
+
+  
+
+
+	
 	
 
 ### Justice League vs. the Fatal Five
-*Released on 2019-03-30, vote average 6.3*
+*Released on 2019-03-30, vote average 6.2*
 
 The Justice League faces a powerful new threat — the Fatal Five! Superman, Batman and Wonder Woman seek answers as the time-traveling trio of Mano, Persuader and Tharok terrorize Metropolis in search of budding Green Lantern, Jessica Cruz. With her unwilling help, they aim to free remaining Fatal Five members Emerald Empress and Validus to carry out their sinister plan. But the Justice League has also discovered an ally from another time in the peculiar Star Boy — brimming with volatile power, could he be the key to thwarting the Fatal Five? An epic battle against ultimate evil awaits!
 
@@ -161,6 +161,58 @@ Based on a True Story of one of the most Horrific Murders in History:  Pregnant 
 	
 	
 
+### Hellboy
+*Released on 2019-04-04, vote average 2*
+
+Hellboy comes to England, where he must defeat Nimue, Merlin&#39;s consort and the Blood Queen. But their battle will bring about the end of the world, a fate he desperately tries to turn away.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/dt5g5_1cKVk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### The Best of Enemies
 *Released on 2019-04-05, vote average 7.5*
 
@@ -186,48 +238,18 @@ The story of the real-life unlikely relationship between an outspoken civil righ
 
 
 	
-
-  
-
-
 	
 
-  
+### Little
+*Released on 2019-04-04, vote average 7.5*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Public
-*Released on 2019-04-05, vote average 8*
-
-Downtown Cincinnati librarians Stuart Goodson and Myra see their regular winter day shaken up when homeless patrons decide to take shelter in their library for the night. What starts as a peaceful sit-in quickly escalates into a face-off with the police and the media.
+A woman receives the chance to relive the life of her younger self, at a point in her life when the pressures of adulthood become too much for her to bear.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/6eZtMGM6ya8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/5HdNhpeI1g4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -240,30 +262,20 @@ Downtown Cincinnati librarians Stuart Goodson and Myra see their regular winter 
 	
 	
 
-### Teen Spirit
-*Released on 2019-04-05, vote average 10*
+### Into the Dark: I&#39;m Just F*cking with You
+*Released on 2019-04-05, vote average 8.5*
 
-Violet, a shy teenager living on the Isle of Wight off the south coast of England dreams of pop stardom and with the help of an unlikely mentor, she enters a singing competition that will test her integrity, talent and ambition.
+Siblings headed to a family wedding endure a night of increasingly frightening practical jokes while staying at a secluded motel.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/PCSE6cBX3Ys?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/qMbrKzRDU3I?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -273,7 +285,7 @@ Violet, a shy teenager living on the Isle of Wight off the south coast of Englan
 	
 
 ### Missing Link
-*Released on 2019-04-04, vote average 7.7*
+*Released on 2019-04-04, vote average 8.3*
 
 The charismatic Sir Lionel Frost considers himself to be the world&#39;s foremost investigator of myths and monsters. Trouble is, none of his small-minded, high-society peers seems to recognize this. Hoping to finally gain acceptance from these fellow adventurers, Sir Lionel travels to the Pacific Northwest to prove the existence of a legendary creature known as the missing link.
 
@@ -291,10 +303,32 @@ The charismatic Sir Lionel Frost considers himself to be the world&#39;s foremos
   
 
 
+	
+
+  
+
+
 
 ## Opening soon
 
 
+	
+	
+
+### After
+*Released on 2019-04-11, vote average 8*
+
+A young woman falls for a guy with a dark secret and the two embark on a rocky relationship.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2ZAdcWHuCmY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
