@@ -69,7 +69,7 @@ Louis Creed, his wife Rachel and their two children Gage and Ellie move to a rur
 	
 
 ### A Vigilante
-*Released on 2019-03-29, vote average 5.5*
+*Released on 2019-03-29, vote average 5.2*
 
 A vigilante helps victims escape their domestic abusers.
 
@@ -91,7 +91,7 @@ A vigilante helps victims escape their domestic abusers.
 	
 
 ### The Head Hunter
-*Released on 2019-04-05, vote average 6.2*
+*Released on 2019-04-05, vote average 5.9*
 
 On the outskirts of a kingdom, a quiet but fierce medieval warrior protects the realm from monsters and the occult. His gruesome collection of heads is missing only one - the monster that killed his daughter years ago. Driven by a thirst for revenge, he travels wild expanses on horseback. When his second chance arrives, it’s in a way far more horrifying than he ever imagined.
 
@@ -118,7 +118,7 @@ On the outskirts of a kingdom, a quiet but fierce medieval warrior protects the 
 	
 
 ### Justice League vs. the Fatal Five
-*Released on 2019-03-30, vote average 6.2*
+*Released on 2019-03-30, vote average 6.4*
 
 The Justice League faces a powerful new threat — the Fatal Five! Superman, Batman and Wonder Woman seek answers as the time-traveling trio of Mano, Persuader and Tharok terrorize Metropolis in search of budding Green Lantern, Jessica Cruz. With her unwilling help, they aim to free remaining Fatal Five members Emerald Empress and Validus to carry out their sinister plan. But the Justice League has also discovered an ally from another time in the peculiar Star Boy — brimming with volatile power, could he be the key to thwarting the Fatal Five? An epic battle against ultimate evil awaits!
 
@@ -137,10 +137,52 @@ The Justice League faces a powerful new threat — the Fatal Five! Superman, Bat
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Missing Link
+*Released on 2019-04-04, vote average 7.9*
+
+The charismatic Sir Lionel Frost considers himself to be the world&#39;s foremost investigator of myths and monsters. Trouble is, none of his small-minded, high-society peers seems to recognize this. Hoping to finally gain acceptance from these fellow adventurers, Sir Lionel travels to the Pacific Northwest to prove the existence of a legendary creature known as the missing link.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vM5VC7nCv_Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 
 ### The Haunting of Sharon Tate
-*Released on 2019-04-05, vote average 4.1*
+*Released on 2019-04-05, vote average 4.7*
 
 Based on a True Story of one of the most Horrific Murders in History:  Pregnant with director Roman Polanski&#39;s child and awaiting his return from Europe, 26-year-old Hollywood actress Sharon Tate becomes plagued by visions of her imminent death.
 
@@ -159,23 +201,6 @@ Based on a True Story of one of the most Horrific Murders in History:  Pregnant 
 
 
 	
-	
-
-### Hellboy
-*Released on 2019-04-04, vote average 2*
-
-Hellboy comes to England, where he must defeat Nimue, Merlin&#39;s consort and the Blood Queen. But their battle will bring about the end of the world, a fate he desperately tries to turn away.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/dt5g5_1cKVk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -191,10 +216,7 @@ Hellboy comes to England, where he must defeat Nimue, Merlin&#39;s consort and t
 
 
 	
-
-  
-
-
+	
 	
 
   
@@ -214,7 +236,7 @@ Hellboy comes to England, where he must defeat Nimue, Merlin&#39;s consort and t
 	
 
 ### The Best of Enemies
-*Released on 2019-04-05, vote average 7.5*
+*Released on 2019-04-05, vote average 6.3*
 
 The story of the real-life unlikely relationship between an outspoken civil rights activist and a local Ku Klux Klan leader in 1971 North Carolina.
 
@@ -237,77 +259,6 @@ The story of the real-life unlikely relationship between an outspoken civil righ
   
 
 
-	
-	
-
-### Little
-*Released on 2019-04-04, vote average 7.5*
-
-A woman receives the chance to relive the life of her younger self, at a point in her life when the pressures of adulthood become too much for her to bear.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/5HdNhpeI1g4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Into the Dark: I&#39;m Just F*cking with You
-*Released on 2019-04-05, vote average 8.5*
-
-Siblings headed to a family wedding endure a night of increasingly frightening practical jokes while staying at a secluded motel.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qMbrKzRDU3I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Missing Link
-*Released on 2019-04-04, vote average 8.3*
-
-The charismatic Sir Lionel Frost considers himself to be the world&#39;s foremost investigator of myths and monsters. Trouble is, none of his small-minded, high-society peers seems to recognize this. Hoping to finally gain acceptance from these fellow adventurers, Sir Lionel travels to the Pacific Northwest to prove the existence of a legendary creature known as the missing link.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vM5VC7nCv_Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -315,8 +266,27 @@ The charismatic Sir Lionel Frost considers himself to be the world&#39;s foremos
 	
 	
 
+### Hellboy
+*Released on 2019-04-11, vote average 2*
+
+Hellboy comes to England, where he must defeat Nimue, Merlin&#39;s consort and the Blood Queen. But their battle will bring about the end of the world, a fate he desperately tries to turn away.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/dt5g5_1cKVk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
 ### After
-*Released on 2019-04-11, vote average 8*
+*Released on 2019-04-11, vote average 8.7*
 
 A young woman falls for a guy with a dark secret and the two embark on a rocky relationship.
 
@@ -329,8 +299,6 @@ A young woman falls for a guy with a dark secret and the two embark on a rocky r
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
