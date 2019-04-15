@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Pet Sematary
-*Released on 2019-04-04, vote average 5.9*
+### After
+*Released on 2019-04-11, vote average 7.1*
 
-Louis Creed, his wife Rachel and their two children Gage and Ellie move to a rural home where they are welcomed and enlightened about the eerie &#39;Pet Sematary&#39; located nearby. After the tragedy of their cat being killed by a truck, Louis resorts to burying it in the mysterious pet cemetery, which is definitely not as it seems, as it proves to the Creeds that sometimes dead is better.
+A young woman falls for a guy with a dark secret and the two embark on a rocky relationship.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/VllcgXSIJkE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/2ZAdcWHuCmY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,8 +46,30 @@ Louis Creed, his wife Rachel and their two children Gage and Ellie move to a rur
 	
 	
 
+### Pet Sematary
+*Released on 2019-04-04, vote average 5.9*
+
+Louis Creed, his wife Rachel and their two children Gage and Ellie move to a rural home where they are welcomed and enlightened about the eerie &#39;Pet Sematary&#39; located nearby. After the tragedy of their cat being killed by a truck, Louis resorts to burying it in the mysterious pet cemetery, which is definitely not as it seems, as it proves to the Creeds that sometimes dead is better.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/VllcgXSIJkE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Hellboy
-*Released on 2019-04-11, vote average 4.8*
+*Released on 2019-04-11, vote average 4.9*
 
 Hellboy comes to England, where he must defeat Nimue, Merlin&#39;s consort and the Blood Queen. But their battle will bring about the end of the world, a fate he desperately tries to turn away.
 
@@ -60,38 +82,6 @@ Hellboy comes to England, where he must defeat Nimue, Merlin&#39;s consort and t
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### After
-*Released on 2019-04-11, vote average 7.1*
-
-A young woman falls for a guy with a dark secret and the two embark on a rocky relationship.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2ZAdcWHuCmY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -130,72 +120,6 @@ No beau? No problem! To earn money for college, a high schooler creates a dating
 
 
 	
-	
-
-### The Head Hunter
-*Released on 2019-04-05, vote average 5.7*
-
-On the outskirts of a kingdom, a quiet but fierce medieval warrior protects the realm from monsters and the occult. His gruesome collection of heads is missing only one - the monster that killed his daughter years ago. Driven by a thirst for revenge, he travels wild expanses on horseback. When his second chance arrives, it’s in a way far more horrifying than he ever imagined.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/PJ3UyXKnJDo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 
   
 
@@ -227,6 +151,114 @@ A woman receives the chance to relive the life of her younger self, at a point i
   
 
 
+	
+	
+
+### The Silence
+*Released on 2019-04-10, vote average 5.7*
+
+With the world under attack by deadly creatures who hunt by sound, a teen and her family seek refuge outside the city and encounter a mysterious cult.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Y-ufZuqTd5c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Missing Link
+*Released on 2019-04-04, vote average 8.2*
+
+The charismatic Sir Lionel Frost considers himself to be the world&#39;s foremost investigator of myths and monsters. Trouble is, none of his small-minded, high-society peers seems to recognize this. Hoping to finally gain acceptance from these fellow adventurers, Sir Lionel travels to the Pacific Northwest to prove the existence of a legendary creature known as the missing link.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vM5VC7nCv_Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Head Hunter
+*Released on 2019-04-05, vote average 5.5*
+
+On the outskirts of a kingdom, a quiet but fierce medieval warrior protects the realm from monsters and the occult. His gruesome collection of heads is missing only one - the monster that killed his daughter years ago. Driven by a thirst for revenge, he travels wild expanses on horseback. When his second chance arrives, it’s in a way far more horrifying than he ever imagined.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PJ3UyXKnJDo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -250,6 +282,23 @@ A social worker dealing with the disappearance of two children fears for her own
 	
 	
 
+	
+	
+
+### Discarnate
+*Released on 2019-04-19, vote average 2*
+
+A neuroscientist&#39;s obsession with a drug that expands the human mind inadvertently unleashes a deadly supernatural force on his team.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Vb7f8oHrH9o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
