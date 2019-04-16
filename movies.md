@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### After
-*Released on 2019-04-11, vote average 7.1*
+*Released on 2019-04-11, vote average 6.9*
 
 A young woman falls for a guy with a dark secret and the two embark on a rocky relationship.
 
@@ -69,7 +69,7 @@ Louis Creed, his wife Rachel and their two children Gage and Ellie move to a rur
 	
 
 ### Hellboy
-*Released on 2019-04-11, vote average 4.9*
+*Released on 2019-04-11, vote average 5.1*
 
 Hellboy comes to England, where he must defeat Nimue, Merlin&#39;s consort and the Blood Queen. But their battle will bring about the end of the world, a fate he desperately tries to turn away.
 
@@ -88,20 +88,10 @@ Hellboy comes to England, where he must defeat Nimue, Merlin&#39;s consort and t
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### The Perfect Date
-*Released on 2019-04-12, vote average 6.8*
+*Released on 2019-04-12, vote average 6.6*
 
 No beau? No problem! To earn money for college, a high schooler creates a dating app that lets him act as a stand-in boyfriend.
 
@@ -132,30 +122,8 @@ No beau? No problem! To earn money for college, a high schooler creates a dating
 	
 	
 
-### Little
-*Released on 2019-04-04, vote average 6.4*
-
-A woman receives the chance to relive the life of her younger self, at a point in her life when the pressures of adulthood become too much for her to bear.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Qz65no3WnJk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Silence
-*Released on 2019-04-10, vote average 5.7*
+*Released on 2019-04-10, vote average 5.8*
 
 With the world under attack by deadly creatures who hunt by sound, a teen and her family seek refuge outside the city and encounter a mysterious cult.
 
@@ -177,7 +145,7 @@ With the world under attack by deadly creatures who hunt by sound, a teen and he
 	
 
 ### Missing Link
-*Released on 2019-04-04, vote average 8.2*
+*Released on 2019-04-04, vote average 7.8*
 
 The charismatic Sir Lionel Frost considers himself to be the world&#39;s foremost investigator of myths and monsters. Trouble is, none of his small-minded, high-society peers seems to recognize this. Hoping to finally gain acceptance from these fellow adventurers, Sir Lionel travels to the Pacific Northwest to prove the existence of a legendary creature known as the missing link.
 
@@ -196,10 +164,44 @@ The charismatic Sir Lionel Frost considers himself to be the world&#39;s foremos
 
 
 	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Little
+*Released on 2019-04-04, vote average 6.2*
+
+A woman receives the chance to relive the life of her younger self, at a point in her life when the pressures of adulthood become too much for her to bear.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Qz65no3WnJk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 
 ### The Head Hunter
-*Released on 2019-04-05, vote average 5.5*
+*Released on 2019-04-05, vote average 5.6*
 
 On the outskirts of a kingdom, a quiet but fierce medieval warrior protects the realm from monsters and the occult. His gruesome collection of heads is missing only one - the monster that killed his daughter years ago. Driven by a thirst for revenge, he travels wild expanses on horseback. When his second chance arrives, it’s in a way far more horrifying than he ever imagined.
 
@@ -267,7 +269,7 @@ On the outskirts of a kingdom, a quiet but fierce medieval warrior protects the 
 	
 
 ### The Curse of La Llorona
-*Released on 2019-04-17, vote average 6*
+*Released on 2019-04-17, vote average 3.7*
 
 A social worker dealing with the disappearance of two children fears for her own family after beginning the investigation.
 
@@ -280,6 +282,8 @@ A social worker dealing with the disappearance of two children fears for her own
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
@@ -299,8 +303,6 @@ A neuroscientist&#39;s obsession with a drug that expands the human mind inadver
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
