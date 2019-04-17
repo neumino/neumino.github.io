@@ -46,28 +46,6 @@ A young woman falls for a guy with a dark secret and the two embark on a rocky r
 	
 	
 
-### Pet Sematary
-*Released on 2019-04-04, vote average 5.9*
-
-Louis Creed, his wife Rachel and their two children Gage and Ellie move to a rural home where they are welcomed and enlightened about the eerie &#39;Pet Sematary&#39; located nearby. After the tragedy of their cat being killed by a truck, Louis resorts to burying it in the mysterious pet cemetery, which is definitely not as it seems, as it proves to the Creeds that sometimes dead is better.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/VllcgXSIJkE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Hellboy
 *Released on 2019-04-11, vote average 5.1*
 
@@ -91,7 +69,7 @@ Hellboy comes to England, where he must defeat Nimue, Merlin&#39;s consort and t
 	
 
 ### The Perfect Date
-*Released on 2019-04-12, vote average 6.6*
+*Released on 2019-04-12, vote average 6.5*
 
 No beau? No problem! To earn money for college, a high schooler creates a dating app that lets him act as a stand-in boyfriend.
 
@@ -110,10 +88,22 @@ No beau? No problem! To earn money for college, a high schooler creates a dating
 
 
 	
+	
 
-  
+### Pet Sematary
+*Released on 2019-04-04, vote average 5.9*
 
+Louis Creed, his wife Rachel and their two children Gage and Ellie move to a rural home where they are welcomed and enlightened about the eerie &#39;Pet Sematary&#39; located nearby. After the tragedy of their cat being killed by a truck, Louis resorts to burying it in the mysterious pet cemetery, which is definitely not as it seems, as it proves to the Creeds that sometimes dead is better.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/VllcgXSIJkE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -123,7 +113,7 @@ No beau? No problem! To earn money for college, a high schooler creates a dating
 	
 
 ### The Silence
-*Released on 2019-04-10, vote average 5.8*
+*Released on 2019-04-10, vote average 5.7*
 
 With the world under attack by deadly creatures who hunt by sound, a teen and her family seek refuge outside the city and encounter a mysterious cult.
 
@@ -170,6 +160,38 @@ The charismatic Sir Lionel Frost considers himself to be the world&#39;s foremos
 
 	
 	
+
+### The Curse of La Llorona
+*Released on 2019-04-17, vote average 4.8*
+
+A social worker dealing with the disappearance of two children fears for her own family after beginning the investigation.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ALhy6XTpMlk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -192,6 +214,31 @@ A woman receives the chance to relive the life of her younger self, at a point i
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -229,47 +276,17 @@ On the outskirts of a kingdom, a quiet but fierce medieval warrior protects the 
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
 
 	
+
+	
 	
 
 ### The Curse of La Llorona
-*Released on 2019-04-17, vote average 3.7*
+*Released on 2019-04-17, vote average 4.8*
 
 A social worker dealing with the disappearance of two children fears for her own family after beginning the investigation.
 
@@ -336,7 +353,7 @@ A neuroscientist&#39;s obsession with a drug that expands the human mind inadver
 	
 
 	
-
+	
 	
 
 
