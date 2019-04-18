@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### After
-*Released on 2019-04-11, vote average 6.9*
+### Hellboy
+*Released on 2019-04-11, vote average 5.1*
 
-A young woman falls for a guy with a dark secret and the two embark on a rocky relationship.
+Hellboy comes to England, where he must defeat Nimue, Merlin&#39;s consort and the Blood Queen. But their battle will bring about the end of the world, a fate he desperately tries to turn away.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/2ZAdcWHuCmY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/dt5g5_1cKVk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ A young woman falls for a guy with a dark secret and the two embark on a rocky r
 	
 	
 
-### Hellboy
-*Released on 2019-04-11, vote average 5.1*
+### After
+*Released on 2019-04-11, vote average 6.7*
 
-Hellboy comes to England, where he must defeat Nimue, Merlin&#39;s consort and the Blood Queen. But their battle will bring about the end of the world, a fate he desperately tries to turn away.
+A young woman falls for a guy with a dark secret and the two embark on a rocky relationship.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/dt5g5_1cKVk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/2ZAdcWHuCmY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,6 +112,50 @@ Louis Creed, his wife Rachel and their two children Gage and Ellie move to a rur
 	
 	
 
+### Missing Link
+*Released on 2019-04-04, vote average 7.7*
+
+The charismatic Sir Lionel Frost considers himself to be the world&#39;s foremost investigator of myths and monsters. Trouble is, none of his small-minded, high-society peers seems to recognize this. Hoping to finally gain acceptance from these fellow adventurers, Sir Lionel travels to the Pacific Northwest to prove the existence of a legendary creature known as the missing link.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vM5VC7nCv_Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Curse of La Llorona
+*Released on 2019-04-17, vote average 6.1*
+
+A social worker dealing with the disappearance of two children fears for her own family after beginning the investigation.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ALhy6XTpMlk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Silence
 *Released on 2019-04-10, vote average 5.7*
 
@@ -131,50 +175,6 @@ With the world under attack by deadly creatures who hunt by sound, a teen and he
   
 
 
-	
-	
-
-### Missing Link
-*Released on 2019-04-04, vote average 7.8*
-
-The charismatic Sir Lionel Frost considers himself to be the world&#39;s foremost investigator of myths and monsters. Trouble is, none of his small-minded, high-society peers seems to recognize this. Hoping to finally gain acceptance from these fellow adventurers, Sir Lionel travels to the Pacific Northwest to prove the existence of a legendary creature known as the missing link.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vM5VC7nCv_Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Curse of La Llorona
-*Released on 2019-04-17, vote average 4.8*
-
-A social worker dealing with the disappearance of two children fears for her own family after beginning the investigation.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ALhy6XTpMlk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -201,7 +201,7 @@ A social worker dealing with the disappearance of two children fears for her own
 	
 
 ### Little
-*Released on 2019-04-04, vote average 6.2*
+*Released on 2019-04-04, vote average 6.1*
 
 A woman receives the chance to relive the life of her younger self, at a point in her life when the pressures of adulthood become too much for her to bear.
 
@@ -245,32 +245,32 @@ A woman receives the chance to relive the life of her younger self, at a point i
 
 
 	
+
+  
+
+
 	
 
-### The Head Hunter
-*Released on 2019-04-05, vote average 5.6*
+  
 
-On the outskirts of a kingdom, a quiet but fierce medieval warrior protects the realm from monsters and the occult. His gruesome collection of heads is missing only one - the monster that killed his daughter years ago. Driven by a thirst for revenge, he travels wild expanses on horseback. When his second chance arrives, it’s in a way far more horrifying than he ever imagined.
+
+	
+	
+
+### Homecoming: A Film by Beyoncé
+*Released on 2019-04-17, vote average 9.2*
+
+This intimate, in-depth look at Beyoncé&#39;s celebrated 2018 Coachella performance reveals the emotional road from creative concept to cultural movement.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/PJ3UyXKnJDo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/fB8qvx0HOlI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -280,25 +280,6 @@ On the outskirts of a kingdom, a quiet but fierce medieval warrior protects the 
 ## Opening soon
 
 
-	
-
-	
-	
-
-### The Curse of La Llorona
-*Released on 2019-04-17, vote average 4.8*
-
-A social worker dealing with the disappearance of two children fears for her own family after beginning the investigation.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ALhy6XTpMlk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
@@ -323,6 +304,45 @@ A neuroscientist&#39;s obsession with a drug that expands the human mind inadver
 	
 
 	
+	
+
+### Smuggling Hendrix
+*Released on 2019-04-18, vote average 9.5*
+
+Caught between the mob and border patrol, washed-up musician Yiannis must put his plans to leave Cyprus on hold when his beloved dog escapes across the wall to the island&#39;s Turkish side.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/9ACqXDktph0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+	
+	
+
+	
+	
+	
+
+	
+
+	
+
+	
+
+	
+	
+	
 
 	
 
@@ -333,27 +353,28 @@ A neuroscientist&#39;s obsession with a drug that expands the human mind inadver
 	
 
 	
+	
+
+### Little Woods
+*Released on 2019-04-19, vote average 8*
+
+For years, Ollie has illicitly helped the struggling residents of her North Dakota oil boomtown access Canadian health care and medication. When the authorities catch on, she plans to abandon her crusade, only to be dragged in even deeper after a desperate plea for help from her sister.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8HxRrJk48sg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
 	
 
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	
 	
 
 
