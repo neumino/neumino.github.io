@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Hellboy
-*Released on 2019-04-11, vote average 5.1*
+*Released on 2019-04-10, vote average 5.2*
 
 Hellboy comes to England, where he must defeat Nimue, Merlin&#39;s consort and the Blood Queen. But their battle will bring about the end of the world, a fate he desperately tries to turn away.
 
@@ -47,7 +47,7 @@ Hellboy comes to England, where he must defeat Nimue, Merlin&#39;s consort and t
 	
 
 ### After
-*Released on 2019-04-11, vote average 6.7*
+*Released on 2019-04-11, vote average 6.5*
 
 A young woman falls for a guy with a dark secret and the two embark on a rocky relationship.
 
@@ -90,52 +90,8 @@ No beau? No problem! To earn money for college, a high schooler creates a dating
 	
 	
 
-### Pet Sematary
-*Released on 2019-04-04, vote average 5.9*
-
-Louis Creed, his wife Rachel and their two children Gage and Ellie move to a rural home where they are welcomed and enlightened about the eerie &#39;Pet Sematary&#39; located nearby. After the tragedy of their cat being killed by a truck, Louis resorts to burying it in the mysterious pet cemetery, which is definitely not as it seems, as it proves to the Creeds that sometimes dead is better.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/VllcgXSIJkE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Missing Link
-*Released on 2019-04-04, vote average 7.7*
-
-The charismatic Sir Lionel Frost considers himself to be the world&#39;s foremost investigator of myths and monsters. Trouble is, none of his small-minded, high-society peers seems to recognize this. Hoping to finally gain acceptance from these fellow adventurers, Sir Lionel travels to the Pacific Northwest to prove the existence of a legendary creature known as the missing link.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vM5VC7nCv_Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Curse of La Llorona
-*Released on 2019-04-17, vote average 6.1*
+*Released on 2019-04-17, vote average 5.5*
 
 A social worker dealing with the disappearance of two children fears for her own family after beginning the investigation.
 
@@ -181,84 +137,10 @@ With the world under attack by deadly creatures who hunt by sound, a teen and he
 
 
 	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Little
-*Released on 2019-04-04, vote average 6.1*
-
-A woman receives the chance to relive the life of her younger self, at a point in her life when the pressures of adulthood become too much for her to bear.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Qz65no3WnJk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### Homecoming: A Film by Beyoncé
-*Released on 2019-04-17, vote average 9.2*
+*Released on 2019-04-17, vote average 8.5*
 
 This intimate, in-depth look at Beyoncé&#39;s celebrated 2018 Coachella performance reveals the emotional road from creative concept to cultural movement.
 
@@ -276,19 +158,33 @@ This intimate, in-depth look at Beyoncé&#39;s celebrated 2018 Coachella perform
   
 
 
-
-## Opening soon
-
-
+	
 	
 
+### Breakthrough
+*Released on 2019-04-11, vote average 8.5*
+
+When he was 14, Smith drowned in Lake St. Louis and was dead for nearly an hour. According to reports at the time, CPR was performed 27 minutes to no avail. Then the youth&#39;s mother, Joyce Smith, entered the room, praying loudly. Suddenly, there was a pulse, and Smith came around.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/go1jaIRQc-o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
+	
+
+  
+
 
 	
 	
 
 ### Discarnate
-*Released on 2019-04-19, vote average 2*
+*Released on 2019-04-19, vote average 3.3*
 
 A neuroscientist&#39;s obsession with a drug that expands the human mind inadvertently unleashes a deadly supernatural force on his team.
 
@@ -302,6 +198,19 @@ A neuroscientist&#39;s obsession with a drug that expands the human mind inadver
 
 	
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
 
 	
 	
@@ -322,35 +231,8 @@ Caught between the mob and border patrol, washed-up musician Yiannis must put hi
 	
 	
 
-	
+  
 
-	
-
-	
-	
-	
-
-	
-	
-	
-
-	
-
-	
-
-	
-
-	
-	
-	
-
-	
-
-	
-
-	
-
-	
 
 	
 	
@@ -369,6 +251,88 @@ For years, Ollie has illicitly helped the struggling residents of her North Dako
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+
+## Opening soon
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
