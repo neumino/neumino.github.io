@@ -110,6 +110,33 @@ A social worker dealing with the disappearance of two children fears for her own
 
 
 	
+
+  
+
+
+	
+	
+
+### Homecoming: A Film by Beyoncé
+*Released on 2019-04-17, vote average 8.6*
+
+This intimate, in-depth look at Beyoncé&#39;s celebrated 2018 Coachella performance reveals the emotional road from creative concept to cultural movement.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fB8qvx0HOlI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 
 ### The Silence
@@ -132,33 +159,6 @@ With the world under attack by deadly creatures who hunt by sound, a teen and he
 
 
 	
-
-  
-
-
-	
-	
-
-### Homecoming: A Film by Beyoncé
-*Released on 2019-04-17, vote average 8.5*
-
-This intimate, in-depth look at Beyoncé&#39;s celebrated 2018 Coachella performance reveals the emotional road from creative concept to cultural movement.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/fB8qvx0HOlI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 	
 
 ### Breakthrough
@@ -171,6 +171,55 @@ When he was 14, Smith drowned in Lake St. Louis and was dead for nearly an hour.
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/go1jaIRQc-o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Someone Great
+*Released on 2019-04-19, vote average 7*
+
+An aspiring music journalist lands her dream job and is about to move to San Francisco when her boyfriend of nine years decides to call it quits. To nurse her broken heart, she and her two best friends spend one outrageous last adventure in New York City.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/BBd9gcrj2Wk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Little Woods
+*Released on 2019-04-19, vote average 5*
+
+For years, Ollie has illicitly helped the struggling residents of her North Dakota oil boomtown access Canadian health care and medication. When the authorities catch on, she plans to abandon her crusade, only to be dragged in even deeper after a desperate plea for help from her sister.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8HxRrJk48sg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -208,45 +257,18 @@ A neuroscientist&#39;s obsession with a drug that expands the human mind inadver
 
 
 	
-
-  
-
-
-	
 	
 
-### Smuggling Hendrix
-*Released on 2019-04-18, vote average 9.5*
+### Once Upon a Time in London
+*Released on 2019-04-19, vote average 6*
 
-Caught between the mob and border patrol, washed-up musician Yiannis must put his plans to leave Cyprus on hold when his beloved dog escapes across the wall to the island&#39;s Turkish side.
+Billy Hill and Jack &#39;Spot&#39; Comer were among the most notorious criminals in London up until the 1950s. Dramatising the violent reign of two of London&#39;s most notorious gangsters, Billy Hill (Leo Gregory) and Jack &#39;Spot&#39; Comer (Terry Stone), ONCE UPON A TIME IN LONDON charts the legendary rise and fall of a nationwide criminal empire that lasted until the mid-fifties and which paved the way for the notorious Kray Twins and The Richardsons. This is the story of their rise and fall.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/9ACqXDktph0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Little Woods
-*Released on 2019-04-19, vote average 8*
-
-For years, Ollie has illicitly helped the struggling residents of her North Dakota oil boomtown access Canadian health care and medication. When the authorities catch on, she plans to abandon her crusade, only to be dragged in even deeper after a desperate plea for help from her sister.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8HxRrJk48sg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/rO-l5p0RXz0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -262,8 +284,6 @@ For years, Ollie has illicitly helped the struggling residents of her North Dako
 
 
 	
-	
-	
 
   
 
@@ -283,15 +303,6 @@ For years, Ollie has illicitly helped the struggling residents of her North Dako
   
 
 
-	
-	
-	
-
-  
-
-
-	
-	
 	
 
   
