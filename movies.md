@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Hellboy
-*Released on 2019-04-10, vote average 5.3*
+*Released on 2019-04-10, vote average 5.2*
 
 Hellboy comes to England, where he must defeat Nimue, Merlin&#39;s consort and the Blood Queen. But their battle will bring about the end of the world, a fate he desperately tries to turn away.
 
@@ -95,8 +95,30 @@ A social worker dealing with the disappearance of two children fears for her own
 	
 	
 
+### Someone Great
+*Released on 2019-04-19, vote average 6.8*
+
+An aspiring music journalist lands her dream job and is about to move to San Francisco when her boyfriend of nine years decides to call it quits. To nurse her broken heart, she and her two best friends spend one outrageous last adventure in New York City.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/BBd9gcrj2Wk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Perfect Date
-*Released on 2019-04-12, vote average 6.5*
+*Released on 2019-04-12, vote average 6.4*
 
 No beau? No problem! To earn money for college, a high schooler creates a dating app that lets him act as a stand-in boyfriend.
 
@@ -122,52 +144,8 @@ No beau? No problem! To earn money for college, a high schooler creates a dating
 	
 	
 
-### Someone Great
-*Released on 2019-04-19, vote average 6.8*
-
-An aspiring music journalist lands her dream job and is about to move to San Francisco when her boyfriend of nine years decides to call it quits. To nurse her broken heart, she and her two best friends spend one outrageous last adventure in New York City.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/BBd9gcrj2Wk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Homecoming: A Film by Beyoncé
-*Released on 2019-04-17, vote average 8.6*
-
-This intimate, in-depth look at Beyoncé&#39;s celebrated 2018 Coachella performance reveals the emotional road from creative concept to cultural movement.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/fB8qvx0HOlI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Breakthrough
-*Released on 2019-04-11, vote average 8.1*
+*Released on 2019-04-11, vote average 8*
 
 When he was 14, Smith drowned in Lake St. Louis and was dead for nearly an hour. According to reports at the time, CPR was performed 27 minutes to no avail. Then the youth&#39;s mother, Joyce Smith, entered the room, praying loudly. Suddenly, there was a pulse, and Smith came around.
 
@@ -209,39 +187,66 @@ Billy Hill and Jack &#39;Spot&#39; Comer were among the most notorious criminals
 
 	
 	
-	
 
-  
+### Homecoming: A Film by Beyoncé
+*Released on 2019-04-17, vote average 8.6*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Little Woods
-*Released on 2019-04-19, vote average 5*
-
-For years, Ollie has illicitly helped the struggling residents of her North Dakota oil boomtown access Canadian health care and medication. When the authorities catch on, she plans to abandon her crusade, only to be dragged in even deeper after a desperate plea for help from her sister.
+This intimate, in-depth look at Beyoncé&#39;s celebrated 2018 Coachella performance reveals the emotional road from creative concept to cultural movement.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/8HxRrJk48sg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/fB8qvx0HOlI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Penguins
+*Released on 2019-04-17, vote average 7.3*
+
+The story of Steve, an Adélie penguin, on a quest to find a life partner and start a family. When Steve meets with Wuzzo the emperor penguin they become friends. But nothing comes easy in the icy Antarctic.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/VubxHFy7ocE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -259,38 +264,16 @@ For years, Ollie has illicitly helped the struggling residents of her North Dako
 	
 	
 
-### Guava Island
-*Released on 2019-04-13, vote average 7.5*
+### Crypto
+*Released on 2019-04-12, vote average 6.4*
 
-A musician designs on pulling off a scheme to rob his way into the good life, which quickly gets him in over his head.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/In0P55759jU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Discarnate
-*Released on 2019-04-19, vote average 3.3*
-
-A neuroscientist&#39;s obsession with a drug that expands the human mind inadvertently unleashes a deadly supernatural force on his team.
+A young agent is tasked with investigating a tangled web of corruption and fraud in New York.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Vb7f8oHrH9o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/_tbY8gclLYY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -314,23 +297,6 @@ A neuroscientist&#39;s obsession with a drug that expands the human mind inadver
 ## Opening soon
 
 
-	
-	
-
-### Avengers: Endgame
-*Released on 2019-04-24, vote average 6.1*
-
-After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos&#39; actions and restore order to the universe once and for all, no matter what consequences may be in store.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hA6hldpSTF8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
