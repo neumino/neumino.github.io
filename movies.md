@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Hellboy
-*Released on 2019-04-10, vote average 5.2*
+*Released on 2019-04-10, vote average 5.3*
 
 Hellboy comes to England, where he must defeat Nimue, Merlin&#39;s consort and the Blood Queen. But their battle will bring about the end of the world, a fate he desperately tries to turn away.
 
@@ -44,6 +44,11 @@ Hellboy comes to England, where he must defeat Nimue, Merlin&#39;s consort and t
 
 
 	
+
+  
+
+
+	
 	
 
 ### After
@@ -69,7 +74,7 @@ A young woman falls for a guy with a dark secret and the two embark on a rocky r
 	
 
 ### The Curse of La Llorona
-*Released on 2019-04-17, vote average 5.5*
+*Released on 2019-04-17, vote average 5.7*
 
 A social worker dealing with the disappearance of two children fears for her own family after beginning the investigation.
 
@@ -96,7 +101,7 @@ A social worker dealing with the disappearance of two children fears for her own
 	
 
 ### Someone Great
-*Released on 2019-04-19, vote average 6.8*
+*Released on 2019-04-19, vote average 6.9*
 
 An aspiring music journalist lands her dream job and is about to move to San Francisco when her boyfriend of nine years decides to call it quits. To nurse her broken heart, she and her two best friends spend one outrageous last adventure in New York City.
 
@@ -137,15 +142,10 @@ No beau? No problem! To earn money for college, a high schooler creates a dating
 
 
 	
-
-  
-
-
-	
 	
 
 ### Breakthrough
-*Released on 2019-04-11, vote average 8*
+*Released on 2019-04-11, vote average 7.3*
 
 When he was 14, Smith drowned in Lake St. Louis and was dead for nearly an hour. According to reports at the time, CPR was performed 27 minutes to no avail. Then the youth&#39;s mother, Joyce Smith, entered the room, praying loudly. Suddenly, there was a pulse, and Smith came around.
 
@@ -154,28 +154,6 @@ When he was 14, Smith drowned in Lake St. Louis and was dead for nearly an hour.
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/go1jaIRQc-o?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Once Upon a Time in London
-*Released on 2019-04-19, vote average 6*
-
-Billy Hill and Jack &#39;Spot&#39; Comer were among the most notorious criminals in London up until the 1950s. Dramatising the violent reign of two of London&#39;s most notorious gangsters, Billy Hill (Leo Gregory) and Jack &#39;Spot&#39; Comer (Terry Stone), ONCE UPON A TIME IN LONDON charts the legendary rise and fall of a nationwide criminal empire that lasted until the mid-fifties and which paved the way for the notorious Kray Twins and The Richardsons. This is the story of their rise and fall.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rO-l5p0RXz0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -214,6 +192,43 @@ This intimate, in-depth look at Beyoncé&#39;s celebrated 2018 Coachella perform
 
 	
 	
+
+### Once Upon a Time in London
+*Released on 2019-04-19, vote average 6*
+
+Billy Hill and Jack &#39;Spot&#39; Comer were among the most notorious criminals in London up until the 1950s. Dramatising the violent reign of two of London&#39;s most notorious gangsters, Billy Hill (Leo Gregory) and Jack &#39;Spot&#39; Comer (Terry Stone), ONCE UPON A TIME IN LONDON charts the legendary rise and fall of a nationwide criminal empire that lasted until the mid-fifties and which paved the way for the notorious Kray Twins and The Richardsons. This is the story of their rise and fall.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/rO-l5p0RXz0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -251,38 +266,6 @@ The story of Steve, an Adélie penguin, on a quest to find a life partner and st
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Crypto
-*Released on 2019-04-12, vote average 6.4*
-
-A young agent is tasked with investigating a tangled web of corruption and fraud in New York.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/_tbY8gclLYY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
