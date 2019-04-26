@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Hellboy
-*Released on 2019-04-10, vote average 5.3*
+### Avengers: Endgame
+*Released on 2019-04-24, vote average 8.7*
 
-Hellboy comes to England, where he must defeat Nimue, Merlin&#39;s consort and the Blood Queen. But their battle will bring about the end of the world, a fate he desperately tries to turn away.
+After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos&#39; actions and restore order to the universe once and for all, no matter what consequences may be in store.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/dt5g5_1cKVk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/hA6hldpSTF8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -44,37 +44,10 @@ Hellboy comes to England, where he must defeat Nimue, Merlin&#39;s consort and t
 
 
 	
-
-  
-
-
-	
-	
-
-### After
-*Released on 2019-04-11, vote average 6.5*
-
-A young woman falls for a guy with a dark secret and the two embark on a rocky relationship.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2ZAdcWHuCmY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 	
 
 ### The Curse of La Llorona
-*Released on 2019-04-17, vote average 5.7*
+*Released on 2019-04-17, vote average 5.4*
 
 A social worker dealing with the disappearance of two children fears for her own family after beginning the investigation.
 
@@ -93,15 +66,10 @@ A social worker dealing with the disappearance of two children fears for her own
 
 
 	
-
-  
-
-
-	
 	
 
 ### Someone Great
-*Released on 2019-04-19, vote average 6.9*
+*Released on 2019-04-19, vote average 6.8*
 
 An aspiring music journalist lands her dream job and is about to move to San Francisco when her boyfriend of nine years decides to call it quits. To nurse her broken heart, she and her two best friends spend one outrageous last adventure in New York City.
 
@@ -110,6 +78,28 @@ An aspiring music journalist lands her dream job and is about to move to San Fra
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/BBd9gcrj2Wk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Kanchana 3
+*Released on 2019-04-19, vote average 5*
+
+Kanchana 3 is an UpcomingTamil horror Revenge film directed by Raghava Lawrence, starring himself, Oviya and Vedhika in the leading roles.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-16MdQ9Blgk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -144,20 +134,84 @@ No beau? No problem! To earn money for college, a high schooler creates a dating
 	
 	
 
-### Breakthrough
-*Released on 2019-04-11, vote average 7.3*
+### Crypto
+*Released on 2019-04-12, vote average 6.2*
 
-When he was 14, Smith drowned in Lake St. Louis and was dead for nearly an hour. According to reports at the time, CPR was performed 27 minutes to no avail. Then the youth&#39;s mother, Joyce Smith, entered the room, praying loudly. Suddenly, there was a pulse, and Smith came around.
+A young agent is tasked with investigating a tangled web of corruption and fraud in New York.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/go1jaIRQc-o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/_tbY8gclLYY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Guava Island
+*Released on 2019-04-13, vote average 7.5*
+
+Deni Maroon, a musician and dock worker is determined to pull off a music festival against the interests of the local factory owner.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/In0P55759jU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -191,81 +245,10 @@ This intimate, in-depth look at Beyoncé&#39;s celebrated 2018 Coachella perform
 
 
 	
-	
-
-### Once Upon a Time in London
-*Released on 2019-04-19, vote average 6*
-
-Billy Hill and Jack &#39;Spot&#39; Comer were among the most notorious criminals in London up until the 1950s. Dramatising the violent reign of two of London&#39;s most notorious gangsters, Billy Hill (Leo Gregory) and Jack &#39;Spot&#39; Comer (Terry Stone), ONCE UPON A TIME IN LONDON charts the legendary rise and fall of a nationwide criminal empire that lasted until the mid-fifties and which paved the way for the notorious Kray Twins and The Richardsons. This is the story of their rise and fall.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rO-l5p0RXz0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Penguins
-*Released on 2019-04-17, vote average 7.3*
-
-The story of Steve, an Adélie penguin, on a quest to find a life partner and start a family. When Steve meets with Wuzzo the emperor penguin they become friends. But nothing comes easy in the icy Antarctic.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/VubxHFy7ocE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -282,6 +265,8 @@ The story of Steve, an Adélie penguin, on a quest to find a life partner and st
 
 	
 
+	
+	
 	
 
 	
