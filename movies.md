@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Avengers: Endgame
-*Released on 2019-04-24, vote average 8.7*
+*Released on 2019-04-24, vote average 8.8*
 
 After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos&#39; actions and restore order to the universe once and for all, no matter what consequences may be in store.
 
@@ -112,50 +112,6 @@ Kanchana 3 is an UpcomingTamil horror Revenge film directed by Raghava Lawrence,
 	
 	
 
-### The Perfect Date
-*Released on 2019-04-12, vote average 6.4*
-
-No beau? No problem! To earn money for college, a high schooler creates a dating app that lets him act as a stand-in boyfriend.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Hld-7oBn3Rk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Crypto
-*Released on 2019-04-12, vote average 6.2*
-
-A young agent is tasked with investigating a tangled web of corruption and fraud in New York.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/_tbY8gclLYY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Guava Island
 *Released on 2019-04-13, vote average 7.5*
 
@@ -181,21 +137,6 @@ Deni Maroon, a musician and dock worker is determined to pull off a music festiv
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 	
 
@@ -218,27 +159,37 @@ Deni Maroon, a musician and dock worker is determined to pull off a music festiv
 
 
 	
-	
 
-### Homecoming: A Film by Beyoncé
-*Released on 2019-04-17, vote average 8.6*
+  
 
-This intimate, in-depth look at Beyoncé&#39;s celebrated 2018 Coachella performance reveals the emotional road from creative concept to cultural movement.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/fB8qvx0HOlI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -264,9 +215,9 @@ This intimate, in-depth look at Beyoncé&#39;s celebrated 2018 Coachella perform
 
 
 	
+	
+	
 
-	
-	
 	
 
 	
