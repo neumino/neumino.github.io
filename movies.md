@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Avengers: Endgame
-*Released on 2019-04-24, vote average 8.8*
+*Released on 2019-04-24, vote average 8.7*
 
 After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos&#39; actions and restore order to the universe once and for all, no matter what consequences may be in store.
 
@@ -88,10 +88,22 @@ An aspiring music journalist lands her dream job and is about to move to San Fra
 
 
 	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
 	
 
 ### Kanchana 3
-*Released on 2019-04-19, vote average 5*
+*Released on 2019-04-19, vote average 4*
 
 Kanchana 3 is an UpcomingTamil horror Revenge film directed by Raghava Lawrence, starring himself, Oviya and Vedhika in the leading roles.
 
@@ -110,23 +122,6 @@ Kanchana 3 is an UpcomingTamil horror Revenge film directed by Raghava Lawrence,
 
 
 	
-	
-
-### Guava Island
-*Released on 2019-04-13, vote average 7.5*
-
-Deni Maroon, a musician and dock worker is determined to pull off a music festival against the interests of the local factory owner.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/In0P55759jU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -178,18 +173,6 @@ Deni Maroon, a musician and dock worker is determined to pull off a music festiv
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -215,8 +198,6 @@ Deni Maroon, a musician and dock worker is determined to pull off a music festiv
 
 
 	
-	
-	
 
 	
 
@@ -242,6 +223,23 @@ Deni Maroon, a musician and dock worker is determined to pull off a music festiv
 
 	
 
+	
+	
+
+### Extremely Wicked, Shockingly Evil and Vile
+*Released on 2019-05-02, vote average 8*
+
+A chronicle of the crimes of Ted Bundy, from the perspective of his longtime girlfriend, Elizabeth Kloepfer, who refused to believe the truth about him for years.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-lW6Z38HHJw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
