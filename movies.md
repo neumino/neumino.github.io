@@ -46,28 +46,6 @@ After the devastating events of Avengers: Infinity War, the universe is in ruins
 	
 	
 
-### The Curse of La Llorona
-*Released on 2019-04-17, vote average 5.5*
-
-A social worker dealing with the disappearance of two children fears for her own family after beginning the investigation.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ALhy6XTpMlk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Someone Great
 *Released on 2019-04-19, vote average 6.9*
 
@@ -87,8 +65,6 @@ An aspiring music journalist lands her dream job and is about to move to San Fra
   
 
 
-	
-	
 	
 
   
@@ -117,6 +93,8 @@ Kanchana 3 is an UpcomingTamil horror Revenge film directed by Raghava Lawrence,
 
 
 	
+	
+	
 
   
 
@@ -127,64 +105,67 @@ Kanchana 3 is an UpcomingTamil horror Revenge film directed by Raghava Lawrence,
 
 
 	
+
+  
+
+
 	
 
-### 27 Steps of May
-*Released on 2019-04-27, vote average 9*
+  
 
-Eight years ago, 14 year old May was raped by a group of men. May’s father is devastated, blaming himself for not being able to keep his daughter safe. Traumatized significantly by this incident, May with draws completely from life.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Homecoming: A Film by Beyoncé
+*Released on 2019-04-17, vote average 8.5*
+
+This intimate, in-depth look at Beyoncé&#39;s celebrated 2018 Coachella performance reveals the emotional road from creative concept to cultural movement.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/zuvsR1KNWKA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/fB8qvx0HOlI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -215,6 +196,23 @@ Eight years ago, 14 year old May was raped by a group of men. May’s father is 
 
 
 	
+	
+
+### Pokémon: Detective Pikachu
+*Released on 2019-05-03, vote average 10*
+
+In a world where people collect pocket-size monsters (pokemon) to do battle, a boy comes across an intelligent monster who seeks to be a detective.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/1roy4o4tqQM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
@@ -222,7 +220,7 @@ Eight years ago, 14 year old May was raped by a group of men. May’s father is 
 	
 
 ### Extremely Wicked, Shockingly Evil and Vile
-*Released on 2019-05-02, vote average 8*
+*Released on 2019-05-02, vote average 8.7*
 
 A chronicle of the crimes of Ted Bundy, from the perspective of his longtime girlfriend, Elizabeth Kloepfer, who refused to believe the truth about him for years.
 
@@ -261,6 +259,8 @@ A chronicle of the crimes of Ted Bundy, from the perspective of his longtime gir
 
 	
 
+	
+	
 	
 
 	
