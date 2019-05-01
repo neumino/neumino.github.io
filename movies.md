@@ -44,10 +44,22 @@ After the devastating events of Avengers: Infinity War, the universe is in ruins
 
 
 	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
 	
 
 ### Someone Great
-*Released on 2019-04-19, vote average 6.9*
+*Released on 2019-04-19, vote average 6.8*
 
 An aspiring music journalist lands her dream job and is about to move to San Francisco when her boyfriend of nine years decides to call it quits. To nurse her broken heart, she and her two best friends spend one outrageous last adventure in New York City.
 
@@ -93,8 +105,6 @@ Kanchana 3 is an UpcomingTamil horror Revenge film directed by Raghava Lawrence,
 
 
 	
-	
-	
 
   
 
@@ -130,38 +140,18 @@ Kanchana 3 is an UpcomingTamil horror Revenge film directed by Raghava Lawrence,
 
 
 	
-
-  
-
-
 	
 
-  
+### Anthony Jeselnik: Fire in the Maternity Ward
+*Released on 2019-04-30, vote average 8*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Homecoming: A Film by Beyoncé
-*Released on 2019-04-17, vote average 8.5*
-
-This intimate, in-depth look at Beyoncé&#39;s celebrated 2018 Coachella performance reveals the emotional road from creative concept to cultural movement.
+2019 Netflix stand up special from Anthony Jeselnik,
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/fB8qvx0HOlI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/G-QRXw_WzmM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -181,6 +171,18 @@ This intimate, in-depth look at Beyoncé&#39;s celebrated 2018 Coachella perform
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -196,22 +198,9 @@ This intimate, in-depth look at Beyoncé&#39;s celebrated 2018 Coachella perform
 
 
 	
-	
-
-### Pokémon: Detective Pikachu
-*Released on 2019-05-03, vote average 10*
-
-In a world where people collect pocket-size monsters (pokemon) to do battle, a boy comes across an intelligent monster who seeks to be a detective.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/1roy4o4tqQM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
 	
 
 	
@@ -238,6 +227,29 @@ A chronicle of the crimes of Ted Bundy, from the perspective of his longtime gir
 	
 
 	
+	
+
+### The Intruder
+*Released on 2019-05-03, vote average 10*
+
+A psychological thriller about a young married couple who buys a beautiful Napa Valley house on several acres of land only to find that the man they bought it from refuses to let go of the property.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/aKXvex7b1Ew?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+	
+	
 
 	
 
@@ -251,16 +263,6 @@ A chronicle of the crimes of Ted Bundy, from the perspective of his longtime gir
 
 	
 
-	
-
-	
-
-	
-
-	
-
-	
-	
 	
 
 	
