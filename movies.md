@@ -50,13 +50,6 @@ After the devastating events of Avengers: Infinity War, the universe is in ruins
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Someone Great
 *Released on 2019-04-19, vote average 6.8*
@@ -72,6 +65,18 @@ An aspiring music journalist lands her dream job and is about to move to San Fra
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -110,48 +115,40 @@ Kanchana 3 is an UpcomingTamil horror Revenge film directed by Raghava Lawrence,
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### Anthony Jeselnik: Fire in the Maternity Ward
 *Released on 2019-04-30, vote average 8*
 
-2019 Netflix stand up special from Anthony Jeselnik,
+Forging his own comedic boundaries, Anthony Jeselnik revels in getting away with saying things others can&#39;t in this stand-up special shot in New York.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/G-QRXw_WzmM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Extremely Wicked, Shockingly Evil and Vile
+*Released on 2019-05-02, vote average 8.3*
+
+A chronicle of the crimes of Ted Bundy, from the perspective of his longtime girlfriend, Elizabeth Kloepfer, who refused to believe the truth about him for years.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-lW6Z38HHJw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -172,6 +169,8 @@ Kanchana 3 is an UpcomingTamil horror Revenge film directed by Raghava Lawrence,
 
 
 	
+	
+	
 
   
 
@@ -182,7 +181,25 @@ Kanchana 3 is an UpcomingTamil horror Revenge film directed by Raghava Lawrence,
 
 
 	
+
+  
+
+
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -200,16 +217,10 @@ Kanchana 3 is an UpcomingTamil horror Revenge film directed by Raghava Lawrence,
 	
 
 	
-
-	
-
-	
-
-	
 	
 
 ### Extremely Wicked, Shockingly Evil and Vile
-*Released on 2019-05-02, vote average 8.7*
+*Released on 2019-05-02, vote average 8.3*
 
 A chronicle of the crimes of Ted Bundy, from the perspective of his longtime girlfriend, Elizabeth Kloepfer, who refused to believe the truth about him for years.
 
@@ -222,8 +233,6 @@ A chronicle of the crimes of Ted Bundy, from the perspective of his longtime gir
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
@@ -246,9 +255,17 @@ A psychological thriller about a young married couple who buys a beautiful Napa 
 	
 
 	
+	
+	
 
 	
+
 	
+
+	
+
+	
+
 	
 
 	
