@@ -72,75 +72,9 @@ An aspiring music journalist lands her dream job and is about to move to San Fra
 
 	
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Kanchana 3
-*Released on 2019-04-19, vote average 4*
-
-Kanchana 3 is an UpcomingTamil horror Revenge film directed by Raghava Lawrence, starring himself, Oviya and Vedhika in the leading roles.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-16MdQ9Blgk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Anthony Jeselnik: Fire in the Maternity Ward
-*Released on 2019-04-30, vote average 8*
-
-Forging his own comedic boundaries, Anthony Jeselnik revels in getting away with saying things others can&#39;t in this stand-up special shot in New York.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/G-QRXw_WzmM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
 
 ### Extremely Wicked, Shockingly Evil and Vile
-*Released on 2019-05-02, vote average 8.3*
+*Released on 2019-05-02, vote average 8.2*
 
 A chronicle of the crimes of Ted Bundy, from the perspective of his longtime girlfriend, Elizabeth Kloepfer, who refused to believe the truth about him for years.
 
@@ -164,6 +98,23 @@ A chronicle of the crimes of Ted Bundy, from the perspective of his longtime gir
 
 
 	
+	
+
+### Anthony Jeselnik: Fire in the Maternity Ward
+*Released on 2019-04-30, vote average 7.9*
+
+Forging his own comedic boundaries, Anthony Jeselnik revels in getting away with saying things others can&#39;t in this stand-up special shot in New York.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/G-QRXw_WzmM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -175,6 +126,59 @@ A chronicle of the crimes of Ted Bundy, from the perspective of his longtime gir
   
 
 
+	
+	
+
+### The Intruder
+*Released on 2019-05-03, vote average 10*
+
+A psychological thriller about a young married couple who buys a beautiful Napa Valley house on several acres of land only to find that the man they bought it from refuses to let go of the property.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/aKXvex7b1Ew?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -219,25 +223,6 @@ A chronicle of the crimes of Ted Bundy, from the perspective of his longtime gir
 	
 	
 
-### Extremely Wicked, Shockingly Evil and Vile
-*Released on 2019-05-02, vote average 8.3*
-
-A chronicle of the crimes of Ted Bundy, from the perspective of his longtime girlfriend, Elizabeth Kloepfer, who refused to believe the truth about him for years.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-lW6Z38HHJw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
 ### The Intruder
 *Released on 2019-05-03, vote average 10*
 
@@ -256,6 +241,8 @@ A psychological thriller about a young married couple who buys a beautiful Napa 
 
 	
 	
+	
+
 	
 
 	
