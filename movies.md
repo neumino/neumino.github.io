@@ -44,82 +44,21 @@ After the devastating events of Avengers: Infinity War, the universe is in ruins
 
 
 	
-
-  
-
-
-	
 	
 
-### Someone Great
-*Released on 2019-04-19, vote average 6.8*
+### POKÉMON Detective Pikachu
+*Released on 2019-05-03, vote average 6*
 
-An aspiring music journalist lands her dream job and is about to move to San Francisco when her boyfriend of nine years decides to call it quits. To nurse her broken heart, she and her two best friends spend one outrageous last adventure in New York City.
+In a world where people collect pocket-size monsters (pokemon) to do battle, a boy comes across an intelligent monster who seeks to be a detective.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/BBd9gcrj2Wk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/1roy4o4tqQM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
-	
-
-### Extremely Wicked, Shockingly Evil and Vile
-*Released on 2019-05-02, vote average 8.2*
-
-A chronicle of the crimes of Ted Bundy, from the perspective of his longtime girlfriend, Elizabeth Kloepfer, who refused to believe the truth about him for years.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-lW6Z38HHJw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Anthony Jeselnik: Fire in the Maternity Ward
-*Released on 2019-04-30, vote average 7.9*
-
-Forging his own comedic boundaries, Anthony Jeselnik revels in getting away with saying things others can&#39;t in this stand-up special shot in New York.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/G-QRXw_WzmM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -149,6 +88,182 @@ A psychological thriller about a young married couple who buys a beautiful Napa 
 
 
 	
+	
+
+### Extremely Wicked, Shockingly Evil and Vile
+*Released on 2019-05-02, vote average 7.2*
+
+A chronicle of the crimes of Ted Bundy, from the perspective of his longtime girlfriend, Elizabeth Kloepfer, who refused to believe the truth about him for years. A courtroom frenzy ensues and sweeps 1970s America when a young single mother reluctantly tips the attention of a widespread manhunt toward her longtime boyfriend, Ted Bundy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-lW6Z38HHJw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Tell It to the Bees
+*Released on 2019-05-03, vote average 1*
+
+In 1950s small-town Britain, a doctor develops an intimate relationship with her young patient&#39;s mother.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Xim5MhHtbEI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### A Dog&#39;s Journey
+*Released on 2019-05-03, vote average 8*
+
+Bailey is living the good life on the farm of Ethan and Hannah. As Bailey’s soul prepares to leave this life for a new one, he promises Ethan to find CJ and protect her at any cost.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/A2FrrSyyKfA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Anthony Jeselnik: Fire in the Maternity Ward
+*Released on 2019-04-30, vote average 7.9*
+
+Forging his own comedic boundaries, Anthony Jeselnik revels in getting away with saying things others can&#39;t in this stand-up special shot in New York.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/G-QRXw_WzmM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Tolkien
+*Released on 2019-05-03, vote average 8*
+
+Explore the formative years of the orphaned author as he finds friendship, love and artistic inspiration among a group of fellow outcasts at school. This takes him into the outbreak of World War I, which threatens to tear the “fellowship” apart. All of these experiences would inspire Tolkien to write his famous Middle-Earth novels.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Girzu81oS8Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Long Shot
+*Released on 2019-05-02, vote average 7.2*
+
+When Fred Flarsky reunites with his first crush, one of the most influential women in the world, Charlotte Field, he charms her. As she prepares to make a run for the Presidency, Charlotte hires Fred as her speechwriter and sparks fly.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZKsc2I4Tgsk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### UglyDolls
+*Released on 2019-05-01, vote average 8.5*
+
+A story centered around the plush specialty toys.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qjoomsFNgwg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Last Summer
+*Released on 2019-05-03, vote average 6.1*
+
+Standing on the precipice of adulthood, a group of friends navigate new relationships, while reexamining others, during their final summer before college.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Qe9B8kzlFjM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -160,25 +275,6 @@ A psychological thriller about a young married couple who buys a beautiful Napa 
   
 
 
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -221,26 +317,7 @@ A psychological thriller about a young married couple who buys a beautiful Napa 
 	
 
 	
-	
 
-### The Intruder
-*Released on 2019-05-03, vote average 10*
-
-A psychological thriller about a young married couple who buys a beautiful Napa Valley house on several acres of land only to find that the man they bought it from refuses to let go of the property.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/aKXvex7b1Ew?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
 	
 
 	
