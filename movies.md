@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Avengers: Endgame
-*Released on 2019-04-24, vote average 8.7*
+*Released on 2019-04-24, vote average 8.6*
 
 After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos&#39; actions and restore order to the universe once and for all, no matter what consequences may be in store.
 
@@ -47,7 +47,7 @@ After the devastating events of Avengers: Infinity War, the universe is in ruins
 	
 
 ### POKÉMON Detective Pikachu
-*Released on 2019-05-03, vote average 6*
+*Released on 2019-05-03, vote average 6.4*
 
 In a world where people collect pocket-size monsters (pokemon) to do battle, a boy comes across an intelligent monster who seeks to be a detective.
 
@@ -68,32 +68,10 @@ In a world where people collect pocket-size monsters (pokemon) to do battle, a b
 	
 	
 
-### The Intruder
-*Released on 2019-05-03, vote average 10*
-
-A psychological thriller about a young married couple who buys a beautiful Napa Valley house on several acres of land only to find that the man they bought it from refuses to let go of the property.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/aKXvex7b1Ew?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Extremely Wicked, Shockingly Evil and Vile
-*Released on 2019-05-02, vote average 7.2*
+*Released on 2019-05-02, vote average 7.1*
 
-A chronicle of the crimes of Ted Bundy, from the perspective of his longtime girlfriend, Elizabeth Kloepfer, who refused to believe the truth about him for years. A courtroom frenzy ensues and sweeps 1970s America when a young single mother reluctantly tips the attention of a widespread manhunt toward her longtime boyfriend, Ted Bundy.
+A chronicle of the crimes of Ted Bundy, from the perspective of his longtime girlfriend, Elizabeth Kloepfer, who refused to believe the truth about him for years.
 
 <iframe id="player"
 	type="text/html"
@@ -113,7 +91,7 @@ A chronicle of the crimes of Ted Bundy, from the perspective of his longtime gir
 	
 
 ### Tell It to the Bees
-*Released on 2019-05-03, vote average 1*
+*Released on 2019-05-03, vote average 5.7*
 
 In 1950s small-town Britain, a doctor develops an intimate relationship with her young patient&#39;s mother.
 
@@ -134,16 +112,16 @@ In 1950s small-town Britain, a doctor develops an intimate relationship with her
 	
 	
 
-### A Dog&#39;s Journey
-*Released on 2019-05-03, vote average 8*
+### The Intruder
+*Released on 2019-05-03, vote average 7.8*
 
-Bailey is living the good life on the farm of Ethan and Hannah. As Bailey’s soul prepares to leave this life for a new one, he promises Ethan to find CJ and protect her at any cost.
+A psychological thriller about a young married couple who buys a beautiful Napa Valley house on several acres of land only to find that the man they bought it from refuses to let go of the property.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/A2FrrSyyKfA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/aKXvex7b1Ew?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -156,16 +134,38 @@ Bailey is living the good life on the farm of Ethan and Hannah. As Bailey’s so
 	
 	
 
-### Anthony Jeselnik: Fire in the Maternity Ward
-*Released on 2019-04-30, vote average 7.9*
+### Long Shot
+*Released on 2019-05-02, vote average 7.4*
 
-Forging his own comedic boundaries, Anthony Jeselnik revels in getting away with saying things others can&#39;t in this stand-up special shot in New York.
+When Fred Flarsky reunites with his first crush, one of the most influential women in the world, Charlotte Field, he charms her. As she prepares to make a run for the Presidency, Charlotte hires Fred as her speechwriter and sparks fly.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/G-QRXw_WzmM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ZKsc2I4Tgsk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Last Summer
+*Released on 2019-05-03, vote average 6.3*
+
+Standing on the precipice of adulthood, a group of friends navigate new relationships, while reexamining others, during their final summer before college.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Qe9B8kzlFjM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -200,20 +200,30 @@ Explore the formative years of the orphaned author as he finds friendship, love 
 	
 	
 
-### Long Shot
-*Released on 2019-05-02, vote average 7.2*
+### A Dog&#39;s Journey
+*Released on 2019-05-03, vote average 7.3*
 
-When Fred Flarsky reunites with his first crush, one of the most influential women in the world, Charlotte Field, he charms her. As she prepares to make a run for the Presidency, Charlotte hires Fred as her speechwriter and sparks fly.
+Bailey is living the good life on the farm of Ethan and Hannah. As Bailey’s soul prepares to leave this life for a new one, he promises Ethan to find CJ and protect her at any cost.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ZKsc2I4Tgsk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/A2FrrSyyKfA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -240,35 +250,6 @@ A story centered around the plush specialty toys.
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
-	
-
-### The Last Summer
-*Released on 2019-05-03, vote average 6.1*
-
-Standing on the precipice of adulthood, a group of friends navigate new relationships, while reexamining others, during their final summer before college.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Qe9B8kzlFjM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 	
 	
 
