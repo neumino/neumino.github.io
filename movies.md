@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Avengers: Endgame
-*Released on 2019-04-24, vote average 8.6*
+### Extremely Wicked, Shockingly Evil and Vile
+*Released on 2019-05-02, vote average 7*
 
-After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos&#39; actions and restore order to the universe once and for all, no matter what consequences may be in store.
+A chronicle of the crimes of Ted Bundy, from the perspective of his longtime girlfriend, Elizabeth Kloepfer, who refused to believe the truth about him for years.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/hA6hldpSTF8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-lW6Z38HHJw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ After the devastating events of Avengers: Infinity War, the universe is in ruins
 	
 	
 
-### Extremely Wicked, Shockingly Evil and Vile
-*Released on 2019-05-02, vote average 7*
+### POKÉMON Detective Pikachu
+*Released on 2019-05-03, vote average 7.4*
 
-A chronicle of the crimes of Ted Bundy, from the perspective of his longtime girlfriend, Elizabeth Kloepfer, who refused to believe the truth about him for years.
+In a world where people collect pocket-size monsters (pokemon) to do battle, a boy comes across an intelligent monster who seeks to be a detective.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-lW6Z38HHJw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/1roy4o4tqQM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,16 +68,16 @@ A chronicle of the crimes of Ted Bundy, from the perspective of his longtime gir
 	
 	
 
-### POKÉMON Detective Pikachu
-*Released on 2019-05-03, vote average 7.2*
+### Tolkien
+*Released on 2019-05-03, vote average 4.5*
 
-In a world where people collect pocket-size monsters (pokemon) to do battle, a boy comes across an intelligent monster who seeks to be a detective.
+Explore the formative years of the orphaned author as he finds friendship, love and artistic inspiration among a group of fellow outcasts at school. This takes him into the outbreak of World War I, which threatens to tear the “fellowship” apart. All of these experiences would inspire Tolkien to write his famous Middle-Earth novels.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/1roy4o4tqQM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Girzu81oS8Q?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,16 +112,16 @@ Standing on the precipice of adulthood, a group of friends navigate new relation
 	
 	
 
-### Tolkien
-*Released on 2019-05-03, vote average 5.7*
+### The Hustle
+*Released on 2019-05-09, vote average 7*
 
-Explore the formative years of the orphaned author as he finds friendship, love and artistic inspiration among a group of fellow outcasts at school. This takes him into the outbreak of World War I, which threatens to tear the “fellowship” apart. All of these experiences would inspire Tolkien to write his famous Middle-Earth novels.
+Two female scam artists, one low rent and the other high class, compete to swindle a naïve tech prodigy out of his fortune. A remake of the 1988 comedy &#34;Dirty Rotten Scoundrels.&#34;
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Girzu81oS8Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/_j5hwooOHVE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -176,22 +176,37 @@ A psychological thriller about a young married couple who buys a beautiful Napa 
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### Tell It to the Bees
 *Released on 2019-05-03, vote average 4.9*
 
-In 1950s small-town Britain, a doctor develops an intimate relationship with her young patient&#39;s mother.
+Dr. Jean Markham returns to the town she left as a teenager to take over her late father&#39;s medical practice. When a school-yard scuffle lands Charlie in her surgery, she invites him to visit the hives in her garden and tell his secrets to the bees, as she once did. The new friendship between the boy and the bee keeper brings his mother Lydia into Jean&#39;s world.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Xim5MhHtbEI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/X7nhkNAfHtw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -245,55 +260,6 @@ Bailey is living the good life on the farm of Ethan and Hannah. As Bailey’s so
 
 
 	
-	
-
-### UglyDolls
-*Released on 2019-05-01, vote average 7.8*
-
-In the adorably different town of Uglyville, weirdness is celebrated, strangeness is special and beauty is embraced as more than meets the eye. After traveling to the other side of a mountain, Moxy and her UglyDoll friends discover Perfection -- a town where more conventional dolls receive training before entering the real world to find the love of a child.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qjoomsFNgwg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Paris, Wine &amp; Romance
-*Released on 2019-05-04, vote average 7*
-
-Isabella is the ambitious new owner of her family’s Oregon winery whose dream of becoming world-renowned takes a big step forward when she enters a prestigious wine competition in Paris. Upon arrival, Isabella meets her biggest competitor, Jacques, from one of the world’s foremost winemaking families. Impressed by Isabella and her expertise in wine, a budding romance develops between them. However, as the results as the competition are announced, Isabella believes Jacques badmouthed her wine. Hurt, she returns home. When Jacques discovers what upset her, he seeks to win her back, even if it means leaving behind his beloved winery.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/t5eUfn4v9qU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 
   
 
@@ -313,19 +279,22 @@ Isabella is the ambitious new owner of her family’s Oregon winery whose dream 
 
 
 	
-
 	
 
-	
+### The Hustle
+*Released on 2019-05-09, vote average 7*
+
+Two female scam artists, one low rent and the other high class, compete to swindle a naïve tech prodigy out of his fortune. A remake of the 1988 comedy &#34;Dirty Rotten Scoundrels.&#34;
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_j5hwooOHVE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-	
-
-	
-
-	
-
 	
 
 	
@@ -353,6 +322,20 @@ At the risk of her group&#39;s safety, a young woman travels into a National For
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
