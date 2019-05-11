@@ -12,10 +12,10 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### POKÉMON Detective Pikachu
-*Released on 2019-05-03, vote average 7.4*
+### Pokémon Detective Pikachu
+*Released on 2019-05-03, vote average 7.2*
 
-In a world where people collect pocket-size monsters (pokemon) to do battle, a boy comes across an intelligent monster who seeks to be a detective.
+In a world where people collect pocket-size monsters (Pokémon) to do battle, a boy comes across an intelligent monster who seeks to be a detective.
 
 <iframe id="player"
 	type="text/html"
@@ -47,7 +47,7 @@ In a world where people collect pocket-size monsters (pokemon) to do battle, a b
 	
 
 ### Tolkien
-*Released on 2019-05-03, vote average 4.3*
+*Released on 2019-05-03, vote average 4.9*
 
 Explore the formative years of the orphaned author as he finds friendship, love and artistic inspiration among a group of fellow outcasts at school. This takes him into the outbreak of World War I, which threatens to tear the “fellowship” apart. All of these experiences would inspire Tolkien to write his famous Middle-Earth novels.
 
@@ -91,7 +91,7 @@ A chronicle of the crimes of Ted Bundy, from the perspective of his longtime gir
 	
 
 ### The Hustle
-*Released on 2019-05-09, vote average 7.6*
+*Released on 2019-05-09, vote average 6.7*
 
 Two female scam artists, one low rent and the other high class, compete to swindle a naïve tech prodigy out of his fortune. A remake of the 1988 comedy &#34;Dirty Rotten Scoundrels.&#34;
 
@@ -100,6 +100,28 @@ Two female scam artists, one low rent and the other high class, compete to swind
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/_j5hwooOHVE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Long Shot
+*Released on 2019-05-02, vote average 6.9*
+
+When Fred Flarsky reunites with his first crush, one of the most influential women in the world, Charlotte Field, he charms her. As she prepares to make a run for the Presidency, Charlotte hires Fred as her speechwriter and sparks fly.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZKsc2I4Tgsk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,16 +156,38 @@ Standing on the precipice of adulthood, a group of friends navigate new relation
 	
 	
 
-### Long Shot
-*Released on 2019-05-02, vote average 6.8*
+### Poms
+*Released on 2019-05-10, vote average 8.5*
 
-When Fred Flarsky reunites with his first crush, one of the most influential women in the world, Charlotte Field, he charms her. As she prepares to make a run for the Presidency, Charlotte hires Fred as her speechwriter and sparks fly.
+A woman moves into a retirement community and starts a cheerleading squad with her fellow residents.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ZKsc2I4Tgsk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-9PypHxfY_M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Charlie Says
+*Released on 2019-05-10, vote average 4*
+
+Three young women were sentenced to death in the infamous Manson murder case, but when the death penalty was lifted, their sentence became life imprisonment. One young graduate student was sent in to teach them - and through her we witness their transformations as they face the reality of their horrific crimes.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KPSKkxTQFEU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -157,7 +201,7 @@ When Fred Flarsky reunites with his first crush, one of the most influential wom
 	
 
 ### The Intruder
-*Released on 2019-05-03, vote average 8.1*
+*Released on 2019-05-03, vote average 8*
 
 A psychological thriller about a young married couple who buys a beautiful Napa Valley house on several acres of land only to find that the man they bought it from refuses to let go of the property.
 
@@ -176,11 +220,21 @@ A psychological thriller about a young married couple who buys a beautiful Napa 
 
 
 	
-
-  
-
-
 	
+
+### Student of the Year 2
+*Released on 2019-05-10, vote average 3*
+
+Student of the Year 2 is an upcoming Indian film directed by Punit Malhotra. It is a sequel to the 2012 film, Student of the Year.The film stars Tiger Shroff.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QZsthdsh6yk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -254,11 +308,6 @@ At the risk of her group&#39;s safety, a young woman travels into a National For
   
 
 
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -269,7 +318,7 @@ At the risk of her group&#39;s safety, a young woman travels into a National For
 	
 
 ### The Silence
-*Released on 2019-05-16, vote average 6.3*
+*Released on 2019-05-16, vote average 6*
 
 With the world under attack by deadly creatures who hunt by sound, a teen and her family seek refuge outside the city and encounter a mysterious cult.
 
@@ -312,8 +361,6 @@ With the world under attack by deadly creatures who hunt by sound, a teen and he
 
 	
 
-	
-	
 	
 
 	
