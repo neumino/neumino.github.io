@@ -91,7 +91,7 @@ A chronicle of the crimes of Ted Bundy, from the perspective of his longtime gir
 	
 
 ### The Hustle
-*Released on 2019-05-09, vote average 6.7*
+*Released on 2019-05-09, vote average 6.5*
 
 Two female scam artists, one low rent and the other high class, compete to swindle a naïve tech prodigy out of his fortune. A remake of the 1988 comedy &#34;Dirty Rotten Scoundrels.&#34;
 
@@ -134,16 +134,16 @@ When Fred Flarsky reunites with his first crush, one of the most influential wom
 	
 	
 
-### The Last Summer
-*Released on 2019-05-03, vote average 6.1*
+### Student of the Year 2
+*Released on 2019-05-10, vote average 3*
 
-Standing on the precipice of adulthood, a group of friends navigate new relationships, while reexamining others, during their final summer before college.
+A student must overcome bullies and hardships, both academic and romantic, in order to win his college&#39;s coveted Student of the Year trophy.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Qe9B8kzlFjM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/QZsthdsh6yk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -178,6 +178,28 @@ A woman moves into a retirement community and starts a cheerleading squad with h
 	
 	
 
+### The Last Summer
+*Released on 2019-05-03, vote average 6.1*
+
+Standing on the precipice of adulthood, a group of friends navigate new relationships, while reexamining others, during their final summer before college.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Qe9B8kzlFjM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Charlie Says
 *Released on 2019-05-10, vote average 4*
 
@@ -192,6 +214,43 @@ Three young women were sentenced to death in the infamous Manson murder case, bu
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Wine Country
+*Released on 2019-05-08, vote average 7.2*
+
+A group of friends head to the land of oaky Chardonnays and big, bold Cabernet Sauvignons for one member of the squad’s 50th birthday party.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/aW_0MO-XKog?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -220,50 +279,6 @@ A psychological thriller about a young married couple who buys a beautiful Napa 
 
 
 	
-	
-
-### Student of the Year 2
-*Released on 2019-05-10, vote average 3*
-
-Student of the Year 2 is an upcoming Indian film directed by Punit Malhotra. It is a sequel to the 2012 film, Student of the Year.The film stars Tiger Shroff.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/QZsthdsh6yk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Axiom
-*Released on 2019-05-09, vote average 6*
-
-At the risk of her group&#39;s safety, a young woman travels into a National Forest where her sister has become trapped in a multi-dimensional world of monsters.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/5245ZAYnwlw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -279,20 +294,7 @@ At the risk of her group&#39;s safety, a young woman travels into a National For
 
 
 	
-
-  
-
-
 	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -313,12 +315,29 @@ At the risk of her group&#39;s safety, a young woman travels into a National For
 
 
 	
+	
+
+### John Wick: Chapter 3 – Parabellum
+*Released on 2019-05-15, vote average 7.4*
+
+John Wick is on the run for two reasons… he’s being hunted for a global $14 million dollar open contract on his life, and for breaking a central rule: taking a life on Continental Hotel grounds. The victim was a member of the High Table who ordered the open contract. John should have already been executed, except the Continental’s manager, Winston, has given him a one-hour grace period before he’s “Excommunicado” – membership revoked, banned from all services and cut off from other members. John uses the service industry to stay alive as he fights and kills his way out of New York City.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/M7XM597XO94?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 	
 
 ### The Silence
-*Released on 2019-05-16, vote average 6*
+*Released on 2019-05-16, vote average 6.2*
 
 With the world under attack by deadly creatures who hunt by sound, a teen and her family seek refuge outside the city and encounter a mysterious cult.
 
@@ -340,7 +359,22 @@ With the world under attack by deadly creatures who hunt by sound, a teen and he
 	
 
 	
+	
 
+### Backdraft 2
+*Released on 2019-05-14, vote average 8.5*
+
+Fire investigator Sean McCaffrey, son of the late Steven &#34;Bull&#34; McCaffrey, is now working at the same Chicago firehouse along with his uncle Brian. When Sean is assigned to investigate a deadly fire, he and partner Maggie soon realize that they are dealing with something much more than a routine fire. The clues they discover lead them down a treacherous path of arson, murder, and international terrorism. Sean must use his intuition, along with the help of infamous jailed arsonist Ronald Bartel, in a race to find out who is behind the fire and stop them from accomplishing their devious plans.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Rlqs75o9vOk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -361,6 +395,10 @@ With the world under attack by deadly creatures who hunt by sound, a teen and he
 
 	
 
+	
+
+	
+	
 	
 
 	
