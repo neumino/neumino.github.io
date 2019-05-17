@@ -47,7 +47,7 @@ In a world where people collect pocket-size monsters (Pokémon) to do battle, a 
 	
 
 ### Brightburn
-*Released on 2019-05-10, vote average 5.6*
+*Released on 2019-05-10, vote average 5*
 
 A child from another world crash-lands on Earth, but instead of becoming a hero to mankind, he is an evil little boy.
 
@@ -69,9 +69,9 @@ A child from another world crash-lands on Earth, but instead of becoming a hero 
 	
 
 ### John Wick: Chapter 3 – Parabellum
-*Released on 2019-05-15, vote average 7.4*
+*Released on 2019-05-15, vote average 7.3*
 
-John Wick is on the run for two reasons… he’s being hunted for a global $14 million dollar open contract on his life, and for breaking a central rule: taking a life on Continental Hotel grounds. The victim was a member of the High Table who ordered the open contract. John should have already been executed, except the Continental’s manager, Winston, has given him a one-hour grace period before he’s “Excommunicado” – membership revoked, banned from all services and cut off from other members. John uses the service industry to stay alive as he fights and kills his way out of New York City.
+In this third installment of the adrenaline-fueled action franchise, super-assassin John Wick returns with a $14 million price tag on his head and an army of bounty-hunting killers on his trail. After killing a member of the shadowy international assassin’s guild, the High Table, John Wick is excommunicado, but the world’s most ruthless hit men and women await his every turn.
 
 <iframe id="player"
 	type="text/html"
@@ -90,30 +90,8 @@ John Wick is on the run for two reasons… he’s being hunted for a global $14 
 	
 	
 
-### Extremely Wicked, Shockingly Evil and Vile
-*Released on 2019-05-02, vote average 7*
-
-A chronicle of the crimes of Ted Bundy, from the perspective of his longtime girlfriend, Elizabeth Kloepfer, who refused to believe the truth about him for years.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-lW6Z38HHJw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Hustle
-*Released on 2019-05-09, vote average 6.2*
+*Released on 2019-05-09, vote average 6.3*
 
 Two female scam artists, one low rent and the other high class, compete to swindle a naïve tech prodigy out of his fortune. A remake of the 1988 comedy &#34;Dirty Rotten Scoundrels.&#34;
 
@@ -134,30 +112,8 @@ Two female scam artists, one low rent and the other high class, compete to swind
 	
 	
 
-### Wine Country
-*Released on 2019-05-08, vote average 6.2*
-
-A group of friends head to the land of oaky Chardonnays and big, bold Cabernet Sauvignons for one member of the squad’s 50th birthday party.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/aW_0MO-XKog?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Silence
-*Released on 2019-05-16, vote average 5.9*
+*Released on 2019-05-16, vote average 6*
 
 With the world under attack by deadly creatures who hunt by sound, a teen and her family seek refuge outside the city and encounter a mysterious cult.
 
@@ -179,9 +135,9 @@ With the world under attack by deadly creatures who hunt by sound, a teen and he
 	
 
 ### Backdraft 2
-*Released on 2019-05-14, vote average 6.4*
+*Released on 2019-05-14, vote average 6.3*
 
-Fire investigator Sean McCaffrey, son of the late Steven &#34;Bull&#34; McCaffrey, is now working at the same Chicago firehouse along with his uncle Brian. When Sean is assigned to investigate a deadly fire, he and partner Maggie soon realize that they are dealing with something much more than a routine fire. The clues they discover lead them down a treacherous path of arson, murder, and international terrorism. Sean must use his intuition, along with the help of infamous jailed arsonist Ronald Bartel, in a race to find out who is behind the fire and stop them from accomplishing their devious plans.
+Years after the original Backdraft, Sean, son of the late Steve &#34;Bull&#34; McCaffrey, is assigned to investigate a deadly fire only to realize it is something much more sinister.
 
 <iframe id="player"
 	type="text/html"
@@ -200,38 +156,16 @@ Fire investigator Sean McCaffrey, son of the late Steven &#34;Bull&#34; McCaffre
 	
 	
 
-### Tolkien
-*Released on 2019-05-03, vote average 5.4*
+### Wine Country
+*Released on 2019-05-08, vote average 6.1*
 
-Explore the formative years of the orphaned author as he finds friendship, love and artistic inspiration among a group of fellow outcasts at school. This takes him into the outbreak of World War I, which threatens to tear the “fellowship” apart. All of these experiences would inspire Tolkien to write his famous Middle-Earth novels.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Girzu81oS8Q?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Life Like
-*Released on 2019-05-14, vote average 7*
-
-An idealistic attractive young couple acquires a stunning, life-like robot for guilt free help, but as the three grow closer, their perception of humanity will be altered forever.
+A group of friends head to the land of oaky Chardonnays and big, bold Cabernet Sauvignons for one member of the squad’s 50th birthday party.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/LiwFtzuSnkE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/aW_0MO-XKog?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -266,6 +200,50 @@ Batavia City is a metropolitan jewel ... but one increasingly tarnished in the f
 	
 	
 
+### Life Like
+*Released on 2019-05-14, vote average 7*
+
+An idealistic attractive young couple acquires a stunning, life-like robot for guilt free help, but as the three grow closer, their perception of humanity will be altered forever.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LiwFtzuSnkE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Tolkien
+*Released on 2019-05-03, vote average 5.6*
+
+Explore the formative years of the orphaned author as he finds friendship, love and artistic inspiration among a group of fellow outcasts at school. This takes him into the outbreak of World War I, which threatens to tear the “fellowship” apart. All of these experiences would inspire Tolkien to write his famous Middle-Earth novels.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Girzu81oS8Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Last Summer
 *Released on 2019-05-03, vote average 6*
 
@@ -286,18 +264,23 @@ Standing on the precipice of adulthood, a group of friends navigate new relation
 
 
 	
+
+  
+
+
+	
 	
 
-### Long Shot
-*Released on 2019-05-02, vote average 6.9*
+### The Sun Is Also a Star
+*Released on 2019-05-16, vote average 8*
 
-When Fred Flarsky reunites with his first crush, one of the most influential women in the world, Charlotte Field, he charms her. As she prepares to make a run for the Presidency, Charlotte hires Fred as her speechwriter and sparks fly.
+With just hours left on the clock, Jamaica-born pragmatist Natasha Kingsley is fighting against her family’s deportation and unexpectedly meets—and fall for—Daniel Bae.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ZKsc2I4Tgsk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/3On0BXzGnuI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -312,23 +295,6 @@ When Fred Flarsky reunites with his first crush, one of the most influential wom
   
 
 
-	
-	
-
-### The Intruder
-*Released on 2019-05-03, vote average 7.8*
-
-A psychological thriller about a young married couple who buys a beautiful Napa Valley house on several acres of land only to find that the man they bought it from refuses to let go of the property.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/aKXvex7b1Ew?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -358,11 +324,28 @@ Football star Charlie has the world at her feet. With a top club desperate to si
 
 	
 	
+
+### The Intruder
+*Released on 2019-05-03, vote average 7.8*
+
+A psychological thriller about a young married couple who buys a beautiful Napa Valley house on several acres of land only to find that the man they bought it from refuses to let go of the property.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/aKXvex7b1Ew?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
 
 
+	
+	
 	
 
   
@@ -384,23 +367,6 @@ Football star Charlie has the world at her feet. With a top club desperate to si
 
 	
 
-	
-	
-
-### The Silence
-*Released on 2019-05-16, vote average 5.9*
-
-With the world under attack by deadly creatures who hunt by sound, a teen and her family seek refuge outside the city and encounter a mysterious cult.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Y-ufZuqTd5c?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
