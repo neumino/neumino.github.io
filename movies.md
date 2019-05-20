@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### John Wick: Chapter 3 – Parabellum
-*Released on 2019-05-15, vote average 7.7*
+*Released on 2019-05-15, vote average 7.6*
 
 In this third installment of the adrenaline-fueled action franchise, super-assassin John Wick returns with a $14 million price tag on his head and an army of bounty-hunting killers on his trail. After killing a member of the shadowy international assassin’s guild, the High Table, John Wick is excommunicado, but the world’s most ruthless hit men and women await his every turn.
 
@@ -46,28 +46,6 @@ In this third installment of the adrenaline-fueled action franchise, super-assas
 	
 	
 
-### Brightburn
-*Released on 2019-05-10, vote average 5*
-
-A child from another world crash-lands on Earth, but instead of becoming a hero to mankind, he is an evil little boy.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/g6eB0JT1DI4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Hustle
 *Released on 2019-05-09, vote average 6.1*
 
@@ -90,16 +68,43 @@ Two female scam artists, one low rent and the other high class, compete to swind
 	
 	
 
-### The Silence
-*Released on 2019-05-16, vote average 5.9*
+### Brightburn
+*Released on 2019-05-10, vote average 5.1*
 
-With the world under attack by deadly creatures who hunt by sound, a teen and her family seek refuge outside the city and encounter a mysterious cult.
+A child from another world crash-lands on Earth, but instead of becoming a hero to mankind, he is an evil little boy.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Y-ufZuqTd5c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/g6eB0JT1DI4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### We Have Always Lived in the Castle
+*Released on 2019-05-17, vote average 6.2*
+
+An isolated family, having already lost four members to poisoning, uses rituals and talismans to keep itself away from hostile townspeople.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/NQg-nUoMCBo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,16 +117,16 @@ With the world under attack by deadly creatures who hunt by sound, a teen and he
 	
 	
 
-### Backdraft 2
-*Released on 2019-05-14, vote average 6.3*
+### The Professor
+*Released on 2019-05-17, vote average 7.3*
 
-Years after the original Backdraft, Sean, son of the late Steve &#34;Bull&#34; McCaffrey, is assigned to investigate a deadly fire only to realize it is something much more sinister.
+Richard, a world-weary college professor is given a life-changing diagnosis and decides to throw all pretense and conventions to the wind and live his life as boldly and freely as possible with a biting sense of humor, a reckless streak, and a touch of madness.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Rlqs75o9vOk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ev8MxilXgj0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -156,16 +161,60 @@ A group of friends head to the land of oaky Chardonnays and big, bold Cabernet S
 	
 	
 
-### Valentine: The Dark Avenger
-*Released on 2019-05-14, vote average 9*
+### Backdraft 2
+*Released on 2019-05-14, vote average 5.7*
 
-Batavia City is a metropolitan jewel ... but one increasingly tarnished in the face of rising crime. Amidst the chaotic onslaught of robbery and violence, Srimaya, a waitress at a café, dreams of a glamorous life as an actress. A chance meeting with a film director and his assistant leads to a life-changing series of events for Srimaya, as they take her on a thrilling adventure that finds the waitress-turned-actress transforming into the person Batavia City needs and deserves most: the consummate kick-ass superhero! Taking to the streets as &#34;Valentine,&#34; she becomes a role model to the people of Batavia, and a foil to the city&#39;s lowlifes and ne&#39;er-do-wells. But when a sinister masked villain emerges from the shadows of the night, Srimaya realizes that all of her vigilante exploits were a mere dress rehearsal for the ultimate showdown!
+Years after the original Backdraft, Sean, son of the late Steve &#34;Bull&#34; McCaffrey, is assigned to investigate a deadly fire only to realize it is something much more sinister.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/NN-YpwcdNIQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Rlqs75o9vOk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Silence
+*Released on 2019-05-16, vote average 5.9*
+
+With the world under attack by deadly creatures who hunt by sound, a teen and her family seek refuge outside the city and encounter a mysterious cult.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Y-ufZuqTd5c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### All Creatures Here Below
+*Released on 2019-05-17, vote average 6*
+
+The story of a desperate young couple on the run, who seek refuge in Kansas City.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fjWcwW9u4f8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -182,9 +231,21 @@ Batavia City is a metropolitan jewel ... but one increasingly tarnished in the f
 
 	
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 
 ### The Sun Is Also a Star
-*Released on 2019-05-16, vote average 6*
+*Released on 2019-05-16, vote average 6.2*
 
 With just hours left on the clock, Jamaica-born pragmatist Natasha Kingsley is fighting against her family’s deportation and unexpectedly meets—and fall for—Daniel Bae.
 
@@ -208,74 +269,34 @@ With just hours left on the clock, Jamaica-born pragmatist Natasha Kingsley is f
 
 
 	
+
+  
+
+
+	
+	
 	
 
-### The Professor
-*Released on 2019-05-17, vote average 7.5*
+  
 
-Richard, a world-weary college professor is given a life-changing diagnosis and decides to throw all pretense and conventions to the wind and live his life as boldly and freely as possible with a biting sense of humor, a reckless streak, and a touch of madness.
+
+	
+	
+
+### Zoo-Head
+*Released on 2019-05-20, vote average 2*
+
+An addict is trapped to live the same day over and over again when he is placed onto an experimental rehabilitation program that involves memory-looping.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ev8MxilXgj0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/FOucyzXVi3c?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Life Like
-*Released on 2019-05-14, vote average 7*
-
-An idealistic attractive young couple acquires a stunning, life-like robot for guilt free help, but as the three grow closer, their perception of humanity will be altered forever.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LiwFtzuSnkE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -295,6 +316,23 @@ An idealistic attractive young couple acquires a stunning, life-like robot for g
 ## Opening soon
 
 
+	
+	
+
+### Aladdin
+*Released on 2019-05-22, vote average 4.9*
+
+A live-action retelling of the 1992 Disney film of the same name.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/9g5knnlF7Zo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -318,6 +356,23 @@ The story of Elton John&#39;s life, from his years as a prodigy at the Royal Aca
 	
 	
 
+	
+	
+
+### Zoo-Head
+*Released on 2019-05-20, vote average 2*
+
+An addict is trapped to live the same day over and over again when he is placed onto an experimental rehabilitation program that involves memory-looping.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FOucyzXVi3c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
