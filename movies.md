@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### John Wick: Chapter 3 – Parabellum
-*Released on 2019-05-15, vote average 7.6*
+*Released on 2019-05-15, vote average 7.4*
 
 In this third installment of the adrenaline-fueled action franchise, super-assassin John Wick returns with a $14 million price tag on his head and an army of bounty-hunting killers on his trail. After killing a member of the shadowy international assassin’s guild, the High Table, John Wick is excommunicado, but the world’s most ruthless hit men and women await his every turn.
 
@@ -69,7 +69,7 @@ Two female scam artists, one low rent and the other high class, compete to swind
 	
 
 ### Brightburn
-*Released on 2019-05-10, vote average 5.1*
+*Released on 2019-05-10, vote average 5.3*
 
 A child from another world crash-lands on Earth, but instead of becoming a hero to mankind, he is an evil little boy.
 
@@ -87,28 +87,6 @@ A child from another world crash-lands on Earth, but instead of becoming a hero 
   
 
 
-	
-
-  
-
-
-	
-	
-
-### We Have Always Lived in the Castle
-*Released on 2019-05-17, vote average 6.2*
-
-An isolated family, having already lost four members to poisoning, uses rituals and talismans to keep itself away from hostile townspeople.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/NQg-nUoMCBo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -139,8 +117,30 @@ Richard, a world-weary college professor is given a life-changing diagnosis and 
 	
 	
 
+### We Have Always Lived in the Castle
+*Released on 2019-05-17, vote average 5.3*
+
+An isolated family, having already lost four members to poisoning, uses rituals and talismans to keep itself away from hostile townspeople.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/NQg-nUoMCBo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Wine Country
-*Released on 2019-05-08, vote average 6*
+*Released on 2019-05-08, vote average 5.9*
 
 A group of friends head to the land of oaky Chardonnays and big, bold Cabernet Sauvignons for one member of the squad’s 50th birthday party.
 
@@ -161,8 +161,30 @@ A group of friends head to the land of oaky Chardonnays and big, bold Cabernet S
 	
 	
 
+### The Silence
+*Released on 2019-05-16, vote average 6*
+
+With the world under attack by deadly creatures who hunt by sound, a teen and her family seek refuge outside the city and encounter a mysterious cult.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Y-ufZuqTd5c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Backdraft 2
-*Released on 2019-05-14, vote average 5.7*
+*Released on 2019-05-14, vote average 5.8*
 
 Years after the original Backdraft, Sean, son of the late Steve &#34;Bull&#34; McCaffrey, is assigned to investigate a deadly fire only to realize it is something much more sinister.
 
@@ -183,20 +205,91 @@ Years after the original Backdraft, Sean, son of the late Steve &#34;Bull&#34; M
 	
 	
 
-### The Silence
-*Released on 2019-05-16, vote average 5.9*
+### Sailing Into Love
+*Released on 2019-05-18, vote average 8*
 
-With the world under attack by deadly creatures who hunt by sound, a teen and her family seek refuge outside the city and encounter a mysterious cult.
+A biology teacher’s crusade to save a nearby island from development leads to unexpected romance with the handsome and mysterious young sea captain who is new to the seaside town of Willow Bay.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Y-ufZuqTd5c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/_5yGydSXf8A?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Zoo-Head
+*Released on 2019-05-20, vote average 2*
+
+An addict is trapped to live the same day over and over again when he is placed onto an experimental rehabilitation program that involves memory-looping.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FOucyzXVi3c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Sun Is Also a Star
+*Released on 2019-05-16, vote average 6.3*
+
+With just hours left on the clock, Jamaica-born pragmatist Natasha Kingsley is fighting against her family’s deportation and unexpectedly meets—and fall for—Daniel Bae.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3On0BXzGnuI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -230,84 +323,6 @@ The story of a desperate young couple on the run, who seek refuge in Kansas City
 
 
 	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Sun Is Also a Star
-*Released on 2019-05-16, vote average 6.2*
-
-With just hours left on the clock, Jamaica-born pragmatist Natasha Kingsley is fighting against her family’s deportation and unexpectedly meets—and fall for—Daniel Bae.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3On0BXzGnuI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Zoo-Head
-*Released on 2019-05-20, vote average 2*
-
-An addict is trapped to live the same day over and over again when he is placed onto an experimental rehabilitation program that involves memory-looping.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FOucyzXVi3c?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 
   
 
@@ -320,7 +335,7 @@ An addict is trapped to live the same day over and over again when he is placed 
 	
 
 ### Aladdin
-*Released on 2019-05-22, vote average 4.9*
+*Released on 2019-05-22, vote average 4.6*
 
 A live-action retelling of the 1992 Disney film of the same name.
 
@@ -333,8 +348,6 @@ A live-action retelling of the 1992 Disney film of the same name.
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
@@ -357,22 +370,7 @@ The story of Elton John&#39;s life, from his years as a prodigy at the Royal Aca
 	
 
 	
-	
 
-### Zoo-Head
-*Released on 2019-05-20, vote average 2*
-
-An addict is trapped to live the same day over and over again when he is placed onto an experimental rehabilitation program that involves memory-looping.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FOucyzXVi3c?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
