@@ -51,16 +51,16 @@ Super-assassin John Wick returns with a $14 million price tag on his head and an
 	
 	
 
-### The Hustle
-*Released on 2019-05-09, vote average 6.1*
+### Aladdin
+*Released on 2019-05-22, vote average 5.6*
 
-Two female scam artists, one low rent and the other high class, compete to swindle a naïve tech prodigy out of his fortune. A remake of the 1988 comedy &#34;Dirty Rotten Scoundrels.&#34;
+Young Aladdin embarks on a magical adventure after finding a lamp that releases a wisecracking genie.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/_j5hwooOHVE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/9g5knnlF7Zo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -74,7 +74,7 @@ Two female scam artists, one low rent and the other high class, compete to swind
 	
 
 ### Brightburn
-*Released on 2019-05-10, vote average 5.2*
+*Released on 2019-05-10, vote average 5.3*
 
 A child from another world crash-lands on Earth, but instead of becoming a hero to mankind, he is an evil little boy.
 
@@ -95,82 +95,16 @@ A child from another world crash-lands on Earth, but instead of becoming a hero 
 	
 	
 
-### Aladdin
-*Released on 2019-05-22, vote average 4.9*
+### The Hustle
+*Released on 2019-05-09, vote average 6.2*
 
-A live-action retelling of the 1992 Disney film of the same name.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/9g5knnlF7Zo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Professor
-*Released on 2019-05-17, vote average 7.3*
-
-Richard, a world-weary college professor is given a life-changing diagnosis and decides to throw all pretense and conventions to the wind and live his life as boldly and freely as possible with a biting sense of humor, a reckless streak, and a touch of madness.
+Two female scam artists, one low rent and the other high class, compete to swindle a naïve tech prodigy out of his fortune. A remake of the 1988 comedy &#34;Dirty Rotten Scoundrels.&#34;
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ev8MxilXgj0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### We Have Always Lived in the Castle
-*Released on 2019-05-17, vote average 5.3*
-
-An isolated family, having already lost four members to poisoning, uses rituals and talismans to keep itself away from hostile townspeople.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/NQg-nUoMCBo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Silence
-*Released on 2019-05-16, vote average 6*
-
-With the world under attack by deadly creatures who hunt by sound, a teen and her family seek refuge outside the city and encounter a mysterious cult.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Y-ufZuqTd5c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/_j5hwooOHVE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -184,7 +118,7 @@ With the world under attack by deadly creatures who hunt by sound, a teen and he
 	
 
 ### Rocketman
-*Released on 2019-05-22, vote average 2.3*
+*Released on 2019-05-22, vote average 5.7*
 
 The story of Elton John&#39;s life, from his years as a prodigy at the Royal Academy of Music through his influential and enduring musical partnership with Bernie Taupin.
 
@@ -205,16 +139,16 @@ The story of Elton John&#39;s life, from his years as a prodigy at the Royal Aca
 	
 	
 
-### Wine Country
-*Released on 2019-05-08, vote average 5.8*
+### The Professor
+*Released on 2019-05-17, vote average 7*
 
-A group of friends head to the land of oaky Chardonnays and big, bold Cabernet Sauvignons for one member of the squad’s 50th birthday party.
+Richard, a world-weary college professor is given a life-changing diagnosis and decides to throw all pretense and conventions to the wind and live his life as boldly and freely as possible with a biting sense of humor, a reckless streak, and a touch of madness.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/aW_0MO-XKog?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ev8MxilXgj0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -227,20 +161,52 @@ A group of friends head to the land of oaky Chardonnays and big, bold Cabernet S
 	
 	
 
-### Zoo-Head
-*Released on 2019-05-20, vote average 2*
+### The Silence
+*Released on 2019-05-16, vote average 5.9*
 
-An addict is trapped to live the same day over and over again when he is placed onto an experimental rehabilitation program that involves memory-looping.
+With the world under attack by deadly creatures who hunt by sound, a teen and her family seek refuge outside the city and encounter a mysterious cult.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/FOucyzXVi3c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Y-ufZuqTd5c?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### We Have Always Lived in the Castle
+*Released on 2019-05-17, vote average 5.1*
+
+An isolated family, having already lost four members to poisoning, uses rituals and talismans to keep itself away from hostile townspeople.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/NQg-nUoMCBo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -268,8 +234,6 @@ Years after the original Backdraft, Sean, son of the late Steve &#34;Bull&#34; M
   
 
 
-	
-	
 	
 
   
@@ -315,44 +279,6 @@ Years after the original Backdraft, Sean, son of the late Steve &#34;Bull&#34; M
 
 
 	
-	
-
-### Aladdin
-*Released on 2019-05-22, vote average 4.9*
-
-A live-action retelling of the 1992 Disney film of the same name.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/9g5knnlF7Zo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Rocketman
-*Released on 2019-05-22, vote average 2.3*
-
-The story of Elton John&#39;s life, from his years as a prodigy at the Royal Academy of Music through his influential and enduring musical partnership with Bernie Taupin.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/mpOGT3GTO84?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
 
 	
 	
@@ -371,6 +297,10 @@ The further adventures of Max the dog and his furry animal friends.
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
 	
 
 	
