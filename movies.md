@@ -44,17 +44,12 @@ Super-assassin John Wick returns with a $14 million price tag on his head and an
 
 
 	
-
-  
-
-
-	
 	
 
 ### Aladdin
-*Released on 2019-05-22, vote average 5.6*
+*Released on 2019-05-22, vote average 6.5*
 
-Young Aladdin embarks on a magical adventure after finding a lamp that releases a wisecracking genie.
+A kindhearted street urchin named Aladdin embarks on a magical adventure after finding a lamp that releases a wisecracking genie while a power-hungry Grand Vizier vies for the same lamp that has the power to make their deepest wishes come true.
 
 <iframe id="player"
 	type="text/html"
@@ -71,10 +66,15 @@ Young Aladdin embarks on a magical adventure after finding a lamp that releases 
 
 
 	
+
+  
+
+
+	
 	
 
 ### Brightburn
-*Released on 2019-05-10, vote average 5.3*
+*Released on 2019-05-10, vote average 5.4*
 
 A child from another world crash-lands on Earth, but instead of becoming a hero to mankind, he is an evil little boy.
 
@@ -83,28 +83,6 @@ A child from another world crash-lands on Earth, but instead of becoming a hero 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/g6eB0JT1DI4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Hustle
-*Released on 2019-05-09, vote average 6.2*
-
-Two female scam artists, one low rent and the other high class, compete to swindle a naïve tech prodigy out of his fortune. A remake of the 1988 comedy &#34;Dirty Rotten Scoundrels.&#34;
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/_j5hwooOHVE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -140,7 +118,7 @@ The story of Elton John&#39;s life, from his years as a prodigy at the Royal Aca
 	
 
 ### The Professor
-*Released on 2019-05-17, vote average 7*
+*Released on 2019-05-17, vote average 6.7*
 
 Richard, a world-weary college professor is given a life-changing diagnosis and decides to throw all pretense and conventions to the wind and live his life as boldly and freely as possible with a biting sense of humor, a reckless streak, and a touch of madness.
 
@@ -149,6 +127,50 @@ Richard, a world-weary college professor is given a life-changing diagnosis and 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/ev8MxilXgj0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Secret Life of Pets 2
+*Released on 2019-05-24, vote average 8*
+
+The further adventures of Max the dog and his furry animal friends.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pKLGUuJftl0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### We Have Always Lived in the Castle
+*Released on 2019-05-17, vote average 5.3*
+
+An isolated family, having already lost four members to poisoning, uses rituals and talismans to keep itself away from hostile townspeople.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/NQg-nUoMCBo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -181,69 +203,47 @@ With the world under attack by deadly creatures who hunt by sound, a teen and he
 
 
 	
+
+  
+
+
 	
 
-### We Have Always Lived in the Castle
-*Released on 2019-05-17, vote average 5.1*
+  
 
-An isolated family, having already lost four members to poisoning, uses rituals and talismans to keep itself away from hostile townspeople.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Young Ahmed
+*Released on 2019-05-22, vote average 8.5*
+
+A Belgian teenager hatches a plot to kill his teacher after embracing an extremist interpretation of the Quran.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/NQg-nUoMCBo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/pM1ZR-LhiAg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Backdraft 2
-*Released on 2019-05-14, vote average 5.8*
-
-Years after the original Backdraft, Sean, son of the late Steve &#34;Bull&#34; McCaffrey, is assigned to investigate a deadly fire only to realize it is something much more sinister.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Rlqs75o9vOk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -279,8 +279,6 @@ Years after the original Backdraft, Sean, son of the late Steve &#34;Bull&#34; M
 
 
 	
-
-	
 	
 
 ### The Secret Life of Pets 2
@@ -297,6 +295,8 @@ The further adventures of Max the dog and his furry animal friends.
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
