@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### John Wick: Chapter 3 – Parabellum
-*Released on 2019-05-15, vote average 7.4*
+### Aladdin
+*Released on 2019-05-22, vote average 7.2*
 
-Super-assassin John Wick returns with a $14 million price tag on his head and an army of bounty-hunting killers on his trail. After killing a member of the shadowy international assassin’s guild, the High Table, John Wick is excommunicado, but the world’s most ruthless hit men and women await his every turn.
+A kindhearted street urchin named Aladdin embarks on a magical adventure after finding a lamp that releases a wisecracking genie while a power-hungry Grand Vizier vies for the same lamp that has the power to make their deepest wishes come true.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/M7XM597XO94?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/9g5knnlF7Zo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ Super-assassin John Wick returns with a $14 million price tag on his head and an
 	
 	
 
-### Aladdin
-*Released on 2019-05-22, vote average 7.3*
+### John Wick: Chapter 3 – Parabellum
+*Released on 2019-05-15, vote average 7.4*
 
-A kindhearted street urchin named Aladdin embarks on a magical adventure after finding a lamp that releases a wisecracking genie while a power-hungry Grand Vizier vies for the same lamp that has the power to make their deepest wishes come true.
+Super-assassin John Wick returns with a $14 million price tag on his head and an army of bounty-hunting killers on his trail. After killing a member of the shadowy international assassin’s guild, the High Table, John Wick is excommunicado, but the world’s most ruthless hit men and women await his every turn.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/9g5knnlF7Zo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/M7XM597XO94?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -78,6 +78,28 @@ Two academic teenage superstars realize, on the eve of their high school graduat
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/tX2MvB0kyA0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Rim of the World
+*Released on 2019-05-24, vote average 6*
+
+Stranded at a summer camp when aliens attack the planet, four teens with nothing in common embark on a perilous mission to save the world.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xkvBpKHL99k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -142,7 +164,7 @@ While on a prison furlough, a lowly criminal evades his guards and returns to hi
 	
 
 ### The Secret Life of Pets 2
-*Released on 2019-05-24, vote average 5.4*
+*Released on 2019-05-24, vote average 5.7*
 
 The further adventures of Max the dog and his furry animal friends.
 
@@ -163,16 +185,16 @@ The further adventures of Max the dog and his furry animal friends.
 	
 	
 
-### Rim of the World
-*Released on 2019-05-24, vote average 6*
+### Rocketman
+*Released on 2019-05-22, vote average 7.7*
 
-Stranded at a summer camp when aliens attack the planet, four teens with nothing in common embark on a perilous mission to save the world.
+The story of Elton John&#39;s life, from his years as a prodigy at the Royal Academy of Music through his influential and enduring musical partnership with Bernie Taupin.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xkvBpKHL99k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/mpOGT3GTO84?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -195,28 +217,6 @@ Two teenagers build time machines to save one&#39;s brother from being killed by
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/8MVRWQ1PnMo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Rocketman
-*Released on 2019-05-22, vote average 7.6*
-
-The story of Elton John&#39;s life, from his years as a prodigy at the Royal Academy of Music through his influential and enduring musical partnership with Bernie Taupin.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/mpOGT3GTO84?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -308,10 +308,22 @@ An isolated family, having already lost four members to poisoning, uses rituals 
 
 
 	
+	
 
-  
+### Good Sam
+*Released on 2019-05-16, vote average 6.4*
 
+A news reporter looks into who has been anonymously leaving large cash gifts on random doorsteps in New York.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/7KZIFgBX5jo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -322,6 +334,13 @@ An isolated family, having already lost four members to poisoning, uses rituals 
   
 
 
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -354,7 +373,7 @@ The new story follows the heroic efforts of the crypto-zoological agency Monarch
 	
 
 ### Ma
-*Released on 2019-05-29, vote average 6*
+*Released on 2019-05-29, vote average 6.5*
 
 Sue Ann is a loner who keeps to herself in her quiet Ohio town. One day, she is asked by Maggie, a new teenager in town, to buy some booze for her and her friends, and Sue Ann sees the chance to make some unsuspecting, if younger, friends of her own.  She offers the kids the chance to avoid drinking and driving by hanging out in the basement of her home. But there are some house rules: One of the kids has to stay sober. Don’t curse. Never go upstairs. And call her “Ma.”  But as Ma’s hospitality starts to curdle into obsession, what began as a teenage dream turns into a terrorizing nightmare, and Ma’s place goes from the best place in town to the worst place on earth.
 
@@ -367,10 +386,6 @@ Sue Ann is a loner who keeps to herself in her quiet Ohio town. One day, she is 
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
 	
 
 	
@@ -392,6 +407,10 @@ All unemployed, Ki-taek&#39;s family takes peculiar interest in the wealthy and 
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
 	
 
 	
