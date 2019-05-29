@@ -47,7 +47,7 @@ A kindhearted street urchin named Aladdin embarks on a magical adventure after f
 	
 
 ### John Wick: Chapter 3 – Parabellum
-*Released on 2019-05-15, vote average 7.4*
+*Released on 2019-05-15, vote average 7.3*
 
 Super-assassin John Wick returns with a $14 million price tag on his head and an army of bounty-hunting killers on his trail. After killing a member of the shadowy international assassin’s guild, the High Table, John Wick is excommunicado, but the world’s most ruthless hit men and women await his every turn.
 
@@ -56,28 +56,6 @@ Super-assassin John Wick returns with a $14 million price tag on his head and an
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/M7XM597XO94?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Booksmart
-*Released on 2019-05-24, vote average 6.5*
-
-Two academic teenage superstars realize, on the eve of their high school graduation, that they should have worked less and played more. Determined to never fall short of their peers, the girls set out on a mission to cram four years of fun into one night.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tX2MvB0kyA0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -111,6 +89,43 @@ Stranded at a summer camp when aliens attack the planet, four teens with nothing
 
 	
 	
+
+### Godzilla: King of the Monsters
+*Released on 2019-05-29, vote average 5.2*
+
+The new story follows the heroic efforts of the crypto-zoological agency Monarch as its members face off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah. When these ancient super-species—thought to be mere myths—rise again, they all vie for supremacy, leaving humanity’s very existence hanging in the balance.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wVDtmouV9kM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Booksmart
+*Released on 2019-05-24, vote average 6.4*
+
+Two academic teenage superstars realize, on the eve of their high school graduation, that they should have worked less and played more. Determined to never fall short of their peers, the girls set out on a mission to cram four years of fun into one night.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/tX2MvB0kyA0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -120,7 +135,7 @@ Stranded at a summer camp when aliens attack the planet, four teens with nothing
 	
 
 ### The Poison Rose
-*Released on 2019-05-23, vote average 7.7*
+*Released on 2019-05-23, vote average 5*
 
 A down-on-his-luck PI is hired by his old flame to investigate a murder. But while the case at first appears routine, it slowly reveals itself to be a complex interwoven web of crimes, suspects, and dead bodies.
 
@@ -141,8 +156,30 @@ A down-on-his-luck PI is hired by his old flame to investigate a murder. But whi
 	
 	
 
+### Ma
+*Released on 2019-05-29, vote average 6.5*
+
+Sue Ann is a loner who keeps to herself in her quiet Ohio town. One day, she is asked by Maggie, a new teenager in town, to buy some booze for her and her friends, and Sue Ann sees the chance to make some unsuspecting, if younger, friends of her own.  She offers the kids the chance to avoid drinking and driving by hanging out in the basement of her home. But there are some house rules: One of the kids has to stay sober. Don’t curse. Never go upstairs. And call her “Ma.”  But as Ma’s hospitality starts to curdle into obsession, what began as a teenage dream turns into a terrorizing nightmare, and Ma’s place goes from the best place in town to the worst place on earth.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/eIvbEC8N3cA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Avengement
-*Released on 2019-05-24, vote average 6.3*
+*Released on 2019-05-24, vote average 6.4*
 
 While on a prison furlough, a lowly criminal evades his guards and returns to his old stomping ground to take revenge on the people who turned him into a cold blooded killer.
 
@@ -162,9 +199,16 @@ While on a prison furlough, a lowly criminal evades his guards and returns to hi
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### The Secret Life of Pets 2
-*Released on 2019-05-24, vote average 5.7*
+*Released on 2019-05-24, vote average 6*
 
 The further adventures of Max the dog and his furry animal friends.
 
@@ -186,7 +230,7 @@ The further adventures of Max the dog and his furry animal friends.
 	
 
 ### Rocketman
-*Released on 2019-05-22, vote average 7.7*
+*Released on 2019-05-22, vote average 7.3*
 
 The story of Elton John&#39;s life, from his years as a prodigy at the Royal Academy of Music through his influential and enduring musical partnership with Bernie Taupin.
 
@@ -195,28 +239,6 @@ The story of Elton John&#39;s life, from his years as a prodigy at the Royal Aca
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/mpOGT3GTO84?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### See You Yesterday
-*Released on 2019-05-17, vote average 5.5*
-
-Two teenagers build time machines to save one&#39;s brother from being killed by the police.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8MVRWQ1PnMo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -252,7 +274,7 @@ With the world under attack by deadly creatures who hunt by sound, a teen and he
 	
 
 ### The Professor
-*Released on 2019-05-17, vote average 6.8*
+*Released on 2019-05-17, vote average 6.7*
 
 Richard, a world-weary college professor is given a life-changing diagnosis and decides to throw all pretense and conventions to the wind and live his life as boldly and freely as possible with a biting sense of humor, a reckless streak, and a touch of madness.
 
@@ -265,6 +287,33 @@ Richard, a world-weary college professor is given a life-changing diagnosis and 
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### See You Yesterday
+*Released on 2019-05-17, vote average 5.5*
+
+Two teenagers build time machines to save one&#39;s brother from being killed by the police.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8MVRWQ1PnMo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -308,40 +357,6 @@ An isolated family, having already lost four members to poisoning, uses rituals 
 
 
 	
-	
-
-### Good Sam
-*Released on 2019-05-16, vote average 6.4*
-
-A news reporter looks into who has been anonymously leaving large cash gifts on random doorsteps in New York.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/7KZIFgBX5jo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
 
   
 
@@ -354,7 +369,7 @@ A news reporter looks into who has been anonymously leaving large cash gifts on 
 	
 
 ### Godzilla: King of the Monsters
-*Released on 2019-05-29, vote average 4.8*
+*Released on 2019-05-29, vote average 5.2*
 
 The new story follows the heroic efforts of the crypto-zoological agency Monarch as its members face off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah. When these ancient super-species—thought to be mere myths—rise again, they all vie for supremacy, leaving humanity’s very existence hanging in the balance.
 
