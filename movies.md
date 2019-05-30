@@ -46,52 +46,8 @@ A kindhearted street urchin named Aladdin embarks on a magical adventure after f
 	
 	
 
-### John Wick: Chapter 3 – Parabellum
-*Released on 2019-05-15, vote average 7.3*
-
-Super-assassin John Wick returns with a $14 million price tag on his head and an army of bounty-hunting killers on his trail. After killing a member of the shadowy international assassin’s guild, the High Table, John Wick is excommunicado, but the world’s most ruthless hit men and women await his every turn.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/M7XM597XO94?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Rim of the World
-*Released on 2019-05-24, vote average 6*
-
-Stranded at a summer camp when aliens attack the planet, four teens with nothing in common embark on a perilous mission to save the world.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xkvBpKHL99k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Godzilla: King of the Monsters
-*Released on 2019-05-29, vote average 5.2*
+*Released on 2019-05-29, vote average 6.2*
 
 The new story follows the heroic efforts of the crypto-zoological agency Monarch as its members face off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah. When these ancient super-species—thought to be mere myths—rise again, they all vie for supremacy, leaving humanity’s very existence hanging in the balance.
 
@@ -112,8 +68,30 @@ The new story follows the heroic efforts of the crypto-zoological agency Monarch
 	
 	
 
+### Rim of the World
+*Released on 2019-05-24, vote average 5.9*
+
+Stranded at a summer camp when aliens attack the planet, four teens with nothing in common embark on a perilous mission to save the world.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xkvBpKHL99k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Booksmart
-*Released on 2019-05-24, vote average 6.4*
+*Released on 2019-05-24, vote average 6.8*
 
 Two academic teenage superstars realize, on the eve of their high school graduation, that they should have worked less and played more. Determined to never fall short of their peers, the girls set out on a mission to cram four years of fun into one night.
 
@@ -134,30 +112,8 @@ Two academic teenage superstars realize, on the eve of their high school graduat
 	
 	
 
-### The Poison Rose
-*Released on 2019-05-23, vote average 5*
-
-A down-on-his-luck PI is hired by his old flame to investigate a murder. But while the case at first appears routine, it slowly reveals itself to be a complex interwoven web of crimes, suspects, and dead bodies.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/a-EiwzB_DBg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Ma
-*Released on 2019-05-29, vote average 6.5*
+*Released on 2019-05-29, vote average 4.7*
 
 Sue Ann is a loner who keeps to herself in her quiet Ohio town. One day, she is asked by Maggie, a new teenager in town, to buy some booze for her and her friends, and Sue Ann sees the chance to make some unsuspecting, if younger, friends of her own.  She offers the kids the chance to avoid drinking and driving by hanging out in the basement of her home. But there are some house rules: One of the kids has to stay sober. Don’t curse. Never go upstairs. And call her “Ma.”  But as Ma’s hospitality starts to curdle into obsession, what began as a teenage dream turns into a terrorizing nightmare, and Ma’s place goes from the best place in town to the worst place on earth.
 
@@ -199,6 +155,43 @@ While on a prison furlough, a lowly criminal evades his guards and returns to hi
 
 	
 	
+
+### Rocketman
+*Released on 2019-05-22, vote average 7.5*
+
+The story of Elton John&#39;s life, from his years as a prodigy at the Royal Academy of Music through his influential and enduring musical partnership with Bernie Taupin.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mpOGT3GTO84?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Poison Rose
+*Released on 2019-05-23, vote average 5.3*
+
+A down-on-his-luck PI is hired by his old flame to investigate a murder. But while the case at first appears routine, it slowly reveals itself to be a complex interwoven web of crimes, suspects and dead bodies.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/a-EiwzB_DBg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -208,7 +201,7 @@ While on a prison furlough, a lowly criminal evades his guards and returns to hi
 	
 
 ### The Secret Life of Pets 2
-*Released on 2019-05-24, vote average 6*
+*Released on 2019-05-24, vote average 6.5*
 
 The further adventures of Max the dog and his furry animal friends.
 
@@ -229,16 +222,16 @@ The further adventures of Max the dog and his furry animal friends.
 	
 	
 
-### Rocketman
-*Released on 2019-05-22, vote average 7.3*
+### Parasite
+*Released on 2019-05-30, vote average 9.2*
 
-The story of Elton John&#39;s life, from his years as a prodigy at the Royal Academy of Music through his influential and enduring musical partnership with Bernie Taupin.
+All unemployed, Ki-taek&#39;s family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/mpOGT3GTO84?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/CEIwFAQ-Rec?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -273,16 +266,16 @@ With the world under attack by deadly creatures who hunt by sound, a teen and he
 	
 	
 
-### The Professor
-*Released on 2019-05-17, vote average 6.7*
+### General Commander
+*Released on 2019-05-28, vote average 5*
 
-Richard, a world-weary college professor is given a life-changing diagnosis and decides to throw all pretense and conventions to the wind and live his life as boldly and freely as possible with a biting sense of humor, a reckless streak, and a touch of madness.
+GRS operative Jake Alexander and his team of young recruits go after the most dangerous and notorious criminals with the help of a Hong Kong billionaire.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ev8MxilXgj0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/RwZEKJ-37-4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -315,11 +308,6 @@ Two teenagers build time machines to save one&#39;s brother from being killed by
 
 
 	
-
-  
-
-
-	
 	
 
 ### We Have Always Lived in the Castle
@@ -336,6 +324,18 @@ An isolated family, having already lost four members to poisoning, uses rituals 
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -366,50 +366,12 @@ An isolated family, having already lost four members to poisoning, uses rituals 
 
 
 	
-	
-
-### Godzilla: King of the Monsters
-*Released on 2019-05-29, vote average 5.2*
-
-The new story follows the heroic efforts of the crypto-zoological agency Monarch as its members face off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah. When these ancient super-species—thought to be mere myths—rise again, they all vie for supremacy, leaving humanity’s very existence hanging in the balance.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wVDtmouV9kM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Ma
-*Released on 2019-05-29, vote average 6.5*
-
-Sue Ann is a loner who keeps to herself in her quiet Ohio town. One day, she is asked by Maggie, a new teenager in town, to buy some booze for her and her friends, and Sue Ann sees the chance to make some unsuspecting, if younger, friends of her own.  She offers the kids the chance to avoid drinking and driving by hanging out in the basement of her home. But there are some house rules: One of the kids has to stay sober. Don’t curse. Never go upstairs. And call her “Ma.”  But as Ma’s hospitality starts to curdle into obsession, what began as a teenage dream turns into a terrorizing nightmare, and Ma’s place goes from the best place in town to the worst place on earth.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/eIvbEC8N3cA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
 
 	
 	
 
 ### Parasite
-*Released on 2019-05-30, vote average 10*
+*Released on 2019-05-30, vote average 9.2*
 
 All unemployed, Ki-taek&#39;s family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.
 
@@ -422,6 +384,10 @@ All unemployed, Ki-taek&#39;s family takes peculiar interest in the wealthy and 
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
 	
 
 	
