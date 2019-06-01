@@ -47,7 +47,7 @@ A kindhearted street urchin named Aladdin embarks on a magical adventure after f
 	
 
 ### Godzilla: King of the Monsters
-*Released on 2019-05-29, vote average 6.3*
+*Released on 2019-05-29, vote average 6.4*
 
 The new story follows the heroic efforts of the crypto-zoological agency Monarch as its members face off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah. When these ancient super-species—thought to be mere myths—rise again, they all vie for supremacy, leaving humanity’s very existence hanging in the balance.
 
@@ -56,6 +56,28 @@ The new story follows the heroic efforts of the crypto-zoological agency Monarch
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/wVDtmouV9kM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Rocketman
+*Released on 2019-05-22, vote average 7.7*
+
+The story of Elton John&#39;s life, from his years as a prodigy at the Royal Academy of Music through his influential and enduring musical partnership with Bernie Taupin.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mpOGT3GTO84?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -90,30 +112,8 @@ Stranded at a summer camp when aliens attack the planet, four teens with nothing
 	
 	
 
-### Rocketman
-*Released on 2019-05-22, vote average 7.4*
-
-The story of Elton John&#39;s life, from his years as a prodigy at the Royal Academy of Music through his influential and enduring musical partnership with Bernie Taupin.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/mpOGT3GTO84?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Booksmart
-*Released on 2019-05-24, vote average 7*
+*Released on 2019-05-24, vote average 7.1*
 
 Two academic teenage superstars realize, on the eve of their high school graduation, that they should have worked less and played more. Determined to never fall short of their peers, the girls set out on a mission to cram four years of fun into one night.
 
@@ -135,7 +135,7 @@ Two academic teenage superstars realize, on the eve of their high school graduat
 	
 
 ### Ma
-*Released on 2019-05-29, vote average 4.8*
+*Released on 2019-05-29, vote average 5.3*
 
 Sue Ann is a loner who keeps to herself in her quiet Ohio town. One day, she is asked by Maggie, a new teenager in town, to buy some booze for her and her friends, and Sue Ann sees the chance to make some unsuspecting, if younger, friends of her own.  She offers the kids the chance to avoid drinking and driving by hanging out in the basement of her home. But there are some house rules: One of the kids has to stay sober. Don’t curse. Never go upstairs. And call her “Ma.”  But as Ma’s hospitality starts to curdle into obsession, what began as a teenage dream turns into a terrorizing nightmare, and Ma’s place goes from the best place in town to the worst place on earth.
 
@@ -157,7 +157,7 @@ Sue Ann is a loner who keeps to herself in her quiet Ohio town. One day, she is 
 	
 
 ### Parasite
-*Released on 2019-05-30, vote average 9.2*
+*Released on 2019-05-30, vote average 9.3*
 
 All unemployed, Ki-taek&#39;s family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.
 
@@ -178,8 +178,30 @@ All unemployed, Ki-taek&#39;s family takes peculiar interest in the wealthy and 
 	
 	
 
+### The Secret Life of Pets 2
+*Released on 2019-05-24, vote average 6.5*
+
+What happens with our pets when we’re not home? This movie continues the original movie with Max and his friends.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pKLGUuJftl0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Avengement
-*Released on 2019-05-24, vote average 6.6*
+*Released on 2019-05-24, vote average 6.9*
 
 While on a prison furlough, a lowly criminal evades his guards and returns to his old stomping ground to take revenge on the people who turned him into a cold blooded killer.
 
@@ -192,6 +214,11 @@ While on a prison furlough, a lowly criminal evades his guards and returns to hi
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -220,22 +247,10 @@ A down-on-his-luck PI is hired by his old flame to investigate a murder. But whi
 
 
 	
-	
 
-### The Secret Life of Pets 2
-*Released on 2019-05-24, vote average 6.5*
+  
 
-The further adventures of Max the dog and his furry animal friends.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pKLGUuJftl0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -244,16 +259,16 @@ The further adventures of Max the dog and his furry animal friends.
 	
 	
 
-### We Have Always Lived in the Castle
-*Released on 2019-05-17, vote average 5.3*
+### Always Be My Maybe
+*Released on 2019-05-31, vote average 7.2*
 
-An isolated family, having already lost four members to poisoning, uses rituals and talismans to keep itself away from hostile townspeople.
+A pair of childhood friends end up falling for each other when they grow up.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/NQg-nUoMCBo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/iHBcWHY9lN4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -269,8 +284,6 @@ An isolated family, having already lost four members to poisoning, uses rituals 
 
 
 	
-	
-	
 
   
 
@@ -290,38 +303,6 @@ An isolated family, having already lost four members to poisoning, uses rituals 
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### See You Yesterday
-*Released on 2019-05-17, vote average 5.5*
-
-Two teenagers build time machines to save one&#39;s brother from being killed by the police.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8MVRWQ1PnMo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
