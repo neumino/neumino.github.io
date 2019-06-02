@@ -47,7 +47,7 @@ A kindhearted street urchin named Aladdin embarks on a magical adventure after f
 	
 
 ### Godzilla: King of the Monsters
-*Released on 2019-05-29, vote average 6.4*
+*Released on 2019-05-29, vote average 6.5*
 
 The new story follows the heroic efforts of the crypto-zoological agency Monarch as its members face off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah. When these ancient super-species—thought to be mere myths—rise again, they all vie for supremacy, leaving humanity’s very existence hanging in the balance.
 
@@ -56,28 +56,6 @@ The new story follows the heroic efforts of the crypto-zoological agency Monarch
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/wVDtmouV9kM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Rocketman
-*Released on 2019-05-22, vote average 7.7*
-
-The story of Elton John&#39;s life, from his years as a prodigy at the Royal Academy of Music through his influential and enduring musical partnership with Bernie Taupin.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/mpOGT3GTO84?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,16 +90,16 @@ Stranded at a summer camp when aliens attack the planet, four teens with nothing
 	
 	
 
-### Booksmart
-*Released on 2019-05-24, vote average 7.1*
+### Rocketman
+*Released on 2019-05-22, vote average 7.7*
 
-Two academic teenage superstars realize, on the eve of their high school graduation, that they should have worked less and played more. Determined to never fall short of their peers, the girls set out on a mission to cram four years of fun into one night.
+The story of Elton John&#39;s life, from his years as a prodigy at the Royal Academy of Music through his influential and enduring musical partnership with Bernie Taupin.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/tX2MvB0kyA0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/mpOGT3GTO84?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -137,7 +115,7 @@ Two academic teenage superstars realize, on the eve of their high school graduat
 ### Ma
 *Released on 2019-05-29, vote average 5.3*
 
-Sue Ann is a loner who keeps to herself in her quiet Ohio town. One day, she is asked by Maggie, a new teenager in town, to buy some booze for her and her friends, and Sue Ann sees the chance to make some unsuspecting, if younger, friends of her own.  She offers the kids the chance to avoid drinking and driving by hanging out in the basement of her home. But there are some house rules: One of the kids has to stay sober. Don’t curse. Never go upstairs. And call her “Ma.”  But as Ma’s hospitality starts to curdle into obsession, what began as a teenage dream turns into a terrorizing nightmare, and Ma’s place goes from the best place in town to the worst place on earth.
+Sue Ann is a loner who keeps to herself in her quiet Ohio town. One day, she is asked by Maggie, a new teenager in town, to buy some booze for her and her friends, and Sue Ann sees the chance to make some unsuspecting, if younger, friends of her own.
 
 <iframe id="player"
 	type="text/html"
@@ -156,16 +134,16 @@ Sue Ann is a loner who keeps to herself in her quiet Ohio town. One day, she is 
 	
 	
 
-### Parasite
-*Released on 2019-05-30, vote average 9.3*
+### Booksmart
+*Released on 2019-05-24, vote average 7.1*
 
-All unemployed, Ki-taek&#39;s family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.
+Two academic teenage superstars realize, on the eve of their high school graduation, that they should have worked less and played more. Determined to never fall short of their peers, the girls set out on a mission to cram four years of fun into one night.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/CEIwFAQ-Rec?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/tX2MvB0kyA0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -200,25 +178,20 @@ What happens with our pets when we’re not home? This movie continues the origi
 	
 	
 
-### Avengement
-*Released on 2019-05-24, vote average 6.9*
+### Domino
+*Released on 2019-05-31, vote average 4.7*
 
-While on a prison furlough, a lowly criminal evades his guards and returns to his old stomping ground to take revenge on the people who turned him into a cold blooded killer.
+Seeking justice for his partner’s murder by an ISIS member, a Copenhagen police officer finds himself caught in a cat and mouse game with a duplicitous CIA agent who is using the killer as a pawn to trap other ISIS members.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/zeJF1lUD6ms?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/pW9_y6gWa6U?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -247,10 +220,44 @@ A down-on-his-luck PI is hired by his old flame to investigate a murder. But whi
 
 
 	
+	
+
+### Parasite
+*Released on 2019-05-30, vote average 9.3*
+
+All unemployed, Ki-taek&#39;s family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/CEIwFAQ-Rec?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
+	
+	
+
+### Deadwood: The Movie
+*Released on 2019-05-31, vote average 7.3*
+
+Follow the 10-year reunion of the Deadwood camp to celebrate South Dakota&#39;s statehood. Former rivalries are reignited, alliances are tested and old wounds are reopened, as all are left to navigate the inevitable changes that modernity and time have wrought.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/tAcftIUE6MQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -273,6 +280,33 @@ A pair of childhood friends end up falling for each other when they grow up.
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Avengement
+*Released on 2019-05-24, vote average 6.9*
+
+While on a prison furlough, a lowly criminal evades his guards and returns to his old stomping ground to take revenge on the people who turned him into a cold blooded killer.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zeJF1lUD6ms?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
