@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Aladdin
-*Released on 2019-05-22, vote average 7.2*
+*Released on 2019-05-22, vote average 7.3*
 
 A kindhearted street urchin named Aladdin embarks on a magical adventure after finding a lamp that releases a wisecracking genie while a power-hungry Grand Vizier vies for the same lamp that has the power to make their deepest wishes come true.
 
@@ -69,7 +69,7 @@ The new story follows the heroic efforts of the crypto-zoological agency Monarch
 	
 
 ### Rim of the World
-*Released on 2019-05-24, vote average 5.7*
+*Released on 2019-05-24, vote average 5.6*
 
 Stranded at a summer camp when aliens attack the planet, four teens with nothing in common embark on a perilous mission to save the world.
 
@@ -90,38 +90,16 @@ Stranded at a summer camp when aliens attack the planet, four teens with nothing
 	
 	
 
-### Rocketman
-*Released on 2019-05-22, vote average 7.7*
+### The Secret Life of Pets 2
+*Released on 2019-05-24, vote average 6.2*
 
-The story of Elton John&#39;s life, from his years as a prodigy at the Royal Academy of Music through his influential and enduring musical partnership with Bernie Taupin.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/mpOGT3GTO84?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Ma
-*Released on 2019-05-29, vote average 5.3*
-
-Sue Ann is a loner who keeps to herself in her quiet Ohio town. One day, she is asked by Maggie, a new teenager in town, to buy some booze for her and her friends, and Sue Ann sees the chance to make some unsuspecting, if younger, friends of her own.
+What happens with our pets when we’re not home? This movie continues the original movie with Max and his friends.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/eIvbEC8N3cA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/pKLGUuJftl0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -156,16 +134,16 @@ Two academic teenage superstars realize, on the eve of their high school graduat
 	
 	
 
-### The Secret Life of Pets 2
-*Released on 2019-05-24, vote average 6.5*
+### Rocketman
+*Released on 2019-05-22, vote average 7.8*
 
-What happens with our pets when we’re not home? This movie continues the original movie with Max and his friends.
+The story of Elton John&#39;s life, from his years as a prodigy at the Royal Academy of Music through his influential and enduring musical partnership with Bernie Taupin.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/pKLGUuJftl0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/mpOGT3GTO84?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -178,16 +156,16 @@ What happens with our pets when we’re not home? This movie continues the origi
 	
 	
 
-### Domino
-*Released on 2019-05-31, vote average 4.7*
+### Ma
+*Released on 2019-05-29, vote average 5.6*
 
-Seeking justice for his partner’s murder by an ISIS member, a Copenhagen police officer finds himself caught in a cat and mouse game with a duplicitous CIA agent who is using the killer as a pawn to trap other ISIS members.
+Sue Ann is a loner who keeps to herself in her quiet Ohio town. One day, she is asked by Maggie, a new teenager in town, to buy some booze for her and her friends, and Sue Ann sees the chance to make some unsuspecting, if younger, friends of her own.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/pW9_y6gWa6U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/eIvbEC8N3cA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -222,16 +200,16 @@ A down-on-his-luck PI is hired by his old flame to investigate a murder. But whi
 	
 	
 
-### Parasite
-*Released on 2019-05-30, vote average 9.3*
+### Domino
+*Released on 2019-05-31, vote average 5.8*
 
-All unemployed, Ki-taek&#39;s family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.
+Seeking justice for his partner’s murder by an ISIS member, a Copenhagen police officer finds himself caught in a cat and mouse game with a duplicitous CIA agent who is using the killer as a pawn to trap other ISIS members.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/CEIwFAQ-Rec?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/pW9_y6gWa6U?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -245,7 +223,7 @@ All unemployed, Ki-taek&#39;s family takes peculiar interest in the wealthy and 
 	
 
 ### Deadwood: The Movie
-*Released on 2019-05-31, vote average 7.3*
+*Released on 2019-05-31, vote average 8*
 
 Follow the 10-year reunion of the Deadwood camp to celebrate South Dakota&#39;s statehood. Former rivalries are reignited, alliances are tested and old wounds are reopened, as all are left to navigate the inevitable changes that modernity and time have wrought.
 
@@ -267,15 +245,37 @@ Follow the 10-year reunion of the Deadwood camp to celebrate South Dakota&#39;s 
 	
 
 ### Always Be My Maybe
-*Released on 2019-05-31, vote average 7.2*
+*Released on 2019-05-31, vote average 7*
 
-A pair of childhood friends end up falling for each other when they grow up.
+Reunited after 15 years, famous chef Sasha and hometown musician Marcus feel the old sparks of attraction but struggle to adapt to each other&#39;s worlds.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/iHBcWHY9lN4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Parasite
+*Released on 2019-05-30, vote average 9.3*
+
+All unemployed, Ki-taek&#39;s family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/CEIwFAQ-Rec?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -313,6 +313,23 @@ While on a prison furlough, a lowly criminal evades his guards and returns to hi
 
 
 	
+	
+
+### Chopsticks
+*Released on 2019-05-31, vote average 10*
+
+A gifted but insecure woman is in for a transformative experience when she enlists the help of an enigmatic con artist to recover her stolen car
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/dxbCuuc-jp4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -346,6 +363,23 @@ While on a prison furlough, a lowly criminal evades his guards and returns to hi
 ## Opening soon
 
 
+	
+	
+
+### Dark Phoenix
+*Released on 2019-06-05, vote average 6*
+
+The X-Men face their most formidable and powerful foe when one of their own, Jean Grey, starts to spiral out of control. During a rescue mission in outer space, Jean is nearly killed when she&#39;s hit by a mysterious cosmic force. Once she returns home, this force not only makes her infinitely more powerful, but far more unstable. The X-Men must now band together to save her soul and battle aliens that want to use Grey&#39;s new abilities to rule the galaxy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QWbMckU3AOQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
