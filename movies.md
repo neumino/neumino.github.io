@@ -68,16 +68,16 @@ The new story follows the heroic efforts of the crypto-zoological agency Monarch
 	
 	
 
-### Rim of the World
-*Released on 2019-05-24, vote average 5.6*
+### The Poison Rose
+*Released on 2019-05-23, vote average 5.1*
 
-Stranded at a summer camp when aliens attack the planet, four teens with nothing in common embark on a perilous mission to save the world.
+A down-on-his-luck PI is hired by his old flame to investigate a murder. But while the case at first appears routine, it slowly reveals itself to be a complex interwoven web of crimes, suspects and dead bodies.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xkvBpKHL99k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/a-EiwzB_DBg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -91,7 +91,7 @@ Stranded at a summer camp when aliens attack the planet, four teens with nothing
 	
 
 ### The Secret Life of Pets 2
-*Released on 2019-05-24, vote average 6.2*
+*Released on 2019-05-24, vote average 6.3*
 
 What happens with our pets when we’re not home? This movie continues the original movie with Max and his friends.
 
@@ -112,16 +112,38 @@ What happens with our pets when we’re not home? This movie continues the origi
 	
 	
 
-### Booksmart
-*Released on 2019-05-24, vote average 7.1*
+### Ma
+*Released on 2019-05-29, vote average 5.8*
 
-Two academic teenage superstars realize, on the eve of their high school graduation, that they should have worked less and played more. Determined to never fall short of their peers, the girls set out on a mission to cram four years of fun into one night.
+Sue Ann is a loner who keeps to herself in her quiet Ohio town. One day, she is asked by Maggie, a new teenager in town, to buy some booze for her and her friends, and Sue Ann sees the chance to make some unsuspecting, if younger, friends of her own.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/tX2MvB0kyA0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/eIvbEC8N3cA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Dark Phoenix
+*Released on 2019-06-05, vote average 6*
+
+The X-Men face their most formidable and powerful foe when one of their own, Jean Grey, starts to spiral out of control. During a rescue mission in outer space, Jean is nearly killed when she&#39;s hit by a mysterious cosmic force. Once she returns home, this force not only makes her infinitely more powerful, but far more unstable. The X-Men must now band together to save her soul and battle aliens that want to use Grey&#39;s new abilities to rule the galaxy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QWbMckU3AOQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -156,74 +178,8 @@ The story of Elton John&#39;s life, from his years as a prodigy at the Royal Aca
 	
 	
 
-### Ma
-*Released on 2019-05-29, vote average 5.6*
-
-Sue Ann is a loner who keeps to herself in her quiet Ohio town. One day, she is asked by Maggie, a new teenager in town, to buy some booze for her and her friends, and Sue Ann sees the chance to make some unsuspecting, if younger, friends of her own.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/eIvbEC8N3cA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Poison Rose
-*Released on 2019-05-23, vote average 5.3*
-
-A down-on-his-luck PI is hired by his old flame to investigate a murder. But while the case at first appears routine, it slowly reveals itself to be a complex interwoven web of crimes, suspects and dead bodies.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/a-EiwzB_DBg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Domino
-*Released on 2019-05-31, vote average 5.8*
-
-Seeking justice for his partner’s murder by an ISIS member, a Copenhagen police officer finds himself caught in a cat and mouse game with a duplicitous CIA agent who is using the killer as a pawn to trap other ISIS members.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pW9_y6gWa6U?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Deadwood: The Movie
-*Released on 2019-05-31, vote average 8*
+*Released on 2019-05-31, vote average 7.7*
 
 Follow the 10-year reunion of the Deadwood camp to celebrate South Dakota&#39;s statehood. Former rivalries are reignited, alliances are tested and old wounds are reopened, as all are left to navigate the inevitable changes that modernity and time have wrought.
 
@@ -266,8 +222,94 @@ Reunited after 15 years, famous chef Sasha and hometown musician Marcus feel the
 	
 	
 
+### Rim of the World
+*Released on 2019-05-24, vote average 5.5*
+
+Stranded at a summer camp when aliens attack the planet, four teens with nothing in common embark on a perilous mission to save the world.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xkvBpKHL99k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Booksmart
+*Released on 2019-05-24, vote average 7.2*
+
+Two academic teenage superstars realize, on the eve of their high school graduation, that they should have worked less and played more. Determined to never fall short of their peers, the girls set out on a mission to cram four years of fun into one night.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/tX2MvB0kyA0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Domino
+*Released on 2019-05-31, vote average 5.8*
+
+Seeking justice for his partner’s murder by an ISIS member, a Copenhagen police officer finds himself caught in a cat and mouse game with a duplicitous CIA agent who is using the killer as a pawn to trap other ISIS members.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pW9_y6gWa6U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### Parasite
-*Released on 2019-05-30, vote average 9.3*
+*Released on 2019-05-30, vote average 9.4*
 
 All unemployed, Ki-taek&#39;s family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.
 
@@ -280,6 +322,16 @@ All unemployed, Ki-taek&#39;s family takes peculiar interest in the wealthy and 
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -302,58 +354,6 @@ While on a prison furlough, a lowly criminal evades his guards and returns to hi
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Chopsticks
-*Released on 2019-05-31, vote average 10*
-
-A gifted but insecure woman is in for a transformative experience when she enlists the help of an enigmatic con artist to recover her stolen car
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/dxbCuuc-jp4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -385,7 +385,28 @@ The X-Men face their most formidable and powerful foe when one of their own, Jea
 	
 
 	
+	
 
+### The Wind
+*Released on 2019-06-06, vote average 4*
+
+A supernatural thriller set in the Western frontier of the late 1800s, The Wind stars Caitlin Gerard as a plains-woman driven mad by the harshness and isolation of the untamed land.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Ogh5JldDAj4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+	
 	
 
 	
@@ -413,7 +434,22 @@ The X-Men face their most formidable and powerful foe when one of their own, Jea
 	
 
 	
+	
 
+### Bharat
+*Released on 2019-06-05, vote average 8*
+
+An official adaptation of 2014 Korean film, &#39;Ode to My Father&#39;.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EMMA58snV5I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
