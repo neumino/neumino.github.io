@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Aladdin
-*Released on 2019-05-22, vote average 7.3*
+### Godzilla: King of the Monsters
+*Released on 2019-05-29, vote average 6.5*
 
-A kindhearted street urchin named Aladdin embarks on a magical adventure after finding a lamp that releases a wisecracking genie while a power-hungry Grand Vizier vies for the same lamp that has the power to make their deepest wishes come true.
+The new story follows the heroic efforts of the crypto-zoological agency Monarch as its members face off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah. When these ancient super-species—thought to be mere myths—rise again, they all vie for supremacy, leaving humanity’s very existence hanging in the balance.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/9g5knnlF7Zo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/wVDtmouV9kM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,74 +46,8 @@ A kindhearted street urchin named Aladdin embarks on a magical adventure after f
 	
 	
 
-### Godzilla: King of the Monsters
-*Released on 2019-05-29, vote average 6.5*
-
-The new story follows the heroic efforts of the crypto-zoological agency Monarch as its members face off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah. When these ancient super-species—thought to be mere myths—rise again, they all vie for supremacy, leaving humanity’s very existence hanging in the balance.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wVDtmouV9kM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Poison Rose
-*Released on 2019-05-23, vote average 5.1*
-
-A down-on-his-luck PI is hired by his old flame to investigate a murder. But while the case at first appears routine, it slowly reveals itself to be a complex interwoven web of crimes, suspects and dead bodies.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/a-EiwzB_DBg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Secret Life of Pets 2
-*Released on 2019-05-24, vote average 6.3*
-
-What happens with our pets when we’re not home? This movie continues the original movie with Max and his friends.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pKLGUuJftl0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Ma
-*Released on 2019-05-29, vote average 5.8*
+*Released on 2019-05-29, vote average 5.6*
 
 Sue Ann is a loner who keeps to herself in her quiet Ohio town. One day, she is asked by Maggie, a new teenager in town, to buy some booze for her and her friends, and Sue Ann sees the chance to make some unsuspecting, if younger, friends of her own.
 
@@ -135,7 +69,7 @@ Sue Ann is a loner who keeps to herself in her quiet Ohio town. One day, she is 
 	
 
 ### Dark Phoenix
-*Released on 2019-06-05, vote average 6*
+*Released on 2019-06-05, vote average 6.2*
 
 The X-Men face their most formidable and powerful foe when one of their own, Jean Grey, starts to spiral out of control. During a rescue mission in outer space, Jean is nearly killed when she&#39;s hit by a mysterious cosmic force. Once she returns home, this force not only makes her infinitely more powerful, but far more unstable. The X-Men must now band together to save her soul and battle aliens that want to use Grey&#39;s new abilities to rule the galaxy.
 
@@ -156,16 +90,38 @@ The X-Men face their most formidable and powerful foe when one of their own, Jea
 	
 	
 
-### Rocketman
-*Released on 2019-05-22, vote average 7.8*
+### The Secret Life of Pets 2
+*Released on 2019-05-24, vote average 6*
 
-The story of Elton John&#39;s life, from his years as a prodigy at the Royal Academy of Music through his influential and enduring musical partnership with Bernie Taupin.
+What happens with our pets when we’re not home? This movie continues the original movie with Max and his friends.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/mpOGT3GTO84?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/pKLGUuJftl0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Poison Rose
+*Released on 2019-05-23, vote average 4.8*
+
+A down-on-his-luck PI is hired by his old flame to investigate a murder. But while the case at first appears routine, it slowly reveals itself to be a complex interwoven web of crimes, suspects and dead bodies.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/a-EiwzB_DBg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -179,7 +135,7 @@ The story of Elton John&#39;s life, from his years as a prodigy at the Royal Aca
 	
 
 ### Deadwood: The Movie
-*Released on 2019-05-31, vote average 7.7*
+*Released on 2019-05-31, vote average 7.6*
 
 Follow the 10-year reunion of the Deadwood camp to celebrate South Dakota&#39;s statehood. Former rivalries are reignited, alliances are tested and old wounds are reopened, as all are left to navigate the inevitable changes that modernity and time have wrought.
 
@@ -201,7 +157,7 @@ Follow the 10-year reunion of the Deadwood camp to celebrate South Dakota&#39;s 
 	
 
 ### Always Be My Maybe
-*Released on 2019-05-31, vote average 7*
+*Released on 2019-05-31, vote average 6.9*
 
 Reunited after 15 years, famous chef Sasha and hometown musician Marcus feel the old sparks of attraction but struggle to adapt to each other&#39;s worlds.
 
@@ -210,28 +166,6 @@ Reunited after 15 years, famous chef Sasha and hometown musician Marcus feel the
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/iHBcWHY9lN4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Rim of the World
-*Released on 2019-05-24, vote average 5.5*
-
-Stranded at a summer camp when aliens attack the planet, four teens with nothing in common embark on a perilous mission to save the world.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xkvBpKHL99k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -266,16 +200,16 @@ Two academic teenage superstars realize, on the eve of their high school graduat
 	
 	
 
-### Domino
-*Released on 2019-05-31, vote average 5.8*
+### Rim of the World
+*Released on 2019-05-24, vote average 5.5*
 
-Seeking justice for his partner’s murder by an ISIS member, a Copenhagen police officer finds himself caught in a cat and mouse game with a duplicitous CIA agent who is using the killer as a pawn to trap other ISIS members.
+Stranded at a summer camp when aliens attack the planet, four teens with nothing in common embark on a perilous mission to save the world.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/pW9_y6gWa6U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xkvBpKHL99k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -296,6 +230,94 @@ Seeking justice for his partner’s murder by an ISIS member, a Copenhagen polic
 
 
 	
+	
+
+### Chasing Happiness
+*Released on 2019-06-04, vote average 8.7*
+
+From humble roots as pastor&#39;s sons in New Jersey, through their meteoric rise to fame, the Jonas Brothers&#39; bond was unshakeable-until a surprising and painful breakup led Joe, Kevin and Nick down very different paths. With deeply personal interviews, previously unreleased footage and exclusive music, this is the Jonas Brothers as never seen before.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/eS0PVYreMzo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Wind
+*Released on 2019-06-06, vote average 4*
+
+A supernatural thriller set in the Western frontier of the late 1800s, The Wind stars Caitlin Gerard as a plains-woman driven mad by the harshness and isolation of the untamed land.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Ogh5JldDAj4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Domino
+*Released on 2019-05-31, vote average 5.6*
+
+Seeking justice for his partner’s murder by an ISIS member, a Copenhagen police officer finds himself caught in a cat and mouse game with a duplicitous CIA agent who is using the killer as a pawn to trap other ISIS members.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pW9_y6gWa6U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Single Part 2
+*Released on 2019-06-04, vote average 7.5*
+
+
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zWkHCDR1kOc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -309,7 +331,7 @@ Seeking justice for his partner’s murder by an ISIS member, a Copenhagen polic
 	
 
 ### Parasite
-*Released on 2019-05-30, vote average 9.4*
+*Released on 2019-05-30, vote average 9.3*
 
 All unemployed, Ki-taek&#39;s family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.
 
@@ -337,50 +359,9 @@ All unemployed, Ki-taek&#39;s family takes peculiar interest in the wealthy and 
   
 
 
-	
-	
-
-### Avengement
-*Released on 2019-05-24, vote average 6.9*
-
-While on a prison furlough, a lowly criminal evades his guards and returns to his old stomping ground to take revenge on the people who turned him into a cold blooded killer.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zeJF1lUD6ms?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 
 ## Opening soon
 
-
-	
-	
-
-### Dark Phoenix
-*Released on 2019-06-05, vote average 6*
-
-The X-Men face their most formidable and powerful foe when one of their own, Jean Grey, starts to spiral out of control. During a rescue mission in outer space, Jean is nearly killed when she&#39;s hit by a mysterious cosmic force. Once she returns home, this force not only makes her infinitely more powerful, but far more unstable. The X-Men must now band together to save her soul and battle aliens that want to use Grey&#39;s new abilities to rule the galaxy.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/QWbMckU3AOQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
@@ -406,8 +387,6 @@ A supernatural thriller set in the Western frontier of the late 1800s, The Wind 
 	
 
 	
-	
-	
 
 	
 
@@ -434,22 +413,7 @@ A supernatural thriller set in the Western frontier of the late 1800s, The Wind 
 	
 
 	
-	
 
-### Bharat
-*Released on 2019-06-05, vote average 8*
-
-An official adaptation of 2014 Korean film, &#39;Ode to My Father&#39;.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EMMA58snV5I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
