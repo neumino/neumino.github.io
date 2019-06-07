@@ -46,30 +46,8 @@ The new story follows the heroic efforts of the crypto-zoological agency Monarch
 	
 	
 
-### Ma
-*Released on 2019-05-29, vote average 5.6*
-
-Sue Ann is a loner who keeps to herself in her quiet Ohio town. One day, she is asked by Maggie, a new teenager in town, to buy some booze for her and her friends, and Sue Ann sees the chance to make some unsuspecting, if younger, friends of her own.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/eIvbEC8N3cA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Dark Phoenix
-*Released on 2019-06-05, vote average 6.2*
+*Released on 2019-06-05, vote average 6.5*
 
 The X-Men face their most formidable and powerful foe when one of their own, Jean Grey, starts to spiral out of control. During a rescue mission in outer space, Jean is nearly killed when she&#39;s hit by a mysterious cosmic force. Once she returns home, this force not only makes her infinitely more powerful, but far more unstable. The X-Men must now band together to save her soul and battle aliens that want to use Grey&#39;s new abilities to rule the galaxy.
 
@@ -90,8 +68,30 @@ The X-Men face their most formidable and powerful foe when one of their own, Jea
 	
 	
 
+### Ma
+*Released on 2019-05-29, vote average 5.7*
+
+Sue Ann is a loner who keeps to herself in her quiet Ohio town. One day, she is asked by Maggie, a new teenager in town, to buy some booze for her and her friends, and Sue Ann sees the chance to make some unsuspecting, if younger, friends of her own.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/eIvbEC8N3cA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Secret Life of Pets 2
-*Released on 2019-05-24, vote average 6*
+*Released on 2019-05-24, vote average 6.2*
 
 What happens with our pets when we’re not home? This movie continues the original movie with Max and his friends.
 
@@ -100,50 +100,6 @@ What happens with our pets when we’re not home? This movie continues the origi
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/pKLGUuJftl0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Poison Rose
-*Released on 2019-05-23, vote average 4.8*
-
-A down-on-his-luck PI is hired by his old flame to investigate a murder. But while the case at first appears routine, it slowly reveals itself to be a complex interwoven web of crimes, suspects and dead bodies.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/a-EiwzB_DBg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Deadwood: The Movie
-*Released on 2019-05-31, vote average 7.6*
-
-Follow the 10-year reunion of the Deadwood camp to celebrate South Dakota&#39;s statehood. Former rivalries are reignited, alliances are tested and old wounds are reopened, as all are left to navigate the inevitable changes that modernity and time have wrought.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tAcftIUE6MQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -166,6 +122,28 @@ Reunited after 15 years, famous chef Sasha and hometown musician Marcus feel the
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/iHBcWHY9lN4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Deadwood: The Movie
+*Released on 2019-05-31, vote average 7.7*
+
+Follow the 10-year reunion of the Deadwood camp to celebrate South Dakota&#39;s statehood. Former rivalries are reignited, alliances are tested and old wounds are reopened, as all are left to navigate the inevitable changes that modernity and time have wrought.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/tAcftIUE6MQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -220,6 +198,38 @@ Stranded at a summer camp when aliens attack the planet, four teens with nothing
 
 
 	
+	
+
+### The Wind
+*Released on 2019-06-06, vote average 5*
+
+A supernatural thriller set in the Western frontier of the late 1800s, The Wind stars Caitlin Gerard as a plains-woman driven mad by the harshness and isolation of the untamed land.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Ogh5JldDAj4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 
   
 
@@ -233,7 +243,7 @@ Stranded at a summer camp when aliens attack the planet, four teens with nothing
 	
 
 ### Chasing Happiness
-*Released on 2019-06-04, vote average 8.7*
+*Released on 2019-06-04, vote average 8.3*
 
 From humble roots as pastor&#39;s sons in New Jersey, through their meteoric rise to fame, the Jonas Brothers&#39; bond was unshakeable-until a surprising and painful breakup led Joe, Kevin and Nick down very different paths. With deeply personal interviews, previously unreleased footage and exclusive music, this is the Jonas Brothers as never seen before.
 
@@ -242,28 +252,6 @@ From humble roots as pastor&#39;s sons in New Jersey, through their meteoric ris
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/eS0PVYreMzo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Wind
-*Released on 2019-06-06, vote average 4*
-
-A supernatural thriller set in the Western frontier of the late 1800s, The Wind stars Caitlin Gerard as a plains-woman driven mad by the harshness and isolation of the untamed land.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Ogh5JldDAj4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -303,35 +291,8 @@ Seeking justice for his partner’s murder by an ISIS member, a Copenhagen polic
 	
 	
 
-### Single Part 2
-*Released on 2019-06-04, vote average 7.5*
-
-
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zWkHCDR1kOc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### Parasite
-*Released on 2019-05-30, vote average 9.3*
+*Released on 2019-05-30, vote average 9.4*
 
 All unemployed, Ki-taek&#39;s family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.
 
@@ -343,6 +304,13 @@ All unemployed, Ki-taek&#39;s family takes peculiar interest in the wealthy and 
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -366,46 +334,46 @@ All unemployed, Ki-taek&#39;s family takes peculiar interest in the wealthy and 
 	
 
 	
+
 	
 
-### The Wind
-*Released on 2019-06-06, vote average 4*
+	
 
-A supernatural thriller set in the Western frontier of the late 1800s, The Wind stars Caitlin Gerard as a plains-woman driven mad by the harshness and isolation of the untamed land.
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### The Song of Sway Lake
+*Released on 2019-06-07, vote average 3.5*
+
+In the wake of his father’s suicide, young record collector Ollie Sway returns to the family lake house with his friend Nikolai in tow to lay claim to an invaluable jazz recording. An unexpected visit from Ollie’s estranged grandmother and a chance encounter with a girl from across the lake derail their search, forcing them to confront the Sway family history and a suffering that has resounded through generations.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Ogh5JldDAj4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/hNDKJccsE2Y?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
