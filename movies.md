@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Godzilla: King of the Monsters
-*Released on 2019-05-29, vote average 6.5*
+*Released on 2019-05-29, vote average 6.4*
 
 The new story follows the heroic efforts of the crypto-zoological agency Monarch as its members face off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah. When these ancient super-species—thought to be mere myths—rise again, they all vie for supremacy, leaving humanity’s very existence hanging in the balance.
 
@@ -47,7 +47,7 @@ The new story follows the heroic efforts of the crypto-zoological agency Monarch
 	
 
 ### Dark Phoenix
-*Released on 2019-06-05, vote average 6.5*
+*Released on 2019-06-05, vote average 6.3*
 
 The X-Men face their most formidable and powerful foe when one of their own, Jean Grey, starts to spiral out of control. During a rescue mission in outer space, Jean is nearly killed when she&#39;s hit by a mysterious cosmic force. Once she returns home, this force not only makes her infinitely more powerful, but far more unstable. The X-Men must now band together to save her soul and battle aliens that want to use Grey&#39;s new abilities to rule the galaxy.
 
@@ -69,7 +69,7 @@ The X-Men face their most formidable and powerful foe when one of their own, Jea
 	
 
 ### Ma
-*Released on 2019-05-29, vote average 5.7*
+*Released on 2019-05-29, vote average 6*
 
 Sue Ann is a loner who keeps to herself in her quiet Ohio town. One day, she is asked by Maggie, a new teenager in town, to buy some booze for her and her friends, and Sue Ann sees the chance to make some unsuspecting, if younger, friends of her own.
 
@@ -78,28 +78,6 @@ Sue Ann is a loner who keeps to herself in her quiet Ohio town. One day, she is 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/eIvbEC8N3cA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Secret Life of Pets 2
-*Released on 2019-05-24, vote average 6.2*
-
-What happens with our pets when we’re not home? This movie continues the original movie with Max and his friends.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pKLGUuJftl0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -135,7 +113,7 @@ Reunited after 15 years, famous chef Sasha and hometown musician Marcus feel the
 	
 
 ### Deadwood: The Movie
-*Released on 2019-05-31, vote average 7.7*
+*Released on 2019-05-31, vote average 7.6*
 
 Follow the 10-year reunion of the Deadwood camp to celebrate South Dakota&#39;s statehood. Former rivalries are reignited, alliances are tested and old wounds are reopened, as all are left to navigate the inevitable changes that modernity and time have wrought.
 
@@ -144,50 +122,6 @@ Follow the 10-year reunion of the Deadwood camp to celebrate South Dakota&#39;s 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/tAcftIUE6MQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Booksmart
-*Released on 2019-05-24, vote average 7.2*
-
-Two academic teenage superstars realize, on the eve of their high school graduation, that they should have worked less and played more. Determined to never fall short of their peers, the girls set out on a mission to cram four years of fun into one night.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tX2MvB0kyA0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Rim of the World
-*Released on 2019-05-24, vote average 5.5*
-
-Stranded at a summer camp when aliens attack the planet, four teens with nothing in common embark on a perilous mission to save the world.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xkvBpKHL99k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -230,69 +164,10 @@ A supernatural thriller set in the Western frontier of the late 1800s, The Wind 
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Chasing Happiness
-*Released on 2019-06-04, vote average 8.3*
-
-From humble roots as pastor&#39;s sons in New Jersey, through their meteoric rise to fame, the Jonas Brothers&#39; bond was unshakeable-until a surprising and painful breakup led Joe, Kevin and Nick down very different paths. With deeply personal interviews, previously unreleased footage and exclusive music, this is the Jonas Brothers as never seen before.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/eS0PVYreMzo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Domino
-*Released on 2019-05-31, vote average 5.6*
-
-Seeking justice for his partner’s murder by an ISIS member, a Copenhagen police officer finds himself caught in a cat and mouse game with a duplicitous CIA agent who is using the killer as a pawn to trap other ISIS members.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pW9_y6gWa6U?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 	
 
 ### Parasite
-*Released on 2019-05-30, vote average 9.4*
+*Released on 2019-05-30, vote average 9.2*
 
 All unemployed, Ki-taek&#39;s family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.
 
@@ -312,6 +187,95 @@ All unemployed, Ki-taek&#39;s family takes peculiar interest in the wealthy and 
 
 	
 	
+
+### Bharat
+*Released on 2019-06-05, vote average 6.1*
+
+A little boy who is forced to be responsible early on, grows up with no regret of a non- existent childhood. He in fact makes it his life goal to put his family before him. The film follows the journey of Bharat over the course of several decades as he navigates the ups and downs of life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EMMA58snV5I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Domino
+*Released on 2019-05-31, vote average 5.3*
+
+Seeking justice for his partner’s murder by an ISIS member, a Copenhagen police officer finds himself caught in a cat and mouse game with a duplicitous CIA agent who is using the killer as a pawn to trap other ISIS members.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pW9_y6gWa6U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Odds
+*Released on 2019-06-04, vote average 5*
+
+A young woman enlists in an underground game of pain endurance in the hope of winning the million dollar prize. She soon learns the real opponent is the man who&#39;s running the game, as he employs horrific methods to manipulate and defeat her.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/h5z4XQg3l_Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -357,23 +321,6 @@ All unemployed, Ki-taek&#39;s family takes peculiar interest in the wealthy and 
 
 	
 
-	
-	
-
-### The Song of Sway Lake
-*Released on 2019-06-07, vote average 3.5*
-
-In the wake of his father’s suicide, young record collector Ollie Sway returns to the family lake house with his friend Nikolai in tow to lay claim to an invaluable jazz recording. An unexpected visit from Ollie’s estranged grandmother and a chance encounter with a girl from across the lake derail their search, forcing them to confront the Sway family history and a suffering that has resounded through generations.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hNDKJccsE2Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
