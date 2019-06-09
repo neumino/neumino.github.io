@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Godzilla: King of the Monsters
-*Released on 2019-05-29, vote average 6.4*
+### Dark Phoenix
+*Released on 2019-06-05, vote average 6.3*
 
-The new story follows the heroic efforts of the crypto-zoological agency Monarch as its members face off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah. When these ancient super-species—thought to be mere myths—rise again, they all vie for supremacy, leaving humanity’s very existence hanging in the balance.
+The X-Men face their most formidable and powerful foe when one of their own, Jean Grey, starts to spiral out of control. During a rescue mission in outer space, Jean is nearly killed when she&#39;s hit by a mysterious cosmic force. Once she returns home, this force not only makes her infinitely more powerful, but far more unstable. The X-Men must now band together to save her soul and battle aliens that want to use Grey&#39;s new abilities to rule the galaxy.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/wVDtmouV9kM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/QWbMckU3AOQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ The new story follows the heroic efforts of the crypto-zoological agency Monarch
 	
 	
 
-### Dark Phoenix
-*Released on 2019-06-05, vote average 6.3*
+### Godzilla: King of the Monsters
+*Released on 2019-05-29, vote average 6.4*
 
-The X-Men face their most formidable and powerful foe when one of their own, Jean Grey, starts to spiral out of control. During a rescue mission in outer space, Jean is nearly killed when she&#39;s hit by a mysterious cosmic force. Once she returns home, this force not only makes her infinitely more powerful, but far more unstable. The X-Men must now band together to save her soul and battle aliens that want to use Grey&#39;s new abilities to rule the galaxy.
+The new story follows the heroic efforts of the crypto-zoological agency Monarch as its members face off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah. When these ancient super-species—thought to be mere myths—rise again, they all vie for supremacy, leaving humanity’s very existence hanging in the balance.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/QWbMckU3AOQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/wVDtmouV9kM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -91,7 +91,7 @@ Sue Ann is a loner who keeps to herself in her quiet Ohio town. One day, she is 
 	
 
 ### Always Be My Maybe
-*Released on 2019-05-31, vote average 6.9*
+*Released on 2019-05-31, vote average 6.8*
 
 Reunited after 15 years, famous chef Sasha and hometown musician Marcus feel the old sparks of attraction but struggle to adapt to each other&#39;s worlds.
 
@@ -132,10 +132,64 @@ Follow the 10-year reunion of the Deadwood camp to celebrate South Dakota&#39;s 
 
 
 	
+
+  
+
+
+	
+	
+
+### Papi Chulo
+*Released on 2019-06-07, vote average 8*
+
+A lonely TV weatherman strikes up an unusual friendship with a middle-aged Latino migrant worker.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/dmtfpB6MUi0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Bharat
+*Released on 2019-06-05, vote average 6.6*
+
+A little boy who is forced to be responsible early on, grows up with no regret of a non- existent childhood. He in fact makes it his life goal to put his family before him. The film follows the journey of Bharat over the course of several decades as he navigates the ups and downs of life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EMMA58snV5I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 
 ### The Wind
-*Released on 2019-06-06, vote average 5*
+*Released on 2019-06-06, vote average 4.3*
 
 A supernatural thriller set in the Western frontier of the late 1800s, The Wind stars Caitlin Gerard as a plains-woman driven mad by the harshness and isolation of the untamed land.
 
@@ -159,15 +213,10 @@ A supernatural thriller set in the Western frontier of the late 1800s, The Wind 
 
 
 	
-
-  
-
-
-	
 	
 
 ### Parasite
-*Released on 2019-05-30, vote average 9.2*
+*Released on 2019-05-30, vote average 9.1*
 
 All unemployed, Ki-taek&#39;s family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.
 
@@ -180,33 +229,6 @@ All unemployed, Ki-taek&#39;s family takes peculiar interest in the wealthy and 
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### Bharat
-*Released on 2019-06-05, vote average 6.1*
-
-A little boy who is forced to be responsible early on, grows up with no regret of a non- existent childhood. He in fact makes it his life goal to put his family before him. The film follows the journey of Bharat over the course of several decades as he navigates the ups and downs of life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EMMA58snV5I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -245,6 +267,8 @@ Seeking justice for his partner’s murder by an ISIS member, a Copenhagen polic
 
 
 	
+	
+	
 
   
 
@@ -257,25 +281,20 @@ Seeking justice for his partner’s murder by an ISIS member, a Copenhagen polic
 	
 	
 
-### The Odds
-*Released on 2019-06-04, vote average 5*
+### Late Night
+*Released on 2019-06-06, vote average 2*
 
-A young woman enlists in an underground game of pain endurance in the hope of winning the million dollar prize. She soon learns the real opponent is the man who&#39;s running the game, as he employs horrific methods to manipulate and defeat her.
+Legendary late-night talk show host&#39;s world is turned upside down when she hires her only female staff writer. Originally intended to smooth over diversity concerns, her decision has unexpectedly hilarious consequences as the two women separated by culture and generation are united by their love of a biting punchline.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/h5z4XQg3l_Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/DxefiCjQirw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
