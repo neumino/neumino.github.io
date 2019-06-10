@@ -113,7 +113,7 @@ Reunited after 15 years, famous chef Sasha and hometown musician Marcus feel the
 	
 
 ### Deadwood: The Movie
-*Released on 2019-05-31, vote average 7.6*
+*Released on 2019-05-31, vote average 7.4*
 
 Follow the 10-year reunion of the Deadwood camp to celebrate South Dakota&#39;s statehood. Former rivalries are reignited, alliances are tested and old wounds are reopened, as all are left to navigate the inevitable changes that modernity and time have wrought.
 
@@ -126,6 +126,99 @@ Follow the 10-year reunion of the Deadwood camp to celebrate South Dakota&#39;s 
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Parasite
+*Released on 2019-05-30, vote average 9*
+
+All unemployed, Ki-taek&#39;s family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/CEIwFAQ-Rec?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Into the Dark: They Come Knocking
+*Released on 2019-06-07, vote average 3*
+
+After losing his wife to cancer, a father takes his two daughters on a road trip where he finds his family in the crosshairs of terrifying supernatural entities.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/H1Q5yetmWmQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -164,148 +257,6 @@ A lonely TV weatherman strikes up an unusual friendship with a middle-aged Latin
 
 
 	
-	
-
-### Bharat
-*Released on 2019-06-05, vote average 6.6*
-
-A little boy who is forced to be responsible early on, grows up with no regret of a non- existent childhood. He in fact makes it his life goal to put his family before him. The film follows the journey of Bharat over the course of several decades as he navigates the ups and downs of life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EMMA58snV5I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Wind
-*Released on 2019-06-06, vote average 4.3*
-
-A supernatural thriller set in the Western frontier of the late 1800s, The Wind stars Caitlin Gerard as a plains-woman driven mad by the harshness and isolation of the untamed land.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Ogh5JldDAj4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Parasite
-*Released on 2019-05-30, vote average 9.1*
-
-All unemployed, Ki-taek&#39;s family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/CEIwFAQ-Rec?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Domino
-*Released on 2019-05-31, vote average 5.3*
-
-Seeking justice for his partner’s murder by an ISIS member, a Copenhagen police officer finds himself caught in a cat and mouse game with a duplicitous CIA agent who is using the killer as a pawn to trap other ISIS members.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pW9_y6gWa6U?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Late Night
-*Released on 2019-06-06, vote average 2*
-
-Legendary late-night talk show host&#39;s world is turned upside down when she hires her only female staff writer. Originally intended to smooth over diversity concerns, her decision has unexpectedly hilarious consequences as the two women separated by culture and generation are united by their love of a biting punchline.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/DxefiCjQirw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 
   
 
@@ -314,6 +265,23 @@ Legendary late-night talk show host&#39;s world is turned upside down when she h
 ## Opening soon
 
 
+	
+	
+
+### Men in Black: International
+*Released on 2019-06-12, vote average 10*
+
+The Men in Black have always protected the Earth from the scum of the universe. In this new adventure, they tackle their biggest, most global threat to date: a mole in the Men in Black organization.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/40ghX7dNuKI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
