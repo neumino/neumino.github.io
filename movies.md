@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Dark Phoenix
-*Released on 2019-06-05, vote average 6.3*
+*Released on 2019-06-05, vote average 6.2*
 
 The X-Men face their most formidable and powerful foe when one of their own, Jean Grey, starts to spiral out of control. During a rescue mission in outer space, Jean is nearly killed when she&#39;s hit by a mysterious cosmic force. Once she returns home, this force not only makes her infinitely more powerful, but far more unstable. The X-Men must now band together to save her soul and battle aliens that want to use Grey&#39;s new abilities to rule the galaxy.
 
@@ -69,7 +69,7 @@ The new story follows the heroic efforts of the crypto-zoological agency Monarch
 	
 
 ### Ma
-*Released on 2019-05-29, vote average 6*
+*Released on 2019-05-29, vote average 6.1*
 
 Sue Ann is a loner who keeps to herself in her quiet Ohio town. One day, she is asked by Maggie, a new teenager in town, to buy some booze for her and her friends, and Sue Ann sees the chance to make some unsuspecting, if younger, friends of her own.
 
@@ -113,7 +113,7 @@ Reunited after 15 years, famous chef Sasha and hometown musician Marcus feel the
 	
 
 ### Deadwood: The Movie
-*Released on 2019-05-31, vote average 7.4*
+*Released on 2019-05-31, vote average 7.5*
 
 Follow the 10-year reunion of the Deadwood camp to celebrate South Dakota&#39;s statehood. Former rivalries are reignited, alliances are tested and old wounds are reopened, as all are left to navigate the inevitable changes that modernity and time have wrought.
 
@@ -145,16 +145,9 @@ Follow the 10-year reunion of the Deadwood camp to celebrate South Dakota&#39;s 
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Parasite
-*Released on 2019-05-30, vote average 9*
+*Released on 2019-05-30, vote average 8.9*
 
 All unemployed, Ki-taek&#39;s family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.
 
@@ -178,33 +171,18 @@ All unemployed, Ki-taek&#39;s family takes peculiar interest in the wealthy and 
 
 
 	
-
-  
-
-
 	
 
-  
+### I Am Mother
+*Released on 2019-06-07, vote average 6.6*
 
-
-	
-
-  
-
-
-	
-	
-
-### Into the Dark: They Come Knocking
-*Released on 2019-06-07, vote average 3*
-
-After losing his wife to cancer, a father takes his two daughters on a road trip where he finds his family in the crosshairs of terrifying supernatural entities.
+A teenage girl is raised underground by a robot &#34;Mother&#34;, designed to repopulate the earth following an extinction event. But their unique bond is threatened when an inexplicable stranger arrives with alarming news.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/H1Q5yetmWmQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/N5BKctcZxrM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -230,22 +208,25 @@ After losing his wife to cancer, a father takes his two daughters on a road trip
 
 
 	
-	
 
-### Papi Chulo
-*Released on 2019-06-07, vote average 8*
+  
 
-A lonely TV weatherman strikes up an unusual friendship with a middle-aged Latino migrant worker.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/dmtfpB6MUi0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -320,6 +301,8 @@ The Men in Black have always protected the Earth from the scum of the universe. 
 
 	
 
+	
+	
 	
 
 
