@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Men in Black: International
-*Released on 2019-06-12, vote average 6.1*
+*Released on 2019-06-12, vote average 6.2*
 
 The Men in Black have always protected the Earth from the scum of the universe. In this new adventure, they tackle their biggest, most global threat to date: a mole in the Men in Black organization.
 
@@ -44,23 +44,6 @@ The Men in Black have always protected the Earth from the scum of the universe. 
 
 
 	
-	
-
-### Toy Story 4
-*Released on 2019-06-19, vote average 4.9*
-
-Woody has always been confident about his place in the world and that his priority is taking care of his kid, whether that&#39;s Andy or Bonnie. But when Bonnie adds a reluctant new toy called &#34;Forky&#34; to her room, a road trip adventure alongside old and new friends will show Woody how big the world can be for a toy.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LDXYRzerjzU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -69,7 +52,7 @@ Woody has always been confident about his place in the world and that his priori
 	
 
 ### Murder Mystery
-*Released on 2019-06-14, vote average 6.6*
+*Released on 2019-06-14, vote average 6.5*
 
 After attending a gathering on a billionaire&#39;s yacht during a European vacation, a New York cop and his wife become prime suspects when he&#39;s murdered.
 
@@ -135,7 +118,7 @@ A teenage girl is raised underground by a robot &#34;Mother&#34;, designed to re
 	
 
 ### Child&#39;s Play
-*Released on 2019-06-19, vote average 3.8*
+*Released on 2019-06-19, vote average 5.2*
 
 The story follows a mother named Karen, who gives her son Andy a toy doll for his birthday, unaware of its sinister nature.
 
@@ -148,11 +131,6 @@ The story follows a mother named Karen, who gives her son Andy a toy doll for hi
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -203,6 +181,8 @@ An agoraphobic hip-hop prodigy and a disgraced former music manager cross paths 
 
 
 	
+	
+	
 
   
 
@@ -212,6 +192,15 @@ An agoraphobic hip-hop prodigy and a disgraced former music manager cross paths 
   
 
 
+	
+	
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -262,37 +251,6 @@ An agoraphobic hip-hop prodigy and a disgraced former music manager cross paths 
 
 
 	
-	
-
-### Anna
-*Released on 2019-06-20, vote average 1*
-
-Beneath Anna Poliatova&#39;s striking beauty lies a secret that will unleash her indelible strength and skill to become one of the world&#39;s most feared government assassins.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/oZSMV-NDH4w?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
 
 	
 
@@ -316,7 +274,41 @@ Casey is attacked at random on the street and enlists in a local dojo led by a c
 	
 
 	
+	
 
+### Kabir Singh
+*Released on 2019-06-21, vote average 6.5*
+
+Kabir Singh is a remake of a south Indian movie Arjun Reddy (2017), where a short-tempered house surgeon gets used to drugs and drinks when his girlfriend is forced to marry the other person.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/eq2ek0mdji4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### Yesterday
+*Released on 2019-06-27, vote average 7.3*
+
+A struggling musician realizes he&#39;s the only person on Earth who can remember The Beatles.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qD6FDkUXSZQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -333,6 +325,22 @@ Casey is attacked at random on the street and enlists in a local dojo led by a c
 
 	
 
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
 	
 
 
