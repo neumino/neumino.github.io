@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Men in Black: International
-*Released on 2019-06-12, vote average 6.2*
+### Toy Story 4
+*Released on 2019-06-19, vote average 7.1*
 
-The Men in Black have always protected the Earth from the scum of the universe. In this new adventure, they tackle their biggest, most global threat to date: a mole in the Men in Black organization.
+Woody has always been confident about his place in the world and that his priority is taking care of his kid, whether that&#39;s Andy or Bonnie. But when Bonnie adds a reluctant new toy called &#34;Forky&#34; to her room, a road trip adventure alongside old and new friends will show Woody how big the world can be for a toy.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/40ghX7dNuKI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/LDXYRzerjzU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -43,6 +43,23 @@ The Men in Black have always protected the Earth from the scum of the universe. 
   
 
 
+	
+	
+
+### Men in Black: International
+*Released on 2019-06-12, vote average 6.1*
+
+The Men in Black have always protected the Earth from the scum of the universe. In this new adventure, they tackle their biggest, most global threat to date: a mole in the Men in Black organization.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/40ghX7dNuKI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -74,7 +91,7 @@ After attending a gathering on a billionaire&#39;s yacht during a European vacat
 	
 
 ### Shaft
-*Released on 2019-06-14, vote average 4.8*
+*Released on 2019-06-14, vote average 4.9*
 
 JJ, aka John Shaft Jr., may be a cyber security expert with a degree from MIT, but to uncover the truth behind his best friend’s untimely death, he needs an education only his dad can provide. Absent throughout JJ’s youth, the legendary locked-and-loaded John Shaft agrees to help his progeny navigate Harlem’s heroin-infested underbelly.
 
@@ -95,30 +112,8 @@ JJ, aka John Shaft Jr., may be a cyber security expert with a degree from MIT, b
 	
 	
 
-### I Am Mother
-*Released on 2019-06-07, vote average 6.6*
-
-A teenage girl is raised underground by a robot &#34;Mother&#34;, designed to repopulate the earth following an extinction event. But their unique bond is threatened when an inexplicable stranger arrives with alarming news.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/N5BKctcZxrM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Child&#39;s Play
-*Released on 2019-06-19, vote average 5.2*
+*Released on 2019-06-19, vote average 5.4*
 
 The story follows a mother named Karen, who gives her son Andy a toy doll for his birthday, unaware of its sinister nature.
 
@@ -139,30 +134,8 @@ The story follows a mother named Karen, who gives her son Andy a toy doll for hi
 	
 	
 
-### Anna
-*Released on 2019-06-20, vote average 1*
-
-Beneath Anna Poliatova&#39;s striking beauty lies a secret that will unleash her indelible strength and skill to become one of the world&#39;s most feared government assassins.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/oZSMV-NDH4w?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Beats
-*Released on 2019-06-19, vote average 7*
+*Released on 2019-06-19, vote average 6.4*
 
 An agoraphobic hip-hop prodigy and a disgraced former music manager cross paths in Chicago’s South Side and help each other face demons of their pasts.
 
@@ -182,12 +155,44 @@ An agoraphobic hip-hop prodigy and a disgraced former music manager cross paths 
 
 	
 	
+
+### Escape Plan: The Extractors
+*Released on 2019-06-20, vote average 4*
+
+TBD: The daughter of a Hong Kong tech executive goes missing in what appears to be a routine ransom job. As Breslin and his crew delve deeper, they discover the culprit is the deranged son of one of their former foes, who also kidnapped Breslin&#39;s love and is holding her inside the massive prison known as Devil&#39;s Station.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fuXHuWYQTxs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
 
 
 	
+	
+
+### Anna
+*Released on 2019-06-20, vote average 4.8*
+
+Beneath Anna Poliatova&#39;s striking beauty lies a secret that will unleash her indelible strength and skill to become one of the world&#39;s most feared government assassins.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/oZSMV-NDH4w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -201,6 +206,48 @@ An agoraphobic hip-hop prodigy and a disgraced former music manager cross paths 
 
 	
 	
+
+### Kabir Singh
+*Released on 2019-06-21, vote average 7.5*
+
+Kabir Singh, a short-tempered house surgeon gets used to drugs and drinks when his girlfriend is forced to marry the other person.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/eq2ek0mdji4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Art of Self-Defense
+*Released on 2019-06-21, vote average 1*
+
+Casey is attacked at random on the street and enlists in a local dojo led by a charismatic and mysterious Sensei in an effort to learn how to defend himself. What he uncovers is a sinister world of fraternity, violence and hypermasculinity and a woman fighting for her place in it.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Td0oBCWO_I4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -257,44 +304,6 @@ An agoraphobic hip-hop prodigy and a disgraced former music manager cross paths 
 	
 	
 
-### The Art of Self-Defense
-*Released on 2019-06-21, vote average 1*
-
-Casey is attacked at random on the street and enlists in a local dojo led by a charismatic and mysterious Sensei in an effort to learn how to defend himself. What he uncovers is a sinister world of fraternity, violence and hypermasculinity and a woman fighting for her place in it.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Td0oBCWO_I4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Kabir Singh
-*Released on 2019-06-21, vote average 6.5*
-
-Kabir Singh is a remake of a south Indian movie Arjun Reddy (2017), where a short-tempered house surgeon gets used to drugs and drinks when his girlfriend is forced to marry the other person.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/eq2ek0mdji4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
 ### Yesterday
 *Released on 2019-06-27, vote average 7.3*
 
@@ -340,7 +349,9 @@ A struggling musician realizes he&#39;s the only person on Earth who can remembe
 	
 
 	
+
 	
+
 	
 
 
