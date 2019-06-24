@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Toy Story 4
-*Released on 2019-06-19, vote average 7.1*
+*Released on 2019-06-19, vote average 7.4*
 
 Woody has always been confident about his place in the world and that his priority is taking care of his kid, whether that&#39;s Andy or Bonnie. But when Bonnie adds a reluctant new toy called &#34;Forky&#34; to her room, a road trip adventure alongside old and new friends will show Woody how big the world can be for a toy.
 
@@ -90,74 +90,8 @@ After attending a gathering on a billionaire&#39;s yacht during a European vacat
 	
 	
 
-### Shaft
-*Released on 2019-06-14, vote average 4.9*
-
-JJ, aka John Shaft Jr., may be a cyber security expert with a degree from MIT, but to uncover the truth behind his best friend’s untimely death, he needs an education only his dad can provide. Absent throughout JJ’s youth, the legendary locked-and-loaded John Shaft agrees to help his progeny navigate Harlem’s heroin-infested underbelly.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/lD41XdWcmbY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Child&#39;s Play
-*Released on 2019-06-19, vote average 5.4*
-
-The story follows a mother named Karen, who gives her son Andy a toy doll for his birthday, unaware of its sinister nature.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZFy8ZgLd574?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Beats
-*Released on 2019-06-19, vote average 6.4*
-
-An agoraphobic hip-hop prodigy and a disgraced former music manager cross paths in Chicago’s South Side and help each other face demons of their pasts.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/sf8h-L7ohWM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Escape Plan: The Extractors
-*Released on 2019-06-20, vote average 4*
+*Released on 2019-06-20, vote average 4.6*
 
 TBD: The daughter of a Hong Kong tech executive goes missing in what appears to be a routine ransom job. As Breslin and his crew delve deeper, they discover the culprit is the deranged son of one of their former foes, who also kidnapped Breslin&#39;s love and is holding her inside the massive prison known as Devil&#39;s Station.
 
@@ -178,8 +112,81 @@ TBD: The daughter of a Hong Kong tech executive goes missing in what appears to 
 	
 	
 
+### Child&#39;s Play
+*Released on 2019-06-19, vote average 5.5*
+
+The story follows a mother named Karen, who gives her son Andy a toy doll for his birthday, unaware of its sinister nature.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZFy8ZgLd574?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Shaft
+*Released on 2019-06-14, vote average 5*
+
+JJ, aka John Shaft Jr., may be a cyber security expert with a degree from MIT, but to uncover the truth behind his best friend’s untimely death, he needs an education only his dad can provide. Absent throughout JJ’s youth, the legendary locked-and-loaded John Shaft agrees to help his progeny navigate Harlem’s heroin-infested underbelly.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/lD41XdWcmbY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Beats
+*Released on 2019-06-19, vote average 6*
+
+An agoraphobic hip-hop prodigy and a disgraced former music manager cross paths in Chicago’s South Side and help each other face demons of their pasts.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/sf8h-L7ohWM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
 ### Anna
-*Released on 2019-06-20, vote average 4.8*
+*Released on 2019-06-20, vote average 4.7*
 
 Beneath Anna Poliatova&#39;s striking beauty lies a secret that will unleash her indelible strength and skill to become one of the world&#39;s most feared government assassins.
 
@@ -204,45 +211,6 @@ Beneath Anna Poliatova&#39;s striking beauty lies a secret that will unleash her
   
 
 
-	
-	
-
-### Kabir Singh
-*Released on 2019-06-21, vote average 7.5*
-
-Kabir Singh, a short-tempered house surgeon gets used to drugs and drinks when his girlfriend is forced to marry the other person.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/eq2ek0mdji4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Art of Self-Defense
-*Released on 2019-06-21, vote average 1*
-
-Casey is attacked at random on the street and enlists in a local dojo led by a charismatic and mysterious Sensei in an effort to learn how to defend himself. What he uncovers is a sinister world of fraternity, violence and hypermasculinity and a woman fighting for her place in it.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Td0oBCWO_I4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -299,6 +267,23 @@ Casey is attacked at random on the street and enlists in a local dojo led by a c
 
 	
 
+	
+	
+
+### Annabelle Comes Home
+*Released on 2019-06-26, vote average 9*
+
+Determined to keep Annabelle from wreaking more havoc, demonologists Ed and Lorraine Warren bring the possessed doll to the locked artifacts room in their home, placing her “safely” behind sacred glass and enlisting a priest’s holy blessing. But an unholy night of horror awaits as Annabelle awakens the evil spirits in the room, who all set their sights on a new target—the Warrens&#39; ten-year-old daughter, Judy, and her friends.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/UULg8WnOAOo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
