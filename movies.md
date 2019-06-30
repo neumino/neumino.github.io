@@ -47,7 +47,7 @@ Woody has always been confident about his place in the world and that his priori
 	
 
 ### Spider-Man: Far from Home
-*Released on 2019-06-28, vote average 6.1*
+*Released on 2019-06-28, vote average 6.2*
 
 Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.
 
@@ -69,7 +69,7 @@ Peter Parker and his friends go on a summer trip to Europe. However, they will h
 	
 
 ### Annabelle Comes Home
-*Released on 2019-06-26, vote average 6.2*
+*Released on 2019-06-26, vote average 6.4*
 
 Determined to keep Annabelle from wreaking more havoc, demonologists Ed and Lorraine Warren bring the possessed doll to the locked artifacts room in their home, placing her “safely” behind sacred glass and enlisting a priest’s holy blessing. But an unholy night of horror awaits as Annabelle awakens the evil spirits in the room, who all set their sights on a new target—the Warrens&#39; ten-year-old daughter, Judy, and her friends.
 
@@ -113,7 +113,7 @@ Karen, a single mother, gifts her son Andy a Buddi doll for his birthday, unawar
 	
 
 ### Escape Plan: The Extractors
-*Released on 2019-06-20, vote average 4.8*
+*Released on 2019-06-20, vote average 4.9*
 
 After security expert Ray Breslin is hired to rescue the kidnapped daughter of a Hong Kong tech mogul from a formidable Latvian prison, Breslin&#39;s girlfriend is also captured. Now he and his team must pull off a deadly rescue mission to confront their sadistic foe and save the hostages before time runs out.
 
@@ -134,8 +134,30 @@ After security expert Ray Breslin is hired to rescue the kidnapped daughter of a
 	
 	
 
+### Anna
+*Released on 2019-06-20, vote average 4.4*
+
+Beneath Anna Poliatova&#39;s striking beauty lies a secret that will unleash her indelible strength and skill to become one of the world&#39;s most feared government assassins.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/oZSMV-NDH4w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Yesterday
-*Released on 2019-06-27, vote average 6.4*
+*Released on 2019-06-27, vote average 6.3*
 
 A struggling musician realizes he&#39;s the only person on Earth who can remember The Beatles.
 
@@ -156,65 +178,16 @@ A struggling musician realizes he&#39;s the only person on Earth who can remembe
 	
 	
 
-### Anna
-*Released on 2019-06-20, vote average 4.7*
+### Killers Anonymous
+*Released on 2019-06-27, vote average 5.3*
 
-Beneath Anna Poliatova&#39;s striking beauty lies a secret that will unleash her indelible strength and skill to become one of the world&#39;s most feared government assassins.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/oZSMV-NDH4w?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Turma da Mônica: Laços
-*Released on 2019-06-27, vote average 9.5*
-
-Fluffy, Jimmy Five&#39;s pet dog, vanished. He develops an infallible plan to rescue the little dog, but, he will need help from his faithful friends: Monica, Maggy and Smudge. Together, they will face challengers and live incredible adventures to get Fluffy back home.
+A failed attempt to murder a Senator is connected to a group meeting secretly to discuss their darkest urges. To take lives.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/XGDKzNFjO2g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Beats
-*Released on 2019-06-19, vote average 6.5*
-
-An agoraphobic hip-hop prodigy and a disgraced former music manager cross paths in Chicago’s South Side and help each other face demons of their pasts.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/sf8h-L7ohWM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ANR-XRrvvyQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -255,14 +228,20 @@ An agoraphobic hip-hop prodigy and a disgraced former music manager cross paths 
 
 
 	
-	
+
+  
+
+
 	
 
   
 
 
 	
-	
+
+  
+
+
 	
 
   
