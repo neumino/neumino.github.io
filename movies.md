@@ -47,7 +47,7 @@ Woody has always been confident about his place in the world and that his priori
 	
 
 ### Spider-Man: Far from Home
-*Released on 2019-06-28, vote average 6.2*
+*Released on 2019-06-28, vote average 6.5*
 
 Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.
 
@@ -91,7 +91,7 @@ Determined to keep Annabelle from wreaking more havoc, demonologists Ed and Lorr
 	
 
 ### Child&#39;s Play
-*Released on 2019-06-19, vote average 5.9*
+*Released on 2019-06-19, vote average 5.8*
 
 Karen, a single mother, gifts her son Andy a Buddi doll for his birthday, unaware of its more sinister nature. A contemporary re-imagining of the 1988 horror classic.
 
@@ -135,7 +135,7 @@ After security expert Ray Breslin is hired to rescue the kidnapped daughter of a
 	
 
 ### Anna
-*Released on 2019-06-20, vote average 4.4*
+*Released on 2019-06-20, vote average 4.5*
 
 Beneath Anna Poliatova&#39;s striking beauty lies a secret that will unleash her indelible strength and skill to become one of the world&#39;s most feared government assassins.
 
@@ -156,30 +156,8 @@ Beneath Anna Poliatova&#39;s striking beauty lies a secret that will unleash her
 	
 	
 
-### Yesterday
-*Released on 2019-06-27, vote average 6.3*
-
-A struggling musician realizes he&#39;s the only person on Earth who can remember The Beatles.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qD6FDkUXSZQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Killers Anonymous
-*Released on 2019-06-27, vote average 5.3*
+*Released on 2019-06-27, vote average 5*
 
 A failed attempt to murder a Senator is connected to a group meeting secretly to discuss their darkest urges. To take lives.
 
@@ -198,6 +176,23 @@ A failed attempt to murder a Senator is connected to a group meeting secretly to
 
 
 	
+	
+
+### Yesterday
+*Released on 2019-06-27, vote average 6.5*
+
+Jack Malik is a struggling singer-songwriter in an English seaside town whose dreams of fame are rapidly fading, despite the fierce devotion and support of his childhood best friend, Ellie. After a freak bus accident during a mysterious global blackout, Jack wakes up to discover that he&#39;s the only person on Earth who can remember The Beatles.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qD6FDkUXSZQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -207,6 +202,30 @@ A failed attempt to murder a Senator is connected to a group meeting secretly to
   
 
 
+	
+	
+
+### ANIMA
+*Released on 2019-06-27, vote average 8.2*
+
+In a short musical film directed by Paul Thomas Anderson, Thom Yorke of Radiohead scores and stars in a mind-bending visual piece. Best played loud.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/YNYJ_BJJbzI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -262,7 +281,22 @@ A failed attempt to murder a Senator is connected to a group meeting secretly to
 
 
 	
+	
 
+### Midsommar
+*Released on 2019-07-03, vote average 8*
+
+A young couple travels to Sweden to visit their friend’s rural hometown and attend its mid-summer festival. What begins as an idyllic retreat quickly descends into an increasingly violent and bizarre competition at the hands of a pagan cult.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/I0UWIya-O0s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -291,6 +325,25 @@ A failed attempt to murder a Senator is connected to a group meeting secretly to
 
 	
 
+	
+
+	
+	
+
+### My Days of Mercy
+*Released on 2019-07-04, vote average 8*
+
+The daughter of a man on death row falls in love with a woman on the opposing side of her family&#39;s political cause.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/AUHJYcxB-vE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
