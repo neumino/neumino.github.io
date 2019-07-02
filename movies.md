@@ -69,7 +69,7 @@ Peter Parker and his friends go on a summer trip to Europe. However, they will h
 	
 
 ### Annabelle Comes Home
-*Released on 2019-06-26, vote average 6.4*
+*Released on 2019-06-26, vote average 6.3*
 
 Determined to keep Annabelle from wreaking more havoc, demonologists Ed and Lorraine Warren bring the possessed doll to the locked artifacts room in their home, placing her “safely” behind sacred glass and enlisting a priest’s holy blessing. But an unholy night of horror awaits as Annabelle awakens the evil spirits in the room, who all set their sights on a new target—the Warrens&#39; ten-year-old daughter, Judy, and her friends.
 
@@ -112,16 +112,16 @@ Karen, a single mother, gifts her son Andy a Buddi doll for his birthday, unawar
 	
 	
 
-### Escape Plan: The Extractors
-*Released on 2019-06-20, vote average 4.9*
+### Yesterday
+*Released on 2019-06-27, vote average 6.5*
 
-After security expert Ray Breslin is hired to rescue the kidnapped daughter of a Hong Kong tech mogul from a formidable Latvian prison, Breslin&#39;s girlfriend is also captured. Now he and his team must pull off a deadly rescue mission to confront their sadistic foe and save the hostages before time runs out.
+Jack Malik is a struggling singer-songwriter in an English seaside town whose dreams of fame are rapidly fading, despite the fierce devotion and support of his childhood best friend, Ellie. After a freak bus accident during a mysterious global blackout, Jack wakes up to discover that he&#39;s the only person on Earth who can remember The Beatles.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/fuXHuWYQTxs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/qD6FDkUXSZQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -156,16 +156,16 @@ Beneath Anna Poliatova&#39;s striking beauty lies a secret that will unleash her
 	
 	
 
-### Killers Anonymous
-*Released on 2019-06-27, vote average 5*
+### Escape Plan: The Extractors
+*Released on 2019-06-20, vote average 4.8*
 
-A failed attempt to murder a Senator is connected to a group meeting secretly to discuss their darkest urges. To take lives.
+After security expert Ray Breslin is hired to rescue the kidnapped daughter of a Hong Kong tech mogul from a formidable Latvian prison, Breslin&#39;s girlfriend is also captured. Now he and his team must pull off a deadly rescue mission to confront their sadistic foe and save the hostages before time runs out.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ANR-XRrvvyQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/fuXHuWYQTxs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -178,20 +178,69 @@ A failed attempt to murder a Senator is connected to a group meeting secretly to
 	
 	
 
-### Yesterday
-*Released on 2019-06-27, vote average 6.5*
+### Killers Anonymous
+*Released on 2019-06-27, vote average 4.4*
 
-Jack Malik is a struggling singer-songwriter in an English seaside town whose dreams of fame are rapidly fading, despite the fierce devotion and support of his childhood best friend, Ellie. After a freak bus accident during a mysterious global blackout, Jack wakes up to discover that he&#39;s the only person on Earth who can remember The Beatles.
+A failed attempt to murder a Senator is connected to a group meeting secretly to discuss their darkest urges—to take lives.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/qD6FDkUXSZQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/bmRieb7Nwic?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### AEW: Fyter Fest
+*Released on 2019-06-29, vote average 10*
+
+Fyter Fest is a professional wrestling event promoted by All Elite Wrestling. This is the second event under the AEW banner and took place on June 29, 2019, at Ocean Center in Daytona Beach, Florida alongside the Community Effort Orlando fighting game event.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/TS3E-T6ZH2Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -206,7 +255,7 @@ Jack Malik is a struggling singer-songwriter in an English seaside town whose dr
 	
 
 ### ANIMA
-*Released on 2019-06-27, vote average 8.2*
+*Released on 2019-06-27, vote average 8.1*
 
 In a short musical film directed by Paul Thomas Anderson, Thom Yorke of Radiohead scores and stars in a mind-bending visual piece. Best played loud.
 
@@ -219,38 +268,6 @@ In a short musical film directed by Paul Thomas Anderson, Thom Yorke of Radiohea
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -302,32 +319,6 @@ A young couple travels to Sweden to visit their friend’s rural hometown and at
 	
 
 	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
 	
 
 ### My Days of Mercy
@@ -344,6 +335,49 @@ The daughter of a man on death row falls in love with a woman on the opposing si
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Into the Dark: Culture Shock
+*Released on 2019-07-04, vote average 1*
+
+A young Mexican woman crosses the border in search of the American dream, only to instead find her worst nightmare lying within.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/tM2E3LUYPig?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
 	
 
 	
