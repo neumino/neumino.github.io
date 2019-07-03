@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Toy Story 4
-*Released on 2019-06-19, vote average 7.7*
+*Released on 2019-06-19, vote average 7.8*
 
 Woody has always been confident about his place in the world and that his priority is taking care of his kid, whether that&#39;s Andy or Bonnie. But when Bonnie adds a reluctant new toy called &#34;Forky&#34; to her room, a road trip adventure alongside old and new friends will show Woody how big the world can be for a toy.
 
@@ -47,7 +47,7 @@ Woody has always been confident about his place in the world and that his priori
 	
 
 ### Spider-Man: Far from Home
-*Released on 2019-06-28, vote average 6.5*
+*Released on 2019-06-28, vote average 6.8*
 
 Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.
 
@@ -69,7 +69,7 @@ Peter Parker and his friends go on a summer trip to Europe. However, they will h
 	
 
 ### Annabelle Comes Home
-*Released on 2019-06-26, vote average 6.3*
+*Released on 2019-06-26, vote average 6.4*
 
 Determined to keep Annabelle from wreaking more havoc, demonologists Ed and Lorraine Warren bring the possessed doll to the locked artifacts room in their home, placing her “safely” behind sacred glass and enlisting a priest’s holy blessing. But an unholy night of horror awaits as Annabelle awakens the evil spirits in the room, who all set their sights on a new target—the Warrens&#39; ten-year-old daughter, Judy, and her friends.
 
@@ -113,7 +113,7 @@ Karen, a single mother, gifts her son Andy a Buddi doll for his birthday, unawar
 	
 
 ### Yesterday
-*Released on 2019-06-27, vote average 6.5*
+*Released on 2019-06-27, vote average 6.4*
 
 Jack Malik is a struggling singer-songwriter in an English seaside town whose dreams of fame are rapidly fading, despite the fierce devotion and support of his childhood best friend, Ellie. After a freak bus accident during a mysterious global blackout, Jack wakes up to discover that he&#39;s the only person on Earth who can remember The Beatles.
 
@@ -134,16 +134,16 @@ Jack Malik is a struggling singer-songwriter in an English seaside town whose dr
 	
 	
 
-### Anna
-*Released on 2019-06-20, vote average 4.5*
+### Killers Anonymous
+*Released on 2019-06-27, vote average 4.4*
 
-Beneath Anna Poliatova&#39;s striking beauty lies a secret that will unleash her indelible strength and skill to become one of the world&#39;s most feared government assassins.
+A failed attempt to murder a Senator is connected to a group meeting secretly to discuss their darkest urges—to take lives.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/oZSMV-NDH4w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/bmRieb7Nwic?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -178,16 +178,16 @@ After security expert Ray Breslin is hired to rescue the kidnapped daughter of a
 	
 	
 
-### Killers Anonymous
-*Released on 2019-06-27, vote average 4.4*
+### Anna
+*Released on 2019-06-20, vote average 4.8*
 
-A failed attempt to murder a Senator is connected to a group meeting secretly to discuss their darkest urges—to take lives.
+Beneath Anna Poliatova&#39;s striking beauty lies a secret that will unleash her indelible strength and skill to become one of the world&#39;s most feared government assassins.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/bmRieb7Nwic?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/oZSMV-NDH4w?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -199,53 +199,21 @@ A failed attempt to murder a Senator is connected to a group meeting secretly to
 
 	
 	
-	
 
-  
+### Midsommar
+*Released on 2019-07-03, vote average 8*
 
-
-	
-	
-
-### AEW: Fyter Fest
-*Released on 2019-06-29, vote average 10*
-
-Fyter Fest is a professional wrestling event promoted by All Elite Wrestling. This is the second event under the AEW banner and took place on June 29, 2019, at Ocean Center in Daytona Beach, Florida alongside the Community Effort Orlando fighting game event.
+A young couple travels to Sweden to visit their friend’s rural hometown and attend its mid-summer festival. What begins as an idyllic retreat quickly descends into an increasingly violent and bizarre competition at the hands of a pagan cult.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/TS3E-T6ZH2Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/I0UWIya-O0s?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -268,6 +236,38 @@ In a short musical film directed by Paul Thomas Anderson, Thom Yorke of Radiohea
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -319,6 +319,8 @@ A young couple travels to Sweden to visit their friend’s rural hometown and at
 	
 
 	
+
+	
 	
 
 ### My Days of Mercy
@@ -354,10 +356,6 @@ The daughter of a man on death row falls in love with a woman on the opposing si
 	
 
 	
-
-	
-
-	
 	
 
 ### Into the Dark: Culture Shock
@@ -374,6 +372,8 @@ A young Mexican woman crosses the border in search of the American dream, only t
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
