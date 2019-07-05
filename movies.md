@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Spider-Man: Far from Home
-*Released on 2019-06-28, vote average 7.5*
+*Released on 2019-06-28, vote average 7.8*
 
 Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.
 
@@ -47,7 +47,7 @@ Peter Parker and his friends go on a summer trip to Europe. However, they will h
 	
 
 ### Annabelle Comes Home
-*Released on 2019-06-26, vote average 6.5*
+*Released on 2019-06-26, vote average 6.4*
 
 Determined to keep Annabelle from wreaking more havoc, demonologists Ed and Lorraine Warren bring the possessed doll to the locked artifacts room in their home, placing her “safely” behind sacred glass and enlisting a priest’s holy blessing. But an unholy night of horror awaits as Annabelle awakens the evil spirits in the room, who all set their sights on a new target—the Warrens&#39; ten-year-old daughter, Judy, and her friends.
 
@@ -56,6 +56,28 @@ Determined to keep Annabelle from wreaking more havoc, demonologists Ed and Lorr
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/UULg8WnOAOo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Midsommar
+*Released on 2019-07-03, vote average 6.4*
+
+A young couple travels to Sweden to visit their friend’s rural hometown and attend its mid-summer festival. What begins as an idyllic retreat quickly descends into an increasingly violent and bizarre competition at the hands of a pagan cult.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/I0UWIya-O0s?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -90,60 +112,16 @@ Jack Malik is a struggling singer-songwriter in an English seaside town whose dr
 	
 	
 
-### Escape Plan: The Extractors
-*Released on 2019-06-20, vote average 4.8*
+### My Days of Mercy
+*Released on 2019-07-04, vote average 8*
 
-After security expert Ray Breslin is hired to rescue the kidnapped daughter of a Hong Kong tech mogul from a formidable Latvian prison, Breslin&#39;s girlfriend is also captured. Now he and his team must pull off a deadly rescue mission to confront their sadistic foe and save the hostages before time runs out.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/fuXHuWYQTxs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Midsommar
-*Released on 2019-07-03, vote average 5.6*
-
-A young couple travels to Sweden to visit their friend’s rural hometown and attend its mid-summer festival. What begins as an idyllic retreat quickly descends into an increasingly violent and bizarre competition at the hands of a pagan cult.
+The daughter of a man on death row falls in love with a woman on the opposing side of her family&#39;s political cause.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/I0UWIya-O0s?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Anna
-*Released on 2019-06-20, vote average 5.5*
-
-Beneath Anna Poliatova&#39;s striking beauty lies a secret that will unleash her indelible strength and skill to become one of the world&#39;s most feared government assassins.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/oZSMV-NDH4w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/AUHJYcxB-vE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -157,7 +135,7 @@ Beneath Anna Poliatova&#39;s striking beauty lies a secret that will unleash her
 	
 
 ### Killers Anonymous
-*Released on 2019-06-27, vote average 3.7*
+*Released on 2019-06-27, vote average 3.5*
 
 A failed attempt to murder a Senator is connected to a group meeting secretly to discuss their darkest urges—to take lives.
 
@@ -181,18 +159,23 @@ A failed attempt to murder a Senator is connected to a group meeting secretly to
 
 
 	
+
+  
+
+
+	
 	
 
-### My Days of Mercy
-*Released on 2019-07-04, vote average 8*
+### Into the Dark: Culture Shock
+*Released on 2019-07-04, vote average 5*
 
-The daughter of a man on death row falls in love with a woman on the opposing side of her family&#39;s political cause.
+A young Mexican woman crosses the border in search of the American dream, only to instead find her worst nightmare lying within.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/AUHJYcxB-vE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/tM2E3LUYPig?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -208,12 +191,27 @@ The daughter of a man on death row falls in love with a woman on the opposing si
 
 
 	
-	
-	
 
   
 
 
+	
+	
+
+### Ophelia
+*Released on 2019-06-28, vote average 6*
+
+Ophelia comes of age as lady-in-waiting for Queen Gertrude, and her singular spirit captures Hamlet&#39;s affections. As lust and betrayal threaten the kingdom, Ophelia finds herself trapped between true love and controlling her own destiny.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MP1PTOiPVQo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -264,45 +262,11 @@ The daughter of a man on death row falls in love with a woman on the opposing si
 
 
 	
-	
-
-### My Days of Mercy
-*Released on 2019-07-04, vote average 8*
-
-The daughter of a man on death row falls in love with a woman on the opposing side of her family&#39;s political cause.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/AUHJYcxB-vE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
 	
 
-	
-	
-
-### Into the Dark: Culture Shock
-*Released on 2019-07-04, vote average 1*
-
-A young Mexican woman crosses the border in search of the American dream, only to instead find her worst nightmare lying within.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tM2E3LUYPig?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
