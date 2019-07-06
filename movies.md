@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Spider-Man: Far from Home
-*Released on 2019-06-28, vote average 7.8*
+*Released on 2019-06-28, vote average 7.9*
 
 Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.
 
@@ -68,16 +68,16 @@ Determined to keep Annabelle from wreaking more havoc, demonologists Ed and Lorr
 	
 	
 
-### Midsommar
-*Released on 2019-07-03, vote average 6.4*
+### Yesterday
+*Released on 2019-06-27, vote average 6.5*
 
-A young couple travels to Sweden to visit their friend’s rural hometown and attend its mid-summer festival. What begins as an idyllic retreat quickly descends into an increasingly violent and bizarre competition at the hands of a pagan cult.
+Jack Malik is a struggling singer-songwriter in an English seaside town whose dreams of fame are rapidly fading, despite the fierce devotion and support of his childhood best friend, Ellie. After a freak bus accident during a mysterious global blackout, Jack wakes up to discover that he&#39;s the only person on Earth who can remember The Beatles.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/I0UWIya-O0s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/qD6FDkUXSZQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -90,16 +90,16 @@ A young couple travels to Sweden to visit their friend’s rural hometown and at
 	
 	
 
-### Yesterday
-*Released on 2019-06-27, vote average 6.5*
+### Midsommar
+*Released on 2019-07-03, vote average 6.8*
 
-Jack Malik is a struggling singer-songwriter in an English seaside town whose dreams of fame are rapidly fading, despite the fierce devotion and support of his childhood best friend, Ellie. After a freak bus accident during a mysterious global blackout, Jack wakes up to discover that he&#39;s the only person on Earth who can remember The Beatles.
+A young couple travels to Sweden to visit their friend’s rural hometown and attend its mid-summer festival. What begins as an idyllic retreat quickly descends into an increasingly violent and bizarre competition at the hands of a pagan cult.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/qD6FDkUXSZQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/I0UWIya-O0s?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,30 +134,20 @@ The daughter of a man on death row falls in love with a woman on the opposing si
 	
 	
 
-### Killers Anonymous
-*Released on 2019-06-27, vote average 3.5*
+### Ophelia
+*Released on 2019-06-28, vote average 6*
 
-A failed attempt to murder a Senator is connected to a group meeting secretly to discuss their darkest urges—to take lives.
+Ophelia comes of age as lady-in-waiting for Queen Gertrude, and her singular spirit captures Hamlet&#39;s affections. As lust and betrayal threaten the kingdom, Ophelia finds herself trapped between true love and controlling her own destiny.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/bmRieb7Nwic?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/MP1PTOiPVQo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -196,22 +186,15 @@ A young Mexican woman crosses the border in search of the American dream, only t
 
 
 	
-	
 
-### Ophelia
-*Released on 2019-06-28, vote average 6*
+  
 
-Ophelia comes of age as lady-in-waiting for Queen Gertrude, and her singular spirit captures Hamlet&#39;s affections. As lust and betrayal threaten the kingdom, Ophelia finds herself trapped between true love and controlling her own destiny.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MP1PTOiPVQo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
 	
 
   
@@ -269,6 +252,23 @@ Ophelia comes of age as lady-in-waiting for Queen Gertrude, and her singular spi
 
 	
 
+	
+	
+
+### Stuber
+*Released on 2019-07-11, vote average 6.5*
+
+After crashing his car, a cop who&#39;s recovering from eye surgery recruits an Uber driver to help him catch a heroin dealer. The mismatched pair soon find themselves in for a wild day of stakeouts and shootouts as they encounter the city&#39;s seedy side.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/i5l6a5RiR1E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
