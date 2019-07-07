@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Spider-Man: Far from Home
-*Released on 2019-06-28, vote average 7.9*
+*Released on 2019-06-28, vote average 7.8*
 
 Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.
 
@@ -69,7 +69,7 @@ Determined to keep Annabelle from wreaking more havoc, demonologists Ed and Lorr
 	
 
 ### Yesterday
-*Released on 2019-06-27, vote average 6.5*
+*Released on 2019-06-27, vote average 6.6*
 
 Jack Malik is a struggling singer-songwriter in an English seaside town whose dreams of fame are rapidly fading, despite the fierce devotion and support of his childhood best friend, Ellie. After a freak bus accident during a mysterious global blackout, Jack wakes up to discover that he&#39;s the only person on Earth who can remember The Beatles.
 
@@ -110,23 +110,6 @@ A young couple travels to Sweden to visit their friend’s rural hometown and at
 
 
 	
-	
-
-### My Days of Mercy
-*Released on 2019-07-04, vote average 8*
-
-The daughter of a man on death row falls in love with a woman on the opposing side of her family&#39;s political cause.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/AUHJYcxB-vE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -154,18 +137,75 @@ Ophelia comes of age as lady-in-waiting for Queen Gertrude, and her singular spi
 
 
 	
+
+  
+
+
 	
 
-### Into the Dark: Culture Shock
-*Released on 2019-07-04, vote average 5*
+  
 
-A young Mexican woman crosses the border in search of the American dream, only to instead find her worst nightmare lying within.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Killers Anonymous
+*Released on 2019-06-27, vote average 3.8*
+
+A failed attempt to murder a Senator is connected to a group meeting secretly to discuss their darkest urges—to take lives.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/tM2E3LUYPig?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/bmRieb7Nwic?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### My Days of Mercy
+*Released on 2019-07-04, vote average 8*
+
+The daughter of a man on death row falls in love with a woman on the opposing side of her family&#39;s political cause.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/AUHJYcxB-vE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -196,45 +236,22 @@ A young Mexican woman crosses the border in search of the American dream, only t
 
 
 	
-
-  
-
-
 	
 
-  
+### Pathinettam Padi
+*Released on 2019-07-05, vote average 6.5*
 
+Students of two schools in Thiruvananthapuram that cater to different economical classes are in a tussle. While one set struggles for survival, the other is busy finding joy in drugs. The two groups keep finding reasons to mess with each other. Will they find the purpose of their lives amid the chaos?
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/22rLzgXTC8g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -243,8 +260,6 @@ A young Mexican woman crosses the border in search of the American dream, only t
 
 ## Opening soon
 
-
-	
 
 	
 
@@ -278,7 +293,22 @@ After crashing his car, a cop who&#39;s recovering from eye surgery recruits an 
 	
 
 	
+	
 
+### The Art of Self-Defense
+*Released on 2019-07-12, vote average 8*
+
+Casey is attacked at random on the street and enlists in a local dojo led by a charismatic and mysterious Sensei in an effort to learn how to defend himself. What he uncovers is a sinister world of fraternity, violence and hypermasculinity and a woman fighting for her place in it.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Td0oBCWO_I4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -295,6 +325,27 @@ After crashing his car, a cop who&#39;s recovering from eye surgery recruits an 
 
 	
 
+	
+
+	
+
+	
+	
+
+### The Farewell
+*Released on 2019-07-12, vote average 9*
+
+A headstrong Chinese-American woman returns to China when her beloved grandmother is given a terminal diagnosis. Billi struggles with her family&#39;s decision to keep grandma in the dark about her own illness as they all stage an impromptu wedding to see grandma one last time.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/RofpAjqwMa8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
