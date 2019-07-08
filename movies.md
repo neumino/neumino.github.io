@@ -47,7 +47,7 @@ Peter Parker and his friends go on a summer trip to Europe. However, they will h
 	
 
 ### Annabelle Comes Home
-*Released on 2019-06-26, vote average 6.4*
+*Released on 2019-06-26, vote average 6.3*
 
 Determined to keep Annabelle from wreaking more havoc, demonologists Ed and Lorraine Warren bring the possessed doll to the locked artifacts room in their home, placing her “safely” behind sacred glass and enlisting a priest’s holy blessing. But an unholy night of horror awaits as Annabelle awakens the evil spirits in the room, who all set their sights on a new target—the Warrens&#39; ten-year-old daughter, Judy, and her friends.
 
@@ -69,7 +69,7 @@ Determined to keep Annabelle from wreaking more havoc, demonologists Ed and Lorr
 	
 
 ### Yesterday
-*Released on 2019-06-27, vote average 6.6*
+*Released on 2019-06-27, vote average 6.7*
 
 Jack Malik is a struggling singer-songwriter in an English seaside town whose dreams of fame are rapidly fading, despite the fierce devotion and support of his childhood best friend, Ellie. After a freak bus accident during a mysterious global blackout, Jack wakes up to discover that he&#39;s the only person on Earth who can remember The Beatles.
 
@@ -115,6 +115,11 @@ A young couple travels to Sweden to visit their friend’s rural hometown and at
 
 
 	
+
+  
+
+
+	
 	
 
 ### Ophelia
@@ -137,31 +142,6 @@ Ophelia comes of age as lady-in-waiting for Queen Gertrude, and her singular spi
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### Killers Anonymous
@@ -178,6 +158,21 @@ A failed attempt to murder a Senator is connected to a group meeting secretly to
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -221,33 +216,18 @@ The daughter of a man on death row falls in love with a woman on the opposing si
 
 
 	
-
-  
-
-
 	
 
-  
+### Culture Shock
+*Released on 2019-07-04, vote average 5.8*
 
-
-	
-
-  
-
-
-	
-	
-
-### Pathinettam Padi
-*Released on 2019-07-05, vote average 6.5*
-
-Students of two schools in Thiruvananthapuram that cater to different economical classes are in a tussle. While one set struggles for survival, the other is busy finding joy in drugs. The two groups keep finding reasons to mess with each other. Will they find the purpose of their lives amid the chaos?
+A young Mexican woman crosses the border in search of the American dream, only to instead find her worst nightmare lying within.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/22rLzgXTC8g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/tM2E3LUYPig?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -257,11 +237,29 @@ Students of two schools in Thiruvananthapuram that cater to different economical
   
 
 
+	
 
-## Opening soon
+  
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+
+## Opening soon
+
 
 	
 
@@ -284,10 +282,6 @@ After crashing his car, a cop who&#39;s recovering from eye surgery recruits an 
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
 	
 
 	
@@ -330,6 +324,8 @@ Casey is attacked at random on the street and enlists in a local dojo led by a c
 	
 
 	
+
+	
 	
 
 ### The Farewell
@@ -346,6 +342,10 @@ A headstrong Chinese-American woman returns to China when her beloved grandmothe
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
 	
 
 	
