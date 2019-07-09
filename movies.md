@@ -68,6 +68,28 @@ Determined to keep Annabelle from wreaking more havoc, demonologists Ed and Lorr
 	
 	
 
+### Midsommar
+*Released on 2019-07-03, vote average 6.9*
+
+A young couple travels to Sweden to visit their friend’s rural hometown and attend its mid-summer festival. What begins as an idyllic retreat quickly descends into an increasingly violent and bizarre competition at the hands of a pagan cult.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/I0UWIya-O0s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Yesterday
 *Released on 2019-06-27, vote average 6.7*
 
@@ -87,23 +109,6 @@ Jack Malik is a struggling singer-songwriter in an English seaside town whose dr
   
 
 
-	
-	
-
-### Midsommar
-*Released on 2019-07-03, vote average 6.8*
-
-A young couple travels to Sweden to visit their friend’s rural hometown and attend its mid-summer festival. What begins as an idyllic retreat quickly descends into an increasingly violent and bizarre competition at the hands of a pagan cult.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/I0UWIya-O0s?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -142,6 +147,16 @@ Ophelia comes of age as lady-in-waiting for Queen Gertrude, and her singular spi
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### Killers Anonymous
@@ -164,43 +179,18 @@ A failed attempt to murder a Senator is connected to a group meeting secretly to
 
 
 	
-
-  
-
-
 	
 
-  
+### Love Unleashed
+*Released on 2019-07-06, vote average 6*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### My Days of Mercy
-*Released on 2019-07-04, vote average 8*
-
-The daughter of a man on death row falls in love with a woman on the opposing side of her family&#39;s political cause.
+Hailey throws puppy parties and meets Ryan, whose daughter wants a dog and her dad to remarry. Though smitten with each other, Ryan and Hailey are at odds since he’s developing a mall where she wants a dog park. Still, they grow close, and Ryan even helps when Hailey’s neighbor tries to shut down her business. But soon Hailey fears she’s barking up the wrong romantic tree when Ryan grows distant. Refocusing her efforts on a dog sanctuary, Hailey is suddenly asked to throw a puppy party that might result in a forever home for her dogs and her heart.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/AUHJYcxB-vE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/MW8suNyTTM4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -237,6 +227,33 @@ A young Mexican woman crosses the border in search of the American dream, only t
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### My Days of Mercy
+*Released on 2019-07-04, vote average 8*
+
+The daughter of a man on death row falls in love with a woman on the opposing side of her family&#39;s political cause.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/AUHJYcxB-vE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -316,16 +333,6 @@ Casey is attacked at random on the street and enlists in a local dojo led by a c
 	
 
 	
-
-	
-
-	
-
-	
-
-	
-
-	
 	
 
 ### The Farewell
@@ -342,6 +349,16 @@ A headstrong Chinese-American woman returns to China when her beloved grandmothe
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
