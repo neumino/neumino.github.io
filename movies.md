@@ -47,7 +47,7 @@ Peter Parker and his friends go on a summer trip to Europe. However, they will h
 	
 
 ### Annabelle Comes Home
-*Released on 2019-06-26, vote average 6.3*
+*Released on 2019-06-26, vote average 6.2*
 
 Determined to keep Annabelle from wreaking more havoc, demonologists Ed and Lorraine Warren bring the possessed doll to the locked artifacts room in their home, placing her “safely” behind sacred glass and enlisting a priest’s holy blessing. But an unholy night of horror awaits as Annabelle awakens the evil spirits in the room, who all set their sights on a new target—the Warrens&#39; ten-year-old daughter, Judy, and her friends.
 
@@ -125,28 +125,6 @@ Jack Malik is a struggling singer-songwriter in an English seaside town whose dr
 
 
 	
-	
-
-### Ophelia
-*Released on 2019-06-28, vote average 6*
-
-Ophelia comes of age as lady-in-waiting for Queen Gertrude, and her singular spirit captures Hamlet&#39;s affections. As lust and betrayal threaten the kingdom, Ophelia finds herself trapped between true love and controlling her own destiny.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MP1PTOiPVQo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 
   
 
@@ -201,11 +179,6 @@ Hailey throws puppy parties and meets Ryan, whose daughter wants a dog and her d
 
 
 	
-
-  
-
-
-	
 	
 
 ### Culture Shock
@@ -218,6 +191,28 @@ A young Mexican woman crosses the border in search of the American dream, only t
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/tM2E3LUYPig?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Ophelia
+*Released on 2019-06-28, vote average 5.5*
+
+Ophelia comes of age as lady-in-waiting for Queen Gertrude, and her singular spirit captures Hamlet&#39;s affections. As lust and betrayal threaten the kingdom, Ophelia finds herself trapped between true love and controlling her own destiny.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MP1PTOiPVQo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -274,12 +269,32 @@ The daughter of a man on death row falls in love with a woman on the opposing si
   
 
 
+	
+
+  
+
+
 
 ## Opening soon
 
 
 	
+	
 
+### The Lion King
+*Released on 2019-07-12, vote average 4.2*
+
+Simba idolises his father, King Mufasa, and takes to heart his own royal destiny. But not everyone in the kingdom celebrates the new cub&#39;s arrival. Scar, Mufasa&#39;s brother—and former heir to the throne—has plans of his own. The battle for Pride Rock is ravaged with betrayal, tragedy and drama, ultimately resulting in Simba&#39;s exile. With help from a curious pair of newfound friends, Simba will have to figure out how to grow up and take back what is rightfully his.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/4CbLXeGSDxg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -323,16 +338,6 @@ Casey is attacked at random on the street and enlists in a local dojo led by a c
 	
 
 	
-
-	
-
-	
-
-	
-
-	
-
-	
 	
 
 ### The Farewell
@@ -349,6 +354,18 @@ A headstrong Chinese-American woman returns to China when her beloved grandmothe
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
