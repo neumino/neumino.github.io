@@ -46,50 +46,6 @@ Peter Parker and his friends go on a summer trip to Europe. However, they will h
 	
 	
 
-### Annabelle Comes Home
-*Released on 2019-06-26, vote average 6.2*
-
-Determined to keep Annabelle from wreaking more havoc, demonologists Ed and Lorraine Warren bring the possessed doll to the locked artifacts room in their home, placing her “safely” behind sacred glass and enlisting a priest’s holy blessing. But an unholy night of horror awaits as Annabelle awakens the evil spirits in the room, who all set their sights on a new target—the Warrens&#39; ten-year-old daughter, Judy, and her friends.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/UULg8WnOAOo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Midsommar
-*Released on 2019-07-03, vote average 6.9*
-
-A young couple travels to Sweden to visit their friend’s rural hometown and attend its mid-summer festival. What begins as an idyllic retreat quickly descends into an increasingly violent and bizarre competition at the hands of a pagan cult.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/I0UWIya-O0s?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Yesterday
 *Released on 2019-06-27, vote average 6.7*
 
@@ -110,43 +66,18 @@ Jack Malik is a struggling singer-songwriter in an English seaside town whose dr
 
 
 	
-
-  
-
-
 	
 
-  
+### Midsommar
+*Released on 2019-07-03, vote average 7*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Killers Anonymous
-*Released on 2019-06-27, vote average 3.8*
-
-A failed attempt to murder a Senator is connected to a group meeting secretly to discuss their darkest urges—to take lives.
+A young couple travels to Sweden to visit their friend’s rural hometown and attend its mid-summer festival. What begins as an idyllic retreat quickly descends into an increasingly violent and bizarre competition at the hands of a pagan cult.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/bmRieb7Nwic?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/I0UWIya-O0s?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -159,16 +90,16 @@ A failed attempt to murder a Senator is connected to a group meeting secretly to
 	
 	
 
-### Love Unleashed
-*Released on 2019-07-06, vote average 6*
+### Crawl
+*Released on 2019-07-11, vote average 10*
 
-Hailey throws puppy parties and meets Ryan, whose daughter wants a dog and her dad to remarry. Though smitten with each other, Ryan and Hailey are at odds since he’s developing a mall where she wants a dog park. Still, they grow close, and Ryan even helps when Hailey’s neighbor tries to shut down her business. But soon Hailey fears she’s barking up the wrong romantic tree when Ryan grows distant. Refocusing her efforts on a dog sanctuary, Hailey is suddenly asked to throw a puppy party that might result in a forever home for her dogs and her heart.
+While struggling to save her father during a Category 5 hurricane, a young woman finds herself trapped inside a flooding house and fighting for her life against Florida’s most savage and feared predators.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/MW8suNyTTM4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/H6MLJG0RdDE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -181,38 +112,16 @@ Hailey throws puppy parties and meets Ryan, whose daughter wants a dog and her d
 	
 	
 
-### Culture Shock
-*Released on 2019-07-04, vote average 5.8*
+### Stuber
+*Released on 2019-07-11, vote average 7.7*
 
-A young Mexican woman crosses the border in search of the American dream, only to instead find her worst nightmare lying within.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tM2E3LUYPig?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Ophelia
-*Released on 2019-06-28, vote average 5.5*
-
-Ophelia comes of age as lady-in-waiting for Queen Gertrude, and her singular spirit captures Hamlet&#39;s affections. As lust and betrayal threaten the kingdom, Ophelia finds herself trapped between true love and controlling her own destiny.
+After crashing his car, a cop who&#39;s recovering from eye surgery recruits an Uber driver to help him catch a heroin dealer. The mismatched pair soon find themselves in for a wild day of stakeouts and shootouts as they encounter the city&#39;s seedy side.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/MP1PTOiPVQo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/i5l6a5RiR1E?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -233,22 +142,47 @@ Ophelia comes of age as lady-in-waiting for Queen Gertrude, and her singular spi
 
 
 	
-	
 
-### My Days of Mercy
-*Released on 2019-07-04, vote average 8*
+  
 
-The daughter of a man on death row falls in love with a woman on the opposing side of her family&#39;s political cause.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/AUHJYcxB-vE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -300,8 +234,27 @@ Simba idolises his father, King Mufasa, and takes to heart his own royal destiny
 	
 	
 
+### Crawl
+*Released on 2019-07-11, vote average 10*
+
+While struggling to save her father during a Category 5 hurricane, a young woman finds herself trapped inside a flooding house and fighting for her life against Florida’s most savage and feared predators.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/H6MLJG0RdDE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
 ### Stuber
-*Released on 2019-07-11, vote average 6.5*
+*Released on 2019-07-11, vote average 7.7*
 
 After crashing his car, a cop who&#39;s recovering from eye surgery recruits an Uber driver to help him catch a heroin dealer. The mismatched pair soon find themselves in for a wild day of stakeouts and shootouts as they encounter the city&#39;s seedy side.
 
@@ -314,6 +267,14 @@ After crashing his car, a cop who&#39;s recovering from eye surgery recruits an 
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
 	
 
 	
@@ -338,6 +299,12 @@ Casey is attacked at random on the street and enlists in a local dojo led by a c
 	
 
 	
+
+	
+
+	
+
+	
 	
 
 ### The Farewell
@@ -354,22 +321,6 @@ A headstrong Chinese-American woman returns to China when her beloved grandmothe
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
