@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Spider-Man: Far from Home
-*Released on 2019-06-28, vote average 7.8*
+### The Lion King
+*Released on 2019-07-12, vote average 6*
 
-Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.
+Simba idolises his father, King Mufasa, and takes to heart his own royal destiny. But not everyone in the kingdom celebrates the new cub&#39;s arrival. Scar, Mufasa&#39;s brother—and former heir to the throne—has plans of his own. The battle for Pride Rock is ravaged with betrayal, tragedy and drama, ultimately resulting in Simba&#39;s exile. With help from a curious pair of newfound friends, Simba will have to figure out how to grow up and take back what is rightfully his.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/DYYtuKyMtY8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/4CbLXeGSDxg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -44,15 +44,10 @@ Peter Parker and his friends go on a summer trip to Europe. However, they will h
 
 
 	
-
-  
-
-
-	
 	
 
 ### Crawl
-*Released on 2019-07-11, vote average 10*
+*Released on 2019-07-11, vote average 6.9*
 
 While struggling to save her father during a Category 5 hurricane, a young woman finds herself trapped inside a flooding house and fighting for her life against Florida’s most savage and feared predators.
 
@@ -73,8 +68,30 @@ While struggling to save her father during a Category 5 hurricane, a young woman
 	
 	
 
+### Midsommar
+*Released on 2019-07-03, vote average 7.1*
+
+A young couple travels to Sweden to visit their friend’s rural hometown and attend its mid-summer festival. What begins as an idyllic retreat quickly descends into an increasingly violent and bizarre competition at the hands of a pagan cult.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/I0UWIya-O0s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Stuber
-*Released on 2019-07-11, vote average 7.7*
+*Released on 2019-07-11, vote average 7*
 
 After crashing his car, a cop who&#39;s recovering from eye surgery recruits an Uber driver to help him catch a heroin dealer. The mismatched pair soon find themselves in for a wild day of stakeouts and shootouts as they encounter the city&#39;s seedy side.
 
@@ -95,52 +112,20 @@ After crashing his car, a cop who&#39;s recovering from eye surgery recruits an 
 	
 	
 
-### Midsommar
-*Released on 2019-07-03, vote average 7*
+### Two Blue Stripes
+*Released on 2019-07-11, vote average 9.5*
 
-A young couple travels to Sweden to visit their friend’s rural hometown and attend its mid-summer festival. What begins as an idyllic retreat quickly descends into an increasingly violent and bizarre competition at the hands of a pagan cult.
+Bima and Dara are lovers who are still in high school. At the age of 17, they were determined to copulate outside of marriage. Dara was pregnant. Both are then confronted with a life that is unimaginable for children of their age, life as parents.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/I0UWIya-O0s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/lpAK3FXnAGo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -177,82 +162,6 @@ Casey is attacked at random on the street and enlists in a local dojo led by a c
 
   
 
-
-	
-	
-
-### Ophelia
-*Released on 2019-06-28, vote average 5.7*
-
-Ophelia comes of age as lady-in-waiting for Queen Gertrude, and her singular spirit captures Hamlet&#39;s affections. As lust and betrayal threaten the kingdom, Ophelia finds herself trapped between true love and controlling her own destiny.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MP1PTOiPVQo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-
-## Opening soon
-
-
-	
-
-	
-
-	
-	
-
-### The Art of Self-Defense
-*Released on 2019-07-12, vote average 8*
-
-Casey is attacked at random on the street and enlists in a local dojo led by a charismatic and mysterious Sensei in an effort to learn how to defend himself. What he uncovers is a sinister world of fraternity, violence and hypermasculinity and a woman fighting for her place in it.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Td0oBCWO_I4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
 
 	
 	
@@ -273,9 +182,55 @@ A headstrong Chinese-American woman returns to China when her beloved grandmothe
 	
 	
 
-	
+  
+
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Christmas Camp
+*Released on 2019-07-11, vote average 1*
+
+To get a big promotion, Hayley, an advertising executive who specializes in social media and all things hip, must land a toy company that is all about traditional Christmas as an account.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_1jUg58shio?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
 
 	
 	
@@ -296,7 +251,84 @@ A white guy pretends to be a black female talk radio host and becomes a huge hit
 	
 	
 
+  
+
+
 	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Summer Night
+*Released on 2019-07-12, vote average 7*
+
+In a small town, a young, tight-knit group of friends fall in and out of love over the course of one intoxicating, music-filled summer night.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MI0Gaofv9PY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+
+## Opening soon
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Good Boys
+*Released on 2019-07-18, vote average 1*
+
+A group of young boys on the cusp of becoming teenagers embark on an epic quest in the San Fernando Valley to fix their broken toy before their parents get home.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/rF1F9dIbNqM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
