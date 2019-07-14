@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Lion King
-*Released on 2019-07-12, vote average 6*
+*Released on 2019-07-12, vote average 6.4*
 
 Simba idolises his father, King Mufasa, and takes to heart his own royal destiny. But not everyone in the kingdom celebrates the new cub&#39;s arrival. Scar, Mufasa&#39;s brother—and former heir to the throne—has plans of his own. The battle for Pride Rock is ravaged with betrayal, tragedy and drama, ultimately resulting in Simba&#39;s exile. With help from a curious pair of newfound friends, Simba will have to figure out how to grow up and take back what is rightfully his.
 
@@ -66,6 +66,33 @@ While struggling to save her father during a Category 5 hurricane, a young woman
 
 
 	
+
+  
+
+
+	
+	
+
+### Stuber
+*Released on 2019-07-11, vote average 7.8*
+
+After crashing his car, a cop who&#39;s recovering from eye surgery recruits an Uber driver to help him catch a heroin dealer. The mismatched pair soon find themselves in for a wild day of stakeouts and shootouts as they encounter the city&#39;s seedy side.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/i5l6a5RiR1E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 
 ### Midsommar
@@ -90,16 +117,38 @@ A young couple travels to Sweden to visit their friend’s rural hometown and at
 	
 	
 
-### Stuber
-*Released on 2019-07-11, vote average 7*
+### Lying and Stealing
+*Released on 2019-07-12, vote average 6.7*
 
-After crashing his car, a cop who&#39;s recovering from eye surgery recruits an Uber driver to help him catch a heroin dealer. The mismatched pair soon find themselves in for a wild day of stakeouts and shootouts as they encounter the city&#39;s seedy side.
+Hoping to leave his criminal lifestyle behind him, a successful art thief teams up with a sexy con woman to pull off the ultimate heist and set himself free.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/i5l6a5RiR1E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/mKXa10VDQj4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Super 30
+*Released on 2019-07-12, vote average 7.5*
+
+Based on life of Patna-based mathematician Anand Kumar who runs the famed Super 30 program for IIT aspirants in Patna.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QpvEWVVnICE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -113,7 +162,7 @@ After crashing his car, a cop who&#39;s recovering from eye surgery recruits an 
 	
 
 ### Two Blue Stripes
-*Released on 2019-07-11, vote average 9.5*
+*Released on 2019-07-11, vote average 7.5*
 
 Bima and Dara are lovers who are still in high school. At the age of 17, they were determined to copulate outside of marriage. Dara was pregnant. Both are then confronted with a life that is unimaginable for children of their age, life as parents.
 
@@ -126,11 +175,6 @@ Bima and Dara are lovers who are still in high school. At the age of 17, they we
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -159,6 +203,79 @@ Casey is attacked at random on the street and enlists in a local dojo led by a c
 
 
 	
+	
+
+### Summer Night
+*Released on 2019-07-12, vote average 7*
+
+In a small town, a young, tight-knit group of friends fall in and out of love over the course of one intoxicating, music-filled summer night.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MI0Gaofv9PY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Point Blank
+*Released on 2019-07-12, vote average 5.9*
+
+A nurse is forced to spring a wounded murder suspect from the hospital when the man’s brother kidnaps his pregnant wife and wants to make a trade.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hIMJ0_S-x40?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Saving Zoë
+*Released on 2019-07-12, vote average 7*
+
+Echo must deal with the regular dramas of high school, in addition to grappling with the murder of her older sister, Zoë. But when Echo receives a diary from Zoë&#39;s boyfriend, she begins to untangle the secret life her sister lived.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/SD2QOCja3P8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
 
   
 
@@ -186,47 +303,22 @@ A headstrong Chinese-American woman returns to China when her beloved grandmothe
 
 
 	
-
-  
-
-
 	
 
-  
+### Armstrong
+*Released on 2019-07-12, vote average 9*
 
-
-	
-	
-
-### Christmas Camp
-*Released on 2019-07-11, vote average 1*
-
-To get a big promotion, Hayley, an advertising executive who specializes in social media and all things hip, must land a toy company that is all about traditional Christmas as an account.
+Dramatic, moving and deeply human, ARMSTRONG offers the definitive life story of Neil Armstrong: from his childhood in Ohio to his first steps on the Moon, and beyond.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/_1jUg58shio?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/zWUnra-Hwcg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -255,8 +347,6 @@ A white guy pretends to be a black female talk radio host and becomes a huge hit
 
 
 	
-	
-	
 
   
 
@@ -268,26 +358,6 @@ A white guy pretends to be a black female talk radio host and becomes a huge hit
 
 	
 	
-
-### Summer Night
-*Released on 2019-07-12, vote average 7*
-
-In a small town, a young, tight-knit group of friends fall in and out of love over the course of one intoxicating, music-filled summer night.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MI0Gaofv9PY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -296,16 +366,6 @@ In a small town, a young, tight-knit group of friends fall in and out of love ov
 
 ## Opening soon
 
-
-	
-
-	
-
-	
-
-	
-
-	
 
 	
 
@@ -330,6 +390,16 @@ A group of young boys on the cusp of becoming teenagers embark on an epic quest 
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
