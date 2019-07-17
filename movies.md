@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Lion King
-*Released on 2019-07-12, vote average 6.3*
+*Released on 2019-07-12, vote average 5.8*
 
 Simba idolises his father, King Mufasa, and takes to heart his own royal destiny. But not everyone in the kingdom celebrates the new cub&#39;s arrival. Scar, Mufasa&#39;s brother—and former heir to the throne—has plans of his own. The battle for Pride Rock is ravaged with betrayal, tragedy and drama, ultimately resulting in Simba&#39;s exile. With help from a curious pair of newfound friends, Simba will have to figure out how to grow up and take back what is rightfully his.
 
@@ -47,7 +47,7 @@ Simba idolises his father, King Mufasa, and takes to heart his own royal destiny
 	
 
 ### Crawl
-*Released on 2019-07-11, vote average 6.8*
+*Released on 2019-07-11, vote average 6.7*
 
 While struggling to save her father during a Category 5 hurricane, a young woman finds herself trapped inside a flooding house and fighting for her life against Florida’s most savage and feared predators.
 
@@ -94,9 +94,16 @@ A nurse is forced to spring a wounded murder suspect from the hospital when the 
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Stuber
-*Released on 2019-07-11, vote average 6.9*
+*Released on 2019-07-11, vote average 6.6*
 
 After crashing his car, a cop who&#39;s recovering from eye surgery recruits an Uber driver to help him catch a heroin dealer. The mismatched pair soon find themselves in for a wild day of stakeouts and shootouts as they encounter the city&#39;s seedy side.
 
@@ -108,13 +115,6 @@ After crashing his car, a cop who&#39;s recovering from eye surgery recruits an 
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -167,13 +167,6 @@ A young couple travels to Sweden to visit their friend’s rural hometown and at
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Saving Zoë
 *Released on 2019-07-12, vote average 7.5*
@@ -196,9 +189,28 @@ Echo must deal with the regular dramas of high school, in addition to grappling 
 
 	
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 
 ### Summer Night
-*Released on 2019-07-12, vote average 7*
+*Released on 2019-07-12, vote average 5.5*
 
 In a small town, a young, tight-knit group of friends fall in and out of love over the course of one intoxicating, music-filled summer night.
 
@@ -221,8 +233,6 @@ In a small town, a young, tight-knit group of friends fall in and out of love ov
   
 
 
-	
-	
 	
 
   
@@ -256,48 +266,6 @@ Dramatic, moving and deeply human, ARMSTRONG offers the definitive life story of
 
 
 	
-
-  
-
-
-	
-	
-
-### Two Blue Stripes
-*Released on 2019-07-11, vote average 8.3*
-
-Bima and Dara are lovers who are still in high school. At the age of 17, they were determined to copulate outside of marriage. Dara was pregnant. Both are then confronted with a life that is unimaginable for children of their age, life as parents.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/lpAK3FXnAGo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### My Days of Mercy
-*Released on 2019-07-11, vote average 10*
-
-The daughter of a man on death row falls in love with a woman on the opposing side of her family&#39;s political cause.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/AUHJYcxB-vE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -321,16 +289,6 @@ The daughter of a man on death row falls in love with a woman on the opposing si
 	
 
 	
-
-	
-
-	
-
-	
-
-	
-
-	
 	
 
 ### Good Boys
@@ -347,6 +305,16 @@ A group of young boys on the cusp of becoming teenagers embark on an epic quest 
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
