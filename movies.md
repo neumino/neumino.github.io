@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Lion King
-*Released on 2019-07-12, vote average 6*
+*Released on 2019-07-12, vote average 6.8*
 
 Simba idolises his father, King Mufasa, and takes to heart his own royal destiny. But not everyone in the kingdom celebrates the new cub&#39;s arrival. Scar, Mufasa&#39;s brother—and former heir to the throne—has plans of his own. The battle for Pride Rock is ravaged with betrayal, tragedy and drama, ultimately resulting in Simba&#39;s exile. With help from a curious pair of newfound friends, Simba will have to figure out how to grow up and take back what is rightfully his.
 
@@ -47,7 +47,7 @@ Simba idolises his father, King Mufasa, and takes to heart his own royal destiny
 	
 
 ### Crawl
-*Released on 2019-07-11, vote average 6.4*
+*Released on 2019-07-11, vote average 6.1*
 
 While struggling to save her father during a Category 5 hurricane, a young woman finds herself trapped inside a flooding house and fighting for her life against Florida’s most savage and feared predators.
 
@@ -60,11 +60,6 @@ While struggling to save her father during a Category 5 hurricane, a young woman
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -93,6 +88,33 @@ A nurse is forced to spring a wounded murder suspect from the hospital when the 
 
 
 	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Frankenstein&#39;s Monster&#39;s Monster, Frankenstein
+*Released on 2019-07-16, vote average 6*
+
+When actor David Harbour finds lost footage of his father&#39;s disastrous televised stage play of a literary classic, he uncovers shocking family secrets.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/uaJcZ6yAejI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -103,7 +125,7 @@ A nurse is forced to spring a wounded murder suspect from the hospital when the 
 	
 
 ### Stuber
-*Released on 2019-07-11, vote average 6.6*
+*Released on 2019-07-11, vote average 6.5*
 
 After crashing his car, a cop who&#39;s recovering from eye surgery recruits an Uber driver to help him catch a heroin dealer. The mismatched pair soon find themselves in for a wild day of stakeouts and shootouts as they encounter the city&#39;s seedy side.
 
@@ -112,6 +134,33 @@ After crashing his car, a cop who&#39;s recovering from eye surgery recruits an 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/i5l6a5RiR1E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Good Boys
+*Released on 2019-07-18, vote average 1*
+
+A group of young boys on the cusp of becoming teenagers embark on an epic quest in the San Fernando Valley to fix their broken toy before their parents get home.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/rF1F9dIbNqM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -144,18 +193,23 @@ Hoping to leave his criminal lifestyle behind him, a successful art thief teams 
 
 
 	
+
+  
+
+
+	
 	
 
-### Frankenstein&#39;s Monster&#39;s Monster, Frankenstein
-*Released on 2019-07-16, vote average 6.5*
+### Secret Obsession
+*Released on 2019-07-18, vote average 6.2*
 
-When actor David Harbour finds lost footage of his father&#39;s disastrous televised stage play of a literary classic, he uncovers shocking family secrets.
+Recuperating from trauma, Jennifer remains in danger as she returns to a life she doesn&#39;t remember.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/uaJcZ6yAejI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Nc6loZU3kjQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -166,16 +220,6 @@ When actor David Harbour finds lost footage of his father&#39;s disastrous telev
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 	
 
@@ -193,50 +237,6 @@ When actor David Harbour finds lost footage of his father&#39;s disastrous telev
 
 
 	
-	
-
-### Good Boys
-*Released on 2019-07-18, vote average 1*
-
-A group of young boys on the cusp of becoming teenagers embark on an epic quest in the San Fernando Valley to fix their broken toy before their parents get home.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rF1F9dIbNqM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Two Blue Stripes
-*Released on 2019-07-11, vote average 8.3*
-
-Bima and Dara are lovers who are still in high school. At the age of 17, they were determined to copulate outside of marriage. Dara was pregnant. Both are then confronted with a life that is unimaginable for children of their age, life as parents.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/lpAK3FXnAGo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -251,8 +251,6 @@ Bima and Dara are lovers who are still in high school. At the age of 17, they we
   
 
 
-	
-	
 	
 
   
@@ -270,29 +268,6 @@ Bima and Dara are lovers who are still in high school. At the age of 17, they we
 	
 
 	
-
-	
-	
-
-### Good Boys
-*Released on 2019-07-18, vote average 1*
-
-A group of young boys on the cusp of becoming teenagers embark on an epic quest in the San Fernando Valley to fix their broken toy before their parents get home.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rF1F9dIbNqM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
 	
 	
 
@@ -304,6 +279,14 @@ A group of young boys on the cusp of becoming teenagers embark on an epic quest 
 
 	
 
+	
+
+	
+
+	
+
+	
+	
 	
 
 	
