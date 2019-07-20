@@ -47,7 +47,7 @@ Simba idolises his father, King Mufasa, and takes to heart his own royal destiny
 	
 
 ### Crawl
-*Released on 2019-07-11, vote average 6.1*
+*Released on 2019-07-11, vote average 6*
 
 While struggling to save her father during a Category 5 hurricane, a young woman finds herself trapped inside a flooding house and fighting for her life against Florida’s most savage and feared predators.
 
@@ -60,6 +60,11 @@ While struggling to save her father during a Category 5 hurricane, a young woman
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -88,33 +93,6 @@ A nurse is forced to spring a wounded murder suspect from the hospital when the 
 
 
 	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Frankenstein&#39;s Monster&#39;s Monster, Frankenstein
-*Released on 2019-07-16, vote average 6*
-
-When actor David Harbour finds lost footage of his father&#39;s disastrous televised stage play of a literary classic, he uncovers shocking family secrets.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/uaJcZ6yAejI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -125,7 +103,7 @@ When actor David Harbour finds lost footage of his father&#39;s disastrous telev
 	
 
 ### Stuber
-*Released on 2019-07-11, vote average 6.5*
+*Released on 2019-07-11, vote average 6.4*
 
 After crashing his car, a cop who&#39;s recovering from eye surgery recruits an Uber driver to help him catch a heroin dealer. The mismatched pair soon find themselves in for a wild day of stakeouts and shootouts as they encounter the city&#39;s seedy side.
 
@@ -143,6 +121,45 @@ After crashing his car, a cop who&#39;s recovering from eye surgery recruits an 
   
 
 
+	
+	
+
+### Secret Obsession
+*Released on 2019-07-18, vote average 5.9*
+
+Recuperating from trauma, Jennifer remains in danger as she returns to a life she doesn&#39;t remember.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Nc6loZU3kjQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Current War
+*Released on 2019-07-18, vote average 7.8*
+
+Electricity titans Thomas Edison and George Westinghouse compete to create a sustainable system and market it to the American people.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ug4pvvfDkDo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -173,16 +190,16 @@ A group of young boys on the cusp of becoming teenagers embark on an epic quest 
 	
 	
 
-### Lying and Stealing
-*Released on 2019-07-12, vote average 6.7*
+### Into the Ashes
+*Released on 2019-07-19, vote average 3*
 
-Hoping to leave his criminal lifestyle behind him, a successful art thief teams up with a sexy con woman to pull off the ultimate heist and set himself free.
+With an honest job and a loving wife, Nick Brenner believed he had safely escaped his violent, criminal history. But his old crew hasn&#39;t forgotten about him or the money he stole, and when they take what Nick now values the most - his wife - he has nothing left to lose. Confronted by the town sheriff, who is also his father-in-law, Nick must decide if he will stay on his new path or indulge in his need for revenge and force his enemies to pay for what they have done.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/mKXa10VDQj4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/cn29Pv8bq-k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -200,16 +217,16 @@ Hoping to leave his criminal lifestyle behind him, a successful art thief teams 
 	
 	
 
-### Secret Obsession
-*Released on 2019-07-18, vote average 6.2*
+### Frankenstein&#39;s Monster&#39;s Monster, Frankenstein
+*Released on 2019-07-16, vote average 6*
 
-Recuperating from trauma, Jennifer remains in danger as she returns to a life she doesn&#39;t remember.
+When actor David Harbour finds lost footage of his father&#39;s disastrous televised stage play of a literary classic, he uncovers shocking family secrets.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Nc6loZU3kjQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/uaJcZ6yAejI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -219,8 +236,6 @@ Recuperating from trauma, Jennifer remains in danger as she returns to a life sh
   
 
 
-	
-	
 	
 
   
@@ -268,6 +283,8 @@ Recuperating from trauma, Jennifer remains in danger as she returns to a life sh
 	
 
 	
+
+	
 	
 	
 
@@ -283,10 +300,6 @@ Recuperating from trauma, Jennifer remains in danger as she returns to a life sh
 
 	
 
-	
-
-	
-	
 	
 
 	
