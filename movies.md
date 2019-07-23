@@ -46,6 +46,28 @@ Simba idolises his father, King Mufasa, and takes to heart his own royal destiny
 	
 	
 
+### Secret Obsession
+*Released on 2019-07-18, vote average 5.7*
+
+Newlywed Jennifer is brutally attacked at a dark rest stop. While healing from her injuries, she can’t recall anything from her past, including the ordeal. Her husband, Russell , is just thankful she’s alive and eager to get her home. As he reintroduces her to their secluded mountain estate, Detective Page  pursues Jennifer’s assailant — his own daughter went missing and was never found. The same fate now awaits Jennifer, unless someone realizes that her loving caretaker is actually her captor.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Nc6loZU3kjQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Crawl
 *Released on 2019-07-11, vote average 6*
 
@@ -68,16 +90,16 @@ While struggling to save her father during a Category 5 hurricane, a young woman
 	
 	
 
-### Secret Obsession
-*Released on 2019-07-18, vote average 5.8*
+### Batman: Hush
+*Released on 2019-07-19, vote average 7.4*
 
-Newlywed Jennifer is brutally attacked at a dark rest stop. While healing from her injuries, she can’t recall anything from her past, including the ordeal. Her husband, Russell , is just thankful she’s alive and eager to get her home. As he reintroduces her to their secluded mountain estate, Detective Page  pursues Jennifer’s assailant — his own daughter went missing and was never found. The same fate now awaits Jennifer, unless someone realizes that her loving caretaker is actually her captor.
+A mysterious new villain known only as Hush uses a gallery of villains to destroy Batman&#39;s crime-fighting career as well as Bruce Wayne&#39;s personal life, which has been further complicated by a  relationship with Selina Kyle/Catwoman.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Nc6loZU3kjQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/cQFFnUg0u70?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -87,6 +109,33 @@ Newlywed Jennifer is brutally attacked at a dark rest stop. While healing from h
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### LEGO DC: Batman - Family Matters
+*Released on 2019-07-21, vote average 5.5*
+
+In LEGO DC: Batman - Family Matters, suspicion is on high after Batman, Batgirl, Robin and other DC superheroes receive mysterious invitations. However, family values must remain strong when Batman and his team encounter the villainous Red Hood, who is obsessed with destroying the Bat-family and all of Gotham City.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wAKvvUv_wck?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -118,7 +167,7 @@ With an honest job and a loving wife, Nick Brenner believed he had safely escape
 	
 
 ### Point Blank
-*Released on 2019-07-12, vote average 6.2*
+*Released on 2019-07-12, vote average 6.1*
 
 A nurse is forced to spring a wounded murder suspect from the hospital when the man’s brother kidnaps his pregnant wife and wants to make a trade.
 
@@ -130,40 +179,6 @@ A nurse is forced to spring a wounded murder suspect from the hospital when the 
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
-	
-
-### Batman: Hush
-*Released on 2019-07-19, vote average 7.2*
-
-A mysterious new villain known only as Hush uses a gallery of villains to destroy Batman&#39;s crime-fighting career as well as Bruce Wayne&#39;s personal life, which has been further complicated by a  relationship with Selina Kyle/Catwoman.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cQFFnUg0u70?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 	
 
@@ -193,17 +208,12 @@ After crashing his car, a cop who&#39;s recovering from eye surgery recruits an 
 
 
 	
-	
-	
 
   
 
 
 	
-
-  
-
-
+	
 	
 
   
@@ -212,20 +222,25 @@ After crashing his car, a cop who&#39;s recovering from eye surgery recruits an 
 	
 	
 
-### Supervized
-*Released on 2019-07-16, vote average 9*
+### Critters Attack!
+*Released on 2019-07-23, vote average 4*
 
-Four ageing superhero&#39;s in a retirement home in Ireland come together for one last hurrah.
+Dee Wallace (E.T. the Extra-Terrestrial), who starred in the original Critters as Helen Brown, will sink her teeth into the franchise for a second time in the mysterious role of Aunt Dee. Inspired by the film series from the &#39;80s and &#39;90s, Critters follows 20-year-old Drea (Tashiana Washington), who reluctantly takes a job babysitting for a professor of a college she hopes to attend. Struggling to entertain the professor&#39;s children Trissy (Ava Preston) and Jake (Jack Fulton), along with her own little brother Phillip (Jaeden Noel), Drea takes them on a hike, unaware that mysterious alien critters have crash-landed and started devouring every living thing they encounter. Directed by Bobby Miller. Coming This Summer to Digital and Blu-ray.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ZS9NnE-PKrU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ptDR3eKdW40?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -273,7 +288,7 @@ Four ageing superhero&#39;s in a retirement home in Ireland come together for on
 	
 
 ### Critters Attack!
-*Released on 2019-07-23, vote average 4.7*
+*Released on 2019-07-23, vote average 4*
 
 Dee Wallace (E.T. the Extra-Terrestrial), who starred in the original Critters as Helen Brown, will sink her teeth into the franchise for a second time in the mysterious role of Aunt Dee. Inspired by the film series from the &#39;80s and &#39;90s, Critters follows 20-year-old Drea (Tashiana Washington), who reluctantly takes a job babysitting for a professor of a college she hopes to attend. Struggling to entertain the professor&#39;s children Trissy (Ava Preston) and Jake (Jack Fulton), along with her own little brother Phillip (Jaeden Noel), Drea takes them on a hike, unaware that mysterious alien critters have crash-landed and started devouring every living thing they encounter. Directed by Bobby Miller. Coming This Summer to Digital and Blu-ray.
 
@@ -289,12 +304,6 @@ Dee Wallace (E.T. the Extra-Terrestrial), who starred in the original Critters a
 	
 
 	
-
-	
-
-	
-
-	
 	
 	
 
@@ -309,6 +318,23 @@ Dee Wallace (E.T. the Extra-Terrestrial), who starred in the original Critters a
 	
 
 	
+	
+
+### Skin
+*Released on 2019-07-26, vote average 8.5*
+
+A destitute young man, raised by racist skinheads and notorious among white supremacists, turns his back on hatred and violence to transform his life, with the help of a black activist and the woman he loves.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8uc30b4kZws?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
@@ -317,7 +343,11 @@ Dee Wallace (E.T. the Extra-Terrestrial), who starred in the original Critters a
 	
 
 	
+
 	
+
+	
+
 	
 
 	
