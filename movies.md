@@ -66,23 +66,6 @@ Newlywed Jennifer is brutally attacked at a dark rest stop. While healing from h
 
 
 	
-	
-
-### Crawl
-*Released on 2019-07-11, vote average 6*
-
-While struggling to save her father during a Category 5 hurricane, a young woman finds herself trapped inside a flooding house and fighting for her life against Florida’s most savage and feared predators.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/H6MLJG0RdDE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -91,7 +74,7 @@ While struggling to save her father during a Category 5 hurricane, a young woman
 	
 
 ### Batman: Hush
-*Released on 2019-07-19, vote average 7.4*
+*Released on 2019-07-19, vote average 6.9*
 
 A mysterious new villain known only as Hush uses a gallery of villains to destroy Batman&#39;s crime-fighting career as well as Bruce Wayne&#39;s personal life, which has been further complicated by a  relationship with Selina Kyle/Catwoman.
 
@@ -110,10 +93,22 @@ A mysterious new villain known only as Hush uses a gallery of villains to destro
 
 
 	
+	
 
-  
+### Crawl
+*Released on 2019-07-11, vote average 5.8*
 
+While struggling to save her father during a Category 5 hurricane, a young woman finds herself trapped inside a flooding house and fighting for her life against Florida’s most savage and feared predators.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/H6MLJG0RdDE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -142,10 +137,37 @@ In LEGO DC: Batman - Family Matters, suspicion is on high after Batman, Batgirl,
 
 
 	
+
+  
+
+
+	
+	
+
+### Critters Attack!
+*Released on 2019-07-13, vote average 4.9*
+
+Follows 20-year-old Drea, who reluctantly takes a job babysitting for a professor of a college she hopes to attend. Struggling to entertain the professor&#39;s children Trissy and Jake, along with her own little brother Phillip , Drea takes them on a hike, unaware that mysterious alien critters have crash-landed and started devouring every living thing they encounter.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kuIc4yd7ZpU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 
 ### Into the Ashes
-*Released on 2019-07-19, vote average 4.8*
+*Released on 2019-07-19, vote average 4*
 
 With an honest job and a loving wife, Nick Brenner believed he had safely escaped his violent, criminal history. But his old crew hasn&#39;t forgotten about him or the money he stole, and when they take what Nick now values the most - his wife - he has nothing left to lose. Confronted by the town sheriff, who is also his father-in-law, Nick must decide if he will stay on his new path or indulge in his need for revenge and force his enemies to pay for what they have done.
 
@@ -208,11 +230,6 @@ After crashing his car, a cop who&#39;s recovering from eye surgery recruits an 
 
 
 	
-
-  
-
-
-	
 	
 	
 
@@ -220,27 +237,12 @@ After crashing his car, a cop who&#39;s recovering from eye surgery recruits an 
 
 
 	
-	
-
-### Critters Attack!
-*Released on 2019-07-23, vote average 4*
-
-Dee Wallace (E.T. the Extra-Terrestrial), who starred in the original Critters as Helen Brown, will sink her teeth into the franchise for a second time in the mysterious role of Aunt Dee. Inspired by the film series from the &#39;80s and &#39;90s, Critters follows 20-year-old Drea (Tashiana Washington), who reluctantly takes a job babysitting for a professor of a college she hopes to attend. Struggling to entertain the professor&#39;s children Trissy (Ava Preston) and Jake (Jack Fulton), along with her own little brother Phillip (Jaeden Noel), Drea takes them on a hike, unaware that mysterious alien critters have crash-landed and started devouring every living thing they encounter. Directed by Bobby Miller. Coming This Summer to Digital and Blu-ray.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ptDR3eKdW40?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
+	
+	
 	
 
   
@@ -283,20 +285,18 @@ Dee Wallace (E.T. the Extra-Terrestrial), who starred in the original Critters a
 	
 
 	
-
-	
 	
 
-### Critters Attack!
-*Released on 2019-07-23, vote average 4*
+### Once Upon a Time in Hollywood
+*Released on 2019-07-25, vote average 10*
 
-Dee Wallace (E.T. the Extra-Terrestrial), who starred in the original Critters as Helen Brown, will sink her teeth into the franchise for a second time in the mysterious role of Aunt Dee. Inspired by the film series from the &#39;80s and &#39;90s, Critters follows 20-year-old Drea (Tashiana Washington), who reluctantly takes a job babysitting for a professor of a college she hopes to attend. Struggling to entertain the professor&#39;s children Trissy (Ava Preston) and Jake (Jack Fulton), along with her own little brother Phillip (Jaeden Noel), Drea takes them on a hike, unaware that mysterious alien critters have crash-landed and started devouring every living thing they encounter. Directed by Bobby Miller. Coming This Summer to Digital and Blu-ray.
+A faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood&#39;s Golden Age in 1969 Los Angeles.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ptDR3eKdW40?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Scf8nIJCvs4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -304,7 +304,9 @@ Dee Wallace (E.T. the Extra-Terrestrial), who starred in the original Critters a
 	
 
 	
+
 	
+
 	
 
 	
@@ -321,7 +323,7 @@ Dee Wallace (E.T. the Extra-Terrestrial), who starred in the original Critters a
 	
 
 ### Skin
-*Released on 2019-07-26, vote average 8.5*
+*Released on 2019-07-26, vote average 8.2*
 
 A destitute young man, raised by racist skinheads and notorious among white supremacists, turns his back on hatred and violence to transform his life, with the help of a black activist and the woman he loves.
 
@@ -334,8 +336,6 @@ A destitute young man, raised by racist skinheads and notorious among white supr
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
