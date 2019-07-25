@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Lion King
-*Released on 2019-07-12, vote average 7.1*
+*Released on 2019-07-12, vote average 7.2*
 
 Simba idolises his father, King Mufasa, and takes to heart his own royal destiny. But not everyone in the kingdom celebrates the new cub&#39;s arrival. Scar, Mufasa&#39;s brother—and former heir to the throne—has plans of his own. The battle for Pride Rock is ravaged with betrayal, tragedy and drama, ultimately resulting in Simba&#39;s exile. With help from a curious pair of newfound friends, Simba will have to figure out how to grow up and take back what is rightfully his.
 
@@ -45,9 +45,16 @@ Simba idolises his father, King Mufasa, and takes to heart his own royal destiny
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Secret Obsession
-*Released on 2019-07-18, vote average 5.7*
+*Released on 2019-07-18, vote average 5.6*
 
 Newlywed Jennifer is brutally attacked at a dark rest stop. While healing from her injuries, she can’t recall anything from her past, including the ordeal. Her husband, Russell , is just thankful she’s alive and eager to get her home. As he reintroduces her to their secluded mountain estate, Detective Page  pursues Jennifer’s assailant — his own daughter went missing and was never found. The same fate now awaits Jennifer, unless someone realizes that her loving caretaker is actually her captor.
 
@@ -74,7 +81,7 @@ Newlywed Jennifer is brutally attacked at a dark rest stop. While healing from h
 	
 
 ### Batman: Hush
-*Released on 2019-07-19, vote average 6.9*
+*Released on 2019-07-19, vote average 6.8*
 
 A mysterious new villain known only as Hush uses a gallery of villains to destroy Batman&#39;s crime-fighting career as well as Bruce Wayne&#39;s personal life, which has been further complicated by a  relationship with Selina Kyle/Catwoman.
 
@@ -117,8 +124,57 @@ While struggling to save her father during a Category 5 hurricane, a young woman
 	
 	
 
+### Once Upon a Time in Hollywood
+*Released on 2019-07-25, vote average 7*
+
+A faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood&#39;s Golden Age in 1969 Los Angeles.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Scf8nIJCvs4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Critters Attack!
+*Released on 2019-07-13, vote average 4.7*
+
+Follows 20-year-old Drea, who reluctantly takes a job babysitting for a professor of a college she hopes to attend. Struggling to entertain the professor&#39;s children Trissy and Jake, along with her own little brother Phillip , Drea takes them on a hike, unaware that mysterious alien critters have crash-landed and started devouring every living thing they encounter.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kuIc4yd7ZpU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### LEGO DC: Batman - Family Matters
-*Released on 2019-07-21, vote average 5.5*
+*Released on 2019-07-21, vote average 5.7*
 
 In LEGO DC: Batman - Family Matters, suspicion is on high after Batman, Batgirl, Robin and other DC superheroes receive mysterious invitations. However, family values must remain strong when Batman and his team encounter the villainous Red Hood, who is obsessed with destroying the Bat-family and all of Gotham City.
 
@@ -143,17 +199,24 @@ In LEGO DC: Batman - Family Matters, suspicion is on high after Batman, Batgirl,
 
 	
 	
+	
 
-### Critters Attack!
-*Released on 2019-07-13, vote average 4.9*
+  
 
-Follows 20-year-old Drea, who reluctantly takes a job babysitting for a professor of a college she hopes to attend. Struggling to entertain the professor&#39;s children Trissy and Jake, along with her own little brother Phillip , Drea takes them on a hike, unaware that mysterious alien critters have crash-landed and started devouring every living thing they encounter.
+
+	
+	
+
+### Stuber
+*Released on 2019-07-11, vote average 6.5*
+
+After crashing his car, a cop who&#39;s recovering from eye surgery recruits an Uber driver to help him catch a heroin dealer. The mismatched pair soon find themselves in for a wild day of stakeouts and shootouts as they encounter the city&#39;s seedy side.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/kuIc4yd7ZpU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/i5l6a5RiR1E?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -209,50 +272,6 @@ A nurse is forced to spring a wounded murder suspect from the hospital when the 
 
 	
 	
-
-### Stuber
-*Released on 2019-07-11, vote average 6.6*
-
-After crashing his car, a cop who&#39;s recovering from eye surgery recruits an Uber driver to help him catch a heroin dealer. The mismatched pair soon find themselves in for a wild day of stakeouts and shootouts as they encounter the city&#39;s seedy side.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/i5l6a5RiR1E?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -288,7 +307,7 @@ After crashing his car, a cop who&#39;s recovering from eye surgery recruits an 
 	
 
 ### Once Upon a Time in Hollywood
-*Released on 2019-07-25, vote average 10*
+*Released on 2019-07-25, vote average 7*
 
 A faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood&#39;s Golden Age in 1969 Los Angeles.
 
@@ -308,22 +327,10 @@ A faded television actor and his stunt double strive to achieve fame and success
 	
 
 	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
 	
 
 ### Skin
-*Released on 2019-07-26, vote average 8.2*
+*Released on 2019-07-26, vote average 8.6*
 
 A destitute young man, raised by racist skinheads and notorious among white supremacists, turns his back on hatred and violence to transform his life, with the help of a black activist and the woman he loves.
 
@@ -336,6 +343,18 @@ A destitute young man, raised by racist skinheads and notorious among white supr
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
