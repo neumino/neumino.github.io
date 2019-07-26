@@ -51,6 +51,11 @@ Simba idolises his father, King Mufasa, and takes to heart his own royal destiny
 
 
 	
+
+  
+
+
+	
 	
 
 ### Secret Obsession
@@ -72,6 +77,23 @@ Newlywed Jennifer is brutally attacked at a dark rest stop. While healing from h
   
 
 
+	
+	
+
+### Once Upon a Time in Hollywood
+*Released on 2019-07-25, vote average 7.3*
+
+A faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood&#39;s Golden Age in 1969 Los Angeles.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Scf8nIJCvs4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -102,55 +124,6 @@ A mysterious new villain known only as Hush uses a gallery of villains to destro
 	
 	
 
-### Crawl
-*Released on 2019-07-11, vote average 5.8*
-
-While struggling to save her father during a Category 5 hurricane, a young woman finds herself trapped inside a flooding house and fighting for her life against Florida’s most savage and feared predators.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/H6MLJG0RdDE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Once Upon a Time in Hollywood
-*Released on 2019-07-25, vote average 7*
-
-A faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood&#39;s Golden Age in 1969 Los Angeles.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Scf8nIJCvs4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### Critters Attack!
 *Released on 2019-07-13, vote average 4.7*
 
@@ -171,10 +144,15 @@ Follows 20-year-old Drea, who reluctantly takes a job babysitting for a professo
 
 
 	
+
+  
+
+
+	
 	
 
 ### LEGO DC: Batman - Family Matters
-*Released on 2019-07-21, vote average 5.7*
+*Released on 2019-07-21, vote average 5.5*
 
 In LEGO DC: Batman - Family Matters, suspicion is on high after Batman, Batgirl, Robin and other DC superheroes receive mysterious invitations. However, family values must remain strong when Batman and his team encounter the villainous Red Hood, who is obsessed with destroying the Bat-family and all of Gotham City.
 
@@ -193,55 +171,6 @@ In LEGO DC: Batman - Family Matters, suspicion is on high after Batman, Batgirl,
 
 
 	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Stuber
-*Released on 2019-07-11, vote average 6.5*
-
-After crashing his car, a cop who&#39;s recovering from eye surgery recruits an Uber driver to help him catch a heroin dealer. The mismatched pair soon find themselves in for a wild day of stakeouts and shootouts as they encounter the city&#39;s seedy side.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/i5l6a5RiR1E?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Into the Ashes
-*Released on 2019-07-19, vote average 4*
-
-With an honest job and a loving wife, Nick Brenner believed he had safely escaped his violent, criminal history. But his old crew hasn&#39;t forgotten about him or the money he stole, and when they take what Nick now values the most - his wife - he has nothing left to lose. Confronted by the town sheriff, who is also his father-in-law, Nick must decide if he will stay on his new path or indulge in his need for revenge and force his enemies to pay for what they have done.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cn29Pv8bq-k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -271,12 +200,66 @@ A nurse is forced to spring a wounded murder suspect from the hospital when the 
 
 
 	
+
+  
+
+
+	
+	
+
+### Into the Ashes
+*Released on 2019-07-19, vote average 3.8*
+
+With an honest job and a loving wife, Nick Brenner believed he had safely escaped his violent, criminal history. But his old crew hasn&#39;t forgotten about him or the money he stole, and when they take what Nick now values the most - his wife - he has nothing left to lose. Confronted by the town sheriff, who is also his father-in-law, Nick must decide if he will stay on his new path or indulge in his need for revenge and force his enemies to pay for what they have done.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/cn29Pv8bq-k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
   
 
 
+	
+	
+
+### Skin
+*Released on 2019-07-26, vote average 8.2*
+
+A destitute young man, raised by racist skinheads and notorious among white supremacists, turns his back on hatred and violence to transform his life, with the help of a black activist and the woman he loves.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8uc30b4kZws?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -306,31 +289,8 @@ A nurse is forced to spring a wounded murder suspect from the hospital when the 
 	
 	
 
-### Once Upon a Time in Hollywood
-*Released on 2019-07-25, vote average 7*
-
-A faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood&#39;s Golden Age in 1969 Los Angeles.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Scf8nIJCvs4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
-	
-
 ### Skin
-*Released on 2019-07-26, vote average 8.6*
+*Released on 2019-07-26, vote average 8.2*
 
 A destitute young man, raised by racist skinheads and notorious among white supremacists, turns his back on hatred and violence to transform his life, with the help of a black activist and the woman he loves.
 
@@ -359,6 +319,14 @@ A destitute young man, raised by racist skinheads and notorious among white supr
 
 	
 
+	
+
+	
+
+	
+
+	
+	
 	
 
 	
