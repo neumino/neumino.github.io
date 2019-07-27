@@ -11,21 +11,6 @@ This is a convenient page that embeds trailers of movies released in the past
 
 	
 	
-
-### The Lion King
-*Released on 2019-07-12, vote average 7.2*
-
-Simba idolises his father, King Mufasa, and takes to heart his own royal destiny. But not everyone in the kingdom celebrates the new cub&#39;s arrival. Scar, Mufasa&#39;s brother—and former heir to the throne—has plans of his own. The battle for Pride Rock is ravaged with betrayal, tragedy and drama, ultimately resulting in Simba&#39;s exile. With help from a curious pair of newfound friends, Simba will have to figure out how to grow up and take back what is rightfully his.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/4CbLXeGSDxg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -45,11 +30,43 @@ Simba idolises his father, King Mufasa, and takes to heart his own royal destiny
 
 	
 	
+
+### Red Shoes and the Seven Dwarfs
+*Released on 2019-07-25, vote average 8*
+
+Princes who have been turned into Dwarfs seek the red shoes of a lady in order to break the spell, although it will not be easy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kvh24cLsuwU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
 
 
+	
+	
+
+### Once Upon a Time in Hollywood
+*Released on 2019-07-25, vote average 8*
+
+A faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood&#39;s Golden Age in 1969 Los Angeles.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Scf8nIJCvs4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -68,28 +85,6 @@ Newlywed Jennifer is brutally attacked at a dark rest stop. While healing from h
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/Nc6loZU3kjQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Once Upon a Time in Hollywood
-*Released on 2019-07-25, vote average 7.3*
-
-A faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood&#39;s Golden Age in 1969 Los Angeles.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Scf8nIJCvs4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -124,111 +119,6 @@ A mysterious new villain known only as Hush uses a gallery of villains to destro
 	
 	
 
-### Critters Attack!
-*Released on 2019-07-13, vote average 4.7*
-
-Follows 20-year-old Drea, who reluctantly takes a job babysitting for a professor of a college she hopes to attend. Struggling to entertain the professor&#39;s children Trissy and Jake, along with her own little brother Phillip , Drea takes them on a hike, unaware that mysterious alien critters have crash-landed and started devouring every living thing they encounter.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kuIc4yd7ZpU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### LEGO DC: Batman - Family Matters
-*Released on 2019-07-21, vote average 5.5*
-
-In LEGO DC: Batman - Family Matters, suspicion is on high after Batman, Batgirl, Robin and other DC superheroes receive mysterious invitations. However, family values must remain strong when Batman and his team encounter the villainous Red Hood, who is obsessed with destroying the Bat-family and all of Gotham City.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wAKvvUv_wck?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Point Blank
-*Released on 2019-07-12, vote average 6.1*
-
-A nurse is forced to spring a wounded murder suspect from the hospital when the man’s brother kidnaps his pregnant wife and wants to make a trade.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hIMJ0_S-x40?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Into the Ashes
-*Released on 2019-07-19, vote average 3.8*
-
-With an honest job and a loving wife, Nick Brenner believed he had safely escaped his violent, criminal history. But his old crew hasn&#39;t forgotten about him or the money he stole, and when they take what Nick now values the most - his wife - he has nothing left to lose. Confronted by the town sheriff, who is also his father-in-law, Nick must decide if he will stay on his new path or indulge in his need for revenge and force his enemies to pay for what they have done.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cn29Pv8bq-k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Skin
 *Released on 2019-07-26, vote average 8.2*
 
@@ -254,12 +144,101 @@ A destitute young man, raised by racist skinheads and notorious among white supr
 
 
 	
+	
+
+### Critters Attack!
+*Released on 2019-07-13, vote average 4.7*
+
+Follows 20-year-old Drea, who reluctantly takes a job babysitting for a professor of a college she hopes to attend. Struggling to entertain the professor&#39;s children Trissy and Jake, along with her own little brother Phillip , Drea takes them on a hike, unaware that mysterious alien critters have crash-landed and started devouring every living thing they encounter.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kuIc4yd7ZpU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
 	
 	
+
+### Quanta
+*Released on 2019-07-16, vote average 6*
+
+A physicist&#39;s life-long work comes to fruition when he is reluctantly partnered with a gifted young assistant. Ego divides them when they receive an unknown signal from space.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Q9hMS3mUsWU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### LEGO DC: Batman - Family Matters
+*Released on 2019-07-21, vote average 6.4*
+
+In LEGO DC: Batman - Family Matters, suspicion is on high after Batman, Batgirl, Robin and other DC superheroes receive mysterious invitations. However, family values must remain strong when Batman and his team encounter the villainous Red Hood, who is obsessed with destroying the Bat-family and all of Gotham City.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wAKvvUv_wck?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -285,20 +264,18 @@ A destitute young man, raised by racist skinheads and notorious among white supr
 
 
 	
-
-	
 	
 
-### Skin
-*Released on 2019-07-26, vote average 8.2*
+### Fast &amp; Furious Presents: Hobbs &amp; Shaw
+*Released on 2019-08-01, vote average 6*
 
-A destitute young man, raised by racist skinheads and notorious among white supremacists, turns his back on hatred and violence to transform his life, with the help of a black activist and the woman he loves.
+A spinoff of The Fate of the Furious, focusing on Johnson&#39;s US Diplomatic Security Agent Luke Hobbs forming an unlikely alliance with Statham&#39;s Deckard Shaw.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/8uc30b4kZws?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/9SA7FaKxZVI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -326,7 +303,7 @@ A destitute young man, raised by racist skinheads and notorious among white supr
 	
 
 	
-	
+
 	
 
 	
