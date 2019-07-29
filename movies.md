@@ -11,21 +11,6 @@ This is a convenient page that embeds trailers of movies released in the past
 
 	
 	
-
-### Red Shoes and the Seven Dwarfs
-*Released on 2019-07-25, vote average 9*
-
-Princes who have been turned into Dwarfs seek the red shoes of a lady in order to break the spell, although it will not be easy.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kvh24cLsuwU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -47,7 +32,7 @@ Princes who have been turned into Dwarfs seek the red shoes of a lady in order t
 	
 
 ### Once Upon a Time in Hollywood
-*Released on 2019-07-25, vote average 7.9*
+*Released on 2019-07-25, vote average 7.6*
 
 A faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood&#39;s Golden Age in 1969 Los Angeles.
 
@@ -67,6 +52,43 @@ A faded television actor and his stunt double strive to achieve fame and success
 
 	
 	
+
+### Red Shoes and the Seven Dwarfs
+*Released on 2019-07-25, vote average 6.3*
+
+Princes who have been turned into Dwarfs seek the red shoes of a lady in order to break the spell, although it will not be easy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kvh24cLsuwU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Kamen Rider Zi-O the Movie: Over Quartzer!
+*Released on 2019-07-26, vote average 10*
+
+The Quartzers, calling themselves the Wardens of Time, appear after Sougo Tokiwa has collected all of the Heisei Era Ride Watches. A grand conspiracy behind the birth of the King of Time becomes ever clearer...
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-EvQeIHPYSw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -76,7 +98,7 @@ A faded television actor and his stunt double strive to achieve fame and success
 	
 
 ### Secret Obsession
-*Released on 2019-07-18, vote average 5.6*
+*Released on 2019-07-18, vote average 5.5*
 
 Newlywed Jennifer is brutally attacked at a dark rest stop. While healing from her injuries, she can’t recall anything from her past, including the ordeal. Her husband, Russell , is just thankful she’s alive and eager to get her home. As he reintroduces her to their secluded mountain estate, Detective Page  pursues Jennifer’s assailant — his own daughter went missing and was never found. The same fate now awaits Jennifer, unless someone realizes that her loving caretaker is actually her captor.
 
@@ -122,18 +144,6 @@ A destitute young man, raised by racist skinheads and notorious among white supr
 
 
 	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
 	
 
 ### Quanta
@@ -159,7 +169,7 @@ A physicist&#39;s life-long work comes to fruition when he is reluctantly partne
 	
 
 ### Girls with Balls
-*Released on 2019-07-26, vote average 5.1*
+*Released on 2019-07-26, vote average 4.6*
 
 All girls volley ball team The Falcons end up stranded in the middle of nowhere after their mini-van breaks down. Little do they know they landed in degenerate hunters&#39; territory and the hunt is on. Thus begins a very long night where they must run for their lives and test their team spirit. But the girls are more resourceful than it appears. In the heart of the forest, the tables are about to turn between hunter and hunted...
 
@@ -172,11 +182,6 @@ All girls volley ball team The Falcons end up stranded in the middle of nowhere 
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -211,6 +216,13 @@ A mysterious new villain known only as Hush uses a gallery of villains to destro
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Judgementall Hai Kya
 *Released on 2019-07-26, vote average 7.2*
@@ -226,23 +238,6 @@ When Bobby meets her new tenants, a young married couple, their perfectly normal
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -280,6 +275,26 @@ In LEGO DC: Batman - Family Matters, suspicion is on high after Batman, Batgirl,
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -288,7 +303,7 @@ In LEGO DC: Batman - Family Matters, suspicion is on high after Batman, Batgirl,
 	
 
 ### Fast &amp; Furious Presents: Hobbs &amp; Shaw
-*Released on 2019-08-01, vote average 7*
+*Released on 2019-08-01, vote average 6.9*
 
 A spinoff of The Fate of the Furious, focusing on Johnson&#39;s US Diplomatic Security Agent Luke Hobbs forming an unlikely alliance with Statham&#39;s Deckard Shaw.
 
@@ -321,23 +336,6 @@ A spinoff of The Fate of the Furious, focusing on Johnson&#39;s US Diplomatic Se
 
 	
 
-	
-	
-
-### The Nightingale
-*Released on 2019-08-02, vote average 8.5*
-
-In 1829, Claire, a 21-year-old Irish convict, chases a British soldier through the rugged Tasmanian wilderness, bent on revenge for a terrible act of violence he committed against her family. She enlists the services of an Aboriginal tracker named Billy, who is also marked by trauma from his own violence-filled past.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/aoN3jJA2sUw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
