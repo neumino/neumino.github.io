@@ -11,6 +11,21 @@ This is a convenient page that embeds trailers of movies released in the past
 
 	
 	
+
+### Once Upon a Time in Hollywood
+*Released on 2019-07-25, vote average 7.6*
+
+A faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood&#39;s Golden Age in 1969 Los Angeles.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Scf8nIJCvs4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -31,16 +46,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Once Upon a Time in Hollywood
-*Released on 2019-07-25, vote average 7.6*
+### Kamen Rider Zi-O the Movie: Over Quartzer!
+*Released on 2019-07-26, vote average 9*
 
-A faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood&#39;s Golden Age in 1969 Los Angeles.
+The Quartzers, calling themselves the Wardens of Time, appear after Sougo Tokiwa has collected all of the Heisei Era Ride Watches. A grand conspiracy behind the birth of the King of Time becomes ever clearer...
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Scf8nIJCvs4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-EvQeIHPYSw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -54,7 +69,7 @@ A faded television actor and his stunt double strive to achieve fame and success
 	
 
 ### Red Shoes and the Seven Dwarfs
-*Released on 2019-07-25, vote average 6.3*
+*Released on 2019-07-25, vote average 6.5*
 
 Princes who have been turned into Dwarfs seek the red shoes of a lady in order to break the spell, although it will not be easy.
 
@@ -74,17 +89,51 @@ Princes who have been turned into Dwarfs seek the red shoes of a lady in order t
 
 	
 	
+	
 
-### Kamen Rider Zi-O the Movie: Over Quartzer!
-*Released on 2019-07-26, vote average 10*
+  
 
-The Quartzers, calling themselves the Wardens of Time, appear after Sougo Tokiwa has collected all of the Heisei Era Ride Watches. A grand conspiracy behind the birth of the King of Time becomes ever clearer...
+
+	
+	
+
+### Quanta
+*Released on 2019-07-16, vote average 6*
+
+A physicist&#39;s life-long work comes to fruition when he is reluctantly partnered with a gifted young assistant. Ego divides them when they receive an unknown signal from space.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-EvQeIHPYSw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Q9hMS3mUsWU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Girls with Balls
+*Released on 2019-07-26, vote average 4.8*
+
+All girls volley ball team The Falcons end up stranded in the middle of nowhere after their mini-van breaks down. Little do they know they landed in degenerate hunters&#39; territory and the hunt is on. Thus begins a very long night where they must run for their lives and test their team spirit. But the girls are more resourceful than it appears. In the heart of the forest, the tables are about to turn between hunter and hunted...
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/UcK6G3UnPrE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -120,7 +169,7 @@ Newlywed Jennifer is brutally attacked at a dark rest stop. While healing from h
 	
 
 ### Skin
-*Released on 2019-07-26, vote average 7.3*
+*Released on 2019-07-26, vote average 6.9*
 
 A destitute young man, raised by racist skinheads and notorious among white supremacists, turns his back on hatred and violence to transform his life, with the help of a black activist and the woman he loves.
 
@@ -139,64 +188,10 @@ A destitute young man, raised by racist skinheads and notorious among white supr
 
 
 	
-
-  
-
-
-	
-	
-
-### Quanta
-*Released on 2019-07-16, vote average 6*
-
-A physicist&#39;s life-long work comes to fruition when he is reluctantly partnered with a gifted young assistant. Ego divides them when they receive an unknown signal from space.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Q9hMS3mUsWU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Girls with Balls
-*Released on 2019-07-26, vote average 4.6*
-
-All girls volley ball team The Falcons end up stranded in the middle of nowhere after their mini-van breaks down. Little do they know they landed in degenerate hunters&#39; territory and the hunt is on. Thus begins a very long night where they must run for their lives and test their team spirit. But the girls are more resourceful than it appears. In the heart of the forest, the tables are about to turn between hunter and hunted...
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/UcK6G3UnPrE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### Batman: Hush
-*Released on 2019-07-19, vote average 6.9*
+*Released on 2019-07-19, vote average 7.1*
 
 A mysterious new villain known only as Hush uses a gallery of villains to destroy Batman&#39;s crime-fighting career as well as Bruce Wayne&#39;s personal life, which has been further complicated by a  relationship with Selina Kyle/Catwoman.
 
@@ -224,33 +219,6 @@ A mysterious new villain known only as Hush uses a gallery of villains to destro
 	
 	
 
-### Judgementall Hai Kya
-*Released on 2019-07-26, vote average 7.2*
-
-When Bobby meets her new tenants, a young married couple, their perfectly normal life leaves her really curious. But then a murder takes place and Bobby suspects Keshav has a role to play in the crime.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LnnUBVe7dFk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### LEGO DC: Batman - Family Matters
 *Released on 2019-07-21, vote average 6.3*
 
@@ -265,6 +233,38 @@ In LEGO DC: Batman - Family Matters, suspicion is on high after Batman, Batgirl,
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Astronaut
+*Released on 2019-07-26, vote average 7*
+
+A lonely widower battles his family, ill health and time to win a competition for a golden ticket to space.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/h3hVOEoylqY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -303,7 +303,7 @@ In LEGO DC: Batman - Family Matters, suspicion is on high after Batman, Batgirl,
 	
 
 ### Fast &amp; Furious Presents: Hobbs &amp; Shaw
-*Released on 2019-08-01, vote average 6.9*
+*Released on 2019-08-01, vote average 6.4*
 
 A spinoff of The Fate of the Furious, focusing on Johnson&#39;s US Diplomatic Security Agent Luke Hobbs forming an unlikely alliance with Statham&#39;s Deckard Shaw.
 
@@ -321,7 +321,7 @@ A spinoff of The Fate of the Furious, focusing on Johnson&#39;s US Diplomatic Se
 	
 
 	
-
+	
 	
 
 	
@@ -354,6 +354,10 @@ A spinoff of The Fate of the Furious, focusing on Johnson&#39;s US Diplomatic Se
 
 	
 
+	
+
+	
+	
 	
 
 
