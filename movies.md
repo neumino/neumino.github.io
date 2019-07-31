@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Once Upon a Time in Hollywood
-*Released on 2019-07-25, vote average 7.6*
+*Released on 2019-07-25, vote average 7.5*
 
 A faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood&#39;s Golden Age in 1969 Los Angeles.
 
@@ -67,6 +67,18 @@ The Quartzers, calling themselves the Wardens of Time, appear after Sougo Tokiwa
 
 	
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 
 ### Red Shoes and the Seven Dwarfs
 *Released on 2019-07-25, vote average 6.5*
@@ -89,62 +101,6 @@ Princes who have been turned into Dwarfs seek the red shoes of a lady in order t
 
 	
 	
-	
-
-  
-
-
-	
-	
-
-### Quanta
-*Released on 2019-07-16, vote average 6*
-
-A physicist&#39;s life-long work comes to fruition when he is reluctantly partnered with a gifted young assistant. Ego divides them when they receive an unknown signal from space.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Q9hMS3mUsWU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Girls with Balls
-*Released on 2019-07-26, vote average 4.8*
-
-All girls volley ball team The Falcons end up stranded in the middle of nowhere after their mini-van breaks down. Little do they know they landed in degenerate hunters&#39; territory and the hunt is on. Thus begins a very long night where they must run for their lives and test their team spirit. But the girls are more resourceful than it appears. In the heart of the forest, the tables are about to turn between hunter and hunted...
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/UcK6G3UnPrE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
 
 ### Secret Obsession
 *Released on 2019-07-18, vote average 5.5*
@@ -156,6 +112,28 @@ Newlywed Jennifer is brutally attacked at a dark rest stop. While healing from h
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/Nc6loZU3kjQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Girls with Balls
+*Released on 2019-07-26, vote average 4.4*
+
+All girls volley ball team The Falcons end up stranded in the middle of nowhere after their mini-van breaks down. Little do they know they landed in degenerate hunters&#39; territory and the hunt is on. Thus begins a very long night where they must run for their lives and test their team spirit. But the girls are more resourceful than it appears. In the heart of the forest, the tables are about to turn between hunter and hunted...
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/UcK6G3UnPrE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -217,22 +195,20 @@ A mysterious new villain known only as Hush uses a gallery of villains to destro
 
 
 	
-	
 
-### LEGO DC: Batman - Family Matters
-*Released on 2019-07-21, vote average 6.3*
+  
 
-In LEGO DC: Batman - Family Matters, suspicion is on high after Batman, Batgirl, Robin and other DC superheroes receive mysterious invitations. However, family values must remain strong when Batman and his team encounter the villainous Red Hood, who is obsessed with destroying the Bat-family and all of Gotham City.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wAKvvUv_wck?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -242,7 +218,7 @@ In LEGO DC: Batman - Family Matters, suspicion is on high after Batman, Batgirl,
 	
 
 ### Astronaut
-*Released on 2019-07-26, vote average 7*
+*Released on 2019-07-26, vote average 8.5*
 
 A lonely widower battles his family, ill health and time to win a competition for a golden ticket to space.
 
@@ -266,15 +242,22 @@ A lonely widower battles his family, ill health and time to win a competition fo
 
 
 	
-
-  
-
-
 	
 
-  
+### Whitney Cummings: Can I Touch It?
+*Released on 2019-07-30, vote average 7*
 
+In her fourth stand-up special, Whitney Cummings returns to her hometown of Washington, D.C., and riffs on modern feminism, technology and more.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6kXgLm2tGoM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -303,7 +286,7 @@ A lonely widower battles his family, ill health and time to win a competition fo
 	
 
 ### Fast &amp; Furious Presents: Hobbs &amp; Shaw
-*Released on 2019-08-01, vote average 6.4*
+*Released on 2019-08-01, vote average 6.2*
 
 A spinoff of The Fate of the Furious, focusing on Johnson&#39;s US Diplomatic Security Agent Luke Hobbs forming an unlikely alliance with Statham&#39;s Deckard Shaw.
 
@@ -319,31 +302,43 @@ A spinoff of The Fate of the Furious, focusing on Johnson&#39;s US Diplomatic Se
 	
 
 	
-
-	
-	
 	
 
-	
+### Descendants 3
+*Released on 2019-08-02, vote average 8*
+
+The teenagers of Disney&#39;s most infamous villains return to the Isle of the Lost to recruit a new batch of villainous offspring to join them at Auradon Prep.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/atWSEy550o0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
 
 	
+	
 
+### The Angry Birds Movie 2
+*Released on 2019-08-02, vote average 4.9*
+
+The flightless birds and scheming green pigs take their beef to the next level.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/egDqXpwKwnk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -357,6 +352,75 @@ A spinoff of The Fate of the Furious, focusing on Johnson&#39;s US Diplomatic Se
 	
 
 	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Ed&#39;s Dead
+*Released on 2019-07-31, vote average 10*
+
+Ed chokes on air and dies.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Hvfo5iTSNS8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+	
+
+### The Nightingale
+*Released on 2019-08-02, vote average 8.5*
+
+In 1829, Claire, a 21-year-old Irish convict, chases a British soldier through the rugged Tasmanian wilderness, bent on revenge for a terrible act of violence he committed against her family. She enlists the services of an Aboriginal tracker named Billy, who is also marked by trauma from his own violence-filled past.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/aoN3jJA2sUw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+	
+
+### A Score to Settle
+*Released on 2019-08-01, vote average 10*
+
+An ex-enforcer for a local crime syndicate has vowed to enact retribution on his mob bosses after 22 years of wrongful imprisonment. The only thing diverting his violent plans is a new found relationship to his beloved son.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hhfvB_KKvCE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
