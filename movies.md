@@ -11,9 +11,28 @@ This is a convenient page that embeds trailers of movies released in the past
 
 	
 	
+	
+
+  
+<br/>
+<br/>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle"
+     style="display:inline-block;width:468px;height:60px"
+     data-ad-client="ca-pub-5366199723595534"
+     data-ad-slot="2620298801"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  
+
+
+	
+	
 
 ### Once Upon a Time in Hollywood
-*Released on 2019-07-25, vote average 7.5*
+*Released on 2019-07-25, vote average 7.4*
 
 A faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood&#39;s Golden Age in 1969 Los Angeles.
 
@@ -29,17 +48,27 @@ A faded television actor and his stunt double strive to achieve fame and success
 	
 
   
-<br/>
-<br/>
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
-<ins class="adsbygoogle"
-     style="display:inline-block;width:468px;height:60px"
-     data-ad-client="ca-pub-5366199723595534"
-     data-ad-slot="2620298801"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+
+	
+	
+
+### Fast &amp; Furious Presents: Hobbs &amp; Shaw
+*Released on 2019-08-01, vote average 6.7*
+
+A spinoff of The Fate of the Furious, focusing on Johnson&#39;s US Diplomatic Security Agent Luke Hobbs forming an unlikely alliance with Statham&#39;s Deckard Shaw.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/9SA7FaKxZVI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
   
 
 
@@ -67,21 +96,9 @@ The Quartzers, calling themselves the Wardens of Time, appear after Sougo Tokiwa
 
 	
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 
 ### Red Shoes and the Seven Dwarfs
-*Released on 2019-07-25, vote average 6.5*
+*Released on 2019-07-25, vote average 5.8*
 
 Princes who have been turned into Dwarfs seek the red shoes of a lady in order to break the spell, although it will not be easy.
 
@@ -94,6 +111,38 @@ Princes who have been turned into Dwarfs seek the red shoes of a lady in order t
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Batman: Hush
+*Released on 2019-07-19, vote average 7.2*
+
+A mysterious new villain known only as Hush uses a gallery of villains to destroy Batman&#39;s crime-fighting career as well as Bruce Wayne&#39;s personal life, which has been further complicated by a  relationship with Selina Kyle/Catwoman.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/cQFFnUg0u70?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -122,10 +171,15 @@ Newlywed Jennifer is brutally attacked at a dark rest stop. While healing from h
 
 
 	
+
+  
+
+
+	
 	
 
 ### Girls with Balls
-*Released on 2019-07-26, vote average 4.4*
+*Released on 2019-07-26, vote average 4.1*
 
 All girls volley ball team The Falcons end up stranded in the middle of nowhere after their mini-van breaks down. Little do they know they landed in degenerate hunters&#39; territory and the hunt is on. Thus begins a very long night where they must run for their lives and test their team spirit. But the girls are more resourceful than it appears. In the heart of the forest, the tables are about to turn between hunter and hunted...
 
@@ -137,6 +191,13 @@ All girls volley ball team The Falcons end up stranded in the middle of nowhere 
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -160,82 +221,6 @@ A destitute young man, raised by racist skinheads and notorious among white supr
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### Batman: Hush
-*Released on 2019-07-19, vote average 7.1*
-
-A mysterious new villain known only as Hush uses a gallery of villains to destroy Batman&#39;s crime-fighting career as well as Bruce Wayne&#39;s personal life, which has been further complicated by a  relationship with Selina Kyle/Catwoman.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cQFFnUg0u70?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Astronaut
-*Released on 2019-07-26, vote average 8.5*
-
-A lonely widower battles his family, ill health and time to win a competition for a golden ticket to space.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/h3hVOEoylqY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -269,6 +254,40 @@ In her fourth stand-up special, Whitney Cummings returns to her hometown of Wash
 
 
 	
+	
+
+### The Red Sea Diving Resort
+*Released on 2019-07-31, vote average 8.2*
+
+Inspired by remarkable true life rescue missions, this is the incredible story of a group of Mossad agents and brave Ethiopians who in the early 80s used a deserted holiday retreat in Sudan as a front to smuggle thousands of refugees to Israel. The undercover team carrying out this mission is led by the charismatic Ari Kidron and courageous local Kabede Bimro.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/80WflPMzAcw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
 
   
 
@@ -286,7 +305,7 @@ In her fourth stand-up special, Whitney Cummings returns to her hometown of Wash
 	
 
 ### Fast &amp; Furious Presents: Hobbs &amp; Shaw
-*Released on 2019-08-01, vote average 6.2*
+*Released on 2019-08-01, vote average 6.7*
 
 A spinoff of The Fate of the Furious, focusing on Johnson&#39;s US Diplomatic Security Agent Luke Hobbs forming an unlikely alliance with Statham&#39;s Deckard Shaw.
 
@@ -305,7 +324,7 @@ A spinoff of The Fate of the Furious, focusing on Johnson&#39;s US Diplomatic Se
 	
 
 ### Descendants 3
-*Released on 2019-08-02, vote average 8*
+*Released on 2019-08-02, vote average 7.7*
 
 The teenagers of Disney&#39;s most infamous villains return to the Isle of the Lost to recruit a new batch of villainous offspring to join them at Auradon Prep.
 
@@ -318,8 +337,6 @@ The teenagers of Disney&#39;s most infamous villains return to the Isle of the L
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
@@ -348,41 +365,6 @@ The flightless birds and scheming green pigs take their beef to the next level.
 	
 
 	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	
-
-### Ed&#39;s Dead
-*Released on 2019-07-31, vote average 10*
-
-Ed chokes on air and dies.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Hvfo5iTSNS8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
 	
 
 ### The Nightingale
@@ -404,8 +386,6 @@ In 1829, Claire, a 21-year-old Irish convict, chases a British soldier through t
 	
 
 	
-
-	
 	
 
 ### A Score to Settle
@@ -422,6 +402,30 @@ An ex-enforcer for a local crime syndicate has vowed to enact retribution on his
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+	
+
 	
 
 
