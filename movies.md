@@ -31,16 +31,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Once Upon a Time in Hollywood
-*Released on 2019-07-25, vote average 7.4*
+### Fast &amp; Furious Presents: Hobbs &amp; Shaw
+*Released on 2019-08-01, vote average 6.7*
 
-A faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood&#39;s Golden Age in 1969 Los Angeles.
+A spinoff of The Fate of the Furious, focusing on Johnson&#39;s US Diplomatic Security Agent Luke Hobbs forming an unlikely alliance with Statham&#39;s Deckard Shaw.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Scf8nIJCvs4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/9SA7FaKxZVI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -53,16 +53,16 @@ A faded television actor and his stunt double strive to achieve fame and success
 	
 	
 
-### Fast &amp; Furious Presents: Hobbs &amp; Shaw
-*Released on 2019-08-01, vote average 6.7*
+### Once Upon a Time in Hollywood
+*Released on 2019-07-25, vote average 7.5*
 
-A spinoff of The Fate of the Furious, focusing on Johnson&#39;s US Diplomatic Security Agent Luke Hobbs forming an unlikely alliance with Statham&#39;s Deckard Shaw.
+A faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood&#39;s Golden Age in 1969 Los Angeles.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/9SA7FaKxZVI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Scf8nIJCvs4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -97,20 +97,25 @@ The Quartzers, calling themselves the Wardens of Time, appear after Sougo Tokiwa
 	
 	
 
-### Red Shoes and the Seven Dwarfs
-*Released on 2019-07-25, vote average 5.8*
+### Descendants 3
+*Released on 2019-08-02, vote average 7.9*
 
-Princes who have been turned into Dwarfs seek the red shoes of a lady in order to break the spell, although it will not be easy.
+The teenagers of Disney&#39;s most infamous villains return to the Isle of the Lost to recruit a new batch of villainous offspring to join them at Auradon Prep.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/kvh24cLsuwU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/atWSEy550o0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -144,6 +149,23 @@ A mysterious new villain known only as Hush uses a gallery of villains to destro
 
 
 	
+	
+
+### Red Shoes and the Seven Dwarfs
+*Released on 2019-07-25, vote average 5.8*
+
+Princes who have been turned into Dwarfs seek the red shoes of a lady in order to break the spell, although it will not be easy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kvh24cLsuwU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -151,20 +173,96 @@ A mysterious new villain known only as Hush uses a gallery of villains to destro
 	
 	
 
-### Secret Obsession
-*Released on 2019-07-18, vote average 5.5*
+### The Angry Birds Movie 2
+*Released on 2019-08-02, vote average 4.9*
 
-Newlywed Jennifer is brutally attacked at a dark rest stop. While healing from her injuries, she can’t recall anything from her past, including the ordeal. Her husband, Russell , is just thankful she’s alive and eager to get her home. As he reintroduces her to their secluded mountain estate, Detective Page  pursues Jennifer’s assailant — his own daughter went missing and was never found. The same fate now awaits Jennifer, unless someone realizes that her loving caretaker is actually her captor.
+The flightless birds and scheming green pigs take their beef to the next level.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Nc6loZU3kjQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/egDqXpwKwnk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### The Red Sea Diving Resort
+*Released on 2019-07-31, vote average 6.9*
+
+Inspired by remarkable true life rescue missions, this is the incredible story of a group of Mossad agents and brave Ethiopians who in the early 80s used a deserted holiday retreat in Sudan as a front to smuggle thousands of refugees to Israel. The undercover team carrying out this mission is led by the charismatic Ari Kidron and courageous local Kabede Bimro.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/80WflPMzAcw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Illuminated: The True Story of the Illuminati
+*Released on 2019-07-30, vote average 8*
+
+The true historical account of the Illuminati, exposing the actual rituals of the secret society, and answering the age-old question of whether or not the order still exists.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/km_1FZb8bFs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Exit
+*Released on 2019-07-31, vote average 4*
+
+When an unknown toxic gas strikes Seoul in an unprecedented act of terror, Yong-nam has just met Eui-ju from college by chance at his mother&#39;s birthday banquet. The city falls under sudden noxious gas attack and together, they must escape the panic-stricken city.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Sp_Uex375YM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -199,16 +297,9 @@ All girls volley ball team The Falcons end up stranded in the middle of nowhere 
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Skin
-*Released on 2019-07-26, vote average 6.9*
+*Released on 2019-07-26, vote average 6.7*
 
 A destitute young man, raised by racist skinheads and notorious among white supremacists, turns his back on hatred and violence to transform his life, with the help of a black activist and the woman he loves.
 
@@ -230,7 +321,7 @@ A destitute young man, raised by racist skinheads and notorious among white supr
 	
 
 ### Whitney Cummings: Can I Touch It?
-*Released on 2019-07-30, vote average 7*
+*Released on 2019-07-30, vote average 7.5*
 
 In her fourth stand-up special, Whitney Cummings returns to her hometown of Washington, D.C., and riffs on modern feminism, technology and more.
 
@@ -249,49 +340,22 @@ In her fourth stand-up special, Whitney Cummings returns to her hometown of Wash
 
 
 	
-
-  
-
-
-	
 	
 
-### The Red Sea Diving Resort
-*Released on 2019-07-31, vote average 8.2*
+### The Nightingale
+*Released on 2019-08-02, vote average 8.5*
 
-Inspired by remarkable true life rescue missions, this is the incredible story of a group of Mossad agents and brave Ethiopians who in the early 80s used a deserted holiday retreat in Sudan as a front to smuggle thousands of refugees to Israel. The undercover team carrying out this mission is led by the charismatic Ari Kidron and courageous local Kabede Bimro.
+In 1829, Claire, a 21-year-old Irish convict, chases a British soldier through the rugged Tasmanian wilderness, bent on revenge for a terrible act of violence he committed against her family. She enlists the services of an Aboriginal tracker named Billy, who is also marked by trauma from his own violence-filled past.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/80WflPMzAcw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/aoN3jJA2sUw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 	
 
   
@@ -304,27 +368,8 @@ Inspired by remarkable true life rescue missions, this is the incredible story o
 	
 	
 
-### Fast &amp; Furious Presents: Hobbs &amp; Shaw
-*Released on 2019-08-01, vote average 6.7*
-
-A spinoff of The Fate of the Furious, focusing on Johnson&#39;s US Diplomatic Security Agent Luke Hobbs forming an unlikely alliance with Statham&#39;s Deckard Shaw.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/9SA7FaKxZVI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
 ### Descendants 3
-*Released on 2019-08-02, vote average 7.7*
+*Released on 2019-08-02, vote average 7.9*
 
 The teenagers of Disney&#39;s most infamous villains return to the Isle of the Lost to recruit a new batch of villainous offspring to join them at Auradon Prep.
 
@@ -359,12 +404,6 @@ The flightless birds and scheming green pigs take their beef to the next level.
 	
 
 	
-
-	
-
-	
-
-	
 	
 
 ### The Nightingale
@@ -386,18 +425,22 @@ In 1829, Claire, a 21-year-old Irish convict, chases a British soldier through t
 	
 
 	
+
 	
 
-### A Score to Settle
-*Released on 2019-08-01, vote average 10*
+	
+	
 
-An ex-enforcer for a local crime syndicate has vowed to enact retribution on his mob bosses after 22 years of wrongful imprisonment. The only thing diverting his violent plans is a new found relationship to his beloved son.
+### Animals
+*Released on 2019-08-02, vote average 8*
+
+Laura and Tyler are best friends and drinking buddies whose hedonistic existence falls under the creeping horror of adulthood when Laura gets engaged to Jim – an ambitious pianist who surprisingly decides to go teetotal.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/hhfvB_KKvCE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/_FN_zr4rQzY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -423,9 +466,13 @@ An ex-enforcer for a local crime syndicate has vowed to enact retribution on his
 	
 
 	
-	
+
 	
 
+	
+
+	
+	
 	
 
 
