@@ -11,6 +11,21 @@ This is a convenient page that embeds trailers of movies released in the past
 
 	
 	
+
+### Fast &amp; Furious Presents: Hobbs &amp; Shaw
+*Released on 2019-08-01, vote average 6.9*
+
+A spinoff of The Fate of the Furious, focusing on Johnson&#39;s US Diplomatic Security Agent Luke Hobbs forming an unlikely alliance with Statham&#39;s Deckard Shaw.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/9SA7FaKxZVI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -31,38 +46,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Fast &amp; Furious Presents: Hobbs &amp; Shaw
-*Released on 2019-08-01, vote average 6.7*
+### Descendants 3
+*Released on 2019-08-02, vote average 7.5*
 
-A spinoff of The Fate of the Furious, focusing on Johnson&#39;s US Diplomatic Security Agent Luke Hobbs forming an unlikely alliance with Statham&#39;s Deckard Shaw.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/9SA7FaKxZVI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Once Upon a Time in Hollywood
-*Released on 2019-07-25, vote average 7.5*
-
-A faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood&#39;s Golden Age in 1969 Los Angeles.
+The teenagers of Disney&#39;s most infamous villains return to the Isle of the Lost to recruit a new batch of villainous offspring to join them at Auradon Prep.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Scf8nIJCvs4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/atWSEy550o0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -95,72 +88,23 @@ The Quartzers, calling themselves the Wardens of Time, appear after Sougo Tokiwa
 
 
 	
+
+  
+
+
+	
 	
 
-### Descendants 3
-*Released on 2019-08-02, vote average 7.9*
+### Once Upon a Time in Hollywood
+*Released on 2019-07-25, vote average 7.6*
 
-The teenagers of Disney&#39;s most infamous villains return to the Isle of the Lost to recruit a new batch of villainous offspring to join them at Auradon Prep.
+A faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood&#39;s Golden Age in 1969 Los Angeles.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/atWSEy550o0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Batman: Hush
-*Released on 2019-07-19, vote average 7.2*
-
-A mysterious new villain known only as Hush uses a gallery of villains to destroy Batman&#39;s crime-fighting career as well as Bruce Wayne&#39;s personal life, which has been further complicated by a  relationship with Selina Kyle/Catwoman.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cQFFnUg0u70?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Red Shoes and the Seven Dwarfs
-*Released on 2019-07-25, vote average 5.8*
-
-Princes who have been turned into Dwarfs seek the red shoes of a lady in order to break the spell, although it will not be easy.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kvh24cLsuwU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Scf8nIJCvs4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -174,7 +118,7 @@ Princes who have been turned into Dwarfs seek the red shoes of a lady in order t
 	
 
 ### The Angry Birds Movie 2
-*Released on 2019-08-02, vote average 4.9*
+*Released on 2019-08-02, vote average 5.6*
 
 The flightless birds and scheming green pigs take their beef to the next level.
 
@@ -215,6 +159,67 @@ Inspired by remarkable true life rescue missions, this is the incredible story o
 
 
 	
+	
+
+### The Divine Fury
+*Released on 2019-07-31, vote average 1*
+
+Yong-hu, a world champion martial artist who believes in no God, only himself, suddenly develops stigmata on his palms. Visiting a church in hopes of healing the stigmata, he ends up saving Father AHN, who falls into danger while performing an exorcism. In this way he learns of the power of the stigmata. As time passes Yong-hu accepts his new calling and begins saving people who are possessed by demons, but then he must prepare for a final confrontation with the evil Jisin, who ensnares people with the power of the devil.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8mBk8634OiM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Red Shoes and the Seven Dwarfs
+*Released on 2019-07-25, vote average 5.8*
+
+Princes who have been turned into Dwarfs seek the red shoes of a lady in order to break the spell, although it will not be easy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kvh24cLsuwU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Nightingale
+*Released on 2019-08-02, vote average 8.5*
+
+In 1829, Claire, a 21-year-old Irish convict, chases a British soldier through the rugged Tasmanian wilderness, bent on revenge for a terrible act of violence he committed against her family. She enlists the services of an Aboriginal tracker named Billy, who is also marked by trauma from his own violence-filled past.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/aoN3jJA2sUw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -242,54 +247,10 @@ The true historical account of the Illuminati, exposing the actual rituals of th
 
 
 	
-	
-
-### Exit
-*Released on 2019-07-31, vote average 4*
-
-When an unknown toxic gas strikes Seoul in an unprecedented act of terror, Yong-nam has just met Eui-ju from college by chance at his mother&#39;s birthday banquet. The city falls under sudden noxious gas attack and together, they must escape the panic-stricken city.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Sp_Uex375YM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Girls with Balls
-*Released on 2019-07-26, vote average 4.1*
-
-All girls volley ball team The Falcons end up stranded in the middle of nowhere after their mini-van breaks down. Little do they know they landed in degenerate hunters&#39; territory and the hunt is on. Thus begins a very long night where they must run for their lives and test their team spirit. But the girls are more resourceful than it appears. In the heart of the forest, the tables are about to turn between hunter and hunted...
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/UcK6G3UnPrE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -318,115 +279,19 @@ A destitute young man, raised by racist skinheads and notorious among white supr
 
 
 	
-	
 
-### Whitney Cummings: Can I Touch It?
-*Released on 2019-07-30, vote average 7.5*
+  
 
-In her fourth stand-up special, Whitney Cummings returns to her hometown of Washington, D.C., and riffs on modern feminism, technology and more.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/6kXgLm2tGoM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
 
 
 	
-	
-
-### The Nightingale
-*Released on 2019-08-02, vote average 8.5*
-
-In 1829, Claire, a 21-year-old Irish convict, chases a British soldier through the rugged Tasmanian wilderness, bent on revenge for a terrible act of violence he committed against her family. She enlists the services of an Aboriginal tracker named Billy, who is also marked by trauma from his own violence-filled past.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/aoN3jJA2sUw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
-
-
-## Opening soon
-
-
-	
-	
-
-### Descendants 3
-*Released on 2019-08-02, vote average 7.9*
-
-The teenagers of Disney&#39;s most infamous villains return to the Isle of the Lost to recruit a new batch of villainous offspring to join them at Auradon Prep.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/atWSEy550o0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### The Angry Birds Movie 2
-*Released on 2019-08-02, vote average 4.9*
-
-The flightless birds and scheming green pigs take their beef to the next level.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/egDqXpwKwnk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### The Nightingale
-*Released on 2019-08-02, vote average 8.5*
-
-In 1829, Claire, a 21-year-old Irish convict, chases a British soldier through the rugged Tasmanian wilderness, bent on revenge for a terrible act of violence he committed against her family. She enlists the services of an Aboriginal tracker named Billy, who is also marked by trauma from his own violence-filled past.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/aoN3jJA2sUw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
 
 	
 	
@@ -447,7 +312,39 @@ Laura and Tyler are best friends and drinking buddies whose hedonistic existence
 	
 	
 
+  
+
+
 	
+
+  
+
+
+	
+	
+
+### Girls with Balls
+*Released on 2019-07-26, vote average 4.2*
+
+All girls volley ball team The Falcons end up stranded in the middle of nowhere after their mini-van breaks down. Little do they know they landed in degenerate hunters&#39; territory and the hunt is on. Thus begins a very long night where they must run for their lives and test their team spirit. But the girls are more resourceful than it appears. In the heart of the forest, the tables are about to turn between hunter and hunted...
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/UcK6G3UnPrE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+
+## Opening soon
+
 
 	
 
@@ -472,7 +369,21 @@ Laura and Tyler are best friends and drinking buddies whose hedonistic existence
 	
 
 	
+
 	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 
