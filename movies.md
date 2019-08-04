@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Fast &amp; Furious Presents: Hobbs &amp; Shaw
-*Released on 2019-08-01, vote average 6.9*
+*Released on 2019-08-01, vote average 6.7*
 
 A spinoff of The Fate of the Furious, focusing on Johnson&#39;s US Diplomatic Security Agent Luke Hobbs forming an unlikely alliance with Statham&#39;s Deckard Shaw.
 
@@ -46,30 +46,8 @@ A spinoff of The Fate of the Furious, focusing on Johnson&#39;s US Diplomatic Se
 	
 	
 
-### Descendants 3
-*Released on 2019-08-02, vote average 7.5*
-
-The teenagers of Disney&#39;s most infamous villains return to the Isle of the Lost to recruit a new batch of villainous offspring to join them at Auradon Prep.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/atWSEy550o0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Kamen Rider Zi-O the Movie: Over Quartzer!
-*Released on 2019-07-26, vote average 9*
+*Released on 2019-07-26, vote average 8.7*
 
 The Quartzers, calling themselves the Wardens of Time, appear after Sougo Tokiwa has collected all of the Heisei Era Ride Watches. A grand conspiracy behind the birth of the King of Time becomes ever clearer...
 
@@ -87,6 +65,8 @@ The Quartzers, calling themselves the Wardens of Time, appear after Sougo Tokiwa
   
 
 
+	
+	
 	
 
   
@@ -117,30 +97,8 @@ A faded television actor and his stunt double strive to achieve fame and success
 	
 	
 
-### The Angry Birds Movie 2
-*Released on 2019-08-02, vote average 5.6*
-
-The flightless birds and scheming green pigs take their beef to the next level.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/egDqXpwKwnk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Red Sea Diving Resort
-*Released on 2019-07-31, vote average 6.9*
+*Released on 2019-07-31, vote average 6.8*
 
 Inspired by remarkable true life rescue missions, this is the incredible story of a group of Mossad agents and brave Ethiopians who in the early 80s used a deserted holiday retreat in Sudan as a front to smuggle thousands of refugees to Israel. The undercover team carrying out this mission is led by the charismatic Ari Kidron and courageous local Kabede Bimro.
 
@@ -171,6 +129,28 @@ Yong-hu, a world champion martial artist who believes in no God, only himself, s
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/8mBk8634OiM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Angry Birds Movie 2
+*Released on 2019-08-02, vote average 5.6*
+
+The flightless birds and scheming green pigs take their beef to the next level.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/egDqXpwKwnk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -227,6 +207,77 @@ In 1829, Claire, a 21-year-old Irish convict, chases a British soldier through t
 	
 	
 
+### A Score to Settle
+*Released on 2019-08-01, vote average 8.7*
+
+A former mob enforcer who is released from prison after serving 22 years for a crime he didn&#39;t commit sets out on a path for revenge against the people who wronged him.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hhfvB_KKvCE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Otherhood
+*Released on 2019-08-02, vote average 6.3*
+
+Three suburban moms travel to New York City to visit their sons.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/q2b8MKsUloc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Coyote Lake
+*Released on 2019-08-02, vote average 10*
+
+Coyote Lake is a reservoir on the Rio Grande along a dangerous drug smuggling route that has become synonymous with cartel violence and mysterious disappearances.  It is there, on the lake, that Teresa and her seventeen-year-old daughter, Ester, run a boarding house where they routinely drug, rob and drown the unsuspecting drug-runners and human traffickers who stay the night.  Teresa justifies the killings to her daughter, claiming they are ridding the world of bad people and saving the stolen money to leave Coyote Lake and start anew. But when they are taken hostage themselves by two intruding cartel gangsters, their dark routine is interrupted.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2UwoA1oNLPQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### Illuminated: The True Story of the Illuminati
 *Released on 2019-07-30, vote average 8*
 
@@ -241,6 +292,16 @@ The true historical account of the Illuminati, exposing the actual rituals of th
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -283,71 +344,27 @@ A destitute young man, raised by racist skinheads and notorious among white supr
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Animals
-*Released on 2019-08-02, vote average 8*
-
-Laura and Tyler are best friends and drinking buddies whose hedonistic existence falls under the creeping horror of adulthood when Laura gets engaged to Jim – an ambitious pianist who surprisingly decides to go teetotal.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/_FN_zr4rQzY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Girls with Balls
-*Released on 2019-07-26, vote average 4.2*
-
-All girls volley ball team The Falcons end up stranded in the middle of nowhere after their mini-van breaks down. Little do they know they landed in degenerate hunters&#39; territory and the hunt is on. Thus begins a very long night where they must run for their lives and test their team spirit. But the girls are more resourceful than it appears. In the heart of the forest, the tables are about to turn between hunter and hunted...
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/UcK6G3UnPrE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 
 ## Opening soon
 
 
 	
+	
 
+### Descendants 3
+*Released on 2019-08-09, vote average 9.6*
+
+The teenagers of Disney&#39;s most infamous villains return to the Isle of the Lost to recruit a new batch of villainous offspring to join them at Auradon Prep.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/atWSEy550o0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -376,6 +393,25 @@ All girls volley ball team The Falcons end up stranded in the middle of nowhere 
 
 	
 
+	
+
+	
+	
+
+### Plus One
+*Released on 2019-08-08, vote average 6*
+
+Two single friends agree to be each others&#39; respective plus one for each wedding they&#39;re invited to during a particularly busy nuptial period of their lives.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/RZSeK851vZY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
