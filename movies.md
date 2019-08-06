@@ -47,7 +47,7 @@ A spinoff of The Fate of the Furious, focusing on Johnson&#39;s US Diplomatic Se
 	
 
 ### Kamen Rider Zi-O the Movie: Over Quartzer!
-*Released on 2019-07-26, vote average 8.7*
+*Released on 2019-07-26, vote average 6.9*
 
 The Quartzers, calling themselves the Wardens of Time, appear after Sougo Tokiwa has collected all of the Heisei Era Ride Watches. A grand conspiracy behind the birth of the King of Time becomes ever clearer...
 
@@ -78,57 +78,13 @@ The Quartzers, calling themselves the Wardens of Time, appear after Sougo Tokiwa
 ### The Red Sea Diving Resort
 *Released on 2019-07-31, vote average 6.7*
 
-Inspired by remarkable true life rescue missions, this is the incredible story of a group of Mossad agents and brave Ethiopians who in the early 80s used a deserted holiday retreat in Sudan as a front to smuggle thousands of refugees to Israel. The undercover team carrying out this mission is led by the charismatic Ari Kidron and courageous local Kabede Bimro.
+Undercover agents open up a fake hotel to real tourists as a cover to help smuggle thousands of Ethiopian refugees to safety. Inspired by true events.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/80WflPMzAcw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Once Upon a Time in Hollywood
-*Released on 2019-07-25, vote average 7.5*
-
-A faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood&#39;s Golden Age in 1969 Los Angeles.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Scf8nIJCvs4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Angry Birds Movie 2
-*Released on 2019-08-02, vote average 5.7*
-
-The flightless birds and scheming green pigs take their beef to the next level.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/egDqXpwKwnk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -163,10 +119,76 @@ Princes who have been turned into Dwarfs seek the red shoes of a lady in order t
 	
 	
 
+### Once Upon a Time in Hollywood
+*Released on 2019-07-25, vote average 7.6*
+
+A faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood&#39;s Golden Age in 1969 Los Angeles.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Scf8nIJCvs4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Otherhood
+*Released on 2019-08-02, vote average 6.2*
+
+Three suburban moms travel to New York City to visit their sons.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/q2b8MKsUloc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Angry Birds Movie 2
+*Released on 2019-08-02, vote average 6.5*
+
+The flightless birds and scheming green pigs take their beef to the next level.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/egDqXpwKwnk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Divine Fury
 *Released on 2019-07-31, vote average 1*
 
-Yong-hu, a world champion martial artist who believes in no God, only himself, suddenly develops stigmata on his palms. Visiting a church in hopes of healing the stigmata, he ends up saving Father AHN, who falls into danger while performing an exorcism. In this way he learns of the power of the stigmata. As time passes Yong-hu accepts his new calling and begins saving people who are possessed by demons, but then he must prepare for a final confrontation with the evil Jisin, who ensnares people with the power of the devil.
+Yong-hu, a world champion martial artist who believes in no God, only himself, suddenly develops stigmata on his palms. Visiting a church in hopes of healing the stigmata, he ends up saving Father Ahn, who falls into danger while performing an exorcism. In this way he learns of the power of the stigmata. As time passes Yong-hu accepts his new calling and begins saving people who are possessed by demons, but then he must prepare for a final confrontation with the evil Jisin, who ensnares people with the power of the devil.
 
 <iframe id="player"
 	type="text/html"
@@ -186,7 +208,7 @@ Yong-hu, a world champion martial artist who believes in no God, only himself, s
 	
 
 ### A Score to Settle
-*Released on 2019-08-01, vote average 6.8*
+*Released on 2019-08-01, vote average 3.9*
 
 A former mob enforcer who is released from prison after serving 22 years for a crime he didn&#39;t commit sets out on a path for revenge against the people who wronged him.
 
@@ -195,28 +217,6 @@ A former mob enforcer who is released from prison after serving 22 years for a c
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/hhfvB_KKvCE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Otherhood
-*Released on 2019-08-02, vote average 6.3*
-
-Three suburban moms travel to New York City to visit their sons.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/q2b8MKsUloc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -251,20 +251,25 @@ Coyote Lake is a reservoir on the Rio Grande along a dangerous drug smuggling ro
 	
 	
 
-### The Nightingale
-*Released on 2019-08-02, vote average 8.5*
+### Skin
+*Released on 2019-07-26, vote average 6.7*
 
-In 1829, Claire, a 21-year-old Irish convict, chases a British soldier through the rugged Tasmanian wilderness, bent on revenge for a terrible act of violence he committed against her family. She enlists the services of an Aboriginal tracker named Billy, who is also marked by trauma from his own violence-filled past.
+A destitute young man, raised by racist skinheads and notorious among white supremacists, turns his back on hatred and violence to transform his life, with the help of a black activist and the woman he loves.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/aoN3jJA2sUw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/8uc30b4kZws?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -298,18 +303,28 @@ A star athlete and top student, Luce&#39;s idealized image is challenged by one 
 
 
 	
+
+  
+
+
 	
 
-### Skin
-*Released on 2019-07-26, vote average 6.7*
+  
 
-A destitute young man, raised by racist skinheads and notorious among white supremacists, turns his back on hatred and violence to transform his life, with the help of a black activist and the woman he loves.
+
+	
+	
+
+### The Nightingale
+*Released on 2019-08-02, vote average 8.5*
+
+In 1829, Claire, a 21-year-old Irish convict, chases a British soldier through the rugged Tasmanian wilderness, bent on revenge for a terrible act of violence he committed against her family. She enlists the services of an Aboriginal tracker named Billy, who is also marked by trauma from his own violence-filled past.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/8uc30b4kZws?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/aoN3jJA2sUw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -324,38 +339,6 @@ A destitute young man, raised by racist skinheads and notorious among white supr
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Girls with Balls
-*Released on 2019-07-26, vote average 4.1*
-
-All girls volley ball team The Falcons end up stranded in the middle of nowhere after their mini-van breaks down. Little do they know they landed in degenerate hunters&#39; territory and the hunt is on. Thus begins a very long night where they must run for their lives and test their team spirit. But the girls are more resourceful than it appears. In the heart of the forest, the tables are about to turn between hunter and hunted...
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/UcK6G3UnPrE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -385,7 +368,22 @@ The teenagers of Disney&#39;s most infamous villains return to the Isle of the L
 	
 
 	
+	
 
+### Dora and the Lost City of Gold
+*Released on 2019-08-08, vote average 8*
+
+Dora, a girl who has spent most of her life exploring the jungle with her parents, now must navigate her most dangerous adventure yet: high school. Always the explorer, Dora quickly finds herself leading Boots (her best friend, a monkey), Diego, and a rag tag group of teens on an adventure to save her parents and solve the impossible mystery behind a lost Inca civilization.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/gUTtJjV852c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -429,6 +427,25 @@ Two single friends agree to be each others&#39; respective plus one for each wed
 
 	
 
+	
+
+	
+	
+
+### Blinded by the Light
+*Released on 2019-08-09, vote average 10*
+
+In 1987, during the austere days of Thatcher’s Britain, a teenager learns to live life, understand his family, and find his own voice through the music of Bruce Springsteen.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/DmmHvnS0IKM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
