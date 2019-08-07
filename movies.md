@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Fast &amp; Furious Presents: Hobbs &amp; Shaw
-*Released on 2019-08-01, vote average 6.8*
+*Released on 2019-08-01, vote average 6.6*
 
 A spinoff of The Fate of the Furious, focusing on Johnson&#39;s US Diplomatic Security Agent Luke Hobbs forming an unlikely alliance with Statham&#39;s Deckard Shaw.
 
@@ -47,7 +47,7 @@ A spinoff of The Fate of the Furious, focusing on Johnson&#39;s US Diplomatic Se
 	
 
 ### Kamen Rider Zi-O the Movie: Over Quartzer!
-*Released on 2019-07-26, vote average 6.9*
+*Released on 2019-07-26, vote average 6.5*
 
 The Quartzers, calling themselves the Wardens of Time, appear after Sougo Tokiwa has collected all of the Heisei Era Ride Watches. A grand conspiracy behind the birth of the King of Time becomes ever clearer...
 
@@ -56,57 +56,6 @@ The Quartzers, calling themselves the Wardens of Time, appear after Sougo Tokiwa
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/-EvQeIHPYSw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### The Red Sea Diving Resort
-*Released on 2019-07-31, vote average 6.7*
-
-Undercover agents open up a fake hotel to real tourists as a cover to help smuggle thousands of Ethiopian refugees to safety. Inspired by true events.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/80WflPMzAcw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Red Shoes and the Seven Dwarfs
-*Released on 2019-07-25, vote average 5.8*
-
-Princes who have been turned into Dwarfs seek the red shoes of a lady in order to break the spell, although it will not be easy.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kvh24cLsuwU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -141,16 +90,38 @@ A faded television actor and his stunt double strive to achieve fame and success
 	
 	
 
-### Otherhood
-*Released on 2019-08-02, vote average 6.2*
+### Red Shoes and the Seven Dwarfs
+*Released on 2019-07-25, vote average 5*
 
-Three suburban moms travel to New York City to visit their sons.
+Princes who have been turned into Dwarfs seek the red shoes of a lady in order to break the spell, although it will not be easy.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/q2b8MKsUloc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/kvh24cLsuwU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Red Sea Diving Resort
+*Released on 2019-07-31, vote average 6.7*
+
+Undercover agents open up a fake hotel to real tourists as a cover to help smuggle thousands of Ethiopian refugees to safety. Inspired by true events.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/80WflPMzAcw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -164,7 +135,7 @@ Three suburban moms travel to New York City to visit their sons.
 	
 
 ### The Angry Birds Movie 2
-*Released on 2019-08-02, vote average 6.5*
+*Released on 2019-08-02, vote average 6.7*
 
 The flightless birds and scheming green pigs take their beef to the next level.
 
@@ -173,6 +144,35 @@ The flightless birds and scheming green pigs take their beef to the next level.
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/egDqXpwKwnk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Otherhood
+*Released on 2019-08-02, vote average 6.2*
+
+Three suburban moms travel to New York City to visit their sons.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/q2b8MKsUloc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -208,7 +208,7 @@ Yong-hu, a world champion martial artist who believes in no God, only himself, s
 	
 
 ### A Score to Settle
-*Released on 2019-08-01, vote average 3.9*
+*Released on 2019-08-01, vote average 4.8*
 
 A former mob enforcer who is released from prison after serving 22 years for a crime he didn&#39;t commit sets out on a path for revenge against the people who wronged him.
 
@@ -227,18 +227,23 @@ A former mob enforcer who is released from prison after serving 22 years for a c
 
 
 	
+
+  
+
+
+	
 	
 
-### Coyote Lake
-*Released on 2019-08-02, vote average 7*
+### Enter the Anime
+*Released on 2019-08-05, vote average 7*
 
-Coyote Lake is a reservoir on the Rio Grande along a dangerous drug smuggling route that has become synonymous with cartel violence and mysterious disappearances.  It is there, on the lake, that Teresa and her seventeen-year-old daughter, Ester, run a boarding house where they routinely drug, rob and drown the unsuspecting drug-runners and human traffickers who stay the night.  Teresa justifies the killings to her daughter, claiming they are ridding the world of bad people and saving the stolen money to leave Coyote Lake and start anew. But when they are taken hostage themselves by two intruding cartel gangsters, their dark routine is interrupted.
+What is anime? Through deep-dives with notable masterminds of this electrifying genre, this fast-paced documentary seeks to find the answers.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/2UwoA1oNLPQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/tU8RZ8tN2d0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -252,7 +257,7 @@ Coyote Lake is a reservoir on the Rio Grande along a dangerous drug smuggling ro
 	
 
 ### Skin
-*Released on 2019-07-26, vote average 6.7*
+*Released on 2019-07-26, vote average 6.9*
 
 A destitute young man, raised by racist skinheads and notorious among white supremacists, turns his back on hatred and violence to transform his life, with the help of a black activist and the woman he loves.
 
@@ -276,69 +281,47 @@ A destitute young man, raised by racist skinheads and notorious among white supr
 
 
 	
+
+  
+
+
 	
 
-### Luce
-*Released on 2019-08-02, vote average 6*
+  
 
-A star athlete and top student, Luce&#39;s idealized image is challenged by one of his teachers when his unsettling views on political violence come to light, putting a strain on family bonds while igniting intense debates on race and identity.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Operative
+*Released on 2019-07-24, vote average 5.8*
+
+A young Western woman is recruited by the Mossad to go undercover in Tehran where she becomes entangled in a complex triangle with her handler and her subject.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/aqzgDB1CMI4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/j74F5rT8DLA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Nightingale
-*Released on 2019-08-02, vote average 8.5*
-
-In 1829, Claire, a 21-year-old Irish convict, chases a British soldier through the rugged Tasmanian wilderness, bent on revenge for a terrible act of violence he committed against her family. She enlists the services of an Aboriginal tracker named Billy, who is also marked by trauma from his own violence-filled past.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/aoN3jJA2sUw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -371,7 +354,7 @@ The teenagers of Disney&#39;s most infamous villains return to the Isle of the L
 	
 
 ### Dora and the Lost City of Gold
-*Released on 2019-08-08, vote average 8*
+*Released on 2019-08-08, vote average 6.3*
 
 Dora, a girl who has spent most of her life exploring the jungle with her parents, now must navigate her most dangerous adventure yet: high school. Always the explorer, Dora quickly finds herself leading Boots (her best friend, a monkey), Diego, and a rag tag group of teens on an adventure to save her parents and solve the impossible mystery behind a lost Inca civilization.
 
@@ -401,6 +384,29 @@ Dora, a girl who has spent most of her life exploring the jungle with her parent
 	
 
 	
+	
+
+### Blinded by the Light
+*Released on 2019-08-09, vote average 10*
+
+In 1987, during the austere days of Thatcher’s Britain, a teenager learns to live life, understand his family, and find his own voice through the music of Bruce Springsteen.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/DmmHvnS0IKM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
 
 	
 	
@@ -423,29 +429,6 @@ Two single friends agree to be each others&#39; respective plus one for each wed
 
 	
 
-	
-
-	
-
-	
-
-	
-	
-
-### Blinded by the Light
-*Released on 2019-08-09, vote average 10*
-
-In 1987, during the austere days of Thatcher’s Britain, a teenager learns to live life, understand his family, and find his own voice through the music of Bruce Springsteen.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/DmmHvnS0IKM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
