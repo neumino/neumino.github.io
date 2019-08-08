@@ -47,7 +47,7 @@ A spinoff of The Fate of the Furious, focusing on Johnson&#39;s US Diplomatic Se
 	
 
 ### Kamen Rider Zi-O the Movie: Over Quartzer!
-*Released on 2019-07-26, vote average 6.5*
+*Released on 2019-07-26, vote average 5.1*
 
 The Quartzers, calling themselves the Wardens of Time, appear after Sougo Tokiwa has collected all of the Heisei Era Ride Watches. A grand conspiracy behind the birth of the King of Time becomes ever clearer...
 
@@ -135,7 +135,7 @@ Undercover agents open up a fake hotel to real tourists as a cover to help smugg
 	
 
 ### The Angry Birds Movie 2
-*Released on 2019-08-02, vote average 6.7*
+*Released on 2019-08-02, vote average 6.2*
 
 The flightless birds and scheming green pigs take their beef to the next level.
 
@@ -164,7 +164,7 @@ The flightless birds and scheming green pigs take their beef to the next level.
 	
 
 ### Otherhood
-*Released on 2019-08-02, vote average 6.2*
+*Released on 2019-08-02, vote average 6.3*
 
 Three suburban moms travel to New York City to visit their sons.
 
@@ -173,6 +173,33 @@ Three suburban moms travel to New York City to visit their sons.
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/q2b8MKsUloc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Dora and the Lost City of Gold
+*Released on 2019-08-08, vote average 5.1*
+
+Dora, a girl who has spent most of her life exploring the jungle with her parents, now must navigate her most dangerous adventure yet: high school. Always the explorer, Dora quickly finds herself leading Boots (her best friend, a monkey), Diego, and a rag tag group of teens on an adventure to save her parents and solve the impossible mystery behind a lost Inca civilization.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/gUTtJjV852c?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -205,10 +232,15 @@ Yong-hu, a world champion martial artist who believes in no God, only himself, s
 
 
 	
+
+  
+
+
+	
 	
 
 ### A Score to Settle
-*Released on 2019-08-01, vote average 4.8*
+*Released on 2019-08-01, vote average 5.2*
 
 A former mob enforcer who is released from prison after serving 22 years for a crime he didn&#39;t commit sets out on a path for revenge against the people who wronged him.
 
@@ -216,7 +248,7 @@ A former mob enforcer who is released from prison after serving 22 years for a c
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/hhfvB_KKvCE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/KQXz_wJl-Zw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -232,40 +264,23 @@ A former mob enforcer who is released from prison after serving 22 years for a c
 
 
 	
+
+  
+
+
+	
 	
 
-### Enter the Anime
-*Released on 2019-08-05, vote average 7*
+### The Art of Racing in the Rain
+*Released on 2019-08-08, vote average 9*
 
-What is anime? Through deep-dives with notable masterminds of this electrifying genre, this fast-paced documentary seeks to find the answers.
+Enzo, a family dog with a near-human soul and a philosopher&#39;s mind, evaluates his life through the lessons learned by his human owner, the race-car driver Denny Swift.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/tU8RZ8tN2d0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Skin
-*Released on 2019-07-26, vote average 6.9*
-
-A destitute young man, raised by racist skinheads and notorious among white supremacists, turns his back on hatred and violence to transform his life, with the help of a black activist and the woman he loves.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8uc30b4kZws?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Dp2ufFO4QGg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -286,42 +301,12 @@ A destitute young man, raised by racist skinheads and notorious among white supr
 
 
 	
-
-  
-
-
 	
-
-  
-
-
 	
 
   
 
 
-	
-
-  
-
-
-	
-	
-
-### The Operative
-*Released on 2019-07-24, vote average 5.8*
-
-A young Western woman is recruited by the Mossad to go undercover in Tehran where she becomes entangled in a complex triangle with her handler and her subject.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/j74F5rT8DLA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -335,7 +320,7 @@ A young Western woman is recruited by the Mossad to go undercover in Tehran wher
 	
 
 ### Descendants 3
-*Released on 2019-08-09, vote average 9*
+*Released on 2019-08-09, vote average 8.9*
 
 The teenagers of Disney&#39;s most infamous villains return to the Isle of the Lost to recruit a new batch of villainous offspring to join them at Auradon Prep.
 
@@ -354,7 +339,7 @@ The teenagers of Disney&#39;s most infamous villains return to the Isle of the L
 	
 
 ### Dora and the Lost City of Gold
-*Released on 2019-08-08, vote average 6.3*
+*Released on 2019-08-08, vote average 5.1*
 
 Dora, a girl who has spent most of her life exploring the jungle with her parents, now must navigate her most dangerous adventure yet: high school. Always the explorer, Dora quickly finds herself leading Boots (her best friend, a monkey), Diego, and a rag tag group of teens on an adventure to save her parents and solve the impossible mystery behind a lost Inca civilization.
 
@@ -374,36 +359,22 @@ Dora, a girl who has spent most of her life exploring the jungle with her parent
 	
 
 	
-
 	
 
-	
+### The Art of Racing in the Rain
+*Released on 2019-08-08, vote average 9*
 
-	
-
-	
-
-	
-	
-
-### Blinded by the Light
-*Released on 2019-08-09, vote average 10*
-
-In 1987, during the austere days of Thatcher’s Britain, a teenager learns to live life, understand his family, and find his own voice through the music of Bruce Springsteen.
+Enzo, a family dog with a near-human soul and a philosopher&#39;s mind, evaluates his life through the lessons learned by his human owner, the race-car driver Denny Swift.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/DmmHvnS0IKM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Dp2ufFO4QGg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
 	
 
 	
@@ -425,6 +396,22 @@ Two single friends agree to be each others&#39; respective plus one for each wed
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+	
+
 	
 
 	
