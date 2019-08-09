@@ -46,8 +46,30 @@ A spinoff of The Fate of the Furious, focusing on Johnson&#39;s US Diplomatic Se
 	
 	
 
+### Descendants 3
+*Released on 2019-08-09, vote average 8.6*
+
+The teenagers of Disney&#39;s most infamous villains return to the Isle of the Lost to recruit a new batch of villainous offspring to join them at Auradon Prep.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/atWSEy550o0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Kamen Rider Zi-O the Movie: Over Quartzer!
-*Released on 2019-07-26, vote average 5.1*
+*Released on 2019-07-26, vote average 5.7*
 
 The Quartzers, calling themselves the Wardens of Time, appear after Sougo Tokiwa has collected all of the Heisei Era Ride Watches. A grand conspiracy behind the birth of the King of Time becomes ever clearer...
 
@@ -56,50 +78,6 @@ The Quartzers, calling themselves the Wardens of Time, appear after Sougo Tokiwa
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/-EvQeIHPYSw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Once Upon a Time in Hollywood
-*Released on 2019-07-25, vote average 7.6*
-
-A faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood&#39;s Golden Age in 1969 Los Angeles.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Scf8nIJCvs4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Red Shoes and the Seven Dwarfs
-*Released on 2019-07-25, vote average 5*
-
-Princes who have been turned into Dwarfs seek the red shoes of a lady in order to break the spell, although it will not be easy.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kvh24cLsuwU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -155,16 +133,9 @@ The flightless birds and scheming green pigs take their beef to the next level.
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Otherhood
-*Released on 2019-08-02, vote average 6.3*
+*Released on 2019-08-02, vote average 6.2*
 
 Three suburban moms travel to New York City to visit their sons.
 
@@ -183,15 +154,10 @@ Three suburban moms travel to New York City to visit their sons.
 
 
 	
-
-  
-
-
-	
 	
 
 ### Dora and the Lost City of Gold
-*Released on 2019-08-08, vote average 5.1*
+*Released on 2019-08-08, vote average 6.9*
 
 Dora, a girl who has spent most of her life exploring the jungle with her parents, now must navigate her most dangerous adventure yet: high school. Always the explorer, Dora quickly finds herself leading Boots (her best friend, a monkey), Diego, and a rag tag group of teens on an adventure to save her parents and solve the impossible mystery behind a lost Inca civilization.
 
@@ -232,6 +198,30 @@ Yong-hu, a world champion martial artist who believes in no God, only himself, s
 
 
 	
+	
+	
+
+  
+
+
+	
+	
+
+### Scary Stories to Tell in the Dark
+*Released on 2019-08-08, vote average 8.3*
+
+The shadow of the Bellows family has loomed large in the small town of Mill Valley for generations. It&#39;s in a mansion that young Sarah Bellows turns her tortured life and horrible secrets into a series of scary stories. These terrifying tales soon have a way of becoming all too real for a group of unsuspecting teens who stumble upon Sarah&#39;s spooky home.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/N3J2k3Nhicw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -240,7 +230,7 @@ Yong-hu, a world champion martial artist who believes in no God, only himself, s
 	
 
 ### A Score to Settle
-*Released on 2019-08-01, vote average 5.2*
+*Released on 2019-08-01, vote average 4.9*
 
 A former mob enforcer who is released from prison after serving 22 years for a crime he didn&#39;t commit sets out on a path for revenge against the people who wronged him.
 
@@ -264,15 +254,10 @@ A former mob enforcer who is released from prison after serving 22 years for a c
 
 
 	
-
-  
-
-
-	
 	
 
 ### The Art of Racing in the Rain
-*Released on 2019-08-08, vote average 9*
+*Released on 2019-08-08, vote average 6*
 
 Enzo, a family dog with a near-human soul and a philosopher&#39;s mind, evaluates his life through the lessons learned by his human owner, the race-car driver Denny Swift.
 
@@ -290,6 +275,55 @@ Enzo, a family dog with a near-human soul and a philosopher&#39;s mind, evaluate
   
 
 
+	
+	
+
+### D-Railed
+*Released on 2019-08-06, vote average 2*
+
+Passengers on a train that crashes into a river must decide whether to risk waiting for help in the wreckage or take their chances in the murky depths below.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/djNOT8JlRdo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Plus One
+*Released on 2019-08-08, vote average 6*
+
+Two single friends agree to be each others&#39; respective plus one for each wedding they&#39;re invited to during a particularly busy nuptial period of their lives.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/RZSeK851vZY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -320,7 +354,7 @@ Enzo, a family dog with a near-human soul and a philosopher&#39;s mind, evaluate
 	
 
 ### Descendants 3
-*Released on 2019-08-09, vote average 8.9*
+*Released on 2019-08-09, vote average 8.6*
 
 The teenagers of Disney&#39;s most infamous villains return to the Isle of the Lost to recruit a new batch of villainous offspring to join them at Auradon Prep.
 
@@ -336,62 +370,20 @@ The teenagers of Disney&#39;s most infamous villains return to the Isle of the L
 	
 
 	
+
+	
 	
 
-### Dora and the Lost City of Gold
-*Released on 2019-08-08, vote average 5.1*
+### Blinded by the Light
+*Released on 2019-08-09, vote average 10*
 
-Dora, a girl who has spent most of her life exploring the jungle with her parents, now must navigate her most dangerous adventure yet: high school. Always the explorer, Dora quickly finds herself leading Boots (her best friend, a monkey), Diego, and a rag tag group of teens on an adventure to save her parents and solve the impossible mystery behind a lost Inca civilization.
+In 1987, during the austere days of Thatcher’s Britain, a teenager learns to live life, understand his family, and find his own voice through the music of Bruce Springsteen.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/gUTtJjV852c?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
-	
-
-### The Art of Racing in the Rain
-*Released on 2019-08-08, vote average 9*
-
-Enzo, a family dog with a near-human soul and a philosopher&#39;s mind, evaluates his life through the lessons learned by his human owner, the race-car driver Denny Swift.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Dp2ufFO4QGg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-	
-
-### Plus One
-*Released on 2019-08-08, vote average 6*
-
-Two single friends agree to be each others&#39; respective plus one for each wedding they&#39;re invited to during a particularly busy nuptial period of their lives.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/RZSeK851vZY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/DmmHvnS0IKM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -409,7 +401,13 @@ Two single friends agree to be each others&#39; respective plus one for each wed
 	
 
 	
+
 	
+
+	
+
+	
+
 	
 
 	
