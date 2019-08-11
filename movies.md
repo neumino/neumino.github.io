@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Fast &amp; Furious Presents: Hobbs &amp; Shaw
-*Released on 2019-08-01, vote average 6.6*
+*Released on 2019-08-01, vote average 6.5*
 
 A spinoff of The Fate of the Furious, focusing on Johnson&#39;s US Diplomatic Security Agent Luke Hobbs forming an unlikely alliance with Statham&#39;s Deckard Shaw.
 
@@ -47,7 +47,7 @@ A spinoff of The Fate of the Furious, focusing on Johnson&#39;s US Diplomatic Se
 	
 
 ### Descendants 3
-*Released on 2019-08-09, vote average 8.7*
+*Released on 2019-08-09, vote average 8.4*
 
 The teenagers of Disney&#39;s most infamous villains return to the Isle of the Lost to recruit a new batch of villainous offspring to join them at Auradon Prep.
 
@@ -69,7 +69,7 @@ The teenagers of Disney&#39;s most infamous villains return to the Isle of the L
 	
 
 ### Dora and the Lost City of Gold
-*Released on 2019-08-08, vote average 6.4*
+*Released on 2019-08-08, vote average 5.6*
 
 Dora, a girl who has spent most of her life exploring the jungle with her parents, now must navigate her most dangerous adventure yet: high school. Always the explorer, Dora quickly finds herself leading Boots (her best friend, a monkey), Diego, and a rag tag group of teens on an adventure to save her parents and solve the impossible mystery behind a lost Inca civilization.
 
@@ -78,28 +78,6 @@ Dora, a girl who has spent most of her life exploring the jungle with her parent
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/gUTtJjV852c?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Red Sea Diving Resort
-*Released on 2019-07-31, vote average 6.7*
-
-Undercover agents open up a fake hotel to real tourists as a cover to help smuggle thousands of Ethiopian refugees to safety. Inspired by true events.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/80WflPMzAcw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,8 +112,30 @@ The shadow of the Bellows family has loomed large in the small town of Mill Vall
 	
 	
 
+### The Divine Fury
+*Released on 2019-07-31, vote average 2.1*
+
+Yong-hu, a world champion martial artist who believes in no God, only himself, suddenly develops stigmata on his palms. Visiting a church in hopes of healing the stigmata, he ends up saving Father Ahn, who falls into danger while performing an exorcism. In this way he learns of the power of the stigmata. As time passes Yong-hu accepts his new calling and begins saving people who are possessed by demons, but then he must prepare for a final confrontation with the evil Jisin, who ensnares people with the power of the devil.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8mBk8634OiM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Angry Birds Movie 2
-*Released on 2019-08-02, vote average 6.2*
+*Released on 2019-08-02, vote average 6.3*
 
 The flightless birds and scheming green pigs take their beef to the next level.
 
@@ -156,16 +156,16 @@ The flightless birds and scheming green pigs take their beef to the next level.
 	
 	
 
-### The Divine Fury
-*Released on 2019-07-31, vote average 1*
+### The Red Sea Diving Resort
+*Released on 2019-07-31, vote average 6.7*
 
-Yong-hu, a world champion martial artist who believes in no God, only himself, suddenly develops stigmata on his palms. Visiting a church in hopes of healing the stigmata, he ends up saving Father Ahn, who falls into danger while performing an exorcism. In this way he learns of the power of the stigmata. As time passes Yong-hu accepts his new calling and begins saving people who are possessed by demons, but then he must prepare for a final confrontation with the evil Jisin, who ensnares people with the power of the devil.
+Undercover agents open up a fake hotel to real tourists as a cover to help smuggle thousands of Ethiopian refugees to safety. Inspired by true events.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/8mBk8634OiM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/80WflPMzAcw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -192,11 +192,6 @@ Three suburban moms travel to New York City to visit their sons.
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -247,12 +242,49 @@ Enzo, a family dog with a near-human soul and a philosopher&#39;s mind, evaluate
 
 
 	
+	
+
+### The Kitchen
+*Released on 2019-08-08, vote average 4.5*
+
+An Irish mob story set in 1970s Hell&#39;s Kitchen. After the mobsters are sentenced to jail, their wives take their place — and do as good of a job, if not better.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ue_NxLRGeOw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
 	
 	
+
+### Blinded by the Light
+*Released on 2019-08-09, vote average 9.6*
+
+In 1987, during the austere days of Thatcher’s Britain, a teenager learns to live life, understand his family, and find his own voice through the music of Bruce Springsteen.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/DmmHvnS0IKM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -262,7 +294,7 @@ Enzo, a family dog with a near-human soul and a philosopher&#39;s mind, evaluate
 	
 
 ### D-Railed
-*Released on 2019-08-06, vote average 3.3*
+*Released on 2019-08-06, vote average 3.2*
 
 Passengers on a train that crashes into a river must decide whether to risk waiting for help in the wreckage or take their chances in the murky depths below.
 
@@ -281,18 +313,23 @@ Passengers on a train that crashes into a river must decide whether to risk wait
 
 
 	
+
+  
+
+
+	
 	
 
-### A Score to Settle
-*Released on 2019-08-01, vote average 4.8*
+### Light of My Life
+*Released on 2019-08-09, vote average 7.3*
 
-A former mob enforcer who is released from prison after serving 22 years for a crime he didn&#39;t commit sets out on a path for revenge against the people who wronged him.
+Parent and child journey through the outskirts of society a decade after a pandemic has wiped out half the world&#39;s population. As a father struggles to protect his child, their bond—and the character of humanity—is tested.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/KQXz_wJl-Zw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/nWkAtNpSIrY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -303,19 +340,27 @@ A former mob enforcer who is released from prison after serving 22 years for a c
 
 
 	
-	
-	
 
   
 
 
 	
 	
+
+### Rocko&#39;s Modern Life: Static Cling
+*Released on 2019-08-09, vote average 6.8*
+
+After 20 years in space, Rocko returns to a technologically advanced O-Town and makes it his mission to get his favorite show back on the air.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/cuF9aZxoipE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
-
-  
-
-
 	
 
   
