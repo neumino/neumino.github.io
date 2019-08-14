@@ -15,7 +15,7 @@ This is a convenient page that embeds trailers of movies released in the past
 ### Fast &amp; Furious Presents: Hobbs &amp; Shaw
 *Released on 2019-08-01, vote average 6.5*
 
-A spinoff of The Fate of the Furious, focusing on Johnson&#39;s US Diplomatic Security Agent Luke Hobbs forming an unlikely alliance with Statham&#39;s Deckard Shaw.
+A spinoff of The Fate of the Furious, focusing on Johnson&#39;s US Diplomatic Security Agent Luke Hobbs forming an unlikely alliance with Statham&#39;s Deckard Shaw. Director: David Leitch Writers: Chris Morgan (story by), Chris Morgan (screenplay by) And Stars:  More Details:-https://4igpost.in/TMDB  Dwayne Johnson, Jason Statham, Idris Elba
 
 <iframe id="player"
 	type="text/html"
@@ -47,7 +47,7 @@ A spinoff of The Fate of the Furious, focusing on Johnson&#39;s US Diplomatic Se
 	
 
 ### Descendants 3
-*Released on 2019-08-09, vote average 8.4*
+*Released on 2019-08-09, vote average 8.3*
 
 The teenagers of Disney&#39;s most infamous villains return to the Isle of the Lost to recruit a new batch of villainous offspring to join them at Auradon Prep.
 
@@ -69,7 +69,7 @@ The teenagers of Disney&#39;s most infamous villains return to the Isle of the L
 	
 
 ### The Divine Fury
-*Released on 2019-07-31, vote average 2.3*
+*Released on 2019-07-31, vote average 3*
 
 Yong-hu, a world champion martial artist who believes in no God, only himself, suddenly develops stigmata on his palms. Visiting a church in hopes of healing the stigmata, he ends up saving Father Ahn, who falls into danger while performing an exorcism. In this way he learns of the power of the stigmata. As time passes Yong-hu accepts his new calling and begins saving people who are possessed by demons, but then he must prepare for a final confrontation with the evil Jisin, who ensnares people with the power of the devil.
 
@@ -90,30 +90,8 @@ Yong-hu, a world champion martial artist who believes in no God, only himself, s
 	
 	
 
-### Dora and the Lost City of Gold
-*Released on 2019-08-08, vote average 6.3*
-
-Dora, a girl who has spent most of her life exploring the jungle with her parents, now must navigate her most dangerous adventure yet: high school. Always the explorer, Dora quickly finds herself leading Boots (her best friend, a monkey), Diego, and a rag tag group of teens on an adventure to save her parents and solve the impossible mystery behind a lost Inca civilization.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/gUTtJjV852c?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Scary Stories to Tell in the Dark
-*Released on 2019-08-08, vote average 6.6*
+*Released on 2019-08-08, vote average 6.7*
 
 The shadow of the Bellows family has loomed large in the small town of Mill Valley for generations. It&#39;s in a mansion that young Sarah Bellows turns her tortured life and horrible secrets into a series of scary stories. These terrifying tales soon have a way of becoming all too real for a group of unsuspecting teens who stumble upon Sarah&#39;s spooky home.
 
@@ -132,32 +110,27 @@ The shadow of the Bellows family has loomed large in the small town of Mill Vall
 
 
 	
-
-  
-
-
 	
 
-  
+### Dora and the Lost City of Gold
+*Released on 2019-08-08, vote average 6.4*
 
-
-	
-	
-
-### The Red Sea Diving Resort
-*Released on 2019-07-31, vote average 6.7*
-
-Undercover agents open up a fake hotel to real tourists as a cover to help smuggle thousands of Ethiopian refugees to safety. Inspired by true events.
+Dora, a girl who has spent most of her life exploring the jungle with her parents, now must navigate her most dangerous adventure yet: high school. Always the explorer, Dora quickly finds herself leading Boots (her best friend, a monkey), Diego, and a rag tag group of teens on an adventure to save her parents and solve the impossible mystery behind a lost Inca civilization.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/80WflPMzAcw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/gUTtJjV852c?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -188,16 +161,38 @@ The flightless birds and scheming green pigs take their beef to the next level.
 	
 	
 
-### Light of My Life
-*Released on 2019-08-09, vote average 7.4*
+### One Piece: Stampede
+*Released on 2019-08-09, vote average 10*
 
-Parent and child journey through the outskirts of society a decade after a pandemic has wiped out half the world&#39;s population. As a father struggles to protect his child, their bond—and the character of humanity—is tested.
+The film celebrates the One Piece anime&#39;s 20th anniversary and will be the 14th film in the franchise.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/nWkAtNpSIrY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/v4cYWzTa_gQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Red Sea Diving Resort
+*Released on 2019-07-31, vote average 6.7*
+
+Undercover agents open up a fake hotel to real tourists as a cover to help smuggle thousands of Ethiopian refugees to safety. Inspired by true events.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/80WflPMzAcw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -211,7 +206,7 @@ Parent and child journey through the outskirts of society a decade after a pande
 	
 
 ### Rocko&#39;s Modern Life: Static Cling
-*Released on 2019-08-09, vote average 6.6*
+*Released on 2019-08-09, vote average 6.7*
 
 After 20 years in space, Rocko returns to a technologically advanced O-Town and makes it his mission to get his favorite show back on the air.
 
@@ -230,10 +225,15 @@ After 20 years in space, Rocko returns to a technologically advanced O-Town and 
 
 
 	
+
+  
+
+
+	
 	
 
 ### The Kitchen
-*Released on 2019-08-08, vote average 6*
+*Released on 2019-08-08, vote average 5.8*
 
 An Irish mob story set in 1970s Hell&#39;s Kitchen. After the mobsters are sentenced to jail, their wives take their place — and do as good of a job, if not better.
 
@@ -253,75 +253,28 @@ An Irish mob story set in 1970s Hell&#39;s Kitchen. After the mobsters are sente
 
 	
 	
+	
 
-### The Art of Racing in the Rain
-*Released on 2019-08-08, vote average 6.8*
+  
 
-Enzo, a family dog with a near-human soul and a philosopher&#39;s mind, evaluates his life through the lessons learned by his human owner, the race-car driver Denny Swift.
+
+	
+	
+
+### Light of My Life
+*Released on 2019-08-09, vote average 6.9*
+
+Parent and child journey through the outskirts of society a decade after a pandemic has wiped out half the world&#39;s population. As a father struggles to protect his child, their bond—and the character of humanity—is tested.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Dp2ufFO4QGg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/nWkAtNpSIrY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### Plus One
-*Released on 2019-08-08, vote average 8*
-
-Two single friends agree to be each others&#39; respective plus one for each wedding they&#39;re invited to during a particularly busy nuptial period of their lives.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/RZSeK851vZY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Otherhood
-*Released on 2019-08-02, vote average 6.2*
-
-Three suburban moms travel to New York City to visit their sons.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/q2b8MKsUloc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -352,8 +305,30 @@ In 1987, during the austere days of Thatcher’s Britain, a teenager learns to l
 	
 	
 
+### Plus One
+*Released on 2019-08-08, vote average 7.8*
+
+Two single friends agree to be each others&#39; respective plus one for each wedding they&#39;re invited to during a particularly busy nuptial period of their lives.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/RZSeK851vZY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### D-Railed
-*Released on 2019-08-06, vote average 4*
+*Released on 2019-08-06, vote average 3.2*
 
 Passengers on a train that crashes into a river must decide whether to risk waiting for help in the wreckage or take their chances in the murky depths below.
 
@@ -373,6 +348,31 @@ Passengers on a train that crashes into a river must decide whether to risk wait
 
 	
 	
+
+### The Art of Racing in the Rain
+*Released on 2019-08-08, vote average 7*
+
+Enzo, a family dog with a near-human soul and a philosopher&#39;s mind, evaluates his life through the lessons learned by his human owner, the race-car driver Denny Swift.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Dp2ufFO4QGg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -397,6 +397,8 @@ Passengers on a train that crashes into a river must decide whether to risk wait
 	
 
 	
+	
+	
 
 	
 
@@ -412,8 +414,6 @@ Passengers on a train that crashes into a river must decide whether to risk wait
 
 	
 
-	
-	
 	
 
 	
