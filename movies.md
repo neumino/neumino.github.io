@@ -15,7 +15,7 @@ This is a convenient page that embeds trailers of movies released in the past
 ### Fast &amp; Furious Presents: Hobbs &amp; Shaw
 *Released on 2019-08-01, vote average 6.5*
 
-A spinoff of The Fate of the Furious, focusing on Johnson&#39;s US Diplomatic Security Agent Luke Hobbs forming an unlikely alliance with Statham&#39;s Deckard Shaw. Director: David Leitch Writers: Chris Morgan (story by), Chris Morgan (screenplay by) And Stars:  More Details:-https://4igpost.in/TMDB  Dwayne Johnson, Jason Statham, Idris Elba
+A spinoff of The Fate of the Furious, focusing on Johnson&#39;s US Diplomatic Security Agent Luke Hobbs forming an unlikely alliance with Statham&#39;s Deckard Shaw.
 
 <iframe id="player"
 	type="text/html"
@@ -47,7 +47,7 @@ A spinoff of The Fate of the Furious, focusing on Johnson&#39;s US Diplomatic Se
 	
 
 ### Descendants 3
-*Released on 2019-08-09, vote average 8.3*
+*Released on 2019-08-09, vote average 8.2*
 
 The teenagers of Disney&#39;s most infamous villains return to the Isle of the Lost to recruit a new batch of villainous offspring to join them at Auradon Prep.
 
@@ -56,28 +56,6 @@ The teenagers of Disney&#39;s most infamous villains return to the Isle of the L
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/8jpvcD_LkK4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Divine Fury
-*Released on 2019-07-31, vote average 3*
-
-Yong-hu, a world champion martial artist who believes in no God, only himself, suddenly develops stigmata on his palms. Visiting a church in hopes of healing the stigmata, he ends up saving Father Ahn, who falls into danger while performing an exorcism. In this way he learns of the power of the stigmata. As time passes Yong-hu accepts his new calling and begins saving people who are possessed by demons, but then he must prepare for a final confrontation with the evil Jisin, who ensnares people with the power of the devil.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8mBk8634OiM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -161,79 +139,8 @@ The flightless birds and scheming green pigs take their beef to the next level.
 	
 	
 
-### One Piece: Stampede
-*Released on 2019-08-09, vote average 10*
-
-The film celebrates the One Piece anime&#39;s 20th anniversary and will be the 14th film in the franchise.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/v4cYWzTa_gQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Red Sea Diving Resort
-*Released on 2019-07-31, vote average 6.7*
-
-Undercover agents open up a fake hotel to real tourists as a cover to help smuggle thousands of Ethiopian refugees to safety. Inspired by true events.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/80WflPMzAcw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Rocko&#39;s Modern Life: Static Cling
-*Released on 2019-08-09, vote average 6.7*
-
-After 20 years in space, Rocko returns to a technologically advanced O-Town and makes it his mission to get his favorite show back on the air.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cuF9aZxoipE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### The Kitchen
-*Released on 2019-08-08, vote average 5.8*
+*Released on 2019-08-08, vote average 6.1*
 
 An Irish mob story set in 1970s Hell&#39;s Kitchen. After the mobsters are sentenced to jail, their wives take their place — and do as good of a job, if not better.
 
@@ -253,6 +160,26 @@ An Irish mob story set in 1970s Hell&#39;s Kitchen. After the mobsters are sente
 
 	
 	
+
+### One Piece: Stampede
+*Released on 2019-08-09, vote average 10*
+
+The film celebrates the One Piece anime&#39;s 20th anniversary and will be the 14th film in the franchise.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/v4cYWzTa_gQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -369,6 +296,45 @@ Enzo, a family dog with a near-human soul and a philosopher&#39;s mind, evaluate
 
 
 	
+	
+
+### Rocko&#39;s Modern Life: Static Cling
+*Released on 2019-08-09, vote average 6.7*
+
+After 20 years in space, Rocko returns to a technologically advanced O-Town and makes it his mission to get his favorite show back on the air.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/cuF9aZxoipE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 
   
 
@@ -396,8 +362,6 @@ Enzo, a family dog with a near-human soul and a philosopher&#39;s mind, evaluate
 
 	
 
-	
-	
 	
 
 	
