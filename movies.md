@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Fast &amp; Furious Presents: Hobbs &amp; Shaw
-*Released on 2019-08-01, vote average 6.5*
+### Descendants 3
+*Released on 2019-08-09, vote average 8.1*
 
-A spinoff of The Fate of the Furious, focusing on Johnson&#39;s US Diplomatic Security Agent Luke Hobbs forming an unlikely alliance with Statham&#39;s Deckard Shaw.
+The teenagers of Disney&#39;s most infamous villains return to the Isle of the Lost to recruit a new batch of villainous offspring to join them at Auradon Prep.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/9SA7FaKxZVI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/8jpvcD_LkK4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ A spinoff of The Fate of the Furious, focusing on Johnson&#39;s US Diplomatic Se
 	
 	
 
-### Descendants 3
-*Released on 2019-08-09, vote average 8.2*
+### The Angry Birds Movie 2
+*Released on 2019-08-02, vote average 6.2*
 
-The teenagers of Disney&#39;s most infamous villains return to the Isle of the Lost to recruit a new batch of villainous offspring to join them at Auradon Prep.
+Red, Chuck, Bomb and the rest of their feathered friends are surprised when a green pig suggests that they put aside their differences and unite to fight a common threat. Aggressive birds from an island covered in ice are planning to use an elaborate weapon to destroy the fowl and swine.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/8jpvcD_LkK4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/egDqXpwKwnk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@ The teenagers of Disney&#39;s most infamous villains return to the Isle of the L
 	
 
 ### Scary Stories to Tell in the Dark
-*Released on 2019-08-08, vote average 6.7*
+*Released on 2019-08-08, vote average 6.8*
 
 The shadow of the Bellows family has loomed large in the small town of Mill Valley for generations. It&#39;s in a mansion that young Sarah Bellows turns her tortured life and horrible secrets into a series of scary stories. These terrifying tales soon have a way of becoming all too real for a group of unsuspecting teens who stumble upon Sarah&#39;s spooky home.
 
@@ -117,28 +117,6 @@ Dora, a girl who has spent most of her life exploring the jungle with her parent
 	
 	
 
-### The Angry Birds Movie 2
-*Released on 2019-08-02, vote average 6.4*
-
-The flightless birds and scheming green pigs take their beef to the next level.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/egDqXpwKwnk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Kitchen
 *Released on 2019-08-08, vote average 6.1*
 
@@ -153,6 +131,11 @@ An Irish mob story set in 1970s Hell&#39;s Kitchen. After the mobsters are sente
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -188,16 +171,16 @@ The film celebrates the One Piece anime&#39;s 20th anniversary and will be the 1
 	
 	
 
-### Light of My Life
-*Released on 2019-08-09, vote average 6.9*
+### D-Railed
+*Released on 2019-08-06, vote average 3.2*
 
-Parent and child journey through the outskirts of society a decade after a pandemic has wiped out half the world&#39;s population. As a father struggles to protect his child, their bond—and the character of humanity—is tested.
+Passengers on a train that crashes into a river must decide whether to risk waiting for help in the wreckage or take their chances in the murky depths below.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/nWkAtNpSIrY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/djNOT8JlRdo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -211,7 +194,7 @@ Parent and child journey through the outskirts of society a decade after a pande
 	
 
 ### Blinded by the Light
-*Released on 2019-08-09, vote average 8.8*
+*Released on 2019-08-09, vote average 8.6*
 
 In 1987, during the austere days of Thatcher’s Britain, a teenager learns to live life, understand his family, and find his own voice through the music of Bruce Springsteen.
 
@@ -220,50 +203,6 @@ In 1987, during the austere days of Thatcher’s Britain, a teenager learns to l
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/DmmHvnS0IKM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Plus One
-*Released on 2019-08-08, vote average 7.8*
-
-Two single friends agree to be each others&#39; respective plus one for each wedding they&#39;re invited to during a particularly busy nuptial period of their lives.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/RZSeK851vZY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### D-Railed
-*Released on 2019-08-06, vote average 3.2*
-
-Passengers on a train that crashes into a river must decide whether to risk waiting for help in the wreckage or take their chances in the murky depths below.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/djNOT8JlRdo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -298,16 +237,16 @@ Enzo, a family dog with a near-human soul and a philosopher&#39;s mind, evaluate
 	
 	
 
-### Rocko&#39;s Modern Life: Static Cling
-*Released on 2019-08-09, vote average 6.7*
+### Light of My Life
+*Released on 2019-08-09, vote average 6.9*
 
-After 20 years in space, Rocko returns to a technologically advanced O-Town and makes it his mission to get his favorite show back on the air.
+Parent and child journey through the outskirts of society a decade after a pandemic has wiped out half the world&#39;s population. As a father struggles to protect his child, their bond—and the character of humanity—is tested.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/cuF9aZxoipE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/nWkAtNpSIrY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -323,7 +262,17 @@ After 20 years in space, Rocko returns to a technologically advanced O-Town and 
 
 
 	
+
+  
+
+
 	
+	
+	
+
+  
+
+
 	
 
   
