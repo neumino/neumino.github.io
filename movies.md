@@ -46,16 +46,16 @@ The teenagers of Disney&#39;s most infamous villains return to the Isle of the L
 	
 	
 
-### The Angry Birds Movie 2
-*Released on 2019-08-02, vote average 6.2*
+### Dora and the Lost City of Gold
+*Released on 2019-08-08, vote average 6.1*
 
-Red, Chuck, Bomb and the rest of their feathered friends are surprised when a green pig suggests that they put aside their differences and unite to fight a common threat. Aggressive birds from an island covered in ice are planning to use an elaborate weapon to destroy the fowl and swine.
+Dora, a girl who has spent most of her life exploring the jungle with her parents, now must navigate her most dangerous adventure yet: high school. Always the explorer, Dora quickly finds herself leading Boots (her best friend, a monkey), Diego, and a rag tag group of teens on an adventure to save her parents and solve the impossible mystery behind a lost Inca civilization.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/egDqXpwKwnk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/gUTtJjV852c?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@ Red, Chuck, Bomb and the rest of their feathered friends are surprised when a gr
 	
 
 ### Scary Stories to Tell in the Dark
-*Released on 2019-08-08, vote average 6.8*
+*Released on 2019-08-08, vote average 6.7*
 
 The shadow of the Bellows family has loomed large in the small town of Mill Valley for generations. It&#39;s in a mansion that young Sarah Bellows turns her tortured life and horrible secrets into a series of scary stories. These terrifying tales soon have a way of becoming all too real for a group of unsuspecting teens who stumble upon Sarah&#39;s spooky home.
 
@@ -90,25 +90,20 @@ The shadow of the Bellows family has loomed large in the small town of Mill Vall
 	
 	
 
-### Dora and the Lost City of Gold
-*Released on 2019-08-08, vote average 6.4*
+### 47 Meters Down: Uncaged
+*Released on 2019-08-15, vote average 6.1*
 
-Dora, a girl who has spent most of her life exploring the jungle with her parents, now must navigate her most dangerous adventure yet: high school. Always the explorer, Dora quickly finds herself leading Boots (her best friend, a monkey), Diego, and a rag tag group of teens on an adventure to save her parents and solve the impossible mystery behind a lost Inca civilization.
+A group of backpackers diving in a ruined underwater city discover that they have stumbled into the territory of the ocean&#39;s deadliest shark species.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/gUTtJjV852c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/tXdw7JXdxN4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -137,11 +132,6 @@ An Irish mob story set in 1970s Hell&#39;s Kitchen. After the mobsters are sente
 
 
 	
-
-  
-
-
-	
 	
 
 ### One Piece: Stampede
@@ -158,6 +148,11 @@ The film celebrates the One Piece anime&#39;s 20th anniversary and will be the 1
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -193,16 +188,38 @@ Passengers on a train that crashes into a river must decide whether to risk wait
 	
 	
 
-### Blinded by the Light
-*Released on 2019-08-09, vote average 8.6*
+### Light of My Life
+*Released on 2019-08-09, vote average 6.4*
 
-In 1987, during the austere days of Thatcher’s Britain, a teenager learns to live life, understand his family, and find his own voice through the music of Bruce Springsteen.
+Parent and child journey through the outskirts of society a decade after a pandemic has wiped out half the world&#39;s population. As a father struggles to protect his child, their bond—and the character of humanity—is tested.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/DmmHvnS0IKM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/nWkAtNpSIrY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Mission Mangal
+*Released on 2019-08-15, vote average 8*
+
+A team of Indian scientists at ISRO (Indian Space Research Organisation) take on the extraordinary task of successfully sending a satellite into the orbit of planet Mars in a country&#39;s maiden attempt.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/q10nfS9V090?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -237,16 +254,16 @@ Enzo, a family dog with a near-human soul and a philosopher&#39;s mind, evaluate
 	
 	
 
-### Light of My Life
-*Released on 2019-08-09, vote average 6.9*
+### Blinded by the Light
+*Released on 2019-08-09, vote average 8.6*
 
-Parent and child journey through the outskirts of society a decade after a pandemic has wiped out half the world&#39;s population. As a father struggles to protect his child, their bond—and the character of humanity—is tested.
+In 1987, during the austere days of Thatcher’s Britain, a teenager learns to live life, understand his family, and find his own voice through the music of Bruce Springsteen.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/nWkAtNpSIrY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/DmmHvnS0IKM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -262,6 +279,50 @@ Parent and child journey through the outskirts of society a decade after a pande
 
 
 	
+	
+
+### Driven
+*Released on 2019-08-15, vote average 8*
+
+A turbo-charged story about the FBI sting operation to entrap maverick car designer John DeLorean.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/WK82Y6TKHg8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Batla House
+*Released on 2019-08-15, vote average 8*
+
+In this action thriller inspired by the controversial Batla House encounter case, Sanjay Kumar, an honest cop, struggles to clear his name and deal with Post Traumatic Stress Disorder after he and his team are believed to have shot down innocent students. With no one ready to listen to him and the truth he knows, a depressed Sanjay must race against time to catch some culprits still at large and prove the encounter wasn&#39;t a fake one.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/HV7VMrzEgpk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 
   
 
@@ -279,15 +340,7 @@ Parent and child journey through the outskirts of society a decade after a pande
 
 
 	
-
-  
-
-
 	
-
-  
-
-
 	
 
   
