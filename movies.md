@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Descendants 3
-*Released on 2019-08-09, vote average 8.1*
+*Released on 2019-08-09, vote average 7.9*
 
 The teenagers of Disney&#39;s most infamous villains return to the Isle of the Lost to recruit a new batch of villainous offspring to join them at Auradon Prep.
 
@@ -47,7 +47,7 @@ The teenagers of Disney&#39;s most infamous villains return to the Isle of the L
 	
 
 ### Dora and the Lost City of Gold
-*Released on 2019-08-08, vote average 6.1*
+*Released on 2019-08-08, vote average 5.9*
 
 Dora, a girl who has spent most of her life exploring the jungle with her parents, now must navigate her most dangerous adventure yet: high school. Always the explorer, Dora quickly finds herself leading Boots (her best friend, a monkey), Diego, and a rag tag group of teens on an adventure to save her parents and solve the impossible mystery behind a lost Inca civilization.
 
@@ -69,7 +69,7 @@ Dora, a girl who has spent most of her life exploring the jungle with her parent
 	
 
 ### Scary Stories to Tell in the Dark
-*Released on 2019-08-08, vote average 6.7*
+*Released on 2019-08-08, vote average 6.6*
 
 The shadow of the Bellows family has loomed large in the small town of Mill Valley for generations. It&#39;s in a mansion that young Sarah Bellows turns her tortured life and horrible secrets into a series of scary stories. These terrifying tales soon have a way of becoming all too real for a group of unsuspecting teens who stumble upon Sarah&#39;s spooky home.
 
@@ -91,7 +91,7 @@ The shadow of the Bellows family has loomed large in the small town of Mill Vall
 	
 
 ### 47 Meters Down: Uncaged
-*Released on 2019-08-15, vote average 6.1*
+*Released on 2019-08-15, vote average 5.6*
 
 A group of backpackers diving in a ruined underwater city discover that they have stumbled into the territory of the ocean&#39;s deadliest shark species.
 
@@ -112,8 +112,52 @@ A group of backpackers diving in a ruined underwater city discover that they hav
 	
 	
 
+### Driven
+*Released on 2019-08-15, vote average 5.6*
+
+A turbo-charged story about the FBI sting operation to entrap maverick car designer John DeLorean.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/WK82Y6TKHg8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Sextuplets
+*Released on 2019-08-16, vote average 6.1*
+
+An expecting father-to-be discovers he has many other siblings and tries to track them down before his baby is born.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/e0LJNn-GcnY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Kitchen
-*Released on 2019-08-08, vote average 6.1*
+*Released on 2019-08-08, vote average 5.3*
 
 An Irish mob story set in 1970s Hell&#39;s Kitchen. After the mobsters are sentenced to jail, their wives take their place — and do as good of a job, if not better.
 
@@ -122,6 +166,28 @@ An Irish mob story set in 1970s Hell&#39;s Kitchen. After the mobsters are sente
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/ue_NxLRGeOw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### D-Railed
+*Released on 2019-08-06, vote average 3.2*
+
+Passengers on a train that crashes into a river must decide whether to risk waiting for help in the wreckage or take their chances in the murky depths below.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/djNOT8JlRdo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -154,60 +220,6 @@ The film celebrates the One Piece anime&#39;s 20th anniversary and will be the 1
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### D-Railed
-*Released on 2019-08-06, vote average 3.2*
-
-Passengers on a train that crashes into a river must decide whether to risk waiting for help in the wreckage or take their chances in the murky depths below.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/djNOT8JlRdo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Light of My Life
-*Released on 2019-08-09, vote average 6.4*
-
-Parent and child journey through the outskirts of society a decade after a pandemic has wiped out half the world&#39;s population. As a father struggles to protect his child, their bond—and the character of humanity—is tested.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nWkAtNpSIrY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 	
 
 ### Mission Mangal
@@ -230,45 +242,6 @@ A team of Indian scientists at ISRO (Indian Space Research Organisation) take on
 
 
 	
-	
-
-### The Art of Racing in the Rain
-*Released on 2019-08-08, vote average 7*
-
-Enzo, a family dog with a near-human soul and a philosopher&#39;s mind, evaluates his life through the lessons learned by his human owner, the race-car driver Denny Swift.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Dp2ufFO4QGg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Blinded by the Light
-*Released on 2019-08-09, vote average 8.6*
-
-In 1987, during the austere days of Thatcher’s Britain, a teenager learns to live life, understand his family, and find his own voice through the music of Bruce Springsteen.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/DmmHvnS0IKM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -281,16 +254,16 @@ In 1987, during the austere days of Thatcher’s Britain, a teenager learns to l
 	
 	
 
-### Driven
-*Released on 2019-08-15, vote average 8*
+### Where&#39;d You Go, Bernadette
+*Released on 2019-08-16, vote average 6.5*
 
-A turbo-charged story about the FBI sting operation to entrap maverick car designer John DeLorean.
+When architect-turned-recluse Bernadette Fox goes missing prior to a family trip to Antarctica, her 15-year-old daughter Bee goes on a quest with Bernadette&#39;s husband to find her.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/WK82Y6TKHg8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Em1onUCArxs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -328,6 +301,11 @@ In this action thriller inspired by the controversial Batla House encounter case
 
 
 	
+
+  
+
+
+	
 	
 	
 
@@ -340,7 +318,10 @@ In this action thriller inspired by the controversial Batla House encounter case
 
 
 	
-	
+
+  
+
+
 	
 
   
@@ -351,7 +332,22 @@ In this action thriller inspired by the controversial Batla House encounter case
 
 
 	
+	
 
+### Angel Has Fallen
+*Released on 2019-08-21, vote average 7.3*
+
+Secret Service Agent Mike Banning is framed for the attempted assassination of the President and must evade his own agency and the FBI as he tries to uncover the real threat.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5U2AJvU3bl4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -382,6 +378,10 @@ In this action thriller inspired by the controversial Batla House encounter case
 
 	
 
+	
+
+	
+	
 	
 
 	
