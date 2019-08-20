@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Descendants 3
-*Released on 2019-08-09, vote average 7.9*
+*Released on 2019-08-09, vote average 7.8*
 
 The teenagers of Disney&#39;s most infamous villains return to the Isle of the Lost to recruit a new batch of villainous offspring to join them at Auradon Prep.
 
@@ -56,6 +56,28 @@ Dora, a girl who has spent most of her life exploring the jungle with her parent
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/gUTtJjV852c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Sextuplets
+*Released on 2019-08-16, vote average 6.1*
+
+An expecting father-to-be discovers he has many other siblings and tries to track them down before his baby is born.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/e0LJNn-GcnY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -122,28 +144,6 @@ A turbo-charged story about the FBI sting operation to entrap maverick car desig
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/WK82Y6TKHg8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Sextuplets
-*Released on 2019-08-16, vote average 6.1*
-
-An expecting father-to-be discovers he has many other siblings and tries to track them down before his baby is born.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/e0LJNn-GcnY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -296,6 +296,35 @@ In this action thriller inspired by the controversial Batla House encounter case
 
 
 	
+	
+
+### Otherhood
+*Released on 2019-08-13, vote average 6.2*
+
+Three suburban moms travel to New York City to visit their sons.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/q2b8MKsUloc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
 
   
 
@@ -307,16 +336,21 @@ In this action thriller inspired by the controversial Batla House encounter case
 
 	
 	
+
+### Gates of Paradise
+*Released on 2019-08-17, vote average 10*
+
+Heaven&#39;s daughter Annie finds herself orphaned and crippled. Whisked off to Farthinggale Manor by Tony Tatterton, Annie pines for her lost family, especially for her half-brother Luke. Without the warm glow of Luke&#39;s love, she is lost in the shadows of despair and forced into submission by nurse Broadfield. When Annie discovers a cottage hidden in Farthinggale&#39;s woods, the mystery of her past deepens. Even as she yearns to see Luke again, her hopes and dreams are darkened by the sinister Casteel spell.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ruhjvfq-Njk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -355,6 +389,8 @@ Secret Service Agent Mike Banning is framed for the attempted assassination of t
 	
 
 	
+	
+	
 
 	
 
@@ -380,8 +416,6 @@ Secret Service Agent Mike Banning is framed for the attempted assassination of t
 
 	
 
-	
-	
 	
 
 	
