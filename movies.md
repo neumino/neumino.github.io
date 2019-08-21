@@ -90,6 +90,28 @@ An expecting father-to-be discovers he has many other siblings and tries to trac
 	
 	
 
+### Angel Has Fallen
+*Released on 2019-08-21, vote average 6.9*
+
+Secret Service Agent Mike Banning is framed for the attempted assassination of the President and must evade his own agency and the FBI as he tries to uncover the real threat.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5U2AJvU3bl4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Scary Stories to Tell in the Dark
 *Released on 2019-08-08, vote average 6.6*
 
@@ -135,15 +157,42 @@ A group of backpackers diving in a ruined underwater city discover that they hav
 	
 
 ### Driven
-*Released on 2019-08-15, vote average 5.6*
+*Released on 2019-08-15, vote average 5.7*
 
-A turbo-charged story about the FBI sting operation to entrap maverick car designer John DeLorean.
+FBI informant Jim Hoffman lures troubled automobile magnate John DeLorean to an undercover sting for cocaine trafficking.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/WK82Y6TKHg8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### One Piece: Stampede
+*Released on 2019-08-09, vote average 10*
+
+The film celebrates the One Piece anime&#39;s 20th anniversary and will be the 14th film in the franchise.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/v4cYWzTa_gQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -178,60 +227,16 @@ An Irish mob story set in 1970s Hell&#39;s Kitchen. After the mobsters are sente
 	
 	
 
-### D-Railed
-*Released on 2019-08-06, vote average 3.2*
+### Otherhood
+*Released on 2019-08-13, vote average 6.2*
 
-Passengers on a train that crashes into a river must decide whether to risk waiting for help in the wreckage or take their chances in the murky depths below.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/djNOT8JlRdo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### One Piece: Stampede
-*Released on 2019-08-09, vote average 10*
-
-The film celebrates the One Piece anime&#39;s 20th anniversary and will be the 14th film in the franchise.
+Three suburban moms travel to New York City to visit their sons.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/v4cYWzTa_gQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Mission Mangal
-*Released on 2019-08-15, vote average 8*
-
-A team of Indian scientists at ISRO (Indian Space Research Organisation) take on the extraordinary task of successfully sending a satellite into the orbit of planet Mars in a country&#39;s maiden attempt.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/q10nfS9V090?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/q2b8MKsUloc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -296,28 +301,6 @@ In this action thriller inspired by the controversial Batla House encounter case
 
 
 	
-	
-
-### Otherhood
-*Released on 2019-08-13, vote average 6.2*
-
-Three suburban moms travel to New York City to visit their sons.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/q2b8MKsUloc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 
   
 
@@ -369,7 +352,7 @@ Heaven&#39;s daughter Annie finds herself orphaned and crippled. Whisked off to 
 	
 
 ### Angel Has Fallen
-*Released on 2019-08-21, vote average 7.3*
+*Released on 2019-08-21, vote average 6.9*
 
 Secret Service Agent Mike Banning is framed for the attempted assassination of the President and must evade his own agency and the FBI as he tries to uncover the real threat.
 
@@ -389,8 +372,6 @@ Secret Service Agent Mike Banning is framed for the attempted assassination of t
 	
 
 	
-	
-	
 
 	
 
@@ -400,6 +381,8 @@ Secret Service Agent Mike Banning is framed for the attempted assassination of t
 
 	
 
+	
+	
 	
 
 	
