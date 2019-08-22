@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Descendants 3
-*Released on 2019-08-09, vote average 7.8*
+*Released on 2019-08-09, vote average 7.7*
 
 The teenagers of Disney&#39;s most infamous villains return to the Isle of the Lost to recruit a new batch of villainous offspring to join them at Auradon Prep.
 
@@ -46,30 +46,8 @@ The teenagers of Disney&#39;s most infamous villains return to the Isle of the L
 	
 	
 
-### Dora and the Lost City of Gold
-*Released on 2019-08-08, vote average 5.9*
-
-Dora, a girl who has spent most of her life exploring the jungle with her parents, now must navigate her most dangerous adventure yet: high school. Always the explorer, Dora quickly finds herself leading Boots (her best friend, a monkey), Diego, and a rag tag group of teens on an adventure to save her parents and solve the impossible mystery behind a lost Inca civilization.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/gUTtJjV852c?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Sextuplets
-*Released on 2019-08-16, vote average 6.1*
+*Released on 2019-08-16, vote average 6.2*
 
 An expecting father-to-be discovers he has many other siblings and tries to track them down before his baby is born.
 
@@ -112,16 +90,16 @@ Secret Service Agent Mike Banning is framed for the attempted assassination of t
 	
 	
 
-### Scary Stories to Tell in the Dark
-*Released on 2019-08-08, vote average 6.6*
+### 47 Meters Down: Uncaged
+*Released on 2019-08-15, vote average 6.4*
 
-The shadow of the Bellows family has loomed large in the small town of Mill Valley for generations. It&#39;s in a mansion that young Sarah Bellows turns her tortured life and horrible secrets into a series of scary stories. These terrifying tales soon have a way of becoming all too real for a group of unsuspecting teens who stumble upon Sarah&#39;s spooky home.
+A group of backpackers diving in a ruined underwater city discover that they have stumbled into the territory of the ocean&#39;s deadliest shark species.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/N3J2k3Nhicw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/tXdw7JXdxN4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,16 +112,38 @@ The shadow of the Bellows family has loomed large in the small town of Mill Vall
 	
 	
 
-### 47 Meters Down: Uncaged
-*Released on 2019-08-15, vote average 5.6*
+### Dora and the Lost City of Gold
+*Released on 2019-08-08, vote average 5.9*
 
-A group of backpackers diving in a ruined underwater city discover that they have stumbled into the territory of the ocean&#39;s deadliest shark species.
+Dora, a girl who has spent most of her life exploring the jungle with her parents, now must navigate her most dangerous adventure yet: high school. Always the explorer, Dora quickly finds herself leading Boots (her best friend, a monkey), Diego, and a rag tag group of teens on an adventure to save her parents and solve the impossible mystery behind a lost Inca civilization.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/tXdw7JXdxN4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/gUTtJjV852c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Scary Stories to Tell in the Dark
+*Released on 2019-08-08, vote average 6.6*
+
+The shadow of the Bellows family has loomed large in the small town of Mill Valley for generations. It&#39;s in a mansion that young Sarah Bellows turns her tortured life and horrible secrets into a series of scary stories. These terrifying tales soon have a way of becoming all too real for a group of unsuspecting teens who stumble upon Sarah&#39;s spooky home.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/N3J2k3Nhicw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -193,28 +193,6 @@ The film celebrates the One Piece anime&#39;s 20th anniversary and will be the 1
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/v4cYWzTa_gQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Kitchen
-*Released on 2019-08-08, vote average 5.3*
-
-An Irish mob story set in 1970s Hell&#39;s Kitchen. After the mobsters are sentenced to jail, their wives take their place — and do as good of a job, if not better.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ue_NxLRGeOw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -279,27 +257,27 @@ When architect-turned-recluse Bernadette Fox goes missing prior to a family trip
 
 
 	
+
+  
+
+
+	
 	
 
-### Batla House
-*Released on 2019-08-15, vote average 8*
+### The Kitchen
+*Released on 2019-08-08, vote average 5.6*
 
-In this action thriller inspired by the controversial Batla House encounter case, Sanjay Kumar, an honest cop, struggles to clear his name and deal with Post Traumatic Stress Disorder after he and his team are believed to have shot down innocent students. With no one ready to listen to him and the truth he knows, a depressed Sanjay must race against time to catch some culprits still at large and prove the encounter wasn&#39;t a fake one.
+An Irish mob story set in 1970s Hell&#39;s Kitchen. After the mobsters are sentenced to jail, their wives take their place — and do as good of a job, if not better.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/HV7VMrzEgpk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ue_NxLRGeOw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -344,28 +322,16 @@ Heaven&#39;s daughter Annie finds herself orphaned and crippled. Whisked off to 
   
 
 
+	
+
+  
+
+
 
 ## Opening soon
 
 
 	
-	
-
-### Angel Has Fallen
-*Released on 2019-08-21, vote average 6.9*
-
-Secret Service Agent Mike Banning is framed for the attempted assassination of the President and must evade his own agency and the FBI as he tries to uncover the real threat.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/5U2AJvU3bl4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
@@ -381,8 +347,6 @@ Secret Service Agent Mike Banning is framed for the attempted assassination of t
 
 	
 
-	
-	
 	
 
 	
