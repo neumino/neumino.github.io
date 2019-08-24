@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Angel Has Fallen
-*Released on 2019-08-21, vote average 6.6*
+*Released on 2019-08-23, vote average 6.5*
 
 Secret Service Agent Mike Banning is framed for the attempted assassination of the President and must evade his own agency and the FBI as he tries to uncover the real threat.
 
@@ -46,30 +46,8 @@ Secret Service Agent Mike Banning is framed for the attempted assassination of t
 	
 	
 
-### Descendants 3
-*Released on 2019-08-09, vote average 7.7*
-
-The teenagers of Disney&#39;s most infamous villains return to the Isle of the Lost to recruit a new batch of villainous offspring to join them at Auradon Prep.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8jpvcD_LkK4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Ready or Not
-*Released on 2019-08-21, vote average 7.4*
+*Released on 2019-08-21, vote average 7.7*
 
 A bride&#39;s wedding night takes a sinister turn when her eccentric new in-laws force her to take part in a terrifying game.
 
@@ -91,7 +69,7 @@ A bride&#39;s wedding night takes a sinister turn when her eccentric new in-laws
 	
 
 ### 47 Meters Down: Uncaged
-*Released on 2019-08-15, vote average 6.4*
+*Released on 2019-08-16, vote average 6.1*
 
 A group of backpackers diving in a ruined underwater city discover that they have stumbled into the territory of the ocean&#39;s deadliest shark species.
 
@@ -132,10 +110,72 @@ An expecting father-to-be discovers he has many other siblings and tries to trac
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### Driven
-*Released on 2019-08-15, vote average 5.7*
+*Released on 2019-08-16, vote average 5.8*
 
 FBI informant Jim Hoffman lures troubled automobile magnate John DeLorean to an undercover sting for cocaine trafficking.
 
@@ -148,112 +188,6 @@ FBI informant Jim Hoffman lures troubled automobile magnate John DeLorean to an 
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### One Piece: Stampede
-*Released on 2019-08-09, vote average 10*
-
-The film celebrates the One Piece anime&#39;s 20th anniversary and will be the 14th film in the franchise.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/v4cYWzTa_gQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Otherhood
-*Released on 2019-08-13, vote average 6.2*
-
-Three suburban moms travel to New York City to visit their sons.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/q2b8MKsUloc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Gates of Paradise
-*Released on 2019-08-17, vote average 10*
-
-Heaven&#39;s daughter Annie finds herself orphaned and crippled. Whisked off to Farthinggale Manor by Tony Tatterton, Annie pines for her lost family, especially for her half-brother Luke. Without the warm glow of Luke&#39;s love, she is lost in the shadows of despair and forced into submission by nurse Broadfield. When Annie discovers a cottage hidden in Farthinggale&#39;s woods, the mystery of her past deepens. Even as she yearns to see Luke again, her hopes and dreams are darkened by the sinister Casteel spell.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ruhjvfq-Njk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -279,7 +213,26 @@ Heaven&#39;s daughter Annie finds herself orphaned and crippled. Whisked off to 
 
 
 	
+	
 
+### Night Hunter
+*Released on 2019-09-06, vote average 6.5*
+
+A police task force traps an online predator, only to discover that the depth of his crimes goes far beyond anything they had anticipated.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Rvh9zDUNiWg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
 	
 
 	
@@ -294,6 +247,23 @@ Heaven&#39;s daughter Annie finds herself orphaned and crippled. Whisked off to 
 
 	
 
+	
+	
+
+### The Banana Splits Movie
+*Released on 2019-07-19, vote average 7*
+
+A boy named Harley and his family attend a taping of The Banana Splits TV show, which is supposed to be a fun-filled birthday for young Harley and business as usual for Rebecca, the producer of the series. But things take an unexpected turn - and the body count quickly rises. Can Harley, his mom and their new pals safely escape?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0R1-ZZTcTBY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
