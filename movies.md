@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Angel Has Fallen
-*Released on 2019-08-21, vote average 6*
+*Released on 2019-08-23, vote average 5.7*
 
 Secret Service Agent Mike Banning is framed for the attempted assassination of the President and must evade his own agency and the FBI as he tries to uncover the real threat.
 
@@ -46,28 +46,6 @@ Secret Service Agent Mike Banning is framed for the attempted assassination of t
 	
 	
 
-### Ready or Not
-*Released on 2019-08-21, vote average 8.2*
-
-A bride&#39;s wedding night takes a sinister turn when her eccentric new in-laws force her to take part in a terrifying game.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZtYTwUxhAoI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Jacob&#39;s Ladder
 *Released on 2019-08-23, vote average 7*
 
@@ -90,8 +68,30 @@ After losing his brother in combat, Jacob Singer returns home from Afghanistan -
 	
 	
 
+### Ready or Not
+*Released on 2019-08-21, vote average 8.1*
+
+A bride&#39;s wedding night takes a sinister turn when her eccentric new in-laws force her to take part in a terrifying game.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZtYTwUxhAoI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### 47 Meters Down: Uncaged
-*Released on 2019-08-15, vote average 5.6*
+*Released on 2019-08-16, vote average 5.6*
 
 A group of backpackers diving in a ruined underwater city discover that they have stumbled into the territory of the ocean&#39;s deadliest shark species.
 
@@ -113,7 +113,7 @@ A group of backpackers diving in a ruined underwater city discover that they hav
 	
 
 ### Sextuplets
-*Released on 2019-08-16, vote average 6.1*
+*Released on 2019-08-16, vote average 6.2*
 
 An expecting father-to-be discovers he has many other siblings and tries to track them down before his baby is born.
 
@@ -134,30 +134,8 @@ An expecting father-to-be discovers he has many other siblings and tries to trac
 	
 	
 
-### Driven
-*Released on 2019-08-15, vote average 5.7*
-
-FBI informant Jim Hoffman lures troubled automobile magnate John DeLorean to an undercover sting for cocaine trafficking.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/WK82Y6TKHg8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Burn
-*Released on 2019-08-23, vote average 8*
+*Released on 2019-08-23, vote average 8.7*
 
 Lonely, unstable gas station attendant Melinda is tired of being overshadowed by her more confident, outgoing co-worker Sheila. When the gas station is held up at gunpoint by Billy, a desperate man in need of quick cash, Melinda finds an opportunity to make a connection with the robber, regardless of who gets hurt.
 
@@ -196,18 +174,33 @@ Lonely, unstable gas station attendant Melinda is tired of being overshadowed by
 
 
 	
+
+  
+
+
 	
 
-### Gates of Paradise
-*Released on 2019-08-17, vote average 10*
+  
 
-Heaven&#39;s daughter Annie finds herself orphaned and crippled. Whisked off to Farthinggale Manor by Tony Tatterton, Annie pines for her lost family, especially for her half-brother Luke. Without the warm glow of Luke&#39;s love, she is lost in the shadows of despair and forced into submission by nurse Broadfield. When Annie discovers a cottage hidden in Farthinggale&#39;s woods, the mystery of her past deepens. Even as she yearns to see Luke again, her hopes and dreams are darkened by the sinister Casteel spell.
+
+	
+
+  
+
+
+	
+	
+
+### Driven
+*Released on 2019-08-16, vote average 5.6*
+
+FBI informant Jim Hoffman lures troubled automobile magnate John DeLorean to an undercover sting for cocaine trafficking.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ruhjvfq-Njk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/WK82Y6TKHg8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -218,10 +211,15 @@ Heaven&#39;s daughter Annie finds herself orphaned and crippled. Whisked off to 
 
 
 	
+
+  
+
+
+	
 	
 
 ### The Banana Splits Movie
-*Released on 2019-08-26, vote average 8.3*
+*Released on 2019-07-19, vote average 8.3*
 
 A boy named Harley and his family attend a taping of The Banana Splits TV show, which is supposed to be a fun-filled birthday for young Harley and business as usual for Rebecca, the producer of the series. But things take an unexpected turn - and the body count quickly rises. Can Harley, his mom and their new pals safely escape?
 
@@ -240,25 +238,29 @@ A boy named Harley and his family attend a taping of The Banana Splits TV show, 
 
 
 	
-
-  
-
-
+	
 	
 
   
 
 
 	
-
-  
-
-
 	
 
-  
+### Ever After
+*Released on 2019-08-22, vote average 10*
 
+An apocalyptic female buddy movie. Two years ago zombies took over the earth. Weimar and Jena are the last places of human civilisation. Vivi and Eva have to fight the undead together, as well as the demons of their past.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/d_nPQ4Inzbw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -279,20 +281,18 @@ A boy named Harley and his family attend a taping of The Banana Splits TV show, 
 
 
 	
-
-	
 	
 
-### The Banana Splits Movie
-*Released on 2019-08-26, vote average 8.3*
+### Nomis
+*Released on 2019-09-06, vote average 6.7*
 
-A boy named Harley and his family attend a taping of The Banana Splits TV show, which is supposed to be a fun-filled birthday for young Harley and business as usual for Rebecca, the producer of the series. But things take an unexpected turn - and the body count quickly rises. Can Harley, his mom and their new pals safely escape?
+A police task force traps an online predator, only to discover that the depth of his crimes goes far beyond anything they had anticipated.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/0R1-ZZTcTBY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Rvh9zDUNiWg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -303,6 +303,77 @@ A boy named Harley and his family attend a taping of The Banana Splits TV show, 
 
 	
 
+	
+
+	
+	
+	
+
+	
+
+	
+	
+
+### Paradise Hills
+*Released on 2019-11-01, vote average 4.3*
+
+A young woman is sent to Paradise Hills to be reformed, only to learn that the high-class facility&#39;s beautiful facade hides a sinister secret.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qUVrH4BI-Cw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+	
+
+### Don&#39;t Let Go
+*Released on 2019-08-30, vote average 2*
+
+After a man&#39;s family dies in what appears to be a murder, he gets a phone call from one of the dead, his niece. He&#39;s not sure if she’s a ghost or if he&#39;s going mad - but as it turns out, he&#39;s not. Instead, her calls help him rewrite history.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-G4QuUXlLCk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Little Monsters
+*Released on 2019-01-27, vote average 7.5*
+
+A washed-up musician teams up with a teacher and a kids show personality to protect young children from a sudden outbreak of zombies.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8d1KP-OhBP4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -326,39 +397,6 @@ Bacurau, a small town in the Brazilian sertão, mourns the loss of its matriarch
 
 	
 
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	
-
-### Paradise Hills
-*Released on 2019-08-29, vote average 3.5*
-
-A young woman is sent to Paradise Hills to be reformed, only to learn that the high-class facility&#39;s beautiful facade hides a sinister secret.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qUVrH4BI-Cw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
