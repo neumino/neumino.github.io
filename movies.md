@@ -46,16 +46,16 @@ Secret Service Agent Mike Banning is framed for the attempted assassination of t
 	
 	
 
-### Jacob&#39;s Ladder
-*Released on 2019-08-23, vote average 7*
+### Good Boys
+*Released on 2019-08-16, vote average 6.8*
 
-After losing his brother in combat, Jacob Singer returns home from Afghanistan -- only to be pulled into a mind-twisting state of paranoia. Singer soon realizes that his sibling is alive but life is not what it seems.
+A group of young boys on the cusp of becoming teenagers embark on an epic quest in the San Fernando Valley to fix their broken toy before their parents get home.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/bwkwFanLKos?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/rF1F9dIbNqM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,16 +68,16 @@ After losing his brother in combat, Jacob Singer returns home from Afghanistan -
 	
 	
 
-### Ready or Not
-*Released on 2019-08-21, vote average 8.1*
+### Jacob&#39;s Ladder
+*Released on 2019-08-23, vote average 7*
 
-A bride&#39;s wedding night takes a sinister turn when her eccentric new in-laws force her to take part in a terrifying game.
+After losing his brother in combat, Jacob Singer returns home from Afghanistan -- only to be pulled into a mind-twisting state of paranoia. Singer soon realizes that his sibling is alive but life is not what it seems.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ZtYTwUxhAoI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/bwkwFanLKos?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,16 +112,16 @@ A group of backpackers diving in a ruined underwater city discover that they hav
 	
 	
 
-### Sextuplets
-*Released on 2019-08-16, vote average 6.2*
+### Ready or Not
+*Released on 2019-08-21, vote average 7.9*
 
-An expecting father-to-be discovers he has many other siblings and tries to track them down before his baby is born.
+A bride&#39;s wedding night takes a sinister turn when her eccentric new in-laws force her to take part in a terrifying game.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/e0LJNn-GcnY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ZtYTwUxhAoI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -154,53 +154,18 @@ Lonely, unstable gas station attendant Melinda is tired of being overshadowed by
 
 
 	
-
-  
-
-
 	
 
-  
+### Sextuplets
+*Released on 2019-08-16, vote average 6.1*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Driven
-*Released on 2019-08-16, vote average 5.6*
-
-FBI informant Jim Hoffman lures troubled automobile magnate John DeLorean to an undercover sting for cocaine trafficking.
+An expecting father-to-be discovers he has many other siblings and tries to track them down before his baby is born.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/WK82Y6TKHg8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/e0LJNn-GcnY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -216,10 +181,40 @@ FBI informant Jim Hoffman lures troubled automobile magnate John DeLorean to an 
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### The Banana Splits Movie
-*Released on 2019-07-19, vote average 8.3*
+*Released on 2019-07-19, vote average 7.7*
 
 A boy named Harley and his family attend a taping of The Banana Splits TV show, which is supposed to be a fun-filled birthday for young Harley and business as usual for Rebecca, the producer of the series. But things take an unexpected turn - and the body count quickly rises. Can Harley, his mom and their new pals safely escape?
 
@@ -276,14 +271,21 @@ An apocalyptic female buddy movie. Two years ago zombies took over the earth. We
   
 
 
+	
+
+  
+
+
 
 ## Opening soon
 
 
 	
+
+	
 	
 
-### Nomis
+### Night Hunter
 *Released on 2019-09-06, vote average 6.7*
 
 A police task force traps an online predator, only to discover that the depth of his crimes goes far beyond anything they had anticipated.
@@ -297,6 +299,37 @@ A police task force traps an online predator, only to discover that the depth of
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Bacurau
+*Released on 2019-08-29, vote average 10*
+
+Bacurau, a small town in the Brazilian sertão, mourns the loss of its matriarch, Carmelita, who lived to be 94. Days later, its inhabitants notice that their community has vanished from most maps.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Hr49Ayyb3zs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
 	
 
 	
@@ -356,55 +389,7 @@ After a man&#39;s family dies in what appears to be a murder, he gets a phone ca
 	
 
 	
-
 	
-	
-
-### Little Monsters
-*Released on 2019-01-27, vote average 7.5*
-
-A washed-up musician teams up with a teacher and a kids show personality to protect young children from a sudden outbreak of zombies.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8d1KP-OhBP4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Bacurau
-*Released on 2019-08-29, vote average 10*
-
-Bacurau, a small town in the Brazilian sertão, mourns the loss of its matriarch, Carmelita, who lived to be 94. Days later, its inhabitants notice that their community has vanished from most maps.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Hr49Ayyb3zs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 
