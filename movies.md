@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Angel Has Fallen
-*Released on 2019-08-23, vote average 5.7*
+*Released on 2019-08-23, vote average 5.6*
 
 Secret Service Agent Mike Banning is framed for the attempted assassination of the President and must evade his own agency and the FBI as he tries to uncover the real threat.
 
@@ -46,60 +46,16 @@ Secret Service Agent Mike Banning is framed for the attempted assassination of t
 	
 	
 
-### Good Boys
-*Released on 2019-08-16, vote average 6.8*
+### Night Hunter
+*Released on 2019-09-06, vote average 7.4*
 
-A group of young boys on the cusp of becoming teenagers embark on an epic quest in the San Fernando Valley to fix their broken toy before their parents get home.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rF1F9dIbNqM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Jacob&#39;s Ladder
-*Released on 2019-08-23, vote average 7*
-
-After losing his brother in combat, Jacob Singer returns home from Afghanistan -- only to be pulled into a mind-twisting state of paranoia. Singer soon realizes that his sibling is alive but life is not what it seems.
+A police task force traps an online predator, only to discover that the depth of his crimes goes far beyond anything they had anticipated.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/bwkwFanLKos?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### 47 Meters Down: Uncaged
-*Released on 2019-08-16, vote average 5.6*
-
-A group of backpackers diving in a ruined underwater city discover that they have stumbled into the territory of the ocean&#39;s deadliest shark species.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tXdw7JXdxN4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Rvh9zDUNiWg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -113,7 +69,7 @@ A group of backpackers diving in a ruined underwater city discover that they hav
 	
 
 ### Ready or Not
-*Released on 2019-08-21, vote average 7.9*
+*Released on 2019-08-21, vote average 7.7*
 
 A bride&#39;s wedding night takes a sinister turn when her eccentric new in-laws force her to take part in a terrifying game.
 
@@ -134,16 +90,16 @@ A bride&#39;s wedding night takes a sinister turn when her eccentric new in-laws
 	
 	
 
-### Burn
-*Released on 2019-08-23, vote average 8.7*
+### 47 Meters Down: Uncaged
+*Released on 2019-08-16, vote average 5.7*
 
-Lonely, unstable gas station attendant Melinda is tired of being overshadowed by her more confident, outgoing co-worker Sheila. When the gas station is held up at gunpoint by Billy, a desperate man in need of quick cash, Melinda finds an opportunity to make a connection with the robber, regardless of who gets hurt.
+A group of backpackers diving in a ruined underwater city discover that they have stumbled into the territory of the ocean&#39;s deadliest shark species.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Icb1Y_ZrKpk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/tXdw7JXdxN4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -176,10 +132,22 @@ An expecting father-to-be discovers he has many other siblings and tries to trac
 
 
 	
+	
 
-  
+### Jacob&#39;s Ladder
+*Released on 2019-08-23, vote average 7.6*
 
+After losing his brother in combat, Jacob Singer returns home from Afghanistan -- only to be pulled into a mind-twisting state of paranoia. Singer soon realizes that his sibling is alive but life is not what it seems.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/bwkwFanLKos?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -190,6 +158,60 @@ An expecting father-to-be discovers he has many other siblings and tries to trac
   
 
 
+	
+
+  
+
+
+	
+	
+
+### Burn
+*Released on 2019-08-23, vote average 8.7*
+
+Lonely, unstable gas station attendant Melinda is tired of being overshadowed by her more confident, outgoing co-worker Sheila. When the gas station is held up at gunpoint by Billy, a desperate man in need of quick cash, Melinda finds an opportunity to make a connection with the robber, regardless of who gets hurt.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Icb1Y_ZrKpk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### American Factory
+*Released on 2019-08-21, vote average 7.6*
+
+In post-industrial Ohio, a Chinese billionaire opens a new factory in the husk of an abandoned General Motors plant, hiring two thousand blue-collar Americans. Early days of hope and optimism give way to setbacks as high-tech China clashes with working-class America.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/m36QeKOJ2Fc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -271,11 +293,6 @@ An apocalyptic female buddy movie. Two years ago zombies took over the earth. We
   
 
 
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -286,7 +303,7 @@ An apocalyptic female buddy movie. Two years ago zombies took over the earth. We
 	
 
 ### Night Hunter
-*Released on 2019-09-06, vote average 6.7*
+*Released on 2019-09-06, vote average 7.4*
 
 A police task force traps an online predator, only to discover that the depth of his crimes goes far beyond anything they had anticipated.
 
@@ -299,6 +316,31 @@ A police task force traps an online predator, only to discover that the depth of
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+	
+
+### Don&#39;t Let Go
+*Released on 2019-08-30, vote average 2*
+
+After a man&#39;s family dies in what appears to be a murder, he gets a phone call from one of the dead, his niece. He&#39;s not sure if she’s a ghost or if he&#39;s going mad - but as it turns out, he&#39;s not. Instead, her calls help him rewrite history.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-G4QuUXlLCk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
 	
 
 	
@@ -337,14 +379,6 @@ Bacurau, a small town in the Brazilian sertão, mourns the loss of its matriarch
 	
 
 	
-
-	
-	
-	
-
-	
-
-	
 	
 
 ### Paradise Hills
@@ -363,25 +397,6 @@ A young woman is sent to Paradise Hills to be reformed, only to learn that the h
 	
 	
 
-	
-
-	
-	
-
-### Don&#39;t Let Go
-*Released on 2019-08-30, vote average 2*
-
-After a man&#39;s family dies in what appears to be a murder, he gets a phone call from one of the dead, his niece. He&#39;s not sure if she’s a ghost or if he&#39;s going mad - but as it turns out, he&#39;s not. Instead, her calls help him rewrite history.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-G4QuUXlLCk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
