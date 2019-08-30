@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Angel Has Fallen
-*Released on 2019-08-23, vote average 5.6*
+*Released on 2019-08-23, vote average 5.5*
 
 Secret Service Agent Mike Banning is framed for the attempted assassination of the President and must evade his own agency and the FBI as he tries to uncover the real threat.
 
@@ -47,7 +47,7 @@ Secret Service Agent Mike Banning is framed for the attempted assassination of t
 	
 
 ### Night Hunter
-*Released on 2019-09-06, vote average 7.4*
+*Released on 2019-09-06, vote average 7.5*
 
 A police task force traps an online predator, only to discover that the depth of his crimes goes far beyond anything they had anticipated.
 
@@ -69,7 +69,7 @@ A police task force traps an online predator, only to discover that the depth of
 	
 
 ### Ready or Not
-*Released on 2019-08-21, vote average 7.7*
+*Released on 2019-08-21, vote average 7.4*
 
 A bride&#39;s wedding night takes a sinister turn when her eccentric new in-laws force her to take part in a terrifying game.
 
@@ -90,16 +90,16 @@ A bride&#39;s wedding night takes a sinister turn when her eccentric new in-laws
 	
 	
 
-### 47 Meters Down: Uncaged
-*Released on 2019-08-16, vote average 5.7*
+### Little Monsters
+*Released on 2019-01-27, vote average 7.8*
 
-A group of backpackers diving in a ruined underwater city discover that they have stumbled into the territory of the ocean&#39;s deadliest shark species.
+A washed-up musician teams up with a teacher and a kids show personality to protect young children from a sudden outbreak of zombies.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/tXdw7JXdxN4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/8d1KP-OhBP4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -109,23 +109,6 @@ A group of backpackers diving in a ruined underwater city discover that they hav
   
 
 
-	
-	
-
-### Sextuplets
-*Released on 2019-08-16, vote average 6.1*
-
-An expecting father-to-be discovers he has many other siblings and tries to track them down before his baby is born.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/e0LJNn-GcnY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -135,7 +118,7 @@ An expecting father-to-be discovers he has many other siblings and tries to trac
 	
 
 ### Jacob&#39;s Ladder
-*Released on 2019-08-23, vote average 7.6*
+*Released on 2019-08-23, vote average 7.4*
 
 After losing his brother in combat, Jacob Singer returns home from Afghanistan -- only to be pulled into a mind-twisting state of paranoia. Singer soon realizes that his sibling is alive but life is not what it seems.
 
@@ -154,28 +137,57 @@ After losing his brother in combat, Jacob Singer returns home from Afghanistan -
 
 
 	
-
-  
-
-
 	
 
-  
+### Paradise Hills
+*Released on 2019-11-01, vote average 4.8*
 
-
-	
-	
-
-### Burn
-*Released on 2019-08-23, vote average 8.7*
-
-Lonely, unstable gas station attendant Melinda is tired of being overshadowed by her more confident, outgoing co-worker Sheila. When the gas station is held up at gunpoint by Billy, a desperate man in need of quick cash, Melinda finds an opportunity to make a connection with the robber, regardless of who gets hurt.
+A young woman is sent to Paradise Hills to be reformed, only to learn that the high-class facility&#39;s beautiful facade hides a sinister secret.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Icb1Y_ZrKpk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/qUVrH4BI-Cw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Bacurau
+*Released on 2019-08-29, vote average 9.6*
+
+Bacurau, a small town in the Brazilian sertão, mourns the loss of its matriarch, Carmelita, who lived to be 94. Days later, its inhabitants notice that their community has vanished from most maps.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Hr49Ayyb3zs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -196,18 +208,28 @@ Lonely, unstable gas station attendant Melinda is tired of being overshadowed by
 
 
 	
+
+  
+
+
 	
 
-### American Factory
-*Released on 2019-08-21, vote average 7.6*
+  
 
-In post-industrial Ohio, a Chinese billionaire opens a new factory in the husk of an abandoned General Motors plant, hiring two thousand blue-collar Americans. Early days of hope and optimism give way to setbacks as high-tech China clashes with working-class America.
+
+	
+	
+
+### Don&#39;t Let Go
+*Released on 2019-08-30, vote average 2*
+
+After a man&#39;s family dies in what appears to be a murder, he gets a phone call from one of the dead, his niece. He&#39;s not sure if she’s a ghost or if he&#39;s going mad - but as it turns out, he&#39;s not. Instead, her calls help him rewrite history.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/m36QeKOJ2Fc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-G4QuUXlLCk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -222,62 +244,6 @@ In post-industrial Ohio, a Chinese billionaire opens a new factory in the husk o
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Banana Splits Movie
-*Released on 2019-07-19, vote average 7.7*
-
-A boy named Harley and his family attend a taping of The Banana Splits TV show, which is supposed to be a fun-filled birthday for young Harley and business as usual for Rebecca, the producer of the series. But things take an unexpected turn - and the body count quickly rises. Can Harley, his mom and their new pals safely escape?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0R1-ZZTcTBY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Ever After
-*Released on 2019-08-22, vote average 10*
-
-An apocalyptic female buddy movie. Two years ago zombies took over the earth. Weimar and Jena are the last places of human civilisation. Vivi and Eva have to fight the undead together, as well as the demons of their past.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/d_nPQ4Inzbw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -298,28 +264,22 @@ An apocalyptic female buddy movie. Two years ago zombies took over the earth. We
 
 
 	
-
-	
 	
 
-### Night Hunter
-*Released on 2019-09-06, vote average 7.4*
+### It: Chapter Two
+*Released on 2019-09-06, vote average 10*
 
-A police task force traps an online predator, only to discover that the depth of his crimes goes far beyond anything they had anticipated.
+27 years after overcoming the malevolent supernatural entity Pennywise, the former members of the Losers&#39; Club, who have grown up and moved away from Derry, are brought back together by a devastating phone call.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Rvh9zDUNiWg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/zqUopiAYdRg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
 	
 
 	
@@ -350,22 +310,9 @@ After a man&#39;s family dies in what appears to be a murder, he gets a phone ca
 	
 
 	
-	
-
-### Bacurau
-*Released on 2019-08-29, vote average 10*
-
-Bacurau, a small town in the Brazilian sertão, mourns the loss of its matriarch, Carmelita, who lived to be 94. Days later, its inhabitants notice that their community has vanished from most maps.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Hr49Ayyb3zs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
 	
 
 	
@@ -379,23 +326,6 @@ Bacurau, a small town in the Brazilian sertão, mourns the loss of its matriarch
 	
 
 	
-	
-
-### Paradise Hills
-*Released on 2019-11-01, vote average 4.3*
-
-A young woman is sent to Paradise Hills to be reformed, only to learn that the high-class facility&#39;s beautiful facade hides a sinister secret.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qUVrH4BI-Cw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
@@ -404,7 +334,7 @@ A young woman is sent to Paradise Hills to be reformed, only to learn that the h
 	
 
 	
-	
+
 	
 
 
