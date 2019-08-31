@@ -47,7 +47,7 @@ Secret Service Agent Mike Banning is framed for the attempted assassination of t
 	
 
 ### Night Hunter
-*Released on 2019-09-06, vote average 7.5*
+*Released on 2019-09-06, vote average 6.8*
 
 A police task force traps an online predator, only to discover that the depth of his crimes goes far beyond anything they had anticipated.
 
@@ -69,7 +69,7 @@ A police task force traps an online predator, only to discover that the depth of
 	
 
 ### Ready or Not
-*Released on 2019-08-21, vote average 7.4*
+*Released on 2019-08-21, vote average 7.5*
 
 A bride&#39;s wedding night takes a sinister turn when her eccentric new in-laws force her to take part in a terrifying game.
 
@@ -81,6 +81,35 @@ A bride&#39;s wedding night takes a sinister turn when her eccentric new in-laws
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+	
+
+### Falling Inn Love
+*Released on 2019-08-29, vote average 7.2*
+
+When a San Francisco exec wins a New Zealand inn, she ditches city life to remodel and flip the rustic property with help from a handsome contractor.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/P9vXNloQfTM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -109,6 +138,55 @@ A washed-up musician teams up with a teacher and a kids show personality to prot
   
 
 
+	
+	
+
+### Marriage Story
+*Released on 2019-10-04, vote average 8.3*
+
+A stage director and his actor wife struggle through a grueling, coast-to-coast divorce that pushes them to their personal and creative extremes.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/VfBSbgaqPr8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Burn
+*Released on 2019-08-23, vote average 8.3*
+
+Lonely, unstable gas station attendant Melinda is tired of being overshadowed by her more confident, outgoing co-worker Sheila. When the gas station is held up at gunpoint by Billy, a desperate man in need of quick cash, Melinda finds an opportunity to make a connection with the robber, regardless of who gets hurt.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Icb1Y_ZrKpk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -159,17 +237,29 @@ A young woman is sent to Paradise Hills to be reformed, only to learn that the h
 
 
 	
-
-  
-
-
-	
 	
 	
 
   
 
 
+	
+	
+
+### Gundala
+*Released on 2019-08-29, vote average 7.8*
+
+Sancaka has lived on the streets since his parents left him. Living a hard life, Sancaka survives by thinking about his own safety. When the condition of the city gets worse and injustice rages throughout the country, Sancaka must decide whether he continues to live to look after himself or rise to become their oppressed hero.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fsXDJoSHqLs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -239,26 +329,6 @@ After a man&#39;s family dies in what appears to be a murder, he gets a phone ca
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -267,7 +337,7 @@ After a man&#39;s family dies in what appears to be a murder, he gets a phone ca
 	
 
 ### It: Chapter Two
-*Released on 2019-09-06, vote average 10*
+*Released on 2019-09-06, vote average 7.8*
 
 27 years after overcoming the malevolent supernatural entity Pennywise, the former members of the Losers&#39; Club, who have grown up and moved away from Derry, are brought back together by a devastating phone call.
 
@@ -282,23 +352,6 @@ After a man&#39;s family dies in what appears to be a murder, he gets a phone ca
 	
 	
 
-	
-	
-
-### Don&#39;t Let Go
-*Released on 2019-08-30, vote average 2*
-
-After a man&#39;s family dies in what appears to be a murder, he gets a phone call from one of the dead, his niece. He&#39;s not sure if she’s a ghost or if he&#39;s going mad - but as it turns out, he&#39;s not. Instead, her calls help him rewrite history.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-G4QuUXlLCk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
