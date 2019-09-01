@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Angel Has Fallen
-*Released on 2019-08-23, vote average 5.5*
+*Released on 2019-08-23, vote average 5.6*
 
 Secret Service Agent Mike Banning is framed for the attempted assassination of the President and must evade his own agency and the FBI as he tries to uncover the real threat.
 
@@ -47,7 +47,7 @@ Secret Service Agent Mike Banning is framed for the attempted assassination of t
 	
 
 ### Night Hunter
-*Released on 2019-09-06, vote average 6.8*
+*Released on 2019-09-06, vote average 6.6*
 
 A police task force traps an online predator, only to discover that the depth of his crimes goes far beyond anything they had anticipated.
 
@@ -56,6 +56,28 @@ A police task force traps an online predator, only to discover that the depth of
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/Rvh9zDUNiWg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Falling Inn Love
+*Released on 2019-08-29, vote average 7.1*
+
+When a San Francisco exec wins a New Zealand inn, she ditches city life to remodel and flip the rustic property with help from a handsome contractor.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/P9vXNloQfTM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -89,49 +111,12 @@ A bride&#39;s wedding night takes a sinister turn when her eccentric new in-laws
 
 	
 	
-
-### Falling Inn Love
-*Released on 2019-08-29, vote average 7.2*
-
-When a San Francisco exec wins a New Zealand inn, she ditches city life to remodel and flip the rustic property with help from a handsome contractor.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/P9vXNloQfTM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
 
 
 	
-	
-	
-
-  
-
-
-	
-	
-
-### Little Monsters
-*Released on 2019-01-27, vote average 7.8*
-
-A washed-up musician teams up with a teacher and a kids show personality to protect young children from a sudden outbreak of zombies.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8d1KP-OhBP4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -142,7 +127,7 @@ A washed-up musician teams up with a teacher and a kids show personality to prot
 	
 
 ### Marriage Story
-*Released on 2019-10-04, vote average 8.3*
+*Released on 2019-10-04, vote average 8.1*
 
 A stage director and his actor wife struggle through a grueling, coast-to-coast divorce that pushes them to their personal and creative extremes.
 
@@ -161,20 +146,10 @@ A stage director and his actor wife struggle through a grueling, coast-to-coast 
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### Burn
-*Released on 2019-08-23, vote average 8.3*
+*Released on 2019-08-23, vote average 8.6*
 
 Lonely, unstable gas station attendant Melinda is tired of being overshadowed by her more confident, outgoing co-worker Sheila. When the gas station is held up at gunpoint by Billy, a desperate man in need of quick cash, Melinda finds an opportunity to make a connection with the robber, regardless of who gets hurt.
 
@@ -183,6 +158,38 @@ Lonely, unstable gas station attendant Melinda is tired of being overshadowed by
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/Icb1Y_ZrKpk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Dave Chappelle: Sticks &amp; Stones
+*Released on 2019-08-26, vote average 8.1*
+
+Dave Chappelle takes on gun culture, the opioid crisis and the tidal wave of celebrity scandals in this defiant stand-up special.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/eyOkypzFfHo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -205,28 +212,6 @@ After losing his brother in combat, Jacob Singer returns home from Afghanistan -
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/bwkwFanLKos?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Paradise Hills
-*Released on 2019-11-01, vote average 4.8*
-
-A young woman is sent to Paradise Hills to be reformed, only to learn that the high-class facility&#39;s beautiful facade hides a sinister secret.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qUVrH4BI-Cw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -269,7 +254,7 @@ Sancaka has lived on the streets since his parents left him. Living a hard life,
 	
 
 ### Bacurau
-*Released on 2019-08-29, vote average 9.6*
+*Released on 2019-08-29, vote average 9*
 
 Bacurau, a small town in the Brazilian sertão, mourns the loss of its matriarch, Carmelita, who lived to be 94. Days later, its inhabitants notice that their community has vanished from most maps.
 
@@ -292,6 +277,23 @@ Bacurau, a small town in the Brazilian sertão, mourns the loss of its matriarch
   
 
 
+	
+	
+
+### Frankie
+*Released on 2019-08-28, vote average 4*
+
+About three generations of a family grappling with a life-changing experience during one day of a vacation in the historic town of Sintra, Portugal.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ssxK8FboFo4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -337,7 +339,7 @@ After a man&#39;s family dies in what appears to be a murder, he gets a phone ca
 	
 
 ### It: Chapter Two
-*Released on 2019-09-06, vote average 7.8*
+*Released on 2019-09-06, vote average 6.8*
 
 27 years after overcoming the malevolent supernatural entity Pennywise, the former members of the Losers&#39; Club, who have grown up and moved away from Derry, are brought back together by a devastating phone call.
 
