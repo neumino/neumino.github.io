@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Angel Has Fallen
-*Released on 2019-08-23, vote average 5.6*
+*Released on 2019-08-23, vote average 5.7*
 
 Secret Service Agent Mike Banning is framed for the attempted assassination of the President and must evade his own agency and the FBI as he tries to uncover the real threat.
 
@@ -46,16 +46,16 @@ Secret Service Agent Mike Banning is framed for the attempted assassination of t
 	
 	
 
-### Night Hunter
-*Released on 2019-09-06, vote average 6.6*
+### Falling Inn Love
+*Released on 2019-08-29, vote average 6.9*
 
-A police task force traps an online predator, only to discover that the depth of his crimes goes far beyond anything they had anticipated.
+When a San Francisco exec wins a New Zealand inn, she ditches city life to remodel and flip the rustic property with help from a handsome contractor.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Rvh9zDUNiWg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/P9vXNloQfTM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,16 +68,16 @@ A police task force traps an online predator, only to discover that the depth of
 	
 	
 
-### Falling Inn Love
-*Released on 2019-08-29, vote average 7.1*
+### Night Hunter
+*Released on 2019-09-06, vote average 6.3*
 
-When a San Francisco exec wins a New Zealand inn, she ditches city life to remodel and flip the rustic property with help from a handsome contractor.
+A police task force traps an online predator, only to discover that the depth of his crimes goes far beyond anything they had anticipated.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/P9vXNloQfTM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Rvh9zDUNiWg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -118,24 +118,17 @@ A bride&#39;s wedding night takes a sinister turn when her eccentric new in-laws
 
 	
 	
-	
 
-  
+### Saaho
+*Released on 2019-08-29, vote average 7.3*
 
-
-	
-	
-
-### Marriage Story
-*Released on 2019-10-04, vote average 8.1*
-
-A stage director and his actor wife struggle through a grueling, coast-to-coast divorce that pushes them to their personal and creative extremes.
+A battle for power ensues as two warring gangs thrive to gain possession of a &#34;black box&#34; that can make them richer than they already are, and an undercover cop intervenes with the help of his sharp intellect and an instinct to kill.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/VfBSbgaqPr8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/lOUrPTdg3bc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -148,30 +141,20 @@ A stage director and his actor wife struggle through a grueling, coast-to-coast 
 	
 	
 
-### Burn
-*Released on 2019-08-23, vote average 8.6*
+### Gundala
+*Released on 2019-08-29, vote average 8.2*
 
-Lonely, unstable gas station attendant Melinda is tired of being overshadowed by her more confident, outgoing co-worker Sheila. When the gas station is held up at gunpoint by Billy, a desperate man in need of quick cash, Melinda finds an opportunity to make a connection with the robber, regardless of who gets hurt.
+Sancaka has lived on the streets since his parents left him. Living a hard life, Sancaka survives by thinking about his own safety. When the condition of the city gets worse and injustice rages throughout the country, Sancaka must decide whether he continues to live to look after himself or rise to become their oppressed hero.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Icb1Y_ZrKpk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/fsXDJoSHqLs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -199,101 +182,6 @@ Dave Chappelle takes on gun culture, the opioid crisis and the tidal wave of cel
   
 
 
-	
-	
-
-### Jacob&#39;s Ladder
-*Released on 2019-08-23, vote average 7.4*
-
-After losing his brother in combat, Jacob Singer returns home from Afghanistan -- only to be pulled into a mind-twisting state of paranoia. Singer soon realizes that his sibling is alive but life is not what it seems.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/bwkwFanLKos?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Gundala
-*Released on 2019-08-29, vote average 7.8*
-
-Sancaka has lived on the streets since his parents left him. Living a hard life, Sancaka survives by thinking about his own safety. When the condition of the city gets worse and injustice rages throughout the country, Sancaka must decide whether he continues to live to look after himself or rise to become their oppressed hero.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/fsXDJoSHqLs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Bacurau
-*Released on 2019-08-29, vote average 9*
-
-Bacurau, a small town in the Brazilian sertão, mourns the loss of its matriarch, Carmelita, who lived to be 94. Days later, its inhabitants notice that their community has vanished from most maps.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Hr49Ayyb3zs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Frankie
-*Released on 2019-08-28, vote average 4*
-
-About three generations of a family grappling with a life-changing experience during one day of a vacation in the historic town of Sintra, Portugal.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ssxK8FboFo4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -331,6 +219,65 @@ After a man&#39;s family dies in what appears to be a murder, he gets a phone ca
   
 
 
+	
+	
+
+### Bennett&#39;s War
+*Released on 2019-08-30, vote average 1*
+
+After surviving an IED explosion in combat overseas, a young soldier with the Army Motorcycle Unit is medically discharged with a broken back and leg. Against all odds he trains to make an impossible comeback as a motocross racer in order to support his family.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZngxYCDt-Vw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -339,7 +286,7 @@ After a man&#39;s family dies in what appears to be a murder, he gets a phone ca
 	
 
 ### It: Chapter Two
-*Released on 2019-09-06, vote average 6.8*
+*Released on 2019-09-06, vote average 6.9*
 
 27 years after overcoming the malevolent supernatural entity Pennywise, the former members of the Losers&#39; Club, who have grown up and moved away from Derry, are brought back together by a devastating phone call.
 
