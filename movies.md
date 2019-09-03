@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Angel Has Fallen
-*Released on 2019-08-23, vote average 5.7*
+*Released on 2019-08-23, vote average 5.8*
 
 Secret Service Agent Mike Banning is framed for the attempted assassination of the President and must evade his own agency and the FBI as he tries to uncover the real threat.
 
@@ -47,7 +47,7 @@ Secret Service Agent Mike Banning is framed for the attempted assassination of t
 	
 
 ### Falling Inn Love
-*Released on 2019-08-29, vote average 6.9*
+*Released on 2019-08-29, vote average 6.6*
 
 When a San Francisco exec wins a New Zealand inn, she ditches city life to remodel and flip the rustic property with help from a handsome contractor.
 
@@ -69,7 +69,7 @@ When a San Francisco exec wins a New Zealand inn, she ditches city life to remod
 	
 
 ### Night Hunter
-*Released on 2019-09-06, vote average 6.3*
+*Released on 2019-09-06, vote average 6.2*
 
 A police task force traps an online predator, only to discover that the depth of his crimes goes far beyond anything they had anticipated.
 
@@ -119,28 +119,6 @@ A bride&#39;s wedding night takes a sinister turn when her eccentric new in-laws
 	
 	
 
-### Saaho
-*Released on 2019-08-29, vote average 7.3*
-
-A battle for power ensues as two warring gangs thrive to gain possession of a &#34;black box&#34; that can make them richer than they already are, and an undercover cop intervenes with the help of his sharp intellect and an instinct to kill.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/lOUrPTdg3bc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Gundala
 *Released on 2019-08-29, vote average 8.2*
 
@@ -164,7 +142,7 @@ Sancaka has lived on the streets since his parents left him. Living a hard life,
 	
 
 ### Dave Chappelle: Sticks &amp; Stones
-*Released on 2019-08-26, vote average 8.1*
+*Released on 2019-08-26, vote average 8.2*
 
 Dave Chappelle takes on gun culture, the opioid crisis and the tidal wave of celebrity scandals in this defiant stand-up special.
 
@@ -188,6 +166,28 @@ Dave Chappelle takes on gun culture, the opioid crisis and the tidal wave of cel
 
 
 	
+	
+
+### Saaho
+*Released on 2019-08-29, vote average 6.6*
+
+A battle for power ensues as warring gangters thrive to gain possession of a &#34;black box&#34; that can make them richer than they already are, and an undercover cop intervenes with the help of his sharp intellect and an instinct to kill.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/lOUrPTdg3bc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 
   
 
@@ -201,7 +201,7 @@ Dave Chappelle takes on gun culture, the opioid crisis and the tidal wave of cel
 	
 
 ### Don&#39;t Let Go
-*Released on 2019-08-30, vote average 2*
+*Released on 2019-08-30, vote average 6*
 
 After a man&#39;s family dies in what appears to be a murder, he gets a phone call from one of the dead, his niece. He&#39;s not sure if she’s a ghost or if he&#39;s going mad - but as it turns out, he&#39;s not. Instead, her calls help him rewrite history.
 
@@ -241,6 +241,8 @@ After surviving an IED explosion in combat overseas, a young soldier with the Ar
   
 
 
+	
+	
 	
 
   
@@ -286,7 +288,7 @@ After surviving an IED explosion in combat overseas, a young soldier with the Ar
 	
 
 ### It: Chapter Two
-*Released on 2019-09-06, vote average 6.9*
+*Released on 2019-09-06, vote average 7.7*
 
 27 years after overcoming the malevolent supernatural entity Pennywise, the former members of the Losers&#39; Club, who have grown up and moved away from Derry, are brought back together by a devastating phone call.
 
@@ -311,6 +313,23 @@ After surviving an IED explosion in combat overseas, a young soldier with the Ar
 
 	
 
+	
+	
+
+### The Laundromat
+*Released on 2019-09-27, vote average 6*
+
+A group of journalists take part in unearthing 11.5 million files, linking the world&#39;s most powerful political figures to secret banking accounts to avoid taxes.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wuBRcfe4bSo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
