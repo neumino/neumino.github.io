@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Angel Has Fallen
-*Released on 2019-08-23, vote average 5.8*
+*Released on 2019-08-23, vote average 5.9*
 
 Secret Service Agent Mike Banning is framed for the attempted assassination of the President and must evade his own agency and the FBI as he tries to uncover the real threat.
 
@@ -46,16 +46,38 @@ Secret Service Agent Mike Banning is framed for the attempted assassination of t
 	
 	
 
-### Falling Inn Love
-*Released on 2019-08-29, vote average 6.6*
+### It: Chapter Two
+*Released on 2019-09-06, vote average 7.4*
 
-When a San Francisco exec wins a New Zealand inn, she ditches city life to remodel and flip the rustic property with help from a handsome contractor.
+27 years after overcoming the malevolent supernatural entity Pennywise, the former members of the Losers&#39; Club, who have grown up and moved away from Derry, are brought back together by a devastating phone call.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/P9vXNloQfTM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/zqUopiAYdRg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Ready or Not
+*Released on 2019-08-21, vote average 7.6*
+
+A bride&#39;s wedding night takes a sinister turn when her eccentric new in-laws force her to take part in a terrifying game.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZtYTwUxhAoI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -69,7 +91,7 @@ When a San Francisco exec wins a New Zealand inn, she ditches city life to remod
 	
 
 ### Night Hunter
-*Released on 2019-09-06, vote average 6.2*
+*Released on 2019-09-06, vote average 6.1*
 
 A police task force traps an online predator, only to discover that the depth of his crimes goes far beyond anything they had anticipated.
 
@@ -90,26 +112,19 @@ A police task force traps an online predator, only to discover that the depth of
 	
 	
 
-### Ready or Not
-*Released on 2019-08-21, vote average 7.5*
+### Falling Inn Love
+*Released on 2019-08-29, vote average 6.5*
 
-A bride&#39;s wedding night takes a sinister turn when her eccentric new in-laws force her to take part in a terrifying game.
+When a San Francisco exec wins a New Zealand inn, she ditches city life to remodel and flip the rustic property with help from a handsome contractor.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ZtYTwUxhAoI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/P9vXNloQfTM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -167,6 +182,35 @@ Dave Chappelle takes on gun culture, the opioid crisis and the tidal wave of cel
 
 	
 	
+	
+
+  
+
+
+	
+	
+
+### Steven Universe: The Movie
+*Released on 2019-09-02, vote average 7*
+
+Two years after the events of &#34;Change Your Mind&#34;, Steven (now 16 years old) and his friends are ready to enjoy the rest of their lives peacefully. However, all of that changes when a new sinister Gem arrives, armed with a giant drill that saps the life force of all living things on Earth. In their biggest challenge ever, the Crystal Gems must work together to save all organic life on Earth within 48 hours.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/TlmfPB20Ln4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
 
 ### Saaho
 *Released on 2019-08-29, vote average 6.6*
@@ -200,8 +244,30 @@ A battle for power ensues as warring gangters thrive to gain possession of a &#3
 	
 	
 
+### No. 7 Cherry Lane
+*Released on 2019-09-02, vote average 7.5*
+
+Set in Hong Kong in 1967 — a time of complex politics when it was still a British colony — No. 7 Cherry Lane revolves around a love triangle between a university student, a single mother and her teenage daughter.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Zmvw_F7wGQc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Don&#39;t Let Go
-*Released on 2019-08-30, vote average 6*
+*Released on 2019-08-30, vote average 4.7*
 
 After a man&#39;s family dies in what appears to be a murder, he gets a phone call from one of the dead, his niece. He&#39;s not sure if she’s a ghost or if he&#39;s going mad - but as it turns out, he&#39;s not. Instead, her calls help him rewrite history.
 
@@ -223,7 +289,7 @@ After a man&#39;s family dies in what appears to be a murder, he gets a phone ca
 	
 
 ### Bennett&#39;s War
-*Released on 2019-08-30, vote average 1*
+*Released on 2019-08-30, vote average 1.5*
 
 After surviving an IED explosion in combat overseas, a young soldier with the Army Motorcycle Unit is medically discharged with a broken back and leg. Against all odds he trains to make an impossible comeback as a motocross racer in order to support his family.
 
@@ -236,25 +302,6 @@ After surviving an IED explosion in combat overseas, a young soldier with the Ar
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 	
 
   
@@ -288,7 +335,7 @@ After surviving an IED explosion in combat overseas, a young soldier with the Ar
 	
 
 ### It: Chapter Two
-*Released on 2019-09-06, vote average 7.7*
+*Released on 2019-09-06, vote average 7.4*
 
 27 years after overcoming the malevolent supernatural entity Pennywise, the former members of the Losers&#39; Club, who have grown up and moved away from Derry, are brought back together by a devastating phone call.
 
@@ -304,22 +351,12 @@ After surviving an IED explosion in combat overseas, a young soldier with the Ar
 	
 
 	
-
-	
-
-	
-
-	
-
-	
-
-	
 	
 
 ### The Laundromat
-*Released on 2019-09-27, vote average 6*
+*Released on 2019-09-27, vote average 5.4*
 
-A group of journalists take part in unearthing 11.5 million files, linking the world&#39;s most powerful political figures to secret banking accounts to avoid taxes.
+A widow investigating insurance fraud uncovers two lawyers in Panama exploiting the world&#39;s financial system.
 
 <iframe id="player"
 	type="text/html"
@@ -345,9 +382,38 @@ A group of journalists take part in unearthing 11.5 million files, linking the w
 	
 
 	
+	
+
+### Pure
+*Released on 2019-09-06, vote average 10*
+
+Teen girls perform a secret ritual at a Purity Retreat and, when one of them begins to see a supernatural entity, the terrifying question becomes what is more dangerous: the demon they’ve unleashed, or the pressure of their controlling fathers.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Su0J7P8azfU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
 	
 
 	
