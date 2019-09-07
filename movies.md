@@ -47,7 +47,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Steven Universe: The Movie
-*Released on 2019-09-02, vote average 8.4*
+*Released on 2019-09-02, vote average 8.5*
 
 Two years after the events of &#34;Change Your Mind&#34;, Steven (now 16 years old) and his friends are ready to enjoy the rest of their lives peacefully. However, all of that changes when a new sinister Gem arrives, armed with a giant drill that saps the life force of all living things on Earth. In their biggest challenge ever, the Crystal Gems must work together to save all organic life on Earth within 48 hours.
 
@@ -91,7 +91,7 @@ Sancaka has lived on the streets since his parents left him. Living a hard life,
 	
 
 ### Falling Inn Love
-*Released on 2019-08-29, vote average 6.5*
+*Released on 2019-08-29, vote average 6.4*
 
 When a San Francisco exec wins a New Zealand inn, she ditches city life to remodel and flip the rustic property with help from a handsome contractor.
 
@@ -132,6 +132,33 @@ A widow investigating insurance fraud uncovers two lawyers in Panama exploiting 
 
 
 	
+
+  
+
+
+	
+	
+
+### Dave Chappelle: Sticks &amp; Stones
+*Released on 2019-08-26, vote average 8.2*
+
+Dave Chappelle takes on gun culture, the opioid crisis and the tidal wave of celebrity scandals in this defiant stand-up special.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/eyOkypzFfHo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 
 ### Night Hunter
@@ -161,16 +188,16 @@ A police task force traps an online predator, only to discover that the depth of
 	
 	
 
-### Dave Chappelle: Sticks &amp; Stones
-*Released on 2019-08-26, vote average 8.2*
+### Into the Dark: Pure
+*Released on 2019-09-06, vote average 10*
 
-Dave Chappelle takes on gun culture, the opioid crisis and the tidal wave of celebrity scandals in this defiant stand-up special.
+Teen girls perform a secret ritual at a Purity Retreat and, when one of them begins to see a supernatural entity, the terrifying question becomes what is more dangerous: the demon they’ve unleashed, or the pressure of their controlling fathers.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/eyOkypzFfHo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Su0J7P8azfU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -185,6 +212,23 @@ Dave Chappelle takes on gun culture, the opioid crisis and the tidal wave of cel
   
 
 
+	
+	
+
+### Ford v. Ferrari
+*Released on 2019-11-15, vote average 6.5*
+
+American car designer Carroll Shelby and the British-born driver Ken Miles work together to battle corporate interference, the laws of physics, and their own personal demons to build a revolutionary race car for Ford Motor Company and take on the dominating race cars of Enzo Ferrari at the 24 Hours of Le Mans in France in 1966.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zyYgDtY2AMY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -251,18 +295,6 @@ After a man&#39;s family dies in what appears to be a murder, he gets a phone ca
   
 
 
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -270,21 +302,14 @@ After a man&#39;s family dies in what appears to be a murder, he gets a phone ca
 	
 
 	
+
 	
 
-### Pure
-*Released on 2019-09-06, vote average 10*
+	
 
-Teen girls perform a secret ritual at a Purity Retreat and, when one of them begins to see a supernatural entity, the terrifying question becomes what is more dangerous: the demon they’ve unleashed, or the pressure of their controlling fathers.
+	
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Su0J7P8azfU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
+	
 	
 	
 
@@ -299,13 +324,7 @@ Teen girls perform a secret ritual at a Purity Retreat and, when one of them beg
 	
 
 	
-
 	
-
-	
-
-	
-
 	
 
 	
