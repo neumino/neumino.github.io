@@ -47,7 +47,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Steven Universe: The Movie
-*Released on 2019-09-02, vote average 8.5*
+*Released on 2019-09-02, vote average 8.6*
 
 Two years after the events of &#34;Change Your Mind&#34;, Steven (now 16 years old) and his friends are ready to enjoy the rest of their lives peacefully. However, all of that changes when a new sinister Gem arrives, armed with a giant drill that saps the life force of all living things on Earth. In their biggest challenge ever, the Crystal Gems must work together to save all organic life on Earth within 48 hours.
 
@@ -68,8 +68,30 @@ Two years after the events of &#34;Change Your Mind&#34;, Steven (now 16 years o
 	
 	
 
+### K-12
+*Released on 2019-09-05, vote average 8.7*
+
+Cry Baby, a strong and sensitive girl, is sent off to a disturbing sleepaway school that’s hidden underneath a grandiose façade. Luckily, she has a sweet and unapologetic best friend who sticks up for her when she gets bullied by the other students whose brains are under control by the Principal and his wicked staff. With the help of the magical friends they meet along the way, as well as an Angelic Spirit Guide, they are able to gain the strength they need to fight off the school’s belligerent patriarchal conditioning.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nVaQmzwKg2Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Gundala
-*Released on 2019-08-29, vote average 8.2*
+*Released on 2019-08-29, vote average 6.1*
 
 Sancaka has lived on the streets since his parents left him. Living a hard life, Sancaka survives by thinking about his own safety. When the condition of the city gets worse and injustice rages throughout the country, Sancaka must decide whether he continues to live to look after himself or rise to become their oppressed hero.
 
@@ -113,7 +135,7 @@ When a San Francisco exec wins a New Zealand inn, she ditches city life to remod
 	
 
 ### The Laundromat
-*Released on 2019-09-27, vote average 5.5*
+*Released on 2019-09-27, vote average 5.6*
 
 A widow investigating insurance fraud uncovers two lawyers in Panama exploiting the world&#39;s financial system.
 
@@ -126,11 +148,6 @@ A widow investigating insurance fraud uncovers two lawyers in Panama exploiting 
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -181,14 +198,9 @@ A police task force traps an online predator, only to discover that the depth of
 
 
 	
-
-  
-
-
-	
 	
 
-### Into the Dark: Pure
+### Pure
 *Released on 2019-09-06, vote average 10*
 
 Teen girls perform a secret ritual at a Purity Retreat and, when one of them begins to see a supernatural entity, the terrifying question becomes what is more dangerous: the demon they’ve unleashed, or the pressure of their controlling fathers.
@@ -214,9 +226,21 @@ Teen girls perform a secret ritual at a Purity Retreat and, when one of them beg
 
 	
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 
 ### Ford v. Ferrari
-*Released on 2019-11-15, vote average 6.5*
+*Released on 2019-11-15, vote average 3.5*
 
 American car designer Carroll Shelby and the British-born driver Ken Miles work together to battle corporate interference, the laws of physics, and their own personal demons to build a revolutionary race car for Ford Motor Company and take on the dominating race cars of Enzo Ferrari at the 24 Hours of Le Mans in France in 1966.
 
@@ -247,8 +271,6 @@ American car designer Carroll Shelby and the British-born driver Ken Miles work 
 
 
 	
-	
-	
 
   
 
@@ -276,10 +298,7 @@ After a man&#39;s family dies in what appears to be a murder, he gets a phone ca
 
 
 	
-
-  
-
-
+	
 	
 
   
@@ -300,6 +319,23 @@ After a man&#39;s family dies in what appears to be a murder, he gets a phone ca
 
 
 	
+	
+
+### Ema
+*Released on 2019-09-08, vote average 5.8*
+
+A couple deals with the aftermath of an adoption that goes awry as their household falls apart.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3xVGjzPaV6s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
@@ -310,8 +346,6 @@ After a man&#39;s family dies in what appears to be a murder, he gets a phone ca
 	
 
 	
-	
-	
 
 	
 
@@ -324,9 +358,9 @@ After a man&#39;s family dies in what appears to be a murder, he gets a phone ca
 	
 
 	
-	
-	
 
+	
+	
 	
 
 	
