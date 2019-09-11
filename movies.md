@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### It Chapter Two
-*Released on 2019-09-06, vote average 7.3*
+*Released on 2019-09-06, vote average 7.2*
 
 27 years after overcoming the malevolent supernatural entity Pennywise, the former members of the Losers&#39; Club, who have grown up and moved away from Derry, are brought back together by a devastating phone call.
 
@@ -69,7 +69,7 @@ Sancaka has lived on the streets since his parents left him. Living a hard life,
 	
 
 ### K-12
-*Released on 2019-09-05, vote average 7.8*
+*Released on 2019-09-05, vote average 7.9*
 
 Cry Baby, a strong and sensitive girl, is sent off to a disturbing sleepaway school that’s hidden underneath a grandiose façade. Luckily, she has a sweet and unapologetic best friend who sticks up for her when she gets bullied by the other students whose brains are under control by the Principal and his wicked staff. With the help of the magical friends they meet along the way, as well as an Angelic Spirit Guide, they are able to gain the strength they need to fight off the school’s belligerent patriarchal conditioning.
 
@@ -91,7 +91,7 @@ Cry Baby, a strong and sensitive girl, is sent off to a disturbing sleepaway sch
 	
 
 ### Night Hunter
-*Released on 2019-09-06, vote average 6.2*
+*Released on 2019-09-06, vote average 6.3*
 
 A police task force traps an online predator, only to discover that the depth of his crimes goes far beyond anything they had anticipated.
 
@@ -156,8 +156,30 @@ A widow investigating insurance fraud uncovers two lawyers in Panama exploiting 
 	
 	
 
+### The Fanatic
+*Released on 2019-08-30, vote average 6.6*
+
+A rabid film fan stalks his favorite action hero and destroys the star&#39;s life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/YRS6V8RXIKE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Steven Universe: The Movie
-*Released on 2019-09-02, vote average 8.7*
+*Released on 2019-09-02, vote average 8.8*
 
 Two years after the events of &#34;Change Your Mind&#34;, Steven (now 16 years old) and his friends are ready to enjoy the rest of their lives peacefully. However, all of that changes when a new sinister Gem arrives, armed with a giant drill that saps the life force of all living things on Earth. In their biggest challenge ever, the Crystal Gems must work together to save all organic life on Earth within 48 hours.
 
@@ -178,16 +200,16 @@ Two years after the events of &#34;Change Your Mind&#34;, Steven (now 16 years o
 	
 	
 
-### The Fanatic
-*Released on 2019-08-30, vote average 7.3*
+### The Goldfinch
+*Released on 2019-09-13, vote average 4.5*
 
-A rabid film fan stalks his favorite action hero and destroys the star&#39;s life.
+A boy in New York is taken in by a wealthy family after his mother is killed in a bombing at the Metropolitan Museum of Art. In a rush of panic, he steals &#39;The Goldfinch&#39;, a painting that eventually draws him into a world of crime.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/YRS6V8RXIKE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/IcG06hZooHM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -197,13 +219,6 @@ A rabid film fan stalks his favorite action hero and destroys the star&#39;s lif
   
 
 
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -261,28 +276,6 @@ American car designer Carroll Shelby and the British-born driver Ken Miles work 
 
 
 	
-	
-
-### Don&#39;t Let Go
-*Released on 2019-08-30, vote average 6.7*
-
-After a man&#39;s family dies in what appears to be a murder, he gets a phone call from one of the dead, his niece. He&#39;s not sure if she’s a ghost or if he&#39;s going mad - but as it turns out, he&#39;s not. Instead, her calls help him rewrite history.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-G4QuUXlLCk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 
   
 
@@ -333,15 +326,24 @@ A couple deals with the aftermath of an adoption that goes awry as their househo
   
 
 
+	
+	
+	
+
+  
+
+
 
 ## Opening soon
 
 
 	
+
+	
 	
 
 ### Hustlers
-*Released on 2019-09-13, vote average 9*
+*Released on 2019-09-13, vote average 7.5*
 
 Inspired by Jessica Pressler&#39;s &#34;The Hustlers at Scores,&#34; which details a crew of savvy former strip club employees who band together to turn the tables on their Wall Street clients.
 
@@ -357,14 +359,10 @@ Inspired by Jessica Pressler&#39;s &#34;The Hustlers at Scores,&#34; which detai
 	
 
 	
-
-	
-
-	
 	
 
 ### The Goldfinch
-*Released on 2019-09-13, vote average 8*
+*Released on 2019-09-13, vote average 4.5*
 
 A boy in New York is taken in by a wealthy family after his mother is killed in a bombing at the Metropolitan Museum of Art. In a rush of panic, he steals &#39;The Goldfinch&#39;, a painting that eventually draws him into a world of crime.
 
@@ -377,6 +375,8 @@ A boy in New York is taken in by a wealthy family after his mother is killed in 
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
@@ -411,10 +411,23 @@ The continuing story of the Crawley family, wealthy owners of a large estate in 
 	
 
 	
+	
+
+### The Invisible Life of Eurídice Gusmão
+*Released on 2019-09-12, vote average 9*
+
+Rio de Janeiro in the 1950s, the life of Guida and Euridice Gusmão, raised to be invisible in the eyes of the Brazilian society of that time, like all the other women of that generation.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8fBBGRT9ga0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
 	
-	
 
 	
 
@@ -428,6 +441,10 @@ The continuing story of the Crawley family, wealthy owners of a large estate in 
 
 	
 
+	
+
+	
+	
 	
 
 
