@@ -46,16 +46,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Hustlers
-*Released on 2019-09-13, vote average 7.9*
+### Tall Girl
+*Released on 2019-09-13, vote average 10*
 
-Inspired by Jessica Pressler&#39;s &#34;The Hustlers at Scores,&#34; which details a crew of savvy former strip club employees who band together to turn the tables on their Wall Street clients.
+Jodi, the tallest girl in her high school, has always felt uncomfortable in her own skin. But after years of slouching, being made fun of, and avoiding attention at all costs, Jodi finally decides to find the confidence to stand tall.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/P_dfc0iqmig?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/NfpXeLVzJIw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,16 +68,16 @@ Inspired by Jessica Pressler&#39;s &#34;The Hustlers at Scores,&#34; which detai
 	
 	
 
-### Tall Girl
-*Released on 2019-09-13, vote average 10*
+### Hustlers
+*Released on 2019-09-13, vote average 8*
 
-Jodi, the tallest girl in her high school, has always felt uncomfortable in her own skin. But after years of slouching, being made fun of, and avoiding attention at all costs, Jodi finally decides to find the confidence to stand tall.
+Inspired by Jessica Pressler&#39;s &#34;The Hustlers at Scores,&#34; which details a crew of savvy former strip club employees who band together to turn the tables on their Wall Street clients.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/NfpXeLVzJIw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/P_dfc0iqmig?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,8 +112,30 @@ The continuing story of the Crawley family, wealthy owners of a large estate in 
 	
 	
 
+### Can You Keep a Secret?
+*Released on 2019-09-13, vote average 10*
+
+Emma Corrigan, a girl with a few secrets on a turbulent plane ride, thinks she’s about to die, Emma spills them all to the handsome stranger sitting next to her. At least, she thought he was a stranger. But then, her company’s young and elusive CEO, arrives at the office. It’s him. And he knows every single humiliating detail about Emma.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3IM1vSNJw3Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Goldfinch
-*Released on 2019-09-13, vote average 4.7*
+*Released on 2019-09-13, vote average 5.8*
 
 A boy in New York is taken in by a wealthy family after his mother is killed in a bombing at the Metropolitan Museum of Art. In a rush of panic, he steals &#39;The Goldfinch&#39;, a painting that eventually draws him into a world of crime.
 
@@ -135,7 +157,7 @@ A boy in New York is taken in by a wealthy family after his mother is killed in 
 	
 
 ### Bill Burr: Paper Tiger
-*Released on 2019-09-10, vote average 7.2*
+*Released on 2019-09-10, vote average 7.4*
 
 Comedian Bill Burr talks male feminists, outrage culture, robot sex, and cultural appropriation in this standup comedy special shot in London.
 
@@ -154,28 +176,18 @@ Comedian Bill Burr talks male feminists, outrage culture, robot sex, and cultura
 
 
 	
-
-  
-
-
 	
 
-  
+### The Painted Bird
+*Released on 2019-09-12, vote average 7.8*
 
-
-	
-	
-
-### The Fanatic
-*Released on 2019-08-30, vote average 6.6*
-
-A rabid film fan stalks his favorite action hero and destroys the star&#39;s life.
+A young Jewish boy in Poland seeks refuge in the forest during World War II where he encounters many different characters.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/YRS6V8RXIKE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/zDReTJFZYz4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -190,6 +202,35 @@ A rabid film fan stalks his favorite action hero and destroys the star&#39;s lif
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -218,6 +259,50 @@ The chronicle of a Portuguese family that owns one of the largest estates in Eur
 
 
 	
+	
+
+### Chasing Einstein
+*Released on 2019-09-13, vote average 9*
+
+Follow leading scientists around the world and to the edge of the universe on their quest to solve one of the greatest mysteries of the universe, the mysterious invisible “dark matter.”
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/A3NebXesuFc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Sound of Silence
+*Released on 2019-09-13, vote average 10*
+
+A successful &#34;house tuner&#34; in New York City, who calibrates the sound in people&#39;s homes in order to adjust their moods, meets a client with a problem he can&#39;t solve.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ejZ75QFesgE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -244,57 +329,27 @@ Cry Baby, a strong and sensitive girl, is sent off to a disturbing sleepaway sch
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 
 ## Opening soon
 
 
 	
+
 	
 
-### Tall Girl
-*Released on 2019-09-13, vote average 10*
+	
+	
 
-Jodi, the tallest girl in her high school, has always felt uncomfortable in her own skin. But after years of slouching, being made fun of, and avoiding attention at all costs, Jodi finally decides to find the confidence to stand tall.
+### Abominable
+*Released on 2019-09-29, vote average 10*
+
+Trekking the 3000-mile journey from Shanghai to the Himalayan snowscapes, a group of misfits encounter a young Yeti named Everest, and they set off to reunite the magical creature with his family on the mountain of his namesake.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/NfpXeLVzJIw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Ap0NRJD-2ts?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -310,41 +365,17 @@ Jodi, the tallest girl in her high school, has always felt uncomfortable in her 
 	
 
 	
-	
-
-### Can You Keep a Secret?
-*Released on 2019-09-13, vote average 10*
-
-Emma Corrigan, a girl with a few secrets on a turbulent plane ride, thinks she’s about to die, Emma spills them all to the handsome stranger sitting next to her. At least, she thought he was a stranger. But then, her company’s young and elusive CEO, arrives at the office. It’s him. And he knows every single humiliating detail about Emma.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3IM1vSNJw3Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
 	
 
 	
-	
-
-### Freaks
-*Released on 2019-09-13, vote average 6*
-
-A bold girl discovers a bizarre, threatening, and mysterious new world beyond her front door after she escapes her father&#39;s protective and paranoid control.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/4gT35M6dG5E?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+	
+
 	
 
 	
@@ -357,24 +388,6 @@ A bold girl discovers a bizarre, threatening, and mysterious new world beyond he
 
 	
 	
-	
-
-	
-
-	
-	
-	
-
-	
-	
-	
-
-	
-
-	
-
-	
-
 	
 
 	
