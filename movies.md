@@ -47,7 +47,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Tall Girl
-*Released on 2019-09-13, vote average 10*
+*Released on 2019-09-13, vote average 7.8*
 
 Jodi, the tallest girl in her high school, has always felt uncomfortable in her own skin. But after years of slouching, being made fun of, and avoiding attention at all costs, Jodi finally decides to find the confidence to stand tall.
 
@@ -69,7 +69,7 @@ Jodi, the tallest girl in her high school, has always felt uncomfortable in her 
 	
 
 ### Hustlers
-*Released on 2019-09-13, vote average 8*
+*Released on 2019-09-13, vote average 6.9*
 
 Inspired by Jessica Pressler&#39;s &#34;The Hustlers at Scores,&#34; which details a crew of savvy former strip club employees who band together to turn the tables on their Wall Street clients.
 
@@ -91,9 +91,9 @@ Inspired by Jessica Pressler&#39;s &#34;The Hustlers at Scores,&#34; which detai
 	
 
 ### Downton Abbey
-*Released on 2019-09-20, vote average 6*
+*Released on 2019-09-20, vote average 5.8*
 
-The continuing story of the Crawley family, wealthy owners of a large estate in the English countryside in the early 20th century.
+The continuing story of the Crawley family, wealthy owners of a large estate in the English countryside in the early 20th century
 
 <iframe id="player"
 	type="text/html"
@@ -113,7 +113,7 @@ The continuing story of the Crawley family, wealthy owners of a large estate in 
 	
 
 ### Can You Keep a Secret?
-*Released on 2019-09-13, vote average 10*
+*Released on 2019-09-13, vote average 7.7*
 
 Emma Corrigan, a girl with a few secrets on a turbulent plane ride, thinks she’s about to die, Emma spills them all to the handsome stranger sitting next to her. At least, she thought he was a stranger. But then, her company’s young and elusive CEO, arrives at the office. It’s him. And he knows every single humiliating detail about Emma.
 
@@ -135,7 +135,7 @@ Emma Corrigan, a girl with a few secrets on a turbulent plane ride, thinks she�
 	
 
 ### The Goldfinch
-*Released on 2019-09-13, vote average 5.8*
+*Released on 2019-09-13, vote average 6.5*
 
 A boy in New York is taken in by a wealthy family after his mother is killed in a bombing at the Metropolitan Museum of Art. In a rush of panic, he steals &#39;The Goldfinch&#39;, a painting that eventually draws him into a world of crime.
 
@@ -144,28 +144,6 @@ A boy in New York is taken in by a wealthy family after his mother is killed in 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/IcG06hZooHM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Bill Burr: Paper Tiger
-*Released on 2019-09-10, vote average 7.4*
-
-Comedian Bill Burr talks male feminists, outrage culture, robot sex, and cultural appropriation in this standup comedy special shot in London.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/c078AVNTjM4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -203,6 +181,45 @@ A young Jewish boy in Poland seeks refuge in the forest during World War II wher
 
 
 	
+	
+
+### Freaks
+*Released on 2019-09-13, vote average 6.8*
+
+A bold girl discovers a bizarre, threatening, and mysterious new world beyond her front door after she escapes her father&#39;s protective and paranoid control.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/4gT35M6dG5E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Bill Burr: Paper Tiger
+*Released on 2019-09-10, vote average 7.5*
+
+Comedian Bill Burr talks male feminists, outrage culture, robot sex, and cultural appropriation in this standup comedy special shot in London.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/c078AVNTjM4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -218,12 +235,17 @@ A young Jewish boy in Poland seeks refuge in the forest during World War II wher
 
 
 	
-	
+
+  
+
+
 	
 
   
 
 
+	
+	
 	
 
   
@@ -307,34 +329,29 @@ A successful &#34;house tuner&#34; in New York City, who calibrates the sound in
   
 
 
-	
-	
-
-### K-12
-*Released on 2019-09-05, vote average 7.9*
-
-Cry Baby, a strong and sensitive girl, is sent off to a disturbing sleepaway school that’s hidden underneath a grandiose façade. Luckily, she has a sweet and unapologetic best friend who sticks up for her when she gets bullied by the other students whose brains are under control by the Principal and his wicked staff. With the help of the magical friends they meet along the way, as well as an Angelic Spirit Guide, they are able to gain the strength they need to fight off the school’s belligerent patriarchal conditioning.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nVaQmzwKg2Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 
 ## Opening soon
 
 
 	
 
+	
+	
+
+### Ad Astra
+*Released on 2019-09-20, vote average 4.5*
+
+An astronaut travels to the outer edges of the solar system to find his father and unravel a mystery that threatens the survival of our planet. He uncovers secrets which challenge the nature of human existence and our place in the cosmos.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/P6AaSMfXHbA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -373,6 +390,23 @@ Trekking the 3000-mile journey from Shanghai to the Himalayan snowscapes, a grou
 	
 
 	
+	
+
+### Chernobyl
+*Released on 2019-09-16, vote average 10*
+
+The main character was forgotten during an excursion to the Chernobyl exclusion zone. He will meet with the inhabitants of the zone and pass many obstacles in order to survive.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/H1RG0nZImoA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
@@ -386,8 +420,6 @@ Trekking the 3000-mile journey from Shanghai to the Himalayan snowscapes, a grou
 
 	
 
-	
-	
 	
 
 	
