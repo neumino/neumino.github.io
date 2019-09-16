@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### It Chapter Two
-*Released on 2019-09-06, vote average 7.2*
+*Released on 2019-09-06, vote average 7.1*
 
 27 years after overcoming the malevolent supernatural entity Pennywise, the former members of the Losers&#39; Club, who have grown up and moved away from Derry, are brought back together by a devastating phone call.
 
@@ -46,8 +46,30 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
+### Hustlers
+*Released on 2019-09-13, vote average 7*
+
+A crew of savvy former strip club employees band together to turn the tables on their Wall Street clients.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/P_dfc0iqmig?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Tall Girl
-*Released on 2019-09-13, vote average 7.8*
+*Released on 2019-09-13, vote average 6.9*
 
 Jodi, the tallest girl in her high school, has always felt uncomfortable in her own skin. But after years of slouching, being made fun of, and avoiding attention at all costs, Jodi finally decides to find the confidence to stand tall.
 
@@ -68,30 +90,8 @@ Jodi, the tallest girl in her high school, has always felt uncomfortable in her 
 	
 	
 
-### Hustlers
-*Released on 2019-09-13, vote average 6.9*
-
-Inspired by Jessica Pressler&#39;s &#34;The Hustlers at Scores,&#34; which details a crew of savvy former strip club employees who band together to turn the tables on their Wall Street clients.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/P_dfc0iqmig?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Downton Abbey
-*Released on 2019-09-20, vote average 5.8*
+*Released on 2019-09-20, vote average 6.3*
 
 The continuing story of the Crawley family, wealthy owners of a large estate in the English countryside in the early 20th century
 
@@ -100,28 +100,6 @@ The continuing story of the Crawley family, wealthy owners of a large estate in 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/TYnITeDfaA4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Can You Keep a Secret?
-*Released on 2019-09-13, vote average 7.7*
-
-Emma Corrigan, a girl with a few secrets on a turbulent plane ride, thinks she’s about to die, Emma spills them all to the handsome stranger sitting next to her. At least, she thought he was a stranger. But then, her company’s young and elusive CEO, arrives at the office. It’s him. And he knows every single humiliating detail about Emma.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3IM1vSNJw3Y?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -144,6 +122,28 @@ A boy in New York is taken in by a wealthy family after his mother is killed in 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/IcG06hZooHM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Can You Keep a Secret?
+*Released on 2019-09-13, vote average 6.4*
+
+Emma Corrigan, a girl with a few secrets on a turbulent plane ride, thinks she’s about to die, Emma spills them all to the handsome stranger sitting next to her. At least, she thought he was a stranger. But then, her company’s young and elusive CEO, arrives at the office. It’s him. And he knows every single humiliating detail about Emma.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3IM1vSNJw3Y?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -206,7 +206,7 @@ A bold girl discovers a bizarre, threatening, and mysterious new world beyond he
 	
 
 ### Bill Burr: Paper Tiger
-*Released on 2019-09-10, vote average 7.5*
+*Released on 2019-09-10, vote average 7.4*
 
 Comedian Bill Burr talks male feminists, outrage culture, robot sex, and cultural appropriation in this standup comedy special shot in London.
 
@@ -225,15 +225,66 @@ Comedian Bill Burr talks male feminists, outrage culture, robot sex, and cultura
 
 
 	
+	
 
-  
+### Hello, Privilege. It&#39;s Me, Chelsea
+*Released on 2019-09-13, vote average 5*
 
+In this documentary, Chelsea Handler explores how white privilege impacts American culture -- and the ways it’s benefited her own life and career.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/tPsLcrVlwt4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
 
 
+	
+	
+
+### Haunt
+*Released on 2019-09-13, vote average 5.5*
+
+On Halloween, a group of friends encounter an &#34;extreme&#34; haunted house that promises to feed on their darkest fears. The night turns deadly as they come to the horrifying realization that some nightmares are real.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/G8wJopQ59qg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Tazza: One Eyed Jack
+*Released on 2019-09-11, vote average 2*
+
+Il-chul is one top of his game when it comes to playing poker. One day, he goes after one big score and takes out loans but loses everything and ends up with a massive debt. He&#39;s about to lose his hand for not being able to pay back the debt and barely saves become a poker shark himself, Il-chul begs &#39;One-eyed&#39; to teach him everything he knows and joins &#39;One-eyed&#39; team.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/a-0LDpNPW2Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -390,6 +441,14 @@ Trekking the 3000-mile journey from Shanghai to the Himalayan snowscapes, a grou
 	
 
 	
+
+	
+
+	
+
+	
+
+	
 	
 
 ### Chernobyl
@@ -406,14 +465,6 @@ The main character was forgotten during an excursion to the Chernobyl exclusion 
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
 	
 
 	
