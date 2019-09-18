@@ -47,7 +47,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Hustlers
-*Released on 2019-09-13, vote average 6.8*
+*Released on 2019-09-13, vote average 6.5*
 
 A crew of savvy former strip club employees band together to turn the tables on their Wall Street clients.
 
@@ -69,7 +69,7 @@ A crew of savvy former strip club employees band together to turn the tables on 
 	
 
 ### Tall Girl
-*Released on 2019-09-13, vote average 6.7*
+*Released on 2019-09-13, vote average 6.6*
 
 Jodi, the tallest girl in her high school, has always felt uncomfortable in her own skin. But after years of slouching, being made fun of, and avoiding attention at all costs, Jodi finally decides to find the confidence to stand tall.
 
@@ -90,74 +90,8 @@ Jodi, the tallest girl in her high school, has always felt uncomfortable in her 
 	
 	
 
-### Can You Keep a Secret?
-*Released on 2019-09-13, vote average 6.4*
-
-Emma Corrigan, a girl with a few secrets on a turbulent plane ride, thinks she’s about to die, Emma spills them all to the handsome stranger sitting next to her. At least, she thought he was a stranger. But then, her company’s young and elusive CEO, arrives at the office. It’s him. And he knows every single humiliating detail about Emma.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3IM1vSNJw3Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Goldfinch
-*Released on 2019-09-13, vote average 6.3*
-
-A boy in New York is taken in by a wealthy family after his mother is killed in a bombing at the Metropolitan Museum of Art. In a rush of panic, he steals &#39;The Goldfinch&#39;, a painting that eventually draws him into a world of crime.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IcG06hZooHM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Downton Abbey
-*Released on 2019-09-20, vote average 6.8*
-
-The continuing story of the Crawley family, wealthy owners of a large estate in the English countryside in the early 20th century
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/TYnITeDfaA4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Ad Astra
-*Released on 2019-09-20, vote average 4.5*
+*Released on 2019-09-20, vote average 6.3*
 
 An astronaut travels to the outer edges of the solar system to find his father and unravel a mystery that threatens the survival of our planet. He uncovers secrets which challenge the nature of human existence and our place in the cosmos.
 
@@ -178,8 +112,79 @@ An astronaut travels to the outer edges of the solar system to find his father a
 	
 	
 
+### Can You Keep a Secret?
+*Released on 2019-09-13, vote average 6.7*
+
+Emma Corrigan, a girl with a few secrets on a turbulent plane ride, thinks she’s about to die, Emma spills them all to the handsome stranger sitting next to her. At least, she thought he was a stranger. But then, her company’s young and elusive CEO, arrives at the office. It’s him. And he knows every single humiliating detail about Emma.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3IM1vSNJw3Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Downton Abbey
+*Released on 2019-09-20, vote average 6.9*
+
+The beloved Crawleys and their intrepid staff prepare for the most important moment of their lives. A royal visit from the King and Queen of England will unleash scandal, romance and intrigue that will leave the future of Downton hanging in the balance.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/TYnITeDfaA4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Goldfinch
+*Released on 2019-09-13, vote average 6.4*
+
+A boy in New York is taken in by a wealthy family after his mother is killed in a bombing at the Metropolitan Museum of Art. In a rush of panic, he steals &#39;The Goldfinch&#39;, a painting that eventually draws him into a world of crime.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IcG06hZooHM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Painted Bird
-*Released on 2019-09-12, vote average 7.8*
+*Released on 2019-09-12, vote average 6.2*
 
 A young Jewish boy in Poland seeks refuge in the forest during World War II where he encounters many different characters.
 
@@ -197,6 +202,8 @@ A young Jewish boy in Poland seeks refuge in the forest during World War II wher
   
 
 
+	
+	
 	
 
   
@@ -228,7 +235,7 @@ A bold girl discovers a bizarre, threatening, and mysterious new world beyond he
 	
 
 ### Haunt
-*Released on 2019-09-13, vote average 6.3*
+*Released on 2019-09-13, vote average 6.6*
 
 On Halloween, a group of friends encounter an &#34;extreme&#34; haunted house that promises to feed on their darkest fears. The night turns deadly as they come to the horrifying realization that some nightmares are real.
 
@@ -280,6 +287,23 @@ Il-chul is one top of his game when it comes to playing poker. One day, he goes 
   
 
 
+	
+	
+
+### Mystery 101: Words Can Kill
+*Released on 2019-09-15, vote average 6*
+
+When a guest at the college book festival is killed, Amy and Travis clash after he arrests an unlikely person for murder. Amy must fight to prove he&#39;s got the wrong person behind bars. Starring Jill Wagner and Kristoffer Polaha.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Q_Dfo4P4tfQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -341,28 +365,6 @@ Follow leading scientists around the world and to the edge of the universe on th
   
 
 
-	
-	
-
-### The Sound of Silence
-*Released on 2019-09-13, vote average 10*
-
-A successful &#34;house tuner&#34; in New York City, who calibrates the sound in people&#39;s homes in order to adjust their moods, meets a client with a problem he can&#39;t solve.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ejZ75QFesgE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -371,7 +373,7 @@ A successful &#34;house tuner&#34; in New York City, who calibrates the sound in
 	
 
 ### Rambo: Last Blood
-*Released on 2019-09-20, vote average 5.5*
+*Released on 2019-09-20, vote average 7.8*
 
 When his housekeeper’s daughter is kidnapped, Rambo crosses the U.S.-Mexican border to bring her home but finds himself up against the full might of one of Mexico’s most ruthless cartels.
 
@@ -380,25 +382,6 @@ When his housekeeper’s daughter is kidnapped, Rambo crosses the U.S.-Mexican b
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/4vWg5yJuWfs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Ad Astra
-*Released on 2019-09-20, vote average 4.5*
-
-An astronaut travels to the outer edges of the solar system to find his father and unravel a mystery that threatens the survival of our planet. He uncovers secrets which challenge the nature of human existence and our place in the cosmos.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/P6AaSMfXHbA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -422,6 +405,8 @@ Trekking the 3000-mile journey from Shanghai to the Himalayan snowscapes, a grou
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
