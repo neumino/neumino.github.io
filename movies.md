@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### It Chapter Two
-*Released on 2019-09-06, vote average 7.2*
+### Hustlers
+*Released on 2019-09-13, vote average 6.5*
 
-27 years after overcoming the malevolent supernatural entity Pennywise, the former members of the Losers&#39; Club, who have grown up and moved away from Derry, are brought back together by a devastating phone call.
+A crew of savvy former strip club employees band together to turn the tables on their Wall Street clients.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/zqUopiAYdRg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/P_dfc0iqmig?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,38 +46,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Hustlers
-*Released on 2019-09-13, vote average 6.5*
+### Rambo: Last Blood
+*Released on 2019-09-20, vote average 8*
 
-A crew of savvy former strip club employees band together to turn the tables on their Wall Street clients.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/P_dfc0iqmig?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Tall Girl
-*Released on 2019-09-13, vote average 6.6*
-
-Jodi, the tallest girl in her high school, has always felt uncomfortable in her own skin. But after years of slouching, being made fun of, and avoiding attention at all costs, Jodi finally decides to find the confidence to stand tall.
+When his housekeeper’s granddaughter is kidnapped, Rambo crosses the U.S.-Mexican border to bring her home but finds himself up against the full might of one of Mexico’s most ruthless cartels.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/NfpXeLVzJIw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/4vWg5yJuWfs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -91,7 +69,7 @@ Jodi, the tallest girl in her high school, has always felt uncomfortable in her 
 	
 
 ### Ad Astra
-*Released on 2019-09-20, vote average 6.3*
+*Released on 2019-09-20, vote average 6.5*
 
 An astronaut travels to the outer edges of the solar system to find his father and unravel a mystery that threatens the survival of our planet. He uncovers secrets which challenge the nature of human existence and our place in the cosmos.
 
@@ -112,8 +90,52 @@ An astronaut travels to the outer edges of the solar system to find his father a
 	
 	
 
+### Tall Girl
+*Released on 2019-09-13, vote average 6.5*
+
+Jodi, the tallest girl in her high school, has always felt uncomfortable in her own skin. But after years of slouching, being made fun of, and avoiding attention at all costs, Jodi finally decides to find the confidence to stand tall.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/NfpXeLVzJIw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Abominable
+*Released on 2019-09-29, vote average 10*
+
+Trekking the 3000-mile journey from Shanghai to the Himalayan snowscapes, a group of misfits encounter a young Yeti named Everest, and they set off to reunite the magical creature with his family on the mountain of his namesake.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Ap0NRJD-2ts?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Can You Keep a Secret?
-*Released on 2019-09-13, vote average 6.7*
+*Released on 2019-09-13, vote average 6.6*
 
 Emma Corrigan, a girl with a few secrets on a turbulent plane ride, thinks she’s about to die, Emma spills them all to the handsome stranger sitting next to her. At least, she thought he was a stranger. But then, her company’s young and elusive CEO, arrives at the office. It’s him. And he knows every single humiliating detail about Emma.
 
@@ -125,162 +147,6 @@ Emma Corrigan, a girl with a few secrets on a turbulent plane ride, thinks she�
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Downton Abbey
-*Released on 2019-09-20, vote average 6.9*
-
-The beloved Crawleys and their intrepid staff prepare for the most important moment of their lives. A royal visit from the King and Queen of England will unleash scandal, romance and intrigue that will leave the future of Downton hanging in the balance.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/TYnITeDfaA4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Goldfinch
-*Released on 2019-09-13, vote average 6.4*
-
-A boy in New York is taken in by a wealthy family after his mother is killed in a bombing at the Metropolitan Museum of Art. In a rush of panic, he steals &#39;The Goldfinch&#39;, a painting that eventually draws him into a world of crime.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IcG06hZooHM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Painted Bird
-*Released on 2019-09-12, vote average 6.2*
-
-A young Jewish boy in Poland seeks refuge in the forest during World War II where he encounters many different characters.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zDReTJFZYz4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Freaks
-*Released on 2019-09-13, vote average 7.2*
-
-A bold girl discovers a bizarre, threatening, and mysterious new world beyond her front door after she escapes her father&#39;s protective and paranoid control.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/4gT35M6dG5E?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Haunt
-*Released on 2019-09-13, vote average 6.6*
-
-On Halloween, a group of friends encounter an &#34;extreme&#34; haunted house that promises to feed on their darkest fears. The night turns deadly as they come to the horrifying realization that some nightmares are real.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/G8wJopQ59qg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Tazza: One Eyed Jack
-*Released on 2019-09-11, vote average 2*
-
-Il-chul is one top of his game when it comes to playing poker. One day, he goes after one big score and takes out loans but loses everything and ends up with a massive debt. He&#39;s about to lose his hand for not being able to pay back the debt and barely saves become a poker shark himself, Il-chul begs &#39;One-eyed&#39; to teach him everything he knows and joins &#39;One-eyed&#39; team.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/a-0LDpNPW2Q?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 	
 
@@ -311,24 +177,17 @@ When a guest at the college book festival is killed, Amy and Travis clash after 
 
 	
 	
-	
 
-  
+### Downton Abbey
+*Released on 2019-09-20, vote average 6.8*
 
-
-	
-	
-
-### The Domain
-*Released on 2019-09-10, vote average 5.7*
-
-The chronicle of a Portuguese family that owns one of the largest estates in Europe, on the south bank of the River Tagus. The Domain delves deeply into the secrets of their homestead, portraying the historical, political, economic and social life of Portugal, since the 1940&#39;s to these days.
+The beloved Crawleys and their intrepid staff prepare for the most important moment of their lives. A royal visit from the King and Queen of England will unleash scandal, romance and intrigue that will leave the future of Downton hanging in the balance.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/8Z4-Jnz4l0k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/TYnITeDfaA4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -341,20 +200,108 @@ The chronicle of a Portuguese family that owns one of the largest estates in Eur
 	
 	
 
-### Chasing Einstein
-*Released on 2019-09-13, vote average 9*
+### Haunt
+*Released on 2019-09-13, vote average 6.5*
 
-Follow leading scientists around the world and to the edge of the universe on their quest to solve one of the greatest mysteries of the universe, the mysterious invisible “dark matter.”
+On Halloween, a group of friends encounter an &#34;extreme&#34; haunted house that promises to feed on their darkest fears. The night turns deadly as they come to the horrifying realization that some nightmares are real.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/A3NebXesuFc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/G8wJopQ59qg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### The Goldfinch
+*Released on 2019-09-13, vote average 6.5*
+
+A boy in New York is taken in by a wealthy family after his mother is killed in a bombing at the Metropolitan Museum of Art. In a rush of panic, he steals &#39;The Goldfinch&#39;, a painting that eventually draws him into a world of crime.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IcG06hZooHM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Portrait of a Lady on Fire
+*Released on 2019-12-06, vote average 6.3*
+
+On an isolated island in Brittany at the end of the 18th century, an artist is commissioned to paint a young woman&#39;s wedding portrait.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/R-fQPTwma9o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -370,41 +317,7 @@ Follow leading scientists around the world and to the edge of the universe on th
 
 
 	
-	
 
-### Rambo: Last Blood
-*Released on 2019-09-20, vote average 7.8*
-
-When his housekeeper’s daughter is kidnapped, Rambo crosses the U.S.-Mexican border to bring her home but finds himself up against the full might of one of Mexico’s most ruthless cartels.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/4vWg5yJuWfs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Abominable
-*Released on 2019-09-29, vote average 10*
-
-Trekking the 3000-mile journey from Shanghai to the Himalayan snowscapes, a group of misfits encounter a young Yeti named Everest, and they set off to reunite the magical creature with his family on the mountain of his namesake.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Ap0NRJD-2ts?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
