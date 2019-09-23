@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Hustlers
-*Released on 2019-09-13, vote average 6.3*
+### Rambo: Last Blood
+*Released on 2019-09-20, vote average 6.6*
 
-A crew of savvy former strip club employees band together to turn the tables on their Wall Street clients.
+When his housekeeper’s granddaughter is kidnapped, Rambo crosses the U.S.-Mexican border to bring her home but finds himself up against the full might of one of Mexico’s most ruthless cartels.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/P_dfc0iqmig?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/4vWg5yJuWfs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ A crew of savvy former strip club employees band together to turn the tables on 
 	
 	
 
-### Rambo: Last Blood
-*Released on 2019-09-20, vote average 6.3*
+### Hustlers
+*Released on 2019-09-13, vote average 6.5*
 
-When his housekeeper’s granddaughter is kidnapped, Rambo crosses the U.S.-Mexican border to bring her home but finds himself up against the full might of one of Mexico’s most ruthless cartels.
+A crew of savvy former strip club employees band together to turn the tables on their Wall Street clients.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/4vWg5yJuWfs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/P_dfc0iqmig?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@ When his housekeeper’s granddaughter is kidnapped, Rambo crosses the U.S.-Mexi
 	
 
 ### Ad Astra
-*Released on 2019-09-20, vote average 6.2*
+*Released on 2019-09-20, vote average 6.3*
 
 An astronaut travels to the outer edges of the solar system to find his father and unravel a mystery that threatens the survival of our planet. He uncovers secrets which challenge the nature of human existence and our place in the cosmos.
 
@@ -112,30 +112,8 @@ Jodi, the tallest girl in her high school, has always felt uncomfortable in her 
 	
 	
 
-### Abominable
-*Released on 2019-09-29, vote average 9.3*
-
-Trekking the 3000-mile journey from Shanghai to the Himalayan snowscapes, a group of misfits encounter a young Yeti named Everest, and they set off to reunite the magical creature with his family on the mountain of his namesake.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Ap0NRJD-2ts?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Downton Abbey
-*Released on 2019-09-20, vote average 6.7*
+*Released on 2019-09-20, vote average 7*
 
 The beloved Crawleys and their intrepid staff prepare for the most important moment of their lives. A royal visit from the King and Queen of England will unleash scandal, romance and intrigue that will leave the future of Downton hanging in the balance.
 
@@ -154,23 +132,18 @@ The beloved Crawleys and their intrepid staff prepare for the most important mom
 
 
 	
-
-  
-
-
-	
 	
 
-### Can You Keep a Secret?
-*Released on 2019-09-13, vote average 6.3*
+### Abominable
+*Released on 2019-09-29, vote average 6.7*
 
-Emma Corrigan, a girl with a few secrets on a turbulent plane ride, thinks she’s about to die, Emma spills them all to the handsome stranger sitting next to her. At least, she thought he was a stranger. But then, her company’s young and elusive CEO, arrives at the office. It’s him. And he knows every single humiliating detail about Emma.
+Trekking the 3000-mile journey from Shanghai to the Himalayan snowscapes, a group of misfits encounter a young Yeti named Everest, and they set off to reunite the magical creature with his family on the mountain of his namesake.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/3IM1vSNJw3Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Ap0NRJD-2ts?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -206,7 +179,7 @@ When a guest at the college book festival is killed, Amy and Travis clash after 
 	
 
 ### The Goldfinch
-*Released on 2019-09-13, vote average 6.5*
+*Released on 2019-09-13, vote average 6.6*
 
 A boy in New York is taken in by a wealthy family after his mother is killed in a bombing at the Metropolitan Museum of Art. In a rush of panic, he steals &#39;The Goldfinch&#39;, a painting that eventually draws him into a world of crime.
 
@@ -239,16 +212,16 @@ A boy in New York is taken in by a wealthy family after his mother is killed in 
 	
 	
 
-### Portrait of a Lady on Fire
-*Released on 2019-12-06, vote average 8.3*
+### Can You Keep a Secret?
+*Released on 2019-09-13, vote average 6.3*
 
-On an isolated island in Brittany at the end of the 18th century, an artist is commissioned to paint a young woman&#39;s wedding portrait.
+Emma Corrigan, a girl with a few secrets on a turbulent plane ride, thinks she’s about to die, Emma spills them all to the handsome stranger sitting next to her. At least, she thought he was a stranger. But then, her company’s young and elusive CEO, arrives at the office. It’s him. And he knows every single humiliating detail about Emma.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/R-fQPTwma9o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/3IM1vSNJw3Y?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -279,7 +252,7 @@ On an isolated island in Brittany at the end of the 18th century, an artist is c
 	
 
 ### Haunt
-*Released on 2019-09-13, vote average 6.5*
+*Released on 2019-09-13, vote average 6.4*
 
 On Halloween, a group of friends encounter an &#34;extreme&#34; haunted house that promises to feed on their darkest fears. The night turns deadly as they come to the horrifying realization that some nightmares are real.
 
@@ -309,6 +282,33 @@ On Halloween, a group of friends encounter an &#34;extreme&#34; haunted house th
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Lucky Day
+*Released on 2019-09-18, vote average 5*
+
+A newly released from prison safe cracker tries to keep his family together and also deal with a hitman seeking revenge for the death of his brother.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/sO4AkrBC0BM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
