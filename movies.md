@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Rambo: Last Blood
-*Released on 2019-09-20, vote average 6.6*
+*Released on 2019-09-20, vote average 6.7*
 
 When his housekeeperâ€™s granddaughter is kidnapped, Rambo crosses the U.S.-Mexican border to bring her home but finds himself up against the full might of one of Mexicoâ€™s most ruthless cartels.
 
@@ -47,7 +47,7 @@ When his housekeeperâ€™s granddaughter is kidnapped, Rambo crosses the U.S.-Mexi
 	
 
 ### Hustlers
-*Released on 2019-09-13, vote average 6.5*
+*Released on 2019-09-13, vote average 6.4*
 
 A crew of savvy former strip club employees band together to turn the tables on their Wall Street clients.
 
@@ -113,7 +113,7 @@ Jodi, the tallest girl in her high school, has always felt uncomfortable in her 
 	
 
 ### Downton Abbey
-*Released on 2019-09-20, vote average 7*
+*Released on 2019-09-20, vote average 7.1*
 
 The beloved Crawleys and their intrepid staff prepare for the most important moment of their lives. A royal visit from the King and Queen of England will unleash scandal, romance and intrigue that will leave the future of Downton hanging in the balance.
 
@@ -135,7 +135,7 @@ The beloved Crawleys and their intrepid staff prepare for the most important mom
 	
 
 ### Abominable
-*Released on 2019-09-29, vote average 6.7*
+*Released on 2019-09-29, vote average 7.4*
 
 Trekking the 3000-mile journey from Shanghai to the Himalayan snowscapes, a group of misfits encounter a young Yeti named Everest, and they set off to reunite the magical creature with his family on the mountain of his namesake.
 
@@ -144,6 +144,28 @@ Trekking the 3000-mile journey from Shanghai to the Himalayan snowscapes, a grou
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/Ap0NRJD-2ts?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Inside Man: Most Wanted
+*Released on 2019-09-24, vote average 6*
+
+An NYPD hostage negotiator teams up with a federal agent to rescue dozens of tourists held hostage during a 10-hour seige at the U.S. Federal Reserve.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/tlg4BQqhn3I?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -166,28 +188,6 @@ When a guest at the college book festival is killed, Amy and Travis clash after 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/Q_Dfo4P4tfQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Goldfinch
-*Released on 2019-09-13, vote average 6.6*
-
-A boy in New York is taken in by a wealthy family after his mother is killed in a bombing at the Metropolitan Museum of Art. In a rush of panic, he steals &#39;The Goldfinch&#39;, a painting that eventually draws him into a world of crime.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IcG06hZooHM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -232,17 +232,12 @@ Emma Corrigan, a girl with a few secrets on a turbulent plane ride, thinks sheâ€
 
 
 	
-	
-	
 
   
 
 
 	
-
-  
-
-
+	
 	
 
   
@@ -252,7 +247,7 @@ Emma Corrigan, a girl with a few secrets on a turbulent plane ride, thinks sheâ€
 	
 
 ### Haunt
-*Released on 2019-09-13, vote average 6.4*
+*Released on 2019-09-13, vote average 6.5*
 
 On Halloween, a group of friends encounter an &#34;extreme&#34; haunted house that promises to feed on their darkest fears. The night turns deadly as they come to the horrifying realization that some nightmares are real.
 
@@ -296,7 +291,7 @@ On Halloween, a group of friends encounter an &#34;extreme&#34; haunted house th
 	
 
 ### Lucky Day
-*Released on 2019-09-18, vote average 5*
+*Released on 2019-09-18, vote average 6.2*
 
 A newly released from prison safe cracker tries to keep his family together and also deal with a hitman seeking revenge for the death of his brother.
 
@@ -309,6 +304,11 @@ A newly released from prison safe cracker tries to keep his family together and 
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
