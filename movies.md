@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Rambo: Last Blood
-*Released on 2019-09-20, vote average 6.7*
+*Released on 2019-09-20, vote average 6.3*
 
 When his housekeeper’s granddaughter is kidnapped, Rambo crosses the U.S.-Mexican border to bring her home but finds himself up against the full might of one of Mexico’s most ruthless cartels.
 
@@ -47,7 +47,7 @@ When his housekeeper’s granddaughter is kidnapped, Rambo crosses the U.S.-Mexi
 	
 
 ### Hustlers
-*Released on 2019-09-13, vote average 6.4*
+*Released on 2019-09-13, vote average 6.3*
 
 A crew of savvy former strip club employees band together to turn the tables on their Wall Street clients.
 
@@ -69,7 +69,7 @@ A crew of savvy former strip club employees band together to turn the tables on 
 	
 
 ### Ad Astra
-*Released on 2019-09-20, vote average 6.3*
+*Released on 2019-09-20, vote average 6.2*
 
 An astronaut travels to the outer edges of the solar system to find his father and unravel a mystery that threatens the survival of our planet. He uncovers secrets which challenge the nature of human existence and our place in the cosmos.
 
@@ -78,6 +78,28 @@ An astronaut travels to the outer edges of the solar system to find his father a
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/P6AaSMfXHbA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Downton Abbey
+*Released on 2019-09-20, vote average 7.2*
+
+The beloved Crawleys and their intrepid staff prepare for the most important moment of their lives. A royal visit from the King and Queen of England will unleash scandal, romance and intrigue that will leave the future of Downton hanging in the balance.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/TYnITeDfaA4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -100,28 +122,6 @@ Jodi, the tallest girl in her high school, has always felt uncomfortable in her 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/NfpXeLVzJIw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Downton Abbey
-*Released on 2019-09-20, vote average 7.1*
-
-The beloved Crawleys and their intrepid staff prepare for the most important moment of their lives. A royal visit from the King and Queen of England will unleash scandal, romance and intrigue that will leave the future of Downton hanging in the balance.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/TYnITeDfaA4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -176,23 +176,6 @@ An NYPD hostage negotiator teams up with a federal agent to rescue dozens of tou
 
 
 	
-	
-
-### Mystery 101: Words Can Kill
-*Released on 2019-09-15, vote average 6*
-
-When a guest at the college book festival is killed, Amy and Travis clash after he arrests an unlikely person for murder. Amy must fight to prove he&#39;s got the wrong person behind bars. Starring Jill Wagner and Kristoffer Polaha.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Q_Dfo4P4tfQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -213,7 +196,7 @@ When a guest at the college book festival is killed, Amy and Travis clash after 
 	
 
 ### Can You Keep a Secret?
-*Released on 2019-09-13, vote average 6.3*
+*Released on 2019-09-13, vote average 6.2*
 
 Emma Corrigan, a girl with a few secrets on a turbulent plane ride, thinks she’s about to die, Emma spills them all to the handsome stranger sitting next to her. At least, she thought he was a stranger. But then, her company’s young and elusive CEO, arrives at the office. It’s him. And he knows every single humiliating detail about Emma.
 
@@ -232,11 +215,40 @@ Emma Corrigan, a girl with a few secrets on a turbulent plane ride, thinks she�
 
 
 	
+	
+	
 
   
 
 
 	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Goldfinch
+*Released on 2019-09-13, vote average 6.6*
+
+A boy in New York is taken in by a wealthy family after his mother is killed in a bombing at the Metropolitan Museum of Art. In a rush of panic, he steals &#39;The Goldfinch&#39;, a painting that eventually draws him into a world of crime.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IcG06hZooHM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -247,7 +259,7 @@ Emma Corrigan, a girl with a few secrets on a turbulent plane ride, thinks she�
 	
 
 ### Haunt
-*Released on 2019-09-13, vote average 6.5*
+*Released on 2019-09-13, vote average 6.3*
 
 On Halloween, a group of friends encounter an &#34;extreme&#34; haunted house that promises to feed on their darkest fears. The night turns deadly as they come to the horrifying realization that some nightmares are real.
 
@@ -287,62 +299,35 @@ On Halloween, a group of friends encounter an &#34;extreme&#34; haunted house th
   
 
 
-	
-	
-
-### Lucky Day
-*Released on 2019-09-18, vote average 6.2*
-
-A newly released from prison safe cracker tries to keep his family together and also deal with a hitman seeking revenge for the death of his brother.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/sO4AkrBC0BM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
 
 	
+
 	
 
-### Inside Man: Most Wanted
-*Released on 2019-09-24, vote average 6*
+	
 
-An NYPD hostage negotiator teams up with a federal agent to rescue dozens of tourists held hostage during a 10-hour seige at the U.S. Federal Reserve.
+	
+
+	
+	
+
+### 3 from Hell
+*Released on 2019-09-16, vote average 10*
+
+After barely surviving a furious shootout with the police, Baby Firefly, Otis Driftwood and Captain Spaulding are behind bars. But pure evil cannot be contained. Teaming up with Otis’ half-brother Wilson, the demented Firefly clan escape to unleash a whole new wave of murder, madness and mayhem.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/tlg4BQqhn3I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/aQxaGpJNfyA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
 	
 
 	
