@@ -47,7 +47,7 @@ When his housekeeper’s granddaughter is kidnapped, Rambo crosses the U.S.-Mexi
 	
 
 ### Hustlers
-*Released on 2019-09-13, vote average 6.3*
+*Released on 2019-09-13, vote average 6.4*
 
 A crew of savvy former strip club employees band together to turn the tables on their Wall Street clients.
 
@@ -69,7 +69,7 @@ A crew of savvy former strip club employees band together to turn the tables on 
 	
 
 ### Ad Astra
-*Released on 2019-09-20, vote average 6.2*
+*Released on 2019-09-20, vote average 6.1*
 
 An astronaut travels to the outer edges of the solar system to find his father and unravel a mystery that threatens the survival of our planet. He uncovers secrets which challenge the nature of human existence and our place in the cosmos.
 
@@ -78,6 +78,28 @@ An astronaut travels to the outer edges of the solar system to find his father a
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/P6AaSMfXHbA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Inside Man: Most Wanted
+*Released on 2019-09-24, vote average 3.5*
+
+An NYPD hostage negotiator teams up with a federal agent to rescue dozens of tourists held hostage during a 10-hour seige at the U.S. Federal Reserve.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/tlg4BQqhn3I?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -135,7 +157,7 @@ Jodi, the tallest girl in her high school, has always felt uncomfortable in her 
 	
 
 ### Abominable
-*Released on 2019-09-29, vote average 7.4*
+*Released on 2019-09-29, vote average 7.2*
 
 Trekking the 3000-mile journey from Shanghai to the Himalayan snowscapes, a group of misfits encounter a young Yeti named Everest, and they set off to reunite the magical creature with his family on the mountain of his namesake.
 
@@ -155,26 +177,6 @@ Trekking the 3000-mile journey from Shanghai to the Himalayan snowscapes, a grou
 
 	
 	
-
-### Inside Man: Most Wanted
-*Released on 2019-09-24, vote average 6*
-
-An NYPD hostage negotiator teams up with a federal agent to rescue dozens of tourists held hostage during a 10-hour seige at the U.S. Federal Reserve.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tlg4BQqhn3I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -312,6 +314,8 @@ On Halloween, a group of friends encounter an &#34;extreme&#34; haunted house th
 	
 
 	
+
+	
 	
 
 ### 3 from Hell
@@ -328,8 +332,6 @@ After barely surviving a furious shootout with the police, Baby Firefly, Otis Dr
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
