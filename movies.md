@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Rambo: Last Blood
-*Released on 2019-09-20, vote average 6.3*
+*Released on 2019-09-20, vote average 6.4*
 
 When his housekeeper’s granddaughter is kidnapped, Rambo crosses the U.S.-Mexican border to bring her home but finds himself up against the full might of one of Mexico’s most ruthless cartels.
 
@@ -46,30 +46,8 @@ When his housekeeper’s granddaughter is kidnapped, Rambo crosses the U.S.-Mexi
 	
 	
 
-### Hustlers
-*Released on 2019-09-13, vote average 6.4*
-
-A crew of savvy former strip club employees band together to turn the tables on their Wall Street clients.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/P_dfc0iqmig?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Ad Astra
-*Released on 2019-09-20, vote average 6.1*
+*Released on 2019-09-20, vote average 6.2*
 
 An astronaut travels to the outer edges of the solar system to find his father and unravel a mystery that threatens the survival of our planet. He uncovers secrets which challenge the nature of human existence and our place in the cosmos.
 
@@ -91,7 +69,7 @@ An astronaut travels to the outer edges of the solar system to find his father a
 	
 
 ### Inside Man: Most Wanted
-*Released on 2019-09-24, vote average 3.5*
+*Released on 2019-09-24, vote average 2.7*
 
 An NYPD hostage negotiator teams up with a federal agent to rescue dozens of tourists held hostage during a 10-hour seige at the U.S. Federal Reserve.
 
@@ -112,16 +90,16 @@ An NYPD hostage negotiator teams up with a federal agent to rescue dozens of tou
 	
 	
 
-### Downton Abbey
-*Released on 2019-09-20, vote average 7.2*
+### Abominable
+*Released on 2019-09-29, vote average 7.5*
 
-The beloved Crawleys and their intrepid staff prepare for the most important moment of their lives. A royal visit from the King and Queen of England will unleash scandal, romance and intrigue that will leave the future of Downton hanging in the balance.
+Trekking the 3000-mile journey from Shanghai to the Himalayan snowscapes, a group of misfits encounter a young Yeti named Everest, and they set off to reunite the magical creature with his family on the mountain of his namesake.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/TYnITeDfaA4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Ap0NRJD-2ts?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -156,16 +134,16 @@ Jodi, the tallest girl in her high school, has always felt uncomfortable in her 
 	
 	
 
-### Abominable
-*Released on 2019-09-29, vote average 7.2*
+### Between Two Ferns: The Movie
+*Released on 2019-09-20, vote average 6.2*
 
-Trekking the 3000-mile journey from Shanghai to the Himalayan snowscapes, a group of misfits encounter a young Yeti named Everest, and they set off to reunite the magical creature with his family on the mountain of his namesake.
+Galifianakis dreamed of becoming a star. But when Will Ferrell discovered his public access TV show, &#39;Between Two Ferns&#39; and uploaded it to Funny or Die, Zach became a viral laughing stock. Now Zach and his crew are taking a road trip to complete a series of high-profile celebrity interviews and restore his reputation.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Ap0NRJD-2ts?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/OjljgkCQv5c?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -176,6 +154,26 @@ Trekking the 3000-mile journey from Shanghai to the Himalayan snowscapes, a grou
 
 
 	
+
+  
+
+
+	
+	
+
+### 3 from Hell
+*Released on 2019-09-16, vote average 10*
+
+After barely surviving a furious shootout with the police, Baby Firefly, Otis Driftwood and Captain Spaulding are behind bars. But pure evil cannot be contained. Teaming up with Otis’ half-brother Wilson, the demented Firefly clan escape to unleash a whole new wave of murder, madness and mayhem.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/aQxaGpJNfyA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -188,7 +186,10 @@ Trekking the 3000-mile journey from Shanghai to the Himalayan snowscapes, a grou
 
 
 	
-	
+
+  
+
+
 	
 
   
@@ -217,63 +218,10 @@ Emma Corrigan, a girl with a few secrets on a turbulent plane ride, thinks she�
 
 
 	
-	
-	
 
   
 
 
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Goldfinch
-*Released on 2019-09-13, vote average 6.6*
-
-A boy in New York is taken in by a wealthy family after his mother is killed in a bombing at the Metropolitan Museum of Art. In a rush of panic, he steals &#39;The Goldfinch&#39;, a painting that eventually draws him into a world of crime.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IcG06hZooHM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Haunt
-*Released on 2019-09-13, vote average 6.3*
-
-On Halloween, a group of friends encounter an &#34;extreme&#34; haunted house that promises to feed on their darkest fears. The night turns deadly as they come to the horrifying realization that some nightmares are real.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/G8wJopQ59qg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -291,6 +239,18 @@ On Halloween, a group of friends encounter an &#34;extreme&#34; haunted house th
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -304,14 +264,6 @@ On Halloween, a group of friends encounter an &#34;extreme&#34; haunted house th
 
 ## Opening soon
 
-
-	
-
-	
-
-	
-
-	
 
 	
 
@@ -332,6 +284,14 @@ After barely surviving a furious shootout with the police, Baby Firefly, Otis Dr
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
 	
 
 	
