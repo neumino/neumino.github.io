@@ -68,6 +68,28 @@ An astronaut travels to the outer edges of the solar system to find his father a
 	
 	
 
+### Abominable
+*Released on 2019-09-27, vote average 7.6*
+
+Trekking the 3000-mile journey from Shanghai to the Himalayan snowscapes, a group of misfits encounter a young Yeti named Everest, and they set off to reunite the magical creature with his family on the mountain of his namesake.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Ap0NRJD-2ts?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Inside Man: Most Wanted
 *Released on 2019-09-24, vote average 2.7*
 
@@ -90,38 +112,16 @@ An NYPD hostage negotiator teams up with a federal agent to rescue dozens of tou
 	
 	
 
-### Abominable
-*Released on 2019-09-29, vote average 7.5*
+### 3 from Hell
+*Released on 2019-09-16, vote average 5.5*
 
-Trekking the 3000-mile journey from Shanghai to the Himalayan snowscapes, a group of misfits encounter a young Yeti named Everest, and they set off to reunite the magical creature with his family on the mountain of his namesake.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Ap0NRJD-2ts?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Tall Girl
-*Released on 2019-09-13, vote average 6.4*
-
-Jodi, the tallest girl in her high school, has always felt uncomfortable in her own skin. But after years of slouching, being made fun of, and avoiding attention at all costs, Jodi finally decides to find the confidence to stand tall.
+After barely surviving a furious shootout with the police, Baby Firefly, Otis Driftwood and Captain Spaulding are behind bars. But pure evil cannot be contained. Teaming up with Otis’ half-brother Wilson, the demented Firefly clan escape to unleash a whole new wave of murder, madness and mayhem.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/NfpXeLVzJIw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/aQxaGpJNfyA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -135,7 +135,7 @@ Jodi, the tallest girl in her high school, has always felt uncomfortable in her 
 	
 
 ### Between Two Ferns: The Movie
-*Released on 2019-09-20, vote average 6.2*
+*Released on 2019-09-20, vote average 6.3*
 
 Galifianakis dreamed of becoming a star. But when Will Ferrell discovered his public access TV show, &#39;Between Two Ferns&#39; and uploaded it to Funny or Die, Zach became a viral laughing stock. Now Zach and his crew are taking a road trip to complete a series of high-profile celebrity interviews and restore his reputation.
 
@@ -159,23 +159,6 @@ Galifianakis dreamed of becoming a star. But when Will Ferrell discovered his pu
 
 
 	
-	
-
-### 3 from Hell
-*Released on 2019-09-16, vote average 10*
-
-After barely surviving a furious shootout with the police, Baby Firefly, Otis Driftwood and Captain Spaulding are behind bars. But pure evil cannot be contained. Teaming up with Otis’ half-brother Wilson, the demented Firefly clan escape to unleash a whole new wave of murder, madness and mayhem.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/aQxaGpJNfyA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -190,28 +173,6 @@ After barely surviving a furious shootout with the police, Baby Firefly, Otis Dr
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Can You Keep a Secret?
-*Released on 2019-09-13, vote average 6.2*
-
-Emma Corrigan, a girl with a few secrets on a turbulent plane ride, thinks she’s about to die, Emma spills them all to the handsome stranger sitting next to her. At least, she thought he was a stranger. But then, her company’s young and elusive CEO, arrives at the office. It’s him. And he knows every single humiliating detail about Emma.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3IM1vSNJw3Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -256,6 +217,13 @@ Emma Corrigan, a girl with a few secrets on a turbulent plane ride, thinks she�
   
 
 
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -266,20 +234,39 @@ Emma Corrigan, a girl with a few secrets on a turbulent plane ride, thinks she�
 
 
 	
-
-	
 	
 
-### 3 from Hell
-*Released on 2019-09-16, vote average 10*
+### Joker
+*Released on 2019-10-04, vote average 9.5*
 
-After barely surviving a furious shootout with the police, Baby Firefly, Otis Driftwood and Captain Spaulding are behind bars. But pure evil cannot be contained. Teaming up with Otis’ half-brother Wilson, the demented Firefly clan escape to unleash a whole new wave of murder, madness and mayhem.
+During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/aQxaGpJNfyA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/t433PEQGErc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+	
+
+### Doom: Annihilation
+*Released on 2019-10-01, vote average 4*
+
+Doom: Annihilation follows a group of space marines as they respond to a distress call from a base on a Martian moon, only to discover it’s been overrun by demonic creatures who threaten to create Hell on Earth.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/bkhXSLmRbiE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -291,7 +278,22 @@ After barely surviving a furious shootout with the police, Baby Firefly, Otis Dr
 	
 
 	
+	
 
+### 10 Minutes Gone
+*Released on 2019-09-30, vote average 5*
+
+A crime thriller that centers on a man whose memory has been lost due to a bank heist gone wrong. The character will need to piece together the missing 10 minutes from his memory in order to determine who sabotaged him.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6TNFcyEN-3w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
