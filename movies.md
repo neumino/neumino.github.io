@@ -13,9 +13,9 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Rambo: Last Blood
-*Released on 2019-09-20, vote average 6.4*
+*Released on 2019-09-20, vote average 6.3*
 
-When his housekeeper’s granddaughter is kidnapped, Rambo crosses the U.S.-Mexican border to bring her home but finds himself up against the full might of one of Mexico’s most ruthless cartels.
+When John Rambo&#39;s niece travels to Mexico to find the father that abandoned her and her mother, she finds herself in the grasps of Calle Mexican sex traffickers. When she doesn&#39;t return home as expected, John learns she&#39;s crossed into Mexico and sets out to get her back and make them pay.
 
 <iframe id="player"
 	type="text/html"
@@ -68,8 +68,30 @@ An astronaut travels to the outer edges of the solar system to find his father a
 	
 	
 
+### In the Shadow of the Moon
+*Released on 2019-09-21, vote average 6.5*
+
+In 1988, Philadelphia police officer Thomas &#34;Locke&#34; Lockhart, hungry to become a detective, begins tracking a serial killer whose crimes defy scientific explanation. When the killer mysteriously resurfaces nine years later, Locke&#39;s obsession with finding the truth threatens to destroy his career, his family, and possibly his sanity.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/lJ3_biTbeRM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Abominable
-*Released on 2019-09-27, vote average 7.6*
+*Released on 2019-09-27, vote average 7.3*
 
 Trekking the 3000-mile journey from Shanghai to the Himalayan snowscapes, a group of misfits encounter a young Yeti named Everest, and they set off to reunite the magical creature with his family on the mountain of his namesake.
 
@@ -113,7 +135,7 @@ An NYPD hostage negotiator teams up with a federal agent to rescue dozens of tou
 	
 
 ### 3 from Hell
-*Released on 2019-09-16, vote average 5.5*
+*Released on 2019-09-16, vote average 6.5*
 
 After barely surviving a furious shootout with the police, Baby Firefly, Otis Driftwood and Captain Spaulding are behind bars. But pure evil cannot be contained. Teaming up with Otis’ half-brother Wilson, the demented Firefly clan escape to unleash a whole new wave of murder, madness and mayhem.
 
@@ -169,6 +191,30 @@ Galifianakis dreamed of becoming a star. But when Will Ferrell discovered his pu
 
 
 	
+	
+
+### A Shaun the Sheep Movie: Farmageddon
+*Released on 2019-09-26, vote average 10*
+
+The follow-up to the hugely-successful and Oscar-nominated 2015 film.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/YlYN4UjMXA0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
 
   
 
@@ -212,17 +258,20 @@ Galifianakis dreamed of becoming a star. But when Will Ferrell discovered his pu
 
 	
 	
-	
 
-  
+### Bloodline
+*Released on 2019-09-20, vote average 5.7*
 
+Evan values family above all else, and anyone who gets between him, his wife, and newborn son learns that the hard way. But when it comes to violent tendencies, it seems the apple doesn’t fall far from the tree.
 
-	
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/cvxlMNI_lpk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
-  
-
-
-	
 	
 	
 
@@ -237,7 +286,7 @@ Galifianakis dreamed of becoming a star. But when Will Ferrell discovered his pu
 	
 
 ### Joker
-*Released on 2019-10-04, vote average 9.5*
+*Released on 2019-10-04, vote average 5.4*
 
 During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.
 
@@ -253,12 +302,10 @@ During the 1980s, a failed stand-up comedian is driven insane and turns to a lif
 	
 
 	
-
-	
 	
 
 ### Doom: Annihilation
-*Released on 2019-10-01, vote average 4*
+*Released on 2019-10-01, vote average 4.1*
 
 Doom: Annihilation follows a group of space marines as they respond to a distress call from a base on a Martian moon, only to discover it’s been overrun by demonic creatures who threaten to create Hell on Earth.
 
@@ -276,14 +323,12 @@ Doom: Annihilation follows a group of space marines as they respond to a distres
 	
 
 	
-
-	
 	
 
 ### 10 Minutes Gone
 *Released on 2019-09-30, vote average 5*
 
-A crime thriller that centers on a man whose memory has been lost due to a bank heist gone wrong. The character will need to piece together the missing 10 minutes from his memory in order to determine who sabotaged him.
+When a man loses his memory after a bank heist goes wrong, he attempts to piece together the missing 10 minutes from his memory to determine who sabotaged him.
 
 <iframe id="player"
 	type="text/html"
@@ -294,6 +339,10 @@ A crime thriller that centers on a man whose memory has been lost due to a bank 
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
 	
 
 	
