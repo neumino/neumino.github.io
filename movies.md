@@ -69,7 +69,7 @@ An astronaut travels to the outer edges of the solar system to find his father a
 	
 
 ### In the Shadow of the Moon
-*Released on 2019-09-21, vote average 6.3*
+*Released on 2019-09-21, vote average 6*
 
 In 1988, Philadelphia police officer Thomas &#34;Locke&#34; Lockhart, hungry to become a detective, begins tracking a serial killer whose crimes defy scientific explanation. When the killer mysteriously resurfaces nine years later, Locke&#39;s obsession with finding the truth threatens to destroy his career, his family, and possibly his sanity.
 
@@ -113,7 +113,7 @@ Trekking the 3000-mile journey from Shanghai to the Himalayan snowscapes, a grou
 	
 
 ### Doom: Annihilation
-*Released on 2019-10-01, vote average 4*
+*Released on 2019-10-01, vote average 4.1*
 
 Doom: Annihilation follows a group of space marines as they respond to a distress call from a base on a Martian moon, only to discover it’s been overrun by demonic creatures who threaten to create Hell on Earth.
 
@@ -178,6 +178,28 @@ After barely surviving a furious shootout with the police, Baby Firefly, Otis Dr
 	
 	
 
+### 10 Minutes Gone
+*Released on 2019-09-30, vote average 5.8*
+
+When a man loses his memory after a bank heist goes wrong, he attempts to piece together the missing 10 minutes from his memory to determine who sabotaged him.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6TNFcyEN-3w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Between Two Ferns: The Movie
 *Released on 2019-09-20, vote average 6.3*
 
@@ -201,7 +223,7 @@ Galifianakis dreamed of becoming a star. But when Will Ferrell discovered his pu
 	
 
 ### Sturgill Simpson Presents Sound &amp; Fury
-*Released on 2019-09-27, vote average 7*
+*Released on 2019-09-27, vote average 6.3*
 
 In this anime visual album, a mysterious driver heads deep into a postapocalyptic hellscape toward a ferocious showdown with two monstrous opponents.
 
@@ -247,40 +269,6 @@ A dramatization of the events at Jangsari on September 15, 1950.
 
 
 	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 
   
 
@@ -288,16 +276,16 @@ A dramatization of the events at Jangsari on September 15, 1950.
 	
 	
 
-### Bloodline
-*Released on 2019-09-20, vote average 5.7*
+### Judy
+*Released on 2019-09-27, vote average 5*
 
-Evan values family above all else, and anyone who gets between him, his wife, and newborn son learns that the hard way. But when it comes to violent tendencies, it seems the apple doesn’t fall far from the tree.
+Legendary performer Judy Garland arrives in London in the winter of 1968 to perform a series of sold-out concerts.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/cvxlMNI_lpk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/QPgWnMXRv5o?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -307,6 +295,52 @@ Evan values family above all else, and anyone who gets between him, his wife, an
   
 
 
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Transparent: Musicale Finale
+*Released on 2019-09-27, vote average 6*
+
+When the Pfeffermans face a life-changing loss, they begin a journey hilarious and melancholy, brazen and bold. As they face this new transition, they confront grief and come together to celebrate connection, joy, and transformation.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/c4-io9Wqmds?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -320,7 +354,7 @@ Evan values family above all else, and anyone who gets between him, his wife, an
 	
 
 ### Joker
-*Released on 2019-10-04, vote average 6.3*
+*Released on 2019-10-04, vote average 6.4*
 
 During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.
 
@@ -338,27 +372,8 @@ During the 1980s, a failed stand-up comedian is driven insane and turns to a lif
 	
 	
 
-### Doom: Annihilation
-*Released on 2019-10-01, vote average 4*
-
-Doom: Annihilation follows a group of space marines as they respond to a distress call from a base on a Martian moon, only to discover it’s been overrun by demonic creatures who threaten to create Hell on Earth.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/bkhXSLmRbiE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
 ### Gemini Man
-*Released on 2019-10-11, vote average 3*
+*Released on 2019-10-11, vote average 3.2*
 
 Henry Brogen, an aging assassin tries to get out of the business but finds himself in the ultimate battle: fighting his own clone who is 25 years younger than him and at the peak of his abilities.
 
@@ -376,16 +391,16 @@ Henry Brogen, an aging assassin tries to get out of the business but finds himse
 	
 	
 
-### 10 Minutes Gone
-*Released on 2019-09-30, vote average 5*
+### Sye Raa Narasimha Reddy
+*Released on 2019-10-02, vote average 3*
 
-When a man loses his memory after a bank heist goes wrong, he attempts to piece together the missing 10 minutes from his memory to determine who sabotaged him.
+Sye Raa Narasimha Reddy is a biographical action epic based on the life of the eponymous freedom fighter.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/6TNFcyEN-3w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/s_d9u24cFZM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -420,6 +435,10 @@ When a man loses his memory after a bank heist goes wrong, he attempts to piece 
 
 	
 
+	
+
+	
+	
 	
 
 	
