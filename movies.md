@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Rambo: Last Blood
-*Released on 2019-09-20, vote average 6.2*
+*Released on 2019-09-20, vote average 6.3*
 
 When John Rambo&#39;s niece travels to Mexico to find the father that abandoned her and her mother, she finds herself in the grasps of Calle Mexican sex traffickers. When she doesn&#39;t return home as expected, John learns she&#39;s crossed into Mexico and sets out to get her back and make them pay.
 
@@ -46,16 +46,16 @@ When John Rambo&#39;s niece travels to Mexico to find the father that abandoned 
 	
 	
 
-### Ad Astra
-*Released on 2019-09-20, vote average 6.2*
+### Joker
+*Released on 2019-10-04, vote average 6.6*
 
-An astronaut travels to the outer edges of the solar system to find his father and unravel a mystery that threatens the survival of our planet. He uncovers secrets which challenge the nature of human existence and our place in the cosmos.
+During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/P6AaSMfXHbA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/t433PEQGErc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -91,7 +91,7 @@ In 1988, Philadelphia police officer Thomas &#34;Locke&#34; Lockhart, hungry to 
 	
 
 ### Abominable
-*Released on 2019-09-27, vote average 7.4*
+*Released on 2019-09-27, vote average 7.5*
 
 Trekking the 3000-mile journey from Shanghai to the Himalayan snowscapes, a group of misfits encounter a young Yeti named Everest, and they set off to reunite the magical creature with his family on the mountain of his namesake.
 
@@ -122,6 +122,28 @@ Doom: Annihilation follows a group of space marines as they respond to a distres
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/bkhXSLmRbiE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Gemini Man
+*Released on 2019-10-11, vote average 2.8*
+
+Henry Brogen, an aging assassin tries to get out of the business but finds himself in the ultimate battle: fighting his own clone who is 25 years younger than him and at the peak of his abilities.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/AbyJignbSj0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -201,7 +223,7 @@ When a man loses his memory after a bank heist goes wrong, he attempts to piece 
 	
 
 ### Between Two Ferns: The Movie
-*Released on 2019-09-20, vote average 6.3*
+*Released on 2019-09-20, vote average 6.2*
 
 Galifianakis dreamed of becoming a star. But when Will Ferrell discovered his public access TV show, &#39;Between Two Ferns&#39; and uploaded it to Funny or Die, Zach became a viral laughing stock. Now Zach and his crew are taking a road trip to complete a series of high-profile celebrity interviews and restore his reputation.
 
@@ -277,7 +299,7 @@ A dramatization of the events at Jangsari on September 15, 1950.
 	
 
 ### Judy
-*Released on 2019-09-27, vote average 5*
+*Released on 2019-09-27, vote average 6*
 
 Legendary performer Judy Garland arrives in London in the winter of 1968 to perform a series of sold-out concerts.
 
@@ -318,30 +340,6 @@ Legendary performer Judy Garland arrives in London in the winter of 1968 to perf
 
 
 	
-	
-
-### Transparent: Musicale Finale
-*Released on 2019-09-27, vote average 6*
-
-When the Pfeffermans face a life-changing loss, they begin a journey hilarious and melancholy, brazen and bold. As they face this new transition, they confront grief and come together to celebrate connection, joy, and transformation.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/c4-io9Wqmds?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
 
   
 
@@ -354,7 +352,7 @@ When the Pfeffermans face a life-changing loss, they begin a journey hilarious a
 	
 
 ### Joker
-*Released on 2019-10-04, vote average 6.4*
+*Released on 2019-10-04, vote average 6.6*
 
 During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.
 
@@ -373,7 +371,7 @@ During the 1980s, a failed stand-up comedian is driven insane and turns to a lif
 	
 
 ### Gemini Man
-*Released on 2019-10-11, vote average 3.2*
+*Released on 2019-10-11, vote average 2.8*
 
 Henry Brogen, an aging assassin tries to get out of the business but finds himself in the ultimate battle: fighting his own clone who is 25 years younger than him and at the peak of his abilities.
 
@@ -394,7 +392,7 @@ Henry Brogen, an aging assassin tries to get out of the business but finds himse
 ### Sye Raa Narasimha Reddy
 *Released on 2019-10-02, vote average 3*
 
-Sye Raa Narasimha Reddy is a biographical action epic based on the life of the eponymous freedom fighter.
+Sye Raa Narasimha Reddy is an action epic inspired by the life of the eponymous freedom fighter.
 
 <iframe id="player"
 	type="text/html"
@@ -437,8 +435,6 @@ Sye Raa Narasimha Reddy is a biographical action epic based on the life of the e
 
 	
 
-	
-	
 	
 
 	
