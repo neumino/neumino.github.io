@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Rambo: Last Blood
-*Released on 2019-09-20, vote average 6.2*
+### Joker
+*Released on 2019-10-04, vote average 7.7*
 
-When John Rambo&#39;s niece travels to Mexico to find the father that abandoned her and her mother, she finds herself in the grasps of Calle Mexican sex traffickers. When she doesn&#39;t return home as expected, John learns she&#39;s crossed into Mexico and sets out to get her back and make them pay.
+During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/4vWg5yJuWfs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/t433PEQGErc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -40,28 +40,6 @@ When John Rambo&#39;s niece travels to Mexico to find the father that abandoned 
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-
-
-	
-	
-
-### Joker
-*Released on 2019-10-04, vote average 6.7*
-
-During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/t433PEQGErc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
   
 
 
@@ -91,7 +69,7 @@ In 1988, Philadelphia police officer Thomas &#34;Locke&#34; Lockhart, hungry to 
 	
 
 ### Gemini Man
-*Released on 2019-10-11, vote average 3.6*
+*Released on 2019-10-11, vote average 4.9*
 
 Henry Brogen, an aging assassin tries to get out of the business but finds himself in the ultimate battle: fighting his own clone who is 25 years younger than him and at the peak of his abilities.
 
@@ -112,30 +90,8 @@ Henry Brogen, an aging assassin tries to get out of the business but finds himse
 	
 	
 
-### Abominable
-*Released on 2019-09-27, vote average 7.5*
-
-Trekking the 3000-mile journey from Shanghai to the Himalayan snowscapes, a group of misfits encounter a young Yeti named Everest, and they set off to reunite the magical creature with his family on the mountain of his namesake.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Ap0NRJD-2ts?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Doom: Annihilation
-*Released on 2019-10-01, vote average 4*
+*Released on 2019-10-01, vote average 4.2*
 
 Doom: Annihilation follows a group of space marines as they respond to a distress call from a base on a Martian moon, only to discover it’s been overrun by demonic creatures who threaten to create Hell on Earth.
 
@@ -157,7 +113,7 @@ Doom: Annihilation follows a group of space marines as they respond to a distres
 	
 
 ### 10 Minutes Gone
-*Released on 2019-09-30, vote average 5.8*
+*Released on 2019-09-30, vote average 6.6*
 
 When a man loses his memory after a bank heist goes wrong, he attempts to piece together the missing 10 minutes from his memory to determine who sabotaged him.
 
@@ -166,6 +122,77 @@ When a man loses his memory after a bank heist goes wrong, he attempts to piece 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/6TNFcyEN-3w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Sye Raa Narasimha Reddy
+*Released on 2019-10-02, vote average 3*
+
+A biographical action epic based on the life of Uyyalawada Narasimha Reddy, who revolted against the atrocities of East India Company 10 years before the Sepoy Mutiny.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/s_d9u24cFZM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The King
+*Released on 2019-10-11, vote average 9.5*
+
+Hal, wayward prince and heir to the English throne, is crowned King Henry V after his tyrannical father dies. Now the young king must navigate palace politics, the war his father left behind, and the emotional strings of his past life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/yMJnsTx-TBg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### War
+*Released on 2019-10-02, vote average 10*
+
+WAR is set to be a visual spectacle for quintessential action cinema lovers as they would witness Hrithik and Tiger pull off jaw-dropping sequences as they try to beat each other. Director Siddharth Anand says, “When you bring two of the biggest and the best action superstars of India in one film and pit them against each other, you need a title that justifies the promise of a massive showdown. Hrithik and Tiger will be seen going at each other ferociously and mercilessly and audiences will want to see who outwits whom in this incredible fight. WAR is the only title that could have delivered on this big promise and justifies the level of an action spectacle that the film is trying to present to audiences globally.”
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/tQ0mzXRk-oM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -201,7 +228,7 @@ Galifianakis dreamed of becoming a star. But when Will Ferrell discovered his pu
 	
 
 ### Sturgill Simpson Presents Sound &amp; Fury
-*Released on 2019-09-27, vote average 6.4*
+*Released on 2019-09-27, vote average 6.3*
 
 In this anime visual album, a mysterious driver heads deep into a postapocalyptic hellscape toward a ferocious showdown with two monstrous opponents.
 
@@ -222,25 +249,20 @@ In this anime visual album, a mysterious driver heads deep into a postapocalypti
 	
 	
 
-### Sye Raa Narasimha Reddy
-*Released on 2019-10-02, vote average 3*
+### The Captain
+*Released on 2019-09-30, vote average 2*
 
-A biographical action epic based on the life of Uyyalawada Narasimha Reddy, who revolted against the atrocities of East India Company 10 years before the Sepoy Mutiny.
+Based on the true story of a pilot who had to ensure the safety of 128 passengers and crew members on the plane when its windshield became damaged mid-flight. The incident is regarded as one of the miracles in aviation history.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/s_d9u24cFZM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/UzGgZQxl80A?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -281,10 +303,14 @@ Legendary performer Judy Garland arrives in London in the winter of 1968 to perf
 
 
 	
+	
+	
 
   
 
 
+	
+	
 	
 
   
@@ -307,11 +333,6 @@ Mob, Reigen, Dimple, and the newest member of the Spirits and Such Consultation 
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
