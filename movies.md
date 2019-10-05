@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Joker
-*Released on 2019-10-04, vote average 7.7*
+*Released on 2019-10-04, vote average 8.5*
 
 During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.
 
@@ -69,7 +69,7 @@ In 1988, Philadelphia police officer Thomas &#34;Locke&#34; Lockhart, hungry to 
 	
 
 ### Gemini Man
-*Released on 2019-10-11, vote average 4.9*
+*Released on 2019-10-11, vote average 5.9*
 
 Henry Brogen, an aging assassin tries to get out of the business but finds himself in the ultimate battle: fighting his own clone who is 25 years younger than him and at the peak of his abilities.
 
@@ -112,32 +112,10 @@ Doom: Annihilation follows a group of space marines as they respond to a distres
 	
 	
 
-### 10 Minutes Gone
-*Released on 2019-09-30, vote average 6.6*
-
-When a man loses his memory after a bank heist goes wrong, he attempts to piece together the missing 10 minutes from his memory to determine who sabotaged him.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/6TNFcyEN-3w?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Sye Raa Narasimha Reddy
-*Released on 2019-10-02, vote average 3*
+*Released on 2019-10-02, vote average 6.5*
 
-A biographical action epic based on the life of Uyyalawada Narasimha Reddy, who revolted against the atrocities of East India Company 10 years before the Sepoy Mutiny.
+A historical action epic inspired by the life of Uyyalawada Narasimha Reddy, who revolted against the atrocities of East India Company 10 years before the Sepoy Mutiny.
 
 <iframe id="player"
 	type="text/html"
@@ -148,6 +126,11 @@ A biographical action epic based on the life of Uyyalawada Narasimha Reddy, who 
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -184,7 +167,7 @@ Hal, wayward prince and heir to the English throne, is crowned King Henry V afte
 	
 
 ### War
-*Released on 2019-10-02, vote average 10*
+*Released on 2019-10-02, vote average 7.8*
 
 WAR is set to be a visual spectacle for quintessential action cinema lovers as they would witness Hrithik and Tiger pull off jaw-dropping sequences as they try to beat each other. Director Siddharth Anand says, “When you bring two of the biggest and the best action superstars of India in one film and pit them against each other, you need a title that justifies the promise of a massive showdown. Hrithik and Tiger will be seen going at each other ferociously and mercilessly and audiences will want to see who outwits whom in this incredible fight. WAR is the only title that could have delivered on this big promise and justifies the level of an action spectacle that the film is trying to present to audiences globally.”
 
@@ -193,28 +176,6 @@ WAR is set to be a visual spectacle for quintessential action cinema lovers as t
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/tQ0mzXRk-oM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Between Two Ferns: The Movie
-*Released on 2019-09-20, vote average 6.2*
-
-Galifianakis dreamed of becoming a star. But when Will Ferrell discovered his public access TV show, &#39;Between Two Ferns&#39; and uploaded it to Funny or Die, Zach became a viral laughing stock. Now Zach and his crew are taking a road trip to complete a series of high-profile celebrity interviews and restore his reputation.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/OjljgkCQv5c?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -247,6 +208,11 @@ In this anime visual album, a mysterious driver heads deep into a postapocalypti
 
 
 	
+
+  
+
+
+	
 	
 
 ### The Captain
@@ -269,6 +235,8 @@ Based on the true story of a pilot who had to ensure the safety of 128 passenger
 
 
 	
+	
+	
 
   
 
@@ -277,7 +245,7 @@ Based on the true story of a pilot who had to ensure the safety of 128 passenger
 	
 
 ### Judy
-*Released on 2019-09-27, vote average 6.4*
+*Released on 2019-09-27, vote average 6.7*
 
 Legendary performer Judy Garland arrives in London in the winter of 1968 to perform a series of sold-out concerts.
 
@@ -296,6 +264,43 @@ Legendary performer Judy Garland arrives in London in the winter of 1968 to perf
 
 
 	
+	
+
+### Semper Fi
+*Released on 2019-10-04, vote average 10*
+
+The story sees Courtney as Cal, a by-the-book police officer who makes ends meet as a Marine Corps reservist along with his rowdy and inseparable group of childhood friends. When Cal&#39;s younger, reckless half-brother Oyster (Wolff) accidentally kills a guy in a bar fight and tries to flee, Cal forces him to face the music. After an unfair sentence, Oyster fights for survival in a dangerous Pennsylvania prison system while Cal and his friends are deployed to fight the lethal insurgency in Iraq. Overseas, Cal&#39;s world is shaken, and after he barely makes it home alive, he resolves to break Oyster out of prison - no matter the cost.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FPDuMvbcoLA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### 10 Minutes Gone
+*Released on 2019-09-30, vote average 6.6*
+
+When a man loses his memory after a bank heist goes wrong, he attempts to piece together the missing 10 minutes from his memory to determine who sabotaged him.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6TNFcyEN-3w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -333,11 +338,6 @@ Mob, Reigen, Dimple, and the newest member of the Spirits and Such Consultation 
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
