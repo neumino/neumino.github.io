@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Joker
-*Released on 2019-10-04, vote average 8.5*
+*Released on 2019-10-04, vote average 8.8*
 
 During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.
 
@@ -46,16 +46,16 @@ During the 1980s, a failed stand-up comedian is driven insane and turns to a lif
 	
 	
 
-### In the Shadow of the Moon
-*Released on 2019-09-21, vote average 6.1*
+### Gemini Man
+*Released on 2019-10-11, vote average 6*
 
-In 1988, Philadelphia police officer Thomas &#34;Locke&#34; Lockhart, hungry to become a detective, begins tracking a serial killer whose crimes defy scientific explanation. When the killer mysteriously resurfaces nine years later, Locke&#39;s obsession with finding the truth threatens to destroy his career, his family, and possibly his sanity.
+Henry Brogen, an aging assassin tries to get out of the business but finds himself in the ultimate battle: fighting his own clone who is 25 years younger than him and at the peak of his abilities.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/lJ3_biTbeRM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/AbyJignbSj0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,16 +68,16 @@ In 1988, Philadelphia police officer Thomas &#34;Locke&#34; Lockhart, hungry to 
 	
 	
 
-### Gemini Man
-*Released on 2019-10-11, vote average 5.9*
+### In the Shadow of the Moon
+*Released on 2019-09-21, vote average 6.2*
 
-Henry Brogen, an aging assassin tries to get out of the business but finds himself in the ultimate battle: fighting his own clone who is 25 years younger than him and at the peak of his abilities.
+In 1988, Philadelphia police officer Thomas &#34;Locke&#34; Lockhart, hungry to become a detective, begins tracking a serial killer whose crimes defy scientific explanation. When the killer mysteriously resurfaces nine years later, Locke&#39;s obsession with finding the truth threatens to destroy his career, his family, and possibly his sanity.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/AbyJignbSj0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/lJ3_biTbeRM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -110,21 +110,55 @@ Doom: Annihilation follows a group of space marines as they respond to a distres
 
 
 	
+
+  
+
+
 	
 
-### Sye Raa Narasimha Reddy
-*Released on 2019-10-02, vote average 6.5*
+  
 
-A historical action epic inspired by the life of Uyyalawada Narasimha Reddy, who revolted against the atrocities of East India Company 10 years before the Sepoy Mutiny.
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Semper Fi
+*Released on 2019-10-04, vote average 10*
+
+The story sees Courtney as Cal, a by-the-book police officer who makes ends meet as a Marine Corps reservist along with his rowdy and inseparable group of childhood friends. When Cal&#39;s younger, reckless half-brother Oyster (Wolff) accidentally kills a guy in a bar fight and tries to flee, Cal forces him to face the music. After an unfair sentence, Oyster fights for survival in a dangerous Pennsylvania prison system while Cal and his friends are deployed to fight the lethal insurgency in Iraq. Overseas, Cal&#39;s world is shaken, and after he barely makes it home alive, he resolves to break Oyster out of prison - no matter the cost.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/s_d9u24cFZM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/FPDuMvbcoLA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 	
 
@@ -164,79 +198,6 @@ Hal, wayward prince and heir to the English throne, is crowned King Henry V afte
 
 
 	
-	
-
-### War
-*Released on 2019-10-02, vote average 7.8*
-
-WAR is set to be a visual spectacle for quintessential action cinema lovers as they would witness Hrithik and Tiger pull off jaw-dropping sequences as they try to beat each other. Director Siddharth Anand says, “When you bring two of the biggest and the best action superstars of India in one film and pit them against each other, you need a title that justifies the promise of a massive showdown. Hrithik and Tiger will be seen going at each other ferociously and mercilessly and audiences will want to see who outwits whom in this incredible fight. WAR is the only title that could have delivered on this big promise and justifies the level of an action spectacle that the film is trying to present to audiences globally.”
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tQ0mzXRk-oM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Sturgill Simpson Presents Sound &amp; Fury
-*Released on 2019-09-27, vote average 6.3*
-
-In this anime visual album, a mysterious driver heads deep into a postapocalyptic hellscape toward a ferocious showdown with two monstrous opponents.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/HvT0rzUo4zc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Captain
-*Released on 2019-09-30, vote average 2*
-
-Based on the true story of a pilot who had to ensure the safety of 128 passengers and crew members on the plane when its windshield became damaged mid-flight. The incident is regarded as one of the miracles in aviation history.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/UzGgZQxl80A?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
 
   
 
@@ -245,7 +206,7 @@ Based on the true story of a pilot who had to ensure the safety of 128 passenger
 	
 
 ### Judy
-*Released on 2019-09-27, vote average 6.7*
+*Released on 2019-09-27, vote average 6.9*
 
 Legendary performer Judy Garland arrives in London in the winter of 1968 to perform a series of sold-out concerts.
 
@@ -264,18 +225,28 @@ Legendary performer Judy Garland arrives in London in the winter of 1968 to perf
 
 
 	
+
+  
+
+
 	
 
-### Semper Fi
-*Released on 2019-10-04, vote average 10*
+  
 
-The story sees Courtney as Cal, a by-the-book police officer who makes ends meet as a Marine Corps reservist along with his rowdy and inseparable group of childhood friends. When Cal&#39;s younger, reckless half-brother Oyster (Wolff) accidentally kills a guy in a bar fight and tries to flee, Cal forces him to face the music. After an unfair sentence, Oyster fights for survival in a dangerous Pennsylvania prison system while Cal and his friends are deployed to fight the lethal insurgency in Iraq. Overseas, Cal&#39;s world is shaken, and after he barely makes it home alive, he resolves to break Oyster out of prison - no matter the cost.
+
+	
+	
+
+### Sorry We Missed You
+*Released on 2019-10-04, vote average 8*
+
+A story exploring the issue of hardship in modern-day Britain through a young couple scraping to get by in a casual jobs market.  A hard-up delivery driver and his carer wife are pushed to breaking point as they struggle to keep their family afloat in a world of zero-hour contracts and gig work.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/FPDuMvbcoLA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ysjwg-MnZao?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -285,81 +256,6 @@ The story sees Courtney as Cal, a by-the-book police officer who makes ends meet
   
 
 
-	
-	
-
-### 10 Minutes Gone
-*Released on 2019-09-30, vote average 6.6*
-
-When a man loses his memory after a bank heist goes wrong, he attempts to piece together the missing 10 minutes from his memory to determine who sabotaged him.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/6TNFcyEN-3w?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Mob Psycho 100 II: The First Spirits and Such Company Trip - A Journey that Mends the Heart and Heals the Soul
-*Released on 2019-09-25, vote average 5*
-
-Mob, Reigen, Dimple, and the newest member of the Spirits and Such Consultation Office staff, Serizawa, take a trip up to a secluded hot spring called Ibogami Hot Springs in Zebra Prefecture. Reigen happened to get a request from the matron there to discover the truth behind the strange rumors going around there and save the inn. Ritsu and Teru also join in on this trip and the six of them head out on this super relaxing trip to the hot spring. But on their way there, Reigen and Serizawa start nodding off on the train and somehow get sucked into an eerie parallel world.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/x2wIub86shk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Transparent: Musicale Finale
-*Released on 2019-09-27, vote average 6*
-
-When the Pfeffermans face a life-changing loss, they begin a journey hilarious and melancholy, brazen and bold. As they face this new transition, they confront grief and come together to celebrate connection, joy, and transformation.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/c4-io9Wqmds?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
