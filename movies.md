@@ -91,7 +91,7 @@ In 1988, Philadelphia police officer Thomas &#34;Locke&#34; Lockhart, hungry to 
 	
 
 ### Doom: Annihilation
-*Released on 2019-10-01, vote average 4.2*
+*Released on 2019-10-01, vote average 4*
 
 Doom: Annihilation follows a group of space marines as they respond to a distress call from a base on a Martian moon, only to discover it’s been overrun by demonic creatures who threaten to create Hell on Earth.
 
@@ -115,17 +115,26 @@ Doom: Annihilation follows a group of space marines as they respond to a distres
 
 
 	
-
-  
-
-
-	
 	
 	
 
   
 
 
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -160,38 +169,31 @@ The story sees Courtney as Cal, a by-the-book police officer who makes ends meet
 
 	
 	
-	
 
-  
+### 3 from Hell
+*Released on 2019-09-16, vote average 6.9*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The King
-*Released on 2019-10-11, vote average 9.5*
-
-Hal, wayward prince and heir to the English throne, is crowned King Henry V after his tyrannical father dies. Now the young king must navigate palace politics, the war his father left behind, and the emotional strings of his past life.
+After barely surviving a furious shootout with the police, Baby Firefly, Otis Driftwood and Captain Spaulding are behind bars. But pure evil cannot be contained. Teaming up with Otis’ half-brother Wilson, the demented Firefly clan escape to unleash a whole new wave of murder, madness and mayhem.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/yMJnsTx-TBg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/aQxaGpJNfyA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -275,6 +277,23 @@ A story exploring the issue of hardship in modern-day Britain through a young co
 
 	
 
+	
+	
+
+### The Day Shall Come
+*Released on 2019-10-11, vote average 7*
+
+An impoverished leader of a small religious commune in Miami, is offered cash to save his family from eviction. He has no idea his sponsor works for an FBI agent, who plans to turn him into a criminal by fueling his madcap revolutionary dreams.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/oqJyhh2PFBw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
