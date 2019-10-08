@@ -90,8 +90,30 @@ In 1988, Philadelphia police officer Thomas &#34;Locke&#34; Lockhart, hungry to 
 	
 	
 
+### 3 from Hell
+*Released on 2019-09-16, vote average 6.6*
+
+After barely surviving a furious shootout with the police, Baby Firefly, Otis Driftwood and Captain Spaulding are behind bars. But pure evil cannot be contained. Teaming up with Otis’ half-brother Wilson, the demented Firefly clan escape to unleash a whole new wave of murder, madness and mayhem.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/aQxaGpJNfyA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Doom: Annihilation
-*Released on 2019-10-01, vote average 4*
+*Released on 2019-10-01, vote average 4.2*
 
 Doom: Annihilation follows a group of space marines as they respond to a distress call from a base on a Martian moon, only to discover it’s been overrun by demonic creatures who threaten to create Hell on Earth.
 
@@ -110,6 +132,23 @@ Doom: Annihilation follows a group of space marines as they respond to a distres
 
 
 	
+	
+
+### The Parts You Lose
+*Released on 2019-10-04, vote average 1*
+
+An unlikely friendship unfolds between a young deaf boy, Wesley, and a fugitive criminal who takes refuge in an abandoned barn on the family’s rural North Dakota farm.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6j9BgCd-1FU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -129,12 +168,12 @@ Doom: Annihilation follows a group of space marines as they respond to a distres
 
 
 	
+	
+	
 
   
 
 
-	
-	
 	
 
   
@@ -168,38 +207,6 @@ The story sees Courtney as Cal, a by-the-book police officer who makes ends meet
 
 
 	
-	
-
-### 3 from Hell
-*Released on 2019-09-16, vote average 6.9*
-
-After barely surviving a furious shootout with the police, Baby Firefly, Otis Driftwood and Captain Spaulding are behind bars. But pure evil cannot be contained. Teaming up with Otis’ half-brother Wilson, the demented Firefly clan escape to unleash a whole new wave of murder, madness and mayhem.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/aQxaGpJNfyA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 
   
 
@@ -208,7 +215,7 @@ After barely surviving a furious shootout with the police, Baby Firefly, Otis Dr
 	
 
 ### Judy
-*Released on 2019-09-27, vote average 6.9*
+*Released on 2019-09-27, vote average 7*
 
 Legendary performer Judy Garland arrives in London in the winter of 1968 to perform a series of sold-out concerts.
 
@@ -226,6 +233,8 @@ Legendary performer Judy Garland arrives in London in the winter of 1968 to perf
   
 
 
+	
+	
 	
 
   
@@ -263,6 +272,18 @@ A story exploring the issue of hardship in modern-day Britain through a young co
   
 
 
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -271,6 +292,23 @@ A story exploring the issue of hardship in modern-day Britain through a young co
 
 	
 
+	
+	
+
+### Zombieland: Double Tap
+*Released on 2019-10-18, vote average 6*
+
+The group will face a new zombie threat as a new breed of zombie has developed. This new super-zombie type is faster, bigger, and stronger than the previous strain of zombies and harder to kill. These super-zombies have started grouping up into a horde going from city to city leaving a path of destruction behind them.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZlW9yhUKlkQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
