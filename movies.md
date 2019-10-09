@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Joker
-*Released on 2019-10-04, vote average 8.8*
+*Released on 2019-10-04, vote average 8.7*
 
 During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.
 
@@ -47,7 +47,7 @@ During the 1980s, a failed stand-up comedian is driven insane and turns to a lif
 	
 
 ### Gemini Man
-*Released on 2019-10-11, vote average 6*
+*Released on 2019-10-11, vote average 6.2*
 
 Henry Brogen, an aging assassin tries to get out of the business but finds himself in the ultimate battle: fighting his own clone who is 25 years younger than him and at the peak of his abilities.
 
@@ -69,7 +69,7 @@ Henry Brogen, an aging assassin tries to get out of the business but finds himse
 	
 
 ### In the Shadow of the Moon
-*Released on 2019-09-21, vote average 6.2*
+*Released on 2019-09-21, vote average 6.1*
 
 In 1988, Philadelphia police officer Thomas &#34;Locke&#34; Lockhart, hungry to become a detective, begins tracking a serial killer whose crimes defy scientific explanation. When the killer mysteriously resurfaces nine years later, Locke&#39;s obsession with finding the truth threatens to destroy his career, his family, and possibly his sanity.
 
@@ -91,7 +91,7 @@ In 1988, Philadelphia police officer Thomas &#34;Locke&#34; Lockhart, hungry to 
 	
 
 ### 3 from Hell
-*Released on 2019-09-16, vote average 6.6*
+*Released on 2019-09-16, vote average 6.7*
 
 After barely surviving a furious shootout with the police, Baby Firefly, Otis Driftwood and Captain Spaulding are behind bars. But pure evil cannot be contained. Teaming up with Otis’ half-brother Wilson, the demented Firefly clan escape to unleash a whole new wave of murder, madness and mayhem.
 
@@ -100,28 +100,6 @@ After barely surviving a furious shootout with the police, Baby Firefly, Otis Dr
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/aQxaGpJNfyA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Doom: Annihilation
-*Released on 2019-10-01, vote average 4.2*
-
-Doom: Annihilation follows a group of space marines as they respond to a distress call from a base on a Martian moon, only to discover it’s been overrun by demonic creatures who threaten to create Hell on Earth.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/bkhXSLmRbiE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -161,8 +139,6 @@ An unlikely friendship unfolds between a young deaf boy, Wesley, and a fugitive 
 
 
 	
-	
-	
 
   
 
@@ -174,6 +150,30 @@ An unlikely friendship unfolds between a young deaf boy, Wesley, and a fugitive 
   
 
 
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Jojo Rabbit
+*Released on 2019-10-18, vote average 8.5*
+
+Jojo Rabbit is about a young boy living during World War II. His only escapism is through his imaginary friend, an ethnically inaccurate version of Adolf Hitler, who pushes the young boy&#39;s naive patriotic beliefs. However, this all changes when a young girl challenges those views and causes Jojo to face his own issues.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/VTqd4yNFuSw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -201,6 +201,28 @@ The story sees Courtney as Cal, a by-the-book police officer who makes ends meet
   
 
 
+	
+
+  
+
+
+	
+	
+
+### Doom: Annihilation
+*Released on 2019-10-01, vote average 4.3*
+
+Doom: Annihilation follows a group of space marines as they respond to a distress call from a base on a Martian moon, only to discover it’s been overrun by demonic creatures who threaten to create Hell on Earth.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/bkhXSLmRbiE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -235,11 +257,6 @@ Legendary performer Judy Garland arrives in London in the winter of 1968 to perf
 
 	
 	
-	
-
-  
-
-
 	
 
   
@@ -296,7 +313,7 @@ A story exploring the issue of hardship in modern-day Britain through a young co
 	
 
 ### Zombieland: Double Tap
-*Released on 2019-10-18, vote average 6*
+*Released on 2019-10-18, vote average 6.5*
 
 The group will face a new zombie threat as a new breed of zombie has developed. This new super-zombie type is faster, bigger, and stronger than the previous strain of zombies and harder to kill. These super-zombies have started grouping up into a horde going from city to city leaving a path of destruction behind them.
 
@@ -313,6 +330,46 @@ The group will face a new zombie threat as a new breed of zombie has developed. 
 
 	
 
+	
+	
+	
+
+	
+	
+
+### El Camino: A Breaking Bad Movie
+*Released on 2019-10-11, vote average 10*
+
+In the wake of his dramatic escape from captivity, Jesse Pinkman must come to terms with his past in order to forge some kind of future.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/lZKqMVPlDg8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### Ford v. Ferrari
+*Released on 2019-11-15, vote average 6*
+
+American car designer Carroll Shelby and the British-born driver Ken Miles work together to battle corporate interference, the laws of physics, and their own personal demons to build a revolutionary race car for Ford Motor Company and take on the dominating race cars of Enzo Ferrari at the 24 Hours of Le Mans in France in 1966.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zyYgDtY2AMY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -332,10 +389,6 @@ An impoverished leader of a small religious commune in Miami, is offered cash to
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
 	
 
 	
