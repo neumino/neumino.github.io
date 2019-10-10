@@ -90,6 +90,33 @@ In 1988, Philadelphia police officer Thomas &#34;Locke&#34; Lockhart, hungry to 
 	
 	
 
+### Zombieland: Double Tap
+*Released on 2019-10-18, vote average 7.1*
+
+The group will face a new zombie threat as a new breed of zombie has developed. This new super-zombie type is faster, bigger, and stronger than the previous strain of zombies and harder to kill. These super-zombies have started grouping up into a horde going from city to city leaving a path of destruction behind them.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZlW9yhUKlkQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### 3 from Hell
 *Released on 2019-09-16, vote average 6.7*
 
@@ -111,17 +138,34 @@ After barely surviving a furious shootout with the police, Baby Firefly, Otis Dr
 
 	
 	
+	
 
-### The Parts You Lose
-*Released on 2019-10-04, vote average 1*
+  
 
-An unlikely friendship unfolds between a young deaf boy, Wesley, and a fugitive criminal who takes refuge in an abandoned barn on the family’s rural North Dakota farm.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Wonder Woman: Bloodlines
+*Released on 2019-10-05, vote average 6.2*
+
+When Amazon princess Diana of Themyscira chooses to save fighter pilot Steve Trevor, it’s a choice that will change her world and ours. Fulfilling the role of both ambassador as well as protector, Diana earns the name Wonder Woman from the gracious people of Earth. But her heart is as strong as her will as she is determined to help a troubled and embittered young girl whom has fallen in with a deadly organization known only as Villainy, Inc! Get ready for an exciting adventure packed with brutal battles, myth and wonder!
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/6j9BgCd-1FU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/6ljM52nZTAs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -139,37 +183,40 @@ An unlikely friendship unfolds between a young deaf boy, Wesley, and a fugitive 
 
 
 	
-
-  
-
-
-	
-	
 	
 
-  
+### Doom: Annihilation
+*Released on 2019-10-01, vote average 4.3*
 
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Jojo Rabbit
-*Released on 2019-10-18, vote average 8.5*
-
-Jojo Rabbit is about a young boy living during World War II. His only escapism is through his imaginary friend, an ethnically inaccurate version of Adolf Hitler, who pushes the young boy&#39;s naive patriotic beliefs. However, this all changes when a young girl challenges those views and causes Jojo to face his own issues.
+Doom: Annihilation follows a group of space marines as they respond to a distress call from a base on a Martian moon, only to discover it’s been overrun by demonic creatures who threaten to create Hell on Earth.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/VTqd4yNFuSw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/bkhXSLmRbiE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Judy
+*Released on 2019-09-27, vote average 7.2*
+
+Legendary performer Judy Garland arrives in London in the winter of 1968 to perform a series of sold-out concerts.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QPgWnMXRv5o?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -208,17 +255,36 @@ The story sees Courtney as Cal, a by-the-book police officer who makes ends meet
 
 	
 	
+	
 
-### Doom: Annihilation
-*Released on 2019-10-01, vote average 4.3*
+  
 
-Doom: Annihilation follows a group of space marines as they respond to a distress call from a base on a Martian moon, only to discover it’s been overrun by demonic creatures who threaten to create Hell on Earth.
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Ford v. Ferrari
+*Released on 2019-11-15, vote average 6*
+
+American car designer Carroll Shelby and the British-born driver Ken Miles work together to battle corporate interference, the laws of physics, and their own personal demons to build a revolutionary race car for Ford Motor Company and take on the dominating race cars of Enzo Ferrari at the 24 Hours of Le Mans in France in 1966.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/bkhXSLmRbiE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/zyYgDtY2AMY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -229,73 +295,22 @@ Doom: Annihilation follows a group of space marines as they respond to a distres
 
 
 	
-
-  
-
-
-	
 	
 
-### Judy
-*Released on 2019-09-27, vote average 7*
+### Bhinna
+*Released on 2019-10-08, vote average 9*
 
-Legendary performer Judy Garland arrives in London in the winter of 1968 to perform a series of sold-out concerts.
+The Script of a Film, she is going to be a part of; begins to blur lines between reality and imagination, for an Aspiring Actress, obsessed about Method Acting.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/QPgWnMXRv5o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Ht4bPOsqc0s?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Sorry We Missed You
-*Released on 2019-10-04, vote average 8*
-
-A story exploring the issue of hardship in modern-day Britain through a young couple scraping to get by in a casual jobs market.  A hard-up delivery driver and his carer wife are pushed to breaking point as they struggle to keep their family afloat in a world of zero-hour contracts and gig work.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ysjwg-MnZao?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 	
 
   
@@ -306,14 +321,10 @@ A story exploring the issue of hardship in modern-day Britain through a young co
 
 
 	
-
-	
-
-	
 	
 
 ### Zombieland: Double Tap
-*Released on 2019-10-18, vote average 6.5*
+*Released on 2019-10-18, vote average 7.1*
 
 The group will face a new zombie threat as a new breed of zombie has developed. This new super-zombie type is faster, bigger, and stronger than the previous strain of zombies and harder to kill. These super-zombies have started grouping up into a horde going from city to city leaving a path of destruction behind them.
 
@@ -330,8 +341,6 @@ The group will face a new zombie threat as a new breed of zombie has developed. 
 
 	
 
-	
-	
 	
 
 	
@@ -376,7 +385,7 @@ American car designer Carroll Shelby and the British-born driver Ken Miles work 
 	
 
 ### The Day Shall Come
-*Released on 2019-10-11, vote average 7*
+*Released on 2019-10-11, vote average 6.5*
 
 An impoverished leader of a small religious commune in Miami, is offered cash to save his family from eviction. He has no idea his sponsor works for an FBI agent, who plans to turn him into a criminal by fueling his madcap revolutionary dreams.
 
@@ -389,6 +398,10 @@ An impoverished leader of a small religious commune in Miami, is offered cash to
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
 	
 
 	
