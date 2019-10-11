@@ -66,6 +66,11 @@ Henry Brogen, an aging assassin tries to get out of the business but finds himse
 
 
 	
+
+  
+
+
+	
 	
 
 ### In the Shadow of the Moon
@@ -90,43 +95,16 @@ In 1988, Philadelphia police officer Thomas &#34;Locke&#34; Lockhart, hungry to 
 	
 	
 
-### Zombieland: Double Tap
-*Released on 2019-10-18, vote average 7.1*
+### El Camino: A Breaking Bad Movie
+*Released on 2019-10-11, vote average 10*
 
-The group will face a new zombie threat as a new breed of zombie has developed. This new super-zombie type is faster, bigger, and stronger than the previous strain of zombies and harder to kill. These super-zombies have started grouping up into a horde going from city to city leaving a path of destruction behind them.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZlW9yhUKlkQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### 3 from Hell
-*Released on 2019-09-16, vote average 6.7*
-
-After barely surviving a furious shootout with the police, Baby Firefly, Otis Driftwood and Captain Spaulding are behind bars. But pure evil cannot be contained. Teaming up with Otis’ half-brother Wilson, the demented Firefly clan escape to unleash a whole new wave of murder, madness and mayhem.
+In the wake of his dramatic escape from captivity, Jesse Pinkman must come to terms with his past in order to forge some kind of future.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/aQxaGpJNfyA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/lZKqMVPlDg8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -144,10 +122,22 @@ After barely surviving a furious shootout with the police, Baby Firefly, Otis Dr
 
 
 	
+	
 
-  
+### Metallica &amp; San Francisco Symphony: S&amp;M2
+*Released on 2019-10-09, vote average 8*
 
+A celebration of the 20th anniversary of Metallica’s groundbreaking S&amp;M concerts and album recorded with the San Francisco Symphony as legendary conductor Michael Tilson Thomas leads a portion of the show, kicking off his final season in San Francisco. Recorded live on September 6th and 8th.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Gd6SycTT-NI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -176,28 +166,6 @@ When Amazon princess Diana of Themyscira chooses to save fighter pilot Steve Tre
 
 
 	
-	
-	
-
-  
-
-
-	
-	
-
-### Doom: Annihilation
-*Released on 2019-10-01, vote average 4.3*
-
-Doom: Annihilation follows a group of space marines as they respond to a distress call from a base on a Martian moon, only to discover it’s been overrun by demonic creatures who threaten to create Hell on Earth.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/bkhXSLmRbiE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -243,6 +211,11 @@ The story sees Courtney as Cal, a by-the-book police officer who makes ends meet
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -316,6 +289,16 @@ The Script of a Film, she is going to be a part of; begins to blur lines between
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -340,10 +323,6 @@ The group will face a new zombie threat as a new breed of zombie has developed. 
 	
 
 	
-
-	
-
-	
 	
 
 ### El Camino: A Breaking Bad Movie
@@ -362,23 +341,6 @@ In the wake of his dramatic escape from captivity, Jesse Pinkman must come to te
 	
 	
 
-	
-	
-
-### Ford v. Ferrari
-*Released on 2019-11-15, vote average 6*
-
-American car designer Carroll Shelby and the British-born driver Ken Miles work together to battle corporate interference, the laws of physics, and their own personal demons to build a revolutionary race car for Ford Motor Company and take on the dominating race cars of Enzo Ferrari at the 24 Hours of Le Mans in France in 1966.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zyYgDtY2AMY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
@@ -400,6 +362,27 @@ An impoverished leader of a small religious commune in Miami, is offered cash to
 	
 	
 
+	
+
+	
+
+	
+	
+
+### The Dead Center
+*Released on 2018-09-21, vote average 6*
+
+When a mysterious &#34;John Doe&#34; wakes up in a morgue and wanders into a psychiatric ward, a devoted doctor and curious medical examiner must slowly uncover dark and sinister secrets about the man that reveal a more horrifying truth than they could have ever imagined.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/te2ApYAZJik?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
