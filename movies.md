@@ -47,7 +47,7 @@ During the 1980s, a failed stand-up comedian is driven insane and turns to a lif
 	
 
 ### Gemini Man
-*Released on 2019-10-11, vote average 6.2*
+*Released on 2019-10-11, vote average 6*
 
 Henry Brogen, an aging assassin tries to get out of the business but finds himself in the ultimate battle: fighting his own clone who is 25 years younger than him and at the peak of his abilities.
 
@@ -66,74 +66,18 @@ Henry Brogen, an aging assassin tries to get out of the business but finds himse
 
 
 	
-
-  
-
-
-	
 	
 
-### In the Shadow of the Moon
-*Released on 2019-09-21, vote average 6.1*
+### The Addams Family
+*Released on 2019-10-11, vote average 4.6*
 
-In 1988, Philadelphia police officer Thomas &#34;Locke&#34; Lockhart, hungry to become a detective, begins tracking a serial killer whose crimes defy scientific explanation. When the killer mysteriously resurfaces nine years later, Locke&#39;s obsession with finding the truth threatens to destroy his career, his family, and possibly his sanity.
+The Addams family&#39;s lives begin to unravel when they face-off against a treacherous, greedy crafty reality-TV host while also preparing for their extended family to arrive for a major celebration.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/lJ3_biTbeRM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### El Camino: A Breaking Bad Movie
-*Released on 2019-10-11, vote average 10*
-
-In the wake of his dramatic escape from captivity, Jesse Pinkman must come to terms with his past in order to forge some kind of future.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/lZKqMVPlDg8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Metallica &amp; San Francisco Symphony: S&amp;M2
-*Released on 2019-10-09, vote average 8*
-
-A celebration of the 20th anniversary of Metallica’s groundbreaking S&amp;M concerts and album recorded with the San Francisco Symphony as legendary conductor Michael Tilson Thomas leads a portion of the show, kicking off his final season in San Francisco. Recorded live on September 6th and 8th.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Gd6SycTT-NI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/4Z5VUf5x2RY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -167,163 +111,6 @@ When Amazon princess Diana of Themyscira chooses to save fighter pilot Steve Tre
 
 	
 	
-	
-
-  
-
-
-	
-	
-
-### Judy
-*Released on 2019-09-27, vote average 7.2*
-
-Legendary performer Judy Garland arrives in London in the winter of 1968 to perform a series of sold-out concerts.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/QPgWnMXRv5o?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Semper Fi
-*Released on 2019-10-04, vote average 10*
-
-The story sees Courtney as Cal, a by-the-book police officer who makes ends meet as a Marine Corps reservist along with his rowdy and inseparable group of childhood friends. When Cal&#39;s younger, reckless half-brother Oyster (Wolff) accidentally kills a guy in a bar fight and tries to flee, Cal forces him to face the music. After an unfair sentence, Oyster fights for survival in a dangerous Pennsylvania prison system while Cal and his friends are deployed to fight the lethal insurgency in Iraq. Overseas, Cal&#39;s world is shaken, and after he barely makes it home alive, he resolves to break Oyster out of prison - no matter the cost.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FPDuMvbcoLA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Ford v. Ferrari
-*Released on 2019-11-15, vote average 6*
-
-American car designer Carroll Shelby and the British-born driver Ken Miles work together to battle corporate interference, the laws of physics, and their own personal demons to build a revolutionary race car for Ford Motor Company and take on the dominating race cars of Enzo Ferrari at the 24 Hours of Le Mans in France in 1966.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zyYgDtY2AMY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Bhinna
-*Released on 2019-10-08, vote average 9*
-
-The Script of a Film, she is going to be a part of; begins to blur lines between reality and imagination, for an Aspiring Actress, obsessed about Method Acting.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Ht4bPOsqc0s?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-
-## Opening soon
-
-
-	
-	
-
-### Zombieland: Double Tap
-*Released on 2019-10-18, vote average 7.1*
-
-The group will face a new zombie threat as a new breed of zombie has developed. This new super-zombie type is faster, bigger, and stronger than the previous strain of zombies and harder to kill. These super-zombies have started grouping up into a horde going from city to city leaving a path of destruction behind them.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZlW9yhUKlkQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
 
 ### El Camino: A Breaking Bad Movie
 *Released on 2019-10-11, vote average 10*
@@ -341,7 +128,15 @@ In the wake of his dramatic escape from captivity, Jesse Pinkman must come to te
 	
 	
 
+  
+
+
 	
+	
+	
+
+  
+
 
 	
 	
@@ -362,9 +157,30 @@ An impoverished leader of a small religious commune in Miami, is offered cash to
 	
 	
 
-	
+  
+
 
 	
+	
+
+### Ford v. Ferrari
+*Released on 2019-11-15, vote average 7.7*
+
+American car designer Carroll Shelby and the British-born driver Ken Miles work together to battle corporate interference, the laws of physics, and their own personal demons to build a revolutionary race car for Ford Motor Company and take on the dominating race cars of Enzo Ferrari at the 24 Hours of Le Mans in France in 1966.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zyYgDtY2AMY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
 
 	
 	
@@ -385,6 +201,93 @@ When a mysterious &#34;John Doe&#34; wakes up in a morgue and wanders into a psy
 	
 	
 
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Metallica &amp; San Francisco Symphony: S&amp;M2
+*Released on 2019-10-09, vote average 8*
+
+A celebration of the 20th anniversary of Metallica’s groundbreaking S&amp;M concerts and album recorded with the San Francisco Symphony as legendary conductor Michael Tilson Thomas leads a portion of the show, kicking off his final season in San Francisco. Recorded live on September 6th and 8th.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Gd6SycTT-NI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+
+## Opening soon
+
+
+	
+
+	
+
+	
+	
 	
 
 	
@@ -409,6 +312,18 @@ When a mysterious &#34;John Doe&#34; wakes up in a morgue and wanders into a psy
 
 	
 
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
 	
 
 
