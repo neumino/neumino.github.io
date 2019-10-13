@@ -68,28 +68,6 @@ Henry Brogen, an aging assassin tries to get out of the business but finds himse
 	
 	
 
-### The Addams Family
-*Released on 2019-10-11, vote average 4.6*
-
-The Addams family&#39;s lives begin to unravel when they face-off against a treacherous, greedy crafty reality-TV host while also preparing for their extended family to arrive for a major celebration.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/4Z5VUf5x2RY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Wonder Woman: Bloodlines
 *Released on 2019-10-05, vote average 6.2*
 
@@ -113,7 +91,7 @@ When Amazon princess Diana of Themyscira chooses to save fighter pilot Steve Tre
 	
 
 ### El Camino: A Breaking Bad Movie
-*Released on 2019-10-11, vote average 10*
+*Released on 2019-10-11, vote average 7.6*
 
 In the wake of his dramatic escape from captivity, Jesse Pinkman must come to terms with his past in order to forge some kind of future.
 
@@ -132,6 +110,48 @@ In the wake of his dramatic escape from captivity, Jesse Pinkman must come to te
 
 
 	
+	
+
+### The Addams Family
+*Released on 2019-10-11, vote average 5.7*
+
+The Addams family&#39;s lives begin to unravel when they face-off against a treacherous, greedy crafty reality-TV host while also preparing for their extended family to arrive for a major celebration.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/4Z5VUf5x2RY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Dead Center
+*Released on 2018-09-21, vote average 6*
+
+When a mysterious &#34;John Doe&#34; wakes up in a morgue and wanders into a psychiatric ward, a devoted doctor and curious medical examiner must slowly uncover dark and sinister secrets about the man that reveal a more horrifying truth than they could have ever imagined.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/te2ApYAZJik?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -162,9 +182,16 @@ An impoverished leader of a small religious commune in Miami, is offered cash to
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Ford v. Ferrari
-*Released on 2019-11-15, vote average 7.7*
+*Released on 2019-11-15, vote average 7.6*
 
 American car designer Carroll Shelby and the British-born driver Ken Miles work together to battle corporate interference, the laws of physics, and their own personal demons to build a revolutionary race car for Ford Motor Company and take on the dominating race cars of Enzo Ferrari at the 24 Hours of Le Mans in France in 1966.
 
@@ -183,32 +210,27 @@ American car designer Carroll Shelby and the British-born driver Ken Miles work 
 
 
 	
+
+  
+
+
+	
 	
 
-### The Dead Center
-*Released on 2018-09-21, vote average 6*
+### The Sky Is Pink
+*Released on 2019-10-11, vote average 6*
 
-When a mysterious &#34;John Doe&#34; wakes up in a morgue and wanders into a psychiatric ward, a devoted doctor and curious medical examiner must slowly uncover dark and sinister secrets about the man that reveal a more horrifying truth than they could have ever imagined.
+The Sky Is Pink is the incredible love story of a couple spanning 25 years, told through the lens of their teenage daughter. She is sassy, sardonic, spunky and also...dead. A fact she nonchalantly mentions at the very outset. &#34;Get over it. It&#39;s quite cool actually. You&#39;ll see when you get here (which you do know you will right?!)&#34; Unexpectedly humorous, warm and heart wrenching all at once as the magic of life and beauty of death manifest in one family&#39;s unusual, courageous journey in this 100% true story.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/te2ApYAZJik?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/prwUFBsDRLk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -243,6 +265,21 @@ A celebration of the 20th anniversary of Metallica’s groundbreaking S&amp;M co
 
 	
 	
+
+### Doom: Annihilation
+*Released on 2019-10-01, vote average 4.3*
+
+Doom: Annihilation follows a group of space marines as they respond to a distress call from a base on a Martian moon, only to discover it’s been overrun by demonic creatures who threaten to create Hell on Earth.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/bkhXSLmRbiE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -254,10 +291,7 @@ A celebration of the 20th anniversary of Metallica’s groundbreaking S&amp;M co
 
 
 	
-
-  
-
-
+	
 	
 
   
@@ -287,6 +321,10 @@ A celebration of the 20th anniversary of Metallica’s groundbreaking S&amp;M co
 	
 
 	
+
+	
+
+	
 	
 	
 
@@ -318,12 +356,6 @@ A celebration of the 20th anniversary of Metallica’s groundbreaking S&amp;M co
 
 	
 
-	
-
-	
-
-	
-	
 	
 
 
