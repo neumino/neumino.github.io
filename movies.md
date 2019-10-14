@@ -47,7 +47,7 @@ During the 1980s, a failed stand-up comedian is driven insane and turns to a lif
 	
 
 ### Gemini Man
-*Released on 2019-10-11, vote average 6*
+*Released on 2019-10-11, vote average 6.1*
 
 Henry Brogen, an aging assassin tries to get out of the business but finds himself in the ultimate battle: fighting his own clone who is 25 years younger than him and at the peak of his abilities.
 
@@ -69,7 +69,7 @@ Henry Brogen, an aging assassin tries to get out of the business but finds himse
 	
 
 ### Wonder Woman: Bloodlines
-*Released on 2019-10-05, vote average 6.2*
+*Released on 2019-10-05, vote average 6.8*
 
 When Amazon princess Diana of Themyscira chooses to save fighter pilot Steve Trevor, it’s a choice that will change her world and ours. Fulfilling the role of both ambassador as well as protector, Diana earns the name Wonder Woman from the gracious people of Earth. But her heart is as strong as her will as she is determined to help a troubled and embittered young girl whom has fallen in with a deadly organization known only as Villainy, Inc! Get ready for an exciting adventure packed with brutal battles, myth and wonder!
 
@@ -91,7 +91,7 @@ When Amazon princess Diana of Themyscira chooses to save fighter pilot Steve Tre
 	
 
 ### El Camino: A Breaking Bad Movie
-*Released on 2019-10-11, vote average 7.6*
+*Released on 2019-10-11, vote average 7.5*
 
 In the wake of his dramatic escape from captivity, Jesse Pinkman must come to terms with his past in order to forge some kind of future.
 
@@ -113,7 +113,7 @@ In the wake of his dramatic escape from captivity, Jesse Pinkman must come to te
 	
 
 ### The Addams Family
-*Released on 2019-10-11, vote average 5.7*
+*Released on 2019-10-11, vote average 6.2*
 
 The Addams family&#39;s lives begin to unravel when they face-off against a treacherous, greedy crafty reality-TV host while also preparing for their extended family to arrive for a major celebration.
 
@@ -132,45 +132,18 @@ The Addams family&#39;s lives begin to unravel when they face-off against a trea
 
 
 	
-
-  
-
-
-	
 	
 
-### The Dead Center
-*Released on 2018-09-21, vote average 6*
+### Zombieland: Double Tap
+*Released on 2019-10-18, vote average 7.4*
 
-When a mysterious &#34;John Doe&#34; wakes up in a morgue and wanders into a psychiatric ward, a devoted doctor and curious medical examiner must slowly uncover dark and sinister secrets about the man that reveal a more horrifying truth than they could have ever imagined.
+The group will face a new zombie threat as a new breed of zombie has developed. This new super-zombie type is faster, bigger, and stronger than the previous strain of zombies and harder to kill. These super-zombies have started grouping up into a horde going from city to city leaving a path of destruction behind them.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/te2ApYAZJik?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Day Shall Come
-*Released on 2019-10-11, vote average 6.5*
-
-An impoverished leader of a small religious commune in Miami, is offered cash to save his family from eviction. He has no idea his sponsor works for an FBI agent, who plans to turn him into a criminal by fueling his madcap revolutionary dreams.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/oqJyhh2PFBw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ZlW9yhUKlkQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -210,6 +183,28 @@ American car designer Carroll Shelby and the British-born driver Ken Miles work 
 
 
 	
+	
+
+### Street Flow
+*Released on 2019-10-12, vote average 7*
+
+Noumouké, from the suburb of Paris, is about to decide which brother&#39;s foot steps to follow - the lawyer student Soulaymaan or the gangster Demba.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Ui9woY0lHKA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 
   
 
@@ -217,16 +212,16 @@ American car designer Carroll Shelby and the British-born driver Ken Miles work 
 	
 	
 
-### The Sky Is Pink
-*Released on 2019-10-11, vote average 6*
+### The Dead Center
+*Released on 2018-09-21, vote average 6*
 
-The Sky Is Pink is the incredible love story of a couple spanning 25 years, told through the lens of their teenage daughter. She is sassy, sardonic, spunky and also...dead. A fact she nonchalantly mentions at the very outset. &#34;Get over it. It&#39;s quite cool actually. You&#39;ll see when you get here (which you do know you will right?!)&#34; Unexpectedly humorous, warm and heart wrenching all at once as the magic of life and beauty of death manifest in one family&#39;s unusual, courageous journey in this 100% true story.
+When a mysterious &#34;John Doe&#34; wakes up in a morgue and wanders into a psychiatric ward, a devoted doctor and curious medical examiner must slowly uncover dark and sinister secrets about the man that reveal a more horrifying truth than they could have ever imagined.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/prwUFBsDRLk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/te2ApYAZJik?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -238,26 +233,6 @@ The Sky Is Pink is the incredible love story of a couple spanning 25 years, told
 
 	
 	
-
-### Metallica &amp; San Francisco Symphony: S&amp;M2
-*Released on 2019-10-09, vote average 8*
-
-A celebration of the 20th anniversary of Metallica’s groundbreaking S&amp;M concerts and album recorded with the San Francisco Symphony as legendary conductor Michael Tilson Thomas leads a portion of the show, kicking off his final season in San Francisco. Recorded live on September 6th and 8th.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Gd6SycTT-NI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -292,6 +267,28 @@ Doom: Annihilation follows a group of space marines as they respond to a distres
 
 	
 	
+
+### The Day Shall Come
+*Released on 2019-10-11, vote average 6.3*
+
+An impoverished leader of a small religious commune in Miami, is offered cash to save his family from eviction. He has no idea his sponsor works for an FBI agent, who plans to turn him into a criminal by fueling his madcap revolutionary dreams.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/oqJyhh2PFBw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -303,10 +300,34 @@ Doom: Annihilation follows a group of space marines as they respond to a distres
 
 
 	
+	
+
+### Jexi
+*Released on 2019-10-11, vote average 7.3*
+
+Phil&#39;s new phone comes with an unexpected feature, Jexi...an A.I. determined to keep him all to herself in a comedy about what can happen when you love your phone more than all else.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EtpBbRsNr-M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -317,6 +338,23 @@ Doom: Annihilation follows a group of space marines as they respond to a distres
 
 
 	
+	
+
+### Maleficent: Mistress of Evil
+*Released on 2019-10-18, vote average 8.2*
+
+Maleficent and her goddaughter Aurora begin to question the complex family ties that bind them as they are pulled in different directions by impending nuptials, unexpected allies, and dark new forces at play.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5MwW1NAsnR8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
@@ -338,6 +376,23 @@ Doom: Annihilation follows a group of space marines as they respond to a distres
 
 	
 
+	
+	
+
+### The Lodge
+*Released on 2019-11-15, vote average 9*
+
+Two siblings spend the night alone with their new stepmother. Stuck in a remote mountain cabin, the trio are terrorised by a supernatural force.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/XYUI97qAa_k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
