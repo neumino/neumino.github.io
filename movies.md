@@ -47,7 +47,7 @@ During the 1980s, a failed stand-up comedian is driven insane and turns to a lif
 	
 
 ### Gemini Man
-*Released on 2019-10-11, vote average 6.1*
+*Released on 2019-10-11, vote average 5.9*
 
 Henry Brogen, an aging assassin tries to get out of the business but finds himself in the ultimate battle: fighting his own clone who is 25 years younger than him and at the peak of his abilities.
 
@@ -68,30 +68,8 @@ Henry Brogen, an aging assassin tries to get out of the business but finds himse
 	
 	
 
-### Wonder Woman: Bloodlines
-*Released on 2019-10-05, vote average 6.8*
-
-When Amazon princess Diana of Themyscira chooses to save fighter pilot Steve Trevor, it’s a choice that will change her world and ours. Fulfilling the role of both ambassador as well as protector, Diana earns the name Wonder Woman from the gracious people of Earth. But her heart is as strong as her will as she is determined to help a troubled and embittered young girl whom has fallen in with a deadly organization known only as Villainy, Inc! Get ready for an exciting adventure packed with brutal battles, myth and wonder!
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/6ljM52nZTAs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### El Camino: A Breaking Bad Movie
-*Released on 2019-10-11, vote average 7.5*
+*Released on 2019-10-11, vote average 7.3*
 
 In the wake of his dramatic escape from captivity, Jesse Pinkman must come to terms with his past in order to forge some kind of future.
 
@@ -112,8 +90,30 @@ In the wake of his dramatic escape from captivity, Jesse Pinkman must come to te
 	
 	
 
+### Wonder Woman: Bloodlines
+*Released on 2019-10-05, vote average 6.6*
+
+When Amazon princess Diana of Themyscira chooses to save fighter pilot Steve Trevor, it’s a choice that will change her world and ours. Fulfilling the role of both ambassador as well as protector, Diana earns the name Wonder Woman from the gracious people of Earth. But her heart is as strong as her will as she is determined to help a troubled and embittered young girl whom has fallen in with a deadly organization known only as Villainy, Inc! Get ready for an exciting adventure packed with brutal battles, myth and wonder!
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6ljM52nZTAs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Addams Family
-*Released on 2019-10-11, vote average 6.2*
+*Released on 2019-10-11, vote average 6.7*
 
 The Addams family&#39;s lives begin to unravel when they face-off against a treacherous, greedy crafty reality-TV host while also preparing for their extended family to arrive for a major celebration.
 
@@ -135,7 +135,7 @@ The Addams family&#39;s lives begin to unravel when they face-off against a trea
 	
 
 ### Zombieland: Double Tap
-*Released on 2019-10-18, vote average 7.4*
+*Released on 2019-10-18, vote average 7.9*
 
 The group will face a new zombie threat as a new breed of zombie has developed. This new super-zombie type is faster, bigger, and stronger than the previous strain of zombies and harder to kill. These super-zombies have started grouping up into a horde going from city to city leaving a path of destruction behind them.
 
@@ -186,7 +186,7 @@ American car designer Carroll Shelby and the British-born driver Ken Miles work 
 	
 
 ### Street Flow
-*Released on 2019-10-12, vote average 7*
+*Released on 2019-10-12, vote average 7.3*
 
 Noumouké, from the suburb of Paris, is about to decide which brother&#39;s foot steps to follow - the lawyer student Soulaymaan or the gangster Demba.
 
@@ -199,11 +199,6 @@ Noumouké, from the suburb of Paris, is about to decide which brother&#39;s foot
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -239,18 +234,23 @@ When a mysterious &#34;John Doe&#34; wakes up in a morgue and wanders into a psy
 
 
 	
+
+  
+
+
+	
 	
 
-### Doom: Annihilation
-*Released on 2019-10-01, vote average 4.3*
+### The Forest of Love
+*Released on 2019-10-11, vote average 8.5*
 
-Doom: Annihilation follows a group of space marines as they respond to a distress call from a base on a Martian moon, only to discover it’s been overrun by demonic creatures who threaten to create Hell on Earth.
+A con man and a would-be filmmaking crew force themselves into the lives of two grief-scarred young women. But nothing is as it seems.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/bkhXSLmRbiE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/RLHfG5Oi7F8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -261,15 +261,10 @@ Doom: Annihilation follows a group of space marines as they respond to a distres
 
 
 	
-
-  
-
-
-	
 	
 
 ### The Day Shall Come
-*Released on 2019-10-11, vote average 6.3*
+*Released on 2019-10-11, vote average 5.8*
 
 An impoverished leader of a small religious commune in Miami, is offered cash to save his family from eviction. He has no idea his sponsor works for an FBI agent, who plans to turn him into a criminal by fueling his madcap revolutionary dreams.
 
@@ -288,13 +283,6 @@ An impoverished leader of a small religious commune in Miami, is offered cash to
 
 
 	
-	
-	
-
-  
-
-
-	
 
   
 
@@ -303,7 +291,7 @@ An impoverished leader of a small religious commune in Miami, is offered cash to
 	
 
 ### Jexi
-*Released on 2019-10-11, vote average 7.3*
+*Released on 2019-10-11, vote average 7*
 
 Phil&#39;s new phone comes with an unexpected feature, Jexi...an A.I. determined to keep him all to herself in a comedy about what can happen when you love your phone more than all else.
 
@@ -328,6 +316,16 @@ Phil&#39;s new phone comes with an unexpected feature, Jexi...an A.I. determined
 
 	
 	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -377,6 +375,12 @@ Maleficent and her goddaughter Aurora begin to question the complex family ties 
 	
 
 	
+
+	
+
+	
+
+	
 	
 
 ### The Lodge
@@ -393,12 +397,6 @@ Two siblings spend the night alone with their new stepmother. Stuck in a remote 
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
 	
 
 	
