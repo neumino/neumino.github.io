@@ -46,28 +46,6 @@ During the 1980s, a failed stand-up comedian is driven insane and turns to a lif
 	
 	
 
-### Gemini Man
-*Released on 2019-10-11, vote average 5.9*
-
-Henry Brogen, an aging assassin tries to get out of the business but finds himself in the ultimate battle: fighting his own clone who is 25 years younger than him and at the peak of his abilities.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/AbyJignbSj0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### El Camino: A Breaking Bad Movie
 *Released on 2019-10-11, vote average 7.3*
 
@@ -90,16 +68,16 @@ In the wake of his dramatic escape from captivity, Jesse Pinkman must come to te
 	
 	
 
-### Wonder Woman: Bloodlines
-*Released on 2019-10-05, vote average 6.6*
+### Gemini Man
+*Released on 2019-10-11, vote average 6*
 
-When Amazon princess Diana of Themyscira chooses to save fighter pilot Steve Trevor, it’s a choice that will change her world and ours. Fulfilling the role of both ambassador as well as protector, Diana earns the name Wonder Woman from the gracious people of Earth. But her heart is as strong as her will as she is determined to help a troubled and embittered young girl whom has fallen in with a deadly organization known only as Villainy, Inc! Get ready for an exciting adventure packed with brutal battles, myth and wonder!
+Henry Brogen, an aging assassin tries to get out of the business but finds himself in the ultimate battle: fighting his own clone who is 25 years younger than him and at the peak of his abilities.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/6ljM52nZTAs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/AbyJignbSj0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -113,7 +91,7 @@ When Amazon princess Diana of Themyscira chooses to save fighter pilot Steve Tre
 	
 
 ### The Addams Family
-*Released on 2019-10-11, vote average 6.7*
+*Released on 2019-10-11, vote average 6.6*
 
 The Addams family&#39;s lives begin to unravel when they face-off against a treacherous, greedy crafty reality-TV host while also preparing for their extended family to arrive for a major celebration.
 
@@ -134,8 +112,30 @@ The Addams family&#39;s lives begin to unravel when they face-off against a trea
 	
 	
 
+### Maleficent: Mistress of Evil
+*Released on 2019-10-18, vote average 8.6*
+
+Maleficent and her goddaughter Aurora begin to question the complex family ties that bind them as they are pulled in different directions by impending nuptials, unexpected allies, and dark new forces at play.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5MwW1NAsnR8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Zombieland: Double Tap
-*Released on 2019-10-18, vote average 7.9*
+*Released on 2019-10-18, vote average 7.3*
 
 The group will face a new zombie threat as a new breed of zombie has developed. This new super-zombie type is faster, bigger, and stronger than the previous strain of zombies and harder to kill. These super-zombies have started grouping up into a horde going from city to city leaving a path of destruction behind them.
 
@@ -155,24 +155,17 @@ The group will face a new zombie threat as a new breed of zombie has developed. 
 
 	
 	
-	
 
-  
+### Wonder Woman: Bloodlines
+*Released on 2019-10-05, vote average 6.7*
 
-
-	
-	
-
-### Ford v. Ferrari
-*Released on 2019-11-15, vote average 7.6*
-
-American car designer Carroll Shelby and the British-born driver Ken Miles work together to battle corporate interference, the laws of physics, and their own personal demons to build a revolutionary race car for Ford Motor Company and take on the dominating race cars of Enzo Ferrari at the 24 Hours of Le Mans in France in 1966.
+When Amazon princess Diana of Themyscira chooses to save fighter pilot Steve Trevor, it’s a choice that will change her world and ours. Fulfilling the role of both ambassador as well as protector, Diana earns the name Wonder Woman from the gracious people of Earth. But her heart is as strong as her will as she is determined to help a troubled and embittered young girl whom has fallen in with a deadly organization known only as Villainy, Inc! Get ready for an exciting adventure packed with brutal battles, myth and wonder!
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/zyYgDtY2AMY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/6ljM52nZTAs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -205,22 +198,10 @@ Noumouké, from the suburb of Paris, is about to decide which brother&#39;s foot
 
 
 	
-	
 
-### The Dead Center
-*Released on 2018-09-21, vote average 6*
+  
 
-When a mysterious &#34;John Doe&#34; wakes up in a morgue and wanders into a psychiatric ward, a devoted doctor and curious medical examiner must slowly uncover dark and sinister secrets about the man that reveal a more horrifying truth than they could have ever imagined.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/te2ApYAZJik?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -228,6 +209,16 @@ When a mysterious &#34;John Doe&#34; wakes up in a morgue and wanders into a psy
 
 	
 	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -242,7 +233,7 @@ When a mysterious &#34;John Doe&#34; wakes up in a morgue and wanders into a psy
 	
 
 ### The Forest of Love
-*Released on 2019-10-11, vote average 8.5*
+*Released on 2019-10-11, vote average 6.8*
 
 A con man and a would-be filmmaking crew force themselves into the lives of two grief-scarred young women. But nothing is as it seems.
 
@@ -263,16 +254,16 @@ A con man and a would-be filmmaking crew force themselves into the lives of two 
 	
 	
 
-### The Day Shall Come
-*Released on 2019-10-11, vote average 5.8*
+### Crazy Romance
+*Released on 2019-10-02, vote average 9*
 
-An impoverished leader of a small religious commune in Miami, is offered cash to save his family from eviction. He has no idea his sponsor works for an FBI agent, who plans to turn him into a criminal by fueling his madcap revolutionary dreams.
+Jae-hoon recently breaks up with his girlfriend and he still cannot give her up. Whenever he gets drunk, it has become a daily routine to call her and act out of drunkenness. On the other hand, Sun-young also decides to break up with his boyfriend. But she holds a grudge against him. For them, it seems that the beginning and the end of a love affair are both difficult. Can they overcome from the previous romance and start the new one?
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/oqJyhh2PFBw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/eJW4cv8V9vA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -283,23 +274,18 @@ An impoverished leader of a small religious commune in Miami, is offered cash to
 
 
 	
-
-  
-
-
-	
 	
 
-### Jexi
-*Released on 2019-10-11, vote average 7*
+### The Dead Center
+*Released on 2018-09-21, vote average 6.2*
 
-Phil&#39;s new phone comes with an unexpected feature, Jexi...an A.I. determined to keep him all to herself in a comedy about what can happen when you love your phone more than all else.
+When a mysterious &#34;John Doe&#34; wakes up in a morgue and wanders into a psychiatric ward, a devoted doctor and curious medical examiner must slowly uncover dark and sinister secrets about the man that reveal a more horrifying truth than they could have ever imagined.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/EtpBbRsNr-M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/te2ApYAZJik?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -310,11 +296,21 @@ Phil&#39;s new phone comes with an unexpected feature, Jexi...an A.I. determined
 
 
 	
-
-  
-
-
 	
+
+### Love, Fall &amp; Order
+*Released on 2019-10-12, vote average 10*
+
+When Claire goes home to save her dad&#39;s annual Fall Fest on her family&#39;s pumpkin farm, sparks fly with an old rival – the opposing lawyer she now faces in court.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/iiNVcPqOj4o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -339,7 +335,7 @@ Phil&#39;s new phone comes with an unexpected feature, Jexi...an A.I. determined
 	
 
 ### Maleficent: Mistress of Evil
-*Released on 2019-10-18, vote average 8.2*
+*Released on 2019-10-18, vote average 8.6*
 
 Maleficent and her goddaughter Aurora begin to question the complex family ties that bind them as they are pulled in different directions by impending nuptials, unexpected allies, and dark new forces at play.
 
@@ -352,8 +348,6 @@ Maleficent and her goddaughter Aurora begin to question the complex family ties 
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
@@ -397,6 +391,8 @@ Two siblings spend the night alone with their new stepmother. Stuck in a remote 
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
