@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Joker
-*Released on 2019-10-04, vote average 8.7*
+### El Camino: A Breaking Bad Movie
+*Released on 2019-10-11, vote average 7.3*
 
-During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.
+In the wake of his dramatic escape from captivity, Jesse Pinkman must come to terms with his past in order to forge some kind of future.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/t433PEQGErc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/lZKqMVPlDg8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,38 +46,16 @@ During the 1980s, a failed stand-up comedian is driven insane and turns to a lif
 	
 	
 
-### El Camino: A Breaking Bad Movie
-*Released on 2019-10-11, vote average 7.3*
+### Maleficent: Mistress of Evil
+*Released on 2019-10-18, vote average 7.9*
 
-In the wake of his dramatic escape from captivity, Jesse Pinkman must come to terms with his past in order to forge some kind of future.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/lZKqMVPlDg8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Gemini Man
-*Released on 2019-10-11, vote average 6*
-
-Henry Brogen, an aging assassin tries to get out of the business but finds himself in the ultimate battle: fighting his own clone who is 25 years younger than him and at the peak of his abilities.
+Maleficent and her goddaughter Aurora begin to question the complex family ties that bind them as they are pulled in different directions by impending nuptials, unexpected allies, and dark new forces at play.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/AbyJignbSj0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/5MwW1NAsnR8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,52 +90,8 @@ The Addams family&#39;s lives begin to unravel when they face-off against a trea
 	
 	
 
-### Maleficent: Mistress of Evil
-*Released on 2019-10-18, vote average 8.6*
-
-Maleficent and her goddaughter Aurora begin to question the complex family ties that bind them as they are pulled in different directions by impending nuptials, unexpected allies, and dark new forces at play.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/5MwW1NAsnR8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Zombieland: Double Tap
-*Released on 2019-10-18, vote average 7.3*
-
-The group will face a new zombie threat as a new breed of zombie has developed. This new super-zombie type is faster, bigger, and stronger than the previous strain of zombies and harder to kill. These super-zombies have started grouping up into a horde going from city to city leaving a path of destruction behind them.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZlW9yhUKlkQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Wonder Woman: Bloodlines
-*Released on 2019-10-05, vote average 6.7*
+*Released on 2019-10-05, vote average 7.1*
 
 When Amazon princess Diana of Themyscira chooses to save fighter pilot Steve Trevor, it’s a choice that will change her world and ours. Fulfilling the role of both ambassador as well as protector, Diana earns the name Wonder Woman from the gracious people of Earth. But her heart is as strong as her will as she is determined to help a troubled and embittered young girl whom has fallen in with a deadly organization known only as Villainy, Inc! Get ready for an exciting adventure packed with brutal battles, myth and wonder!
 
@@ -198,50 +132,18 @@ Noumouké, from the suburb of Paris, is about to decide which brother&#39;s foot
 
 
 	
-
-  
-
-
 	
 
-  
+### Zombieland: Double Tap
+*Released on 2019-10-18, vote average 7.2*
 
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Forest of Love
-*Released on 2019-10-11, vote average 6.8*
-
-A con man and a would-be filmmaking crew force themselves into the lives of two grief-scarred young women. But nothing is as it seems.
+The group will face a new zombie threat as a new breed of zombie has developed. This new super-zombie type is faster, bigger, and stronger than the previous strain of zombies and harder to kill. These super-zombies have started grouping up into a horde going from city to city leaving a path of destruction behind them.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/RLHfG5Oi7F8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ZlW9yhUKlkQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -252,22 +154,15 @@ A con man and a would-be filmmaking crew force themselves into the lives of two 
 
 
 	
-	
 
-### Crazy Romance
-*Released on 2019-10-02, vote average 9*
+  
 
-Jae-hoon recently breaks up with his girlfriend and he still cannot give her up. Whenever he gets drunk, it has become a daily routine to call her and act out of drunkenness. On the other hand, Sun-young also decides to break up with his boyfriend. But she holds a grudge against him. For them, it seems that the beginning and the end of a love affair are both difficult. Can they overcome from the previous romance and start the new one?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/eJW4cv8V9vA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
 	
 
   
@@ -298,8 +193,30 @@ When a mysterious &#34;John Doe&#34; wakes up in a morgue and wanders into a psy
 	
 	
 
+### The Forest of Love
+*Released on 2019-10-11, vote average 7*
+
+A con man and a would-be filmmaking crew force themselves into the lives of two grief-scarred young women. But nothing is as it seems.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/RLHfG5Oi7F8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Love, Fall &amp; Order
-*Released on 2019-10-12, vote average 10*
+*Released on 2019-10-12, vote average 7*
 
 When Claire goes home to save her dad&#39;s annual Fall Fest on her family&#39;s pumpkin farm, sparks fly with an old rival – the opposing lawyer she now faces in court.
 
@@ -327,49 +244,71 @@ When Claire goes home to save her dad&#39;s annual Fall Fest on her family&#39;s
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 
 ## Opening soon
 
 
 	
+
 	
 
-### Maleficent: Mistress of Evil
-*Released on 2019-10-18, vote average 8.6*
+	
+	
+	
 
-Maleficent and her goddaughter Aurora begin to question the complex family ties that bind them as they are pulled in different directions by impending nuptials, unexpected allies, and dark new forces at play.
+	
+
+	
+
+	
+
+	
+	
+
+### The Kill Team
+*Released on 2019-10-25, vote average 6.5*
+
+A young American soldier in Afghanistan is disturbed by his commanding officer&#39;s behavior and is faced with a moral dilemma.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/5MwW1NAsnR8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/0mab6h2sE5g?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
@@ -405,6 +344,33 @@ Two siblings spend the night alone with their new stepmother. Stuck in a remote 
 
 	
 
+	
+
+	
+
+	
+	
+
+### Eli
+*Released on 2019-10-18, vote average 10*
+
+A boy receiving treatment for his auto-immune disorder discovers that the house he&#39;s living in isn&#39;t as safe as he thought.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qfSTiAw1rkM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+	
 	
 
 
