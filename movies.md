@@ -47,7 +47,7 @@ In the wake of his dramatic escape from captivity, Jesse Pinkman must come to te
 	
 
 ### Maleficent: Mistress of Evil
-*Released on 2019-10-18, vote average 7.9*
+*Released on 2019-10-18, vote average 7.4*
 
 Maleficent and her goddaughter Aurora begin to question the complex family ties that bind them as they are pulled in different directions by impending nuptials, unexpected allies, and dark new forces at play.
 
@@ -69,7 +69,7 @@ Maleficent and her goddaughter Aurora begin to question the complex family ties 
 	
 
 ### The Addams Family
-*Released on 2019-10-11, vote average 6.6*
+*Released on 2019-10-11, vote average 6.5*
 
 The Addams family&#39;s lives begin to unravel when they face-off against a treacherous, greedy crafty reality-TV host while also preparing for their extended family to arrive for a major celebration.
 
@@ -78,6 +78,28 @@ The Addams family&#39;s lives begin to unravel when they face-off against a trea
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/4Z5VUf5x2RY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Zombieland: Double Tap
+*Released on 2019-10-18, vote average 7.4*
+
+The group will face a new zombie threat as a new breed of zombie has developed. This new super-zombie type is faster, bigger, and stronger than the previous strain of zombies and harder to kill. These super-zombies have started grouping up into a horde going from city to city leaving a path of destruction behind them.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZlW9yhUKlkQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -113,7 +135,7 @@ When Amazon princess Diana of Themyscira chooses to save fighter pilot Steve Tre
 	
 
 ### Street Flow
-*Released on 2019-10-12, vote average 7.3*
+*Released on 2019-10-12, vote average 7.2*
 
 Noumouké, from the suburb of Paris, is about to decide which brother&#39;s foot steps to follow - the lawyer student Soulaymaan or the gangster Demba.
 
@@ -132,18 +154,45 @@ Noumouké, from the suburb of Paris, is about to decide which brother&#39;s foot
 
 
 	
+
+  
+
+
+	
 	
 
-### Zombieland: Double Tap
-*Released on 2019-10-18, vote average 7.2*
+### The Lighthouse
+*Released on 2019-10-18, vote average 10*
 
-The group will face a new zombie threat as a new breed of zombie has developed. This new super-zombie type is faster, bigger, and stronger than the previous strain of zombies and harder to kill. These super-zombies have started grouping up into a horde going from city to city leaving a path of destruction behind them.
+The hypnotic and hallucinatory tale of two lighthouse keepers on a remote and mysterious New England island in the 1890s.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ZlW9yhUKlkQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Hyag7lR8CPA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Jay and Silent Bob Reboot
+*Released on 2019-10-15, vote average 8.5*
+
+Jay and Silent Bob embark on a cross-country mission to stop Hollywood from rebooting the film based on their comic book counterparts Bluntman and Chronic.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xHvaWulHk5E?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -163,6 +212,42 @@ The group will face a new zombie threat as a new breed of zombie has developed. 
   
 
 
+	
+	
+	
+
+  
+
+
+	
+	
+
+### The Kill Team
+*Released on 2019-10-25, vote average 6.5*
+
+A young American soldier in Afghanistan is disturbed by his commanding officer&#39;s behavior and is faced with a moral dilemma.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0mab6h2sE5g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -191,21 +276,11 @@ When a mysterious &#34;John Doe&#34; wakes up in a morgue and wanders into a psy
 
 
 	
+
+  
+
+
 	
-
-### The Forest of Love
-*Released on 2019-10-11, vote average 7*
-
-A con man and a would-be filmmaking crew force themselves into the lives of two grief-scarred young women. But nothing is as it seems.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/RLHfG5Oi7F8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -239,41 +314,6 @@ When Claire goes home to save her dad&#39;s annual Fall Fest on her family&#39;s
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -284,56 +324,21 @@ When Claire goes home to save her dad&#39;s annual Fall Fest on her family&#39;s
 
 	
 	
-	
 
-	
+### The Lighthouse
+*Released on 2019-10-18, vote average 10*
 
-	
-
-	
-
-	
-	
-
-### The Kill Team
-*Released on 2019-10-25, vote average 6.5*
-
-A young American soldier in Afghanistan is disturbed by his commanding officer&#39;s behavior and is faced with a moral dilemma.
+The hypnotic and hallucinatory tale of two lighthouse keepers on a remote and mysterious New England island in the 1890s.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/0mab6h2sE5g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Hyag7lR8CPA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-	
-
-### The Lodge
-*Released on 2019-11-15, vote average 9*
-
-Two siblings spend the night alone with their new stepmother. Stuck in a remote mountain cabin, the trio are terrorised by a supernatural force.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XYUI97qAa_k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
 	
 
 	
@@ -368,9 +373,40 @@ A boy receiving treatment for his auto-immune disorder discovers that the house 
 	
 
 	
+	
+
+### The Panama Papers
+*Released on 2018-10-06, vote average 6*
+
+A documentary feature film about the biggest global corruption scandal in history, and the hundreds of journalists who risked their lives to break the story.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/RWi29iyJdbE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
 	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 
