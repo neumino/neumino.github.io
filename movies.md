@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### El Camino: A Breaking Bad Movie
-*Released on 2019-10-11, vote average 7.3*
+*Released on 2019-10-11, vote average 7.2*
 
 In the wake of his dramatic escape from captivity, Jesse Pinkman must come to terms with his past in order to forge some kind of future.
 
@@ -47,7 +47,7 @@ In the wake of his dramatic escape from captivity, Jesse Pinkman must come to te
 	
 
 ### Maleficent: Mistress of Evil
-*Released on 2019-10-18, vote average 7.4*
+*Released on 2019-10-18, vote average 7*
 
 Maleficent and her goddaughter Aurora begin to question the complex family ties that bind them as they are pulled in different directions by impending nuptials, unexpected allies, and dark new forces at play.
 
@@ -66,10 +66,37 @@ Maleficent and her goddaughter Aurora begin to question the complex family ties 
 
 
 	
+
+  
+
+
+	
+	
+
+### Zombieland: Double Tap
+*Released on 2019-10-18, vote average 7.1*
+
+The group will face a new zombie threat as a new breed of zombie has developed. This new super-zombie type is faster, bigger, and stronger than the previous strain of zombies and harder to kill. These super-zombies have started grouping up into a horde going from city to city leaving a path of destruction behind them.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZlW9yhUKlkQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 
 ### The Addams Family
-*Released on 2019-10-11, vote average 6.5*
+*Released on 2019-10-11, vote average 6.4*
 
 The Addams family&#39;s lives begin to unravel when they face-off against a treacherous, greedy crafty reality-TV host while also preparing for their extended family to arrive for a major celebration.
 
@@ -90,20 +117,47 @@ The Addams family&#39;s lives begin to unravel when they face-off against a trea
 	
 	
 
-### Zombieland: Double Tap
-*Released on 2019-10-18, vote average 7.4*
+### The Lighthouse
+*Released on 2019-10-18, vote average 8.5*
 
-The group will face a new zombie threat as a new breed of zombie has developed. This new super-zombie type is faster, bigger, and stronger than the previous strain of zombies and harder to kill. These super-zombies have started grouping up into a horde going from city to city leaving a path of destruction behind them.
+The hypnotic and hallucinatory tale of two lighthouse keepers on a remote and mysterious New England island in the 1890s.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ZlW9yhUKlkQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Hyag7lR8CPA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Street Flow
+*Released on 2019-10-12, vote average 7.3*
+
+Noumouké, from the suburb of Paris, is about to decide which brother&#39;s foot steps to follow - the lawyer student Soulaymaan or the gangster Demba.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Ui9woY0lHKA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -132,28 +186,6 @@ When Amazon princess Diana of Themyscira chooses to save fighter pilot Steve Tre
 
 
 	
-	
-
-### Street Flow
-*Released on 2019-10-12, vote average 7.2*
-
-Noumouké, from the suburb of Paris, is about to decide which brother&#39;s foot steps to follow - the lawyer student Soulaymaan or the gangster Demba.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Ui9woY0lHKA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 
   
 
@@ -161,16 +193,16 @@ Noumouké, from the suburb of Paris, is about to decide which brother&#39;s foot
 	
 	
 
-### The Lighthouse
+### Eli
 *Released on 2019-10-18, vote average 10*
 
-The hypnotic and hallucinatory tale of two lighthouse keepers on a remote and mysterious New England island in the 1890s.
+A boy named Eli (Charlie Shotwell) with a rare autoimmune disorder is confined to a special experimental clinic for his treatment. He soon begins experiencing supernatural forces, turning the supposedly safe facility into a haunted prison for him and his fellow patients.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Hyag7lR8CPA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/qfSTiAw1rkM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -182,17 +214,34 @@ The hypnotic and hallucinatory tale of two lighthouse keepers on a remote and my
 
 	
 	
+	
 
-### Jay and Silent Bob Reboot
-*Released on 2019-10-15, vote average 8.5*
+  
 
-Jay and Silent Bob embark on a cross-country mission to stop Hollywood from rebooting the film based on their comic book counterparts Bluntman and Chronic.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Panama Papers
+*Released on 2018-10-14, vote average 6*
+
+A documentary feature film about the biggest global corruption scandal in history, and the hundreds of journalists who risked their lives to break the story.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xHvaWulHk5E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/RWi29iyJdbE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -208,11 +257,48 @@ Jay and Silent Bob embark on a cross-country mission to stop Hollywood from rebo
 
 
 	
+	
+
+### Impetigore
+*Released on 2019-10-17, vote average 7.5*
+
+Enticed by a promise of inheritance, a young woman returns to the village of her birth. Unbeknownst to her, the villagers hide a sinister plan -- one that may require her very own death.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hfJL6qTsRhI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
 	
+
+  
+
+
+	
+	
+
+### The Lodge
+*Released on 2019-11-15, vote average 9*
+
+Two siblings spend the night alone with their new stepmother. Stuck in a remote mountain cabin, the trio are terrorised by a supernatural force.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/XYUI97qAa_k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -241,79 +327,6 @@ A young American soldier in Afghanistan is disturbed by his commanding officer&#
   
 
 
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### The Dead Center
-*Released on 2018-09-21, vote average 6.2*
-
-When a mysterious &#34;John Doe&#34; wakes up in a morgue and wanders into a psychiatric ward, a devoted doctor and curious medical examiner must slowly uncover dark and sinister secrets about the man that reveal a more horrifying truth than they could have ever imagined.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/te2ApYAZJik?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Love, Fall &amp; Order
-*Released on 2019-10-12, vote average 7*
-
-When Claire goes home to save her dad&#39;s annual Fall Fest on her family&#39;s pumpkin farm, sparks fly with an old rival – the opposing lawyer she now faces in court.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/iiNVcPqOj4o?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -323,23 +336,6 @@ When Claire goes home to save her dad&#39;s annual Fall Fest on her family&#39;s
 	
 
 	
-	
-
-### The Lighthouse
-*Released on 2019-10-18, vote average 10*
-
-The hypnotic and hallucinatory tale of two lighthouse keepers on a remote and mysterious New England island in the 1890s.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Hyag7lR8CPA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
@@ -354,41 +350,7 @@ The hypnotic and hallucinatory tale of two lighthouse keepers on a remote and my
 	
 
 	
-	
 
-### Eli
-*Released on 2019-10-18, vote average 10*
-
-A boy receiving treatment for his auto-immune disorder discovers that the house he&#39;s living in isn&#39;t as safe as he thought.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qfSTiAw1rkM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### The Panama Papers
-*Released on 2018-10-06, vote average 6*
-
-A documentary feature film about the biggest global corruption scandal in history, and the hundreds of journalists who risked their lives to break the story.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/RWi29iyJdbE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
