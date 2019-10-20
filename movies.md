@@ -66,6 +66,23 @@ Maleficent and her goddaughter Aurora begin to question the complex family ties 
 
 
 	
+	
+
+### Ip Man 4: The Finale
+*Released on 2019-10-18, vote average 9.3*
+
+Ip Man 4 is an upcoming Hong Kong biographical martial arts film directed by Wilson Yip and produced by Raymond Wong. It is the fourth in the Ip Man film series based on the life of the Wing Chun grandmaster of the same name and features Donnie Yen reprising the role. The film began production in April 2018 and ended in July the same year.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/V4qmd7DE5tk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -96,7 +113,7 @@ The group will face a new zombie threat as a new breed of zombie has developed. 
 	
 
 ### The Addams Family
-*Released on 2019-10-11, vote average 6.4*
+*Released on 2019-10-11, vote average 6.3*
 
 The Addams family&#39;s lives begin to unravel when they face-off against a treacherous, greedy crafty reality-TV host while also preparing for their extended family to arrive for a major celebration.
 
@@ -117,8 +134,30 @@ The Addams family&#39;s lives begin to unravel when they face-off against a trea
 	
 	
 
+### Eli
+*Released on 2019-10-18, vote average 6.1*
+
+A boy named Eli with a rare autoimmune disorder is confined to a special experimental clinic for his treatment. He soon begins experiencing supernatural forces, turning the supposedly safe facility into a haunted prison for him and his fellow patients.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qfSTiAw1rkM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Lighthouse
-*Released on 2019-10-18, vote average 8.5*
+*Released on 2019-10-18, vote average 8.3*
 
 The hypnotic and hallucinatory tale of two lighthouse keepers on a remote and mysterious New England island in the 1890s.
 
@@ -166,16 +205,16 @@ Noumouké, from the suburb of Paris, is about to decide which brother&#39;s foot
 	
 	
 
-### Wonder Woman: Bloodlines
-*Released on 2019-10-05, vote average 7.1*
+### Tell Me Who I Am
+*Released on 2019-10-18, vote average 7.5*
 
-When Amazon princess Diana of Themyscira chooses to save fighter pilot Steve Trevor, it’s a choice that will change her world and ours. Fulfilling the role of both ambassador as well as protector, Diana earns the name Wonder Woman from the gracious people of Earth. But her heart is as strong as her will as she is determined to help a troubled and embittered young girl whom has fallen in with a deadly organization known only as Villainy, Inc! Get ready for an exciting adventure packed with brutal battles, myth and wonder!
+In this documentary, Alex trusts his twin, Marcus, to tell him about his past after he loses his memory. But Marcus is hiding a dark family secret.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/6ljM52nZTAs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/OLjaRjaGjRc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -192,33 +231,6 @@ When Amazon princess Diana of Themyscira chooses to save fighter pilot Steve Tre
 
 	
 	
-
-### Eli
-*Released on 2019-10-18, vote average 10*
-
-A boy named Eli (Charlie Shotwell) with a rare autoimmune disorder is confined to a special experimental clinic for his treatment. He soon begins experiencing supernatural forces, turning the supposedly safe facility into a haunted prison for him and his fellow patients.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qfSTiAw1rkM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 	
 
   
@@ -252,15 +264,10 @@ A documentary feature film about the biggest global corruption scandal in histor
 
 
 	
-
-  
-
-
-	
 	
 
 ### Impetigore
-*Released on 2019-10-17, vote average 7.5*
+*Released on 2019-10-17, vote average 7.2*
 
 Enticed by a promise of inheritance, a young woman returns to the village of her birth. Unbeknownst to her, the villagers hide a sinister plan -- one that may require her very own death.
 
@@ -322,6 +329,16 @@ A young American soldier in Afghanistan is disturbed by his commanding officer&#
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
