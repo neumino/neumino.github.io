@@ -69,7 +69,7 @@ Maleficent and her goddaughter Aurora begin to question the complex family ties 
 	
 
 ### Ip Man 4: The Finale
-*Released on 2019-10-18, vote average 9.3*
+*Released on 2019-10-18, vote average 6.3*
 
 Ip Man 4 is an upcoming Hong Kong biographical martial arts film directed by Wilson Yip and produced by Raymond Wong. It is the fourth in the Ip Man film series based on the life of the Wing Chun grandmaster of the same name and features Donnie Yen reprising the role. The film began production in April 2018 and ended in July the same year.
 
@@ -113,7 +113,7 @@ The group will face a new zombie threat as a new breed of zombie has developed. 
 	
 
 ### The Addams Family
-*Released on 2019-10-11, vote average 6.3*
+*Released on 2019-10-11, vote average 6*
 
 The Addams family&#39;s lives begin to unravel when they face-off against a treacherous, greedy crafty reality-TV host while also preparing for their extended family to arrive for a major celebration.
 
@@ -135,7 +135,7 @@ The Addams family&#39;s lives begin to unravel when they face-off against a trea
 	
 
 ### Eli
-*Released on 2019-10-18, vote average 6.1*
+*Released on 2019-10-18, vote average 5.8*
 
 A boy named Eli with a rare autoimmune disorder is confined to a special experimental clinic for his treatment. He soon begins experiencing supernatural forces, turning the supposedly safe facility into a haunted prison for him and his fellow patients.
 
@@ -179,7 +179,7 @@ The hypnotic and hallucinatory tale of two lighthouse keepers on a remote and my
 	
 
 ### Street Flow
-*Released on 2019-10-12, vote average 7.3*
+*Released on 2019-10-12, vote average 7.4*
 
 Noumouké, from the suburb of Paris, is about to decide which brother&#39;s foot steps to follow - the lawyer student Soulaymaan or the gangster Demba.
 
@@ -197,6 +197,23 @@ Noumouké, from the suburb of Paris, is about to decide which brother&#39;s foot
   
 
 
+	
+	
+
+### Trick
+*Released on 2019-10-18, vote average 7*
+
+A detective tries to track down a masked killer who reappears every Halloween to wreak bloody havoc.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/DSi6U2j3V2U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -224,6 +241,23 @@ In this documentary, Alex trusts his twin, Marcus, to tell him about his past af
   
 
 
+	
+	
+
+### Jojo Rabbit
+*Released on 2019-10-18, vote average 10*
+
+Jojo Rabbit is about a young boy living during World War II. His only escapism is through his imaginary friend, an ethnically inaccurate version of Adolf Hitler, who pushes the young boy&#39;s naive patriotic beliefs. However, this all changes when a young girl challenges those views and causes Jojo to face his own issues.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/VTqd4yNFuSw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -267,7 +301,7 @@ A documentary feature film about the biggest global corruption scandal in histor
 	
 
 ### Impetigore
-*Released on 2019-10-17, vote average 7.2*
+*Released on 2019-10-17, vote average 7.3*
 
 Enticed by a promise of inheritance, a young woman returns to the village of her birth. Unbeknownst to her, the villagers hide a sinister plan -- one that may require her very own death.
 
@@ -316,7 +350,7 @@ Two siblings spend the night alone with their new stepmother. Stuck in a remote 
 	
 
 ### The Kill Team
-*Released on 2019-10-25, vote average 6.5*
+*Released on 2019-10-25, vote average 5.3*
 
 A young American soldier in Afghanistan is disturbed by his commanding officer&#39;s behavior and is faced with a moral dilemma.
 
@@ -348,6 +382,23 @@ A young American soldier in Afghanistan is disturbed by his commanding officer&#
 ## Opening soon
 
 
+	
+	
+
+### Terminator: Dark Fate
+*Released on 2019-11-01, vote average 6.8*
+
+More than two decades after the events of Terminator 2: Judgment Day, Sarah Connor sets out to protect a young woman named Dani Ramos and her friends, as a liquid metal Terminator, sent from the future, attempts to terminate them.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8CjYw1hARhY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
