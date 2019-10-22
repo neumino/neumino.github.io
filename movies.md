@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### El Camino: A Breaking Bad Movie
-*Released on 2019-10-11, vote average 7.2*
+### Maleficent: Mistress of Evil
+*Released on 2019-10-18, vote average 7*
 
-In the wake of his dramatic escape from captivity, Jesse Pinkman must come to terms with his past in order to forge some kind of future.
+Maleficent and her goddaughter Aurora begin to question the complex family ties that bind them as they are pulled in different directions by impending nuptials, unexpected allies, and dark new forces at play.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/lZKqMVPlDg8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/5MwW1NAsnR8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ In the wake of his dramatic escape from captivity, Jesse Pinkman must come to te
 	
 	
 
-### Maleficent: Mistress of Evil
-*Released on 2019-10-18, vote average 7*
+### El Camino: A Breaking Bad Movie
+*Released on 2019-10-11, vote average 7.2*
 
-Maleficent and her goddaughter Aurora begin to question the complex family ties that bind them as they are pulled in different directions by impending nuptials, unexpected allies, and dark new forces at play.
+In the wake of his dramatic escape from captivity, Jesse Pinkman must come to terms with his past in order to forge some kind of future.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/5MwW1NAsnR8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/lZKqMVPlDg8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@ Maleficent and her goddaughter Aurora begin to question the complex family ties 
 	
 
 ### Ip Man 4: The Finale
-*Released on 2019-10-18, vote average 6.3*
+*Released on 2019-10-18, vote average 7.3*
 
 Ip Man 4 is an upcoming Hong Kong biographical martial arts film directed by Wilson Yip and produced by Raymond Wong. It is the fourth in the Ip Man film series based on the life of the Wing Chun grandmaster of the same name and features Donnie Yen reprising the role. The film began production in April 2018 and ended in July the same year.
 
@@ -91,7 +91,7 @@ Ip Man 4 is an upcoming Hong Kong biographical martial arts film directed by Wil
 	
 
 ### Zombieland: Double Tap
-*Released on 2019-10-18, vote average 7.1*
+*Released on 2019-10-18, vote average 7.2*
 
 The group will face a new zombie threat as a new breed of zombie has developed. This new super-zombie type is faster, bigger, and stronger than the previous strain of zombies and harder to kill. These super-zombies have started grouping up into a horde going from city to city leaving a path of destruction behind them.
 
@@ -112,30 +112,8 @@ The group will face a new zombie threat as a new breed of zombie has developed. 
 	
 	
 
-### The Addams Family
-*Released on 2019-10-11, vote average 6*
-
-The Addams family&#39;s lives begin to unravel when they face-off against a treacherous, greedy crafty reality-TV host while also preparing for their extended family to arrive for a major celebration.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/4Z5VUf5x2RY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Eli
-*Released on 2019-10-18, vote average 5.8*
+*Released on 2019-10-18, vote average 6.1*
 
 A boy named Eli with a rare autoimmune disorder is confined to a special experimental clinic for his treatment. He soon begins experiencing supernatural forces, turning the supposedly safe facility into a haunted prison for him and his fellow patients.
 
@@ -156,16 +134,16 @@ A boy named Eli with a rare autoimmune disorder is confined to a special experim
 	
 	
 
-### The Lighthouse
-*Released on 2019-10-18, vote average 8.3*
+### The Addams Family
+*Released on 2019-10-11, vote average 5.8*
 
-The hypnotic and hallucinatory tale of two lighthouse keepers on a remote and mysterious New England island in the 1890s.
+The Addams family&#39;s lives begin to unravel when they face-off against a treacherous, greedy crafty reality-TV host while also preparing for their extended family to arrive for a major celebration.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Hyag7lR8CPA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/4Z5VUf5x2RY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -200,16 +178,16 @@ Noumouké, from the suburb of Paris, is about to decide which brother&#39;s foot
 	
 	
 
-### Trick
-*Released on 2019-10-18, vote average 7*
+### Tell Me Who I Am
+*Released on 2019-10-18, vote average 5.8*
 
-A detective tries to track down a masked killer who reappears every Halloween to wreak bloody havoc.
+In this documentary, Alex trusts his twin, Marcus, to tell him about his past after he loses his memory. But Marcus is hiding a dark family secret.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/DSi6U2j3V2U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/OLjaRjaGjRc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -222,16 +200,16 @@ A detective tries to track down a masked killer who reappears every Halloween to
 	
 	
 
-### Tell Me Who I Am
-*Released on 2019-10-18, vote average 7.5*
+### The Lighthouse
+*Released on 2019-10-18, vote average 8.6*
 
-In this documentary, Alex trusts his twin, Marcus, to tell him about his past after he loses his memory. But Marcus is hiding a dark family secret.
+The hypnotic and hallucinatory tale of two lighthouse keepers on a remote and mysterious New England island in the 1890s.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/OLjaRjaGjRc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Hyag7lR8CPA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -278,16 +256,16 @@ Jojo Rabbit is about a young boy living during World War II. His only escapism i
 	
 	
 
-### The Panama Papers
-*Released on 2018-10-14, vote average 6*
+### Trick
+*Released on 2019-10-18, vote average 7*
 
-A documentary feature film about the biggest global corruption scandal in history, and the hundreds of journalists who risked their lives to break the story.
+A detective tries to track down a masked killer who reappears every Halloween to wreak bloody havoc.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/RWi29iyJdbE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/DSi6U2j3V2U?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -350,7 +328,7 @@ Two siblings spend the night alone with their new stepmother. Stuck in a remote 
 	
 
 ### The Kill Team
-*Released on 2019-10-25, vote average 5.3*
+*Released on 2019-10-25, vote average 5.4*
 
 A young American soldier in Afghanistan is disturbed by his commanding officer&#39;s behavior and is faced with a moral dilemma.
 
@@ -378,6 +356,11 @@ A young American soldier in Afghanistan is disturbed by his commanding officer&#
   
 
 
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -386,7 +369,7 @@ A young American soldier in Afghanistan is disturbed by his commanding officer&#
 	
 
 ### Terminator: Dark Fate
-*Released on 2019-11-01, vote average 6.8*
+*Released on 2019-11-01, vote average 7.4*
 
 More than two decades after the events of Terminator 2: Judgment Day, Sarah Connor sets out to protect a young woman named Dani Ramos and her friends, as a liquid metal Terminator, sent from the future, attempts to terminate them.
 
@@ -427,6 +410,8 @@ More than two decades after the events of Terminator 2: Judgment Day, Sarah Conn
 
 	
 
+	
+	
 	
 
 	
