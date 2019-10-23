@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Maleficent: Mistress of Evil
-*Released on 2019-10-18, vote average 7*
+*Released on 2019-10-18, vote average 7.1*
 
 Maleficent and her goddaughter Aurora begin to question the complex family ties that bind them as they are pulled in different directions by impending nuptials, unexpected allies, and dark new forces at play.
 
@@ -69,7 +69,7 @@ In the wake of his dramatic escape from captivity, Jesse Pinkman must come to te
 	
 
 ### Ip Man 4: The Finale
-*Released on 2019-10-18, vote average 7.3*
+*Released on 2019-10-18, vote average 7.7*
 
 Ip Man 4 is an upcoming Hong Kong biographical martial arts film directed by Wilson Yip and produced by Raymond Wong. It is the fourth in the Ip Man film series based on the life of the Wing Chun grandmaster of the same name and features Donnie Yen reprising the role. The film began production in April 2018 and ended in July the same year.
 
@@ -134,6 +134,28 @@ A boy named Eli with a rare autoimmune disorder is confined to a special experim
 	
 	
 
+### Terminator: Dark Fate
+*Released on 2019-11-01, vote average 7.4*
+
+More than two decades after the events of Terminator 2: Judgment Day, Sarah Connor sets out to protect a young woman named Dani Ramos and her friends, as a liquid metal Terminator, sent from the future, attempts to terminate them.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8CjYw1hARhY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Addams Family
 *Released on 2019-10-11, vote average 5.8*
 
@@ -157,7 +179,7 @@ The Addams family&#39;s lives begin to unravel when they face-off against a trea
 	
 
 ### Street Flow
-*Released on 2019-10-12, vote average 7.4*
+*Released on 2019-10-12, vote average 7.3*
 
 Noumouké, from the suburb of Paris, is about to decide which brother&#39;s foot steps to follow - the lawyer student Soulaymaan or the gangster Demba.
 
@@ -178,30 +200,8 @@ Noumouké, from the suburb of Paris, is about to decide which brother&#39;s foot
 	
 	
 
-### Tell Me Who I Am
-*Released on 2019-10-18, vote average 5.8*
-
-In this documentary, Alex trusts his twin, Marcus, to tell him about his past after he loses his memory. But Marcus is hiding a dark family secret.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/OLjaRjaGjRc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Lighthouse
-*Released on 2019-10-18, vote average 8.6*
+*Released on 2019-10-18, vote average 8.2*
 
 The hypnotic and hallucinatory tale of two lighthouse keepers on a remote and mysterious New England island in the 1890s.
 
@@ -210,28 +210,6 @@ The hypnotic and hallucinatory tale of two lighthouse keepers on a remote and my
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/Hyag7lR8CPA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Jojo Rabbit
-*Released on 2019-10-18, vote average 10*
-
-Jojo Rabbit is about a young boy living during World War II. His only escapism is through his imaginary friend, an ethnically inaccurate version of Adolf Hitler, who pushes the young boy&#39;s naive patriotic beliefs. However, this all changes when a young girl challenges those views and causes Jojo to face his own issues.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/VTqd4yNFuSw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -257,7 +235,7 @@ Jojo Rabbit is about a young boy living during World War II. His only escapism i
 	
 
 ### Trick
-*Released on 2019-10-18, vote average 7*
+*Released on 2019-10-18, vote average 4*
 
 A detective tries to track down a masked killer who reappears every Halloween to wreak bloody havoc.
 
@@ -305,8 +283,57 @@ Enticed by a promise of inheritance, a young woman returns to the village of her
 	
 	
 
+### Tell Me Who I Am
+*Released on 2019-10-18, vote average 5.8*
+
+In this documentary, Alex trusts his twin, Marcus, to tell him about his past after he loses his memory. But Marcus is hiding a dark family secret.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/OLjaRjaGjRc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Jojo Rabbit
+*Released on 2019-10-18, vote average 10*
+
+Jojo Rabbit is about a young boy living during World War II. His only escapism is through his imaginary friend, an ethnically inaccurate version of Adolf Hitler, who pushes the young boy&#39;s naive patriotic beliefs. However, this all changes when a young girl challenges those views and causes Jojo to face his own issues.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/VTqd4yNFuSw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Lodge
-*Released on 2019-11-15, vote average 9*
+*Released on 2019-11-15, vote average 9.3*
 
 Two siblings spend the night alone with their new stepmother. Stuck in a remote mountain cabin, the trio are terrorised by a supernatural force.
 
@@ -319,33 +346,6 @@ Two siblings spend the night alone with their new stepmother. Stuck in a remote 
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### The Kill Team
-*Released on 2019-10-25, vote average 5.4*
-
-A young American soldier in Afghanistan is disturbed by his commanding officer&#39;s behavior and is faced with a moral dilemma.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0mab6h2sE5g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -387,6 +387,29 @@ More than two decades after the events of Terminator 2: Judgment Day, Sarah Conn
 	
 
 	
+	
+
+### Black and Blue
+*Released on 2019-10-25, vote average 10*
+
+Exposure follows a rookie Detroit African-American female cop who stumbles upon corrupt officers who are murdering a drug dealer, an incident captured by her body cam. They pursue her through the night in an attempt to destroy the footage, but to make matters worse, they&#39;ve tipped off a criminal gang that she&#39;s responsible for the dealer&#39;s death.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QCfSeVCr7ng?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+	
+	
 
 	
 
@@ -406,12 +429,6 @@ More than two decades after the events of Terminator 2: Judgment Day, Sarah Conn
 
 	
 
-	
-
-	
-
-	
-	
 	
 
 	
