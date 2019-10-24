@@ -46,6 +46,28 @@ Maleficent and her goddaughter Aurora begin to question the complex family ties 
 	
 	
 
+### Terminator: Dark Fate
+*Released on 2019-11-01, vote average 7.6*
+
+More than two decades have passed since Sarah Connor prevented Judgment Day, changed the future, and re-wrote the fate of the human race. Dani Ramos is living a simple life in Mexico City with her brother and father when a highly advanced and deadly new Terminator – a Rev-9 – travels back through time to hunt and kill her. Dani&#39;s survival depends on her joining forces with two warriors: Grace, an enhanced super-soldier from the future, and a battle-hardened Sarah Connor. As the Rev-9 ruthlessly destroys everything and everyone in its path on the hunt for Dani, the three are led to a T-800 from Sarah’s past that may be their last best hope.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8CjYw1hARhY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### El Camino: A Breaking Bad Movie
 *Released on 2019-10-11, vote average 7.2*
 
@@ -69,7 +91,7 @@ In the wake of his dramatic escape from captivity, Jesse Pinkman must come to te
 	
 
 ### Ip Man 4: The Finale
-*Released on 2019-10-18, vote average 7.7*
+*Released on 2019-10-18, vote average 8*
 
 Ip Man 4 is an upcoming Hong Kong biographical martial arts film directed by Wilson Yip and produced by Raymond Wong. It is the fourth in the Ip Man film series based on the life of the Wing Chun grandmaster of the same name and features Donnie Yen reprising the role. The film began production in April 2018 and ended in July the same year.
 
@@ -78,28 +100,6 @@ Ip Man 4 is an upcoming Hong Kong biographical martial arts film directed by Wil
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/V4qmd7DE5tk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Zombieland: Double Tap
-*Released on 2019-10-18, vote average 7.2*
-
-The group will face a new zombie threat as a new breed of zombie has developed. This new super-zombie type is faster, bigger, and stronger than the previous strain of zombies and harder to kill. These super-zombies have started grouping up into a horde going from city to city leaving a path of destruction behind them.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZlW9yhUKlkQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,30 +134,8 @@ A boy named Eli with a rare autoimmune disorder is confined to a special experim
 	
 	
 
-### Terminator: Dark Fate
-*Released on 2019-11-01, vote average 7.4*
-
-More than two decades after the events of Terminator 2: Judgment Day, Sarah Connor sets out to protect a young woman named Dani Ramos and her friends, as a liquid metal Terminator, sent from the future, attempts to terminate them.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8CjYw1hARhY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Addams Family
-*Released on 2019-10-11, vote average 5.8*
+*Released on 2019-10-11, vote average 6.3*
 
 The Addams family&#39;s lives begin to unravel when they face-off against a treacherous, greedy crafty reality-TV host while also preparing for their extended family to arrive for a major celebration.
 
@@ -175,23 +153,6 @@ The Addams family&#39;s lives begin to unravel when they face-off against a trea
   
 
 
-	
-	
-
-### Street Flow
-*Released on 2019-10-12, vote average 7.3*
-
-Noumouké, from the suburb of Paris, is about to decide which brother&#39;s foot steps to follow - the lawyer student Soulaymaan or the gangster Demba.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Ui9woY0lHKA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -227,23 +188,18 @@ The hypnotic and hallucinatory tale of two lighthouse keepers on a remote and my
 
 
 	
-
-  
-
-
-	
 	
 
-### Trick
-*Released on 2019-10-18, vote average 4*
+### Street Flow
+*Released on 2019-10-12, vote average 7.2*
 
-A detective tries to track down a masked killer who reappears every Halloween to wreak bloody havoc.
+Noumouké, from the suburb of Paris, is about to decide which brother&#39;s foot steps to follow - the lawyer student Soulaymaan or the gangster Demba.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/DSi6U2j3V2U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Ui9woY0lHKA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -254,27 +210,37 @@ A detective tries to track down a masked killer who reappears every Halloween to
 
 
 	
-	
 
-### Impetigore
-*Released on 2019-10-17, vote average 7.3*
+  
 
-Enticed by a promise of inheritance, a young woman returns to the village of her birth. Unbeknownst to her, the villagers hide a sinister plan -- one that may require her very own death.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hfJL6qTsRhI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
 
 
+	
+
+  
+
+
+	
+	
+
+### Jojo Rabbit
+*Released on 2019-10-18, vote average 9.3*
+
+A World War II satire that follows a lonely German boy whose world view is turned upside down when he discovers his single mother is hiding a young Jewish girl in their attic. Aided only by his idiotic imaginary friend, Adolf Hitler, Jojo must confront his blind nationalism.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/VTqd4yNFuSw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -284,7 +250,7 @@ Enticed by a promise of inheritance, a young woman returns to the village of her
 	
 
 ### Tell Me Who I Am
-*Released on 2019-10-18, vote average 5.8*
+*Released on 2019-10-18, vote average 6.3*
 
 In this documentary, Alex trusts his twin, Marcus, to tell him about his past after he loses his memory. But Marcus is hiding a dark family secret.
 
@@ -308,44 +274,10 @@ In this documentary, Alex trusts his twin, Marcus, to tell him about his past af
 
 
 	
-	
-
-### Jojo Rabbit
-*Released on 2019-10-18, vote average 10*
-
-Jojo Rabbit is about a young boy living during World War II. His only escapism is through his imaginary friend, an ethnically inaccurate version of Adolf Hitler, who pushes the young boy&#39;s naive patriotic beliefs. However, this all changes when a young girl challenges those views and causes Jojo to face his own issues.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/VTqd4yNFuSw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
-	
-	
-
-### The Lodge
-*Released on 2019-11-15, vote average 9.3*
-
-Two siblings spend the night alone with their new stepmother. Stuck in a remote mountain cabin, the trio are terrorised by a supernatural force.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XYUI97qAa_k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -364,27 +296,6 @@ Two siblings spend the night alone with their new stepmother. Stuck in a remote 
 
 ## Opening soon
 
-
-	
-	
-
-### Terminator: Dark Fate
-*Released on 2019-11-01, vote average 7.4*
-
-More than two decades after the events of Terminator 2: Judgment Day, Sarah Connor sets out to protect a young woman named Dani Ramos and her friends, as a liquid metal Terminator, sent from the future, attempts to terminate them.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8CjYw1hARhY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
 
 	
 	
@@ -408,8 +319,6 @@ Exposure follows a rookie Detroit African-American female cop who stumbles upon 
 	
 
 	
-	
-	
 
 	
 
@@ -422,11 +331,19 @@ Exposure follows a rookie Detroit African-American female cop who stumbles upon 
 	
 
 	
+	
+	
+
+	
 
 	
 
 	
 
+	
+
+	
+	
 	
 
 	
