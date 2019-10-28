@@ -69,7 +69,7 @@ More than two decades have passed since Sarah Connor prevented Judgment Day, cha
 	
 
 ### Ip Man 4: The Finale
-*Released on 2019-10-18, vote average 5.6*
+*Released on 2019-10-18, vote average 5.3*
 
 Ip Man 4 is an upcoming Hong Kong biographical martial arts film directed by Wilson Yip and produced by Raymond Wong. It is the fourth in the Ip Man film series based on the life of the Wing Chun grandmaster of the same name and features Donnie Yen reprising the role. The film began production in April 2018 and ended in July the same year.
 
@@ -91,7 +91,7 @@ Ip Man 4 is an upcoming Hong Kong biographical martial arts film directed by Wil
 	
 
 ### Eli
-*Released on 2019-10-18, vote average 6.1*
+*Released on 2019-10-18, vote average 6*
 
 A boy named Eli with a rare autoimmune disorder is confined to a special experimental clinic for his treatment. He soon begins experiencing supernatural forces, turning the supposedly safe facility into a haunted prison for him and his fellow patients.
 
@@ -113,7 +113,7 @@ A boy named Eli with a rare autoimmune disorder is confined to a special experim
 	
 
 ### Black and Blue
-*Released on 2019-10-25, vote average 4.6*
+*Released on 2019-10-25, vote average 5*
 
 Exposure follows a rookie Detroit African-American female cop who stumbles upon corrupt officers who are murdering a drug dealer, an incident captured by her body cam. They pursue her through the night in an attempt to destroy the footage, but to make matters worse, they&#39;ve tipped off a criminal gang that she&#39;s responsible for the dealer&#39;s death.
 
@@ -132,22 +132,10 @@ Exposure follows a rookie Detroit African-American female cop who stumbles upon 
 
 
 	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
 	
 
 ### Rattlesnake
-*Released on 2019-10-25, vote average 6*
+*Released on 2019-10-25, vote average 5.6*
 
 After a mysterious woman saves her daughter from a deadly snakebite, a single mother must repay the debt by killing a stranger before sundown.
 
@@ -165,6 +153,52 @@ After a mysterious woman saves her daughter from a deadly snakebite, a single mo
   
 
 
+	
+	
+
+### Countdown
+*Released on 2019-10-25, vote average 6.4*
+
+A young nurse downloads an app that tells her she only has three days to live. With time ticking away and a mysterious figure haunting her, she must find a way to save her life before time runs out.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pqvWtC2ae3M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Portals
+*Released on 2019-10-25, vote average 5*
+
+A series of worldwide blackouts cause millions of mysterious cosmic anomalies to appear everywhere across the planet. Some people are drawn into them with horrifying consequences.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_HKL8pGBigI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -195,30 +229,8 @@ Some of the world&#39;s most majestic birds display delightfully captivating mat
 	
 	
 
-### Housefull 4
-*Released on 2019-10-25, vote average 6*
-
-Housefull 4 is an Indian comedy film, themed on reincarnation.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/gcHH34cEl3Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Lighthouse
-*Released on 2019-10-18, vote average 8*
+*Released on 2019-10-18, vote average 7.9*
 
 The hypnotic and hallucinatory tale of two lighthouse keepers on a remote and mysterious New England island in the 1890s.
 
@@ -243,6 +255,8 @@ The hypnotic and hallucinatory tale of two lighthouse keepers on a remote and my
   
 
 
+	
+	
 	
 
   
@@ -281,7 +295,7 @@ KIM Ji-young, an ordinary woman in her 30s, suddenly shows signs of being inhabi
 	
 
 ### A Cinderella Story: Christmas Wish
-*Released on 2019-10-15, vote average 7.6*
+*Released on 2019-10-15, vote average 7.9*
 
 Kat is an aspiring singer-songwriter who dreams of making it big. However, her dreams are stalled by her reality: a conniving and cruel stepfamily  and a demoralizing job working as a singing elf at billionaire Terrence Wintergarden’s Santa Land.
 
@@ -303,7 +317,7 @@ Kat is an aspiring singer-songwriter who dreams of making it big. However, her d
 	
 
 ### The Kill Team
-*Released on 2019-10-25, vote average 5.4*
+*Released on 2019-10-25, vote average 6.2*
 
 When Andrew Briggman a young soldier in the US invasion of Afghanistan, witnesses other recruits killing innocent civilians under the direction of a sadistic leader, Sergeant Deeks  he considers reporting them to higher-ups -- but the heavily-armed, increasingly violent platoon becomes suspicious that someone in their ranks has turned on them, and Andrew begins to fear that he&#39;ll be the next target. The Kill Team is an urgent and explosive movie.
 
@@ -331,21 +345,39 @@ When Andrew Briggman a young soldier in the US invasion of Afghanistan, witnesse
   
 
 
+	
+
+  
+
+
 
 ## Opening soon
 
 
 	
-
 	
 
+### Doctor Sleep
+*Released on 2019-11-08, vote average 7*
+
+A traumatized, alcoholic Dan Torrance meets Abra, a kid who also has the ability to &#34;shine.&#34; He tries to protect her from the True Knot, a cult who&#39;s goal is to feed off people like them in order to remain immortal.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2msJTFvhkU4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
 	
 
 ### The Irishman
-*Released on 2019-11-01, vote average 9*
+*Released on 2019-11-01, vote average 8.7*
 
 World War II veteran and mob hitman Frank &#34;The Irishman&#34; Sheeran recalls his possible involvement with the slaying of union leader Jimmy Hoffa.
 
@@ -377,7 +409,9 @@ World War II veteran and mob hitman Frank &#34;The Irishman&#34; Sheeran recalls
 	
 
 	
+
 	
+
 	
 
 	
