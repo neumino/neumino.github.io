@@ -47,7 +47,7 @@ Maleficent and her goddaughter Aurora begin to question the complex family ties 
 	
 
 ### Terminator: Dark Fate
-*Released on 2019-11-01, vote average 6.7*
+*Released on 2019-11-01, vote average 6.8*
 
 More than two decades have passed since Sarah Connor prevented Judgment Day, changed the future, and re-wrote the fate of the human race. Dani Ramos is living a simple life in Mexico City with her brother and father when a highly advanced and deadly new Terminator – a Rev-9 – travels back through time to hunt and kill her. Dani&#39;s survival depends on her joining forces with two warriors: Grace, an enhanced super-soldier from the future, and a battle-hardened Sarah Connor. As the Rev-9 ruthlessly destroys everything and everyone in its path on the hunt for Dani, the three are led to a T-800 from Sarah’s past that may be their last best hope.
 
@@ -69,7 +69,7 @@ More than two decades have passed since Sarah Connor prevented Judgment Day, cha
 	
 
 ### Ip Man 4: The Finale
-*Released on 2019-10-18, vote average 5.3*
+*Released on 2019-10-18, vote average 5.7*
 
 Ip Man 4 is an upcoming Hong Kong biographical martial arts film directed by Wilson Yip and produced by Raymond Wong. It is the fourth in the Ip Man film series based on the life of the Wing Chun grandmaster of the same name and features Donnie Yen reprising the role. The film began production in April 2018 and ended in July the same year.
 
@@ -78,6 +78,28 @@ Ip Man 4 is an upcoming Hong Kong biographical martial arts film directed by Wil
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/V4qmd7DE5tk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Rattlesnake
+*Released on 2019-10-25, vote average 5.6*
+
+After a mysterious woman saves her daughter from a deadly snakebite, a single mother must repay the debt by killing a stranger before sundown.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LhklHFwmBYw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -113,7 +135,7 @@ A boy named Eli with a rare autoimmune disorder is confined to a special experim
 	
 
 ### Black and Blue
-*Released on 2019-10-25, vote average 5*
+*Released on 2019-10-25, vote average 5.8*
 
 Exposure follows a rookie Detroit African-American female cop who stumbles upon corrupt officers who are murdering a drug dealer, an incident captured by her body cam. They pursue her through the night in an attempt to destroy the footage, but to make matters worse, they&#39;ve tipped off a criminal gang that she&#39;s responsible for the dealer&#39;s death.
 
@@ -134,52 +156,8 @@ Exposure follows a rookie Detroit African-American female cop who stumbles upon 
 	
 	
 
-### Rattlesnake
-*Released on 2019-10-25, vote average 5.6*
-
-After a mysterious woman saves her daughter from a deadly snakebite, a single mother must repay the debt by killing a stranger before sundown.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LhklHFwmBYw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Countdown
-*Released on 2019-10-25, vote average 6.4*
-
-A young nurse downloads an app that tells her she only has three days to live. With time ticking away and a mysterious figure haunting her, she must find a way to save her life before time runs out.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pqvWtC2ae3M?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Portals
-*Released on 2019-10-25, vote average 5*
+*Released on 2019-10-25, vote average 4.7*
 
 A series of worldwide blackouts cause millions of mysterious cosmic anomalies to appear everywhere across the planet. Some people are drawn into them with horrifying consequences.
 
@@ -199,24 +177,17 @@ A series of worldwide blackouts cause millions of mysterious cosmic anomalies to
 
 	
 	
-	
 
-  
+### Countdown
+*Released on 2019-10-25, vote average 5.3*
 
-
-	
-	
-
-### Dancing with the Birds
-*Released on 2019-10-23, vote average 8*
-
-Some of the world&#39;s most majestic birds display delightfully captivating mating rituals, from flashy dancing to flaunting their colorful feathers.
+A young nurse downloads an app that tells her she only has three days to live. With time ticking away and a mysterious figure haunting her, she must find a way to save her life before time runs out.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/i6po8dWuvCI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/pqvWtC2ae3M?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -228,9 +199,16 @@ Some of the world&#39;s most majestic birds display delightfully captivating mat
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### The Lighthouse
-*Released on 2019-10-18, vote average 7.9*
+*Released on 2019-10-18, vote average 8*
 
 The hypnotic and hallucinatory tale of two lighthouse keepers on a remote and mysterious New England island in the 1890s.
 
@@ -256,29 +234,17 @@ The hypnotic and hallucinatory tale of two lighthouse keepers on a remote and my
 
 
 	
-	
-	
 
   
 
 
 	
 	
-
-### Kim Ji-young, Born 1982
-*Released on 2019-10-23, vote average 5*
-
-KIM Ji-young, an ordinary woman in her 30s, suddenly shows signs of being inhabited by others such as her late mother and older sister, and the stories of the people connected to her.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Nbjks9yrtcY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
+
+  
+
+
 	
 
   
@@ -336,6 +302,8 @@ When Andrew Briggman a young soldier in the US invasion of Afghanistan, witnesse
 
 
 	
+	
+	
 
   
 
@@ -358,7 +326,7 @@ When Andrew Briggman a young soldier in the US invasion of Afghanistan, witnesse
 	
 
 ### Doctor Sleep
-*Released on 2019-11-08, vote average 7*
+*Released on 2019-11-08, vote average 5*
 
 A traumatized, alcoholic Dan Torrance meets Abra, a kid who also has the ability to &#34;shine.&#34; He tries to protect her from the True Knot, a cult who&#39;s goal is to feed off people like them in order to remain immortal.
 
@@ -377,7 +345,7 @@ A traumatized, alcoholic Dan Torrance meets Abra, a kid who also has the ability
 	
 
 ### The Irishman
-*Released on 2019-11-01, vote average 8.7*
+*Released on 2019-11-01, vote average 8.5*
 
 World War II veteran and mob hitman Frank &#34;The Irishman&#34; Sheeran recalls his possible involvement with the slaying of union leader Jimmy Hoffa.
 
@@ -401,7 +369,22 @@ World War II veteran and mob hitman Frank &#34;The Irishman&#34; Sheeran recalls
 	
 
 	
+	
 
+### Harriet
+*Released on 2019-11-01, vote average 10*
+
+The story of Harriet Tubman, who helped free hundreds of slaves from the South after escaping from slavery herself in 1849.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/GqoEs4cG6Uw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -410,6 +393,25 @@ World War II veteran and mob hitman Frank &#34;The Irishman&#34; Sheeran recalls
 
 	
 
+	
+
+	
+	
+
+### Farmlands
+*Released on 2019-11-01, vote average 1.5*
+
+A detailing of the plight of white South African farmers.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ONs1gpwkCrk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
