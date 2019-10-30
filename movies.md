@@ -69,7 +69,7 @@ More than two decades have passed since Sarah Connor prevented Judgment Day, cha
 	
 
 ### Ip Man 4: The Finale
-*Released on 2019-10-18, vote average 5.7*
+*Released on 2019-10-18, vote average 5.4*
 
 Ip Man 4 is an upcoming Hong Kong biographical martial arts film directed by Wilson Yip and produced by Raymond Wong. It is the fourth in the Ip Man film series based on the life of the Wing Chun grandmaster of the same name and features Donnie Yen reprising the role. The film began production in April 2018 and ended in July the same year.
 
@@ -179,7 +179,7 @@ A series of worldwide blackouts cause millions of mysterious cosmic anomalies to
 	
 
 ### Countdown
-*Released on 2019-10-25, vote average 5.3*
+*Released on 2019-10-25, vote average 6.8*
 
 A young nurse downloads an app that tells her she only has three days to live. With time ticking away and a mysterious figure haunting her, she must find a way to save her life before time runs out.
 
@@ -199,6 +199,35 @@ A young nurse downloads an app that tells her she only has three days to live. W
 
 	
 	
+
+### Doctor Sleep
+*Released on 2019-11-08, vote average 5*
+
+A traumatized, alcoholic Dan Torrance meets Abra, a kid who also has the ability to &#34;shine.&#34; He tries to protect her from the True Knot, a cult who&#39;s goal is to feed off people like them in order to remain immortal.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2msJTFvhkU4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -208,7 +237,7 @@ A young nurse downloads an app that tells her she only has three days to live. W
 	
 
 ### The Lighthouse
-*Released on 2019-10-18, vote average 8*
+*Released on 2019-10-18, vote average 7.9*
 
 The hypnotic and hallucinatory tale of two lighthouse keepers on a remote and mysterious New England island in the 1890s.
 
@@ -258,56 +287,12 @@ The hypnotic and hallucinatory tale of two lighthouse keepers on a remote and my
 
 
 	
-	
-
-### A Cinderella Story: Christmas Wish
-*Released on 2019-10-15, vote average 7.9*
-
-Kat is an aspiring singer-songwriter who dreams of making it big. However, her dreams are stalled by her reality: a conniving and cruel stepfamily  and a demoralizing job working as a singing elf at billionaire Terrence Wintergarden’s Santa Land.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/F0WNgGtRwy8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
 	
 	
-
-### The Kill Team
-*Released on 2019-10-25, vote average 6.2*
-
-When Andrew Briggman a young soldier in the US invasion of Afghanistan, witnesses other recruits killing innocent civilians under the direction of a sadistic leader, Sergeant Deeks  he considers reporting them to higher-ups -- but the heavily-armed, increasingly violent platoon becomes suspicious that someone in their ranks has turned on them, and Andrew begins to fear that he&#39;ll be the next target. The Kill Team is an urgent and explosive movie.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0mab6h2sE5g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 	
 
   
@@ -369,6 +354,18 @@ World War II veteran and mob hitman Frank &#34;The Irishman&#34; Sheeran recalls
 	
 
 	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
 	
 
 ### Harriet
@@ -385,35 +382,6 @@ The story of Harriet Tubman, who helped free hundreds of slaves from the South a
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	
-
-### Farmlands
-*Released on 2019-11-01, vote average 1.5*
-
-A detailing of the plight of white South African farmers.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ONs1gpwkCrk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
 	
 
 	
