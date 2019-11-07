@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Terminator: Dark Fate
-*Released on 2019-11-01, vote average 6.6*
+### Doctor Sleep
+*Released on 2019-11-08, vote average 7*
 
-More than two decades have passed since Sarah Connor prevented Judgment Day, changed the future, and re-wrote the fate of the human race. Dani Ramos is living a simple life in Mexico City with her brother and father when a highly advanced and deadly new Terminator – a Rev-9 – travels back through time to hunt and kill her. Dani&#39;s survival depends on her joining forces with two warriors: Grace, an enhanced super-soldier from the future, and a battle-hardened Sarah Connor. As the Rev-9 ruthlessly destroys everything and everyone in its path on the hunt for Dani, the three are led to a T-800 from Sarah’s past that may be their last best hope.
+A traumatized, alcoholic Dan Torrance meets Abra, a kid who also has the ability to &#34;shine.&#34; He tries to protect her from the True Knot, a cult whose goal is to feed off people like them in order to remain immortal.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/8CjYw1hARhY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/2msJTFvhkU4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -44,23 +44,6 @@ More than two decades have passed since Sarah Connor prevented Judgment Day, cha
 
 
 	
-	
-
-### Doctor Sleep
-*Released on 2019-11-08, vote average 7*
-
-A traumatized, alcoholic Dan Torrance meets Abra, a kid who also has the ability to &#34;shine.&#34; He tries to protect her from the True Knot, a cult whose goal is to feed off people like them in order to remain immortal.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2msJTFvhkU4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -68,16 +51,16 @@ A traumatized, alcoholic Dan Torrance meets Abra, a kid who also has the ability
 	
 	
 
-### Holiday in the Wild
-*Released on 2019-11-01, vote average 6.4*
+### The Irishman
+*Released on 2019-11-01, vote average 8.8*
 
-When her husband abruptly ends their marriage, empty nester Kate embarks on a solo second honeymoon in Africa, finding purpose and potential romance.
+World War II veteran and mob hitman Frank &#34;The Irishman&#34; Sheeran recalls his possible involvement with the slaying of union leader Jimmy Hoffa.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/8miCh30GcGU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/gfr44G1KJmc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,16 +95,16 @@ Exposure follows a rookie Detroit African-American female cop who stumbles upon 
 	
 	
 
-### Countdown
-*Released on 2019-10-25, vote average 7.1*
+### Holiday in the Wild
+*Released on 2019-11-01, vote average 6.4*
 
-A young nurse downloads an app that tells her she only has three days to live. With time ticking away and a mysterious figure haunting her, she must find a way to save her life before time runs out.
+When her husband abruptly ends their marriage, empty nester Kate embarks on a solo second honeymoon in Africa, finding purpose and potential romance.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/S6O4iy3Twwo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/8miCh30GcGU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,16 +117,16 @@ A young nurse downloads an app that tells her she only has three days to live. W
 	
 	
 
-### The Irishman
-*Released on 2019-11-01, vote average 8.7*
+### Seth Meyers: Lobby Baby
+*Released on 2019-11-05, vote average 10*
 
-World War II veteran and mob hitman Frank &#34;The Irishman&#34; Sheeran recalls his possible involvement with the slaying of union leader Jimmy Hoffa.
+SNL alumnus and subversive master of late-night Seth Meyers comes out from behind the desk to share some lighthearted stories from his own life.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/gfr44G1KJmc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/7FrHgiO2Jpo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -156,16 +139,38 @@ World War II veteran and mob hitman Frank &#34;The Irishman&#34; Sheeran recalls
 	
 	
 
-### Fire in Paradise
-*Released on 2019-11-01, vote average 6.3*
+### Last Christmas
+*Released on 2019-11-08, vote average 8.7*
 
-On 9/8/18 a fire broke out in California near the town of Paradise. Over the course of a few hours, the Camp Fire grew into the country’s deadliest wildfire in over a century. Through first-hand footage of the disaster and interviews with survivors and responders, FIRE IN PARADISE retells the survival stories from that day.
+Kate is a young woman subscribed to bad decisions. Her last date with disaster? That of having accepted to work as Santa&#39;s elf for a department store. However, she meets Tom there. Her life takes a new turn. For Kate, it seems too good to be true.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/5KNAl23NwME?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/z9CEIcmWmtA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Motherless Brooklyn
+*Released on 2019-11-01, vote average 8.2*
+
+Lionel Essrog, a private detective living with Tourette syndrome, ventures to solve the murder of his mentor and best friend — a mystery that carries him from the gin-soaked jazz clubs of Harlem to the slums of Brooklyn to the gilded halls of New York&#39;s power brokers.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Fru8IkuDp_k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -179,7 +184,7 @@ On 9/8/18 a fire broke out in California near the town of Paradise. Over the cou
 	
 
 ### Adopt a Highway
-*Released on 2019-11-01, vote average 8.2*
+*Released on 2019-11-01, vote average 8.5*
 
 An ex-felon discovers a live baby left in a dumpster.
 
@@ -192,50 +197,6 @@ An ex-felon discovers a live baby left in a dumpster.
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### Harriet
-*Released on 2019-11-01, vote average 8.7*
-
-The story of Harriet Tubman, who helped free hundreds of slaves from the South after escaping from slavery herself in 1849.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/GqoEs4cG6Uw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -276,16 +237,131 @@ Animals band together to save the day when the evil Otto Von Walrus hatches a si
 	
 	
 
-### Farmlands
-*Released on 2019-11-01, vote average 6.2*
+### Harriet
+*Released on 2019-11-01, vote average 8.9*
 
-A detailing of the plight of white South African farmers.
+The story of Harriet Tubman, who helped free hundreds of slaves from the South after escaping from slavery herself in 1849.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ONs1gpwkCrk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/GqoEs4cG6Uw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Countdown
+*Released on 2019-10-25, vote average 7.1*
+
+A young nurse downloads an app that tells her she only has three days to live. With time ticking away and a mysterious figure haunting her, she must find a way to save her life before time runs out.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/S6O4iy3Twwo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Rattlesnake
+*Released on 2019-10-25, vote average 5.2*
+
+After a mysterious woman saves her daughter from a deadly snakebite, a single mother must repay the debt by killing a stranger before sundown.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LhklHFwmBYw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### I Lost My Body
+*Released on 2019-10-19, vote average 9.5*
+
+Rosalie belongs to a young man named Naoufel. She is his right hand. But one day, a circular saw separates them. Rosalie escapes from the Med school refrigerator where she is awaiting dissection, determined to reunite with her body. While on the run, dodging traps and avoiding danger in the city, Rosalie looks back on her life with Naoufel. When she finds him, he’s in a terrible state. She decides to give him a &#34;hand&#34; in fulfilling his destiny, who goes by the name of Gabrielle.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IqWIL4dSDQY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Aeronauts
+*Released on 2019-12-06, vote average 6.5*
+
+Pilot Amelia Wren and scientist James Glaisher find themselves in an epic fight for survival while attempting to make discoveries in a hot air balloon.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Rm4VnwCtQO8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### La belle époque
+*Released on 2019-11-06, vote average 7*
+
+Victor, a disillusioned sexagenarian, sees his life turned upside down on the day when Antoine, a brilliant entrepreneur, offers him a new kind of attraction: mixing theatrical artifices and historical reconstruction, this company offers his clients a chance to dive back into the era of their choice. Victor then chose to relive the most memorable week of his life: the one where, 40 years earlier, he met the great love.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0j50LGau1Wk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -302,21 +378,9 @@ A detailing of the plight of white South African farmers.
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
-
-	
 
 	
 
@@ -358,6 +422,8 @@ A postman is posted to a frozen town in the North - where he discovers Santa Cla
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
