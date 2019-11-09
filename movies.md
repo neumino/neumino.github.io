@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Doctor Sleep
-*Released on 2019-11-08, vote average 6.9*
+*Released on 2019-11-08, vote average 7*
 
 A traumatized, alcoholic Dan Torrance meets Abra, a kid who also has the ability to &#34;shine.&#34; He tries to protect her from the True Knot, a cult whose goal is to feed off of people like them in order to remain immortal.
 
@@ -132,22 +132,22 @@ When her husband abruptly ends their marriage, empty nester Kate embarks on a so
 
 
 	
-	
 
-### Black and Blue
-*Released on 2019-10-25, vote average 5*
+  
 
-Exposure follows a rookie Detroit African-American female cop who stumbles upon corrupt officers who are murdering a drug dealer, an incident captured by her body cam. They pursue her through the night in an attempt to destroy the footage, but to make matters worse, they&#39;ve tipped off a criminal gang that she&#39;s responsible for the dealer&#39;s death.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/QCfSeVCr7ng?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -162,7 +162,7 @@ Exposure follows a rookie Detroit African-American female cop who stumbles upon 
 	
 
 ### Seth Meyers: Lobby Baby
-*Released on 2019-11-05, vote average 8*
+*Released on 2019-11-05, vote average 7.8*
 
 SNL alumnus and subversive master of late-night Seth Meyers comes out from behind the desk to share some lighthearted stories from his own life.
 
@@ -171,6 +171,28 @@ SNL alumnus and subversive master of late-night Seth Meyers comes out from behin
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/7FrHgiO2Jpo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Let It Snow
+*Released on 2019-11-08, vote average 7*
+
+When a huge blizzard (that doesn&#39;t show signs of stopping) hits, Gracetown is completely snowed in. But even though it&#39;s cold outside, things are heating up inside, proving that Christmas is magical when it comes to love.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pitxxQYZcug?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -205,8 +227,30 @@ A postman is posted to a frozen town in the North - where he discovers Santa Cla
 	
 	
 
+### Motherless Brooklyn
+*Released on 2019-11-01, vote average 7.9*
+
+Lionel Essrog, a private detective living with Tourette syndrome, ventures to solve the murder of his mentor and best friend — a mystery that carries him from the gin-soaked jazz clubs of Harlem to the slums of Brooklyn to the gilded halls of New York&#39;s power brokers.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Fru8IkuDp_k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Harriet
-*Released on 2019-11-01, vote average 8.8*
+*Released on 2019-11-01, vote average 8.2*
 
 The story of Harriet Tubman, who helped free hundreds of slaves from the South after escaping from slavery herself in 1849.
 
@@ -240,69 +284,27 @@ The story of Harriet Tubman, who helped free hundreds of slaves from the South a
 
 
 	
+
+  
+
+
+	
 	
 
-### Motherless Brooklyn
-*Released on 2019-11-01, vote average 8.2*
+### Image Makers: The Adventures of America’s Pioneer Cinematographers
+*Released on 2019-11-06, vote average 10*
 
-Lionel Essrog, a private detective living with Tourette syndrome, ventures to solve the murder of his mentor and best friend — a mystery that carries him from the gin-soaked jazz clubs of Harlem to the slums of Brooklyn to the gilded halls of New York&#39;s power brokers.
+Daniel Raim&#39;s documentary following the history of America&#39;s first cinematographers.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Fru8IkuDp_k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/7TkVi7gpViQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### La belle époque
-*Released on 2019-11-06, vote average 7.4*
-
-Victor, a disillusioned sexagenarian, sees his life turned upside down on the day when Antoine, a brilliant entrepreneur, offers him a new kind of attraction: mixing theatrical artifices and historical reconstruction, this company offers his clients a chance to dive back into the era of their choice. Victor then chose to relive the most memorable week of his life: the one where, 40 years earlier, he met the great love.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0j50LGau1Wk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -313,20 +315,18 @@ Victor, a disillusioned sexagenarian, sees his life turned upside down on the da
 
 
 	
-
-	
 	
 
-### Klaus
-*Released on 2019-11-08, vote average 6*
+### Frozen II
+*Released on 2019-11-22, vote average 3.5*
 
-A postman is posted to a frozen town in the North - where he discovers Santa Claus is hiding out.
+Elsa, Anna, Kristoff and Olaf are going far in the forest to know the truth about an ancient mystery of their kingdom.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/taE3PwurhYM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/eSLe4HuKuK0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -346,22 +346,7 @@ A postman is posted to a frozen town in the North - where he discovers Santa Cla
 	
 
 	
-	
 
-### Let It Snow
-*Released on 2019-11-08, vote average 7*
-
-When a huge blizzard (that doesn&#39;t show signs of stopping) hits, Gracetown is completely snowed in. But even though it&#39;s cold outside, things are heating up inside, proving that Christmas is magical when it comes to love.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pitxxQYZcug?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
