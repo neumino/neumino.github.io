@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Frozen II
-*Released on 2019-11-22, vote average 6.4*
+*Released on 2019-11-11, vote average 6.8*
 
 Elsa, Anna, Kristoff and Olaf are going far in the forest to know the truth about an ancient mystery of their kingdom.
 
@@ -47,7 +47,7 @@ Elsa, Anna, Kristoff and Olaf are going far in the forest to know the truth abou
 	
 
 ### Doctor Sleep
-*Released on 2019-11-08, vote average 7.1*
+*Released on 2019-10-30, vote average 7.1*
 
 A traumatized, alcoholic Dan Torrance meets Abra, a kid who also has the ability to &#34;shine.&#34; He tries to protect her from the True Knot, a cult whose goal is to feed off of people like them in order to remain immortal.
 
@@ -91,7 +91,7 @@ When a huge blizzard (that doesn&#39;t show signs of stopping) hits, Gracetown i
 	
 
 ### Midway
-*Released on 2019-11-08, vote average 5.8*
+*Released on 2019-11-06, vote average 6.1*
 
 The story of the soldiers and aviators who helped turn the tide of the Second World War during the iconic Battle of Midway in June 1942.
 
@@ -113,7 +113,7 @@ The story of the soldiers and aviators who helped turn the tide of the Second Wo
 	
 
 ### Last Christmas
-*Released on 2019-11-08, vote average 6.4*
+*Released on 2019-11-07, vote average 6.4*
 
 Kate is a young woman subscribed to bad decisions. Her last date with disaster? That of having accepted to work as Santa&#39;s elf for a department store. However, she meets Tom there. Her life takes a new turn. For Kate, it seems too good to be true.
 
@@ -135,7 +135,7 @@ Kate is a young woman subscribed to bad decisions. Her last date with disaster? 
 	
 
 ### Primal
-*Released on 2019-11-08, vote average 6.3*
+*Released on 2019-11-08, vote average 6*
 
 A big-game hunter for zoos who has booked passage on a Greek shipping freighter with a fresh haul of exotic and deadly animals from the Amazon, including a rare white Jaguar - along with a political assassin being extradited to the U.S in secret. Two days into the journey, the assassin escapes and releases the captive animals, throwing the ship into chaos.
 
@@ -148,6 +148,11 @@ A big-game hunter for zoos who has booked passage on a Greek shipping freighter 
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -177,21 +182,6 @@ World War II veteran and mob hitman Frank &#34;The Irishman&#34; Sheeran recalls
 
 	
 	
-
-### The Good Liar
-*Released on 2019-11-15, vote average 7*
-
-An aging con artist cannot believe his luck when he meets a wealthy widow and marks her as his next target. But she hides a secret of her own.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/U2xDIe01fFY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -201,7 +191,7 @@ An aging con artist cannot believe his luck when he meets a wealthy widow and ma
 	
 
 ### Playing with Fire
-*Released on 2019-11-08, vote average 7*
+*Released on 2019-11-08, vote average 7.4*
 
 A crew of rugged firefighters meet their match when attempting to rescue three rambunctious kids.
 
@@ -225,7 +215,7 @@ A crew of rugged firefighters meet their match when attempting to rescue three r
 ### Cosmos
 *Released on 2019-11-08, vote average 3.3*
 
-Three astronomers accidentally intercept what they believe to be a signal from a distant alien civilisation, but the truth is even more incredible than any of them could have imagined.
+Three astronomers accidentally intercept what they believe to be a signal from a distant alien civilization, but the truth is even more incredible than any of them could have imagined.
 
 <iframe id="player"
 	type="text/html"
@@ -242,73 +232,25 @@ Three astronomers accidentally intercept what they believe to be a signal from a
 
 
 	
-	
 
-### Motherless Brooklyn
-*Released on 2019-11-01, vote average 7.3*
+  
 
-Lionel Essrog, a private detective living with Tourette syndrome, ventures to solve the murder of his mentor and best friend — a mystery that carries him from the gin-soaked jazz clubs of Harlem to the slums of Brooklyn to the gilded halls of New York&#39;s power brokers.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Fru8IkuDp_k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
 
 
 	
-	
-
-### Seth Meyers: Lobby Baby
-*Released on 2019-11-05, vote average 7.4*
-
-SNL alumnus and subversive master of late-night Seth Meyers comes out from behind the desk to share some lighthearted stories from his own life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/7FrHgiO2Jpo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
 	
-	
-	
 
   
 
 
-	
-	
-
-### Klaus
-*Released on 2019-11-08, vote average 6*
-
-A postman is posted to a frozen town in the North - where he discovers Santa Claus is hiding out.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/taE3PwurhYM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -318,7 +260,7 @@ A postman is posted to a frozen town in the North - where he discovers Santa Cla
 	
 
 ### Holiday in the Wild
-*Released on 2019-11-01, vote average 6.5*
+*Released on 2019-11-01, vote average 6.6*
 
 When her husband abruptly ends their marriage, empty nester Kate embarks on a solo second honeymoon in Africa, finding purpose and potential romance.
 
@@ -338,16 +280,21 @@ When her husband abruptly ends their marriage, empty nester Kate embarks on a so
 
 	
 	
+
+### The Good Liar
+*Released on 2019-11-08, vote average 7.5*
+
+An aging con artist cannot believe his luck when he meets a wealthy widow and marks her as his next target. But she hides a secret of her own.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/U2xDIe01fFY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -371,7 +318,7 @@ When her husband abruptly ends their marriage, empty nester Kate embarks on a so
 	
 
 ### Charlie&#39;s Angels
-*Released on 2019-11-15, vote average 10*
+*Released on 2019-11-14, vote average 10*
 
 When a systems engineer blows the whistle on a dangerous technology, Charlie&#39;s Angels from across the globe are called into action, putting their lives on the line to protect society.
 
@@ -390,8 +337,6 @@ When a systems engineer blows the whistle on a dangerous technology, Charlie&#39
 
 	
 
-	
-	
 	
 
 	
