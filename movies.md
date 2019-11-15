@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Frozen II
-*Released on 2019-11-11, vote average 7.1*
+*Released on 2019-11-11, vote average 6.8*
 
 Elsa, Anna, Kristoff and Olaf are going far in the forest to know the truth about an ancient mystery of their kingdom.
 
@@ -46,28 +46,6 @@ Elsa, Anna, Kristoff and Olaf are going far in the forest to know the truth abou
 	
 	
 
-### Let It Snow
-*Released on 2019-11-08, vote average 6.4*
-
-When a huge blizzard (that doesn&#39;t show signs of stopping) hits, Gracetown is completely snowed in. But even though it&#39;s cold outside, things are heating up inside, proving that Christmas is magical when it comes to love.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pitxxQYZcug?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Midway
 *Released on 2019-11-06, vote average 6.2*
 
@@ -90,30 +68,8 @@ The story of the soldiers and aviators who helped turn the tide of the Second Wo
 	
 	
 
-### Primal
-*Released on 2019-11-08, vote average 5.5*
-
-A big-game hunter for zoos who has booked passage on a Greek shipping freighter with a fresh haul of exotic and deadly animals from the Amazon, including a rare white Jaguar - along with a political assassin being extradited to the U.S in secret. Two days into the journey, the assassin escapes and releases the captive animals, throwing the ship into chaos.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/7byXUosJCbU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Charlie&#39;s Angels
-*Released on 2019-11-14, vote average 10*
+*Released on 2019-11-14, vote average 8.8*
 
 When a systems engineer blows the whistle on a dangerous technology, Charlie&#39;s Angels from across the globe are called into action, putting their lives on the line to protect society.
 
@@ -132,11 +88,6 @@ When a systems engineer blows the whistle on a dangerous technology, Charlie&#39
 
 
 	
-
-  
-
-
-	
 	
 
 ### Lady and the Tramp
@@ -149,6 +100,72 @@ The love story between a pampered Cocker Spaniel named Lady and a streetwise mon
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/A2ZDDU34gYw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Let It Snow
+*Released on 2019-11-08, vote average 6.3*
+
+When a huge blizzard (that doesn&#39;t show signs of stopping) hits, Gracetown is completely snowed in. But even though it&#39;s cold outside, things are heating up inside, proving that Christmas is magical when it comes to love.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pitxxQYZcug?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Noelle
+*Released on 2019-11-12, vote average 6.7*
+
+Kris Kringle&#39;s daughter, Noelle, sets off on a mission to find and bring back her brother, after he gets cold feet when it&#39;s his turn to take over as Santa.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/DBDnQkQUTGU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Irishman
+*Released on 2019-11-01, vote average 8.7*
+
+World War II veteran and mob hitman Frank &#34;The Irishman&#34; Sheeran recalls his possible involvement with the slaying of union leader Jimmy Hoffa.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/gfr44G1KJmc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -181,18 +198,30 @@ Kate is a young woman subscribed to bad decisions. Her last date with disaster? 
 
 
 	
+
+  
+
+
+	
+	
 	
 
-### The Irishman
-*Released on 2019-11-01, vote average 8.8*
+  
 
-World War II veteran and mob hitman Frank &#34;The Irishman&#34; Sheeran recalls his possible involvement with the slaying of union leader Jimmy Hoffa.
+
+	
+	
+
+### Primal
+*Released on 2019-11-08, vote average 5.5*
+
+A big-game hunter for zoos who has booked passage on a Greek shipping freighter with a fresh haul of exotic and deadly animals from the Amazon, including a rare white Jaguar - along with a political assassin being extradited to the U.S in secret. Two days into the journey, the assassin escapes and releases the captive animals, throwing the ship into chaos.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/gfr44G1KJmc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/7byXUosJCbU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -203,7 +232,15 @@ World War II veteran and mob hitman Frank &#34;The Irishman&#34; Sheeran recalls
 
 
 	
+
+  
+
+
 	
+
+  
+
+
 	
 
   
@@ -239,77 +276,6 @@ A crew of rugged firefighters meet their match when attempting to rescue three r
 	
 	
 
-### Cosmos
-*Released on 2019-11-08, vote average 3.3*
-
-Three astronomers accidentally intercept what they believe to be a signal from a distant alien civilization, but the truth is even more incredible than any of them could have imagined.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/b95XIREFJwo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Holiday in the Wild
-*Released on 2019-11-01, vote average 6.6*
-
-When her husband abruptly ends their marriage, empty nester Kate embarks on a solo second honeymoon in Africa, finding purpose and potential romance.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8miCh30GcGU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### The Good Liar
 *Released on 2019-11-08, vote average 7.5*
 
@@ -329,28 +295,28 @@ An aging con artist cannot believe his luck when he meets a wealthy widow and ma
   
 
 
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
 
 ## Opening soon
 
 
 	
-	
-
-### Charlie&#39;s Angels
-*Released on 2019-11-14, vote average 10*
-
-When a systems engineer blows the whistle on a dangerous technology, Charlie&#39;s Angels from across the globe are called into action, putting their lives on the line to protect society.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/RSUq4VfWfjE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
@@ -366,24 +332,6 @@ When a systems engineer blows the whistle on a dangerous technology, Charlie&#39
 
 	
 
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	
 	
 
 	
@@ -408,7 +356,23 @@ Motichoor Chaknachoor is an upcoming 2019 Indian Hindi-language comedy drama fil
 	
 
 	
+
 	
+
+	
+
+	
+
+	
+	
+	
+
+	
+
+	
+
+	
+
 	
 
 
