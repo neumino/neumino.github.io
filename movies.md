@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Frozen II
-*Released on 2019-11-11, vote average 6.8*
+### Charlie&#39;s Angels
+*Released on 2019-11-14, vote average 7.7*
 
-Elsa, Anna, Kristoff and Olaf are going far in the forest to know the truth about an ancient mystery of their kingdom.
+When a systems engineer blows the whistle on a dangerous technology, Charlie&#39;s Angels from across the globe are called into action, putting their lives on the line to protect society.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/eSLe4HuKuK0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/RSUq4VfWfjE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -40,50 +40,6 @@ Elsa, Anna, Kristoff and Olaf are going far in the forest to know the truth abou
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-
-
-	
-	
-
-### Midway
-*Released on 2019-11-06, vote average 6.2*
-
-The story of the soldiers and aviators who helped turn the tide of the Second World War during the iconic Battle of Midway in June 1942.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Z_7eN5iloyk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Charlie&#39;s Angels
-*Released on 2019-11-14, vote average 8.8*
-
-When a systems engineer blows the whistle on a dangerous technology, Charlie&#39;s Angels from across the globe are called into action, putting their lives on the line to protect society.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/RSUq4VfWfjE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
   
 
 
@@ -112,16 +68,16 @@ The love story between a pampered Cocker Spaniel named Lady and a streetwise mon
 	
 	
 
-### Let It Snow
-*Released on 2019-11-08, vote average 6.3*
+### Midway
+*Released on 2019-11-06, vote average 6.1*
 
-When a huge blizzard (that doesn&#39;t show signs of stopping) hits, Gracetown is completely snowed in. But even though it&#39;s cold outside, things are heating up inside, proving that Christmas is magical when it comes to love.
+The story of the soldiers and aviators who helped turn the tide of the Second World War during the iconic Battle of Midway in June 1942.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/pitxxQYZcug?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Z_7eN5iloyk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -135,7 +91,7 @@ When a huge blizzard (that doesn&#39;t show signs of stopping) hits, Gracetown i
 	
 
 ### Noelle
-*Released on 2019-11-12, vote average 6.7*
+*Released on 2019-11-12, vote average 7.7*
 
 Kris Kringle&#39;s daughter, Noelle, sets off on a mission to find and bring back her brother, after he gets cold feet when it&#39;s his turn to take over as Santa.
 
@@ -153,23 +109,6 @@ Kris Kringle&#39;s daughter, Noelle, sets off on a mission to find and bring bac
   
 
 
-	
-	
-
-### The Irishman
-*Released on 2019-11-01, vote average 8.7*
-
-World War II veteran and mob hitman Frank &#34;The Irishman&#34; Sheeran recalls his possible involvement with the slaying of union leader Jimmy Hoffa.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/gfr44G1KJmc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -198,12 +137,34 @@ Kate is a young woman subscribed to bad decisions. Her last date with disaster? 
 
 
 	
+	
+
+### Let It Snow
+*Released on 2019-11-08, vote average 6.4*
+
+When a huge blizzard (that doesn&#39;t show signs of stopping) hits, Gracetown is completely snowed in. But even though it&#39;s cold outside, things are heating up inside, proving that Christmas is magical when it comes to love.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pitxxQYZcug?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
 	
 	
+	
+
+  
+
+
 	
 
   
@@ -213,7 +174,7 @@ Kate is a young woman subscribed to bad decisions. Her last date with disaster? 
 	
 
 ### Primal
-*Released on 2019-11-08, vote average 5.5*
+*Released on 2019-11-08, vote average 5.3*
 
 A big-game hunter for zoos who has booked passage on a Greek shipping freighter with a fresh haul of exotic and deadly animals from the Amazon, including a rare white Jaguar - along with a political assassin being extradited to the U.S in secret. Two days into the journey, the assassin escapes and releases the captive animals, throwing the ship into chaos.
 
@@ -247,6 +208,28 @@ A big-game hunter for zoos who has booked passage on a Greek shipping freighter 
 
 
 	
+	
+
+### The Good Liar
+*Released on 2019-11-08, vote average 7.7*
+
+An aging con artist cannot believe his luck when he meets a wealthy widow and marks her as his next target. But she hides a secret of her own.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/U2xDIe01fFY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 
   
 
@@ -274,23 +257,6 @@ A crew of rugged firefighters meet their match when attempting to rescue three r
 
 
 	
-	
-
-### The Good Liar
-*Released on 2019-11-08, vote average 7.5*
-
-An aging con artist cannot believe his luck when he meets a wealthy widow and marks her as his next target. But she hides a secret of her own.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/U2xDIe01fFY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -300,8 +266,6 @@ An aging con artist cannot believe his luck when he meets a wealthy widow and ma
   
 
 
-	
-	
 	
 
   
@@ -317,40 +281,44 @@ An aging con artist cannot believe his luck when he meets a wealthy widow and ma
 
 
 	
-
 	
 
-	
+### Frozen II
+*Released on 2019-11-20, vote average 6.2*
 
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	
-
-### Motichoor Chaknachoor
-*Released on 2019-11-15, vote average 10*
-
-Motichoor Chaknachoor is an upcoming 2019 Indian Hindi-language comedy drama film directed by Debamitra Biswal and produced by Rajiv and Kiran Bhatia. Starring Nawazuddin Siddiqui and Athiya Shetty in the lead roles and follows the story of a 36 year old man trying to find a wife
+Elsa, Anna, Kristoff and Olaf are going far in the forest to know the truth about an ancient mystery of their kingdom.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/rrpdaG_nSF8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/eSLe4HuKuK0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+	
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+	
+
+	
+
 	
 
 	
