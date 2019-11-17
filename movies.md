@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Charlie&#39;s Angels
-*Released on 2019-11-14, vote average 7.7*
+*Released on 2019-11-14, vote average 7.6*
 
 When a systems engineer blows the whistle on a dangerous technology, Charlie&#39;s Angels from across the globe are called into action, putting their lives on the line to protect society.
 
@@ -69,7 +69,7 @@ The love story between a pampered Cocker Spaniel named Lady and a streetwise mon
 	
 
 ### Midway
-*Released on 2019-11-06, vote average 6.1*
+*Released on 2019-11-06, vote average 6*
 
 The story of the soldiers and aviators who helped turn the tide of the Second World War during the iconic Battle of Midway in June 1942.
 
@@ -91,7 +91,7 @@ The story of the soldiers and aviators who helped turn the tide of the Second Wo
 	
 
 ### Noelle
-*Released on 2019-11-12, vote average 7.7*
+*Released on 2019-11-12, vote average 7.5*
 
 Kris Kringle&#39;s daughter, Noelle, sets off on a mission to find and bring back her brother, after he gets cold feet when it&#39;s his turn to take over as Santa.
 
@@ -140,7 +140,7 @@ Kate is a young woman subscribed to bad decisions. Her last date with disaster? 
 	
 
 ### Let It Snow
-*Released on 2019-11-08, vote average 6.4*
+*Released on 2019-11-08, vote average 6.3*
 
 When a huge blizzard (that doesn&#39;t show signs of stopping) hits, Gracetown is completely snowed in. But even though it&#39;s cold outside, things are heating up inside, proving that Christmas is magical when it comes to love.
 
@@ -159,12 +159,59 @@ When a huge blizzard (that doesn&#39;t show signs of stopping) hits, Gracetown i
 
 
 	
+
+  
+
+
+	
+	
+
+### Ellipse
+*Released on 2019-11-05, vote average 4*
+
+A man and his dog are stranded on a volatile, oval-shaped planet and are forced to adapt and escape before time destroys them both.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/yFvyElYcnDA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Aeronauts
+*Released on 2019-11-04, vote average 6.7*
+
+Pilot Amelia Wren and scientist James Glaisher find themselves in an epic fight for survival while attempting to make discoveries in a hot air balloon.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Rm4VnwCtQO8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -174,7 +221,7 @@ When a huge blizzard (that doesn&#39;t show signs of stopping) hits, Gracetown i
 	
 
 ### Primal
-*Released on 2019-11-08, vote average 5.3*
+*Released on 2019-11-08, vote average 5.1*
 
 A big-game hunter for zoos who has booked passage on a Greek shipping freighter with a fresh haul of exotic and deadly animals from the Amazon, including a rare white Jaguar - along with a political assassin being extradited to the U.S in secret. Two days into the journey, the assassin escapes and releases the captive animals, throwing the ship into chaos.
 
@@ -198,10 +245,7 @@ A big-game hunter for zoos who has booked passage on a Greek shipping freighter 
 
 
 	
-
-  
-
-
+	
 	
 
   
@@ -211,7 +255,7 @@ A big-game hunter for zoos who has booked passage on a Greek shipping freighter 
 	
 
 ### The Good Liar
-*Released on 2019-11-08, vote average 7.7*
+*Released on 2019-11-08, vote average 7.3*
 
 An aging con artist cannot believe his luck when he meets a wealthy widow and marks her as his next target. But she hides a secret of her own.
 
@@ -235,10 +279,20 @@ An aging con artist cannot believe his luck when he meets a wealthy widow and ma
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### Playing with Fire
-*Released on 2019-11-08, vote average 7.6*
+*Released on 2019-11-08, vote average 7.5*
 
 A crew of rugged firefighters meet their match when attempting to rescue three rambunctious kids.
 
@@ -256,43 +310,29 @@ A crew of rugged firefighters meet their match when attempting to rescue three r
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
 
 	
+
 	
 
-### Frozen II
-*Released on 2019-11-20, vote average 6.2*
+	
 
-Elsa, Anna, Kristoff and Olaf are going far in the forest to know the truth about an ancient mystery of their kingdom.
+	
+	
+
+### A Beautiful Day in the Neighborhood
+*Released on 2019-11-22, vote average 10*
+
+An award-winning cynical journalist, Lloyd Vogel, begrudgingly accepts an assignment to write an Esquire profile piece on the beloved television icon Fred Rogers. After his encounter with Rogers, Vogel&#39;s perspective on life is transformed.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/eSLe4HuKuK0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-VLEPhfEN2M?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -301,6 +341,27 @@ Elsa, Anna, Kristoff and Olaf are going far in the forest to know the truth abou
 
 	
 	
+
+### Marriage Story
+*Released on 2019-11-21, vote average 9*
+
+A stage director and his actor wife struggle through a grueling, coast-to-coast divorce that pushes them to their personal and creative extremes.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/VfBSbgaqPr8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+	
 	
 
 	
@@ -314,25 +375,13 @@ Elsa, Anna, Kristoff and Olaf are going far in the forest to know the truth abou
 	
 
 	
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
 
 	
 
 	
 	
+	
+
 	
 
 	
