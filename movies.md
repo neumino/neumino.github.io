@@ -68,30 +68,8 @@ When a systems engineer blows the whistle on a dangerous technology, Charlie&#39
 	
 	
 
-### Lady and the Tramp
-*Released on 2019-11-12, vote average 7.3*
-
-The love story between a pampered Cocker Spaniel named Lady and a streetwise mongrel named Tramp. Lady finds herself out on the street after her owners have a baby and is saved from a pack by Tramp, who tries to show her to live her life footloose and collar-free.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/A2ZDDU34gYw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Klaus
-*Released on 2019-11-08, vote average 8.8*
+*Released on 2019-11-08, vote average 8.7*
 
 When Jesper distinguishes himself as the Postal Academy&#39;s worst student, he is sent to Smeerensburg, a small village located on a icy island above the Arctic Circle, where grumpy inhabitants barely exchange words, let alone letters. Jesper is about to give up and abandon his duty as a postman when he meets local teacher Alva and Klaus, a mysterious carpenter who lives alone in a cabin full of handmade toys.
 
@@ -112,16 +90,16 @@ When Jesper distinguishes himself as the Postal Academy&#39;s worst student, he 
 	
 	
 
-### Midway
-*Released on 2019-11-06, vote average 6.4*
+### Lady and the Tramp
+*Released on 2019-11-12, vote average 7.2*
 
-The story of the soldiers and aviators who helped turn the tide of the Second World War during the iconic Battle of Midway in June 1942.
+The love story between a pampered Cocker Spaniel named Lady and a streetwise mongrel named Tramp. Lady finds herself out on the street after her owners have a baby and is saved from a pack by Tramp, who tries to show her to live her life footloose and collar-free.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Z_7eN5iloyk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/A2ZDDU34gYw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -142,7 +120,7 @@ The story of the soldiers and aviators who helped turn the tide of the Second Wo
 	
 
 ### Noelle
-*Released on 2019-11-12, vote average 7.6*
+*Released on 2019-11-12, vote average 7.7*
 
 Kris Kringle&#39;s daughter, Noelle, sets off on a mission to find and bring back her brother, after he gets cold feet when it&#39;s his turn to take over as Santa.
 
@@ -184,16 +162,9 @@ Kate is a young woman subscribed to bad decisions. Her last date with disaster? 
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Let It Snow
-*Released on 2019-11-08, vote average 6.3*
+*Released on 2019-11-08, vote average 6.2*
 
 When a huge blizzard (that doesn&#39;t show signs of stopping) hits, Gracetown is completely snowed in. But even though it&#39;s cold outside, things are heating up inside, proving that Christmas is magical when it comes to love.
 
@@ -206,6 +177,67 @@ When a huge blizzard (that doesn&#39;t show signs of stopping) hits, Gracetown i
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Iliza Shlesinger: Unveiled
+*Released on 2019-11-19, vote average 6*
+
+Comedian Iliza Shlesinger dissects her recent wedding with riffs on screeching bachelorette parties, that creepy garter removal tradition and more.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ATDhYdHbvc0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -234,30 +266,6 @@ When a nuclear strike causes an electromagnetic pulse that cuts off all power, w
 
 
 	
-	
-	
-
-  
-
-
-	
-	
-
-### Cosmos
-*Released on 2019-11-08, vote average 4.2*
-
-Three astronomers accidentally intercept what they believe to be a signal from a distant alien civilization, but the truth is even more incredible than any of them could have imagined.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/4j-PzuxcKcc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -270,84 +278,6 @@ Three astronomers accidentally intercept what they believe to be a signal from a
 
 
 	
-	
-
-### The Good Liar
-*Released on 2019-11-08, vote average 6.6*
-
-An aging con artist cannot believe his luck when he meets a wealthy widow and marks her as his next target. But she hides a secret of her own.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/U2xDIe01fFY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Playing with Fire
-*Released on 2019-11-08, vote average 7.8*
-
-A crew of rugged firefighters meet their match when attempting to rescue three rambunctious kids.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/bJgFuw0-KdE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Marriage Story
-*Released on 2019-11-15, vote average 9.1*
-
-A stage director and his actor wife struggle through a grueling, coast-to-coast divorce that pushes them to their personal and creative extremes.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/VfBSbgaqPr8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -357,25 +287,6 @@ A stage director and his actor wife struggle through a grueling, coast-to-coast 
 
 ## Opening soon
 
-
-	
-	
-
-### Frozen II
-*Released on 2019-11-20, vote average 5.1*
-
-Elsa, Anna, Kristoff and Olaf are going far in the forest to know the truth about an ancient mystery of their kingdom.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/eSLe4HuKuK0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
@@ -401,17 +312,7 @@ An award-winning cynical journalist, Lloyd Vogel, begrudgingly accepts an assign
 	
 
 	
-
 	
-
-	
-
-	
-	
-	
-
-	
-
 	
 
 	
@@ -426,6 +327,35 @@ An award-winning cynical journalist, Lloyd Vogel, begrudgingly accepts an assign
 
 	
 
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Blood Bound
+*Released on 2019-11-21, vote average 9*
+
+Bound to an ancient pact, a family of unlimited power descend upon a small rural town to sacrifice 4 human lives, one being a member of their own family.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-oWlUnXCzw8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
