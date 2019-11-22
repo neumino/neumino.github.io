@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Frozen II
-*Released on 2019-11-20, vote average 5.1*
+*Released on 2019-11-20, vote average 5.6*
 
 Elsa, Anna, Kristoff and Olaf are going far in the forest to know the truth about an ancient mystery of their kingdom.
 
@@ -91,7 +91,7 @@ When Jesper distinguishes himself as the Postal Academy&#39;s worst student, he 
 	
 
 ### Lady and the Tramp
-*Released on 2019-11-12, vote average 7.2*
+*Released on 2019-11-12, vote average 7.3*
 
 The love story between a pampered Cocker Spaniel named Lady and a streetwise mongrel named Tramp. Lady finds herself out on the street after her owners have a baby and is saved from a pack by Tramp, who tries to show her to live her life footloose and collar-free.
 
@@ -141,28 +141,6 @@ Kris Kringle&#39;s daughter, Noelle, sets off on a mission to find and bring bac
 	
 	
 
-### Last Christmas
-*Released on 2019-11-07, vote average 6.5*
-
-Kate is a young woman subscribed to bad decisions. Her last date with disaster? That of having accepted to work as Santa&#39;s elf for a department store. However, she meets Tom there. Her life takes a new turn. For Kate, it seems too good to be true.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/z9CEIcmWmtA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Let It Snow
 *Released on 2019-11-08, vote average 6.2*
 
@@ -177,6 +155,11 @@ When a huge blizzard (that doesn&#39;t show signs of stopping) hits, Gracetown i
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -210,6 +193,33 @@ Comedian Iliza Shlesinger dissects her recent wedding with riffs on screeching b
 
 
 	
+	
+
+### A Beautiful Day in the Neighborhood
+*Released on 2019-11-22, vote average 10*
+
+An award-winning cynical journalist, Lloyd Vogel, begrudgingly accepts an assignment to write an Esquire profile piece on the beloved television icon Fred Rogers. After his encounter with Rogers, Vogel&#39;s perspective on life is transformed.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-VLEPhfEN2M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 
   
 
@@ -221,8 +231,6 @@ Comedian Iliza Shlesinger dissects her recent wedding with riffs on screeching b
   
 
 
-	
-	
 	
 
   
@@ -266,18 +274,6 @@ When a nuclear strike causes an electromagnetic pulse that cuts off all power, w
 
 
 	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -312,13 +308,7 @@ An award-winning cynical journalist, Lloyd Vogel, begrudgingly accepts an assign
 	
 
 	
-	
-	
 
-	
-
-	
-	
 	
 
 	
@@ -340,22 +330,7 @@ An award-winning cynical journalist, Lloyd Vogel, begrudgingly accepts an assign
 	
 
 	
-	
 
-### Blood Bound
-*Released on 2019-11-21, vote average 9*
-
-Bound to an ancient pact, a family of unlimited power descend upon a small rural town to sacrifice 4 human lives, one being a member of their own family.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-oWlUnXCzw8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
