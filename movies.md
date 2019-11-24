@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Frozen II
-*Released on 2019-11-20, vote average 6.2*
+*Released on 2019-11-20, vote average 6.6*
 
 Elsa, Anna, Kristoff and Olaf are going far in the forest to know the truth about an ancient mystery of their kingdom.
 
@@ -47,7 +47,7 @@ Elsa, Anna, Kristoff and Olaf are going far in the forest to know the truth abou
 	
 
 ### Charlie&#39;s Angels
-*Released on 2019-11-14, vote average 6.6*
+*Released on 2019-11-14, vote average 6.5*
 
 When a systems engineer blows the whistle on a dangerous technology, Charlie&#39;s Angels from across the globe are called into action, putting their lives on the line to protect society.
 
@@ -59,35 +59,6 @@ When a systems engineer blows the whistle on a dangerous technology, Charlie&#39
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
-	
-
-### A Beautiful Day in the Neighborhood
-*Released on 2019-11-22, vote average 10*
-
-An award-winning cynical journalist, Lloyd Vogel, begrudgingly accepts an assignment to write an Esquire profile piece on the beloved television icon Fred Rogers. After his encounter with Rogers, Vogel&#39;s perspective on life is transformed.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-VLEPhfEN2M?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -111,6 +82,38 @@ A movie about a medieval English knight who is magically transported to present 
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### A Beautiful Day in the Neighborhood
+*Released on 2019-11-22, vote average 8.4*
+
+An award-winning cynical journalist, Lloyd Vogel, begrudgingly accepts an assignment to write an Esquire profile piece on the beloved television icon Fred Rogers. After his encounter with Rogers, Vogel&#39;s perspective on life is transformed.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-VLEPhfEN2M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -144,6 +147,53 @@ The love story between a pampered Cocker Spaniel named Lady and a streetwise mon
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Blue Story
+*Released on 2019-11-22, vote average 10*
+
+Feature adaptation of Rapman&#39;s YouTube series about two young friends who become rivals in a street war.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/l_O9hsfl6Bo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 
 ### Noelle
@@ -166,8 +216,6 @@ Kris Kringle&#39;s daughter, Noelle, sets off on a mission to find and bring bac
 
 
 	
-	
-	
 
   
 
@@ -183,57 +231,22 @@ Kris Kringle&#39;s daughter, Noelle, sets off on a mission to find and bring bac
 
 
 	
-
-  
-
-
 	
 
-  
+### Shooting the Mafia
+*Released on 2019-11-22, vote average 10*
 
-
-	
-	
-
-### Iliza Shlesinger: Unveiled
-*Released on 2019-11-19, vote average 7*
-
-Comedian Iliza Shlesinger dissects her recent wedding with riffs on screeching bachelorette parties, that creepy garter removal tradition and more.
+Sicilian Letizia Battaglia began a lifelong battle with the Mafia when she first pointed her camera at a brutally slain victim. Documenting the Cosa Nostra’s barbaric rule, she bore unflinching witness to their crimes. Her photographs, art, and bravery helped bring an end to a shocking reign of slaughter.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ATDhYdHbvc0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/gsG4Yn1LvNY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -249,6 +262,23 @@ Comedian Iliza Shlesinger dissects her recent wedding with riffs on screeching b
 
 
 	
+	
+
+### Knives Out
+*Released on 2019-11-27, vote average 10*
+
+When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate. From Harlan&#39;s dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan&#39;s untimely death.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qGqiHJTsRkQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
@@ -259,9 +289,9 @@ Comedian Iliza Shlesinger dissects her recent wedding with riffs on screeching b
 	
 
 	
-	
-	
 
+	
+	
 	
 
 	
