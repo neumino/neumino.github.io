@@ -46,55 +46,6 @@ Elsa, Anna, Kristoff and Olaf are going far in the forest to know the truth abou
 	
 	
 
-### The Knight Before Christmas
-*Released on 2019-11-21, vote average 6.6*
-
-A movie about a medieval English knight who is magically transported to present day where he ends up falling for a high school science teacher.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-JtwROpSVWc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Ford v Ferrari
-*Released on 2019-11-13, vote average 8.1*
-
-American car designer Carroll Shelby and the British-born driver Ken Miles work together to battle corporate interference, the laws of physics, and their own personal demons to build a revolutionary race car for Ford Motor Company and take on the dominating race cars of Enzo Ferrari at the 24 Hours of Le Mans in France in 1966.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zyYgDtY2AMY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### Charlie&#39;s Angels
 *Released on 2019-11-14, vote average 6.3*
 
@@ -139,8 +90,30 @@ When renowned crime novelist Harlan Thrombey is found dead at his estate just af
 	
 	
 
+### The Knight Before Christmas
+*Released on 2019-11-21, vote average 6.7*
+
+A medieval English knight is magically transported to present day where he ends up falling for a high school science teacher.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-JtwROpSVWc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### 3022
-*Released on 2019-11-22, vote average 5.3*
+*Released on 2019-11-22, vote average 6.4*
 
 A group of astronauts living in the haunting emptiness of deep space awakens to find earth has suffered an extinction-level event.
 
@@ -158,23 +131,6 @@ A group of astronauts living in the haunting emptiness of deep space awakens to 
   
 
 
-	
-	
-
-### The Courier
-*Released on 2019-11-22, vote average 4*
-
-This intense action-thriller unfolds in real time as two embattled souls fight for their lives. Gary Oldman stars as a vicious crime boss out to kill Nick, the lone witness set to testify against him. He hires a mysterious female motorcycle courier to unknowingly deliver a poison-gas bomb to slay Nick, but after she rescues Nick from certain death, the duo must confront an army of ruthless hired killers in order to survive the night.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EcaNxEVqsnM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -207,6 +163,35 @@ An award-winning cynical journalist, Lloyd Vogel, begrudgingly accepts an assign
   
 
 
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Courier
+*Released on 2019-11-22, vote average 4.4*
+
+This intense action-thriller unfolds in real time as two embattled souls fight for their lives. Gary Oldman stars as a vicious crime boss out to kill Nick, the lone witness set to testify against him. He hires a mysterious female motorcycle courier to unknowingly deliver a poison-gas bomb to slay Nick, but after she rescues Nick from certain death, the duo must confront an army of ruthless hired killers in order to survive the night.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EcaNxEVqsnM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -270,7 +255,7 @@ An exploration of America’s social and political climate through the lens of a
 	
 
 ### Blue Story
-*Released on 2019-11-22, vote average 10*
+*Released on 2019-11-22, vote average 8.2*
 
 Feature adaptation of Rapman&#39;s YouTube series about two young friends who become rivals in a street war.
 
@@ -298,45 +283,9 @@ Feature adaptation of Rapman&#39;s YouTube series about two young friends who be
 
 
 	
-	
-
-### Knives Out
-*Released on 2019-11-27, vote average 7.9*
-
-When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate. From Harlan&#39;s dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan&#39;s untimely death.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qGqiHJTsRkQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
-	
-
-	
-	
-
-### Queen &amp; Slim
-*Released on 2019-11-27, vote average 9*
-
-An exploration of America’s social and political climate through the lens of a genre-defying love story. The film centers on a black man and black woman who go on a first date that goes awry after the two are pulled over by a police officer at a traffic stop. They kill the police officer in self-defense and rather than turn themselves in, they go on the run.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/JW4RgX08xXw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
@@ -364,7 +313,7 @@ An exploration of America’s social and political climate through the lens of a
 	
 
 	
-	
+
 	
 
 	
