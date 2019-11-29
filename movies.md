@@ -15,7 +15,7 @@ This is a convenient page that embeds trailers of movies released in the past
 ### Frozen II
 *Released on 2019-11-20, vote average 7*
 
-Elsa, Anna, Kristoff and Olaf are going far in the forest to know the truth about an ancient mystery of their kingdom.
+Elsa, Anna, Kristoff and Olaf head far into the forest to learn the truth about an ancient mystery of their kingdom.
 
 <iframe id="player"
 	type="text/html"
@@ -46,30 +46,8 @@ Elsa, Anna, Kristoff and Olaf are going far in the forest to know the truth abou
 	
 	
 
-### Charlie&#39;s Angels
-*Released on 2019-11-14, vote average 6.3*
-
-When a systems engineer blows the whistle on a dangerous technology, Charlie&#39;s Angels from across the globe are called into action, putting their lives on the line to protect society.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/RSUq4VfWfjE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Knives Out
-*Released on 2019-11-27, vote average 7.9*
+*Released on 2019-11-27, vote average 7.7*
 
 When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate. From Harlan&#39;s dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan&#39;s untimely death.
 
@@ -113,7 +91,7 @@ A medieval English knight is magically transported to present day where he ends 
 	
 
 ### 3022
-*Released on 2019-11-22, vote average 6.4*
+*Released on 2019-11-22, vote average 6*
 
 A group of astronauts living in the haunting emptiness of deep space awakens to find earth has suffered an extinction-level event.
 
@@ -132,6 +110,94 @@ A group of astronauts living in the haunting emptiness of deep space awakens to 
 
 
 	
+	
+
+### Never Surrender: A Galaxy Quest Documentary
+*Released on 2019-11-26, vote average 5*
+
+A feature-length documentary about the film Galaxy Quest and its legacy, celebrating its milestone 20th anniversary.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/39cVvN28UXE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Stay Out Stay Alive
+*Released on 2019-11-26, vote average 4*
+
+After an earthquake uncovers an abandoned goldmine, a hiker falls in and is trapped, forcing friends to grapple with a moral dilemma that spirals into madness.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/CHYBdfPOYFI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Mike Birbiglia: The New One
+*Released on 2019-11-26, vote average 8*
+
+Comedian Mike Birbiglia hits Broadway with a hilarious yet profound one-man show that recounts his emotional and physical journey to parenthood.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/VplF60-o0Qk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Courier
+*Released on 2019-11-22, vote average 4.4*
+
+This intense action-thriller unfolds in real time as two embattled souls fight for their lives. Gary Oldman stars as a vicious crime boss out to kill Nick, the lone witness set to testify against him. He hires a mysterious female motorcycle courier to unknowingly deliver a poison-gas bomb to slay Nick, but after she rescues Nick from certain death, the duo must confront an army of ruthless hired killers in order to survive the night.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EcaNxEVqsnM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -140,7 +206,7 @@ A group of astronauts living in the haunting emptiness of deep space awakens to 
 	
 
 ### A Beautiful Day in the Neighborhood
-*Released on 2019-11-22, vote average 7.3*
+*Released on 2019-11-22, vote average 7*
 
 An award-winning cynical journalist, Lloyd Vogel, begrudgingly accepts an assignment to write an Esquire profile piece on the beloved television icon Fred Rogers. After his encounter with Rogers, Vogel&#39;s perspective on life is transformed.
 
@@ -177,48 +243,33 @@ An award-winning cynical journalist, Lloyd Vogel, begrudgingly accepts an assign
 
 	
 	
+	
 
-### The Courier
-*Released on 2019-11-22, vote average 4.4*
+  
 
-This intense action-thriller unfolds in real time as two embattled souls fight for their lives. Gary Oldman stars as a vicious crime boss out to kill Nick, the lone witness set to testify against him. He hires a mysterious female motorcycle courier to unknowingly deliver a poison-gas bomb to slay Nick, but after she rescues Nick from certain death, the duo must confront an army of ruthless hired killers in order to survive the night.
+
+	
+
+  
+
+
+	
+	
+
+### The Driver
+*Released on 2019-11-25, vote average 3*
+
+In a zombie apocalypse, one man desperately tries to keep his family alive.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/EcaNxEVqsnM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/R_1wvCJRArU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -247,6 +298,8 @@ An exploration of America’s social and political climate through the lens of a
 
 
 	
+	
+	
 
   
 
@@ -274,6 +327,8 @@ Feature adaptation of Rapman&#39;s YouTube series about two young friends who be
 
 
 	
+	
+	
 
   
 
@@ -286,6 +341,8 @@ Feature adaptation of Rapman&#39;s YouTube series about two young friends who be
 
 	
 
+	
+	
 	
 
 	
