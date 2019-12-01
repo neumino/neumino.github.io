@@ -47,7 +47,7 @@ Elsa, Anna, Kristoff and Olaf head far into the forest to learn the truth about 
 	
 
 ### Knives Out
-*Released on 2019-11-27, vote average 7.8*
+*Released on 2019-11-27, vote average 7.9*
 
 When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate. From Harlan&#39;s dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan&#39;s untimely death.
 
@@ -56,28 +56,6 @@ When renowned crime novelist Harlan Thrombey is found dead at his estate just af
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/qGqiHJTsRkQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Knight Before Christmas
-*Released on 2019-11-21, vote average 6.7*
-
-A medieval English knight is magically transported to present day where he ends up falling for a high school science teacher.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-JtwROpSVWc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -132,6 +110,28 @@ A feature-length documentary about the film Galaxy Quest and its legacy, celebra
 
 
 	
+	
+
+### The Knight Before Christmas
+*Released on 2019-11-21, vote average 6.6*
+
+A medieval English knight is magically transported to present day where he ends up falling for a high school science teacher.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-JtwROpSVWc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 
   
 
@@ -140,7 +140,7 @@ A feature-length documentary about the film Galaxy Quest and its legacy, celebra
 	
 
 ### Holiday Rush
-*Released on 2019-11-28, vote average 4.7*
+*Released on 2019-11-28, vote average 5*
 
 After his sudden firing, a popular radio DJ moves in with his aunt, bringing along his four spoiled children, and a plan to return to the airwaves.
 
@@ -184,7 +184,7 @@ Comedian Mike Birbiglia hits Broadway with a hilarious yet profound one-man show
 	
 
 ### A Beautiful Day in the Neighborhood
-*Released on 2019-11-22, vote average 7.2*
+*Released on 2019-11-22, vote average 7.4*
 
 An award-winning cynical journalist, Lloyd Vogel, begrudgingly accepts an assignment to write an Esquire profile piece on the beloved television icon Fred Rogers. After his encounter with Rogers, Vogel&#39;s perspective on life is transformed.
 
@@ -247,6 +247,23 @@ Join Kacey Musgraves for a holiday variety show featuring new songs, time-honore
 
 
 	
+	
+
+### Lindsey Vonn: The Final Season
+*Released on 2019-11-26, vote average 6*
+
+Universally recognized as the greatest female skier ever, Lindsey Vonn went on a remarkable journey that was defined by unexpected twists and turns and dramatic peaks and valleys in its final chapter. LINDSEY VONN: THE FINAL SEASON intimately recounts the iconic skier’s last competitive campaign while looking back on her transcendent career, from child prodigy to decorated Olympian to global superstar.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vBqUO_3gQhc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -275,6 +292,11 @@ This intense action-thriller unfolds in real time as two embattled souls fight f
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -337,28 +359,6 @@ An exploration of America’s social and political climate through the lens of a
 
 
 	
-	
-	
-
-  
-
-
-	
-	
-
-### Blue Story
-*Released on 2019-11-22, vote average 8.2*
-
-Feature adaptation of Rapman&#39;s YouTube series about two young friends who become rivals in a street war.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/l_O9hsfl6Bo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
