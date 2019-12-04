@@ -68,16 +68,16 @@ When renowned crime novelist Harlan Thrombey is found dead at his estate just af
 	
 	
 
-### Holiday Rush
-*Released on 2019-11-28, vote average 5.8*
+### Jumanji: The Next Level
+*Released on 2019-12-04, vote average 8*
 
-After his sudden firing, a popular radio DJ moves in with his aunt, bringing along his four spoiled children, and a plan to return to the airwaves.
+Spencer returns to the world of Jumanji, prompting his friends, his grandfather and his grandfather’s friend to enter a different and more dangerous version to save him.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/c2U6diYTnxA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/rBxcF-r9Ibs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -91,7 +91,7 @@ After his sudden firing, a popular radio DJ moves in with his aunt, bringing alo
 	
 
 ### The Knight Before Christmas
-*Released on 2019-11-21, vote average 6.7*
+*Released on 2019-11-21, vote average 6.6*
 
 A medieval English knight is magically transported to present day where he ends up falling for a high school science teacher.
 
@@ -110,6 +110,21 @@ A medieval English knight is magically transported to present day where he ends 
 
 
 	
+	
+
+### Holiday Rush
+*Released on 2019-11-28, vote average 6.1*
+
+After his sudden firing, a popular radio DJ moves in with his aunt, bringing along his four spoiled children, and a plan to return to the airwaves.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/c2U6diYTnxA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -147,7 +162,7 @@ Christmas enthusiast party planners Ella  and her sister, Marianne, clash with t
 	
 
 ### Queen &amp; Slim
-*Released on 2019-11-27, vote average 9.8*
+*Released on 2019-11-27, vote average 9*
 
 An exploration of America’s social and political climate through the lens of a genre-defying love story. The film centers on a black man and black woman who go on a first date that goes awry after the two are pulled over by a police officer at a traffic stop. They kill the police officer in self-defense and rather than turn themselves in, they go on the run.
 
@@ -210,10 +225,7 @@ A group of astronauts living in the haunting emptiness of deep space awakens to 
 
 
 	
-
-  
-
-
+	
 	
 
   
@@ -223,7 +235,7 @@ A group of astronauts living in the haunting emptiness of deep space awakens to 
 	
 
 ### A Beautiful Day in the Neighborhood
-*Released on 2019-11-22, vote average 7.4*
+*Released on 2019-11-22, vote average 7.3*
 
 An award-winning cynical journalist, Lloyd Vogel, begrudgingly accepts an assignment to write an Esquire profile piece on the beloved television icon Fred Rogers. After his encounter with Rogers, Vogel&#39;s perspective on life is transformed.
 
@@ -247,6 +259,8 @@ An award-winning cynical journalist, Lloyd Vogel, begrudgingly accepts an assign
 
 
 	
+	
+	
 
   
 
@@ -258,6 +272,11 @@ An award-winning cynical journalist, Lloyd Vogel, begrudgingly accepts an assign
 
 	
 	
+	
+
+  
+
+
 	
 
   
@@ -271,7 +290,7 @@ An award-winning cynical journalist, Lloyd Vogel, begrudgingly accepts an assign
 	
 
 ### Jumanji: The Next Level
-*Released on 2019-12-04, vote average 8.2*
+*Released on 2019-12-04, vote average 8*
 
 Spencer returns to the world of Jumanji, prompting his friends, his grandfather and his grandfather’s friend to enter a different and more dangerous version to save him.
 
@@ -290,7 +309,7 @@ Spencer returns to the world of Jumanji, prompting his friends, his grandfather 
 	
 
 ### Daniel Isn&#39;t Real
-*Released on 2019-12-06, vote average 7.5*
+*Released on 2019-12-06, vote average 7.3*
 
 A troubled college freshman, Luke, suffers a violent family trauma and resurrects his childhood imaginary friend Daniel to help him cope.
 
@@ -303,8 +322,6 @@ A troubled college freshman, Luke, suffers a violent family trauma and resurrect
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
@@ -337,15 +354,19 @@ Christmas brings the ultimate gift to Aldovia: a royal baby. But first, Queen Am
 	
 
 	
-	
-	
 
 	
 
 	
 
 	
+	
+	
 
+	
+
+	
+	
 	
 
 	
