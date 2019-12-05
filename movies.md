@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Frozen II
-*Released on 2019-11-20, vote average 7.1*
+### Jumanji: The Next Level
+*Released on 2019-12-04, vote average 7.1*
 
-Elsa, Anna, Kristoff and Olaf head far into the forest to learn the truth about an ancient mystery of their kingdom.
+Spencer returns to the world of Jumanji, prompting his friends, his grandfather and his grandfather’s friend to enter a different and more dangerous version to save him.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/eSLe4HuKuK0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/rBxcF-r9Ibs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -56,28 +56,6 @@ When renowned crime novelist Harlan Thrombey is found dead at his estate just af
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/qGqiHJTsRkQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Jumanji: The Next Level
-*Released on 2019-12-04, vote average 8*
-
-Spencer returns to the world of Jumanji, prompting his friends, his grandfather and his grandfather’s friend to enter a different and more dangerous version to save him.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rBxcF-r9Ibs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -140,7 +118,7 @@ After his sudden firing, a popular radio DJ moves in with his aunt, bringing alo
 	
 
 ### Sense, Sensibility &amp; Snowmen
-*Released on 2019-11-30, vote average 10*
+*Released on 2019-11-30, vote average 9*
 
 Christmas enthusiast party planners Ella  and her sister, Marianne, clash with their client, Edward, who is a not-so-jolly toy company CEO.
 
@@ -162,7 +140,7 @@ Christmas enthusiast party planners Ella  and her sister, Marianne, clash with t
 	
 
 ### Queen &amp; Slim
-*Released on 2019-11-27, vote average 9*
+*Released on 2019-11-27, vote average 7.6*
 
 An exploration of America’s social and political climate through the lens of a genre-defying love story. The film centers on a black man and black woman who go on a first date that goes awry after the two are pulled over by a police officer at a traffic stop. They kill the police officer in self-defense and rather than turn themselves in, they go on the run.
 
@@ -214,6 +192,8 @@ A group of astronauts living in the haunting emptiness of deep space awakens to 
   
 
 
+	
+	
 	
 
   
@@ -278,6 +258,28 @@ An award-winning cynical journalist, Lloyd Vogel, begrudgingly accepts an assign
 
 
 	
+	
+
+### A Christmas Prince: The Royal Baby
+*Released on 2019-12-05, vote average 10*
+
+Christmas brings the ultimate gift to Aldovia: a royal baby. But first, Queen Amber must help her family and kingdom by finding a missing peace treaty.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/RK0zCsxBG3U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 
   
 
@@ -287,18 +289,20 @@ An award-winning cynical journalist, Lloyd Vogel, begrudgingly accepts an assign
 
 
 	
+
+	
 	
 
-### Jumanji: The Next Level
-*Released on 2019-12-04, vote average 8*
+### A Christmas Prince: The Royal Baby
+*Released on 2019-12-05, vote average 10*
 
-Spencer returns to the world of Jumanji, prompting his friends, his grandfather and his grandfather’s friend to enter a different and more dangerous version to save him.
+Christmas brings the ultimate gift to Aldovia: a royal baby. But first, Queen Amber must help her family and kingdom by finding a missing peace treaty.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/rBxcF-r9Ibs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/RK0zCsxBG3U?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -325,22 +329,19 @@ A troubled college freshman, Luke, suffers a violent family trauma and resurrect
 	
 
 	
-	
-
-### A Christmas Prince: The Royal Baby
-*Released on 2019-12-05, vote average 10*
-
-Christmas brings the ultimate gift to Aldovia: a royal baby. But first, Queen Amber must help her family and kingdom by finding a missing peace treaty.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/RK0zCsxBG3U?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+	
+
+	
+	
+	
+
+	
+
+	
+
 	
 
 	
@@ -361,22 +362,6 @@ Christmas brings the ultimate gift to Aldovia: a royal baby. But first, Queen Am
 
 	
 	
-	
-
-	
-
-	
-	
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
