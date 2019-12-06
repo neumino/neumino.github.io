@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Jumanji: The Next Level
-*Released on 2019-12-04, vote average 7.1*
+*Released on 2019-12-04, vote average 7.4*
 
 Spencer returns to the world of Jumanji, prompting his friends, his grandfather and his grandfather’s friend to enter a different and more dangerous version to save him.
 
@@ -47,7 +47,7 @@ Spencer returns to the world of Jumanji, prompting his friends, his grandfather 
 	
 
 ### Knives Out
-*Released on 2019-11-27, vote average 8*
+*Released on 2019-11-27, vote average 7.9*
 
 When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate. From Harlan&#39;s dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan&#39;s untimely death.
 
@@ -66,23 +66,6 @@ When renowned crime novelist Harlan Thrombey is found dead at his estate just af
 
 
 	
-	
-
-### The Knight Before Christmas
-*Released on 2019-11-21, vote average 6.6*
-
-A medieval English knight is magically transported to present day where he ends up falling for a high school science teacher.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-JtwROpSVWc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -90,25 +73,20 @@ A medieval English knight is magically transported to present day where he ends 
 	
 	
 
-### Holiday Rush
-*Released on 2019-11-28, vote average 6.1*
+### A Christmas Prince: The Royal Baby
+*Released on 2019-12-05, vote average 10*
 
-After his sudden firing, a popular radio DJ moves in with his aunt, bringing along his four spoiled children, and a plan to return to the airwaves.
+Christmas brings the ultimate gift to Aldovia: a royal baby. But first, Queen Amber must help her family and kingdom by finding a missing peace treaty.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/c2U6diYTnxA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/RK0zCsxBG3U?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -140,7 +118,7 @@ Christmas enthusiast party planners Ella  and her sister, Marianne, clash with t
 	
 
 ### Queen &amp; Slim
-*Released on 2019-11-27, vote average 7.6*
+*Released on 2019-11-27, vote average 7.7*
 
 An exploration of America’s social and political climate through the lens of a genre-defying love story. The film centers on a black man and black woman who go on a first date that goes awry after the two are pulled over by a police officer at a traffic stop. They kill the police officer in self-defense and rather than turn themselves in, they go on the run.
 
@@ -214,6 +192,28 @@ A group of astronauts living in the haunting emptiness of deep space awakens to 
 	
 	
 
+### Holiday Rush
+*Released on 2019-11-28, vote average 6.1*
+
+After his sudden firing, a popular radio DJ moves in with his aunt, bringing along his four spoiled children, and a plan to return to the airwaves.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/c2U6diYTnxA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### A Beautiful Day in the Neighborhood
 *Released on 2019-11-22, vote average 7.3*
 
@@ -258,23 +258,6 @@ An award-winning cynical journalist, Lloyd Vogel, begrudgingly accepts an assign
 
 
 	
-	
-
-### A Christmas Prince: The Royal Baby
-*Released on 2019-12-05, vote average 10*
-
-Christmas brings the ultimate gift to Aldovia: a royal baby. But first, Queen Amber must help her family and kingdom by finding a missing peace treaty.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/RK0zCsxBG3U?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -289,24 +272,26 @@ Christmas brings the ultimate gift to Aldovia: a royal baby. But first, Queen Am
 
 
 	
-
-	
 	
 
-### A Christmas Prince: The Royal Baby
-*Released on 2019-12-05, vote average 10*
+### Ellipse
+*Released on 2019-12-12, vote average 3.5*
 
-Christmas brings the ultimate gift to Aldovia: a royal baby. But first, Queen Amber must help her family and kingdom by finding a missing peace treaty.
+A man and his dog are stranded on a volatile, oval-shaped planet and are forced to adapt and escape before time destroys them both.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/RK0zCsxBG3U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/yFvyElYcnDA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
 	
 
 	
@@ -332,10 +317,6 @@ A troubled college freshman, Luke, suffers a violent family trauma and resurrect
 
 	
 
-	
-
-	
-	
 	
 
 	
