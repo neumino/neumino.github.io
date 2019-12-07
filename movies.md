@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Jumanji: The Next Level
-*Released on 2019-12-04, vote average 7.4*
+*Released on 2019-12-04, vote average 7.5*
 
 Spencer returns to the world of Jumanji, prompting his friends, his grandfather and his grandfather’s friend to enter a different and more dangerous version to save him.
 
@@ -66,15 +66,10 @@ When renowned crime novelist Harlan Thrombey is found dead at his estate just af
 
 
 	
-
-  
-
-
-	
 	
 
 ### A Christmas Prince: The Royal Baby
-*Released on 2019-12-05, vote average 10*
+*Released on 2019-12-05, vote average 7.8*
 
 Christmas brings the ultimate gift to Aldovia: a royal baby. But first, Queen Amber must help her family and kingdom by finding a missing peace treaty.
 
@@ -95,16 +90,16 @@ Christmas brings the ultimate gift to Aldovia: a royal baby. But first, Queen Am
 	
 	
 
-### Sense, Sensibility &amp; Snowmen
-*Released on 2019-11-30, vote average 9*
+### Daniel Isn&#39;t Real
+*Released on 2019-12-06, vote average 7.3*
 
-Christmas enthusiast party planners Ella  and her sister, Marianne, clash with their client, Edward, who is a not-so-jolly toy company CEO.
+A troubled college freshman, Luke, suffers a violent family trauma and resurrects his childhood imaginary friend Daniel to help him cope.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/bdxEE0QZTE0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/bX80xLVy2Gc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -117,8 +112,106 @@ Christmas enthusiast party planners Ella  and her sister, Marianne, clash with t
 	
 	
 
+### Trauma Center
+*Released on 2019-12-06, vote average 10*
+
+Screen legend Bruce Willis plays Lt. Wakes, a vengeful police detective determined to solve the murders of his partner and an informant. Wakes joins forces with Madison, a witness injured during the shootings. After the killers pursue Madison across the abandoned floor of a hospital, she confirms Wakes&#39;s worst fears: the two men are actually corrupt vice cops covering up a crime. As Wakes vows revenge, this heart-pounding action-thriller reaches an explosive climax.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Y2DrOhVpPZo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Immortal
+*Released on 2019-12-05, vote average 8*
+
+Ciro&#39;s body is sinking in the dark waters of the Gulf of Naples. And as it sinks deeper and deeper, memories emerge. The sounds muffled by the water merge with the screams of fleeing people. It is 1980, the earth shakes, the palace collapses, but under the rubble you can hear the cry of a newborn baby still alive. Ten years later, we find that new-born baby as it survives as it can on the streets of Naples, nobody&#39;s son. Vivid memories of a criminal education that made him what he is: Ciro Di Marzio, the Immortal. Prequel of the &#34;Gomorra&#34; tv show.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/AUvgnCGPZQQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Mandela Effect
+*Released on 2019-12-06, vote average 4*
+
+A man becomes obsessed with facts and events that have been collectively misremembered by thousands of people. Believing the phenomena to be the symptom of something larger, his obsession eventually leads him to question reality itself.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/viwAykESWng?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### Queen &amp; Slim
-*Released on 2019-11-27, vote average 7.7*
+*Released on 2019-11-27, vote average 8*
 
 An exploration of America’s social and political climate through the lens of a genre-defying love story. The film centers on a black man and black woman who go on a first date that goes awry after the two are pulled over by a police officer at a traffic stop. They kill the police officer in self-defense and rather than turn themselves in, they go on the run.
 
@@ -137,7 +230,15 @@ An exploration of America’s social and political climate through the lens of a
 
 
 	
+
+  
+
+
 	
+
+  
+
+
 	
 
   
@@ -146,62 +247,16 @@ An exploration of America’s social and political climate through the lens of a
 	
 	
 
-### 3022
-*Released on 2019-11-22, vote average 4.9*
+### Eggnoid
+*Released on 2019-12-05, vote average 8*
 
-A group of astronauts living in the haunting emptiness of deep space awakens to find earth has suffered an extinction-level event.
+Ran found Eggnoid, a human who was sent from the future, which she later named Eggy. However, an event forced Ran and Eggy to make choices that might violate their destiny.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/zF3VsTjoQS0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Holiday Rush
-*Released on 2019-11-28, vote average 6.1*
-
-After his sudden firing, a popular radio DJ moves in with his aunt, bringing along his four spoiled children, and a plan to return to the airwaves.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/c2U6diYTnxA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/u_1-Yrw1how?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -213,50 +268,6 @@ After his sudden firing, a popular radio DJ moves in with his aunt, bringing alo
 
 	
 	
-
-### A Beautiful Day in the Neighborhood
-*Released on 2019-11-22, vote average 7.3*
-
-An award-winning cynical journalist, Lloyd Vogel, begrudgingly accepts an assignment to write an Esquire profile piece on the beloved television icon Fred Rogers. After his encounter with Rogers, Vogel&#39;s perspective on life is transformed.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-VLEPhfEN2M?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 	
 
   
@@ -272,45 +283,9 @@ An award-winning cynical journalist, Lloyd Vogel, begrudgingly accepts an assign
 
 
 	
-	
-
-### Ellipse
-*Released on 2019-12-12, vote average 3.5*
-
-A man and his dog are stranded on a volatile, oval-shaped planet and are forced to adapt and escape before time destroys them both.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/yFvyElYcnDA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
-	
-
-	
-	
-
-### Daniel Isn&#39;t Real
-*Released on 2019-12-06, vote average 7.3*
-
-A troubled college freshman, Luke, suffers a violent family trauma and resurrects his childhood imaginary friend Daniel to help him cope.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/bX80xLVy2Gc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
@@ -342,7 +317,7 @@ A troubled college freshman, Luke, suffers a violent family trauma and resurrect
 	
 
 	
-	
+
 	
 
 	
