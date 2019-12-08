@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Jumanji: The Next Level
-*Released on 2019-12-04, vote average 7.5*
+*Released on 2019-12-04, vote average 7.4*
 
 Spencer returns to the world of Jumanji, prompting his friends, his grandfather and his grandfather’s friend to enter a different and more dangerous version to save him.
 
@@ -69,7 +69,7 @@ When renowned crime novelist Harlan Thrombey is found dead at his estate just af
 	
 
 ### A Christmas Prince: The Royal Baby
-*Released on 2019-12-05, vote average 7.8*
+*Released on 2019-12-05, vote average 7*
 
 Christmas brings the ultimate gift to Aldovia: a royal baby. But first, Queen Amber must help her family and kingdom by finding a missing peace treaty.
 
@@ -78,6 +78,28 @@ Christmas brings the ultimate gift to Aldovia: a royal baby. But first, Queen Am
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/RK0zCsxBG3U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Trauma Center
+*Released on 2019-12-06, vote average 7.5*
+
+Screen legend Bruce Willis plays Lt. Wakes, a vengeful police detective determined to solve the murders of his partner and an informant. Wakes joins forces with Madison, a witness injured during the shootings. After the killers pursue Madison across the abandoned floor of a hospital, she confirms Wakes&#39;s worst fears: the two men are actually corrupt vice cops covering up a crime. As Wakes vows revenge, this heart-pounding action-thriller reaches an explosive climax.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Y2DrOhVpPZo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,16 +134,16 @@ A troubled college freshman, Luke, suffers a violent family trauma and resurrect
 	
 	
 
-### Trauma Center
-*Released on 2019-12-06, vote average 10*
+### Panipat
+*Released on 2019-12-06, vote average 4*
 
-Screen legend Bruce Willis plays Lt. Wakes, a vengeful police detective determined to solve the murders of his partner and an informant. Wakes joins forces with Madison, a witness injured during the shootings. After the killers pursue Madison across the abandoned floor of a hospital, she confirms Wakes&#39;s worst fears: the two men are actually corrupt vice cops covering up a crime. As Wakes vows revenge, this heart-pounding action-thriller reaches an explosive climax.
+Third battle of Panipat which took place on 14 January 1761.Between Marathas and King of Afghanistan, Ahmad Shah Abdali.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Y2DrOhVpPZo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/zpXnmy-6w1g?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -135,7 +157,7 @@ Screen legend Bruce Willis plays Lt. Wakes, a vengeful police detective determin
 	
 
 ### The Immortal
-*Released on 2019-12-05, vote average 8*
+*Released on 2019-12-05, vote average 7.8*
 
 Ciro&#39;s body is sinking in the dark waters of the Gulf of Naples. And as it sinks deeper and deeper, memories emerge. The sounds muffled by the water merge with the screams of fleeing people. It is 1980, the earth shakes, the palace collapses, but under the rubble you can hear the cry of a newborn baby still alive. Ten years later, we find that new-born baby as it survives as it can on the streets of Naples, nobody&#39;s son. Vivid memories of a criminal education that made him what he is: Ciro Di Marzio, the Immortal. Prequel of the &#34;Gomorra&#34; tv show.
 
@@ -155,11 +177,6 @@ Ciro&#39;s body is sinking in the dark waters of the Gulf of Naples. And as it s
 
 	
 	
-	
-
-  
-
-
 	
 
   
@@ -240,15 +257,10 @@ An exploration of America’s social and political climate through the lens of a
 
 
 	
-
-  
-
-
-	
 	
 
 ### Eggnoid
-*Released on 2019-12-05, vote average 8*
+*Released on 2019-12-05, vote average 6*
 
 Ran found Eggnoid, a human who was sent from the future, which she later named Eggy. However, an event forced Ran and Eggy to make choices that might violate their destiny.
 
@@ -278,12 +290,51 @@ Ran found Eggnoid, a human who was sent from the future, which she later named E
   
 
 
+	
+
+  
+
+
 
 ## Opening soon
 
 
 	
+	
 
+### Ellipse
+*Released on 2019-12-12, vote average 1*
+
+A man and his dog are stranded on a volatile, oval-shaped planet and are forced to adapt and escape before time destroys them both.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/yFvyElYcnDA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### 1917
+*Released on 2019-12-10, vote average 10*
+
+At the height of the First World War, two young British soldiers, Schofield and Blake are given a seemingly impossible mission. In a race against time, they must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers—Blake&#39;s own brother among them.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/UcmZN0Mbl04?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
