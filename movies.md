@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Jumanji: The Next Level
-*Released on 2019-12-04, vote average 7*
+*Released on 2019-12-04, vote average 6.8*
 
 Spencer returns to the world of Jumanji, prompting his friends, his grandfather and his grandfather’s friend to enter a different and more dangerous version to save him.
 
@@ -47,7 +47,7 @@ Spencer returns to the world of Jumanji, prompting his friends, his grandfather 
 	
 
 ### Trauma Center
-*Released on 2019-12-06, vote average 6.5*
+*Released on 2019-12-06, vote average 5.5*
 
 Lt. Wakes is a vengeful police detective determined to solve the murders of his partner and an informant, and joins forces with a witness injured during the shootings. After the killers pursue the witness across the abandoned floor of a hospital, she confirms Wakes&#39;s worst fears.
 
@@ -113,7 +113,7 @@ Hawthorne College is quieting down for the holidays. One by one, sorority girls 
 	
 
 ### Daniel Isn&#39;t Real
-*Released on 2019-12-06, vote average 6.6*
+*Released on 2019-12-06, vote average 6.5*
 
 A troubled college freshman, Luke, suffers a violent family trauma and resurrects his childhood imaginary friend Daniel to help him cope.
 
@@ -155,17 +155,43 @@ Christmas brings the ultimate gift to Aldovia: a royal baby. But first, Queen Am
 
 	
 	
+	
 
-### A Hidden Life
-*Released on 2019-12-11, vote average 8*
+  
 
-The Austrian Blessed Franz Jägerstätter, a conscientious objector, refuses to fight for the Nazis in World War II.
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### 1917
+*Released on 2019-12-10, vote average 7.1*
+
+At the height of the First World War, two young British soldiers, Schofield and Blake are given a seemingly impossible mission. In a race against time, they must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers—Blake&#39;s own brother among them.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/qJXmdY4lVR0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/UcmZN0Mbl04?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -177,12 +203,20 @@ The Austrian Blessed Franz Jägerstätter, a conscientious objector, refuses to 
 
 	
 	
-	
 
-  
+### Richard Jewell
+*Released on 2019-12-13, vote average 5*
 
+The true story of Richard Jewell, hero and then suspect of the 1996 Olympic Park bombing.
 
-	
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/gSMxBLlA8qY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -212,39 +246,44 @@ Ciro&#39;s body is sinking in the dark waters of the Gulf of Naples. And as it s
 
 
 	
-
-  
-
-
 	
 
-  
+### A Hidden Life
+*Released on 2019-12-11, vote average 8*
 
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### 1917
-*Released on 2019-12-10, vote average 7*
-
-At the height of the First World War, two young British soldiers, Schofield and Blake are given a seemingly impossible mission. In a race against time, they must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers—Blake&#39;s own brother among them.
+The Austrian Blessed Franz Jägerstätter, a conscientious objector, refuses to fight for the Nazis in World War II.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/UcmZN0Mbl04?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/qJXmdY4lVR0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -261,7 +300,7 @@ At the height of the First World War, two young British soldiers, Schofield and 
 	
 
 ### The Mandela Effect
-*Released on 2019-12-06, vote average 5.3*
+*Released on 2019-12-06, vote average 6.5*
 
 A man becomes obsessed with facts and events that have been collectively misremembered by thousands of people. Believing the phenomena to be the symptom of something larger, his obsession eventually leads him to question reality itself.
 
@@ -279,45 +318,6 @@ A man becomes obsessed with facts and events that have been collectively misreme
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Eggnoid
-*Released on 2019-12-05, vote average 6*
-
-Ran found Eggnoid, a human who was sent from the future, which she later named Eggy. However, an event forced Ran and Eggy to make choices that might violate their destiny.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/u_1-Yrw1how?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -325,26 +325,26 @@ Ran found Eggnoid, a human who was sent from the future, which she later named E
 	
 
 	
+
 	
 
-### Ellipse
-*Released on 2019-12-12, vote average 5.5*
+	
+	
 
-A man and his dog are stranded on a volatile, oval-shaped planet and are forced to adapt and escape before time destroys them both.
+### Richard Jewell
+*Released on 2019-12-13, vote average 5*
+
+The true story of Richard Jewell, hero and then suspect of the 1996 Olympic Park bombing.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/yFvyElYcnDA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/gSMxBLlA8qY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
 	
 
 	
@@ -386,6 +386,23 @@ Howard Ratner, a charismatic New York City jeweler always on the lookout for the
 
 	
 
+	
+	
+
+### Seberg
+*Released on 2019-12-13, vote average 6*
+
+An ambitious young FBI agent is assigned to investigate iconic actress Jean Seberg when she becomes embroiled in the tumultuous civil rights movement in late 1960s Los Angeles.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Tck5EBUTeoc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
