@@ -46,6 +46,28 @@ In Jumanji: The Next Level, the gang is back but the game has changed. As they r
 	
 	
 
+### 6 Underground
+*Released on 2019-12-13, vote average 7.2*
+
+After faking his death, a tech billionaire recruits a team of international operatives for a bold and bloody mission to take down a brutal dictator.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/YLE85olJjp8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Ellipse
 *Released on 2019-12-12, vote average 5.5*
 
@@ -66,45 +88,18 @@ A man and his dog are stranded on a volatile, oval-shaped planet and are forced 
 
 
 	
-
-  
-
-
-	
 	
 
-### Richard Jewell
-*Released on 2019-12-13, vote average 5*
+### Black Christmas
+*Released on 2019-12-11, vote average 5.1*
 
-The true story of Richard Jewell, hero and then suspect of the 1996 Olympic Park bombing.
+Hawthorne College is quieting down for the holidays. One by one, sorority girls on campus are being killed by an unknown stalker. But the killer is about to discover that this generation’s young women aren’t willing to become hapless victims as they mount a fight to the finish.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/gSMxBLlA8qY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Daniel Isn&#39;t Real
-*Released on 2019-12-06, vote average 6.5*
-
-A troubled college freshman, Luke, suffers a violent family trauma and resurrects his childhood imaginary friend Daniel to help him cope.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/bX80xLVy2Gc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/gF4yRYbo1WE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -139,45 +134,16 @@ Howard Ratner, a charismatic New York City jeweler always on the lookout for the
 	
 	
 
-### A Christmas Prince: The Royal Baby
-*Released on 2019-12-05, vote average 6.3*
+### Richard Jewell
+*Released on 2019-12-13, vote average 5*
 
-Christmas brings the ultimate gift to Aldovia: a royal baby. But first, Queen Amber must help her family and kingdom by finding a missing peace treaty.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/RK0zCsxBG3U?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Black Christmas
-*Released on 2019-12-11, vote average 5.2*
-
-Hawthorne College is quieting down for the holidays. One by one, sorority girls on campus are being killed by an unknown stalker. But the killer is about to discover that this generation’s young women aren’t willing to become hapless victims as they mount a fight to the finish.
+The true story of Richard Jewell, hero and then suspect of the 1996 Olympic Park bombing.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/gF4yRYbo1WE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/gSMxBLlA8qY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -191,7 +157,7 @@ Hawthorne College is quieting down for the holidays. One by one, sorority girls 
 	
 
 ### Trauma Center
-*Released on 2019-12-06, vote average 5.5*
+*Released on 2019-12-06, vote average 5.4*
 
 Lt. Wakes is a vengeful police detective determined to solve the murders of his partner and an informant, and joins forces with a witness injured during the shootings. After the killers pursue the witness across the abandoned floor of a hospital, she confirms Wakes&#39;s worst fears.
 
@@ -209,13 +175,6 @@ Lt. Wakes is a vengeful police detective determined to solve the murders of his 
   
 
 
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -276,7 +235,7 @@ Ciro&#39;s body is sinking in the dark waters of the Gulf of Naples. And as it s
 	
 
 ### A Hidden Life
-*Released on 2019-12-11, vote average 5.8*
+*Released on 2019-12-11, vote average 6.3*
 
 The Austrian Blessed Franz Jägerstätter, a conscientious objector, refuses to fight for the Nazis in World War II.
 
@@ -294,6 +253,28 @@ The Austrian Blessed Franz Jägerstätter, a conscientious objector, refuses to 
   
 
 
+	
+
+  
+
+
+	
+	
+
+### Code 8
+*Released on 2019-12-06, vote average 10*
+
+In Lincoln City, some inhabitants have extraordinary abilities. Most live below the poverty line, under the close surveillance of a heavily militarized police force. Connor, a construction worker with powers, involves with a criminal gang to help his ailing mother. (Based on the short film “Code 8,” 2016.)
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PrX1JJ5dduA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -333,6 +314,42 @@ Jack Whitehall invites his notoriously stuffy father onstage in London&#39;s Wes
   
 
 
+	
+	
+	
+
+  
+
+
+	
+	
+
+### A Christmas Prince: The Royal Baby
+*Released on 2019-12-05, vote average 6.4*
+
+Christmas brings the ultimate gift to Aldovia: a royal baby. But first, Queen Amber must help her family and kingdom by finding a missing peace treaty.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/RK0zCsxBG3U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -340,6 +357,23 @@ Jack Whitehall invites his notoriously stuffy father onstage in London&#39;s Wes
 	
 
 	
+	
+
+### Star Wars: The Rise of Skywalker
+*Released on 2019-12-18, vote average 5*
+
+The next installment in the franchise and the conclusion of the “Star Wars“ sequel trilogy as well as the “Skywalker Saga.”
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/adzYW5DZoWs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
@@ -374,9 +408,9 @@ Jack Whitehall invites his notoriously stuffy father onstage in London&#39;s Wes
 	
 
 	
-	
-	
 
+	
+	
 	
 
 
