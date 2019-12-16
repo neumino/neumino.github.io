@@ -47,7 +47,7 @@ In Jumanji: The Next Level, the gang is back but the game has changed. As they r
 	
 
 ### 6 Underground
-*Released on 2019-12-13, vote average 7.2*
+*Released on 2019-12-13, vote average 7*
 
 After faking his death, a tech billionaire recruits a team of international operatives for a bold and bloody mission to take down a brutal dictator.
 
@@ -68,30 +68,8 @@ After faking his death, a tech billionaire recruits a team of international oper
 	
 	
 
-### Ellipse
-*Released on 2019-12-12, vote average 5.5*
-
-A man and his dog are stranded on a volatile, oval-shaped planet and are forced to adapt and escape before time destroys them both.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/yFvyElYcnDA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Black Christmas
-*Released on 2019-12-11, vote average 5.1*
+*Released on 2019-12-11, vote average 4.8*
 
 Hawthorne College is quieting down for the holidays. One by one, sorority girls on campus are being killed by an unknown stalker. But the killer is about to discover that this generation’s young women aren’t willing to become hapless victims as they mount a fight to the finish.
 
@@ -112,8 +90,30 @@ Hawthorne College is quieting down for the holidays. One by one, sorority girls 
 	
 	
 
+### Ellipse
+*Released on 2019-12-12, vote average 4.3*
+
+A man and his dog are stranded on a volatile, oval-shaped planet and are forced to adapt and escape before time destroys them both.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/yFvyElYcnDA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Uncut Gems
-*Released on 2019-12-13, vote average 10*
+*Released on 2019-12-13, vote average 9.7*
 
 Howard Ratner, a charismatic New York City jeweler always on the lookout for the next big score, makes a series of high-stakes bets that could lead to the windfall of a lifetime.
 
@@ -135,7 +135,7 @@ Howard Ratner, a charismatic New York City jeweler always on the lookout for the
 	
 
 ### Richard Jewell
-*Released on 2019-12-13, vote average 5*
+*Released on 2019-12-13, vote average 6*
 
 The true story of Richard Jewell, hero and then suspect of the 1996 Olympic Park bombing.
 
@@ -156,16 +156,16 @@ The true story of Richard Jewell, hero and then suspect of the 1996 Olympic Park
 	
 	
 
-### Trauma Center
-*Released on 2019-12-06, vote average 5.4*
+### Code 8
+*Released on 2019-12-06, vote average 7.2*
 
-Lt. Wakes is a vengeful police detective determined to solve the murders of his partner and an informant, and joins forces with a witness injured during the shootings. After the killers pursue the witness across the abandoned floor of a hospital, she confirms Wakes&#39;s worst fears.
+In Lincoln City, some inhabitants have extraordinary abilities. Most live below the poverty line, under the close surveillance of a heavily militarized police force. Connor, a construction worker with powers, involves with a criminal gang to help his ailing mother. (Based on the short film “Code 8,” 2016.)
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Y2DrOhVpPZo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/PrX1JJ5dduA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -181,28 +181,6 @@ Lt. Wakes is a vengeful police detective determined to solve the murders of his 
 
 
 	
-	
-	
-
-  
-
-
-	
-	
-
-### 1917
-*Released on 2019-12-10, vote average 7.1*
-
-At the height of the First World War, two young British soldiers, Schofield and Blake are given a seemingly impossible mission. In a race against time, they must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers—Blake&#39;s own brother among them.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/UcmZN0Mbl04?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -253,28 +231,6 @@ The Austrian Blessed Franz Jägerstätter, a conscientious objector, refuses to 
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Code 8
-*Released on 2019-12-06, vote average 10*
-
-In Lincoln City, some inhabitants have extraordinary abilities. Most live below the poverty line, under the close surveillance of a heavily militarized police force. Connor, a construction worker with powers, involves with a criminal gang to help his ailing mother. (Based on the short film “Code 8,” 2016.)
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/PrX1JJ5dduA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -350,6 +306,50 @@ Christmas brings the ultimate gift to Aldovia: a royal baby. But first, Queen Am
   
 
 
+	
+	
+
+### Michelle Wolf: Joke Show
+*Released on 2019-12-10, vote average 6.3*
+
+Comedian Michelle Wolf takes on outrage culture, massages, childbirth, feminism and much more (like otters) in a stand-up special from New York City.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/k8Nfw75QASU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### 1917
+*Released on 2019-12-10, vote average 7.1*
+
+At the height of the First World War, two young British soldiers, Schofield and Blake are given a seemingly impossible mission. In a race against time, they must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers—Blake&#39;s own brother among them.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/UcmZN0Mbl04?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -360,7 +360,7 @@ Christmas brings the ultimate gift to Aldovia: a royal baby. But first, Queen Am
 	
 
 ### Star Wars: The Rise of Skywalker
-*Released on 2019-12-18, vote average 5*
+*Released on 2019-12-18, vote average 5.5*
 
 The next installment in the franchise and the conclusion of the “Star Wars“ sequel trilogy as well as the “Skywalker Saga.”
 
@@ -406,11 +406,26 @@ The next installment in the franchise and the conclusion of the “Star Wars“ 
 	
 
 	
+	
+
+### Rapid Eye Movement
+*Released on 2019-12-19, vote average 9*
+
+A publicity seeking radio DJ is driven to the edge of insanity when he attempts to break the 11 day world record for staying awake-under the threat of a deranged caller who will kill him if he falls asleep.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3M4bdilkJi4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
-	
-	
 	
 
 
