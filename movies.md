@@ -47,7 +47,7 @@ In Jumanji: The Next Level, the gang is back but the game has changed. As they r
 	
 
 ### 6 Underground
-*Released on 2019-12-13, vote average 7*
+*Released on 2019-12-13, vote average 6.7*
 
 After faking his death, a tech billionaire recruits a team of international operatives for a bold and bloody mission to take down a brutal dictator.
 
@@ -66,10 +66,37 @@ After faking his death, a tech billionaire recruits a team of international oper
 
 
 	
+
+  
+
+
+	
+	
+
+### Code 8
+*Released on 2019-12-06, vote average 7.4*
+
+In Lincoln City, some inhabitants have extraordinary abilities. Most live below the poverty line, under the close surveillance of a heavily militarized police force. Connor, a construction worker with powers, involves with a criminal gang to help his ailing mother. (Based on the short film “Code 8,” 2016.)
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PrX1JJ5dduA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 
 ### Black Christmas
-*Released on 2019-12-11, vote average 4.8*
+*Released on 2019-12-11, vote average 4.5*
 
 Hawthorne College is quieting down for the holidays. One by one, sorority girls on campus are being killed by an unknown stalker. But the killer is about to discover that this generation’s young women aren’t willing to become hapless victims as they mount a fight to the finish.
 
@@ -88,22 +115,20 @@ Hawthorne College is quieting down for the holidays. One by one, sorority girls 
 
 
 	
-	
 
-### Ellipse
-*Released on 2019-12-12, vote average 4.3*
+  
 
-A man and his dog are stranded on a volatile, oval-shaped planet and are forced to adapt and escape before time destroys them both.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/yFvyElYcnDA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -132,55 +157,26 @@ Howard Ratner, a charismatic New York City jeweler always on the lookout for the
 
 
 	
+
+  
+
+
+	
 	
 
-### Richard Jewell
-*Released on 2019-12-13, vote average 6*
+### Trauma Center
+*Released on 2019-12-06, vote average 5.4*
 
-The true story of Richard Jewell, hero and then suspect of the 1996 Olympic Park bombing.
+Lt. Wakes is a vengeful police detective determined to solve the murders of his partner and an informant, and joins forces with a witness injured during the shootings. After the killers pursue the witness across the abandoned floor of a hospital, she confirms Wakes&#39;s worst fears.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/gSMxBLlA8qY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Y2DrOhVpPZo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
-	
-
-### Code 8
-*Released on 2019-12-06, vote average 7.2*
-
-In Lincoln City, some inhabitants have extraordinary abilities. Most live below the poverty line, under the close surveillance of a heavily militarized police force. Connor, a construction worker with powers, involves with a criminal gang to help his ailing mother. (Based on the short film “Code 8,” 2016.)
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/PrX1JJ5dduA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 	
 
@@ -191,7 +187,7 @@ In Lincoln City, some inhabitants have extraordinary abilities. Most live below 
 	
 
 ### The Immortal
-*Released on 2019-12-05, vote average 7.5*
+*Released on 2019-12-05, vote average 7.4*
 
 Ciro&#39;s body is sinking in the dark waters of the Gulf of Naples. And as it sinks deeper and deeper, memories emerge. The sounds muffled by the water merge with the screams of fleeing people. It is 1980, the earth shakes, the palace collapses, but under the rubble you can hear the cry of a newborn baby still alive. Ten years later, we find that new-born baby as it survives as it can on the streets of Naples, nobody&#39;s son. Vivid memories of a criminal education that made him what he is: Ciro Di Marzio, the Immortal. Prequel of the &#34;Gomorra&#34; tv show.
 
@@ -211,118 +207,6 @@ Ciro&#39;s body is sinking in the dark waters of the Gulf of Naples. And as it s
 
 	
 	
-
-### A Hidden Life
-*Released on 2019-12-11, vote average 6.3*
-
-The Austrian Blessed Franz Jägerstätter, a conscientious objector, refuses to fight for the Nazis in World War II.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qJXmdY4lVR0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Jack Whitehall: Christmas with my Father
-*Released on 2019-12-12, vote average 6*
-
-Jack Whitehall invites his notoriously stuffy father onstage in London&#39;s West End for a Christmas comedy extravaganza, complete with celebrity guests.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/GjnN1TpOIeU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### A Christmas Prince: The Royal Baby
-*Released on 2019-12-05, vote average 6.4*
-
-Christmas brings the ultimate gift to Aldovia: a royal baby. But first, Queen Amber must help her family and kingdom by finding a missing peace treaty.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/RK0zCsxBG3U?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Michelle Wolf: Joke Show
-*Released on 2019-12-10, vote average 6.3*
-
-Comedian Michelle Wolf takes on outrage culture, massages, childbirth, feminism and much more (like otters) in a stand-up special from New York City.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/k8Nfw75QASU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -332,7 +216,7 @@ Comedian Michelle Wolf takes on outrage culture, massages, childbirth, feminism 
 	
 
 ### 1917
-*Released on 2019-12-10, vote average 7.1*
+*Released on 2019-12-10, vote average 7.2*
 
 At the height of the First World War, two young British soldiers, Schofield and Blake are given a seemingly impossible mission. In a race against time, they must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers—Blake&#39;s own brother among them.
 
@@ -350,17 +234,59 @@ At the height of the First World War, two young British soldiers, Schofield and 
   
 
 
+	
+
+  
+
+
+	
+	
+
+### Richard Jewell
+*Released on 2019-12-13, vote average 7.7*
+
+The true story of Richard Jewell, hero and then suspect of the 1996 Olympic Park bombing.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/gSMxBLlA8qY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 
 ## Opening soon
 
 
 	
-
-	
 	
 
 ### Star Wars: The Rise of Skywalker
-*Released on 2019-12-18, vote average 5.5*
+*Released on 2019-12-18, vote average 5.9*
 
 The next installment in the franchise and the conclusion of the “Star Wars“ sequel trilogy as well as the “Skywalker Saga.”
 
@@ -369,6 +295,27 @@ The next installment in the franchise and the conclusion of the “Star Wars“ 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/adzYW5DZoWs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+	
+
+### Cats
+*Released on 2019-12-19, vote average 7.5*
+
+A tribe of cats called the Jellicles must decide yearly which one will ascend to the Heaviside Layer and come back to a new Jellicle life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jzsDroK9CNs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -390,15 +337,7 @@ The next installment in the franchise and the conclusion of the “Star Wars“ 
 	
 
 	
-
 	
-
-	
-
-	
-
-	
-
 	
 
 	
@@ -422,6 +361,14 @@ A publicity seeking radio DJ is driven to the edge of insanity when he attempts 
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
 	
 
 	
