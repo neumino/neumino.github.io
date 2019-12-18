@@ -47,7 +47,7 @@ In Jumanji: The Next Level, the gang is back but the game has changed. As they r
 	
 
 ### 6 Underground
-*Released on 2019-12-13, vote average 6.7*
+*Released on 2019-12-13, vote average 6.6*
 
 After faking his death, a tech billionaire recruits a team of international operatives for a bold and bloody mission to take down a brutal dictator.
 
@@ -66,6 +66,28 @@ After faking his death, a tech billionaire recruits a team of international oper
 
 
 	
+	
+
+### Star Wars: The Rise of Skywalker
+*Released on 2019-12-18, vote average 6.4*
+
+The next installment in the franchise and the conclusion of the “Star Wars“ sequel trilogy as well as the “Skywalker Saga.”
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/adzYW5DZoWs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 
   
 
@@ -74,7 +96,7 @@ After faking his death, a tech billionaire recruits a team of international oper
 	
 
 ### Code 8
-*Released on 2019-12-06, vote average 7.4*
+*Released on 2019-12-06, vote average 7.3*
 
 In Lincoln City, some inhabitants have extraordinary abilities. Most live below the poverty line, under the close surveillance of a heavily militarized police force. Connor, a construction worker with powers, involves with a criminal gang to help his ailing mother. (Based on the short film “Code 8,” 2016.)
 
@@ -96,9 +118,9 @@ In Lincoln City, some inhabitants have extraordinary abilities. Most live below 
 	
 
 ### Black Christmas
-*Released on 2019-12-11, vote average 4.5*
+*Released on 2019-12-11, vote average 4.2*
 
-Hawthorne College is quieting down for the holidays. One by one, sorority girls on campus are being killed by an unknown stalker. But the killer is about to discover that this generation’s young women aren’t willing to become hapless victims as they mount a fight to the finish.
+Hawthorne College is winding down for the holidays, yet one by one, sorority girls are being picked off. Riley Stone, a girl dealing with her own trauma, begins to notice and tries to save her friends before they too are picked off.
 
 <iframe id="player"
 	type="text/html"
@@ -115,20 +137,7 @@ Hawthorne College is quieting down for the holidays. One by one, sorority girls 
 
 
 	
-
-  
-
-
 	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -138,7 +147,7 @@ Hawthorne College is quieting down for the holidays. One by one, sorority girls 
 	
 
 ### Uncut Gems
-*Released on 2019-12-13, vote average 9.7*
+*Released on 2019-12-13, vote average 9.4*
 
 Howard Ratner, a charismatic New York City jeweler always on the lookout for the next big score, makes a series of high-stakes bets that could lead to the windfall of a lifetime.
 
@@ -151,6 +160,33 @@ Howard Ratner, a charismatic New York City jeweler always on the lookout for the
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Mob Town
+*Released on 2019-12-13, vote average 8*
+
+Based on the true story of the notorious 1957 ‘mob summit’ in upstate New York. Spearheaded by Vito Genovese, more than 50 leaders of the organized crime syndicates from around the country converged on the sleepy town to discuss upcoming expansion plans. Their plans are foiled when local police trooper Ed Croswell discovers their activities and, consequently, exposes the mob to the American public. Croswell’s actions shed light on the massive web of corruption and changed the face of law enforcement forever.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Ipd0nf62eZw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -243,7 +279,7 @@ At the height of the First World War, two young British soldiers, Schofield and 
 	
 
 ### Richard Jewell
-*Released on 2019-12-13, vote average 7.7*
+*Released on 2019-12-13, vote average 7.4*
 
 The true story of Richard Jewell, hero and then suspect of the 1996 Olympic Park bombing.
 
@@ -286,7 +322,7 @@ The true story of Richard Jewell, hero and then suspect of the 1996 Olympic Park
 	
 
 ### Star Wars: The Rise of Skywalker
-*Released on 2019-12-18, vote average 5.9*
+*Released on 2019-12-18, vote average 6.4*
 
 The next installment in the franchise and the conclusion of the “Star Wars“ sequel trilogy as well as the “Skywalker Saga.”
 
@@ -302,12 +338,29 @@ The next installment in the franchise and the conclusion of the “Star Wars“ 
 	
 
 	
+	
+
+### Ip Man 4: The Finale
+*Released on 2019-12-20, vote average 5.5*
+
+Ip Man 4 is an upcoming Hong Kong biographical martial arts film directed by Wilson Yip and produced by Raymond Wong. It is the fourth in the Ip Man film series based on the life of the Wing Chun grandmaster of the same name and features Donnie Yen reprising the role. The film began production in April 2018 and ended in July the same year.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/V4qmd7DE5tk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 	
 
 ### Cats
-*Released on 2019-12-19, vote average 7.5*
+*Released on 2019-12-19, vote average 8.3*
 
 A tribe of cats called the Jellicles must decide yearly which one will ascend to the Heaviside Layer and come back to a new Jellicle life.
 
@@ -325,6 +378,31 @@ A tribe of cats called the Jellicles must decide yearly which one will ascend to
 	
 
 	
+	
+
+### Bombshell
+*Released on 2019-12-20, vote average 8*
+
+Based on the real scandal, BOMBSHELL is a revealing look inside the most powerful and controversial media empire of all time; and the explosive story of the women who brought down the infamous man who created it.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/YXL33tEUA3g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+	
+	
 
 	
 
@@ -337,7 +415,9 @@ A tribe of cats called the Jellicles must decide yearly which one will ascend to
 	
 
 	
+
 	
+
 	
 
 	
@@ -361,16 +441,6 @@ A publicity seeking radio DJ is driven to the edge of insanity when he attempts 
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
