@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Jumanji: The Next Level
-*Released on 2019-12-04, vote average 6.8*
+### 6 Underground
+*Released on 2019-12-13, vote average 6.5*
 
-In Jumanji: The Next Level, the gang is back but the game has changed. As they return to rescue one of their own, the players will have to brave parts unknown from arid deserts to snowy mountains, to escape the world&#39;s most dangerous game.
+After faking his death, a tech billionaire recruits a team of international operatives for a bold and bloody mission to take down a brutal dictator.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/rBxcF-r9Ibs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/YLE85olJjp8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,30 +46,8 @@ In Jumanji: The Next Level, the gang is back but the game has changed. As they r
 	
 	
 
-### 6 Underground
-*Released on 2019-12-13, vote average 6.6*
-
-After faking his death, a tech billionaire recruits a team of international operatives for a bold and bloody mission to take down a brutal dictator.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/YLE85olJjp8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Star Wars: The Rise of Skywalker
-*Released on 2019-12-18, vote average 6.4*
+*Released on 2019-12-18, vote average 6.6*
 
 The next installment in the franchise and the conclusion of the “Star Wars“ sequel trilogy as well as the “Skywalker Saga.”
 
@@ -88,15 +66,10 @@ The next installment in the franchise and the conclusion of the “Star Wars“ 
 
 
 	
-
-  
-
-
-	
 	
 
 ### Code 8
-*Released on 2019-12-06, vote average 7.3*
+*Released on 2019-12-06, vote average 7*
 
 In Lincoln City, some inhabitants have extraordinary abilities. Most live below the poverty line, under the close surveillance of a heavily militarized police force. Connor, a construction worker with powers, involves with a criminal gang to help his ailing mother. (Based on the short film “Code 8,” 2016.)
 
@@ -108,6 +81,62 @@ In Lincoln City, some inhabitants have extraordinary abilities. Most live below 
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Uncut Gems
+*Released on 2019-12-13, vote average 9*
+
+Howard Ratner, a charismatic New York City jeweler always on the lookout for the next big score, makes a series of high-stakes bets that could lead to the windfall of a lifetime.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vTfJp2Ts9X8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Cats
+*Released on 2019-12-19, vote average 8.3*
+
+A tribe of cats called the Jellicles must decide yearly which one will ascend to the Heaviside Layer and come back to a new Jellicle life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jzsDroK9CNs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -127,35 +156,6 @@ Hawthorne College is winding down for the holidays, yet one by one, sorority gir
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/gF4yRYbo1WE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Uncut Gems
-*Released on 2019-12-13, vote average 9.4*
-
-Howard Ratner, a charismatic New York City jeweler always on the lookout for the next big score, makes a series of high-stakes bets that could lead to the windfall of a lifetime.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vTfJp2Ts9X8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -187,6 +187,15 @@ Based on the true story of the notorious 1957 ‘mob summit’ in upstate New Yo
   
 
 
+	
+	
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -223,7 +232,7 @@ Lt. Wakes is a vengeful police detective determined to solve the murders of his 
 	
 
 ### The Immortal
-*Released on 2019-12-05, vote average 7.4*
+*Released on 2019-12-05, vote average 7.5*
 
 Ciro&#39;s body is sinking in the dark waters of the Gulf of Naples. And as it sinks deeper and deeper, memories emerge. The sounds muffled by the water merge with the screams of fleeing people. It is 1980, the earth shakes, the palace collapses, but under the rubble you can hear the cry of a newborn baby still alive. Ten years later, we find that new-born baby as it survives as it can on the streets of Naples, nobody&#39;s son. Vivid memories of a criminal education that made him what he is: Ciro Di Marzio, the Immortal. Prequel of the &#34;Gomorra&#34; tv show.
 
@@ -235,13 +244,6 @@ Ciro&#39;s body is sinking in the dark waters of the Gulf of Naples. And as it s
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -279,7 +281,7 @@ At the height of the First World War, two young British soldiers, Schofield and 
 	
 
 ### Richard Jewell
-*Released on 2019-12-13, vote average 7.4*
+*Released on 2019-12-13, vote average 7.6*
 
 The true story of Richard Jewell, hero and then suspect of the 1996 Olympic Park bombing.
 
@@ -321,27 +323,8 @@ The true story of Richard Jewell, hero and then suspect of the 1996 Olympic Park
 	
 	
 
-### Star Wars: The Rise of Skywalker
-*Released on 2019-12-18, vote average 6.4*
-
-The next installment in the franchise and the conclusion of the “Star Wars“ sequel trilogy as well as the “Skywalker Saga.”
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/adzYW5DZoWs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
 ### Ip Man 4: The Finale
-*Released on 2019-12-20, vote average 5.5*
+*Released on 2019-12-20, vote average 5.8*
 
 Ip Man 4 is an upcoming Hong Kong biographical martial arts film directed by Wilson Yip and produced by Raymond Wong. It is the fourth in the Ip Man film series based on the life of the Wing Chun grandmaster of the same name and features Donnie Yen reprising the role. The film began production in April 2018 and ended in July the same year.
 
@@ -381,7 +364,7 @@ A tribe of cats called the Jellicles must decide yearly which one will ascend to
 	
 
 ### Bombshell
-*Released on 2019-12-20, vote average 8*
+*Released on 2019-12-20, vote average 7.3*
 
 Based on the real scandal, BOMBSHELL is a revealing look inside the most powerful and controversial media empire of all time; and the explosive story of the women who brought down the infamous man who created it.
 
@@ -413,13 +396,22 @@ Based on the real scandal, BOMBSHELL is a revealing look inside the most powerfu
 	
 
 	
-
 	
 
-	
+### Togo
+*Released on 2019-12-20, vote average 5*
+
+The story of the sled dog, Togo, who led the 1925 serum run, but was considered by most to be too small and weak to lead such an intense race.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/HMfyueM-ZBQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
 	
 
 	
@@ -441,6 +433,16 @@ A publicity seeking radio DJ is driven to the edge of insanity when he attempts 
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
