@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### 6 Underground
-*Released on 2019-12-13, vote average 6.5*
+### Star Wars: The Rise of Skywalker
+*Released on 2019-12-18, vote average 6.7*
 
-After faking his death, a tech billionaire recruits a team of international operatives for a bold and bloody mission to take down a brutal dictator.
+The next installment in the franchise and the conclusion of the “Star Wars“ sequel trilogy as well as the “Skywalker Saga.”
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/YLE85olJjp8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/adzYW5DZoWs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,38 @@ After faking his death, a tech billionaire recruits a team of international oper
 	
 	
 
-### Star Wars: The Rise of Skywalker
-*Released on 2019-12-18, vote average 6.6*
+### 6 Underground
+*Released on 2019-12-13, vote average 6.5*
 
-The next installment in the franchise and the conclusion of the “Star Wars“ sequel trilogy as well as the “Skywalker Saga.”
+After faking his death, a tech billionaire recruits a team of international operatives for a bold and bloody mission to take down a brutal dictator.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/adzYW5DZoWs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/YLE85olJjp8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Ip Man 4: The Finale
+*Released on 2019-12-20, vote average 6.2*
+
+Ip Man 4 is an upcoming Hong Kong biographical martial arts film directed by Wilson Yip and produced by Raymond Wong. It is the fourth in the Ip Man film series based on the life of the Wing Chun grandmaster of the same name and features Donnie Yen reprising the role. The film began production in April 2018 and ended in July the same year.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/V4qmd7DE5tk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -96,7 +118,7 @@ In Lincoln City, some inhabitants have extraordinary abilities. Most live below 
 	
 
 ### Uncut Gems
-*Released on 2019-12-13, vote average 9*
+*Released on 2019-12-13, vote average 7.9*
 
 Howard Ratner, a charismatic New York City jeweler always on the lookout for the next big score, makes a series of high-stakes bets that could lead to the windfall of a lifetime.
 
@@ -116,27 +138,27 @@ Howard Ratner, a charismatic New York City jeweler always on the lookout for the
 
 	
 	
-
-### Cats
-*Released on 2019-12-19, vote average 8.3*
-
-A tribe of cats called the Jellicles must decide yearly which one will ascend to the Heaviside Layer and come back to a new Jellicle life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jzsDroK9CNs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
 
 
 	
+	
+
+### Mob Town
+*Released on 2019-12-13, vote average 8*
+
+Based on the true story of the notorious 1957 ‘mob summit’ in upstate New York. Spearheaded by Vito Genovese, more than 50 leaders of the organized crime syndicates from around the country converged on the sleepy town to discuss upcoming expansion plans. Their plans are foiled when local police trooper Ed Croswell discovers their activities and, consequently, exposes the mob to the American public. Croswell’s actions shed light on the massive web of corruption and changed the face of law enforcement forever.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Ipd0nf62eZw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -156,28 +178,6 @@ Hawthorne College is winding down for the holidays, yet one by one, sorority gir
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/gF4yRYbo1WE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Mob Town
-*Released on 2019-12-13, vote average 8*
-
-Based on the true story of the notorious 1957 ‘mob summit’ in upstate New York. Spearheaded by Vito Genovese, more than 50 leaders of the organized crime syndicates from around the country converged on the sleepy town to discuss upcoming expansion plans. Their plans are foiled when local police trooper Ed Croswell discovers their activities and, consequently, exposes the mob to the American public. Croswell’s actions shed light on the massive web of corruption and changed the face of law enforcement forever.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Ipd0nf62eZw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -231,30 +231,8 @@ Lt. Wakes is a vengeful police detective determined to solve the murders of his 
 	
 	
 
-### The Immortal
-*Released on 2019-12-05, vote average 7.5*
-
-Ciro&#39;s body is sinking in the dark waters of the Gulf of Naples. And as it sinks deeper and deeper, memories emerge. The sounds muffled by the water merge with the screams of fleeing people. It is 1980, the earth shakes, the palace collapses, but under the rubble you can hear the cry of a newborn baby still alive. Ten years later, we find that new-born baby as it survives as it can on the streets of Naples, nobody&#39;s son. Vivid memories of a criminal education that made him what he is: Ciro Di Marzio, the Immortal. Prequel of the &#34;Gomorra&#34; tv show.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/AUvgnCGPZQQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### 1917
-*Released on 2019-12-10, vote average 7.2*
+*Released on 2019-12-10, vote average 7.5*
 
 At the height of the First World War, two young British soldiers, Schofield and Blake are given a seemingly impossible mission. In a race against time, they must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers—Blake&#39;s own brother among them.
 
@@ -281,7 +259,7 @@ At the height of the First World War, two young British soldiers, Schofield and 
 	
 
 ### Richard Jewell
-*Released on 2019-12-13, vote average 7.6*
+*Released on 2019-12-13, vote average 7.7*
 
 The true story of Richard Jewell, hero and then suspect of the 1996 Olympic Park bombing.
 
@@ -316,6 +294,13 @@ The true story of Richard Jewell, hero and then suspect of the 1996 Olympic Park
   
 
 
+	
+	
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -324,7 +309,7 @@ The true story of Richard Jewell, hero and then suspect of the 1996 Olympic Park
 	
 
 ### Ip Man 4: The Finale
-*Released on 2019-12-20, vote average 5.8*
+*Released on 2019-12-20, vote average 6.2*
 
 Ip Man 4 is an upcoming Hong Kong biographical martial arts film directed by Wilson Yip and produced by Raymond Wong. It is the fourth in the Ip Man film series based on the life of the Wing Chun grandmaster of the same name and features Donnie Yen reprising the role. The film began production in April 2018 and ended in July the same year.
 
@@ -333,25 +318,6 @@ Ip Man 4 is an upcoming Hong Kong biographical martial arts film directed by Wil
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/V4qmd7DE5tk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Cats
-*Released on 2019-12-19, vote average 8.3*
-
-A tribe of cats called the Jellicles must decide yearly which one will ascend to the Heaviside Layer and come back to a new Jellicle life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jzsDroK9CNs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -376,14 +342,6 @@ Based on the real scandal, BOMBSHELL is a revealing look inside the most powerfu
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-	
-
-	
-
-	
 	
 	
 
@@ -417,22 +375,13 @@ The story of the sled dog, Togo, who led the 1925 serum run, but was considered 
 	
 
 	
-	
-
-### Rapid Eye Movement
-*Released on 2019-12-19, vote average 9*
-
-A publicity seeking radio DJ is driven to the edge of insanity when he attempts to break the 11 day world record for staying awake-under the threat of a deranged caller who will kill him if he falls asleep.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3M4bdilkJi4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+	
+
+	
+
 	
 
 	
