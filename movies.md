@@ -47,7 +47,7 @@ The next installment in the franchise and the conclusion of the “Star Wars“ 
 	
 
 ### 6 Underground
-*Released on 2019-12-13, vote average 6.5*
+*Released on 2019-12-13, vote average 6.4*
 
 After faking his death, a tech billionaire recruits a team of international operatives for a bold and bloody mission to take down a brutal dictator.
 
@@ -69,7 +69,7 @@ After faking his death, a tech billionaire recruits a team of international oper
 	
 
 ### Ip Man 4: The Finale
-*Released on 2019-12-20, vote average 6.2*
+*Released on 2019-12-20, vote average 5.8*
 
 Ip Man 4 is an upcoming Hong Kong biographical martial arts film directed by Wilson Yip and produced by Raymond Wong. It is the fourth in the Ip Man film series based on the life of the Wing Chun grandmaster of the same name and features Donnie Yen reprising the role. The film began production in April 2018 and ended in July the same year.
 
@@ -90,16 +90,16 @@ Ip Man 4 is an upcoming Hong Kong biographical martial arts film directed by Wil
 	
 	
 
-### Code 8
-*Released on 2019-12-06, vote average 7*
+### My Bakit List
+*Released on 2019-12-11, vote average 10*
 
-In Lincoln City, some inhabitants have extraordinary abilities. Most live below the poverty line, under the close surveillance of a heavily militarized police force. Connor, a construction worker with powers, involves with a criminal gang to help his ailing mother. (Based on the short film “Code 8,” 2016.)
+Dess embarks on a soul searching journey and accidentally bumps into her ex-boyfriend who left her without any explanation.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/PrX1JJ5dduA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/9gNcTZHpYPo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -110,15 +110,10 @@ In Lincoln City, some inhabitants have extraordinary abilities. Most live below 
 
 
 	
-
-  
-
-
-	
 	
 
 ### Uncut Gems
-*Released on 2019-12-13, vote average 7.9*
+*Released on 2019-12-13, vote average 7.7*
 
 Howard Ratner, a charismatic New York City jeweler always on the lookout for the next big score, makes a series of high-stakes bets that could lead to the windfall of a lifetime.
 
@@ -138,6 +133,50 @@ Howard Ratner, a charismatic New York City jeweler always on the lookout for the
 
 	
 	
+
+### Bombshell
+*Released on 2019-12-20, vote average 7*
+
+Based on the real scandal, BOMBSHELL is a revealing look inside the most powerful and controversial media empire of all time; and the explosive story of the women who brought down the infamous man who created it.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/YXL33tEUA3g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Togo
+*Released on 2019-12-20, vote average 5*
+
+From Disney, &#34;Togo&#34; is the untold true story set in the winter of 1925 that takes you across the treacherous terrain of the Alaskan tundra for an exhilarating and uplifting adventure that will test the strength, courage and determination of one man, Leonhard Seppala, and his lead sled dog, Togo.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/HMfyueM-ZBQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -147,7 +186,7 @@ Howard Ratner, a charismatic New York City jeweler always on the lookout for the
 	
 
 ### Mob Town
-*Released on 2019-12-13, vote average 8*
+*Released on 2019-12-13, vote average 6.3*
 
 Based on the true story of the notorious 1957 ‘mob summit’ in upstate New York. Spearheaded by Vito Genovese, more than 50 leaders of the organized crime syndicates from around the country converged on the sleepy town to discuss upcoming expansion plans. Their plans are foiled when local police trooper Ed Croswell discovers their activities and, consequently, exposes the mob to the American public. Croswell’s actions shed light on the massive web of corruption and changed the face of law enforcement forever.
 
@@ -169,7 +208,7 @@ Based on the true story of the notorious 1957 ‘mob summit’ in upstate New Yo
 	
 
 ### Black Christmas
-*Released on 2019-12-11, vote average 4.2*
+*Released on 2019-12-11, vote average 4.1*
 
 Hawthorne College is winding down for the holidays, yet one by one, sorority girls are being picked off. Riley Stone, a girl dealing with her own trauma, begins to notice and tries to save her friends before they too are picked off.
 
@@ -202,27 +241,12 @@ Hawthorne College is winding down for the holidays, yet one by one, sorority gir
 
 
 	
+	
+	
 
   
 
 
-	
-	
-
-### Trauma Center
-*Released on 2019-12-06, vote average 5.4*
-
-Lt. Wakes is a vengeful police detective determined to solve the murders of his partner and an informant, and joins forces with a witness injured during the shootings. After the killers pursue the witness across the abandoned floor of a hospital, she confirms Wakes&#39;s worst fears.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Y2DrOhVpPZo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -232,7 +256,7 @@ Lt. Wakes is a vengeful police detective determined to solve the murders of his 
 	
 
 ### 1917
-*Released on 2019-12-10, vote average 7.5*
+*Released on 2019-12-10, vote average 7.4*
 
 At the height of the First World War, two young British soldiers, Schofield and Blake are given a seemingly impossible mission. In a race against time, they must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers—Blake&#39;s own brother among them.
 
@@ -288,15 +312,6 @@ The true story of Richard Jewell, hero and then suspect of the 1996 Olympic Park
 
 
 	
-	
-	
-
-  
-
-
-	
-	
-	
 
   
 
@@ -308,37 +323,16 @@ The true story of Richard Jewell, hero and then suspect of the 1996 Olympic Park
 	
 	
 
-### Ip Man 4: The Finale
-*Released on 2019-12-20, vote average 6.2*
+### Spies in Disguise
+*Released on 2019-12-24, vote average 10*
 
-Ip Man 4 is an upcoming Hong Kong biographical martial arts film directed by Wilson Yip and produced by Raymond Wong. It is the fourth in the Ip Man film series based on the life of the Wing Chun grandmaster of the same name and features Donnie Yen reprising the role. The film began production in April 2018 and ended in July the same year.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/V4qmd7DE5tk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-	
-
-### Bombshell
-*Released on 2019-12-20, vote average 7.3*
-
-Based on the real scandal, BOMBSHELL is a revealing look inside the most powerful and controversial media empire of all time; and the explosive story of the women who brought down the infamous man who created it.
+When the world&#39;s best spy is turned into a pigeon, he must rely on his nerdy tech officer to save the world.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/YXL33tEUA3g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/LSSGHvzMY60?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -354,22 +348,9 @@ Based on the real scandal, BOMBSHELL is a revealing look inside the most powerfu
 	
 
 	
-	
-
-### Togo
-*Released on 2019-12-20, vote average 5*
-
-The story of the sled dog, Togo, who led the 1925 serum run, but was considered by most to be too small and weak to lead such an intense race.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/HMfyueM-ZBQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
 	
 
 	
