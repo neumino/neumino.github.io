@@ -91,7 +91,7 @@ Dess embarks on a soul searching journey and accidentally bumps into her ex-boyf
 	
 
 ### Ip Man 4: The Finale
-*Released on 2019-12-20, vote average 5.6*
+*Released on 2019-12-20, vote average 5.7*
 
 Ip Man 4 is an upcoming Hong Kong biographical martial arts film directed by Wilson Yip and produced by Raymond Wong. It is the fourth in the Ip Man film series based on the life of the Wing Chun grandmaster of the same name and features Donnie Yen reprising the role. The film began production in April 2018 and ended in July the same year.
 
@@ -112,16 +112,16 @@ Ip Man 4 is an upcoming Hong Kong biographical martial arts film directed by Wil
 	
 	
 
-### Bombshell
-*Released on 2019-12-13, vote average 7.2*
+### Togo
+*Released on 2019-12-20, vote average 7.1*
 
-Based on the real scandal, BOMBSHELL is a revealing look inside the most powerful and controversial media empire of all time; and the explosive story of the women who brought down the infamous man who created it.
+The untold true story set in the winter of 1925 that takes you across the treacherous terrain of the Alaskan tundra for an exhilarating and uplifting adventure that will test the strength, courage and determination of one man, Leonhard Seppala, and his lead sled dog, Togo.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/YXL33tEUA3g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/HMfyueM-ZBQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,16 +134,16 @@ Based on the real scandal, BOMBSHELL is a revealing look inside the most powerfu
 	
 	
 
-### Togo
-*Released on 2019-12-20, vote average 7.5*
+### Bombshell
+*Released on 2019-12-13, vote average 6.3*
 
-The untold true story set in the winter of 1925 that takes you across the treacherous terrain of the Alaskan tundra for an exhilarating and uplifting adventure that will test the strength, courage and determination of one man, Leonhard Seppala, and his lead sled dog, Togo.
+Bombshell is a revealing look inside the most powerful and controversial media empire of all time; and the explosive story of the women who brought down the infamous man who created it.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/HMfyueM-ZBQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/YXL33tEUA3g?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -181,6 +181,8 @@ Howard Ratner, a charismatic New York City jeweler always on the lookout for the
 
 
 	
+	
+	
 
   
 
@@ -189,7 +191,7 @@ Howard Ratner, a charismatic New York City jeweler always on the lookout for the
 	
 
 ### Dabangg 3
-*Released on 2019-12-20, vote average 10*
+*Released on 2019-12-20, vote average 6.7*
 
 Third installment of the Dabanng film series.
 
@@ -201,6 +203,13 @@ Third installment of the Dabanng film series.
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -255,10 +264,7 @@ At the height of the First World War, two young British soldiers, Schofield and 
 
 
 	
-
-  
-
-
+	
 	
 
   
@@ -268,7 +274,7 @@ At the height of the First World War, two young British soldiers, Schofield and 
 	
 
 ### Black Christmas
-*Released on 2019-12-11, vote average 4.1*
+*Released on 2019-12-11, vote average 4*
 
 Hawthorne College is winding down for the holidays, yet one by one, sorority girls are being picked off. Riley Stone, a girl dealing with her own trauma, begins to notice and tries to save her friends before they too are picked off.
 
@@ -315,15 +321,22 @@ When the world&#39;s best spy is turned into a pigeon, he must rely on his nerdy
 	
 
 	
-
 	
 
-	
+### Little Women
+*Released on 2019-12-25, vote average 8*
+
+Four sisters come of age in America in the aftermath of the Civil War.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/AST2-4db4ic?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-	
-
 	
 
 	
@@ -349,6 +362,16 @@ The powerful true story of Harvard-educated lawyer Bryan Stevenson, who goes to 
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
