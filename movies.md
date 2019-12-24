@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Star Wars: The Rise of Skywalker
-*Released on 2019-12-18, vote average 6.8*
+*Released on 2019-12-18, vote average 6.7*
 
 The surviving Resistance faces the First Order once again as the journey of Rey, Finn and Poe Dameron continues. With the power and knowledge of generations behind them, the final battle begins.
 
@@ -46,6 +46,28 @@ The surviving Resistance faces the First Order once again as the journey of Rey,
 	
 	
 
+### Ip Man 4: The Finale
+*Released on 2019-12-20, vote average 5.7*
+
+Ip Man 4 is an upcoming Hong Kong biographical martial arts film directed by Wilson Yip and produced by Raymond Wong. It is the fourth in the Ip Man film series based on the life of the Wing Chun grandmaster of the same name and features Donnie Yen reprising the role. The film began production in April 2018 and ended in July the same year.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/V4qmd7DE5tk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### 6 Underground
 *Released on 2019-12-13, vote average 6.4*
 
@@ -69,7 +91,7 @@ After faking his death, a tech billionaire recruits a team of international oper
 	
 
 ### My Bakit List
-*Released on 2019-12-11, vote average 10*
+*Released on 2019-12-11, vote average 5.5*
 
 Dess embarks on a soul searching journey and accidentally bumps into her ex-boyfriend who left her without any explanation.
 
@@ -90,30 +112,8 @@ Dess embarks on a soul searching journey and accidentally bumps into her ex-boyf
 	
 	
 
-### Ip Man 4: The Finale
-*Released on 2019-12-20, vote average 5.7*
-
-Ip Man 4 is an upcoming Hong Kong biographical martial arts film directed by Wilson Yip and produced by Raymond Wong. It is the fourth in the Ip Man film series based on the life of the Wing Chun grandmaster of the same name and features Donnie Yen reprising the role. The film began production in April 2018 and ended in July the same year.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/V4qmd7DE5tk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Togo
-*Released on 2019-12-20, vote average 7.1*
+*Released on 2019-12-20, vote average 7.3*
 
 The untold true story set in the winter of 1925 that takes you across the treacherous terrain of the Alaskan tundra for an exhilarating and uplifting adventure that will test the strength, courage and determination of one man, Leonhard Seppala, and his lead sled dog, Togo.
 
@@ -134,8 +134,52 @@ The untold true story set in the winter of 1925 that takes you across the treach
 	
 	
 
+### Spies in Disguise
+*Released on 2019-12-24, vote average 8.1*
+
+When the world&#39;s best spy is turned into a pigeon, he must rely on his nerdy tech officer to save the world.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LSSGHvzMY60?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Cats
+*Released on 2019-12-19, vote average 5.5*
+
+A tribe of cats called the Jellicles must decide yearly which one will ascend to the Heaviside Layer and come back to a new Jellicle life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jzsDroK9CNs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Bombshell
-*Released on 2019-12-13, vote average 6.3*
+*Released on 2019-12-13, vote average 6.7*
 
 Bombshell is a revealing look inside the most powerful and controversial media empire of all time; and the explosive story of the women who brought down the infamous man who created it.
 
@@ -157,7 +201,7 @@ Bombshell is a revealing look inside the most powerful and controversial media e
 	
 
 ### Uncut Gems
-*Released on 2019-12-13, vote average 7.7*
+*Released on 2019-12-13, vote average 7.6*
 
 Howard Ratner, a charismatic New York City jeweler always on the lookout for the next big score, makes a series of high-stakes bets that could lead to the windfall of a lifetime.
 
@@ -270,33 +314,6 @@ At the height of the First World War, two young British soldiers, Schofield and 
   
 
 
-	
-	
-
-### Black Christmas
-*Released on 2019-12-11, vote average 4*
-
-Hawthorne College is winding down for the holidays, yet one by one, sorority girls are being picked off. Riley Stone, a girl dealing with her own trauma, begins to notice and tries to save her friends before they too are picked off.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/gF4yRYbo1WE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -305,7 +322,7 @@ Hawthorne College is winding down for the holidays, yet one by one, sorority gir
 	
 
 ### Spies in Disguise
-*Released on 2019-12-24, vote average 8*
+*Released on 2019-12-24, vote average 8.1*
 
 When the world&#39;s best spy is turned into a pigeon, he must rely on his nerdy tech officer to save the world.
 
@@ -346,6 +363,8 @@ Four sisters come of age in America in the aftermath of the Civil War.
 	
 
 	
+
+	
 	
 
 ### Just Mercy
@@ -362,8 +381,6 @@ The powerful true story of Harvard-educated lawyer Bryan Stevenson, who goes to 
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
