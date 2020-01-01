@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Star Wars: The Rise of Skywalker
-*Released on 2019-12-18, vote average 6.6*
+*Released on 2019-12-18, vote average 6.7*
 
 The surviving Resistance faces the First Order once again as the journey of Rey, Finn and Poe Dameron continues. With the power and knowledge of generations behind them, the final battle begins.
 
@@ -47,7 +47,7 @@ The surviving Resistance faces the First Order once again as the journey of Rey,
 	
 
 ### Ip Man 4: The Finale
-*Released on 2019-12-20, vote average 6.3*
+*Released on 2019-12-20, vote average 6.2*
 
 Following the death of his wife, Ip Man travels to San Francisco to ease tensions between the local kung fu masters and his star student, Bruce Lee, while searching for a better future for his son.
 
@@ -69,7 +69,7 @@ Following the death of his wife, Ip Man travels to San Francisco to ease tension
 	
 
 ### Spies in Disguise
-*Released on 2019-12-24, vote average 8.1*
+*Released on 2019-12-24, vote average 7.8*
 
 When the world&#39;s best spy is turned into a pigeon, he must rely on his nerdy tech officer to save the world.
 
@@ -134,16 +134,16 @@ Four sisters come of age in America in the aftermath of the Civil War.
 	
 	
 
-### The App
-*Released on 2019-12-26, vote average 3*
+### Togo
+*Released on 2019-12-20, vote average 7.4*
 
-Loving girlfriend, family fortune, breakout movie role: he&#39;s got it all. Until an app awakens a powerful new yearning. While in Rome to shoot his first movie, actor and industrial heir Niccolò becomes obsessed with the dating app &#34;US&#34; that sends him into a self-destructive spiral.
+The untold true story set in the winter of 1925 that takes you across the treacherous terrain of the Alaskan tundra for an exhilarating and uplifting adventure that will test the strength, courage and determination of one man, Leonhard Seppala, and his lead sled dog, Togo.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/lLvzvgwaVWM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/HMfyueM-ZBQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -156,16 +156,16 @@ Loving girlfriend, family fortune, breakout movie role: he&#39;s got it all. Unt
 	
 	
 
-### Togo
-*Released on 2019-12-20, vote average 7.4*
+### The App
+*Released on 2019-12-26, vote average 3*
 
-The untold true story set in the winter of 1925 that takes you across the treacherous terrain of the Alaskan tundra for an exhilarating and uplifting adventure that will test the strength, courage and determination of one man, Leonhard Seppala, and his lead sled dog, Togo.
+Loving girlfriend, family fortune, breakout movie role: he&#39;s got it all. Until an app awakens a powerful new yearning. While in Rome to shoot his first movie, actor and industrial heir Niccolò becomes obsessed with the dating app &#34;US&#34; that sends him into a self-destructive spiral.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/HMfyueM-ZBQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/lLvzvgwaVWM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -293,7 +293,7 @@ It is an upcoming Indian romantic comedy film starring Akshay Kumar, Kiara Advan
 	
 
 ### Primal
-*Released on 2019-12-27, vote average 5.8*
+*Released on 2019-12-27, vote average 5.6*
 
 A big-game hunter for zoos who has booked passage on a Greek shipping freighter with a fresh haul of exotic and deadly animals from the Amazon, including a rare white Jaguar - along with a political assassin being extradited to the U.S in secret. Two days into the journey, the assassin escapes and releases the captive animals, throwing the ship into chaos.
 
@@ -326,7 +326,7 @@ A big-game hunter for zoos who has booked passage on a Greek shipping freighter 
 	
 
 ### The Grudge
-*Released on 2020-01-02, vote average 7.8*
+*Released on 2020-01-02, vote average 8*
 
 A house is cursed by a vengeful ghost that dooms those who enter it with a violent death.
 
@@ -339,6 +339,8 @@ A house is cursed by a vengeful ghost that dooms those who enter it with a viole
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
@@ -379,7 +381,7 @@ A drug lord tries to sell off his highly profitable empire.
 	
 
 	
-
+	
 	
 
 	
@@ -390,6 +392,23 @@ A drug lord tries to sell off his highly profitable empire.
 
 	
 
+	
+	
+
+### The Wolf Hour
+*Released on 2020-01-02, vote average 9*
+
+Once a known counterculture figure, June E. Leigh now lives in self-imposed exile in her South Bronx apartment during the incendiary &#39;77 Summer of Sam. When an unseen tormentor begins exploiting June&#39;s weaknesses, her insular universe begins to unravel.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/AhFxMqhGtzg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
