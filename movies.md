@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Star Wars: The Rise of Skywalker
-*Released on 2019-12-18, vote average 6.7*
+### Ip Man 4: The Finale
+*Released on 2019-12-20, vote average 6.2*
 
-The surviving Resistance faces the First Order once again as the journey of Rey, Finn and Poe Dameron continues. With the power and knowledge of generations behind them, the final battle begins.
+Following the death of his wife, Ip Man travels to San Francisco to ease tensions between the local kung fu masters and his star student, Bruce Lee, while searching for a better future for his son.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/adzYW5DZoWs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/jpe1h0USjIM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -40,28 +40,6 @@ The surviving Resistance faces the First Order once again as the journey of Rey,
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-
-
-	
-	
-
-### Ip Man 4: The Finale
-*Released on 2019-12-20, vote average 6.2*
-
-Following the death of his wife, Ip Man travels to San Francisco to ease tensions between the local kung fu masters and his star student, Bruce Lee, while searching for a better future for his son.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jpe1h0USjIM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
   
 
 
@@ -113,7 +91,7 @@ A tribe of cats called the Jellicles must decide yearly which one will ascend to
 	
 
 ### Little Women
-*Released on 2019-12-25, vote average 8.3*
+*Released on 2019-12-25, vote average 8.2*
 
 Four sisters come of age in America in the aftermath of the Civil War.
 
@@ -134,8 +112,30 @@ Four sisters come of age in America in the aftermath of the Civil War.
 	
 	
 
+### The Grudge
+*Released on 2020-01-02, vote average 8*
+
+A house is cursed by a vengeful ghost that dooms those who enter it with a violent death.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/O2NKzO-fxwQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Togo
-*Released on 2019-12-20, vote average 7.4*
+*Released on 2019-12-20, vote average 7.3*
 
 The untold true story set in the winter of 1925 that takes you across the treacherous terrain of the Alaskan tundra for an exhilarating and uplifting adventure that will test the strength, courage and determination of one man, Leonhard Seppala, and his lead sled dog, Togo.
 
@@ -144,6 +144,28 @@ The untold true story set in the winter of 1925 that takes you across the treach
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/HMfyueM-ZBQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Gentlemen
+*Released on 2020-01-01, vote average 6*
+
+A drug lord tries to sell off his highly profitable empire.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2B0RpUGss2c?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -208,11 +230,6 @@ The powerful true story of Harvard-educated lawyer Bryan Stevenson, who goes to 
 
 
 	
-
-  
-
-
-	
 	
 
 ### Gavin and Stacey: Christmas Special 2019
@@ -234,23 +251,6 @@ Pam would secretly prefer to spend Christmas in Essex as she finds Gwen’s hous
   
 
 
-	
-	
-
-### Good Newwz
-*Released on 2019-12-27, vote average 7.5*
-
-It is an upcoming Indian romantic comedy film starring Akshay Kumar, Kiara Advani, Kareena Kapoor Khan and Diljit Dosanjh in lead roles.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/r9VJpqoAr84?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -344,51 +344,6 @@ A house is cursed by a vengeful ghost that dooms those who enter it with a viole
 	
 
 	
-	
-
-### The Gentlemen
-*Released on 2020-01-01, vote average 6*
-
-A drug lord tries to sell off his highly profitable empire.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2B0RpUGss2c?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	
-	
-
-	
-
-	
-
-	
 
 	
 
@@ -409,6 +364,66 @@ Once a known counterculture figure, June E. Leigh now lives in self-imposed exil
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### One Day We&#39;ll Talk About Today
+*Released on 2020-01-02, vote average 9.5*
+
+Awan gets pressure from her parents after  she meets Kale. This prompted the rebellion of Awan and her two older sister and brother which led to the discovery of a big secret and trauma in their family.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/njdybOKlt5o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+	
+
+### Life Like
+*Released on 2020-01-02, vote average 6*
+
+An idealistic attractive young couple acquires a stunning, life-like robot for guilt free help, but as the three grow closer, their perception of humanity will be altered forever.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LiwFtzuSnkE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
 	
 
 	
