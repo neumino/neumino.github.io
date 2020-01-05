@@ -47,7 +47,7 @@ When the world&#39;s best spy is turned into a pigeon, he must rely on his nerdy
 	
 
 ### The Grudge
-*Released on 2020-01-02, vote average 6.4*
+*Released on 2020-01-02, vote average 6.5*
 
 A house is cursed by a vengeful ghost that dooms those who enter it with a violent death.
 
@@ -90,30 +90,8 @@ Four sisters come of age in America in the aftermath of the Civil War.
 	
 	
 
-### The Gentlemen
-*Released on 2020-01-01, vote average 6.3*
-
-A drug lord tries to sell off his highly profitable empire.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2B0RpUGss2c?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Ghost Stories
-*Released on 2019-12-31, vote average 2.3*
+*Released on 2019-12-31, vote average 2.8*
 
 An anthology of four short horror tales.
 
@@ -176,23 +154,21 @@ The powerful true story of Harvard-educated lawyer Bryan Stevenson, who goes to 
 
 
 	
-
-  
-
-
 	
 
-  
+### The Gentlemen
+*Released on 2020-01-01, vote average 7.2*
 
+A drug lord tries to sell off his highly profitable empire.
 
-	
-	
-	
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2B0RpUGss2c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
-  
-
-
-	
 	
 	
 
@@ -214,6 +190,15 @@ The powerful true story of Harvard-educated lawyer Bryan Stevenson, who goes to 
 
 
 	
+	
+	
+
+  
+
+
+	
+	
+	
 
   
 
@@ -223,8 +208,6 @@ The powerful true story of Harvard-educated lawyer Bryan Stevenson, who goes to 
   
 
 
-	
-	
 	
 
   
@@ -263,6 +246,25 @@ Awan gets pressure from her parents after  she meets Kale. This prompted the reb
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 	
 
