@@ -11,21 +11,6 @@ This is a convenient page that embeds trailers of movies released in the past
 
 	
 	
-
-### Spies in Disguise
-*Released on 2019-12-24, vote average 7.6*
-
-When the world&#39;s best spy is turned into a pigeon, he must rely on his nerdy tech officer to save the world.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LSSGHvzMY60?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -47,7 +32,7 @@ When the world&#39;s best spy is turned into a pigeon, he must rely on his nerdy
 	
 
 ### The Grudge
-*Released on 2020-01-02, vote average 5.6*
+*Released on 2020-01-02, vote average 6*
 
 A house is cursed by a vengeful ghost that dooms those who enter it with a violent death.
 
@@ -56,6 +41,28 @@ A house is cursed by a vengeful ghost that dooms those who enter it with a viole
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/O2NKzO-fxwQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Spies in Disguise
+*Released on 2019-12-24, vote average 7.6*
+
+When the world&#39;s best spy is turned into a pigeon, he must rely on his nerdy tech officer to save the world.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LSSGHvzMY60?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -78,28 +85,6 @@ Four sisters come of age in America in the aftermath of the Civil War.
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/AST2-4db4ic?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Ghost Stories
-*Released on 2019-12-31, vote average 3*
-
-An anthology of four short horror tales.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hsab-HJ7kqc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -135,7 +120,7 @@ Loving girlfriend, family fortune, breakout movie role: he&#39;s got it all. Unt
 	
 
 ### The Gentlemen
-*Released on 2020-01-01, vote average 7.2*
+*Released on 2020-01-01, vote average 7.4*
 
 A drug lord tries to sell off his highly profitable empire.
 
@@ -176,6 +161,33 @@ A drug lord tries to sell off his highly profitable empire.
 
 	
 	
+	
+
+  
+
+
+	
+	
+
+### Ghost Stories
+*Released on 2019-12-31, vote average 4.4*
+
+An anthology of four short horror tales.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hsab-HJ7kqc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -236,7 +248,7 @@ The powerful true story of Harvard-educated lawyer Bryan Stevenson, who goes to 
 	
 
 ### Line of Duty
-*Released on 2019-12-25, vote average 4*
+*Released on 2019-12-25, vote average 5*
 
 A cop finds himself in a race against time to find a kidnap victim whose abductor he accidentally killed. Aaron Eckhart stars as Frank Penny, a disgraced cop looking for a shot at redemption. When the police chief&#39;s 11-year-old daughter is abducted, Frank goes rogue to try and save her. But to find the girl, Frank will need the help of Ava Brooks, whose live-streaming news channel is broadcasting Frank&#39;s every move. While a city watches, Frank and Ava race against time in this explosive action-thriller.
 
@@ -255,33 +267,6 @@ A cop finds himself in a race against time to find a kidnap victim whose abducto
 
 
 	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### John Mulaney &amp; The Sack Lunch Bunch
-*Released on 2019-12-24, vote average 7.3*
-
-John Mulaney and his kid pals tackle existential topics for all ages with catchy songs, comedy sketches and special guests in a nostalgic variety special.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/gI7TC9T-LWY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -315,7 +300,7 @@ A physician discovers that he can talk to animals.
 	
 
 ### Underwater
-*Released on 2020-01-08, vote average 10*
+*Released on 2020-01-08, vote average 5.5*
 
 After an earthquake destroys their underwater station, six researchers must navigate two miles along the dangerous, unknown depths of the ocean floor to make it to safety in a race against time.
 
@@ -332,6 +317,23 @@ After an earthquake destroys their underwater station, six researchers must navi
 
 	
 
+	
+	
+
+### Like a Boss
+*Released on 2020-01-09, vote average 10*
+
+Two female friends with very different ideals decide to start a beauty company together. One is more practical, while the other wants to earn her fortune and live a lavish lifestyle.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/9ESkyRFEso4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
