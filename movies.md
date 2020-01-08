@@ -32,7 +32,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Grudge
-*Released on 2020-01-02, vote average 6*
+*Released on 2020-01-02, vote average 6.5*
 
 A house is cursed by a vengeful ghost that dooms those who enter it with a violent death.
 
@@ -53,16 +53,16 @@ A house is cursed by a vengeful ghost that dooms those who enter it with a viole
 	
 	
 
-### Spies in Disguise
-*Released on 2019-12-24, vote average 7.6*
+### Dolittle
+*Released on 2020-01-01, vote average 8.5*
 
-When the world&#39;s best spy is turned into a pigeon, he must rely on his nerdy tech officer to save the world.
+A physician discovers that he can talk to animals.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/LSSGHvzMY60?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/FEf412bSPLs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -97,6 +97,60 @@ Four sisters come of age in America in the aftermath of the Civil War.
 	
 	
 
+### Underwater
+*Released on 2020-01-08, vote average 5.5*
+
+After an earthquake destroys their underwater station, six researchers must navigate two miles along the dangerous, unknown depths of the ocean floor to make it to safety in a race against time.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jCFWEzIVILc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Gentlemen
+*Released on 2020-01-01, vote average 7.1*
+
+A drug lord tries to sell off his highly profitable empire.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2B0RpUGss2c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### The App
 *Released on 2019-12-26, vote average 2.8*
 
@@ -119,16 +173,16 @@ Loving girlfriend, family fortune, breakout movie role: he&#39;s got it all. Unt
 	
 	
 
-### The Gentlemen
-*Released on 2020-01-01, vote average 7.4*
+### Line of Duty
+*Released on 2019-12-25, vote average 5*
 
-A drug lord tries to sell off his highly profitable empire.
+A cop finds himself in a race against time to find a kidnap victim whose abductor he accidentally killed. Aaron Eckhart stars as Frank Penny, a disgraced cop looking for a shot at redemption. When the police chief&#39;s 11-year-old daughter is abducted, Frank goes rogue to try and save her. But to find the girl, Frank will need the help of Ava Brooks, whose live-streaming news channel is broadcasting Frank&#39;s every move. While a city watches, Frank and Ava race against time in this explosive action-thriller.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/2B0RpUGss2c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/36J6jyIhV64?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -145,22 +199,6 @@ A drug lord tries to sell off his highly profitable empire.
   
 
 
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -204,18 +242,23 @@ An anthology of four short horror tales.
 
 
 	
+
+  
+
+
+	
 	
 
-### Just Mercy
-*Released on 2019-12-25, vote average 6.8*
+### Ana
+*Released on 2020-01-03, vote average 4.3*
 
-The powerful true story of Harvard-educated lawyer Bryan Stevenson, who goes to Alabama to defend the disenfranchised and wrongly condemned — including Walter McMillian, a man sentenced to death despite evidence proving his innocence. Bryan fights tirelessly for Walter with the system stacked against them.
+Ana meets Rafa in a chance encounter and they embark on a road trip to try and save him from bankruptcy, or worse.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/GVQbeG5yW78?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/60KcBE3yDKs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -225,42 +268,6 @@ The powerful true story of Harvard-educated lawyer Bryan Stevenson, who goes to 
   
 
 
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Line of Duty
-*Released on 2019-12-25, vote average 5*
-
-A cop finds himself in a race against time to find a kidnap victim whose abductor he accidentally killed. Aaron Eckhart stars as Frank Penny, a disgraced cop looking for a shot at redemption. When the police chief&#39;s 11-year-old daughter is abducted, Frank goes rogue to try and save her. But to find the girl, Frank will need the help of Ava Brooks, whose live-streaming news channel is broadcasting Frank&#39;s every move. While a city watches, Frank and Ava race against time in this explosive action-thriller.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/36J6jyIhV64?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -276,25 +283,6 @@ A cop finds himself in a race against time to find a kidnap victim whose abducto
 
 ## Opening soon
 
-
-	
-	
-
-### Dolittle
-*Released on 2020-01-08, vote average 8.5*
-
-A physician discovers that he can talk to animals.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FEf412bSPLs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 	
@@ -334,6 +322,8 @@ Two female friends with very different ideals decide to start a beauty company t
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
