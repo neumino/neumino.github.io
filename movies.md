@@ -31,8 +31,30 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
+### Underwater
+*Released on 2020-01-08, vote average 7*
+
+After an earthquake destroys their underwater station, six researchers must navigate two miles along the dangerous, unknown depths of the ocean floor to make it to safety in a race against time.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jCFWEzIVILc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Grudge
-*Released on 2020-01-02, vote average 6.5*
+*Released on 2020-01-02, vote average 6.1*
 
 A house is cursed by a vengeful ghost that dooms those who enter it with a violent death.
 
@@ -54,7 +76,7 @@ A house is cursed by a vengeful ghost that dooms those who enter it with a viole
 	
 
 ### Dolittle
-*Released on 2020-01-01, vote average 8.5*
+*Released on 2020-01-01, vote average 8.7*
 
 A physician discovers that he can talk to animals.
 
@@ -73,50 +95,6 @@ A physician discovers that he can talk to animals.
 
 
 	
-	
-
-### Little Women
-*Released on 2019-12-25, vote average 8.3*
-
-Four sisters come of age in America in the aftermath of the Civil War.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/AST2-4db4ic?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Underwater
-*Released on 2020-01-08, vote average 5.5*
-
-After an earthquake destroys their underwater station, six researchers must navigate two miles along the dangerous, unknown depths of the ocean floor to make it to safety in a race against time.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jCFWEzIVILc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 
   
 
@@ -125,7 +103,7 @@ After an earthquake destroys their underwater station, six researchers must navi
 	
 
 ### The Gentlemen
-*Released on 2020-01-01, vote average 7.1*
+*Released on 2020-01-01, vote average 7.2*
 
 A drug lord tries to sell off his highly profitable empire.
 
@@ -144,6 +122,8 @@ A drug lord tries to sell off his highly profitable empire.
 
 
 	
+	
+	
 
   
 
@@ -152,7 +132,7 @@ A drug lord tries to sell off his highly profitable empire.
 	
 
 ### The App
-*Released on 2019-12-26, vote average 2.8*
+*Released on 2019-12-26, vote average 2.9*
 
 Loving girlfriend, family fortune, breakout movie role: he&#39;s got it all. Until an app awakens a powerful new yearning. While in Rome to shoot his first movie, actor and industrial heir Niccolò becomes obsessed with the dating app &#34;US&#34; that sends him into a self-destructive spiral.
 
@@ -172,27 +152,27 @@ Loving girlfriend, family fortune, breakout movie role: he&#39;s got it all. Unt
 
 	
 	
-
-### Line of Duty
-*Released on 2019-12-25, vote average 5*
-
-A cop finds himself in a race against time to find a kidnap victim whose abductor he accidentally killed. Aaron Eckhart stars as Frank Penny, a disgraced cop looking for a shot at redemption. When the police chief&#39;s 11-year-old daughter is abducted, Frank goes rogue to try and save her. But to find the girl, Frank will need the help of Ava Brooks, whose live-streaming news channel is broadcasting Frank&#39;s every move. While a city watches, Frank and Ava race against time in this explosive action-thriller.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/36J6jyIhV64?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
 
 
 	
+	
+
+### Like a Boss
+*Released on 2020-01-09, vote average 10*
+
+Two female friends with very different ideals decide to start a beauty company together. One is more practical, while the other wants to earn her fortune and live a lavish lifestyle.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/9ESkyRFEso4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -274,6 +254,11 @@ Ana meets Rafa in a chance encounter and they embark on a road trip to try and s
 
 
 	
+
+  
+
+
+	
 	
 	
 
@@ -283,25 +268,6 @@ Ana meets Rafa in a chance encounter and they embark on a road trip to try and s
 
 ## Opening soon
 
-
-	
-	
-
-### Underwater
-*Released on 2020-01-08, vote average 5.5*
-
-After an earthquake destroys their underwater station, six researchers must navigate two miles along the dangerous, unknown depths of the ocean floor to make it to safety in a race against time.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jCFWEzIVILc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
@@ -322,6 +288,8 @@ Two female friends with very different ideals decide to start a beauty company t
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
