@@ -32,7 +32,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Underwater
-*Released on 2020-01-08, vote average 7*
+*Released on 2020-01-08, vote average 6.6*
 
 After an earthquake destroys their underwater station, six researchers must navigate two miles along the dangerous, unknown depths of the ocean floor to make it to safety in a race against time.
 
@@ -54,7 +54,7 @@ After an earthquake destroys their underwater station, six researchers must navi
 	
 
 ### The Grudge
-*Released on 2020-01-02, vote average 6.1*
+*Released on 2020-01-02, vote average 5.8*
 
 A house is cursed by a vengeful ghost that dooms those who enter it with a violent death.
 
@@ -76,7 +76,7 @@ A house is cursed by a vengeful ghost that dooms those who enter it with a viole
 	
 
 ### Dolittle
-*Released on 2020-01-01, vote average 8.7*
+*Released on 2020-01-01, vote average 8.9*
 
 A physician discovers that he can talk to animals.
 
@@ -103,7 +103,7 @@ A physician discovers that he can talk to animals.
 	
 
 ### The Gentlemen
-*Released on 2020-01-01, vote average 7.2*
+*Released on 2020-01-01, vote average 7.3*
 
 A drug lord tries to sell off his highly profitable empire.
 
@@ -129,22 +129,15 @@ A drug lord tries to sell off his highly profitable empire.
 
 
 	
-	
 
-### The App
-*Released on 2019-12-26, vote average 2.9*
+  
 
-Loving girlfriend, family fortune, breakout movie role: he&#39;s got it all. Until an app awakens a powerful new yearning. While in Rome to shoot his first movie, actor and industrial heir Niccolò becomes obsessed with the dating app &#34;US&#34; that sends him into a self-destructive spiral.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/lLvzvgwaVWM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
 	
 
   
@@ -152,6 +145,11 @@ Loving girlfriend, family fortune, breakout movie role: he&#39;s got it all. Unt
 
 	
 	
+	
+
+  
+
+
 	
 
   
@@ -207,26 +205,6 @@ An anthology of four short horror tales.
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### Ana
@@ -238,10 +216,17 @@ Ana meets Rafa in a chance encounter and they embark on a road trip to try and s
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/60KcBE3yDKs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/_LJz-Cue_GY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -271,23 +256,6 @@ Ana meets Rafa in a chance encounter and they embark on a road trip to try and s
 
 	
 
-	
-	
-
-### Like a Boss
-*Released on 2020-01-09, vote average 10*
-
-Two female friends with very different ideals decide to start a beauty company together. One is more practical, while the other wants to earn her fortune and live a lavish lifestyle.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/9ESkyRFEso4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
