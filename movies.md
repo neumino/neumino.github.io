@@ -32,7 +32,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Underwater
-*Released on 2020-01-08, vote average 6.6*
+*Released on 2020-01-08, vote average 6.5*
 
 After an earthquake destroys their underwater station, six researchers must navigate two miles along the dangerous, unknown depths of the ocean floor to make it to safety in a race against time.
 
@@ -100,10 +100,37 @@ A physician discovers that he can talk to animals.
 
 
 	
+
+  
+
+
+	
+	
+
+### Darbar
+*Released on 2020-01-09, vote average 3*
+
+A police officer on a chase to hunt down a dreaded gangster for fulfilling his own secret agenda.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/1JlLi9pDaJE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 
 ### The Gentlemen
-*Released on 2020-01-01, vote average 7.3*
+*Released on 2020-01-01, vote average 7.4*
 
 A drug lord tries to sell off his highly profitable empire.
 
@@ -116,6 +143,11 @@ A drug lord tries to sell off his highly profitable empire.
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -221,23 +253,6 @@ Ana meets Rafa in a chance encounter and they embark on a road trip to try and s
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
