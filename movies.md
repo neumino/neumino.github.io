@@ -11,6 +11,21 @@ This is a convenient page that embeds trailers of movies released in the past
 
 	
 	
+
+### Underwater
+*Released on 2020-01-08, vote average 5.8*
+
+After an earthquake destroys their underwater station, six researchers must navigate two miles along the dangerous, unknown depths of the ocean floor to make it to safety in a race against time.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jCFWEzIVILc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -30,21 +45,11 @@ This is a convenient page that embeds trailers of movies released in the past
 
 	
 	
-
-### Underwater
-*Released on 2020-01-08, vote average 6.5*
-
-After an earthquake destroys their underwater station, six researchers must navigate two miles along the dangerous, unknown depths of the ocean floor to make it to safety in a race against time.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jCFWEzIVILc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
+
+  
+
+
 	
 
   
@@ -54,7 +59,7 @@ After an earthquake destroys their underwater station, six researchers must navi
 	
 
 ### The Grudge
-*Released on 2020-01-02, vote average 5.8*
+*Released on 2020-01-02, vote average 5.7*
 
 A house is cursed by a vengeful ghost that dooms those who enter it with a violent death.
 
@@ -100,23 +105,18 @@ A physician discovers that he can talk to animals.
 
 
 	
-
-  
-
-
-	
 	
 
-### Darbar
-*Released on 2020-01-09, vote average 3*
+### Like a Boss
+*Released on 2020-01-09, vote average 10*
 
-A police officer on a chase to hunt down a dreaded gangster for fulfilling his own secret agenda.
+Two female friends with very different ideals decide to start a beauty company together. One is more practical, while the other wants to earn her fortune and live a lavish lifestyle.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/1JlLi9pDaJE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/9ESkyRFEso4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -149,57 +149,59 @@ A drug lord tries to sell off his highly profitable empire.
 
 
 	
-
-  
-
-
-	
-	
 	
 
-  
+### Darbar
+*Released on 2020-01-08, vote average 5.5*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Like a Boss
-*Released on 2020-01-09, vote average 10*
-
-Two female friends with very different ideals decide to start a beauty company together. One is more practical, while the other wants to earn her fortune and live a lavish lifestyle.
+A police officer on a chase to hunt down a dreaded gangster for fulfilling his own secret agenda.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/9ESkyRFEso4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/cUNNTO0IJSU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Island of Giant Insects Movie
+*Released on 2020-01-10, vote average 10*
+
+After an airplane crash during a school trip, Oribe Mutsumi and her classmates were stranded on a seemingly deserted island. Mutsumi found the other survivors, and used her wilderness knowledge to help them. She expects that they will be rescued in about three days, which doesn&#39;t seem so long to endure. However, she didn&#39;t account for the fact that the island is populated with gigantic killer insects. Her knowledge of butterflies, wasps, and more may be the only thing that will help any of her classmates survive to be rescued!
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/OqrJsjlYg2E?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -217,16 +219,16 @@ Two female friends with very different ideals decide to start a beauty company t
 	
 	
 
-### Ghost Stories
-*Released on 2019-12-31, vote average 4.4*
+### Surat dari Kematian
+*Released on 2020-01-09, vote average 5*
 
-An anthology of four short horror tales.
+Plot unknown.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/hsab-HJ7kqc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/W0KMvjHSZGA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -237,21 +239,16 @@ An anthology of four short horror tales.
 
 
 	
+
+  
+
+
 	
 
-### Ana
-*Released on 2020-01-03, vote average 4.3*
+  
 
-Ana meets Rafa in a chance encounter and they embark on a road trip to try and save him from bankruptcy, or worse.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/_LJz-Cue_GY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
+	
 	
 	
 
@@ -259,6 +256,26 @@ Ana meets Rafa in a chance encounter and they embark on a road trip to try and s
 
 
 	
+
+  
+
+
+	
+	
+
+### The Whistlers
+*Released on 2020-01-08, vote average 6.5*
+
+A Romanian police officer, determined to free from prison a crooked businessman who knows where a mobster&#39;s money is hidden, must learn the difficult ancestral language (Silbo Gomero) used on the island of Gomera.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Idq3lJEfS2c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
