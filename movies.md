@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Underwater
-*Released on 2020-01-08, vote average 5.8*
+*Released on 2020-01-08, vote average 5.9*
 
 After an earthquake destroys their underwater station, six researchers must navigate two miles along the dangerous, unknown depths of the ocean floor to make it to safety in a race against time.
 
@@ -58,8 +58,30 @@ After an earthquake destroys their underwater station, six researchers must navi
 	
 	
 
+### Dolittle
+*Released on 2020-01-01, vote average 8.2*
+
+A physician discovers that he can talk to animals.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FEf412bSPLs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Grudge
-*Released on 2020-01-02, vote average 5.7*
+*Released on 2020-01-02, vote average 5.8*
 
 A house is cursed by a vengeful ghost that dooms those who enter it with a violent death.
 
@@ -80,16 +102,16 @@ A house is cursed by a vengeful ghost that dooms those who enter it with a viole
 	
 	
 
-### Dolittle
-*Released on 2020-01-01, vote average 8.9*
+### The Gentlemen
+*Released on 2020-01-01, vote average 7.6*
 
-A physician discovers that he can talk to animals.
+A British drug lord tries to sell off his highly profitable empire to a dynasty of Oklahoma billionaires.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/FEf412bSPLs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/2B0RpUGss2c?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -100,15 +122,10 @@ A physician discovers that he can talk to animals.
 
 
 	
-
-  
-
-
-	
 	
 
 ### Like a Boss
-*Released on 2020-01-09, vote average 10*
+*Released on 2020-01-09, vote average 6.4*
 
 Two female friends with very different ideals decide to start a beauty company together. One is more practical, while the other wants to earn her fortune and live a lavish lifestyle.
 
@@ -127,22 +144,10 @@ Two female friends with very different ideals decide to start a beauty company t
 
 
 	
-	
 
-### The Gentlemen
-*Released on 2020-01-01, vote average 7.4*
+  
 
-A drug lord tries to sell off his highly profitable empire.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2B0RpUGss2c?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -171,6 +176,18 @@ A police officer on a chase to hunt down a dreaded gangster for fulfilling his o
 
 
 	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -185,32 +202,7 @@ A police officer on a chase to hunt down a dreaded gangster for fulfilling his o
 
 
 	
-
-  
-
-
 	
-	
-
-### The Island of Giant Insects Movie
-*Released on 2020-01-10, vote average 10*
-
-After an airplane crash during a school trip, Oribe Mutsumi and her classmates were stranded on a seemingly deserted island. Mutsumi found the other survivors, and used her wilderness knowledge to help them. She expects that they will be rescued in about three days, which doesn&#39;t seem so long to endure. However, she didn&#39;t account for the fact that the island is populated with gigantic killer insects. Her knowledge of butterflies, wasps, and more may be the only thing that will help any of her classmates survive to be rescued!
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/OqrJsjlYg2E?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -260,32 +252,27 @@ Plot unknown.
   
 
 
+
+## Opening soon
+
+
 	
 	
 
-### The Whistlers
-*Released on 2020-01-08, vote average 6.5*
+### Bad Boys for Life
+*Released on 2020-01-15, vote average 8.2*
 
-A Romanian police officer, determined to free from prison a crooked businessman who knows where a mobster&#39;s money is hidden, must learn the difficult ancestral language (Silbo Gomero) used on the island of Gomera.
+Marcus Burnett is now a police inspector and Mike Lowery is in a midlife crisis. They unite again when an Albanian mercenary, whose brother they killed, promises them an important bonus.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Idq3lJEfS2c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/jKCj3XuPG8M?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-
-## Opening soon
-
-
 	
 
 	
