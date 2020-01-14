@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Underwater
-*Released on 2020-01-08, vote average 5.9*
+*Released on 2020-01-08, vote average 5.8*
 
 After an earthquake destroys their underwater station, six researchers must navigate two miles along the dangerous, unknown depths of the ocean floor to make it to safety in a race against time.
 
@@ -51,6 +51,8 @@ After an earthquake destroys their underwater station, six researchers must navi
 
 
 	
+	
+	
 
   
 
@@ -59,7 +61,7 @@ After an earthquake destroys their underwater station, six researchers must navi
 	
 
 ### Dolittle
-*Released on 2020-01-01, vote average 8.2*
+*Released on 2020-01-01, vote average 8.5*
 
 A physician discovers that he can talk to animals.
 
@@ -81,7 +83,7 @@ A physician discovers that he can talk to animals.
 	
 
 ### The Grudge
-*Released on 2020-01-02, vote average 5.8*
+*Released on 2020-01-02, vote average 5.7*
 
 A house is cursed by a vengeful ghost that dooms those who enter it with a violent death.
 
@@ -100,23 +102,6 @@ A house is cursed by a vengeful ghost that dooms those who enter it with a viole
 
 
 	
-	
-
-### The Gentlemen
-*Released on 2020-01-01, vote average 7.6*
-
-A British drug lord tries to sell off his highly profitable empire to a dynasty of Oklahoma billionaires.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2B0RpUGss2c?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -125,7 +110,7 @@ A British drug lord tries to sell off his highly profitable empire to a dynasty 
 	
 
 ### Like a Boss
-*Released on 2020-01-09, vote average 6.4*
+*Released on 2020-01-09, vote average 6.9*
 
 Two female friends with very different ideals decide to start a beauty company together. One is more practical, while the other wants to earn her fortune and live a lavish lifestyle.
 
@@ -144,10 +129,29 @@ Two female friends with very different ideals decide to start a beauty company t
 
 
 	
+	
+	
 
   
 
 
+	
+	
+
+### Ala Vaikunthapurramuloo
+*Released on 2020-01-12, vote average 5*
+
+Ala Vaikunthapuramulo is an upcoming Telugu-language action drama film directed by Trivikram Srinivas and produced by Allu Aravind and S. Radha Krishna under their banner of Geetha Arts and Haarika &amp; Hassine Creation.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/rTkW01W9Lc8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -157,7 +161,7 @@ Two female friends with very different ideals decide to start a beauty company t
 	
 
 ### Darbar
-*Released on 2020-01-08, vote average 5.5*
+*Released on 2020-01-08, vote average 5*
 
 A police officer on a chase to hunt down a dreaded gangster for fulfilling his own secret agenda.
 
@@ -176,11 +180,6 @@ A police officer on a chase to hunt down a dreaded gangster for fulfilling his o
 
 
 	
-
-  
-
-
-	
 	
 	
 
@@ -202,7 +201,17 @@ A police officer on a chase to hunt down a dreaded gangster for fulfilling his o
 
 
 	
+
+  
+
+
 	
+	
+	
+
+  
+
+
 	
 
   
@@ -247,11 +256,6 @@ Plot unknown.
   
 
 
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -260,7 +264,7 @@ Plot unknown.
 	
 
 ### Bad Boys for Life
-*Released on 2020-01-15, vote average 8.2*
+*Released on 2020-01-15, vote average 7.6*
 
 Marcus Burnett is now a police inspector and Mike Lowery is in a midlife crisis. They unite again when an Albanian mercenary, whose brother they killed, promises them an important bonus.
 
