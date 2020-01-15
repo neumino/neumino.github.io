@@ -52,16 +52,9 @@ After an earthquake destroys their underwater station, six researchers must navi
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Dolittle
-*Released on 2020-01-01, vote average 8.5*
+*Released on 2020-01-01, vote average 8.3*
 
 A physician discovers that he can talk to animals.
 
@@ -73,6 +66,35 @@ A physician discovers that he can talk to animals.
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+	
+
+### Bad Boys for Life
+*Released on 2020-01-15, vote average 7.9*
+
+Marcus Burnett is now a police inspector and Mike Lowery is in a midlife crisis. They unite again when an Albanian mercenary, whose brother they killed, promises them an important bonus.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jKCj3XuPG8M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -101,6 +123,8 @@ A house is cursed by a vengeful ghost that dooms those who enter it with a viole
   
 
 
+	
+	
 	
 
   
@@ -138,16 +162,16 @@ Two female friends with very different ideals decide to start a beauty company t
 	
 	
 
-### Ala Vaikunthapurramuloo
-*Released on 2020-01-12, vote average 5*
+### Darbar
+*Released on 2020-01-08, vote average 5*
 
-Ala Vaikunthapuramulo is an upcoming Telugu-language action drama film directed by Trivikram Srinivas and produced by Allu Aravind and S. Radha Krishna under their banner of Geetha Arts and Haarika &amp; Hassine Creation.
+A police officer on a chase to hunt down a dreaded gangster for fulfilling his own secret agenda.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/rTkW01W9Lc8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/cUNNTO0IJSU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -160,16 +184,16 @@ Ala Vaikunthapuramulo is an upcoming Telugu-language action drama film directed 
 	
 	
 
-### Darbar
-*Released on 2020-01-08, vote average 5*
+### Ala Vaikunthapurramuloo
+*Released on 2020-01-12, vote average 5*
 
-A police officer on a chase to hunt down a dreaded gangster for fulfilling his own secret agenda.
+Ala Vaikunthapuramulo is a Telugu-language action drama film directed by Trivikram Srinivas and produced by Allu Aravind and S. Radha Krishna under their banner of Geetha Arts and Haarika &amp; Hassine Creation.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/cUNNTO0IJSU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/rTkW01W9Lc8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -249,13 +273,6 @@ Plot unknown.
   
 
 
-	
-	
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -264,7 +281,7 @@ Plot unknown.
 	
 
 ### Bad Boys for Life
-*Released on 2020-01-15, vote average 7.6*
+*Released on 2020-01-15, vote average 7.9*
 
 Marcus Burnett is now a police inspector and Mike Lowery is in a midlife crisis. They unite again when an Albanian mercenary, whose brother they killed, promises them an important bonus.
 
@@ -307,6 +324,8 @@ Marcus Burnett is now a police inspector and Mike Lowery is in a midlife crisis.
 
 	
 
+	
+	
 	
 
 	
