@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Underwater
-*Released on 2020-01-08, vote average 5.8*
+### Bad Boys for Life
+*Released on 2020-01-15, vote average 8.1*
 
-After an earthquake destroys their underwater station, six researchers must navigate two miles along the dangerous, unknown depths of the ocean floor to make it to safety in a race against time.
+Marcus Burnett is now a police inspector and Mike Lowery is in a midlife crisis. They unite again when an Albanian mercenary, whose brother they killed, promises them an important bonus.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/jCFWEzIVILc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/jKCj3XuPG8M?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -45,24 +45,17 @@ After an earthquake destroys their underwater station, six researchers must navi
 
 	
 	
-	
 
-  
+### Underwater
+*Released on 2020-01-08, vote average 5.9*
 
-
-	
-	
-
-### Dolittle
-*Released on 2020-01-01, vote average 8.3*
-
-A physician discovers that he can talk to animals.
+After an earthquake destroys their underwater station, six researchers must navigate two miles along the dangerous, unknown depths of the ocean floor to make it to safety in a race against time.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/FEf412bSPLs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/jCFWEzIVILc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -74,20 +67,12 @@ A physician discovers that he can talk to animals.
 
 	
 	
+	
 
-### Bad Boys for Life
-*Released on 2020-01-15, vote average 7.9*
+  
 
-Marcus Burnett is now a police inspector and Mike Lowery is in a midlife crisis. They unite again when an Albanian mercenary, whose brother they killed, promises them an important bonus.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jKCj3XuPG8M?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
+	
 	
 	
 
@@ -95,6 +80,21 @@ Marcus Burnett is now a police inspector and Mike Lowery is in a midlife crisis.
 
 
 	
+	
+
+### Like a Boss
+*Released on 2020-01-09, vote average 7.3*
+
+Two female friends with very different ideals decide to start a beauty company together. One is more practical, while the other wants to earn her fortune and live a lavish lifestyle.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/9ESkyRFEso4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -133,37 +133,8 @@ A house is cursed by a vengeful ghost that dooms those who enter it with a viole
 	
 	
 
-### Like a Boss
-*Released on 2020-01-09, vote average 6.9*
-
-Two female friends with very different ideals decide to start a beauty company together. One is more practical, while the other wants to earn her fortune and live a lavish lifestyle.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/9ESkyRFEso4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
 ### Darbar
-*Released on 2020-01-08, vote average 5*
+*Released on 2020-01-08, vote average 5.8*
 
 A police officer on a chase to hunt down a dreaded gangster for fulfilling his own secret agenda.
 
@@ -185,7 +156,7 @@ A police officer on a chase to hunt down a dreaded gangster for fulfilling his o
 	
 
 ### Ala Vaikunthapurramuloo
-*Released on 2020-01-12, vote average 5*
+*Released on 2020-01-12, vote average 7*
 
 Ala Vaikunthapuramulo is a Telugu-language action drama film directed by Trivikram Srinivas and produced by Allu Aravind and S. Radha Krishna under their banner of Geetha Arts and Haarika &amp; Hassine Creation.
 
@@ -218,13 +189,6 @@ Ala Vaikunthapuramulo is a Telugu-language action drama film directed by Trivikr
 
 
 	
-	
-	
-
-  
-
-
-	
 
   
 
@@ -236,6 +200,20 @@ Ala Vaikunthapuramulo is a Telugu-language action drama film directed by Trivikr
   
 
 
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -273,28 +251,16 @@ Plot unknown.
   
 
 
+	
+
+  
+
+
 
 ## Opening soon
 
 
 	
-	
-
-### Bad Boys for Life
-*Released on 2020-01-15, vote average 7.9*
-
-Marcus Burnett is now a police inspector and Mike Lowery is in a midlife crisis. They unite again when an Albanian mercenary, whose brother they killed, promises them an important bonus.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jKCj3XuPG8M?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
@@ -324,8 +290,6 @@ Marcus Burnett is now a police inspector and Mike Lowery is in a midlife crisis.
 
 	
 
-	
-	
 	
 
 	
