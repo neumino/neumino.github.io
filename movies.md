@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Bad Boys for Life
-*Released on 2020-01-15, vote average 7.6*
+*Released on 2020-01-15, vote average 7.3*
 
 Marcus Burnett is now a police inspector and Mike Lowery is in a midlife crisis. They unite again when an Albanian mercenary, whose brother they killed, promises them an important bonus.
 
@@ -74,16 +74,9 @@ After an earthquake destroys their underwater station, six researchers must navi
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Like a Boss
-*Released on 2020-01-09, vote average 7.5*
+*Released on 2020-01-09, vote average 7.4*
 
 Two female friends with very different ideals decide to start a beauty company together. One is more practical, while the other wants to earn her fortune and live a lavish lifestyle.
 
@@ -110,9 +103,21 @@ Two female friends with very different ideals decide to start a beauty company t
 
 	
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 
 ### Darbar
-*Released on 2020-01-08, vote average 6.1*
+*Released on 2020-01-08, vote average 6.2*
 
 A police officer on a chase to hunt down a dreaded gangster for fulfilling his own secret agenda.
 
@@ -132,28 +137,6 @@ A police officer on a chase to hunt down a dreaded gangster for fulfilling his o
 
 	
 	
-
-### Ala Vaikunthapurramuloo
-*Released on 2020-01-12, vote average 7*
-
-Ala Vaikunthapuramulo is a Telugu-language action drama film directed by Trivikram Srinivas and produced by Allu Aravind and S. Radha Krishna under their banner of Geetha Arts and Haarika &amp; Hassine Creation.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rTkW01W9Lc8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -166,6 +149,11 @@ Ala Vaikunthapuramulo is a Telugu-language action drama film directed by Trivikr
 
 	
 	
+	
+
+  
+
+
 	
 
   
@@ -213,6 +201,13 @@ Plot unknown.
 
 
 	
+	
+	
+
+  
+
+
+	
 
   
 
@@ -223,32 +218,7 @@ Plot unknown.
 
 
 	
-
-  
-
-
 	
-	
-
-### A Son
-*Released on 2020-01-15, vote average 10*
-
-Tunisia, summer 2011. The holiday to the South of the country ends in disaster for Fares, Meriem and their 10-year-old son Aziz, when he is accidentally shot in an ambush. His injury will change their lives: Aziz needs a liver transplant, which leads to discovery of a long-buried secret. Will Aziz and the relationship survive?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/mt5Q-0bnr-A?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -265,15 +235,11 @@ Tunisia, summer 2011. The holiday to the South of the country ends in disaster f
 	
 
 	
-	
-	
 
 	
 
 	
 
-	
-	
 	
 
 	
