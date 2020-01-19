@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Bad Boys for Life
-*Released on 2020-01-15, vote average 7.3*
+*Released on 2020-01-15, vote average 7.1*
 
 Marcus Burnett is now a police inspector and Mike Lowery is in a midlife crisis. They unite again when an Albanian mercenary, whose brother they killed, promises them an important bonus.
 
@@ -47,7 +47,7 @@ Marcus Burnett is now a police inspector and Mike Lowery is in a midlife crisis.
 	
 
 ### Underwater
-*Released on 2020-01-08, vote average 5.9*
+*Released on 2020-01-08, vote average 6*
 
 After an earthquake destroys their underwater station, six researchers must navigate two miles along the dangerous, unknown depths of the ocean floor to make it to safety in a race against time.
 
@@ -56,6 +56,28 @@ After an earthquake destroys their underwater station, six researchers must navi
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/jCFWEzIVILc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### A Fall From Grace
+*Released on 2020-01-17, vote average 6.6*
+
+When a law-abiding woman gets indicted for murdering her husband, her lawyer soon realizes that a larger conspiracy may be at work.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mNixVHejlc0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -109,15 +131,10 @@ Two female friends with very different ideals decide to start a beauty company t
 
 
 	
-
-  
-
-
-	
 	
 
 ### Darbar
-*Released on 2020-01-08, vote average 6.2*
+*Released on 2020-01-08, vote average 6.7*
 
 A police officer on a chase to hunt down a dreaded gangster for fulfilling his own secret agenda.
 
@@ -142,6 +159,8 @@ A police officer on a chase to hunt down a dreaded gangster for fulfilling his o
   
 
 
+	
+	
 	
 
   
