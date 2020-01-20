@@ -13,9 +13,9 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Bad Boys for Life
-*Released on 2020-01-15, vote average 7.1*
+*Released on 2020-01-15, vote average 6.9*
 
-Marcus Burnett is now a police inspector and Mike Lowery is in a midlife crisis. They unite again when an Albanian mercenary, whose brother they killed, promises them an important bonus.
+Marcus and Mike are forced to confront new threats, career changes, and midlife crises as they join the newly created elite team AMMO of the Miami police department to take down the ruthless Armando Armas, the vicious leader of a Miami drug cartel.
 
 <iframe id="player"
 	type="text/html"
@@ -69,7 +69,7 @@ After an earthquake destroys their underwater station, six researchers must navi
 	
 
 ### A Fall From Grace
-*Released on 2020-01-17, vote average 6.6*
+*Released on 2020-01-17, vote average 7.1*
 
 When a law-abiding woman gets indicted for murdering her husband, her lawyer soon realizes that a larger conspiracy may be at work.
 
@@ -132,21 +132,6 @@ Two female friends with very different ideals decide to start a beauty company t
 
 	
 	
-
-### Darbar
-*Released on 2020-01-08, vote average 6.7*
-
-A police officer on a chase to hunt down a dreaded gangster for fulfilling his own secret agenda.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cUNNTO0IJSU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -168,11 +153,6 @@ A police officer on a chase to hunt down a dreaded gangster for fulfilling his o
 
 	
 	
-	
-
-  
-
-
 	
 
   
@@ -232,11 +212,33 @@ Plot unknown.
 
 
 	
+	
+	
 
   
 
 
 	
+
+  
+
+
+	
+	
+
+### A Son
+*Released on 2020-01-15, vote average 10*
+
+Tunisia, summer 2011. The holiday to the South of the country ends in disaster for Fares, Meriem and their 10-year-old son Aziz, when he is accidentally shot in an ambush. His injury will change their lives: Aziz needs a liver transplant, which leads to discovery of a long-buried secret. Will Aziz and the relationship survive?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mt5Q-0bnr-A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
