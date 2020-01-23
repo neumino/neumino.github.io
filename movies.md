@@ -67,28 +67,11 @@ When a law-abiding woman gets indicted for murdering her husband, her lawyer soo
 
 	
 	
-
-### Underwater
-*Released on 2020-01-08, vote average 5.8*
-
-After an earthquake destroys their underwater station, six researchers must navigate two miles along the dangerous, unknown depths of the ocean floor to make it to safety in a race against time.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jCFWEzIVILc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
 
 
-	
-	
 	
 
   
@@ -110,13 +93,6 @@ Two female friends with very different ideals decide to start a beauty company t
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -205,35 +181,6 @@ Plot unknown.
 
 
 	
-	
-
-### Disturbing the Peace
-*Released on 2020-01-17, vote average 6.5*
-
-A small-town marshal who hasn&#39;t carried a gun since he left the Texas Rangers after a tragic shooting must pick up his gun again to do battle with a gang of outlaw bikers that has invaded the town to pull off a brazen and violent heist.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/NVYPYwHYeyc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
 
   
 
@@ -260,6 +207,40 @@ Tunisia, summer 2011. The holiday to the South of the country ends in disaster f
   
 
 
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Disturbing the Peace
+*Released on 2020-01-17, vote average 4.8*
+
+A small-town marshal who hasn&#39;t carried a gun since he left the Texas Rangers after a tragic shooting must pick up his gun again to do battle with a gang of outlaw bikers that has invaded the town to pull off a brazen and violent heist.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/NVYPYwHYeyc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -275,11 +256,11 @@ Tunisia, summer 2011. The holiday to the South of the country ends in disaster f
 	
 
 	
-	
-	
 
 	
 
+	
+	
 	
 
 	
