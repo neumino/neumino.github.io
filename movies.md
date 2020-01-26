@@ -47,7 +47,7 @@ Marcus and Mike are forced to confront new threats, career changes, and midlife 
 	
 
 ### A Fall From Grace
-*Released on 2020-01-17, vote average 7.1*
+*Released on 2020-01-17, vote average 7*
 
 When a law-abiding woman gets indicted for murdering her husband, her lawyer soon realizes that a larger conspiracy may be at work.
 
@@ -69,7 +69,7 @@ When a law-abiding woman gets indicted for murdering her husband, her lawyer soo
 	
 
 ### The Turning
-*Released on 2020-01-23, vote average 10*
+*Released on 2020-01-23, vote average 7*
 
 A young governess is hired by a man who has become responsible for his young nephew and niece after the deaths of their parents. A modern take on Henry James&#39; novella &#34;The Turn of the Screw&#34;.
 
@@ -87,6 +87,23 @@ A young governess is hired by a man who has become responsible for his young nep
   
 
 
+	
+	
+
+### Enter The Fat Dragon
+*Released on 2020-01-23, vote average 1*
+
+A Remake Of ENTER THE FAT DRAGON - Directed By KENJI TANIGAKI - Starring DONNIE YEN
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IALFUb88gTw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -122,6 +139,8 @@ THE LAST FULL MEASURE tells the true story of Vietnam War hero William H. Pitsen
 
 
 	
+	
+	
 
   
 
@@ -186,8 +205,6 @@ THE LAST FULL MEASURE tells the true story of Vietnam War hero William H. Pitsen
   
 
 
-	
-	
 	
 
   
