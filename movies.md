@@ -47,7 +47,7 @@ Marcus and Mike are forced to confront new threats, career changes, and midlife 
 	
 
 ### Enter The Fat Dragon
-*Released on 2020-01-23, vote average 2.1*
+*Released on 2020-01-23, vote average 3.7*
 
 A Remake Of ENTER THE FAT DRAGON - Directed By KENJI TANIGAKI - Starring DONNIE YEN
 
@@ -56,6 +56,57 @@ A Remake Of ENTER THE FAT DRAGON - Directed By KENJI TANIGAKI - Starring DONNIE 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/IALFUb88gTw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### The Last Full Measure
+*Released on 2020-01-23, vote average 9*
+
+THE LAST FULL MEASURE tells the true story of Vietnam War hero William H. Pitsenbarger , a U.S. Air Force Pararescuemen (also known as a PJ) medic who personally saved over sixty men. During a rescue mission on April 11, 1966, he was offered the chance to escape on the last helicopter out of a combat zone heavily under fire, but he stayed behind to save and defend the lives of his fellow soldiers of the U.S. Army&#39;s 1st Infantry Division, before making the ultimate sacrifice in the bloodiest battle of the war.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Go8zI2sytEc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Turning
+*Released on 2020-01-23, vote average 5.4*
+
+A young governess is hired by a man who has become responsible for his young nephew and niece after the deaths of their parents. A modern take on Henry James&#39; novella &#34;The Turn of the Screw&#34;.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/rl33gU2APIs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -88,63 +139,12 @@ When a law-abiding woman gets indicted for murdering her husband, her lawyer soo
 
 
 	
-	
-	
 
   
 
 
 	
 	
-
-### The Last Full Measure
-*Released on 2020-01-23, vote average 9.5*
-
-THE LAST FULL MEASURE tells the true story of Vietnam War hero William H. Pitsenbarger , a U.S. Air Force Pararescuemen (also known as a PJ) medic who personally saved over sixty men. During a rescue mission on April 11, 1966, he was offered the chance to escape on the last helicopter out of a combat zone heavily under fire, but he stayed behind to save and defend the lives of his fellow soldiers of the U.S. Army&#39;s 1st Infantry Division, before making the ultimate sacrifice in the bloodiest battle of the war.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Go8zI2sytEc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Turning
-*Released on 2020-01-23, vote average 6.6*
-
-A young governess is hired by a man who has become responsible for his young nephew and niece after the deaths of their parents. A modern take on Henry James&#39; novella &#34;The Turn of the Screw&#34;.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rl33gU2APIs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 	
 
   
@@ -242,6 +242,8 @@ A young governess is hired by a man who has become responsible for his young nep
 
 	
 
+	
+	
 	
 
 	
