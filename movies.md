@@ -67,13 +67,6 @@ A Remake Of ENTER THE FAT DRAGON - Directed By KENJI TANIGAKI - Starring DONNIE 
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### The Last Full Measure
 *Released on 2020-01-23, vote average 9*
@@ -97,30 +90,8 @@ THE LAST FULL MEASURE tells the true story of Vietnam War hero William H. Pitsen
 	
 	
 
-### The Turning
-*Released on 2020-01-23, vote average 5.4*
-
-A young governess is hired by a man who has become responsible for his young nephew and niece after the deaths of their parents. A modern take on Henry James&#39; novella &#34;The Turn of the Screw&#34;.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rl33gU2APIs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### A Fall From Grace
-*Released on 2020-01-17, vote average 7*
+*Released on 2020-01-17, vote average 6.9*
 
 When a law-abiding woman gets indicted for murdering her husband, her lawyer soon realizes that a larger conspiracy may be at work.
 
@@ -139,12 +110,39 @@ When a law-abiding woman gets indicted for murdering her husband, her lawyer soo
 
 
 	
+	
+	
 
   
 
 
 	
 	
+
+### The Turning
+*Released on 2020-01-23, vote average 5.5*
+
+A young governess is hired by a man who has become responsible for his young nephew and niece after the deaths of their parents. A modern take on Henry James&#39; novella &#34;The Turn of the Screw&#34;.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/rl33gU2APIs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -223,6 +221,18 @@ When a law-abiding woman gets indicted for murdering her husband, her lawyer soo
 	
 
 	
+	
+	
+
+	
+
+	
+
+	
+
+	
+	
+	
 
 	
 
@@ -234,16 +244,6 @@ When a law-abiding woman gets indicted for murdering her husband, her lawyer soo
 
 	
 
-	
-
-	
-
-	
-
-	
-
-	
-	
 	
 
 	
