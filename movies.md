@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Bad Boys for Life
-*Released on 2020-01-15, vote average 6.7*
+### Enter The Fat Dragon
+*Released on 2020-01-23, vote average 3.8*
 
-Marcus and Mike are forced to confront new threats, career changes, and midlife crises as they join the newly created elite team AMMO of the Miami police department to take down the ruthless Armando Armas, the vicious leader of a Miami drug cartel.
+A Remake Of ENTER THE FAT DRAGON - Directed By KENJI TANIGAKI - Starring DONNIE YEN
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/jKCj3XuPG8M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/IALFUb88gTw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,30 +46,8 @@ Marcus and Mike are forced to confront new threats, career changes, and midlife 
 	
 	
 
-### Enter The Fat Dragon
-*Released on 2020-01-23, vote average 3.7*
-
-A Remake Of ENTER THE FAT DRAGON - Directed By KENJI TANIGAKI - Starring DONNIE YEN
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IALFUb88gTw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Last Full Measure
-*Released on 2020-01-23, vote average 9*
+*Released on 2020-01-23, vote average 8.7*
 
 THE LAST FULL MEASURE tells the true story of Vietnam War hero William H. Pitsenbarger , a U.S. Air Force Pararescuemen (also known as a PJ) medic who personally saved over sixty men. During a rescue mission on April 11, 1966, he was offered the chance to escape on the last helicopter out of a combat zone heavily under fire, but he stayed behind to save and defend the lives of his fellow soldiers of the U.S. Army&#39;s 1st Infantry Division, before making the ultimate sacrifice in the bloodiest battle of the war.
 
@@ -91,7 +69,7 @@ THE LAST FULL MEASURE tells the true story of Vietnam War hero William H. Pitsen
 	
 
 ### A Fall From Grace
-*Released on 2020-01-17, vote average 6.9*
+*Released on 2020-01-17, vote average 7*
 
 When a law-abiding woman gets indicted for murdering her husband, her lawyer soon realizes that a larger conspiracy may be at work.
 
@@ -120,7 +98,7 @@ When a law-abiding woman gets indicted for murdering her husband, her lawyer soo
 	
 
 ### The Turning
-*Released on 2020-01-23, vote average 5.5*
+*Released on 2020-01-23, vote average 5.2*
 
 A young governess is hired by a man who has become responsible for his young nephew and niece after the deaths of their parents. A modern take on Henry James&#39; novella &#34;The Turn of the Screw&#34;.
 
@@ -129,6 +107,28 @@ A young governess is hired by a man who has become responsible for his young nep
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/rl33gU2APIs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Windermere Children
+*Released on 2020-01-27, vote average 7*
+
+The story of the pioneering project to rehabilitate child survivors of the Holocaust on the shores of Lake Windermere. In the year that marks the 75th anniversary of the end of World War II and the Holocaust, this powerful documentary, which accompanies the BBC Two drama, The Windermere Children, reveals a little-known story of 300 young orphaned Jewish refugees, who began new lives in England&#39;s Lake District in the summer of 1945. With compelling testimony from some of the last living Holocaust survivors, the film explores an extraordinary success story that emerged from the darkest of times,
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/m9jr5X_XJ4g?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -221,8 +221,6 @@ A young governess is hired by a man who has become responsible for his young nep
 	
 
 	
-	
-	
 
 	
 
@@ -240,6 +238,8 @@ A young governess is hired by a man who has become responsible for his young nep
 
 	
 
+	
+	
 	
 
 	
