@@ -13,15 +13,15 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Enter The Fat Dragon
-*Released on 2020-01-23, vote average 3.8*
+*Released on 2020-01-23, vote average 3.4*
 
-A Remake Of ENTER THE FAT DRAGON - Directed By KENJI TANIGAKI - Starring DONNIE YEN
+Fallon Zhu (Donnie Yen) is a Hong Kong police officer – an agile fighter with a high crime detection rate. Dumped by his fiancée Chloe (Niki Chow), Fallon was heartbroken and start indulging in food. In six months, he became 200&#43; pounds. His superior, Superintendent Huang, puts him in charge of escorting a convict to Japan. A series of mishaps befall him in Japan; not only did he lose all of his belongings, he also lost the convict in his custody. His luck overturned when he met Thor (Wong Jing), another Hong Kong citizen. The both of them join forces to solve the mystery behind Fallon’s convict’s strange and sudden death. Troubles continue to snowball, affecting those around Fallon. Fallon is thus determined to uproot the gang, regardless.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/IALFUb88gTw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/t1znaQEs3Kc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@ THE LAST FULL MEASURE tells the true story of Vietnam War hero William H. Pitsen
 	
 
 ### A Fall From Grace
-*Released on 2020-01-17, vote average 7*
+*Released on 2020-01-17, vote average 6.9*
 
 When a law-abiding woman gets indicted for murdering her husband, her lawyer soon realizes that a larger conspiracy may be at work.
 
@@ -89,16 +89,9 @@ When a law-abiding woman gets indicted for murdering her husband, her lawyer soo
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### The Turning
-*Released on 2020-01-23, vote average 5.2*
+*Released on 2020-01-23, vote average 5.6*
 
 A young governess is hired by a man who has become responsible for his young nephew and niece after the deaths of their parents. A modern take on Henry James&#39; novella &#34;The Turn of the Screw&#34;.
 
@@ -118,11 +111,23 @@ A young governess is hired by a man who has become responsible for his young nep
 
 	
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 
 ### The Windermere Children
-*Released on 2020-01-27, vote average 7*
+*Released on 2020-01-27, vote average 6.5*
 
-The story of the pioneering project to rehabilitate child survivors of the Holocaust on the shores of Lake Windermere. In the year that marks the 75th anniversary of the end of World War II and the Holocaust, this powerful documentary, which accompanies the BBC Two drama, The Windermere Children, reveals a little-known story of 300 young orphaned Jewish refugees, who began new lives in England&#39;s Lake District in the summer of 1945. With compelling testimony from some of the last living Holocaust survivors, the film explores an extraordinary success story that emerged from the darkest of times,
+The story of the pioneering project to rehabilitate child survivors of the Holocaust on the shores of Lake Windermere.
 
 <iframe id="player"
 	type="text/html"
@@ -149,10 +154,22 @@ The story of the pioneering project to rehabilitate child survivors of the Holoc
 
 
 	
+	
 
-  
+### Gretel &amp; Hansel
+*Released on 2020-01-30, vote average 8*
 
+A long time ago in a distant fairy tale countryside, a young girl leads her little brother into a dark wood in desperate search of food and work, only to stumble upon a nexus of terrifying evil.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6ZgkHjpUM8w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -213,6 +230,44 @@ The story of the pioneering project to rehabilitate child survivors of the Holoc
 
 
 	
+	
+
+### Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)
+*Released on 2020-02-05, vote average 10*
+
+After splitting with the Joker, Harley Quinn joins superheroes Black Canary, Huntress and Renee Montoya to save a young girl from an evil crime lord.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ptLZlrE8MrQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+	
+
+### The Rhythm Section
+*Released on 2020-01-31, vote average 6*
+
+After the death of her family in an airplane crash on a flight that she was meant to be on, Stephanie Patrick discovers the crash was not an accident. She then seeks to uncover the truth by adapting the identity of an assassin to track down those responsible.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0Uq_5bYGYoY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
@@ -225,21 +280,30 @@ The story of the pioneering project to rehabilitate child survivors of the Holoc
 	
 
 	
+	
+
+### Charles
+*Released on 2020-02-01, vote average 7*
+
+A young couple moves in to their first apartment and encounters a red-headed freckled doll. Soon they discover that their home and doll reveal an evil presence.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/w4s-dXKctcg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
 	
-	
-	
 
 	
 
-	
-
-	
-
-	
-	
 	
 
 	
