@@ -46,10 +46,32 @@ Fallon Zhu (Donnie Yen) is a Hong Kong police officer – an agile fighter with 
 	
 	
 
-### The Last Full Measure
-*Released on 2020-01-23, vote average 8.7*
+### Gretel &amp; Hansel
+*Released on 2020-01-30, vote average 8*
 
-THE LAST FULL MEASURE tells the true story of Vietnam War hero William H. Pitsenbarger , a U.S. Air Force Pararescuemen (also known as a PJ) medic who personally saved over sixty men. During a rescue mission on April 11, 1966, he was offered the chance to escape on the last helicopter out of a combat zone heavily under fire, but he stayed behind to save and defend the lives of his fellow soldiers of the U.S. Army&#39;s 1st Infantry Division, before making the ultimate sacrifice in the bloodiest battle of the war.
+A long time ago in a distant fairy tale countryside, a young girl leads her little brother into a dark wood in desperate search of food and work, only to stumble upon a nexus of terrifying evil.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6ZgkHjpUM8w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Last Full Measure
+*Released on 2020-01-23, vote average 8.1*
+
+The Last Full Measure tells the true story of Vietnam War hero William H. Pitsenbarger , a U.S. Air Force Pararescuemen (also known as a PJ) medic who personally saved over sixty men. During a rescue mission on April 11, 1966, he was offered the chance to escape on the last helicopter out of a combat zone heavily under fire, but he stayed behind to save and defend the lives of his fellow soldiers of the U.S. Army&#39;s 1st Infantry Division, before making the ultimate sacrifice in the bloodiest battle of the war.
 
 <iframe id="player"
 	type="text/html"
@@ -65,23 +87,6 @@ THE LAST FULL MEASURE tells the true story of Vietnam War hero William H. Pitsen
   
 
 
-	
-	
-
-### A Fall From Grace
-*Released on 2020-01-17, vote average 6.9*
-
-When a law-abiding woman gets indicted for murdering her husband, her lawyer soon realizes that a larger conspiracy may be at work.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/mNixVHejlc0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -148,28 +153,6 @@ The story of the pioneering project to rehabilitate child survivors of the Holoc
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Gretel &amp; Hansel
-*Released on 2020-01-30, vote average 8*
-
-A long time ago in a distant fairy tale countryside, a young girl leads her little brother into a dark wood in desperate search of food and work, only to stumble upon a nexus of terrifying evil.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/6ZgkHjpUM8w?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -251,33 +234,6 @@ After splitting with the Joker, Harley Quinn joins superheroes Black Canary, Hun
 	
 
 	
-	
-
-### The Rhythm Section
-*Released on 2020-01-31, vote average 6*
-
-After the death of her family in an airplane crash on a flight that she was meant to be on, Stephanie Patrick discovers the crash was not an accident. She then seeks to uncover the truth by adapting the identity of an assassin to track down those responsible.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0Uq_5bYGYoY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
 
 	
 	
@@ -296,6 +252,16 @@ A young couple moves in to their first apartment and encounters a red-headed fre
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
