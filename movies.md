@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Enter The Fat Dragon
-*Released on 2020-01-23, vote average 3.4*
+*Released on 2020-01-23, vote average 3.8*
 
 Fallon Zhu (Donnie Yen) is a Hong Kong police officer – an agile fighter with a high crime detection rate. Dumped by his fiancée Chloe (Niki Chow), Fallon was heartbroken and start indulging in food. In six months, he became 200&#43; pounds. His superior, Superintendent Huang, puts him in charge of escorting a convict to Japan. A series of mishaps befall him in Japan; not only did he lose all of his belongings, he also lost the convict in his custody. His luck overturned when he met Thor (Wong Jing), another Hong Kong citizen. The both of them join forces to solve the mystery behind Fallon’s convict’s strange and sudden death. Troubles continue to snowball, affecting those around Fallon. Fallon is thus determined to uproot the gang, regardless.
 
@@ -46,8 +46,30 @@ Fallon Zhu (Donnie Yen) is a Hong Kong police officer – an agile fighter with 
 	
 	
 
+### Miss Americana
+*Released on 2020-01-31, vote average 8.5*
+
+A raw and emotionally revealing look at one of the most iconic artists of our time during a transformational period in her life as she learns to embrace her role not only as a songwriter and performer, but as a woman harnessing the full power of her voice.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/40RsbcFRwNA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Gretel &amp; Hansel
-*Released on 2020-01-30, vote average 8*
+*Released on 2020-01-30, vote average 4.8*
 
 A long time ago in a distant fairy tale countryside, a young girl leads her little brother into a dark wood in desperate search of food and work, only to stumble upon a nexus of terrifying evil.
 
@@ -82,11 +104,6 @@ The Last Full Measure tells the true story of Vietnam War hero William H. Pitsen
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -130,7 +147,7 @@ A young governess is hired by a man who has become responsible for his young nep
 	
 
 ### The Windermere Children
-*Released on 2020-01-27, vote average 6.5*
+*Released on 2020-01-27, vote average 7*
 
 The story of the pioneering project to rehabilitate child survivors of the Holocaust on the shores of Lake Windermere.
 
@@ -178,6 +195,23 @@ The story of the pioneering project to rehabilitate child survivors of the Holoc
   
 
 
+	
+	
+
+### Jawaani Jaaneman
+*Released on 2020-01-31, vote average 9*
+
+Jazz’s traditional Punjabi family also lives in London, but Jazz chooses to live the bachelor life in a rented apartment on his own terms. A girl named Tia enters his life and later she turns out to be his daughter which brings about a transformation in Jazz’s life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/7N4JMe5M6GA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -235,23 +269,6 @@ After splitting with the Joker, Harley Quinn joins superheroes Black Canary, Hun
 
 	
 
-	
-	
-
-### Charles
-*Released on 2020-02-01, vote average 7*
-
-A young couple moves in to their first apartment and encounters a red-headed freckled doll. Soon they discover that their home and doll reveal an evil presence.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/w4s-dXKctcg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
