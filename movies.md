@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Enter The Fat Dragon
-*Released on 2020-01-23, vote average 3.8*
+### Miss Americana
+*Released on 2020-01-31, vote average 8.5*
 
-Fallon Zhu (Donnie Yen) is a Hong Kong police officer – an agile fighter with a high crime detection rate. Dumped by his fiancée Chloe (Niki Chow), Fallon was heartbroken and start indulging in food. In six months, he became 200&#43; pounds. His superior, Superintendent Huang, puts him in charge of escorting a convict to Japan. A series of mishaps befall him in Japan; not only did he lose all of his belongings, he also lost the convict in his custody. His luck overturned when he met Thor (Wong Jing), another Hong Kong citizen. The both of them join forces to solve the mystery behind Fallon’s convict’s strange and sudden death. Troubles continue to snowball, affecting those around Fallon. Fallon is thus determined to uproot the gang, regardless.
+A raw and emotionally revealing look at one of the most iconic artists of our time during a transformational period in her life as she learns to embrace her role not only as a songwriter and performer, but as a woman harnessing the full power of her voice.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/t1znaQEs3Kc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/40RsbcFRwNA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ Fallon Zhu (Donnie Yen) is a Hong Kong police officer – an agile fighter with 
 	
 	
 
-### Miss Americana
-*Released on 2020-01-31, vote average 8.5*
+### Enter The Fat Dragon
+*Released on 2020-01-23, vote average 3.7*
 
-A raw and emotionally revealing look at one of the most iconic artists of our time during a transformational period in her life as she learns to embrace her role not only as a songwriter and performer, but as a woman harnessing the full power of her voice.
+Fallon Zhu (Donnie Yen) is a Hong Kong police officer – an agile fighter with a high crime detection rate. Dumped by his fiancée Chloe (Niki Chow), Fallon was heartbroken and start indulging in food. In six months, he became 200&#43; pounds. His superior, Superintendent Huang, puts him in charge of escorting a convict to Japan. A series of mishaps befall him in Japan; not only did he lose all of his belongings, he also lost the convict in his custody. His luck overturned when he met Thor (Wong Jing), another Hong Kong citizen. The both of them join forces to solve the mystery behind Fallon’s convict’s strange and sudden death. Troubles continue to snowball, affecting those around Fallon. Fallon is thus determined to uproot the gang, regardless.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/40RsbcFRwNA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/t1znaQEs3Kc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@ A raw and emotionally revealing look at one of the most iconic artists of our ti
 	
 
 ### Gretel &amp; Hansel
-*Released on 2020-01-30, vote average 4.8*
+*Released on 2020-01-30, vote average 5.7*
 
 A long time ago in a distant fairy tale countryside, a young girl leads her little brother into a dark wood in desperate search of food and work, only to stumble upon a nexus of terrifying evil.
 
@@ -113,7 +113,7 @@ The Last Full Measure tells the true story of Vietnam War hero William H. Pitsen
 	
 
 ### The Turning
-*Released on 2020-01-23, vote average 5.6*
+*Released on 2020-01-23, vote average 5.9*
 
 A young governess is hired by a man who has become responsible for his young nephew and niece after the deaths of their parents. A modern take on Henry James&#39; novella &#34;The Turn of the Screw&#34;.
 
@@ -197,21 +197,6 @@ The story of the pioneering project to rehabilitate child survivors of the Holoc
 
 	
 	
-
-### Jawaani Jaaneman
-*Released on 2020-01-31, vote average 9*
-
-Jazz’s traditional Punjabi family also lives in London, but Jazz chooses to live the bachelor life in a rented apartment on his own terms. A girl named Tia enters his life and later she turns out to be his daughter which brings about a transformation in Jazz’s life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/7N4JMe5M6GA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -250,7 +235,7 @@ Jazz’s traditional Punjabi family also lives in London, but Jazz chooses to li
 	
 
 ### Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)
-*Released on 2020-02-05, vote average 10*
+*Released on 2020-02-05, vote average 9.7*
 
 After splitting with the Joker, Harley Quinn joins superheroes Black Canary, Huntress and Renee Montoya to save a young girl from an evil crime lord.
 
