@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)
-*Released on 2020-02-05, vote average 7.4*
+*Released on 2020-02-05, vote average 7.1*
 
 After splitting with the Joker, Harley Quinn joins superheroes Black Canary, Huntress and Renee Montoya to save a young girl from an evil crime lord.
 
@@ -88,6 +88,8 @@ A raw and emotionally revealing look at one of the most iconic artists of our ti
 
 
 	
+	
+	
 
   
 
@@ -96,7 +98,7 @@ A raw and emotionally revealing look at one of the most iconic artists of our ti
 	
 
 ### Odio l&#39;estate
-*Released on 2020-01-30, vote average 7.4*
+*Released on 2020-01-30, vote average 7.5*
 
 
 
@@ -120,10 +122,7 @@ A raw and emotionally revealing look at one of the most iconic artists of our ti
 
 
 	
-
-  
-
-
+	
 	
 
   
@@ -206,6 +205,11 @@ After the death of her family in an airplane crash on a flight that she was mean
   
 
 
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -242,6 +246,23 @@ After the death of her family in an airplane crash on a flight that she was mean
 
 	
 
+	
+	
+
+### The Girl with a Bracelet
+*Released on 2020-02-12, vote average 8*
+
+Lise (16 years old) is accused of murdering her best friend. As the trial starts, her parents stand right by her side. But once her secret life is revealed in court, the truth becomes indistinguishable.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/UpQIhzFZc2g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
