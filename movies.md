@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)
-*Released on 2020-02-05, vote average 7.1*
+*Released on 2020-02-05, vote average 7*
 
 After splitting with the Joker, Harley Quinn joins superheroes Black Canary, Huntress and Renee Montoya to save a young girl from an evil crime lord.
 
@@ -47,7 +47,7 @@ After splitting with the Joker, Harley Quinn joins superheroes Black Canary, Hun
 	
 
 ### Gretel &amp; Hansel
-*Released on 2020-01-30, vote average 5.8*
+*Released on 2020-01-30, vote average 5.4*
 
 A long time ago in a distant fairy tale countryside, a young girl leads her little brother into a dark wood in desperate search of food and work, only to stumble upon a nexus of terrifying evil.
 
@@ -67,9 +67,16 @@ A long time ago in a distant fairy tale countryside, a young girl leads her litt
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Miss Americana
-*Released on 2020-01-31, vote average 8.1*
+*Released on 2020-01-31, vote average 8*
 
 A raw and emotionally revealing look at one of the most iconic artists of our time during a transformational period in her life as she learns to embrace her role not only as a songwriter and performer, but as a woman harnessing the full power of her voice.
 
@@ -78,6 +85,28 @@ A raw and emotionally revealing look at one of the most iconic artists of our ti
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/40RsbcFRwNA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Come to Daddy
+*Released on 2020-02-07, vote average 6*
+
+After receiving a cryptic letter from his estranged father, Norval travels to his dad’s oceanfront home for what he hopes will be a positive experience. If only he’d known the dark truth about his old man beforehand.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_PITkX6Ymqo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -164,32 +193,7 @@ A raw and emotionally revealing look at one of the most iconic artists of our ti
 
 
 	
-
-  
-
-
 	
-	
-
-### The Rhythm Section
-*Released on 2020-01-31, vote average 5.7*
-
-After the death of her family in an airplane crash on a flight that she was meant to be on, Stephanie Patrick discovers the crash was not an accident. She then seeks to uncover the truth by adapting the identity of an assassin to track down those responsible.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0Uq_5bYGYoY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -215,9 +219,43 @@ After the death of her family in an airplane crash on a flight that she was mean
 
 
 	
+	
+
+### Sonic the Hedgehog
+*Released on 2020-02-12, vote average 7*
+
+Based on the global blockbuster videogame franchise from Sega, Sonic the Hedgehog tells the story of the world’s speediest hedgehog as he embraces his new home on Earth. In this live-action adventure comedy, Sonic and his new best friend team up to defend the planet from the evil genius Dr. Robotnik and his plans for world domination.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/szby7ZHLnkA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
+	
+	
+
+### To All the Boys: P.S. I Still Love You
+*Released on 2020-02-12, vote average 5.3*
+
+Lara Jean and Peter have just taken their romance from pretend to officially real when another recipient of one of her love letters enters the picture.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/rfJY5vyfyxs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
