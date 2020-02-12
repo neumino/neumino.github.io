@@ -46,8 +46,30 @@ After splitting with the Joker, Harley Quinn joins superheroes Black Canary, Hun
 	
 	
 
+### Sonic the Hedgehog
+*Released on 2020-02-12, vote average 7.6*
+
+Based on the global blockbuster videogame franchise from Sega, Sonic the Hedgehog tells the story of the world’s speediest hedgehog as he embraces his new home on Earth. In this live-action adventure comedy, Sonic and his new best friend team up to defend the planet from the evil genius Dr. Robotnik and his plans for world domination.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/szby7ZHLnkA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Gretel &amp; Hansel
-*Released on 2020-01-30, vote average 5.4*
+*Released on 2020-01-30, vote average 5.5*
 
 A long time ago in a distant fairy tale countryside, a young girl leads her little brother into a dark wood in desperate search of food and work, only to stumble upon a nexus of terrifying evil.
 
@@ -88,8 +110,6 @@ A raw and emotionally revealing look at one of the most iconic artists of our ti
 
 
 	
-	
-	
 
   
 
@@ -111,6 +131,11 @@ After receiving a cryptic letter from his estranged father, Norval travels to hi
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -200,35 +225,8 @@ After receiving a cryptic letter from his estranged father, Norval travels to hi
 	
 	
 
-### Hacked
-*Released on 2020-02-07, vote average 10*
-
-The deep dark side of the digital and the social media world.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/n1VWeLcTmmA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### The Rhythm Section
-*Released on 2020-01-31, vote average 5.8*
+*Released on 2020-01-31, vote average 5.9*
 
 After the death of her family in an airplane crash on a flight that she was meant to be on, Stephanie Patrick discovers the crash was not an accident. She then seeks to uncover the truth by adapting the identity of an assassin to track down those responsible.
 
@@ -272,6 +270,31 @@ Based on the global blockbuster videogame franchise from Sega, Sonic the Hedgeho
 	
 
 	
+
+	
+
+	
+
+	
+	
+
+### The Photograph
+*Released on 2020-02-14, vote average 10*
+
+When famed photographer Christina Eames dies unexpectedly, she leaves her estranged daughter, Mae, hurt, angry and full of questions. When Mae finds a photograph tucked away in a safe-deposit box, she soon finds herself delving into her mother&#39;s early life -- an investigation that leads to an unexpected romance with a rising journalist.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kmicB3J1emw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
 	
 
 ### To All the Boys: P.S. I Still Love You
@@ -297,15 +320,13 @@ Lara Jean and Peter have just taken their romance from pretend to officially rea
 	
 
 	
-	
-	
 
 	
 
 	
 
 	
-
+	
 	
 
 	
@@ -318,29 +339,6 @@ Lara Jean and Peter have just taken their romance from pretend to officially rea
 
 	
 
-	
-
-	
-
-	
-
-	
-	
-
-### The Girl with a Bracelet
-*Released on 2020-02-12, vote average 8*
-
-Lise (16 years old) is accused of murdering her best friend. As the trial starts, her parents stand right by her side. But once her secret life is revealed in court, the truth becomes indistinguishable.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/UpQIhzFZc2g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 
