@@ -47,7 +47,7 @@ After splitting with the Joker, Harley Quinn joins superheroes Black Canary, Hun
 	
 
 ### Sonic the Hedgehog
-*Released on 2020-02-12, vote average 8.1*
+*Released on 2020-02-12, vote average 7.7*
 
 Based on the global blockbuster videogame franchise from Sega, Sonic the Hedgehog tells the story of the world’s speediest hedgehog as he embraces his new home on Earth. In this live-action adventure comedy, Sonic and his new best friend team up to defend the planet from the evil genius Dr. Robotnik and his plans for world domination.
 
@@ -91,7 +91,7 @@ After receiving a cryptic letter from his estranged father, Norval travels to hi
 	
 
 ### To All the Boys: P.S. I Still Love You
-*Released on 2020-02-12, vote average 7.3*
+*Released on 2020-02-12, vote average 7.2*
 
 Lara Jean and Peter have just taken their romance from pretend to officially real when another recipient of one of her love letters enters the picture.
 
@@ -113,7 +113,7 @@ Lara Jean and Peter have just taken their romance from pretend to officially rea
 	
 
 ### Fantasy Island
-*Released on 2020-02-12, vote average 6.5*
+*Released on 2020-02-12, vote average 4.3*
 
 A group of contest winners arrive at an island hotel to live out their dreams, only to find themselves trapped in nightmare scenarios.
 
@@ -134,8 +134,74 @@ A group of contest winners arrive at an island hotel to live out their dreams, o
 	
 	
 
+### Emma
+*Released on 2020-02-14, vote average 8*
+
+A young woman despite the best intentions, heedlessly meddles in people’s romantic affairs as she tries to play matchmaker.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qsOwj0PR5Sk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Photograph
+*Released on 2020-02-14, vote average 10*
+
+When famed photographer Christina Eames dies unexpectedly, she leaves her estranged daughter, Mae, hurt, angry and full of questions. When Mae finds a photograph tucked away in a safe-deposit box, she soon finds herself delving into her mother&#39;s early life -- an investigation that leads to an unexpected romance with a rising journalist.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kmicB3J1emw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Downhill
+*Released on 2020-02-13, vote average 2*
+
+Barely escaping an avalanche during a family ski vacation in the Alps, a married couple is thrown into disarray as they are forced to reevaluate their lives and how they feel about each other.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/AY5SrKf_2ic?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Alien Outbreak
-*Released on 2020-02-11, vote average 7*
+*Released on 2020-02-11, vote average 6.3*
 
 In a small rural community, local police officers Zoe and Patrick begin their shift as normal but soon, strange events unfold. Residents begin behaving erratically, and suicidal panic spreads amongst the township they are trying to protect. Zoe and Patrick realise alien machines are taking hold, cutting their small group of survivors off from the outside world. Can the determined humans band together to save their community, and all mankind, from extinction?
 
@@ -159,28 +225,18 @@ In a small rural community, local police officers Zoe and Patrick begin their sh
 
 
 	
-
-  
-
-
 	
 
-  
+### Z-O-M-B-I-E-S 2
+*Released on 2020-02-14, vote average 6*
 
-
-	
-	
-
-### The Photograph
-*Released on 2020-02-14, vote average 10*
-
-When famed photographer Christina Eames dies unexpectedly, she leaves her estranged daughter, Mae, hurt, angry and full of questions. When Mae finds a photograph tucked away in a safe-deposit box, she soon finds herself delving into her mother&#39;s early life -- an investigation that leads to an unexpected romance with a rising journalist.
+Zed and Addison are back at Seabrook High, where, after a groundbreaking semester, they continue to steer both their school and community toward unity. But the arrival of a new group of outsiders – mysterious werewolves – threatens to shake up the newfound peace and causes a rift in Zed and Addison’s budding romance.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/kmicB3J1emw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/3K-7W9KSi5o?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -191,6 +247,11 @@ When famed photographer Christina Eames dies unexpectedly, she leaves her estran
 
 
 	
+
+  
+
+
+	
 	
 	
 
@@ -207,6 +268,28 @@ When famed photographer Christina Eames dies unexpectedly, she leaves her estran
   
 
 
+	
+
+  
+
+
+	
+	
+
+### Milea: Suara dari Dilan
+*Released on 2020-02-13, vote average 6.5*
+
+Before the grand reunion, Dilan decided to write and retell his love story with Milea. This is Dilan&#39;s way of remembering Milea.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/C2yFJaXmdQs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -226,7 +309,7 @@ When famed photographer Christina Eames dies unexpectedly, she leaves her estran
 	
 
 ### Dragonheart: Vengeance
-*Released on 2020-02-04, vote average 7*
+*Released on 2020-02-04, vote average 6.7*
 
 Lukas, a young farmer whose family is killed by savage raiders in the countryside, sets out on an epic quest for revenge, forming an unlikely trio with a majestic dragon and a swashbuckling, sword-fighting mercenary, Darius.
 
@@ -244,63 +327,12 @@ Lukas, a young farmer whose family is killed by savage raiders in the countrysid
   
 
 
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### The Girl with a Bracelet
-*Released on 2020-02-12, vote average 7.5*
-
-Lise (16 years old) is accused of murdering her best friend. As the trial starts, her parents stand right by her side. But once her secret life is revealed in court, the truth becomes indistinguishable.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/UpQIhzFZc2g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 
 ## Opening soon
 
 
 	
 
-	
-	
-
-### The Photograph
-*Released on 2020-02-14, vote average 10*
-
-When famed photographer Christina Eames dies unexpectedly, she leaves her estranged daughter, Mae, hurt, angry and full of questions. When Mae finds a photograph tucked away in a safe-deposit box, she soon finds herself delving into her mother&#39;s early life -- an investigation that leads to an unexpected romance with a rising journalist.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kmicB3J1emw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
