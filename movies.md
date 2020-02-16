@@ -47,7 +47,7 @@ After splitting with the Joker, Harley Quinn joins superheroes Black Canary, Hun
 	
 
 ### Sonic the Hedgehog
-*Released on 2020-02-12, vote average 7.7*
+*Released on 2020-02-12, vote average 7.3*
 
 Based on the global blockbuster videogame franchise from Sega, Sonic the Hedgehog tells the story of the world’s speediest hedgehog as he embraces his new home on Earth. In this live-action adventure comedy, Sonic and his new best friend team up to defend the planet from the evil genius Dr. Robotnik and his plans for world domination.
 
@@ -69,7 +69,7 @@ Based on the global blockbuster videogame franchise from Sega, Sonic the Hedgeho
 	
 
 ### Come to Daddy
-*Released on 2020-02-07, vote average 5.8*
+*Released on 2020-02-07, vote average 5.3*
 
 After receiving a cryptic letter from his estranged father, Norval travels to his dad’s oceanfront home for what he hopes will be a positive experience. If only he’d known the dark truth about his old man beforehand.
 
@@ -91,7 +91,7 @@ After receiving a cryptic letter from his estranged father, Norval travels to hi
 	
 
 ### To All the Boys: P.S. I Still Love You
-*Released on 2020-02-12, vote average 7.2*
+*Released on 2020-02-12, vote average 7.1*
 
 Lara Jean and Peter have just taken their romance from pretend to officially real when another recipient of one of her love letters enters the picture.
 
@@ -100,28 +100,6 @@ Lara Jean and Peter have just taken their romance from pretend to officially rea
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/rfJY5vyfyxs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Fantasy Island
-*Released on 2020-02-12, vote average 4.3*
-
-A group of contest winners arrive at an island hotel to live out their dreams, only to find themselves trapped in nightmare scenarios.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/a6O30nJ02PU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -144,6 +122,50 @@ A young woman despite the best intentions, heedlessly meddles in people’s roma
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/qsOwj0PR5Sk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Fantasy Island
+*Released on 2020-02-12, vote average 3.9*
+
+A group of contest winners arrive at an island hotel to live out their dreams, only to find themselves trapped in nightmare scenarios.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/a6O30nJ02PU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### After Midnight
+*Released on 2020-02-14, vote average 5.5*
+
+Dealing with a girlfriend suddenly leaving is tough enough. But for Hank, heartbreak couldn’t have come at a worse time. There’s also a monster trying to break through his front door every night.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/uj8OeaGMB-8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -188,6 +210,28 @@ Barely escaping an avalanche during a family ski vacation in the Alps, a married
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/AY5SrKf_2ic?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Isi &amp; Ossi
+*Released on 2020-02-14, vote average 7.1*
+
+Isi and Ossi couldn&#39;t be any more different: She&#39;s a billionaire&#39;s daughter from Heidelberg, he&#39;s a struggling boxer from the nearby town of Mannheim. But when Isi meets Ossi, the two quickly realize that they can take advantage of one another: She dates the broke boxer to provoke her parents and get them to fund a long-desired chef training in New York. He tries to rip off the rich daughter to finance his first professional boxing match. Their plans soon develop into emotional chaos that challenges everything the two believe to know about money, career and love.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/oHwqCm23s_8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -269,6 +313,23 @@ Zed and Addison are back at Seabrook High, where, after a groundbreaking semeste
 
 
 	
+	
+
+### Buffaloed
+*Released on 2020-02-14, vote average 6*
+
+Set in the underworld of debt-collecting and follows the homegrown hustler Peg Dahl, who will do anything to escape Buffalo, NY.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LrQZpeMcM5g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -277,7 +338,7 @@ Zed and Addison are back at Seabrook High, where, after a groundbreaking semeste
 	
 
 ### Milea: Suara dari Dilan
-*Released on 2020-02-13, vote average 6.5*
+*Released on 2020-02-13, vote average 7*
 
 Before the grand reunion, Dilan decided to write and retell his love story with Milea. This is Dilan&#39;s way of remembering Milea.
 
@@ -296,28 +357,18 @@ Before the grand reunion, Dilan decided to write and retell his love story with 
 
 
 	
-
-  
-
-
 	
 
-  
+### Love Aaj Kal
+*Released on 2020-02-14, vote average 10*
 
-
-	
-	
-
-### Dragonheart: Vengeance
-*Released on 2020-02-04, vote average 6.7*
-
-Lukas, a young farmer whose family is killed by savage raiders in the countryside, sets out on an epic quest for revenge, forming an unlikely trio with a majestic dragon and a swashbuckling, sword-fighting mercenary, Darius.
+Two different individuals on a journey of love, loss and life through the phases of Reincarnation.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ZOWZusTSoes?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/EZ8lTqDmSyQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -355,6 +406,8 @@ Lukas, a young farmer whose family is killed by savage raiders in the countrysid
 
 	
 
+	
+	
 	
 
 	
