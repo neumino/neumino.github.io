@@ -69,7 +69,7 @@ After splitting with the Joker, Harley Quinn joins superheroes Black Canary, Hun
 	
 
 ### To All the Boys: P.S. I Still Love You
-*Released on 2020-02-12, vote average 7.2*
+*Released on 2020-02-12, vote average 7.1*
 
 Lara Jean and Peter have just taken their romance from pretend to officially real when another recipient of one of her love letters enters the picture.
 
@@ -112,16 +112,16 @@ A group of contest winners arrive at an island hotel to live out their dreams, o
 	
 	
 
-### Emma
-*Released on 2020-02-14, vote average 7.3*
+### Dragonheart: Vengeance
+*Released on 2020-02-04, vote average 6.9*
 
-A young woman despite the best intentions, heedlessly meddles in people’s romantic affairs as she tries to play matchmaker.
+Lukas, a young farmer whose family is killed by savage raiders in the countryside, sets out on an epic quest for revenge, forming an unlikely trio with a majestic dragon and a swashbuckling, sword-fighting mercenary, Darius.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/qsOwj0PR5Sk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ZOWZusTSoes?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -135,7 +135,7 @@ A young woman despite the best intentions, heedlessly meddles in people’s roma
 	
 
 ### Isi &amp; Ossi
-*Released on 2020-02-14, vote average 7.6*
+*Released on 2020-02-14, vote average 7.4*
 
 Isi and Ossi couldn&#39;t be any more different: She&#39;s a billionaire&#39;s daughter from Heidelberg, he&#39;s a struggling boxer from the nearby town of Mannheim. But when Isi meets Ossi, the two quickly realize that they can take advantage of one another: She dates the broke boxer to provoke her parents and get them to fund a long-desired chef training in New York. He tries to rip off the rich daughter to finance his first professional boxing match. Their plans soon develop into emotional chaos that challenges everything the two believe to know about money, career and love.
 
@@ -156,8 +156,30 @@ Isi and Ossi couldn&#39;t be any more different: She&#39;s a billionaire&#39;s d
 	
 	
 
+### Emma
+*Released on 2020-02-14, vote average 7.8*
+
+In 1800s England, a well-meaning but selfish young woman meddles in the love lives of her friends.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qsOwj0PR5Sk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Z-O-M-B-I-E-S 2
-*Released on 2020-02-14, vote average 9.4*
+*Released on 2020-02-14, vote average 7.2*
 
 Zed and Addison are back at Seabrook High, where, after a groundbreaking semester, they continue to steer both their school and community toward unity. But the arrival of a new group of outsiders – mysterious werewolves – threatens to shake up the newfound peace and causes a rift in Zed and Addison’s budding romance.
 
@@ -175,6 +197,8 @@ Zed and Addison are back at Seabrook High, where, after a groundbreaking semeste
   
 
 
+	
+	
 	
 
   
@@ -206,7 +230,7 @@ Dealing with a girlfriend suddenly leaving is tough enough. But for Hank, heartb
 	
 
 ### The Photograph
-*Released on 2020-02-14, vote average 9*
+*Released on 2020-02-14, vote average 8.2*
 
 When famed photographer Christina Eames dies unexpectedly, she leaves her estranged daughter, Mae, hurt, angry and full of questions. When Mae finds a photograph tucked away in a safe-deposit box, she soon finds herself delving into her mother&#39;s early life -- an investigation that leads to an unexpected romance with a rising journalist.
 
@@ -228,7 +252,7 @@ When famed photographer Christina Eames dies unexpectedly, she leaves her estran
 	
 
 ### Come to Daddy
-*Released on 2020-02-07, vote average 5.6*
+*Released on 2020-02-07, vote average 5.7*
 
 After receiving a cryptic letter from his estranged father, Norval travels to his dad’s oceanfront home for what he hopes will be a positive experience. If only he’d known the dark truth about his old man beforehand.
 
@@ -250,7 +274,7 @@ After receiving a cryptic letter from his estranged father, Norval travels to hi
 	
 
 ### Alien Outbreak
-*Released on 2020-02-11, vote average 6*
+*Released on 2020-02-11, vote average 5.8*
 
 In a small rural community, local police officers Zoe and Patrick begin their shift as normal but soon, strange events unfold. Residents begin behaving erratically, and suicidal panic spreads amongst the township they are trying to protect. Zoe and Patrick realise alien machines are taking hold, cutting their small group of survivors off from the outside world. Can the determined humans band together to save their community, and all mankind, from extinction?
 
@@ -294,7 +318,7 @@ In a small rural community, local police officers Zoe and Patrick begin their sh
 	
 
 ### Buffaloed
-*Released on 2020-02-14, vote average 3.5*
+*Released on 2020-02-14, vote average 4.3*
 
 Set in the underworld of debt-collecting and follows the homegrown hustler Peg Dahl, who will do anything to escape Buffalo, NY.
 
@@ -338,7 +362,7 @@ Before the grand reunion, Dilan decided to write and retell his love story with 
 	
 
 ### Love Aaj Kal
-*Released on 2020-02-14, vote average 8.5*
+*Released on 2020-02-14, vote average 7.7*
 
 Two different individuals on a journey of love, loss and life through the phases of Reincarnation.
 
@@ -351,11 +375,6 @@ Two different individuals on a journey of love, loss and life through the phases
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
