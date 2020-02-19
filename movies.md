@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Sonic the Hedgehog
-*Released on 2020-02-12, vote average 7.5*
+*Released on 2020-02-12, vote average 7.3*
 
 Based on the global blockbuster videogame franchise from Sega, Sonic the Hedgehog tells the story of the world’s speediest hedgehog as he embraces his new home on Earth. In this live-action adventure comedy, Sonic and his new best friend team up to defend the planet from the evil genius Dr. Robotnik and his plans for world domination.
 
@@ -49,7 +49,7 @@ Based on the global blockbuster videogame franchise from Sega, Sonic the Hedgeho
 ### Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)
 *Released on 2020-02-05, vote average 7*
 
-After splitting with the Joker, Harley Quinn joins superheroes Black Canary, Huntress and Renee Montoya to save a young girl from an evil crime lord.
+After her breakup with the Joker, Harley Quinn joins forces with singer Black Canary, assassin Huntress, and police detective Renee Montoya to help a young girl named Cassandra, who had a hit placed on her after she stole a rare diamond from crime lord Roman Sionis.
 
 <iframe id="player"
 	type="text/html"
@@ -69,7 +69,7 @@ After splitting with the Joker, Harley Quinn joins superheroes Black Canary, Hun
 	
 
 ### To All the Boys: P.S. I Still Love You
-*Released on 2020-02-12, vote average 7.1*
+*Released on 2020-02-12, vote average 7*
 
 Lara Jean and Peter have just taken their romance from pretend to officially real when another recipient of one of her love letters enters the picture.
 
@@ -91,7 +91,7 @@ Lara Jean and Peter have just taken their romance from pretend to officially rea
 	
 
 ### Fantasy Island
-*Released on 2020-02-12, vote average 4.4*
+*Released on 2020-02-12, vote average 4.2*
 
 A group of contest winners arrive at an island hotel to live out their dreams, only to find themselves trapped in nightmare scenarios.
 
@@ -112,30 +112,8 @@ A group of contest winners arrive at an island hotel to live out their dreams, o
 	
 	
 
-### Dragonheart: Vengeance
-*Released on 2020-02-04, vote average 6.9*
-
-Lukas, a young farmer whose family is killed by savage raiders in the countryside, sets out on an epic quest for revenge, forming an unlikely trio with a majestic dragon and a swashbuckling, sword-fighting mercenary, Darius.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZOWZusTSoes?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Isi &amp; Ossi
-*Released on 2020-02-14, vote average 7.4*
+*Released on 2020-02-14, vote average 7.2*
 
 Isi and Ossi couldn&#39;t be any more different: She&#39;s a billionaire&#39;s daughter from Heidelberg, he&#39;s a struggling boxer from the nearby town of Mannheim. But when Isi meets Ossi, the two quickly realize that they can take advantage of one another: She dates the broke boxer to provoke her parents and get them to fund a long-desired chef training in New York. He tries to rip off the rich daughter to finance his first professional boxing match. Their plans soon develop into emotional chaos that challenges everything the two believe to know about money, career and love.
 
@@ -156,7 +134,7 @@ Isi and Ossi couldn&#39;t be any more different: She&#39;s a billionaire&#39;s d
 	
 	
 
-### Emma
+### Emma.
 *Released on 2020-02-14, vote average 7.8*
 
 In 1800s England, a well-meaning but selfish young woman meddles in the love lives of her friends.
@@ -176,10 +154,15 @@ In 1800s England, a well-meaning but selfish young woman meddles in the love liv
 
 
 	
+
+  
+
+
+	
 	
 
 ### Z-O-M-B-I-E-S 2
-*Released on 2020-02-14, vote average 7.2*
+*Released on 2020-02-14, vote average 8*
 
 Zed and Addison are back at Seabrook High, where, after a groundbreaking semester, they continue to steer both their school and community toward unity. But the arrival of a new group of outsiders – mysterious werewolves – threatens to shake up the newfound peace and causes a rift in Zed and Addison’s budding romance.
 
@@ -199,27 +182,27 @@ Zed and Addison are back at Seabrook High, where, after a groundbreaking semeste
 
 	
 	
+
+### Spy Intervention
+*Released on 2020-02-14, vote average 4.5*
+
+When the world&#39;s greatest spy meets the woman of his dreams, he abandons his adventurous existence and settles into the security of suburbia.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/4DBeCeZd59s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
 
 
 	
-	
-
-### After Midnight
-*Released on 2020-02-14, vote average 6.3*
-
-Dealing with a girlfriend suddenly leaving is tough enough. But for Hank, heartbreak couldn’t have come at a worse time. There’s also a monster trying to break through his front door every night.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/uj8OeaGMB-8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -272,26 +255,6 @@ After receiving a cryptic letter from his estranged father, Norval travels to hi
 
 	
 	
-
-### Alien Outbreak
-*Released on 2020-02-11, vote average 5.8*
-
-In a small rural community, local police officers Zoe and Patrick begin their shift as normal but soon, strange events unfold. Residents begin behaving erratically, and suicidal panic spreads amongst the township they are trying to protect. Zoe and Patrick realise alien machines are taking hold, cutting their small group of survivors off from the outside world. Can the determined humans band together to save their community, and all mankind, from extinction?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/aWNPlyXng3k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -299,11 +262,6 @@ In a small rural community, local police officers Zoe and Patrick begin their sh
 
 	
 	
-	
-
-  
-
-
 	
 
   
@@ -337,6 +295,33 @@ Set in the underworld of debt-collecting and follows the homegrown hustler Peg D
 
 
 	
+
+  
+
+
+	
+	
+
+### After Midnight
+*Released on 2020-02-14, vote average 6.3*
+
+Dealing with a girlfriend suddenly leaving is tough enough. But for Hank, heartbreak couldn’t have come at a worse time. There’s also a monster trying to break through his front door every night.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/uj8OeaGMB-8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 
 ### Milea: Suara dari Dilan
@@ -360,21 +345,6 @@ Before the grand reunion, Dilan decided to write and retell his love story with 
 
 	
 	
-
-### Love Aaj Kal
-*Released on 2020-02-14, vote average 7.7*
-
-Two different individuals on a journey of love, loss and life through the phases of Reincarnation.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EZ8lTqDmSyQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -387,6 +357,23 @@ Two different individuals on a journey of love, loss and life through the phases
 	
 
 	
+	
+
+### Bloodshot
+*Released on 2020-02-20, vote average 8*
+
+After he and his wife are murdered, marine Ray Garrison is resurrected by a team of scientists. Enhanced with nanotechnology, he becomes a superhuman, biotech killing machine - Bloodshot. As Ray first trains with fellow super-soldiers, he cannot recall anything from his former life. But when his memories flood back and he remembers the man that killed both him and his wife, he breaks out of the facility to get revenge, only to discover that there&#39;s more to the conspiracy than he thought.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/F95Fk255I4M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
@@ -405,8 +392,6 @@ Two different individuals on a journey of love, loss and life through the phases
 	
 
 	
-	
-	
 
 	
 
@@ -422,6 +407,8 @@ Two different individuals on a journey of love, loss and life through the phases
 
 	
 
+	
+	
 	
 
 	
