@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Sonic the Hedgehog
-*Released on 2020-02-12, vote average 7.3*
+*Released on 2020-02-12, vote average 7.2*
 
 Based on the global blockbuster videogame franchise from Sega, Sonic the Hedgehog tells the story of the world’s speediest hedgehog as he embraces his new home on Earth. In this live-action adventure comedy, Sonic and his new best friend team up to defend the planet from the evil genius Dr. Robotnik and his plans for world domination.
 
@@ -46,28 +46,6 @@ Based on the global blockbuster videogame franchise from Sega, Sonic the Hedgeho
 	
 	
 
-### Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)
-*Released on 2020-02-05, vote average 7*
-
-After her breakup with the Joker, Harley Quinn joins forces with singer Black Canary, assassin Huntress, and police detective Renee Montoya to help a young girl named Cassandra, who had a hit placed on her after she stole a rare diamond from crime lord Roman Sionis.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ptLZlrE8MrQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### To All the Boys: P.S. I Still Love You
 *Released on 2020-02-12, vote average 7*
 
@@ -90,8 +68,30 @@ Lara Jean and Peter have just taken their romance from pretend to officially rea
 	
 	
 
+### The Call of the Wild
+*Released on 2020-02-19, vote average 5*
+
+A sled dog struggles for survival in the wilds of the Yukon.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5P8R2zAhEwg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Fantasy Island
-*Released on 2020-02-12, vote average 4.2*
+*Released on 2020-02-12, vote average 4.5*
 
 A group of contest winners arrive at an island hotel to live out their dreams, only to find themselves trapped in nightmare scenarios.
 
@@ -113,7 +113,7 @@ A group of contest winners arrive at an island hotel to live out their dreams, o
 	
 
 ### Isi &amp; Ossi
-*Released on 2020-02-14, vote average 7.2*
+*Released on 2020-02-14, vote average 7.1*
 
 Isi and Ossi couldn&#39;t be any more different: She&#39;s a billionaire&#39;s daughter from Heidelberg, he&#39;s a struggling boxer from the nearby town of Mannheim. But when Isi meets Ossi, the two quickly realize that they can take advantage of one another: She dates the broke boxer to provoke her parents and get them to fund a long-desired chef training in New York. He tries to rip off the rich daughter to finance his first professional boxing match. Their plans soon develop into emotional chaos that challenges everything the two believe to know about money, career and love.
 
@@ -122,6 +122,28 @@ Isi and Ossi couldn&#39;t be any more different: She&#39;s a billionaire&#39;s d
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/oHwqCm23s_8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Bloodshot
+*Released on 2020-02-20, vote average 8*
+
+After he and his wife are murdered, marine Ray Garrison is resurrected by a team of scientists. Enhanced with nanotechnology, he becomes a superhuman, biotech killing machine - Bloodshot. As Ray first trains with fellow super-soldiers, he cannot recall anything from his former life. But when his memories flood back and he remembers the man that killed both him and his wife, he breaks out of the facility to get revenge, only to discover that there&#39;s more to the conspiracy than he thought.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/F95Fk255I4M?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -154,6 +176,13 @@ In 1800s England, a well-meaning but selfish young woman meddles in the love liv
 
 
 	
+	
+	
+
+  
+
+
+	
 
   
 
@@ -162,7 +191,7 @@ In 1800s England, a well-meaning but selfish young woman meddles in the love liv
 	
 
 ### Z-O-M-B-I-E-S 2
-*Released on 2020-02-14, vote average 8*
+*Released on 2020-02-14, vote average 8.1*
 
 Zed and Addison are back at Seabrook High, where, after a groundbreaking semester, they continue to steer both their school and community toward unity. But the arrival of a new group of outsiders – mysterious werewolves – threatens to shake up the newfound peace and causes a rift in Zed and Addison’s budding romance.
 
@@ -204,16 +233,9 @@ When the world&#39;s greatest spy meets the woman of his dreams, he abandons his
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### The Photograph
-*Released on 2020-02-14, vote average 8.2*
+*Released on 2020-02-14, vote average 8.4*
 
 When famed photographer Christina Eames dies unexpectedly, she leaves her estranged daughter, Mae, hurt, angry and full of questions. When Mae finds a photograph tucked away in a safe-deposit box, she soon finds herself delving into her mother&#39;s early life -- an investigation that leads to an unexpected romance with a rising journalist.
 
@@ -225,6 +247,60 @@ When famed photographer Christina Eames dies unexpectedly, she leaves her estran
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Buffaloed
+*Released on 2020-02-14, vote average 4.9*
+
+Set in the underworld of debt-collecting and follows the homegrown hustler Peg Dahl, who will do anything to escape Buffalo, NY.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LrQZpeMcM5g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 	
 
@@ -253,108 +329,9 @@ After receiving a cryptic letter from his estranged father, Norval travels to hi
   
 
 
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Buffaloed
-*Released on 2020-02-14, vote average 4.3*
-
-Set in the underworld of debt-collecting and follows the homegrown hustler Peg Dahl, who will do anything to escape Buffalo, NY.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LrQZpeMcM5g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### After Midnight
-*Released on 2020-02-14, vote average 6.3*
-
-Dealing with a girlfriend suddenly leaving is tough enough. But for Hank, heartbreak couldn’t have come at a worse time. There’s also a monster trying to break through his front door every night.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/uj8OeaGMB-8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Milea: Suara dari Dilan
-*Released on 2020-02-13, vote average 7*
-
-Before the grand reunion, Dilan decided to write and retell his love story with Milea. This is Dilan&#39;s way of remembering Milea.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/C2yFJaXmdQs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 
 ## Opening soon
 
-
-	
 
 	
 	
@@ -408,7 +385,7 @@ After he and his wife are murdered, marine Ray Garrison is resurrected by a team
 	
 
 	
-	
+
 	
 
 	
