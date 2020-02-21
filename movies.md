@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Sonic the Hedgehog
-*Released on 2020-02-12, vote average 7.2*
+*Released on 2020-02-12, vote average 7.1*
 
 Based on the global blockbuster videogame franchise from Sega, Sonic the Hedgehog tells the story of the world’s speediest hedgehog as he embraces his new home on Earth. In this live-action adventure comedy, Sonic and his new best friend team up to defend the planet from the evil genius Dr. Robotnik and his plans for world domination.
 
@@ -69,7 +69,7 @@ Lara Jean and Peter have just taken their romance from pretend to officially rea
 	
 
 ### The Call of the Wild
-*Released on 2020-02-19, vote average 5*
+*Released on 2020-02-19, vote average 5.5*
 
 A sled dog struggles for survival in the wilds of the Yukon.
 
@@ -91,7 +91,7 @@ A sled dog struggles for survival in the wilds of the Yukon.
 	
 
 ### Fantasy Island
-*Released on 2020-02-12, vote average 4.5*
+*Released on 2020-02-12, vote average 4.6*
 
 A group of contest winners arrive at an island hotel to live out their dreams, only to find themselves trapped in nightmare scenarios.
 
@@ -112,8 +112,52 @@ A group of contest winners arrive at an island hotel to live out their dreams, o
 	
 	
 
+### Bloodshot
+*Released on 2020-02-20, vote average 4.5*
+
+After he and his wife are murdered, marine Ray Garrison is resurrected by a team of scientists. Enhanced with nanotechnology, he becomes a superhuman, biotech killing machine - Bloodshot. As Ray first trains with fellow super-soldiers, he cannot recall anything from his former life. But when his memories flood back and he remembers the man that killed both him and his wife, he breaks out of the facility to get revenge, only to discover that there&#39;s more to the conspiracy than he thought.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/F95Fk255I4M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Brahms: The Boy II
+*Released on 2020-02-20, vote average 3.5*
+
+After a family moves into the Heelshire Mansion, their young son soon makes friends with a life-like doll called Brahms.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LjiisjCJ9VE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Isi &amp; Ossi
-*Released on 2020-02-14, vote average 7.1*
+*Released on 2020-02-14, vote average 7.2*
 
 Isi and Ossi couldn&#39;t be any more different: She&#39;s a billionaire&#39;s daughter from Heidelberg, he&#39;s a struggling boxer from the nearby town of Mannheim. But when Isi meets Ossi, the two quickly realize that they can take advantage of one another: She dates the broke boxer to provoke her parents and get them to fund a long-desired chef training in New York. He tries to rip off the rich daughter to finance his first professional boxing match. Their plans soon develop into emotional chaos that challenges everything the two believe to know about money, career and love.
 
@@ -134,30 +178,8 @@ Isi and Ossi couldn&#39;t be any more different: She&#39;s a billionaire&#39;s d
 	
 	
 
-### Bloodshot
-*Released on 2020-02-20, vote average 8*
-
-After he and his wife are murdered, marine Ray Garrison is resurrected by a team of scientists. Enhanced with nanotechnology, he becomes a superhuman, biotech killing machine - Bloodshot. As Ray first trains with fellow super-soldiers, he cannot recall anything from his former life. But when his memories flood back and he remembers the man that killed both him and his wife, he breaks out of the facility to get revenge, only to discover that there&#39;s more to the conspiracy than he thought.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/F95Fk255I4M?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Emma.
-*Released on 2020-02-14, vote average 7.8*
+*Released on 2020-02-14, vote average 6.9*
 
 In 1800s England, a well-meaning but selfish young woman meddles in the love lives of her friends.
 
@@ -176,8 +198,6 @@ In 1800s England, a well-meaning but selfish young woman meddles in the love liv
 
 
 	
-	
-	
 
   
 
@@ -188,92 +208,6 @@ In 1800s England, a well-meaning but selfish young woman meddles in the love liv
 
 
 	
-	
-
-### Z-O-M-B-I-E-S 2
-*Released on 2020-02-14, vote average 8.1*
-
-Zed and Addison are back at Seabrook High, where, after a groundbreaking semester, they continue to steer both their school and community toward unity. But the arrival of a new group of outsiders – mysterious werewolves – threatens to shake up the newfound peace and causes a rift in Zed and Addison’s budding romance.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3K-7W9KSi5o?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Spy Intervention
-*Released on 2020-02-14, vote average 4.5*
-
-When the world&#39;s greatest spy meets the woman of his dreams, he abandons his adventurous existence and settles into the security of suburbia.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/4DBeCeZd59s?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Photograph
-*Released on 2020-02-14, vote average 8.4*
-
-When famed photographer Christina Eames dies unexpectedly, she leaves her estranged daughter, Mae, hurt, angry and full of questions. When Mae finds a photograph tucked away in a safe-deposit box, she soon finds herself delving into her mother&#39;s early life -- an investigation that leads to an unexpected romance with a rising journalist.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kmicB3J1emw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Buffaloed
-*Released on 2020-02-14, vote average 4.9*
-
-Set in the underworld of debt-collecting and follows the homegrown hustler Peg Dahl, who will do anything to escape Buffalo, NY.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LrQZpeMcM5g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -301,29 +235,25 @@ Set in the underworld of debt-collecting and follows the homegrown hustler Peg D
 
 
 	
-	
+
+  
+
+
 	
 
   
 
 
 	
-	
 
-### Come to Daddy
-*Released on 2020-02-07, vote average 5.7*
+  
 
-After receiving a cryptic letter from his estranged father, Norval travels to his dad’s oceanfront home for what he hopes will be a positive experience. If only he’d known the dark truth about his old man beforehand.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/_PITkX6Ymqo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
 	
 
   
@@ -334,38 +264,40 @@ After receiving a cryptic letter from his estranged father, Norval travels to hi
 
 
 	
+
 	
 
-### Bloodshot
-*Released on 2020-02-20, vote average 8*
+	
 
-After he and his wife are murdered, marine Ray Garrison is resurrected by a team of scientists. Enhanced with nanotechnology, he becomes a superhuman, biotech killing machine - Bloodshot. As Ray first trains with fellow super-soldiers, he cannot recall anything from his former life. But when his memories flood back and he remembers the man that killed both him and his wife, he breaks out of the facility to get revenge, only to discover that there&#39;s more to the conspiracy than he thought.
+	
+
+	
+
+	
+
+	
+
+	
+	
+	
+
+	
+	
+
+### My Boyfriend&#39;s Meds
+*Released on 2020-02-21, vote average 7*
+
+A Woman&#39;s island getaway with her boyfriend is thrown for a loop when he forgets to take his prescription medications along.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/F95Fk255I4M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/CD2MUEqyzyE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
