@@ -47,7 +47,7 @@ Based on the global blockbuster videogame franchise from Sega, Sonic the Hedgeho
 	
 
 ### The Call of the Wild
-*Released on 2020-02-19, vote average 5.9*
+*Released on 2020-02-19, vote average 5.8*
 
 A sled dog struggles for survival in the wilds of the Yukon.
 
@@ -90,16 +90,38 @@ Lara Jean and Peter have just taken their romance from pretend to officially rea
 	
 	
 
-### Fantasy Island
-*Released on 2020-02-12, vote average 4.6*
+### Brahms: The Boy II
+*Released on 2020-02-20, vote average 6.1*
 
-A group of contest winners arrive at an island hotel to live out their dreams, only to find themselves trapped in nightmare scenarios.
+After a family moves into the Heelshire Mansion, their young son soon makes friends with a life-like doll called Brahms.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/a6O30nJ02PU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/LjiisjCJ9VE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Night Clerk
+*Released on 2020-02-21, vote average 8.5*
+
+Hotel night clerk Bart Bromley, a highly intelligent young man on the Autism spectrum. When a woman is murdered during his shift, Bart becomes the prime suspect. As the police investigation closes in, Bart makes a personal connection with a beautiful guest named Andrea, but soon realises he must stop the real murderer before she becomes the next victim.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/flDC7Ar2Deg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -113,7 +135,7 @@ A group of contest winners arrive at an island hotel to live out their dreams, o
 	
 
 ### Bloodshot
-*Released on 2020-02-20, vote average 4.5*
+*Released on 2020-02-20, vote average 7.3*
 
 After he and his wife are murdered, marine Ray Garrison is resurrected by a team of scientists. Enhanced with nanotechnology, he becomes a superhuman, biotech killing machine - Bloodshot. As Ray first trains with fellow super-soldiers, he cannot recall anything from his former life. But when his memories flood back and he remembers the man that killed both him and his wife, he breaks out of the facility to get revenge, only to discover that there&#39;s more to the conspiracy than he thought.
 
@@ -134,16 +156,16 @@ After he and his wife are murdered, marine Ray Garrison is resurrected by a team
 	
 	
 
-### Brahms: The Boy II
-*Released on 2020-02-20, vote average 6.3*
+### Fantasy Island
+*Released on 2020-02-12, vote average 4.7*
 
-After a family moves into the Heelshire Mansion, their young son soon makes friends with a life-like doll called Brahms.
+A group of contest winners arrive at an island hotel to live out their dreams, only to find themselves trapped in nightmare scenarios.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/LjiisjCJ9VE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/a6O30nJ02PU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -162,7 +184,7 @@ After a family moves into the Heelshire Mansion, their young son soon makes frie
 	
 
 ### Emma.
-*Released on 2020-02-14, vote average 7.2*
+*Released on 2020-02-14, vote average 7.5*
 
 In 1800s England, a well-meaning but selfish young woman meddles in the love lives of her friends.
 
@@ -186,15 +208,22 @@ In 1800s England, a well-meaning but selfish young woman meddles in the love liv
 
 
 	
-
-  
-
-
 	
 
-  
+### Impractical Jokers: The Movie
+*Released on 2020-02-21, vote average 7*
 
+The story of a humiliating high school mishap from 1992 that sends the Impractical Jokers on the road competing in hidden-camera challenges for the chance to turn back the clock and redeem three of the four Jokers.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IQQ8_VVR4TA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -276,6 +305,11 @@ A Woman&#39;s island getaway with her boyfriend is thrown for a loop when he for
   
 
 
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -285,9 +319,28 @@ A Woman&#39;s island getaway with her boyfriend is thrown for a loop when he for
 	
 
 	
+	
+	
 
 	
 
+	
+	
+
+### Pari
+*Released on 2020-02-25, vote average 8*
+
+Iranian mother Pari’s search for her missing son in Athens will force her on a journey to the dark corners of the city, as well as into the hidden depth of her own self.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6duRFYpq5wI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
