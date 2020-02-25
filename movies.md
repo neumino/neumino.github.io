@@ -47,7 +47,7 @@ Based on the global blockbuster videogame franchise from Sega, Sonic the Hedgeho
 	
 
 ### The Call of the Wild
-*Released on 2020-02-19, vote average 5.9*
+*Released on 2020-02-19, vote average 6.3*
 
 A sled dog struggles for survival in the wilds of the Yukon.
 
@@ -69,7 +69,7 @@ A sled dog struggles for survival in the wilds of the Yukon.
 	
 
 ### The Night Clerk
-*Released on 2020-02-21, vote average 8*
+*Released on 2020-02-21, vote average 8.3*
 
 Hotel night clerk Bart Bromley is a highly intelligent young man on the Autism spectrum. When a woman is murdered during his shift, Bart becomes the prime suspect. As the police investigation closes in, Bart makes a personal connection with a beautiful guest named Andrea, but soon realises he must stop the real murderer before she becomes the next victim.
 
@@ -78,50 +78,6 @@ Hotel night clerk Bart Bromley is a highly intelligent young man on the Autism s
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/flDC7Ar2Deg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### To All the Boys: P.S. I Still Love You
-*Released on 2020-02-12, vote average 7*
-
-Lara Jean and Peter have just taken their romance from pretend to officially real when another recipient of one of her love letters enters the picture.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rfJY5vyfyxs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Bloodshot
-*Released on 2020-02-20, vote average 5.8*
-
-After he and his wife are murdered, marine Ray Garrison is resurrected by a team of scientists. Enhanced with nanotechnology, he becomes a superhuman, biotech killing machine - Bloodshot. As Ray first trains with fellow super-soldiers, he cannot recall anything from his former life. But when his memories flood back and he remembers the man that killed both him and his wife, he breaks out of the facility to get revenge, only to discover that there&#39;s more to the conspiracy than he thought.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/F95Fk255I4M?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -156,109 +112,16 @@ A group of contest winners arrive at an island hotel to live out their dreams, o
 	
 	
 
-### Brahms: The Boy II
-*Released on 2020-02-20, vote average 7.4*
+### To All the Boys: P.S. I Still Love You
+*Released on 2020-02-12, vote average 6.9*
 
-After a family moves into the Heelshire Mansion, their young son soon makes friends with a life-like doll called Brahms.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LjiisjCJ9VE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Emma.
-*Released on 2020-02-14, vote average 7.6*
-
-In 1800s England, a well-meaning but selfish young woman meddles in the love lives of her friends.
+Lara Jean and Peter have just taken their romance from pretend to officially real when another recipient of one of her love letters enters the picture.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/qsOwj0PR5Sk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Impractical Jokers: The Movie
-*Released on 2020-02-21, vote average 8*
-
-The story of a humiliating high school mishap from 1992 that sends the Impractical Jokers on the road competing in hidden-camera challenges for the chance to turn back the clock and redeem three of the four Jokers.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IQQ8_VVR4TA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Isi &amp; Ossi
-*Released on 2020-02-14, vote average 7.1*
-
-Isi and Ossi couldn&#39;t be any more different: She&#39;s a billionaire&#39;s daughter from Heidelberg, he&#39;s a struggling boxer from the nearby town of Mannheim. But when Isi meets Ossi, the two quickly realize that they can take advantage of one another: She dates the broke boxer to provoke her parents and get them to fund a long-desired chef training in New York. He tries to rip off the rich daughter to finance his first professional boxing match. Their plans soon develop into emotional chaos that challenges everything the two believe to know about money, career and love.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/oHwqCm23s_8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/rfJY5vyfyxs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -271,16 +134,16 @@ Isi and Ossi couldn&#39;t be any more different: She&#39;s a billionaire&#39;s d
 	
 	
 
-### My Boyfriend&#39;s Meds
-*Released on 2020-02-21, vote average 7*
+### Bloodshot
+*Released on 2020-02-20, vote average 6*
 
-A Woman&#39;s island getaway with her boyfriend is thrown for a loop when he forgets to take his prescription medications along.
+After he and his wife are murdered, marine Ray Garrison is resurrected by a team of scientists. Enhanced with nanotechnology, he becomes a superhuman, biotech killing machine - Bloodshot. As Ray first trains with fellow super-soldiers, he cannot recall anything from his former life. But when his memories flood back and he remembers the man that killed both him and his wife, he breaks out of the facility to get revenge, only to discover that there&#39;s more to the conspiracy than he thought.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/CD2MUEqyzyE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/F95Fk255I4M?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -313,6 +176,74 @@ Tai is now a university student, living alone, working hard at school, and worki
 
 
 	
+	
+
+### Brahms: The Boy II
+*Released on 2020-02-20, vote average 6.7*
+
+After a family moves into the Heelshire Mansion, their young son soon makes friends with a life-like doll called Brahms.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LjiisjCJ9VE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Emma.
+*Released on 2020-02-14, vote average 7.6*
+
+In 1800s England, a well-meaning but selfish young woman meddles in the love lives of her friends.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qsOwj0PR5Sk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Isi &amp; Ossi
+*Released on 2020-02-14, vote average 7*
+
+Isi and Ossi couldn&#39;t be any more different: She&#39;s a billionaire&#39;s daughter from Heidelberg, he&#39;s a struggling boxer from the nearby town of Mannheim. But when Isi meets Ossi, the two quickly realize that they can take advantage of one another: She dates the broke boxer to provoke her parents and get them to fund a long-desired chef training in New York. He tries to rip off the rich daughter to finance his first professional boxing match. Their plans soon develop into emotional chaos that challenges everything the two believe to know about money, career and love.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/oHwqCm23s_8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -322,6 +253,77 @@ Tai is now a university student, living alone, working hard at school, and worki
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Photograph
+*Released on 2020-02-14, vote average 6.9*
+
+When famed photographer Christina Eames dies unexpectedly, she leaves her estranged daughter, Mae, hurt, angry and full of questions. When Mae finds a photograph tucked away in a safe-deposit box, she soon finds herself delving into her mother&#39;s early life -- an investigation that leads to an unexpected romance with a rising journalist.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kmicB3J1emw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Buffaloed
+*Released on 2020-02-14, vote average 5.4*
+
+Set in the underworld of debt-collecting and follows the homegrown hustler Peg Dahl, who will do anything to escape Buffalo, NY.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LrQZpeMcM5g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -332,7 +334,53 @@ Tai is now a university student, living alone, working hard at school, and worki
 
 
 	
+	
 
+### The Invisible Man
+*Released on 2020-02-26, vote average 8*
+
+When Cecilia&#39;s abusive ex takes his own life and leaves her his fortune, she suspects his death was a hoax. As a series of coincidences turn lethal, Cecilia works to prove that she is being hunted by someone nobody can see.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/dSBsNeYqh-k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Guns Akimbo
+*Released on 2020-02-27, vote average 7.5*
+
+An ordinary guy suddenly finds himself forced to fight a gladiator-like battle for a dark website that streams the violence for viewers. Miles must fight heavily armed Nix and also save his kidnapped ex-girlfriend.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZOFatKD0Vzo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -367,17 +415,7 @@ Iranian mother Pari’s search for her missing son in Athens will force her on a
 	
 
 	
-
 	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
