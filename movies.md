@@ -68,8 +68,30 @@ A sled dog struggles for survival in the wilds of the Yukon.
 	
 	
 
+### Fantasy Island
+*Released on 2020-02-12, vote average 4.7*
+
+A group of contest winners arrive at an island hotel to live out their dreams, only to find themselves trapped in nightmare scenarios.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/a6O30nJ02PU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Night Clerk
-*Released on 2020-02-21, vote average 8.3*
+*Released on 2020-02-21, vote average 7.4*
 
 Hotel night clerk Bart Bromley is a highly intelligent young man on the Autism spectrum. When a woman is murdered during his shift, Bart becomes the prime suspect. As the police investigation closes in, Bart makes a personal connection with a beautiful guest named Andrea, but soon realises he must stop the real murderer before she becomes the next victim.
 
@@ -90,16 +112,38 @@ Hotel night clerk Bart Bromley is a highly intelligent young man on the Autism s
 	
 	
 
-### Fantasy Island
-*Released on 2020-02-12, vote average 4.7*
+### Bloodshot
+*Released on 2020-02-20, vote average 6.5*
 
-A group of contest winners arrive at an island hotel to live out their dreams, only to find themselves trapped in nightmare scenarios.
+After he and his wife are murdered, marine Ray Garrison is resurrected by a team of scientists. Enhanced with nanotechnology, he becomes a superhuman, biotech killing machine - Bloodshot. As Ray first trains with fellow super-soldiers, he cannot recall anything from his former life. But when his memories flood back and he remembers the man that killed both him and his wife, he breaks out of the facility to get revenge, only to discover that there&#39;s more to the conspiracy than he thought.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/a6O30nJ02PU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/F95Fk255I4M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Invisible Man
+*Released on 2020-02-26, vote average 8*
+
+When Cecilia&#39;s abusive ex takes his own life and leaves her his fortune, she suspects his death was a hoax. As a series of coincidences turn lethal, Cecilia works to prove that she is being hunted by someone nobody can see.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/dSBsNeYqh-k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,20 +178,25 @@ Lara Jean and Peter have just taken their romance from pretend to officially rea
 	
 	
 
-### Bloodshot
-*Released on 2020-02-20, vote average 6*
+### Brahms: The Boy II
+*Released on 2020-02-20, vote average 6.8*
 
-After he and his wife are murdered, marine Ray Garrison is resurrected by a team of scientists. Enhanced with nanotechnology, he becomes a superhuman, biotech killing machine - Bloodshot. As Ray first trains with fellow super-soldiers, he cannot recall anything from his former life. But when his memories flood back and he remembers the man that killed both him and his wife, he breaks out of the facility to get revenge, only to discover that there&#39;s more to the conspiracy than he thought.
+After a family moves into the Heelshire Mansion, their young son soon makes friends with a life-like doll called Brahms.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/F95Fk255I4M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/LjiisjCJ9VE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -176,30 +225,6 @@ Tai is now a university student, living alone, working hard at school, and worki
 
 
 	
-	
-
-### Brahms: The Boy II
-*Released on 2020-02-20, vote average 6.7*
-
-After a family moves into the Heelshire Mansion, their young son soon makes friends with a life-like doll called Brahms.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LjiisjCJ9VE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
 
   
 
@@ -221,6 +246,28 @@ In 1800s England, a well-meaning but selfish young woman meddles in the love liv
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -259,67 +306,18 @@ Isi and Ossi couldn&#39;t be any more different: She&#39;s a billionaire&#39;s d
 
 
 	
-
-  
-
-
 	
 
-  
+### Pari
+*Released on 2020-02-25, vote average 8*
 
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Photograph
-*Released on 2020-02-14, vote average 6.9*
-
-When famed photographer Christina Eames dies unexpectedly, she leaves her estranged daughter, Mae, hurt, angry and full of questions. When Mae finds a photograph tucked away in a safe-deposit box, she soon finds herself delving into her mother&#39;s early life -- an investigation that leads to an unexpected romance with a rising journalist.
+Iranian mother Pari’s search for her missing son in Athens will force her on a journey to the dark corners of the city, as well as into the hidden depth of her own self.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/kmicB3J1emw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Buffaloed
-*Released on 2020-02-14, vote average 5.4*
-
-Set in the underworld of debt-collecting and follows the homegrown hustler Peg Dahl, who will do anything to escape Buffalo, NY.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LrQZpeMcM5g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/6duRFYpq5wI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -355,16 +353,6 @@ When Cecilia&#39;s abusive ex takes his own life and leaves her his fortune, she
 	
 
 	
-
-	
-
-	
-
-	
-
-	
-
-	
 	
 
 ### Guns Akimbo
@@ -384,22 +372,11 @@ An ordinary guy suddenly finds himself forced to fight a gladiator-like battle f
 	
 
 	
-	
-
-### Pari
-*Released on 2020-02-25, vote average 8*
-
-Iranian mother Pari’s search for her missing son in Athens will force her on a journey to the dark corners of the city, as well as into the hidden depth of her own self.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/6duRFYpq5wI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+	
+
 	
 
 	
@@ -415,7 +392,9 @@ Iranian mother Pari’s search for her missing son in Athens will force her on a
 	
 
 	
+
 	
+
 	
 
 	
