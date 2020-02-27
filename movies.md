@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Sonic the Hedgehog
-*Released on 2020-02-12, vote average 7.1*
+### The Call of the Wild
+*Released on 2020-02-19, vote average 6*
 
-Based on the global blockbuster videogame franchise from Sega, Sonic the Hedgehog tells the story of the world’s speediest hedgehog as he embraces his new home on Earth. In this live-action adventure comedy, Sonic and his new best friend team up to defend the planet from the evil genius Dr. Robotnik and his plans for world domination.
+A sled dog struggles for survival in the wilds of the Yukon.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/szby7ZHLnkA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/5P8R2zAhEwg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ Based on the global blockbuster videogame franchise from Sega, Sonic the Hedgeho
 	
 	
 
-### The Call of the Wild
-*Released on 2020-02-19, vote average 6.3*
+### The Invisible Man
+*Released on 2020-02-26, vote average 7.9*
 
-A sled dog struggles for survival in the wilds of the Yukon.
+When Cecilia&#39;s abusive ex takes his own life and leaves her his fortune, she suspects his death was a hoax. As a series of coincidences turn lethal, Cecilia works to prove that she is being hunted by someone nobody can see.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/5P8R2zAhEwg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/dSBsNeYqh-k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,20 +68,47 @@ A sled dog struggles for survival in the wilds of the Yukon.
 	
 	
 
-### Fantasy Island
-*Released on 2020-02-12, vote average 4.7*
+### Brahms: The Boy II
+*Released on 2020-02-20, vote average 6.6*
 
-A group of contest winners arrive at an island hotel to live out their dreams, only to find themselves trapped in nightmare scenarios.
+After a family moves into the Heelshire Mansion, their young son soon makes friends with a life-like doll called Brahms.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/a6O30nJ02PU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/LjiisjCJ9VE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Superman: Red Son
+*Released on 2020-02-25, vote average 9.4*
+
+Set in the thick of the Cold War, Red Son introduces us to a Superman who landed in the USSR during the 1950s and grows up to become a Soviet symbol that fights for the preservation of Stalin’s brand of communism.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/n0s0FJfyqGk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -91,7 +118,7 @@ A group of contest winners arrive at an island hotel to live out their dreams, o
 	
 
 ### The Night Clerk
-*Released on 2020-02-21, vote average 7.4*
+*Released on 2020-02-21, vote average 7*
 
 Hotel night clerk Bart Bromley is a highly intelligent young man on the Autism spectrum. When a woman is murdered during his shift, Bart becomes the prime suspect. As the police investigation closes in, Bart makes a personal connection with a beautiful guest named Andrea, but soon realises he must stop the real murderer before she becomes the next victim.
 
@@ -113,7 +140,7 @@ Hotel night clerk Bart Bromley is a highly intelligent young man on the Autism s
 	
 
 ### Bloodshot
-*Released on 2020-02-20, vote average 6.5*
+*Released on 2020-02-20, vote average 6.6*
 
 After he and his wife are murdered, marine Ray Garrison is resurrected by a team of scientists. Enhanced with nanotechnology, he becomes a superhuman, biotech killing machine - Bloodshot. As Ray first trains with fellow super-soldiers, he cannot recall anything from his former life. But when his memories flood back and he remembers the man that killed both him and his wife, he breaks out of the facility to get revenge, only to discover that there&#39;s more to the conspiracy than he thought.
 
@@ -126,77 +153,6 @@ After he and his wife are murdered, marine Ray Garrison is resurrected by a team
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### The Invisible Man
-*Released on 2020-02-26, vote average 8*
-
-When Cecilia&#39;s abusive ex takes his own life and leaves her his fortune, she suspects his death was a hoax. As a series of coincidences turn lethal, Cecilia works to prove that she is being hunted by someone nobody can see.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/dSBsNeYqh-k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### To All the Boys: P.S. I Still Love You
-*Released on 2020-02-12, vote average 6.9*
-
-Lara Jean and Peter have just taken their romance from pretend to officially real when another recipient of one of her love letters enters the picture.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rfJY5vyfyxs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Brahms: The Boy II
-*Released on 2020-02-20, vote average 6.8*
-
-After a family moves into the Heelshire Mansion, their young son soon makes friends with a life-like doll called Brahms.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LjiisjCJ9VE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -225,11 +181,6 @@ Tai is now a university student, living alone, working hard at school, and worki
 
 
 	
-
-  
-
-
-	
 	
 
 ### Emma.
@@ -252,40 +203,18 @@ In 1800s England, a well-meaning but selfish young woman meddles in the love liv
 
 
 	
-
-  
-
-
 	
 
-  
+### Guns Akimbo
+*Released on 2020-02-27, vote average 7.5*
 
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Isi &amp; Ossi
-*Released on 2020-02-14, vote average 7*
-
-Isi and Ossi couldn&#39;t be any more different: She&#39;s a billionaire&#39;s daughter from Heidelberg, he&#39;s a struggling boxer from the nearby town of Mannheim. But when Isi meets Ossi, the two quickly realize that they can take advantage of one another: She dates the broke boxer to provoke her parents and get them to fund a long-desired chef training in New York. He tries to rip off the rich daughter to finance his first professional boxing match. Their plans soon develop into emotional chaos that challenges everything the two believe to know about money, career and love.
+An ordinary guy suddenly finds himself forced to fight a gladiator-like battle for a dark website that streams the violence for viewers. Miles must fight heavily armed Nix and also save his kidnapped ex-girlfriend.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/oHwqCm23s_8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ZOFatKD0Vzo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -306,22 +235,44 @@ Isi and Ossi couldn&#39;t be any more different: She&#39;s a billionaire&#39;s d
 
 
 	
-	
 
-### Pari
-*Released on 2020-02-25, vote average 8*
+  
 
-Iranian mother Pari’s search for her missing son in Athens will force her on a journey to the dark corners of the city, as well as into the hidden depth of her own self.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/6duRFYpq5wI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -330,27 +281,6 @@ Iranian mother Pari’s search for her missing son in Athens will force her on a
 
 ## Opening soon
 
-
-	
-	
-
-### The Invisible Man
-*Released on 2020-02-26, vote average 8*
-
-When Cecilia&#39;s abusive ex takes his own life and leaves her his fortune, she suspects his death was a hoax. As a series of coincidences turn lethal, Cecilia works to prove that she is being hunted by someone nobody can see.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/dSBsNeYqh-k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
 
 	
 	
@@ -372,7 +302,22 @@ An ordinary guy suddenly finds himself forced to fight a gladiator-like battle f
 	
 
 	
+	
 
+### Onward
+*Released on 2020-02-29, vote average 7.4*
+
+In a suburban fantasy world, two teenage elf brothers embark on an extraordinary quest to discover if there is still a little magic left out there.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/x8DKg_fsacM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -381,6 +326,29 @@ An ordinary guy suddenly finds himself forced to fight a gladiator-like battle f
 
 	
 
+	
+
+	
+
+	
+
+	
+	
+
+### May the Devil Take You: Chapter 2
+*Released on 2020-02-27, vote average 9*
+
+Two years after escaping from demonic terror, Alfie and Nara try to continue their lives. However, Alfie&#39;s worst nightmare has just begun and the dangers that await are increasingly threatening.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Q6ZLZEGUacg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
