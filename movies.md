@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Call of the Wild
-*Released on 2020-02-19, vote average 6*
+*Released on 2020-02-19, vote average 5.7*
 
 A sled dog struggles for survival in the wilds of the Yukon.
 
@@ -47,7 +47,7 @@ A sled dog struggles for survival in the wilds of the Yukon.
 	
 
 ### The Invisible Man
-*Released on 2020-02-26, vote average 7.9*
+*Released on 2020-02-26, vote average 7.6*
 
 When Cecilia&#39;s abusive ex takes his own life and leaves her his fortune, she suspects his death was a hoax. As a series of coincidences turn lethal, Cecilia works to prove that she is being hunted by someone nobody can see.
 
@@ -68,8 +68,30 @@ When Cecilia&#39;s abusive ex takes his own life and leaves her his fortune, she
 	
 	
 
+### Superman: Red Son
+*Released on 2020-02-25, vote average 8.8*
+
+Set in the thick of the Cold War, Red Son introduces us to a Superman who landed in the USSR during the 1950s and grows up to become a Soviet symbol that fights for the preservation of Stalin’s brand of communism.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/n0s0FJfyqGk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Brahms: The Boy II
-*Released on 2020-02-20, vote average 6.6*
+*Released on 2020-02-20, vote average 5.9*
 
 After a family moves into the Heelshire Mansion, their young son soon makes friends with a life-like doll called Brahms.
 
@@ -90,16 +112,16 @@ After a family moves into the Heelshire Mansion, their young son soon makes frie
 	
 	
 
-### Superman: Red Son
-*Released on 2020-02-25, vote average 9.4*
+### Guns Akimbo
+*Released on 2020-02-27, vote average 7.5*
 
-Set in the thick of the Cold War, Red Son introduces us to a Superman who landed in the USSR during the 1950s and grows up to become a Soviet symbol that fights for the preservation of Stalin’s brand of communism.
+An ordinary guy suddenly finds himself forced to fight a gladiator-like battle for a dark website that streams the violence for viewers. Miles must fight heavily armed Nix and also save his kidnapped ex-girlfriend.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/n0s0FJfyqGk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ZOFatKD0Vzo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -110,6 +132,23 @@ Set in the thick of the Cold War, Red Son introduces us to a Superman who landed
 
 
 	
+	
+
+### Bloodshot
+*Released on 2020-02-20, vote average 6.8*
+
+After he and his wife are murdered, marine Ray Garrison is resurrected by a team of scientists. Enhanced with nanotechnology, he becomes a superhuman, biotech killing machine - Bloodshot. As Ray first trains with fellow super-soldiers, he cannot recall anything from his former life. But when his memories flood back and he remembers the man that killed both him and his wife, he breaks out of the facility to get revenge, only to discover that there&#39;s more to the conspiracy than he thought.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/F95Fk255I4M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -118,7 +157,7 @@ Set in the thick of the Cold War, Red Son introduces us to a Superman who landed
 	
 
 ### The Night Clerk
-*Released on 2020-02-21, vote average 7*
+*Released on 2020-02-21, vote average 6.9*
 
 Hotel night clerk Bart Bromley is a highly intelligent young man on the Autism spectrum. When a woman is murdered during his shift, Bart becomes the prime suspect. As the police investigation closes in, Bart makes a personal connection with a beautiful guest named Andrea, but soon realises he must stop the real murderer before she becomes the next victim.
 
@@ -137,22 +176,30 @@ Hotel night clerk Bart Bromley is a highly intelligent young man on the Autism s
 
 
 	
-	
 
-### Bloodshot
-*Released on 2020-02-20, vote average 6.6*
+  
 
-After he and his wife are murdered, marine Ray Garrison is resurrected by a team of scientists. Enhanced with nanotechnology, he becomes a superhuman, biotech killing machine - Bloodshot. As Ray first trains with fellow super-soldiers, he cannot recall anything from his former life. But when his memories flood back and he remembers the man that killed both him and his wife, he breaks out of the facility to get revenge, only to discover that there&#39;s more to the conspiracy than he thought.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/F95Fk255I4M?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -181,23 +228,6 @@ Tai is now a university student, living alone, working hard at school, and worki
 
 
 	
-	
-
-### Emma.
-*Released on 2020-02-14, vote average 7.6*
-
-In 1800s England, a well-meaning but selfish young woman meddles in the love lives of her friends.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qsOwj0PR5Sk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -205,16 +235,16 @@ In 1800s England, a well-meaning but selfish young woman meddles in the love liv
 	
 	
 
-### Guns Akimbo
-*Released on 2020-02-27, vote average 7.5*
+### May the Devil Take You: Chapter 2
+*Released on 2020-02-27, vote average 9*
 
-An ordinary guy suddenly finds himself forced to fight a gladiator-like battle for a dark website that streams the violence for viewers. Miles must fight heavily armed Nix and also save his kidnapped ex-girlfriend.
+Two years after escaping from demonic terror, Alfie and Nara try to continue their lives. However, Alfie&#39;s worst nightmare has just begun and the dangers that await are increasingly threatening.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ZOFatKD0Vzo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Q6ZLZEGUacg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -229,40 +259,6 @@ An ordinary guy suddenly finds himself forced to fight a gladiator-like battle f
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -285,29 +281,10 @@ An ordinary guy suddenly finds himself forced to fight a gladiator-like battle f
 	
 	
 
-### Guns Akimbo
-*Released on 2020-02-27, vote average 7.5*
-
-An ordinary guy suddenly finds himself forced to fight a gladiator-like battle for a dark website that streams the violence for viewers. Miles must fight heavily armed Nix and also save his kidnapped ex-girlfriend.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZOFatKD0Vzo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
 ### Onward
-*Released on 2020-02-29, vote average 7.4*
+*Released on 2020-02-29, vote average 7.8*
 
-In a suburban fantasy world, two teenage elf brothers embark on an extraordinary quest to discover if there is still a little magic left out there.
+In a suburban fantasy world, two teenage elf brothers run from home in their family’s van upon hearing of the events of 9/11.
 
 <iframe id="player"
 	type="text/html"
@@ -333,18 +310,28 @@ In a suburban fantasy world, two teenage elf brothers embark on an extraordinary
 	
 
 	
+
 	
 
-### May the Devil Take You: Chapter 2
-*Released on 2020-02-27, vote average 9*
+	
+	
+	
 
-Two years after escaping from demonic terror, Alfie and Nara try to continue their lives. However, Alfie&#39;s worst nightmare has just begun and the dangers that await are increasingly threatening.
+	
+
+	
+	
+
+### Thappad
+*Released on 2020-02-28, vote average 10*
+
+Taapsee Pannu stars as a woman who files for divorce when her husband slaps her.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Q6ZLZEGUacg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/jBw_Eta0HDM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -356,11 +343,22 @@ Two years after escaping from demonic terror, Alfie and Nara try to continue the
 	
 
 	
-
 	
 
-	
+### Beneath Us
+*Released on 2020-03-06, vote average 9*
 
+The American Dream becomes a nightmare for a group of undocumented day laborers hired by a wealthy couple. What they expect to be their biggest payday turns into a terrifying fight for survival.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/465Go4NzIf4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
