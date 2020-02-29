@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Call of the Wild
-*Released on 2020-02-19, vote average 5.7*
+*Released on 2020-02-19, vote average 6*
 
 A sled dog struggles for survival in the wilds of the Yukon.
 
@@ -46,30 +46,8 @@ A sled dog struggles for survival in the wilds of the Yukon.
 	
 	
 
-### The Invisible Man
-*Released on 2020-02-26, vote average 7.6*
-
-When Cecilia&#39;s abusive ex takes his own life and leaves her his fortune, she suspects his death was a hoax. As a series of coincidences turn lethal, Cecilia works to prove that she is being hunted by someone nobody can see.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/dSBsNeYqh-k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Superman: Red Son
-*Released on 2020-02-25, vote average 8.8*
+*Released on 2020-02-25, vote average 8.4*
 
 Set in the thick of the Cold War, Red Son introduces us to a Superman who landed in the USSR during the 1950s and grows up to become a Soviet symbol that fights for the preservation of Stalin’s brand of communism.
 
@@ -90,16 +68,16 @@ Set in the thick of the Cold War, Red Son introduces us to a Superman who landed
 	
 	
 
-### Brahms: The Boy II
-*Released on 2020-02-20, vote average 5.9*
+### The Invisible Man
+*Released on 2020-02-26, vote average 7.8*
 
-After a family moves into the Heelshire Mansion, their young son soon makes friends with a life-like doll called Brahms.
+When Cecilia&#39;s abusive ex takes his own life and leaves her his fortune, she suspects his death was a hoax. As a series of coincidences turn lethal, Cecilia works to prove that she is being hunted by someone nobody can see.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/LjiisjCJ9VE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/dSBsNeYqh-k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,8 +90,86 @@ After a family moves into the Heelshire Mansion, their young son soon makes frie
 	
 	
 
+### Bloodshot
+*Released on 2020-02-20, vote average 6.2*
+
+After he and his wife are murdered, marine Ray Garrison is resurrected by a team of scientists. Enhanced with nanotechnology, he becomes a superhuman, biotech killing machine - Bloodshot. As Ray first trains with fellow super-soldiers, he cannot recall anything from his former life. But when his memories flood back and he remembers the man that killed both him and his wife, he breaks out of the facility to get revenge, only to discover that there&#39;s more to the conspiracy than he thought.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/F95Fk255I4M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Brahms: The Boy II
+*Released on 2020-02-20, vote average 6*
+
+After a family moves into the Heelshire Mansion, their young son soon makes friends with a life-like doll called Brahms.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ECPfXUW0zt8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Onward
+*Released on 2020-02-29, vote average 8*
+
+In a suburban fantasy world, two teenage elf brothers embark on an extraordinary quest to discover if there is still a little magic left out there.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/x8DKg_fsacM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### Guns Akimbo
-*Released on 2020-02-27, vote average 7.5*
+*Released on 2020-02-27, vote average 8.3*
 
 An ordinary guy suddenly finds himself forced to fight a gladiator-like battle for a dark website that streams the violence for viewers. Miles must fight heavily armed Nix and also save his kidnapped ex-girlfriend.
 
@@ -132,22 +188,20 @@ An ordinary guy suddenly finds himself forced to fight a gladiator-like battle f
 
 
 	
-	
 
-### Bloodshot
-*Released on 2020-02-20, vote average 6.8*
+  
 
-After he and his wife are murdered, marine Ray Garrison is resurrected by a team of scientists. Enhanced with nanotechnology, he becomes a superhuman, biotech killing machine - Bloodshot. As Ray first trains with fellow super-soldiers, he cannot recall anything from his former life. But when his memories flood back and he remembers the man that killed both him and his wife, he breaks out of the facility to get revenge, only to discover that there&#39;s more to the conspiracy than he thought.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/F95Fk255I4M?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -191,21 +245,6 @@ Hotel night clerk Bart Bromley is a highly intelligent young man on the Autism s
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### Digimon Adventure: Last Evolution Kizuna
@@ -228,42 +267,7 @@ Tai is now a university student, living alone, working hard at school, and worki
 
 
 	
-
-  
-
-
 	
-	
-
-### May the Devil Take You: Chapter 2
-*Released on 2020-02-27, vote average 9*
-
-Two years after escaping from demonic terror, Alfie and Nara try to continue their lives. However, Alfie&#39;s worst nightmare has just begun and the dangers that await are increasingly threatening.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Q6ZLZEGUacg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -282,9 +286,9 @@ Two years after escaping from demonic terror, Alfie and Nara try to continue the
 	
 
 ### Onward
-*Released on 2020-02-29, vote average 7.8*
+*Released on 2020-02-29, vote average 8*
 
-In a suburban fantasy world, two teenage elf brothers run from home in their family’s van upon hearing of the events of 9/11.
+In a suburban fantasy world, two teenage elf brothers embark on an extraordinary quest to discover if there is still a little magic left out there.
 
 <iframe id="player"
 	type="text/html"
@@ -299,43 +303,6 @@ In a suburban fantasy world, two teenage elf brothers run from home in their fam
 
 	
 
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	
-	
-
-	
-
-	
-	
-
-### Thappad
-*Released on 2020-02-28, vote average 10*
-
-Taapsee Pannu stars as a woman who files for divorce when her husband slaps her.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jBw_Eta0HDM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
@@ -359,6 +326,41 @@ The American Dream becomes a nightmare for a group of undocumented day laborers 
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+	
+
+### Fronteras
+*Released on 2020-03-05, vote average 9*
+
+A Hispanic Border Patrol Agent has his morals challenged when a life-threatening narcotic sweeps through the South West. Reyes finds himself in the Gray area between right and wrong in this Action packed Drama that tackles the immigration obstacles he faces everyday. When a new task force arrives to help contain the problem, Reyes will question everything he has been taught to stand for.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/030CW5Rt8UM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
