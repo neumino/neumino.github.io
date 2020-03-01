@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### The Call of the Wild
-*Released on 2020-02-19, vote average 6*
+### The Invisible Man
+*Released on 2020-02-26, vote average 7.7*
 
-A sled dog struggles for survival in the wilds of the Yukon.
+When Cecilia&#39;s abusive ex takes his own life and leaves her his fortune, she suspects his death was a hoax. As a series of coincidences turn lethal, Cecilia works to prove that she is being hunted by someone nobody can see.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/5P8R2zAhEwg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/dSBsNeYqh-k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,8 +46,30 @@ A sled dog struggles for survival in the wilds of the Yukon.
 	
 	
 
+### The Call of the Wild
+*Released on 2020-02-19, vote average 6.1*
+
+A sled dog struggles for survival in the wilds of the Yukon.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5P8R2zAhEwg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Superman: Red Son
-*Released on 2020-02-25, vote average 8.4*
+*Released on 2020-02-25, vote average 8.1*
 
 Set in the thick of the Cold War, Red Son introduces us to a Superman who landed in the USSR during the 1950s and grows up to become a Soviet symbol that fights for the preservation of Stalin’s brand of communism.
 
@@ -68,16 +90,43 @@ Set in the thick of the Cold War, Red Son introduces us to a Superman who landed
 	
 	
 
-### The Invisible Man
-*Released on 2020-02-26, vote average 7.8*
+### Onward
+*Released on 2020-02-29, vote average 8.4*
 
-When Cecilia&#39;s abusive ex takes his own life and leaves her his fortune, she suspects his death was a hoax. As a series of coincidences turn lethal, Cecilia works to prove that she is being hunted by someone nobody can see.
+In a suburban fantasy world, two teenage elf brothers embark on an extraordinary quest to discover if there is still a little magic left out there.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/dSBsNeYqh-k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/x8DKg_fsacM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Guns Akimbo
+*Released on 2020-02-27, vote average 6.8*
+
+An ordinary guy suddenly finds himself forced to fight a gladiator-like battle for a dark website that streams the violence for viewers. Miles must fight heavily armed Nix and also save his kidnapped ex-girlfriend.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZOFatKD0Vzo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -113,7 +162,7 @@ After he and his wife are murdered, marine Ray Garrison is resurrected by a team
 	
 
 ### Brahms: The Boy II
-*Released on 2020-02-20, vote average 6*
+*Released on 2020-02-20, vote average 5.7*
 
 After a family moves into the Heelshire Mansion, their young son soon makes friends with a life-like doll called Brahms.
 
@@ -134,50 +183,16 @@ After a family moves into the Heelshire Mansion, their young son soon makes frie
 	
 	
 
-### Onward
-*Released on 2020-02-29, vote average 8*
+### All the Bright Places
+*Released on 2020-02-28, vote average 7.9*
 
-In a suburban fantasy world, two teenage elf brothers embark on an extraordinary quest to discover if there is still a little magic left out there.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/x8DKg_fsacM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Guns Akimbo
-*Released on 2020-02-27, vote average 8.3*
-
-An ordinary guy suddenly finds himself forced to fight a gladiator-like battle for a dark website that streams the violence for viewers. Miles must fight heavily armed Nix and also save his kidnapped ex-girlfriend.
+Two teens facing personal struggles form a powerful bond as they embark on a cathartic journey chronicling the wonders of Indiana.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ZOFatKD0Vzo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/zfQXKVCudec?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -192,6 +207,30 @@ An ordinary guy suddenly finds himself forced to fight a gladiator-like battle f
   
 
 
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Villain
+*Released on 2020-02-28, vote average 7*
+
+After 10 years, Eddie Franks (Craig Fairbrass) is out of prison and trying to stay on the straight and narrow, but his drug-mule brother Sean (George Russo) has other ideas. Rival gangster brothers Roy and Johnny Garret (Robert Glenister and Tomi May) are demanding Sean repay his debt to them, causing Eddie to get tangled in the crossfire, ending up using his life savings and calling in favours with mobster friends to try and help. Following a dramatic coup at the family pub, events spiral out of control in the ultimate fight for survival.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5e_mMjgswY8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -246,6 +285,13 @@ Hotel night clerk Bart Bromley is a highly intelligent young man on the Autism s
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Digimon Adventure: Last Evolution Kizuna
 *Released on 2020-02-21, vote average 10*
@@ -266,46 +312,9 @@ Tai is now a university student, living alone, working hard at school, and worki
   
 
 
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
-
-	
-	
-
-### Onward
-*Released on 2020-02-29, vote average 8*
-
-In a suburban fantasy world, two teenage elf brothers embark on an extraordinary quest to discover if there is still a little magic left out there.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/x8DKg_fsacM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
 
 	
 
@@ -331,8 +340,6 @@ The American Dream becomes a nightmare for a group of undocumented day laborers 
 	
 
 	
-
-	
 	
 
 ### Fronteras
@@ -349,6 +356,16 @@ A Hispanic Border Patrol Agent has his morals challenged when a life-threatening
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
