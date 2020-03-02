@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Invisible Man
-*Released on 2020-02-26, vote average 7.7*
+*Released on 2020-02-26, vote average 7.6*
 
 When Cecilia&#39;s abusive ex takes his own life and leaves her his fortune, she suspects his death was a hoax. As a series of coincidences turn lethal, Cecilia works to prove that she is being hunted by someone nobody can see.
 
@@ -47,7 +47,7 @@ When Cecilia&#39;s abusive ex takes his own life and leaves her his fortune, she
 	
 
 ### The Call of the Wild
-*Released on 2020-02-19, vote average 6.1*
+*Released on 2020-02-19, vote average 5.9*
 
 A sled dog struggles for survival in the wilds of the Yukon.
 
@@ -69,7 +69,7 @@ A sled dog struggles for survival in the wilds of the Yukon.
 	
 
 ### Superman: Red Son
-*Released on 2020-02-25, vote average 8.1*
+*Released on 2020-02-25, vote average 7.7*
 
 Set in the thick of the Cold War, Red Son introduces us to a Superman who landed in the USSR during the 1950s and grows up to become a Soviet symbol that fights for the preservation of Stalin’s brand of communism.
 
@@ -88,28 +88,6 @@ Set in the thick of the Cold War, Red Son introduces us to a Superman who landed
 
 
 	
-	
-
-### Onward
-*Released on 2020-02-29, vote average 8.4*
-
-In a suburban fantasy world, two teenage elf brothers embark on an extraordinary quest to discover if there is still a little magic left out there.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/x8DKg_fsacM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 
   
 
@@ -118,7 +96,7 @@ In a suburban fantasy world, two teenage elf brothers embark on an extraordinary
 	
 
 ### Guns Akimbo
-*Released on 2020-02-27, vote average 6.8*
+*Released on 2020-02-27, vote average 6.2*
 
 An ordinary guy suddenly finds himself forced to fight a gladiator-like battle for a dark website that streams the violence for viewers. Miles must fight heavily armed Nix and also save his kidnapped ex-girlfriend.
 
@@ -127,50 +105,6 @@ An ordinary guy suddenly finds himself forced to fight a gladiator-like battle f
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/ZOFatKD0Vzo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Bloodshot
-*Released on 2020-02-20, vote average 6.2*
-
-After he and his wife are murdered, marine Ray Garrison is resurrected by a team of scientists. Enhanced with nanotechnology, he becomes a superhuman, biotech killing machine - Bloodshot. As Ray first trains with fellow super-soldiers, he cannot recall anything from his former life. But when his memories flood back and he remembers the man that killed both him and his wife, he breaks out of the facility to get revenge, only to discover that there&#39;s more to the conspiracy than he thought.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/F95Fk255I4M?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Brahms: The Boy II
-*Released on 2020-02-20, vote average 5.7*
-
-After a family moves into the Heelshire Mansion, their young son soon makes friends with a life-like doll called Brahms.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ECPfXUW0zt8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -203,6 +137,50 @@ Two teens facing personal struggles form a powerful bond as they embark on a cat
 
 
 	
+	
+
+### Onward
+*Released on 2020-02-29, vote average 7.9*
+
+In a suburban fantasy world, two teenage elf brothers embark on an extraordinary quest to discover if there is still a little magic left out there.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/x8DKg_fsacM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Bloodshot
+*Released on 2020-02-20, vote average 6*
+
+After he and his wife are murdered, marine Ray Garrison is resurrected by a team of scientists. Enhanced with nanotechnology, he becomes a superhuman, biotech killing machine - Bloodshot. As Ray first trains with fellow super-soldiers, he cannot recall anything from his former life. But when his memories flood back and he remembers the man that killed both him and his wife, he breaks out of the facility to get revenge, only to discover that there&#39;s more to the conspiracy than he thought.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/F95Fk255I4M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 
   
 
@@ -220,13 +198,35 @@ Two teens facing personal struggles form a powerful bond as they embark on a cat
 ### Villain
 *Released on 2020-02-28, vote average 7*
 
-After 10 years, Eddie Franks (Craig Fairbrass) is out of prison and trying to stay on the straight and narrow, but his drug-mule brother Sean (George Russo) has other ideas. Rival gangster brothers Roy and Johnny Garret (Robert Glenister and Tomi May) are demanding Sean repay his debt to them, causing Eddie to get tangled in the crossfire, ending up using his life savings and calling in favours with mobster friends to try and help. Following a dramatic coup at the family pub, events spiral out of control in the ultimate fight for survival.
+After 10 years, Eddie Franks is out of prison and trying to stay on the straight and narrow, but his drug-mule brother, Sean has other ideas. Rival gangster brothers demand Sean repay his debt to them, causing Eddie to get tangled in the crossfire, and he ends up using his life savings to calling in favours with mobster friends to try and help.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/5e_mMjgswY8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Brahms: The Boy II
+*Released on 2020-02-20, vote average 5.6*
+
+After a family moves into the Heelshire Mansion, their young son soon makes friends with a life-like doll called Brahms.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ECPfXUW0zt8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -250,7 +250,7 @@ After 10 years, Eddie Franks (Craig Fairbrass) is out of prison and trying to st
 	
 
 ### The Night Clerk
-*Released on 2020-02-21, vote average 6.9*
+*Released on 2020-02-21, vote average 6.7*
 
 Hotel night clerk Bart Bromley is a highly intelligent young man on the Autism spectrum. When a woman is murdered during his shift, Bart becomes the prime suspect. As the police investigation closes in, Bart makes a personal connection with a beautiful guest named Andrea, but soon realises he must stop the real murderer before she becomes the next victim.
 
@@ -269,10 +269,22 @@ Hotel night clerk Bart Bromley is a highly intelligent young man on the Autism s
 
 
 	
+	
 
-  
+### Miss Fisher &amp; the Crypt of Tears
+*Released on 2020-02-27, vote average 6*
 
+The theatrical movie spin-off of the ABC’s Miss Fisher’s Murder Mysteries will follow Essie Davis’ private detective as she embarks on a global adventure to find missing treasure, solve murders and break aviation records... After freeing a young Bedouin girl from her unjust imprisonment in Jerusalem, Phryne Fisher begins to unravel a decade-old mystery concerning priceless emeralds, ancient curses and the truth behind the suspicious disappearance of Shirin&#39;s forgotten tribe.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/OlqbY_eepsY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -312,6 +324,13 @@ Tai is now a university student, living alone, working hard at school, and worki
   
 
 
+	
+	
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -338,8 +357,6 @@ The American Dream becomes a nightmare for a group of undocumented day laborers 
 	
 
 	
-
-	
 	
 
 ### Fronteras
@@ -356,6 +373,8 @@ A Hispanic Border Patrol Agent has his morals challenged when a life-threatening
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
