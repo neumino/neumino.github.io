@@ -46,6 +46,28 @@ When Cecilia&#39;s abusive ex takes his own life and leaves her his fortune, she
 	
 	
 
+### Guns Akimbo
+*Released on 2020-02-27, vote average 6.3*
+
+An ordinary guy suddenly finds himself forced to fight a gladiator-like battle for a dark website that streams the violence for viewers. Miles must fight heavily armed Nix and also save his kidnapped ex-girlfriend.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZOFatKD0Vzo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Call of the Wild
 *Released on 2020-02-19, vote average 5.9*
 
@@ -68,57 +90,8 @@ A sled dog struggles for survival in the wilds of the Yukon.
 	
 	
 
-### Superman: Red Son
-*Released on 2020-02-25, vote average 7.7*
-
-Set in the thick of the Cold War, Red Son introduces us to a Superman who landed in the USSR during the 1950s and grows up to become a Soviet symbol that fights for the preservation of Stalin’s brand of communism.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/n0s0FJfyqGk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Guns Akimbo
-*Released on 2020-02-27, vote average 6.2*
-
-An ordinary guy suddenly finds himself forced to fight a gladiator-like battle for a dark website that streams the violence for viewers. Miles must fight heavily armed Nix and also save his kidnapped ex-girlfriend.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZOFatKD0Vzo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### All the Bright Places
-*Released on 2020-02-28, vote average 7.9*
+*Released on 2020-02-28, vote average 7.7*
 
 Two teens facing personal struggles form a powerful bond as they embark on a cathartic journey chronicling the wonders of Indiana.
 
@@ -139,8 +112,37 @@ Two teens facing personal struggles form a powerful bond as they embark on a cat
 	
 	
 
+### Superman: Red Son
+*Released on 2020-02-25, vote average 7.5*
+
+Set in the thick of the Cold War, Red Son introduces us to a Superman who landed in the USSR during the 1950s and grows up to become a Soviet symbol that fights for the preservation of Stalin’s brand of communism.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/n0s0FJfyqGk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
 ### Onward
-*Released on 2020-02-29, vote average 7.9*
+*Released on 2020-02-29, vote average 7.8*
 
 In a suburban fantasy world, two teenage elf brothers embark on an extraordinary quest to discover if there is still a little magic left out there.
 
@@ -162,7 +164,7 @@ In a suburban fantasy world, two teenage elf brothers embark on an extraordinary
 	
 
 ### Bloodshot
-*Released on 2020-02-20, vote average 6*
+*Released on 2020-02-20, vote average 5.8*
 
 After he and his wife are murdered, marine Ray Garrison is resurrected by a team of scientists. Enhanced with nanotechnology, he becomes a superhuman, biotech killing machine - Bloodshot. As Ray first trains with fellow super-soldiers, he cannot recall anything from his former life. But when his memories flood back and he remembers the man that killed both him and his wife, he breaks out of the facility to get revenge, only to discover that there&#39;s more to the conspiracy than he thought.
 
@@ -218,7 +220,7 @@ After 10 years, Eddie Franks is out of prison and trying to stay on the straight
 	
 
 ### Brahms: The Boy II
-*Released on 2020-02-20, vote average 5.6*
+*Released on 2020-02-20, vote average 5.7*
 
 After a family moves into the Heelshire Mansion, their young son soon makes friends with a life-like doll called Brahms.
 
@@ -237,32 +239,27 @@ After a family moves into the Heelshire Mansion, their young son soon makes frie
 
 
 	
-
-  
-
-
 	
 
-  
+### Mortal
+*Released on 2020-02-28, vote average 10*
 
-
-	
-	
-
-### The Night Clerk
-*Released on 2020-02-21, vote average 6.7*
-
-Hotel night clerk Bart Bromley is a highly intelligent young man on the Autism spectrum. When a woman is murdered during his shift, Bart becomes the prime suspect. As the police investigation closes in, Bart makes a personal connection with a beautiful guest named Andrea, but soon realises he must stop the real murderer before she becomes the next victim.
+Fantasy adventure origin story about a young man discovering he has God-like powers based on ancient Norwegian mythology.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/flDC7Ar2Deg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/k2fpW_Cjjfc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -331,11 +328,14 @@ Tai is now a university student, living alone, working hard at school, and worki
   
 
 
+	
+
+  
+
+
 
 ## Opening soon
 
-
-	
 
 	
 	
@@ -373,6 +373,8 @@ A Hispanic Border Patrol Agent has his morals challenged when a life-threatening
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
