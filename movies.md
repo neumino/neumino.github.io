@@ -46,6 +46,28 @@ When Cecilia&#39;s abusive ex takes his own life and leaves her his fortune, she
 	
 	
 
+### All the Bright Places
+*Released on 2020-02-28, vote average 7.6*
+
+Two teens facing personal struggles form a powerful bond as they embark on a cathartic journey chronicling the wonders of Indiana.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zfQXKVCudec?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Guns Akimbo
 *Released on 2020-02-27, vote average 6.3*
 
@@ -68,52 +90,8 @@ An ordinary guy suddenly finds himself forced to fight a gladiator-like battle f
 	
 	
 
-### The Call of the Wild
-*Released on 2020-02-19, vote average 5.9*
-
-A sled dog struggles for survival in the wilds of the Yukon.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/5P8R2zAhEwg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### All the Bright Places
-*Released on 2020-02-28, vote average 7.7*
-
-Two teens facing personal struggles form a powerful bond as they embark on a cathartic journey chronicling the wonders of Indiana.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zfQXKVCudec?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Superman: Red Son
-*Released on 2020-02-25, vote average 7.5*
+*Released on 2020-02-25, vote average 7.3*
 
 Set in the thick of the Cold War, Red Son introduces us to a Superman who landed in the USSR during the 1950s and grows up to become a Soviet symbol that fights for the preservation of Stalin’s brand of communism.
 
@@ -122,6 +100,28 @@ Set in the thick of the Cold War, Red Son introduces us to a Superman who landed
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/n0s0FJfyqGk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Call of the Wild
+*Released on 2020-02-19, vote average 6*
+
+Buck is a big-hearted dog whose blissful domestic life is turned upside down when he is suddenly uprooted from his California home and transplanted to the exotic wilds of the Yukon during the Gold Rush of the 1890s. As the newest rookie on a mail delivery dog sled team--and later its leader--Buck experiences the adventure of a lifetime, ultimately finding his true place in the world and becoming his own master.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5P8R2zAhEwg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -164,7 +164,7 @@ In a suburban fantasy world, two teenage elf brothers embark on an extraordinary
 	
 
 ### Bloodshot
-*Released on 2020-02-20, vote average 5.8*
+*Released on 2020-02-20, vote average 5.9*
 
 After he and his wife are murdered, marine Ray Garrison is resurrected by a team of scientists. Enhanced with nanotechnology, he becomes a superhuman, biotech killing machine - Bloodshot. As Ray first trains with fellow super-soldiers, he cannot recall anything from his former life. But when his memories flood back and he remembers the man that killed both him and his wife, he breaks out of the facility to get revenge, only to discover that there&#39;s more to the conspiracy than he thought.
 
@@ -183,30 +183,18 @@ After he and his wife are murdered, marine Ray Garrison is resurrected by a team
 
 
 	
-
-  
-
-
-	
-	
 	
 
-  
+### Holly Slept Over
+*Released on 2020-03-02, vote average 9*
 
-
-	
-	
-
-### Villain
-*Released on 2020-02-28, vote average 7*
-
-After 10 years, Eddie Franks is out of prison and trying to stay on the straight and narrow, but his drug-mule brother, Sean has other ideas. Rival gangster brothers demand Sean repay his debt to them, causing Eddie to get tangled in the crossfire, and he ends up using his life savings to calling in favours with mobster friends to try and help.
+This unconventional comedy follows the relationship struggles of a married couple trying to conceive, their friends who have lost their spark, and the tension that ensues when an old college roommate stays over for the weekend.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/5e_mMjgswY8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/nwbpMcRSIN4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -220,7 +208,7 @@ After 10 years, Eddie Franks is out of prison and trying to stay on the straight
 	
 
 ### Brahms: The Boy II
-*Released on 2020-02-20, vote average 5.7*
+*Released on 2020-02-20, vote average 5.5*
 
 After a family moves into the Heelshire Mansion, their young son soon makes friends with a life-like doll called Brahms.
 
@@ -239,18 +227,45 @@ After a family moves into the Heelshire Mansion, their young son soon makes frie
 
 
 	
+
+  
+
+
 	
 
-### Mortal
-*Released on 2020-02-28, vote average 10*
+  
 
-Fantasy adventure origin story about a young man discovering he has God-like powers based on ancient Norwegian mythology.
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Night Clerk
+*Released on 2020-02-21, vote average 6.6*
+
+Hotel night clerk Bart Bromley is a highly intelligent young man on the Autism spectrum. When a woman is murdered during his shift, Bart becomes the prime suspect. As the police investigation closes in, Bart makes a personal connection with a beautiful guest named Andrea, but soon realises he must stop the real murderer before she becomes the next victim.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/k2fpW_Cjjfc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/flDC7Ar2Deg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -265,35 +280,6 @@ Fantasy adventure origin story about a young man discovering he has God-like pow
   
 
 
-	
-	
-
-### Miss Fisher &amp; the Crypt of Tears
-*Released on 2020-02-27, vote average 6*
-
-The theatrical movie spin-off of the ABC’s Miss Fisher’s Murder Mysteries will follow Essie Davis’ private detective as she embarks on a global adventure to find missing treasure, solve murders and break aviation records... After freeing a young Bedouin girl from her unjust imprisonment in Jerusalem, Phryne Fisher begins to unravel a decade-old mystery concerning priceless emeralds, ancient curses and the truth behind the suspicious disappearance of Shirin&#39;s forgotten tribe.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/OlqbY_eepsY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -322,13 +308,6 @@ Tai is now a university student, living alone, working hard at school, and worki
 
 
 	
-	
-	
-
-  
-
-
-	
 
   
 
@@ -336,6 +315,14 @@ Tai is now a university student, living alone, working hard at school, and worki
 
 ## Opening soon
 
+
+	
+
+	
+
+	
+	
+	
 
 	
 	
@@ -354,6 +341,12 @@ The American Dream becomes a nightmare for a group of undocumented day laborers 
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
 	
 
 	
@@ -378,7 +371,22 @@ A Hispanic Border Patrol Agent has his morals challenged when a life-threatening
 	
 
 	
+	
 
+### Spenser Confidential
+*Released on 2020-03-06, vote average 10*
+
+Spenser — an ex-cop better known for making trouble than solving it — just got out of prison and is leaving Boston for good. But first he gets roped into helping his old boxing coach and mentor Henry, with a promising amateur. That&#39;s Hawk, a brash, no-nonsense MMA fighter convinced he&#39;ll be a tougher opponent than Spenser ever was. When two of Spenser&#39;s former colleagues turn up murdered, he recruits Hawk and his foul-mouthed ex-girlfriend Cissy, to help him investigate and bring the culprits to justice.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/bgKEoHNi3Uc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -386,15 +394,7 @@ A Hispanic Border Patrol Agent has his morals challenged when a life-threatening
 	
 
 	
-
 	
-
-	
-
-	
-
-	
-
 	
 
 	
