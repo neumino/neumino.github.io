@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Invisible Man
-*Released on 2020-02-26, vote average 7.6*
+*Released on 2020-02-26, vote average 7.5*
 
 When Cecilia&#39;s abusive ex takes his own life and leaves her his fortune, she suspects his death was a hoax. As a series of coincidences turn lethal, Cecilia works to prove that she is being hunted by someone nobody can see.
 
@@ -46,16 +46,16 @@ When Cecilia&#39;s abusive ex takes his own life and leaves her his fortune, she
 	
 	
 
-### All the Bright Places
-*Released on 2020-02-28, vote average 7.6*
+### Guns Akimbo
+*Released on 2020-02-27, vote average 6.3*
 
-Two teens facing personal struggles form a powerful bond as they embark on a cathartic journey chronicling the wonders of Indiana.
+An ordinary guy suddenly finds himself forced to fight a gladiator-like battle for a dark website that streams the violence for viewers. Miles must fight heavily armed Nix and also save his kidnapped ex-girlfriend.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/zfQXKVCudec?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ZOFatKD0Vzo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,16 +68,16 @@ Two teens facing personal struggles form a powerful bond as they embark on a cat
 	
 	
 
-### Guns Akimbo
-*Released on 2020-02-27, vote average 6.3*
+### All the Bright Places
+*Released on 2020-02-28, vote average 7.5*
 
-An ordinary guy suddenly finds himself forced to fight a gladiator-like battle for a dark website that streams the violence for viewers. Miles must fight heavily armed Nix and also save his kidnapped ex-girlfriend.
+Two teens facing personal struggles form a powerful bond as they embark on a cathartic journey chronicling the wonders of Indiana.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ZOFatKD0Vzo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/zfQXKVCudec?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -111,27 +111,27 @@ Set in the thick of the Cold War, Red Son introduces us to a Superman who landed
 
 	
 	
-
-### The Call of the Wild
-*Released on 2020-02-19, vote average 6*
-
-Buck is a big-hearted dog whose blissful domestic life is turned upside down when he is suddenly uprooted from his California home and transplanted to the exotic wilds of the Yukon during the Gold Rush of the 1890s. As the newest rookie on a mail delivery dog sled team--and later its leader--Buck experiences the adventure of a lifetime, ultimately finding his true place in the world and becoming his own master.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/5P8R2zAhEwg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
 
 
 	
+	
+
+### Bloodshot
+*Released on 2020-02-20, vote average 6.2*
+
+After he and his wife are murdered, marine Ray Garrison is resurrected by a team of scientists. Enhanced with nanotechnology, he becomes a superhuman, biotech killing machine - Bloodshot. As Ray first trains with fellow super-soldiers, he cannot recall anything from his former life. But when his memories flood back and he remembers the man that killed both him and his wife, he breaks out of the facility to get revenge, only to discover that there&#39;s more to the conspiracy than he thought.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/F95Fk255I4M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -163,30 +163,8 @@ In a suburban fantasy world, two teenage elf brothers embark on an extraordinary
 	
 	
 
-### Bloodshot
-*Released on 2020-02-20, vote average 5.9*
-
-After he and his wife are murdered, marine Ray Garrison is resurrected by a team of scientists. Enhanced with nanotechnology, he becomes a superhuman, biotech killing machine - Bloodshot. As Ray first trains with fellow super-soldiers, he cannot recall anything from his former life. But when his memories flood back and he remembers the man that killed both him and his wife, he breaks out of the facility to get revenge, only to discover that there&#39;s more to the conspiracy than he thought.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/F95Fk255I4M?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Holly Slept Over
-*Released on 2020-03-02, vote average 9*
+*Released on 2020-03-02, vote average 8*
 
 This unconventional comedy follows the relationship struggles of a married couple trying to conceive, their friends who have lost their spark, and the tension that ensues when an old college roommate stays over for the weekend.
 
@@ -232,10 +210,39 @@ After a family moves into the Heelshire Mansion, their young son soon makes frie
 
 
 	
+	
+	
 
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Digimon Adventure: Last Evolution Kizuna
+*Released on 2020-02-21, vote average 10*
+
+Tai is now a university student, living alone, working hard at school, and working every day, but with his future still undecided. Meanwhile, Matt and others continue to work on Digimon incidents and activities that help people with their partner Digimon. When an unprecedented phenomenon occurs, the DigiDestined discover that when they grow up, their relationship with their partner Digimon will come closer to an end.  As a countdown timer activates on the Digivice, they realize that the more they fight with their partner Digimon, the faster their bond breaks. Will they fight for others and lose their partner? The time to choose and decide is approaching fast. There is a short time before “chosen children” will become adults. This is the last adventure of Tai and Agumon.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/7f-bq8ZVYSE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -286,28 +293,6 @@ Hotel night clerk Bart Bromley is a highly intelligent young man on the Autism s
 
 
 	
-	
-
-### Digimon Adventure: Last Evolution Kizuna
-*Released on 2020-02-21, vote average 10*
-
-Tai is now a university student, living alone, working hard at school, and working every day, but with his future still undecided. Meanwhile, Matt and others continue to work on Digimon incidents and activities that help people with their partner Digimon. When an unprecedented phenomenon occurs, the DigiDestined discover that when they grow up, their relationship with their partner Digimon will come closer to an end.  As a countdown timer activates on the Digivice, they realize that the more they fight with their partner Digimon, the faster their bond breaks. Will they fight for others and lose their partner? The time to choose and decide is approaching fast. There is a short time before “chosen children” will become adults. This is the last adventure of Tai and Agumon.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/7f-bq8ZVYSE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 
   
 
@@ -348,8 +333,6 @@ The American Dream becomes a nightmare for a group of undocumented day laborers 
 	
 
 	
-
-	
 	
 
 ### Fronteras
@@ -366,8 +349,6 @@ A Hispanic Border Patrol Agent has his morals challenged when a life-threatening
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
@@ -394,13 +375,17 @@ Spenser — an ex-cop better known for making trouble than solving it — just g
 	
 
 	
-	
-	
 
 	
 
 	
 
+	
+
+	
+
+	
+	
 	
 
 	
