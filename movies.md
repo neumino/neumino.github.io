@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Invisible Man
-*Released on 2020-02-26, vote average 7.5*
+*Released on 2020-02-26, vote average 7.3*
 
 When Cecilia&#39;s abusive ex takes his own life and leaves her his fortune, she suspects his death was a hoax. As a series of coincidences turn lethal, Cecilia works to prove that she is being hunted by someone nobody can see.
 
@@ -47,7 +47,7 @@ When Cecilia&#39;s abusive ex takes his own life and leaves her his fortune, she
 	
 
 ### Guns Akimbo
-*Released on 2020-02-27, vote average 6.3*
+*Released on 2020-02-27, vote average 6.2*
 
 An ordinary guy suddenly finds himself forced to fight a gladiator-like battle for a dark website that streams the violence for viewers. Miles must fight heavily armed Nix and also save his kidnapped ex-girlfriend.
 
@@ -91,7 +91,7 @@ Two teens facing personal struggles form a powerful bond as they embark on a cat
 	
 
 ### Superman: Red Son
-*Released on 2020-02-25, vote average 7.3*
+*Released on 2020-02-25, vote average 7.2*
 
 Set in the thick of the Cold War, Red Son introduces us to a Superman who landed in the USSR during the 1950s and grows up to become a Soviet symbol that fights for the preservation of Stalin’s brand of communism.
 
@@ -110,28 +110,6 @@ Set in the thick of the Cold War, Red Son introduces us to a Superman who landed
 
 
 	
-	
-	
-
-  
-
-
-	
-	
-
-### Bloodshot
-*Released on 2020-02-20, vote average 6.2*
-
-After he and his wife are murdered, marine Ray Garrison is resurrected by a team of scientists. Enhanced with nanotechnology, he becomes a superhuman, biotech killing machine - Bloodshot. As Ray first trains with fellow super-soldiers, he cannot recall anything from his former life. But when his memories flood back and he remembers the man that killed both him and his wife, he breaks out of the facility to get revenge, only to discover that there&#39;s more to the conspiracy than he thought.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/F95Fk255I4M?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -183,35 +161,6 @@ This unconventional comedy follows the relationship struggles of a married coupl
 
 
 	
-	
-
-### Brahms: The Boy II
-*Released on 2020-02-20, vote average 5.5*
-
-After a family moves into the Heelshire Mansion, their young son soon makes friends with a life-like doll called Brahms.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ECPfXUW0zt8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
 
   
 
@@ -261,6 +210,30 @@ Tai is now a university student, living alone, working hard at school, and worki
 
 
 	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
 	
 
 ### The Night Clerk
@@ -277,11 +250,6 @@ Hotel night clerk Bart Bromley is a highly intelligent young man on the Autism s
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -331,27 +299,6 @@ The American Dream becomes a nightmare for a group of undocumented day laborers 
 	
 
 	
-
-	
-	
-
-### Fronteras
-*Released on 2020-03-05, vote average 9*
-
-A Hispanic Border Patrol Agent has his morals challenged when a life-threatening narcotic sweeps through the South West. Reyes finds himself in the Gray area between right and wrong in this Action packed Drama that tackles the immigration obstacles he faces everyday. When a new task force arrives to help contain the problem, Reyes will question everything he has been taught to stand for.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/030CW5Rt8UM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
 	
 
 ### Spenser Confidential
@@ -385,7 +332,9 @@ Spenser — an ex-cop better known for making trouble than solving it — just g
 	
 
 	
+
 	
+
 	
 
 	
