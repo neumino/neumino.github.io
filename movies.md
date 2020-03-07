@@ -46,6 +46,28 @@ When Cecilia&#39;s abusive ex takes his own life and leaves her his fortune, she
 	
 	
 
+### Onward
+*Released on 2020-02-29, vote average 8.1*
+
+In a suburban fantasy world, two teenage elf brothers embark on an extraordinary quest to discover if there is still a little magic left out there.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/x8DKg_fsacM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Guns Akimbo
 *Released on 2020-02-27, vote average 6.2*
 
@@ -91,7 +113,7 @@ Two teens facing personal struggles form a powerful bond as they embark on a cat
 	
 
 ### Superman: Red Son
-*Released on 2020-02-25, vote average 7.2*
+*Released on 2020-02-25, vote average 7.3*
 
 Set in the thick of the Cold War, Red Son introduces us to a Superman who landed in the USSR during the 1950s and grows up to become a Soviet symbol that fights for the preservation of Stalin’s brand of communism.
 
@@ -111,24 +133,17 @@ Set in the thick of the Cold War, Red Son introduces us to a Superman who landed
 
 	
 	
-	
 
-  
+### Beneath Us
+*Released on 2020-03-06, vote average 9*
 
-
-	
-	
-
-### Onward
-*Released on 2020-02-29, vote average 7.8*
-
-In a suburban fantasy world, two teenage elf brothers embark on an extraordinary quest to discover if there is still a little magic left out there.
+The American Dream becomes a nightmare for a group of undocumented day laborers hired by a wealthy couple. What they expect to be their biggest payday turns into a terrifying fight for survival.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/x8DKg_fsacM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/465Go4NzIf4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -141,16 +156,16 @@ In a suburban fantasy world, two teenage elf brothers embark on an extraordinary
 	
 	
 
-### Holly Slept Over
-*Released on 2020-03-02, vote average 8*
+### Spenser Confidential
+*Released on 2020-03-06, vote average 10*
 
-This unconventional comedy follows the relationship struggles of a married couple trying to conceive, their friends who have lost their spark, and the tension that ensues when an old college roommate stays over for the weekend.
+Spenser — an ex-cop better known for making trouble than solving it — just got out of prison and is leaving Boston for good. But first he gets roped into helping his old boxing coach and mentor Henry, with a promising amateur. That&#39;s Hawk, a brash, no-nonsense MMA fighter convinced he&#39;ll be a tougher opponent than Spenser ever was. When two of Spenser&#39;s former colleagues turn up murdered, he recruits Hawk and his foul-mouthed ex-girlfriend Cissy, to help him investigate and bring the culprits to justice.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/nwbpMcRSIN4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/bgKEoHNi3Uc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -166,28 +181,25 @@ This unconventional comedy follows the relationship struggles of a married coupl
 
 
 	
+	
+	
 
   
 
 
 	
-
-  
-
-
-	
 	
 
-### Digimon Adventure: Last Evolution Kizuna
-*Released on 2020-02-21, vote average 10*
+### Escape from Pretoria
+*Released on 2020-03-06, vote average 7*
 
-Tai is now a university student, living alone, working hard at school, and working every day, but with his future still undecided. Meanwhile, Matt and others continue to work on Digimon incidents and activities that help people with their partner Digimon. When an unprecedented phenomenon occurs, the DigiDestined discover that when they grow up, their relationship with their partner Digimon will come closer to an end.  As a countdown timer activates on the Digivice, they realize that the more they fight with their partner Digimon, the faster their bond breaks. Will they fight for others and lose their partner? The time to choose and decide is approaching fast. There is a short time before “chosen children” will become adults. This is the last adventure of Tai and Agumon.
+Based on the real-life prison break of two political captives, Escape From Pretoria is a race-against-time thriller set in the tumultuous apartheid days of South Africa. Two white South Africans, imprisoned for working on behalf of the ANC, are determined to escape from the notorious white man&#39;s &#39;Robben Island&#39;, Pretoria Prison.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/7f-bq8ZVYSE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/WZgYO7-9Nq8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -215,8 +227,6 @@ Tai is now a university student, living alone, working hard at school, and worki
 
 
 	
-	
-	
 
   
 
@@ -227,29 +237,15 @@ Tai is now a university student, living alone, working hard at school, and worki
 
 
 	
-	
-	
 
   
 
 
 	
-	
 
-### The Night Clerk
-*Released on 2020-02-21, vote average 6.6*
+  
 
-Hotel night clerk Bart Bromley is a highly intelligent young man on the Autism spectrum. When a woman is murdered during his shift, Bart becomes the prime suspect. As the police investigation closes in, Bart makes a personal connection with a beautiful guest named Andrea, but soon realises he must stop the real murderer before she becomes the next victim.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/flDC7Ar2Deg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -274,47 +270,11 @@ Hotel night clerk Bart Bromley is a highly intelligent young man on the Autism s
 	
 
 	
-	
-	
-
-	
-	
-
-### Beneath Us
-*Released on 2020-03-06, vote average 9*
-
-The American Dream becomes a nightmare for a group of undocumented day laborers hired by a wealthy couple. What they expect to be their biggest payday turns into a terrifying fight for survival.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/465Go4NzIf4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
 	
-	
 
-### Spenser Confidential
-*Released on 2020-03-06, vote average 10*
-
-Spenser — an ex-cop better known for making trouble than solving it — just got out of prison and is leaving Boston for good. But first he gets roped into helping his old boxing coach and mentor Henry, with a promising amateur. That&#39;s Hawk, a brash, no-nonsense MMA fighter convinced he&#39;ll be a tougher opponent than Spenser ever was. When two of Spenser&#39;s former colleagues turn up murdered, he recruits Hawk and his foul-mouthed ex-girlfriend Cissy, to help him investigate and bring the culprits to justice.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/bgKEoHNi3Uc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
