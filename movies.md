@@ -47,7 +47,7 @@ When Cecilia&#39;s abusive ex takes his own life and leaves her his fortune, she
 	
 
 ### Onward
-*Released on 2020-02-29, vote average 8.1*
+*Released on 2020-02-29, vote average 8*
 
 In a suburban fantasy world, two teenage elf brothers embark on an extraordinary quest to discover if there is still a little magic left out there.
 
@@ -69,7 +69,7 @@ In a suburban fantasy world, two teenage elf brothers embark on an extraordinary
 	
 
 ### Guns Akimbo
-*Released on 2020-02-27, vote average 6.2*
+*Released on 2020-02-27, vote average 6.3*
 
 An ordinary guy suddenly finds himself forced to fight a gladiator-like battle for a dark website that streams the violence for viewers. Miles must fight heavily armed Nix and also save his kidnapped ex-girlfriend.
 
@@ -78,28 +78,6 @@ An ordinary guy suddenly finds himself forced to fight a gladiator-like battle f
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/ZOFatKD0Vzo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### All the Bright Places
-*Released on 2020-02-28, vote average 7.5*
-
-Two teens facing personal struggles form a powerful bond as they embark on a cathartic journey chronicling the wonders of Indiana.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zfQXKVCudec?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,16 +112,16 @@ Set in the thick of the Cold War, Red Son introduces us to a Superman who landed
 	
 	
 
-### Beneath Us
-*Released on 2020-03-06, vote average 9*
+### All the Bright Places
+*Released on 2020-02-28, vote average 7.6*
 
-The American Dream becomes a nightmare for a group of undocumented day laborers hired by a wealthy couple. What they expect to be their biggest payday turns into a terrifying fight for survival.
+Two teens facing personal struggles form a powerful bond as they embark on a cathartic journey chronicling the wonders of Indiana.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/465Go4NzIf4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/zfQXKVCudec?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -157,9 +135,9 @@ The American Dream becomes a nightmare for a group of undocumented day laborers 
 	
 
 ### Spenser Confidential
-*Released on 2020-03-06, vote average 10*
+*Released on 2020-03-06, vote average 7.3*
 
-Spenser — an ex-cop better known for making trouble than solving it — just got out of prison and is leaving Boston for good. But first he gets roped into helping his old boxing coach and mentor Henry, with a promising amateur. That&#39;s Hawk, a brash, no-nonsense MMA fighter convinced he&#39;ll be a tougher opponent than Spenser ever was. When two of Spenser&#39;s former colleagues turn up murdered, he recruits Hawk and his foul-mouthed ex-girlfriend Cissy, to help him investigate and bring the culprits to justice.
+Spenser, a former Boston patrolman who just got out from prison, teams up with Hawk, an aspiring fighter, to unravel the truth behind the death of two police officers.
 
 <iframe id="player"
 	type="text/html"
@@ -176,22 +154,10 @@ Spenser — an ex-cop better known for making trouble than solving it — just g
 
 
 	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
 	
 
 ### Escape from Pretoria
-*Released on 2020-03-06, vote average 7*
+*Released on 2020-03-06, vote average 7.2*
 
 Based on the real-life prison break of two political captives, Escape From Pretoria is a race-against-time thriller set in the tumultuous apartheid days of South Africa. Two white South Africans, imprisoned for working on behalf of the ANC, are determined to escape from the notorious white man&#39;s &#39;Robben Island&#39;, Pretoria Prison.
 
@@ -216,6 +182,59 @@ Based on the real-life prison break of two political captives, Escape From Preto
   
 
 
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Beneath Us
+*Released on 2020-03-06, vote average 7.5*
+
+The American Dream becomes a nightmare for a group of undocumented day laborers hired by a wealthy couple. What they expect to be their biggest payday turns into a terrifying fight for survival.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/465Go4NzIf4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Banker
+*Released on 2020-03-06, vote average 9*
+
+In the 1960s, two entrepreneurs hatch an ingenious business plan to fight for housing integration—and equal access to the American Dream.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/J_-nk9-sMus?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -303,6 +322,23 @@ Based on the real-life prison break of two political captives, Escape From Preto
 
 	
 
+	
+	
+
+### Vivarium
+*Released on 2020-03-11, vote average 8*
+
+A young woman and her fiancé are in search of the perfect starter home. After following a mysterious real estate agent to a new housing development, the couple finds themselves trapped in a maze of identical houses and forced to raise an otherworldly child.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Fs3ifuAlw0A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 
