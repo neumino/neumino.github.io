@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Invisible Man
-*Released on 2020-02-26, vote average 7.3*
+*Released on 2020-02-26, vote average 7.2*
 
 When Cecilia&#39;s abusive ex takes his own life and leaves her his fortune, she suspects his death was a hoax. As a series of coincidences turn lethal, Cecilia works to prove that she is being hunted by someone nobody can see.
 
@@ -47,7 +47,7 @@ When Cecilia&#39;s abusive ex takes his own life and leaves her his fortune, she
 	
 
 ### Onward
-*Released on 2020-02-29, vote average 8*
+*Released on 2020-02-29, vote average 8.1*
 
 In a suburban fantasy world, two teenage elf brothers embark on an extraordinary quest to discover if there is still a little magic left out there.
 
@@ -68,16 +68,16 @@ In a suburban fantasy world, two teenage elf brothers embark on an extraordinary
 	
 	
 
-### Guns Akimbo
-*Released on 2020-02-27, vote average 6.3*
+### Spenser Confidential
+*Released on 2020-03-06, vote average 6.9*
 
-An ordinary guy suddenly finds himself forced to fight a gladiator-like battle for a dark website that streams the violence for viewers. Miles must fight heavily armed Nix and also save his kidnapped ex-girlfriend.
+Spenser, a former Boston patrolman who just got out from prison, teams up with Hawk, an aspiring fighter, to unravel the truth behind the death of two police officers.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ZOFatKD0Vzo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/bgKEoHNi3Uc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,50 +112,6 @@ Set in the thick of the Cold War, Red Son introduces us to a Superman who landed
 	
 	
 
-### All the Bright Places
-*Released on 2020-02-28, vote average 7.6*
-
-Two teens facing personal struggles form a powerful bond as they embark on a cathartic journey chronicling the wonders of Indiana.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zfQXKVCudec?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Spenser Confidential
-*Released on 2020-03-06, vote average 7.3*
-
-Spenser, a former Boston patrolman who just got out from prison, teams up with Hawk, an aspiring fighter, to unravel the truth behind the death of two police officers.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/bgKEoHNi3Uc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Escape from Pretoria
 *Released on 2020-03-06, vote average 7.2*
 
@@ -177,6 +133,43 @@ Based on the real-life prison break of two political captives, Escape From Preto
 
 	
 	
+
+### All the Bright Places
+*Released on 2020-02-28, vote average 7.5*
+
+Two teens facing personal struggles form a powerful bond as they embark on a cathartic journey chronicling the wonders of Indiana.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zfQXKVCudec?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Guns Akimbo
+*Released on 2020-02-27, vote average 6.4*
+
+An ordinary guy suddenly finds himself forced to fight a gladiator-like battle for a dark website that streams the violence for viewers. Miles must fight heavily armed Nix and also save his kidnapped ex-girlfriend.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZOFatKD0Vzo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -190,6 +183,28 @@ Based on the real-life prison break of two political captives, Escape From Preto
 
 
 	
+	
+	
+
+  
+
+
+	
+	
+
+### The Way Back
+*Released on 2020-03-05, vote average 6.3*
+
+A former basketball all-star, who has lost his wife and family foundation in a struggle with addiction attempts to regain his soul and salvation by becoming the coach of a disparate ethnically mixed high school basketball team at his alma mater.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/VzNJVSsjE-I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -240,6 +255,8 @@ In the 1960s, two entrepreneurs hatch an ingenious business plan to fight for ho
   
 
 
+	
+	
 	
 
   
@@ -297,32 +314,6 @@ In the 1960s, two entrepreneurs hatch an ingenious business plan to fight for ho
 	
 
 	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
 	
 
 ### Vivarium
@@ -339,6 +330,49 @@ A young woman and her fiancé are in search of the perfect starter home. After f
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Carmen Sandiego: To Steal or Not to Steal
+*Released on 2020-03-10, vote average 10*
+
+You drive the action in this interactive adventure, helping Carmen save Ivy and Zack when V.I.L.E. captures them during a heist in Shanghai.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/07jnFUoVzFg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 
