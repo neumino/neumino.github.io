@@ -46,6 +46,28 @@ When Cecilia&#39;s abusive ex takes his own life and leaves her his fortune, she
 	
 	
 
+### Spenser Confidential
+*Released on 2020-03-06, vote average 6.6*
+
+Spenser, a former Boston patrolman who just got out from prison, teams up with Hawk, an aspiring fighter, to unravel the truth behind the death of two police officers.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/bgKEoHNi3Uc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Onward
 *Released on 2020-02-29, vote average 8.1*
 
@@ -68,52 +90,8 @@ In a suburban fantasy world, two teenage elf brothers embark on an extraordinary
 	
 	
 
-### Spenser Confidential
-*Released on 2020-03-06, vote average 6.9*
-
-Spenser, a former Boston patrolman who just got out from prison, teams up with Hawk, an aspiring fighter, to unravel the truth behind the death of two police officers.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/bgKEoHNi3Uc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Superman: Red Son
-*Released on 2020-02-25, vote average 7.3*
-
-Set in the thick of the Cold War, Red Son introduces us to a Superman who landed in the USSR during the 1950s and grows up to become a Soviet symbol that fights for the preservation of Stalin’s brand of communism.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/n0s0FJfyqGk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Escape from Pretoria
-*Released on 2020-03-06, vote average 7.2*
+*Released on 2020-03-06, vote average 7.1*
 
 Based on the real-life prison break of two political captives, Escape From Pretoria is a race-against-time thriller set in the tumultuous apartheid days of South Africa. Two white South Africans, imprisoned for working on behalf of the ANC, are determined to escape from the notorious white man&#39;s &#39;Robben Island&#39;, Pretoria Prison.
 
@@ -134,8 +112,30 @@ Based on the real-life prison break of two political captives, Escape From Preto
 	
 	
 
+### Superman: Red Son
+*Released on 2020-02-25, vote average 7.4*
+
+Set in the thick of the Cold War, Red Son introduces us to a Superman who landed in the USSR during the 1950s and grows up to become a Soviet symbol that fights for the preservation of Stalin’s brand of communism.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/n0s0FJfyqGk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### All the Bright Places
-*Released on 2020-02-28, vote average 7.5*
+*Released on 2020-02-28, vote average 7.4*
 
 Two teens facing personal struggles form a powerful bond as they embark on a cathartic journey chronicling the wonders of Indiana.
 
@@ -147,6 +147,13 @@ Two teens facing personal struggles form a powerful bond as they embark on a cat
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -177,23 +184,9 @@ An ordinary guy suddenly finds himself forced to fight a gladiator-like battle f
 
 	
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
 
 ### The Way Back
-*Released on 2020-03-05, vote average 6.3*
+*Released on 2020-03-05, vote average 6.4*
 
 A former basketball all-star, who has lost his wife and family foundation in a struggle with addiction attempts to regain his soul and salvation by becoming the coach of a disparate ethnically mixed high school basketball team at his alma mater.
 
@@ -213,9 +206,41 @@ A former basketball all-star, who has lost his wife and family foundation in a s
 
 	
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 
 ### Beneath Us
-*Released on 2020-03-06, vote average 7.5*
+*Released on 2020-03-06, vote average 6.8*
 
 The American Dream becomes a nightmare for a group of undocumented day laborers hired by a wealthy couple. What they expect to be their biggest payday turns into a terrifying fight for survival.
 
@@ -228,6 +253,21 @@ The American Dream becomes a nightmare for a group of undocumented day laborers 
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -255,54 +295,31 @@ In the 1960s, two entrepreneurs hatch an ingenious business plan to fight for ho
   
 
 
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
 
 	
 
+	
+
+	
+	
+
+### Carmen Sandiego: To Steal or Not to Steal
+*Released on 2020-03-10, vote average 10*
+
+You drive the action in this interactive adventure, helping Carmen save Ivy and Zack when V.I.L.E. captures them during a heist in Shanghai.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/07jnFUoVzFg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -336,25 +353,6 @@ A young woman and her fiancé are in search of the perfect starter home. After f
 
 	
 
-	
-
-	
-	
-
-### Carmen Sandiego: To Steal or Not to Steal
-*Released on 2020-03-10, vote average 10*
-
-You drive the action in this interactive adventure, helping Carmen save Ivy and Zack when V.I.L.E. captures them during a heist in Shanghai.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/07jnFUoVzFg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
