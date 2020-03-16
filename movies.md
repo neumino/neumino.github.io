@@ -47,7 +47,7 @@ Spenser, a former Boston patrolman who just got out from prison, teams up with H
 	
 
 ### The Hunt
-*Released on 2020-03-13, vote average 8.2*
+*Released on 2020-03-13, vote average 7.3*
 
 Twelve strangers wake up in a clearing. They don&#39;t know where they are, or how they got there. They don&#39;t know they&#39;ve been chosen - for a very specific purpose - The Hunt.
 
@@ -55,7 +55,7 @@ Twelve strangers wake up in a clearing. They don&#39;t know where they are, or h
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/x8IifEu67yU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/sowGYbxTPgU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -91,7 +91,7 @@ A New York detective teams investigates the death of his daughter who was murder
 	
 
 ### Escape from Pretoria
-*Released on 2020-03-06, vote average 7.2*
+*Released on 2020-03-06, vote average 7.3*
 
 Two white South Africans, imprisoned for working on behalf of the ANC, are determined to escape from Pretoria&#39;s notorious white man&#39;s &#39;Robben Island&#39; Prison.
 
@@ -110,6 +110,23 @@ Two white South Africans, imprisoned for working on behalf of the ANC, are deter
 
 
 	
+	
+
+### Big Time Adolescence
+*Released on 2020-03-13, vote average 6.5*
+
+A 16 year old virgin with a growth hormone deficiency slowly gets corrupted by his hero, an aimless college dropout.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/t3PcDo4YcnY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -118,7 +135,7 @@ Two white South Africans, imprisoned for working on behalf of the ANC, are deter
 	
 
 ### I Still Believe
-*Released on 2020-03-12, vote average 6.1*
+*Released on 2020-03-12, vote average 6.4*
 
 The true-life story of Christian music star Jeremy Camp and his journey of love and loss that looks to prove there is always hope.
 
@@ -161,16 +178,16 @@ A distraught mother suspects her teenage son is a psychopath who may shoot up hi
 	
 	
 
-### Mulan
-*Released on 2020-03-09, vote average 9.5*
+### Trolls World Tour
+*Released on 2020-03-12, vote average 9.7*
 
-When the Emperor of China issues a decree that one man per family must serve in the Imperial Chinese Army to defend the country from Huns, Hua Mulan, the eldest daughter of an honored warrior, steps in to take the place of her ailing father. She is spirited, determined and quick on her feet. Disguised as a man by the name of Hua Jun, she is tested every step of the way and must harness her innermost strength and embrace her true potential.
+Queen Poppy and Branch make a surprising discovery — there are other Troll worlds beyond their own, and their distinct differences create big clashes between these various tribes. When a mysterious threat puts all of the Trolls across the land in danger, Poppy, Branch, and their band of friends must embark on an epic quest to create harmony among the feuding Trolls to unite them against certain doom.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/01ON04GCwKs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/SyTg7RIn-X8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -180,6 +197,38 @@ When the Emperor of China issues a decree that one man per family must serve in 
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Don’t Speak
+*Released on 2020-03-10, vote average 2*
+
+Upon arriving at their grandparents farm, a family soon realise the entire town has been taken out by an unknown monster. And soon, they become its prey.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/tVNEludrKtk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -220,16 +269,16 @@ A former basketball all-star, who has lost his wife and family foundation in a s
 	
 	
 
-### Trolls World Tour
-*Released on 2020-03-12, vote average 9.5*
+### Mulan
+*Released on 2020-03-09, vote average 9.7*
 
-Queen Poppy and Branch make a surprising discovery — there are other Troll worlds beyond their own, and their distinct differences create big clashes between these various tribes. When a mysterious threat puts all of the Trolls across the land in danger, Poppy, Branch, and their band of friends must embark on an epic quest to create harmony among the feuding Trolls to unite them against certain doom.
+When the Emperor of China issues a decree that one man per family must serve in the Imperial Chinese Army to defend the country from Huns, Hua Mulan, the eldest daughter of an honored warrior, steps in to take the place of her ailing father. She is spirited, determined and quick on her feet. Disguised as a man by the name of Hua Jun, she is tested every step of the way and must harness her innermost strength and embrace her true potential.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/SyTg7RIn-X8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/01ON04GCwKs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -247,35 +296,20 @@ Queen Poppy and Branch make a surprising discovery — there are other Troll wor
 	
 	
 
-### Don’t Speak
-*Released on 2020-03-10, vote average 2*
+### Stargirl
+*Released on 2020-03-10, vote average 5.7*
 
-Upon arriving at their grandparents farm, a family soon realise the entire town has been taken out by an unknown monster. And soon, they become its prey.
+A quirky, homeschooled teenager shakes things up at her uptight high school in Arizona.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/tVNEludrKtk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/fE-e7v4bvxw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
