@@ -46,6 +46,28 @@ Spenser, a former Boston patrolman who just got out from prison, teams up with H
 	
 	
 
+### Stargirl
+*Released on 2020-03-10, vote average 7.8*
+
+A quirky, homeschooled teenager shakes things up at her uptight high school in Arizona.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fE-e7v4bvxw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Hunt
 *Released on 2020-03-13, vote average 6.8*
 
@@ -68,30 +90,8 @@ Twelve strangers wake up in a clearing. They don&#39;t know where they are, or h
 	
 	
 
-### Stargirl
-*Released on 2020-03-10, vote average 7.1*
-
-A quirky, homeschooled teenager shakes things up at her uptight high school in Arizona.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/fE-e7v4bvxw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Escape from Pretoria
-*Released on 2020-03-06, vote average 7*
+*Released on 2020-03-06, vote average 6.9*
 
 Two white South Africans, imprisoned for working on behalf of the ANC, are determined to escape from Pretoria&#39;s notorious white man&#39;s &#39;Robben Island&#39; Prison.
 
@@ -104,6 +104,84 @@ Two white South Africans, imprisoned for working on behalf of the ANC, are deter
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Lost Girls
+*Released on 2020-03-13, vote average 6.1*
+
+When Mari Gilbert&#39;s daughter disappears, police inaction drives her own investigation into the gated Long Island community where Shannan was last seen. Her search brings attention to over a dozen murdered sex workers.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/UJzGE00wncU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### I Still Believe
+*Released on 2020-03-12, vote average 6.9*
+
+The true-life story of Christian music star Jeremy Camp and his journey of love and loss that looks to prove there is always hope.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/YnxHyBbYwQQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Trolls World Tour
+*Released on 2020-03-12, vote average 7.2*
+
+Queen Poppy and Branch make a surprising discovery — there are other Troll worlds beyond their own, and their distinct differences create big clashes between these various tribes. When a mysterious threat puts all of the Trolls across the land in danger, Poppy, Branch, and their band of friends must embark on an epic quest to create harmony among the feuding Trolls to unite them against certain doom.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/SyTg7RIn-X8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -126,55 +204,6 @@ A New York detective teams investigates the death of his daughter who was murder
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### Trolls World Tour
-*Released on 2020-03-12, vote average 7.9*
-
-Queen Poppy and Branch make a surprising discovery — there are other Troll worlds beyond their own, and their distinct differences create big clashes between these various tribes. When a mysterious threat puts all of the Trolls across the land in danger, Poppy, Branch, and their band of friends must embark on an epic quest to create harmony among the feuding Trolls to unite them against certain doom.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/SyTg7RIn-X8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### I Still Believe
-*Released on 2020-03-12, vote average 7.2*
-
-The true-life story of Christian music star Jeremy Camp and his journey of love and loss that looks to prove there is always hope.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/YnxHyBbYwQQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -213,11 +242,6 @@ A 16 year old virgin with a growth hormone deficiency slowly gets corrupted by h
 
 
 	
-
-  
-
-
-	
 	
 
 ### The Way Back
@@ -230,50 +254,6 @@ A former basketball all-star, who has lost his wife and family foundation in a s
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/VzNJVSsjE-I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Lost Girls
-*Released on 2020-03-13, vote average 6.2*
-
-When Mari Gilbert&#39;s daughter disappears, police inaction drives her own investigation into the gated Long Island community where Shannan was last seen. Her search brings attention to over a dozen murdered sex workers.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/UJzGE00wncU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Mulan
-*Released on 2020-03-09, vote average 8.8*
-
-When the Emperor of China issues a decree that one man per family must serve in the Imperial Chinese Army to defend the country from Huns, Hua Mulan, the eldest daughter of an honored warrior, steps in to take the place of her ailing father. She is spirited, determined and quick on her feet. Disguised as a man by the name of Hua Jun, she is tested every step of the way and must harness her innermost strength and embrace her true potential.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/01ON04GCwKs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -325,6 +305,11 @@ Upon arriving at their grandparents farm, a family soon realise the entire town 
   
 
 
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -337,6 +322,23 @@ Upon arriving at their grandparents farm, a family soon realise the entire town 
 
 	
 
+	
+	
+
+### Altered Carbon: Resleeved
+*Released on 2020-03-19, vote average 1*
+
+On the planet Latimer, Takeshi Kovacs must protect a tattooist while investigating the death of a yakuza boss alongside a no-nonsense CTAC.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/HmDxxoFslzs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
