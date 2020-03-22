@@ -13,9 +13,9 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Hunt
-*Released on 2020-03-11, vote average 7*
+*Released on 2020-03-11, vote average 7.3*
 
-In this subversive satire, a group of liberal elites gather for the very first time at a remote Manor House to hunt Trump Supporters (referred to as &#34;Deplorables&#34;) for sport. But the elites&#39; master plan is about to be derailed because one of The Hunted, Crystal (Betty Gilpin, GLOW), knows The Hunters&#39; game better than they do. She turns the tables on the killers, picking them off one by one as she makes her way toward the mysterious woman (two-time Oscar® winner Hilary Swank) at the center of it all.
+Twelve strangers wake up in a clearing. They don&#39;t know where they are -- or how they got there. In the shadow of a dark internet conspiracy theory, ruthless elitists gather at a remote location to hunt humans for sport. But their master plan is about to be derailed when one of the hunted, Crystal, turns the tables on her pursuers.
 
 <iframe id="player"
 	type="text/html"
@@ -46,16 +46,16 @@ In this subversive satire, a group of liberal elites gather for the very first t
 	
 	
 
-### Stargirl
-*Released on 2020-03-10, vote average 7.9*
+### Altered Carbon: Resleeved
+*Released on 2020-03-19, vote average 5.8*
 
-Leo Borlock is an average student at Mica High School. He gets decent grades, is a member of the school&#39;s marching band and has always been content flying under the radar. But all that changes when he meets Stargirl Caraway, a confident and colorful new student with a penchant for the ukulele, who stands out in a crowd. She is kind, finds magic in the mundane and touches the lives of others with the simplest of gestures. Her eccentricities and infectious personality charm Leo and the student body, and she quickly goes from being ignored and ridiculed to accepted and praised, then back again, sending Leo on a rollercoaster ride of emotions.
+On the planet Latimer, Takeshi Kovacs must protect a tattooist while investigating the death of a yakuza boss alongside a no-nonsense CTAC.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/fE-e7v4bvxw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/HmDxxoFslzs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -90,62 +90,20 @@ When Mari Gilbert&#39;s daughter disappears, police inaction drives her own inve
 	
 	
 
-### I Still Believe
-*Released on 2020-03-12, vote average 7.3*
+### Stargirl
+*Released on 2020-03-10, vote average 7.8*
 
-The true-life story of Christian music star Jeremy Camp and his journey of love and loss that looks to prove there is always hope.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/YnxHyBbYwQQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Altered Carbon: Resleeved
-*Released on 2020-03-19, vote average 5.4*
-
-On the planet Latimer, Takeshi Kovacs must protect a tattooist while investigating the death of a yakuza boss alongside a no-nonsense CTAC.
+Leo Borlock is an average student at Mica High School. He gets decent grades, is a member of the school&#39;s marching band and has always been content flying under the radar. But all that changes when he meets Stargirl Caraway, a confident and colorful new student with a penchant for the ukulele, who stands out in a crowd. She is kind, finds magic in the mundane and touches the lives of others with the simplest of gestures. Her eccentricities and infectious personality charm Leo and the student body, and she quickly goes from being ignored and ridiculed to accepted and praised, then back again, sending Leo on a rollercoaster ride of emotions.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/HmDxxoFslzs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/fE-e7v4bvxw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -160,7 +118,7 @@ On the planet Latimer, Takeshi Kovacs must protect a tattooist while investigati
 	
 
 ### Trolls World Tour
-*Released on 2020-03-12, vote average 7.2*
+*Released on 2020-03-12, vote average 7.5*
 
 Queen Poppy and Branch make a surprising discovery — there are other Troll worlds beyond their own, and their distinct differences create big clashes between these various tribes. When a mysterious threat puts all of the Trolls across the land in danger, Poppy, Branch, and their band of friends must embark on an epic quest to create harmony among the feuding Trolls to unite them against certain doom.
 
@@ -181,8 +139,50 @@ Queen Poppy and Branch make a surprising discovery — there are other Troll wor
 	
 	
 
+### I Still Believe
+*Released on 2020-03-12, vote average 7.4*
+
+The true-life story of Christian music star Jeremy Camp and his journey of love and loss that looks to prove there is always hope.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/YnxHyBbYwQQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### The Postcard Killings
-*Released on 2020-03-13, vote average 5*
+*Released on 2020-03-13, vote average 5.3*
 
 A New York detective teams investigates the death of his daughter who was murdered while on her honeymoon in London, and recruits the help of Scandinavian journalist when other couples throughout Europe suffer a similar fate.
 
@@ -215,6 +215,23 @@ A New York detective teams investigates the death of his daughter who was murder
   
 
 
+	
+	
+
+### Mulan
+*Released on 2020-03-09, vote average 8.8*
+
+When the Emperor of China issues a decree that one man per family must serve in the Imperial Chinese Army to defend the country from Huns, Hua Mulan, the eldest daughter of an honored warrior, steps in to take the place of her ailing father. She is spirited, determined and quick on her feet. Disguised as a man by the name of Hua Jun, she is tested every step of the way and must harness her innermost strength and embrace her true potential.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/01ON04GCwKs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
