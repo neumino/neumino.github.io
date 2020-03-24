@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Hunt
-*Released on 2020-03-11, vote average 6.6*
+*Released on 2020-03-11, vote average 6.4*
 
 Twelve strangers wake up in a clearing. They don&#39;t know where they are -- or how they got there. In the shadow of a dark internet conspiracy theory, ruthless elitists gather at a remote location to hunt humans for sport. But their master plan is about to be derailed when one of the hunted, Crystal, turns the tables on her pursuers.
 
@@ -47,7 +47,7 @@ Twelve strangers wake up in a clearing. They don&#39;t know where they are -- or
 	
 
 ### Altered Carbon: Resleeved
-*Released on 2020-03-19, vote average 5.9*
+*Released on 2020-03-19, vote average 5.6*
 
 On the planet Latimer, Takeshi Kovacs must protect a tattooist while investigating the death of a yakuza boss alongside a no-nonsense CTAC.
 
@@ -56,6 +56,28 @@ On the planet Latimer, Takeshi Kovacs must protect a tattooist while investigati
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/HmDxxoFslzs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Stargirl
+*Released on 2020-03-10, vote average 7.6*
+
+Leo Borlock is an average student at Mica High School. He gets decent grades, is a member of the school&#39;s marching band and has always been content flying under the radar. But all that changes when he meets Stargirl Caraway, a confident and colorful new student with a penchant for the ukulele, who stands out in a crowd. She is kind, finds magic in the mundane and touches the lives of others with the simplest of gestures. Her eccentricities and infectious personality charm Leo and the student body, and she quickly goes from being ignored and ridiculed to accepted and praised, then back again, sending Leo on a rollercoaster ride of emotions.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fE-e7v4bvxw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -90,16 +112,16 @@ Bailey and Darla embark upon a misguided and mutually deceitful form of therapy,
 	
 	
 
-### Stargirl
-*Released on 2020-03-10, vote average 7.7*
+### Lost Girls
+*Released on 2020-03-13, vote average 6*
 
-Leo Borlock is an average student at Mica High School. He gets decent grades, is a member of the school&#39;s marching band and has always been content flying under the radar. But all that changes when he meets Stargirl Caraway, a confident and colorful new student with a penchant for the ukulele, who stands out in a crowd. She is kind, finds magic in the mundane and touches the lives of others with the simplest of gestures. Her eccentricities and infectious personality charm Leo and the student body, and she quickly goes from being ignored and ridiculed to accepted and praised, then back again, sending Leo on a rollercoaster ride of emotions.
+When Mari Gilbert&#39;s daughter disappears, police inaction drives her own investigation into the gated Long Island community where Shannan was last seen. Her search brings attention to over a dozen murdered sex workers.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/fE-e7v4bvxw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/UJzGE00wncU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,16 +134,16 @@ Leo Borlock is an average student at Mica High School. He gets decent grades, is
 	
 	
 
-### Lost Girls
-*Released on 2020-03-13, vote average 6.1*
+### Trolls World Tour
+*Released on 2020-03-12, vote average 7.8*
 
-When Mari Gilbert&#39;s daughter disappears, police inaction drives her own investigation into the gated Long Island community where Shannan was last seen. Her search brings attention to over a dozen murdered sex workers.
+Queen Poppy and Branch make a surprising discovery — there are other Troll worlds beyond their own, and their distinct differences create big clashes between these various tribes. When a mysterious threat puts all of the Trolls across the land in danger, Poppy, Branch, and their band of friends must embark on an epic quest to create harmony among the feuding Trolls to unite them against certain doom.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/UJzGE00wncU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/SyTg7RIn-X8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -154,23 +176,6 @@ The true-life story of Christian music star Jeremy Camp and his journey of love 
 
 
 	
-	
-
-### Trolls World Tour
-*Released on 2020-03-12, vote average 7.9*
-
-Queen Poppy and Branch make a surprising discovery — there are other Troll worlds beyond their own, and their distinct differences create big clashes between these various tribes. When a mysterious threat puts all of the Trolls across the land in danger, Poppy, Branch, and their band of friends must embark on an epic quest to create harmony among the feuding Trolls to unite them against certain doom.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/SyTg7RIn-X8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -189,7 +194,7 @@ Queen Poppy and Branch make a surprising discovery — there are other Troll wor
 	
 
 ### The Postcard Killings
-*Released on 2020-03-13, vote average 5.7*
+*Released on 2020-03-13, vote average 5.6*
 
 A New York detective teams investigates the death of his daughter who was murdered while on her honeymoon in London, and recruits the help of Scandinavian journalist when other couples throughout Europe suffer a similar fate.
 
@@ -208,64 +213,10 @@ A New York detective teams investigates the death of his daughter who was murder
 
 
 	
-
-  
-
-
-	
-	
-
-### Mulan
-*Released on 2020-03-09, vote average 9*
-
-When the Emperor of China issues a decree that one man per family must serve in the Imperial Chinese Army to defend the country from Huns, Hua Mulan, the eldest daughter of an honored warrior, steps in to take the place of her ailing father. She is spirited, determined and quick on her feet. Disguised as a man by the name of Hua Jun, she is tested every step of the way and must harness her innermost strength and embrace her true potential.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/01ON04GCwKs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### Big Time Adolescence
-*Released on 2020-03-13, vote average 6.3*
+*Released on 2020-03-13, vote average 6.5*
 
 A 16 year old virgin with a growth hormone deficiency slowly gets corrupted by his hero, an aimless college dropout.
 
@@ -278,6 +229,55 @@ A 16 year old virgin with a growth hormone deficiency slowly gets corrupted by h
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Silent Place
+*Released on 2020-03-10, vote average 6.3*
+
+Upon arriving at their grandparents farm, a family soon realise the entire town has been taken out by an unknown monster. And soon, they become its prey.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/tVNEludrKtk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -319,6 +319,8 @@ A 16 year old virgin with a growth hormone deficiency slowly gets corrupted by h
 
 	
 
+	
+	
 	
 
 	
