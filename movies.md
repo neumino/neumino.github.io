@@ -47,7 +47,7 @@ Twelve strangers wake up in a clearing. They don&#39;t know where they are -- or
 	
 
 ### Altered Carbon: Resleeved
-*Released on 2020-03-19, vote average 5.6*
+*Released on 2020-03-19, vote average 5.8*
 
 On the planet Latimer, Takeshi Kovacs must protect a tattooist while investigating the death of a yakuza boss alongside a no-nonsense CTAC.
 
@@ -68,16 +68,16 @@ On the planet Latimer, Takeshi Kovacs must protect a tattooist while investigati
 	
 	
 
-### Stargirl
-*Released on 2020-03-10, vote average 7.6*
+### Lost Girls
+*Released on 2020-03-13, vote average 6.1*
 
-Leo Borlock is an average student at Mica High School. He gets decent grades, is a member of the school&#39;s marching band and has always been content flying under the radar. But all that changes when he meets Stargirl Caraway, a confident and colorful new student with a penchant for the ukulele, who stands out in a crowd. She is kind, finds magic in the mundane and touches the lives of others with the simplest of gestures. Her eccentricities and infectious personality charm Leo and the student body, and she quickly goes from being ignored and ridiculed to accepted and praised, then back again, sending Leo on a rollercoaster ride of emotions.
+When Mari Gilbert&#39;s daughter disappears, police inaction drives her own investigation into the gated Long Island community where Shannan was last seen. Her search brings attention to over a dozen murdered sex workers.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/fE-e7v4bvxw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/UJzGE00wncU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -100,28 +100,6 @@ Bailey and Darla embark upon a misguided and mutually deceitful form of therapy,
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/4OKHds153Ws?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Lost Girls
-*Released on 2020-03-13, vote average 6*
-
-When Mari Gilbert&#39;s daughter disappears, police inaction drives her own investigation into the gated Long Island community where Shannan was last seen. Her search brings attention to over a dozen murdered sex workers.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/UJzGE00wncU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -191,6 +169,16 @@ The true-life story of Christian music star Jeremy Camp and his journey of love 
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### The Postcard Killings
@@ -207,6 +195,55 @@ A New York detective teams investigates the death of his daughter who was murder
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Human Capital
+*Released on 2020-03-20, vote average 4.2*
+
+The lives of two different families collide when their children begin a relationship that leads to a tragic accident.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/s_X35NgQTAk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -239,60 +276,6 @@ A 16 year old virgin with a growth hormone deficiency slowly gets corrupted by h
   
 
 
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Silent Place
-*Released on 2020-03-10, vote average 6.3*
-
-Upon arriving at their grandparents farm, a family soon realise the entire town has been taken out by an unknown monster. And soon, they become its prey.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tVNEludrKtk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -302,6 +285,23 @@ Upon arriving at their grandparents farm, a family soon realise the entire town 
 	
 
 	
+	
+
+### Emperor
+*Released on 2020-03-27, vote average 5.7*
+
+An escaped slave travels north and has chance encounters with Frederick Douglass and John Brown. Based on the life story of Shields Green.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/TKG7dnF-dSU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
@@ -319,8 +319,6 @@ Upon arriving at their grandparents farm, a family soon realise the entire town 
 
 	
 
-	
-	
 	
 
 	
