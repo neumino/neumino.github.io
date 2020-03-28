@@ -11,6 +11,25 @@ This is a convenient page that embeds trailers of movies released in the past
 
 	
 	
+	
+
+  
+<br/>
+<br/>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle"
+     style="display:inline-block;width:468px;height:60px"
+     data-ad-client="ca-pub-5366199723595534"
+     data-ad-slot="2620298801"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  
+
+
+	
+	
 
 ### Crip Camp: A Disability Revolution
 *Released on 2020-03-25, vote average 1.5*
@@ -29,17 +48,37 @@ Down the road from Woodstock in the early 1970s, a revolution blossomed in a ram
 	
 
   
-<br/>
-<br/>
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
-<ins class="adsbygoogle"
-     style="display:inline-block;width:468px;height:60px"
-     data-ad-client="ca-pub-5366199723595534"
-     data-ad-slot="2620298801"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+
+	
+	
+
+### Emperor
+*Released on 2020-03-27, vote average 5.7*
+
+An escaped slave travels north and has chance encounters with Frederick Douglass and John Brown. Based on the life story of Shields Green.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/TKG7dnF-dSU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
   
 
 
@@ -68,20 +107,87 @@ On the planet Latimer, Takeshi Kovacs must protect a tattooist while investigati
 	
 	
 
-### Lost Girls
-*Released on 2020-03-13, vote average 6.1*
+### Tape
+*Released on 2020-03-27, vote average 10*
 
-When Mari Gilbert&#39;s daughter disappears, police inaction drives her own investigation into the gated Long Island community where Shannan was last seen. Her search brings attention to over a dozen murdered sex workers.
+The story of an aspiring actress who crosses paths with the darker side of the entertainment industry.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/UJzGE00wncU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/aGWxav5n7GM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Untamed: Fatal Journey
+*Released on 2020-03-26, vote average 10*
+
+The story is set in when Qinghe Nie Sect was dealing with their ancestral knife tomb incident. Nie Mingjue brought Nie Huaisang alone to do good for others by restoring the tomb back to its original state to ensure peace in the Nie sect. Through this, Nie Huaisang went from a playful disciple to maturing into the next generation sect leader and Nie Mingjue learned, understood his brother more and helped him grow.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/smslgnaC1Sk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -110,133 +216,12 @@ Tom Segura scores laughs with uncomfortably candid stories about mothers, father
 
 
 	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 
   
 
 
 	
 	
-
-### Emperor
-*Released on 2020-03-27, vote average 5.7*
-
-An escaped slave travels north and has chance encounters with Frederick Douglass and John Brown. Based on the life story of Shields Green.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/TKG7dnF-dSU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Hooking Up
-*Released on 2020-03-20, vote average 10*
-
-Bailey and Darla embark upon a misguided and mutually deceitful form of therapy, one in which they must drive across the country re-enacting Darla&#39;s colorful history as a sex addict. As their true motivations for the road trip come to light, the unlikely pair force one another to confront their issues, discovering that there might actually be more to love than just sex.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/4OKHds153Ws?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Tape
-*Released on 2020-03-27, vote average 10*
-
-The story of an aspiring actress who crosses paths with the darker side of the entertainment industry.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/aGWxav5n7GM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -247,45 +232,11 @@ The story of an aspiring actress who crosses paths with the darker side of the e
 
 
 	
-	
-
-### Emperor
-*Released on 2020-03-27, vote average 5.7*
-
-An escaped slave travels north and has chance encounters with Frederick Douglass and John Brown. Based on the life story of Shields Green.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/TKG7dnF-dSU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
 	
 
-	
-	
-
-### Tape
-*Released on 2020-03-27, vote average 10*
-
-The story of an aspiring actress who crosses paths with the darker side of the entertainment industry.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/aGWxav5n7GM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
@@ -316,6 +267,8 @@ The story of an aspiring actress who crosses paths with the darker side of the e
 
 	
 
+	
+	
 	
 
 	
