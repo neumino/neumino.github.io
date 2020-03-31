@@ -32,7 +32,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Uncorked
-*Released on 2020-03-27, vote average 6.3*
+*Released on 2020-03-27, vote average 5.9*
 
 Elijah must balance his dream of becoming a master sommelier with his father&#39;s expectations that he carry on the family&#39;s Memphis BBQ joint.
 
@@ -51,11 +51,6 @@ Elijah must balance his dream of becoming a master sommelier with his father&#39
 
 
 	
-
-  
-
-
-	
 	
 	
 
@@ -64,6 +59,11 @@ Elijah must balance his dream of becoming a master sommelier with his father&#39
 
 	
 	
+	
+
+  
+
+
 	
 
   
@@ -73,7 +73,7 @@ Elijah must balance his dream of becoming a master sommelier with his father&#39
 	
 
 ### Altered Carbon: Resleeved
-*Released on 2020-03-19, vote average 6.1*
+*Released on 2020-03-19, vote average 6*
 
 On the planet Latimer, Takeshi Kovacs must protect a tattooist while investigating the death of a yakuza boss alongside a no-nonsense CTAC.
 
@@ -92,6 +92,33 @@ On the planet Latimer, Takeshi Kovacs must protect a tattooist while investigati
 
 
 	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### Crip Camp: A Disability Revolution
@@ -104,6 +131,28 @@ Down the road from Woodstock in the early 1970s, a revolution blossomed in a ram
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/XRrIs22plz0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Hooking Up
+*Released on 2020-03-20, vote average 10*
+
+Bailey and Darla embark upon a misguided and mutually deceitful form of therapy, one in which they must drive across the country re-enacting Darla&#39;s colorful history as a sex addict. As their true motivations for the road trip come to light, the unlikely pair force one another to confront their issues, discovering that there might actually be more to love than just sex.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/4OKHds153Ws?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -135,11 +184,6 @@ The story of an aspiring actress who crosses paths with the darker side of the e
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -178,11 +222,6 @@ An escaped slave travels north and has chance encounters with Frederick Douglass
 
 
 	
-
-  
-
-
-	
 	
 
 ### Human Capital
@@ -199,26 +238,6 @@ The lives of two different families collide when their children begin a relation
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
