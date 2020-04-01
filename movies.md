@@ -30,6 +30,13 @@ This is a convenient page that embeds trailers of movies released in the past
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Uncorked
 *Released on 2020-03-27, vote average 5.9*
@@ -52,18 +59,6 @@ Elijah must balance his dream of becoming a master sommelier with his father&#39
 
 	
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 	
 
   
@@ -97,8 +92,6 @@ On the planet Latimer, Takeshi Kovacs must protect a tattooist while investigati
 
 
 	
-	
-	
 
   
 
@@ -119,22 +112,20 @@ On the planet Latimer, Takeshi Kovacs must protect a tattooist while investigati
 
 
 	
-	
 
-### Crip Camp: A Disability Revolution
-*Released on 2020-03-25, vote average 5.8*
+  
 
-Down the road from Woodstock in the early 1970s, a revolution blossomed in a ramshackle summer camp for disabled teenagers, transforming their young lives and igniting a landmark movement.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XRrIs22plz0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -163,45 +154,18 @@ Bailey and Darla embark upon a misguided and mutually deceitful form of therapy,
 
 
 	
-
-  
-
-
-	
 	
 
-### Tape
-*Released on 2020-03-27, vote average 10*
+### Crip Camp: A Disability Revolution
+*Released on 2020-03-25, vote average 5.8*
 
-The story of an aspiring actress who crosses paths with the darker side of the entertainment industry.
+Down the road from Woodstock in the early 1970s, a revolution blossomed in a ramshackle summer camp for disabled teenagers, transforming their young lives and igniting a landmark movement.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/aGWxav5n7GM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Emperor
-*Released on 2020-03-27, vote average 5.7*
-
-An escaped slave travels north and has chance encounters with Frederick Douglass and John Brown. Based on the life story of Shields Green.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/TKG7dnF-dSU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/XRrIs22plz0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -221,23 +185,6 @@ An escaped slave travels north and has chance encounters with Frederick Douglass
   
 
 
-	
-	
-
-### Human Capital
-*Released on 2020-03-20, vote average 5*
-
-The lives of two different families collide when their children begin a relationship that leads to a tragic accident.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/s_X35NgQTAk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -253,8 +200,6 @@ The lives of two different families collide when their children begin a relation
 
 
 	
-	
-	
 
 	
 
@@ -280,6 +225,8 @@ The lives of two different families collide when their children begin a relation
 
 	
 
+	
+	
 	
 
 	
