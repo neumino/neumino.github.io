@@ -30,16 +30,9 @@ This is a convenient page that embeds trailers of movies released in the past
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Uncorked
-*Released on 2020-03-27, vote average 5.9*
+*Released on 2020-03-27, vote average 6.1*
 
 Elijah must balance his dream of becoming a master sommelier with his father&#39;s expectations that he carry on the family&#39;s Memphis BBQ joint.
 
@@ -59,6 +52,18 @@ Elijah must balance his dream of becoming a master sommelier with his father&#39
 
 	
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -134,6 +139,38 @@ On the planet Latimer, Takeshi Kovacs must protect a tattooist while investigati
 	
 	
 
+### Saigon Metalhood
+*Released on 2020-03-31, vote average 3.5*
+
+Three generations of Vietnamese metalheads struggle against an indifferent culture to make their passion heard.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/BsN8Xq7O8WE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### Hooking Up
 *Released on 2020-03-20, vote average 10*
 
@@ -148,43 +185,6 @@ Bailey and Darla embark upon a misguided and mutually deceitful form of therapy,
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### Crip Camp: A Disability Revolution
-*Released on 2020-03-25, vote average 5.8*
-
-Down the road from Woodstock in the early 1970s, a revolution blossomed in a ramshackle summer camp for disabled teenagers, transforming their young lives and igniting a landmark movement.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XRrIs22plz0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -208,6 +208,8 @@ Down the road from Woodstock in the early 1970s, a revolution blossomed in a ram
 	
 
 	
+	
+	
 
 	
 
@@ -225,8 +227,6 @@ Down the road from Woodstock in the early 1970s, a revolution blossomed in a ram
 
 	
 
-	
-	
 	
 
 	
