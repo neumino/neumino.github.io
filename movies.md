@@ -30,9 +30,16 @@ This is a convenient page that embeds trailers of movies released in the past
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Uncorked
-*Released on 2020-03-27, vote average 6.1*
+*Released on 2020-03-27, vote average 6.2*
 
 Elijah must balance his dream of becoming a master sommelier with his father&#39;s expectations that he carry on the family&#39;s Memphis BBQ joint.
 
@@ -51,15 +58,6 @@ Elijah must balance his dream of becoming a master sommelier with his father&#39
 
 
 	
-	
-	
-
-  
-
-
-	
-	
-	
 
   
 
@@ -70,21 +68,16 @@ Elijah must balance his dream of becoming a master sommelier with his father&#39
 
 
 	
+
+  
+
+
 	
 
-### Altered Carbon: Resleeved
-*Released on 2020-03-19, vote average 6*
+  
 
-On the planet Latimer, Takeshi Kovacs must protect a tattooist while investigating the death of a yakuza boss alongside a no-nonsense CTAC.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/HmDxxoFslzs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
+	
 	
 	
 
@@ -138,53 +131,11 @@ On the planet Latimer, Takeshi Kovacs must protect a tattooist while investigati
 
 	
 	
-
-### Saigon Metalhood
-*Released on 2020-03-31, vote average 3.5*
-
-Three generations of Vietnamese metalheads struggle against an indifferent culture to make their passion heard.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/BsN8Xq7O8WE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Hooking Up
-*Released on 2020-03-20, vote average 10*
-
-Bailey and Darla embark upon a misguided and mutually deceitful form of therapy, one in which they must drive across the country re-enacting Darla&#39;s colorful history as a sex addict. As their true motivations for the road trip come to light, the unlikely pair force one another to confront their issues, discovering that there might actually be more to love than just sex.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/4OKHds153Ws?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -208,8 +159,6 @@ Bailey and Darla embark upon a misguided and mutually deceitful form of therapy,
 	
 
 	
-	
-	
 
 	
 
@@ -237,6 +186,8 @@ Bailey and Darla embark upon a misguided and mutually deceitful form of therapy,
 
 	
 
+	
+	
 	
 
 	
