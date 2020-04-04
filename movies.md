@@ -30,16 +30,9 @@ This is a convenient page that embeds trailers of movies released in the past
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Uncorked
-*Released on 2020-03-27, vote average 6.2*
+*Released on 2020-03-27, vote average 6.4*
 
 Elijah must balance his dream of becoming a master sommelier with his father&#39;s expectations that he carry on the family&#39;s Memphis BBQ joint.
 
@@ -58,26 +51,6 @@ Elijah must balance his dream of becoming a master sommelier with his father&#39
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 	
 
@@ -130,7 +103,30 @@ Elijah must balance his dream of becoming a master sommelier with his father&#39
 
 
 	
+
+  
+
+
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -163,6 +159,16 @@ Elijah must balance his dream of becoming a master sommelier with his father&#39
 	
 
 	
+	
+	
+
+	
+
+	
+
+	
+	
+	
 
 	
 
@@ -180,14 +186,6 @@ Elijah must balance his dream of becoming a master sommelier with his father&#39
 
 	
 
-	
-
-	
-
-	
-
-	
-	
 	
 
 	
