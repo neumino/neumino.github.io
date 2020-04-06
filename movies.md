@@ -11,6 +11,21 @@ This is a convenient page that embeds trailers of movies released in the past
 
 	
 	
+
+### Coffee &amp; Kareem
+*Released on 2020-04-03, vote average 5.7*
+
+A Detroit cop reluctantly teams with his girlfriend&#39;s 11-year-old son to clear his name and take down the city&#39;s most ruthless criminal.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hY9h5o0G_OE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -29,6 +44,30 @@ This is a convenient page that embeds trailers of movies released in the past
 
 
 	
+	
+
+### The Other Lamb
+*Released on 2020-04-03, vote average 6.8*
+
+A haunting and nightmarish tale that tells the story of Selah, a young girl born into a repressive cult known as the Flock. The members of the Flock – all women and female children– live in a rural compound, and are led by one man, known only as Shepherd. Selah, a daughter who is on the cusp of teenage-hood, is given the great honor of participating in the sacred ritual of the birthing of the lambs – upon which they depend for survival – where she has a shocking and otherworldly experience. She begins to have strange visions that make her question her own reality, and everything the Shepherd has taught her and her sisters.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/V0mijnT3ntI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
 
   
 
@@ -36,16 +75,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Coffee &amp; Kareem
-*Released on 2020-04-03, vote average 5*
+### Lazy Susan
+*Released on 2020-04-03, vote average 3.5*
 
-A Detroit cop reluctantly teams with his girlfriend&#39;s 11-year-old son to clear his name and take down the city&#39;s most ruthless criminal.
+Susan has always been the self-centered oddball in her family who lazily skated through life with their begrudging support until one day she wakes up to realize she’s middle-aged with no job, no relationship, and an increasingly estranged family. She finally decides to take charge and turn things around, but never having done anything herself before, the struggle is real (and hilarious) as Susan becomes the woman she always wanted to be, all on her own.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/hY9h5o0G_OE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/yvvuxbX8nR4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -79,16 +118,9 @@ Elijah must balance his dream of becoming a master sommelier with his father&#39
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Resistance
-*Released on 2020-03-27, vote average 8*
+*Released on 2020-03-27, vote average 9*
 
 The story of a group of Jewish Boy Scouts who worked with the French Resistance to save the lives of ten thousand orphans during World War II.
 
@@ -101,6 +133,65 @@ The story of a group of Jewish Boy Scouts who worked with the French Resistance 
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -138,75 +229,12 @@ Thomas is a meek man on the verge of a nervous breakdown. Despite his situation 
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 
 ## Opening soon
 
 
 	
-	
-	
 
-	
-	
 	
 
 	
