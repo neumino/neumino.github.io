@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Coffee &amp; Kareem
-*Released on 2020-04-03, vote average 5.7*
+*Released on 2020-04-03, vote average 5.3*
 
 A Detroit cop reluctantly teams with his girlfriend&#39;s 11-year-old son to clear his name and take down the city&#39;s most ruthless criminal.
 
@@ -75,28 +75,6 @@ A haunting and nightmarish tale that tells the story of Selah, a young girl born
 	
 	
 
-### Lazy Susan
-*Released on 2020-04-03, vote average 3.5*
-
-Susan has always been the self-centered oddball in her family who lazily skated through life with their begrudging support until one day she wakes up to realize she’s middle-aged with no job, no relationship, and an increasingly estranged family. She finally decides to take charge and turn things around, but never having done anything herself before, the struggle is real (and hilarious) as Susan becomes the woman she always wanted to be, all on her own.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/yvvuxbX8nR4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Uncorked
 *Released on 2020-03-27, vote average 6.4*
 
@@ -139,11 +117,6 @@ The story of a group of Jewish Boy Scouts who worked with the French Resistance 
 
 
 	
-
-  
-
-
-	
 	
 	
 
@@ -158,66 +131,78 @@ The story of a group of Jewish Boy Scouts who worked with the French Resistance 
 
 
 	
-
-  
-
-
 	
 
-  
+### Lazy Susan
+*Released on 2020-04-03, vote average 4*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### And What Is He Like?
-*Released on 2020-04-03, vote average 9*
-
-Thomas is a meek man on the verge of a nervous breakdown. Despite his situation he decides to fake a work trip to go to Vallarta to confront Jero, a taxi driver who is sleeping with his wife.
+Susan has always been the self-centered oddball in her family who lazily skated through life with their begrudging support until one day she wakes up to realize she’s middle-aged with no job, no relationship, and an increasingly estranged family. She finally decides to take charge and turn things around, but never having done anything herself before, the struggle is real (and hilarious) as Susan becomes the woman she always wanted to be, all on her own.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/KtkRhUzb7bw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/yvvuxbX8nR4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 	
 
