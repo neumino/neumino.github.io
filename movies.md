@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Coffee &amp; Kareem
-*Released on 2020-04-03, vote average 5.4*
+*Released on 2020-04-03, vote average 5.2*
 
 A Detroit cop reluctantly teams with his girlfriend&#39;s 11-year-old son to clear his name and take down the city&#39;s most ruthless criminal.
 
@@ -66,7 +66,47 @@ A haunting and nightmarish tale that tells the story of Selah, a young girl born
 
 
 	
+
+  
+
+
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Resistance
+*Released on 2020-03-27, vote average 7.7*
+
+The story of a group of Jewish Boy Scouts who worked with the French Resistance to save the lives of ten thousand orphans during World War II.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/B48hwisZvEI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -110,75 +150,10 @@ Elijah must balance his dream of becoming a master sommelier with his father&#39
 
 
 	
-	
-
-### Resistance
-*Released on 2020-03-27, vote average 9*
-
-The story of a group of Jewish Boy Scouts who worked with the French Resistance to save the lives of ten thousand orphans during World War II.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/B48hwisZvEI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Lazy Susan
-*Released on 2020-04-03, vote average 4*
-
-Susan has always been the self-centered oddball in her family who lazily skated through life with their begrudging support until one day she wakes up to realize she’s middle-aged with no job, no relationship, and an increasingly estranged family. She finally decides to take charge and turn things around, but never having done anything herself before, the struggle is real (and hilarious) as Susan becomes the woman she always wanted to be, all on her own.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/yvvuxbX8nR4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -231,12 +206,6 @@ Susan has always been the self-centered oddball in her family who lazily skated 
 	
 
 	
-
-	
-
-	
-
-	
 	
 
 ### Four Kids and It
@@ -262,22 +231,11 @@ A group of kids on holiday in Cornwall meet a magical creature on the beach with
 	
 
 	
-	
-
-### Cut Throat City
-*Released on 2020-04-10, vote average 6*
-
-Four boyhood friends return to New Orleans’ Lower Ninth Ward after Hurricane Katrina, to find their home decimated and prospects for work swept away. Turning to a local gangster for employment, the crew is hired to pull off a daring casino heist, right in the heart of the city.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qCcVIZUVGZA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+	
+
 	
 
 	
