@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Coffee &amp; Kareem
-*Released on 2020-04-03, vote average 5.2*
+*Released on 2020-04-03, vote average 5.4*
 
 A Detroit cop reluctantly teams with his girlfriend&#39;s 11-year-old son to clear his name and take down the city&#39;s most ruthless criminal.
 
@@ -40,6 +40,43 @@ A Detroit cop reluctantly teams with his girlfriend&#39;s 11-year-old son to cle
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+  
+
+
+	
+	
+
+### Gold Dust
+*Released on 2020-04-07, vote average 4*
+
+Along the Mexico border, two friends search for a ghost ship rumored to be buried in the desert sand. In the same area, drug lords employ children; the duo must decide between going after the ship or saving a young girl held captive.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/YsvjYMWoCog?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
   
 
 
@@ -76,37 +113,22 @@ A haunting and nightmarish tale that tells the story of Selah, a young girl born
 
 
 	
-
-  
-
-
 	
 
-  
+### Four Kids and It
+*Released on 2020-04-10, vote average 10*
 
-
-	
-	
-
-### Resistance
-*Released on 2020-03-27, vote average 7.7*
-
-The story of a group of Jewish Boy Scouts who worked with the French Resistance to save the lives of ten thousand orphans during World War II.
+A group of kids on holiday in Cornwall meet a magical creature on the beach with the power to grant wishes.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/B48hwisZvEI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/gH2qKK52E3k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -184,24 +206,9 @@ Elijah must balance his dream of becoming a master sommelier with his father&#39
   
 
 
-	
-
-  
-
-
 
 ## Opening soon
 
-
-	
-
-	
-
-	
-
-	
-
-	
 
 	
 
@@ -224,6 +231,18 @@ A group of kids on holiday in Cornwall meet a magical creature on the beach with
 	
 	
 
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
 	
 
 	
