@@ -46,20 +46,35 @@ A Detroit cop reluctantly teams with his girlfriend&#39;s 11-year-old son to cle
 	
 	
 
-### Gold Dust
-*Released on 2020-04-07, vote average 4*
+### Four Kids and It
+*Released on 2020-04-10, vote average 10*
 
-Along the Mexico border, two friends search for a ghost ship rumored to be buried in the desert sand. In the same area, drug lords employ children; the duo must decide between going after the ship or saving a young girl held captive.
+A group of kids on holiday in Cornwall meet a magical creature on the beach with the power to grant wishes.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/YsvjYMWoCog?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/gH2qKK52E3k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -84,7 +99,7 @@ Along the Mexico border, two friends search for a ghost ship rumored to be burie
 	
 
 ### The Other Lamb
-*Released on 2020-04-03, vote average 7.3*
+*Released on 2020-04-03, vote average 7*
 
 A haunting and nightmarish tale that tells the story of Selah, a young girl born into a repressive cult known as the Flock. The members of the Flock – all women and female children– live in a rural compound, and are led by one man, known only as Shepherd. Selah, a daughter who is on the cusp of teenage-hood, is given the great honor of participating in the sacred ritual of the birthing of the lambs – upon which they depend for survival – where she has a shocking and otherworldly experience. She begins to have strange visions that make her question her own reality, and everything the Shepherd has taught her and her sisters.
 
@@ -108,23 +123,18 @@ A haunting and nightmarish tale that tells the story of Selah, a young girl born
 
 
 	
-
-  
-
-
-	
 	
 
-### Four Kids and It
-*Released on 2020-04-10, vote average 10*
+### Gold Dust
+*Released on 2020-04-07, vote average 4*
 
-A group of kids on holiday in Cornwall meet a magical creature on the beach with the power to grant wishes.
+Along the Mexico border, two friends search for a ghost ship rumored to be buried in the desert sand. In the same area, drug lords employ children; the duo must decide between going after the ship or saving a young girl held captive.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/gH2qKK52E3k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/YsvjYMWoCog?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -136,31 +146,6 @@ A group of kids on holiday in Cornwall meet a magical creature on the beach with
 
 	
 	
-
-### Uncorked
-*Released on 2020-03-27, vote average 6.4*
-
-Elijah must balance his dream of becoming a master sommelier with his father&#39;s expectations that he carry on the family&#39;s Memphis BBQ joint.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/s0sZtjE2MXg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -213,23 +198,6 @@ Elijah must balance his dream of becoming a master sommelier with his father&#39
 	
 
 	
-	
-
-### Four Kids and It
-*Released on 2020-04-10, vote average 10*
-
-A group of kids on holiday in Cornwall meet a magical creature on the beach with the power to grant wishes.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/gH2qKK52E3k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
@@ -241,8 +209,6 @@ A group of kids on holiday in Cornwall meet a magical creature on the beach with
 
 	
 
-	
-	
 	
 
 	
