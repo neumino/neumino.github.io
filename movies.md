@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### The Main Event
-*Released on 2020-04-10, vote average 6.7*
+### Love Wedding Repeat
+*Released on 2020-04-10, vote average 5.7*
 
-After discovering a magical mask, an 11-year-old aspiring wrestler enters a competition to become the next WWE superstar by using special powers from a magical mask.
+While trying to make his sister&#39;s wedding day go smoothly, Jack finds himself juggling an angry ex-girlfriend, an uninvited guest with a secret, a misplaced sleep sedative, and the girl that got away in alternate versions of the same day.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/qt1sP3TBgPk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/x6CyqhYsLqo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,38 @@ After discovering a magical mask, an 11-year-old aspiring wrestler enters a comp
 	
 	
 
-### Love Wedding Repeat
-*Released on 2020-04-10, vote average 5.7*
+### The Main Event
+*Released on 2020-04-10, vote average 6.3*
 
-While trying to make his sister&#39;s wedding day go smoothly, Jack finds himself juggling an angry ex-girlfriend, an uninvited guest with a secret, a misplaced sleep sedative, and the girl that got away in alternate versions of the same day.
+After discovering a magical mask, an 11-year-old aspiring wrestler enters a competition to become the next WWE superstar by using special powers from a magical mask.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/x6CyqhYsLqo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/qt1sP3TBgPk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Mortal Kombat Legends: Scorpion’s Revenge
+*Released on 2020-04-12, vote average 7.1*
+
+After the vicious slaughter of his family by stone-cold mercenary Sub-Zero, Hanzo Hasashi is exiled to the torturous Netherrealm. There, in exchange for his servitude to the sinister Quan Chi, he’s given a chance to avenge his family – and is resurrected as Scorpion, a lost soul bent on revenge. Back on Earthrealm, Lord Raiden gathers a team of elite warriors – Shaolin monk Liu Kang, Special Forces officer Sonya Blade and action star Johnny Cage – an unlikely band of heroes with one chance to save humanity. To do this, they must defeat Shang Tsung’s horde of Outworld gladiators and reign over the Mortal Kombat tournament.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/I1vccr3yWBU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -89,35 +111,6 @@ A man reflects on the lost love of his youth and his long-ago journey from Taiwa
 
 	
 	
-	
-
-  
-
-
-	
-	
-
-### Mortal Kombat Legends: Scorpion’s Revenge
-*Released on 2020-04-12, vote average 6.6*
-
-After the vicious slaughter of his family by stone-cold mercenary Sub-Zero, Hanzo Hasashi is exiled to the torturous Netherrealm. There, in exchange for his servitude to the sinister Quan Chi, he’s given a chance to avenge his family – and is resurrected asScorpion, a lost soul bent on revenge. Back on Earthrealm, Lord Raiden gathers a team of elite warriors – Shaolin monk Liu Kang, Special Forces officer Sonya Blade and action star Johnny Cage – an unlikely band of heroes with one chance to save humanity. To do this, they must defeat Shang Tsung’s horde of Outworld gladiators and reign over the Mortal Kombat tournament.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/I1vccr3yWBU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
 
 ### Coffee &amp; Kareem
 *Released on 2020-04-03, vote average 5.5*
@@ -139,6 +132,30 @@ A Detroit cop reluctantly teams with his girlfriend&#39;s 11-year-old son to cle
 
 
 	
+	
+	
+
+  
+
+
+	
+	
+
+### Money Heist: The Phenomenon
+*Released on 2020-04-03, vote average 7.6*
+
+A documentary on why and how &#39;Money Heist&#39; sparked a wave of enthusiasm around the world for a lovable group of thieves and their professor.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/aGcYHaFaj8s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -147,7 +164,7 @@ A Detroit cop reluctantly teams with his girlfriend&#39;s 11-year-old son to cle
 	
 
 ### Four Kids and It
-*Released on 2020-04-10, vote average 10*
+*Released on 2020-04-10, vote average 8*
 
 A group of kids on holiday in Cornwall meet a magical creature on the beach with the power to grant wishes.
 
@@ -188,23 +205,6 @@ A haunting and nightmarish tale that tells the story of Selah, a young girl born
 
 
 	
-	
-
-### Money Heist: The Phenomenon
-*Released on 2020-04-03, vote average 7.6*
-
-A documentary on why and how &#39;Money Heist&#39; sparked a wave of enthusiasm around the world for a lovable group of thieves and their professor.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/aGcYHaFaj8s?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -238,7 +238,7 @@ A documentary on why and how &#39;Money Heist&#39; sparked a wave of enthusiasm 
 	
 
 ### LA Originals
-*Released on 2020-04-10, vote average 7.5*
+*Released on 2020-04-10, vote average 7*
 
 Photographer Estevan Oriol and artist Mister Cartoon turned their Chicano roots into gritty art, impacting street culture, hip hop and beyond.
 
@@ -257,29 +257,10 @@ Photographer Estevan Oriol and artist Mister Cartoon turned their Chicano roots 
 
 
 	
-	
-
-### Corona Zombies
-*Released on 2020-04-10, vote average 5.3*
-
-Ditsy damsels in distress, toilet paper famine, inept world leaders, mass-media gone wild, a virus from Hell and hordes of ghouls hungry for human flesh combine in Full Moon&#39;s maniacal horror comedy hybrid CORONA ZOMBIES!
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/uExFZJWxGXg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
-	
-	
 	
 
   
@@ -290,6 +271,8 @@ Ditsy damsels in distress, toilet paper famine, inept world leaders, mass-media 
   
 
 
+	
+	
 	
 
   
@@ -317,6 +300,23 @@ Ditsy damsels in distress, toilet paper famine, inept world leaders, mass-media 
 
 	
 
+	
+	
+
+### Bad Therapy
+*Released on 2020-04-17, vote average 1*
+
+Married couple Bob and Susan Howard decide to see a marriage counselor named Judy Small, who appears trustworthy but harbors dark and conflicted impulses
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mgoo4dvshLw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
