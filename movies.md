@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Love Wedding Repeat
-*Released on 2020-04-10, vote average 5.7*
+*Released on 2020-04-10, vote average 5.6*
 
 While trying to make his sister&#39;s wedding day go smoothly, Jack finds himself juggling an angry ex-girlfriend, an uninvited guest with a secret, a misplaced sleep sedative, and the girl that got away in alternate versions of the same day.
 
@@ -46,28 +46,6 @@ While trying to make his sister&#39;s wedding day go smoothly, Jack finds himsel
 	
 	
 
-### The Main Event
-*Released on 2020-04-10, vote average 6.3*
-
-After discovering a magical mask, an 11-year-old aspiring wrestler enters a competition to become the next WWE superstar by using special powers from a magical mask.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qt1sP3TBgPk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Mortal Kombat Legends: Scorpion’s Revenge
 *Released on 2020-04-12, vote average 7.1*
 
@@ -90,16 +68,45 @@ After the vicious slaughter of his family by stone-cold mercenary Sub-Zero, Hanz
 	
 	
 
-### Tigertail
-*Released on 2020-04-10, vote average 7.5*
+### The Main Event
+*Released on 2020-04-10, vote average 6.4*
 
-A man reflects on the lost love of his youth and his long-ago journey from Taiwan to America as he begins to reconnect with his estranged daughter.
+After discovering a magical mask, an 11-year-old aspiring wrestler enters a competition to become the next WWE superstar by using special powers from a magical mask.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/fxv73Lo1iBE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/qt1sP3TBgPk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Chris D&#39;Elia: No Pain
+*Released on 2020-04-14, vote average 8*
+
+Chris D&#39;Elia takes the stage in Minneapolis to offer his thoughts on everything from self-censorship to problematic dolphins to lame mutant powers.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/DZ9cN01ILXM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -133,6 +140,46 @@ A Detroit cop reluctantly teams with his girlfriend&#39;s 11-year-old son to cle
 
 	
 	
+
+### Tigertail
+*Released on 2020-04-10, vote average 7.3*
+
+A man reflects on the lost love of his youth and his long-ago journey from Taiwan to America as he begins to reconnect with his estranged daughter.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fxv73Lo1iBE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -162,21 +209,26 @@ A documentary on why and how &#39;Money Heist&#39; sparked a wave of enthusiasm 
 
 	
 	
+	
 
-### Four Kids and It
-*Released on 2020-04-10, vote average 8*
+  
 
-A group of kids on holiday in Cornwall meet a magical creature on the beach with the power to grant wishes.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/gH2qKK52E3k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -209,82 +261,9 @@ A haunting and nightmarish tale that tells the story of Selah, a young girl born
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### LA Originals
-*Released on 2020-04-10, vote average 7*
-
-Photographer Estevan Oriol and artist Mister Cartoon turned their Chicano roots into gritty art, impacting street culture, hip hop and beyond.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/y_01QJYDavw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 
 ## Opening soon
 
-
-	
-
-	
 
 	
 
@@ -317,6 +296,10 @@ Married couple Bob and Susan Howard decide to see a marriage counselor named Jud
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
 	
 
 	
