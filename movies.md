@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Love Wedding Repeat
-*Released on 2020-04-10, vote average 5.6*
+### Mortal Kombat Legends: Scorpion’s Revenge
+*Released on 2020-04-12, vote average 7.7*
 
-While trying to make his sister&#39;s wedding day go smoothly, Jack finds himself juggling an angry ex-girlfriend, an uninvited guest with a secret, a misplaced sleep sedative, and the girl that got away in alternate versions of the same day.
+After the vicious slaughter of his family by stone-cold mercenary Sub-Zero, Hanzo Hasashi is exiled to the torturous Netherrealm. There, in exchange for his servitude to the sinister Quan Chi, he’s given a chance to avenge his family – and is resurrected as Scorpion, a lost soul bent on revenge. Back on Earthrealm, Lord Raiden gathers a team of elite warriors – Shaolin monk Liu Kang, Special Forces officer Sonya Blade and action star Johnny Cage – an unlikely band of heroes with one chance to save humanity. To do this, they must defeat Shang Tsung’s horde of Outworld gladiators and reign over the Mortal Kombat tournament.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/x6CyqhYsLqo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/I1vccr3yWBU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ While trying to make his sister&#39;s wedding day go smoothly, Jack finds himsel
 	
 	
 
-### Mortal Kombat Legends: Scorpion’s Revenge
-*Released on 2020-04-12, vote average 7.1*
+### Love Wedding Repeat
+*Released on 2020-04-10, vote average 5.6*
 
-After the vicious slaughter of his family by stone-cold mercenary Sub-Zero, Hanzo Hasashi is exiled to the torturous Netherrealm. There, in exchange for his servitude to the sinister Quan Chi, he’s given a chance to avenge his family – and is resurrected as Scorpion, a lost soul bent on revenge. Back on Earthrealm, Lord Raiden gathers a team of elite warriors – Shaolin monk Liu Kang, Special Forces officer Sonya Blade and action star Johnny Cage – an unlikely band of heroes with one chance to save humanity. To do this, they must defeat Shang Tsung’s horde of Outworld gladiators and reign over the Mortal Kombat tournament.
+While trying to make his sister&#39;s wedding day go smoothly, Jack finds himself juggling an angry ex-girlfriend, an uninvited guest with a secret, a misplaced sleep sedative, and the girl that got away in alternate versions of the same day.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/I1vccr3yWBU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/x6CyqhYsLqo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@ After the vicious slaughter of his family by stone-cold mercenary Sub-Zero, Hanz
 	
 
 ### The Main Event
-*Released on 2020-04-10, vote average 6.4*
+*Released on 2020-04-10, vote average 6.2*
 
 After discovering a magical mask, an 11-year-old aspiring wrestler enters a competition to become the next WWE superstar by using special powers from a magical mask.
 
@@ -88,7 +88,10 @@ After discovering a magical mask, an 11-year-old aspiring wrestler enters a comp
 
 
 	
-	
+
+  
+
+
 	
 
   
@@ -96,21 +99,16 @@ After discovering a magical mask, an 11-year-old aspiring wrestler enters a comp
 
 	
 	
+	
 
-### Chris D&#39;Elia: No Pain
-*Released on 2020-04-14, vote average 8*
+  
 
-Chris D&#39;Elia takes the stage in Minneapolis to offer his thoughts on everything from self-censorship to problematic dolphins to lame mutant powers.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/DZ9cN01ILXM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
 	
 
   
@@ -139,10 +137,20 @@ A Detroit cop reluctantly teams with his girlfriend&#39;s 11-year-old son to cle
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### Tigertail
-*Released on 2020-04-10, vote average 7.3*
+*Released on 2020-04-10, vote average 6.8*
 
 A man reflects on the lost love of his youth and his long-ago journey from Taiwan to America as he begins to reconnect with his estranged daughter.
 
@@ -161,10 +169,66 @@ A man reflects on the lost love of his youth and his long-ago journey from Taiwa
 
 
 	
+	
+
+### The Other Lamb
+*Released on 2020-04-03, vote average 6.7*
+
+A haunting and nightmarish tale that tells the story of Selah, a young girl born into a repressive cult known as the Flock. The members of the Flock – all women and female children– live in a rural compound, and are led by one man, known only as Shepherd. Selah, a daughter who is on the cusp of teenage-hood, is given the great honor of participating in the sacred ritual of the birthing of the lambs – upon which they depend for survival – where she has a shocking and otherworldly experience. She begins to have strange visions that make her question her own reality, and everything the Shepherd has taught her and her sisters.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/V0mijnT3ntI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
+	
+	
+
+### Chris D&#39;Elia: No Pain
+*Released on 2020-04-14, vote average 7*
+
+Chris D&#39;Elia takes the stage in Minneapolis to offer his thoughts on everything from self-censorship to problematic dolphins to lame mutant powers.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/DZ9cN01ILXM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Bad Therapy
+*Released on 2020-04-17, vote average 1*
+
+Married couple Bob and Susan Howard decide to see a marriage counselor named Judy Small, who appears trustworthy but harbors dark and conflicted impulses
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mgoo4dvshLw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -208,55 +272,6 @@ A documentary on why and how &#39;Money Heist&#39; sparked a wave of enthusiasm 
 
 
 	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Other Lamb
-*Released on 2020-04-03, vote average 7*
-
-A haunting and nightmarish tale that tells the story of Selah, a young girl born into a repressive cult known as the Flock. The members of the Flock – all women and female children– live in a rural compound, and are led by one man, known only as Shepherd. Selah, a daughter who is on the cusp of teenage-hood, is given the great honor of participating in the sacred ritual of the birthing of the lambs – upon which they depend for survival – where she has a shocking and otherworldly experience. She begins to have strange visions that make her question her own reality, and everything the Shepherd has taught her and her sisters.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/V0mijnT3ntI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 
   
 
@@ -264,18 +279,6 @@ A haunting and nightmarish tale that tells the story of Selah, a young girl born
 
 ## Opening soon
 
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
 
 	
 
@@ -296,6 +299,35 @@ Married couple Bob and Susan Howard decide to see a marriage counselor named Jud
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+	
+
+### Dream Horse
+*Released on 2020-04-17, vote average 2*
+
+A barmaid recruits her husband and a group of others to assist her in training a racehorse in the Welsh countryside.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/31j5SqMp7F0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
 	
 
 	
