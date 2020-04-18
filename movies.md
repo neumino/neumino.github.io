@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Mortal Kombat Legends: Scorpion’s Revenge
-*Released on 2020-04-12, vote average 7.7*
+*Released on 2020-04-12, vote average 8.4*
 
 After the vicious slaughter of his family by stone-cold mercenary Sub-Zero, Hanzo Hasashi is exiled to the torturous Netherrealm. There, in exchange for his servitude to the sinister Quan Chi, he’s given a chance to avenge his family – and is resurrected as Scorpion, a lost soul bent on revenge. Back on Earthrealm, Lord Raiden gathers a team of elite warriors – Shaolin monk Liu Kang, Special Forces officer Sonya Blade and action star Johnny Cage – an unlikely band of heroes with one chance to save humanity. To do this, they must defeat Shang Tsung’s horde of Outworld gladiators and reign over the Mortal Kombat tournament.
 
@@ -47,7 +47,7 @@ After the vicious slaughter of his family by stone-cold mercenary Sub-Zero, Hanz
 	
 
 ### Love Wedding Repeat
-*Released on 2020-04-10, vote average 5.6*
+*Released on 2020-04-10, vote average 5.7*
 
 While trying to make his sister&#39;s wedding day go smoothly, Jack finds himself juggling an angry ex-girlfriend, an uninvited guest with a secret, a misplaced sleep sedative, and the girl that got away in alternate versions of the same day.
 
@@ -69,7 +69,7 @@ While trying to make his sister&#39;s wedding day go smoothly, Jack finds himsel
 	
 
 ### The Main Event
-*Released on 2020-04-10, vote average 6.2*
+*Released on 2020-04-10, vote average 6.7*
 
 After discovering a magical mask, an 11-year-old aspiring wrestler enters a competition to become the next WWE superstar by using special powers from a magical mask.
 
@@ -88,125 +88,12 @@ After discovering a magical mask, an 11-year-old aspiring wrestler enters a comp
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 	
 
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Coffee &amp; Kareem
-*Released on 2020-04-03, vote average 5.5*
-
-A Detroit cop reluctantly teams with his girlfriend&#39;s 11-year-old son to clear his name and take down the city&#39;s most ruthless criminal.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hY9h5o0G_OE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Tigertail
-*Released on 2020-04-10, vote average 6.8*
-
-A man reflects on the lost love of his youth and his long-ago journey from Taiwan to America as he begins to reconnect with his estranged daughter.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/fxv73Lo1iBE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Other Lamb
-*Released on 2020-04-03, vote average 6.7*
-
-A haunting and nightmarish tale that tells the story of Selah, a young girl born into a repressive cult known as the Flock. The members of the Flock – all women and female children– live in a rural compound, and are led by one man, known only as Shepherd. Selah, a daughter who is on the cusp of teenage-hood, is given the great honor of participating in the sacred ritual of the birthing of the lambs – upon which they depend for survival – where she has a shocking and otherworldly experience. She begins to have strange visions that make her question her own reality, and everything the Shepherd has taught her and her sisters.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/V0mijnT3ntI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Chris D&#39;Elia: No Pain
-*Released on 2020-04-14, vote average 7*
-
-Chris D&#39;Elia takes the stage in Minneapolis to offer his thoughts on everything from self-censorship to problematic dolphins to lame mutant powers.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/DZ9cN01ILXM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -243,67 +130,6 @@ Married couple Bob and Susan Howard decide to see a marriage counselor named Jud
 
   
 
-
-	
-
-  
-
-
-	
-	
-
-### Money Heist: The Phenomenon
-*Released on 2020-04-03, vote average 7.6*
-
-A documentary on why and how &#39;Money Heist&#39; sparked a wave of enthusiasm around the world for a lovable group of thieves and their professor.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/aGcYHaFaj8s?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-
-## Opening soon
-
-
-	
-
-	
-	
-
-### Bad Therapy
-*Released on 2020-04-17, vote average 1*
-
-Married couple Bob and Susan Howard decide to see a marriage counselor named Judy Small, who appears trustworthy but harbors dark and conflicted impulses
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/mgoo4dvshLw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
 
 	
 	
@@ -322,6 +148,112 @@ A barmaid recruits her husband and a group of others to assist her in training a
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Made in Senegal
+*Released on 2020-04-08, vote average 10*
+
+Sadio&#39;s story is the classical heroes journey and and archetype for African football players. Blessed with exceptional talent, he sets out from his village to find his destiny in the world - defying his family, social structures, doubters and injuries - to come back triumphant and able to help those around him.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/03RIVo7fZQ8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Tigertail
+*Released on 2020-04-10, vote average 7*
+
+A man reflects on the lost love of his youth and his long-ago journey from Taiwan to America as he begins to reconnect with his estranged daughter.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fxv73Lo1iBE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+
+## Opening soon
+
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
