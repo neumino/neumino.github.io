@@ -68,6 +68,72 @@ While trying to make his sister&#39;s wedding day go smoothly, Jack finds himsel
 	
 	
 
+### Bad Therapy
+*Released on 2020-04-17, vote average 1*
+
+Married couple Bob and Susan Howard decide to see a marriage counselor named Judy Small, who appears trustworthy but harbors dark and conflicted impulses
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mgoo4dvshLw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Sergio
+*Released on 2020-04-17, vote average 6.7*
+
+A sweeping drama set in the chaotic aftermath of the US invasion of Iraq, where the life of top UN diplomat Sergio Vieira de Mello hangs in the balance during the most treacherous mission of his career.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/h03jLiWIXVI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Behind You
+*Released on 2020-04-17, vote average 10*
+
+Two young sisters find that all the mirrors in their estranged aunt&#39;s house are covered or hidden. When one of them happens upon a mirror in the basement, she unknowingly releases a malicious demon.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/SCJRwqaTcTA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Main Event
 *Released on 2020-04-10, vote average 6.7*
 
@@ -89,85 +155,21 @@ After discovering a magical mask, an 11-year-old aspiring wrestler enters a comp
 
 	
 	
-	
 
-  
+### Earth and Blood
+*Released on 2020-04-17, vote average 6*
 
-
-	
-
-  
-
-
-	
-	
-
-### Bad Therapy
-*Released on 2020-04-17, vote average 1*
-
-Married couple Bob and Susan Howard decide to see a marriage counselor named Judy Small, who appears trustworthy but harbors dark and conflicted impulses
+A sawmill owner and his teenage daughter become tangled in a deadly feud when a drug dealer stashes stolen cocaine on their remote property.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/mgoo4dvshLw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/prchZUT26KM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Dream Horse
-*Released on 2020-04-17, vote average 2*
-
-A barmaid recruits her husband and a group of others to assist her in training a racehorse in the Welsh countryside.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/31j5SqMp7F0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -196,6 +198,8 @@ Sadio&#39;s story is the classical heroes journey and and archetype for African 
 
 
 	
+	
+	
 
   
 
@@ -203,20 +207,86 @@ Sadio&#39;s story is the classical heroes journey and and archetype for African 
 	
 	
 
-### Tigertail
-*Released on 2020-04-10, vote average 7*
+### Dream Horse
+*Released on 2020-04-17, vote average 2*
 
-A man reflects on the lost love of his youth and his long-ago journey from Taiwan to America as he begins to reconnect with his estranged daughter.
+A barmaid recruits her husband and a group of others to assist her in training a racehorse in the Welsh countryside.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/fxv73Lo1iBE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/31j5SqMp7F0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Corona Zombies
+*Released on 2020-04-10, vote average 6.2*
+
+Ditsy damsels in distress, toilet paper famine, inept world leaders, mass-media gone wild, a virus from Hell and hordes of ghouls hungry for human flesh combine in Full Moon&#39;s maniacal horror comedy hybrid CORONA ZOMBIES!
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/uExFZJWxGXg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Rising High
+*Released on 2020-04-17, vote average 5.4*
+
+Charting the rise and fall of three corrupt real estate agents who accumulate absurd wealth in no time but fall into a vortex of fraud, greed and drugs.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/cJl2EvFO_fE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
