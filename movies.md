@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Mortal Kombat Legends: Scorpion’s Revenge
-*Released on 2020-04-12, vote average 8.4*
+*Released on 2020-04-12, vote average 8.5*
 
 After the vicious slaughter of his family by stone-cold mercenary Sub-Zero, Hanzo Hasashi is exiled to the torturous Netherrealm. There, in exchange for his servitude to the sinister Quan Chi, he’s given a chance to avenge his family – and is resurrected as Scorpion, a lost soul bent on revenge. Back on Earthrealm, Lord Raiden gathers a team of elite warriors – Shaolin monk Liu Kang, Special Forces officer Sonya Blade and action star Johnny Cage – an unlikely band of heroes with one chance to save humanity. To do this, they must defeat Shang Tsung’s horde of Outworld gladiators and reign over the Mortal Kombat tournament.
 
@@ -46,28 +46,6 @@ After the vicious slaughter of his family by stone-cold mercenary Sub-Zero, Hanz
 	
 	
 
-### Love Wedding Repeat
-*Released on 2020-04-10, vote average 5.7*
-
-While trying to make his sister&#39;s wedding day go smoothly, Jack finds himself juggling an angry ex-girlfriend, an uninvited guest with a secret, a misplaced sleep sedative, and the girl that got away in alternate versions of the same day.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/x6CyqhYsLqo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Bad Therapy
 *Released on 2020-04-17, vote average 1*
 
@@ -91,7 +69,7 @@ Married couple Bob and Susan Howard decide to see a marriage counselor named Jud
 	
 
 ### Sergio
-*Released on 2020-04-17, vote average 6.7*
+*Released on 2020-04-17, vote average 7.3*
 
 A sweeping drama set in the chaotic aftermath of the US invasion of Iraq, where the life of top UN diplomat Sergio Vieira de Mello hangs in the balance during the most treacherous mission of his career.
 
@@ -113,7 +91,7 @@ A sweeping drama set in the chaotic aftermath of the US invasion of Iraq, where 
 	
 
 ### Behind You
-*Released on 2020-04-17, vote average 10*
+*Released on 2020-04-17, vote average 5.5*
 
 Two young sisters find that all the mirrors in their estranged aunt&#39;s house are covered or hidden. When one of them happens upon a mirror in the basement, she unknowingly releases a malicious demon.
 
@@ -134,8 +112,30 @@ Two young sisters find that all the mirrors in their estranged aunt&#39;s house 
 	
 	
 
+### Love Wedding Repeat
+*Released on 2020-04-10, vote average 5.7*
+
+While trying to make his sister&#39;s wedding day go smoothly, Jack finds himself juggling an angry ex-girlfriend, an uninvited guest with a secret, a misplaced sleep sedative, and the girl that got away in alternate versions of the same day.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/x6CyqhYsLqo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Main Event
-*Released on 2020-04-10, vote average 6.7*
+*Released on 2020-04-10, vote average 6.9*
 
 After discovering a magical mask, an 11-year-old aspiring wrestler enters a competition to become the next WWE superstar by using special powers from a magical mask.
 
@@ -157,7 +157,7 @@ After discovering a magical mask, an 11-year-old aspiring wrestler enters a comp
 	
 
 ### Earth and Blood
-*Released on 2020-04-17, vote average 6*
+*Released on 2020-04-17, vote average 6.5*
 
 A sawmill owner and his teenage daughter become tangled in a deadly feud when a drug dealer stashes stolen cocaine on their remote property.
 
@@ -166,6 +166,35 @@ A sawmill owner and his teenage daughter become tangled in a deadly feud when a 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/prchZUT26KM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Rising High
+*Released on 2020-04-17, vote average 7.2*
+
+Charting the rise and fall of three corrupt real estate agents who accumulate absurd wealth in no time but fall into a vortex of fraud, greed and drugs.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/cJl2EvFO_fE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -198,8 +227,6 @@ Sadio&#39;s story is the classical heroes journey and and archetype for African 
 
 
 	
-	
-	
 
   
 
@@ -207,16 +234,16 @@ Sadio&#39;s story is the classical heroes journey and and archetype for African 
 	
 	
 
-### Dream Horse
-*Released on 2020-04-17, vote average 2*
+### Nature of Love
+*Released on 2020-04-18, vote average 5*
 
-A barmaid recruits her husband and a group of others to assist her in training a racehorse in the Welsh countryside.
+City girl Katie is writing a magazine feature on a glamping resort. Far from sporty, she faces her fears trying the camp’s activities with help from Will, a rugged outdoorsman and nature guide.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/31j5SqMp7F0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/08wp-6PyJ6s?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -227,6 +254,31 @@ A barmaid recruits her husband and a group of others to assist her in training a
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Quarry
+*Released on 2020-04-17, vote average 2*
+
+A man on the run from his own sins, finds himself in a small border town in Texas, impersonating a reverend. The town are quickly drawn to the man&#39;s unorthodox sermons, but so is a police chief who has his suspicions.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2sgghEuYESQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -261,52 +313,32 @@ Ditsy damsels in distress, toilet paper famine, inept world leaders, mass-media 
 
 
 	
+
+  
+
+
 	
 
-### Rising High
-*Released on 2020-04-17, vote average 5.4*
+  
 
-Charting the rise and fall of three corrupt real estate agents who accumulate absurd wealth in no time but fall into a vortex of fraud, greed and drugs.
+
+	
+	
+
+### Dream Horse
+*Released on 2020-04-17, vote average 2*
+
+A barmaid recruits her husband and a group of others to assist her in training a racehorse in the Welsh countryside.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/cJl2EvFO_fE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/31j5SqMp7F0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
