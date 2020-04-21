@@ -49,13 +49,13 @@ After the vicious slaughter of his family by stone-cold mercenary Sub-Zero, Hanz
 ### Bad Therapy
 *Released on 2020-04-17, vote average 1*
 
-Married couple Bob and Susan Howard decide to see a marriage counselor named Judy Small, who appears trustworthy but harbors dark and conflicted impulses
+Married couple Bob and Susan Howard decide to see a marriage counselor named Judy Small, who appears trustworthy but harbors dark and conflicted impulses.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/mgoo4dvshLw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/zccv-OeJSys?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@ Married couple Bob and Susan Howard decide to see a marriage counselor named Jud
 	
 
 ### Sergio
-*Released on 2020-04-17, vote average 7.3*
+*Released on 2020-04-17, vote average 7.4*
 
 A sweeping drama set in the chaotic aftermath of the US invasion of Iraq, where the life of top UN diplomat Sergio Vieira de Mello hangs in the balance during the most treacherous mission of his career.
 
@@ -78,28 +78,6 @@ A sweeping drama set in the chaotic aftermath of the US invasion of Iraq, where 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/h03jLiWIXVI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Behind You
-*Released on 2020-04-17, vote average 5.5*
-
-Two young sisters find that all the mirrors in their estranged aunt&#39;s house are covered or hidden. When one of them happens upon a mirror in the basement, she unknowingly releases a malicious demon.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/SCJRwqaTcTA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,8 +112,74 @@ While trying to make his sister&#39;s wedding day go smoothly, Jack finds himsel
 	
 	
 
+### Earth and Blood
+*Released on 2020-04-17, vote average 6.4*
+
+A sawmill owner and his teenage daughter become tangled in a deadly feud when a drug dealer stashes stolen cocaine on their remote property.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/prchZUT26KM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Rising High
+*Released on 2020-04-17, vote average 7.2*
+
+Charting the rise and fall of three corrupt real estate agents who accumulate absurd wealth in no time but fall into a vortex of fraud, greed and drugs.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/cJl2EvFO_fE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Behind You
+*Released on 2020-04-17, vote average 7*
+
+Two young sisters find that all the mirrors in their estranged aunt&#39;s house are covered or hidden. When one of them happens upon a mirror in the basement, she unknowingly releases a malicious demon.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/SCJRwqaTcTA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Main Event
-*Released on 2020-04-10, vote average 6.9*
+*Released on 2020-04-10, vote average 7*
 
 After discovering a magical mask, an 11-year-old aspiring wrestler enters a competition to become the next WWE superstar by using special powers from a magical mask.
 
@@ -156,45 +200,16 @@ After discovering a magical mask, an 11-year-old aspiring wrestler enters a comp
 	
 	
 
-### Earth and Blood
-*Released on 2020-04-17, vote average 6.5*
+### Here We Are: Notes for Living on Planet Earth
+*Released on 2020-04-17, vote average 8.5*
 
-A sawmill owner and his teenage daughter become tangled in a deadly feud when a drug dealer stashes stolen cocaine on their remote property.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/prchZUT26KM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Rising High
-*Released on 2020-04-17, vote average 7.2*
-
-Charting the rise and fall of three corrupt real estate agents who accumulate absurd wealth in no time but fall into a vortex of fraud, greed and drugs.
+On the eve of Earth Day, a precocious seven-year-old learns about the wonders of the planet from his parents—and a mysterious exhibit at the aptly named Museum of Everything. Based on the best-selling children&#39;s book by Oliver Jeffers.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/cJl2EvFO_fE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/L8nk1M1DbGQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -234,6 +249,50 @@ Sadio&#39;s story is the classical heroes journey and and archetype for African 
 	
 	
 
+### The Quarry
+*Released on 2020-04-17, vote average 6*
+
+A man on the run from his own sins, finds himself in a small border town in Texas, impersonating a reverend. The town are quickly drawn to the man&#39;s unorthodox sermons, but so is a police chief who has his suspicions.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2sgghEuYESQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### Nature of Love
 *Released on 2020-04-18, vote average 5*
 
@@ -254,79 +313,10 @@ City girl Katie is writing a magazine feature on a glamping resort. Far from spo
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Quarry
-*Released on 2020-04-17, vote average 2*
-
-A man on the run from his own sins, finds himself in a small border town in Texas, impersonating a reverend. The town are quickly drawn to the man&#39;s unorthodox sermons, but so is a police chief who has his suspicions.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2sgghEuYESQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Corona Zombies
-*Released on 2020-04-10, vote average 6.2*
-
-Ditsy damsels in distress, toilet paper famine, inept world leaders, mass-media gone wild, a virus from Hell and hordes of ghouls hungry for human flesh combine in Full Moon&#39;s maniacal horror comedy hybrid CORONA ZOMBIES!
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/uExFZJWxGXg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### Dream Horse
-*Released on 2020-04-17, vote average 2*
+*Released on 2020-04-17, vote average 3.5*
 
 A barmaid recruits her husband and a group of others to assist her in training a racehorse in the Welsh countryside.
 
@@ -344,6 +334,33 @@ A barmaid recruits her husband and a group of others to assist her in training a
   
 
 
+	
+	
+
+### Tigertail
+*Released on 2020-04-10, vote average 7*
+
+A man reflects on the lost love of his youth and his long-ago journey from Taiwan to America as he begins to reconnect with his estranged daughter.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fxv73Lo1iBE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -352,6 +369,8 @@ A barmaid recruits her husband and a group of others to assist her in training a
 
 	
 
+	
+	
 	
 
 	
