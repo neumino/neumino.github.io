@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Mortal Kombat Legends: Scorpion’s Revenge
-*Released on 2020-04-12, vote average 8.5*
+*Released on 2020-04-12, vote average 8.6*
 
 After the vicious slaughter of his family by stone-cold mercenary Sub-Zero, Hanzo Hasashi is exiled to the torturous Netherrealm. There, in exchange for his servitude to the sinister Quan Chi, he’s given a chance to avenge his family – and is resurrected as Scorpion, a lost soul bent on revenge. Back on Earthrealm, Lord Raiden gathers a team of elite warriors – Shaolin monk Liu Kang, Special Forces officer Sonya Blade and action star Johnny Cage – an unlikely band of heroes with one chance to save humanity. To do this, they must defeat Shang Tsung’s horde of Outworld gladiators and reign over the Mortal Kombat tournament.
 
@@ -47,7 +47,7 @@ After the vicious slaughter of his family by stone-cold mercenary Sub-Zero, Hanz
 	
 
 ### Bad Therapy
-*Released on 2020-04-17, vote average 1*
+*Released on 2020-04-17, vote average 3.3*
 
 Married couple Bob and Susan Howard decide to see a marriage counselor named Judy Small, who appears trustworthy but harbors dark and conflicted impulses.
 
@@ -56,28 +56,6 @@ Married couple Bob and Susan Howard decide to see a marriage counselor named Jud
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/zccv-OeJSys?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Sergio
-*Released on 2020-04-17, vote average 7.4*
-
-A sweeping drama set in the chaotic aftermath of the US invasion of Iraq, where the life of top UN diplomat Sergio Vieira de Mello hangs in the balance during the most treacherous mission of his career.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/h03jLiWIXVI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,8 +90,30 @@ While trying to make his sister&#39;s wedding day go smoothly, Jack finds himsel
 	
 	
 
+### Sergio
+*Released on 2020-04-17, vote average 7.2*
+
+A sweeping drama set in the chaotic aftermath of the US invasion of Iraq, where the life of top UN diplomat Sergio Vieira de Mello hangs in the balance during the most treacherous mission of his career.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/h03jLiWIXVI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Earth and Blood
-*Released on 2020-04-17, vote average 6.4*
+*Released on 2020-04-17, vote average 6.5*
 
 A sawmill owner and his teenage daughter become tangled in a deadly feud when a drug dealer stashes stolen cocaine on their remote property.
 
@@ -135,7 +135,7 @@ A sawmill owner and his teenage daughter become tangled in a deadly feud when a 
 	
 
 ### Rising High
-*Released on 2020-04-17, vote average 7.2*
+*Released on 2020-04-17, vote average 7.1*
 
 Charting the rise and fall of three corrupt real estate agents who accumulate absurd wealth in no time but fall into a vortex of fraud, greed and drugs.
 
@@ -144,28 +144,6 @@ Charting the rise and fall of three corrupt real estate agents who accumulate ab
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/cJl2EvFO_fE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Behind You
-*Released on 2020-04-17, vote average 7*
-
-Two young sisters find that all the mirrors in their estranged aunt&#39;s house are covered or hidden. When one of them happens upon a mirror in the basement, she unknowingly releases a malicious demon.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/SCJRwqaTcTA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -200,28 +178,6 @@ After discovering a magical mask, an 11-year-old aspiring wrestler enters a comp
 	
 	
 
-### Here We Are: Notes for Living on Planet Earth
-*Released on 2020-04-17, vote average 8.5*
-
-On the eve of Earth Day, a precocious seven-year-old learns about the wonders of the planet from his parents—and a mysterious exhibit at the aptly named Museum of Everything. Based on the best-selling children&#39;s book by Oliver Jeffers.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/L8nk1M1DbGQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Made in Senegal
 *Released on 2020-04-08, vote average 10*
 
@@ -241,6 +197,23 @@ Sadio&#39;s story is the classical heroes journey and and archetype for African 
   
 
 
+	
+	
+
+### Behind You
+*Released on 2020-04-17, vote average 7*
+
+Two young sisters find that all the mirrors in their estranged aunt&#39;s house are covered or hidden. When one of them happens upon a mirror in the basement, she unknowingly releases a malicious demon.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/SCJRwqaTcTA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -269,7 +242,61 @@ A man on the run from his own sins, finds himself in a small border town in Texa
 
 
 	
+
+  
+
+
 	
+	
+
+### Bad Trip
+*Released on 2020-04-17, vote average 7.3*
+
+This mix of a scripted buddy comedy road movie and a real hidden camera prank show follows the outrages misadventures of two buds stuck in a rut who embark on a cross-country road trip to NYC. The storyline sets up shocking real pranks.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Ue3XdtKEaqI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Here We Are: Notes for Living on Planet Earth
+*Released on 2020-04-17, vote average 7.7*
+
+On the eve of Earth Day, a precocious seven-year-old learns about the wonders of the planet from his parents—and a mysterious exhibit at the aptly named Museum of Everything. Based on the best-selling children&#39;s book by Oliver Jeffers.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/L8nk1M1DbGQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -313,50 +340,6 @@ City girl Katie is writing a magazine feature on a glamping resort. Far from spo
 
 
 	
-	
-
-### Dream Horse
-*Released on 2020-04-17, vote average 3.5*
-
-A barmaid recruits her husband and a group of others to assist her in training a racehorse in the Welsh countryside.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/31j5SqMp7F0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Tigertail
-*Released on 2020-04-10, vote average 7*
-
-A man reflects on the lost love of his youth and his long-ago journey from Taiwan to America as he begins to reconnect with his estranged daughter.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/fxv73Lo1iBE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 
   
 
@@ -370,9 +353,9 @@ A man reflects on the lost love of his youth and his long-ago journey from Taiwa
 	
 
 	
-	
-	
 
+	
+	
 	
 
 	
