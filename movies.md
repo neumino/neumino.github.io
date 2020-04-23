@@ -46,30 +46,8 @@ After the vicious slaughter of his family by stone-cold mercenary Sub-Zero, Hanz
 	
 	
 
-### Bad Therapy
-*Released on 2020-04-17, vote average 3.3*
-
-Married couple Bob and Susan Howard decide to see a marriage counselor named Judy Small, who appears trustworthy but harbors dark and conflicted impulses.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zccv-OeJSys?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Love Wedding Repeat
-*Released on 2020-04-10, vote average 5.7*
+*Released on 2020-04-10, vote average 5.8*
 
 While trying to make his sister&#39;s wedding day go smoothly, Jack finds himself juggling an angry ex-girlfriend, an uninvited guest with a secret, a misplaced sleep sedative, and the girl that got away in alternate versions of the same day.
 
@@ -112,8 +90,30 @@ A sweeping drama set in the chaotic aftermath of the US invasion of Iraq, where 
 	
 	
 
+### Bad Therapy
+*Released on 2020-04-17, vote average 4.8*
+
+Married couple Bob and Susan Howard decide to see a marriage counselor named Judy Small, who appears trustworthy but harbors dark and conflicted impulses.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zccv-OeJSys?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Earth and Blood
-*Released on 2020-04-17, vote average 6.5*
+*Released on 2020-04-17, vote average 6.6*
 
 A sawmill owner and his teenage daughter become tangled in a deadly feud when a drug dealer stashes stolen cocaine on their remote property.
 
@@ -155,9 +155,16 @@ Charting the rise and fall of three corrupt real estate agents who accumulate ab
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### The Main Event
-*Released on 2020-04-10, vote average 7*
+*Released on 2020-04-10, vote average 6.9*
 
 After discovering a magical mask, an 11-year-old aspiring wrestler enters a competition to become the next WWE superstar by using special powers from a magical mask.
 
@@ -176,23 +183,6 @@ After discovering a magical mask, an 11-year-old aspiring wrestler enters a comp
 
 
 	
-	
-
-### Made in Senegal
-*Released on 2020-04-08, vote average 10*
-
-Sadio&#39;s story is the classical heroes journey and and archetype for African football players. Blessed with exceptional talent, he sets out from his village to find his destiny in the world - defying his family, social structures, doubters and injuries - to come back triumphant and able to help those around him.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/03RIVo7fZQ8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -201,7 +191,7 @@ Sadio&#39;s story is the classical heroes journey and and archetype for African 
 	
 
 ### Behind You
-*Released on 2020-04-17, vote average 7*
+*Released on 2020-04-17, vote average 7.8*
 
 Two young sisters find that all the mirrors in their estranged aunt&#39;s house are covered or hidden. When one of them happens upon a mirror in the basement, she unknowingly releases a malicious demon.
 
@@ -220,10 +210,15 @@ Two young sisters find that all the mirrors in their estranged aunt&#39;s house 
 
 
 	
+
+  
+
+
+	
 	
 
 ### The Quarry
-*Released on 2020-04-17, vote average 6*
+*Released on 2020-04-17, vote average 6.6*
 
 A man on the run from his own sins, finds himself in a small border town in Texas, impersonating a reverend. The town are quickly drawn to the man&#39;s unorthodox sermons, but so is a police chief who has his suspicions.
 
@@ -242,6 +237,13 @@ A man on the run from his own sins, finds himself in a small border town in Texa
 
 
 	
+	
+	
+
+  
+
+
+	
 
   
 
@@ -250,7 +252,7 @@ A man on the run from his own sins, finds himself in a small border town in Texa
 	
 
 ### Bad Trip
-*Released on 2020-04-17, vote average 7.3*
+*Released on 2020-04-17, vote average 7.5*
 
 This mix of a scripted buddy comedy road movie and a real hidden camera prank show follows the outrages misadventures of two buds stuck in a rut who embark on a cross-country road trip to NYC. The storyline sets up shocking real pranks.
 
@@ -269,67 +271,33 @@ This mix of a scripted buddy comedy road movie and a real hidden camera prank sh
 
 
 	
+
+  
+
+
 	
 
-### Here We Are: Notes for Living on Planet Earth
-*Released on 2020-04-17, vote average 7.7*
+  
 
-On the eve of Earth Day, a precocious seven-year-old learns about the wonders of the planet from his parents—and a mysterious exhibit at the aptly named Museum of Everything. Based on the best-selling children&#39;s book by Oliver Jeffers.
+
+	
+
+  
+
+
+	
+	
+
+### Becoming
+*Released on 2020-04-16, vote average 5*
+
+A couple on a road trip through America encounter a terrifying dark force older than the country itself. An evil that transforms loved ones into someone terrifying, the entity has left a trail of murdered families going back hundreds of years.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/L8nk1M1DbGQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Nature of Love
-*Released on 2020-04-18, vote average 5*
-
-City girl Katie is writing a magazine feature on a glamping resort. Far from sporty, she faces her fears trying the camp’s activities with help from Will, a rugged outdoorsman and nature guide.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/08wp-6PyJ6s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/LNM4gXk1NC0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -351,10 +319,27 @@ City girl Katie is writing a magazine feature on a glamping resort. Far from spo
 	
 
 	
-
+	
 	
 
 	
+
+	
+	
+
+### Beastie Boys Story
+*Released on 2020-04-24, vote average 10*
+
+A live documentary experience focusing on the history and legacy of the Beastie Boys and its intimate, personal story.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0aCBDL1sUY8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
