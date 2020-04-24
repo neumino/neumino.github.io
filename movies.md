@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Mortal Kombat Legends: Scorpion’s Revenge
-*Released on 2020-04-12, vote average 8.6*
+*Released on 2020-04-12, vote average 8.5*
 
 After the vicious slaughter of his family by stone-cold mercenary Sub-Zero, Hanzo Hasashi is exiled to the torturous Netherrealm. There, in exchange for his servitude to the sinister Quan Chi, he’s given a chance to avenge his family – and is resurrected as Scorpion, a lost soul bent on revenge. Back on Earthrealm, Lord Raiden gathers a team of elite warriors – Shaolin monk Liu Kang, Special Forces officer Sonya Blade and action star Johnny Cage – an unlikely band of heroes with one chance to save humanity. To do this, they must defeat Shang Tsung’s horde of Outworld gladiators and reign over the Mortal Kombat tournament.
 
@@ -68,16 +68,38 @@ While trying to make his sister&#39;s wedding day go smoothly, Jack finds himsel
 	
 	
 
-### Sergio
-*Released on 2020-04-17, vote average 7.2*
+### Earth and Blood
+*Released on 2020-04-17, vote average 6.6*
 
-A sweeping drama set in the chaotic aftermath of the US invasion of Iraq, where the life of top UN diplomat Sergio Vieira de Mello hangs in the balance during the most treacherous mission of his career.
+A sawmill owner and his teenage daughter become tangled in a deadly feud when a drug dealer stashes stolen cocaine on their remote property.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/h03jLiWIXVI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/prchZUT26KM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Willoughbys
+*Released on 2020-04-22, vote average 8.1*
+
+When the four Willoughby children are abandoned by their selfish parents, they must learn how to adapt their Old-Fashioned values to the contemporary world in order to create something new: The Modern Family.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/HnG4ag3Nkes?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -91,7 +113,7 @@ A sweeping drama set in the chaotic aftermath of the US invasion of Iraq, where 
 	
 
 ### Bad Therapy
-*Released on 2020-04-17, vote average 4.8*
+*Released on 2020-04-17, vote average 5.3*
 
 Married couple Bob and Susan Howard decide to see a marriage counselor named Judy Small, who appears trustworthy but harbors dark and conflicted impulses.
 
@@ -111,20 +133,12 @@ Married couple Bob and Susan Howard decide to see a marriage counselor named Jud
 
 	
 	
+	
 
-### Earth and Blood
-*Released on 2020-04-17, vote average 6.6*
+  
 
-A sawmill owner and his teenage daughter become tangled in a deadly feud when a drug dealer stashes stolen cocaine on their remote property.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/prchZUT26KM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
+	
 	
 	
 
@@ -154,6 +168,65 @@ Charting the rise and fall of three corrupt real estate agents who accumulate ab
 
 
 	
+	
+
+### Extraction
+*Released on 2020-04-24, vote average 7*
+
+Tyler Rake, a fearless black market mercenary, embarks on the most deadly extraction of his career when he&#39;s enlisted to rescue the kidnapped son of an imprisoned international crime lord.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/L6P3nI6VnlY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Behind You
+*Released on 2020-04-17, vote average 7.8*
+
+Two young sisters find that all the mirrors in their estranged aunt&#39;s house are covered or hidden. When one of them happens upon a mirror in the basement, she unknowingly releases a malicious demon.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/SCJRwqaTcTA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Georgetown
+*Released on 2020-04-23, vote average 6*
+
+Ulrich Mott, an ambitious social climber, marries a wealthy widow in Washington D.C. in order to mix with powerful political players.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0_oHRNXZZeI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -190,35 +263,8 @@ After discovering a magical mask, an 11-year-old aspiring wrestler enters a comp
 	
 	
 
-### Behind You
-*Released on 2020-04-17, vote average 7.8*
-
-Two young sisters find that all the mirrors in their estranged aunt&#39;s house are covered or hidden. When one of them happens upon a mirror in the basement, she unknowingly releases a malicious demon.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/SCJRwqaTcTA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### The Quarry
-*Released on 2020-04-17, vote average 6.6*
+*Released on 2020-04-17, vote average 6.5*
 
 A man on the run from his own sins, finds himself in a small border town in Texas, impersonating a reverend. The town are quickly drawn to the man&#39;s unorthodox sermons, but so is a police chief who has his suspicions.
 
@@ -231,55 +277,6 @@ A man on the run from his own sins, finds himself in a small border town in Texa
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Bad Trip
-*Released on 2020-04-17, vote average 7.5*
-
-This mix of a scripted buddy comedy road movie and a real hidden camera prank show follows the outrages misadventures of two buds stuck in a rut who embark on a cross-country road trip to NYC. The storyline sets up shocking real pranks.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Ue3XdtKEaqI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -308,6 +305,43 @@ A couple on a road trip through America encounter a terrifying dark force older 
 
 
 	
+	
+
+### Beastie Boys Story
+*Released on 2020-04-24, vote average 10*
+
+A live documentary experience focusing on the history and legacy of the Beastie Boys and its intimate, personal story.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0aCBDL1sUY8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 
   
 
@@ -317,11 +351,22 @@ A couple on a road trip through America encounter a terrifying dark force older 
 
 
 	
-
-	
-	
 	
 
+### Extraction
+*Released on 2020-04-24, vote average 7*
+
+Tyler Rake, a fearless black market mercenary, embarks on the most deadly extraction of his career when he&#39;s enlisted to rescue the kidnapped son of an imprisoned international crime lord.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/L6P3nI6VnlY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -341,6 +386,10 @@ A live documentary experience focusing on the history and legacy of the Beastie 
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
 	
 
 	
