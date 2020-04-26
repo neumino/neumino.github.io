@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Mortal Kombat Legends: Scorpion’s Revenge
-*Released on 2020-04-12, vote average 8.5*
+### The Willoughbys
+*Released on 2020-04-22, vote average 7.6*
 
-After the vicious slaughter of his family by stone-cold mercenary Sub-Zero, Hanzo Hasashi is exiled to the torturous Netherrealm. There, in exchange for his servitude to the sinister Quan Chi, he’s given a chance to avenge his family – and is resurrected as Scorpion, a lost soul bent on revenge. Back on Earthrealm, Lord Raiden gathers a team of elite warriors – Shaolin monk Liu Kang, Special Forces officer Sonya Blade and action star Johnny Cage – an unlikely band of heroes with one chance to save humanity. To do this, they must defeat Shang Tsung’s horde of Outworld gladiators and reign over the Mortal Kombat tournament.
+When the four Willoughby children are abandoned by their selfish parents, they must learn how to adapt their Old-Fashioned values to the contemporary world in order to create something new: The Modern Family.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/I1vccr3yWBU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/HnG4ag3Nkes?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ After the vicious slaughter of his family by stone-cold mercenary Sub-Zero, Hanz
 	
 	
 
-### The Willoughbys
-*Released on 2020-04-22, vote average 7.6*
+### Mortal Kombat Legends: Scorpion’s Revenge
+*Released on 2020-04-12, vote average 8.5*
 
-When the four Willoughby children are abandoned by their selfish parents, they must learn how to adapt their Old-Fashioned values to the contemporary world in order to create something new: The Modern Family.
+After the vicious slaughter of his family by stone-cold mercenary Sub-Zero, Hanzo Hasashi is exiled to the torturous Netherrealm. There, in exchange for his servitude to the sinister Quan Chi, he’s given a chance to avenge his family – and is resurrected as Scorpion, a lost soul bent on revenge. Back on Earthrealm, Lord Raiden gathers a team of elite warriors – Shaolin monk Liu Kang, Special Forces officer Sonya Blade and action star Johnny Cage – an unlikely band of heroes with one chance to save humanity. To do this, they must defeat Shang Tsung’s horde of Outworld gladiators and reign over the Mortal Kombat tournament.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/HnG4ag3Nkes?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/I1vccr3yWBU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -69,9 +69,9 @@ When the four Willoughby children are abandoned by their selfish parents, they m
 	
 
 ### Extraction
-*Released on 2020-04-24, vote average 6.5*
+*Released on 2020-04-24, vote average 7.1*
 
-Tyler Rake, a fearless black market mercenary, embarks on the most deadly extraction of his career when he&#39;s enlisted to rescue the kidnapped son of an imprisoned international crime lord.
+Tyler Rake, a fearless mercenary who offers his services on the black market, embarks on a dangerous mission when he is hired to rescue the kidnapped son of a Mumbai crime lord…
 
 <iframe id="player"
 	type="text/html"
@@ -82,6 +82,33 @@ Tyler Rake, a fearless black market mercenary, embarks on the most deadly extrac
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Beastie Boys Story
+*Released on 2020-04-24, vote average 9*
+
+A live documentary experience focusing on the history and legacy of the Beastie Boys and its intimate, personal story.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0aCBDL1sUY8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -118,43 +145,21 @@ A sawmill owner and his teenage daughter become tangled in a deadly feud when a 
 
 	
 	
-
-### Beastie Boys Story
-*Released on 2020-04-24, vote average 10*
-
-A live documentary experience focusing on the history and legacy of the Beastie Boys and its intimate, personal story.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0aCBDL1sUY8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
 
 
 	
-	
 
-### Rising High
-*Released on 2020-04-17, vote average 7*
+  
 
-Charting the rise and fall of three corrupt real estate agents who accumulate absurd wealth in no time but fall into a vortex of fraud, greed and drugs.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cJl2EvFO_fE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
 	
 
   
@@ -184,31 +189,17 @@ Two young sisters find that all the mirrors in their estranged aunt&#39;s house 
 
 	
 	
-	
 
-  
+### Rising High
+*Released on 2020-04-17, vote average 6.9*
 
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Georgetown
-*Released on 2020-04-23, vote average 6*
-
-Ulrich Mott, an ambitious social climber, marries a wealthy widow in Washington D.C. in order to mix with powerful political players.
+Charting the rise and fall of three corrupt real estate agents who accumulate absurd wealth in no time but fall into a vortex of fraud, greed and drugs.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/0_oHRNXZZeI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/cJl2EvFO_fE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -226,16 +217,16 @@ Ulrich Mott, an ambitious social climber, marries a wealthy widow in Washington 
 	
 	
 
-### Bad Therapy
-*Released on 2020-04-17, vote average 5.3*
+### The Secret: Dare to Dream
+*Released on 2020-04-16, vote average 10*
 
-Married couple Bob and Susan Howard decide to see a marriage counselor named Judy Small, who appears trustworthy but harbors dark and conflicted impulses.
+A widow with three children hires a handyman to fix her house during a major storm. When not doing home repairs, he shares his philosophy of believing in the power of the universe to deliver what we want.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/zccv-OeJSys?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/t130FLX_ke0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -255,50 +246,6 @@ Married couple Bob and Susan Howard decide to see a marriage counselor named Jud
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Becoming
-*Released on 2020-04-16, vote average 5*
-
-A couple on a road trip through America encounter a terrifying dark force older than the country itself. An evil that transforms loved ones into someone terrifying, the entity has left a trail of murdered families going back hundreds of years.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LNM4gXk1NC0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Quarry
-*Released on 2020-04-17, vote average 6.7*
-
-A man on the run from his own sins, finds himself in a small border town in Texas, impersonating a reverend. The town are quickly drawn to the man&#39;s unorthodox sermons, but so is a police chief who has his suspicions.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2sgghEuYESQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
