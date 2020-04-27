@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Willoughbys
-*Released on 2020-04-22, vote average 7.6*
+*Released on 2020-04-22, vote average 7.5*
 
 When the four Willoughby children are abandoned by their selfish parents, they must learn how to adapt their Old-Fashioned values to the contemporary world in order to create something new: The Modern Family.
 
@@ -46,28 +46,6 @@ When the four Willoughby children are abandoned by their selfish parents, they m
 	
 	
 
-### Mortal Kombat Legends: Scorpion’s Revenge
-*Released on 2020-04-12, vote average 8.5*
-
-After the vicious slaughter of his family by stone-cold mercenary Sub-Zero, Hanzo Hasashi is exiled to the torturous Netherrealm. There, in exchange for his servitude to the sinister Quan Chi, he’s given a chance to avenge his family – and is resurrected as Scorpion, a lost soul bent on revenge. Back on Earthrealm, Lord Raiden gathers a team of elite warriors – Shaolin monk Liu Kang, Special Forces officer Sonya Blade and action star Johnny Cage – an unlikely band of heroes with one chance to save humanity. To do this, they must defeat Shang Tsung’s horde of Outworld gladiators and reign over the Mortal Kombat tournament.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/I1vccr3yWBU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Extraction
 *Released on 2020-04-24, vote average 7.1*
 
@@ -91,7 +69,7 @@ Tyler Rake, a fearless mercenary who offers his services on the black market, em
 	
 
 ### Beastie Boys Story
-*Released on 2020-04-24, vote average 9*
+*Released on 2020-04-24, vote average 8*
 
 A live documentary experience focusing on the history and legacy of the Beastie Boys and its intimate, personal story.
 
@@ -109,6 +87,42 @@ A live documentary experience focusing on the history and legacy of the Beastie 
   
 
 
+	
+	
+
+### Enemy Lines
+*Released on 2020-04-24, vote average 8.8*
+
+In the frozen, war torn landscape of occupied Poland during World War II, a crack team of allied commandos are sent on a deadly mission behind enemy lines to extract a rocket scientist from the hands of the Nazis.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xyYcuvAaTDM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -138,6 +152,21 @@ A sawmill owner and his teenage daughter become tangled in a deadly feud when a 
 
 	
 	
+
+### Rising High
+*Released on 2020-04-17, vote average 6.8*
+
+Charting the rise and fall of three corrupt real estate agents who accumulate absurd wealth in no time but fall into a vortex of fraud, greed and drugs.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/cJl2EvFO_fE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -145,16 +174,6 @@ A sawmill owner and his teenage daughter become tangled in a deadly feud when a 
 
 	
 	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -190,16 +209,16 @@ Two young sisters find that all the mirrors in their estranged aunt&#39;s house 
 	
 	
 
-### Rising High
-*Released on 2020-04-17, vote average 6.9*
+### The Sputnik
+*Released on 2020-04-16, vote average 5.7*
 
-Charting the rise and fall of three corrupt real estate agents who accumulate absurd wealth in no time but fall into a vortex of fraud, greed and drugs.
+USSR, 1983. Soviet cosmonaut-hero Vladimir Veshnyakov brings an alien creature to earth ... in his own body. In the secret laboratory of the regime city, the neurophysiologist Tatyana Klimova tries to save the astronaut from the monster, discovering that she is experiencing more than professional interest in her patient.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/cJl2EvFO_fE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xhLORcya9GU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -210,27 +229,27 @@ Charting the rise and fall of three corrupt real estate agents who accumulate ab
 
 
 	
-
-  
-
-
-	
 	
 
-### The Secret: Dare to Dream
-*Released on 2020-04-16, vote average 10*
+### 100.000 – Everything I never wanted
+*Released on 2020-04-25, vote average 9.5*
 
-A widow with three children hires a handyman to fix her house during a major storm. When not doing home repairs, he shares his philosophy of believing in the power of the universe to deliver what we want.
+An intimate documentary about the making of Fynn Kliemann&#39;s debut album &#34;Nie&#34;. Without a label, without a marketing budget and excluding the charts, it became one of the best-selling albums in Germany.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/t130FLX_ke0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xrCQGEeasBQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
