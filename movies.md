@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### The Willoughbys
-*Released on 2020-04-22, vote average 7.5*
+### Extraction
+*Released on 2020-04-24, vote average 7.4*
 
-When the four Willoughby children are abandoned by their selfish parents, they must learn how to adapt their Old-Fashioned values to the contemporary world in order to create something new: The Modern Family.
+Tyler Rake, a fearless mercenary who offers his services on the black market, embarks on a dangerous mission when he is hired to rescue the kidnapped son of a Mumbai crime lord…
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/HnG4ag3Nkes?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/L6P3nI6VnlY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ When the four Willoughby children are abandoned by their selfish parents, they m
 	
 	
 
-### Extraction
-*Released on 2020-04-24, vote average 7.1*
+### The Willoughbys
+*Released on 2020-04-22, vote average 7.3*
 
-Tyler Rake, a fearless mercenary who offers his services on the black market, embarks on a dangerous mission when he is hired to rescue the kidnapped son of a Mumbai crime lord…
+When the four Willoughby children are abandoned by their selfish parents, they must learn how to adapt their Old-Fashioned values to the contemporary world in order to create something new: The Modern Family.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/L6P3nI6VnlY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/HnG4ag3Nkes?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@ Tyler Rake, a fearless mercenary who offers his services on the black market, em
 	
 
 ### Beastie Boys Story
-*Released on 2020-04-24, vote average 8*
+*Released on 2020-04-24, vote average 7.9*
 
 A live documentary experience focusing on the history and legacy of the Beastie Boys and its intimate, personal story.
 
@@ -91,7 +91,7 @@ A live documentary experience focusing on the history and legacy of the Beastie 
 	
 
 ### Enemy Lines
-*Released on 2020-04-24, vote average 8.8*
+*Released on 2020-04-24, vote average 8.2*
 
 In the frozen, war torn landscape of occupied Poland during World War II, a crack team of allied commandos are sent on a deadly mission behind enemy lines to extract a rocket scientist from the hands of the Nazis.
 
@@ -117,11 +117,21 @@ In the frozen, war torn landscape of occupied Poland during World War II, a crac
 
 
 	
-
-  
-
-
 	
+
+### The Sputnik
+*Released on 2020-04-16, vote average 6*
+
+USSR, 1983. Soviet cosmonaut-hero Vladimir Veshnyakov brings an alien creature to earth ... in his own body. In the secret laboratory of the regime city, the neurophysiologist Tatyana Klimova tries to save the astronaut from the monster, discovering that she is experiencing more than professional interest in her patient.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xhLORcya9GU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -132,7 +142,7 @@ In the frozen, war torn landscape of occupied Poland during World War II, a crac
 	
 
 ### Earth and Blood
-*Released on 2020-04-17, vote average 6.6*
+*Released on 2020-04-17, vote average 6.5*
 
 A sawmill owner and his teenage daughter become tangled in a deadly feud when a drug dealer stashes stolen cocaine on their remote property.
 
@@ -144,6 +154,13 @@ A sawmill owner and his teenage daughter become tangled in a deadly feud when a 
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -174,6 +191,26 @@ Charting the rise and fall of three corrupt real estate agents who accumulate ab
 
 	
 	
+
+### The Quarry
+*Released on 2020-04-17, vote average 6.3*
+
+A man on the run from his own sins, finds himself in a small border town in Texas, impersonating a reverend. The town are quickly drawn to the man&#39;s unorthodox sermons, but so is a police chief who has his suspicions.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2sgghEuYESQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -207,18 +244,23 @@ Two young sisters find that all the mirrors in their estranged aunt&#39;s house 
 
 
 	
+
+  
+
+
+	
 	
 
-### The Sputnik
-*Released on 2020-04-16, vote average 5.7*
+### The Secret: Dare to Dream
+*Released on 2020-04-16, vote average 10*
 
-USSR, 1983. Soviet cosmonaut-hero Vladimir Veshnyakov brings an alien creature to earth ... in his own body. In the secret laboratory of the regime city, the neurophysiologist Tatyana Klimova tries to save the astronaut from the monster, discovering that she is experiencing more than professional interest in her patient.
+A widow with three children hires a handyman to fix her house during a major storm. When not doing home repairs, he shares his philosophy of believing in the power of the universe to deliver what we want.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xhLORcya9GU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/t130FLX_ke0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -229,10 +271,30 @@ USSR, 1983. Soviet cosmonaut-hero Vladimir Veshnyakov brings an alien creature t
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### 100.000 – Everything I never wanted
-*Released on 2020-04-25, vote average 9.5*
+*Released on 2020-04-25, vote average 8.7*
 
 An intimate documentary about the making of Fynn Kliemann&#39;s debut album &#34;Nie&#34;. Without a label, without a marketing budget and excluding the charts, it became one of the best-selling albums in Germany.
 
@@ -245,36 +307,6 @@ An intimate documentary about the making of Fynn Kliemann&#39;s debut album &#34
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -296,6 +328,23 @@ An intimate documentary about the making of Fynn Kliemann&#39;s debut album &#34
 
 	
 
+	
+	
+
+### Abe
+*Released on 2020-04-30, vote average 6*
+
+The Israeli-Jewish side of his family calls him Avram. The Palestinian-Muslim side Ibrahim. His first-generation American agnostic lawyer parents call him Abraham. But the 12-year-old kid from Brooklyn who loves food and cooking, prefers, well, Abe. Just Abe.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8OeVJO_CCxY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
