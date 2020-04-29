@@ -47,7 +47,7 @@ Tyler Rake, a fearless mercenary who offers his services on the black market, em
 	
 
 ### The Willoughbys
-*Released on 2020-04-22, vote average 7.3*
+*Released on 2020-04-22, vote average 7.2*
 
 When the four Willoughby children are abandoned by their selfish parents, they must learn how to adapt their Old-Fashioned values to the contemporary world in order to create something new: The Modern Family.
 
@@ -90,16 +90,16 @@ A live documentary experience focusing on the history and legacy of the Beastie 
 	
 	
 
-### Enemy Lines
-*Released on 2020-04-24, vote average 8.2*
+### The Quarry
+*Released on 2020-04-17, vote average 6.4*
 
-In the frozen, war torn landscape of occupied Poland during World War II, a crack team of allied commandos are sent on a deadly mission behind enemy lines to extract a rocket scientist from the hands of the Nazis.
+A man on the run from his own sins, finds himself in a small border town in Texas, impersonating a reverend. The town are quickly drawn to the man&#39;s unorthodox sermons, but so is a police chief who has his suspicions.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xyYcuvAaTDM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/2sgghEuYESQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -141,6 +141,28 @@ USSR, 1983. Soviet cosmonaut-hero Vladimir Veshnyakov brings an alien creature t
 	
 	
 
+### Enemy Lines
+*Released on 2020-04-24, vote average 8.2*
+
+In the frozen, war torn landscape of occupied Poland during World War II, a crack team of allied commandos are sent on a deadly mission behind enemy lines to extract a rocket scientist from the hands of the Nazis.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xyYcuvAaTDM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Earth and Blood
 *Released on 2020-04-17, vote average 6.5*
 
@@ -161,6 +183,11 @@ A sawmill owner and his teenage daughter become tangled in a deadly feud when a 
 
 
 	
+
+  
+
+
+	
 	
 	
 
@@ -171,7 +198,7 @@ A sawmill owner and his teenage daughter become tangled in a deadly feud when a 
 	
 
 ### Rising High
-*Released on 2020-04-17, vote average 6.8*
+*Released on 2020-04-17, vote average 6.7*
 
 Charting the rise and fall of three corrupt real estate agents who accumulate absurd wealth in no time but fall into a vortex of fraud, greed and drugs.
 
@@ -190,22 +217,15 @@ Charting the rise and fall of three corrupt real estate agents who accumulate ab
 
 
 	
-	
 
-### The Quarry
-*Released on 2020-04-17, vote average 6.3*
+  
 
-A man on the run from his own sins, finds himself in a small border town in Texas, impersonating a reverend. The town are quickly drawn to the man&#39;s unorthodox sermons, but so is a police chief who has his suspicions.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2sgghEuYESQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
 	
 
   
@@ -244,11 +264,6 @@ Two young sisters find that all the mirrors in their estranged aunt&#39;s house 
 
 
 	
-
-  
-
-
-	
 	
 
 ### The Secret: Dare to Dream
@@ -280,48 +295,27 @@ A widow with three children hires a handyman to fix her house during a major sto
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### 100.000 – Everything I never wanted
-*Released on 2020-04-25, vote average 8.7*
-
-An intimate documentary about the making of Fynn Kliemann&#39;s debut album &#34;Nie&#34;. Without a label, without a marketing budget and excluding the charts, it became one of the best-selling albums in Germany.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xrCQGEeasBQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 
 ## Opening soon
 
 
 	
-
 	
 
-	
+### Arkansas
+*Released on 2020-05-01, vote average 5.8*
 
+Kyle and Swin live by the orders of an Arkansas-based drug kingpin named Frog, whom they&#39;ve never met. But when a deal goes horribly wrong, the consequences are deadly.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/y4-Y2KIDNmE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -345,6 +339,12 @@ The Israeli-Jewish side of his family calls him Avram. The Palestinian-Muslim si
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
 	
 
 	
