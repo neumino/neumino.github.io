@@ -47,7 +47,7 @@ Tyler Rake, a fearless mercenary who offers his services on the black market, em
 	
 
 ### The Willoughbys
-*Released on 2020-04-22, vote average 7.2*
+*Released on 2020-04-22, vote average 7.1*
 
 When the four Willoughby children are abandoned by their selfish parents, they must learn how to adapt their Old-Fashioned values to the contemporary world in order to create something new: The Modern Family.
 
@@ -68,8 +68,64 @@ When the four Willoughby children are abandoned by their selfish parents, they m
 	
 	
 
+### Dreamkatcher
+*Released on 2020-04-28, vote average 5*
+
+Gail is forced to come to terms with Josh, her new stepson, at a remote country home. After stealing an evil talisman from a mysterious neighbor, Josh has sinister dreams of his dead mother, who commands Josh to murder Gail. When Josh&#39;s dad returns, he and Gail suspect that their son has been possessed by an ancient, bloodthirsty spirit. Is it too late to save Josh&#39;s life — or their own?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/GM1RiidjK1U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Quarry
+*Released on 2020-04-17, vote average 6.3*
+
+A man on the run from his own sins, finds himself in a small border town in Texas, impersonating a reverend. The town are quickly drawn to the man&#39;s unorthodox sermons, but so is a police chief who has his suspicions.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/YMvND6g67Cc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
 ### Beastie Boys Story
-*Released on 2020-04-24, vote average 7.9*
+*Released on 2020-04-24, vote average 7.6*
 
 A live documentary experience focusing on the history and legacy of the Beastie Boys and its intimate, personal story.
 
@@ -87,30 +143,6 @@ A live documentary experience focusing on the history and legacy of the Beastie 
   
 
 
-	
-	
-
-### The Quarry
-*Released on 2020-04-17, vote average 6.4*
-
-A man on the run from his own sins, finds himself in a small border town in Texas, impersonating a reverend. The town are quickly drawn to the man&#39;s unorthodox sermons, but so is a police chief who has his suspicions.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2sgghEuYESQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -139,10 +171,15 @@ USSR, 1983. Soviet cosmonaut-hero Vladimir Veshnyakov brings an alien creature t
 
 
 	
+
+  
+
+
+	
 	
 
 ### Enemy Lines
-*Released on 2020-04-24, vote average 8.2*
+*Released on 2020-04-24, vote average 8.4*
 
 In the frozen, war torn landscape of occupied Poland during World War II, a crack team of allied commandos are sent on a deadly mission behind enemy lines to extract a rocket scientist from the hands of the Nazis.
 
@@ -164,7 +201,7 @@ In the frozen, war torn landscape of occupied Poland during World War II, a crac
 	
 
 ### Earth and Blood
-*Released on 2020-04-17, vote average 6.5*
+*Released on 2020-04-17, vote average 6.4*
 
 A sawmill owner and his teenage daughter become tangled in a deadly feud when a drug dealer stashes stolen cocaine on their remote property.
 
@@ -183,12 +220,39 @@ A sawmill owner and his teenage daughter become tangled in a deadly feud when a 
 
 
 	
+	
+
+### Abe
+*Released on 2020-04-30, vote average 6*
+
+The Israeli-Jewish side of his family calls him Avram. The Palestinian-Muslim side Ibrahim. His first-generation American agnostic lawyer parents call him Abraham. But the 12-year-old kid from Brooklyn who loves food and cooking, prefers, well, Abe. Just Abe.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8OeVJO_CCxY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
 	
 	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -231,70 +295,6 @@ Charting the rise and fall of three corrupt real estate agents who accumulate ab
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Behind You
-*Released on 2020-04-17, vote average 6*
-
-Two young sisters find that all the mirrors in their estranged aunt&#39;s house are covered or hidden. When one of them happens upon a mirror in the basement, she unknowingly releases a malicious demon.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/SCJRwqaTcTA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Secret: Dare to Dream
-*Released on 2020-04-16, vote average 10*
-
-A widow with three children hires a handyman to fix her house during a major storm. When not doing home repairs, he shares his philosophy of believing in the power of the universe to deliver what we want.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/t130FLX_ke0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -303,7 +303,7 @@ A widow with three children hires a handyman to fix her house during a major sto
 	
 
 ### Arkansas
-*Released on 2020-05-01, vote average 5.8*
+*Released on 2020-05-05, vote average 6*
 
 Kyle and Swin live by the orders of an Arkansas-based drug kingpin named Frog, whom they&#39;ve never met. But when a deal goes horribly wrong, the consequences are deadly.
 
@@ -316,10 +316,6 @@ Kyle and Swin live by the orders of an Arkansas-based drug kingpin named Frog, w
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
 	
 
 	
@@ -356,7 +352,7 @@ The Israeli-Jewish side of his family calls him Avram. The Palestinian-Muslim si
 	
 
 	
-
+	
 	
 
 	
@@ -365,6 +361,14 @@ The Israeli-Jewish side of his family calls him Avram. The Palestinian-Muslim si
 
 	
 
+	
+
+	
+
+	
+
+	
+	
 	
 
 	
