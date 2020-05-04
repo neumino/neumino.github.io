@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Extraction
-*Released on 2020-04-24, vote average 7.4*
+*Released on 2020-04-24, vote average 7.5*
 
 Tyler Rake, a fearless mercenary who offers his services on the black market, embarks on a dangerous mission when he is hired to rescue the kidnapped son of a Mumbai crime lord…
 
@@ -46,6 +46,28 @@ Tyler Rake, a fearless mercenary who offers his services on the black market, em
 	
 	
 
+### Dangerous Lies
+*Released on 2020-04-30, vote average 6.6*
+
+After losing her waitressing job, Katie Franklin takes a job as a caretaker to a wealthy elderly man in his sprawling, empty Chicago estate. The two grow close, but when he unexpectedly passes away and names Katie as his sole heir, she and her husband Adam are pulled into a complex web of lies, deception, and murder. If she&#39;s going to survive, Katie will have to question everyone&#39;s motives — even the people she loves.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EzJJo0whbJ4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Willoughbys
 *Released on 2020-04-22, vote average 7.2*
 
@@ -68,16 +90,60 @@ When the four Willoughby children are abandoned by their selfish parents, they m
 	
 	
 
-### Dangerous Lies
-*Released on 2020-04-30, vote average 6.4*
+### The Half of It
+*Released on 2020-05-01, vote average 7.6*
 
-After losing her waitressing job, Katie Franklin takes a job as a caretaker to a wealthy elderly man in his sprawling, empty Chicago estate. The two grow close, but when he unexpectedly passes away and names Katie as his sole heir, she and her husband Adam are pulled into a complex web of lies, deception, and murder. If she&#39;s going to survive, Katie will have to question everyone&#39;s motives — even the people she loves.
+Shy, straight-A student Ellie is hired by sweet but inarticulate jock Paul, who needs help wooing the most popular girl in school. But their new and unlikely friendship gets tricky when Ellie discovers she has feelings for the same girl.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/EzJJo0whbJ4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/B-yhF7IScUE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### All Day and a Night
+*Released on 2020-05-01, vote average 6*
+
+While serving life in prison, a young man looks back at the people, the circumstances and the system that set him on the path toward his crime.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/BC9Kk8Np9-Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Wretched
+*Released on 2020-05-01, vote average 8.2*
+
+A rebellious teenage boy embarks on a gutsy crusade to stop the terrifying evil he suspects has possessed his neighbor in this bone-chilling occult thriller.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vwFFhQhQC2M?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -91,7 +157,7 @@ After losing her waitressing job, Katie Franklin takes a job as a caretaker to a
 	
 
 ### Dreamkatcher
-*Released on 2020-04-28, vote average 6.8*
+*Released on 2020-04-28, vote average 6.6*
 
 Gail is forced to come to terms with Josh, her new stepson, at a remote country home. After stealing an evil talisman from a mysterious neighbor, Josh has sinister dreams of his dead mother, who commands Josh to murder Gail. When Josh&#39;s dad returns, he and Gail suspect that their son has been possessed by an ancient, bloodthirsty spirit. Is it too late to save Josh&#39;s life — or their own?
 
@@ -112,30 +178,8 @@ Gail is forced to come to terms with Josh, her new stepson, at a remote country 
 	
 	
 
-### Murder to Mercy: The Cyntoia Brown Story
-*Released on 2020-04-29, vote average 7*
-
-After 16-year-old Cyntoia Brown is sentenced to life in prison, questions about her past, physiology and the law itself call her guilt into question.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/eb2Ce6mj-iI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### LEGO DC: Shazam! Magic and Monsters
-*Released on 2020-04-28, vote average 9.1*
+*Released on 2020-04-28, vote average 8.6*
 
 It’s high time the Justice League took notice of Shazam! (Sean Astin), but joining the world’s greatest team of superheroes is a lot harder when they’ve all been turned into kids.LEGO DC: Shazam! Magic and Monsters will teach Billy Batson the virtues of trust as the hero fights off Mr. Mind and Black Adam.
 
@@ -157,7 +201,7 @@ It’s high time the Justice League took notice of Shazam! (Sean Astin), but joi
 	
 
 ### A Secret Love
-*Released on 2020-04-29, vote average 9.3*
+*Released on 2020-04-29, vote average 9*
 
 Amid shifting times, two women kept their decades-long love a secret. But coming out later in life comes with its own set of challenges.
 
@@ -190,16 +234,16 @@ Amid shifting times, two women kept their decades-long love a secret. But coming
 	
 	
 
-### The Half of It
-*Released on 2020-05-01, vote average 7.7*
+### Mrs. Serial Killer
+*Released on 2020-05-01, vote average 6.5*
 
-Shy, straight-A student Ellie is hired by sweet but inarticulate jock Paul, who needs help wooing the most popular girl in school. But their new and unlikely friendship gets tricky when Ellie discovers she has feelings for the same girl.
+When her husband is framed and imprisoned for serial murders, a doting wife must perform a copycat murder, to prove her husband&#39;s innocence.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/jv_XC-vkSuQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/kwTNtpx13ZE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -211,21 +255,23 @@ Shy, straight-A student Ellie is hired by sweet but inarticulate jock Paul, who 
 
 	
 	
+	
 
-### All Day and a Night
-*Released on 2020-05-01, vote average 6.3*
+  
 
-While serving life in prison, a young man looks back at the people, the circumstances and the system that set him on the path toward his crime.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/BC9Kk8Np9-Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -235,7 +281,7 @@ While serving life in prison, a young man looks back at the people, the circumst
 	
 
 ### Stardust
-*Released on 2020-05-01, vote average 7*
+*Released on 2020-05-01, vote average 4.5*
 
 David Bowie went to America for the first time to promote his third album, The Man Who Sold the World. There, he embarked on a coast-to-coast publicity tour. During this tour, Bowie came up with the idea of his iconic Ziggy Stardust character, inspired by artists like Iggy Pop and Lou Reed.
 
@@ -255,24 +301,17 @@ David Bowie went to America for the first time to promote his third album, The M
 
 	
 	
-	
 
-  
+### Murder to Mercy: The Cyntoia Brown Story
+*Released on 2020-04-29, vote average 6.9*
 
-
-	
-	
-
-### The Wretched
-*Released on 2020-05-01, vote average 7.7*
-
-A rebellious teenage boy embarks on a gutsy crusade to stop the terrifying evil he suspects has possessed his neighbor in this bone-chilling occult thriller.
+After 16-year-old Cyntoia Brown is sentenced to life in prison, questions about her past, physiology and the law itself call her guilt into question.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/vwFFhQhQC2M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/eb2Ce6mj-iI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -284,41 +323,17 @@ A rebellious teenage boy embarks on a gutsy crusade to stop the terrifying evil 
 
 	
 	
-	
 
-  
+### Enemy Lines
+*Released on 2020-04-24, vote average 7.7*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Mrs. Serial Killer
-*Released on 2020-05-01, vote average 7*
-
-When her husband is framed and imprisoned for serial murders, a doting wife must perform a copycat murder, to prove her husband&#39;s innocence.
+In the frozen, war torn landscape of occupied Poland during World War II, a crack team of allied commandos are sent on a deadly mission behind enemy lines to extract a rocket scientist from the hands of the Nazis.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/kwTNtpx13ZE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xyYcuvAaTDM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -328,6 +343,8 @@ When her husband is framed and imprisoned for serial murders, a doting wife must
   
 
 
+	
+	
 	
 
   
@@ -359,10 +376,6 @@ Kyle and Swin live by the orders of an Arkansas-based drug kingpin named Frog, w
 	
 
 	
-
-	
-
-	
 	
 
 ### Big Shark
@@ -386,6 +399,8 @@ Three firefighters must save New Orleans from a gigantic shark.
 	
 
 	
+	
+	
 
 	
 
@@ -396,7 +411,9 @@ Three firefighters must save New Orleans from a gigantic shark.
 	
 
 	
+
 	
+
 	
 
 	
