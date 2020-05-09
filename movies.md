@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Extraction
-*Released on 2020-04-24, vote average 7.5*
+### Justice League Dark: Apokolips War
+*Released on 2020-05-05, vote average 9*
 
-Tyler Rake, a fearless mercenary who offers his services on the black market, embarks on a dangerous mission when he is hired to rescue the kidnapped son of a Mumbai crime lord…
+Earth is decimated after intergalactic tyrant Darkseid has devastated the Justice League in a poorly executed war by the DC Super Heroes. Now the remaining bastions of good – the Justice League, Teen Titans, Suicide Squad and assorted others – must regroup, strategize and take the war to Darkseid in order to save the planet and its surviving inhabitants.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/L6P3nI6VnlY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/UzY817VhnQQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -47,7 +47,7 @@ Tyler Rake, a fearless mercenary who offers his services on the black market, em
 	
 
 ### Dangerous Lies
-*Released on 2020-04-30, vote average 6.3*
+*Released on 2020-04-30, vote average 6.4*
 
 After losing her waitressing job, Katie Franklin takes a job as a caretaker to a wealthy elderly man in his sprawling, empty Chicago estate. The two grow close, but when he unexpectedly passes away and names Katie as his sole heir, she and her husband Adam are pulled into a complex web of lies, deception, and murder. If she&#39;s going to survive, Katie will have to question everyone&#39;s motives — even the people she loves.
 
@@ -90,16 +90,16 @@ Shy, straight-A student Ellie is hired by sweet but inarticulate jock Paul, who 
 	
 	
 
-### Justice League Dark: Apokolips War
-*Released on 2020-05-05, vote average 8.9*
+### All Day and a Night
+*Released on 2020-05-01, vote average 6.4*
 
-Earth is decimated after intergalactic tyrant Darkseid has devastated the Justice League in a poorly executed war by the DC Super Heroes. Now the remaining bastions of good – the Justice League, Teen Titans, Suicide Squad and assorted others – must regroup, strategize and take the war to Darkseid in order to save the planet and its surviving inhabitants.
+While serving life in prison, a young man looks back at the people, the circumstances and the system that set him on the path toward his crime.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/UzY817VhnQQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/BC9Kk8Np9-Y?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -113,7 +113,7 @@ Earth is decimated after intergalactic tyrant Darkseid has devastated the Justic
 	
 
 ### Jerry Seinfeld: 23 Hours To Kill
-*Released on 2020-05-05, vote average 8*
+*Released on 2020-05-05, vote average 8.4*
 
 Jerry Seinfeld takes the stage in New York and tackles talking vs. texting, bad buffets vs. so-called &#34;great&#34; restaurants and the magic of Pop Tarts.
 
@@ -134,16 +134,16 @@ Jerry Seinfeld takes the stage in New York and tackles talking vs. texting, bad 
 	
 	
 
-### All Day and a Night
-*Released on 2020-05-01, vote average 6.3*
+### The Wretched
+*Released on 2020-05-01, vote average 7.2*
 
-While serving life in prison, a young man looks back at the people, the circumstances and the system that set him on the path toward his crime.
+A rebellious teenage boy embarks on a gutsy crusade to stop the terrifying evil he suspects has possessed his neighbor in this bone-chilling occult thriller.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/BC9Kk8Np9-Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/vwFFhQhQC2M?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -155,6 +155,21 @@ While serving life in prison, a young man looks back at the people, the circumst
 
 	
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -183,27 +198,12 @@ Kyle and Swin live by the orders of an Arkansas-based drug kingpin named Frog, w
 
 
 	
-	
-
-### The Wretched
-*Released on 2020-05-01, vote average 7*
-
-A rebellious teenage boy embarks on a gutsy crusade to stop the terrifying evil he suspects has possessed his neighbor in this bone-chilling occult thriller.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vwFFhQhQC2M?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
+	
+	
 	
 
   
@@ -213,7 +213,7 @@ A rebellious teenage boy embarks on a gutsy crusade to stop the terrifying evil 
 	
 
 ### Big Shark
-*Released on 2020-05-05, vote average 10*
+*Released on 2020-05-05, vote average 5.5*
 
 Three firefighters must save New Orleans from a gigantic shark.
 
@@ -232,8 +232,6 @@ Three firefighters must save New Orleans from a gigantic shark.
 
 
 	
-	
-	
 
   
 
@@ -243,38 +241,6 @@ Three firefighters must save New Orleans from a gigantic shark.
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Mrs. Serial Killer
-*Released on 2020-05-01, vote average 6.4*
-
-When her husband is framed and imprisoned for serial murders, a doting wife must perform a copycat murder, to prove her husband&#39;s innocence.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kwTNtpx13ZE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
