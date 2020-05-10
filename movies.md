@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Justice League Dark: Apokolips War
-*Released on 2020-05-05, vote average 9*
+*Released on 2020-05-05, vote average 8.9*
 
 Earth is decimated after intergalactic tyrant Darkseid has devastated the Justice League in a poorly executed war by the DC Super Heroes. Now the remaining bastions of good – the Justice League, Teen Titans, Suicide Squad and assorted others – must regroup, strategize and take the war to Darkseid in order to save the planet and its surviving inhabitants.
 
@@ -69,7 +69,7 @@ After losing her waitressing job, Katie Franklin takes a job as a caretaker to a
 	
 
 ### The Half of It
-*Released on 2020-05-01, vote average 7.5*
+*Released on 2020-05-01, vote average 7.4*
 
 Shy, straight-A student Ellie is hired by sweet but inarticulate jock Paul, who needs help wooing the most popular girl in school. But their new and unlikely friendship gets tricky when Ellie discovers she has feelings for the same girl.
 
@@ -78,6 +78,72 @@ Shy, straight-A student Ellie is hired by sweet but inarticulate jock Paul, who 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/B-yhF7IScUE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Arkansas
+*Released on 2020-05-05, vote average 6.5*
+
+Kyle and Swin live by the orders of an Arkansas-based drug kingpin named Frog, whom they&#39;ve never met. But when a deal goes horribly wrong, the consequences are deadly.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/y4-Y2KIDNmE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Jerry Seinfeld: 23 Hours To Kill
+*Released on 2020-05-05, vote average 8.1*
+
+Jerry Seinfeld takes the stage in New York and tackles talking vs. texting, bad buffets vs. so-called &#34;great&#34; restaurants and the magic of Pop Tarts.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/b7f1asbYiug?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,30 +178,8 @@ While serving life in prison, a young man looks back at the people, the circumst
 	
 	
 
-### Jerry Seinfeld: 23 Hours To Kill
-*Released on 2020-05-05, vote average 8.4*
-
-Jerry Seinfeld takes the stage in New York and tackles talking vs. texting, bad buffets vs. so-called &#34;great&#34; restaurants and the magic of Pop Tarts.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/b7f1asbYiug?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Wretched
-*Released on 2020-05-01, vote average 7.2*
+*Released on 2020-05-01, vote average 7.1*
 
 A rebellious teenage boy embarks on a gutsy crusade to stop the terrifying evil he suspects has possessed his neighbor in this bone-chilling occult thriller.
 
@@ -154,8 +198,6 @@ A rebellious teenage boy embarks on a gutsy crusade to stop the terrifying evil 
 
 
 	
-	
-	
 
   
 
@@ -176,81 +218,37 @@ A rebellious teenage boy embarks on a gutsy crusade to stop the terrifying evil 
 
 
 	
+
+  
+
+
 	
 
-### Arkansas
-*Released on 2020-05-05, vote average 6.5*
+  
 
-Kyle and Swin live by the orders of an Arkansas-based drug kingpin named Frog, whom they&#39;ve never met. But when a deal goes horribly wrong, the consequences are deadly.
+
+	
+
+  
+
+
+	
+	
+
+### Dreamkatcher
+*Released on 2020-04-28, vote average 6.3*
+
+Gail is forced to come to terms with Josh, her new stepson, at a remote country home. After stealing an evil talisman from a mysterious neighbor, Josh has sinister dreams of his dead mother, who commands Josh to murder Gail. When Josh&#39;s dad returns, he and Gail suspect that their son has been possessed by an ancient, bloodthirsty spirit. Is it too late to save Josh&#39;s life — or their own?
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/y4-Y2KIDNmE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/GM1RiidjK1U?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Big Shark
-*Released on 2020-05-05, vote average 5.5*
-
-Three firefighters must save New Orleans from a gigantic shark.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jeuSLaKHZSo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
