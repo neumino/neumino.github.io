@@ -46,28 +46,6 @@ Earth is decimated after intergalactic tyrant Darkseid has devastated the Justic
 	
 	
 
-### Dangerous Lies
-*Released on 2020-04-30, vote average 6.4*
-
-After losing her waitressing job, Katie Franklin takes a job as a caretaker to a wealthy elderly man in his sprawling, empty Chicago estate. The two grow close, but when he unexpectedly passes away and names Katie as his sole heir, she and her husband Adam are pulled into a complex web of lies, deception, and murder. If she&#39;s going to survive, Katie will have to question everyone&#39;s motives — even the people she loves.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EzJJo0whbJ4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Half of It
 *Released on 2020-05-01, vote average 7.4*
 
@@ -88,22 +66,49 @@ Shy, straight-A student Ellie is hired by sweet but inarticulate jock Paul, who 
 
 
 	
+	
 
-  
+### Dangerous Lies
+*Released on 2020-04-30, vote average 6.4*
 
+After losing her waitressing job, Katie Franklin takes a job as a caretaker to a wealthy elderly man in his sprawling, empty Chicago estate. The two grow close, but when he unexpectedly passes away and names Katie as his sole heir, she and her husband Adam are pulled into a complex web of lies, deception, and murder. If she&#39;s going to survive, Katie will have to question everyone&#39;s motives — even the people she loves.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EzJJo0whbJ4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
 
 
 	
-	
-	
 
   
 
 
+	
+	
+
+### Walkaway Joe
+*Released on 2020-05-08, vote average 8.5*
+
+A young boy named Dallas, who goes on a search for his pool-hustling father after he abandons their family. Dallas is determined to bring his father home when he meets Joe Haley, a drifter wrestling with a past he&#39;d rather forget, who feels responsible for Dallas&#39; safety and reluctantly takes him in.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nnIL4RHnj80?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -113,7 +118,7 @@ Shy, straight-A student Ellie is hired by sweet but inarticulate jock Paul, who 
 	
 
 ### Arkansas
-*Released on 2020-05-05, vote average 6.5*
+*Released on 2020-05-05, vote average 6.1*
 
 Kyle and Swin live by the orders of an Arkansas-based drug kingpin named Frog, whom they&#39;ve never met. But when a deal goes horribly wrong, the consequences are deadly.
 
@@ -122,50 +127,6 @@ Kyle and Swin live by the orders of an Arkansas-based drug kingpin named Frog, w
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/y4-Y2KIDNmE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Jerry Seinfeld: 23 Hours To Kill
-*Released on 2020-05-05, vote average 8.1*
-
-Jerry Seinfeld takes the stage in New York and tackles talking vs. texting, bad buffets vs. so-called &#34;great&#34; restaurants and the magic of Pop Tarts.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/b7f1asbYiug?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### All Day and a Night
-*Released on 2020-05-01, vote average 6.4*
-
-While serving life in prison, a young man looks back at the people, the circumstances and the system that set him on the path toward his crime.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/BC9Kk8Np9-Y?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -203,48 +164,18 @@ A rebellious teenage boy embarks on a gutsy crusade to stop the terrifying evil 
 
 
 	
-
-  
-
-
 	
 
-  
+### All Day and a Night
+*Released on 2020-05-01, vote average 6.4*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Dreamkatcher
-*Released on 2020-04-28, vote average 6.3*
-
-Gail is forced to come to terms with Josh, her new stepson, at a remote country home. After stealing an evil talisman from a mysterious neighbor, Josh has sinister dreams of his dead mother, who commands Josh to murder Gail. When Josh&#39;s dad returns, he and Gail suspect that their son has been possessed by an ancient, bloodthirsty spirit. Is it too late to save Josh&#39;s life — or their own?
+While serving life in prison, a young man looks back at the people, the circumstances and the system that set him on the path toward his crime.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/GM1RiidjK1U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/BC9Kk8Np9-Y?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -254,6 +185,111 @@ Gail is forced to come to terms with Josh, her new stepson, at a remote country 
   
 
 
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Jerry Seinfeld: 23 Hours To Kill
+*Released on 2020-05-05, vote average 8.1*
+
+Jerry Seinfeld takes the stage in New York and tackles talking vs. texting, bad buffets vs. so-called &#34;great&#34; restaurants and the magic of Pop Tarts.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/b7f1asbYiug?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Legion
+*Released on 2020-05-08, vote average 8.5*
+
+Noreno, a half-Roman, is entrusted with the mission of crossing the snowy mountains of Armenia, swarming with Parthian patrols, to seek help for his slowly dying men.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/uDp1pBwrqKE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Mrs. Serial Killer
+*Released on 2020-05-01, vote average 6.6*
+
+When her husband is framed and imprisoned for serial murders, a doting wife must perform a copycat murder, to prove her husband&#39;s innocence.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kwTNtpx13ZE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
