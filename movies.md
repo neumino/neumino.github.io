@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Justice League Dark: Apokolips War
-*Released on 2020-05-05, vote average 8.9*
+*Released on 2020-05-05, vote average 8.8*
 
 Earth is decimated after intergalactic tyrant Darkseid has devastated the Justice League in a poorly executed war by the DC Super Heroes. Now the remaining bastions of good – the Justice League, Teen Titans, Suicide Squad and assorted others – must regroup, strategize and take the war to Darkseid in order to save the planet and its surviving inhabitants.
 
@@ -46,6 +46,28 @@ Earth is decimated after intergalactic tyrant Darkseid has devastated the Justic
 	
 	
 
+### Dangerous Lies
+*Released on 2020-04-30, vote average 6.4*
+
+After losing her waitressing job, Katie Franklin takes a job as a caretaker to a wealthy elderly man in his sprawling, empty Chicago estate. The two grow close, but when he unexpectedly passes away and names Katie as his sole heir, she and her husband Adam are pulled into a complex web of lies, deception, and murder. If she&#39;s going to survive, Katie will have to question everyone&#39;s motives — even the people she loves.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EzJJo0whbJ4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Half of It
 *Released on 2020-05-01, vote average 7.4*
 
@@ -68,16 +90,16 @@ Shy, straight-A student Ellie is hired by sweet but inarticulate jock Paul, who 
 	
 	
 
-### Dangerous Lies
-*Released on 2020-04-30, vote average 6.4*
+### Walkaway Joe
+*Released on 2020-05-08, vote average 8.5*
 
-After losing her waitressing job, Katie Franklin takes a job as a caretaker to a wealthy elderly man in his sprawling, empty Chicago estate. The two grow close, but when he unexpectedly passes away and names Katie as his sole heir, she and her husband Adam are pulled into a complex web of lies, deception, and murder. If she&#39;s going to survive, Katie will have to question everyone&#39;s motives — even the people she loves.
+A young boy named Dallas, who goes on a search for his pool-hustling father after he abandons their family. Dallas is determined to bring his father home when he meets Joe Haley, a drifter wrestling with a past he&#39;d rather forget, who feels responsible for Dallas&#39; safety and reluctantly takes him in.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/EzJJo0whbJ4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/nnIL4RHnj80?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -95,16 +117,38 @@ After losing her waitressing job, Katie Franklin takes a job as a caretaker to a
 	
 	
 
-### Walkaway Joe
+### The Legion
 *Released on 2020-05-08, vote average 8.5*
 
-A young boy named Dallas, who goes on a search for his pool-hustling father after he abandons their family. Dallas is determined to bring his father home when he meets Joe Haley, a drifter wrestling with a past he&#39;d rather forget, who feels responsible for Dallas&#39; safety and reluctantly takes him in.
+Noreno, a half-Roman, is entrusted with the mission of crossing the snowy mountains of Armenia, swarming with Parthian patrols, to seek help for his slowly dying men.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/nnIL4RHnj80?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/uDp1pBwrqKE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Valley Girl
+*Released on 2020-05-08, vote average 5*
+
+Set to a new wave &#39;80s soundtrack, a pair of young lovers from different backgrounds defy their parents and friends to stay together.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pLhYFWwACo4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -139,8 +183,30 @@ Kyle and Swin live by the orders of an Arkansas-based drug kingpin named Frog, w
 	
 	
 
+### How to Build a Girl
+*Released on 2020-05-08, vote average 1*
+
+The journey of Midlands teenager Johanna Morrigan, who reinvents herself as Dolly Wilde: fast-talking, lady sex-adventurer, moves to London, and gets a job as music critic in the hope of saving her poverty stricken family in Wolverhampton. Based on Caitlin Moran&#39;s bestselling semi-autobiographical novel.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/X7rPlAv1Ceo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Wretched
-*Released on 2020-05-01, vote average 7.1*
+*Released on 2020-05-01, vote average 6.9*
 
 A rebellious teenage boy embarks on a gutsy crusade to stop the terrifying evil he suspects has possessed his neighbor in this bone-chilling occult thriller.
 
@@ -159,15 +225,10 @@ A rebellious teenage boy embarks on a gutsy crusade to stop the terrifying evil 
 
 
 	
-
-  
-
-
-	
 	
 
 ### All Day and a Night
-*Released on 2020-05-01, vote average 6.4*
+*Released on 2020-05-01, vote average 6.5*
 
 While serving life in prison, a young man looks back at the people, the circumstances and the system that set him on the path toward his crime.
 
@@ -193,10 +254,25 @@ While serving life in prison, a young man looks back at the people, the circumst
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### Jerry Seinfeld: 23 Hours To Kill
-*Released on 2020-05-05, vote average 8.1*
+*Released on 2020-05-05, vote average 7.4*
 
 Jerry Seinfeld takes the stage in New York and tackles talking vs. texting, bad buffets vs. so-called &#34;great&#34; restaurants and the magic of Pop Tarts.
 
@@ -215,18 +291,28 @@ Jerry Seinfeld takes the stage in New York and tackles talking vs. texting, bad 
 
 
 	
+
+  
+
+
 	
 
-### The Legion
-*Released on 2020-05-08, vote average 8.5*
+  
 
-Noreno, a half-Roman, is entrusted with the mission of crossing the snowy mountains of Armenia, swarming with Parthian patrols, to seek help for his slowly dying men.
+
+	
+	
+
+### The Source of Shadows
+*Released on 2020-04-28, vote average 8*
+
+This horror anthology film depicts ten tales of horror from twelve visionary directors as they take us on a journey to experience one of humanity’s most carnal fears; the fear of the unknown.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/uDp1pBwrqKE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/9-tnVLm9rrw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -236,60 +322,6 @@ Noreno, a half-Roman, is entrusted with the mission of crossing the snowy mounta
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Mrs. Serial Killer
-*Released on 2020-05-01, vote average 6.6*
-
-When her husband is framed and imprisoned for serial murders, a doting wife must perform a copycat murder, to prove her husband&#39;s innocence.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kwTNtpx13ZE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
