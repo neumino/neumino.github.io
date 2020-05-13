@@ -21,7 +21,7 @@ Earth is decimated after intergalactic tyrant Darkseid has devastated the Justic
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/UzY817VhnQQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/tnCkn5xD2jg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -90,16 +90,16 @@ Shy, straight-A student Ellie is hired by sweet but inarticulate jock Paul, who 
 	
 	
 
-### Walkaway Joe
-*Released on 2020-05-08, vote average 8.5*
+### Have a Good Trip: Adventures in Psychedelics
+*Released on 2020-05-11, vote average 6*
 
-A young boy named Dallas, who goes on a search for his pool-hustling father after he abandons their family. Dallas is determined to bring his father home when he meets Joe Haley, a drifter wrestling with a past he&#39;d rather forget, who feels responsible for Dallas&#39; safety and reluctantly takes him in.
+Celebrities recall their most mind-bending trips via animations, reenactments and more in this comedic documentary exploring the story of psychedelics.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/nnIL4RHnj80?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/FmQygtqDLHs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -110,6 +110,23 @@ A young boy named Dallas, who goes on a search for his pool-hustling father afte
 
 
 	
+	
+
+### Arkansas
+*Released on 2020-05-05, vote average 6*
+
+Kyle and Swin live by the orders of an Arkansas-based drug kingpin named Frog, whom they&#39;ve never met. But when a deal goes horribly wrong, the consequences are deadly.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/y4-Y2KIDNmE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -118,7 +135,7 @@ A young boy named Dallas, who goes on a search for his pool-hustling father afte
 	
 
 ### The Legion
-*Released on 2020-05-08, vote average 8.5*
+*Released on 2020-05-08, vote average 6*
 
 Noreno, a half-Roman, is entrusted with the mission of crossing the snowy mountains of Armenia, swarming with Parthian patrols, to seek help for his slowly dying men.
 
@@ -127,6 +144,50 @@ Noreno, a half-Roman, is entrusted with the mission of crossing the snowy mounta
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/uDp1pBwrqKE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Wretched
+*Released on 2020-05-01, vote average 6.8*
+
+A rebellious teenage boy embarks on a gutsy crusade to stop the terrifying evil he suspects has possessed his neighbor in this bone-chilling occult thriller.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vwFFhQhQC2M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### All Day and a Night
+*Released on 2020-05-01, vote average 6.4*
+
+While serving life in prison, a young man looks back at the people, the circumstances and the system that set him on the path toward his crime.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/BC9Kk8Np9-Y?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -159,23 +220,6 @@ Set to a new wave &#39;80s soundtrack, a pair of young lovers from different bac
 
 
 	
-	
-
-### Arkansas
-*Released on 2020-05-05, vote average 6.1*
-
-Kyle and Swin live by the orders of an Arkansas-based drug kingpin named Frog, whom they&#39;ve never met. But when a deal goes horribly wrong, the consequences are deadly.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/y4-Y2KIDNmE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -192,7 +236,7 @@ The journey of Midlands teenager Johanna Morrigan, who reinvents herself as Doll
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/X7rPlAv1Ceo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/eIbcxPy4okQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -205,16 +249,16 @@ The journey of Midlands teenager Johanna Morrigan, who reinvents herself as Doll
 	
 	
 
-### The Wretched
-*Released on 2020-05-01, vote average 6.9*
+### Walkaway Joe
+*Released on 2020-05-08, vote average 8.5*
 
-A rebellious teenage boy embarks on a gutsy crusade to stop the terrifying evil he suspects has possessed his neighbor in this bone-chilling occult thriller.
+A young boy named Dallas, who goes on a search for his pool-hustling father after he abandons their family. Dallas is determined to bring his father home when he meets Joe Haley, a drifter wrestling with a past he&#39;d rather forget, who feels responsible for Dallas&#39; safety and reluctantly takes him in.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/vwFFhQhQC2M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/nnIL4RHnj80?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -227,60 +271,16 @@ A rebellious teenage boy embarks on a gutsy crusade to stop the terrifying evil 
 	
 	
 
-### All Day and a Night
-*Released on 2020-05-01, vote average 6.5*
+### Becoming
+*Released on 2020-05-06, vote average 7.9*
 
-While serving life in prison, a young man looks back at the people, the circumstances and the system that set him on the path toward his crime.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/BC9Kk8Np9-Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Jerry Seinfeld: 23 Hours To Kill
-*Released on 2020-05-05, vote average 7.4*
-
-Jerry Seinfeld takes the stage in New York and tackles talking vs. texting, bad buffets vs. so-called &#34;great&#34; restaurants and the magic of Pop Tarts.
+Join former first lady Michelle Obama in an intimate documentary looking at her life, hopes and connection with others as she tours with &#34;Becoming.&#34;
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/b7f1asbYiug?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/zqVUafhQ4xc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -296,6 +296,23 @@ Jerry Seinfeld takes the stage in New York and tackles talking vs. texting, bad 
 
 
 	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 
   
 
@@ -303,16 +320,16 @@ Jerry Seinfeld takes the stage in New York and tackles talking vs. texting, bad 
 	
 	
 
-### The Source of Shadows
-*Released on 2020-04-28, vote average 8*
+### Batsh*t Bride
+*Released on 2020-05-08, vote average 9*
 
-This horror anthology film depicts ten tales of horror from twelve visionary directors as they take us on a journey to experience one of humanity’s most carnal fears; the fear of the unknown.
+On April Fools&#39; Day, just before her wedding, a bride pranks her fiancé by saying that she thinks that they&#39;ve lost that spark and that they should call off the wedding and break up, only to discover that he feels the exact same way.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/9-tnVLm9rrw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ng7oke_KhxQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -332,7 +349,26 @@ This horror anthology film depicts ten tales of horror from twelve visionary dir
 
 
 	
+	
 
+### Scoob!
+*Released on 2020-05-15, vote average 10*
+
+Scooby-Doo and the Mystery Inc. gang team-up with various Hanna-Barbera characters to save the world from the evil Dick Dastardly.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-BgWppq25xI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
 	
 
 	
