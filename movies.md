@@ -68,28 +68,6 @@ After losing her waitressing job, Katie Franklin takes a job as a caretaker to a
 	
 	
 
-### The Half of It
-*Released on 2020-05-01, vote average 7.4*
-
-Shy, straight-A student Ellie is hired by sweet but inarticulate jock Paul, who needs help wooing the most popular girl in school. But their new and unlikely friendship gets tricky when Ellie discovers she has feelings for the same girl.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/B-yhF7IScUE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Have a Good Trip: Adventures in Psychedelics
 *Released on 2020-05-11, vote average 6*
 
@@ -112,16 +90,16 @@ Celebrities recall their most mind-bending trips via animations, reenactments an
 	
 	
 
-### Arkansas
-*Released on 2020-05-05, vote average 6*
+### The Half of It
+*Released on 2020-05-01, vote average 7.4*
 
-Kyle and Swin live by the orders of an Arkansas-based drug kingpin named Frog, whom they&#39;ve never met. But when a deal goes horribly wrong, the consequences are deadly.
+Shy, straight-A student Ellie is hired by sweet but inarticulate jock Paul, who needs help wooing the most popular girl in school. But their new and unlikely friendship gets tricky when Ellie discovers she has feelings for the same girl.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/y4-Y2KIDNmE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/B-yhF7IScUE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -135,7 +113,7 @@ Kyle and Swin live by the orders of an Arkansas-based drug kingpin named Frog, w
 	
 
 ### The Legion
-*Released on 2020-05-08, vote average 6*
+*Released on 2020-05-08, vote average 6.4*
 
 Noreno, a half-Roman, is entrusted with the mission of crossing the snowy mountains of Armenia, swarming with Parthian patrols, to seek help for his slowly dying men.
 
@@ -144,6 +122,50 @@ Noreno, a half-Roman, is entrusted with the mission of crossing the snowy mounta
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/uDp1pBwrqKE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Unbreakable Kimmy Schmidt: Kimmy vs. the Reverend
+*Released on 2020-05-12, vote average 8*
+
+Kimmy&#39;s a famous author and she&#39;s about to marry a prince! But first she has to foil the Reverend&#39;s evil plot. It&#39;s your move: What should Kimmy do next?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LZWmRUxOj9g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Arkansas
+*Released on 2020-05-05, vote average 6.1*
+
+Kyle and Swin live by the orders of an Arkansas-based drug kingpin named Frog, whom they&#39;ve never met. But when a deal goes horribly wrong, the consequences are deadly.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/y4-Y2KIDNmE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -166,99 +188,6 @@ A rebellious teenage boy embarks on a gutsy crusade to stop the terrifying evil 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/vwFFhQhQC2M?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### All Day and a Night
-*Released on 2020-05-01, vote average 6.4*
-
-While serving life in prison, a young man looks back at the people, the circumstances and the system that set him on the path toward his crime.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/BC9Kk8Np9-Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Valley Girl
-*Released on 2020-05-08, vote average 5*
-
-Set to a new wave &#39;80s soundtrack, a pair of young lovers from different backgrounds defy their parents and friends to stay together.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pLhYFWwACo4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### How to Build a Girl
-*Released on 2020-05-08, vote average 1*
-
-The journey of Midlands teenager Johanna Morrigan, who reinvents herself as Dolly Wilde: fast-talking, lady sex-adventurer, moves to London, and gets a job as music critic in the hope of saving her poverty stricken family in Wolverhampton. Based on Caitlin Moran&#39;s bestselling semi-autobiographical novel.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/eIbcxPy4okQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Walkaway Joe
-*Released on 2020-05-08, vote average 8.5*
-
-A young boy named Dallas, who goes on a search for his pool-hustling father after he abandons their family. Dallas is determined to bring his father home when he meets Joe Haley, a drifter wrestling with a past he&#39;d rather forget, who feels responsible for Dallas&#39; safety and reluctantly takes him in.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nnIL4RHnj80?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -297,16 +226,21 @@ Join former first lady Michelle Obama in an intimate documentary looking at her 
 
 	
 	
+
+### All Day and a Night
+*Released on 2020-05-01, vote average 6.4*
+
+While serving life in prison, a young man looks back at the people, the circumstances and the system that set him on the path toward his crime.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/BC9Kk8Np9-Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -334,6 +268,89 @@ On April Fools&#39; Day, just before her wedding, a bride pranks her fiancé by 
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Valley Girl
+*Released on 2020-05-08, vote average 5*
+
+Set to a new wave &#39;80s soundtrack, a pair of young lovers from different backgrounds defy their parents and friends to stay together.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pLhYFWwACo4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Walkaway Joe
+*Released on 2020-05-08, vote average 8.5*
+
+A young boy named Dallas, who goes on a search for his pool-hustling father after he abandons their family. Dallas is determined to bring his father home when he meets Joe Haley, a drifter wrestling with a past he&#39;d rather forget, who feels responsible for Dallas&#39; safety and reluctantly takes him in.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nnIL4RHnj80?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### How to Build a Girl
+*Released on 2020-05-08, vote average 1*
+
+The journey of Midlands teenager Johanna Morrigan, who reinvents herself as Dolly Wilde: fast-talking, lady sex-adventurer, moves to London, and gets a job as music critic in the hope of saving her poverty stricken family in Wolverhampton. Based on Caitlin Moran&#39;s bestselling semi-autobiographical novel.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/eIbcxPy4okQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
