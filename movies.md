@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Justice League Dark: Apokolips War
-*Released on 2020-05-05, vote average 8.8*
+*Released on 2020-05-05, vote average 8.7*
 
 Earth is decimated after intergalactic tyrant Darkseid has devastated the Justice League in a poorly executed war by the DC Super Heroes. Now the remaining bastions of good – the Justice League, Teen Titans, Suicide Squad and assorted others – must regroup, strategize and take the war to Darkseid in order to save the planet and its surviving inhabitants.
 
@@ -46,50 +46,6 @@ Earth is decimated after intergalactic tyrant Darkseid has devastated the Justic
 	
 	
 
-### Dangerous Lies
-*Released on 2020-04-30, vote average 6.4*
-
-After losing her waitressing job, Katie Franklin takes a job as a caretaker to a wealthy elderly man in his sprawling, empty Chicago estate. The two grow close, but when he unexpectedly passes away and names Katie as his sole heir, she and her husband Adam are pulled into a complex web of lies, deception, and murder. If she&#39;s going to survive, Katie will have to question everyone&#39;s motives — even the people she loves.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EzJJo0whbJ4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Have a Good Trip: Adventures in Psychedelics
-*Released on 2020-05-11, vote average 6*
-
-Celebrities recall their most mind-bending trips via animations, reenactments and more in this comedic documentary exploring the story of psychedelics.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FmQygtqDLHs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Half of It
 *Released on 2020-05-01, vote average 7.4*
 
@@ -112,16 +68,16 @@ Shy, straight-A student Ellie is hired by sweet but inarticulate jock Paul, who 
 	
 	
 
-### The Legion
-*Released on 2020-05-08, vote average 6.4*
+### Scoob!
+*Released on 2020-05-15, vote average 10*
 
-Noreno, a half-Roman, is entrusted with the mission of crossing the snowy mountains of Armenia, swarming with Parthian patrols, to seek help for his slowly dying men.
+Scooby-Doo and the Mystery Inc. gang team-up with various Hanna-Barbera characters to save the world from the evil Dick Dastardly.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/uDp1pBwrqKE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-BgWppq25xI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,19 +90,48 @@ Noreno, a half-Roman, is entrusted with the mission of crossing the snowy mounta
 	
 	
 
-### Unbreakable Kimmy Schmidt: Kimmy vs. the Reverend
-*Released on 2020-05-12, vote average 8*
+### The Wrong Missy
+*Released on 2020-05-13, vote average 6.7*
 
-Kimmy&#39;s a famous author and she&#39;s about to marry a prince! But first she has to foil the Reverend&#39;s evil plot. It&#39;s your move: What should Kimmy do next?
+A guy meets the woman of his dreams and invites her to his company&#39;s corporate retreat, but realizes he sent the invite to the wrong person.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/LZWmRUxOj9g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/2Cwaneq2w-4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+	
+
+### Have a Good Trip: Adventures in Psychedelics
+*Released on 2020-05-11, vote average 7.3*
+
+Celebrities recall their most mind-bending trips via animations, reenactments and more in this comedic documentary exploring the story of psychedelics.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FmQygtqDLHs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -200,6 +185,28 @@ A rebellious teenage boy embarks on a gutsy crusade to stop the terrifying evil 
 	
 	
 
+### The Legion
+*Released on 2020-05-08, vote average 6.4*
+
+Noreno, a half-Roman, is entrusted with the mission of crossing the snowy mountains of Armenia, swarming with Parthian patrols, to seek help for his slowly dying men.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/uDp1pBwrqKE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Becoming
 *Released on 2020-05-06, vote average 7.9*
 
@@ -219,6 +226,23 @@ Join former first lady Michelle Obama in an intimate documentary looking at her 
   
 
 
+	
+	
+
+### Unbreakable Kimmy Schmidt: Kimmy vs. the Reverend
+*Released on 2020-05-12, vote average 7.9*
+
+Kimmy&#39;s a famous author and she&#39;s about to marry a prince! But first she has to foil the Reverend&#39;s evil plot. It&#39;s your move: What should Kimmy do next?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LZWmRUxOj9g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -252,22 +276,30 @@ While serving life in prison, a young man looks back at the people, the circumst
 
 
 	
-	
 
-### Batsh*t Bride
-*Released on 2020-05-08, vote average 9*
+  
 
-On April Fools&#39; Day, just before her wedding, a bride pranks her fiancé by saying that she thinks that they&#39;ve lost that spark and that they should call off the wedding and break up, only to discover that he feels the exact same way.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ng7oke_KhxQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -290,72 +322,6 @@ Set to a new wave &#39;80s soundtrack, a pair of young lovers from different bac
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### Walkaway Joe
-*Released on 2020-05-08, vote average 8.5*
-
-A young boy named Dallas, who goes on a search for his pool-hustling father after he abandons their family. Dallas is determined to bring his father home when he meets Joe Haley, a drifter wrestling with a past he&#39;d rather forget, who feels responsible for Dallas&#39; safety and reluctantly takes him in.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nnIL4RHnj80?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### How to Build a Girl
-*Released on 2020-05-08, vote average 1*
-
-The journey of Midlands teenager Johanna Morrigan, who reinvents herself as Dolly Wilde: fast-talking, lady sex-adventurer, moves to London, and gets a job as music critic in the hope of saving her poverty stricken family in Wolverhampton. Based on Caitlin Moran&#39;s bestselling semi-autobiographical novel.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/eIbcxPy4okQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
