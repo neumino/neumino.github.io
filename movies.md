@@ -46,32 +46,10 @@ Earth is decimated after intergalactic tyrant Darkseid has devastated the Justic
 	
 	
 
-### The Half of It
-*Released on 2020-05-01, vote average 7.4*
-
-Shy, straight-A student Ellie is hired by sweet but inarticulate jock Paul, who needs help wooing the most popular girl in school. But their new and unlikely friendship gets tricky when Ellie discovers she has feelings for the same girl.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/B-yhF7IScUE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Scoob!
 *Released on 2020-05-15, vote average 10*
 
-Scooby-Doo and the Mystery Inc. gang team-up with various Hanna-Barbera characters to save the world from the evil Dick Dastardly.
+In Scooby-Doo’s greatest adventure yet, see the never-before told story of how lifelong friends Scooby and Shaggy first met and how they joined forces with young detectives Fred, Velma, and Daphne to form the famous Mystery Inc. Now, with hundreds of cases solved, Scooby and the gang face their biggest, toughest mystery ever: an evil plot to unleash the ghost dog Cerberus upon the world. As they race to stop this global “dogpocalypse,” the gang discovers that Scooby has a secret legacy and an epic destiny greater than anyone ever imagined.
 
 <iframe id="player"
 	type="text/html"
@@ -91,7 +69,7 @@ Scooby-Doo and the Mystery Inc. gang team-up with various Hanna-Barbera characte
 	
 
 ### The Wrong Missy
-*Released on 2020-05-13, vote average 6.7*
+*Released on 2020-05-13, vote average 6.1*
 
 A guy meets the woman of his dreams and invites her to his company&#39;s corporate retreat, but realizes he sent the invite to the wrong person.
 
@@ -111,28 +89,11 @@ A guy meets the woman of his dreams and invites her to his company&#39;s corpora
 
 	
 	
-
-### Have a Good Trip: Adventures in Psychedelics
-*Released on 2020-05-11, vote average 7.3*
-
-Celebrities recall their most mind-bending trips via animations, reenactments and more in this comedic documentary exploring the story of psychedelics.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FmQygtqDLHs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
 
 
-	
-	
 	
 
   
@@ -161,18 +122,38 @@ Kyle and Swin live by the orders of an Arkansas-based drug kingpin named Frog, w
 
 
 	
+
+  
+
+
 	
 
-### The Wretched
-*Released on 2020-05-01, vote average 6.8*
+  
 
-A rebellious teenage boy embarks on a gutsy crusade to stop the terrifying evil he suspects has possessed his neighbor in this bone-chilling occult thriller.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Have a Good Trip: Adventures in Psychedelics
+*Released on 2020-05-11, vote average 7*
+
+Celebrities recall their most mind-bending trips via animations, reenactments and more in this comedic documentary exploring the story of psychedelics.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/vwFFhQhQC2M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/FmQygtqDLHs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -205,10 +186,25 @@ Noreno, a half-Roman, is entrusted with the mission of crossing the snowy mounta
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### Becoming
-*Released on 2020-05-06, vote average 7.9*
+*Released on 2020-05-06, vote average 8*
 
 Join former first lady Michelle Obama in an intimate documentary looking at her life, hopes and connection with others as she tours with &#34;Becoming.&#34;
 
@@ -227,45 +223,6 @@ Join former first lady Michelle Obama in an intimate documentary looking at her 
 
 
 	
-	
-
-### Unbreakable Kimmy Schmidt: Kimmy vs. the Reverend
-*Released on 2020-05-12, vote average 7.9*
-
-Kimmy&#39;s a famous author and she&#39;s about to marry a prince! But first she has to foil the Reverend&#39;s evil plot. It&#39;s your move: What should Kimmy do next?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LZWmRUxOj9g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### All Day and a Night
-*Released on 2020-05-01, vote average 6.4*
-
-While serving life in prison, a young man looks back at the people, the circumstances and the system that set him on the path toward his crime.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/BC9Kk8Np9-Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -280,48 +237,6 @@ While serving life in prison, a young man looks back at the people, the circumst
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Valley Girl
-*Released on 2020-05-08, vote average 5*
-
-Set to a new wave &#39;80s soundtrack, a pair of young lovers from different backgrounds defy their parents and friends to stay together.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pLhYFWwACo4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -332,26 +247,7 @@ Set to a new wave &#39;80s soundtrack, a pair of young lovers from different bac
 
 
 	
-	
 
-### Scoob!
-*Released on 2020-05-15, vote average 10*
-
-Scooby-Doo and the Mystery Inc. gang team-up with various Hanna-Barbera characters to save the world from the evil Dick Dastardly.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-BgWppq25xI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
 	
 
 	
