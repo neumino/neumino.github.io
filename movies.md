@@ -47,7 +47,7 @@ Earth is decimated after intergalactic tyrant Darkseid has devastated the Justic
 	
 
 ### Scoob!
-*Released on 2020-05-15, vote average 10*
+*Released on 2020-05-15, vote average 8.3*
 
 In Scooby-Doo’s greatest adventure yet, see the never-before told story of how lifelong friends Scooby and Shaggy first met and how they joined forces with young detectives Fred, Velma, and Daphne to form the famous Mystery Inc. Now, with hundreds of cases solved, Scooby and the gang face their biggest, toughest mystery ever: an evil plot to unleash the ghost dog Cerberus upon the world. As they race to stop this global “dogpocalypse,” the gang discovers that Scooby has a secret legacy and an epic destiny greater than anyone ever imagined.
 
@@ -69,7 +69,7 @@ In Scooby-Doo’s greatest adventure yet, see the never-before told story of how
 	
 
 ### The Wrong Missy
-*Released on 2020-05-13, vote average 6.1*
+*Released on 2020-05-13, vote average 6.2*
 
 A guy meets the woman of his dreams and invites her to his company&#39;s corporate retreat, but realizes he sent the invite to the wrong person.
 
@@ -88,6 +88,28 @@ A guy meets the woman of his dreams and invites her to his company&#39;s corpora
 
 
 	
+	
+	
+
+  
+
+
+	
+	
+
+### Blood and Money
+*Released on 2020-05-15, vote average 8*
+
+A retired veteran hunting in the Allagash backcountry of Maine discovers a dead woman with a duffle bag full of money. He soon finds himself in a web of deceit and murder.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/YKPMaXOfgbQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -132,20 +154,10 @@ Kyle and Swin live by the orders of an Arkansas-based drug kingpin named Frog, w
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### Have a Good Trip: Adventures in Psychedelics
-*Released on 2020-05-11, vote average 7*
+*Released on 2020-05-11, vote average 7.6*
 
 Celebrities recall their most mind-bending trips via animations, reenactments and more in this comedic documentary exploring the story of psychedelics.
 
@@ -158,6 +170,11 @@ Celebrities recall their most mind-bending trips via animations, reenactments an
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -201,6 +218,11 @@ Noreno, a half-Roman, is entrusted with the mission of crossing the snowy mounta
 
 
 	
+
+  
+
+
+	
 	
 
 ### Becoming
@@ -217,11 +239,6 @@ Join former first lady Michelle Obama in an intimate documentary looking at her 
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
