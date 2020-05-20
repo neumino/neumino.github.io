@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Scoob!
-*Released on 2020-05-15, vote average 8.3*
+*Released on 2020-05-15, vote average 8.2*
 
 In Scooby-Doo’s greatest adventure yet, see the never-before told story of how lifelong friends Scooby and Shaggy first met and how they joined forces with young detectives Fred, Velma, and Daphne to form the famous Mystery Inc. Now, with hundreds of cases solved, Scooby and the gang face their biggest, toughest mystery ever: an evil plot to unleash the ghost dog Cerberus upon the world. As they race to stop this global “dogpocalypse,” the gang discovers that Scooby has a secret legacy and an epic destiny greater than anyone ever imagined.
 
@@ -47,7 +47,7 @@ In Scooby-Doo’s greatest adventure yet, see the never-before told story of how
 	
 
 ### The Wrong Missy
-*Released on 2020-05-13, vote average 6.1*
+*Released on 2020-05-13, vote average 6.2*
 
 A guy meets the woman of his dreams and invites her to his company&#39;s corporate retreat, but realizes he sent the invite to the wrong person.
 
@@ -56,28 +56,6 @@ A guy meets the woman of his dreams and invites her to his company&#39;s corpora
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/2Cwaneq2w-4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Justice League Dark: Apokolips War
-*Released on 2020-05-05, vote average 8.6*
-
-Earth is decimated after intergalactic tyrant Darkseid has devastated the Justice League in a poorly executed war by the DC Super Heroes. Now the remaining bastions of good – the Justice League, Teen Titans, Suicide Squad and assorted others – must regroup, strategize and take the war to Darkseid in order to save the planet and its surviving inhabitants.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tnCkn5xD2jg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -113,7 +91,7 @@ The 47-year old Al Capone, after 10 years in prison, starts suffering from demen
 	
 
 ### Blood and Money
-*Released on 2020-05-15, vote average 4.6*
+*Released on 2020-05-15, vote average 4.7*
 
 A retired veteran hunting in the Allagash backcountry of Maine discovers a dead woman with a duffle bag full of money. He soon finds himself in a web of deceit and murder.
 
@@ -132,28 +110,6 @@ A retired veteran hunting in the Allagash backcountry of Maine discovers a dead 
 
 
 	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 
   
 
@@ -161,16 +117,16 @@ A retired veteran hunting in the Allagash backcountry of Maine discovers a dead 
 	
 	
 
-### The Vast of Night
-*Released on 2020-05-15, vote average 9*
+### Taylor Swift City of Lover Concert
+*Released on 2020-05-17, vote average 9*
 
-At the dawn of the space-race, two radio-obsessed teens discover a strange frequency over the airwaves in what becomes the most important night of their lives and in the history of their small town.
+Taylor Swift performs songs from her award-winning album, &#34;Lover,&#34; to an intimate crowd of fans from 37 countries, traveling to the City of Love for this concert filmed Sept. 9, 2019, at L&#39;Olympia Theater in Paris, France.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ZEiwpCJqMM0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/VlyLr1KXN8Q?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -182,17 +138,36 @@ At the dawn of the space-race, two radio-obsessed teens discover a strange frequ
 
 	
 	
+	
 
-### Arkansas
-*Released on 2020-05-05, vote average 6.1*
+  
 
-Kyle and Swin live by the orders of an Arkansas-based drug kingpin named Frog, whom they&#39;ve never met. But when a deal goes horribly wrong, the consequences are deadly.
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Lawrence After Arabia
+*Released on 2020-05-19, vote average 9*
+
+This film is the story of the last years of the life of T.E. Lawrence -  Lawrence of Arabia - a scholar, writer, soldier and reluctant hero.  Retiring to his cottage in Dorset he hopes to escape his past but is pulled into political intrigue. While he has powerful friends, with his uncompromising manner he has made dangerous enemies.  As they plot against him he dies in a tragic motorcycle accident. However, with such enemies was his untimely death an assassination and cover up by the British Secret Service?
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/y4-Y2KIDNmE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/yhe5bJCjows?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -213,18 +188,57 @@ Kyle and Swin live by the orders of an Arkansas-based drug kingpin named Frog, w
 
 
 	
+
+  
+
+
+	
+	
 	
 
-### The Legion
-*Released on 2020-05-08, vote average 6.4*
+  
 
-Noreno, a half-Roman, is entrusted with the mission of crossing the snowy mountains of Armenia, swarming with Parthian patrols, to seek help for his slowly dying men.
+
+	
+	
+
+### Valley Girl
+*Released on 2020-05-08, vote average 5*
+
+Set to a new wave &#39;80s soundtrack, a pair of young lovers from different backgrounds defy their parents and friends to stay together.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/uDp1pBwrqKE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/pLhYFWwACo4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Becoming
+*Released on 2020-05-06, vote average 8*
+
+Join former first lady Michelle Obama in an intimate documentary looking at her life, hopes and connection with others as she tours with &#34;Becoming.&#34;
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zqVUafhQ4xc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -262,50 +276,6 @@ Celebrities recall their most mind-bending trips via animations, reenactments an
 
 
 	
-	
-
-### Becoming
-*Released on 2020-05-06, vote average 8.1*
-
-Join former first lady Michelle Obama in an intimate documentary looking at her life, hopes and connection with others as she tours with &#34;Becoming.&#34;
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zqVUafhQ4xc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Basketball County: In the Water
-*Released on 2020-05-15, vote average 7*
-
-This documentary film examines how NBA star Kevin Durant’s hometown of Prince George’s County, Maryland, has recently produced more elite basketball players than anywhere else in the world.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/T-Ask7tpUj8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -315,7 +285,28 @@ This documentary film examines how NBA star Kevin Durant’s hometown of Prince 
 
 
 	
+	
+	
 
+	
+
+	
+	
+
+### Inheritance
+*Released on 2020-05-22, vote average 6*
+
+A patriarch of a wealthy and powerful family suddenly passes away, leaving his wife and daughter with a shocking secret inheritance that threatens to unravel and destroy their lives.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3q7JOLZxjqY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -335,8 +326,6 @@ A disgraced doctor and his family are held hostage at their home by criminals on
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
