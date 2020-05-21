@@ -110,6 +110,40 @@ A retired veteran hunting in the Allagash backcountry of Maine discovers a dead 
 
 
 	
+	
+	
+
+  
+
+
+	
+	
+
+### Edge of Extinction
+*Released on 2020-05-18, vote average 3*
+
+15 years after a global apocalypse, mankind is on the verge of extinction. Civilisation no longer exists, food is scarce and most eke out a living by stealing and killing. One boy clings onto life in the desolate British countryside, where staying away from others has been key to his survival. But this self-imposed isolation comes to an abrupt end when he crosses paths with another group of survivors and faces an enemy far more savage than any of them could imagine.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZB7WlhR4eXI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 
   
 
@@ -138,12 +172,20 @@ Taylor Swift performs songs from her award-winning album, &#34;Lover,&#34; to an
 
 	
 	
-	
 
-  
+### Patton Oswalt: I Love Everything
+*Released on 2020-05-19, vote average 8*
 
+Turning 50. Remarrying. Buying a new house. Experiencing existential dread at Denny&#39;s. Life comes at Patton Oswalt fast in his latest stand-up special.
 
-	
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/NFNWNBWadrw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -178,43 +220,6 @@ This film is the story of the last years of the life of T.E. Lawrence -  Lawrenc
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Valley Girl
-*Released on 2020-05-08, vote average 5*
-
-Set to a new wave &#39;80s soundtrack, a pair of young lovers from different backgrounds defy their parents and friends to stay together.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pLhYFWwACo4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -227,21 +232,11 @@ Set to a new wave &#39;80s soundtrack, a pair of young lovers from different bac
 
 
 	
+
+  
+
+
 	
-
-### Becoming
-*Released on 2020-05-06, vote average 8*
-
-Join former first lady Michelle Obama in an intimate documentary looking at her life, hopes and connection with others as she tours with &#34;Becoming.&#34;
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zqVUafhQ4xc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -249,22 +244,10 @@ Join former first lady Michelle Obama in an intimate documentary looking at her 
 
 
 	
-	
 
-### Have a Good Trip: Adventures in Psychedelics
-*Released on 2020-05-11, vote average 7.8*
+  
 
-Celebrities recall their most mind-bending trips via animations, reenactments and more in this comedic documentary exploring the story of psychedelics.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FmQygtqDLHs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -283,10 +266,6 @@ Celebrities recall their most mind-bending trips via animations, reenactments an
 
 ## Opening soon
 
-
-	
-	
-	
 
 	
 
@@ -313,7 +292,7 @@ A patriarch of a wealthy and powerful family suddenly passes away, leaving his w
 	
 
 ### Survive the Night
-*Released on 2020-05-22, vote average 5*
+*Released on 2020-05-22, vote average 4*
 
 A disgraced doctor and his family are held hostage at their home by criminals on the run, when a robbery-gone-awry requires them to seek immediate medical attention.
 
@@ -322,6 +301,25 @@ A disgraced doctor and his family are held hostage at their home by criminals on
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/XVHReeBQFtA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### Dead Water
+*Released on 2020-05-28, vote average 9*
+
+When a relaxing getaway turns deadly, a former Marine must risk his life once again to save his wife and best friend from a modern day pirate; all the while trying to hold himself together as he faces the ghosts of the war he left behind.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/7JDkaG0ZS7I?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
