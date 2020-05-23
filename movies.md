@@ -68,57 +68,8 @@ A guy meets the woman of his dreams and invites her to his company&#39;s corpora
 	
 	
 
-### Last Moment of Clarity
-*Released on 2020-05-19, vote average 9*
-
-A normal New Yorker&#39;s life is upended when his girlfriend is murdered by the Bulgarian mob. He flees to Paris to hide from her killers. But three years later, he sees a similar looking woman on the silver screen. Obsession with past love takes Sam to Los Angeles to look for answers, only to put him back into the sights of the Bulgarians.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Ritye-tf1-g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Capone
-*Released on 2020-05-12, vote average 5.5*
-
-The 47-year old Al Capone, after 10 years in prison, starts suffering from dementia and comes to be haunted by his violent past.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LHYlKQSc7rA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Inheritance
-*Released on 2020-05-22, vote average 6*
+*Released on 2020-05-15, vote average 5*
 
 A patriarch of a wealthy and powerful family suddenly passes away, leaving his wife and daughter with a shocking secret inheritance that threatens to unravel and destroy their lives.
 
@@ -139,8 +90,74 @@ A patriarch of a wealthy and powerful family suddenly passes away, leaving his w
 	
 	
 
+### Last Moment of Clarity
+*Released on 2020-05-19, vote average 6*
+
+A normal New Yorker&#39;s life is upended when his girlfriend is murdered by the Bulgarian mob. He flees to Paris to hide from her killers. But three years later, he sees a similar looking woman on the silver screen. Obsession with past love takes Sam to Los Angeles to look for answers, only to put him back into the sights of the Bulgarians.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Ritye-tf1-g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Capone
+*Released on 2020-05-12, vote average 5.4*
+
+The 47-year old Al Capone, after 10 years in prison, starts suffering from dementia and comes to be haunted by his violent past.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LHYlKQSc7rA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Survive the Night
+*Released on 2020-05-22, vote average 6*
+
+A disgraced doctor and his family are held hostage at their home by criminals on the run, when a robbery-gone-awry requires them to seek immediate medical attention.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/XVHReeBQFtA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Blood and Money
-*Released on 2020-05-15, vote average 4.9*
+*Released on 2020-05-15, vote average 4.7*
 
 A retired veteran hunting in the Allagash backcountry of Maine discovers a dead woman with a duffle bag full of money. He soon finds himself in a web of deceit and murder.
 
@@ -159,35 +176,11 @@ A retired veteran hunting in the Allagash backcountry of Maine discovers a dead 
 
 
 	
-	
-	
 
   
 
 
 	
-	
-	
-
-  
-
-
-	
-	
-
-### Survive the Night
-*Released on 2020-05-22, vote average 4*
-
-A disgraced doctor and his family are held hostage at their home by criminals on the run, when a robbery-gone-awry requires them to seek immediate medical attention.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XVHReeBQFtA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -217,22 +210,27 @@ Backed by a full band and a ready wit, actor Ben Platt opens up a very personal 
 
 
 	
-	
 
-### Patton Oswalt: I Love Everything
-*Released on 2020-05-19, vote average 8*
+  
 
-Turning 50. Remarrying. Buying a new house. Experiencing existential dread at Denny&#39;s. Life comes at Patton Oswalt fast in his latest stand-up special.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/NFNWNBWadrw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -261,23 +259,6 @@ Turning 50. Remarrying. Buying a new house. Experiencing existential dread at De
 
 
 	
-	
-
-### Taylor Swift City of Lover Concert
-*Released on 2020-05-17, vote average 9*
-
-In a once-in-a-lifetime musical event, Taylor Swift performs songs from her award-winning album, “Lover.” Filmed in Paris, the City of Love, in September 2019, this show gives fans unprecedented access to behind-the-scenes moments with the artist and marks her only concert performance in 2020.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/VlyLr1KXN8Q?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -292,38 +273,6 @@ In a once-in-a-lifetime musical event, Taylor Swift performs songs from her awar
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Lawrence After Arabia
-*Released on 2020-05-19, vote average 9*
-
-This film is the story of the last years of the life of T.E. Lawrence -  Lawrence of Arabia - a scholar, writer, soldier and reluctant hero.  Retiring to his cottage in Dorset he hopes to escape his past but is pulled into political intrigue. While he has powerful friends, with his uncompromising manner he has made dangerous enemies.  As they plot against him he dies in a tragic motorcycle accident. However, with such enemies was his untimely death an assassination and cover up by the British Secret Service?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/yhe5bJCjows?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -332,46 +281,6 @@ This film is the story of the last years of the life of T.E. Lawrence -  Lawrenc
 
 ## Opening soon
 
-
-	
-	
-
-### Inheritance
-*Released on 2020-05-22, vote average 6*
-
-A patriarch of a wealthy and powerful family suddenly passes away, leaving his wife and daughter with a shocking secret inheritance that threatens to unravel and destroy their lives.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3q7JOLZxjqY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Survive the Night
-*Released on 2020-05-22, vote average 4*
-
-A disgraced doctor and his family are held hostage at their home by criminals on the run, when a robbery-gone-awry requires them to seek immediate medical attention.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XVHReeBQFtA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
 
 	
 	
@@ -407,22 +316,11 @@ When a relaxing getaway turns deadly, a former Marine must risk his life once ag
 	
 
 	
-	
-
-### Sooryavanshi
-*Released on 2020-05-22, vote average 10*
-
-The action-packed adventures of an anti-terror Squad in India.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/fVe7STVpu94?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+	
+
 	
 
 	
