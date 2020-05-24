@@ -68,16 +68,16 @@ A guy meets the woman of his dreams and invites her to his company&#39;s corpora
 	
 	
 
-### Inheritance
-*Released on 2020-05-15, vote average 5*
+### Survive the Night
+*Released on 2020-05-22, vote average 6*
 
-A patriarch of a wealthy and powerful family suddenly passes away, leaving his wife and daughter with a shocking secret inheritance that threatens to unravel and destroy their lives.
+A disgraced doctor and his family are held hostage at their home by criminals on the run, when a robbery-gone-awry requires them to seek immediate medical attention.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/3q7JOLZxjqY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/XVHReeBQFtA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -90,16 +90,16 @@ A patriarch of a wealthy and powerful family suddenly passes away, leaving his w
 	
 	
 
-### Last Moment of Clarity
-*Released on 2020-05-19, vote average 6*
+### Inheritance
+*Released on 2020-05-15, vote average 5.3*
 
-A normal New Yorker&#39;s life is upended when his girlfriend is murdered by the Bulgarian mob. He flees to Paris to hide from her killers. But three years later, he sees a similar looking woman on the silver screen. Obsession with past love takes Sam to Los Angeles to look for answers, only to put him back into the sights of the Bulgarians.
+A patriarch of a wealthy and powerful family suddenly passes away, leaving his wife and daughter with a shocking secret inheritance that threatens to unravel and destroy their lives.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Ritye-tf1-g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/3q7JOLZxjqY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,16 +134,38 @@ The 47-year old Al Capone, after 10 years in prison, starts suffering from demen
 	
 	
 
-### Survive the Night
-*Released on 2020-05-22, vote average 6*
+### Last Moment of Clarity
+*Released on 2020-05-19, vote average 6.8*
 
-A disgraced doctor and his family are held hostage at their home by criminals on the run, when a robbery-gone-awry requires them to seek immediate medical attention.
+A normal New Yorker&#39;s life is upended when his girlfriend is murdered by the Bulgarian mob. He flees to Paris to hide from her killers. But three years later, he sees a similar looking woman on the silver screen. Obsession with past love takes Sam to Los Angeles to look for answers, only to put him back into the sights of the Bulgarians.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/XVHReeBQFtA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Ritye-tf1-g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Lovebirds
+*Released on 2020-05-22, vote average 6.2*
+
+A couple experiences a defining moment in their relationship when they are unintentionally embroiled in a murder mystery. As their journey to clear their names takes them from one extreme – and hilarious - circumstance to the next, they must figure out how they, and their relationship, can survive the night.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/YzPq8uVgLe8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -157,7 +179,7 @@ A disgraced doctor and his family are held hostage at their home by criminals on
 	
 
 ### Blood and Money
-*Released on 2020-05-15, vote average 4.7*
+*Released on 2020-05-15, vote average 4.6*
 
 A retired veteran hunting in the Allagash backcountry of Maine discovers a dead woman with a duffle bag full of money. He soon finds himself in a web of deceit and murder.
 
@@ -188,6 +210,33 @@ A retired veteran hunting in the Allagash backcountry of Maine discovers a dead 
 
 
 	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### Ben Platt: Live from Radio City Music Hall
@@ -200,55 +249,6 @@ Backed by a full band and a ready wit, actor Ben Platt opens up a very personal 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/joe2vkRdBjw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Edge of Extinction
-*Released on 2020-05-18, vote average 4.5*
-
-15 years after a global apocalypse, mankind is on the verge of extinction. Civilisation no longer exists, food is scarce and most eke out a living by stealing and killing. One boy clings onto life in the desolate British countryside, where staying away from others has been key to his survival. But this self-imposed isolation comes to an abrupt end when he crosses paths with another group of survivors and faces an enemy far more savage than any of them could imagine.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZB7WlhR4eXI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -283,6 +283,8 @@ Backed by a full band and a ready wit, actor Ben Platt opens up a very personal 
 
 
 	
+
+	
 	
 
 ### Dead Water
@@ -299,8 +301,6 @@ When a relaxing getaway turns deadly, a former Marine must risk his life once ag
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
