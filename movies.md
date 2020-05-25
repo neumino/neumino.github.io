@@ -46,6 +46,28 @@ In Scooby-Doo’s greatest adventure yet, see the never-before told story of how
 	
 	
 
+### Survive the Night
+*Released on 2020-05-22, vote average 6.6*
+
+A disgraced doctor and his family are held hostage at their home by criminals on the run, when a robbery-gone-awry requires them to seek immediate medical attention.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/XVHReeBQFtA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Wrong Missy
 *Released on 2020-05-13, vote average 6.1*
 
@@ -68,16 +90,16 @@ A guy meets the woman of his dreams and invites her to his company&#39;s corpora
 	
 	
 
-### Survive the Night
-*Released on 2020-05-22, vote average 6*
+### The Lovebirds
+*Released on 2020-05-22, vote average 6.6*
 
-A disgraced doctor and his family are held hostage at their home by criminals on the run, when a robbery-gone-awry requires them to seek immediate medical attention.
+A couple experiences a defining moment in their relationship when they are unintentionally embroiled in a murder mystery. As their journey to clear their names takes them from one extreme – and hilarious - circumstance to the next, they must figure out how they, and their relationship, can survive the night.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/XVHReeBQFtA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/YzPq8uVgLe8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -91,7 +113,7 @@ A disgraced doctor and his family are held hostage at their home by criminals on
 	
 
 ### Inheritance
-*Released on 2020-05-15, vote average 5.3*
+*Released on 2020-05-15, vote average 6.6*
 
 A patriarch of a wealthy and powerful family suddenly passes away, leaving his wife and daughter with a shocking secret inheritance that threatens to unravel and destroy their lives.
 
@@ -156,28 +178,6 @@ A normal New Yorker&#39;s life is upended when his girlfriend is murdered by the
 	
 	
 
-### The Lovebirds
-*Released on 2020-05-22, vote average 6.2*
-
-A couple experiences a defining moment in their relationship when they are unintentionally embroiled in a murder mystery. As their journey to clear their names takes them from one extreme – and hilarious - circumstance to the next, they must figure out how they, and their relationship, can survive the night.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/YzPq8uVgLe8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Blood and Money
 *Released on 2020-05-15, vote average 4.6*
 
@@ -198,6 +198,23 @@ A retired veteran hunting in the Allagash backcountry of Maine discovers a dead 
 
 
 	
+	
+
+### Proximity
+*Released on 2020-05-15, vote average 5.7*
+
+A young NASA JPL scientist is abducted by extraterrestrials but when no one believes his story he becomes obsessed with finding proof which leads him on a journey of discovery.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vakNakzL25A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -226,6 +243,23 @@ A retired veteran hunting in the Allagash backcountry of Maine discovers a dead 
   
 
 
+	
+	
+
+### Body Cam
+*Released on 2020-05-19, vote average 6.7*
+
+Cops involved with covering up a murder by getting rid of their body cam video footage find themselves haunted by an evil spirit.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/d_EP4DGBBxk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -283,8 +317,6 @@ Backed by a full band and a ready wit, actor Ben Platt opens up a very personal 
 
 
 	
-
-	
 	
 
 ### Dead Water
@@ -301,6 +333,8 @@ When a relaxing getaway turns deadly, a former Marine must risk his life once ag
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
