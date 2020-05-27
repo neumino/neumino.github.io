@@ -47,7 +47,7 @@ In Scooby-Doo’s greatest adventure yet, see the never-before told story of how
 	
 
 ### Survive the Night
-*Released on 2020-05-22, vote average 6.2*
+*Released on 2020-05-22, vote average 6.1*
 
 A disgraced doctor and his family are held hostage at their home by criminals on the run, when a robbery-gone-awry requires them to seek immediate medical attention.
 
@@ -69,7 +69,7 @@ A disgraced doctor and his family are held hostage at their home by criminals on
 	
 
 ### The Lovebirds
-*Released on 2020-05-22, vote average 6.5*
+*Released on 2020-05-22, vote average 6.4*
 
 A couple experiences a defining moment in their relationship when they are unintentionally embroiled in a murder mystery. As their journey to clear their names takes them from one extreme – and hilarious - circumstance to the next, they must figure out how they, and their relationship, can survive the night.
 
@@ -113,7 +113,7 @@ A guy meets the woman of his dreams and invites her to his company&#39;s corpora
 	
 
 ### Inheritance
-*Released on 2020-05-15, vote average 5.7*
+*Released on 2020-05-15, vote average 5.9*
 
 A patriarch of a wealthy and powerful family suddenly passes away, leaving his wife and daughter with a shocking secret inheritance that threatens to unravel and destroy their lives.
 
@@ -122,28 +122,6 @@ A patriarch of a wealthy and powerful family suddenly passes away, leaving his w
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/3q7JOLZxjqY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Capone
-*Released on 2020-05-12, vote average 5.3*
-
-The 47-year old Al Capone, after 10 years in prison, starts suffering from dementia and comes to be haunted by his violent past.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LHYlKQSc7rA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -176,23 +154,6 @@ Cops involved with covering up a murder by getting rid of their body cam video f
 
 
 	
-	
-
-### Blood and Money
-*Released on 2020-05-15, vote average 4.5*
-
-A retired veteran hunting in the Allagash backcountry of Maine discovers a dead woman with a duffle bag full of money. He soon finds himself in a web of deceit and murder.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/YKPMaXOfgbQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -219,8 +180,6 @@ A normal New Yorker&#39;s life is upended when his girlfriend is murdered by the
   
 
 
-	
-	
 	
 
   
@@ -256,28 +215,25 @@ A young NASA JPL scientist is abducted by extraterrestrials but when no one beli
 
 
 	
+	
+	
 
   
 
 
 	
-
-  
-
-
-	
 	
 
-### Edge of Extinction
-*Released on 2020-05-18, vote average 4.8*
+### Blood and Money
+*Released on 2020-05-15, vote average 4.5*
 
-15 years after a global apocalypse, mankind is on the verge of extinction. Civilisation no longer exists, food is scarce and most eke out a living by stealing and killing. One boy clings onto life in the desolate British countryside, where staying away from others has been key to his survival. But this self-imposed isolation comes to an abrupt end when he crosses paths with another group of survivors and faces an enemy far more savage than any of them could imagine.
+A retired veteran hunting in the Allagash backcountry of Maine discovers a dead woman with a duffle bag full of money. He soon finds himself in a web of deceit and murder.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ZB7WlhR4eXI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/YKPMaXOfgbQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -288,8 +244,6 @@ A young NASA JPL scientist is abducted by extraterrestrials but when no one beli
 
 
 	
-	
-	
 
   
 
@@ -309,44 +263,20 @@ A young NASA JPL scientist is abducted by extraterrestrials but when no one beli
 
 
 	
-	
 
-### Ghoomketu
-*Released on 2020-05-22, vote average 1*
+  
 
-An aspiring writer from a small town in U.P. runs away to Mumbai. He gives himself 30 days to try and prove his worth.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/u2tWAfCzX30?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
 
 
 	
-	
 
-### Ben Platt: Live from Radio City Music Hall
-*Released on 2020-05-20, vote average 6*
+  
 
-Backed by a full band and a ready wit, actor Ben Platt opens up a very personal songbook onstage -- numbers from his debut LP, &#34;Sing to Me Instead.&#34;
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/joe2vkRdBjw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -355,29 +285,6 @@ Backed by a full band and a ready wit, actor Ben Platt opens up a very personal 
 
 ## Opening soon
 
-
-	
-	
-
-### Dead Water
-*Released on 2020-05-28, vote average 5.5*
-
-When a relaxing getaway turns deadly, a former Marine must risk his life once again to save his wife and best friend from a modern day pirate; all the while trying to hold himself together as he faces the ghosts of the war he left behind.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/7JDkaG0ZS7I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-	
 
 	
 	
@@ -399,19 +306,28 @@ After SpongeBob&#39;s beloved pet snail Gary is snail-napped, he and Patrick emb
 	
 
 	
-
-	
-
-	
-
-	
-
-	
 	
 	
 
 	
 	
+
+### Dead Water
+*Released on 2020-05-28, vote average 5.5*
+
+When a relaxing getaway turns deadly, a former Marine must risk his life once again to save his wife and best friend from a modern day pirate; all the while trying to hold himself together as he faces the ghosts of the war he left behind.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/7JDkaG0ZS7I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
 	
 
 	
@@ -431,6 +347,35 @@ Carl Rizk, an ex-covert operative who&#39;s moved to a small quiet town in Orego
   allowfullscreen></iframe>
 
 	
+	
+
+	
+	
+	
+
+	
+
+	
+	
+
+### Gabriel&#39;s Inferno
+*Released on 2020-05-29, vote average 2*
+
+An intriguing and sinful exploration of seduction, forbidden love, and redemption, Gabriel&#39;s Inferno is a captivating and wildly passionate tale of one man&#39;s escape from his own personal hell as he tries to earn the impossible--forgiveness and love.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/a581-Vb-nrQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
 	
 
 	
