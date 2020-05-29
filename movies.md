@@ -47,7 +47,7 @@ In Scooby-Doo’s greatest adventure yet, see the never-before told story of how
 	
 
 ### The Lovebirds
-*Released on 2020-05-22, vote average 6.4*
+*Released on 2020-05-22, vote average 6.5*
 
 A couple experiences a defining moment in their relationship when they are unintentionally embroiled in a murder mystery. As their journey to clear their names takes them from one extreme – and hilarious - circumstance to the next, they must figure out how they, and their relationship, can survive the night.
 
@@ -69,7 +69,7 @@ A couple experiences a defining moment in their relationship when they are unint
 	
 
 ### Survive the Night
-*Released on 2020-05-22, vote average 5.8*
+*Released on 2020-05-22, vote average 5.7*
 
 A disgraced doctor and his family are held hostage at their home by criminals on the run, when a robbery-gone-awry requires them to seek immediate medical attention.
 
@@ -82,6 +82,106 @@ A disgraced doctor and his family are held hostage at their home by criminals on
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### The SpongeBob Movie: Sponge on the Run
+*Released on 2020-05-28, vote average 5.3*
+
+After SpongeBob&#39;s beloved pet snail Gary is snail-napped, he and Patrick embark on an epic adventure to The Lost City of Atlantic City to bring Gary home.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/HfiH_526qhY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Adventures of Rufus: The Fantastic Pet
+*Released on 2020-05-26, vote average 5.7*
+
+At his grandmother&#39;s house, Scott and his friend Emily meet Rufus, a swashbuckling, furry creature who begs them to help restore his fading kingdom. Wizard Abbott&#39;s spell book contains the magic healing formula--but Abbott&#39;s ancient nemesis Lilith, posing as Grandmother&#39;s servant, wants the book, too! In this hilarious, high-flying family adventure, Scott and Emily must confront a gigantic alligator, a vicious dinosaur skeleton, a ruthless owl, and a fire-breathing dragon to rescue Rufus&#39; magical world.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/28opYabk2Qc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Dead Water
+*Released on 2020-05-28, vote average 5.5*
+
+When a relaxing getaway turns deadly, a former Marine must risk his life once again to save his wife and best friend from a modern day pirate; all the while trying to hold himself together as he faces the ghosts of the war he left behind.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/7JDkaG0ZS7I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Seized
+*Released on 2020-05-28, vote average 2*
+
+Carl Rizk, an ex-covert operative who&#39;s moved to a small quiet town in Oregon to raise his son and daughter gets awakened by a phone call and message from a modulated voice telling him that both his children have been kidnapped and buried alive with just enough air to survive for the next 5 hours. In order to ever see his children alive again, RIZK has to take on three distinct groups of highly-skilled criminals and kill each and every one of them. But he has to work alone and face increasing obstacles and levels of weaponry to uncover the identity of the man behind the macabre plot. The clock is ticking and RIZK can&#39;t waste any time or make any mistakes or he will lose his family forever.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/OH8wuSu5Hqo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -112,16 +212,16 @@ A patriarch of a wealthy and powerful family suddenly passes away, leaving his w
 	
 	
 
-### The SpongeBob Movie: Sponge on the Run
-*Released on 2020-05-28, vote average 5.3*
+### Hannah Gadsby: Douglas
+*Released on 2020-05-26, vote average 8.5*
 
-After SpongeBob&#39;s beloved pet snail Gary is snail-napped, he and Patrick embark on an epic adventure to The Lost City of Atlantic City to bring Gary home.
+Hannah Gadsby returns for her second special and digs deep into the complexities of popularity, identity, and her most unusual dog park encounter.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/HfiH_526qhY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ziIwxPCeByU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -131,57 +231,6 @@ After SpongeBob&#39;s beloved pet snail Gary is snail-napped, he and Patrick emb
   
 
 
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Adventures of Rufus: The Fantastic Pet
-*Released on 2020-05-26, vote average 2*
-
-At his grandmother&#39;s house, Scott and his friend Emily meet Rufus, a swashbuckling, furry creature who begs them to help restore his fading kingdom. Wizard Abbott&#39;s spell book contains the magic healing formula--but Abbott&#39;s ancient nemesis Lilith, posing as Grandmother&#39;s servant, wants the book, too! In this hilarious, high-flying family adventure, Scott and Emily must confront a gigantic alligator, a vicious dinosaur skeleton, a ruthless owl, and a fire-breathing dragon to rescue Rufus&#39; magical world.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/GBK8bTI-xc0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Dead Water
-*Released on 2020-05-28, vote average 5.5*
-
-When a relaxing getaway turns deadly, a former Marine must risk his life once again to save his wife and best friend from a modern day pirate; all the while trying to hold himself together as he faces the ghosts of the war he left behind.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/7JDkaG0ZS7I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -191,7 +240,7 @@ When a relaxing getaway turns deadly, a former Marine must risk his life once ag
 	
 
 ### Body Cam
-*Released on 2020-05-19, vote average 5.3*
+*Released on 2020-05-19, vote average 5.2*
 
 Cops involved with covering up a murder by getting rid of their body cam video footage find themselves haunted by an evil spirit.
 
@@ -210,77 +259,18 @@ Cops involved with covering up a murder by getting rid of their body cam video f
 
 
 	
-
-  
-
-
-	
 	
 
-### Seized
-*Released on 2020-05-28, vote average 2*
+### Gabriel&#39;s Inferno
+*Released on 2020-05-29, vote average 2*
 
-Carl Rizk, an ex-covert operative who&#39;s moved to a small quiet town in Oregon to raise his son and daughter gets awakened by a phone call and message from a modulated voice telling him that both his children have been kidnapped and buried alive with just enough air to survive for the next 5 hours. In order to ever see his children alive again, RIZK has to take on three distinct groups of highly-skilled criminals and kill each and every one of them. But he has to work alone and face increasing obstacles and levels of weaponry to uncover the identity of the man behind the macabre plot. The clock is ticking and RIZK can&#39;t waste any time or make any mistakes or he will lose his family forever.
+An intriguing and sinful exploration of seduction, forbidden love, and redemption, Gabriel&#39;s Inferno is a captivating and wildly passionate tale of one man&#39;s escape from his own personal hell as he tries to earn the impossible--forgiveness and love.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/OH8wuSu5Hqo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Blood and Money
-*Released on 2020-05-15, vote average 4.4*
-
-A retired veteran hunting in the Allagash backcountry of Maine discovers a dead woman with a duffle bag full of money. He soon finds himself in a web of deceit and murder.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/YKPMaXOfgbQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/a581-Vb-nrQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -293,20 +283,51 @@ A retired veteran hunting in the Allagash backcountry of Maine discovers a dead 
 	
 	
 
-### Last Moment of Clarity
-*Released on 2020-05-19, vote average 5.8*
+### Intuition
+*Released on 2020-05-28, vote average 1*
 
-A normal New Yorker&#39;s life is upended when his girlfriend is murdered by the Bulgarian mob. He flees to Paris to hide from her killers. But three years later, he sees a similar looking woman on the silver screen. Obsession with past love takes Sam to Los Angeles to look for answers, only to put him back into the sights of the Bulgarians.
+Police officer Pipa works on her first big case while simultaneously investigating her boss, who is suspected from murder. Prequel to the movie Perdida (2018).
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Ritye-tf1-g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/0l5EfR2RkR4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -315,75 +336,6 @@ A normal New Yorker&#39;s life is upended when his girlfriend is murdered by the
 
 ## Opening soon
 
-
-	
-	
-
-### The SpongeBob Movie: Sponge on the Run
-*Released on 2020-05-28, vote average 5.3*
-
-After SpongeBob&#39;s beloved pet snail Gary is snail-napped, he and Patrick embark on an epic adventure to The Lost City of Atlantic City to bring Gary home.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/HfiH_526qhY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-	
-
-	
-	
-
-### Dead Water
-*Released on 2020-05-28, vote average 5.5*
-
-When a relaxing getaway turns deadly, a former Marine must risk his life once again to save his wife and best friend from a modern day pirate; all the while trying to hold himself together as he faces the ghosts of the war he left behind.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/7JDkaG0ZS7I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Seized
-*Released on 2020-05-28, vote average 2*
-
-Carl Rizk, an ex-covert operative who&#39;s moved to a small quiet town in Oregon to raise his son and daughter gets awakened by a phone call and message from a modulated voice telling him that both his children have been kidnapped and buried alive with just enough air to survive for the next 5 hours. In order to ever see his children alive again, RIZK has to take on three distinct groups of highly-skilled criminals and kill each and every one of them. But he has to work alone and face increasing obstacles and levels of weaponry to uncover the identity of the man behind the macabre plot. The clock is ticking and RIZK can&#39;t waste any time or make any mistakes or he will lose his family forever.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/OH8wuSu5Hqo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-	
-	
-
-	
 
 	
 	
@@ -405,7 +357,55 @@ An intriguing and sinful exploration of seduction, forbidden love, and redemptio
 	
 
 	
+	
+	
 
+	
+	
+
+### To Protect &amp; Serve
+*Released on 2020-05-29, vote average 2*
+
+Two detectives investigate a serial killer who stalks his victims.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/e-HmFFSILbA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Debt Collectors
+*Released on 2020-05-29, vote average 2*
+
+sequel  to The Debt Collector
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ncDJ1NjRlX4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -424,6 +424,10 @@ An intriguing and sinful exploration of seduction, forbidden love, and redemptio
 
 	
 
+	
+
+	
+	
 	
 
 	
