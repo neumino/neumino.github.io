@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Scoob!
-*Released on 2020-05-15, vote average 8*
+### The Lovebirds
+*Released on 2020-05-22, vote average 6.4*
 
-In Scooby-Doo’s greatest adventure yet, see the never-before told story of how lifelong friends Scooby and Shaggy first met and how they joined forces with young detectives Fred, Velma, and Daphne to form the famous Mystery Inc. Now, with hundreds of cases solved, Scooby and the gang face their biggest, toughest mystery ever: an evil plot to unleash the ghost dog Cerberus upon the world. As they race to stop this global “dogpocalypse,” the gang discovers that Scooby has a secret legacy and an epic destiny greater than anyone ever imagined.
+A couple experiences a defining moment in their relationship when they are unintentionally embroiled in a murder mystery. As their journey to clear their names takes them from one extreme – and hilarious - circumstance to the next, they must figure out how they, and their relationship, can survive the night.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-BgWppq25xI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/YzPq8uVgLe8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,30 +46,8 @@ In Scooby-Doo’s greatest adventure yet, see the never-before told story of how
 	
 	
 
-### The Lovebirds
-*Released on 2020-05-22, vote average 6.5*
-
-A couple experiences a defining moment in their relationship when they are unintentionally embroiled in a murder mystery. As their journey to clear their names takes them from one extreme – and hilarious - circumstance to the next, they must figure out how they, and their relationship, can survive the night.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/YzPq8uVgLe8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Survive the Night
-*Released on 2020-05-22, vote average 5.7*
+*Released on 2020-05-22, vote average 5.6*
 
 A disgraced doctor and his family are held hostage at their home by criminals on the run, when a robbery-gone-awry requires them to seek immediate medical attention.
 
@@ -89,9 +67,16 @@ A disgraced doctor and his family are held hostage at their home by criminals on
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### The SpongeBob Movie: Sponge on the Run
-*Released on 2020-05-28, vote average 5.3*
+*Released on 2020-05-28, vote average 6.7*
 
 After SpongeBob&#39;s beloved pet snail Gary is snail-napped, he and Patrick embark on an epic adventure to The Lost City of Atlantic City to bring Gary home.
 
@@ -111,16 +96,9 @@ After SpongeBob&#39;s beloved pet snail Gary is snail-napped, he and Patrick emb
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Adventures of Rufus: The Fantastic Pet
-*Released on 2020-05-26, vote average 5.7*
+*Released on 2020-05-26, vote average 6.8*
 
 At his grandmother&#39;s house, Scott and his friend Emily meet Rufus, a swashbuckling, furry creature who begs them to help restore his fading kingdom. Wizard Abbott&#39;s spell book contains the magic healing formula--but Abbott&#39;s ancient nemesis Lilith, posing as Grandmother&#39;s servant, wants the book, too! In this hilarious, high-flying family adventure, Scott and Emily must confront a gigantic alligator, a vicious dinosaur skeleton, a ruthless owl, and a fire-breathing dragon to rescue Rufus&#39; magical world.
 
@@ -129,6 +107,28 @@ At his grandmother&#39;s house, Scott and his friend Emily meet Rufus, a swashbu
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/28opYabk2Qc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Gabriel&#39;s Inferno
+*Released on 2020-05-29, vote average 2*
+
+An intriguing and sinful exploration of seduction, forbidden love, and redemption, Gabriel&#39;s Inferno is a captivating and wildly passionate tale of one man&#39;s escape from his own personal hell as he tries to earn the impossible--forgiveness and love.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/a581-Vb-nrQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -163,6 +163,28 @@ When a relaxing getaway turns deadly, a former Marine must risk his life once ag
 	
 	
 
+### Intuition
+*Released on 2020-05-28, vote average 4*
+
+Police officer Pipa works on her first big case while simultaneously investigating her boss, who is suspected of murder. The prequel to &#34;Perdida&#34;.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0l5EfR2RkR4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Seized
 *Released on 2020-05-28, vote average 2*
 
@@ -183,6 +205,15 @@ Carl Rizk, an ex-covert operative who&#39;s moved to a small quiet town in Orego
 
 
 	
+	
+	
+
+  
+
+
+	
+	
+	
 
   
 
@@ -190,47 +221,20 @@ Carl Rizk, an ex-covert operative who&#39;s moved to a small quiet town in Orego
 	
 	
 
-### Inheritance
-*Released on 2020-05-15, vote average 5.7*
+### To Protect &amp; Serve
+*Released on 2020-05-29, vote average 2*
 
-A patriarch of a wealthy and powerful family suddenly passes away, leaving his wife and daughter with a shocking secret inheritance that threatens to unravel and destroy their lives.
+Two detectives investigate a serial killer who stalks his victims.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/3q7JOLZxjqY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/e-HmFFSILbA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### Hannah Gadsby: Douglas
-*Released on 2020-05-26, vote average 8.5*
-
-Hannah Gadsby returns for her second special and digs deep into the complexities of popularity, identity, and her most unusual dog park encounter.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ziIwxPCeByU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -259,18 +263,28 @@ Cops involved with covering up a murder by getting rid of their body cam video f
 
 
 	
+
+  
+
+
 	
 
-### Gabriel&#39;s Inferno
-*Released on 2020-05-29, vote average 2*
+  
 
-An intriguing and sinful exploration of seduction, forbidden love, and redemption, Gabriel&#39;s Inferno is a captivating and wildly passionate tale of one man&#39;s escape from his own personal hell as he tries to earn the impossible--forgiveness and love.
+
+	
+	
+
+### Promising Young Woman
+*Released on 2020-05-28, vote average 4.8*
+
+A young woman haunted by a tragedy in her past takes revenge on the predatory men unlucky enough to cross her path.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/a581-Vb-nrQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/7i5kiFDunk8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -281,35 +295,6 @@ An intriguing and sinful exploration of seduction, forbidden love, and redemptio
 
 
 	
-	
-
-### Intuition
-*Released on 2020-05-28, vote average 1*
-
-Police officer Pipa works on her first big case while simultaneously investigating her boss, who is suspected from murder. Prequel to the movie Perdida (2018).
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0l5EfR2RkR4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
 
   
 
@@ -328,6 +313,8 @@ Police officer Pipa works on her first big case while simultaneously investigati
   
 
 
+	
+	
 	
 
   
@@ -339,21 +326,6 @@ Police officer Pipa works on her first big case while simultaneously investigati
 
 	
 	
-
-### Gabriel&#39;s Inferno
-*Released on 2020-05-29, vote average 2*
-
-An intriguing and sinful exploration of seduction, forbidden love, and redemption, Gabriel&#39;s Inferno is a captivating and wildly passionate tale of one man&#39;s escape from his own personal hell as he tries to earn the impossible--forgiveness and love.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/a581-Vb-nrQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
@@ -361,50 +333,6 @@ An intriguing and sinful exploration of seduction, forbidden love, and redemptio
 	
 
 	
-	
-
-### To Protect &amp; Serve
-*Released on 2020-05-29, vote average 2*
-
-Two detectives investigate a serial killer who stalks his victims.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/e-HmFFSILbA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	
-
-### Debt Collectors
-*Released on 2020-05-29, vote average 2*
-
-sequel  to The Debt Collector
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ncDJ1NjRlX4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -427,7 +355,17 @@ sequel  to The Debt Collector
 	
 
 	
+
 	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
