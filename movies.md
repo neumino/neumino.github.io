@@ -67,9 +67,16 @@ A disgraced doctor and his family are held hostage at their home by criminals on
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Gabriel&#39;s Inferno
-*Released on 2020-05-29, vote average 5.3*
+*Released on 2020-05-29, vote average 6.2*
 
 An intriguing and sinful exploration of seduction, forbidden love, and redemption, Gabriel&#39;s Inferno is a captivating and wildly passionate tale of one man&#39;s escape from his own personal hell as he tries to earn the impossible--forgiveness and love.
 
@@ -89,6 +96,21 @@ An intriguing and sinful exploration of seduction, forbidden love, and redemptio
 
 	
 	
+
+### Debt Collectors
+*Released on 2020-05-29, vote average 2.7*
+
+A pair of debt collectors are thrust into an explosively dangerous situation, chasing down various lowlifes while also evading a vengeful kingpin.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/tTlhmJ1yT-0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -105,7 +127,7 @@ An intriguing and sinful exploration of seduction, forbidden love, and redemptio
 	
 
 ### The SpongeBob Movie: Sponge on the Run
-*Released on 2020-05-28, vote average 6.7*
+*Released on 2020-05-28, vote average 8*
 
 After SpongeBob&#39;s beloved pet snail Gary is snail-napped, he and Patrick embark on an epic adventure to The Lost City of Atlantic City to bring Gary home.
 
@@ -125,9 +147,16 @@ After SpongeBob&#39;s beloved pet snail Gary is snail-napped, he and Patrick emb
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Adventures of Rufus: The Fantastic Pet
-*Released on 2020-05-26, vote average 6.8*
+*Released on 2020-05-26, vote average 6.4*
 
 At his grandmother&#39;s house, Scott and his friend Emily meet Rufus, a swashbuckling, furry creature who begs them to help restore his fading kingdom. Wizard Abbott&#39;s spell book contains the magic healing formula--but Abbott&#39;s ancient nemesis Lilith, posing as Grandmother&#39;s servant, wants the book, too! In this hilarious, high-flying family adventure, Scott and Emily must confront a gigantic alligator, a vicious dinosaur skeleton, a ruthless owl, and a fire-breathing dragon to rescue Rufus&#39; magical world.
 
@@ -147,20 +176,65 @@ At his grandmother&#39;s house, Scott and his friend Emily meet Rufus, a swashbu
 
 	
 	
+	
 
-### Debt Collectors
-*Released on 2020-05-29, vote average 2*
+  
 
-A pair of debt collectors are thrust into an explosively dangerous situation, chasing down various lowlifes while also evading a vengeful kingpin.
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Body Cam
+*Released on 2020-05-19, vote average 5.5*
+
+Cops involved with covering up a murder by getting rid of their body cam video footage find themselves haunted by an evil spirit.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/tTlhmJ1yT-0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/d_EP4DGBBxk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 	
 
@@ -203,125 +277,6 @@ Carl Rizk, an ex-covert operative who&#39;s moved to a small quiet town in Orego
   
 
 
-	
-	
-
-### Promising Young Woman
-*Released on 2020-05-28, vote average 4.8*
-
-A young woman haunted by a tragedy in her past takes revenge on the predatory men unlucky enough to cross her path.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/7i5kiFDunk8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### To Protect &amp; Serve
-*Released on 2020-05-29, vote average 2*
-
-Two detectives investigate a serial killer who stalks his victims.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/e-HmFFSILbA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Dead Water
-*Released on 2020-05-28, vote average 5.5*
-
-When a relaxing getaway turns deadly, a former Marine must risk his life once again to save his wife and best friend from a modern day pirate; all the while trying to hold himself together as he faces the ghosts of the war he left behind.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/7JDkaG0ZS7I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Body Cam
-*Released on 2020-05-19, vote average 5.5*
-
-Cops involved with covering up a murder by getting rid of their body cam video footage find themselves haunted by an evil spirit.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/d_EP4DGBBxk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -337,11 +292,25 @@ Cops involved with covering up a murder by getting rid of their body cam video f
 	
 
 	
-	
+
 	
 
 	
+
 	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
@@ -369,24 +338,6 @@ A journalist desperately tries to find his missing fiancee and finally uncover t
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
