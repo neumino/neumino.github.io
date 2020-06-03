@@ -75,6 +75,28 @@ A couple experiences a defining moment in their relationship when they are unint
 	
 	
 
+### Debt Collectors
+*Released on 2020-05-29, vote average 4*
+
+A pair of debt collectors are thrust into an explosively dangerous situation, chasing down various lowlifes while also evading a vengeful kingpin.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/tTlhmJ1yT-0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Gabriel&#39;s Inferno
 *Released on 2020-05-29, vote average 6.2*
 
@@ -96,17 +118,78 @@ An intriguing and sinful exploration of seduction, forbidden love, and redemptio
 
 	
 	
+	
 
-### Debt Collectors
-*Released on 2020-05-29, vote average 3.5*
+  
 
-A pair of debt collectors are thrust into an explosively dangerous situation, chasing down various lowlifes while also evading a vengeful kingpin.
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Drunk on Love
+*Released on 2020-06-01, vote average 2*
+
+Story of Rumi, his friendship with Shams Tabrizi, the love he had for him and the great influence of Shams over him in his life, his poetry and his love for God.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/tTlhmJ1yT-0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/1pvmy_oTS-g?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -118,52 +201,9 @@ A pair of debt collectors are thrust into an explosively dangerous situation, ch
 
 	
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 
 ### The SpongeBob Movie: Sponge on the Run
-*Released on 2020-05-28, vote average 6.8*
+*Released on 2020-05-28, vote average 6.6*
 
 After SpongeBob&#39;s beloved pet snail Gary is snail-napped, he and Patrick embark on an epic adventure to The Lost City of Atlantic City to bring Gary home.
 
@@ -182,15 +222,7 @@ After SpongeBob&#39;s beloved pet snail Gary is snail-napped, he and Patrick emb
 
 
 	
-
-  
-
-
 	
-
-  
-
-
 	
 
   
@@ -211,16 +243,16 @@ After SpongeBob&#39;s beloved pet snail Gary is snail-napped, he and Patrick emb
 	
 	
 
-### Body Cam
-*Released on 2020-05-19, vote average 5.5*
+### Prom Night
+*Released on 2020-06-01, vote average 1*
 
-Cops involved with covering up a murder by getting rid of their body cam video footage find themselves haunted by an evil spirit.
+Three best friends ditch their high school prom dance. The night that follows unravels their hidden and suppressed desires which cast a glimpse of the emotional bewilderment of a whole generation.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/d_EP4DGBBxk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/F55E-zpYVy8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -230,14 +262,13 @@ Cops involved with covering up a murder by getting rid of their body cam video f
   
 
 
-	
-
-  
-
-
 
 ## Opening soon
 
+
+	
+
+	
 
 	
 
@@ -262,10 +293,6 @@ A journalist desperately tries to find his missing fiancee and finally uncover t
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
 	
 
 	
