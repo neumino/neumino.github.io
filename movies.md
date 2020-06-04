@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Survive the Night
-*Released on 2020-05-22, vote average 5.8*
+*Released on 2020-05-22, vote average 5.9*
 
 A disgraced doctor and his family are held hostage at their home by criminals on the run, when a robbery-gone-awry requires them to seek immediate medical attention.
 
@@ -76,7 +76,7 @@ A couple experiences a defining moment in their relationship when they are unint
 	
 
 ### Debt Collectors
-*Released on 2020-05-29, vote average 4*
+*Released on 2020-05-29, vote average 5.3*
 
 A pair of debt collectors are thrust into an explosively dangerous situation, chasing down various lowlifes while also evading a vengeful kingpin.
 
@@ -98,7 +98,7 @@ A pair of debt collectors are thrust into an explosively dangerous situation, ch
 	
 
 ### Gabriel&#39;s Inferno
-*Released on 2020-05-29, vote average 6.2*
+*Released on 2020-05-29, vote average 6.8*
 
 An intriguing and sinful exploration of seduction, forbidden love, and redemption, Gabriel&#39;s Inferno is a captivating and wildly passionate tale of one man&#39;s escape from his own personal hell as he tries to earn the impossible--forgiveness and love.
 
@@ -131,13 +131,6 @@ An intriguing and sinful exploration of seduction, forbidden love, and redemptio
 
 
 	
-	
-	
-
-  
-
-
-	
 
   
 
@@ -164,15 +157,6 @@ An intriguing and sinful exploration of seduction, forbidden love, and redemptio
 
 
 	
-	
-	
-
-  
-
-
-	
-	
-	
 
   
 
@@ -180,20 +164,66 @@ An intriguing and sinful exploration of seduction, forbidden love, and redemptio
 	
 	
 
-### Drunk on Love
-*Released on 2020-06-01, vote average 2*
+### Blood Myth
+*Released on 2020-06-04, vote average 4*
 
-Story of Rumi, his friendship with Shams Tabrizi, the love he had for him and the great influence of Shams over him in his life, his poetry and his love for God.
+A journalist desperately tries to find his missing fiancee and finally uncover the truth behind a sinister folklore, leading him down a dangerous road of discovery.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/1pvmy_oTS-g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/TQ3TCKq8uew?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Murder Manual
+*Released on 2020-05-24, vote average 7*
+
+Creepy, terrifying chapters from our book of horror include a little girl&#39;s journey from a world of nightmares into the nightmare of reality, a gay couple&#39;s romantic getaway in Palm Springs that turns murderous, a young woman whose rideshare turns deadly, and a girl who is held captive by a circus that must be rescued by her husband.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/VUoT8PUx8T8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -222,42 +252,6 @@ After SpongeBob&#39;s beloved pet snail Gary is snail-napped, he and Patrick emb
 
 
 	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Prom Night
-*Released on 2020-06-01, vote average 1*
-
-Three best friends ditch their high school prom dance. The night that follows unravels their hidden and suppressed desires which cast a glimpse of the emotional bewilderment of a whole generation.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/F55E-zpYVy8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -265,14 +259,6 @@ Three best friends ditch their high school prom dance. The night that follows un
 
 ## Opening soon
 
-
-	
-
-	
-
-	
-
-	
 
 	
 
@@ -297,6 +283,31 @@ A journalist desperately tries to find his missing fiancee and finally uncover t
 
 	
 
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### A French Woman
+*Released on 2020-06-04, vote average 1*
+
+Mira in her late 40´s has been living in Paris for around 20 years. Having just divorced her French husband, she decides to visit Korea, and meets her old friends Young-eun and Sung-woo. While having a cheerful time in the bar, Mira goes to the toilet and after she returns, time is reversed back to 19 years ago. It is the day of Mira’s farewell party, before she left to France.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mV-s0q92dAs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
