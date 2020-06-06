@@ -11,21 +11,6 @@ This is a convenient page that embeds trailers of movies released in the past
 
 	
 	
-
-### Survive the Night
-*Released on 2020-05-22, vote average 5.8*
-
-A disgraced doctor and his family are held hostage at their home by criminals on the run, when a robbery-gone-awry requires them to seek immediate medical attention.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XVHReeBQFtA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -45,24 +30,17 @@ A disgraced doctor and his family are held hostage at their home by criminals on
 
 	
 	
-	
 
-  
+### Debt Collectors
+*Released on 2020-05-29, vote average 5.1*
 
-
-	
-	
-
-### The Lovebirds
-*Released on 2020-05-22, vote average 6.4*
-
-A couple experiences a defining moment in their relationship when they are unintentionally embroiled in a murder mystery. As their journey to clear their names takes them from one extreme – and hilarious - circumstance to the next, they must figure out how they, and their relationship, can survive the night.
+A pair of debt collectors are thrust into an explosively dangerous situation, chasing down various lowlifes while also evading a vengeful kingpin.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/YzPq8uVgLe8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/tTlhmJ1yT-0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -73,18 +51,28 @@ A couple experiences a defining moment in their relationship when they are unint
 
 
 	
+
+  
+
+
 	
 
-### Debt Collectors
-*Released on 2020-05-29, vote average 5.3*
+  
 
-A pair of debt collectors are thrust into an explosively dangerous situation, chasing down various lowlifes while also evading a vengeful kingpin.
+
+	
+	
+
+### Blood Myth
+*Released on 2020-06-04, vote average 3*
+
+A journalist desperately tries to find his missing fiancee and finally uncover the truth behind a sinister folklore, leading him down a dangerous road of discovery.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/tTlhmJ1yT-0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/TQ3TCKq8uew?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -117,89 +105,10 @@ An intriguing and sinful exploration of seduction, forbidden love, and redemptio
 
 
 	
-	
-
-### Blood Myth
-*Released on 2020-06-04, vote average 4*
-
-A journalist desperately tries to find his missing fiancee and finally uncover the truth behind a sinister folklore, leading him down a dangerous road of discovery.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/TQ3TCKq8uew?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -235,6 +144,59 @@ Mira in her late 40´s has been living in Paris for around 20 years. Having just
 
 
 	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 
   
 
@@ -254,6 +216,18 @@ Mira in her late 40´s has been living in Paris for around 20 years. Having just
 	
 
 	
+	
+	
+
+	
+
+	
+
+	
+
+	
+	
+	
 
 	
 
@@ -273,16 +247,6 @@ Mira in her late 40´s has been living in Paris for around 20 years. Having just
 
 	
 
-	
-
-	
-
-	
-
-	
-
-	
-	
 	
 
 
