@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Last Days of American Crime
-*Released on 2020-06-05, vote average 5.2*
+*Released on 2020-06-05, vote average 5.4*
 
 In the not-too-distant future, where as a final response to crime and terrorism, the U.S. government plans to broadcast a signal that will make it impossible for anyone to knowingly break the law.
 
@@ -47,7 +47,7 @@ In the not-too-distant future, where as a final response to crime and terrorism,
 	
 
 ### Becky
-*Released on 2020-06-05, vote average 6.6*
+*Released on 2020-06-05, vote average 6.4*
 
 A teenager&#39;s weekend at a lake house with her father takes a turn for the worse when a group of convicts wreaks havoc on their lives.
 
@@ -66,6 +66,48 @@ A teenager&#39;s weekend at a lake house with her father takes a turn for the wo
 
 
 	
+	
+
+### The High Note
+*Released on 2020-06-10, vote average 8.4*
+
+Set in the dazzling world of the LA music scene comes the story of Grace Davis, a superstar whose talent, and ego, have reached unbelievable heights. Maggie is Grace’s overworked personal assistant who’s stuck running errands, but still aspires to her childhood dream of becoming a music producer. When Grace’s manager presents her with a choice that could alter the course of her career, Maggie and Grace come up with a plan that could change their lives forever.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qpWJugM99FI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Think Like a Dog
+*Released on 2020-06-05, vote average 3*
+
+A 12-year-old tech prodigy whose science experiment goes awry and he forges a telepathic connection with his best friend, his dog. The duo join forces and use their unique perspectives on life to comically overcome complications of family and school.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/s3_5WZSOsn8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -104,30 +146,8 @@ A bank employee weighed down by her jobless husband&#39;s debts - and her own br
 	
 	
 
-### Think Like a Dog
-*Released on 2020-06-05, vote average 5*
-
-A 12-year-old tech prodigy whose science experiment goes awry and he forges a telepathic connection with his best friend, his dog. The duo join forces and use their unique perspectives on life to comically overcome complications of family and school.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/s3_5WZSOsn8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Debt Collectors
-*Released on 2020-05-29, vote average 4.2*
+*Released on 2020-05-29, vote average 4.6*
 
 A pair of debt collectors are thrust into an explosively dangerous situation, chasing down various lowlifes while also evading a vengeful kingpin.
 
@@ -146,33 +166,6 @@ A pair of debt collectors are thrust into an explosively dangerous situation, ch
 
 
 	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Yvonne Orji: Momma, I Made It!
-*Released on 2020-06-06, vote average 5.5*
-
-&#39;Insecure&#39; star Yvonne Orji celebrates her Nigerian-American upbringing in her debut HBO comedy special, which intersperses her stand-up with documentary footage of a trip to Nigeria.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/7HfU7KULq_Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -207,6 +200,13 @@ An intriguing and sinful exploration of seduction, forbidden love, and redemptio
 
 
 	
+	
+	
+
+  
+
+
+	
 
   
 
@@ -224,44 +224,42 @@ An intriguing and sinful exploration of seduction, forbidden love, and redemptio
 
 
 	
+
+  
+
+
 	
 
-### Adventures of Rufus: The Fantastic Pet
-*Released on 2020-05-26, vote average 6.4*
+  
 
-At his grandmother&#39;s house, Scott and his friend Emily meet Rufus, a swashbuckling, furry creature who begs them to help restore his fading kingdom. Wizard Abbott&#39;s spell book contains the magic healing formula--but Abbott&#39;s ancient nemesis Lilith, posing as Grandmother&#39;s servant, wants the book, too! In this hilarious, high-flying family adventure, Scott and Emily must confront a gigantic alligator, a vicious dinosaur skeleton, a ruthless owl, and a fire-breathing dragon to rescue Rufus&#39; magical world.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Legacy
+*Released on 2020-05-28, vote average 7.4*
+
+While on a hunting trip in the isolated wilderness, a father and his adopted teenage son are turned into the prey of unknown assailants. They are unexpectedly joined in their fight for survival by a stranger who reveals the disturbing truth about the son&#39;s biological father, an international crime lord, and why that crime lord has sent trained assassins to kill the teenager.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/28opYabk2Qc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/yDpETtqJffg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -275,7 +273,7 @@ At his grandmother&#39;s house, Scott and his friend Emily meet Rufus, a swashbu
 	
 
 ### The High Note
-*Released on 2020-06-10, vote average 7.8*
+*Released on 2020-06-10, vote average 8.4*
 
 Set in the dazzling world of the LA music scene comes the story of Grace Davis, a superstar whose talent, and ego, have reached unbelievable heights. Maggie is Grace’s overworked personal assistant who’s stuck running errands, but still aspires to her childhood dream of becoming a music producer. When Grace’s manager presents her with a choice that could alter the course of her career, Maggie and Grace come up with a plan that could change their lives forever.
 
