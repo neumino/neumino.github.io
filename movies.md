@@ -47,7 +47,7 @@ In the not-too-distant future, where as a final response to crime and terrorism,
 	
 
 ### Becky
-*Released on 2020-06-05, vote average 6.4*
+*Released on 2020-06-05, vote average 6.5*
 
 A teenager&#39;s weekend at a lake house with her father takes a turn for the worse when a group of convicts wreaks havoc on their lives.
 
@@ -69,7 +69,7 @@ A teenager&#39;s weekend at a lake house with her father takes a turn for the wo
 	
 
 ### The High Note
-*Released on 2020-06-10, vote average 8.4*
+*Released on 2020-06-10, vote average 7.9*
 
 Set in the dazzling world of the LA music scene comes the story of Grace Davis, a superstar whose talent, and ego, have reached unbelievable heights. Maggie is Grace’s overworked personal assistant who’s stuck running errands, but still aspires to her childhood dream of becoming a music producer. When Grace’s manager presents her with a choice that could alter the course of her career, Maggie and Grace come up with a plan that could change their lives forever.
 
@@ -82,11 +82,6 @@ Set in the dazzling world of the LA music scene comes the story of Grace Davis, 
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -124,16 +119,16 @@ A 12-year-old tech prodigy whose science experiment goes awry and he forges a te
 	
 	
 
-### Choked: Paisa Bolta Hai
-*Released on 2020-06-05, vote average 6.4*
+### 40 Years of Rocky: The Birth of a Classic
+*Released on 2020-06-09, vote average 2*
 
-A bank employee weighed down by her jobless husband&#39;s debts - and her own broken dreams - finds a secret source of seemingly unlimited cash in her home.
+Sylvester Stallone and John G. Avildsen narrate behind-the-scenes footage from the making of &#34;Rocky&#34; to mark the film&#39;s 40th anniversary.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/KY3D-htXKFE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/dleQ5Rbf6gg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -144,10 +139,32 @@ A bank employee weighed down by her jobless husband&#39;s debts - and her own br
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### Debt Collectors
-*Released on 2020-05-29, vote average 4.6*
+*Released on 2020-05-29, vote average 4.4*
 
 A pair of debt collectors are thrust into an explosively dangerous situation, chasing down various lowlifes while also evading a vengeful kingpin.
 
@@ -160,74 +177,6 @@ A pair of debt collectors are thrust into an explosively dangerous situation, ch
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Gabriel&#39;s Inferno
-*Released on 2020-05-29, vote average 6.6*
-
-An intriguing and sinful exploration of seduction, forbidden love, and redemption, Gabriel&#39;s Inferno is a captivating and wildly passionate tale of one man&#39;s escape from his own personal hell as he tries to earn the impossible--forgiveness and love.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/a581-Vb-nrQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -247,7 +196,7 @@ An intriguing and sinful exploration of seduction, forbidden love, and redemptio
 	
 
 ### Legacy
-*Released on 2020-05-28, vote average 7.4*
+*Released on 2020-05-28, vote average 6.8*
 
 While on a hunting trip in the isolated wilderness, a father and his adopted teenage son are turned into the prey of unknown assailants. They are unexpectedly joined in their fight for survival by a stranger who reveals the disturbing truth about the son&#39;s biological father, an international crime lord, and why that crime lord has sent trained assassins to kill the teenager.
 
@@ -265,30 +214,56 @@ While on a hunting trip in the isolated wilderness, a father and his adopted tee
   
 
 
+	
 
-## Opening soon
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
 
 
 	
 	
 
-### The High Note
-*Released on 2020-06-10, vote average 8.4*
+### Choked: Paisa Bolta Hai
+*Released on 2020-06-05, vote average 7.1*
 
-Set in the dazzling world of the LA music scene comes the story of Grace Davis, a superstar whose talent, and ego, have reached unbelievable heights. Maggie is Grace’s overworked personal assistant who’s stuck running errands, but still aspires to her childhood dream of becoming a music producer. When Grace’s manager presents her with a choice that could alter the course of her career, Maggie and Grace come up with a plan that could change their lives forever.
+A bank employee weighed down by her jobless husband&#39;s debts - and her own broken dreams - finds a secret source of seemingly unlimited cash in her home.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/qpWJugM99FI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/KY3D-htXKFE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
 	
 
-	
+  
+
+
+
+## Opening soon
+
 
 	
 
@@ -319,11 +294,34 @@ Set in the dazzling world of the LA music scene comes the story of Grace Davis, 
 	
 
 	
+	
+	
+
+	
 
 	
 
 	
 
+	
+
+	
+	
+
+### Infamous
+*Released on 2020-06-12, vote average 1*
+
+Two young lovers rob their way across the southland, posting their exploits to social media, and gaining fame and followers as a result.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wJtnDjWiQFg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 
