@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Last Days of American Crime
-*Released on 2020-06-05, vote average 5.4*
+*Released on 2020-06-05, vote average 5.5*
 
 In the not-too-distant future, where as a final response to crime and terrorism, the U.S. government plans to broadcast a signal that will make it impossible for anyone to knowingly break the law.
 
@@ -91,7 +91,7 @@ Set in the dazzling world of the LA music scene comes the story of Grace Davis, 
 	
 
 ### Think Like a Dog
-*Released on 2020-06-05, vote average 3*
+*Released on 2020-06-05, vote average 5.3*
 
 A 12-year-old tech prodigy whose science experiment goes awry and he forges a telepathic connection with his best friend, his dog. The duo join forces and use their unique perspectives on life to comically overcome complications of family and school.
 
@@ -110,7 +110,25 @@ A 12-year-old tech prodigy whose science experiment goes awry and he forges a te
 
 
 	
+
+  
+
+
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -163,6 +181,43 @@ Sylvester Stallone and John G. Avildsen narrate behind-the-scenes footage from t
 	
 	
 
+### Choked: Paisa Bolta Hai
+*Released on 2020-06-05, vote average 7.3*
+
+A bank employee weighed down by her jobless husband&#39;s debts - and her own broken dreams - finds a secret source of seemingly unlimited cash in her home.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KY3D-htXKFE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### Debt Collectors
 *Released on 2020-05-29, vote average 4.4*
 
@@ -187,114 +242,12 @@ A pair of debt collectors are thrust into an explosively dangerous situation, ch
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Legacy
-*Released on 2020-05-28, vote average 6.8*
-
-While on a hunting trip in the isolated wilderness, a father and his adopted teenage son are turned into the prey of unknown assailants. They are unexpectedly joined in their fight for survival by a stranger who reveals the disturbing truth about the son&#39;s biological father, an international crime lord, and why that crime lord has sent trained assassins to kill the teenager.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/yDpETtqJffg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Choked: Paisa Bolta Hai
-*Released on 2020-06-05, vote average 7.1*
-
-A bank employee weighed down by her jobless husband&#39;s debts - and her own broken dreams - finds a secret source of seemingly unlimited cash in her home.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/KY3D-htXKFE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 
 ## Opening soon
 
 
 	
 
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	
 	
 
 	
@@ -318,6 +271,68 @@ Two young lovers rob their way across the southland, posting their exploits to s
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/wJtnDjWiQFg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+	
+
+### Jo Koy: In His Elements
+*Released on 2020-06-12, vote average 1*
+
+Jo Koy returns to the Philippines to show off the local culture and headline a special featuring Filipino American comedians, DJs and hip-hop dancers.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/u8bmlVzQyxU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Bang Bang Con The Live
+*Released on 2020-06-14, vote average 2*
+
+Bang Bang Con (stylized as BANG BANG CON) was a special free streaming event of BTS concerts and fanmeeting DVDs via their official YouTube channel. This event was streaming on April 18 and 19, 2020.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/K0TsMa3a9y4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
