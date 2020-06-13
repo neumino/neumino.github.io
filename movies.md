@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Last Days of American Crime
-*Released on 2020-06-05, vote average 5.5*
+*Released on 2020-06-05, vote average 5.3*
 
 In the not-too-distant future, where as a final response to crime and terrorism, the U.S. government plans to broadcast a signal that will make it impossible for anyone to knowingly break the law.
 
@@ -47,7 +47,7 @@ In the not-too-distant future, where as a final response to crime and terrorism,
 	
 
 ### Becky
-*Released on 2020-06-05, vote average 6.5*
+*Released on 2020-06-05, vote average 6.6*
 
 A teenager&#39;s weekend at a lake house with her father takes a turn for the worse when a group of convicts wreaks havoc on their lives.
 
@@ -88,6 +88,11 @@ Set in the dazzling world of the LA music scene comes the story of Grace Davis, 
 
 
 	
+
+  
+
+
+	
 	
 
 ### Think Like a Dog
@@ -110,43 +115,18 @@ A 12-year-old tech prodigy whose science experiment goes awry and he forges a te
 
 
 	
-
-  
-
-
 	
 
-  
+### Da 5 Bloods
+*Released on 2020-06-12, vote average 7*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### 40 Years of Rocky: The Birth of a Classic
-*Released on 2020-06-09, vote average 2*
-
-Sylvester Stallone and John G. Avildsen narrate behind-the-scenes footage from the making of &#34;Rocky&#34; to mark the film&#39;s 40th anniversary.
+Four African American Vietnam veterans return to Vietnam. They are in search of the remains of their fallen squad leader and the promise of buried treasure. These heroes battle forces of humanity and nature while confronted by the lasting ravages of the immorality of the Vietnam War.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/dleQ5Rbf6gg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/D5RDTPfsLAI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -157,16 +137,6 @@ Sylvester Stallone and John G. Avildsen narrate behind-the-scenes footage from t
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 	
 
@@ -177,86 +147,6 @@ Sylvester Stallone and John G. Avildsen narrate behind-the-scenes footage from t
 
   
 
-
-	
-	
-
-### Choked: Paisa Bolta Hai
-*Released on 2020-06-05, vote average 7.3*
-
-A bank employee weighed down by her jobless husband&#39;s debts - and her own broken dreams - finds a secret source of seemingly unlimited cash in her home.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/KY3D-htXKFE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Debt Collectors
-*Released on 2020-05-29, vote average 4.4*
-
-A pair of debt collectors are thrust into an explosively dangerous situation, chasing down various lowlifes while also evading a vengeful kingpin.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tTlhmJ1yT-0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-
-## Opening soon
-
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
 
 	
 	
@@ -277,7 +167,13 @@ Two young lovers rob their way across the southland, posting their exploits to s
 	
 	
 
+  
+
+
 	
+
+  
+
 
 	
 	
@@ -298,24 +194,104 @@ Jo Koy returns to the Philippines to show off the local culture and headline a s
 	
 	
 
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+
+## Opening soon
+
+
+	
+	
+
+### Sniper: Assassin&#39;s End
+*Released on 2020-06-15, vote average 4.9*
+
+Special Ops sniper Brandon Beckett is set up as the primary suspect for the murder of a foreign dignitary on the eve of signing a high-profile trade agreement with the United States. Narrowly escaping death, Beckett realizes that there may be a dark operative working within the government, and partners with the only person whom he can trust: his father, legendary sniper Sgt. Thomas Beckett. Both Becketts are on the run from the CIA, Russian mercenaries and Lady Death, a Yakuza-trained assassin with sniper skills that rival both legendary sharpshooters.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Ub9EikTkrTk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
 
 	
 	
+
+### Inheritance
+*Released on 2020-06-18, vote average 5.8*
+
+A patriarch of a wealthy and powerful family suddenly passes away, leaving his wife and daughter with a shocking secret inheritance that threatens to unravel and destroy their lives.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3q7JOLZxjqY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
 
 	
-
 	
-
-	
-
-	
-
 	
 
 	
@@ -337,6 +313,32 @@ Bang Bang Con (stylized as BANG BANG CON) was a special free streaming event of 
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 
