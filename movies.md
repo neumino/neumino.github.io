@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Last Days of American Crime
-*Released on 2020-06-05, vote average 5.3*
+*Released on 2020-06-05, vote average 5.6*
 
 In the not-too-distant future, where as a final response to crime and terrorism, the U.S. government plans to broadcast a signal that will make it impossible for anyone to knowingly break the law.
 
@@ -46,6 +46,50 @@ In the not-too-distant future, where as a final response to crime and terrorism,
 	
 	
 
+### Artemis Fowl
+*Released on 2020-06-12, vote average 5.3*
+
+With the help of his loyal protector Butler, 12-year-old genius Artemis Fowl, descendant of a long line of criminal masterminds, seeks to find his mysteriously disappeared father, and in doing so, uncovers an ancient, underground civilization—the amazingly advanced world of fairies. Deducing that his father’s disappearance is somehow connected to the secretive, reclusive fairy world, cunning Artemis concocts a dangerous plan—so dangerous that he ultimately finds himself in a perilous war of wits with the all-powerful fairies.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wXlBep9uFjI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Da 5 Bloods
+*Released on 2020-06-12, vote average 7.4*
+
+Four African-American Vietnam veterans return to Vietnam. They are in search of the remains of their fallen squad leader and the promise of buried treasure. These heroes battle forces of humanity and nature while confronted by the lasting ravages of the immorality of the Vietnam War.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/D5RDTPfsLAI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Becky
 *Released on 2020-06-05, vote average 6.6*
 
@@ -68,35 +112,8 @@ A teenager&#39;s weekend at a lake house with her father takes a turn for the wo
 	
 	
 
-### The High Note
-*Released on 2020-06-10, vote average 7.9*
-
-Set in the dazzling world of the LA music scene comes the story of Grace Davis, a superstar whose talent, and ego, have reached unbelievable heights. Maggie is Grace’s overworked personal assistant who’s stuck running errands, but still aspires to her childhood dream of becoming a music producer. When Grace’s manager presents her with a choice that could alter the course of her career, Maggie and Grace come up with a plan that could change their lives forever.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qpWJugM99FI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### Think Like a Dog
-*Released on 2020-06-05, vote average 5.3*
+*Released on 2020-06-05, vote average 6.5*
 
 A 12-year-old tech prodigy whose science experiment goes awry and he forges a telepathic connection with his best friend, his dog. The duo join forces and use their unique perspectives on life to comically overcome complications of family and school.
 
@@ -117,32 +134,20 @@ A 12-year-old tech prodigy whose science experiment goes awry and he forges a te
 	
 	
 
-### Da 5 Bloods
-*Released on 2020-06-12, vote average 7*
+### The High Note
+*Released on 2020-06-10, vote average 7.8*
 
-Four African American Vietnam veterans return to Vietnam. They are in search of the remains of their fallen squad leader and the promise of buried treasure. These heroes battle forces of humanity and nature while confronted by the lasting ravages of the immorality of the Vietnam War.
+Set in the dazzling world of the LA music scene comes the story of Grace Davis, a superstar whose talent, and ego, have reached unbelievable heights. Maggie is Grace’s overworked personal assistant who’s stuck running errands, but still aspires to her childhood dream of becoming a music producer. When Grace’s manager presents her with a choice that could alter the course of her career, Maggie and Grace come up with a plan that could change their lives forever.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/D5RDTPfsLAI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/qpWJugM99FI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 	
 
   
@@ -171,11 +176,6 @@ Two young lovers rob their way across the southland, posting their exploits to s
 
 
 	
-
-  
-
-
-	
 	
 
 ### Jo Koy: In His Elements
@@ -198,35 +198,22 @@ Jo Koy returns to the Philippines to show off the local culture and headline a s
 
 
 	
-
-  
-
-
 	
 
-  
+### Gulabo Sitabo
+*Released on 2020-06-12, vote average 3.5*
 
+Gulabo and Sitabo are from Uttar Pradesh, their story is full of local humour and songs, depicting day-to-day struggle of common man.
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/o0qeQ_yHqtA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-  
-
-
 	
 
   
@@ -239,6 +226,110 @@ Jo Koy returns to the Philippines to show off the local culture and headline a s
 
 	
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### We Bare Bears: The Movie
+*Released on 2020-06-08, vote average 6*
+
+When Grizz, Panda, and Ice Bear&#39;s love of food trucks and viral videos went out of hand, it catches the attention of Agent Trout from the National Wildlife Control, who pledges to restore the “natural order” by separating them forever. Chased away from their home, the Bears embark on an epic road trip as they seek refuge in Canada, with their journey being filled with new friends, perilous obstacles, and huge parties. The risky journey also forces the Bears to face how they first met and became brothers, in order to keep their family bond from splitting apart.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0ZNsLy2IwcY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Flight on the Water
+*Released on 2020-06-12, vote average 1*
+
+Haruka is a promising athlete, but she gets into an accident and is left paralyzed from the waist down. Haruka becomes frustrated with her situation and closes her mind to others. By meeting people who view disabilities as individuality traits, she attains a new dream in the sport of paracanoe.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/DX7wK_wD6mc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Bang Bang Con The Live
+*Released on 2020-06-14, vote average 2*
+
+Bang Bang Con (stylized as BANG BANG CON) was a special free streaming event of BTS concerts and fanmeeting DVDs via their official YouTube channel. This event was streaming on April 18 and 19, 2020.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/K0TsMa3a9y4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -268,6 +359,10 @@ Special Ops sniper Brandon Beckett is set up as the primary suspect for the murd
 	
 
 	
+	
+	
+
+	
 
 	
 	
@@ -289,14 +384,6 @@ A patriarch of a wealthy and powerful family suddenly passes away, leaving his w
 	
 
 	
-
-	
-	
-	
-
-	
-
-	
 	
 
 ### Bang Bang Con The Live
@@ -313,6 +400,10 @@ Bang Bang Con (stylized as BANG BANG CON) was a special free streaming event of 
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
 	
 
 	
