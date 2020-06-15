@@ -47,7 +47,7 @@ In the not-too-distant future, where as a final response to crime and terrorism,
 	
 
 ### Artemis Fowl
-*Released on 2020-06-12, vote average 5.3*
+*Released on 2020-06-12, vote average 4.7*
 
 With the help of his loyal protector Butler, 12-year-old genius Artemis Fowl, descendant of a long line of criminal masterminds, seeks to find his mysteriously disappeared father, and in doing so, uncovers an ancient, underground civilization—the amazingly advanced world of fairies. Deducing that his father’s disappearance is somehow connected to the secretive, reclusive fairy world, cunning Artemis concocts a dangerous plan—so dangerous that he ultimately finds himself in a perilous war of wits with the all-powerful fairies.
 
@@ -69,7 +69,7 @@ With the help of his loyal protector Butler, 12-year-old genius Artemis Fowl, de
 	
 
 ### Da 5 Bloods
-*Released on 2020-06-12, vote average 7.4*
+*Released on 2020-06-12, vote average 7.1*
 
 Four African-American Vietnam veterans return to Vietnam. They are in search of the remains of their fallen squad leader and the promise of buried treasure. These heroes battle forces of humanity and nature while confronted by the lasting ravages of the immorality of the Vietnam War.
 
@@ -90,19 +90,48 @@ Four African-American Vietnam veterans return to Vietnam. They are in search of 
 	
 	
 
-### Becky
-*Released on 2020-06-05, vote average 6.6*
+### Sniper: Assassin&#39;s End
+*Released on 2020-06-15, vote average 5.4*
 
-A teenager&#39;s weekend at a lake house with her father takes a turn for the worse when a group of convicts wreaks havoc on their lives.
+Special Ops sniper Brandon Beckett is set up as the primary suspect for the murder of a foreign dignitary on the eve of signing a high-profile trade agreement with the United States. Narrowly escaping death, Beckett realizes that there may be a dark operative working within the government, and partners with the only person whom he can trust: his father, legendary sniper Sgt. Thomas Beckett. Both Becketts are on the run from the CIA, Russian mercenaries and Lady Death, a Yakuza-trained assassin with sniper skills that rival both legendary sharpshooters.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/LQAJ5QvD8BA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Ub9EikTkrTk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+	
+
+### Infamous
+*Released on 2020-06-12, vote average 5.5*
+
+Two young lovers rob their way across the southland, posting their exploits to social media, and gaining fame and followers as a result.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wJtnDjWiQFg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -134,8 +163,35 @@ A 12-year-old tech prodigy whose science experiment goes awry and he forges a te
 	
 	
 
+### Becky
+*Released on 2020-06-05, vote average 6.5*
+
+A teenager&#39;s weekend at a lake house with her father takes a turn for the worse when a group of convicts wreaks havoc on their lives.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LQAJ5QvD8BA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### The High Note
-*Released on 2020-06-10, vote average 7.8*
+*Released on 2020-06-10, vote average 8.1*
 
 Set in the dazzling world of the LA music scene comes the story of Grace Davis, a superstar whose talent, and ego, have reached unbelievable heights. Maggie is Grace’s overworked personal assistant who’s stuck running errands, but still aspires to her childhood dream of becoming a music producer. When Grace’s manager presents her with a choice that could alter the course of her career, Maggie and Grace come up with a plan that could change their lives forever.
 
@@ -155,17 +211,24 @@ Set in the dazzling world of the LA music scene comes the story of Grace Davis, 
 
 	
 	
+	
 
-### Infamous
-*Released on 2020-06-12, vote average 1*
+  
 
-Two young lovers rob their way across the southland, posting their exploits to social media, and gaining fame and followers as a result.
+
+	
+	
+
+### Bang Bang Con The Live
+*Released on 2020-06-14, vote average 2*
+
+Bang Bang Con (stylized as BANG BANG CON) was a special free streaming event of BTS concerts and fanmeeting DVDs via their official YouTube channel. This event was streaming on April 18 and 19, 2020.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/wJtnDjWiQFg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/K0TsMa3a9y4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -176,10 +239,15 @@ Two young lovers rob their way across the southland, posting their exploits to s
 
 
 	
+
+  
+
+
+	
 	
 
 ### Jo Koy: In His Elements
-*Released on 2020-06-12, vote average 1*
+*Released on 2020-06-12, vote average 2.5*
 
 Jo Koy returns to the Philippines to show off the local culture and headline a special featuring Filipino American comedians, DJs and hip-hop dancers.
 
@@ -199,44 +267,27 @@ Jo Koy returns to the Philippines to show off the local culture and headline a s
 
 	
 	
+	
 
-### Gulabo Sitabo
-*Released on 2020-06-12, vote average 3.5*
+  
 
-Gulabo and Sitabo are from Uttar Pradesh, their story is full of local humour and songs, depicting day-to-day struggle of common man.
+
+	
+	
+
+### The Confession of Max
+*Released on 2020-06-13, vote average 1*
+
+After years of chasing a notorious serial killer nicknamed, &#34;The Mistress Murderer,&#34; a tenacious police detective is told the infamous murderer has turned himself in, and in order to hear his true confession, he demands to tell his life story.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/o0qeQ_yHqtA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Ek8z_V9i0wk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 	
 
@@ -273,59 +324,6 @@ When Grizz, Panda, and Ice Bear&#39;s love of food trucks and viral videos went 
 
 
 	
-	
-	
-
-  
-
-
-	
-	
-
-### Flight on the Water
-*Released on 2020-06-12, vote average 1*
-
-Haruka is a promising athlete, but she gets into an accident and is left paralyzed from the waist down. Haruka becomes frustrated with her situation and closes her mind to others. By meeting people who view disabilities as individuality traits, she attains a new dream in the sport of paracanoe.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/DX7wK_wD6mc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Bang Bang Con The Live
-*Released on 2020-06-14, vote average 2*
-
-Bang Bang Con (stylized as BANG BANG CON) was a special free streaming event of BTS concerts and fanmeeting DVDs via their official YouTube channel. This event was streaming on April 18 and 19, 2020.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/K0TsMa3a9y4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -343,7 +341,7 @@ Bang Bang Con (stylized as BANG BANG CON) was a special free streaming event of 
 	
 
 ### Sniper: Assassin&#39;s End
-*Released on 2020-06-15, vote average 4.9*
+*Released on 2020-06-15, vote average 5.4*
 
 Special Ops sniper Brandon Beckett is set up as the primary suspect for the murder of a foreign dignitary on the eve of signing a high-profile trade agreement with the United States. Narrowly escaping death, Beckett realizes that there may be a dark operative working within the government, and partners with the only person whom he can trust: his father, legendary sniper Sgt. Thomas Beckett. Both Becketts are on the run from the CIA, Russian mercenaries and Lady Death, a Yakuza-trained assassin with sniper skills that rival both legendary sharpshooters.
 
@@ -360,8 +358,6 @@ Special Ops sniper Brandon Beckett is set up as the primary suspect for the murd
 
 	
 	
-	
-
 	
 
 	
@@ -384,22 +380,7 @@ A patriarch of a wealthy and powerful family suddenly passes away, leaving his w
 	
 
 	
-	
 
-### Bang Bang Con The Live
-*Released on 2020-06-14, vote average 2*
-
-Bang Bang Con (stylized as BANG BANG CON) was a special free streaming event of BTS concerts and fanmeeting DVDs via their official YouTube channel. This event was streaming on April 18 and 19, 2020.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/K0TsMa3a9y4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
