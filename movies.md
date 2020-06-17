@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Artemis Fowl
-*Released on 2020-06-12, vote average 5.3*
+*Released on 2020-06-12, vote average 5.6*
 
 With the help of his loyal protector Butler, 12-year-old genius Artemis Fowl, descendant of a long line of criminal masterminds, seeks to find his mysteriously disappeared father, and in doing so, uncovers an ancient, underground civilization—the amazingly advanced world of fairies. Deducing that his father’s disappearance is somehow connected to the secretive, reclusive fairy world, cunning Artemis concocts a dangerous plan—so dangerous that he ultimately finds himself in a perilous war of wits with the all-powerful fairies.
 
@@ -46,30 +46,8 @@ With the help of his loyal protector Butler, 12-year-old genius Artemis Fowl, de
 	
 	
 
-### The Last Days of American Crime
-*Released on 2020-06-05, vote average 5.7*
-
-In the not-too-distant future, where as a final response to crime and terrorism, the U.S. government plans to broadcast a signal that will make it impossible for anyone to knowingly break the law.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/gdWxGwiuhnU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Da 5 Bloods
-*Released on 2020-06-12, vote average 7.2*
+*Released on 2020-06-12, vote average 7.1*
 
 Four African-American Vietnam veterans return to Vietnam. They are in search of the remains of their fallen squad leader and the promise of buried treasure. These heroes battle forces of humanity and nature while confronted by the lasting ravages of the immorality of the Vietnam War.
 
@@ -90,16 +68,16 @@ Four African-American Vietnam veterans return to Vietnam. They are in search of 
 	
 	
 
-### Sniper: Assassin&#39;s End
-*Released on 2020-06-15, vote average 5.9*
+### The Last Days of American Crime
+*Released on 2020-06-05, vote average 5.8*
 
-Special Ops sniper Brandon Beckett is set up as the primary suspect for the murder of a foreign dignitary on the eve of signing a high-profile trade agreement with the United States. Narrowly escaping death, Beckett realizes that there may be a dark operative working within the government, and partners with the only person whom he can trust: his father, legendary sniper Sgt. Thomas Beckett. Both Becketts are on the run from the CIA, Russian mercenaries and Lady Death, a Yakuza-trained assassin with sniper skills that rival both legendary sharpshooters.
+In the not-too-distant future, where as a final response to crime and terrorism, the U.S. government plans to broadcast a signal that will make it impossible for anyone to knowingly break the law.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Ub9EikTkrTk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/gdWxGwiuhnU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -113,7 +91,7 @@ Special Ops sniper Brandon Beckett is set up as the primary suspect for the murd
 	
 
 ### Infamous
-*Released on 2020-06-12, vote average 5.8*
+*Released on 2020-06-12, vote average 5.5*
 
 Two young lovers rob their way across the southland, posting their exploits to social media, and gaining fame and followers as a result.
 
@@ -122,6 +100,28 @@ Two young lovers rob their way across the southland, posting their exploits to s
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/wJtnDjWiQFg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Sniper: Assassin&#39;s End
+*Released on 2020-06-15, vote average 5.2*
+
+Special Ops sniper Brandon Beckett is set up as the primary suspect for the murder of a foreign dignitary on the eve of signing a high-profile trade agreement with the United States. Narrowly escaping death, Beckett realizes that there may be a dark operative working within the government, and partners with the only person whom he can trust: his father, legendary sniper Sgt. Thomas Beckett. Both Becketts are on the run from the CIA, Russian mercenaries and Lady Death, a Yakuza-trained assassin with sniper skills that rival both legendary sharpshooters.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Ub9EikTkrTk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -183,8 +183,40 @@ A teenager&#39;s weekend at a lake house with her father takes a turn for the wo
 	
 	
 
+### Long Gone Summer
+*Released on 2020-06-14, vote average 5*
+
+An examination of the 1998 MLB season and the home run race between Mark McGwire and Sammy Sosa. The two sluggers&#39; race to hit the most home runs, later overshadowed by the steroid scandal, left a permanent mark on baseball history.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FwqXDUgsK78?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### The High Note
-*Released on 2020-06-10, vote average 8*
+*Released on 2020-06-10, vote average 8.1*
 
 Set in the dazzling world of the LA music scene comes the story of Grace Davis, a superstar whose talent, and ego, have reached unbelievable heights. Maggie is Grace’s overworked personal assistant who’s stuck running errands, but still aspires to her childhood dream of becoming a music producer. When Grace’s manager presents her with a choice that could alter the course of her career, Maggie and Grace come up with a plan that could change their lives forever.
 
@@ -203,9 +235,19 @@ Set in the dazzling world of the LA music scene comes the story of Grace Davis, 
 
 
 	
+
+  
+
+
 	
 
-### Bang Bang Con The Live
+  
+
+
+	
+	
+
+### Bang Bang Con: The Live
 *Released on 2020-06-14, vote average 7*
 
 Bang Bang Con (stylized as BANG BANG CON) was a special free streaming event of BTS concerts and fanmeeting DVDs via their official YouTube channel. This event was streaming on April 18 and 19, 2020.
@@ -226,92 +268,6 @@ Bang Bang Con (stylized as BANG BANG CON) was a special free streaming event of 
 
 	
 	
-
-### Gulabo Sitabo
-*Released on 2020-06-12, vote average 3.7*
-
-Gulabo and Sitabo are from Uttar Pradesh, their story is full of local humour and songs, depicting day-to-day struggle of common man.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/o0qeQ_yHqtA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Jo Koy: In His Elements
-*Released on 2020-06-12, vote average 5*
-
-Jo Koy returns to the Philippines to show off the local culture and headline a special featuring Filipino American comedians, DJs and hip-hop dancers.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/u8bmlVzQyxU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Love in the Forecast
-*Released on 2020-06-13, vote average 6*
-
-After swearing off dating for a full year, Leah quickly learns her new commitment has made her a magnet for men.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zVuSCMqYeXU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Confession of Max
-*Released on 2020-06-13, vote average 1*
-
-After years of chasing a notorious serial killer nicknamed, &#34;The Mistress Murderer,&#34; a tenacious police detective is told the infamous murderer has turned himself in, and in order to hear his true confession, he demands to tell his life story.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Ek8z_V9i0wk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -324,28 +280,6 @@ After years of chasing a notorious serial killer nicknamed, &#34;The Mistress Mu
   
 
 
-	
-
-  
-
-
-	
-	
-
-### We Bare Bears: The Movie
-*Released on 2020-06-08, vote average 6*
-
-When Grizz, Panda, and Ice Bear&#39;s love of food trucks and viral videos went out of hand, it catches the attention of Agent Trout from the National Wildlife Control, who pledges to restore the “natural order” by separating them forever. Chased away from their home, the Bears embark on an epic road trip as they seek refuge in Canada, with their journey being filled with new friends, perilous obstacles, and huge parties. The risky journey also forces the Bears to face how they first met and became brothers, in order to keep their family bond from splitting apart.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0ZNsLy2IwcY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
