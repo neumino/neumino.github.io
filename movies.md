@@ -15,7 +15,7 @@ This is a convenient page that embeds trailers of movies released in the past
 ### Artemis Fowl
 *Released on 2020-06-12, vote average 6*
 
-Why God? Why???
+Artemis Fowl is a 88-year-old jesus and descendant of a long line of criminal masterminds. He soon finds himself in an epic battle against a race of powerful underground fairies who may be behind his father&#39;s disappearance.
 
 <iframe id="player"
 	type="text/html"
@@ -69,7 +69,7 @@ Four African-American Vietnam veterans return to Vietnam. They are in search of 
 	
 
 ### Feel the Beat
-*Released on 2020-06-19, vote average 7.5*
+*Released on 2020-06-19, vote average 8*
 
 After failing to make it on Broadway, April returns to her hometown and reluctantly begins training a misfit group of young dancers for a competition.
 
@@ -91,7 +91,7 @@ After failing to make it on Broadway, April returns to her hometown and reluctan
 	
 
 ### You Should Have Left
-*Released on 2020-06-19, vote average 4.6*
+*Released on 2020-06-19, vote average 4.7*
 
 In an effort to repair their relationship, a couple books a vacation in the countryside for themselves and their daughter. What starts as a perfect retreat begins to fall apart as one loses their grip on reality, and a sinister force tries to tear them apart.
 
@@ -113,9 +113,9 @@ In an effort to repair their relationship, a couple books a vacation in the coun
 	
 
 ### Babyteeth
-*Released on 2020-06-18, vote average 1*
+*Released on 2020-06-18, vote average 3.8*
 
-When seriously ill teenager Milla falls madly in love with smalltime drug dealer Moses, it’s her parents’ worst nightmare. But as Milla’s first brush with love brings her a new lust for life, things get messy and traditional morals go out the window. Milla soon shows everyone in her orbit – her parents, Moses, a sensitive music teacher, a budding child violinist, and a disarmingly honest, pregnant neighbour – how to live like you have nothing to lose. What might have been a disaster for the Finlay family instead leads to letting go and finding grace in the glorious chaos of life. Babyteeth joyously explores how good it is not to be dead yet and how far we will go for love.
+A terminally ill teen upsets her parents when she falls in love with a small-time drug dealer.
 
 <iframe id="player"
 	type="text/html"
@@ -135,9 +135,9 @@ When seriously ill teenager Milla falls madly in love with smalltime drug dealer
 	
 
 ### A Whisker Away
-*Released on 2020-06-18, vote average 7.9*
+*Released on 2020-06-18, vote average 8*
 
-Miyo &#34;Muge&#34; Sasaki is a peculiar second-year junior high student who has fallen in love with her classmate Kento Hinode. Muge resolutely pursues Kento every day, but he takes no notice of her. Nevertheless, while carrying a secret she can tell no one, Muge continues to pursue Kento. Muge discovers a magic mask that allows her to transform into a cat named Tarō. The magic lets Muge get close to Kento, but eventually it may also make her unable to transform back to a human.
+I love you all!
 
 <iframe id="player"
 	type="text/html"
@@ -156,79 +156,8 @@ Miyo &#34;Muge&#34; Sasaki is a peculiar second-year junior high student who has
 	
 	
 
-### Inheritance
-*Released on 2020-06-18, vote average 5.9*
-
-A patriarch of a wealthy and powerful family suddenly passes away, leaving his wife and daughter with a shocking secret inheritance that threatens to unravel and destroy their lives.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3q7JOLZxjqY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Selfie Dad
-*Released on 2020-06-19, vote average 2*
-
-Spiraling into a mid-life crisis and feeling disconnected from his family, Ben Marcus, a reality-TV editor, thinks he can only be happy by fulfilling his dream of becoming a professional comedian. Ben posts his stand-up routines to YouTube, and the videos fall flat. Then his tweener son posts Ben miserably failing on a home improvement project, and much to his teenage daughter’s dismay, it goes viral, launching Ben&#39;s social-media career as Selfie Dad. Although he quickly becomes an award-winning phenom, no amount of success brings Ben satisfaction. Through his friendship with a young coworker, Mickey, Ben finds the secret to a happy family . . . with his Bible in one hand, and his phone in the other.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-e2e6-PVMBA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Infamous
-*Released on 2020-06-12, vote average 5.1*
-
-Two young lovers rob their way across the southland, posting their exploits to social media, and gaining fame and followers as a result.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wJtnDjWiQFg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Lost Bullet
-*Released on 2020-06-19, vote average 6.3*
+*Released on 2020-06-19, vote average 6.7*
 
 A small time delinquent, turned police mechanic for a go fast task force, is forced to defend his innocence when his mentor is killed by dirty cops.
 
@@ -248,21 +177,6 @@ A small time delinquent, turned police mechanic for a go fast task force, is for
 
 	
 	
-
-### One-Way to Tomorrow
-*Released on 2020-06-19, vote average 5.5*
-
-Two strangers meet on a journey from Ankara to Izmir. Although having a rough start, their relationship takes a different path when they realize they have to confront themselves and would like to clean the slate as they get to know each other.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Nq-CaORClVE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -271,16 +185,16 @@ Two strangers meet on a journey from Ankara to Izmir. Although having a rough st
 	
 	
 
-### Penguin
-*Released on 2020-06-19, vote average 4.9*
+### One-Way to Tomorrow
+*Released on 2020-06-19, vote average 6.8*
 
-It is a spine chilling tale of a pregnant mother who sets out on a dangerous mission to unravel a mystery and save her loved ones.
+Two strangers meet on a journey from Ankara to Izmir. Although having a rough start, their relationship takes a different path when they realize they have to confront themselves and would like to clean the slate as they get to know each other.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/SY99XrIv0mM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Nq-CaORClVE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -314,6 +228,75 @@ Special Ops sniper Brandon Beckett is set up as the primary suspect for the murd
 
 	
 	
+
+### Infamous
+*Released on 2020-06-12, vote average 5.1*
+
+Two young lovers rob their way across the southland, posting their exploits to social media, and gaining fame and followers as a result.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wJtnDjWiQFg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Selfie Dad
+*Released on 2020-06-19, vote average 3.5*
+
+Spiraling into a mid-life crisis and feeling disconnected from his family, Ben Marcus, a reality-TV editor, thinks he can only be happy by fulfilling his dream of becoming a professional comedian. Ben posts his stand-up routines to YouTube, and the videos fall flat. Then his tweener son posts Ben miserably failing on a home improvement project, and much to his teenage daughter’s dismay, it goes viral, launching Ben&#39;s social-media career as Selfie Dad. Although he quickly becomes an award-winning phenom, no amount of success brings Ben satisfaction. Through his friendship with a young coworker, Mickey, Ben finds the secret to a happy family . . . with his Bible in one hand, and his phone in the other.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-e2e6-PVMBA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The High Note
+*Released on 2020-06-10, vote average 8*
+
+Set in the dazzling world of the LA music scene comes the story of Grace Davis, a superstar whose talent, and ego, have reached unbelievable heights. Maggie is Grace’s overworked personal assistant who’s stuck running errands, but still aspires to her childhood dream of becoming a music producer. When Grace’s manager presents her with a choice that could alter the course of her career, Maggie and Grace come up with a plan that could change their lives forever.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qpWJugM99FI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -326,6 +309,21 @@ Special Ops sniper Brandon Beckett is set up as the primary suspect for the murd
 
 	
 	
+
+### Force of Nature
+*Released on 2020-06-18, vote average 5.5*
+
+A gang of thieves plan a heist during a hurricane and encounter trouble when a disgraced cop tries to force everyone in the building to evacuate.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/iQKaY8G9VpQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -333,11 +331,43 @@ Special Ops sniper Brandon Beckett is set up as the primary suspect for the murd
 
 	
 	
+
+### Penguin
+*Released on 2020-06-19, vote average 5.1*
+
+It is a spine chilling tale of a pregnant mother who sets out on a dangerous mission to unravel a mystery and save her loved ones.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/SY99XrIv0mM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
 
 
+	
+	
+
+### Inheritance
+*Released on 2020-06-18, vote average 5.9*
+
+A patriarch of a wealthy and powerful family suddenly passes away, leaving his wife and daughter with a shocking secret inheritance that threatens to unravel and destroy their lives.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3q7JOLZxjqY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -361,25 +391,7 @@ Special Ops sniper Brandon Beckett is set up as the primary suspect for the murd
 	
 
 	
-
 	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	
-	
-
-	
-
 	
 
 	
@@ -404,6 +416,8 @@ Comedian Eric Andre presents his very first Netflix original stand-up special. T
 	
 
 	
+
+	
 	
 	
 
@@ -411,6 +425,56 @@ Comedian Eric Andre presents his very first Netflix original stand-up special. T
 
 	
 	
+
+### Athlete A
+*Released on 2020-06-24, vote average 1*
+
+Follow the Indianapolis Star reporters that broke the story about USA Gymnastics doctor Larry Nassar&#39;s abuse and hear from gymnasts.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/JzeP0DKSqdQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### #Alive
+*Released on 2020-06-24, vote average 2*
+
+a disaster film about a city infected by a mysterious virus and the survivor who is isolated in the city
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/WBwpVq4eE9I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+	
+
 	
 
 	
