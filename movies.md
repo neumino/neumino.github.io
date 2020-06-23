@@ -13,9 +13,9 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Artemis Fowl
-*Released on 2020-06-12, vote average 6*
+*Released on 2020-06-12, vote average 5.9*
 
-Artemis Fowl is a 88-year-old jesus and descendant of a long line of criminal masterminds. He soon finds himself in an epic battle against a race of powerful underground fairies who may be behind his father&#39;s disappearance.
+Artemis Fowl is a 12-year-old genius and descendant of a long line of criminal masterminds. He soon finds himself in an epic battle against a race of powerful underground fairies who may be behind his father&#39;s disappearance.
 
 <iframe id="player"
 	type="text/html"
@@ -46,28 +46,6 @@ Artemis Fowl is a 88-year-old jesus and descendant of a long line of criminal ma
 	
 	
 
-### Da 5 Bloods
-*Released on 2020-06-12, vote average 6.9*
-
-Four African-American Vietnam veterans return to Vietnam. They are in search of the remains of their fallen squad leader and the promise of buried treasure. These heroes battle forces of humanity and nature while confronted by the lasting ravages of the immorality of the Vietnam War.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/D5RDTPfsLAI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Feel the Beat
 *Released on 2020-06-19, vote average 8*
 
@@ -90,8 +68,30 @@ After failing to make it on Broadway, April returns to her hometown and reluctan
 	
 	
 
+### Da 5 Bloods
+*Released on 2020-06-12, vote average 6.9*
+
+Four African-American Vietnam veterans return to Vietnam. They are in search of the remains of their fallen squad leader and the promise of buried treasure. These heroes battle forces of humanity and nature while confronted by the lasting ravages of the immorality of the Vietnam War.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/D5RDTPfsLAI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### You Should Have Left
-*Released on 2020-06-19, vote average 4.7*
+*Released on 2020-06-19, vote average 5.1*
 
 In an effort to repair their relationship, a couple books a vacation in the countryside for themselves and their daughter. What starts as a perfect retreat begins to fall apart as one loses their grip on reality, and a sinister force tries to tear them apart.
 
@@ -112,32 +112,10 @@ In an effort to repair their relationship, a couple books a vacation in the coun
 	
 	
 
-### Babyteeth
-*Released on 2020-06-18, vote average 3.8*
-
-A terminally ill teen upsets her parents when she falls in love with a small-time drug dealer.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/M6E8gPmz7n4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### A Whisker Away
-*Released on 2020-06-18, vote average 8*
+*Released on 2020-06-18, vote average 8.1*
 
-I love you all!
+Miyo &#34;Muge&#34; Sasaki is a peculiar second-year junior high student who has fallen in love with her classmate Kento Hinode. Muge resolutely pursues Kento every day, but he takes no notice of her. Nevertheless, while carrying a secret she can tell no one, Muge continues to pursue Kento. Muge discovers a magic mask that allows her to transform into a cat named Tarō. The magic lets Muge get close to Kento, but eventually it may also make her unable to transform back to a human.
 
 <iframe id="player"
 	type="text/html"
@@ -157,7 +135,7 @@ I love you all!
 	
 
 ### Lost Bullet
-*Released on 2020-06-19, vote average 6.7*
+*Released on 2020-06-19, vote average 6.8*
 
 A small time delinquent, turned police mechanic for a go fast task force, is forced to defend his innocence when his mentor is killed by dirty cops.
 
@@ -177,6 +155,33 @@ A small time delinquent, turned police mechanic for a go fast task force, is for
 
 	
 	
+
+### Babyteeth
+*Released on 2020-06-18, vote average 4.5*
+
+A terminally ill teen upsets her parents when she falls in love with a small-time drug dealer.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/M6E8gPmz7n4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -185,16 +190,16 @@ A small time delinquent, turned police mechanic for a go fast task force, is for
 	
 	
 
-### One-Way to Tomorrow
-*Released on 2020-06-19, vote average 6.8*
+### Infamous
+*Released on 2020-06-12, vote average 4.7*
 
-Two strangers meet on a journey from Ankara to Izmir. Although having a rough start, their relationship takes a different path when they realize they have to confront themselves and would like to clean the slate as they get to know each other.
+Two young lovers rob their way across the southland, posting their exploits to social media, and gaining fame and followers as a result.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Nq-CaORClVE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/wJtnDjWiQFg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -229,38 +234,16 @@ Special Ops sniper Brandon Beckett is set up as the primary suspect for the murd
 	
 	
 
-### Infamous
-*Released on 2020-06-12, vote average 5.1*
+### One-Way to Tomorrow
+*Released on 2020-06-19, vote average 6.6*
 
-Two young lovers rob their way across the southland, posting their exploits to social media, and gaining fame and followers as a result.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wJtnDjWiQFg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Selfie Dad
-*Released on 2020-06-19, vote average 3.5*
-
-Spiraling into a mid-life crisis and feeling disconnected from his family, Ben Marcus, a reality-TV editor, thinks he can only be happy by fulfilling his dream of becoming a professional comedian. Ben posts his stand-up routines to YouTube, and the videos fall flat. Then his tweener son posts Ben miserably failing on a home improvement project, and much to his teenage daughter’s dismay, it goes viral, launching Ben&#39;s social-media career as Selfie Dad. Although he quickly becomes an award-winning phenom, no amount of success brings Ben satisfaction. Through his friendship with a young coworker, Mickey, Ben finds the secret to a happy family . . . with his Bible in one hand, and his phone in the other.
+Two strangers meet on a journey from Ankara to Izmir. Although having a rough start, their relationship takes a different path when they realize they have to confront themselves and would like to clean the slate as they get to know each other.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-e2e6-PVMBA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Nq-CaORClVE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -298,28 +281,18 @@ Set in the dazzling world of the LA music scene comes the story of Grace Davis, 
 
 
 	
-
-  
-
-
 	
 
-  
+### A Bluebird in My Heart
+*Released on 2020-06-10, vote average 4.8*
 
-
-	
-	
-
-### Force of Nature
-*Released on 2020-06-18, vote average 5.5*
-
-A gang of thieves plan a heist during a hurricane and encounter trouble when a disgraced cop tries to force everyone in the building to evacuate.
+An ex-con&#39;s attempts to live a quiet life are derailed when the daughter of the woman sheltering him is the victim of a vicious attack.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/iQKaY8G9VpQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/vy594X65hjg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -330,22 +303,32 @@ A gang of thieves plan a heist during a hurricane and encounter trouble when a d
 
 
 	
+
+  
+
+
+	
 	
 
-### Penguin
-*Released on 2020-06-19, vote average 5.1*
+### Looks That Kill
+*Released on 2020-06-19, vote average 5*
 
-It is a spine chilling tale of a pregnant mother who sets out on a dangerous mission to unravel a mystery and save her loved ones.
+The story of a teenage boy who deals with the ups and downs of being lethally attractive.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/SY99XrIv0mM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Wl58hTp_KwQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -355,7 +338,7 @@ It is a spine chilling tale of a pregnant mother who sets out on a dangerous mis
 	
 
 ### Inheritance
-*Released on 2020-06-18, vote average 5.9*
+*Released on 2020-06-18, vote average 5.6*
 
 A patriarch of a wealthy and powerful family suddenly passes away, leaving his wife and daughter with a shocking secret inheritance that threatens to unravel and destroy their lives.
 
@@ -374,6 +357,23 @@ A patriarch of a wealthy and powerful family suddenly passes away, leaving his w
 
 
 	
+	
+
+### Think Like a Dog
+*Released on 2020-06-09, vote average 8*
+
+A 12-year-old tech prodigy whose science experiment goes awry and he forges a telepathic connection with his best friend, his dog. The duo join forces and use their unique perspectives on life to comically overcome complications of family and school.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/s3_5WZSOsn8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -389,11 +389,7 @@ A patriarch of a wealthy and powerful family suddenly passes away, leaving his w
 	
 
 	
-
 	
-	
-	
-
 	
 
 	
@@ -445,6 +441,18 @@ Follow the Indianapolis Star reporters that broke the story about USA Gymnastics
 	
 
 	
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
 
 	
 
@@ -469,14 +477,6 @@ a disaster film about a city infected by a mysterious virus and the survivor who
   allowfullscreen></iframe>
 
 	
-	
-
-	
-	
-	
-
-	
-
 	
 
 
