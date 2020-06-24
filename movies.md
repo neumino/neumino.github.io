@@ -47,7 +47,7 @@ Artemis Fowl is a 12-year-old genius and descendant of a long line of criminal m
 	
 
 ### Feel the Beat
-*Released on 2020-06-19, vote average 8*
+*Released on 2020-06-19, vote average 8.2*
 
 After failing to make it on Broadway, April returns to her hometown and reluctantly begins training a misfit group of young dancers for a competition.
 
@@ -56,6 +56,28 @@ After failing to make it on Broadway, April returns to her hometown and reluctan
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/PhLSDnxLp-M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### You Should Have Left
+*Released on 2020-06-19, vote average 4.9*
+
+In an effort to repair their relationship, a couple books a vacation in the countryside for themselves and their daughter. What starts as a perfect retreat begins to fall apart as one loses their grip on reality, and a sinister force tries to tear them apart.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Bw0-cV_J9q4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -90,50 +112,6 @@ Four African-American Vietnam veterans return to Vietnam. They are in search of 
 	
 	
 
-### You Should Have Left
-*Released on 2020-06-19, vote average 5.1*
-
-In an effort to repair their relationship, a couple books a vacation in the countryside for themselves and their daughter. What starts as a perfect retreat begins to fall apart as one loses their grip on reality, and a sinister force tries to tear them apart.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Bw0-cV_J9q4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### A Whisker Away
-*Released on 2020-06-18, vote average 8.1*
-
-Miyo &#34;Muge&#34; Sasaki is a peculiar second-year junior high student who has fallen in love with her classmate Kento Hinode. Muge resolutely pursues Kento every day, but he takes no notice of her. Nevertheless, while carrying a secret she can tell no one, Muge continues to pursue Kento. Muge discovers a magic mask that allows her to transform into a cat named Tarō. The magic lets Muge get close to Kento, but eventually it may also make her unable to transform back to a human.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/aXc9DVfLTGo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Lost Bullet
 *Released on 2020-06-19, vote average 6.8*
 
@@ -156,8 +134,30 @@ A small time delinquent, turned police mechanic for a go fast task force, is for
 	
 	
 
+### A Whisker Away
+*Released on 2020-06-18, vote average 8.3*
+
+Miyo &#34;Muge&#34; Sasaki is a peculiar second-year junior high student who has fallen in love with her classmate Kento Hinode. Muge resolutely pursues Kento every day, but he takes no notice of her. Nevertheless, while carrying a secret she can tell no one, Muge continues to pursue Kento. Muge discovers a magic mask that allows her to transform into a cat named Tarō. The magic lets Muge get close to Kento, but eventually it may also make her unable to transform back to a human.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/aXc9DVfLTGo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Babyteeth
-*Released on 2020-06-18, vote average 4.5*
+*Released on 2020-06-18, vote average 4.4*
 
 A terminally ill teen upsets her parents when she falls in love with a small-time drug dealer.
 
@@ -183,6 +183,30 @@ A terminally ill teen upsets her parents when she falls in love with a small-tim
 
 
 	
+	
+	
+
+  
+
+
+	
+	
+
+### Brock: Over the Top
+*Released on 2020-06-22, vote average 2*
+
+Brock: Over the Top is a feature length documentary that not only chronicles the extraordinary life of Australia’s greatest racing car driver, Peter Brock, but peels away the surface to reveal the profoundly human story behind the legend. This film is a cinematic, thrilling yet intimately personal portrait of a life lived on the racing track and in the public eye.  Using a treasure trove of rare archival material coupled with candid interviews with the key characters in Peter Brock’s life including his family, his partners, and closest colleagues, this film tells the epic story of Brock&#39;s early obsession with cars, his hard won ascension to the top, his incredible record-breaking victories at Bathurst, his various professional and personal controversies, and his ultimate, tragic death on the race track.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/y1opYdV_Gvo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -203,6 +227,13 @@ Two young lovers rob their way across the southland, posting their exploits to s
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -234,16 +265,16 @@ Special Ops sniper Brandon Beckett is set up as the primary suspect for the murd
 	
 	
 
-### One-Way to Tomorrow
-*Released on 2020-06-19, vote average 6.6*
+### Love Under the Olive Tree
+*Released on 2020-06-20, vote average 4.3*
 
-Two strangers meet on a journey from Ankara to Izmir. Although having a rough start, their relationship takes a different path when they realize they have to confront themselves and would like to clean the slate as they get to know each other.
+The prize of Sunset Valley&#39;s annual olive oil contest is a land parcel with disputed ownership. When feisty Nicole and competitive Jake face-off, they never expect sparks to fly. Starring Tori Anderson and Benjamin Hollingsworth.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Nq-CaORClVE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/YP2_8OvG70g?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -256,43 +287,16 @@ Two strangers meet on a journey from Ankara to Izmir. Although having a rough st
 	
 	
 
-### The High Note
-*Released on 2020-06-10, vote average 8*
+### Eric Andre: Legalize Everything
+*Released on 2020-06-23, vote average 1*
 
-Set in the dazzling world of the LA music scene comes the story of Grace Davis, a superstar whose talent, and ego, have reached unbelievable heights. Maggie is Grace’s overworked personal assistant who’s stuck running errands, but still aspires to her childhood dream of becoming a music producer. When Grace’s manager presents her with a choice that could alter the course of her career, Maggie and Grace come up with a plan that could change their lives forever.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qpWJugM99FI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### A Bluebird in My Heart
-*Released on 2020-06-10, vote average 4.8*
-
-An ex-con&#39;s attempts to live a quiet life are derailed when the daughter of the woman sheltering him is the victim of a vicious attack.
+Comedian Eric Andre presents his very first Netflix original stand-up special. Taking the stage in New Orleans, Andre breaks the boundaries of comedy as he critiques the war on drugs, the war on sex, and the war on fart jokes!
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/vy594X65hjg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/UYjof4V7MyY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -330,27 +334,12 @@ The story of a teenage boy who deals with the ups and downs of being lethally at
 
 
 	
+	
+	
 
   
 
 
-	
-	
-
-### Inheritance
-*Released on 2020-06-18, vote average 5.6*
-
-A patriarch of a wealthy and powerful family suddenly passes away, leaving his wife and daughter with a shocking secret inheritance that threatens to unravel and destroy their lives.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3q7JOLZxjqY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -359,16 +348,16 @@ A patriarch of a wealthy and powerful family suddenly passes away, leaving his w
 	
 	
 
-### Think Like a Dog
-*Released on 2020-06-09, vote average 8*
+### Athlete A
+*Released on 2020-06-24, vote average 1*
 
-A 12-year-old tech prodigy whose science experiment goes awry and he forges a telepathic connection with his best friend, his dog. The duo join forces and use their unique perspectives on life to comically overcome complications of family and school.
+Follow the Indianapolis Star reporters that broke the story about USA Gymnastics doctor Larry Nassar&#39;s abuse and hear from gymnasts.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/s3_5WZSOsn8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/JzeP0DKSqdQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -385,36 +374,24 @@ A 12-year-old tech prodigy whose science experiment goes awry and he forges a te
 	
 
 	
-
 	
 
-	
-	
-	
+### Run with the Hunted
+*Released on 2020-06-26, vote average 3.5*
 
-	
-	
-
-### Eric Andre: Legalize Everything
-*Released on 2020-06-23, vote average 1*
-
-Comedian Eric Andre presents his very first Netflix original stand-up special. Taking the stage in New Orleans, Andre breaks the boundaries of comedy as he critiques the war on drugs, the war on sex, and the war on fart jokes!
+Oscar, a young boy, commits a noble murder and is forced to runaway from his rural hometown, leaving behind his best friend, Loux. He escapes to the nearest city, where he is inducted into a gang of child street thieves. His innocence slips away as he is introduced to love, murder, and corruption. 15 years later, he has forgotten his past and become the leader of this band of lost children. When Loux moves to the city in search of work, she takes a job with a struggling private investigator. Stumbling upon Oscar&#39;s missing child report, she takes it upon herself to find the boy who saved her life.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/UYjof4V7MyY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xfBgNny5v1k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
 	
 
-	
-
-	
-	
 	
 
 	
@@ -439,23 +416,7 @@ Follow the Indianapolis Star reporters that broke the story about USA Gymnastics
 	
 
 	
-
 	
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
@@ -477,6 +438,34 @@ a disaster film about a city infected by a mysterious virus and the survivor who
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+	
+
 	
 
 
