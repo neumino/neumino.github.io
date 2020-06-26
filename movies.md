@@ -46,16 +46,16 @@ Artemis Fowl is a 12-year-old genius and descendant of a long line of criminal m
 	
 	
 
-### Feel the Beat
-*Released on 2020-06-19, vote average 8.2*
+### Lost Bullet
+*Released on 2020-06-19, vote average 6.8*
 
-After failing to make it on Broadway, April returns to her hometown and reluctantly begins training a misfit group of young dancers for a competition.
+A small time delinquent, turned police mechanic for a go fast task force, is forced to defend his innocence when his mentor is killed by dirty cops.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/PhLSDnxLp-M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-qaYywvAyz8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,16 +68,16 @@ After failing to make it on Broadway, April returns to her hometown and reluctan
 	
 	
 
-### Lost Bullet
-*Released on 2020-06-19, vote average 6.9*
+### Feel the Beat
+*Released on 2020-06-19, vote average 8.1*
 
-A small time delinquent, turned police mechanic for a go fast task force, is forced to defend his innocence when his mentor is killed by dirty cops.
+After failing to make it on Broadway, April returns to her hometown and reluctantly begins training a misfit group of young dancers for a competition.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-qaYywvAyz8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/PhLSDnxLp-M?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -135,7 +135,7 @@ Four African-American Vietnam veterans return to Vietnam. They are in search of 
 	
 
 ### A Whisker Away
-*Released on 2020-06-18, vote average 8.4*
+*Released on 2020-06-18, vote average 8.3*
 
 Miyo &#34;Muge&#34; Sasaki is a peculiar second-year junior high student who has fallen in love with her classmate Kento Hinode. Muge resolutely pursues Kento every day, but he takes no notice of her. Nevertheless, while carrying a secret she can tell no one, Muge continues to pursue Kento. Muge discovers a magic mask that allows her to transform into a cat named Tarō. The magic lets Muge get close to Kento, but eventually it may also make her unable to transform back to a human.
 
@@ -156,8 +156,64 @@ Miyo &#34;Muge&#34; Sasaki is a peculiar second-year junior high student who has
 	
 	
 
+### Athlete A
+*Released on 2020-06-24, vote average 7.4*
+
+Follow the Indianapolis Star reporters that broke the story about USA Gymnastics doctor Larry Nassar&#39;s abuse and hear from gymnasts.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/JzeP0DKSqdQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Run with the Hunted
+*Released on 2020-06-26, vote average 3.5*
+
+Oscar, a young boy, commits a noble murder and is forced to runaway from his rural hometown, leaving behind his best friend, Loux. He escapes to the nearest city, where he is inducted into a gang of child street thieves. His innocence slips away as he is introduced to love, murder, and corruption. 15 years later, he has forgotten his past and become the leader of this band of lost children. When Loux moves to the city in search of work, she takes a job with a struggling private investigator. Stumbling upon Oscar&#39;s missing child report, she takes it upon herself to find the boy who saved her life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xfBgNny5v1k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Babyteeth
-*Released on 2020-06-18, vote average 4.4*
+*Released on 2020-06-18, vote average 4.8*
 
 A terminally ill teen upsets her parents when she falls in love with a small-time drug dealer.
 
@@ -177,16 +233,9 @@ A terminally ill teen upsets her parents when she falls in love with a small-tim
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Eric Andre: Legalize Everything
-*Released on 2020-06-23, vote average 4.5*
+*Released on 2020-06-23, vote average 5*
 
 Comedian Eric Andre presents his very first Netflix original stand-up special. Taking the stage in New Orleans, Andre breaks the boundaries of comedy as he critiques the war on drugs, the war on sex, and the war on fart jokes!
 
@@ -213,24 +262,17 @@ Comedian Eric Andre presents his very first Netflix original stand-up special. T
 
 	
 	
-	
 
-  
+### Bulbbul
+*Released on 2020-06-24, vote average 5.7*
 
-
-	
-	
-
-### Athlete A
-*Released on 2020-06-24, vote average 1*
-
-Follow the Indianapolis Star reporters that broke the story about USA Gymnastics doctor Larry Nassar&#39;s abuse and hear from gymnasts.
+A man returns home after years to find his brother&#39;s child bride now grown up and abandoned, and his ancestral village plagued by mysterious deaths.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/JzeP0DKSqdQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/4MGReT9-cAg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -241,6 +283,33 @@ Follow the Indianapolis Star reporters that broke the story about USA Gymnastics
 
 
 	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Nobody Knows I&#39;m Here
+*Released on 2020-06-24, vote average 8*
+
+Memo lives on a remote Chilean sheep farm, hiding a beautiful singing voice from the outside world. A recluse with a glittery flair, he can&#39;t stop dwelling on the past, but what will happen once someone finally listens?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0CZXhNcZuEE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -278,18 +347,6 @@ Two young lovers rob their way across the southland, posting their exploits to s
 
 	
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 
 ### #Alive
 *Released on 2020-06-24, vote average 2*
@@ -304,20 +361,6 @@ a disaster film about a city infected by a mysterious virus and the survivor who
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -352,29 +395,45 @@ Oscar, a young boy, commits a noble murder and is forced to runaway from his rur
 	
 
 	
+	
+
+### The King of Staten Island
+*Released on 2020-07-01, vote average 8.5*
+
+Scott has been a case of arrested development ever since his firefighter father died when he was seven. He’s now reached his mid-20s having achieved little, chasing a dream of becoming a tattoo artist that seems far out of reach. As his ambitious younger sister heads off to college, Scott is still living with his exhausted ER nurse mother and spends his days smoking weed, hanging with the guys — Oscar, Igor and Richie — and secretly hooking up with his childhood friend Kelsey. But when his mother starts dating a loudmouth firefighter named Ray, it sets off a chain of events that will force Scott to grapple with his grief and take his first tentative steps toward moving forward in life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/azkVr0VUSTA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
 	
 	
-	
+
+### Eurovision Song Contest: The Story of Fire Saga
+*Released on 2020-06-26, vote average 10*
+
+When aspiring musicians Lars and Sigrit are given the opportunity of a lifetime to represent their country at the world&#39;s biggest song competition, they finally have a chance to prove that any dream is a dream worth fighting for.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/AdW6BBF22AY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
 	
-	
 
-	
-
-	
-
-	
-
-	
-	
-	
-
-	
-	
 	
 
 	
@@ -397,22 +456,15 @@ The Jungle Beat animals think it’s the best thing ever when an alien arrives i
 	
 
 	
-	
-
-### Nussa
-*Released on 2020-06-25, vote average 1*
-
-Nussa&#39;s life changed when he met a new friend who was much more liked by his friends than himself.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2-raFy2fI1o?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+	
+
+	
+
+	
+
 	
 
 	
