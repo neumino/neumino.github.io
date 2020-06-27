@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Artemis Fowl
-*Released on 2020-06-12, vote average 5.9*
+### Lost Bullet
+*Released on 2020-06-19, vote average 6.8*
 
-Artemis Fowl is a 12-year-old genius and descendant of a long line of criminal masterminds. He soon finds himself in an epic battle against a race of powerful underground fairies who may be behind his father&#39;s disappearance.
+A small time delinquent, turned police mechanic for a go fast task force, is forced to defend his innocence when his mentor is killed by dirty cops.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/wXlBep9uFjI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-qaYywvAyz8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -40,28 +40,6 @@ Artemis Fowl is a 12-year-old genius and descendant of a long line of criminal m
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-
-
-	
-	
-
-### Lost Bullet
-*Released on 2020-06-19, vote average 6.8*
-
-A small time delinquent, turned police mechanic for a go fast task force, is forced to defend his innocence when his mentor is killed by dirty cops.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-qaYywvAyz8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
   
 
 
@@ -91,7 +69,7 @@ After failing to make it on Broadway, April returns to her hometown and reluctan
 	
 
 ### You Should Have Left
-*Released on 2020-06-19, vote average 4.9*
+*Released on 2020-06-19, vote average 5*
 
 In an effort to repair their relationship, a couple books a vacation in the countryside for themselves and their daughter. What starts as a perfect retreat begins to fall apart as one loses their grip on reality, and a sinister force tries to tear them apart.
 
@@ -112,52 +90,8 @@ In an effort to repair their relationship, a couple books a vacation in the coun
 	
 	
 
-### Da 5 Bloods
-*Released on 2020-06-12, vote average 6.9*
-
-Four African-American Vietnam veterans return to Vietnam. They are in search of the remains of their fallen squad leader and the promise of buried treasure. These heroes battle forces of humanity and nature while confronted by the lasting ravages of the immorality of the Vietnam War.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/D5RDTPfsLAI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### A Whisker Away
-*Released on 2020-06-18, vote average 8.3*
-
-Miyo &#34;Muge&#34; Sasaki is a peculiar second-year junior high student who has fallen in love with her classmate Kento Hinode. Muge resolutely pursues Kento every day, but he takes no notice of her. Nevertheless, while carrying a secret she can tell no one, Muge continues to pursue Kento. Muge discovers a magic mask that allows her to transform into a cat named Tarō. The magic lets Muge get close to Kento, but eventually it may also make her unable to transform back to a human.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/aXc9DVfLTGo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Athlete A
-*Released on 2020-06-24, vote average 7.4*
+*Released on 2020-06-24, vote average 7.1*
 
 Follow the Indianapolis Star reporters that broke the story about USA Gymnastics doctor Larry Nassar&#39;s abuse and hear from gymnasts.
 
@@ -176,6 +110,21 @@ Follow the Indianapolis Star reporters that broke the story about USA Gymnastics
 
 
 	
+	
+
+### A Whisker Away
+*Released on 2020-06-18, vote average 8.2*
+
+Miyo &#34;Muge&#34; Sasaki is a peculiar second-year junior high student who has fallen in love with her classmate Kento Hinode. Muge resolutely pursues Kento every day, but he takes no notice of her. Nevertheless, while carrying a secret she can tell no one, Muge continues to pursue Kento. Muge discovers a magic mask that allows her to transform into a cat named Tarō. The magic lets Muge get close to Kento, but eventually it may also make her unable to transform back to a human.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/aXc9DVfLTGo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -212,61 +161,10 @@ Oscar, a young boy, commits a noble murder and is forced to runaway from his rur
 	
 	
 
-### Babyteeth
-*Released on 2020-06-18, vote average 4.8*
-
-A terminally ill teen upsets her parents when she falls in love with a small-time drug dealer.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/M6E8gPmz7n4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Eric Andre: Legalize Everything
-*Released on 2020-06-23, vote average 5*
-
-Comedian Eric Andre presents his very first Netflix original stand-up special. Taking the stage in New Orleans, Andre breaks the boundaries of comedy as he critiques the war on drugs, the war on sex, and the war on fart jokes!
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/UYjof4V7MyY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
 ### Bulbbul
 *Released on 2020-06-24, vote average 5.7*
 
-A man returns home after years to find his brother&#39;s child bride now grown up and abandoned, and his ancestral village plagued by mysterious deaths.
+A child bride grows up to be an enigmatic woman presiding over her household, harboring a painful past as supernatural murders of men plague her village.
 
 <iframe id="player"
 	type="text/html"
@@ -289,16 +187,9 @@ A man returns home after years to find his brother&#39;s child bride now grown u
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Nobody Knows I&#39;m Here
-*Released on 2020-06-24, vote average 8*
+*Released on 2020-06-24, vote average 7.4*
 
 Memo lives on a remote Chilean sheep farm, hiding a beautiful singing voice from the outside world. A recluse with a glittery flair, he can&#39;t stop dwelling on the past, but what will happen once someone finally listens?
 
@@ -319,105 +210,6 @@ Memo lives on a remote Chilean sheep farm, hiding a beautiful singing voice from
 	
 	
 
-### Infamous
-*Released on 2020-06-12, vote average 4.7*
-
-Two young lovers rob their way across the southland, posting their exploits to social media, and gaining fame and followers as a result.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wJtnDjWiQFg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### #Alive
-*Released on 2020-06-24, vote average 2*
-
-a disaster film about a city infected by a mysterious virus and the survivor who is isolated in the city
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/WBwpVq4eE9I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-
-## Opening soon
-
-
-	
-
-	
-
-	
-	
-
-### Run with the Hunted
-*Released on 2020-06-26, vote average 3.5*
-
-Oscar, a young boy, commits a noble murder and is forced to runaway from his rural hometown, leaving behind his best friend, Loux. He escapes to the nearest city, where he is inducted into a gang of child street thieves. His innocence slips away as he is introduced to love, murder, and corruption. 15 years later, he has forgotten his past and become the leader of this band of lost children. When Loux moves to the city in search of work, she takes a job with a struggling private investigator. Stumbling upon Oscar&#39;s missing child report, she takes it upon herself to find the boy who saved her life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xfBgNny5v1k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### The King of Staten Island
-*Released on 2020-07-01, vote average 8.5*
-
-Scott has been a case of arrested development ever since his firefighter father died when he was seven. He’s now reached his mid-20s having achieved little, chasing a dream of becoming a tattoo artist that seems far out of reach. As his ambitious younger sister heads off to college, Scott is still living with his exhausted ER nurse mother and spends his days smoking weed, hanging with the guys — Oscar, Igor and Richie — and secretly hooking up with his childhood friend Kelsey. But when his mother starts dating a loudmouth firefighter named Ray, it sets off a chain of events that will force Scott to grapple with his grief and take his first tentative steps toward moving forward in life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/azkVr0VUSTA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-	
-
 ### Eurovision Song Contest: The Story of Fire Saga
 *Released on 2020-06-26, vote average 10*
 
@@ -434,7 +226,15 @@ When aspiring musicians Lars and Sigrit are given the opportunity of a lifetime 
 	
 	
 
+  
+
+
 	
+	
+	
+
+  
+
 
 	
 	
@@ -455,6 +255,123 @@ The Jungle Beat animals think it’s the best thing ever when an alien arrives i
 	
 	
 
+  
+
+
+	
+	
+
+### Babyteeth
+*Released on 2020-06-18, vote average 4.9*
+
+A terminally ill teen upsets her parents when she falls in love with a small-time drug dealer.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/M6E8gPmz7n4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+
+## Opening soon
+
+
+	
+
+	
+	
+
+### The King of Staten Island
+*Released on 2020-07-01, vote average 7.1*
+
+Scott has been a case of arrested development ever since his firefighter father died when he was seven. He’s now reached his mid-20s having achieved little, chasing a dream of becoming a tattoo artist that seems far out of reach. As his ambitious younger sister heads off to college, Scott is still living with his exhausted ER nurse mother and spends his days smoking weed, hanging with the guys — Oscar, Igor and Richie — and secretly hooking up with his childhood friend Kelsey. But when his mother starts dating a loudmouth firefighter named Ray, it sets off a chain of events that will force Scott to grapple with his grief and take his first tentative steps toward moving forward in life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/azkVr0VUSTA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### The Unknown Eye
+*Released on 2020-06-28, vote average 1*
+
+A man tries to navigate a deteriorating relationship with his girlfriend as his life is terrorized by a mysterious Stalker.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/z__kFHDopGo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -471,8 +388,6 @@ The Jungle Beat animals think it’s the best thing ever when an alien arrives i
 
 	
 
-	
-	
 	
 
 	
