@@ -46,6 +46,28 @@ A small time delinquent, turned police mechanic for a go fast task force, is for
 	
 	
 
+### Irresistible
+*Released on 2020-06-26, vote average 7*
+
+A Democratic political consultant helps a retired Marine colonel run for mayor in a small, conservative Wisconsin town.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0vhaAoSm1NY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Feel the Beat
 *Released on 2020-06-19, vote average 8.1*
 
@@ -90,8 +112,52 @@ In an effort to repair their relationship, a couple books a vacation in the coun
 	
 	
 
+### Bulbbul
+*Released on 2020-06-24, vote average 6.9*
+
+A child bride grows up to be an enigmatic woman presiding over her household, harboring a painful past as supernatural murders of men plague her village.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/4MGReT9-cAg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Eurovision Song Contest: The Story of Fire Saga
+*Released on 2020-06-26, vote average 7.4*
+
+When aspiring musicians Lars and Sigrit are given the opportunity of a lifetime to represent their country at the world&#39;s biggest song competition, they finally have a chance to prove that any dream is a dream worth fighting for.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/AdW6BBF22AY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Athlete A
-*Released on 2020-06-24, vote average 7.1*
+*Released on 2020-06-24, vote average 7.3*
 
 Follow the Indianapolis Star reporters that broke the story about USA Gymnastics doctor Larry Nassar&#39;s abuse and hear from gymnasts.
 
@@ -132,6 +198,45 @@ Miyo &#34;Muge&#34; Sasaki is a peculiar second-year junior high student who has
 
 
 	
+	
+
+### Jungle Beat: The Movie
+*Released on 2020-06-26, vote average 1*
+
+The Jungle Beat animals think it’s the best thing ever when an alien arrives in the jungle bringing with him the power of speech. They also surprisingly think it’s the best thing ever when they find out that he’s been sent to conquer them.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ngzX6jKWpM8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Nobody Knows I&#39;m Here
+*Released on 2020-06-24, vote average 7.9*
+
+Memo lives on a remote Chilean sheep farm, hiding a beautiful singing voice from the outside world. A recluse with a glittery flair, he can&#39;t stop dwelling on the past, but what will happen once someone finally listens?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0CZXhNcZuEE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -161,16 +266,16 @@ Oscar, a young boy, commits a noble murder and is forced to runaway from his rur
 	
 	
 
-### Bulbbul
-*Released on 2020-06-24, vote average 5.7*
+### Followed
+*Released on 2020-06-26, vote average 4*
 
-A child bride grows up to be an enigmatic woman presiding over her household, harboring a painful past as supernatural murders of men plague her village.
+To gain more subscribers, a controversial vlogger stays at a cursed hotel with terrifying results.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/4MGReT9-cAg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xPgFUMHill4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -186,72 +291,11 @@ A child bride grows up to be an enigmatic woman presiding over her household, ha
 
 
 	
-	
-
-### Nobody Knows I&#39;m Here
-*Released on 2020-06-24, vote average 7.4*
-
-Memo lives on a remote Chilean sheep farm, hiding a beautiful singing voice from the outside world. A recluse with a glittery flair, he can&#39;t stop dwelling on the past, but what will happen once someone finally listens?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0CZXhNcZuEE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
 	
-	
-
-### Eurovision Song Contest: The Story of Fire Saga
-*Released on 2020-06-26, vote average 10*
-
-When aspiring musicians Lars and Sigrit are given the opportunity of a lifetime to represent their country at the world&#39;s biggest song competition, they finally have a chance to prove that any dream is a dream worth fighting for.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/AdW6BBF22AY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Jungle Beat: The Movie
-*Released on 2020-06-26, vote average 1*
-
-The Jungle Beat animals think it’s the best thing ever when an alien arrives in the jungle bringing with him the power of speech. They also surprisingly think it’s the best thing ever when they find out that he’s been sent to conquer them.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ngzX6jKWpM8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -262,7 +306,7 @@ The Jungle Beat animals think it’s the best thing ever when an alien arrives i
 	
 
 ### Babyteeth
-*Released on 2020-06-18, vote average 4.9*
+*Released on 2020-06-18, vote average 5.1*
 
 A terminally ill teen upsets her parents when she falls in love with a small-time drug dealer.
 
@@ -288,15 +332,6 @@ A terminally ill teen upsets her parents when she falls in love with a small-tim
 
 
 	
-	
-	
-
-  
-
-
-	
-	
-	
 
   
 
@@ -306,13 +341,6 @@ A terminally ill teen upsets her parents when she falls in love with a small-tim
   
 
 
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -323,12 +351,29 @@ A terminally ill teen upsets her parents when she falls in love with a small-tim
 
 
 	
+	
+
+### Force of Nature
+*Released on 2020-07-02, vote average 5.7*
+
+A gang of thieves plan a heist during a hurricane and encounter trouble when a disgraced cop tries to force everyone in the building to evacuate.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/iQKaY8G9VpQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 	
 
 ### The King of Staten Island
-*Released on 2020-07-01, vote average 7.1*
+*Released on 2020-07-01, vote average 7.2*
 
 Scott has been a case of arrested development ever since his firefighter father died when he was seven. He’s now reached his mid-20s having achieved little, chasing a dream of becoming a tattoo artist that seems far out of reach. As his ambitious younger sister heads off to college, Scott is still living with his exhausted ER nurse mother and spends his days smoking weed, hanging with the guys — Oscar, Igor and Richie — and secretly hooking up with his childhood friend Kelsey. But when his mother starts dating a loudmouth firefighter named Ray, it sets off a chain of events that will force Scott to grapple with his grief and take his first tentative steps toward moving forward in life.
 
@@ -341,14 +386,6 @@ Scott has been a case of arrested development ever since his firefighter father 
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
 	
 
 	
@@ -390,6 +427,16 @@ A man tries to navigate a deteriorating relationship with his girlfriend as his 
 
 	
 
+	
+
+	
+
+	
+
+	
+
+	
+	
 	
 
 	
