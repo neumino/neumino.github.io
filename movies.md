@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Lost Bullet
-*Released on 2020-06-19, vote average 6.8*
+### Irresistible
+*Released on 2020-06-26, vote average 7.2*
 
-A small time delinquent, turned police mechanic for a go fast task force, is forced to defend his innocence when his mentor is killed by dirty cops.
+A Democratic political consultant helps a retired Marine colonel run for mayor in a small, conservative Wisconsin town.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-qaYywvAyz8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/0vhaAoSm1NY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ A small time delinquent, turned police mechanic for a go fast task force, is for
 	
 	
 
-### Irresistible
-*Released on 2020-06-26, vote average 7*
+### Lost Bullet
+*Released on 2020-06-19, vote average 6.9*
 
-A Democratic political consultant helps a retired Marine colonel run for mayor in a small, conservative Wisconsin town.
+A small time delinquent, turned police mechanic for a go fast task force, is forced to defend his innocence when his mentor is killed by dirty cops.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/0vhaAoSm1NY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-qaYywvAyz8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -90,52 +90,8 @@ After failing to make it on Broadway, April returns to her hometown and reluctan
 	
 	
 
-### You Should Have Left
-*Released on 2020-06-19, vote average 5*
-
-In an effort to repair their relationship, a couple books a vacation in the countryside for themselves and their daughter. What starts as a perfect retreat begins to fall apart as one loses their grip on reality, and a sinister force tries to tear them apart.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Bw0-cV_J9q4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Bulbbul
-*Released on 2020-06-24, vote average 6.9*
-
-A child bride grows up to be an enigmatic woman presiding over her household, harboring a painful past as supernatural murders of men plague her village.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/4MGReT9-cAg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Eurovision Song Contest: The Story of Fire Saga
-*Released on 2020-06-26, vote average 7.4*
+*Released on 2020-06-26, vote average 7*
 
 When aspiring musicians Lars and Sigrit are given the opportunity of a lifetime to represent their country at the world&#39;s biggest song competition, they finally have a chance to prove that any dream is a dream worth fighting for.
 
@@ -144,28 +100,6 @@ When aspiring musicians Lars and Sigrit are given the opportunity of a lifetime 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/AdW6BBF22AY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Athlete A
-*Released on 2020-06-24, vote average 7.3*
-
-Follow the Indianapolis Star reporters that broke the story about USA Gymnastics doctor Larry Nassar&#39;s abuse and hear from gymnasts.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/JzeP0DKSqdQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -201,7 +135,7 @@ Miyo &#34;Muge&#34; Sasaki is a peculiar second-year junior high student who has
 	
 
 ### Jungle Beat: The Movie
-*Released on 2020-06-26, vote average 1*
+*Released on 2020-06-26, vote average 5.5*
 
 The Jungle Beat animals think it’s the best thing ever when an alien arrives in the jungle bringing with him the power of speech. They also surprisingly think it’s the best thing ever when they find out that he’s been sent to conquer them.
 
@@ -222,8 +156,74 @@ The Jungle Beat animals think it’s the best thing ever when an alien arrives i
 	
 	
 
+### You Should Have Left
+*Released on 2020-06-19, vote average 4.9*
+
+In an effort to repair their relationship, a couple books a vacation in the countryside for themselves and their daughter. What starts as a perfect retreat begins to fall apart as one loses their grip on reality, and a sinister force tries to tear them apart.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Bw0-cV_J9q4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Bulbbul
+*Released on 2020-06-24, vote average 7.3*
+
+A child bride grows up to be an enigmatic woman presiding over her household, harboring a painful past as supernatural murders of men plague her village.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/4MGReT9-cAg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Athlete A
+*Released on 2020-06-24, vote average 7.3*
+
+Follow the Indianapolis Star reporters that broke the story about USA Gymnastics doctor Larry Nassar&#39;s abuse and hear from gymnasts.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/JzeP0DKSqdQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Nobody Knows I&#39;m Here
-*Released on 2020-06-24, vote average 7.9*
+*Released on 2020-06-24, vote average 7.8*
 
 Memo lives on a remote Chilean sheep farm, hiding a beautiful singing voice from the outside world. A recluse with a glittery flair, he can&#39;t stop dwelling on the past, but what will happen once someone finally listens?
 
@@ -264,10 +264,49 @@ Oscar, a young boy, commits a noble murder and is forced to runaway from his rur
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Unknown Eye
+*Released on 2020-06-28, vote average 1*
+
+A man tries to navigate a deteriorating relationship with his girlfriend as his life is terrorized by a mysterious Stalker.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/z__kFHDopGo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
 	
 
 ### Followed
-*Released on 2020-06-26, vote average 4*
+*Released on 2020-06-26, vote average 2.5*
 
 To gain more subscribers, a controversial vlogger stays at a cursed hotel with terrifying results.
 
@@ -286,27 +325,10 @@ To gain more subscribers, a controversial vlogger stays at a cursed hotel with t
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
 	
 
 ### Babyteeth
-*Released on 2020-06-18, vote average 5.1*
+*Released on 2020-06-18, vote average 5.2*
 
 A terminally ill teen upsets her parents when she falls in love with a small-time drug dealer.
 
@@ -325,17 +347,12 @@ A terminally ill teen upsets her parents when she falls in love with a small-tim
 
 
 	
-	
-	
 
   
 
 
 	
-
-  
-
-
+	
 	
 
   
@@ -354,7 +371,7 @@ A terminally ill teen upsets her parents when she falls in love with a small-tim
 	
 
 ### Force of Nature
-*Released on 2020-07-02, vote average 5.7*
+*Released on 2020-07-02, vote average 5.5*
 
 A gang of thieves plan a heist during a hurricane and encounter trouble when a disgraced cop tries to force everyone in the building to evacuate.
 
@@ -393,22 +410,7 @@ Scott has been a case of arrested development ever since his firefighter father 
 	
 
 	
-	
 
-### The Unknown Eye
-*Released on 2020-06-28, vote average 1*
-
-A man tries to navigate a deteriorating relationship with his girlfriend as his life is terrorized by a mysterious Stalker.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/z__kFHDopGo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
@@ -437,8 +439,6 @@ A man tries to navigate a deteriorating relationship with his girlfriend as his 
 
 	
 	
-	
-
 	
 
 	
