@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Irresistible
-*Released on 2020-06-26, vote average 7.2*
+*Released on 2020-06-26, vote average 6.5*
 
 A Democratic political consultant helps a retired Marine colonel run for mayor in a small, conservative Wisconsin town.
 
@@ -40,6 +40,28 @@ A Democratic political consultant helps a retired Marine colonel run for mayor i
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+  
+
+
+	
+	
+
+### Eurovision Song Contest: The Story of Fire Saga
+*Released on 2020-06-26, vote average 6.8*
+
+When aspiring musicians Lars and Sigrit are given the opportunity of a lifetime to represent their country at the world&#39;s biggest song competition, they finally have a chance to prove that any dream is a dream worth fighting for.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/AdW6BBF22AY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
   
 
 
@@ -90,30 +112,8 @@ After failing to make it on Broadway, April returns to her hometown and reluctan
 	
 	
 
-### Eurovision Song Contest: The Story of Fire Saga
-*Released on 2020-06-26, vote average 7*
-
-When aspiring musicians Lars and Sigrit are given the opportunity of a lifetime to represent their country at the world&#39;s biggest song competition, they finally have a chance to prove that any dream is a dream worth fighting for.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/AdW6BBF22AY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### A Whisker Away
-*Released on 2020-06-18, vote average 8.2*
+*Released on 2020-06-18, vote average 8.1*
 
 Miyo &#34;Muge&#34; Sasaki is a peculiar second-year junior high student who has fallen in love with her classmate Kento Hinode. Muge resolutely pursues Kento every day, but he takes no notice of her. Nevertheless, while carrying a secret she can tell no one, Muge continues to pursue Kento. Muge discovers a magic mask that allows her to transform into a cat named Tarō. The magic lets Muge get close to Kento, but eventually it may also make her unable to transform back to a human.
 
@@ -135,7 +135,7 @@ Miyo &#34;Muge&#34; Sasaki is a peculiar second-year junior high student who has
 	
 
 ### Jungle Beat: The Movie
-*Released on 2020-06-26, vote average 5.5*
+*Released on 2020-06-26, vote average 4.3*
 
 The Jungle Beat animals think it’s the best thing ever when an alien arrives in the jungle bringing with him the power of speech. They also surprisingly think it’s the best thing ever when they find out that he’s been sent to conquer them.
 
@@ -157,7 +157,7 @@ The Jungle Beat animals think it’s the best thing ever when an alien arrives i
 	
 
 ### You Should Have Left
-*Released on 2020-06-19, vote average 4.9*
+*Released on 2020-06-19, vote average 5*
 
 In an effort to repair their relationship, a couple books a vacation in the countryside for themselves and their daughter. What starts as a perfect retreat begins to fall apart as one loses their grip on reality, and a sinister force tries to tear them apart.
 
@@ -179,7 +179,7 @@ In an effort to repair their relationship, a couple books a vacation in the coun
 	
 
 ### Bulbbul
-*Released on 2020-06-24, vote average 7.3*
+*Released on 2020-06-24, vote average 7.2*
 
 A child bride grows up to be an enigmatic woman presiding over her household, harboring a painful past as supernatural murders of men plague her village.
 
@@ -201,7 +201,7 @@ A child bride grows up to be an enigmatic woman presiding over her household, ha
 	
 
 ### Athlete A
-*Released on 2020-06-24, vote average 7.3*
+*Released on 2020-06-24, vote average 7.6*
 
 Follow the Indianapolis Star reporters that broke the story about USA Gymnastics doctor Larry Nassar&#39;s abuse and hear from gymnasts.
 
@@ -220,22 +220,20 @@ Follow the Indianapolis Star reporters that broke the story about USA Gymnastics
 
 
 	
-	
 
-### Nobody Knows I&#39;m Here
-*Released on 2020-06-24, vote average 7.8*
+  
 
-Memo lives on a remote Chilean sheep farm, hiding a beautiful singing voice from the outside world. A recluse with a glittery flair, he can&#39;t stop dwelling on the past, but what will happen once someone finally listens?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0CZXhNcZuEE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -254,67 +252,6 @@ Oscar, a young boy, commits a noble murder and is forced to runaway from his rur
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/xfBgNny5v1k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Unknown Eye
-*Released on 2020-06-28, vote average 1*
-
-A man tries to navigate a deteriorating relationship with his girlfriend as his life is terrorized by a mysterious Stalker.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/z__kFHDopGo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Followed
-*Released on 2020-06-26, vote average 2.5*
-
-To gain more subscribers, a controversial vlogger stays at a cursed hotel with terrifying results.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xPgFUMHill4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -347,12 +284,39 @@ A terminally ill teen upsets her parents when she falls in love with a small-tim
 
 
 	
+	
+
+### The Unknown Eye
+*Released on 2020-06-28, vote average 1*
+
+A man tries to navigate a deteriorating relationship with his girlfriend as his life is terrorized by a mysterious Stalker.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/z__kFHDopGo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 
   
 
 
 	
 	
+	
+
+  
+
+
 	
 
   
@@ -371,7 +335,7 @@ A terminally ill teen upsets her parents when she falls in love with a small-tim
 	
 
 ### Force of Nature
-*Released on 2020-07-02, vote average 5.5*
+*Released on 2020-07-02, vote average 5.7*
 
 A gang of thieves plan a heist during a hurricane and encounter trouble when a disgraced cop tries to force everyone in the building to evacuate.
 
@@ -390,7 +354,7 @@ A gang of thieves plan a heist during a hurricane and encounter trouble when a d
 	
 
 ### The King of Staten Island
-*Released on 2020-07-01, vote average 7.2*
+*Released on 2020-07-01, vote average 7.1*
 
 Scott has been a case of arrested development ever since his firefighter father died when he was seven. He’s now reached his mid-20s having achieved little, chasing a dream of becoming a tattoo artist that seems far out of reach. As his ambitious younger sister heads off to college, Scott is still living with his exhausted ER nurse mother and spends his days smoking weed, hanging with the guys — Oscar, Igor and Richie — and secretly hooking up with his childhood friend Kelsey. But when his mother starts dating a loudmouth firefighter named Ray, it sets off a chain of events that will force Scott to grapple with his grief and take his first tentative steps toward moving forward in life.
 
@@ -432,13 +396,30 @@ Scott has been a case of arrested development ever since his firefighter father 
 	
 
 	
+	
+	
+
+	
+	
+
+### The Voices
+*Released on 2020-07-03, vote average 3*
+
+Angry and upset after a sudden breakup with her fiancé, Grace Crawford seeks sanctuary at the remote home of her sister, Catherine. It becomes clear that Catherine is suffering from paranoid schizophrenia, much like their late mother, who had taken her own life. While coming to terms with this heavy realization, Grace also uncovers another terrible little secret that has her struggling to maintain her own sanity and ultimately scurrying to save herself and her family from further harm.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jofvuyP4RxA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
-	
-
-	
-	
 	
 
 	
