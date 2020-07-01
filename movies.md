@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Irresistible
-*Released on 2020-06-26, vote average 6.5*
+### Eurovision Song Contest: The Story of Fire Saga
+*Released on 2020-06-26, vote average 6.7*
 
-A Democratic political consultant helps a retired Marine colonel run for mayor in a small, conservative Wisconsin town.
+When aspiring musicians Lars and Sigrit are given the opportunity of a lifetime to represent their country at the world&#39;s biggest song competition, they finally have a chance to prove that any dream is a dream worth fighting for.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/0vhaAoSm1NY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/AdW6BBF22AY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ A Democratic political consultant helps a retired Marine colonel run for mayor i
 	
 	
 
-### Eurovision Song Contest: The Story of Fire Saga
-*Released on 2020-06-26, vote average 6.8*
+### Irresistible
+*Released on 2020-06-26, vote average 6.7*
 
-When aspiring musicians Lars and Sigrit are given the opportunity of a lifetime to represent their country at the world&#39;s biggest song competition, they finally have a chance to prove that any dream is a dream worth fighting for.
+A Democratic political consultant helps a retired Marine colonel run for mayor in a small, conservative Wisconsin town.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/AdW6BBF22AY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/0vhaAoSm1NY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@ When aspiring musicians Lars and Sigrit are given the opportunity of a lifetime 
 	
 
 ### Lost Bullet
-*Released on 2020-06-19, vote average 6.9*
+*Released on 2020-06-19, vote average 6.8*
 
 A small time delinquent, turned police mechanic for a go fast task force, is forced to defend his innocence when his mentor is killed by dirty cops.
 
@@ -91,7 +91,7 @@ A small time delinquent, turned police mechanic for a go fast task force, is for
 	
 
 ### Feel the Beat
-*Released on 2020-06-19, vote average 8.1*
+*Released on 2020-06-19, vote average 8*
 
 After failing to make it on Broadway, April returns to her hometown and reluctantly begins training a misfit group of young dancers for a competition.
 
@@ -112,16 +112,38 @@ After failing to make it on Broadway, April returns to her hometown and reluctan
 	
 	
 
-### A Whisker Away
-*Released on 2020-06-18, vote average 8.1*
+### The King of Staten Island
+*Released on 2020-07-01, vote average 7.1*
 
-Miyo &#34;Muge&#34; Sasaki is a peculiar second-year junior high student who has fallen in love with her classmate Kento Hinode. Muge resolutely pursues Kento every day, but he takes no notice of her. Nevertheless, while carrying a secret she can tell no one, Muge continues to pursue Kento. Muge discovers a magic mask that allows her to transform into a cat named Tarō. The magic lets Muge get close to Kento, but eventually it may also make her unable to transform back to a human.
+Scott has been a case of arrested development ever since his firefighter father died when he was seven. He’s now reached his mid-20s having achieved little, chasing a dream of becoming a tattoo artist that seems far out of reach. As his ambitious younger sister heads off to college, Scott is still living with his exhausted ER nurse mother and spends his days smoking weed, hanging with the guys — Oscar, Igor and Richie — and secretly hooking up with his childhood friend Kelsey. But when his mother starts dating a loudmouth firefighter named Ray, it sets off a chain of events that will force Scott to grapple with his grief and take his first tentative steps toward moving forward in life.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/aXc9DVfLTGo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/azkVr0VUSTA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Viena and the Fantomes
+*Released on 2020-06-30, vote average 4*
+
+A roadie travels across North America with a punk band in the 1980s.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/E2vo4yKZGTQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -178,20 +200,69 @@ In an effort to repair their relationship, a couple books a vacation in the coun
 	
 	
 
-### Bulbbul
-*Released on 2020-06-24, vote average 7.2*
+### A Whisker Away
+*Released on 2020-06-18, vote average 8.2*
 
-A child bride grows up to be an enigmatic woman presiding over her household, harboring a painful past as supernatural murders of men plague her village.
+Miyo &#34;Muge&#34; Sasaki is a peculiar second-year junior high student who has fallen in love with her classmate Kento Hinode. Muge resolutely pursues Kento every day, but he takes no notice of her. Nevertheless, while carrying a secret she can tell no one, Muge continues to pursue Kento. Muge discovers a magic mask that allows her to transform into a cat named Tarō. The magic lets Muge get close to Kento, but eventually it may also make her unable to transform back to a human.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/4MGReT9-cAg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/aXc9DVfLTGo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### The Outpost
+*Released on 2020-06-24, vote average 1*
+
+A small unit of U.S. soldiers, alone at the remote Combat Outpost Keating, located deep in the valley of three mountains in Afghanistan, battles to defend against an overwhelming force of Taliban fighters in a coordinated attack. The Battle of Kamdesh, as it was known, was the bloodiest American engagement of the Afghan War in 2009 and Bravo Troop 3-61 CAV became one of the most decorated units of the 19-year conflict.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Kp9JghhGPao?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Babyteeth
+*Released on 2020-06-18, vote average 5.2*
+
+A terminally ill teen upsets her parents when she falls in love with a small-time drug dealer.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/M6E8gPmz7n4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -224,6 +295,50 @@ Follow the Indianapolis Star reporters that broke the story about USA Gymnastics
   
 
 
+	
+	
+
+### Bulbbul
+*Released on 2020-06-24, vote average 7.2*
+
+A child bride grows up to be an enigmatic woman presiding over her household, harboring a painful past as supernatural murders of men plague her village.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/4MGReT9-cAg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Followed
+*Released on 2020-06-26, vote average 2.5*
+
+To gain more subscribers, a controversial vlogger stays at a cursed hotel with terrifying results.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xPgFUMHill4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -261,72 +376,6 @@ Oscar, a young boy, commits a noble murder and is forced to runaway from his rur
   
 
 
-	
-	
-
-### Babyteeth
-*Released on 2020-06-18, vote average 5.2*
-
-A terminally ill teen upsets her parents when she falls in love with a small-time drug dealer.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/M6E8gPmz7n4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Unknown Eye
-*Released on 2020-06-28, vote average 1*
-
-A man tries to navigate a deteriorating relationship with his girlfriend as his life is terrorized by a mysterious Stalker.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/z__kFHDopGo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -335,7 +384,7 @@ A man tries to navigate a deteriorating relationship with his girlfriend as his 
 	
 
 ### Force of Nature
-*Released on 2020-07-02, vote average 5.7*
+*Released on 2020-07-02, vote average 5.4*
 
 A gang of thieves plan a heist during a hurricane and encounter trouble when a disgraced cop tries to force everyone in the building to evacuate.
 
@@ -370,7 +419,22 @@ Scott has been a case of arrested development ever since his firefighter father 
 	
 
 	
+	
 
+### Hamilton
+*Released on 2020-07-03, vote average 1*
+
+An unforgettable cinematic stage performance, the filmed version of the original Broadway production of “Hamilton” combines the best elements of live theater, film and streaming to bring the cultural phenomenon to homes around the world for a thrilling, once-in-a-lifetime experience.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/DSCKfXpAGHc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -378,17 +442,22 @@ Scott has been a case of arrested development ever since his firefighter father 
 	
 
 	
-
 	
 
-	
+### Unhinged
+*Released on 2020-07-03, vote average 1*
+
+A case of road rage turns into full-blown terror when an unstable driver follows a woman and her son.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vNJ0szhjvdM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-	
-
-	
-
 	
 
 	
@@ -416,6 +485,20 @@ Angry and upset after a sudden breakup with her fiancé, Grace Crawford seeks sa
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
