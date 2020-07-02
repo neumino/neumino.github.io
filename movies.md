@@ -46,6 +46,28 @@ When aspiring musicians Lars and Sigrit are given the opportunity of a lifetime 
 	
 	
 
+### Force of Nature
+*Released on 2020-07-02, vote average 5.2*
+
+A gang of thieves plan a heist during a hurricane and encounter trouble when a disgraced cop tries to force everyone in the building to evacuate.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/iQKaY8G9VpQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Irresistible
 *Released on 2020-06-26, vote average 6.7*
 
@@ -56,50 +78,6 @@ A Democratic political consultant helps a retired Marine colonel run for mayor i
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/0vhaAoSm1NY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Lost Bullet
-*Released on 2020-06-19, vote average 6.8*
-
-A small time delinquent, turned police mechanic for a go fast task force, is forced to defend his innocence when his mentor is killed by dirty cops.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-qaYywvAyz8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Feel the Beat
-*Released on 2020-06-19, vote average 8*
-
-After failing to make it on Broadway, April returns to her hometown and reluctantly begins training a misfit group of young dancers for a competition.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/PhLSDnxLp-M?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -156,16 +134,16 @@ A roadie travels across North America with a punk band in the 1980s.
 	
 	
 
-### Jungle Beat: The Movie
-*Released on 2020-06-26, vote average 4.3*
+### Lost Bullet
+*Released on 2020-06-19, vote average 6.8*
 
-The Jungle Beat animals think it’s the best thing ever when an alien arrives in the jungle bringing with him the power of speech. They also surprisingly think it’s the best thing ever when they find out that he’s been sent to conquer them.
+A small time delinquent, turned police mechanic for a go fast task force, is forced to defend his innocence when his mentor is killed by dirty cops.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ngzX6jKWpM8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-qaYywvAyz8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -178,38 +156,16 @@ The Jungle Beat animals think it’s the best thing ever when an alien arrives i
 	
 	
 
-### You Should Have Left
-*Released on 2020-06-19, vote average 5*
+### Feel the Beat
+*Released on 2020-06-19, vote average 8*
 
-In an effort to repair their relationship, a couple books a vacation in the countryside for themselves and their daughter. What starts as a perfect retreat begins to fall apart as one loses their grip on reality, and a sinister force tries to tear them apart.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Bw0-cV_J9q4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### A Whisker Away
-*Released on 2020-06-18, vote average 8.2*
-
-Miyo &#34;Muge&#34; Sasaki is a peculiar second-year junior high student who has fallen in love with her classmate Kento Hinode. Muge resolutely pursues Kento every day, but he takes no notice of her. Nevertheless, while carrying a secret she can tell no one, Muge continues to pursue Kento. Muge discovers a magic mask that allows her to transform into a cat named Tarō. The magic lets Muge get close to Kento, but eventually it may also make her unable to transform back to a human.
+After failing to make it on Broadway, April returns to her hometown and reluctantly begins training a misfit group of young dancers for a competition.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/aXc9DVfLTGo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/PhLSDnxLp-M?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -245,7 +201,7 @@ A small unit of U.S. soldiers, alone at the remote Combat Outpost Keating, locat
 	
 
 ### Babyteeth
-*Released on 2020-06-18, vote average 5.2*
+*Released on 2020-06-18, vote average 5.3*
 
 A terminally ill teen upsets her parents when she falls in love with a small-time drug dealer.
 
@@ -264,6 +220,23 @@ A terminally ill teen upsets her parents when she falls in love with a small-tim
 
 
 	
+	
+
+### Jungle Beat: The Movie
+*Released on 2020-06-26, vote average 4.3*
+
+The Jungle Beat animals think it’s the best thing ever when an alien arrives in the jungle bringing with him the power of speech. They also surprisingly think it’s the best thing ever when they find out that he’s been sent to conquer them.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ngzX6jKWpM8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -271,16 +244,38 @@ A terminally ill teen upsets her parents when she falls in love with a small-tim
 	
 	
 
-### Athlete A
-*Released on 2020-06-24, vote average 7.6*
+### George Lopez: We&#39;ll Do It for Half
+*Released on 2020-06-30, vote average 6*
 
-Follow the Indianapolis Star reporters that broke the story about USA Gymnastics doctor Larry Nassar&#39;s abuse and hear from gymnasts.
+Comedian George Lopez tackles the future and the past of Latinx culture in America, touching on immigration, his tough relatives, aging and much more.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/JzeP0DKSqdQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/n5kxMk9xjj0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### You Should Have Left
+*Released on 2020-06-19, vote average 5*
+
+In an effort to repair their relationship, a couple books a vacation in the countryside for themselves and their daughter. What starts as a perfect retreat begins to fall apart as one loses their grip on reality, and a sinister force tries to tear them apart.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Bw0-cV_J9q4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -298,25 +293,20 @@ Follow the Indianapolis Star reporters that broke the story about USA Gymnastics
 	
 	
 
-### Bulbbul
-*Released on 2020-06-24, vote average 7.2*
+### A Whisker Away
+*Released on 2020-06-18, vote average 8.1*
 
-A child bride grows up to be an enigmatic woman presiding over her household, harboring a painful past as supernatural murders of men plague her village.
+Miyo &#34;Muge&#34; Sasaki is a peculiar second-year junior high student who has fallen in love with her classmate Kento Hinode. Muge resolutely pursues Kento every day, but he takes no notice of her. Nevertheless, while carrying a secret she can tell no one, Muge continues to pursue Kento. Muge discovers a magic mask that allows her to transform into a cat named Tarō. The magic lets Muge get close to Kento, but eventually it may also make her unable to transform back to a human.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/4MGReT9-cAg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/aXc9DVfLTGo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -357,20 +347,32 @@ To gain more subscribers, a controversial vlogger stays at a cursed hotel with t
 	
 	
 
-### Run with the Hunted
-*Released on 2020-06-26, vote average 3.5*
+### A One Crow World
+*Released on 2020-06-30, vote average 8*
 
-Oscar, a young boy, commits a noble murder and is forced to runaway from his rural hometown, leaving behind his best friend, Loux. He escapes to the nearest city, where he is inducted into a gang of child street thieves. His innocence slips away as he is introduced to love, murder, and corruption. 15 years later, he has forgotten his past and become the leader of this band of lost children. When Loux moves to the city in search of work, she takes a job with a struggling private investigator. Stumbling upon Oscar&#39;s missing child report, she takes it upon herself to find the boy who saved her life.
+A dramatic and experimental journey that touches upon different subject matters like love, friendship, the mind and life. It features an ensemble cast.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xfBgNny5v1k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/8OTnCr1yi_g?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -384,7 +386,7 @@ Oscar, a young boy, commits a noble murder and is forced to runaway from his rur
 	
 
 ### Force of Nature
-*Released on 2020-07-02, vote average 5.4*
+*Released on 2020-07-02, vote average 5.2*
 
 A gang of thieves plan a heist during a hurricane and encounter trouble when a disgraced cop tries to force everyone in the building to evacuate.
 
@@ -402,27 +404,8 @@ A gang of thieves plan a heist during a hurricane and encounter trouble when a d
 	
 	
 
-### The King of Staten Island
-*Released on 2020-07-01, vote average 7.1*
-
-Scott has been a case of arrested development ever since his firefighter father died when he was seven. He’s now reached his mid-20s having achieved little, chasing a dream of becoming a tattoo artist that seems far out of reach. As his ambitious younger sister heads off to college, Scott is still living with his exhausted ER nurse mother and spends his days smoking weed, hanging with the guys — Oscar, Igor and Richie — and secretly hooking up with his childhood friend Kelsey. But when his mother starts dating a loudmouth firefighter named Ray, it sets off a chain of events that will force Scott to grapple with his grief and take his first tentative steps toward moving forward in life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/azkVr0VUSTA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
 ### Hamilton
-*Released on 2020-07-03, vote average 1*
+*Released on 2020-07-03, vote average 7*
 
 An unforgettable cinematic stage performance, the filmed version of the original Broadway production of “Hamilton” combines the best elements of live theater, film and streaming to bring the cultural phenomenon to homes around the world for a thrilling, once-in-a-lifetime experience.
 
@@ -435,8 +418,6 @@ An unforgettable cinematic stage performance, the filmed version of the original
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
@@ -457,14 +438,6 @@ A case of road rage turns into full-blown terror when an unstable driver follows
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-	
-
-	
-
-	
 	
 	
 
@@ -501,6 +474,33 @@ Angry and upset after a sudden breakup with her fiancé, Grace Crawford seeks sa
 
 	
 
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### The Dark Within
+*Released on 2020-07-03, vote average 9*
+
+A disturbed man with unknown psychic abilities tries to unravel the mystery of his parent&#39;s disappearance while battling his own demons.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/bSZbZfhih8Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
