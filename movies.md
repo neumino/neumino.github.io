@@ -47,7 +47,7 @@ When aspiring musicians Lars and Sigrit are given the opportunity of a lifetime 
 	
 
 ### Force of Nature
-*Released on 2020-07-02, vote average 5.2*
+*Released on 2020-07-02, vote average 5.1*
 
 A gang of thieves plan a heist during a hurricane and encounter trouble when a disgraced cop tries to force everyone in the building to evacuate.
 
@@ -69,7 +69,7 @@ A gang of thieves plan a heist during a hurricane and encounter trouble when a d
 	
 
 ### Irresistible
-*Released on 2020-06-26, vote average 6.7*
+*Released on 2020-06-26, vote average 6.6*
 
 A Democratic political consultant helps a retired Marine colonel run for mayor in a small, conservative Wisconsin town.
 
@@ -134,6 +134,50 @@ A roadie travels across North America with a punk band in the 1980s.
 	
 	
 
+### The Outpost
+*Released on 2020-06-24, vote average 1*
+
+A small unit of U.S. soldiers, alone at the remote Combat Outpost Keating, located deep in the valley of three mountains in Afghanistan, battles to defend against an overwhelming force of Taliban fighters in a coordinated attack. The Battle of Kamdesh, as it was known, was the bloodiest American engagement of the Afghan War in 2009 and Bravo Troop 3-61 CAV became one of the most decorated units of the 19-year conflict.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Kp9JghhGPao?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Hamilton
+*Released on 2020-07-03, vote average 7*
+
+An unforgettable cinematic stage performance, the filmed version of the original Broadway production of “Hamilton” combines the best elements of live theater, film and streaming to bring the cultural phenomenon to homes around the world for a thrilling, once-in-a-lifetime experience.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/DSCKfXpAGHc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Lost Bullet
 *Released on 2020-06-19, vote average 6.8*
 
@@ -176,23 +220,6 @@ After failing to make it on Broadway, April returns to her hometown and reluctan
 
 
 	
-	
-
-### The Outpost
-*Released on 2020-06-24, vote average 1*
-
-A small unit of U.S. soldiers, alone at the remote Combat Outpost Keating, located deep in the valley of three mountains in Afghanistan, battles to defend against an overwhelming force of Taliban fighters in a coordinated attack. The Battle of Kamdesh, as it was known, was the bloodiest American engagement of the Afghan War in 2009 and Bravo Troop 3-61 CAV became one of the most decorated units of the 19-year conflict.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Kp9JghhGPao?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -200,16 +227,16 @@ A small unit of U.S. soldiers, alone at the remote Combat Outpost Keating, locat
 	
 	
 
-### Babyteeth
-*Released on 2020-06-18, vote average 5.3*
+### Unhinged
+*Released on 2020-07-03, vote average 3.5*
 
-A terminally ill teen upsets her parents when she falls in love with a small-time drug dealer.
+A case of road rage turns into full-blown terror when an unstable driver follows a woman and her son.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/M6E8gPmz7n4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/vNJ0szhjvdM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -223,7 +250,7 @@ A terminally ill teen upsets her parents when she falls in love with a small-tim
 	
 
 ### Jungle Beat: The Movie
-*Released on 2020-06-26, vote average 4.3*
+*Released on 2020-06-26, vote average 5.3*
 
 The Jungle Beat animals think it’s the best thing ever when an alien arrives in the jungle bringing with him the power of speech. They also surprisingly think it’s the best thing ever when they find out that he’s been sent to conquer them.
 
@@ -244,16 +271,38 @@ The Jungle Beat animals think it’s the best thing ever when an alien arrives i
 	
 	
 
-### George Lopez: We&#39;ll Do It for Half
-*Released on 2020-06-30, vote average 6*
+### Under the Riccione Sun
+*Released on 2020-07-01, vote average 6.5*
 
-Comedian George Lopez tackles the future and the past of Latinx culture in America, touching on immigration, his tough relatives, aging and much more.
+While vacationing on the crowded beaches of Riccione, a group of teenagers becomes fast friends as they grapple with relationship issues and romance.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/n5kxMk9xjj0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/wkBw_pphRqs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Voices
+*Released on 2020-07-03, vote average 3*
+
+Angry and upset after a sudden breakup with her fiancé, Grace Crawford seeks sanctuary at the remote home of her sister, Catherine. It becomes clear that Catherine is suffering from paranoid schizophrenia, much like their late mother, who had taken her own life. While coming to terms with this heavy realization, Grace also uncovers another terrible little secret that has her struggling to maintain her own sanity and ultimately scurrying to save herself and her family from further harm.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jofvuyP4RxA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -293,28 +342,6 @@ In an effort to repair their relationship, a couple books a vacation in the coun
 	
 	
 
-### A Whisker Away
-*Released on 2020-06-18, vote average 8.1*
-
-Miyo &#34;Muge&#34; Sasaki is a peculiar second-year junior high student who has fallen in love with her classmate Kento Hinode. Muge resolutely pursues Kento every day, but he takes no notice of her. Nevertheless, while carrying a secret she can tell no one, Muge continues to pursue Kento. Muge discovers a magic mask that allows her to transform into a cat named Tarō. The magic lets Muge get close to Kento, but eventually it may also make her unable to transform back to a human.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/aXc9DVfLTGo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Followed
 *Released on 2020-06-26, vote average 2.5*
 
@@ -335,28 +362,18 @@ To gain more subscribers, a controversial vlogger stays at a cursed hotel with t
 
 
 	
-
-  
-
-
 	
 
-  
+### George Lopez: We&#39;ll Do It for Half
+*Released on 2020-06-30, vote average 5.5*
 
-
-	
-	
-
-### A One Crow World
-*Released on 2020-06-30, vote average 8*
-
-A dramatic and experimental journey that touches upon different subject matters like love, friendship, the mind and life. It features an ensemble cast.
+Comedian George Lopez tackles the future and the past of Latinx culture in America, touching on immigration, his tough relatives, aging and much more.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/8OTnCr1yi_g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/n5kxMk9xjj0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -366,8 +383,6 @@ A dramatic and experimental journey that touches upon different subject matters 
   
 
 
-	
-	
 	
 
   
@@ -381,25 +396,6 @@ A dramatic and experimental journey that touches upon different subject matters 
 
 ## Opening soon
 
-
-	
-	
-
-### Force of Nature
-*Released on 2020-07-02, vote average 5.2*
-
-A gang of thieves plan a heist during a hurricane and encounter trouble when a disgraced cop tries to force everyone in the building to evacuate.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/iQKaY8G9VpQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 	
@@ -426,7 +422,7 @@ An unforgettable cinematic stage performance, the filmed version of the original
 	
 
 ### Unhinged
-*Released on 2020-07-03, vote average 1*
+*Released on 2020-07-03, vote average 3.5*
 
 A case of road rage turns into full-blown terror when an unstable driver follows a woman and her son.
 
@@ -469,22 +465,6 @@ Angry and upset after a sudden breakup with her fiancé, Grace Crawford seeks sa
 	
 
 	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
 	
 
 ### The Dark Within
@@ -501,6 +481,24 @@ A disturbed man with unknown psychic abilities tries to unravel the mystery of h
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
