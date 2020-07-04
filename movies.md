@@ -47,7 +47,7 @@ When aspiring musicians Lars and Sigrit are given the opportunity of a lifetime 
 	
 
 ### Force of Nature
-*Released on 2020-07-02, vote average 5.1*
+*Released on 2020-07-02, vote average 5.4*
 
 A gang of thieves plan a heist during a hurricane and encounter trouble when a disgraced cop tries to force everyone in the building to evacuate.
 
@@ -68,8 +68,57 @@ A gang of thieves plan a heist during a hurricane and encounter trouble when a d
 	
 	
 
+### Hamilton
+*Released on 2020-07-03, vote average 7*
+
+An unforgettable cinematic stage performance, the filmed version of the original Broadway production of “Hamilton” combines the best elements of live theater, film and streaming to bring the cultural phenomenon to homes around the world for a thrilling, once-in-a-lifetime experience.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/DSCKfXpAGHc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Unhinged
+*Released on 2020-07-03, vote average 3.5*
+
+A case of road rage turns into full-blown terror when an unstable driver follows a woman and her son.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vNJ0szhjvdM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Irresistible
-*Released on 2020-06-26, vote average 6.6*
+*Released on 2020-06-26, vote average 6.5*
 
 A Democratic political consultant helps a retired Marine colonel run for mayor in a small, conservative Wisconsin town.
 
@@ -112,16 +161,16 @@ Scott has been a case of arrested development ever since his firefighter father 
 	
 	
 
-### Viena and the Fantomes
-*Released on 2020-06-30, vote average 4*
+### Under the Riccione Sun
+*Released on 2020-07-01, vote average 6.4*
 
-A roadie travels across North America with a punk band in the 1980s.
+While vacationing on the crowded beaches of Riccione, a group of teenagers becomes fast friends as they grapple with relationship issues and romance.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/E2vo4yKZGTQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/wkBw_pphRqs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -135,7 +184,7 @@ A roadie travels across North America with a punk band in the 1980s.
 	
 
 ### The Outpost
-*Released on 2020-06-24, vote average 1*
+*Released on 2020-06-24, vote average 1.3*
 
 A small unit of U.S. soldiers, alone at the remote Combat Outpost Keating, located deep in the valley of three mountains in Afghanistan, battles to defend against an overwhelming force of Taliban fighters in a coordinated attack. The Battle of Kamdesh, as it was known, was the bloodiest American engagement of the Afghan War in 2009 and Bravo Troop 3-61 CAV became one of the most decorated units of the 19-year conflict.
 
@@ -156,16 +205,16 @@ A small unit of U.S. soldiers, alone at the remote Combat Outpost Keating, locat
 	
 	
 
-### Hamilton
-*Released on 2020-07-03, vote average 7*
+### The Voices
+*Released on 2020-07-03, vote average 3*
 
-An unforgettable cinematic stage performance, the filmed version of the original Broadway production of “Hamilton” combines the best elements of live theater, film and streaming to bring the cultural phenomenon to homes around the world for a thrilling, once-in-a-lifetime experience.
+Angry and upset after a sudden breakup with her fiancé, Grace Crawford seeks sanctuary at the remote home of her sister, Catherine. It becomes clear that Catherine is suffering from paranoid schizophrenia, much like their late mother, who had taken her own life. While coming to terms with this heavy realization, Grace also uncovers another terrible little secret that has her struggling to maintain her own sanity and ultimately scurrying to save herself and her family from further harm.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/DSCKfXpAGHc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/jofvuyP4RxA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -178,38 +227,16 @@ An unforgettable cinematic stage performance, the filmed version of the original
 	
 	
 
-### Lost Bullet
-*Released on 2020-06-19, vote average 6.8*
+### Viena and the Fantomes
+*Released on 2020-06-30, vote average 3.3*
 
-A small time delinquent, turned police mechanic for a go fast task force, is forced to defend his innocence when his mentor is killed by dirty cops.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-qaYywvAyz8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Feel the Beat
-*Released on 2020-06-19, vote average 8*
-
-After failing to make it on Broadway, April returns to her hometown and reluctantly begins training a misfit group of young dancers for a competition.
+A roadie travels across North America with a punk band in the 1980s.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/PhLSDnxLp-M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/E2vo4yKZGTQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -225,18 +252,33 @@ After failing to make it on Broadway, April returns to her hometown and reluctan
 
 
 	
+
+  
+
+
 	
 
-### Unhinged
-*Released on 2020-07-03, vote average 3.5*
+  
 
-A case of road rage turns into full-blown terror when an unstable driver follows a woman and her son.
+
+	
+
+  
+
+
+	
+	
+
+### The Dark Within
+*Released on 2020-07-03, vote average 9*
+
+A disturbed man with unknown psychic abilities tries to unravel the mystery of his parent&#39;s disappearance while battling his own demons.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/vNJ0szhjvdM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/bSZbZfhih8Q?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -270,65 +312,6 @@ The Jungle Beat animals think it’s the best thing ever when an alien arrives i
 
 	
 	
-
-### Under the Riccione Sun
-*Released on 2020-07-01, vote average 6.5*
-
-While vacationing on the crowded beaches of Riccione, a group of teenagers becomes fast friends as they grapple with relationship issues and romance.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wkBw_pphRqs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Voices
-*Released on 2020-07-03, vote average 3*
-
-Angry and upset after a sudden breakup with her fiancé, Grace Crawford seeks sanctuary at the remote home of her sister, Catherine. It becomes clear that Catherine is suffering from paranoid schizophrenia, much like their late mother, who had taken her own life. While coming to terms with this heavy realization, Grace also uncovers another terrible little secret that has her struggling to maintain her own sanity and ultimately scurrying to save herself and her family from further harm.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jofvuyP4RxA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### You Should Have Left
-*Released on 2020-06-19, vote average 5*
-
-In an effort to repair their relationship, a couple books a vacation in the countryside for themselves and their daughter. What starts as a perfect retreat begins to fall apart as one loses their grip on reality, and a sinister force tries to tear them apart.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Bw0-cV_J9q4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -341,53 +324,6 @@ In an effort to repair their relationship, a couple books a vacation in the coun
 
 	
 	
-
-### Followed
-*Released on 2020-06-26, vote average 2.5*
-
-To gain more subscribers, a controversial vlogger stays at a cursed hotel with terrifying results.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xPgFUMHill4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### George Lopez: We&#39;ll Do It for Half
-*Released on 2020-06-30, vote average 5.5*
-
-Comedian George Lopez tackles the future and the past of Latinx culture in America, touching on immigration, his tough relatives, aging and much more.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/n5kxMk9xjj0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -398,91 +334,40 @@ Comedian George Lopez tackles the future and the past of Latinx culture in Ameri
 
 
 	
+
 	
 
-### Hamilton
-*Released on 2020-07-03, vote average 7*
+	
 
-An unforgettable cinematic stage performance, the filmed version of the original Broadway production of “Hamilton” combines the best elements of live theater, film and streaming to bring the cultural phenomenon to homes around the world for a thrilling, once-in-a-lifetime experience.
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Guest of Honour
+*Released on 2020-07-09, vote average 2*
+
+Jim and his daughter Veronica, a young high-school music teacher, attempt to unravel their complicated histories and intertwined secrets. After a hoax goes very wrong, Jim&#39;s daughter is falsely convicted of abusing her position of authority over 17-year-old Clive. Veronica is nevertheless convinced she deserves to be punished, but for much earlier crimes. Confused and frustrated by Veronica’s intransigence, Jim&#39;s anguish begins to impinge on his job as a food inspector. He wields great power over small family-owned restaurants; a power he doesn&#39;t hesitate to use.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/DSCKfXpAGHc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/bKl-3F2PJnc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-	
-
-### Unhinged
-*Released on 2020-07-03, vote average 3.5*
-
-A case of road rage turns into full-blown terror when an unstable driver follows a woman and her son.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vNJ0szhjvdM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### The Voices
-*Released on 2020-07-03, vote average 3*
-
-Angry and upset after a sudden breakup with her fiancé, Grace Crawford seeks sanctuary at the remote home of her sister, Catherine. It becomes clear that Catherine is suffering from paranoid schizophrenia, much like their late mother, who had taken her own life. While coming to terms with this heavy realization, Grace also uncovers another terrible little secret that has her struggling to maintain her own sanity and ultimately scurrying to save herself and her family from further harm.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jofvuyP4RxA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	
-
-### The Dark Within
-*Released on 2020-07-03, vote average 9*
-
-A disturbed man with unknown psychic abilities tries to unravel the mystery of his parent&#39;s disappearance while battling his own demons.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/bSZbZfhih8Q?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
 	
 
 	
