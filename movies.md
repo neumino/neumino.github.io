@@ -15,7 +15,7 @@ This is a convenient page that embeds trailers of movies released in the past
 ### Eurovision Song Contest: The Story of Fire Saga
 *Released on 2020-06-26, vote average 6.7*
 
-When aspiring musicians Lars and Sigrit are given the opportunity of a lifetime to represent their country at the world&#39;s biggest song competition, they finally have a chance to prove that any dream is a dream worth fighting for.
+Two small-town aspiring musicians chase their pop star dreams at a global music competition, where high stakes, scheming rivals and onstage mishaps test their bond.
 
 <iframe id="player"
 	type="text/html"
@@ -46,8 +46,30 @@ When aspiring musicians Lars and Sigrit are given the opportunity of a lifetime 
 	
 	
 
+### Hamilton
+*Released on 2020-07-03, vote average 8.3*
+
+Presenting the tale of American founding father Alexander Hamilton, this filmed version of the original Broadway smash hit is the story of America then, told by America now.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/DSCKfXpAGHc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Force of Nature
-*Released on 2020-07-02, vote average 5.4*
+*Released on 2020-07-02, vote average 5.3*
 
 A gang of thieves plan a heist during a hurricane and encounter trouble when a disgraced cop tries to force everyone in the building to evacuate.
 
@@ -68,16 +90,16 @@ A gang of thieves plan a heist during a hurricane and encounter trouble when a d
 	
 	
 
-### Hamilton
-*Released on 2020-07-03, vote average 7*
+### Under the Riccione Sun
+*Released on 2020-07-01, vote average 6.5*
 
-An unforgettable cinematic stage performance, the filmed version of the original Broadway production of “Hamilton” combines the best elements of live theater, film and streaming to bring the cultural phenomenon to homes around the world for a thrilling, once-in-a-lifetime experience.
+While vacationing on the crowded beaches of Riccione, a group of teenagers becomes fast friends as they grapple with relationship issues and romance.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/DSCKfXpAGHc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/wkBw_pphRqs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -88,6 +110,23 @@ An unforgettable cinematic stage performance, the filmed version of the original
 
 
 	
+	
+
+### The Outpost
+*Released on 2020-06-24, vote average 3.6*
+
+A small unit of U.S. soldiers, alone at the remote Combat Outpost Keating, located deep in the valley of three mountains in Afghanistan, battles to defend against an overwhelming force of Taliban fighters in a coordinated attack. The Battle of Kamdesh, as it was known, was the bloodiest American engagement of the Afghan War in 2009 and Bravo Troop 3-61 CAV became one of the most decorated units of the 19-year conflict.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Kp9JghhGPao?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -95,19 +134,26 @@ An unforgettable cinematic stage performance, the filmed version of the original
 	
 	
 
-### Unhinged
-*Released on 2020-07-03, vote average 3.5*
+### Desperados
+*Released on 2020-07-03, vote average 5.9*
 
-A case of road rage turns into full-blown terror when an unstable driver follows a woman and her son.
+A panicked young woman and her two best friends fly to Mexico to delete a ranting email she sent to her new boyfriend. On arrival, they run into her former beau, who soon gets caught up in their frantic scheme.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/vNJ0szhjvdM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/8AWqOBj_BqA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -139,6 +185,33 @@ A Democratic political consultant helps a retired Marine colonel run for mayor i
 	
 	
 
+### Unhinged
+*Released on 2020-07-03, vote average 5.7*
+
+A case of road rage turns into full-blown terror when an unstable driver follows a woman and her son.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vNJ0szhjvdM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### The King of Staten Island
 *Released on 2020-07-01, vote average 7.1*
 
@@ -149,50 +222,6 @@ Scott has been a case of arrested development ever since his firefighter father 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/azkVr0VUSTA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Under the Riccione Sun
-*Released on 2020-07-01, vote average 6.4*
-
-While vacationing on the crowded beaches of Riccione, a group of teenagers becomes fast friends as they grapple with relationship issues and romance.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wkBw_pphRqs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Outpost
-*Released on 2020-06-24, vote average 1.3*
-
-A small unit of U.S. soldiers, alone at the remote Combat Outpost Keating, located deep in the valley of three mountains in Afghanistan, battles to defend against an overwhelming force of Taliban fighters in a coordinated attack. The Battle of Kamdesh, as it was known, was the bloodiest American engagement of the Afghan War in 2009 and Bravo Troop 3-61 CAV became one of the most decorated units of the 19-year conflict.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Kp9JghhGPao?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -225,10 +254,15 @@ Angry and upset after a sudden breakup with her fiancé, Grace Crawford seeks sa
 
 
 	
+
+  
+
+
+	
 	
 
 ### Viena and the Fantomes
-*Released on 2020-06-30, vote average 3.3*
+*Released on 2020-06-30, vote average 4.3*
 
 A roadie travels across North America with a punk band in the 1980s.
 
@@ -241,26 +275,6 @@ A roadie travels across North America with a punk band in the 1980s.
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -289,22 +303,10 @@ A disturbed man with unknown psychic abilities tries to unravel the mystery of h
 
 
 	
-	
 
-### Jungle Beat: The Movie
-*Released on 2020-06-26, vote average 5.3*
+  
 
-The Jungle Beat animals think it’s the best thing ever when an alien arrives in the jungle bringing with him the power of speech. They also surprisingly think it’s the best thing ever when they find out that he’s been sent to conquer them.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ngzX6jKWpM8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -322,8 +324,6 @@ The Jungle Beat animals think it’s the best thing ever when an alien arrives i
   
 
 
-	
-	
 	
 
   
@@ -332,14 +332,6 @@ The Jungle Beat animals think it’s the best thing ever when an alien arrives i
 
 ## Opening soon
 
-
-	
-
-	
-
-	
-
-	
 
 	
 
@@ -368,6 +360,14 @@ Jim and his daughter Veronica, a young high-school music teacher, attempt to unr
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
 	
 
 	
