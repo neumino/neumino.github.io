@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Eurovision Song Contest: The Story of Fire Saga
-*Released on 2020-06-26, vote average 6.7*
+### Hamilton
+*Released on 2020-07-03, vote average 8.5*
 
-Two small-town aspiring musicians chase their pop star dreams at a global music competition, where high stakes, scheming rivals and onstage mishaps test their bond.
+Presenting the tale of American founding father Alexander Hamilton, this filmed version of the original Broadway smash hit is the story of America then, told by America now.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/AdW6BBF22AY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/DSCKfXpAGHc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,38 @@ Two small-town aspiring musicians chase their pop star dreams at a global music 
 	
 	
 
-### Hamilton
-*Released on 2020-07-03, vote average 8.3*
+### Eurovision Song Contest: The Story of Fire Saga
+*Released on 2020-06-26, vote average 6.6*
 
-Presenting the tale of American founding father Alexander Hamilton, this filmed version of the original Broadway smash hit is the story of America then, told by America now.
+Two small-town aspiring musicians chase their pop star dreams at a global music competition, where high stakes, scheming rivals and onstage mishaps test their bond.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/DSCKfXpAGHc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/AdW6BBF22AY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Outpost
+*Released on 2020-06-24, vote average 3.9*
+
+A small unit of U.S. soldiers, alone at the remote Combat Outpost Keating, located deep in the valley of three mountains in Afghanistan, battles to defend against an overwhelming force of Taliban fighters in a coordinated attack. The Battle of Kamdesh, as it was known, was the bloodiest American engagement of the Afghan War in 2009 and Bravo Troop 3-61 CAV became one of the most decorated units of the 19-year conflict.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Kp9JghhGPao?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -90,8 +112,30 @@ A gang of thieves plan a heist during a hurricane and encounter trouble when a d
 	
 	
 
+### Desperados
+*Released on 2020-07-03, vote average 6.3*
+
+A panicked young woman and her two best friends fly to Mexico to delete a ranting email she sent to her new boyfriend. On arrival, they run into her former beau, who soon gets caught up in their frantic scheme.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8AWqOBj_BqA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Under the Riccione Sun
-*Released on 2020-07-01, vote average 6.5*
+*Released on 2020-07-01, vote average 6.4*
 
 While vacationing on the crowded beaches of Riccione, a group of teenagers becomes fast friends as they grapple with relationship issues and romance.
 
@@ -112,16 +156,16 @@ While vacationing on the crowded beaches of Riccione, a group of teenagers becom
 	
 	
 
-### The Outpost
-*Released on 2020-06-24, vote average 3.6*
+### Re-Elected
+*Released on 2020-07-04, vote average 1*
 
-A small unit of U.S. soldiers, alone at the remote Combat Outpost Keating, located deep in the valley of three mountains in Afghanistan, battles to defend against an overwhelming force of Taliban fighters in a coordinated attack. The Battle of Kamdesh, as it was known, was the bloodiest American engagement of the Afghan War in 2009 and Bravo Troop 3-61 CAV became one of the most decorated units of the 19-year conflict.
+Siblings Nate and Angela Harmon and their friends must face off against the zombies of American Presidents on the Fourth of July. But for Nate and Angela there is something even more terrifying lurking in the woods...the prospect of spending an entire evening together.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Kp9JghhGPao?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/dC7zmAuULZI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,26 +178,19 @@ A small unit of U.S. soldiers, alone at the remote Combat Outpost Keating, locat
 	
 	
 
-### Desperados
-*Released on 2020-07-03, vote average 5.9*
+### The King of Staten Island
+*Released on 2020-07-01, vote average 7.1*
 
-A panicked young woman and her two best friends fly to Mexico to delete a ranting email she sent to her new boyfriend. On arrival, they run into her former beau, who soon gets caught up in their frantic scheme.
+Scott has been a case of arrested development ever since his firefighter father died when he was seven. He’s now reached his mid-20s having achieved little, chasing a dream of becoming a tattoo artist that seems far out of reach. As his ambitious younger sister heads off to college, Scott is still living with his exhausted ER nurse mother and spends his days smoking weed, hanging with the guys — Oscar, Igor and Richie — and secretly hooking up with his childhood friend Kelsey. But when his mother starts dating a loudmouth firefighter named Ray, it sets off a chain of events that will force Scott to grapple with his grief and take his first tentative steps toward moving forward in life.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/8AWqOBj_BqA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/azkVr0VUSTA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -184,9 +221,16 @@ A Democratic political consultant helps a retired Marine colonel run for mayor i
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Unhinged
-*Released on 2020-07-03, vote average 5.7*
+*Released on 2020-07-03, vote average 4.5*
 
 A case of road rage turns into full-blown terror when an unstable driver follows a woman and her son.
 
@@ -195,33 +239,6 @@ A case of road rage turns into full-blown terror when an unstable driver follows
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/vNJ0szhjvdM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The King of Staten Island
-*Released on 2020-07-01, vote average 7.1*
-
-Scott has been a case of arrested development ever since his firefighter father died when he was seven. He’s now reached his mid-20s having achieved little, chasing a dream of becoming a tattoo artist that seems far out of reach. As his ambitious younger sister heads off to college, Scott is still living with his exhausted ER nurse mother and spends his days smoking weed, hanging with the guys — Oscar, Igor and Richie — and secretly hooking up with his childhood friend Kelsey. But when his mother starts dating a loudmouth firefighter named Ray, it sets off a chain of events that will force Scott to grapple with his grief and take his first tentative steps toward moving forward in life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/azkVr0VUSTA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -254,15 +271,10 @@ Angry and upset after a sudden breakup with her fiancé, Grace Crawford seeks sa
 
 
 	
-
-  
-
-
-	
 	
 
 ### Viena and the Fantomes
-*Released on 2020-06-30, vote average 4.3*
+*Released on 2020-06-30, vote average 3.8*
 
 A roadie travels across North America with a punk band in the 1980s.
 
@@ -284,7 +296,7 @@ A roadie travels across North America with a punk band in the 1980s.
 	
 
 ### The Dark Within
-*Released on 2020-07-03, vote average 9*
+*Released on 2020-07-03, vote average 5.5*
 
 A disturbed man with unknown psychic abilities tries to unravel the mystery of his parent&#39;s disappearance while battling his own demons.
 
@@ -303,10 +315,22 @@ A disturbed man with unknown psychic abilities tries to unravel the mystery of h
 
 
 	
+	
 
-  
+### Ghosts of War
+*Released on 2020-07-03, vote average 1*
 
+World War II. A group of American soldiers encounter a supernatural enemy as they occupy a French castle previously under Nazi control.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Tv7HyNSCCBo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -320,10 +344,73 @@ A disturbed man with unknown psychic abilities tries to unravel the mystery of h
 
 
 	
+	
+
+### Followed
+*Released on 2020-06-26, vote average 2*
+
+To gain more subscribers, a controversial vlogger stays at a cursed hotel with terrifying results.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xPgFUMHill4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
+	
+	
+
+### The Last Phase
+*Released on 2020-07-04, vote average 1*
+
+Laura Pereira starts to look for his father who dissapeared on a misterious way. When she starts to find answers, a threatening figure is right behind her looking for her every move.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/TksL8EyYwo8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### The Fandom
+*Released on 2020-07-03, vote average 2*
+
+THE FANDOM dives headfirst in the imaginative world of “furries,” the often-misunderstood internet subculture of fans of the anthropomorphic arts. Using a bountiful collection of archival tapes and images, this documentary traces the evolution of the furry fandom from its roots in the 1970s to the expansive, international community it has become today. Join a host of charming characters (including the grandparents of the fandom itself) on this heart-warming journey through the decades; witness the many triumphs and challenges that shaped “furry” into the most unique fandom of all time.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/cF9DQQsUcs0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -337,6 +424,29 @@ A disturbed man with unknown psychic abilities tries to unravel the mystery of h
 
 	
 
+	
+
+	
+
+	
+
+	
+	
+
+### Capone
+*Released on 2020-07-10, vote average 5.2*
+
+The 47-year old Al Capone, after 10 years in prison, starts suffering from dementia and comes to be haunted by his violent past.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LHYlKQSc7rA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -367,15 +477,45 @@ Jim and his daughter Veronica, a young high-school music teacher, attempt to unr
 	
 
 	
+	
 
+### My Parents, The Zombies!
+*Released on 2020-07-07, vote average 2*
+
+In the seaside town of Canvey Island, we meet Charlie, an 8-year-old boy with a great imagination. He spends his school summer holidays in isolation, playing with his toys and too afraid to leave his room. One fateful day he becomes so hungry he must venture downstairs and into certain danger to retrieve food. It is on this mission where he comes face to face with his greatest fear; his Zombie Parents! And his true adventure begins!
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/RWl3yD8-hVQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
+	
 
+### Darlin&#39;
+*Released on 2020-07-10, vote average 4.9*
+
+Found at a Catholic hospital filthy and ferocious, feral teenager Darlin’ is whisked off to a care home run by The Bishop and his obedient nuns, where she’s to be rehabilitated into a &#34;good girl&#34; as an example of the miraculous work of the church. But Darlin’ holds a secret darker than the &#34;sins&#34; she is threatened with, and she is not traveling alone. The Woman who raised her, equally fierce and feral, is ever present in the shadows of Darlin’s psyche and is determined to come for her no matter who tries to get in her way.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5pA8hd9WhLI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
-
+	
 	
 
 	
