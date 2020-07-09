@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Hamilton
-*Released on 2020-07-03, vote average 8.7*
+*Released on 2020-07-03, vote average 8.6*
 
 Presenting the tale of American founding father Alexander Hamilton, this filmed version of the original Broadway smash hit is the story of America then, told by America now.
 
@@ -46,30 +46,8 @@ Presenting the tale of American founding father Alexander Hamilton, this filmed 
 	
 	
 
-### The Outpost
-*Released on 2020-06-24, vote average 5.4*
-
-A small unit of U.S. soldiers, alone at the remote Combat Outpost Keating, located deep in the valley of three mountains in Afghanistan, battles to defend against an overwhelming force of Taliban fighters in a coordinated attack. The Battle of Kamdesh, as it was known, was the bloodiest American engagement of the Afghan War in 2009 and Bravo Troop 3-61 CAV became one of the most decorated units of the 19-year conflict.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Kp9JghhGPao?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Desperados
-*Released on 2020-07-03, vote average 6.7*
+*Released on 2020-07-03, vote average 6.6*
 
 A panicked young woman and her two best friends fly to Mexico to delete a ranting email she sent to her new boyfriend. On arrival, they run into her former beau, who soon gets caught up in their frantic scheme.
 
@@ -91,7 +69,7 @@ A panicked young woman and her two best friends fly to Mexico to delete a rantin
 	
 
 ### Eurovision Song Contest: The Story of Fire Saga
-*Released on 2020-06-26, vote average 6.5*
+*Released on 2020-06-26, vote average 6.6*
 
 Two small-town aspiring musicians chase their pop star dreams at a global music competition, where high stakes, scheming rivals and onstage mishaps test their bond.
 
@@ -113,7 +91,7 @@ Two small-town aspiring musicians chase their pop star dreams at a global music 
 	
 
 ### Force of Nature
-*Released on 2020-07-02, vote average 5.4*
+*Released on 2020-07-02, vote average 5.5*
 
 A gang of thieves plan a heist during a hurricane and encounter trouble when a disgraced cop tries to force everyone in the building to evacuate.
 
@@ -126,6 +104,11 @@ A gang of thieves plan a heist during a hurricane and encounter trouble when a d
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -154,23 +137,18 @@ While vacationing on the crowded beaches of Riccione, a group of teenagers becom
 
 
 	
-
-  
-
-
-	
 	
 
-### The King of Staten Island
-*Released on 2020-07-01, vote average 6.9*
+### Jim Jefferies: Intolerant
+*Released on 2020-07-07, vote average 7.4*
 
-Scott has been a case of arrested development ever since his firefighter father died when he was seven. He’s now reached his mid-20s having achieved little, chasing a dream of becoming a tattoo artist that seems far out of reach. As his ambitious younger sister heads off to college, Scott is still living with his exhausted ER nurse mother and spends his days smoking weed, hanging with the guys — Oscar, Igor and Richie — and secretly hooking up with his childhood friend Kelsey. But when his mother starts dating a loudmouth firefighter named Ray, it sets off a chain of events that will force Scott to grapple with his grief and take his first tentative steps toward moving forward in life.
+Between scenes from an excruciating date, Jim Jefferies digs into generational differences, his own bad habits and the shifting boundaries in comedy.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/azkVr0VUSTA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Wva0OyWVRsM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -184,7 +162,7 @@ Scott has been a case of arrested development ever since his firefighter father 
 	
 
 ### Irresistible
-*Released on 2020-06-26, vote average 6.5*
+*Released on 2020-06-26, vote average 6.4*
 
 A Democratic political consultant helps a retired Marine colonel run for mayor in a small, conservative Wisconsin town.
 
@@ -203,17 +181,12 @@ A Democratic political consultant helps a retired Marine colonel run for mayor i
 
 
 	
+	
+	
 
   
 
 
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -222,16 +195,16 @@ A Democratic political consultant helps a retired Marine colonel run for mayor i
 	
 	
 
-### Unhinged
-*Released on 2020-07-03, vote average 6.3*
+### Guest of Honour
+*Released on 2020-07-09, vote average 2*
 
-A case of road rage turns into full-blown terror when an unstable driver follows a woman and her son.
+Jim and his daughter Veronica, a young high-school music teacher, attempt to unravel their complicated histories and intertwined secrets. After a hoax goes very wrong, Jim&#39;s daughter is falsely convicted of abusing her position of authority over 17-year-old Clive. Veronica is nevertheless convinced she deserves to be punished, but for much earlier crimes. Confused and frustrated by Veronica’s intransigence, Jim&#39;s anguish begins to impinge on his job as a food inspector. He wields great power over small family-owned restaurants; a power he doesn&#39;t hesitate to use.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/vNJ0szhjvdM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/bKl-3F2PJnc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -242,22 +215,10 @@ A case of road rage turns into full-blown terror when an unstable driver follows
 
 
 	
-	
 
-### Re-Elected
-*Released on 2020-07-04, vote average 1*
+  
 
-Siblings Nate and Angela Harmon and their friends must face off against the zombies of American Presidents on the Fourth of July. But for Nate and Angela there is something even more terrifying lurking in the woods...the prospect of spending an entire evening together.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/dC7zmAuULZI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -266,16 +227,16 @@ Siblings Nate and Angela Harmon and their friends must face off against the zomb
 	
 	
 
-### Viena and the Fantomes
-*Released on 2020-06-30, vote average 3.8*
+### The Artist&#39;s Wife
+*Released on 2020-07-09, vote average 2*
 
-A roadie travels across North America with a punk band in the 1980s.
+Claire, happily married to famed artist Richard, notices changes in her husband’s behaviour as his final art show approaches. When Richard is diagnosed with Alzheimer’s disease, Claire and her husband find their bonds thoroughly tested. Her husband’s struggle to stay connected to who he once was is frightening, heartbreaking, and inspiring.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/E2vo4yKZGTQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-wh1DD0b7Wk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -309,24 +270,17 @@ In the seaside town of Canvey Island, we meet Charlie, an 8-year-old boy with a 
 
 	
 	
-	
 
-  
+### Re-Elected
+*Released on 2020-07-04, vote average 1*
 
-
-	
-	
-
-### Followed
-*Released on 2020-06-26, vote average 2*
-
-To gain more subscribers, a controversial vlogger stays at a cursed hotel with terrifying results.
+Siblings Nate and Angela Harmon and their friends must face off against the zombies of American Presidents on the Fourth of July. But for Nate and Angela there is something even more terrifying lurking in the woods...the prospect of spending an entire evening together.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xPgFUMHill4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/dC7zmAuULZI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -337,18 +291,30 @@ To gain more subscribers, a controversial vlogger stays at a cursed hotel with t
 
 
 	
+
+  
+
+
+	
+	
 	
 
-### We Bare Bears: The Movie
-*Released on 2020-06-30, vote average 8.3*
+  
 
-When Grizz, Panda, and Ice Bear&#39;s love of food trucks and viral videos went out of hand, it catches the attention of Agent Trout from the National Wildlife Control, who pledges to restore the “natural order” by separating them forever. Chased away from their home, the Bears embark on an epic road trip as they seek refuge in Canada, with their journey being filled with new friends, perilous obstacles, and huge parties. The risky journey also forces the Bears to face how they first met and became brothers, in order to keep their family bond from splitting apart.
+
+	
+	
+
+### Unhinged
+*Released on 2020-07-03, vote average 6.3*
+
+A case of road rage turns into full-blown terror when an unstable driver follows a woman and her son.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/0ZNsLy2IwcY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/vNJ0szhjvdM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -408,27 +374,6 @@ A first-time captain leads a convoy of allied ships carrying thousands of soldie
 	
 	
 
-### Capone
-*Released on 2020-07-10, vote average 1*
-
-The 47-year old Al Capone, after 10 years in prison, starts suffering from dementia and comes to be haunted by his violent past.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LHYlKQSc7rA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-	
-
 ### Darlin&#39;
 *Released on 2020-07-10, vote average 8*
 
@@ -442,10 +387,6 @@ Found at a Catholic hospital filthy and ferocious, feral teenager Darlin’ is w
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-	
 	
 	
 
@@ -473,9 +414,22 @@ Jim and his daughter Veronica, a young high-school music teacher, attempt to unr
 	
 
 	
-
 	
 
+### Capone
+*Released on 2020-07-10, vote average 2.3*
+
+The 47-year old Al Capone, after 10 years in prison, starts suffering from dementia and comes to be haunted by his violent past.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LHYlKQSc7rA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -502,8 +456,6 @@ Claire, happily married to famed artist Richard, notices changes in her husband�
 	
 
 	
-	
-	
 
 	
 	
@@ -522,6 +474,8 @@ The new film&#39;s story is set in Okoya Forest, a Pokémon paradise protected b
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
@@ -545,6 +499,31 @@ Ex heroin junkie, Daniel Léger, gets involved in a drug deal with the wrong peo
 
 	
 
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Beat Down 3
+*Released on 2020-07-10, vote average 2*
+
+After 6 years, Hugh Kenton and Mac Jackman&#39;s wild ride of drug busting and crime ending comes to a dramatic close in the third installment of the Beat Down trilogy. After killing the big boss of the drug organization, Adam Crain, they&#39;re once again attacked and followed by members of the most elite drug organization in the world. Mac, Hugh, and returning DEA veteran Rodney Wilson have to fight off some of the world&#39;s most dangerous drug dealers.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/1RiPJ7Gi2no?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 
