@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Hamilton
-*Released on 2020-07-03, vote average 8.6*
+*Released on 2020-07-03, vote average 8.7*
 
 Presenting the tale of American founding father Alexander Hamilton, this filmed version of the original Broadway smash hit is the story of America then, told by America now.
 
@@ -69,7 +69,7 @@ A panicked young woman and her two best friends fly to Mexico to delete a rantin
 	
 
 ### Eurovision Song Contest: The Story of Fire Saga
-*Released on 2020-06-26, vote average 6.6*
+*Released on 2020-06-26, vote average 6.5*
 
 Two small-town aspiring musicians chase their pop star dreams at a global music competition, where high stakes, scheming rivals and onstage mishaps test their bond.
 
@@ -78,6 +78,50 @@ Two small-town aspiring musicians chase their pop star dreams at a global music 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/AdW6BBF22AY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Greyhound
+*Released on 2020-07-10, vote average 5*
+
+A first-time captain leads a convoy of allied ships carrying thousands of soldiers across the treacherous waters of the “Black Pit” to the front lines of WW2. With no air cover protection for 5 days, the captain and his convoy must battle the surrounding enemy Nazi U-boats in order to give the allies a chance to win the war.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/eyzxu26-Wqk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Old Guard
+*Released on 2020-07-10, vote average 7.5*
+
+Led by a warrior named Andy, a covert group of tight-knit mercenaries with a mysterious inability to die have fought to protect the mortal world for centuries. But when the team is recruited to take on an emergency mission and their extraordinary abilities are suddenly exposed, it&#39;s up to Andy and Nile, the newest soldier to join their ranks, to help the group eliminate the threat of those who seek to replicate and monetize their power by any means necessary.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/aK-X2d0lJ_s?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -100,6 +144,104 @@ A gang of thieves plan a heist during a hurricane and encounter trouble when a d
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/iQKaY8G9VpQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Darlin&#39;
+*Released on 2020-07-10, vote average 8*
+
+Found at a Catholic hospital filthy and ferocious, feral teenager Darlin’ is whisked off to a care home run by The Bishop and his obedient nuns, where she’s to be rehabilitated into a &#34;good girl&#34; as an example of the miraculous work of the church. But Darlin’ holds a secret darker than the &#34;sins&#34; she is threatened with, and she is not traveling alone. The Woman who raised her, equally fierce and feral, is ever present in the shadows of Darlin’s psyche and is determined to come for her no matter who tries to get in her way.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5pA8hd9WhLI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Guest of Honour
+*Released on 2020-07-09, vote average 2*
+
+Jim and his daughter Veronica, a young high-school music teacher, attempt to unravel their complicated histories and intertwined secrets. After a hoax goes very wrong, Jim&#39;s daughter is falsely convicted of abusing her position of authority over 17-year-old Clive. Veronica is nevertheless convinced she deserves to be punished, but for much earlier crimes. Confused and frustrated by Veronica’s intransigence, Jim&#39;s anguish begins to impinge on his job as a food inspector. He wields great power over small family-owned restaurants; a power he doesn&#39;t hesitate to use.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/bKl-3F2PJnc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Jim Jefferies: Intolerant
+*Released on 2020-07-07, vote average 6.9*
+
+Between scenes from an excruciating date, Jim Jefferies digs into generational differences, his own bad habits and the shifting boundaries in comedy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Wva0OyWVRsM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Capone
+*Released on 2020-07-10, vote average 4.8*
+
+The 47-year old Al Capone, after 10 years in prison, starts suffering from dementia and comes to be haunted by his violent past.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LHYlKQSc7rA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -139,94 +281,6 @@ While vacationing on the crowded beaches of Riccione, a group of teenagers becom
 	
 	
 
-### Jim Jefferies: Intolerant
-*Released on 2020-07-07, vote average 7.4*
-
-Between scenes from an excruciating date, Jim Jefferies digs into generational differences, his own bad habits and the shifting boundaries in comedy.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Wva0OyWVRsM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Irresistible
-*Released on 2020-06-26, vote average 6.4*
-
-A Democratic political consultant helps a retired Marine colonel run for mayor in a small, conservative Wisconsin town.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0vhaAoSm1NY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Guest of Honour
-*Released on 2020-07-09, vote average 2*
-
-Jim and his daughter Veronica, a young high-school music teacher, attempt to unravel their complicated histories and intertwined secrets. After a hoax goes very wrong, Jim&#39;s daughter is falsely convicted of abusing her position of authority over 17-year-old Clive. Veronica is nevertheless convinced she deserves to be punished, but for much earlier crimes. Confused and frustrated by Veronica’s intransigence, Jim&#39;s anguish begins to impinge on his job as a food inspector. He wields great power over small family-owned restaurants; a power he doesn&#39;t hesitate to use.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/bKl-3F2PJnc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### The Artist&#39;s Wife
 *Released on 2020-07-09, vote average 2*
 
@@ -249,38 +303,16 @@ Claire, happily married to famed artist Richard, notices changes in her husband�
 	
 	
 
-### My Parents, The Zombies!
-*Released on 2020-07-07, vote average 2*
+### Irresistible
+*Released on 2020-06-26, vote average 6.5*
 
-In the seaside town of Canvey Island, we meet Charlie, an 8-year-old boy with a great imagination. He spends his school summer holidays in isolation, playing with his toys and too afraid to leave his room. One fateful day he becomes so hungry he must venture downstairs and into certain danger to retrieve food. It is on this mission where he comes face to face with his greatest fear; his Zombie Parents! And his true adventure begins!
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/RWl3yD8-hVQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Re-Elected
-*Released on 2020-07-04, vote average 1*
-
-Siblings Nate and Angela Harmon and their friends must face off against the zombies of American Presidents on the Fourth of July. But for Nate and Angela there is something even more terrifying lurking in the woods...the prospect of spending an entire evening together.
+A Democratic political consultant helps a retired Marine colonel run for mayor in a small, conservative Wisconsin town.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/dC7zmAuULZI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/0vhaAoSm1NY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -296,6 +328,11 @@ Siblings Nate and Angela Harmon and their friends must face off against the zomb
 
 
 	
+
+  
+
+
+	
 	
 	
 
@@ -303,43 +340,6 @@ Siblings Nate and Angela Harmon and their friends must face off against the zomb
 
 
 	
-	
-
-### Unhinged
-*Released on 2020-07-03, vote average 6.3*
-
-A case of road rage turns into full-blown terror when an unstable driver follows a woman and her son.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vNJ0szhjvdM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Jungle Beat: The Movie
-*Released on 2020-06-26, vote average 5.3*
-
-The Jungle Beat animals think it’s the best thing ever when an alien arrives in the jungle bringing with him the power of speech. They also surprisingly think it’s the best thing ever when they find out that he’s been sent to conquer them.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ngzX6jKWpM8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -370,6 +370,23 @@ A first-time captain leads a convoy of allied ships carrying thousands of soldie
 	
 
 	
+	
+
+### The Old Guard
+*Released on 2020-07-10, vote average 7.5*
+
+Led by a warrior named Andy, a covert group of tight-knit mercenaries with a mysterious inability to die have fought to protect the mortal world for centuries. But when the team is recruited to take on an emergency mission and their extraordinary abilities are suddenly exposed, it&#39;s up to Andy and Nile, the newest soldier to join their ranks, to help the group eliminate the threat of those who seek to replicate and monetize their power by any means necessary.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/aK-X2d0lJ_s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 	
@@ -391,33 +408,10 @@ Found at a Catholic hospital filthy and ferocious, feral teenager Darlin’ is w
 	
 
 	
-
-	
-	
-
-### Guest of Honour
-*Released on 2020-07-09, vote average 2*
-
-Jim and his daughter Veronica, a young high-school music teacher, attempt to unravel their complicated histories and intertwined secrets. After a hoax goes very wrong, Jim&#39;s daughter is falsely convicted of abusing her position of authority over 17-year-old Clive. Veronica is nevertheless convinced she deserves to be punished, but for much earlier crimes. Confused and frustrated by Veronica’s intransigence, Jim&#39;s anguish begins to impinge on his job as a food inspector. He wields great power over small family-owned restaurants; a power he doesn&#39;t hesitate to use.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/bKl-3F2PJnc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
 	
 
 ### Capone
-*Released on 2020-07-10, vote average 2.3*
+*Released on 2020-07-10, vote average 4.8*
 
 The 47-year old Al Capone, after 10 years in prison, starts suffering from dementia and comes to be haunted by his violent past.
 
@@ -433,28 +427,24 @@ The 47-year old Al Capone, after 10 years in prison, starts suffering from demen
 	
 
 	
+
+	
 	
 
-### The Artist&#39;s Wife
-*Released on 2020-07-09, vote average 2*
+### Unhinged
+*Released on 2020-07-16, vote average 6.3*
 
-Claire, happily married to famed artist Richard, notices changes in her husband’s behaviour as his final art show approaches. When Richard is diagnosed with Alzheimer’s disease, Claire and her husband find their bonds thoroughly tested. Her husband’s struggle to stay connected to who he once was is frightening, heartbreaking, and inspiring.
+A case of road rage turns into full-blown terror when an unstable driver follows a woman and her son.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-wh1DD0b7Wk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/vNJ0szhjvdM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
 	
 
 	
@@ -477,8 +467,6 @@ The new film&#39;s story is set in Okoya Forest, a Pokémon paradise protected b
 	
 
 	
-
-	
 	
 
 ### Target Number One
@@ -498,16 +486,6 @@ Ex heroin junkie, Daniel Léger, gets involved in a drug deal with the wrong peo
 	
 
 	
-
-	
-
-	
-
-	
-
-	
-
-	
 	
 
 ### Beat Down 3
@@ -524,6 +502,28 @@ After 6 years, Hugh Kenton and Mac Jackman&#39;s wild ride of drug busting and c
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 
