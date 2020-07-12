@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Hamilton
-*Released on 2020-07-03, vote average 8.7*
+*Released on 2020-07-03, vote average 8.6*
 
 Presenting the tale of American founding father Alexander Hamilton, this filmed version of the original Broadway smash hit is the story of America then, told by America now.
 
@@ -69,7 +69,7 @@ A panicked young woman and her two best friends fly to Mexico to delete a rantin
 	
 
 ### Greyhound
-*Released on 2020-07-10, vote average 5*
+*Released on 2020-07-10, vote average 5.5*
 
 A first-time captain leads a convoy of allied ships carrying thousands of soldiers across the treacherous waters of the “Black Pit” to the front lines of WW2. With no air cover protection for 5 days, the captain and his convoy must battle the surrounding enemy Nazi U-boats in order to give the allies a chance to win the war.
 
@@ -91,9 +91,9 @@ A first-time captain leads a convoy of allied ships carrying thousands of soldie
 	
 
 ### The Old Guard
-*Released on 2020-07-10, vote average 8*
+*Released on 2020-07-10, vote average 6.8*
 
-Led by a warrior named Andy, a covert group of tight-knit mercenaries with a mysterious inability to die have fought to protect the mortal world for centuries. But when the team is recruited to take on an emergency mission and their extraordinary abilities are suddenly exposed, it&#39;s up to Andy and Nile, the newest soldier to join their ranks, to help the group eliminate the threat of those who seek to replicate and monetize their power by any means necessary.
+Four immortal mercenaries who&#39;ve secretly protected humanity for centuries become targeted for their mysterious powers just as they discover a new immortal.
 
 <iframe id="player"
 	type="text/html"
@@ -112,8 +112,30 @@ Led by a warrior named Andy, a covert group of tight-knit mercenaries with a mys
 	
 	
 
+### The Beach House
+*Released on 2020-07-09, vote average 5.4*
+
+A romantic getaway for two troubled college sweethearts turns into a struggle for survival when unexpected guests - and the surrounding environment - exhibit signs of a mysterious infection.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/GLa9mY4FUBM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Darlin&#39;
-*Released on 2020-07-10, vote average 8*
+*Released on 2020-07-10, vote average 4.5*
 
 Found at a Catholic hospital filthy and ferocious, feral teenager Darlin’ is whisked off to a care home run by The Bishop and his obedient nuns, where she’s to be rehabilitated into a &#34;good girl&#34; as an example of the miraculous work of the church. But Darlin’ holds a secret darker than the &#34;sins&#34; she is threatened with, and she is not traveling alone. The Woman who raised her, equally fierce and feral, is ever present in the shadows of Darlin’s psyche and is determined to come for her no matter who tries to get in her way.
 
@@ -156,16 +178,16 @@ The 47-year old Al Capone, after 10 years in prison, starts suffering from demen
 	
 	
 
-### The Beach House
-*Released on 2020-07-09, vote average 8.3*
+### Parallax
+*Released on 2020-07-10, vote average 1*
 
-A romantic getaway for two troubled college sweethearts turns into a struggle for survival when unexpected guests - and the surrounding environment - exhibit signs of a mysterious infection.
+A young artist wakes up in a life that she doesn&#39;t recognize, spending her time asleep haunted by nightmares of drowning in a black abysmal void. As she begins to uncover the truths of the life that she&#39;s found herself in, the gravity of her failing reality weighs heavily on her psychological identity and the reliability of her sanity is called into question.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/WwAEWM9Jzfs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/7tptug4shtM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -198,11 +220,33 @@ A gang of thieves plan a heist during a hurricane and encounter trouble when a d
 
 
 	
+	
+	
 
   
 
 
 	
+
+  
+
+
+	
+	
+
+### Target Number One
+*Released on 2020-07-10, vote average 2*
+
+Ex heroin junkie, Daniel Léger, gets involved in a drug deal with the wrong people for the wrong reasons. When the deal goes sour, Daniel gets thrown into a Thai prison and slapped with a 100-year sentence. While he tries to survive his Bangkok incarceration, the news of his conviction captures the attention of Globe and Mail journalist Victor Malarek, who decides to go after the shady undercover cops responsible for wrongly accusing Daniel.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/oNobfCpjA8Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -234,43 +278,60 @@ The new film&#39;s story is set in Okoya Forest, a Pokémon paradise protected b
 	
 	
 
-### Target Number One
+### The Swing of Things
+*Released on 2020-07-03, vote average 6.6*
+
+Bad weather diverts Tom and Laura Jane from their Bahamas dream wedding. So, with friends, parents, and Laura&#39;s protective big brother, they land at a mystery hotel in Jamaica—which turns out to be a swinger&#39;s resort! Can the innocent couple avoid the nonstop booze, weed, naked bodies, and lusty dolphins long enough to make it to the altar?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LJsJkORjPmc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Black Water: Abyss
+*Released on 2020-07-09, vote average 2*
+
+An adventure-loving couple convince their friends to explore a remote, uncharted cave system in the forests of Northern Australia. With a tropical storm approaching, they abseil into the mouth of the cave, but when the caves start to flood, tensions rise as oxygen levels fall and the friends find themselves trapped. Unknown to them, the storm has also brought in a pack of dangerous and hungry crocodiles.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/t8_bTJJ5lhs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Sadak 2
 *Released on 2020-07-10, vote average 2*
 
-Ex heroin junkie, Daniel Léger, gets involved in a drug deal with the wrong people for the wrong reasons. When the deal goes sour, Daniel gets thrown into a Thai prison and slapped with a 100-year sentence. While he tries to survive his Bangkok incarceration, the news of his conviction captures the attention of Globe and Mail journalist Victor Malarek, who decides to go after the shady undercover cops responsible for wrongly accusing Daniel.
+
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/oNobfCpjA8Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Guest of Honour
-*Released on 2020-07-09, vote average 2*
-
-Jim and his daughter Veronica, a young high-school music teacher, attempt to unravel their complicated histories and intertwined secrets. After a hoax goes very wrong, Jim&#39;s daughter is falsely convicted of abusing her position of authority over 17-year-old Clive. Veronica is nevertheless convinced she deserves to be punished, but for much earlier crimes. Confused and frustrated by Veronica’s intransigence, Jim&#39;s anguish begins to impinge on his job as a food inspector. He wields great power over small family-owned restaurants; a power he doesn&#39;t hesitate to use.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/bKl-3F2PJnc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Ltvt4p_1xSU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -283,16 +344,16 @@ Jim and his daughter Veronica, a young high-school music teacher, attempt to unr
 	
 	
 
-### The Artist&#39;s Wife
-*Released on 2020-07-09, vote average 2*
+### Money Plane
+*Released on 2020-07-10, vote average 4.7*
 
-Claire, happily married to famed artist Richard, notices changes in her husband’s behaviour as his final art show approaches. When Richard is diagnosed with Alzheimer’s disease, Claire and her husband find their bonds thoroughly tested. Her husband’s struggle to stay connected to who he once was is frightening, heartbreaking, and inspiring.
+A professional thief with $40 million in debt and his family&#39;s life on the line must commit one final heist - rob a futuristic airborne casino filled with the world&#39;s most dangerous criminals.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-wh1DD0b7Wk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/aETz_dRDEys?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -327,16 +388,16 @@ After 6 years, Hugh Kenton and Mac Jackman&#39;s wild ride of drug busting and c
 	
 	
 
-### Jim Jefferies: Intolerant
-*Released on 2020-07-07, vote average 7.1*
+### Guest of Honour
+*Released on 2020-07-09, vote average 2*
 
-Between scenes from an excruciating date, Jim Jefferies digs into generational differences, his own bad habits and the shifting boundaries in comedy.
+Jim and his daughter Veronica, a young high-school music teacher, attempt to unravel their complicated histories and intertwined secrets. After a hoax goes very wrong, Jim&#39;s daughter is falsely convicted of abusing her position of authority over 17-year-old Clive. Veronica is nevertheless convinced she deserves to be punished, but for much earlier crimes. Confused and frustrated by Veronica’s intransigence, Jim&#39;s anguish begins to impinge on his job as a food inspector. He wields great power over small family-owned restaurants; a power he doesn&#39;t hesitate to use.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Wva0OyWVRsM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/bKl-3F2PJnc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -349,43 +410,16 @@ Between scenes from an excruciating date, Jim Jefferies digs into generational d
 	
 	
 
-### The Secret Garden
-*Released on 2020-07-08, vote average 8.5*
+### We Bare Bears: The Movie
+*Released on 2020-06-30, vote average 8.1*
 
-Mary Lennox is born in India to wealthy British parents who never wanted her. When her parents suddenly die, she is sent back to England to live with her uncle, Archibald Craven. She meets her sickly cousin Colin and the two children find a wondrous secret garden lost in the grounds of Misselthwaite Manor.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hg-lXdXVel4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Under the Riccione Sun
-*Released on 2020-07-01, vote average 6.5*
-
-While vacationing on the crowded beaches of Riccione, a group of teenagers becomes fast friends as they grapple with relationship issues and romance.
+When Grizz, Panda, and Ice Bear&#39;s love of food trucks and viral videos went out of hand, it catches the attention of Agent Trout from the National Wildlife Control, who pledges to restore the “natural order” by separating them forever. Chased away from their home, the Bears embark on an epic road trip as they seek refuge in Canada, with their journey being filled with new friends, perilous obstacles, and huge parties. The risky journey also forces the Bears to face how they first met and became brothers, in order to keep their family bond from splitting apart.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/wkBw_pphRqs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/0ZNsLy2IwcY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -416,7 +450,7 @@ While vacationing on the crowded beaches of Riccione, a group of teenagers becom
 	
 
 	
-
+	
 	
 
 	
@@ -434,7 +468,13 @@ While vacationing on the crowded beaches of Riccione, a group of teenagers becom
 	
 
 	
+	
+	
 
+	
+
+	
+	
 	
 
 	
