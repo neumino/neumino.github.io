@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Greyhound
-*Released on 2020-07-10, vote average 6.1*
+*Released on 2020-07-10, vote average 6.7*
 
 A first-time captain leads a convoy of allied ships carrying thousands of soldiers across the treacherous waters of the “Black Pit” to the front lines of WW2. With no air cover protection for 5 days, the captain and his convoy must battle the surrounding enemy Nazi U-boats in order to give the allies a chance to win the war.
 
@@ -49,7 +49,7 @@ A first-time captain leads a convoy of allied ships carrying thousands of soldie
 ### The Old Guard
 *Released on 2020-07-10, vote average 7.3*
 
-Four immortal mercenaries who&#39;ve secretly protected humanity for centuries become targeted for their mysterious powers just as they discover a new immortal.
+Four undying warriors who&#39;ve secretly protected humanity for centuries become targeted for their mysterious powers just as they discover a new immortal.
 
 <iframe id="player"
 	type="text/html"
@@ -69,7 +69,7 @@ Four immortal mercenaries who&#39;ve secretly protected humanity for centuries b
 	
 
 ### Hamilton
-*Released on 2020-07-03, vote average 8.5*
+*Released on 2020-07-03, vote average 8.6*
 
 Presenting the tale of American founding father Alexander Hamilton, this filmed version of the original Broadway smash hit is the story of America then, told by America now.
 
@@ -112,6 +112,28 @@ A panicked young woman and her two best friends fly to Mexico to delete a rantin
 	
 	
 
+### Survive the Night
+*Released on 2020-07-09, vote average 5.7*
+
+A disgraced doctor and his family are held hostage at their home by criminals on the run, when a robbery-gone-awry requires them to seek immediate medical attention.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/XVHReeBQFtA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Beach House
 *Released on 2020-07-09, vote average 5.5*
 
@@ -134,8 +156,30 @@ A romantic getaway for two troubled college sweethearts turns into a struggle fo
 	
 	
 
+### Relic
+*Released on 2020-07-03, vote average 6.5*
+
+When Edna, the elderly and widowed matriarch of the family, goes missing, her daughter Kay and granddaughter Sam travel to their remote family home to find her. Soon after her return, they start to discover a sinister presence haunting the house and taking control of Edna.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Byk8tQGU5uE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Darlin&#39;
-*Released on 2020-07-10, vote average 4.3*
+*Released on 2020-07-10, vote average 4*
 
 Found at a Catholic hospital filthy and ferocious, feral teenager Darlin’ is whisked off to a care home run by The Bishop and his obedient nuns, where she’s to be rehabilitated into a &#34;good girl&#34; as an example of the miraculous work of the church. But Darlin’ holds a secret darker than the &#34;sins&#34; she is threatened with, and she is not traveling alone. The Woman who raised her, equally fierce and feral, is ever present in the shadows of Darlin’s psyche and is determined to come for her no matter who tries to get in her way.
 
@@ -154,6 +198,50 @@ Found at a Catholic hospital filthy and ferocious, feral teenager Darlin’ is w
 
 
 	
+	
+	
+
+  
+
+
+	
+	
+
+### We Bare Bears: The Movie
+*Released on 2020-06-30, vote average 7.8*
+
+When Grizz, Panda, and Ice Bear&#39;s love of food trucks and viral videos went out of hand, it catches the attention of Agent Trout from the National Wildlife Control, who pledges to restore the “natural order” by separating them forever. Chased away from their home, the Bears embark on an epic road trip as they seek refuge in Canada, with their journey being filled with new friends, perilous obstacles, and huge parties. The risky journey also forces the Bears to face how they first met and became brothers, in order to keep their family bond from splitting apart.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0ZNsLy2IwcY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Under the Riccione Sun
+*Released on 2020-07-01, vote average 6.5*
+
+While vacationing on the crowded beaches of Riccione, a group of teenagers becomes fast friends as they grapple with relationship issues and romance.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wkBw_pphRqs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -183,22 +271,15 @@ A gang of thieves plan a heist during a hurricane and encounter trouble when a d
 
 
 	
-	
 
-### Capone
-*Released on 2020-07-10, vote average 4.8*
+  
 
-The 47-year old Al Capone, after 10 years in prison, starts suffering from dementia and comes to be haunted by his violent past.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LHYlKQSc7rA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
 	
 
   
@@ -207,16 +288,16 @@ The 47-year old Al Capone, after 10 years in prison, starts suffering from demen
 	
 	
 
-### We Bare Bears: The Movie
-*Released on 2020-06-30, vote average 7.9*
+### Archive
+*Released on 2020-07-01, vote average 9.3*
 
-When Grizz, Panda, and Ice Bear&#39;s love of food trucks and viral videos went out of hand, it catches the attention of Agent Trout from the National Wildlife Control, who pledges to restore the “natural order” by separating them forever. Chased away from their home, the Bears embark on an epic road trip as they seek refuge in Canada, with their journey being filled with new friends, perilous obstacles, and huge parties. The risky journey also forces the Bears to face how they first met and became brothers, in order to keep their family bond from splitting apart.
+2038: George Almore is working on a true human-equivalent AI, and his latest prototype is almost ready. This sensitive phase is also the riskiest as he has a goal that must be hidden at all costs—being reunited with his dead wife.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/0ZNsLy2IwcY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/m0J0BwIzURI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -251,16 +332,16 @@ A young artist wakes up in a life that she doesn&#39;t recognize, spending her t
 	
 	
 
-### Under the Riccione Sun
-*Released on 2020-07-01, vote average 6.5*
+### Capone
+*Released on 2020-07-10, vote average 4.8*
 
-While vacationing on the crowded beaches of Riccione, a group of teenagers becomes fast friends as they grapple with relationship issues and romance.
+The 47-year old Al Capone, after 10 years in prison, starts suffering from dementia and comes to be haunted by his violent past.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/wkBw_pphRqs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/LHYlKQSc7rA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -277,119 +358,6 @@ While vacationing on the crowded beaches of Riccione, a group of teenagers becom
 
 	
 	
-
-### Relic
-*Released on 2020-07-03, vote average 7.7*
-
-When Edna, the elderly and widowed matriarch of the family, goes missing, her daughter Kay and granddaughter Sam travel to their remote family home to find her. Soon after her return, they start to discover a sinister presence haunting the house and taking control of Edna.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Byk8tQGU5uE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Swing of Things
-*Released on 2020-07-03, vote average 6.7*
-
-Bad weather diverts Tom and Laura Jane from their Bahamas dream wedding. So, with friends, parents, and Laura&#39;s protective big brother, they land at a mystery hotel in Jamaica—which turns out to be a swinger&#39;s resort! Can the innocent couple avoid the nonstop booze, weed, naked bodies, and lusty dolphins long enough to make it to the altar?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LJsJkORjPmc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Money Plane
-*Released on 2020-07-10, vote average 4.7*
-
-A professional thief with $40 million in debt and his family&#39;s life on the line must commit one final heist - rob a futuristic airborne casino filled with the world&#39;s most dangerous criminals.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/aETz_dRDEys?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Secret Garden
-*Released on 2020-07-08, vote average 7*
-
-Mary Lennox is born in India to wealthy British parents who never wanted her. When her parents suddenly die, she is sent back to England to live with her uncle, Archibald Craven. She meets her sickly cousin Colin and the two children find a wondrous secret garden lost in the grounds of Misselthwaite Manor.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hg-lXdXVel4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Pokémon the Movie: Coco
-*Released on 2020-07-10, vote average 2*
-
-The new film&#39;s story is set in Okoya Forest, a Pokémon paradise protected by strict rules that forbid outsiders from setting foot inside. The film centers on Coco, a boy who was raised by Pokémon and also considers himself as one, treating the Mythical Pokémon Zarude as his father. Ash and Pikachu encounter Coco during an adventure.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/aWz-0FpHT3A?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -412,11 +380,7 @@ The new film&#39;s story is set in Okoya Forest, a Pokémon paradise protected b
 	
 
 	
-
 	
-	
-	
-
 	
 
 	
@@ -425,7 +389,7 @@ The new film&#39;s story is set in Okoya Forest, a Pokémon paradise protected b
 	
 
 ### Summer of 85
-*Released on 2020-07-14, vote average 6.4*
+*Released on 2020-07-14, vote average 7.1*
 
 What do you dream of when you&#39;re 16 years old and in a seaside resort in Normandy in the 1980s? A best friend? A lifelong teen pact? Scooting off on adventures on a boat or a motorbike? Living life at breakneck speed? No. You dream of death. Because you can&#39;t get a bigger kick than dying. And that&#39;s why you save it till the very end. The summer holidays are just beginning, and this story recounts how Alexis grew into himself.
 
@@ -438,12 +402,6 @@ What do you dream of when you&#39;re 16 years old and in a seaside resort in Nor
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
 	
 
 	
@@ -467,6 +425,16 @@ A unique, intimate and honest portrayal of a girl grieving for the loss of her b
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
