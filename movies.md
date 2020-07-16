@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Greyhound
-*Released on 2020-07-10, vote average 6.8*
+### The Old Guard
+*Released on 2020-07-10, vote average 7.3*
 
-A first-time captain leads a convoy of allied ships carrying thousands of soldiers across the treacherous waters of the “Black Pit” to the front lines of WW2. With no air cover protection for 5 days, the captain and his convoy must battle the surrounding enemy Nazi U-boats in order to give the allies a chance to win the war.
+Four undying warriors who&#39;ve secretly protected humanity for centuries become targeted for their mysterious powers just as they discover a new immortal.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/eyzxu26-Wqk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/aK-X2d0lJ_s?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,38 @@ A first-time captain leads a convoy of allied ships carrying thousands of soldie
 	
 	
 
-### The Old Guard
-*Released on 2020-07-10, vote average 7.3*
+### Greyhound
+*Released on 2020-07-10, vote average 7*
 
-Four undying warriors who&#39;ve secretly protected humanity for centuries become targeted for their mysterious powers just as they discover a new immortal.
+A first-time captain leads a convoy of allied ships carrying thousands of soldiers across the treacherous waters of the “Black Pit” to the front lines of WW2. With no air cover protection for 5 days, the captain and his convoy must battle the surrounding enemy Nazi U-boats in order to give the allies a chance to win the war.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/aK-X2d0lJ_s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/eyzxu26-Wqk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Relic
+*Released on 2020-07-03, vote average 6.6*
+
+When Edna, the elderly and widowed matriarch of the family, goes missing, her daughter Kay and granddaughter Sam travel to their remote family home to find her. Soon after her return, they start to discover a sinister presence haunting the house and taking control of Edna.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Byk8tQGU5uE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -110,55 +132,6 @@ A panicked young woman and her two best friends fly to Mexico to delete a rantin
 
 
 	
-	
-
-### Relic
-*Released on 2020-07-03, vote average 6.6*
-
-When Edna, the elderly and widowed matriarch of the family, goes missing, her daughter Kay and granddaughter Sam travel to their remote family home to find her. Soon after her return, they start to discover a sinister presence haunting the house and taking control of Edna.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Byk8tQGU5uE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Survive the Night
-*Released on 2020-07-09, vote average 5.3*
-
-A disgraced doctor and his family are held hostage at their home by criminals on the run, when a robbery-gone-awry requires them to seek immediate medical attention.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XVHReeBQFtA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 
   
 
@@ -193,16 +166,50 @@ Peninsula takes place four years after Train to Busan as the characters fight to
 	
 	
 
-### The Beach House
-*Released on 2020-07-09, vote average 5.9*
+### Survive the Night
+*Released on 2020-07-09, vote average 5.2*
 
-A romantic getaway for two troubled college sweethearts turns into a struggle for survival when unexpected guests - and the surrounding environment - exhibit signs of a mysterious infection.
+A disgraced doctor and his family are held hostage at their home by criminals on the run, when a robbery-gone-awry requires them to seek immediate medical attention.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/GLa9mY4FUBM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/XVHReeBQFtA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Showbiz Kids
+*Released on 2020-07-14, vote average 1*
+
+A documentary chronicling the shared experiences of prominent former child stars and the personal and professional price of fame and failure on a child.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/VLuoIesqz9g?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -219,28 +226,26 @@ A romantic getaway for two troubled college sweethearts turns into a struggle fo
 
 	
 	
-	
 
-  
+### Circus of the Dead
+*Released on 2020-07-14, vote average 1*
 
-
-	
-	
-
-### Archive
-*Released on 2020-07-01, vote average 7.8*
-
-2038: George Almore is working on a true human-equivalent AI, and his latest prototype is almost ready. This sensitive phase is also the riskiest as he has a goal that must be hidden at all costs—being reunited with his dead wife.
+A sadistic group of clowns kidnap an unsuspecting man and his daughters, forcing him to play a deadly game in order to save his family.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/m0J0BwIzURI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/SUcCRKtr8zw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -270,9 +275,38 @@ A gang of thieves plan a heist during a hurricane and encounter trouble when a d
 
 	
 	
+	
+
+  
+
+
+	
+	
+
+### Summer of 85
+*Released on 2020-07-14, vote average 7*
+
+What do you dream of when you&#39;re 16 years old and in a seaside resort in Normandy in the 1980s? A best friend? A lifelong teen pact? Scooting off on adventures on a boat or a motorbike? Living life at breakneck speed? No. You dream of death. Because you can&#39;t get a bigger kick than dying. And that&#39;s why you save it till the very end. The summer holidays are just beginning, and this story recounts how Alexis grew into himself.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/9Tv1viaO_NQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
 
 ### Darlin&#39;
-*Released on 2020-07-10, vote average 4*
+*Released on 2020-07-10, vote average 3.5*
 
 Found at a Catholic hospital filthy and ferocious, feral teenager Darlin’ is whisked off to a care home run by The Bishop and his obedient nuns, where she’s to be rehabilitated into a &#34;good girl&#34; as an example of the miraculous work of the church. But Darlin’ holds a secret darker than the &#34;sins&#34; she is threatened with, and she is not traveling alone. The Woman who raised her, equally fierce and feral, is ever present in the shadows of Darlin’s psyche and is determined to come for her no matter who tries to get in her way.
 
@@ -291,57 +325,6 @@ Found at a Catholic hospital filthy and ferocious, feral teenager Darlin’ is w
 
 
 	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Under the Riccione Sun
-*Released on 2020-07-01, vote average 6.5*
-
-While vacationing on the crowded beaches of Riccione, a group of teenagers becomes fast friends as they grapple with relationship issues and romance.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wkBw_pphRqs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Summer of 85
-*Released on 2020-07-14, vote average 7.5*
-
-What do you dream of when you&#39;re 16 years old and in a seaside resort in Normandy in the 1980s? A best friend? A lifelong teen pact? Scooting off on adventures on a boat or a motorbike? Living life at breakneck speed? No. You dream of death. Because you can&#39;t get a bigger kick than dying. And that&#39;s why you save it till the very end. The summer holidays are just beginning, and this story recounts how Alexis grew into himself.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/9Tv1viaO_NQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -353,26 +336,22 @@ What do you dream of when you&#39;re 16 years old and in a seaside resort in Nor
 	
 
 	
-
-	
 	
 
-### Train to Busan Presents: Peninsula
-*Released on 2020-07-15, vote average 5*
+### Arkansas
+*Released on 2020-07-16, vote average 7*
 
-Peninsula takes place four years after Train to Busan as the characters fight to escape the land that is in ruins due to an unprecedented disaster.
+Kyle and Swin live by the orders of an Arkansas-based drug kingpin named Frog, whom they&#39;ve never met. But when a deal goes horribly wrong, the consequences are deadly.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/yVucSRLLeIM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/y4-Y2KIDNmE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
@@ -404,17 +383,29 @@ A unique, intimate and honest portrayal of a girl grieving for the loss of her b
 
 	
 	
+	
 
-### Arkansas
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Nasir
 *Released on 2020-07-16, vote average 7*
 
-Kyle and Swin live by the orders of an Arkansas-based drug kingpin named Frog, whom they&#39;ve never met. But when a deal goes horribly wrong, the consequences are deadly.
+Follows Nasir, a middle-aged street salesman, who belongs to the Islamic minority and who lives with his mother Fatima, his wife Taj and his cousin Iqbal in a densely populated ghetto. As his day unfolds we find him to be a nimble romantic, marshalling a love of love, song, children, friendship, and even God to rise into something resembling a life well lived. But the increasing communal bigotry has other plans.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/y4-Y2KIDNmE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Kx4LbfJ8vgw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -422,15 +413,24 @@ Kyle and Swin live by the orders of an Arkansas-based drug kingpin named Frog, w
 	
 
 	
-
 	
 
-	
+### A Nice Girl Like You
+*Released on 2020-07-17, vote average 5.5*
+
+Lucy Neal is thrown for a loop when she is accused of being too inhibited by her ex-boyfriend. In an effort to prove him wrong, Lucy creates a rather wild to-do list that sends her on a whirlwind and surprising journey of self-discovery, friendship, and new love.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-Wjjo30JJck?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
+	
 
-	
-	
 	
 
 	
