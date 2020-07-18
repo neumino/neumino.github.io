@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Greyhound
-*Released on 2020-07-10, vote average 7.2*
+*Released on 2020-07-10, vote average 7.3*
 
 A first-time captain leads a convoy of allied ships carrying thousands of soldiers across the treacherous waters of the “Black Pit” to the front lines of WW2. With no air cover protection for 5 days, the captain and his convoy must battle the surrounding enemy Nazi U-boats in order to give the allies a chance to win the war.
 
@@ -47,7 +47,7 @@ A first-time captain leads a convoy of allied ships carrying thousands of soldie
 	
 
 ### The Old Guard
-*Released on 2020-07-10, vote average 7.3*
+*Released on 2020-07-10, vote average 7.4*
 
 Four undying warriors who&#39;ve secretly protected humanity for centuries become targeted for their mysterious powers just as they discover a new immortal.
 
@@ -68,104 +68,16 @@ Four undying warriors who&#39;ve secretly protected humanity for centuries becom
 	
 	
 
-### Relic
-*Released on 2020-07-03, vote average 6.4*
+### Palm Springs
+*Released on 2020-07-10, vote average 7.8*
 
-When Edna, the elderly and widowed matriarch of the family, goes missing, her daughter Kay and granddaughter Sam travel to their remote family home to find her. Soon after her return, they start to discover a sinister presence haunting the house and taking control of Edna.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Byk8tQGU5uE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Hamilton
-*Released on 2020-07-03, vote average 8.6*
-
-Presenting the tale of American founding father Alexander Hamilton, this filmed version of the original Broadway smash hit is the story of America then, told by America now.
+When carefree Nyles and reluctant maid of honor Sarah have a chance encounter at a Palm Springs wedding, things get complicated when they find themselves unable to escape the venue, themselves, or each other.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/DSCKfXpAGHc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Train to Busan Presents: Peninsula
-*Released on 2020-07-15, vote average 5.3*
-
-Peninsula takes place four years after Train to Busan as the characters fight to escape the land that is in ruins due to an unprecedented disaster.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/yVucSRLLeIM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Desperados
-*Released on 2020-07-03, vote average 6.5*
-
-A panicked young woman and her two best friends fly to Mexico to delete a ranting email she sent to her new boyfriend. On arrival, they run into her former beau, who soon gets caught up in their frantic scheme.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8AWqOBj_BqA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Unhinged
-*Released on 2020-07-16, vote average 5*
-
-A case of road rage turns into full-blown terror when an unstable driver follows a woman and her son.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vNJ0szhjvdM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/CpBLtXduh_k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -199,31 +111,39 @@ After Santa Barbara Police Chief Carlton Lassiter is ambushed and left for dead,
 
 	
 	
-	
 
-  
+### Train to Busan Presents: Peninsula
+*Released on 2020-07-15, vote average 6.4*
 
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Arkansas
-*Released on 2020-07-16, vote average 7*
-
-Kyle and Swin live by the orders of an Arkansas-based drug kingpin named Frog, whom they&#39;ve never met. But when a deal goes horribly wrong, the consequences are deadly.
+Peninsula takes place four years after Train to Busan as the characters fight to escape the land that is in ruins due to an unprecedented disaster.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/y4-Y2KIDNmE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/yVucSRLLeIM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Starfish
+*Released on 2020-07-17, vote average 5*
+
+A unique, intimate and honest portrayal of a girl grieving for the loss of her best friend. That just happens to take place on the day the world ends as we know it.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/l-MzHGRVG4k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -237,7 +157,7 @@ Kyle and Swin live by the orders of an Arkansas-based drug kingpin named Frog, w
 	
 
 ### The Players
-*Released on 2020-07-15, vote average 3.4*
+*Released on 2020-07-15, vote average 3.8*
 
 From campy lies to sexy surprises, this collection of vignettes captures the follies of several men as they fumble with fidelity and relationships.
 
@@ -258,16 +178,38 @@ From campy lies to sexy surprises, this collection of vignettes captures the fol
 	
 	
 
-### Starfish
-*Released on 2020-07-17, vote average 9*
+### Fatal Affair
+*Released on 2020-07-16, vote average 3.2*
 
-A unique, intimate and honest portrayal of a girl grieving for the loss of her best friend. That just happens to take place on the day the world ends as we know it.
+Ellie tries to mend her marriage with her husband Marcus after a brief encounter with an old friend, David, only to find that David is more dangerous and unstable than she&#39;d realized.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/l-MzHGRVG4k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/bxWPPrDpqr8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Unhinged
+*Released on 2020-07-16, vote average 8.3*
+
+A case of road rage turns into full-blown terror when an unstable driver follows a woman and her son.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vNJ0szhjvdM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -312,63 +254,31 @@ A disgraced doctor and his family are held hostage at their home by criminals on
 
 
 	
-	
-	
-
-  
-
-
-	
 
   
 
 
 	
 	
-	
 
-  
+### Arkansas
+*Released on 2020-07-16, vote average 4*
 
-
-	
-
-  
-
-
-
-## Opening soon
-
-
-	
-	
-
-### Starfish
-*Released on 2020-07-17, vote average 9*
-
-A unique, intimate and honest portrayal of a girl grieving for the loss of her best friend. That just happens to take place on the day the world ends as we know it.
+Kyle and Swin live by the orders of an Arkansas-based drug kingpin named Frog, whom they&#39;ve never met. But when a deal goes horribly wrong, the consequences are deadly.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/l-MzHGRVG4k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/y4-Y2KIDNmE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
 	
 
-	
-	
-	
+  
 
-	
-
-	
-
-	
-
-	
 
 	
 	
@@ -389,41 +299,104 @@ Lucy Neal is thrown for a loop when she is accused of being too inhibited by her
 	
 	
 
-	
+  
+
 
 	
 
-	
+  
+
 
 	
+	
+	
+
+  
+
 
 	
 	
 
-### Theater
-*Released on 2020-07-17, vote average 1*
+### Proximity
+*Released on 2020-07-15, vote average 3.5*
 
-Nagata  works as a writer and director for theater company Oroka. His work has not received positive responses and ticket sales has not increased. Making things worse, his relationship with the theatrical troupe is not good. Nagata feels lonely. One day, he sees a woman named Saki  on the street. She is wearing the same sneakers as he is. Nagata talks to her. Saki is a university student and she dreams of becoming an actress. Nagata and Saki fall in love.
+A young NASA JPL scientist is abducted by extraterrestrials but when no one believes his story he becomes obsessed with finding proof which leads him on a journey of discovery.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/2_Onk6PWXFU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/vakNakzL25A?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
 	
 
+  
+
+
 	
 	
+
+### Follow Me
+*Released on 2020-07-16, vote average 1*
+
+A social media personality travels with his friends to Moscow to capture new content for his successful VLOG. Always pushing the limits and catering to a growing audience, they enter a cold world of mystery, excess, and danger. When the lines between real life and social media are blurred, the group must fight to escape, and survive.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/tiBE56vQ0Fg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+
+## Opening soon
+
+
+	
+
 	
 
 	
 
 	
+
 	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
