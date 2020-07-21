@@ -69,7 +69,7 @@ A first-time captain leads a convoy of allied ships carrying thousands of soldie
 	
 
 ### Fatal Affair
-*Released on 2020-07-16, vote average 4.9*
+*Released on 2020-07-16, vote average 5.1*
 
 Ellie tries to mend her marriage with her husband Marcus after a brief encounter with an old friend, David, only to find that David is more dangerous and unstable than she&#39;d realized.
 
@@ -112,16 +112,16 @@ When Sgt. First Class Brian Eisch is critically wounded in Afghanistan, it sets 
 	
 	
 
-### A Nice Girl Like You
-*Released on 2020-07-18, vote average 8*
+### Scoob!
+*Released on 2020-07-08, vote average 8*
 
-Lucy Neal is thrown for a loop when she is accused of being too inhibited by her ex-boyfriend. In an effort to prove him wrong, Lucy creates a rather wild to-do list that sends her on a whirlwind and surprising journey of self-discovery, friendship, and new love.
+In Scooby-Doo’s greatest adventure yet, see the never-before told story of how lifelong friends Scooby and Shaggy first met and how they joined forces with young detectives Fred, Velma, and Daphne to form the famous Mystery Inc. Now, with hundreds of cases solved, Scooby and the gang face their biggest, toughest mystery ever: an evil plot to unleash the ghost dog Cerberus upon the world. As they race to stop this global “dogpocalypse,” the gang discovers that Scooby has a secret legacy and an epic destiny greater than anyone ever imagined.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-Wjjo30JJck?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-BgWppq25xI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -142,7 +142,7 @@ Lucy Neal is thrown for a loop when she is accused of being too inhibited by her
 	
 
 ### Peninsula
-*Released on 2020-07-15, vote average 6.4*
+*Released on 2020-07-15, vote average 6.8*
 
 Peninsula takes place four years after Train to Busan as the characters fight to escape the land that is in ruins due to an unprecedented disaster.
 
@@ -163,16 +163,38 @@ Peninsula takes place four years after Train to Busan as the characters fight to
 	
 	
 
-### Psych 2: Lassie Come Home
-*Released on 2020-07-15, vote average 7.3*
+### A Nice Girl Like You
+*Released on 2020-07-18, vote average 7.7*
 
-After Santa Barbara Police Chief Carlton Lassiter is ambushed and left for dead, Shawn and Gus return to help him and find themselves embroiled in a case involving the personal, the professional—and even the supernatural.
+Lucy Neal is thrown for a loop when she is accused of being too inhibited by her ex-boyfriend. In an effort to prove him wrong, Lucy creates a rather wild to-do list that sends her on a whirlwind and surprising journey of self-discovery, friendship, and new love.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/HsItWo7eF5s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-Wjjo30JJck?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Survive the Night
+*Released on 2020-07-09, vote average 5.9*
+
+A disgraced doctor and his family are held hostage at their home by criminals on the run, when a robbery-gone-awry requires them to seek immediate medical attention.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/XVHReeBQFtA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -207,16 +229,16 @@ A case of road rage turns into full-blown terror when an unstable driver follows
 	
 	
 
-### Survive the Night
-*Released on 2020-07-09, vote average 5.5*
+### Psych 2: Lassie Come Home
+*Released on 2020-07-15, vote average 7.3*
 
-A disgraced doctor and his family are held hostage at their home by criminals on the run, when a robbery-gone-awry requires them to seek immediate medical attention.
+After Santa Barbara Police Chief Carlton Lassiter is ambushed and left for dead, Shawn and Gus return to help him and find themselves embroiled in a case involving the personal, the professional—and even the supernatural.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/XVHReeBQFtA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/HsItWo7eF5s?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -228,26 +250,6 @@ A disgraced doctor and his family are held hostage at their home by criminals on
 
 	
 	
-
-### Starfish
-*Released on 2020-07-17, vote average 5.7*
-
-A unique, intimate and honest portrayal of a girl grieving for the loss of her best friend. That just happens to take place on the day the world ends as we know it.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/l-MzHGRVG4k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -276,18 +278,23 @@ From campy lies to sexy surprises, this collection of vignettes captures the fol
 
 
 	
+
+  
+
+
+	
 	
 
-### Follow Me
-*Released on 2020-07-16, vote average 4.5*
+### Starfish
+*Released on 2020-07-17, vote average 5.7*
 
-A social media personality travels with his friends to Moscow to capture new content for his successful VLOG. Always pushing the limits and catering to a growing audience, they enter a cold world of mystery, excess, and danger. When the lines between real life and social media are blurred, the group must fight to escape, and survive.
+A unique, intimate and honest portrayal of a girl grieving for the loss of her best friend. That just happens to take place on the day the world ends as we know it.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/tiBE56vQ0Fg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/l-MzHGRVG4k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -299,38 +306,17 @@ A social media personality travels with his friends to Moscow to capture new con
 
 	
 	
-	
 
-  
+### Jack Whitehall: I&#39;m Only Joking
+*Released on 2020-07-21, vote average 1*
 
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Arkansas
-*Released on 2020-07-16, vote average 4*
-
-Kyle and Swin live by the orders of an Arkansas-based drug kingpin named Frog, whom they&#39;ve never met. But when a deal goes horribly wrong, the consequences are deadly.
+Jack Whitehall hits the stage with hilarious tales about happy couples, life in hotels, human stupidity and his well-traveled father.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/y4-Y2KIDNmE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/kxJR6AptQ_E?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -348,20 +334,32 @@ Kyle and Swin live by the orders of an Arkansas-based drug kingpin named Frog, w
 	
 	
 
-### Proximity
-*Released on 2020-07-15, vote average 3.5*
+### Capone
+*Released on 2020-07-10, vote average 5.2*
 
-A young NASA JPL scientist is abducted by extraterrestrials but when no one believes his story he becomes obsessed with finding proof which leads him on a journey of discovery.
+The 47-year old Al Capone, after 10 years in prison, starts suffering from dementia and comes to be haunted by his violent past.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/vakNakzL25A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/LHYlKQSc7rA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -391,10 +389,6 @@ Scott has been a case of arrested development ever since his firefighter father 
 	
 
 	
-
-	
-
-	
 	
 
 ### Jack Whitehall: I&#39;m Only Joking
@@ -415,6 +409,27 @@ Jack Whitehall hits the stage with hilarious tales about happy couples, life in 
 
 	
 
+	
+
+	
+
+	
+	
+
+### Yes, God, Yes
+*Released on 2020-07-24, vote average 9*
+
+Alice, a young innocent Catholic girl, is tempted into masturbating after an AOL chat suddenly turns sexual, however is conflicted as the act would be considered a sin.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/YNqnUv7uY_A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
