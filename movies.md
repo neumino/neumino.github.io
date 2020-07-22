@@ -47,7 +47,7 @@ Four undying warriors who&#39;ve secretly protected humanity for centuries becom
 	
 
 ### Greyhound
-*Released on 2020-07-10, vote average 7.4*
+*Released on 2020-07-10, vote average 7.5*
 
 A first-time captain leads a convoy of allied ships carrying thousands of soldiers across the treacherous waters of the “Black Pit” to the front lines of WW2. With no air cover protection for 5 days, the captain and his convoy must battle the surrounding enemy Nazi U-boats in order to give the allies a chance to win the war.
 
@@ -69,7 +69,7 @@ A first-time captain leads a convoy of allied ships carrying thousands of soldie
 	
 
 ### Fatal Affair
-*Released on 2020-07-16, vote average 5.1*
+*Released on 2020-07-16, vote average 4.9*
 
 Ellie tries to mend her marriage with her husband Marcus after a brief encounter with an old friend, David, only to find that David is more dangerous and unstable than she&#39;d realized.
 
@@ -91,7 +91,7 @@ Ellie tries to mend her marriage with her husband Marcus after a brief encounter
 	
 
 ### Father Soldier Son
-*Released on 2020-07-17, vote average 7.3*
+*Released on 2020-07-17, vote average 5.2*
 
 When Sgt. First Class Brian Eisch is critically wounded in Afghanistan, it sets him and his sons on a journey of love, loss, redemption and legacy.
 
@@ -100,28 +100,6 @@ When Sgt. First Class Brian Eisch is critically wounded in Afghanistan, it sets 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/Xd8LZEaXszM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Scoob!
-*Released on 2020-07-08, vote average 8*
-
-In Scooby-Doo’s greatest adventure yet, see the never-before told story of how lifelong friends Scooby and Shaggy first met and how they joined forces with young detectives Fred, Velma, and Daphne to form the famous Mystery Inc. Now, with hundreds of cases solved, Scooby and the gang face their biggest, toughest mystery ever: an evil plot to unleash the ghost dog Cerberus upon the world. As they race to stop this global “dogpocalypse,” the gang discovers that Scooby has a secret legacy and an epic destiny greater than anyone ever imagined.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-BgWppq25xI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -142,7 +120,7 @@ In Scooby-Doo’s greatest adventure yet, see the never-before told story of how
 	
 
 ### Peninsula
-*Released on 2020-07-15, vote average 6.8*
+*Released on 2020-07-15, vote average 6*
 
 Peninsula takes place four years after Train to Busan as the characters fight to escape the land that is in ruins due to an unprecedented disaster.
 
@@ -163,8 +141,30 @@ Peninsula takes place four years after Train to Busan as the characters fight to
 	
 	
 
+### Scoob!
+*Released on 2020-07-08, vote average 7.9*
+
+In Scooby-Doo’s greatest adventure yet, see the never-before told story of how lifelong friends Scooby and Shaggy first met and how they joined forces with young detectives Fred, Velma, and Daphne to form the famous Mystery Inc. Now, with hundreds of cases solved, Scooby and the gang face their biggest, toughest mystery ever: an evil plot to unleash the ghost dog Cerberus upon the world. As they race to stop this global “dogpocalypse,” the gang discovers that Scooby has a secret legacy and an epic destiny greater than anyone ever imagined.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-BgWppq25xI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### A Nice Girl Like You
-*Released on 2020-07-18, vote average 7.7*
+*Released on 2020-07-18, vote average 6.8*
 
 Lucy Neal is thrown for a loop when she is accused of being too inhibited by her ex-boyfriend. In an effort to prove him wrong, Lucy creates a rather wild to-do list that sends her on a whirlwind and surprising journey of self-discovery, friendship, and new love.
 
@@ -185,8 +185,37 @@ Lucy Neal is thrown for a loop when she is accused of being too inhibited by her
 	
 	
 
+### The King of Staten Island
+*Released on 2020-07-22, vote average 7.5*
+
+Scott has been a case of arrested development ever since his firefighter father died when he was seven. He’s now reached his mid-20s having achieved little, chasing a dream of becoming a tattoo artist that seems far out of reach. As his ambitious younger sister heads off to college, Scott is still living with his exhausted ER nurse mother and spends his days smoking weed, hanging with the guys — Oscar, Igor and Richie — and secretly hooking up with his childhood friend Kelsey. But when his mother starts dating a loudmouth firefighter named Ray, it sets off a chain of events that will force Scott to grapple with his grief and take his first tentative steps toward moving forward in life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/azkVr0VUSTA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
 ### Survive the Night
-*Released on 2020-07-09, vote average 5.9*
+*Released on 2020-07-09, vote average 6.2*
 
 A disgraced doctor and his family are held hostage at their home by criminals on the run, when a robbery-gone-awry requires them to seek immediate medical attention.
 
@@ -195,6 +224,28 @@ A disgraced doctor and his family are held hostage at their home by criminals on
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/XVHReeBQFtA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Jack Whitehall: I&#39;m Only Joking
+*Released on 2020-07-21, vote average 1*
+
+Jack Whitehall hits the stage with hilarious tales about happy couples, life in hotels, human stupidity and his well-traveled father.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kxJR6AptQ_E?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -250,6 +301,31 @@ After Santa Barbara Police Chief Carlton Lassiter is ambushed and left for dead,
 
 	
 	
+
+### The Silencing
+*Released on 2020-07-18, vote average 6*
+
+A reformed hunter becomes involved in a deadly game of cat and mouse when he and the local sheriff set out to track a vicious killer who may have kidnapped his daughter years ago.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/v1rQOLis1P0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -268,55 +344,6 @@ From campy lies to sexy surprises, this collection of vignettes captures the fol
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/BHGsRdu3XlM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Starfish
-*Released on 2020-07-17, vote average 5.7*
-
-A unique, intimate and honest portrayal of a girl grieving for the loss of her best friend. That just happens to take place on the day the world ends as we know it.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/l-MzHGRVG4k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Jack Whitehall: I&#39;m Only Joking
-*Released on 2020-07-21, vote average 1*
-
-Jack Whitehall hits the stage with hilarious tales about happy couples, life in hotels, human stupidity and his well-traveled father.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kxJR6AptQ_E?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -353,18 +380,6 @@ The 47-year old Al Capone, after 10 years in prison, starts suffering from demen
   
 
 
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -373,7 +388,7 @@ The 47-year old Al Capone, after 10 years in prison, starts suffering from demen
 	
 
 ### The King of Staten Island
-*Released on 2020-07-22, vote average 6.5*
+*Released on 2020-07-22, vote average 7.5*
 
 Scott has been a case of arrested development ever since his firefighter father died when he was seven. He’s now reached his mid-20s having achieved little, chasing a dream of becoming a tattoo artist that seems far out of reach. As his ambitious younger sister heads off to college, Scott is still living with his exhausted ER nurse mother and spends his days smoking weed, hanging with the guys — Oscar, Igor and Richie — and secretly hooking up with his childhood friend Kelsey. But when his mother starts dating a loudmouth firefighter named Ray, it sets off a chain of events that will force Scott to grapple with his grief and take his first tentative steps toward moving forward in life.
 
@@ -391,16 +406,56 @@ Scott has been a case of arrested development ever since his firefighter father 
 	
 	
 
-### Jack Whitehall: I&#39;m Only Joking
-*Released on 2020-07-21, vote average 1*
+### Becky
+*Released on 2020-07-23, vote average 6.3*
 
-Jack Whitehall hits the stage with hilarious tales about happy couples, life in hotels, human stupidity and his well-traveled father.
+A teenager&#39;s weekend at a lake house with her father takes a turn for the worse when a group of convicts wreaks havoc on their lives.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/kxJR6AptQ_E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/LQAJ5QvD8BA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+	
+
+### The Kissing Booth 2
+*Released on 2020-07-24, vote average 10*
+
+Following the love adventures of Elle, Noah, and Lee.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_Br5Sm6sf24?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### The Rental
+*Released on 2020-07-23, vote average 7*
+
+Two couples rent a vacation home for what should be a celebratory weekend get-away.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FYMl2AMdShE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -414,23 +469,6 @@ Jack Whitehall hits the stage with hilarious tales about happy couples, life in 
 	
 
 	
-	
-
-### Yes, God, Yes
-*Released on 2020-07-24, vote average 9*
-
-Alice, a young innocent Catholic girl, is tempted into masturbating after an AOL chat suddenly turns sexual, however is conflicted as the act would be considered a sin.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/YNqnUv7uY_A?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
@@ -453,11 +491,7 @@ Alice, a young innocent Catholic girl, is tempted into masturbating after an AOL
 	
 
 	
-
 	
-
-	
-
 	
 
 
