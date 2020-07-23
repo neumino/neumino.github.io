@@ -69,7 +69,7 @@ A first-time captain leads a convoy of allied ships carrying thousands of soldie
 	
 
 ### Fatal Affair
-*Released on 2020-07-16, vote average 4.9*
+*Released on 2020-07-16, vote average 5*
 
 Ellie tries to mend her marriage with her husband Marcus after a brief encounter with an old friend, David, only to find that David is more dangerous and unstable than she&#39;d realized.
 
@@ -91,7 +91,7 @@ Ellie tries to mend her marriage with her husband Marcus after a brief encounter
 	
 
 ### Father Soldier Son
-*Released on 2020-07-17, vote average 5.2*
+*Released on 2020-07-17, vote average 5.3*
 
 When Sgt. First Class Brian Eisch is critically wounded in Afghanistan, it sets him and his sons on a journey of love, loss, redemption and legacy.
 
@@ -111,16 +111,9 @@ When Sgt. First Class Brian Eisch is critically wounded in Afghanistan, it sets 
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Peninsula
-*Released on 2020-07-15, vote average 6*
+*Released on 2020-07-15, vote average 5.4*
 
 Peninsula takes place four years after Train to Busan as the characters fight to escape the land that is in ruins due to an unprecedented disaster.
 
@@ -140,43 +133,6 @@ Peninsula takes place four years after Train to Busan as the characters fight to
 
 	
 	
-
-### Scoob!
-*Released on 2020-07-08, vote average 7.9*
-
-In Scooby-Doo’s greatest adventure yet, see the never-before told story of how lifelong friends Scooby and Shaggy first met and how they joined forces with young detectives Fred, Velma, and Daphne to form the famous Mystery Inc. Now, with hundreds of cases solved, Scooby and the gang face their biggest, toughest mystery ever: an evil plot to unleash the ghost dog Cerberus upon the world. As they race to stop this global “dogpocalypse,” the gang discovers that Scooby has a secret legacy and an epic destiny greater than anyone ever imagined.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-BgWppq25xI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### A Nice Girl Like You
-*Released on 2020-07-18, vote average 6.8*
-
-Lucy Neal is thrown for a loop when she is accused of being too inhibited by her ex-boyfriend. In an effort to prove him wrong, Lucy creates a rather wild to-do list that sends her on a whirlwind and surprising journey of self-discovery, friendship, and new love.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-Wjjo30JJck?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -195,35 +151,6 @@ Scott has been a case of arrested development ever since his firefighter father 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/azkVr0VUSTA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Survive the Night
-*Released on 2020-07-09, vote average 6.2*
-
-A disgraced doctor and his family are held hostage at their home by criminals on the run, when a robbery-gone-awry requires them to seek immediate medical attention.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XVHReeBQFtA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -258,50 +185,6 @@ Jack Whitehall hits the stage with hilarious tales about happy couples, life in 
 	
 	
 
-### Unhinged
-*Released on 2020-07-16, vote average 8.3*
-
-A case of road rage turns into full-blown terror when an unstable driver follows a woman and her son.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3xIO18Du5aY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Psych 2: Lassie Come Home
-*Released on 2020-07-15, vote average 7.3*
-
-After Santa Barbara Police Chief Carlton Lassiter is ambushed and left for dead, Shawn and Gus return to help him and find themselves embroiled in a case involving the personal, the professional—and even the supernatural.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/HsItWo7eF5s?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Silencing
 *Released on 2020-07-18, vote average 6*
 
@@ -322,28 +205,62 @@ A reformed hunter becomes involved in a deadly game of cat and mouse when he and
 
 
 	
-
-  
-
-
 	
 
-  
+### A Nice Girl Like You
+*Released on 2020-07-18, vote average 6.2*
 
-
-	
-	
-
-### The Players
-*Released on 2020-07-15, vote average 4.1*
-
-From campy lies to sexy surprises, this collection of vignettes captures the follies of several men as they fumble with fidelity and relationships.
+Lucy Neal is thrown for a loop when she is accused of being too inhibited by her ex-boyfriend. In an effort to prove him wrong, Lucy creates a rather wild to-do list that sends her on a whirlwind and surprising journey of self-discovery, friendship, and new love.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/BHGsRdu3XlM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-Wjjo30JJck?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Becky
+*Released on 2020-07-23, vote average 5.7*
+
+A teenager&#39;s weekend at a lake house with her father takes a turn for the worse when a group of convicts wreaks havoc on their lives.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LQAJ5QvD8BA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Rental
+*Released on 2020-07-23, vote average 7*
+
+Two couples rent a vacation home for what should be a celebratory weekend get-away.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FYMl2AMdShE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -361,16 +278,82 @@ From campy lies to sexy surprises, this collection of vignettes captures the fol
 	
 	
 
-### Capone
-*Released on 2020-07-10, vote average 5.2*
+### Survive the Night
+*Released on 2020-07-09, vote average 6.3*
 
-The 47-year old Al Capone, after 10 years in prison, starts suffering from dementia and comes to be haunted by his violent past.
+A disgraced doctor and his family are held hostage at their home by criminals on the run, when a robbery-gone-awry requires them to seek immediate medical attention.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/LHYlKQSc7rA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/XVHReeBQFtA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Unhinged
+*Released on 2020-07-16, vote average 8.2*
+
+A case of road rage turns into full-blown terror when an unstable driver follows a woman and her son.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3xIO18Du5aY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### American Fighter
+*Released on 2020-07-20, vote average 5.3*
+
+A desperate teenager is forced into the dangerous world of underground fighting to win enough money to save his ailing mother. He finds out what he&#39;s made of in the face of these violent hungry competitors.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FmtMIwa7vMc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -387,27 +370,8 @@ The 47-year old Al Capone, after 10 years in prison, starts suffering from demen
 	
 	
 
-### The King of Staten Island
-*Released on 2020-07-22, vote average 7.5*
-
-Scott has been a case of arrested development ever since his firefighter father died when he was seven. He’s now reached his mid-20s having achieved little, chasing a dream of becoming a tattoo artist that seems far out of reach. As his ambitious younger sister heads off to college, Scott is still living with his exhausted ER nurse mother and spends his days smoking weed, hanging with the guys — Oscar, Igor and Richie — and secretly hooking up with his childhood friend Kelsey. But when his mother starts dating a loudmouth firefighter named Ray, it sets off a chain of events that will force Scott to grapple with his grief and take his first tentative steps toward moving forward in life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/azkVr0VUSTA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
 ### Becky
-*Released on 2020-07-23, vote average 6.3*
+*Released on 2020-07-23, vote average 5.7*
 
 A teenager&#39;s weekend at a lake house with her father takes a turn for the worse when a group of convicts wreaks havoc on their lives.
 
@@ -416,27 +380,6 @@ A teenager&#39;s weekend at a lake house with her father takes a turn for the wo
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/LQAJ5QvD8BA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-	
-
-### The Kissing Booth 2
-*Released on 2020-07-24, vote average 10*
-
-Following the love adventures of Elle, Noah, and Lee.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/_Br5Sm6sf24?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -465,6 +408,23 @@ Two couples rent a vacation home for what should be a celebratory weekend get-aw
 	
 
 	
+	
+
+### The Kissing Booth 2
+*Released on 2020-07-24, vote average 8*
+
+Following the love adventures of Elle, Noah, and Lee.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_Br5Sm6sf24?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
@@ -492,6 +452,12 @@ Two couples rent a vacation home for what should be a celebratory weekend get-aw
 
 	
 	
+	
+
+	
+
+	
+
 	
 
 
