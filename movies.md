@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### The Old Guard
-*Released on 2020-07-10, vote average 7.4*
+### Fatal Affair
+*Released on 2020-07-16, vote average 5.1*
 
-Four undying warriors who&#39;ve secretly protected humanity for centuries become targeted for their mysterious powers just as they discover a new immortal.
+Ellie tries to mend her marriage with her husband Marcus after a brief encounter with an old friend, David, only to find that David is more dangerous and unstable than she&#39;d realized.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/aK-X2d0lJ_s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/bxWPPrDpqr8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,74 +46,8 @@ Four undying warriors who&#39;ve secretly protected humanity for centuries becom
 	
 	
 
-### Greyhound
-*Released on 2020-07-10, vote average 7.5*
-
-A first-time captain leads a convoy of allied ships carrying thousands of soldiers across the treacherous waters of the “Black Pit” to the front lines of WW2. With no air cover protection for 5 days, the captain and his convoy must battle the surrounding enemy Nazi U-boats in order to give the allies a chance to win the war.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/eyzxu26-Wqk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Fatal Affair
-*Released on 2020-07-16, vote average 5.2*
-
-Ellie tries to mend her marriage with her husband Marcus after a brief encounter with an old friend, David, only to find that David is more dangerous and unstable than she&#39;d realized.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/bxWPPrDpqr8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Father Soldier Son
-*Released on 2020-07-17, vote average 5.3*
-
-When Sgt. First Class Brian Eisch is critically wounded in Afghanistan, it sets him and his sons on a journey of love, loss, redemption and legacy.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Xd8LZEaXszM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Peninsula
-*Released on 2020-07-15, vote average 5.9*
+*Released on 2020-07-15, vote average 6.3*
 
 Peninsula takes place four years after Train to Busan as the characters fight to escape the land that is in ruins due to an unprecedented disaster.
 
@@ -133,13 +67,6 @@ Peninsula takes place four years after Train to Busan as the characters fight to
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Becky
 *Released on 2020-07-23, vote average 4.9*
@@ -151,28 +78,6 @@ A teenager&#39;s weekend at a lake house with her father takes a turn for the wo
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/LQAJ5QvD8BA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The King of Staten Island
-*Released on 2020-07-22, vote average 7.6*
-
-Scott has been a case of arrested development ever since his firefighter father died when he was seven. He’s now reached his mid-20s having achieved little, chasing a dream of becoming a tattoo artist that seems far out of reach. As his ambitious younger sister heads off to college, Scott is still living with his exhausted ER nurse mother and spends his days smoking weed, hanging with the guys — Oscar, Igor and Richie — and secretly hooking up with his childhood friend Kelsey. But when his mother starts dating a loudmouth firefighter named Ray, it sets off a chain of events that will force Scott to grapple with his grief and take his first tentative steps toward moving forward in life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/azkVr0VUSTA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -205,6 +110,35 @@ Two couples rent a vacation home for what should be a celebratory weekend get-aw
 
 
 	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Kissing Booth 2
+*Released on 2020-07-24, vote average 8.7*
+
+High school senior Elle juggles a long-distance relationship with her dreamy boyfriend Noah, college applications, and a new friendship with a handsome classmate that could change everything.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_Br5Sm6sf24?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -232,23 +166,18 @@ A reformed hunter becomes involved in a deadly game of cat and mouse when he and
 
 
 	
-
-  
-
-
-	
 	
 
-### The Kissing Booth 2
-*Released on 2020-07-24, vote average 8*
+### Father Soldier Son
+*Released on 2020-07-17, vote average 5.3*
 
-Following the love adventures of Elle, Noah, and Lee.
+When Sgt. First Class Brian Eisch is critically wounded in Afghanistan, it sets him and his sons on a journey of love, loss, redemption and legacy.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/_Br5Sm6sf24?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Xd8LZEaXszM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -266,20 +195,45 @@ Following the love adventures of Elle, Noah, and Lee.
 	
 	
 
-### Jack Whitehall: I&#39;m Only Joking
-*Released on 2020-07-21, vote average 3.5*
+### The King of Staten Island
+*Released on 2020-07-22, vote average 7.9*
 
-Jack Whitehall hits the stage with hilarious tales about happy couples, life in hotels, human stupidity and his well-traveled father.
+Scott has been a case of arrested development ever since his firefighter father died when he was seven. He’s now reached his mid-20s having achieved little, chasing a dream of becoming a tattoo artist that seems far out of reach. As his ambitious younger sister heads off to college, Scott is still living with his exhausted ER nurse mother and spends his days smoking weed, hanging with the guys — Oscar, Igor and Richie — and secretly hooking up with his childhood friend Kelsey. But when his mother starts dating a loudmouth firefighter named Ray, it sets off a chain of events that will force Scott to grapple with his grief and take his first tentative steps toward moving forward in life.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/kxJR6AptQ_E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/azkVr0VUSTA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -294,7 +248,7 @@ Jack Whitehall hits the stage with hilarious tales about happy couples, life in 
 	
 
 ### Arkansas
-*Released on 2020-07-16, vote average 4.7*
+*Released on 2020-07-16, vote average 6*
 
 Kyle and Swin live by the orders of an Arkansas-based drug kingpin named Frog, whom they&#39;ve never met. But when a deal goes horribly wrong, the consequences are deadly.
 
@@ -313,23 +267,18 @@ Kyle and Swin live by the orders of an Arkansas-based drug kingpin named Frog, w
 
 
 	
-
-  
-
-
-	
 	
 
-### American Fighter
-*Released on 2020-07-20, vote average 5.3*
+### Unhinged
+*Released on 2020-07-16, vote average 8.2*
 
-A desperate teenager is forced into the dangerous world of underground fighting to win enough money to save his ailing mother. He finds out what he&#39;s made of in the face of these violent hungry competitors.
+A case of road rage turns into full-blown terror when an unstable driver follows a woman and her son.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/FmtMIwa7vMc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/3xIO18Du5aY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -349,23 +298,6 @@ A desperate teenager is forced into the dangerous world of underground fighting 
 
 
 	
-	
-
-### The Kissing Booth 2
-*Released on 2020-07-24, vote average 8*
-
-Following the love adventures of Elle, Noah, and Lee.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/_Br5Sm6sf24?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
@@ -383,8 +315,6 @@ Following the love adventures of Elle, Noah, and Lee.
 
 	
 
-	
-	
 	
 
 	
