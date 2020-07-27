@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Rental
-*Released on 2020-07-23, vote average 6.2*
+*Released on 2020-07-23, vote average 5.8*
 
 Two couples rent a vacation home for what should be a celebratory weekend get-away.
 
@@ -45,13 +45,6 @@ Two couples rent a vacation home for what should be a celebratory weekend get-aw
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### The Kissing Booth 2
 *Released on 2020-07-24, vote average 8.4*
@@ -63,6 +56,72 @@ High school senior Elle juggles a long-distance relationship with her dreamy boy
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/_Br5Sm6sf24?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Larva Island Movie
+*Released on 2020-07-23, vote average 8*
+
+Back at home, Chuck relates the island shenanigans of his larva pals Red and Yellow to a skeptical reporter in this movie sequel to the hit cartoon.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/BlNyQk2W83k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Offering to the Storm
+*Released on 2020-07-24, vote average 5.4*
+
+Inspector Amaia Salazar confronts the origins of her nightmares as she unfolds the darkest secrets of the Baztan valley. Part 3 in the Baztan Trilogy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/btpK02HkGps?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Big Ugly
+*Released on 2020-07-24, vote average 5.7*
+
+Neeyln has always been the loyal enforcer for crime boss Harris back in London, taking care of problems and people that disrupt his illicit business. When Harris strikes a deal with an old friend -- American oilman Preston -- they find themselves in the wild hills of West Virginia. Contracts are signed and the whiskey flows in celebration, but overnight Neelyn&#39;s girlfriend disappears, last seen with Preston&#39;s wayward son Junior. Lines are drawn between family and friends, but nothing will stop Neelyn from getting answers -- and retribution.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/AYZdyNo1GWM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -97,38 +156,16 @@ Peninsula takes place four years after Train to Busan as the characters fight to
 	
 	
 
-### Fatal Affair
-*Released on 2020-07-16, vote average 5.3*
+### Dil Bechara
+*Released on 2020-07-24, vote average 8.5*
 
-Ellie tries to mend her marriage with her husband Marcus after a brief encounter with an old friend, David, only to find that David is more dangerous and unstable than she&#39;d realized.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/bxWPPrDpqr8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Offering to the Storm
-*Released on 2020-07-24, vote average 5.5*
-
-Inspector Amaia Salazar confronts the origins of her nightmares as she unfolds the darkest secrets of the Baztan valley. Part 3 in the Baztan Trilogy.
+Kizie and Manny, two ordinary people brought together by a tragic twist, embark on a bittersweet and extraordinary journey into the heart of that crazy little thing called &#39;life&#39;.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/btpK02HkGps?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/PMCu0JtizCk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -142,7 +179,7 @@ Inspector Amaia Salazar confronts the origins of her nightmares as she unfolds t
 	
 
 ### Becky
-*Released on 2020-07-23, vote average 3.6*
+*Released on 2020-07-23, vote average 4.8*
 
 A teenager&#39;s weekend at a lake house with her father takes a turn for the worse when a group of convicts wreaks havoc on their lives.
 
@@ -161,11 +198,33 @@ A teenager&#39;s weekend at a lake house with her father takes a turn for the wo
 
 
 	
+	
+	
 
   
 
 
 	
+
+  
+
+
+	
+	
+
+### Fatal Affair
+*Released on 2020-07-16, vote average 5.3*
+
+Ellie tries to mend her marriage with her husband Marcus after a brief encounter with an old friend, David, only to find that David is more dangerous and unstable than she&#39;d realized.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/bxWPPrDpqr8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -196,9 +255,16 @@ A reformed hunter becomes involved in a deadly game of cat and mouse when he and
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### The King of Staten Island
-*Released on 2020-07-22, vote average 6.8*
+*Released on 2020-07-22, vote average 7.2*
 
 Scott has been a case of arrested development ever since his firefighter father died when he was seven. He’s now reached his mid-20s having achieved little, chasing a dream of becoming a tattoo artist that seems far out of reach. As his ambitious younger sister heads off to college, Scott is still living with his exhausted ER nurse mother and spends his days smoking weed, hanging with the guys — Oscar, Igor and Richie — and secretly hooking up with his childhood friend Kelsey. But when his mother starts dating a loudmouth firefighter named Ray, it sets off a chain of events that will force Scott to grapple with his grief and take his first tentative steps toward moving forward in life.
 
@@ -219,30 +285,8 @@ Scott has been a case of arrested development ever since his firefighter father 
 	
 	
 
-### Dil Bechara
-*Released on 2020-07-24, vote average 8*
-
-Kizie and Manny, two ordinary people brought together by a tragic twist, embark on a bittersweet and extraordinary journey into the heart of that crazy little thing called &#39;life&#39;.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/PMCu0JtizCk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Father Soldier Son
-*Released on 2020-07-17, vote average 5.3*
+*Released on 2020-07-17, vote average 5.6*
 
 When Sgt. First Class Brian Eisch is critically wounded in Afghanistan, it sets him and his sons on a journey of love, loss, redemption and legacy.
 
@@ -261,27 +305,22 @@ When Sgt. First Class Brian Eisch is critically wounded in Afghanistan, it sets 
 
 
 	
-
-  
-
-
-	
-	
 	
 
-  
+### The Very Excellent Mr. Dundee
+*Released on 2020-07-17, vote average 5.5*
 
+Paul tries to restore his sullied reputation on the eve of being knighted.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/x61_6wfcrS4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -314,6 +353,35 @@ A case of road rage turns into full-blown terror when an unstable driver follows
   
 
 
+	
+	
+
+### Arkansas
+*Released on 2020-07-16, vote average 6*
+
+Kyle and Swin live by the orders of an Arkansas-based drug kingpin named Frog, whom they&#39;ve never met. But when a deal goes horribly wrong, the consequences are deadly.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/y4-Y2KIDNmE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -334,6 +402,8 @@ A case of road rage turns into full-blown terror when an unstable driver follows
 
 	
 
+	
+	
 	
 
 	
