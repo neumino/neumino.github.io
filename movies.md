@@ -15,7 +15,7 @@ This is a convenient page that embeds trailers of movies released in the past
 ### The Kissing Booth 2
 *Released on 2020-07-24, vote average 8.3*
 
-High school senior Elle juggles a long-distance relationship with her dreamy boyfriend Noah, college applications, and a new friendship with a handsome classmate that could change everything.
+With college decisions looming, Elle juggles her long-distance romance with Noah, changing relationship with bestie Lee and feelings for a new classmate.
 
 <iframe id="player"
 	type="text/html"
@@ -69,7 +69,7 @@ Two couples on an oceanside getaway grow suspicious that the host of their seemi
 	
 
 ### Offering to the Storm
-*Released on 2020-07-24, vote average 6.4*
+*Released on 2020-07-24, vote average 6.5*
 
 Inspector Amaia Salazar confronts the origins of her nightmares as she unfolds the darkest secrets of the Baztan valley. Part 3 in the Baztan Trilogy.
 
@@ -110,18 +110,23 @@ Back at home, Chuck relates the island shenanigans of his larva pals Red and Yel
 
 
 	
+
+  
+
+
+	
 	
 
-### Becky
-*Released on 2020-07-23, vote average 4.1*
+### Cut Throat City
+*Released on 2020-07-30, vote average 5.5*
 
-A teenager&#39;s weekend at a lake house with her father takes a turn for the worse when a group of convicts wreaks havoc on their lives.
+Four boyhood friends return to New Orleans’ Lower Ninth Ward after Hurricane Katrina, to find their home decimated and prospects for work swept away. Turning to a local gangster for employment, the crew is hired to pull off a daring casino heist, right in the heart of the city.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/LQAJ5QvD8BA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/qCcVIZUVGZA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -135,7 +140,7 @@ A teenager&#39;s weekend at a lake house with her father takes a turn for the wo
 	
 
 ### The Silencing
-*Released on 2020-07-18, vote average 6.8*
+*Released on 2020-07-18, vote average 6.7*
 
 A reformed hunter becomes involved in a deadly game of cat and mouse when he and the local sheriff set out to track a vicious killer who may have kidnapped his daughter years ago.
 
@@ -156,20 +161,25 @@ A reformed hunter becomes involved in a deadly game of cat and mouse when he and
 	
 	
 
-### Think Like a Dog
-*Released on 2020-07-30, vote average 7.4*
+### Becky
+*Released on 2020-07-23, vote average 4.3*
 
-A 12-year-old tech prodigy whose science experiment goes awry and he forges a telepathic connection with his best friend, his dog. The duo join forces and use their unique perspectives on life to comically overcome complications of family and school.
+A teenager&#39;s weekend at a lake house with her father takes a turn for the worse when a group of convicts wreaks havoc on their lives.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/s3_5WZSOsn8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/LQAJ5QvD8BA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -179,7 +189,7 @@ A 12-year-old tech prodigy whose science experiment goes awry and he forges a te
 	
 
 ### Amulet
-*Released on 2020-07-24, vote average 6*
+*Released on 2020-07-24, vote average 6.1*
 
 Tomaz, an ex-soldier now homeless in London, is offered a place to stay at a decaying house, inhabited by a young woman and her dying mother. As he starts to fall for Magda, Tomaz cannot ignore his suspicion that something insidious might also be living alongside them.
 
@@ -188,50 +198,6 @@ Tomaz, an ex-soldier now homeless in London, is offered a place to stay at a dec
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/1ktazQubuXE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Fatal Affair
-*Released on 2020-07-16, vote average 5.4*
-
-Ellie tries to mend her marriage with her husband Marcus after a brief encounter with an old friend, David, only to find that David is more dangerous and unstable than she&#39;d realized.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/bxWPPrDpqr8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The King of Staten Island
-*Released on 2020-07-22, vote average 6.1*
-
-Scott has been a case of arrested development ever since his firefighter father died when he was seven. He’s now reached his mid-20s having achieved little, chasing a dream of becoming a tattoo artist that seems far out of reach. As his ambitious younger sister heads off to college, Scott is still living with his exhausted ER nurse mother and spends his days smoking weed, hanging with the guys — Oscar, Igor and Richie — and secretly hooking up with his childhood friend Kelsey. But when his mother starts dating a loudmouth firefighter named Ray, it sets off a chain of events that will force Scott to grapple with his grief and take his first tentative steps toward moving forward in life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/azkVr0VUSTA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -278,16 +244,16 @@ Neeyln has always been the loyal enforcer for crime boss Harris back in London, 
 	
 	
 
-### Cut Throat City
-*Released on 2020-07-30, vote average 1*
+### The King of Staten Island
+*Released on 2020-07-22, vote average 6.5*
 
-Four boyhood friends return to New Orleans’ Lower Ninth Ward after Hurricane Katrina, to find their home decimated and prospects for work swept away. Turning to a local gangster for employment, the crew is hired to pull off a daring casino heist, right in the heart of the city.
+Scott has been a case of arrested development ever since his firefighter father died when he was seven. He’s now reached his mid-20s having achieved little, chasing a dream of becoming a tattoo artist that seems far out of reach. As his ambitious younger sister heads off to college, Scott is still living with his exhausted ER nurse mother and spends his days smoking weed, hanging with the guys — Oscar, Igor and Richie — and secretly hooking up with his childhood friend Kelsey. But when his mother starts dating a loudmouth firefighter named Ray, it sets off a chain of events that will force Scott to grapple with his grief and take his first tentative steps toward moving forward in life.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/qCcVIZUVGZA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/azkVr0VUSTA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -297,8 +263,6 @@ Four boyhood friends return to New Orleans’ Lower Ninth Ward after Hurricane K
   
 
 
-	
-	
 	
 
   
@@ -327,6 +291,8 @@ Kizie and Manny, two ordinary people brought together by a tragic twist, embark 
 
 
 	
+	
+	
 
   
 
@@ -337,12 +303,12 @@ Kizie and Manny, two ordinary people brought together by a tragic twist, embark 
 
 
 	
+	
+	
 
   
 
 
-	
-	
 	
 
   
@@ -356,7 +322,7 @@ Kizie and Manny, two ordinary people brought together by a tragic twist, embark 
 	
 
 ### Think Like a Dog
-*Released on 2020-07-30, vote average 7.4*
+*Released on 2020-08-06, vote average 7.4*
 
 A 12-year-old tech prodigy whose science experiment goes awry and he forges a telepathic connection with his best friend, his dog. The duo join forces and use their unique perspectives on life to comically overcome complications of family and school.
 
@@ -374,30 +340,24 @@ A 12-year-old tech prodigy whose science experiment goes awry and he forges a te
 	
 
 	
+
+	
 	
 
-### Cut Throat City
-*Released on 2020-07-30, vote average 1*
+### Legacy of Lies
+*Released on 2020-08-06, vote average 5*
 
-Four boyhood friends return to New Orleans’ Lower Ninth Ward after Hurricane Katrina, to find their home decimated and prospects for work swept away. Turning to a local gangster for employment, the crew is hired to pull off a daring casino heist, right in the heart of the city.
+An ex-MI6 agent is thrown back into the world of espionage and high stakes to uncover the shocking truth about operations conducted by unknown secret services.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/qCcVIZUVGZA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Oip39g3bWrA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
 	
 
 	
@@ -421,6 +381,12 @@ Nory and her best friend Reina enter the Sage Academy for Magical Studies, where
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
 	
 
 	
