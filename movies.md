@@ -47,7 +47,7 @@ With college decisions looming, Elle juggles her long-distance romance with Noah
 	
 
 ### The Rental
-*Released on 2020-07-23, vote average 5.3*
+*Released on 2020-07-23, vote average 5.5*
 
 Two couples on an oceanside getaway grow suspicious that the host of their seemingly perfect rental house may be spying on them. Before long, what should have been a celebratory weekend trip turns into something far more sinister.
 
@@ -66,15 +66,10 @@ Two couples on an oceanside getaway grow suspicious that the host of their seemi
 
 
 	
-
-  
-
-
-	
 	
 
 ### Black Is King
-*Released on 2020-07-31, vote average 7*
+*Released on 2020-07-31, vote average 8.6*
 
 This visual album from Beyoncé reimagines the lessons of &#34;The Lion King&#34; (2019) for today’s young kings and queens in search of their own crowns.
 
@@ -87,6 +82,33 @@ This visual album from Beyoncé reimagines the lessons of &#34;The Lion King&#34
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Seriously Single
+*Released on 2020-07-31, vote average 4.8*
+
+While her free-living bestie urges her to embrace singlehood, a commitment-craving social media expert can&#39;t stop following the life of a former love.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/V2SVIVkP2_U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -117,19 +139,48 @@ Inspector Amaia Salazar confronts the origins of her nightmares as she unfolds t
 	
 	
 
-### Seriously Single
-*Released on 2020-07-31, vote average 2*
+### Gabriel&#39;s Inferno Part II
+*Released on 2020-07-31, vote average 9.5*
 
-While her free-living bestie urges her to embrace singlehood, a commitment-craving social media expert can&#39;t stop following the life of a former love.
+The second film’s plot follows Professor Gabriel Emerson (Berruti) on a passionate, yet clandestine affair in Italy with his former student Julia Mitchell (Zanetti); but when they return to Toronto, their happiness is threatened by conspiring students, academic politics, and a jealous ex-lover.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/V2SVIVkP2_U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/5g02v1oz5Y0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+	
+
+### Upside-Down Magic
+*Released on 2020-07-31, vote average 7*
+
+Nory and her best friend Reina enter the Sage Academy for Magical Studies, where Nory’s unconventional powers land her in a class for those with wonky, or “upside-down,” magic. Undaunted, Nory sets out to prove that that upside-down magic can be just as powerful as right-side-up.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/TUyqi_vEcsE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -140,7 +191,7 @@ While her free-living bestie urges her to embrace singlehood, a commitment-cravi
 	
 
 ### Becky
-*Released on 2020-07-23, vote average 4.2*
+*Released on 2020-07-23, vote average 4.1*
 
 A teenager&#39;s weekend at a lake house with her father takes a turn for the worse when a group of convicts wreaks havoc on their lives.
 
@@ -149,28 +200,6 @@ A teenager&#39;s weekend at a lake house with her father takes a turn for the wo
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/LQAJ5QvD8BA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Host
-*Released on 2020-07-30, vote average 5*
-
-Six friends hire a medium to hold a séance via Zoom during lockdown — but they get far more than they bargained for as things quickly go wrong. When an evil spirit starts invading their homes, they begin to realize they might not survive the night.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/SNlKbqHqGcY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -203,23 +232,6 @@ Scott has been a case of arrested development ever since his firefighter father 
 
 
 	
-	
-
-### Shakuntala Devi
-*Released on 2020-07-31, vote average 6*
-
-Based on the life of Shakuntala Devi who is a well-known mathematical genius and calculating progidy from India. She has been nicknamed &#39;Human Computer&#39; because of her extraordinary talent and skill in solving complex mathematical problems without any mechanical aid.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/BvHVK6SJbR4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -232,16 +244,16 @@ Based on the life of Shakuntala Devi who is a well-known mathematical genius and
 	
 	
 
-### Lootcase
-*Released on 2020-07-31, vote average 9*
+### Deep Blue Sea 3
+*Released on 2020-07-28, vote average 6.7*
 
-Nandan Kumar comes across a suitcase and discovers it is full of cash. He takes the suitcase and soon finds himself being chased by a notorious gangster, an honest cop and a minister, who want the suitcase at any cost.
+Dr. Emma Collins and her team are spending their third summer on the island of Little Happy studying the effect of climate change on the great white sharks who come to the nearby nursery every year to give birth. Along with the last two inhabitants of this former fishing village, their peaceful life is disrupted when a &#34;scientific&#34; team led by her ex-boyfriend and marine biologist Richard show up looking for three bull sharks who we soon learn aren&#39;t just any bull sharks.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/muGyBhBCjzI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/7pT7Hhpoemc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -254,67 +266,16 @@ Nandan Kumar comes across a suitcase and discovers it is full of cash. He takes 
 	
 	
 
-### Upside-Down Magic
-*Released on 2020-07-31, vote average 6.5*
+### Host
+*Released on 2020-07-30, vote average 5.8*
 
-Nory and her best friend Reina enter the Sage Academy for Magical Studies, where Nory’s unconventional powers land her in a class for those with wonky, or “upside-down,” magic. Undaunted, Nory sets out to prove that that upside-down magic can be just as powerful as right-side-up.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/TUyqi_vEcsE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Gabriel&#39;s Inferno Part II
-*Released on 2020-07-31, vote average 9*
-
-The second film’s plot follows Professor Gabriel Emerson (Berruti) on a passionate, yet clandestine affair in Italy with his former student Julia Mitchell (Zanetti); but when they return to Toronto, their happiness is threatened by conspiring students, academic politics, and a jealous ex-lover.
+Six friends hire a medium to hold a séance via Zoom during lockdown — but they get far more than they bargained for as things quickly go wrong. When an evil spirit starts invading their homes, they begin to realize they might not survive the night.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/5g02v1oz5Y0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Cut Throat City
-*Released on 2020-07-30, vote average 4.4*
-
-Four boyhood friends return to New Orleans’ Lower Ninth Ward after Hurricane Katrina, to find their home decimated and prospects for work swept away. Turning to a local gangster for employment, the crew is hired to pull off a daring casino heist, right in the heart of the city.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qCcVIZUVGZA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/SNlKbqHqGcY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -355,7 +316,7 @@ Back at home, Chuck relates the island shenanigans of his larva pals Red and Yel
 	
 
 ### The Speed Cubers
-*Released on 2020-07-29, vote average 8*
+*Released on 2020-07-29, vote average 7.7*
 
 This documentary captures the extraordinary twists and turns in the journeys of Rubik&#39;s Cube-solving champions Max Park and Feliks Zemdegs.
 
@@ -374,18 +335,23 @@ This documentary captures the extraordinary twists and turns in the journeys of 
 
 
 	
+
+  
+
+
+	
 	
 
-### Amulet
-*Released on 2020-07-24, vote average 5.8*
+### Lootcase
+*Released on 2020-07-31, vote average 5*
 
-Tomaz, an ex-soldier now homeless in London, is offered a place to stay at a decaying house, inhabited by a young woman and her dying mother. As he starts to fall for Magda, Tomaz cannot ignore his suspicion that something insidious might also be living alongside them.
+Nandan Kumar comes across a suitcase and discovers it is full of cash. He takes the suitcase and soon finds himself being chased by a notorious gangster, an honest cop and a minister, who want the suitcase at any cost.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/1ktazQubuXE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/muGyBhBCjzI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -403,7 +369,7 @@ Tomaz, an ex-soldier now homeless in London, is offered a place to stay at a dec
 	
 
 ### Legacy of Lies
-*Released on 2020-08-06, vote average 3.5*
+*Released on 2020-08-06, vote average 5.5*
 
 An ex-MI6 agent is thrown back into the world of espionage and high stakes to uncover the shocking truth about operations conducted by unknown secret services.
 
@@ -424,7 +390,7 @@ An ex-MI6 agent is thrown back into the world of espionage and high stakes to un
 	
 
 ### Think Like a Dog
-*Released on 2020-08-06, vote average 10*
+*Released on 2020-08-06, vote average 8*
 
 A 12-year-old tech prodigy whose science experiment goes awry and he forges a telepathic connection with his best friend, his dog. The duo join forces and use their unique perspectives on life to comically overcome complications of family and school.
 
