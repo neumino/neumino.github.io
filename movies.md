@@ -46,30 +46,8 @@ With college decisions looming, Elle juggles her long-distance romance with Noah
 	
 	
 
-### The Rental
-*Released on 2020-07-23, vote average 5.5*
-
-Two couples on an oceanside getaway grow suspicious that the host of their seemingly perfect rental house may be spying on them. Before long, what should have been a celebratory weekend trip turns into something far more sinister.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FYMl2AMdShE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Black Is King
-*Released on 2020-07-31, vote average 8.6*
+*Released on 2020-07-31, vote average 8.4*
 
 This visual album from Beyoncé reimagines the lessons of &#34;The Lion King&#34; (2019) for today’s young kings and queens in search of their own crowns.
 
@@ -91,7 +69,7 @@ This visual album from Beyoncé reimagines the lessons of &#34;The Lion King&#34
 	
 
 ### Seriously Single
-*Released on 2020-07-31, vote average 4.8*
+*Released on 2020-07-31, vote average 5.4*
 
 While her free-living bestie urges her to embrace singlehood, a commitment-craving social media expert can&#39;t stop following the life of a former love.
 
@@ -109,6 +87,67 @@ While her free-living bestie urges her to embrace singlehood, a commitment-cravi
   
 
 
+	
+	
+
+### The Rental
+*Released on 2020-07-23, vote average 5.6*
+
+Two couples on an oceanside getaway grow suspicious that the host of their seemingly perfect rental house may be spying on them. Before long, what should have been a celebratory weekend trip turns into something far more sinister.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FYMl2AMdShE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Gabriel&#39;s Inferno Part II
+*Released on 2020-07-31, vote average 9.5*
+
+Professor Gabriel Emerson finally learns the truth about Julia Mitchell&#39;s identity, but his realization comes a moment too late. Julia is done waiting for the well-respected Dante specialist to remember her and wants nothing more to do with him. Can Gabriel win back her heart before she finds love in another&#39;s arms?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5g02v1oz5Y0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Upside-Down Magic
+*Released on 2020-07-31, vote average 5.8*
+
+Nory and her best friend Reina enter the Sage Academy for Magical Studies, where Nory’s unconventional powers land her in a class for those with wonky, or “upside-down,” magic. Undaunted, Nory sets out to prove that that upside-down magic can be just as powerful as right-side-up.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/TUyqi_vEcsE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -139,16 +178,16 @@ Inspector Amaia Salazar confronts the origins of her nightmares as she unfolds t
 	
 	
 
-### Gabriel&#39;s Inferno Part II
-*Released on 2020-07-31, vote average 9.5*
+### Deep Blue Sea 3
+*Released on 2020-07-28, vote average 6.7*
 
-The second film’s plot follows Professor Gabriel Emerson (Berruti) on a passionate, yet clandestine affair in Italy with his former student Julia Mitchell (Zanetti); but when they return to Toronto, their happiness is threatened by conspiring students, academic politics, and a jealous ex-lover.
+Dr. Emma Collins and her team are spending their third summer on the island of Little Happy studying the effect of climate change on the great white sharks who come to the nearby nursery every year to give birth. Along with the last two inhabitants of this former fishing village, their peaceful life is disrupted when a &#34;scientific&#34; team led by her ex-boyfriend and marine biologist Richard show up looking for three bull sharks who we soon learn aren&#39;t just any bull sharks.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/5g02v1oz5Y0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/7pT7Hhpoemc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -158,52 +197,6 @@ The second film’s plot follows Professor Gabriel Emerson (Berruti) on a passio
   
 
 
-	
-	
-
-### Upside-Down Magic
-*Released on 2020-07-31, vote average 7*
-
-Nory and her best friend Reina enter the Sage Academy for Magical Studies, where Nory’s unconventional powers land her in a class for those with wonky, or “upside-down,” magic. Undaunted, Nory sets out to prove that that upside-down magic can be just as powerful as right-side-up.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/TUyqi_vEcsE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Becky
-*Released on 2020-07-23, vote average 4.1*
-
-A teenager&#39;s weekend at a lake house with her father takes a turn for the worse when a group of convicts wreaks havoc on their lives.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LQAJ5QvD8BA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -237,6 +230,8 @@ Scott has been a case of arrested development ever since his firefighter father 
 
 
 	
+	
+	
 
   
 
@@ -244,16 +239,16 @@ Scott has been a case of arrested development ever since his firefighter father 
 	
 	
 
-### Deep Blue Sea 3
-*Released on 2020-07-28, vote average 6.7*
+### Becky
+*Released on 2020-07-23, vote average 4*
 
-Dr. Emma Collins and her team are spending their third summer on the island of Little Happy studying the effect of climate change on the great white sharks who come to the nearby nursery every year to give birth. Along with the last two inhabitants of this former fishing village, their peaceful life is disrupted when a &#34;scientific&#34; team led by her ex-boyfriend and marine biologist Richard show up looking for three bull sharks who we soon learn aren&#39;t just any bull sharks.
+A teenager&#39;s weekend at a lake house with her father takes a turn for the worse when a group of convicts wreaks havoc on their lives.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/7pT7Hhpoemc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/LQAJ5QvD8BA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -266,16 +261,16 @@ Dr. Emma Collins and her team are spending their third summer on the island of L
 	
 	
 
-### Host
-*Released on 2020-07-30, vote average 5.8*
+### Helmut Newton: The Bad and the Beautiful
+*Released on 2020-08-02, vote average 8*
 
-Six friends hire a medium to hold a séance via Zoom during lockdown — but they get far more than they bargained for as things quickly go wrong. When an evil spirit starts invading their homes, they begin to realize they might not survive the night.
+Women were clearly at the core of legendary photographer Helmut Newton&#39;s work. The stars of his iconic portraits and fashion editorials – from Catherine Deneuve to Grace Jones, Charlotte Rampling to Isabella Rossellini – finally give their own interpretation of the life and work of this controversial genius. A portrait by the portrayed. Provocative, unconventional, subversive, his depiction of women still sparks the question: were they subjects or objects?
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/SNlKbqHqGcY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/1LcgA-wLGsQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -289,7 +284,7 @@ Six friends hire a medium to hold a séance via Zoom during lockdown — but the
 	
 
 ### The Larva Island Movie
-*Released on 2020-07-23, vote average 7.9*
+*Released on 2020-07-23, vote average 8*
 
 Back at home, Chuck relates the island shenanigans of his larva pals Red and Yellow to a skeptical reporter in this movie sequel to the hit cartoon.
 
@@ -313,18 +308,23 @@ Back at home, Chuck relates the island shenanigans of his larva pals Red and Yel
 
 
 	
+
+  
+
+
+	
 	
 
-### The Speed Cubers
-*Released on 2020-07-29, vote average 7.7*
+### Romance in the Air
+*Released on 2020-08-01, vote average 2*
 
-This documentary captures the extraordinary twists and turns in the journeys of Rubik&#39;s Cube-solving champions Max Park and Feliks Zemdegs.
+After learning her job is on the line, Eden returns to Lake Tahoe where she used to spend her summers growing up. There she’s reunited with her childhood friend Riley and finds that the draw of her past might direct her future to a happiness she’s been missing in her life.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-wrTIWx_Z6k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/aHa-qygMIz8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -335,27 +335,27 @@ This documentary captures the extraordinary twists and turns in the journeys of 
 
 
 	
-
-  
-
-
-	
 	
 
-### Lootcase
-*Released on 2020-07-31, vote average 5*
+### Host
+*Released on 2020-07-30, vote average 6.1*
 
-Nandan Kumar comes across a suitcase and discovers it is full of cash. He takes the suitcase and soon finds himself being chased by a notorious gangster, an honest cop and a minister, who want the suitcase at any cost.
+Six friends hire a medium to hold a séance via Zoom during lockdown — but they get far more than they bargained for as things quickly go wrong. When an evil spirit starts invading their homes, they begin to realize they might not survive the night.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/muGyBhBCjzI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/SNlKbqHqGcY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -382,6 +382,8 @@ An ex-MI6 agent is thrown back into the world of espionage and high stakes to un
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
@@ -430,7 +432,22 @@ A 12-year-old tech prodigy whose science experiment goes awry and he forges a te
 	
 
 	
+	
 
+### Ava
+*Released on 2020-08-06, vote average 5.5*
+
+A black ops assassin is forced to fight for her own survival after a job goes dangerously wrong.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ozUuAcGOhPs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
