@@ -46,72 +46,6 @@ With college decisions looming, Elle juggles her long-distance romance with Noah
 	
 	
 
-### Black Is King
-*Released on 2020-07-31, vote average 7.8*
-
-This visual album from Beyoncé reimagines the lessons of &#34;The Lion King&#34; (2019) for today’s young kings and queens in search of their own crowns.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/L765oDjNaBA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Seriously Single
-*Released on 2020-07-31, vote average 6*
-
-While her free-living bestie urges her to embrace singlehood, a commitment-craving social media expert can&#39;t stop following the life of a former love.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/V2SVIVkP2_U?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Rental
-*Released on 2020-07-23, vote average 5.7*
-
-Two couples on an oceanside getaway grow suspicious that the host of their seemingly perfect rental house may be spying on them. Before long, what should have been a celebratory weekend trip turns into something far more sinister.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FYMl2AMdShE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Deep Blue Sea 3
 *Released on 2020-07-28, vote average 6.7*
 
@@ -135,7 +69,7 @@ Dr. Emma Collins and her team are spending their third summer on the island of L
 	
 
 ### Gabriel&#39;s Inferno Part II
-*Released on 2020-07-31, vote average 9.7*
+*Released on 2020-07-31, vote average 9.3*
 
 Professor Gabriel Emerson finally learns the truth about Julia Mitchell&#39;s identity, but his realization comes a moment too late. Julia is done waiting for the well-respected Dante specialist to remember her and wants nothing more to do with him. Can Gabriel win back her heart before she finds love in another&#39;s arms?
 
@@ -156,8 +90,101 @@ Professor Gabriel Emerson finally learns the truth about Julia Mitchell&#39;s id
 	
 	
 
+### Legacy of Lies
+*Released on 2020-08-06, vote average 5.4*
+
+An ex-MI6 agent is thrown back into the world of espionage and high stakes to uncover the shocking truth about operations conducted by unknown secret services.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Oip39g3bWrA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Black Is King
+*Released on 2020-07-31, vote average 7.9*
+
+This visual album from Beyoncé reimagines the lessons of &#34;The Lion King&#34; (2019) for today’s young kings and queens in search of their own crowns.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/L765oDjNaBA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Seriously Single
+*Released on 2020-07-31, vote average 6.8*
+
+While her free-living bestie urges her to embrace singlehood, a commitment-craving social media expert can&#39;t stop following the life of a former love.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/V2SVIVkP2_U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Rental
+*Released on 2020-07-23, vote average 5.8*
+
+Two couples on an oceanside getaway grow suspicious that the host of their seemingly perfect rental house may be spying on them. Before long, what should have been a celebratory weekend trip turns into something far more sinister.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FYMl2AMdShE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### Upside-Down Magic
-*Released on 2020-07-31, vote average 6.7*
+*Released on 2020-07-31, vote average 6.9*
 
 Nory and her best friend Reina enter the Sage Academy for Magical Studies, where Nory’s unconventional powers land her in a class for those with wonky, or “upside-down,” magic. Undaunted, Nory sets out to prove that that upside-down magic can be just as powerful as right-side-up.
 
@@ -176,42 +203,10 @@ Nory and her best friend Reina enter the Sage Academy for Magical Studies, where
 
 
 	
-
-  
-
-
-	
-	
-
-### Offering to the Storm
-*Released on 2020-07-24, vote average 6.3*
-
-Inspector Amaia Salazar confronts the origins of her nightmares as she unfolds the darkest secrets of the Baztan valley. Part 3 in the Baztan Trilogy.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/btpK02HkGps?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### Summerland
-*Released on 2020-07-24, vote average 8.9*
+*Released on 2020-07-24, vote average 9.1*
 
 A woman during the Second World War opens her heart to an evacuee after initially resolving to be rid of him.
 
@@ -235,18 +230,23 @@ A woman during the Second World War opens her heart to an evacuee after initiall
 
 
 	
+
+  
+
+
+	
 	
 
-### The Larva Island Movie
-*Released on 2020-07-23, vote average 8*
+### Think Like a Dog
+*Released on 2020-08-06, vote average 8*
 
-Back at home, Chuck relates the island shenanigans of his larva pals Red and Yellow to a skeptical reporter in this movie sequel to the hit cartoon.
+A 12-year-old tech prodigy whose science experiment goes awry and he forges a telepathic connection with his best friend, his dog. The duo join forces and use their unique perspectives on life to comically overcome complications of family and school.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/BlNyQk2W83k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/s3_5WZSOsn8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -259,16 +259,65 @@ Back at home, Chuck relates the island shenanigans of his larva pals Red and Yel
 	
 	
 
-### The King of Staten Island
-*Released on 2020-07-22, vote average 6.8*
+### Offering to the Storm
+*Released on 2020-07-24, vote average 6.4*
 
-Scott has been a case of arrested development ever since his firefighter father died when he was seven. He’s now reached his mid-20s having achieved little, chasing a dream of becoming a tattoo artist that seems far out of reach. As his ambitious younger sister heads off to college, Scott is still living with his exhausted ER nurse mother and spends his days smoking weed, hanging with the guys — Oscar, Igor and Richie — and secretly hooking up with his childhood friend Kelsey. But when his mother starts dating a loudmouth firefighter named Ray, it sets off a chain of events that will force Scott to grapple with his grief and take his first tentative steps toward moving forward in life.
+Inspector Amaia Salazar confronts the origins of her nightmares as she unfolds the darkest secrets of the Baztan valley. Part 3 in the Baztan Trilogy.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/azkVr0VUSTA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/btpK02HkGps?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Malibu Rescue: The Next Wave
+*Released on 2020-08-04, vote average 6.8*
+
+It’s summer again, and everyone’s favorite Junior Rescuers, The Flounders, are back at Tower 2. With the International Junior Rescue Championships headed to Southern California, the eyes of the entire planet are on Malibu Beach. But when Team USA falls victim to a bout of food poisoning, it’s up to Tyler, Dylan, Eric, Lizzie and Gina to represent their country in the world&#39;s most extreme lifeguard challenge!
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_dOsJFhJNGc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Sam Jay: 3 in the Morning
+*Released on 2020-08-04, vote average 7*
+
+Comedian and &#34;Saturday Night Live&#34; writer Sam Jay serves up fresh takes on relationships, travel nightmares, the audacity of white people and more.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/D2EcvFfzu-o?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -289,20 +338,22 @@ Scott has been a case of arrested development ever since his firefighter father 
 
 
 	
-
-  
-
-
 	
 
-  
+### Host
+*Released on 2020-07-30, vote average 6.7*
 
+Six friends hire a medium to hold a séance via Zoom during lockdown — but they get far more than they bargained for as things quickly go wrong. When an evil spirit starts invading their homes, they begin to realize they might not survive the night.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/SNlKbqHqGcY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-  
-
-
 	
 
   
@@ -316,7 +367,7 @@ Scott has been a case of arrested development ever since his firefighter father 
 	
 
 ### Legacy of Lies
-*Released on 2020-08-06, vote average 4*
+*Released on 2020-08-06, vote average 5.4*
 
 An ex-MI6 agent is thrown back into the world of espionage and high stakes to uncover the shocking truth about operations conducted by unknown secret services.
 
@@ -329,8 +380,6 @@ An ex-MI6 agent is thrown back into the world of espionage and high stakes to un
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
@@ -384,11 +433,9 @@ A black ops assassin is forced to fight for her own survival after a job goes da
 	
 
 	
-	
-	
 
 	
-
+	
 	
 
 	
@@ -398,22 +445,9 @@ A black ops assassin is forced to fight for her own survival after a job goes da
 	
 
 	
-	
-
-### Engel
-*Released on 2020-08-05, vote average 6*
-
-Angel is a shy, clumsy girl who can&#39;t say no to anything. When she finds a beautiful special watch, which can make all her wishes come true, she suddenly is incredibly popular but will her new life truly make her happy?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-njQXXzNvtQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
 	
 
 	
