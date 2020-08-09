@@ -47,7 +47,7 @@ Dr. Emma Collins and her team are spending their third summer on the island of L
 	
 
 ### Deathstroke: Knights &amp; Dragons - The Movie
-*Released on 2020-08-04, vote average 8*
+*Released on 2020-08-04, vote average 7.7*
 
 Ten years ago, Slade Wilson-aka the super-assassin called Deathstroke-made a tragic mistake and his wife and son paid a terrible price. Now, a decade later, Wilson&#39;s family is threatened once again by the murderous Jackal and the terrorists of H.IV.E. Can Deathstroke atone for the sins of the past-or will his family pay the ultimate price?
 
@@ -56,6 +56,28 @@ Ten years ago, Slade Wilson-aka the super-assassin called Deathstroke-made a tra
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/MsdVLe2xi9g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### An American Pickle
+*Released on 2020-08-06, vote average 7.3*
+
+An immigrant worker at a pickle factory is accidentally preserved for 100 years and wakes up in modern day Brooklyn. He learns his only surviving relative is his great grandson, a computer coder who he can’t connect with.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/JBC0pTh6GDM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -90,8 +112,52 @@ It’s summer again, and everyone’s favorite Junior Rescuers, The Flounders, a
 	
 	
 
+### Work It
+*Released on 2020-08-07, vote average 7.7*
+
+A brilliant but clumsy high school senior vows to get into her late father&#39;s alma mater by transforming herself and a misfit squad into dance champions.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/RAcHKtUgIC4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Gabriel&#39;s Inferno Part II
+*Released on 2020-07-31, vote average 9.2*
+
+Professor Gabriel Emerson finally learns the truth about Julia Mitchell&#39;s identity, but his realization comes a moment too late. Julia is done waiting for the well-respected Dante specialist to remember her and wants nothing more to do with him. Can Gabriel win back her heart before she finds love in another&#39;s arms?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5g02v1oz5Y0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Legacy of Lies
-*Released on 2020-08-06, vote average 5.7*
+*Released on 2020-08-06, vote average 5.9*
 
 An ex-MI6 agent is thrown back into the world of espionage and high stakes to uncover the shocking truth about operations conducted by unknown secret services.
 
@@ -110,22 +176,37 @@ An ex-MI6 agent is thrown back into the world of espionage and high stakes to un
 
 
 	
+
+  
+
+
 	
 
-### An American Pickle
-*Released on 2020-08-06, vote average 7*
+  
 
-An immigrant worker at a pickle factory is accidentally preserved for 100 years and wakes up in modern day Brooklyn. He learns his only surviving relative is his great grandson, a computer coder who he can’t connect with.
+
+	
+	
+
+### The Tax Collector
+*Released on 2020-08-07, vote average 6.7*
+
+David Cuevas is a family man who works as a gangland tax collector for high ranking Los Angeles gang members. He makes collections across the city with his partner Creeper making sure people pay up or will see retaliation. An old threat returns to Los Angeles that puts everything David loves in harm’s way.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/JBC0pTh6GDM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/yBhUWv5Hzqc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -161,8 +242,42 @@ While her free-living bestie urges her to embrace singlehood, a commitment-cravi
 	
 	
 
+### Think Like a Dog
+*Released on 2020-08-06, vote average 7.4*
+
+A 12-year-old tech prodigy whose science experiment goes awry and he forges a telepathic connection with his best friend, his dog. The duo join forces and use their unique perspectives on life to comically overcome complications of family and school.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/s3_5WZSOsn8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### Anelka: Misunderstood
-*Released on 2020-08-05, vote average 6.9*
+*Released on 2020-08-05, vote average 6.5*
 
 Bad boy or football genius? Famed French footballer Nicolas Anelka&#39;s controversial legacy is examined in an unflinching documentary.
 
@@ -181,18 +296,23 @@ Bad boy or football genius? Famed French footballer Nicolas Anelka&#39;s controv
 
 
 	
+
+  
+
+
+	
 	
 
-### Think Like a Dog
-*Released on 2020-08-06, vote average 7.8*
+### Ultraman Taiga The Movie: New Generation Climax
+*Released on 2020-08-07, vote average 1*
 
-A 12-year-old tech prodigy whose science experiment goes awry and he forges a telepathic connection with his best friend, his dog. The duo join forces and use their unique perspectives on life to comically overcome complications of family and school.
+The time of the New Generation Heroes is drawing to a close. Hiroyuki is being targeted by a dark power, forcing the other Ultra Heroes, from Ginga to R/B to appear and help the Tri-Squad battle these evil forces. But among them is Taiga&#39;s father? What has happened to Ultraman Taro?!
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/s3_5WZSOsn8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/OQH6YWGUfcE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -215,96 +335,6 @@ This visual album from Beyoncé reimagines the lessons of &#34;The Lion King&#34
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/L765oDjNaBA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Ava
-*Released on 2020-08-06, vote average 6.5*
-
-A black ops assassin is forced to fight for her own survival after a job goes dangerously wrong.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ozUuAcGOhPs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Host
-*Released on 2020-07-30, vote average 6.5*
-
-Six friends hire a medium to hold a séance via Zoom during lockdown — but they get far more than they bargained for as things quickly go wrong. When an evil spirit starts invading their homes, they begin to realize they might not survive the night.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/SNlKbqHqGcY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -350,6 +380,23 @@ Six friends hire a medium to hold a séance via Zoom during lockdown — but the
 
 	
 
+	
+	
+
+### G-Loc
+*Released on 2020-08-11, vote average 7.3*
+
+With Earth virtually destroyed, Bran Marshall flees to Rhea, a nearby planet now hostile towards &#34;Earthers&#34;. Escaping onto a Rhean supply ship, he finds the crew slaughtered, with the only survivor a female warrior named Ohsha. As the two try to kill one another, the ship is damaged by meteorites. Bran and Ohsha must join forces to salvage the craft before it impacts the planet below — and the humans that live there.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8hG6oX5BNaw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
