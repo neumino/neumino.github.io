@@ -46,8 +46,30 @@ A brilliant but clumsy high school senior vows to get into her late father&#39;s
 	
 	
 
+### The Tax Collector
+*Released on 2020-08-07, vote average 6.1*
+
+David Cuevas is a family man who works as a gangland tax collector for high ranking Los Angeles gang members. He makes collections across the city with his partner Creeper making sure people pay up or will see retaliation. An old threat returns to Los Angeles that puts everything David loves in harm’s way.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/yBhUWv5Hzqc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Deathstroke: Knights &amp; Dragons - The Movie
-*Released on 2020-08-04, vote average 7.5*
+*Released on 2020-08-04, vote average 7.2*
 
 Ten years ago, Slade Wilson-aka the super-assassin called Deathstroke-made a tragic mistake and his wife and son paid a terrible price. Now, a decade later, Wilson&#39;s family is threatened once again by the murderous Jackal and the terrorists of H.IV.E. Can Deathstroke atone for the sins of the past-or will his family pay the ultimate price?
 
@@ -68,16 +90,16 @@ Ten years ago, Slade Wilson-aka the super-assassin called Deathstroke-made a tra
 	
 	
 
-### The Tax Collector
-*Released on 2020-08-07, vote average 6*
+### Made in Italy
+*Released on 2020-08-06, vote average 7*
 
-David Cuevas is a family man who works as a gangland tax collector for high ranking Los Angeles gang members. He makes collections across the city with his partner Creeper making sure people pay up or will see retaliation. An old threat returns to Los Angeles that puts everything David loves in harm’s way.
+A bohemian artist travels from London to Italy with his estranged son to sell the house they inherited from his late wife.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/yBhUWv5Hzqc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/tJHcv0Pm0RU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,16 +134,82 @@ An immigrant worker at a pickle factory is accidentally preserved for 100 years 
 	
 	
 
-### Made in Italy
-*Released on 2020-08-06, vote average 6.8*
+### Waiting for the Barbarians
+*Released on 2020-07-30, vote average 5.4*
 
-A bohemian artist travels from London to Italy with his estranged son to sell the house they inherited from his late wife.
+At an isolated frontier outpost, a colonial magistrate suffers a crisis of conscience when an army colonel arrives looking to interrogate the locals about an impending uprising, using cruel tactics that horrify the magistrate.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/tJHcv0Pm0RU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ZTtOuxgc9BQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Uncle Peckerhead
+*Released on 2020-08-11, vote average 2*
+
+When a punk band scores their first tour, life on the road proves tough when they are joined by a man-eating demon as a roadie.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Me-vpvUUSm4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Max Reload and the Nether Blasters
+*Released on 2020-08-11, vote average 6*
+
+A small town video game store clerk must go from zero to hero after accidentally unleashing the forces of evil from a cursed Colecovision game.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/tT_bY4m8gR4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### G-Loc
+*Released on 2020-08-11, vote average 6.6*
+
+With Earth virtually destroyed, Bran Marshall flees to Rhea, a nearby planet now hostile towards &#34;Earthers&#34;. Escaping onto a Rhean supply ship, he finds the crew slaughtered, with the only survivor a female warrior named Ohsha. As the two try to kill one another, the ship is damaged by meteorites. Bran and Ohsha must join forces to salvage the craft before it impacts the planet below — and the humans that live there.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8hG6oX5BNaw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -135,7 +223,7 @@ A bohemian artist travels from London to Italy with his estranged son to sell th
 	
 
 ### Malibu Rescue: The Next Wave
-*Released on 2020-08-04, vote average 6.8*
+*Released on 2020-08-04, vote average 6.9*
 
 It’s summer again, and everyone’s favorite Junior Rescuers, The Flounders, are back at Tower 2. With the International Junior Rescue Championships headed to Southern California, the eyes of the entire planet are on Malibu Beach. But when Team USA falls victim to a bout of food poisoning, it’s up to Tyler, Dylan, Eric, Lizzie and Gina to represent their country in the world&#39;s most extreme lifeguard challenge!
 
@@ -144,33 +232,6 @@ It’s summer again, and everyone’s favorite Junior Rescuers, The Flounders, a
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/_dOsJFhJNGc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### What We Found
-*Released on 2020-07-31, vote average 2*
-
-Close friends Marcus and Holly begin their freshman year at a tough public high school in Baltimore County, Maryland. When Cassie, a well liked senior at the school, disappears suspiciously, both of their lives change forever. Together, will they find out what happened to Cassie? And after a dramatic confrontation, will any of them ever be the same?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rZkNnc-9Sfc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -210,50 +271,6 @@ A look behind the curtain of Washington politics following three &#34;renegade&#
 	
 	
 
-### Legacy of Lies
-*Released on 2020-08-06, vote average 6*
-
-An ex-MI6 agent is thrown back into the world of espionage and high stakes to uncover the shocking truth about operations conducted by unknown secret services.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Oip39g3bWrA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### G-Loc
-*Released on 2020-08-11, vote average 5.8*
-
-With Earth virtually destroyed, Bran Marshall flees to Rhea, a nearby planet now hostile towards &#34;Earthers&#34;. Escaping onto a Rhean supply ship, he finds the crew slaughtered, with the only survivor a female warrior named Ohsha. As the two try to kill one another, the ship is damaged by meteorites. Bran and Ohsha must join forces to salvage the craft before it impacts the planet below — and the humans that live there.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8hG6oX5BNaw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### She Dies Tomorrow
 *Released on 2020-07-31, vote average 5.2*
 
@@ -276,16 +293,16 @@ Amy is ravaged by the notion that she is going to die tomorrow, which sends her 
 	
 	
 
-### I Used to Go Here
-*Released on 2020-08-07, vote average 4.7*
+### Rob Schneider: Asian Momma, Mexican Kids
+*Released on 2020-08-11, vote average 2*
 
-Following the launch of her new novel, 35-year-old writer Kate Conklin is invited to speak at her alma mater by her mentor and former professor. After accepting the invitation, Kate finds herself deeply enmeshed in the lives of an eccentric group of college students.
+Former &#34;Saturday Night Live&#34; star Rob Schneider returns to the stage and shares his take on life, love and dinosaur dreams in this stand-up special. Ending with a surprise duet performance with his daughter, singer-songwriter Elle King, Rob talks about potty training his young daughters and his own pig potential.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/a9xVoRoWmnA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/x0h2qlZNY2A?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -296,43 +313,11 @@ Following the launch of her new novel, 35-year-old writer Kate Conklin is invite
 
 
 	
-	
-
-### Paydirt
-*Released on 2020-08-07, vote average 5.7*
-
-A parolee teams up with his old crew determined to find a buried bag of cash stolen a decade ago from a DEA bust gone bad, while being tracked by a retired Sheriff.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ob21tspZSIY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
 	
-	
-
-### Greenland
-*Released on 2020-07-29, vote average 6.8*
-
-A detached married couple must get their son and themselves to safety after being randomly selected to enter an underground bunker, as a massive object from space threatens to destroy the world in less than 48 hours.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vz-gdEL_ae8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -343,7 +328,7 @@ A detached married couple must get their son and themselves to safety after bein
 	
 
 ### Seriously Single
-*Released on 2020-07-31, vote average 7.4*
+*Released on 2020-07-31, vote average 7.3*
 
 While her free-living bestie urges her to embrace singlehood, a commitment-craving social media expert can&#39;t stop following the life of a former love.
 
@@ -362,18 +347,23 @@ While her free-living bestie urges her to embrace singlehood, a commitment-cravi
 
 
 	
+
+  
+
+
+	
 	
 
-### Gabriel&#39;s Inferno Part II
-*Released on 2020-07-31, vote average 9.2*
+### Monstrous
+*Released on 2020-08-11, vote average 5.5*
 
-Professor Gabriel Emerson finally learns the truth about Julia Mitchell&#39;s identity, but his realization comes a moment too late. Julia is done waiting for the well-respected Dante specialist to remember her and wants nothing more to do with him. Can Gabriel win back her heart before she finds love in another&#39;s arms?
+A young woman goes searching for answers after her friend mysteriously vanishes in Whitehall, NY, an Adirondack town known for its Bigfoot sightings. She quickly learns that hiding in the woods is an evil more sinister than she could ever imagine.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/5g02v1oz5Y0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/q3vXCwiXVgY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -384,23 +374,18 @@ Professor Gabriel Emerson finally learns the truth about Julia Mitchell&#39;s id
 
 
 	
-
-  
-
-
-	
 	
 
-### Black Is King
-*Released on 2020-07-31, vote average 7.7*
+### What We Found
+*Released on 2020-07-31, vote average 2*
 
-This visual album from Beyoncé reimagines the lessons of &#34;The Lion King&#34; (2019) for today’s young kings and queens in search of their own crowns.
+Close friends Marcus and Holly begin their freshman year at a tough public high school in Baltimore County, Maryland. When Cassie, a well liked senior at the school, disappears suspiciously, both of their lives change forever. Together, will they find out what happened to Cassie? And after a dramatic confrontation, will any of them ever be the same?
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/L765oDjNaBA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/rZkNnc-9Sfc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -421,6 +406,23 @@ This visual album from Beyoncé reimagines the lessons of &#34;The Lion King&#34
 	
 
 	
+	
+
+### The SpongeBob Movie: Sponge on the Run
+*Released on 2020-08-14, vote average 10*
+
+After SpongeBob&#39;s beloved pet snail Gary is snail-napped, he and Patrick embark on an epic adventure to The Lost City of Atlantic City to bring Gary home.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/HfiH_526qhY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
@@ -433,15 +435,28 @@ This visual album from Beyoncé reimagines the lessons of &#34;The Lion King&#34
 	
 
 	
+
+	
+	
+
+### Archive
+*Released on 2020-08-13, vote average 6.8*
+
+2038: George Almore is working on a true human-equivalent AI, and his latest prototype is almost ready. This sensitive phase is also the riskiest as he has a goal that must be hidden at all costs—being reunited with his dead wife.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/m0J0BwIzURI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
 	
 
-	
-
-	
-	
 	
 
 	
