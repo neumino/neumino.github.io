@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Work It
-*Released on 2020-08-07, vote average 8.1*
+*Released on 2020-08-07, vote average 8*
 
 A brilliant but clumsy high school senior vows to get into her late father&#39;s alma mater by transforming herself and a misfit squad into dance champions.
 
@@ -47,7 +47,7 @@ A brilliant but clumsy high school senior vows to get into her late father&#39;s
 	
 
 ### The Tax Collector
-*Released on 2020-08-07, vote average 6.1*
+*Released on 2020-08-07, vote average 6*
 
 David Cuevas is a family man who works as a gangland tax collector for high ranking Los Angeles gang members. He makes collections across the city with his partner Creeper making sure people pay up or will see retaliation. An old threat returns to Los Angeles that puts everything David loves in harm’s way.
 
@@ -68,30 +68,8 @@ David Cuevas is a family man who works as a gangland tax collector for high rank
 	
 	
 
-### Deathstroke: Knights &amp; Dragons - The Movie
-*Released on 2020-08-04, vote average 7.2*
-
-Ten years ago, Slade Wilson-aka the super-assassin called Deathstroke-made a tragic mistake and his wife and son paid a terrible price. Now, a decade later, Wilson&#39;s family is threatened once again by the murderous Jackal and the terrorists of H.IV.E. Can Deathstroke atone for the sins of the past-or will his family pay the ultimate price?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MsdVLe2xi9g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Made in Italy
-*Released on 2020-08-06, vote average 7*
+*Released on 2020-08-06, vote average 6.4*
 
 A bohemian artist travels from London to Italy with his estranged son to sell the house they inherited from his late wife.
 
@@ -112,8 +90,30 @@ A bohemian artist travels from London to Italy with his estranged son to sell th
 	
 	
 
+### Deathstroke: Knights &amp; Dragons - The Movie
+*Released on 2020-08-04, vote average 7.3*
+
+Ten years ago, Slade Wilson-aka the super-assassin called Deathstroke-made a tragic mistake and his wife and son paid a terrible price. Now, a decade later, Wilson&#39;s family is threatened once again by the murderous Jackal and the terrorists of H.IV.E. Can Deathstroke atone for the sins of the past-or will his family pay the ultimate price?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MsdVLe2xi9g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### An American Pickle
-*Released on 2020-08-06, vote average 5.8*
+*Released on 2020-08-06, vote average 5.6*
 
 An immigrant worker at a pickle factory is accidentally preserved for 100 years and wakes up in modern day Brooklyn. He learns his only surviving relative is his great grandson, a computer coder who he can’t connect with.
 
@@ -134,74 +134,8 @@ An immigrant worker at a pickle factory is accidentally preserved for 100 years 
 	
 	
 
-### Waiting for the Barbarians
-*Released on 2020-07-30, vote average 5.4*
-
-At an isolated frontier outpost, a colonial magistrate suffers a crisis of conscience when an army colonel arrives looking to interrogate the locals about an impending uprising, using cruel tactics that horrify the magistrate.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZTtOuxgc9BQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Uncle Peckerhead
-*Released on 2020-08-11, vote average 2*
-
-When a punk band scores their first tour, life on the road proves tough when they are joined by a man-eating demon as a roadie.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Me-vpvUUSm4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Max Reload and the Nether Blasters
-*Released on 2020-08-11, vote average 6*
-
-A small town video game store clerk must go from zero to hero after accidentally unleashing the forces of evil from a cursed Colecovision game.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tT_bY4m8gR4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### G-Loc
-*Released on 2020-08-11, vote average 6.6*
+*Released on 2020-08-11, vote average 6.8*
 
 With Earth virtually destroyed, Bran Marshall flees to Rhea, a nearby planet now hostile towards &#34;Earthers&#34;. Escaping onto a Rhean supply ship, he finds the crew slaughtered, with the only survivor a female warrior named Ohsha. As the two try to kill one another, the ship is damaged by meteorites. Bran and Ohsha must join forces to salvage the craft before it impacts the planet below — and the humans that live there.
 
@@ -222,16 +156,16 @@ With Earth virtually destroyed, Bran Marshall flees to Rhea, a nearby planet now
 	
 	
 
-### Malibu Rescue: The Next Wave
-*Released on 2020-08-04, vote average 6.9*
+### Uncle Peckerhead
+*Released on 2020-08-11, vote average 6*
 
-It’s summer again, and everyone’s favorite Junior Rescuers, The Flounders, are back at Tower 2. With the International Junior Rescue Championships headed to Southern California, the eyes of the entire planet are on Malibu Beach. But when Team USA falls victim to a bout of food poisoning, it’s up to Tyler, Dylan, Eric, Lizzie and Gina to represent their country in the world&#39;s most extreme lifeguard challenge!
+When a punk band scores their first tour, life on the road proves tough when they are joined by a man-eating demon as a roadie.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/_dOsJFhJNGc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Me-vpvUUSm4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -247,18 +181,45 @@ It’s summer again, and everyone’s favorite Junior Rescuers, The Flounders, a
 
 
 	
+
+  
+
+
+	
 	
 
-### The Swamp
-*Released on 2020-08-04, vote average 5.5*
+### The SpongeBob Movie: Sponge on the Run
+*Released on 2020-08-14, vote average 10*
 
-A look behind the curtain of Washington politics following three &#34;renegade&#34; Republican Congressmen as they bring libertarian and conservative zeal to champion the President’s call to “drain the swamp.”
+After SpongeBob&#39;s beloved pet snail Gary is snail-napped, he and Patrick embark on an epic adventure to The Lost City of Atlantic City to bring Gary home.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/LaDpGq1ndSk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/HfiH_526qhY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Max Reload and the Nether Blasters
+*Released on 2020-08-11, vote average 5.3*
+
+A small town video game store clerk must go from zero to hero after accidentally unleashing the forces of evil from a cursed Colecovision game.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/tT_bY4m8gR4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -293,69 +254,8 @@ Amy is ravaged by the notion that she is going to die tomorrow, which sends her 
 	
 	
 
-### Rob Schneider: Asian Momma, Mexican Kids
-*Released on 2020-08-11, vote average 2*
-
-Former &#34;Saturday Night Live&#34; star Rob Schneider returns to the stage and shares his take on life, love and dinosaur dreams in this stand-up special. Ending with a surprise duet performance with his daughter, singer-songwriter Elle King, Rob talks about potty training his young daughters and his own pig potential.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/x0h2qlZNY2A?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Seriously Single
-*Released on 2020-07-31, vote average 7.3*
-
-While her free-living bestie urges her to embrace singlehood, a commitment-craving social media expert can&#39;t stop following the life of a former love.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/V2SVIVkP2_U?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### Monstrous
-*Released on 2020-08-11, vote average 5.5*
+*Released on 2020-08-11, vote average 5*
 
 A young woman goes searching for answers after her friend mysteriously vanishes in Whitehall, NY, an Adirondack town known for its Bigfoot sightings. She quickly learns that hiding in the woods is an evil more sinister than she could ever imagine.
 
@@ -374,18 +274,23 @@ A young woman goes searching for answers after her friend mysteriously vanishes 
 
 
 	
+
+  
+
+
+	
 	
 
-### What We Found
-*Released on 2020-07-31, vote average 2*
+### Project Power
+*Released on 2020-08-14, vote average 10*
 
-Close friends Marcus and Holly begin their freshman year at a tough public high school in Baltimore County, Maryland. When Cassie, a well liked senior at the school, disappears suspiciously, both of their lives change forever. Together, will they find out what happened to Cassie? And after a dramatic confrontation, will any of them ever be the same?
+An ex-soldier, a teen and a cop collide in New Orleans as they hunt for the source behind a dangerous new pill that grants users temporary superpowers.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/rZkNnc-9Sfc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xw1vQgVaYNQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -395,15 +300,70 @@ Close friends Marcus and Holly begin their freshman year at a tough public high 
   
 
 
+	
+	
+
+### Yusuf Hawkins: Storm Over Brooklyn
+*Released on 2020-08-12, vote average 1*
+
+The 30-year legacy of the murder of black teenager Yusuf Hawkins by a group of young white men in Bensonhurst, Brooklyn, as his family and friends reflect on the tragedy and the subsequent fight for justice that inspired and divided New York City.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/4-BCcFZ4i2g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Malibu Rescue: The Next Wave
+*Released on 2020-08-04, vote average 6.8*
+
+It’s summer again, and everyone’s favorite Junior Rescuers, The Flounders, are back at Tower 2. With the International Junior Rescue Championships headed to Southern California, the eyes of the entire planet are on Malibu Beach. But when Team USA falls victim to a bout of food poisoning, it’s up to Tyler, Dylan, Eric, Lizzie and Gina to represent their country in the world&#39;s most extreme lifeguard challenge!
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_dOsJFhJNGc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 
 ## Opening soon
 
-
-	
-
-	
-
-	
 
 	
 	
@@ -427,28 +387,18 @@ After SpongeBob&#39;s beloved pet snail Gary is snail-napped, he and Patrick emb
 	
 
 	
-
 	
 
-	
+### Project Power
+*Released on 2020-08-14, vote average 10*
 
-	
-
-	
-
-	
-	
-
-### Archive
-*Released on 2020-08-13, vote average 6.8*
-
-2038: George Almore is working on a true human-equivalent AI, and his latest prototype is almost ready. This sensitive phase is also the riskiest as he has a goal that must be hidden at all costs—being reunited with his dead wife.
+An ex-soldier, a teen and a cop collide in New Orleans as they hunt for the source behind a dangerous new pill that grants users temporary superpowers.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/m0J0BwIzURI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xw1vQgVaYNQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -463,6 +413,56 @@ After SpongeBob&#39;s beloved pet snail Gary is snail-napped, he and Patrick emb
 
 	
 
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Friend of the World
+*Released on 2020-08-15, vote average 1*
+
+After a catastrophic global war, a young filmmaker awakens in the carnage and seeks refuge in the only other survivor: an eccentric, ideologically opposed figure of the United States military. Together, they brave the toxic landscape in search of safety... and answers.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/GjNiqMOD1LE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### Patriot A Nation At War
+*Released on 2020-08-17, vote average 1*
+
+A disavowed CIA agent goes on the run when she is attacked by mercenaries who have learned she possesses a missing memory card containing information that could start World War III.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/UviGTI5CnbA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
