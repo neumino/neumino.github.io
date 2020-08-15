@@ -47,7 +47,7 @@ A brilliant but clumsy high school senior vows to get into her late father&#39;s
 	
 
 ### The Tax Collector
-*Released on 2020-08-07, vote average 6*
+*Released on 2020-08-07, vote average 6.2*
 
 David Cuevas is a family man who works as a gangland tax collector for high ranking Los Angeles gang members. He makes collections across the city with his partner Creeper making sure people pay up or will see retaliation. An old threat returns to Los Angeles that puts everything David loves in harm’s way.
 
@@ -69,7 +69,7 @@ David Cuevas is a family man who works as a gangland tax collector for high rank
 	
 
 ### Made in Italy
-*Released on 2020-08-06, vote average 6.4*
+*Released on 2020-08-06, vote average 5.8*
 
 A bohemian artist travels from London to Italy with his estranged son to sell the house they inherited from his late wife.
 
@@ -91,7 +91,7 @@ A bohemian artist travels from London to Italy with his estranged son to sell th
 	
 
 ### Deathstroke: Knights &amp; Dragons - The Movie
-*Released on 2020-08-04, vote average 7.3*
+*Released on 2020-08-04, vote average 7.1*
 
 Ten years ago, Slade Wilson-aka the super-assassin called Deathstroke-made a tragic mistake and his wife and son paid a terrible price. Now, a decade later, Wilson&#39;s family is threatened once again by the murderous Jackal and the terrorists of H.IV.E. Can Deathstroke atone for the sins of the past-or will his family pay the ultimate price?
 
@@ -112,8 +112,86 @@ Ten years ago, Slade Wilson-aka the super-assassin called Deathstroke-made a tra
 	
 	
 
+### The SpongeBob Movie: Sponge on the Run
+*Released on 2020-08-14, vote average 8*
+
+After SpongeBob&#39;s beloved pet snail Gary is snail-napped, he and Patrick embark on an epic adventure to The Lost City of Atlantic City to bring Gary home.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/HfiH_526qhY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### G-Loc
+*Released on 2020-08-11, vote average 7.1*
+
+With Earth virtually destroyed, Bran Marshall flees to Rhea, a nearby planet now hostile towards &#34;Earthers&#34;. Escaping onto a Rhean supply ship, he finds the crew slaughtered, with the only survivor a female warrior named Ohsha. As the two try to kill one another, the ship is damaged by meteorites. Bran and Ohsha must join forces to salvage the craft before it impacts the planet below — and the humans that live there.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8hG6oX5BNaw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Project Power
+*Released on 2020-08-14, vote average 10*
+
+An ex-soldier, a teen and a cop collide in New Orleans as they hunt for the source behind a dangerous new pill that grants users temporary superpowers.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xw1vQgVaYNQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
 ### An American Pickle
-*Released on 2020-08-06, vote average 5.6*
+*Released on 2020-08-06, vote average 5.5*
 
 An immigrant worker at a pickle factory is accidentally preserved for 100 years and wakes up in modern day Brooklyn. He learns his only surviving relative is his great grandson, a computer coder who he can’t connect with.
 
@@ -132,18 +210,28 @@ An immigrant worker at a pickle factory is accidentally preserved for 100 years 
 
 
 	
+
+  
+
+
 	
 
-### G-Loc
-*Released on 2020-08-11, vote average 6.8*
+  
 
-With Earth virtually destroyed, Bran Marshall flees to Rhea, a nearby planet now hostile towards &#34;Earthers&#34;. Escaping onto a Rhean supply ship, he finds the crew slaughtered, with the only survivor a female warrior named Ohsha. As the two try to kill one another, the ship is damaged by meteorites. Bran and Ohsha must join forces to salvage the craft before it impacts the planet below — and the humans that live there.
+
+	
+	
+
+### Fatima
+*Released on 2020-08-13, vote average 2*
+
+In 1917, outside the parish of Fátima, Portugal, a 10-year-old girl and her two younger cousins witness multiple visitations of the Virgin Mary, who tells them that only prayer and suffering will bring an end to World War I.  As secularist government officials and Church leaders try to force the children to recant their story, word of the sighting spreads across the country, inspiring religious pilgrims to flock to the site in hopes of witnessing a miracle..
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/8hG6oX5BNaw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/pJ5T5rVBGHA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -188,16 +276,16 @@ When a punk band scores their first tour, life on the road proves tough when the
 	
 	
 
-### The SpongeBob Movie: Sponge on the Run
-*Released on 2020-08-14, vote average 10*
+### Archive
+*Released on 2020-08-13, vote average 6.2*
 
-After SpongeBob&#39;s beloved pet snail Gary is snail-napped, he and Patrick embark on an epic adventure to The Lost City of Atlantic City to bring Gary home.
+2038: George Almore is working on a true human-equivalent AI, and his latest prototype is almost ready. This sensitive phase is also the riskiest as he has a goal that must be hidden at all costs—being reunited with his dead wife.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/HfiH_526qhY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/m0J0BwIzURI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -207,94 +295,6 @@ After SpongeBob&#39;s beloved pet snail Gary is snail-napped, he and Patrick emb
   
 
 
-	
-	
-
-### Max Reload and the Nether Blasters
-*Released on 2020-08-11, vote average 5.3*
-
-A small town video game store clerk must go from zero to hero after accidentally unleashing the forces of evil from a cursed Colecovision game.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tT_bY4m8gR4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### She Dies Tomorrow
-*Released on 2020-07-31, vote average 5.2*
-
-Amy is ravaged by the notion that she is going to die tomorrow, which sends her down a dizzying emotional spiral. When her sceptical friend Jane discovers Amy’s feeling of imminent death to be contagious, they both begin bizarre journeys through what might be the last day of their lives.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hcMFjCPkP3M?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Monstrous
-*Released on 2020-08-11, vote average 5*
-
-A young woman goes searching for answers after her friend mysteriously vanishes in Whitehall, NY, an Adirondack town known for its Bigfoot sightings. She quickly learns that hiding in the woods is an evil more sinister than she could ever imagine.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/q3vXCwiXVgY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Project Power
-*Released on 2020-08-14, vote average 10*
-
-An ex-soldier, a teen and a cop collide in New Orleans as they hunt for the source behind a dangerous new pill that grants users temporary superpowers.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xw1vQgVaYNQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -323,40 +323,6 @@ The 30-year legacy of the murder of black teenager Yusuf Hawkins by a group of y
 
 
 	
-	
-	
-
-  
-
-
-	
-	
-
-### Malibu Rescue: The Next Wave
-*Released on 2020-08-04, vote average 6.8*
-
-It’s summer again, and everyone’s favorite Junior Rescuers, The Flounders, are back at Tower 2. With the International Junior Rescue Championships headed to Southern California, the eyes of the entire planet are on Malibu Beach. But when Team USA falls victim to a bout of food poisoning, it’s up to Tyler, Dylan, Eric, Lizzie and Gina to represent their country in the world&#39;s most extreme lifeguard challenge!
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/_dOsJFhJNGc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 
   
 
@@ -368,63 +334,20 @@ It’s summer again, and everyone’s favorite Junior Rescuers, The Flounders, a
 	
 	
 
-### The SpongeBob Movie: Sponge on the Run
-*Released on 2020-08-14, vote average 10*
+### Palm Springs
+*Released on 2020-08-20, vote average 8*
 
-After SpongeBob&#39;s beloved pet snail Gary is snail-napped, he and Patrick embark on an epic adventure to The Lost City of Atlantic City to bring Gary home.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/HfiH_526qhY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-	
-
-### Project Power
-*Released on 2020-08-14, vote average 10*
-
-An ex-soldier, a teen and a cop collide in New Orleans as they hunt for the source behind a dangerous new pill that grants users temporary superpowers.
+When carefree Nyles and reluctant maid of honor Sarah have a chance encounter at a Palm Springs wedding, things get complicated when they find themselves unable to escape the venue, themselves, or each other.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xw1vQgVaYNQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/CpBLtXduh_k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
@@ -447,6 +370,29 @@ After a catastrophic global war, a young filmmaker awakens in the carnage and se
 	
 
 	
+
+	
+	
+
+### Wedding Every Weekend
+*Released on 2020-08-15, vote average 2*
+
+Nate and Brooke are going to the same four weddings, four weekends in a row. To avoid the singles tables and set-ups, they agree to go together as &#34;wedding buddies.&#34; But what starts as a friendship soon becomes something deeper.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xC8NsGH9zCM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
 	
 
 ### Patriot A Nation At War
@@ -463,6 +409,45 @@ A disavowed CIA agent goes on the run when she is attacked by mercenaries who ha
   allowfullscreen></iframe>
 
 	
+	
+
+	
+	
+
+### Tesla
+*Released on 2020-08-20, vote average 8*
+
+The story of the Promethean struggles of Nikola Tesla, as he attempts to transcend entrenched technology—including his own previous work—by pioneering a system of wireless energy that would change the world.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/e4U-23TOKms?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+	
+
+	
+
 	
 
 	
