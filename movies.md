@@ -47,7 +47,7 @@ A brilliant but clumsy high school senior vows to get into her late father&#39;s
 	
 
 ### The Tax Collector
-*Released on 2020-08-07, vote average 6.2*
+*Released on 2020-08-07, vote average 6.1*
 
 David Cuevas is a family man who works as a gangland tax collector for high ranking Los Angeles gang members. He makes collections across the city with his partner Creeper making sure people pay up or will see retaliation. An old threat returns to Los Angeles that puts everything David loves in harm’s way.
 
@@ -69,7 +69,7 @@ David Cuevas is a family man who works as a gangland tax collector for high rank
 	
 
 ### Made in Italy
-*Released on 2020-08-06, vote average 5.8*
+*Released on 2020-08-06, vote average 6.7*
 
 A bohemian artist travels from London to Italy with his estranged son to sell the house they inherited from his late wife.
 
@@ -112,16 +112,60 @@ Ten years ago, Slade Wilson-aka the super-assassin called Deathstroke-made a tra
 	
 	
 
-### The SpongeBob Movie: Sponge on the Run
-*Released on 2020-08-14, vote average 8*
+### Project Power
+*Released on 2020-08-14, vote average 6.5*
 
-After SpongeBob&#39;s beloved pet snail Gary is snail-napped, he and Patrick embark on an epic adventure to The Lost City of Atlantic City to bring Gary home.
+An ex-soldier, a teen and a cop collide in New Orleans as they hunt for the source behind a dangerous new pill that grants users temporary superpowers.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/HfiH_526qhY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xw1vQgVaYNQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Spree
+*Released on 2020-08-14, vote average 3*
+
+Kurt Kunkle, a rideshare driver thirsty for followers, has figured out a deadly plan to go viral. As his disturbing livestream is absurdly embraced by the social media hellscape, a comedienne emerges as the only hope to stop this rampage.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/erM9PAi_QYQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Magic Camp
+*Released on 2020-08-14, vote average 7.3*
+
+Andy, at the urging of his former mentor and Magic Camp owner Roy Preston, returns to the camp of his youth hoping to reignite his career. Instead, he finds inspiration in his ragtag bunch of rookie magicians.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/GAmcupYhwKA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -154,23 +198,18 @@ With Earth virtually destroyed, Bran Marshall flees to Rhea, a nearby planet now
 
 
 	
-
-  
-
-
-	
 	
 
-### Project Power
-*Released on 2020-08-14, vote average 10*
+### The SpongeBob Movie: Sponge on the Run
+*Released on 2020-08-14, vote average 7.3*
 
-An ex-soldier, a teen and a cop collide in New Orleans as they hunt for the source behind a dangerous new pill that grants users temporary superpowers.
+After SpongeBob&#39;s beloved pet snail Gary is snail-napped, he and Patrick embark on an epic adventure to The Lost City of Atlantic City to bring Gary home.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xw1vQgVaYNQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/HfiH_526qhY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -190,8 +229,30 @@ An ex-soldier, a teen and a cop collide in New Orleans as they hunt for the sour
 	
 	
 
+### Fearless
+*Released on 2020-08-14, vote average 4.8*
+
+A teen gamer is forced to level up to full-time babysitter when his favorite video game drops three superpowered infants from space into his backyard.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jxnQFP47SzY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### An American Pickle
-*Released on 2020-08-06, vote average 5.5*
+*Released on 2020-08-06, vote average 5.4*
 
 An immigrant worker at a pickle factory is accidentally preserved for 100 years and wakes up in modern day Brooklyn. He learns his only surviving relative is his great grandson, a computer coder who he can’t connect with.
 
@@ -210,32 +271,47 @@ An immigrant worker at a pickle factory is accidentally preserved for 100 years 
 
 
 	
-
-  
-
-
 	
 
-  
+### Friend of the World
+*Released on 2020-08-15, vote average 1*
 
-
-	
-	
-
-### Fatima
-*Released on 2020-08-13, vote average 2*
-
-In 1917, outside the parish of Fátima, Portugal, a 10-year-old girl and her two younger cousins witness multiple visitations of the Virgin Mary, who tells them that only prayer and suffering will bring an end to World War I.  As secularist government officials and Church leaders try to force the children to recant their story, word of the sighting spreads across the country, inspiring religious pilgrims to flock to the site in hopes of witnessing a miracle..
+After a catastrophic global war, a young filmmaker awakens in the carnage and seeks refuge in the only other survivor: an eccentric, ideologically opposed figure of the United States military. Together, they brave the toxic landscape in search of safety... and answers.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/pJ5T5rVBGHA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/GjNiqMOD1LE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -264,64 +340,22 @@ When a punk band scores their first tour, life on the road proves tough when the
 
 
 	
-
-  
-
-
 	
 
-  
+### Wedding Every Weekend
+*Released on 2020-08-15, vote average 2*
 
-
-	
-	
-
-### Archive
-*Released on 2020-08-13, vote average 6.2*
-
-2038: George Almore is working on a true human-equivalent AI, and his latest prototype is almost ready. This sensitive phase is also the riskiest as he has a goal that must be hidden at all costs—being reunited with his dead wife.
+Nate and Brooke are going to the same four weddings, four weekends in a row. To avoid the singles tables and set-ups, they agree to go together as &#34;wedding buddies.&#34; But what starts as a friendship soon becomes something deeper.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/m0J0BwIzURI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xC8NsGH9zCM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Yusuf Hawkins: Storm Over Brooklyn
-*Released on 2020-08-12, vote average 1*
-
-The 30-year legacy of the murder of black teenager Yusuf Hawkins by a group of young white men in Bensonhurst, Brooklyn, as his family and friends reflect on the tragedy and the subsequent fight for justice that inspired and divided New York City.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/4-BCcFZ4i2g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -335,7 +369,7 @@ The 30-year legacy of the murder of black teenager Yusuf Hawkins by a group of y
 	
 
 ### Palm Springs
-*Released on 2020-08-20, vote average 8*
+*Released on 2020-08-20, vote average 8.1*
 
 When carefree Nyles and reluctant maid of honor Sarah have a chance encounter at a Palm Springs wedding, things get complicated when they find themselves unable to escape the venue, themselves, or each other.
 
@@ -344,46 +378,6 @@ When carefree Nyles and reluctant maid of honor Sarah have a chance encounter at
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/CpBLtXduh_k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Friend of the World
-*Released on 2020-08-15, vote average 1*
-
-After a catastrophic global war, a young filmmaker awakens in the carnage and seeks refuge in the only other survivor: an eccentric, ideologically opposed figure of the United States military. Together, they brave the toxic landscape in search of safety... and answers.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/GjNiqMOD1LE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-	
-
-### Wedding Every Weekend
-*Released on 2020-08-15, vote average 2*
-
-Nate and Brooke are going to the same four weddings, four weekends in a row. To avoid the singles tables and set-ups, they agree to go together as &#34;wedding buddies.&#34; But what starts as a friendship soon becomes something deeper.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xC8NsGH9zCM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -412,18 +406,34 @@ A disavowed CIA agent goes on the run when she is attacked by mercenaries who ha
 	
 
 	
+
 	
 
-### Tesla
-*Released on 2020-08-20, vote average 8*
+	
 
-The story of the Promethean struggles of Nikola Tesla, as he attempts to transcend entrenched technology—including his own previous work—by pioneering a system of wireless energy that would change the world.
+	
+
+	
+
+	
+	
+	
+
+	
+
+	
+	
+
+### Irresistible
+*Released on 2020-08-21, vote average 4*
+
+A Democratic political consultant helps a retired Marine colonel run for mayor in a small, conservative Wisconsin town.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/e4U-23TOKms?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/0vhaAoSm1NY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -434,16 +444,6 @@ The story of the Promethean struggles of Nikola Tesla, as he attempts to transce
 
 	
 
-	
-
-	
-
-	
-
-	
-
-	
-	
 	
 
 	
