@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Project Power
-*Released on 2020-08-14, vote average 6.7*
+*Released on 2020-08-14, vote average 6.8*
 
 An ex-soldier, a teen and a cop collide in New Orleans as they hunt for the source behind a dangerous new pill that grants users temporary superpowers.
 
@@ -47,7 +47,7 @@ An ex-soldier, a teen and a cop collide in New Orleans as they hunt for the sour
 	
 
 ### Fearless
-*Released on 2020-08-14, vote average 7*
+*Released on 2020-08-14, vote average 7.3*
 
 A teen gamer is forced to level up to full-time babysitter when his favorite video game drops three superpowered infants from space into his backyard.
 
@@ -56,6 +56,28 @@ A teen gamer is forced to level up to full-time babysitter when his favorite vid
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/jxnQFP47SzY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Magic Camp
+*Released on 2020-08-14, vote average 7.4*
+
+Andy, at the urging of his former mentor and Magic Camp owner Roy Preston, returns to the camp of his youth hoping to reignite his career. Instead, he finds inspiration in his ragtag bunch of rookie magicians.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/GAmcupYhwKA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -90,16 +112,16 @@ A brilliant but clumsy high school senior vows to get into her late father&#39;s
 	
 	
 
-### Magic Camp
-*Released on 2020-08-14, vote average 6.8*
+### Tesla
+*Released on 2020-08-14, vote average 6.5*
 
-Andy, at the urging of his former mentor and Magic Camp owner Roy Preston, returns to the camp of his youth hoping to reignite his career. Instead, he finds inspiration in his ragtag bunch of rookie magicians.
+The story of the Promethean struggles of Nikola Tesla, as he attempts to transcend entrenched technology—including his own previous work—by pioneering a system of wireless energy that would change the world.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/GAmcupYhwKA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/e4U-23TOKms?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -119,16 +141,16 @@ Andy, at the urging of his former mentor and Magic Camp owner Roy Preston, retur
 	
 	
 
-### Tesla
-*Released on 2020-08-14, vote average 6.4*
+### Made in Italy
+*Released on 2020-08-06, vote average 6.3*
 
-The story of the Promethean struggles of Nikola Tesla, as he attempts to transcend entrenched technology—including his own previous work—by pioneering a system of wireless energy that would change the world.
+A bohemian artist travels from London to Italy with his estranged son to sell the house they inherited from his late wife.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/e4U-23TOKms?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/tJHcv0Pm0RU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -163,16 +185,16 @@ David Cuevas is a family man who works as a gangland tax collector for high rank
 	
 	
 
-### Made in Italy
-*Released on 2020-08-06, vote average 6.3*
+### An American Pickle
+*Released on 2020-08-06, vote average 5.5*
 
-A bohemian artist travels from London to Italy with his estranged son to sell the house they inherited from his late wife.
+An immigrant worker at a pickle factory is accidentally preserved for 100 years and wakes up in modern day Brooklyn. He learns his only surviving relative is his great grandson, a computer coder who he can’t connect with.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/tJHcv0Pm0RU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/JBC0pTh6GDM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -205,22 +227,10 @@ Will believes his wife Rosalind is innocent of their son&#39;s suspected murder,
 
 
 	
-	
 
-### Patriot A Nation At War
-*Released on 2020-08-17, vote average 1*
+  
 
-A disavowed CIA agent goes on the run when she is attacked by mercenaries who have learned she possesses a missing memory card containing information that could start World War III.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/UviGTI5CnbA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -262,147 +272,10 @@ After SpongeBob&#39;s beloved pet snail Gary is snail-napped, he and Patrick emb
 
 	
 	
-
-### Spree
-*Released on 2020-08-14, vote average 5.9*
-
-Kurt Kunkle, a rideshare driver thirsty for followers, has figured out a deadly plan to go viral. As his disturbing livestream is absurdly embraced by the social media hellscape, a comedienne emerges as the only hope to stop this rampage.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/erM9PAi_QYQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
 
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### An American Pickle
-*Released on 2020-08-06, vote average 5.5*
-
-An immigrant worker at a pickle factory is accidentally preserved for 100 years and wakes up in modern day Brooklyn. He learns his only surviving relative is his great grandson, a computer coder who he can’t connect with.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/JBC0pTh6GDM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Khuda Haafiz
-*Released on 2020-08-14, vote average 7*
-
-A newly married couple&#39;s life falls in jeopardy when his wife goes missing under mysterious circumstances. Set during the financial crisis of 2007–2008, the film is inspired by true events and follows Sameer Chaudhary, a young man who races against time to rescue his kidnapped wife Nargis from flesh traders.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ByYWL1SEe-k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-
-## Opening soon
-
-
-	
-	
-
-### Palm Springs
-*Released on 2020-08-20, vote average 7.9*
-
-When carefree Nyles and reluctant maid of honor Sarah have a chance encounter at a Palm Springs wedding, things get complicated when they find themselves unable to escape the venue, themselves, or each other.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/CpBLtXduh_k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	
-	
-
-	
-	
-
-### Irresistible
-*Released on 2020-08-21, vote average 6.2*
-
-A Democratic political consultant helps a retired Marine colonel run for mayor in a small, conservative Wisconsin town.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0vhaAoSm1NY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
 
 	
 	
@@ -421,6 +294,44 @@ Amy, an 11-year-old girl, joins a group of dancers named “the cuties” at sch
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+
+## Opening soon
+
+
+	
+
+	
+
+	
+	
+	
+
+	
+
+	
+
 	
 
 	
@@ -443,7 +354,41 @@ The story follows a student navigating high school life while living with parano
 	
 
 	
+	
 
+### Irresistible
+*Released on 2020-08-21, vote average 5.6*
+
+A Democratic political consultant helps a retired Marine colonel run for mayor in a small, conservative Wisconsin town.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0vhaAoSm1NY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### Rev
+*Released on 2020-08-20, vote average 2*
+
+A young thief with a history of grand theft auto becomes an informant and helps police bring down a criminal enterprise involved in the smuggling of hundreds of exotic super cars.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jYW8Qjhx3KM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -454,6 +399,29 @@ The story follows a student navigating high school life while living with parano
 
 	
 
+	
+
+	
+
+	
+
+	
+	
+
+### Chemical Hearts
+*Released on 2020-08-21, vote average 10*
+
+A high school transfer student finds a new passion when she begins to work on the school&#39;s newspaper.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/eEWLDqLdP0A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
