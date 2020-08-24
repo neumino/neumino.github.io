@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Project Power
-*Released on 2020-08-14, vote average 6.8*
+*Released on 2020-08-14, vote average 6.7*
 
 An ex-soldier, a teen and a cop collide in New Orleans as they hunt for the source behind a dangerous new pill that grants users temporary superpowers.
 
@@ -47,7 +47,7 @@ An ex-soldier, a teen and a cop collide in New Orleans as they hunt for the sour
 	
 
 ### Tenet
-*Released on 2020-08-22, vote average 5*
+*Released on 2020-08-22, vote average 5.6*
 
 Armed with only one word - Tenet - and fighting for the survival of the entire world, the Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.
 
@@ -68,96 +68,8 @@ Armed with only one word - Tenet - and fighting for the survival of the entire w
 	
 	
 
-### Fearless
-*Released on 2020-08-14, vote average 6.8*
-
-A teen gamer is forced to level up to full-time babysitter when his favorite video game drops three superpowered infants from space into his backyard.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jxnQFP47SzY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Magic Camp
-*Released on 2020-08-14, vote average 6.9*
-
-Andy, at the urging of his former mentor and Magic Camp owner Roy Preston, returns to the camp of his youth hoping to reignite his career. Instead, he finds inspiration in his ragtag bunch of rookie magicians.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/GAmcupYhwKA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Irresistible
-*Released on 2020-08-21, vote average 5.2*
-
-A Democratic political consultant helps a retired Marine colonel run for mayor in a small, conservative Wisconsin town.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0vhaAoSm1NY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Tesla
-*Released on 2020-08-14, vote average 6*
-
-The story of the Promethean struggles of Nikola Tesla, as he attempts to transcend entrenched technology—including his own previous work—by pioneering a system of wireless energy that would change the world.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/e4U-23TOKms?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The One and Only Ivan
-*Released on 2020-08-21, vote average 6.4*
+*Released on 2020-08-21, vote average 6.5*
 
 Ivan is a 400-pound silverback gorilla who shares a communal habitat in a suburban shopping mall with Stella the elephant, Bob the dog, and various other animals. He has few memories of the jungle where he was captured, but when a baby elephant named Ruby arrives, it touches something deep within him. Ruby is recently separated from her family in the wild, which causes him to question his life, where he comes from and where he ultimately wants to be.
 
@@ -178,30 +90,8 @@ Ivan is a 400-pound silverback gorilla who shares a communal habitat in a suburb
 	
 	
 
-### The Pale Door
-*Released on 2020-08-21, vote average 4.3*
-
-After a train robbery, two brothers leading a gang of cowboys must survive the night in a ghost town inhabited by a coven of witches.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2CLqzKWDyxg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Chemical Hearts
-*Released on 2020-08-21, vote average 6.6*
+*Released on 2020-08-21, vote average 7.9*
 
 A high school transfer student finds a new passion when she begins to work on the school&#39;s newspaper.
 
@@ -221,16 +111,9 @@ A high school transfer student finds a new passion when she begins to work on th
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### The Crimes That Bind
-*Released on 2020-08-20, vote average 7.4*
+*Released on 2020-08-20, vote average 7.5*
 
 When her son is accused of raping and trying to murder his ex-wife, Alicia embarks on a journey that will change her life forever.
 
@@ -252,7 +135,7 @@ When her son is accused of raping and trying to murder his ex-wife, Alicia embar
 	
 
 ### The Sleepover
-*Released on 2020-08-21, vote average 5.9*
+*Released on 2020-08-21, vote average 6.9*
 
 Two siblings who discover their seemingly normal mom is a former thief in witness protection. Mom is forced to pull one last job, and the kids team up to rescue her over the course of an action-packed night.
 
@@ -273,16 +156,104 @@ Two siblings who discover their seemingly normal mom is a former thief in witnes
 	
 	
 
-### The Unfamiliar
-*Released on 2020-08-20, vote average 3.6*
+### Fearless
+*Released on 2020-08-14, vote average 6.5*
 
-A British Army doctor comes back from a war, thinking that she has PTSD only to discover that there is a more daunting malevolence at work making the life that she knew unfamiliar.
+A teen gamer is forced to level up to full-time babysitter when his favorite video game drops three superpowered infants from space into his backyard.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/KD43OQnTMWU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/jxnQFP47SzY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Irresistible
+*Released on 2020-08-21, vote average 6*
+
+A Democratic political consultant helps a retired Marine colonel run for mayor in a small, conservative Wisconsin town.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0vhaAoSm1NY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Pale Door
+*Released on 2020-08-21, vote average 5.4*
+
+The Dalton gang escape to a nearby town after a train robbery goes south, but they are met by a coven of witches with sinister plans for the unsuspecting outlaws.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2CLqzKWDyxg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Rogue
+*Released on 2020-08-20, vote average 5.6*
+
+Battle-hardened O’Hara leads a lively mercenary team of soldiers on a daring mission: rescue hostages from their captors in remote Africa. But as the mission goes awry and the team is stranded, O’Hara’s squad must face a bloody, brutal encounter with a gang of rebels.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IpSK2CsKULg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Magic Camp
+*Released on 2020-08-14, vote average 7.3*
+
+Andy, at the urging of his former mentor and Magic Camp owner Roy Preston, returns to the camp of his youth hoping to reignite his career. Instead, he finds inspiration in his ragtag bunch of rookie magicians.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/GAmcupYhwKA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -317,8 +288,88 @@ The incredibly powerful and timely true story of the all-black Twenty-Fourth Uni
 	
 	
 
+### Tesla
+*Released on 2020-08-14, vote average 6.2*
+
+The story of the Promethean struggles of Nikola Tesla, as he attempts to transcend entrenched technology—including his own previous work—by pioneering a system of wireless energy that would change the world.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/e4U-23TOKms?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### The Unfamiliar
+*Released on 2020-08-20, vote average 3.6*
+
+A British Army doctor comes back from a war, thinking that she has PTSD only to discover that there is a more daunting malevolence at work making the life that she knew unfamiliar.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KD43OQnTMWU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Superman: Man of Tomorrow
+*Released on 2020-08-23, vote average 8*
+
+It’s the dawn of a new age of heroes, and Metropolis has just met its first. But as Daily Planet intern Clark Kent – working alongside reporter Lois Lane – secretly wields his alien powers of flight, super-strength and x-ray vision in the battle for good, there’s even greater trouble on the horizon.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/weOF9_FGjOk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The SpongeBob Movie: Sponge on the Run
-*Released on 2020-08-14, vote average 7.4*
+*Released on 2020-08-14, vote average 6.8*
 
 After SpongeBob&#39;s beloved pet snail Gary is snail-napped, he and Patrick embark on an epic adventure to The Lost City of Atlantic City to bring Gary home.
 
@@ -338,21 +389,6 @@ After SpongeBob&#39;s beloved pet snail Gary is snail-napped, he and Patrick emb
 
 	
 	
-
-### How to Fake a War
-*Released on 2020-08-21, vote average 1.3*
-
-When an unexpected outbreak of peace leads to a ceasefire between Russian forces and Georgian rebels, arrogant rock star Harry Hope fears for the success of his heavily hyped Piece of Peace global charity concert. Desperate, he dispatches his PR consultant, Kate, and her naïve intern, Peggy, to create a fake war story – until the concert, at least.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/L6QNbSpzLEI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -361,82 +397,16 @@ When an unexpected outbreak of peace leads to a ceasefire between Russian forces
 	
 	
 
-### Cuties
-*Released on 2020-08-19, vote average 3.8*
+### The Bay of Silence
+*Released on 2020-08-14, vote average 4.5*
 
-Amy, an 11-year-old girl, joins a group of dancers named “the cuties” at school, and rapidly grows aware of her burgeoning femininity—upsetting her mother and her values in the process.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/M0O7lLe4SmA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Rogue
-*Released on 2020-08-20, vote average 5.3*
-
-Battle-hardened O’Hara leads a lively mercenary team of soldiers on a daring mission: rescue hostages from their captors in remote Africa. But as the mission goes awry and the team is stranded, O’Hara’s squad must face a bloody, brutal encounter with a gang of rebels.
+Will believes his wife Rosalind is innocent of their son&#39;s suspected murder, only to discover the devastating truth behind her past links her to another unsolved crime.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/IpSK2CsKULg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Words on Bathroom Walls
-*Released on 2020-08-21, vote average 1.9*
-
-The story follows a student navigating high school life while living with paranoid schizophrenia and battling wild hallucinations. An experimental drug trial promises to help hide his illness from his peers and, most importantly, from the girl of his dreams.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/4E1-RnpOe8Q?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### You Cannot Kill David Arquette
-*Released on 2020-08-21, vote average 1.5*
-
-Following his infamous championship as part of a marketing stunt for the film Ready to Rumble, David Arquette is widely known as the most hated man in pro-wrestling worldwide. Nearly 20 years after he &#34;won&#34; the initial title, through ups and downs in his career, with his family, and with his struggles with addiction, David Arquette seeks redemption by returning to the ring...for real this time.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ryHmKssMGak?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/P6_ejcj38WQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -451,26 +421,24 @@ Following his infamous championship as part of a marketing stunt for the film Re
 
 
 	
-
 	
 
-	
-	
+### The New Mutants
+*Released on 2020-08-26, vote average 2*
 
-### Superman: Man of Tomorrow
-*Released on 2020-08-23, vote average 8*
-
-It’s the dawn of a new age of heroes, and Metropolis has just met its first. But as Daily Planet intern Clark Kent – working alongside reporter Lois Lane – secretly wields his alien powers of flight, super-strength and x-ray vision in the battle for good, there’s even greater trouble on the horizon.
+Five young mutants, just discovering their abilities while held in a secret facility against their will, fight to escape their past sins and save themselves.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/weOF9_FGjOk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/bu9e410C__I?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
@@ -505,9 +473,26 @@ The best assassin in the business makes his 500th kill—and decides to retire. 
 	
 
 	
+	
+
+### The Blech Effect
+*Released on 2020-08-25, vote average 1*
+
+How much money does one need to be rich? For David Blech, all the money in the world couldn&#39;t buy peace of mind. Mental Illness and addiction are the powerful nemesis that brings down the one-time King of Biotech.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ahCOr_Aip-I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
 	
+
+	
+
 	
 
 	
