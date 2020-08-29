@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Project Power
-*Released on 2020-08-14, vote average 6.7*
+### Tenet
+*Released on 2020-08-22, vote average 7.6*
 
-An ex-soldier, a teen and a cop collide in New Orleans as they hunt for the source behind a dangerous new pill that grants users temporary superpowers.
+Armed with only one word - Tenet - and fighting for the survival of the entire world, the Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xw1vQgVaYNQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/LdOM0x0XDMo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,30 +46,8 @@ An ex-soldier, a teen and a cop collide in New Orleans as they hunt for the sour
 	
 	
 
-### Tenet
-*Released on 2020-08-22, vote average 7.7*
-
-Armed with only one word - Tenet - and fighting for the survival of the entire world, the Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LdOM0x0XDMo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Rogue
-*Released on 2020-08-20, vote average 5.9*
+*Released on 2020-08-20, vote average 6*
 
 Battle-hardened O’Hara leads a lively mercenary team of soldiers on a daring mission: rescue hostages from their captors in remote Africa. But as the mission goes awry and the team is stranded, O’Hara’s squad must face a bloody, brutal encounter with a gang of rebels.
 
@@ -90,30 +68,8 @@ Battle-hardened O’Hara leads a lively mercenary team of soldiers on a daring m
 	
 	
 
-### Chemical Hearts
-*Released on 2020-08-21, vote average 8.3*
-
-A high school transfer student finds a new passion when she begins to work on the school&#39;s newspaper.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/eEWLDqLdP0A?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Superman: Man of Tomorrow
-*Released on 2020-08-23, vote average 7.7*
+*Released on 2020-08-23, vote average 7.6*
 
 It’s the dawn of a new age of heroes, and Metropolis has just met its first. But as Daily Planet intern Clark Kent – working alongside reporter Lois Lane – secretly wields his alien powers of flight, super-strength and x-ray vision in the battle for good, there’s even greater trouble on the horizon.
 
@@ -134,8 +90,30 @@ It’s the dawn of a new age of heroes, and Metropolis has just met its first. B
 	
 	
 
+### Chemical Hearts
+*Released on 2020-08-21, vote average 8.2*
+
+A high school transfer student finds a new passion when she begins to work on the school&#39;s newspaper.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/eEWLDqLdP0A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Sleepover
-*Released on 2020-08-21, vote average 6.8*
+*Released on 2020-08-21, vote average 6.9*
 
 Two siblings who discover their seemingly normal mom is a former thief in witness protection. Mom is forced to pull one last job, and the kids team up to rescue her over the course of an action-packed night.
 
@@ -156,52 +134,8 @@ Two siblings who discover their seemingly normal mom is a former thief in witnes
 	
 	
 
-### The One and Only Ivan
-*Released on 2020-08-21, vote average 7.3*
-
-Ivan is a 400-pound silverback gorilla who shares a communal habitat in a suburban shopping mall with Stella the elephant, Bob the dog, and various other animals. He has few memories of the jungle where he was captured, but when a baby elephant named Ruby arrives, it touches something deep within him. Ruby is recently separated from her family in the wild, which causes him to question his life, where he comes from and where he ultimately wants to be.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/I-uIQDRS4a8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The New Mutants
-*Released on 2020-08-26, vote average 4.7*
-
-Five young mutants, just discovering their abilities while held in a secret facility against their will, fight to escape their past sins and save themselves.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/bu9e410C__I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### One Night in Bangkok
-*Released on 2020-08-25, vote average 8*
+*Released on 2020-08-25, vote average 7.8*
 
 A hit man named Kai flies into Bangkok, gets a gun, and orders a cab. He offers a professional female driver big money to be his all-night driver. But when she realizes Kai is committing brutal murders at each stop, it&#39;s too late to walk away. Meanwhile, an offbeat police detective races to decode the string of slayings before more blood is spilled.
 
@@ -223,7 +157,7 @@ A hit man named Kai flies into Bangkok, gets a gun, and orders a cab. He offers 
 	
 
 ### The Crimes That Bind
-*Released on 2020-08-20, vote average 7.1*
+*Released on 2020-08-20, vote average 6.9*
 
 When her son is accused of raping and trying to murder his ex-wife, Alicia embarks on a journey that will change her life forever.
 
@@ -243,6 +177,43 @@ When her son is accused of raping and trying to murder his ex-wife, Alicia embar
 
 	
 	
+
+### The New Mutants
+*Released on 2020-08-26, vote average 4.9*
+
+Five young mutants, just discovering their abilities while held in a secret facility against their will, fight to escape their past sins and save themselves.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/bu9e410C__I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The One and Only Ivan
+*Released on 2020-08-21, vote average 7.2*
+
+Ivan is a 400-pound silverback gorilla who shares a communal habitat in a suburban shopping mall with Stella the elephant, Bob the dog, and various other animals. He has few memories of the jungle where he was captured, but when a baby elephant named Ruby arrives, it touches something deep within him. Ruby is recently separated from her family in the wild, which causes him to question his life, where he comes from and where he ultimately wants to be.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/I-uIQDRS4a8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -252,7 +223,7 @@ When her son is accused of raping and trying to murder his ex-wife, Alicia embar
 	
 
 ### Rising Phoenix
-*Released on 2020-08-26, vote average 4.5*
+*Released on 2020-08-26, vote average 7.3*
 
 The history and current standing of the Paralympic Games, which has grown to become the world&#39;s third largest sporting event.
 
@@ -261,72 +232,6 @@ The history and current standing of the Paralympic Games, which has grown to bec
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/-W7Bek4jvos?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Fearless
-*Released on 2020-08-14, vote average 6.7*
-
-A teen gamer is forced to level up to full-time babysitter when his favorite video game drops three superpowered infants from space into his backyard.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jxnQFP47SzY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The SpongeBob Movie: Sponge on the Run
-*Released on 2020-08-14, vote average 6.5*
-
-After SpongeBob&#39;s beloved pet snail Gary is snail-napped, he and Patrick embark on an epic adventure to The Lost City of Atlantic City to bring Gary home.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/HfiH_526qhY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Bill &amp; Ted Face the Music
-*Released on 2020-08-27, vote average 6*
-
-Yet to fulfill their rock and roll destiny, the now middle aged best friends Bill and Ted set out on a new adventure when a visitor from the future warns them that only their song can save life as we know it. Along the way, they will be helped by their daughters, a new batch of historical figures, and a few music legends — to seek the song that will set their world right and bring harmony in the universe.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0hAL7emClFM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -361,38 +266,16 @@ Will believes his wife Rosalind is innocent of their son&#39;s suspected murder,
 	
 	
 
-### Still Here
-*Released on 2020-08-27, vote average 8*
+### Bill &amp; Ted Face the Music
+*Released on 2020-08-27, vote average 5*
 
-A New York journalist who gets assigned the story of a missing African-American young girl, risks his career and takes the matter into his own hands trying to find her.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/U-PsmNT0tQ0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Tesla
-*Released on 2020-08-14, vote average 7.1*
-
-The story of the Promethean struggles of Nikola Tesla, as he attempts to transcend entrenched technology—including his own previous work—by pioneering a system of wireless energy that would change the world.
+Yet to fulfill their rock and roll destiny, the now middle aged best friends Bill and Ted set out on a new adventure when a visitor from the future warns them that only their song can save life as we know it. Along the way, they will be helped by their daughters, a new batch of historical figures, and a few music legends — to seek the song that will set their world right and bring harmony in the universe.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/e4U-23TOKms?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/0hAL7emClFM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -412,16 +295,16 @@ The story of the Promethean struggles of Nikola Tesla, as he attempts to transce
 	
 	
 
-### Words on Bathroom Walls
-*Released on 2020-08-21, vote average 3.5*
+### Hard Kill
+*Released on 2020-08-25, vote average 5.4*
 
-The story follows a student navigating high school life while living with paranoid schizophrenia and battling wild hallucinations. An experimental drug trial promises to help hide his illness from his peers and, most importantly, from the girl of his dreams.
+The work of billionaire tech CEO Donovan Chalmers is so valuable that he hires mercenaries to protect it, and a terrorist group kidnaps his daughter just to get it.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/4E1-RnpOe8Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/7Y6-w5Psupw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -430,14 +313,6 @@ The story follows a student navigating high school life while living with parano
 
   
 
-
-
-## Opening soon
-
-
-	
-
-	
 
 	
 	
@@ -458,6 +333,9 @@ Phineas and Ferb travel across the galaxy to rescue their older sister Candace, 
 	
 	
 
+  
+
+
 	
 	
 
@@ -476,6 +354,9 @@ In the not-so-distant future, all drinking and drugs have been made completely i
 
 	
 	
+
+  
+
 
 	
 	
@@ -496,9 +377,22 @@ A SWAT team transporting a vicious crime syndicate boss must fight their way out
 	
 	
 
+  
+
+
 	
 	
 	
+
+  
+
+
+	
+	
+	
+
+  
+
 
 	
 	
@@ -519,19 +413,28 @@ An optimistic, talented teen clings to a huge secret: she&#39;s homeless and liv
 	
 	
 
+  
+
+
+
+## Opening soon
+
+
+	
+
 	
 	
 
-### Centigrade
-*Released on 2020-08-28, vote average 9*
+### After We Collided
+*Released on 2020-09-02, vote average 9*
 
-A young American couple travel to the arctic mountains of Norway. After pulling over during a snowstorm, they wake up trapped in their SUV, buried underneath layers of snow and ice.
+Tessa finds herself struggling with her complicated relationship with Hardin; she faces a dilemma that could change their lives forever.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/0RvV7TNUlkQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/u5B76cpkbfU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -545,19 +448,40 @@ A young American couple travel to the arctic mountains of Norway. After pulling 
 	
 
 	
+
 	
+
+	
+
 	
 
 	
 	
-	
+
+### Critical Role: The Legend of Vox Machina Animated Special
+*Released on 2020-08-31, vote average 10*
+
+Our original storyline centered on a group of heroes known as Vox Machina — Pike Trickfoot (gnome cleric, Ashley Johnson), Keyleth (half-elf druid, Marisha Ray), Percival “Percy” Fredrickstein Von Musel Klossowski de Rolo III (human gunslinger, Taliesin Jaffe), Grog Strongjaw (goliath barbarian, Travis Willingham), Scanlan Shorthalt (gnome bard, Sam Riegel), Vex’ahlia (half-elf ranger, Laura Bailey), and Vax’ildan (half-elf rogue, Liam O’Brien) — as they battled the forces of evil and learned to work as a team. Their epic tale concluded in November, 2017 after 115 episodes and 373 hours of gameplay.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IAi9xjcNFus?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
 	
+
 	
 
 	
+
 	
+
+	
+
 	
 
 	
