@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Rogue
-*Released on 2020-08-20, vote average 6*
+*Released on 2020-08-20, vote average 5.9*
 
 Battle-hardened O’Hara leads a lively mercenary team of soldiers on a daring mission: rescue hostages from their captors in remote Africa. But as the mission goes awry and the team is stranded, O’Hara’s squad must face a bloody, brutal encounter with a gang of rebels.
 
@@ -46,28 +46,6 @@ Battle-hardened O’Hara leads a lively mercenary team of soldiers on a daring m
 	
 	
 
-### Tenet
-*Released on 2020-08-22, vote average 7.6*
-
-Armed with only one word - Tenet - and fighting for the survival of the entire world, the Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LdOM0x0XDMo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Superman: Man of Tomorrow
 *Released on 2020-08-23, vote average 7.5*
 
@@ -90,16 +68,16 @@ It’s the dawn of a new age of heroes, and Metropolis has just met its first. B
 	
 	
 
-### Chemical Hearts
-*Released on 2020-08-21, vote average 8.1*
+### Tenet
+*Released on 2020-08-22, vote average 7.6*
 
-A high school transfer student finds a new passion when she begins to work on the school&#39;s newspaper.
+Armed with only one word - Tenet - and fighting for the survival of the entire world, the Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/eEWLDqLdP0A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/LdOM0x0XDMo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -113,7 +91,7 @@ A high school transfer student finds a new passion when she begins to work on th
 	
 
 ### One Night in Bangkok
-*Released on 2020-08-25, vote average 7.5*
+*Released on 2020-08-25, vote average 7.3*
 
 A hit man named Kai flies into Bangkok, gets a gun, and orders a cab. He offers a professional female driver big money to be his all-night driver. But when she realizes Kai is committing brutal murders at each stop, it&#39;s too late to walk away. Meanwhile, an offbeat police detective races to decode the string of slayings before more blood is spilled.
 
@@ -122,28 +100,6 @@ A hit man named Kai flies into Bangkok, gets a gun, and orders a cab. He offers 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/Q5VFAn0qmic?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Sleepover
-*Released on 2020-08-21, vote average 6.7*
-
-Two siblings who discover their seemingly normal mom is a former thief in witness protection. Mom is forced to pull one last job, and the kids team up to rescue her over the course of an action-packed night.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zqhfd79fbFs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -178,8 +134,52 @@ When her son is accused of raping and trying to murder his ex-wife, Alicia embar
 	
 	
 
+### Chemical Hearts
+*Released on 2020-08-21, vote average 8.1*
+
+A high school transfer student finds a new passion when she begins to work on the school&#39;s newspaper.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/eEWLDqLdP0A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Sleepover
+*Released on 2020-08-21, vote average 6.8*
+
+Two siblings who discover their seemingly normal mom is a former thief in witness protection. Mom is forced to pull one last job, and the kids team up to rescue her over the course of an action-packed night.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zqhfd79fbFs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The New Mutants
-*Released on 2020-08-26, vote average 5.3*
+*Released on 2020-08-26, vote average 5.5*
 
 Five young mutants, just discovering their abilities while held in a secret facility against their will, fight to escape their past sins and save themselves.
 
@@ -223,9 +223,9 @@ Will believes his wife Rosalind is innocent of their son&#39;s suspected murder,
 	
 
 ### Bill &amp; Ted Face the Music
-*Released on 2020-08-27, vote average 6.4*
+*Released on 2020-08-27, vote average 6.2*
 
-Yet to fulfill their rock and roll destiny, the now middle aged best friends Bill and Ted set out on a new adventure when a visitor from the future warns them that only their song can save life as we know it. Along the way, they will be helped by their daughters, a new batch of historical figures, and a few music legends — to seek the song that will set their world right and bring harmony in the universe.
+Yet to fulfill their rock and roll destiny, the now middle-aged best friends Bill and Ted set out on a new adventure when a visitor from the future warns them that only their song can save life as we know it. Along the way, they are helped by their daughters, a new batch of historical figures and a few music legends—to seek the song that will set their world right and bring harmony to the universe.
 
 <iframe id="player"
 	type="text/html"
@@ -244,52 +244,8 @@ Yet to fulfill their rock and roll destiny, the now middle aged best friends Bil
 	
 	
 
-### The One and Only Ivan
-*Released on 2020-08-21, vote average 7.2*
-
-Ivan is a 400-pound silverback gorilla who shares a communal habitat in a suburban shopping mall with Stella the elephant, Bob the dog, and various other animals. He has few memories of the jungle where he was captured, but when a baby elephant named Ruby arrives, it touches something deep within him. Ruby is recently separated from her family in the wild, which causes him to question his life, where he comes from and where he ultimately wants to be.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/I-uIQDRS4a8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Rising Phoenix
-*Released on 2020-08-26, vote average 7.6*
-
-The history and current standing of the Paralympic Games, which has grown to become the world&#39;s third largest sporting event.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-W7Bek4jvos?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Hard Kill
-*Released on 2020-08-25, vote average 5.9*
+*Released on 2020-08-25, vote average 6*
 
 The work of billionaire tech CEO Donovan Chalmers is so valuable that he hires mercenaries to protect it, and a terrorist group kidnaps his daughter just to get it.
 
@@ -332,16 +288,16 @@ Phineas and Ferb travel across the galaxy to rescue their older sister Candace, 
 	
 	
 
-### The Binge
-*Released on 2020-08-28, vote average 4.5*
+### The One and Only Ivan
+*Released on 2020-08-21, vote average 7.1*
 
-In the not-so-distant future, all drinking and drugs have been made completely illegal by the government, except for one night a year. High school seniors Griffin, Hags, and Andrew make a pilgrimage to get to the best party in town where all their dreams will come true. They will have to avoid their crazed principal, violent siblings, and the wild animals roaming the streets.
+Ivan is a 400-pound silverback gorilla who shares a communal habitat in a suburban shopping mall with Stella the elephant, Bob the dog, and various other animals. He has few memories of the jungle where he was captured, but when a baby elephant named Ruby arrives, it touches something deep within him. Ruby is recently separated from her family in the wild, which causes him to question his life, where he comes from and where he ultimately wants to be.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/qg3ZjDFZaIw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/I-uIQDRS4a8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -354,16 +310,16 @@ In the not-so-distant future, all drinking and drugs have been made completely i
 	
 	
 
-### Attack of the Unknown
-*Released on 2020-08-28, vote average 4.5*
+### The Binge
+*Released on 2020-08-28, vote average 5.2*
 
-A SWAT team transporting a vicious crime syndicate boss must fight their way out of a county detention center during a catastrophic alien invasion.
+In the not-so-distant future, all drinking and drugs have been made completely illegal by the government, except for one night a year. High school seniors Griffin, Hags, and Andrew make a pilgrimage to get to the best party in town where all their dreams will come true. They will have to avoid their crazed principal, violent siblings, and the wild animals roaming the streets.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/VuVOiQyE1JY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/qg3ZjDFZaIw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -398,8 +354,52 @@ An optimistic, talented teen clings to a huge secret: she&#39;s homeless and liv
 	
 	
 
+### Rising Phoenix
+*Released on 2020-08-26, vote average 7.7*
+
+The history and current standing of the Paralympic Games, which has grown to become the world&#39;s third largest sporting event.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-W7Bek4jvos?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Santana
+*Released on 2020-08-28, vote average 4.9*
+
+Two brothers — one a narcotics agent and the other a general — finally discover the identity of the drug lord who murdered their parents decades ago. They may kill each other before capturing the bad guys.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/CdkxJ8BD0EI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Centigrade
-*Released on 2020-08-28, vote average 5.7*
+*Released on 2020-08-28, vote average 5*
 
 A young American couple travel to the arctic mountains of Norway. After pulling over during a snowstorm, they wake up trapped in their SUV, buried underneath layers of snow and ice.
 
@@ -419,12 +419,42 @@ A young American couple travel to the arctic mountains of Norway. After pulling 
 
 	
 	
+
+### Unknown Origins
+*Released on 2020-08-28, vote average 5.7*
+
+In Madrid, Spain, a mysterious serial killer ruthlessly murders his victims by recreating the first appearance of several comic book superheroes. Cosme, a veteran police inspector who is about to retire, works on the case along with the tormented inspector David Valentín and his own son Jorge Elías, a nerdy young man who owns a comic book store.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/R1b5AIc5Cqw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
 
 
 	
+	
+
+### Attack of the Unknown
+*Released on 2020-08-28, vote average 4.5*
+
+A SWAT team transporting a vicious crime syndicate boss must fight their way out of a county detention center during a catastrophic alien invasion.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/VuVOiQyE1JY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -436,12 +466,29 @@ A young American couple travel to the arctic mountains of Norway. After pulling 
 
 
 	
+	
+
+### Mulan
+*Released on 2020-09-04, vote average 2*
+
+When the Emperor of China issues a decree that one man per family must serve in the Imperial Chinese Army to defend the country from Huns, Hua Mulan, the eldest daughter of an honored warrior, steps in to take the place of her ailing father. She is spirited, determined and quick on her feet. Disguised as a man by the name of Hua Jun, she is tested every step of the way and must harness her innermost strength and embrace her true potential.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/01ON04GCwKs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 	
 
 ### After We Collided
-*Released on 2020-09-02, vote average 6.8*
+*Released on 2020-09-02, vote average 6.2*
 
 Tessa finds herself struggling with her complicated relationship with Hardin; she faces a dilemma that could change their lives forever.
 
@@ -454,8 +501,6 @@ Tessa finds herself struggling with her complicated relationship with Hardin; sh
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
@@ -478,46 +523,50 @@ Our original storyline centered on a group of heroes known as Vox Machina — Pi
 	
 
 	
+
 	
 
-### Come True
-*Released on 2020-08-30, vote average 9*
+	
+	
+	
 
-High school student Sarah is at her lowest point when she runs away from home and finds herself with no one to rely on and struggling with recurring nightmares. She chances upon a university sleep study that offers the promise of safety and money, and which also brings her an unexpected friend and confidant in the overseeing scientist Jeremy. But there’s something curious about proceedings, and being under observation seems to make Sarah’s disturbing dreams even worse. As the darkness begins to close in, it’s soon clear that Sarah has unknowingly become the conduit to a horrifying new discovery…
+	
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Blood Machines
+*Released on 2020-09-01, vote average 9*
+
+An artificial intelligence escapes her spaceship to turn into a female ghost and challenges two blade runners to a galactic chase.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/QiK9xcfElTo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/gMCZkLBhycA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
