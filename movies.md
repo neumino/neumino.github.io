@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### One Night in Bangkok
-*Released on 2020-08-25, vote average 7.1*
+### Hard Kill
+*Released on 2020-08-25, vote average 5.8*
 
-A hit man named Kai flies into Bangkok, gets a gun, and orders a cab. He offers a professional female driver big money to be his all-night driver. But when she realizes Kai is committing brutal murders at each stop, it&#39;s too late to walk away. Meanwhile, an offbeat police detective races to decode the string of slayings before more blood is spilled.
+The work of billionaire tech CEO Donovan Chalmers is so valuable that he hires mercenaries to protect it, and a terrorist group kidnaps his daughter just to get it.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Q5VFAn0qmic?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/7Y6-w5Psupw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,52 +46,8 @@ A hit man named Kai flies into Bangkok, gets a gun, and orders a cab. He offers 
 	
 	
 
-### Superman: Man of Tomorrow
-*Released on 2020-08-23, vote average 7.4*
-
-It’s the dawn of a new age of heroes, and Metropolis has just met its first. But as Daily Planet intern Clark Kent – working alongside reporter Lois Lane – secretly wields his alien powers of flight, super-strength and x-ray vision in the battle for good, there’s even greater trouble on the horizon.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/weOF9_FGjOk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Hard Kill
-*Released on 2020-08-25, vote average 6*
-
-The work of billionaire tech CEO Donovan Chalmers is so valuable that he hires mercenaries to protect it, and a terrorist group kidnaps his daughter just to get it.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/7Y6-w5Psupw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Phineas and Ferb  The Movie Candace Against the Universe
-*Released on 2020-08-28, vote average 6.8*
+*Released on 2020-08-28, vote average 7.1*
 
 Phineas and Ferb travel across the galaxy to rescue their older sister Candace, who has been abducted by aliens and taken to a utopia in a far-off planet, free of her pesky little brothers.
 
@@ -112,16 +68,38 @@ Phineas and Ferb travel across the galaxy to rescue their older sister Candace, 
 	
 	
 
-### Bill &amp; Ted Face the Music
-*Released on 2020-08-27, vote average 6.5*
+### One Night in Bangkok
+*Released on 2020-08-25, vote average 7.1*
 
-Yet to fulfill their rock and roll destiny, the now middle-aged best friends Bill and Ted set out on a new adventure when a visitor from the future warns them that only their song can save life as we know it. Along the way, they are helped by their daughters, a new batch of historical figures and a few music legends—to seek the song that will set their world right and bring harmony to the universe.
+A hit man named Kai flies into Bangkok, gets a gun, and orders a cab. He offers a professional female driver big money to be his all-night driver. But when she realizes Kai is committing brutal murders at each stop, it&#39;s too late to walk away. Meanwhile, an offbeat police detective races to decode the string of slayings before more blood is spilled.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/0hAL7emClFM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Q5VFAn0qmic?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Superman: Man of Tomorrow
+*Released on 2020-08-23, vote average 7.4*
+
+It’s the dawn of a new age of heroes, and Metropolis has just met its first. But as Daily Planet intern Clark Kent – working alongside reporter Lois Lane – secretly wields his alien powers of flight, super-strength and x-ray vision in the battle for good, there’s even greater trouble on the horizon.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/weOF9_FGjOk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -156,8 +134,30 @@ Tessa finds herself struggling with her complicated relationship with Hardin; sh
 	
 	
 
+### Bill &amp; Ted Face the Music
+*Released on 2020-08-27, vote average 6.5*
+
+Yet to fulfill their rock and roll destiny, the now middle-aged best friends Bill and Ted set out on a new adventure when a visitor from the future warns them that only their song can save life as we know it. Along the way, they are helped by their daughters, a new batch of historical figures and a few music legends—to seek the song that will set their world right and bring harmony to the universe.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0hAL7emClFM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Santana
-*Released on 2020-08-28, vote average 6.2*
+*Released on 2020-08-28, vote average 6.1*
 
 Two brothers — one a narcotics agent and the other a general — finally discover the identity of the drug lord who murdered their parents decades ago. They may kill each other before capturing the bad guys.
 
@@ -178,30 +178,8 @@ Two brothers — one a narcotics agent and the other a general — finally disco
 	
 	
 
-### Tenet
-*Released on 2020-08-22, vote average 7.5*
-
-Armed with only one word - Tenet - and fighting for the survival of the entire world, the Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LdOM0x0XDMo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Unknown Origins
-*Released on 2020-08-28, vote average 6.3*
+*Released on 2020-08-28, vote average 6.2*
 
 In Madrid, Spain, a mysterious serial killer ruthlessly murders his victims by recreating the first appearance of several comic book superheroes. Cosme, a veteran police inspector who is about to retire, works on the case along with the tormented inspector David Valentín and his own son Jorge Elías, a nerdy young man who owns a comic book store.
 
@@ -223,7 +201,7 @@ In Madrid, Spain, a mysterious serial killer ruthlessly murders his victims by r
 	
 
 ### Mulan
-*Released on 2020-09-04, vote average 6.4*
+*Released on 2020-09-04, vote average 7.7*
 
 When the Emperor of China issues a decree that one man per family must serve in the Imperial Chinese Army to defend the country from Huns, Hua Mulan, the eldest daughter of an honored warrior, steps in to take the place of her ailing father. She is spirited, determined and quick on her feet. Disguised as a man by the name of Hua Jun, she is tested every step of the way and must harness her innermost strength and embrace her true potential.
 
@@ -266,16 +244,16 @@ In the not-so-distant future, all drinking and drugs have been made completely i
 	
 	
 
-### All Together Now
-*Released on 2020-08-28, vote average 6.6*
+### The New Mutants
+*Released on 2020-08-26, vote average 6*
 
-An optimistic, talented teen clings to a huge secret: she&#39;s homeless and living on a school bus. When tragedy strikes, can she learn to accept a helping hand?
+Five young mutants, just discovering their abilities while held in a secret facility against their will, fight to escape their past sins and save themselves.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/2-B0HD1jcyY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/bu9e410C__I?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -288,16 +266,16 @@ An optimistic, talented teen clings to a huge secret: she&#39;s homeless and liv
 	
 	
 
-### The New Mutants
-*Released on 2020-08-26, vote average 6*
+### All Together Now
+*Released on 2020-08-28, vote average 6.8*
 
-Five young mutants, just discovering their abilities while held in a secret facility against their will, fight to escape their past sins and save themselves.
+An optimistic, talented teen clings to a huge secret: she&#39;s homeless and living on a school bus. When tragedy strikes, can she learn to accept a helping hand?
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/bu9e410C__I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/2-B0HD1jcyY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -333,7 +311,7 @@ While picking his son up from college, Secret Service Agent Vic Davies finds him
 	
 
 ### Love, Guaranteed
-*Released on 2020-09-03, vote average 5.6*
+*Released on 2020-09-03, vote average 6.4*
 
 A lawyer takes on a new client that wants to sue a dating website because it guarantees love.
 
@@ -355,7 +333,7 @@ A lawyer takes on a new client that wants to sue a dating website because it gua
 	
 
 ### Freaks – You&#39;re One of Us
-*Released on 2020-09-02, vote average 5.2*
+*Released on 2020-09-02, vote average 5.5*
 
 After having a chance encounter with a mysterious character, Wendy, a young working class mother, discovers that she has super powers.
 
@@ -377,7 +355,7 @@ After having a chance encounter with a mysterious character, Wendy, a young work
 	
 
 ### The Owners
-*Released on 2020-09-04, vote average 7.5*
+*Released on 2020-09-04, vote average 7.7*
 
 A group of friends think they found the perfect easy score - an empty house with a safe full of cash. But when the elderly couple that lives there comes home early, the tables are suddenly turned. As a deadly game of cat and mouse ensues, the would-be thieves must fight to save themselves from a nightmare they could never have imagined.
 
@@ -401,27 +379,32 @@ A group of friends think they found the perfect easy score - an empty house with
 
 
 	
-
-  
-
-
-	
 	
 
-### Centigrade
-*Released on 2020-08-28, vote average 7.1*
+### The Argument
+*Released on 2020-09-04, vote average 10*
 
-A young American couple travel to the arctic mountains of Norway. After pulling over during a snowstorm, they wake up trapped in their SUV, buried underneath layers of snow and ice.
+A couple get into an argument at their cocktail party that escalates until it brings an abrupt end to the festivities. They and their guests decide to re-create the entire night again and again to determine who was right.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/0RvV7TNUlkQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/l8RRLGGnREA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -455,23 +438,6 @@ A young American couple travel to the arctic mountains of Norway. After pulling 
 
 	
 
-	
-	
-
-### Shirley
-*Released on 2020-09-11, vote average 6.5*
-
-A famous horror writer finds inspiration for her next book after she and her husband take in a young couple.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wxMtEean_V8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
