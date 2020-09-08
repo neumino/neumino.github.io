@@ -47,7 +47,7 @@ The work of billionaire tech CEO Donovan Chalmers is so valuable that he hires m
 	
 
 ### Phineas and Ferb  The Movie Candace Against the Universe
-*Released on 2020-08-28, vote average 7*
+*Released on 2020-08-28, vote average 7.1*
 
 Phineas and Ferb travel across the galaxy to rescue their older sister Candace, who has been abducted by aliens and taken to a utopia in a far-off planet, free of her pesky little brothers.
 
@@ -69,7 +69,7 @@ Phineas and Ferb travel across the galaxy to rescue their older sister Candace, 
 	
 
 ### One Night in Bangkok
-*Released on 2020-08-25, vote average 7.1*
+*Released on 2020-08-25, vote average 7.2*
 
 A hit man named Kai flies into Bangkok, gets a gun, and orders a cab. He offers a professional female driver big money to be his all-night driver. But when she realizes Kai is committing brutal murders at each stop, it&#39;s too late to walk away. Meanwhile, an offbeat police detective races to decode the string of slayings before more blood is spilled.
 
@@ -90,16 +90,16 @@ A hit man named Kai flies into Bangkok, gets a gun, and orders a cab. He offers 
 	
 	
 
-### After We Collided
-*Released on 2020-09-02, vote average 7.6*
+### Santana
+*Released on 2020-08-28, vote average 6.4*
 
-Tessa finds herself struggling with her complicated relationship with Hardin; she faces a dilemma that could change their lives forever.
+Two brothers — one a narcotics agent and the other a general — finally discover the identity of the drug lord who murdered their parents decades ago. They may kill each other before capturing the bad guys.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/u5B76cpkbfU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/CdkxJ8BD0EI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,16 +112,16 @@ Tessa finds herself struggling with her complicated relationship with Hardin; sh
 	
 	
 
-### Santana
-*Released on 2020-08-28, vote average 6.3*
+### After We Collided
+*Released on 2020-09-02, vote average 7.5*
 
-Two brothers — one a narcotics agent and the other a general — finally discover the identity of the drug lord who murdered their parents decades ago. They may kill each other before capturing the bad guys.
+Tessa finds herself struggling with her complicated relationship with Hardin; she faces a dilemma that could change their lives forever.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/CdkxJ8BD0EI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/u5B76cpkbfU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -156,6 +156,28 @@ In Madrid, Spain, a mysterious serial killer ruthlessly murders his victims by r
 	
 	
 
+### Mulan
+*Released on 2020-09-04, vote average 7.9*
+
+When the Emperor of China issues a decree that one man per family must serve in the Imperial Chinese Army to defend the country from Huns, Hua Mulan, the eldest daughter of an honored warrior, steps in to take the place of her ailing father. She is spirited, determined and quick on her feet. Disguised as a man by the name of Hua Jun, she is tested every step of the way and must harness her innermost strength and embrace her true potential.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/01ON04GCwKs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Bill &amp; Ted Face the Music
 *Released on 2020-08-27, vote average 6.5*
 
@@ -178,16 +200,16 @@ Yet to fulfill their rock and roll destiny, the now middle-aged best friends Bil
 	
 	
 
-### Mulan
-*Released on 2020-09-04, vote average 8*
+### The Binge
+*Released on 2020-08-28, vote average 6*
 
-When the Emperor of China issues a decree that one man per family must serve in the Imperial Chinese Army to defend the country from Huns, Hua Mulan, the eldest daughter of an honored warrior, steps in to take the place of her ailing father. She is spirited, determined and quick on her feet. Disguised as a man by the name of Hua Jun, she is tested every step of the way and must harness her innermost strength and embrace her true potential.
+In the not-so-distant future, all drinking and drugs have been made completely illegal by the government, except for one night a year. High school seniors Griffin, Hags, and Andrew make a pilgrimage to get to the best party in town where all their dreams will come true. They will have to avoid their crazed principal, violent siblings, and the wild animals roaming the streets.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/01ON04GCwKs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/qg3ZjDFZaIw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -200,16 +222,16 @@ When the Emperor of China issues a decree that one man per family must serve in 
 	
 	
 
-### The Binge
-*Released on 2020-08-28, vote average 5.7*
+### The 2nd
+*Released on 2020-09-01, vote average 6.6*
 
-In the not-so-distant future, all drinking and drugs have been made completely illegal by the government, except for one night a year. High school seniors Griffin, Hags, and Andrew make a pilgrimage to get to the best party in town where all their dreams will come true. They will have to avoid their crazed principal, violent siblings, and the wild animals roaming the streets.
+Secret-service agent Vic Davis is on his way to pick up his estranged son, Sean, from his college campus when he finds himself in the middle of a high-stakes terrorist operation. His son&#39;s friend Erin Walton, the daughter of Supreme Court Justice Walton is the target, and this armed faction will stop at nothing to kidnap her and use her as leverage for a pending landmark legal case.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/qg3ZjDFZaIw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/IycoX5vR0WQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -244,30 +266,8 @@ Five young mutants, just discovering their abilities while held in a secret faci
 	
 	
 
-### The 2nd
-*Released on 2020-09-01, vote average 5.8*
-
-While picking his son up from college, Secret Service Agent Vic Davies finds himself in the middle of a high stakes terrorist operation and now must use his entire set of skills against the armed faction.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IycoX5vR0WQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### All Together Now
-*Released on 2020-08-28, vote average 6.7*
+*Released on 2020-08-28, vote average 6.6*
 
 An optimistic, talented teen clings to a huge secret: she&#39;s homeless and living on a school bus. When tragedy strikes, can she learn to accept a helping hand?
 
@@ -289,7 +289,7 @@ An optimistic, talented teen clings to a huge secret: she&#39;s homeless and liv
 	
 
 ### Love, Guaranteed
-*Released on 2020-09-03, vote average 6.7*
+*Released on 2020-09-03, vote average 6.9*
 
 A lawyer takes on a new client that wants to sue a dating website because it guarantees love.
 
@@ -311,7 +311,7 @@ A lawyer takes on a new client that wants to sue a dating website because it gua
 	
 
 ### Freaks – You&#39;re One of Us
-*Released on 2020-09-02, vote average 5.8*
+*Released on 2020-09-02, vote average 5.5*
 
 After having a chance encounter with a mysterious character, Wendy, a young working class mother, discovers that she has super powers.
 
@@ -333,7 +333,7 @@ After having a chance encounter with a mysterious character, Wendy, a young work
 	
 
 ### The Owners
-*Released on 2020-09-04, vote average 6.2*
+*Released on 2020-09-04, vote average 5.9*
 
 A group of friends think they found the perfect easy score - an empty house with a safe full of cash. But when the elderly couple that lives there comes home early, the tables are suddenly turned. As a deadly game of cat and mouse ensues, the would-be thieves must fight to save themselves from a nightmare they could never have imagined.
 
@@ -342,6 +342,72 @@ A group of friends think they found the perfect easy score - an empty house with
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/yMvJSivVNrs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### I&#39;m Thinking of Ending Things
+*Released on 2020-08-28, vote average 6.7*
+
+Nothing is as it seems when a woman experiencing misgivings about her new boyfriend joins him on a road trip to meet his parents at their remote farm.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/cDTg62vsV4U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Centigrade
+*Released on 2020-08-28, vote average 7.1*
+
+A young American couple travel to the arctic mountains of Norway. After pulling over during a snowstorm, they wake up trapped in their SUV, buried underneath layers of snow and ice.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0RvV7TNUlkQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Switched
+*Released on 2020-09-04, vote average 8*
+
+Tired of being bullied, Cassandra Evans prays that her nemesis, Katie Sharp, the queen bee of social media, would know what it’s like to walk a day in her shoes. Her prayer is answered in an unexpected way when they get switched.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/4g5wuCEHXEY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -376,50 +442,6 @@ A newly engaged couple finds the home of their dreams and it quickly becomes a n
 	
 	
 
-### Switched
-*Released on 2020-09-04, vote average 4*
-
-Tired of being bullied, Cassandra Evans prays that her nemesis, Katie Sharp, the queen bee of social media, would know what it’s like to walk a day in her shoes. Her prayer is answered in an unexpected way when they get switched.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/4g5wuCEHXEY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Critical Thinking
-*Released on 2020-09-04, vote average 10*
-
-Based on a true story from 1998, five Latino and Black teenagers from the toughest underserved ghetto in Miami fight their way into the National Chess Championship under the guidance of their unconventional but inspirational teacher.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hox3ulTPFbc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Feels Good Man
 *Released on 2020-09-04, vote average 8*
 
@@ -430,28 +452,6 @@ When indie comic character Pepe the Frog becomes an unwitting icon of hate, his 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/t9l7km6A9EQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### I&#39;m Thinking of Ending Things
-*Released on 2020-08-28, vote average 6.7*
-
-Nothing is as it seems when a woman experiencing misgivings about her new boyfriend joins him on a road trip to meet his parents at their remote farm.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cDTg62vsV4U?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -475,6 +475,23 @@ Nothing is as it seems when a woman experiencing misgivings about her new boyfri
 
 	
 
+	
+	
+
+### Break the Silence: The Movie
+*Released on 2020-09-10, vote average 10*
+
+With unprecedented access, Break the Silence: The Movie travels with BTS throughout the Love Yourself: Speak Yourself world tour, exploring each band member behind the curtain. Off stage, we see another side of BTS. The seven members begin to candidly tell personal stories they have never voiced before.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hz9_jkrrptU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
