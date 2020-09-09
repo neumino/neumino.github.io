@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Hard Kill
-*Released on 2020-08-25, vote average 5.8*
+### Santana
+*Released on 2020-08-28, vote average 6.4*
 
-The work of billionaire tech CEO Donovan Chalmers is so valuable that he hires mercenaries to protect it, and a terrorist group kidnaps his daughter just to get it.
+Two brothers — one a narcotics agent and the other a general — finally discover the identity of the drug lord who murdered their parents decades ago. They may kill each other before capturing the bad guys.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/7Y6-w5Psupw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/CdkxJ8BD0EI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -40,94 +40,6 @@ The work of billionaire tech CEO Donovan Chalmers is so valuable that he hires m
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-
-
-	
-	
-
-### Phineas and Ferb  The Movie Candace Against the Universe
-*Released on 2020-08-28, vote average 7.1*
-
-Phineas and Ferb travel across the galaxy to rescue their older sister Candace, who has been abducted by aliens and taken to a utopia in a far-off planet, free of her pesky little brothers.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/seB7sOmisRI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### One Night in Bangkok
-*Released on 2020-08-25, vote average 7.2*
-
-A hit man named Kai flies into Bangkok, gets a gun, and orders a cab. He offers a professional female driver big money to be his all-night driver. But when she realizes Kai is committing brutal murders at each stop, it&#39;s too late to walk away. Meanwhile, an offbeat police detective races to decode the string of slayings before more blood is spilled.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Q5VFAn0qmic?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Santana
-*Released on 2020-08-28, vote average 6.4*
-
-Two brothers — one a narcotics agent and the other a general — finally discover the identity of the drug lord who murdered their parents decades ago. They may kill each other before capturing the bad guys.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/CdkxJ8BD0EI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### After We Collided
-*Released on 2020-09-02, vote average 7.5*
-
-Tessa finds herself struggling with her complicated relationship with Hardin; she faces a dilemma that could change their lives forever.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/u5B76cpkbfU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
   
 
 
@@ -156,8 +68,52 @@ In Madrid, Spain, a mysterious serial killer ruthlessly murders his victims by r
 	
 	
 
+### Phineas and Ferb  The Movie Candace Against the Universe
+*Released on 2020-08-28, vote average 7.1*
+
+Phineas and Ferb travel across the galaxy to rescue their older sister Candace, who has been abducted by aliens and taken to a utopia in a far-off planet, free of her pesky little brothers.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/seB7sOmisRI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### After We Collided
+*Released on 2020-09-02, vote average 7.3*
+
+Tessa finds herself struggling with her complicated relationship with Hardin; she faces a dilemma that could change their lives forever.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/u5B76cpkbfU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Mulan
-*Released on 2020-09-04, vote average 7.9*
+*Released on 2020-09-04, vote average 7.8*
 
 When the Emperor of China issues a decree that one man per family must serve in the Imperial Chinese Army to defend the country from Huns, Hua Mulan, the eldest daughter of an honored warrior, steps in to take the place of her ailing father. She is spirited, determined and quick on her feet. Disguised as a man by the name of Hua Jun, she is tested every step of the way and must harness her innermost strength and embrace her true potential.
 
@@ -200,6 +156,50 @@ Yet to fulfill their rock and roll destiny, the now middle-aged best friends Bil
 	
 	
 
+### The 2nd
+*Released on 2020-09-01, vote average 6.7*
+
+Secret-service agent Vic Davis is on his way to pick up his estranged son, Sean, from his college campus when he finds himself in the middle of a high-stakes terrorist operation. His son&#39;s friend Erin Walton, the daughter of Supreme Court Justice Walton is the target, and this armed faction will stop at nothing to kidnap her and use her as leverage for a pending landmark legal case.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IycoX5vR0WQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The New Mutants
+*Released on 2020-08-26, vote average 6.1*
+
+Five young mutants, just discovering their abilities while held in a secret facility against their will, fight to escape their past sins and save themselves.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/bu9e410C__I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Binge
 *Released on 2020-08-28, vote average 6*
 
@@ -222,74 +222,8 @@ In the not-so-distant future, all drinking and drugs have been made completely i
 	
 	
 
-### The 2nd
-*Released on 2020-09-01, vote average 6.6*
-
-Secret-service agent Vic Davis is on his way to pick up his estranged son, Sean, from his college campus when he finds himself in the middle of a high-stakes terrorist operation. His son&#39;s friend Erin Walton, the daughter of Supreme Court Justice Walton is the target, and this armed faction will stop at nothing to kidnap her and use her as leverage for a pending landmark legal case.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IycoX5vR0WQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The New Mutants
-*Released on 2020-08-26, vote average 6*
-
-Five young mutants, just discovering their abilities while held in a secret facility against their will, fight to escape their past sins and save themselves.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/bu9e410C__I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### All Together Now
-*Released on 2020-08-28, vote average 6.6*
-
-An optimistic, talented teen clings to a huge secret: she&#39;s homeless and living on a school bus. When tragedy strikes, can she learn to accept a helping hand?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2-B0HD1jcyY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Love, Guaranteed
-*Released on 2020-09-03, vote average 6.9*
+*Released on 2020-09-03, vote average 6.8*
 
 A lawyer takes on a new client that wants to sue a dating website because it guarantees love.
 
@@ -332,6 +266,50 @@ After having a chance encounter with a mysterious character, Wendy, a young work
 	
 	
 
+### All Together Now
+*Released on 2020-08-28, vote average 6.7*
+
+An optimistic, talented teen clings to a huge secret: she&#39;s homeless and living on a school bus. When tragedy strikes, can she learn to accept a helping hand?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2-B0HD1jcyY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### I&#39;m Thinking of Ending Things
+*Released on 2020-08-28, vote average 6.6*
+
+Nothing is as it seems when a woman experiencing misgivings about her new boyfriend joins him on a road trip to meet his parents at their remote farm.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/cDTg62vsV4U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Owners
 *Released on 2020-09-04, vote average 5.9*
 
@@ -354,30 +332,8 @@ A group of friends think they found the perfect easy score - an empty house with
 	
 	
 
-### I&#39;m Thinking of Ending Things
-*Released on 2020-08-28, vote average 6.7*
-
-Nothing is as it seems when a woman experiencing misgivings about her new boyfriend joins him on a road trip to meet his parents at their remote farm.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cDTg62vsV4U?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Centigrade
-*Released on 2020-08-28, vote average 7.1*
+*Released on 2020-08-28, vote average 7.2*
 
 A young American couple travel to the arctic mountains of Norway. After pulling over during a snowstorm, they wake up trapped in their SUV, buried underneath layers of snow and ice.
 
@@ -390,6 +346,43 @@ A young American couple travel to the arctic mountains of Norway. After pulling 
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Guest House
+*Released on 2020-09-04, vote average 4.5*
+
+A newly engaged couple finds the home of their dreams and it quickly becomes a nightmare when the previous owner&#39;s friend continues squatting in their guest house. It leads to a turf war that ultimately ruins their house, their marriage and their lives.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/yoXFhob6AmI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -417,50 +410,6 @@ Tired of being bullied, Cassandra Evans prays that her nemesis, Katie Sharp, the
   
 
 
-	
-	
-
-### Guest House
-*Released on 2020-09-04, vote average 4.8*
-
-A newly engaged couple finds the home of their dreams and it quickly becomes a nightmare when the previous owner&#39;s friend continues squatting in their guest house. It leads to a turf war that ultimately ruins their house, their marriage and their lives.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/yoXFhob6AmI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Feels Good Man
-*Released on 2020-09-04, vote average 8*
-
-When indie comic character Pepe the Frog becomes an unwitting icon of hate, his creator, artist Matt Furie, fights to bring Pepe back from the darkness and navigate America&#39;s cultural divide.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/t9l7km6A9EQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -476,10 +425,14 @@ When indie comic character Pepe the Frog becomes an unwitting icon of hate, his 
 	
 
 	
+
+	
+
+	
 	
 
 ### Break the Silence: The Movie
-*Released on 2020-09-10, vote average 10*
+*Released on 2020-09-10, vote average 9.5*
 
 With unprecedented access, Break the Silence: The Movie travels with BTS throughout the Love Yourself: Speak Yourself world tour, exploring each band member behind the curtain. Off stage, we see another side of BTS. The seven members begin to candidly tell personal stories they have never voiced before.
 
@@ -517,9 +470,7 @@ With unprecedented access, Break the Silence: The Movie travels with BTS through
 	
 
 	
-
 	
-
 	
 
 
