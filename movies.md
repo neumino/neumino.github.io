@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Santana
-*Released on 2020-08-28, vote average 6.4*
+*Released on 2020-08-28, vote average 6.3*
 
 Two brothers — one a narcotics agent and the other a general — finally discover the identity of the drug lord who murdered their parents decades ago. They may kill each other before capturing the bad guys.
 
@@ -68,6 +68,28 @@ In Madrid, Spain, a mysterious serial killer ruthlessly murders his victims by r
 	
 	
 
+### Mulan
+*Released on 2020-09-04, vote average 7.8*
+
+When the Emperor of China issues a decree that one man per family must serve in the Imperial Chinese Army to defend the country from Huns, Hua Mulan, the eldest daughter of an honored warrior, steps in to take the place of her ailing father. She is spirited, determined and quick on her feet. Disguised as a man by the name of Hua Jun, she is tested every step of the way and must harness her innermost strength and embrace her true potential.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/01ON04GCwKs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Phineas and Ferb  The Movie Candace Against the Universe
 *Released on 2020-08-28, vote average 7.1*
 
@@ -91,7 +113,7 @@ Phineas and Ferb travel across the galaxy to rescue their older sister Candace, 
 	
 
 ### After We Collided
-*Released on 2020-09-02, vote average 7.3*
+*Released on 2020-09-02, vote average 7.2*
 
 Tessa finds herself struggling with her complicated relationship with Hardin; she faces a dilemma that could change their lives forever.
 
@@ -100,50 +122,6 @@ Tessa finds herself struggling with her complicated relationship with Hardin; sh
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/u5B76cpkbfU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Mulan
-*Released on 2020-09-04, vote average 7.8*
-
-When the Emperor of China issues a decree that one man per family must serve in the Imperial Chinese Army to defend the country from Huns, Hua Mulan, the eldest daughter of an honored warrior, steps in to take the place of her ailing father. She is spirited, determined and quick on her feet. Disguised as a man by the name of Hua Jun, she is tested every step of the way and must harness her innermost strength and embrace her true potential.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/01ON04GCwKs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Bill &amp; Ted Face the Music
-*Released on 2020-08-27, vote average 6.5*
-
-Yet to fulfill their rock and roll destiny, the now middle-aged best friends Bill and Ted set out on a new adventure when a visitor from the future warns them that only their song can save life as we know it. Along the way, they are helped by their daughters, a new batch of historical figures and a few music legends—to seek the song that will set their world right and bring harmony to the universe.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0hAL7emClFM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -178,16 +156,38 @@ Secret-service agent Vic Davis is on his way to pick up his estranged son, Sean,
 	
 	
 
-### The New Mutants
-*Released on 2020-08-26, vote average 6.1*
+### Bill &amp; Ted Face the Music
+*Released on 2020-08-27, vote average 6.5*
 
-Five young mutants, just discovering their abilities while held in a secret facility against their will, fight to escape their past sins and save themselves.
+Yet to fulfill their rock and roll destiny, the now middle-aged best friends Bill and Ted set out on a new adventure when a visitor from the future warns them that only their song can save life as we know it. Along the way, they are helped by their daughters, a new batch of historical figures and a few music legends—to seek the song that will set their world right and bring harmony to the universe.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/bu9e410C__I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/0hAL7emClFM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Love, Guaranteed
+*Released on 2020-09-03, vote average 6.6*
+
+A lawyer takes on a new client that wants to sue a dating website because it guarantees love.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/TcilGWIzvdE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -222,28 +222,6 @@ In the not-so-distant future, all drinking and drugs have been made completely i
 	
 	
 
-### Love, Guaranteed
-*Released on 2020-09-03, vote average 6.8*
-
-A lawyer takes on a new client that wants to sue a dating website because it guarantees love.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/TcilGWIzvdE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Freaks – You&#39;re One of Us
 *Released on 2020-09-02, vote average 5.5*
 
@@ -254,28 +232,6 @@ After having a chance encounter with a mysterious character, Wendy, a young work
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/kfZJhAWLMC4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### All Together Now
-*Released on 2020-08-28, vote average 6.7*
-
-An optimistic, talented teen clings to a huge secret: she&#39;s homeless and living on a school bus. When tragedy strikes, can she learn to accept a helping hand?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2-B0HD1jcyY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -310,16 +266,16 @@ Nothing is as it seems when a woman experiencing misgivings about her new boyfri
 	
 	
 
-### The Owners
-*Released on 2020-09-04, vote average 5.9*
+### All Together Now
+*Released on 2020-08-28, vote average 6.7*
 
-A group of friends think they found the perfect easy score - an empty house with a safe full of cash. But when the elderly couple that lives there comes home early, the tables are suddenly turned. As a deadly game of cat and mouse ensues, the would-be thieves must fight to save themselves from a nightmare they could never have imagined.
+An optimistic, talented teen clings to a huge secret: she&#39;s homeless and living on a school bus. When tragedy strikes, can she learn to accept a helping hand?
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/yMvJSivVNrs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/2-B0HD1jcyY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -359,8 +315,30 @@ A young American couple travel to the arctic mountains of Norway. After pulling 
 	
 	
 
+### The Owners
+*Released on 2020-09-04, vote average 5.9*
+
+A group of friends think they found the perfect easy score - an empty house with a safe full of cash. But when the elderly couple that lives there comes home early, the tables are suddenly turned. As a deadly game of cat and mouse ensues, the would-be thieves must fight to save themselves from a nightmare they could never have imagined.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/yMvJSivVNrs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Guest House
-*Released on 2020-09-04, vote average 4.5*
+*Released on 2020-09-04, vote average 5.9*
 
 A newly engaged couple finds the home of their dreams and it quickly becomes a nightmare when the previous owner&#39;s friend continues squatting in their guest house. It leads to a turf war that ultimately ruins their house, their marriage and their lives.
 
@@ -389,22 +367,10 @@ A newly engaged couple finds the home of their dreams and it quickly becomes a n
 
 
 	
-	
 
-### Switched
-*Released on 2020-09-04, vote average 8*
+  
 
-Tired of being bullied, Cassandra Evans prays that her nemesis, Katie Sharp, the queen bee of social media, would know what it’s like to walk a day in her shoes. Her prayer is answered in an unexpected way when they get switched.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/4g5wuCEHXEY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -413,12 +379,6 @@ Tired of being bullied, Cassandra Evans prays that her nemesis, Katie Sharp, the
 
 ## Opening soon
 
-
-	
-
-	
-
-	
 
 	
 
@@ -470,7 +430,11 @@ With unprecedented access, Break the Silence: The Movie travels with BTS through
 	
 
 	
+
 	
+
+	
+
 	
 
 
