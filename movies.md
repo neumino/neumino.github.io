@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Santana
-*Released on 2020-08-28, vote average 6.3*
+*Released on 2020-08-28, vote average 5.9*
 
 Two brothers — one a narcotics agent and the other a general — finally discover the identity of the drug lord who murdered their parents decades ago. They may kill each other before capturing the bad guys.
 
@@ -46,28 +46,6 @@ Two brothers — one a narcotics agent and the other a general — finally disco
 	
 	
 
-### Unknown Origins
-*Released on 2020-08-28, vote average 6.2*
-
-In Madrid, Spain, a mysterious serial killer ruthlessly murders his victims by recreating the first appearance of several comic book superheroes. Cosme, a veteran police inspector who is about to retire, works on the case along with the tormented inspector David Valentín and his own son Jorge Elías, a nerdy young man who owns a comic book store.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/R1b5AIc5Cqw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Mulan
 *Released on 2020-09-04, vote average 7.8*
 
@@ -90,16 +68,16 @@ When the Emperor of China issues a decree that one man per family must serve in 
 	
 	
 
-### Phineas and Ferb  The Movie Candace Against the Universe
-*Released on 2020-08-28, vote average 7.1*
+### Unknown Origins
+*Released on 2020-08-28, vote average 6.2*
 
-Phineas and Ferb travel across the galaxy to rescue their older sister Candace, who has been abducted by aliens and taken to a utopia in a far-off planet, free of her pesky little brothers.
+In Madrid, Spain, a mysterious serial killer ruthlessly murders his victims by recreating the first appearance of several comic book superheroes. Cosme, a veteran police inspector who is about to retire, works on the case along with the tormented inspector David Valentín and his own son Jorge Elías, a nerdy young man who owns a comic book store.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/seB7sOmisRI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/R1b5AIc5Cqw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -156,16 +134,16 @@ Secret-service agent Vic Davis is on his way to pick up his estranged son, Sean,
 	
 	
 
-### Bill &amp; Ted Face the Music
-*Released on 2020-08-27, vote average 6.5*
+### Phineas and Ferb  The Movie Candace Against the Universe
+*Released on 2020-08-28, vote average 7.1*
 
-Yet to fulfill their rock and roll destiny, the now middle-aged best friends Bill and Ted set out on a new adventure when a visitor from the future warns them that only their song can save life as we know it. Along the way, they are helped by their daughters, a new batch of historical figures and a few music legends—to seek the song that will set their world right and bring harmony to the universe.
+Phineas and Ferb travel across the galaxy to rescue their older sister Candace, who has been abducted by aliens and taken to a utopia in a far-off planet, free of her pesky little brothers.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/0hAL7emClFM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/seB7sOmisRI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -179,7 +157,7 @@ Yet to fulfill their rock and roll destiny, the now middle-aged best friends Bil
 	
 
 ### Love, Guaranteed
-*Released on 2020-09-03, vote average 6.6*
+*Released on 2020-09-03, vote average 6.7*
 
 A lawyer takes on a new client that wants to sue a dating website because it guarantees love.
 
@@ -200,16 +178,16 @@ A lawyer takes on a new client that wants to sue a dating website because it gua
 	
 	
 
-### The Binge
-*Released on 2020-08-28, vote average 6*
+### I&#39;m Thinking of Ending Things
+*Released on 2020-08-28, vote average 6.7*
 
-In the not-so-distant future, all drinking and drugs have been made completely illegal by the government, except for one night a year. High school seniors Griffin, Hags, and Andrew make a pilgrimage to get to the best party in town where all their dreams will come true. They will have to avoid their crazed principal, violent siblings, and the wild animals roaming the streets.
+Nothing is as it seems when a woman experiencing misgivings about her new boyfriend joins him on a road trip to meet his parents at their remote farm.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/qg3ZjDFZaIw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/cDTg62vsV4U?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -244,38 +222,16 @@ After having a chance encounter with a mysterious character, Wendy, a young work
 	
 	
 
-### I&#39;m Thinking of Ending Things
-*Released on 2020-08-28, vote average 6.6*
+### The Binge
+*Released on 2020-08-28, vote average 6.2*
 
-Nothing is as it seems when a woman experiencing misgivings about her new boyfriend joins him on a road trip to meet his parents at their remote farm.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cDTg62vsV4U?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### All Together Now
-*Released on 2020-08-28, vote average 6.7*
-
-An optimistic, talented teen clings to a huge secret: she&#39;s homeless and living on a school bus. When tragedy strikes, can she learn to accept a helping hand?
+In the not-so-distant future, all drinking and drugs have been made completely illegal by the government, except for one night a year. High school seniors Griffin, Hags, and Andrew make a pilgrimage to get to the best party in town where all their dreams will come true. They will have to avoid their crazed principal, violent siblings, and the wild animals roaming the streets.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/2-B0HD1jcyY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/qg3ZjDFZaIw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -315,20 +271,25 @@ A young American couple travel to the arctic mountains of Norway. After pulling 
 	
 	
 
-### The Owners
-*Released on 2020-09-04, vote average 5.9*
+### All Together Now
+*Released on 2020-08-28, vote average 6.7*
 
-A group of friends think they found the perfect easy score - an empty house with a safe full of cash. But when the elderly couple that lives there comes home early, the tables are suddenly turned. As a deadly game of cat and mouse ensues, the would-be thieves must fight to save themselves from a nightmare they could never have imagined.
+An optimistic, talented teen clings to a huge secret: she&#39;s homeless and living on a school bus. When tragedy strikes, can she learn to accept a helping hand?
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/yMvJSivVNrs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/2-B0HD1jcyY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -367,6 +328,28 @@ A newly engaged couple finds the home of their dreams and it quickly becomes a n
 
 
 	
+	
+
+### The Owners
+*Released on 2020-09-04, vote average 6*
+
+A group of friends think they found the perfect easy score - an empty house with a safe full of cash. But when the elderly couple that lives there comes home early, the tables are suddenly turned. As a deadly game of cat and mouse ensues, the would-be thieves must fight to save themselves from a nightmare they could never have imagined.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/yMvJSivVNrs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 
   
 
@@ -388,23 +371,6 @@ A newly engaged couple finds the home of their dreams and it quickly becomes a n
 
 	
 
-	
-	
-
-### Break the Silence: The Movie
-*Released on 2020-09-10, vote average 9.5*
-
-With unprecedented access, Break the Silence: The Movie travels with BTS throughout the Love Yourself: Speak Yourself world tour, exploring each band member behind the curtain. Off stage, we see another side of BTS. The seven members begin to candidly tell personal stories they have never voiced before.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hz9_jkrrptU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
