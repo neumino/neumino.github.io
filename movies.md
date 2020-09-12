@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Santana
-*Released on 2020-08-28, vote average 5.9*
+### Mulan
+*Released on 2020-09-04, vote average 7.8*
 
-Two brothers — one a narcotics agent and the other a general — finally discover the identity of the drug lord who murdered their parents decades ago. They may kill each other before capturing the bad guys.
+When the Emperor of China issues a decree that one man per family must serve in the Imperial Chinese Army to defend the country from Huns, Hua Mulan, the eldest daughter of an honored warrior, steps in to take the place of her ailing father. She is spirited, determined and quick on her feet. Disguised as a man by the name of Hua Jun, she is tested every step of the way and must harness her innermost strength and embrace her true potential.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/CdkxJ8BD0EI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/01ON04GCwKs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,38 +46,16 @@ Two brothers — one a narcotics agent and the other a general — finally disco
 	
 	
 
-### Mulan
-*Released on 2020-09-04, vote average 7.8*
+### The 2nd
+*Released on 2020-09-01, vote average 6.3*
 
-When the Emperor of China issues a decree that one man per family must serve in the Imperial Chinese Army to defend the country from Huns, Hua Mulan, the eldest daughter of an honored warrior, steps in to take the place of her ailing father. She is spirited, determined and quick on her feet. Disguised as a man by the name of Hua Jun, she is tested every step of the way and must harness her innermost strength and embrace her true potential.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/01ON04GCwKs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Unknown Origins
-*Released on 2020-08-28, vote average 6.2*
-
-In Madrid, Spain, a mysterious serial killer ruthlessly murders his victims by recreating the first appearance of several comic book superheroes. Cosme, a veteran police inspector who is about to retire, works on the case along with the tormented inspector David Valentín and his own son Jorge Elías, a nerdy young man who owns a comic book store.
+Secret-service agent Vic Davis is on his way to pick up his estranged son, Sean, from his college campus when he finds himself in the middle of a high-stakes terrorist operation. His son&#39;s friend Erin Walton, the daughter of Supreme Court Justice Walton is the target, and this armed faction will stop at nothing to kidnap her and use her as leverage for a pending landmark legal case.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/R1b5AIc5Cqw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/IycoX5vR0WQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,52 +90,8 @@ Tessa finds herself struggling with her complicated relationship with Hardin; sh
 	
 	
 
-### The 2nd
-*Released on 2020-09-01, vote average 6.7*
-
-Secret-service agent Vic Davis is on his way to pick up his estranged son, Sean, from his college campus when he finds himself in the middle of a high-stakes terrorist operation. His son&#39;s friend Erin Walton, the daughter of Supreme Court Justice Walton is the target, and this armed faction will stop at nothing to kidnap her and use her as leverage for a pending landmark legal case.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IycoX5vR0WQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Phineas and Ferb  The Movie Candace Against the Universe
-*Released on 2020-08-28, vote average 7.1*
-
-Phineas and Ferb travel across the galaxy to rescue their older sister Candace, who has been abducted by aliens and taken to a utopia in a far-off planet, free of her pesky little brothers.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/seB7sOmisRI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Love, Guaranteed
-*Released on 2020-09-03, vote average 6.7*
+*Released on 2020-09-03, vote average 6.6*
 
 A lawyer takes on a new client that wants to sue a dating website because it guarantees love.
 
@@ -175,23 +109,6 @@ A lawyer takes on a new client that wants to sue a dating website because it gua
   
 
 
-	
-	
-
-### I&#39;m Thinking of Ending Things
-*Released on 2020-08-28, vote average 6.7*
-
-Nothing is as it seems when a woman experiencing misgivings about her new boyfriend joins him on a road trip to meet his parents at their remote farm.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cDTg62vsV4U?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -221,75 +138,6 @@ After having a chance encounter with a mysterious character, Wendy, a young work
 
 	
 	
-
-### The Binge
-*Released on 2020-08-28, vote average 6.2*
-
-In the not-so-distant future, all drinking and drugs have been made completely illegal by the government, except for one night a year. High school seniors Griffin, Hags, and Andrew make a pilgrimage to get to the best party in town where all their dreams will come true. They will have to avoid their crazed principal, violent siblings, and the wild animals roaming the streets.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qg3ZjDFZaIw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Centigrade
-*Released on 2020-08-28, vote average 7.2*
-
-A young American couple travel to the arctic mountains of Norway. After pulling over during a snowstorm, they wake up trapped in their SUV, buried underneath layers of snow and ice.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0RvV7TNUlkQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### All Together Now
-*Released on 2020-08-28, vote average 6.7*
-
-An optimistic, talented teen clings to a huge secret: she&#39;s homeless and living on a school bus. When tragedy strikes, can she learn to accept a helping hand?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2-B0HD1jcyY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -299,7 +147,7 @@ An optimistic, talented teen clings to a huge secret: she&#39;s homeless and liv
 	
 
 ### Guest House
-*Released on 2020-09-04, vote average 5.9*
+*Released on 2020-09-04, vote average 5.4*
 
 A newly engaged couple finds the home of their dreams and it quickly becomes a nightmare when the previous owner&#39;s friend continues squatting in their guest house. It leads to a turf war that ultimately ruins their house, their marriage and their lives.
 
@@ -318,10 +166,44 @@ A newly engaged couple finds the home of their dreams and it quickly becomes a n
 
 
 	
+	
+
+### The Babysitter: Killer Queen
+*Released on 2020-09-10, vote average 6.3*
+
+Two years after defeating a satanic cult led by his babysitter Bee, Cole&#39;s trying to forget his past and focus on surviving high school. But when old enemies unexpectedly return, Cole will once again have to outsmart the forces of evil.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8WzUYkzRgBE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
+	
+	
+
+### So Much Love to Give
+*Released on 2020-09-09, vote average 7.6*
+
+A bigamist with one family in Buenos Aires and the other in Mar del Plata sees his life turned upside down when his wives discover what he has hidden from them for so many years and unite to take revenge.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/seL7Tz9vYZs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -354,6 +236,92 @@ A group of friends think they found the perfect easy score - an empty house with
   
 
 
+	
+
+  
+
+
+	
+	
+
+### Unpregnant
+*Released on 2020-09-10, vote average 1*
+
+A 17-year old Missouri teen named Veronica discovers she has gotten pregnant, a development that threatens to end her dreams of matriculating at an Ivy League college, and the career that could follow.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/WDulv-J1bEs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Break the Silence: The Movie
+*Released on 2020-09-10, vote average 8.4*
+
+With unprecedented access, Break the Silence: The Movie travels with BTS throughout the Love Yourself: Speak Yourself world tour, exploring each band member behind the curtain. Off stage, we see another side of BTS. The seven members begin to candidly tell personal stories they have never voiced before.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hz9_jkrrptU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Barbie: Princess Adventure
+*Released on 2020-09-01, vote average 7.6*
+
+Barbie discovers what it means to be a modern princess in this full-length, original musical when she switches places with her royal doppelganger.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/7joR5V_T3wQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
