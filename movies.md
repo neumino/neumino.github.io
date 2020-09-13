@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Mulan
-*Released on 2020-09-04, vote average 7.8*
+*Released on 2020-09-10, vote average 7.7*
 
 When the Emperor of China issues a decree that one man per family must serve in the Imperial Chinese Army to defend the country from Huns, Hua Mulan, the eldest daughter of an honored warrior, steps in to take the place of her ailing father. She is spirited, determined and quick on her feet. Disguised as a man by the name of Hua Jun, she is tested every step of the way and must harness her innermost strength and embrace her true potential.
 
@@ -69,7 +69,7 @@ Secret-service agent Vic Davis is on his way to pick up his estranged son, Sean,
 	
 
 ### After We Collided
-*Released on 2020-09-02, vote average 7.2*
+*Released on 2020-09-02, vote average 7.1*
 
 Tessa finds herself struggling with her complicated relationship with Hardin; she faces a dilemma that could change their lives forever.
 
@@ -88,10 +88,15 @@ Tessa finds herself struggling with her complicated relationship with Hardin; sh
 
 
 	
+
+  
+
+
+	
 	
 
 ### Love, Guaranteed
-*Released on 2020-09-03, vote average 6.6*
+*Released on 2020-09-02, vote average 6.6*
 
 A lawyer takes on a new client that wants to sue a dating website because it guarantees love.
 
@@ -100,33 +105,6 @@ A lawyer takes on a new client that wants to sue a dating website because it gua
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/TcilGWIzvdE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Freaks – You&#39;re One of Us
-*Released on 2020-09-02, vote average 5.5*
-
-After having a chance encounter with a mysterious character, Wendy, a young working class mother, discovers that she has super powers.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kfZJhAWLMC4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -147,7 +125,7 @@ After having a chance encounter with a mysterious character, Wendy, a young work
 	
 
 ### Guest House
-*Released on 2020-09-04, vote average 5.4*
+*Released on 2020-09-04, vote average 5.9*
 
 A newly engaged couple finds the home of their dreams and it quickly becomes a nightmare when the previous owner&#39;s friend continues squatting in their guest house. It leads to a turf war that ultimately ruins their house, their marriage and their lives.
 
@@ -168,8 +146,30 @@ A newly engaged couple finds the home of their dreams and it quickly becomes a n
 	
 	
 
+### Freaks – You&#39;re One of Us
+*Released on 2020-09-02, vote average 5.4*
+
+After having a chance encounter with a mysterious character, Wendy, a young working class mother, discovers that she has super powers.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kfZJhAWLMC4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Babysitter: Killer Queen
-*Released on 2020-09-10, vote average 6.3*
+*Released on 2020-09-10, vote average 6.4*
 
 Two years after defeating a satanic cult led by his babysitter Bee, Cole&#39;s trying to forget his past and focus on surviving high school. But when old enemies unexpectedly return, Cole will once again have to outsmart the forces of evil.
 
@@ -212,6 +212,55 @@ A bigamist with one family in Buenos Aires and the other in Mar del Plata sees h
 	
 	
 
+### Unpregnant
+*Released on 2020-09-10, vote average 6.3*
+
+A 17-year old Missouri teen named Veronica discovers she has gotten pregnant, a development that threatens to end her dreams of matriculating at an Ivy League college, and the career that could follow.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/WDulv-J1bEs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Barbie: Princess Adventure
+*Released on 2020-09-01, vote average 7.7*
+
+Barbie discovers what it means to be a modern princess in this full-length, original musical when she switches places with her royal doppelganger.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/7joR5V_T3wQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Owners
 *Released on 2020-09-04, vote average 6*
 
@@ -242,45 +291,6 @@ A group of friends think they found the perfect easy score - an empty house with
 
 
 	
-	
-
-### Unpregnant
-*Released on 2020-09-10, vote average 1*
-
-A 17-year old Missouri teen named Veronica discovers she has gotten pregnant, a development that threatens to end her dreams of matriculating at an Ivy League college, and the career that could follow.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/WDulv-J1bEs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Break the Silence: The Movie
-*Released on 2020-09-10, vote average 8.4*
-
-With unprecedented access, Break the Silence: The Movie travels with BTS throughout the Love Yourself: Speak Yourself world tour, exploring each band member behind the curtain. Off stage, we see another side of BTS. The seven members begin to candidly tell personal stories they have never voiced before.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hz9_jkrrptU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -295,33 +305,6 @@ With unprecedented access, Break the Silence: The Movie travels with BTS through
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Barbie: Princess Adventure
-*Released on 2020-09-01, vote average 7.6*
-
-Barbie discovers what it means to be a modern princess in this full-length, original musical when she switches places with her royal doppelganger.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/7joR5V_T3wQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
