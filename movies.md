@@ -46,8 +46,30 @@ When the Emperor of China issues a decree that one man per family must serve in 
 	
 	
 
+### After We Collided
+*Released on 2020-09-02, vote average 7.1*
+
+Tessa finds herself struggling with her complicated relationship with Hardin; she faces a dilemma that could change their lives forever.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/u5B76cpkbfU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The 2nd
-*Released on 2020-09-01, vote average 6.3*
+*Released on 2020-09-01, vote average 5.1*
 
 Secret-service agent Vic Davis is on his way to pick up his estranged son, Sean, from his college campus when he finds himself in the middle of a high-stakes terrorist operation. His son&#39;s friend Erin Walton, the daughter of Supreme Court Justice Walton is the target, and this armed faction will stop at nothing to kidnap her and use her as leverage for a pending landmark legal case.
 
@@ -68,16 +90,16 @@ Secret-service agent Vic Davis is on his way to pick up his estranged son, Sean,
 	
 	
 
-### After We Collided
-*Released on 2020-09-02, vote average 7.1*
+### Guest House
+*Released on 2020-09-04, vote average 6.4*
 
-Tessa finds herself struggling with her complicated relationship with Hardin; she faces a dilemma that could change their lives forever.
+A newly engaged couple finds the home of their dreams and it quickly becomes a nightmare when the previous owner&#39;s friend continues squatting in their guest house. It leads to a turf war that ultimately ruins their house, their marriage and their lives.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/u5B76cpkbfU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/yoXFhob6AmI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -87,6 +109,23 @@ Tessa finds herself struggling with her complicated relationship with Hardin; sh
   
 
 
+	
+	
+
+### Shirley
+*Released on 2020-09-11, vote average 6*
+
+A famous horror writer finds inspiration for her next book after she and her husband take in a young couple.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wxMtEean_V8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -124,28 +163,6 @@ A lawyer takes on a new client that wants to sue a dating website because it gua
 	
 	
 
-### Guest House
-*Released on 2020-09-04, vote average 5.9*
-
-A newly engaged couple finds the home of their dreams and it quickly becomes a nightmare when the previous owner&#39;s friend continues squatting in their guest house. It leads to a turf war that ultimately ruins their house, their marriage and their lives.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/yoXFhob6AmI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Freaks – You&#39;re One of Us
 *Released on 2020-09-02, vote average 5.4*
 
@@ -169,7 +186,7 @@ After having a chance encounter with a mysterious character, Wendy, a young work
 	
 
 ### The Babysitter: Killer Queen
-*Released on 2020-09-10, vote average 6.4*
+*Released on 2020-09-10, vote average 6.3*
 
 Two years after defeating a satanic cult led by his babysitter Bee, Cole&#39;s trying to forget his past and focus on surviving high school. But when old enemies unexpectedly return, Cole will once again have to outsmart the forces of evil.
 
@@ -212,33 +229,6 @@ A bigamist with one family in Buenos Aires and the other in Mar del Plata sees h
 	
 	
 
-### Unpregnant
-*Released on 2020-09-10, vote average 6.3*
-
-A 17-year old Missouri teen named Veronica discovers she has gotten pregnant, a development that threatens to end her dreams of matriculating at an Ivy League college, and the career that could follow.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/WDulv-J1bEs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### Barbie: Princess Adventure
 *Released on 2020-09-01, vote average 7.7*
 
@@ -259,10 +249,15 @@ Barbie discovers what it means to be a modern princess in this full-length, orig
 
 
 	
+
+  
+
+
+	
 	
 
 ### The Owners
-*Released on 2020-09-04, vote average 6*
+*Released on 2020-09-04, vote average 5.9*
 
 A group of friends think they found the perfect easy score - an empty house with a safe full of cash. But when the elderly couple that lives there comes home early, the tables are suddenly turned. As a deadly game of cat and mouse ensues, the would-be thieves must fight to save themselves from a nightmare they could never have imagined.
 
@@ -281,10 +276,51 @@ A group of friends think they found the perfect easy score - an empty house with
 
 
 	
+	
+
+### Unpregnant
+*Released on 2020-09-10, vote average 6.3*
+
+A 17-year old Missouri teen named Veronica discovers she has gotten pregnant, a development that threatens to end her dreams of matriculating at an Ivy League college, and the career that could follow.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/WDulv-J1bEs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
+	
+	
+
+### Dad Wanted
+*Released on 2020-09-11, vote average 6*
+
+What does a thrill-seeker tween girl do when her mom forbids her to enter a BMX race? Cast an actor with nothing to lose to play her approving dad.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nAJH0HmkaAU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -295,6 +331,23 @@ A group of friends think they found the perfect easy score - an empty house with
   
 
 
+	
+	
+
+### The Devil All the Time
+*Released on 2020-09-11, vote average 9*
+
+Sinister characters converge around a young man devoted to protecting those he loves in a postwar backwoods town teeming with corruption and brutality.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EIzazUv2gtI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -341,13 +394,32 @@ A group of friends think they found the perfect easy score - an empty house with
 	
 
 	
-
+	
 	
 
 	
 
 	
 
+	
+
+	
+	
+
+### I Used to Go Here
+*Released on 2020-09-17, vote average 6.5*
+
+Following the launch of her new novel, 35-year-old writer Kate Conklin is invited to speak at her alma mater by her mentor and former professor. After accepting the invitation, Kate finds herself deeply enmeshed in the lives of an eccentric group of college students.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/a9xVoRoWmnA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
