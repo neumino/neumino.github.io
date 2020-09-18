@@ -67,16 +67,9 @@ Two years after defeating a satanic cult led by his babysitter Bee, Cole&#39;s t
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### We Summon the Darkness
-*Released on 2020-09-17, vote average 7*
+*Released on 2020-09-17, vote average 7.2*
 
 Three best friends attending a heavy-metal show cross paths with sadistic killers after they travel to a secluded country home for an after party.
 
@@ -96,6 +89,13 @@ Three best friends attending a heavy-metal show cross paths with sadistic killer
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Guest House
 *Released on 2020-09-04, vote average 6.4*
@@ -107,6 +107,28 @@ A newly engaged couple finds the home of their dreams and it quickly becomes a n
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/yoXFhob6AmI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Dad Wanted
+*Released on 2020-09-11, vote average 6.9*
+
+What does a thrill-seeker tween girl do when her mom forbids her to enter a BMX race? Cast an actor with nothing to lose to play her approving dad.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nAJH0HmkaAU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -139,6 +161,26 @@ A famous horror writer finds inspiration for her next book after she and her hus
 
 
 	
+
+  
+
+
+	
+	
+
+### The Devil All the Time
+*Released on 2020-09-11, vote average 7.4*
+
+In Knockemstiff, Ohio and its neighboring backwoods, sinister characters converge around young Arvin Russell as he fights the evil forces that threaten him and his family.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EIzazUv2gtI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -148,16 +190,16 @@ A famous horror writer finds inspiration for her next book after she and her hus
 	
 	
 
-### Dad Wanted
-*Released on 2020-09-11, vote average 6.3*
+### Evil Takes Root
+*Released on 2020-09-15, vote average 5*
 
-What does a thrill-seeker tween girl do when her mom forbids her to enter a BMX race? Cast an actor with nothing to lose to play her approving dad.
+A paranormal investigator arrives in a sleepy Midwest town to investigate the mysterious loss of his old lover and reconcile sins of the past. He discovers she fell victim to the Batibat, an ancient evil that followed her home from the Philippines.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/nAJH0HmkaAU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-MbpxRsIJwo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -171,7 +213,7 @@ What does a thrill-seeker tween girl do when her mom forbids her to enter a BMX 
 	
 
 ### The Last Laugh
-*Released on 2020-09-15, vote average 1*
+*Released on 2020-09-15, vote average 3*
 
 A stand-up comedian on the verge of breakout success must make a terrible choice when he discovers a murderer on the loose in the theater where he&#39;s about to perform his biggest show.
 
@@ -189,6 +231,72 @@ A stand-up comedian on the verge of breakout success must make a terrible choice
   
 
 
+	
+
+  
+
+
+	
+	
+
+### I Used to Go Here
+*Released on 2020-09-17, vote average 5.8*
+
+Following the launch of her new novel, 35-year-old writer Kate Conklin is invited to speak at her alma mater by her mentor and former professor. After accepting the invitation, Kate finds herself deeply enmeshed in the lives of an eccentric group of college students.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/a9xVoRoWmnA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Swimming for Gold
+*Released on 2020-09-17, vote average 4*
+
+Young elite swimmer Claire is sent to Australia to coach a boys swimming team, where she must overcome an old rival and a secret fear to save the swimming camp from closing.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/7cq4TdLSKvc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Paramedic
+*Released on 2020-09-16, vote average 6.5*
+
+Unable to face his new reality in a wheelchair, Ángel develops a deadly obsession with the woman who left him and unleashes a sinister revenge plot.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-j6hkcYl52k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -222,84 +330,6 @@ In post-World War II America, a woman, rebuilding her life in the suburbs with h
 
 
 	
-	
-
-### The Devil All the Time
-*Released on 2020-09-11, vote average 7.3*
-
-In Knockemstiff, Ohio and its neighboring backwoods, sinister characters converge around young Arvin Russell as he fights the evil forces that threaten him and his family.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EIzazUv2gtI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Owners
-*Released on 2020-09-04, vote average 5.9*
-
-A group of friends think they found the perfect easy score - an empty house with a safe full of cash. But when the elderly couple that lives there comes home early, the tables are suddenly turned. As a deadly game of cat and mouse ensues, the would-be thieves must fight to save themselves from a nightmare they could never have imagined.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/yMvJSivVNrs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Unpregnant
-*Released on 2020-09-10, vote average 7.8*
-
-A 17-year old Missouri teen named Veronica discovers she has gotten pregnant, a development that threatens to end her dreams of matriculating at an Ivy League college, and the career that could follow.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/WDulv-J1bEs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -319,23 +349,6 @@ A 17-year old Missouri teen named Veronica discovers she has gotten pregnant, a 
 
 
 	
-	
-
-### We Summon the Darkness
-*Released on 2020-09-17, vote average 7*
-
-Three best friends attending a heavy-metal show cross paths with sadistic killers after they travel to a secluded country home for an after party.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZGOCLeC2MNA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
@@ -344,41 +357,7 @@ Three best friends attending a heavy-metal show cross paths with sadistic killer
 	
 
 	
-	
 
-### I Used to Go Here
-*Released on 2020-09-17, vote average 5.8*
-
-Following the launch of her new novel, 35-year-old writer Kate Conklin is invited to speak at her alma mater by her mentor and former professor. After accepting the invitation, Kate finds herself deeply enmeshed in the lives of an eccentric group of college students.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/a9xVoRoWmnA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Swimming for Gold
-*Released on 2020-09-17, vote average 4*
-
-Young elite swimmer Claire is sent to Australia to coach a boys swimming team, where she must overcome an old rival and a secret fear to save the swimming camp from closing.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/7cq4TdLSKvc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
