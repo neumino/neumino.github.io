@@ -69,7 +69,7 @@ Two years after defeating a satanic cult led by his babysitter Bee, Cole&#39;s t
 	
 
 ### We Summon the Darkness
-*Released on 2020-09-17, vote average 7.2*
+*Released on 2020-09-17, vote average 6.1*
 
 Three best friends attending a heavy-metal show cross paths with sadistic killers after they travel to a secluded country home for an after party.
 
@@ -89,38 +89,9 @@ Three best friends attending a heavy-metal show cross paths with sadistic killer
 
 	
 	
-	
-
-  
-
-
-	
-	
-
-### Guest House
-*Released on 2020-09-04, vote average 6.4*
-
-A newly engaged couple finds the home of their dreams and it quickly becomes a nightmare when the previous owner&#39;s friend continues squatting in their guest house. It leads to a turf war that ultimately ruins their house, their marriage and their lives.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/yoXFhob6AmI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
 
 ### Dad Wanted
-*Released on 2020-09-11, vote average 6.9*
+*Released on 2020-09-11, vote average 6.6*
 
 What does a thrill-seeker tween girl do when her mom forbids her to enter a BMX race? Cast an actor with nothing to lose to play her approving dad.
 
@@ -132,6 +103,13 @@ What does a thrill-seeker tween girl do when her mom forbids her to enter a BMX 
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -161,15 +139,10 @@ A famous horror writer finds inspiration for her next book after she and her hus
 
 
 	
-
-  
-
-
-	
 	
 
 ### The Devil All the Time
-*Released on 2020-09-11, vote average 7.4*
+*Released on 2020-09-11, vote average 7.6*
 
 In Knockemstiff, Ohio and its neighboring backwoods, sinister characters converge around young Arvin Russell as he fights the evil forces that threaten him and his family.
 
@@ -190,20 +163,77 @@ In Knockemstiff, Ohio and its neighboring backwoods, sinister characters converg
 	
 	
 
-### Evil Takes Root
-*Released on 2020-09-15, vote average 5*
+### The Paramedic
+*Released on 2020-09-16, vote average 6.2*
 
-A paranormal investigator arrives in a sleepy Midwest town to investigate the mysterious loss of his old lover and reconcile sins of the past. He discovers she fell victim to the Batibat, an ancient evil that followed her home from the Philippines.
+Unable to face his new reality in a wheelchair, Ángel develops a deadly obsession with the woman who left him and unleashes a sinister revenge plot.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-MbpxRsIJwo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-j6hkcYl52k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Ravers
+*Released on 2020-09-18, vote average 3*
+
+When a contaminated energy drink turns an illegal rave into a nightmare, a germaphobic journalist has to overcome her deepest fears to get her friends out alive.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/R7dCOR47dUE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -232,103 +262,22 @@ A stand-up comedian on the verge of breakout success must make a terrible choice
 
 
 	
-
-  
-
-
-	
 	
 
-### I Used to Go Here
-*Released on 2020-09-17, vote average 5.8*
+### Evil Takes Root
+*Released on 2020-09-15, vote average 5*
 
-Following the launch of her new novel, 35-year-old writer Kate Conklin is invited to speak at her alma mater by her mentor and former professor. After accepting the invitation, Kate finds herself deeply enmeshed in the lives of an eccentric group of college students.
+A paranormal investigator arrives in a sleepy Midwest town to investigate the mysterious loss of his old lover and reconcile sins of the past. He discovers she fell victim to the Batibat, an ancient evil that followed her home from the Philippines.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/a9xVoRoWmnA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-MbpxRsIJwo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### Swimming for Gold
-*Released on 2020-09-17, vote average 4*
-
-Young elite swimmer Claire is sent to Australia to coach a boys swimming team, where she must overcome an old rival and a secret fear to save the swimming camp from closing.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/7cq4TdLSKvc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Paramedic
-*Released on 2020-09-16, vote average 6.5*
-
-Unable to face his new reality in a wheelchair, Ángel develops a deadly obsession with the woman who left him and unleashes a sinister revenge plot.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-j6hkcYl52k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Secrets We Keep
-*Released on 2020-09-16, vote average 6*
-
-In post-World War II America, a woman, rebuilding her life in the suburbs with her husband, kidnaps her neighbor and seeks vengeance for the heinous war crimes she believes he committed against her.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kGKX5rzRMho?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -372,6 +321,8 @@ In post-World War II America, a woman, rebuilding her life in the suburbs with h
 
 	
 
+	
+	
 	
 
 	
