@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Mulan
-*Released on 2020-09-10, vote average 7.6*
+*Released on 2020-09-10, vote average 7.5*
 
 When the Emperor of China issues a decree that one man per family must serve in the Imperial Chinese Army to defend the country from Huns, Hua Mulan, the eldest daughter of an honored warrior, steps in to take the place of her ailing father. She is spirited, determined and quick on her feet. Disguised as a man by the name of Hua Jun, she is tested every step of the way and must harness her innermost strength and embrace her true potential.
 
@@ -68,30 +68,8 @@ Two years after defeating a satanic cult led by his babysitter Bee, Cole&#39;s t
 	
 	
 
-### We Summon the Darkness
-*Released on 2020-09-17, vote average 6.1*
-
-Three best friends attending a heavy-metal show cross paths with sadistic killers after they travel to a secluded country home for an after party.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZGOCLeC2MNA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Dad Wanted
-*Released on 2020-09-11, vote average 6.6*
+*Released on 2020-09-11, vote average 6.8*
 
 What does a thrill-seeker tween girl do when her mom forbids her to enter a BMX race? Cast an actor with nothing to lose to play her approving dad.
 
@@ -111,27 +89,27 @@ What does a thrill-seeker tween girl do when her mom forbids her to enter a BMX 
 
 	
 	
+
+### We Summon the Darkness
+*Released on 2020-09-17, vote average 6.6*
+
+Three best friends attending a heavy-metal show cross paths with sadistic killers after they travel to a secluded country home for an after party.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZGOCLeC2MNA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
 
 
 	
-	
-
-### Shirley
-*Released on 2020-09-11, vote average 7.7*
-
-A famous horror writer finds inspiration for her next book after she and her husband take in a young couple.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wxMtEean_V8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -163,8 +141,30 @@ In Knockemstiff, Ohio and its neighboring backwoods, sinister characters converg
 	
 	
 
+### Shirley
+*Released on 2020-09-11, vote average 7.3*
+
+A famous horror writer finds inspiration for her next book after she and her husband take in a young couple.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wxMtEean_V8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Paramedic
-*Released on 2020-09-16, vote average 6.2*
+*Released on 2020-09-16, vote average 6.1*
 
 Unable to face his new reality in a wheelchair, Ángel develops a deadly obsession with the woman who left him and unleashes a sinister revenge plot.
 
@@ -176,6 +176,45 @@ Unable to face his new reality in a wheelchair, Ángel develops a deadly obsessi
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 	
 
@@ -224,75 +263,6 @@ When a contaminated energy drink turns an illegal rave into a nightmare, a germa
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Last Laugh
-*Released on 2020-09-15, vote average 3*
-
-A stand-up comedian on the verge of breakout success must make a terrible choice when he discovers a murderer on the loose in the theater where he&#39;s about to perform his biggest show.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/fKUz7WiSAFg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Evil Takes Root
-*Released on 2020-09-15, vote average 5*
-
-A paranormal investigator arrives in a sleepy Midwest town to investigate the mysterious loss of his old lover and reconcile sins of the past. He discovers she fell victim to the Batibat, an ancient evil that followed her home from the Philippines.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-MbpxRsIJwo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -321,8 +291,6 @@ A paranormal investigator arrives in a sleepy Midwest town to investigate the my
 
 	
 
-	
-	
 	
 
 	
