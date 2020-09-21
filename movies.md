@@ -69,7 +69,7 @@ Two years after defeating a satanic cult led by his babysitter Bee, Cole&#39;s t
 	
 
 ### Dad Wanted
-*Released on 2020-09-11, vote average 6.8*
+*Released on 2020-09-11, vote average 7.5*
 
 What does a thrill-seeker tween girl do when her mom forbids her to enter a BMX race? Cast an actor with nothing to lose to play her approving dad.
 
@@ -91,7 +91,7 @@ What does a thrill-seeker tween girl do when her mom forbids her to enter a BMX 
 	
 
 ### We Summon the Darkness
-*Released on 2020-09-17, vote average 6.6*
+*Released on 2020-09-17, vote average 6.3*
 
 Three best friends attending a heavy-metal show cross paths with sadistic killers after they travel to a secluded country home for an after party.
 
@@ -120,7 +120,7 @@ Three best friends attending a heavy-metal show cross paths with sadistic killer
 	
 
 ### The Devil All the Time
-*Released on 2020-09-11, vote average 7.6*
+*Released on 2020-09-11, vote average 7.4*
 
 In Knockemstiff, Ohio and its neighboring backwoods, sinister characters converge around young Arvin Russell as he fights the evil forces that threaten him and his family.
 
@@ -164,7 +164,7 @@ A famous horror writer finds inspiration for her next book after she and her hus
 	
 
 ### The Paramedic
-*Released on 2020-09-16, vote average 6.1*
+*Released on 2020-09-16, vote average 6.4*
 
 Unable to face his new reality in a wheelchair, Ángel develops a deadly obsession with the woman who left him and unleashes a sinister revenge plot.
 
@@ -200,21 +200,6 @@ Unable to face his new reality in a wheelchair, Ángel develops a deadly obsessi
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 	
 
@@ -222,10 +207,7 @@ Unable to face his new reality in a wheelchair, Ángel develops a deadly obsessi
 
 
 	
-
-  
-
-
+	
 	
 
   
@@ -242,18 +224,38 @@ Unable to face his new reality in a wheelchair, Ángel develops a deadly obsessi
 
 
 	
+
+  
+
+
 	
 
-### Ravers
-*Released on 2020-09-18, vote average 3*
+  
 
-When a contaminated energy drink turns an illegal rave into a nightmare, a germaphobic journalist has to overcome her deepest fears to get her friends out alive.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Unpregnant
+*Released on 2020-09-10, vote average 7.2*
+
+A 17-year old Missouri teen named Veronica discovers she has gotten pregnant, a development that threatens to end her dreams of matriculating at an Ivy League college, and the career that could follow.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/R7dCOR47dUE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/WDulv-J1bEs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -267,6 +269,23 @@ When a contaminated energy drink turns an illegal rave into a nightmare, a germa
 ## Opening soon
 
 
+	
+	
+
+### Enola Holmes
+*Released on 2020-09-23, vote average 8*
+
+While searching for her missing mother, intrepid teen Enola Holmes uses her sleuthing skills to outsmart big brother Sherlock and help a runaway lord.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/1d0Zf9sXlHk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
