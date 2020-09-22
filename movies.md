@@ -46,30 +46,8 @@ When the Emperor of China issues a decree that one man per family must serve in 
 	
 	
 
-### The Babysitter: Killer Queen
-*Released on 2020-09-10, vote average 6.7*
-
-Two years after defeating a satanic cult led by his babysitter Bee, Cole&#39;s trying to forget his past and focus on surviving high school. But when old enemies unexpectedly return, Cole will once again have to outsmart the forces of evil.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8WzUYkzRgBE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Dad Wanted
-*Released on 2020-09-11, vote average 7.5*
+*Released on 2020-09-11, vote average 7.3*
 
 What does a thrill-seeker tween girl do when her mom forbids her to enter a BMX race? Cast an actor with nothing to lose to play her approving dad.
 
@@ -91,7 +69,7 @@ What does a thrill-seeker tween girl do when her mom forbids her to enter a BMX 
 	
 
 ### We Summon the Darkness
-*Released on 2020-09-17, vote average 6.3*
+*Released on 2020-09-17, vote average 6.1*
 
 Three best friends attending a heavy-metal show cross paths with sadistic killers after they travel to a secluded country home for an after party.
 
@@ -100,6 +78,28 @@ Three best friends attending a heavy-metal show cross paths with sadistic killer
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/ZGOCLeC2MNA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Babysitter: Killer Queen
+*Released on 2020-09-10, vote average 6.7*
+
+Two years after defeating a satanic cult led by his babysitter Bee, Cole&#39;s trying to forget his past and focus on surviving high school. But when old enemies unexpectedly return, Cole will once again have to outsmart the forces of evil.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8WzUYkzRgBE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -190,23 +190,6 @@ Unable to face his new reality in a wheelchair, Ángel develops a deadly obsessi
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -224,10 +207,51 @@ Unable to face his new reality in a wheelchair, Ángel develops a deadly obsessi
 
 
 	
+	
+
+### Alone
+*Released on 2020-09-10, vote average 7.1*
+
+A recently widowed traveler is kidnapped by a cold blooded killer, only to escape into the wilderness where she is forced to battle against the elements as her pursuer closes in on her.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/UOMznrjnlYI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Blackbird
+*Released on 2020-09-17, vote average 6.8*
+
+A terminally ill mother invites her family to their country house for one final gathering, but tensions quickly boil over between her two daughters.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/I9kb6ZJre78?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -238,6 +262,23 @@ Unable to face his new reality in a wheelchair, Ángel develops a deadly obsessi
   
 
 
+	
+	
+
+### The Broken Hearts Gallery
+*Released on 2020-09-11, vote average 8.4*
+
+Lucy is a young gallery assistant who collects mementos from her relationships. She discovers that she must let go of her past to move forward, and comes up with a lovely, artistic way to help herself and others who have suffered heartbreak.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/7aokhRzwlJI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -265,9 +306,38 @@ A 17-year old Missouri teen named Veronica discovers she has gotten pregnant, a 
   
 
 
+	
+
+  
+
+
+	
+	
+
+### Sputnik
+*Released on 2020-09-10, vote average 5.6*
+
+At the height of the Cold War, a Soviet spacecraft crash lands after a mission gone awry, leaving the commander as its only survivor. After a renowned Russian psychologist is brought in to evaluate the commander’s mental state, it becomes clear that something dangerous may have come back to Earth with him…
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xhLORcya9GU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 
 ## Opening soon
 
+
+	
 
 	
 	
@@ -286,8 +356,6 @@ While searching for her missing mother, intrepid teen Enola Holmes uses her sleu
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
