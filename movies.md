@@ -47,7 +47,7 @@ When the Emperor of China issues a decree that one man per family must serve in 
 	
 
 ### Dad Wanted
-*Released on 2020-09-11, vote average 7.3*
+*Released on 2020-09-11, vote average 7.4*
 
 What does a thrill-seeker tween girl do when her mom forbids her to enter a BMX race? Cast an actor with nothing to lose to play her approving dad.
 
@@ -111,13 +111,6 @@ Two years after defeating a satanic cult led by his babysitter Bee, Cole&#39;s t
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### The Devil All the Time
 *Released on 2020-09-11, vote average 7.4*
@@ -129,6 +122,35 @@ In Knockemstiff, Ohio and its neighboring backwoods, sinister characters converg
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/EIzazUv2gtI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### The Paramedic
+*Released on 2020-09-16, vote average 6.3*
+
+Unable to face his new reality in a wheelchair, Ángel develops a deadly obsession with the woman who left him and unleashes a sinister revenge plot.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-j6hkcYl52k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -163,16 +185,16 @@ A famous horror writer finds inspiration for her next book after she and her hus
 	
 	
 
-### The Paramedic
-*Released on 2020-09-16, vote average 6.4*
+### Enola Holmes
+*Released on 2020-09-23, vote average 8*
 
-Unable to face his new reality in a wheelchair, Ángel develops a deadly obsession with the woman who left him and unleashes a sinister revenge plot.
+While searching for her missing mother, intrepid teen Enola Holmes uses her sleuthing skills to outsmart big brother Sherlock and help a runaway lord.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-j6hkcYl52k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/1d0Zf9sXlHk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -184,23 +206,6 @@ Unable to face his new reality in a wheelchair, Ángel develops a deadly obsessi
 
 	
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -229,55 +234,11 @@ A recently widowed traveler is kidnapped by a cold blooded killer, only to escap
 
 
 	
-	
-	
 
   
 
 
 	
-	
-
-### Blackbird
-*Released on 2020-09-17, vote average 6.8*
-
-A terminally ill mother invites her family to their country house for one final gathering, but tensions quickly boil over between her two daughters.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/I9kb6ZJre78?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Broken Hearts Gallery
-*Released on 2020-09-11, vote average 8.4*
-
-Lucy is a young gallery assistant who collects mementos from her relationships. She discovers that she must let go of her past to move forward, and comes up with a lovely, artistic way to help herself and others who have suffered heartbreak.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/7aokhRzwlJI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -288,7 +249,7 @@ Lucy is a young gallery assistant who collects mementos from her relationships. 
 	
 
 ### Unpregnant
-*Released on 2020-09-10, vote average 7.2*
+*Released on 2020-09-10, vote average 7.1*
 
 A 17-year old Missouri teen named Veronica discovers she has gotten pregnant, a development that threatens to end her dreams of matriculating at an Ivy League college, and the career that could follow.
 
@@ -312,22 +273,27 @@ A 17-year old Missouri teen named Veronica discovers she has gotten pregnant, a 
 
 
 	
-	
 
-### Sputnik
-*Released on 2020-09-10, vote average 5.6*
+  
 
-At the height of the Cold War, a Soviet spacecraft crash lands after a mission gone awry, leaving the commander as its only survivor. After a renowned Russian psychologist is brought in to evaluate the commander’s mental state, it becomes clear that something dangerous may have come back to Earth with him…
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xhLORcya9GU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
