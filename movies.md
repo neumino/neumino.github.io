@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Mulan
-*Released on 2020-09-10, vote average 7.5*
+### The Devil All the Time
+*Released on 2020-09-11, vote average 7.5*
 
-When the Emperor of China issues a decree that one man per family must serve in the Imperial Chinese Army to defend the country from Huns, Hua Mulan, the eldest daughter of an honored warrior, steps in to take the place of her ailing father. She is spirited, determined and quick on her feet. Disguised as a man by the name of Hua Jun, she is tested every step of the way and must harness her innermost strength and embrace her true potential.
+In Knockemstiff, Ohio and its neighboring backwoods, sinister characters converge around young Arvin Russell as he fights the evil forces that threaten him and his family.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/01ON04GCwKs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/EIzazUv2gtI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ When the Emperor of China issues a decree that one man per family must serve in 
 	
 	
 
-### The Devil All the Time
-*Released on 2020-09-11, vote average 7.4*
+### The Paramedic
+*Released on 2020-09-16, vote average 6.3*
 
-In Knockemstiff, Ohio and its neighboring backwoods, sinister characters converge around young Arvin Russell as he fights the evil forces that threaten him and his family.
+Unable to face his new reality in a wheelchair, Ángel develops a deadly obsession with the woman who left him and unleashes a sinister revenge plot.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/EIzazUv2gtI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-j6hkcYl52k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -90,28 +90,6 @@ What does a thrill-seeker tween girl do when her mom forbids her to enter a BMX 
 	
 	
 
-### The Paramedic
-*Released on 2020-09-16, vote average 6.3*
-
-Unable to face his new reality in a wheelchair, Ángel develops a deadly obsession with the woman who left him and unleashes a sinister revenge plot.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-j6hkcYl52k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### We Summon the Darkness
 *Released on 2020-09-17, vote average 6.1*
 
@@ -134,52 +112,8 @@ Three best friends attending a heavy-metal show cross paths with sadistic killer
 	
 	
 
-### The Babysitter: Killer Queen
-*Released on 2020-09-10, vote average 6.8*
-
-Two years after defeating a satanic cult led by his babysitter Bee, Cole&#39;s trying to forget his past and focus on surviving high school. But when old enemies unexpectedly return, Cole will once again have to outsmart the forces of evil.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8WzUYkzRgBE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Shirley
-*Released on 2020-09-11, vote average 7.3*
-
-A famous horror writer finds inspiration for her next book after she and her husband take in a young couple.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wxMtEean_V8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Enola Holmes
-*Released on 2020-09-23, vote average 7*
+*Released on 2020-09-23, vote average 7.5*
 
 While searching for her missing mother, intrepid teen Enola Holmes uses her sleuthing skills to outsmart big brother Sherlock and help a runaway lord.
 
@@ -199,24 +133,17 @@ While searching for her missing mother, intrepid teen Enola Holmes uses her sleu
 
 	
 	
-	
 
-  
+### Shirley
+*Released on 2020-09-11, vote average 6.6*
 
-
-	
-	
-
-### Alone
-*Released on 2020-09-10, vote average 6.8*
-
-A recently widowed traveler is kidnapped by a cold blooded killer, only to escape into the wilderness where she is forced to battle against the elements as her pursuer closes in on her.
+A famous horror writer finds inspiration for her next book after she and her husband take in a young couple.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/UOMznrjnlYI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/wxMtEean_V8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -257,13 +184,6 @@ An American is kidnapped while attending a conference in Cairo and ends up in pr
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Kiss the Ground
 *Released on 2020-09-22, vote average 5*
@@ -275,35 +195,6 @@ Sheds light on an alternative approach to farming called “regenerative agricul
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/K3-V1j-zMZw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### House of Cardin
-*Released on 2020-09-23, vote average 7*
-
-The life and design of Pierre Cardin, including exclusive access to his archives and unprecedented interviews from Mr. Cardin.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/QYqyP68RJrA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -360,16 +251,16 @@ Lucy Neal is thrown for a loop when she is accused of being too inhibited by her
 	
 	
 
-### The Swordsman
-*Released on 2020-09-23, vote average 8*
+### Let It Snow
+*Released on 2020-09-22, vote average 5.3*
 
-Tae-yeul, a swordsman in his thirties goes out to find his only daughter after losing one of his eyes. MIN Seung-ho, The Joseon Dynasty&#39;s best swordsman chooses an ordinary simple life after perceiving the transient nature of power. Gurutai, the best swordsman in Qing Dynasty aspires to become the best even in the Joseon Dynasty.
+Separated from her fiance after sneaking onto a restricted slope, Mia, a free riding snowboarder, must survive not only against nature, but the masked snowmobile rider in black who&#39;s out for her blood.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ACvvexZ22Z8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/UBBmsQQx8kg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -380,72 +271,9 @@ Tae-yeul, a swordsman in his thirties goes out to find his only daughter after l
 
 
 	
-	
-
-### Stuntwomen: The Untold Hollywood Story
-*Released on 2020-09-22, vote average 2*
-
-Chronicles the lives of women who perform the stunts in some of Hollywood’s biggest action sequences — from the early days of silent movies to today’s blockbusters.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cAazL4Cdijc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
-
-
-## Opening soon
-
-
-	
-	
-
-### Money Plane
-*Released on 2020-09-29, vote average 8.5*
-
-A professional thief with $40 million in debt and his family&#39;s life on the line must commit one final heist - rob a futuristic airborne casino filled with the world&#39;s most dangerous criminals.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/aETz_dRDEys?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### A Nice Girl Like You
-*Released on 2020-09-24, vote average 8*
-
-Lucy Neal is thrown for a loop when she is accused of being too inhibited by her ex-boyfriend. In an effort to prove him wrong, Lucy creates a rather wild to-do list that sends her on a whirlwind and surprising journey of self-discovery, friendship, and new love.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-Wjjo30JJck?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
 
 	
 	
@@ -466,16 +294,68 @@ Five hundred miles north of Vancouver is Kitamaat, an Indian reservation in the 
 	
 	
 
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+
+## Opening soon
+
+
+	
+	
+
+### Money Plane
+*Released on 2020-09-29, vote average 5.7*
+
+A professional thief with $40 million in debt and his family&#39;s life on the line must commit one final heist - rob a futuristic airborne casino filled with the world&#39;s most dangerous criminals.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/aETz_dRDEys?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
 
-	
-
-	
-
-	
-	
 	
 
 	
@@ -503,15 +383,9 @@ Two con artists have spent 26 years training their only daughter to swindle, sca
 
 	
 	
-	
-
-	
-
-	
-	
 
 ### The Trial of the Chicago 7
-*Released on 2020-09-25, vote average 8*
+*Released on 2020-09-25, vote average 9*
 
 What was intended to be a peaceful protest at the 1968 Democratic National Convention turned into a violent clash with police and the National Guard. The organizers of the protest—including Abbie Hoffman, Jerry Rubin, Tom Hayden and Bobby Seale—were charged with conspiracy to incite a riot and the trial that followed was one of the most notorious in history.
 
@@ -531,10 +405,6 @@ What was intended to be a peaceful protest at the 1968 Democratic National Conve
 	
 
 	
-
-	
-
-	
 	
 
 ### Secret Society of Second Born Royals
@@ -551,6 +421,49 @@ Sam is a teenage royal rebel, second in line to the throne of the kingdom of Ill
   allowfullscreen></iframe>
 
 	
+	
+
+	
+	
+	
+
+	
+
+	
+
+	
+	
+
+### Ottolenghi and the Cakes of Versailles
+*Released on 2020-09-25, vote average 8*
+
+Documenting the collaboration between world renowned chef Yotam Ottolenghi and the Metropolitan Museum of Art in New York, the film follows five visionary pastry makers as they endeavor to construct an extravagant food gala based on the art exhibit &#34;Visitors to Versailles.&#34; Exploring the relationship between modern-day social media and the open court of the French Monarchy, the film studies the alarmingly cyclical intersection between food, culture, and history.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Cz49ArxyW4k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
