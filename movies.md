@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### The Paramedic
-*Released on 2020-09-16, vote average 6.3*
+### Enola Holmes
+*Released on 2020-09-23, vote average 8*
 
-Unable to face his new reality in a wheelchair, Ángel develops a deadly obsession with the woman who left him and unleashes a sinister revenge plot.
+While searching for her missing mother, intrepid teen Enola Holmes uses her sleuthing skills to outsmart big brother Sherlock and help a runaway lord.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-j6hkcYl52k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/1d0Zf9sXlHk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ Unable to face his new reality in a wheelchair, Ángel develops a deadly obsessi
 	
 	
 
-### Enola Holmes
-*Released on 2020-09-23, vote average 8*
+### The Paramedic
+*Released on 2020-09-16, vote average 6.3*
 
-While searching for her missing mother, intrepid teen Enola Holmes uses her sleuthing skills to outsmart big brother Sherlock and help a runaway lord.
+Unable to face his new reality in a wheelchair, Ángel develops a deadly obsession with the woman who left him and unleashes a sinister revenge plot.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/1d0Zf9sXlHk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-j6hkcYl52k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -67,9 +67,16 @@ While searching for her missing mother, intrepid teen Enola Holmes uses her sleu
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### We Summon the Darkness
-*Released on 2020-09-17, vote average 6.6*
+*Released on 2020-09-17, vote average 6.5*
 
 Three best friends attending a heavy-metal show cross paths with sadistic killers after they travel to a secluded country home for an after party.
 
@@ -81,13 +88,6 @@ Three best friends attending a heavy-metal show cross paths with sadistic killer
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -119,52 +119,8 @@ Separated from her fiance after sneaking onto a restricted slope, Mia, a free ri
 	
 	
 
-### Infidel
-*Released on 2020-09-18, vote average 3.7*
-
-An American is kidnapped while attending a conference in Cairo and ends up in prison in Iran on spying charges. His wife goes to Iran, determined to get him out.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vBac7GckXnA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Secrets We Keep
-*Released on 2020-09-16, vote average 7.3*
-
-In post-World War II America, a woman, rebuilding her life in the suburbs with her husband, kidnaps her neighbor and seeks vengeance for the heinous war crimes she believes he committed against her.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kGKX5rzRMho?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Secret Society of Second Born Royals
-*Released on 2020-09-25, vote average 8.1*
+*Released on 2020-09-25, vote average 7.1*
 
 Sam is a teenage royal rebel, second in line to the throne of the kingdom of Illyria. Just as her disinterest in the royal way of life is at an all-time high, she discovers she has super-human abilities and is invited to join a secret society of similar extraordinary second-born royals charged with keeping the world safe.
 
@@ -207,6 +163,128 @@ In the near future, the sun has become so toxic people can no longer leave their
 	
 	
 
+### Infidel
+*Released on 2020-09-18, vote average 3.7*
+
+An American is kidnapped while attending a conference in Cairo and ends up in prison in Iran on spying charges. His wife goes to Iran, determined to get him out.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vBac7GckXnA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Wish Upon a Unicorn
+*Released on 2020-09-15, vote average 6.9*
+
+Two children discover that their mother is gone. The youngest of the pair, adventurer and upcomming singer, Long Johnson forces his older sister, Lily Johnson, to hunt down a unicorn with magical blood.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qTIVfJBTXgo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Secrets We Keep
+*Released on 2020-09-16, vote average 7.3*
+
+In post-World War II America, a woman, rebuilding her life in the suburbs with her husband, kidnaps her neighbor and seeks vengeance for the heinous war crimes she believes he committed against her.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kGKX5rzRMho?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Marionette
+*Released on 2020-09-19, vote average 7*
+
+A therapist loses her grip on reality when a ten-year-old boy claims he can control her future.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nObwABpmHgI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### The Trial of the Chicago 7
+*Released on 2020-09-25, vote average 9.3*
+
+What was intended to be a peaceful protest at the 1968 Democratic National Convention turned into a violent clash with police and the National Guard. The organizers of the protest—including Abbie Hoffman, Jerry Rubin, Tom Hayden and Bobby Seale—were charged with conspiracy to incite a riot and the trial that followed was one of the most notorious in history.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/OAaZIfeQzT0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### Rogue Warfare: Death of a Nation
 *Released on 2020-09-25, vote average 7*
 
@@ -227,44 +305,10 @@ The Black Mask Organization coordinates a twisted plot which will devastate the 
 
 
 	
-	
-
-### The Trial of the Chicago 7
-*Released on 2020-09-25, vote average 9*
-
-What was intended to be a peaceful protest at the 1968 Democratic National Convention turned into a violent clash with police and the National Guard. The organizers of the protest—including Abbie Hoffman, Jerry Rubin, Tom Hayden and Bobby Seale—were charged with conspiracy to incite a riot and the trial that followed was one of the most notorious in history.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/OAaZIfeQzT0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
-	
-	
-
-### Monkey Beach
-*Released on 2020-09-24, vote average 8*
-
-Five hundred miles north of Vancouver is Kitamaat, an Indian reservation in the homeland of the Haisla people. Growing up a tough, wild tomboy, swimming, fighting, and fishing in a remote village where the land slips into the green ocean on the edge of the world, Lisamarie has always been different.  Visited by ghosts and shapeshifters, tormented by premonitions, she can&#39;t escape the sense that something terrible is waiting for her. She recounts her enchanted yet scarred life as she journeys in her speedboat up the frigid waters of the Douglas Channel. She is searching for her brother, dead by drowning, and in her own way running as fast as she can toward danger. Circling her brother&#39;s tragic death are the remarkable characters that make up her family: Lisamarie&#39;s parents, struggling to join their Haisla heritage with Western ways; Uncle Mick, a Native rights activist and devoted Elvis fan; and the headstrong Ma-ma-oo (Haisla for &#34;grandmother&#34;), a guardian of tradition.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/s_DOKnBnQUg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -293,92 +337,10 @@ Two con artists have spent 26 years training their only daughter to swindle, sca
 
 
 	
-	
-
-### Wish Upon a Unicorn
-*Released on 2020-09-15, vote average 6.5*
-
-Two children discover that their mother is gone. The youngest of the pair, adventurer and upcomming singer, Long Johnson forces his older sister, Lily Johnson, to hunt down a unicorn with magical blood.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qTIVfJBTXgo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### UFC 253: Adesanya vs. Costa
-*Released on 2020-09-26, vote average 8*
-
-UFC 253: Adesanya vs. Costa is a mixed martial arts event produced by the Ultimate Fighting Championship that will take place on September 27, 2020 at the Flash Forum on Yas Island, Abu Dhabi, United Arab Emirates. Israel Adesanya vs. Paulo Costa Dominik Reyes vs. Jan Blachowicz Kai Kara France vs. Brandon Royval Ketlen Vieira vs. Sijara Eubanks Hakeem Dawodu vs. Zubarai Tukhugov
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/5khE_hgWY_o?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Kiss the Ground
-*Released on 2020-09-22, vote average 6.7*
-
-Sheds light on an alternative approach to farming called “regenerative agriculture” that could balance our climate, replenish our vast water supplies, and feed the world.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/K3-V1j-zMZw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -392,7 +354,7 @@ Sheds light on an alternative approach to farming called “regenerative agricul
 	
 
 ### Money Plane
-*Released on 2020-09-29, vote average 5.5*
+*Released on 2020-09-29, vote average 5.3*
 
 A professional thief with $40 million in debt and his family&#39;s life on the line must commit one final heist - rob a futuristic airborne casino filled with the world&#39;s most dangerous criminals.
 
@@ -408,18 +370,53 @@ A professional thief with $40 million in debt and his family&#39;s life on the l
 	
 
 	
+
+	
+	
 	
 
-### Marionette
-*Released on 2020-09-28, vote average 7*
+	
 
-A therapist loses her grip on reality when a ten-year-old boy claims he can control her future.
+	
+
+	
+	
+
+### The Boys in the Band
+*Released on 2020-09-30, vote average 7*
+
+At a birthday party in 1968 New York, a surprise guest and a drunken game leave seven gay friends reckoning with unspoken feelings and buried truths.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/nObwABpmHgI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/862Pb9oDDAo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### American Murder: The Family Next Door
+*Released on 2020-09-30, vote average 7*
+
+Using raw, firsthand footage, this documentary examines the disappearance of Shanann Watts and her children, and the terrible events that followed.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ep8iKiQNSrY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -431,15 +428,7 @@ A therapist loses her grip on reality when a ten-year-old boy claims he can cont
 	
 
 	
-
 	
-
-	
-
-	
-
-	
-
 	
 
 	
@@ -451,19 +440,7 @@ A therapist loses her grip on reality when a ten-year-old boy claims he can cont
 	
 
 	
-	
-	
 
-	
-
-	
-	
-	
-
-	
-
-	
-	
 	
 
 	
