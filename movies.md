@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Enola Holmes
-*Released on 2020-09-23, vote average 8*
+### Money Plane
+*Released on 2020-09-29, vote average 5.5*
 
-While searching for her missing mother, intrepid teen Enola Holmes uses her sleuthing skills to outsmart big brother Sherlock and help a runaway lord.
+A professional thief with $40 million in debt and his family&#39;s life on the line must commit one final heist - rob a futuristic airborne casino filled with the world&#39;s most dangerous criminals.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/1d0Zf9sXlHk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/aETz_dRDEys?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -40,6 +40,28 @@ While searching for her missing mother, intrepid teen Enola Holmes uses her sleu
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+  
+
+
+	
+	
+
+### Enola Holmes
+*Released on 2020-09-23, vote average 7.9*
+
+While searching for her missing mother, intrepid teen Enola Holmes uses her sleuthing skills to outsmart big brother Sherlock and help a runaway lord.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/1d0Zf9sXlHk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
   
 
 
@@ -76,7 +98,7 @@ Unable to face his new reality in a wheelchair, Ángel develops a deadly obsessi
 	
 
 ### We Summon the Darkness
-*Released on 2020-09-17, vote average 6.5*
+*Released on 2020-09-17, vote average 6.4*
 
 Three best friends attending a heavy-metal show cross paths with sadistic killers after they travel to a secluded country home for an after party.
 
@@ -120,7 +142,7 @@ Separated from her fiance after sneaking onto a restricted slope, Mia, a free ri
 	
 
 ### Secret Society of Second Born Royals
-*Released on 2020-09-25, vote average 7.1*
+*Released on 2020-09-25, vote average 7.5*
 
 Sam is a teenage royal rebel, second in line to the throne of the kingdom of Illyria. Just as her disinterest in the royal way of life is at an all-time high, she discovers she has super-human abilities and is invited to join a secret society of similar extraordinary second-born royals charged with keeping the world safe.
 
@@ -129,50 +151,6 @@ Sam is a teenage royal rebel, second in line to the throne of the kingdom of Ill
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/fklskMu40oQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### LX 2048
-*Released on 2020-09-25, vote average 7*
-
-In the near future, the sun has become so toxic people can no longer leave their houses in daytime, and normal life is conducted mostly inside the virtual realm. Against this dystopian backdrop, a dying man seeks to ensure the future well-being of his family, while coping with what it means to be human in this new reality.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/b6gmROV34IM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Infidel
-*Released on 2020-09-18, vote average 3.7*
-
-An American is kidnapped while attending a conference in Cairo and ends up in prison in Iran on spying charges. His wife goes to Iran, determined to get him out.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vBac7GckXnA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -207,6 +185,28 @@ Two children discover that their mother is gone. The youngest of the pair, adven
 	
 	
 
+### Infidel
+*Released on 2020-09-18, vote average 3.7*
+
+An American is kidnapped while attending a conference in Cairo and ends up in prison in Iran on spying charges. His wife goes to Iran, determined to get him out.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vBac7GckXnA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Secrets We Keep
 *Released on 2020-09-16, vote average 7.3*
 
@@ -227,18 +227,45 @@ In post-World War II America, a woman, rebuilding her life in the suburbs with h
 
 
 	
+
+  
+
+
+	
 	
 
-### Marionette
-*Released on 2020-09-19, vote average 7*
+### LX 2048
+*Released on 2020-09-25, vote average 7.4*
 
-A therapist loses her grip on reality when a ten-year-old boy claims he can control her future.
+In the near future, the sun has become so toxic people can no longer leave their houses in daytime, and normal life is conducted mostly inside the virtual realm. Against this dystopian backdrop, a dying man seeks to ensure the future well-being of his family, while coping with what it means to be human in this new reality.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/nObwABpmHgI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/b6gmROV34IM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### UFC 253: Adesanya vs. Costa
+*Released on 2020-09-26, vote average 8*
+
+UFC 253: Adesanya vs. Costa is a mixed martial arts event produced by the Ultimate Fighting Championship that will take place on September 27, 2020 at the Flash Forum on Yas Island, Abu Dhabi, United Arab Emirates. Israel Adesanya vs. Paulo Costa Dominik Reyes vs. Jan Blachowicz Kai Kara France vs. Brandon Royval Ketlen Vieira vs. Sijara Eubanks Hakeem Dawodu vs. Zubarai Tukhugov
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5khE_hgWY_o?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -258,25 +285,20 @@ A therapist loses her grip on reality when a ten-year-old boy claims he can cont
 	
 	
 
-### The Trial of the Chicago 7
-*Released on 2020-09-25, vote average 9.3*
+### A Werewolf in England
+*Released on 2020-09-28, vote average 8*
 
-What was intended to be a peaceful protest at the 1968 Democratic National Convention turned into a violent clash with police and the National Guard. The organizers of the protest—including Abbie Hoffman, Jerry Rubin, Tom Hayden and Bobby Seale—were charged with conspiracy to incite a riot and the trial that followed was one of the most notorious in history.
+In Victorian-Era England, a Parish Councillor and criminal take refuge from a storm, at a remote countryside Inn. Forced to stay the night, they soon uncover a deadly pact between the strange Innkeepers and the flesh-hungry werewolves that inhabit the surrounding woodlands... now, as the werewolves close in, the guests must band together and fight tooth and nail to survive the night!
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/OAaZIfeQzT0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/1B46CwkwyRU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -305,28 +327,18 @@ The Black Mask Organization coordinates a twisted plot which will devastate the 
 
 
 	
-
-  
-
-
 	
 
-  
+### Fernando Torres: The Last Symbol
+*Released on 2020-09-18, vote average 8*
 
-
-	
-	
-
-### Kajillionaire
-*Released on 2020-09-25, vote average 9*
-
-Two con artists have spent 26 years training their only daughter to swindle, scam and steal at every turn. During a desperate and hastily conceived heist, they charm a stranger into joining them, only to have their entire world turned upside down.
+A look at the life and career of Spanish football star Fernando Torres.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xiMPCevu8Wk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/aB4PWNyZxiM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -341,6 +353,28 @@ Two con artists have spent 26 years training their only daughter to swindle, sca
   
 
 
+	
+
+  
+
+
+	
+	
+
+### Marionette
+*Released on 2020-09-19, vote average 6.5*
+
+A therapist loses her grip on reality when a ten-year-old boy claims he can control her future.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nObwABpmHgI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -354,7 +388,7 @@ Two con artists have spent 26 years training their only daughter to swindle, sca
 	
 
 ### Money Plane
-*Released on 2020-09-29, vote average 5.3*
+*Released on 2020-09-29, vote average 5.5*
 
 A professional thief with $40 million in debt and his family&#39;s life on the line must commit one final heist - rob a futuristic airborne casino filled with the world&#39;s most dangerous criminals.
 
@@ -367,14 +401,6 @@ A professional thief with $40 million in debt and his family&#39;s life on the l
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-	
-	
-
 	
 
 	
@@ -396,12 +422,6 @@ At a birthday party in 1968 New York, a surprise guest and a drunken game leave 
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
 	
 
 	
@@ -428,6 +448,10 @@ Using raw, firsthand footage, this documentary examines the disappearance of Sha
 	
 
 	
+
+	
+
+	
 	
 	
 
@@ -438,13 +462,76 @@ Using raw, firsthand footage, this documentary examines the disappearance of Sha
 	
 
 	
-
+	
 	
 
 	
 
 	
 
+	
+	
+	
+
+	
+
+	
+	
+
+### Possessor
+*Released on 2020-10-02, vote average 8*
+
+Tasya Vos, an elite corporate assassin, uses brain-implant technology to take control of other people’s bodies to terminate high profile targets. As she sinks deeper into her latest assignment, Vos becomes trapped inside a mind that threatens to obliterate her.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/OiZAbZeIHLI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+	
+
+### Vanguard
+*Released on 2020-09-30, vote average 7*
+
+Covert security company Vanguard is the last hope of survival for an accountant after he is targeted by the world&#39;s deadliest mercenary organization.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Awey8raEXJo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### Charles
+*Released on 2020-10-01, vote average 7*
+
+A young couple moves in to their first apartment and encounters a red-headed freckled doll. Soon they discover that their home and doll reveal an evil presence.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/sGmCP-2eTak?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 
