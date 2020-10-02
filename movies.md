@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Money Plane
-*Released on 2020-09-29, vote average 5.5*
+*Released on 2020-09-29, vote average 5.4*
 
 A professional thief with $40 million in debt and his family&#39;s life on the line must commit one final heist - rob a futuristic airborne casino filled with the world&#39;s most dangerous criminals.
 
@@ -67,6 +67,21 @@ While searching for her missing mother, intrepid teen Enola Holmes uses her sleu
 
 	
 	
+
+### Cats &amp; Dogs 3: Paws Unite
+*Released on 2020-10-02, vote average 6.8*
+
+It&#39;s been ten years since the creation of the Great Truce, an elaborate joint-species surveillance system designed and monitored by cats and dogs to keep the peace when conflicts arise. But when a tech-savvy villain hacks into wireless networks to use frequencies only heard by cats and dogs, he manipulates them into conflict and the worldwide battle between cats and dogs is BACK ON. Now, a team of inexperienced and untested agents will have to use their old-school animal instincts to restore order and peace between cats and dogs everywhere.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ct5mQYE3Xk4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -76,7 +91,7 @@ While searching for her missing mother, intrepid teen Enola Holmes uses her sleu
 	
 
 ### Let It Snow
-*Released on 2020-09-22, vote average 6.2*
+*Released on 2020-09-22, vote average 5.3*
 
 Separated from her fiance after sneaking onto a restricted slope, Mia, a free riding snowboarder, must survive not only against nature, but the masked snowmobile rider in black who&#39;s out for her blood.
 
@@ -88,6 +103,13 @@ Separated from her fiance after sneaking onto a restricted slope, Mia, a free ri
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -119,16 +141,60 @@ Sam is a teenage royal rebel, second in line to the throne of the kingdom of Ill
 	
 	
 
-### We Summon the Darkness
-*Released on 2020-09-17, vote average 6.2*
+### The Boys in the Band
+*Released on 2020-09-30, vote average 7.4*
 
-Three best friends attending a heavy-metal show cross paths with sadistic killers after they travel to a secluded country home for an after party.
+New York, 1968. At a birthday party, a surprise guest and a drunken game leave seven gay friends reckoning with unspoken feelings and buried truths.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ZGOCLeC2MNA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/862Pb9oDDAo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### American Murder: The Family Next Door
+*Released on 2020-09-30, vote average 6.8*
+
+Using raw, firsthand footage, this documentary examines the disappearance of Shanann Watts and her children, and the terrible events that followed.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ep8iKiQNSrY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Welcome to Sudden Death
+*Released on 2020-09-29, vote average 7.5*
+
+Jesse Freeman is a former special forces officer and explosives expert now working a regular job as a security guard in a state-of-the-art basketball arena. Trouble erupts when a tech-savvy cadre of terrorists kidnap the team&#39;s owner and Jesse&#39;s daughter during opening night. Facing a ticking clock and impossible odds, it&#39;s up to Jesse to not only save them but also a full house of fans in this highly charged action thriller.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xisfaGi_6Ow?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -161,73 +227,10 @@ An American is kidnapped while attending a conference in Cairo and ends up in pr
 
 
 	
-	
-
-### The Boys in the Band
-*Released on 2020-09-30, vote average 5.8*
-
-At a birthday party in 1968 New York, a surprise guest and a drunken game leave seven gay friends reckoning with unspoken feelings and buried truths.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/862Pb9oDDAo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
-	
-	
-
-### A Werewolf in England
-*Released on 2020-09-28, vote average 6.5*
-
-In Victorian-Era England, a Parish Councillor and criminal take refuge from a storm, at a remote countryside Inn. Forced to stay the night, they soon uncover a deadly pact between the strange Innkeepers and the flesh-hungry werewolves that inhabit the surrounding woodlands... now, as the werewolves close in, the guests must band together and fight tooth and nail to survive the night!
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/1B46CwkwyRU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### American Murder: The Family Next Door
-*Released on 2020-09-30, vote average 7*
-
-Using raw, firsthand footage, this documentary examines the disappearance of Shanann Watts and her children, and the terrible events that followed.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ep8iKiQNSrY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -257,76 +260,43 @@ A look at the life and career of Spanish football star Fernando Torres.
 
 	
 	
+	
 
-### Welcome to Sudden Death
-*Released on 2020-09-29, vote average 7.3*
+  
 
-Jesse Freeman is a former special forces officer and explosives expert now working a regular job as a security guard in a state-of-the-art basketball arena. Trouble erupts when a tech-savvy cadre of terrorists kidnap the team&#39;s owner and Jesse&#39;s daughter during opening night. Facing a ticking clock and impossible odds, it&#39;s up to Jesse to not only save them but also a full house of fans in this highly charged action thriller.
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### The Doorman
+*Released on 2020-10-01, vote average 8*
+
+A woman returns from combat and befriends a family in NYC, a gang of thieves plot to take the family&#39;s valuables, she is all that stands between them and their lives.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xisfaGi_6Ow?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### LX 2048
-*Released on 2020-09-25, vote average 6.3*
-
-In the near future, the sun has become so toxic people can no longer leave their houses in daytime, and normal life is conducted mostly inside the virtual realm. Against this dystopian backdrop, a dying man seeks to ensure the future well-being of his family, while coping with what it means to be human in this new reality.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/b6gmROV34IM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Vanguard
-*Released on 2020-09-30, vote average 7*
-
-Covert security company Vanguard is the last hope of survival for an accountant after he is targeted by the world&#39;s deadliest mercenary organization.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Awey8raEXJo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/N85vBal-ckc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -370,55 +340,18 @@ It&#39;s been ten years since the creation of the Great Truce, an elaborate join
 	
 
 	
-
 	
 
-	
-	
-	
+### Possessor Uncut
+*Released on 2020-10-02, vote average 8*
 
-	
-	
-	
-
-	
-
-	
-	
-
-### Charles
-*Released on 2020-10-01, vote average 7*
-
-A young couple moves in to their first apartment and encounters a red-headed freckled doll. Soon they discover that their home and doll reveal an evil presence.
+Tasya Vos, an elite corporate assassin, uses brain-implant technology to take control of other people’s bodies to terminate high profile targets. As she sinks deeper into her latest assignment, Vos becomes trapped inside a mind that threatens to obliterate her.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/sGmCP-2eTak?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-	
-
-	
-	
-
-### The Doorman
-*Released on 2020-10-01, vote average 8*
-
-A woman returns from combat and befriends a family in NYC, a gang of thieves plot to take the family&#39;s valuables, she is all that stands between them and their lives.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/N85vBal-ckc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/OiZAbZeIHLI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -442,29 +375,6 @@ The story of Vera Atkins, a crafty spy recruiter, and two of the first women she
   allowfullscreen></iframe>
 
 	
-	
-
-	
-	
-
-### Possessor Uncut
-*Released on 2020-10-02, vote average 8*
-
-Tasya Vos, an elite corporate assassin, uses brain-implant technology to take control of other people’s bodies to terminate high profile targets. As she sinks deeper into her latest assignment, Vos becomes trapped inside a mind that threatens to obliterate her.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/OiZAbZeIHLI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
 	
 
 	
@@ -493,9 +403,80 @@ Three gutsy kids from a rapidly gentrifying Bronx neighborhood stumble upon a si
 	
 
 	
+	
+
+### 12 Hour Shift
+*Released on 2020-10-02, vote average 10*
+
+It&#39;s 1998 and over the course of one 12-hour shift at an Arkansas hospital, a junkie nurse, her scheming cousin and a group of black market organ-trading criminals start a heist that could lead to their collective demise.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vs_DkzeY0CI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
 	
+
+	
+
+	
+	
+
+### On the Rocks
+*Released on 2020-10-02, vote average 6*
+
+Faced with sudden doubts about her marriage, a young New York mother teams up with her larger-than-life playboy father to tail her husband.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/w4p0vjj_C8s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+	
+
+### The Devil to Pay
+*Released on 2020-10-02, vote average 7*
+
+After the disappearance of her husband, a struggling farmer in an isolated Appalachian community fights to save her son when the cold-hearted matriarch of the oldest family on the mountain demands payment of a debt that could destroy a decade&#39;s old truce.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mzEKFqr2AyE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+	
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
