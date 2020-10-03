@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Money Plane
-*Released on 2020-09-29, vote average 5.4*
+### Enola Holmes
+*Released on 2020-09-23, vote average 7.8*
 
-A professional thief with $40 million in debt and his family&#39;s life on the line must commit one final heist - rob a futuristic airborne casino filled with the world&#39;s most dangerous criminals.
+While searching for her missing mother, intrepid teen Enola Holmes uses her sleuthing skills to outsmart big brother Sherlock and help a runaway lord.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/aETz_dRDEys?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/1d0Zf9sXlHk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ A professional thief with $40 million in debt and his family&#39;s life on the l
 	
 	
 
-### Enola Holmes
-*Released on 2020-09-23, vote average 7.8*
+### Money Plane
+*Released on 2020-09-29, vote average 5.8*
 
-While searching for her missing mother, intrepid teen Enola Holmes uses her sleuthing skills to outsmart big brother Sherlock and help a runaway lord.
+A professional thief with $40 million in debt and his family&#39;s life on the line must commit one final heist - rob a futuristic airborne casino filled with the world&#39;s most dangerous criminals.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/1d0Zf9sXlHk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/aETz_dRDEys?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@ While searching for her missing mother, intrepid teen Enola Holmes uses her sleu
 	
 
 ### Cats &amp; Dogs 3: Paws Unite
-*Released on 2020-10-02, vote average 6.8*
+*Released on 2020-10-02, vote average 7*
 
 It&#39;s been ten years since the creation of the Great Truce, an elaborate joint-species surveillance system designed and monitored by cats and dogs to keep the peace when conflicts arise. But when a tech-savvy villain hacks into wireless networks to use frequencies only heard by cats and dogs, he manipulates them into conflict and the worldwide battle between cats and dogs is BACK ON. Now, a team of inexperienced and untested agents will have to use their old-school animal instincts to restore order and peace between cats and dogs everywhere.
 
@@ -111,16 +111,9 @@ Separated from her fiance after sneaking onto a restricted slope, Mia, a free ri
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Secret Society of Second Born Royals
-*Released on 2020-09-25, vote average 7.6*
+*Released on 2020-09-25, vote average 7.4*
 
 Sam is a teenage royal rebel, second in line to the throne of the kingdom of Illyria. Just as her disinterest in the royal way of life is at an all-time high, she discovers she has super-human abilities and is invited to join a secret society of similar extraordinary second-born royals charged with keeping the world safe.
 
@@ -142,7 +135,7 @@ Sam is a teenage royal rebel, second in line to the throne of the kingdom of Ill
 	
 
 ### The Boys in the Band
-*Released on 2020-09-30, vote average 7.4*
+*Released on 2020-09-30, vote average 7.3*
 
 New York, 1968. At a birthday party, a surprise guest and a drunken game leave seven gay friends reckoning with unspoken feelings and buried truths.
 
@@ -164,7 +157,7 @@ New York, 1968. At a birthday party, a surprise guest and a drunken game leave s
 	
 
 ### American Murder: The Family Next Door
-*Released on 2020-09-30, vote average 6.8*
+*Released on 2020-09-30, vote average 7.2*
 
 Using raw, firsthand footage, this documentary examines the disappearance of Shanann Watts and her children, and the terrible events that followed.
 
@@ -186,7 +179,7 @@ Using raw, firsthand footage, this documentary examines the disappearance of Sha
 	
 
 ### Welcome to Sudden Death
-*Released on 2020-09-29, vote average 7.5*
+*Released on 2020-09-29, vote average 7.6*
 
 Jesse Freeman is a former special forces officer and explosives expert now working a regular job as a security guard in a state-of-the-art basketball arena. Trouble erupts when a tech-savvy cadre of terrorists kidnap the team&#39;s owner and Jesse&#39;s daughter during opening night. Facing a ticking clock and impossible odds, it&#39;s up to Jesse to not only save them but also a full house of fans in this highly charged action thriller.
 
@@ -205,145 +198,15 @@ Jesse Freeman is a former special forces officer and explosives expert now worki
 
 
 	
-	
-
-### Infidel
-*Released on 2020-09-18, vote average 4*
-
-An American is kidnapped while attending a conference in Cairo and ends up in prison in Iran on spying charges. His wife goes to Iran, determined to get him out.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vBac7GckXnA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Fernando Torres: The Last Symbol
-*Released on 2020-09-18, vote average 7.6*
-
-A look at the life and career of Spanish football star Fernando Torres.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/aB4PWNyZxiM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### The Doorman
-*Released on 2020-10-01, vote average 8*
-
-A woman returns from combat and befriends a family in NYC, a gang of thieves plot to take the family&#39;s valuables, she is all that stands between them and their lives.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/N85vBal-ckc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-
-## Opening soon
-
-
-	
-	
-
-### Cats &amp; Dogs 3: Paws Unite
-*Released on 2020-10-02, vote average 6.8*
-
-It&#39;s been ten years since the creation of the Great Truce, an elaborate joint-species surveillance system designed and monitored by cats and dogs to keep the peace when conflicts arise. But when a tech-savvy villain hacks into wireless networks to use frequencies only heard by cats and dogs, he manipulates them into conflict and the worldwide battle between cats and dogs is BACK ON. Now, a team of inexperienced and untested agents will have to use their old-school animal instincts to restore order and peace between cats and dogs everywhere.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ct5mQYE3Xk4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 	
 
 ### Possessor Uncut
-*Released on 2020-10-02, vote average 8*
+*Released on 2020-10-02, vote average 6*
 
 Tasya Vos, an elite corporate assassin, uses brain-implant technology to take control of other people’s bodies to terminate high profile targets. As she sinks deeper into her latest assignment, Vos becomes trapped inside a mind that threatens to obliterate her.
 
@@ -357,6 +220,9 @@ Tasya Vos, an elite corporate assassin, uses brain-implant technology to take co
 
 	
 	
+
+  
+
 
 	
 	
@@ -377,9 +243,13 @@ The story of Vera Atkins, a crafty spy recruiter, and two of the first women she
 	
 	
 
-	
+  
+
 
 	
+
+  
+
 
 	
 	
@@ -400,13 +270,19 @@ Three gutsy kids from a rapidly gentrifying Bronx neighborhood stumble upon a si
 	
 	
 
+  
+
+
 	
+
+  
+
 
 	
 	
 
 ### 12 Hour Shift
-*Released on 2020-10-02, vote average 10*
+*Released on 2020-10-02, vote average 8.5*
 
 It&#39;s 1998 and over the course of one 12-hour shift at an Arkansas hospital, a junkie nurse, her scheming cousin and a group of black market organ-trading criminals start a heist that could lead to their collective demise.
 
@@ -421,7 +297,8 @@ It&#39;s 1998 and over the course of one 12-hour shift at an Arkansas hospital, 
 	
 	
 
-	
+  
+
 
 	
 	
@@ -442,7 +319,18 @@ Faced with sudden doubts about her marriage, a young New York mother teams up wi
 	
 	
 
+  
+
+
 	
+
+  
+
+
+	
+
+  
+
 
 	
 	
@@ -463,10 +351,46 @@ After the disappearance of her husband, a struggling farmer in an isolated Appal
 	
 	
 
+  
+
+
+	
+
+  
+
+
+
+## Opening soon
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
