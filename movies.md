@@ -47,7 +47,7 @@ While searching for her missing mother, intrepid teen Enola Holmes uses her sleu
 	
 
 ### Money Plane
-*Released on 2020-09-29, vote average 6*
+*Released on 2020-09-29, vote average 5.9*
 
 A professional thief with $40 million in debt and his family&#39;s life on the line must commit one final heist - rob a futuristic airborne casino filled with the world&#39;s most dangerous criminals.
 
@@ -91,7 +91,7 @@ Sam is a teenage royal rebel, second in line to the throne of the kingdom of Ill
 	
 
 ### Cats &amp; Dogs 3: Paws Unite
-*Released on 2020-10-02, vote average 6.7*
+*Released on 2020-10-02, vote average 6.9*
 
 It&#39;s been ten years since the creation of the Great Truce, an elaborate joint-species surveillance system designed and monitored by cats and dogs to keep the peace when conflicts arise. But when a tech-savvy villain hacks into wireless networks to use frequencies only heard by cats and dogs, he manipulates them into conflict and the worldwide battle between cats and dogs is BACK ON. Now, a team of inexperienced and untested agents will have to use their old-school animal instincts to restore order and peace between cats and dogs everywhere.
 
@@ -135,7 +135,7 @@ Separated from her fiance after sneaking onto a restricted slope, Mia, a free ri
 	
 
 ### The Boys in the Band
-*Released on 2020-09-30, vote average 7.1*
+*Released on 2020-09-30, vote average 7*
 
 New York, 1968. At a birthday party, a surprise guest and a drunken game leave seven gay friends reckoning with unspoken feelings and buried truths.
 
@@ -157,7 +157,7 @@ New York, 1968. At a birthday party, a surprise guest and a drunken game leave s
 	
 
 ### Welcome to Sudden Death
-*Released on 2020-09-29, vote average 7.3*
+*Released on 2020-09-29, vote average 7.1*
 
 Jesse Freeman is a former special forces officer and explosives expert now working a regular job as a security guard in a state-of-the-art basketball arena. Trouble erupts when a tech-savvy cadre of terrorists kidnap the team&#39;s owner and Jesse&#39;s daughter during opening night. Facing a ticking clock and impossible odds, it&#39;s up to Jesse to not only save them but also a full house of fans in this highly charged action thriller.
 
@@ -178,30 +178,8 @@ Jesse Freeman is a former special forces officer and explosives expert now worki
 	
 	
 
-### Miraculous World: New York – United HeroeZ
-*Released on 2020-09-25, vote average 7.5*
-
-During a school field trip, Ladybug and Cat Noir meet the American superheroes, whom they have to save from an akumatized super-villain. They will also discover that Miraculous exist in the United States, too.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/K41a_JkCM1U?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Vampires vs. the Bronx
-*Released on 2020-10-02, vote average 5.6*
+*Released on 2020-10-02, vote average 6.1*
 
 Three gutsy kids from a rapidly gentrifying Bronx neighborhood stumble upon a sinister plot to suck all the life from their beloved community.
 
@@ -222,52 +200,8 @@ Three gutsy kids from a rapidly gentrifying Bronx neighborhood stumble upon a si
 	
 	
 
-### American Murder: The Family Next Door
-*Released on 2020-09-30, vote average 7.2*
-
-Using raw, firsthand footage, this documentary examines the disappearance of Shanann Watts and her children, and the terrible events that followed.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ep8iKiQNSrY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Death of Me
-*Released on 2020-10-02, vote average 6.1*
-
-A couple on holiday on a remote South Pacific island awaken one morning with a hang over and no recollection of what transpired. When playing back a video of the previous night, they see they participated in a local ritual that somehow ends with him murdering her.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/mxKoOGstEmo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### 2067
-*Released on 2020-10-01, vote average 3.5*
+*Released on 2020-10-01, vote average 5.3*
 
 A lowly utility worker is called to the future by a mysterious radio signal, he must leave his dying wife to embark on a journey that will force him to face his deepest fears in an attempt to change the fabric of reality and save humankind from its greatest environmental crisis yet.
 
@@ -288,38 +222,16 @@ A lowly utility worker is called to the future by a mysterious radio signal, he 
 	
 	
 
-### A Call to Spy
-*Released on 2020-10-02, vote average 6.7*
+### American Murder: The Family Next Door
+*Released on 2020-09-30, vote average 7.3*
 
-The story of Vera Atkins, a crafty spy recruiter, and two of the first women she selects for Churchill&#39;s &#34;secret army&#34;: Virginia Hall, a daring American undaunted by a disability and Noor Inayat Khan, a pacifist. These civilian women form an unlikely sisterhood while entangled in dangerous missions to turn the tide of the war.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/TbZgLKjrdnA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### 12 Hour Shift
-*Released on 2020-10-02, vote average 8.5*
-
-It&#39;s 1998 and over the course of one 12-hour shift at an Arkansas hospital, a junkie nurse, her scheming cousin and a group of black market organ-trading criminals start a heist that could lead to their collective demise.
+Using raw, firsthand footage, this documentary examines the disappearance of Shanann Watts and her children, and the terrible events that followed.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/vs_DkzeY0CI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ep8iKiQNSrY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -333,7 +245,7 @@ It&#39;s 1998 and over the course of one 12-hour shift at an Arkansas hospital, 
 	
 
 ### The Doorman
-*Released on 2020-10-01, vote average 4.8*
+*Released on 2020-10-01, vote average 4*
 
 A former Marine turned doorman at a luxury New York City high-rise must outsmart and battle a group of art thieves and their ruthless leader — while struggling to protect her sister&#39;s family. As the thieves become increasingly desperate and violent, the doorman calls upon her deadly fighting skills to end the showdown.
 
@@ -375,24 +287,17 @@ Kit can’t remember much of his native Vietnam. When he returns to the Land of 
 
 	
 	
-	
 
-  
+### Miraculous World: New York – United HeroeZ
+*Released on 2020-09-25, vote average 7.5*
 
-
-	
-	
-
-### Hosts
-*Released on 2020-10-02, vote average 10*
-
-On Christmas Eve, an innocent couple become hosts to a malicious entity. Throughout the night they terrorise a family of five in unimaginably violent and disturbing ways.
+During a school field trip, Ladybug and Cat Noir meet the American superheroes, whom they have to save from an akumatized super-villain. They will also discover that Miraculous exist in the United States, too.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/B_-PQm3OX9w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/K41a_JkCM1U?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -405,16 +310,67 @@ On Christmas Eve, an innocent couple become hosts to a malicious entity. Through
 	
 	
 
-### Then Came You
-*Released on 2020-10-02, vote average 6*
+### American Pie Presents: Girls&#39; Rules
+*Released on 2020-10-06, vote average 7.2*
 
-A lonely widow plans a trip around the world with her husband&#39;s ashes, to visit the places they loved in the movies. During her first stop in Scotland at the beautiful estate she stays in, she meets the innkeeper who changes her life forever.
+It&#39;s Senior year at East Great Falls. Annie, Kayla, Michelle, and Stephanie decide to harness their girl power and band together to get what they want their last year of high school.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/_B_i34jQK6k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/fGjfQjIKWkw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Happy Halloween, Scooby-Doo!
+*Released on 2020-10-06, vote average 8*
+
+Scooby-Doo and the gang team up with their pals, Bill Nye The Science Guy and Elvira Mistress of the Dark, to solve this mystery of gigantic proportions and save Crystal Cove!
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/z6UVARUhXH4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Death of Me
+*Released on 2020-10-02, vote average 5.9*
+
+A couple on holiday on a remote South Pacific island awaken one morning with a hang over and no recollection of what transpired. When playing back a video of the previous night, they see they participated in a local ritual that somehow ends with him murdering her.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mxKoOGstEmo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -437,6 +393,50 @@ Wrapping up a long week of work employees are in a fight for survival against a 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/YtQkuamXbNg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### 12 Hour Shift
+*Released on 2020-10-02, vote average 6*
+
+It&#39;s 1998 and over the course of one 12-hour shift at an Arkansas hospital, a junkie nurse, her scheming cousin and a group of black market organ-trading criminals start a heist that could lead to their collective demise.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vs_DkzeY0CI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### A Call to Spy
+*Released on 2020-10-02, vote average 6.7*
+
+The story of Vera Atkins, a crafty spy recruiter, and two of the first women she selects for Churchill&#39;s &#34;secret army&#34;: Virginia Hall, a daring American undaunted by a disability and Noor Inayat Khan, a pacifist. These civilian women form an unlikely sisterhood while entangled in dangerous missions to turn the tide of the war.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/TbZgLKjrdnA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
