@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Enola Holmes
-*Released on 2020-09-23, vote average 7.7*
+### Money Plane
+*Released on 2020-09-29, vote average 6*
 
-While searching for her missing mother, intrepid teen Enola Holmes uses her sleuthing skills to outsmart big brother Sherlock and help a runaway lord.
+A professional thief with $40 million in debt and his family&#39;s life on the line must commit one final heist - rob a futuristic airborne casino filled with the world&#39;s most dangerous criminals.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/1d0Zf9sXlHk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/aETz_dRDEys?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,30 +46,8 @@ While searching for her missing mother, intrepid teen Enola Holmes uses her sleu
 	
 	
 
-### Money Plane
-*Released on 2020-09-29, vote average 6*
-
-A professional thief with $40 million in debt and his family&#39;s life on the line must commit one final heist - rob a futuristic airborne casino filled with the world&#39;s most dangerous criminals.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/aETz_dRDEys?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Secret Society of Second Born Royals
-*Released on 2020-09-25, vote average 7.4*
+*Released on 2020-09-25, vote average 7.3*
 
 Sam is a teenage royal rebel, second in line to the throne of the kingdom of Illyria. Just as her disinterest in the royal way of life is at an all-time high, she discovers she has super-human abilities and is invited to join a secret society of similar extraordinary second-born royals charged with keeping the world safe.
 
@@ -91,7 +69,7 @@ Sam is a teenage royal rebel, second in line to the throne of the kingdom of Ill
 	
 
 ### Cats &amp; Dogs 3: Paws Unite
-*Released on 2020-10-02, vote average 7.3*
+*Released on 2020-10-02, vote average 6.6*
 
 It&#39;s been ten years since the creation of the Great Truce, an elaborate joint-species surveillance system designed and monitored by cats and dogs to keep the peace when conflicts arise. But when a tech-savvy villain hacks into wireless networks to use frequencies only heard by cats and dogs, he manipulates them into conflict and the worldwide battle between cats and dogs is BACK ON. Now, a team of inexperienced and untested agents will have to use their old-school animal instincts to restore order and peace between cats and dogs everywhere.
 
@@ -113,7 +91,7 @@ It&#39;s been ten years since the creation of the Great Truce, an elaborate join
 	
 
 ### Welcome to Sudden Death
-*Released on 2020-09-29, vote average 7.2*
+*Released on 2020-09-29, vote average 7.4*
 
 Jesse Freeman is a former special forces officer and explosives expert now working a regular job as a security guard in a state-of-the-art basketball arena. Trouble erupts when a tech-savvy cadre of terrorists kidnap the team&#39;s owner and Jesse&#39;s daughter during opening night. Facing a ticking clock and impossible odds, it&#39;s up to Jesse to not only save them but also a full house of fans in this highly charged action thriller.
 
@@ -157,7 +135,7 @@ New York, 1968. At a birthday party, a surprise guest and a drunken game leave s
 	
 
 ### Vampires vs. the Bronx
-*Released on 2020-10-02, vote average 6.3*
+*Released on 2020-10-02, vote average 6.1*
 
 Three gutsy kids from a rapidly gentrifying Bronx neighborhood stumble upon a sinister plot to suck all the life from their beloved community.
 
@@ -179,7 +157,7 @@ Three gutsy kids from a rapidly gentrifying Bronx neighborhood stumble upon a si
 	
 
 ### Monsoon
-*Released on 2020-09-25, vote average 5.5*
+*Released on 2020-09-25, vote average 6*
 
 Kit can’t remember much of his native Vietnam. When he returns to the Land of the Golden Star for the first time in over thirty years, he takes in his local surroundings as any Western tourist would, and the environment is as exotic as the language is incomprehensible. The aim of Kit’s travels – to find a place to scatter his parents’ ashes – thus becomes part of a journey back to his roots and to the discovery of his identity, which external circumstances have rendered ambiguous and complex.
 
@@ -188,28 +166,6 @@ Kit can’t remember much of his native Vietnam. When he returns to the Land of 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/a-phXZel83o?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Doorman
-*Released on 2020-10-01, vote average 4.3*
-
-A former Marine turned doorman at a luxury New York City high-rise must outsmart and battle a group of art thieves and their ruthless leader — while struggling to protect her sister&#39;s family. As the thieves become increasingly desperate and violent, the doorman calls upon her deadly fighting skills to end the showdown.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pugLE1ifvbY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -243,21 +199,6 @@ Using raw, firsthand footage, this documentary examines the disappearance of Sha
 
 	
 	
-
-### 2067
-*Released on 2020-10-01, vote average 4.9*
-
-A lowly utility worker is called to the future by a mysterious radio signal, he must leave his dying wife to embark on a journey that will force him to face his deepest fears in an attempt to change the fabric of reality and save humankind from its greatest environmental crisis yet.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cU5875rHQ8k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -267,7 +208,7 @@ A lowly utility worker is called to the future by a mysterious radio signal, he 
 	
 
 ### American Pie Presents: Girls&#39; Rules
-*Released on 2020-10-06, vote average 7.7*
+*Released on 2020-10-06, vote average 7.1*
 
 It&#39;s Senior year at East Great Falls. Annie, Kayla, Michelle, and Stephanie decide to harness their girl power and band together to get what they want their last year of high school.
 
@@ -287,6 +228,21 @@ It&#39;s Senior year at East Great Falls. Annie, Kayla, Michelle, and Stephanie 
 
 	
 	
+
+### The Doorman
+*Released on 2020-10-01, vote average 4.8*
+
+A former Marine turned doorman at a luxury New York City high-rise must outsmart and battle a group of art thieves and their ruthless leader — while struggling to protect her sister&#39;s family. As the thieves become increasingly desperate and violent, the doorman calls upon her deadly fighting skills to end the showdown.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pugLE1ifvbY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -296,7 +252,7 @@ It&#39;s Senior year at East Great Falls. Annie, Kayla, Michelle, and Stephanie 
 	
 
 ### Happy Halloween, Scooby-Doo!
-*Released on 2020-10-06, vote average 8.7*
+*Released on 2020-10-06, vote average 8.2*
 
 Scooby-Doo and the gang team up with their pals, Bill Nye The Science Guy and Elvira Mistress of the Dark, to solve this mystery of gigantic proportions and save Crystal Cove!
 
@@ -317,16 +273,60 @@ Scooby-Doo and the gang team up with their pals, Bill Nye The Science Guy and El
 	
 	
 
-### TKG: The Kids of Grove
-*Released on 2020-09-23, vote average 3*
+### 2067
+*Released on 2020-10-01, vote average 4.2*
 
-Wrapping up a long week of work employees are in a fight for survival against a local gang who are out for blood - but who is justified? A thrilling look into the consequences experienced by trying to do the &#34;right thing&#34; by society.
+A lowly utility worker is called to the future by a mysterious radio signal, he must leave his dying wife to embark on a journey that will force him to face his deepest fears in an attempt to change the fabric of reality and save humankind from its greatest environmental crisis yet.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/YtQkuamXbNg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/cU5875rHQ8k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Hubie Halloween
+*Released on 2020-10-07, vote average 8*
+
+Hubie Dubois who, despite his devotion to his hometown of Salem, Massachusetts (and its legendary Halloween celebration), is a figure of mockery for kids and adults alike. But this year, something really is going bump in the night, and it’s up to Hubie to save Halloween.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kY3SuNvqQPw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Black Box
+*Released on 2020-10-06, vote average 7*
+
+After losing his wife and memory in a car accident, a single father undergoes an experimental treatment that makes him question who he really is.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nj6JIzrIzxk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -340,7 +340,7 @@ Wrapping up a long week of work employees are in a fight for survival against a 
 	
 
 ### Miraculous World: New York – United HeroeZ
-*Released on 2020-09-25, vote average 7.5*
+*Released on 2020-09-25, vote average 7.3*
 
 During a school field trip, Ladybug and Cat Noir meet the American superheroes, whom they have to save from an akumatized super-villain. They will also discover that Miraculous exist in the United States, too.
 
@@ -364,22 +364,10 @@ During a school field trip, Ladybug and Cat Noir meet the American superheroes, 
 
 
 	
-	
 
-### Bad Education
-*Released on 2020-09-23, vote average 6.9*
+  
 
-A superintendent of a school district works for the betterment of the student’s education when an embezzlement scheme is discovered, threatening to destroy everything.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/C-TXKxDc8VM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -388,25 +376,20 @@ A superintendent of a school district works for the betterment of the student’
 	
 	
 
-### Death of Me
-*Released on 2020-10-02, vote average 5.4*
+### 12 Hour Shift
+*Released on 2020-10-02, vote average 6.7*
 
-A couple on holiday on a remote South Pacific island awaken one morning with a hang over and no recollection of what transpired. When playing back a video of the previous night, they see they participated in a local ritual that somehow ends with him murdering her.
+It&#39;s 1998 and over the course of one 12-hour shift at an Arkansas hospital, a junkie nurse, her scheming cousin and a group of black market organ-trading criminals start a heist that could lead to their collective demise.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/mxKoOGstEmo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/vs_DkzeY0CI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -447,10 +430,14 @@ A couple on holiday on a remote South Pacific island awaken one morning with a h
 	
 
 	
+
+	
+
+	
 	
 
 ### Saint Maud
-*Released on 2020-10-09, vote average 7.5*
+*Released on 2020-10-09, vote average 7.3*
 
 Having recently found God, self-effacing young nurse Maud arrives at a plush home to care for Amanda, a hedonistic dancer left frail from a chronic illness. When a chance encounter with a former colleague throws up hints of a dark past, it becomes clear there is more to sweet Maud than meets the eye.
 
@@ -463,10 +450,6 @@ Having recently found God, self-effacing young nurse Maud arrives at a plush hom
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
 	
 
 	
