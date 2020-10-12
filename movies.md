@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Welcome to Sudden Death
-*Released on 2020-09-29, vote average 7.5*
+*Released on 2020-09-29, vote average 7.4*
 
 Jesse Freeman is a former special forces officer and explosives expert now working a regular job as a security guard in a state-of-the-art basketball arena. Trouble erupts when a tech-savvy cadre of terrorists kidnap the team&#39;s owner and Jesse&#39;s daughter during opening night. Facing a ticking clock and impossible odds, it&#39;s up to Jesse to not only save them but also a full house of fans in this highly charged action thriller.
 
@@ -47,7 +47,7 @@ Jesse Freeman is a former special forces officer and explosives expert now worki
 	
 
 ### Money Plane
-*Released on 2020-09-29, vote average 6.2*
+*Released on 2020-09-29, vote average 6.1*
 
 A professional thief with $40 million in debt and his family&#39;s life on the line must commit one final heist - rob a futuristic airborne casino filled with the world&#39;s most dangerous criminals.
 
@@ -69,7 +69,7 @@ A professional thief with $40 million in debt and his family&#39;s life on the l
 	
 
 ### Cats &amp; Dogs 3: Paws Unite
-*Released on 2020-10-02, vote average 6.6*
+*Released on 2020-10-02, vote average 6.7*
 
 It&#39;s been ten years since the creation of the Great Truce, an elaborate joint-species surveillance system designed and monitored by cats and dogs to keep the peace when conflicts arise. But when a tech-savvy villain hacks into wireless networks to use frequencies only heard by cats and dogs, he manipulates them into conflict and the worldwide battle between cats and dogs is BACK ON. Now, a team of inexperienced and untested agents will have to use their old-school animal instincts to restore order and peace between cats and dogs everywhere.
 
@@ -89,16 +89,9 @@ It&#39;s been ten years since the creation of the Great Truce, an elaborate join
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### American Pie Presents: Girls Rules
-*Released on 2020-10-06, vote average 6.9*
+*Released on 2020-10-06, vote average 6.5*
 
 It&#39;s Senior year at East Great Falls. Annie, Kayla, Michelle, and Stephanie decide to harness their girl power and band together to get what they want their last year of high school.
 
@@ -110,6 +103,13 @@ It&#39;s Senior year at East Great Falls. Annie, Kayla, Michelle, and Stephanie 
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -141,30 +141,8 @@ A lowly utility worker is called to the future by a mysterious radio signal, he 
 	
 	
 
-### Vampires vs. the Bronx
-*Released on 2020-10-02, vote average 6.3*
-
-Three gutsy kids from a rapidly gentrifying Bronx neighborhood stumble upon a sinister plot to suck all the life from their beloved community.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/k2yfp6oj2hw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Hubie Halloween
-*Released on 2020-10-07, vote average 7*
+*Released on 2020-10-07, vote average 6.8*
 
 Hubie Dubois who, despite his devotion to his hometown of Salem, Massachusetts (and its legendary Halloween celebration), is a figure of mockery for kids and adults alike. But this year, something really is going bump in the night, and it’s up to Hubie to save Halloween.
 
@@ -185,16 +163,38 @@ Hubie Dubois who, despite his devotion to his hometown of Salem, Massachusetts (
 	
 	
 
-### The Boys in the Band
-*Released on 2020-09-30, vote average 6.8*
+### Vampires vs. the Bronx
+*Released on 2020-10-02, vote average 6.2*
 
-New York, 1968. At a birthday party, a surprise guest and a drunken game leave seven gay friends reckoning with unspoken feelings and buried truths.
+Three gutsy kids from a rapidly gentrifying Bronx neighborhood stumble upon a sinister plot to suck all the life from their beloved community.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/862Pb9oDDAo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/k2yfp6oj2hw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Black Box
+*Released on 2020-10-06, vote average 6.5*
+
+After losing his wife and memory in a car accident, a single father undergoes an experimental treatment that makes him question who he really is.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nj6JIzrIzxk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -229,16 +229,16 @@ Using raw, firsthand footage, this documentary examines the disappearance of Sha
 	
 	
 
-### Black Box
-*Released on 2020-10-06, vote average 6.7*
+### The Boys in the Band
+*Released on 2020-09-30, vote average 6.9*
 
-After losing his wife and memory in a car accident, a single father undergoes an experimental treatment that makes him question who he really is.
+New York, 1968. At a birthday party, a surprise guest and a drunken game leave seven gay friends reckoning with unspoken feelings and buried truths.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/nj6JIzrIzxk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/862Pb9oDDAo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -252,7 +252,7 @@ After losing his wife and memory in a car accident, a single father undergoes an
 	
 
 ### Books of Blood
-*Released on 2020-10-07, vote average 5.9*
+*Released on 2020-10-07, vote average 6.3*
 
 A journey into uncharted and forbidden territory through three tales tangled in space and time.
 
@@ -295,7 +295,7 @@ An ad creative and a successful exec have a great marriage — until he wants to
 	
 	
 
-### Happy Halloween Scooby Doo
+### Happy Halloween Scooby-Doo!
 *Released on 2020-10-06, vote average 8*
 
 Scooby-Doo and the gang team up with their pals, Bill Nye The Science Guy and Elvira Mistress of the Dark, to solve this mystery of gigantic proportions and save Crystal Cove!
@@ -318,7 +318,7 @@ Scooby-Doo and the gang team up with their pals, Bill Nye The Science Guy and El
 	
 
 ### The Wolf of Snow Hollow
-*Released on 2020-10-09, vote average 6.3*
+*Released on 2020-10-09, vote average 6.2*
 
 A stressed-out police officer struggles not to give in to the paranoia that grips his small mountain town as bodies turn up after each full moon.
 
@@ -359,28 +359,62 @@ A former Marine turned doorman at a luxury New York City high-rise must outsmart
 
 
 	
-
-  
-
-
 	
 
-  
+### 12 Hour Shift
+*Released on 2020-10-02, vote average 6.6*
 
-
-	
-	
-
-### Saint Maud
-*Released on 2020-10-09, vote average 7.3*
-
-Having recently found God, self-effacing young nurse Maud arrives at a plush home to care for Amanda, a hedonistic dancer left frail from a chronic illness. When a chance encounter with a former colleague throws up hints of a dark past, it becomes clear there is more to sweet Maud than meets the eye.
+It&#39;s 1998 and over the course of one 12-hour shift at an Arkansas hospital, a junkie nurse, her scheming cousin and a group of black market organ-trading criminals start a heist that could lead to their collective demise.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/EXs2-TY9qok?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/vs_DkzeY0CI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Cagefighter: Worlds Collide
+*Released on 2020-10-09, vote average 10*
+
+Reiss is the greatest champion to ever fight in a LEGENDS cage. But when promoter Max Black pits him against wrestling superstar Randy Stone, Reiss finds himself in the toughest fight of his life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/o5m9WhdWOQU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Ben 10 Versus the Universe: The Movie
+*Released on 2020-10-02, vote average 7.4*
+
+A blast from Ben&#39;s past returning to do double the damage on Team Tennyson and planet Earth itself, forcing Ben to go interstellar to save the day.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/opR_2-IBw8E?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -400,6 +434,8 @@ Having recently found God, self-effacing young nurse Maud arrives at a plush hom
 
 
 	
+
+	
 	
 
 ### Seized
@@ -416,18 +452,6 @@ Hiding out with his son Taylor on the Mexican coast, Nero hopes to put his viole
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
@@ -461,6 +485,33 @@ A listless grand-daughter, Chance Sinclair, is sentenced to live with her dracon
 
 	
 
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### The Wayward Guide for the Untrained Eye
+*Released on 2020-10-13, vote average 7*
+
+Artemis, a tenacious podcast host, has grown tired of the fluff pieces she’s been assigned by APN, the American Podcasting Network. When she finds herself in the small mining town of Connor Creek with Paul (her producer and twin brother), the corporate corruption story they’re investigating is sure to be a bust. To the twins’ surprise, the oddballs and eccentrics of this small town are harboring a secret even darker and furrier than any political scandal: werewolves. With the future of Connor Creek at stake, the Schue-Horyn twins need to decide who to trust in order to unearth the truth and stay alive.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/CMKrbZ2bld8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
