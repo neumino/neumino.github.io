@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### American Pie Presents: Girls Rules
-*Released on 2020-10-06, vote average 6.6*
+*Released on 2020-10-06, vote average 6.4*
 
 It&#39;s Senior year at East Great Falls. Annie, Kayla, Michelle, and Stephanie decide to harness their girl power and band together to get what they want their last year of high school.
 
@@ -68,38 +68,16 @@ Hubie Dubois who, despite his devotion to his hometown of Salem, Massachusetts (
 	
 	
 
-### Cats &amp; Dogs 3: Paws Unite
-*Released on 2020-10-02, vote average 6.5*
+### Happy Halloween Scooby-Doo!
+*Released on 2020-10-06, vote average 7.8*
 
-It&#39;s been ten years since the creation of the Great Truce, an elaborate joint-species surveillance system designed and monitored by cats and dogs to keep the peace when conflicts arise. But when a tech-savvy villain hacks into wireless networks to use frequencies only heard by cats and dogs, he manipulates them into conflict and the worldwide battle between cats and dogs is BACK ON. Now, a team of inexperienced and untested agents will have to use their old-school animal instincts to restore order and peace between cats and dogs everywhere.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ct5mQYE3Xk4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### You&#39;ve Got This
-*Released on 2020-10-02, vote average 8.6*
-
-An ad creative and a successful exec have a great marriage — until he wants to be a dad just as her star is rising. Then he brings someone new home.
+Scooby-Doo and the gang team up with their pals, Bill Nye The Science Guy and Elvira Mistress of the Dark, to solve this mystery of gigantic proportions and save Crystal Cove!
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/WmoBV_wqc44?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/z6UVARUhXH4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -113,7 +91,7 @@ An ad creative and a successful exec have a great marriage — until he wants to
 	
 
 ### Books of Blood
-*Released on 2020-10-07, vote average 5.9*
+*Released on 2020-10-07, vote average 6.5*
 
 A journey into uncharted and forbidden territory through three tales tangled in space and time.
 
@@ -135,7 +113,7 @@ A journey into uncharted and forbidden territory through three tales tangled in 
 	
 
 ### Black Box
-*Released on 2020-10-06, vote average 6.5*
+*Released on 2020-10-06, vote average 6.6*
 
 After losing his wife and memory in a car accident, a single father undergoes an experimental treatment that makes him question who he really is.
 
@@ -155,148 +133,9 @@ After losing his wife and memory in a car accident, a single father undergoes an
 
 	
 	
-	
-
-  
-
-
-	
-	
-
-### 12 Hour Shift
-*Released on 2020-10-02, vote average 6.1*
-
-It&#39;s 1998 and over the course of one 12-hour shift at an Arkansas hospital, a junkie nurse, her scheming cousin and a group of black market organ-trading criminals start a heist that could lead to their collective demise.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vs_DkzeY0CI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Happy Halloween Scooby-Doo!
-*Released on 2020-10-06, vote average 8*
-
-Scooby-Doo and the gang team up with their pals, Bill Nye The Science Guy and Elvira Mistress of the Dark, to solve this mystery of gigantic proportions and save Crystal Cove!
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/z6UVARUhXH4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Vampires vs. the Bronx
-*Released on 2020-10-02, vote average 6.3*
-
-Three gutsy kids from a rapidly gentrifying Bronx neighborhood stumble upon a sinister plot to suck all the life from their beloved community.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/k2yfp6oj2hw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Batman: Death in the Family
-*Released on 2020-10-13, vote average 6.4*
-
-Tragedy strikes the Batman&#39;s life again when Robin Jason Todd tracks down his birth mother only to run afoul of the Joker. An adaptation of the 1988 comic book storyline of the same name.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/TGjF_Gal67w?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Ben 10 Versus the Universe: The Movie
-*Released on 2020-10-02, vote average 7.3*
-
-A blast from Ben&#39;s past returning to do double the damage on Team Tennyson and planet Earth itself, forcing Ben to go interstellar to save the day.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/opR_2-IBw8E?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Seized
-*Released on 2020-10-12, vote average 5.6*
-
-Hiding out with his son Taylor on the Mexican coast, Nero hopes to put his violent Special Forces career behind him. But after Nero’s home is attacked and Taylor is abducted, the mysterious Mzamo orders Nero to slaughter the members of three rival crime syndicates. If he fails, Taylor will die. Now, with bullets flying and bodies dropping as Nero completes his mission, he races to find Mzamo’s hideout and seek revenge.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kNyEosZQJiA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
 
 ### Evil Eye
-*Released on 2020-10-13, vote average 4.8*
+*Released on 2020-10-13, vote average 5*
 
 A seemingly perfect romance turns dark when a mother becomes convinced her daughter’s new boyfriend has a sinister connection to her own past.
 
@@ -318,7 +157,7 @@ A seemingly perfect romance turns dark when a mother becomes convinced her daugh
 	
 
 ### Nocturne
-*Released on 2020-10-13, vote average 6.2*
+*Released on 2020-10-13, vote average 6.5*
 
 An incredibly gifted pianist makes a Faustian bargain to overtake her older sister at a prestigious institution for classical musicians.
 
@@ -344,6 +183,28 @@ An incredibly gifted pianist makes a Faustian bargain to overtake her older sist
 	
 	
 
+### Batman: Death in the Family
+*Released on 2020-10-13, vote average 6.6*
+
+Tragedy strikes the Batman&#39;s life again when Robin Jason Todd tracks down his birth mother only to run afoul of the Joker. An adaptation of the 1988 comic book storyline of the same name.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/TGjF_Gal67w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Alone
 *Released on 2020-10-16, vote average 7*
 
@@ -358,6 +219,131 @@ When an outbreak hits, Aidan barricades himself inside his apartment and starts 
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### BLACKPINK: Light Up the Sky
+*Released on 2020-10-14, vote average 8.6*
+
+Record-shattering Korean girl band BLACKPINK tell their story —  and detail the hard fought journey of the dreams and trials behind their meteoric rise
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/7jx_vdvxWu0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Plot Against The President
+*Released on 2020-10-16, vote average 9*
+
+Based on Lee Smith&#39;s 2019 best-seller of the same name. This feature length documentary explores new information and additional interview as the case unfolds. The book debuted October 29th, 2019 and instantly became the number one best seller on Amazon across all topics, not just in political non-fiction, where it continues to top charts today.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mqTu_Btkr08?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Seized
+*Released on 2020-10-12, vote average 5.9*
+
+Hiding out with his son Taylor on the Mexican coast, Nero hopes to put his violent Special Forces career behind him. But after Nero’s home is attacked and Taylor is abducted, the mysterious Mzamo orders Nero to slaughter the members of three rival crime syndicates. If he fails, Taylor will die. Now, with bullets flying and bodies dropping as Nero completes his mission, he races to find Mzamo’s hideout and seek revenge.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kNyEosZQJiA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Yellow Rose
+*Released on 2020-10-09, vote average 8*
+
+Rose, a 17-year-old Filipino-American teenager from Texas, dreams of becoming a country music icon. She has to fend for herself when her mother is arrested by ICE, and must choose between following her dreams without her mother or leaving her passions behind.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/o-a3t3RSvsQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Ginny Weds Sunny
+*Released on 2020-10-09, vote average 6.8*
+
+Delhi girl Ginny lives with her matchmaker mother and is set up with Sunny, who has given up on the idea of love. He just wants to get married and settle down. But, the match is not that simple. As Ginny meets Sunny, there’s a lot more that comes to the fore than previously imagined in this tale of love, life, weddings and music.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/21xdmUQUjTk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -388,38 +374,16 @@ This documentary puts a spotlight on the White House’s failed response to the 
 	
 	
 
-### Spontaneous
-*Released on 2020-10-02, vote average 7.3*
+### A Babysitter&#39;s Guide to Monster Hunting
+*Released on 2020-10-14, vote average 4*
 
-When students in their high school begin inexplicably exploding (literally...), seniors Mara and Dylan struggle to survive in a world where each moment may be their last.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0dt523AHZWY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Yellow Rose
-*Released on 2020-10-09, vote average 6*
-
-Rose, a 17-year-old Filipino-American teenager from Texas, dreams of becoming a country music icon. She has to fend for herself when her mother is arrested by ICE, and must choose between following her dreams without her mother or leaving her passions behind.
+Recruited by a secret society of babysitters, a high schooler battles the Boogeyman and his monsters when they nab the boy she&#39;s watching on Halloween.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/o-a3t3RSvsQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/MKR33fJ_yPw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -440,16 +404,16 @@ Rose, a 17-year-old Filipino-American teenager from Texas, dreams of becoming a 
 	
 	
 
-### Alone
-*Released on 2020-10-16, vote average 7*
+### The Beach House
+*Released on 2020-10-22, vote average 5.8*
 
-When an outbreak hits, Aidan barricades himself inside his apartment and starts rationing food. His complex is overrun by infected Screamers, and with the world falling apart into chaos, he is left completely alone fighting for his life.
+A romantic getaway for two troubled college sweethearts turns into a struggle for survival when unexpected guests - and the surrounding environment - exhibit signs of a mysterious infection.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/5v6yVmtNEhg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/GLa9mY4FUBM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -457,51 +421,30 @@ When an outbreak hits, Aidan barricades himself inside his apartment and starts 
 	
 
 	
+	
+	
+
+	
+
+	
+
+	
+
+	
 
 	
 	
 
-### The Plot Against The President
-*Released on 2020-10-16, vote average 9*
+### The Mortuary Collection
+*Released on 2020-10-22, vote average 6.2*
 
-Based on Lee Smith&#39;s 2019 best-seller of the same name. This feature length documentary explores new information and additional interview as the case unfolds. The book debuted October 29th, 2019 and instantly became the number one best seller on Amazon across all topics, not just in political non-fiction, where it continues to top charts today.
+In the phantasmagorical town of Raven&#39;s End, a misguided young girl takes refuge in a decrepit old mortuary. The eccentric undertaker chronicles the strange history of the town through a series of twisted tales, each more terrifying than the last, but the young girl&#39;s world is unhinged when she discovers that the final story... is her own.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/mqTu_Btkr08?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	
-	
-
-	
-	
-
-### The Opening Act
-*Released on 2020-10-16, vote average 7*
-
-The film follows Will Chu whose true life passion is to become a stand-up comedian. He is given the opportunity to emcee a comedy show, opening for his hero, Billy G. Chu has to decide if he wants to continue the life he has set up or to pursue his dream, the life of a comedian.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/KNDWz__KThs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/DGSvqn701Xw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -513,25 +456,6 @@ The film follows Will Chu whose true life passion is to become a stand-up comedi
 	
 
 	
-
-	
-
-	
-	
-
-### Body of Water
-*Released on 2020-10-16, vote average 7*
-
-Photographer Stephanie has just completed another round of treatment for chronic anorexia and is working hard to reconnect with her family. Her mother Susan is supportive but preoccupied by her forthcoming wedding to Annette. Stephanie’s teenage daughter, competitive swimmer Pearl, seems hellbent on refusing her a second chance. Stephanie will need all the strength she has.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/G8-hoOEWJQQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -541,6 +465,16 @@ Photographer Stephanie has just completed another round of treatment for chronic
 
 	
 
+	
+
+	
+
+	
+
+	
+
+	
+	
 	
 
 
