@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### American Pie Presents: Girls Rules
-*Released on 2020-10-06, vote average 6.4*
+*Released on 2020-10-06, vote average 6.5*
 
 It&#39;s Senior year at East Great Falls. Annie, Kayla, Michelle, and Stephanie decide to harness their girl power and band together to get what they want their last year of high school.
 
@@ -47,7 +47,7 @@ It&#39;s Senior year at East Great Falls. Annie, Kayla, Michelle, and Stephanie 
 	
 
 ### Hubie Halloween
-*Released on 2020-10-07, vote average 6.4*
+*Released on 2020-10-07, vote average 6.5*
 
 Hubie Dubois who, despite his devotion to his hometown of Salem, Massachusetts (and its legendary Halloween celebration), is a figure of mockery for kids and adults alike. But this year, something really is going bump in the night, and it’s up to Hubie to save Halloween.
 
@@ -113,7 +113,7 @@ A journey into uncharted and forbidden territory through three tales tangled in 
 	
 
 ### Black Box
-*Released on 2020-10-06, vote average 6.6*
+*Released on 2020-10-06, vote average 6.5*
 
 After losing his wife and memory in a car accident, a single father undergoes an experimental treatment that makes him question who he really is.
 
@@ -135,7 +135,7 @@ After losing his wife and memory in a car accident, a single father undergoes an
 	
 
 ### Evil Eye
-*Released on 2020-10-13, vote average 5*
+*Released on 2020-10-13, vote average 4.8*
 
 A seemingly perfect romance turns dark when a mother becomes convinced her daughter’s new boyfriend has a sinister connection to her own past.
 
@@ -157,7 +157,7 @@ A seemingly perfect romance turns dark when a mother becomes convinced her daugh
 	
 
 ### Nocturne
-*Released on 2020-10-13, vote average 6.5*
+*Released on 2020-10-13, vote average 6.4*
 
 An incredibly gifted pianist makes a Faustian bargain to overtake her older sister at a prestigious institution for classical musicians.
 
@@ -175,6 +175,45 @@ An incredibly gifted pianist makes a Faustian bargain to overtake her older sist
   
 
 
+	
+	
+
+### Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train
+*Released on 2020-10-16, vote average 9.5*
+
+Tanjirō Kamado, joined with Inosuke Hashibira, a boy raised by boars who wears a boar&#39;s head, and Zenitsu Agatsuma, a scared boy who reveals his true power when he sleeps, boards the Infinity Train on a new mission with the Fire Hashira, Kyōjurō Rengoku, to defeat a demon who has been tormenting the people and killing the demon slayers who oppose it!
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ATJYac_dORw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### BLACKPINK: Light Up the Sky
+*Released on 2020-10-14, vote average 8.5*
+
+Record-shattering Korean girl band BLACKPINK tell their story —  and detail the hard fought journey of the dreams and trials behind their meteoric rise.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/7jx_vdvxWu0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -205,8 +244,30 @@ Tragedy strikes the Batman&#39;s life again when Robin Jason Todd tracks down hi
 	
 	
 
+### Love and Monsters
+*Released on 2020-10-16, vote average 5.6*
+
+Seven years after the Monsterpocalypse, Joel Dawson, along with the rest of humanity, has been living underground ever since giant creatures took control of the land. After reconnecting over radio with his high school girlfriend Aimee, who is now 80 miles away at a coastal colony, Joel begins to fall for her again. As Joel realizes that there’s nothing left for him underground, he decides against all logic to venture out to Aimee, despite all the dangerous monsters that stand in his way.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-19tBHrZwOM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Alone
-*Released on 2020-10-16, vote average 7*
+*Released on 2020-10-16, vote average 7.5*
 
 When an outbreak hits, Aidan barricades himself inside his apartment and starts rationing food. His complex is overrun by infected Screamers, and with the world falling apart into chaos, he is left completely alone fighting for his life.
 
@@ -227,16 +288,82 @@ When an outbreak hits, Aidan barricades himself inside his apartment and starts 
 	
 	
 
-### BLACKPINK: Light Up the Sky
-*Released on 2020-10-14, vote average 8.6*
+### Ginny Weds Sunny
+*Released on 2020-10-09, vote average 7.1*
 
-Record-shattering Korean girl band BLACKPINK tell their story —  and detail the hard fought journey of the dreams and trials behind their meteoric rise
+Delhi girl Ginny lives with her matchmaker mother and is set up with Sunny, who has given up on the idea of love. He just wants to get married and settle down. But, the match is not that simple. As Ginny meets Sunny, there’s a lot more that comes to the fore than previously imagined in this tale of love, life, weddings and music.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/7jx_vdvxWu0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/21xdmUQUjTk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### A Babysitter&#39;s Guide to Monster Hunting
+*Released on 2020-10-14, vote average 6.5*
+
+Recruited by a secret society of babysitters, a high schooler battles the Boogeyman and his monsters when they nab the boy she&#39;s watching on Halloween.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MKR33fJ_yPw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Opening Act
+*Released on 2020-10-16, vote average 7*
+
+The film follows Will Chu whose true life passion is to become a stand-up comedian. He is given the opportunity to emcee a comedy show, opening for his hero, Billy G. Chu has to decide if he wants to continue the life he has set up or to pursue his dream, the life of a comedian.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KNDWz__KThs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Yellow Rose
+*Released on 2020-10-09, vote average 8*
+
+Rose, a 17-year-old Filipino-American teenager from Texas, dreams of becoming a country music icon. She has to fend for herself when her mother is arrested by ICE, and must choose between following her dreams without her mother or leaving her passions behind.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/o-a3t3RSvsQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -296,99 +423,6 @@ Hiding out with his son Taylor on the Mexican coast, Nero hopes to put his viole
 
 
 	
-	
-
-### Yellow Rose
-*Released on 2020-10-09, vote average 8*
-
-Rose, a 17-year-old Filipino-American teenager from Texas, dreams of becoming a country music icon. She has to fend for herself when her mother is arrested by ICE, and must choose between following her dreams without her mother or leaving her passions behind.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/o-a3t3RSvsQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Ginny Weds Sunny
-*Released on 2020-10-09, vote average 6.8*
-
-Delhi girl Ginny lives with her matchmaker mother and is set up with Sunny, who has given up on the idea of love. He just wants to get married and settle down. But, the match is not that simple. As Ginny meets Sunny, there’s a lot more that comes to the fore than previously imagined in this tale of love, life, weddings and music.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/21xdmUQUjTk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Totally Under Control
-*Released on 2020-10-13, vote average 7*
-
-This documentary puts a spotlight on the White House’s failed response to the global pandemic and how it could have been prevented.  Featuring damning testimony from public health officials and hard investigative reporting, director Alex Gibney reveals a system-wide collapse caused by a profound dereliction of presidential leadership.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/F7ktU4WRfzM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### A Babysitter&#39;s Guide to Monster Hunting
-*Released on 2020-10-14, vote average 4*
-
-Recruited by a secret society of babysitters, a high schooler battles the Boogeyman and his monsters when they nab the boy she&#39;s watching on Halloween.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MKR33fJ_yPw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -400,34 +434,22 @@ Recruited by a secret society of babysitters, a high schooler battles the Boogey
 	
 
 	
-
-	
 	
 
-### The Beach House
-*Released on 2020-10-22, vote average 5.8*
+### Tremors: Shrieker Island
+*Released on 2020-10-20, vote average 7.5*
 
-A romantic getaway for two troubled college sweethearts turns into a struggle for survival when unexpected guests - and the surrounding environment - exhibit signs of a mysterious infection.
+Graboids are illegally taken to a new island resort by a rich playboy as a dangerous form of trophy hunting, and Burt Gummer steps up to save the day.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/GLa9mY4FUBM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/SJv6PticavQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-	
-	
-	
-
-	
-
-	
-
 	
 
 	
@@ -436,7 +458,7 @@ A romantic getaway for two troubled college sweethearts turns into a struggle fo
 	
 
 ### The Mortuary Collection
-*Released on 2020-10-22, vote average 6.2*
+*Released on 2020-10-22, vote average 6.4*
 
 In the phantasmagorical town of Raven&#39;s End, a misguided young girl takes refuge in a decrepit old mortuary. The eccentric undertaker chronicles the strange history of the town through a series of twisted tales, each more terrifying than the last, but the young girl&#39;s world is unhinged when she discovers that the final story... is her own.
 
@@ -456,8 +478,6 @@ In the phantasmagorical town of Raven&#39;s End, a misguided young girl takes re
 	
 
 	
-	
-	
 
 	
 
@@ -472,9 +492,19 @@ In the phantasmagorical town of Raven&#39;s End, a misguided young girl takes re
 	
 
 	
+	
+	
 
 	
+
 	
+
+	
+
+	
+
+	
+
 	
 
 
