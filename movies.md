@@ -46,28 +46,6 @@ It&#39;s Senior year at East Great Falls. Annie, Kayla, Michelle, and Stephanie 
 	
 	
 
-### Hubie Halloween
-*Released on 2020-10-07, vote average 6.5*
-
-Hubie Dubois who, despite his devotion to his hometown of Salem, Massachusetts (and its legendary Halloween celebration), is a figure of mockery for kids and adults alike. But this year, something really is going bump in the night, and it’s up to Hubie to save Halloween.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kY3SuNvqQPw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Happy Halloween Scooby-Doo!
 *Released on 2020-10-06, vote average 7.8*
 
@@ -90,8 +68,30 @@ Scooby-Doo and the gang team up with their pals, Bill Nye The Science Guy and El
 	
 	
 
+### Hubie Halloween
+*Released on 2020-10-07, vote average 6.4*
+
+Hubie Dubois who, despite his devotion to his hometown of Salem, Massachusetts (and its legendary Halloween celebration), is a figure of mockery for kids and adults alike. But this year, something really is going bump in the night, and it’s up to Hubie to save Halloween.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kY3SuNvqQPw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Books of Blood
-*Released on 2020-10-07, vote average 6.5*
+*Released on 2020-10-07, vote average 6.7*
 
 A journey into uncharted and forbidden territory through three tales tangled in space and time.
 
@@ -135,7 +135,7 @@ After losing his wife and memory in a car accident, a single father undergoes an
 	
 
 ### Evil Eye
-*Released on 2020-10-13, vote average 4.8*
+*Released on 2020-10-13, vote average 4.6*
 
 A seemingly perfect romance turns dark when a mother becomes convinced her daughter’s new boyfriend has a sinister connection to her own past.
 
@@ -157,7 +157,7 @@ A seemingly perfect romance turns dark when a mother becomes convinced her daugh
 	
 
 ### Nocturne
-*Released on 2020-10-13, vote average 6.4*
+*Released on 2020-10-13, vote average 6.3*
 
 An incredibly gifted pianist makes a Faustian bargain to overtake her older sister at a prestigious institution for classical musicians.
 
@@ -200,52 +200,8 @@ Tanjirō Kamado, joined with Inosuke Hashibira, a boy raised by boars who wears 
 	
 	
 
-### BLACKPINK: Light Up the Sky
-*Released on 2020-10-14, vote average 8.5*
-
-Record-shattering Korean girl band BLACKPINK tell their story —  and detail the hard fought journey of the dreams and trials behind their meteoric rise.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/7jx_vdvxWu0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Batman: Death in the Family
-*Released on 2020-10-13, vote average 6.6*
-
-Tragedy strikes the Batman&#39;s life again when Robin Jason Todd tracks down his birth mother only to run afoul of the Joker. An adaptation of the 1988 comic book storyline of the same name.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/TGjF_Gal67w?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Love and Monsters
-*Released on 2020-10-16, vote average 5.6*
+*Released on 2020-10-16, vote average 5.8*
 
 Seven years after the Monsterpocalypse, Joel Dawson, along with the rest of humanity, has been living underground ever since giant creatures took control of the land. After reconnecting over radio with his high school girlfriend Aimee, who is now 80 miles away at a coastal colony, Joel begins to fall for her again. As Joel realizes that there’s nothing left for him underground, he decides against all logic to venture out to Aimee, despite all the dangerous monsters that stand in his way.
 
@@ -266,16 +222,16 @@ Seven years after the Monsterpocalypse, Joel Dawson, along with the rest of huma
 	
 	
 
-### Alone
-*Released on 2020-10-16, vote average 7.5*
+### BLACKPINK: Light Up the Sky
+*Released on 2020-10-14, vote average 8.5*
 
-When an outbreak hits, Aidan barricades himself inside his apartment and starts rationing food. His complex is overrun by infected Screamers, and with the world falling apart into chaos, he is left completely alone fighting for his life.
+Record-shattering Korean girl band BLACKPINK tell their story —  and detail the hard fought journey of the dreams and trials behind their meteoric rise.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/5v6yVmtNEhg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/7jx_vdvxWu0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -310,8 +266,30 @@ Delhi girl Ginny lives with her matchmaker mother and is set up with Sunny, who 
 	
 	
 
+### Batman: Death in the Family
+*Released on 2020-10-13, vote average 6.6*
+
+Tragedy strikes the Batman&#39;s life again when Robin Jason Todd tracks down his birth mother only to run afoul of the Joker. An adaptation of the 1988 comic book storyline of the same name.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/TGjF_Gal67w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### A Babysitter&#39;s Guide to Monster Hunting
-*Released on 2020-10-14, vote average 6.5*
+*Released on 2020-10-14, vote average 6.1*
 
 Recruited by a secret society of babysitters, a high schooler battles the Boogeyman and his monsters when they nab the boy she&#39;s watching on Halloween.
 
@@ -332,16 +310,16 @@ Recruited by a secret society of babysitters, a high schooler battles the Boogey
 	
 	
 
-### The Opening Act
-*Released on 2020-10-16, vote average 7*
+### Alone
+*Released on 2020-10-16, vote average 7.5*
 
-The film follows Will Chu whose true life passion is to become a stand-up comedian. He is given the opportunity to emcee a comedy show, opening for his hero, Billy G. Chu has to decide if he wants to continue the life he has set up or to pursue his dream, the life of a comedian.
+When an outbreak hits, Aidan barricades himself inside his apartment and starts rationing food. His complex is overrun by infected Screamers, and with the world falling apart into chaos, he is left completely alone fighting for his life.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/KNDWz__KThs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/5v6yVmtNEhg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -376,16 +354,38 @@ Rose, a 17-year-old Filipino-American teenager from Texas, dreams of becoming a 
 	
 	
 
-### The Plot Against The President
-*Released on 2020-10-16, vote average 9*
+### They Live Inside Us
+*Released on 2020-10-06, vote average 5.2*
 
-Based on Lee Smith&#39;s 2019 best-seller of the same name. This feature length documentary explores new information and additional interview as the case unfolds. The book debuted October 29th, 2019 and instantly became the number one best seller on Amazon across all topics, not just in political non-fiction, where it continues to top charts today.
+Seeking inspiration for a new writing project, a man spends Halloween night in a notoriously haunted house. He soon realizes he is living in his own horror story.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/mqTu_Btkr08?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/hp5e8lUUWWg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Opening Act
+*Released on 2020-10-16, vote average 7*
+
+The film follows Will Chu whose true life passion is to become a stand-up comedian. He is given the opportunity to emcee a comedy show, opening for his hero, Billy G. Chu has to decide if he wants to continue the life he has set up or to pursue his dream, the life of a comedian.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KNDWz__KThs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -404,7 +404,7 @@ Based on Lee Smith&#39;s 2019 best-seller of the same name. This feature length 
 	
 
 ### Seized
-*Released on 2020-10-12, vote average 5.9*
+*Released on 2020-10-12, vote average 5.6*
 
 Hiding out with his son Taylor on the Mexican coast, Nero hopes to put his violent Special Forces career behind him. But after Nero’s home is attacked and Taylor is abducted, the mysterious Mzamo orders Nero to slaughter the members of three rival crime syndicates. If he fails, Taylor will die. Now, with bullets flying and bodies dropping as Nero completes his mission, he races to find Mzamo’s hideout and seek revenge.
 
@@ -422,6 +422,23 @@ Hiding out with his son Taylor on the Mexican coast, Nero hopes to put his viole
   
 
 
+	
+	
+
+### The Plot Against The President
+*Released on 2020-10-16, vote average 9.3*
+
+Based on Lee Smith&#39;s 2019 best-seller of the same name. This feature length documentary explores new information and additional interview as the case unfolds. The book debuted October 29th, 2019 and instantly became the number one best seller on Amazon across all topics, not just in political non-fiction, where it continues to top charts today.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mqTu_Btkr08?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -458,7 +475,7 @@ Graboids are illegally taken to a new island resort by a rich playboy as a dange
 	
 
 ### The Mortuary Collection
-*Released on 2020-10-22, vote average 6.4*
+*Released on 2020-10-22, vote average 7*
 
 In the phantasmagorical town of Raven&#39;s End, a misguided young girl takes refuge in a decrepit old mortuary. The eccentric undertaker chronicles the strange history of the town through a series of twisted tales, each more terrifying than the last, but the young girl&#39;s world is unhinged when she discovers that the final story... is her own.
 
@@ -480,6 +497,14 @@ In the phantasmagorical town of Raven&#39;s End, a misguided young girl takes re
 	
 
 	
+	
+	
+
+	
+
+	
+
+	
 
 	
 
@@ -490,15 +515,26 @@ In the phantasmagorical town of Raven&#39;s End, a misguided young girl takes re
 	
 
 	
+	
+	
 
 	
 	
-	
+
+### Chop Chop
+*Released on 2020-10-20, vote average 8*
+
+A night of chaos ensues when a murderous psychopath targets a loving young couple who might be harboring a secret of their own.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KXL7j6uLG7A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-	
-
 	
 
 	
