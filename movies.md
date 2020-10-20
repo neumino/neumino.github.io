@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### American Pie Presents: Girls Rules
-*Released on 2020-10-06, vote average 6.5*
+*Released on 2020-10-06, vote average 6.6*
 
 It&#39;s Senior year at East Great Falls. Annie, Kayla, Michelle, and Stephanie decide to harness their girl power and band together to get what they want their last year of high school.
 
@@ -47,7 +47,7 @@ It&#39;s Senior year at East Great Falls. Annie, Kayla, Michelle, and Stephanie 
 	
 
 ### Happy Halloween Scooby-Doo!
-*Released on 2020-10-06, vote average 7.8*
+*Released on 2020-10-06, vote average 7.7*
 
 Scooby-Doo and the gang team up with their pals, Bill Nye The Science Guy and Elvira Mistress of the Dark, to solve this mystery of gigantic proportions and save Crystal Cove!
 
@@ -113,7 +113,7 @@ A journey into uncharted and forbidden territory through three tales tangled in 
 	
 
 ### Black Box
-*Released on 2020-10-06, vote average 6.5*
+*Released on 2020-10-06, vote average 6.4*
 
 After losing his wife and memory in a car accident, a single father undergoes an experimental treatment that makes him question who he really is.
 
@@ -135,7 +135,7 @@ After losing his wife and memory in a car accident, a single father undergoes an
 	
 
 ### Evil Eye
-*Released on 2020-10-13, vote average 4.6*
+*Released on 2020-10-13, vote average 5.1*
 
 A seemingly perfect romance turns dark when a mother becomes convinced her daughter’s new boyfriend has a sinister connection to her own past.
 
@@ -157,7 +157,7 @@ A seemingly perfect romance turns dark when a mother becomes convinced her daugh
 	
 
 ### Nocturne
-*Released on 2020-10-13, vote average 6.3*
+*Released on 2020-10-13, vote average 6.4*
 
 An incredibly gifted pianist makes a Faustian bargain to overtake her older sister at a prestigious institution for classical musicians.
 
@@ -179,7 +179,7 @@ An incredibly gifted pianist makes a Faustian bargain to overtake her older sist
 	
 
 ### Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train
-*Released on 2020-10-16, vote average 9.5*
+*Released on 2020-10-16, vote average 9.7*
 
 Tanjirō Kamado, joined with Inosuke Hashibira, a boy raised by boars who wears a boar&#39;s head, and Zenitsu Agatsuma, a scared boy who reveals his true power when he sleeps, boards the Infinity Train on a new mission with the Fire Hashira, Kyōjurō Rengoku, to defeat a demon who has been tormenting the people and killing the demon slayers who oppose it!
 
@@ -201,7 +201,7 @@ Tanjirō Kamado, joined with Inosuke Hashibira, a boy raised by boars who wears 
 	
 
 ### Love and Monsters
-*Released on 2020-10-16, vote average 5.8*
+*Released on 2020-10-16, vote average 7.8*
 
 Seven years after the Monsterpocalypse, Joel Dawson, along with the rest of humanity, has been living underground ever since giant creatures took control of the land. After reconnecting over radio with his high school girlfriend Aimee, who is now 80 miles away at a coastal colony, Joel begins to fall for her again. As Joel realizes that there’s nothing left for him underground, he decides against all logic to venture out to Aimee, despite all the dangerous monsters that stand in his way.
 
@@ -210,28 +210,6 @@ Seven years after the Monsterpocalypse, Joel Dawson, along with the rest of huma
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/-19tBHrZwOM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### BLACKPINK: Light Up the Sky
-*Released on 2020-10-14, vote average 8.5*
-
-Record-shattering Korean girl band BLACKPINK tell their story —  and detail the hard fought journey of the dreams and trials behind their meteoric rise.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/7jx_vdvxWu0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -267,7 +245,7 @@ Delhi girl Ginny lives with her matchmaker mother and is set up with Sunny, who 
 	
 
 ### Batman: Death in the Family
-*Released on 2020-10-13, vote average 6.6*
+*Released on 2020-10-13, vote average 7.4*
 
 Tragedy strikes the Batman&#39;s life again when Robin Jason Todd tracks down his birth mother only to run afoul of the Joker. An adaptation of the 1988 comic book storyline of the same name.
 
@@ -289,7 +267,7 @@ Tragedy strikes the Batman&#39;s life again when Robin Jason Todd tracks down hi
 	
 
 ### A Babysitter&#39;s Guide to Monster Hunting
-*Released on 2020-10-14, vote average 6.1*
+*Released on 2020-10-14, vote average 6.3*
 
 Recruited by a secret society of babysitters, a high schooler battles the Boogeyman and his monsters when they nab the boy she&#39;s watching on Halloween.
 
@@ -310,38 +288,16 @@ Recruited by a secret society of babysitters, a high schooler battles the Boogey
 	
 	
 
-### Alone
-*Released on 2020-10-16, vote average 7.5*
+### BLACKPINK: Light Up the Sky
+*Released on 2020-10-14, vote average 8.4*
 
-When an outbreak hits, Aidan barricades himself inside his apartment and starts rationing food. His complex is overrun by infected Screamers, and with the world falling apart into chaos, he is left completely alone fighting for his life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/5v6yVmtNEhg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Yellow Rose
-*Released on 2020-10-09, vote average 8*
-
-Rose, a 17-year-old Filipino-American teenager from Texas, dreams of becoming a country music icon. She has to fend for herself when her mother is arrested by ICE, and must choose between following her dreams without her mother or leaving her passions behind.
+Record-shattering Korean girl band BLACKPINK tell their story —  and detail the hard fought journey of the dreams and trials behind their meteoric rise.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/o-a3t3RSvsQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/7jx_vdvxWu0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -376,16 +332,16 @@ Seeking inspiration for a new writing project, a man spends Halloween night in a
 	
 	
 
-### The Opening Act
-*Released on 2020-10-16, vote average 7*
+### Tremors: Shrieker Island
+*Released on 2020-10-20, vote average 7*
 
-The film follows Will Chu whose true life passion is to become a stand-up comedian. He is given the opportunity to emcee a comedy show, opening for his hero, Billy G. Chu has to decide if he wants to continue the life he has set up or to pursue his dream, the life of a comedian.
+Graboids are illegally taken to a new island resort by a rich playboy as a dangerous form of trophy hunting, and Burt Gummer steps up to save the day.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/KNDWz__KThs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/SJv6PticavQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -395,6 +351,89 @@ The film follows Will Chu whose true life passion is to become a stand-up comedi
   
 
 
+	
+	
+
+### Yellow Rose
+*Released on 2020-10-09, vote average 8*
+
+Rose, a 17-year-old Filipino-American teenager from Texas, dreams of becoming a country music icon. She has to fend for herself when her mother is arrested by ICE, and must choose between following her dreams without her mother or leaving her passions behind.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/o-a3t3RSvsQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Alone
+*Released on 2020-10-16, vote average 7.5*
+
+When an outbreak hits, Aidan barricades himself inside his apartment and starts rationing food. His complex is overrun by infected Screamers, and with the world falling apart into chaos, he is left completely alone fighting for his life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5v6yVmtNEhg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Mortuary Collection
+*Released on 2020-10-08, vote average 6.3*
+
+In the phantasmagorical town of Raven&#39;s End, a misguided young girl takes refuge in a decrepit old mortuary. The eccentric undertaker chronicles the strange history of the town through a series of twisted tales, each more terrifying than the last, but the young girl&#39;s world is unhinged when she discovers that the final story... is her own.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/DGSvqn701Xw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Clouds
+*Released on 2020-10-09, vote average 7.7*
+
+Young musician Zach Sobiech discovers his cancer has spread, leaving him just a few months to live. With limited time, he follows his dream and makes an album, unaware that it will soon be a viral music phenomenon.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/OWEgUhWU4g4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -422,39 +461,34 @@ Hiding out with his son Taylor on the Mexican coast, Nero hopes to put his viole
   
 
 
+
+## Opening soon
+
+
 	
 	
 
-### The Plot Against The President
-*Released on 2020-10-16, vote average 9.3*
+### Antrum
+*Released on 2020-10-23, vote average 10*
 
-Based on Lee Smith&#39;s 2019 best-seller of the same name. This feature length documentary explores new information and additional interview as the case unfolds. The book debuted October 29th, 2019 and instantly became the number one best seller on Amazon across all topics, not just in political non-fiction, where it continues to top charts today.
+Rumored to have been lost, Antrum appears as a cursed film from the 1970s. Viewers are warned to proceed with caution. It’s said to be a story about a young boy and girl who enter the forest in an attempt to save the soul of their recently deceased pet. They journey to “The Antrum,” they very spot the devil landed after being cast out of heaven. There, the children begin to dig a hole to hell.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/mqTu_Btkr08?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/faQ828XMCc4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
 	
 
-  
-
-
-
-## Opening soon
-
-
-	
-
 	
 	
 
 ### Tremors: Shrieker Island
-*Released on 2020-10-20, vote average 7.5*
+*Released on 2020-10-20, vote average 7*
 
 Graboids are illegally taken to a new island resort by a rich playboy as a dangerous form of trophy hunting, and Burt Gummer steps up to save the day.
 
@@ -472,25 +506,6 @@ Graboids are illegally taken to a new island resort by a rich playboy as a dange
 	
 
 	
-	
-
-### The Mortuary Collection
-*Released on 2020-10-22, vote average 7*
-
-In the phantasmagorical town of Raven&#39;s End, a misguided young girl takes refuge in a decrepit old mortuary. The eccentric undertaker chronicles the strange history of the town through a series of twisted tales, each more terrifying than the last, but the young girl&#39;s world is unhinged when she discovers that the final story... is her own.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/DGSvqn701Xw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
 
 	
 
@@ -498,16 +513,6 @@ In the phantasmagorical town of Raven&#39;s End, a misguided young girl takes re
 
 	
 	
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
@@ -535,6 +540,18 @@ A night of chaos ensues when a murderous psychopath targets a loving young coupl
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
