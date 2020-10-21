@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### American Pie Presents: Girls Rules
-*Released on 2020-10-06, vote average 6.6*
+### Hubie Halloween
+*Released on 2020-10-07, vote average 6.4*
 
-It&#39;s Senior year at East Great Falls. Annie, Kayla, Michelle, and Stephanie decide to harness their girl power and band together to get what they want their last year of high school.
+Hubie Dubois who, despite his devotion to his hometown of Salem, Massachusetts (and its legendary Halloween celebration), is a figure of mockery for kids and adults alike. But this year, something really is going bump in the night, and it’s up to Hubie to save Halloween.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/fGjfQjIKWkw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/kY3SuNvqQPw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,140 +46,8 @@ It&#39;s Senior year at East Great Falls. Annie, Kayla, Michelle, and Stephanie 
 	
 	
 
-### Happy Halloween Scooby-Doo!
-*Released on 2020-10-06, vote average 7.7*
-
-Scooby-Doo and the gang team up with their pals, Bill Nye The Science Guy and Elvira Mistress of the Dark, to solve this mystery of gigantic proportions and save Crystal Cove!
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/z6UVARUhXH4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Hubie Halloween
-*Released on 2020-10-07, vote average 6.4*
-
-Hubie Dubois who, despite his devotion to his hometown of Salem, Massachusetts (and its legendary Halloween celebration), is a figure of mockery for kids and adults alike. But this year, something really is going bump in the night, and it’s up to Hubie to save Halloween.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kY3SuNvqQPw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Books of Blood
-*Released on 2020-10-07, vote average 6.7*
-
-A journey into uncharted and forbidden territory through three tales tangled in space and time.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vj3sRzcvCJc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Black Box
-*Released on 2020-10-06, vote average 6.4*
-
-After losing his wife and memory in a car accident, a single father undergoes an experimental treatment that makes him question who he really is.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nj6JIzrIzxk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Evil Eye
-*Released on 2020-10-13, vote average 5.1*
-
-A seemingly perfect romance turns dark when a mother becomes convinced her daughter’s new boyfriend has a sinister connection to her own past.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/JB2b6weKJcc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Nocturne
-*Released on 2020-10-13, vote average 6.4*
-
-An incredibly gifted pianist makes a Faustian bargain to overtake her older sister at a prestigious institution for classical musicians.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/7AoGu5WxduM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train
-*Released on 2020-10-16, vote average 9.7*
+*Released on 2020-10-16, vote average 9.3*
 
 Tanjirō Kamado, joined with Inosuke Hashibira, a boy raised by boars who wears a boar&#39;s head, and Zenitsu Agatsuma, a scared boy who reveals his true power when he sleeps, boards the Infinity Train on a new mission with the Fire Hashira, Kyōjurō Rengoku, to defeat a demon who has been tormenting the people and killing the demon slayers who oppose it!
 
@@ -200,8 +68,52 @@ Tanjirō Kamado, joined with Inosuke Hashibira, a boy raised by boars who wears 
 	
 	
 
+### Nocturne
+*Released on 2020-10-13, vote average 6.3*
+
+An incredibly gifted pianist makes a Faustian bargain to overtake her older sister at a prestigious institution for classical musicians.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/7AoGu5WxduM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Evil Eye
+*Released on 2020-10-13, vote average 5.4*
+
+A seemingly perfect romance turns dark when a mother becomes convinced her daughter’s new boyfriend has a sinister connection to her own past.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/JB2b6weKJcc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Love and Monsters
-*Released on 2020-10-16, vote average 7.8*
+*Released on 2020-10-16, vote average 8.1*
 
 Seven years after the Monsterpocalypse, Joel Dawson, along with the rest of humanity, has been living underground ever since giant creatures took control of the land. After reconnecting over radio with his high school girlfriend Aimee, who is now 80 miles away at a coastal colony, Joel begins to fall for her again. As Joel realizes that there’s nothing left for him underground, he decides against all logic to venture out to Aimee, despite all the dangerous monsters that stand in his way.
 
@@ -210,6 +122,28 @@ Seven years after the Monsterpocalypse, Joel Dawson, along with the rest of huma
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/-19tBHrZwOM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Books of Blood
+*Released on 2020-10-07, vote average 6.8*
+
+A journey into uncharted and forbidden territory through three tales tangled in space and time.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vj3sRzcvCJc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -244,28 +178,6 @@ Delhi girl Ginny lives with her matchmaker mother and is set up with Sunny, who 
 	
 	
 
-### Batman: Death in the Family
-*Released on 2020-10-13, vote average 7.4*
-
-Tragedy strikes the Batman&#39;s life again when Robin Jason Todd tracks down his birth mother only to run afoul of the Joker. An adaptation of the 1988 comic book storyline of the same name.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/TGjF_Gal67w?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### A Babysitter&#39;s Guide to Monster Hunting
 *Released on 2020-10-14, vote average 6.3*
 
@@ -288,8 +200,52 @@ Recruited by a secret society of babysitters, a high schooler battles the Boogey
 	
 	
 
+### Tremors: Shrieker Island
+*Released on 2020-10-20, vote average 7.5*
+
+Graboids are illegally taken to a new island resort by a rich playboy as a dangerous form of trophy hunting, and Burt Gummer steps up to save the day.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/SJv6PticavQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Batman: Death in the Family
+*Released on 2020-10-13, vote average 7.4*
+
+Tragedy strikes the Batman&#39;s life again when Robin Jason Todd tracks down his birth mother only to run afoul of the Joker. An adaptation of the 1988 comic book storyline of the same name.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/TGjF_Gal67w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### BLACKPINK: Light Up the Sky
-*Released on 2020-10-14, vote average 8.4*
+*Released on 2020-10-14, vote average 8.6*
 
 Record-shattering Korean girl band BLACKPINK tell their story —  and detail the hard fought journey of the dreams and trials behind their meteoric rise.
 
@@ -310,16 +266,16 @@ Record-shattering Korean girl band BLACKPINK tell their story —  and detail th
 	
 	
 
-### They Live Inside Us
-*Released on 2020-10-06, vote average 5.2*
+### Clouds
+*Released on 2020-10-09, vote average 7.6*
 
-Seeking inspiration for a new writing project, a man spends Halloween night in a notoriously haunted house. He soon realizes he is living in his own horror story.
+Young musician Zach Sobiech discovers his cancer has spread, leaving him just a few months to live. With limited time, he follows his dream and makes an album, unaware that it will soon be a viral music phenomenon.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/hp5e8lUUWWg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/OWEgUhWU4g4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -332,16 +288,38 @@ Seeking inspiration for a new writing project, a man spends Halloween night in a
 	
 	
 
-### Tremors: Shrieker Island
-*Released on 2020-10-20, vote average 7*
+### Alone
+*Released on 2020-10-16, vote average 8.3*
 
-Graboids are illegally taken to a new island resort by a rich playboy as a dangerous form of trophy hunting, and Burt Gummer steps up to save the day.
+When an outbreak hits, Aidan barricades himself inside his apartment and starts rationing food. His complex is overrun by infected Screamers, and with the world falling apart into chaos, he is left completely alone fighting for his life.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/SJv6PticavQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/5v6yVmtNEhg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Wolf of Snow Hollow
+*Released on 2020-10-09, vote average 6.6*
+
+A stressed-out police officer struggles not to give in to the paranoia that grips his small mountain town as bodies turn up after each full moon.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/q03zOoH-hGo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -376,72 +354,6 @@ Rose, a 17-year-old Filipino-American teenager from Texas, dreams of becoming a 
 	
 	
 
-### Alone
-*Released on 2020-10-16, vote average 7.5*
-
-When an outbreak hits, Aidan barricades himself inside his apartment and starts rationing food. His complex is overrun by infected Screamers, and with the world falling apart into chaos, he is left completely alone fighting for his life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/5v6yVmtNEhg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Mortuary Collection
-*Released on 2020-10-08, vote average 6.3*
-
-In the phantasmagorical town of Raven&#39;s End, a misguided young girl takes refuge in a decrepit old mortuary. The eccentric undertaker chronicles the strange history of the town through a series of twisted tales, each more terrifying than the last, but the young girl&#39;s world is unhinged when she discovers that the final story... is her own.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/DGSvqn701Xw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Clouds
-*Released on 2020-10-09, vote average 7.7*
-
-Young musician Zach Sobiech discovers his cancer has spread, leaving him just a few months to live. With limited time, he follows his dream and makes an album, unaware that it will soon be a viral music phenomenon.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/OWEgUhWU4g4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Seized
 *Released on 2020-10-12, vote average 5.6*
 
@@ -461,6 +373,43 @@ Hiding out with his son Taylor on the Mexican coast, Nero hopes to put his viole
   
 
 
+	
+
+  
+
+
+	
+	
+
+### The Mortuary Collection
+*Released on 2020-10-08, vote average 6.4*
+
+In the phantasmagorical town of Raven&#39;s End, a misguided young girl takes refuge in a decrepit old mortuary. The eccentric undertaker chronicles the strange history of the town through a series of twisted tales, each more terrifying than the last, but the young girl&#39;s world is unhinged when she discovers that the final story... is her own.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/DGSvqn701Xw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -469,7 +418,7 @@ Hiding out with his son Taylor on the Mexican coast, Nero hopes to put his viole
 	
 
 ### Antrum
-*Released on 2020-10-23, vote average 10*
+*Released on 2020-10-23, vote average 8*
 
 Rumored to have been lost, Antrum appears as a cursed film from the 1970s. Viewers are warned to proceed with caution. It’s said to be a story about a young boy and girl who enter the forest in an attempt to save the soul of their recently deceased pet. They journey to “The Antrum,” they very spot the devil landed after being cast out of heaven. There, the children begin to dig a hole to hell.
 
@@ -485,31 +434,6 @@ Rumored to have been lost, Antrum appears as a cursed film from the 1970s. Viewe
 	
 
 	
-	
-
-### Tremors: Shrieker Island
-*Released on 2020-10-20, vote average 7*
-
-Graboids are illegally taken to a new island resort by a rich playboy as a dangerous form of trophy hunting, and Burt Gummer steps up to save the day.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/SJv6PticavQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
-
-	
 
 	
 	
@@ -521,21 +445,17 @@ Graboids are illegally taken to a new island resort by a rich playboy as a dange
 
 	
 	
-	
 
-	
-	
+### Borat Subsequent Moviefilm
+*Released on 2020-10-23, vote average 10*
 
-### Chop Chop
-*Released on 2020-10-20, vote average 8*
-
-A night of chaos ensues when a murderous psychopath targets a loving young couple who might be harboring a secret of their own.
+14 years after making a film about his journey across the USA, Borat risks life and limb when he returns to America with his young daughter, and reveals more about the American culture, the COVID-19 pandemic, and the political elections.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/KXL7j6uLG7A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Xi5L8Lucx3s?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -552,6 +472,18 @@ A night of chaos ensues when a murderous psychopath targets a loving young coupl
 
 	
 
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
 	
 
 	
