@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Hubie Halloween
-*Released on 2020-10-07, vote average 6.4*
+### Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train
+*Released on 2020-10-16, vote average 8*
 
-Hubie Dubois who, despite his devotion to his hometown of Salem, Massachusetts (and its legendary Halloween celebration), is a figure of mockery for kids and adults alike. But this year, something really is going bump in the night, and it’s up to Hubie to save Halloween.
+Tanjirō Kamado, joined with Inosuke Hashibira, a boy raised by boars who wears a boar&#39;s head, and Zenitsu Agatsuma, a scared boy who reveals his true power when he sleeps, boards the Infinity Train on a new mission with the Fire Hashira, Kyōjurō Rengoku, to defeat a demon who has been tormenting the people and killing the demon slayers who oppose it!
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/kY3SuNvqQPw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ATJYac_dORw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,72 +46,6 @@ Hubie Dubois who, despite his devotion to his hometown of Salem, Massachusetts (
 	
 	
 
-### Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train
-*Released on 2020-10-16, vote average 9.3*
-
-Tanjirō Kamado, joined with Inosuke Hashibira, a boy raised by boars who wears a boar&#39;s head, and Zenitsu Agatsuma, a scared boy who reveals his true power when he sleeps, boards the Infinity Train on a new mission with the Fire Hashira, Kyōjurō Rengoku, to defeat a demon who has been tormenting the people and killing the demon slayers who oppose it!
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ATJYac_dORw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Nocturne
-*Released on 2020-10-13, vote average 6.3*
-
-An incredibly gifted pianist makes a Faustian bargain to overtake her older sister at a prestigious institution for classical musicians.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/7AoGu5WxduM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Evil Eye
-*Released on 2020-10-13, vote average 5.4*
-
-A seemingly perfect romance turns dark when a mother becomes convinced her daughter’s new boyfriend has a sinister connection to her own past.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/JB2b6weKJcc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Love and Monsters
 *Released on 2020-10-16, vote average 8.1*
 
@@ -122,28 +56,6 @@ Seven years after the Monsterpocalypse, Joel Dawson, along with the rest of huma
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/-19tBHrZwOM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Books of Blood
-*Released on 2020-10-07, vote average 6.8*
-
-A journey into uncharted and forbidden territory through three tales tangled in space and time.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vj3sRzcvCJc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -178,6 +90,28 @@ Delhi girl Ginny lives with her matchmaker mother and is set up with Sunny, who 
 	
 	
 
+### Nocturne
+*Released on 2020-10-13, vote average 6.2*
+
+An incredibly gifted pianist makes a Faustian bargain to overtake her older sister at a prestigious institution for classical musicians.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/7AoGu5WxduM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### A Babysitter&#39;s Guide to Monster Hunting
 *Released on 2020-10-14, vote average 6.3*
 
@@ -200,8 +134,30 @@ Recruited by a secret society of babysitters, a high schooler battles the Boogey
 	
 	
 
+### Evil Eye
+*Released on 2020-10-13, vote average 5.4*
+
+A seemingly perfect romance turns dark when a mother becomes convinced her daughter’s new boyfriend has a sinister connection to her own past.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/JB2b6weKJcc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Tremors: Shrieker Island
-*Released on 2020-10-20, vote average 7.5*
+*Released on 2020-10-20, vote average 7.6*
 
 Graboids are illegally taken to a new island resort by a rich playboy as a dangerous form of trophy hunting, and Burt Gummer steps up to save the day.
 
@@ -210,6 +166,28 @@ Graboids are illegally taken to a new island resort by a rich playboy as a dange
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/SJv6PticavQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Clouds
+*Released on 2020-10-09, vote average 7.8*
+
+Young musician Zach Sobiech discovers his cancer has spread, leaving him just a few months to live. With limited time, he follows his dream and makes an album, unaware that it will soon be a viral music phenomenon.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/OWEgUhWU4g4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -266,20 +244,81 @@ Record-shattering Korean girl band BLACKPINK tell their story —  and detail th
 	
 	
 
-### Clouds
-*Released on 2020-10-09, vote average 7.6*
+### The Wolf of Snow Hollow
+*Released on 2020-10-09, vote average 6.6*
 
-Young musician Zach Sobiech discovers his cancer has spread, leaving him just a few months to live. With limited time, he follows his dream and makes an album, unaware that it will soon be a viral music phenomenon.
+A stressed-out police officer struggles not to give in to the paranoia that grips his small mountain town as bodies turn up after each full moon.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/OWEgUhWU4g4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/q03zOoH-hGo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Chop Chop
+*Released on 2020-10-20, vote average 8*
+
+A night of chaos ensues when a murderous psychopath targets a loving young couple who might be harboring a secret of their own.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KXL7j6uLG7A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -302,109 +341,6 @@ When an outbreak hits, Aidan barricades himself inside his apartment and starts 
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### The Wolf of Snow Hollow
-*Released on 2020-10-09, vote average 6.6*
-
-A stressed-out police officer struggles not to give in to the paranoia that grips his small mountain town as bodies turn up after each full moon.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/q03zOoH-hGo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Yellow Rose
-*Released on 2020-10-09, vote average 8*
-
-Rose, a 17-year-old Filipino-American teenager from Texas, dreams of becoming a country music icon. She has to fend for herself when her mother is arrested by ICE, and must choose between following her dreams without her mother or leaving her passions behind.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/o-a3t3RSvsQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Seized
-*Released on 2020-10-12, vote average 5.6*
-
-Hiding out with his son Taylor on the Mexican coast, Nero hopes to put his violent Special Forces career behind him. But after Nero’s home is attacked and Taylor is abducted, the mysterious Mzamo orders Nero to slaughter the members of three rival crime syndicates. If he fails, Taylor will die. Now, with bullets flying and bodies dropping as Nero completes his mission, he races to find Mzamo’s hideout and seek revenge.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kNyEosZQJiA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Mortuary Collection
-*Released on 2020-10-08, vote average 6.4*
-
-In the phantasmagorical town of Raven&#39;s End, a misguided young girl takes refuge in a decrepit old mortuary. The eccentric undertaker chronicles the strange history of the town through a series of twisted tales, each more terrifying than the last, but the young girl&#39;s world is unhinged when she discovers that the final story... is her own.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/DGSvqn701Xw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -435,8 +371,6 @@ Rumored to have been lost, Antrum appears as a cursed film from the 1970s. Viewe
 
 	
 
-	
-	
 	
 
 	
@@ -470,6 +404,8 @@ Rumored to have been lost, Antrum appears as a cursed film from the 1970s. Viewe
 
 	
 
+	
+	
 	
 
 	
