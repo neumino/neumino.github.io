@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train
-*Released on 2020-10-16, vote average 7.9*
+*Released on 2020-10-16, vote average 8.2*
 
 Tanjirō Kamado, joined with Inosuke Hashibira, a boy raised by boars who wears a boar&#39;s head, and Zenitsu Agatsuma, a scared boy who reveals his true power when he sleeps, boards the Infinity Train on a new mission with the Fire Hashira, Kyōjurō Rengoku, to defeat a demon who has been tormenting the people and killing the demon slayers who oppose it!
 
@@ -91,7 +91,7 @@ Seven years after the Monsterpocalypse, Joel Dawson, along with the rest of huma
 	
 
 ### A Babysitter&#39;s Guide to Monster Hunting
-*Released on 2020-10-14, vote average 6.3*
+*Released on 2020-10-14, vote average 6.2*
 
 Recruited by a secret society of babysitters, a high schooler battles the Boogeyman and his monsters when they nab the boy she&#39;s watching on Halloween.
 
@@ -113,7 +113,7 @@ Recruited by a secret society of babysitters, a high schooler battles the Boogey
 	
 
 ### Tremors: Shrieker Island
-*Released on 2020-10-20, vote average 7.3*
+*Released on 2020-10-20, vote average 7.2*
 
 Graboids are illegally taken to a new island resort by a rich playboy as a dangerous form of trophy hunting, and Burt Gummer steps up to save the day.
 
@@ -135,7 +135,7 @@ Graboids are illegally taken to a new island resort by a rich playboy as a dange
 	
 
 ### Nocturne
-*Released on 2020-10-13, vote average 5.9*
+*Released on 2020-10-13, vote average 5.8*
 
 An incredibly gifted pianist makes a Faustian bargain to overtake her older sister at a prestigious institution for classical musicians.
 
@@ -176,10 +176,15 @@ A seemingly perfect romance turns dark when a mother becomes convinced her daugh
 
 
 	
+
+  
+
+
+	
 	
 
 ### Antrum
-*Released on 2020-10-23, vote average 7.6*
+*Released on 2020-10-23, vote average 6.9*
 
 Rumored to have been lost, Antrum appears as a cursed film from the 1970s. Viewers are warned to proceed with caution. It’s said to be a story about a young boy and girl who enter the forest in an attempt to save the soul of their recently deceased pet. They journey to “The Antrum,” they very spot the devil landed after being cast out of heaven. There, the children begin to dig a hole to hell.
 
@@ -197,6 +202,23 @@ Rumored to have been lost, Antrum appears as a cursed film from the 1970s. Viewe
   
 
 
+	
+	
+
+### Borat Subsequent Moviefilm
+*Released on 2020-10-23, vote average 6.8*
+
+14 years after making a film about his journey across the USA, Borat risks life and limb when he returns to America with his young daughter, and reveals more about the American culture, the COVID-19 pandemic, and the political elections.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Xi5L8Lucx3s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -226,17 +248,24 @@ Tragedy strikes the Batman&#39;s life again when Robin Jason Todd tracks down hi
 
 	
 	
+	
 
-### Borat Subsequent Moviefilm
-*Released on 2020-10-23, vote average 7.3*
+  
 
-14 years after making a film about his journey across the USA, Borat risks life and limb when he returns to America with his young daughter, and reveals more about the American culture, the COVID-19 pandemic, and the political elections.
+
+	
+	
+
+### Rebecca
+*Released on 2020-10-16, vote average 6.1*
+
+After a whirlwind romance with a wealthy widower, a naïve bride moves to his family estate but can&#39;t escape the haunting shadow of his late wife.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Xi5L8Lucx3s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/LFVhB54UqvQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -247,6 +276,75 @@ Tragedy strikes the Batman&#39;s life again when Robin Jason Todd tracks down hi
 
 
 	
+	
+
+### Once Upon a Snowman
+*Released on 2020-10-23, vote average 8.5*
+
+The previously untold origins of Olaf, the innocent and insightful, summer-loving snowman are revealed as we follow Olaf’s first steps as he comes to life and searches for his identity in the snowy mountains outside Arendelle.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/JR7OrwlrsP0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Cadaver
+*Released on 2020-10-22, vote average 5.7*
+
+In the aftermath of a nuclear disaster, a starving family find hope in a charismatic hotel owner. Lured by the prospect of a free dinner, they discover that the evening&#39;s entertainment blurs the lines between performance and reality. Will they wind up the spectators or the spectacle?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Bc8sZbEEO8U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Over the Moon
+*Released on 2020-10-16, vote average 7.3*
+
+A girl builds a rocket to travel to the moon in hopes of meeting the legendary Moon Goddess.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/26DIABx44Tw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -278,67 +376,20 @@ Hiding out with his son Taylor on the Mexican coast, Nero hopes to put his viole
 	
 	
 
-### The Beach House
-*Released on 2020-10-22, vote average 7*
+### Bruce Springsteen&#39;s Letter to You
+*Released on 2020-10-23, vote average 8*
 
-A romantic getaway for two troubled college sweethearts turns into a struggle for survival when unexpected guests - and the surrounding environment - exhibit signs of a mysterious infection.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/GLa9mY4FUBM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### BLACKPINK: Light Up the Sky
-*Released on 2020-10-14, vote average 8.7*
-
-Record-shattering Korean girl band BLACKPINK tell their story —  and detail the hard fought journey of the dreams and trials behind their meteoric rise.
+A tribute to The E Street Band, rock ‘n’ roll, and the way music has shaped Bruce Springsteen’s life, this documentary captures Bruce reflecting on love and loss while recording with his full band for the first time since Born in the U.S.A.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/7jx_vdvxWu0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/KEu8vdgO3CQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -352,9 +403,9 @@ Record-shattering Korean girl band BLACKPINK tell their story —  and detail th
 	
 
 ### Roald Dahl&#39;s The Witches
-*Released on 2020-10-26, vote average 5.4*
+*Released on 2020-10-26, vote average 7.2*
 
-In 1960s Alabama, an orphaned young boy staying with his grandmother at a hotel, stumbles across a conference of witches and gets transformed into a mouse by the Grand High Witch.
+In late 1967, a young orphaned boy goes to live with his loving grandma in the rural Alabama town of Demopolis. As the boy and his grandmother encounter some deceptively glamorous but thoroughly diabolical witches, she wisely whisks him away to a seaside resort. Regrettably, they arrive at precisely the same time that the world&#39;s Grand High Witch has gathered.
 
 <iframe id="player"
 	type="text/html"
