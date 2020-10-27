@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Hard Kill
-*Released on 2020-10-23, vote average 3.9*
+*Released on 2020-10-23, vote average 3.7*
 
 The work of billionaire tech CEO Donovan Chalmers is so valuable that he hires mercenaries to protect it, and a terrorist group kidnaps his daughter just to get it.
 
@@ -47,7 +47,7 @@ The work of billionaire tech CEO Donovan Chalmers is so valuable that he hires m
 	
 
 ### Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train
-*Released on 2020-10-16, vote average 8.2*
+*Released on 2020-10-16, vote average 7.5*
 
 Tanjirō Kamado, joined with Inosuke Hashibira, a boy raised by boars who wears a boar&#39;s head, and Zenitsu Agatsuma, a scared boy who reveals his true power when he sleeps, boards the Infinity Train on a new mission with the Fire Hashira, Kyōjurō Rengoku, to defeat a demon who has been tormenting the people and killing the demon slayers who oppose it!
 
@@ -91,7 +91,7 @@ Seven years after the Monsterpocalypse, Joel Dawson, along with the rest of huma
 	
 
 ### A Babysitter&#39;s Guide to Monster Hunting
-*Released on 2020-10-14, vote average 6.3*
+*Released on 2020-10-14, vote average 6.1*
 
 Recruited by a secret society of babysitters, a high schooler battles the Boogeyman and his monsters when they nab the boy she&#39;s watching on Halloween.
 
@@ -135,7 +135,7 @@ Graboids are illegally taken to a new island resort by a rich playboy as a dange
 	
 
 ### Roald Dahl&#39;s The Witches
-*Released on 2020-10-26, vote average 7.3*
+*Released on 2020-10-26, vote average 7.2*
 
 In late 1967, a young orphaned boy goes to live with his loving grandma in the rural Alabama town of Demopolis. As the boy and his grandmother encounter some deceptively glamorous but thoroughly diabolical witches, she wisely whisks him away to a seaside resort. Regrettably, they arrive at precisely the same time that the world&#39;s Grand High Witch has gathered.
 
@@ -223,7 +223,7 @@ A seemingly perfect romance turns dark when a mother becomes convinced her daugh
 	
 
 ### Antrum
-*Released on 2020-10-23, vote average 6.3*
+*Released on 2020-10-23, vote average 6.4*
 
 Rumored to have been lost, Antrum appears as a cursed film from the 1970s. Viewers are warned to proceed with caution. It’s said to be a story about a young boy and girl who enter the forest in an attempt to save the soul of their recently deceased pet. They journey to “The Antrum,” they very spot the devil landed after being cast out of heaven. There, the children begin to dig a hole to hell.
 
@@ -243,38 +243,9 @@ Rumored to have been lost, Antrum appears as a cursed film from the 1970s. Viewe
 
 	
 	
-	
-
-  
-
-
-	
-	
-
-### Batman: Death in the Family
-*Released on 2020-10-13, vote average 7.5*
-
-Tragedy strikes the Batman&#39;s life again when Robin Jason Todd tracks down his birth mother only to run afoul of the Joker. An adaptation of the 1988 comic book storyline of the same name.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/TGjF_Gal67w?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
 
 ### Rebecca
-*Released on 2020-10-16, vote average 6*
+*Released on 2020-10-16, vote average 6.3*
 
 After a whirlwind romance with a wealthy widower, a naïve bride moves to his family estate but can&#39;t escape the haunting shadow of his late wife.
 
@@ -293,28 +264,6 @@ After a whirlwind romance with a wealthy widower, a naïve bride moves to his fa
 
 
 	
-	
-
-### Once Upon a Snowman
-*Released on 2020-10-23, vote average 7.9*
-
-The previously untold origins of Olaf, the innocent and insightful, summer-loving snowman are revealed as we follow Olaf’s first steps as he comes to life and searches for his identity in the snowy mountains outside Arendelle.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/JR7OrwlrsP0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 
   
 
@@ -323,7 +272,7 @@ The previously untold origins of Olaf, the innocent and insightful, summer-lovin
 	
 
 ### Cadaver
-*Released on 2020-10-22, vote average 5.5*
+*Released on 2020-10-22, vote average 5.7*
 
 In the aftermath of a nuclear disaster, a starving family find hope in a charismatic hotel owner. Lured by the prospect of a free dinner, they discover that the evening&#39;s entertainment blurs the lines between performance and reality. Will they wind up the spectators or the spectacle?
 
@@ -345,7 +294,7 @@ In the aftermath of a nuclear disaster, a starving family find hope in a charism
 	
 
 ### Over the Moon
-*Released on 2020-10-16, vote average 8.4*
+*Released on 2020-10-16, vote average 8.2*
 
 A girl builds a rocket to travel to the moon in hopes of meeting the legendary Moon Goddess.
 
@@ -366,8 +315,37 @@ A girl builds a rocket to travel to the moon in hopes of meeting the legendary M
 	
 	
 
+### Batman: Death in the Family
+*Released on 2020-10-13, vote average 7.4*
+
+Tragedy strikes the Batman&#39;s life again when Robin Jason Todd tracks down his birth mother only to run afoul of the Joker. An adaptation of the 1988 comic book storyline of the same name.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/TGjF_Gal67w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
 ### New Order
-*Released on 2020-10-22, vote average 6*
+*Released on 2020-10-22, vote average 6.5*
 
 In the near future, a popular uprising in Mexico City interrupts a wedding held at the home of a wealthy family. After the riots have been quashed, they discover the bride has gone missing and plea with the military to help locate her.
 
@@ -388,16 +366,16 @@ In the near future, a popular uprising in Mexico City interrupts a wedding held 
 	
 	
 
-### Seized
-*Released on 2020-10-12, vote average 5.5*
+### Once Upon a Snowman
+*Released on 2020-10-23, vote average 7.6*
 
-Hiding out with his son Taylor on the Mexican coast, Nero hopes to put his violent Special Forces career behind him. But after Nero’s home is attacked and Taylor is abducted, the mysterious Mzamo orders Nero to slaughter the members of three rival crime syndicates. If he fails, Taylor will die. Now, with bullets flying and bodies dropping as Nero completes his mission, he races to find Mzamo’s hideout and seek revenge.
+The previously untold origins of Olaf, the innocent and insightful, summer-loving snowman are revealed as we follow Olaf’s first steps as he comes to life and searches for his identity in the snowy mountains outside Arendelle.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/kNyEosZQJiA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/JR7OrwlrsP0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -409,21 +387,11 @@ Hiding out with his son Taylor on the Mexican coast, Nero hopes to put his viole
 
 	
 	
-
-### BLACKPINK: Light Up the Sky
-*Released on 2020-10-14, vote average 8.7*
-
-Record-shattering Korean girl band BLACKPINK tell their story —  and detail the hard fought journey of the dreams and trials behind their meteoric rise.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/7jx_vdvxWu0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
+
+  
+
+
 	
 
   
@@ -432,33 +400,6 @@ Record-shattering Korean girl band BLACKPINK tell their story —  and detail th
 
 ## Opening soon
 
-
-	
-	
-
-### Roald Dahl&#39;s The Witches
-*Released on 2020-10-26, vote average 7.3*
-
-In late 1967, a young orphaned boy goes to live with his loving grandma in the rural Alabama town of Demopolis. As the boy and his grandmother encounter some deceptively glamorous but thoroughly diabolical witches, she wisely whisks him away to a seaside resort. Regrettably, they arrive at precisely the same time that the world&#39;s Grand High Witch has gathered.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/9nlhmJF5FNI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
-
-	
 
 	
 
@@ -496,7 +437,15 @@ A lonely young boy feels different from everyone else. Desperate for a friend, h
 	
 
 	
+
 	
+
+	
+
+	
+
+	
+
 	
 
 	
