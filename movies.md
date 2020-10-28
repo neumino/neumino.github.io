@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Hard Kill
-*Released on 2020-10-23, vote average 3.7*
+*Released on 2020-10-23, vote average 4*
 
 The work of billionaire tech CEO Donovan Chalmers is so valuable that he hires mercenaries to protect it, and a terrorist group kidnaps his daughter just to get it.
 
@@ -47,7 +47,7 @@ The work of billionaire tech CEO Donovan Chalmers is so valuable that he hires m
 	
 
 ### Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train
-*Released on 2020-10-16, vote average 7.5*
+*Released on 2020-10-16, vote average 8*
 
 Tanjirō Kamado, joined with Inosuke Hashibira, a boy raised by boars who wears a boar&#39;s head, and Zenitsu Agatsuma, a scared boy who reveals his true power when he sleeps, boards the Infinity Train on a new mission with the Fire Hashira, Kyōjurō Rengoku, to defeat a demon who has been tormenting the people and killing the demon slayers who oppose it!
 
@@ -69,7 +69,7 @@ Tanjirō Kamado, joined with Inosuke Hashibira, a boy raised by boars who wears 
 	
 
 ### Love and Monsters
-*Released on 2020-10-16, vote average 7.7*
+*Released on 2020-10-16, vote average 7.6*
 
 Seven years after the Monsterpocalypse, Joel Dawson, along with the rest of humanity, has been living underground ever since giant creatures took control of the land. After reconnecting over radio with his high school girlfriend Aimee, who is now 80 miles away at a coastal colony, Joel begins to fall for her again. As Joel realizes that there’s nothing left for him underground, he decides against all logic to venture out to Aimee, despite all the dangerous monsters that stand in his way.
 
@@ -112,28 +112,6 @@ Recruited by a secret society of babysitters, a high schooler battles the Boogey
 	
 	
 
-### Tremors: Shrieker Island
-*Released on 2020-10-20, vote average 7.4*
-
-Graboids are illegally taken to a new island resort by a rich playboy as a dangerous form of trophy hunting, and Burt Gummer steps up to save the day.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/SJv6PticavQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Roald Dahl&#39;s The Witches
 *Released on 2020-10-26, vote average 7.2*
 
@@ -156,16 +134,16 @@ In late 1967, a young orphaned boy goes to live with his loving grandma in the r
 	
 	
 
-### Nocturne
-*Released on 2020-10-13, vote average 5.8*
+### Tremors: Shrieker Island
+*Released on 2020-10-20, vote average 7.5*
 
-An incredibly gifted pianist makes a Faustian bargain to overtake her older sister at a prestigious institution for classical musicians.
+Graboids are illegally taken to a new island resort by a rich playboy as a dangerous form of trophy hunting, and Burt Gummer steps up to save the day.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/7AoGu5WxduM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/SJv6PticavQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -200,16 +178,65 @@ An incredibly gifted pianist makes a Faustian bargain to overtake her older sist
 	
 	
 
-### Evil Eye
-*Released on 2020-10-13, vote average 5.6*
+### Rebecca
+*Released on 2020-10-16, vote average 6.3*
 
-A seemingly perfect romance turns dark when a mother becomes convinced her daughter’s new boyfriend has a sinister connection to her own past.
+After a whirlwind romance with a wealthy widower, a naïve bride moves to his family estate but can&#39;t escape the haunting shadow of his late wife.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/JB2b6weKJcc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/LFVhB54UqvQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Cadaver
+*Released on 2020-10-22, vote average 5.8*
+
+In the aftermath of a nuclear disaster, a starving family find hope in a charismatic hotel owner. Lured by the prospect of a free dinner, they discover that the evening&#39;s entertainment blurs the lines between performance and reality. Will they wind up the spectators or the spectacle?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Bc8sZbEEO8U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Over the Moon
+*Released on 2020-10-16, vote average 7.9*
+
+A girl builds a rocket to travel to the moon in hopes of meeting the legendary Moon Goddess.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/26DIABx44Tw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -244,130 +271,8 @@ Rumored to have been lost, Antrum appears as a cursed film from the 1970s. Viewe
 	
 	
 
-### Rebecca
-*Released on 2020-10-16, vote average 6.3*
-
-After a whirlwind romance with a wealthy widower, a naïve bride moves to his family estate but can&#39;t escape the haunting shadow of his late wife.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LFVhB54UqvQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Cadaver
-*Released on 2020-10-22, vote average 5.7*
-
-In the aftermath of a nuclear disaster, a starving family find hope in a charismatic hotel owner. Lured by the prospect of a free dinner, they discover that the evening&#39;s entertainment blurs the lines between performance and reality. Will they wind up the spectators or the spectacle?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Bc8sZbEEO8U?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Over the Moon
-*Released on 2020-10-16, vote average 8.2*
-
-A girl builds a rocket to travel to the moon in hopes of meeting the legendary Moon Goddess.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/26DIABx44Tw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Batman: Death in the Family
-*Released on 2020-10-13, vote average 7.4*
-
-Tragedy strikes the Batman&#39;s life again when Robin Jason Todd tracks down his birth mother only to run afoul of the Joker. An adaptation of the 1988 comic book storyline of the same name.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/TGjF_Gal67w?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### New Order
-*Released on 2020-10-22, vote average 6.5*
-
-In the near future, a popular uprising in Mexico City interrupts a wedding held at the home of a wealthy family. After the riots have been quashed, they discover the bride has gone missing and plea with the military to help locate her.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/a0tinkp-jQU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Once Upon a Snowman
-*Released on 2020-10-23, vote average 7.6*
+*Released on 2020-10-23, vote average 7.7*
 
 The previously untold origins of Olaf, the innocent and insightful, summer-loving snowman are revealed as we follow Olaf’s first steps as he comes to life and searches for his identity in the snowy mountains outside Arendelle.
 
@@ -397,6 +302,69 @@ The previously untold origins of Olaf, the innocent and insightful, summer-lovin
   
 
 
+	
+	
+
+### New Order
+*Released on 2020-10-22, vote average 6.5*
+
+In the near future, a popular uprising in Mexico City interrupts a wedding held at the home of a wealthy family. After the riots have been quashed, they discover the bride has gone missing and plea with the military to help locate her.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/a0tinkp-jQU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Come Play
+*Released on 2020-10-28, vote average 8.7*
+
+A lonely young boy feels different from everyone else. Desperate for a friend, he seeks solace and refuge in his ever-present cell phone and tablet. When a mysterious creature uses the boy’s devices against him to break into our world, his parents must fight to save their son from the monster beyond the screen.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LQwiqhdMQ7g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -407,7 +375,7 @@ The previously untold origins of Olaf, the innocent and insightful, summer-lovin
 	
 
 ### Come Play
-*Released on 2020-10-28, vote average 10*
+*Released on 2020-10-28, vote average 8.7*
 
 A lonely young boy feels different from everyone else. Desperate for a friend, he seeks solace and refuge in his ever-present cell phone and tablet. When a mysterious creature uses the boy’s devices against him to break into our world, his parents must fight to save their son from the monster beyond the screen.
 
@@ -448,6 +416,8 @@ A lonely young boy feels different from everyone else. Desperate for a friend, h
 
 	
 
+	
+	
 	
 
 	
