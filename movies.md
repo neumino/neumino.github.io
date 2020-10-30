@@ -68,16 +68,16 @@ Tanjirō Kamado, joined with Inosuke Hashibira, a boy raised by boars who wears 
 	
 	
 
-### Love and Monsters
-*Released on 2020-10-16, vote average 7.6*
+### Roald Dahl&#39;s The Witches
+*Released on 2020-10-26, vote average 7.3*
 
-Seven years after the Monsterpocalypse, Joel Dawson, along with the rest of humanity, has been living underground ever since giant creatures took control of the land. After reconnecting over radio with his high school girlfriend Aimee, who is now 80 miles away at a coastal colony, Joel begins to fall for her again. As Joel realizes that there’s nothing left for him underground, he decides against all logic to venture out to Aimee, despite all the dangerous monsters that stand in his way.
+In late 1967, a young orphaned boy goes to live with his loving grandma in the rural Alabama town of Demopolis. As the boy and his grandmother encounter some deceptively glamorous but thoroughly diabolical witches, she wisely whisks him away to a seaside resort. Regrettably, they arrive at precisely the same time that the world&#39;s Grand High Witch has gathered.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-19tBHrZwOM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/9nlhmJF5FNI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -90,16 +90,16 @@ Seven years after the Monsterpocalypse, Joel Dawson, along with the rest of huma
 	
 	
 
-### Roald Dahl&#39;s The Witches
-*Released on 2020-10-26, vote average 7.2*
+### Love and Monsters
+*Released on 2020-10-16, vote average 7.7*
 
-In late 1967, a young orphaned boy goes to live with his loving grandma in the rural Alabama town of Demopolis. As the boy and his grandmother encounter some deceptively glamorous but thoroughly diabolical witches, she wisely whisks him away to a seaside resort. Regrettably, they arrive at precisely the same time that the world&#39;s Grand High Witch has gathered.
+Seven years after the Monsterpocalypse, Joel Dawson, along with the rest of humanity, has been living underground ever since giant creatures took control of the land. After reconnecting over radio with his high school girlfriend Aimee, who is now 80 miles away at a coastal colony, Joel begins to fall for her again. As Joel realizes that there’s nothing left for him underground, he decides against all logic to venture out to Aimee, despite all the dangerous monsters that stand in his way.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/9nlhmJF5FNI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-19tBHrZwOM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,8 +134,52 @@ In late 1967, a young orphaned boy goes to live with his loving grandma in the r
 	
 	
 
+### Cadaver
+*Released on 2020-10-22, vote average 5.6*
+
+In the aftermath of a nuclear disaster, a starving family find hope in a charismatic hotel owner. Lured by the prospect of a free dinner, they discover that the evening&#39;s entertainment blurs the lines between performance and reality. Will they wind up the spectators or the spectacle?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Bc8sZbEEO8U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Over the Moon
+*Released on 2020-10-16, vote average 8.1*
+
+A girl builds a rocket to travel to the moon in hopes of meeting the legendary Moon Goddess.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/26DIABx44Tw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Tremors: Shrieker Island
-*Released on 2020-10-20, vote average 7.4*
+*Released on 2020-10-20, vote average 7.3*
 
 Graboids are illegally taken to a new island resort by a rich playboy as a dangerous form of trophy hunting, and Burt Gummer steps up to save the day.
 
@@ -178,57 +222,8 @@ After a whirlwind romance with a wealthy widower, a naïve bride moves to his fa
 	
 	
 
-### Cadaver
-*Released on 2020-10-22, vote average 5.7*
-
-In the aftermath of a nuclear disaster, a starving family find hope in a charismatic hotel owner. Lured by the prospect of a free dinner, they discover that the evening&#39;s entertainment blurs the lines between performance and reality. Will they wind up the spectators or the spectacle?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Bc8sZbEEO8U?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Over the Moon
-*Released on 2020-10-16, vote average 8*
-
-A girl builds a rocket to travel to the moon in hopes of meeting the legendary Moon Goddess.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/26DIABx44Tw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### Once Upon a Snowman
-*Released on 2020-10-23, vote average 7.5*
+*Released on 2020-10-23, vote average 7.4*
 
 The previously untold origins of Olaf, the innocent and insightful, summer-loving snowman are revealed as we follow Olaf’s first steps as he comes to life and searches for his identity in the snowy mountains outside Arendelle.
 
@@ -237,6 +232,33 @@ The previously untold origins of Olaf, the innocent and insightful, summer-lovin
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/JR7OrwlrsP0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Craft: Legacy
+*Released on 2020-10-28, vote average 4.6*
+
+An eclectic foursome of aspiring teenage witches get more than they bargained for as they lean into their newfound powers.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/J60ueFp-jv8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -269,6 +291,45 @@ Rumored to have been lost, Antrum appears as a cursed film from the 1970s. Viewe
 
 
 	
+	
+
+### Holidate
+*Released on 2020-10-28, vote average 7.5*
+
+Fed up with being single on holidays, two strangers agree to be each other&#39;s platonic plus-ones all year long, only to catch real feelings along the way.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hxaaAoI57fk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### New Order
+*Released on 2020-10-22, vote average 6.4*
+
+In the near future, a popular uprising in Mexico City interrupts a wedding held at the home of a wealthy family. After the riots have been quashed, they discover the bride has gone missing and plea with the military to help locate her.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/a0tinkp-jQU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -296,29 +357,10 @@ A lonely young boy feels different from everyone else. Desperate for a friend, h
 
 
 	
-	
-
-### New Order
-*Released on 2020-10-22, vote average 7.1*
-
-In the near future, a popular uprising in Mexico City interrupts a wedding held at the home of a wealthy family. After the riots have been quashed, they discover the bride has gone missing and plea with the military to help locate her.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/a0tinkp-jQU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
-	
-	
 	
 
   
@@ -333,7 +375,7 @@ In the near future, a popular uprising in Mexico City interrupts a wedding held 
 	
 
 ### The Empty Man
-*Released on 2020-10-22, vote average 5.8*
+*Released on 2020-10-22, vote average 5.4*
 
 After a group of teens from a small Midwestern town begin to mysteriously disappear, the locals believe it is the work of an urban legend known as The Empty Man. As a retired cop investigates and struggles to make sense of the stories, he discovers a secretive group and their attempts to summon a horrific, mystical entity, and soon his life—and the lives of those close to him—are in grave danger.
 
@@ -345,35 +387,6 @@ After a group of teens from a small Midwestern town begin to mysteriously disapp
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
-	
-
-### Rooting for Roona
-*Released on 2020-10-15, vote average 7.1*
-
-In rural India, a child with hydrocephalus gets a chance at life-changing surgery after her photos go viral. This documentary charts her journey.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IA8GXpQDtSA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -414,8 +427,6 @@ In rural India, a child with hydrocephalus gets a chance at life-changing surger
 
 	
 
-	
-	
 	
 
 	
