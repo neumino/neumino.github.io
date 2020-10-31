@@ -46,28 +46,6 @@ The work of billionaire tech CEO Donovan Chalmers is so valuable that he hires m
 	
 	
 
-### Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train
-*Released on 2020-10-16, vote average 7.5*
-
-Tanjirō Kamado, joined with Inosuke Hashibira, a boy raised by boars who wears a boar&#39;s head, and Zenitsu Agatsuma, a scared boy who reveals his true power when he sleeps, boards the Infinity Train on a new mission with the Fire Hashira, Kyōjurō Rengoku, to defeat a demon who has been tormenting the people and killing the demon slayers who oppose it!
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ATJYac_dORw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Roald Dahl&#39;s The Witches
 *Released on 2020-10-26, vote average 7.3*
 
@@ -78,28 +56,6 @@ In late 1967, a young orphaned boy goes to live with his loving grandma in the r
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/9nlhmJF5FNI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Love and Monsters
-*Released on 2020-10-16, vote average 7.7*
-
-Seven years after the Monsterpocalypse, Joel Dawson, along with the rest of humanity, has been living underground ever since giant creatures took control of the land. After reconnecting over radio with his high school girlfriend Aimee, who is now 80 miles away at a coastal colony, Joel begins to fall for her again. As Joel realizes that there’s nothing left for him underground, he decides against all logic to venture out to Aimee, despite all the dangerous monsters that stand in his way.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-19tBHrZwOM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -156,16 +112,16 @@ In the aftermath of a nuclear disaster, a starving family find hope in a charism
 	
 	
 
-### Over the Moon
-*Released on 2020-10-16, vote average 8.1*
+### Once Upon a Snowman
+*Released on 2020-10-23, vote average 7.4*
 
-A girl builds a rocket to travel to the moon in hopes of meeting the legendary Moon Goddess.
+The previously untold origins of Olaf, the innocent and insightful, summer-loving snowman are revealed as we follow Olaf’s first steps as he comes to life and searches for his identity in the snowy mountains outside Arendelle.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/26DIABx44Tw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/JR7OrwlrsP0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -200,57 +156,8 @@ Graboids are illegally taken to a new island resort by a rich playboy as a dange
 	
 	
 
-### Rebecca
-*Released on 2020-10-16, vote average 6.4*
-
-After a whirlwind romance with a wealthy widower, a naïve bride moves to his family estate but can&#39;t escape the haunting shadow of his late wife.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LFVhB54UqvQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Once Upon a Snowman
-*Released on 2020-10-23, vote average 7.4*
-
-The previously untold origins of Olaf, the innocent and insightful, summer-loving snowman are revealed as we follow Olaf’s first steps as he comes to life and searches for his identity in the snowy mountains outside Arendelle.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/JR7OrwlrsP0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### The Craft: Legacy
-*Released on 2020-10-28, vote average 4.6*
+*Released on 2020-10-28, vote average 6.9*
 
 An eclectic foursome of aspiring teenage witches get more than they bargained for as they lean into their newfound powers.
 
@@ -259,6 +166,28 @@ An eclectic foursome of aspiring teenage witches get more than they bargained fo
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/J60ueFp-jv8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Holidate
+*Released on 2020-10-28, vote average 7.3*
+
+Fed up with being single on holidays, two strangers agree to be each other&#39;s platonic plus-ones all year long, only to catch real feelings along the way.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hxaaAoI57fk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -293,20 +222,25 @@ Rumored to have been lost, Antrum appears as a cursed film from the 1970s. Viewe
 	
 	
 
-### Holidate
-*Released on 2020-10-28, vote average 7.5*
+### Secrets of the Saqqara Tomb
+*Released on 2020-10-28, vote average 6*
 
-Fed up with being single on holidays, two strangers agree to be each other&#39;s platonic plus-ones all year long, only to catch real feelings along the way.
+This documentary follows a team of local archaeologists excavates never before explored passageways, shafts, and tombs, piecing together the secrets of Egypt’s most significant find in almost 50 years in Saqqara.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/hxaaAoI57fk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/77_UeHKMB-I?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -337,16 +271,16 @@ In the near future, a popular uprising in Mexico City interrupts a wedding held 
 	
 	
 
-### Come Play
-*Released on 2020-10-28, vote average 9*
+### Spell
+*Released on 2020-10-30, vote average 6.5*
 
-A lonely young boy feels different from everyone else. Desperate for a friend, he seeks solace and refuge in his ever-present cell phone and tablet. When a mysterious creature uses the boy’s devices against him to break into our world, his parents must fight to save their son from the monster beyond the screen.
+A father survives a plane crash in rural Appalachia, but becomes suspicious of the elderly couple who take him in to nurse him back to health with the ancient remedies.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/LQwiqhdMQ7g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/fTznGVd8nyo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -393,6 +327,55 @@ After a group of teens from a small Midwestern town begin to mysteriously disapp
   
 
 
+	
+	
+
+### Come Play
+*Released on 2020-10-28, vote average 9*
+
+A lonely young boy feels different from everyone else. Desperate for a friend, he seeks solace and refuge in his ever-present cell phone and tablet. When a mysterious creature uses the boy’s devices against him to break into our world, his parents must fight to save their son from the monster beyond the screen.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LQwiqhdMQ7g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Last Moment of Clarity
+*Released on 2020-10-29, vote average 6.7*
+
+A normal New Yorker&#39;s life is upended when his girlfriend is murdered by the Bulgarian mob. He flees to Paris to hide from her killers. But three years later, he sees a similar looking woman on the silver screen. Obsession with past love takes Sam to Los Angeles to look for answers, only to put him back into the sights of the Bulgarians. An updated Hitchcockian thriller in the vein of Vertigo and Rear Window
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Ritye-tf1-g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -418,7 +401,7 @@ After a group of teens from a small Midwestern town begin to mysteriously disapp
 	
 
 	
-
+	
 	
 
 	
@@ -427,6 +410,10 @@ After a group of teens from a small Midwestern town begin to mysteriously disapp
 
 	
 
+	
+
+	
+	
 	
 
 	
