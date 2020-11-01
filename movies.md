@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Hard Kill
-*Released on 2020-10-23, vote average 4.2*
+*Released on 2020-10-23, vote average 4.5*
 
 The work of billionaire tech CEO Donovan Chalmers is so valuable that he hires mercenaries to protect it, and a terrorist group kidnaps his daughter just to get it.
 
@@ -47,7 +47,7 @@ The work of billionaire tech CEO Donovan Chalmers is so valuable that he hires m
 	
 
 ### Roald Dahl&#39;s The Witches
-*Released on 2020-10-26, vote average 7.3*
+*Released on 2020-10-26, vote average 7.2*
 
 In late 1967, a young orphaned boy goes to live with his loving grandma in the rural Alabama town of Demopolis. As the boy and his grandmother encounter some deceptively glamorous but thoroughly diabolical witches, she wisely whisks him away to a seaside resort. Regrettably, they arrive at precisely the same time that the world&#39;s Grand High Witch has gathered.
 
@@ -113,7 +113,7 @@ In the aftermath of a nuclear disaster, a starving family find hope in a charism
 	
 
 ### Once Upon a Snowman
-*Released on 2020-10-23, vote average 7.4*
+*Released on 2020-10-23, vote average 7.5*
 
 The previously untold origins of Olaf, the innocent and insightful, summer-loving snowman are revealed as we follow Olaf’s first steps as he comes to life and searches for his identity in the snowy mountains outside Arendelle.
 
@@ -179,7 +179,7 @@ An eclectic foursome of aspiring teenage witches get more than they bargained fo
 	
 
 ### Holidate
-*Released on 2020-10-28, vote average 7.3*
+*Released on 2020-10-28, vote average 7.4*
 
 Fed up with being single on holidays, two strangers agree to be each other&#39;s platonic plus-ones all year long, only to catch real feelings along the way.
 
@@ -200,8 +200,30 @@ Fed up with being single on holidays, two strangers agree to be each other&#39;s
 	
 	
 
+### Secrets of the Saqqara Tomb
+*Released on 2020-10-28, vote average 7*
+
+This documentary follows a team of local archaeologists excavates never before explored passageways, shafts, and tombs, piecing together the secrets of Egypt’s most significant find in almost 50 years in Saqqara.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/77_UeHKMB-I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Antrum
-*Released on 2020-10-23, vote average 6.5*
+*Released on 2020-10-23, vote average 6.4*
 
 Rumored to have been lost, Antrum appears as a cursed film from the 1970s. Viewers are warned to proceed with caution. It’s said to be a story about a young boy and girl who enter the forest in an attempt to save the soul of their recently deceased pet. They journey to “The Antrum,” they very spot the devil landed after being cast out of heaven. There, the children begin to dig a hole to hell.
 
@@ -220,18 +242,23 @@ Rumored to have been lost, Antrum appears as a cursed film from the 1970s. Viewe
 
 
 	
+
+  
+
+
+	
 	
 
-### Secrets of the Saqqara Tomb
-*Released on 2020-10-28, vote average 6*
+### Spell
+*Released on 2020-10-30, vote average 6.3*
 
-This documentary follows a team of local archaeologists excavates never before explored passageways, shafts, and tombs, piecing together the secrets of Egypt’s most significant find in almost 50 years in Saqqara.
+A father survives a plane crash in rural Appalachia, but becomes suspicious of the elderly couple who take him in to nurse him back to health with the ancient remedies.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/77_UeHKMB-I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/fTznGVd8nyo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -269,37 +296,27 @@ In the near future, a popular uprising in Mexico City interrupts a wedding held 
 
 
 	
+
+  
+
+
+	
 	
 
-### Spell
-*Released on 2020-10-30, vote average 6.5*
+### Come Play
+*Released on 2020-10-28, vote average 9.2*
 
-A father survives a plane crash in rural Appalachia, but becomes suspicious of the elderly couple who take him in to nurse him back to health with the ancient remedies.
+A lonely young boy feels different from everyone else. Desperate for a friend, he seeks solace and refuge in his ever-present cell phone and tablet. When a mysterious creature uses the boy’s devices against him to break into our world, his parents must fight to save their son from the monster beyond the screen.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/fTznGVd8nyo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/LQwiqhdMQ7g?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -328,22 +345,10 @@ After a group of teens from a small Midwestern town begin to mysteriously disapp
 
 
 	
-	
 
-### Come Play
-*Released on 2020-10-28, vote average 9*
+  
 
-A lonely young boy feels different from everyone else. Desperate for a friend, he seeks solace and refuge in his ever-present cell phone and tablet. When a mysterious creature uses the boy’s devices against him to break into our world, his parents must fight to save their son from the monster beyond the screen.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LQwiqhdMQ7g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -352,25 +357,20 @@ A lonely young boy feels different from everyone else. Desperate for a friend, h
 	
 	
 
-### Last Moment of Clarity
-*Released on 2020-10-29, vote average 6.7*
+### Rogue City
+*Released on 2020-10-30, vote average 5.8*
 
-A normal New Yorker&#39;s life is upended when his girlfriend is murdered by the Bulgarian mob. He flees to Paris to hide from her killers. But three years later, he sees a similar looking woman on the silver screen. Obsession with past love takes Sam to Los Angeles to look for answers, only to put him back into the sights of the Bulgarians. An updated Hitchcockian thriller in the vein of Vertigo and Rear Window
+Caught in the crosshairs of police corruption and Marseille’s warring gangs, a loyal cop must protect his squad by taking matters into his own hands.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Ritye-tf1-g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/w1Ww62eIwOI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -385,6 +385,14 @@ A normal New Yorker&#39;s life is upended when his girlfriend is murdered by the
 	
 
 	
+	
+	
+
+	
+
+	
+	
+	
 
 	
 
@@ -401,19 +409,11 @@ A normal New Yorker&#39;s life is upended when his girlfriend is murdered by the
 	
 
 	
-	
-	
 
 	
 
 	
 
-	
-
-	
-
-	
-	
 	
 
 	
