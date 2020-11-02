@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Hard Kill
-*Released on 2020-10-23, vote average 4.5*
+### Roald Dahl&#39;s The Witches
+*Released on 2020-10-26, vote average 7.2*
 
-The work of billionaire tech CEO Donovan Chalmers is so valuable that he hires mercenaries to protect it, and a terrorist group kidnaps his daughter just to get it.
+In late 1967, a young orphaned boy goes to live with his loving grandma in the rural Alabama town of Demopolis. As the boy and his grandmother encounter some deceptively glamorous but thoroughly diabolical witches, she wisely whisks him away to a seaside resort. Regrettably, they arrive at precisely the same time that the world&#39;s Grand High Witch has gathered.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/7Y6-w5Psupw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/9nlhmJF5FNI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ The work of billionaire tech CEO Donovan Chalmers is so valuable that he hires m
 	
 	
 
-### Roald Dahl&#39;s The Witches
-*Released on 2020-10-26, vote average 7.2*
+### Hard Kill
+*Released on 2020-10-23, vote average 4.3*
 
-In late 1967, a young orphaned boy goes to live with his loving grandma in the rural Alabama town of Demopolis. As the boy and his grandmother encounter some deceptively glamorous but thoroughly diabolical witches, she wisely whisks him away to a seaside resort. Regrettably, they arrive at precisely the same time that the world&#39;s Grand High Witch has gathered.
+The work of billionaire tech CEO Donovan Chalmers is so valuable that he hires mercenaries to protect it, and a terrorist group kidnaps his daughter just to get it.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/9nlhmJF5FNI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/7Y6-w5Psupw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -90,16 +90,16 @@ In late 1967, a young orphaned boy goes to live with his loving grandma in the r
 	
 	
 
-### Cadaver
-*Released on 2020-10-22, vote average 5.6*
+### Once Upon a Snowman
+*Released on 2020-10-23, vote average 7.6*
 
-In the aftermath of a nuclear disaster, a starving family find hope in a charismatic hotel owner. Lured by the prospect of a free dinner, they discover that the evening&#39;s entertainment blurs the lines between performance and reality. Will they wind up the spectators or the spectacle?
+The previously untold origins of Olaf, the innocent and insightful, summer-loving snowman are revealed as we follow Olaf’s first steps as he comes to life and searches for his identity in the snowy mountains outside Arendelle.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Bc8sZbEEO8U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/JR7OrwlrsP0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,16 +112,16 @@ In the aftermath of a nuclear disaster, a starving family find hope in a charism
 	
 	
 
-### Once Upon a Snowman
-*Released on 2020-10-23, vote average 7.5*
+### Cadaver
+*Released on 2020-10-22, vote average 5.5*
 
-The previously untold origins of Olaf, the innocent and insightful, summer-loving snowman are revealed as we follow Olaf’s first steps as he comes to life and searches for his identity in the snowy mountains outside Arendelle.
+In the aftermath of a nuclear disaster, a starving family find hope in a charismatic hotel owner. Lured by the prospect of a free dinner, they discover that the evening&#39;s entertainment blurs the lines between performance and reality. Will they wind up the spectators or the spectacle?
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/JR7OrwlrsP0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Bc8sZbEEO8U?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -156,30 +156,8 @@ Graboids are illegally taken to a new island resort by a rich playboy as a dange
 	
 	
 
-### The Craft: Legacy
-*Released on 2020-10-28, vote average 6.9*
-
-An eclectic foursome of aspiring teenage witches get more than they bargained for as they lean into their newfound powers.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/J60ueFp-jv8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Holidate
-*Released on 2020-10-28, vote average 7.4*
+*Released on 2020-10-28, vote average 7.5*
 
 Fed up with being single on holidays, two strangers agree to be each other&#39;s platonic plus-ones all year long, only to catch real feelings along the way.
 
@@ -200,8 +178,30 @@ Fed up with being single on holidays, two strangers agree to be each other&#39;s
 	
 	
 
+### The Craft: Legacy
+*Released on 2020-10-28, vote average 6.8*
+
+An eclectic foursome of aspiring teenage witches get more than they bargained for as they lean into their newfound powers.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/J60ueFp-jv8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Secrets of the Saqqara Tomb
-*Released on 2020-10-28, vote average 7*
+*Released on 2020-10-28, vote average 7.2*
 
 This documentary follows a team of local archaeologists excavates never before explored passageways, shafts, and tombs, piecing together the secrets of Egypt’s most significant find in almost 50 years in Saqqara.
 
@@ -242,15 +242,10 @@ Rumored to have been lost, Antrum appears as a cursed film from the 1970s. Viewe
 
 
 	
-
-  
-
-
-	
 	
 
 ### Spell
-*Released on 2020-10-30, vote average 6.3*
+*Released on 2020-10-30, vote average 7.3*
 
 A father survives a plane crash in rural Appalachia, but becomes suspicious of the elderly couple who take him in to nurse him back to health with the ancient remedies.
 
@@ -268,6 +263,55 @@ A father survives a plane crash in rural Appalachia, but becomes suspicious of t
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Rogue City
+*Released on 2020-10-30, vote average 6.2*
+
+Caught in the crosshairs of police corruption and Marseille’s warring gangs, a loyal cop must protect his squad by taking matters into his own hands.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/w1Ww62eIwOI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Day of the Lord
+*Released on 2020-10-30, vote average 5*
+
+In this horror movie, a retired priest haunted by his sins is pulled back into the darkness when a friend begs him to help his possessed daughter.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EkSskibuEkU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -296,6 +340,8 @@ In the near future, a popular uprising in Mexico City interrupts a wedding held 
 
 
 	
+	
+	
 
   
 
@@ -304,7 +350,7 @@ In the near future, a popular uprising in Mexico City interrupts a wedding held 
 	
 
 ### Come Play
-*Released on 2020-10-28, vote average 9.2*
+*Released on 2020-10-28, vote average 8.5*
 
 A lonely young boy feels different from everyone else. Desperate for a friend, he seeks solace and refuge in his ever-present cell phone and tablet. When a mysterious creature uses the boy’s devices against him to break into our world, his parents must fight to save their son from the monster beyond the screen.
 
@@ -345,28 +391,18 @@ After a group of teens from a small Midwestern town begin to mysteriously disapp
 
 
 	
-
-  
-
-
 	
 
-  
+### Citizen Bio
+*Released on 2020-10-30, vote average 6*
 
-
-	
-	
-
-### Rogue City
-*Released on 2020-10-30, vote average 5.8*
-
-Caught in the crosshairs of police corruption and Marseille’s warring gangs, a loyal cop must protect his squad by taking matters into his own hands.
+The stories of four of America’s most notorious biohackers and their relationships with Aaron Traywick, a self-proclaimed biohacker whose life took a tragic turn when he was mysteriously found dead at a meditation spa at the age of 28.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/w1Ww62eIwOI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/moyabKVvY1c?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -381,17 +417,30 @@ Caught in the crosshairs of police corruption and Marseille’s warring gangs, a
 
 
 	
+	
+
+### I Believe
+*Released on 2020-11-05, vote average 1*
+
+A 9 year old boy experiences God&#39;s power in a supernatural way.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/amVlQozDJkI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
 	
-	
-	
 
 	
 
-	
-	
 	
 
 	
