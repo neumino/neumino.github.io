@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Roald Dahl&#39;s The Witches
-*Released on 2020-10-26, vote average 7.2*
+### Hard Kill
+*Released on 2020-10-23, vote average 4.3*
 
-In late 1967, a young orphaned boy goes to live with his loving grandma in the rural Alabama town of Demopolis. As the boy and his grandmother encounter some deceptively glamorous but thoroughly diabolical witches, she wisely whisks him away to a seaside resort. Regrettably, they arrive at precisely the same time that the world&#39;s Grand High Witch has gathered.
+The work of billionaire tech CEO Donovan Chalmers is so valuable that he hires mercenaries to protect it, and a terrorist group kidnaps his daughter just to get it.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/9nlhmJF5FNI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/7Y6-w5Psupw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ In late 1967, a young orphaned boy goes to live with his loving grandma in the r
 	
 	
 
-### Hard Kill
-*Released on 2020-10-23, vote average 4.3*
+### Roald Dahl&#39;s The Witches
+*Released on 2020-10-26, vote average 7.2*
 
-The work of billionaire tech CEO Donovan Chalmers is so valuable that he hires mercenaries to protect it, and a terrorist group kidnaps his daughter just to get it.
+In late 1967, a young orphaned boy goes to live with his loving grandma in the rural Alabama town of Demopolis. As the boy and his grandmother encounter some deceptively glamorous but thoroughly diabolical witches, she wisely whisks him away to a seaside resort. Regrettably, they arrive at precisely the same time that the world&#39;s Grand High Witch has gathered.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/7Y6-w5Psupw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/9nlhmJF5FNI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -157,7 +157,7 @@ Graboids are illegally taken to a new island resort by a rich playboy as a dange
 	
 
 ### Holidate
-*Released on 2020-10-28, vote average 7.5*
+*Released on 2020-10-28, vote average 7.4*
 
 Fed up with being single on holidays, two strangers agree to be each other&#39;s platonic plus-ones all year long, only to catch real feelings along the way.
 
@@ -179,7 +179,7 @@ Fed up with being single on holidays, two strangers agree to be each other&#39;s
 	
 
 ### The Craft: Legacy
-*Released on 2020-10-28, vote average 6.8*
+*Released on 2020-10-28, vote average 6.7*
 
 An eclectic foursome of aspiring teenage witches get more than they bargained for as they lean into their newfound powers.
 
@@ -201,7 +201,7 @@ An eclectic foursome of aspiring teenage witches get more than they bargained fo
 	
 
 ### Secrets of the Saqqara Tomb
-*Released on 2020-10-28, vote average 7.2*
+*Released on 2020-10-28, vote average 7.5*
 
 This documentary follows a team of local archaeologists excavates never before explored passageways, shafts, and tombs, piecing together the secrets of Egypt’s most significant find in almost 50 years in Saqqara.
 
@@ -223,7 +223,7 @@ This documentary follows a team of local archaeologists excavates never before e
 	
 
 ### Antrum
-*Released on 2020-10-23, vote average 6.4*
+*Released on 2020-10-23, vote average 6.3*
 
 Rumored to have been lost, Antrum appears as a cursed film from the 1970s. Viewers are warned to proceed with caution. It’s said to be a story about a young boy and girl who enter the forest in an attempt to save the soul of their recently deceased pet. They journey to “The Antrum,” they very spot the devil landed after being cast out of heaven. There, the children begin to dig a hole to hell.
 
@@ -232,6 +232,28 @@ Rumored to have been lost, Antrum appears as a cursed film from the 1970s. Viewe
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/faQ828XMCc4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Rogue City
+*Released on 2020-10-30, vote average 6*
+
+Caught in the crosshairs of police corruption and Marseille’s warring gangs, a loyal cop must protect his squad by taking matters into his own hands.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/w1Ww62eIwOI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -269,23 +291,18 @@ A father survives a plane crash in rural Appalachia, but becomes suspicious of t
 
 
 	
-
-  
-
-
-	
 	
 
-### Rogue City
-*Released on 2020-10-30, vote average 6.2*
+### Come Play
+*Released on 2020-10-28, vote average 8.1*
 
-Caught in the crosshairs of police corruption and Marseille’s warring gangs, a loyal cop must protect his squad by taking matters into his own hands.
+A lonely young boy feels different from everyone else. Desperate for a friend, he seeks solace and refuge in his ever-present cell phone and tablet. When a mysterious creature uses the boy’s devices against him to break into our world, his parents must fight to save their son from the monster beyond the screen.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/w1Ww62eIwOI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/LQwiqhdMQ7g?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -299,7 +316,7 @@ Caught in the crosshairs of police corruption and Marseille’s warring gangs, a
 	
 
 ### The Day of the Lord
-*Released on 2020-10-30, vote average 5*
+*Released on 2020-10-30, vote average 5.9*
 
 In this horror movie, a retired priest haunted by his sins is pulled back into the darkness when a friend begs him to help his possessed daughter.
 
@@ -321,7 +338,7 @@ In this horror movie, a retired priest haunted by his sins is pulled back into t
 	
 
 ### New Order
-*Released on 2020-10-22, vote average 6.4*
+*Released on 2020-10-22, vote average 6.6*
 
 In the near future, a popular uprising in Mexico City interrupts a wedding held at the home of a wealthy family. After the riots have been quashed, they discover the bride has gone missing and plea with the military to help locate her.
 
@@ -341,24 +358,17 @@ In the near future, a popular uprising in Mexico City interrupts a wedding held 
 
 	
 	
-	
 
-  
+### Candy Cane Christmas
+*Released on 2020-10-31, vote average 8*
 
-
-	
-	
-
-### Come Play
-*Released on 2020-10-28, vote average 8.5*
-
-A lonely young boy feels different from everyone else. Desperate for a friend, he seeks solace and refuge in his ever-present cell phone and tablet. When a mysterious creature uses the boy’s devices against him to break into our world, his parents must fight to save their son from the monster beyond the screen.
+Since childhood, Candy Cane Lane has been Phoebe&#39;s favorite Christmas tradition. This Christmas, however, the neighborhood decides to skip the decoration, crushing Phoebe&#39;s spirits. As Phoebe&#39;s searching for a new tradition to lift her holiday spirits, she realizes that it&#39;s not the traditions we cherish, but the people we spend them with. As Phoebe is preparing for her new tradition, she stumbles upon the final thing her Christmas was missing: love!
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/LQwiqhdMQ7g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/fj0UaIv7ls4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -393,19 +403,26 @@ After a group of teens from a small Midwestern town begin to mysteriously disapp
 	
 	
 
-### Citizen Bio
-*Released on 2020-10-30, vote average 6*
+### Haunting of the Mary Celeste
+*Released on 2020-10-23, vote average 5.7*
 
-The stories of four of America’s most notorious biohackers and their relationships with Aaron Traywick, a self-proclaimed biohacker whose life took a tragic turn when he was mysteriously found dead at a meditation spa at the age of 28.
+Rachel, a concerned researcher, and her team have set out to sea to prove that the disappearance of a family and crew from a merchant ship was for reasons having to do with the supernatural. Her theory that those on the Mary Celeste vanished into a &#34;rift&#34; between dimensions proves true as the boat breaks down and her crew begins to vanish one by one.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/moyabKVvY1c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/43-qprAq3mE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -420,7 +437,7 @@ The stories of four of America’s most notorious biohackers and their relations
 	
 
 ### I Believe
-*Released on 2020-11-05, vote average 1*
+*Released on 2020-11-05, vote average 3.8*
 
 A 9 year old boy experiences God&#39;s power in a supernatural way.
 
