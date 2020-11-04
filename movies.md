@@ -69,7 +69,7 @@ In late 1967, a young orphaned boy goes to live with his loving grandma in the r
 	
 
 ### Borat Subsequent Moviefilm
-*Released on 2020-10-23, vote average 6.8*
+*Released on 2020-10-23, vote average 6.7*
 
 14 years after making a film about his journey across the USA, Borat risks life and limb when he returns to the United States with his young daughter, and reveals more about the culture, the COVID-19 pandemic, and the political elections.
 
@@ -91,7 +91,7 @@ In late 1967, a young orphaned boy goes to live with his loving grandma in the r
 	
 
 ### Once Upon a Snowman
-*Released on 2020-10-23, vote average 7.6*
+*Released on 2020-10-23, vote average 7.7*
 
 The previously untold origins of Olaf, the innocent and insightful, summer-loving snowman are revealed as we follow Olaf’s first steps as he comes to life and searches for his identity in the snowy mountains outside Arendelle.
 
@@ -134,30 +134,8 @@ In the aftermath of a nuclear disaster, a starving family find hope in a charism
 	
 	
 
-### Tremors: Shrieker Island
-*Released on 2020-10-20, vote average 7.3*
-
-Graboids are illegally taken to a new island resort by a rich playboy as a dangerous form of trophy hunting, and Burt Gummer steps up to save the day.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/SJv6PticavQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Holidate
-*Released on 2020-10-28, vote average 7.4*
+*Released on 2020-10-28, vote average 7.3*
 
 Fed up with being single on holidays, two strangers agree to be each other&#39;s platonic plus-ones all year long, only to catch real feelings along the way.
 
@@ -201,7 +179,7 @@ An eclectic foursome of aspiring teenage witches get more than they bargained fo
 	
 
 ### Secrets of the Saqqara Tomb
-*Released on 2020-10-28, vote average 7.5*
+*Released on 2020-10-28, vote average 7.4*
 
 This documentary follows a team of local archaeologists excavates never before explored passageways, shafts, and tombs, piecing together the secrets of Egypt’s most significant find in almost 50 years in Saqqara.
 
@@ -245,7 +223,7 @@ Rumored to have been lost, Antrum appears as a cursed film from the 1970s. Viewe
 	
 
 ### Rogue City
-*Released on 2020-10-30, vote average 6*
+*Released on 2020-10-30, vote average 6.1*
 
 Caught in the crosshairs of police corruption and Marseille’s warring gangs, a loyal cop must protect his squad by taking matters into his own hands.
 
@@ -266,35 +244,8 @@ Caught in the crosshairs of police corruption and Marseille’s warring gangs, a
 	
 	
 
-### Spell
-*Released on 2020-10-30, vote average 7.3*
-
-A father survives a plane crash in rural Appalachia, but becomes suspicious of the elderly couple who take him in to nurse him back to health with the ancient remedies.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/fTznGVd8nyo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### Come Play
-*Released on 2020-10-28, vote average 8.1*
+*Released on 2020-10-28, vote average 7.8*
 
 A lonely young boy feels different from everyone else. Desperate for a friend, he seeks solace and refuge in his ever-present cell phone and tablet. When a mysterious creature uses the boy’s devices against him to break into our world, his parents must fight to save their son from the monster beyond the screen.
 
@@ -303,28 +254,6 @@ A lonely young boy feels different from everyone else. Desperate for a friend, h
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/LQwiqhdMQ7g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Day of the Lord
-*Released on 2020-10-30, vote average 5.9*
-
-In this horror movie, a retired priest haunted by his sins is pulled back into the darkness when a friend begs him to help his possessed daughter.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EkSskibuEkU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -359,38 +288,16 @@ In the near future, a popular uprising in Mexico City interrupts a wedding held 
 	
 	
 
-### Candy Cane Christmas
-*Released on 2020-10-31, vote average 8*
+### Spell
+*Released on 2020-10-30, vote average 6.9*
 
-Since childhood, Candy Cane Lane has been Phoebe&#39;s favorite Christmas tradition. This Christmas, however, the neighborhood decides to skip the decoration, crushing Phoebe&#39;s spirits. As Phoebe&#39;s searching for a new tradition to lift her holiday spirits, she realizes that it&#39;s not the traditions we cherish, but the people we spend them with. As Phoebe is preparing for her new tradition, she stumbles upon the final thing her Christmas was missing: love!
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/fj0UaIv7ls4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Empty Man
-*Released on 2020-10-22, vote average 5.4*
-
-After a group of teens from a small Midwestern town begin to mysteriously disappear, the locals believe it is the work of an urban legend known as The Empty Man. As a retired cop investigates and struggles to make sense of the stories, he discovers a secretive group and their attempts to summon a horrific, mystical entity, and soon his life—and the lives of those close to him—are in grave danger.
+A father survives a plane crash in rural Appalachia, but becomes suspicious of the elderly couple who take him in to nurse him back to health with the ancient remedies.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/tk6u9X1bW30?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/fTznGVd8nyo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -424,6 +331,82 @@ Rachel, a concerned researcher, and her team have set out to sea to prove that t
 
 	
 	
+	
+
+  
+
+
+	
+	
+
+### The Day of the Lord
+*Released on 2020-10-30, vote average 5.5*
+
+In this horror movie, a retired priest haunted by his sins is pulled back into the darkness when a friend begs him to help his possessed daughter.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EkSskibuEkU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Empty Man
+*Released on 2020-10-22, vote average 5.4*
+
+After a group of teens from a small Midwestern town begin to mysteriously disappear, the locals believe it is the work of an urban legend known as The Empty Man. As a retired cop investigates and struggles to make sense of the stories, he discovers a secretive group and their attempts to summon a horrific, mystical entity, and soon his life—and the lives of those close to him—are in grave danger.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/tk6u9X1bW30?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Candy Cane Christmas
+*Released on 2020-10-31, vote average 7.5*
+
+Since childhood, Candy Cane Lane has been Phoebe&#39;s favorite Christmas tradition. This Christmas, however, the neighborhood decides to skip the decoration, crushing Phoebe&#39;s spirits. As Phoebe&#39;s searching for a new tradition to lift her holiday spirits, she realizes that it&#39;s not the traditions we cherish, but the people we spend them with. As Phoebe is preparing for her new tradition, she stumbles upon the final thing her Christmas was missing: love!
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fj0UaIv7ls4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -463,7 +446,45 @@ A 9 year old boy experiences God&#39;s power in a supernatural way.
 	
 
 	
+	
 
+### Superdeep
+*Released on 2020-11-04, vote average 9*
+
+The film is based on real events when, in the 1970s, the deepest well in the world with a depth of more than 12 thousand meters was drilled in Murmansk Region for research purposes. During drilling, seismic sensors began to pick up strange sounds, an explosion occurred that led to mystical events.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nQoIQD6ylv4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+	
+
+### Operation Christmas Drop
+*Released on 2020-11-05, vote average 8*
+
+While gathering evidence to support closing a tropical U.S. Air Force base, a congressional aide warms to its generous captain.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/JTHWAQG6Gxw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -475,9 +496,7 @@ A 9 year old boy experiences God&#39;s power in a supernatural way.
 	
 
 	
-
 	
-
 	
 
 	
