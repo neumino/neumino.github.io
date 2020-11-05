@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Hard Kill
-*Released on 2020-10-23, vote average 4.3*
+*Released on 2020-10-23, vote average 4.4*
 
 The work of billionaire tech CEO Donovan Chalmers is so valuable that he hires mercenaries to protect it, and a terrorist group kidnaps his daughter just to get it.
 
@@ -47,7 +47,7 @@ The work of billionaire tech CEO Donovan Chalmers is so valuable that he hires m
 	
 
 ### Roald Dahl&#39;s The Witches
-*Released on 2020-10-26, vote average 7.2*
+*Released on 2020-10-26, vote average 7.1*
 
 In late 1967, a young orphaned boy goes to live with his loving grandma in the rural Alabama town of Demopolis. As the boy and his grandmother encounter some deceptively glamorous but thoroughly diabolical witches, she wisely whisks him away to a seaside resort. Regrettably, they arrive at precisely the same time that the world&#39;s Grand High Witch has gathered.
 
@@ -56,28 +56,6 @@ In late 1967, a young orphaned boy goes to live with his loving grandma in the r
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/9nlhmJF5FNI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Borat Subsequent Moviefilm
-*Released on 2020-10-23, vote average 6.7*
-
-14 years after making a film about his journey across the USA, Borat risks life and limb when he returns to the United States with his young daughter, and reveals more about the culture, the COVID-19 pandemic, and the political elections.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Xi5L8Lucx3s?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,16 +90,38 @@ The previously untold origins of Olaf, the innocent and insightful, summer-lovin
 	
 	
 
-### Cadaver
-*Released on 2020-10-22, vote average 5.5*
+### Borat Subsequent Moviefilm
+*Released on 2020-10-23, vote average 6.7*
 
-In the aftermath of a nuclear disaster, a starving family find hope in a charismatic hotel owner. Lured by the prospect of a free dinner, they discover that the evening&#39;s entertainment blurs the lines between performance and reality. Will they wind up the spectators or the spectacle?
+14 years after making a film about his journey across the USA, Borat risks life and limb when he returns to the United States with his young daughter, and reveals more about the culture, the COVID-19 pandemic, and the political elections.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Bc8sZbEEO8U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/0Rsa4U8mqkw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### I Believe
+*Released on 2020-11-05, vote average 3.8*
+
+A 9 year old boy experiences God&#39;s power in a supernatural way.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/amVlQozDJkI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -156,8 +156,30 @@ Fed up with being single on holidays, two strangers agree to be each other&#39;s
 	
 	
 
+### Cadaver
+*Released on 2020-10-22, vote average 5.5*
+
+In the aftermath of a nuclear disaster, a starving family find hope in a charismatic hotel owner. Lured by the prospect of a free dinner, they discover that the evening&#39;s entertainment blurs the lines between performance and reality. Will they wind up the spectators or the spectacle?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Bc8sZbEEO8U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Craft: Legacy
-*Released on 2020-10-28, vote average 6.7*
+*Released on 2020-10-28, vote average 6.5*
 
 An eclectic foursome of aspiring teenage witches get more than they bargained for as they lean into their newfound powers.
 
@@ -200,8 +222,30 @@ This documentary follows a team of local archaeologists excavates never before e
 	
 	
 
+### Rogue City
+*Released on 2020-10-30, vote average 6.2*
+
+Caught in the crosshairs of police corruption and Marseille’s warring gangs, a loyal cop must protect his squad by taking matters into his own hands.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/w1Ww62eIwOI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Antrum
-*Released on 2020-10-23, vote average 6.3*
+*Released on 2020-10-23, vote average 6.4*
 
 Rumored to have been lost, Antrum appears as a cursed film from the 1970s. Viewers are warned to proceed with caution. It’s said to be a story about a young boy and girl who enter the forest in an attempt to save the soul of their recently deceased pet. They journey to “The Antrum,” they very spot the devil landed after being cast out of heaven. There, the children begin to dig a hole to hell.
 
@@ -222,19 +266,26 @@ Rumored to have been lost, Antrum appears as a cursed film from the 1970s. Viewe
 	
 	
 
-### Rogue City
-*Released on 2020-10-30, vote average 6.1*
+### Haunting of the Mary Celeste
+*Released on 2020-10-23, vote average 5.7*
 
-Caught in the crosshairs of police corruption and Marseille’s warring gangs, a loyal cop must protect his squad by taking matters into his own hands.
+Rachel, a concerned researcher, and her team have set out to sea to prove that the disappearance of a family and crew from a merchant ship was for reasons having to do with the supernatural. Her theory that those on the Mary Celeste vanished into a &#34;rift&#34; between dimensions proves true as the boat breaks down and her crew begins to vanish one by one.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/w1Ww62eIwOI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/43-qprAq3mE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -309,50 +360,6 @@ A father survives a plane crash in rural Appalachia, but becomes suspicious of t
 
 	
 	
-
-### Haunting of the Mary Celeste
-*Released on 2020-10-23, vote average 5.7*
-
-Rachel, a concerned researcher, and her team have set out to sea to prove that the disappearance of a family and crew from a merchant ship was for reasons having to do with the supernatural. Her theory that those on the Mary Celeste vanished into a &#34;rift&#34; between dimensions proves true as the boat breaks down and her crew begins to vanish one by one.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/43-qprAq3mE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### The Day of the Lord
-*Released on 2020-10-30, vote average 5.5*
-
-In this horror movie, a retired priest haunted by his sins is pulled back into the darkness when a friend begs him to help his possessed daughter.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EkSskibuEkU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -380,28 +387,6 @@ After a group of teens from a small Midwestern town begin to mysteriously disapp
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Candy Cane Christmas
-*Released on 2020-10-31, vote average 7.5*
-
-Since childhood, Candy Cane Lane has been Phoebe&#39;s favorite Christmas tradition. This Christmas, however, the neighborhood decides to skip the decoration, crushing Phoebe&#39;s spirits. As Phoebe&#39;s searching for a new tradition to lift her holiday spirits, she realizes that it&#39;s not the traditions we cherish, but the people we spend them with. As Phoebe is preparing for her new tradition, she stumbles upon the final thing her Christmas was missing: love!
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/fj0UaIv7ls4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -448,29 +433,6 @@ A 9 year old boy experiences God&#39;s power in a supernatural way.
 	
 	
 
-### Superdeep
-*Released on 2020-11-04, vote average 9*
-
-The film is based on real events when, in the 1970s, the deepest well in the world with a depth of more than 12 thousand meters was drilled in Murmansk Region for research purposes. During drilling, seismic sensors began to pick up strange sounds, an explosion occurred that led to mystical events.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nQoIQD6ylv4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
-	
-
 ### Operation Christmas Drop
 *Released on 2020-11-05, vote average 8*
 
@@ -490,6 +452,18 @@ While gathering evidence to support closing a tropical U.S. Air Force base, a co
 	
 
 	
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
 
 	
 
@@ -497,10 +471,21 @@ While gathering evidence to support closing a tropical U.S. Air Force base, a co
 
 	
 	
-	
+
+### Lucky Grandma
+*Released on 2020-11-06, vote average 7*
+
+Set in New York City&#39;s Chinatown, an ornery, chain-smoking Chinese grandma goes all in at the casino, landing herself on the wrong side of luck - and in the middle of a gang war.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zM4ikl2DCmE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
 	
 
 	
