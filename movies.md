@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Hard Kill
-*Released on 2020-10-23, vote average 4.4*
+*Released on 2020-10-23, vote average 4.7*
 
 The work of billionaire tech CEO Donovan Chalmers is so valuable that he hires mercenaries to protect it, and a terrorist group kidnaps his daughter just to get it.
 
@@ -90,16 +90,16 @@ The previously untold origins of Olaf, the innocent and insightful, summer-lovin
 	
 	
 
-### Borat Subsequent Moviefilm
-*Released on 2020-10-23, vote average 6.7*
+### I Believe
+*Released on 2020-11-05, vote average 3.8*
 
-14 years after making a film about his journey across the USA, Borat risks life and limb when he returns to the United States with his young daughter, and reveals more about the culture, the COVID-19 pandemic, and the political elections.
+A 9 year old boy experiences God&#39;s power in a supernatural way.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/0Rsa4U8mqkw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/amVlQozDJkI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,16 +112,16 @@ The previously untold origins of Olaf, the innocent and insightful, summer-lovin
 	
 	
 
-### I Believe
-*Released on 2020-11-05, vote average 3.8*
+### Borat Subsequent Moviefilm
+*Released on 2020-10-23, vote average 6.7*
 
-A 9 year old boy experiences God&#39;s power in a supernatural way.
+14 years after making a film about his journey across the USA, Borat risks life and limb when he returns to the United States with his young daughter, and reveals more about the culture, the COVID-19 pandemic, and the political elections.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/amVlQozDJkI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/0Rsa4U8mqkw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -156,72 +156,6 @@ Fed up with being single on holidays, two strangers agree to be each other&#39;s
 	
 	
 
-### Cadaver
-*Released on 2020-10-22, vote average 5.5*
-
-In the aftermath of a nuclear disaster, a starving family find hope in a charismatic hotel owner. Lured by the prospect of a free dinner, they discover that the evening&#39;s entertainment blurs the lines between performance and reality. Will they wind up the spectators or the spectacle?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Bc8sZbEEO8U?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Craft: Legacy
-*Released on 2020-10-28, vote average 6.5*
-
-An eclectic foursome of aspiring teenage witches get more than they bargained for as they lean into their newfound powers.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/J60ueFp-jv8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Secrets of the Saqqara Tomb
-*Released on 2020-10-28, vote average 7.4*
-
-This documentary follows a team of local archaeologists excavates never before explored passageways, shafts, and tombs, piecing together the secrets of Egypt’s most significant find in almost 50 years in Saqqara.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/77_UeHKMB-I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Rogue City
 *Released on 2020-10-30, vote average 6.2*
 
@@ -244,16 +178,16 @@ Caught in the crosshairs of police corruption and Marseille’s warring gangs, a
 	
 	
 
-### Antrum
-*Released on 2020-10-23, vote average 6.4*
+### The Craft: Legacy
+*Released on 2020-10-28, vote average 6.5*
 
-Rumored to have been lost, Antrum appears as a cursed film from the 1970s. Viewers are warned to proceed with caution. It’s said to be a story about a young boy and girl who enter the forest in an attempt to save the soul of their recently deceased pet. They journey to “The Antrum,” they very spot the devil landed after being cast out of heaven. There, the children begin to dig a hole to hell.
+An eclectic foursome of aspiring teenage witches get more than they bargained for as they lean into their newfound powers.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/faQ828XMCc4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/J60ueFp-jv8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -295,8 +229,52 @@ Rachel, a concerned researcher, and her team have set out to sea to prove that t
 	
 	
 
+### Secrets of the Saqqara Tomb
+*Released on 2020-10-28, vote average 7.4*
+
+This documentary follows a team of local archaeologists excavates never before explored passageways, shafts, and tombs, piecing together the secrets of Egypt’s most significant find in almost 50 years in Saqqara.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/77_UeHKMB-I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Antrum
+*Released on 2020-10-23, vote average 6.4*
+
+Rumored to have been lost, Antrum appears as a cursed film from the 1970s. Viewers are warned to proceed with caution. It’s said to be a story about a young boy and girl who enter the forest in an attempt to save the soul of their recently deceased pet. They journey to “The Antrum,” they very spot the devil landed after being cast out of heaven. There, the children begin to dig a hole to hell.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/faQ828XMCc4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Come Play
-*Released on 2020-10-28, vote average 7.8*
+*Released on 2020-10-28, vote average 7.7*
 
 A lonely young boy feels different from everyone else. Desperate for a friend, he seeks solace and refuge in his ever-present cell phone and tablet. When a mysterious creature uses the boy’s devices against him to break into our world, his parents must fight to save their son from the monster beyond the screen.
 
@@ -315,22 +293,10 @@ A lonely young boy feels different from everyone else. Desperate for a friend, h
 
 
 	
-	
 
-### New Order
-*Released on 2020-10-22, vote average 6.6*
+  
 
-In the near future, a popular uprising in Mexico City interrupts a wedding held at the home of a wealthy family. After the riots have been quashed, they discover the bride has gone missing and plea with the military to help locate her.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/a0tinkp-jQU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -340,7 +306,7 @@ In the near future, a popular uprising in Mexico City interrupts a wedding held 
 	
 
 ### Spell
-*Released on 2020-10-30, vote average 6.9*
+*Released on 2020-10-30, vote average 6.8*
 
 A father survives a plane crash in rural Appalachia, but becomes suspicious of the elderly couple who take him in to nurse him back to health with the ancient remedies.
 
@@ -359,76 +325,9 @@ A father survives a plane crash in rural Appalachia, but becomes suspicious of t
 
 
 	
-	
-	
 
   
 
-
-	
-	
-
-### The Empty Man
-*Released on 2020-10-22, vote average 5.4*
-
-After a group of teens from a small Midwestern town begin to mysteriously disappear, the locals believe it is the work of an urban legend known as The Empty Man. As a retired cop investigates and struggles to make sense of the stories, he discovers a secretive group and their attempts to summon a horrific, mystical entity, and soon his life—and the lives of those close to him—are in grave danger.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tk6u9X1bW30?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-
-## Opening soon
-
-
-	
-	
-
-### I Believe
-*Released on 2020-11-05, vote average 3.8*
-
-A 9 year old boy experiences God&#39;s power in a supernatural way.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/amVlQozDJkI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
 
 	
 	
@@ -449,14 +348,48 @@ While gathering evidence to support closing a tropical U.S. Air Force base, a co
 	
 	
 
-	
+  
+
 
 	
 	
 	
 
+  
+
+
 	
 
+  
+
+
+
+## Opening soon
+
+
+	
+
+	
+
+	
+
+	
+	
+
+### Freaky
+*Released on 2020-11-11, vote average 10*
+
+A mystical, ancient dagger causes a notorious serial killer to magically switch bodies with a 17-year-old girl.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EqPnIcDW9g0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -486,6 +419,22 @@ Set in New York City&#39;s Chinatown, an ornery, chain-smoking Chinese grandma g
   allowfullscreen></iframe>
 
 	
+	
+
+	
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
