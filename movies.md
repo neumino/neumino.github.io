@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Hard Kill
-*Released on 2020-10-23, vote average 4.7*
+### Roald Dahl&#39;s The Witches
+*Released on 2020-10-26, vote average 7.1*
 
-The work of billionaire tech CEO Donovan Chalmers is so valuable that he hires mercenaries to protect it, and a terrorist group kidnaps his daughter just to get it.
+In late 1967, a young orphaned boy goes to live with his loving grandma in the rural Alabama town of Demopolis. As the boy and his grandmother encounter some deceptively glamorous but thoroughly diabolical witches, she wisely whisks him away to a seaside resort. Regrettably, they arrive at precisely the same time that the world&#39;s Grand High Witch has gathered.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/7Y6-w5Psupw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/9nlhmJF5FNI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,52 +46,8 @@ The work of billionaire tech CEO Donovan Chalmers is so valuable that he hires m
 	
 	
 
-### Roald Dahl&#39;s The Witches
-*Released on 2020-10-26, vote average 7.1*
-
-In late 1967, a young orphaned boy goes to live with his loving grandma in the rural Alabama town of Demopolis. As the boy and his grandmother encounter some deceptively glamorous but thoroughly diabolical witches, she wisely whisks him away to a seaside resort. Regrettably, they arrive at precisely the same time that the world&#39;s Grand High Witch has gathered.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/9nlhmJF5FNI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Once Upon a Snowman
-*Released on 2020-10-23, vote average 7.7*
-
-The previously untold origins of Olaf, the innocent and insightful, summer-loving snowman are revealed as we follow Olaf’s first steps as he comes to life and searches for his identity in the snowy mountains outside Arendelle.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/JR7OrwlrsP0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### I Believe
-*Released on 2020-11-05, vote average 3.8*
+*Released on 2020-11-05, vote average 3.2*
 
 A 9 year old boy experiences God&#39;s power in a supernatural way.
 
@@ -100,28 +56,6 @@ A 9 year old boy experiences God&#39;s power in a supernatural way.
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/amVlQozDJkI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Borat Subsequent Moviefilm
-*Released on 2020-10-23, vote average 6.7*
-
-14 years after making a film about his journey across the USA, Borat risks life and limb when he returns to the United States with his young daughter, and reveals more about the culture, the COVID-19 pandemic, and the political elections.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0Rsa4U8mqkw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -177,9 +111,16 @@ Caught in the crosshairs of police corruption and Marseille’s warring gangs, a
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### The Craft: Legacy
-*Released on 2020-10-28, vote average 6.5*
+*Released on 2020-10-28, vote average 6.6*
 
 An eclectic foursome of aspiring teenage witches get more than they bargained for as they lean into their newfound powers.
 
@@ -198,30 +139,6 @@ An eclectic foursome of aspiring teenage witches get more than they bargained fo
 
 
 	
-	
-
-### Haunting of the Mary Celeste
-*Released on 2020-10-23, vote average 5.7*
-
-Rachel, a concerned researcher, and her team have set out to sea to prove that the disappearance of a family and crew from a merchant ship was for reasons having to do with the supernatural. Her theory that those on the Mary Celeste vanished into a &#34;rift&#34; between dimensions proves true as the boat breaks down and her crew begins to vanish one by one.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/43-qprAq3mE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
 
   
 
@@ -230,7 +147,7 @@ Rachel, a concerned researcher, and her team have set out to sea to prove that t
 	
 
 ### Secrets of the Saqqara Tomb
-*Released on 2020-10-28, vote average 7.4*
+*Released on 2020-10-28, vote average 7.3*
 
 This documentary follows a team of local archaeologists excavates never before explored passageways, shafts, and tombs, piecing together the secrets of Egypt’s most significant find in almost 50 years in Saqqara.
 
@@ -251,16 +168,16 @@ This documentary follows a team of local archaeologists excavates never before e
 	
 	
 
-### Antrum
-*Released on 2020-10-23, vote average 6.4*
+### Spell
+*Released on 2020-10-30, vote average 7.1*
 
-Rumored to have been lost, Antrum appears as a cursed film from the 1970s. Viewers are warned to proceed with caution. It’s said to be a story about a young boy and girl who enter the forest in an attempt to save the soul of their recently deceased pet. They journey to “The Antrum,” they very spot the devil landed after being cast out of heaven. There, the children begin to dig a hole to hell.
+A father survives a plane crash in rural Appalachia, but becomes suspicious of the elderly couple who take him in to nurse him back to health with the ancient remedies.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/faQ828XMCc4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/fTznGVd8nyo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -293,47 +210,10 @@ A lonely young boy feels different from everyone else. Desperate for a friend, h
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Spell
-*Released on 2020-10-30, vote average 6.8*
-
-A father survives a plane crash in rural Appalachia, but becomes suspicious of the elderly couple who take him in to nurse him back to health with the ancient remedies.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/fTznGVd8nyo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### Operation Christmas Drop
-*Released on 2020-11-05, vote average 8*
+*Released on 2020-11-05, vote average 7.8*
 
 While gathering evidence to support closing a tropical U.S. Air Force base, a congressional aide warms to its generous captain.
 
@@ -353,11 +233,78 @@ While gathering evidence to support closing a tropical U.S. Air Force base, a co
 
 	
 	
+
+### Let Him Go
+*Released on 2020-11-05, vote average 8*
+
+A retired sheriff and his wife fight to rescue their grandson from a dangerous off-grid family upon the death of their son.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/bE8pwEF-3TI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Lucky Grandma
+*Released on 2020-11-06, vote average 7*
+
+Set in New York City&#39;s Chinatown, an ornery, chain-smoking Chinese grandma goes all in at the casino, landing herself on the wrong side of luck - and in the middle of a gang war.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zM4ikl2DCmE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -366,10 +313,6 @@ While gathering evidence to support closing a tropical U.S. Air Force base, a co
 
 ## Opening soon
 
-
-	
-
-	
 
 	
 
@@ -393,36 +336,29 @@ A mystical, ancient dagger causes a notorious serial killer to magically switch 
 	
 
 	
+	
+	
+
+	
 
 	
 
 	
 
 	
-
-	
-
-	
-	
-
-### Lucky Grandma
-*Released on 2020-11-06, vote average 7*
-
-Set in New York City&#39;s Chinatown, an ornery, chain-smoking Chinese grandma goes all in at the casino, landing herself on the wrong side of luck - and in the middle of a gang war.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zM4ikl2DCmE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
 	
 	
+	
+
+	
+
+	
+	
+	
+
 	
 
 	
