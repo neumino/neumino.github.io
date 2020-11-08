@@ -47,7 +47,7 @@ In late 1967, a young orphaned boy goes to live with his loving grandma in the r
 	
 
 ### I Believe
-*Released on 2020-11-05, vote average 3.2*
+*Released on 2020-11-05, vote average 3.9*
 
 A 9 year old boy experiences God&#39;s power in a supernatural way.
 
@@ -111,6 +111,21 @@ Caught in the crosshairs of police corruption and Marseille’s warring gangs, a
 
 	
 	
+
+### Sarah Cooper: Everything&#39;s Fine
+*Released on 2020-10-27, vote average 5.8*
+
+Comedian and Trump lip-synching sensation Sarah Cooper tackles politics, race and other light topics in a sketch special packed with celebrity guests.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/flU_swot5WI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -139,37 +154,10 @@ An eclectic foursome of aspiring teenage witches get more than they bargained fo
 
 
 	
-
-  
-
-
-	
-	
-
-### Secrets of the Saqqara Tomb
-*Released on 2020-10-28, vote average 7.3*
-
-This documentary follows a team of local archaeologists excavates never before explored passageways, shafts, and tombs, piecing together the secrets of Egypt’s most significant find in almost 50 years in Saqqara.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/77_UeHKMB-I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 	
 
 ### Spell
-*Released on 2020-10-30, vote average 7.1*
+*Released on 2020-10-30, vote average 7*
 
 A father survives a plane crash in rural Appalachia, but becomes suspicious of the elderly couple who take him in to nurse him back to health with the ancient remedies.
 
@@ -190,16 +178,16 @@ A father survives a plane crash in rural Appalachia, but becomes suspicious of t
 	
 	
 
-### Come Play
-*Released on 2020-10-28, vote average 7.7*
+### Operation Christmas Drop
+*Released on 2020-11-05, vote average 7.2*
 
-A lonely young boy feels different from everyone else. Desperate for a friend, he seeks solace and refuge in his ever-present cell phone and tablet. When a mysterious creature uses the boy’s devices against him to break into our world, his parents must fight to save their son from the monster beyond the screen.
+While gathering evidence to support closing a tropical U.S. Air Force base, a congressional aide warms to its generous captain.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/LQwiqhdMQ7g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/JTHWAQG6Gxw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -212,16 +200,48 @@ A lonely young boy feels different from everyone else. Desperate for a friend, h
 	
 	
 
-### Operation Christmas Drop
-*Released on 2020-11-05, vote average 7.8*
+### Secrets of the Saqqara Tomb
+*Released on 2020-10-28, vote average 7.4*
 
-While gathering evidence to support closing a tropical U.S. Air Force base, a congressional aide warms to its generous captain.
+This documentary follows a team of local archaeologists excavates never before explored passageways, shafts, and tombs, piecing together the secrets of Egypt’s most significant find in almost 50 years in Saqqara.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/JTHWAQG6Gxw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/77_UeHKMB-I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Come Play
+*Released on 2020-10-28, vote average 7.6*
+
+A lonely young boy feels different from everyone else. Desperate for a friend, he seeks solace and refuge in his ever-present cell phone and tablet. When a mysterious creature uses the boy’s devices against him to break into our world, his parents must fight to save their son from the monster beyond the screen.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/VI35lHwUamQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -259,6 +279,8 @@ A retired sheriff and his wife fight to rescue their grandson from a dangerous o
 
 
 	
+	
+	
 
   
 
@@ -283,28 +305,6 @@ A retired sheriff and his wife fight to rescue their grandson from a dangerous o
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Lucky Grandma
-*Released on 2020-11-06, vote average 7*
-
-Set in New York City&#39;s Chinatown, an ornery, chain-smoking Chinese grandma goes all in at the casino, landing herself on the wrong side of luck - and in the middle of a gang war.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zM4ikl2DCmE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -340,12 +340,6 @@ A mystical, ancient dagger causes a notorious serial killer to magically switch 
 	
 
 	
-
-	
-
-	
-
-	
 	
 	
 
@@ -357,6 +351,27 @@ A mystical, ancient dagger causes a notorious serial killer to magically switch 
 
 	
 	
+
+### Dreamland
+*Released on 2020-11-13, vote average 6.7*
+
+Amid the dust storms and economic depression of Dustbowl Era Oklahoma, Eugene Evans finds his family farm on the brink of foreclosure. His last bet to save the farm is the bounty on the head of fugitive bank robber Allison Wells.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/agn4t4SOB_0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
 	
 
 	
