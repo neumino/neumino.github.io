@@ -46,30 +46,8 @@ In late 1967, a young orphaned boy goes to live with his loving grandma in the r
 	
 	
 
-### I Believe
-*Released on 2020-11-05, vote average 3.9*
-
-A 9 year old boy experiences God&#39;s power in a supernatural way.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/amVlQozDJkI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Holidate
-*Released on 2020-10-28, vote average 7.3*
+*Released on 2020-10-28, vote average 7.2*
 
 Fed up with being single on holidays, two strangers agree to be each other&#39;s platonic plus-ones all year long, only to catch real feelings along the way.
 
@@ -91,7 +69,7 @@ Fed up with being single on holidays, two strangers agree to be each other&#39;s
 	
 
 ### Rogue City
-*Released on 2020-10-30, vote average 6.2*
+*Released on 2020-10-30, vote average 6.4*
 
 Caught in the crosshairs of police corruption and Marseille’s warring gangs, a loyal cop must protect his squad by taking matters into his own hands.
 
@@ -134,28 +112,6 @@ Comedian and Trump lip-synching sensation Sarah Cooper tackles politics, race an
 	
 	
 
-### The Craft: Legacy
-*Released on 2020-10-28, vote average 6.6*
-
-An eclectic foursome of aspiring teenage witches get more than they bargained for as they lean into their newfound powers.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/J60ueFp-jv8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Spell
 *Released on 2020-10-30, vote average 7*
 
@@ -178,8 +134,30 @@ A father survives a plane crash in rural Appalachia, but becomes suspicious of t
 	
 	
 
+### The Craft: Legacy
+*Released on 2020-10-28, vote average 6.5*
+
+An eclectic foursome of aspiring teenage witches get more than they bargained for as they lean into their newfound powers.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/J60ueFp-jv8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Operation Christmas Drop
-*Released on 2020-11-05, vote average 7.2*
+*Released on 2020-11-05, vote average 7.3*
 
 While gathering evidence to support closing a tropical U.S. Air Force base, a congressional aide warms to its generous captain.
 
@@ -241,7 +219,44 @@ A lonely young boy feels different from everyone else. Desperate for a friend, h
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/VI35lHwUamQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/LQwiqhdMQ7g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Citation
+*Released on 2020-11-05, vote average 6*
+
+A bright student in Nigeria takes on the academic establishment when she reports a popular professor who tried to rape her. Based on real events.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/1eMAYynMc1w?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -274,6 +289,15 @@ A retired sheriff and his wife fight to rescue their grandson from a dangerous o
 
 
 	
+	
+	
+
+  
+
+
+	
+	
+	
 
   
 
@@ -286,25 +310,22 @@ A retired sheriff and his wife fight to rescue their grandson from a dangerous o
 
 
 	
-
-  
-
-
 	
 
-  
+### The Christmas Ring
+*Released on 2020-11-07, vote average 10*
 
+A reporter searches for the love story behind an antique engagement ring. With the help of the ring’s owner’s grandson, they learn the legacy his grandparent’s left behind.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wKat2iMHRz8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -313,8 +334,6 @@ A retired sheriff and his wife fight to rescue their grandson from a dangerous o
 
 ## Opening soon
 
-
-	
 
 	
 	
@@ -336,15 +355,7 @@ A mystical, ancient dagger causes a notorious serial killer to magically switch 
 	
 
 	
-	
-	
 
-	
-	
-	
-
-	
-	
 	
 
 	
@@ -366,6 +377,10 @@ Amid the dust storms and economic depression of Dustbowl Era Oklahoma, Eugene Ev
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
 	
 
 	
