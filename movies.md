@@ -68,28 +68,6 @@ Fed up with being single on holidays, two strangers agree to be each other&#39;s
 	
 	
 
-### Sarah Cooper: Everything&#39;s Fine
-*Released on 2020-10-27, vote average 5.8*
-
-Comedian and Trump lip-synching sensation Sarah Cooper tackles politics, race and other light topics in a sketch special packed with celebrity guests.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/flU_swot5WI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Spell
 *Released on 2020-10-30, vote average 6.9*
 
@@ -113,7 +91,7 @@ A father survives a plane crash in rural Appalachia, but becomes suspicious of t
 	
 
 ### Operation Christmas Drop
-*Released on 2020-11-05, vote average 7.1*
+*Released on 2020-11-05, vote average 7*
 
 While gathering evidence to support closing a tropical U.S. Air Force base, a congressional aide warms to its generous captain.
 
@@ -156,6 +134,28 @@ An eclectic foursome of aspiring teenage witches get more than they bargained fo
 	
 	
 
+### Citation
+*Released on 2020-11-05, vote average 7.3*
+
+A bright student in Nigeria takes on the academic establishment when she reports a popular professor who tried to rape her. Based on real events.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/1eMAYynMc1w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Secrets of the Saqqara Tomb
 *Released on 2020-10-28, vote average 7.4*
 
@@ -178,40 +178,8 @@ This documentary follows a team of local archaeologists excavates never before e
 	
 	
 
-### Citation
-*Released on 2020-11-05, vote average 6.8*
-
-A bright student in Nigeria takes on the academic establishment when she reports a popular professor who tried to rape her. Based on real events.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/1eMAYynMc1w?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### Come Play
-*Released on 2020-10-28, vote average 6.8*
+*Released on 2020-10-28, vote average 6.6*
 
 A lonely young boy feels different from everyone else. Desperate for a friend, he seeks solace and refuge in his ever-present cell phone and tablet. When a mysterious creature uses the boy’s devices against him to break into our world, his parents must fight to save their son from the monster beyond the screen.
 
@@ -219,7 +187,7 @@ A lonely young boy feels different from everyone else. Desperate for a friend, h
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/VI35lHwUamQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/LQwiqhdMQ7g?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -231,6 +199,31 @@ A lonely young boy feels different from everyone else. Desperate for a friend, h
 
 	
 	
+
+### Freaky
+*Released on 2020-11-11, vote average 10*
+
+A mystical, ancient dagger causes a notorious serial killer to magically switch bodies with a 17-year-old girl.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EqPnIcDW9g0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -240,7 +233,7 @@ A lonely young boy feels different from everyone else. Desperate for a friend, h
 	
 
 ### The Dark and the Wicked
-*Released on 2020-10-29, vote average 4*
+*Released on 2020-10-29, vote average 5*
 
 On a secluded farm in a nondescript rural town, a man is slowly dying. His family gathers to mourn, and soon a darkness grows, marked by waking nightmares and a growing sense that something evil is taking over the family.
 
@@ -252,49 +245,6 @@ On a secluded farm in a nondescript rural town, a man is slowly dying. His famil
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
-	
-
-### Kindred
-*Released on 2020-11-06, vote average 10*
-
-When her boyfriend Ben suddenly dies in an accident, mother-to-be Charlotte collapses upon receiving the news. She wakes up in Ben’s family home, a crumbling old manor house in the middle of nowhere with Ben’s overbearing mother and his controlling stepbrother who are determined to care for her. Grief-stricken and increasingly haunted by visions possibly brought on by the pregnancy, Charlotte begins to doubt the family&#39;s intentions and her suspicions grow that they may be trying to control her and her unborn baby.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/WzsGT31egS4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -324,6 +274,39 @@ A retired sheriff and his wife fight to rescue their grandson from a dangerous o
 
 
 	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
 
   
 
@@ -331,16 +314,16 @@ A retired sheriff and his wife fight to rescue their grandson from a dangerous o
 	
 	
 
-### The Christmas Ring
-*Released on 2020-11-07, vote average 10*
+### Kindred
+*Released on 2020-11-06, vote average 10*
 
-A reporter searches for the love story behind an antique engagement ring. With the help of the ring’s owner’s grandson, they learn the legacy his grandparent’s left behind.
+When her boyfriend Ben suddenly dies in an accident, mother-to-be Charlotte collapses upon receiving the news. She wakes up in Ben’s family home, a crumbling old manor house in the middle of nowhere with Ben’s overbearing mother and his controlling stepbrother who are determined to care for her. Grief-stricken and increasingly haunted by visions possibly brought on by the pregnancy, Charlotte begins to doubt the family&#39;s intentions and her suspicions grow that they may be trying to control her and her unborn baby.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/wKat2iMHRz8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/WzsGT31egS4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -376,9 +359,22 @@ A mystical, ancient dagger causes a notorious serial killer to magically switch 
 	
 
 	
-
 	
 
+### Hillbilly Elegy
+*Released on 2020-11-11, vote average 9*
+
+An urgent phone call pulls a Yale Law student back to his Ohio hometown, where he reflects on three generations of family history and his own future.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KW_3aaoSOYg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -406,6 +402,10 @@ Amid the dust storms and economic depression of Dustbowl Era Oklahoma, Eugene Ev
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
 	
 
 	
