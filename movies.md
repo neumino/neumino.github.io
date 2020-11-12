@@ -46,30 +46,8 @@ Caught in the crosshairs of police corruption and Marseille’s warring gangs, a
 	
 	
 
-### Holidate
-*Released on 2020-10-28, vote average 7.3*
-
-Fed up with being single on holidays, two strangers agree to be each other&#39;s platonic plus-ones all year long, only to catch real feelings along the way.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hxaaAoI57fk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Spell
-*Released on 2020-10-30, vote average 6.9*
+*Released on 2020-10-30, vote average 6.6*
 
 A father survives a plane crash in rural Appalachia, but becomes suspicious of the elderly couple who take him in to nurse him back to health with the ancient remedies.
 
@@ -112,30 +90,8 @@ While gathering evidence to support closing a tropical U.S. Air Force base, a co
 	
 	
 
-### The Craft: Legacy
-*Released on 2020-10-28, vote average 6.5*
-
-An eclectic foursome of aspiring teenage witches get more than they bargained for as they lean into their newfound powers.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/J60ueFp-jv8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Citation
-*Released on 2020-11-05, vote average 7.3*
+*Released on 2020-11-05, vote average 7.6*
 
 A bright student in Nigeria takes on the academic establishment when she reports a popular professor who tried to rape her. Based on real events.
 
@@ -144,50 +100,6 @@ A bright student in Nigeria takes on the academic establishment when she reports
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/1eMAYynMc1w?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Secrets of the Saqqara Tomb
-*Released on 2020-10-28, vote average 7.4*
-
-This documentary follows a team of local archaeologists excavates never before explored passageways, shafts, and tombs, piecing together the secrets of Egypt’s most significant find in almost 50 years in Saqqara.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/77_UeHKMB-I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Come Play
-*Released on 2020-10-28, vote average 6.6*
-
-A lonely young boy feels different from everyone else. Desperate for a friend, he seeks solace and refuge in his ever-present cell phone and tablet. When a mysterious creature uses the boy’s devices against him to break into our world, his parents must fight to save their son from the monster beyond the screen.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LQwiqhdMQ7g?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -225,6 +137,30 @@ A mystical, ancient dagger causes a notorious serial killer to magically switch 
 
 
 	
+	
+
+### The Retreat
+*Released on 2020-11-10, vote average 6*
+
+A man finds himself alone and lost after a horrifying encounter with a monster during a backpacking trip into the Adirondack High Peaks. Now, he must fight for his life, and sanity, as he battles the evil Native American legend, The Wendigo.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZeCXINSij9k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
 
   
 
@@ -233,7 +169,7 @@ A mystical, ancient dagger causes a notorious serial killer to magically switch 
 	
 
 ### The Dark and the Wicked
-*Released on 2020-10-29, vote average 5*
+*Released on 2020-10-29, vote average 5.3*
 
 On a secluded farm in a nondescript rural town, a man is slowly dying. His family gathers to mourn, and soon a darkness grows, marked by waking nightmares and a growing sense that something evil is taking over the family.
 
@@ -275,6 +211,26 @@ A retired sheriff and his wife fight to rescue their grandson from a dangerous o
 
 	
 	
+
+### Hillbilly Elegy
+*Released on 2020-11-11, vote average 7*
+
+An urgent phone call pulls a Yale Law student back to his Ohio hometown, where he reflects on three generations of family history and his own future.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KW_3aaoSOYg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -293,8 +249,6 @@ A retired sheriff and his wife fight to rescue their grandson from a dangerous o
 
 
 	
-	
-	
 
   
 
@@ -306,6 +260,18 @@ A retired sheriff and his wife fight to rescue their grandson from a dangerous o
 
 	
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -338,43 +304,7 @@ When her boyfriend Ben suddenly dies in an accident, mother-to-be Charlotte coll
 
 
 	
-	
 
-### Freaky
-*Released on 2020-11-11, vote average 10*
-
-A mystical, ancient dagger causes a notorious serial killer to magically switch bodies with a 17-year-old girl.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EqPnIcDW9g0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-	
-
-### Hillbilly Elegy
-*Released on 2020-11-11, vote average 9*
-
-An urgent phone call pulls a Yale Law student back to his Ohio hometown, where he reflects on three generations of family history and his own future.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/KW_3aaoSOYg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
@@ -402,6 +332,8 @@ Amid the dust storms and economic depression of Dustbowl Era Oklahoma, Eugene Ev
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
