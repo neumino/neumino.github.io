@@ -47,7 +47,7 @@ Caught in the crosshairs of police corruption and Marseille’s warring gangs, a
 	
 
 ### Spell
-*Released on 2020-10-30, vote average 6.6*
+*Released on 2020-10-30, vote average 6.5*
 
 A father survives a plane crash in rural Appalachia, but becomes suspicious of the elderly couple who take him in to nurse him back to health with the ancient remedies.
 
@@ -69,7 +69,7 @@ A father survives a plane crash in rural Appalachia, but becomes suspicious of t
 	
 
 ### Operation Christmas Drop
-*Released on 2020-11-05, vote average 7*
+*Released on 2020-11-05, vote average 6.9*
 
 While gathering evidence to support closing a tropical U.S. Air Force base, a congressional aide warms to its generous captain.
 
@@ -132,6 +132,23 @@ A mystical, ancient dagger causes a notorious serial killer to magically switch 
 
 
 	
+	
+
+### Let Him Go
+*Released on 2020-11-05, vote average 8.3*
+
+A retired sheriff and his wife fight to rescue their grandson from a dangerous off-grid family upon the death of their son.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/bE8pwEF-3TI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -140,7 +157,7 @@ A mystical, ancient dagger causes a notorious serial killer to magically switch 
 	
 
 ### The Retreat
-*Released on 2020-11-10, vote average 6*
+*Released on 2020-11-10, vote average 6.3*
 
 A man finds himself alone and lost after a horrifying encounter with a monster during a backpacking trip into the Adirondack High Peaks. Now, he must fight for his life, and sanity, as he battles the evil Native American legend, The Wendigo.
 
@@ -159,51 +176,17 @@ A man finds himself alone and lost after a horrifying encounter with a monster d
 
 
 	
-	
-	
 
   
 
 
 	
 	
-
-### The Dark and the Wicked
-*Released on 2020-10-29, vote average 5.3*
-
-On a secluded farm in a nondescript rural town, a man is slowly dying. His family gathers to mourn, and soon a darkness grows, marked by waking nightmares and a growing sense that something evil is taking over the family.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FwN8Crl_DxQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
 
 
-	
-	
-
-### Let Him Go
-*Released on 2020-11-05, vote average 8*
-
-A retired sheriff and his wife fight to rescue their grandson from a dangerous off-grid family upon the death of their son.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/bE8pwEF-3TI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -237,8 +220,6 @@ An urgent phone call pulls a Yale Law student back to his Ohio hometown, where h
 
 
 	
-	
-	
 
   
 
@@ -254,42 +235,57 @@ An urgent phone call pulls a Yale Law student back to his Ohio hometown, where h
 
 
 	
-
-  
-
-
-	
-	
 	
 
-  
+### Dreamland
+*Released on 2020-11-13, vote average 7*
 
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Kindred
-*Released on 2020-11-06, vote average 10*
-
-When her boyfriend Ben suddenly dies in an accident, mother-to-be Charlotte collapses upon receiving the news. She wakes up in Ben’s family home, a crumbling old manor house in the middle of nowhere with Ben’s overbearing mother and his controlling stepbrother who are determined to care for her. Grief-stricken and increasingly haunted by visions possibly brought on by the pregnancy, Charlotte begins to doubt the family&#39;s intentions and her suspicions grow that they may be trying to control her and her unborn baby.
+Amid the dust storms and economic depression of Dustbowl Era Oklahoma, Eugene Evans finds his family farm on the brink of foreclosure. His last bet to save the farm is the bounty on the head of fugitive bank robber Allison Wells.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/WzsGT31egS4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/agn4t4SOB_0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### What We Wanted
+*Released on 2020-11-11, vote average 5.5*
+
+Alice and Niklas are a young couple who&#39;s biggest wish is to have a child of their own. After several failed attempts they decide to go on a holiday in Sardinia to clear their minds. There they meet a family from Austria that seems to have everything they ever wished for. But appearances can be deceiving...
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MJb-eUFqzP8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -314,12 +310,10 @@ When her boyfriend Ben suddenly dies in an accident, mother-to-be Charlotte coll
 	
 
 	
-
-	
 	
 
 ### Dreamland
-*Released on 2020-11-13, vote average 6.7*
+*Released on 2020-11-13, vote average 7*
 
 Amid the dust storms and economic depression of Dustbowl Era Oklahoma, Eugene Evans finds his family farm on the brink of foreclosure. His last bet to save the farm is the bounty on the head of fugitive bank robber Allison Wells.
 
@@ -332,6 +326,8 @@ Amid the dust storms and economic depression of Dustbowl Era Oklahoma, Eugene Ev
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
