@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Rogue City
-*Released on 2020-10-30, vote average 6.4*
+### Operation Christmas Drop
+*Released on 2020-11-05, vote average 6.9*
 
-Caught in the crosshairs of police corruption and Marseille’s warring gangs, a loyal cop must protect his squad by taking matters into his own hands.
+While gathering evidence to support closing a tropical U.S. Air Force base, a congressional aide warms to its generous captain.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/w1Ww62eIwOI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/JTHWAQG6Gxw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,52 +46,8 @@ Caught in the crosshairs of police corruption and Marseille’s warring gangs, a
 	
 	
 
-### Spell
-*Released on 2020-10-30, vote average 6.5*
-
-A father survives a plane crash in rural Appalachia, but becomes suspicious of the elderly couple who take him in to nurse him back to health with the ancient remedies.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/fTznGVd8nyo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Operation Christmas Drop
-*Released on 2020-11-05, vote average 6.9*
-
-While gathering evidence to support closing a tropical U.S. Air Force base, a congressional aide warms to its generous captain.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/JTHWAQG6Gxw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Citation
-*Released on 2020-11-05, vote average 7.6*
+*Released on 2020-11-05, vote average 7.2*
 
 A bright student in Nigeria takes on the academic establishment when she reports a popular professor who tried to rape her. Based on real events.
 
@@ -113,7 +69,7 @@ A bright student in Nigeria takes on the academic establishment when she reports
 	
 
 ### Freaky
-*Released on 2020-11-11, vote average 10*
+*Released on 2020-11-11, vote average 7.3*
 
 A mystical, ancient dagger causes a notorious serial killer to magically switch bodies with a 17-year-old girl.
 
@@ -122,6 +78,75 @@ A mystical, ancient dagger causes a notorious serial killer to magically switch 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/EqPnIcDW9g0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Dreamland
+*Released on 2020-11-13, vote average 7*
+
+Amid the dust storms and economic depression of Dustbowl Era Oklahoma, Eugene Evans finds his family farm on the brink of foreclosure. His last bet to save the farm is the bounty on the head of fugitive bank robber Allison Wells.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/agn4t4SOB_0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### What We Wanted
+*Released on 2020-11-11, vote average 6.8*
+
+Alice and Niklas are a young couple who&#39;s biggest wish is to have a child of their own. After several failed attempts they decide to go on a holiday in Sardinia to clear their minds. There they meet a family from Austria that seems to have everything they ever wished for. But appearances can be deceiving...
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MJb-eUFqzP8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -154,18 +179,50 @@ A retired sheriff and his wife fight to rescue their grandson from a dangerous o
 
 
 	
+
+  
+
+
 	
 
-### The Retreat
-*Released on 2020-11-10, vote average 6.3*
+  
 
-A man finds himself alone and lost after a horrifying encounter with a monster during a backpacking trip into the Adirondack High Peaks. Now, he must fight for his life, and sanity, as he battles the evil Native American legend, The Wendigo.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Soorarai Pottru
+*Released on 2020-11-12, vote average 7.3*
+
+Nedumaaran Rajangam &#34;Maara&#34; sets out to make the common man fly and in the process takes on the world&#39;s most capital intensive industry and several enemies who stand in his way.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ZeCXINSij9k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/fa_DIwRsa9o?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -180,116 +237,6 @@ A man finds himself alone and lost after a horrifying encounter with a monster d
   
 
 
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Hillbilly Elegy
-*Released on 2020-11-11, vote average 7*
-
-An urgent phone call pulls a Yale Law student back to his Ohio hometown, where he reflects on three generations of family history and his own future.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/KW_3aaoSOYg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Dreamland
-*Released on 2020-11-13, vote average 7*
-
-Amid the dust storms and economic depression of Dustbowl Era Oklahoma, Eugene Evans finds his family farm on the brink of foreclosure. His last bet to save the farm is the bounty on the head of fugitive bank robber Allison Wells.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/agn4t4SOB_0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### What We Wanted
-*Released on 2020-11-11, vote average 5.5*
-
-Alice and Niklas are a young couple who&#39;s biggest wish is to have a child of their own. After several failed attempts they decide to go on a holiday in Sardinia to clear their minds. There they meet a family from Austria that seems to have everything they ever wished for. But appearances can be deceiving...
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MJb-eUFqzP8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -309,23 +256,6 @@ Alice and Niklas are a young couple who&#39;s biggest wish is to have a child of
 
 	
 
-	
-	
-
-### Dreamland
-*Released on 2020-11-13, vote average 7*
-
-Amid the dust storms and economic depression of Dustbowl Era Oklahoma, Eugene Evans finds his family farm on the brink of foreclosure. His last bet to save the farm is the bounty on the head of fugitive bank robber Allison Wells.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/agn4t4SOB_0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
