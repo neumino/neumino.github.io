@@ -69,7 +69,7 @@ A bright student in Nigeria takes on the academic establishment when she reports
 	
 
 ### Freaky
-*Released on 2020-11-11, vote average 7.3*
+*Released on 2020-11-11, vote average 7.6*
 
 A mystical, ancient dagger causes a notorious serial killer to magically switch bodies with a 17-year-old girl.
 
@@ -87,6 +87,96 @@ A mystical, ancient dagger causes a notorious serial killer to magically switch 
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### What We Wanted
+*Released on 2020-11-11, vote average 6.6*
+
+Alice and Niklas are a young couple who&#39;s biggest wish is to have a child of their own. After several failed attempts they decide to go on a holiday in Sardinia to clear their minds. There they meet a family from Austria that seems to have everything they ever wished for. But appearances can be deceiving...
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MJb-eUFqzP8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Let Him Go
+*Released on 2020-11-05, vote average 8.3*
+
+A retired sheriff and his wife fight to rescue their grandson from a dangerous off-grid family upon the death of their son.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/bE8pwEF-3TI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -135,109 +225,6 @@ Amid the dust storms and economic depression of Dustbowl Era Oklahoma, Eugene Ev
 
 
 	
-	
-
-### What We Wanted
-*Released on 2020-11-11, vote average 6.8*
-
-Alice and Niklas are a young couple who&#39;s biggest wish is to have a child of their own. After several failed attempts they decide to go on a holiday in Sardinia to clear their minds. There they meet a family from Austria that seems to have everything they ever wished for. But appearances can be deceiving...
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MJb-eUFqzP8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Let Him Go
-*Released on 2020-11-05, vote average 8.3*
-
-A retired sheriff and his wife fight to rescue their grandson from a dangerous off-grid family upon the death of their son.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/bE8pwEF-3TI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Soorarai Pottru
-*Released on 2020-11-12, vote average 7.3*
-
-Nedumaaran Rajangam &#34;Maara&#34; sets out to make the common man fly and in the process takes on the world&#39;s most capital intensive industry and several enemies who stand in his way.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/fa_DIwRsa9o?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 
   
 
@@ -249,7 +236,22 @@ Nedumaaran Rajangam &#34;Maara&#34; sets out to make the common man fly and in t
 	
 
 	
+	
 
+### Alone
+*Released on 2020-11-18, vote average 6*
+
+When an outbreak hits, Aidan barricades himself inside his apartment and starts rationing food. His complex is overrun by infected Screamers, and with the world falling apart into chaos, he is left completely alone fighting for his life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5v6yVmtNEhg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -284,6 +286,25 @@ Nedumaaran Rajangam &#34;Maara&#34; sets out to make the common man fly and in t
 
 	
 
+	
+
+	
+	
+
+### The Farmer and the Belle: Saving Santaland
+*Released on 2020-11-17, vote average 7*
+
+Sparks fly between a famous model and a farmer with a young daughter when she visits her childhood home. The town is in danger of losing their beloved Santaland festival, but miracles can happen with a little love, family, and faith.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-WJmjnou5Rs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 
