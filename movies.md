@@ -46,8 +46,30 @@ While gathering evidence to support closing a tropical U.S. Air Force base, a co
 	
 	
 
+### Freaky
+*Released on 2020-11-11, vote average 7.9*
+
+A mystical, ancient dagger causes a notorious serial killer to magically switch bodies with a 17-year-old girl.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EqPnIcDW9g0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Citation
-*Released on 2020-11-05, vote average 7.2*
+*Released on 2020-11-05, vote average 7.1*
 
 A bright student in Nigeria takes on the academic establishment when she reports a popular professor who tried to rape her. Based on real events.
 
@@ -68,30 +90,20 @@ A bright student in Nigeria takes on the academic establishment when she reports
 	
 	
 
-### Freaky
-*Released on 2020-11-11, vote average 7.6*
+### Chick Fight
+*Released on 2020-11-13, vote average 10*
 
-A mystical, ancient dagger causes a notorious serial killer to magically switch bodies with a 17-year-old girl.
+When Anna Wyncomb is introduced to an an underground, all-female fight club in order to turn the mess of her life around, she discovers she is much more personally connected to the history of the club than she could ever imagine.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/EqPnIcDW9g0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/qHFssXdRGQM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -120,17 +132,68 @@ Alice and Niklas are a young couple who&#39;s biggest wish is to have a child of
 
 
 	
-
-  
-
-
-	
 	
 	
 
   
 
 
+	
+	
+
+### Dead Reckoning
+*Released on 2020-11-13, vote average 4*
+
+Tillie Gardner, a girl who&#39;s been rocked to her core by the tragic death of her parents in a plane crash a few weeks ago. She copes with the help of local cab driver Niko, with whom she began a summer romance on the island of Nantucket. But what she doesn&#39;t know is that Marco, the man who sabotaged her parents&#39; plane, is on his way to Nantucket to set another terrifying scheme into motion. Can she uncover his dark secret and gather her wits to stop him in time? From the director of Romeo Must Die, Exit Wounds and Doom comes an intense and tightly wound thriller with twists that will keep you in suspense until the final frame.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pkgSa_-sYro?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### It Cuts Deep
+*Released on 2020-11-13, vote average 6*
+
+While on Christmas vacation, a young couple contemplates their future together. Ashley is interested in getting married and having kids which terrifies Sam. When the more attractive and paternal Nolan enters the picture, Sam’s life spirals out of control as Ashley questions their relationship. Chaos reigns as Sam desperately clings to Ashley while fending off the threatening Nolan.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fThZE-7ceQ0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -140,7 +203,7 @@ Alice and Niklas are a young couple who&#39;s biggest wish is to have a child of
 	
 
 ### Let Him Go
-*Released on 2020-11-05, vote average 8.3*
+*Released on 2020-11-05, vote average 7.6*
 
 A retired sheriff and his wife fight to rescue their grandson from a dangerous off-grid family upon the death of their son.
 
@@ -164,47 +227,18 @@ A retired sheriff and his wife fight to rescue their grandson from a dangerous o
 
 
 	
-
-  
-
-
-	
-	
 	
 
-  
+### Jingle Jangle: A Christmas Journey
+*Released on 2020-11-06, vote average 6.3*
 
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Dreamland
-*Released on 2020-11-13, vote average 7*
-
-Amid the dust storms and economic depression of Dustbowl Era Oklahoma, Eugene Evans finds his family farm on the brink of foreclosure. His last bet to save the farm is the bounty on the head of fugitive bank robber Allison Wells.
+An imaginary world comes to life in a holiday tale of an eccentric toymaker, his adventurous granddaughter, and a magical invention that has the power to change their lives forever.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/agn4t4SOB_0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/aYPUYVgwLWY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -220,10 +254,63 @@ Amid the dust storms and economic depression of Dustbowl Era Oklahoma, Eugene Ev
 
 
 	
+	
+
+### Come Away
+*Released on 2020-11-12, vote average 4.8*
+
+Before Alice went to Wonderland, and before Peter became Pan, they were brother and sister. When their eldest brother dies in a tragic accident, they each seek to save their parents from their downward spirals of despair until finally they are forced to choose between home and imagination, setting the stage for their iconic journeys into Wonderland and Neverland.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FXGL3uU0lxY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
+	
+	
+
+### Mookuthi Amman
+*Released on 2020-11-14, vote average 5*
+
+A TV reporter, who has been gathering evidence to expose a self-styled godman for years, gets help from Goddess Mookuthi Amman. How does he utilise the situation to bring down the godman before the public?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0eB5vtWmwxo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -239,7 +326,7 @@ Amid the dust storms and economic depression of Dustbowl Era Oklahoma, Eugene Ev
 	
 
 ### Alone
-*Released on 2020-11-18, vote average 6*
+*Released on 2020-11-18, vote average 6.9*
 
 When an outbreak hits, Aidan barricades himself inside his apartment and starts rationing food. His complex is overrun by infected Screamers, and with the world falling apart into chaos, he is left completely alone fighting for his life.
 
@@ -271,19 +358,22 @@ When an outbreak hits, Aidan barricades himself inside his apartment and starts 
 	
 
 	
-
 	
 
-	
+### The Lego Star Wars Holiday Special
+*Released on 2020-11-17, vote average 10*
+
+Rey&#39;s visit to a mysterious Jedi Temple sends her careening through time and space. She meets Luke Skywalker, Darth Vader, Obi-Wan Kenobi, Yoda and others - but she must return to her friends for a Life Day feast.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-bZxO5Dn9x0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-	
-
-	
-
-	
-
 	
 
 	
@@ -305,6 +395,22 @@ Sparks fly between a famous model and a farmer with a young daughter when she vi
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+	
+
 	
 
 
