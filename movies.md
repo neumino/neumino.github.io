@@ -46,28 +46,6 @@ While gathering evidence to support closing a tropical U.S. Air Force base, a co
 	
 	
 
-### Freaky
-*Released on 2020-11-11, vote average 7.9*
-
-A mystical, ancient dagger causes a notorious serial killer to magically switch bodies with a 17-year-old girl.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EqPnIcDW9g0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Citation
 *Released on 2020-11-05, vote average 7.1*
 
@@ -90,30 +68,8 @@ A bright student in Nigeria takes on the academic establishment when she reports
 	
 	
 
-### Chick Fight
-*Released on 2020-11-13, vote average 10*
-
-When Anna Wyncomb is introduced to an an underground, all-female fight club in order to turn the mess of her life around, she discovers she is much more personally connected to the history of the club than she could ever imagine.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qHFssXdRGQM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### What We Wanted
-*Released on 2020-11-11, vote average 6.6*
+*Released on 2020-11-11, vote average 6.9*
 
 Alice and Niklas are a young couple who&#39;s biggest wish is to have a child of their own. After several failed attempts they decide to go on a holiday in Sardinia to clear their minds. There they meet a family from Austria that seems to have everything they ever wished for. But appearances can be deceiving...
 
@@ -133,6 +89,99 @@ Alice and Niklas are a young couple who&#39;s biggest wish is to have a child of
 
 	
 	
+
+### Freaky
+*Released on 2020-11-11, vote average 7.9*
+
+A mystical, ancient dagger causes a notorious serial killer to magically switch bodies with a 17-year-old girl.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EqPnIcDW9g0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Chick Fight
+*Released on 2020-11-13, vote average 6.8*
+
+When Anna Wyncomb is introduced to an an underground, all-female fight club in order to turn the mess of her life around, she discovers she is much more personally connected to the history of the club than she could ever imagine.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qHFssXdRGQM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Jingle Jangle: A Christmas Journey
+*Released on 2020-11-06, vote average 7*
+
+An imaginary world comes to life in a holiday tale of an eccentric toymaker, his adventurous granddaughter, and a magical invention that has the power to change their lives forever.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/aYPUYVgwLWY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Come Away
+*Released on 2020-11-12, vote average 5.2*
+
+Before Alice went to Wonderland, and before Peter became Pan, they were brother and sister. When their eldest brother dies in a tragic accident, they each seek to save their parents from their downward spirals of despair until finally they are forced to choose between home and imagination, setting the stage for their iconic journeys into Wonderland and Neverland.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FXGL3uU0lxY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -142,7 +191,7 @@ Alice and Niklas are a young couple who&#39;s biggest wish is to have a child of
 	
 
 ### Dead Reckoning
-*Released on 2020-11-13, vote average 4*
+*Released on 2020-11-13, vote average 5.5*
 
 Tillie Gardner, a girl who&#39;s been rocked to her core by the tragic death of her parents in a plane crash a few weeks ago. She copes with the help of local cab driver Niko, with whom she began a summer romance on the island of Nantucket. But what she doesn&#39;t know is that Marco, the man who sabotaged her parents&#39; plane, is on his way to Nantucket to set another terrifying scheme into motion. Can she uncover his dark secret and gather her wits to stop him in time? From the director of Romeo Must Die, Exit Wounds and Doom comes an intense and tightly wound thriller with twists that will keep you in suspense until the final frame.
 
@@ -151,6 +200,50 @@ Tillie Gardner, a girl who&#39;s been rocked to her core by the tragic death of 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/pkgSa_-sYro?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Let Him Go
+*Released on 2020-11-05, vote average 7.6*
+
+A retired sheriff and his wife fight to rescue their grandson from a dangerous off-grid family upon the death of their son.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/bE8pwEF-3TI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Christmas in Vienna
+*Released on 2020-11-14, vote average 6*
+
+Jess, a concert violinist whose heart just isn’t in it anymore, goes to Vienna for a performance. While there, she finds the inspiration she has been missing, and a new love.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/OA8LAtzoVjg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -200,18 +293,23 @@ While on Christmas vacation, a young couple contemplates their future together. 
 
 
 	
+
+  
+
+
+	
 	
 
-### Let Him Go
-*Released on 2020-11-05, vote average 7.6*
+### A Timeless Christmas
+*Released on 2020-11-15, vote average 10*
 
-A retired sheriff and his wife fight to rescue their grandson from a dangerous off-grid family upon the death of their son.
+Charles Whitley travels from 1903 to 2020 where he meets Megan Turner, a tour guide at his historic mansion, and experiences a 21st Century Christmas.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/bE8pwEF-3TI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/QOqaQPge6EA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -226,91 +324,6 @@ A retired sheriff and his wife fight to rescue their grandson from a dangerous o
   
 
 
-	
-	
-
-### Jingle Jangle: A Christmas Journey
-*Released on 2020-11-06, vote average 6.3*
-
-An imaginary world comes to life in a holiday tale of an eccentric toymaker, his adventurous granddaughter, and a magical invention that has the power to change their lives forever.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/aYPUYVgwLWY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Come Away
-*Released on 2020-11-12, vote average 4.8*
-
-Before Alice went to Wonderland, and before Peter became Pan, they were brother and sister. When their eldest brother dies in a tragic accident, they each seek to save their parents from their downward spirals of despair until finally they are forced to choose between home and imagination, setting the stage for their iconic journeys into Wonderland and Neverland.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FXGL3uU0lxY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Mookuthi Amman
-*Released on 2020-11-14, vote average 5*
-
-A TV reporter, who has been gathering evidence to expose a self-styled godman for years, gets help from Goddess Mookuthi Amman. How does he utilise the situation to bring down the godman before the public?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0eB5vtWmwxo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -321,12 +334,29 @@ A TV reporter, who has been gathering evidence to expose a self-styled godman fo
 
 
 	
+	
+
+### The Croods: A New Age
+*Released on 2020-11-19, vote average 4.5*
+
+After leaving their cave, the Croods encounter their biggest threat since leaving: another family called the Bettermans, who claim to be better and evolved. But after Eep and the Bettermans&#39; only daughter escape, the two families must put aside their differences to save them.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/GkXeVIfbJOw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 	
 
 ### Alone
-*Released on 2020-11-18, vote average 6.9*
+*Released on 2020-11-18, vote average 7*
 
 When an outbreak hits, Aidan barricades himself inside his apartment and starts rationing food. His complex is overrun by infected Screamers, and with the world falling apart into chaos, he is left completely alone fighting for his life.
 
@@ -339,18 +369,6 @@ When an outbreak hits, Aidan barricades himself inside his apartment and starts 
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
@@ -374,6 +392,10 @@ Rey&#39;s visit to a mysterious Jedi Temple sends her careening through time and
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
 	
 
 	
@@ -408,7 +430,15 @@ Sparks fly between a famous model and a farmer with a young daughter when she vi
 	
 
 	
+
 	
+
+	
+
+	
+	
+	
+
 	
 
 	
