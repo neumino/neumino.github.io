@@ -11,21 +11,6 @@ This is a convenient page that embeds trailers of movies released in the past
 
 	
 	
-
-### Operation Christmas Drop
-*Released on 2020-11-05, vote average 6.8*
-
-While gathering evidence to support closing a tropical U.S. Air Force base, a congressional aide warms to its generous captain.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/JTHWAQG6Gxw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -47,7 +32,7 @@ While gathering evidence to support closing a tropical U.S. Air Force base, a co
 	
 
 ### What We Wanted
-*Released on 2020-11-11, vote average 7*
+*Released on 2020-11-11, vote average 6.7*
 
 Alice and Niklas are a young couple who&#39;s biggest wish is to have a child of their own. After several failed attempts they decide to go on a holiday in Sardinia to clear their minds. There they meet a family from Austria that seems to have everything they ever wished for. But appearances can be deceiving...
 
@@ -59,13 +44,6 @@ Alice and Niklas are a young couple who&#39;s biggest wish is to have a child of
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -98,7 +76,7 @@ After leaving their cave, the Croods encounter their biggest threat since leavin
 	
 
 ### Jingle Jangle: A Christmas Journey
-*Released on 2020-11-06, vote average 7.4*
+*Released on 2020-11-06, vote average 7.5*
 
 An imaginary world comes to life in a holiday tale of an eccentric toymaker, his adventurous granddaughter, and a magical invention that has the power to change their lives forever.
 
@@ -119,74 +97,8 @@ An imaginary world comes to life in a holiday tale of an eccentric toymaker, his
 	
 	
 
-### Freaky
-*Released on 2020-11-11, vote average 7*
-
-A mystical, ancient dagger causes a notorious serial killer to magically switch bodies with a 17-year-old girl.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EqPnIcDW9g0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Citation
-*Released on 2020-11-05, vote average 7.1*
-
-A bright student in Nigeria takes on the academic establishment when she reports a popular professor who tried to rape her. Based on real events.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/1eMAYynMc1w?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Alone
-*Released on 2020-11-18, vote average 6.2*
-
-When an outbreak hits, Aidan barricades himself inside his apartment and starts rationing food. His complex is overrun by infected Screamers, and with the world falling apart into chaos, he is left completely alone fighting for his life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/5v6yVmtNEhg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Chick Fight
-*Released on 2020-11-13, vote average 7.5*
+*Released on 2020-11-13, vote average 7.8*
 
 When Anna Wyncomb is introduced to an an underground, all-female fight club in order to turn the mess of her life around, she discovers she is much more personally connected to the history of the club than she could ever imagine.
 
@@ -207,8 +119,30 @@ When Anna Wyncomb is introduced to an an underground, all-female fight club in o
 	
 	
 
+### Freaky
+*Released on 2020-11-11, vote average 6.6*
+
+A mystical, ancient dagger causes a notorious serial killer to magically switch bodies with a 17-year-old girl.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EqPnIcDW9g0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Lego Star Wars Holiday Special
-*Released on 2020-11-17, vote average 8.2*
+*Released on 2020-11-17, vote average 7.8*
 
 On the festive Life Day, Rey and BB-8 embark on an epic adventure across Star Wars history. They meet Luke Skywalker, Darth Vader, Obi-Wan Kenobi, Yoda and others - but must return to their friends for a Life Day feast.
 
@@ -227,6 +161,23 @@ On the festive Life Day, Rey and BB-8 embark on an epic adventure across Star Wa
 
 
 	
+	
+
+### Gabriel&#39;s Inferno Part III
+*Released on 2020-11-19, vote average 2*
+
+The final part of the film adaption of the erotic romance novel Gabriel&#39;s Inferno written by an anonymous Canadian author under the pen name Sylvain Reynard.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mjPUGem9SaY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -236,6 +187,77 @@ On the festive Life Day, Rey and BB-8 embark on an epic adventure across Star Wa
   
 
 
+	
+	
+
+### Alone
+*Released on 2020-11-18, vote average 6*
+
+When an outbreak hits, Aidan barricades himself inside his apartment and starts rationing food. His complex is overrun by infected Screamers, and with the world falling apart into chaos, he is left completely alone fighting for his life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5v6yVmtNEhg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Princess Switch: Switched Again
+*Released on 2020-11-19, vote average 9*
+
+When Duchess Margaret unexpectedly inherits the throne &amp; hits a rough patch with Kevin, it’s up to Stacy to save the day before a new lookalike — party girl Fiona — foils their plans.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/f9OVdmIxkso?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Jiu Jitsu
+*Released on 2020-11-20, vote average 7.4*
+
+Every six years, an ancient order of jiu-jitsu fighters joins forces to battle a vicious race of alien invaders. But when a celebrated war hero goes down in defeat, the fate of the planet and mankind hangs in the balance.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ywhTeWg8970?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -245,7 +267,7 @@ On the festive Life Day, Rey and BB-8 embark on an epic adventure across Star Wa
 	
 
 ### Come Away
-*Released on 2020-11-12, vote average 6.4*
+*Released on 2020-11-12, vote average 6.3*
 
 Before Alice went to Wonderland, and before Peter became Pan, they were brother and sister. When their eldest brother dies in a tragic accident, they each seek to save their parents from their downward spirals of despair until finally they are forced to choose between home and imagination, setting the stage for their iconic journeys into Wonderland and Neverland.
 
@@ -264,82 +286,41 @@ Before Alice went to Wonderland, and before Peter became Pan, they were brother 
 
 
 	
+
+  
+
+
 	
 
-### The Princess Switch: Switched Again
-*Released on 2020-11-19, vote average 9*
+  
 
-When Duchess Margaret unexpectedly inherits the throne &amp; hits a rough patch with Kevin, it’s up to Stacy to save the day before a new lookalike — party girl Fiona — foils their plans.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Dreamland
+*Released on 2020-11-13, vote average 7*
+
+Amid the dust storms and economic depression of Dust Bowl Era Oklahoma, Eugene Evans finds his family farm on the brink of foreclosure. Discovering fugitive bank robber Allison Wells hiding in his small town, he is torn between claiming the bounty on her head and his growing attraction to the seductive criminal.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/f9OVdmIxkso?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/agn4t4SOB_0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
-	
-
-### A Timeless Christmas
-*Released on 2020-11-15, vote average 8.3*
-
-Charles Whitley travels from 1903 to 2020 where he meets Megan Turner, a tour guide at his historic mansion, and experiences a 21st Century Christmas.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/QOqaQPge6EA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Let Him Go
-*Released on 2020-11-05, vote average 7.5*
-
-A retired sheriff and his wife fight to rescue their grandson from a dangerous off-grid family upon the death of their son.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/bE8pwEF-3TI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 	
 
@@ -355,56 +336,8 @@ A retired sheriff and his wife fight to rescue their grandson from a dangerous o
 	
 	
 
-### The Croods: A New Age
-*Released on 2020-11-19, vote average 5.3*
-
-After leaving their cave, the Croods encounter their biggest threat since leaving: another family called the Bettermans, who claim to be better and evolved. But after Eep and the Bettermans&#39; only daughter escape, the two families must put aside their differences to save them.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/GkXeVIfbJOw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
-	
-
-### The Princess Switch: Switched Again
-*Released on 2020-11-19, vote average 9*
-
-When Duchess Margaret unexpectedly inherits the throne &amp; hits a rough patch with Kevin, it’s up to Stacy to save the day before a new lookalike — party girl Fiona — foils their plans.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/f9OVdmIxkso?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
-
-	
-	
-
 ### Jiu Jitsu
-*Released on 2020-11-20, vote average 7*
+*Released on 2020-11-20, vote average 7.4*
 
 Every six years, an ancient order of jiu-jitsu fighters joins forces to battle a vicious race of alien invaders. But when a celebrated war hero goes down in defeat, the fate of the planet and mankind hangs in the balance.
 
@@ -420,7 +353,22 @@ Every six years, an ancient order of jiu-jitsu fighters joins forces to battle a
 	
 
 	
+	
 
+### A Nashville Christmas Carol
+*Released on 2020-11-21, vote average 2*
+
+Vivienne Wake, a workaholic television producer in charge of a country music Christmas special showcasing newcomer Alexis, never lets personal feelings get in the way of business. On the verge of accepting a job in LA, and with the return of Gavin Chase, her childhood sweetheart and manager to the special’s headliner, Belinda, she receives a visit from the ghost of her recently deceased mentor, Marilyn. Her mentor warns her current path leads to a dark future and has recruited both the Spirit of Christmas Past and the Spirit of Christmas Present to help her get back on track. The Spirits’ time-jumping adventures force Vivienne to take hold of her life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0RAE-dfQ4Co?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -433,6 +381,56 @@ Every six years, an ancient order of jiu-jitsu fighters joins forces to battle a
 
 	
 
+	
+
+	
+
+	
+
+	
+	
+
+### Sound of Metal
+*Released on 2020-11-20, vote average 7*
+
+A drummer begins to lose his hearing and has to come to grips with a future that will be filled with silence.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/VFOrGkAvjAE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### The Christmas House
+*Released on 2020-11-22, vote average 2*
+
+Working through some difficult decisions, Mitchell family matriarch Phylis and patriarch Bill, have summoned their two grown sons – TV star, Mike Mitchell and Brandon Mitchell – home for the holidays. It is their hope that bringing the family together to recreate the Christmas house, will help them find resolution and make a memorable holiday for the entire family and community. As Brandon and his husband Jake make the trip home, they are anxiously awaiting a call about the adoption of their first child. Meanwhile, Mike reconnects with Andi, his high school sweetheart.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FiUTa9QG9uQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
