@@ -31,28 +31,6 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### What We Wanted
-*Released on 2020-11-11, vote average 6.5*
-
-Alice and Niklas are a young couple who&#39;s biggest wish is to have a child of their own. After several failed attempts they decide to go on a holiday in Sardinia to clear their minds. There they meet a family from Austria that seems to have everything they ever wished for. But appearances can be deceiving...
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MJb-eUFqzP8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Chick Fight
 *Released on 2020-11-13, vote average 7.8*
 
@@ -75,8 +53,52 @@ When Anna Wyncomb is introduced to an an underground, all-female fight club in o
 	
 	
 
+### What We Wanted
+*Released on 2020-11-11, vote average 6.4*
+
+Alice and Niklas are a young couple who&#39;s biggest wish is to have a child of their own. After several failed attempts they decide to go on a holiday in Sardinia to clear their minds. There they meet a family from Austria that seems to have everything they ever wished for. But appearances can be deceiving...
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MJb-eUFqzP8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Lego Star Wars Holiday Special
+*Released on 2020-11-17, vote average 7.4*
+
+Rey leaves her friends to prepare for Life Day as she sets off on an adventure to gain a deeper knowledge of the Force. At a mysterious temple, she is hurled into a cross-timeline adventure. Will she make it back in time for Life Day?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-bZxO5Dn9x0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Croods: A New Age
-*Released on 2020-11-19, vote average 6.2*
+*Released on 2020-11-19, vote average 5.3*
 
 After leaving their cave, the Croods encounter their biggest threat since leaving: another family called the Bettermans, who claim to be better and evolved. But after Eep and the Bettermans&#39; only daughter escape, the two families must put aside their differences to save them.
 
@@ -97,16 +119,16 @@ After leaving their cave, the Croods encounter their biggest threat since leavin
 	
 	
 
-### The Lego Star Wars Holiday Special
-*Released on 2020-11-17, vote average 7.3*
+### Gabriels Inferno Part III
+*Released on 2020-11-19, vote average 9.3*
 
-you love christmas. know who doesnt? jews. they hate you and your race. they want us to fight. dont fall for their tricks. hi
+The final part of the film adaption of the erotic romance novel Gabriel&#39;s Inferno written by an anonymous Canadian author under the pen name Sylvain Reynard.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-bZxO5Dn9x0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/mjPUGem9SaY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -119,16 +141,38 @@ you love christmas. know who doesnt? jews. they hate you and your race. they wan
 	
 	
 
-### Gabriels Inferno Part III
-*Released on 2020-11-19, vote average 9.2*
+### The Princess Switch: Switched Again
+*Released on 2020-11-19, vote average 7.6*
 
-The final part of the film adaption of the erotic romance novel Gabriel&#39;s Inferno written by an anonymous Canadian author under the pen name Sylvain Reynard.
+When Duchess Margaret unexpectedly inherits the throne &amp; hits a rough patch with Kevin, it’s up to Stacy to save the day before a new lookalike — party girl Fiona — foils their plans.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/mjPUGem9SaY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/f9OVdmIxkso?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Jiu Jitsu
+*Released on 2020-11-20, vote average 6.9*
+
+Every six years, an ancient order of jiu-jitsu fighters joins forces to battle a vicious race of alien invaders. But when a celebrated war hero goes down in defeat, the fate of the planet and mankind hangs in the balance.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ywhTeWg8970?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -163,16 +207,43 @@ A mystical, ancient dagger causes a notorious serial killer to magically switch 
 	
 	
 
-### The Princess Switch: Switched Again
-*Released on 2020-11-19, vote average 7.4*
+### A Nashville Christmas Carol
+*Released on 2020-11-21, vote average 4.5*
 
-When Duchess Margaret unexpectedly inherits the throne &amp; hits a rough patch with Kevin, it’s up to Stacy to save the day before a new lookalike — party girl Fiona — foils their plans.
+Vivienne Wake, a workaholic television producer in charge of a country music Christmas special showcasing newcomer Alexis, never lets personal feelings get in the way of business. On the verge of accepting a job in LA, and with the return of Gavin Chase, her childhood sweetheart and manager to the special’s headliner, Belinda, she receives a visit from the ghost of her recently deceased mentor, Marilyn. Her mentor warns her current path leads to a dark future and has recruited both the Spirit of Christmas Past and the Spirit of Christmas Present to help her get back on track. The Spirits’ time-jumping adventures force Vivienne to take hold of her life.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/f9OVdmIxkso?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/0RAE-dfQ4Co?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Dreamland
+*Released on 2020-11-13, vote average 7.3*
+
+Amid the dust storms and economic depression of Dust Bowl Era Oklahoma, Eugene Evans finds his family farm on the brink of foreclosure. Discovering fugitive bank robber Allison Wells hiding in his small town, he is torn between claiming the bounty on her head and his growing attraction to the seductive criminal.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/agn4t4SOB_0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -185,19 +256,53 @@ When Duchess Margaret unexpectedly inherits the throne &amp; hits a rough patch 
 	
 	
 
-### Jiu Jitsu
-*Released on 2020-11-20, vote average 7*
+### Dance of the 41
+*Released on 2020-11-19, vote average 6*
 
-Every six years, an ancient order of jiu-jitsu fighters joins forces to battle a vicious race of alien invaders. But when a celebrated war hero goes down in defeat, the fate of the planet and mankind hangs in the balance.
+The true story of the infamous transvestite party that scandalized Mexico in 1901.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ywhTeWg8970?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/tFpXV7eYw8E?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+	
+
+### Alien Xmas
+*Released on 2020-11-20, vote average 7.3*
+
+A young elf mistakes a tiny alien for a Christmas gift, not knowing her new plaything has plans to destroy Earth&#39;s gravity — and steal all the presents.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/RhZ9gueH2OE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 	
 
@@ -232,92 +337,6 @@ When an outbreak hits, Aidan barricades himself inside his apartment and starts 
 
 
 	
-	
-
-### A Nashville Christmas Carol
-*Released on 2020-11-21, vote average 4.5*
-
-Vivienne Wake, a workaholic television producer in charge of a country music Christmas special showcasing newcomer Alexis, never lets personal feelings get in the way of business. On the verge of accepting a job in LA, and with the return of Gavin Chase, her childhood sweetheart and manager to the special’s headliner, Belinda, she receives a visit from the ghost of her recently deceased mentor, Marilyn. Her mentor warns her current path leads to a dark future and has recruited both the Spirit of Christmas Past and the Spirit of Christmas Present to help her get back on track. The Spirits’ time-jumping adventures force Vivienne to take hold of her life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0RAE-dfQ4Co?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Dreamland
-*Released on 2020-11-13, vote average 7*
-
-Amid the dust storms and economic depression of Dust Bowl Era Oklahoma, Eugene Evans finds his family farm on the brink of foreclosure. Discovering fugitive bank robber Allison Wells hiding in his small town, he is torn between claiming the bounty on her head and his growing attraction to the seductive criminal.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/agn4t4SOB_0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Come Away
-*Released on 2020-11-12, vote average 6.3*
-
-Before Alice went to Wonderland, and before Peter became Pan, they were brother and sister. When their eldest brother dies in a tragic accident, they each seek to save their parents from their downward spirals of despair until finally they are forced to choose between home and imagination, setting the stage for their iconic journeys into Wonderland and Neverland.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FXGL3uU0lxY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -332,60 +351,18 @@ Before Alice went to Wonderland, and before Peter became Pan, they were brother 
 
 
 	
-
-	
 	
 
-### Host
-*Released on 2020-11-27, vote average 7.2*
+### 1BR
+*Released on 2020-11-26, vote average 5*
 
-Six friends hire a medium to hold a séance via Zoom during lockdown — but they get far more than they bargained for as things quickly go wrong. When an evil spirit starts invading their homes, they begin to realize they might not survive the night.
+When Sarah lucks into a sweet one-bedroom at Asilo Del Mar Apartments in Los Angeles, she think she&#39;s hit the jackpot. It&#39;s got plenty of space, friendly tenants, group BBQs and even a cute neighbour next door. All is not what it seems: loud noises start keeping her awake at night; her cat is missing; everyone seems to be a little too helpful and friendly, except for the weirdo, Lester. Soon, Sarah learns she didn&#39;t choose this apartment — it chose her.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/SNlKbqHqGcY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### A Nashville Christmas Carol
-*Released on 2020-11-21, vote average 4.5*
-
-Vivienne Wake, a workaholic television producer in charge of a country music Christmas special showcasing newcomer Alexis, never lets personal feelings get in the way of business. On the verge of accepting a job in LA, and with the return of Gavin Chase, her childhood sweetheart and manager to the special’s headliner, Belinda, she receives a visit from the ghost of her recently deceased mentor, Marilyn. Her mentor warns her current path leads to a dark future and has recruited both the Spirit of Christmas Past and the Spirit of Christmas Present to help her get back on track. The Spirits’ time-jumping adventures force Vivienne to take hold of her life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0RAE-dfQ4Co?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-	
-
-### Happiest Season
-*Released on 2020-11-26, vote average 8*
-
-A young woman&#39;s plans to propose to her girlfriend while at her family&#39;s annual holiday party are upended when she discovers her partner hasn&#39;t yet come out to her conservative parents.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/h58HkQV1gHY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/W1TCaha4zbk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -396,12 +373,6 @@ A young woman&#39;s plans to propose to her girlfriend while at her family&#39;s
 
 	
 
-	
-
-	
-
-	
-	
 	
 
 	
@@ -444,6 +415,37 @@ Working through some difficult decisions, Mitchell family matriarch Phylis and p
 	
 	
 
+	
+	
+
+### Happiest Season
+*Released on 2020-11-26, vote average 8*
+
+A young woman&#39;s plans to propose to her girlfriend while at her family&#39;s annual holiday party are upended when she discovers her partner hasn&#39;t yet come out to her conservative parents.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/h58HkQV1gHY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
 	
 
 	
