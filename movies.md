@@ -53,30 +53,8 @@ When Anna Wyncomb is introduced to an an underground, all-female fight club in o
 	
 	
 
-### What We Wanted
-*Released on 2020-11-11, vote average 6.4*
-
-Alice and Niklas are a young couple who&#39;s biggest wish is to have a child of their own. After several failed attempts they decide to go on a holiday in Sardinia to clear their minds. There they meet a family from Austria that seems to have everything they ever wished for. But appearances can be deceiving...
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MJb-eUFqzP8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Lego Star Wars Holiday Special
-*Released on 2020-11-17, vote average 7.4*
+*Released on 2020-11-17, vote average 7.3*
 
 Rey leaves her friends to prepare for Life Day as she sets off on an adventure to gain a deeper knowledge of the Force. At a mysterious temple, she is hurled into a cross-timeline adventure. Will she make it back in time for Life Day?
 
@@ -97,8 +75,52 @@ Rey leaves her friends to prepare for Life Day as she sets off on an adventure t
 	
 	
 
+### What We Wanted
+*Released on 2020-11-11, vote average 6.3*
+
+Alice and Niklas are a young couple who&#39;s biggest wish is to have a child of their own. After several failed attempts they decide to go on a holiday in Sardinia to clear their minds. There they meet a family from Austria that seems to have everything they ever wished for. But appearances can be deceiving...
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MJb-eUFqzP8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Princess Switch: Switched Again
+*Released on 2020-11-19, vote average 7.4*
+
+When Duchess Margaret unexpectedly inherits the throne &amp; hits a rough patch with Kevin, it’s up to Stacy to save the day before a new lookalike — party girl Fiona — foils their plans.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/f9OVdmIxkso?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Croods: A New Age
-*Released on 2020-11-19, vote average 5.3*
+*Released on 2020-11-19, vote average 6.3*
 
 After leaving their cave, the Croods encounter their biggest threat since leaving: another family called the Bettermans, who claim to be better and evolved. But after Eep and the Bettermans&#39; only daughter escape, the two families must put aside their differences to save them.
 
@@ -119,7 +141,7 @@ After leaving their cave, the Croods encounter their biggest threat since leavin
 	
 	
 
-### Gabriels Inferno Part III
+### Gabriel&#39;s Inferno Part III
 *Released on 2020-11-19, vote average 9.3*
 
 The final part of the film adaption of the erotic romance novel Gabriel&#39;s Inferno written by an anonymous Canadian author under the pen name Sylvain Reynard.
@@ -141,30 +163,8 @@ The final part of the film adaption of the erotic romance novel Gabriel&#39;s In
 	
 	
 
-### The Princess Switch: Switched Again
-*Released on 2020-11-19, vote average 7.6*
-
-When Duchess Margaret unexpectedly inherits the throne &amp; hits a rough patch with Kevin, it’s up to Stacy to save the day before a new lookalike — party girl Fiona — foils their plans.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/f9OVdmIxkso?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Jiu Jitsu
-*Released on 2020-11-20, vote average 6.9*
+*Released on 2020-11-20, vote average 6.7*
 
 Every six years, an ancient order of jiu-jitsu fighters joins forces to battle a vicious race of alien invaders. But when a celebrated war hero goes down in defeat, the fate of the planet and mankind hangs in the balance.
 
@@ -207,6 +207,35 @@ A mystical, ancient dagger causes a notorious serial killer to magically switch 
 	
 	
 
+### Alien Xmas
+*Released on 2020-11-20, vote average 6*
+
+A young elf mistakes a tiny alien for a Christmas gift, not knowing her new plaything has plans to destroy Earth&#39;s gravity — and steal all the presents.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/RhZ9gueH2OE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
 ### A Nashville Christmas Carol
 *Released on 2020-11-21, vote average 4.5*
 
@@ -221,11 +250,6 @@ Vivienne Wake, a workaholic television producer in charge of a country music Chr
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -257,7 +281,7 @@ Amid the dust storms and economic depression of Dust Bowl Era Oklahoma, Eugene E
 	
 
 ### Dance of the 41
-*Released on 2020-11-19, vote average 6*
+*Released on 2020-11-19, vote average 7*
 
 The true story of the infamous transvestite party that scandalized Mexico in 1901.
 
@@ -276,18 +300,23 @@ The true story of the infamous transvestite party that scandalized Mexico in 190
 
 
 	
+
+  
+
+
+	
 	
 
-### Alien Xmas
-*Released on 2020-11-20, vote average 7.3*
+### Fatman
+*Released on 2020-11-13, vote average 5.6*
 
-A young elf mistakes a tiny alien for a Christmas gift, not knowing her new plaything has plans to destroy Earth&#39;s gravity — and steal all the presents.
+A rowdy, unorthodox Santa Claus is fighting to save his declining business. Meanwhile, Billy, a neglected and precocious 12 year old, hires a hit man to kill Santa after receiving a lump of coal in his stocking.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/RhZ9gueH2OE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/DWfPGIMDhNw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -303,8 +332,6 @@ A young elf mistakes a tiny alien for a Christmas gift, not knowing her new play
 
 
 	
-	
-	
 
   
 
@@ -312,30 +339,20 @@ A young elf mistakes a tiny alien for a Christmas gift, not knowing her new play
 	
 	
 
-### Alone
-*Released on 2020-11-18, vote average 5.9*
+### Dolly Parton&#39;s Christmas on the Square
+*Released on 2020-11-22, vote average 9*
 
-When an outbreak hits, Aidan barricades himself inside his apartment and starts rationing food. His complex is overrun by infected Screamers, and with the world falling apart into chaos, he is left completely alone fighting for his life.
+A rich and nasty woman returns to her hometown to evict everyone but discovers the true meaning of Christmas thanks to the local townsfolk – and an actual angel. Features 14 original songs with music and lyrics by Dolly Parton!
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/5v6yVmtNEhg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/M5anWrBFPmY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -370,24 +387,18 @@ When Sarah lucks into a sweet one-bedroom at Asilo Del Mar Apartments in Los Ang
 	
 
 	
-
 	
 
-	
+### Host
+*Released on 2020-11-27, vote average 10*
 
-	
-	
-
-### Dolly Parton’s Christmas on the Square
-*Released on 2020-11-22, vote average 9*
-
-A rich and nasty woman returns to her hometown to evict everyone but discovers the true meaning of Christmas thanks to the local townsfolk – and an actual angel. Features 14 original songs with music and lyrics by Dolly Parton!
+Six friends hire a medium to hold a séance via Zoom during lockdown — but they get far more than they bargained for as things quickly go wrong. When an evil spirit starts invading their homes, they begin to realize they might not survive the night.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/M5anWrBFPmY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/SNlKbqHqGcY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -397,29 +408,16 @@ A rich and nasty woman returns to her hometown to evict everyone but discovers t
 	
 
 	
-	
-
-### The Christmas House
-*Released on 2020-11-22, vote average 4*
-
-Working through some difficult decisions, Mitchell family matriarch Phylis and patriarch Bill, have summoned their two grown sons – TV star, Mike Mitchell and Brandon Mitchell – home for the holidays. It is their hope that bringing the family together to recreate the Christmas house, will help them find resolution and make a memorable holiday for the entire family and community. As Brandon and his husband Jake make the trip home, they are anxiously awaiting a call about the adoption of their first child. Meanwhile, Mike reconnects with Andi, his high school sweetheart.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FiUTa9QG9uQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
 	
 
 	
 	
 
 ### Happiest Season
-*Released on 2020-11-26, vote average 8*
+*Released on 2020-11-26, vote average 7.5*
 
 A young woman&#39;s plans to propose to her girlfriend while at her family&#39;s annual holiday party are upended when she discovers her partner hasn&#39;t yet come out to her conservative parents.
 
@@ -435,6 +433,23 @@ A young woman&#39;s plans to propose to her girlfriend while at her family&#39;s
 	
 
 	
+	
+
+### Ma Rainey&#39;s Black Bottom
+*Released on 2020-11-25, vote average 9*
+
+Tensions rise when the trailblazing Mother of the Blues and her band gather at a Chicago recording studio in 1927. Adapted from August Wilson&#39;s play.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ord7gP151vk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
@@ -445,7 +460,7 @@ A young woman&#39;s plans to propose to her girlfriend while at her family&#39;s
 	
 
 	
-	
+
 	
 
 	
