@@ -53,50 +53,6 @@ When Anna Wyncomb is introduced to an an underground, all-female fight club in o
 	
 	
 
-### The Lego Star Wars Holiday Special
-*Released on 2020-11-17, vote average 7.3*
-
-Rey leaves her friends to prepare for Life Day as she sets off on an adventure to gain a deeper knowledge of the Force. At a mysterious temple, she is hurled into a cross-timeline adventure. Will she make it back in time for Life Day?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-bZxO5Dn9x0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### What We Wanted
-*Released on 2020-11-11, vote average 6.3*
-
-Alice and Niklas are a young couple who&#39;s biggest wish is to have a child of their own. After several failed attempts they decide to go on a holiday in Sardinia to clear their minds. There they meet a family from Austria that seems to have everything they ever wished for. But appearances can be deceiving...
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MJb-eUFqzP8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Princess Switch: Switched Again
 *Released on 2020-11-19, vote average 7.4*
 
@@ -119,16 +75,16 @@ When Duchess Margaret unexpectedly inherits the throne &amp; hits a rough patch 
 	
 	
 
-### The Croods: A New Age
-*Released on 2020-11-19, vote average 6.3*
+### The Lego Star Wars Holiday Special
+*Released on 2020-11-17, vote average 7.5*
 
-After leaving their cave, the Croods encounter their biggest threat since leaving: another family called the Bettermans, who claim to be better and evolved. But after Eep and the Bettermans&#39; only daughter escape, the two families must put aside their differences to save them.
+Rey leaves her friends to prepare for Life Day as she sets off on an adventure to gain a deeper knowledge of the Force. At a mysterious temple, she is hurled into a cross-timeline adventure. Will she make it back in time for Life Day?
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/GkXeVIfbJOw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-bZxO5Dn9x0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -141,16 +97,16 @@ After leaving their cave, the Croods encounter their biggest threat since leavin
 	
 	
 
-### Gabriel&#39;s Inferno Part III
-*Released on 2020-11-19, vote average 9.3*
+### What We Wanted
+*Released on 2020-11-11, vote average 6.4*
 
-The final part of the film adaption of the erotic romance novel Gabriel&#39;s Inferno written by an anonymous Canadian author under the pen name Sylvain Reynard.
+Alice and Niklas are a young couple who&#39;s biggest wish is to have a child of their own. After several failed attempts they decide to go on a holiday in Sardinia to clear their minds. There they meet a family from Austria that seems to have everything they ever wished for. But appearances can be deceiving...
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/mjPUGem9SaY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/MJb-eUFqzP8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -185,8 +141,30 @@ Every six years, an ancient order of jiu-jitsu fighters joins forces to battle a
 	
 	
 
+### Gabriel&#39;s Inferno Part III
+*Released on 2020-11-19, vote average 9.3*
+
+The final part of the film adaption of the erotic romance novel Gabriel&#39;s Inferno written by an anonymous Canadian author under the pen name Sylvain Reynard.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mjPUGem9SaY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Freaky
-*Released on 2020-11-11, vote average 6.6*
+*Released on 2020-11-11, vote average 6.7*
 
 A mystical, ancient dagger causes a notorious serial killer to magically switch bodies with a 17-year-old girl.
 
@@ -208,7 +186,7 @@ A mystical, ancient dagger causes a notorious serial killer to magically switch 
 	
 
 ### Alien Xmas
-*Released on 2020-11-20, vote average 6*
+*Released on 2020-11-20, vote average 6.6*
 
 A young elf mistakes a tiny alien for a Christmas gift, not knowing her new plaything has plans to destroy Earth&#39;s gravity — and steal all the presents.
 
@@ -227,6 +205,21 @@ A young elf mistakes a tiny alien for a Christmas gift, not knowing her new play
 
 
 	
+	
+
+### Fatman
+*Released on 2020-11-13, vote average 5.8*
+
+A rowdy, unorthodox Santa Claus is fighting to save his declining business. Meanwhile, Billy, a neglected and precocious 12 year old, hires a hit man to kill Santa after receiving a lump of coal in his stocking.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/DWfPGIMDhNw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -258,16 +251,45 @@ Vivienne Wake, a workaholic television producer in charge of a country music Chr
 	
 	
 
-### Dreamland
-*Released on 2020-11-13, vote average 7.3*
+### Dolly Parton&#39;s Christmas on the Square
+*Released on 2020-11-22, vote average 8.4*
 
-Amid the dust storms and economic depression of Dust Bowl Era Oklahoma, Eugene Evans finds his family farm on the brink of foreclosure. Discovering fugitive bank robber Allison Wells hiding in his small town, he is torn between claiming the bounty on her head and his growing attraction to the seductive criminal.
+A rich and nasty woman returns to her hometown to evict everyone but discovers the true meaning of Christmas thanks to the local townsfolk – and an actual angel. Features 14 original songs with music and lyrics by Dolly Parton!
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/agn4t4SOB_0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/M5anWrBFPmY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Run
+*Released on 2020-11-20, vote average 7.7*
+
+Chloe, a teenager who is confined to a wheelchair, is homeschooled by her mother, Diane. Chloe soon becomes suspicious of her mother and begins to suspect that she may be harboring a dark secret.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0Dhh7q9Us5c?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -300,23 +322,18 @@ The true story of the infamous transvestite party that scandalized Mexico in 190
 
 
 	
-
-  
-
-
-	
 	
 
-### Fatman
-*Released on 2020-11-13, vote average 5.6*
+### Dreamland
+*Released on 2020-11-13, vote average 7.2*
 
-A rowdy, unorthodox Santa Claus is fighting to save his declining business. Meanwhile, Billy, a neglected and precocious 12 year old, hires a hit man to kill Santa after receiving a lump of coal in his stocking.
+Amid the dust storms and economic depression of Dust Bowl Era Oklahoma, Eugene Evans finds his family farm on the brink of foreclosure. Discovering fugitive bank robber Allison Wells hiding in his small town, he is torn between claiming the bounty on her head and his growing attraction to the seductive criminal.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/DWfPGIMDhNw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/agn4t4SOB_0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -337,27 +354,27 @@ A rowdy, unorthodox Santa Claus is fighting to save his declining business. Mean
 
 
 	
+
+  
+
+
+	
 	
 
-### Dolly Parton&#39;s Christmas on the Square
-*Released on 2020-11-22, vote average 9*
+### The Real Right Stuff
+*Released on 2020-11-20, vote average 1*
 
-A rich and nasty woman returns to her hometown to evict everyone but discovers the true meaning of Christmas thanks to the local townsfolk – and an actual angel. Features 14 original songs with music and lyrics by Dolly Parton!
+The story of America&#39;s first astronauts, known as the Mercury 7, told through archival news &amp; radio reports, newly transferred &amp; previously unheard NASA mission audio recordings, and more rare &amp; unseen material.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/M5anWrBFPmY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/3ByCRT0jwns?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -371,7 +388,7 @@ A rich and nasty woman returns to her hometown to evict everyone but discovers t
 	
 
 ### 1BR
-*Released on 2020-11-26, vote average 5*
+*Released on 2020-11-26, vote average 5.5*
 
 When Sarah lucks into a sweet one-bedroom at Asilo Del Mar Apartments in Los Angeles, she think she&#39;s hit the jackpot. It&#39;s got plenty of space, friendly tenants, group BBQs and even a cute neighbour next door. All is not what it seems: loud noises start keeping her awake at night; her cat is missing; everyone seems to be a little too helpful and friendly, except for the weirdo, Lester. Soon, Sarah learns she didn&#39;t choose this apartment — it chose her.
 
@@ -389,8 +406,27 @@ When Sarah lucks into a sweet one-bedroom at Asilo Del Mar Apartments in Los Ang
 	
 	
 
+### The Croods: A New Age
+*Released on 2020-11-25, vote average 6.3*
+
+After leaving their cave, the Croods encounter their biggest threat since leaving: another family called the Bettermans, who claim to be better and evolved. But after Eep and the Bettermans&#39; only daughter escape, the two families must put aside their differences to save them.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/GkXeVIfbJOw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
 ### Host
-*Released on 2020-11-27, vote average 10*
+*Released on 2020-11-27, vote average 8.7*
 
 Six friends hire a medium to hold a séance via Zoom during lockdown — but they get far more than they bargained for as things quickly go wrong. When an evil spirit starts invading their homes, they begin to realize they might not survive the night.
 
@@ -403,10 +439,6 @@ Six friends hire a medium to hold a séance via Zoom during lockdown — but the
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
 	
 
 	
@@ -449,6 +481,8 @@ Tensions rise when the trailblazing Mother of the Blues and her band gather at a
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
