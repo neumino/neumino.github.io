@@ -47,7 +47,7 @@ When Anna Wyncomb is introduced to an an underground, all-female fight club in o
 	
 
 ### The Lego Star Wars Holiday Special
-*Released on 2020-11-17, vote average 7.5*
+*Released on 2020-11-17, vote average 7.4*
 
 Rey leaves her friends to prepare for Life Day as she sets off on an adventure to gain a deeper knowledge of the Force. At a mysterious temple, she is hurled into a cross-timeline adventure. Will she make it back in time for Life Day?
 
@@ -69,7 +69,7 @@ Rey leaves her friends to prepare for Life Day as she sets off on an adventure t
 	
 
 ### The Princess Switch: Switched Again
-*Released on 2020-11-19, vote average 7.4*
+*Released on 2020-11-19, vote average 7.3*
 
 When Duchess Margaret unexpectedly inherits the throne &amp; hits a rough patch with Kevin, it’s up to Stacy to save the day before a new lookalike — party girl Fiona — foils their plans.
 
@@ -98,7 +98,7 @@ When Duchess Margaret unexpectedly inherits the throne &amp; hits a rough patch 
 	
 
 ### The Croods: A New Age
-*Released on 2020-11-25, vote average 7.8*
+*Released on 2020-11-25, vote average 7.6*
 
 After leaving their cave, the Croods encounter their biggest threat since leaving: another family called the Bettermans, who claim to be better and evolved. But after Eep and the Bettermans&#39; only daughter escape, the two families must put aside their differences to save them.
 
@@ -119,30 +119,8 @@ After leaving their cave, the Croods encounter their biggest threat since leavin
 	
 	
 
-### What We Wanted
-*Released on 2020-11-11, vote average 6.1*
-
-Alice and Niklas are a young couple who&#39;s biggest wish is to have a child of their own. After several failed attempts they decide to go on a holiday in Sardinia to clear their minds. There they meet a family from Austria that seems to have everything they ever wished for. But appearances can be deceiving...
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MJb-eUFqzP8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Alien Xmas
-*Released on 2020-11-20, vote average 6.6*
+*Released on 2020-11-20, vote average 6.9*
 
 A young elf mistakes a tiny alien for a Christmas gift, not knowing her new plaything has plans to destroy Earth&#39;s gravity — and steal all the presents.
 
@@ -161,6 +139,94 @@ A young elf mistakes a tiny alien for a Christmas gift, not knowing her new play
 
 
 	
+	
+	
+
+  
+
+
+	
+	
+
+### 1BR
+*Released on 2020-11-26, vote average 5.3*
+
+When Sarah lucks into a sweet one-bedroom at Asilo Del Mar Apartments in Los Angeles, she think she&#39;s hit the jackpot. It&#39;s got plenty of space, friendly tenants, group BBQs and even a cute neighbour next door. All is not what it seems: loud noises start keeping her awake at night; her cat is missing; everyone seems to be a little too helpful and friendly, except for the weirdo, Lester. Soon, Sarah learns she didn&#39;t choose this apartment — it chose her.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/W1TCaha4zbk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Fatman
+*Released on 2020-11-13, vote average 6*
+
+A rowdy, unorthodox Santa Claus is fighting to save his declining business. Meanwhile, Billy, a neglected and precocious 12 year old, hires a hit man to kill Santa after receiving a lump of coal in his stocking.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/DWfPGIMDhNw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Run
+*Released on 2020-11-20, vote average 7.6*
+
+Chloe, a teenager who is confined to a wheelchair, is homeschooled by her mother, Diane. Chloe soon becomes suspicious of her mother and begins to suspect that she may be harboring a dark secret.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0Dhh7q9Us5c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Shawn Mendes: In Wonder
+*Released on 2020-11-23, vote average 8.6*
+
+A portrait of singer-songwriter Shawn Mendes&#39; life, chronicling the past few years of his rise and journey.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/n6b2il1O55U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -192,82 +258,16 @@ Every six years, an ancient order of jiu-jitsu fighters joins forces to battle a
 	
 	
 
-### Fatman
-*Released on 2020-11-13, vote average 5.8*
+### The Real Right Stuff
+*Released on 2020-11-20, vote average 4*
 
-A rowdy, unorthodox Santa Claus is fighting to save his declining business. Meanwhile, Billy, a neglected and precocious 12 year old, hires a hit man to kill Santa after receiving a lump of coal in his stocking.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/DWfPGIMDhNw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Run
-*Released on 2020-11-20, vote average 7.5*
-
-Chloe, a teenager who is confined to a wheelchair, is homeschooled by her mother, Diane. Chloe soon becomes suspicious of her mother and begins to suspect that she may be harboring a dark secret.
+The story of America&#39;s first astronauts, known as the Mercury 7, told through archival news &amp; radio reports, newly transferred &amp; previously unheard NASA mission audio recordings, and more rare &amp; unseen material.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/0Dhh7q9Us5c?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Dolly Parton&#39;s Christmas on the Square
-*Released on 2020-11-22, vote average 7.6*
-
-A rich and nasty woman returns to her hometown to evict everyone but discovers the true meaning of Christmas thanks to the local townsfolk – and an actual angel. Features 14 original songs with music and lyrics by Dolly Parton!
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/M5anWrBFPmY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Freaky
-*Released on 2020-11-11, vote average 6.8*
-
-A mystical, ancient dagger causes a notorious serial killer to magically switch bodies with a 17-year-old girl.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EqPnIcDW9g0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/3ByCRT0jwns?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -302,16 +302,60 @@ The final part of the film adaption of the erotic romance novel Gabriel&#39;s In
 	
 	
 
-### Shawn Mendes: In Wonder
-*Released on 2020-11-23, vote average 8.8*
+### Dolly Parton&#39;s Christmas on the Square
+*Released on 2020-11-22, vote average 7.4*
 
-A portrait of singer/songwriter Shawn Mendes&#39; life, chronicling the past few years of his rise and journey.
+A rich and nasty woman returns to her hometown to evict everyone but discovers the true meaning of Christmas thanks to the local townsfolk – and an actual angel. Features 14 original songs with music and lyrics by Dolly Parton!
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/n6b2il1O55U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/M5anWrBFPmY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Happiest Season
+*Released on 2020-11-26, vote average 7.5*
+
+A young woman&#39;s plans to propose to her girlfriend while at her family&#39;s annual holiday party are upended when she discovers her partner hasn&#39;t yet come out to her conservative parents.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/h58HkQV1gHY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Ma Rainey&#39;s Black Bottom
+*Released on 2020-11-25, vote average 7.5*
+
+Tensions rise when the trailblazing Mother of the Blues and her band gather at a Chicago recording studio in 1927. Adapted from August Wilson&#39;s play.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ord7gP151vk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -325,7 +369,7 @@ A portrait of singer/songwriter Shawn Mendes&#39; life, chronicling the past few
 	
 
 ### Dance of the 41
-*Released on 2020-11-19, vote average 7*
+*Released on 2020-11-19, vote average 7.3*
 
 The true story of the infamous transvestite party that scandalized Mexico in 1901.
 
@@ -349,65 +393,6 @@ The true story of the infamous transvestite party that scandalized Mexico in 190
 
 
 	
-	
-
-### A Godwink Christmas: Second Chance, First Love
-*Released on 2020-11-22, vote average 8*
-
-After 15 years, Pat moves home from Hawaii with his two sons and through a series of coincidences, or Godwinks, ends up stuck in traffic next to his high school sweetheart, Margie, at Christmas.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/5t_a8nBcIIA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Real Right Stuff
-*Released on 2020-11-20, vote average 1*
-
-The story of America&#39;s first astronauts, known as the Mercury 7, told through archival news &amp; radio reports, newly transferred &amp; previously unheard NASA mission audio recordings, and more rare &amp; unseen material.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3ByCRT0jwns?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Christmas House
-*Released on 2020-11-22, vote average 4*
-
-Working through some difficult decisions, Mitchell family matriarch Phylis and patriarch Bill, have summoned their two grown sons – TV star, Mike Mitchell and Brandon Mitchell – home for the holidays. It is their hope that bringing the family together to recreate the Christmas house, will help them find resolution and make a memorable holiday for the entire family and community. As Brandon and his husband Jake make the trip home, they are anxiously awaiting a call about the adoption of their first child. Meanwhile, Mike reconnects with Andi, his high school sweetheart.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FiUTa9QG9uQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -438,29 +423,12 @@ When Sarah lucks into a sweet one-bedroom at Asilo Del Mar Apartments in Los Ang
 	
 
 	
-	
-
-### The Croods: A New Age
-*Released on 2020-11-25, vote average 7.8*
-
-After leaving their cave, the Croods encounter their biggest threat since leaving: another family called the Bettermans, who claim to be better and evolved. But after Eep and the Bettermans&#39; only daughter escape, the two families must put aside their differences to save them.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/GkXeVIfbJOw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 	
 
 ### Host
-*Released on 2020-11-27, vote average 8*
+*Released on 2020-11-27, vote average 8.1*
 
 Six friends hire a medium to hold a séance via Zoom during lockdown — but they get far more than they bargained for as things quickly go wrong. When an evil spirit starts invading their homes, they begin to realize they might not survive the night.
 
@@ -496,23 +464,6 @@ A young woman&#39;s plans to propose to her girlfriend while at her family&#39;s
 	
 	
 
-	
-	
-
-### Ma Rainey&#39;s Black Bottom
-*Released on 2020-11-25, vote average 9*
-
-Tensions rise when the trailblazing Mother of the Blues and her band gather at a Chicago recording studio in 1927. Adapted from August Wilson&#39;s play.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ord7gP151vk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
