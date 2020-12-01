@@ -32,7 +32,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Alien Xmas
-*Released on 2020-11-20, vote average 7.1*
+*Released on 2020-11-20, vote average 7.4*
 
 A young elf mistakes a tiny alien for a Christmas gift, not knowing her new plaything has plans to destroy Earth&#39;s gravity — and steal all the presents.
 
@@ -76,7 +76,7 @@ When Duchess Margaret unexpectedly inherits the throne &amp; hits a rough patch 
 	
 
 ### The Lego Star Wars Holiday Special
-*Released on 2020-11-17, vote average 7.4*
+*Released on 2020-11-17, vote average 7.5*
 
 Rey leaves her friends to prepare for Life Day as she sets off on an adventure to gain a deeper knowledge of the Force. At a mysterious temple, she is hurled into a cross-timeline adventure. Will she make it back in time for Life Day?
 
@@ -98,37 +98,15 @@ Rey leaves her friends to prepare for Life Day as she sets off on an adventure t
 	
 
 ### The Croods: A New Age
-*Released on 2020-11-25, vote average 7.7*
+*Released on 2020-11-25, vote average 7.5*
 
-After leaving their cave, the Croods encounter their biggest threat since leaving: another family called the Bettermans, who claim to be better and evolved. But after Eep and the Bettermans&#39; only daughter escape, the two families must put aside their differences to save them.
+After leaving their cave, the Croods encounter their biggest threat since leaving: another family called the Bettermans, who claim and show to be better and evolved. Grug grows suspicious of the Betterman parents, Phil and Hope,  as they secretly plan to break up his daughter Eep with her loving boyfriend Guy to ensure that their daughter Dawn has a loving and smart partner to protect her.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/GkXeVIfbJOw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Happiest Season
-*Released on 2020-11-26, vote average 8.2*
-
-A young woman&#39;s plans to propose to her girlfriend while at her family&#39;s annual holiday party are upended when she discovers her partner hasn&#39;t yet come out to her conservative parents.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/h58HkQV1gHY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -162,6 +140,35 @@ Every six years, an ancient order of jiu-jitsu fighters joins forces to battle a
 
 	
 	
+	
+
+  
+
+
+	
+	
+
+### The Christmas Chronicles: Part Two
+*Released on 2020-11-18, vote average 7.4*
+
+Kate Pierce is reluctantly spending Christmas with her mom’s new boyfriend and his son Jack. But when the North Pole and Christmas are threatened to be destroyed, Kate and Jack are unexpectedly pulled into a new adventure with Santa Claus.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/HVzBwSOcBaI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
 
 ### 1BR
 *Released on 2020-11-26, vote average 5.6*
@@ -184,28 +191,26 @@ When Sarah lucks into a sweet one-bedroom at Asilo Del Mar Apartments in Los Ang
 
 	
 	
-	
 
-  
+### Happiest Season
+*Released on 2020-11-26, vote average 8.2*
 
-
-	
-	
-
-### The Christmas Chronicles: Part Two
-*Released on 2020-11-18, vote average 7.6*
-
-Kate Pierce is reluctantly spending Christmas with her mom’s new boyfriend and his son Jack. But when the North Pole and Christmas are threatened to be destroyed, Kate and Jack are unexpectedly pulled into a new adventure with Santa Claus.
+A young woman&#39;s plans to propose to her girlfriend while at her family&#39;s annual holiday party are upended when she discovers her partner hasn&#39;t yet come out to her conservative parents.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/HVzBwSOcBaI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/h58HkQV1gHY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -234,59 +239,10 @@ Six friends hire a medium to hold a séance via Zoom during lockdown — but the
 
 
 	
-
-  
-
-
-	
-	
-
-### Run
-*Released on 2020-11-20, vote average 7.7*
-
-Chloe, a teenager who is confined to a wheelchair, is homeschooled by her mother, Diane. Chloe soon becomes suspicious of her mother and begins to suspect that she may be harboring a dark secret.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0Dhh7q9Us5c?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Superintelligence
-*Released on 2020-11-26, vote average 6.1*
-
-When an all-powerful Superintelligence chooses to study the most average person on Earth, Carol Peters, the fate of the world hangs in the balance. As the A.I. decides to enslave, save or destroy humanity, it’s up to Carol to prove that people are worth saving.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/9bRe8sEcOvQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 	
 
 ### Black Beauty
-*Released on 2020-11-27, vote average 8.7*
+*Released on 2020-11-27, vote average 8.4*
 
 Born free in the American West, Black Beauty is a horse rounded up and brought to Birtwick Stables, where she meets spirited teenager Jo Green. The two forge a bond that carries Beauty through the different chapters, challenges and adventures.
 
@@ -314,8 +270,30 @@ Born free in the American West, Black Beauty is a horse rounded up and brought t
 	
 	
 
+### Run
+*Released on 2020-11-20, vote average 7.8*
+
+Chloe, a teenager who is confined to a wheelchair, is homeschooled by her mother, Diane. Chloe soon becomes suspicious of her mother and begins to suspect that she may be harboring a dark secret.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0Dhh7q9Us5c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Call
-*Released on 2020-11-27, vote average 7.2*
+*Released on 2020-11-27, vote average 7.3*
 
 Connected by phone in the same home but 20 years apart, a serial killer puts another woman’s past — and life — on the line to change her own fate.
 
@@ -336,19 +314,48 @@ Connected by phone in the same home but 20 years apart, a serial killer puts ano
 	
 	
 
-### Shawn Mendes: In Wonder
-*Released on 2020-11-23, vote average 8.1*
+### The Beast
+*Released on 2020-11-27, vote average 6*
 
-A portrait of singer-songwriter Shawn Mendes&#39; life, chronicling the past few years of his rise and journey.
+To rescue his daughter, an unstable Special Forces veteran unleashes his inner beast as he pursues her kidnappers — and soon becomes a suspect himself.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/n6b2il1O55U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/anUIbyAQ-dE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+	
+
+### Superintelligence
+*Released on 2020-11-26, vote average 6*
+
+When an all-powerful Superintelligence chooses to study the most average person on Earth, Carol Peters, the fate of the world hangs in the balance. As the A.I. decides to enslave, save or destroy humanity, it’s up to Carol to prove that people are worth saving.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/9bRe8sEcOvQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -368,28 +375,6 @@ The final part of the film adaption of the erotic romance novel Gabriel&#39;s In
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/mjPUGem9SaY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Beast
-*Released on 2020-11-27, vote average 6.2*
-
-To rescue his daughter, an unstable Special Forces veteran unleashes his inner beast as he pursues her kidnappers — and soon becomes a suspect himself.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/anUIbyAQ-dE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -426,13 +411,9 @@ When a rebellious teen embarks on a solo summer journey to connect with her root
 
 	
 	
-	
-
-	
-	
 
 ### Stardust
-*Released on 2020-12-04, vote average 0.5*
+*Released on 2020-12-04, vote average 0.8*
 
 David Bowie went to America for the first time to promote his third album, The Man Who Sold the World. There, he embarked on a coast-to-coast publicity tour. During this tour, Bowie came up with the idea of his iconic Ziggy Stardust character, inspired by artists like Iggy Pop and Lou Reed.
 
@@ -445,8 +426,6 @@ David Bowie went to America for the first time to promote his third album, The M
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
@@ -493,7 +472,45 @@ After the PTA of a conservative high school in Indiana bans same-sex couples fro
 	
 
 	
+	
 
+### La Femme Anjola
+*Released on 2020-12-01, vote average 7*
+
+A psychological-thriller film noir about a young male stock broker whose life is turned upside down when he falls for a femme fatale married to a wealthy gangster.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/XFUtwbjTxb8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+	
+
+### Mario Puzo&#39;s The Godfather, Coda: The Death of Michael Corleone
+*Released on 2020-12-03, vote average 8*
+
+New edit and restoration of the final film in the epic Godfather trilogy, following Michael Corleone&#39;s attempt to free his family from crime and find a suitable successor to his empire.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zi2MK9K1hxc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 
