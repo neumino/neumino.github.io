@@ -53,6 +53,28 @@ A young elf mistakes a tiny alien for a Christmas gift, not knowing her new play
 	
 	
 
+### Jiu Jitsu
+*Released on 2020-11-20, vote average 6.2*
+
+Every six years, an ancient order of jiu-jitsu fighters joins forces to battle a vicious race of alien invaders. But when a celebrated war hero goes down in defeat, the fate of the planet and mankind hangs in the balance.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ywhTeWg8970?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Princess Switch: Switched Again
 *Released on 2020-11-19, vote average 7.3*
 
@@ -75,30 +97,8 @@ When Duchess Margaret unexpectedly inherits the throne &amp; hits a rough patch 
 	
 	
 
-### The Lego Star Wars Holiday Special
-*Released on 2020-11-17, vote average 7.5*
-
-Rey leaves her friends to prepare for Life Day as she sets off on an adventure to gain a deeper knowledge of the Force. At a mysterious temple, she is hurled into a cross-timeline adventure. Will she make it back in time for Life Day?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-bZxO5Dn9x0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Croods: A New Age
-*Released on 2020-11-25, vote average 7.5*
+*Released on 2020-11-25, vote average 7.7*
 
 After leaving their cave, the Croods encounter their biggest threat since leaving: another family called the Bettermans, who claim and show to be better and evolved. Grug grows suspicious of the Betterman parents, Phil and Hope,  as they secretly plan to break up his daughter Eep with her loving boyfriend Guy to ensure that their daughter Dawn has a loving and smart partner to protect her.
 
@@ -107,28 +107,6 @@ After leaving their cave, the Croods encounter their biggest threat since leavin
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/GkXeVIfbJOw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Jiu Jitsu
-*Released on 2020-11-20, vote average 6.3*
-
-Every six years, an ancient order of jiu-jitsu fighters joins forces to battle a vicious race of alien invaders. But when a celebrated war hero goes down in defeat, the fate of the planet and mankind hangs in the balance.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ywhTeWg8970?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -149,7 +127,7 @@ Every six years, an ancient order of jiu-jitsu fighters joins forces to battle a
 	
 
 ### The Christmas Chronicles: Part Two
-*Released on 2020-11-18, vote average 7.4*
+*Released on 2020-11-18, vote average 7.3*
 
 Kate Pierce is reluctantly spending Christmas with her mom’s new boyfriend and his son Jack. But when the North Pole and Christmas are threatened to be destroyed, Kate and Jack are unexpectedly pulled into a new adventure with Santa Claus.
 
@@ -162,6 +140,11 @@ Kate Pierce is reluctantly spending Christmas with her mom’s new boyfriend and
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -193,7 +176,7 @@ When Sarah lucks into a sweet one-bedroom at Asilo Del Mar Apartments in Los Ang
 	
 
 ### Happiest Season
-*Released on 2020-11-26, vote average 8.2*
+*Released on 2020-11-26, vote average 8.1*
 
 A young woman&#39;s plans to propose to her girlfriend while at her family&#39;s annual holiday party are upended when she discovers her partner hasn&#39;t yet come out to her conservative parents.
 
@@ -212,6 +195,30 @@ A young woman&#39;s plans to propose to her girlfriend while at her family&#39;s
 
 
 	
+	
+	
+
+  
+
+
+	
+	
+
+### The Call
+*Released on 2020-11-27, vote average 7.4*
+
+Connected by phone in the same home but 20 years apart, a serial killer puts another woman’s past — and life — on the line to change her own fate.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hxkKeniT-0Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -220,7 +227,7 @@ A young woman&#39;s plans to propose to her girlfriend while at her family&#39;s
 	
 
 ### Host
-*Released on 2020-11-27, vote average 8.5*
+*Released on 2020-11-27, vote average 8.6*
 
 Six friends hire a medium to hold a séance via Zoom during lockdown — but they get far more than they bargained for as things quickly go wrong. When an evil spirit starts invading their homes, they begin to realize they might not survive the night.
 
@@ -270,52 +277,8 @@ Born free in the American West, Black Beauty is a horse rounded up and brought t
 	
 	
 
-### Run
-*Released on 2020-11-20, vote average 7.8*
-
-Chloe, a teenager who is confined to a wheelchair, is homeschooled by her mother, Diane. Chloe soon becomes suspicious of her mother and begins to suspect that she may be harboring a dark secret.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0Dhh7q9Us5c?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Call
-*Released on 2020-11-27, vote average 7.3*
-
-Connected by phone in the same home but 20 years apart, a serial killer puts another woman’s past — and life — on the line to change her own fate.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hxkKeniT-0Q?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Beast
-*Released on 2020-11-27, vote average 6*
+*Released on 2020-11-27, vote average 5.8*
 
 To rescue his daughter, an unstable Special Forces veteran unleashes his inner beast as he pursues her kidnappers — and soon becomes a suspect himself.
 
@@ -336,8 +299,52 @@ To rescue his daughter, an unstable Special Forces veteran unleashes his inner b
 	
 	
 
+### Run
+*Released on 2020-11-20, vote average 7.7*
+
+Chloe, a teenager who is confined to a wheelchair, is homeschooled by her mother, Diane. Chloe soon becomes suspicious of her mother and begins to suspect that she may be harboring a dark secret.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0Dhh7q9Us5c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Illumination Presents: Minions Holiday Special
+*Released on 2020-11-27, vote average 8.4*
+
+Four mini-movie escapades starring the Minions, with various special guest appearances, all to celebrate the holidays!
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/s8x-Rd7YQl8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Superintelligence
-*Released on 2020-11-26, vote average 6*
+*Released on 2020-11-26, vote average 6.3*
 
 When an all-powerful Superintelligence chooses to study the most average person on Earth, Carol Peters, the fate of the world hangs in the balance. As the A.I. decides to enslave, save or destroy humanity, it’s up to Carol to prove that people are worth saving.
 
@@ -357,24 +364,17 @@ When an all-powerful Superintelligence chooses to study the most average person 
 
 	
 	
-	
 
-  
+### Zappa
+*Released on 2020-11-27, vote average 7*
 
-
-	
-	
-
-### Gabriel&#39;s Inferno Part III
-*Released on 2020-11-19, vote average 9.3*
-
-The final part of the film adaption of the erotic romance novel Gabriel&#39;s Inferno written by an anonymous Canadian author under the pen name Sylvain Reynard.
+With the help of more than 10,000 dedicated Zappa fans, this is the long-awaited definitive documentary project of Alex Winter documenting the life and career of enigmatic groundbreaking rock star Frank Zappa. Alex also utilizes in this picture thousands of hours of painstakingly digitized videos, photos, audio, writing, and everything in between from Zappa&#39;s private archives. These chronicles have never been brought to a public audience before, until now.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/mjPUGem9SaY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/U4F0rT0F6OQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -432,7 +432,7 @@ David Bowie went to America for the first time to promote his third album, The M
 	
 
 ### The Prom
-*Released on 2020-12-02, vote average 4.5*
+*Released on 2020-12-02, vote average 5.3*
 
 After the PTA of a conservative high school in Indiana bans same-sex couples from attending the annual prom, a gang of flamboyant Broadway stars try to boost their image by showing up to support two lesbian students.
 
@@ -454,7 +454,21 @@ After the PTA of a conservative high school in Indiana bans same-sex couples fro
 	
 
 	
+	
+	
 
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
 	
 
 	
@@ -467,50 +481,6 @@ After the PTA of a conservative high school in Indiana bans same-sex couples fro
 
 	
 
-	
-
-	
-
-	
-	
-
-### La Femme Anjola
-*Released on 2020-12-01, vote average 7*
-
-A psychological-thriller film noir about a young male stock broker whose life is turned upside down when he falls for a femme fatale married to a wealthy gangster.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XFUtwbjTxb8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
-	
-
-### Mario Puzo&#39;s The Godfather, Coda: The Death of Michael Corleone
-*Released on 2020-12-03, vote average 8*
-
-New edit and restoration of the final film in the epic Godfather trilogy, following Michael Corleone&#39;s attempt to free his family from crime and find a suitable successor to his empire.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zi2MK9K1hxc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 
