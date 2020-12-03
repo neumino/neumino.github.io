@@ -32,7 +32,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Alien Xmas
-*Released on 2020-11-20, vote average 7.4*
+*Released on 2020-11-20, vote average 7.2*
 
 A young elf mistakes a tiny alien for a Christmas gift, not knowing her new plaything has plans to destroy Earth&#39;s gravity — and steal all the presents.
 
@@ -73,6 +73,33 @@ Every six years, an ancient order of jiu-jitsu fighters joins forces to battle a
 
 
 	
+
+  
+
+
+	
+	
+
+### The Croods: A New Age
+*Released on 2020-11-25, vote average 6.8*
+
+After leaving their cave, the Croods encounter their biggest threat since leaving: another family called the Bettermans, who claim and show to be better and evolved. Grug grows suspicious of the Betterman parents, Phil and Hope,  as they secretly plan to break up his daughter Eep with her loving boyfriend Guy to ensure that their daughter Dawn has a loving and smart partner to protect her.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/GkXeVIfbJOw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 
 ### The Princess Switch: Switched Again
@@ -96,17 +123,24 @@ When Duchess Margaret unexpectedly inherits the throne &amp; hits a rough patch 
 
 	
 	
+	
 
-### The Croods: A New Age
-*Released on 2020-11-25, vote average 7.7*
+  
 
-After leaving their cave, the Croods encounter their biggest threat since leaving: another family called the Bettermans, who claim and show to be better and evolved. Grug grows suspicious of the Betterman parents, Phil and Hope,  as they secretly plan to break up his daughter Eep with her loving boyfriend Guy to ensure that their daughter Dawn has a loving and smart partner to protect her.
+
+	
+	
+
+### Lady Driver
+*Released on 2020-12-03, vote average 1*
+
+When a rebellious teen embarks on a solo summer journey to connect with her roots, she finds herself in a new world, geared up for the ride of her life, and discovers she had the drive in her all along.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/GkXeVIfbJOw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/zF3-l__N2SM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -118,33 +152,6 @@ After leaving their cave, the Croods encounter their biggest threat since leavin
 
 	
 	
-	
-
-  
-
-
-	
-	
-
-### The Christmas Chronicles: Part Two
-*Released on 2020-11-18, vote average 7.3*
-
-Kate Pierce is reluctantly spending Christmas with her mom’s new boyfriend and his son Jack. But when the North Pole and Christmas are threatened to be destroyed, Kate and Jack are unexpectedly pulled into a new adventure with Santa Claus.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/HVzBwSOcBaI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -154,7 +161,7 @@ Kate Pierce is reluctantly spending Christmas with her mom’s new boyfriend and
 	
 
 ### 1BR
-*Released on 2020-11-26, vote average 5.6*
+*Released on 2020-11-26, vote average 5.3*
 
 When Sarah lucks into a sweet one-bedroom at Asilo Del Mar Apartments in Los Angeles, she think she&#39;s hit the jackpot. It&#39;s got plenty of space, friendly tenants, group BBQs and even a cute neighbour next door. All is not what it seems: loud noises start keeping her awake at night; her cat is missing; everyone seems to be a little too helpful and friendly, except for the weirdo, Lester. Soon, Sarah learns she didn&#39;t choose this apartment — it chose her.
 
@@ -196,16 +203,9 @@ A young woman&#39;s plans to propose to her girlfriend while at her family&#39;s
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### The Call
-*Released on 2020-11-27, vote average 7.4*
+*Released on 2020-11-27, vote average 7.5*
 
 Connected by phone in the same home but 20 years apart, a serial killer puts another woman’s past — and life — on the line to change her own fate.
 
@@ -249,7 +249,7 @@ Six friends hire a medium to hold a séance via Zoom during lockdown — but the
 	
 
 ### Black Beauty
-*Released on 2020-11-27, vote average 8.4*
+*Released on 2020-11-27, vote average 8.3*
 
 Born free in the American West, Black Beauty is a horse rounded up and brought to Birtwick Stables, where she meets spirited teenager Jo Green. The two forge a bond that carries Beauty through the different chapters, challenges and adventures.
 
@@ -275,10 +275,15 @@ Born free in the American West, Black Beauty is a horse rounded up and brought t
 
 
 	
+
+  
+
+
+	
 	
 
 ### The Beast
-*Released on 2020-11-27, vote average 5.8*
+*Released on 2020-11-27, vote average 5.7*
 
 To rescue his daughter, an unstable Special Forces veteran unleashes his inner beast as he pursues her kidnappers — and soon becomes a suspect himself.
 
@@ -299,16 +304,16 @@ To rescue his daughter, an unstable Special Forces veteran unleashes his inner b
 	
 	
 
-### Run
-*Released on 2020-11-20, vote average 7.7*
+### The Prom
+*Released on 2020-12-02, vote average 5.3*
 
-Chloe, a teenager who is confined to a wheelchair, is homeschooled by her mother, Diane. Chloe soon becomes suspicious of her mother and begins to suspect that she may be harboring a dark secret.
+After the PTA of a conservative high school in Indiana bans same-sex couples from attending the annual prom, a gang of flamboyant Broadway stars try to boost their image by showing up to support two lesbian students.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/0Dhh7q9Us5c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Zt9v3f35l5Y?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -343,38 +348,16 @@ Four mini-movie escapades starring the Minions, with various special guest appea
 	
 	
 
-### Superintelligence
-*Released on 2020-11-26, vote average 6.3*
+### Run
+*Released on 2020-11-20, vote average 7.7*
 
-When an all-powerful Superintelligence chooses to study the most average person on Earth, Carol Peters, the fate of the world hangs in the balance. As the A.I. decides to enslave, save or destroy humanity, it’s up to Carol to prove that people are worth saving.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/9bRe8sEcOvQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Zappa
-*Released on 2020-11-27, vote average 7*
-
-With the help of more than 10,000 dedicated Zappa fans, this is the long-awaited definitive documentary project of Alex Winter documenting the life and career of enigmatic groundbreaking rock star Frank Zappa. Alex also utilizes in this picture thousands of hours of painstakingly digitized videos, photos, audio, writing, and everything in between from Zappa&#39;s private archives. These chronicles have never been brought to a public audience before, until now.
+Chloe, a teenager who is confined to a wheelchair, is homeschooled by her mother, Diane. Chloe soon becomes suspicious of her mother and begins to suspect that she may be harboring a dark secret.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/U4F0rT0F6OQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/0Dhh7q9Us5c?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -410,6 +393,8 @@ When a rebellious teen embarks on a solo summer journey to connect with her root
 	
 
 	
+
+	
 	
 
 ### Stardust
@@ -429,23 +414,6 @@ David Bowie went to America for the first time to promote his third album, The M
 	
 
 	
-	
-
-### The Prom
-*Released on 2020-12-02, vote average 5.3*
-
-After the PTA of a conservative high school in Indiana bans same-sex couples from attending the annual prom, a gang of flamboyant Broadway stars try to boost their image by showing up to support two lesbian students.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Zt9v3f35l5Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
@@ -458,6 +426,8 @@ After the PTA of a conservative high school in Indiana bans same-sex couples fro
 	
 
 	
+	
+	
 
 	
 
@@ -465,10 +435,6 @@ After the PTA of a conservative high school in Indiana bans same-sex couples fro
 
 	
 
-	
-
-	
-	
 	
 
 	
