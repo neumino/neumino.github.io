@@ -11,6 +11,21 @@ This is a convenient page that embeds trailers of movies released in the past
 
 	
 	
+
+### Jiu Jitsu
+*Released on 2020-11-20, vote average 6.1*
+
+Every six years, an ancient order of jiu-jitsu fighters joins forces to battle a vicious race of alien invaders. But when a celebrated war hero goes down in defeat, the fate of the planet and mankind hangs in the balance.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ywhTeWg8970?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -32,7 +47,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Alien Xmas
-*Released on 2020-11-20, vote average 7.2*
+*Released on 2020-11-20, vote average 7.3*
 
 A young elf mistakes a tiny alien for a Christmas gift, not knowing her new plaything has plans to destroy Earth&#39;s gravity — and steal all the presents.
 
@@ -50,79 +65,6 @@ A young elf mistakes a tiny alien for a Christmas gift, not knowing her new play
   
 
 
-	
-	
-
-### Jiu Jitsu
-*Released on 2020-11-20, vote average 6.2*
-
-Every six years, an ancient order of jiu-jitsu fighters joins forces to battle a vicious race of alien invaders. But when a celebrated war hero goes down in defeat, the fate of the planet and mankind hangs in the balance.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ywhTeWg8970?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Croods: A New Age
-*Released on 2020-11-25, vote average 6.8*
-
-After leaving their cave, the Croods encounter their biggest threat since leaving: another family called the Bettermans, who claim and show to be better and evolved. Grug grows suspicious of the Betterman parents, Phil and Hope,  as they secretly plan to break up his daughter Eep with her loving boyfriend Guy to ensure that their daughter Dawn has a loving and smart partner to protect her.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/GkXeVIfbJOw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Princess Switch: Switched Again
-*Released on 2020-11-19, vote average 7.3*
-
-When Duchess Margaret unexpectedly inherits the throne &amp; hits a rough patch with Kevin, it’s up to Stacy to save the day before a new lookalike — party girl Fiona — foils their plans.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/f9OVdmIxkso?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -152,6 +94,35 @@ When a rebellious teen embarks on a solo summer journey to connect with her root
 
 	
 	
+
+### The Croods: A New Age
+*Released on 2020-11-25, vote average 6.8*
+
+After leaving their cave, the Croods encounter their biggest threat since leaving: another family called the Bettermans, who claim and show to be better and evolved. Grug grows suspicious of the Betterman parents, Phil and Hope,  as they secretly plan to break up his daughter Eep with her loving boyfriend Guy to ensure that their daughter Dawn has a loving and smart partner to protect her.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/GkXeVIfbJOw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -161,7 +132,7 @@ When a rebellious teen embarks on a solo summer journey to connect with her root
 	
 
 ### 1BR
-*Released on 2020-11-26, vote average 5.3*
+*Released on 2020-11-26, vote average 5.6*
 
 When Sarah lucks into a sweet one-bedroom at Asilo Del Mar Apartments in Los Angeles, she think she&#39;s hit the jackpot. It&#39;s got plenty of space, friendly tenants, group BBQs and even a cute neighbour next door. All is not what it seems: loud noises start keeping her awake at night; her cat is missing; everyone seems to be a little too helpful and friendly, except for the weirdo, Lester. Soon, Sarah learns she didn&#39;t choose this apartment — it chose her.
 
@@ -202,10 +173,15 @@ A young woman&#39;s plans to propose to her girlfriend while at her family&#39;s
 
 
 	
+
+  
+
+
+	
 	
 
 ### The Call
-*Released on 2020-11-27, vote average 7.5*
+*Released on 2020-11-27, vote average 7.4*
 
 Connected by phone in the same home but 20 years apart, a serial killer puts another woman’s past — and life — on the line to change her own fate.
 
@@ -247,6 +223,79 @@ Six friends hire a medium to hold a séance via Zoom during lockdown — but the
 
 	
 	
+	
+
+  
+
+
+	
+	
+
+### Angela&#39;s Christmas Wish
+*Released on 2020-12-01, vote average 7.6*
+
+A determined Angela makes a wish to reunite her family in time for Christmas, then launches a plan to find her way from Ireland to Australia.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PCLmjgk4lTU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Boss Level
+*Released on 2020-11-23, vote average 6.8*
+
+A retired special forces officer is trapped in a never-ending time loop on the day of his death.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/CgZhk6uWGk4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Beast
+*Released on 2020-11-27, vote average 5.7*
+
+To rescue his daughter, an unstable Special Forces veteran unleashes his inner beast as he pursues her kidnappers — and soon becomes a suspect himself.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/anUIbyAQ-dE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
 
 ### Black Beauty
 *Released on 2020-11-27, vote average 8.3*
@@ -269,29 +318,17 @@ Born free in the American West, Black Beauty is a horse rounded up and brought t
 
 	
 	
-	
 
-  
+### Run
+*Released on 2020-11-20, vote average 7.7*
 
-
-	
-
-  
-
-
-	
-	
-
-### The Beast
-*Released on 2020-11-27, vote average 5.7*
-
-To rescue his daughter, an unstable Special Forces veteran unleashes his inner beast as he pursues her kidnappers — and soon becomes a suspect himself.
+Chloe, a teenager who is confined to a wheelchair, is homeschooled by her mother, Diane. Chloe soon becomes suspicious of her mother and begins to suspect that she may be harboring a dark secret.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/anUIbyAQ-dE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/0Dhh7q9Us5c?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -324,45 +361,6 @@ After the PTA of a conservative high school in Indiana bans same-sex couples fro
 
 
 	
-	
-
-### Illumination Presents: Minions Holiday Special
-*Released on 2020-11-27, vote average 8.4*
-
-Four mini-movie escapades starring the Minions, with various special guest appearances, all to celebrate the holidays!
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/s8x-Rd7YQl8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Run
-*Released on 2020-11-20, vote average 7.7*
-
-Chloe, a teenager who is confined to a wheelchair, is homeschooled by her mother, Diane. Chloe soon becomes suspicious of her mother and begins to suspect that she may be harboring a dark secret.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0Dhh7q9Us5c?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -370,25 +368,6 @@ Chloe, a teenager who is confined to a wheelchair, is homeschooled by her mother
 
 ## Opening soon
 
-
-	
-	
-
-### Lady Driver
-*Released on 2020-12-03, vote average 1*
-
-When a rebellious teen embarks on a solo summer journey to connect with her roots, she finds herself in a new world, geared up for the ride of her life, and discovers she had the drive in her all along.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zF3-l__N2SM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
@@ -418,14 +397,6 @@ David Bowie went to America for the first time to promote his third album, The M
 	
 
 	
-
-	
-
-	
-	
-	
-
-	
 	
 	
 
@@ -442,7 +413,49 @@ David Bowie went to America for the first time to promote his third album, The M
 	
 
 	
+	
 
+### Lost at Christmas
+*Released on 2020-12-04, vote average 6.2*
+
+Set in the remote Scottish town of Fort William on Christmas Eve, when life is turned upside down for Jen and Rob. Suddenly finding themselves heartbroken, single and stranded, they team up to try and reach home 100 miles away to be with their families. &#34;Borrowing&#34; Jen’s now ex-boyfriend’s classic car, the pair hit the road, but it’s not long before the weather turns for the worse forcing them to continue their journey on foot.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MAP5P5lck6k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### I Hate New Year&#39;s
+*Released on 2020-12-04, vote average 7*
+
+Rising music star Layne heads home to Nashville for New Year&#39;s Eve to break her writer&#39;s block, but sometimes you find inspiration - and love - where you least expect it.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZspsLiNSRpU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
