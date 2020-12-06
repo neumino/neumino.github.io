@@ -32,7 +32,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Croods: A New Age
-*Released on 2020-11-25, vote average 6.9*
+*Released on 2020-11-25, vote average 7*
 
 After leaving their cave, the Croods encounter their biggest threat since leaving: another family called the Bettermans, who claim and show to be better and evolved. Grug grows suspicious of the Betterman parents, Phil and Hope,  as they secretly plan to break up his daughter Eep with her loving boyfriend Guy to ensure that their daughter Dawn has a loving and smart partner to protect her.
 
@@ -82,30 +82,8 @@ When a rebellious teen embarks on a solo summer journey to connect with her root
 	
 	
 
-### 1BR
-*Released on 2020-11-26, vote average 5.8*
-
-When Sarah lucks into a sweet one-bedroom at Asilo Del Mar Apartments in Los Angeles, she think she&#39;s hit the jackpot. It&#39;s got plenty of space, friendly tenants, group BBQs and even a cute neighbour next door. All is not what it seems: loud noises start keeping her awake at night; her cat is missing; everyone seems to be a little too helpful and friendly, except for the weirdo, Lester. Soon, Sarah learns she didn&#39;t choose this apartment — it chose her.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/W1TCaha4zbk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Happiest Season
-*Released on 2020-11-26, vote average 8*
+*Released on 2020-11-26, vote average 7.9*
 
 A young woman&#39;s plans to propose to her girlfriend while at her family&#39;s annual holiday party are upended when she discovers her partner hasn&#39;t yet come out to her conservative parents.
 
@@ -126,16 +104,16 @@ A young woman&#39;s plans to propose to her girlfriend while at her family&#39;s
 	
 	
 
-### Monster Hunter
-*Released on 2020-12-03, vote average 8.5*
+### 1BR
+*Released on 2020-11-26, vote average 5.8*
 
-A portal transports Lt. Artemis and an elite unit of soldiers to a strange world where powerful monsters rule with deadly ferocity. Faced with relentless danger, the team encounters a mysterious hunter who may be their only hope to find a way home.
+When Sarah lucks into a sweet one-bedroom at Asilo Del Mar Apartments in Los Angeles, she think she&#39;s hit the jackpot. It&#39;s got plenty of space, friendly tenants, group BBQs and even a cute neighbour next door. All is not what it seems: loud noises start keeping her awake at night; her cat is missing; everyone seems to be a little too helpful and friendly, except for the weirdo, Lester. Soon, Sarah learns she didn&#39;t choose this apartment — it chose her.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/09Ia7PGMGwk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/W1TCaha4zbk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -170,20 +148,25 @@ A determined Angela makes a wish to reunite her family in time for Christmas, th
 	
 	
 
-### The Call
-*Released on 2020-11-27, vote average 7.5*
+### Monster Hunter
+*Released on 2020-12-03, vote average 5.6*
 
-Connected by phone in the same home but 20 years apart, a serial killer puts another woman’s past — and life — on the line to change her own fate.
+A portal transports Lt. Artemis and an elite unit of soldiers to a strange world where powerful monsters rule with deadly ferocity. Faced with relentless danger, the team encounters a mysterious hunter who may be their only hope to find a way home.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/hxkKeniT-0Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/09Ia7PGMGwk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -212,23 +195,18 @@ Six friends hire a medium to hold a séance via Zoom during lockdown — but the
 
 
 	
-
-  
-
-
-	
 	
 
-### Stardust
-*Released on 2020-12-04, vote average 0.8*
+### Wander
+*Released on 2020-12-04, vote average 9*
 
-David Bowie went to America for the first time to promote his third album, The Man Who Sold the World. There, he embarked on a coast-to-coast publicity tour. During this tour, Bowie came up with the idea of his iconic Ziggy Stardust character, inspired by artists like Iggy Pop and Lou Reed.
+After getting hired to probe a suspicious death in the small town of Wander, a mentally unstable private investigator becomes convinced the case is linked to the same &#39;conspiracy cover up&#39; that caused the death of his daughter.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/OQJqG4qaQ0U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/mHc7z-Ks6dg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -241,8 +219,57 @@ David Bowie went to America for the first time to promote his third album, The M
 	
 	
 
+### The Call
+*Released on 2020-11-27, vote average 7.7*
+
+Connected by phone in the same home but 20 years apart, a serial killer puts another woman’s past — and life — on the line to change her own fate.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hxkKeniT-0Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Godmothered
+*Released on 2020-12-04, vote average 6.9*
+
+A young and unskilled fairy godmother that ventures out on her own to prove her worth by tracking down a young girl whose request for help was ignored. What she discovers is that the girl has now become a grown woman in need of something very different than a &#34;prince charming.&#34;
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KYWzEqX-J-4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### Boss Level
-*Released on 2020-11-23, vote average 6.7*
+*Released on 2020-11-23, vote average 6.8*
 
 A retired special forces officer is trapped in a never-ending time loop on the day of his death.
 
@@ -263,30 +290,8 @@ A retired special forces officer is trapped in a never-ending time loop on the d
 	
 	
 
-### Wander
-*Released on 2020-12-04, vote average 9*
-
-After getting hired to probe a suspicious death in the small town of Wander, a mentally unstable private investigator becomes convinced the case is linked to the same &#39;conspiracy cover up&#39; that caused the death of his daughter.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ioWdag5IhFk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Half Brothers
-*Released on 2020-12-04, vote average 5*
+*Released on 2020-12-04, vote average 6.5*
 
 A story about the complex connection with a brother who is based in Mexico, meant to be a metaphor of the relationship between neighboring countries America and Mexico.
 
@@ -295,28 +300,6 @@ A story about the complex connection with a brother who is based in Mexico, mean
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/tmxxfuLPWXg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Beast
-*Released on 2020-11-27, vote average 5.7*
-
-To rescue his daughter, an unstable Special Forces veteran unleashes his inner beast as he pursues her kidnappers — and soon becomes a suspect himself.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/anUIbyAQ-dE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -349,15 +332,66 @@ Born free in the American West, Black Beauty is a horse rounded up and brought t
 
 
 	
+	
 
-  
+### Mariah Carey&#39;s Magical Christmas Special
+*Released on 2020-12-04, vote average 10*
 
+Faced with a holiday cheer crisis, the North Pole knows there&#39;s only one person who can save the day: Santa’s great friend, Mariah Carey. Combining musical performances, dynamic dancing and groundbreaking animation, the undisputed Queen of Christmas jumps into action to create a holiday spectacular to make the whole world merry.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KA7GxpLH_5A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
 
 
+	
+	
+
+### Just Another Christmas
+*Released on 2020-12-03, vote average 7.3*
+
+After taking a very nasty fall on Christmas Eve, grinchy Jorge blacks out and wakes up one year later, with no memory of the year that has passed. He soon realizes that he’s doomed to keep waking up on Christmas Eve after Christmas Eve, having to deal with the aftermath of what his other self has done the other 364 days of the year.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zgSjiwdZSSM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Beast
+*Released on 2020-11-27, vote average 5.7*
+
+To rescue his daughter, an unstable Special Forces veteran unleashes his inner beast as he pursues her kidnappers — and soon becomes a suspect himself.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/anUIbyAQ-dE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -370,10 +404,16 @@ Born free in the American West, Black Beauty is a horse rounded up and brought t
 	
 
 	
+
+	
+	
+	
+
+	
 	
 
 ### Superintelligence
-*Released on 2020-12-11, vote average 5.8*
+*Released on 2020-12-11, vote average 6*
 
 When an all-powerful Superintelligence chooses to study the most average person on Earth, Carol Peters, the fate of the world hangs in the balance. As the A.I. decides to enslave, save or destroy humanity, it’s up to Carol to prove that people are worth saving.
 
@@ -405,17 +445,13 @@ When an all-powerful Superintelligence chooses to study the most average person 
 	
 
 	
+	
+	
 
 	
 
 	
 
-	
-
-	
-
-	
-	
 	
 
 	
