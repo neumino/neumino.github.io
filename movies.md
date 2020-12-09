@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### The Croods: A New Age
-*Released on 2020-11-25, vote average 7*
+### Angela&#39;s Christmas Wish
+*Released on 2020-12-01, vote average 8*
 
-After leaving their cave, the Croods encounter their biggest threat since leaving: another family called the Bettermans, who claim and show to be better and evolved. Grug grows suspicious of the Betterman parents, Phil and Hope,  as they secretly plan to break up his daughter Eep with her loving boyfriend Guy to ensure that their daughter Dawn has a loving and smart partner to protect her.
+A determined Angela makes a wish to reunite her family in time for Christmas, then launches a plan to find her way from Ireland to Australia.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/GkXeVIfbJOw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/PCLmjgk4lTU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ After leaving their cave, the Croods encounter their biggest threat since leavin
 	
 	
 
-### Happiest Season
-*Released on 2020-11-26, vote average 7.8*
+### The Croods: A New Age
+*Released on 2020-11-25, vote average 7.1*
 
-A young woman&#39;s plans to propose to her girlfriend while at her family&#39;s annual holiday party are upended when she discovers her partner hasn&#39;t yet come out to her conservative parents.
+After leaving their cave, the Croods encounter their biggest threat since leaving: another family called the Bettermans, who claim and show to be better and evolved. Grug grows suspicious of the Betterman parents, Phil and Hope,  as they secretly plan to break up his daughter Eep with her loving boyfriend Guy to ensure that their daughter Dawn has a loving and smart partner to protect her.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/h58HkQV1gHY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/GkXeVIfbJOw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,16 +68,16 @@ A young woman&#39;s plans to propose to her girlfriend while at her family&#39;s
 	
 	
 
-### Angela&#39;s Christmas Wish
-*Released on 2020-12-01, vote average 7.8*
+### Happiest Season
+*Released on 2020-11-26, vote average 7.8*
 
-A determined Angela makes a wish to reunite her family in time for Christmas, then launches a plan to find her way from Ireland to Australia.
+A young woman&#39;s plans to propose to her girlfriend while at her family&#39;s annual holiday party are upended when she discovers her partner hasn&#39;t yet come out to her conservative parents.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/PCLmjgk4lTU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/h58HkQV1gHY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -110,6 +110,43 @@ When a rebellious teen embarks on a solo summer journey to connect with her root
 
 
 	
+	
+
+### Godmothered
+*Released on 2020-12-04, vote average 7.5*
+
+A young and unskilled fairy godmother that ventures out on her own to prove her worth by tracking down a young girl whose request for help was ignored. What she discovers is that the girl has now become a grown woman in need of something very different than a &#34;prince charming.&#34;
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KYWzEqX-J-4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Wander
+*Released on 2020-12-04, vote average 6.7*
+
+After getting hired to probe a suspicious death in the small town of Wander, a mentally unstable private investigator becomes convinced the case is linked to the same &#39;conspiracy cover up&#39; that caused the death of his daughter.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mHc7z-Ks6dg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -145,46 +182,17 @@ When Sarah lucks into a sweet one-bedroom at Asilo Del Mar Apartments in Los Ang
 
 	
 	
-	
 
-  
+### Just Another Christmas
+*Released on 2020-12-03, vote average 7.7*
 
-
-	
-	
-
-### Godmothered
-*Released on 2020-12-04, vote average 7.4*
-
-A young and unskilled fairy godmother that ventures out on her own to prove her worth by tracking down a young girl whose request for help was ignored. What she discovers is that the girl has now become a grown woman in need of something very different than a &#34;prince charming.&#34;
+After taking a very nasty fall on Christmas Eve, grinchy Jorge blacks out and wakes up one year later, with no memory of the year that has passed. He soon realizes that he’s doomed to keep waking up on Christmas Eve after Christmas Eve, having to deal with the aftermath of what his other self has done the other 364 days of the year.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/KYWzEqX-J-4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Wander
-*Released on 2020-12-04, vote average 7.3*
-
-After getting hired to probe a suspicious death in the small town of Wander, a mentally unstable private investigator becomes convinced the case is linked to the same &#39;conspiracy cover up&#39; that caused the death of his daughter.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/mHc7z-Ks6dg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/zgSjiwdZSSM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -198,7 +206,7 @@ After getting hired to probe a suspicious death in the small town of Wander, a m
 	
 
 ### Monster Hunter
-*Released on 2020-12-03, vote average 6.6*
+*Released on 2020-12-03, vote average 6.1*
 
 A portal transports Lt. Artemis and an elite unit of soldiers to a strange world where powerful monsters rule with deadly ferocity. Faced with relentless danger, the team encounters a mysterious hunter who may be their only hope to find a way home.
 
@@ -241,16 +249,16 @@ Six friends hire a medium to hold a séance via Zoom during lockdown — but the
 	
 	
 
-### Just Another Christmas
-*Released on 2020-12-03, vote average 7.4*
+### Christmas Crossfire
+*Released on 2020-12-04, vote average 5*
 
-After taking a very nasty fall on Christmas Eve, grinchy Jorge blacks out and wakes up one year later, with no memory of the year that has passed. He soon realizes that he’s doomed to keep waking up on Christmas Eve after Christmas Eve, having to deal with the aftermath of what his other self has done the other 364 days of the year.
+A man foils an attempted murder, then flees the crew of would-be killers along with their intended target as a woman he&#39;s just met tries to find him.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/zgSjiwdZSSM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/NiZeMNPNrDw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -271,7 +279,7 @@ After taking a very nasty fall on Christmas Eve, grinchy Jorge blacks out and wa
 	
 
 ### The Call
-*Released on 2020-11-27, vote average 7.9*
+*Released on 2020-11-27, vote average 7.8*
 
 Connected by phone in the same home but 20 years apart, a serial killer puts another woman’s past — and life — on the line to change her own fate.
 
@@ -290,18 +298,37 @@ Connected by phone in the same home but 20 years apart, a serial killer puts ano
 
 
 	
+
+  
+
+
+	
+	
 	
 
-### Christmas Crossfire
-*Released on 2020-12-04, vote average 4.9*
+  
 
-A man foils an attempted murder, then flees the crew of would-be killers along with their intended target as a woman he&#39;s just met tries to find him.
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Black Beauty
+*Released on 2020-11-27, vote average 8.6*
+
+Born free in the American West, Black Beauty is a horse rounded up and brought to Birtwick Stables, where she meets spirited teenager Jo Green. The two forge a bond that carries Beauty through the different chapters, challenges and adventures.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/NiZeMNPNrDw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/DpZ3yZhsWZE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -314,45 +341,16 @@ A man foils an attempted murder, then flees the crew of would-be killers along w
 	
 	
 
-### Buddy Games
-*Released on 2020-11-24, vote average 5.1*
+### Half Brothers
+*Released on 2020-12-04, vote average 6.5*
 
-A group of friends reunite to play The Buddy Games, a wild assortment of absurd physical and mental challenges. In the process, they&#39;ll heal old wounds, right past wrongs and figure out the true meaning of friendship...or die trying.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jDW2AUrTq-E?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### The Beast
-*Released on 2020-11-27, vote average 5.6*
-
-To rescue his daughter, an unstable Special Forces veteran unleashes his inner beast as he pursues her kidnappers — and soon becomes a suspect himself.
+A story about the complex connection with a brother who is based in Mexico, meant to be a metaphor of the relationship between neighboring countries America and Mexico.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/anUIbyAQ-dE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/tmxxfuLPWXg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -370,6 +368,8 @@ To rescue his daughter, an unstable Special Forces veteran unleashes his inner b
 
 ## Opening soon
 
+
+	
 
 	
 	
@@ -393,14 +393,16 @@ A stressed-out police officer struggles not to give in to the paranoia that grip
 	
 
 	
+
 	
+
 	
 
 	
 	
 
 ### Superintelligence
-*Released on 2020-12-11, vote average 5.7*
+*Released on 2020-12-11, vote average 5.4*
 
 When an all-powerful Superintelligence chooses to study the most average person on Earth, Carol Peters, the fate of the world hangs in the balance. As the A.I. decides to enslave, save or destroy humanity, it’s up to Carol to prove that people are worth saving.
 
@@ -440,11 +442,22 @@ When an all-powerful Superintelligence chooses to study the most average person 
 	
 
 	
-
 	
 
-	
+### Spring Blossom
+*Released on 2020-12-09, vote average 8*
 
+Suzanne is sixteen. She is bored with people her age. Every day to go to high school, she walks past a theater. There she meets a man older than her who becomes her obsession. Thanks to their age difference, they think they are no longer bored together and fall in love. But Suzanne feels that she risks missing out on her life, that of her sixteen years that she had such a hard time living like the others.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/tG4GqNv-5IA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 
