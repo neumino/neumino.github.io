@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Angela&#39;s Christmas Wish
-*Released on 2020-12-01, vote average 8*
+*Released on 2020-12-01, vote average 7.9*
 
 A determined Angela makes a wish to reunite her family in time for Christmas, then launches a plan to find her way from Ireland to Australia.
 
@@ -46,30 +46,8 @@ A determined Angela makes a wish to reunite her family in time for Christmas, th
 	
 	
 
-### The Croods: A New Age
-*Released on 2020-11-25, vote average 7.1*
-
-After leaving their cave, the Croods encounter their biggest threat since leaving: another family called the Bettermans, who claim and show to be better and evolved. Grug grows suspicious of the Betterman parents, Phil and Hope,  as they secretly plan to break up his daughter Eep with her loving boyfriend Guy to ensure that their daughter Dawn has a loving and smart partner to protect her.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/GkXeVIfbJOw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Happiest Season
-*Released on 2020-11-26, vote average 7.8*
+*Released on 2020-11-26, vote average 7.7*
 
 A young woman&#39;s plans to propose to her girlfriend while at her family&#39;s annual holiday party are upended when she discovers her partner hasn&#39;t yet come out to her conservative parents.
 
@@ -78,28 +56,6 @@ A young woman&#39;s plans to propose to her girlfriend while at her family&#39;s
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/h58HkQV1gHY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Lady Driver
-*Released on 2020-12-03, vote average 1*
-
-When a rebellious teen embarks on a solo summer journey to connect with her roots, she finds herself in a new world, geared up for the ride of her life, and discovers she had the drive in her all along.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zF3-l__N2SM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -135,7 +91,7 @@ A young and unskilled fairy godmother that ventures out on her own to prove her 
 	
 
 ### Wander
-*Released on 2020-12-04, vote average 6.7*
+*Released on 2020-12-04, vote average 6.4*
 
 After getting hired to probe a suspicious death in the small town of Wander, a mentally unstable private investigator becomes convinced the case is linked to the same &#39;conspiracy cover up&#39; that caused the death of his daughter.
 
@@ -154,6 +110,50 @@ After getting hired to probe a suspicious death in the small town of Wander, a m
 
 
 	
+	
+
+### Lady Driver
+*Released on 2020-12-03, vote average 1*
+
+When a rebellious teen embarks on a solo summer journey to connect with her roots, she finds herself in a new world, geared up for the ride of her life, and discovers she had the drive in her all along.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zF3-l__N2SM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Just Another Christmas
+*Released on 2020-12-03, vote average 7.8*
+
+After taking a very nasty fall on Christmas Eve, grinchy Jorge blacks out and wakes up one year later, with no memory of the year that has passed. He soon realizes that he’s doomed to keep waking up on Christmas Eve after Christmas Eve, having to deal with the aftermath of what his other self has done the other 364 days of the year.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zgSjiwdZSSM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 
   
 
@@ -162,7 +162,7 @@ After getting hired to probe a suspicious death in the small town of Wander, a m
 	
 
 ### 1BR
-*Released on 2020-11-26, vote average 6.1*
+*Released on 2020-11-26, vote average 6.4*
 
 When Sarah lucks into a sweet one-bedroom at Asilo Del Mar Apartments in Los Angeles, she think she&#39;s hit the jackpot. It&#39;s got plenty of space, friendly tenants, group BBQs and even a cute neighbour next door. All is not what it seems: loud noises start keeping her awake at night; her cat is missing; everyone seems to be a little too helpful and friendly, except for the weirdo, Lester. Soon, Sarah learns she didn&#39;t choose this apartment — it chose her.
 
@@ -183,16 +183,16 @@ When Sarah lucks into a sweet one-bedroom at Asilo Del Mar Apartments in Los Ang
 	
 	
 
-### Just Another Christmas
-*Released on 2020-12-03, vote average 7.7*
+### Christmas Crossfire
+*Released on 2020-12-04, vote average 4.9*
 
-After taking a very nasty fall on Christmas Eve, grinchy Jorge blacks out and wakes up one year later, with no memory of the year that has passed. He soon realizes that he’s doomed to keep waking up on Christmas Eve after Christmas Eve, having to deal with the aftermath of what his other self has done the other 364 days of the year.
+A man foils an attempted murder, then flees the crew of would-be killers along with their intended target as a woman he&#39;s just met tries to find him.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/zgSjiwdZSSM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/NiZeMNPNrDw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -249,16 +249,16 @@ Six friends hire a medium to hold a séance via Zoom during lockdown — but the
 	
 	
 
-### Christmas Crossfire
-*Released on 2020-12-04, vote average 5*
+### The Wolf of Snow Hollow
+*Released on 2020-12-10, vote average 3*
 
-A man foils an attempted murder, then flees the crew of would-be killers along with their intended target as a woman he&#39;s just met tries to find him.
+A stressed-out police officer struggles not to give in to the paranoia that grips his small mountain town as bodies turn up after each full moon.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/NiZeMNPNrDw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/q03zOoH-hGo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -270,65 +270,17 @@ A man foils an attempted murder, then flees the crew of would-be killers along w
 
 	
 	
-	
 
-  
+### A Little Christmas Charm
+*Released on 2020-12-06, vote average 7.3*
 
-
-	
-	
-
-### The Call
-*Released on 2020-11-27, vote average 7.8*
-
-Connected by phone in the same home but 20 years apart, a serial killer puts another woman’s past — and life — on the line to change her own fate.
+Holly, a jewelry designer finds a lost charm bracelet and teams up with investigative reporter Greg in hopes of finding the owner and returning it by Christmas Eve.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/hxkKeniT-0Q?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Black Beauty
-*Released on 2020-11-27, vote average 8.6*
-
-Born free in the American West, Black Beauty is a horse rounded up and brought to Birtwick Stables, where she meets spirited teenager Jo Green. The two forge a bond that carries Beauty through the different chapters, challenges and adventures.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/DpZ3yZhsWZE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/EMGpuUE328Y?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -351,6 +303,82 @@ A story about the complex connection with a brother who is based in Mexico, mean
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/tmxxfuLPWXg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Castle Freak
+*Released on 2020-12-03, vote average 3.8*
+
+After she’s permanently blinded in a tragic car accident, Rebecca receives some bizarre news: her long-lost mother has recently passed away, leaving her their family’s ancestral castle in rural Albania. Traveling to the estate with a group of friends, Rebecca hopes it will be an opportunity for her to reconnect with a past she never knew and a mother who seemingly left her behind. When mysterious events begin to occur and her friends begin to die, Rebecca must unravel the secrets of her family’s history before she too falls prey to the Castle Freak.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mUc2Kr8P4kw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Black Beauty
+*Released on 2020-11-27, vote average 8.7*
+
+Born free in the American West, Black Beauty is a horse rounded up and brought to Birtwick Stables, where she meets spirited teenager Jo Green. The two forge a bond that carries Beauty through the different chapters, challenges and adventures.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/DpZ3yZhsWZE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Call
+*Released on 2020-11-27, vote average 7.7*
+
+Connected by phone in the same home but 20 years apart, a serial killer puts another woman’s past — and life — on the line to change her own fate.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hxkKeniT-0Q?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -402,7 +430,7 @@ A stressed-out police officer struggles not to give in to the paranoia that grip
 	
 
 ### Superintelligence
-*Released on 2020-12-11, vote average 5.4*
+*Released on 2020-12-11, vote average 5.5*
 
 When an all-powerful Superintelligence chooses to study the most average person on Earth, Carol Peters, the fate of the world hangs in the balance. As the A.I. decides to enslave, save or destroy humanity, it’s up to Carol to prove that people are worth saving.
 
@@ -441,23 +469,6 @@ When an all-powerful Superintelligence chooses to study the most average person 
 
 	
 
-	
-	
-
-### Spring Blossom
-*Released on 2020-12-09, vote average 8*
-
-Suzanne is sixteen. She is bored with people her age. Every day to go to high school, she walks past a theater. There she meets a man older than her who becomes her obsession. Thanks to their age difference, they think they are no longer bored together and fall in love. But Suzanne feels that she risks missing out on her life, that of her sixteen years that she had such a hard time living like the others.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tG4GqNv-5IA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 
