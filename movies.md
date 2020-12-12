@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Angela&#39;s Christmas Wish
-*Released on 2020-12-01, vote average 7.7*
+*Released on 2020-12-01, vote average 7.8*
 
 A determined Angela makes a wish to reunite her family in time for Christmas, then launches a plan to find her way from Ireland to Australia.
 
@@ -47,7 +47,7 @@ A determined Angela makes a wish to reunite her family in time for Christmas, th
 	
 
 ### Godmothered
-*Released on 2020-12-04, vote average 7.5*
+*Released on 2020-12-04, vote average 7.4*
 
 A young and unskilled fairy godmother that ventures out on her own to prove her worth by tracking down a young girl whose request for help was ignored. What she discovers is that the girl has now become a grown woman in need of something very different than a &#34;prince charming.&#34;
 
@@ -90,6 +90,28 @@ After getting hired to probe a suspicious death in the small town of Wander, a m
 	
 	
 
+### Just Another Christmas
+*Released on 2020-12-03, vote average 7.8*
+
+After taking a very nasty fall on Christmas Eve, grinchy Jorge blacks out and wakes up one year later, with no memory of the year that has passed. He soon realizes that he’s doomed to keep waking up on Christmas Eve after Christmas Eve, having to deal with the aftermath of what his other self has done the other 364 days of the year.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zgSjiwdZSSM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Lady Driver
 *Released on 2020-12-03, vote average 1*
 
@@ -112,35 +134,8 @@ When a rebellious teen embarks on a solo summer journey to connect with her root
 	
 	
 
-### Just Another Christmas
-*Released on 2020-12-03, vote average 7.8*
-
-After taking a very nasty fall on Christmas Eve, grinchy Jorge blacks out and wakes up one year later, with no memory of the year that has passed. He soon realizes that he’s doomed to keep waking up on Christmas Eve after Christmas Eve, having to deal with the aftermath of what his other self has done the other 364 days of the year.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zgSjiwdZSSM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### Christmas Crossfire
-*Released on 2020-12-04, vote average 4.8*
+*Released on 2020-12-04, vote average 5.2*
 
 A man foils an attempted murder, then flees the crew of would-be killers along with their intended target as a woman he&#39;s just met tries to find him.
 
@@ -149,50 +144,6 @@ A man foils an attempted murder, then flees the crew of would-be killers along w
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/NiZeMNPNrDw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Wolf of Snow Hollow
-*Released on 2020-12-10, vote average 3*
-
-A stressed-out police officer struggles not to give in to the paranoia that grips his small mountain town as bodies turn up after each full moon.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/q03zOoH-hGo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Monster Hunter
-*Released on 2020-12-03, vote average 6.1*
-
-A portal transports Lt. Artemis and an elite unit of soldiers to a strange world where powerful monsters rule with deadly ferocity. Faced with relentless danger, the team encounters a mysterious hunter who may be their only hope to find a way home.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/09Ia7PGMGwk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -232,6 +183,60 @@ After she’s permanently blinded in a tragic car accident, Rebecca receives som
 	
 	
 
+### Monster Hunter
+*Released on 2020-12-03, vote average 5.7*
+
+A portal transports Lt. Artemis and an elite unit of soldiers to a strange world where powerful monsters rule with deadly ferocity. Faced with relentless danger, the team encounters a mysterious hunter who may be their only hope to find a way home.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/09Ia7PGMGwk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Wolf of Snow Hollow
+*Released on 2020-12-10, vote average 4*
+
+A stressed-out police officer struggles not to give in to the paranoia that grips his small mountain town as bodies turn up after each full moon.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/q03zOoH-hGo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### Half Brothers
 *Released on 2020-12-04, vote average 5*
 
@@ -254,16 +259,38 @@ A story about the complex connection with a brother who is based in Mexico, mean
 	
 	
 
-### Host
-*Released on 2020-11-27, vote average 8.3*
+### Superintelligence
+*Released on 2020-12-11, vote average 5.7*
 
-Six friends hire a medium to hold a séance via Zoom during lockdown — but they get far more than they bargained for as things quickly go wrong. When an evil spirit starts invading their homes, they begin to realize they might not survive the night.
+When an all-powerful Superintelligence chooses to study the most average person on Earth, Carol Peters, the fate of the world hangs in the balance. As the A.I. decides to enslave, save or destroy humanity, it’s up to Carol to prove that people are worth saving.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/SNlKbqHqGcY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/9bRe8sEcOvQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Let Them All Talk
+*Released on 2020-12-10, vote average 6.5*
+
+A celebrated author takes a journey with some old friends to have some fun and heal old wounds. Her nephew comes along to wrangle the ladies and finds himself involved with a young literary agent.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Q6DHWEii8eo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -280,29 +307,17 @@ Six friends hire a medium to hold a séance via Zoom during lockdown — but the
 
 	
 	
-	
 
-  
+### Songbird
+*Released on 2020-12-10, vote average 6*
 
-
-	
-
-  
-
-
-	
-	
-
-### The Call
-*Released on 2020-11-27, vote average 7.8*
-
-Connected by phone in the same home but 20 years apart, a serial killer puts another woman’s past — and life — on the line to change her own fate.
+During a pandemic lockdown, Nico, a young man with rare immunity, must overcome martial law, murderous vigilantes and a powerful family to reunite with his love, Sara.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/hxkKeniT-0Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/IgxXSfto6Vo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -317,6 +332,23 @@ Connected by phone in the same home but 20 years apart, a serial killer puts ano
   
 
 
+	
+	
+
+### Rose Island
+*Released on 2020-12-09, vote average 7.1*
+
+In 1968, engineer Giorgio Rosa established the independent state called &#34;The Isle of Roses&#34; off the coast of Rimini, built on a platform outside the territorial waters, with Esperanto as the official language. The Italian authorities did not take it well because the micronation was seen as an expedient to not pay taxes on the revenues obtained thanks to the arrival of numerous tourists and curious people.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qS2NtbEoIc8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -336,18 +368,70 @@ Connected by phone in the same home but 20 years apart, a serial killer puts ano
 	
 
 	
+
 	
 
-### Superintelligence
-*Released on 2020-12-11, vote average 5.7*
+	
 
-When an all-powerful Superintelligence chooses to study the most average person on Earth, Carol Peters, the fate of the world hangs in the balance. As the A.I. decides to enslave, save or destroy humanity, it’s up to Carol to prove that people are worth saving.
+	
+	
+
+### What Lies Below
+*Released on 2020-12-17, vote average 10*
+
+Liberty, a socially awkward 16-year-old, returns from two months at camp to a blindsided introduction of her mother’s fiancé, John Smith, whose charm, intelligence, and beauty paint the picture of a man too perfect to be human.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/9bRe8sEcOvQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/WEeBSr_WcKo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+	
+
+### The 2nd
+*Released on 2020-12-14, vote average 1*
+
+Secret-service agent Vic Davis is on his way to pick up his estranged son, Sean, from his college campus when he finds himself in the middle of a high-stakes terrorist operation. His son&#39;s friend Erin Walton, the daughter of Supreme Court Justice Walton is the target, and this armed faction will stop at nothing to kidnap her and use her as leverage for a pending landmark legal case.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IycoX5vR0WQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Dashing in December
+*Released on 2020-12-13, vote average 10*
+
+When Wyatt returns home for the holidays to try to convince his mom to sell their family ranch, an unexpected romance with handsome ranch hand Heath may throw off his plans.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/gWeCkrg8VUU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -366,41 +450,6 @@ When an all-powerful Superintelligence chooses to study the most average person 
 
 	
 
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	
-
-### The Mole Agent
-*Released on 2020-12-11, vote average 8*
-
-When a family becomes concerned about their mother’s well-being in a retirement home, private investigator Romulo hires Sergio, an 83 year-old man who becomes a new resident–and a mole inside the home, who struggles to balance his assignment with becoming increasingly involved in the lives of several residents.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/5Z1hPH3b5RA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
