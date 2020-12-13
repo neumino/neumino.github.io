@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Angela&#39;s Christmas Wish
-*Released on 2020-12-01, vote average 7.8*
+*Released on 2020-12-01, vote average 7.6*
 
 A determined Angela makes a wish to reunite her family in time for Christmas, then launches a plan to find her way from Ireland to Australia.
 
@@ -69,7 +69,7 @@ A young and unskilled fairy godmother that ventures out on her own to prove her 
 	
 
 ### Wander
-*Released on 2020-12-04, vote average 6.7*
+*Released on 2020-12-04, vote average 6.5*
 
 After getting hired to probe a suspicious death in the small town of Wander, a mentally unstable private investigator becomes convinced the case is linked to the same &#39;conspiracy cover up&#39; that caused the death of his daughter.
 
@@ -112,16 +112,16 @@ After taking a very nasty fall on Christmas Eve, grinchy Jorge blacks out and wa
 	
 	
 
-### Lady Driver
-*Released on 2020-12-03, vote average 1*
+### Christmas Crossfire
+*Released on 2020-12-04, vote average 5.4*
 
-When a rebellious teen embarks on a solo summer journey to connect with her roots, she finds herself in a new world, geared up for the ride of her life, and discovers she had the drive in her all along.
+A man foils an attempted murder, then flees the crew of would-be killers along with their intended target as a woman he&#39;s just met tries to find him.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/zF3-l__N2SM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/NiZeMNPNrDw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,16 +134,16 @@ When a rebellious teen embarks on a solo summer journey to connect with her root
 	
 	
 
-### Christmas Crossfire
-*Released on 2020-12-04, vote average 5.2*
+### Lady Driver
+*Released on 2020-12-03, vote average 4.5*
 
-A man foils an attempted murder, then flees the crew of would-be killers along with their intended target as a woman he&#39;s just met tries to find him.
+When a rebellious teen embarks on a solo summer journey to connect with her roots, she finds herself in a new world, geared up for the ride of her life, and discovers she had the drive in her all along.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/NiZeMNPNrDw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/zF3-l__N2SM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -184,7 +184,7 @@ After she’s permanently blinded in a tragic car accident, Rebecca receives som
 	
 
 ### Monster Hunter
-*Released on 2020-12-03, vote average 5.7*
+*Released on 2020-12-03, vote average 5.3*
 
 A portal transports Lt. Artemis and an elite unit of soldiers to a strange world where powerful monsters rule with deadly ferocity. Faced with relentless danger, the team encounters a mysterious hunter who may be their only hope to find a way home.
 
@@ -203,10 +203,20 @@ A portal transports Lt. Artemis and an elite unit of soldiers to a strange world
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### The Wolf of Snow Hollow
-*Released on 2020-12-10, vote average 4*
+*Released on 2020-12-10, vote average 4.4*
 
 A stressed-out police officer struggles not to give in to the paranoia that grips his small mountain town as bodies turn up after each full moon.
 
@@ -215,6 +225,77 @@ A stressed-out police officer struggles not to give in to the paranoia that grip
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/q03zOoH-hGo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Songbird
+*Released on 2020-12-10, vote average 6.3*
+
+During a pandemic lockdown, Nico, a young man with rare immunity, must overcome martial law, murderous vigilantes and a powerful family to reunite with his love, Sara.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IgxXSfto6Vo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Let Them All Talk
+*Released on 2020-12-10, vote average 6.3*
+
+A celebrated author takes a journey with some old friends to have some fun and heal old wounds. Her nephew comes along to wrangle the ladies and finds himself involved with a young literary agent.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Q6DHWEii8eo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Rose Island
+*Released on 2020-12-09, vote average 7.2*
+
+In 1968, engineer Giorgio Rosa established the independent state called &#34;The Isle of Roses&#34; off the coast of Rimini, built on a platform outside the territorial waters, with Esperanto as the official language. The Italian authorities did not take it well because the micronation was seen as an expedient to not pay taxes on the revenues obtained thanks to the arrival of numerous tourists and curious people.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qS2NtbEoIc8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -259,101 +340,20 @@ A story about the complex connection with a brother who is based in Mexico, mean
 	
 	
 
-### Superintelligence
-*Released on 2020-12-11, vote average 5.7*
+### Wild Mountain Thyme
+*Released on 2020-12-11, vote average 8*
 
-When an all-powerful Superintelligence chooses to study the most average person on Earth, Carol Peters, the fate of the world hangs in the balance. As the A.I. decides to enslave, save or destroy humanity, it’s up to Carol to prove that people are worth saving.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/9bRe8sEcOvQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Let Them All Talk
-*Released on 2020-12-10, vote average 6.5*
-
-A celebrated author takes a journey with some old friends to have some fun and heal old wounds. Her nephew comes along to wrangle the ladies and finds himself involved with a young literary agent.
+Headstrong farmer Rosemary Muldoon has her heart set on winning her neighbour Anthony Reilly&#39;s love. The problem is, Anthony seems to have inherited a family curse, and remains oblivious to his beautiful admirer. Stung by his father&#39;s plans to sell the family farm to his American nephew, Anthony is jolted into pursuing his dreams.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Q6DHWEii8eo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/kadUgcIxODM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Songbird
-*Released on 2020-12-10, vote average 6*
-
-During a pandemic lockdown, Nico, a young man with rare immunity, must overcome martial law, murderous vigilantes and a powerful family to reunite with his love, Sara.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IgxXSfto6Vo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Rose Island
-*Released on 2020-12-09, vote average 7.1*
-
-In 1968, engineer Giorgio Rosa established the independent state called &#34;The Isle of Roses&#34; off the coast of Rimini, built on a platform outside the territorial waters, with Esperanto as the official language. The Italian authorities did not take it well because the micronation was seen as an expedient to not pay taxes on the revenues obtained thanks to the arrival of numerous tourists and curious people.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qS2NtbEoIc8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -368,37 +368,10 @@ In 1968, engineer Giorgio Rosa established the independent state called &#34;The
 	
 
 	
-
-	
-
-	
-
-	
-	
-
-### What Lies Below
-*Released on 2020-12-17, vote average 10*
-
-Liberty, a socially awkward 16-year-old, returns from two months at camp to a blindsided introduction of her mother’s fiancé, John Smith, whose charm, intelligence, and beauty paint the picture of a man too perfect to be human.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/WEeBSr_WcKo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
 	
 
 ### The 2nd
-*Released on 2020-12-14, vote average 1*
+*Released on 2020-12-14, vote average 3*
 
 Secret-service agent Vic Davis is on his way to pick up his estranged son, Sean, from his college campus when he finds himself in the middle of a high-stakes terrorist operation. His son&#39;s friend Erin Walton, the daughter of Supreme Court Justice Walton is the target, and this armed faction will stop at nothing to kidnap her and use her as leverage for a pending landmark legal case.
 
@@ -411,12 +384,6 @@ Secret-service agent Vic Davis is on his way to pick up his estranged son, Sean,
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
 	
 
 	
@@ -436,6 +403,39 @@ When Wyatt returns home for the holidays to try to convince his mom to sell thei
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+	
+
+### What Lies Below
+*Released on 2020-12-17, vote average 8*
+
+Liberty, a socially awkward 16-year-old, returns from two months at camp to a blindsided introduction of her mother’s fiancé, John Smith, whose charm, intelligence, and beauty paint the picture of a man too perfect to be human.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/WEeBSr_WcKo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
