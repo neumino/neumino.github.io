@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Wander
-*Released on 2020-12-04, vote average 5.5*
+*Released on 2020-12-04, vote average 5.6*
 
 After getting hired to probe a suspicious death in the small town of Wander, a mentally unstable private investigator becomes convinced the case is linked to the same &#39;conspiracy cover up&#39; that caused the death of his daughter.
 
@@ -46,30 +46,8 @@ After getting hired to probe a suspicious death in the small town of Wander, a m
 	
 	
 
-### Godmothered
-*Released on 2020-12-04, vote average 7.3*
-
-A young and unskilled fairy godmother that ventures out on her own to prove her worth by tracking down a young girl whose request for help was ignored. What she discovers is that the girl has now become a grown woman in need of something very different than a &#34;prince charming.&#34;
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/KYWzEqX-J-4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Christmas Crossfire
-*Released on 2020-12-04, vote average 5.3*
+*Released on 2020-12-04, vote average 5.2*
 
 A man foils an attempted murder, then flees the crew of would-be killers along with their intended target as a woman he&#39;s just met tries to find him.
 
@@ -90,16 +68,16 @@ A man foils an attempted murder, then flees the crew of would-be killers along w
 	
 	
 
-### Just Another Christmas
-*Released on 2020-12-03, vote average 7.8*
+### Godmothered
+*Released on 2020-12-04, vote average 7.3*
 
-After taking a very nasty fall on Christmas Eve, grinchy Jorge blacks out and wakes up one year later, with no memory of the year that has passed. He soon realizes that he’s doomed to keep waking up on Christmas Eve after Christmas Eve, having to deal with the aftermath of what his other self has done the other 364 days of the year.
+A young and unskilled fairy godmother that ventures out on her own to prove her worth by tracking down a young girl whose request for help was ignored. What she discovers is that the girl has now become a grown woman in need of something very different than a &#34;prince charming.&#34;
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/zgSjiwdZSSM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/KYWzEqX-J-4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -141,8 +119,30 @@ After she’s permanently blinded in a tragic car accident, Rebecca receives som
 	
 	
 
+### Just Another Christmas
+*Released on 2020-12-03, vote average 7.7*
+
+After taking a very nasty fall on Christmas Eve, grinchy Jorge blacks out and wakes up one year later, with no memory of the year that has passed. He soon realizes that he’s doomed to keep waking up on Christmas Eve after Christmas Eve, having to deal with the aftermath of what his other self has done the other 364 days of the year.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zgSjiwdZSSM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Wonder Woman 1984
-*Released on 2020-12-16, vote average 6.3*
+*Released on 2020-12-16, vote average 6.4*
 
 Wonder Woman comes into conflict with the Soviet Union during the Cold War in the 1980s and finds a formidable foe by the name of the Cheetah.
 
@@ -168,16 +168,16 @@ Wonder Woman comes into conflict with the Soviet Union during the Cold War in th
 	
 	
 
-### Lady Driver
-*Released on 2020-12-03, vote average 4.5*
+### Rose Island
+*Released on 2020-12-09, vote average 7.2*
 
-When a rebellious teen embarks on a solo summer journey to connect with her roots, she finds herself in a new world, geared up for the ride of her life, and discovers she had the drive in her all along.
+In 1968, engineer Giorgio Rosa established the independent state called &#34;The Isle of Roses&#34; off the coast of Rimini, built on a platform outside the territorial waters, with Esperanto as the official language. The Italian authorities did not take it well because the micronation was seen as an expedient to not pay taxes on the revenues obtained thanks to the arrival of numerous tourists and curious people.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/zF3-l__N2SM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/qS2NtbEoIc8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -190,16 +190,16 @@ When a rebellious teen embarks on a solo summer journey to connect with her root
 	
 	
 
-### Rose Island
-*Released on 2020-12-09, vote average 7.2*
+### Lady Driver
+*Released on 2020-12-03, vote average 4.5*
 
-In 1968, engineer Giorgio Rosa established the independent state called &#34;The Isle of Roses&#34; off the coast of Rimini, built on a platform outside the territorial waters, with Esperanto as the official language. The Italian authorities did not take it well because the micronation was seen as an expedient to not pay taxes on the revenues obtained thanks to the arrival of numerous tourists and curious people.
+When a rebellious teen embarks on a solo summer journey to connect with her roots, she finds herself in a new world, geared up for the ride of her life, and discovers she had the drive in her all along.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/qS2NtbEoIc8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/zF3-l__N2SM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -237,6 +237,11 @@ A portal transports Lt. Artemis and an elite unit of soldiers to a strange world
 
 
 	
+
+  
+
+
+	
 	
 
 ### Songbird
@@ -249,50 +254,6 @@ During a pandemic lockdown, Nico, a young man with rare immunity, must overcome 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/IgxXSfto6Vo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Prom
-*Released on 2020-12-02, vote average 6.7*
-
-After the PTA of a conservative high school in Indiana bans same-sex couples from attending the annual prom, a gang of flamboyant Broadway stars try to boost their image by showing up to support two lesbian students.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Zt9v3f35l5Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Safety
-*Released on 2020-12-11, vote average 8*
-
-The story of Ray-Ray McElrathbey, a freshman football player for Clemson University, who secretly raised his younger brother on campus after his home life became too unsteady.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/m0j8O2swT5o?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -347,23 +308,18 @@ A stressed-out police officer struggles not to give in to the paranoia that grip
 
 
 	
-
-  
-
-
-	
 	
 
-### Archenemy
-*Released on 2020-12-11, vote average 8.3*
+### Safety
+*Released on 2020-12-11, vote average 7.9*
 
-Max Fist claims he’s a hero from another dimension who has somehow landed on Earth and been stripped of his powers. Instead of treating him like a powerful champion, no one believes Max’s claims — except for a teenager named Hamster and his sister Indigo. The siblings convince Max to help them take out a local drug gang, where Max’s abilities are put to a violent and harrowing test.
+The story of Ray-Ray McElrathbey, a freshman football player for Clemson University, who secretly raised his younger brother on campus after his home life became too unsteady.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/1sIX8txJ42s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/m0j8O2swT5o?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -374,18 +330,28 @@ Max Fist claims he’s a hero from another dimension who has somehow landed on E
 
 
 	
+
+  
+
+
 	
 
-### The 2nd
-*Released on 2020-12-14, vote average 2.3*
+  
 
-Secret-service agent Vic Davis is on his way to pick up his estranged son, Sean, from his college campus when he finds himself in the middle of a high-stakes terrorist operation. His son&#39;s friend Erin Walton, the daughter of Supreme Court Justice Walton is the target, and this armed faction will stop at nothing to kidnap her and use her as leverage for a pending landmark legal case.
+
+	
+	
+
+### I&#39;m Your Woman
+*Released on 2020-12-04, vote average 5.9*
+
+In this 1970s set crime drama, a woman is forced to go on the run after her husband betrays his partners, sending her and her baby on a dangerous journey.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/IycoX5vR0WQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/fAveuCPBYSw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -400,52 +366,12 @@ Secret-service agent Vic Davis is on his way to pick up his estranged son, Sean,
 
 
 	
-	
-
-### Wonder Woman 1984
-*Released on 2020-12-16, vote average 6.3*
-
-Wonder Woman comes into conflict with the Soviet Union during the Cold War in the 1980s and finds a formidable foe by the name of the Cheetah.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/sfM7_JLk-84?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Robot Riot
-*Released on 2020-12-23, vote average 5.4*
-
-Unconscious soldiers are dropped into a testing site only to discover their memories have been wiped and that once docile machines are the new intelligence.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LSo4VQyPrzM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
 
 	
 	
 
 ### What Lies Below
-*Released on 2020-12-17, vote average 7.7*
+*Released on 2020-12-17, vote average 7.3*
 
 Liberty, a socially awkward 16-year-old, returns from two months at camp to a blindsided introduction of her mother’s fiancé, John Smith, whose charm, intelligence, and beauty paint the picture of a man too perfect to be human.
 
@@ -480,6 +406,29 @@ Liberty, a socially awkward 16-year-old, returns from two months at camp to a bl
 
 	
 
+	
+
+	
+
+	
+
+	
+	
+
+### The Father
+*Released on 2020-12-23, vote average 2*
+
+A man refuses all assistance from his daughter as he ages. As he tries to make sense of his changing circumstances, he begins to doubt his loved ones, his own mind and even the fabric of his reality.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/4TZb7YfK-JI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
