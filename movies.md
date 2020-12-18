@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Wander
-*Released on 2020-12-04, vote average 5.6*
+### Christmas Crossfire
+*Released on 2020-12-04, vote average 5.2*
 
-After getting hired to probe a suspicious death in the small town of Wander, a mentally unstable private investigator becomes convinced the case is linked to the same &#39;conspiracy cover up&#39; that caused the death of his daughter.
+A man foils an attempted murder, then flees the crew of would-be killers along with their intended target as a woman he&#39;s just met tries to find him.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/mHc7z-Ks6dg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/NiZeMNPNrDw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ After getting hired to probe a suspicious death in the small town of Wander, a m
 	
 	
 
-### Christmas Crossfire
-*Released on 2020-12-04, vote average 5.2*
+### Wander
+*Released on 2020-12-04, vote average 5.6*
 
-A man foils an attempted murder, then flees the crew of would-be killers along with their intended target as a woman he&#39;s just met tries to find him.
+After getting hired to probe a suspicious death in the small town of Wander, a mentally unstable private investigator becomes convinced the case is linked to the same &#39;conspiracy cover up&#39; that caused the death of his daughter.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/NiZeMNPNrDw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/mHc7z-Ks6dg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@ A man foils an attempted murder, then flees the crew of would-be killers along w
 	
 
 ### Godmothered
-*Released on 2020-12-04, vote average 7.3*
+*Released on 2020-12-04, vote average 7.2*
 
 A young and unskilled fairy godmother that ventures out on her own to prove her worth by tracking down a young girl whose request for help was ignored. What she discovers is that the girl has now become a grown woman in need of something very different than a &#34;prince charming.&#34;
 
@@ -90,59 +90,8 @@ A young and unskilled fairy godmother that ventures out on her own to prove her 
 	
 	
 
-### Castle Freak
-*Released on 2020-12-03, vote average 4.4*
-
-After she’s permanently blinded in a tragic car accident, Rebecca receives some bizarre news: her long-lost mother has recently passed away, leaving her their family’s ancestral castle in rural Albania. Traveling to the estate with a group of friends, Rebecca hopes it will be an opportunity for her to reconnect with a past she never knew and a mother who seemingly left her behind. When mysterious events begin to occur and her friends begin to die, Rebecca must unravel the secrets of her family’s history before she too falls prey to the Castle Freak.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/mUc2Kr8P4kw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Just Another Christmas
-*Released on 2020-12-03, vote average 7.7*
-
-After taking a very nasty fall on Christmas Eve, grinchy Jorge blacks out and wakes up one year later, with no memory of the year that has passed. He soon realizes that he’s doomed to keep waking up on Christmas Eve after Christmas Eve, having to deal with the aftermath of what his other self has done the other 364 days of the year.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zgSjiwdZSSM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Wonder Woman 1984
-*Released on 2020-12-16, vote average 6.4*
+*Released on 2020-12-16, vote average 8*
 
 Wonder Woman comes into conflict with the Soviet Union during the Cold War in the 1980s and finds a formidable foe by the name of the Cheetah.
 
@@ -160,6 +109,30 @@ Wonder Woman comes into conflict with the Soviet Union during the Cold War in th
   
 
 
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Bobbleheads: The Movie
+*Released on 2020-12-08, vote average 1*
+
+Get ready for a big shake-up when misfit bobbleheads take on trashy humans and a slobbery dog who crash their home with plans to swap a new baseball player bobblehead for a valuable one of them. With some guidance from Bobblehead Cher, they find the courage to bobble-up for an outrageous battle of wits and wobble.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qMSSc7MMmY4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -188,55 +161,6 @@ In 1968, engineer Giorgio Rosa established the independent state called &#34;The
 
 
 	
-	
-
-### Lady Driver
-*Released on 2020-12-03, vote average 4.5*
-
-When a rebellious teen embarks on a solo summer journey to connect with her roots, she finds herself in a new world, geared up for the ride of her life, and discovers she had the drive in her all along.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zF3-l__N2SM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Monster Hunter
-*Released on 2020-12-03, vote average 5.1*
-
-A portal transports Lt. Artemis and an elite unit of soldiers to a strange world where powerful monsters rule with deadly ferocity. Faced with relentless danger, the team encounters a mysterious hunter who may be their only hope to find a way home.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/09Ia7PGMGwk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 
   
 
@@ -245,7 +169,7 @@ A portal transports Lt. Artemis and an elite unit of soldiers to a strange world
 	
 
 ### Songbird
-*Released on 2020-12-10, vote average 5.3*
+*Released on 2020-12-10, vote average 4.6*
 
 During a pandemic lockdown, Nico, a young man with rare immunity, must overcome martial law, murderous vigilantes and a powerful family to reunite with his love, Sara.
 
@@ -254,6 +178,50 @@ During a pandemic lockdown, Nico, a young man with rare immunity, must overcome 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/IgxXSfto6Vo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### I&#39;m Your Woman
+*Released on 2020-12-04, vote average 6*
+
+In this 1970s set crime drama, a woman is forced to go on the run after her husband betrays his partners, sending her and her baby on a dangerous journey.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fAveuCPBYSw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### What Lies Below
+*Released on 2020-12-17, vote average 7.3*
+
+Liberty, a socially awkward 16-year-old, returns from two months at camp to a blindsided introduction of her mother’s fiancé, John Smith, whose charm, intelligence, and beauty paint the picture of a man too perfect to be human.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/WEeBSr_WcKo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -286,6 +254,11 @@ A story about the complex connection with a brother who is based in Mexico, mean
 
 
 	
+
+  
+
+
+	
 	
 
 ### The Wolf of Snow Hollow
@@ -311,7 +284,7 @@ A stressed-out police officer struggles not to give in to the paranoia that grip
 	
 
 ### Safety
-*Released on 2020-12-11, vote average 7.9*
+*Released on 2020-12-11, vote average 7.8*
 
 The story of Ray-Ray McElrathbey, a freshman football player for Clemson University, who secretly raised his younger brother on campus after his home life became too unsteady.
 
@@ -340,22 +313,15 @@ The story of Ray-Ray McElrathbey, a freshman football player for Clemson Univers
 
 
 	
-	
 
-### I&#39;m Your Woman
-*Released on 2020-12-04, vote average 5.9*
+  
 
-In this 1970s set crime drama, a woman is forced to go on the run after her husband betrays his partners, sending her and her baby on a dangerous journey.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/fAveuCPBYSw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
 	
 
   
@@ -368,23 +334,6 @@ In this 1970s set crime drama, a woman is forced to go on the run after her husb
 	
 
 	
-	
-
-### What Lies Below
-*Released on 2020-12-17, vote average 7.3*
-
-Liberty, a socially awkward 16-year-old, returns from two months at camp to a blindsided introduction of her mother’s fiancé, John Smith, whose charm, intelligence, and beauty paint the picture of a man too perfect to be human.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/WEeBSr_WcKo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
@@ -412,23 +361,6 @@ Liberty, a socially awkward 16-year-old, returns from two months at camp to a bl
 
 	
 
-	
-	
-
-### The Father
-*Released on 2020-12-23, vote average 2*
-
-A man refuses all assistance from his daughter as he ages. As he tries to make sense of his changing circumstances, he begins to doubt his loved ones, his own mind and even the fabric of his reality.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/4TZb7YfK-JI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
