@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Wonder Woman 1984
-*Released on 2020-12-16, vote average 7.9*
+*Released on 2020-12-16, vote average 7.4*
 
 Wonder Woman comes into conflict with the Soviet Union during the Cold War in the 1980s and finds a formidable foe by the name of the Cheetah.
 
@@ -91,7 +91,7 @@ In 1968, engineer Giorgio Rosa established the independent state called &#34;The
 	
 
 ### Songbird
-*Released on 2020-12-10, vote average 4.4*
+*Released on 2020-12-10, vote average 6.3*
 
 During a pandemic lockdown, Nico, a young man with rare immunity, must overcome martial law, murderous vigilantes and a powerful family to reunite with his love, Sara.
 
@@ -110,10 +110,66 @@ During a pandemic lockdown, Nico, a young man with rare immunity, must overcome 
 
 
 	
+	
+
+### Skylines
+*Released on 2020-12-18, vote average 8*
+
+When a virus threatens to turn the now earth-dwelling friendly alien hybrids against humans, Captain Rose Corley must lead a team of elite mercenaries on a mission to the alien world in order to save what&#39;s left of humanity.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MuuqzLwgMhY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
+	
+	
+
+### Breach
+*Released on 2020-12-17, vote average 6.7*
+
+A hardened mechanic must stay awake and maintain an interstellar ark fleeing the dying planet Earth with a few thousand lucky souls on board... the last of humanity. Unfortunately, humans are not the only passengers. A shapeshifting alien creature has taken residence, its only goal is to kill as many people as possible. The crew must think quickly to stop this menace before it destroys mankind.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vntSSo0yuc4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Hunter Hunter
+*Released on 2020-12-18, vote average 6*
+
+Joseph and his family live in the remote wilderness as fur trappers but their tranquility starts to be threatened when they think are being hunted by the return of a rogue wolf and Joseph leaves them behind to track it.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/lB-7oVKUBQk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -124,6 +180,23 @@ During a pandemic lockdown, Nico, a young man with rare immunity, must overcome 
   
 
 
+	
+	
+
+### A California Christmas
+*Released on 2020-12-14, vote average 6.7*
+
+With his carefree lifestyle on the line, a wealthy charmer poses as a ranch hand to get a hardworking farmer to sell her family’s land before Christmas.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/28MO3ngJNto?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -133,7 +206,7 @@ During a pandemic lockdown, Nico, a young man with rare immunity, must overcome 
 	
 
 ### The Wolf of Snow Hollow
-*Released on 2020-12-10, vote average 5.3*
+*Released on 2020-12-10, vote average 6.1*
 
 A stressed-out police officer struggles not to give in to the paranoia that grips his small mountain town as bodies turn up after each full moon.
 
@@ -152,32 +225,44 @@ A stressed-out police officer struggles not to give in to the paranoia that grip
 
 
 	
+
+  
+
+
+	
+	
 	
 
-### What Lies Below
-*Released on 2020-12-17, vote average 7.3*
+  
 
-Liberty, a socially awkward 16-year-old, returns from two months at camp to a blindsided introduction of her mother’s fiancé, John Smith, whose charm, intelligence, and beauty paint the picture of a man too perfect to be human.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Wild Mountain Thyme
+*Released on 2020-12-11, vote average 7.3*
+
+Headstrong farmer Rosemary Muldoon has her heart set on winning her neighbour Anthony Reilly&#39;s love. The problem is, Anthony seems to have inherited a family curse, and remains oblivious to his beautiful admirer. Stung by his father&#39;s plans to sell the family farm to his American nephew, Anthony is jolted into pursuing his dreams.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/WEeBSr_WcKo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/kadUgcIxODM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -216,53 +301,6 @@ The story of Ray-Ray McElrathbey, a freshman football player for Clemson Univers
 
 
 	
-
-  
-
-
-	
-	
-
-### A California Christmas
-*Released on 2020-12-14, vote average 7*
-
-With his carefree lifestyle on the line, a wealthy charmer poses as a ranch hand to get a hardworking farmer to sell her family’s land before Christmas.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/28MO3ngJNto?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Art of Political Murder
-*Released on 2020-12-16, vote average 8*
-
-An investigation into the truth behind the murder of Guatemalan Bishop, Juan Gerardi, who was killed in 1998 just days after trying to hold the country&#39;s military accountable for the atrocities committed during its civil war.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/riMXEfdJn20?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -279,6 +317,50 @@ An investigation into the truth behind the murder of Guatemalan Bishop, Juan Ger
 
 
 	
+	
+
+### Robot Riot
+*Released on 2020-12-23, vote average 4*
+
+Unconscious soldiers are dropped into a testing site only to discover their memories have been wiped and that once docile machines are the new intelligence.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LSo4VQyPrzM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### ariana grande: excuse me, i love you
+*Released on 2020-12-21, vote average 10*
+
+Ariana Grande takes the stage in London for her Sweetener World Tour and shares a behind-the-scenes look at her life in rehearsal and on the road.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zHwcvnyiolA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
@@ -296,18 +378,6 @@ An investigation into the truth behind the murder of Guatemalan Bishop, Juan Ger
 
 	
 
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	
 	
 
 	
