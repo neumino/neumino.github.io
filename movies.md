@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Wonder Woman 1984
-*Released on 2020-12-16, vote average 7.4*
+*Released on 2020-12-16, vote average 7.1*
 
 Wonder Woman comes into conflict with the Soviet Union during the Cold War in the 1980s and finds a formidable foe by the name of the Cheetah.
 
@@ -47,7 +47,7 @@ Wonder Woman comes into conflict with the Soviet Union during the Cold War in th
 	
 
 ### Bobbleheads: The Movie
-*Released on 2020-12-08, vote average 4*
+*Released on 2020-12-08, vote average 6*
 
 Get ready for a big shake-up when misfit bobbleheads take on trashy humans and a slobbery dog who crash their home with plans to swap a new baseball player bobblehead for a valuable one of them. With some guidance from Bobblehead Cher, they find the courage to bobble-up for an outrageous battle of wits and wobble.
 
@@ -91,7 +91,7 @@ In 1968, engineer Giorgio Rosa established the independent state called &#34;The
 	
 
 ### Songbird
-*Released on 2020-12-10, vote average 6.3*
+*Released on 2020-12-10, vote average 6.6*
 
 During a pandemic lockdown, Nico, a young man with rare immunity, must overcome martial law, murderous vigilantes and a powerful family to reunite with his love, Sara.
 
@@ -113,7 +113,7 @@ During a pandemic lockdown, Nico, a young man with rare immunity, must overcome 
 	
 
 ### Skylines
-*Released on 2020-12-18, vote average 8*
+*Released on 2020-12-18, vote average 8.5*
 
 When a virus threatens to turn the now earth-dwelling friendly alien hybrids against humans, Captain Rose Corley must lead a team of elite mercenaries on a mission to the alien world in order to save what&#39;s left of humanity.
 
@@ -135,7 +135,7 @@ When a virus threatens to turn the now earth-dwelling friendly alien hybrids aga
 	
 
 ### Breach
-*Released on 2020-12-17, vote average 6.7*
+*Released on 2020-12-17, vote average 6.8*
 
 A hardened mechanic must stay awake and maintain an interstellar ark fleeing the dying planet Earth with a few thousand lucky souls on board... the last of humanity. Unfortunately, humans are not the only passengers. A shapeshifting alien creature has taken residence, its only goal is to kill as many people as possible. The crew must think quickly to stop this menace before it destroys mankind.
 
@@ -154,10 +154,15 @@ A hardened mechanic must stay awake and maintain an interstellar ark fleeing the
 
 
 	
+
+  
+
+
+	
 	
 
 ### Hunter Hunter
-*Released on 2020-12-18, vote average 6*
+*Released on 2020-12-18, vote average 5.7*
 
 Joseph and his family live in the remote wilderness as fur trappers but their tranquility starts to be threatened when they think are being hunted by the return of a rogue wolf and Joseph leaves them behind to track it.
 
@@ -170,11 +175,6 @@ Joseph and his family live in the remote wilderness as fur trappers but their tr
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -197,50 +197,6 @@ With his carefree lifestyle on the line, a wealthy charmer poses as a ranch hand
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### The Wolf of Snow Hollow
-*Released on 2020-12-10, vote average 6.1*
-
-A stressed-out police officer struggles not to give in to the paranoia that grips his small mountain town as bodies turn up after each full moon.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/q03zOoH-hGo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -275,6 +231,18 @@ Headstrong farmer Rosemary Muldoon has her heart set on winning her neighbour An
 
 	
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 
 ### Safety
 *Released on 2020-12-11, vote average 7.9*
@@ -296,12 +264,44 @@ The story of Ray-Ray McElrathbey, a freshman football player for Clemson Univers
 
 
 	
+	
+
+### ariana grande: excuse me, i love you
+*Released on 2020-12-21, vote average 10*
+
+Ariana Grande takes the stage in London for her Sweetener World Tour and shares a behind-the-scenes look at her life in rehearsal and on the road.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zHwcvnyiolA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
 	
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -320,7 +320,7 @@ The story of Ray-Ray McElrathbey, a freshman football player for Clemson Univers
 	
 
 ### Robot Riot
-*Released on 2020-12-23, vote average 4*
+*Released on 2020-12-23, vote average 2.8*
 
 Unconscious soldiers are dropped into a testing site only to discover their memories have been wiped and that once docile machines are the new intelligence.
 
@@ -340,7 +340,22 @@ Unconscious soldiers are dropped into a testing site only to discover their memo
 	
 
 	
+	
 
+### The Midnight Sky
+*Released on 2020-12-23, vote average 4*
+
+A lone scientist in the Arctic races to contact a crew of astronauts returning home to a mysterious global catastrophe.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/DXUUqr3AFKs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -360,6 +375,8 @@ Ariana Grande takes the stage in London for her Sweetener World Tour and shares 
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
