@@ -90,30 +90,8 @@ In 1968, engineer Giorgio Rosa established the independent state called &#34;The
 	
 	
 
-### Songbird
-*Released on 2020-12-10, vote average 6.6*
-
-During a pandemic lockdown, Nico, a young man with rare immunity, must overcome martial law, murderous vigilantes and a powerful family to reunite with his love, Sara.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IgxXSfto6Vo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Skylines
-*Released on 2020-12-18, vote average 8.5*
+*Released on 2020-12-18, vote average 7.5*
 
 When a virus threatens to turn the now earth-dwelling friendly alien hybrids against humans, Captain Rose Corley must lead a team of elite mercenaries on a mission to the alien world in order to save what&#39;s left of humanity.
 
@@ -135,7 +113,7 @@ When a virus threatens to turn the now earth-dwelling friendly alien hybrids aga
 	
 
 ### Breach
-*Released on 2020-12-17, vote average 6.8*
+*Released on 2020-12-17, vote average 5*
 
 A hardened mechanic must stay awake and maintain an interstellar ark fleeing the dying planet Earth with a few thousand lucky souls on board... the last of humanity. Unfortunately, humans are not the only passengers. A shapeshifting alien creature has taken residence, its only goal is to kill as many people as possible. The crew must think quickly to stop this menace before it destroys mankind.
 
@@ -154,45 +132,18 @@ A hardened mechanic must stay awake and maintain an interstellar ark fleeing the
 
 
 	
-
-  
-
-
-	
 	
 
-### Hunter Hunter
-*Released on 2020-12-18, vote average 5.7*
+### Songbird
+*Released on 2020-12-10, vote average 6.3*
 
-Joseph and his family live in the remote wilderness as fur trappers but their tranquility starts to be threatened when they think are being hunted by the return of a rogue wolf and Joseph leaves them behind to track it.
+During a pandemic lockdown, Nico, a young man with rare immunity, must overcome martial law, murderous vigilantes and a powerful family to reunite with his love, Sara.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/lB-7oVKUBQk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### A California Christmas
-*Released on 2020-12-14, vote average 6.7*
-
-With his carefree lifestyle on the line, a wealthy charmer poses as a ranch hand to get a hardworking farmer to sell her family’s land before Christmas.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/28MO3ngJNto?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/IgxXSfto6Vo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -230,13 +181,6 @@ Headstrong farmer Rosemary Muldoon has her heart set on winning her neighbour An
 
 
 	
-	
-	
-
-  
-
-
-	
 
   
 
@@ -244,16 +188,16 @@ Headstrong farmer Rosemary Muldoon has her heart set on winning her neighbour An
 	
 	
 
-### Safety
-*Released on 2020-12-11, vote average 7.9*
+### A California Christmas
+*Released on 2020-12-14, vote average 6.6*
 
-The story of Ray-Ray McElrathbey, a freshman football player for Clemson University, who secretly raised his younger brother on campus after his home life became too unsteady.
+With his carefree lifestyle on the line, a wealthy charmer poses as a ranch hand to get a hardworking farmer to sell her family’s land before Christmas.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/m0j8O2swT5o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/28MO3ngJNto?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -267,7 +211,7 @@ The story of Ray-Ray McElrathbey, a freshman football player for Clemson Univers
 	
 
 ### ariana grande: excuse me, i love you
-*Released on 2020-12-21, vote average 10*
+*Released on 2020-12-21, vote average 8.5*
 
 Ariana Grande takes the stage in London for her Sweetener World Tour and shares a behind-the-scenes look at her life in rehearsal and on the road.
 
@@ -287,6 +231,79 @@ Ariana Grande takes the stage in London for her Sweetener World Tour and shares 
 
 	
 	
+
+### Hunter Hunter
+*Released on 2020-12-18, vote average 5.7*
+
+Joseph and his family live in the remote wilderness as fur trappers but their tranquility starts to be threatened when they think are being hunted by the return of a rogue wolf and Joseph leaves them behind to track it.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/lB-7oVKUBQk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### The Midnight Sky
+*Released on 2020-12-10, vote average 5.5*
+
+A lone scientist in the Arctic races to contact a crew of astronauts returning home to a mysterious global catastrophe.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/F4bk6aZwsao?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Safety
+*Released on 2020-12-11, vote average 8*
+
+The story of Ray-Ray McElrathbey, a freshman football player for Clemson University, who secretly raised his younger brother on campus after his home life became too unsteady.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/m0j8O2swT5o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -307,6 +324,23 @@ Ariana Grande takes the stage in London for her Sweetener World Tour and shares 
   
 
 
+	
+	
+
+### Alabama Snake
+*Released on 2020-12-09, vote average 6.3*
+
+The story of Pentecostal minister Glenn Summerford — a man accused of attempting to murder his wife with a rattlesnake in the sleepy town of Scottsboro, Alabama — and the investigation and trial that haunted Southern Appalachia for decades.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Rdh8ZIpQyP0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -320,7 +354,7 @@ Ariana Grande takes the stage in London for her Sweetener World Tour and shares 
 	
 
 ### Robot Riot
-*Released on 2020-12-23, vote average 2.8*
+*Released on 2020-12-23, vote average 2.4*
 
 Unconscious soldiers are dropped into a testing site only to discover their memories have been wiped and that once docile machines are the new intelligence.
 
@@ -340,49 +374,32 @@ Unconscious soldiers are dropped into a testing site only to discover their memo
 	
 
 	
+
 	
 
-### The Midnight Sky
-*Released on 2020-12-23, vote average 4*
+	
 
-A lone scientist in the Arctic races to contact a crew of astronauts returning home to a mysterious global catastrophe.
+	
+
+	
+
+	
+	
+
+### My Soul to Keep
+*Released on 2020-12-23, vote average 5.2*
+
+Like many 9-year-old boys, Eli Braverman believes something menacing lives in his basement. When his older sister leaves him home alone one night, Eli discovers if this evil is real or all in his head. What Eli confronts may end up being far more terrifying than even his worst nightmare.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/DXUUqr3AFKs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/rrYfxO1aMTU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-	
-	
-
-### ariana grande: excuse me, i love you
-*Released on 2020-12-21, vote average 10*
-
-Ariana Grande takes the stage in London for her Sweetener World Tour and shares a behind-the-scenes look at her life in rehearsal and on the road.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zHwcvnyiolA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
-
 	
 
 	
