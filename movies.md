@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Wonder Woman 1984
-*Released on 2020-12-16, vote average 7*
+*Released on 2020-12-16, vote average 7.1*
 
 Wonder Woman comes into conflict with the Soviet Union during the Cold War in the 1980s and finds a formidable foe by the name of the Cheetah.
 
@@ -46,28 +46,6 @@ Wonder Woman comes into conflict with the Soviet Union during the Cold War in th
 	
 	
 
-### Rose Island
-*Released on 2020-12-09, vote average 7.2*
-
-In 1968, engineer Giorgio Rosa established the independent state called &#34;The Isle of Roses&#34; off the coast of Rimini, built on a platform outside the territorial waters, with Esperanto as the official language. The Italian authorities did not take it well because the micronation was seen as an expedient to not pay taxes on the revenues obtained thanks to the arrival of numerous tourists and curious people.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qS2NtbEoIc8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Robot Riot
 *Released on 2020-12-23, vote average 2.2*
 
@@ -78,28 +56,6 @@ Unconscious soldiers are dropped into a testing site only to discover their memo
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/LSo4VQyPrzM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Skylines
-*Released on 2020-12-18, vote average 7.5*
-
-When a virus threatens to turn the now earth-dwelling friendly alien hybrids against humans, Captain Rose Corley must lead a team of elite mercenaries on a mission to the alien world in order to save what&#39;s left of humanity.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MuuqzLwgMhY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,16 +90,38 @@ Headstrong farmer Rosemary Muldoon has her heart set on winning her neighbour An
 	
 	
 
-### Breach
-*Released on 2020-12-17, vote average 5.1*
+### Skylines
+*Released on 2020-12-18, vote average 7.6*
 
-A hardened mechanic must stay awake and maintain an interstellar ark fleeing the dying planet Earth with a few thousand lucky souls on board... the last of humanity. Unfortunately, humans are not the only passengers. A shapeshifting alien creature has taken residence, its only goal is to kill as many people as possible. The crew must think quickly to stop this menace before it destroys mankind.
+When a virus threatens to turn the now earth-dwelling friendly alien hybrids against humans, Captain Rose Corley must lead a team of elite mercenaries on a mission to the alien world in order to save what&#39;s left of humanity.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/vntSSo0yuc4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/MuuqzLwgMhY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### ariana grande: excuse me, i love you
+*Released on 2020-12-21, vote average 8*
+
+Ariana Grande takes the stage in London for her Sweetener World Tour and shares a behind-the-scenes look at her life in rehearsal and on the road.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zHwcvnyiolA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -157,7 +135,7 @@ A hardened mechanic must stay awake and maintain an interstellar ark fleeing the
 	
 
 ### Songbird
-*Released on 2020-12-10, vote average 6.5*
+*Released on 2020-12-10, vote average 6.6*
 
 During a pandemic lockdown, Nico, a young man with rare immunity, must overcome martial law, murderous vigilantes and a powerful family to reunite with his love, Sara.
 
@@ -178,25 +156,20 @@ During a pandemic lockdown, Nico, a young man with rare immunity, must overcome 
 	
 	
 
-### ariana grande: excuse me, i love you
-*Released on 2020-12-21, vote average 8.2*
+### Breach
+*Released on 2020-12-17, vote average 5.3*
 
-Ariana Grande takes the stage in London for her Sweetener World Tour and shares a behind-the-scenes look at her life in rehearsal and on the road.
+A hardened mechanic must stay awake and maintain an interstellar ark fleeing the dying planet Earth with a few thousand lucky souls on board... the last of humanity. Unfortunately, humans are not the only passengers. A shapeshifting alien creature has taken residence, its only goal is to kill as many people as possible. The crew must think quickly to stop this menace before it destroys mankind.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/zHwcvnyiolA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/vntSSo0yuc4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -215,6 +188,35 @@ A lone scientist in the Arctic races to contact a crew of astronauts returning h
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/DXUUqr3AFKs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Spotlight on Christmas
+*Released on 2020-12-21, vote average 7*
+
+Dumped two weeks before Christmas, actress Olivia O’Hara secretly returns to her tiny hometown to hide out, eat cookies and avoid the press. What she doesn’t expect is to be faced with the family she left behind, meeting a charming new guy Casey Rawlins, and a noisy reporter following her every move.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/w0Um16a9YLw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -254,33 +256,6 @@ With his carefree lifestyle on the line, a wealthy charmer poses as a ranch hand
 	
 	
 
-### Alabama Snake
-*Released on 2020-12-09, vote average 6.3*
-
-The story of Pentecostal minister Glenn Summerford — a man accused of attempting to murder his wife with a rattlesnake in the sleepy town of Scottsboro, Alabama — and the investigation and trial that haunted Southern Appalachia for decades.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Rdh8ZIpQyP0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### Fatale
 *Released on 2020-12-18, vote average 8*
 
@@ -295,6 +270,21 @@ A married man is tricked into a murder scheme by a female police detective.
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -323,41 +313,34 @@ Joseph and his family live in the remote wilderness as fur trappers but their tr
 
 
 	
-
-  
-
-
-	
-	
 	
 
-  
+### My Soul to Keep
+*Released on 2020-12-23, vote average 9*
 
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Archenemy
-*Released on 2020-12-11, vote average 6.5*
-
-Max Fist claims he’s a hero from another dimension who has somehow landed on Earth and been stripped of his powers. Instead of treating him like a powerful champion, no one believes Max’s claims — except for a teenager named Hamster and his sister Indigo. The siblings convince Max to help them take out a local drug gang, where Max’s abilities are put to a violent and harrowing test.
+Like many 9-year-old boys, Eli Braverman believes something menacing lives in his basement. When his older sister leaves him home alone one night, Eli discovers if this evil is real or all in his head. What Eli confronts may end up being far more terrifying than even his worst nightmare.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/1sIX8txJ42s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/rrYfxO1aMTU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -387,71 +370,54 @@ Joe Gardner is a middle school teacher with a love for jazz music. After a succe
 	
 
 	
+
 	
 
-### Robot Riot
-*Released on 2020-12-23, vote average 2.2*
+	
 
-Unconscious soldiers are dropped into a testing site only to discover their memories have been wiped and that once docile machines are the new intelligence.
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Pokémon the Movie: Secrets of the Jungle
+*Released on 2020-12-25, vote average 7*
+
+The new film&#39;s story is set in Okoya Forest, a Pokémon paradise protected by strict rules that forbid outsiders from setting foot inside. The film centers on Coco, a boy who was raised by Pokémon and also considers himself as one, treating the Mythical Pokémon Zarude as his father. Ash and Pikachu encounter Coco during an adventure.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/LSo4VQyPrzM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/XfDP4V6_gmA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
-	
-	
-
-### My Soul to Keep
-*Released on 2020-12-23, vote average 9*
-
-Like many 9-year-old boys, Eli Braverman believes something menacing lives in his basement. When his older sister leaves him home alone one night, Eli discovers if this evil is real or all in his head. What Eli confronts may end up being far more terrifying than even his worst nightmare.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rrYfxO1aMTU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
