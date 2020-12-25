@@ -46,16 +46,16 @@ Wonder Woman comes into conflict with the Soviet Union during the Cold War in th
 	
 	
 
-### Robot Riot
-*Released on 2020-12-23, vote average 2.2*
+### Soul
+*Released on 2020-12-25, vote average 10*
 
-Unconscious soldiers are dropped into a testing site only to discover their memories have been wiped and that once docile machines are the new intelligence.
+Joe Gardner is a middle school teacher with a love for jazz music. After a successful gig at the Half Note Club, he suddenly gets into an accident that separates his soul from his body and is transported to the You Seminar, a center in which souls develop and gain passions before being transported to a newborn child. Joe must enlist help from the other souls-in-training, like 22, a soul who has spent eons in the You Seminar, in order to get back to Earth.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/LSo4VQyPrzM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/4TojlZYqPUo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -90,30 +90,8 @@ Headstrong farmer Rosemary Muldoon has her heart set on winning her neighbour An
 	
 	
 
-### Skylines
-*Released on 2020-12-18, vote average 7.6*
-
-When a virus threatens to turn the now earth-dwelling friendly alien hybrids against humans, Captain Rose Corley must lead a team of elite mercenaries on a mission to the alien world in order to save what&#39;s left of humanity.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MuuqzLwgMhY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### ariana grande: excuse me, i love you
-*Released on 2020-12-21, vote average 8*
+*Released on 2020-12-21, vote average 8.7*
 
 Ariana Grande takes the stage in London for her Sweetener World Tour and shares a behind-the-scenes look at her life in rehearsal and on the road.
 
@@ -134,16 +112,38 @@ Ariana Grande takes the stage in London for her Sweetener World Tour and shares 
 	
 	
 
-### Songbird
-*Released on 2020-12-10, vote average 6.6*
+### Robot Riot
+*Released on 2020-12-23, vote average 2.6*
 
-During a pandemic lockdown, Nico, a young man with rare immunity, must overcome martial law, murderous vigilantes and a powerful family to reunite with his love, Sara.
+Unconscious soldiers are dropped into a testing site only to discover their memories have been wiped and that once docile machines are the new intelligence.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/IgxXSfto6Vo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/LSo4VQyPrzM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Skylines
+*Released on 2020-12-18, vote average 7.5*
+
+When a virus threatens to turn the now earth-dwelling friendly alien hybrids against humans, Captain Rose Corley must lead a team of elite mercenaries on a mission to the alien world in order to save what&#39;s left of humanity.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MuuqzLwgMhY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -157,7 +157,7 @@ During a pandemic lockdown, Nico, a young man with rare immunity, must overcome 
 	
 
 ### Breach
-*Released on 2020-12-17, vote average 5.3*
+*Released on 2020-12-17, vote average 5*
 
 A hardened mechanic must stay awake and maintain an interstellar ark fleeing the dying planet Earth with a few thousand lucky souls on board... the last of humanity. Unfortunately, humans are not the only passengers. A shapeshifting alien creature has taken residence, its only goal is to kill as many people as possible. The crew must think quickly to stop this menace before it destroys mankind.
 
@@ -177,72 +177,6 @@ A hardened mechanic must stay awake and maintain an interstellar ark fleeing the
 
 	
 	
-
-### The Midnight Sky
-*Released on 2020-12-10, vote average 5.5*
-
-A lone scientist in the Arctic races to contact a crew of astronauts returning home to a mysterious global catastrophe.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/DXUUqr3AFKs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Spotlight on Christmas
-*Released on 2020-12-21, vote average 7*
-
-Dumped two weeks before Christmas, actress Olivia O’Hara secretly returns to her tiny hometown to hide out, eat cookies and avoid the press. What she doesn’t expect is to be faced with the family she left behind, meeting a charming new guy Casey Rawlins, and a noisy reporter following her every move.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/w0Um16a9YLw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### A California Christmas
-*Released on 2020-12-14, vote average 6.6*
-
-With his carefree lifestyle on the line, a wealthy charmer poses as a ranch hand to get a hardworking farmer to sell her family’s land before Christmas.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/28MO3ngJNto?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -253,60 +187,6 @@ With his carefree lifestyle on the line, a wealthy charmer poses as a ranch hand
   
 
 
-	
-	
-
-### Fatale
-*Released on 2020-12-18, vote average 8*
-
-A married man is tricked into a murder scheme by a female police detective.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tPWURGgKJ7o?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Hunter Hunter
-*Released on 2020-12-18, vote average 6.2*
-
-Joseph and his family live in the remote wilderness as fur trappers but their tranquility starts to be threatened when they think are being hunted by the return of a rogue wolf and Joseph leaves them behind to track it.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/lB-7oVKUBQk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -335,7 +215,74 @@ Like many 9-year-old boys, Eli Braverman believes something menacing lives in hi
 
 
 	
+
+  
+
+
 	
+	
+
+### Fatale
+*Released on 2020-12-18, vote average 8.7*
+
+A married man is tricked into a murder scheme by a female police detective.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/tPWURGgKJ7o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### A California Christmas
+*Released on 2020-12-14, vote average 6.7*
+
+With his carefree lifestyle on the line, a wealthy charmer poses as a ranch hand to get a hardworking farmer to sell her family’s land before Christmas.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/28MO3ngJNto?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -380,28 +327,6 @@ Joe Gardner is a middle school teacher with a love for jazz music. After a succe
 	
 
 	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
 	
 
 ### Pokémon the Movie: Secrets of the Jungle
@@ -418,6 +343,28 @@ The new film&#39;s story is set in Okoya Forest, a Pokémon paradise protected b
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
