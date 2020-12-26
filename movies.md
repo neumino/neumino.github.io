@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Wonder Woman 1984
-*Released on 2020-12-16, vote average 7.1*
+*Released on 2020-12-16, vote average 7.2*
 
 Wonder Woman comes into conflict with the Soviet Union during the Cold War in the 1980s and finds a formidable foe by the name of the Cheetah.
 
@@ -68,16 +68,16 @@ Joe Gardner is a middle school teacher with a love for jazz music. After a succe
 	
 	
 
-### Wild Mountain Thyme
-*Released on 2020-12-11, vote average 7.3*
+### Robot Riot
+*Released on 2020-12-23, vote average 2.6*
 
-Headstrong farmer Rosemary Muldoon has her heart set on winning her neighbour Anthony Reilly&#39;s love. The problem is, Anthony seems to have inherited a family curse, and remains oblivious to his beautiful admirer. Stung by his father&#39;s plans to sell the family farm to his American nephew, Anthony is jolted into pursuing his dreams.
+Unconscious soldiers are dropped into a testing site only to discover their memories have been wiped and that once docile machines are the new intelligence.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/kadUgcIxODM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/LSo4VQyPrzM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -91,7 +91,7 @@ Headstrong farmer Rosemary Muldoon has her heart set on winning her neighbour An
 	
 
 ### ariana grande: excuse me, i love you
-*Released on 2020-12-21, vote average 8.7*
+*Released on 2020-12-21, vote average 8.6*
 
 Ariana Grande takes the stage in London for her Sweetener World Tour and shares a behind-the-scenes look at her life in rehearsal and on the road.
 
@@ -110,21 +110,6 @@ Ariana Grande takes the stage in London for her Sweetener World Tour and shares 
 
 
 	
-	
-
-### Robot Riot
-*Released on 2020-12-23, vote average 2.6*
-
-Unconscious soldiers are dropped into a testing site only to discover their memories have been wiped and that once docile machines are the new intelligence.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LSo4VQyPrzM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -157,7 +142,7 @@ When a virus threatens to turn the now earth-dwelling friendly alien hybrids aga
 	
 
 ### Breach
-*Released on 2020-12-17, vote average 5*
+*Released on 2020-12-17, vote average 4.9*
 
 A hardened mechanic must stay awake and maintain an interstellar ark fleeing the dying planet Earth with a few thousand lucky souls on board... the last of humanity. Unfortunately, humans are not the only passengers. A shapeshifting alien creature has taken residence, its only goal is to kill as many people as possible. The crew must think quickly to stop this menace before it destroys mankind.
 
@@ -175,8 +160,6 @@ A hardened mechanic must stay awake and maintain an interstellar ark fleeing the
   
 
 
-	
-	
 	
 
   
@@ -215,11 +198,6 @@ Like many 9-year-old boys, Eli Braverman believes something menacing lives in hi
 
 
 	
-
-  
-
-
-	
 	
 
 ### Fatale
@@ -244,8 +222,30 @@ A married man is tricked into a murder scheme by a female police detective.
 	
 	
 
+### Pokémon the Movie: Secrets of the Jungle
+*Released on 2020-12-25, vote average 7*
+
+The new film&#39;s story is set in Okoya Forest, a Pokémon paradise protected by strict rules that forbid outsiders from setting foot inside. The film centers on Coco, a boy who was raised by Pokémon and also considers himself as one, treating the Mythical Pokémon Zarude as his father. Ash and Pikachu encounter Coco during an adventure.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/XfDP4V6_gmA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### A California Christmas
-*Released on 2020-12-14, vote average 6.7*
+*Released on 2020-12-14, vote average 6.6*
 
 With his carefree lifestyle on the line, a wealthy charmer poses as a ranch hand to get a hardworking farmer to sell her family’s land before Christmas.
 
@@ -284,6 +284,8 @@ With his carefree lifestyle on the line, a wealthy charmer poses as a ranch hand
 
 
 	
+	
+	
 
   
 
@@ -298,18 +300,22 @@ With his carefree lifestyle on the line, a wealthy charmer poses as a ranch hand
 
 
 	
+
 	
 
-### Soul
-*Released on 2020-12-25, vote average 10*
+	
+	
 
-Joe Gardner is a middle school teacher with a love for jazz music. After a successful gig at the Half Note Club, he suddenly gets into an accident that separates his soul from his body and is transported to the You Seminar, a center in which souls develop and gain passions before being transported to a newborn child. Joe must enlist help from the other souls-in-training, like 22, a soul who has spent eons in the You Seminar, in order to get back to Earth.
+### Nomadland
+*Released on 2020-12-26, vote average 2*
+
+A woman in her sixties embarks on a journey through the Western United States after losing everything in the Great Recession, living as a van-dwelling modern-day nomad.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/4TojlZYqPUo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/UCauQhxMF-s?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -322,27 +328,6 @@ Joe Gardner is a middle school teacher with a love for jazz music. After a succe
 
 	
 
-	
-
-	
-
-	
-	
-
-### Pokémon the Movie: Secrets of the Jungle
-*Released on 2020-12-25, vote average 7*
-
-The new film&#39;s story is set in Okoya Forest, a Pokémon paradise protected by strict rules that forbid outsiders from setting foot inside. The film centers on Coco, a boy who was raised by Pokémon and also considers himself as one, treating the Mythical Pokémon Zarude as his father. Ash and Pikachu encounter Coco during an adventure.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XfDP4V6_gmA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
