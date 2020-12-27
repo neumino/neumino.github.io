@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Wonder Woman 1984
-*Released on 2020-12-16, vote average 7.2*
+*Released on 2020-12-16, vote average 7.5*
 
 Wonder Woman comes into conflict with the Soviet Union during the Cold War in the 1980s and finds a formidable foe by the name of the Cheetah.
 
@@ -47,7 +47,7 @@ Wonder Woman comes into conflict with the Soviet Union during the Cold War in th
 	
 
 ### Soul
-*Released on 2020-12-25, vote average 10*
+*Released on 2020-12-25, vote average 8.4*
 
 Joe Gardner is a middle school teacher with a love for jazz music. After a successful gig at the Half Note Club, he suddenly gets into an accident that separates his soul from his body and is transported to the You Seminar, a center in which souls develop and gain passions before being transported to a newborn child. Joe must enlist help from the other souls-in-training, like 22, a soul who has spent eons in the You Seminar, in order to get back to Earth.
 
@@ -59,6 +59,35 @@ Joe Gardner is a middle school teacher with a love for jazz music. After a succe
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+	
+
+### ariana grande: excuse me, i love you
+*Released on 2020-12-21, vote average 8.5*
+
+Ariana Grande takes the stage in London for her Sweetener World Tour and shares a behind-the-scenes look at her life in rehearsal and on the road.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zHwcvnyiolA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -90,16 +119,16 @@ Unconscious soldiers are dropped into a testing site only to discover their memo
 	
 	
 
-### ariana grande: excuse me, i love you
-*Released on 2020-12-21, vote average 8.6*
+### We Can Be Heroes
+*Released on 2020-12-25, vote average 5.9*
 
-Ariana Grande takes the stage in London for her Sweetener World Tour and shares a behind-the-scenes look at her life in rehearsal and on the road.
+When alien invaders capture Earth&#39;s superheroes, their kids must learn to work together to save their parents - and the planet.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/zHwcvnyiolA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/OmupQ6LJiJY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -111,16 +140,9 @@ Ariana Grande takes the stage in London for her Sweetener World Tour and shares 
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Skylines
-*Released on 2020-12-18, vote average 7.5*
+*Released on 2020-12-18, vote average 7.7*
 
 When a virus threatens to turn the now earth-dwelling friendly alien hybrids against humans, Captain Rose Corley must lead a team of elite mercenaries on a mission to the alien world in order to save what&#39;s left of humanity.
 
@@ -133,6 +155,11 @@ When a virus threatens to turn the now earth-dwelling friendly alien hybrids aga
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -161,15 +188,51 @@ A hardened mechanic must stay awake and maintain an interstellar ark fleeing the
 
 
 	
-
-  
-
-
+	
 	
 
   
 
 
+	
+	
+
+### Nomadland
+*Released on 2020-12-26, vote average 2*
+
+A woman in her sixties embarks on a journey through the Western United States after losing everything in the Great Recession, living as a van-dwelling modern-day nomad.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/UCauQhxMF-s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Dissident
+*Released on 2020-12-25, vote average 7*
+
+When Washington Post journalist Jamal Khashoggi disappears after entering Saudi Arabia’s consulate in Istanbul, his fiancée and dissidents around the world are left to piece together the clues to a brutal murder and expose a global cover up perpetrated by the very country he loved.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2I6hjwblA_g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -197,45 +260,6 @@ Like many 9-year-old boys, Eli Braverman believes something menacing lives in hi
   
 
 
-	
-	
-
-### Fatale
-*Released on 2020-12-18, vote average 8.7*
-
-A married man is tricked into a murder scheme by a female police detective.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tPWURGgKJ7o?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Pokémon the Movie: Secrets of the Jungle
-*Released on 2020-12-25, vote average 7*
-
-The new film&#39;s story is set in Okoya Forest, a Pokémon paradise protected by strict rules that forbid outsiders from setting foot inside. The film centers on Coco, a boy who was raised by Pokémon and also considers himself as one, treating the Mythical Pokémon Zarude as his father. Ash and Pikachu encounter Coco during an adventure.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XfDP4V6_gmA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -269,27 +293,73 @@ With his carefree lifestyle on the line, a wealthy charmer poses as a ranch hand
 
 
 	
+	
 
-  
+### Pokémon the Movie: Secrets of the Jungle
+*Released on 2020-12-25, vote average 7*
 
+The new film&#39;s story is set in Okoya Forest, a Pokémon paradise protected by strict rules that forbid outsiders from setting foot inside. The film centers on Coco, a boy who was raised by Pokémon and also considers himself as one, treating the Mythical Pokémon Zarude as his father. Ash and Pikachu encounter Coco during an adventure.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/XfDP4V6_gmA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
 
 
 	
+	
+
+### Hunter Hunter
+*Released on 2020-12-18, vote average 6.1*
+
+Joseph and his family live in the remote wilderness as fur trappers but their tranquility starts to be threatened when they think are being hunted by the return of a rogue wolf and Joseph leaves them behind to track it.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/lB-7oVKUBQk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
 	
 	
+
+### Fatale
+*Released on 2020-12-18, vote average 8.7*
+
+A married man is tricked into a murder scheme by a female police detective.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/tPWURGgKJ7o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
 
 
+	
+	
 	
 
   
@@ -303,23 +373,6 @@ With his carefree lifestyle on the line, a wealthy charmer poses as a ranch hand
 
 	
 
-	
-	
-
-### Nomadland
-*Released on 2020-12-26, vote average 2*
-
-A woman in her sixties embarks on a journey through the Western United States after losing everything in the Great Recession, living as a van-dwelling modern-day nomad.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/UCauQhxMF-s?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
