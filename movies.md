@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Wonder Woman 1984
-*Released on 2020-12-16, vote average 7.6*
+*Released on 2020-12-16, vote average 7.5*
 
 Wonder Woman comes into conflict with the Soviet Union during the Cold War in the 1980s and finds a formidable foe by the name of the Cheetah.
 
@@ -120,7 +120,7 @@ Unconscious soldiers are dropped into a testing site only to discover their memo
 	
 
 ### We Can Be Heroes
-*Released on 2020-12-25, vote average 5.9*
+*Released on 2020-12-25, vote average 5.8*
 
 When alien invaders capture Earth&#39;s superheroes, their kids must learn to work together to save their parents - and the planet.
 
@@ -140,9 +140,16 @@ When alien invaders capture Earth&#39;s superheroes, their kids must learn to wo
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Skylines
-*Released on 2020-12-18, vote average 7.7*
+*Released on 2020-12-18, vote average 7.6*
 
 When a virus threatens to turn the now earth-dwelling friendly alien hybrids against humans, Captain Rose Corley must lead a team of elite mercenaries on a mission to the alien world in order to save what&#39;s left of humanity.
 
@@ -162,6 +169,21 @@ When a virus threatens to turn the now earth-dwelling friendly alien hybrids aga
 
 	
 	
+
+### Death to 2020
+*Released on 2020-12-27, vote average 6.8*
+
+2020: A year so [insert adjective of choice here], even the creators of Black Mirror couldn&#39;t make it up… but that doesn&#39;t mean they don&#39;t have a little something to add. This comedy event that tells the story of the dreadful year that was — and perhaps still is? The documentary-style special weaves together some of the world&#39;s most (fictitious) renowned voices with real-life archival footage.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/BxR9Zo36rbo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -171,7 +193,7 @@ When a virus threatens to turn the now earth-dwelling friendly alien hybrids aga
 	
 
 ### Breach
-*Released on 2020-12-17, vote average 4.9*
+*Released on 2020-12-17, vote average 4.7*
 
 A hardened mechanic must stay awake and maintain an interstellar ark fleeing the dying planet Earth with a few thousand lucky souls on board... the last of humanity. Unfortunately, humans are not the only passengers. A shapeshifting alien creature has taken residence, its only goal is to kill as many people as possible. The crew must think quickly to stop this menace before it destroys mankind.
 
@@ -215,7 +237,7 @@ A Texan traveling across the wild West bringing the news of the world to local t
 	
 
 ### Hunter Hunter
-*Released on 2020-12-18, vote average 7*
+*Released on 2020-12-18, vote average 7.5*
 
 Joseph and his family live in the remote wilderness as fur trappers but their tranquility starts to be threatened when they think are being hunted by the return of a rogue wolf and Joseph leaves them behind to track it.
 
@@ -224,55 +246,6 @@ Joseph and his family live in the remote wilderness as fur trappers but their tr
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/lB-7oVKUBQk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Fatale
-*Released on 2020-12-18, vote average 8.7*
-
-A married man is tricked into a murder scheme by a female police detective.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tPWURGgKJ7o?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Nomadland
-*Released on 2020-12-26, vote average 2*
-
-A woman in her sixties embarks on a journey through the Western United States after losing everything in the Great Recession, living as a van-dwelling modern-day nomad.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/UCauQhxMF-s?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -306,24 +279,17 @@ Like many 9-year-old boys, Eli Braverman believes something menacing lives in hi
 
 	
 	
-	
 
-  
+### Fatale
+*Released on 2020-12-18, vote average 8.7*
 
-
-	
-	
-
-### A California Christmas
-*Released on 2020-12-14, vote average 6.6*
-
-With his carefree lifestyle on the line, a wealthy charmer poses as a ranch hand to get a hardworking farmer to sell her family’s land before Christmas.
+A married man is tricked into a murder scheme by a female police detective.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/28MO3ngJNto?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/tPWURGgKJ7o?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -346,21 +312,40 @@ With his carefree lifestyle on the line, a wealthy charmer poses as a ranch hand
 
 
 	
+
+  
+
+
+	
+	
 	
 
-### The Dissident
-*Released on 2020-12-25, vote average 7*
+  
 
-When Washington Post journalist Jamal Khashoggi disappears after entering Saudi Arabia’s consulate in Istanbul, his fiancée and dissidents around the world are left to piece together the clues to a brutal murder and expose a global cover up perpetrated by the very country he loved.
+
+	
+	
+
+### Nomadland
+*Released on 2020-12-26, vote average 2*
+
+A woman in her sixties embarks on a journey through the Western United States after losing everything in the Great Recession, living as a van-dwelling modern-day nomad.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/2I6hjwblA_g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/UCauQhxMF-s?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
