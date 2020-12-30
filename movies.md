@@ -97,30 +97,8 @@ Ariana Grande takes the stage in London for her Sweetener World Tour and shares 
 	
 	
 
-### Robot Riot
-*Released on 2020-12-23, vote average 2.6*
-
-Unconscious soldiers are dropped into a testing site only to discover their memories have been wiped and that once docile machines are the new intelligence.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LSo4VQyPrzM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### We Can Be Heroes
-*Released on 2020-12-25, vote average 5.8*
+*Released on 2020-12-25, vote average 6*
 
 When alien invaders capture Earth&#39;s superheroes, their kids must learn to work together to save their parents - and the planet.
 
@@ -148,16 +126,16 @@ When alien invaders capture Earth&#39;s superheroes, their kids must learn to wo
 	
 	
 
-### Skylines
-*Released on 2020-12-18, vote average 7.6*
+### Robot Riot
+*Released on 2020-12-23, vote average 2.6*
 
-When a virus threatens to turn the now earth-dwelling friendly alien hybrids against humans, Captain Rose Corley must lead a team of elite mercenaries on a mission to the alien world in order to save what&#39;s left of humanity.
+Unconscious soldiers are dropped into a testing site only to discover their memories have been wiped and that once docile machines are the new intelligence.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/MuuqzLwgMhY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/LSo4VQyPrzM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -192,6 +170,50 @@ When a virus threatens to turn the now earth-dwelling friendly alien hybrids aga
 	
 	
 
+### Skylines
+*Released on 2020-12-18, vote average 7.6*
+
+When a virus threatens to turn the now earth-dwelling friendly alien hybrids against humans, Captain Rose Corley must lead a team of elite mercenaries on a mission to the alien world in order to save what&#39;s left of humanity.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MuuqzLwgMhY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### News of the World
+*Released on 2020-12-25, vote average 9*
+
+A Texan traveling across the wild West bringing the news of the world to local townspeople, agrees to help rescue a young girl who was kidnapped.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/F8auVKAgyHI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Breach
 *Released on 2020-12-17, vote average 4.7*
 
@@ -213,65 +235,6 @@ A hardened mechanic must stay awake and maintain an interstellar ark fleeing the
 
 	
 	
-
-### News of the World
-*Released on 2020-12-25, vote average 10*
-
-A Texan traveling across the wild West bringing the news of the world to local townspeople, agrees to help rescue a young girl who was kidnapped.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/F8auVKAgyHI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Hunter Hunter
-*Released on 2020-12-18, vote average 7.5*
-
-Joseph and his family live in the remote wilderness as fur trappers but their tranquility starts to be threatened when they think are being hunted by the return of a rogue wolf and Joseph leaves them behind to track it.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/lB-7oVKUBQk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### My Soul to Keep
-*Released on 2020-12-23, vote average 9*
-
-Like many 9-year-old boys, Eli Braverman believes something menacing lives in his basement. When his older sister leaves him home alone one night, Eli discovers if this evil is real or all in his head. What Eli confronts may end up being far more terrifying than even his worst nightmare.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rrYfxO1aMTU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -281,7 +244,7 @@ Like many 9-year-old boys, Eli Braverman believes something menacing lives in hi
 	
 
 ### Fatale
-*Released on 2020-12-18, vote average 8.7*
+*Released on 2020-12-18, vote average 8*
 
 A married man is tricked into a murder scheme by a female police detective.
 
@@ -300,8 +263,6 @@ A married man is tricked into a murder scheme by a female police detective.
 
 
 	
-	
-	
 
   
 
@@ -318,24 +279,17 @@ A married man is tricked into a murder scheme by a female police detective.
 
 	
 	
-	
 
-  
+### The Last Earth Girl
+*Released on 2020-12-26, vote average 10*
 
-
-	
-	
-
-### Nomadland
-*Released on 2020-12-26, vote average 2*
-
-A woman in her sixties embarks on a journey through the Western United States after losing everything in the Great Recession, living as a van-dwelling modern-day nomad.
+Who Will You Be When the World Ends? - When it is announced that the world will end in 7 years, a young woman must decide what is truly important to her in life and what she is willing to sacrifice to reach her goals.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/UCauQhxMF-s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/tl4jOJe9dH8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -346,7 +300,17 @@ A woman in her sixties embarks on a journey through the Western United States af
 
 
 	
+
+  
+
+
 	
+	
+	
+
+  
+
+
 	
 
   
