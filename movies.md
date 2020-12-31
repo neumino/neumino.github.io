@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Wonder Woman 1984
-*Released on 2020-12-16, vote average 7.5*
+### Soul
+*Released on 2020-12-25, vote average 8.6*
 
-Wonder Woman comes into conflict with the Soviet Union during the Cold War in the 1980s and finds a formidable foe by the name of the Cheetah.
+Joe Gardner is a middle school teacher with a love for jazz music. After a successful gig at the Half Note Club, he suddenly gets into an accident that separates his soul from his body and is transported to the You Seminar, a center in which souls develop and gain passions before being transported to a newborn child. Joe must enlist help from the other souls-in-training, like 22, a soul who has spent eons in the You Seminar, in order to get back to Earth.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/sfM7_JLk-84?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/4TojlZYqPUo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -40,28 +40,6 @@ Wonder Woman comes into conflict with the Soviet Union during the Cold War in th
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-
-
-	
-	
-
-### Soul
-*Released on 2020-12-25, vote average 8.5*
-
-Joe Gardner is a middle school teacher with a love for jazz music. After a successful gig at the Half Note Club, he suddenly gets into an accident that separates his soul from his body and is transported to the You Seminar, a center in which souls develop and gain passions before being transported to a newborn child. Joe must enlist help from the other souls-in-training, like 22, a soul who has spent eons in the You Seminar, in order to get back to Earth.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/4TojlZYqPUo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
   
 
 
@@ -126,6 +104,28 @@ When alien invaders capture Earth&#39;s superheroes, their kids must learn to wo
 	
 	
 
+### Death to 2020
+*Released on 2020-12-27, vote average 7*
+
+2020: A year so [insert adjective of choice here], even the creators of Black Mirror couldn&#39;t make it up… but that doesn&#39;t mean they don&#39;t have a little something to add. This comedy event that tells the story of the dreadful year that was — and perhaps still is? The documentary-style special weaves together some of the world&#39;s most (fictitious) renowned voices with real-life archival footage.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/BxR9Zo36rbo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Robot Riot
 *Released on 2020-12-23, vote average 2.6*
 
@@ -145,23 +145,6 @@ Unconscious soldiers are dropped into a testing site only to discover their memo
   
 
 
-	
-	
-
-### Death to 2020
-*Released on 2020-12-27, vote average 6.8*
-
-2020: A year so [insert adjective of choice here], even the creators of Black Mirror couldn&#39;t make it up… but that doesn&#39;t mean they don&#39;t have a little something to add. This comedy event that tells the story of the dreadful year that was — and perhaps still is? The documentary-style special weaves together some of the world&#39;s most (fictitious) renowned voices with real-life archival footage.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/BxR9Zo36rbo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -184,6 +167,18 @@ When a virus threatens to turn the now earth-dwelling friendly alien hybrids aga
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -214,6 +209,33 @@ A Texan traveling across the wild West bringing the news of the world to local t
 	
 	
 
+### The One You Feed
+*Released on 2020-12-29, vote average 8*
+
+A Stranger (30s) hikes out of town and into the forest. He sets up camp for the night. He hears a deep howling, peeks his head out the tent and gets attacked -- leaving him unconscious. An anonymous Man (25) drags his body to a house, which is nestled in a place that time has somehow forgotten. The injured Stranger awakens in a bed as a Woman (35) nurses him back to health. This Man and Woman play a game with this Stranger, a game that pushes him to the brink of madness.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/WWJI9j-0zxM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### Breach
 *Released on 2020-12-17, vote average 4.7*
 
@@ -234,7 +256,20 @@ A hardened mechanic must stay awake and maintain an interstellar ark fleeing the
 
 
 	
+
+  
+
+
 	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -243,74 +278,20 @@ A hardened mechanic must stay awake and maintain an interstellar ark fleeing the
 	
 	
 
-### Fatale
-*Released on 2020-12-18, vote average 8*
+### The Glorias
+*Released on 2020-12-18, vote average 6*
 
-A married man is tricked into a murder scheme by a female police detective.
+An equal rights crusader, journalist and activist: Gloria Steinem embodies these and more. From her role in the revolutionary women&#39;s rights movement to her travels throughout the U.S. and around the world, Steinem has made an everlasting mark on modern history. A nontraditional chronicle of a trailblazing life.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/tPWURGgKJ7o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Iw7P90tJSJs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Last Earth Girl
-*Released on 2020-12-26, vote average 10*
-
-Who Will You Be When the World Ends? - When it is announced that the world will end in 7 years, a young woman must decide what is truly important to her in life and what she is willing to sacrifice to reach her goals.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tl4jOJe9dH8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 	
 
   
