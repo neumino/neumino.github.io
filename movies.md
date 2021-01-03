@@ -47,7 +47,7 @@ Joe Gardner is a middle school teacher with a love for jazz music. After a succe
 	
 
 ### We Can Be Heroes
-*Released on 2020-12-25, vote average 6.1*
+*Released on 2020-12-25, vote average 6.2*
 
 When alien invaders capture Earth&#39;s superheroes, their kids must learn to work together to save their parents - and the planet.
 
@@ -59,6 +59,13 @@ When alien invaders capture Earth&#39;s superheroes, their kids must learn to wo
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -89,16 +96,9 @@ Ariana Grande takes the stage in London for her Sweetener World Tour and shares 
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Death to 2020
-*Released on 2020-12-27, vote average 6.9*
+*Released on 2020-12-27, vote average 7*
 
 2020: A year so [insert adjective of choice here], even the creators of Black Mirror couldn&#39;t make it up… but that doesn&#39;t mean they don&#39;t have a little something to add. This comedy event that tells the story of the dreadful year that was — and perhaps still is? The documentary-style special weaves together some of the world&#39;s most (fictitious) renowned voices with real-life archival footage.
 
@@ -139,28 +139,18 @@ Unconscious soldiers are dropped into a testing site only to discover their memo
 
 
 	
-
-  
-
-
 	
 
-  
+### Jumanji: Level One
+*Released on 2020-12-31, vote average 10*
 
-
-	
-	
-
-### News of the World
-*Released on 2020-12-25, vote average 8.8*
-
-A Texan traveling across the wild West bringing the news of the world to local townspeople, agrees to help rescue a young girl who was kidnapped.
+Set in 1869, two children receive a mysterious game after their father goes missing in the jungles of Africa. They unravel both the secret of their father’s disappearance and the origin of Jumanji.  See how it all began.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/F8auVKAgyHI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/UjN_FPK-7T0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -193,10 +183,22 @@ Animation and activism unite in this multimedia spoken-word response to police b
 
 
 	
+	
 
-  
+### Shadow in the Cloud
+*Released on 2020-12-31, vote average 6*
 
+A WWII pilot traveling with top secret documents on a B-17 Flying Fortress encounters an evil presence on board the flight.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hCToNAb7QGU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -206,7 +208,7 @@ Animation and activism unite in this multimedia spoken-word response to police b
 	
 
 ### Nomadland
-*Released on 2020-12-26, vote average 7.7*
+*Released on 2020-12-26, vote average 7.6*
 
 A woman in her sixties embarks on a journey through the Western United States after losing everything in the Great Recession, living as a van-dwelling modern-day nomad.
 
@@ -225,10 +227,86 @@ A woman in her sixties embarks on a journey through the Western United States af
 
 
 	
+
+  
+
+
+	
+	
+
+### News of the World
+*Released on 2020-12-25, vote average 8.8*
+
+A Texan traveling across the wild West bringing the news of the world to local townspeople, agrees to help rescue a young girl who was kidnapped.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/F8auVKAgyHI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Tarung Sarung
+*Released on 2020-12-31, vote average 8*
+
+Wealthy and spoiled, a young man finds something to fight for when he falls in love with an environmental activist protesting his family&#39;s business.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/V48qhATHklc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Minimalists: Less Is Now
+*Released on 2021-01-01, vote average 6.8*
+
+They&#39;ve built a movement out of minimalism. Longtime friends Joshua Fields Millburn and Ryan Nicodemus share how our lives can be better with less.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jn-xbOCZOiQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 
 ### The Dry
-*Released on 2021-01-01, vote average 6*
+*Released on 2021-01-01, vote average 7.3*
 
 Federal Agent Aaron Falk returns to his drought-stricken hometown to attend a tragic funeral of a childhood friend. But his return opens a decades-old wound - the unsolved death of a teenage girl.
 
@@ -256,33 +334,6 @@ Federal Agent Aaron Falk returns to his drought-stricken hometown to attend a tr
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The One You Feed
-*Released on 2020-12-29, vote average 7*
-
-A Stranger (30s) hikes out of town and into the forest. He sets up camp for the night. He hears a deep howling, peeks his head out the tent and gets attacked -- leaving him unconscious. An anonymous Man (25) drags his body to a house, which is nestled in a place that time has somehow forgotten. The injured Stranger awakens in a bed as a Woman (35) nurses him back to health. This Man and Woman play a game with this Stranger, a game that pushes him to the brink of madness.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/WWJI9j-0zxM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
