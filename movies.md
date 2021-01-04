@@ -47,7 +47,7 @@ Joe Gardner is a middle school teacher with a love for jazz music. After a succe
 	
 
 ### We Can Be Heroes
-*Released on 2020-12-25, vote average 6.2*
+*Released on 2020-12-25, vote average 6*
 
 When alien invaders capture Earth&#39;s superheroes, their kids must learn to work together to save their parents - and the planet.
 
@@ -56,6 +56,28 @@ When alien invaders capture Earth&#39;s superheroes, their kids must learn to wo
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/OmupQ6LJiJY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Death to 2020
+*Released on 2020-12-27, vote average 6.9*
+
+2020: A year so [insert adjective of choice here], even the creators of Black Mirror couldn&#39;t make it up… but that doesn&#39;t mean they don&#39;t have a little something to add. This comedy event that tells the story of the dreadful year that was — and perhaps still is? The documentary-style special weaves together some of the world&#39;s most (fictitious) renowned voices with real-life archival footage.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/BxR9Zo36rbo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -76,7 +98,7 @@ When alien invaders capture Earth&#39;s superheroes, their kids must learn to wo
 	
 
 ### ariana grande: excuse me, i love you
-*Released on 2020-12-21, vote average 8.4*
+*Released on 2020-12-21, vote average 8.3*
 
 Ariana Grande takes the stage in London for her Sweetener World Tour and shares a behind-the-scenes look at her life in rehearsal and on the road.
 
@@ -85,28 +107,6 @@ Ariana Grande takes the stage in London for her Sweetener World Tour and shares 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/zHwcvnyiolA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Death to 2020
-*Released on 2020-12-27, vote average 7*
-
-2020: A year so [insert adjective of choice here], even the creators of Black Mirror couldn&#39;t make it up… but that doesn&#39;t mean they don&#39;t have a little something to add. This comedy event that tells the story of the dreadful year that was — and perhaps still is? The documentary-style special weaves together some of the world&#39;s most (fictitious) renowned voices with real-life archival footage.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/BxR9Zo36rbo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -141,30 +141,8 @@ Unconscious soldiers are dropped into a testing site only to discover their memo
 	
 	
 
-### Jumanji: Level One
-*Released on 2020-12-31, vote average 10*
-
-Set in 1869, two children receive a mysterious game after their father goes missing in the jungles of Africa. They unravel both the secret of their father’s disappearance and the origin of Jumanji.  See how it all began.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/UjN_FPK-7T0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Cops and Robbers
-*Released on 2020-12-28, vote average 7.7*
+*Released on 2020-12-28, vote average 7.6*
 
 Animation and activism unite in this multimedia spoken-word response to police brutality and racial injustice.
 
@@ -186,7 +164,7 @@ Animation and activism unite in this multimedia spoken-word response to police b
 	
 
 ### Shadow in the Cloud
-*Released on 2020-12-31, vote average 6*
+*Released on 2020-12-31, vote average 6.1*
 
 A WWII pilot traveling with top secret documents on a B-17 Flying Fortress encounters an evil presence on board the flight.
 
@@ -198,6 +176,35 @@ A WWII pilot traveling with top secret documents on a B-17 Flying Fortress encou
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+	
+
+### Jumanji: Level One
+*Released on 2020-12-31, vote average 10*
+
+Set in 1869, two children receive a mysterious game after their father goes missing in the jungles of Africa. They unravel both the secret of their father’s disappearance and the origin of Jumanji.  See how it all began.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/UjN_FPK-7T0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -221,38 +228,6 @@ A woman in her sixties embarks on a journey through the Western United States af
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### News of the World
-*Released on 2020-12-25, vote average 8.8*
-
-A Texan traveling across the wild West bringing the news of the world to local townspeople, agrees to help rescue a young girl who was kidnapped.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/F8auVKAgyHI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -284,7 +259,7 @@ Wealthy and spoiled, a young man finds something to fight for when he falls in l
 	
 
 ### The Minimalists: Less Is Now
-*Released on 2021-01-01, vote average 6.8*
+*Released on 2021-01-01, vote average 7.3*
 
 They&#39;ve built a movement out of minimalism. Longtime friends Joshua Fields Millburn and Ryan Nicodemus share how our lives can be better with less.
 
@@ -305,16 +280,38 @@ They&#39;ve built a movement out of minimalism. Longtime friends Joshua Fields M
 	
 	
 
-### The Dry
-*Released on 2021-01-01, vote average 7.3*
+### News of the World
+*Released on 2020-12-25, vote average 8.8*
 
-Federal Agent Aaron Falk returns to his drought-stricken hometown to attend a tragic funeral of a childhood friend. But his return opens a decades-old wound - the unsolved death of a teenage girl.
+A Texan traveling across the wild West bringing the news of the world to local townspeople, agrees to help rescue a young girl who was kidnapped.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/7X7KkP68RZE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/F8auVKAgyHI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### What Happened to Mr Cha?
+*Released on 2021-01-01, vote average 7*
+
+With the peak of his career long behind him, an actor clings to his past glory — until a sudden wake-up call forces him to face who he&#39;s become.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/d7ZP8ywcn8g?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -330,10 +327,19 @@ Federal Agent Aaron Falk returns to his drought-stricken hometown to attend a tr
 
 
 	
+	
+	
 
   
 
 
+	
+
+  
+
+
+	
+	
 	
 
   
