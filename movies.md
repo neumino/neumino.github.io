@@ -47,7 +47,7 @@ Joe Gardner is a middle school teacher with a love for jazz music. After a succe
 	
 
 ### We Can Be Heroes
-*Released on 2020-12-25, vote average 6*
+*Released on 2020-12-25, vote average 6.1*
 
 When alien invaders capture Earth&#39;s superheroes, their kids must learn to work together to save their parents - and the planet.
 
@@ -89,24 +89,17 @@ When alien invaders capture Earth&#39;s superheroes, their kids must learn to wo
 
 	
 	
-	
 
-  
+### AK vs AK
+*Released on 2020-12-24, vote average 7.4*
 
-
-	
-	
-
-### ariana grande: excuse me, i love you
-*Released on 2020-12-21, vote average 8.3*
-
-Ariana Grande takes the stage in London for her Sweetener World Tour and shares a behind-the-scenes look at her life in rehearsal and on the road.
+After a public spat with a movie star,  a disgraced director retaliates by kidnapping the actor&#39;s daughter, filming the search for her in real-time.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/zHwcvnyiolA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/SZyK_b9xjgM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -142,7 +135,7 @@ Unconscious soldiers are dropped into a testing site only to discover their memo
 	
 
 ### Cops and Robbers
-*Released on 2020-12-28, vote average 7.6*
+*Released on 2020-12-28, vote average 6.8*
 
 Animation and activism unite in this multimedia spoken-word response to police brutality and racial injustice.
 
@@ -184,6 +177,13 @@ A WWII pilot traveling with top secret documents on a B-17 Flying Fortress encou
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Jumanji: Level One
 *Released on 2020-12-31, vote average 10*
@@ -195,35 +195,6 @@ Set in 1869, two children receive a mysterious game after their father goes miss
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/UjN_FPK-7T0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Nomadland
-*Released on 2020-12-26, vote average 7.6*
-
-A woman in her sixties embarks on a journey through the Western United States after losing everything in the Great Recession, living as a van-dwelling modern-day nomad.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/UCauQhxMF-s?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -258,16 +229,16 @@ Wealthy and spoiled, a young man finds something to fight for when he falls in l
 	
 	
 
-### The Minimalists: Less Is Now
-*Released on 2021-01-01, vote average 7.3*
+### Nomadland
+*Released on 2020-12-26, vote average 7.9*
 
-They&#39;ve built a movement out of minimalism. Longtime friends Joshua Fields Millburn and Ryan Nicodemus share how our lives can be better with less.
+A woman in her sixties embarks on a journey through the Western United States after losing everything in the Great Recession, living as a van-dwelling modern-day nomad.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/jn-xbOCZOiQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/6sxCFZ8_d84?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -302,6 +273,28 @@ A Texan traveling across the wild West bringing the news of the world to local t
 	
 	
 
+### The Minimalists: Less Is Now
+*Released on 2021-01-01, vote average 7.1*
+
+They&#39;ve built a movement out of minimalism. Longtime friends Joshua Fields Millburn and Ryan Nicodemus share how our lives can be better with less.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jn-xbOCZOiQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### What Happened to Mr Cha?
 *Released on 2021-01-01, vote average 7*
 
@@ -322,6 +315,45 @@ With the peak of his career long behind him, an actor clings to his past glory â
 
 
 	
+	
+
+### My Soul to Keep
+*Released on 2020-12-23, vote average 9*
+
+Like many 9-year-old boys, Eli Braverman believes something menacing lives in his basement. When his older sister leaves him home alone one night, Eli discovers if this evil is real or all in his head. What Eli confronts may end up being far more terrifying than even his worst nightmare.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/rrYfxO1aMTU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Taking a Shot at Love
+*Released on 2021-01-02, vote average 6*
+
+Jenna, a former professional dancer, uses ballet to help a hockey player get back on the ice.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-ApvNcVaIlc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -334,12 +366,12 @@ With the peak of his career long behind him, an actor clings to his past glory â
 
 
 	
+	
+	
 
   
 
 
-	
-	
 	
 
   
@@ -364,6 +396,8 @@ With the peak of his career long behind him, an actor clings to his past glory â
 
 	
 
+	
+	
 	
 
 	
