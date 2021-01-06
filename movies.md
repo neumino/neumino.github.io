@@ -69,7 +69,7 @@ When alien invaders capture Earth&#39;s superheroes, their kids must learn to wo
 	
 
 ### Death to 2020
-*Released on 2020-12-27, vote average 6.9*
+*Released on 2020-12-27, vote average 6.8*
 
 2020: A year so [insert adjective of choice here], even the creators of Black Mirror couldn&#39;t make it up… but that doesn&#39;t mean they don&#39;t have a little something to add. This comedy event that tells the story of the dreadful year that was — and perhaps still is? The documentary-style special weaves together some of the world&#39;s most (fictitious) renowned voices with real-life archival footage.
 
@@ -112,16 +112,16 @@ After a public spat with a movie star,  a disgraced director retaliates by kidna
 	
 	
 
-### Robot Riot
-*Released on 2020-12-23, vote average 2.6*
+### Cops and Robbers
+*Released on 2020-12-28, vote average 6.8*
 
-Unconscious soldiers are dropped into a testing site only to discover their memories have been wiped and that once docile machines are the new intelligence.
+Animation and activism unite in this multimedia spoken-word response to police brutality and racial injustice.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/LSo4VQyPrzM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/MKQbQd_cbmI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,16 +134,16 @@ Unconscious soldiers are dropped into a testing site only to discover their memo
 	
 	
 
-### Cops and Robbers
-*Released on 2020-12-28, vote average 6.8*
+### Robot Riot
+*Released on 2020-12-23, vote average 2.6*
 
-Animation and activism unite in this multimedia spoken-word response to police brutality and racial injustice.
+Unconscious soldiers are dropped into a testing site only to discover their memories have been wiped and that once docile machines are the new intelligence.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/MKQbQd_cbmI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/LSo4VQyPrzM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -177,16 +177,9 @@ A WWII pilot traveling with top secret documents on a B-17 Flying Fortress encou
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Jumanji: Level One
-*Released on 2020-12-31, vote average 10*
+*Released on 2020-12-31, vote average 8.5*
 
 Set in 1869, two children receive a mysterious game after their father goes missing in the jungles of Africa. They unravel both the secret of their father’s disappearance and the origin of Jumanji.  See how it all began.
 
@@ -207,19 +200,26 @@ Set in 1869, two children receive a mysterious game after their father goes miss
 	
 	
 
-### Tarung Sarung
-*Released on 2020-12-31, vote average 8*
+### The Minimalists: Less Is Now
+*Released on 2021-01-01, vote average 6.9*
 
-Wealthy and spoiled, a young man finds something to fight for when he falls in love with an environmental activist protesting his family&#39;s business.
+They&#39;ve built a movement out of minimalism. Longtime friends Joshua Fields Millburn and Ryan Nicodemus share how our lives can be better with less.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/V48qhATHklc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/jn-xbOCZOiQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -273,16 +273,45 @@ A Texan traveling across the wild West bringing the news of the world to local t
 	
 	
 
-### The Minimalists: Less Is Now
-*Released on 2021-01-01, vote average 7.1*
+### Tarung Sarung
+*Released on 2020-12-31, vote average 8*
 
-They&#39;ve built a movement out of minimalism. Longtime friends Joshua Fields Millburn and Ryan Nicodemus share how our lives can be better with less.
+Wealthy and spoiled, a young man finds something to fight for when he falls in love with an environmental activist protesting his family&#39;s business.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/jn-xbOCZOiQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/V48qhATHklc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### My Soul to Keep
+*Released on 2020-12-23, vote average 9*
+
+Like many 9-year-old boys, Eli Braverman believes something menacing lives in his basement. When his older sister leaves him home alone one night, Eli discovers if this evil is real or all in his head. What Eli confronts may end up being far more terrifying than even his worst nightmare.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/rrYfxO1aMTU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -315,21 +344,18 @@ With the peak of his career long behind him, an actor clings to his past glory �
 
 
 	
+
+  
+
+
+	
+	
 	
 
-### My Soul to Keep
-*Released on 2020-12-23, vote average 9*
+  
 
-Like many 9-year-old boys, Eli Braverman believes something menacing lives in his basement. When his older sister leaves him home alone one night, Eli discovers if this evil is real or all in his head. What Eli confronts may end up being far more terrifying than even his worst nightmare.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rrYfxO1aMTU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
+	
 	
 	
 
@@ -340,7 +366,7 @@ Like many 9-year-old boys, Eli Braverman believes something menacing lives in hi
 	
 
 ### Taking a Shot at Love
-*Released on 2021-01-02, vote average 6*
+*Released on 2021-01-02, vote average 6.7*
 
 Jenna, a former professional dancer, uses ballet to help a hockey player get back on the ice.
 
@@ -358,30 +384,6 @@ Jenna, a former professional dancer, uses ballet to help a hockey player get bac
   
 
 
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -391,12 +393,6 @@ Jenna, a former professional dancer, uses ballet to help a hockey player get bac
 	
 
 	
-
-	
-
-	
-
-	
 	
 	
 
@@ -406,6 +402,29 @@ Jenna, a former professional dancer, uses ballet to help a hockey player get bac
 
 	
 
+	
+
+	
+
+	
+
+	
+	
+
+### One Night in Miami...
+*Released on 2021-01-08, vote average 6*
+
+In the aftermath of Cassius Clay&#39;s defeat of Sonny Liston in 1964, the boxer meets with Malcolm X, Sam Cooke and Jim Brown to change the course of history in the segregated South.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZprXMxKg--w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
