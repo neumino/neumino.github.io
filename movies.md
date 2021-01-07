@@ -134,30 +134,8 @@ Animation and activism unite in this multimedia spoken-word response to police b
 	
 	
 
-### Robot Riot
-*Released on 2020-12-23, vote average 2.6*
-
-Unconscious soldiers are dropped into a testing site only to discover their memories have been wiped and that once docile machines are the new intelligence.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LSo4VQyPrzM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Shadow in the Cloud
-*Released on 2020-12-31, vote average 6.1*
+*Released on 2020-12-31, vote average 6*
 
 A WWII pilot traveling with top secret documents on a B-17 Flying Fortress encounters an evil presence on board the flight.
 
@@ -166,28 +144,6 @@ A WWII pilot traveling with top secret documents on a B-17 Flying Fortress encou
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/hCToNAb7QGU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Jumanji: Level One
-*Released on 2020-12-31, vote average 8.5*
-
-Set in 1869, two children receive a mysterious game after their father goes missing in the jungles of Africa. They unravel both the secret of their father’s disappearance and the origin of Jumanji.  See how it all began.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/UjN_FPK-7T0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -220,6 +176,21 @@ They&#39;ve built a movement out of minimalism. Longtime friends Joshua Fields M
 
 
 	
+	
+
+### Jumanji: Level One
+*Released on 2020-12-31, vote average 8.3*
+
+Set in 1869, two children receive a mysterious game after their father goes missing in the jungles of Africa. They unravel both the secret of their father’s disappearance and the origin of Jumanji.  See how it all began.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/UjN_FPK-7T0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -272,21 +243,16 @@ A Texan traveling across the wild West bringing the news of the world to local t
 
 	
 	
+	
 
-### Tarung Sarung
-*Released on 2020-12-31, vote average 8*
+  
 
-Wealthy and spoiled, a young man finds something to fight for when he falls in love with an environmental activist protesting his family&#39;s business.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/V48qhATHklc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
 	
 
   
@@ -300,22 +266,15 @@ Wealthy and spoiled, a young man finds something to fight for when he falls in l
 
 
 	
-	
 
-### My Soul to Keep
-*Released on 2020-12-23, vote average 9*
+  
 
-Like many 9-year-old boys, Eli Braverman believes something menacing lives in his basement. When his older sister leaves him home alone one night, Eli discovers if this evil is real or all in his head. What Eli confronts may end up being far more terrifying than even his worst nightmare.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rrYfxO1aMTU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
 	
 
   
@@ -344,40 +303,28 @@ With the peak of his career long behind him, an actor clings to his past glory �
 
 
 	
-
-  
-
-
-	
-	
 	
 
-  
+### Tarung Sarung
+*Released on 2020-12-31, vote average 8*
 
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Taking a Shot at Love
-*Released on 2021-01-02, vote average 6.7*
-
-Jenna, a former professional dancer, uses ballet to help a hockey player get back on the ice.
+Wealthy and spoiled, a young man finds something to fight for when he falls in love with an environmental activist protesting his family&#39;s business.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-ApvNcVaIlc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/V48qhATHklc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -393,26 +340,12 @@ Jenna, a former professional dancer, uses ballet to help a hockey player get bac
 	
 
 	
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
 
 	
 	
 
 ### One Night in Miami...
-*Released on 2021-01-08, vote average 6*
+*Released on 2021-01-08, vote average 6.5*
 
 In the aftermath of Cassius Clay&#39;s defeat of Sonny Liston in 1964, the boxer meets with Malcolm X, Sam Cooke and Jim Brown to change the course of history in the segregated South.
 
@@ -425,6 +358,18 @@ In the aftermath of Cassius Clay&#39;s defeat of Sonny Liston in 1964, the boxer
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
