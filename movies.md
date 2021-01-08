@@ -47,7 +47,7 @@ Joe Gardner is a middle school teacher with a love for jazz music. After a succe
 	
 
 ### We Can Be Heroes
-*Released on 2020-12-25, vote average 6.1*
+*Released on 2020-12-25, vote average 6.2*
 
 When alien invaders capture Earth&#39;s superheroes, their kids must learn to work together to save their parents - and the planet.
 
@@ -69,7 +69,7 @@ When alien invaders capture Earth&#39;s superheroes, their kids must learn to wo
 	
 
 ### Death to 2020
-*Released on 2020-12-27, vote average 6.8*
+*Released on 2020-12-27, vote average 6.7*
 
 2020: A year so [insert adjective of choice here], even the creators of Black Mirror couldn&#39;t make it up… but that doesn&#39;t mean they don&#39;t have a little something to add. This comedy event that tells the story of the dreadful year that was — and perhaps still is? The documentary-style special weaves together some of the world&#39;s most (fictitious) renowned voices with real-life archival footage.
 
@@ -90,30 +90,8 @@ When alien invaders capture Earth&#39;s superheroes, their kids must learn to wo
 	
 	
 
-### AK vs AK
-*Released on 2020-12-24, vote average 7.4*
-
-After a public spat with a movie star,  a disgraced director retaliates by kidnapping the actor&#39;s daughter, filming the search for her in real-time.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/SZyK_b9xjgM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Cops and Robbers
-*Released on 2020-12-28, vote average 6.8*
+*Released on 2020-12-28, vote average 7*
 
 Animation and activism unite in this multimedia spoken-word response to police brutality and racial injustice.
 
@@ -221,6 +199,13 @@ A woman in her sixties embarks on a journey through the Western United States af
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### News of the World
 *Released on 2020-12-25, vote average 8.8*
@@ -242,8 +227,6 @@ A Texan traveling across the wild West bringing the news of the world to local t
 
 
 	
-	
-	
 
   
 
@@ -271,28 +254,18 @@ A Texan traveling across the wild West bringing the news of the world to local t
 
 
 	
-
-  
-
-
 	
 
-  
+### One Night in Miami...
+*Released on 2021-01-08, vote average 6.5*
 
-
-	
-	
-
-### What Happened to Mr Cha?
-*Released on 2021-01-01, vote average 7*
-
-With the peak of his career long behind him, an actor clings to his past glory — until a sudden wake-up call forces him to face who he&#39;s become.
+In the aftermath of Cassius Clay&#39;s defeat of Sonny Liston in 1964, the boxer meets with Malcolm X, Sam Cooke and Jim Brown to change the course of history in the segregated South.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/d7ZP8ywcn8g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ZprXMxKg--w?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -303,22 +276,10 @@ With the peak of his career long behind him, an actor clings to his past glory �
 
 
 	
-	
 
-### Tarung Sarung
-*Released on 2020-12-31, vote average 8*
+  
 
-Wealthy and spoiled, a young man finds something to fight for when he falls in love with an environmental activist protesting his family&#39;s business.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/V48qhATHklc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -326,6 +287,11 @@ Wealthy and spoiled, a young man finds something to fight for when he falls in l
 
 	
 	
+	
+
+  
+
+
 	
 
   
@@ -334,8 +300,6 @@ Wealthy and spoiled, a young man finds something to fight for when he falls in l
 
 ## Opening soon
 
-
-	
 
 	
 
@@ -358,6 +322,8 @@ In the aftermath of Cassius Clay&#39;s defeat of Sonny Liston in 1964, the boxer
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
