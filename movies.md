@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Death to 2020
-*Released on 2020-12-27, vote average 6.8*
+### Shadow in the Cloud
+*Released on 2020-12-31, vote average 6.1*
 
-2020: A year so [insert adjective of choice here], even the creators of Black Mirror couldn&#39;t make it up… but that doesn&#39;t mean they don&#39;t have a little something to add. This comedy event that tells the story of the dreadful year that was — and perhaps still is? The documentary-style special weaves together some of the world&#39;s most (fictitious) renowned voices with real-life archival footage.
+A WWII pilot traveling with top secret documents on a B-17 Flying Fortress encounters an evil presence on board the flight.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/BxR9Zo36rbo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/hCToNAb7QGU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -40,28 +40,6 @@ This is a convenient page that embeds trailers of movies released in the past
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-
-
-	
-	
-
-### Shadow in the Cloud
-*Released on 2020-12-31, vote average 6*
-
-A WWII pilot traveling with top secret documents on a B-17 Flying Fortress encounters an evil presence on board the flight.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hCToNAb7QGU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
   
 
 
@@ -91,7 +69,7 @@ Animation and activism unite in this multimedia spoken-word response to police b
 	
 
 ### The Minimalists: Less Is Now
-*Released on 2021-01-01, vote average 6.9*
+*Released on 2021-01-01, vote average 6.8*
 
 They&#39;ve built a movement out of minimalism. Longtime friends Joshua Fields Millburn and Ryan Nicodemus share how our lives can be better with less.
 
@@ -113,7 +91,7 @@ They&#39;ve built a movement out of minimalism. Longtime friends Joshua Fields M
 	
 
 ### Pieces of a Woman
-*Released on 2020-12-30, vote average 7.3*
+*Released on 2020-12-30, vote average 7.2*
 
 When a young mother&#39;s home birth ends in unfathomable tragedy, she begins a year-long odyssey of mourning that fractures relationships with loved ones in this deeply personal story of a woman learning to live alongside her loss.
 
@@ -135,7 +113,7 @@ When a young mother&#39;s home birth ends in unfathomable tragedy, she begins a 
 	
 
 ### Corona Depression
-*Released on 2020-12-28, vote average 10*
+*Released on 2020-12-28, vote average 8.5*
 
 A pandemic strikes the world. What does quarantine do to a lonely woman&#39;s mind? Follow her from sense to insanity. No filters. Just you, her, and her more and more twisted mind.
 
@@ -147,6 +125,35 @@ A pandemic strikes the world. What does quarantine do to a lonely woman&#39;s mi
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+	
+
+### Stuck Apart
+*Released on 2021-01-08, vote average 5.6*
+
+Entrenched in a midlife crisis, Aziz seeks solace from his mundane job, lonesome friends and rowdy family while pretending to have his act together.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fG96ROkdGVA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -175,6 +182,23 @@ Having just returned home, decorated U.S. Marine Captain Brad Paxton&#39;s (Gary
   
 
 
+	
+	
+
+### Stars Fell on Alabama
+*Released on 2021-01-06, vote average 7*
+
+Successful Hollywood agent Bryce Dixon is returning to Alabama for the first time in 15 years for his high school reunion. When he learns he&#39;s the only one of his friends who isn&#39;t married with children, he convinces his client, starlet Madison Belle, to pretend to be his girlfriend. But he soon learns that success has different meanings, and romance may be closer than he thinks.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Il8j8WpnsG8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -218,15 +242,6 @@ In the aftermath of Cassius Clay&#39;s defeat of Sonny Liston in 1964, the boxer
 
 
 	
-	
-	
-
-  
-
-
-	
-	
-	
 
   
 
@@ -251,6 +266,8 @@ In the aftermath of Cassius Clay&#39;s defeat of Sonny Liston in 1964, the boxer
   
 
 
+	
+	
 	
 
   
