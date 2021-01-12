@@ -46,16 +46,16 @@ A WWII pilot traveling with top secret documents on a B-17 Flying Fortress encou
 	
 	
 
-### Cops and Robbers
-*Released on 2020-12-28, vote average 7.2*
+### Pieces of a Woman
+*Released on 2020-12-30, vote average 7.2*
 
-Animation and activism unite in this multimedia spoken-word response to police brutality and racial injustice.
+When a young mother&#39;s home birth ends in unfathomable tragedy, she begins a year-long odyssey of mourning that fractures relationships with loved ones in this deeply personal story of a woman learning to live alongside her loss.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/MKQbQd_cbmI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/1zLKbMAZNGI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -89,43 +89,11 @@ They&#39;ve built a movement out of minimalism. Longtime friends Joshua Fields M
 
 	
 	
-
-### Pieces of a Woman
-*Released on 2020-12-30, vote average 7.2*
-
-When a young mother&#39;s home birth ends in unfathomable tragedy, she begins a year-long odyssey of mourning that fractures relationships with loved ones in this deeply personal story of a woman learning to live alongside her loss.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/1zLKbMAZNGI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
 
 
-	
-	
-
-### Corona Depression
-*Released on 2020-12-28, vote average 8.5*
-
-A pandemic strikes the world. What does quarantine do to a lonely woman&#39;s mind? Follow her from sense to insanity. No filters. Just you, her, and her more and more twisted mind.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Y9QbQI7mX5o?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -155,13 +123,6 @@ Entrenched in a midlife crisis, Aziz seeks solace from his mundane job, lonesome
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Redemption Day
 *Released on 2021-01-08, vote average 10*
@@ -177,6 +138,21 @@ Having just returned home, decorated U.S. Marine Captain Brad Paxton&#39;s (Gary
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -199,6 +175,26 @@ Successful Hollywood agent Bryce Dixon is returning to Alabama for the first tim
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -246,38 +242,6 @@ In the aftermath of Cassius Clay&#39;s defeat of Sonny Liston in 1964, the boxer
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -290,6 +254,23 @@ In the aftermath of Cassius Clay&#39;s defeat of Sonny Liston in 1964, the boxer
 
 	
 
+	
+	
+
+### Music
+*Released on 2021-01-14, vote average 10*
+
+Zu, a free spirit estranged from her family, who suddenly finds herself the sole guardian of her half-sister, Music a teenager on the autism spectrum whose whole world order had been beautifully crafted by her late grandmother. The film soon challenges whether it is Zu or Music who has a better view of the world, and that love, trust, and being able to be there for each other is everything.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0OEh1GdzVoA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
