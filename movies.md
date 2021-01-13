@@ -47,7 +47,7 @@ A WWII pilot traveling with top secret documents on a B-17 Flying Fortress encou
 	
 
 ### Pieces of a Woman
-*Released on 2020-12-30, vote average 7.2*
+*Released on 2020-12-30, vote average 7*
 
 When a young mother&#39;s home birth ends in unfathomable tragedy, she begins a year-long odyssey of mourning that fractures relationships with loved ones in this deeply personal story of a woman learning to live alongside her loss.
 
@@ -56,6 +56,28 @@ When a young mother&#39;s home birth ends in unfathomable tragedy, she begins a 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/1zLKbMAZNGI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Yearly Departed
+*Released on 2020-12-30, vote average 4.8*
+
+Goodbye and good riddance, 2020. In this hilarious, absurd, life-affirming comedy special, seven outspoken female comedians lay to rest the year that never seemed to end..
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/bP4OzT-6PEI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -88,8 +110,6 @@ They&#39;ve built a movement out of minimalism. Longtime friends Joshua Fields M
 
 
 	
-	
-	
 
   
 
@@ -100,22 +120,15 @@ They&#39;ve built a movement out of minimalism. Longtime friends Joshua Fields M
 
 
 	
-	
 
-### Stuck Apart
-*Released on 2021-01-08, vote average 5.6*
+  
 
-Entrenched in a midlife crisis, Aziz seeks solace from his mundane job, lonesome friends and rowdy family while pretending to have his act together.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/fG96ROkdGVA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
 	
 
   
@@ -134,6 +147,33 @@ Having just returned home, decorated U.S. Marine Captain Brad Paxton&#39;s (Gary
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/TWjsU76dEIE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Stuck Apart
+*Released on 2021-01-08, vote average 5.2*
+
+Entrenched in a midlife crisis, Aziz seeks solace from his mundane job, lonesome friends and rowdy family while pretending to have his act together.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fG96ROkdGVA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -200,52 +240,29 @@ Successful Hollywood agent Bryce Dixon is returning to Alabama for the first tim
   
 
 
+
+## Opening soon
+
+
+	
+
 	
 	
 
-### One Night in Miami...
-*Released on 2021-01-08, vote average 7.7*
+### The Marksman
+*Released on 2021-01-15, vote average 10*
 
-In the aftermath of Cassius Clay&#39;s defeat of Sonny Liston in 1964, the boxer meets with Malcolm X, Sam Cooke and Jim Brown to change the course of history in the segregated South.
+A rancher on the Arizona border becomes the unlikely defender of a young Mexican boy desperately fleeing the cartel assassins who&#39;ve pursued him into the U.S.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ZprXMxKg--w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/lEBPNi4bEbc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-
-## Opening soon
-
-
 	
 
 	
@@ -288,7 +305,22 @@ Zu, a free spirit estranged from her family, who suddenly finds herself the sole
 	
 
 	
+	
 
+### The Dig
+*Released on 2021-01-14, vote average 7*
+
+As WWII looms, a wealthy widow hires an amateur archaeologist to excavate the burial mounds on her estate. When they make a historic discovery, the echoes of Britain&#39;s past resonate in the face of its uncertain future‎.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/JZQz0rkNajo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
