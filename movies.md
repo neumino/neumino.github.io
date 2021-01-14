@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Shadow in the Cloud
-*Released on 2020-12-31, vote average 6.1*
+*Released on 2020-12-31, vote average 6.2*
 
 A WWII pilot traveling with top secret documents on a B-17 Flying Fortress encounters an evil presence on board the flight.
 
@@ -46,16 +46,16 @@ A WWII pilot traveling with top secret documents on a B-17 Flying Fortress encou
 	
 	
 
-### Pieces of a Woman
-*Released on 2020-12-30, vote average 7*
+### Crack: Cocaine, Corruption &amp; Conspiracy
+*Released on 2021-01-11, vote average 5*
 
-When a young mother&#39;s home birth ends in unfathomable tragedy, she begins a year-long odyssey of mourning that fractures relationships with loved ones in this deeply personal story of a woman learning to live alongside her loss.
+A cheap, powerful drug emerges during a recession, igniting a moral panic fueled by racism.  Explore the complex history of crack in the 1980s.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/1zLKbMAZNGI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/RbYdjyxDNtQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,20 +68,25 @@ When a young mother&#39;s home birth ends in unfathomable tragedy, she begins a 
 	
 	
 
-### Yearly Departed
-*Released on 2020-12-30, vote average 4.8*
+### Batman: Soul of the Dragon
+*Released on 2021-01-12, vote average 7.7*
 
-Goodbye and good riddance, 2020. In this hilarious, absurd, life-affirming comedy special, seven outspoken female comedians lay to rest the year that never seemed to end..
+Bruce Wayne faces a deadly menace from his past, with the help of three former classmates: world-renowned martial artists Richard Dragon, Ben Turner and Lady Shiva.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/bP4OzT-6PEI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/eHCAgSuLog4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -115,30 +120,10 @@ They&#39;ve built a movement out of minimalism. Longtime friends Joshua Fields M
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### Redemption Day
-*Released on 2021-01-08, vote average 10*
+*Released on 2021-01-08, vote average 9.3*
 
 Having just returned home, decorated U.S. Marine Captain Brad Paxton&#39;s (Gary Dourdan) wife, Kate, is kidnapped by a terrorist group while working in Morocco. He is forced back into action for a daring and deadly operation to save the woman he loves.
 
@@ -162,10 +147,96 @@ Having just returned home, decorated U.S. Marine Captain Brad Paxton&#39;s (Gary
 
 
 	
+
+  
+
+
+	
+	
+
+### Music
+*Released on 2021-01-14, vote average 7*
+
+Zu, a free spirit estranged from her family, who suddenly finds herself the sole guardian of her half-sister, Music a teenager on the autism spectrum whose whole world order had been beautifully crafted by her late grandmother. The film soon challenges whether it is Zu or Music who has a better view of the world, and that love, trust, and being able to be there for each other is everything.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0OEh1GdzVoA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Dig
+*Released on 2021-01-14, vote average 7.3*
+
+As WWII looms, a wealthy widow hires an amateur archaeologist to excavate the burial mounds on her estate. When they make a historic discovery, the echoes of Britain&#39;s past resonate in the face of its uncertain future‎.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/JZQz0rkNajo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### Stuck Apart
-*Released on 2021-01-08, vote average 5.2*
+*Released on 2021-01-08, vote average 5.9*
 
 Entrenched in a midlife crisis, Aziz seeks solace from his mundane job, lonesome friends and rowdy family while pretending to have his act together.
 
@@ -188,58 +259,6 @@ Entrenched in a midlife crisis, Aziz seeks solace from his mundane job, lonesome
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Stars Fell on Alabama
-*Released on 2021-01-06, vote average 7*
-
-Successful Hollywood agent Bryce Dixon is returning to Alabama for the first time in 15 years for his high school reunion. When he learns he&#39;s the only one of his friends who isn&#39;t married with children, he convinces his client, starlet Madison Belle, to pretend to be his girlfriend. But he soon learns that success has different meanings, and romance may be closer than he thinks.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Il8j8WpnsG8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -247,10 +266,12 @@ Successful Hollywood agent Bryce Dixon is returning to Alabama for the first tim
 	
 
 	
+
+	
 	
 
 ### The Marksman
-*Released on 2021-01-15, vote average 10*
+*Released on 2021-01-15, vote average 9*
 
 A rancher on the Arizona border becomes the unlikely defender of a young Mexican boy desperately fleeing the cartel assassins who&#39;ve pursued him into the U.S.
 
@@ -266,16 +287,10 @@ A rancher on the Arizona border becomes the unlikely defender of a young Mexican
 	
 
 	
-
-	
-
-	
-
-	
 	
 
 ### Music
-*Released on 2021-01-14, vote average 10*
+*Released on 2021-01-14, vote average 7*
 
 Zu, a free spirit estranged from her family, who suddenly finds herself the sole guardian of her half-sister, Music a teenager on the autism spectrum whose whole world order had been beautifully crafted by her late grandmother. The film soon challenges whether it is Zu or Music who has a better view of the world, and that love, trust, and being able to be there for each other is everything.
 
@@ -295,20 +310,10 @@ Zu, a free spirit estranged from her family, who suddenly finds herself the sole
 	
 
 	
-
-	
-
-	
-
-	
-
-	
-
-	
 	
 
 ### The Dig
-*Released on 2021-01-14, vote average 7*
+*Released on 2021-01-14, vote average 7.3*
 
 As WWII looms, a wealthy widow hires an amateur archaeologist to excavate the burial mounds on her estate. When they make a historic discovery, the echoes of Britain&#39;s past resonate in the face of its uncertain future‎.
 
@@ -321,6 +326,20 @@ As WWII looms, a wealthy widow hires an amateur archaeologist to excavate the bu
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
