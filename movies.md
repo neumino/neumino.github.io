@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Shadow in the Cloud
-*Released on 2020-12-31, vote average 6.2*
+### Crack: Cocaine, Corruption &amp; Conspiracy
+*Released on 2021-01-11, vote average 7.5*
 
-A WWII pilot traveling with top secret documents on a B-17 Flying Fortress encounters an evil presence on board the flight.
+A cheap, powerful drug emerges during a recession, igniting a moral panic fueled by racism.  Explore the complex history of crack in the 1980s.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/hCToNAb7QGU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/RbYdjyxDNtQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,30 +46,8 @@ A WWII pilot traveling with top secret documents on a B-17 Flying Fortress encou
 	
 	
 
-### Crack: Cocaine, Corruption &amp; Conspiracy
-*Released on 2021-01-11, vote average 5*
-
-A cheap, powerful drug emerges during a recession, igniting a moral panic fueled by racism.  Explore the complex history of crack in the 1980s.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/RbYdjyxDNtQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Batman: Soul of the Dragon
-*Released on 2021-01-12, vote average 7.7*
+*Released on 2021-01-12, vote average 7.8*
 
 Bruce Wayne faces a deadly menace from his past, with the help of three former classmates: world-renowned martial artists Richard Dragon, Ben Turner and Lady Shiva.
 
@@ -82,6 +60,82 @@ Bruce Wayne faces a deadly menace from his past, with the help of three former c
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Redemption Day
+*Released on 2021-01-08, vote average 8*
+
+Having just returned home, decorated U.S. Marine Captain Brad Paxton&#39;s (Gary Dourdan) wife, Kate, is kidnapped by a terrorist group while working in Morocco. He is forced back into action for a daring and deadly operation to save the woman he loves.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/TWjsU76dEIE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Marksman
+*Released on 2021-01-15, vote average 9*
+
+A rancher on the Arizona border becomes the unlikely defender of a young Mexican boy desperately fleeing the cartel assassins who&#39;ve pursued him into the U.S.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/lEBPNi4bEbc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Music
+*Released on 2021-01-14, vote average 7*
+
+Zu, a free spirit estranged from her family, who suddenly finds herself the sole guardian of her half-sister, Music a teenager on the autism spectrum whose whole world order had been beautifully crafted by her late grandmother. The film soon challenges whether it is Zu or Music who has a better view of the world, and that love, trust, and being able to be there for each other is everything.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0OEh1GdzVoA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -122,87 +176,6 @@ They&#39;ve built a movement out of minimalism. Longtime friends Joshua Fields M
 	
 	
 
-### Redemption Day
-*Released on 2021-01-08, vote average 9.3*
-
-Having just returned home, decorated U.S. Marine Captain Brad Paxton&#39;s (Gary Dourdan) wife, Kate, is kidnapped by a terrorist group while working in Morocco. He is forced back into action for a daring and deadly operation to save the woman he loves.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/TWjsU76dEIE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Music
-*Released on 2021-01-14, vote average 7*
-
-Zu, a free spirit estranged from her family, who suddenly finds herself the sole guardian of her half-sister, Music a teenager on the autism spectrum whose whole world order had been beautifully crafted by her late grandmother. The film soon challenges whether it is Zu or Music who has a better view of the world, and that love, trust, and being able to be there for each other is everything.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0OEh1GdzVoA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### The Dig
 *Released on 2021-01-14, vote average 7.3*
 
@@ -223,6 +196,8 @@ As WWII looms, a wealthy widow hires an amateur archaeologist to excavate the bu
 
 
 	
+	
+	
 
   
 
@@ -233,22 +208,32 @@ As WWII looms, a wealthy widow hires an amateur archaeologist to excavate the bu
 
 
 	
-	
 
-### Stuck Apart
-*Released on 2021-01-08, vote average 5.9*
+  
 
-Entrenched in a midlife crisis, Aziz seeks solace from his mundane job, lonesome friends and rowdy family while pretending to have his act together.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/fG96ROkdGVA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -287,45 +272,11 @@ A rancher on the Arizona border becomes the unlikely defender of a young Mexican
 	
 
 	
-	
-
-### Music
-*Released on 2021-01-14, vote average 7*
-
-Zu, a free spirit estranged from her family, who suddenly finds herself the sole guardian of her half-sister, Music a teenager on the autism spectrum whose whole world order had been beautifully crafted by her late grandmother. The film soon challenges whether it is Zu or Music who has a better view of the world, and that love, trust, and being able to be there for each other is everything.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0OEh1GdzVoA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
 	
 
-	
-	
-
-### The Dig
-*Released on 2021-01-14, vote average 7.3*
-
-As WWII looms, a wealthy widow hires an amateur archaeologist to excavate the burial mounds on her estate. When they make a historic discovery, the echoes of Britain&#39;s past resonate in the face of its uncertain future‎.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/JZQz0rkNajo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
