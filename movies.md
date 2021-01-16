@@ -47,7 +47,7 @@ A cheap, powerful drug emerges during a recession, igniting a moral panic fueled
 	
 
 ### Batman: Soul of the Dragon
-*Released on 2021-01-12, vote average 7.8*
+*Released on 2021-01-12, vote average 7.6*
 
 Bruce Wayne faces a deadly menace from his past, with the help of three former classmates: world-renowned martial artists Richard Dragon, Ben Turner and Lady Shiva.
 
@@ -56,33 +56,6 @@ Bruce Wayne faces a deadly menace from his past, with the help of three former c
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/eHCAgSuLog4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Redemption Day
-*Released on 2021-01-08, vote average 8*
-
-Having just returned home, decorated U.S. Marine Captain Brad Paxton&#39;s (Gary Dourdan) wife, Kate, is kidnapped by a terrorist group while working in Morocco. He is forced back into action for a daring and deadly operation to save the woman he loves.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/TWjsU76dEIE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -117,8 +90,52 @@ A rancher on the Arizona border becomes the unlikely defender of a young Mexican
 	
 	
 
+### Redemption Day
+*Released on 2021-01-08, vote average 8*
+
+Having just returned home, decorated U.S. Marine Captain Brad Paxton&#39;s (Gary Dourdan) wife, Kate, is kidnapped by a terrorist group while working in Morocco. He is forced back into action for a daring and deadly operation to save the woman he loves.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/TWjsU76dEIE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### Music
-*Released on 2021-01-14, vote average 7*
+*Released on 2021-01-14, vote average 7.7*
 
 Zu, a free spirit estranged from her family, who suddenly finds herself the sole guardian of her half-sister, Music a teenager on the autism spectrum whose whole world order had been beautifully crafted by her late grandmother. The film soon challenges whether it is Zu or Music who has a better view of the world, and that love, trust, and being able to be there for each other is everything.
 
@@ -141,28 +158,6 @@ Zu, a free spirit estranged from her family, who suddenly finds herself the sole
   
 
 
-	
-
-  
-
-
-	
-	
-
-### The Minimalists: Less Is Now
-*Released on 2021-01-01, vote average 6.8*
-
-They&#39;ve built a movement out of minimalism. Longtime friends Joshua Fields Millburn and Ryan Nicodemus share how our lives can be better with less.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jn-xbOCZOiQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -197,6 +192,21 @@ As WWII looms, a wealthy widow hires an amateur archaeologist to excavate the bu
 
 	
 	
+
+### The Heartbreak Club
+*Released on 2021-01-14, vote average 10*
+
+Coping with heartbreak, the shy owner of a floundering cafe finds solace in the Javanese love songs of Didi Kempot.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ghw5U7wMPlY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -212,18 +222,6 @@ As WWII looms, a wealthy widow hires an amateur archaeologist to excavate the bu
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -252,23 +250,6 @@ As WWII looms, a wealthy widow hires an amateur archaeologist to excavate the bu
 
 	
 
-	
-	
-
-### The Marksman
-*Released on 2021-01-15, vote average 9*
-
-A rancher on the Arizona border becomes the unlikely defender of a young Mexican boy desperately fleeing the cartel assassins who&#39;ve pursued him into the U.S.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/lEBPNi4bEbc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
