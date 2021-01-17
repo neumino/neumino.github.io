@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Crack: Cocaine, Corruption &amp; Conspiracy
-*Released on 2021-01-11, vote average 7.5*
+### Batman: Soul of the Dragon
+*Released on 2021-01-12, vote average 7.7*
 
-A cheap, powerful drug emerges during a recession, igniting a moral panic fueled by racism.  Explore the complex history of crack in the 1980s.
+Bruce Wayne faces a deadly menace from his past, with the help of three former classmates: world-renowned martial artists Richard Dragon, Ben Turner and Lady Shiva.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/RbYdjyxDNtQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/eHCAgSuLog4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,60 @@ A cheap, powerful drug emerges during a recession, igniting a moral panic fueled
 	
 	
 
-### Batman: Soul of the Dragon
-*Released on 2021-01-12, vote average 7.6*
+### Crack: Cocaine, Corruption &amp; Conspiracy
+*Released on 2021-01-11, vote average 7.5*
 
-Bruce Wayne faces a deadly menace from his past, with the help of three former classmates: world-renowned martial artists Richard Dragon, Ben Turner and Lady Shiva.
+A cheap, powerful drug emerges during a recession, igniting a moral panic fueled by racism.  Explore the complex history of crack in the 1980s.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/eHCAgSuLog4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/RbYdjyxDNtQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Outside the Wire
+*Released on 2021-01-15, vote average 5.9*
+
+In the near future, a drone pilot is sent into a deadly militarized zone and must work with an android officer to locate a doomsday device.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/iwYhA5YvdNc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Redemption Day
+*Released on 2021-01-08, vote average 8.3*
+
+Having just returned home, decorated U.S. Marine Captain Brad Paxton&#39;s (Gary Dourdan) wife, Kate, is kidnapped by a terrorist group while working in Morocco. He is forced back into action for a daring and deadly operation to save the woman he loves.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/TWjsU76dEIE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -69,7 +113,7 @@ Bruce Wayne faces a deadly menace from his past, with the help of three former c
 	
 
 ### The Marksman
-*Released on 2021-01-15, vote average 9*
+*Released on 2021-01-15, vote average 9.5*
 
 A rancher on the Arizona border becomes the unlikely defender of a young Mexican boy desperately fleeing the cartel assassins who&#39;ve pursued him into the U.S.
 
@@ -89,17 +133,39 @@ A rancher on the Arizona border becomes the unlikely defender of a young Mexican
 
 	
 	
+	
 
-### Redemption Day
-*Released on 2021-01-08, vote average 8*
+  
 
-Having just returned home, decorated U.S. Marine Captain Brad Paxton&#39;s (Gary Dourdan) wife, Kate, is kidnapped by a terrorist group while working in Morocco. He is forced back into action for a daring and deadly operation to save the woman he loves.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Double Dad
+*Released on 2021-01-15, vote average 7.4*
+
+After spending a lifetime in a hippie community, an 18-year-old girl takes the chance to go out into the real world and decides to look for her father.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/TWjsU76dEIE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Yjq-LSl98Lg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -121,11 +187,21 @@ Having just returned home, decorated U.S. Marine Captain Brad Paxton&#39;s (Gary
 
 	
 	
+
+### Bhoomi
+*Released on 2021-01-14, vote average 6*
+
+A NASA astronaut about to embark on a mission to Mars chooses turn a farmer to reclaim his land.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/iGiBmwQm7Uo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
-
-  
-
-
 	
 
   
@@ -154,33 +230,18 @@ Zu, a free spirit estranged from her family, who suddenly finds herself the sole
 
 
 	
-
-  
-
-
 	
 
-  
+### One Night in Miami...
+*Released on 2021-01-08, vote average 7.7*
 
-
-	
-
-  
-
-
-	
-	
-
-### The Dig
-*Released on 2021-01-14, vote average 7.3*
-
-As WWII looms, a wealthy widow hires an amateur archaeologist to excavate the burial mounds on her estate. When they make a historic discovery, the echoes of Britain&#39;s past resonate in the face of its uncertain future‎.
+In the aftermath of Cassius Clay&#39;s defeat of Sonny Liston in 1964, the boxer meets with Malcolm X, Sam Cooke and Jim Brown to change the course of history in the segregated South.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/JZQz0rkNajo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ZprXMxKg--w?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -193,30 +254,20 @@ As WWII looms, a wealthy widow hires an amateur archaeologist to excavate the bu
 	
 	
 
-### The Heartbreak Club
-*Released on 2021-01-14, vote average 10*
+### Yang Tak Tergantikan
+*Released on 2021-01-15, vote average 7.5*
 
-Coping with heartbreak, the shy owner of a floundering cafe finds solace in the Javanese love songs of Didi Kempot.
+Aryati is a divorcee who works as an online taxi driver to provide for her three children, Bayu, Tika, and Kinanti. Their family&#39;s ups and downs.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ghw5U7wMPlY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/MKo1UV3ykIU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
