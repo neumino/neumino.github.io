@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Batman: Soul of the Dragon
-*Released on 2021-01-12, vote average 7.7*
+*Released on 2021-01-12, vote average 7.6*
 
 Bruce Wayne faces a deadly menace from his past, with the help of three former classmates: world-renowned martial artists Richard Dragon, Ben Turner and Lady Shiva.
 
@@ -47,7 +47,7 @@ Bruce Wayne faces a deadly menace from his past, with the help of three former c
 	
 
 ### Crack: Cocaine, Corruption &amp; Conspiracy
-*Released on 2021-01-11, vote average 7.5*
+*Released on 2021-01-11, vote average 7.2*
 
 A cheap, powerful drug emerges during a recession, igniting a moral panic fueled by racism.  Explore the complex history of crack in the 1980s.
 
@@ -69,7 +69,7 @@ A cheap, powerful drug emerges during a recession, igniting a moral panic fueled
 	
 
 ### Outside the Wire
-*Released on 2021-01-15, vote average 5.9*
+*Released on 2021-01-15, vote average 6.2*
 
 In the near future, a drone pilot is sent into a deadly militarized zone and must work with an android officer to locate a doomsday device.
 
@@ -88,21 +88,6 @@ In the near future, a drone pilot is sent into a deadly militarized zone and mus
 
 
 	
-	
-
-### Redemption Day
-*Released on 2021-01-08, vote average 8.3*
-
-Having just returned home, decorated U.S. Marine Captain Brad Paxton&#39;s (Gary Dourdan) wife, Kate, is kidnapped by a terrorist group while working in Morocco. He is forced back into action for a daring and deadly operation to save the woman he loves.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/TWjsU76dEIE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -133,21 +118,43 @@ A rancher on the Arizona border becomes the unlikely defender of a young Mexican
 
 	
 	
+
+### Redemption Day
+*Released on 2021-01-08, vote average 7.8*
+
+Having just returned home, decorated U.S. Marine Captain Brad Paxton&#39;s (Gary Dourdan) wife, Kate, is kidnapped by a terrorist group while working in Morocco. He is forced back into action for a daring and deadly operation to save the woman he loves.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/TWjsU76dEIE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
 
 
 	
-
-  
-
-
 	
 
-  
+### The Ultimate Playlist of Noise
+*Released on 2021-01-15, vote average 4*
 
+After learning he must undergo brain surgery that will render him deaf, Marcus, an audio-obsessed high school senior, decides to seize control of his fate by recording the Ultimate Playlist of Noise — a bucket list of all his favorite sounds.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Zi6jogV6pLg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -157,7 +164,7 @@ A rancher on the Arizona border becomes the unlikely defender of a young Mexican
 	
 
 ### Double Dad
-*Released on 2021-01-15, vote average 7.4*
+*Released on 2021-01-15, vote average 6.5*
 
 After spending a lifetime in a hippie community, an 18-year-old girl takes the chance to go out into the real world and decides to look for her father.
 
@@ -176,28 +183,18 @@ After spending a lifetime in a hippie community, an 18-year-old girl takes the c
 
 
 	
-
-  
-
-
 	
 
-  
+### Tribhanga
+*Released on 2021-01-15, vote average 8*
 
-
-	
-	
-
-### Bhoomi
-*Released on 2021-01-14, vote average 6*
-
-A NASA astronaut about to embark on a mission to Mars chooses turn a farmer to reclaim his land.
+When her estranged mother falls into a coma, a self-made single mom grapples with regret and resentment while reflecting on their strained relationship.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/iGiBmwQm7Uo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/zVNmHMWv2mc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -207,23 +204,6 @@ A NASA astronaut about to embark on a mission to Mars chooses turn a farmer to r
   
 
 
-	
-	
-
-### Music
-*Released on 2021-01-14, vote average 7.7*
-
-Zu, a free spirit estranged from her family, who suddenly finds herself the sole guardian of her half-sister, Music a teenager on the autism spectrum whose whole world order had been beautifully crafted by her late grandmother. The film soon challenges whether it is Zu or Music who has a better view of the world, and that love, trust, and being able to be there for each other is everything.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0OEh1GdzVoA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -233,7 +213,7 @@ Zu, a free spirit estranged from her family, who suddenly finds herself the sole
 	
 
 ### One Night in Miami...
-*Released on 2021-01-08, vote average 7.7*
+*Released on 2021-01-08, vote average 7.5*
 
 In the aftermath of Cassius Clay&#39;s defeat of Sonny Liston in 1964, the boxer meets with Malcolm X, Sam Cooke and Jim Brown to change the course of history in the segregated South.
 
@@ -252,22 +232,59 @@ In the aftermath of Cassius Clay&#39;s defeat of Sonny Liston in 1964, the boxer
 
 
 	
+
+  
+
+
+	
 	
 
-### Yang Tak Tergantikan
-*Released on 2021-01-15, vote average 7.5*
+### Downfalls High
+*Released on 2021-01-15, vote average 8*
 
-Aryati is a divorcee who works as an online taxi driver to provide for her three children, Bayu, Tika, and Kinanti. Their family&#39;s ups and downs.
+Machine Gun Kelly and Mod Sun direct their debut film, &#39;Downfalls High&#39;, which features music from Machine Gun Kelly&#39;s latest album, &#39;Tickets to My Downfall&#39; (2020). &#39;Downfalls High&#39; stars Chase Hudson and Sydney Sweeney, and is narrated by Machine Gun Kelly and Travis Barker. It is described as being &#34;a first of its kind musical film experience&#34;.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/MKo1UV3ykIU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/--smQkLRmrY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Butchers
+*Released on 2021-01-12, vote average 6.5*
+
+A family of sadistic butchers lives deep in the backcountry. From the dead of winter to the dog days of summer, anyone who crosses their path is dead meat.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/e4f9hOyV23k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
