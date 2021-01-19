@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Batman: Soul of the Dragon
-*Released on 2021-01-12, vote average 7.6*
+*Released on 2021-01-12, vote average 7.5*
 
 Bruce Wayne faces a deadly menace from his past, with the help of three former classmates: world-renowned martial artists Richard Dragon, Ben Turner and Lady Shiva.
 
@@ -47,7 +47,7 @@ Bruce Wayne faces a deadly menace from his past, with the help of three former c
 	
 
 ### Crack: Cocaine, Corruption &amp; Conspiracy
-*Released on 2021-01-11, vote average 7.2*
+*Released on 2021-01-11, vote average 7.3*
 
 A cheap, powerful drug emerges during a recession, igniting a moral panic fueled by racism.  Explore the complex history of crack in the 1980s.
 
@@ -69,7 +69,7 @@ A cheap, powerful drug emerges during a recession, igniting a moral panic fueled
 	
 
 ### Outside the Wire
-*Released on 2021-01-15, vote average 6.2*
+*Released on 2021-01-15, vote average 6.1*
 
 In the near future, a drone pilot is sent into a deadly militarized zone and must work with an android officer to locate a doomsday device.
 
@@ -97,30 +97,8 @@ In the near future, a drone pilot is sent into a deadly militarized zone and mus
 	
 	
 
-### The Marksman
-*Released on 2021-01-15, vote average 9.5*
-
-A rancher on the Arizona border becomes the unlikely defender of a young Mexican boy desperately fleeing the cartel assassins who&#39;ve pursued him into the U.S.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/lEBPNi4bEbc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Redemption Day
-*Released on 2021-01-08, vote average 7.8*
+*Released on 2021-01-08, vote average 7.5*
 
 Having just returned home, decorated U.S. Marine Captain Brad Paxton&#39;s (Gary Dourdan) wife, Kate, is kidnapped by a terrorist group while working in Morocco. He is forced back into action for a daring and deadly operation to save the woman he loves.
 
@@ -141,16 +119,16 @@ Having just returned home, decorated U.S. Marine Captain Brad Paxton&#39;s (Gary
 	
 	
 
-### The Ultimate Playlist of Noise
-*Released on 2021-01-15, vote average 4*
+### The Marksman
+*Released on 2021-01-15, vote average 8.8*
 
-After learning he must undergo brain surgery that will render him deaf, Marcus, an audio-obsessed high school senior, decides to seize control of his fate by recording the Ultimate Playlist of Noise — a bucket list of all his favorite sounds.
+A rancher on the Arizona border becomes the unlikely defender of a young Mexican boy desperately fleeing the cartel assassins who&#39;ve pursued him into the U.S.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Zi6jogV6pLg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/lEBPNi4bEbc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -164,7 +142,7 @@ After learning he must undergo brain surgery that will render him deaf, Marcus, 
 	
 
 ### Double Dad
-*Released on 2021-01-15, vote average 6.5*
+*Released on 2021-01-15, vote average 6.7*
 
 After spending a lifetime in a hippie community, an 18-year-old girl takes the chance to go out into the real world and decides to look for her father.
 
@@ -177,33 +155,6 @@ After spending a lifetime in a hippie community, an 18-year-old girl takes the c
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### Tribhanga
-*Released on 2021-01-15, vote average 8*
-
-When her estranged mother falls into a coma, a self-made single mom grapples with regret and resentment while reflecting on their strained relationship.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zVNmHMWv2mc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -232,15 +183,10 @@ In the aftermath of Cassius Clay&#39;s defeat of Sonny Liston in 1964, the boxer
 
 
 	
-
-  
-
-
-	
 	
 
 ### Downfalls High
-*Released on 2021-01-15, vote average 8*
+*Released on 2021-01-15, vote average 9*
 
 Machine Gun Kelly and Mod Sun direct their debut film, &#39;Downfalls High&#39;, which features music from Machine Gun Kelly&#39;s latest album, &#39;Tickets to My Downfall&#39; (2020). &#39;Downfalls High&#39; stars Chase Hudson and Sydney Sweeney, and is narrated by Machine Gun Kelly and Travis Barker. It is described as being &#34;a first of its kind musical film experience&#34;.
 
@@ -259,6 +205,54 @@ Machine Gun Kelly and Mod Sun direct their debut film, &#39;Downfalls High&#39;,
 
 
 	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### The Ultimate Playlist of Noise
+*Released on 2021-01-15, vote average 5*
+
+After learning he must undergo brain surgery that will render him deaf, Marcus, an audio-obsessed high school senior, decides to seize control of his fate by recording the Ultimate Playlist of Noise — a bucket list of all his favorite sounds.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Zi6jogV6pLg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
 
   
 
@@ -267,7 +261,7 @@ Machine Gun Kelly and Mod Sun direct their debut film, &#39;Downfalls High&#39;,
 	
 
 ### Butchers
-*Released on 2021-01-12, vote average 6.5*
+*Released on 2021-01-12, vote average 6.4*
 
 A family of sadistic butchers lives deep in the backcountry. From the dead of winter to the dog days of summer, anyone who crosses their path is dead meat.
 
@@ -286,10 +280,7 @@ A family of sadistic butchers lives deep in the backcountry. From the dead of wi
 
 
 	
-
-  
-
-
+	
 	
 
   
@@ -316,6 +307,23 @@ A family of sadistic butchers lives deep in the backcountry. From the dead of wi
 
 	
 
+	
+	
+
+### Jumanji: Level One
+*Released on 2021-01-20, vote average 4.5*
+
+Set in 1869, two children receive a mysterious game after their father goes missing in the jungles of Africa. They unravel both the secret of their father’s disappearance and the origin of Jumanji.  See how it all began.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/UjN_FPK-7T0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
