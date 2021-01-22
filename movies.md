@@ -47,7 +47,7 @@ Bruce Wayne faces a deadly menace from his past, with the help of three former c
 	
 
 ### Outside the Wire
-*Released on 2021-01-15, vote average 6.5*
+*Released on 2021-01-15, vote average 6.6*
 
 In the near future, a drone pilot is sent into a deadly militarized zone and must work with an android officer to locate a doomsday device.
 
@@ -56,28 +56,6 @@ In the near future, a drone pilot is sent into a deadly militarized zone and mus
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/iwYhA5YvdNc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Jumanji: Level One
-*Released on 2021-01-20, vote average 4.5*
-
-Set in 1869, two children receive a mysterious game after their father goes missing in the jungles of Africa. They unravel both the secret of their father’s disappearance and the origin of Jumanji.  See how it all began.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/UjN_FPK-7T0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -100,6 +78,28 @@ Two American entrepreneurs must face a Russian mobster&#39;s vengeance after the
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/qtBLRgpI_MA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Jumanji: Level One
+*Released on 2021-01-20, vote average 4.5*
+
+Set in 1869, two children receive a mysterious game after their father goes missing in the jungles of Africa. They unravel both the secret of their father’s disappearance and the origin of Jumanji.  See how it all began.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/UjN_FPK-7T0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -135,7 +135,7 @@ A cheap, powerful drug emerges during a recession, igniting a moral panic fueled
 	
 
 ### The Marksman
-*Released on 2021-01-15, vote average 8.6*
+*Released on 2021-01-15, vote average 8.4*
 
 Jim Hanson’s (Liam Neeson) quiet life is suddenly disturbed by two people crossing the US/Mexico border – a woman and her young son – desperate to flee a Mexican cartel. After a shootout leaves the mother dead, Jim becomes the boy’s reluctant defender. He embraces his role as Miguel’s protector and will stop at nothing to get him to safety, as they go on the run from the relentless assassins.
 
@@ -178,28 +178,6 @@ A family of sadistic butchers lives deep in the backcountry. From the dead of wi
 	
 	
 
-### Double Dad
-*Released on 2021-01-15, vote average 7*
-
-While her mom is away, a teen sneaks out of the hippie commune where she lives and embarks on a life-changing adventure to discover who her father is.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Yjq-LSl98Lg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Redemption Day
 *Released on 2021-01-08, vote average 7.5*
 
@@ -222,8 +200,52 @@ Having just returned home, decorated U.S. Marine Captain Brad Paxton&#39;s wife,
 	
 	
 
+### Born a Champion
+*Released on 2021-01-22, vote average 6.5*
+
+After a blood- soaked jujitsu match in Dubai, fighting legend Mickey Kelley falls to superstar Blaine. But years later, an online video proves that Blaine cheated, and the world demands a rematch. Can the aging underdog get back into shape in time to vanquish his foe, get revenge, and claim his prize?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/CqXcwOHVUBI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Double Dad
+*Released on 2021-01-15, vote average 6.9*
+
+While her mom is away, a teen sneaks out of the hippie commune where she lives and embarks on a life-changing adventure to discover who her father is.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Yjq-LSl98Lg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Downfalls High
-*Released on 2021-01-15, vote average 8.6*
+*Released on 2021-01-15, vote average 8.1*
 
 When reserved and lonely teenager Fenix (Chase Hudson) meets popular high school girl Scarlett (Sydney Sweeney), the two form a bond that shapes the rest of his life. A musical drama featuring the music of Machine Gun Kelly.
 
@@ -242,7 +264,25 @@ When reserved and lonely teenager Fenix (Chase Hudson) meets popular high school
 
 
 	
+
+  
+
+
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -265,48 +305,6 @@ When reserved and lonely teenager Fenix (Chase Hudson) meets popular high school
 
 	
 	
-
-### The Ultimate Playlist of Noise
-*Released on 2021-01-15, vote average 6.2*
-
-After learning he must undergo brain surgery that will render him deaf, Marcus, an audio-obsessed high school senior, decides to seize control of his fate by recording the Ultimate Playlist of Noise — a bucket list of all his favorite sounds.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Zi6jogV6pLg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -316,25 +314,6 @@ After learning he must undergo brain surgery that will render him deaf, Marcus, 
 ## Opening soon
 
 
-	
-
-	
-	
-
-### American Dream
-*Released on 2021-01-21, vote average 5.3*
-
-Two American entrepreneurs must face a Russian mobster&#39;s vengeance after they cut him out of a business deal.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qtBLRgpI_MA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
@@ -358,6 +337,8 @@ After a blood- soaked jujitsu match in Dubai, fighting legend Mickey Kelley fall
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
