@@ -69,7 +69,7 @@ In the near future, a drone pilot is sent into a deadly militarized zone and mus
 	
 
 ### American Dream
-*Released on 2021-01-21, vote average 5.3*
+*Released on 2021-01-21, vote average 5*
 
 Two American entrepreneurs must face a Russian mobster&#39;s vengeance after they cut him out of a business deal.
 
@@ -91,7 +91,7 @@ Two American entrepreneurs must face a Russian mobster&#39;s vengeance after the
 	
 
 ### Jumanji: Level One
-*Released on 2021-01-20, vote average 4.5*
+*Released on 2021-01-20, vote average 5.3*
 
 Set in 1869, two children receive a mysterious game after their father goes missing in the jungles of Africa. They unravel both the secret of their father’s disappearance and the origin of Jumanji.  See how it all began.
 
@@ -113,7 +113,7 @@ Set in 1869, two children receive a mysterious game after their father goes miss
 	
 
 ### Crack: Cocaine, Corruption &amp; Conspiracy
-*Released on 2021-01-11, vote average 7.3*
+*Released on 2021-01-11, vote average 7.4*
 
 A cheap, powerful drug emerges during a recession, igniting a moral panic fueled by racism.  Explore the complex history of crack in the 1980s.
 
@@ -135,7 +135,7 @@ A cheap, powerful drug emerges during a recession, igniting a moral panic fueled
 	
 
 ### The Marksman
-*Released on 2021-01-15, vote average 8.4*
+*Released on 2021-01-15, vote average 7.9*
 
 Jim Hanson’s (Liam Neeson) quiet life is suddenly disturbed by two people crossing the US/Mexico border – a woman and her young son – desperate to flee a Mexican cartel. After a shootout leaves the mother dead, Jim becomes the boy’s reluctant defender. He embraces his role as Miguel’s protector and will stop at nothing to get him to safety, as they go on the run from the relentless assassins.
 
@@ -156,8 +156,30 @@ Jim Hanson’s (Liam Neeson) quiet life is suddenly disturbed by two people cros
 	
 	
 
+### Born a Champion
+*Released on 2021-01-22, vote average 6.5*
+
+After a blood- soaked jujitsu match in Dubai, fighting legend Mickey Kelley falls to superstar Blaine. But years later, an online video proves that Blaine cheated, and the world demands a rematch. Can the aging underdog get back into shape in time to vanquish his foe, get revenge, and claim his prize?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/CqXcwOHVUBI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Butchers
-*Released on 2021-01-12, vote average 6.4*
+*Released on 2021-01-12, vote average 7.3*
 
 A family of sadistic butchers lives deep in the backcountry. From the dead of winter to the dog days of summer, anyone who crosses their path is dead meat.
 
@@ -176,45 +198,6 @@ A family of sadistic butchers lives deep in the backcountry. From the dead of wi
 
 
 	
-	
-
-### Redemption Day
-*Released on 2021-01-08, vote average 7.5*
-
-Having just returned home, decorated U.S. Marine Captain Brad Paxton&#39;s wife, Kate, is kidnapped by a terrorist group while working in Morocco. He is forced back into action for a daring and deadly operation to save the woman he loves.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/TWjsU76dEIE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Born a Champion
-*Released on 2021-01-22, vote average 6.5*
-
-After a blood- soaked jujitsu match in Dubai, fighting legend Mickey Kelley falls to superstar Blaine. But years later, an online video proves that Blaine cheated, and the world demands a rematch. Can the aging underdog get back into shape in time to vanquish his foe, get revenge, and claim his prize?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/CqXcwOHVUBI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -223,7 +206,7 @@ After a blood- soaked jujitsu match in Dubai, fighting legend Mickey Kelley fall
 	
 
 ### Double Dad
-*Released on 2021-01-15, vote average 6.9*
+*Released on 2021-01-15, vote average 7*
 
 While her mom is away, a teen sneaks out of the hippie commune where she lives and embarks on a life-changing adventure to discover who her father is.
 
@@ -242,23 +225,6 @@ While her mom is away, a teen sneaks out of the hippie commune where she lives a
 
 
 	
-	
-
-### Downfalls High
-*Released on 2021-01-15, vote average 8.1*
-
-When reserved and lonely teenager Fenix (Chase Hudson) meets popular high school girl Scarlett (Sydney Sweeney), the two form a bond that shapes the rest of his life. A musical drama featuring the music of Machine Gun Kelly.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/--smQkLRmrY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -303,8 +269,6 @@ When reserved and lonely teenager Fenix (Chase Hudson) meets popular high school
   
 
 
-	
-	
 	
 
   
@@ -317,26 +281,26 @@ When reserved and lonely teenager Fenix (Chase Hudson) meets popular high school
 	
 
 	
-
 	
 
-	
-	
+### The Silencing
+*Released on 2021-01-28, vote average 6*
 
-### Born a Champion
-*Released on 2021-01-22, vote average 6.5*
-
-After a blood- soaked jujitsu match in Dubai, fighting legend Mickey Kelley falls to superstar Blaine. But years later, an online video proves that Blaine cheated, and the world demands a rematch. Can the aging underdog get back into shape in time to vanquish his foe, get revenge, and claim his prize?
+A reformed hunter becomes involved in a deadly game of cat and mouse when he and the local sheriff set out to track a vicious killer who may have kidnapped his daughter years ago.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/CqXcwOHVUBI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/v1rQOLis1P0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
 	
 
 	
