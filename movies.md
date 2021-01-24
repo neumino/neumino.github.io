@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Batman: Soul of the Dragon
-*Released on 2021-01-12, vote average 7.6*
+### Outside the Wire
+*Released on 2021-01-15, vote average 6.5*
 
-Bruce Wayne faces a deadly menace from his past, with the help of three former classmates: world-renowned martial artists Richard Dragon, Ben Turner and Lady Shiva.
+In the near future, a drone pilot is sent into a deadly militarized zone and must work with an android officer to locate a doomsday device.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/eHCAgSuLog4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/iwYhA5YvdNc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,38 +46,16 @@ Bruce Wayne faces a deadly menace from his past, with the help of three former c
 	
 	
 
-### Outside the Wire
-*Released on 2021-01-15, vote average 6.6*
+### Batman: Soul of the Dragon
+*Released on 2021-01-12, vote average 7.5*
 
-In the near future, a drone pilot is sent into a deadly militarized zone and must work with an android officer to locate a doomsday device.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/iwYhA5YvdNc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### American Dream
-*Released on 2021-01-21, vote average 5*
-
-Two American entrepreneurs must face a Russian mobster&#39;s vengeance after they cut him out of a business deal.
+Bruce Wayne faces a deadly menace from his past, with the help of three former classmates: world-renowned martial artists Richard Dragon, Ben Turner and Lady Shiva.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/qtBLRgpI_MA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/eHCAgSuLog4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,8 +90,8 @@ Set in 1869, two children receive a mysterious game after their father goes miss
 	
 	
 
-### Crack: Cocaine, Corruption &amp; Conspiracy
-*Released on 2021-01-11, vote average 7.4*
+### Crack: Cocaine, Corruption and Conspiracy
+*Released on 2021-01-11, vote average 7.3*
 
 A cheap, powerful drug emerges during a recession, igniting a moral panic fueled by racism.  Explore the complex history of crack in the 1980s.
 
@@ -122,6 +100,28 @@ A cheap, powerful drug emerges during a recession, igniting a moral panic fueled
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/RbYdjyxDNtQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### American Dream
+*Released on 2021-01-21, vote average 4.3*
+
+Two American entrepreneurs must face a Russian mobster&#39;s vengeance after they cut him out of a business deal.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qtBLRgpI_MA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -156,6 +156,50 @@ Jim Hanson’s (Liam Neeson) quiet life is suddenly disturbed by two people cros
 	
 	
 
+### Our Friend
+*Released on 2021-01-22, vote average 7*
+
+After learning that his terminally ill wife has six months to live, a man welcomes the support of his best friend who moves into their home to help out.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-6x4w0nufe4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Double Dad
+*Released on 2021-01-15, vote average 7.2*
+
+While her mom is away, a teen sneaks out of the hippie commune where she lives and embarks on a life-changing adventure to discover who her father is.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Yjq-LSl98Lg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Born a Champion
 *Released on 2021-01-22, vote average 6.5*
 
@@ -178,8 +222,52 @@ After a blood- soaked jujitsu match in Dubai, fighting legend Mickey Kelley fall
 	
 	
 
+### Psycho Goreman
+*Released on 2021-01-22, vote average 8*
+
+Siblings Mimi and Luke unwittingly resurrect an ancient alien overlord. Using a magical amulet, they force the monster to obey their childish whims, and accidentally attract a rogues’ gallery of intergalactic assassins to small-town suburbia.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/L4tizc0IAVQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### No Man&#39;s Land
+*Released on 2021-01-22, vote average 8*
+
+Late one night, Bill Greer and his son Jackson patrol their ranch when Jackson accidentally kills an immigrant Mexican boy. When Bill tries to take the blame for his son, Jackson flees south on horseback, becoming a gringo &#34;illegal alien&#34; in Mexico. Chased by Texas Rangers and Mexican federales, Jackson journeys across Mexico to seek forgiveness from the dead boy&#39;s father only to fall in love with the land he was taught to hate.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hMMD7J73oS8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Butchers
-*Released on 2021-01-12, vote average 7.3*
+*Released on 2021-01-12, vote average 7.1*
 
 A family of sadistic butchers lives deep in the backcountry. From the dead of winter to the dog days of summer, anyone who crosses their path is dead meat.
 
@@ -192,43 +280,6 @@ A family of sadistic butchers lives deep in the backcountry. From the dead of wi
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Double Dad
-*Released on 2021-01-15, vote average 7*
-
-While her mom is away, a teen sneaks out of the hippie commune where she lives and embarks on a life-changing adventure to discover who her father is.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Yjq-LSl98Lg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -284,7 +335,7 @@ While her mom is away, a teen sneaks out of the hippie commune where she lives a
 	
 
 ### The Silencing
-*Released on 2021-01-28, vote average 6*
+*Released on 2021-01-28, vote average 5.3*
 
 A reformed hunter becomes involved in a deadly game of cat and mouse when he and the local sheriff set out to track a vicious killer who may have kidnapped his daughter years ago.
 
