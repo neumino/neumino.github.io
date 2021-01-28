@@ -69,7 +69,7 @@ While her mom is away, a teen sneaks out of the hippie commune where she lives a
 	
 
 ### Jumanji: Level One
-*Released on 2021-01-20, vote average 6.4*
+*Released on 2021-01-20, vote average 6*
 
 Set in 1869, two children receive a mysterious game after their father goes missing in the jungles of Africa. They unravel both the secret of their father’s disappearance and the origin of Jumanji.  See how it all began.
 
@@ -90,8 +90,30 @@ Set in 1869, two children receive a mysterious game after their father goes miss
 	
 	
 
+### The Little Things
+*Released on 2021-01-27, vote average 6*
+
+Deke, a burnt-out Kern County, CA deputy sheriff teams with Baxter, a crack LASD detective, to nab a serial killer. Deke&#39;s nose for the &#34;little things&#34; proves eerily accurate, but his willingness to circumvent the rules embroils Baxter in a soul-shattering dilemma. Meanwhile, Deke must wrestle with a dark secret from his past.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/1HZAnkxdYuA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Marksman
-*Released on 2021-01-15, vote average 7.9*
+*Released on 2021-01-15, vote average 7.6*
 
 Jim Hanson’s (Liam Neeson) quiet life is suddenly disturbed by two people crossing the US/Mexico border – a woman and her young son – desperate to flee a Mexican cartel. After a shootout leaves the mother dead, Jim becomes the boy’s reluctant defender. He embraces his role as Miguel’s protector and will stop at nothing to get him to safety, as they go on the run from the relentless assassins.
 
@@ -103,6 +125,13 @@ Jim Hanson’s (Liam Neeson) quiet life is suddenly disturbed by two people cros
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -132,45 +161,6 @@ After learning that his terminally ill wife has six months to live, a man welcom
 
 
 	
-	
-
-### The Little Things
-*Released on 2021-01-27, vote average 6*
-
-Deke, a burnt-out Kern County, CA deputy sheriff teams with Baxter, a crack LASD detective, to nab a serial killer. Deke&#39;s nose for the &#34;little things&#34; proves eerily accurate, but his willingness to circumvent the rules embroils Baxter in a soul-shattering dilemma. Meanwhile, Deke must wrestle with a dark secret from his past.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/1HZAnkxdYuA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The White Tiger
-*Released on 2021-01-13, vote average 6.6*
-
-An ambitious Indian driver uses his wit and cunning to escape from poverty and rise to the top. An epic journey based on the New York Times bestseller.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/oM-Nw9XzqVM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -198,6 +188,21 @@ Siblings Mimi and Luke unwittingly resurrect an ancient alien overlord. Using a 
 
 
 	
+	
+
+### The Silencing
+*Released on 2021-01-28, vote average 7.6*
+
+A reformed hunter becomes involved in a deadly game of cat and mouse when he and the local sheriff set out to track a vicious killer who may have kidnapped his daughter years ago.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/v1rQOLis1P0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -227,6 +232,11 @@ After a blood- soaked jujitsu match in Dubai, fighting legend Mickey Kelley fall
 
 
 	
+
+  
+
+
+	
 	
 
 ### No Man&#39;s Land
@@ -249,18 +259,6 @@ Late one night, Bill Greer and his son Jackson patrol their ranch when Jackson a
 
 
 	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -277,23 +275,6 @@ Late one night, Bill Greer and his son Jackson patrol their ranch when Jackson a
   
 
 
-	
-	
-
-### American Dream
-*Released on 2021-01-21, vote average 4.3*
-
-Two American entrepreneurs must face a Russian mobster&#39;s vengeance after they cut him out of a business deal.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qtBLRgpI_MA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -321,27 +302,8 @@ Two American entrepreneurs must face a Russian mobster&#39;s vengeance after the
 	
 	
 
-### The Little Things
-*Released on 2021-01-27, vote average 6*
-
-Deke, a burnt-out Kern County, CA deputy sheriff teams with Baxter, a crack LASD detective, to nab a serial killer. Deke&#39;s nose for the &#34;little things&#34; proves eerily accurate, but his willingness to circumvent the rules embroils Baxter in a soul-shattering dilemma. Meanwhile, Deke must wrestle with a dark secret from his past.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/1HZAnkxdYuA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
 ### The Silencing
-*Released on 2021-01-28, vote average 7.2*
+*Released on 2021-01-28, vote average 7.6*
 
 A reformed hunter becomes involved in a deadly game of cat and mouse when he and the local sheriff set out to track a vicious killer who may have kidnapped his daughter years ago.
 
@@ -357,9 +319,9 @@ A reformed hunter becomes involved in a deadly game of cat and mouse when he and
 	
 
 	
-	
-	
 
+	
+	
 	
 
 	
@@ -402,6 +364,16 @@ The film follows two Brooklyn siblings whose summer in a rural Oahu town takes a
 	
 
 	
+
+	
+
+	
+
+	
+
+	
+
+	
 	
 
 ### Palmer
@@ -418,14 +390,6 @@ After 12 years in prison, former high school football star Eddie Palmer returns 
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
 	
 
 
