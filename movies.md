@@ -47,7 +47,7 @@ In the near future, a drone pilot is sent into a deadly militarized zone and mus
 	
 
 ### Double Dad
-*Released on 2021-01-15, vote average 7.3*
+*Released on 2021-01-15, vote average 7.4*
 
 While her mom is away, a teen sneaks out of the hippie commune where she lives and embarks on a life-changing adventure to discover who her father is.
 
@@ -69,7 +69,7 @@ While her mom is away, a teen sneaks out of the hippie commune where she lives a
 	
 
 ### Jumanji: Level One
-*Released on 2021-01-20, vote average 6*
+*Released on 2021-01-20, vote average 5.3*
 
 Set in 1869, two children receive a mysterious game after their father goes missing in the jungles of Africa. They unravel both the secret of their father’s disappearance and the origin of Jumanji.  See how it all began.
 
@@ -89,9 +89,16 @@ Set in 1869, two children receive a mysterious game after their father goes miss
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### The Little Things
-*Released on 2021-01-27, vote average 6*
+*Released on 2021-01-27, vote average 5.8*
 
 Deke, a burnt-out Kern County, CA deputy sheriff teams with Baxter, a crack LASD detective, to nab a serial killer. Deke&#39;s nose for the &#34;little things&#34; proves eerily accurate, but his willingness to circumvent the rules embroils Baxter in a soul-shattering dilemma. Meanwhile, Deke must wrestle with a dark secret from his past.
 
@@ -133,6 +140,43 @@ Jim Hanson’s (Liam Neeson) quiet life is suddenly disturbed by two people cros
 
 	
 	
+
+### The Silencing
+*Released on 2021-01-28, vote average 7.6*
+
+A reformed hunter becomes involved in a deadly game of cat and mouse when he and the local sheriff set out to track a vicious killer who may have kidnapped his daughter years ago.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/v1rQOLis1P0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Caged
+*Released on 2021-01-26, vote average 10*
+
+An African American male is imprisoned and placed in solitary confinement after being found guilty of murdering his wife, as he&#39;s haunted by internal demons and his dead wife, and pushed to the breaking point by an abusive female guard.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/08T1ObkO7O0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -142,7 +186,7 @@ Jim Hanson’s (Liam Neeson) quiet life is suddenly disturbed by two people cros
 	
 
 ### Our Friend
-*Released on 2021-01-22, vote average 8*
+*Released on 2021-01-22, vote average 8.3*
 
 After learning that his terminally ill wife has six months to live, a man welcomes the support of his best friend who moves into their home to help out.
 
@@ -154,6 +198,18 @@ After learning that his terminally ill wife has six months to live, a man welcom
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 	
 
@@ -187,23 +243,6 @@ Siblings Mimi and Luke unwittingly resurrect an ancient alien overlord. Using a 
   
 
 
-	
-	
-
-### The Silencing
-*Released on 2021-01-28, vote average 7.6*
-
-A reformed hunter becomes involved in a deadly game of cat and mouse when he and the local sheriff set out to track a vicious killer who may have kidnapped his daughter years ago.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/v1rQOLis1P0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -239,42 +278,20 @@ After a blood- soaked jujitsu match in Dubai, fighting legend Mickey Kelley fall
 	
 	
 
-### No Man&#39;s Land
-*Released on 2021-01-22, vote average 8.5*
+### Finding &#39;Ohana
+*Released on 2021-01-29, vote average 7*
 
-Late one night, Bill Greer and his son Jackson patrol their ranch when Jackson accidentally kills an immigrant Mexican boy. When Bill tries to take the blame for his son, Jackson flees south on horseback, becoming a gringo &#34;illegal alien&#34; in Mexico. Chased by Texas Rangers and Mexican federales, Jackson journeys across Mexico to seek forgiveness from the dead boy&#39;s father only to fall in love with the land he was taught to hate.
+The film follows two Brooklyn siblings whose summer in a rural Oahu town takes an exciting turn when a journal pointing to long-lost treasure sets them on an adventure, leading them to reconnect with their Hawaiian heritage.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/hMMD7J73oS8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/FTqLUEpWqEc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -302,39 +319,8 @@ Late one night, Bill Greer and his son Jackson patrol their ranch when Jackson a
 	
 	
 
-### The Silencing
-*Released on 2021-01-28, vote average 7.6*
-
-A reformed hunter becomes involved in a deadly game of cat and mouse when he and the local sheriff set out to track a vicious killer who may have kidnapped his daughter years ago.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/v1rQOLis1P0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-	
-	
-
-	
-
-	
-
-	
-
-	
-	
-
 ### Finding &#39;Ohana
-*Released on 2021-01-29, vote average 8*
+*Released on 2021-01-29, vote average 7*
 
 The film follows two Brooklyn siblings whose summer in a rural Oahu town takes an exciting turn when a journal pointing to long-lost treasure sets them on an adventure, leading them to reconnect with their Hawaiian heritage.
 
@@ -354,30 +340,10 @@ The film follows two Brooklyn siblings whose summer in a rural Oahu town takes a
 	
 
 	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
 	
 
 ### Palmer
-*Released on 2021-01-29, vote average 8*
+*Released on 2021-01-29, vote average 7.5*
 
 After 12 years in prison, former high school football star Eddie Palmer returns home to put his life back together—and forms an unlikely bond with Sam, an outcast boy from a troubled home. But Eddie&#39;s past threatens to ruin his new life and family.
 
@@ -390,6 +356,38 @@ After 12 years in prison, former high school football star Eddie Palmer returns 
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 
