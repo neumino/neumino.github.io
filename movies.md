@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Jumanji: Level One
-*Released on 2021-01-20, vote average 5.3*
+### The Little Things
+*Released on 2021-01-27, vote average 6.2*
 
-Set in 1869, two children receive a mysterious game after their father goes missing in the jungles of Africa. They unravel both the secret of their father’s disappearance and the origin of Jumanji.  See how it all began.
+Deke—a burnt-out Kern County deputy sheriff—teams with Baxter, a crack LASD detective, to nab a serial killer. Deke&#39;s nose for &#39;the little things&#39; proves eerily accurate, but his willingness to circumvent the rules embroils Baxter in a soul-shattering dilemma.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/UjN_FPK-7T0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/1HZAnkxdYuA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,20 +46,101 @@ Set in 1869, two children receive a mysterious game after their father goes miss
 	
 	
 
-### The Little Things
-*Released on 2021-01-27, vote average 7*
+### Jumanji: Level One
+*Released on 2021-01-20, vote average 5.3*
 
-Deke, a burnt-out Kern County, CA deputy sheriff teams with Baxter, a crack LASD detective, to nab a serial killer. Deke&#39;s nose for the &#34;little things&#34; proves eerily accurate, but his willingness to circumvent the rules embroils Baxter in a soul-shattering dilemma. Meanwhile, Deke must wrestle with a dark secret from his past.
+Set in 1869, two children receive a mysterious game after their father goes missing in the jungles of Africa. They unravel both the secret of their father’s disappearance and the origin of Jumanji.  See how it all began.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/1HZAnkxdYuA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/UjN_FPK-7T0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Finding &#39;Ohana
+*Released on 2021-01-29, vote average 6.3*
+
+The film follows two Brooklyn siblings whose summer in a rural Oahu town takes an exciting turn when a journal pointing to long-lost treasure sets them on an adventure, leading them to reconnect with their Hawaiian heritage.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FTqLUEpWqEc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Below Zero
+*Released on 2021-01-29, vote average 6.3*
+
+When a prisoner transfer van is attacked, the cop in charge must fight those inside and outside while dealing with a silent foe: the icy temperatures.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hSMokfUerVY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Palmer
+*Released on 2021-01-29, vote average 8.8*
+
+After 12 years in prison, former high school football star Eddie Palmer returns home to put his life back together—and forms an unlikely bond with Sam, an outcast boy from a troubled home. But Eddie&#39;s past threatens to ruin his new life and family.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8jVuOheTNGQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -90,20 +171,35 @@ After learning that his terminally ill wife has six months to live, a man welcom
 	
 	
 
-### Finding &#39;Ohana
-*Released on 2021-01-29, vote average 7*
+### Penguin Bloom
+*Released on 2021-01-21, vote average 8*
 
-The film follows two Brooklyn siblings whose summer in a rural Oahu town takes an exciting turn when a journal pointing to long-lost treasure sets them on an adventure, leading them to reconnect with their Hawaiian heritage.
+When an unlikely ally enters the Bloom family&#39;s world in the form of an injured baby magpie they name Penguin, the bird’s arrival makes a profound difference in the struggling family’s life.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/FTqLUEpWqEc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/q7eZEZHRrVg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -137,15 +233,10 @@ A reformed hunter becomes involved in a deadly game of cat and mouse when he and
 
 
 	
-
-  
-
-
-	
 	
 
 ### Psycho Goreman
-*Released on 2021-01-22, vote average 6.7*
+*Released on 2021-01-22, vote average 6.8*
 
 Siblings Mimi and Luke unwittingly resurrect an ancient alien overlord. Using a magical amulet, they force the monster to obey their childish whims, and accidentally attract a rogues’ gallery of intergalactic assassins to small-town suburbia.
 
@@ -165,24 +256,17 @@ Siblings Mimi and Luke unwittingly resurrect an ancient alien overlord. Using a 
 
 	
 	
-	
 
-  
+### June &amp; Kopi
+*Released on 2021-01-28, vote average 6*
 
-
-	
-	
-
-### Caged
-*Released on 2021-01-26, vote average 10*
-
-An African American male is imprisoned and placed in solitary confinement after being found guilty of murdering his wife, as he&#39;s haunted by internal demons and his dead wife, and pushed to the breaking point by an abusive female guard.
+A street dog is taken in by a young couple, and the family pit becomes an instant accomplice as he adjusts to his new, loving home.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/08T1ObkO7O0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/li8l80bY39w?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -192,75 +276,6 @@ An African American male is imprisoned and placed in solitary confinement after 
   
 
 
-	
-	
-
-### Palmer
-*Released on 2021-01-29, vote average 7.5*
-
-After 12 years in prison, former high school football star Eddie Palmer returns home to put his life back together—and forms an unlikely bond with Sam, an outcast boy from a troubled home. But Eddie&#39;s past threatens to ruin his new life and family.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8jVuOheTNGQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Born a Champion
-*Released on 2021-01-22, vote average 7.8*
-
-After a blood- soaked jujitsu match in Dubai, fighting legend Mickey Kelley falls to superstar Blaine. But years later, an online video proves that Blaine cheated, and the world demands a rematch. Can the aging underdog get back into shape in time to vanquish his foe, get revenge, and claim his prize?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/CqXcwOHVUBI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -289,36 +304,6 @@ After a blood- soaked jujitsu match in Dubai, fighting legend Mickey Kelley fall
 	
 
 	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
 	
 
 ### Hunted
@@ -335,6 +320,36 @@ A woman flees two serial killers who are hot on her heels in a forest.
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 
