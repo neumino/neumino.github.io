@@ -47,7 +47,7 @@ Deputy Sheriff Joe &#34;Deke&#34; Deacon joins forces with Sgt. Jim Baxter to se
 	
 
 ### Jumanji: Level One
-*Released on 2021-01-20, vote average 5.8*
+*Released on 2021-01-20, vote average 5.9*
 
 Set in 1869, two children receive a mysterious game after their father goes missing in the jungles of Africa. They unravel both the secret of their father’s disappearance and the origin of Jumanji.  See how it all began.
 
@@ -69,7 +69,7 @@ Set in 1869, two children receive a mysterious game after their father goes miss
 	
 
 ### Finding &#39;Ohana
-*Released on 2021-01-29, vote average 6.7*
+*Released on 2021-01-29, vote average 6.9*
 
 The film follows two Brooklyn siblings whose summer in a rural Oahu town takes an exciting turn when a journal pointing to long-lost treasure sets them on an adventure, leading them to reconnect with their Hawaiian heritage.
 
@@ -88,15 +88,10 @@ The film follows two Brooklyn siblings whose summer in a rural Oahu town takes a
 
 
 	
-
-  
-
-
-	
 	
 
 ### Below Zero
-*Released on 2021-01-29, vote average 6.5*
+*Released on 2021-01-29, vote average 6.3*
 
 When a prisoner transfer van is attacked, the cop in charge must fight those inside and outside while dealing with a silent foe: the icy temperatures.
 
@@ -118,7 +113,7 @@ When a prisoner transfer van is attacked, the cop in charge must fight those ins
 	
 
 ### Palmer
-*Released on 2021-01-29, vote average 8*
+*Released on 2021-01-29, vote average 8.4*
 
 After 12 years in prison, former high school football star Eddie Palmer returns home to put his life back together—and forms an unlikely bond with Sam, an outcast boy from a troubled home. But Eddie&#39;s past threatens to ruin his new life and family.
 
@@ -137,10 +132,20 @@ After 12 years in prison, former high school football star Eddie Palmer returns 
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### Penguin Bloom
-*Released on 2021-01-21, vote average 8.2*
+*Released on 2021-01-21, vote average 7.8*
 
 When an unlikely ally enters the Bloom family&#39;s world in the form of an injured baby magpie they name Penguin, the bird’s arrival makes a profound difference in the struggling family’s life.
 
@@ -159,12 +164,17 @@ When an unlikely ally enters the Bloom family&#39;s world in the form of an inju
 
 
 	
+
+  
+
+
+	
 	
 
 ### Haymaker
-*Released on 2021-01-29, vote average 7*
+*Released on 2021-01-29, vote average 4*
 
-Haymaker follows a retired Muay Thai fighter (Sasso) working as a bouncer, who rescues an alluring transgender performer (Ruiz) from a nefarious thug, eventually becoming her bodyguard, protector, and confidant. The relationship leads Sasso&#39;s character to make an unexpected return to fighting, risking not only his relationship, but his life. Its a story about human dignity and love.  —Hood River Entertainment
+Haymaker follows a retired Muay Thai fighter working as a bouncer, who rescues an alluring transgender performer from a nefarious thug, eventually becoming her bodyguard, protector, and confidant. The relationship leads Sasso&#39;s character to make an unexpected return to fighting, risking not only his relationship, but his life. Its a story about human dignity and love.
 
 <iframe id="player"
 	type="text/html"
@@ -175,16 +185,6 @@ Haymaker follows a retired Muay Thai fighter (Sasso) working as a bouncer, who r
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -207,38 +207,6 @@ After learning that his terminally ill wife has six months to live, a man welcom
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Psycho Goreman
-*Released on 2021-01-22, vote average 6.8*
-
-Siblings Mimi and Luke unwittingly resurrect an ancient alien overlord. Using a magical amulet, they force the monster to obey their childish whims, and accidentally attract a rogues’ gallery of intergalactic assassins to small-town suburbia.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/L4tizc0IAVQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -278,16 +246,9 @@ After a blood- soaked jujitsu match in Dubai, fighting legend Mickey Kelley fall
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### The Silencing
-*Released on 2021-01-28, vote average 7.1*
+*Released on 2021-01-28, vote average 7.4*
 
 A reformed hunter becomes involved in a deadly game of cat and mouse when he and the local sheriff set out to track a vicious killer who may have kidnapped his daughter years ago.
 
@@ -306,6 +267,45 @@ A reformed hunter becomes involved in a deadly game of cat and mouse when he and
 
 
 	
+	
+
+### Psycho Goreman
+*Released on 2021-01-22, vote average 6.5*
+
+Siblings Mimi and Luke unwittingly resurrect an ancient alien overlord. Using a magical amulet, they force the monster to obey their childish whims, and accidentally attract a rogues’ gallery of intergalactic assassins to small-town suburbia.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/L4tizc0IAVQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
 
   
 
@@ -317,8 +317,27 @@ A reformed hunter becomes involved in a deadly game of cat and mouse when he and
 	
 	
 
+### Chick Fight
+*Released on 2021-02-04, vote average 7*
+
+When Anna Wyncomb is introduced to an an underground, all-female fight club in order to turn the mess of her life around, she discovers she is much more personally connected to the history of the club than she could ever imagine.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qHFssXdRGQM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
 ### Hunted
-*Released on 2021-02-03, vote average 7.6*
+*Released on 2021-02-03, vote average 8*
 
 A woman flees two serial killers who are hot on her heels in a forest.
 
@@ -338,48 +357,44 @@ A woman flees two serial killers who are hot on her heels in a forest.
 	
 
 	
+
 	
+
 	
 
 	
 
 	
+
 	
 
-### Chick Fight
-*Released on 2021-02-04, vote average 8*
+	
 
-When Anna Wyncomb is introduced to an an underground, all-female fight club in order to turn the mess of her life around, she discovers she is much more personally connected to the history of the club than she could ever imagine.
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Head Count
+*Released on 2021-02-04, vote average 9*
+
+During a weekend getaway to Joshua Tree, a group of teenagers find themselves under mental and physical assault from a supernatural entity that mimics their appearances as it completes an ancient ritual.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/qHFssXdRGQM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/deMKdsSHkMs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
