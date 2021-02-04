@@ -47,9 +47,9 @@ Deputy Sheriff Joe &#34;Deke&#34; Deacon joins forces with Sgt. Jim Baxter to se
 	
 
 ### Finding &#39;Ohana
-*Released on 2021-01-29, vote average 6.7*
+*Released on 2021-01-29, vote average 6.9*
 
-The film follows two Brooklyn siblings whose summer in a rural Oahu town takes an exciting turn when a journal pointing to long-lost treasure sets them on an adventure, leading them to reconnect with their Hawaiian heritage.
+Two Brooklyn siblings&#39; summer in a rural Oahu town takes an exciting turn when a journal pointing to long-lost treasure sets them on an adventure, leading them to reconnect with their Hawaiian heritage.
 
 <iframe id="player"
 	type="text/html"
@@ -69,7 +69,7 @@ The film follows two Brooklyn siblings whose summer in a rural Oahu town takes a
 	
 
 ### Below Zero
-*Released on 2021-01-29, vote average 6.3*
+*Released on 2021-01-29, vote average 6.4*
 
 When a prisoner transfer van is attacked, the cop in charge must fight those inside and outside while dealing with a silent foe: the icy temperatures.
 
@@ -110,18 +110,23 @@ After 12 years in prison, former high school football star Eddie Palmer returns 
 
 
 	
+
+  
+
+
+	
 	
 
-### Jumanji: Level One
-*Released on 2021-01-20, vote average 6.3*
+### Hunted
+*Released on 2021-02-03, vote average 7.6*
 
-Set in 1869, two children receive a mysterious game after their father goes missing in the jungles of Africa. They unravel both the secret of their father’s disappearance and the origin of Jumanji.  See how it all began.
+A woman flees two serial killers who are hot on her heels in a forest.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/UjN_FPK-7T0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/TjSSbgg4Lwo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -137,10 +142,15 @@ Set in 1869, two children receive a mysterious game after their father goes miss
 
 
 	
+
+  
+
+
+	
 	
 
 ### Penguin Bloom
-*Released on 2021-01-21, vote average 8.1*
+*Released on 2021-01-21, vote average 7.9*
 
 When an unlikely ally enters the Bloom family&#39;s world in the form of an injured baby magpie they name Penguin, the bird’s arrival makes a profound difference in the struggling family’s life.
 
@@ -159,6 +169,82 @@ When an unlikely ally enters the Bloom family&#39;s world in the form of an inju
 
 
 	
+	
+
+### First Blush
+*Released on 2021-02-02, vote average 6*
+
+Nena and Drew are a young, happy-ish married couple whose relationship is thrown off its axis when they meet Olivia. The trio&#39;s attraction to each other is undeniable, but when they become romantically involved, they struggle to navigate the complications of a polyamorous relationship. The three push each other&#39;s boundaries to the limits as they discover painful truths about who they are, what they want, and how to love in turbulent times.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wFkRbMqyB1I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### HellKat
+*Released on 2021-02-02, vote average 7*
+
+A fallen MMA fighter must win a netherworld no-holds-barred death tournament against man, beast and demon to save her soul.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_TZNsVKTL08?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Chick Fight
+*Released on 2021-02-04, vote average 7*
+
+When Anna Wyncomb is introduced to an an underground, all-female fight club in order to turn the mess of her life around, she discovers she is much more personally connected to the history of the club than she could ever imagine.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qHFssXdRGQM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 
   
 
@@ -167,7 +253,7 @@ When an unlikely ally enters the Bloom family&#39;s world in the form of an inju
 	
 
 ### Our Friend
-*Released on 2021-01-22, vote average 7.4*
+*Released on 2021-01-22, vote average 7*
 
 After learning that his terminally ill wife has six months to live, a man welcomes the support of his best friend who moves into their home to help out.
 
@@ -186,52 +272,6 @@ After learning that his terminally ill wife has six months to live, a man welcom
 
 
 	
-	
-
-### Wendy Williams: The Movie
-*Released on 2021-01-30, vote average 8*
-
-Talk show host Wendy Williams executive produces the biopic on her life, revealing the highs and lows she has experienced throughout the years. Wendy has made herself the go-to source for great celebrity dish on her hit talk show, The Wendy Williams Show, but recently the spotlight has turned towards her. The authorized project provides a revealing look at Wendy’s journey, from her scrappy upstart days in urban radio to the success of her own syndicated talk show. Despite all the naysayers and obstacles Wendy encountered throughout her life, her strength and determination have allowed her to thrive.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2CDfTJ4Utc8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Hunted
-*Released on 2021-02-03, vote average 7.6*
-
-A woman flees two serial killers who are hot on her heels in a forest.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/TjSSbgg4Lwo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -241,67 +281,6 @@ A woman flees two serial killers who are hot on her heels in a forest.
   
 
 
-	
-	
-
-### Twist
-*Released on 2021-01-22, vote average 7.4*
-
-A Dicken’s classic brought thrillingly up to date in the teeming heartland of modern London, where a group of street smart young hustlers plan the heist of the century for the ultimate payday.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zKhDF-55R7g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Haymaker
-*Released on 2021-01-29, vote average 5*
-
-Haymaker follows a retired Muay Thai fighter working as a bouncer, who rescues an alluring transgender performer from a nefarious thug, eventually becoming her bodyguard, protector, and confidant. The relationship leads Sasso&#39;s character to make an unexpected return to fighting, risking not only his relationship, but his life. Its a story about human dignity and love.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/22g431RQluo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -316,23 +295,6 @@ Haymaker follows a retired Muay Thai fighter working as a bouncer, who rescues a
 ## Opening soon
 
 
-	
-	
-
-### Hunted
-*Released on 2021-02-03, vote average 7.6*
-
-A woman flees two serial killers who are hot on her heels in a forest.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/TjSSbgg4Lwo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
@@ -355,18 +317,6 @@ When Anna Wyncomb is introduced to an an underground, all-female fight club in o
 	
 
 	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
 	
 
 ### Head Count
@@ -383,6 +333,18 @@ During a weekend getaway to Joshua Tree, a group of teenagers find themselves un
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
