@@ -91,7 +91,7 @@ When a prisoner transfer van is attacked, the cop in charge must fight those ins
 	
 
 ### Palmer
-*Released on 2021-01-29, vote average 8.2*
+*Released on 2021-01-29, vote average 8.3*
 
 After 12 years in prison, former high school football star Eddie Palmer returns home to put his life back together—and forms an unlikely bond with Sam, an outcast boy from a troubled home. But Eddie&#39;s past threatens to ruin his new life and family.
 
@@ -109,6 +109,50 @@ After 12 years in prison, former high school football star Eddie Palmer returns 
   
 
 
+	
+
+  
+
+
+	
+	
+
+### Little Fish
+*Released on 2021-02-05, vote average 6*
+
+Imagine waking up in a world where a pandemic has broken out, which strikes with no rhyme or reason, and causes its victims to lose their memories. Imagine waking up and not remembering the person you love. This is the world that newlyweds Emma and Jude find themselves in, not long after meeting and falling in love. When Jude contracts the disease, the young couple will do anything to hold onto the memory of their love. But how do you build a future when you keep having to rebuild the past?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/knPhaXYG4YA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Bliss
+*Released on 2021-02-05, vote average 6.5*
+
+A mind-bending love story following Greg who, after recently being divorced and then fired, meets the mysterious Isabel, a woman living on the streets and convinced that the polluted, broken world around them is just a computer simulation. Doubtful at first, Greg eventually discovers there may be some truth to Isabel’s wild conspiracy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZHtPm8v-yNw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -140,7 +184,7 @@ When Anna Wyncomb is introduced to an an underground, all-female fight club in o
 	
 
 ### Wrong Turn
-*Released on 2021-01-26, vote average 7*
+*Released on 2021-01-26, vote average 6.9*
 
 Jen and a group of friends set out to hike the Appalachian Trail. Despite warnings to stick to the trail, the hikers stray off course—and cross into land inhabited by The Foundation, a hidden community of mountain dwellers who use deadly means to protect their way of life.  Suddenly under siege, Jen and her friends seem headed to the point of no return— unless Jen’s father can reach them in time.
 
@@ -164,18 +208,67 @@ Jen and a group of friends set out to hike the Appalachian Trail. Despite warnin
 
 
 	
+
+  
+
+
 	
 
-### HellKat
-*Released on 2021-02-02, vote average 7*
+  
 
-A fallen MMA fighter must win a netherworld no-holds-barred death tournament against man, beast and demon to save her soul.
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Al Davis vs. The NFL
+*Released on 2021-02-04, vote average 5*
+
+The maverick machinations of Oakland/Los Angeles Raiders owner Al Davis and his many quarrels with the National Football League.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/_TZNsVKTL08?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/XPRYX1gbV7w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Fake Famous
+*Released on 2021-02-02, vote average 6*
+
+Explores the meaning of fame and influence in the digital age through an innovative social experiment. Following three Los Angeles-based people with relatively small followings, the film explores the attempts made to turn them into famous influencers by purchasing fake followers and bots to “engage” with their social media accounts.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2B7m-ARHz0c?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -208,135 +301,10 @@ During a weekend getaway to Joshua Tree, a group of teenagers find themselves un
 
 
 	
-	
-
-### Al Davis vs. The NFL
-*Released on 2021-02-04, vote average 2*
-
-The maverick machinations of Oakland/Los Angeles Raiders owner Al Davis and his many quarrels with the National Football League.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XPRYX1gbV7w?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
-	
-	
-
-### Our Friend
-*Released on 2021-01-22, vote average 6.8*
-
-After learning that his terminally ill wife has six months to live, a man welcomes the support of his best friend who moves into their home to help out.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-6x4w0nufe4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Hunted
-*Released on 2021-02-03, vote average 7.6*
-
-A woman flees two serial killers who are hot on her heels in a forest.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/TjSSbgg4Lwo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### First Blush
-*Released on 2021-02-02, vote average 6.5*
-
-Nena and Drew are a young, happy-ish married couple whose relationship is thrown off its axis when they meet Olivia. The trio&#39;s attraction to each other is undeniable, but when they become romantically involved, they struggle to navigate the complications of a polyamorous relationship. The three push each other&#39;s boundaries to the limits as they discover painful truths about who they are, what they want, and how to love in turbulent times.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wFkRbMqyB1I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Bliss
-*Released on 2021-02-05, vote average 6*
-
-A mind-bending love story following Greg who, after recently being divorced and then fired, meets the mysterious Isabel, a woman living on the streets and convinced that the polluted, broken world around them is just a computer simulation. Doubtful at first, Greg eventually discovers there may be some truth to Isabel’s wild conspiracy.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZHtPm8v-yNw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -352,23 +320,6 @@ A mind-bending love story following Greg who, after recently being divorced and 
 
 	
 
-	
-	
-
-### Bliss
-*Released on 2021-02-05, vote average 6*
-
-A mind-bending love story following Greg who, after recently being divorced and then fired, meets the mysterious Isabel, a woman living on the streets and convinced that the polluted, broken world around them is just a computer simulation. Doubtful at first, Greg eventually discovers there may be some truth to Isabel’s wild conspiracy.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZHtPm8v-yNw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
