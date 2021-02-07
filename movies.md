@@ -47,7 +47,7 @@ Deputy Sheriff Joe &#34;Deke&#34; Deacon joins forces with Sgt. Jim Baxter to se
 	
 
 ### Finding &#39;Ohana
-*Released on 2021-01-29, vote average 6.9*
+*Released on 2021-01-29, vote average 6.8*
 
 Two Brooklyn siblings&#39; summer in a rural Oahu town takes an exciting turn when a journal pointing to long-lost treasure sets them on an adventure, leading them to reconnect with their Hawaiian heritage.
 
@@ -91,7 +91,7 @@ When a prisoner transfer van is attacked, the cop in charge must fight those ins
 	
 
 ### Palmer
-*Released on 2021-01-29, vote average 8.3*
+*Released on 2021-01-29, vote average 8.2*
 
 After 12 years in prison, former high school football star Eddie Palmer returns home to put his life back together—and forms an unlikely bond with Sam, an outcast boy from a troubled home. But Eddie&#39;s past threatens to ruin his new life and family.
 
@@ -110,15 +110,10 @@ After 12 years in prison, former high school football star Eddie Palmer returns 
 
 
 	
-
-  
-
-
-	
 	
 
 ### Little Fish
-*Released on 2021-02-05, vote average 6*
+*Released on 2021-02-05, vote average 8.7*
 
 Imagine waking up in a world where a pandemic has broken out, which strikes with no rhyme or reason, and causes its victims to lose their memories. Imagine waking up and not remembering the person you love. This is the world that newlyweds Emma and Jude find themselves in, not long after meeting and falling in love. When Jude contracts the disease, the young couple will do anything to hold onto the memory of their love. But how do you build a future when you keep having to rebuild the past?
 
@@ -140,7 +135,7 @@ Imagine waking up in a world where a pandemic has broken out, which strikes with
 	
 
 ### Bliss
-*Released on 2021-02-05, vote average 6.5*
+*Released on 2021-02-05, vote average 4.8*
 
 A mind-bending love story following Greg who, after recently being divorced and then fired, meets the mysterious Isabel, a woman living on the streets and convinced that the polluted, broken world around them is just a computer simulation. Doubtful at first, Greg eventually discovers there may be some truth to Isabel’s wild conspiracy.
 
@@ -159,18 +154,45 @@ A mind-bending love story following Greg who, after recently being divorced and 
 
 
 	
+
+  
+
+
+	
 	
 
-### Chick Fight
-*Released on 2021-02-04, vote average 7*
+### The Reckoning
+*Released on 2021-02-05, vote average 5*
 
-When Anna Wyncomb is introduced to an an underground, all-female fight club in order to turn the mess of her life around, she discovers she is much more personally connected to the history of the club than she could ever imagine.
+In the aftermath of the Great Plague and amidst the subsequent witch-hunts against women, a young widow grapples with the tragic death of her husband in a society completely consumed by fear and death. Because she rejects the advances of her landlord, she is falsely accused of being a witch and thrown in jail for a crime she didn’t commit. She must endure physical persecution at the hands of England’s most ruthless witch-hunter and face her own inner demons as the devil himself starts to work his way into her mind.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/qHFssXdRGQM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/XC2S2BxheYk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Space Sweepers
+*Released on 2021-02-05, vote average 7*
+
+In the year 2092, space is full of dangerous floating garbage like discarded satellites and deserted spaceships. The crew of a space junk collector ship called The Victory discovers a humanoid robot that’s known to be a weapon of mass destruction. They get involved in a risky business deal and travel through space looking for garbage they can make money off of while also competing with rival junk collectors.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/H1WYnJF1Pwo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -203,40 +225,18 @@ Jen and a group of friends set out to hike the Appalachian Trail. Despite warnin
 
 
 	
-
-  
-
-
 	
 
-  
+### The Wanting Mare
+*Released on 2021-02-05, vote average 10*
 
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Al Davis vs. The NFL
-*Released on 2021-02-04, vote average 5*
-
-The maverick machinations of Oakland/Los Angeles Raiders owner Al Davis and his many quarrels with the National Football League.
+In Whithren, a line of women pass a recurring dream through multiple generations.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/XPRYX1gbV7w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/0FnmVFCSmas?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -257,18 +257,23 @@ The maverick machinations of Oakland/Los Angeles Raiders owner Al Davis and his 
 
 
 	
+
+  
+
+
+	
 	
 
-### Fake Famous
-*Released on 2021-02-02, vote average 6*
+### The Last Paradiso
+*Released on 2021-02-05, vote average 6.7*
 
-Explores the meaning of fame and influence in the digital age through an innovative social experiment. Following three Los Angeles-based people with relatively small followings, the film explores the attempts made to turn them into famous influencers by purchasing fake followers and bots to “engage” with their social media accounts.
+In 1950s Italy, a farmer&#39;s dream of improving workers’ living conditions collapses when he falls for a landowner&#39;s daughter. Based on true events.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/2B7m-ARHz0c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/IhnKWwPcgN4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -281,20 +286,47 @@ Explores the meaning of fame and influence in the digital age through an innovat
 	
 	
 
-### Head Count
-*Released on 2021-02-04, vote average 8.5*
+### Son of the South
+*Released on 2021-02-05, vote average 2*
 
-During a weekend getaway to Joshua Tree, a group of teenagers find themselves under mental and physical assault from a supernatural entity that mimics their appearances as it completes an ancient ritual.
+Bob Zellner, grandson of a Klansman, comes of age in the Deep South and eventually joins the Civil Rights Movement.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/deMKdsSHkMs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/x0IjvDWw0i4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Chick Fight
+*Released on 2021-02-04, vote average 6.3*
+
+When Anna Wyncomb is introduced to an an underground, all-female fight club in order to turn the mess of her life around, she discovers she is much more personally connected to the history of the club than she could ever imagine.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qHFssXdRGQM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -317,7 +349,22 @@ During a weekend getaway to Joshua Tree, a group of teenagers find themselves un
 	
 
 	
+	
 
+### Judas and the Black Messiah
+*Released on 2021-02-12, vote average 7*
+
+Bill O&#39;Neal infiltrates the Black Panthers per FBI Agent Mitchell and J. Edgar Hoover. As Black Panther Chairman Fred Hampton ascends, falling for a fellow revolutionary en route, a battle wages for O’Neal’s soul.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/sSjtGqRXQ9Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -336,6 +383,25 @@ During a weekend getaway to Joshua Tree, a group of teenagers find themselves un
 
 	
 
+	
+
+	
+	
+
+### The World to Come
+*Released on 2021-02-12, vote average 10*
+
+Two women who forge a close connection despite their isolation in the mid-19th-century American frontier.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/flZQMYMet-w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
