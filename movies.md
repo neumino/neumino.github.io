@@ -46,16 +46,16 @@ Deputy Sheriff Joe &#34;Deke&#34; Deacon joins forces with Sgt. Jim Baxter to se
 	
 	
 
-### Finding &#39;Ohana
-*Released on 2021-01-29, vote average 6.8*
+### Below Zero
+*Released on 2021-01-29, vote average 6.6*
 
-Two Brooklyn siblings&#39; summer in a rural Oahu town takes an exciting turn when a journal pointing to long-lost treasure sets them on an adventure, leading them to reconnect with their Hawaiian heritage.
+When a prisoner transfer van is attacked, the cop in charge must fight those inside and outside while dealing with a silent foe: the icy temperatures.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/FTqLUEpWqEc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/UCLz92vUYJY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,16 +68,16 @@ Two Brooklyn siblings&#39; summer in a rural Oahu town takes an exciting turn wh
 	
 	
 
-### Below Zero
-*Released on 2021-01-29, vote average 6.6*
+### Finding &#39;Ohana
+*Released on 2021-01-29, vote average 6.7*
 
-When a prisoner transfer van is attacked, the cop in charge must fight those inside and outside while dealing with a silent foe: the icy temperatures.
+Two Brooklyn siblings&#39; summer in a rural Oahu town takes an exciting turn when a journal pointing to long-lost treasure sets them on an adventure, leading them to reconnect with their Hawaiian heritage.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/UCLz92vUYJY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/FTqLUEpWqEc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -113,7 +113,7 @@ After 12 years in prison, former high school football star Eddie Palmer returns 
 	
 
 ### Bliss
-*Released on 2021-02-05, vote average 5.8*
+*Released on 2021-02-05, vote average 5.5*
 
 A mind-bending love story following Greg who, after recently being divorced and then fired, meets the mysterious Isabel, a woman living on the streets and convinced that the polluted, broken world around them is just a computer simulation. Doubtful at first, Greg eventually discovers there may be some truth to Isabel’s wild conspiracy.
 
@@ -161,50 +161,6 @@ In the year 2092, space is full of dangerous floating garbage like discarded sat
 	
 	
 
-### Little Fish
-*Released on 2021-02-05, vote average 8.3*
-
-Imagine waking up in a world where a pandemic has broken out, which strikes with no rhyme or reason, and causes its victims to lose their memories. Imagine waking up and not remembering the person you love. This is the world that newlyweds Emma and Jude find themselves in, not long after meeting and falling in love. When Jude contracts the disease, the young couple will do anything to hold onto the memory of their love. But how do you build a future when you keep having to rebuild the past?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/knPhaXYG4YA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Reckoning
-*Released on 2021-02-05, vote average 5*
-
-In the aftermath of the Great Plague and amidst the subsequent witch-hunts against women, a young widow grapples with the tragic death of her husband in a society completely consumed by fear and death. Because she rejects the advances of her landlord, she is falsely accused of being a witch and thrown in jail for a crime she didn’t commit. She must endure physical persecution at the hands of England’s most ruthless witch-hunter and face her own inner demons as the devil himself starts to work his way into her mind.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XC2S2BxheYk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Last Paradiso
 *Released on 2021-02-05, vote average 5.8*
 
@@ -225,23 +181,18 @@ In 1950s Italy, a farmer&#39;s dream of improving workers’ living conditions c
 
 
 	
-
-  
-
-
-	
 	
 
-### The Wanting Mare
-*Released on 2021-02-05, vote average 8*
+### Malcolm &amp; Marie
+*Released on 2021-01-28, vote average 7.4*
 
-In Whithren, a line of women pass a recurring dream through multiple generations.
+As a filmmaker and his girlfriend return home from his movie premiere, smoldering tensions and painful revelations push them toward a romantic reckoning.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/0FnmVFCSmas?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/CGZmwsK58M8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -254,16 +205,65 @@ In Whithren, a line of women pass a recurring dream through multiple generations
 	
 	
 
-### Son of the South
-*Released on 2021-02-05, vote average 2*
+### The Reckoning
+*Released on 2021-02-05, vote average 5.3*
 
-Bob Zellner, grandson of a Klansman, comes of age in the Deep South and eventually joins the Civil Rights Movement.
+In the aftermath of the Great Plague and amidst the subsequent witch-hunts against women, a young widow grapples with the tragic death of her husband in a society completely consumed by fear and death. Because she rejects the advances of her landlord, she is falsely accused of being a witch and thrown in jail for a crime she didn’t commit. She must endure physical persecution at the hands of England’s most ruthless witch-hunter and face her own inner demons as the devil himself starts to work his way into her mind.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/x0IjvDWw0i4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/XC2S2BxheYk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Little Fish
+*Released on 2021-02-05, vote average 8.2*
+
+Imagine waking up in a world where a pandemic has broken out, which strikes with no rhyme or reason, and causes its victims to lose their memories. Imagine waking up and not remembering the person you love. This is the world that newlyweds Emma and Jude find themselves in, not long after meeting and falling in love. When Jude contracts the disease, the young couple will do anything to hold onto the memory of their love. But how do you build a future when you keep having to rebuild the past?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/knPhaXYG4YA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Right One
+*Released on 2021-02-05, vote average 6.8*
+
+Sara, a novelist struggling with writer&#39;s block, needs inspiration — and finds it when she serendipitously meets Godfrey, a down-on-his-luck oddball who constantly changes personas and alter egos in order to cope with his past and avoid reality. Just as Godfrey begins to open up to Sara, he discovers that she’s been using him as inspiration for her next novel, and he vanishes from her life. Did Sara just lose the man of her dreams, or will she be able to find him and make things right?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/VqgPZfxtet8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -301,23 +301,18 @@ Jen and a group of friends set out to hike the Appalachian Trail. Despite warnin
 
 
 	
-
-  
-
-
-	
 	
 
-### Malcolm &amp; Marie
-*Released on 2021-01-28, vote average 7.4*
+### The Wanting Mare
+*Released on 2021-02-05, vote average 8*
 
-As a filmmaker and his girlfriend return home from his movie premiere, smoldering tensions and painful revelations push them toward a romantic reckoning.
+In Whithren, a line of women pass a recurring dream through multiple generations.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/CGZmwsK58M8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/0FnmVFCSmas?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -337,6 +332,45 @@ As a filmmaker and his girlfriend return home from his movie premiere, smolderin
   
 
 
+	
+	
+
+### Strip Down Rise Up
+*Released on 2021-02-05, vote average 8*
+
+The feature documentary follows women of all walks of life, all ages and ethnic backgrounds, as they shed trauma, body image shame, sexual abuse and other issues locked in their bodies, and embark on a journey to reclaim themselves. The film also gives a rare window into the world of Pole artistry and expression.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0MMXqjMe1WQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Son of the South
+*Released on 2021-02-05, vote average 2*
+
+Bob Zellner, grandson of a Klansman, comes of age in the Deep South and eventually joins the Civil Rights Movement.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/x0IjvDWw0i4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -378,6 +412,12 @@ Bill O&#39;Neal infiltrates the Black Panthers per FBI Agent Mitchell and J. Edg
 	
 
 	
+
+	
+
+	
+
+	
 	
 
 ### The World to Come
@@ -397,17 +437,43 @@ Two women who forge a close connection despite their isolation in the mid-19th-c
 	
 
 	
+	
+
+### Dating Amber
+*Released on 2021-02-10, vote average 8*
+
+Eddie and Amber decide to stage a relationship in order to stop everyone speculating about their sexuality. Eddie is keen to follow his dad into the military, while Amber dreams of moving to the liberal hub of London. The plan seems solid, but as their arrangement begins to fall apart, Eddie’s denial gets deeper as Amber realizes that a perilous future awaits her best friend unless she intervenes.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jVU_e0Kq4A8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
 	
-	
 
 	
 
 	
-
 	
 
+### Land
+*Released on 2021-02-12, vote average 4*
+
+Edee, in the aftermath of an unfathomable event, finds herself unable to stay connected to the world she once knew and in the face of that uncertainty, retreats to the magnificent, but unforgiving, wilds of the Rockies. After a local hunter brings her back from the brink of death, she must find a way to live again.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/sOw20FDNnHA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
