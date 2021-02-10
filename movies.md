@@ -47,7 +47,7 @@ Deputy Sheriff Joe &#34;Deke&#34; Deacon joins forces with Sgt. Jim Baxter to se
 	
 
 ### Below Zero
-*Released on 2021-01-29, vote average 6.6*
+*Released on 2021-01-29, vote average 6.5*
 
 When a prisoner transfer van is attacked, the cop in charge must fight those inside and outside while dealing with a silent foe: the icy temperatures.
 
@@ -113,7 +113,7 @@ After 12 years in prison, former high school football star Eddie Palmer returns 
 	
 
 ### Bliss
-*Released on 2021-02-05, vote average 5.5*
+*Released on 2021-02-05, vote average 5.6*
 
 A mind-bending love story following Greg who, after recently being divorced and then fired, meets the mysterious Isabel, a woman living on the streets and convinced that the polluted, broken world around them is just a computer simulation. Doubtful at first, Greg eventually discovers there may be some truth to Isabel’s wild conspiracy.
 
@@ -135,7 +135,7 @@ A mind-bending love story following Greg who, after recently being divorced and 
 	
 
 ### Space Sweepers
-*Released on 2021-02-05, vote average 6.8*
+*Released on 2021-02-05, vote average 6.9*
 
 In the year 2092, space is full of dangerous floating garbage like discarded satellites and deserted spaceships. The crew of a space junk collector ship called The Victory discovers a humanoid robot that’s known to be a weapon of mass destruction. They get involved in a risky business deal and travel through space looking for garbage they can make money off of while also competing with rival junk collectors.
 
@@ -154,15 +154,10 @@ In the year 2092, space is full of dangerous floating garbage like discarded sat
 
 
 	
-
-  
-
-
-	
 	
 
 ### The Last Paradiso
-*Released on 2021-02-05, vote average 5.8*
+*Released on 2021-02-05, vote average 6*
 
 In 1950s Italy, a farmer&#39;s dream of improving workers’ living conditions collapses when he falls for a landowner&#39;s daughter. Based on true events.
 
@@ -203,18 +198,67 @@ As a filmmaker and his girlfriend return home from his movie premiere, smolderin
 
 
 	
+
+  
+
+
+	
 	
 
-### The Reckoning
-*Released on 2021-02-05, vote average 5.3*
+### The Right One
+*Released on 2021-02-05, vote average 6.7*
 
-In the aftermath of the Great Plague and amidst the subsequent witch-hunts against women, a young widow grapples with the tragic death of her husband in a society completely consumed by fear and death. Because she rejects the advances of her landlord, she is falsely accused of being a witch and thrown in jail for a crime she didn’t commit. She must endure physical persecution at the hands of England’s most ruthless witch-hunter and face her own inner demons as the devil himself starts to work his way into her mind.
+Sara, a novelist struggling with writer&#39;s block, needs inspiration — and finds it when she serendipitously meets Godfrey, a down-on-his-luck oddball who constantly changes personas and alter egos in order to cope with his past and avoid reality. Just as Godfrey begins to open up to Sara, he discovers that she’s been using him as inspiration for her next novel, and he vanishes from her life. Did Sara just lose the man of her dreams, or will she be able to find him and make things right?
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/XC2S2BxheYk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/VqgPZfxtet8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Strip Down Rise Up
+*Released on 2021-02-05, vote average 8*
+
+The feature documentary follows women of all walks of life, all ages and ethnic backgrounds, as they shed trauma, body image shame, sexual abuse and other issues locked in their bodies, and embark on a journey to reclaim themselves. The film also gives a rare window into the world of Pole artistry and expression.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0MMXqjMe1WQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Fake Famous
+*Released on 2021-02-02, vote average 8.8*
+
+Explores the meaning of fame and influence in the digital age through an innovative social experiment. Following three Los Angeles-based people with relatively small followings, the film explores the attempts made to turn them into famous influencers by purchasing fake followers and bots to “engage” with their social media accounts.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2B7m-ARHz0c?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -252,23 +296,6 @@ Imagine waking up in a world where a pandemic has broken out, which strikes with
 
 
 	
-	
-
-### The Right One
-*Released on 2021-02-05, vote average 6.8*
-
-Sara, a novelist struggling with writer&#39;s block, needs inspiration — and finds it when she serendipitously meets Godfrey, a down-on-his-luck oddball who constantly changes personas and alter egos in order to cope with his past and avoid reality. Just as Godfrey begins to open up to Sara, he discovers that she’s been using him as inspiration for her next novel, and he vanishes from her life. Did Sara just lose the man of her dreams, or will she be able to find him and make things right?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/VqgPZfxtet8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -276,43 +303,16 @@ Sara, a novelist struggling with writer&#39;s block, needs inspiration — and f
 	
 	
 
-### Wrong Turn
-*Released on 2021-01-26, vote average 6.9*
+### The Reckoning
+*Released on 2021-02-05, vote average 5.3*
 
-Jen and a group of friends set out to hike the Appalachian Trail. Despite warnings to stick to the trail, the hikers stray off course—and cross into land inhabited by The Foundation, a hidden community of mountain dwellers who use deadly means to protect their way of life.  Suddenly under siege, Jen and her friends seem headed to the point of no return— unless Jen’s father can reach them in time.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IbTyuEOkSsM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Wanting Mare
-*Released on 2021-02-05, vote average 8*
-
-In Whithren, a line of women pass a recurring dream through multiple generations.
+In the aftermath of the Great Plague and amidst the subsequent witch-hunts against women, a young widow grapples with the tragic death of her husband in a society completely consumed by fear and death. Because she rejects the advances of her landlord, she is falsely accused of being a witch and thrown in jail for a crime she didn’t commit. She must endure physical persecution at the hands of England’s most ruthless witch-hunter and face her own inner demons as the devil himself starts to work his way into her mind.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/0FnmVFCSmas?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/XC2S2BxheYk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -332,23 +332,6 @@ In Whithren, a line of women pass a recurring dream through multiple generations
   
 
 
-	
-	
-
-### Strip Down Rise Up
-*Released on 2021-02-05, vote average 8*
-
-The feature documentary follows women of all walks of life, all ages and ethnic backgrounds, as they shed trauma, body image shame, sexual abuse and other issues locked in their bodies, and embark on a journey to reclaim themselves. The film also gives a rare window into the world of Pole artistry and expression.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0MMXqjMe1WQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -358,7 +341,7 @@ The feature documentary follows women of all walks of life, all ages and ethnic 
 	
 
 ### Son of the South
-*Released on 2021-02-05, vote average 2*
+*Released on 2021-02-05, vote average 5*
 
 Bob Zellner, grandson of a Klansman, comes of age in the Deep South and eventually joins the Civil Rights Movement.
 
@@ -381,14 +364,48 @@ Bob Zellner, grandson of a Klansman, comes of age in the Deep South and eventual
 
 
 	
+	
 
+### To All the Boys: Always and Forever
+*Released on 2021-02-12, vote average 9*
+
+Senior year of high school takes center stage as Lara Jean returns from a family trip to Korea and considers her college plans — with and without Peter.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2jPdejek5QA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### Fear of Rain
+*Released on 2021-02-12, vote average 8*
+
+A teenage girl living with schizophrenia begins to suspect her neighbor has kidnapped a child. Her parents try desperately to help her live a normal life, without exposing their own tragic secrets, and the only person who believes her is Caleb – a boy she isn’t even sure exists.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kUPf2z9KMmo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
 	
 
 ### Judas and the Black Messiah
-*Released on 2021-02-12, vote average 7*
+*Released on 2021-02-12, vote average 7.3*
 
 Bill O&#39;Neal infiltrates the Black Panthers per FBI Agent Mitchell and J. Edgar Hoover. As Black Panther Chairman Fred Hampton ascends, falling for a fellow revolutionary en route, a battle wages for O’Neal’s soul.
 
@@ -406,9 +423,47 @@ Bill O&#39;Neal infiltrates the Black Panthers per FBI Agent Mitchell and J. Edg
 	
 
 	
+	
+
+### Dating Amber
+*Released on 2021-02-10, vote average 7.3*
+
+Eddie and Amber decide to stage a relationship in order to stop everyone speculating about their sexuality. Eddie is keen to follow his dad into the military, while Amber dreams of moving to the liberal hub of London. The plan seems solid, but as their arrangement begins to fall apart, Eddie’s denial gets deeper as Amber realizes that a perilous future awaits her best friend unless she intervenes.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jVU_e0Kq4A8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
+	
+
+	
+
+	
+	
+
+### Willy&#39;s Wonderland
+*Released on 2021-02-12, vote average 6*
+
+When his car breaks down, a quiet loner agrees to clean an abandoned family fun center in exchange for repairs. He soon finds himself waging war against possessed animatronic mascots while trapped inside Willy&#39;s Wonderland.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Gfh8_X3sH5s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -437,18 +492,20 @@ Two women who forge a close connection despite their isolation in the mid-19th-c
 	
 
 	
+
+	
 	
 
-### Dating Amber
-*Released on 2021-02-10, vote average 8*
+### The Yinyang Master
+*Released on 2021-02-12, vote average 8*
 
-Eddie and Amber decide to stage a relationship in order to stop everyone speculating about their sexuality. Eddie is keen to follow his dad into the military, while Amber dreams of moving to the liberal hub of London. The plan seems solid, but as their arrangement begins to fall apart, Eddie’s denial gets deeper as Amber realizes that a perilous future awaits her best friend unless she intervenes.
+
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/jVU_e0Kq4A8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/M1UV7HrTi6s?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -458,10 +515,16 @@ Eddie and Amber decide to stage a relationship in order to stop everyone specula
 	
 
 	
+
+	
+
+	
+
+	
 	
 
 ### Land
-*Released on 2021-02-12, vote average 4*
+*Released on 2021-02-12, vote average 5.5*
 
 Edee, in the aftermath of an unfathomable event, finds herself unable to stay connected to the world she once knew and in the face of that uncertainty, retreats to the magnificent, but unforgiving, wilds of the Rockies. After a local hunter brings her back from the brink of death, she must find a way to live again.
 
@@ -474,18 +537,6 @@ Edee, in the aftermath of an unfathomable event, finds herself unable to stay co
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 
