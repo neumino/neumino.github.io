@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### The Little Things
-*Released on 2021-01-27, vote average 6.4*
+### Below Zero
+*Released on 2021-01-29, vote average 6.5*
 
-Deputy Sheriff Joe &#34;Deke&#34; Deacon joins forces with Sgt. Jim Baxter to search for a serial killer who&#39;s terrorizing Los Angeles. As they track the culprit, Baxter is unaware that the investigation is dredging up echoes of Deke&#39;s past, uncovering disturbing secrets that could threaten more than his case.
+When a prisoner transfer van is attacked, the cop in charge must fight those inside and outside while dealing with a silent foe: the icy temperatures.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/1HZAnkxdYuA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/UCLz92vUYJY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,30 +46,8 @@ Deputy Sheriff Joe &#34;Deke&#34; Deacon joins forces with Sgt. Jim Baxter to se
 	
 	
 
-### Below Zero
-*Released on 2021-01-29, vote average 6.5*
-
-When a prisoner transfer van is attacked, the cop in charge must fight those inside and outside while dealing with a silent foe: the icy temperatures.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/UCLz92vUYJY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Finding &#39;Ohana
-*Released on 2021-01-29, vote average 6.7*
+*Released on 2021-01-29, vote average 6.8*
 
 Two Brooklyn siblings&#39; summer in a rural Oahu town takes an exciting turn when a journal pointing to long-lost treasure sets them on an adventure, leading them to reconnect with their Hawaiian heritage.
 
@@ -135,7 +113,7 @@ A mind-bending love story following Greg who, after recently being divorced and 
 	
 
 ### Space Sweepers
-*Released on 2021-02-05, vote average 6.9*
+*Released on 2021-02-05, vote average 7*
 
 In the year 2092, space is full of dangerous floating garbage like discarded satellites and deserted spaceships. The crew of a space junk collector ship called The Victory discovers a humanoid robot that’s known to be a weapon of mass destruction. They get involved in a risky business deal and travel through space looking for garbage they can make money off of while also competing with rival junk collectors.
 
@@ -157,7 +135,7 @@ In the year 2092, space is full of dangerous floating garbage like discarded sat
 	
 
 ### The Last Paradiso
-*Released on 2021-02-05, vote average 6*
+*Released on 2021-02-05, vote average 6.2*
 
 In 1950s Italy, a farmer&#39;s dream of improving workers’ living conditions collapses when he falls for a landowner&#39;s daughter. Based on true events.
 
@@ -170,6 +148,11 @@ In 1950s Italy, a farmer&#39;s dream of improving workers’ living conditions c
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -192,11 +175,6 @@ As a filmmaker and his girlfriend return home from his movie premiere, smolderin
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -228,7 +206,7 @@ Sara, a novelist struggling with writer&#39;s block, needs inspiration — and f
 	
 
 ### Strip Down Rise Up
-*Released on 2021-02-05, vote average 8*
+*Released on 2021-02-05, vote average 7.2*
 
 The feature documentary follows women of all walks of life, all ages and ethnic backgrounds, as they shed trauma, body image shame, sexual abuse and other issues locked in their bodies, and embark on a journey to reclaim themselves. The film also gives a rare window into the world of Pole artistry and expression.
 
@@ -247,10 +225,15 @@ The feature documentary follows women of all walks of life, all ages and ethnic 
 
 
 	
+
+  
+
+
+	
 	
 
 ### Fake Famous
-*Released on 2021-02-02, vote average 8.8*
+*Released on 2021-02-02, vote average 9*
 
 Explores the meaning of fame and influence in the digital age through an innovative social experiment. Following three Los Angeles-based people with relatively small followings, the film explores the attempts made to turn them into famous influencers by purchasing fake followers and bots to “engage” with their social media accounts.
 
@@ -271,8 +254,35 @@ Explores the meaning of fame and influence in the digital age through an innovat
 	
 	
 
+### Sacrifice
+*Released on 2021-02-09, vote average 4.5*
+
+Isaac and his pregnant wife visit a remote Norwegian village to claim an unexpected inheritance. The couple finds themselves caught in a nightmare when they encounter a sinister cult that worships a sea-dwelling deity.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/igUyQPawlps?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### Little Fish
-*Released on 2021-02-05, vote average 8.2*
+*Released on 2021-02-05, vote average 8*
 
 Imagine waking up in a world where a pandemic has broken out, which strikes with no rhyme or reason, and causes its victims to lose their memories. Imagine waking up and not remembering the person you love. This is the world that newlyweds Emma and Jude find themselves in, not long after meeting and falling in love. When Jude contracts the disease, the young couple will do anything to hold onto the memory of their love. But how do you build a future when you keep having to rebuild the past?
 
@@ -285,6 +295,11 @@ Imagine waking up in a world where a pandemic has broken out, which strikes with
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -327,41 +342,11 @@ In the aftermath of the Great Plague and amidst the subsequent witch-hunts again
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Son of the South
-*Released on 2021-02-05, vote average 5*
-
-Bob Zellner, grandson of a Klansman, comes of age in the Deep South and eventually joins the Civil Rights Movement.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/x0IjvDWw0i4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 
 ## Opening soon
 
+
+	
 
 	
 	
@@ -386,7 +371,7 @@ Senior year of high school takes center stage as Lara Jean returns from a family
 	
 
 ### Fear of Rain
-*Released on 2021-02-12, vote average 8*
+*Released on 2021-02-12, vote average 7.7*
 
 A teenage girl living with schizophrenia begins to suspect her neighbor has kidnapped a child. Her parents try desperately to help her live a normal life, without exposing their own tragic secrets, and the only person who believes her is Caleb – a boy she isn’t even sure exists.
 
@@ -423,27 +408,6 @@ Bill O&#39;Neal infiltrates the Black Panthers per FBI Agent Mitchell and J. Edg
 	
 
 	
-	
-
-### Dating Amber
-*Released on 2021-02-10, vote average 7.3*
-
-Eddie and Amber decide to stage a relationship in order to stop everyone speculating about their sexuality. Eddie is keen to follow his dad into the military, while Amber dreams of moving to the liberal hub of London. The plan seems solid, but as their arrangement begins to fall apart, Eddie’s denial gets deeper as Amber realizes that a perilous future awaits her best friend unless she intervenes.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jVU_e0Kq4A8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
 
 	
 
@@ -467,9 +431,22 @@ When his car breaks down, a quiet loner agrees to clean an abandoned family fun 
 	
 
 	
-
 	
 
+### Long Story Short
+*Released on 2021-02-11, vote average 5*
+
+Teddy thinks he has all the time in the world, but after an odd encounter with a stranger, he wakes up the morning after his wedding to discover that he&#39;s jumped forward a year in his life to his first anniversary. His wife Leanne is now heavily pregnant, with a full year of marriage behind them that he doesn’t remember living. Trapped in a cycle of time jumps, transported another year ahead every few minutes, Teddy is faced with a race against time as his life crumbles around him.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/BZNN9AttdBQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -494,18 +471,22 @@ Two women who forge a close connection despite their isolation in the mid-19th-c
 	
 
 	
+
 	
 
-### The Yinyang Master
-*Released on 2021-02-12, vote average 8*
+	
+	
 
+### Sweded Film Festival for Creative Re-Creations
+*Released on 2021-02-12, vote average 10*
 
+They&#39;re zero-budget, amateur, homemade, zany, creative, weird and often downright hilarious: a dozen &#34;Sweded&#34; versions of favorite films come together in The Sweded Film Festival for Creative Re-Creations. From mega-blockbusters to concert films, The Sweded Film Festival for Creative Re-Creations offers fan-made, five-minute versions of Die Hard, No Country for Old Men, Ferris Bueller&#39;s Day Off, The Lighthouse – even Stop Making Sense, among others. The Sweded Film Festival for Creative Re-Creations showcases the passion, humor, creativity and incredible ingenuity of film fans nationwide who won’t be deterred by a pandemic … and can&#39;t stop loving the movies.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/M1UV7HrTi6s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/0wynsJrXkpM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -521,18 +502,20 @@ Two women who forge a close connection despite their isolation in the mid-19th-c
 	
 
 	
+
+	
 	
 
-### Land
-*Released on 2021-02-12, vote average 5.5*
+### The North Wind
+*Released on 2021-02-11, vote average 8*
 
-Edee, in the aftermath of an unfathomable event, finds herself unable to stay connected to the world she once knew and in the face of that uncertainty, retreats to the magnificent, but unforgiving, wilds of the Rockies. After a local hunter brings her back from the brink of death, she must find a way to live again.
+The Northern Clan of manufacturers in the era of the great matriarchy celebrates the New Year night for several decades — from the last century to the present day. The beloved fiancee of the clan’s main heir dies and chaos comes to the territory of Northern Fields. The fields rot, because the deceased young woman turned out to be an indispensable element that dissapeared so unjustly and early. However, the Northern Clan has an extra hour, the Thirteenth, when they are stronger than death.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/sOw20FDNnHA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/NKN1hTodraw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
