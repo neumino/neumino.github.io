@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Bliss
-*Released on 2021-02-05, vote average 5.6*
+### Space Sweepers
+*Released on 2021-02-05, vote average 7.4*
 
-A mind-bending love story following Greg who, after recently being divorced and then fired, meets the mysterious Isabel, a woman living on the streets and convinced that the polluted, broken world around them is just a computer simulation. Doubtful at first, Greg eventually discovers there may be some truth to Isabel’s wild conspiracy.
+When the crew of a space junk collector ship called The Victory discovers a humanoid robot named Dorothy that&#39;s known to be a weapon of mass destruction, they get involved in a risky business deal which puts their lives at stake.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ZHtPm8v-yNw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/H1WYnJF1Pwo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ A mind-bending love story following Greg who, after recently being divorced and 
 	
 	
 
-### Space Sweepers
-*Released on 2021-02-05, vote average 7.4*
+### Bliss
+*Released on 2021-02-05, vote average 5.6*
 
-In the year 2092, space is full of dangerous floating garbage like discarded satellites and deserted spaceships. The crew of a space junk collector ship called The Victory discovers a humanoid robot that’s known to be a weapon of mass destruction. They get involved in a risky business deal and travel through space looking for garbage they can make money off of while also competing with rival junk collectors.
+A mind-bending love story following Greg who, after recently being divorced and then fired, meets the mysterious Isabel, a woman living on the streets and convinced that the polluted, broken world around them is just a computer simulation. Doubtful at first, Greg eventually discovers there may be some truth to Isabel’s wild conspiracy.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/H1WYnJF1Pwo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ZHtPm8v-yNw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -135,7 +135,7 @@ Sara, a novelist struggling with writer&#39;s block, needs inspiration — and f
 	
 
 ### To All the Boys: Always and Forever
-*Released on 2021-02-12, vote average 8.1*
+*Released on 2021-02-12, vote average 8.2*
 
 Senior year of high school takes center stage as Lara Jean returns from a family trip to Korea and considers her college plans — with and without Peter.
 
@@ -179,7 +179,7 @@ The feature documentary follows women of all walks of life, all ages and ethnic 
 	
 
 ### Judas and the Black Messiah
-*Released on 2021-02-12, vote average 7.6*
+*Released on 2021-02-12, vote average 7.7*
 
 Bill O&#39;Neal infiltrates the Black Panthers per FBI Agent Mitchell and J. Edgar Hoover. As Black Panther Chairman Fred Hampton ascends, falling for a fellow revolutionary en route, a battle wages for O’Neal’s soul.
 
@@ -200,16 +200,38 @@ Bill O&#39;Neal infiltrates the Black Panthers per FBI Agent Mitchell and J. Edg
 	
 	
 
-### Fear of Rain
-*Released on 2021-02-12, vote average 6.5*
+### Willy&#39;s Wonderland
+*Released on 2021-02-12, vote average 6.8*
 
-A teenage girl living with schizophrenia begins to suspect her neighbor has kidnapped a child. Her parents try desperately to help her live a normal life, without exposing their own tragic secrets, and the only person who believes her is Caleb – a boy she isn’t even sure exists.
+When his car breaks down, a quiet loner agrees to clean an abandoned family fun center in exchange for repairs. He soon finds himself waging war against possessed animatronic mascots while trapped inside Willy&#39;s Wonderland.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/kUPf2z9KMmo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Gfh8_X3sH5s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Map of Tiny Perfect Things
+*Released on 2021-02-12, vote average 7.2*
+
+The film tells the story of quick-witted teen Mark, contentedly living the same day in an endless loop whose world is turned upside-down when he meets mysterious Margaret also stuck in the time loop. Mark and Margaret form a magnetic partnership, setting out to find all the tiny things that make that one day perfect. What follows is a love story with a fantastical twist, as the two struggle to figure out how -- and whether -- to escape their never-ending day.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xKN3Ksw84Tw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -244,16 +266,60 @@ Explores the meaning of fame and influence in the digital age through an innovat
 	
 	
 
-### Willy&#39;s Wonderland
-*Released on 2021-02-12, vote average 7.5*
+### Fear of Rain
+*Released on 2021-02-12, vote average 6.8*
 
-When his car breaks down, a quiet loner agrees to clean an abandoned family fun center in exchange for repairs. He soon finds himself waging war against possessed animatronic mascots while trapped inside Willy&#39;s Wonderland.
+A teenage girl living with schizophrenia begins to suspect her neighbor has kidnapped a child. Her parents try desperately to help her live a normal life, without exposing their own tragic secrets, and the only person who believes her is Caleb – a boy she isn’t even sure exists.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Gfh8_X3sH5s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/kUPf2z9KMmo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Red Dot
+*Released on 2021-02-11, vote average 6.3*
+
+On a hiking trip to rekindle their marriage, a couple find themselves fleeing for their lives in the unforgiving wilderness from an unknown shooter.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EHARitHyWKc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Squared Love
+*Released on 2021-02-11, vote average 5.7*
+
+A celebrity journalist and renowned womanizer starts to rethink his life choices after he falls for a mysterious model who leads a double life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zF9YIYc0d7w?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -286,99 +352,33 @@ The story of best friends Barb and Star, who leave their small midwestern town f
 
 
 	
+
+  
+
+
 	
 
-### The Map of Tiny Perfect Things
-*Released on 2021-02-12, vote average 7.3*
+  
 
-The film follows a teenager contentedly living the same day in an endless loop who gets his world turned upside-down when he meets a girl who’s also stuck in the time warp. What follows is a love story with a fantastical twist, as the two struggle to figure out how – and whether – to escape their never-ending day.
+
+	
+
+  
+
+
+	
+	
+
+### Marvel&#39;s Behind the Mask
+*Released on 2021-02-12, vote average 6*
+
+From the very inception of comic books, secret identities have been an integral part of both Super Heroes and Villains leading “normal” lives. But it’s the characters beneath that resonate within us across generations of fans. Since the advent of the Marvel Age of Comics in the early 1960s, Marvel’s writers and artists have used the notion of identities to examine the evolving concept of equal rights. These legendary Marvel creations and stories have not only reflected the world outside our window – they have become a reflection of our own identities and who we truly are.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xKN3Ksw84Tw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Red Dot
-*Released on 2021-02-11, vote average 6.5*
-
-On a hiking trip to rekindle their marriage, a couple find themselves fleeing for their lives in the unforgiving wilderness from an unknown shooter.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EHARitHyWKc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Squared Love
-*Released on 2021-02-11, vote average 5.8*
-
-A celebrity journalist and renowned womanizer starts to rethink his life choices after he falls for a mysterious model who leads a double life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zF9YIYc0d7w?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Misadventures of Hedi and Cokeman
-*Released on 2021-02-10, vote average 4.8*
-
-In Paris, two dysfunctional dealers use family ties to try to boost their small drug business in this crass comedy based on the webseries.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/lYxPbV_RtTI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ZZKzPblr1lc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -400,44 +400,57 @@ In Paris, two dysfunctional dealers use family ties to try to boost their small 
 	
 
 	
-
 	
 
-	
+### Faceless
+*Released on 2021-02-16, vote average 1*
 
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	
-
-### A Romance Wedding
-*Released on 2021-02-16, vote average 8*
-
-Zoe Davis is a successful and highly driven wedding planner in the big city. When her father asks her for help at the family café shop, she happily drives back to her cozy hometown of Romance, Oregon. Little does she know her mom has already hired Will to help, an aspiring chef and coincidentally…Zoe’s childhood sweetheart! Tensions rise between Zoe and Will, but so does the chemistry. Will they settle their differences and find lost love along the way?
+After waking up disoriented and frightened in a hospital room, George discovers that he has received a full face transplant.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/D1NgfdqRUWA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/6LCr-tav_Gw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### The Mauritanian
+*Released on 2021-02-17, vote average 1*
+
+A detainee at the U.S military&#39;s Guantanamo Bay detention center is held without charges for over a decade and seeks help from a defense attorney for his release.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/7tmxxzZXLEM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
@@ -463,6 +476,10 @@ A court-appointed legal guardian defrauds her older clients and traps them under
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
 	
 
 	
