@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Space Sweepers
-*Released on 2021-02-05, vote average 7.4*
+*Released on 2021-02-05, vote average 7.3*
 
 When the crew of a space junk collector ship called The Victory discovers a humanoid robot named Dorothy that&#39;s known to be a weapon of mass destruction, they get involved in a risky business deal which puts their lives at stake.
 
@@ -47,7 +47,7 @@ When the crew of a space junk collector ship called The Victory discovers a huma
 	
 
 ### Bliss
-*Released on 2021-02-05, vote average 5.6*
+*Released on 2021-02-05, vote average 5.5*
 
 A mind-bending love story following Greg who, after recently being divorced and then fired, meets the mysterious Isabel, a woman living on the streets and convinced that the polluted, broken world around them is just a computer simulation. Doubtful at first, Greg eventually discovers there may be some truth to Isabel’s wild conspiracy.
 
@@ -78,28 +78,6 @@ In 1950s Italy, a farmer&#39;s dream of improving workers’ living conditions c
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/IhnKWwPcgN4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Tom &amp; Jerry
-*Released on 2021-02-11, vote average 5*
-
-Tom the cat and Jerry the mouse get kicked out of their home and relocate to a fancy New York hotel, where a scrappy employee named Kayla will lose her job if she can&#39;t evict Jerry before a high-class wedding at the hotel. Her solution? Hiring Tom to get rid of the pesky mouse.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kP9TfCWaQT4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -156,6 +134,28 @@ Senior year of high school takes center stage as Lara Jean returns from a family
 	
 	
 
+### Tom &amp; Jerry
+*Released on 2021-02-11, vote average 3.7*
+
+Tom the cat and Jerry the mouse get kicked out of their home and relocate to a fancy New York hotel, where a scrappy employee named Kayla will lose her job if she can&#39;t evict Jerry before a high-class wedding at the hotel. Her solution? Hiring Tom to get rid of the pesky mouse.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kP9TfCWaQT4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Strip Down, Rise Up
 *Released on 2021-02-05, vote average 6.6*
 
@@ -179,7 +179,7 @@ The feature documentary follows women of all walks of life, all ages and ethnic 
 	
 
 ### Judas and the Black Messiah
-*Released on 2021-02-12, vote average 7.7*
+*Released on 2021-02-12, vote average 7.6*
 
 Bill O&#39;Neal infiltrates the Black Panthers per FBI Agent Mitchell and J. Edgar Hoover. As Black Panther Chairman Fred Hampton ascends, falling for a fellow revolutionary en route, a battle wages for O’Neal’s soul.
 
@@ -201,7 +201,7 @@ Bill O&#39;Neal infiltrates the Black Panthers per FBI Agent Mitchell and J. Edg
 	
 
 ### Willy&#39;s Wonderland
-*Released on 2021-02-12, vote average 6.8*
+*Released on 2021-02-12, vote average 6.9*
 
 When his car breaks down, a quiet loner agrees to clean an abandoned family fun center in exchange for repairs. He soon finds himself waging war against possessed animatronic mascots while trapped inside Willy&#39;s Wonderland.
 
@@ -223,7 +223,7 @@ When his car breaks down, a quiet loner agrees to clean an abandoned family fun 
 	
 
 ### The Map of Tiny Perfect Things
-*Released on 2021-02-12, vote average 7.2*
+*Released on 2021-02-12, vote average 7.3*
 
 The film tells the story of quick-witted teen Mark, contentedly living the same day in an endless loop whose world is turned upside-down when he meets mysterious Margaret also stuck in the time loop. Mark and Margaret form a magnetic partnership, setting out to find all the tiny things that make that one day perfect. What follows is a love story with a fantastical twist, as the two struggle to figure out how -- and whether -- to escape their never-ending day.
 
@@ -232,6 +232,50 @@ The film tells the story of quick-witted teen Mark, contentedly living the same 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/xKN3Ksw84Tw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Red Dot
+*Released on 2021-02-11, vote average 6.2*
+
+On a hiking trip to rekindle their marriage, a couple find themselves fleeing for their lives in the unforgiving wilderness from an unknown shooter.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EHARitHyWKc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Squared Love
+*Released on 2021-02-11, vote average 6.1*
+
+A celebrity journalist and renowned womanizer starts to rethink his life choices after he falls for a mysterious model who leads a double life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zF9YIYc0d7w?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -266,74 +310,8 @@ Explores the meaning of fame and influence in the digital age through an innovat
 	
 	
 
-### Fear of Rain
-*Released on 2021-02-12, vote average 6.8*
-
-A teenage girl living with schizophrenia begins to suspect her neighbor has kidnapped a child. Her parents try desperately to help her live a normal life, without exposing their own tragic secrets, and the only person who believes her is Caleb – a boy she isn’t even sure exists.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kUPf2z9KMmo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Red Dot
-*Released on 2021-02-11, vote average 6.3*
-
-On a hiking trip to rekindle their marriage, a couple find themselves fleeing for their lives in the unforgiving wilderness from an unknown shooter.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EHARitHyWKc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Squared Love
-*Released on 2021-02-11, vote average 5.7*
-
-A celebrity journalist and renowned womanizer starts to rethink his life choices after he falls for a mysterious model who leads a double life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zF9YIYc0d7w?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Barb and Star Go to Vista Del Mar
-*Released on 2021-02-12, vote average 10*
+*Released on 2021-02-12, vote average 7.6*
 
 The story of best friends Barb and Star, who leave their small midwestern town for the first time to go on vacation in Vista Del Mar, Florida, where they soon find themselves tangled up in adventure, love, and a villain’s evil plot to kill everyone in town.
 
@@ -352,33 +330,72 @@ The story of best friends Barb and Star, who leave their small midwestern town f
 
 
 	
-
-  
-
-
 	
 
-  
+### Fear of Rain
+*Released on 2021-02-12, vote average 7*
 
-
-	
-
-  
-
-
-	
-	
-
-### Marvel&#39;s Behind the Mask
-*Released on 2021-02-12, vote average 6*
-
-From the very inception of comic books, secret identities have been an integral part of both Super Heroes and Villains leading “normal” lives. But it’s the characters beneath that resonate within us across generations of fans. Since the advent of the Marvel Age of Comics in the early 1960s, Marvel’s writers and artists have used the notion of identities to examine the evolving concept of equal rights. These legendary Marvel creations and stories have not only reflected the world outside our window – they have become a reflection of our own identities and who we truly are.
+A teenage girl living with schizophrenia begins to suspect her neighbor has kidnapped a child. Her parents try desperately to help her live a normal life, without exposing their own tragic secrets, and the only person who believes her is Caleb – a boy she isn’t even sure exists.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ZZKzPblr1lc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/kUPf2z9KMmo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Faceless
+*Released on 2021-02-16, vote average 1*
+
+After waking up disoriented and frightened in a hospital room, George discovers that he has received a full face transplant.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6LCr-tav_Gw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Minari
+*Released on 2021-02-12, vote average 8*
+
+A Korean-American family moves to Arkansas in search of their own American Dream. With the arrival of their sly, foul-mouthed, but incredibly loving grandmother, the stability of their relationships is challenged even more in this new life in the rugged Ozarks, testing the undeniable resilience of family and what really makes a home.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KQ0gFidlro8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -396,8 +413,6 @@ From the very inception of comic books, secret identities have been an integral 
 
 ## Opening soon
 
-
-	
 
 	
 	
@@ -463,7 +478,7 @@ A detainee at the U.S military&#39;s Guantanamo Bay detention center is held wit
 	
 
 ### I Care a Lot
-*Released on 2021-02-19, vote average 1*
+*Released on 2021-02-19, vote average 4.5*
 
 A court-appointed legal guardian defrauds her older clients and traps them under her care. But her latest mark comes with some unexpected baggage.
 
@@ -476,6 +491,8 @@ A court-appointed legal guardian defrauds her older clients and traps them under
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
