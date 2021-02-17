@@ -68,16 +68,16 @@ A mind-bending love story following Greg who, after recently being divorced and 
 	
 	
 
-### The Last Paradiso
-*Released on 2021-02-05, vote average 6.2*
+### To All the Boys: Always and Forever
+*Released on 2021-02-12, vote average 8.1*
 
-In 1950s Italy, a farmer&#39;s dream of improving workers’ living conditions collapses when he falls for a landowner&#39;s daughter. Based on true events.
+Senior year of high school takes center stage as Lara Jean returns from a family trip to Korea and considers her college plans — with and without Peter.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/IhnKWwPcgN4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/2jPdejek5QA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,16 +112,16 @@ Sara, a novelist struggling with writer&#39;s block, needs inspiration — and f
 	
 	
 
-### To All the Boys: Always and Forever
-*Released on 2021-02-12, vote average 8.2*
+### The Last Paradiso
+*Released on 2021-02-05, vote average 6.3*
 
-Senior year of high school takes center stage as Lara Jean returns from a family trip to Korea and considers her college plans — with and without Peter.
+In 1950s Italy, a farmer&#39;s dream of improving workers’ living conditions collapses when he falls for a landowner&#39;s daughter. Based on true events.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/2jPdejek5QA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/IhnKWwPcgN4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -135,7 +135,7 @@ Senior year of high school takes center stage as Lara Jean returns from a family
 	
 
 ### Tom &amp; Jerry
-*Released on 2021-02-11, vote average 3.7*
+*Released on 2021-02-11, vote average 4.7*
 
 Tom the cat and Jerry the mouse get kicked out of their home and relocate to a fancy New York hotel, where a scrappy employee named Kayla will lose her job if she can&#39;t evict Jerry before a high-class wedding at the hotel. Her solution? Hiring Tom to get rid of the pesky mouse.
 
@@ -144,94 +144,6 @@ Tom the cat and Jerry the mouse get kicked out of their home and relocate to a f
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/kP9TfCWaQT4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Strip Down, Rise Up
-*Released on 2021-02-05, vote average 6.6*
-
-The feature documentary follows women of all walks of life, all ages and ethnic backgrounds, as they shed trauma, body image shame, sexual abuse and other issues locked in their bodies, and embark on a journey to reclaim themselves. The film also gives a rare window into the world of Pole artistry and expression.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0MMXqjMe1WQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Judas and the Black Messiah
-*Released on 2021-02-12, vote average 7.6*
-
-Bill O&#39;Neal infiltrates the Black Panthers per FBI Agent Mitchell and J. Edgar Hoover. As Black Panther Chairman Fred Hampton ascends, falling for a fellow revolutionary en route, a battle wages for O’Neal’s soul.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/sSjtGqRXQ9Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Willy&#39;s Wonderland
-*Released on 2021-02-12, vote average 6.9*
-
-When his car breaks down, a quiet loner agrees to clean an abandoned family fun center in exchange for repairs. He soon finds himself waging war against possessed animatronic mascots while trapped inside Willy&#39;s Wonderland.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Gfh8_X3sH5s?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Map of Tiny Perfect Things
-*Released on 2021-02-12, vote average 7.3*
-
-The film tells the story of quick-witted teen Mark, contentedly living the same day in an endless loop whose world is turned upside-down when he meets mysterious Margaret also stuck in the time loop. Mark and Margaret form a magnetic partnership, setting out to find all the tiny things that make that one day perfect. What follows is a love story with a fantastical twist, as the two struggle to figure out how -- and whether -- to escape their never-ending day.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xKN3Ksw84Tw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -266,8 +178,52 @@ On a hiking trip to rekindle their marriage, a couple find themselves fleeing fo
 	
 	
 
+### Strip Down, Rise Up
+*Released on 2021-02-05, vote average 6.6*
+
+The feature documentary follows women of all walks of life, all ages and ethnic backgrounds, as they shed trauma, body image shame, sexual abuse and other issues locked in their bodies, and embark on a journey to reclaim themselves. The film also gives a rare window into the world of Pole artistry and expression.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0MMXqjMe1WQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Willy&#39;s Wonderland
+*Released on 2021-02-12, vote average 6.6*
+
+When his car breaks down, a quiet loner agrees to clean an abandoned family fun center in exchange for repairs. He soon finds himself waging war against possessed animatronic mascots while trapped inside Willy&#39;s Wonderland.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Gfh8_X3sH5s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Squared Love
-*Released on 2021-02-11, vote average 6.1*
+*Released on 2021-02-11, vote average 6.3*
 
 A celebrity journalist and renowned womanizer starts to rethink his life choices after he falls for a mysterious model who leads a double life.
 
@@ -288,16 +244,16 @@ A celebrity journalist and renowned womanizer starts to rethink his life choices
 	
 	
 
-### Fake Famous
-*Released on 2021-02-02, vote average 8.8*
+### Judas and the Black Messiah
+*Released on 2021-02-12, vote average 7.7*
 
-Explores the meaning of fame and influence in the digital age through an innovative social experiment. Following three Los Angeles-based people with relatively small followings, the film explores the attempts made to turn them into famous influencers by purchasing fake followers and bots to “engage” with their social media accounts.
+Bill O&#39;Neal infiltrates the Black Panthers per FBI Agent Mitchell and J. Edgar Hoover. As Black Panther Chairman Fred Hampton ascends, falling for a fellow revolutionary en route, a battle wages for O’Neal’s soul.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/2B7m-ARHz0c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/sSjtGqRXQ9Y?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -310,16 +266,16 @@ Explores the meaning of fame and influence in the digital age through an innovat
 	
 	
 
-### Barb and Star Go to Vista Del Mar
-*Released on 2021-02-12, vote average 7.6*
+### The Map of Tiny Perfect Things
+*Released on 2021-02-12, vote average 7.3*
 
-The story of best friends Barb and Star, who leave their small midwestern town for the first time to go on vacation in Vista Del Mar, Florida, where they soon find themselves tangled up in adventure, love, and a villain’s evil plot to kill everyone in town.
+The film tells the story of quick-witted teen Mark, contentedly living the same day in an endless loop whose world is turned upside-down when he meets mysterious Margaret also stuck in the time loop. Mark and Margaret form a magnetic partnership, setting out to find all the tiny things that make that one day perfect. What follows is a love story with a fantastical twist, as the two struggle to figure out how -- and whether -- to escape their never-ending day.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/gRqLfgNDIzU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xKN3Ksw84Tw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -333,7 +289,7 @@ The story of best friends Barb and Star, who leave their small midwestern town f
 	
 
 ### Fear of Rain
-*Released on 2021-02-12, vote average 7*
+*Released on 2021-02-12, vote average 7.4*
 
 A teenage girl living with schizophrenia begins to suspect her neighbor has kidnapped a child. Her parents try desperately to help her live a normal life, without exposing their own tragic secrets, and the only person who believes her is Caleb – a boy she isn’t even sure exists.
 
@@ -357,6 +313,23 @@ A teenage girl living with schizophrenia begins to suspect her neighbor has kidn
 
 
 	
+	
+
+### Barb and Star Go to Vista Del Mar
+*Released on 2021-02-12, vote average 6.5*
+
+The story of best friends Barb and Star, who leave their small midwestern town for the first time to go on vacation in Vista Del Mar, Florida, where they soon find themselves tangled up in adventure, love, and a villain’s evil plot to kill everyone in town.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/gRqLfgNDIzU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -365,7 +338,7 @@ A teenage girl living with schizophrenia begins to suspect her neighbor has kidn
 	
 
 ### Faceless
-*Released on 2021-02-16, vote average 1*
+*Released on 2021-02-16, vote average 4*
 
 After waking up disoriented and frightened in a hospital room, George discovers that he has received a full face transplant.
 
@@ -386,16 +359,16 @@ After waking up disoriented and frightened in a hospital room, George discovers 
 	
 	
 
-### Minari
-*Released on 2021-02-12, vote average 8*
+### Breaking News in Yuba County
+*Released on 2021-02-12, vote average 5.3*
 
-A Korean-American family moves to Arkansas in search of their own American Dream. With the arrival of their sly, foul-mouthed, but incredibly loving grandmother, the stability of their relationships is challenged even more in this new life in the rugged Ozarks, testing the undeniable resilience of family and what really makes a home.
+An overlooked pencil-pusher catches her husband in bed with another woman, the shock of which causes him to die of a heart attack. So she buries his body and takes advantage of the growing celebrity status that comes from having a missing husband. But she quickly finds herself in over her head, dodging cops and criminals, all while trying to keep the truth from her sister, a local news anchor who’s desperate for a story.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/KQ0gFidlro8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ENv0B-jX3O4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -405,6 +378,50 @@ A Korean-American family moves to Arkansas in search of their own American Dream
   
 
 
+	
+
+  
+
+
+	
+	
+
+### The Mauritanian
+*Released on 2021-02-17, vote average 4*
+
+A detainee at the U.S military&#39;s Guantanamo Bay detention center is held without charges for over a decade and seeks help from a defense attorney for his release.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/7tmxxzZXLEM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Marvel&#39;s Behind the Mask
+*Released on 2021-02-12, vote average 6.3*
+
+From the very inception of comic books, secret identities have been an integral part of both Super Heroes and Villains leading “normal” lives. But it’s the characters beneath that resonate within us across generations of fans. Since the advent of the Marvel Age of Comics in the early 1960s, Marvel’s writers and artists have used the notion of identities to examine the evolving concept of equal rights. These legendary Marvel creations and stories have not only reflected the world outside our window – they have become a reflection of our own identities and who we truly are.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZZKzPblr1lc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -417,16 +434,16 @@ A Korean-American family moves to Arkansas in search of their own American Dream
 	
 	
 
-### Faceless
-*Released on 2021-02-16, vote average 1*
+### Silk Road
+*Released on 2021-02-19, vote average 6.5*
 
-After waking up disoriented and frightened in a hospital room, George discovers that he has received a full face transplant.
+The true story of Ross Ulbricht, the charismatic young tech-mastermind who unleashed the darknet website Silk Road, and the corrupt DEA agent determined to bring down his billion-dollar empire.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/6LCr-tav_Gw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/LBOBuqBzn7w?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -434,16 +451,10 @@ After waking up disoriented and frightened in a hospital room, George discovers 
 	
 
 	
-
-	
-
-	
-
-	
 	
 
 ### The Mauritanian
-*Released on 2021-02-17, vote average 1*
+*Released on 2021-02-17, vote average 4*
 
 A detainee at the U.S military&#39;s Guantanamo Bay detention center is held without charges for over a decade and seeks help from a defense attorney for his release.
 
@@ -459,15 +470,22 @@ A detainee at the U.S military&#39;s Guantanamo Bay detention center is held wit
 	
 
 	
-
 	
 
-	
+### Boss Level
+*Released on 2021-02-19, vote average 8.3*
+
+A retired special forces officer is trapped in a never-ending time loop on the day of his death.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/CgZhk6uWGk4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-	
-
 	
 
 	
@@ -478,7 +496,7 @@ A detainee at the U.S military&#39;s Guantanamo Bay detention center is held wit
 	
 
 ### I Care a Lot
-*Released on 2021-02-19, vote average 4.5*
+*Released on 2021-02-19, vote average 5.8*
 
 A court-appointed legal guardian defrauds her older clients and traps them under her care. But her latest mark comes with some unexpected baggage.
 
@@ -493,6 +511,56 @@ A court-appointed legal guardian defrauds her older clients and traps them under
 	
 	
 
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Body Brokers
+*Released on 2021-02-19, vote average 2*
+
+Utah and his girlfriend Opal, are drug addicts living on the streets in rural Ohio. After getting recruited by body broker Wood, and offered treatment in Los Angeles, Wood takes Utah under his wing and introduces him to treatment center mogul Vin. Wood and Vin bring Utah in on their lucrative and illegal dealings, where saving lives comes second to the bottom line.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/j8T0GIpfxr0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+	
+
+### Tank Cleaner
+*Released on 2021-02-19, vote average 10*
+
+A young orphan boy working as a tank cleaner is trapped in a water tank by someone. He struggles for his life for four days in this tank full of water.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/R6K6jeyHCIY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
