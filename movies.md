@@ -112,8 +112,30 @@ Sara, a novelist struggling with writer&#39;s block, needs inspiration — and f
 	
 	
 
+### Red Dot
+*Released on 2021-02-11, vote average 6.2*
+
+On a hiking trip to rekindle their marriage, a couple find themselves fleeing for their lives in the unforgiving wilderness from an unknown shooter.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EHARitHyWKc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Tom &amp; Jerry
-*Released on 2021-02-11, vote average 4.7*
+*Released on 2021-02-11, vote average 5.1*
 
 Tom the cat and Jerry the mouse get kicked out of their home and relocate to a fancy New York hotel, where a scrappy employee named Kayla will lose her job if she can&#39;t evict Jerry before a high-class wedding at the hotel. Her solution? Hiring Tom to get rid of the pesky mouse.
 
@@ -122,6 +144,50 @@ Tom the cat and Jerry the mouse get kicked out of their home and relocate to a f
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/kP9TfCWaQT4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Squared Love
+*Released on 2021-02-11, vote average 6.3*
+
+A celebrity journalist and renowned womanizer starts to rethink his life choices after he falls for a mysterious model who leads a double life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zF9YIYc0d7w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Judas and the Black Messiah
+*Released on 2021-02-12, vote average 7.5*
+
+Bill O&#39;Neal infiltrates the Black Panthers per FBI Agent Mitchell and J. Edgar Hoover. As Black Panther Chairman Fred Hampton ascends, falling for a fellow revolutionary en route, a battle wages for O’Neal’s soul.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/sSjtGqRXQ9Y?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -156,72 +222,6 @@ In 1950s Italy, a farmer&#39;s dream of improving workers’ living conditions c
 	
 	
 
-### Red Dot
-*Released on 2021-02-11, vote average 6.2*
-
-On a hiking trip to rekindle their marriage, a couple find themselves fleeing for their lives in the unforgiving wilderness from an unknown shooter.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EHARitHyWKc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Squared Love
-*Released on 2021-02-11, vote average 6.2*
-
-A celebrity journalist and renowned womanizer starts to rethink his life choices after he falls for a mysterious model who leads a double life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zF9YIYc0d7w?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Judas and the Black Messiah
-*Released on 2021-02-12, vote average 7.7*
-
-Bill O&#39;Neal infiltrates the Black Panthers per FBI Agent Mitchell and J. Edgar Hoover. As Black Panther Chairman Fred Hampton ascends, falling for a fellow revolutionary en route, a battle wages for O’Neal’s soul.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/sSjtGqRXQ9Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Strip Down, Rise Up
 *Released on 2021-02-05, vote average 6.6*
 
@@ -244,8 +244,30 @@ The feature documentary follows women of all walks of life, all ages and ethnic 
 	
 	
 
+### Fear of Rain
+*Released on 2021-02-12, vote average 7.8*
+
+A teenage girl living with schizophrenia begins to suspect her neighbor has kidnapped a child. Her parents try desperately to help her live a normal life, without exposing their own tragic secrets, and the only person who believes her is Caleb – a boy she isn’t even sure exists.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kUPf2z9KMmo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Willy&#39;s Wonderland
-*Released on 2021-02-12, vote average 6.9*
+*Released on 2021-02-12, vote average 6.7*
 
 When his car breaks down, a quiet loner agrees to clean an abandoned family fun center in exchange for repairs. He soon finds himself waging war against possessed animatronic mascots while trapped inside Willy&#39;s Wonderland.
 
@@ -267,7 +289,7 @@ When his car breaks down, a quiet loner agrees to clean an abandoned family fun 
 	
 
 ### The Map of Tiny Perfect Things
-*Released on 2021-02-12, vote average 7.4*
+*Released on 2021-02-12, vote average 7.3*
 
 The film tells the story of quick-witted teen Mark, contentedly living the same day in an endless loop whose world is turned upside-down when he meets mysterious Margaret also stuck in the time loop. Mark and Margaret form a magnetic partnership, setting out to find all the tiny things that make that one day perfect. What follows is a love story with a fantastical twist, as the two struggle to figure out how -- and whether -- to escape their never-ending day.
 
@@ -288,16 +310,60 @@ The film tells the story of quick-witted teen Mark, contentedly living the same 
 	
 	
 
-### Fear of Rain
-*Released on 2021-02-12, vote average 7.4*
+### Marvel&#39;s Behind the Mask
+*Released on 2021-02-12, vote average 8.6*
 
-A teenage girl living with schizophrenia begins to suspect her neighbor has kidnapped a child. Her parents try desperately to help her live a normal life, without exposing their own tragic secrets, and the only person who believes her is Caleb – a boy she isn’t even sure exists.
+From the very inception of comic books, secret identities have been an integral part of both Super Heroes and Villains leading “normal” lives. But it’s the characters beneath that resonate within us across generations of fans. Since the advent of the Marvel Age of Comics in the early 1960s, Marvel’s writers and artists have used the notion of identities to examine the evolving concept of equal rights. These legendary Marvel creations and stories have not only reflected the world outside our window – they have become a reflection of our own identities and who we truly are.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/kUPf2z9KMmo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ZZKzPblr1lc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Silk Road
+*Released on 2021-02-19, vote average 7*
+
+The true story of Ross Ulbricht, the charismatic young tech-mastermind who unleashed the darknet website Silk Road, and the corrupt DEA agent determined to bring down his billion-dollar empire.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LBOBuqBzn7w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Boss Level
+*Released on 2021-02-19, vote average 7.7*
+
+A retired special forces officer is trapped in a never-ending time loop on the day of his death.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/CgZhk6uWGk4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -311,7 +377,7 @@ A teenage girl living with schizophrenia begins to suspect her neighbor has kidn
 	
 
 ### The Mauritanian
-*Released on 2021-02-17, vote average 4*
+*Released on 2021-02-17, vote average 4.7*
 
 A detainee at the U.S military&#39;s Guantanamo Bay detention center is held without charges for over a decade and seeks help from a defense attorney for his release.
 
@@ -332,16 +398,16 @@ A detainee at the U.S military&#39;s Guantanamo Bay detention center is held wit
 	
 	
 
-### Marvel&#39;s Behind the Mask
-*Released on 2021-02-12, vote average 6.3*
+### Saint Maud
+*Released on 2021-02-12, vote average 7*
 
-From the very inception of comic books, secret identities have been an integral part of both Super Heroes and Villains leading “normal” lives. But it’s the characters beneath that resonate within us across generations of fans. Since the advent of the Marvel Age of Comics in the early 1960s, Marvel’s writers and artists have used the notion of identities to examine the evolving concept of equal rights. These legendary Marvel creations and stories have not only reflected the world outside our window – they have become a reflection of our own identities and who we truly are.
+Having recently found God, self-effacing young nurse Maud arrives at a plush home to care for Amanda, a hedonistic dancer left frail from a chronic illness. When a chance encounter with a former colleague throws up hints of a dark past, it becomes clear there is more to sweet Maud than meets the eye.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ZZKzPblr1lc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/EXs2-TY9qok?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -351,55 +417,6 @@ From the very inception of comic books, secret identities have been an integral 
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Faceless
-*Released on 2021-02-16, vote average 4*
-
-After waking up disoriented and frightened in a hospital room, George discovers that he has received a full face transplant.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/6LCr-tav_Gw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Breaking News in Yuba County
-*Released on 2021-02-12, vote average 5.3*
-
-An overlooked pencil-pusher catches her husband in bed with another woman, the shock of which causes him to die of a heart attack. So she buries his body and takes advantage of the growing celebrity status that comes from having a missing husband. But she quickly finds herself in over her head, dodging cops and criminals, all while trying to keep the truth from her sister, a local news anchor who’s desperate for a story.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ENv0B-jX3O4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -418,7 +435,7 @@ An overlooked pencil-pusher catches her husband in bed with another woman, the s
 	
 
 ### Silk Road
-*Released on 2021-02-19, vote average 6.5*
+*Released on 2021-02-19, vote average 7*
 
 The true story of Ross Ulbricht, the charismatic young tech-mastermind who unleashed the darknet website Silk Road, and the corrupt DEA agent determined to bring down his billion-dollar empire.
 
@@ -437,7 +454,7 @@ The true story of Ross Ulbricht, the charismatic young tech-mastermind who unlea
 	
 
 ### Boss Level
-*Released on 2021-02-19, vote average 7.6*
+*Released on 2021-02-19, vote average 7.7*
 
 A retired special forces officer is trapped in a never-ending time loop on the day of his death.
 
@@ -455,16 +472,10 @@ A retired special forces officer is trapped in a never-ending time loop on the d
 	
 
 	
-
-	
-
-	
-
-	
 	
 
 ### I Care a Lot
-*Released on 2021-02-19, vote average 6.4*
+*Released on 2021-02-19, vote average 6.2*
 
 A court-appointed legal guardian defrauds her older clients and traps them under her care. But her latest mark comes with some unexpected baggage.
 
@@ -480,9 +491,22 @@ A court-appointed legal guardian defrauds her older clients and traps them under
 	
 
 	
-
 	
 
+### Burn It All
+*Released on 2021-02-19, vote average 6*
+
+With a history of men dominating her fate, a broken woman returns to her hometown to bury her mother only to find a violent organ smuggling ring already has the body and wants no witnesses, but by trying to extinguish her they spark an inferno.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/huTb-hRJUv8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -528,8 +552,6 @@ A young orphan boy working as a tank cleaner is trapped in a water tank by someo
 	
 
 	
-
-	
 	
 
 ### Take Me to Tarzana
@@ -546,6 +568,18 @@ After learning their company has been illicitly spying, collecting and selling d
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
