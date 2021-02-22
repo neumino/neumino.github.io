@@ -68,28 +68,6 @@ On a hiking trip to rekindle their marriage, a couple find themselves fleeing fo
 	
 	
 
-### Tom &amp; Jerry
-*Released on 2021-02-11, vote average 5.8*
-
-Tom the cat and Jerry the mouse get kicked out of their home and relocate to a fancy New York hotel, where a scrappy employee named Kayla will lose her job if she can&#39;t evict Jerry before a high-class wedding at the hotel. Her solution? Hiring Tom to get rid of the pesky mouse.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kP9TfCWaQT4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Squared Love
 *Released on 2021-02-11, vote average 6.4*
 
@@ -113,7 +91,7 @@ A celebrity journalist and renowned womanizer starts to rethink his life choices
 	
 
 ### Judas and the Black Messiah
-*Released on 2021-02-12, vote average 7.6*
+*Released on 2021-02-12, vote average 7.5*
 
 Bill O&#39;Neal infiltrates the Black Panthers per FBI Agent Mitchell and J. Edgar Hoover. As Black Panther Chairman Fred Hampton ascends, falling for a fellow revolutionary en route, a battle wages for O’Neal’s soul.
 
@@ -135,7 +113,7 @@ Bill O&#39;Neal infiltrates the Black Panthers per FBI Agent Mitchell and J. Edg
 	
 
 ### Fear of Rain
-*Released on 2021-02-12, vote average 7.8*
+*Released on 2021-02-12, vote average 7.7*
 
 A teenage girl living with schizophrenia begins to suspect her neighbor has kidnapped a child. Her parents try desperately to help her live a normal life, without exposing their own tragic secrets, and the only person who believes her is Caleb – a boy she isn’t even sure exists.
 
@@ -157,9 +135,9 @@ A teenage girl living with schizophrenia begins to suspect her neighbor has kidn
 	
 
 ### Marvel&#39;s Behind the Mask
-*Released on 2021-02-12, vote average 8.7*
+*Released on 2021-02-12, vote average 8.3*
 
-From the very inception of comic books, secret identities have been an integral part of both Super Heroes and Villains leading “normal” lives. But it’s the characters beneath that resonate within us across generations of fans. Since the advent of the Marvel Age of Comics in the early 1960s, Marvel’s writers and artists have used the notion of identities to examine the evolving concept of equal rights. These legendary Marvel creations and stories have not only reflected the world outside our window – they have become a reflection of our own identities and who we truly are.
+A documentary special that explores the power of identity behind the iconic superheroes we know and love today. These legendary Marvel creations and stories have not only reflected the world outside our window – they have become a reflection of our own identities and who we truly are.
 
 <iframe id="player"
 	type="text/html"
@@ -177,9 +155,16 @@ From the very inception of comic books, secret identities have been an integral 
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Willy&#39;s Wonderland
-*Released on 2021-02-12, vote average 6.8*
+*Released on 2021-02-12, vote average 6.7*
 
 When his car breaks down, a quiet loner agrees to clean an abandoned family fun center in exchange for repairs. He soon finds himself waging war against possessed animatronic mascots while trapped inside Willy&#39;s Wonderland.
 
@@ -199,46 +184,17 @@ When his car breaks down, a quiet loner agrees to clean an abandoned family fun 
 
 	
 	
-	
 
-  
+### Flora &amp; Ulysses
+*Released on 2021-02-19, vote average 5.8*
 
-
-	
-	
-
-### Silk Road
-*Released on 2021-02-19, vote average 8*
-
-The true story of Ross Ulbricht, the charismatic young tech-mastermind who unleashed the darknet website Silk Road, and the corrupt DEA agent determined to bring down his billion-dollar empire.
+When Flora rescues a squirrel she names Ulysses, she is amazed to discover he possesses unique superhero powers, which take them on an adventure of humorous complications that ultimately change Flora&#39;s life--and her outlook--forever.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/LBOBuqBzn7w?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### I Care a Lot
-*Released on 2021-02-19, vote average 7*
-
-A court-appointed legal guardian defrauds her older clients and traps them under her care. But her latest mark comes with some unexpected baggage.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/D40uHmTSPew?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/05F8MmsiLQs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -295,6 +251,33 @@ With a history of men dominating her fate, a broken woman returns to her hometow
 	
 	
 
+### Silk Road
+*Released on 2021-02-19, vote average 8*
+
+The true story of Ross Ulbricht, the charismatic young tech-mastermind who unleashed the darknet website Silk Road, and the corrupt DEA agent determined to bring down his billion-dollar empire.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LBOBuqBzn7w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### Body Brokers
 *Released on 2021-02-19, vote average 4.5*
 
@@ -309,6 +292,11 @@ Utah and his girlfriend Opal, are drug addicts living on the streets in rural Oh
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -339,8 +327,37 @@ A retired special forces officer is trapped in a never-ending time loop on the d
 	
 	
 
-### SHOOK
-*Released on 2021-02-18, vote average 4*
+### Chronicle Mysteries: Helped to Death
+*Released on 2021-02-21, vote average 8.5*
+
+Alex and Drew investigate a self help retreat and the controversial life coach who oversees it.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mu_Smy0n_bU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Shook
+*Released on 2021-02-18, vote average 5*
 
 When Mia, a social media star, becomes the target of an online terror campaign, she has to solve a series of games to prevent people she cares about from getting murdered.
 
@@ -359,37 +376,22 @@ When Mia, a social media star, becomes the target of an online terror campaign, 
 
 
 	
-
-  
-
-
-	
 	
 
-### Take Me to Tarzana
-*Released on 2021-02-19, vote average 8*
+### Black Art: In the Absence of Light
+*Released on 2021-02-09, vote average 8*
 
-After learning their company has been illicitly spying, collecting and selling data on them, three millennial friends band together to fight back against a lecherous boss and the company&#39;s maniacal, Tarzan-obsessed CEO.
+An introduction to the work of some of the foremost Black visual artists working today, inspired by the late David Driskell&#39;s landmark 1976 exhibition, &#34;Two Centuries of Black American Art.&#34;
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/YcAbfja3Q8k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/okH5n9CZbx0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -400,24 +402,39 @@ After learning their company has been illicitly spying, collecting and selling d
 
 
 	
-
 	
 
-	
+### Tom &amp; Jerry
+*Released on 2021-02-26, vote average 6*
 
-	
-	
-
-### Chronicle Mysteries: Helped to Death
-*Released on 2021-02-21, vote average 8.5*
-
-Alex and Drew investigate a self help retreat and the controversial life coach who oversees it.
+Tom the cat and Jerry the mouse get kicked out of their home and relocate to a fancy New York hotel, where a scrappy employee named Kayla will lose her job if she can&#39;t evict Jerry before a high-class wedding at the hotel. Her solution? Hiring Tom to get rid of the pesky mouse.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/mu_Smy0n_bU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/kP9TfCWaQT4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+	
+
+### Chaos Walking
+*Released on 2021-02-24, vote average 10*
+
+Two unlikely companions embark on a perilous adventure through the badlands of an unexplored planet as they try to escape a dangerous and disorienting reality, where all inner thoughts are seen and heard by everyone.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nRf4ZgzHoVw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -429,10 +446,12 @@ Alex and Drew investigate a self help retreat and the controversial life coach w
 	
 
 	
+
+	
 	
 
 ### Locked Down
-*Released on 2021-02-25, vote average 10*
+*Released on 2021-02-25, vote average 8*
 
 During a COVID-19 lockdown, sparring couple Linda and Paxton call a truce to attempt a high-risk jewellery heist at one of the world’s most exclusive department stores, Harrods.
 
