@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### To All the Boys: Always and Forever
-*Released on 2021-02-12, vote average 8.1*
+### Red Dot
+*Released on 2021-02-11, vote average 6.2*
 
-Senior year of high school takes center stage as Lara Jean returns from a family trip to Korea and considers her college plans — with and without Peter.
+On a hiking trip to rekindle their marriage, a couple find themselves fleeing for their lives in the unforgiving wilderness from an unknown shooter.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/2jPdejek5QA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/EHARitHyWKc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,60 +46,16 @@ Senior year of high school takes center stage as Lara Jean returns from a family
 	
 	
 
-### Red Dot
-*Released on 2021-02-11, vote average 6.2*
+### To All the Boys: Always and Forever
+*Released on 2021-02-12, vote average 8*
 
-On a hiking trip to rekindle their marriage, a couple find themselves fleeing for their lives in the unforgiving wilderness from an unknown shooter.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EHARitHyWKc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Squared Love
-*Released on 2021-02-11, vote average 6.4*
-
-A celebrity journalist and renowned womanizer starts to rethink his life choices after he falls for a mysterious model who leads a double life.
+Senior year of high school takes center stage as Lara Jean returns from a family trip to Korea and considers her college plans — with and without Peter.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/zF9YIYc0d7w?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Judas and the Black Messiah
-*Released on 2021-02-12, vote average 7.5*
-
-Bill O&#39;Neal infiltrates the Black Panthers per FBI Agent Mitchell and J. Edgar Hoover. As Black Panther Chairman Fred Hampton ascends, falling for a fellow revolutionary en route, a battle wages for O’Neal’s soul.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/sSjtGqRXQ9Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/2jPdejek5QA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -122,6 +78,50 @@ A teenage girl living with schizophrenia begins to suspect her neighbor has kidn
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/kUPf2z9KMmo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Squared Love
+*Released on 2021-02-11, vote average 6.3*
+
+A celebrity journalist and renowned womanizer starts to rethink his life choices after he falls for a mysterious model who leads a double life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zF9YIYc0d7w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Judas and the Black Messiah
+*Released on 2021-02-12, vote average 7.6*
+
+Bill O&#39;Neal infiltrates the Black Panthers per FBI Agent Mitchell and J. Edgar Hoover. As Black Panther Chairman Fred Hampton ascends, falling for a fellow revolutionary en route, a battle wages for O’Neal’s soul.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/sSjtGqRXQ9Y?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -186,7 +186,7 @@ When his car breaks down, a quiet loner agrees to clean an abandoned family fun 
 	
 
 ### Flora &amp; Ulysses
-*Released on 2021-02-19, vote average 5.8*
+*Released on 2021-02-19, vote average 6.2*
 
 When Flora rescues a squirrel she names Ulysses, she is amazed to discover he possesses unique superhero powers, which take them on an adventure of humorous complications that ultimately change Flora&#39;s life--and her outlook--forever.
 
@@ -195,6 +195,50 @@ When Flora rescues a squirrel she names Ulysses, she is amazed to discover he po
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/05F8MmsiLQs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Scooby-Doo! The Sword and the Scoob
+*Released on 2021-02-22, vote average 6*
+
+An evil sorceress transports the gang back to the age of chivalrous knights, spell-casting wizards, and fire-breathing dragons.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vwIR62tKISM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Silk Road
+*Released on 2021-02-19, vote average 7.4*
+
+The true story of Ross Ulbricht, the charismatic young tech-mastermind who unleashed the darknet website Silk Road, and the corrupt DEA agent determined to bring down his billion-dollar empire.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LBOBuqBzn7w?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -229,6 +273,38 @@ The film tells the story of quick-witted teen Mark, contentedly living the same 
 	
 	
 
+### Black Art: In the Absence of Light
+*Released on 2021-02-09, vote average 8*
+
+An introduction to the work of some of the foremost Black visual artists working today, inspired by the late David Driskell&#39;s landmark 1976 exhibition, &#34;Two Centuries of Black American Art.&#34;
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/okH5n9CZbx0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### Burn It All
 *Released on 2021-02-19, vote average 6.3*
 
@@ -249,75 +325,6 @@ With a history of men dominating her fate, a broken woman returns to her hometow
 
 
 	
-	
-
-### Silk Road
-*Released on 2021-02-19, vote average 8*
-
-The true story of Ross Ulbricht, the charismatic young tech-mastermind who unleashed the darknet website Silk Road, and the corrupt DEA agent determined to bring down his billion-dollar empire.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LBOBuqBzn7w?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Body Brokers
-*Released on 2021-02-19, vote average 4.5*
-
-Utah and his girlfriend Opal, are drug addicts living on the streets in rural Ohio. After getting recruited by body broker Wood, and offered treatment in Los Angeles, Wood takes Utah under his wing and introduces him to treatment center mogul Vin. Wood and Vin bring Utah in on their lucrative and illegal dealings, where saving lives comes second to the bottom line.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/j8T0GIpfxr0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Boss Level
-*Released on 2021-02-19, vote average 7.3*
-
-A retired special forces officer is trapped in a never-ending time loop on the day of his death.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/CgZhk6uWGk4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -348,24 +355,17 @@ Alex and Drew investigate a self help retreat and the controversial life coach w
 
 	
 	
-	
 
-  
+### Boss Level
+*Released on 2021-02-19, vote average 7.5*
 
-
-	
-	
-
-### Shook
-*Released on 2021-02-18, vote average 5*
-
-When Mia, a social media star, becomes the target of an online terror campaign, she has to solve a series of games to prevent people she cares about from getting murdered.
+A retired special forces officer is trapped in a never-ending time loop on the day of his death.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/k6mpX9QEb9E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/CgZhk6uWGk4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -378,16 +378,16 @@ When Mia, a social media star, becomes the target of an online terror campaign, 
 	
 	
 
-### Black Art: In the Absence of Light
-*Released on 2021-02-09, vote average 8*
+### Body Brokers
+*Released on 2021-02-19, vote average 5.3*
 
-An introduction to the work of some of the foremost Black visual artists working today, inspired by the late David Driskell&#39;s landmark 1976 exhibition, &#34;Two Centuries of Black American Art.&#34;
+Utah and his girlfriend Opal, are drug addicts living on the streets in rural Ohio. After getting recruited by body broker Wood, and offered treatment in Los Angeles, Wood takes Utah under his wing and introduces him to treatment center mogul Vin. Wood and Vin bring Utah in on their lucrative and illegal dealings, where saving lives comes second to the bottom line.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/okH5n9CZbx0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/j8T0GIpfxr0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -400,25 +400,6 @@ An introduction to the work of some of the foremost Black visual artists working
 
 ## Opening soon
 
-
-	
-	
-
-### Tom &amp; Jerry
-*Released on 2021-02-26, vote average 6*
-
-Tom the cat and Jerry the mouse get kicked out of their home and relocate to a fancy New York hotel, where a scrappy employee named Kayla will lose her job if she can&#39;t evict Jerry before a high-class wedding at the hotel. Her solution? Hiring Tom to get rid of the pesky mouse.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kP9TfCWaQT4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
@@ -442,12 +423,6 @@ Two unlikely companions embark on a perilous adventure through the badlands of a
 	
 
 	
-
-	
-
-	
-
-	
 	
 
 ### Locked Down
@@ -464,6 +439,14 @@ During a COVID-19 lockdown, sparring couple Linda and Paxton call a truce to att
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
 	
 
 	
