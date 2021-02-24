@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Red Dot
-*Released on 2021-02-11, vote average 6.2*
+*Released on 2021-02-11, vote average 6.3*
 
 On a hiking trip to rekindle their marriage, a couple find themselves fleeing for their lives in the unforgiving wilderness from an unknown shooter.
 
@@ -69,7 +69,7 @@ Senior year of high school takes center stage as Lara Jean returns from a family
 	
 
 ### Fear of Rain
-*Released on 2021-02-12, vote average 7.7*
+*Released on 2021-02-12, vote average 7.5*
 
 A teenage girl living with schizophrenia begins to suspect her neighbor has kidnapped a child. Her parents try desperately to help her live a normal life, without exposing their own tragic secrets, and the only person who believes her is Caleb – a boy she isn’t even sure exists.
 
@@ -78,6 +78,28 @@ A teenage girl living with schizophrenia begins to suspect her neighbor has kidn
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/kUPf2z9KMmo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Tom &amp; Jerry
+*Released on 2021-02-12, vote average 7.7*
+
+Tom the cat and Jerry the mouse get kicked out of their home and relocate to a fancy New York hotel, where a scrappy employee named Kayla will lose her job if she can&#39;t evict Jerry before a high-class wedding at the hotel. Her solution? Hiring Tom to get rid of the pesky mouse.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kP9TfCWaQT4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -155,6 +177,50 @@ A documentary special that explores the power of identity behind the iconic supe
 
 	
 	
+
+### I Care a Lot
+*Released on 2021-02-19, vote average 7*
+
+A court-appointed legal guardian defrauds her older clients and traps them under her care. But her latest mark comes with some unexpected baggage.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/D40uHmTSPew?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Flora &amp; Ulysses
+*Released on 2021-02-19, vote average 7*
+
+When Flora rescues a squirrel she names Ulysses, she is amazed to discover he possesses unique superhero powers, which take them on an adventure of humorous complications that ultimately change Flora&#39;s life--and her outlook--forever.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/05F8MmsiLQs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -185,16 +251,16 @@ When his car breaks down, a quiet loner agrees to clean an abandoned family fun 
 	
 	
 
-### Flora &amp; Ulysses
-*Released on 2021-02-19, vote average 6.2*
+### Chaos Walking
+*Released on 2021-02-24, vote average 8.5*
 
-When Flora rescues a squirrel she names Ulysses, she is amazed to discover he possesses unique superhero powers, which take them on an adventure of humorous complications that ultimately change Flora&#39;s life--and her outlook--forever.
+Two unlikely companions embark on a perilous adventure through the badlands of an unexplored planet as they try to escape a dangerous and disorienting reality, where all inner thoughts are seen and heard by everyone.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/05F8MmsiLQs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/nRf4ZgzHoVw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -227,23 +293,6 @@ An evil sorceress transports the gang back to the age of chivalrous knights, spe
 
 
 	
-	
-
-### Silk Road
-*Released on 2021-02-19, vote average 7.4*
-
-The true story of Ross Ulbricht, the charismatic young tech-mastermind who unleashed the darknet website Silk Road, and the corrupt DEA agent determined to bring down his billion-dollar empire.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LBOBuqBzn7w?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -252,7 +301,7 @@ The true story of Ross Ulbricht, the charismatic young tech-mastermind who unlea
 	
 
 ### The Map of Tiny Perfect Things
-*Released on 2021-02-12, vote average 7.3*
+*Released on 2021-02-12, vote average 7.2*
 
 The film tells the story of quick-witted teen Mark, contentedly living the same day in an endless loop whose world is turned upside-down when he meets mysterious Margaret also stuck in the time loop. Mark and Margaret form a magnetic partnership, setting out to find all the tiny things that make that one day perfect. What follows is a love story with a fantastical twist, as the two struggle to figure out how -- and whether -- to escape their never-ending day.
 
@@ -273,58 +322,19 @@ The film tells the story of quick-witted teen Mark, contentedly living the same 
 	
 	
 
-### Black Art: In the Absence of Light
-*Released on 2021-02-09, vote average 8*
+### Silk Road
+*Released on 2021-02-19, vote average 6.9*
 
-An introduction to the work of some of the foremost Black visual artists working today, inspired by the late David Driskell&#39;s landmark 1976 exhibition, &#34;Two Centuries of Black American Art.&#34;
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/okH5n9CZbx0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Burn It All
-*Released on 2021-02-19, vote average 6.3*
-
-With a history of men dominating her fate, a broken woman returns to her hometown to bury her mother only to find a violent organ smuggling ring already has the body and wants no witnesses, but by trying to extinguish her they spark an inferno.
+The true story of Ross Ulbricht, the charismatic young tech-mastermind who unleashed the darknet website Silk Road, and the corrupt DEA agent determined to bring down his billion-dollar empire.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/huTb-hRJUv8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/LBOBuqBzn7w?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -354,44 +364,15 @@ Alex and Drew investigate a self help retreat and the controversial life coach w
 
 
 	
-	
-
-### Boss Level
-*Released on 2021-02-19, vote average 7.5*
-
-A retired special forces officer is trapped in a never-ending time loop on the day of his death.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/CgZhk6uWGk4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
 	
-	
 
-### Body Brokers
-*Released on 2021-02-19, vote average 5.3*
+  
 
-Utah and his girlfriend Opal, are drug addicts living on the streets in rural Ohio. After getting recruited by body broker Wood, and offered treatment in Los Angeles, Wood takes Utah under his wing and introduces him to treatment center mogul Vin. Wood and Vin bring Utah in on their lucrative and illegal dealings, where saving lives comes second to the bottom line.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/j8T0GIpfxr0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -407,7 +388,7 @@ Utah and his girlfriend Opal, are drug addicts living on the streets in rural Oh
 	
 
 ### Chaos Walking
-*Released on 2021-02-24, vote average 10*
+*Released on 2021-02-24, vote average 8.5*
 
 Two unlikely companions embark on a perilous adventure through the badlands of an unexplored planet as they try to escape a dangerous and disorienting reality, where all inner thoughts are seen and heard by everyone.
 
@@ -420,6 +401,8 @@ Two unlikely companions embark on a perilous adventure through the badlands of a
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
@@ -458,7 +441,22 @@ During a COVID-19 lockdown, sparring couple Linda and Paxton call a truce to att
 	
 
 	
+	
 
+### Useless Humans
+*Released on 2021-02-25, vote average 8*
+
+A thirtieth birthday -- and the survival of mankind -- are left hanging in the balance after a mysterious creature crashes the party, forcing four childhood friends to save the night.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/JDKlf6dpsvo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
