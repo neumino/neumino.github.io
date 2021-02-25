@@ -46,6 +46,28 @@ On a hiking trip to rekindle their marriage, a couple find themselves fleeing fo
 	
 	
 
+### Fear of Rain
+*Released on 2021-02-12, vote average 7.3*
+
+A teenage girl living with schizophrenia begins to suspect her neighbor has kidnapped a child. Her parents try desperately to help her live a normal life, without exposing their own tragic secrets, and the only person who believes her is Caleb – a boy she isn’t even sure exists.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kUPf2z9KMmo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### To All the Boys: Always and Forever
 *Released on 2021-02-12, vote average 8*
 
@@ -68,30 +90,8 @@ Senior year of high school takes center stage as Lara Jean returns from a family
 	
 	
 
-### Fear of Rain
-*Released on 2021-02-12, vote average 7.5*
-
-A teenage girl living with schizophrenia begins to suspect her neighbor has kidnapped a child. Her parents try desperately to help her live a normal life, without exposing their own tragic secrets, and the only person who believes her is Caleb – a boy she isn’t even sure exists.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kUPf2z9KMmo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Tom &amp; Jerry
-*Released on 2021-02-12, vote average 7.7*
+*Released on 2021-02-12, vote average 6.5*
 
 Tom the cat and Jerry the mouse get kicked out of their home and relocate to a fancy New York hotel, where a scrappy employee named Kayla will lose her job if she can&#39;t evict Jerry before a high-class wedding at the hotel. Her solution? Hiring Tom to get rid of the pesky mouse.
 
@@ -134,50 +134,6 @@ A celebrity journalist and renowned womanizer starts to rethink his life choices
 	
 	
 
-### Judas and the Black Messiah
-*Released on 2021-02-12, vote average 7.6*
-
-Bill O&#39;Neal infiltrates the Black Panthers per FBI Agent Mitchell and J. Edgar Hoover. As Black Panther Chairman Fred Hampton ascends, falling for a fellow revolutionary en route, a battle wages for O’Neal’s soul.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/sSjtGqRXQ9Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Marvel&#39;s Behind the Mask
-*Released on 2021-02-12, vote average 8.3*
-
-A documentary special that explores the power of identity behind the iconic superheroes we know and love today. These legendary Marvel creations and stories have not only reflected the world outside our window – they have become a reflection of our own identities and who we truly are.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZZKzPblr1lc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### I Care a Lot
 *Released on 2021-02-19, vote average 7*
 
@@ -200,8 +156,30 @@ A court-appointed legal guardian defrauds her older clients and traps them under
 	
 	
 
+### Judas and the Black Messiah
+*Released on 2021-02-12, vote average 7.6*
+
+Bill O&#39;Neal infiltrates the Black Panthers per FBI Agent Mitchell and J. Edgar Hoover. As Black Panther Chairman Fred Hampton ascends, falling for a fellow revolutionary en route, a battle wages for O’Neal’s soul.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/sSjtGqRXQ9Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Flora &amp; Ulysses
-*Released on 2021-02-19, vote average 7*
+*Released on 2021-02-19, vote average 6.9*
 
 When Flora rescues a squirrel she names Ulysses, she is amazed to discover he possesses unique superhero powers, which take them on an adventure of humorous complications that ultimately change Flora&#39;s life--and her outlook--forever.
 
@@ -220,6 +198,72 @@ When Flora rescues a squirrel she names Ulysses, she is amazed to discover he po
 
 
 	
+	
+
+### Marvel&#39;s Behind the Mask
+*Released on 2021-02-12, vote average 8.4*
+
+A documentary special that explores the power of identity behind the iconic superheroes we know and love today. These legendary Marvel creations and stories have not only reflected the world outside our window – they have become a reflection of our own identities and who we truly are.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZZKzPblr1lc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Chaos Walking
+*Released on 2021-02-24, vote average 8.3*
+
+Two unlikely companions embark on a perilous adventure through the badlands of an unexplored planet as they try to escape a dangerous and disorienting reality, where all inner thoughts are seen and heard by everyone.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nRf4ZgzHoVw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Scooby-Doo! The Sword and the Scoob
+*Released on 2021-02-22, vote average 7*
+
+An evil sorceress transports the gang back to the age of chivalrous knights, spell-casting wizards, and fire-breathing dragons.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vwIR62tKISM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -251,55 +295,6 @@ When his car breaks down, a quiet loner agrees to clean an abandoned family fun 
 	
 	
 
-### Chaos Walking
-*Released on 2021-02-24, vote average 8.5*
-
-Two unlikely companions embark on a perilous adventure through the badlands of an unexplored planet as they try to escape a dangerous and disorienting reality, where all inner thoughts are seen and heard by everyone.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nRf4ZgzHoVw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Scooby-Doo! The Sword and the Scoob
-*Released on 2021-02-22, vote average 6*
-
-An evil sorceress transports the gang back to the age of chivalrous knights, spell-casting wizards, and fire-breathing dragons.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vwIR62tKISM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### The Map of Tiny Perfect Things
 *Released on 2021-02-12, vote average 7.2*
 
@@ -320,18 +315,23 @@ The film tells the story of quick-witted teen Mark, contentedly living the same 
 
 
 	
+
+  
+
+
+	
 	
 
-### Silk Road
-*Released on 2021-02-19, vote average 6.9*
+### Pelé
+*Released on 2021-02-23, vote average 7*
 
-The true story of Ross Ulbricht, the charismatic young tech-mastermind who unleashed the darknet website Silk Road, and the corrupt DEA agent determined to bring down his billion-dollar empire.
+Mixing rare archival footage and exclusive interviews, this documentary celebrates the legendary Brazilian footballer who personified the beautiful game : Pelé, the only man to win three World Cup titles.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/LBOBuqBzn7w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/KMyUnyxVB9Q?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -341,23 +341,6 @@ The true story of Ross Ulbricht, the charismatic young tech-mastermind who unlea
   
 
 
-	
-	
-
-### Chronicle Mysteries: Helped to Death
-*Released on 2021-02-21, vote average 8.5*
-
-Alex and Drew investigate a self help retreat and the controversial life coach who oversees it.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/mu_Smy0n_bU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -387,29 +370,8 @@ Alex and Drew investigate a self help retreat and the controversial life coach w
 	
 	
 
-### Chaos Walking
-*Released on 2021-02-24, vote average 8.5*
-
-Two unlikely companions embark on a perilous adventure through the badlands of an unexplored planet as they try to escape a dangerous and disorienting reality, where all inner thoughts are seen and heard by everyone.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nRf4ZgzHoVw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-	
-
 ### Locked Down
-*Released on 2021-02-25, vote average 8*
+*Released on 2021-02-25, vote average 7.7*
 
 During a COVID-19 lockdown, sparring couple Linda and Paxton call a truce to attempt a high-risk jewellery heist at one of the world’s most exclusive department stores, Harrods.
 
@@ -422,12 +384,6 @@ During a COVID-19 lockdown, sparring couple Linda and Paxton call a truce to att
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
 	
 
 	
@@ -457,6 +413,16 @@ A thirtieth birthday -- and the survival of mankind -- are left hanging in the b
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
