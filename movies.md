@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Red Dot
-*Released on 2021-02-11, vote average 6.3*
+### Fear of Rain
+*Released on 2021-02-12, vote average 7.4*
 
-On a hiking trip to rekindle their marriage, a couple find themselves fleeing for their lives in the unforgiving wilderness from an unknown shooter.
+A teenage girl living with schizophrenia begins to suspect her neighbor has kidnapped a child. Her parents try desperately to help her live a normal life, without exposing their own tragic secrets, and the only person who believes her is Caleb – a boy she isn’t even sure exists.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/EHARitHyWKc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/kUPf2z9KMmo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -40,28 +40,6 @@ On a hiking trip to rekindle their marriage, a couple find themselves fleeing fo
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-
-
-	
-	
-
-### Fear of Rain
-*Released on 2021-02-12, vote average 7.3*
-
-A teenage girl living with schizophrenia begins to suspect her neighbor has kidnapped a child. Her parents try desperately to help her live a normal life, without exposing their own tragic secrets, and the only person who believes her is Caleb – a boy she isn’t even sure exists.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kUPf2z9KMmo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
   
 
 
@@ -91,7 +69,7 @@ Senior year of high school takes center stage as Lara Jean returns from a family
 	
 
 ### Tom &amp; Jerry
-*Released on 2021-02-12, vote average 6.5*
+*Released on 2021-02-12, vote average 6.6*
 
 Tom the cat and Jerry the mouse get kicked out of their home and relocate to a fancy New York hotel, where a scrappy employee named Kayla will lose her job if she can&#39;t evict Jerry before a high-class wedding at the hotel. Her solution? Hiring Tom to get rid of the pesky mouse.
 
@@ -100,28 +78,6 @@ Tom the cat and Jerry the mouse get kicked out of their home and relocate to a f
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/kP9TfCWaQT4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Squared Love
-*Released on 2021-02-11, vote average 6.3*
-
-A celebrity journalist and renowned womanizer starts to rethink his life choices after he falls for a mysterious model who leads a double life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zF9YIYc0d7w?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -156,6 +112,28 @@ A court-appointed legal guardian defrauds her older clients and traps them under
 	
 	
 
+### Flora &amp; Ulysses
+*Released on 2021-02-19, vote average 6.8*
+
+When Flora rescues a squirrel she names Ulysses, she is amazed to discover he possesses unique superhero powers, which take them on an adventure of humorous complications that ultimately change Flora&#39;s life--and her outlook--forever.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/05F8MmsiLQs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Judas and the Black Messiah
 *Released on 2021-02-12, vote average 7.6*
 
@@ -178,16 +156,16 @@ Bill O&#39;Neal infiltrates the Black Panthers per FBI Agent Mitchell and J. Edg
 	
 	
 
-### Flora &amp; Ulysses
-*Released on 2021-02-19, vote average 6.9*
+### Marvel&#39;s Behind the Mask
+*Released on 2021-02-12, vote average 8.4*
 
-When Flora rescues a squirrel she names Ulysses, she is amazed to discover he possesses unique superhero powers, which take them on an adventure of humorous complications that ultimately change Flora&#39;s life--and her outlook--forever.
+A documentary special that explores the power of identity behind the iconic superheroes we know and love today. These legendary Marvel creations and stories have not only reflected the world outside our window – they have become a reflection of our own identities and who we truly are.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/05F8MmsiLQs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ZZKzPblr1lc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -200,16 +178,16 @@ When Flora rescues a squirrel she names Ulysses, she is amazed to discover he po
 	
 	
 
-### Marvel&#39;s Behind the Mask
-*Released on 2021-02-12, vote average 8.4*
+### Scooby-Doo! The Sword and the Scoob
+*Released on 2021-02-22, vote average 7*
 
-A documentary special that explores the power of identity behind the iconic superheroes we know and love today. These legendary Marvel creations and stories have not only reflected the world outside our window – they have become a reflection of our own identities and who we truly are.
+An evil sorceress transports the gang back to the age of chivalrous knights, spell-casting wizards, and fire-breathing dragons.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ZZKzPblr1lc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/vwIR62tKISM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -251,30 +229,8 @@ Two unlikely companions embark on a perilous adventure through the badlands of a
 	
 	
 
-### Scooby-Doo! The Sword and the Scoob
-*Released on 2021-02-22, vote average 7*
-
-An evil sorceress transports the gang back to the age of chivalrous knights, spell-casting wizards, and fire-breathing dragons.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vwIR62tKISM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Willy&#39;s Wonderland
-*Released on 2021-02-12, vote average 6.7*
+*Released on 2021-02-12, vote average 6.8*
 
 When his car breaks down, a quiet loner agrees to clean an abandoned family fun center in exchange for repairs. He soon finds himself waging war against possessed animatronic mascots while trapped inside Willy&#39;s Wonderland.
 
@@ -287,6 +243,55 @@ When his car breaks down, a quiet loner agrees to clean an abandoned family fun 
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Pelé
+*Released on 2021-02-23, vote average 8.5*
+
+Mixing rare archival footage and exclusive interviews, this documentary celebrates the legendary Brazilian footballer who personified the beautiful game : Pelé, the only man to win three World Cup titles.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KMyUnyxVB9Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Locked Down
+*Released on 2021-02-25, vote average 7.3*
+
+During a COVID-19 lockdown, sparring couple Linda and Paxton call a truce to attempt a high-risk jewellery heist at one of the world’s most exclusive department stores, Harrods.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mepeWor5JPk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -320,23 +325,6 @@ The film tells the story of quick-witted teen Mark, contentedly living the same 
 
 
 	
-	
-
-### Pelé
-*Released on 2021-02-23, vote average 7*
-
-Mixing rare archival footage and exclusive interviews, this documentary celebrates the legendary Brazilian footballer who personified the beautiful game : Pelé, the only man to win three World Cup titles.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/KMyUnyxVB9Q?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -347,54 +335,11 @@ Mixing rare archival footage and exclusive interviews, this documentary celebrat
 
 
 	
-
-  
-
-
+	
 	
 
   
 
-
-	
-
-  
-
-
-
-## Opening soon
-
-
-	
-
-	
-	
-
-### Locked Down
-*Released on 2021-02-25, vote average 7.7*
-
-During a COVID-19 lockdown, sparring couple Linda and Paxton call a truce to attempt a high-risk jewellery heist at one of the world’s most exclusive department stores, Harrods.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/mepeWor5JPk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
 
 	
 	
@@ -415,6 +360,25 @@ A thirtieth birthday -- and the survival of mankind -- are left hanging in the b
 	
 	
 
+  
+
+
+
+## Opening soon
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
@@ -429,6 +393,27 @@ A thirtieth birthday -- and the survival of mankind -- are left hanging in the b
 
 	
 
+	
+
+	
+
+	
+	
+
+### Night of the Kings
+*Released on 2021-02-26, vote average 8*
+
+Set in Abidjan’s MACA prison, the aging Black Beard, in attempt to maintain control over his fellow inmates, resorts to a “story” ritual, wherein one prisoner is forced, Scheherazade-style, to tell stories for an entire night. The young pickpocket he chooses relays the haunting tale of the Zama King.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6xHJIQA1Uao?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
