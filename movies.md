@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Fear of Rain
-*Released on 2021-02-12, vote average 7.4*
+### I Care a Lot
+*Released on 2021-02-19, vote average 7*
 
-A teenage girl living with schizophrenia begins to suspect her neighbor has kidnapped a child. Her parents try desperately to help her live a normal life, without exposing their own tragic secrets, and the only person who believes her is Caleb – a boy she isn’t even sure exists.
+A court-appointed legal guardian defrauds her older clients and traps them under her care. But her latest mark comes with some unexpected baggage.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/kUPf2z9KMmo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/D40uHmTSPew?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -40,72 +40,6 @@ A teenage girl living with schizophrenia begins to suspect her neighbor has kidn
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-
-
-	
-	
-
-### To All the Boys: Always and Forever
-*Released on 2021-02-12, vote average 8*
-
-Senior year of high school takes center stage as Lara Jean returns from a family trip to Korea and considers her college plans — with and without Peter.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2jPdejek5QA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Tom &amp; Jerry
-*Released on 2021-02-12, vote average 6.6*
-
-Tom the cat and Jerry the mouse get kicked out of their home and relocate to a fancy New York hotel, where a scrappy employee named Kayla will lose her job if she can&#39;t evict Jerry before a high-class wedding at the hotel. Her solution? Hiring Tom to get rid of the pesky mouse.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kP9TfCWaQT4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### I Care a Lot
-*Released on 2021-02-19, vote average 7*
-
-A court-appointed legal guardian defrauds her older clients and traps them under her care. But her latest mark comes with some unexpected baggage.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/D40uHmTSPew?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
   
 
 
@@ -134,52 +68,8 @@ When Flora rescues a squirrel she names Ulysses, she is amazed to discover he po
 	
 	
 
-### Judas and the Black Messiah
-*Released on 2021-02-12, vote average 7.6*
-
-Bill O&#39;Neal infiltrates the Black Panthers per FBI Agent Mitchell and J. Edgar Hoover. As Black Panther Chairman Fred Hampton ascends, falling for a fellow revolutionary en route, a battle wages for O’Neal’s soul.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/sSjtGqRXQ9Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Marvel&#39;s Behind the Mask
-*Released on 2021-02-12, vote average 8.4*
-
-A documentary special that explores the power of identity behind the iconic superheroes we know and love today. These legendary Marvel creations and stories have not only reflected the world outside our window – they have become a reflection of our own identities and who we truly are.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZZKzPblr1lc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Scooby-Doo! The Sword and the Scoob
-*Released on 2021-02-22, vote average 7*
+*Released on 2021-02-22, vote average 7.2*
 
 An evil sorceress transports the gang back to the age of chivalrous knights, spell-casting wizards, and fire-breathing dragons.
 
@@ -191,13 +81,6 @@ An evil sorceress transports the gang back to the age of chivalrous knights, spe
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -228,17 +111,51 @@ Two unlikely companions embark on a perilous adventure through the badlands of a
 
 	
 	
+	
 
-### Willy&#39;s Wonderland
-*Released on 2021-02-12, vote average 6.8*
+  
 
-When his car breaks down, a quiet loner agrees to clean an abandoned family fun center in exchange for repairs. He soon finds himself waging war against possessed animatronic mascots while trapped inside Willy&#39;s Wonderland.
+
+	
+	
+
+### Pelé
+*Released on 2021-02-23, vote average 8.2*
+
+Mixing rare archival footage and exclusive interviews, this documentary celebrates the legendary Brazilian footballer who personified the beautiful game : Pelé, the only man to win three World Cup titles.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Gfh8_X3sH5s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/KMyUnyxVB9Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Cherry
+*Released on 2021-02-26, vote average 6*
+
+Cherry drifts from college dropout to army medic in Iraq - anchored only by his true love, Emily. But after returning from the war with PTSD, his life spirals into drugs and crime as he struggles to find his place in the world.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/H5bH6O0bErk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -251,16 +168,16 @@ When his car breaks down, a quiet loner agrees to clean an abandoned family fun 
 	
 	
 
-### Pelé
-*Released on 2021-02-23, vote average 8.5*
+### Crisis
+*Released on 2021-02-26, vote average 2*
 
-Mixing rare archival footage and exclusive interviews, this documentary celebrates the legendary Brazilian footballer who personified the beautiful game : Pelé, the only man to win three World Cup titles.
+Three stories about the world of opioids collide: a drug trafficker arranges a multi-cartel Fentanyl smuggling operation between Canada and the U.S., an architect recovering from an OxyContin addiction tracks down the truth behind her son&#39;s involvement with narcotics, and a university professor battles unexpected revelations about his research employer, a drug company with deep government influence bringing a new &#34;non-addictive&#34; painkiller to market.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/KMyUnyxVB9Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/36ACqc0OHGQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -298,18 +215,38 @@ During a COVID-19 lockdown, sparring couple Linda and Paxton call a truce to att
 
 
 	
+
+  
+
+
 	
 
-### The Map of Tiny Perfect Things
-*Released on 2021-02-12, vote average 7.2*
+  
 
-The film tells the story of quick-witted teen Mark, contentedly living the same day in an endless loop whose world is turned upside-down when he meets mysterious Margaret also stuck in the time loop. Mark and Margaret form a magnetic partnership, setting out to find all the tiny things that make that one day perfect. What follows is a love story with a fantastical twist, as the two struggle to figure out how -- and whether -- to escape their never-ending day.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Silk Road
+*Released on 2021-02-19, vote average 7.1*
+
+The true story of Ross Ulbricht, the charismatic young tech-mastermind who unleashed the darknet website Silk Road, and the corrupt DEA agent determined to bring down his billion-dollar empire.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xKN3Ksw84Tw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/LBOBuqBzn7w?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -334,30 +271,6 @@ The film tells the story of quick-witted teen Mark, contentedly living the same 
   
 
 
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Useless Humans
-*Released on 2021-02-25, vote average 8*
-
-A thirtieth birthday -- and the survival of mankind -- are left hanging in the balance after a mysterious creature crashes the party, forcing four childhood friends to save the night.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/JDKlf6dpsvo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -376,44 +289,44 @@ A thirtieth birthday -- and the survival of mankind -- are left hanging in the b
 	
 
 	
-
 	
 
-	
+### Biggie: I Got a Story to Tell
+*Released on 2021-03-01, vote average 10*
 
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	
-
-### Night of the Kings
-*Released on 2021-02-26, vote average 8*
-
-Set in Abidjan’s MACA prison, the aging Black Beard, in attempt to maintain control over his fellow inmates, resorts to a “story” ritual, wherein one prisoner is forced, Scheherazade-style, to tell stories for an entire night. The young pickpocket he chooses relays the haunting tale of the Zama King.
+Christopher Wallace, AKA The Notorious B.I.G., remains one of Hip-Hop’s icons, renowned for his distinctive flow and autobiographical lyrics. This documentary celebrates his life via rare behind-the-scenes footage and the testimonies of his closest friends and family.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/6xHJIQA1Uao?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/fRj2NxkM84U?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
