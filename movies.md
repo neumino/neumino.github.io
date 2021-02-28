@@ -47,7 +47,7 @@ A court-appointed legal guardian defrauds her older clients and traps them under
 	
 
 ### Flora &amp; Ulysses
-*Released on 2021-02-19, vote average 6.8*
+*Released on 2021-02-19, vote average 6.9*
 
 When Flora rescues a squirrel she names Ulysses, she is amazed to discover he possesses unique superhero powers, which take them on an adventure of humorous complications that ultimately change Flora&#39;s life--and her outlook--forever.
 
@@ -69,7 +69,7 @@ When Flora rescues a squirrel she names Ulysses, she is amazed to discover he po
 	
 
 ### Scooby-Doo! The Sword and the Scoob
-*Released on 2021-02-22, vote average 7.2*
+*Released on 2021-02-22, vote average 7.6*
 
 An evil sorceress transports the gang back to the age of chivalrous knights, spell-casting wizards, and fire-breathing dragons.
 
@@ -90,8 +90,30 @@ An evil sorceress transports the gang back to the age of chivalrous knights, spe
 	
 	
 
+### Pelé
+*Released on 2021-02-23, vote average 8.1*
+
+Mixing rare archival footage and exclusive interviews, this documentary celebrates the legendary Brazilian footballer who personified the beautiful game : Pelé, the only man to win three World Cup titles.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KMyUnyxVB9Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Chaos Walking
-*Released on 2021-02-24, vote average 8.3*
+*Released on 2021-02-24, vote average 8.7*
 
 Two unlikely companions embark on a perilous adventure through the badlands of an unexplored planet as they try to escape a dangerous and disorienting reality, where all inner thoughts are seen and heard by everyone.
 
@@ -111,24 +133,17 @@ Two unlikely companions embark on a perilous adventure through the badlands of a
 
 	
 	
-	
 
-  
+### Billie Eilish: The World&#39;s a Little Blurry
+*Released on 2021-02-26, vote average 9*
 
-
-	
-	
-
-### Pelé
-*Released on 2021-02-23, vote average 8.2*
-
-Mixing rare archival footage and exclusive interviews, this documentary celebrates the legendary Brazilian footballer who personified the beautiful game : Pelé, the only man to win three World Cup titles.
+This documentary offers a deeply intimate look at extraordinary teenager Billie Eilish. Award-winning filmmaker R.J. Cutler follows her journey on the road, onstage, and at home with her family as the writing and recording of her debut album changes her life.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/KMyUnyxVB9Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/KKcUr1Utvlw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -139,15 +154,10 @@ Mixing rare archival footage and exclusive interviews, this documentary celebrat
 
 
 	
-
-  
-
-
-	
 	
 
 ### Cherry
-*Released on 2021-02-26, vote average 6*
+*Released on 2021-02-26, vote average 7.5*
 
 Cherry drifts from college dropout to army medic in Iraq - anchored only by his true love, Emily. But after returning from the war with PTSD, his life spirals into drugs and crime as he struggles to find his place in the world.
 
@@ -167,9 +177,70 @@ Cherry drifts from college dropout to army medic in Iraq - anchored only by his 
 
 	
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Crazy About Her
+*Released on 2021-02-26, vote average 6.8*
+
+After a magical night together, Adri voluntarily turns himself into the psychiatric institution where Carla lives.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/BYHR0EYLWj8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Safer at Home
+*Released on 2021-02-26, vote average 4*
+
+Two years into the pandemic, a group of friends throw an online party with a night of games, drinking and drugs. After taking an ecstasy pill, things go terribly wrong and the safety of their home becomes more terrifying than the raging chaos outside.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/1oiySDPje3A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
 
 ### Crisis
-*Released on 2021-02-26, vote average 2*
+*Released on 2021-02-26, vote average 4.5*
 
 Three stories about the world of opioids collide: a drug trafficker arranges a multi-cartel Fentanyl smuggling operation between Canada and the U.S., an architect recovering from an OxyContin addiction tracks down the truth behind her son&#39;s involvement with narcotics, and a university professor battles unexpected revelations about his research employer, a drug company with deep government influence bringing a new &#34;non-addictive&#34; painkiller to market.
 
@@ -182,38 +253,6 @@ Three stories about the world of opioids collide: a drug trafficker arranges a m
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### Locked Down
-*Released on 2021-02-25, vote average 7.3*
-
-During a COVID-19 lockdown, sparring couple Linda and Paxton call a truce to attempt a high-risk jewellery heist at one of the world’s most exclusive department stores, Harrods.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/mepeWor5JPk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -238,7 +277,7 @@ During a COVID-19 lockdown, sparring couple Linda and Paxton call a truce to att
 	
 
 ### Silk Road
-*Released on 2021-02-19, vote average 7.1*
+*Released on 2021-02-19, vote average 7.2*
 
 The true story of Ross Ulbricht, the charismatic young tech-mastermind who unleashed the darknet website Silk Road, and the corrupt DEA agent determined to bring down his billion-dollar empire.
 
@@ -251,11 +290,6 @@ The true story of Ross Ulbricht, the charismatic young tech-mastermind who unlea
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -292,7 +326,7 @@ The true story of Ross Ulbricht, the charismatic young tech-mastermind who unlea
 	
 
 ### Biggie: I Got a Story to Tell
-*Released on 2021-03-01, vote average 10*
+*Released on 2021-03-01, vote average 8*
 
 Christopher Wallace, AKA The Notorious B.I.G., remains one of Hip-Hop’s icons, renowned for his distinctive flow and autobiographical lyrics. This documentary celebrates his life via rare behind-the-scenes footage and the testimonies of his closest friends and family.
 
@@ -313,6 +347,23 @@ Christopher Wallace, AKA The Notorious B.I.G., remains one of Hip-Hop’s icons,
 
 	
 
+	
+	
+
+### Run Hide Fight
+*Released on 2021-03-04, vote average 7*
+
+A 17-year-old girl uses her wits, survival skills, and compassion to fight for her life, and those of her fellow classmates, against a group of live-streaming school shooters.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2Kh3jccZocc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
