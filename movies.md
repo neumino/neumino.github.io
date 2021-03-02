@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Flora &amp; Ulysses
-*Released on 2021-02-19, vote average 7*
+*Released on 2021-02-19, vote average 6.9*
 
 When Flora rescues a squirrel she names Ulysses, she is amazed to discover he possesses unique superhero powers, which take them on an adventure of humorous complications that ultimately change Flora&#39;s life--and her outlook--forever.
 
@@ -47,7 +47,7 @@ When Flora rescues a squirrel she names Ulysses, she is amazed to discover he po
 	
 
 ### I Care a Lot
-*Released on 2021-02-19, vote average 6.9*
+*Released on 2021-02-19, vote average 7*
 
 A court-appointed legal guardian defrauds her older clients and traps them under her care. But her latest mark comes with some unexpected baggage.
 
@@ -91,7 +91,7 @@ An evil sorceress transports the gang back to the age of chivalrous knights, spe
 	
 
 ### Pelé
-*Released on 2021-02-23, vote average 8.3*
+*Released on 2021-02-23, vote average 8.4*
 
 Mixing rare archival footage and exclusive interviews, this documentary celebrates the legendary Brazilian footballer who personified the beautiful game : Pelé, the only man to win three World Cup titles.
 
@@ -113,7 +113,7 @@ Mixing rare archival footage and exclusive interviews, this documentary celebrat
 	
 
 ### Billie Eilish: The World&#39;s a Little Blurry
-*Released on 2021-02-26, vote average 8.8*
+*Released on 2021-02-26, vote average 7.6*
 
 This documentary offers a deeply intimate look at extraordinary teenager Billie Eilish. Award-winning filmmaker R.J. Cutler follows her journey on the road, onstage, and at home with her family as the writing and recording of her debut album changes her life.
 
@@ -121,7 +121,51 @@ This documentary offers a deeply intimate look at extraordinary teenager Billie 
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/J-MX3XDPnd8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/KKcUr1Utvlw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Crazy About Her
+*Released on 2021-02-26, vote average 7.7*
+
+After a magical night together, Adri voluntarily turns himself into the psychiatric institution where Carla lives.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/BYHR0EYLWj8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Chaos Walking
+*Released on 2021-02-24, vote average 7.9*
+
+Two unlikely companions embark on a perilous adventure through the badlands of an unexplored planet as they try to escape a dangerous and disorienting reality, where all inner thoughts are seen and heard by everyone.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nRf4ZgzHoVw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -156,59 +200,8 @@ Cherry drifts from college dropout to army medic in Iraq - anchored only by his 
 	
 	
 
-### Chaos Walking
-*Released on 2021-02-24, vote average 8.7*
-
-Two unlikely companions embark on a perilous adventure through the badlands of an unexplored planet as they try to escape a dangerous and disorienting reality, where all inner thoughts are seen and heard by everyone.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nRf4ZgzHoVw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Crazy About Her
-*Released on 2021-02-26, vote average 7.6*
-
-After a magical night together, Adri voluntarily turns himself into the psychiatric institution where Carla lives.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/BYHR0EYLWj8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Girl on the Train
-*Released on 2021-02-26, vote average 7*
+*Released on 2021-02-26, vote average 5.7*
 
 When a voyeuristic divorcee fixates on the lives of a perfect couple a far, she soon gets embroiled in a murder mystery that unfolds revealing truths about her own life.
 
@@ -227,32 +220,7 @@ When a voyeuristic divorcee fixates on the lives of a perfect couple a far, she 
 
 
 	
-
-  
-
-
 	
-	
-
-### Safer at Home
-*Released on 2021-02-26, vote average 4*
-
-Two years into the pandemic, a group of friends throw an online party with a night of games, drinking and drugs. After taking an ecstasy pill, things go terribly wrong and the safety of their home becomes more terrifying than the raging chaos outside.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/1oiySDPje3A?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -286,10 +254,45 @@ Christopher Wallace, AKA The Notorious B.I.G., remains one of Hip-Hop’s icons,
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### Boss Level
-*Released on 2021-02-19, vote average 7.3*
+*Released on 2021-02-19, vote average 7.1*
 
 A retired special forces officer is trapped in a never-ending time loop on the day of his death.
 
@@ -307,60 +310,6 @@ A retired special forces officer is trapped in a never-ending time loop on the d
   
 
 
-	
-	
-
-### Silk Road
-*Released on 2021-02-19, vote average 7.2*
-
-The true story of Ross Ulbricht, the charismatic young tech-mastermind who unleashed the darknet website Silk Road, and the corrupt DEA agent determined to bring down his billion-dollar empire.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LBOBuqBzn7w?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Crisis
-*Released on 2021-02-26, vote average 4.5*
-
-Three stories about the world of opioids collide: a drug trafficker arranges a multi-cartel Fentanyl smuggling operation between Canada and the U.S., an architect recovering from an OxyContin addiction tracks down the truth behind her son&#39;s involvement with narcotics, and a university professor battles unexpected revelations about his research employer, a drug company with deep government influence bringing a new &#34;non-addictive&#34; painkiller to market.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/36ACqc0OHGQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -369,7 +318,7 @@ Three stories about the world of opioids collide: a drug trafficker arranges a m
 	
 
 ### Raya and the Last Dragon
-*Released on 2021-03-03, vote average 7.5*
+*Released on 2021-03-03, vote average 7.8*
 
 Long ago, in the fantasy world of Kumandra, humans and dragons lived together in harmony. But when an evil force threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, that same evil has returned and it’s up to a lone warrior, Raya, to track down the legendary last dragon to restore the fractured land and its divided people.
 
@@ -382,35 +331,6 @@ Long ago, in the fantasy world of Kumandra, humans and dragons lived together in
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-	
-
-### Biggie: I Got a Story to Tell
-*Released on 2021-03-01, vote average 8*
-
-Christopher Wallace, AKA The Notorious B.I.G., remains one of Hip-Hop’s icons, renowned for his distinctive flow and autobiographical lyrics. This documentary celebrates his life via rare behind-the-scenes footage and the testimonies of his closest friends and family.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/fRj2NxkM84U?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
-
 	
 
 	
@@ -445,18 +365,10 @@ A 17-year-old girl uses her wits, survival skills, and compassion to fight for h
 	
 
 	
-
-	
-
-	
-
-	
-
-	
 	
 
 ### Moxie
-*Released on 2021-03-03, vote average 4*
+*Released on 2021-03-03, vote average 6*
 
 Inspired by her mom&#39;s rebellious past and a confident new friend, a shy 16-year-old publishes an anonymous zine calling out sexism at her school.
 
@@ -469,6 +381,26 @@ Inspired by her mom&#39;s rebellious past and a confident new friend, a shy 16-y
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
