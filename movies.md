@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Scooby-Doo! The Sword and the Scoob
-*Released on 2021-02-22, vote average 7.4*
+*Released on 2021-02-22, vote average 7.5*
 
 An evil sorceress transports the gang back to the age of chivalrous knights, spell-casting wizards, and fire-breathing dragons.
 
@@ -46,28 +46,6 @@ An evil sorceress transports the gang back to the age of chivalrous knights, spe
 	
 	
 
-### Flora &amp; Ulysses
-*Released on 2021-02-19, vote average 7*
-
-When Flora rescues a squirrel she names Ulysses, she is amazed to discover he possesses unique superhero powers, which take them on an adventure of humorous complications that ultimately change Flora&#39;s life--and her outlook--forever.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/05F8MmsiLQs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Raya and the Last Dragon
 *Released on 2021-03-03, vote average 8.1*
 
@@ -90,30 +68,8 @@ Long ago, in the fantasy world of Kumandra, humans and dragons lived together in
 	
 	
 
-### I Care a Lot
-*Released on 2021-02-19, vote average 6.9*
-
-A court-appointed legal guardian defrauds her older clients and traps them under her care. But her latest mark comes with some unexpected baggage.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/D40uHmTSPew?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Coming 2 America
-*Released on 2021-03-05, vote average 9*
+*Released on 2021-03-04, vote average 9.4*
 
 Prince Akeem Joffer is set to become King of Zamunda when he discovers he has a son he never knew about in America – a street savvy Queens native named Lavelle. Honoring his royal father&#39;s dying wish to groom this son as the crown prince, Akeem and Semmi set off to America once again.
 
@@ -157,7 +113,7 @@ After a magical night together, Adri voluntarily turns himself into the psychiat
 	
 
 ### The Girl on the Train
-*Released on 2021-02-26, vote average 5.8*
+*Released on 2021-02-26, vote average 6*
 
 When a voyeuristic divorcee fixates on the lives of a perfect couple a far, she soon gets embroiled in a murder mystery that unfolds revealing truths about her own life.
 
@@ -166,6 +122,28 @@ When a voyeuristic divorcee fixates on the lives of a perfect couple a far, she 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/LE8-4aRf5VQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Chaos Walking
+*Released on 2021-02-24, vote average 7.5*
+
+Two unlikely companions embark on a perilous adventure through the badlands of an unexplored planet as they try to escape a dangerous and disorienting reality, where all inner thoughts are seen and heard by everyone.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nRf4ZgzHoVw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -200,52 +178,8 @@ Mixing rare archival footage and exclusive interviews, this documentary celebrat
 	
 	
 
-### Chaos Walking
-*Released on 2021-02-24, vote average 7.3*
-
-Two unlikely companions embark on a perilous adventure through the badlands of an unexplored planet as they try to escape a dangerous and disorienting reality, where all inner thoughts are seen and heard by everyone.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nRf4ZgzHoVw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Biggie: I Got a Story to Tell
-*Released on 2021-03-01, vote average 7*
-
-Christopher Wallace, AKA The Notorious B.I.G., remains one of Hip-Hop’s icons, renowned for his distinctive flow and autobiographical lyrics. This documentary celebrates his life via rare behind-the-scenes footage and the testimonies of his closest friends and family.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/fRj2NxkM84U?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Moxie
-*Released on 2021-03-03, vote average 6.9*
+*Released on 2021-03-03, vote average 7.2*
 
 Inspired by her mom&#39;s rebellious past and a confident new friend, a shy 16-year-old publishes an anonymous zine calling out sexism at her school.
 
@@ -266,8 +200,30 @@ Inspired by her mom&#39;s rebellious past and a confident new friend, a shy 16-y
 	
 	
 
+### Biggie: I Got a Story to Tell
+*Released on 2021-03-01, vote average 6.7*
+
+Christopher Wallace, AKA The Notorious B.I.G., remains one of Hip-Hop’s icons, renowned for his distinctive flow and autobiographical lyrics. This documentary celebrates his life via rare behind-the-scenes footage and the testimonies of his closest friends and family.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fRj2NxkM84U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Billie Eilish: The World&#39;s a Little Blurry
-*Released on 2021-02-26, vote average 8*
+*Released on 2021-02-26, vote average 8.2*
 
 This documentary offers a deeply intimate look at extraordinary teenager Billie Eilish. Award-winning filmmaker R.J. Cutler follows her journey on the road, onstage, and at home with her family as the writing and recording of her debut album changes her life.
 
@@ -308,6 +264,16 @@ Cherry drifts from college dropout to army medic in Iraq - anchored only by his 
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### Run Hide Fight
@@ -337,52 +303,6 @@ A 17-year-old girl uses her wits, survival skills, and compassion to fight for h
 
 
 	
-	
-	
-
-  
-
-
-	
-	
-
-### Boss Level
-*Released on 2021-02-19, vote average 7.1*
-
-A retired special forces officer is trapped in a never-ending time loop on the day of his death.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/CgZhk6uWGk4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Anything for Jackson
-*Released on 2021-03-04, vote average 5*
-
-A bereaved Satanist couple kidnap a pregnant woman so they can use an ancient spellbook to put their dead grandson&#39;s spirit into her unborn child, but they end up summoning more than they bargained for.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/VqgGOQ-7V4g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -394,21 +314,16 @@ A bereaved Satanist couple kidnap a pregnant woman so they can use an ancient sp
 
 	
 	
+	
 
-### Son
-*Released on 2021-02-26, vote average 6.8*
+  
 
-When a young boy contracts a mysterious illness, his mother must decide how far she will go to protect him from terrifying forces in her past.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XnjjaaUqmBs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
 	
 
   
@@ -421,16 +336,16 @@ When a young boy contracts a mysterious illness, his mother must decide how far 
 	
 	
 
-### Coming 2 America
-*Released on 2021-03-05, vote average 9*
+### Evangelion: 3.0&#43;1.0 Thrice Upon a Time
+*Released on 2021-03-08, vote average 10*
 
-Prince Akeem Joffer is set to become King of Zamunda when he discovers he has a son he never knew about in America – a street savvy Queens native named Lavelle. Honoring his royal father&#39;s dying wish to groom this son as the crown prince, Akeem and Semmi set off to America once again.
+Shinji Ikari, who was the cause of Third Impact has lost his will to live... Will he be able to recover? An animated film that continues the story of Evangelion: 3.0 You Can (Not) Redo from 2012.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/sY8gUtyeAKE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-xezMJ2s50E?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
