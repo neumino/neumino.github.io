@@ -47,7 +47,7 @@ Long ago, in the fantasy world of Kumandra, humans and dragons lived together in
 	
 
 ### Coming 2 America
-*Released on 2021-03-05, vote average 7.1*
+*Released on 2021-03-05, vote average 7.2*
 
 Prince Akeem Joffer is set to become King of Zamunda when he discovers he has a son he never knew about in America – a street savvy Queens native named Lavelle. Honoring his royal father&#39;s dying wish to groom this son as the crown prince, Akeem and Semmi set off to America once again.
 
@@ -69,7 +69,7 @@ Prince Akeem Joffer is set to become King of Zamunda when he discovers he has a 
 	
 
 ### The Girl on the Train
-*Released on 2021-02-26, vote average 6.4*
+*Released on 2021-02-26, vote average 6.5*
 
 When a voyeuristic divorcee fixates on the lives of a perfect couple a far, she soon gets embroiled in a murder mystery that unfolds revealing truths about her own life.
 
@@ -78,6 +78,28 @@ When a voyeuristic divorcee fixates on the lives of a perfect couple a far, she 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/LE8-4aRf5VQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Evangelion: 3.0&#43;1.0 Thrice Upon a Time
+*Released on 2021-03-08, vote average 10*
+
+In the aftermath of the Fourth Impact, stranded without their Evangelions, Shinji, Asuka, and Rei search for refuge in the desolate red remains of Tokyo-3. But the danger to the world is far from over. A new impact is looming on the horizon—one that will prove to be the true end of Evangelion.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/oe5XJhfaN1I?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -100,28 +122,6 @@ After a magical night together, Adri voluntarily turns himself into the psychiat
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/BYHR0EYLWj8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Evangelion: 3.0&#43;1.0 Thrice Upon a Time
-*Released on 2021-03-08, vote average 10*
-
-Shinji Ikari, who was the cause of Third Impact has lost his will to live... Will he be able to recover? An animated film that continues the story of Evangelion: 3.0 You Can (Not) Redo from 2012.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-xezMJ2s50E?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -157,7 +157,7 @@ Inspired by her mom&#39;s rebellious past and a confident new friend, a shy 16-y
 	
 
 ### Chaos Walking
-*Released on 2021-02-24, vote average 7.7*
+*Released on 2021-02-24, vote average 7.9*
 
 Two unlikely companions embark on a perilous adventure through the badlands of an unexplored planet as they try to escape a dangerous and disorienting reality, where all inner thoughts are seen and heard by everyone.
 
@@ -166,28 +166,6 @@ Two unlikely companions embark on a perilous adventure through the badlands of a
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/nRf4ZgzHoVw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Pelé
-*Released on 2021-02-23, vote average 7.8*
-
-Mixing rare archival footage and exclusive interviews, this documentary celebrates the legendary Brazilian footballer who personified the beautiful game : Pelé, the only man to win three World Cup titles.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/KMyUnyxVB9Q?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -210,28 +188,6 @@ Transferred home after a traumatizing combat mission, a highly trained French so
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/wAJcykyq7DU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Crisis
-*Released on 2021-02-26, vote average 5.1*
-
-Three stories about the world of opioids collide: a drug trafficker arranges a multi-cartel Fentanyl smuggling operation between Canada and the U.S., an architect recovering from an OxyContin addiction tracks down the truth behind her son&#39;s involvement with narcotics, and a university professor battles unexpected revelations about his research employer, a drug company with deep government influence bringing a new &#34;non-addictive&#34; painkiller to market.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/36ACqc0OHGQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -273,6 +229,28 @@ During a COVID-19 lockdown, sparring couple Linda and Paxton call a truce to att
 	
 	
 
+### Crisis
+*Released on 2021-02-26, vote average 5.6*
+
+Three stories about the world of opioids collide: a drug trafficker arranges a multi-cartel Fentanyl smuggling operation between Canada and the U.S., an architect recovering from an OxyContin addiction tracks down the truth behind her son&#39;s involvement with narcotics, and a university professor battles unexpected revelations about his research employer, a drug company with deep government influence bringing a new &#34;non-addictive&#34; painkiller to market.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/36ACqc0OHGQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Cherry
 *Released on 2021-02-26, vote average 8*
 
@@ -293,23 +271,18 @@ Cherry drifts from college dropout to army medic in Iraq - anchored only by his 
 
 
 	
-
-  
-
-
-	
 	
 
-### Billie Eilish: The World&#39;s a Little Blurry
-*Released on 2021-02-26, vote average 8.5*
+### AEW Revolution 2021
+*Released on 2021-03-07, vote average 7.7*
 
-This documentary offers a deeply intimate look at extraordinary teenager Billie Eilish. Award-winning filmmaker R.J. Cutler follows her journey on the road, onstage, and at home with her family as the writing and recording of her debut album changes her life.
+All Elite Wrestling comes around once again as the second annual event will feature the Face of the Revolution Ladder match for an opportunity at the TNT Championship, MJF &amp; Chris Jericho of the Inner Circle challenging the Young Bucks for the AEW Tag Team Championships, as well as AEW World Champion Kenny Omega defending his title against Jon Moxley in an Exploding Barbed Wire Death Match.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/J-MX3XDPnd8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/rtUTPUOYWYI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -323,7 +296,7 @@ This documentary offers a deeply intimate look at extraordinary teenager Billie 
 	
 
 ### The Devil Below
-*Released on 2021-03-05, vote average 5.8*
+*Released on 2021-03-05, vote average 6*
 
 A group of four amateur adventurers who specialize in exploring remote and forsaken places pay a visit to Shookum Hills, a town in the remote Appalachian Mountains which was abandoned decades ago due to a mysterious coal mine fire.
 
@@ -342,37 +315,64 @@ A group of four amateur adventurers who specialize in exploring remote and forsa
 
 
 	
-
-  
-
-
 	
 
-  
+### Billie Eilish: The World&#39;s a Little Blurry
+*Released on 2021-02-26, vote average 8.6*
 
-
-	
-
-  
-
-
-	
-	
-
-### Biggie: I Got a Story to Tell
-*Released on 2021-03-01, vote average 6.9*
-
-Christopher Wallace, AKA The Notorious B.I.G., remains one of Hip-Hop’s icons, renowned for his distinctive flow and autobiographical lyrics. This documentary celebrates his life via rare behind-the-scenes footage and the testimonies of his closest friends and family.
+This documentary offers a deeply intimate look at extraordinary teenager Billie Eilish. Award-winning filmmaker R.J. Cutler follows her journey on the road, onstage, and at home with her family as the writing and recording of her debut album changes her life.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/fRj2NxkM84U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/KKcUr1Utvlw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Boogie
+*Released on 2021-03-05, vote average 6*
+
+Alfred “Boogie” Chin is a basketball phenom living in Queens, New York, who dreams of one day playing in the NBA. While his parents pressure him to focus on earning a scholarship to an elite college, Boogie must find a way to navigate a new girlfriend, high school, on-court rivals and the burden of expectation.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xEpSdb_f1pE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -386,7 +386,7 @@ Christopher Wallace, AKA The Notorious B.I.G., remains one of Hip-Hop’s icons,
 	
 
 ### Cosmic Sin
-*Released on 2021-03-12, vote average 6.1*
+*Released on 2021-03-12, vote average 6.3*
 
 Seven rogue soldiers launch a preemptive strike against a newly discovered alien civilization in the hopes of ending an interstellar war before it starts.
 
@@ -401,6 +401,23 @@ Seven rogue soldiers launch a preemptive strike against a newly discovered alien
 	
 	
 
+	
+	
+
+### Dark Web: Cicada 3301
+*Released on 2021-03-12, vote average 4.3*
+
+Genius hacker Connor discovers Cicada 3301, an online treasure hunt that could be a recruiting tool for a secret society. Soon Conner, art-expert friend Avi, and secretive librarian Gwen are dashing from graffiti sites to ancient libraries to uncover real-world clues. But they must outrun aggressive NSA agents, also hot on the trail of Cicada, who want the glory for themselves.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PhTViyWswUU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
