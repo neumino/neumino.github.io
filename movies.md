@@ -47,7 +47,7 @@ Long ago, in the fantasy world of Kumandra, humans and dragons lived together in
 	
 
 ### Coming 2 America
-*Released on 2021-03-05, vote average 7.2*
+*Released on 2021-03-05, vote average 7.1*
 
 Prince Akeem Joffer is set to become King of Zamunda when he discovers he has a son he never knew about in America – a street savvy Queens native named Lavelle. Honoring his royal father&#39;s dying wish to groom this son as the crown prince, Akeem and Semmi set off to America once again.
 
@@ -68,8 +68,30 @@ Prince Akeem Joffer is set to become King of Zamunda when he discovers he has a 
 	
 	
 
+### Moxie
+*Released on 2021-03-03, vote average 7.6*
+
+Inspired by her mom&#39;s rebellious past and a confident new friend, a shy 16-year-old publishes an anonymous zine calling out sexism at her school.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Sf34qI1hjKU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Girl on the Train
-*Released on 2021-02-26, vote average 6.5*
+*Released on 2021-02-26, vote average 6.7*
 
 When a voyeuristic divorcee fixates on the lives of a perfect couple a far, she soon gets embroiled in a murder mystery that unfolds revealing truths about her own life.
 
@@ -113,7 +135,7 @@ In the aftermath of the Fourth Impact, stranded without their Evangelions, Shinj
 	
 
 ### Crazy About Her
-*Released on 2021-02-26, vote average 7.4*
+*Released on 2021-02-26, vote average 7.3*
 
 After a magical night together, Adri voluntarily turns himself into the psychiatric institution where Carla lives.
 
@@ -122,50 +144,6 @@ After a magical night together, Adri voluntarily turns himself into the psychiat
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/BYHR0EYLWj8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Moxie
-*Released on 2021-03-03, vote average 7.5*
-
-Inspired by her mom&#39;s rebellious past and a confident new friend, a shy 16-year-old publishes an anonymous zine calling out sexism at her school.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Sf34qI1hjKU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Chaos Walking
-*Released on 2021-02-24, vote average 7.9*
-
-Two unlikely companions embark on a perilous adventure through the badlands of an unexplored planet as they try to escape a dangerous and disorienting reality, where all inner thoughts are seen and heard by everyone.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nRf4ZgzHoVw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -230,7 +208,7 @@ During a COVID-19 lockdown, sparring couple Linda and Paxton call a truce to att
 	
 
 ### Crisis
-*Released on 2021-02-26, vote average 5.6*
+*Released on 2021-02-26, vote average 5.9*
 
 Three stories about the world of opioids collide: a drug trafficker arranges a multi-cartel Fentanyl smuggling operation between Canada and the U.S., an architect recovering from an OxyContin addiction tracks down the truth behind her son&#39;s involvement with narcotics, and a university professor battles unexpected revelations about his research employer, a drug company with deep government influence bringing a new &#34;non-addictive&#34; painkiller to market.
 
@@ -239,94 +217,6 @@ Three stories about the world of opioids collide: a drug trafficker arranges a m
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/36ACqc0OHGQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Cherry
-*Released on 2021-02-26, vote average 8*
-
-Cherry drifts from college dropout to army medic in Iraq - anchored only by his true love, Emily. But after returning from the war with PTSD, his life spirals into drugs and crime as he struggles to find his place in the world.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/H5bH6O0bErk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### AEW Revolution 2021
-*Released on 2021-03-07, vote average 7.7*
-
-All Elite Wrestling comes around once again as the second annual event will feature the Face of the Revolution Ladder match for an opportunity at the TNT Championship, MJF &amp; Chris Jericho of the Inner Circle challenging the Young Bucks for the AEW Tag Team Championships, as well as AEW World Champion Kenny Omega defending his title against Jon Moxley in an Exploding Barbed Wire Death Match.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rtUTPUOYWYI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Devil Below
-*Released on 2021-03-05, vote average 6*
-
-A group of four amateur adventurers who specialize in exploring remote and forsaken places pay a visit to Shookum Hills, a town in the remote Appalachian Mountains which was abandoned decades ago due to a mysterious coal mine fire.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LWLwzYXbFdo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Billie Eilish: The World&#39;s a Little Blurry
-*Released on 2021-02-26, vote average 8.6*
-
-This documentary offers a deeply intimate look at extraordinary teenager Billie Eilish. Award-winning filmmaker R.J. Cutler follows her journey on the road, onstage, and at home with her family as the writing and recording of her debut album changes her life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/KKcUr1Utvlw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -359,6 +249,62 @@ Alfred “Boogie” Chin is a basketball phenom living in Queens, New York, who 
 
 
 	
+	
+
+### Cherry
+*Released on 2021-02-26, vote average 7.6*
+
+Cherry drifts from college dropout to army medic in Iraq - anchored only by his true love, Emily. But after returning from the war with PTSD, his life spirals into drugs and crime as he struggles to find his place in the world.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/H5bH6O0bErk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### The Devil Below
+*Released on 2021-03-05, vote average 5.7*
+
+A group of four amateur adventurers who specialize in exploring remote and forsaken places pay a visit to Shookum Hills, a town in the remote Appalachian Mountains which was abandoned decades ago due to a mysterious coal mine fire.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LWLwzYXbFdo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 
   
 
@@ -373,6 +319,45 @@ Alfred “Boogie” Chin is a basketball phenom living in Queens, New York, who 
   
 
 
+	
+	
+
+### Billie Eilish: The World&#39;s a Little Blurry
+*Released on 2021-02-26, vote average 8.6*
+
+This documentary offers a deeply intimate look at extraordinary teenager Billie Eilish. Award-winning filmmaker R.J. Cutler follows her journey on the road, onstage, and at home with her family as the writing and recording of her debut album changes her life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/J-MX3XDPnd8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### AEW Revolution 2021
+*Released on 2021-03-07, vote average 7*
+
+All Elite Wrestling comes around once again as the second annual event will feature the Face of the Revolution Ladder match for an opportunity at the TNT Championship, MJF &amp; Chris Jericho of the Inner Circle challenging the Young Bucks for the AEW Tag Team Championships, as well as AEW World Champion Kenny Omega defending his title against Jon Moxley in an Exploding Barbed Wire Death Match.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/rtUTPUOYWYI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -383,10 +368,12 @@ Alfred “Boogie” Chin is a basketball phenom living in Queens, New York, who 
 
 
 	
+
+	
 	
 
 ### Cosmic Sin
-*Released on 2021-03-12, vote average 6.3*
+*Released on 2021-03-12, vote average 6.4*
 
 Seven rogue soldiers launch a preemptive strike against a newly discovered alien civilization in the hopes of ending an interstellar war before it starts.
 
@@ -405,7 +392,7 @@ Seven rogue soldiers launch a preemptive strike against a newly discovered alien
 	
 
 ### Dark Web: Cicada 3301
-*Released on 2021-03-12, vote average 4.3*
+*Released on 2021-03-12, vote average 5.8*
 
 Genius hacker Connor discovers Cicada 3301, an online treasure hunt that could be a recruiting tool for a secret society. Soon Conner, art-expert friend Avi, and secretive librarian Gwen are dashing from graffiti sites to ancient libraries to uncover real-world clues. But they must outrun aggressive NSA agents, also hot on the trail of Cicada, who want the glory for themselves.
 
@@ -429,7 +416,7 @@ Genius hacker Connor discovers Cicada 3301, an online treasure hunt that could b
 	
 
 	
-
+	
 	
 
 	
