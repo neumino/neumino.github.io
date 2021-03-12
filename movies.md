@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Raya and the Last Dragon
-*Released on 2021-03-03, vote average 8.7*
+*Released on 2021-03-03, vote average 8.6*
 
 Long ago, in the fantasy world of Kumandra, humans and dragons lived together in harmony. But when an evil force threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, that same evil has returned and it’s up to a lone warrior, Raya, to track down the legendary last dragon to restore the fractured land and its divided people.
 
@@ -177,17 +177,24 @@ Transferred home after a traumatizing combat mission, a highly trained French so
 
 	
 	
+	
 
-### Locked Down
-*Released on 2021-02-25, vote average 5.8*
+  
 
-During a COVID-19 lockdown, sparring couple Linda and Paxton call a truce to attempt a high-risk jewellery heist at one of the world&#39;s most exclusive department stores, Harrods.
+
+	
+	
+
+### Cosmic Sin
+*Released on 2021-03-12, vote average 6.2*
+
+Seven rogue soldiers launch a preemptive strike against a newly discovered alien civilization in the hopes of ending an interstellar war before it starts.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/mepeWor5JPk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/9HTWDnKs6hA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -199,16 +206,9 @@ During a COVID-19 lockdown, sparring couple Linda and Paxton call a truce to att
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Crisis
-*Released on 2021-02-26, vote average 5.9*
+*Released on 2021-02-26, vote average 5.6*
 
 Three stories about the world of opioids collide: a drug trafficker arranges a multi-cartel Fentanyl smuggling operation between Canada and the U.S., an architect recovering from an OxyContin addiction tracks down the truth behind her son&#39;s involvement with narcotics, and a university professor battles unexpected revelations about his research employer, a drug company with deep government influence bringing a new &#34;non-addictive&#34; painkiller to market.
 
@@ -229,30 +229,8 @@ Three stories about the world of opioids collide: a drug trafficker arranges a m
 	
 	
 
-### Boogie
-*Released on 2021-03-05, vote average 6*
-
-Alfred “Boogie” Chin is a basketball phenom living in Queens, New York, who dreams of one day playing in the NBA. While his parents pressure him to focus on earning a scholarship to an elite college, Boogie must find a way to navigate a new girlfriend, high school, on-court rivals and the burden of expectation.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xEpSdb_f1pE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Cherry
-*Released on 2021-02-26, vote average 7.6*
+*Released on 2021-02-26, vote average 8.1*
 
 Cherry drifts from college dropout to army medic in Iraq - anchored only by his true love, Emily. But after returning from the war with PTSD, his life spirals into drugs and crime as he struggles to find his place in the world.
 
@@ -271,12 +249,59 @@ Cherry drifts from college dropout to army medic in Iraq - anchored only by his 
 
 
 	
+	
+
+### Dark Web: Cicada 3301
+*Released on 2021-03-12, vote average 6*
+
+Genius hacker Connor discovers Cicada 3301, an online treasure hunt that could be a recruiting tool for a secret society. Soon Conner, art-expert friend Avi, and secretive librarian Gwen are dashing from graffiti sites to ancient libraries to uncover real-world clues. But they must outrun aggressive NSA agents, also hot on the trail of Cicada, who want the glory for themselves.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PhTViyWswUU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 
   
 
 
 	
 	
+
+### Boogie
+*Released on 2021-03-05, vote average 6.3*
+
+Alfred “Boogie” Chin is a basketball phenom living in Queens, New York, who dreams of one day playing in the NBA. While his parents pressure him to focus on earning a scholarship to an elite college, Boogie must find a way to navigate a new girlfriend, high school, on-court rivals and the burden of expectation.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xEpSdb_f1pE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -305,36 +330,6 @@ A group of four amateur adventurers who specialize in exploring remote and forsa
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Billie Eilish: The World&#39;s a Little Blurry
-*Released on 2021-02-26, vote average 8.6*
-
-This documentary offers a deeply intimate look at extraordinary teenager Billie Eilish. Award-winning filmmaker R.J. Cutler follows her journey on the road, onstage, and at home with her family as the writing and recording of her debut album changes her life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/J-MX3XDPnd8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -342,22 +337,10 @@ This documentary offers a deeply intimate look at extraordinary teenager Billie 
 
 
 	
-	
 
-### AEW Revolution 2021
-*Released on 2021-03-07, vote average 7*
+  
 
-All Elite Wrestling comes around once again as the second annual event will feature the Face of the Revolution Ladder match for an opportunity at the TNT Championship, MJF &amp; Chris Jericho of the Inner Circle challenging the Young Bucks for the AEW Tag Team Championships, as well as AEW World Champion Kenny Omega defending his title against Jon Moxley in an Exploding Barbed Wire Death Match.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rtUTPUOYWYI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -373,7 +356,7 @@ All Elite Wrestling comes around once again as the second annual event will feat
 	
 
 ### Cosmic Sin
-*Released on 2021-03-12, vote average 6.4*
+*Released on 2021-03-12, vote average 6.2*
 
 Seven rogue soldiers launch a preemptive strike against a newly discovered alien civilization in the hopes of ending an interstellar war before it starts.
 
@@ -392,7 +375,7 @@ Seven rogue soldiers launch a preemptive strike against a newly discovered alien
 	
 
 ### Dark Web: Cicada 3301
-*Released on 2021-03-12, vote average 5.8*
+*Released on 2021-03-12, vote average 6*
 
 Genius hacker Connor discovers Cicada 3301, an online treasure hunt that could be a recruiting tool for a secret society. Soon Conner, art-expert friend Avi, and secretive librarian Gwen are dashing from graffiti sites to ancient libraries to uncover real-world clues. But they must outrun aggressive NSA agents, also hot on the trail of Cicada, who want the glory for themselves.
 
@@ -416,11 +399,26 @@ Genius hacker Connor discovers Cicada 3301, an online treasure hunt that could b
 	
 
 	
-	
-	
 
 	
 
+	
+	
+
+### Honeydew
+*Released on 2021-03-12, vote average 4.5*
+
+Strange cravings and hallucinations befall a young couple after seeking shelter in the home of an aging farmer and her peculiar son.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hHR9xvOCgGQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
