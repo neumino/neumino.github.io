@@ -90,28 +90,6 @@ Inspired by her mom&#39;s rebellious past and a confident new friend, a shy 16-y
 	
 	
 
-### The Girl on the Train
-*Released on 2021-02-26, vote average 6.7*
-
-When a voyeuristic divorcee fixates on the lives of a perfect couple a far, she soon gets embroiled in a murder mystery that unfolds revealing truths about her own life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LE8-4aRf5VQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Evangelion: 3.0&#43;1.0 Thrice Upon a Time
 *Released on 2021-03-08, vote average 10*
 
@@ -122,28 +100,6 @@ In the aftermath of the Fourth Impact, stranded without their Evangelions, Shinj
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/oe5XJhfaN1I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Crazy About Her
-*Released on 2021-02-26, vote average 7.3*
-
-After a magical night together, Adri voluntarily turns himself into the psychiatric institution where Carla lives.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/BYHR0EYLWj8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -177,16 +133,9 @@ Transferred home after a traumatizing combat mission, a highly trained French so
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Cosmic Sin
-*Released on 2021-03-12, vote average 6.2*
+*Released on 2021-03-12, vote average 5.9*
 
 Seven rogue soldiers launch a preemptive strike against a newly discovered alien civilization in the hopes of ending an interstellar war before it starts.
 
@@ -195,50 +144,6 @@ Seven rogue soldiers launch a preemptive strike against a newly discovered alien
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/9HTWDnKs6hA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Crisis
-*Released on 2021-02-26, vote average 5.6*
-
-Three stories about the world of opioids collide: a drug trafficker arranges a multi-cartel Fentanyl smuggling operation between Canada and the U.S., an architect recovering from an OxyContin addiction tracks down the truth behind her son&#39;s involvement with narcotics, and a university professor battles unexpected revelations about his research employer, a drug company with deep government influence bringing a new &#34;non-addictive&#34; painkiller to market.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/36ACqc0OHGQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Cherry
-*Released on 2021-02-26, vote average 8.1*
-
-Cherry drifts from college dropout to army medic in Iraq - anchored only by his true love, Emily. But after returning from the war with PTSD, his life spirals into drugs and crime as he struggles to find his place in the world.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/H5bH6O0bErk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -271,10 +176,64 @@ Genius hacker Connor discovers Cicada 3301, an online treasure hunt that could b
 
 
 	
+	
+
+### Long Weekend
+*Released on 2021-03-12, vote average 9*
+
+Bart&#39;s chance encounter with the enigmatic Vienna leads to a whirlwind weekend together. The two fall fast and hard, but both carry secrets that could be their undoing or the chance for a fresh start.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/HphL31Hw2x8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Devil Below
+*Released on 2021-03-05, vote average 5.5*
+
+A group of four amateur adventurers who specialize in exploring remote and forsaken places pay a visit to Shookum Hills, a town in the remote Appalachian Mountains which was abandoned decades ago due to a mysterious coal mine fire.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LWLwzYXbFdo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -303,23 +262,18 @@ Alfred “Boogie” Chin is a basketball phenom living in Queens, New York, who 
 
 
 	
-
-  
-
-
-	
 	
 
-### The Devil Below
-*Released on 2021-03-05, vote average 5.7*
+### Honeydew
+*Released on 2021-03-12, vote average 4.5*
 
-A group of four amateur adventurers who specialize in exploring remote and forsaken places pay a visit to Shookum Hills, a town in the remote Appalachian Mountains which was abandoned decades ago due to a mysterious coal mine fire.
+Strange cravings and hallucinations befall a young couple after seeking shelter in the home of an aging farmer and her peculiar son.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/LWLwzYXbFdo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/hHR9xvOCgGQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -331,6 +285,31 @@ A group of four amateur adventurers who specialize in exploring remote and forsa
 
 	
 	
+
+### Oprah with Meghan and Harry: A CBS Primetime Special
+*Released on 2021-03-07, vote average 7.8*
+
+Winfrey speaks with Markle about everything from stepping into life as a Royal, marriage, motherhood, her philanthropic work and how she is handling life under intense public pressure. Later, the two are joined by Prince Harry as they speak about their move to the United States and their future hopes and dreams for their expanding family.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/y7LJrh5UTr4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -353,42 +332,6 @@ A group of four amateur adventurers who specialize in exploring remote and forsa
 	
 
 	
-	
-
-### Cosmic Sin
-*Released on 2021-03-12, vote average 6.2*
-
-Seven rogue soldiers launch a preemptive strike against a newly discovered alien civilization in the hopes of ending an interstellar war before it starts.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/9HTWDnKs6hA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Dark Web: Cicada 3301
-*Released on 2021-03-12, vote average 6*
-
-Genius hacker Connor discovers Cicada 3301, an online treasure hunt that could be a recruiting tool for a secret society. Soon Conner, art-expert friend Avi, and secretive librarian Gwen are dashing from graffiti sites to ancient libraries to uncover real-world clues. But they must outrun aggressive NSA agents, also hot on the trail of Cicada, who want the glory for themselves.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/PhTViyWswUU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
@@ -403,22 +346,7 @@ Genius hacker Connor discovers Cicada 3301, an online treasure hunt that could b
 	
 
 	
-	
 
-### Honeydew
-*Released on 2021-03-12, vote average 4.5*
-
-Strange cravings and hallucinations befall a young couple after seeking shelter in the home of an aging farmer and her peculiar son.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hHR9xvOCgGQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
