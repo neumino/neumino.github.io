@@ -68,6 +68,28 @@ Prince Akeem Joffer is set to become King of Zamunda when he discovers he has a 
 	
 	
 
+### Sentinelle
+*Released on 2021-03-05, vote average 6.3*
+
+Transferred home after a traumatizing combat mission, a highly trained French soldier uses her lethal skills to hunt down the man who hurt her sister.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wAJcykyq7DU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Moxie
 *Released on 2021-03-03, vote average 7.6*
 
@@ -112,30 +134,8 @@ In the aftermath of the Fourth Impact, stranded without their Evangelions, Shinj
 	
 	
 
-### Sentinelle
-*Released on 2021-03-05, vote average 6.3*
-
-Transferred home after a traumatizing combat mission, a highly trained French soldier uses her lethal skills to hunt down the man who hurt her sister.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wAJcykyq7DU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Cosmic Sin
-*Released on 2021-03-12, vote average 5.9*
+*Released on 2021-03-12, vote average 5.8*
 
 Seven rogue soldiers launch a preemptive strike against a newly discovered alien civilization in the hopes of ending an interstellar war before it starts.
 
@@ -178,8 +178,99 @@ Genius hacker Connor discovers Cicada 3301, an online treasure hunt that could b
 	
 	
 
+### Yes Day
+*Released on 2021-03-12, vote average 6.9*
+
+A mom and dad who usually say no decide to say yes to their kids&#39; wildest requests — with a few ground rules — on a whirlwind day of fun and adventure.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Y-3Vr8Ut8d0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Come True
+*Released on 2021-03-12, vote average 7*
+
+High school student Sarah is at her lowest point when she runs away from home and finds herself with no one to rely on and struggling with recurring nightmares. She chances upon a university sleep study that offers the promise of safety and money, and which also brings her an unexpected friend and confidant in the overseeing scientist Jeremy. But there’s something curious about proceedings, and being under observation seems to make Sarah’s disturbing dreams even worse. As the darkness begins to close in, it’s soon clear that Sarah has unknowingly become the conduit to a horrifying new discovery…
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QiK9xcfElTo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### SAS: Red Notice
+*Released on 2021-03-12, vote average 1*
+
+An off-duty SAS soldier, Tom Buckingham, must thwart a terror attack on a train running through the Channel Tunnel. As the action escalates on the train, events transpire in the corridors of power that may make the difference as to whether Buckingham and the civilian passengers make it out of the tunnel alive.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/GWSfMde1Sx8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### Long Weekend
-*Released on 2021-03-12, vote average 9*
+*Released on 2021-03-12, vote average 7.5*
 
 Bart&#39;s chance encounter with the enigmatic Vienna leads to a whirlwind weekend together. The two fall fast and hard, but both carry secrets that could be their undoing or the chance for a fresh start.
 
@@ -198,52 +289,10 @@ Bart&#39;s chance encounter with the enigmatic Vienna leads to a whirlwind weeke
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Devil Below
-*Released on 2021-03-05, vote average 5.5*
-
-A group of four amateur adventurers who specialize in exploring remote and forsaken places pay a visit to Shookum Hills, a town in the remote Appalachian Mountains which was abandoned decades ago due to a mysterious coal mine fire.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LWLwzYXbFdo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 	
 
 ### Boogie
-*Released on 2021-03-05, vote average 6.3*
+*Released on 2021-03-05, vote average 6.8*
 
 Alfred “Boogie” Chin is a basketball phenom living in Queens, New York, who dreams of one day playing in the NBA. While his parents pressure him to focus on earning a scholarship to an elite college, Boogie must find a way to navigate a new girlfriend, high school, on-court rivals and the burden of expectation.
 
@@ -263,21 +312,11 @@ Alfred “Boogie” Chin is a basketball phenom living in Queens, New York, who 
 
 	
 	
-
-### Honeydew
-*Released on 2021-03-12, vote average 4.5*
-
-Strange cravings and hallucinations befall a young couple after seeking shelter in the home of an aging farmer and her peculiar son.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hHR9xvOCgGQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
+
+  
+
+
 	
 
   
@@ -287,7 +326,7 @@ Strange cravings and hallucinations befall a young couple after seeking shelter 
 	
 
 ### Oprah with Meghan and Harry: A CBS Primetime Special
-*Released on 2021-03-07, vote average 7.8*
+*Released on 2021-03-07, vote average 7.9*
 
 Winfrey speaks with Markle about everything from stepping into life as a Royal, marriage, motherhood, her philanthropic work and how she is handling life under intense public pressure. Later, the two are joined by Prince Harry as they speak about their move to the United States and their future hopes and dreams for their expanding family.
 
@@ -300,26 +339,6 @@ Winfrey speaks with Markle about everything from stepping into life as a Royal, 
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
