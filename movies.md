@@ -69,7 +69,7 @@ Prince Akeem Joffer is set to become King of Zamunda when he discovers he has a 
 	
 
 ### Sentinelle
-*Released on 2021-03-05, vote average 6.3*
+*Released on 2021-03-05, vote average 6.2*
 
 Transferred home after a traumatizing combat mission, a highly trained French soldier uses her lethal skills to hunt down the man who hurt her sister.
 
@@ -91,7 +91,7 @@ Transferred home after a traumatizing combat mission, a highly trained French so
 	
 
 ### Moxie
-*Released on 2021-03-03, vote average 7.6*
+*Released on 2021-03-03, vote average 7.5*
 
 Inspired by her mom&#39;s rebellious past and a confident new friend, a shy 16-year-old publishes an anonymous zine calling out sexism at her school.
 
@@ -113,7 +113,7 @@ Inspired by her mom&#39;s rebellious past and a confident new friend, a shy 16-y
 	
 
 ### Evangelion: 3.0&#43;1.0 Thrice Upon a Time
-*Released on 2021-03-08, vote average 10*
+*Released on 2021-03-08, vote average 7.7*
 
 In the aftermath of the Fourth Impact, stranded without their Evangelions, Shinji, Asuka, and Rei search for refuge in the desolate red remains of Tokyo-3. But the danger to the world is far from over. A new impact is looming on the horizon—one that will prove to be the true end of Evangelion.
 
@@ -134,52 +134,8 @@ In the aftermath of the Fourth Impact, stranded without their Evangelions, Shinj
 	
 	
 
-### Cosmic Sin
-*Released on 2021-03-12, vote average 5.8*
-
-Seven rogue soldiers launch a preemptive strike against a newly discovered alien civilization in the hopes of ending an interstellar war before it starts.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/9HTWDnKs6hA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Dark Web: Cicada 3301
-*Released on 2021-03-12, vote average 6*
-
-Genius hacker Connor discovers Cicada 3301, an online treasure hunt that could be a recruiting tool for a secret society. Soon Conner, art-expert friend Avi, and secretive librarian Gwen are dashing from graffiti sites to ancient libraries to uncover real-world clues. But they must outrun aggressive NSA agents, also hot on the trail of Cicada, who want the glory for themselves.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/PhTViyWswUU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Yes Day
-*Released on 2021-03-12, vote average 6.9*
+*Released on 2021-03-12, vote average 7.2*
 
 A mom and dad who usually say no decide to say yes to their kids&#39; wildest requests — with a few ground rules — on a whirlwind day of fun and adventure.
 
@@ -200,8 +156,30 @@ A mom and dad who usually say no decide to say yes to their kids&#39; wildest re
 	
 	
 
+### Cosmic Sin
+*Released on 2021-03-12, vote average 5.7*
+
+Seven rogue soldiers launch a preemptive strike against a newly discovered alien civilization in the hopes of ending an interstellar war before it starts.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/9HTWDnKs6hA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Come True
-*Released on 2021-03-12, vote average 7*
+*Released on 2021-03-12, vote average 7.3*
 
 High school student Sarah is at her lowest point when she runs away from home and finds herself with no one to rely on and struggling with recurring nightmares. She chances upon a university sleep study that offers the promise of safety and money, and which also brings her an unexpected friend and confidant in the overseeing scientist Jeremy. But there’s something curious about proceedings, and being under observation seems to make Sarah’s disturbing dreams even worse. As the darkness begins to close in, it’s soon clear that Sarah has unknowingly become the conduit to a horrifying new discovery…
 
@@ -220,25 +198,10 @@ High school student Sarah is at her lowest point when she runs away from home an
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### SAS: Red Notice
-*Released on 2021-03-12, vote average 1*
+*Released on 2021-03-12, vote average 4.8*
 
 An off-duty SAS soldier, Tom Buckingham, must thwart a terror attack on a train running through the Channel Tunnel. As the action escalates on the train, events transpire in the corridors of power that may make the difference as to whether Buckingham and the civilian passengers make it out of the tunnel alive.
 
@@ -257,28 +220,89 @@ An off-duty SAS soldier, Tom Buckingham, must thwart a terror attack on a train 
 
 
 	
-
-  
-
-
 	
 
-  
+### Trust
+*Released on 2021-03-12, vote average 7*
 
-
-	
-	
-
-### Long Weekend
-*Released on 2021-03-12, vote average 7.5*
-
-Bart&#39;s chance encounter with the enigmatic Vienna leads to a whirlwind weekend together. The two fall fast and hard, but both carry secrets that could be their undoing or the chance for a fresh start.
+Set in the glamour of the New York and Paris art scenes, gallery owner Brooke Gatwick and her newscaster husband Owen, face temptation, jealousy, twists and mystery when two seductive newcomers enter their lives.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/HphL31Hw2x8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/cFYaADDJI6g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Dark Web: Cicada 3301
+*Released on 2021-03-12, vote average 6.8*
+
+Genius hacker Connor discovers Cicada 3301, an online treasure hunt that could be a recruiting tool for a secret society. Soon Conner, art-expert friend Avi, and secretive librarian Gwen are dashing from graffiti sites to ancient libraries to uncover real-world clues. But they must outrun aggressive NSA agents, also hot on the trail of Cicada, who want the glory for themselves.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PhTViyWswUU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### kid 90
+*Released on 2021-03-12, vote average 8.6*
+
+As a teenager in the &#39;90s, Soleil Moon Frye carried a video camera everywhere she went. She documented hundreds of hours of footage and then locked it away for over 20 years.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0kbgWzN0OWc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Paper Lives
+*Released on 2021-03-12, vote average 7.9*
+
+In the streets of Istanbul, ailing waste warehouse worker Mehmet takes a small boy under his wing and must soon confront his own traumatic childhood.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/lXdSaVK-vzs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -304,13 +328,6 @@ Alfred “Boogie” Chin is a basketball phenom living in Queens, New York, who 
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -344,6 +361,21 @@ Winfrey speaks with Markle about everything from stepping into life as a Royal, 
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -368,6 +400,8 @@ Winfrey speaks with Markle about everything from stepping into life as a Royal, 
 
 	
 
+	
+	
 	
 
 	
