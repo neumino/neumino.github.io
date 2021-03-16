@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Raya and the Last Dragon
-*Released on 2021-03-03, vote average 8.6*
+*Released on 2021-03-03, vote average 8.5*
 
 Long ago, in the fantasy world of Kumandra, humans and dragons lived together in harmony. But when an evil force threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, that same evil has returned and it’s up to a lone warrior, Raya, to track down the legendary last dragon to restore the fractured land and its divided people.
 
@@ -156,6 +156,72 @@ A mom and dad who usually say no decide to say yes to their kids&#39; wildest re
 	
 	
 
+### Come True
+*Released on 2021-03-12, vote average 6.7*
+
+High school student Sarah is at her lowest point when she runs away from home and finds herself with no one to rely on and struggling with recurring nightmares. She chances upon a university sleep study that offers the promise of safety and money, and which also brings her an unexpected friend and confidant in the overseeing scientist Jeremy. But there’s something curious about proceedings, and being under observation seems to make Sarah’s disturbing dreams even worse. As the darkness begins to close in, it’s soon clear that Sarah has unknowingly become the conduit to a horrifying new discovery…
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QiK9xcfElTo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### SAS: Red Notice
+*Released on 2021-03-12, vote average 4.2*
+
+An off-duty SAS soldier, Tom Buckingham, must thwart a terror attack on a train running through the Channel Tunnel. As the action escalates on the train, events transpire in the corridors of power that may make the difference as to whether Buckingham and the civilian passengers make it out of the tunnel alive.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/GWSfMde1Sx8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Paper Lives
+*Released on 2021-03-12, vote average 7.8*
+
+In the streets of Istanbul, ailing waste warehouse worker Mehmet takes a small boy under his wing and must soon confront his own traumatic childhood.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/lXdSaVK-vzs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Cosmic Sin
 *Released on 2021-03-12, vote average 5.7*
 
@@ -178,16 +244,16 @@ Seven rogue soldiers launch a preemptive strike against a newly discovered alien
 	
 	
 
-### Come True
-*Released on 2021-03-12, vote average 7.3*
+### Dark Web: Cicada 3301
+*Released on 2021-03-12, vote average 7*
 
-High school student Sarah is at her lowest point when she runs away from home and finds herself with no one to rely on and struggling with recurring nightmares. She chances upon a university sleep study that offers the promise of safety and money, and which also brings her an unexpected friend and confidant in the overseeing scientist Jeremy. But there’s something curious about proceedings, and being under observation seems to make Sarah’s disturbing dreams even worse. As the darkness begins to close in, it’s soon clear that Sarah has unknowingly become the conduit to a horrifying new discovery…
+Genius hacker Connor discovers Cicada 3301, an online treasure hunt that could be a recruiting tool for a secret society. Soon Conner, art-expert friend Avi, and secretive librarian Gwen are dashing from graffiti sites to ancient libraries to uncover real-world clues. But they must outrun aggressive NSA agents, also hot on the trail of Cicada, who want the glory for themselves.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/QiK9xcfElTo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/PhTViyWswUU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -198,22 +264,10 @@ High school student Sarah is at her lowest point when she runs away from home an
 
 
 	
-	
 
-### SAS: Red Notice
-*Released on 2021-03-12, vote average 4.8*
+  
 
-An off-duty SAS soldier, Tom Buckingham, must thwart a terror attack on a train running through the Channel Tunnel. As the action escalates on the train, events transpire in the corridors of power that may make the difference as to whether Buckingham and the civilian passengers make it out of the tunnel alive.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/GWSfMde1Sx8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -244,16 +298,16 @@ Set in the glamour of the New York and Paris art scenes, gallery owner Brooke Ga
 	
 	
 
-### Dark Web: Cicada 3301
-*Released on 2021-03-12, vote average 6.8*
+### Boogie
+*Released on 2021-03-05, vote average 6.8*
 
-Genius hacker Connor discovers Cicada 3301, an online treasure hunt that could be a recruiting tool for a secret society. Soon Conner, art-expert friend Avi, and secretive librarian Gwen are dashing from graffiti sites to ancient libraries to uncover real-world clues. But they must outrun aggressive NSA agents, also hot on the trail of Cicada, who want the glory for themselves.
+Alfred “Boogie” Chin is a basketball phenom living in Queens, New York, who dreams of one day playing in the NBA. While his parents pressure him to focus on earning a scholarship to an elite college, Boogie must find a way to navigate a new girlfriend, high school, on-court rivals and the burden of expectation.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/PhTViyWswUU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xEpSdb_f1pE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -291,77 +345,6 @@ As a teenager in the &#39;90s, Soleil Moon Frye carried a video camera everywher
 
 
 	
-	
-
-### Paper Lives
-*Released on 2021-03-12, vote average 7.9*
-
-In the streets of Istanbul, ailing waste warehouse worker Mehmet takes a small boy under his wing and must soon confront his own traumatic childhood.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/lXdSaVK-vzs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Boogie
-*Released on 2021-03-05, vote average 6.8*
-
-Alfred “Boogie” Chin is a basketball phenom living in Queens, New York, who dreams of one day playing in the NBA. While his parents pressure him to focus on earning a scholarship to an elite college, Boogie must find a way to navigate a new girlfriend, high school, on-court rivals and the burden of expectation.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xEpSdb_f1pE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Oprah with Meghan and Harry: A CBS Primetime Special
-*Released on 2021-03-07, vote average 7.9*
-
-Winfrey speaks with Markle about everything from stepping into life as a Royal, marriage, motherhood, her philanthropic work and how she is handling life under intense public pressure. Later, the two are joined by Prince Harry as they speak about their move to the United States and their future hopes and dreams for their expanding family.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/y7LJrh5UTr4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 
   
 
@@ -381,6 +364,23 @@ Winfrey speaks with Markle about everything from stepping into life as a Royal, 
 
 
 	
+	
+
+### Zack Snyder&#39;s Justice League
+*Released on 2021-03-18, vote average 9.6*
+
+Determined to ensure Superman&#39;s ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/XIOU_k4mwDw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
@@ -401,8 +401,6 @@ Winfrey speaks with Markle about everything from stepping into life as a Royal, 
 	
 
 	
-	
-	
 
 	
 
@@ -410,6 +408,23 @@ Winfrey speaks with Markle about everything from stepping into life as a Royal, 
 
 	
 
+	
+	
+
+### Looks That Kill
+*Released on 2021-03-18, vote average 8*
+
+The story of a teenage boy who deals with the ups and downs of being lethally attractive.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Wl58hTp_KwQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
