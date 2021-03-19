@@ -69,7 +69,7 @@ Prince Akeem Joffer is set to become King of Zamunda when he discovers he has a 
 	
 
 ### Zack Snyder&#39;s Justice League
-*Released on 2021-03-18, vote average 8.2*
+*Released on 2021-03-18, vote average 8.7*
 
 Determined to ensure Superman&#39;s ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.
 
@@ -78,6 +78,28 @@ Determined to ensure Superman&#39;s ultimate sacrifice was not in vain, Bruce Wa
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/vM-Bja2Gy04?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Yes Day
+*Released on 2021-03-12, vote average 7.2*
+
+A mom and dad who usually say no decide to say yes to their kids&#39; wildest requests — with a few ground rules — on a whirlwind day of fun and adventure.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Y-3Vr8Ut8d0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,30 +134,8 @@ In the aftermath of the Fourth Impact, stranded without their Evangelions, Shinj
 	
 	
 
-### Yes Day
-*Released on 2021-03-12, vote average 7.3*
-
-A mom and dad who usually say no decide to say yes to their kids&#39; wildest requests — with a few ground rules — on a whirlwind day of fun and adventure.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Y-3Vr8Ut8d0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Paper Lives
-*Released on 2021-03-12, vote average 8.7*
+*Released on 2021-03-12, vote average 8.6*
 
 In the streets of Istanbul, ailing waste warehouse worker Mehmet takes a small boy under his wing and must soon confront his own traumatic childhood.
 
@@ -157,7 +157,7 @@ In the streets of Istanbul, ailing waste warehouse worker Mehmet takes a small b
 	
 
 ### SAS: Red Notice
-*Released on 2021-03-12, vote average 6.4*
+*Released on 2021-03-12, vote average 6.5*
 
 An off-duty SAS soldier, Tom Buckingham, must thwart a terror attack on a train running through the Channel Tunnel. As the action escalates on the train, events transpire in the corridors of power that may make the difference as to whether Buckingham and the civilian passengers make it out of the tunnel alive.
 
@@ -166,50 +166,6 @@ An off-duty SAS soldier, Tom Buckingham, must thwart a terror attack on a train 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/GWSfMde1Sx8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Vault
-*Released on 2021-03-04, vote average 6.9*
-
-Learning that a legendary lost treasure will be deposited in the bank&#39;s safe for just 10 days, Thom masterminds a meticulous plan along with charismatic art dealer Walter to break into the Bank. But they have only 90 minutes to do so, when the bank&#39;s staff will be mightily distracted by the 2010 soccer World Cup final.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/JdPJQPdqv8Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Come True
-*Released on 2021-03-12, vote average 6.5*
-
-High school student Sarah is at her lowest point when she runs away from home and finds herself with no one to rely on and struggling with recurring nightmares. She chances upon a university sleep study that offers the promise of safety and money, and which also brings her an unexpected friend and confidant in the overseeing scientist Jeremy. But there’s something curious about proceedings, and being under observation seems to make Sarah’s disturbing dreams even worse. As the darkness begins to close in, it’s soon clear that Sarah has unknowingly become the conduit to a horrifying new discovery…
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/QiK9xcfElTo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -242,12 +198,44 @@ Hutch Mansell, a suburban dad, overlooked husband, nothing neighbor — a &#34;n
 
 
 	
+
+  
+
+
+	
+	
+
+### Come True
+*Released on 2021-03-12, vote average 6.2*
+
+High school student Sarah is at her lowest point when she runs away from home and finds herself with no one to rely on and struggling with recurring nightmares. She chances upon a university sleep study that offers the promise of safety and money, and which also brings her an unexpected friend and confidant in the overseeing scientist Jeremy. But there’s something curious about proceedings, and being under observation seems to make Sarah’s disturbing dreams even worse. As the darkness begins to close in, it’s soon clear that Sarah has unknowingly become the conduit to a horrifying new discovery…
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QiK9xcfElTo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### Cosmic Sin
 *Released on 2021-03-12, vote average 5.7*
 
-Seven rogue soldiers launch a preemptive strike against a newly discovered alien civilization in the hopes of ending an interstellar war before it starts.
+Bruce Willis and Frank Grillo star in the new epic sci-fi adventure set in the year 2524, four hundred years after humans started colonizing the outer planets. Retired Military General James Ford (Willis) is called back into service after soldiers on a remote planet are attacked by a hostile alien fleet. The threat against the human race escalates into an inevitable interstellar war. General Ford teams up with General Eron Ryle (Grillo) and a team of elite soldiers in a race to stop the imminent attack before it is too late.
 
 <iframe id="player"
 	type="text/html"
@@ -264,37 +252,32 @@ Seven rogue soldiers launch a preemptive strike against a newly discovered alien
 
 
 	
-
-  
-
-
 	
 
-  
+### Looks That Kill
+*Released on 2021-03-18, vote average 9*
 
-
-	
-
-  
-
-
-	
-	
-
-### My Husband&#39;s Deadly Past
-*Released on 2021-03-16, vote average 8*
-
-A woman haunted by visions that suggest she killed a missing co-ed discovers that her psychiatrist husband has manipulated her memory to hide his own role in the murder.
+The story of a teenage boy who deals with the ups and downs of being lethally attractive.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/wXWMsoo9VFA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Wl58hTp_KwQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -330,82 +313,48 @@ A woman haunted by visions that suggest she killed a missing co-ed discovers tha
 
 
 	
+
 	
 
-### Zack Snyder&#39;s Justice League
-*Released on 2021-03-18, vote average 8.2*
+	
 
-Determined to ensure Superman&#39;s ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### V.C. Andrews&#39; Ruby
+*Released on 2021-03-20, vote average 7*
+
+Ruby Landry is filled with hope as love blooms with her high school sweetheart Paul Tate. But lingering thoughts of her mysterious father and her mother&#39;s death often creep into Ruby&#39;s mind.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/vM-Bja2Gy04?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/pXBjXeL2uvs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-	
-
-### Nobody
-*Released on 2021-03-18, vote average 10*
-
-Hutch Mansell, a suburban dad, overlooked husband, nothing neighbor — a &#34;nobody.&#34; When two thieves break into his home one night, Hutch&#39;s unknown long-simmering rage is ignited and propels him on a brutal path that will uncover dark secrets he fought to leave behind.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wZti8QKBWPo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-	
-
-### Looks That Kill
-*Released on 2021-03-18, vote average 8*
-
-The story of a teenage boy who deals with the ups and downs of being lethally attractive.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Wl58hTp_KwQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
