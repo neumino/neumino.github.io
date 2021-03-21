@@ -47,7 +47,7 @@ Determined to ensure Superman&#39;s ultimate sacrifice was not in vain, Bruce Wa
 	
 
 ### Yes Day
-*Released on 2021-03-12, vote average 7.2*
+*Released on 2021-03-12, vote average 7.1*
 
 A mom and dad who usually say no decide to say yes to their kids&#39; wildest requests — with a few ground rules — on a whirlwind day of fun and adventure.
 
@@ -91,7 +91,7 @@ In the aftermath of the Fourth Impact, stranded without their Evangelions, Shinj
 	
 
 ### Paper Lives
-*Released on 2021-03-12, vote average 8.8*
+*Released on 2021-03-12, vote average 8.5*
 
 In the streets of Istanbul, ailing waste warehouse worker Mehmet takes a small boy under his wing and must soon confront his own traumatic childhood.
 
@@ -113,7 +113,7 @@ In the streets of Istanbul, ailing waste warehouse worker Mehmet takes a small b
 	
 
 ### Operation Varsity Blues: The College Admissions Scandal
-*Released on 2021-03-17, vote average 7.8*
+*Released on 2021-03-17, vote average 7.5*
 
 An examination that goes beyond the celebrity-driven headlines and dives into the methods used by Rick Singer, the man at the center of the shocking 2019 college admissions scandal, to persuade his wealthy clients to cheat an educational system already designed to benefit the privileged.
 
@@ -132,10 +132,37 @@ An examination that goes beyond the celebrity-driven headlines and dives into th
 
 
 	
+
+  
+
+
+	
+	
+
+### Deadly Illusions
+*Released on 2021-03-18, vote average 4.5*
+
+A bestselling female novelist, suffering from writer&#39;s block, hires an innocent young woman to watch over her twin children. As the novelist dangerously indulges in her new best seller, the line between the life she&#39;s writing and the one she&#39;s living becomes blurred.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/cp34AFMKN9U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 
 ### SAS: Red Notice
-*Released on 2021-03-12, vote average 6.2*
+*Released on 2021-03-12, vote average 6*
 
 An off-duty SAS soldier, Tom Buckingham, must thwart a terror attack on a train running through the Channel Tunnel. As the action escalates on the train, events transpire in the corridors of power that may make the difference as to whether Buckingham and the civilian passengers make it out of the tunnel alive.
 
@@ -156,8 +183,30 @@ An off-duty SAS soldier, Tom Buckingham, must thwart a terror attack on a train 
 	
 	
 
+### Last Call
+*Released on 2021-03-19, vote average 5*
+
+A real estate developer returns to his old Philly neighborhood and must decide to raze or resurrect the family bar.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qSYt0Gtnzgs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Nobody
-*Released on 2021-03-18, vote average 9.7*
+*Released on 2021-03-18, vote average 9.8*
 
 Hutch Mansell, a suburban dad, overlooked husband, nothing neighbor — a &#34;nobody.&#34; When two thieves break into his home one night, Hutch&#39;s unknown long-simmering rage is ignited and propels him on a brutal path that will uncover dark secrets he fought to leave behind.
 
@@ -175,6 +224,23 @@ Hutch Mansell, a suburban dad, overlooked husband, nothing neighbor — a &#34;n
   
 
 
+	
+	
+
+### Happily
+*Released on 2021-03-19, vote average 5*
+
+A dark romantic comedy. Tom and Janet have been happily married for years. But a visit from a mysterious stranger leads to a dead body, a lot of questions, and a tense couples&#39; trip with friends who may not actually be friends at all.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/CzBGS5jDzxU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -209,17 +275,41 @@ Bruce Willis and Frank Grillo star in the new epic sci-fi adventure set in the y
 
 	
 	
+	
 
-### Deadly Illusions
-*Released on 2021-03-18, vote average 4.3*
+  
 
-A bestselling female novelist, suffering from writer&#39;s block, hires an innocent young woman to watch over her twin children. As the novelist dangerously indulges in her new best seller, the line between the life she&#39;s writing and the one she&#39;s living becomes blurred.
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Groomed
+*Released on 2021-03-18, vote average 10*
+
+Gwen van de Pas returns to her hometown in search of answers about the man who sexually abused her as a child.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/cp34AFMKN9U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/PPOjj92g_9Y?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -253,73 +343,6 @@ High school student Sarah is at her lowest point when she runs away from home an
 
 	
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Looks That Kill
-*Released on 2021-03-18, vote average 9*
-
-The story of a teenage boy who deals with the ups and downs of being lethally attractive.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Wl58hTp_KwQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-
-## Opening soon
-
-
-	
-
-	
-
-	
-	
 
 ### V.C. Andrews&#39; Ruby
 *Released on 2021-03-20, vote average 7*
@@ -335,6 +358,19 @@ Ruby Landry is filled with hope as love blooms with her high school sweetheart P
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+
+## Opening soon
+
+
+	
+
+	
+
 	
 
 	
