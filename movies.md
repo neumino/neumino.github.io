@@ -47,7 +47,7 @@ Determined to ensure Superman&#39;s ultimate sacrifice was not in vain, Bruce Wa
 	
 
 ### Godzilla vs. Kong
-*Released on 2021-03-24, vote average 6.4*
+*Released on 2021-03-24, vote average 6.8*
 
 In a time when monsters walk the Earth, humanity’s fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages.
 
@@ -91,7 +91,7 @@ A mom and dad who usually say no decide to say yes to their kids&#39; wildest re
 	
 
 ### Paper Lives
-*Released on 2021-03-12, vote average 8.4*
+*Released on 2021-03-12, vote average 8.3*
 
 In the streets of Istanbul, ailing waste warehouse worker Mehmet takes a small boy under his wing and must soon confront his own traumatic childhood.
 
@@ -133,9 +133,16 @@ A bestselling female novelist, suffering from writer&#39;s block, hires an innoc
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Operation Varsity Blues: The College Admissions Scandal
-*Released on 2021-03-17, vote average 6.8*
+*Released on 2021-03-17, vote average 6.9*
 
 An examination that goes beyond the celebrity-driven headlines and dives into the methods used by Rick Singer, the man at the center of the shocking 2019 college admissions scandal, to persuade his wealthy clients to cheat an educational system already designed to benefit the privileged.
 
@@ -155,16 +162,9 @@ An examination that goes beyond the celebrity-driven headlines and dives into th
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Nobody
-*Released on 2021-03-18, vote average 8.6*
+*Released on 2021-03-18, vote average 8.5*
 
 Hutch Mansell, a suburban dad, overlooked husband, nothing neighbor — a &#34;nobody.&#34; When two thieves break into his home one night, Hutch&#39;s unknown long-simmering rage is ignited and propels him on a brutal path that will uncover dark secrets he fought to leave behind.
 
@@ -185,30 +185,8 @@ Hutch Mansell, a suburban dad, overlooked husband, nothing neighbor — a &#34;n
 	
 	
 
-### Happily
-*Released on 2021-03-19, vote average 5.1*
-
-A dark romantic comedy. Tom and Janet have been happily married for years. But a visit from a mysterious stranger leads to a dead body, a lot of questions, and a tense couples&#39; trip with friends who may not actually be friends at all.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/CzBGS5jDzxU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Doors
-*Released on 2021-03-23, vote average 5.5*
+*Released on 2021-03-23, vote average 4.8*
 
 Without warning, millions of mysterious alien “doors” suddenly appear around the globe. In a rush to determine the reason for their arrival, mankind must work together to understand the purpose of these cosmic anomalies.
 
@@ -235,9 +213,72 @@ Without warning, millions of mysterious alien “doors” suddenly appear around
 
 	
 	
+	
+
+  
+
+
+	
+	
+
+### Happily
+*Released on 2021-03-19, vote average 4.7*
+
+A dark romantic comedy. Tom and Janet have been happily married for years. But a visit from a mysterious stranger leads to a dead body, a lot of questions, and a tense couples&#39; trip with friends who may not actually be friends at all.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/CzBGS5jDzxU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Courier
+*Released on 2021-03-11, vote average 7*
+
+Cold War spy Greville Wynne and his Russian source try to put an end to the Cuban Missile Crisis.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Qeo8qs9xohM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
 
 ### SAS: Red Notice
-*Released on 2021-03-12, vote average 6.9*
+*Released on 2021-03-12, vote average 6.8*
 
 An off-duty SAS soldier, Tom Buckingham, must thwart a terror attack on a train running through the Channel Tunnel. As the action escalates on the train, events transpire in the corridors of power that may make the difference as to whether Buckingham and the civilian passengers make it out of the tunnel alive.
 
@@ -278,66 +319,6 @@ Bruce Willis and Frank Grillo star in the new epic sci-fi adventure set in the y
 
 
 	
-	
-
-### The Courier
-*Released on 2021-03-11, vote average 7*
-
-Cold War spy Greville Wynne and his Russian source try to put an end to the Cuban Missile Crisis.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Qeo8qs9xohM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Exodus
-*Released on 2021-03-19, vote average 4.5*
-
-When a VHS-tape proves the existence of a rumored doorway to paradise, a young man abandons his decaying hometown in pursuit of the door to salvation, evading vengeful pursuers along the way.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XP5tNWsOrCc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -347,23 +328,6 @@ When a VHS-tape proves the existence of a rumored doorway to paradise, a young m
   
 
 
-	
-	
-
-### Come True
-*Released on 2021-03-12, vote average 6.5*
-
-High school student Sarah is at her lowest point when she runs away from home and finds herself with no one to rely on and struggling with recurring nightmares. She chances upon a university sleep study that offers the promise of safety and money, and which also brings her an unexpected friend and confidant in the overseeing scientist Jeremy. But there’s something curious about proceedings, and being under observation seems to make Sarah’s disturbing dreams even worse. As the darkness begins to close in, it’s soon clear that Sarah has unknowingly become the conduit to a horrifying new discovery…
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/QiK9xcfElTo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -372,25 +336,6 @@ High school student Sarah is at her lowest point when she runs away from home an
 
 ## Opening soon
 
-
-	
-	
-
-### Godzilla vs. Kong
-*Released on 2021-03-24, vote average 6.4*
-
-In a time when monsters walk the Earth, humanity’s fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/odM92ap8_c0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
@@ -413,6 +358,8 @@ A renowned exorcist teams up with a rookie priest for his first day of training.
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
