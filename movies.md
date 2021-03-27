@@ -47,7 +47,7 @@ Determined to ensure Superman&#39;s ultimate sacrifice was not in vain, Bruce Wa
 	
 
 ### Godzilla vs. Kong
-*Released on 2021-03-24, vote average 7.6*
+*Released on 2021-03-24, vote average 7.3*
 
 In a time when monsters walk the Earth, humanity’s fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages.
 
@@ -56,50 +56,6 @@ In a time when monsters walk the Earth, humanity’s fight for its future sets G
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/odM92ap8_c0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Yes Day
-*Released on 2021-03-12, vote average 7.1*
-
-A mom and dad who usually say no decide to say yes to their kids&#39; wildest requests — with a few ground rules — on a whirlwind day of fun and adventure.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Y-3Vr8Ut8d0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Paper Lives
-*Released on 2021-03-12, vote average 8.3*
-
-In the streets of Istanbul, ailing waste warehouse worker Mehmet takes a small boy under his wing and must soon confront his own traumatic childhood.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/lXdSaVK-vzs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -142,7 +98,7 @@ A bestselling female novelist, suffering from writer&#39;s block, hires an innoc
 	
 
 ### Doors
-*Released on 2021-03-23, vote average 5.6*
+*Released on 2021-03-23, vote average 6.6*
 
 Without warning, millions of mysterious alien “doors” suddenly appear around the globe. In a rush to determine the reason for their arrival, mankind must work together to understand the purpose of these cosmic anomalies.
 
@@ -151,6 +107,72 @@ Without warning, millions of mysterious alien “doors” suddenly appear around
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/2kKnbsstui0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Seventh Day
+*Released on 2021-03-26, vote average 4.3*
+
+A renowned exorcist teams up with a rookie priest for his first day of training. As they plunge deeper into hell on earth, the lines between good and evil blur, and their own demons emerge.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/HJThAgic45Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Seaspiracy
+*Released on 2021-03-24, vote average 9.5*
+
+Passionate about ocean life, a filmmaker sets out to document the harm that humans do to marine species — and uncovers an alarming global conspiracy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/1Q5CXN7soQg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Nobody
+*Released on 2021-03-18, vote average 8.1*
+
+Hutch Mansell, a suburban dad, overlooked husband, nothing neighbor — a &#34;nobody.&#34; When two thieves break into his home one night, Hutch&#39;s unknown long-simmering rage is ignited and propels him on a brutal path that will uncover dark secrets he fought to leave behind.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wZti8QKBWPo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -184,133 +206,21 @@ An examination that goes beyond the celebrity-driven headlines and dives into th
 
 	
 	
-	
 
-  
+### A Week Away
+*Released on 2021-03-26, vote average 10*
 
-
-	
-	
-
-### The Seventh Day
-*Released on 2021-03-26, vote average 4.3*
-
-A renowned exorcist teams up with a rookie priest for his first day of training. As they plunge deeper into hell on earth, the lines between good and evil blur, and their own demons emerge.
+Troubled teen Will Hawkins has a run-in with the law that puts him at an important crossroad: go to juvenile detention or attend a Christian summer camp. At first a fish-out-of-water, Will opens his heart, discovers love with a camp regular, and sense of belonging in the last place he expected to find it.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/HJThAgic45Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/dpLaoYw8xug?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### Nobody
-*Released on 2021-03-18, vote average 8.3*
-
-Hutch Mansell, a suburban dad, overlooked husband, nothing neighbor — a &#34;nobody.&#34; When two thieves break into his home one night, Hutch&#39;s unknown long-simmering rage is ignited and propels him on a brutal path that will uncover dark secrets he fought to leave behind.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wZti8QKBWPo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Seaspiracy
-*Released on 2021-03-24, vote average 9.3*
-
-Passionate about ocean life, a filmmaker sets out to document the harm that humans do to marine species — and uncovers an alarming global conspiracy.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/1Q5CXN7soQg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### SAS: Red Notice
-*Released on 2021-03-12, vote average 6.9*
-
-An off-duty SAS soldier, Tom Buckingham, must thwart a terror attack on a train running through the Channel Tunnel. As the action escalates on the train, events transpire in the corridors of power that may make the difference as to whether Buckingham and the civilian passengers make it out of the tunnel alive.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/GWSfMde1Sx8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Cosmic Sin
-*Released on 2021-03-12, vote average 5.6*
-
-Bruce Willis and Frank Grillo star in the new epic sci-fi adventure set in the year 2524, four hundred years after humans started colonizing the outer planets. Retired Military General James Ford (Willis) is called back into service after soldiers on a remote planet are attacked by a hostile alien fleet. The threat against the human race escalates into an inevitable interstellar war. General Ford teams up with General Eron Ryle (Grillo) and a team of elite soldiers in a race to stop the imminent attack before it is too late.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/9HTWDnKs6hA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -340,17 +250,34 @@ A socially awkward driver and a weary passenger they try to make it to their des
 
 	
 	
+	
 
-### Happily
-*Released on 2021-03-19, vote average 4.9*
+  
 
-A dark romantic comedy. Tom and Janet have been happily married for years. But a visit from a mysterious stranger leads to a dead body, a lot of questions, and a tense couples&#39; trip with friends who may not actually be friends at all.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Caught by a Wave
+*Released on 2021-03-25, vote average 5.9*
+
+A summer fling born under the Sicilian sun quickly develops into a heartbreaking love story that forces a boy and girl to grow up too quickly.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/CzBGS5jDzxU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/n4Uv5VHRDZg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -360,6 +287,45 @@ A dark romantic comedy. Tom and Janet have been happily married for years. But a
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Courier
+*Released on 2021-03-18, vote average 7.2*
+
+Cold War spy Greville Wynne and his Russian source try to put an end to the Cuban Missile Crisis.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Qeo8qs9xohM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -391,18 +357,20 @@ The story of best friends Barb and Star, who leave their small midwestern town f
 	
 
 	
+
+	
 	
 
-### The Seventh Day
-*Released on 2021-03-26, vote average 4.3*
+### The United States vs. Billie Holiday
+*Released on 2021-03-31, vote average 5*
 
-A renowned exorcist teams up with a rookie priest for his first day of training. As they plunge deeper into hell on earth, the lines between good and evil blur, and their own demons emerge.
+Billie Holiday spent much of her career being adored by fans. In the 1940&#39;s, the government targeted Holiday in a growing effort to racialize the war on drugs, ultimately aiming to stop her from singing her controversial ballad, &#34;Strange Fruit.&#34;
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/HJThAgic45Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/USi-ppCfxEA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -413,17 +381,25 @@ A renowned exorcist teams up with a rookie priest for his first day of training.
 
 	
 	
+	
 
-### The Toll
-*Released on 2021-03-26, vote average 8*
+	
 
-A socially awkward driver and a weary passenger they try to make it to their destination while being haunted by a supernatural threat.
+	
+
+	
+	
+
+### Bram Stoker&#39;s Van Helsing
+*Released on 2021-03-29, vote average 10*
+
+England, 1897. Abraham Van Helsing receives a letter from his former student Dr John Seward requesting his urgent assistance in the northern town of Whitby, where his fiancée Lucy is showing all the signs of vampirism. Van Helsing follows the bloody trail to the coffin of Count Dracula himself. Van Helsing is a fresh take on the legend of Dracula through the eyes of his greatest enemy.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/6UTnLCtU_Uo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/svy786QFFcI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -439,13 +415,7 @@ A socially awkward driver and a weary passenger they try to make it to their des
 	
 
 	
-
 	
-
-	
-
-	
-
 	
 
 	
