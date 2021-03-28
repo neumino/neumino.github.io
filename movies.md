@@ -47,7 +47,7 @@ Determined to ensure Superman&#39;s ultimate sacrifice was not in vain, Bruce Wa
 	
 
 ### Godzilla vs. Kong
-*Released on 2021-03-24, vote average 7.3*
+*Released on 2021-03-24, vote average 7.5*
 
 In a time when monsters walk the Earth, humanity’s fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages.
 
@@ -98,7 +98,7 @@ A bestselling female novelist, suffering from writer&#39;s block, hires an innoc
 	
 
 ### Doors
-*Released on 2021-03-23, vote average 6.6*
+*Released on 2021-03-23, vote average 6.2*
 
 Without warning, millions of mysterious alien “doors” suddenly appear around the globe. In a rush to determine the reason for their arrival, mankind must work together to understand the purpose of these cosmic anomalies.
 
@@ -107,50 +107,6 @@ Without warning, millions of mysterious alien “doors” suddenly appear around
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/2kKnbsstui0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Seventh Day
-*Released on 2021-03-26, vote average 4.3*
-
-A renowned exorcist teams up with a rookie priest for his first day of training. As they plunge deeper into hell on earth, the lines between good and evil blur, and their own demons emerge.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/HJThAgic45Q?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Seaspiracy
-*Released on 2021-03-24, vote average 9.5*
-
-Passionate about ocean life, a filmmaker sets out to document the harm that humans do to marine species — and uncovers an alarming global conspiracy.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/1Q5CXN7soQg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -185,6 +141,28 @@ Hutch Mansell, a suburban dad, overlooked husband, nothing neighbor — a &#34;n
 	
 	
 
+### A Week Away
+*Released on 2021-03-26, vote average 6.5*
+
+Troubled teen Will Hawkins has a run-in with the law that puts him at an important crossroad: go to juvenile detention or attend a Christian summer camp. At first a fish-out-of-water, Will opens his heart, discovers love with a camp regular, and sense of belonging in the last place he expected to find it.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/dpLaoYw8xug?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Operation Varsity Blues: The College Admissions Scandal
 *Released on 2021-03-17, vote average 6.9*
 
@@ -207,30 +185,8 @@ An examination that goes beyond the celebrity-driven headlines and dives into th
 	
 	
 
-### A Week Away
-*Released on 2021-03-26, vote average 10*
-
-Troubled teen Will Hawkins has a run-in with the law that puts him at an important crossroad: go to juvenile detention or attend a Christian summer camp. At first a fish-out-of-water, Will opens his heart, discovers love with a camp regular, and sense of belonging in the last place he expected to find it.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/dpLaoYw8xug?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Toll
-*Released on 2021-03-26, vote average 8*
+*Released on 2021-03-26, vote average 7.3*
 
 A socially awkward driver and a weary passenger they try to make it to their destination while being haunted by a supernatural threat.
 
@@ -250,16 +206,21 @@ A socially awkward driver and a weary passenger they try to make it to their des
 
 	
 	
+
+### The Seventh Day
+*Released on 2021-03-26, vote average 4.3*
+
+A renowned exorcist teams up with a rookie priest for his first day of training. As they plunge deeper into hell on earth, the lines between good and evil blur, and their own demons emerge.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/HJThAgic45Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -269,7 +230,7 @@ A socially awkward driver and a weary passenger they try to make it to their des
 	
 
 ### Caught by a Wave
-*Released on 2021-03-25, vote average 5.9*
+*Released on 2021-03-25, vote average 6.8*
 
 A summer fling born under the Sicilian sun quickly develops into a heartbreaking love story that forces a boy and girl to grow up too quickly.
 
@@ -293,28 +254,18 @@ A summer fling born under the Sicilian sun quickly develops into a heartbreaking
 
 
 	
-
-  
-
-
 	
 
-  
+### Shoplifters of the World
+*Released on 2021-03-26, vote average 4*
 
-
-	
-	
-
-### The Courier
-*Released on 2021-03-18, vote average 7.2*
-
-Cold War spy Greville Wynne and his Russian source try to put an end to the Cuban Missile Crisis.
+1987. Denver, Co. One crazy night in the life of four friends reeling from the sudden demise of iconic British band The Smiths, while the local airwaves are hijacked at gunpoint by an impassioned Smiths fan.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Qeo8qs9xohM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/4MfG80SID6I?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -326,6 +277,55 @@ Cold War spy Greville Wynne and his Russian source try to put an end to the Cuba
 
 	
 	
+
+### Seaspiracy
+*Released on 2021-03-24, vote average 9.4*
+
+Passionate about ocean life, a filmmaker sets out to document the harm that humans do to marine species — and uncovers an alarming global conspiracy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/1Q5CXN7soQg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -339,7 +339,7 @@ Cold War spy Greville Wynne and his Russian source try to put an end to the Cuba
 	
 
 ### Barb and Star Go to Vista Del Mar
-*Released on 2021-03-29, vote average 7*
+*Released on 2021-03-29, vote average 6.5*
 
 The story of best friends Barb and Star, who leave their small midwestern town for the first time to go on vacation in Vista Del Mar, Florida, where they soon find themselves tangled up in adventure, love, and a villain’s evil plot to kill everyone in town.
 
@@ -357,12 +357,10 @@ The story of best friends Barb and Star, who leave their small midwestern town f
 	
 
 	
-
-	
 	
 
 ### The United States vs. Billie Holiday
-*Released on 2021-03-31, vote average 5*
+*Released on 2021-03-31, vote average 6*
 
 Billie Holiday spent much of her career being adored by fans. In the 1940&#39;s, the government targeted Holiday in a growing effort to racialize the war on drugs, ultimately aiming to stop her from singing her controversial ballad, &#34;Strange Fruit.&#34;
 
@@ -381,17 +379,9 @@ Billie Holiday spent much of her career being adored by fans. In the 1940&#39;s,
 
 	
 	
-	
-
-	
-
-	
-
-	
-	
 
 ### Bram Stoker&#39;s Van Helsing
-*Released on 2021-03-29, vote average 10*
+*Released on 2021-03-29, vote average 8.5*
 
 England, 1897. Abraham Van Helsing receives a letter from his former student Dr John Seward requesting his urgent assistance in the northern town of Whitby, where his fiancée Lucy is showing all the signs of vampirism. Van Helsing follows the bloody trail to the coffin of Count Dracula himself. Van Helsing is a fresh take on the legend of Dracula through the eyes of his greatest enemy.
 
@@ -407,6 +397,8 @@ England, 1897. Abraham Van Helsing receives a letter from his former student Dr 
 	
 
 	
+	
+	
 
 	
 
@@ -415,7 +407,13 @@ England, 1897. Abraham Van Helsing receives a letter from his former student Dr 
 	
 
 	
+
 	
+
+	
+
+	
+
 	
 
 	
