@@ -47,7 +47,7 @@ Determined to ensure Superman&#39;s ultimate sacrifice was not in vain, Bruce Wa
 	
 
 ### Godzilla vs. Kong
-*Released on 2021-03-24, vote average 7.4*
+*Released on 2021-03-24, vote average 7.1*
 
 In a time when monsters walk the Earth, humanity’s fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages.
 
@@ -69,7 +69,7 @@ In a time when monsters walk the Earth, humanity’s fight for its future sets G
 	
 
 ### Barb and Star Go to Vista Del Mar
-*Released on 2021-03-29, vote average 4.7*
+*Released on 2021-03-29, vote average 6.6*
 
 The story of best friends Barb and Star, who leave their small midwestern town for the first time to go on vacation in Vista Del Mar, Florida, where they soon find themselves tangled up in adventure, love, and a villain’s evil plot to kill everyone in town.
 
@@ -120,7 +120,7 @@ A bestselling female novelist, suffering from writer&#39;s block, hires an innoc
 	
 
 ### A Week Away
-*Released on 2021-03-26, vote average 7.1*
+*Released on 2021-03-26, vote average 7.4*
 
 Troubled teen Will Hawkins has a run-in with the law that puts him at an important crossroad: go to juvenile detention or attend a Christian summer camp. At first a fish-out-of-water, Will opens his heart, discovers love with a camp regular, and sense of belonging in the last place he expected to find it.
 
@@ -141,52 +141,8 @@ Troubled teen Will Hawkins has a run-in with the law that puts him at an importa
 	
 	
 
-### Nobody
-*Released on 2021-03-18, vote average 8.1*
-
-Hutch Mansell, a suburban dad, overlooked husband, nothing neighbor — a &#34;nobody.&#34; When two thieves break into his home one night, Hutch&#39;s unknown long-simmering rage is ignited and propels him on a brutal path that will uncover dark secrets he fought to leave behind.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wZti8QKBWPo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Doors
-*Released on 2021-03-23, vote average 5.9*
-
-Without warning, millions of mysterious alien “doors” suddenly appear around the globe. In a rush to determine the reason for their arrival, mankind must work together to understand the purpose of these cosmic anomalies.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2kKnbsstui0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Caught by a Wave
-*Released on 2021-03-25, vote average 7.1*
+*Released on 2021-03-25, vote average 6.9*
 
 A summer fling born under the Sicilian sun quickly develops into a heartbreaking love story that forces a boy and girl to grow up too quickly.
 
@@ -207,8 +163,30 @@ A summer fling born under the Sicilian sun quickly develops into a heartbreaking
 	
 	
 
+### Nobody
+*Released on 2021-03-18, vote average 8.2*
+
+Hutch Mansell, a suburban dad, overlooked husband, nothing neighbor — a &#34;nobody.&#34; When two thieves break into his home one night, Hutch&#39;s unknown long-simmering rage is ignited and propels him on a brutal path that will uncover dark secrets he fought to leave behind.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wZti8QKBWPo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Operation Varsity Blues: The College Admissions Scandal
-*Released on 2021-03-17, vote average 6.9*
+*Released on 2021-03-17, vote average 7*
 
 An examination that goes beyond the celebrity-driven headlines and dives into the methods used by Rick Singer, the man at the center of the shocking 2019 college admissions scandal, to persuade his wealthy clients to cheat an educational system already designed to benefit the privileged.
 
@@ -229,20 +207,25 @@ An examination that goes beyond the celebrity-driven headlines and dives into th
 	
 	
 
-### The Toll
-*Released on 2021-03-26, vote average 7.3*
+### Doors
+*Released on 2021-03-23, vote average 6.2*
 
-A socially awkward driver and a weary passenger they try to make it to their destination while being haunted by a supernatural threat.
+Without warning, millions of mysterious alien “doors” suddenly appear around the globe. In a rush to determine the reason for their arrival, mankind must work together to understand the purpose of these cosmic anomalies.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/6UTnLCtU_Uo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/2kKnbsstui0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -272,34 +255,17 @@ A renowned exorcist teams up with a rookie priest for his first day of training.
 
 	
 	
-	
 
-  
+### Bram Stoker&#39;s Van Helsing
+*Released on 2021-03-29, vote average 8.5*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Shoplifters of the World
-*Released on 2021-03-26, vote average 4.5*
-
-1987. Denver, Co. One crazy night in the life of four friends reeling from the sudden demise of iconic British band The Smiths, while the local airwaves are hijacked at gunpoint by an impassioned Smiths fan.
+England, 1897. Abraham Van Helsing receives a letter from his former student Dr John Seward requesting his urgent assistance in the northern town of Whitby, where his fiancée Lucy is showing all the signs of vampirism. Van Helsing follows the bloody trail to the coffin of Count Dracula himself. Van Helsing is a fresh take on the legend of Dracula through the eyes of his greatest enemy.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/4MfG80SID6I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/svy786QFFcI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -311,34 +277,20 @@ A renowned exorcist teams up with a rookie priest for his first day of training.
 
 	
 	
-	
 
-  
+### The Toll
+*Released on 2021-03-26, vote average 6.5*
 
-
-	
-	
-
-### Seaspiracy
-*Released on 2021-03-24, vote average 8.5*
-
-Passionate about ocean life, a filmmaker sets out to document the harm that humans do to marine species — and uncovers an alarming global conspiracy.
+A socially awkward driver and a weary passenger they try to make it to their destination while being haunted by a supernatural threat.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/1Q5CXN7soQg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/6UTnLCtU_Uo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -367,28 +319,89 @@ Cold War spy Greville Wynne and his Russian source try to put an end to the Cuba
   
 
 
-
-## Opening soon
-
-
 	
 	
 
-### Barb and Star Go to Vista Del Mar
-*Released on 2021-03-29, vote average 4.7*
+### Seaspiracy
+*Released on 2021-03-24, vote average 8.7*
 
-The story of best friends Barb and Star, who leave their small midwestern town for the first time to go on vacation in Vista Del Mar, Florida, where they soon find themselves tangled up in adventure, love, and a villain’s evil plot to kill everyone in town.
+Passionate about ocean life, a filmmaker sets out to document the harm that humans do to marine species — and uncovers an alarming global conspiracy.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/gRqLfgNDIzU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/1Q5CXN7soQg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
 	
+
+  
+
+
+	
+	
+
+### Senior Moment
+*Released on 2021-03-26, vote average 10*
+
+After drag racing his vintage convertible around Palm Springs, a retired NASA test pilot loses his license. Forced to take public transportation, he meets Caroline and learns to navigate love and life again.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/RxnkP0UthG8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Bad Trip
+*Released on 2021-03-26, vote average 6.1*
+
+Two pals embark on a road trip full of funny pranks that pull real people into mayhem.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/UjT9I6eb4p8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+
+## Opening soon
+
 
 	
 	
@@ -410,10 +423,12 @@ Alice, a young hearing-impaired girl who, after a supposed visitation from the V
 	
 
 	
+
+	
 	
 
 ### The United States vs. Billie Holiday
-*Released on 2021-03-31, vote average 8*
+*Released on 2021-03-31, vote average 7.1*
 
 Billie Holiday spent much of her career being adored by fans. In the 1940&#39;s, the government targeted Holiday in a growing effort to racialize the war on drugs, ultimately aiming to stop her from singing her controversial ballad, &#34;Strange Fruit.&#34;
 
@@ -430,23 +445,6 @@ Billie Holiday spent much of her career being adored by fans. In the 1940&#39;s,
 
 	
 
-	
-	
-
-### Bram Stoker&#39;s Van Helsing
-*Released on 2021-03-29, vote average 8.5*
-
-England, 1897. Abraham Van Helsing receives a letter from his former student Dr John Seward requesting his urgent assistance in the northern town of Whitby, where his fiancée Lucy is showing all the signs of vampirism. Van Helsing follows the bloody trail to the coffin of Count Dracula himself. Van Helsing is a fresh take on the legend of Dracula through the eyes of his greatest enemy.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/svy786QFFcI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
