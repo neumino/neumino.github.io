@@ -67,9 +67,16 @@ In a time when monsters walk the Earth, humanity’s fight for its future sets G
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Barb and Star Go to Vista Del Mar
-*Released on 2021-03-29, vote average 6.6*
+*Released on 2021-03-29, vote average 6.5*
 
 The story of best friends Barb and Star, who leave their small midwestern town for the first time to go on vacation in Vista Del Mar, Florida, where they soon find themselves tangled up in adventure, love, and a villain’s evil plot to kill everyone in town.
 
@@ -89,16 +96,9 @@ The story of best friends Barb and Star, who leave their small midwestern town f
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Deadly Illusions
-*Released on 2021-03-18, vote average 5*
+*Released on 2021-03-18, vote average 5.1*
 
 A bestselling female novelist, suffering from writer&#39;s block, hires an innocent young woman to watch over her twin children. As the novelist dangerously indulges in her new best seller, the line between the life she&#39;s writing and the one she&#39;s living becomes blurred.
 
@@ -107,6 +107,28 @@ A bestselling female novelist, suffering from writer&#39;s block, hires an innoc
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/cp34AFMKN9U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Unholy
+*Released on 2021-03-31, vote average 8.7*
+
+Alice, a young hearing-impaired girl who, after a supposed visitation from the Virgin Mary, is inexplicably able to hear, speak and heal the sick. As word spreads and people from near and far flock to witness her miracles, a disgraced journalist hoping to revive his career visits the small New England town to investigate. When terrifying events begin to happen all around, he starts to question if these phenomena are the works of the Virgin Mary or something much more sinister.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/NmQiJPLYzPI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -142,7 +164,7 @@ Troubled teen Will Hawkins has a run-in with the law that puts him at an importa
 	
 
 ### Caught by a Wave
-*Released on 2021-03-25, vote average 6.9*
+*Released on 2021-03-25, vote average 6.8*
 
 A summer fling born under the Sicilian sun quickly develops into a heartbreaking love story that forces a boy and girl to grow up too quickly.
 
@@ -164,7 +186,7 @@ A summer fling born under the Sicilian sun quickly develops into a heartbreaking
 	
 
 ### Nobody
-*Released on 2021-03-18, vote average 8.2*
+*Released on 2021-03-18, vote average 8.3*
 
 Hutch Mansell, a suburban dad, overlooked husband, nothing neighbor — a &#34;nobody.&#34; When two thieves break into his home one night, Hutch&#39;s unknown long-simmering rage is ignited and propels him on a brutal path that will uncover dark secrets he fought to leave behind.
 
@@ -173,77 +195,6 @@ Hutch Mansell, a suburban dad, overlooked husband, nothing neighbor — a &#34;n
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/wZti8QKBWPo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Operation Varsity Blues: The College Admissions Scandal
-*Released on 2021-03-17, vote average 7*
-
-An examination that goes beyond the celebrity-driven headlines and dives into the methods used by Rick Singer, the man at the center of the shocking 2019 college admissions scandal, to persuade his wealthy clients to cheat an educational system already designed to benefit the privileged.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LFHj8e7mU_I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Doors
-*Released on 2021-03-23, vote average 6.2*
-
-Without warning, millions of mysterious alien “doors” suddenly appear around the globe. In a rush to determine the reason for their arrival, mankind must work together to understand the purpose of these cosmic anomalies.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2kKnbsstui0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Seventh Day
-*Released on 2021-03-26, vote average 4.5*
-
-A renowned exorcist teams up with a rookie priest for his first day of training. As they plunge deeper into hell on earth, the lines between good and evil blur, and their own demons emerge.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/HJThAgic45Q?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -278,82 +229,16 @@ England, 1897. Abraham Van Helsing receives a letter from his former student Dr 
 	
 	
 
-### The Toll
-*Released on 2021-03-26, vote average 6.5*
+### Operation Varsity Blues: The College Admissions Scandal
+*Released on 2021-03-17, vote average 7.1*
 
-A socially awkward driver and a weary passenger they try to make it to their destination while being haunted by a supernatural threat.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/6UTnLCtU_Uo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Courier
-*Released on 2021-03-18, vote average 7.2*
-
-Cold War spy Greville Wynne and his Russian source try to put an end to the Cuban Missile Crisis.
+An examination that goes beyond the celebrity-driven headlines and dives into the methods used by Rick Singer, the man at the center of the shocking 2019 college admissions scandal, to persuade his wealthy clients to cheat an educational system already designed to benefit the privileged.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Qeo8qs9xohM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Seaspiracy
-*Released on 2021-03-24, vote average 8.7*
-
-Passionate about ocean life, a filmmaker sets out to document the harm that humans do to marine species — and uncovers an alarming global conspiracy.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/1Q5CXN7soQg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Senior Moment
-*Released on 2021-03-26, vote average 10*
-
-After drag racing his vintage convertible around Palm Springs, a retired NASA test pilot loses his license. Forced to take public transportation, he meets Caroline and learns to navigate love and life again.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/RxnkP0UthG8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/LFHj8e7mU_I?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -387,12 +272,123 @@ Two pals embark on a road trip full of funny pranks that pull real people into m
 
 	
 	
+
+### Doors
+*Released on 2021-03-23, vote average 6.1*
+
+Without warning, millions of mysterious alien “doors” suddenly appear around the globe. In a rush to determine the reason for their arrival, mankind must work together to understand the purpose of these cosmic anomalies.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2kKnbsstui0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
 
 
 	
+
+  
+
+
+	
+	
+
+### Secret Magic Control Agency
+*Released on 2021-03-18, vote average 7.7*
+
+The Secret Magic Control Agency sends its two best agents, Hansel and Gretel, to fight against the witch of the Gingerbread House.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/OESJJ2vZn9M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The United States vs. Billie Holiday
+*Released on 2021-03-31, vote average 7.1*
+
+Billie Holiday spent much of her career being adored by fans. In the 1940&#39;s, the government targeted Holiday in a growing effort to racialize the war on drugs, ultimately aiming to stop her from singing her controversial ballad, &#34;Strange Fruit.&#34;
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/USi-ppCfxEA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Seventh Day
+*Released on 2021-03-26, vote average 4.7*
+
+A renowned exorcist teams up with a rookie priest for his first day of training. As they plunge deeper into hell on earth, the lines between good and evil blur, and their own demons emerge.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/HJThAgic45Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Toll
+*Released on 2021-03-26, vote average 6.4*
+
+A socially awkward driver and a weary passenger they try to make it to their destination while being haunted by a supernatural threat.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6UTnLCtU_Uo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -407,7 +403,7 @@ Two pals embark on a road trip full of funny pranks that pull real people into m
 	
 
 ### The Unholy
-*Released on 2021-03-31, vote average 10*
+*Released on 2021-03-31, vote average 8.7*
 
 Alice, a young hearing-impaired girl who, after a supposed visitation from the Virgin Mary, is inexplicably able to hear, speak and heal the sick. As word spreads and people from near and far flock to witness her miracles, a disgraced journalist hoping to revive his career visits the small New England town to investigate. When terrifying events begin to happen all around, he starts to question if these phenomena are the works of the Virgin Mary or something much more sinister.
 
@@ -420,6 +416,8 @@ Alice, a young hearing-impaired girl who, after a supposed visitation from the V
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
@@ -441,8 +439,6 @@ Billie Holiday spent much of her career being adored by fans. In the 1940&#39;s,
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
