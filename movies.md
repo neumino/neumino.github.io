@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Godzilla vs. Kong
-*Released on 2021-03-24, vote average 7*
+*Released on 2021-03-24, vote average 8.7*
 
 In a time when monsters walk the Earth, humanity’s fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages.
 
@@ -46,16 +46,16 @@ In a time when monsters walk the Earth, humanity’s fight for its future sets G
 	
 	
 
-### Zack Snyder&#39;s Justice League
-*Released on 2021-03-18, vote average 8.6*
+### The Unholy
+*Released on 2021-03-31, vote average 7.4*
 
-Determined to ensure Superman&#39;s ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.
+Alice, a young hearing-impaired girl who, after a supposed visitation from the Virgin Mary, is inexplicably able to hear, speak and heal the sick. As word spreads and people from near and far flock to witness her miracles, a disgraced journalist hoping to revive his career visits the small New England town to investigate. When terrifying events begin to happen all around, he starts to question if these phenomena are the works of the Virgin Mary or something much more sinister.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/vM-Bja2Gy04?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/NmQiJPLYzPI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -89,38 +89,9 @@ The story of best friends Barb and Star, who leave their small midwestern town f
 
 	
 	
-	
-
-  
-
-
-	
-	
-
-### The Unholy
-*Released on 2021-03-31, vote average 7.4*
-
-Alice, a young hearing-impaired girl who, after a supposed visitation from the Virgin Mary, is inexplicably able to hear, speak and heal the sick. As word spreads and people from near and far flock to witness her miracles, a disgraced journalist hoping to revive his career visits the small New England town to investigate. When terrifying events begin to happen all around, he starts to question if these phenomena are the works of the Virgin Mary or something much more sinister.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/NmQiJPLYzPI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
 
 ### A Week Away
-*Released on 2021-03-26, vote average 7.2*
+*Released on 2021-03-26, vote average 6.9*
 
 Troubled teen Will Hawkins has a run-in with the law that puts him at an important crossroad: go to juvenile detention or attend a Christian summer camp. At first a fish-out-of-water, Will opens his heart, discovers love with a camp regular, and sense of belonging in the last place he expected to find it.
 
@@ -141,30 +112,8 @@ Troubled teen Will Hawkins has a run-in with the law that puts him at an importa
 	
 	
 
-### Deadly Illusions
-*Released on 2021-03-18, vote average 5.1*
-
-A bestselling female novelist, suffering from writer&#39;s block, hires an innocent young woman to watch over her twin children. As the novelist dangerously indulges in her new best seller, the line between the life she&#39;s writing and the one she&#39;s living becomes blurred.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cp34AFMKN9U?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Caught by a Wave
-*Released on 2021-03-25, vote average 6.6*
+*Released on 2021-03-25, vote average 6.7*
 
 A summer fling born under the Sicilian sun quickly develops into a heartbreaking love story that forces a boy and girl to grow up too quickly.
 
@@ -173,50 +122,6 @@ A summer fling born under the Sicilian sun quickly develops into a heartbreaking
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/n4Uv5VHRDZg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Nobody
-*Released on 2021-03-18, vote average 8.2*
-
-Hutch Mansell, a suburban dad, overlooked husband, nothing neighbor — a &#34;nobody.&#34; When two thieves break into his home one night, Hutch&#39;s unknown long-simmering rage is ignited and propels him on a brutal path that will uncover dark secrets he fought to leave behind.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wZti8QKBWPo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Bram Stoker&#39;s Van Helsing
-*Released on 2021-03-29, vote average 8.5*
-
-England, 1897. Abraham Van Helsing receives a letter from his former student Dr John Seward requesting his urgent assistance in the northern town of Whitby, where his fiancée Lucy is showing all the signs of vampirism. Van Helsing follows the bloody trail to the coffin of Count Dracula himself. Van Helsing is a fresh take on the legend of Dracula through the eyes of his greatest enemy.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/svy786QFFcI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -249,23 +154,6 @@ Two pals embark on a road trip full of funny pranks that pull real people into m
 
 
 	
-	
-
-### Secret Magic Control Agency
-*Released on 2021-03-18, vote average 7.7*
-
-The Secret Magic Control Agency sends its two best agents, Hansel and Gretel, to fight against the witch of the Gingerbread House.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/OESJJ2vZn9M?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -293,6 +181,43 @@ Billie Holiday spent much of her career being adored by fans. In the 1940&#39;s,
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Bram Stoker&#39;s Van Helsing
+*Released on 2021-03-29, vote average 8.5*
+
+England, 1897. Abraham Van Helsing receives a letter from his former student Dr John Seward requesting his urgent assistance in the northern town of Whitby, where his fiancée Lucy is showing all the signs of vampirism. Van Helsing follows the bloody trail to the coffin of Count Dracula himself. Van Helsing is a fresh take on the legend of Dracula through the eyes of his greatest enemy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/svy786QFFcI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### Funny Face
@@ -305,6 +230,28 @@ In a Brooklyn threatened by disfigurement from greedy urban developers, two youn
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/hOxsgLNwL74?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Seaspiracy
+*Released on 2021-03-24, vote average 8.6*
+
+Passionate about ocean life, a filmmaker sets out to document the harm that humans do to marine species — and uncovers an alarming global conspiracy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/1Q5CXN7soQg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -357,6 +304,23 @@ Without warning, millions of mysterious alien “doors” suddenly appear around
 
 
 	
+	
+
+### The Seventh Day
+*Released on 2021-03-26, vote average 4.8*
+
+A renowned exorcist teams up with a rookie priest for his first day of training. As they plunge deeper into hell on earth, the lines between good and evil blur, and their own demons emerge.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/HJThAgic45Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -399,6 +363,23 @@ Without warning, millions of mysterious alien “doors” suddenly appear around
 
 	
 
+	
+	
+
+### Nowhere Special
+*Released on 2021-04-02, vote average 7*
+
+John, a 35-year-old window cleaner, has dedicated his life to bringing up his 4-year-old son, Michael, after the child&#39;s mother left them soon after giving birth. When John is given only a few months left to live, he attempts to find a new, perfect family for Michael, determined to shield him from the terrible reality of the situation.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/GDG7oHIaeY8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
