@@ -47,7 +47,7 @@ In a time when monsters walk the Earth, humanity’s fight for its future sets G
 	
 
 ### The Unholy
-*Released on 2021-03-31, vote average 7.4*
+*Released on 2021-03-31, vote average 6.9*
 
 Alice, a young hearing-impaired girl who, after a supposed visitation from the Virgin Mary, is inexplicably able to hear, speak and heal the sick. As word spreads and people from near and far flock to witness her miracles, a disgraced journalist hoping to revive his career visits the small New England town to investigate. When terrifying events begin to happen all around, he starts to question if these phenomena are the works of the Virgin Mary or something much more sinister.
 
@@ -69,7 +69,7 @@ Alice, a young hearing-impaired girl who, after a supposed visitation from the V
 	
 
 ### Barb and Star Go to Vista Del Mar
-*Released on 2021-03-29, vote average 6.6*
+*Released on 2021-03-29, vote average 6.5*
 
 The story of best friends Barb and Star, who leave their small midwestern town for the first time to go on vacation in Vista Del Mar, Florida, where they soon find themselves tangled up in adventure, love, and a villain’s evil plot to kill everyone in town.
 
@@ -113,7 +113,7 @@ Troubled teen Will Hawkins has a run-in with the law that puts him at an importa
 	
 
 ### Caught by a Wave
-*Released on 2021-03-25, vote average 6.7*
+*Released on 2021-03-25, vote average 6.8*
 
 A summer fling born under the Sicilian sun quickly develops into a heartbreaking love story that forces a boy and girl to grow up too quickly.
 
@@ -159,6 +159,65 @@ Two pals embark on a road trip full of funny pranks that pull real people into m
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Girl Who Believes in Miracles
+*Released on 2021-04-02, vote average 10*
+
+When Sara hears a preacher say faith can move mountains, she starts praying. Suddenly people in her town are mysteriously healed! But fame soon takes its toll – can Sara’s family save her before it’s too late?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/aH6b6P18D34?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Seaspiracy
+*Released on 2021-03-24, vote average 8.4*
+
+Passionate about ocean life, a filmmaker sets out to document the harm that humans do to marine species — and uncovers an alarming global conspiracy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/1Q5CXN7soQg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### The United States vs. Billie Holiday
@@ -186,86 +245,10 @@ Billie Holiday spent much of her career being adored by fans. In the 1940&#39;s,
 
 
 	
-
-  
-
-
-	
-	
-
-### Bram Stoker&#39;s Van Helsing
-*Released on 2021-03-29, vote average 8.5*
-
-England, 1897. Abraham Van Helsing receives a letter from his former student Dr John Seward requesting his urgent assistance in the northern town of Whitby, where his fiancée Lucy is showing all the signs of vampirism. Van Helsing follows the bloody trail to the coffin of Count Dracula himself. Van Helsing is a fresh take on the legend of Dracula through the eyes of his greatest enemy.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/svy786QFFcI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Funny Face
-*Released on 2021-03-30, vote average 5*
-
-In a Brooklyn threatened by disfigurement from greedy urban developers, two young people meet in a late-night bodega. Their unexpected bond takes on a romantic tone and brings solace to these two superheroes who are powerless in the face of oppression.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hOxsgLNwL74?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Seaspiracy
-*Released on 2021-03-24, vote average 8.6*
-
-Passionate about ocean life, a filmmaker sets out to document the harm that humans do to marine species — and uncovers an alarming global conspiracy.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/1Q5CXN7soQg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 	
 
 ### Doors
-*Released on 2021-03-23, vote average 6*
+*Released on 2021-03-23, vote average 5.9*
 
 Without warning, millions of mysterious alien “doors” suddenly appear around the globe. In a rush to determine the reason for their arrival, mankind must work together to understand the purpose of these cosmic anomalies.
 
@@ -284,6 +267,8 @@ Without warning, millions of mysterious alien “doors” suddenly appear around
 
 
 	
+	
+	
 
   
 
@@ -303,23 +288,6 @@ Without warning, millions of mysterious alien “doors” suddenly appear around
   
 
 
-	
-	
-
-### The Seventh Day
-*Released on 2021-03-26, vote average 4.8*
-
-A renowned exorcist teams up with a rookie priest for his first day of training. As they plunge deeper into hell on earth, the lines between good and evil blur, and their own demons emerge.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/HJThAgic45Q?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -338,48 +306,67 @@ A renowned exorcist teams up with a rookie priest for his first day of training.
 	
 
 	
-
 	
 
-	
+### Rise of the Mummy
+*Released on 2021-04-03, vote average 7.3*
 
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	
-
-### Nowhere Special
-*Released on 2021-04-02, vote average 7*
-
-John, a 35-year-old window cleaner, has dedicated his life to bringing up his 4-year-old son, Michael, after the child&#39;s mother left them soon after giving birth. When John is given only a few months left to live, he attempts to find a new, perfect family for Michael, determined to shield him from the terrible reality of the situation.
+A group of archaeology students awaken an ancient mummy. After being trapped in a time loop, the only way they can escape, is to defeat the mummy. As the body count rises, it seems the Mummy has to collect the souls of those who woke him to be able to walk the earth - for good.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/GDG7oHIaeY8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/it8iwJnhrpQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+	
+	
+
+### Mayhem
+*Released on 2021-04-08, vote average 5*
+
+A virus spreads through an office complex causing white collar workers to act out their worst impulses.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/iJJGAInln0c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+	
+
+	
+
+	
+
+	
+
 	
 
 	
