@@ -69,7 +69,7 @@ Alice, a young hearing-impaired girl who, after a supposed visitation from the V
 	
 
 ### A Week Away
-*Released on 2021-03-26, vote average 6.9*
+*Released on 2021-03-26, vote average 7*
 
 Troubled teen Will Hawkins has a run-in with the law that puts him at an important crossroad: go to juvenile detention or attend a Christian summer camp. At first a fish-out-of-water, Will opens his heart, discovers love with a camp regular, and sense of belonging in the last place he expected to find it.
 
@@ -113,7 +113,7 @@ The story of best friends Barb and Star, who leave their small midwestern town f
 	
 
 ### Caught by a Wave
-*Released on 2021-03-25, vote average 6.8*
+*Released on 2021-03-25, vote average 7*
 
 A summer fling born under the Sicilian sun quickly develops into a heartbreaking love story that forces a boy and girl to grow up too quickly.
 
@@ -135,7 +135,7 @@ A summer fling born under the Sicilian sun quickly develops into a heartbreaking
 	
 
 ### Bad Trip
-*Released on 2021-03-26, vote average 6.3*
+*Released on 2021-03-26, vote average 6.2*
 
 Two pals embark on a road trip full of funny pranks that pull real people into mayhem.
 
@@ -153,6 +153,8 @@ Two pals embark on a road trip full of funny pranks that pull real people into m
   
 
 
+	
+	
 	
 
   
@@ -181,42 +183,10 @@ A psychiatrist, whose client commits suicide, finds his family life disrupted af
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Seaspiracy
-*Released on 2021-03-24, vote average 8.2*
-
-Passionate about ocean life, a filmmaker sets out to document the harm that humans do to marine species — and uncovers an alarming global conspiracy.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/1Q5CXN7soQg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 	
 
 ### Just Say Yes
-*Released on 2021-04-02, vote average 5.7*
+*Released on 2021-04-02, vote average 6.7*
 
 Incurable romantic Lotte finds her life upended when her plans for a picture-perfect wedding unravel -- just as her self-absorbed sister gets engaged.
 
@@ -237,30 +207,8 @@ Incurable romantic Lotte finds her life upended when her plans for a picture-per
 	
 	
 
-### The Girl Who Believes in Miracles
-*Released on 2021-04-02, vote average 9*
-
-When Sara hears a preacher say faith can move mountains, she starts praying. Suddenly people in her town are mysteriously healed! But fame soon takes its toll – can Sara’s family save her before it’s too late?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/aH6b6P18D34?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Madame Claude
-*Released on 2021-04-02, vote average 7*
+*Released on 2021-04-02, vote average 7.1*
 
 Paris, the late 1960s. Madame Claude is at the head of a flourishing business dedicated to prostitution that gives her power over both the french political and criminal worlds. But the end of her empire is closer than she thinks.
 
@@ -284,10 +232,34 @@ Paris, the late 1960s. Madame Claude is at the head of a flourishing business de
 
 
 	
+	
+	
 
   
 
 
+	
+
+  
+
+
+	
+	
+
+### Seaspiracy
+*Released on 2021-03-24, vote average 8*
+
+Passionate about ocean life, a filmmaker sets out to document the harm that humans do to marine species — and uncovers an alarming global conspiracy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/1Q5CXN7soQg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -297,7 +269,7 @@ Paris, the late 1960s. Madame Claude is at the head of a flourishing business de
 	
 
 ### Doors
-*Released on 2021-03-23, vote average 5.8*
+*Released on 2021-03-23, vote average 5.7*
 
 Without warning, millions of mysterious alien “doors” suddenly appear around the globe. In a rush to determine the reason for their arrival, mankind must work together to understand the purpose of these cosmic anomalies.
 
@@ -318,16 +290,16 @@ Without warning, millions of mysterious alien “doors” suddenly appear around
 	
 	
 
-### The United States vs. Billie Holiday
-*Released on 2021-03-31, vote average 7.5*
+### Peter Rabbit 2: The Runaway
+*Released on 2021-03-25, vote average 6.1*
 
-Billie Holiday spent much of her career being adored by fans. In the 1940&#39;s, the government targeted Holiday in a growing effort to racialize the war on drugs, ultimately aiming to stop her from singing her controversial ballad, &#34;Strange Fruit.&#34;
+Bea, Thomas, and the rabbits have created a makeshift family, but despite his best efforts, Peter can’t seem to shake his mischievous reputation. Adventuring out of the garden, Peter finds himself in a world where his mischief is appreciated, but when his family risks everything to come looking for him, Peter must figure out what kind of bunny he wants to be.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/USi-ppCfxEA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/PWBcqCz7l_c?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -339,6 +311,36 @@ Billie Holiday spent much of her career being adored by fans. In the 1940&#39;s,
 
 	
 	
+
+### Rise of the Mummy
+*Released on 2021-04-03, vote average 7*
+
+A group of archaeology students awaken an ancient mummy. After being trapped in a time loop, the only way they can escape, is to defeat the mummy. As the body count rises, it seems the Mummy has to collect the souls of those who woke him to be able to walk the earth - for good.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/it8iwJnhrpQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -348,6 +350,23 @@ Billie Holiday spent much of her career being adored by fans. In the 1940&#39;s,
 ## Opening soon
 
 
+	
+	
+
+### Mortal Kombat
+*Released on 2021-04-07, vote average 8.5*
+
+MMA fighter Cole Young seeks out Earth&#39;s greatest champions in order to stand against the enemies of Outworld in a high stakes battle for the universe.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jBa_aHwCbC4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -367,24 +386,6 @@ A virus spreads through an office complex causing white collar workers to act ou
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
-	
-	
-	
-
-	
-
-	
-
-	
-
 	
 
 	
@@ -414,6 +415,22 @@ Aiming to find the Bigfoot, a group of graduate students venture deep into an ar
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
