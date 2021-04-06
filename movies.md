@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Godzilla vs. Kong
-*Released on 2021-03-24, vote average 8.6*
+*Released on 2021-03-24, vote average 8.5*
 
 In a time when monsters walk the Earth, humanity’s fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages.
 
@@ -163,30 +163,8 @@ Two pals embark on a road trip full of funny pranks that pull real people into m
 	
 	
 
-### Every Breath You Take
-*Released on 2021-04-02, vote average 6*
-
-A psychiatrist, whose client commits suicide, finds his family life disrupted after introducing her surviving brother to his wife and daughter.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/9dMHedhCYOI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Just Say Yes
-*Released on 2021-04-02, vote average 6.7*
+*Released on 2021-04-02, vote average 6.1*
 
 Incurable romantic Lotte finds her life upended when her plans for a picture-perfect wedding unravel -- just as her self-absorbed sister gets engaged.
 
@@ -208,7 +186,7 @@ Incurable romantic Lotte finds her life upended when her plans for a picture-per
 	
 
 ### Madame Claude
-*Released on 2021-04-02, vote average 7.1*
+*Released on 2021-04-02, vote average 6.9*
 
 Paris, the late 1960s. Madame Claude is at the head of a flourishing business dedicated to prostitution that gives her power over both the french political and criminal worlds. But the end of her empire is closer than she thinks.
 
@@ -227,35 +205,18 @@ Paris, the late 1960s. Madame Claude is at the head of a flourishing business de
 
 
 	
-
-  
-
-
-	
-	
 	
 
-  
+### Every Breath You Take
+*Released on 2021-04-02, vote average 6.3*
 
-
-	
-
-  
-
-
-	
-	
-
-### Seaspiracy
-*Released on 2021-03-24, vote average 8*
-
-Passionate about ocean life, a filmmaker sets out to document the harm that humans do to marine species — and uncovers an alarming global conspiracy.
+A psychiatrist, whose client commits suicide, finds his family life disrupted after introducing her surviving brother to his wife and daughter.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/1Q5CXN7soQg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/9dMHedhCYOI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -290,6 +251,28 @@ Without warning, millions of mysterious alien “doors” suddenly appear around
 	
 	
 
+### Assault on VA-33
+*Released on 2021-04-02, vote average 6.5*
+
+Decorated veteran and PTSD sufferer, Jason Hill meets his wife, Jennifer, for lunch at the Veteran&#39;s Affairs hospital where she works. After Jennifer is called away for an emergency consultation with the head of US Military&#39;s Joint Chiefs of Staff, the hospital is taken hostage by heavily armed terrorists. Jason becomes the last line of defense and must battle the terrorists and his own PTSD induced demons to save his wife, the General, the hospital&#39;s staff and patients.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/i2yVzl7rdr8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Peter Rabbit 2: The Runaway
 *Released on 2021-03-25, vote average 6.1*
 
@@ -310,10 +293,66 @@ Bea, Thomas, and the rabbits have created a makeshift family, but despite his be
 
 
 	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Seaspiracy
+*Released on 2021-03-24, vote average 8*
+
+Passionate about ocean life, a filmmaker sets out to document the harm that humans do to marine species — and uncovers an alarming global conspiracy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/1Q5CXN7soQg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Seventh Day
+*Released on 2021-03-26, vote average 4.8*
+
+A renowned exorcist teams up with a rookie priest for his first day of training. As they plunge deeper into hell on earth, the lines between good and evil blur, and their own demons emerge.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/HJThAgic45Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 
 ### Rise of the Mummy
-*Released on 2021-04-03, vote average 7*
+*Released on 2021-04-03, vote average 6*
 
 A group of archaeology students awaken an ancient mummy. After being trapped in a time loop, the only way they can escape, is to defeat the mummy. As the body count rises, it seems the Mummy has to collect the souls of those who woke him to be able to walk the earth - for good.
 
@@ -337,10 +376,7 @@ A group of archaeology students awaken an ancient mummy. After being trapped in 
 
 
 	
-
-  
-
-
+	
 	
 
   
@@ -354,7 +390,7 @@ A group of archaeology students awaken an ancient mummy. After being trapped in 
 	
 
 ### Mortal Kombat
-*Released on 2021-04-07, vote average 8.5*
+*Released on 2021-04-07, vote average 8*
 
 MMA fighter Cole Young seeks out Earth&#39;s greatest champions in order to stand against the enemies of Outworld in a high stakes battle for the universe.
 
@@ -393,16 +429,10 @@ A virus spreads through an office complex causing white collar workers to act ou
 	
 
 	
-
-	
-
-	
-
-	
 	
 
 ### Dawn of the Beast
-*Released on 2021-04-06, vote average 6*
+*Released on 2021-04-06, vote average 6.5*
 
 Aiming to find the Bigfoot, a group of graduate students venture deep into an area of the Northeastern wilderness known for its strange creature sightings. Soon, they learn that there is a much more sinister evil lurking in the woods, the Wendigo, and once the spirit knows you’re there, they will come for you. Who will survive in a battle between the two most notorious monsters of the forest?
 
@@ -415,6 +445,12 @@ Aiming to find the Bigfoot, a group of graduate students venture deep into an ar
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
 	
 
 	
