@@ -47,7 +47,7 @@ In a time when monsters walk the Earth, humanity’s fight for its future sets G
 	
 
 ### The Unholy
-*Released on 2021-03-31, vote average 5.8*
+*Released on 2021-03-31, vote average 5.7*
 
 Alice, a young hearing-impaired girl who, after a supposed visitation from the Virgin Mary, is inexplicably able to hear, speak and heal the sick. As word spreads and people from near and far flock to witness her miracles, a disgraced journalist hoping to revive his career visits the small New England town to investigate. When terrifying events begin to happen all around, he starts to question if these phenomena are the works of the Virgin Mary or something much more sinister.
 
@@ -90,28 +90,6 @@ Troubled teen Will Hawkins has a run-in with the law that puts him at an importa
 	
 	
 
-### Barb and Star Go to Vista Del Mar
-*Released on 2021-03-29, vote average 6.5*
-
-The story of best friends Barb and Star, who leave their small midwestern town for the first time to go on vacation in Vista Del Mar, Florida, where they soon find themselves tangled up in adventure, love, and a villain’s evil plot to kill everyone in town.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/gRqLfgNDIzU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Caught by a Wave
 *Released on 2021-03-25, vote average 7*
 
@@ -134,16 +112,16 @@ A summer fling born under the Sicilian sun quickly develops into a heartbreaking
 	
 	
 
-### Bad Trip
-*Released on 2021-03-26, vote average 6.2*
+### Barb and Star Go to Vista Del Mar
+*Released on 2021-03-29, vote average 6*
 
-Two pals embark on a road trip full of funny pranks that pull real people into mayhem.
+The story of best friends Barb and Star, who leave their small midwestern town for the first time to go on vacation in Vista Del Mar, Florida, where they soon find themselves tangled up in adventure, love, and a villain’s evil plot to kill everyone in town.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/UjT9I6eb4p8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/gRqLfgNDIzU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -163,8 +141,30 @@ Two pals embark on a road trip full of funny pranks that pull real people into m
 	
 	
 
+### Mortal Kombat
+*Released on 2021-04-07, vote average 8*
+
+Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung&#39;s best warrior, Sub-Zero, seeks out and trains with Earth&#39;s greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jBa_aHwCbC4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Just Say Yes
-*Released on 2021-04-02, vote average 6.1*
+*Released on 2021-04-02, vote average 6*
 
 Incurable romantic Lotte finds her life upended when her plans for a picture-perfect wedding unravel -- just as her self-absorbed sister gets engaged.
 
@@ -186,7 +186,7 @@ Incurable romantic Lotte finds her life upended when her plans for a picture-per
 	
 
 ### Madame Claude
-*Released on 2021-04-02, vote average 6.9*
+*Released on 2021-04-02, vote average 6.7*
 
 Paris, the late 1960s. Madame Claude is at the head of a flourishing business dedicated to prostitution that gives her power over both the french political and criminal worlds. But the end of her empire is closer than she thinks.
 
@@ -227,23 +227,6 @@ A psychiatrist, whose client commits suicide, finds his family life disrupted af
 
 
 	
-	
-
-### Doors
-*Released on 2021-03-23, vote average 5.7*
-
-Without warning, millions of mysterious alien “doors” suddenly appear around the globe. In a rush to determine the reason for their arrival, mankind must work together to understand the purpose of these cosmic anomalies.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2kKnbsstui0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -251,16 +234,16 @@ Without warning, millions of mysterious alien “doors” suddenly appear around
 	
 	
 
-### Assault on VA-33
-*Released on 2021-04-02, vote average 6.5*
+### Seaspiracy
+*Released on 2021-03-24, vote average 8*
 
-Decorated veteran and PTSD sufferer, Jason Hill meets his wife, Jennifer, for lunch at the Veteran&#39;s Affairs hospital where she works. After Jennifer is called away for an emergency consultation with the head of US Military&#39;s Joint Chiefs of Staff, the hospital is taken hostage by heavily armed terrorists. Jason becomes the last line of defense and must battle the terrorists and his own PTSD induced demons to save his wife, the General, the hospital&#39;s staff and patients.
+Passionate about ocean life, a filmmaker sets out to document the harm that humans do to marine species — and uncovers an alarming global conspiracy.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/i2yVzl7rdr8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/1Q5CXN7soQg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -293,34 +276,71 @@ Bea, Thomas, and the rabbits have created a makeshift family, but despite his be
 
 
 	
-
-  
-
-
-	
-	
 	
 
-  
+### The Girl Who Believes in Miracles
+*Released on 2021-04-02, vote average 9.5*
 
-
-	
-	
-
-### Seaspiracy
-*Released on 2021-03-24, vote average 8*
-
-Passionate about ocean life, a filmmaker sets out to document the harm that humans do to marine species — and uncovers an alarming global conspiracy.
+When Sara hears a preacher say faith can move mountains, she starts praying. Suddenly people in her town are mysteriously healed! But fame soon takes its toll – can Sara’s family save her before it’s too late?
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/1Q5CXN7soQg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/aH6b6P18D34?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Dawn of the Beast
+*Released on 2021-04-06, vote average 6.5*
+
+Aiming to find the Bigfoot, a group of graduate students venture deep into an area of the Northeastern wilderness known for its strange creature sightings. Soon, they learn that there is a much more sinister evil lurking in the woods, the Wendigo, and once the spirit knows you’re there, they will come for you. Who will survive in a battle between the two most notorious monsters of the forest?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/SVszzsy2C0Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Assault on VA-33
+*Released on 2021-04-02, vote average 7.6*
+
+Decorated veteran and PTSD sufferer, Jason Hill meets his wife, Jennifer, for lunch at the Veteran&#39;s Affairs hospital where she works. After Jennifer is called away for an emergency consultation with the head of US Military&#39;s Joint Chiefs of Staff, the hospital is taken hostage by heavily armed terrorists. Jason becomes the last line of defense and must battle the terrorists and his own PTSD induced demons to save his wife, the General, the hospital&#39;s staff and patients.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/i2yVzl7rdr8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -330,7 +350,7 @@ Passionate about ocean life, a filmmaker sets out to document the harm that huma
 	
 
 ### The Seventh Day
-*Released on 2021-03-26, vote average 4.8*
+*Released on 2021-03-26, vote average 4.6*
 
 A renowned exorcist teams up with a rookie priest for his first day of training. As they plunge deeper into hell on earth, the lines between good and evil blur, and their own demons emerge.
 
@@ -339,28 +359,6 @@ A renowned exorcist teams up with a rookie priest for his first day of training.
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/HJThAgic45Q?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Rise of the Mummy
-*Released on 2021-04-03, vote average 6*
-
-A group of archaeology students awaken an ancient mummy. After being trapped in a time loop, the only way they can escape, is to defeat the mummy. As the body count rises, it seems the Mummy has to collect the souls of those who woke him to be able to walk the earth - for good.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/it8iwJnhrpQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -392,7 +390,7 @@ A group of archaeology students awaken an ancient mummy. After being trapped in 
 ### Mortal Kombat
 *Released on 2021-04-07, vote average 8*
 
-MMA fighter Cole Young seeks out Earth&#39;s greatest champions in order to stand against the enemies of Outworld in a high stakes battle for the universe.
+Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung&#39;s best warrior, Sub-Zero, seeks out and trains with Earth&#39;s greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe.
 
 <iframe id="player"
 	type="text/html"
@@ -409,7 +407,7 @@ MMA fighter Cole Young seeks out Earth&#39;s greatest champions in order to stan
 	
 
 ### Mayhem
-*Released on 2021-04-08, vote average 5*
+*Released on 2021-04-08, vote average 6.7*
 
 A virus spreads through an office complex causing white collar workers to act out their worst impulses.
 
@@ -428,23 +426,6 @@ A virus spreads through an office complex causing white collar workers to act ou
 
 	
 
-	
-	
-
-### Dawn of the Beast
-*Released on 2021-04-06, vote average 6.5*
-
-Aiming to find the Bigfoot, a group of graduate students venture deep into an area of the Northeastern wilderness known for its strange creature sightings. Soon, they learn that there is a much more sinister evil lurking in the woods, the Wendigo, and once the spirit knows you’re there, they will come for you. Who will survive in a battle between the two most notorious monsters of the forest?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/SVszzsy2C0Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
