@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Godzilla vs. Kong
-*Released on 2021-03-24, vote average 8.5*
+### The Unholy
+*Released on 2021-03-31, vote average 6.2*
 
-In a time when monsters walk the Earth, humanity’s fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages.
+Alice, a young hearing-impaired girl who, after a supposed visitation from the Virgin Mary, is inexplicably able to hear, speak and heal the sick. As word spreads and people from near and far flock to witness her miracles, a disgraced journalist hoping to revive his career visits the small New England town to investigate. When terrifying events begin to happen all around, he starts to question if these phenomena are the works of the Virgin Mary or something much more sinister.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/odM92ap8_c0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/NmQiJPLYzPI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ In a time when monsters walk the Earth, humanity’s fight for its future sets G
 	
 	
 
-### The Unholy
-*Released on 2021-03-31, vote average 5.7*
+### Bad Trip
+*Released on 2021-03-26, vote average 6.4*
 
-Alice, a young hearing-impaired girl who, after a supposed visitation from the Virgin Mary, is inexplicably able to hear, speak and heal the sick. As word spreads and people from near and far flock to witness her miracles, a disgraced journalist hoping to revive his career visits the small New England town to investigate. When terrifying events begin to happen all around, he starts to question if these phenomena are the works of the Virgin Mary or something much more sinister.
+Two pals embark on a road trip full of funny pranks that pull real people into mayhem.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/NmQiJPLYzPI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/UjT9I6eb4p8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -78,6 +78,28 @@ Troubled teen Will Hawkins has a run-in with the law that puts him at an importa
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/dpLaoYw8xug?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Mortal Kombat
+*Released on 2021-04-07, vote average 7.1*
+
+Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung&#39;s best warrior, Sub-Zero, seeks out and trains with Earth&#39;s greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jBa_aHwCbC4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -113,7 +135,7 @@ A summer fling born under the Sicilian sun quickly develops into a heartbreaking
 	
 
 ### Barb and Star Go to Vista Del Mar
-*Released on 2021-03-29, vote average 6*
+*Released on 2021-03-29, vote average 5.9*
 
 The story of best friends Barb and Star, who leave their small midwestern town for the first time to go on vacation in Vista Del Mar, Florida, where they soon find themselves tangled up in adventure, love, and a villain’s evil plot to kill everyone in town.
 
@@ -141,30 +163,8 @@ The story of best friends Barb and Star, who leave their small midwestern town f
 	
 	
 
-### Mortal Kombat
-*Released on 2021-04-07, vote average 8*
-
-Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung&#39;s best warrior, Sub-Zero, seeks out and trains with Earth&#39;s greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jBa_aHwCbC4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Just Say Yes
-*Released on 2021-04-02, vote average 6*
+*Released on 2021-04-02, vote average 6.2*
 
 Incurable romantic Lotte finds her life upended when her plans for a picture-perfect wedding unravel -- just as her self-absorbed sister gets engaged.
 
@@ -186,7 +186,7 @@ Incurable romantic Lotte finds her life upended when her plans for a picture-per
 	
 
 ### Madame Claude
-*Released on 2021-04-02, vote average 6.7*
+*Released on 2021-04-02, vote average 6.4*
 
 Paris, the late 1960s. Madame Claude is at the head of a flourishing business dedicated to prostitution that gives her power over both the french political and criminal worlds. But the end of her empire is closer than she thinks.
 
@@ -207,65 +207,16 @@ Paris, the late 1960s. Madame Claude is at the head of a flourishing business de
 	
 	
 
-### Every Breath You Take
-*Released on 2021-04-02, vote average 6.3*
+### Mayhem
+*Released on 2021-04-08, vote average 6.7*
 
-A psychiatrist, whose client commits suicide, finds his family life disrupted after introducing her surviving brother to his wife and daughter.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/9dMHedhCYOI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Seaspiracy
-*Released on 2021-03-24, vote average 8*
-
-Passionate about ocean life, a filmmaker sets out to document the harm that humans do to marine species — and uncovers an alarming global conspiracy.
+A virus spreads through an office complex causing white collar workers to act out their worst impulses.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/1Q5CXN7soQg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Peter Rabbit 2: The Runaway
-*Released on 2021-03-25, vote average 6.1*
-
-Bea, Thomas, and the rabbits have created a makeshift family, but despite his best efforts, Peter can’t seem to shake his mischievous reputation. Adventuring out of the garden, Peter finds himself in a world where his mischief is appreciated, but when his family risks everything to come looking for him, Peter must figure out what kind of bunny he wants to be.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/PWBcqCz7l_c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/iJJGAInln0c?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -288,6 +239,33 @@ When Sara hears a preacher say faith can move mountains, she starts praying. Sud
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/aH6b6P18D34?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Voyagers
+*Released on 2021-04-08, vote average 4.5*
+
+With the future of the human race at stake, a group of young men and women embark on an expedition to colonize a distant planet. But when they uncover disturbing secrets about the mission, they become helpless for pleasure, hunger, and power. They then begin to explore their most primordial natures and find a way out.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/11wwx5VKThY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -322,8 +300,52 @@ Aiming to find the Bigfoot, a group of graduate students venture deep into an ar
 	
 	
 
+### Every Breath You Take
+*Released on 2021-04-02, vote average 6.3*
+
+A psychiatrist, whose client commits suicide, finds his family life disrupted after introducing her surviving brother to his wife and daughter.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/9dMHedhCYOI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Peter Rabbit 2: The Runaway
+*Released on 2021-03-25, vote average 6.1*
+
+Bea, Thomas, and the rabbits have created a makeshift family, but despite his best efforts, Peter can’t seem to shake his mischievous reputation. Adventuring out of the garden, Peter finds himself in a world where his mischief is appreciated, but when his family risks everything to come looking for him, Peter must figure out what kind of bunny he wants to be.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PWBcqCz7l_c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Assault on VA-33
-*Released on 2021-04-02, vote average 7.6*
+*Released on 2021-04-02, vote average 7.4*
 
 Decorated veteran and PTSD sufferer, Jason Hill meets his wife, Jennifer, for lunch at the Veteran&#39;s Affairs hospital where she works. After Jennifer is called away for an emergency consultation with the head of US Military&#39;s Joint Chiefs of Staff, the hospital is taken hostage by heavily armed terrorists. Jason becomes the last line of defense and must battle the terrorists and his own PTSD induced demons to save his wife, the General, the hospital&#39;s staff and patients.
 
@@ -347,34 +369,10 @@ Decorated veteran and PTSD sufferer, Jason Hill meets his wife, Jennifer, for lu
 
 
 	
-	
-
-### The Seventh Day
-*Released on 2021-03-26, vote average 4.6*
-
-A renowned exorcist teams up with a rookie priest for his first day of training. As they plunge deeper into hell on earth, the lines between good and evil blur, and their own demons emerge.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/HJThAgic45Q?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -384,23 +382,6 @@ A renowned exorcist teams up with a rookie priest for his first day of training.
 ## Opening soon
 
 
-	
-	
-
-### Mortal Kombat
-*Released on 2021-04-07, vote average 8*
-
-Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung&#39;s best warrior, Sub-Zero, seeks out and trains with Earth&#39;s greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jBa_aHwCbC4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
@@ -422,6 +403,23 @@ A virus spreads through an office complex causing white collar workers to act ou
 	
 	
 
+	
+	
+
+### Voyagers
+*Released on 2021-04-08, vote average 4.5*
+
+With the future of the human race at stake, a group of young men and women embark on an expedition to colonize a distant planet. But when they uncover disturbing secrets about the mission, they become helpless for pleasure, hunger, and power. They then begin to explore their most primordial natures and find a way out.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/11wwx5VKThY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
