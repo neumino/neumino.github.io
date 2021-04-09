@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Unholy
-*Released on 2021-03-31, vote average 6.2*
+*Released on 2021-03-31, vote average 6.1*
 
 Alice, a young hearing-impaired girl who, after a supposed visitation from the Virgin Mary, is inexplicably able to hear, speak and heal the sick. As word spreads and people from near and far flock to witness her miracles, a disgraced journalist hoping to revive his career visits the small New England town to investigate. When terrifying events begin to happen all around, he starts to question if these phenomena are the works of the Virgin Mary or something much more sinister.
 
@@ -47,7 +47,7 @@ Alice, a young hearing-impaired girl who, after a supposed visitation from the V
 	
 
 ### Bad Trip
-*Released on 2021-03-26, vote average 6.4*
+*Released on 2021-03-26, vote average 6*
 
 Two pals embark on a road trip full of funny pranks that pull real people into mayhem.
 
@@ -91,7 +91,7 @@ Troubled teen Will Hawkins has a run-in with the law that puts him at an importa
 	
 
 ### Mortal Kombat
-*Released on 2021-04-07, vote average 7.1*
+*Released on 2021-04-07, vote average 7.8*
 
 Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung&#39;s best warrior, Sub-Zero, seeks out and trains with Earth&#39;s greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe.
 
@@ -112,30 +112,8 @@ Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor
 	
 	
 
-### Caught by a Wave
-*Released on 2021-03-25, vote average 7*
-
-A summer fling born under the Sicilian sun quickly develops into a heartbreaking love story that forces a boy and girl to grow up too quickly.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/n4Uv5VHRDZg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Barb and Star Go to Vista Del Mar
-*Released on 2021-03-29, vote average 5.9*
+*Released on 2021-03-29, vote average 5.6*
 
 The story of best friends Barb and Star, who leave their small midwestern town for the first time to go on vacation in Vista Del Mar, Florida, where they soon find themselves tangled up in adventure, love, and a villain’s evil plot to kill everyone in town.
 
@@ -164,7 +142,7 @@ The story of best friends Barb and Star, who leave their small midwestern town f
 	
 
 ### Just Say Yes
-*Released on 2021-04-02, vote average 6.2*
+*Released on 2021-04-02, vote average 6*
 
 Incurable romantic Lotte finds her life upended when her plans for a picture-perfect wedding unravel -- just as her self-absorbed sister gets engaged.
 
@@ -207,16 +185,16 @@ Paris, the late 1960s. Madame Claude is at the head of a flourishing business de
 	
 	
 
-### Mayhem
-*Released on 2021-04-08, vote average 6.7*
+### Voyagers
+*Released on 2021-04-08, vote average 4.5*
 
-A virus spreads through an office complex causing white collar workers to act out their worst impulses.
+With the future of the human race at stake, a group of young men and women embark on an expedition to colonize a distant planet. But when they uncover disturbing secrets about the mission, they become helpless for pleasure, hunger, and power. They then begin to explore their most primordial natures and find a way out.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/iJJGAInln0c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/11wwx5VKThY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -254,22 +232,15 @@ When Sara hears a preacher say faith can move mountains, she starts praying. Sud
 
 
 	
-	
 
-### Voyagers
-*Released on 2021-04-08, vote average 4.5*
+  
 
-With the future of the human race at stake, a group of young men and women embark on an expedition to colonize a distant planet. But when they uncover disturbing secrets about the mission, they become helpless for pleasure, hunger, and power. They then begin to explore their most primordial natures and find a way out.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/11wwx5VKThY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
 	
 
   
@@ -300,6 +271,33 @@ Aiming to find the Bigfoot, a group of graduate students venture deep into an ar
 	
 	
 
+### The Seventh Day
+*Released on 2021-03-26, vote average 4.6*
+
+A renowned exorcist teams up with a rookie priest for his first day of training. As they plunge deeper into hell on earth, the lines between good and evil blur, and their own demons emerge.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/HJThAgic45Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### Every Breath You Take
 *Released on 2021-04-02, vote average 6.3*
 
@@ -314,55 +312,6 @@ A psychiatrist, whose client commits suicide, finds his family life disrupted af
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### Peter Rabbit 2: The Runaway
-*Released on 2021-03-25, vote average 6.1*
-
-Bea, Thomas, and the rabbits have created a makeshift family, but despite his best efforts, Peter can’t seem to shake his mischievous reputation. Adventuring out of the garden, Peter finds himself in a world where his mischief is appreciated, but when his family risks everything to come looking for him, Peter must figure out what kind of bunny he wants to be.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/PWBcqCz7l_c?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Assault on VA-33
-*Released on 2021-04-02, vote average 7.4*
-
-Decorated veteran and PTSD sufferer, Jason Hill meets his wife, Jennifer, for lunch at the Veteran&#39;s Affairs hospital where she works. After Jennifer is called away for an emergency consultation with the head of US Military&#39;s Joint Chiefs of Staff, the hospital is taken hostage by heavily armed terrorists. Jason becomes the last line of defense and must battle the terrorists and his own PTSD induced demons to save his wife, the General, the hospital&#39;s staff and patients.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/i2yVzl7rdr8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -385,41 +334,7 @@ Decorated veteran and PTSD sufferer, Jason Hill meets his wife, Jennifer, for lu
 	
 
 	
-	
 
-### Mayhem
-*Released on 2021-04-08, vote average 6.7*
-
-A virus spreads through an office complex causing white collar workers to act out their worst impulses.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/iJJGAInln0c?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Voyagers
-*Released on 2021-04-08, vote average 4.5*
-
-With the future of the human race at stake, a group of young men and women embark on an expedition to colonize a distant planet. But when they uncover disturbing secrets about the mission, they become helpless for pleasure, hunger, and power. They then begin to explore their most primordial natures and find a way out.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/11wwx5VKThY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
