@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Unholy
-*Released on 2021-03-31, vote average 6.3*
+*Released on 2021-03-31, vote average 6.2*
 
 Alice, a young hearing-impaired girl who, after a supposed visitation from the Virgin Mary, is inexplicably able to hear, speak and heal the sick. As word spreads and people from near and far flock to witness her miracles, a disgraced journalist hoping to revive his career visits the small New England town to investigate. When terrifying events begin to happen all around, he starts to question if these phenomena are the works of the Virgin Mary or something much more sinister.
 
@@ -46,16 +46,16 @@ Alice, a young hearing-impaired girl who, after a supposed visitation from the V
 	
 	
 
-### Mortal Kombat
-*Released on 2021-04-07, vote average 7.6*
+### Just Say Yes
+*Released on 2021-04-02, vote average 5.8*
 
-Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung&#39;s best warrior, Sub-Zero, seeks out and trains with Earth&#39;s greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe.
+Incurable romantic Lotte finds her life upended when her plans for a picture-perfect wedding unravel -- just as her self-absorbed sister gets engaged.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/jBa_aHwCbC4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/F5UP6c38uVU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,16 +68,16 @@ Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor
 	
 	
 
-### Just Say Yes
-*Released on 2021-04-02, vote average 6*
+### Mortal Kombat
+*Released on 2021-04-07, vote average 7.6*
 
-Incurable romantic Lotte finds her life upended when her plans for a picture-perfect wedding unravel -- just as her self-absorbed sister gets engaged.
+Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung&#39;s best warrior, Sub-Zero, seeks out and trains with Earth&#39;s greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/F5UP6c38uVU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/jBa_aHwCbC4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -111,9 +111,16 @@ Paris, the late 1960s. Madame Claude is at the head of a flourishing business de
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Barb and Star Go to Vista Del Mar
-*Released on 2021-03-29, vote average 5.6*
+*Released on 2021-03-29, vote average 5.7*
 
 The story of best friends Barb and Star, who leave their small midwestern town for the first time to go on vacation in Vista Del Mar, Florida, where they soon find themselves tangled up in adventure, love, and a villain’s evil plot to kill everyone in town.
 
@@ -133,6 +140,21 @@ The story of best friends Barb and Star, who leave their small midwestern town f
 
 	
 	
+
+### Thunder Force
+*Released on 2021-04-09, vote average 6*
+
+In a world where supervillains are commonplace, two estranged childhood best friends reunite after one devises a treatment that gives them powers to protect their city.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qnx6-YLXFwg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -151,28 +173,6 @@ With the human race&#39;s future at stake, a group of young men and women embark
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/11wwx5VKThY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Thunder Force
-*Released on 2021-04-09, vote average 9*
-
-In a world where supervillains are commonplace, two estranged childhood best friends reunite after one devises a treatment that gives them powers to protect their city.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qnx6-YLXFwg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -210,10 +210,22 @@ When Sara hears a preacher say faith can move mountains, she starts praying. Sud
 
 
 	
+	
 
-  
+### Held
+*Released on 2021-04-09, vote average 3*
 
+A couple&#39;s ailing marriage is put to the test when they are held hostage in an isolated vacation rental by an unseen Voice that commands their every move.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_pZ7AhmPRbA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -271,6 +283,28 @@ A psychiatrist, whose client commits suicide, finds his family life disrupted af
   
 
 
+	
+
+  
+
+
+	
+	
+
+### Have You Ever Seen Fireflies?
+*Released on 2021-04-09, vote average 7*
+
+Rebellious, irreverent wunderkind Gülseren navigates loneliness, love and loss against the current of political turmoil and social change.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/WTbSahFObkg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
