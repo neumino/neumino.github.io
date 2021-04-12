@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Unholy
-*Released on 2021-03-31, vote average 6.2*
+*Released on 2021-03-31, vote average 6.4*
 
 Alice, a young hearing-impaired girl who, after a supposed visitation from the Virgin Mary, is inexplicably able to hear, speak and heal the sick. As word spreads and people from near and far flock to witness her miracles, a disgraced journalist hoping to revive his career visits the small New England town to investigate. When terrifying events begin to happen all around, he starts to question if these phenomena are the works of the Virgin Mary or something much more sinister.
 
@@ -69,7 +69,7 @@ Incurable romantic Lotte finds her life upended when her plans for a picture-per
 	
 
 ### Mortal Kombat
-*Released on 2021-04-07, vote average 7.6*
+*Released on 2021-04-07, vote average 7.7*
 
 Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung&#39;s best warrior, Sub-Zero, seeks out and trains with Earth&#39;s greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe.
 
@@ -91,7 +91,7 @@ Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor
 	
 
 ### Madame Claude
-*Released on 2021-04-02, vote average 6.3*
+*Released on 2021-04-02, vote average 6.2*
 
 Paris, the late 1960s. Madame Claude is at the head of a flourishing business dedicated to prostitution that gives her power over both the french political and criminal worlds. But the end of her empire is closer than she thinks.
 
@@ -103,13 +103,6 @@ Paris, the late 1960s. Madame Claude is at the head of a flourishing business de
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -140,9 +133,16 @@ The story of best friends Barb and Star, who leave their small midwestern town f
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Thunder Force
-*Released on 2021-04-09, vote average 6*
+*Released on 2021-04-09, vote average 5.9*
 
 In a world where supervillains are commonplace, two estranged childhood best friends reunite after one devises a treatment that gives them powers to protect their city.
 
@@ -185,6 +185,28 @@ With the human race&#39;s future at stake, a group of young men and women embark
 	
 	
 
+### Held
+*Released on 2021-04-09, vote average 4.5*
+
+A couple&#39;s ailing marriage is put to the test when they are held hostage in an isolated vacation rental by an unseen Voice that commands their every move.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_pZ7AhmPRbA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Girl Who Believes in Miracles
 *Released on 2021-04-02, vote average 9.5*
 
@@ -205,6 +227,23 @@ When Sara hears a preacher say faith can move mountains, she starts praying. Sud
 
 
 	
+	
+
+### The Power
+*Released on 2021-04-08, vote average 4*
+
+London, 1974. As Britain prepares for electrical blackouts to sweep across the country, trainee nurse Val arrives for her first day at the crumbling East London Royal Infirmary. With most of the patients and staff evacuated to another hospital, Val is forced to work the night shift, finding herself in a dark, near empty building. Within these walls lies a deadly secret, forcing Val to face both her own traumatic past and deepest fears.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0ZfRRB8XUNM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -212,16 +251,16 @@ When Sara hears a preacher say faith can move mountains, she starts praying. Sud
 	
 	
 
-### Held
-*Released on 2021-04-09, vote average 3*
+### Have You Ever Seen Fireflies?
+*Released on 2021-04-09, vote average 6.7*
 
-A couple&#39;s ailing marriage is put to the test when they are held hostage in an isolated vacation rental by an unseen Voice that commands their every move.
+Rebellious, irreverent wunderkind Gülseren navigates loneliness, love and loss against the current of political turmoil and social change.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/_pZ7AhmPRbA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/WTbSahFObkg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -237,20 +276,22 @@ A couple&#39;s ailing marriage is put to the test when they are held hostage in 
 
 
 	
-
-  
-
-
 	
 
-  
+### My True Fairytale
+*Released on 2021-04-09, vote average 4*
 
+Angie Goodwin, 17, along with her best friends, Sarah and Andre, go through a horrific car crash. While her friends miraculously survive, Angie disappears. She decides to fulfill her childhood fantasy &amp; embarks on a mysterious journey.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QFzRrdhoyn0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-  
-
-
 	
 
   
@@ -289,22 +330,15 @@ A psychiatrist, whose client commits suicide, finds his family life disrupted af
 
 
 	
-	
 
-### Have You Ever Seen Fireflies?
-*Released on 2021-04-09, vote average 7*
+  
 
-Rebellious, irreverent wunderkind Gülseren navigates loneliness, love and loss against the current of political turmoil and social change.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/WTbSahFObkg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
 	
 
   
@@ -336,6 +370,23 @@ Rebellious, irreverent wunderkind Gülseren navigates loneliness, love and loss 
 
 	
 
+	
+	
+
+### The Penthouse
+*Released on 2021-04-13, vote average 1*
+
+A man covering up a crime assumes a nosy neighbor may have seen what he did. He turns the neighbor&#39;s lives upside down to keep his secret. But is there more to his motive?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/YGOmsAP_osY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
