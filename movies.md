@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### The Unholy
-*Released on 2021-03-31, vote average 6.4*
+### Just Say Yes
+*Released on 2021-04-02, vote average 5.8*
 
-Alice, a young hearing-impaired girl who, after a supposed visitation from the Virgin Mary, is inexplicably able to hear, speak and heal the sick. As word spreads and people from near and far flock to witness her miracles, a disgraced journalist hoping to revive his career visits the small New England town to investigate. When terrifying events begin to happen all around, he starts to question if these phenomena are the works of the Virgin Mary or something much more sinister.
+Incurable romantic Lotte finds her life upended when her plans for a picture-perfect wedding unravel -- just as her self-absorbed sister gets engaged.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/NmQiJPLYzPI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/F5UP6c38uVU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ Alice, a young hearing-impaired girl who, after a supposed visitation from the V
 	
 	
 
-### Just Say Yes
-*Released on 2021-04-02, vote average 5.8*
+### The Unholy
+*Released on 2021-03-31, vote average 6.5*
 
-Incurable romantic Lotte finds her life upended when her plans for a picture-perfect wedding unravel -- just as her self-absorbed sister gets engaged.
+Alice, a young hearing-impaired girl who, after a supposed visitation from the Virgin Mary, is inexplicably able to hear, speak and heal the sick. As word spreads and people from near and far flock to witness her miracles, a disgraced journalist hoping to revive his career visits the small New England town to investigate. When terrifying events begin to happen all around, he starts to question if these phenomena are the works of the Virgin Mary or something much more sinister.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/F5UP6c38uVU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/NmQiJPLYzPI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@ Incurable romantic Lotte finds her life upended when her plans for a picture-per
 	
 
 ### Mortal Kombat
-*Released on 2021-04-07, vote average 7.7*
+*Released on 2021-04-07, vote average 7.5*
 
 Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung&#39;s best warrior, Sub-Zero, seeks out and trains with Earth&#39;s greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe.
 
@@ -91,7 +91,7 @@ Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor
 	
 
 ### Madame Claude
-*Released on 2021-04-02, vote average 6.2*
+*Released on 2021-04-02, vote average 6.1*
 
 Paris, the late 1960s. Madame Claude is at the head of a flourishing business dedicated to prostitution that gives her power over both the french political and criminal worlds. But the end of her empire is closer than she thinks.
 
@@ -100,28 +100,6 @@ Paris, the late 1960s. Madame Claude is at the head of a flourishing business de
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/OfWDTj5uLXQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Barb and Star Go to Vista Del Mar
-*Released on 2021-03-29, vote average 5.7*
-
-The story of best friends Barb and Star, who leave their small midwestern town for the first time to go on vacation in Vista Del Mar, Florida, where they soon find themselves tangled up in adventure, love, and a villain’s evil plot to kill everyone in town.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/gRqLfgNDIzU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -164,7 +142,7 @@ In a world where supervillains are commonplace, two estranged childhood best fri
 	
 
 ### Voyagers
-*Released on 2021-04-08, vote average 3.5*
+*Released on 2021-04-08, vote average 5.1*
 
 With the human race&#39;s future at stake, a group of young men and women embark on an expedition to colonize a distant planet. But when they uncover disturbing secrets about the mission, they become helpless for pleasure, hunger, and power once avoiding drinking the &#39;Blue&#39;. The Blue is a drug that keeps them from having sexual feelings and for not having power and strength. They then begin to explore their most primordial natures and try and find a way out of the spaceship.
 
@@ -173,28 +151,6 @@ With the human race&#39;s future at stake, a group of young men and women embark
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/11wwx5VKThY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Held
-*Released on 2021-04-09, vote average 4.5*
-
-A couple&#39;s ailing marriage is put to the test when they are held hostage in an isolated vacation rental by an unseen Voice that commands their every move.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/_pZ7AhmPRbA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -229,6 +185,55 @@ When Sara hears a preacher say faith can move mountains, she starts praying. Sud
 	
 	
 
+### WWE: WrestleMania 37 (Night 1)
+*Released on 2021-04-11, vote average 7.3*
+
+The 37th annual Showcase of the Immortals is back in business at Raymond James Stadium in Tampa, Florida as night one will feature Sasha Banks defending her SmackDown Women&#39;s Championship against Bianca Belair, Damian Priest &amp; Latin recording artist Bad Bunny take on The Miz &amp; John Morrison, AJ Styles &amp; Omos face off against The New Day for the Raw Tag Team Championships, and WWE Champion Bobby Lashley defends his title against Drew McIntyre.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ExtmWvJkV-Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Held
+*Released on 2021-04-09, vote average 4.5*
+
+A couple&#39;s ailing marriage is put to the test when they are held hostage in an isolated vacation rental by an unseen Voice that commands their every move.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_pZ7AhmPRbA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### The Power
 *Released on 2021-04-08, vote average 4*
 
@@ -249,10 +254,15 @@ London, 1974. As Britain prepares for electrical blackouts to sweep across the c
 
 
 	
+
+  
+
+
+	
 	
 
 ### Have You Ever Seen Fireflies?
-*Released on 2021-04-09, vote average 6.7*
+*Released on 2021-04-09, vote average 7.2*
 
 Rebellious, irreverent wunderkind Gülseren navigates loneliness, love and loss against the current of political turmoil and social change.
 
@@ -270,6 +280,33 @@ Rebellious, irreverent wunderkind Gülseren navigates loneliness, love and loss 
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Every Breath You Take
+*Released on 2021-04-02, vote average 7*
+
+A psychiatrist, whose client commits suicide, finds his family life disrupted after introducing her surviving brother to his wife and daughter.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/9dMHedhCYOI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -298,43 +335,6 @@ Angie Goodwin, 17, along with her best friends, Sarah and Andre, go through a ho
 
 
 	
-	
-
-### Every Breath You Take
-*Released on 2021-04-02, vote average 6.3*
-
-A psychiatrist, whose client commits suicide, finds his family life disrupted after introducing her surviving brother to his wife and daughter.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/9dMHedhCYOI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 
   
 
@@ -347,20 +347,6 @@ A psychiatrist, whose client commits suicide, finds his family life disrupted af
 
 ## Opening soon
 
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
 
 	
 
@@ -387,6 +373,20 @@ A man covering up a crime assumes a nosy neighbor may have seen what he did. He 
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
