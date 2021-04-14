@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Just Say Yes
-*Released on 2021-04-02, vote average 5.8*
+*Released on 2021-04-02, vote average 5.9*
 
 Incurable romantic Lotte finds her life upended when her plans for a picture-perfect wedding unravel -- just as her self-absorbed sister gets engaged.
 
@@ -69,7 +69,7 @@ Alice, a young hearing-impaired girl who, after a supposed visitation from the V
 	
 
 ### Mortal Kombat
-*Released on 2021-04-07, vote average 7.5*
+*Released on 2021-04-07, vote average 7.8*
 
 Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung&#39;s best warrior, Sub-Zero, seeks out and trains with Earth&#39;s greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe.
 
@@ -91,7 +91,7 @@ Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor
 	
 
 ### Madame Claude
-*Released on 2021-04-02, vote average 6.1*
+*Released on 2021-04-02, vote average 6.2*
 
 Paris, the late 1960s. Madame Claude is at the head of a flourishing business dedicated to prostitution that gives her power over both the french political and criminal worlds. But the end of her empire is closer than she thinks.
 
@@ -103,13 +103,6 @@ Paris, the late 1960s. Madame Claude is at the head of a flourishing business de
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -140,9 +133,16 @@ In a world where supervillains are commonplace, two estranged childhood best fri
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Voyagers
-*Released on 2021-04-08, vote average 5.1*
+*Released on 2021-04-08, vote average 6.1*
 
 With the human race&#39;s future at stake, a group of young men and women embark on an expedition to colonize a distant planet. But when they uncover disturbing secrets about the mission, they become helpless for pleasure, hunger, and power once avoiding drinking the &#39;Blue&#39;. The Blue is a drug that keeps them from having sexual feelings and for not having power and strength. They then begin to explore their most primordial natures and try and find a way out of the spaceship.
 
@@ -183,22 +183,32 @@ When Sara hears a preacher say faith can move mountains, she starts praying. Sud
 
 
 	
+
+  
+
+
+	
 	
 
-### WWE: WrestleMania 37 (Night 1)
-*Released on 2021-04-11, vote average 7.3*
+### The Power
+*Released on 2021-04-08, vote average 5.8*
 
-The 37th annual Showcase of the Immortals is back in business at Raymond James Stadium in Tampa, Florida as night one will feature Sasha Banks defending her SmackDown Women&#39;s Championship against Bianca Belair, Damian Priest &amp; Latin recording artist Bad Bunny take on The Miz &amp; John Morrison, AJ Styles &amp; Omos face off against The New Day for the Raw Tag Team Championships, and WWE Champion Bobby Lashley defends his title against Drew McIntyre.
+London, 1974. As Britain prepares for electrical blackouts to sweep across the country, trainee nurse Val arrives for her first day at the crumbling East London Royal Infirmary. With most of the patients and staff evacuated to another hospital, Val is forced to work the night shift, finding herself in a dark, near empty building. Within these walls lies a deadly secret, forcing Val to face both her own traumatic past and deepest fears.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ExtmWvJkV-Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/0ZfRRB8XUNM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -227,64 +237,7 @@ A couple&#39;s ailing marriage is put to the test when they are held hostage in 
 
 
 	
-
-  
-
-
 	
-	
-
-### The Power
-*Released on 2021-04-08, vote average 4*
-
-London, 1974. As Britain prepares for electrical blackouts to sweep across the country, trainee nurse Val arrives for her first day at the crumbling East London Royal Infirmary. With most of the patients and staff evacuated to another hospital, Val is forced to work the night shift, finding herself in a dark, near empty building. Within these walls lies a deadly secret, forcing Val to face both her own traumatic past and deepest fears.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0ZfRRB8XUNM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Have You Ever Seen Fireflies?
-*Released on 2021-04-09, vote average 7.2*
-
-Rebellious, irreverent wunderkind Gülseren navigates loneliness, love and loss against the current of political turmoil and social change.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/WTbSahFObkg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -313,23 +266,6 @@ A psychiatrist, whose client commits suicide, finds his family life disrupted af
 
 
 	
-	
-
-### My True Fairytale
-*Released on 2021-04-09, vote average 4*
-
-Angie Goodwin, 17, along with her best friends, Sarah and Andre, go through a horrific car crash. While her friends miraculously survive, Angie disappears. She decides to fulfill her childhood fantasy &amp; embarks on a mysterious journey.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/QFzRrdhoyn0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -338,23 +274,6 @@ Angie Goodwin, 17, along with her best friends, Sarah and Andre, go through a ho
 
   
 
-
-	
-
-  
-
-
-
-## Opening soon
-
-
-	
-
-	
-
-	
-
-	
 
 	
 	
@@ -375,6 +294,57 @@ A man covering up a crime assumes a nosy neighbor may have seen what he did. He 
 	
 	
 
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+
+## Opening soon
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Night of the Sicario
+*Released on 2021-04-16, vote average 5.7*
+
+Taylor is forced to hide the young daughter of a Colombian woman in witness protection who will be testifying against a powerful drug cartel in Federal Court, as ruthless sicarios aim to hunt them down.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ml_uPMRBnjs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
