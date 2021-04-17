@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Mortal Kombat
-*Released on 2021-04-07, vote average 7.8*
+*Released on 2021-04-07, vote average 7.5*
 
 Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung&#39;s best warrior, Sub-Zero, seeks out and trains with Earth&#39;s greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe.
 
@@ -40,28 +40,6 @@ Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-
-
-	
-	
-
-### Just Say Yes
-*Released on 2021-04-02, vote average 5.9*
-
-Incurable romantic Lotte finds her life upended when her plans for a picture-perfect wedding unravel -- just as her self-absorbed sister gets engaged.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/F5UP6c38uVU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
   
 
 
@@ -111,38 +89,9 @@ Bernardo is an undertaker. He runs his mortuary business in the same house where
 
 	
 	
-	
-
-  
-
-
-	
-	
-
-### Madame Claude
-*Released on 2021-04-02, vote average 6.1*
-
-Paris, the late 1960s. Madame Claude is at the head of a flourishing business dedicated to prostitution that gives her power over both the french political and criminal worlds. But the end of her empire is closer than she thinks.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/OfWDTj5uLXQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
 
 ### Why Did You Kill Me?
-*Released on 2021-04-14, vote average 10*
+*Released on 2021-04-14, vote average 7.3*
 
 The line between justice and revenge blurs when a devastated family uses social media to track down the people who killed 24-year-old Crystal Theobald.
 
@@ -155,55 +104,6 @@ The line between justice and revenge blurs when a devastated family uses social 
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### The Girl Who Believes in Miracles
-*Released on 2021-04-02, vote average 9.6*
-
-When Sara hears a preacher say faith can move mountains, she starts praying. Suddenly people in her town are mysteriously healed! But fame soon takes its toll – can Sara’s family save her before it’s too late?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/aH6b6P18D34?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Voyagers
-*Released on 2021-04-08, vote average 6.5*
-
-With the human race&#39;s future at stake, a group of young men and women embark on an expedition to colonize a distant planet. But when they uncover disturbing secrets about the mission, they become helpless for pleasure, hunger, and power once avoiding drinking the &#39;Blue&#39;. The Blue is a drug that keeps them from having sexual feelings and for not having power and strength. They then begin to explore their most primordial natures and try and find a way out of the spaceship.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/11wwx5VKThY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -232,10 +132,22 @@ Taylor is forced to hide the young daughter of a Colombian woman in witness prot
 
 
 	
+	
 
-  
+### Voyagers
+*Released on 2021-04-08, vote average 6.3*
 
+With the human race&#39;s future at stake, a group of young men and women embark on an expedition to colonize a distant planet. But when they uncover disturbing secrets about the mission, they become helpless for pleasure, hunger, and power once avoiding drinking the &#39;Blue&#39;. The Blue is a drug that keeps them from having sexual feelings and for not having power and strength. They then begin to explore their most primordial natures and try and find a way out of the spaceship.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/11wwx5VKThY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -258,6 +170,16 @@ Victoria is a young mother trying to put her dark past as a Russian drug courier
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -286,22 +208,59 @@ A man covering up a crime assumes a nosy neighbor may have seen what he did. He 
 
 
 	
+
+  
+
+
 	
 
-### Every Breath You Take
-*Released on 2021-04-02, vote average 7*
+  
 
-A psychiatrist, whose client commits suicide, finds his family life disrupted after introducing her surviving brother to his wife and daughter.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Ride or Die
+*Released on 2021-04-15, vote average 7.2*
+
+Rei helps the woman she&#39;s been in love with for years escape her abusive husband. While on the run, their feelings for each other catch fire.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/9dMHedhCYOI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/__cP41-hdwk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -316,7 +275,7 @@ A psychiatrist, whose client commits suicide, finds his family life disrupted af
 	
 
 ### Gunda
-*Released on 2021-04-15, vote average 7*
+*Released on 2021-04-15, vote average 7.8*
 
 It is a film about pigs, cows and chicken. Black and white. Without words. Without music. Victor Kossakovsky is offering not just a mesmerizing poetic work of art but also a wonderful life experience. We get to know Gunda the sow, her family and neighbors, and it gives us the reason to think about the secret of consciousness and the value of life of those with whom we share this planet.
 
@@ -334,16 +293,6 @@ It is a film about pigs, cows and chicken. Black and white. Without words. Witho
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -351,43 +300,9 @@ It is a film about pigs, cows and chicken. Black and white. Without words. Witho
 	
 
 	
-	
-
-### Night of the Sicario
-*Released on 2021-04-16, vote average 6.8*
-
-Taylor is forced to hide the young daughter of a Colombian woman in witness protection who will be testifying against a powerful drug cartel in Federal Court, as ruthless sicarios aim to hunt them down.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ml_uPMRBnjs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
-	
-	
-
-### Vanquish
-*Released on 2021-04-16, vote average 6.5*
-
-Victoria is a young mother trying to put her dark past as a Russian drug courier behind her, but retired cop Damon forces Victoria to do his bidding by holding her daughter hostage. Now, Victoria must use guns, guts and a motorcycle to take out a series of violent gangsters—or she may never see her child again.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/fUElfp3DJ5Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
