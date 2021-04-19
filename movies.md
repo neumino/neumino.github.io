@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Mortal Kombat
-*Released on 2021-04-07, vote average 7.4*
+*Released on 2021-04-07, vote average 7.6*
 
 Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung&#39;s best warrior, Sub-Zero, seeks out and trains with Earth&#39;s greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe.
 
@@ -91,7 +91,7 @@ Bernardo is an undertaker. He runs his mortuary business in the same house where
 	
 
 ### Why Did You Kill Me?
-*Released on 2021-04-14, vote average 6.9*
+*Released on 2021-04-14, vote average 6.4*
 
 The line between justice and revenge blurs when a devastated family uses social media to track down the people who killed 24-year-old Crystal Theobald.
 
@@ -113,7 +113,7 @@ The line between justice and revenge blurs when a devastated family uses social 
 	
 
 ### Vanquish
-*Released on 2021-04-16, vote average 5.6*
+*Released on 2021-04-16, vote average 5.7*
 
 Victoria is a young mother trying to put her dark past as a Russian drug courier behind her, but retired cop Damon forces Victoria to do his bidding by holding her daughter hostage. Now, Victoria must use guns, guts and a motorcycle to take out a series of violent gangsters—or she may never see her child again.
 
@@ -132,15 +132,10 @@ Victoria is a young mother trying to put her dark past as a Russian drug courier
 
 
 	
-
-  
-
-
-	
 	
 
 ### Monday
-*Released on 2021-04-16, vote average 6.6*
+*Released on 2021-04-16, vote average 7.2*
 
 Two self-destructive Americans, living across Athens and the Greek islands who plunge into a tsunami of a romance.
 
@@ -161,16 +156,16 @@ Two self-destructive Americans, living across Athens and the Greek islands who p
 	
 	
 
-### Night of the Sicario
-*Released on 2021-04-16, vote average 6.8*
+### Jakob&#39;s Wife
+*Released on 2021-04-16, vote average 6*
 
-Taylor is forced to hide the young daughter of a Colombian woman in witness protection who will be testifying against a powerful drug cartel in Federal Court, as ruthless sicarios aim to hunt them down.
+Anne is married to a small-town Minister and feels her life and marriage have been shrinking over the past 30 years. After a brutal and bloody encounter with &#34;The Master&#34;, she discovers a new sense of power and an appetite to live bigger and bolder than before. However, these changes come with a heavy body count and a toll on her marriage.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ml_uPMRBnjs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xA8ALfbP_hA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -205,30 +200,8 @@ Upon learning that he is from New York City, a wide-eyed boy, who is half human 
 	
 	
 
-### Voyagers
-*Released on 2021-04-08, vote average 6.5*
-
-With the human race&#39;s future at stake, a group of young men and women embark on an expedition to colonize a distant planet. But when they uncover disturbing secrets about the mission, they become helpless for pleasure, hunger, and power once avoiding drinking the &#39;Blue&#39;. The Blue is a drug that keeps them from having sexual feelings and for not having power and strength. They then begin to explore their most primordial natures and try and find a way out of the spaceship.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/11wwx5VKThY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Ride or Die
-*Released on 2021-04-15, vote average 6.1*
+*Released on 2021-04-15, vote average 6.2*
 
 Rei helps the woman she&#39;s been in love with for years escape her abusive husband. While on the run, their feelings for each other catch fire.
 
@@ -241,16 +214,6 @@ Rei helps the woman she&#39;s been in love with for years escape her abusive hus
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -301,28 +264,18 @@ A former intelligence agent gets involved with the first human clone, Seo Bok, w
 
 
 	
-
-  
-
-
 	
 
-  
+### Voyagers
+*Released on 2021-04-08, vote average 6.7*
 
-
-	
-	
-
-### The Penthouse
-*Released on 2021-04-13, vote average 1*
-
-A man covering up a crime assumes a nosy neighbor may have seen what he did. He turns the neighbor&#39;s lives upside down to keep his secret. But is there more to his motive?
+With the human race&#39;s future at stake, a group of young men and women embark on an expedition to colonize a distant planet. But when they uncover disturbing secrets about the mission, they become helpless for pleasure, hunger, and power once avoiding drinking the &#39;Blue&#39;. The Blue is a drug that keeps them from having sexual feelings and for not having power and strength. They then begin to explore their most primordial natures and try and find a way out of the spaceship.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/YGOmsAP_osY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/11wwx5VKThY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -333,6 +286,16 @@ A man covering up a crime assumes a nosy neighbor may have seen what he did. He 
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 	
 
@@ -341,6 +304,58 @@ A man covering up a crime assumes a nosy neighbor may have seen what he did. He 
 
 	
 	
+
+### Night of the Sicario
+*Released on 2021-04-16, vote average 6.8*
+
+Taylor is forced to hide the young daughter of a Colombian woman in witness protection who will be testifying against a powerful drug cartel in Federal Court, as ruthless sicarios aim to hunt them down.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ml_uPMRBnjs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Held
+*Released on 2021-04-09, vote average 4.5*
+
+A couple&#39;s ailing marriage is put to the test when they are held hostage in an isolated vacation rental by an unseen Voice that commands their every move.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_pZ7AhmPRbA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
