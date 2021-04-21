@@ -47,7 +47,7 @@ Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor
 	
 
 ### Thunder Force
-*Released on 2021-04-09, vote average 5.8*
+*Released on 2021-04-09, vote average 5.9*
 
 In a world where supervillains are commonplace, two estranged childhood best friends reunite after one devises a treatment that gives them powers to protect their city.
 
@@ -90,8 +90,30 @@ Bernardo is an undertaker. He runs his mortuary business in the same house where
 	
 	
 
+### Ride or Die
+*Released on 2021-04-15, vote average 6.6*
+
+Rei helps the woman she&#39;s been in love with for years escape her abusive husband. While on the run, their feelings for each other catch fire.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/__cP41-hdwk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Why Did You Kill Me?
-*Released on 2021-04-14, vote average 6.5*
+*Released on 2021-04-14, vote average 6.6*
 
 The line between justice and revenge blurs when a devastated family uses social media to track down the people who killed 24-year-old Crystal Theobald.
 
@@ -100,6 +122,28 @@ The line between justice and revenge blurs when a devastated family uses social 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/QEXV8Rif8Vc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Arlo the Alligator Boy
+*Released on 2021-04-16, vote average 6.5*
+
+Upon learning that he is from New York City, a wide-eyed boy, who is half human and half alligator, decides to leave his sheltered life in the swamp and search for his long lost father. A musical adventure.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/DAGdOI-ORxM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -122,28 +166,6 @@ Victoria is a young mother trying to put her dark past as a Russian drug courier
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/fUElfp3DJ5Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Ride or Die
-*Released on 2021-04-15, vote average 6.3*
-
-Rei helps the woman she&#39;s been in love with for years escape her abusive husband. While on the run, their feelings for each other catch fire.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/__cP41-hdwk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -179,7 +201,7 @@ Two self-destructive Americans, living across Athens and the Greek islands who p
 	
 
 ### Jakob&#39;s Wife
-*Released on 2021-04-16, vote average 5.3*
+*Released on 2021-04-16, vote average 6.3*
 
 Anne is married to a small-town Minister and feels her life and marriage have been shrinking over the past 30 years. After a brutal and bloody encounter with &#34;The Master&#34;, she discovers a new sense of power and an appetite to live bigger and bolder than before. However, these changes come with a heavy body count and a toll on her marriage.
 
@@ -199,70 +221,6 @@ Anne is married to a small-town Minister and feels her life and marriage have b
 
 	
 	
-
-### Arlo the Alligator Boy
-*Released on 2021-04-16, vote average 6.5*
-
-Upon learning that he is from New York City, a wide-eyed boy, who is half human and half alligator, decides to leave his sheltered life in the swamp and search for his long lost father. A musical adventure.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/DAGdOI-ORxM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Year Earth Changed
-*Released on 2021-04-16, vote average 7.5*
-
-Never-before-seen footage shows how our living in lockdown opened the door for nature to bounce back and thrive. Across the seas, skies, and lands, Earth found its rhythm when we came to a stop.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XswV_yqPq28?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Seobok
-*Released on 2021-04-12, vote average 5*
-
-A former intelligence agent gets involved with the first human clone, Seo Bok, who others seek, causing trouble.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/eC2c4hH6Swc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -292,51 +250,17 @@ With the human race&#39;s future at stake, a group of young men and women embark
 
 	
 	
-	
 
-  
+### Seobok
+*Released on 2021-04-12, vote average 5.3*
 
-
-	
-
-  
-
-
-	
-	
-
-### Killer Among Us
-*Released on 2021-04-16, vote average 6*
-
-On the 4th of July, a serial killer has a moral crisis when he discovers that his latest victim is a high-school student; simultaneously, a rookie cop and a seasoned detective race against the clock to save her life.
+A former intelligence agent gets involved with the first human clone, Seo Bok, who others seek, causing trouble.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/joqpDEu4rso?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Night of the Sicario
-*Released on 2021-04-16, vote average 6.8*
-
-Taylor is forced to hide the young daughter of a Colombian woman in witness protection who will be testifying against a powerful drug cartel in Federal Court, as ruthless sicarios aim to hunt them down.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ml_uPMRBnjs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/eC2c4hH6Swc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -356,16 +280,16 @@ Taylor is forced to hide the young daughter of a Colombian woman in witness prot
 	
 	
 
-### Held
-*Released on 2021-04-09, vote average 4.5*
+### The Year Earth Changed
+*Released on 2021-04-16, vote average 7.3*
 
-A couple&#39;s ailing marriage is put to the test when they are held hostage in an isolated vacation rental by an unseen Voice that commands their every move.
+Never-before-seen footage shows how our living in lockdown opened the door for nature to bounce back and thrive. Across the seas, skies, and lands, Earth found its rhythm when we came to a stop.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/_pZ7AhmPRbA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/XswV_yqPq28?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -375,6 +299,37 @@ A couple&#39;s ailing marriage is put to the test when they are held hostage in 
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -406,10 +361,6 @@ H is a cold and mysterious character working at a cash truck company responsible
 	
 
 	
-
-	
-
-	
 	
 
 ### Stowaway
@@ -426,6 +377,10 @@ A three-person crew on a mission to Mars faces an impossible choice when an unpl
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
 	
 
 	
