@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Mortal Kombat
-*Released on 2021-04-07, vote average 7.4*
+### Thunder Force
+*Released on 2021-04-09, vote average 5.9*
 
-Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung&#39;s best warrior, Sub-Zero, seeks out and trains with Earth&#39;s greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe.
+In a world where supervillains are commonplace, two estranged childhood best friends reunite after one devises a treatment that gives them powers to protect their city.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/jBa_aHwCbC4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/qnx6-YLXFwg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,30 +46,8 @@ Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor
 	
 	
 
-### Thunder Force
-*Released on 2021-04-09, vote average 5.9*
-
-In a world where supervillains are commonplace, two estranged childhood best friends reunite after one devises a treatment that gives them powers to protect their city.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qnx6-YLXFwg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Funeral Home
-*Released on 2021-04-15, vote average 1.3*
+*Released on 2021-04-15, vote average 2.4*
 
 Bernardo is an undertaker. He runs his mortuary business in the same house where he resides. In the front, he has his clients. And in the back, his dysfunctional family lives amongst coffins, wreaths, and the mischievous but nonviolent ghosts that visit on a daily basis. But when a malevolent entity enters the scene, it wreaks havoc on the already fractured household.
 
@@ -91,7 +69,7 @@ Bernardo is an undertaker. He runs his mortuary business in the same house where
 	
 
 ### Ride or Die
-*Released on 2021-04-15, vote average 6.6*
+*Released on 2021-04-15, vote average 6.9*
 
 Rei helps the woman she&#39;s been in love with for years escape her abusive husband. While on the run, their feelings for each other catch fire.
 
@@ -112,30 +90,8 @@ Rei helps the woman she&#39;s been in love with for years escape her abusive hus
 	
 	
 
-### Why Did You Kill Me?
-*Released on 2021-04-14, vote average 6.6*
-
-The line between justice and revenge blurs when a devastated family uses social media to track down the people who killed 24-year-old Crystal Theobald.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/QEXV8Rif8Vc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Arlo the Alligator Boy
-*Released on 2021-04-16, vote average 6.5*
+*Released on 2021-04-16, vote average 7.7*
 
 Upon learning that he is from New York City, a wide-eyed boy, who is half human and half alligator, decides to leave his sheltered life in the swamp and search for his long lost father. A musical adventure.
 
@@ -156,8 +112,30 @@ Upon learning that he is from New York City, a wide-eyed boy, who is half human 
 	
 	
 
+### Why Did You Kill Me?
+*Released on 2021-04-14, vote average 6.8*
+
+The line between justice and revenge blurs when a devastated family uses social media to track down the people who killed 24-year-old Crystal Theobald.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QEXV8Rif8Vc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Vanquish
-*Released on 2021-04-16, vote average 5.4*
+*Released on 2021-04-16, vote average 5.7*
 
 Victoria is a young mother trying to put her dark past as a Russian drug courier behind her, but retired cop Damon forces Victoria to do his bidding by holding her daughter hostage. Now, Victoria must use guns, guts and a motorcycle to take out a series of violent gangsters—or she may never see her child again.
 
@@ -178,8 +156,37 @@ Victoria is a young mother trying to put her dark past as a Russian drug courier
 	
 	
 
+### Wrath of Man
+*Released on 2021-04-22, vote average 9.5*
+
+H is a cold and mysterious character working at a cash truck company responsible for moving hundreds of millions of dollars around Los Angeles each week.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EFYEni2gsK0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
 ### Monday
-*Released on 2021-04-16, vote average 6.5*
+*Released on 2021-04-16, vote average 6.4*
 
 Two self-destructive Americans, living across Athens and the Greek islands who plunge into a tsunami of a romance.
 
@@ -200,8 +207,30 @@ Two self-destructive Americans, living across Athens and the Greek islands who p
 	
 	
 
+### Seobok
+*Released on 2021-04-12, vote average 6.8*
+
+A former intelligence agent gets involved with the first human clone, Seo Bok, who others seek, causing trouble.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/eC2c4hH6Swc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Jakob&#39;s Wife
-*Released on 2021-04-16, vote average 6.3*
+*Released on 2021-04-16, vote average 6.6*
 
 Anne is married to a small-town Minister and feels her life and marriage have been shrinking over the past 30 years. After a brutal and bloody encounter with &#34;The Master&#34;, she discovers a new sense of power and an appetite to live bigger and bolder than before. However, these changes come with a heavy body count and a toll on her marriage.
 
@@ -213,13 +242,6 @@ Anne is married to a small-town Minister and feels her life and marriage have b
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -251,16 +273,43 @@ With the human race&#39;s future at stake, a group of young men and women embark
 	
 	
 
-### Seobok
-*Released on 2021-04-12, vote average 5.3*
+### Stowaway
+*Released on 2021-04-22, vote average 10*
 
-A former intelligence agent gets involved with the first human clone, Seo Bok, who others seek, causing trouble.
+A three-person crew on a mission to Mars faces an impossible choice when an unplanned passenger jeopardizes the lives of everyone on board.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/eC2c4hH6Swc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/A_apvQkWsVY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Mitchells vs. The Machines
+*Released on 2021-04-22, vote average 10*
+
+After Katie Mitchell is accepted into the film school of her dreams, her family decides to use this opportunity to drive Katie to school as a road trip. When their plans are interrupted by a tech uprising, the Mitchells realize that they must work together to save the world.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/9c52Z5sMuTQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -278,28 +327,6 @@ A former intelligence agent gets involved with the first human clone, Seo Bok, w
 
 
 	
-	
-
-### The Year Earth Changed
-*Released on 2021-04-16, vote average 7.3*
-
-Never-before-seen footage shows how our living in lockdown opened the door for nature to bounce back and thrive. Across the seas, skies, and lands, Earth found its rhythm when we came to a stop.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XswV_yqPq28?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 
   
 
@@ -316,20 +343,6 @@ Never-before-seen footage shows how our living in lockdown opened the door for n
   
 
 
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -382,7 +395,22 @@ A three-person crew on a mission to Mars faces an impossible choice when an unpl
 	
 
 	
+	
 
+### The Mitchells vs. The Machines
+*Released on 2021-04-22, vote average 10*
+
+After Katie Mitchell is accepted into the film school of her dreams, her family decides to use this opportunity to drive Katie to school as a road trip. When their plans are interrupted by a tech uprising, the Mitchells realize that they must work together to save the world.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/9c52Z5sMuTQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -406,7 +434,43 @@ A three-person crew on a mission to Mars faces an impossible choice when an unpl
 	
 
 	
+	
 
+### Together Together
+*Released on 2021-04-23, vote average 4*
+
+When young loner Anna is hired as the surrogate for Matt, a single man in his 40s, the two strangers come to realize this unexpected relationship will quickly challenge their perceptions of connection, boundaries and the particulars of love.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xfpZToSKI3E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+	
+
+### This Little Love of Mine
+*Released on 2021-04-22, vote average 6*
+
+Laura Price is a successful San Francisco lawyer on the cusp of promotion – a far cry from her childhood growing up on a tropical island with best friends Chip and Gem. When the firm’s biggest client – Chip’s grandfather – asks Laura to travel to the island and deliver a contract to make Chip his heir, she leaves behind her practice and fiancé Owen to convince her childhood friend to sign a contract that will make him a billionaire. As Chip and Laura grow closer, she questions whether she is engaged to the right man or if she belongs back on the island with her childhood sweetheart. Great chemistry and gorgeous scenery will make you fall in love with this delightful romantic comedy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/VyopYXVJNmQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
