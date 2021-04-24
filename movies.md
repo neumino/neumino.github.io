@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Thunder Force
-*Released on 2021-04-09, vote average 5.8*
+### Ride or Die
+*Released on 2021-04-15, vote average 7.1*
 
-In a world where supervillains are commonplace, two estranged childhood best friends reunite after one devises a treatment that gives them powers to protect their city.
+Rei helps the woman she&#39;s been in love with for years escape her abusive husband. While on the run, their feelings for each other catch fire.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/qnx6-YLXFwg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/__cP41-hdwk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -40,28 +40,6 @@ In a world where supervillains are commonplace, two estranged childhood best fri
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-
-
-	
-	
-
-### Ride or Die
-*Released on 2021-04-15, vote average 7.1*
-
-Rei helps the woman she&#39;s been in love with for years escape her abusive husband. While on the run, their feelings for each other catch fire.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/__cP41-hdwk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
   
 
 
@@ -91,7 +69,7 @@ Bernardo is an undertaker. He runs his mortuary business in the same house where
 	
 
 ### Arlo the Alligator Boy
-*Released on 2021-04-16, vote average 7.7*
+*Released on 2021-04-16, vote average 8.3*
 
 Upon learning that he is from New York City, a wide-eyed boy, who is half human and half alligator, decides to leave his sheltered life in the swamp and search for his long lost father. A musical adventure.
 
@@ -113,7 +91,7 @@ Upon learning that he is from New York City, a wide-eyed boy, who is half human 
 	
 
 ### Vanquish
-*Released on 2021-04-16, vote average 6.2*
+*Released on 2021-04-16, vote average 6*
 
 Victoria is a young mother trying to put her dark past as a Russian drug courier behind her, but retired cop Damon forces Victoria to do his bidding by holding her daughter hostage. Now, Victoria must use guns, guts and a motorcycle to take out a series of violent gangsters—or she may never see her child again.
 
@@ -133,9 +111,16 @@ Victoria is a young mother trying to put her dark past as a Russian drug courier
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Wrath of Man
-*Released on 2021-04-22, vote average 9.7*
+*Released on 2021-04-22, vote average 9.8*
 
 H is a cold and mysterious character working at a cash truck company responsible for moving hundreds of millions of dollars around Los Angeles each week.
 
@@ -155,16 +140,9 @@ H is a cold and mysterious character working at a cash truck company responsible
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Why Did You Kill Me?
-*Released on 2021-04-14, vote average 6.7*
+*Released on 2021-04-14, vote average 6.6*
 
 The line between justice and revenge blurs when a devastated family uses social media to track down the people who killed 24-year-old Crystal Theobald.
 
@@ -185,16 +163,16 @@ The line between justice and revenge blurs when a devastated family uses social 
 	
 	
 
-### Monday
-*Released on 2021-04-16, vote average 6.6*
+### Stowaway
+*Released on 2021-04-22, vote average 6.4*
 
-Two self-destructive Americans, living across Athens and the Greek islands who plunge into a tsunami of a romance.
+A three-person crew on a mission to Mars faces an impossible choice when an unplanned passenger jeopardizes the lives of everyone on board.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/jVBIelh22z8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/A_apvQkWsVY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -207,20 +185,25 @@ Two self-destructive Americans, living across Athens and the Greek islands who p
 	
 	
 
-### Stowaway
-*Released on 2021-04-22, vote average 10*
+### Trigger Point
+*Released on 2021-04-23, vote average 10*
 
-A three-person crew on a mission to Mars faces an impossible choice when an unplanned passenger jeopardizes the trip. Facing dwindling resources and a potentially fatal outcome, the crew is forced to make an impossible decision.
+Follows Nicolas Shaw, a retired U.S. special operative who becomes part of an elite &#34;invisible&#34; team that quietly takes out the worst villains around the world.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/A_apvQkWsVY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/AiRRoArpkqU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -254,50 +237,82 @@ A quirky, dysfunctional family&#39;s road trip is upended when they find themsel
 
 
 	
-
-  
-
-
 	
 
-  
+### Monday
+*Released on 2021-04-16, vote average 6.4*
 
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Jakob&#39;s Wife
-*Released on 2021-04-16, vote average 6.6*
-
-Anne is married to a small-town Minister and feels her life and marriage have been shrinking over the past 30 years. After a brutal and bloody encounter with &#34;The Master&#34;, she discovers a new sense of power and an appetite to live bigger and bolder than before. However, these changes come with a heavy body count and a toll on her marriage.
+Two self-destructive Americans, living across Athens and the Greek islands who plunge into a tsunami of a romance.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xA8ALfbP_hA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/jVBIelh22z8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Together Together
+*Released on 2021-04-23, vote average 5*
+
+When young loner Anna is hired as the surrogate for Matt, a single man in his 40s, the two strangers come to realize this unexpected relationship will quickly challenge their perceptions of connection, boundaries and the particulars of love.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xfpZToSKI3E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Adventures of Rufus: The Fantastic Pet
+*Released on 2021-04-22, vote average 5*
+
+At his grandmother&#39;s house, Scott and his friend Emily meet Rufus, a swashbuckling, furry creature who begs them to help restore his fading kingdom. Wizard Abbott&#39;s spell book contains the magic healing formula - but Abbott&#39;s ancient nemesis Lilith, posing as Grandmother&#39;s servant, wants the book too! To save Rufus&#39; magical world, Scott and Emily must face many exciting challenges...
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/GBK8bTI-xc0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -333,24 +348,24 @@ Anne is married to a small-town Minister and feels her life and marriage have b
 	
 
 	
-
-	
 	
 
-### Together Together
-*Released on 2021-04-23, vote average 5*
+### The Banishing
+*Released on 2021-04-29, vote average 5.5*
 
-When young loner Anna is hired as the surrogate for Matt, a single man in his 40s, the two strangers come to realize this unexpected relationship will quickly challenge their perceptions of connection, boundaries and the particulars of love.
+In the 1930s, a young reverend and his family are forced to confront their worst fears when they discover their new home holds a horrifying secret.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xfpZToSKI3E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/eVziVV7JN6c?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
