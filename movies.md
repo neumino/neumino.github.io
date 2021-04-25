@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Ride or Die
-*Released on 2021-04-15, vote average 7.1*
+*Released on 2021-04-15, vote average 6.9*
 
 Rei helps the woman she&#39;s been in love with for years escape her abusive husband. While on the run, their feelings for each other catch fire.
 
@@ -46,16 +46,16 @@ Rei helps the woman she&#39;s been in love with for years escape her abusive hus
 	
 	
 
-### The Funeral Home
-*Released on 2021-04-15, vote average 2.4*
+### Arlo the Alligator Boy
+*Released on 2021-04-16, vote average 8.1*
 
-Bernardo is an undertaker. He runs his mortuary business in the same house where he resides. In the front, he has his clients. And in the back, his dysfunctional family lives amongst coffins, wreaths, and the mischievous but nonviolent ghosts that visit on a daily basis. But when a malevolent entity enters the scene, it wreaks havoc on the already fractured household.
+Upon learning that he is from New York City, a wide-eyed boy, who is half human and half alligator, decides to leave his sheltered life in the swamp and search for his long lost father. A musical adventure.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ySF_RPgnTAc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/DAGdOI-ORxM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,16 +68,16 @@ Bernardo is an undertaker. He runs his mortuary business in the same house where
 	
 	
 
-### Arlo the Alligator Boy
-*Released on 2021-04-16, vote average 8.3*
+### The Funeral Home
+*Released on 2021-04-15, vote average 2.4*
 
-Upon learning that he is from New York City, a wide-eyed boy, who is half human and half alligator, decides to leave his sheltered life in the swamp and search for his long lost father. A musical adventure.
+Bernardo is an undertaker. He runs his mortuary business in the same house where he resides. In the front, he has his clients. And in the back, his dysfunctional family lives amongst coffins, wreaths, and the mischievous but nonviolent ghosts that visit on a daily basis. But when a malevolent entity enters the scene, it wreaks havoc on the already fractured household.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/DAGdOI-ORxM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ySF_RPgnTAc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -119,16 +119,16 @@ Victoria is a young mother trying to put her dark past as a Russian drug courier
 	
 	
 
-### Wrath of Man
-*Released on 2021-04-22, vote average 9.8*
+### Stowaway
+*Released on 2021-04-22, vote average 6.1*
 
-H is a cold and mysterious character working at a cash truck company responsible for moving hundreds of millions of dollars around Los Angeles each week.
+A three-person crew on a mission to Mars faces an impossible choice when an unplanned passenger jeopardizes the lives of everyone on board.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/EFYEni2gsK0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/A_apvQkWsVY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -163,16 +163,16 @@ The line between justice and revenge blurs when a devastated family uses social 
 	
 	
 
-### Stowaway
-*Released on 2021-04-22, vote average 6.4*
+### Wrath of Man
+*Released on 2021-04-22, vote average 9.5*
 
-A three-person crew on a mission to Mars faces an impossible choice when an unplanned passenger jeopardizes the lives of everyone on board.
+H is a cold and mysterious character working at a cash truck company responsible for moving hundreds of millions of dollars around Los Angeles each week.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/A_apvQkWsVY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/EFYEni2gsK0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -186,9 +186,9 @@ A three-person crew on a mission to Mars faces an impossible choice when an unpl
 	
 
 ### Trigger Point
-*Released on 2021-04-23, vote average 10*
+*Released on 2021-04-23, vote average 7.5*
 
-Follows Nicolas Shaw, a retired U.S. special operative who becomes part of an elite &#34;invisible&#34; team that quietly takes out the worst villains around the world.
+Nicolas Shaw is a retired U.S. special operative who becomes part of an elite &#39;invisible&#39; team that quietly takes out the worst villains around the world.
 
 <iframe id="player"
 	type="text/html"
@@ -205,28 +205,18 @@ Follows Nicolas Shaw, a retired U.S. special operative who becomes part of an el
 
 
 	
-
-  
-
-
 	
 
-  
+### Bloodthirsty
+*Released on 2021-04-23, vote average 4*
 
-
-	
-	
-
-### The Mitchells vs. The Machines
-*Released on 2021-04-22, vote average 10*
-
-A quirky, dysfunctional family&#39;s road trip is upended when they find themselves in the middle of the robot apocalypse and suddenly become humanity&#39;s unlikeliest last hope.
+When indie singer Grey struggles to write her sophomore album, she teams up with a mysterious producer at his secluded cabin. Though their bond strengthens her music, it also starts to irreparably alter Grey’s body and mind.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/9c52Z5sMuTQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/WVvxIpudj00?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -237,10 +227,15 @@ A quirky, dysfunctional family&#39;s road trip is upended when they find themsel
 
 
 	
+
+  
+
+
+	
 	
 
 ### Monday
-*Released on 2021-04-16, vote average 6.4*
+*Released on 2021-04-16, vote average 6.6*
 
 Two self-destructive Americans, living across Athens and the Greek islands who plunge into a tsunami of a romance.
 
@@ -259,6 +254,23 @@ Two self-destructive Americans, living across Athens and the Greek islands who p
 
 
 	
+	
+
+### Jakob&#39;s Wife
+*Released on 2021-04-16, vote average 6.6*
+
+Anne is married to a small-town Minister and feels her life and marriage have been shrinking over the past 30 years. After a brutal and bloody encounter with &#34;The Master&#34;, she discovers a new sense of power and an appetite to live bigger and bolder than before. However, these changes come with a heavy body count and a toll on her marriage.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xA8ALfbP_hA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -268,6 +280,60 @@ Two self-destructive Americans, living across Athens and the Greek islands who p
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### SAS: Red Notice
+*Released on 2021-04-23, vote average 8.9*
+
+An off-duty SAS soldier, Tom Buckingham, must thwart a terror attack on a train running through the Channel Tunnel. As the action escalates on the train, events transpire in the corridors of power that may make the difference as to whether Buckingham and the civilian passengers make it out of the tunnel alive.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/GWSfMde1Sx8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Searching for Sheela
+*Released on 2021-04-22, vote average 6.5*
+
+Journalists and fans await Ma Anand Sheela as the infamous former Rajneesh commune&#39;s spokesperson returns to India after decades for an interview tour.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/9LGrzIRR6Hc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -295,41 +361,19 @@ When young loner Anna is hired as the surrogate for Matt, a single man in his 40
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Adventures of Rufus: The Fantastic Pet
-*Released on 2021-04-22, vote average 5*
-
-At his grandmother&#39;s house, Scott and his friend Emily meet Rufus, a swashbuckling, furry creature who begs them to help restore his fading kingdom. Wizard Abbott&#39;s spell book contains the magic healing formula - but Abbott&#39;s ancient nemesis Lilith, posing as Grandmother&#39;s servant, wants the book too! To save Rufus&#39; magical world, Scott and Emily must face many exciting challenges...
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/GBK8bTI-xc0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
+
+	
+
+	
+
+	
+
+	
+
+	
 
 	
 
@@ -364,16 +408,6 @@ In the 1930s, a young reverend and his family are forced to confront their worst
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
