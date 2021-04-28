@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Arlo the Alligator Boy
-*Released on 2021-04-16, vote average 7.9*
+### Vanquish
+*Released on 2021-04-16, vote average 6.2*
 
-Upon learning that he is from New York City, a wide-eyed boy, who is half human and half alligator, decides to leave his sheltered life in the swamp and search for his long lost father. A musical adventure.
+Victoria is a young mother trying to put her dark past as a Russian drug courier behind her, but retired cop Damon forces Victoria to do his bidding by holding her daughter hostage. Now, Victoria must use guns, guts and a motorcycle to take out a series of violent gangsters—or she may never see her child again.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/DAGdOI-ORxM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/fUElfp3DJ5Y?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ Upon learning that he is from New York City, a wide-eyed boy, who is half human 
 	
 	
 
-### Ride or Die
-*Released on 2021-04-15, vote average 7*
+### Arlo the Alligator Boy
+*Released on 2021-04-16, vote average 7.6*
 
-Rei helps the woman she&#39;s been in love with for years escape her abusive husband. While on the run, their feelings for each other catch fire.
+Upon learning that he is from New York City, a wide-eyed boy, who is half human and half alligator, decides to leave his sheltered life in the swamp and search for his long lost father. A musical adventure.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/__cP41-hdwk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/DAGdOI-ORxM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,16 +68,16 @@ Rei helps the woman she&#39;s been in love with for years escape her abusive hus
 	
 	
 
-### Vanquish
-*Released on 2021-04-16, vote average 6.2*
+### Ride or Die
+*Released on 2021-04-15, vote average 6.9*
 
-Victoria is a young mother trying to put her dark past as a Russian drug courier behind her, but retired cop Damon forces Victoria to do his bidding by holding her daughter hostage. Now, Victoria must use guns, guts and a motorcycle to take out a series of violent gangsters—or she may never see her child again.
+Rei helps the woman she&#39;s been in love with for years escape her abusive husband. While on the run, their feelings for each other catch fire.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/fUElfp3DJ5Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/__cP41-hdwk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -111,16 +111,9 @@ Bernardo is an undertaker. He runs his mortuary business in the same house where
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Stowaway
-*Released on 2021-04-22, vote average 6.3*
+*Released on 2021-04-22, vote average 6.2*
 
 A three-person crew on a mission to Mars faces an impossible choice when an unplanned passenger jeopardizes the lives of everyone on board.
 
@@ -132,6 +125,42 @@ A three-person crew on a mission to Mars faces an impossible choice when an unpl
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Searching for Sheela
+*Released on 2021-04-22, vote average 6.8*
+
+Journalists and fans await Ma Anand Sheela as the infamous former Rajneesh commune&#39;s spokesperson returns to India after decades for an interview tour.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/9LGrzIRR6Hc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -164,7 +193,7 @@ The line between justice and revenge blurs when a devastated family uses social 
 	
 
 ### Wrath of Man
-*Released on 2021-04-22, vote average 9*
+*Released on 2021-04-22, vote average 8.9*
 
 H is a cold and mysterious character working at a cash truck company responsible for moving hundreds of millions of dollars around Los Angeles each week.
 
@@ -186,7 +215,7 @@ H is a cold and mysterious character working at a cash truck company responsible
 	
 
 ### Trigger Point
-*Released on 2021-04-23, vote average 7.5*
+*Released on 2021-04-23, vote average 8.3*
 
 Nicolas Shaw is a retired U.S. special operative who becomes part of an elite &#39;invisible&#39; team that quietly takes out the worst villains around the world.
 
@@ -205,18 +234,23 @@ Nicolas Shaw is a retired U.S. special operative who becomes part of an elite &#
 
 
 	
+
+  
+
+
+	
 	
 
-### Searching for Sheela
-*Released on 2021-04-22, vote average 6.3*
+### Monday
+*Released on 2021-04-16, vote average 7.5*
 
-Journalists and fans await Ma Anand Sheela as the infamous former Rajneesh commune&#39;s spokesperson returns to India after decades for an interview tour.
+Two self-destructive Americans, living across Athens and the Greek islands who plunge into a tsunami of a romance.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/9LGrzIRR6Hc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/jVBIelh22z8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -227,6 +261,48 @@ Journalists and fans await Ma Anand Sheela as the infamous former Rajneesh commu
 
 
 	
+
+  
+
+
+	
+	
+
+### Forget Everything and Run
+*Released on 2021-04-26, vote average 5.3*
+
+When a terrifying infection is released, one family will fight to save their children against a band of marauders, hellbent on revenge in the midst of a deadly apocalypse.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/YpVwLkfpeow?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Jakob&#39;s Wife
+*Released on 2021-04-16, vote average 6.8*
+
+Anne is married to a small-town Minister and feels her life and marriage have been shrinking over the past 30 years. After a brutal and bloody encounter with &#34;The Master&#34;, she discovers a new sense of power and an appetite to live bigger and bolder than before. However, these changes come with a heavy body count and a toll on her marriage.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xA8ALfbP_hA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -268,28 +344,6 @@ When indie singer Grey struggles to write her sophomore album, she teams up with
 	
 	
 
-### Monday
-*Released on 2021-04-16, vote average 7.3*
-
-Two self-destructive Americans, living across Athens and the Greek islands who plunge into a tsunami of a romance.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jVBIelh22z8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### SAS: Red Notice
 *Released on 2021-04-23, vote average 8.6*
 
@@ -309,63 +363,49 @@ An off-duty SAS soldier, Tom Buckingham, must thwart a terror attack on a train 
   
 
 
-	
-
-  
-
-
-	
-	
-
-### We Broke Up
-*Released on 2021-04-23, vote average 5*
-
-Lori and Doug break up right before Lori&#39;s sister&#39;s wedding and decide to pretend they&#39;re still together for the weekend as to not disrupt the fun.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/CjDCsNrdw9w?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Jakob&#39;s Wife
-*Released on 2021-04-16, vote average 6.9*
-
-Anne is married to a small-town Minister and feels her life and marriage have been shrinking over the past 30 years. After a brutal and bloody encounter with &#34;The Master&#34;, she discovers a new sense of power and an appetite to live bigger and bolder than before. However, these changes come with a heavy body count and a toll on her marriage.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xA8ALfbP_hA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 
 ## Opening soon
 
+
+	
+
+	
+	
+
+### Tom Clancy&#39;s Without Remorse
+*Released on 2021-04-30, vote average 10*
+
+An elite Navy SEAL uncovers an international conspiracy while seeking justice for the murder of his pregnant wife.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/e-rw2cxFVLg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### The Virtuoso
+*Released on 2021-04-30, vote average 6.8*
+
+A lonesome stranger with nerves of steel must track down and kill a rogue hitman to satisfy an outstanding debt. But the only information he&#39;s been given is a time and location where to find his quarry. No name. No description. Nothing.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LWA2r7X7z6Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
@@ -388,35 +428,6 @@ As a deadly virus ravages the world, Dr. Martin Lowery embarks on a mission to r
   allowfullscreen></iframe>
 
 	
-	
-
-	
-	
-
-### The Virtuoso
-*Released on 2021-04-30, vote average 5.5*
-
-A lonesome stranger with nerves of steel must track down and kill a rogue hitman to satisfy an outstanding debt. But the only information he&#39;s been given is a time and location where to find his quarry. No name. No description. Nothing.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LWA2r7X7z6Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
@@ -449,14 +460,6 @@ In the 1930s, a young reverend and his family are forced to confront their worst
 	
 
 	
-
-	
-
-	
-
-	
-
-	
 	
 
 ### The Devil Has a Name
@@ -473,6 +476,54 @@ An oil baron and a farmer standoff after the water on his farm is poisoned by he
   allowfullscreen></iframe>
 
 	
+	
+
+	
+	
+
+### The Academy of Magic
+*Released on 2021-04-29, vote average 10*
+
+Aura is gifted with magical abilities; she and her friends have many exciting adventures at the academy, but soon Aura learns that the school hatches many dark secrets that she must uncover. Will she be able to unveil the truth?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/GCOT__YH7IQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### The Resort
+*Released on 2021-04-30, vote average 2*
+
+Four friends head to Hawaii to investigate reports of a haunting at an abandoned resort in hopes of finding the infamous Half-Faced Girl. When they arrive, they soon learn you should be careful what you wish for.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5bQotiZhSaQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 
