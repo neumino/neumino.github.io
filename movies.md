@@ -47,7 +47,7 @@ A three-person crew on a mission to Mars faces an impossible choice when an unpl
 	
 
 ### Tom Clancy&#39;s Without Remorse
-*Released on 2021-04-29, vote average 7.3*
+*Released on 2021-04-29, vote average 7.2*
 
 An elite Navy SEAL uncovers an international conspiracy while seeking justice for the murder of his pregnant wife.
 
@@ -89,16 +89,9 @@ While speeding off to help in an impromptu battle, The Flash blazes and rips thr
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### The Virtuoso
-*Released on 2021-04-30, vote average 6.7*
+*Released on 2021-04-30, vote average 7.1*
 
 A lonesome stranger with nerves of steel must track down and kill a rogue hitman to satisfy an outstanding debt. But the only information he&#39;s been given is a time and location where to find his quarry. No name. No description. Nothing.
 
@@ -110,6 +103,13 @@ A lonesome stranger with nerves of steel must track down and kill a rogue hitman
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -139,6 +139,11 @@ Catherine Clare reluctantly trades life in 1980 Manhattan for a remote home in t
 
 
 	
+
+  
+
+
+	
 	
 
 ### Wrath of Man
@@ -161,15 +166,10 @@ H is a cold and mysterious character working at a cash truck company responsible
 
 
 	
-
-  
-
-
-	
 	
 
 ### 22 vs. Earth
-*Released on 2021-04-30, vote average 6.9*
+*Released on 2021-04-30, vote average 7*
 
 Set before the events of ‘Soul’, 22 refuses to go to Earth, enlisting a gang of 5 new souls in attempt of rebellion. However, 22’s subversive plot leads to a surprising revelation about the meaning of life.
 
@@ -178,6 +178,28 @@ Set before the events of ‘Soul’, 22 refuses to go to Earth, enlisting a gang
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/VJUnC2j9rgo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Mitchells vs. The Machines
+*Released on 2021-04-22, vote average 8*
+
+A quirky, dysfunctional family&#39;s road trip is upended when they find themselves in the middle of the robot apocalypse and suddenly become humanity&#39;s unlikeliest last hope.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/9c52Z5sMuTQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -212,28 +234,6 @@ Journalists and fans await Ma Anand Sheela as the infamous former Rajneesh commu
 	
 	
 
-### The Mitchells vs. The Machines
-*Released on 2021-04-22, vote average 8.1*
-
-A quirky, dysfunctional family&#39;s road trip is upended when they find themselves in the middle of the robot apocalypse and suddenly become humanity&#39;s unlikeliest last hope.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/9c52Z5sMuTQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Percy
 *Released on 2021-04-30, vote average 6*
 
@@ -248,38 +248,6 @@ When a massive biotech company sues a farmer because of their genetically modifi
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### Get the Grift
-*Released on 2021-04-28, vote average 7.6*
-
-After a botched scam, Clóvis bumps into Lohane, his estranged foster sister. In a bind, they soon realize the only way out is to band together.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/UX1ZcAwGq0o?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -313,6 +281,38 @@ An off-duty SAS soldier, Tom Buckingham, must thwart a terror attack on a train 
 
 
 	
+	
+
+### Get the Grift
+*Released on 2021-04-28, vote average 7.5*
+
+After a botched scam, Clóvis bumps into Lohane, his estranged foster sister. In a bind, they soon realize the only way out is to band together.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/UX1ZcAwGq0o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 
   
 
@@ -321,7 +321,7 @@ An off-duty SAS soldier, Tom Buckingham, must thwart a terror attack on a train 
 	
 
 ### Trigger Point
-*Released on 2021-04-23, vote average 6.3*
+*Released on 2021-04-23, vote average 6*
 
 Nicolas Shaw is a retired U.S. special operative who becomes part of an elite &#39;invisible&#39; team that quietly takes out the worst villains around the world.
 
@@ -348,6 +348,23 @@ Nicolas Shaw is a retired U.S. special operative who becomes part of an elite &#
 ## Opening soon
 
 
+	
+	
+
+### Benny Loves You
+*Released on 2021-05-07, vote average 6.5*
+
+Jack, a man desperate to improve his life throws away his beloved childhood plush, Benny. It’s a move that has disastrous consequences when Benny springs to life with deadly intentions!
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/tL1fCW2BqLY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -386,6 +403,10 @@ A teenage murder witness finds himself pursued by twin assassins in the Montana 
 	
 
 	
+
+	
+
+	
 	
 
 ### The Paper Tigers
@@ -402,10 +423,6 @@ Three Kung Fu prodigies have grown into washed-up, middle-aged men, now one kick
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
 	
 
 	
