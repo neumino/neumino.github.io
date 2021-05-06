@@ -46,6 +46,28 @@ An elite Navy SEAL uncovers an international conspiracy while seeking justice fo
 	
 	
 
+### Justice Society: World War II
+*Released on 2021-04-27, vote average 8.3*
+
+While speeding off to help in an impromptu battle, The Flash blazes and rips through time, only to find himself dropped into the middle of World War II. It’s here that The Flash meets Wonder Woman and her top secret team, known as the Justice Society of America. Amidst the raging tides of war, gripping combat and the velocity of valor, The Flash must fight to return to his own timeline.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/s4xXbGFhEFg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Stowaway
 *Released on 2021-04-22, vote average 6.2*
 
@@ -68,16 +90,16 @@ A three-person crew on a mission to Mars faces an impossible choice when an unpl
 	
 	
 
-### Justice Society: World War II
-*Released on 2021-04-27, vote average 8.4*
+### The Mitchells vs. The Machines
+*Released on 2021-04-22, vote average 8.1*
 
-While speeding off to help in an impromptu battle, The Flash blazes and rips through time, only to find himself dropped into the middle of World War II. It’s here that The Flash meets Wonder Woman and her top secret team, known as the Justice Society of America. Amidst the raging tides of war, gripping combat and the velocity of valor, The Flash must fight to return to his own timeline.
+A quirky, dysfunctional family&#39;s road trip is upended when they find themselves in the middle of the robot apocalypse and suddenly become humanity&#39;s unlikeliest last hope.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/s4xXbGFhEFg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/9c52Z5sMuTQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -141,28 +163,6 @@ Catherine Clare reluctantly trades life in 1980 Manhattan for a remote home in t
 	
 	
 
-### The Mitchells vs. The Machines
-*Released on 2021-04-22, vote average 8*
-
-A quirky, dysfunctional family&#39;s road trip is upended when they find themselves in the middle of the robot apocalypse and suddenly become humanity&#39;s unlikeliest last hope.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/9c52Z5sMuTQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Wrath of Man
 *Released on 2021-04-22, vote average 7.6*
 
@@ -183,6 +183,23 @@ H is a cold and mysterious character working at a cash truck company responsible
 
 
 	
+	
+
+### Those Who Wish Me Dead
+*Released on 2021-05-05, vote average 6*
+
+A teenage murder witness finds himself pursued by twin assassins in the Montana wilderness with a survival expert tasked with protecting him - and a forest fire threatening to consume them all.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/sV6VNNjBkcE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -191,7 +208,7 @@ H is a cold and mysterious character working at a cash truck company responsible
 	
 
 ### 22 vs. Earth
-*Released on 2021-04-30, vote average 7*
+*Released on 2021-04-30, vote average 7.1*
 
 Set before the events of ‘Soul’, 22 refuses to go to Earth, enlisting a gang of 5 new souls in attempt of rebellion. However, 22’s subversive plot leads to a surprising revelation about the meaning of life.
 
@@ -200,6 +217,33 @@ Set before the events of ‘Soul’, 22 refuses to go to Earth, enlisting a gang
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/VJUnC2j9rgo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Searching for Sheela
+*Released on 2021-04-22, vote average 6.7*
+
+Journalists and fans await Ma Anand Sheela as the infamous former Rajneesh commune&#39;s spokesperson returns to India after decades for an interview tour.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/9LGrzIRR6Hc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -234,38 +278,16 @@ When a massive biotech company sues a farmer because of their genetically modifi
 	
 	
 
-### Searching for Sheela
-*Released on 2021-04-22, vote average 6.7*
+### SAS: Red Notice
+*Released on 2021-04-23, vote average 7.2*
 
-Journalists and fans await Ma Anand Sheela as the infamous former Rajneesh commune&#39;s spokesperson returns to India after decades for an interview tour.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/9LGrzIRR6Hc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Those Who Wish Me Dead
-*Released on 2021-05-05, vote average 6*
-
-A teenage murder witness finds himself pursued by twin assassins in the Montana wilderness with a survival expert tasked with protecting him - and a forest fire threatening to consume them all.
+An off-duty SAS soldier, Tom Buckingham, must thwart a terror attack on a train running through the Channel Tunnel. As the action escalates on the train, events transpire in the corridors of power that may make the difference as to whether Buckingham and the civilian passengers make it out of the tunnel alive.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/sV6VNNjBkcE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/GWSfMde1Sx8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -300,28 +322,6 @@ With the streets now empty, it isn’t just nature that is taking advantage of t
 	
 	
 
-### SAS: Red Notice
-*Released on 2021-04-23, vote average 7.2*
-
-An off-duty SAS soldier, Tom Buckingham, must thwart a terror attack on a train running through the Channel Tunnel. As the action escalates on the train, events transpire in the corridors of power that may make the difference as to whether Buckingham and the civilian passengers make it out of the tunnel alive.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/GWSfMde1Sx8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Separation
 *Released on 2021-04-30, vote average 5.8*
 
@@ -342,8 +342,6 @@ A young girl finds solace in her artist father and the ghost of her dead mother.
 
 
 	
-	
-	
 
   
 
@@ -358,23 +356,6 @@ A young girl finds solace in her artist father and the ghost of her dead mother.
   
 
 
-	
-	
-
-### Trigger Point
-*Released on 2021-04-23, vote average 6*
-
-Nicolas Shaw is a retired U.S. special operative who becomes part of an elite &#39;invisible&#39; team that quietly takes out the worst villains around the world.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/AiRRoArpkqU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -404,30 +385,26 @@ Jack, a man desperate to improve his life throws away his beloved childhood plus
 	
 
 	
+
 	
 
-### Those Who Wish Me Dead
-*Released on 2021-05-05, vote average 6*
+	
+	
 
-A teenage murder witness finds himself pursued by twin assassins in the Montana wilderness with a survival expert tasked with protecting him - and a forest fire threatening to consume them all.
+### Great White
+*Released on 2021-05-07, vote average 2*
+
+What should have been a tourist trip to remember, quickly turns into a living nightmare when five passengers on a seaplane become stranded, miles away from shore. What follows is a desperate bid for survival as the group try to make it to land before they either run out of supplies or are taken by the man-eating sharks lurking just beneath the surface.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/sV6VNNjBkcE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/_yNmismaJkY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
 	
 
 	
@@ -464,6 +441,31 @@ Veteran comedy writer Charlie Berns, who is slowly but surely losing his grip on
 	
 
 	
+	
+
+### Locked In
+*Released on 2021-05-07, vote average 7*
+
+A single mother must protect her daughter and herself during a heist gone wrong at a high-tech storage facility.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6bjhfN6TJ_U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+
+	
 
 	
 	
@@ -482,10 +484,6 @@ Three Kung Fu prodigies have grown into washed-up, middle-aged men, now one kick
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
 	
 
 	
