@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Justice Society: World War II
-*Released on 2021-04-27, vote average 8.3*
+### Tom Clancy&#39;s Without Remorse
+*Released on 2021-04-29, vote average 7.2*
 
-While speeding off to help in an impromptu battle, The Flash blazes and rips through time, only to find himself dropped into the middle of World War II. It’s here that The Flash meets Wonder Woman and her top secret team, known as the Justice Society of America. Amidst the raging tides of war, gripping combat and the velocity of valor, The Flash must fight to return to his own timeline.
+An elite Navy SEAL uncovers an international conspiracy while seeking justice for the murder of his pregnant wife.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/s4xXbGFhEFg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/e-rw2cxFVLg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ While speeding off to help in an impromptu battle, The Flash blazes and rips thr
 	
 	
 
-### Tom Clancy&#39;s Without Remorse
-*Released on 2021-04-29, vote average 7.3*
+### Justice Society: World War II
+*Released on 2021-04-27, vote average 8.3*
 
-An elite Navy SEAL uncovers an international conspiracy while seeking justice for the murder of his pregnant wife.
+While speeding off to help in an impromptu battle, The Flash blazes and rips through time, only to find himself dropped into the middle of World War II. It’s here that The Flash meets Wonder Woman and her top secret team, known as the Justice Society of America. Amidst the raging tides of war, gripping combat and the velocity of valor, The Flash must fight to return to his own timeline.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/e-rw2cxFVLg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/s4xXbGFhEFg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -91,7 +91,7 @@ Jack, a man desperate to improve his life throws away his beloved childhood plus
 	
 
 ### Things Heard &amp; Seen
-*Released on 2021-04-29, vote average 5.9*
+*Released on 2021-04-29, vote average 6*
 
 Catherine Clare reluctantly trades life in 1980 Manhattan for a remote home in the tiny hamlet of Chosen, New York, after her husband George lands a job teaching art history at a small Hudson Valley college. Even as she does her best to transform the old dairy farm into a place where young daughter Franny will be happy, Catherine increasingly finds herself isolated and alone. She soon comes to sense a sinister darkness lurking both in the walls of the ramshackle property—and in her marriage to George.
 
@@ -113,7 +113,7 @@ Catherine Clare reluctantly trades life in 1980 Manhattan for a remote home in t
 	
 
 ### The Virtuoso
-*Released on 2021-04-30, vote average 6.9*
+*Released on 2021-04-30, vote average 6.8*
 
 A lonesome stranger with nerves of steel must track down and kill a rogue hitman to satisfy an outstanding debt. But the only information he&#39;s been given is a time and location where to find his quarry. No name. No description. Nothing.
 
@@ -133,18 +133,6 @@ A lonesome stranger with nerves of steel must track down and kill a rogue hitman
 
 	
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 
 ### Those Who Wish Me Dead
 *Released on 2021-05-05, vote average 8*
@@ -156,38 +144,6 @@ A teenage murder witness finds himself pursued by twin assassins in the Montana 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/sV6VNNjBkcE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### SAS: Red Notice
-*Released on 2021-04-23, vote average 7.4*
-
-An off-duty SAS soldier, Tom Buckingham, must thwart a terror attack on a train running through the Channel Tunnel. As the action escalates on the train, events transpire in the corridors of power that may make the difference as to whether Buckingham and the civilian passengers make it out of the tunnel alive.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/GWSfMde1Sx8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -220,6 +176,11 @@ Set before the events of ‘Soul’, 22 refuses to go to Earth, enlisting a gang
 
 
 	
+
+  
+
+
+	
 	
 
 ### Great White
@@ -236,6 +197,102 @@ What should have been a tourist trip to remember, quickly turns into a living ni
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Here Today
+*Released on 2021-05-07, vote average 8*
+
+Veteran comedy writer Charlie Berns, who is slowly but surely losing his grip on reality, befriends a talented young New York street singer Emma Payge. Together, they form an unlikely yet hilarious and touching friendship that kicks the generation gap aside and redefines the meaning of love and trust.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/U3v8n_8-QqA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Locked In
+*Released on 2021-05-07, vote average 7*
+
+A single mother must protect her daughter and herself during a heist gone wrong at a high-tech storage facility.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6bjhfN6TJ_U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Paper Tigers
+*Released on 2021-05-07, vote average 7.5*
+
+Three Kung Fu prodigies have grown into washed-up, middle-aged men, now one kick away from pulling their hamstrings. But when their master is murdered, they must juggle their dead-end jobs, dad duties, and old grudges to avenge his death.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qMt344EjiWk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -264,82 +321,6 @@ A young girl finds solace in her artist father and the ghost of her dead mother.
 
 
 	
-	
-
-### Percy
-*Released on 2021-04-30, vote average 6.3*
-
-When a massive biotech company sues a farmer because of their genetically modified seeds have blown into his field, a fight is on between big business and the little guy.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/BwgnXZ98AfI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Trigger Point
-*Released on 2021-04-23, vote average 5.5*
-
-Nicolas Shaw is a retired U.S. special operative who becomes part of an elite &#39;invisible&#39; team that quietly takes out the worst villains around the world.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/AiRRoArpkqU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Here Today
-*Released on 2021-05-07, vote average 8*
-
-Veteran comedy writer Charlie Berns, who is slowly but surely losing his grip on reality, befriends a talented young New York street singer Emma Payge. Together, they form an unlikely yet hilarious and touching friendship that kicks the generation gap aside and redefines the meaning of love and trust.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/U3v8n_8-QqA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 
   
 
@@ -349,64 +330,13 @@ Veteran comedy writer Charlie Berns, who is slowly but surely losing his grip on
 
 
 	
-	
-
-### Benny Loves You
-*Released on 2021-05-07, vote average 7*
-
-Jack, a man desperate to improve his life throws away his beloved childhood plush, Benny. It’s a move that has disastrous consequences when Benny springs to life with deadly intentions!
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tL1fCW2BqLY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
 	
 
 	
-	
 
-### Great White
-*Released on 2021-05-07, vote average 2*
-
-What should have been a tourist trip to remember, quickly turns into a living nightmare when five passengers on a seaplane become stranded, miles away from shore. What follows is a desperate bid for survival as the group try to make it to land before they either run out of supplies or are taken by the man-eating sharks lurking just beneath the surface.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/_yNmismaJkY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Here Today
-*Released on 2021-05-07, vote average 8*
-
-Veteran comedy writer Charlie Berns, who is slowly but surely losing his grip on reality, befriends a talented young New York street singer Emma Payge. Together, they form an unlikely yet hilarious and touching friendship that kicks the generation gap aside and redefines the meaning of love and trust.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/U3v8n_8-QqA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
@@ -418,41 +348,7 @@ Veteran comedy writer Charlie Berns, who is slowly but surely losing his grip on
 	
 
 	
-	
 
-### Locked In
-*Released on 2021-05-07, vote average 7*
-
-A single mother must protect her daughter and herself during a heist gone wrong at a high-tech storage facility.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/6bjhfN6TJ_U?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### The Paper Tigers
-*Released on 2021-05-07, vote average 7.5*
-
-Three Kung Fu prodigies have grown into washed-up, middle-aged men, now one kick away from pulling their hamstrings. But when their master is murdered, they must juggle their dead-end jobs, dad duties, and old grudges to avenge his death.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qMt344EjiWk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
