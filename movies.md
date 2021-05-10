@@ -113,7 +113,7 @@ Set before the events of ‘Soul’, 22 refuses to go to Earth, enlisting a gang
 	
 
 ### Things Heard &amp; Seen
-*Released on 2021-04-29, vote average 6*
+*Released on 2021-04-29, vote average 5.9*
 
 Catherine Clare reluctantly trades life in 1980 Manhattan for a remote home in the tiny hamlet of Chosen, New York, after her husband George lands a job teaching art history at a small Hudson Valley college. Even as she does her best to transform the old dairy farm into a place where young daughter Franny will be happy, Catherine increasingly finds herself isolated and alone. She soon comes to sense a sinister darkness lurking both in the walls of the ramshackle property—and in her marriage to George.
 
@@ -135,7 +135,7 @@ Catherine Clare reluctantly trades life in 1980 Manhattan for a remote home in t
 	
 
 ### The Virtuoso
-*Released on 2021-04-30, vote average 6.9*
+*Released on 2021-04-30, vote average 6.8*
 
 A lonesome stranger with nerves of steel must track down and kill a rogue hitman to satisfy an outstanding debt. But the only information he&#39;s been given is a time and location where to find his quarry. No name. No description. Nothing.
 
@@ -157,7 +157,7 @@ A lonesome stranger with nerves of steel must track down and kill a rogue hitman
 	
 
 ### Those Who Wish Me Dead
-*Released on 2021-05-05, vote average 8*
+*Released on 2021-05-05, vote average 7.3*
 
 A teenage murder witness finds himself pursued by twin assassins in the Montana wilderness with a survival expert tasked with protecting him - and a forest fire threatening to consume them all.
 
@@ -166,65 +166,6 @@ A teenage murder witness finds himself pursued by twin assassins in the Montana 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/sV6VNNjBkcE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Great White
-*Released on 2021-05-07, vote average 4*
-
-What should have been a tourist trip to remember, quickly turns into a living nightmare when five passengers on a seaplane become stranded, miles away from shore. What follows is a desperate bid for survival as the group try to make it to land before they either run out of supplies or are taken by the man-eating sharks lurking just beneath the surface.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/_yNmismaJkY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Locked In
-*Released on 2021-05-07, vote average 6*
-
-A single mother must protect her daughter and herself during a heist gone wrong at a high-tech storage facility.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/6bjhfN6TJ_U?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -264,16 +205,65 @@ Three Kung Fu prodigies have grown into washed-up, middle-aged men, now one kick
 	
 	
 
-### Here Today
-*Released on 2021-05-07, vote average 8*
+### Locked In
+*Released on 2021-05-07, vote average 6.3*
 
-Veteran comedy writer Charlie Berns, who is slowly but surely losing his grip on reality, befriends a talented young New York street singer Emma Payge. Together, they form an unlikely yet hilarious and touching friendship that kicks the generation gap aside and redefines the meaning of love and trust.
+A single mother must protect her daughter and herself during a heist gone wrong at a high-tech storage facility.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/U3v8n_8-QqA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/6bjhfN6TJ_U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Great White
+*Released on 2021-05-07, vote average 5.3*
+
+What should have been a tourist trip to remember, quickly turns into a living nightmare when five passengers on a seaplane become stranded, miles away from shore. What follows is a desperate bid for survival as the group try to make it to land before they either run out of supplies or are taken by the man-eating sharks lurking just beneath the surface.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_yNmismaJkY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Get the Grift
+*Released on 2021-04-28, vote average 7.2*
+
+After a botched scam, Clóvis bumps into Lohane, his estranged foster sister. In a bind, they soon realize the only way out is to band together.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/UX1ZcAwGq0o?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -293,6 +283,28 @@ Veteran comedy writer Charlie Berns, who is slowly but surely losing his grip on
   
 
 
+	
+
+  
+
+
+	
+	
+
+### Here Today
+*Released on 2021-05-07, vote average 7.3*
+
+Veteran comedy writer Charlie Berns, who is slowly but surely losing his grip on reality, befriends a talented young New York street singer Emma Payge. Together, they form an unlikely yet hilarious and touching friendship that kicks the generation gap aside and redefines the meaning of love and trust.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/U3v8n_8-QqA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -325,10 +337,32 @@ A young girl finds solace in her artist father and the ghost of her dead mother.
   
 
 
+	
+
+  
+
+
 
 ## Opening soon
 
 
+	
+	
+
+### Spiral: From the Book of Saw
+*Released on 2021-05-12, vote average 10*
+
+Working in the shadow of an esteemed police veteran, brash Detective Ezekiel “Zeke” Banks and his rookie partner take charge of a grisly investigation into murders that are eerily reminiscent of the city’s gruesome past.  Unwittingly entrapped in a deepening mystery, Zeke finds himself at the center of the killer’s morbid game.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/rgNlWypWmtw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
