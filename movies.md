@@ -47,7 +47,7 @@ An elite Navy SEAL uncovers an international conspiracy while seeking justice fo
 	
 
 ### Benny Loves You
-*Released on 2021-05-07, vote average 7.2*
+*Released on 2021-05-07, vote average 7.1*
 
 Jack, a man desperate to improve his life throws away his beloved childhood plush, Benny. It’s a move that has disastrous consequences when Benny springs to life with deadly intentions!
 
@@ -56,28 +56,6 @@ Jack, a man desperate to improve his life throws away his beloved childhood plus
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/tL1fCW2BqLY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Justice Society: World War II
-*Released on 2021-04-27, vote average 8.1*
-
-While speeding off to help in an impromptu battle, The Flash blazes and rips through time, only to find himself dropped into the middle of World War II. It’s here that The Flash meets Wonder Woman and her top secret team, known as the Justice Society of America. Amidst the raging tides of war, gripping combat and the velocity of valor, The Flash must fight to return to his own timeline.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/s4xXbGFhEFg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,16 +90,16 @@ Set before the events of ‘Soul’, 22 refuses to go to Earth, enlisting a gang
 	
 	
 
-### Things Heard &amp; Seen
-*Released on 2021-04-29, vote average 5.9*
+### Get the Grift
+*Released on 2021-04-28, vote average 7*
 
-Catherine Clare reluctantly trades life in 1980 Manhattan for a remote home in the tiny hamlet of Chosen, New York, after her husband George lands a job teaching art history at a small Hudson Valley college. Even as she does her best to transform the old dairy farm into a place where young daughter Franny will be happy, Catherine increasingly finds herself isolated and alone. She soon comes to sense a sinister darkness lurking both in the walls of the ramshackle property—and in her marriage to George.
+After a botched scam, Clóvis bumps into Lohane, his estranged foster sister. In a bind, they soon realize the only way out is to band together.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/HCAaonjgDEA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/UX1ZcAwGq0o?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -132,15 +110,10 @@ Catherine Clare reluctantly trades life in 1980 Manhattan for a remote home in t
 
 
 	
-
-  
-
-
-	
 	
 
 ### Those Who Wish Me Dead
-*Released on 2021-05-05, vote average 7.3*
+*Released on 2021-05-05, vote average 7*
 
 A teenage murder witness finds himself pursued by twin assassins in the Montana wilderness with a survival expert tasked with protecting him - and a forest fire threatening to consume them all.
 
@@ -161,8 +134,52 @@ A teenage murder witness finds himself pursued by twin assassins in the Montana 
 	
 	
 
+### Spiral: From the Book of Saw
+*Released on 2021-05-12, vote average 10*
+
+Working in the shadow of an esteemed police veteran, brash Detective Ezekiel “Zeke” Banks and his rookie partner take charge of a grisly investigation into murders that are eerily reminiscent of the city’s gruesome past.  Unwittingly entrapped in a deepening mystery, Zeke finds himself at the center of the killer’s morbid game.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/rgNlWypWmtw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Things Heard &amp; Seen
+*Released on 2021-04-29, vote average 5.9*
+
+Catherine Clare reluctantly trades life in 1980 Manhattan for a remote home in the tiny hamlet of Chosen, New York, after her husband George lands a job teaching art history at a small Hudson Valley college. Even as she does her best to transform the old dairy farm into a place where young daughter Franny will be happy, Catherine increasingly finds herself isolated and alone. She soon comes to sense a sinister darkness lurking both in the walls of the ramshackle property—and in her marriage to George.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/HCAaonjgDEA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Virtuoso
-*Released on 2021-04-30, vote average 6.8*
+*Released on 2021-04-30, vote average 6.6*
 
 A lonesome stranger with nerves of steel must track down and kill a rogue hitman to satisfy an outstanding debt. But the only information he&#39;s been given is a time and location where to find his quarry. No name. No description. Nothing.
 
@@ -180,23 +197,6 @@ A lonesome stranger with nerves of steel must track down and kill a rogue hitman
   
 
 
-	
-	
-
-### Get the Grift
-*Released on 2021-04-28, vote average 7.2*
-
-After a botched scam, Clóvis bumps into Lohane, his estranged foster sister. In a bind, they soon realize the only way out is to band together.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/UX1ZcAwGq0o?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -249,6 +249,55 @@ A single mother must protect her daughter and herself during a heist gone wrong 
 	
 	
 
+### Here Today
+*Released on 2021-05-07, vote average 7.3*
+
+Veteran comedy writer Charlie Berns, who is slowly but surely losing his grip on reality, befriends a talented young New York street singer Emma Payge. Together, they form an unlikely yet hilarious and touching friendship that kicks the generation gap aside and redefines the meaning of love and trust.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/U3v8n_8-QqA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Dynasty Warriors : Destiny of an Emperor
+*Released on 2021-04-29, vote average 6.3*
+
+Dynasty Warriors is an upcoming Hong Kong fantasy-action film based on the Japanese video game franchise of the same title.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/VnVkOpdKTHI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Great White
 *Released on 2021-05-07, vote average 6.5*
 
@@ -268,6 +317,23 @@ What should have been a tourist trip to remember, quickly turns into a living ni
   
 
 
+	
+	
+
+### In the Earth
+*Released on 2021-04-30, vote average 5.6*
+
+As a deadly virus ravages the world, Dr. Martin Lowery embarks on a mission to reach test site ATU327A, a research hub deep in the Arboreal Forest. The arduous journey, guided by park scout Alma, is set back by a nighttime attack that leaves the two bruised and shoeless. When they run into Zach, a man living off the grid, they gratefully accept his help. Zach’s intentions aren’t exactly what they seem, however, and a path out of the forest and into safety quickly fades as the line between myth and science blurs.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3Lqkfo7IymU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -306,57 +372,6 @@ A young girl finds solace in her artist father and the ghost of her dead mother.
 
 
 	
-	
-
-### Here Today
-*Released on 2021-05-07, vote average 7.3*
-
-Veteran comedy writer Charlie Berns, who is slowly but surely losing his grip on reality, befriends a talented young New York street singer Emma Payge. Together, they form an unlikely yet hilarious and touching friendship that kicks the generation gap aside and redefines the meaning of love and trust.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/U3v8n_8-QqA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Baelin&#39;s Route: An Epic NPC Man Adventure
-*Released on 2021-05-09, vote average 9*
-
-An NPC set in the video-game &#39;Skycraft&#39; finds himself escorting a young NPC girl to safety through the harsh fantasy world of Azerim.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/TQAfCzf-mSE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -364,6 +379,8 @@ An NPC set in the video-game &#39;Skycraft&#39; finds himself escorting a young 
 
 ## Opening soon
 
+
+	
 
 	
 	
@@ -412,46 +429,44 @@ Working in the shadow of an esteemed police veteran, brash Detective Ezekiel “
 	
 
 	
-
 	
 
-	
+### Undergods
+*Released on 2021-05-17, vote average 5.5*
 
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	
-
-### Georgetown
-*Released on 2021-05-14, vote average 5.5*
-
-Ulrich Mott  is an eccentric and versatile social climber with grandiose plans to affect United States foreign policy. Encouraged  in his attempts by his strategically chosen (and much older) wife, the well-connected journalist Elsa Brecht, Mott has a knack for making himself indispensable and impossible to ignore. The only one seemingly immune to his charms is Elsa&#39;s daughter Amanda, who might simply disapprove of her mother marrying a much younger man - or perhaps she senses something more sinister beneath the smooth-talking surface?
+An otherworldly journey through a Europe in decline - a collection of darkly humorous, fantasy tales about ill-fated characters and doomed fortune.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-ch3BdXOgyc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/_2NQjAHZyc0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
