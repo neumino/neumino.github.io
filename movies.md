@@ -90,16 +90,38 @@ Set before the events of ‘Soul’, 22 refuses to go to Earth, enlisting a gang
 	
 	
 
-### Get the Grift
-*Released on 2021-04-28, vote average 7*
+### Spiral: From the Book of Saw
+*Released on 2021-05-12, vote average 10*
 
-After a botched scam, Clóvis bumps into Lohane, his estranged foster sister. In a bind, they soon realize the only way out is to band together.
+Working in the shadow of an esteemed police veteran, brash Detective Ezekiel “Zeke” Banks and his rookie partner take charge of a grisly investigation into murders that are eerily reminiscent of the city’s gruesome past.  Unwittingly entrapped in a deepening mystery, Zeke finds himself at the center of the killer’s morbid game.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/UX1ZcAwGq0o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/rgNlWypWmtw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Army of the Dead
+*Released on 2021-05-13, vote average 9.3*
+
+Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble: venturing into the quarantine zone to pull off the greatest heist ever attempted.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/H83kjG5RCT8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -113,7 +135,7 @@ After a botched scam, Clóvis bumps into Lohane, his estranged foster sister. In
 	
 
 ### Those Who Wish Me Dead
-*Released on 2021-05-05, vote average 7*
+*Released on 2021-05-05, vote average 6.5*
 
 A teenage murder witness finds himself pursued by twin assassins in the Montana wilderness with a survival expert tasked with protecting him - and a forest fire threatening to consume them all.
 
@@ -122,28 +144,6 @@ A teenage murder witness finds himself pursued by twin assassins in the Montana 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/sV6VNNjBkcE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Spiral: From the Book of Saw
-*Released on 2021-05-12, vote average 10*
-
-Working in the shadow of an esteemed police veteran, brash Detective Ezekiel “Zeke” Banks and his rookie partner take charge of a grisly investigation into murders that are eerily reminiscent of the city’s gruesome past.  Unwittingly entrapped in a deepening mystery, Zeke finds himself at the center of the killer’s morbid game.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rgNlWypWmtw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -178,16 +178,16 @@ Catherine Clare reluctantly trades life in 1980 Manhattan for a remote home in t
 	
 	
 
-### The Virtuoso
-*Released on 2021-04-30, vote average 6.6*
+### Oxygen
+*Released on 2021-05-12, vote average 6*
 
-A lonesome stranger with nerves of steel must track down and kill a rogue hitman to satisfy an outstanding debt. But the only information he&#39;s been given is a time and location where to find his quarry. No name. No description. Nothing.
+A woman wakes in a cryogenic chamber with no recollection of how she got there, and must find a way out before running out of air.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/LWA2r7X7z6Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/s6oLsCHgSwg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -198,23 +198,18 @@ A lonesome stranger with nerves of steel must track down and kill a rogue hitman
 
 
 	
-
-  
-
-
-	
 	
 
-### The Paper Tigers
-*Released on 2021-05-07, vote average 7.5*
+### The Virtuoso
+*Released on 2021-04-30, vote average 6.6*
 
-Three Kung Fu prodigies have grown into washed-up, middle-aged men, now one kick away from pulling their hamstrings. But when their master is murdered, they must juggle their dead-end jobs, dad duties, and old grudges to avenge his death.
+A lonesome stranger with nerves of steel must track down and kill a rogue hitman to satisfy an outstanding debt. But the only information he&#39;s been given is a time and location where to find his quarry. No name. No description. Nothing.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/qMt344EjiWk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/LWA2r7X7z6Y?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -249,6 +244,28 @@ A single mother must protect her daughter and herself during a heist gone wrong 
 	
 	
 
+### The Paper Tigers
+*Released on 2021-05-07, vote average 7.5*
+
+Three Kung Fu prodigies have grown into washed-up, middle-aged men, now one kick away from pulling their hamstrings. But when their master is murdered, they must juggle their dead-end jobs, dad duties, and old grudges to avenge his death.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qMt344EjiWk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Here Today
 *Released on 2021-05-07, vote average 7.3*
 
@@ -269,6 +286,8 @@ Veteran comedy writer Charlie Berns, who is slowly but surely losing his grip on
 
 
 	
+	
+	
 
   
 
@@ -276,16 +295,16 @@ Veteran comedy writer Charlie Berns, who is slowly but surely losing his grip on
 	
 	
 
-### Dynasty Warriors : Destiny of an Emperor
-*Released on 2021-04-29, vote average 6.3*
+### In the Earth
+*Released on 2021-04-30, vote average 5.7*
 
-Dynasty Warriors is an upcoming Hong Kong fantasy-action film based on the Japanese video game franchise of the same title.
+As a deadly virus ravages the world, Dr. Martin Lowery embarks on a mission to reach test site ATU327A, a research hub deep in the Arboreal Forest. The arduous journey, guided by park scout Alma, is set back by a nighttime attack that leaves the two bruised and shoeless. When they run into Zach, a man living off the grid, they gratefully accept his help. Zach’s intentions aren’t exactly what they seem, however, and a path out of the forest and into safety quickly fades as the line between myth and science blurs.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/VnVkOpdKTHI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/3Lqkfo7IymU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -320,16 +339,16 @@ What should have been a tourist trip to remember, quickly turns into a living ni
 	
 	
 
-### In the Earth
-*Released on 2021-04-30, vote average 5.6*
+### Dynasty Warriors : Destiny of an Emperor
+*Released on 2021-04-29, vote average 6.3*
 
-As a deadly virus ravages the world, Dr. Martin Lowery embarks on a mission to reach test site ATU327A, a research hub deep in the Arboreal Forest. The arduous journey, guided by park scout Alma, is set back by a nighttime attack that leaves the two bruised and shoeless. When they run into Zach, a man living off the grid, they gratefully accept his help. Zach’s intentions aren’t exactly what they seem, however, and a path out of the forest and into safety quickly fades as the line between myth and science blurs.
+Dynasty Warriors is an upcoming Hong Kong fantasy-action film based on the Japanese video game franchise of the same title.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/3Lqkfo7IymU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/VnVkOpdKTHI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -383,10 +402,12 @@ A young girl finds solace in her artist father and the ghost of her dead mother.
 	
 
 	
+
+	
 	
 
 ### Army of the Dead
-*Released on 2021-05-13, vote average 9*
+*Released on 2021-05-13, vote average 9.3*
 
 Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble: venturing into the quarantine zone to pull off the greatest heist ever attempted.
 
@@ -404,20 +425,22 @@ Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultima
 	
 	
 
-### Spiral: From the Book of Saw
-*Released on 2021-05-12, vote average 10*
+### Antidote
+*Released on 2021-05-15, vote average 4*
 
-Working in the shadow of an esteemed police veteran, brash Detective Ezekiel “Zeke” Banks and his rookie partner take charge of a grisly investigation into murders that are eerily reminiscent of the city’s gruesome past.  Unwittingly entrapped in a deepening mystery, Zeke finds himself at the center of the killer’s morbid game.
+A young woman is held captive in an underground medical facility where selected individuals are perpetually mutilated and then healed using an experimental miracle drug: a panacea.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/rgNlWypWmtw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/yH8P-puEO-0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
@@ -445,10 +468,6 @@ An otherworldly journey through a Europe in decline - a collection of darkly hum
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
 	
 
 	
