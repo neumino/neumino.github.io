@@ -47,7 +47,7 @@ Jack, a man desperate to improve his life throws away his beloved childhood plus
 	
 
 ### Spiral: From the Book of Saw
-*Released on 2021-05-12, vote average 6.3*
+*Released on 2021-05-12, vote average 5.8*
 
 Working in the shadow of an esteemed police veteran, brash Detective Ezekiel “Zeke” Banks and his rookie partner take charge of a grisly investigation into murders that are eerily reminiscent of the city’s gruesome past.  Unwittingly entrapped in a deepening mystery, Zeke finds himself at the center of the killer’s morbid game.
 
@@ -68,8 +68,52 @@ Working in the shadow of an esteemed police veteran, brash Detective Ezekiel “
 	
 	
 
+### Those Who Wish Me Dead
+*Released on 2021-05-05, vote average 7.3*
+
+A teenage murder witness finds himself pursued by two assassins in the Montana wilderness with a survival expert tasked with protecting him - and a forest fire threatening to consume them all.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/sV6VNNjBkcE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Oxygen
+*Released on 2021-05-12, vote average 6.9*
+
+A woman wakes in a cryogenic chamber with no recollection of how she got there, and must find a way out before running out of air.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/s6oLsCHgSwg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Army of the Dead
-*Released on 2021-05-13, vote average 7.2*
+*Released on 2021-05-13, vote average 8.6*
 
 Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble: venturing into the quarantine zone to pull off the greatest heist ever attempted.
 
@@ -90,52 +134,20 @@ Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultima
 	
 	
 
-### Those Who Wish Me Dead
-*Released on 2021-05-05, vote average 7.7*
+### The Woman in the Window
+*Released on 2021-05-14, vote average 5.9*
 
-A teenage murder witness finds himself pursued by twin assassins in the Montana wilderness with a survival expert tasked with protecting him - and a forest fire threatening to consume them all.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/sV6VNNjBkcE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Oxygen
-*Released on 2021-05-12, vote average 7.1*
-
-A woman wakes in a cryogenic chamber with no recollection of how she got there, and must find a way out before running out of air.
+An agoraphobic woman living alone in New York begins spying on her new neighbors only to witness a disturbing act of violence.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/s6oLsCHgSwg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/J0hTmzISOlQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -164,23 +176,18 @@ A young woman is held captive in an underground medical facility where selected 
 
 
 	
-
-  
-
-
-	
 	
 
-### Radhe: Your Most Wanted Bhai
-*Released on 2021-05-12, vote average 7*
+### The Djinn
+*Released on 2021-05-14, vote average 5*
 
-As Mumbai’s youth are falling prey to rampant drug abuse, suspended cop Radhe is recalled for a clean-up mission. But Radhe is up against a dangerous new outlaw Rana, who will stop at nothing to rule the city.
+A mute boy is trapped in his apartment with a sinister monster when he makes a wish to fulfill his heart’s greatest desire.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/N6YwJw-9mIs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Vi3hyzmo7iU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -214,6 +221,38 @@ A tourist trip quickly turns into a living nightmare when five passengers on a s
 
 	
 	
+
+### Radhe: Your Most Wanted Bhai
+*Released on 2021-05-12, vote average 5.1*
+
+As Mumbai’s youth are falling prey to rampant drug abuse, suspended cop Radhe is recalled for a clean-up mission. But Radhe is up against a dangerous new outlaw Rana, who will stop at nothing to rule the city.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/N6YwJw-9mIs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -226,6 +265,43 @@ A tourist trip quickly turns into a living nightmare when five passengers on a s
 
 	
 	
+
+### Ferry
+*Released on 2021-05-14, vote average 7.2*
+
+How did it all start for Ferry Bouman, the drug lord in &#39;Undercover&#39;, before he was a criminal and was caught?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2Uug0zsK2CU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### I Am All Girls
+*Released on 2021-05-14, vote average 7.3*
+
+A special crimes investigator forms an unlikely bond with a serial killer to bring down a global child sex trafficking syndicate.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zMPS9JO0p6w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -242,22 +318,12 @@ A tourist trip quickly turns into a living nightmare when five passengers on a s
 
 
 	
-
-  
-
-
 	
-
-  
-
-
 	
 
   
 
 
-	
-	
 	
 
   
@@ -268,24 +334,18 @@ A tourist trip quickly turns into a living nightmare when five passengers on a s
 
 
 	
-
 	
 
-	
+### Breaking News in Yuba County
+*Released on 2021-05-20, vote average 1*
 
-	
-	
-
-### Antidote
-*Released on 2021-05-15, vote average 4*
-
-A young woman is held captive in an underground medical facility where selected individuals are perpetually mutilated and then healed using an experimental miracle drug: a panacea.
+An overlooked pencil-pusher catches her husband in bed with another woman, the shock of which causes him to die of a heart attack. So she buries his body and takes advantage of the growing celebrity status that comes from having a missing husband. But she quickly finds herself in over her head, dodging cops and criminals, all while trying to keep the truth from her sister, a local news anchor who’s desperate for a story.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/yH8P-puEO-0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ENv0B-jX3O4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -293,9 +353,22 @@ A young woman is held captive in an underground medical facility where selected 
 	
 
 	
-
 	
 
+### A Quiet Place Part II
+*Released on 2021-05-21, vote average 10*
+
+Following the events at home, the Abbott family now face the terrors of the outside world. Forced to venture into the unknown, they realize that the creatures that hunt by sound are not the only threats that lurk beyond the sand path.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/XEMwSdne6UE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -323,6 +396,18 @@ An otherworldly journey through a Europe in decline - a collection of darkly hum
 
 	
 
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
 	
 
 	
