@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Benny Loves You
-*Released on 2021-05-07, vote average 6.4*
+*Released on 2021-05-07, vote average 6.5*
 
 Jack, a man desperate to improve his life throws away his beloved childhood plush, Benny. It’s a move that has disastrous consequences when Benny springs to life with deadly intentions!
 
@@ -46,16 +46,16 @@ Jack, a man desperate to improve his life throws away his beloved childhood plus
 	
 	
 
-### Spiral: From the Book of Saw
-*Released on 2021-05-12, vote average 5.8*
+### Those Who Wish Me Dead
+*Released on 2021-05-05, vote average 7.2*
 
-Working in the shadow of an esteemed police veteran, brash Detective Ezekiel “Zeke” Banks and his rookie partner take charge of a grisly investigation into murders that are eerily reminiscent of the city’s gruesome past.  Unwittingly entrapped in a deepening mystery, Zeke finds himself at the center of the killer’s morbid game.
+A young boy finds himself pursued by two assassins in the Montana wilderness with a survival expert determined to protecting him - and a forest fire threatening to consume them all.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/rgNlWypWmtw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/sV6VNNjBkcE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,16 +68,16 @@ Working in the shadow of an esteemed police veteran, brash Detective Ezekiel “
 	
 	
 
-### Those Who Wish Me Dead
-*Released on 2021-05-05, vote average 7.3*
+### Spiral: From the Book of Saw
+*Released on 2021-05-12, vote average 6.2*
 
-A teenage murder witness finds himself pursued by two assassins in the Montana wilderness with a survival expert tasked with protecting him - and a forest fire threatening to consume them all.
+Working in the shadow of an esteemed police veteran, brash Detective Ezekiel “Zeke” Banks and his rookie partner take charge of a grisly investigation into murders that are eerily reminiscent of the city’s gruesome past.  Unwittingly entrapped in a deepening mystery, Zeke finds himself at the center of the killer’s morbid game.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/sV6VNNjBkcE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/rgNlWypWmtw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -113,7 +113,7 @@ A woman wakes in a cryogenic chamber with no recollection of how she got there, 
 	
 
 ### Army of the Dead
-*Released on 2021-05-13, vote average 8.6*
+*Released on 2021-05-13, vote average 8.7*
 
 Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble: venturing into the quarantine zone to pull off the greatest heist ever attempted.
 
@@ -135,7 +135,7 @@ Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultima
 	
 
 ### The Woman in the Window
-*Released on 2021-05-14, vote average 5.9*
+*Released on 2021-05-14, vote average 6.3*
 
 An agoraphobic woman living alone in New York begins spying on her new neighbors only to witness a disturbing act of violence.
 
@@ -144,6 +144,123 @@ An agoraphobic woman living alone in New York begins spying on her new neighbors
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/J0hTmzISOlQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Djinn
+*Released on 2021-05-14, vote average 4.8*
+
+A mute boy is trapped in his apartment with a sinister monster when he makes a wish to fulfill his heart’s greatest desire.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Vi3hyzmo7iU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Great White
+*Released on 2021-05-07, vote average 6.2*
+
+A tourist trip quickly turns into a living nightmare when five passengers on a seaplane become stranded miles away from shore. What follows is a desperate bid for survival as the group tries to make it to land before they either run out of supplies or are taken by the man-eating sharks lurking just beneath the surface.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_yNmismaJkY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Ferry
+*Released on 2021-05-14, vote average 6.8*
+
+Before he built a drug empire, Ferry Bouman returns to his hometown on a revenge mission that finds his loyalty tested — and a love that alters his life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2Uug0zsK2CU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Radhe: Your Most Wanted Bhai
+*Released on 2021-05-12, vote average 4.1*
+
+As Mumbai’s youth are falling prey to rampant drug abuse, suspended cop Radhe is recalled for a clean-up mission. But Radhe is up against a dangerous new outlaw Rana, who will stop at nothing to rule the city.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/N6YwJw-9mIs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### I Am All Girls
+*Released on 2021-05-14, vote average 6.9*
+
+A special crimes investigator forms an unlikely bond with a serial killer to bring down a global child sex trafficking syndicate.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zMPS9JO0p6w?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -177,127 +294,29 @@ A young woman is held captive in an underground medical facility where selected 
 
 	
 	
+	
 
-### The Djinn
-*Released on 2021-05-14, vote average 5*
+  
 
-A mute boy is trapped in his apartment with a sinister monster when he makes a wish to fulfill his heart’s greatest desire.
+
+	
+
+  
+
+
+	
+	
+
+### Georgetown
+*Released on 2021-05-14, vote average 5.5*
+
+Ulrich Mott  is an eccentric and versatile social climber with grandiose plans to affect United States foreign policy. Encouraged  in his attempts by his strategically chosen (and much older) wife, the well-connected journalist Elsa Brecht, Mott has a knack for making himself indispensable and impossible to ignore. The only one seemingly immune to his charms is Elsa&#39;s daughter Amanda, who might simply disapprove of her mother marrying a much younger man - or perhaps she senses something more sinister beneath the smooth-talking surface?
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Vi3hyzmo7iU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Great White
-*Released on 2021-05-07, vote average 5.3*
-
-A tourist trip quickly turns into a living nightmare when five passengers on a seaplane become stranded miles away from shore. What follows is a desperate bid for survival as the group tries to make it to land before they either run out of supplies or are taken by the man-eating sharks lurking just beneath the surface.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/_yNmismaJkY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Radhe: Your Most Wanted Bhai
-*Released on 2021-05-12, vote average 5.1*
-
-As Mumbai’s youth are falling prey to rampant drug abuse, suspended cop Radhe is recalled for a clean-up mission. But Radhe is up against a dangerous new outlaw Rana, who will stop at nothing to rule the city.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/N6YwJw-9mIs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Ferry
-*Released on 2021-05-14, vote average 7.2*
-
-How did it all start for Ferry Bouman, the drug lord in &#39;Undercover&#39;, before he was a criminal and was caught?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2Uug0zsK2CU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### I Am All Girls
-*Released on 2021-05-14, vote average 7.3*
-
-A special crimes investigator forms an unlikely bond with a serial killer to bring down a global child sex trafficking syndicate.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zMPS9JO0p6w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-ch3BdXOgyc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -318,6 +337,21 @@ A special crimes investigator forms an unlikely bond with a serial killer to bri
 
 
 	
+	
+
+### Undergods
+*Released on 2021-05-17, vote average 6.5*
+
+An otherworldly journey through a Europe in decline - a collection of darkly humorous, fantasy tales about ill-fated characters and doomed fortune.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_2NQjAHZyc0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -372,14 +406,29 @@ Following the events at home, the Abbott family now face the terrors of the outs
 	
 
 	
+	
 
+### F9
+*Released on 2021-05-19, vote average 10*
+
+Dominic Toretto is leading a quiet life off the grid with Letty and his son, little Brian, but they know that danger always lurks just over their peaceful horizon. This time, that threat will force Dom to confront the sins of his past if he’s going to save those he loves most. His crew joins together to stop a world-shattering plot led by the most skilled assassin and high-performance driver they’ve ever encountered: a man who also happens to be Dom’s forsaken brother, Jakob.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/AvrW9mVE9qU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
 	
 
 ### Undergods
-*Released on 2021-05-17, vote average 5.5*
+*Released on 2021-05-17, vote average 6.5*
 
 An otherworldly journey through a Europe in decline - a collection of darkly humorous, fantasy tales about ill-fated characters and doomed fortune.
 
@@ -407,13 +456,15 @@ An otherworldly journey through a Europe in decline - a collection of darkly hum
 	
 
 	
-	
-	
 
 	
 
 	
 
+	
+
+	
+	
 	
 
 	
