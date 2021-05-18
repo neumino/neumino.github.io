@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Benny Loves You
-*Released on 2021-05-07, vote average 6.5*
+*Released on 2021-05-07, vote average 6.6*
 
 Jack, a man desperate to improve his life throws away his beloved childhood plush, Benny. It’s a move that has disastrous consequences when Benny springs to life with deadly intentions!
 
@@ -68,28 +68,6 @@ A young boy finds himself pursued by two assassins in the Montana wilderness wit
 	
 	
 
-### Spiral: From the Book of Saw
-*Released on 2021-05-12, vote average 6.2*
-
-Working in the shadow of an esteemed police veteran, brash Detective Ezekiel “Zeke” Banks and his rookie partner take charge of a grisly investigation into murders that are eerily reminiscent of the city’s gruesome past.  Unwittingly entrapped in a deepening mystery, Zeke finds himself at the center of the killer’s morbid game.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rgNlWypWmtw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Oxygen
 *Released on 2021-05-12, vote average 6.9*
 
@@ -112,8 +90,30 @@ A woman wakes in a cryogenic chamber with no recollection of how she got there, 
 	
 	
 
+### Spiral: From the Book of Saw
+*Released on 2021-05-12, vote average 5.7*
+
+Working in the shadow of an esteemed police veteran, brash Detective Ezekiel “Zeke” Banks and his rookie partner take charge of a grisly investigation into murders that are eerily reminiscent of the city’s gruesome past.  Unwittingly entrapped in a deepening mystery, Zeke finds himself at the center of the killer’s morbid game.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/rgNlWypWmtw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Army of the Dead
-*Released on 2021-05-13, vote average 8.7*
+*Released on 2021-05-13, vote average 8.3*
 
 Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble: venturing into the quarantine zone to pull off the greatest heist ever attempted.
 
@@ -155,21 +155,6 @@ An agoraphobic woman living alone in New York begins spying on her new neighbors
 
 	
 	
-
-### The Djinn
-*Released on 2021-05-14, vote average 4.8*
-
-A mute boy is trapped in his apartment with a sinister monster when he makes a wish to fulfill his heart’s greatest desire.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Vi3hyzmo7iU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -179,7 +164,7 @@ A mute boy is trapped in his apartment with a sinister monster when he makes a w
 	
 
 ### Great White
-*Released on 2021-05-07, vote average 6.2*
+*Released on 2021-05-07, vote average 6.1*
 
 A tourist trip quickly turns into a living nightmare when five passengers on a seaplane become stranded miles away from shore. What follows is a desperate bid for survival as the group tries to make it to land before they either run out of supplies or are taken by the man-eating sharks lurking just beneath the surface.
 
@@ -199,16 +184,9 @@ A tourist trip quickly turns into a living nightmare when five passengers on a s
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Ferry
-*Released on 2021-05-14, vote average 6.8*
+*Released on 2021-05-14, vote average 6.4*
 
 Before he built a drug empire, Ferry Bouman returns to his hometown on a revenge mission that finds his loyalty tested — and a love that alters his life.
 
@@ -229,16 +207,16 @@ Before he built a drug empire, Ferry Bouman returns to his hometown on a revenge
 	
 	
 
-### Radhe: Your Most Wanted Bhai
-*Released on 2021-05-12, vote average 4.1*
+### The Djinn
+*Released on 2021-05-14, vote average 5.3*
 
-As Mumbai’s youth are falling prey to rampant drug abuse, suspended cop Radhe is recalled for a clean-up mission. But Radhe is up against a dangerous new outlaw Rana, who will stop at nothing to rule the city.
+A mute boy is trapped in his apartment with a sinister monster when he makes a wish to fulfill his heart’s greatest desire.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/N6YwJw-9mIs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Vi3hyzmo7iU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -252,7 +230,7 @@ As Mumbai’s youth are falling prey to rampant drug abuse, suspended cop Radhe 
 	
 
 ### I Am All Girls
-*Released on 2021-05-14, vote average 6.9*
+*Released on 2021-05-14, vote average 6.7*
 
 A special crimes investigator forms an unlikely bond with a serial killer to bring down a global child sex trafficking syndicate.
 
@@ -273,59 +251,20 @@ A special crimes investigator forms an unlikely bond with a serial killer to bri
 	
 	
 
-### Antidote
-*Released on 2021-05-15, vote average 4*
+### Radhe: Your Most Wanted Bhai
+*Released on 2021-05-12, vote average 3.7*
 
-A young woman is held captive in an underground medical facility where selected individuals are perpetually mutilated and then healed using an experimental miracle drug: a panacea.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/yH8P-puEO-0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Georgetown
-*Released on 2021-05-14, vote average 5.5*
-
-Ulrich Mott  is an eccentric and versatile social climber with grandiose plans to affect United States foreign policy. Encouraged  in his attempts by his strategically chosen (and much older) wife, the well-connected journalist Elsa Brecht, Mott has a knack for making himself indispensable and impossible to ignore. The only one seemingly immune to his charms is Elsa&#39;s daughter Amanda, who might simply disapprove of her mother marrying a much younger man - or perhaps she senses something more sinister beneath the smooth-talking surface?
+As Mumbai’s youth are falling prey to rampant drug abuse, suspended cop Radhe is recalled for a clean-up mission. But Radhe is up against a dangerous new outlaw Rana, who will stop at nothing to rule the city.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-ch3BdXOgyc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/N6YwJw-9mIs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -359,6 +298,52 @@ An otherworldly journey through a Europe in decline - a collection of darkly hum
 
 
 	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Antidote
+*Released on 2021-05-15, vote average 4*
+
+A young woman is held captive in an underground medical facility where selected individuals are perpetually mutilated and then healed using an experimental miracle drug: a panacea.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/yH8P-puEO-0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 
   
 
@@ -371,7 +356,7 @@ An otherworldly journey through a Europe in decline - a collection of darkly hum
 	
 
 ### Breaking News in Yuba County
-*Released on 2021-05-20, vote average 1*
+*Released on 2021-05-20, vote average 3*
 
 An overlooked pencil-pusher catches her husband in bed with another woman, the shock of which causes him to die of a heart attack. So she buries his body and takes advantage of the growing celebrity status that comes from having a missing husband. But she quickly finds herself in over her head, dodging cops and criminals, all while trying to keep the truth from her sister, a local news anchor who’s desperate for a story.
 
@@ -425,18 +410,20 @@ Dominic Toretto is leading a quiet life off the grid with Letty and his son, lit
 	
 
 	
+
+	
 	
 
-### Undergods
-*Released on 2021-05-17, vote average 6.5*
+### Spirit Untamed
+*Released on 2021-05-20, vote average 10*
 
-An otherworldly journey through a Europe in decline - a collection of darkly humorous, fantasy tales about ill-fated characters and doomed fortune.
+Lucky, a gutsy 12-year-old girl longing for a place to belong, befriends a wild mustang she names Spirit. With her two best friends Abigail and Pru and their horses by her side, they explore a world filled with endless adventure, magnificent horses and never ending fun.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/_2NQjAHZyc0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/t6wCykq_bLo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -454,6 +441,8 @@ An otherworldly journey through a Europe in decline - a collection of darkly hum
 	
 
 	
+	
+	
 
 	
 
@@ -461,10 +450,6 @@ An otherworldly journey through a Europe in decline - a collection of darkly hum
 
 	
 
-	
-
-	
-	
 	
 
 	
