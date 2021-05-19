@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Benny Loves You
-*Released on 2021-05-07, vote average 6.6*
+*Released on 2021-05-07, vote average 6.3*
 
 Jack, a man desperate to improve his life throws away his beloved childhood plush, Benny. It’s a move that has disastrous consequences when Benny springs to life with deadly intentions!
 
@@ -90,8 +90,30 @@ A woman wakes in a cryogenic chamber with no recollection of how she got there, 
 	
 	
 
+### The Woman in the Window
+*Released on 2021-05-14, vote average 6.3*
+
+An agoraphobic woman living alone in New York begins spying on her new neighbors only to witness a disturbing act of violence.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/J0hTmzISOlQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Spiral: From the Book of Saw
-*Released on 2021-05-12, vote average 5.7*
+*Released on 2021-05-12, vote average 5.9*
 
 Working in the shadow of an esteemed police veteran, brash Detective Ezekiel “Zeke” Banks and his rookie partner take charge of a grisly investigation into murders that are eerily reminiscent of the city’s gruesome past.  Unwittingly entrapped in a deepening mystery, Zeke finds himself at the center of the killer’s morbid game.
 
@@ -113,7 +135,7 @@ Working in the shadow of an esteemed police veteran, brash Detective Ezekiel “
 	
 
 ### Army of the Dead
-*Released on 2021-05-13, vote average 8.3*
+*Released on 2021-05-13, vote average 8.4*
 
 Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble: venturing into the quarantine zone to pull off the greatest heist ever attempted.
 
@@ -134,16 +156,16 @@ Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultima
 	
 	
 
-### The Woman in the Window
-*Released on 2021-05-14, vote average 6.3*
+### F9
+*Released on 2021-05-19, vote average 10*
 
-An agoraphobic woman living alone in New York begins spying on her new neighbors only to witness a disturbing act of violence.
+Dominic Toretto is leading a quiet life off the grid with Letty and his son, little Brian, but they know that danger always lurks just over their peaceful horizon. This time, that threat will force Dom to confront the sins of his past if he’s going to save those he loves most. His crew joins together to stop a world-shattering plot led by the most skilled assassin and high-performance driver they’ve ever encountered: a man who also happens to be Dom’s forsaken brother, Jakob.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/J0hTmzISOlQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/AvrW9mVE9qU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -154,6 +176,43 @@ An agoraphobic woman living alone in New York begins spying on her new neighbors
 
 
 	
+	
+
+### Ferry
+*Released on 2021-05-14, vote average 6.8*
+
+Before he built a drug empire, Ferry Bouman returns to his hometown on a revenge mission that finds his loyalty tested — and a love that alters his life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2Uug0zsK2CU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### I Am All Girls
+*Released on 2021-05-14, vote average 7*
+
+A special crimes investigator forms an unlikely bond with a serial killer to bring down a global child sex trafficking syndicate.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zMPS9JO0p6w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -185,30 +244,8 @@ A tourist trip quickly turns into a living nightmare when five passengers on a s
 	
 	
 
-### Ferry
-*Released on 2021-05-14, vote average 6.4*
-
-Before he built a drug empire, Ferry Bouman returns to his hometown on a revenge mission that finds his loyalty tested — and a love that alters his life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2Uug0zsK2CU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Djinn
-*Released on 2021-05-14, vote average 5.3*
+*Released on 2021-05-14, vote average 5.9*
 
 A mute boy is trapped in his apartment with a sinister monster when he makes a wish to fulfill his heart’s greatest desire.
 
@@ -227,49 +264,12 @@ A mute boy is trapped in his apartment with a sinister monster when he makes a w
 
 
 	
-	
-
-### I Am All Girls
-*Released on 2021-05-14, vote average 6.7*
-
-A special crimes investigator forms an unlikely bond with a serial killer to bring down a global child sex trafficking syndicate.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zMPS9JO0p6w?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
 	
 	
-
-### Radhe: Your Most Wanted Bhai
-*Released on 2021-05-12, vote average 3.7*
-
-As Mumbai’s youth are falling prey to rampant drug abuse, suspended cop Radhe is recalled for a clean-up mission. But Radhe is up against a dangerous new outlaw Rana, who will stop at nothing to rule the city.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/N6YwJw-9mIs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -279,7 +279,7 @@ As Mumbai’s youth are falling prey to rampant drug abuse, suspended cop Radhe 
 	
 
 ### Undergods
-*Released on 2021-05-17, vote average 6.5*
+*Released on 2021-05-17, vote average 7.1*
 
 An otherworldly journey through a Europe in decline - a collection of darkly humorous, fantasy tales about ill-fated characters and doomed fortune.
 
@@ -299,40 +299,53 @@ An otherworldly journey through a Europe in decline - a collection of darkly hum
 
 	
 	
-	
 
-  
+### Radhe: Your Most Wanted Bhai
+*Released on 2021-05-12, vote average 3.9*
 
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Antidote
-*Released on 2021-05-15, vote average 4*
-
-A young woman is held captive in an underground medical facility where selected individuals are perpetually mutilated and then healed using an experimental miracle drug: a panacea.
+As Mumbai’s youth are falling prey to rampant drug abuse, suspended cop Radhe is recalled for a clean-up mission. But Radhe is up against a dangerous new outlaw Rana, who will stop at nothing to rule the city.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/yH8P-puEO-0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/N6YwJw-9mIs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Spring Blossom
+*Released on 2021-05-17, vote average 4*
+
+A 16 year old girl, bored with her own age group, becomes involved with an older man at a theater she passes.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/tG4GqNv-5IA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -369,6 +382,8 @@ An overlooked pencil-pusher catches her husband in bed with another woman, the s
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
@@ -433,15 +448,13 @@ Lucky, a gutsy 12-year-old girl longing for a place to belong, befriends a wild 
 	
 
 	
+	
+	
 
 	
 
 	
 
-	
-
-	
-	
 	
 
 	
