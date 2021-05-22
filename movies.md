@@ -68,52 +68,8 @@ An agoraphobic woman living alone in New York begins spying on her new neighbors
 	
 	
 
-### Benny Loves You
-*Released on 2021-05-07, vote average 6.3*
-
-Jack, a man desperate to improve his life throws away his beloved childhood plush, Benny. It’s a move that has disastrous consequences when Benny springs to life with deadly intentions!
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tL1fCW2BqLY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Breaking News in Yuba County
-*Released on 2021-05-20, vote average 3*
-
-An overlooked pencil-pusher catches her husband in bed with another woman, the shock of which causes him to die of a heart attack. So she buries his body and takes advantage of the growing celebrity status that comes from having a missing husband. But she quickly finds herself in over her head, dodging cops and criminals, all while trying to keep the truth from her sister, a local news anchor who’s desperate for a story.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ENv0B-jX3O4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### A Quiet Place Part II
-*Released on 2021-05-21, vote average 7.8*
+*Released on 2021-05-21, vote average 6.8*
 
 Following the events at home, the Abbott family now face the terrors of the outside world. Forced to venture into the unknown, they realize that the creatures that hunt by sound are not the only threats that lurk beyond the sand path.
 
@@ -135,7 +91,7 @@ Following the events at home, the Abbott family now face the terrors of the outs
 	
 
 ### Ferry
-*Released on 2021-05-14, vote average 7.3*
+*Released on 2021-05-14, vote average 7.2*
 
 Before he built a drug empire, Ferry Bouman returns to his hometown on a revenge mission that finds his loyalty tested — and a love that alters his life.
 
@@ -156,30 +112,8 @@ Before he built a drug empire, Ferry Bouman returns to his hometown on a revenge
 	
 	
 
-### Spiral: From the Book of Saw
-*Released on 2021-05-12, vote average 6.1*
-
-Working in the shadow of an esteemed police veteran, brash Detective Ezekiel “Zeke” Banks and his rookie partner take charge of a grisly investigation into murders that are eerily reminiscent of the city’s gruesome past.  Unwittingly entrapped in a deepening mystery, Zeke finds himself at the center of the killer’s morbid game.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rgNlWypWmtw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### I Am All Girls
-*Released on 2021-05-14, vote average 7.2*
+*Released on 2021-05-14, vote average 7.1*
 
 A special crimes investigator forms an unlikely bond with a serial killer to bring down a global child sex trafficking syndicate.
 
@@ -200,8 +134,52 @@ A special crimes investigator forms an unlikely bond with a serial killer to bri
 	
 	
 
+### Breaking News in Yuba County
+*Released on 2021-05-20, vote average 2.3*
+
+An overlooked pencil-pusher catches her husband in bed with another woman, the shock of which causes him to die of a heart attack. So she buries his body and takes advantage of the growing celebrity status that comes from having a missing husband. But she quickly finds herself in over her head, dodging cops and criminals, all while trying to keep the truth from her sister, a local news anchor who’s desperate for a story.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ENv0B-jX3O4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Spiral: From the Book of Saw
+*Released on 2021-05-12, vote average 6.2*
+
+Working in the shadow of an esteemed police veteran, brash Detective Ezekiel “Zeke” Banks and his rookie partner take charge of a grisly investigation into murders that are eerily reminiscent of the city’s gruesome past.  Unwittingly entrapped in a deepening mystery, Zeke finds himself at the center of the killer’s morbid game.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/rgNlWypWmtw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### F9
-*Released on 2021-05-19, vote average 9.5*
+*Released on 2021-05-19, vote average 9.6*
 
 Dominic Toretto is leading a quiet life off the grid with Letty and his son, little Brian, but they know that danger always lurks just over their peaceful horizon. This time, that threat will force Dom to confront the sins of his past if he’s going to save those he loves most. His crew joins together to stop a world-shattering plot led by the most skilled assassin and high-performance driver they’ve ever encountered: a man who also happens to be Dom’s forsaken brother, Jakob.
 
@@ -243,21 +221,6 @@ Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultima
 
 	
 	
-
-### Great White
-*Released on 2021-05-07, vote average 6*
-
-A tourist trip quickly turns into a living nightmare when five passengers on a seaplane become stranded miles away from shore. What follows is a desperate bid for survival as the group tries to make it to land before they either run out of supplies or are taken by the man-eating sharks lurking just beneath the surface.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/_yNmismaJkY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -287,16 +250,9 @@ Lucky, a gutsy 12-year-old girl longing for a place to belong, befriends a wild 
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### The Djinn
-*Released on 2021-05-14, vote average 6.6*
+*Released on 2021-05-14, vote average 6.8*
 
 A mute boy is trapped in his apartment with a sinister monster when he makes a wish to fulfill his heart’s greatest desire.
 
@@ -315,15 +271,6 @@ A mute boy is trapped in his apartment with a sinister monster when he makes a w
 
 
 	
-	
-	
-
-  
-
-
-	
-	
-	
 
   
 
@@ -342,46 +289,6 @@ A mute boy is trapped in his apartment with a sinister monster when he makes a w
 
   
 
-
-	
-
-  
-
-
-
-## Opening soon
-
-
-	
-	
-
-### A Quiet Place Part II
-*Released on 2021-05-21, vote average 7.8*
-
-Following the events at home, the Abbott family now face the terrors of the outside world. Forced to venture into the unknown, they realize that the creatures that hunt by sound are not the only threats that lurk beyond the sand path.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XEMwSdne6UE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
 
 	
 	
@@ -402,6 +309,42 @@ A depiction of the last living generation of German participants in Adolf Hitler
 	
 	
 
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+
+## Opening soon
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
@@ -416,6 +359,27 @@ A depiction of the last living generation of German participants in Adolf Hitler
 
 	
 
+	
+
+	
+
+	
+	
+
+### Here Are the Young Men
+*Released on 2021-05-27, vote average 8*
+
+Dublin teenagers Matthew, nihilistic Rez, and the deranged Kearney, leave school to a social vacuum of drinking and drugs, falling into shocking acts of transgression.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wpNY9JcmMzI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
