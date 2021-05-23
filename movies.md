@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Oxygen
-*Released on 2021-05-12, vote average 6.9*
+### Ferry
+*Released on 2021-05-14, vote average 7.1*
 
-A woman wakes in a cryogenic chamber with no recollection of how she got there, and must find a way out before running out of air.
+Before he built a drug empire, Ferry Bouman returns to his hometown on a revenge mission that finds his loyalty tested — and a love that alters his life.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/s6oLsCHgSwg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/2Uug0zsK2CU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -40,6 +40,50 @@ A woman wakes in a cryogenic chamber with no recollection of how she got there, 
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+  
+
+
+	
+	
+
+### I Am All Girls
+*Released on 2021-05-14, vote average 7.1*
+
+A special crimes investigator forms an unlikely bond with a serial killer to bring down a global child sex trafficking syndicate.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zMPS9JO0p6w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Oxygen
+*Released on 2021-05-12, vote average 6.9*
+
+A woman wakes in a cryogenic chamber with no recollection of how she got there, and must find a way out before running out of air.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/s6oLsCHgSwg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
   
 
 
@@ -69,7 +113,7 @@ An agoraphobic woman living alone in New York begins spying on her new neighbors
 	
 
 ### A Quiet Place Part II
-*Released on 2021-05-21, vote average 6.8*
+*Released on 2021-05-21, vote average 6*
 
 Following the events at home, the Abbott family now face the terrors of the outside world. Forced to venture into the unknown, they realize that the creatures that hunt by sound are not the only threats that lurk beyond the sand path.
 
@@ -90,16 +134,16 @@ Following the events at home, the Abbott family now face the terrors of the outs
 	
 	
 
-### Ferry
-*Released on 2021-05-14, vote average 7.2*
+### Army of the Dead
+*Released on 2021-05-14, vote average 6.6*
 
-Before he built a drug empire, Ferry Bouman returns to his hometown on a revenge mission that finds his loyalty tested — and a love that alters his life.
+Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble: venturing into the quarantine zone to pull off the greatest heist ever attempted.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/2Uug0zsK2CU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/H83kjG5RCT8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,16 +156,38 @@ Before he built a drug empire, Ferry Bouman returns to his hometown on a revenge
 	
 	
 
-### I Am All Girls
-*Released on 2021-05-14, vote average 7.1*
+### F9
+*Released on 2021-05-19, vote average 8.8*
 
-A special crimes investigator forms an unlikely bond with a serial killer to bring down a global child sex trafficking syndicate.
+Dominic Toretto is leading a quiet life off the grid with Letty and his son, little Brian, but they know that danger always lurks just over their peaceful horizon. This time, that threat will force Dom to confront the sins of his past if he’s going to save those he loves most. His crew joins together to stop a world-shattering plot led by the most skilled assassin and high-performance driver they’ve ever encountered: a man who also happens to be Dom’s forsaken brother, Jakob.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/zMPS9JO0p6w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/AvrW9mVE9qU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Spiral: From the Book of Saw
+*Released on 2021-05-12, vote average 6.4*
+
+Working in the shadow of an esteemed police veteran, brash Detective Ezekiel “Zeke” Banks and his rookie partner take charge of a grisly investigation into murders that are eerily reminiscent of the city’s gruesome past.  Unwittingly entrapped in a deepening mystery, Zeke finds himself at the center of the killer’s morbid game.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/rgNlWypWmtw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -155,72 +221,11 @@ An overlooked pencil-pusher catches her husband in bed with another woman, the s
 
 	
 	
-
-### Spiral: From the Book of Saw
-*Released on 2021-05-12, vote average 6.2*
-
-Working in the shadow of an esteemed police veteran, brash Detective Ezekiel “Zeke” Banks and his rookie partner take charge of a grisly investigation into murders that are eerily reminiscent of the city’s gruesome past.  Unwittingly entrapped in a deepening mystery, Zeke finds himself at the center of the killer’s morbid game.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rgNlWypWmtw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
 
 
-	
-	
-
-### F9
-*Released on 2021-05-19, vote average 9.6*
-
-Dominic Toretto is leading a quiet life off the grid with Letty and his son, little Brian, but they know that danger always lurks just over their peaceful horizon. This time, that threat will force Dom to confront the sins of his past if he’s going to save those he loves most. His crew joins together to stop a world-shattering plot led by the most skilled assassin and high-performance driver they’ve ever encountered: a man who also happens to be Dom’s forsaken brother, Jakob.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/AvrW9mVE9qU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Army of the Dead
-*Released on 2021-05-13, vote average 8.4*
-
-Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble: venturing into the quarantine zone to pull off the greatest heist ever attempted.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/H83kjG5RCT8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -230,7 +235,7 @@ Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultima
 	
 
 ### Spirit Untamed
-*Released on 2021-05-20, vote average 10*
+*Released on 2021-05-20, vote average 8*
 
 Lucky, a gutsy 12-year-old girl longing for a place to belong, befriends a wild mustang she names Spirit. With her two best friends Abigail and Pru and their horses by her side, they explore a world filled with endless adventure, magnificent horses and never ending fun.
 
@@ -252,7 +257,7 @@ Lucky, a gutsy 12-year-old girl longing for a place to belong, befriends a wild 
 	
 
 ### The Djinn
-*Released on 2021-05-14, vote average 6.8*
+*Released on 2021-05-14, vote average 6.9*
 
 A mute boy is trapped in his apartment with a sinister monster when he makes a wish to fulfill his heart’s greatest desire.
 
@@ -276,33 +281,18 @@ A mute boy is trapped in his apartment with a sinister monster when he makes a w
 
 
 	
-
-  
-
-
 	
 
-  
+### Drunk Bus
+*Released on 2021-05-21, vote average 5*
 
-
-	
-
-  
-
-
-	
-	
-
-### Final Account
-*Released on 2021-05-21, vote average 8*
-
-A depiction of the last living generation of German participants in Adolf Hitler’s Third Reich.
+A directionless, young campus bus driver and a punk rock Samoan security guard named Pineapple form an unlikely kinship as they navigate the unpredictable late shift shit show known as the &#34;drunk bus.&#34; Together, they break out of their endless loop and into a world of uncertainty, excitement and incredibly poor decision-making.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/qobRIgAyQiY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/gu1MtdMRFTs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -314,6 +304,48 @@ A depiction of the last living generation of German participants in Adolf Hitler
 
 	
 	
+
+### The Retreat
+*Released on 2021-05-21, vote average 4*
+
+Renee and Valerie, a couple at a cross roads in their relationship, leave the city to spend the week at a remote cabin with friends. But when they arrive, their friends are nowhere to be found. As they stumble through their relationship woes, they discover they are being hunted by a group of militant extremists who are determined to exterminate them.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/d4BzPkBpDFs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### P!nk: All I Know So Far
+*Released on 2021-05-21, vote average 10*
+
+A behind-the-scenes look at P!NK as she balances family and life on the road, leading up to her first Wembley Stadium performance on 2019&#39;s &#34;Beautiful Trauma&#34; world tour.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EWcuGM8zjh0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -334,15 +366,28 @@ A depiction of the last living generation of German participants in Adolf Hitler
 
 
 	
+	
 
+### Cruella
+*Released on 2021-05-26, vote average 10*
+
+In 1970s London amidst the punk rock revolution, a young grifter named Estella is determined to make a name for herself with her designs. She befriends a pair of young thieves who appreciate her appetite for mischief, and together they are able to build a life for themselves on the London streets. One day, Estella’s flair for fashion catches the eye of the Baroness von Hellman, a fashion legend who is devastatingly chic and terrifyingly haute. But their relationship sets in motion a course of events and revelations that will cause Estella to embrace her wicked side and become the raucous, fashionable and revenge-bent Cruella.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/gmRKv7n2If8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
 
 	
-
 	
-
 	
 
 	
@@ -380,6 +425,12 @@ Dublin teenagers Matthew, nihilistic Rez, and the deranged Kearney, leave school
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
 	
 
 	
