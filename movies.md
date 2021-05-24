@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Ferry
-*Released on 2021-05-14, vote average 7.1*
+*Released on 2021-05-14, vote average 7.2*
 
 Before he built a drug empire, Ferry Bouman returns to his hometown on a revenge mission that finds his loyalty tested — and a love that alters his life.
 
@@ -69,7 +69,7 @@ A special crimes investigator forms an unlikely bond with a serial killer to bri
 	
 
 ### Oxygen
-*Released on 2021-05-12, vote average 6.9*
+*Released on 2021-05-12, vote average 6.8*
 
 A woman wakes in a cryogenic chamber with no recollection of how she got there, and must find a way out before running out of air.
 
@@ -78,6 +78,28 @@ A woman wakes in a cryogenic chamber with no recollection of how she got there, 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/s6oLsCHgSwg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Army of the Dead
+*Released on 2021-05-14, vote average 6.7*
+
+Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble: venturing into the quarantine zone to pull off the greatest heist ever attempted.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/H83kjG5RCT8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,52 +134,8 @@ An agoraphobic woman living alone in New York begins spying on her new neighbors
 	
 	
 
-### A Quiet Place Part II
-*Released on 2021-05-21, vote average 6*
-
-Following the events at home, the Abbott family now face the terrors of the outside world. Forced to venture into the unknown, they realize that the creatures that hunt by sound are not the only threats that lurk beyond the sand path.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XEMwSdne6UE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Army of the Dead
-*Released on 2021-05-14, vote average 6.6*
-
-Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble: venturing into the quarantine zone to pull off the greatest heist ever attempted.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/H83kjG5RCT8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### F9
-*Released on 2021-05-19, vote average 8.8*
+*Released on 2021-05-19, vote average 8.6*
 
 Dominic Toretto is leading a quiet life off the grid with Letty and his son, little Brian, but they know that danger always lurks just over their peaceful horizon. This time, that threat will force Dom to confront the sins of his past if he’s going to save those he loves most. His crew joins together to stop a world-shattering plot led by the most skilled assassin and high-performance driver they’ve ever encountered: a man who also happens to be Dom’s forsaken brother, Jakob.
 
@@ -178,8 +156,30 @@ Dominic Toretto is leading a quiet life off the grid with Letty and his son, lit
 	
 	
 
+### A Quiet Place Part II
+*Released on 2021-05-21, vote average 5.9*
+
+Following the events at home, the Abbott family now face the terrors of the outside world. Forced to venture into the unknown, they realize that the creatures that hunt by sound are not the only threats that lurk beyond the sand path.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/XEMwSdne6UE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Spiral: From the Book of Saw
-*Released on 2021-05-12, vote average 6.4*
+*Released on 2021-05-12, vote average 6.2*
 
 Working in the shadow of an esteemed police veteran, brash Detective Ezekiel “Zeke” Banks and his rookie partner take charge of a grisly investigation into murders that are eerily reminiscent of the city’s gruesome past.  Unwittingly entrapped in a deepening mystery, Zeke finds himself at the center of the killer’s morbid game.
 
@@ -234,65 +234,16 @@ An overlooked pencil-pusher catches her husband in bed with another woman, the s
 	
 	
 
-### Spirit Untamed
-*Released on 2021-05-20, vote average 8*
+### Seance
+*Released on 2021-05-21, vote average 6*
 
-Lucky, a gutsy 12-year-old girl longing for a place to belong, befriends a wild mustang she names Spirit. With her two best friends Abigail and Pru and their horses by her side, they explore a world filled with endless adventure, magnificent horses and never ending fun.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/t6wCykq_bLo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Djinn
-*Released on 2021-05-14, vote average 6.9*
-
-A mute boy is trapped in his apartment with a sinister monster when he makes a wish to fulfill his heart’s greatest desire.
+Camille is the new girl at the prestigious Fairfield Academy for Girls. Drawn into the mystery surrounding Kerrie, a student who died following a seance summoning the legendary Fairfield Ghost, Camille befriends Kerrie’s clique. When they invite her to their next seance, she initially believes that she is being pranked, but then the girls start being killed off one by one. The Fairfield Ghost has come to take its revenge and Camille must turn detective and solve the mystery, or suffer the same fate.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Vi3hyzmo7iU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Drunk Bus
-*Released on 2021-05-21, vote average 5*
-
-A directionless, young campus bus driver and a punk rock Samoan security guard named Pineapple form an unlikely kinship as they navigate the unpredictable late shift shit show known as the &#34;drunk bus.&#34; Together, they break out of their endless loop and into a world of uncertainty, excitement and incredibly poor decision-making.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/gu1MtdMRFTs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/vQ5XXhTnbUg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -328,7 +279,7 @@ Renee and Valerie, a couple at a cross roads in their relationship, leave the ci
 	
 
 ### P!nk: All I Know So Far
-*Released on 2021-05-21, vote average 10*
+*Released on 2021-05-21, vote average 8.6*
 
 A behind-the-scenes look at P!NK as she balances family and life on the road, leading up to her first Wembley Stadium performance on 2019&#39;s &#34;Beautiful Trauma&#34; world tour.
 
@@ -347,10 +298,95 @@ A behind-the-scenes look at P!NK as she balances family and life on the road, le
 
 
 	
+	
+	
 
   
 
 
+	
+	
+
+### High Flying Romance
+*Released on 2021-05-17, vote average 6.7*
+
+A woman finds romance during a kite festival.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/rMyWiuslfjI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Drunk Bus
+*Released on 2021-05-21, vote average 5*
+
+A directionless, young campus bus driver and a punk rock Samoan security guard named Pineapple form an unlikely kinship as they navigate the unpredictable late shift shit show known as the &#34;drunk bus.&#34; Together, they break out of their endless loop and into a world of uncertainty, excitement and incredibly poor decision-making.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/gu1MtdMRFTs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Spirit Untamed
+*Released on 2021-05-20, vote average 8*
+
+Lucky, a gutsy 12-year-old girl longing for a place to belong, befriends a wild mustang she names Spirit. With her two best friends Abigail and Pru and their horses by her side, they explore a world filled with endless adventure, magnificent horses and never ending fun.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/t6wCykq_bLo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Sound of Violence
+*Released on 2021-05-21, vote average 3*
+
+A young girl recovers her hearing and gains synesthetic abilities during the brutal murder of her family. Finding solace in the sounds of bodily harm, as an adult, she pursues a career in music composing her masterpiece through gruesome murders.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0J3owsKWpzo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -387,22 +423,6 @@ In 1970s London amidst the punk rock revolution, a young grifter named Estella i
 	
 
 	
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
 
 	
 
@@ -425,6 +445,20 @@ Dublin teenagers Matthew, nihilistic Rez, and the deranged Kearney, leave school
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
