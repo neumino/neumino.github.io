@@ -47,7 +47,7 @@ Before he built a drug empire, Ferry Bouman returns to his hometown on a revenge
 	
 
 ### I Am All Girls
-*Released on 2021-05-14, vote average 7.1*
+*Released on 2021-05-14, vote average 7.2*
 
 A special crimes investigator forms an unlikely bond with a serial killer to bring down a global child sex trafficking syndicate.
 
@@ -90,6 +90,28 @@ Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultima
 	
 	
 
+### F9
+*Released on 2021-05-19, vote average 8*
+
+Dominic Toretto and his crew join forces to battle the most skilled assassin and high-performance driver they&#39;ve ever encountered: his forsaken brother.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/AvrW9mVE9qU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Oxygen
 *Released on 2021-05-12, vote average 6.8*
 
@@ -112,16 +134,16 @@ A woman wakes in a cryogenic chamber with no recollection of how she got there, 
 	
 	
 
-### F9
-*Released on 2021-05-19, vote average 8.4*
+### Cruella
+*Released on 2021-05-26, vote average 10*
 
-Dominic Toretto is leading a quiet life off the grid with Letty and his son, little Brian, but they know that danger always lurks just over their peaceful horizon. This time, that threat will force Dom to confront the sins of his past if he’s going to save those he loves most. His crew joins together to stop a world-shattering plot led by the most skilled assassin and high-performance driver they’ve ever encountered: a man who also happens to be Dom’s forsaken brother, Jakob.
+In 1970s London amidst the punk rock revolution, a young grifter named Estella is determined to make a name for herself with her designs. She befriends a pair of young thieves who appreciate her appetite for mischief, and together they are able to build a life for themselves on the London streets. One day, Estella’s flair for fashion catches the eye of the Baroness von Hellman, a fashion legend who is devastatingly chic and terrifyingly haute. But their relationship sets in motion a course of events and revelations that will cause Estella to embrace her wicked side and become the raucous, fashionable and revenge-bent Cruella.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/AvrW9mVE9qU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/gmRKv7n2If8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -135,7 +157,7 @@ Dominic Toretto is leading a quiet life off the grid with Letty and his son, lit
 	
 
 ### The Woman in the Window
-*Released on 2021-05-14, vote average 6.3*
+*Released on 2021-05-14, vote average 6.2*
 
 An agoraphobic woman living alone in New York begins spying on her new neighbors only to witness a disturbing act of violence.
 
@@ -156,30 +178,8 @@ An agoraphobic woman living alone in New York begins spying on her new neighbors
 	
 	
 
-### Breaking News in Yuba County
-*Released on 2021-05-20, vote average 4.3*
-
-An overlooked pencil-pusher catches her husband in bed with another woman, the shock of which causes him to die of a heart attack. So she buries his body and takes advantage of the growing celebrity status that comes from having a missing husband. But she quickly finds herself in over her head, dodging cops and criminals, all while trying to keep the truth from her sister, a local news anchor who’s desperate for a story.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ENv0B-jX3O4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### A Quiet Place Part II
-*Released on 2021-05-21, vote average 6.1*
+*Released on 2021-05-21, vote average 6.3*
 
 Following the events at home, the Abbott family now face the terrors of the outside world. Forced to venture into the unknown, they realize that the creatures that hunt by sound are not the only threats that lurk beyond the sand path.
 
@@ -210,6 +210,28 @@ Working in the shadow of an esteemed police veteran, brash Detective Ezekiel “
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/rgNlWypWmtw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Breaking News in Yuba County
+*Released on 2021-05-20, vote average 4.3*
+
+An overlooked pencil-pusher catches her husband in bed with another woman, the shock of which causes him to die of a heart attack. So she buries his body and takes advantage of the growing celebrity status that comes from having a missing husband. But she quickly finds herself in over her head, dodging cops and criminals, all while trying to keep the truth from her sister, a local news anchor who’s desperate for a story.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ENv0B-jX3O4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -266,7 +288,7 @@ A woman finds romance during a kite festival.
 ### Seance
 *Released on 2021-05-21, vote average 4.8*
 
-Camille is the new girl at the prestigious Fairfield Academy for Girls. Drawn into the mystery surrounding Kerrie, a student who died following a seance summoning the legendary Fairfield Ghost, Camille befriends Kerrie’s clique. When they invite her to their next seance, she initially believes that she is being pranked, but then the girls start being killed off one by one. The Fairfield Ghost has come to take its revenge and Camille must turn detective and solve the mystery, or suffer the same fate.
+At the prestigious Fairfield Academy, an elite boarding school for girls, six friends jokingly engage in a late night ritual, calling forth the spirit of a dead former student who reportedly haunts their halls. Before morning, one of the girls is dead, leaving the others wondering what they may have awakened.
 
 <iframe id="player"
 	type="text/html"
@@ -283,15 +305,10 @@ Camille is the new girl at the prestigious Fairfield Academy for Girls. Drawn in
 
 
 	
-
-  
-
-
-	
 	
 
 ### The Retreat
-*Released on 2021-05-21, vote average 4*
+*Released on 2021-05-21, vote average 5.1*
 
 Renee and Valerie, a couple at a cross roads in their relationship, leave the city to spend the week at a remote cabin with friends. But when they arrive, their friends are nowhere to be found. As they stumble through their relationship woes, they discover they are being hunted by a group of militant extremists who are determined to exterminate them.
 
@@ -311,9 +328,16 @@ Renee and Valerie, a couple at a cross roads in their relationship, leave the ci
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### The Djinn
-*Released on 2021-05-14, vote average 6.7*
+*Released on 2021-05-14, vote average 6.6*
 
 A mute boy is trapped in his apartment with a sinister monster when he makes a wish to fulfill his heart’s greatest desire.
 
@@ -358,11 +382,6 @@ Lucky, a gutsy 12-year-old girl longing for a place to belong, befriends a wild 
   
 
 
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -384,8 +403,6 @@ In 1970s London amidst the punk rock revolution, a young grifter named Estella i
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
@@ -412,15 +429,22 @@ An unscripted reunion special with the original cast of the hit NBC sitcom &#34;
 	
 
 	
-
 	
 
-	
+### Endangered Species
+*Released on 2021-05-27, vote average 3*
+
+Jack Halsey takes his wife, their adult kids, and a friend for a dream vacation in Kenya. But as they venture off alone into a wilderness park, their safari van is flipped over by an angry rhino, leaving them injured and desperate. Then, as two of them go in search of rescue, a bloody, vicious encounter with a leopard and a clan of hyenas incites a desperate fight for survival.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kLw87Kc46kU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-	
-
 	
 
 	
@@ -447,6 +471,8 @@ Dublin teenagers Matthew, nihilistic Rez, and the deranged Kearney, leave school
 	
 
 	
+	
+	
 
 	
 
@@ -455,7 +481,17 @@ Dublin teenagers Matthew, nihilistic Rez, and the deranged Kearney, leave school
 	
 
 	
+
 	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
