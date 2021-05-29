@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### I Am All Girls
-*Released on 2021-05-14, vote average 7.1*
+### Cruella
+*Released on 2021-05-26, vote average 7.6*
 
-A special crimes investigator forms an unlikely bond with a serial killer to bring down a global child sex trafficking syndicate.
+In 1970s London amidst the punk rock revolution, a young grifter named Estella is determined to make a name for herself with her designs. She befriends a pair of young thieves who appreciate her appetite for mischief, and together they are able to build a life for themselves on the London streets. One day, Estella’s flair for fashion catches the eye of the Baroness von Hellman, a fashion legend who is devastatingly chic and terrifyingly haute. But their relationship sets in motion a course of events and revelations that will cause Estella to embrace her wicked side and become the raucous, fashionable and revenge-bent Cruella.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/zMPS9JO0p6w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/gmRKv7n2If8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -40,72 +40,6 @@ A special crimes investigator forms an unlikely bond with a serial killer to bri
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-
-
-	
-	
-
-### Army of the Dead
-*Released on 2021-05-14, vote average 6.7*
-
-Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble: venturing into the quarantine zone to pull off the greatest heist ever attempted.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/H83kjG5RCT8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Ferry
-*Released on 2021-05-14, vote average 7.2*
-
-Before he built a drug empire, Ferry Bouman returns to his hometown on a revenge mission that finds his loyalty tested — and a love that alters his life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2Uug0zsK2CU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Cruella
-*Released on 2021-05-26, vote average 8.2*
-
-In 1970s London amidst the punk rock revolution, a young grifter named Estella is determined to make a name for herself with her designs. She befriends a pair of young thieves who appreciate her appetite for mischief, and together they are able to build a life for themselves on the London streets. One day, Estella’s flair for fashion catches the eye of the Baroness von Hellman, a fashion legend who is devastatingly chic and terrifyingly haute. But their relationship sets in motion a course of events and revelations that will cause Estella to embrace her wicked side and become the raucous, fashionable and revenge-bent Cruella.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/gmRKv7n2If8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
   
 
 
@@ -135,7 +69,7 @@ Dominic Toretto and his crew join forces to battle the most skilled assassin and
 	
 
 ### A Quiet Place Part II
-*Released on 2021-05-21, vote average 6.9*
+*Released on 2021-05-21, vote average 7.2*
 
 Following the events at home, the Abbott family now face the terrors of the outside world. Forced to venture into the unknown, they realize that the creatures that hunt by sound are not the only threats that lurk beyond the sand path.
 
@@ -154,6 +88,28 @@ Following the events at home, the Abbott family now face the terrors of the outs
 
 
 	
+	
+	
+
+  
+
+
+	
+	
+
+### High Flying Romance
+*Released on 2021-05-17, vote average 6.7*
+
+A woman finds romance during a kite festival.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/rMyWiuslfjI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -185,38 +141,16 @@ An overlooked pencil-pusher catches her husband in bed with another woman, the s
 	
 	
 
-### The Woman in the Window
-*Released on 2021-05-14, vote average 6.2*
+### Friends: The Reunion
+*Released on 2021-05-27, vote average 8.3*
 
-An agoraphobic woman living alone in New York begins spying on her new neighbors only to witness a disturbing act of violence.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/J0hTmzISOlQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### High Flying Romance
-*Released on 2021-05-17, vote average 6.7*
-
-A woman finds romance during a kite festival.
+The cast of Friends reunites for a once-in-a-lifetime celebration of the hit series, an unforgettable evening filled with iconic memories, uncontrollable laughter, happy tears, and special guests.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/rMyWiuslfjI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/MedRN92V6lE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -251,31 +185,19 @@ Paranormal investigators Ed and Lorraine Warren encounter what would become one 
 	
 	
 
-### Friends: The Reunion
-*Released on 2021-05-27, vote average 8.5*
+### Nail Bomber: Manhunt
+*Released on 2021-05-26, vote average 6.7*
 
-The cast of Friends reunites for a once-in-a-lifetime celebration of the hit series, an unforgettable evening filled with iconic memories, uncontrollable laughter, happy tears, and special guests.
+This documentary examines the 1999 London bombings that targeted Black, Bangladeshi and gay communities, and the race to find the far-right perpetrator. He terrorized a city, seeking to ignite a race war but justice was served by those who wouldn&#39;t let his hate win.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/MedRN92V6lE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/r-Bp2L4UHak?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 	
 
@@ -308,7 +230,7 @@ Jack Halsey takes his wife, their adult kids, and a friend for a dream vacation 
 	
 
 ### Baggio: The Divine Ponytail
-*Released on 2021-05-26, vote average 7.1*
+*Released on 2021-05-26, vote average 6.9*
 
 A chronicle biopic of the 22-year career of soccer star Roberto Baggio, including depictions of his difficult debut as a player, his deep rifts with some of his coaches, his triumph over injuries and personal discovery of Buddism.
 
@@ -329,30 +251,8 @@ A chronicle biopic of the 22-year career of soccer star Roberto Baggio, includin
 	
 	
 
-### Here Are the Young Men
-*Released on 2021-05-27, vote average 6*
-
-Dublin teenagers Matthew, nihilistic Rez, and the deranged Kearney, leave school to a social vacuum of drinking and drugs, falling into shocking acts of transgression.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wpNY9JcmMzI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Ghost Lab
-*Released on 2021-05-26, vote average 7*
+*Released on 2021-05-26, vote average 6*
 
 After witnessing a haunting in their hospital, two doctors become dangerously obsessed with obtaining scientific proof that ghosts exist.
 
@@ -365,6 +265,40 @@ After witnessing a haunting in their hospital, two doctors become dangerously ob
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Blue Miracle
+*Released on 2021-05-27, vote average 5.8*
+
+To save their cash-strapped orphanage, a guardian and his kids partner with a washed-up boat captain for a chance to win a lucrative fishing competition.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pXHCBnT3d4k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -393,21 +327,6 @@ Lucky, a gutsy 12-year-old girl longing for a place to belong, befriends a wild 
 
 
 	
-
-  
-
-
-
-## Opening soon
-
-
-	
-
-	
-
-	
-
-	
 	
 
 ### Riverdance: The Animated Adventure
@@ -426,7 +345,44 @@ A young Irish boy named Keegan and Spanish girl named Moya journey into a magica
 	
 	
 
+  
+
+
 	
+
+  
+
+
+	
+	
+
+### Here Are the Young Men
+*Released on 2021-05-27, vote average 6*
+
+Dublin teenagers Matthew, nihilistic Rez, and the deranged Kearney, leave school to a social vacuum of drinking and drugs, falling into shocking acts of transgression.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wpNY9JcmMzI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+
+## Opening soon
+
 
 	
 
@@ -440,6 +396,33 @@ A young Irish boy named Keegan and Spanish girl named Moya journey into a magica
 
 	
 
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### The Power
+*Released on 2021-06-03, vote average 8.5*
+
+London, 1974. As Britain prepares for electrical blackouts to sweep across the country, trainee nurse Val arrives for her first day at the crumbling East London Royal Infirmary. With most of the patients and staff evacuated to another hospital, Val is forced to work the night shift, finding herself in a dark, near empty building. Within these walls lies a deadly secret, forcing Val to face both her own traumatic past and deepest fears.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0ZfRRB8XUNM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
