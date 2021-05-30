@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Cruella
-*Released on 2021-05-26, vote average 7.6*
+*Released on 2021-05-26, vote average 8.7*
 
 In 1970s London amidst the punk rock revolution, a young grifter named Estella is determined to make a name for herself with her designs. She befriends a pair of young thieves who appreciate her appetite for mischief, and together they are able to build a life for themselves on the London streets. One day, Estella’s flair for fashion catches the eye of the Baroness von Hellman, a fashion legend who is devastatingly chic and terrifyingly haute. But their relationship sets in motion a course of events and revelations that will cause Estella to embrace her wicked side and become the raucous, fashionable and revenge-bent Cruella.
 
@@ -46,30 +46,8 @@ In 1970s London amidst the punk rock revolution, a young grifter named Estella i
 	
 	
 
-### F9
-*Released on 2021-05-19, vote average 8*
-
-Dominic Toretto and his crew join forces to battle the most skilled assassin and high-performance driver they&#39;ve ever encountered: his forsaken brother.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/AvrW9mVE9qU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### A Quiet Place Part II
-*Released on 2021-05-21, vote average 7.2*
+*Released on 2021-05-21, vote average 7.4*
 
 Following the events at home, the Abbott family now face the terrors of the outside world. Forced to venture into the unknown, they realize that the creatures that hunt by sound are not the only threats that lurk beyond the sand path.
 
@@ -88,6 +66,21 @@ Following the events at home, the Abbott family now face the terrors of the outs
 
 
 	
+	
+
+### F9
+*Released on 2021-05-19, vote average 8.1*
+
+Dominic Toretto and his crew join forces to battle the most skilled assassin and high-performance driver they&#39;ve ever encountered: his forsaken brother.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/AvrW9mVE9qU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -119,16 +112,16 @@ A woman finds romance during a kite festival.
 	
 	
 
-### Breaking News in Yuba County
-*Released on 2021-05-20, vote average 4.3*
+### Friends: The Reunion
+*Released on 2021-05-27, vote average 8.6*
 
-An overlooked pencil-pusher catches her husband in bed with another woman, the shock of which causes him to die of a heart attack. So she buries his body and takes advantage of the growing celebrity status that comes from having a missing husband. But she quickly finds herself in over her head, dodging cops and criminals, all while trying to keep the truth from her sister, a local news anchor who’s desperate for a story.
+The cast of Friends reunites for a once-in-a-lifetime celebration of the hit series, an unforgettable evening filled with iconic memories, uncontrollable laughter, happy tears, and special guests.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ENv0B-jX3O4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/MedRN92V6lE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -140,17 +133,24 @@ An overlooked pencil-pusher catches her husband in bed with another woman, the s
 
 	
 	
+	
 
-### Friends: The Reunion
-*Released on 2021-05-27, vote average 8.3*
+  
 
-The cast of Friends reunites for a once-in-a-lifetime celebration of the hit series, an unforgettable evening filled with iconic memories, uncontrollable laughter, happy tears, and special guests.
+
+	
+	
+
+### Breaking News in Yuba County
+*Released on 2021-05-20, vote average 4.3*
+
+An overlooked pencil-pusher catches her husband in bed with another woman, the shock of which causes him to die of a heart attack. So she buries his body and takes advantage of the growing celebrity status that comes from having a missing husband. But she quickly finds herself in over her head, dodging cops and criminals, all while trying to keep the truth from her sister, a local news anchor who’s desperate for a story.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/MedRN92V6lE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ENv0B-jX3O4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -207,30 +207,8 @@ This documentary examines the 1999 London bombings that targeted Black, Banglade
 	
 	
 
-### Endangered Species
-*Released on 2021-05-27, vote average 3.7*
-
-Jack Halsey takes his wife, their adult kids, and a friend for a dream vacation in Kenya. But as they venture off alone into a wilderness park, their safari van is flipped over by an angry rhino, leaving them injured and desperate. Then, as two of them go in search of rescue, a bloody, vicious encounter with a leopard and a clan of hyenas incites a desperate fight for survival.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kLw87Kc46kU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Baggio: The Divine Ponytail
-*Released on 2021-05-26, vote average 6.9*
+*Released on 2021-05-26, vote average 6.7*
 
 A chronicle biopic of the 22-year career of soccer star Roberto Baggio, including depictions of his difficult debut as a player, his deep rifts with some of his coaches, his triumph over injuries and personal discovery of Buddism.
 
@@ -274,7 +252,7 @@ After witnessing a haunting in their hospital, two doctors become dangerously ob
 	
 
 ### Blue Miracle
-*Released on 2021-05-27, vote average 5.8*
+*Released on 2021-05-27, vote average 7.7*
 
 To save their cash-strapped orphanage, a guardian and his kids partner with a washed-up boat captain for a chance to win a lucrative fishing competition.
 
@@ -283,6 +261,99 @@ To save their cash-strapped orphanage, a guardian and his kids partner with a wa
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/pXHCBnT3d4k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Endangered Species
+*Released on 2021-05-27, vote average 3.7*
+
+Jack Halsey takes his wife, their adult kids, and a friend for a dream vacation in Kenya. But as they venture off alone into a wilderness park, their safari van is flipped over by an angry rhino, leaving them injured and desperate. Then, as two of them go in search of rescue, a bloody, vicious encounter with a leopard and a clan of hyenas incites a desperate fight for survival.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kLw87Kc46kU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Riverdance: The Animated Adventure
+*Released on 2021-05-28, vote average 10*
+
+A young Irish boy named Keegan and Spanish girl named Moya journey into a magical world of the Megaloceros Giganteus who teach them to appreciate Riverdance as a celebration of life. Based on the stage show phenomenon of the same name and featuring Bill Whelan’s multi-platinum Grammy Award-winning music.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/w3hQTDusBtc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### P!nk: All I Know So Far
+*Released on 2021-05-21, vote average 9.1*
+
+A behind-the-scenes look at P!NK as she balances family and life on the road, leading up to her first Wembley Stadium performance on 2019&#39;s &#34;Beautiful Trauma&#34; world tour.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EWcuGM8zjh0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Feral State
+*Released on 2021-05-28, vote average 4*
+
+A misfit gang of runaways and orphans are taken in by a dark and charismatic father figure, who together wreak havoc throughout swamps and trailer parks of central Florida.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jDQ1NWmwoCM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -326,63 +397,13 @@ Lucky, a gutsy 12-year-old girl longing for a place to belong, befriends a wild 
   
 
 
-	
-	
-
-### Riverdance: The Animated Adventure
-*Released on 2021-05-28, vote average 10*
-
-A young Irish boy named Keegan and Spanish girl named Moya journey into a magical world of the Megaloceros Giganteus who teach them to appreciate Riverdance as a celebration of life. Based on the stage show phenomenon of the same name and featuring Bill Whelan’s multi-platinum Grammy Award-winning music.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/w3hQTDusBtc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Here Are the Young Men
-*Released on 2021-05-27, vote average 6*
-
-Dublin teenagers Matthew, nihilistic Rez, and the deranged Kearney, leave school to a social vacuum of drinking and drugs, falling into shocking acts of transgression.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wpNY9JcmMzI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
+
+	
+
+	
 
 	
 
@@ -423,10 +444,6 @@ London, 1974. As Britain prepares for electrical blackouts to sweep across the c
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
 	
 
 	
