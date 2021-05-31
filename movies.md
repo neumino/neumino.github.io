@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Cruella
-*Released on 2021-05-26, vote average 8.7*
+*Released on 2021-05-26, vote average 8.8*
 
 In 1970s London amidst the punk rock revolution, a young grifter named Estella is determined to make a name for herself with her designs. She befriends a pair of young thieves who appreciate her appetite for mischief, and together they are able to build a life for themselves on the London streets. One day, Estella’s flair for fashion catches the eye of the Baroness von Hellman, a fashion legend who is devastatingly chic and terrifyingly haute. But their relationship sets in motion a course of events and revelations that will cause Estella to embrace her wicked side and become the raucous, fashionable and revenge-bent Cruella.
 
@@ -47,7 +47,7 @@ In 1970s London amidst the punk rock revolution, a young grifter named Estella i
 	
 
 ### A Quiet Place Part II
-*Released on 2021-05-21, vote average 7.4*
+*Released on 2021-05-21, vote average 7.5*
 
 Following the events at home, the Abbott family now face the terrors of the outside world. Forced to venture into the unknown, they realize that the creatures that hunt by sound are not the only threats that lurk beyond the sand path.
 
@@ -69,7 +69,7 @@ Following the events at home, the Abbott family now face the terrors of the outs
 	
 
 ### F9
-*Released on 2021-05-19, vote average 8.1*
+*Released on 2021-05-19, vote average 8.3*
 
 Dominic Toretto and his crew join forces to battle the most skilled assassin and high-performance driver they&#39;ve ever encountered: his forsaken brother.
 
@@ -78,6 +78,28 @@ Dominic Toretto and his crew join forces to battle the most skilled assassin and
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/AvrW9mVE9qU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Friends: The Reunion
+*Released on 2021-05-27, vote average 8.6*
+
+The cast of Friends reunites for a once-in-a-lifetime celebration of the hit series, an unforgettable evening filled with iconic memories, uncontrollable laughter, happy tears, and special guests.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MedRN92V6lE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,35 +134,6 @@ A woman finds romance during a kite festival.
 	
 	
 
-### Friends: The Reunion
-*Released on 2021-05-27, vote average 8.6*
-
-The cast of Friends reunites for a once-in-a-lifetime celebration of the hit series, an unforgettable evening filled with iconic memories, uncontrollable laughter, happy tears, and special guests.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MedRN92V6lE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
 ### Breaking News in Yuba County
 *Released on 2021-05-20, vote average 4.3*
 
@@ -154,6 +147,13 @@ An overlooked pencil-pusher catches her husband in bed with another woman, the s
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -252,7 +252,7 @@ After witnessing a haunting in their hospital, two doctors become dangerously ob
 	
 
 ### Blue Miracle
-*Released on 2021-05-27, vote average 7.7*
+*Released on 2021-05-27, vote average 6.8*
 
 To save their cash-strapped orphanage, a guardian and his kids partner with a washed-up boat captain for a chance to win a lucrative fishing competition.
 
@@ -261,6 +261,33 @@ To save their cash-strapped orphanage, a guardian and his kids partner with a wa
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/pXHCBnT3d4k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### P!nk: All I Know So Far
+*Released on 2021-05-21, vote average 8.6*
+
+A behind-the-scenes look at P!NK as she balances family and life on the road, leading up to her first Wembley Stadium performance on 2019&#39;s &#34;Beautiful Trauma&#34; world tour.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EWcuGM8zjh0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -283,55 +310,6 @@ Jack Halsey takes his wife, their adult kids, and a friend for a dream vacation 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/kLw87Kc46kU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Riverdance: The Animated Adventure
-*Released on 2021-05-28, vote average 10*
-
-A young Irish boy named Keegan and Spanish girl named Moya journey into a magical world of the Megaloceros Giganteus who teach them to appreciate Riverdance as a celebration of life. Based on the stage show phenomenon of the same name and featuring Bill Whelan’s multi-platinum Grammy Award-winning music.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/w3hQTDusBtc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### P!nk: All I Know So Far
-*Released on 2021-05-21, vote average 9.1*
-
-A behind-the-scenes look at P!NK as she balances family and life on the road, leading up to her first Wembley Stadium performance on 2019&#39;s &#34;Beautiful Trauma&#34; world tour.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EWcuGM8zjh0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -365,11 +343,28 @@ A misfit gang of runaways and orphans are taken in by a dark and charismatic fat
 
 	
 	
+
+### Riverdance: The Animated Adventure
+*Released on 2021-05-28, vote average 10*
+
+A young Irish boy named Keegan and Spanish girl named Moya journey into a magical world of the Megaloceros Giganteus who teach them to appreciate Riverdance as a celebration of life. Based on the stage show phenomenon of the same name and featuring Bill Whelan’s multi-platinum Grammy Award-winning music.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/w3hQTDusBtc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
 
 
+	
+	
 	
 
   
@@ -397,11 +392,14 @@ Lucky, a gutsy 12-year-old girl longing for a place to belong, befriends a wild 
   
 
 
+	
+
+  
+
+
 
 ## Opening soon
 
-
-	
 
 	
 
@@ -444,6 +442,8 @@ London, 1974. As Britain prepares for electrical blackouts to sweep across the c
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
