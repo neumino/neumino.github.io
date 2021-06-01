@@ -91,7 +91,7 @@ Dominic Toretto and his crew join forces to battle the most skilled assassin and
 	
 
 ### Friends: The Reunion
-*Released on 2021-05-27, vote average 8.6*
+*Released on 2021-05-27, vote average 8.5*
 
 The cast of Friends reunites for a once-in-a-lifetime celebration of the hit series, an unforgettable evening filled with iconic memories, uncontrollable laughter, happy tears, and special guests.
 
@@ -100,28 +100,6 @@ The cast of Friends reunites for a once-in-a-lifetime celebration of the hit ser
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/MedRN92V6lE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### High Flying Romance
-*Released on 2021-05-17, vote average 6.7*
-
-A woman finds romance during a kite festival.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rMyWiuslfjI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -163,30 +141,8 @@ An overlooked pencil-pusher catches her husband in bed with another woman, the s
 	
 	
 
-### The Conjuring: The Devil Made Me Do It
-*Released on 2021-05-25, vote average 8.7*
-
-Paranormal investigators Ed and Lorraine Warren encounter what would become one of the most sensational cases from their files. The fight for the soul of a young boy takes them beyond anything they&#39;d ever seen before, to mark the first time in U.S. history that a murder suspect would claim demonic possession as a defense.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qc6jN1BcJi0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Nail Bomber: Manhunt
-*Released on 2021-05-26, vote average 6.7*
+*Released on 2021-05-26, vote average 7.3*
 
 This documentary examines the 1999 London bombings that targeted Black, Bangladeshi and gay communities, and the race to find the far-right perpetrator. He terrorized a city, seeking to ignite a race war but justice was served by those who wouldn&#39;t let his hate win.
 
@@ -229,8 +185,30 @@ A chronicle biopic of the 22-year career of soccer star Roberto Baggio, includin
 	
 	
 
+### The Conjuring: The Devil Made Me Do It
+*Released on 2021-05-25, vote average 8.9*
+
+Paranormal investigators Ed and Lorraine Warren encounter what would become one of the most sensational cases from their files. The fight for the soul of a young boy takes them beyond anything they&#39;d ever seen before, to mark the first time in U.S. history that a murder suspect would claim demonic possession as a defense.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qc6jN1BcJi0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Ghost Lab
-*Released on 2021-05-26, vote average 6*
+*Released on 2021-05-26, vote average 5.4*
 
 After witnessing a haunting in their hospital, two doctors become dangerously obsessed with obtaining scientific proof that ghosts exist.
 
@@ -252,7 +230,7 @@ After witnessing a haunting in their hospital, two doctors become dangerously ob
 	
 
 ### Blue Miracle
-*Released on 2021-05-27, vote average 6.8*
+*Released on 2021-05-27, vote average 6.9*
 
 To save their cash-strapped orphanage, a guardian and his kids partner with a washed-up boat captain for a chance to win a lucrative fishing competition.
 
@@ -265,11 +243,6 @@ To save their cash-strapped orphanage, a guardian and his kids partner with a wa
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -300,8 +273,30 @@ A behind-the-scenes look at P!NK as she balances family and life on the road, le
 	
 	
 
+### American Traitor: The Trial of Axis Sally
+*Released on 2021-05-28, vote average 10*
+
+The life of American woman Mildred Gillars and her lawyer, who struggles to redeem her reputation. Dubbed “Axis Sally” for broadcasting Nazi propaganda to American troops during World War II, Mildred’s story exposes the dark underbelly of the Third Reich&#39;s hate-filled propaganda machine, her eventual capture in Berlin, and subsequent trial for treason against the United States after the war.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/rDBwTEtUEa8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Endangered Species
-*Released on 2021-05-27, vote average 3.7*
+*Released on 2021-05-27, vote average 6.5*
 
 Jack Halsey takes his wife, their adult kids, and a friend for a dream vacation in Kenya. But as they venture off alone into a wilderness park, their safari van is flipped over by an angry rhino, leaving them injured and desperate. Then, as two of them go in search of rescue, a bloody, vicious encounter with a leopard and a clan of hyenas incites a desperate fight for survival.
 
@@ -310,6 +305,50 @@ Jack Halsey takes his wife, their adult kids, and a friend for a dream vacation 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/kLw87Kc46kU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Oslo
+*Released on 2021-05-29, vote average 8*
+
+The true story of negotiations between implacable enemies — the secret back-channel talks, unlikely friendships and quiet heroics of a small but committed group of Israelis, Palestinians and one Norwegian couple that led to the 1993 Oslo Peace Accords.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/UBiOmOQYCR4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Spirit Untamed
+*Released on 2021-05-20, vote average 8.8*
+
+Lucky, a gutsy 12-year-old girl longing for a place to belong, befriends a wild mustang she names Spirit. With her two best friends Abigail and Pru and their horses by her side, they explore a world filled with endless adventure, magnificent horses and never ending fun.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/t6wCykq_bLo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -342,56 +381,34 @@ A misfit gang of runaways and orphans are taken in by a dark and charismatic fat
 
 
 	
+
+  
+
+
+	
+	
 	
 
-### Riverdance: The Animated Adventure
-*Released on 2021-05-28, vote average 10*
+  
 
-A young Irish boy named Keegan and Spanish girl named Moya journey into a magical world of the Megaloceros Giganteus who teach them to appreciate Riverdance as a celebration of life. Based on the stage show phenomenon of the same name and featuring Bill Whelan’s multi-platinum Grammy Award-winning music.
+
+	
+	
+
+### Bo Burnham: Inside
+*Released on 2021-05-30, vote average 9.3*
+
+Stuck in COVID-19 lockdown, US comedian and musician Bo Burnham attempts to stay happy by writing, shooting and performing a one-man comedy special whilst going through struggles within his personal life.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/w3hQTDusBtc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Bs-GdcUfl0Q?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Spirit Untamed
-*Released on 2021-05-20, vote average 8.5*
-
-Lucky, a gutsy 12-year-old girl longing for a place to belong, befriends a wild mustang she names Spirit. With her two best friends Abigail and Pru and their horses by her side, they explore a world filled with endless adventure, magnificent horses and never ending fun.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/t6wCykq_bLo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -400,6 +417,20 @@ Lucky, a gutsy 12-year-old girl longing for a place to belong, befriends a wild 
 
 ## Opening soon
 
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
 
 	
 
@@ -442,20 +473,6 @@ London, 1974. As Britain prepares for electrical blackouts to sweep across the c
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 
