@@ -47,7 +47,7 @@ In 1970s London amidst the punk rock revolution, a young grifter named Estella i
 	
 
 ### A Quiet Place Part II
-*Released on 2021-05-21, vote average 7.5*
+*Released on 2021-05-21, vote average 7.4*
 
 Following the events at home, the Abbott family now face the terrors of the outside world. Forced to venture into the unknown, they realize that the creatures that hunt by sound are not the only threats that lurk beyond the sand path.
 
@@ -56,28 +56,6 @@ Following the events at home, the Abbott family now face the terrors of the outs
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/XEMwSdne6UE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### F9
-*Released on 2021-05-19, vote average 8.3*
-
-Dominic Toretto and his crew join forces to battle the most skilled assassin and high-performance driver they&#39;ve ever encountered: his forsaken brother.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/AvrW9mVE9qU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,16 +90,16 @@ The cast of Friends reunites for a once-in-a-lifetime celebration of the hit ser
 	
 	
 
-### Breaking News in Yuba County
-*Released on 2021-05-20, vote average 4.3*
+### F9
+*Released on 2021-05-19, vote average 8.3*
 
-An overlooked pencil-pusher catches her husband in bed with another woman, the shock of which causes him to die of a heart attack. So she buries his body and takes advantage of the growing celebrity status that comes from having a missing husband. But she quickly finds herself in over her head, dodging cops and criminals, all while trying to keep the truth from her sister, a local news anchor who’s desperate for a story.
+Dominic Toretto and his crew join forces to battle the most skilled assassin and high-performance driver they&#39;ve ever encountered: his forsaken brother.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ENv0B-jX3O4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/AvrW9mVE9qU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -133,24 +111,17 @@ An overlooked pencil-pusher catches her husband in bed with another woman, the s
 
 	
 	
-	
 
-  
+### Breaking News in Yuba County
+*Released on 2021-05-20, vote average 4.3*
 
-
-	
-	
-
-### Nail Bomber: Manhunt
-*Released on 2021-05-26, vote average 7.3*
-
-This documentary examines the 1999 London bombings that targeted Black, Bangladeshi and gay communities, and the race to find the far-right perpetrator. He terrorized a city, seeking to ignite a race war but justice was served by those who wouldn&#39;t let his hate win.
+An overlooked pencil-pusher catches her husband in bed with another woman, the shock of which causes him to die of a heart attack. So she buries his body and takes advantage of the growing celebrity status that comes from having a missing husband. But she quickly finds herself in over her head, dodging cops and criminals, all while trying to keep the truth from her sister, a local news anchor who’s desperate for a story.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/r-Bp2L4UHak?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ENv0B-jX3O4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -173,28 +144,6 @@ A chronicle biopic of the 22-year career of soccer star Roberto Baggio, includin
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/CLMEgP6Grak?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Conjuring: The Devil Made Me Do It
-*Released on 2021-05-25, vote average 8.9*
-
-Paranormal investigators Ed and Lorraine Warren encounter what would become one of the most sensational cases from their files. The fight for the soul of a young boy takes them beyond anything they&#39;d ever seen before, to mark the first time in U.S. history that a murder suspect would claim demonic possession as a defense.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qc6jN1BcJi0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -230,7 +179,7 @@ After witnessing a haunting in their hospital, two doctors become dangerously ob
 	
 
 ### Blue Miracle
-*Released on 2021-05-27, vote average 6.9*
+*Released on 2021-05-27, vote average 7.1*
 
 To save their cash-strapped orphanage, a guardian and his kids partner with a washed-up boat captain for a chance to win a lucrative fishing competition.
 
@@ -239,6 +188,28 @@ To save their cash-strapped orphanage, a guardian and his kids partner with a wa
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/pXHCBnT3d4k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Conjuring: The Devil Made Me Do It
+*Released on 2021-05-25, vote average 8.9*
+
+Paranormal investigators Ed and Lorraine Warren encounter what would become one of the most sensational cases from their files. The fight for the soul of a young boy takes them beyond anything they&#39;d ever seen before, to mark the first time in U.S. history that a murder suspect would claim demonic possession as a defense.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qc6jN1BcJi0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -273,38 +244,16 @@ A behind-the-scenes look at P!NK as she balances family and life on the road, le
 	
 	
 
-### American Traitor: The Trial of Axis Sally
-*Released on 2021-05-28, vote average 10*
+### Nail Bomber: Manhunt
+*Released on 2021-05-26, vote average 7.4*
 
-The life of American woman Mildred Gillars and her lawyer, who struggles to redeem her reputation. Dubbed “Axis Sally” for broadcasting Nazi propaganda to American troops during World War II, Mildred’s story exposes the dark underbelly of the Third Reich&#39;s hate-filled propaganda machine, her eventual capture in Berlin, and subsequent trial for treason against the United States after the war.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rDBwTEtUEa8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Endangered Species
-*Released on 2021-05-27, vote average 6.5*
-
-Jack Halsey takes his wife, their adult kids, and a friend for a dream vacation in Kenya. But as they venture off alone into a wilderness park, their safari van is flipped over by an angry rhino, leaving them injured and desperate. Then, as two of them go in search of rescue, a bloody, vicious encounter with a leopard and a clan of hyenas incites a desperate fight for survival.
+This documentary examines the 1999 London bombings that targeted Black, Bangladeshi and gay communities, and the race to find the far-right perpetrator. He terrorized a city, seeking to ignite a race war but justice was served by those who wouldn&#39;t let his hate win.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/kLw87Kc46kU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/r-Bp2L4UHak?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -339,6 +288,50 @@ The true story of negotiations between implacable enemies — the secret back-ch
 	
 	
 
+### Endangered Species
+*Released on 2021-05-27, vote average 7.9*
+
+Jack Halsey takes his wife, their adult kids, and a friend for a dream vacation in Kenya. But as they venture off alone into a wilderness park, their safari van is flipped over by an angry rhino, leaving them injured and desperate. Then, as two of them go in search of rescue, a bloody, vicious encounter with a leopard and a clan of hyenas incites a desperate fight for survival.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kLw87Kc46kU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Bo Burnham: Inside
+*Released on 2021-05-30, vote average 7.8*
+
+Stuck in COVID-19 lockdown, US comedian and musician Bo Burnham attempts to stay happy by writing, shooting and performing a one-man comedy special whilst going through struggles within his personal life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Bs-GdcUfl0Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Spirit Untamed
 *Released on 2021-05-20, vote average 8.8*
 
@@ -359,18 +352,23 @@ Lucky, a gutsy 12-year-old girl longing for a place to belong, befriends a wild 
 
 
 	
+
+  
+
+
+	
 	
 
-### Feral State
-*Released on 2021-05-28, vote average 4*
+### AEW Double or Nothing 2021
+*Released on 2021-05-30, vote average 7.2*
 
-A misfit gang of runaways and orphans are taken in by a dark and charismatic father figure, who together wreak havoc throughout swamps and trailer parks of central Florida.
+It&#39;s time to put all your chips on the table as All Elite Wrestling&#39;s third annual May spectacular is something to bet the house on as The Young Bucks defend their AEW Tag Team Championships against Jon Moxley &amp; Eddie Kingston, Dr. Britt Baker, D.M.D. challenges Hikaru Shida for her AEW Women&#39;s World Championship, Pac &amp; Orange Cassidy take on Kenny Omega for his AEW World Championship, and The Pinnacle faces off against Inner Circle in the second ever Stadium Stampede Match.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/jDQ1NWmwoCM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/mY1lTCHjcY0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -387,28 +385,26 @@ A misfit gang of runaways and orphans are taken in by a dark and charismatic fat
 
 	
 	
-	
 
-  
+### American Traitor: The Trial of Axis Sally
+*Released on 2021-05-28, vote average 10*
 
-
-	
-	
-
-### Bo Burnham: Inside
-*Released on 2021-05-30, vote average 9.3*
-
-Stuck in COVID-19 lockdown, US comedian and musician Bo Burnham attempts to stay happy by writing, shooting and performing a one-man comedy special whilst going through struggles within his personal life.
+The life of American woman Mildred Gillars and her lawyer, who struggles to redeem her reputation. Dubbed “Axis Sally” for broadcasting Nazi propaganda to American troops during World War II, Mildred’s story exposes the dark underbelly of the Third Reich&#39;s hate-filled propaganda machine, her eventual capture in Berlin, and subsequent trial for treason against the United States after the war.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Bs-GdcUfl0Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/rDBwTEtUEa8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -421,23 +417,22 @@ Stuck in COVID-19 lockdown, US comedian and musician Bo Burnham attempts to stay
 	
 
 	
-
 	
 
-	
+### Flashback
+*Released on 2021-06-03, vote average 6*
+
+Frederick Fitzell is living his best life—until he starts having horrific visions of Cindy, a girl who vanished in high school. After reaching out to old friends with whom he used to take a mystery drug called Mercury, Fredrick realizes the only way to stop the visions lies deep within his own memories, so he embarks on a terrifying mental odyssey to learn the truth.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Bum0t2CbAak?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
@@ -473,6 +468,41 @@ London, 1974. As Britain prepares for electrical blackouts to sweep across the c
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Under the Stadium Lights
+*Released on 2021-06-04, vote average 9*
+
+After a crushing defeat ended their prior season, everyone counted the Abilene Eagles out of title contention. Facing doubts and personal challenges both on and off the field, it takes the guidance of their team chaplain and a surrogate father figure for the players to realize what they can achieve when they stand united.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fw35D3QKQJE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
 	
 
 
