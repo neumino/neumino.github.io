@@ -47,7 +47,7 @@ In 1970s London amidst the punk rock revolution, a young grifter named Estella i
 	
 
 ### A Quiet Place Part II
-*Released on 2021-05-21, vote average 7.4*
+*Released on 2021-05-21, vote average 7.3*
 
 Following the events at home, the Abbott family now face the terrors of the outside world. Forced to venture into the unknown, they realize that the creatures that hunt by sound are not the only threats that lurk beyond the sand path.
 
@@ -90,50 +90,6 @@ The cast of Friends reunites for a once-in-a-lifetime celebration of the hit ser
 	
 	
 
-### F9
-*Released on 2021-05-19, vote average 8.3*
-
-Dominic Toretto and his crew join forces to battle the most skilled assassin and high-performance driver they&#39;ve ever encountered: his forsaken brother.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/AvrW9mVE9qU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Breaking News in Yuba County
-*Released on 2021-05-20, vote average 4.3*
-
-An overlooked pencil-pusher catches her husband in bed with another woman, the shock of which causes him to die of a heart attack. So she buries his body and takes advantage of the growing celebrity status that comes from having a missing husband. But she quickly finds herself in over her head, dodging cops and criminals, all while trying to keep the truth from her sister, a local news anchor who’s desperate for a story.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ENv0B-jX3O4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Baggio: The Divine Ponytail
 *Released on 2021-05-26, vote average 6.7*
 
@@ -157,7 +113,7 @@ A chronicle biopic of the 22-year career of soccer star Roberto Baggio, includin
 	
 
 ### Ghost Lab
-*Released on 2021-05-26, vote average 5.4*
+*Released on 2021-05-26, vote average 5.6*
 
 After witnessing a haunting in their hospital, two doctors become dangerously obsessed with obtaining scientific proof that ghosts exist.
 
@@ -200,8 +156,30 @@ To save their cash-strapped orphanage, a guardian and his kids partner with a wa
 	
 	
 
+### Breaking News in Yuba County
+*Released on 2021-05-20, vote average 4.3*
+
+An overlooked pencil-pusher catches her husband in bed with another woman, the shock of which causes him to die of a heart attack. So she buries his body and takes advantage of the growing celebrity status that comes from having a missing husband. But she quickly finds herself in over her head, dodging cops and criminals, all while trying to keep the truth from her sister, a local news anchor who’s desperate for a story.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ENv0B-jX3O4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Conjuring: The Devil Made Me Do It
-*Released on 2021-05-25, vote average 8.9*
+*Released on 2021-05-25, vote average 8.5*
 
 Paranormal investigators Ed and Lorraine Warren encounter what would become one of the most sensational cases from their files. The fight for the soul of a young boy takes them beyond anything they&#39;d ever seen before, to mark the first time in U.S. history that a murder suspect would claim demonic possession as a defense.
 
@@ -223,7 +201,7 @@ Paranormal investigators Ed and Lorraine Warren encounter what would become one 
 	
 
 ### P!nk: All I Know So Far
-*Released on 2021-05-21, vote average 8.6*
+*Released on 2021-05-21, vote average 8.4*
 
 A behind-the-scenes look at P!NK as she balances family and life on the road, leading up to her first Wembley Stadium performance on 2019&#39;s &#34;Beautiful Trauma&#34; world tour.
 
@@ -244,30 +222,8 @@ A behind-the-scenes look at P!NK as she balances family and life on the road, le
 	
 	
 
-### Nail Bomber: Manhunt
-*Released on 2021-05-26, vote average 7.4*
-
-This documentary examines the 1999 London bombings that targeted Black, Bangladeshi and gay communities, and the race to find the far-right perpetrator. He terrorized a city, seeking to ignite a race war but justice was served by those who wouldn&#39;t let his hate win.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/r-Bp2L4UHak?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Oslo
-*Released on 2021-05-29, vote average 8*
+*Released on 2021-05-29, vote average 7.6*
 
 The true story of negotiations between implacable enemies — the secret back-channel talks, unlikely friendships and quiet heroics of a small but committed group of Israelis, Palestinians and one Norwegian couple that led to the 1993 Oslo Peace Accords.
 
@@ -288,8 +244,30 @@ The true story of negotiations between implacable enemies — the secret back-ch
 	
 	
 
+### Nail Bomber: Manhunt
+*Released on 2021-05-26, vote average 7.1*
+
+This documentary examines the 1999 London bombings that targeted Black, Bangladeshi and gay communities, and the race to find the far-right perpetrator. He terrorized a city, seeking to ignite a race war but justice was served by those who wouldn&#39;t let his hate win.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/r-Bp2L4UHak?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Endangered Species
-*Released on 2021-05-27, vote average 7.9*
+*Released on 2021-05-27, vote average 8.1*
 
 Jack Halsey takes his wife, their adult kids, and a friend for a dream vacation in Kenya. But as they venture off alone into a wilderness park, their safari van is flipped over by an angry rhino, leaving them injured and desperate. Then, as two of them go in search of rescue, a bloody, vicious encounter with a leopard and a clan of hyenas incites a desperate fight for survival.
 
@@ -308,10 +286,15 @@ Jack Halsey takes his wife, their adult kids, and a friend for a dream vacation 
 
 
 	
+
+  
+
+
+	
 	
 
 ### Bo Burnham: Inside
-*Released on 2021-05-30, vote average 7.8*
+*Released on 2021-05-30, vote average 7.5*
 
 Stuck in COVID-19 lockdown, US comedian and musician Bo Burnham attempts to stay happy by writing, shooting and performing a one-man comedy special whilst going through struggles within his personal life.
 
@@ -352,23 +335,18 @@ Lucky, a gutsy 12-year-old girl longing for a place to belong, befriends a wild 
 
 
 	
-
-  
-
-
-	
 	
 
-### AEW Double or Nothing 2021
-*Released on 2021-05-30, vote average 7.2*
+### Flashback
+*Released on 2021-06-03, vote average 6*
 
-It&#39;s time to put all your chips on the table as All Elite Wrestling&#39;s third annual May spectacular is something to bet the house on as The Young Bucks defend their AEW Tag Team Championships against Jon Moxley &amp; Eddie Kingston, Dr. Britt Baker, D.M.D. challenges Hikaru Shida for her AEW Women&#39;s World Championship, Pac &amp; Orange Cassidy take on Kenny Omega for his AEW World Championship, and The Pinnacle faces off against Inner Circle in the second ever Stadium Stampede Match.
+Frederick Fitzell is living his best life—until he starts having horrific visions of Cindy, a girl who vanished in high school. After reaching out to old friends with whom he used to take a mystery drug called Mercury, Fredrick realizes the only way to stop the visions lies deep within his own memories, so he embarks on a terrifying mental odyssey to learn the truth.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/mY1lTCHjcY0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Bum0t2CbAak?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -379,15 +357,10 @@ It&#39;s time to put all your chips on the table as All Elite Wrestling&#39;s th
 
 
 	
-
-  
-
-
-	
 	
 
 ### American Traitor: The Trial of Axis Sally
-*Released on 2021-05-28, vote average 10*
+*Released on 2021-05-28, vote average 7.5*
 
 The life of American woman Mildred Gillars and her lawyer, who struggles to redeem her reputation. Dubbed “Axis Sally” for broadcasting Nazi propaganda to American troops during World War II, Mildred’s story exposes the dark underbelly of the Third Reich&#39;s hate-filled propaganda machine, her eventual capture in Berlin, and subsequent trial for treason against the United States after the war.
 
@@ -410,9 +383,38 @@ The life of American woman Mildred Gillars and her lawyer, who struggles to rede
   
 
 
+	
+
+  
+
+
+	
+	
+
+### Potter&#39;s Ground
+*Released on 2021-06-01, vote average 1*
+
+A former Confederate marauder tries to make a clean start on a Texas dirt farm with his wife and young daughter. He quickly learns that sometimes the past just won&#39;t stay buried.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/tKwJxzpLTUA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 
 ## Opening soon
 
+
+	
 
 	
 
@@ -433,22 +435,6 @@ Frederick Fitzell is living his best life—until he starts having horrific visi
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
@@ -477,16 +463,10 @@ London, 1974. As Britain prepares for electrical blackouts to sweep across the c
 	
 
 	
-
-	
-
-	
-
-	
 	
 
 ### Under the Stadium Lights
-*Released on 2021-06-04, vote average 9*
+*Released on 2021-06-04, vote average 8*
 
 After a crushing defeat ended their prior season, everyone counted the Abilene Eagles out of title contention. Facing doubts and personal challenges both on and off the field, it takes the guidance of their team chaplain and a surrogate father figure for the players to realize what they can achieve when they stand united.
 
@@ -503,6 +483,28 @@ After a crushing defeat ended their prior season, everyone counted the Abilene E
 
 	
 
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
 	
 
 
