@@ -47,7 +47,7 @@ In 1970s London amidst the punk rock revolution, a young grifter named Estella i
 	
 
 ### Friends: The Reunion
-*Released on 2021-05-27, vote average 8.6*
+*Released on 2021-05-27, vote average 8.5*
 
 The cast of Friends reunites for a once-in-a-lifetime celebration of the hit series, an unforgettable evening filled with iconic memories, uncontrollable laughter, happy tears, and special guests.
 
@@ -90,30 +90,8 @@ After witnessing a haunting in their hospital, two doctors become dangerously ob
 	
 	
 
-### Blue Miracle
-*Released on 2021-05-27, vote average 7.5*
-
-To save their cash-strapped orphanage, a guardian and his kids partner with a washed-up boat captain for a chance to win a lucrative fishing competition.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pXHCBnT3d4k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Conjuring: The Devil Made Me Do It
-*Released on 2021-05-25, vote average 7.8*
+*Released on 2021-05-25, vote average 8.5*
 
 Paranormal investigators Ed and Lorraine Warren encounter what would become one of the most sensational cases from their files. The fight for the soul of a young boy takes them beyond anything they&#39;d ever seen before, to mark the first time in U.S. history that a murder suspect would claim demonic possession as a defense.
 
@@ -134,16 +112,16 @@ Paranormal investigators Ed and Lorraine Warren encounter what would become one 
 	
 	
 
-### Baggio: The Divine Ponytail
-*Released on 2021-05-26, vote average 6.7*
+### Blue Miracle
+*Released on 2021-05-27, vote average 7.4*
 
-A chronicle biopic of the 22-year career of soccer star Roberto Baggio, including depictions of his difficult debut as a player, his deep rifts with some of his coaches, his triumph over injuries and personal discovery of Buddism.
+To save their cash-strapped orphanage, a guardian and his kids partner with a washed-up boat captain for a chance to win a lucrative fishing competition.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/CLMEgP6Grak?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/pXHCBnT3d4k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -178,6 +156,28 @@ The true story of negotiations between implacable enemies — the secret back-ch
 	
 	
 
+### Baggio: The Divine Ponytail
+*Released on 2021-05-26, vote average 6.7*
+
+A chronicle biopic of the 22-year career of soccer star Roberto Baggio, including depictions of his difficult debut as a player, his deep rifts with some of his coaches, his triumph over injuries and personal discovery of Buddism.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/CLMEgP6Grak?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Endangered Species
 *Released on 2021-05-27, vote average 7.7*
 
@@ -188,6 +188,57 @@ Jack Halsey takes his wife, their adult kids, and a friend for a dream vacation 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/kLw87Kc46kU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Flashback
+*Released on 2021-06-03, vote average 6.1*
+
+Frederick Fitzell is living his best life—until he starts having horrific visions of Cindy, a girl who vanished in high school. After reaching out to old friends with whom he used to take a mystery drug called Mercury, Fredrick realizes the only way to stop the visions lies deep within his own memories, so he embarks on a terrifying mental odyssey to learn the truth.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Bum0t2CbAak?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Carnaval
+*Released on 2021-06-02, vote average 4.5*
+
+After a breakup, an influencer takes her friends on a free trip to Bahia&#39;s vibrant Carnival, where she learns life&#39;s not just about social media likes.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pPkuQ1_wpck?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -220,28 +271,18 @@ This documentary examines the 1999 London bombings that targeted Black, Banglade
 
 
 	
-
-  
-
-
 	
 
-  
+### Dancing Queens
+*Released on 2021-06-03, vote average 5.5*
 
-
-	
-	
-
-### Flashback
-*Released on 2021-06-03, vote average 6*
-
-Frederick Fitzell is living his best life—until he starts having horrific visions of Cindy, a girl who vanished in high school. After reaching out to old friends with whom he used to take a mystery drug called Mercury, Fredrick realizes the only way to stop the visions lies deep within his own memories, so he embarks on a terrifying mental odyssey to learn the truth.
+The story of Dylan Pettersson, a 23 year old girl from a small island in the Swedish archipelago with big dancing aspirations.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Bum0t2CbAak?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/_lVmgf6vT-w?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -252,8 +293,6 @@ Frederick Fitzell is living his best life—until he starts having horrific visi
 
 
 	
-	
-	
 
   
 
@@ -261,16 +300,16 @@ Frederick Fitzell is living his best life—until he starts having horrific visi
 	
 	
 
-### Carnaval
-*Released on 2021-06-02, vote average 4.4*
+### Xtreme
+*Released on 2021-06-04, vote average 7*
 
-After a breakup, an influencer takes her friends on a free trip to Bahia&#39;s vibrant Carnival, where she learns life&#39;s not just about social media likes.
+Two years after the murder of his son and father, a retired hitman sets in motion a carefully crafted revenge plan against the killer: his own brother.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/pPkuQ1_wpck?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/X2O1OW6i820?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -281,18 +320,23 @@ After a breakup, an influencer takes her friends on a free trip to Bahia&#39;s v
 
 
 	
+
+  
+
+
+	
 	
 
-### Saltwater: The Battle for Ramree Island
-*Released on 2021-06-01, vote average 4*
+### Sweet &amp; Sour
+*Released on 2021-06-04, vote average 5*
 
-During the last desperate months of World War II, an Allied mission to regain Ramree Island off the coast of Burma ends in horror when an embattled group of soldiers find themselves trapped in dense swampland infested with deadly saltwater crocodiles. As the men are picked off one by one by the hungry reptiles, those that remain resort to increasingly desperate measures to survive the onslaught of carnage and get off the island alive.
+Faced with real-world opportunities and challenges, a couple endures the highs and lows of trying to make a long-distance relationship survive.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/jzXdTyGl6Ms?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/hZORUEZd_pg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -330,33 +374,6 @@ After a crushing defeat ended their prior season, everyone counted the Abilene E
 
 
 	
-	
-
-### Bo Burnham: Inside
-*Released on 2021-05-30, vote average 7.9*
-
-Stuck in COVID-19 lockdown, US comedian and musician Bo Burnham attempts to stay happy by writing, shooting and performing a one-man comedy special whilst going through struggles within his personal life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Bs-GdcUfl0Q?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 
   
 
@@ -369,23 +386,6 @@ Stuck in COVID-19 lockdown, US comedian and musician Bo Burnham attempts to stay
 
 	
 
-	
-	
-
-### The Forgotten Battle
-*Released on 2021-06-05, vote average 6*
-
-November 1944. On the flooded isle of Walcheren, Zeeland, thousands of Allied soldiers are battling the German army. Three young lives become inextricably connected. A Dutch boy fighting for the Germans, an English glider pilot and a girl from Zeeland connected to the resistance against her will, are forced to make crucial choices that impact both their own freedom and the freedom of others.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EkdG_8OxRtg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
