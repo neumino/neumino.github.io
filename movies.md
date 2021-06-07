@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Cruella
-*Released on 2021-05-26, vote average 8.8*
+*Released on 2021-05-26, vote average 8.7*
 
 In 1970s London amidst the punk rock revolution, a young grifter named Estella is determined to make a name for herself with her designs. She befriends a pair of young thieves who appreciate her appetite for mischief, and together they are able to build a life for themselves on the London streets. One day, Estella’s flair for fashion catches the eye of the Baroness von Hellman, a fashion legend who is devastatingly chic and terrifyingly haute. But their relationship sets in motion a course of events and revelations that will cause Estella to embrace her wicked side and become the raucous, fashionable and revenge-bent Cruella.
 
@@ -47,7 +47,7 @@ In 1970s London amidst the punk rock revolution, a young grifter named Estella i
 	
 
 ### Friends: The Reunion
-*Released on 2021-05-27, vote average 8.5*
+*Released on 2021-05-27, vote average 8.6*
 
 The cast of Friends reunites for a once-in-a-lifetime celebration of the hit series, an unforgettable evening filled with iconic memories, uncontrollable laughter, happy tears, and special guests.
 
@@ -69,7 +69,7 @@ The cast of Friends reunites for a once-in-a-lifetime celebration of the hit ser
 	
 
 ### Ghost Lab
-*Released on 2021-05-26, vote average 6.1*
+*Released on 2021-05-26, vote average 5.6*
 
 After witnessing a haunting in their hospital, two doctors become dangerously obsessed with obtaining scientific proof that ghosts exist.
 
@@ -113,7 +113,7 @@ Paranormal investigators Ed and Lorraine Warren encounter what would become one 
 	
 
 ### Blue Miracle
-*Released on 2021-05-27, vote average 7.4*
+*Released on 2021-05-27, vote average 7.5*
 
 To save their cash-strapped orphanage, a guardian and his kids partner with a washed-up boat captain for a chance to win a lucrative fishing competition.
 
@@ -156,28 +156,6 @@ The true story of negotiations between implacable enemies — the secret back-ch
 	
 	
 
-### Baggio: The Divine Ponytail
-*Released on 2021-05-26, vote average 6.7*
-
-A chronicle biopic of the 22-year career of soccer star Roberto Baggio, including depictions of his difficult debut as a player, his deep rifts with some of his coaches, his triumph over injuries and personal discovery of Buddism.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/CLMEgP6Grak?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Endangered Species
 *Released on 2021-05-27, vote average 7.7*
 
@@ -200,8 +178,30 @@ Jack Halsey takes his wife, their adult kids, and a friend for a dream vacation 
 	
 	
 
+### Baggio: The Divine Ponytail
+*Released on 2021-05-26, vote average 6.7*
+
+A chronicle biopic of the 22-year career of soccer star Roberto Baggio, including depictions of his difficult debut as a player, his deep rifts with some of his coaches, his triumph over injuries and personal discovery of Buddism.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/CLMEgP6Grak?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Flashback
-*Released on 2021-06-03, vote average 6.1*
+*Released on 2021-06-03, vote average 6.5*
 
 Frederick Fitzell is living his best life—until he starts having horrific visions of Cindy, a girl who vanished in high school. After reaching out to old friends with whom he used to take a mystery drug called Mercury, Fredrick realizes the only way to stop the visions lies deep within his own memories, so he embarks on a terrifying mental odyssey to learn the truth.
 
@@ -230,7 +230,7 @@ Frederick Fitzell is living his best life—until he starts having horrific visi
 	
 
 ### Carnaval
-*Released on 2021-06-02, vote average 4.5*
+*Released on 2021-06-02, vote average 4.7*
 
 After a breakup, an influencer takes her friends on a free trip to Bahia&#39;s vibrant Carnival, where she learns life&#39;s not just about social media likes.
 
@@ -274,7 +274,7 @@ This documentary examines the 1999 London bombings that targeted Black, Banglade
 	
 
 ### Dancing Queens
-*Released on 2021-06-03, vote average 5.5*
+*Released on 2021-06-03, vote average 7*
 
 The story of Dylan Pettersson, a 23 year old girl from a small island in the Swedish archipelago with big dancing aspirations.
 
@@ -282,7 +282,7 @@ The story of Dylan Pettersson, a 23 year old girl from a small island in the Swe
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/_lVmgf6vT-w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/RV_ikl5tEU0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -293,15 +293,10 @@ The story of Dylan Pettersson, a 23 year old girl from a small island in the Swe
 
 
 	
-
-  
-
-
-	
 	
 
 ### Xtreme
-*Released on 2021-06-04, vote average 7*
+*Released on 2021-06-04, vote average 5.8*
 
 Two years after the murder of his son and father, a retired hitman sets in motion a carefully crafted revenge plan against the killer: his own brother.
 
@@ -320,15 +315,10 @@ Two years after the murder of his son and father, a retired hitman sets in motio
 
 
 	
-
-  
-
-
-	
 	
 
 ### Sweet &amp; Sour
-*Released on 2021-06-04, vote average 5*
+*Released on 2021-06-04, vote average 6.5*
 
 Faced with real-world opportunities and challenges, a couple endures the highs and lows of trying to make a long-distance relationship survive.
 
@@ -347,27 +337,37 @@ Faced with real-world opportunities and challenges, a couple endures the highs a
 
 
 	
-
-  
-
-
-	
 	
 
-### Under the Stadium Lights
+### Breaking Boundaries: The Science of Our Planet
 *Released on 2021-06-04, vote average 8*
 
-After a crushing defeat ended their prior season, everyone counted the Abilene Eagles out of title contention. Facing doubts and personal challenges both on and off the field, it takes the guidance of their team chaplain and a surrogate father figure for the players to realize what they can achieve when they stand united.
+David Attenborough and scientist Johan Rockström examine Earth&#39;s biodiversity collapse and how this crisis can still be averted.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/fw35D3QKQJE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Gb6wQtNjblk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -385,7 +385,22 @@ After a crushing defeat ended their prior season, everyone counted the Abilene E
 	
 
 	
+	
 
+### In The Heights
+*Released on 2021-06-10, vote average 10*
+
+The story of Usnavi, a bodega owner who has mixed feelings about closing his store and retiring to the Dominican Republic after inheriting his grandmother&#39;s fortune.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/U0CL-ZSuCrQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -394,6 +409,10 @@ After a crushing defeat ended their prior season, everyone counted the Abilene E
 
 	
 
+	
+
+	
+	
 	
 
 	
