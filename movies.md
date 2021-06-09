@@ -47,7 +47,7 @@ In 1970s London amidst the punk rock revolution, a young grifter named Estella i
 	
 
 ### Ghost Lab
-*Released on 2021-05-26, vote average 5.6*
+*Released on 2021-05-26, vote average 6*
 
 After witnessing a haunting in their hospital, two doctors become dangerously obsessed with obtaining scientific proof that ghosts exist.
 
@@ -90,16 +90,16 @@ The cast of Friends reunites for a once-in-a-lifetime celebration of the hit ser
 	
 	
 
-### The Conjuring: The Devil Made Me Do It
-*Released on 2021-05-25, vote average 8.5*
+### Endangered Species
+*Released on 2021-05-27, vote average 7.5*
 
-Paranormal investigators Ed and Lorraine Warren encounter what would become one of the most sensational cases from their files. The fight for the soul of a young boy takes them beyond anything they&#39;d ever seen before, to mark the first time in U.S. history that a murder suspect would claim demonic possession as a defense.
+Jack Halsey takes his wife, their adult kids, and a friend for a dream vacation in Kenya. But as they venture off alone into a wilderness park, their safari van is flipped over by an angry rhino, leaving them injured and desperate. Then, as two of them go in search of rescue, a bloody, vicious encounter with a leopard and a clan of hyenas incites a desperate fight for survival.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/qc6jN1BcJi0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/kLw87Kc46kU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -156,28 +156,6 @@ The true story of negotiations between implacable enemies — the secret back-ch
 	
 	
 
-### Endangered Species
-*Released on 2021-05-27, vote average 7.4*
-
-Jack Halsey takes his wife, their adult kids, and a friend for a dream vacation in Kenya. But as they venture off alone into a wilderness park, their safari van is flipped over by an angry rhino, leaving them injured and desperate. Then, as two of them go in search of rescue, a bloody, vicious encounter with a leopard and a clan of hyenas incites a desperate fight for survival.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kLw87Kc46kU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Baggio: The Divine Ponytail
 *Released on 2021-05-26, vote average 6.7*
 
@@ -188,28 +166,6 @@ A chronicle biopic of the 22-year career of soccer star Roberto Baggio, includin
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/CLMEgP6Grak?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Flashback
-*Released on 2021-06-03, vote average 6.8*
-
-Frederick Fitzell is living his best life—until he starts having horrific visions of Cindy, a girl who vanished in high school. After reaching out to old friends with whom he used to take a mystery drug called Mercury, Fredrick realizes the only way to stop the visions lies deep within his own memories, so he embarks on a terrifying mental odyssey to learn the truth.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Bum0t2CbAak?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -252,7 +208,7 @@ After a breakup, an influencer takes her friends on a free trip to Bahia&#39;s v
 	
 
 ### Dancing Queens
-*Released on 2021-06-03, vote average 6.8*
+*Released on 2021-06-03, vote average 7.1*
 
 The story of Dylan Pettersson, a 23 year old girl from a small island in the Swedish archipelago with big dancing aspirations.
 
@@ -274,7 +230,7 @@ The story of Dylan Pettersson, a 23 year old girl from a small island in the Swe
 	
 
 ### Xtreme
-*Released on 2021-06-04, vote average 6.3*
+*Released on 2021-06-04, vote average 6.5*
 
 Two years after the murder of his son and father, a retired hitman sets in motion a carefully crafted revenge plan against the killer: his own brother.
 
@@ -287,6 +243,33 @@ Two years after the murder of his son and father, a retired hitman sets in motio
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Flashback
+*Released on 2021-06-03, vote average 6.7*
+
+Frederick Fitzell is living his best life—until he starts having horrific visions of Cindy, a girl who vanished in high school. After reaching out to old friends with whom he used to take a mystery drug called Mercury, Fredrick realizes the only way to stop the visions lies deep within his own memories, so he embarks on a terrifying mental odyssey to learn the truth.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Bum0t2CbAak?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -337,6 +320,28 @@ Faced with real-world opportunities and challenges, a couple endures the highs a
 
 
 	
+	
+
+### Trippin’ with the Kandasamys
+*Released on 2021-06-04, vote average 8*
+
+To rekindle their marriages, best friends-turned-in-laws Shanthi and Jennifer plan a couples&#39; getaway. But it comes with all kinds of surprises.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0bCtBvyv1eA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 
   
 
@@ -373,11 +378,6 @@ David Attenborough and scientist Johan Rockström examine Earth&#39;s biodiversi
   
 
 
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -386,7 +386,7 @@ David Attenborough and scientist Johan Rockström examine Earth&#39;s biodiversi
 	
 
 ### Hitman&#39;s Wife&#39;s Bodyguard
-*Released on 2021-06-10, vote average 10*
+*Released on 2021-06-10, vote average 9.5*
 
 The world’s most lethal odd couple – bodyguard Michael Bryce and hitman Darius Kincaid – are back on another life-threatening mission. Still unlicensed and under scrutiny, Bryce is forced into action by Darius&#39;s even more volatile wife, the infamous international con artist Sonia Kincaid. As Bryce is driven over the edge by his two most dangerous protectees, the trio get in over their heads in a global plot and soon find that they are all that stand between Europe and a vengeful and powerful madman.
 
@@ -405,7 +405,7 @@ The world’s most lethal odd couple – bodyguard Michael Bryce and hitman Dari
 	
 
 ### In The Heights
-*Released on 2021-06-10, vote average 10*
+*Released on 2021-06-10, vote average 9.3*
 
 The story of Usnavi, a bodega owner who has mixed feelings about closing his store and retiring to the Dominican Republic after inheriting his grandmother&#39;s fortune.
 
