@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Cruella
-*Released on 2021-05-26, vote average 8.7*
+### Endangered Species
+*Released on 2021-05-27, vote average 7.5*
 
-In 1970s London amidst the punk rock revolution, a young grifter named Estella is determined to make a name for herself with her designs. She befriends a pair of young thieves who appreciate her appetite for mischief, and together they are able to build a life for themselves on the London streets. One day, Estella’s flair for fashion catches the eye of the Baroness von Hellman, a fashion legend who is devastatingly chic and terrifyingly haute. But their relationship sets in motion a course of events and revelations that will cause Estella to embrace her wicked side and become the raucous, fashionable and revenge-bent Cruella.
+Jack Halsey takes his wife, their adult kids, and a friend for a dream vacation in Kenya. But as they venture off alone into a wilderness park, their safari van is flipped over by an angry rhino, leaving them injured and desperate. Then, as two of them go in search of rescue, a bloody, vicious encounter with a leopard and a clan of hyenas incites a desperate fight for survival.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/gmRKv7n2If8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/kLw87Kc46kU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,30 +46,8 @@ In 1970s London amidst the punk rock revolution, a young grifter named Estella i
 	
 	
 
-### Ghost Lab
-*Released on 2021-05-26, vote average 6*
-
-After witnessing a haunting in their hospital, two doctors become dangerously obsessed with obtaining scientific proof that ghosts exist.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jysnSG_pSQU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Friends: The Reunion
-*Released on 2021-05-27, vote average 8.6*
+*Released on 2021-05-27, vote average 8.5*
 
 The cast of Friends reunites for a once-in-a-lifetime celebration of the hit series, an unforgettable evening filled with iconic memories, uncontrollable laughter, happy tears, and special guests.
 
@@ -78,28 +56,6 @@ The cast of Friends reunites for a once-in-a-lifetime celebration of the hit ser
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/MedRN92V6lE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Endangered Species
-*Released on 2021-05-27, vote average 7.5*
-
-Jack Halsey takes his wife, their adult kids, and a friend for a dream vacation in Kenya. But as they venture off alone into a wilderness park, their safari van is flipped over by an angry rhino, leaving them injured and desperate. Then, as two of them go in search of rescue, a bloody, vicious encounter with a leopard and a clan of hyenas incites a desperate fight for survival.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kLw87Kc46kU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,6 +90,28 @@ To save their cash-strapped orphanage, a guardian and his kids partner with a wa
 	
 	
 
+### Carnaval
+*Released on 2021-06-02, vote average 4.9*
+
+After a breakup, an influencer takes her friends on a free trip to Bahia&#39;s vibrant Carnival, where she learns life&#39;s not just about social media likes.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pPkuQ1_wpck?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Oslo
 *Released on 2021-05-29, vote average 7.7*
 
@@ -156,59 +134,8 @@ The true story of negotiations between implacable enemies — the secret back-ch
 	
 	
 
-### Baggio: The Divine Ponytail
-*Released on 2021-05-26, vote average 6.7*
-
-A chronicle biopic of the 22-year career of soccer star Roberto Baggio, including depictions of his difficult debut as a player, his deep rifts with some of his coaches, his triumph over injuries and personal discovery of Buddism.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/CLMEgP6Grak?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Carnaval
-*Released on 2021-06-02, vote average 4.8*
-
-After a breakup, an influencer takes her friends on a free trip to Bahia&#39;s vibrant Carnival, where she learns life&#39;s not just about social media likes.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pPkuQ1_wpck?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Dancing Queens
-*Released on 2021-06-03, vote average 7.1*
+*Released on 2021-06-03, vote average 6.9*
 
 The story of Dylan Pettersson, a 23 year old girl from a small island in the Swedish archipelago with big dancing aspirations.
 
@@ -228,9 +155,16 @@ The story of Dylan Pettersson, a 23 year old girl from a small island in the Swe
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Xtreme
-*Released on 2021-06-04, vote average 6.5*
+*Released on 2021-06-04, vote average 6.7*
 
 Two years after the murder of his son and father, a retired hitman sets in motion a carefully crafted revenge plan against the killer: his own brother.
 
@@ -252,7 +186,7 @@ Two years after the murder of his son and father, a retired hitman sets in motio
 	
 
 ### Flashback
-*Released on 2021-06-03, vote average 6.7*
+*Released on 2021-06-03, vote average 6.5*
 
 Frederick Fitzell is living his best life—until he starts having horrific visions of Cindy, a girl who vanished in high school. After reaching out to old friends with whom he used to take a mystery drug called Mercury, Fredrick realizes the only way to stop the visions lies deep within his own memories, so he embarks on a terrifying mental odyssey to learn the truth.
 
@@ -271,6 +205,28 @@ Frederick Fitzell is living his best life—until he starts having horrific visi
 
 
 	
+	
+
+### Hitman&#39;s Wife&#39;s Bodyguard
+*Released on 2021-06-10, vote average 9.5*
+
+The world’s most lethal odd couple – bodyguard Michael Bryce and hitman Darius Kincaid – are back on another life-threatening mission. Still unlicensed and under scrutiny, Bryce is forced into action by Darius&#39;s even more volatile wife, the infamous international con artist Sonia Kincaid. As Bryce is driven over the edge by his two most dangerous protectees, the trio get in over their heads in a global plot and soon find that they are all that stand between Europe and a vengeful and powerful madman.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/cPBGtKnNFuU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 
   
 
@@ -278,16 +234,60 @@ Frederick Fitzell is living his best life—until he starts having horrific visi
 	
 	
 
-### Nail Bomber: Manhunt
-*Released on 2021-05-26, vote average 7.2*
+### In The Heights
+*Released on 2021-06-10, vote average 9.3*
 
-This documentary examines the 1999 London bombings that targeted Black, Bangladeshi and gay communities, and the race to find the far-right perpetrator. He terrorized a city, seeking to ignite a race war but justice was served by those who wouldn&#39;t let his hate win.
+The story of Usnavi, a bodega owner who has mixed feelings about closing his store and retiring to the Dominican Republic or staying in Washington Heights.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/r-Bp2L4UHak?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/U0CL-ZSuCrQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Trippin’ with the Kandasamys
+*Released on 2021-06-04, vote average 7.3*
+
+To rekindle their marriages, best friends-turned-in-laws Shanthi and Jennifer plan a couples&#39; getaway. But it comes with all kinds of surprises.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0bCtBvyv1eA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Awake
+*Released on 2021-06-09, vote average 6*
+
+After a sudden global event wipes out all electronics and takes away humankind’s ability to sleep, chaos quickly begins to consume the world. Only Jill, an ex-soldier with a troubled past, may hold the key to a cure in the form of her own daughter. The question is, can Jill safely deliver her daughter and save the world before she herself loses her mind.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2fuowcxdrYc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -301,7 +301,7 @@ This documentary examines the 1999 London bombings that targeted Black, Banglade
 	
 
 ### Sweet &amp; Sour
-*Released on 2021-06-04, vote average 6.3*
+*Released on 2021-06-04, vote average 6.1*
 
 Faced with real-world opportunities and challenges, a couple endures the highs and lows of trying to make a long-distance relationship survive.
 
@@ -319,23 +319,6 @@ Faced with real-world opportunities and challenges, a couple endures the highs a
   
 
 
-	
-	
-
-### Trippin’ with the Kandasamys
-*Released on 2021-06-04, vote average 8*
-
-To rekindle their marriages, best friends-turned-in-laws Shanthi and Jennifer plan a couples&#39; getaway. But it comes with all kinds of surprises.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0bCtBvyv1eA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -383,6 +366,8 @@ David Attenborough and scientist Johan Rockström examine Earth&#39;s biodiversi
 
 
 	
+
+	
 	
 
 ### Hitman&#39;s Wife&#39;s Bodyguard
@@ -407,7 +392,7 @@ The world’s most lethal odd couple – bodyguard Michael Bryce and hitman Dari
 ### In The Heights
 *Released on 2021-06-10, vote average 9.3*
 
-The story of Usnavi, a bodega owner who has mixed feelings about closing his store and retiring to the Dominican Republic after inheriting his grandmother&#39;s fortune.
+The story of Usnavi, a bodega owner who has mixed feelings about closing his store and retiring to the Dominican Republic or staying in Washington Heights.
 
 <iframe id="player"
 	type="text/html"
@@ -418,8 +403,6 @@ The story of Usnavi, a bodega owner who has mixed feelings about closing his sto
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
