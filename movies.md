@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Endangered Species
-*Released on 2021-05-27, vote average 7.5*
+### Carnaval
+*Released on 2021-06-02, vote average 5*
 
-Jack Halsey takes his wife, their adult kids, and a friend for a dream vacation in Kenya. But as they venture off alone into a wilderness park, their safari van is flipped over by an angry rhino, leaving them injured and desperate. Then, as two of them go in search of rescue, a bloody, vicious encounter with a leopard and a clan of hyenas incites a desperate fight for survival.
+After a breakup, an influencer takes her friends on a free trip to Bahia&#39;s vibrant Carnival, where she learns life&#39;s not just about social media likes.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/kLw87Kc46kU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/pPkuQ1_wpck?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ Jack Halsey takes his wife, their adult kids, and a friend for a dream vacation 
 	
 	
 
-### Friends: The Reunion
-*Released on 2021-05-27, vote average 8.5*
+### Dancing Queens
+*Released on 2021-06-03, vote average 7*
 
-The cast of Friends reunites for a once-in-a-lifetime celebration of the hit series, an unforgettable evening filled with iconic memories, uncontrollable laughter, happy tears, and special guests.
+The story of Dylan Pettersson, a 23 year old girl from a small island in the Swedish archipelago with big dancing aspirations.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/MedRN92V6lE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/RV_ikl5tEU0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,38 +68,16 @@ The cast of Friends reunites for a once-in-a-lifetime celebration of the hit ser
 	
 	
 
-### Blue Miracle
-*Released on 2021-05-27, vote average 7.6*
+### Xtreme
+*Released on 2021-06-04, vote average 7.2*
 
-To save their cash-strapped orphanage, a guardian and his kids partner with a washed-up boat captain for a chance to win a lucrative fishing competition.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pXHCBnT3d4k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Carnaval
-*Released on 2021-06-02, vote average 4.9*
-
-After a breakup, an influencer takes her friends on a free trip to Bahia&#39;s vibrant Carnival, where she learns life&#39;s not just about social media likes.
+Two years after the murder of his son and father, a retired hitman sets in motion a carefully crafted revenge plan against the killer: his own brother.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/pPkuQ1_wpck?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/X2O1OW6i820?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,79 +112,6 @@ The true story of negotiations between implacable enemies — the secret back-ch
 	
 	
 
-### Dancing Queens
-*Released on 2021-06-03, vote average 6.9*
-
-The story of Dylan Pettersson, a 23 year old girl from a small island in the Swedish archipelago with big dancing aspirations.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/RV_ikl5tEU0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Xtreme
-*Released on 2021-06-04, vote average 6.7*
-
-Two years after the murder of his son and father, a retired hitman sets in motion a carefully crafted revenge plan against the killer: his own brother.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/X2O1OW6i820?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Flashback
-*Released on 2021-06-03, vote average 6.5*
-
-Frederick Fitzell is living his best life—until he starts having horrific visions of Cindy, a girl who vanished in high school. After reaching out to old friends with whom he used to take a mystery drug called Mercury, Fredrick realizes the only way to stop the visions lies deep within his own memories, so he embarks on a terrifying mental odyssey to learn the truth.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Bum0t2CbAak?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Hitman&#39;s Wife&#39;s Bodyguard
 *Released on 2021-06-10, vote average 9.5*
 
@@ -226,6 +131,28 @@ The world’s most lethal odd couple – bodyguard Michael Bryce and hitman Dari
   
 
 
+	
+
+  
+
+
+	
+	
+
+### Flashback
+*Released on 2021-06-03, vote average 6.6*
+
+Frederick Fitzell is living his best life—until he starts having horrific visions of Cindy, a girl who vanished in high school. After reaching out to old friends with whom he used to take a mystery drug called Mercury, Fredrick realizes the only way to stop the visions lies deep within his own memories, so he embarks on a terrifying mental odyssey to learn the truth.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Bum0t2CbAak?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -279,7 +206,7 @@ To rekindle their marriages, best friends-turned-in-laws Shanthi and Jennifer pl
 	
 
 ### Awake
-*Released on 2021-06-09, vote average 6*
+*Released on 2021-06-09, vote average 5.7*
 
 After a sudden global event wipes out all electronics and takes away humankind’s ability to sleep, chaos quickly begins to consume the world. Only Jill, an ex-soldier with a troubled past, may hold the key to a cure in the form of her own daughter. The question is, can Jill safely deliver her daughter and save the world before she herself loses her mind.
 
@@ -292,43 +219,6 @@ After a sudden global event wipes out all electronics and takes away humankind�
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### Sweet &amp; Sour
-*Released on 2021-06-04, vote average 6.1*
-
-Faced with real-world opportunities and challenges, a couple endures the highs and lows of trying to make a long-distance relationship survive.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hZORUEZd_pg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -361,6 +251,80 @@ David Attenborough and scientist Johan Rockström examine Earth&#39;s biodiversi
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Soccer Mom Madam
+*Released on 2021-06-06, vote average 7*
+
+After a bitter breakup leaves her and her young children without any support, Anna goes to work for her cousin at a massage parlour known for &#34;happy endings.&#34; As soon as she learns the ropes, Anna branches out on her own.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QmeH202ZKkA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Gully
+*Released on 2021-06-04, vote average 5*
+
+A slightly dystopian vision of LA, we follow three disaffected teenagers, Jessie, Calvin and Nicky, all victims of extreme childhoods, running supreme hedonistic riot as they try to work out a way in life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PznUs-bgmqE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -368,59 +332,46 @@ David Attenborough and scientist Johan Rockström examine Earth&#39;s biodiversi
 	
 
 	
+
 	
 
-### Hitman&#39;s Wife&#39;s Bodyguard
-*Released on 2021-06-10, vote average 9.5*
+	
 
-The world’s most lethal odd couple – bodyguard Michael Bryce and hitman Darius Kincaid – are back on another life-threatening mission. Still unlicensed and under scrutiny, Bryce is forced into action by Darius&#39;s even more volatile wife, the infamous international con artist Sonia Kincaid. As Bryce is driven over the edge by his two most dangerous protectees, the trio get in over their heads in a global plot and soon find that they are all that stand between Europe and a vengeful and powerful madman.
+	
+
+	
+	
+	
+
+	
+
+	
+
+	
+	
+	
+
+	
+
+	
+
+	
+	
+
+### Rogue Hostage
+*Released on 2021-06-11, vote average 8*
+
+Single father and former Marine Kyle Snowden is struggles to adjust to life with PTSD. On a routine stop for his job in Child Protective Services, Kyle finds himself and a group of innocent customers trapped inside his stepfather’s store during a hostile take-over by militant maniac Eagan Raize. Disturbing details emerge about Eagan’s violent vendetta against Kyle’s stepfather, Congressman Sam Nelson, threatening the lives of everyone inside, including the Congressman and Kyle’s young daughter. In a race against time, Kyle must battle against the terrorists as well as his personal demons to secure the store and save everyone.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/cPBGtKnNFuU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/sv-EkV3TuWM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-	
-	
-
-### In The Heights
-*Released on 2021-06-10, vote average 9.3*
-
-The story of Usnavi, a bodega owner who has mixed feelings about closing his store and retiring to the Dominican Republic or staying in Washington Heights.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/U0CL-ZSuCrQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
