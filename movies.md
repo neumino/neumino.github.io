@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Carnaval
-*Released on 2021-06-02, vote average 4.9*
+### Xtreme
+*Released on 2021-06-04, vote average 7.5*
 
-After a breakup, an influencer takes her friends on a free trip to Bahia&#39;s vibrant Carnival, where she learns life&#39;s not just about social media likes.
+Two years after the murder of his son and father, a retired hitman sets in motion a carefully crafted revenge plan against the killer: his own brother.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/pPkuQ1_wpck?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/X2O1OW6i820?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -47,7 +47,7 @@ After a breakup, an influencer takes her friends on a free trip to Bahia&#39;s v
 	
 
 ### Dancing Queens
-*Released on 2021-06-03, vote average 7*
+*Released on 2021-06-03, vote average 6.5*
 
 The story of Dylan Pettersson, a 23 year old girl from a small island in the Swedish archipelago with big dancing aspirations.
 
@@ -68,65 +68,16 @@ The story of Dylan Pettersson, a 23 year old girl from a small island in the Swe
 	
 	
 
-### Xtreme
-*Released on 2021-06-04, vote average 7.3*
+### Carnaval
+*Released on 2021-06-02, vote average 4.9*
 
-Two years after the murder of his son and father, a retired hitman sets in motion a carefully crafted revenge plan against the killer: his own brother.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/X2O1OW6i820?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Oslo
-*Released on 2021-05-29, vote average 7.4*
-
-The true story of negotiations between implacable enemies — the secret back-channel talks, unlikely friendships and quiet heroics of a small but committed group of Israelis, Palestinians and one Norwegian couple that led to the 1993 Oslo Peace Accords.
+After a breakup, an influencer takes her friends on a free trip to Bahia&#39;s vibrant Carnival, where she learns life&#39;s not just about social media likes.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/UBiOmOQYCR4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Hitman&#39;s Wife&#39;s Bodyguard
-*Released on 2021-06-10, vote average 8*
-
-The world’s most lethal odd couple – bodyguard Michael Bryce and hitman Darius Kincaid – are back on another life-threatening mission. Still unlicensed and under scrutiny, Bryce is forced into action by Darius&#39;s even more volatile wife, the infamous international con artist Sonia Kincaid. As Bryce is driven over the edge by his two most dangerous protectees, the trio get in over their heads in a global plot and soon find that they are all that stand between Europe and a vengeful and powerful madman.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cPBGtKnNFuU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/pPkuQ1_wpck?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -140,7 +91,7 @@ The world’s most lethal odd couple – bodyguard Michael Bryce and hitman Dari
 	
 
 ### In the Heights
-*Released on 2021-06-10, vote average 7.3*
+*Released on 2021-06-10, vote average 7.4*
 
 The story of Usnavi, a bodega owner who has mixed feelings about closing his store and retiring to the Dominican Republic or staying in Washington Heights.
 
@@ -162,7 +113,7 @@ The story of Usnavi, a bodega owner who has mixed feelings about closing his sto
 	
 
 ### Trippin’ with the Kandasamys
-*Released on 2021-06-04, vote average 6*
+*Released on 2021-06-04, vote average 7.3*
 
 To rekindle their marriages, best friends-turned-in-laws Shanthi and Jennifer plan a couples&#39; getaway. But it comes with all kinds of surprises.
 
@@ -181,10 +132,15 @@ To rekindle their marriages, best friends-turned-in-laws Shanthi and Jennifer pl
 
 
 	
+
+  
+
+
+	
 	
 
 ### Awake
-*Released on 2021-06-09, vote average 5.5*
+*Released on 2021-06-09, vote average 5.7*
 
 After a sudden global event wipes out all electronics and takes away humankind’s ability to sleep, chaos quickly begins to consume the world. Only Jill, an ex-soldier with a troubled past, may hold the key to a cure in the form of her own daughter. The question is, can Jill safely deliver her daughter and save the world before she herself loses her mind.
 
@@ -193,6 +149,28 @@ After a sudden global event wipes out all electronics and takes away humankind�
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/2fuowcxdrYc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Hitman&#39;s Wife&#39;s Bodyguard
+*Released on 2021-06-10, vote average 8*
+
+The world’s most lethal odd couple – bodyguard Michael Bryce and hitman Darius Kincaid – are back on another life-threatening mission. Still unlicensed and under scrutiny, Bryce is forced into action by Darius&#39;s even more volatile wife, the infamous international con artist Sonia Kincaid. As Bryce is driven over the edge by his two most dangerous protectees, the trio get in over their heads in a global plot and soon find that they are all that stand between Europe and a vengeful and powerful madman.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/cPBGtKnNFuU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -228,7 +206,7 @@ Frederick Fitzell is living his best life—until he starts having horrific visi
 	
 
 ### The Misfits
-*Released on 2021-06-10, vote average 5.7*
+*Released on 2021-06-10, vote average 6.2*
 
 After being recruited by a group of unconventional thieves, renowned criminal Richard Pace finds himself caught up in an elaborate gold heist that promises to have far-reaching implications on his life and the lives of countless others.
 
@@ -250,7 +228,7 @@ After being recruited by a group of unconventional thieves, renowned criminal Ri
 	
 
 ### Breaking Boundaries: The Science of Our Planet
-*Released on 2021-06-04, vote average 7*
+*Released on 2021-06-04, vote average 7.2*
 
 David Attenborough and scientist Johan Rockström examine Earth&#39;s biodiversity collapse and how this crisis can still be averted.
 
@@ -279,6 +257,40 @@ David Attenborough and scientist Johan Rockström examine Earth&#39;s biodiversi
 
 
 	
+	
+	
+
+  
+
+
+	
+	
+
+### Rogue Hostage
+*Released on 2021-06-11, vote average 6.5*
+
+A former Marine races against time to save a group of hostages -- including his young daughter and a congressman — when armed militants take over his stepfather&#39;s store.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/sv-EkV3TuWM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 
   
 
@@ -290,22 +302,42 @@ David Attenborough and scientist Johan Rockström examine Earth&#39;s biodiversi
 
 	
 	
+
+### Skater Girl
+*Released on 2021-06-11, vote average 7.8*
+
+Prerna, a teenager growing up in rural India, comes of age when she’s introduced to the sport of skateboarding. As a result, she has to fight the odds to follow her dreams and compete in the national championship.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/k5Fn99wmFCQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
 
 
 	
-
-  
-
-
 	
 
-  
+### 12 Mighty Orphans
+*Released on 2021-06-11, vote average 6*
 
+Haunted by his mysterious past, a devoted high school football coach leads a scrawny team of orphans to the state championship during the Great Depression and inspires a broken nation along the way.
 
-	
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jbf4BuWrBVo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -345,13 +377,47 @@ David Attenborough and scientist Johan Rockström examine Earth&#39;s biodiversi
 	
 
 	
+	
 
+### Plan B
+*Released on 2021-06-18, vote average 6*
+
+After a regrettable first sexual encounter, a straight-laced high school student and her slacker best friend have 24 hours to hunt down a Plan B pill in America&#39;s heartland.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/u4-oQ1LEXO4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
 
 	
 
+	
+
+	
+	
+
+### Take Back
+*Released on 2021-06-18, vote average 6*
+
+Following the abduction of her daughter, Zara does all she can to get her back. However, when she discovers that she has been targeted by crime boss Patrick, who she has previous dealings with, Zara realises that her troubled past will be used against her. Once Zara has a heart-to-heart with her husband, Brian, the pair work together to settle old scores and ensure the safety of their daughter.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/iVLVda0gbCM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
