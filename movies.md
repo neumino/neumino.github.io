@@ -46,30 +46,8 @@ Two years after the murder of his son and father, a retired hitman sets in motio
 	
 	
 
-### Dancing Queens
-*Released on 2021-06-03, vote average 6.3*
-
-The story of Dylan Pettersson, a 23-year-old girl from a small island in the Swedish archipelago with big dancing aspirations.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/RV_ikl5tEU0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### In the Heights
-*Released on 2021-06-10, vote average 7.4*
+*Released on 2021-06-10, vote average 7.5*
 
 The story of Usnavi, a bodega owner who has mixed feelings about closing his store and retiring to the Dominican Republic or staying in Washington Heights.
 
@@ -78,28 +56,6 @@ The story of Usnavi, a bodega owner who has mixed feelings about closing his sto
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/U0CL-ZSuCrQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Carnaval
-*Released on 2021-06-02, vote average 4.9*
-
-After a breakup, an influencer takes her friends on a free trip to Bahia&#39;s vibrant Carnival, where she learns life&#39;s not just about social media likes.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pPkuQ1_wpck?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -135,7 +91,7 @@ To rekindle their marriages, best friends-turned-in-laws Shanthi and Jennifer pl
 	
 
 ### Awake
-*Released on 2021-06-09, vote average 6.2*
+*Released on 2021-06-09, vote average 6.3*
 
 After a sudden global event wipes out all electronics and takes away humankind’s ability to sleep, chaos quickly begins to consume the world. Only Jill, an ex-soldier with a troubled past, may hold the key to a cure in the form of her own daughter. The question is, can Jill safely deliver her daughter and save the world before she herself loses her mind.
 
@@ -144,6 +100,28 @@ After a sudden global event wipes out all electronics and takes away humankind�
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/2fuowcxdrYc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Dancing Queens
+*Released on 2021-06-03, vote average 6.2*
+
+The story of Dylan Pettersson, a 23-year-old girl from a small island in the Swedish archipelago with big dancing aspirations.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/RV_ikl5tEU0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -176,23 +154,18 @@ Frederick Fitzell is living his best life—until he starts having horrific visi
 
 
 	
-
-  
-
-
-	
 	
 
-### Hitman&#39;s Wife&#39;s Bodyguard
-*Released on 2021-06-10, vote average 6.8*
+### Carnaval
+*Released on 2021-06-02, vote average 5.3*
 
-The world’s most lethal odd couple – bodyguard Michael Bryce and hitman Darius Kincaid – are back on another life-threatening mission. Still unlicensed and under scrutiny, Bryce is forced into action by Darius&#39;s even more volatile wife, the infamous international con artist Sonia Kincaid. As Bryce is driven over the edge by his two most dangerous protectees, the trio get in over their heads in a global plot and soon find that they are all that stand between Europe and a vengeful and powerful madman.
+After a breakup, an influencer takes her friends on a free trip to Bahia&#39;s vibrant Carnival, where she learns life&#39;s not just about social media likes.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/cPBGtKnNFuU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/pPkuQ1_wpck?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -205,16 +178,16 @@ The world’s most lethal odd couple – bodyguard Michael Bryce and hitman Dari
 	
 	
 
-### Breaking Boundaries: The Science of Our Planet
-*Released on 2021-06-04, vote average 7*
+### Hitman&#39;s Wife&#39;s Bodyguard
+*Released on 2021-06-10, vote average 7.4*
 
-David Attenborough and scientist Johan Rockström examine Earth&#39;s biodiversity collapse and how this crisis can still be averted.
+The world’s most lethal odd couple – bodyguard Michael Bryce and hitman Darius Kincaid – are back on another life-threatening mission. Still unlicensed and under scrutiny, Bryce is forced into action by Darius&#39;s even more volatile wife, the infamous international con artist Sonia Kincaid. As Bryce is driven over the edge by his two most dangerous protectees, the trio get in over their heads in a global plot and soon find that they are all that stand between Europe and a vengeful and powerful madman.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Gb6wQtNjblk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/cPBGtKnNFuU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -240,7 +213,7 @@ David Attenborough and scientist Johan Rockström examine Earth&#39;s biodiversi
 	
 
 ### Skater Girl
-*Released on 2021-06-11, vote average 8.3*
+*Released on 2021-06-11, vote average 8.4*
 
 Prerna, a teenager growing up in rural India, comes of age when she’s introduced to the sport of skateboarding. As a result, she has to fight the odds to follow her dreams and compete in the national championship.
 
@@ -261,16 +234,16 @@ Prerna, a teenager growing up in rural India, comes of age when she’s introduc
 	
 	
 
-### The Misfits
-*Released on 2021-06-10, vote average 5.6*
+### Breaking Boundaries: The Science of Our Planet
+*Released on 2021-06-04, vote average 6.3*
 
-After being recruited by a group of unconventional thieves, renowned criminal Richard Pace finds himself caught up in an elaborate gold heist that promises to have far-reaching implications on his life and the lives of countless others.
+David Attenborough and scientist Johan Rockström examine Earth&#39;s biodiversity collapse and how this crisis can still be averted.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/lxhMLjt83KQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Gb6wQtNjblk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -284,7 +257,7 @@ After being recruited by a group of unconventional thieves, renowned criminal Ri
 	
 
 ### Rogue Hostage
-*Released on 2021-06-11, vote average 7.5*
+*Released on 2021-06-11, vote average 6.8*
 
 A former Marine races against time to save a group of hostages -- including his young daughter and a congressman — when armed militants take over his stepfather&#39;s store.
 
@@ -293,6 +266,33 @@ A former Marine races against time to save a group of hostages -- including his 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/sv-EkV3TuWM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Misfits
+*Released on 2021-06-10, vote average 5.6*
+
+After being recruited by a group of unconventional thieves, renowned criminal Richard Pace finds himself caught up in an elaborate gold heist that promises to have far-reaching implications on his life and the lives of countless others.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/lxhMLjt83KQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -359,10 +359,6 @@ In a beautiful seaside town on the Italian Riviera, two young boys experience an
 	
 
 	
-
-	
-
-	
 	
 
 ### Take Back
@@ -402,22 +398,9 @@ Following the abduction of her daughter, Zara does all she can to get her back. 
 	
 
 	
-	
-
-### Plan B
-*Released on 2021-06-18, vote average 5.8*
-
-After a regrettable first sexual encounter, a straight-laced high school student and her slacker best friend have 24 hours to hunt down a Plan B pill in America&#39;s heartland.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/u4-oQ1LEXO4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
 	
 
 	
