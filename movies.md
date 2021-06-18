@@ -69,7 +69,7 @@ After a sudden global event wipes out all electronics and takes away humankind�
 	
 
 ### Luca
-*Released on 2021-06-17, vote average 8.2*
+*Released on 2021-06-17, vote average 8*
 
 Two young boys experience an unforgettable Italian summer filled with gelato, pasta and endless scooter rides. But all the fun is threatened by a deeply-held secret: they are sea monsters from another world just below the water’s surface.
 
@@ -90,30 +90,8 @@ Two young boys experience an unforgettable Italian summer filled with gelato, pa
 	
 	
 
-### Flashback
-*Released on 2021-06-03, vote average 6.9*
-
-Frederick Fitzell is living his best life—until he starts having horrific visions of Cindy, a girl who vanished in high school. After reaching out to old friends with whom he used to take a mystery drug called Mercury, Fredrick realizes the only way to stop the visions lies deep within his own memories, so he embarks on a terrifying mental odyssey to learn the truth.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Bum0t2CbAak?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### In the Heights
-*Released on 2021-06-10, vote average 7.6*
+*Released on 2021-06-10, vote average 7.5*
 
 The story of Usnavi, a bodega owner who has mixed feelings about closing his store and retiring to the Dominican Republic or staying in Washington Heights.
 
@@ -156,16 +134,16 @@ To rekindle their marriages, best friends-turned-in-laws Shanthi and Jennifer pl
 	
 	
 
-### Dancing Queens
-*Released on 2021-06-03, vote average 6.2*
+### Skater Girl
+*Released on 2021-06-11, vote average 8.2*
 
-The story of Dylan Pettersson, a 23-year-old girl from a small island in the Swedish archipelago with big dancing aspirations.
+Prerna, a teenager growing up in rural India, comes of age when she’s introduced to the sport of skateboarding. As a result, she has to fight the odds to follow her dreams and compete in the national championship.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/RV_ikl5tEU0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/k5Fn99wmFCQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -192,45 +170,6 @@ The world’s most lethal odd couple – bodyguard Michael Bryce and hitman Dari
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### Skater Girl
-*Released on 2021-06-11, vote average 8.3*
-
-Prerna, a teenager growing up in rural India, comes of age when she’s introduced to the sport of skateboarding. As a result, she has to fight the odds to follow her dreams and compete in the national championship.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/k5Fn99wmFCQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -281,10 +220,25 @@ David Attenborough and scientist Johan Rockström examine Earth&#39;s biodiversi
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### Rogue Hostage
-*Released on 2021-06-11, vote average 6.8*
+*Released on 2021-06-11, vote average 7.2*
 
 A former Marine races against time to save a group of hostages -- including his young daughter and a congressman — when armed militants take over his stepfather&#39;s store.
 
@@ -303,32 +257,44 @@ A former Marine races against time to save a group of hostages -- including his 
 
 
 	
+
+  
+
+
+	
+	
 	
 
-### Untitled Horror Movie
-*Released on 2021-06-12, vote average 3*
+  
 
-Set on computer screens and found footage style content, the movie follows six actors who decide to shoot their own horror movie as their hit TV show is on the brink of cancellation. In their search for a plot, they unintentionally summon a spirit with an affinity for violence, who starts picking them off one by one.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Take Back
+*Released on 2021-06-18, vote average 6*
+
+Following the abduction of her daughter, Zara does all she can to get her back. However, when she discovers that she has been targeted by crime boss Patrick, who she has previous dealings with, Zara realises that her troubled past will be used against her. Once Zara has a heart-to-heart with her husband, Brian, the pair work together to settle old scores and ensure the safety of their daughter.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/LBdH8yFGCDA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/iVLVda0gbCM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -347,37 +313,6 @@ Set on computer screens and found footage style content, the movie follows six a
 
 ## Opening soon
 
-
-	
-	
-
-### Luca
-*Released on 2021-06-17, vote average 8.2*
-
-Two young boys experience an unforgettable Italian summer filled with gelato, pasta and endless scooter rides. But all the fun is threatened by a deeply-held secret: they are sea monsters from another world just below the water’s surface.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/YdAIBlPVe9s?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
 
 	
 
@@ -413,12 +348,6 @@ Following the abduction of her daughter, Zara does all she can to get her back. 
 	
 
 	
-
-	
-
-	
-
-	
 	
 
 ### Plan B
@@ -435,6 +364,26 @@ After a regrettable first sexual encounter, a straight-laced high school student
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
