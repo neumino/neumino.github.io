@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Xtreme
-*Released on 2021-06-04, vote average 7.3*
+### Awake
+*Released on 2021-06-09, vote average 6.3*
 
-Two years after the murder of his son and father, a retired hitman sets in motion a carefully crafted revenge plan against the killer: his own brother.
+After a sudden global event wipes out all electronics and takes away humankind’s ability to sleep, chaos quickly begins to consume the world. Only Jill, an ex-soldier with a troubled past, may hold the key to a cure in the form of her own daughter. The question is, can Jill safely deliver her daughter and save the world before she herself loses her mind.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/X2O1OW6i820?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/2fuowcxdrYc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,32 +46,10 @@ Two years after the murder of his son and father, a retired hitman sets in motio
 	
 	
 
-### Awake
-*Released on 2021-06-09, vote average 6.3*
-
-After a sudden global event wipes out all electronics and takes away humankind’s ability to sleep, chaos quickly begins to consume the world. Only Jill, an ex-soldier with a troubled past, may hold the key to a cure in the form of her own daughter. The question is, can Jill safely deliver her daughter and save the world before she herself loses her mind.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2fuowcxdrYc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Luca
 *Released on 2021-06-17, vote average 8*
 
-Two young boys experience an unforgettable Italian summer filled with gelato, pasta and endless scooter rides. But all the fun is threatened by a deeply-held secret: they are sea monsters from another world just below the water’s surface.
+Set in a beautiful seaside town on the Italian Riviera, Disney and Pixar’s original feature film “Luca” is a coming-of-age story about one young boy experiencing an unforgettable summer filled with gelato, pasta and endless scooter rides. Luca shares these adventures with his newfound best friend, Alberto, but all the fun is threatened by a deeply-held secret: they are sea monsters from another world just below the water’s surface.
 
 <iframe id="player"
 	type="text/html"
@@ -112,28 +90,6 @@ The story of Usnavi, a bodega owner who has mixed feelings about closing his sto
 	
 	
 
-### Trippin’ with the Kandasamys
-*Released on 2021-06-04, vote average 7.4*
-
-To rekindle their marriages, best friends-turned-in-laws Shanthi and Jennifer plan a couples&#39; getaway. But it comes with all kinds of surprises.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0bCtBvyv1eA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Skater Girl
 *Released on 2021-06-11, vote average 8.2*
 
@@ -157,7 +113,7 @@ Prerna, a teenager growing up in rural India, comes of age when she’s introduc
 	
 
 ### Hitman&#39;s Wife&#39;s Bodyguard
-*Released on 2021-06-10, vote average 7.7*
+*Released on 2021-06-10, vote average 7.5*
 
 The world’s most lethal odd couple – bodyguard Michael Bryce and hitman Darius Kincaid – are back on another life-threatening mission. Still unlicensed and under scrutiny, Bryce is forced into action by Darius&#39;s even more volatile wife, the infamous international con artist Sonia Kincaid. As Bryce is driven over the edge by his two most dangerous protectees, the trio get in over their heads in a global plot and soon find that they are all that stand between Europe and a vengeful and powerful madman.
 
@@ -179,7 +135,7 @@ The world’s most lethal odd couple – bodyguard Michael Bryce and hitman Dari
 	
 
 ### The Misfits
-*Released on 2021-06-10, vote average 4.5*
+*Released on 2021-06-10, vote average 4.3*
 
 After being recruited by a group of unconventional thieves, renowned criminal Richard Pace finds himself caught up in an elaborate gold heist that promises to have far-reaching implications on his life and the lives of countless others.
 
@@ -198,22 +154,76 @@ After being recruited by a group of unconventional thieves, renowned criminal Ri
 
 
 	
+
+  
+
+
+	
 	
 
-### Breaking Boundaries: The Science of Our Planet
-*Released on 2021-06-04, vote average 6.3*
+### Fatherhood
+*Released on 2021-06-18, vote average 9*
 
-David Attenborough and scientist Johan Rockström examine Earth&#39;s biodiversity collapse and how this crisis can still be averted.
+A widowed new dad copes with doubts, fears, heartache and dirty diapers as he sets out to raise his daughter on his own.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Gb6wQtNjblk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/T3mwUEoZdrI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Take Back
+*Released on 2021-06-18, vote average 6*
+
+Following the abduction of her daughter, Zara does all she can to get her back. However, when she discovers that she has been targeted by crime boss Patrick, who she has previous dealings with, Zara realises that her troubled past will be used against her. Once Zara has a heart-to-heart with her husband, Brian, the pair work together to settle old scores and ensure the safety of their daughter.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/iVLVda0gbCM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -238,7 +248,7 @@ David Attenborough and scientist Johan Rockström examine Earth&#39;s biodiversi
 	
 
 ### Rogue Hostage
-*Released on 2021-06-11, vote average 7.2*
+*Released on 2021-06-11, vote average 7.5*
 
 A former Marine races against time to save a group of hostages -- including his young daughter and a congressman — when armed militants take over his stepfather&#39;s store.
 
@@ -257,49 +267,22 @@ A former Marine races against time to save a group of hostages -- including his 
 
 
 	
-
-  
-
-
-	
-	
 	
 
-  
+### Plan B
+*Released on 2021-06-18, vote average 3.9*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Take Back
-*Released on 2021-06-18, vote average 6*
-
-Following the abduction of her daughter, Zara does all she can to get her back. However, when she discovers that she has been targeted by crime boss Patrick, who she has previous dealings with, Zara realises that her troubled past will be used against her. Once Zara has a heart-to-heart with her husband, Brian, the pair work together to settle old scores and ensure the safety of their daughter.
+After a regrettable first sexual encounter, a straight-laced high school student and her slacker best friend have 24 hours to hunt down a Plan B pill in America&#39;s heartland.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/iVLVda0gbCM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/u4-oQ1LEXO4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -317,23 +300,6 @@ Following the abduction of her daughter, Zara does all she can to get her back. 
 	
 
 	
-	
-
-### Take Back
-*Released on 2021-06-18, vote average 6*
-
-Following the abduction of her daughter, Zara does all she can to get her back. However, when she discovers that she has been targeted by crime boss Patrick, who she has previous dealings with, Zara realises that her troubled past will be used against her. Once Zara has a heart-to-heart with her husband, Brian, the pair work together to settle old scores and ensure the safety of their daughter.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/iVLVda0gbCM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
@@ -347,23 +313,6 @@ Following the abduction of her daughter, Zara does all she can to get her back. 
 
 	
 
-	
-	
-
-### Plan B
-*Released on 2021-06-18, vote average 3.9*
-
-After a regrettable first sexual encounter, a straight-laced high school student and her slacker best friend have 24 hours to hunt down a Plan B pill in America&#39;s heartland.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/u4-oQ1LEXO4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
