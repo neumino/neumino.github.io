@@ -47,9 +47,9 @@ After a sudden global event wipes out all electronics and takes away humankind�
 	
 
 ### Luca
-*Released on 2021-06-17, vote average 8*
+*Released on 2021-06-17, vote average 8.3*
 
-Set in a beautiful seaside town on the Italian Riviera, Disney and Pixar’s original feature film “Luca” is a coming-of-age story about one young boy experiencing an unforgettable summer filled with gelato, pasta and endless scooter rides. Luca shares these adventures with his newfound best friend, Alberto, but all the fun is threatened by a deeply-held secret: they are sea monsters from another world just below the water’s surface.
+Luca and his best friend Alberto experience an unforgettable summer on the Italian Riviera. But all the fun is threatened by a deeply-held secret: they are sea monsters from another world just below the water’s surface.
 
 <iframe id="player"
 	type="text/html"
@@ -91,7 +91,7 @@ The story of Usnavi, a bodega owner who has mixed feelings about closing his sto
 	
 
 ### Skater Girl
-*Released on 2021-06-11, vote average 8.2*
+*Released on 2021-06-11, vote average 8.1*
 
 Prerna, a teenager growing up in rural India, comes of age when she’s introduced to the sport of skateboarding. As a result, she has to fight the odds to follow her dreams and compete in the national championship.
 
@@ -134,8 +134,30 @@ The world’s most lethal odd couple – bodyguard Michael Bryce and hitman Dari
 	
 	
 
+### Fatherhood
+*Released on 2021-06-18, vote average 8.4*
+
+A widowed new dad copes with doubts, fears, heartache and dirty diapers as he sets out to raise his daughter on his own. Inspired by a true story.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/T3mwUEoZdrI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Misfits
-*Released on 2021-06-10, vote average 4.3*
+*Released on 2021-06-10, vote average 4.1*
 
 After being recruited by a group of unconventional thieves, renowned criminal Richard Pace finds himself caught up in an elaborate gold heist that promises to have far-reaching implications on his life and the lives of countless others.
 
@@ -161,20 +183,96 @@ After being recruited by a group of unconventional thieves, renowned criminal Ri
 	
 	
 
-### Fatherhood
-*Released on 2021-06-18, vote average 9*
+### The Birthday Cake
+*Released on 2021-06-17, vote average 7*
 
-A widowed new dad copes with doubts, fears, heartache and dirty diapers as he sets out to raise his daughter on his own.
+On the 10th anniversary of his father&#39;s death, Giovanni reluctantly accepts the task of bringing a cake to the home of his uncle, a mob boss, for a celebration. Just two hours into the night, Gio&#39;s life is forever changed.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/T3mwUEoZdrI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/tRV8E1OC5jI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Ali &amp; Ratu Ratu Queens
+*Released on 2021-06-17, vote average 7*
+
+After his father&#39;s passing, a teenager sets out for New York in search of his estranged mother and soon finds love and connection in unexpected places.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/4zQid4-wrAw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Jagame Thandhiram
+*Released on 2021-06-18, vote average 7.5*
+
+When a clever, carefree gangster is recruited to help an overseas crime lord take down a rival, he is caught off guard by the moral dilemmas that follow.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/q7DH5ZdLEKM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Rogue Hostage
+*Released on 2021-06-11, vote average 7.8*
+
+A former Marine races against time to save a group of hostages -- including his young daughter and a congressman — when armed militants take over his stepfather&#39;s store.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/sv-EkV3TuWM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -213,76 +311,10 @@ Following the abduction of her daughter, Zara does all she can to get her back. 
 
 
 	
-	
-	
 
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Rogue Hostage
-*Released on 2021-06-11, vote average 7.5*
-
-A former Marine races against time to save a group of hostages -- including his young daughter and a congressman — when armed militants take over his stepfather&#39;s store.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/sv-EkV3TuWM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Plan B
-*Released on 2021-06-18, vote average 3.9*
-
-After a regrettable first sexual encounter, a straight-laced high school student and her slacker best friend have 24 hours to hunt down a Plan B pill in America&#39;s heartland.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/u4-oQ1LEXO4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -327,6 +359,23 @@ After a regrettable first sexual encounter, a straight-laced high school student
 
 	
 
+	
+	
+
+### Together
+*Released on 2021-06-21, vote average 10*
+
+A husband and wife are forced to re-evaluate themselves and their relationship through the reality of the Covid-19 lockdown.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/v5bddCfXXlI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
