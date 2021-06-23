@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Awake
-*Released on 2021-06-09, vote average 6.3*
+### Luca
+*Released on 2021-06-17, vote average 8.3*
 
-After a sudden global event wipes out all electronics and takes away humankind’s ability to sleep, chaos quickly begins to consume the world. Only Jill, an ex-soldier with a troubled past, may hold the key to a cure in the form of her own daughter. The question is, can Jill safely deliver her daughter and save the world before she herself loses her mind.
+Luca and his best friend Alberto experience an unforgettable summer on the Italian Riviera. But all the fun is threatened by a deeply-held secret: they are sea monsters from another world just below the water’s surface.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/2fuowcxdrYc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/YdAIBlPVe9s?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ After a sudden global event wipes out all electronics and takes away humankind�
 	
 	
 
-### Luca
-*Released on 2021-06-17, vote average 8.3*
+### Awake
+*Released on 2021-06-09, vote average 6.2*
 
-Luca and his best friend Alberto experience an unforgettable summer on the Italian Riviera. But all the fun is threatened by a deeply-held secret: they are sea monsters from another world just below the water’s surface.
+After a sudden global event wipes out all electronics and takes away humankind’s ability to sleep, chaos quickly begins to consume the world. Only Jill, an ex-soldier with a troubled past, may hold the key to a cure in the form of her own daughter. The question is, can Jill safely deliver her daughter and save the world before she herself loses her mind.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/YdAIBlPVe9s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/2fuowcxdrYc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,16 +112,16 @@ Prerna, a teenager growing up in rural India, comes of age when she’s introduc
 	
 	
 
-### Hitman&#39;s Wife&#39;s Bodyguard
-*Released on 2021-06-10, vote average 7.3*
+### Fatherhood
+*Released on 2021-06-18, vote average 8.2*
 
-The world’s most lethal odd couple – bodyguard Michael Bryce and hitman Darius Kincaid – are back on another life-threatening mission. Still unlicensed and under scrutiny, Bryce is forced into action by Darius&#39;s even more volatile wife, the infamous international con artist Sonia Kincaid. As Bryce is driven over the edge by his two most dangerous protectees, the trio get in over their heads in a global plot and soon find that they are all that stand between Europe and a vengeful and powerful madman.
+A widowed new dad copes with doubts, fears, heartache and dirty diapers as he sets out to raise his daughter on his own. Inspired by a true story.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/cPBGtKnNFuU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/T3mwUEoZdrI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,16 +134,16 @@ The world’s most lethal odd couple – bodyguard Michael Bryce and hitman Dari
 	
 	
 
-### Fatherhood
-*Released on 2021-06-18, vote average 8.3*
+### Hitman&#39;s Wife&#39;s Bodyguard
+*Released on 2021-06-10, vote average 7.3*
 
-A widowed new dad copes with doubts, fears, heartache and dirty diapers as he sets out to raise his daughter on his own. Inspired by a true story.
+The world’s most lethal odd couple – bodyguard Michael Bryce and hitman Darius Kincaid – are back on another life-threatening mission. Still unlicensed and under scrutiny, Bryce is forced into action by Darius&#39;s even more volatile wife, the infamous international con artist Sonia Kincaid. As Bryce is driven over the edge by his two most dangerous protectees, the trio get in over their heads in a global plot and soon find that they are all that stand between Europe and a vengeful and powerful madman.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/T3mwUEoZdrI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/cPBGtKnNFuU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -178,8 +178,30 @@ When a clever, carefree gangster is recruited to help an overseas crime lord tak
 	
 	
 
+### Batman: The Long Halloween, Part One
+*Released on 2021-06-21, vote average 6*
+
+A brutal murder on Halloween prompts Gotham&#39;s young vigilante, the Batman, to form a pact with Police Captain James Gordan and District Attorney Harvey Dent in order to take down The Roman, head of the notorious and powerful Falcone Crime Family. After more deaths occur on Thanksgiving and Christmas, it becomes clear that they&#39;re dealing with a serial killer - the identity of whom grows harder to discern with each conflicting clue.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8qodAY3S7Dg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Misfits
-*Released on 2021-06-10, vote average 4.1*
+*Released on 2021-06-10, vote average 4.2*
 
 After being recruited by a group of unconventional thieves, renowned criminal Richard Pace finds himself caught up in an elaborate gold heist that promises to have far-reaching implications on his life and the lives of countless others.
 
@@ -220,64 +242,27 @@ The Teen Titans are visited by the Nerdlucks, the iconic Space Jam villains who 
 
 
 	
+
+  
+
+
+	
 	
 
-### Batman: The Long Halloween, Part One
-*Released on 2021-06-21, vote average 7*
+### Censor
+*Released on 2021-06-11, vote average 6.4*
 
-A brutal murder on Halloween prompts Gotham&#39;s young vigilante, the Batman, to form a pact with Police Captain James Gordan and District Attorney Harvey Dent in order to take down The Roman, head of the notorious and powerful Falcone Crime Family. After more deaths occur on Thanksgiving and Christmas, it becomes clear that they&#39;re dealing with a serial killer - the identity of whom grows harder to discern with each conflicting clue.
+Film censor Enid takes pride in her meticulous work, guarding unsuspecting audiences from the deleterious effects of watching the gore-filled decapitations and eye gougings she pores over. Her sense of duty to protect is amplified by guilt over her inability to recall details of the long-ago disappearance of her sister, recently declared dead in absentia. When Enid is assigned to review a disturbing film from the archive that echoes her hazy childhood memories, she begins to unravel how this eerie work might be tied to her past.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/8qodAY3S7Dg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/KRrhXjH1M70?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Birthday Cake
-*Released on 2021-06-17, vote average 7*
-
-On the 10th anniversary of his father&#39;s death, Giovanni reluctantly accepts the task of bringing a cake to the home of his uncle, a mob boss, for a celebration. Just two hours into the night, Gio&#39;s life is forever changed.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tRV8E1OC5jI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -287,7 +272,7 @@ On the 10th anniversary of his father&#39;s death, Giovanni reluctantly accepts 
 	
 
 ### Together
-*Released on 2021-06-21, vote average 10*
+*Released on 2021-06-21, vote average 8*
 
 A husband and wife are forced to re-evaluate themselves and their relationship through the reality of the Covid-19 lockdown.
 
@@ -321,22 +306,20 @@ A husband and wife are forced to re-evaluate themselves and their relationship t
 
 
 	
-	
 
-### Censor
-*Released on 2021-06-11, vote average 6.2*
+  
 
-Film censor Enid takes pride in her meticulous work, guarding unsuspecting audiences from the deleterious effects of watching the gore-filled decapitations and eye gougings she pores over. Her sense of duty to protect is amplified by guilt over her inability to recall details of the long-ago disappearance of her sister, recently declared dead in absentia. When Enid is assigned to review a disturbing film from the archive that echoes her hazy childhood memories, she begins to unravel how this eerie work might be tied to her past.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/KRrhXjH1M70?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
