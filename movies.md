@@ -47,7 +47,7 @@ Luca and his best friend Alberto experience an unforgettable summer on the Itali
 	
 
 ### Fatherhood
-*Released on 2021-06-18, vote average 8.2*
+*Released on 2021-06-18, vote average 8.1*
 
 A widowed new dad copes with doubts, fears, heartache and dirty diapers as he sets out to raise his daughter on his own. Inspired by a true story.
 
@@ -68,76 +68,10 @@ A widowed new dad copes with doubts, fears, heartache and dirty diapers as he se
 	
 	
 
-### Hitman&#39;s Wife&#39;s Bodyguard
-*Released on 2021-06-10, vote average 7.3*
-
-The world’s most lethal odd couple – bodyguard Michael Bryce and hitman Darius Kincaid – are back on another life-threatening mission. Still unlicensed and under scrutiny, Bryce is forced into action by Darius&#39;s even more volatile wife, the infamous international con artist Sonia Kincaid. As Bryce is driven over the edge by his two most dangerous protectees, the trio get in over their heads in a global plot and soon find that they are all that stand between Europe and a vengeful and powerful madman.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cPBGtKnNFuU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### In the Heights
-*Released on 2021-06-10, vote average 7.4*
-
-The story of Usnavi, a bodega owner who has mixed feelings about closing his store and retiring to the Dominican Republic or staying in Washington Heights.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/U0CL-ZSuCrQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Skater Girl
-*Released on 2021-06-11, vote average 7.8*
-
-Prerna, a teenager growing up in rural India, comes of age when she’s introduced to the sport of skateboarding. As a result, she has to fight the odds to follow her dreams and compete in the national championship.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/k5Fn99wmFCQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Batman: The Long Halloween, Part One
-*Released on 2021-06-21, vote average 6.5*
+*Released on 2021-06-21, vote average 7.4*
 
-A brutal murder on Halloween prompts Gotham&#39;s young vigilante, the Batman, to form a pact with Police Captain James Gordan and District Attorney Harvey Dent in order to take down The Roman, head of the notorious and powerful Falcone Crime Family. After more deaths occur on Thanksgiving and Christmas, it becomes clear that they&#39;re dealing with a serial killer - the identity of whom grows harder to discern with each conflicting clue.
+Following a brutal series of murders taking place on Halloween, Thanksgiving, and Christmas, Gotham City&#39;s young vigilante known as the Batman sets out to pursue the mysterious serial killer alongside police officer James Gordon and district attorney Harvey Dent.
 
 <iframe id="player"
 	type="text/html"
@@ -176,6 +110,62 @@ When a clever, carefree gangster is recruited to help an overseas crime lord tak
 
 
 	
+	
+
+### Skater Girl
+*Released on 2021-06-11, vote average 7.7*
+
+Prerna, a teenager growing up in rural India, comes of age when she’s introduced to the sport of skateboarding. As a result, she has to fight the odds to follow her dreams and compete in the national championship.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/k5Fn99wmFCQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The House of Flowers: The Movie
+*Released on 2021-06-23, vote average 8.7*
+
+The De La Mora siblings concoct a mischievous plan to break into their old family home to retrieve a hidden treasure of significant importance.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/U58oFGixd5M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
 
   
 
@@ -203,18 +193,23 @@ Film censor Enid takes pride in her meticulous work, guarding unsuspecting audie
 
 
 	
+
+  
+
+
+	
 	
 
-### The Misfits
-*Released on 2021-06-10, vote average 4.1*
+### Good on Paper
+*Released on 2021-06-23, vote average 7.1*
 
-After being recruited by a group of unconventional thieves, renowned criminal Richard Pace finds himself caught up in an elaborate gold heist that promises to have far-reaching implications on his life and the lives of countless others.
+After years of putting her career ahead of love, stand-up comic Andrea Singer has stumbled upon the perfect guy. On paper, he checks all the boxes but is he everything he appears to be?
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/lxhMLjt83KQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/z_-_hIuE1YA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -229,13 +224,6 @@ After being recruited by a group of unconventional thieves, renowned criminal Ri
   
 
 
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -269,6 +257,8 @@ The Teen Titans are visited by the Nerdlucks, the iconic Space Jam villains who 
 
 
 	
+	
+	
 
   
 
@@ -283,28 +273,6 @@ The Teen Titans are visited by the Nerdlucks, the iconic Space Jam villains who 
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Together
-*Released on 2021-06-21, vote average 8*
-
-A husband and wife are forced to re-evaluate themselves and their relationship through the reality of the Covid-19 lockdown.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/v5bddCfXXlI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -327,28 +295,10 @@ A husband and wife are forced to re-evaluate themselves and their relationship t
 	
 
 	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
 	
 
 ### Werewolves Within
-*Released on 2021-06-25, vote average 6.4*
+*Released on 2021-06-25, vote average 6.9*
 
 When a proposed pipeline creates hostilities between residents of a small town, a newly-arrived forest ranger must keep the peace after a snowstorm confines the townspeople to an old lodge. But when a mysterious creature begins terrorizing the group, their worst tendencies and prejudices rise to the surface, and it is up to the ranger to keep the residents alive, both from each other and the monster which plagues them.
 
@@ -361,6 +311,24 @@ When a proposed pipeline creates hostilities between residents of a small town, 
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
