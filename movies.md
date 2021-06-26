@@ -112,30 +112,8 @@ When a clever, carefree gangster is recruited to help an overseas crime lord tak
 	
 	
 
-### Skater Girl
-*Released on 2021-06-11, vote average 7.7*
-
-Prerna, a teenager growing up in rural India, comes of age when she’s introduced to the sport of skateboarding. As a result, she has to fight the odds to follow her dreams and compete in the national championship.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/k5Fn99wmFCQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The House of Flowers: The Movie
-*Released on 2021-06-23, vote average 8.7*
+*Released on 2021-06-23, vote average 9*
 
 The De La Mora siblings concoct a mischievous plan to break into their old family home to retrieve a hidden treasure of significant importance.
 
@@ -159,40 +137,6 @@ The De La Mora siblings concoct a mischievous plan to break into their old famil
 
 
 	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Censor
-*Released on 2021-06-11, vote average 6.3*
-
-Film censor Enid takes pride in her meticulous work, guarding unsuspecting audiences from the deleterious effects of watching the gore-filled decapitations and eye gougings she pores over. Her sense of duty to protect is amplified by guilt over her inability to recall details of the long-ago disappearance of her sister, recently declared dead in absentia. When Enid is assigned to review a disturbing film from the archive that echoes her hazy childhood memories, she begins to unravel how this eerie work might be tied to her past.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/KRrhXjH1M70?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 
   
 
@@ -201,7 +145,7 @@ Film censor Enid takes pride in her meticulous work, guarding unsuspecting audie
 	
 
 ### Good on Paper
-*Released on 2021-06-23, vote average 7.1*
+*Released on 2021-06-23, vote average 6*
 
 After years of putting her career ahead of love, stand-up comic Andrea Singer has stumbled upon the perfect guy. On paper, he checks all the boxes but is he everything he appears to be?
 
@@ -220,10 +164,71 @@ After years of putting her career ahead of love, stand-up comic Andrea Singer ha
 
 
 	
+	
+	
 
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Werewolves Within
+*Released on 2021-06-25, vote average 7.3*
+
+When a proposed pipeline creates hostilities between residents of a small town, a newly-arrived forest ranger must keep the peace after a snowstorm confines the townspeople to an old lodge. But when a mysterious creature begins terrorizing the group, their worst tendencies and prejudices rise to the surface, and it is up to the ranger to keep the residents alive, both from each other and the monster which plagues them.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mjH5sGOTJuI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -256,28 +261,6 @@ The Teen Titans are visited by the Nerdlucks, the iconic Space Jam villains who 
   
 
 
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -294,23 +277,6 @@ The Teen Titans are visited by the Nerdlucks, the iconic Space Jam villains who 
 
 	
 
-	
-	
-
-### Werewolves Within
-*Released on 2021-06-25, vote average 6.9*
-
-When a proposed pipeline creates hostilities between residents of a small town, a newly-arrived forest ranger must keep the peace after a snowstorm confines the townspeople to an old lodge. But when a mysterious creature begins terrorizing the group, their worst tendencies and prejudices rise to the surface, and it is up to the ranger to keep the residents alive, both from each other and the monster which plagues them.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/mjH5sGOTJuI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
