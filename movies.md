@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Luca
-*Released on 2021-06-17, vote average 8.3*
+*Released on 2021-06-17, vote average 8.2*
 
 Luca and his best friend Alberto experience an unforgettable summer on the Italian Riviera. But all the fun is threatened by a deeply-held secret: they are sea monsters from another world just below the water’s surface.
 
@@ -69,7 +69,7 @@ A widowed new dad copes with doubts, fears, heartache and dirty diapers as he se
 	
 
 ### Batman: The Long Halloween, Part One
-*Released on 2021-06-21, vote average 7.4*
+*Released on 2021-06-21, vote average 7.5*
 
 Following a brutal series of murders taking place on Halloween, Thanksgiving, and Christmas, Gotham City&#39;s young vigilante known as the Batman sets out to pursue the mysterious serial killer alongside police officer James Gordon and district attorney Harvey Dent.
 
@@ -113,7 +113,7 @@ When a clever, carefree gangster is recruited to help an overseas crime lord tak
 	
 
 ### The House of Flowers: The Movie
-*Released on 2021-06-23, vote average 9*
+*Released on 2021-06-23, vote average 8.8*
 
 The De La Mora siblings concoct a mischievous plan to break into their old family home to retrieve a hidden treasure of significant importance.
 
@@ -137,6 +137,23 @@ The De La Mora siblings concoct a mischievous plan to break into their old famil
 
 
 	
+	
+
+### The Ice Road
+*Released on 2021-06-25, vote average 6.4*
+
+After a remote diamond mine collapses in far northern Canada, an ice road driver must lead an impossible rescue mission over a frozen ocean to save the trapped miners.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-zjikObAJHk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -145,7 +162,7 @@ The De La Mora siblings concoct a mischievous plan to break into their old famil
 	
 
 ### Good on Paper
-*Released on 2021-06-23, vote average 6*
+*Released on 2021-06-23, vote average 6.1*
 
 After years of putting her career ahead of love, stand-up comic Andrea Singer has stumbled upon the perfect guy. On paper, he checks all the boxes but is he everything he appears to be?
 
@@ -165,6 +182,55 @@ After years of putting her career ahead of love, stand-up comic Andrea Singer ha
 
 	
 	
+	
+
+  
+
+
+	
+	
+
+### Mary J. Blige&#39;s My Life
+*Released on 2021-06-25, vote average 9*
+
+Mary J. Blige set the music world on fire with her trailblazing 1994 LP &#34;My Life.&#34; The singer, producer and actress reveals the demons and blessings that inspired the record and propelled her to international stardom. She celebrates the 25th anniversary of her most influential work by performing the album live for the first time.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EeaCZt31hVA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Fathom
+*Released on 2021-06-25, vote average 6*
+
+Two biologists set out on an undertaking as colossal as their subjects—deciphering the complex communication of whales. Dr. Michelle Fournet and Dr. Ellen Garland journey to opposite hemispheres to uncover a culture eons older than our own.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Y-Mmnk0LZLU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -217,40 +283,6 @@ When a proposed pipeline creates hostilities between residents of a small town, 
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Teen Titans Go! See Space Jam
-*Released on 2021-06-20, vote average 4*
-
-The Teen Titans are visited by the Nerdlucks, the iconic Space Jam villains who tried to capture Michael Jordan and the Looney Tunes. Astonished to discover his fellow Titans have never seen Space Jam, Cyborg organizes an exclusive watch party. Of course, if the Titans are watching a movie, don’t expect silence to be golden. Raven and Starfire provide the commentary, Cyborg presents the fun facts, Beast Boy points out the butt shots, and Robin … well, Robin doesn’t trust their new alien friends. Are the Nerdlucks here to attend an innocent watch party, or do they have more sinister motives up their sleeves?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/5UiFpMk0T3g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
