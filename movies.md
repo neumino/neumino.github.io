@@ -91,7 +91,7 @@ Following a brutal series of murders taking place on Halloween, Thanksgiving, an
 	
 
 ### Jagame Thandhiram
-*Released on 2021-06-18, vote average 6.3*
+*Released on 2021-06-18, vote average 6.2*
 
 When a clever, carefree gangster is recruited to help an overseas crime lord take down a rival, he is caught off guard by the moral dilemmas that follow.
 
@@ -113,7 +113,7 @@ When a clever, carefree gangster is recruited to help an overseas crime lord tak
 	
 
 ### The House of Flowers: The Movie
-*Released on 2021-06-23, vote average 8.8*
+*Released on 2021-06-23, vote average 9*
 
 The De La Mora siblings concoct a mischievous plan to break into their old family home to retrieve a hidden treasure of significant importance.
 
@@ -132,15 +132,10 @@ The De La Mora siblings concoct a mischievous plan to break into their old famil
 
 
 	
-
-  
-
-
-	
 	
 
 ### The Ice Road
-*Released on 2021-06-25, vote average 6.4*
+*Released on 2021-06-25, vote average 6.2*
 
 After a remote diamond mine collapses in far northern Canada, an ice road driver must lead an impossible rescue mission over a frozen ocean to save the trapped miners.
 
@@ -159,10 +154,15 @@ After a remote diamond mine collapses in far northern Canada, an ice road driver
 
 
 	
+
+  
+
+
+	
 	
 
 ### Good on Paper
-*Released on 2021-06-23, vote average 6.1*
+*Released on 2021-06-23, vote average 6*
 
 After years of putting her career ahead of love, stand-up comic Andrea Singer has stumbled upon the perfect guy. On paper, he checks all the boxes but is he everything he appears to be?
 
@@ -181,6 +181,33 @@ After years of putting her career ahead of love, stand-up comic Andrea Singer ha
 
 
 	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Fathom
+*Released on 2021-06-25, vote average 6*
+
+Two biologists set out on an undertaking as colossal as their subjects—deciphering the complex communication of whales. Dr. Michelle Fournet and Dr. Ellen Garland journey to opposite hemispheres to uncover a culture eons older than our own.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Y-Mmnk0LZLU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -210,18 +237,67 @@ Mary J. Blige set the music world on fire with her trailblazing 1994 LP &#34;My 
 
 
 	
+
+  
+
+
+	
 	
 
-### Fathom
+### Wolfgang
 *Released on 2021-06-25, vote average 6*
 
-Two biologists set out on an undertaking as colossal as their subjects—deciphering the complex communication of whales. Dr. Michelle Fournet and Dr. Ellen Garland journey to opposite hemispheres to uncover a culture eons older than our own.
+An intimate portrait of the life and work of the original &#34;celebrity chef&#34; Wolfgang Puck.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Y-Mmnk0LZLU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xDlGkFoj1TY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Who Are You, Charlie Brown?
+*Released on 2021-06-25, vote average 7.3*
+
+A documentary about Peanuts and its creator, Charles M. Schulz. Famous fans—including Drew Barrymore, Kevin Smith, and Al Roker—share its influence on them, and a new animated story finds Charlie Brown on a quest.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zIAz8EAIDfo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Teen Titans Go! See Space Jam
+*Released on 2021-06-20, vote average 4*
+
+The Teen Titans are visited by the Nerdlucks, the iconic Space Jam villains who tried to capture Michael Jordan and the Looney Tunes. Astonished to discover his fellow Titans have never seen Space Jam, Cyborg organizes an exclusive watch party. Of course, if the Titans are watching a movie, don’t expect silence to be golden. Raven and Starfire provide the commentary, Cyborg presents the fun facts, Beast Boy points out the butt shots, and Robin … well, Robin doesn’t trust their new alien friends. Are the Nerdlucks here to attend an innocent watch party, or do they have more sinister motives up their sleeves?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5UiFpMk0T3g?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -237,10 +313,29 @@ Two biologists set out on an undertaking as colossal as their subjects—deciphe
 
 
 	
+	
+	
 
   
 
 
+	
+	
+
+### Headspace: Unwind Your Mind
+*Released on 2021-06-15, vote average 6*
+
+Do you want to relax, meditate or sleep deeply? Personalize the experience according to your mood or mindset with this Headspace interactive special.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/H65oSNmSLmc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -268,31 +363,6 @@ When a proposed pipeline creates hostilities between residents of a small town, 
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -305,6 +375,23 @@ When a proposed pipeline creates hostilities between residents of a small town, 
 
 	
 
+	
+	
+
+### Escape Room: Tournament of Champions
+*Released on 2021-06-30, vote average 6*
+
+Six people unwittingly find themselves locked in another series of escape rooms, slowly uncovering what they have in common to survive as they discover all the games that they&#39;ve played before.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KlfUbZJVInA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
