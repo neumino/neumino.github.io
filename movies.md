@@ -47,7 +47,7 @@ Luca and his best friend Alberto experience an unforgettable summer on the Itali
 	
 
 ### Fatherhood
-*Released on 2021-06-18, vote average 8.1*
+*Released on 2021-06-18, vote average 8*
 
 A widowed new dad copes with doubts, fears, heartache and dirty diapers as he sets out to raise his daughter on his own. Inspired by a true story.
 
@@ -69,7 +69,7 @@ A widowed new dad copes with doubts, fears, heartache and dirty diapers as he se
 	
 
 ### Batman: The Long Halloween, Part One
-*Released on 2021-06-21, vote average 7.5*
+*Released on 2021-06-21, vote average 7.6*
 
 Following a brutal series of murders taking place on Halloween, Thanksgiving, and Christmas, Gotham City&#39;s young vigilante known as the Batman sets out to pursue the mysterious serial killer alongside police officer James Gordon and district attorney Harvey Dent.
 
@@ -91,7 +91,7 @@ Following a brutal series of murders taking place on Halloween, Thanksgiving, an
 	
 
 ### Jagame Thandhiram
-*Released on 2021-06-18, vote average 6.2*
+*Released on 2021-06-18, vote average 6.1*
 
 When a clever, carefree gangster is recruited to help an overseas crime lord take down a rival, he is caught off guard by the moral dilemmas that follow.
 
@@ -135,7 +135,7 @@ The De La Mora siblings concoct a mischievous plan to break into their old famil
 	
 
 ### The Ice Road
-*Released on 2021-06-25, vote average 6.2*
+*Released on 2021-06-24, vote average 6.6*
 
 After a remote diamond mine collapses in far northern Canada, an ice road driver must lead an impossible rescue mission over a frozen ocean to save the trapped miners.
 
@@ -154,15 +154,10 @@ After a remote diamond mine collapses in far northern Canada, an ice road driver
 
 
 	
-
-  
-
-
-	
 	
 
 ### Good on Paper
-*Released on 2021-06-23, vote average 6*
+*Released on 2021-06-23, vote average 6.1*
 
 After years of putting her career ahead of love, stand-up comic Andrea Singer has stumbled upon the perfect guy. On paper, he checks all the boxes but is he everything he appears to be?
 
@@ -193,10 +188,37 @@ After years of putting her career ahead of love, stand-up comic Andrea Singer ha
 
 
 	
+
+  
+
+
+	
+	
+
+### Lansky
+*Released on 2021-06-24, vote average 8.5*
+
+When the aging Meyer Lansky is investigated one last time by the Feds who suspect he has stashed away millions of dollars over half a century, the retired gangster spins a dizzying tale, revealing the untold truth about his life as the notorious boss of Murder Inc. and the National Crime Syndicate.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/YMUKZRpiSAc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 
 ### Fathom
-*Released on 2021-06-25, vote average 6*
+*Released on 2021-06-25, vote average 7*
 
 Two biologists set out on an undertaking as colossal as their subjects—deciphering the complex communication of whales. Dr. Michelle Fournet and Dr. Ellen Garland journey to opposite hemispheres to uncover a culture eons older than our own.
 
@@ -217,43 +239,16 @@ Two biologists set out on an undertaking as colossal as their subjects—deciphe
 	
 	
 
-### Mary J. Blige&#39;s My Life
-*Released on 2021-06-25, vote average 9*
+### Headspace: Unwind Your Mind
+*Released on 2021-06-15, vote average 6*
 
-Mary J. Blige set the music world on fire with her trailblazing 1994 LP &#34;My Life.&#34; The singer, producer and actress reveals the demons and blessings that inspired the record and propelled her to international stardom. She celebrates the 25th anniversary of her most influential work by performing the album live for the first time.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EeaCZt31hVA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Wolfgang
-*Released on 2021-06-25, vote average 6*
-
-An intimate portrait of the life and work of the original &#34;celebrity chef&#34; Wolfgang Puck.
+Do you want to relax, meditate or sleep deeply? Personalize the experience according to your mood or mindset with this Headspace interactive special.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xDlGkFoj1TY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/H65oSNmSLmc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -266,16 +261,16 @@ An intimate portrait of the life and work of the original &#34;celebrity chef&#3
 	
 	
 
-### Who Are You, Charlie Brown?
-*Released on 2021-06-25, vote average 7.3*
+### False Positive
+*Released on 2021-06-18, vote average 6.3*
 
-A documentary about Peanuts and its creator, Charles M. Schulz. Famous fans—including Drew Barrymore, Kevin Smith, and Al Roker—share its influence on them, and a new animated story finds Charlie Brown on a quest.
+After months of trying and failing to get pregnant, Lucy and Adrian finally find their dream fertility doctor in the illustrious Dr. Hindle. But after becoming pregnant with a healthy baby girl, Lucy begins to notice something sinister through Hindle&#39;s gleaming charm, and she sets out to uncover the unsettling truth about him, and her own &#34;birth story.&#34; As if getting pregnant weren&#39;t complicated enough...
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/zIAz8EAIDfo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/rfU7q9OG1TI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -314,24 +309,17 @@ The Teen Titans are visited by the Nerdlucks, the iconic Space Jam villains who 
 
 	
 	
-	
 
-  
+### Mary J. Blige&#39;s My Life
+*Released on 2021-06-25, vote average 9*
 
-
-	
-	
-
-### Headspace: Unwind Your Mind
-*Released on 2021-06-15, vote average 6*
-
-Do you want to relax, meditate or sleep deeply? Personalize the experience according to your mood or mindset with this Headspace interactive special.
+Mary J. Blige set the music world on fire with her trailblazing 1994 LP &#34;My Life.&#34; The singer, producer and actress reveals the demons and blessings that inspired the record and propelled her to international stardom. She celebrates the 25th anniversary of her most influential work by performing the album live for the first time.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/H65oSNmSLmc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/EeaCZt31hVA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -343,17 +331,31 @@ Do you want to relax, meditate or sleep deeply? Personalize the experience accor
 
 	
 	
+	
 
-### Werewolves Within
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Who Are You, Charlie Brown?
 *Released on 2021-06-25, vote average 7.3*
 
-When a proposed pipeline creates hostilities between residents of a small town, a newly-arrived forest ranger must keep the peace after a snowstorm confines the townspeople to an old lodge. But when a mysterious creature begins terrorizing the group, their worst tendencies and prejudices rise to the surface, and it is up to the ranger to keep the residents alive, both from each other and the monster which plagues them.
+A documentary about Peanuts and its creator, Charles M. Schulz. Famous fans—including Drew Barrymore, Kevin Smith, and Al Roker—share its influence on them, and a new animated story finds Charlie Brown on a quest.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/mjH5sGOTJuI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/zIAz8EAIDfo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -368,9 +370,43 @@ When a proposed pipeline creates hostilities between residents of a small town, 
 
 
 	
+	
+
+### The Boss Baby: Family Business
+*Released on 2021-07-01, vote average 7.9*
+
+The Templeton brothers — Tim and his Boss Baby little bro Ted — have become adults and drifted away from each other. But a new boss baby with a cutting-edge approach and a can-do attitude is about to bring them together again … and inspire a new family business.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QPzy8Ckza08?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
+	
+	
+
+### The Tomorrow War
+*Released on 2021-07-01, vote average 9*
+
+An ordinary man is recruited by time travellers from 30 years in the future to fight in a war against deadly aliens.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Ob4NC4D6zTU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -379,7 +415,7 @@ When a proposed pipeline creates hostilities between residents of a small town, 
 	
 
 ### Escape Room: Tournament of Champions
-*Released on 2021-06-30, vote average 6*
+*Released on 2021-07-01, vote average 6*
 
 Six people unwittingly find themselves locked in another series of escape rooms, slowly uncovering what they have in common to survive as they discover all the games that they&#39;ve played before.
 
@@ -408,6 +444,8 @@ Six people unwittingly find themselves locked in another series of escape rooms,
 
 	
 
+	
+	
 	
 
 	
