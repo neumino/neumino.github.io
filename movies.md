@@ -69,7 +69,7 @@ A widowed new dad copes with doubts, fears, heartache and dirty diapers as he se
 	
 
 ### Batman: The Long Halloween, Part One
-*Released on 2021-06-21, vote average 7.6*
+*Released on 2021-06-21, vote average 7.7*
 
 Following a brutal series of murders taking place on Halloween, Thanksgiving, and Christmas, Gotham City&#39;s young vigilante known as the Batman sets out to pursue the mysterious serial killer alongside police officer James Gordon and district attorney Harvey Dent.
 
@@ -113,7 +113,7 @@ When a clever, carefree gangster is recruited to help an overseas crime lord tak
 	
 
 ### The House of Flowers: The Movie
-*Released on 2021-06-23, vote average 9*
+*Released on 2021-06-23, vote average 8.9*
 
 The De La Mora siblings concoct a mischievous plan to break into their old family home to retrieve a hidden treasure of significant importance.
 
@@ -135,7 +135,7 @@ The De La Mora siblings concoct a mischievous plan to break into their old famil
 	
 
 ### The Ice Road
-*Released on 2021-06-24, vote average 6.6*
+*Released on 2021-06-24, vote average 7.5*
 
 After a remote diamond mine collapses in far northern Canada, an ice road driver must lead an impossible rescue mission over a frozen ocean to save the trapped miners.
 
@@ -157,7 +157,7 @@ After a remote diamond mine collapses in far northern Canada, an ice road driver
 	
 
 ### Good on Paper
-*Released on 2021-06-23, vote average 6.1*
+*Released on 2021-06-23, vote average 6*
 
 After years of putting her career ahead of love, stand-up comic Andrea Singer has stumbled upon the perfect guy. On paper, he checks all the boxes but is he everything he appears to be?
 
@@ -177,34 +177,17 @@ After years of putting her career ahead of love, stand-up comic Andrea Singer ha
 
 	
 	
-	
 
-  
+### The Forever Purge
+*Released on 2021-06-30, vote average 7.5*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Lansky
-*Released on 2021-06-24, vote average 8.5*
-
-When the aging Meyer Lansky is investigated one last time by the Feds who suspect he has stashed away millions of dollars over half a century, the retired gangster spins a dizzying tale, revealing the untold truth about his life as the notorious boss of Murder Inc. and the National Crime Syndicate.
+All the rules are broken as a sect of lawless marauders decides that the annual Purge does not stop at daybreak and instead should never end.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/YMUKZRpiSAc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xOrXpK-rUaI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -216,43 +199,11 @@ When the aging Meyer Lansky is investigated one last time by the Feds who suspec
 
 	
 	
-
-### Fathom
-*Released on 2021-06-25, vote average 7*
-
-Two biologists set out on an undertaking as colossal as their subjects—deciphering the complex communication of whales. Dr. Michelle Fournet and Dr. Ellen Garland journey to opposite hemispheres to uncover a culture eons older than our own.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Y-Mmnk0LZLU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
 
 
-	
-	
-
-### Headspace: Unwind Your Mind
-*Released on 2021-06-15, vote average 6*
-
-Do you want to relax, meditate or sleep deeply? Personalize the experience according to your mood or mindset with this Headspace interactive special.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/H65oSNmSLmc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -262,7 +213,7 @@ Do you want to relax, meditate or sleep deeply? Personalize the experience accor
 	
 
 ### False Positive
-*Released on 2021-06-18, vote average 6.3*
+*Released on 2021-06-18, vote average 5.8*
 
 After months of trying and failing to get pregnant, Lucy and Adrian finally find their dream fertility doctor in the illustrious Dr. Hindle. But after becoming pregnant with a healthy baby girl, Lucy begins to notice something sinister through Hindle&#39;s gleaming charm, and she sets out to uncover the unsettling truth about him, and her own &#34;birth story.&#34; As if getting pregnant weren&#39;t complicated enough...
 
@@ -303,23 +254,18 @@ The Teen Titans are visited by the Nerdlucks, the iconic Space Jam villains who 
 
 
 	
-
-  
-
-
-	
 	
 
-### Mary J. Blige&#39;s My Life
-*Released on 2021-06-25, vote average 9*
+### Lansky
+*Released on 2021-06-24, vote average 8.5*
 
-Mary J. Blige set the music world on fire with her trailblazing 1994 LP &#34;My Life.&#34; The singer, producer and actress reveals the demons and blessings that inspired the record and propelled her to international stardom. She celebrates the 25th anniversary of her most influential work by performing the album live for the first time.
+When the aging Meyer Lansky is investigated one last time by the Feds who suspect he has stashed away millions of dollars over half a century, the retired gangster spins a dizzying tale, revealing the untold truth about his life as the notorious boss of Murder Inc. and the National Crime Syndicate.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/EeaCZt31hVA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/YMUKZRpiSAc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -331,35 +277,85 @@ Mary J. Blige set the music world on fire with her trailblazing 1994 LP &#34;My 
 
 	
 	
-	
 
-  
+### Ripper Untold
+*Released on 2021-06-28, vote average 4*
 
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Who Are You, Charlie Brown?
-*Released on 2021-06-25, vote average 7.3*
-
-A documentary about Peanuts and its creator, Charles M. Schulz. Famous fans—including Drew Barrymore, Kevin Smith, and Al Roker—share its influence on them, and a new animated story finds Charlie Brown on a quest.
+A detective and a medical examiner join forces to solve a series of horrific murders in Victorian London - but one of them harbours a deadly secret.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/zIAz8EAIDfo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/7HRP_qWm4rI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Fathom
+*Released on 2021-06-25, vote average 7.7*
+
+Two biologists set out on an undertaking as colossal as their subjects—deciphering the complex communication of whales. Dr. Michelle Fournet and Dr. Ellen Garland journey to opposite hemispheres to uncover a culture eons older than our own.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Y-Mmnk0LZLU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Gaia
+*Released on 2021-06-18, vote average 6.3*
+
+On a surveillance mission in a primordial forest, a park ranger encounters two survivalists following a post-apocalyptic lifestyle. The boy and his philosophical father seem to have their own religion, and a mysterious relationship to nature. There are many suspicious aspects to their existence, but when the cabin is attacked by strange, post-human beings one night, she learns that there is a greater threat in this emergent wilderness. Gaia is an ecological horror fantasy which engages the burning issues of our time.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/UcQCYL08w6I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -368,6 +364,8 @@ A documentary about Peanuts and its creator, Charles M. Schulz. Famous fans—in
 
 ## Opening soon
 
+
+	
 
 	
 	
@@ -389,12 +387,29 @@ The Templeton brothers — Tim and his Boss Baby little bro Ted — have become 
 	
 
 	
+	
+
+### The Forever Purge
+*Released on 2021-06-30, vote average 7.5*
+
+All the rules are broken as a sect of lawless marauders decides that the annual Purge does not stop at daybreak and instead should never end.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xOrXpK-rUaI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 	
 
 ### The Tomorrow War
-*Released on 2021-07-01, vote average 9*
+*Released on 2021-07-01, vote average 9.5*
 
 An ordinary man is recruited by time travellers from 30 years in the future to fight in a war against deadly aliens.
 
@@ -431,6 +446,33 @@ Six people unwittingly find themselves locked in another series of escape rooms,
 	
 
 	
+	
+
+### Till Death
+*Released on 2021-07-01, vote average 6*
+
+After a romantic evening at their secluded lake house, a woman wakes up handcuffed to her dead husband. Trapped and isolated in the dead of winter, she must fight off hired killers to escape her late spouse&#39;s twisted plan.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Wfmb1-UEpW4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+
+	
+	
+	
 
 	
 
@@ -445,21 +487,26 @@ Six people unwittingly find themselves locked in another series of escape rooms,
 	
 
 	
-	
-	
 
 	
 
 	
-
 	
 
-	
+### Teddy
+*Released on 2021-06-30, vote average 6*
+
+France, Pyrénées. Twentysomething Teddy lives in a foster home and works as a temp in a massage parlor. Rebecca, his girlfriend, will soon graduate. A scorching hot summer begins. But Teddy is scratched by a beast in the woods: the wolf that local angry farmers have been hunting for months. As weeks go by, animal pulsions soon start to overcome the young man…
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/eKH22bk2W9M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-	
-
 	
 
 
