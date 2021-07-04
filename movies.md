@@ -69,9 +69,9 @@ The De La Mora siblings concoct a mischievous plan to break into their old famil
 	
 
 ### The Tomorrow War
-*Released on 2021-06-30, vote average 9.5*
+*Released on 2021-06-30, vote average 8.9*
 
-The world is stunned when a group of time travelers arrive from the year 2051 to deliver an urgent message: Thirty years in the future, mankind is losing a global war against a deadly alien species. The only hope for survival is for soldiers and civilians from the present to be transported to the future and join the fight. Among those recruited is high school teacher and family man Dan Forester. Determined to save the world for his young daughter, Dan teams up with a brilliant scientist and his estranged father  in a desperate quest to rewrite the fate of the planet.
+The world is stunned when a group of time travelers arrive from the year 2051 to deliver an urgent message: Thirty years in the future, mankind is losing a global war against a deadly alien species. The only hope for survival is for soldiers and civilians from the present to be transported to the future and join the fight. Among those recruited is high school teacher and family man Dan Forester. Determined to save the world for his young daughter, Dan teams up with a brilliant scientist and his estranged father in a desperate quest to rewrite the fate of the planet.
 
 <iframe id="player"
 	type="text/html"
@@ -91,7 +91,7 @@ The world is stunned when a group of time travelers arrive from the year 2051 to
 	
 
 ### The Forever Purge
-*Released on 2021-06-30, vote average 6.7*
+*Released on 2021-06-30, vote average 5.8*
 
 All the rules are broken as a sect of lawless marauders decides that the annual Purge does not stop at daybreak and instead should never end.
 
@@ -100,6 +100,28 @@ All the rules are broken as a sect of lawless marauders decides that the annual 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/xOrXpK-rUaI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Boss Baby: Family Business
+*Released on 2021-07-01, vote average 8.4*
+
+The Templeton brothers — Tim and his Boss Baby little bro Ted — have become adults and drifted away from each other. But a new boss baby with a cutting-edge approach and a can-do attitude is about to bring them together again … and inspire a new family business.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QPzy8Ckza08?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -156,16 +178,16 @@ After a remote diamond mine collapses in far northern Canada, an ice road driver
 	
 	
 
-### The Boss Baby: Family Business
-*Released on 2021-07-01, vote average 7.6*
+### America: The Motion Picture
+*Released on 2021-06-30, vote average 5*
 
-The Templeton brothers — Tim and his Boss Baby little bro Ted — have become adults and drifted away from each other. But a new boss baby with a cutting-edge approach and a can-do attitude is about to bring them together again … and inspire a new family business.
+A chainsaw-wielding George Washington teams with beer-loving bro Sam Adams to take down the Brits in a tongue-in-cheek riff on the American Revolution.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/QPzy8Ckza08?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/hu0O-q7Kf2k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -181,8 +203,6 @@ The Templeton brothers — Tim and his Boss Baby little bro Ted — have become 
 
 
 	
-	
-	
 
   
 
@@ -191,7 +211,7 @@ The Templeton brothers — Tim and his Boss Baby little bro Ted — have become 
 	
 
 ### A Cinderella Story: Starstruck
-*Released on 2021-06-29, vote average 5.9*
+*Released on 2021-06-29, vote average 7.7*
 
 Finley Tremaine, a small-town farm girl, longs to spread her wings and soar as an aspiring performer. When a Hollywood film crew arrives in her sleepy town, she is determined to land a role in the production and capture the attention of handsome lead actor Jackson Stone. Unfortunately, a botched audition forces her to change course. Now, disguised as cowboy “Huck,” Finley finally gets her big break. But can she keep the charade a secret from everyone, including her evil stepmother and devious step-siblings?
 
@@ -212,16 +232,16 @@ Finley Tremaine, a small-town farm girl, longs to spread her wings and soar as a
 	
 	
 
-### America: The Motion Picture
-*Released on 2021-06-30, vote average 4.8*
+### Fear Street Part One: 1994
+*Released on 2021-07-02, vote average 7*
 
-A chainsaw-wielding George Washington teams with beer-loving bro Sam Adams to take down the Brits in a tongue-in-cheek riff on the American Revolution.
+In 1994, a group of teenagers discovers that the terrifying events which have haunted their town for generations ​are all connected — and that they may be the next targets.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/hu0O-q7Kf2k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/UyUuzCGblqc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -233,26 +253,6 @@ A chainsaw-wielding George Washington teams with beer-loving bro Sam Adams to ta
 
 	
 	
-
-### Escape Room: Tournament of Champions
-*Released on 2021-07-01, vote average 8*
-
-Six people unwittingly find themselves locked in another series of escape rooms, slowly uncovering what they have in common to survive as they discover all the games that they&#39;ve played before.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/KlfUbZJVInA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -283,43 +283,16 @@ A documentary about Peanuts and its creator, Charles M. Schulz. Famous fans—in
 	
 	
 
-### Fear Street Part One: 1994
-*Released on 2021-07-02, vote average 9*
+### Summer of Soul (...or, When the Revolution Could Not Be Televised)
+*Released on 2021-07-02, vote average 6*
 
-In 1994, a group of teenagers discovers that the terrifying events which have haunted their town for generations ​are all connected — and that they may be the next targets.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/UyUuzCGblqc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Lansky
-*Released on 2021-06-24, vote average 5.7*
-
-When the aging Meyer Lansky is investigated one last time by the Feds who suspect he has stashed away millions of dollars over half a century, the retired gangster spins a dizzying tale, revealing the untold truth about his life as the notorious boss of Murder Inc. and the National Crime Syndicate.
+During the same summer as Woodstock, over 300,000 people attended the Harlem Cultural Festival, celebrating African American music and culture, and promoting Black pride and unity. The footage from the festival sat in a basement, unseen for over 50 years, keeping this incredible event in America&#39;s history lost—until now.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/YMUKZRpiSAc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/U1Eg-vtSABE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -333,7 +306,7 @@ When the aging Meyer Lansky is investigated one last time by the Feds who suspec
 	
 
 ### Till Death
-*Released on 2021-07-01, vote average 6.7*
+*Released on 2021-07-01, vote average 6.6*
 
 After a romantic evening at their secluded lake house, a woman wakes up handcuffed to her dead husband. Trapped and isolated in the dead of winter, she must fight off hired killers to escape her late spouse&#39;s twisted plan.
 
@@ -342,6 +315,28 @@ After a romantic evening at their secluded lake house, a woman wakes up handcuff
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/Wfmb1-UEpW4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Escape Room: Tournament of Champions
+*Released on 2021-07-01, vote average 8.3*
+
+Six people unwittingly find themselves locked in another series of escape rooms, slowly uncovering what they have in common to survive as they discover all the games that they&#39;ve played before.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KlfUbZJVInA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -374,6 +369,13 @@ The Teen Titans are visited by the Nerdlucks, the iconic Space Jam villains who 
 
 
 	
+	
+	
+
+  
+
+
+	
 
   
 
@@ -388,6 +390,23 @@ The Teen Titans are visited by the Nerdlucks, the iconic Space Jam villains who 
 
 	
 
+	
+	
+
+### Monsters of Man
+*Released on 2021-07-08, vote average 6.8*
+
+A robotics company vying to win a lucrative military contract team up with a corrupt CIA agent to conduct an illegal live field test. They deploy four weaponized prototype robots into a suspected drug manufacturing camp in the Golden Triangle, assuming they&#39;d be killing drug runners that no one would miss. Six doctors on a humanitarian mission witness the brutal slaughter and become prime targets.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Ada9SU8tShA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
