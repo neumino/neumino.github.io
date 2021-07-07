@@ -46,52 +46,8 @@ The world is stunned when a group of time travelers arrive from the year 2051 to
 	
 	
 
-### The House of Flowers: The Movie
-*Released on 2021-06-23, vote average 9*
-
-The De La Mora siblings concoct a mischievous plan to break into their old family home to retrieve a hidden treasure of significant importance.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/U58oFGixd5M?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Forever Purge
-*Released on 2021-06-30, vote average 7.1*
-
-All the rules are broken as a sect of lawless marauders decides that the annual Purge does not stop at daybreak and instead should never end.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xOrXpK-rUaI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Boss Baby: Family Business
-*Released on 2021-07-01, vote average 7.8*
+*Released on 2021-07-01, vote average 7.7*
 
 The Templeton brothers — Tim and his Boss Baby little bro Ted — have become adults and drifted away from each other. But a new boss baby with a cutting-edge approach and a can-do attitude is about to bring them together again … and inspire a new family business.
 
@@ -112,16 +68,82 @@ The Templeton brothers — Tim and his Boss Baby little bro Ted — have become 
 	
 	
 
-### The Ice Road
-*Released on 2021-06-24, vote average 7.5*
+### The Forever Purge
+*Released on 2021-06-30, vote average 7.2*
 
-After a remote diamond mine collapses in far northern Canada, an ice road driver must lead an impossible rescue mission over a frozen ocean to save the trapped miners.
+All the rules are broken as a sect of lawless marauders decides that the annual Purge does not stop at daybreak and instead should never end.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-zjikObAJHk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xOrXpK-rUaI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The House of Flowers: The Movie
+*Released on 2021-06-23, vote average 8.8*
+
+The De La Mora siblings concoct a mischievous plan to break into their old family home to retrieve a hidden treasure of significant importance.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/U58oFGixd5M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Black Widow
+*Released on 2021-07-07, vote average 8.4*
+
+Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/RxAtuMu_ph4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### America: The Motion Picture
+*Released on 2021-06-30, vote average 5.2*
+
+A chainsaw-wielding George Washington teams with beer-loving bro Sam Adams to take down the Brits in a tongue-in-cheek riff on the American Revolution.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hu0O-q7Kf2k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -156,16 +178,16 @@ After years of putting her career ahead of love, stand-up comic Andrea Singer ha
 	
 	
 
-### America: The Motion Picture
-*Released on 2021-06-30, vote average 5.1*
+### The Ice Road
+*Released on 2021-06-24, vote average 7.4*
 
-A chainsaw-wielding George Washington teams with beer-loving bro Sam Adams to take down the Brits in a tongue-in-cheek riff on the American Revolution.
+After a remote diamond mine collapses in far northern Canada, an ice road driver must lead an impossible rescue mission over a frozen ocean to save the trapped miners.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/hu0O-q7Kf2k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-zjikObAJHk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -198,15 +220,10 @@ In 1994, a group of teenagers discovers that the terrifying events which have ha
 
 
 	
-
-  
-
-
-	
 	
 
 ### Till Death
-*Released on 2021-07-01, vote average 6.1*
+*Released on 2021-07-01, vote average 6.5*
 
 After a romantic evening at their secluded lake house, a woman wakes up handcuffed to her dead husband. Trapped and isolated in the dead of winter, she must fight off hired killers to escape her late spouse&#39;s twisted plan.
 
@@ -215,6 +232,47 @@ After a romantic evening at their secluded lake house, a woman wakes up handcuff
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/Wfmb1-UEpW4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### No Sudden Move
+*Released on 2021-06-24, vote average 7*
+
+A group of criminals are brought together under mysterious circumstances and have to work together to uncover what&#39;s really going on when their simple job goes completely sideways.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/s3JxUdbJ0do?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -236,23 +294,9 @@ After a romantic evening at their secluded lake house, a woman wakes up handcuff
 
 	
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
 
 ### Who Are You, Charlie Brown?
-*Released on 2021-06-25, vote average 7.3*
+*Released on 2021-06-25, vote average 7.1*
 
 A documentary about Peanuts and its creator, Charles M. Schulz. Famous fans—including Drew Barrymore, Kevin Smith, and Al Roker—share its influence on them, and a new animated story finds Charlie Brown on a quest.
 
@@ -273,67 +317,16 @@ A documentary about Peanuts and its creator, Charles M. Schulz. Famous fans—in
 	
 	
 
-### The God Committee
-*Released on 2021-07-02, vote average 8.3*
+### Werewolves Within
+*Released on 2021-06-25, vote average 7.3*
 
-Medicine, money and morality clash when a hospital&#39;s Heart Transplant Selection Committee has only minutes to decide which of three patients on the transplant list will receive a heart that has suddenly become available.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/c8npSZclPOY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### No Sudden Move
-*Released on 2021-06-24, vote average 6.9*
-
-A group of criminals are brought together under mysterious circumstances and have to work together to uncover what&#39;s really going on when their simple job goes completely sideways.
+When a proposed pipeline creates hostilities between residents of a small town, a newly-arrived forest ranger must keep the peace after a snowstorm confines the townspeople to an old lodge. But when a mysterious creature begins terrorizing the group, their worst tendencies and prejudices rise to the surface, and it is up to the ranger to keep the residents alive, both from each other and the monster which plagues them.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/s3JxUdbJ0do?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### A Cinderella Story: Starstruck
-*Released on 2021-06-29, vote average 7.6*
-
-Finley Tremaine, a small-town farm girl, longs to spread her wings and soar as an aspiring performer. When a Hollywood film crew arrives in her sleepy town, she is determined to land a role in the production and capture the attention of handsome lead actor Jackson Stone. Unfortunately, a botched audition forces her to change course. Now, disguised as cowboy “Huck,” Finley finally gets her big break. But can she keep the charade a secret from everyone, including her evil stepmother and devious step-siblings?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZNO3ibABY50?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/mjH5sGOTJuI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -365,6 +358,13 @@ Six people unwittingly find themselves locked in another series of escape rooms,
   
 
 
+	
+	
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -373,7 +373,7 @@ Six people unwittingly find themselves locked in another series of escape rooms,
 	
 
 ### Black Widow
-*Released on 2021-07-07, vote average 8.1*
+*Released on 2021-07-07, vote average 8.4*
 
 Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.
 
@@ -382,6 +382,27 @@ Natasha Romanoff, also known as Black Widow, confronts the darker parts of her l
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/RxAtuMu_ph4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+	
+
+### Fear Street Part Two: 1978
+*Released on 2021-07-09, vote average 10*
+
+In 1978, two rival groups at Camp Nightwing must band together to solve a terrifying mystery when horrors from their towns&#39; history come alive.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/UyUuzCGblqc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -409,10 +430,6 @@ A robotics company vying to win a lucrative military contract team up with a cor
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
 	
 
 	
