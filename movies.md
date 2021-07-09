@@ -47,7 +47,7 @@ The world is stunned when a group of time travelers arrive from the year 2051 to
 	
 
 ### The Boss Baby: Family Business
-*Released on 2021-07-01, vote average 7.9*
+*Released on 2021-07-01, vote average 8*
 
 The Templeton brothers — Tim and his Boss Baby little bro Ted — have become adults and drifted away from each other. But a new boss baby with a cutting-edge approach and a can-do attitude is about to bring them together again … and inspire a new family business.
 
@@ -69,7 +69,7 @@ The Templeton brothers — Tim and his Boss Baby little bro Ted — have become 
 	
 
 ### Black Widow
-*Released on 2021-07-07, vote average 8.5*
+*Released on 2021-07-07, vote average 7.4*
 
 Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.
 
@@ -91,7 +91,7 @@ Natasha Romanoff, also known as Black Widow, confronts the darker parts of her l
 	
 
 ### The Forever Purge
-*Released on 2021-06-30, vote average 7.4*
+*Released on 2021-06-30, vote average 7.5*
 
 All the rules are broken as a sect of lawless marauders decides that the annual Purge does not stop at daybreak and instead should never end.
 
@@ -113,7 +113,7 @@ All the rules are broken as a sect of lawless marauders decides that the annual 
 	
 
 ### America: The Motion Picture
-*Released on 2021-06-30, vote average 5.4*
+*Released on 2021-06-30, vote average 5.3*
 
 A chainsaw-wielding George Washington teams with beer-loving bro Sam Adams to take down the Brits in a tongue-in-cheek riff on the American Revolution.
 
@@ -168,16 +168,16 @@ In 1994, a group of teenagers discovers that the terrifying events which have ha
 	
 	
 
-### The Ice Road
-*Released on 2021-06-24, vote average 7.4*
+### Fear Street Part Two: 1978
+*Released on 2021-07-09, vote average 10*
 
-After a remote diamond mine collapses in far northern Canada, an ice road driver must lead an impossible rescue mission over a frozen ocean to save the trapped miners.
+In 1978, two rival groups at Camp Nightwing must band together to solve a terrifying mystery when horrors from their towns&#39; history come alive.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-zjikObAJHk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/UyUuzCGblqc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -194,28 +194,6 @@ After a remote diamond mine collapses in far northern Canada, an ice road driver
   
 
 
-	
-
-  
-
-
-	
-	
-
-### No Sudden Move
-*Released on 2021-06-24, vote average 6.9*
-
-A group of criminals are brought together under mysterious circumstances and have to work together to uncover what&#39;s really going on when their simple job goes completely sideways.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/s3JxUdbJ0do?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -252,7 +230,7 @@ After a romantic evening at their secluded lake house, a woman wakes up handcuff
 	
 
 ### Werewolves Within
-*Released on 2021-06-25, vote average 7.3*
+*Released on 2021-06-25, vote average 7.4*
 
 When a proposed pipeline creates hostilities between residents of a small town, a newly-arrived forest ranger must keep the peace after a snowstorm confines the townspeople to an old lodge. But when a mysterious creature begins terrorizing the group, their worst tendencies and prejudices rise to the surface, and it is up to the ranger to keep the residents alive, both from each other and the monster which plagues them.
 
@@ -261,55 +239,6 @@ When a proposed pipeline creates hostilities between residents of a small town, 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/mjH5sGOTJuI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Annette
-*Released on 2021-07-06, vote average 8.2*
-
-The story of Henry, a stand-up comedian with a fierce sense of humor and Ann, a singer of international renown. In the spotlight, they are the perfect couple, healthy, happy, and glamourous. The birth of their first child, Annette, a mysterious girl with an exceptional destiny, will change their lives.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/l_EaNpL16SU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Escape Room: Tournament of Champions
-*Released on 2021-07-01, vote average 8.3*
-
-Six people unwittingly find themselves locked in another series of escape rooms, slowly uncovering what they have in common to survive as they discover all the games that they&#39;ve played before.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/KlfUbZJVInA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -342,6 +271,77 @@ A documentary about Peanuts and its creator, Charles M. Schulz. Famous fans—in
 
 
 	
+	
+
+### Monsters of Man
+*Released on 2021-07-08, vote average 5*
+
+A robotics company vying to win a lucrative military contract team up with a corrupt CIA agent to conduct an illegal live field test. They deploy four weaponized prototype robots into a suspected drug manufacturing camp in the Golden Triangle, assuming they&#39;d be killing drug runners that no one would miss. Six doctors on a humanitarian mission witness the brutal slaughter and become prime targets.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Ada9SU8tShA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Escape Room: Tournament of Champions
+*Released on 2021-07-01, vote average 8.3*
+
+Six people unwittingly find themselves locked in another series of escape rooms, slowly uncovering what they have in common to survive as they discover all the games that they&#39;ve played before.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KlfUbZJVInA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Annette
+*Released on 2021-07-06, vote average 8.4*
+
+The story of Henry, a stand-up comedian with a fierce sense of humor and Ann, a singer of international renown. In the spotlight, they are the perfect couple, healthy, happy, and glamourous. The birth of their first child, Annette, a mysterious girl with an exceptional destiny, will change their lives.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/l_EaNpL16SU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 
   
 
@@ -349,8 +349,6 @@ A documentary about Peanuts and its creator, Charles M. Schulz. Famous fans—in
 
 ## Opening soon
 
-
-	
 
 	
 	
@@ -376,45 +374,13 @@ In 1978, two rival groups at Camp Nightwing must band together to solve a terrif
 	
 
 	
-	
-
-### Monsters of Man
-*Released on 2021-07-08, vote average 5*
-
-A robotics company vying to win a lucrative military contract team up with a corrupt CIA agent to conduct an illegal live field test. They deploy four weaponized prototype robots into a suspected drug manufacturing camp in the Golden Triangle, assuming they&#39;d be killing drug runners that no one would miss. Six doctors on a humanitarian mission witness the brutal slaughter and become prime targets.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Ada9SU8tShA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
 	
 
 	
-	
 
-### The Trip to Greece
-*Released on 2021-07-08, vote average 10*
-
-Steve Coogan and Rob Brydon continue their travelogue series with a visit to Greece.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/NgwpeZafRfE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
