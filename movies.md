@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Tomorrow War
-*Released on 2021-07-02, vote average 8.5*
+*Released on 2021-07-02, vote average 8.4*
 
 The world is stunned when a group of time travelers arrive from the year 2051 to deliver an urgent message: Thirty years in the future, mankind is losing a global war against a deadly alien species. The only hope for survival is for soldiers and civilians from the present to be transported to the future and join the fight. Among those recruited is high school teacher and family man Dan Forester. Determined to save the world for his young daughter, Dan teams up with a brilliant scientist and his estranged father in a desperate quest to rewrite the fate of the planet.
 
@@ -91,7 +91,7 @@ Natasha Romanoff, also known as Black Widow, confronts the darker parts of her l
 	
 
 ### The Forever Purge
-*Released on 2021-06-30, vote average 7.5*
+*Released on 2021-06-30, vote average 7.4*
 
 All the rules are broken as a sect of lawless marauders decides that the annual Purge does not stop at daybreak and instead should never end.
 
@@ -132,15 +132,10 @@ A chainsaw-wielding George Washington teams with beer-loving bro Sam Adams to ta
 
 
 	
-
-  
-
-
-	
 	
 
 ### Fear Street Part One: 1994
-*Released on 2021-07-02, vote average 6.8*
+*Released on 2021-06-28, vote average 6.8*
 
 In 1994, a group of teenagers discovers that the terrifying events which have haunted their town for generations ​are all connected — and that they may be the next targets.
 
@@ -153,6 +148,11 @@ In 1994, a group of teenagers discovers that the terrifying events which have ha
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -200,10 +200,15 @@ In 1978, two rival groups at Camp Nightwing must band together to solve a terrif
 
 
 	
+
+  
+
+
+	
 	
 
 ### Till Death
-*Released on 2021-07-01, vote average 6.6*
+*Released on 2021-07-01, vote average 6.8*
 
 After a romantic evening at their secluded lake house, a woman wakes up handcuffed to her dead husband. Trapped and isolated in the dead of winter, she must fight off hired killers to escape her late spouse&#39;s twisted plan.
 
@@ -229,16 +234,16 @@ After a romantic evening at their secluded lake house, a woman wakes up handcuff
 	
 	
 
-### Werewolves Within
-*Released on 2021-06-25, vote average 7.4*
+### Escape Room: Tournament of Champions
+*Released on 2021-07-01, vote average 7.9*
 
-When a proposed pipeline creates hostilities between residents of a small town, a newly-arrived forest ranger must keep the peace after a snowstorm confines the townspeople to an old lodge. But when a mysterious creature begins terrorizing the group, their worst tendencies and prejudices rise to the surface, and it is up to the ranger to keep the residents alive, both from each other and the monster which plagues them.
+Six people unwittingly find themselves locked in another series of escape rooms, slowly uncovering what they have in common to survive as they discover all the games that they&#39;ve played before.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/mjH5sGOTJuI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/KlfUbZJVInA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -248,23 +253,6 @@ When a proposed pipeline creates hostilities between residents of a small town, 
   
 
 
-	
-	
-
-### Who Are You, Charlie Brown?
-*Released on 2021-06-25, vote average 7.5*
-
-A documentary about Peanuts and its creator, Charles M. Schulz. Famous fans—including Drew Barrymore, Kevin Smith, and Al Roker—share its influence on them, and a new animated story finds Charlie Brown on a quest.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zIAz8EAIDfo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -293,28 +281,6 @@ A robotics company vying to win a lucrative military contract team up with a cor
 
 
 	
-	
-
-### Escape Room: Tournament of Champions
-*Released on 2021-07-01, vote average 8.3*
-
-Six people unwittingly find themselves locked in another series of escape rooms, slowly uncovering what they have in common to survive as they discover all the games that they&#39;ve played before.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/KlfUbZJVInA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 
   
 
@@ -323,7 +289,7 @@ Six people unwittingly find themselves locked in another series of escape rooms,
 	
 
 ### Annette
-*Released on 2021-07-06, vote average 8.4*
+*Released on 2021-07-06, vote average 8.2*
 
 The story of Henry, a stand-up comedian with a fierce sense of humor and Ann, a singer of international renown. In the spotlight, they are the perfect couple, healthy, happy, and glamourous. The birth of their first child, Annette, a mysterious girl with an exceptional destiny, will change their lives.
 
@@ -350,23 +316,6 @@ The story of Henry, a stand-up comedian with a fierce sense of humor and Ann, a 
 ## Opening soon
 
 
-	
-	
-
-### Fear Street Part Two: 1978
-*Released on 2021-07-09, vote average 10*
-
-In 1978, two rival groups at Camp Nightwing must band together to solve a terrifying mystery when horrors from their towns&#39; history come alive.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/UyUuzCGblqc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
