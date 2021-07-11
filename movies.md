@@ -69,7 +69,7 @@ The Templeton brothers — Tim and his Boss Baby little bro Ted — have become 
 	
 
 ### Black Widow
-*Released on 2021-07-07, vote average 7.4*
+*Released on 2021-07-07, vote average 8.3*
 
 Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.
 
@@ -90,16 +90,16 @@ Natasha Romanoff, also known as Black Widow, confronts the darker parts of her l
 	
 	
 
-### The Forever Purge
-*Released on 2021-06-30, vote average 7.4*
+### America: The Motion Picture
+*Released on 2021-06-30, vote average 5.5*
 
-All the rules are broken as a sect of lawless marauders decides that the annual Purge does not stop at daybreak and instead should never end.
+A chainsaw-wielding George Washington teams with beer-loving bro Sam Adams to take down the Brits in a tongue-in-cheek riff on the American Revolution.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xOrXpK-rUaI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/hu0O-q7Kf2k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,16 +112,16 @@ All the rules are broken as a sect of lawless marauders decides that the annual 
 	
 	
 
-### America: The Motion Picture
-*Released on 2021-06-30, vote average 5.3*
+### The Forever Purge
+*Released on 2021-06-30, vote average 7.2*
 
-A chainsaw-wielding George Washington teams with beer-loving bro Sam Adams to take down the Brits in a tongue-in-cheek riff on the American Revolution.
+All the rules are broken as a sect of lawless marauders decides that the annual Purge does not stop at daybreak and instead should never end.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/hu0O-q7Kf2k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xOrXpK-rUaI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -154,6 +154,23 @@ In 1994, a group of teenagers discovers that the terrifying events which have ha
 
 
 	
+	
+
+### Space Jam: A New Legacy
+*Released on 2021-07-08, vote average 5.5*
+
+When LeBron and his young son Dom are trapped in a digital space by a rogue A.I., LeBron must get them home safe by leading Bugs, Lola Bunny and the whole gang of notoriously undisciplined Looney Tunes to victory over the A.I.&#39;s digitized champions on the court. It&#39;s Tunes versus Goons in the highest-stakes challenge of his life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/olXYZOsXw_o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -169,7 +186,7 @@ In 1994, a group of teenagers discovers that the terrifying events which have ha
 	
 
 ### Fear Street Part Two: 1978
-*Released on 2021-07-09, vote average 10*
+*Released on 2021-07-09, vote average 7.4*
 
 In 1978, two rival groups at Camp Nightwing must band together to solve a terrifying mystery when horrors from their towns&#39; history come alive.
 
@@ -207,33 +224,6 @@ In 1978, two rival groups at Camp Nightwing must band together to solve a terrif
 	
 	
 
-### Till Death
-*Released on 2021-07-01, vote average 6.8*
-
-After a romantic evening at their secluded lake house, a woman wakes up handcuffed to her dead husband. Trapped and isolated in the dead of winter, she must fight off hired killers to escape her late spouse&#39;s twisted plan.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Wfmb1-UEpW4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### Escape Room: Tournament of Champions
 *Released on 2021-07-01, vote average 7.9*
 
@@ -254,6 +244,23 @@ Six people unwittingly find themselves locked in another series of escape rooms,
 
 
 	
+	
+
+### Till Death
+*Released on 2021-07-01, vote average 7*
+
+After a romantic evening at their secluded lake house, a woman wakes up handcuffed to her dead husband. Trapped and isolated in the dead of winter, she must fight off hired killers to escape her late spouse&#39;s twisted plan.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Wfmb1-UEpW4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -261,16 +268,16 @@ Six people unwittingly find themselves locked in another series of escape rooms,
 	
 	
 
-### Monsters of Man
-*Released on 2021-07-08, vote average 5*
+### Benedetta
+*Released on 2021-07-09, vote average 6.1*
 
-A robotics company vying to win a lucrative military contract team up with a corrupt CIA agent to conduct an illegal live field test. They deploy four weaponized prototype robots into a suspected drug manufacturing camp in the Golden Triangle, assuming they&#39;d be killing drug runners that no one would miss. Six doctors on a humanitarian mission witness the brutal slaughter and become prime targets.
+In the late 17th century, with plague ravaging the land, Benedetta Carlini joins the convent in Pescia, Tuscany, as a novice. Capable from an early age of performing miracles, Benedetta’s impact on life in the community is immediate and momentous.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Ada9SU8tShA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/RzkscIIzQL4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -286,22 +293,15 @@ A robotics company vying to win a lucrative military contract team up with a cor
 
 
 	
-	
 
-### Annette
-*Released on 2021-07-06, vote average 8.2*
+  
 
-The story of Henry, a stand-up comedian with a fierce sense of humor and Ann, a singer of international renown. In the spotlight, they are the perfect couple, healthy, happy, and glamourous. The birth of their first child, Annette, a mysterious girl with an exceptional destiny, will change their lives.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/l_EaNpL16SU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
 	
 
   
@@ -320,6 +320,23 @@ The story of Henry, a stand-up comedian with a fierce sense of humor and Ann, a 
 
 	
 
+	
+	
+
+### Out of Death
+*Released on 2021-07-16, vote average 7.6*
+
+A woman hiking through a forest witnesses four men committing a crime and attempts to escape, teaming up with a forest ranger along the way.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/XR2tg6h39B4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
