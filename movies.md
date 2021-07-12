@@ -69,7 +69,7 @@ The Templeton brothers — Tim and his Boss Baby little bro Ted — have become 
 	
 
 ### Black Widow
-*Released on 2021-07-07, vote average 8.3*
+*Released on 2021-07-07, vote average 8.4*
 
 Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.
 
@@ -91,7 +91,7 @@ Natasha Romanoff, also known as Black Widow, confronts the darker parts of her l
 	
 
 ### America: The Motion Picture
-*Released on 2021-06-30, vote average 5.5*
+*Released on 2021-06-30, vote average 5.6*
 
 A chainsaw-wielding George Washington teams with beer-loving bro Sam Adams to take down the Brits in a tongue-in-cheek riff on the American Revolution.
 
@@ -100,28 +100,6 @@ A chainsaw-wielding George Washington teams with beer-loving bro Sam Adams to ta
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/hu0O-q7Kf2k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Forever Purge
-*Released on 2021-06-30, vote average 7.2*
-
-All the rules are broken as a sect of lawless marauders decides that the annual Purge does not stop at daybreak and instead should never end.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xOrXpK-rUaI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -156,16 +134,16 @@ In 1994, a group of teenagers discovers that the terrifying events which have ha
 	
 	
 
-### Space Jam: A New Legacy
-*Released on 2021-07-08, vote average 5.5*
+### The Forever Purge
+*Released on 2021-06-30, vote average 7.3*
 
-When LeBron and his young son Dom are trapped in a digital space by a rogue A.I., LeBron must get them home safe by leading Bugs, Lola Bunny and the whole gang of notoriously undisciplined Looney Tunes to victory over the A.I.&#39;s digitized champions on the court. It&#39;s Tunes versus Goons in the highest-stakes challenge of his life.
+All the rules are broken as a sect of lawless marauders decides that the annual Purge does not stop at daybreak and instead should never end.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/olXYZOsXw_o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xOrXpK-rUaI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -205,6 +183,50 @@ In 1978, two rival groups at Camp Nightwing must band together to solve a terrif
 
 
 	
+	
+
+### Space Jam: A New Legacy
+*Released on 2021-07-08, vote average 7*
+
+When LeBron and his young son Dom are trapped in a digital space by a rogue A.I., LeBron must get them home safe by leading Bugs, Lola Bunny and the whole gang of notoriously undisciplined Looney Tunes to victory over the A.I.&#39;s digitized champions on the court. It&#39;s Tunes versus Goons in the highest-stakes challenge of his life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/olXYZOsXw_o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Till Death
+*Released on 2021-07-01, vote average 7.1*
+
+After a romantic evening at their secluded lake house, a woman wakes up handcuffed to her dead husband. Trapped and isolated in the dead of winter, she must fight off hired killers to escape her late spouse&#39;s twisted plan.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Wfmb1-UEpW4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -246,30 +268,8 @@ Six people unwittingly find themselves locked in another series of escape rooms,
 	
 	
 
-### Till Death
-*Released on 2021-07-01, vote average 7*
-
-After a romantic evening at their secluded lake house, a woman wakes up handcuffed to her dead husband. Trapped and isolated in the dead of winter, she must fight off hired killers to escape her late spouse&#39;s twisted plan.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Wfmb1-UEpW4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Benedetta
-*Released on 2021-07-09, vote average 6.1*
+*Released on 2021-07-09, vote average 6.9*
 
 In the late 17th century, with plague ravaging the land, Benedetta Carlini joins the convent in Pescia, Tuscany, as a novice. Capable from an early age of performing miracles, Benedetta’s impact on life in the community is immediate and momentous.
 
@@ -288,6 +288,23 @@ In the late 17th century, with plague ravaging the land, Benedetta Carlini joins
 
 
 	
+	
+
+### Last Summer
+*Released on 2021-07-09, vote average 6.5*
+
+For Deniz, a 16-year-old teenager, this summer is different from the others. Deniz, who goes to his family&#39;s summer house every year, falls in love with a young girl named Aslı. Trying to get closer to Aslı, Deniz realizes that a handsome young man, Burak, also likes Aslı.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Ihh-8KahJNc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -297,6 +314,8 @@ In the late 17th century, with plague ravaging the land, Benedetta Carlini joins
   
 
 
+	
+	
 	
 
   
@@ -324,7 +343,7 @@ In the late 17th century, with plague ravaging the land, Benedetta Carlini joins
 	
 
 ### Out of Death
-*Released on 2021-07-16, vote average 7.6*
+*Released on 2021-07-16, vote average 7.3*
 
 A woman hiking through a forest witnesses four men committing a crime and attempts to escape, teaming up with a forest ranger along the way.
 
