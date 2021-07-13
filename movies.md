@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Tomorrow War
-*Released on 2021-07-02, vote average 8.4*
+*Released on 2021-06-30, vote average 8.3*
 
 The world is stunned when a group of time travelers arrive from the year 2051 to deliver an urgent message: Thirty years in the future, mankind is losing a global war against a deadly alien species. The only hope for survival is for soldiers and civilians from the present to be transported to the future and join the fight. Among those recruited is high school teacher and family man Dan Forester. Determined to save the world for his young daughter, Dan teams up with a brilliant scientist and his estranged father in a desperate quest to rewrite the fate of the planet.
 
@@ -69,7 +69,7 @@ The Templeton brothers — Tim and his Boss Baby little bro Ted — have become 
 	
 
 ### Black Widow
-*Released on 2021-07-07, vote average 8.4*
+*Released on 2021-07-07, vote average 8.3*
 
 Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.
 
@@ -112,28 +112,6 @@ A chainsaw-wielding George Washington teams with beer-loving bro Sam Adams to ta
 	
 	
 
-### Fear Street Part One: 1994
-*Released on 2021-06-28, vote average 6.8*
-
-In 1994, a group of teenagers discovers that the terrifying events which have haunted their town for generations ​are all connected — and that they may be the next targets.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/UyUuzCGblqc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Forever Purge
 *Released on 2021-06-30, vote average 7.3*
 
@@ -164,7 +142,7 @@ All the rules are broken as a sect of lawless marauders decides that the annual 
 	
 
 ### Fear Street Part Two: 1978
-*Released on 2021-07-09, vote average 7.4*
+*Released on 2021-07-09, vote average 7.5*
 
 In 1978, two rival groups at Camp Nightwing must band together to solve a terrifying mystery when horrors from their towns&#39; history come alive.
 
@@ -186,7 +164,7 @@ In 1978, two rival groups at Camp Nightwing must band together to solve a terrif
 	
 
 ### Space Jam: A New Legacy
-*Released on 2021-07-08, vote average 7*
+*Released on 2021-07-08, vote average 8.2*
 
 When LeBron and his young son Dom are trapped in a digital space by a rogue A.I., LeBron must get them home safe by leading Bugs, Lola Bunny and the whole gang of notoriously undisciplined Looney Tunes to victory over the A.I.&#39;s digitized champions on the court. It&#39;s Tunes versus Goons in the highest-stakes challenge of his life.
 
@@ -206,6 +184,16 @@ When LeBron and his young son Dom are trapped in a digital space by a rogue A.I.
 
 	
 	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -234,10 +222,22 @@ After a romantic evening at their secluded lake house, a woman wakes up handcuff
 
 
 	
+	
 
-  
+### Last Summer
+*Released on 2021-07-09, vote average 7*
 
+For Deniz, a 16-year-old teenager, this summer is different from the others. Deniz, who goes to his family&#39;s summer house every year, falls in love with a young girl named Aslı. Trying to get closer to Aslı, Deniz realizes that a handsome young man, Burak, also likes Aslı.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Ihh-8KahJNc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -267,43 +267,6 @@ Six people unwittingly find themselves locked in another series of escape rooms,
 
 	
 	
-
-### Benedetta
-*Released on 2021-07-09, vote average 6.9*
-
-In the late 17th century, with plague ravaging the land, Benedetta Carlini joins the convent in Pescia, Tuscany, as a novice. Capable from an early age of performing miracles, Benedetta’s impact on life in the community is immediate and momentous.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/RzkscIIzQL4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Last Summer
-*Released on 2021-07-09, vote average 6.5*
-
-For Deniz, a 16-year-old teenager, this summer is different from the others. Deniz, who goes to his family&#39;s summer house every year, falls in love with a young girl named Aslı. Trying to get closer to Aslı, Deniz realizes that a handsome young man, Burak, also likes Aslı.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Ihh-8KahJNc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -315,7 +278,10 @@ For Deniz, a 16-year-old teenager, this summer is different from the others. Den
 
 
 	
-	
+
+  
+
+
 	
 
   
@@ -343,9 +309,9 @@ For Deniz, a 16-year-old teenager, this summer is different from the others. Den
 	
 
 ### Out of Death
-*Released on 2021-07-16, vote average 7.3*
+*Released on 2021-07-16, vote average 7.1*
 
-A woman hiking through a forest witnesses four men committing a crime and attempts to escape, teaming up with a forest ranger along the way.
+As Shannon - a woman who wants to put her father&#39;s ashes away in the woods - witnesses a corrupt cop dealing drugs with a junkie, she has to try and run away after she gets rampaged by two discreditable cops after they see the woman taking secret photographs of their crime manoeuvre. They then do a cat-and-mouse game around the woods as Shannon teams up with a retired sheriff along the way for more reinforcement. It&#39;s just a diversion of survival and egalitarianism.
 
 <iframe id="player"
 	type="text/html"
