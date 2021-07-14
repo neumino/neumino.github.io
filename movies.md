@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Tomorrow War
-*Released on 2021-06-30, vote average 8.3*
+*Released on 2021-06-30, vote average 8.4*
 
 The world is stunned when a group of time travelers arrive from the year 2051 to deliver an urgent message: Thirty years in the future, mankind is losing a global war against a deadly alien species. The only hope for survival is for soldiers and civilians from the present to be transported to the future and join the fight. Among those recruited is high school teacher and family man Dan Forester. Determined to save the world for his young daughter, Dan teams up with a brilliant scientist and his estranged father in a desperate quest to rewrite the fate of the planet.
 
@@ -69,7 +69,7 @@ The Templeton brothers — Tim and his Boss Baby little bro Ted — have become 
 	
 
 ### Black Widow
-*Released on 2021-07-07, vote average 8.3*
+*Released on 2021-07-07, vote average 8.2*
 
 Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.
 
@@ -91,7 +91,7 @@ Natasha Romanoff, also known as Black Widow, confronts the darker parts of her l
 	
 
 ### America: The Motion Picture
-*Released on 2021-06-30, vote average 5.6*
+*Released on 2021-06-30, vote average 5.7*
 
 A chainsaw-wielding George Washington teams with beer-loving bro Sam Adams to take down the Brits in a tongue-in-cheek riff on the American Revolution.
 
@@ -103,35 +103,6 @@ A chainsaw-wielding George Washington teams with beer-loving bro Sam Adams to ta
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
-	
-
-### The Forever Purge
-*Released on 2021-06-30, vote average 7.3*
-
-All the rules are broken as a sect of lawless marauders decides that the annual Purge does not stop at daybreak and instead should never end.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xOrXpK-rUaI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -163,16 +134,16 @@ In 1978, two rival groups at Camp Nightwing must band together to solve a terrif
 	
 	
 
-### Space Jam: A New Legacy
-*Released on 2021-07-08, vote average 8.2*
+### The Forever Purge
+*Released on 2021-06-30, vote average 7.4*
 
-When LeBron and his young son Dom are trapped in a digital space by a rogue A.I., LeBron must get them home safe by leading Bugs, Lola Bunny and the whole gang of notoriously undisciplined Looney Tunes to victory over the A.I.&#39;s digitized champions on the court. It&#39;s Tunes versus Goons in the highest-stakes challenge of his life.
+All the rules are broken as a sect of lawless marauders decides that the annual Purge does not stop at daybreak and instead should never end.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/olXYZOsXw_o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xOrXpK-rUaI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -190,28 +161,18 @@ When LeBron and his young son Dom are trapped in a digital space by a rogue A.I.
 
 
 	
-
-  
-
-
 	
 
-  
+### Space Jam: A New Legacy
+*Released on 2021-07-08, vote average 8.2*
 
-
-	
-	
-
-### Till Death
-*Released on 2021-07-01, vote average 7.1*
-
-After a romantic evening at their secluded lake house, a woman wakes up handcuffed to her dead husband. Trapped and isolated in the dead of winter, she must fight off hired killers to escape her late spouse&#39;s twisted plan.
+When LeBron and his young son Dom are trapped in a digital space by a rogue A.I., LeBron must get them home safe by leading Bugs, Lola Bunny and the whole gang of notoriously undisciplined Looney Tunes to victory over the A.I.&#39;s digitized champions on the court. It&#39;s Tunes versus Goons in the highest-stakes challenge of his life.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Wfmb1-UEpW4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/olXYZOsXw_o?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -244,6 +205,40 @@ For Deniz, a 16-year-old teenager, this summer is different from the others. Den
 
 
 	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Till Death
+*Released on 2021-07-01, vote average 7.2*
+
+After a romantic evening at their secluded lake house, a woman wakes up handcuffed to her dead husband. Trapped and isolated in the dead of winter, she must fight off hired killers to escape her late spouse&#39;s twisted plan.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Wfmb1-UEpW4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 
 ### Escape Room: Tournament of Champions
@@ -266,8 +261,6 @@ Six people unwittingly find themselves locked in another series of escape rooms,
 
 
 	
-	
-	
 
   
 
@@ -288,10 +281,49 @@ Six people unwittingly find themselves locked in another series of escape rooms,
 
 
 	
+	
+
+### Die in a Gunfight
+*Released on 2021-07-01, vote average 5.5*
+
+Mary and Ben are the star-crossed black sheep of two powerful families engaged in a centuries-long feud. When the pair reignite a romance after many years apart, their forbidden love draws a motley assortment of schemers and killers into their orbit, and as fists and bullets fly, it becomes clear that violent delights will have violent ends.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/1kw7Nv1mIF8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
+	
+
+  
+
+
+	
+	
+
+### The Match
+*Released on 2021-07-12, vote average 5.3*
+
+Inspired by true events from the spring of 1944 when the Nazis organized a football match between a team of camp inmates and an elite Nazi team on Adolf Hitler&#39;s birthday. A match the prisoners are determined to win, no matter what happens.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/XuUelAAR6nA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -300,6 +332,25 @@ Six people unwittingly find themselves locked in another series of escape rooms,
 
 ## Opening soon
 
+
+	
+	
+
+### Fear Street Part Three: 1666
+*Released on 2021-07-16, vote average 9*
+
+In 1666, a colonial town is gripped by a hysterical witch-hunt that has deadly consequences for centuries to come, and it&#39;s up to teenagers in 1994 to try and finally put an end to their town&#39;s curse, before it&#39;s too late.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/UyUuzCGblqc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
@@ -322,8 +373,6 @@ As Shannon - a woman who wants to put her father&#39;s ashes away in the woods -
   allowfullscreen></iframe>
 
 	
-	
-
 	
 
 	
