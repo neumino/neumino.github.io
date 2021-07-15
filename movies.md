@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### The Tomorrow War
-*Released on 2021-06-30, vote average 8.4*
+### Black Widow
+*Released on 2021-07-07, vote average 8.2*
 
-The world is stunned when a group of time travelers arrive from the year 2051 to deliver an urgent message: Thirty years in the future, mankind is losing a global war against a deadly alien species. The only hope for survival is for soldiers and civilians from the present to be transported to the future and join the fight. Among those recruited is high school teacher and family man Dan Forester. Determined to save the world for his young daughter, Dan teams up with a brilliant scientist and his estranged father in a desperate quest to rewrite the fate of the planet.
+Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Ob4NC4D6zTU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/RxAtuMu_ph4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,51 +68,7 @@ The Templeton brothers — Tim and his Boss Baby little bro Ted — have become 
 	
 	
 
-### Black Widow
-*Released on 2021-07-07, vote average 8.2*
-
-Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/RxAtuMu_ph4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### America: The Motion Picture
-*Released on 2021-06-30, vote average 5.7*
-
-A chainsaw-wielding George Washington teams with beer-loving bro Sam Adams to take down the Brits in a tongue-in-cheek riff on the American Revolution.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hu0O-q7Kf2k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Fear Street Part Two: 1978
+### Fear Street: 1978
 *Released on 2021-07-09, vote average 7.5*
 
 In 1978, two rival groups at Camp Nightwing must band together to solve a terrifying mystery when horrors from their towns&#39; history come alive.
@@ -134,37 +90,8 @@ In 1978, two rival groups at Camp Nightwing must band together to solve a terrif
 	
 	
 
-### The Forever Purge
-*Released on 2021-06-30, vote average 7.4*
-
-All the rules are broken as a sect of lawless marauders decides that the annual Purge does not stop at daybreak and instead should never end.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xOrXpK-rUaI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
 ### Space Jam: A New Legacy
-*Released on 2021-07-08, vote average 8.2*
+*Released on 2021-07-08, vote average 6.9*
 
 When LeBron and his young son Dom are trapped in a digital space by a rogue A.I., LeBron must get them home safe by leading Bugs, Lola Bunny and the whole gang of notoriously undisciplined Looney Tunes to victory over the A.I.&#39;s digitized champions on the court. It&#39;s Tunes versus Goons in the highest-stakes challenge of his life.
 
@@ -184,9 +111,28 @@ When LeBron and his young son Dom are trapped in a digital space by a rogue A.I.
 
 	
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 
 ### Last Summer
-*Released on 2021-07-09, vote average 7*
+*Released on 2021-07-09, vote average 5.7*
 
 For Deniz, a 16-year-old teenager, this summer is different from the others. Deniz, who goes to his family&#39;s summer house every year, falls in love with a young girl named Aslı. Trying to get closer to Aslı, Deniz realizes that a handsome young man, Burak, also likes Aslı.
 
@@ -205,11 +151,6 @@ For Deniz, a 16-year-old teenager, this summer is different from the others. Den
 
 
 	
-
-  
-
-
-	
 	
 	
 
@@ -217,21 +158,6 @@ For Deniz, a 16-year-old teenager, this summer is different from the others. Den
 
 
 	
-	
-
-### Till Death
-*Released on 2021-07-01, vote average 7.2*
-
-After a romantic evening at their secluded lake house, a woman wakes up handcuffed to her dead husband. Trapped and isolated in the dead of winter, she must fight off hired killers to escape her late spouse&#39;s twisted plan.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Wfmb1-UEpW4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -242,7 +168,7 @@ After a romantic evening at their secluded lake house, a woman wakes up handcuff
 	
 
 ### Escape Room: Tournament of Champions
-*Released on 2021-07-01, vote average 7.9*
+*Released on 2021-07-01, vote average 7.1*
 
 Six people unwittingly find themselves locked in another series of escape rooms, slowly uncovering what they have in common to survive as they discover all the games that they&#39;ve played before.
 
@@ -261,41 +187,28 @@ Six people unwittingly find themselves locked in another series of escape rooms,
 
 
 	
-
-  
-
-
 	
 
-  
+### Till Death
+*Released on 2021-07-01, vote average 6.9*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Die in a Gunfight
-*Released on 2021-07-01, vote average 5.5*
-
-Mary and Ben are the star-crossed black sheep of two powerful families engaged in a centuries-long feud. When the pair reignite a romance after many years apart, their forbidden love draws a motley assortment of schemers and killers into their orbit, and as fists and bullets fly, it becomes clear that violent delights will have violent ends.
+After a romantic evening at their secluded lake house, a woman wakes up handcuffed to her dead husband. Trapped and isolated in the dead of winter, she must fight off hired killers to escape her late spouse&#39;s twisted plan.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/1kw7Nv1mIF8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Wfmb1-UEpW4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -329,6 +242,33 @@ Inspired by true events from the spring of 1944 when the Nazis organized a footb
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -336,8 +276,8 @@ Inspired by true events from the spring of 1944 when the Nazis organized a footb
 	
 	
 
-### Fear Street Part Three: 1666
-*Released on 2021-07-16, vote average 9*
+### Fear Street: 1666
+*Released on 2021-07-16, vote average 6.6*
 
 In 1666, a colonial town is gripped by a hysterical witch-hunt that has deadly consequences for centuries to come, and it&#39;s up to teenagers in 1994 to try and finally put an end to their town&#39;s curse, before it&#39;s too late.
 
@@ -355,12 +295,10 @@ In 1666, a colonial town is gripped by a hysterical witch-hunt that has deadly c
 	
 
 	
-
-	
 	
 
 ### Out of Death
-*Released on 2021-07-16, vote average 7.1*
+*Released on 2021-07-16, vote average 6.8*
 
 As Shannon - a woman who wants to put her father&#39;s ashes away in the woods - witnesses a corrupt cop dealing drugs with a junkie, she has to try and run away after she gets rampaged by two discreditable cops after they see the woman taking secret photographs of their crime manoeuvre. They then do a cat-and-mouse game around the woods as Shannon teams up with a retired sheriff along the way for more reinforcement. It&#39;s just a diversion of survival and egalitarianism.
 
@@ -405,6 +343,10 @@ As Shannon - a woman who wants to put her father&#39;s ashes away in the woods -
 
 	
 
+	
+
+	
+	
 	
 
 
