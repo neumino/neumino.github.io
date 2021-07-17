@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Black Widow
-*Released on 2021-07-07, vote average 8.2*
+*Released on 2021-07-07, vote average 8.1*
 
 Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.
 
@@ -69,7 +69,7 @@ In 1978, two rival groups at Camp Nightwing must band together to solve a terrif
 	
 
 ### Space Jam: A New Legacy
-*Released on 2021-07-08, vote average 7.6*
+*Released on 2021-07-08, vote average 6.1*
 
 When LeBron and his young son Dom are trapped in a digital space by a rogue A.I., LeBron must get them home safe by leading Bugs, Lola Bunny and the whole gang of notoriously undisciplined Looney Tunes to victory over the A.I.&#39;s digitized champions on the court. It&#39;s Tunes versus Goons in the highest-stakes challenge of his life.
 
@@ -89,16 +89,9 @@ When LeBron and his young son Dom are trapped in a digital space by a rogue A.I.
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Fear Street: 1666
-*Released on 2021-07-16, vote average 7.2*
+*Released on 2021-07-16, vote average 7.6*
 
 In 1666, a colonial town is gripped by a hysterical witch-hunt that has deadly consequences for centuries to come, and it&#39;s up to teenagers in 1994 to try and finally put an end to their town&#39;s curse, before it&#39;s too late.
 
@@ -107,6 +100,28 @@ In 1666, a colonial town is gripped by a hysterical witch-hunt that has deadly c
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/UyUuzCGblqc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### El mesero
+*Released on 2021-07-15, vote average 7*
+
+A waiter pretends to be an important businessman in order to reach the upper class through his entrepreneurial dreams.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fezfmv-5pHU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -140,18 +155,6 @@ For Deniz, a 16-year-old teenager, this summer is different from the others. Den
 
 	
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 
 ### The Simpsons: The Good, the Bart, and the Loki
 *Released on 2021-07-07, vote average 8.2*
@@ -174,16 +177,9 @@ Loki is banished from Asgard once again and must face his toughest opponents yet
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Out of Death
-*Released on 2021-07-16, vote average 6.8*
+*Released on 2021-07-16, vote average 6.7*
 
 As Shannon - a woman who wants to put her father&#39;s ashes away in the woods - witnesses a corrupt cop dealing drugs with a junkie, she has to try and run away after she gets rampaged by two discreditable cops after they see the woman taking secret photographs of their crime manoeuvre. They then do a cat-and-mouse game around the woods as Shannon teams up with a retired sheriff along the way for more reinforcement. It&#39;s just a diversion of survival and egalitarianism.
 
@@ -209,10 +205,15 @@ As Shannon - a woman who wants to put her father&#39;s ashes away in the woods -
 
 
 	
+
+  
+
+
+	
 	
 
 ### Gunpowder Milkshake
-*Released on 2021-07-15, vote average 7.6*
+*Released on 2021-07-15, vote average 7.3*
 
 In her turbulent life as a professional assassin, Scarlet was cruelly forced to abandon her daughter Sam and go on the run. Years later, despite the estrangement, Sam has also grown up into a cold blooded hitwoman. After a high-stake mission spins out of control, putting an innocent 8-year-old girl in the middle of the gang war she has unleashed, Sam has no choice but to go rogue. This ultimately leads her back to her mother and her former hitwomen sidekicks, who all join forces in an avenging war against those who took everything from them.
 
@@ -231,15 +232,10 @@ In her turbulent life as a professional assassin, Scarlet was cruelly forced to 
 
 
 	
-
-  
-
-
-	
 	
 
 ### A Classic Horror Story
-*Released on 2021-07-14, vote average 6.5*
+*Released on 2021-07-14, vote average 6.4*
 
 Five carpoolers travel in a motorhome to reach a common destination. Night falls, and to avoid a dead animal carcass, they crash into a tree. When they come to their senses, they find themselves in the middle of nowhere. The road they were traveling on has disappeared and there is only a dense, impenetrable forest and a wooden house in the middle of a clearing, which they discover is the home of a spine-chilling cult.
 
@@ -260,16 +256,16 @@ Five carpoolers travel in a motorhome to reach a common destination. Night falls
 	
 	
 
-### The Match
-*Released on 2021-07-12, vote average 5.3*
+### Pig
+*Released on 2021-07-16, vote average 8*
 
-Inspired by true events from the spring of 1944 when the Nazis organized a football match between a team of camp inmates and an elite Nazi team on Adolf Hitler&#39;s birthday. A match the prisoners are determined to win, no matter what happens.
+A truffle hunter who lives alone in the Oregonian wilderness must return to his past in Portland in search of his beloved foraging pig after she is kidnapped.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/XuUelAAR6nA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/1i-_CRKdh4Y?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -280,6 +276,30 @@ Inspired by true events from the spring of 1944 when the Nazis organized a footb
 
 
 	
+	
+
+### The Guide to the Perfect Family
+*Released on 2021-07-14, vote average 7.8*
+
+A couple in Québec deals with the pitfalls, pressure and high expectations of raising kids in a society obsessed with success and social media image.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/uOnf4K9ACmE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
 
   
 
@@ -295,7 +315,32 @@ Inspired by true events from the spring of 1944 when the Nazis organized a footb
 
 
 	
+
+  
+
+
 	
+	
+
+### The Exorcism of Carmen Farias
+*Released on 2021-07-05, vote average 2*
+
+Carmen, a brave journalist, discovers soon after her mother&#39;s death that she has inherited her grandma&#39;s house. She decides to move there without knowing it hides dark secrets.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5JnWw_SvCvI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -306,37 +351,22 @@ Inspired by true events from the spring of 1944 when the Nazis organized a footb
 
 
 	
+
 	
 
-### Fear Street: 1666
-*Released on 2021-07-16, vote average 7.2*
+	
+	
 
-In 1666, a colonial town is gripped by a hysterical witch-hunt that has deadly consequences for centuries to come, and it&#39;s up to teenagers in 1994 to try and finally put an end to their town&#39;s curse, before it&#39;s too late.
+### Settlers
+*Released on 2021-07-23, vote average 6*
+
+Remmy and her parents, refugees from Earth, have found peace on the Martian outskirts until strangers appear in the hills beyond their farm. Told as a triptych, the film follows Remmy as she struggles to survive in an uneasy landscape.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/UyUuzCGblqc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Out of Death
-*Released on 2021-07-16, vote average 6.8*
-
-As Shannon - a woman who wants to put her father&#39;s ashes away in the woods - witnesses a corrupt cop dealing drugs with a junkie, she has to try and run away after she gets rampaged by two discreditable cops after they see the woman taking secret photographs of their crime manoeuvre. They then do a cat-and-mouse game around the woods as Shannon teams up with a retired sheriff along the way for more reinforcement. It&#39;s just a diversion of survival and egalitarianism.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XR2tg6h39B4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/jeCcJCy0HzM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -360,9 +390,26 @@ As Shannon - a woman who wants to put her father&#39;s ashes away in the woods -
 	
 
 	
-
 	
 
+### Bo Burnham: Inside
+*Released on 2021-07-22, vote average 8*
+
+Stuck in COVID-19 lockdown, US comedian and musician Bo Burnham attempts to stay sane and happy by writing, shooting and performing a one-man comedy special.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Bs-GdcUfl0Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
 	
 
 	
