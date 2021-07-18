@@ -46,6 +46,28 @@ Natasha Romanoff, also known as Black Widow, confronts the darker parts of her l
 	
 	
 
+### Space Jam: A New Legacy
+*Released on 2021-07-08, vote average 8.1*
+
+When LeBron and his young son Dom are trapped in a digital space by a rogue A.I., LeBron must get them home safe by leading Bugs, Lola Bunny and the whole gang of notoriously undisciplined Looney Tunes to victory over the A.I.&#39;s digitized champions on the court. It&#39;s Tunes versus Goons in the highest-stakes challenge of his life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/olXYZOsXw_o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Fear Street: 1978
 *Released on 2021-07-09, vote average 7.5*
 
@@ -68,32 +90,10 @@ In 1978, two rival groups at Camp Nightwing must band together to solve a terrif
 	
 	
 
-### Space Jam: A New Legacy
-*Released on 2021-07-08, vote average 6.1*
-
-When LeBron and his young son Dom are trapped in a digital space by a rogue A.I., LeBron must get them home safe by leading Bugs, Lola Bunny and the whole gang of notoriously undisciplined Looney Tunes to victory over the A.I.&#39;s digitized champions on the court. It&#39;s Tunes versus Goons in the highest-stakes challenge of his life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/olXYZOsXw_o?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Fear Street: 1666
 *Released on 2021-07-16, vote average 7.6*
 
-In 1666, a colonial town is gripped by a hysterical witch-hunt that has deadly consequences for centuries to come, and it&#39;s up to teenagers in 1994 to try and finally put an end to their town&#39;s curse, before it&#39;s too late.
+In 1666, a colonial town is gripped by a hysterical witch-hunt that has deadly consequences for centuries to come, and it&#39;s up to teenagers in 1994 to finally put an end to their town&#39;s curse, before it&#39;s too late.
 
 <iframe id="player"
 	type="text/html"
@@ -135,7 +135,7 @@ A waiter pretends to be an important businessman in order to reach the upper cla
 	
 
 ### Last Summer
-*Released on 2021-07-09, vote average 5.6*
+*Released on 2021-07-09, vote average 5.9*
 
 For Deniz, a 16-year-old teenager, this summer is different from the others. Deniz, who goes to his family&#39;s summer house every year, falls in love with a young girl named Aslı. Trying to get closer to Aslı, Deniz realizes that a handsome young man, Burak, also likes Aslı.
 
@@ -177,6 +177,35 @@ Loki is banished from Asgard once again and must face his toughest opponents yet
 
 	
 	
+	
+
+  
+
+
+	
+	
+
+### Gunpowder Milkshake
+*Released on 2021-07-15, vote average 6.8*
+
+In her turbulent life as a professional assassin, Scarlet was cruelly forced to abandon her daughter Sam and go on the run. Years later, despite the estrangement, Sam has also grown up into a cold blooded hitwoman. After a high-stake mission spins out of control, putting an innocent 8-year-old girl in the middle of the gang war she has unleashed, Sam has no choice but to go rogue. This ultimately leads her back to her mother and her former hitwomen sidekicks, who all join forces in an avenging war against those who took everything from them.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/YLMT5uXjFLY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
 
 ### Out of Death
 *Released on 2021-07-16, vote average 6.7*
@@ -198,35 +227,6 @@ As Shannon - a woman who wants to put her father&#39;s ashes away in the woods -
 
 
 	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Gunpowder Milkshake
-*Released on 2021-07-15, vote average 7.3*
-
-In her turbulent life as a professional assassin, Scarlet was cruelly forced to abandon her daughter Sam and go on the run. Years later, despite the estrangement, Sam has also grown up into a cold blooded hitwoman. After a high-stake mission spins out of control, putting an innocent 8-year-old girl in the middle of the gang war she has unleashed, Sam has no choice but to go rogue. This ultimately leads her back to her mother and her former hitwomen sidekicks, who all join forces in an avenging war against those who took everything from them.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/YLMT5uXjFLY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -235,7 +235,7 @@ In her turbulent life as a professional assassin, Scarlet was cruelly forced to 
 	
 
 ### A Classic Horror Story
-*Released on 2021-07-14, vote average 6.4*
+*Released on 2021-07-14, vote average 6.6*
 
 Five carpoolers travel in a motorhome to reach a common destination. Night falls, and to avoid a dead animal carcass, they crash into a tree. When they come to their senses, they find themselves in the middle of nowhere. The road they were traveling on has disappeared and there is only a dense, impenetrable forest and a wooden house in the middle of a clearing, which they discover is the home of a spine-chilling cult.
 
@@ -257,7 +257,7 @@ Five carpoolers travel in a motorhome to reach a common destination. Night falls
 	
 
 ### Pig
-*Released on 2021-07-16, vote average 8*
+*Released on 2021-07-16, vote average 9*
 
 A truffle hunter who lives alone in the Oregonian wilderness must return to his past in Portland in search of his beloved foraging pig after she is kidnapped.
 
@@ -305,33 +305,52 @@ A couple in Québec deals with the pitfalls, pressure and high expectations of r
 
 
 	
-
-  
-
-
 	
 
-  
+### A Perfect Fit
+*Released on 2021-07-15, vote average 7*
 
-
-	
-
-  
-
-
-	
-	
-
-### The Exorcism of Carmen Farias
-*Released on 2021-07-05, vote average 2*
-
-Carmen, a brave journalist, discovers soon after her mother&#39;s death that she has inherited her grandma&#39;s house. She decides to move there without knowing it hides dark secrets.
+Sparks fly when a fashion blogger in Bali meets a gifted shoemaker, leading her to question her commitment to her fiancé.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/5JnWw_SvCvI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/WM_aZHXPRyI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### My Amanda
+*Released on 2021-07-15, vote average 8*
+
+Two unusually close friends share every aspect of their lives together. As their lives evolve, their bond remains the only constant.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jyjUHhxT0xo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -378,7 +397,7 @@ Remmy and her parents, refugees from Earth, have found peace on the Martian outs
 	
 
 	
-
+	
 	
 
 	
@@ -393,7 +412,7 @@ Remmy and her parents, refugees from Earth, have found peace on the Martian outs
 	
 
 ### Bo Burnham: Inside
-*Released on 2021-07-22, vote average 8*
+*Released on 2021-07-22, vote average 9*
 
 Stuck in COVID-19 lockdown, US comedian and musician Bo Burnham attempts to stay sane and happy by writing, shooting and performing a one-man comedy special.
 
@@ -409,13 +428,15 @@ Stuck in COVID-19 lockdown, US comedian and musician Bo Burnham attempts to stay
 	
 
 	
-	
-	
 
 	
 
 	
 
+	
+
+	
+	
 	
 
 	
