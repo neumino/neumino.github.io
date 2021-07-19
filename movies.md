@@ -47,7 +47,7 @@ Natasha Romanoff, also known as Black Widow, confronts the darker parts of her l
 	
 
 ### Space Jam: A New Legacy
-*Released on 2021-07-08, vote average 8.1*
+*Released on 2021-07-08, vote average 8*
 
 When LeBron and his young son Dom are trapped in a digital space by a rogue A.I., LeBron must get them home safe by leading Bugs, Lola Bunny and the whole gang of notoriously undisciplined Looney Tunes to victory over the A.I.&#39;s digitized champions on the court. It&#39;s Tunes versus Goons in the highest-stakes challenge of his life.
 
@@ -91,7 +91,7 @@ In 1978, two rival groups at Camp Nightwing must band together to solve a terrif
 	
 
 ### Fear Street: 1666
-*Released on 2021-07-16, vote average 7.6*
+*Released on 2021-07-16, vote average 7.7*
 
 In 1666, a colonial town is gripped by a hysterical witch-hunt that has deadly consequences for centuries to come, and it&#39;s up to teenagers in 1994 to finally put an end to their town&#39;s curse, before it&#39;s too late.
 
@@ -135,7 +135,7 @@ A waiter pretends to be an important businessman in order to reach the upper cla
 	
 
 ### Last Summer
-*Released on 2021-07-09, vote average 5.9*
+*Released on 2021-07-09, vote average 5.5*
 
 For Deniz, a 16-year-old teenager, this summer is different from the others. Deniz, who goes to his family&#39;s summer house every year, falls in love with a young girl named Aslı. Trying to get closer to Aslı, Deniz realizes that a handsome young man, Burak, also likes Aslı.
 
@@ -186,7 +186,7 @@ Loki is banished from Asgard once again and must face his toughest opponents yet
 	
 
 ### Gunpowder Milkshake
-*Released on 2021-07-15, vote average 6.8*
+*Released on 2021-07-15, vote average 6.7*
 
 In her turbulent life as a professional assassin, Scarlet was cruelly forced to abandon her daughter Sam and go on the run. Years later, despite the estrangement, Sam has also grown up into a cold blooded hitwoman. After a high-stake mission spins out of control, putting an innocent 8-year-old girl in the middle of the gang war she has unleashed, Sam has no choice but to go rogue. This ultimately leads her back to her mother and her former hitwomen sidekicks, who all join forces in an avenging war against those who took everything from them.
 
@@ -207,35 +207,8 @@ In her turbulent life as a professional assassin, Scarlet was cruelly forced to 
 	
 	
 
-### Out of Death
-*Released on 2021-07-16, vote average 6.7*
-
-As Shannon - a woman who wants to put her father&#39;s ashes away in the woods - witnesses a corrupt cop dealing drugs with a junkie, she has to try and run away after she gets rampaged by two discreditable cops after they see the woman taking secret photographs of their crime manoeuvre. They then do a cat-and-mouse game around the woods as Shannon teams up with a retired sheriff along the way for more reinforcement. It&#39;s just a diversion of survival and egalitarianism.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XR2tg6h39B4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### A Classic Horror Story
-*Released on 2021-07-14, vote average 6.6*
+*Released on 2021-07-14, vote average 6.5*
 
 Five carpoolers travel in a motorhome to reach a common destination. Night falls, and to avoid a dead animal carcass, they crash into a tree. When they come to their senses, they find themselves in the middle of nowhere. The road they were traveling on has disappeared and there is only a dense, impenetrable forest and a wooden house in the middle of a clearing, which they discover is the home of a spine-chilling cult.
 
@@ -257,9 +230,9 @@ Five carpoolers travel in a motorhome to reach a common destination. Night falls
 	
 
 ### Pig
-*Released on 2021-07-16, vote average 9*
+*Released on 2021-07-16, vote average 6.8*
 
-A truffle hunter who lives alone in the Oregonian wilderness must return to his past in Portland in search of his beloved foraging pig after she is kidnapped.
+Living alone in the Oregon wilderness, a truffle hunter returns to Portland to find the person who stole his beloved pig and goes on a cat-and-mouse run along the shore.
 
 <iframe id="player"
 	type="text/html"
@@ -276,10 +249,15 @@ A truffle hunter who lives alone in the Oregonian wilderness must return to his 
 
 
 	
+
+  
+
+
+	
 	
 
 ### The Guide to the Perfect Family
-*Released on 2021-07-14, vote average 7.8*
+*Released on 2021-07-14, vote average 7.5*
 
 A couple in Québec deals with the pitfalls, pressure and high expectations of raising kids in a society obsessed with success and social media image.
 
@@ -299,16 +277,9 @@ A couple in Québec deals with the pitfalls, pressure and high expectations of r
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### A Perfect Fit
-*Released on 2021-07-15, vote average 7*
+*Released on 2021-07-15, vote average 6.8*
 
 Sparks fly when a fashion blogger in Bali meets a gifted shoemaker, leading her to question her commitment to her fiancé.
 
@@ -334,23 +305,18 @@ Sparks fly when a fashion blogger in Bali meets a gifted shoemaker, leading her 
 
 
 	
-
-  
-
-
-	
 	
 
-### My Amanda
-*Released on 2021-07-15, vote average 8*
+### Out of Death
+*Released on 2021-07-16, vote average 6.8*
 
-Two unusually close friends share every aspect of their lives together. As their lives evolve, their bond remains the only constant.
+As Shannon - a woman who wants to put her father&#39;s ashes away in the woods - witnesses a corrupt cop dealing drugs with a junkie, she has to try and run away after she gets rampaged by two discreditable cops after they see the woman taking secret photographs of their crime manoeuvre. They then do a cat-and-mouse game around the woods as Shannon teams up with a retired sheriff along the way for more reinforcement. It&#39;s just a diversion of survival and egalitarianism.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/jyjUHhxT0xo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/XR2tg6h39B4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -361,6 +327,74 @@ Two unusually close friends share every aspect of their lives together. As their
 
 
 	
+	
+
+### Deep
+*Released on 2021-07-16, vote average 6.2*
+
+Four insomniac med school students are lured into a neuroscience experiment that spirals out of control and must find a way out before it’s too late.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/CyEBaYYUroM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Exorcism of Carmen Farias
+*Released on 2021-07-05, vote average 2*
+
+Carmen, a brave journalist, discovers soon after her mother&#39;s death that she has inherited her grandma&#39;s house. She decides to move there without knowing it hides dark secrets.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5JnWw_SvCvI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Memoria
+*Released on 2021-07-15, vote average 6.7*
+
+A Scottish orchid farmer visiting her ill sister in Bogota, Colombia, befriends a young musician and a French archaeologist in charge of monitoring a century-long construction project to tunnel through the Andes mountain range. Each night, she is bothered by increasingly loud bangs which prevent her from getting any sleep.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PDU6B93ltds?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -370,6 +404,23 @@ Two unusually close friends share every aspect of their lives together. As their
 
 
 	
+	
+
+### Old
+*Released on 2021-07-21, vote average 10*
+
+A family on a tropical holiday discovers that the secluded beach where they are staying is somehow causing them to age rapidly, reducing their entire lives into a single day.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/eB1m-WogYeg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
@@ -377,7 +428,7 @@ Two unusually close friends share every aspect of their lives together. As their
 	
 
 ### Settlers
-*Released on 2021-07-23, vote average 6*
+*Released on 2021-07-23, vote average 6.8*
 
 Remmy and her parents, refugees from Earth, have found peace on the Martian outskirts until strangers appear in the hills beyond their farm. Told as a triptych, the film follows Remmy as she struggles to survive in an uneasy landscape.
 
@@ -393,11 +444,44 @@ Remmy and her parents, refugees from Earth, have found peace on the Martian outs
 	
 
 	
+	
+
+### Trollhunters: Rise of the Titans
+*Released on 2021-07-21, vote average 1*
+
+Arcadia may look like an ordinary town, but it lies at the center of magical and mystical lines that makes it a nexus for many battles among otherworldly creatures, including trolls, aliens and wizards. Now, various heroes will team-up in an epic adventure where they must fight the Arcane Order for control over the magic that binds them all together.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/JhdVvTBY7cA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
 
 	
 
 	
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
@@ -412,7 +496,7 @@ Remmy and her parents, refugees from Earth, have found peace on the Martian outs
 	
 
 ### Bo Burnham: Inside
-*Released on 2021-07-22, vote average 9*
+*Released on 2021-07-22, vote average 8.8*
 
 Stuck in COVID-19 lockdown, US comedian and musician Bo Burnham attempts to stay sane and happy by writing, shooting and performing a one-man comedy special.
 
@@ -425,24 +509,6 @@ Stuck in COVID-19 lockdown, US comedian and musician Bo Burnham attempts to stay
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	
-	
-
-	
-
-	
-
 	
 
 	
