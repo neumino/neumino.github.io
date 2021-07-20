@@ -113,7 +113,7 @@ In 1666, a colonial town is gripped by a hysterical witch-hunt that has deadly c
 	
 
 ### El mesero
-*Released on 2021-07-15, vote average 7*
+*Released on 2021-07-15, vote average 5.8*
 
 A waiter pretends to be an important businessman in order to reach the upper class through his entrepreneurial dreams.
 
@@ -177,16 +177,9 @@ Loki is banished from Asgard once again and must face his toughest opponents yet
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Gunpowder Milkshake
-*Released on 2021-07-15, vote average 6.7*
+*Released on 2021-07-15, vote average 6.6*
 
 In her turbulent life as a professional assassin, Scarlet was cruelly forced to abandon her daughter Sam and go on the run. Years later, despite the estrangement, Sam has also grown up into a cold blooded hitwoman. After a high-stake mission spins out of control, putting an innocent 8-year-old girl in the middle of the gang war she has unleashed, Sam has no choice but to go rogue. This ultimately leads her back to her mother and her former hitwomen sidekicks, who all join forces in an avenging war against those who took everything from them.
 
@@ -198,6 +191,13 @@ In her turbulent life as a professional assassin, Scarlet was cruelly forced to 
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -230,7 +230,7 @@ Five carpoolers travel in a motorhome to reach a common destination. Night falls
 	
 
 ### Pig
-*Released on 2021-07-16, vote average 6.8*
+*Released on 2021-07-16, vote average 7*
 
 Living alone in the Oregon wilderness, a truffle hunter returns to Portland to find the person who stole his beloved pig and goes on a cat-and-mouse run along the shore.
 
@@ -249,15 +249,10 @@ Living alone in the Oregon wilderness, a truffle hunter returns to Portland to f
 
 
 	
-
-  
-
-
-	
 	
 
 ### The Guide to the Perfect Family
-*Released on 2021-07-14, vote average 7.5*
+*Released on 2021-07-14, vote average 7.3*
 
 A couple in Québec deals with the pitfalls, pressure and high expectations of raising kids in a society obsessed with success and social media image.
 
@@ -279,7 +274,7 @@ A couple in Québec deals with the pitfalls, pressure and high expectations of r
 	
 
 ### A Perfect Fit
-*Released on 2021-07-15, vote average 6.8*
+*Released on 2021-07-15, vote average 7.4*
 
 Sparks fly when a fashion blogger in Bali meets a gifted shoemaker, leading her to question her commitment to her fiancé.
 
@@ -298,6 +293,33 @@ Sparks fly when a fashion blogger in Bali meets a gifted shoemaker, leading her 
 
 
 	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Deep
+*Released on 2021-07-16, vote average 6.1*
+
+Four insomniac med school students are lured into a neuroscience experiment that spirals out of control and must find a way out before it’s too late.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/CyEBaYYUroM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -329,16 +351,16 @@ As Shannon - a woman who wants to put her father&#39;s ashes away in the woods -
 	
 	
 
-### Deep
-*Released on 2021-07-16, vote average 6.2*
+### Titane
+*Released on 2021-07-14, vote average 7*
 
-Four insomniac med school students are lured into a neuroscience experiment that spirals out of control and must find a way out before it’s too late.
+Following a series of unexplained crimes, a former firefighter is reunited with his son who has been missing for 10 years.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/CyEBaYYUroM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/epoyDw8EU9I?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -351,26 +373,19 @@ Four insomniac med school students are lured into a neuroscience experiment that
 	
 	
 
-### The Exorcism of Carmen Farias
-*Released on 2021-07-05, vote average 2*
+### Benedetta
+*Released on 2021-07-09, vote average 6.9*
 
-Carmen, a brave journalist, discovers soon after her mother&#39;s death that she has inherited her grandma&#39;s house. She decides to move there without knowing it hides dark secrets.
+In the late 17th century, with plague ravaging the land, Benedetta Carlini joins the convent in Pescia, Tuscany, as a novice. Capable from an early age of performing miracles, Benedetta’s impact on life in the community is immediate and momentous.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/5JnWw_SvCvI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/n-31QJXV3iA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -407,7 +422,7 @@ A Scottish orchid farmer visiting her ill sister in Bogota, Colombia, befriends 
 	
 
 ### Old
-*Released on 2021-07-21, vote average 10*
+*Released on 2021-07-21, vote average 8.7*
 
 A family on a tropical holiday discovers that the secluded beach where they are staying is somehow causing them to age rapidly, reducing their entire lives into a single day.
 
@@ -423,12 +438,29 @@ A family on a tropical holiday discovers that the secluded beach where they are 
 	
 
 	
+	
+
+### Snake Eyes: G.I. Joe Origins
+*Released on 2021-07-22, vote average 5*
+
+After saving the life of their heir apparent, tenacious loner Snake Eyes is welcomed into an ancient Japanese clan called the Arashikage where he is taught the ways of the ninja warrior. But, when secrets from his past are revealed, Snake Eyes&#39; honor and allegiance will be tested – even if that means losing the trust of those closest to him.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fOzewsswtGM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 	
 
 ### Settlers
-*Released on 2021-07-23, vote average 6.8*
+*Released on 2021-07-23, vote average 6.9*
 
 Remmy and her parents, refugees from Earth, have found peace on the Martian outskirts until strangers appear in the hills beyond their farm. Told as a triptych, the film follows Remmy as she struggles to survive in an uneasy landscape.
 
@@ -469,18 +501,6 @@ Arcadia may look like an ordinary town, but it lies at the center of magical and
 	
 
 	
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
 
 	
 
@@ -496,7 +516,7 @@ Arcadia may look like an ordinary town, but it lies at the center of magical and
 	
 
 ### Bo Burnham: Inside
-*Released on 2021-07-22, vote average 8.8*
+*Released on 2021-07-22, vote average 8.9*
 
 Stuck in COVID-19 lockdown, US comedian and musician Bo Burnham attempts to stay sane and happy by writing, shooting and performing a one-man comedy special.
 
@@ -509,6 +529,16 @@ Stuck in COVID-19 lockdown, US comedian and musician Bo Burnham attempts to stay
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
