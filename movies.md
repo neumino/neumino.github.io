@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Black Widow
-*Released on 2021-07-07, vote average 8.1*
+*Released on 2021-07-07, vote average 8*
 
 Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.
 
@@ -47,7 +47,7 @@ Natasha Romanoff, also known as Black Widow, confronts the darker parts of her l
 	
 
 ### Space Jam: A New Legacy
-*Released on 2021-07-08, vote average 8*
+*Released on 2021-07-08, vote average 7.9*
 
 When LeBron and his young son Dom are trapped in a digital space by a rogue A.I., LeBron must get them home safe by leading Bugs, Lola Bunny and the whole gang of notoriously undisciplined Looney Tunes to victory over the A.I.&#39;s digitized champions on the court. It&#39;s Tunes versus Goons in the highest-stakes challenge of his life.
 
@@ -56,6 +56,28 @@ When LeBron and his young son Dom are trapped in a digital space by a rogue A.I.
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/olXYZOsXw_o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Fear Street: 1666
+*Released on 2021-07-16, vote average 7.7*
+
+In 1666, a colonial town is gripped by a hysterical witch-hunt that has deadly consequences for centuries to come, and it&#39;s up to teenagers in 1994 to finally put an end to their town&#39;s curse, before it&#39;s too late.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/UyUuzCGblqc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -90,16 +112,16 @@ In 1978, two rival groups at Camp Nightwing must band together to solve a terrif
 	
 	
 
-### Fear Street: 1666
-*Released on 2021-07-16, vote average 7.7*
+### The Simpsons: The Good, the Bart, and the Loki
+*Released on 2021-07-07, vote average 8.2*
 
-In 1666, a colonial town is gripped by a hysterical witch-hunt that has deadly consequences for centuries to come, and it&#39;s up to teenagers in 1994 to finally put an end to their town&#39;s curse, before it&#39;s too late.
+Loki is banished from Asgard once again and must face his toughest opponents yet: the Simpsons and Springfield’s mightiest heroes. The God of Mischief teams up with Bart Simpson in the ultimate crossover event paying tribute to the Marvel Cinematic Universe of superheroes and villains.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/UyUuzCGblqc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/K_PcaDs-tEc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -135,7 +157,7 @@ A waiter pretends to be an important businessman in order to reach the upper cla
 	
 
 ### Last Summer
-*Released on 2021-07-09, vote average 5.5*
+*Released on 2021-07-09, vote average 5.6*
 
 For Deniz, a 16-year-old teenager, this summer is different from the others. Deniz, who goes to his family&#39;s summer house every year, falls in love with a young girl named Aslı. Trying to get closer to Aslı, Deniz realizes that a handsome young man, Burak, also likes Aslı.
 
@@ -156,59 +178,8 @@ For Deniz, a 16-year-old teenager, this summer is different from the others. Den
 	
 	
 
-### The Simpsons: The Good, the Bart, and the Loki
-*Released on 2021-07-07, vote average 8.2*
-
-Loki is banished from Asgard once again and must face his toughest opponents yet: the Simpsons and Springfield’s mightiest heroes. The God of Mischief teams up with Bart Simpson in the ultimate crossover event paying tribute to the Marvel Cinematic Universe of superheroes and villains.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/K_PcaDs-tEc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Gunpowder Milkshake
-*Released on 2021-07-15, vote average 6.6*
-
-In her turbulent life as a professional assassin, Scarlet was cruelly forced to abandon her daughter Sam and go on the run. Years later, despite the estrangement, Sam has also grown up into a cold blooded hitwoman. After a high-stake mission spins out of control, putting an innocent 8-year-old girl in the middle of the gang war she has unleashed, Sam has no choice but to go rogue. This ultimately leads her back to her mother and her former hitwomen sidekicks, who all join forces in an avenging war against those who took everything from them.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/YLMT5uXjFLY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
 ### A Classic Horror Story
-*Released on 2021-07-14, vote average 6.5*
+*Released on 2021-07-14, vote average 6.3*
 
 Five carpoolers travel in a motorhome to reach a common destination. Night falls, and to avoid a dead animal carcass, they crash into a tree. When they come to their senses, they find themselves in the middle of nowhere. The road they were traveling on has disappeared and there is only a dense, impenetrable forest and a wooden house in the middle of a clearing, which they discover is the home of a spine-chilling cult.
 
@@ -229,30 +200,8 @@ Five carpoolers travel in a motorhome to reach a common destination. Night falls
 	
 	
 
-### Pig
-*Released on 2021-07-16, vote average 7*
-
-Living alone in the Oregon wilderness, a truffle hunter returns to Portland to find the person who stole his beloved pig and goes on a cat-and-mouse run along the shore.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/1i-_CRKdh4Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Guide to the Perfect Family
-*Released on 2021-07-14, vote average 7.3*
+*Released on 2021-07-14, vote average 7.1*
 
 A couple in Québec deals with the pitfalls, pressure and high expectations of raising kids in a society obsessed with success and social media image.
 
@@ -273,8 +222,81 @@ A couple in Québec deals with the pitfalls, pressure and high expectations of r
 	
 	
 
+### Pig
+*Released on 2021-07-16, vote average 6.8*
+
+Living alone in the Oregon wilderness, a truffle hunter returns to Portland to find the person who stole his beloved pig and goes on a cat-and-mouse run along the shore.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/1i-_CRKdh4Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Old
+*Released on 2021-07-21, vote average 7*
+
+A family on a tropical holiday discovers that the secluded beach where they are staying is somehow causing them to age rapidly, reducing their entire lives into a single day.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/eB1m-WogYeg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Gunpowder Milkshake
+*Released on 2021-07-15, vote average 6.7*
+
+In her turbulent life as a professional assassin, Scarlet was cruelly forced to abandon her daughter Sam and go on the run. Years later, despite the estrangement, Sam has also grown up into a cold blooded hitwoman. After a high-stake mission spins out of control, putting an innocent 8-year-old girl in the middle of the gang war she has unleashed, Sam has no choice but to go rogue. This ultimately leads her back to her mother and her former hitwomen sidekicks, who all join forces in an avenging war against those who took everything from them.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/YLMT5uXjFLY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### A Perfect Fit
-*Released on 2021-07-15, vote average 7.4*
+*Released on 2021-07-15, vote average 7.7*
 
 Sparks fly when a fashion blogger in Bali meets a gifted shoemaker, leading her to question her commitment to her fiancé.
 
@@ -293,22 +315,10 @@ Sparks fly when a fashion blogger in Bali meets a gifted shoemaker, leading her 
 
 
 	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
 	
 
 ### Deep
-*Released on 2021-07-16, vote average 6.1*
+*Released on 2021-07-16, vote average 5.9*
 
 Four insomniac med school students are lured into a neuroscience experiment that spirals out of control and must find a way out before it’s too late.
 
@@ -329,16 +339,38 @@ Four insomniac med school students are lured into a neuroscience experiment that
 	
 	
 
-### Out of Death
-*Released on 2021-07-16, vote average 6.8*
+### La civil
+*Released on 2021-07-08, vote average 2*
 
-As Shannon - a woman who wants to put her father&#39;s ashes away in the woods - witnesses a corrupt cop dealing drugs with a junkie, she has to try and run away after she gets rampaged by two discreditable cops after they see the woman taking secret photographs of their crime manoeuvre. They then do a cat-and-mouse game around the woods as Shannon teams up with a retired sheriff along the way for more reinforcement. It&#39;s just a diversion of survival and egalitarianism.
+Cielo is a mother whose teenage daughter is kidnapped in Northern Mexico. When the authorities offer no support in the search, Cielo takes matters into her own hands and transforms from housewife into a vengeful militant.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/XR2tg6h39B4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ik3TEtfLyCU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Trollhunters: Rise of the Titans
+*Released on 2021-07-21, vote average 1*
+
+Arcadia may look like an ordinary town, but it lies at the center of magical and mystical lines that makes it a nexus for many battles among otherworldly creatures, including trolls, aliens and wizards. Now, various heroes will team-up in an epic adventure where they must fight the Arcane Order for control over the magic that binds them all together.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/JhdVvTBY7cA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -352,7 +384,7 @@ As Shannon - a woman who wants to put her father&#39;s ashes away in the woods -
 	
 
 ### Titane
-*Released on 2021-07-14, vote average 7*
+*Released on 2021-07-14, vote average 6.6*
 
 Following a series of unexplained crimes, a former firefighter is reunited with his son who has been missing for 10 years.
 
@@ -372,21 +404,6 @@ Following a series of unexplained crimes, a former firefighter is reunited with 
 
 	
 	
-
-### Benedetta
-*Released on 2021-07-09, vote average 6.9*
-
-In the late 17th century, with plague ravaging the land, Benedetta Carlini joins the convent in Pescia, Tuscany, as a novice. Capable from an early age of performing miracles, Benedetta’s impact on life in the community is immediate and momentous.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/n-31QJXV3iA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -395,16 +412,16 @@ In the late 17th century, with plague ravaging the land, Benedetta Carlini joins
 	
 	
 
-### Memoria
-*Released on 2021-07-15, vote average 6.7*
+### WWE Money in the Bank 2021
+*Released on 2021-07-18, vote average 8.6*
 
-A Scottish orchid farmer visiting her ill sister in Bogota, Colombia, befriends a young musician and a French archaeologist in charge of monitoring a century-long construction project to tunnel through the Andes mountain range. Each night, she is bothered by increasingly loud bangs which prevent her from getting any sleep.
+It&#39;s time once again for yet another climb towards a golden opportunity for potential, future championship gold for these WWE Superstars as both the Men&#39;s &amp; Women&#39;s Money in the Bank briefcases are up for grabs (in front of a full live crowd for the first time in over a year no less!). Also, &#34;The Head of the Table&#34; Roman Reigns will be defending his Universal Championship against &#34;The Rated R Superstar&#34; Edge, &#34;The All-Mighty&#34; WWE Champion Bobby Lashley faces off against Kofi Kingston for Lashley&#39;s title, and Rhea Ripley defends her Raw Women&#39;s Championship against &#34;The Queen&#34; Charlotte Flair.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/PDU6B93ltds?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ws7Pb7828Dk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -419,10 +436,12 @@ A Scottish orchid farmer visiting her ill sister in Bogota, Colombia, befriends 
 
 
 	
+
+	
 	
 
 ### Old
-*Released on 2021-07-21, vote average 8.7*
+*Released on 2021-07-21, vote average 7*
 
 A family on a tropical holiday discovers that the secluded beach where they are staying is somehow causing them to age rapidly, reducing their entire lives into a single day.
 
@@ -441,7 +460,7 @@ A family on a tropical holiday discovers that the secluded beach where they are 
 	
 
 ### Snake Eyes: G.I. Joe Origins
-*Released on 2021-07-22, vote average 5*
+*Released on 2021-07-22, vote average 5.4*
 
 After saving the life of their heir apparent, tenacious loner Snake Eyes is welcomed into an ancient Japanese clan called the Arashikage where he is taught the ways of the ninja warrior. But, when secrets from his past are revealed, Snake Eyes&#39; honor and allegiance will be tested – even if that means losing the trust of those closest to him.
 
@@ -450,25 +469,6 @@ After saving the life of their heir apparent, tenacious loner Snake Eyes is welc
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/fOzewsswtGM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Settlers
-*Released on 2021-07-23, vote average 6.9*
-
-Remmy and her parents, refugees from Earth, have found peace on the Martian outskirts until strangers appear in the hills beyond their farm. Told as a triptych, the film follows Remmy as she struggles to survive in an uneasy landscape.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jeCcJCy0HzM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -495,28 +495,165 @@ Arcadia may look like an ordinary town, but it lies at the center of magical and
 	
 
 	
+	
 
+### Midnight in the Switchgrass
+*Released on 2021-07-23, vote average 6.7*
+
+FBI Agent Helter and his partner Lombardi are very close to busting a sex-trafficking ring. When they realize their investigation has crossed the path of a brutal serial killer, they team up with a Texas Ranger to put an end to the infamous &#39;Truck Stop Killer&#39;.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0_QLsoQ8hnE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### Settlers
+*Released on 2021-07-23, vote average 5.9*
+
+Remmy and her parents, refugees from Earth, have found peace on the Martian outskirts until strangers appear in the hills beyond their farm. Told as a triptych, the film follows Remmy as she struggles to survive in an uneasy landscape.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jeCcJCy0HzM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
 
 	
+	
 
+### Kaamelott - The First Chapter
+*Released on 2021-07-21, vote average 2*
+
+Following the end of the acclaimed tv series, King Arthur will oppose Lancelot&#39;s army to get the throne back after his flee to Rome.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Fd1Q2o-V6UM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### Enormous: The Gorge Story
+*Released on 2021-07-21, vote average 2*
+
+Enormous: The Gorge Story carves out the never-before-told story of the world’s most iconic music venue, The Gorge Amphitheatre. This music film investigates the venue’s unlikely evolution from a small winery created by a neurosurgeon to becoming one of the greatest outdoor music destinations in the world. Sign up to our mailing list for updates and original music content.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QRoA5cfwy1M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### Memoria
+*Released on 2021-07-21, vote average 5.5*
+
+A Scottish orchid farmer visiting her ill sister in Bogota, Colombia, befriends a young musician and a French archaeologist in charge of monitoring a century-long construction project to tunnel through the Andes mountain range. Each night, she is bothered by increasingly loud bangs which prevent her from getting any sleep.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PDU6B93ltds?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
 	
 
 	
 
 	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+
+### Blood Red Sky
+*Released on 2021-07-23, vote average 10*
+
+A woman with a mysterious illness is forced into action when a group of terrorists attempt to hijack a transatlantic overnight flight. In order to protect her son she will have to reveal a dark secret, and unleash the inner monster she has fought to hide.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ySFBYrAdTtI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
+	
+	
+
+### Envoy: Shark Cull
+*Released on 2021-07-21, vote average 10*
+
+Envoy: Shark Cull is a fascinating, deeply moving documentary narrated by Eric Bana, which sheds light on the real story behind the coastal ‘shark safety’ programs in Queensland and New South Wales. The current methods of baited drum-lines and nets have not only been scientifically proven to be ineffective in protecting swimmers and surfers, leaving them at risk in the sea, but these outdated solutions continue to be allowed to negatively impact entire marine ecosystems—including the Great Barrier Reef.  Follows some of the biggest names in ocean conservation, such as Sea Shepherd, Ocean Ramsey and Madison Stewart. We will join these experts as they explore and expose this scarcely understood topic. We will also learn the importance of sharks in our oceans while uncovering the longest marine cull in history.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0kCC2ZKq2Mk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
 	
 
 ### Bo Burnham: Inside
-*Released on 2021-07-22, vote average 8.9*
+*Released on 2021-07-22, vote average 9*
 
 Stuck in COVID-19 lockdown, US comedian and musician Bo Burnham attempts to stay sane and happy by writing, shooting and performing a one-man comedy special.
 
@@ -529,16 +666,6 @@ Stuck in COVID-19 lockdown, US comedian and musician Bo Burnham attempts to stay
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
