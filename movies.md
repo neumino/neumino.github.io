@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Black Widow
-*Released on 2021-07-07, vote average 8*
+### Space Jam: A New Legacy
+*Released on 2021-07-08, vote average 7.9*
 
-Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.
+When LeBron and his young son Dom are trapped in a digital space by a rogue A.I., LeBron must get them home safe by leading Bugs, Lola Bunny and the whole gang of notoriously undisciplined Looney Tunes to victory over the A.I.&#39;s digitized champions on the court. It&#39;s Tunes versus Goons in the highest-stakes challenge of his life.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/RxAtuMu_ph4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/olXYZOsXw_o?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -40,28 +40,6 @@ Natasha Romanoff, also known as Black Widow, confronts the darker parts of her l
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-
-
-	
-	
-
-### Space Jam: A New Legacy
-*Released on 2021-07-08, vote average 7.9*
-
-When LeBron and his young son Dom are trapped in a digital space by a rogue A.I., LeBron must get them home safe by leading Bugs, Lola Bunny and the whole gang of notoriously undisciplined Looney Tunes to victory over the A.I.&#39;s digitized champions on the court. It&#39;s Tunes versus Goons in the highest-stakes challenge of his life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/olXYZOsXw_o?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
   
 
 
@@ -91,7 +69,7 @@ In 1666, a colonial town is gripped by a hysterical witch-hunt that has deadly c
 	
 
 ### Fear Street: 1978
-*Released on 2021-07-09, vote average 7.5*
+*Released on 2021-07-09, vote average 7.4*
 
 In 1978, two rival groups at Camp Nightwing must band together to solve a terrifying mystery when horrors from their towns&#39; history come alive.
 
@@ -100,28 +78,6 @@ In 1978, two rival groups at Camp Nightwing must band together to solve a terrif
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/UyUuzCGblqc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Simpsons: The Good, the Bart, and the Loki
-*Released on 2021-07-07, vote average 8.2*
-
-Loki is banished from Asgard once again and must face his toughest opponents yet: the Simpsons and Springfield’s mightiest heroes. The God of Mischief teams up with Bart Simpson in the ultimate crossover event paying tribute to the Marvel Cinematic Universe of superheroes and villains.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/K_PcaDs-tEc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -201,7 +157,7 @@ Five carpoolers travel in a motorhome to reach a common destination. Night falls
 	
 
 ### The Guide to the Perfect Family
-*Released on 2021-07-14, vote average 7.1*
+*Released on 2021-07-14, vote average 7.2*
 
 A couple in Québec deals with the pitfalls, pressure and high expectations of raising kids in a society obsessed with success and social media image.
 
@@ -210,6 +166,72 @@ A couple in Québec deals with the pitfalls, pressure and high expectations of r
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/uOnf4K9ACmE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Old
+*Released on 2021-07-21, vote average 7*
+
+A family on a tropical holiday discovers that the secluded beach where they are staying is somehow causing them to age rapidly, reducing their entire lives into a single day.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/eB1m-WogYeg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### A Perfect Fit
+*Released on 2021-07-15, vote average 8.2*
+
+Sparks fly when a fashion blogger in Bali meets a gifted shoemaker, leading her to question her commitment to her fiancé.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/WM_aZHXPRyI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Snake Eyes: G.I. Joe Origins
+*Released on 2021-07-22, vote average 6*
+
+After saving the life of their heir apparent, tenacious loner Snake Eyes is welcomed into an ancient Japanese clan called the Arashikage where he is taught the ways of the ninja warrior. But, when secrets from his past are revealed, Snake Eyes&#39; honor and allegiance will be tested – even if that means losing the trust of those closest to him.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fOzewsswtGM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -244,26 +266,19 @@ Living alone in the Oregon wilderness, a truffle hunter returns to Portland to f
 	
 	
 
-### Old
-*Released on 2021-07-21, vote average 7*
+### Deep
+*Released on 2021-07-16, vote average 5.6*
 
-A family on a tropical holiday discovers that the secluded beach where they are staying is somehow causing them to age rapidly, reducing their entire lives into a single day.
+Four insomniac med school students are lured into a neuroscience experiment that spirals out of control and must find a way out before it’s too late.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/eB1m-WogYeg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/CyEBaYYUroM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -295,16 +310,16 @@ In her turbulent life as a professional assassin, Scarlet was cruelly forced to 
 	
 	
 
-### A Perfect Fit
-*Released on 2021-07-15, vote average 7.7*
+### Trollhunters: Rise of the Titans
+*Released on 2021-07-21, vote average 1*
 
-Sparks fly when a fashion blogger in Bali meets a gifted shoemaker, leading her to question her commitment to her fiancé.
+Arcadia may look like an ordinary town, but it lies at the center of magical and mystical lines that makes it a nexus for many battles among otherworldly creatures, including trolls, aliens and wizards. Now, various heroes will team-up in an epic adventure where they must fight the Arcane Order for control over the magic that binds them all together.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/WM_aZHXPRyI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/JhdVvTBY7cA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -316,17 +331,24 @@ Sparks fly when a fashion blogger in Bali meets a gifted shoemaker, leading her 
 
 	
 	
+	
 
-### Deep
-*Released on 2021-07-16, vote average 5.9*
+  
 
-Four insomniac med school students are lured into a neuroscience experiment that spirals out of control and must find a way out before it’s too late.
+
+	
+	
+
+### Titane
+*Released on 2021-07-14, vote average 6.5*
+
+Following a series of unexplained crimes, a former firefighter is reunited with his son who has been missing for 10 years.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/CyEBaYYUroM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/epoyDw8EU9I?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -361,38 +383,16 @@ Cielo is a mother whose teenage daughter is kidnapped in Northern Mexico. When t
 	
 	
 
-### Trollhunters: Rise of the Titans
-*Released on 2021-07-21, vote average 1*
+### How It Ends
+*Released on 2021-07-20, vote average 5*
 
-Arcadia may look like an ordinary town, but it lies at the center of magical and mystical lines that makes it a nexus for many battles among otherworldly creatures, including trolls, aliens and wizards. Now, various heroes will team-up in an epic adventure where they must fight the Arcane Order for control over the magic that binds them all together.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/JhdVvTBY7cA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Titane
-*Released on 2021-07-14, vote average 6.6*
-
-Following a series of unexplained crimes, a former firefighter is reunited with his son who has been missing for 10 years.
+On the last day on Earth, one woman goes on a journey through LA to make it to her last party before the world ends, running into an eclectic cast of characters along the way.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/epoyDw8EU9I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/t84FHuWMs2I?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -412,16 +412,16 @@ Following a series of unexplained crimes, a former firefighter is reunited with 
 	
 	
 
-### WWE Money in the Bank 2021
-*Released on 2021-07-18, vote average 8.6*
+### Kaamelott - The First Chapter
+*Released on 2021-07-21, vote average 7.8*
 
-It&#39;s time once again for yet another climb towards a golden opportunity for potential, future championship gold for these WWE Superstars as both the Men&#39;s &amp; Women&#39;s Money in the Bank briefcases are up for grabs (in front of a full live crowd for the first time in over a year no less!). Also, &#34;The Head of the Table&#34; Roman Reigns will be defending his Universal Championship against &#34;The Rated R Superstar&#34; Edge, &#34;The All-Mighty&#34; WWE Champion Bobby Lashley faces off against Kofi Kingston for Lashley&#39;s title, and Rhea Ripley defends her Raw Women&#39;s Championship against &#34;The Queen&#34; Charlotte Flair.
+Following the end of the acclaimed tv series, King Arthur will oppose Lancelot&#39;s army to get the throne back after his flee to Rome.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ws7Pb7828Dk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Fd1Q2o-V6UM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -440,27 +440,8 @@ It&#39;s time once again for yet another climb towards a golden opportunity for 
 	
 	
 
-### Old
-*Released on 2021-07-21, vote average 7*
-
-A family on a tropical holiday discovers that the secluded beach where they are staying is somehow causing them to age rapidly, reducing their entire lives into a single day.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/eB1m-WogYeg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
 ### Snake Eyes: G.I. Joe Origins
-*Released on 2021-07-22, vote average 5.4*
+*Released on 2021-07-22, vote average 6*
 
 After saving the life of their heir apparent, tenacious loner Snake Eyes is welcomed into an ancient Japanese clan called the Arashikage where he is taught the ways of the ninja warrior. But, when secrets from his past are revealed, Snake Eyes&#39; honor and allegiance will be tested – even if that means losing the trust of those closest to him.
 
@@ -478,27 +459,8 @@ After saving the life of their heir apparent, tenacious loner Snake Eyes is welc
 	
 	
 
-### Trollhunters: Rise of the Titans
-*Released on 2021-07-21, vote average 1*
-
-Arcadia may look like an ordinary town, but it lies at the center of magical and mystical lines that makes it a nexus for many battles among otherworldly creatures, including trolls, aliens and wizards. Now, various heroes will team-up in an epic adventure where they must fight the Arcane Order for control over the magic that binds them all together.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/JhdVvTBY7cA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
 ### Midnight in the Switchgrass
-*Released on 2021-07-23, vote average 6.7*
+*Released on 2021-07-23, vote average 6*
 
 FBI Agent Helter and his partner Lombardi are very close to busting a sex-trafficking ring. When they realize their investigation has crossed the path of a brutal serial killer, they team up with a Texas Ranger to put an end to the infamous &#39;Truck Stop Killer&#39;.
 
@@ -517,7 +479,7 @@ FBI Agent Helter and his partner Lombardi are very close to busting a sex-traffi
 	
 
 ### Settlers
-*Released on 2021-07-23, vote average 5.9*
+*Released on 2021-07-23, vote average 5.8*
 
 Remmy and her parents, refugees from Earth, have found peace on the Martian outskirts until strangers appear in the hills beyond their farm. Told as a triptych, the film follows Remmy as she struggles to survive in an uneasy landscape.
 
@@ -533,79 +495,21 @@ Remmy and her parents, refugees from Earth, have found peace on the Martian outs
 	
 
 	
-
-	
 	
 
-### Kaamelott - The First Chapter
-*Released on 2021-07-21, vote average 2*
+### Bo Burnham: Inside
+*Released on 2021-07-22, vote average 8.9*
 
-Following the end of the acclaimed tv series, King Arthur will oppose Lancelot&#39;s army to get the throne back after his flee to Rome.
+Stuck in COVID-19 lockdown, US comedian and musician Bo Burnham attempts to stay sane and happy by writing, shooting and performing a one-man comedy special.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Fd1Q2o-V6UM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Bs-GdcUfl0Q?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-	
-	
-
-### Enormous: The Gorge Story
-*Released on 2021-07-21, vote average 2*
-
-Enormous: The Gorge Story carves out the never-before-told story of the world’s most iconic music venue, The Gorge Amphitheatre. This music film investigates the venue’s unlikely evolution from a small winery created by a neurosurgeon to becoming one of the greatest outdoor music destinations in the world. Sign up to our mailing list for updates and original music content.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/QRoA5cfwy1M?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Memoria
-*Released on 2021-07-21, vote average 5.5*
-
-A Scottish orchid farmer visiting her ill sister in Bogota, Colombia, befriends a young musician and a French archaeologist in charge of monitoring a century-long construction project to tunnel through the Andes mountain range. Each night, she is bothered by increasingly loud bangs which prevent her from getting any sleep.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/PDU6B93ltds?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-	
-
-	
-
-	
-	
-	
-
-	
-	
-	
-
-	
 	
 	
 
@@ -632,17 +536,27 @@ A woman with a mysterious illness is forced into action when a group of terroris
 
 	
 	
+	
 
-### Envoy: Shark Cull
-*Released on 2021-07-21, vote average 10*
+	
+	
+	
 
-Envoy: Shark Cull is a fascinating, deeply moving documentary narrated by Eric Bana, which sheds light on the real story behind the coastal ‘shark safety’ programs in Queensland and New South Wales. The current methods of baited drum-lines and nets have not only been scientifically proven to be ineffective in protecting swimmers and surfers, leaving them at risk in the sea, but these outdated solutions continue to be allowed to negatively impact entire marine ecosystems—including the Great Barrier Reef.  Follows some of the biggest names in ocean conservation, such as Sea Shepherd, Ocean Ramsey and Madison Stewart. We will join these experts as they explore and expose this scarcely understood topic. We will also learn the importance of sharks in our oceans while uncovering the longest marine cull in history.
+	
+
+	
+	
+
+### Val
+*Released on 2021-07-23, vote average 2*
+
+For over 40 years Val Kilmer, one of Hollywood’s most mercurial and/or misunderstood actors has been documenting his own life and craft through film and video. He has amassed thousands of hours of footage, from 16mm home movies made with his brothers, to time spent in iconic roles for blockbuster movies like Top Gun, The Doors, Tombstone, and Batman Forever. This raw, wildly original and unflinching documentary reveals a life lived to extremes and a heart-filled, sometimes hilarious look at what it means to be an artist and a complex man.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/0kCC2ZKq2Mk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/YqNnhgEyQCU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -650,22 +564,19 @@ Envoy: Shark Cull is a fascinating, deeply moving documentary narrated by Eric B
 	
 
 	
-	
-
-### Bo Burnham: Inside
-*Released on 2021-07-22, vote average 9*
-
-Stuck in COVID-19 lockdown, US comedian and musician Bo Burnham attempts to stay sane and happy by writing, shooting and performing a one-man comedy special.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Bs-GdcUfl0Q?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
