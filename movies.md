@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Space Jam: A New Legacy
-*Released on 2021-07-08, vote average 7.9*
+### Fear Street: 1666
+*Released on 2021-07-16, vote average 7.6*
 
-When LeBron and his young son Dom are trapped in a digital space by a rogue A.I., LeBron must get them home safe by leading Bugs, Lola Bunny and the whole gang of notoriously undisciplined Looney Tunes to victory over the A.I.&#39;s digitized champions on the court. It&#39;s Tunes versus Goons in the highest-stakes challenge of his life.
+In 1666, a colonial town is gripped by a hysterical witch-hunt that has deadly consequences for centuries to come, and it&#39;s up to teenagers in 1994 to finally put an end to their town&#39;s curse, before it&#39;s too late.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/olXYZOsXw_o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/UyUuzCGblqc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,30 +46,8 @@ When LeBron and his young son Dom are trapped in a digital space by a rogue A.I.
 	
 	
 
-### Fear Street: 1666
-*Released on 2021-07-16, vote average 7.7*
-
-In 1666, a colonial town is gripped by a hysterical witch-hunt that has deadly consequences for centuries to come, and it&#39;s up to teenagers in 1994 to finally put an end to their town&#39;s curse, before it&#39;s too late.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/UyUuzCGblqc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Fear Street: 1978
-*Released on 2021-07-09, vote average 7.4*
+*Released on 2021-07-09, vote average 7.5*
 
 In 1978, two rival groups at Camp Nightwing must band together to solve a terrifying mystery when horrors from their towns&#39; history come alive.
 
@@ -112,16 +90,16 @@ A waiter pretends to be an important businessman in order to reach the upper cla
 	
 	
 
-### Last Summer
-*Released on 2021-07-09, vote average 5.6*
+### A Classic Horror Story
+*Released on 2021-07-14, vote average 6.3*
 
-For Deniz, a 16-year-old teenager, this summer is different from the others. Deniz, who goes to his family&#39;s summer house every year, falls in love with a young girl named Aslı. Trying to get closer to Aslı, Deniz realizes that a handsome young man, Burak, also likes Aslı.
+Five carpoolers travel in a motorhome to reach a common destination. Night falls, and to avoid a dead animal carcass, they crash into a tree. When they come to their senses, they find themselves in the middle of nowhere. The road they were traveling on has disappeared and there is only a dense, impenetrable forest and a wooden house in the middle of a clearing, which they discover is the home of a spine-chilling cult.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Ihh-8KahJNc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/cfYkvGfkMZs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,16 +112,16 @@ For Deniz, a 16-year-old teenager, this summer is different from the others. Den
 	
 	
 
-### A Classic Horror Story
-*Released on 2021-07-14, vote average 6.3*
+### Last Summer
+*Released on 2021-07-09, vote average 5.4*
 
-Five carpoolers travel in a motorhome to reach a common destination. Night falls, and to avoid a dead animal carcass, they crash into a tree. When they come to their senses, they find themselves in the middle of nowhere. The road they were traveling on has disappeared and there is only a dense, impenetrable forest and a wooden house in the middle of a clearing, which they discover is the home of a spine-chilling cult.
+For Deniz, a 16-year-old teenager, this summer is different from the others. Deniz, who goes to his family&#39;s summer house every year, falls in love with a young girl named Aslı. Trying to get closer to Aslı, Deniz realizes that a handsome young man, Burak, also likes Aslı.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/cfYkvGfkMZs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Ihh-8KahJNc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -178,28 +156,6 @@ A couple in Québec deals with the pitfalls, pressure and high expectations of r
 	
 	
 
-### Old
-*Released on 2021-07-21, vote average 7*
-
-A family on a tropical holiday discovers that the secluded beach where they are staying is somehow causing them to age rapidly, reducing their entire lives into a single day.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/eB1m-WogYeg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### A Perfect Fit
 *Released on 2021-07-15, vote average 8.2*
 
@@ -222,8 +178,30 @@ Sparks fly when a fashion blogger in Bali meets a gifted shoemaker, leading her 
 	
 	
 
+### Old
+*Released on 2021-07-21, vote average 7.2*
+
+A family on a tropical holiday discovers that the secluded beach where they are staying is somehow causing them to age rapidly, reducing their entire lives into a single day.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/eB1m-WogYeg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Snake Eyes: G.I. Joe Origins
-*Released on 2021-07-22, vote average 6*
+*Released on 2021-07-22, vote average 6.5*
 
 After saving the life of their heir apparent, tenacious loner Snake Eyes is welcomed into an ancient Japanese clan called the Arashikage where he is taught the ways of the ninja warrior. But, when secrets from his past are revealed, Snake Eyes&#39; honor and allegiance will be tested – even if that means losing the trust of those closest to him.
 
@@ -232,6 +210,28 @@ After saving the life of their heir apparent, tenacious loner Snake Eyes is welc
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/fOzewsswtGM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Deep
+*Released on 2021-07-16, vote average 5.7*
+
+Four insomniac med school students are lured into a neuroscience experiment that spirals out of control and must find a way out before it’s too late.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/CyEBaYYUroM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -266,16 +266,38 @@ Living alone in the Oregon wilderness, a truffle hunter returns to Portland to f
 	
 	
 
-### Deep
-*Released on 2021-07-16, vote average 5.6*
+### Trollhunters: Rise of the Titans
+*Released on 2021-07-21, vote average 6.8*
 
-Four insomniac med school students are lured into a neuroscience experiment that spirals out of control and must find a way out before it’s too late.
+Arcadia may look like an ordinary town, but it lies at the center of magical and mystical lines that makes it a nexus for many battles among otherworldly creatures, including trolls, aliens, and wizards. Now, various heroes will team-up in an epic adventure where they must fight the Arcane Order for control over the magic that binds them all together.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/CyEBaYYUroM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/JhdVvTBY7cA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Midnight in the Switchgrass
+*Released on 2021-07-23, vote average 5.5*
+
+FBI Agent Helter and his partner Lombardi are very close to busting a sex-trafficking ring. When they realize their investigation has crossed the path of a brutal serial killer, they team up with a Texas Ranger to put an end to the infamous &#39;Truck Stop Killer&#39;.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0_QLsoQ8hnE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -309,28 +331,6 @@ In her turbulent life as a professional assassin, Scarlet was cruelly forced to 
 
 	
 	
-
-### Trollhunters: Rise of the Titans
-*Released on 2021-07-21, vote average 1*
-
-Arcadia may look like an ordinary town, but it lies at the center of magical and mystical lines that makes it a nexus for many battles among otherworldly creatures, including trolls, aliens and wizards. Now, various heroes will team-up in an epic adventure where they must fight the Arcane Order for control over the magic that binds them all together.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/JhdVvTBY7cA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -339,38 +339,16 @@ Arcadia may look like an ordinary town, but it lies at the center of magical and
 	
 	
 
-### Titane
-*Released on 2021-07-14, vote average 6.5*
+### Settlers
+*Released on 2021-07-23, vote average 5.8*
 
-Following a series of unexplained crimes, a former firefighter is reunited with his son who has been missing for 10 years.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/epoyDw8EU9I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### La civil
-*Released on 2021-07-08, vote average 2*
-
-Cielo is a mother whose teenage daughter is kidnapped in Northern Mexico. When the authorities offer no support in the search, Cielo takes matters into her own hands and transforms from housewife into a vengeful militant.
+Remmy and her parents, refugees from Earth, have found peace on the Martian outskirts until strangers appear in the hills beyond their farm. Told as a triptych, the film follows Remmy as she struggles to survive in an uneasy landscape.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ik3TEtfLyCU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/jeCcJCy0HzM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -404,6 +382,21 @@ On the last day on Earth, one woman goes on a journey through LA to make it to h
 
 	
 	
+
+### Titane
+*Released on 2021-07-14, vote average 6.6*
+
+Following a series of unexplained crimes, a former firefighter is reunited with his son who has been missing for 10 years.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/epoyDw8EU9I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -413,7 +406,7 @@ On the last day on Earth, one woman goes on a journey through LA to make it to h
 	
 
 ### Kaamelott - The First Chapter
-*Released on 2021-07-21, vote average 7.8*
+*Released on 2021-07-21, vote average 7.9*
 
 Following the end of the acclaimed tv series, King Arthur will oppose Lancelot&#39;s army to get the throne back after his flee to Rome.
 
@@ -431,6 +424,28 @@ Following the end of the acclaimed tv series, King Arthur will oppose Lancelot&#
   
 
 
+	
+	
+
+### Room 9
+*Released on 2021-07-20, vote average 1*
+
+Long ago, Room 9 of the Johnson/Bedford Inn, located in a remote small town, was the site of a gruesome double murder. Decades later, with the town terrorized once again by a string of bloody ritual killings, a mysterious woman named Star arrives to investigate and suffers bizarre flashbacks related to the inn’s slayings. Is she connected to the killings…or the inn’s next victim?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/H8OwxMtkBlc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -438,29 +453,12 @@ Following the end of the acclaimed tv series, King Arthur will oppose Lancelot&#
 	
 
 	
-	
-
-### Snake Eyes: G.I. Joe Origins
-*Released on 2021-07-22, vote average 6*
-
-After saving the life of their heir apparent, tenacious loner Snake Eyes is welcomed into an ancient Japanese clan called the Arashikage where he is taught the ways of the ninja warrior. But, when secrets from his past are revealed, Snake Eyes&#39; honor and allegiance will be tested – even if that means losing the trust of those closest to him.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/fOzewsswtGM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 	
 
 ### Midnight in the Switchgrass
-*Released on 2021-07-23, vote average 6*
+*Released on 2021-07-23, vote average 5.5*
 
 FBI Agent Helter and his partner Lombardi are very close to busting a sex-trafficking ring. When they realize their investigation has crossed the path of a brutal serial killer, they team up with a Texas Ranger to put an end to the infamous &#39;Truck Stop Killer&#39;.
 
@@ -497,25 +495,6 @@ Remmy and her parents, refugees from Earth, have found peace on the Martian outs
 	
 	
 
-### Bo Burnham: Inside
-*Released on 2021-07-22, vote average 8.9*
-
-Stuck in COVID-19 lockdown, US comedian and musician Bo Burnham attempts to stay sane and happy by writing, shooting and performing a one-man comedy special.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Bs-GdcUfl0Q?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
 ### Blood Red Sky
 *Released on 2021-07-23, vote average 10*
 
@@ -530,18 +509,6 @@ A woman with a mysterious illness is forced into action when a group of terroris
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-	
-	
-
-	
-	
-	
-
 	
 
 	
@@ -561,6 +528,18 @@ For over 40 years Val Kilmer, one of Hollywood’s most mercurial and/or misunde
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+	
+	
+
 	
 
 	
