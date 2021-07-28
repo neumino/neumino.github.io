@@ -46,8 +46,30 @@ In 1666, a colonial town is gripped by a hysterical witch-hunt that has deadly c
 	
 	
 
+### Trollhunters: Rise of the Titans
+*Released on 2021-07-21, vote average 8.2*
+
+Arcadia may look like an ordinary town, but it lies at the center of magical and mystical lines that makes it a nexus for many battles among otherworldly creatures, including trolls, aliens, and wizards. Now, various heroes will team-up in an epic adventure where they must fight the Arcane Order for control over the magic that binds them all together.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/JhdVvTBY7cA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Guide to the Perfect Family
-*Released on 2021-07-14, vote average 6.8*
+*Released on 2021-07-14, vote average 6.9*
 
 A couple in Québec deals with the pitfalls, pressure and high expectations of raising kids in a society obsessed with success and social media image.
 
@@ -56,6 +78,28 @@ A couple in Québec deals with the pitfalls, pressure and high expectations of r
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/uOnf4K9ACmE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Deep
+*Released on 2021-07-16, vote average 6.3*
+
+Four insomniac med school students are lured into a neuroscience experiment that spirals out of control and must find a way out before it’s too late.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/CyEBaYYUroM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,16 +156,16 @@ Sparks fly when a fashion blogger in Bali meets a gifted shoemaker, leading her 
 	
 	
 
-### Deep
-*Released on 2021-07-16, vote average 6*
+### El mesero
+*Released on 2021-07-15, vote average 5.8*
 
-Four insomniac med school students are lured into a neuroscience experiment that spirals out of control and must find a way out before it’s too late.
+A waiter pretends to be an important businessman in order to reach the upper class through his entrepreneurial dreams.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/CyEBaYYUroM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/fezfmv-5pHU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,16 +178,38 @@ Four insomniac med school students are lured into a neuroscience experiment that
 	
 	
 
-### El mesero
-*Released on 2021-07-15, vote average 5.8*
+### Old
+*Released on 2021-07-21, vote average 6.5*
 
-A waiter pretends to be an important businessman in order to reach the upper class through his entrepreneurial dreams.
+A family on a tropical holiday discovers that the secluded beach where they are staying is somehow causing them to age rapidly, reducing their entire lives into a single day.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/fezfmv-5pHU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/eB1m-WogYeg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Jungle Cruise
+*Released on 2021-07-28, vote average 7*
+
+Dr. Lily Houghton enlists the aid of wisecracking skipper Frank Wolff to take her down the Amazon in his dilapidated boat. Together, they search for an ancient tree that holds the power to heal – a discovery that will change the future of medicine.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Zsnp3WMX3AE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -178,74 +244,8 @@ After saving the life of their heir apparent, tenacious loner Snake Eyes is welc
 	
 	
 
-### Trollhunters: Rise of the Titans
-*Released on 2021-07-21, vote average 8.1*
-
-Arcadia may look like an ordinary town, but it lies at the center of magical and mystical lines that makes it a nexus for many battles among otherworldly creatures, including trolls, aliens, and wizards. Now, various heroes will team-up in an epic adventure where they must fight the Arcane Order for control over the magic that binds them all together.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/JhdVvTBY7cA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Old
-*Released on 2021-07-21, vote average 6.6*
-
-A family on a tropical holiday discovers that the secluded beach where they are staying is somehow causing them to age rapidly, reducing their entire lives into a single day.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/eB1m-WogYeg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Pig
-*Released on 2021-07-16, vote average 6.8*
-
-Living alone in the Oregon wilderness, a truffle hunter returns to Portland to find the person who stole his beloved pig and goes on a cat-and-mouse run along the shore.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/1i-_CRKdh4Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Blood Red Sky
-*Released on 2021-07-23, vote average 7.7*
+*Released on 2021-07-23, vote average 7.6*
 
 A woman with a mysterious illness is forced into action when a group of terrorists attempt to hijack a transatlantic overnight flight. In order to protect her son she will have to reveal a dark secret, and unleash the inner monster she has fought to hide.
 
@@ -267,7 +267,7 @@ A woman with a mysterious illness is forced into action when a group of terroris
 	
 
 ### Kingdom: Ashin of the North
-*Released on 2021-07-23, vote average 8.2*
+*Released on 2021-07-23, vote average 8.1*
 
 Tragedy, betrayal and a mysterious discovery fuel a woman&#39;s vengeance for the loss of her tribe and family in this special episode of &#34;Kingdom.&#34;
 
@@ -276,6 +276,50 @@ Tragedy, betrayal and a mysterious discovery fuel a woman&#39;s vengeance for th
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/6cwNyNmJrjM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Pig
+*Released on 2021-07-16, vote average 6.9*
+
+Living alone in the Oregon wilderness, a truffle hunter returns to Portland to find the person who stole his beloved pig and goes on a cat-and-mouse run along the shore.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/1i-_CRKdh4Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Bankrolled
+*Released on 2021-07-23, vote average 7.5*
+
+While blind drunk, two unemployed millennials entrepreneurs drunkenly post a video pitch about their revolutionary app to a crowdfunding site. When the app catches fire and they accidentally raise millions of dollars they actually have to create the app.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FIpK2eGDkPU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -310,28 +354,6 @@ In her turbulent life as a professional assassin, Scarlet was cruelly forced to 
 	
 	
 
-### Midnight in the Switchgrass
-*Released on 2021-07-23, vote average 5*
-
-FBI Agent Helter and his partner Lombardi are very close to busting a sex-trafficking ring. When they realize their investigation has crossed the path of a brutal serial killer, they team up with a Texas Ranger to put an end to the infamous &#39;Truck Stop Killer&#39;.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0_QLsoQ8hnE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Batman: The Long Halloween, Part Two
 *Released on 2021-07-26, vote average 5*
 
@@ -354,16 +376,16 @@ As Gotham City&#39;s young vigilante, the Batman, struggles to pursue a brutal s
 	
 	
 
-### Bankrolled
-*Released on 2021-07-23, vote average 8*
+### Midnight in the Switchgrass
+*Released on 2021-07-23, vote average 5*
 
-While blind drunk, two unemployed millennials entrepreneurs drunkenly post a video pitch about their revolutionary app to a crowdfunding site. When the app catches fire and they accidentally raise millions of dollars they actually have to create the app.
+FBI Agent Helter and his partner Lombardi are very close to busting a sex-trafficking ring. When they realize their investigation has crossed the path of a brutal serial killer, they team up with a Texas Ranger to put an end to the infamous &#39;Truck Stop Killer&#39;.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/FIpK2eGDkPU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/0_QLsoQ8hnE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -399,7 +421,7 @@ Following the end of the acclaimed tv series, King Arthur will oppose Lancelot&#
 	
 
 ### Woodstock 99: Peace, Love, and Rage
-*Released on 2021-07-23, vote average 5.5*
+*Released on 2021-07-23, vote average 6.5*
 
 Explore Woodstock 99, a three-day music festival promoted to echo unity and counterculture idealism of the original 1969 concert but instead devolved into riots, looting and sexual assaults.
 
@@ -439,13 +461,6 @@ Remmy and her parents, refugees from Earth, have found peace on the Martian outs
   
 
 
-	
-	
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -470,12 +485,29 @@ Dr. Lily Houghton enlists the aid of wisecracking skipper Frank Wolff to take he
 	
 
 	
+	
+
+### The Suicide Squad
+*Released on 2021-07-30, vote average 10*
+
+Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/VImYeXnr13Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 	
 
 ### Jolt
-*Released on 2021-07-29, vote average 6.6*
+*Released on 2021-07-29, vote average 6.7*
 
 Lindy is an acid-tongued woman with rage issues who controls her temper by shocking herself with an electrode vest. One day she makes a connection with Justin, who gives her a glimmer of hope for a shock-free future, but when he’s murdered she launches herself on a revenge-fueled rampage in pursuit of his killer.
 
@@ -510,42 +542,42 @@ A young journalist in London becomes obsessed with a series of letters she disco
 	
 
 	
-
 	
 
-	
+### The Green Knight
+*Released on 2021-07-29, vote average 10*
 
-	
-
-	
-
-	
-
-	
-	
-	
-
-	
-
-	
-
-	
-	
-
-### Lorelei
-*Released on 2021-07-30, vote average 4*
-
-A man is released from prison after 15 years. He reunites with his high school girlfriend, now a single mother of three. What follows is a lyrical take on love, regret and second chances.
+An epic fantasy adventure based on the timeless Arthurian legend, The Green Knight tells the story of Sir Gawain, King Arthur&#39;s reckless and headstrong nephew, who embarks on a daring quest to confront the eponymous Green Knight, a gigantic emerald-skinned stranger and tester of men.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/aXR1gDNPhT4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/VoJc2tH3WBw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
