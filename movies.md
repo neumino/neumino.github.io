@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Trollhunters: Rise of the Titans
-*Released on 2021-07-21, vote average 8*
+*Released on 2021-07-21, vote average 7.9*
 
 Arcadia may look like an ordinary town, but it lies at the center of magical and mystical lines that makes it a nexus for many battles among otherworldly creatures, including trolls, aliens, and wizards. Now, various heroes will team-up in an epic adventure where they must fight the Arcane Order for control over the magic that binds them all together.
 
@@ -69,7 +69,7 @@ In 1666, a colonial town is gripped by a hysterical witch-hunt that has deadly c
 	
 
 ### Jungle Cruise
-*Released on 2021-07-28, vote average 6.8*
+*Released on 2021-07-28, vote average 7.3*
 
 Dr. Lily Houghton enlists the aid of wisecracking skipper Frank Wolff to take her down the Amazon in his dilapidated boat. Together, they search for an ancient tree that holds the power to heal – a discovery that will change the future of medicine.
 
@@ -91,7 +91,7 @@ Dr. Lily Houghton enlists the aid of wisecracking skipper Frank Wolff to take he
 	
 
 ### Deep
-*Released on 2021-07-16, vote average 6.4*
+*Released on 2021-07-16, vote average 6.3*
 
 Four insomniac med school students are lured into a neuroscience experiment that spirals out of control and must find a way out before it’s too late.
 
@@ -115,79 +115,13 @@ Four insomniac med school students are lured into a neuroscience experiment that
 ### Old
 *Released on 2021-07-21, vote average 6.6*
 
-A family on a tropical holiday discovers that the secluded beach where they are staying is somehow causing them to age rapidly, reducing their entire lives into a single day.
+A group of families on a tropical holiday discover that the secluded beach where they are staying is somehow causing them to age rapidly – reducing their entire lives into a single day.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/A4U2pMRV9_k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### A Perfect Fit
-*Released on 2021-07-15, vote average 7.9*
-
-Sparks fly when a fashion blogger in Bali meets a gifted shoemaker, leading her to question her commitment to her fiancé.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/WM_aZHXPRyI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### El mesero
-*Released on 2021-07-15, vote average 5.8*
-
-A waiter pretends to be an important businessman in order to reach the upper class through his entrepreneurial dreams.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/fezfmv-5pHU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Snake Eyes: G.I. Joe Origins
-*Released on 2021-07-22, vote average 7*
-
-After saving the life of their heir apparent, tenacious loner Snake Eyes is welcomed into an ancient Japanese clan called the Arashikage where he is taught the ways of the ninja warrior. But, when secrets from his past are revealed, Snake Eyes&#39; honor and allegiance will be tested – even if that means losing the trust of those closest to him.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Vd2sm63Xwfw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -223,7 +157,7 @@ A woman with a mysterious illness is forced into action when a group of terroris
 	
 
 ### The Suicide Squad
-*Released on 2021-07-28, vote average 8.7*
+*Released on 2021-07-28, vote average 8.1*
 
 Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.
 
@@ -244,8 +178,30 @@ Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty con
 	
 	
 
+### Snake Eyes: G.I. Joe Origins
+*Released on 2021-07-22, vote average 7*
+
+After saving the life of their heir apparent, tenacious loner Snake Eyes is welcomed into an ancient Japanese clan called the Arashikage where he is taught the ways of the ninja warrior. But, when secrets from his past are revealed, Snake Eyes&#39; honor and allegiance will be tested – even if that means losing the trust of those closest to him.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Vd2sm63Xwfw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Kingdom: Ashin of the North
-*Released on 2021-07-23, vote average 8*
+*Released on 2021-07-23, vote average 7.9*
 
 Tragedy, betrayal and a mysterious discovery fuel a woman&#39;s vengeance for the loss of her tribe and family in this special episode of &#34;Kingdom.&#34;
 
@@ -310,16 +266,38 @@ While blind drunk, two unemployed millennials entrepreneurs drunkenly post a vid
 	
 	
 
-### Gunpowder Milkshake
-*Released on 2021-07-15, vote average 6.6*
+### Batman: The Long Halloween, Part Two
+*Released on 2021-07-26, vote average 7.2*
 
-In her turbulent life as a professional assassin, Scarlet was cruelly forced to abandon her daughter Sam and go on the run. Years later, despite the estrangement, Sam has also grown up into a cold blooded hitwoman. After a high-stake mission spins out of control, putting an innocent 8-year-old girl in the middle of the gang war she has unleashed, Sam has no choice but to go rogue. This ultimately leads her back to her mother and her former hitwomen sidekicks, who all join forces in an avenging war against those who took everything from them.
+As Gotham City&#39;s young vigilante, the Batman, struggles to pursue a brutal serial killer, district attorney Harvey Dent gets caught in a feud involving the criminal family of the Falcones.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/YLMT5uXjFLY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/eVo174bgnQc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Last Letter From Your Lover
+*Released on 2021-07-30, vote average 7.6*
+
+A young journalist in London becomes obsessed with a series of letters she discovers that recounts an intense star-crossed love affair from the 1960s.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Y-I3DuUOsNw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -333,9 +311,9 @@ In her turbulent life as a professional assassin, Scarlet was cruelly forced to 
 	
 
 ### Pig
-*Released on 2021-07-16, vote average 6.9*
+*Released on 2021-07-16, vote average 6.8*
 
-Living alone in the Oregon wilderness, a truffle hunter returns to Portland to find the person who stole his beloved pig and goes on a cat-and-mouse run along the shore.
+A truffle hunter who lives alone in the Oregon wilderness must visit Portland to find the mysterious person who stole his beloved foraging pig.
 
 <iframe id="player"
 	type="text/html"
@@ -354,16 +332,16 @@ Living alone in the Oregon wilderness, a truffle hunter returns to Portland to f
 	
 	
 
-### Batman: The Long Halloween, Part Two
-*Released on 2021-07-26, vote average 7*
+### The Green Knight
+*Released on 2021-07-29, vote average 5.5*
 
-As Gotham City&#39;s young vigilante, the Batman, struggles to pursue a brutal serial killer, district attorney Harvey Dent gets caught in a feud involving the criminal family of the Falcones.
+An epic fantasy adventure based on the timeless Arthurian legend, The Green Knight tells the story of Sir Gawain, King Arthur&#39;s reckless and headstrong nephew, who embarks on a daring quest to confront the eponymous Green Knight, a gigantic emerald-skinned stranger and tester of men.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/eVo174bgnQc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/D9b13sshpx0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -398,16 +376,16 @@ FBI Agent Helter and his partner Lombardi are very close to busting a sex-traffi
 	
 	
 
-### The Green Knight
-*Released on 2021-07-29, vote average 4*
+### Stillwater
+*Released on 2021-07-30, vote average 9*
 
-An epic fantasy adventure based on the timeless Arthurian legend, The Green Knight tells the story of Sir Gawain, King Arthur&#39;s reckless and headstrong nephew, who embarks on a daring quest to confront the eponymous Green Knight, a gigantic emerald-skinned stranger and tester of men.
+Bill Baker, an American oil-rig roughneck from Oklahoma, travels to Marseille to visit his estranged daughter, Allison, who is in prison for a murder she claims she did not commit. Confronted with language barriers, cultural differences, and a complicated legal system, Bill builds a new life for himself in France as he makes it his personal mission to exonerate his daughter.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/D9b13sshpx0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-6tx532JtV4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -444,28 +422,31 @@ Following the end of the acclaimed tv series, King Arthur will oppose Lancelot&#
   
 
 
-
-## Opening soon
-
-
 	
 	
 
-### Jolt
-*Released on 2021-07-29, vote average 6.7*
+### Bartkowiak
+*Released on 2021-07-28, vote average 7.5*
 
-Lindy is an acid-tongued woman with rage issues who controls her temper by shocking herself with an electrode vest. One day she makes a connection with Justin, who gives her a glimmer of hope for a shock-free future, but when he’s murdered she launches herself on a revenge-fueled rampage in pursuit of his killer.
+After his brother dies in a car crash, a disgraced MMA fighter takes over the family nightclub — and soon learns his sibling&#39;s death wasn’t an accident.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/3BSSoD73TSk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Gzt3n9J3kyo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
 	
+
+  
+
+
+
+## Opening soon
+
 
 	
 	
@@ -487,18 +468,20 @@ A young journalist in London becomes obsessed with a series of letters she disco
 	
 
 	
+
+	
 	
 
-### The Green Knight
-*Released on 2021-07-29, vote average 4*
+### Stillwater
+*Released on 2021-07-30, vote average 9*
 
-An epic fantasy adventure based on the timeless Arthurian legend, The Green Knight tells the story of Sir Gawain, King Arthur&#39;s reckless and headstrong nephew, who embarks on a daring quest to confront the eponymous Green Knight, a gigantic emerald-skinned stranger and tester of men.
+Bill Baker, an American oil-rig roughneck from Oklahoma, travels to Marseille to visit his estranged daughter, Allison, who is in prison for a murder she claims she did not commit. Confronted with language barriers, cultural differences, and a complicated legal system, Bill builds a new life for himself in France as he makes it his personal mission to exonerate his daughter.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/D9b13sshpx0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-6tx532JtV4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -506,11 +489,7 @@ An epic fantasy adventure based on the timeless Arthurian legend, The Green Knig
 	
 
 	
-
 	
-	
-	
-
 	
 
 	
@@ -525,17 +504,11 @@ Vivo, a music-loving kinkajou, embarks on the journey of a lifetime to fulfill h
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/NnNM4C3i_V8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/BOe8L69JpVI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
 	
 
 	
@@ -559,6 +532,16 @@ A man is released from prison after 15 years. He reunites with his high school g
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
