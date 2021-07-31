@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Trollhunters: Rise of the Titans
-*Released on 2021-07-21, vote average 7.9*
+*Released on 2021-07-21, vote average 8*
 
 Arcadia may look like an ordinary town, but it lies at the center of magical and mystical lines that makes it a nexus for many battles among otherworldly creatures, including trolls, aliens, and wizards. Now, various heroes will team-up in an epic adventure where they must fight the Arcane Order for control over the magic that binds them all together.
 
@@ -46,60 +46,16 @@ Arcadia may look like an ordinary town, but it lies at the center of magical and
 	
 	
 
-### Fear Street: 1666
-*Released on 2021-07-16, vote average 7.6*
-
-In 1666, a colonial town is gripped by a hysterical witch-hunt that has deadly consequences for centuries to come, and it&#39;s up to teenagers in 1994 to finally put an end to their town&#39;s curse, before it&#39;s too late.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/dj3CXY8rKuY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Jungle Cruise
-*Released on 2021-07-28, vote average 7.3*
+*Released on 2021-07-28, vote average 7*
 
-Dr. Lily Houghton enlists the aid of wisecracking skipper Frank Wolff to take her down the Amazon in his dilapidated boat. Together, they search for an ancient tree that holds the power to heal – a discovery that will change the future of medicine.
+Dr. Lily Houghton enlists the aid of wisecracking skipper Frank Wolff to take her down the Amazon in his dilapidated boat. Together, they search for an ancient tree that holds the power to heal.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/aYSy8guUUV0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Deep
-*Released on 2021-07-16, vote average 6.3*
-
-Four insomniac med school students are lured into a neuroscience experiment that spirals out of control and must find a way out before it’s too late.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/CyEBaYYUroM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -135,7 +91,7 @@ A group of families on a tropical holiday discover that the secluded beach where
 	
 
 ### Blood Red Sky
-*Released on 2021-07-23, vote average 7.6*
+*Released on 2021-07-23, vote average 7.5*
 
 A woman with a mysterious illness is forced into action when a group of terrorists attempt to hijack a transatlantic overnight flight. In order to protect her son she will have to reveal a dark secret, and unleash the inner monster she has fought to hide.
 
@@ -222,30 +178,8 @@ Tragedy, betrayal and a mysterious discovery fuel a woman&#39;s vengeance for th
 	
 	
 
-### Jolt
-*Released on 2021-07-29, vote average 6.7*
-
-Lindy is an acid-tongued woman with rage issues who controls her temper by shocking herself with an electrode vest. One day she makes a connection with Justin, who gives her a glimmer of hope for a shock-free future, but when he’s murdered she launches herself on a revenge-fueled rampage in pursuit of his killer.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3BSSoD73TSk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Bankrolled
-*Released on 2021-07-23, vote average 7.3*
+*Released on 2021-07-23, vote average 7.2*
 
 While blind drunk, two unemployed millennials entrepreneurs drunkenly post a video pitch about their revolutionary app to a crowdfunding site. When the app catches fire and they accidentally raise millions of dollars they actually have to create the app.
 
@@ -267,7 +201,7 @@ While blind drunk, two unemployed millennials entrepreneurs drunkenly post a vid
 	
 
 ### Batman: The Long Halloween, Part Two
-*Released on 2021-07-26, vote average 7.2*
+*Released on 2021-07-26, vote average 8.1*
 
 As Gotham City&#39;s young vigilante, the Batman, struggles to pursue a brutal serial killer, district attorney Harvey Dent gets caught in a feud involving the criminal family of the Falcones.
 
@@ -310,16 +244,16 @@ A young journalist in London becomes obsessed with a series of letters she disco
 	
 	
 
-### Pig
-*Released on 2021-07-16, vote average 6.8*
+### The Green Knight
+*Released on 2021-07-29, vote average 6*
 
-A truffle hunter who lives alone in the Oregon wilderness must visit Portland to find the mysterious person who stole his beloved foraging pig.
+An epic fantasy adventure based on the timeless Arthurian legend, The Green Knight tells the story of Sir Gawain, King Arthur&#39;s reckless and headstrong nephew, who embarks on a daring quest to confront the eponymous Green Knight, a gigantic emerald-skinned stranger and tester of men.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/1i-_CRKdh4Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/D9b13sshpx0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -332,16 +266,16 @@ A truffle hunter who lives alone in the Oregon wilderness must visit Portland to
 	
 	
 
-### The Green Knight
-*Released on 2021-07-29, vote average 5.5*
+### Stillwater
+*Released on 2021-07-30, vote average 9*
 
-An epic fantasy adventure based on the timeless Arthurian legend, The Green Knight tells the story of Sir Gawain, King Arthur&#39;s reckless and headstrong nephew, who embarks on a daring quest to confront the eponymous Green Knight, a gigantic emerald-skinned stranger and tester of men.
+Bill Baker, an American oil-rig roughneck from Oklahoma, travels to Marseille to visit his estranged daughter, Allison, who is in prison for a murder she claims she did not commit. Confronted with language barriers, cultural differences, and a complicated legal system, Bill builds a new life for himself in France as he makes it his personal mission to exonerate his daughter.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/D9b13sshpx0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-6tx532JtV4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -376,16 +310,16 @@ FBI Agent Helter and his partner Lombardi are very close to busting a sex-traffi
 	
 	
 
-### Stillwater
-*Released on 2021-07-30, vote average 9*
+### Escape from Mogadishu
+*Released on 2021-07-28, vote average 2*
 
-Bill Baker, an American oil-rig roughneck from Oklahoma, travels to Marseille to visit his estranged daughter, Allison, who is in prison for a murder she claims she did not commit. Confronted with language barriers, cultural differences, and a complicated legal system, Bill builds a new life for himself in France as he makes it his personal mission to exonerate his daughter.
+Diplomats from the North and South Korean embassies in Somalia attempt a daring joint escape from Mogadishu when the outbreak of civil war leaves them stranded.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-6tx532JtV4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/n5cDGsOG90g?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -397,26 +331,6 @@ Bill Baker, an American oil-rig roughneck from Oklahoma, travels to Marseille to
 
 	
 	
-
-### Kaamelott - The First Chapter
-*Released on 2021-07-21, vote average 7.6*
-
-Following the end of the acclaimed tv series, King Arthur will oppose Lancelot&#39;s army to get the throne back after his flee to Rome.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Fd1Q2o-V6UM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -424,73 +338,10 @@ Following the end of the acclaimed tv series, King Arthur will oppose Lancelot&#
 
 	
 	
-
-### Bartkowiak
-*Released on 2021-07-28, vote average 7.5*
-
-After his brother dies in a car crash, a disgraced MMA fighter takes over the family nightclub — and soon learns his sibling&#39;s death wasn’t an accident.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Gzt3n9J3kyo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
 
-
-
-## Opening soon
-
-
-	
-	
-
-### The Last Letter From Your Lover
-*Released on 2021-07-30, vote average 7.6*
-
-A young journalist in London becomes obsessed with a series of letters she discovers that recounts an intense star-crossed love affair from the 1960s.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Y-I3DuUOsNw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-	
-
-### Stillwater
-*Released on 2021-07-30, vote average 9*
-
-Bill Baker, an American oil-rig roughneck from Oklahoma, travels to Marseille to visit his estranged daughter, Allison, who is in prison for a murder she claims she did not commit. Confronted with language barriers, cultural differences, and a complicated legal system, Bill builds a new life for himself in France as he makes it his personal mission to exonerate his daughter.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-6tx532JtV4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-	
 
 	
 	
@@ -511,27 +362,76 @@ Vivo, a music-loving kinkajou, embarks on the journey of a lifetime to fulfill h
 	
 	
 
-	
+  
+
 
 	
-
-	
 	
 
-### Lorelei
-*Released on 2021-07-30, vote average 4*
+### Resort to Love
+*Released on 2021-07-29, vote average 6*
 
-A man is released from prison after 15 years. He reunites with his high school girlfriend, now a single mother of three. What follows is a lyrical take on love, regret and second chances.
+Aspiring pop star Erica ends up as the entertainment at her ex-fiancé’s wedding after reluctantly taking a gig at a luxurious island resort while in the wake of a music career meltdown.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/aXR1gDNPhT4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/6fcnG6-L4Cc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Kaamelott - The First Chapter
+*Released on 2021-07-21, vote average 7.5*
+
+Following the end of the acclaimed tv series, King Arthur will oppose Lancelot&#39;s army to get the throne back after his flee to Rome.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Fd1Q2o-V6UM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+
+## Opening soon
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
