@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Trollhunters: Rise of the Titans
-*Released on 2021-07-21, vote average 8*
+*Released on 2021-07-21, vote average 7.9*
 
 Arcadia may look like an ordinary town, but it lies at the center of magical and mystical lines that makes it a nexus for many battles among otherworldly creatures, including trolls, aliens, and wizards. Now, various heroes will team-up in an epic adventure where they must fight the Arcane Order for control over the magic that binds them all together.
 
@@ -47,37 +47,15 @@ Arcadia may look like an ordinary town, but it lies at the center of magical and
 	
 
 ### Jungle Cruise
-*Released on 2021-07-28, vote average 7*
+*Released on 2021-07-28, vote average 8*
 
-Dr. Lily Houghton enlists the aid of wisecracking skipper Frank Wolff to take her down the Amazon in his dilapidated boat. Together, they search for an ancient tree that holds the power to heal.
+Dr. Lily Houghton enlists the aid of wisecracking skipper Frank Wolff to take her down the Amazon in his dilapidated boat. Together, they search for an ancient tree that holds the power to heal – a discovery that will change the future of medicine.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/aYSy8guUUV0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Old
-*Released on 2021-07-21, vote average 6.6*
-
-A group of families on a tropical holiday discover that the secluded beach where they are staying is somehow causing them to age rapidly – reducing their entire lives into a single day.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/A4U2pMRV9_k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,8 +90,30 @@ A woman with a mysterious illness is forced into action when a group of terroris
 	
 	
 
+### Old
+*Released on 2021-07-21, vote average 6.6*
+
+A group of families on a tropical holiday discover that the secluded beach where they are staying is somehow causing them to age rapidly – reducing their entire lives into a single day.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/A4U2pMRV9_k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Suicide Squad
-*Released on 2021-07-28, vote average 8.1*
+*Released on 2021-07-28, vote average 8.2*
 
 Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.
 
@@ -134,30 +134,8 @@ Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty con
 	
 	
 
-### Snake Eyes: G.I. Joe Origins
-*Released on 2021-07-22, vote average 7*
-
-After saving the life of their heir apparent, tenacious loner Snake Eyes is welcomed into an ancient Japanese clan called the Arashikage where he is taught the ways of the ninja warrior. But, when secrets from his past are revealed, Snake Eyes&#39; honor and allegiance will be tested – even if that means losing the trust of those closest to him.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Vd2sm63Xwfw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Kingdom: Ashin of the North
-*Released on 2021-07-23, vote average 7.9*
+*Released on 2021-07-23, vote average 7.7*
 
 Tragedy, betrayal and a mysterious discovery fuel a woman&#39;s vengeance for the loss of her tribe and family in this special episode of &#34;Kingdom.&#34;
 
@@ -200,6 +178,28 @@ While blind drunk, two unemployed millennials entrepreneurs drunkenly post a vid
 	
 	
 
+### Snake Eyes: G.I. Joe Origins
+*Released on 2021-07-22, vote average 6.8*
+
+After saving the life of their heir apparent, tenacious loner Snake Eyes is welcomed into an ancient Japanese clan called the Arashikage where he is taught the ways of the ninja warrior. But, when secrets from his past are revealed, Snake Eyes&#39; honor and allegiance will be tested – even if that means losing the trust of those closest to him.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Vd2sm63Xwfw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Batman: The Long Halloween, Part Two
 *Released on 2021-07-26, vote average 8.1*
 
@@ -223,7 +223,7 @@ As Gotham City&#39;s young vigilante, the Batman, struggles to pursue a brutal s
 	
 
 ### The Last Letter From Your Lover
-*Released on 2021-07-30, vote average 7.6*
+*Released on 2021-07-23, vote average 7.5*
 
 A young journalist in London becomes obsessed with a series of letters she discovers that recounts an intense star-crossed love affair from the 1960s.
 
@@ -243,9 +243,23 @@ A young journalist in London becomes obsessed with a series of letters she disco
 
 	
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
 
 ### The Green Knight
-*Released on 2021-07-29, vote average 6*
+*Released on 2021-07-29, vote average 7*
 
 An epic fantasy adventure based on the timeless Arthurian legend, The Green Knight tells the story of Sir Gawain, King Arthur&#39;s reckless and headstrong nephew, who embarks on a daring quest to confront the eponymous Green Knight, a gigantic emerald-skinned stranger and tester of men.
 
@@ -266,8 +280,30 @@ An epic fantasy adventure based on the timeless Arthurian legend, The Green Knig
 	
 	
 
+### Resort to Love
+*Released on 2021-07-29, vote average 6.3*
+
+Aspiring pop star Erica ends up as the entertainment at her ex-fiancé’s wedding after reluctantly taking a gig at a luxurious island resort while in the wake of a music career meltdown.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6fcnG6-L4Cc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Stillwater
-*Released on 2021-07-30, vote average 9*
+*Released on 2021-07-30, vote average 8*
 
 Bill Baker, an American oil-rig roughneck from Oklahoma, travels to Marseille to visit his estranged daughter, Allison, who is in prison for a murder she claims she did not commit. Confronted with language barriers, cultural differences, and a complicated legal system, Bill builds a new life for himself in France as he makes it his personal mission to exonerate his daughter.
 
@@ -276,6 +312,72 @@ Bill Baker, an American oil-rig roughneck from Oklahoma, travels to Marseille to
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/-6tx532JtV4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Last Mercenary
+*Released on 2021-07-30, vote average 6.4*
+
+A mysterious former secret service agent must urgently return to France when his estranged son  is falsely accused of arms and drug trafficking by the government, following a blunder by an overzealous bureaucrat and a mafia operation.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/7B_fVIMjESc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Vivo
+*Released on 2021-07-30, vote average 6*
+
+Vivo, a music-loving kinkajou, embarks on the journey of a lifetime to fulfill his destiny and deliver a love song for an old friend.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/BOe8L69JpVI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Kaamelott - The First Chapter
+*Released on 2021-07-21, vote average 7.5*
+
+Following the end of the acclaimed tv series, King Arthur will oppose Lancelot&#39;s army to get the throne back after his flee to Rome.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Fd1Q2o-V6UM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -310,101 +412,16 @@ FBI Agent Helter and his partner Lombardi are very close to busting a sex-traffi
 	
 	
 
-### Escape from Mogadishu
-*Released on 2021-07-28, vote average 2*
+### Ghibah
+*Released on 2021-07-30, vote average 6*
 
-Diplomats from the North and South Korean embassies in Somalia attempt a daring joint escape from Mogadishu when the outbreak of civil war leaves them stranded.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/n5cDGsOG90g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Vivo
-*Released on 2021-07-30, vote average 2*
-
-Vivo, a music-loving kinkajou, embarks on the journey of a lifetime to fulfill his destiny and deliver a love song for an old friend.
+Firly and her boarding house friends who have a habit of gossiping. Until one day, Firly has to bear the karma for her bad attitude. Legend has it that a person who likes to give back is the same as someone who likes to eat the body of his own brother.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/BOe8L69JpVI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Resort to Love
-*Released on 2021-07-29, vote average 6*
-
-Aspiring pop star Erica ends up as the entertainment at her ex-fiancé’s wedding after reluctantly taking a gig at a luxurious island resort while in the wake of a music career meltdown.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/6fcnG6-L4Cc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Kaamelott - The First Chapter
-*Released on 2021-07-21, vote average 7.5*
-
-Following the end of the acclaimed tv series, King Arthur will oppose Lancelot&#39;s army to get the throne back after his flee to Rome.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Fd1Q2o-V6UM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ZEzaGvL2JUg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
