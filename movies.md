@@ -46,28 +46,6 @@ Dr. Lily Houghton enlists the aid of wisecracking skipper Frank Wolff to take he
 	
 	
 
-### Trollhunters: Rise of the Titans
-*Released on 2021-07-21, vote average 7.9*
-
-Arcadia may look like an ordinary town, but it lies at the center of magical and mystical lines that makes it a nexus for many battles among otherworldly creatures, including trolls, aliens, and wizards. Now, various heroes will team-up in an epic adventure where they must fight the Arcane Order for control over the magic that binds them all together.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/6H4Y21Hg2L8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Blood Red Sky
 *Released on 2021-07-23, vote average 7.4*
 
@@ -90,8 +68,30 @@ A woman with a mysterious illness is forced into action when a group of terroris
 	
 	
 
+### Trollhunters: Rise of the Titans
+*Released on 2021-07-21, vote average 7.9*
+
+Arcadia may look like an ordinary town, but it lies at the center of magical and mystical lines that makes it a nexus for many battles among otherworldly creatures, including trolls, aliens, and wizards. Now, various heroes will team-up in an epic adventure where they must fight the Arcane Order for control over the magic that binds them all together.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6H4Y21Hg2L8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Kingdom: Ashin of the North
-*Released on 2021-07-23, vote average 7.7*
+*Released on 2021-07-23, vote average 7.6*
 
 Tragedy, betrayal and a mysterious discovery fuel a woman&#39;s vengeance for the loss of her tribe and family in this special episode of &#34;Kingdom.&#34;
 
@@ -121,7 +121,7 @@ A group of families on a tropical holiday discover that the secluded beach where
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/A4U2pMRV9_k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xbFoFdjX-QY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -135,7 +135,7 @@ A group of families on a tropical holiday discover that the secluded beach where
 	
 
 ### The Suicide Squad
-*Released on 2021-07-28, vote average 8.3*
+*Released on 2021-07-28, vote average 8.2*
 
 Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.
 
@@ -144,6 +144,28 @@ Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty con
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/RFZG_IG9EqA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Batman: The Long Halloween, Part Two
+*Released on 2021-07-26, vote average 8*
+
+As Gotham City&#39;s young vigilante, the Batman, struggles to pursue a brutal serial killer, district attorney Harvey Dent gets caught in a feud involving the criminal family of the Falcones.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/eVo174bgnQc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -166,28 +188,6 @@ While blind drunk, two unemployed millennials entrepreneurs drunkenly post a vid
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/FIpK2eGDkPU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Batman: The Long Halloween, Part Two
-*Released on 2021-07-26, vote average 8.1*
-
-As Gotham City&#39;s young vigilante, the Batman, struggles to pursue a brutal serial killer, district attorney Harvey Dent gets caught in a feud involving the criminal family of the Falcones.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/eVo174bgnQc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -250,16 +250,9 @@ After saving the life of their heir apparent, tenacious loner Snake Eyes is welc
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Resort to Love
-*Released on 2021-07-29, vote average 7*
+*Released on 2021-07-29, vote average 6.9*
 
 Aspiring pop star Erica ends up as the entertainment at her ex-fiancé’s wedding after reluctantly taking a gig at a luxurious island resort while in the wake of a music career meltdown.
 
@@ -301,21 +294,6 @@ A mysterious former secret service agent must urgently return to France when his
 
 	
 	
-
-### The Green Knight
-*Released on 2021-07-29, vote average 7.5*
-
-An epic fantasy adventure based on the timeless Arthurian legend, The Green Knight tells the story of Sir Gawain, King Arthur&#39;s reckless and headstrong nephew, who embarks on a daring quest to confront the eponymous Green Knight, a gigantic emerald-skinned stranger and tester of men.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/D9b13sshpx0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -344,27 +322,27 @@ FBI Agent Helter and his partner Lombardi are very close to busting a sex-traffi
 
 
 	
-
-  
-
-
-	
 	
 
-### Kaamelott - The First Chapter
-*Released on 2021-07-21, vote average 7.5*
+### The Green Knight
+*Released on 2021-07-29, vote average 7.6*
 
-Following the end of the acclaimed tv series, King Arthur will oppose Lancelot&#39;s army to get the throne back after his flee to Rome.
+An epic fantasy adventure based on the timeless Arthurian legend, The Green Knight tells the story of Sir Gawain, King Arthur&#39;s reckless and headstrong nephew, who embarks on a daring quest to confront the eponymous Green Knight, a gigantic emerald-skinned stranger and tester of men.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Fd1Q2o-V6UM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/D9b13sshpx0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -393,6 +371,45 @@ Bill Baker, an American oil-rig roughneck from Oklahoma, travels to Marseille to
 
 
 	
+	
+
+### Kaamelott - The First Chapter
+*Released on 2021-07-21, vote average 7.6*
+
+Following the end of the acclaimed tv series, King Arthur will oppose Lancelot&#39;s army to get the throne back after his flee to Rome.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Fd1Q2o-V6UM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Mimi
+*Released on 2021-07-26, vote average 6.8*
+
+An aspiring actress in a small town in Rajasthan agrees to bear a child for a visiting couple seeking a surrogate mother, but her experience takes an unexpected turn when they refuse to have a child anymore.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_sc3HyeNxPs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -411,6 +428,8 @@ Bill Baker, an American oil-rig roughneck from Oklahoma, travels to Marseille to
 
 	
 
+	
+	
 	
 
 	
