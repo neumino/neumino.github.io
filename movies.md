@@ -47,7 +47,7 @@ Dr. Lily Houghton enlists the aid of wisecracking skipper Frank Wolff to take he
 	
 
 ### Blood Red Sky
-*Released on 2021-07-23, vote average 7.4*
+*Released on 2021-07-23, vote average 7.3*
 
 A woman with a mysterious illness is forced into action when a group of terrorists attempt to hijack a transatlantic overnight flight. In order to protect her son she will have to reveal a dark secret, and unleash the inner monster she has fought to hide.
 
@@ -56,94 +56,6 @@ A woman with a mysterious illness is forced into action when a group of terroris
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/U8M_1eyrBtQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Trollhunters: Rise of the Titans
-*Released on 2021-07-21, vote average 7.9*
-
-Arcadia may look like an ordinary town, but it lies at the center of magical and mystical lines that makes it a nexus for many battles among otherworldly creatures, including trolls, aliens, and wizards. Now, various heroes will team-up in an epic adventure where they must fight the Arcane Order for control over the magic that binds them all together.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/6H4Y21Hg2L8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Kingdom: Ashin of the North
-*Released on 2021-07-23, vote average 7.6*
-
-Tragedy, betrayal and a mysterious discovery fuel a woman&#39;s vengeance for the loss of her tribe and family in this special episode of &#34;Kingdom.&#34;
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/YTqz2QYsSeY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Old
-*Released on 2021-07-21, vote average 6.4*
-
-A group of families on a tropical holiday discover that the secluded beach where they are staying is somehow causing them to age rapidly – reducing their entire lives into a single day.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xbFoFdjX-QY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Suicide Squad
-*Released on 2021-07-28, vote average 8.2*
-
-Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/RFZG_IG9EqA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -166,6 +78,50 @@ As Gotham City&#39;s young vigilante, the Batman, struggles to pursue a brutal s
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/eVo174bgnQc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Suicide Squad
+*Released on 2021-07-28, vote average 8.1*
+
+Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/RFZG_IG9EqA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Kingdom: Ashin of the North
+*Released on 2021-07-23, vote average 7.6*
+
+Tragedy, betrayal and a mysterious discovery fuel a woman&#39;s vengeance for the loss of her tribe and family in this special episode of &#34;Kingdom.&#34;
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/YTqz2QYsSeY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -221,6 +177,13 @@ A young journalist in London becomes obsessed with a series of letters she disco
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Snake Eyes: G.I. Joe Origins
 *Released on 2021-07-22, vote average 6.9*
@@ -243,16 +206,9 @@ After saving the life of their heir apparent, tenacious loner Snake Eyes is welc
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Resort to Love
-*Released on 2021-07-29, vote average 6.9*
+*Released on 2021-07-29, vote average 6.8*
 
 Aspiring pop star Erica ends up as the entertainment at her ex-fiancé’s wedding after reluctantly taking a gig at a luxurious island resort while in the wake of a music career meltdown.
 
@@ -294,18 +250,11 @@ A mysterious former secret service agent must urgently return to France when his
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Midnight in the Switchgrass
-*Released on 2021-07-23, vote average 4.7*
+*Released on 2021-07-23, vote average 4.9*
 
-FBI Agent Helter and his partner Lombardi are very close to busting a sex-trafficking ring. When they realize their investigation has crossed the path of a brutal serial killer, they team up with a Texas Ranger to put an end to the infamous &#39;Truck Stop Killer&#39;.
+FBI Agent Karl Helter and his partner Rebecca Lombardo are very close to busting a sex-trafficking ring. When they realize their investigation has crossed the path of a brutal serial killer, they team up with a Texas Ranger to put an end to the infamous &#39;Truck Stop Killer&#39;.
 
 <iframe id="player"
 	type="text/html"
@@ -323,9 +272,16 @@ FBI Agent Helter and his partner Lombardi are very close to busting a sex-traffi
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### The Green Knight
-*Released on 2021-07-29, vote average 7.6*
+*Released on 2021-07-29, vote average 7.8*
 
 An epic fantasy adventure based on the timeless Arthurian legend, The Green Knight tells the story of Sir Gawain, King Arthur&#39;s reckless and headstrong nephew, who embarks on a daring quest to confront the eponymous Green Knight, a gigantic emerald-skinned stranger and tester of men.
 
@@ -344,6 +300,45 @@ An epic fantasy adventure based on the timeless Arthurian legend, The Green Knig
 
 
 	
+	
+
+### Escape from Mogadishu
+*Released on 2021-07-28, vote average 6*
+
+Diplomats from the North and South Korean embassies in Somalia attempt a daring joint escape from Mogadishu when the outbreak of civil war leaves them stranded.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/n5cDGsOG90g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Shiny_Flakes: The Teenage Drug Lord
+*Released on 2021-08-03, vote average 7*
+
+Max S. reveals how he built a drug empire from his childhood bedroom as a teen in the real story behind the series &#34;How to Sell Drugs Online (Fast).&#34;
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LMl93KgG72Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -352,7 +347,7 @@ An epic fantasy adventure based on the timeless Arthurian legend, The Green Knig
 	
 
 ### Stillwater
-*Released on 2021-07-30, vote average 5.6*
+*Released on 2021-07-30, vote average 6.1*
 
 Bill Baker, an American oil-rig roughneck from Oklahoma, travels to Marseille to visit his estranged daughter, Allison, who is in prison for a murder she claims she did not commit. Confronted with language barriers, cultural differences, and a complicated legal system, Bill builds a new life for himself in France as he makes it his personal mission to exonerate his daughter.
 
@@ -371,22 +366,10 @@ Bill Baker, an American oil-rig roughneck from Oklahoma, travels to Marseille to
 
 
 	
-	
 
-### Kaamelott - The First Chapter
-*Released on 2021-07-21, vote average 7.6*
+  
 
-Following the end of the acclaimed tv series, King Arthur will oppose Lancelot&#39;s army to get the throne back after his flee to Rome.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Fd1Q2o-V6UM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -395,16 +378,16 @@ Following the end of the acclaimed tv series, King Arthur will oppose Lancelot&#
 	
 	
 
-### Mimi
-*Released on 2021-07-26, vote average 6.8*
+### Vivo
+*Released on 2021-07-30, vote average 7.3*
 
-An aspiring actress in a small town in Rajasthan agrees to bear a child for a visiting couple seeking a surrogate mother, but her experience takes an unexpected turn when they refuse to have a child anymore.
+Vivo, a music-loving kinkajou, embarks on the journey of a lifetime to fulfill his destiny and deliver a love song for an old friend.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/_sc3HyeNxPs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/BOe8L69JpVI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -429,8 +412,6 @@ An aspiring actress in a small town in Rajasthan agrees to bear a child for a vi
 	
 
 	
-	
-	
 
 	
 
@@ -438,6 +419,23 @@ An aspiring actress in a small town in Rajasthan agrees to bear a child for a vi
 
 	
 
+	
+	
+
+### Final Voyage
+*Released on 2021-08-05, vote average 10*
+
+Adem and Novak, two very different young men, escape from a desolate planet in a small, old spaceship in search of a new home in space.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hZpCSxsDQlQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
