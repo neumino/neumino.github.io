@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Jungle Cruise
-*Released on 2021-07-28, vote average 8.2*
+*Released on 2021-07-28, vote average 8.1*
 
 Dr. Lily Houghton enlists the aid of wisecracking skipper Frank Wolff to take her down the Amazon in his dilapidated boat. Together, they search for an ancient tree that holds the power to heal – a discovery that will change the future of medicine.
 
@@ -68,30 +68,8 @@ A woman with a mysterious illness is forced into action when a group of terroris
 	
 	
 
-### Batman: The Long Halloween, Part Two
-*Released on 2021-07-26, vote average 8*
-
-As Gotham City&#39;s young vigilante, the Batman, struggles to pursue a brutal serial killer, district attorney Harvey Dent gets caught in a feud involving the criminal family of the Falcones.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/eVo174bgnQc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Suicide Squad
-*Released on 2021-07-28, vote average 8.1*
+*Released on 2021-07-28, vote average 8*
 
 Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.
 
@@ -112,8 +90,30 @@ Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty con
 	
 	
 
+### Batman: The Long Halloween, Part Two
+*Released on 2021-07-26, vote average 7.9*
+
+As Gotham City&#39;s young vigilante, the Batman, struggles to pursue a brutal serial killer, district attorney Harvey Dent gets caught in a feud involving the criminal family of the Falcones.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/eVo174bgnQc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Kingdom: Ashin of the North
-*Released on 2021-07-23, vote average 7.6*
+*Released on 2021-07-23, vote average 7.7*
 
 Tragedy, betrayal and a mysterious discovery fuel a woman&#39;s vengeance for the loss of her tribe and family in this special episode of &#34;Kingdom.&#34;
 
@@ -135,7 +135,7 @@ Tragedy, betrayal and a mysterious discovery fuel a woman&#39;s vengeance for th
 	
 
 ### Bankrolled
-*Released on 2021-07-23, vote average 7.2*
+*Released on 2021-07-23, vote average 7.1*
 
 While blind drunk, two unemployed millennials entrepreneurs drunkenly post a video pitch about their revolutionary app to a crowdfunding site. When the app catches fire and they accidentally raise millions of dollars they actually have to create the app.
 
@@ -155,6 +155,13 @@ While blind drunk, two unemployed millennials entrepreneurs drunkenly post a vid
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### The Last Letter From Your Lover
 *Released on 2021-07-23, vote average 7.5*
@@ -166,35 +173,6 @@ A young journalist in London becomes obsessed with a series of letters she disco
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/Y-I3DuUOsNw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Snake Eyes: G.I. Joe Origins
-*Released on 2021-07-22, vote average 6.9*
-
-After saving the life of their heir apparent, tenacious loner Snake Eyes is welcomed into an ancient Japanese clan called the Arashikage where he is taught the ways of the ninja warrior. But, when secrets from his past are revealed, Snake Eyes&#39; honor and allegiance will be tested – even if that means losing the trust of those closest to him.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Vd2sm63Xwfw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -230,7 +208,7 @@ Aspiring pop star Erica ends up as the entertainment at her ex-fiancé’s weddi
 	
 
 ### The Last Mercenary
-*Released on 2021-07-30, vote average 6.8*
+*Released on 2021-07-30, vote average 6.9*
 
 A mysterious former secret service agent must urgently return to France when his estranged son  is falsely accused of arms and drug trafficking by the government, following a blunder by an overzealous bureaucrat and a mafia operation.
 
@@ -249,10 +227,15 @@ A mysterious former secret service agent must urgently return to France when his
 
 
 	
+
+  
+
+
+	
 	
 
 ### Midnight in the Switchgrass
-*Released on 2021-07-23, vote average 4.9*
+*Released on 2021-07-23, vote average 4.8*
 
 FBI Agent Karl Helter and his partner Rebecca Lombardo are very close to busting a sex-trafficking ring. When they realize their investigation has crossed the path of a brutal serial killer, they team up with a Texas Ranger to put an end to the infamous &#39;Truck Stop Killer&#39;.
 
@@ -281,7 +264,7 @@ FBI Agent Karl Helter and his partner Rebecca Lombardo are very close to busting
 	
 
 ### The Green Knight
-*Released on 2021-07-29, vote average 7.8*
+*Released on 2021-07-29, vote average 8*
 
 An epic fantasy adventure based on the timeless Arthurian legend, The Green Knight tells the story of Sir Gawain, King Arthur&#39;s reckless and headstrong nephew, who embarks on a daring quest to confront the eponymous Green Knight, a gigantic emerald-skinned stranger and tester of men.
 
@@ -290,28 +273,6 @@ An epic fantasy adventure based on the timeless Arthurian legend, The Green Knig
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/D9b13sshpx0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Escape from Mogadishu
-*Released on 2021-07-28, vote average 6*
-
-Diplomats from the North and South Korean embassies in Somalia attempt a daring joint escape from Mogadishu when the outbreak of civil war leaves them stranded.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/n5cDGsOG90g?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -345,9 +306,16 @@ Max S. reveals how he built a drug empire from his childhood bedroom as a teen i
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Stillwater
-*Released on 2021-07-30, vote average 6.1*
+*Released on 2021-07-30, vote average 5.7*
 
 Bill Baker, an American oil-rig roughneck from Oklahoma, travels to Marseille to visit his estranged daughter, Allison, who is in prison for a murder she claims she did not commit. Confronted with language barriers, cultural differences, and a complicated legal system, Bill builds a new life for himself in France as he makes it his personal mission to exonerate his daughter.
 
@@ -365,6 +333,8 @@ Bill Baker, an American oil-rig roughneck from Oklahoma, travels to Marseille to
   
 
 
+	
+	
 	
 
   
@@ -420,32 +390,34 @@ Vivo, a music-loving kinkajou, embarks on the journey of a lifetime to fulfill h
 	
 
 	
+
 	
 
-### Final Voyage
-*Released on 2021-08-05, vote average 10*
+	
 
-Adem and Novak, two very different young men, escape from a desolate planet in a small, old spaceship in search of a new home in space.
+	
+	
+	
+
+	
+
+	
+	
+
+### The Pact
+*Released on 2021-08-06, vote average 8*
+
+Aged 63 Karen Blixen is at the pinnacle of her fame and next in line to win the Nobel Prize for literature. It has been 17 years since she gave up her famous farm in Africa only to return to Denmark with her life in ruins. Devastated by syphilis and having lost the love of her life she has reinvented herself as a literary sensation. She is an isolated genius, however, until the day she meets a talented 30-year-old poet. She promises him literary stardom if he in return will obey her unconditionally – even at the cost of him losing everything else in his life...
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/hZpCSxsDQlQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/wyDZq8L9D4E?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
