@@ -46,30 +46,8 @@ Dr. Lily Houghton enlists the aid of wisecracking skipper Frank Wolff to take he
 	
 	
 
-### Blood Red Sky
-*Released on 2021-07-23, vote average 7.3*
-
-A woman with a mysterious illness is forced into action when a group of terrorists attempt to hijack a transatlantic overnight flight. In order to protect her son she will have to reveal a dark secret, and unleash the inner monster she has fought to hide.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/U8M_1eyrBtQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Suicide Squad
-*Released on 2021-07-28, vote average 8*
+*Released on 2021-07-28, vote average 7.9*
 
 Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.
 
@@ -111,72 +89,6 @@ As Gotham City&#39;s young vigilante, the Batman, struggles to pursue a brutal s
 
 	
 	
-
-### Kingdom: Ashin of the North
-*Released on 2021-07-23, vote average 7.7*
-
-Tragedy, betrayal and a mysterious discovery fuel a woman&#39;s vengeance for the loss of her tribe and family in this special episode of &#34;Kingdom.&#34;
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/YTqz2QYsSeY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Bankrolled
-*Released on 2021-07-23, vote average 7.1*
-
-While blind drunk, two unemployed millennials entrepreneurs drunkenly post a video pitch about their revolutionary app to a crowdfunding site. When the app catches fire and they accidentally raise millions of dollars they actually have to create the app.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FIpK2eGDkPU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### The Last Letter From Your Lover
-*Released on 2021-07-23, vote average 7.5*
-
-A young journalist in London becomes obsessed with a series of letters she discovers that recounts an intense star-crossed love affair from the 1960s.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Y-I3DuUOsNw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -186,7 +98,7 @@ A young journalist in London becomes obsessed with a series of letters she disco
 	
 
 ### Resort to Love
-*Released on 2021-07-29, vote average 6.8*
+*Released on 2021-07-29, vote average 6.9*
 
 Aspiring pop star Erica ends up as the entertainment at her ex-fiancé’s wedding after reluctantly taking a gig at a luxurious island resort while in the wake of a music career meltdown.
 
@@ -234,59 +146,8 @@ A mysterious former secret service agent must urgently return to France when his
 	
 	
 
-### Midnight in the Switchgrass
-*Released on 2021-07-23, vote average 4.8*
-
-FBI Agent Karl Helter and his partner Rebecca Lombardo are very close to busting a sex-trafficking ring. When they realize their investigation has crossed the path of a brutal serial killer, they team up with a Texas Ranger to put an end to the infamous &#39;Truck Stop Killer&#39;.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/1pNN66fRumw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### The Green Knight
-*Released on 2021-07-29, vote average 8*
-
-An epic fantasy adventure based on the timeless Arthurian legend, The Green Knight tells the story of Sir Gawain, King Arthur&#39;s reckless and headstrong nephew, who embarks on a daring quest to confront the eponymous Green Knight, a gigantic emerald-skinned stranger and tester of men.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/D9b13sshpx0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Shiny_Flakes: The Teenage Drug Lord
-*Released on 2021-08-03, vote average 7*
+*Released on 2021-08-03, vote average 8*
 
 Max S. reveals how he built a drug empire from his childhood bedroom as a teen in the real story behind the series &#34;How to Sell Drugs Online (Fast).&#34;
 
@@ -306,6 +167,79 @@ Max S. reveals how he built a drug empire from his childhood bedroom as a teen i
 
 	
 	
+
+### The Green Knight
+*Released on 2021-07-29, vote average 7.9*
+
+An epic fantasy adventure based on the timeless Arthurian legend, The Green Knight tells the story of Sir Gawain, King Arthur&#39;s reckless and headstrong nephew, who embarks on a daring quest to confront the eponymous Green Knight, a gigantic emerald-skinned stranger and tester of men.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/D9b13sshpx0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Vivo
+*Released on 2021-07-30, vote average 7.3*
+
+Vivo, Sony Pictures Animation&#39;s first-ever musical adventure featuring all-new original songs from Lin-Manuel Miranda, will take audiences on an epic adventure to gorgeous and vibrant locations never before seen in animation.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/BOe8L69JpVI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -334,8 +268,6 @@ Bill Baker, an American oil-rig roughneck from Oklahoma, travels to Marseille to
 
 
 	
-	
-	
 
   
 
@@ -345,23 +277,6 @@ Bill Baker, an American oil-rig roughneck from Oklahoma, travels to Marseille to
   
 
 
-	
-	
-
-### Vivo
-*Released on 2021-07-30, vote average 7.3*
-
-Vivo, a music-loving kinkajou, embarks on the journey of a lifetime to fulfill his destiny and deliver a love song for an old friend.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/BOe8L69JpVI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -372,52 +287,67 @@ Vivo, a music-loving kinkajou, embarks on the journey of a lifetime to fulfill h
 
 
 	
-
 	
 
-	
+### Free Guy
+*Released on 2021-08-11, vote average 7*
 
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	
-	
-
-	
-
-	
-	
-
-### The Pact
-*Released on 2021-08-06, vote average 8*
-
-Aged 63 Karen Blixen is at the pinnacle of her fame and next in line to win the Nobel Prize for literature. It has been 17 years since she gave up her famous farm in Africa only to return to Denmark with her life in ruins. Devastated by syphilis and having lost the love of her life she has reinvented herself as a literary sensation. She is an isolated genius, however, until the day she meets a talented 30-year-old poet. She promises him literary stardom if he in return will obey her unconditionally – even at the cost of him losing everything else in his life...
+A bank teller called Guy realizes he is a background character in an open world video game called Free City that will soon go offline.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/wyDZq8L9D4E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/jRn48HxssPI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+	
+
+### PAW Patrol: The Movie
+*Released on 2021-08-09, vote average 10*
+
+Ryder and the pups are called to Adventure City to stop Mayor Humdinger from turning the bustling metropolis into a state of chaos.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LRMTr2VZcr8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
