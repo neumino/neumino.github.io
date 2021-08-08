@@ -47,7 +47,7 @@ Dr. Lily Houghton enlists the aid of wisecracking skipper Frank Wolff to take he
 	
 
 ### The Suicide Squad
-*Released on 2021-07-28, vote average 7.9*
+*Released on 2021-07-28, vote average 8.3*
 
 Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.
 
@@ -67,9 +67,16 @@ Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty con
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Batman: The Long Halloween, Part Two
-*Released on 2021-07-26, vote average 7.9*
+*Released on 2021-07-26, vote average 7.8*
 
 As Gotham City&#39;s young vigilante, the Batman, struggles to pursue a brutal serial killer, district attorney Harvey Dent gets caught in a feud involving the criminal family of the Falcones.
 
@@ -89,16 +96,9 @@ As Gotham City&#39;s young vigilante, the Batman, struggles to pursue a brutal s
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Resort to Love
-*Released on 2021-07-29, vote average 6.9*
+*Released on 2021-07-29, vote average 7*
 
 Aspiring pop star Erica ends up as the entertainment at her ex-fiancé’s wedding after reluctantly taking a gig at a luxurious island resort while in the wake of a music career meltdown.
 
@@ -167,9 +167,16 @@ Max S. reveals how he built a drug empire from his childhood bedroom as a teen i
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### The Green Knight
-*Released on 2021-07-29, vote average 7.9*
+*Released on 2021-07-29, vote average 8*
 
 An epic fantasy adventure based on the timeless Arthurian legend, The Green Knight tells the story of Sir Gawain, King Arthur&#39;s reckless and headstrong nephew, who embarks on a daring quest to confront the eponymous Green Knight, a gigantic emerald-skinned stranger and tester of men.
 
@@ -189,23 +196,9 @@ An epic fantasy adventure based on the timeless Arthurian legend, The Green Knig
 
 	
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
 
 ### Vivo
-*Released on 2021-07-30, vote average 7.3*
+*Released on 2021-07-30, vote average 7.6*
 
 Vivo, Sony Pictures Animation&#39;s first-ever musical adventure featuring all-new original songs from Lin-Manuel Miranda, will take audiences on an epic adventure to gorgeous and vibrant locations never before seen in animation.
 
@@ -224,22 +217,51 @@ Vivo, Sony Pictures Animation&#39;s first-ever musical adventure featuring all-n
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 	
 
   
 
 
+	
+	
+
+### John and the Hole
+*Released on 2021-08-06, vote average 5*
+
+While exploring the neighboring woods, 13-year-old John discovers an unfinished bunker — a deep hole in the ground. Seemingly without provocation, he drugs his affluent parents and older sister and drags their unconscious bodies into the bunker, where he holds them captive. As they anxiously wait for John to free them from the hole, the boy returns home, where he can finally do what he wants.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/uddPHOuQh7E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Night Drive
+*Released on 2021-08-06, vote average 6*
+
+When Russell picks up an enigmatic young woman through a ride-share app, his boring evening perks up. But all bets are off after they hit a guy with the car in this charming comedy of errors.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/gsHM7UAuAvg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -282,6 +304,18 @@ Bill Baker, an American oil-rig roughneck from Oklahoma, travels to Marseille to
   
 
 
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -290,7 +324,7 @@ Bill Baker, an American oil-rig roughneck from Oklahoma, travels to Marseille to
 	
 
 ### Free Guy
-*Released on 2021-08-11, vote average 7*
+*Released on 2021-08-11, vote average 9.3*
 
 A bank teller called Guy realizes he is a background character in an open world video game called Free City that will soon go offline.
 
@@ -311,7 +345,7 @@ A bank teller called Guy realizes he is a background character in an open world 
 	
 
 ### PAW Patrol: The Movie
-*Released on 2021-08-09, vote average 10*
+*Released on 2021-08-09, vote average 7*
 
 Ryder and the pups are called to Adventure City to stop Mayor Humdinger from turning the bustling metropolis into a state of chaos.
 
