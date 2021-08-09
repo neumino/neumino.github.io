@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Jungle Cruise
-*Released on 2021-07-28, vote average 8.1*
+*Released on 2021-07-28, vote average 8*
 
 Dr. Lily Houghton enlists the aid of wisecracking skipper Frank Wolff to take her down the Amazon in his dilapidated boat. Together, they search for an ancient tree that holds the power to heal – a discovery that will change the future of medicine.
 
@@ -47,7 +47,7 @@ Dr. Lily Houghton enlists the aid of wisecracking skipper Frank Wolff to take he
 	
 
 ### The Suicide Squad
-*Released on 2021-07-28, vote average 8.3*
+*Released on 2021-07-28, vote average 8.2*
 
 Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.
 
@@ -66,28 +66,6 @@ Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty con
 
 
 	
-	
-	
-
-  
-
-
-	
-	
-
-### Batman: The Long Halloween, Part Two
-*Released on 2021-07-26, vote average 7.8*
-
-As Gotham City&#39;s young vigilante, the Batman, struggles to pursue a brutal serial killer, district attorney Harvey Dent gets caught in a feud involving the criminal family of the Falcones.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/eVo174bgnQc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -120,7 +98,7 @@ Aspiring pop star Erica ends up as the entertainment at her ex-fiancé’s weddi
 	
 
 ### The Last Mercenary
-*Released on 2021-07-30, vote average 6.9*
+*Released on 2021-07-30, vote average 6.8*
 
 A mysterious former secret service agent must urgently return to France when his estranged son  is falsely accused of arms and drug trafficking by the government, following a blunder by an overzealous bureaucrat and a mafia operation.
 
@@ -139,6 +117,50 @@ A mysterious former secret service agent must urgently return to France when his
 
 
 	
+	
+
+### Batman: The Long Halloween, Part Two
+*Released on 2021-07-26, vote average 7.8*
+
+As Gotham City&#39;s young vigilante, the Batman, struggles to pursue a brutal serial killer, district attorney Harvey Dent gets caught in a feud involving the criminal family of the Falcones.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/eVo174bgnQc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### PAW Patrol: The Movie
+*Released on 2021-08-09, vote average 7*
+
+Ryder and the pups are called to Adventure City to stop Mayor Humdinger from turning the bustling metropolis into a state of chaos.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LRMTr2VZcr8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -147,7 +169,7 @@ A mysterious former secret service agent must urgently return to France when his
 	
 
 ### Shiny_Flakes: The Teenage Drug Lord
-*Released on 2021-08-03, vote average 8*
+*Released on 2021-08-03, vote average 8.5*
 
 Max S. reveals how he built a drug empire from his childhood bedroom as a teen in the real story behind the series &#34;How to Sell Drugs Online (Fast).&#34;
 
@@ -175,32 +197,10 @@ Max S. reveals how he built a drug empire from his childhood bedroom as a teen i
 	
 	
 
-### The Green Knight
-*Released on 2021-07-29, vote average 8*
-
-An epic fantasy adventure based on the timeless Arthurian legend, The Green Knight tells the story of Sir Gawain, King Arthur&#39;s reckless and headstrong nephew, who embarks on a daring quest to confront the eponymous Green Knight, a gigantic emerald-skinned stranger and tester of men.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/D9b13sshpx0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Vivo
 *Released on 2021-07-30, vote average 7.6*
 
-Vivo, Sony Pictures Animation&#39;s first-ever musical adventure featuring all-new original songs from Lin-Manuel Miranda, will take audiences on an epic adventure to gorgeous and vibrant locations never before seen in animation.
+A music-loving kinkajou embarks on the journey of a lifetime to fulfill his destiny and deliver a love song for an old friend.
 
 <iframe id="player"
 	type="text/html"
@@ -217,6 +217,21 @@ Vivo, Sony Pictures Animation&#39;s first-ever musical adventure featuring all-n
 
 
 	
+	
+
+### The Green Knight
+*Released on 2021-07-29, vote average 7.9*
+
+An epic fantasy adventure based on the timeless Arthurian legend, The Green Knight tells the story of Sir Gawain, King Arthur&#39;s reckless and headstrong nephew, who embarks on a daring quest to confront the eponymous Green Knight, a gigantic emerald-skinned stranger and tester of men.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/D9b13sshpx0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -269,6 +284,35 @@ When Russell picks up an enigmatic young woman through a ride-share app, his bor
 
 	
 	
+	
+
+  
+
+
+	
+	
+
+### Playing God
+*Released on 2021-08-06, vote average 5*
+
+A brother and sister con-artist duo find themselves scamming a grieving billionaire by convincing him they can introduce him to God, face-to-face.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Rojmy1cZ7do?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
 
 ### Stillwater
 *Released on 2021-07-30, vote average 5.7*
@@ -300,16 +344,6 @@ Bill Baker, an American oil-rig roughneck from Oklahoma, travels to Marseille to
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 	
 
@@ -324,7 +358,7 @@ Bill Baker, an American oil-rig roughneck from Oklahoma, travels to Marseille to
 	
 
 ### Free Guy
-*Released on 2021-08-11, vote average 9.3*
+*Released on 2021-08-11, vote average 9.5*
 
 A bank teller called Guy realizes he is a background character in an open world video game called Free City that will soon go offline.
 
@@ -370,6 +404,8 @@ Ryder and the pups are called to Adventure City to stop Mayor Humdinger from tur
 
 	
 
+	
+	
 	
 
 	
