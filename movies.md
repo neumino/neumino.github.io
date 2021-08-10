@@ -76,7 +76,7 @@ Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty con
 	
 
 ### Resort to Love
-*Released on 2021-07-29, vote average 7*
+*Released on 2021-07-29, vote average 7.1*
 
 Aspiring pop star Erica ends up as the entertainment at her ex-fiancé’s wedding after reluctantly taking a gig at a luxurious island resort while in the wake of a music career meltdown.
 
@@ -117,28 +117,6 @@ A mysterious former secret service agent must urgently return to France when his
 
 
 	
-	
-
-### Batman: The Long Halloween, Part Two
-*Released on 2021-07-26, vote average 7.8*
-
-As Gotham City&#39;s young vigilante, the Batman, struggles to pursue a brutal serial killer, district attorney Harvey Dent gets caught in a feud involving the criminal family of the Falcones.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/eVo174bgnQc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 
   
 
@@ -149,7 +127,7 @@ As Gotham City&#39;s young vigilante, the Batman, struggles to pursue a brutal s
 ### PAW Patrol: The Movie
 *Released on 2021-08-09, vote average 7*
 
-Ryder and the pups are called to Adventure City to stop Mayor Humdinger from turning the bustling metropolis into a state of chaos.
+Ryder and the pups are called to Adventure City to stop Mayor Humdinger from turning the bustling metropolis into a state of chaos, to insure “law and order”.
 
 <iframe id="player"
 	type="text/html"
@@ -169,7 +147,7 @@ Ryder and the pups are called to Adventure City to stop Mayor Humdinger from tur
 	
 
 ### Shiny_Flakes: The Teenage Drug Lord
-*Released on 2021-08-03, vote average 8.5*
+*Released on 2021-08-03, vote average 8.2*
 
 Max S. reveals how he built a drug empire from his childhood bedroom as a teen in the real story behind the series &#34;How to Sell Drugs Online (Fast).&#34;
 
@@ -198,7 +176,7 @@ Max S. reveals how he built a drug empire from his childhood bedroom as a teen i
 	
 
 ### Vivo
-*Released on 2021-07-30, vote average 7.6*
+*Released on 2021-07-30, vote average 7.5*
 
 A music-loving kinkajou embarks on the journey of a lifetime to fulfill his destiny and deliver a love song for an old friend.
 
@@ -220,7 +198,7 @@ A music-loving kinkajou embarks on the journey of a lifetime to fulfill his dest
 	
 
 ### The Green Knight
-*Released on 2021-07-29, vote average 7.9*
+*Released on 2021-07-29, vote average 8*
 
 An epic fantasy adventure based on the timeless Arthurian legend, The Green Knight tells the story of Sir Gawain, King Arthur&#39;s reckless and headstrong nephew, who embarks on a daring quest to confront the eponymous Green Knight, a gigantic emerald-skinned stranger and tester of men.
 
@@ -229,6 +207,62 @@ An epic fantasy adventure based on the timeless Arthurian legend, The Green Knig
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/D9b13sshpx0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Playing God
+*Released on 2021-08-06, vote average 7.5*
+
+A brother and sister con-artist duo find themselves scamming a grieving billionaire by convincing him they can introduce him to God, face-to-face.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Rojmy1cZ7do?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Stillwater
+*Released on 2021-07-30, vote average 5.7*
+
+Bill Baker, an American oil-rig roughneck from Oklahoma, travels to Marseille to visit his estranged daughter, Allison, who is in prison for a murder she claims she did not commit. Confronted with language barriers, cultural differences, and a complicated legal system, Bill builds a new life for himself in France as he makes it his personal mission to exonerate his daughter.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-6tx532JtV4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -283,52 +317,6 @@ When Russell picks up an enigmatic young woman through a ride-share app, his bor
 
 
 	
-	
-	
-
-  
-
-
-	
-	
-
-### Playing God
-*Released on 2021-08-06, vote average 5*
-
-A brother and sister con-artist duo find themselves scamming a grieving billionaire by convincing him they can introduce him to God, face-to-face.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Rojmy1cZ7do?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Stillwater
-*Released on 2021-07-30, vote average 5.7*
-
-Bill Baker, an American oil-rig roughneck from Oklahoma, travels to Marseille to visit his estranged daughter, Allison, who is in prison for a murder she claims she did not commit. Confronted with language barriers, cultural differences, and a complicated legal system, Bill builds a new life for himself in France as he makes it his personal mission to exonerate his daughter.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-6tx532JtV4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -338,13 +326,6 @@ Bill Baker, an American oil-rig roughneck from Oklahoma, travels to Marseille to
   
 
 
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -358,7 +339,7 @@ Bill Baker, an American oil-rig roughneck from Oklahoma, travels to Marseille to
 	
 
 ### Free Guy
-*Released on 2021-08-11, vote average 9.5*
+*Released on 2021-08-11, vote average 8.7*
 
 A bank teller called Guy realizes he is a background character in an open world video game called Free City that will soon go offline.
 
@@ -374,20 +355,39 @@ A bank teller called Guy realizes he is a background character in an open world 
 	
 
 	
-
-	
 	
 
-### PAW Patrol: The Movie
-*Released on 2021-08-09, vote average 7*
+### Don&#39;t Breathe 2
+*Released on 2021-08-12, vote average 10*
 
-Ryder and the pups are called to Adventure City to stop Mayor Humdinger from turning the bustling metropolis into a state of chaos.
+The Blind Man has been hiding out for several years in an isolated cabin and has taken in and raised a young girl orphaned from a devastating house fire. Their quiet life together is shattered when a group of criminals kidnap the girl, forcing the Blind Man to leave his safe haven to save her.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/LRMTr2VZcr8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/dCDLPlZAoeY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+	
+
+### The Kissing Booth 3
+*Released on 2021-08-11, vote average 8*
+
+It’s the summer before Elle heads to college, and she has a secret decision to make. Elle has been accepted into Harvard, where boyfriend Noah is matriculating, and also Berkeley, where her BFF Lee is headed. Which path should she choose?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5fKn0Dhj64w?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -402,10 +402,6 @@ Ryder and the pups are called to Adventure City to stop Mayor Humdinger from tur
 
 	
 
-	
-
-	
-	
 	
 
 	
