@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Free Guy
-*Released on 2021-08-11, vote average 8.2*
+*Released on 2021-08-11, vote average 8*
 
 A bank teller called Guy realizes he is a background character in an open world video game called Free City that will soon go offline.
 
@@ -47,7 +47,7 @@ A bank teller called Guy realizes he is a background character in an open world 
 	
 
 ### Don&#39;t Breathe 2
-*Released on 2021-08-12, vote average 6*
+*Released on 2021-08-12, vote average 6.3*
 
 The Blind Man has been hiding out for several years in an isolated cabin and has taken in and raised a young girl orphaned from a devastating house fire. Their quiet life together is shattered when a group of criminals kidnap the girl, forcing the Blind Man to leave his safe haven to save her.
 
@@ -76,7 +76,7 @@ The Blind Man has been hiding out for several years in an isolated cabin and has
 	
 
 ### The Kissing Booth 3
-*Released on 2021-08-11, vote average 8.1*
+*Released on 2021-08-11, vote average 8*
 
 It’s the summer before Elle heads to college, and she has a secret decision to make. Elle has been accepted into Harvard, where boyfriend Noah is matriculating, and also Berkeley, where her BFF Lee is headed and has to decide if she should stay or not.
 
@@ -89,6 +89,11 @@ It’s the summer before Elle heads to college, and she has a secret decision to
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -122,11 +127,6 @@ Ryder and the pups are called to Adventure City to stop Mayor Humdinger from tur
 
 
 	
-
-  
-
-
-	
 	
 
 ### Shiny_Flakes: The Teenage Drug Lord
@@ -149,15 +149,10 @@ Max S. reveals how he built a drug empire from his childhood bedroom as a teen i
 
 
 	
-
-  
-
-
-	
 	
 
 ### Monster Hunter: Legends of the Guild
-*Released on 2021-08-12, vote average 4.3*
+*Released on 2021-08-12, vote average 5.4*
 
 In a world where humans and fearsome monsters live in an uneasy balance, young hunter Aiden fights to save his village from destruction by a dragon.
 
@@ -198,10 +193,73 @@ Key figures from an infamous 2004 incident between players and fans at an NBA ga
 
 
 	
+	
+	
 
   
 
 
+	
+	
+
+### Bhuj: The Pride of India
+*Released on 2021-08-13, vote average 5*
+
+Set in the backdrop of the 1971 Indo-Pakistan War, the film tells the story of the IAF Squadron Leader Vijay Karnik, and his bravery, patriotism and determination.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/YngLZzBuzHA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Respect
+*Released on 2021-08-12, vote average 8*
+
+The rise of Aretha Franklin’s career from a child singing in her father’s church’s choir to her international superstardom.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/F-aFpm5BKfs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Crime Story
+*Released on 2021-08-13, vote average 6.5*
+
+When ex-mob boss Ben Myers is targeted in a home robbery, he goes on a deadly rampage of vengeance. But with his family caught in the crosshairs, Myers must finally face the consequences of his dark past.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3j9M8xFx_j8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -233,10 +291,22 @@ Key figures from an infamous 2004 incident between players and fans at an NBA ga
 
 
 	
+	
 
-  
+### Ikaw at Ako at ang Ending
+*Released on 2021-08-13, vote average 10*
 
+When a bagman meets a hotelkeeper, he knows she&#39;s the one. To hide and start anew, they go to the northernmost part of the country where an unexpected end awaits them.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/s11v8Q0ju-0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
