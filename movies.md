@@ -47,7 +47,7 @@ A bank teller called Guy realizes he is a background character in an open world 
 	
 
 ### Don&#39;t Breathe 2
-*Released on 2021-08-12, vote average 6.3*
+*Released on 2021-08-12, vote average 6.7*
 
 The Blind Man has been hiding out for several years in an isolated cabin and has taken in and raised a young girl orphaned from a devastating house fire. Their quiet life together is shattered when a group of criminals kidnap the girl, forcing the Blind Man to leave his safe haven to save her.
 
@@ -76,7 +76,7 @@ The Blind Man has been hiding out for several years in an isolated cabin and has
 	
 
 ### The Kissing Booth 3
-*Released on 2021-08-11, vote average 8*
+*Released on 2021-08-11, vote average 7.9*
 
 It’s the summer before Elle heads to college, and she has a secret decision to make. Elle has been accepted into Harvard, where boyfriend Noah is matriculating, and also Berkeley, where her BFF Lee is headed and has to decide if she should stay or not.
 
@@ -103,7 +103,7 @@ It’s the summer before Elle heads to college, and she has a secret decision to
 	
 
 ### PAW Patrol: The Movie
-*Released on 2021-08-09, vote average 8.6*
+*Released on 2021-08-09, vote average 8.5*
 
 Ryder and the pups are called to Adventure City to stop Mayor Humdinger from turning the bustling metropolis into a state of chaos, to insure “law and order”.
 
@@ -130,7 +130,7 @@ Ryder and the pups are called to Adventure City to stop Mayor Humdinger from tur
 	
 
 ### Shiny_Flakes: The Teenage Drug Lord
-*Released on 2021-08-03, vote average 8.5*
+*Released on 2021-08-03, vote average 8.4*
 
 Max S. reveals how he built a drug empire from his childhood bedroom as a teen in the real story behind the series &#34;How to Sell Drugs Online (Fast).&#34;
 
@@ -152,7 +152,7 @@ Max S. reveals how he built a drug empire from his childhood bedroom as a teen i
 	
 
 ### Monster Hunter: Legends of the Guild
-*Released on 2021-08-12, vote average 5.4*
+*Released on 2021-08-12, vote average 6.3*
 
 In a world where humans and fearsome monsters live in an uneasy balance, young hunter Aiden fights to save his village from destruction by a dragon.
 
@@ -174,7 +174,7 @@ In a world where humans and fearsome monsters live in an uneasy balance, young h
 	
 
 ### Untold: Malice at the Palace
-*Released on 2021-08-10, vote average 7*
+*Released on 2021-08-10, vote average 7.3*
 
 Key figures from an infamous 2004 incident between players and fans at an NBA game in Michigan discuss the fight, its fallout and its lasting legacy.
 
@@ -193,6 +193,21 @@ Key figures from an infamous 2004 incident between players and fans at an NBA ga
 
 
 	
+	
+
+### Crime Story
+*Released on 2021-08-13, vote average 5.4*
+
+When ex-mob boss Ben Myers is targeted in a home robbery, he goes on a deadly rampage of vengeance. But with his family caught in the crosshairs, Myers must finally face the consequences of his dark past.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3j9M8xFx_j8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -215,6 +230,23 @@ Set in the backdrop of the 1971 Indo-Pakistan War, the film tells the story of t
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 	
 
@@ -245,17 +277,24 @@ The rise of Aretha Franklin’s career from a child singing in her father’s ch
 
 	
 	
+	
 
-### Crime Story
-*Released on 2021-08-13, vote average 6.5*
+  
 
-When ex-mob boss Ben Myers is targeted in a home robbery, he goes on a deadly rampage of vengeance. But with his family caught in the crosshairs, Myers must finally face the consequences of his dark past.
+
+	
+	
+
+### Beckett
+*Released on 2021-08-04, vote average 6.2*
+
+Whilst vacationing in Greece, Beckett, becomes the target of a manhunt after a devastating car accident forces him to run for his life across the country to clear his name but tensions escalate as the authorities close in and political unrest mounts which makes Beckett fall even deeper into a dangerous web of conspiracy.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/3j9M8xFx_j8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/EPT_PNucTWE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -266,47 +305,12 @@ When ex-mob boss Ben Myers is targeted in a home robbery, he goes on a deadly ra
 
 
 	
-
-  
-
-
 	
-
-  
-
-
 	
 
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Ikaw at Ako at ang Ending
-*Released on 2021-08-13, vote average 10*
-
-When a bagman meets a hotelkeeper, he knows she&#39;s the one. To hide and start anew, they go to the northernmost part of the country where an unexpected end awaits them.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/s11v8Q0ju-0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -354,6 +358,8 @@ When a bagman meets a hotelkeeper, he knows she&#39;s the one. To hide and start
 
 	
 
+	
+	
 	
 
 
