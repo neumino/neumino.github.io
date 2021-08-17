@@ -47,7 +47,7 @@ A bank teller called Guy realizes he is a background character in an open world 
 	
 
 ### Don&#39;t Breathe 2
-*Released on 2021-08-12, vote average 6.7*
+*Released on 2021-08-12, vote average 7.5*
 
 The Blind Man has been hiding out for several years in an isolated cabin and has taken in and raised a young girl orphaned from a devastating house fire. Their quiet life together is shattered when a group of criminals kidnap the girl, forcing the Blind Man to leave his safe haven to save her.
 
@@ -67,16 +67,9 @@ The Blind Man has been hiding out for several years in an isolated cabin and has
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### The Kissing Booth 3
-*Released on 2021-08-11, vote average 7.9*
+*Released on 2021-08-11, vote average 7.8*
 
 It’s the summer before Elle heads to college, and she has a secret decision to make. Elle has been accepted into Harvard, where boyfriend Noah is matriculating, and also Berkeley, where her BFF Lee is headed and has to decide if she should stay or not.
 
@@ -95,6 +88,13 @@ It’s the summer before Elle heads to college, and she has a secret decision to
 
 
 	
+	
+	
+
+  
+
+
+	
 
   
 
@@ -103,7 +103,7 @@ It’s the summer before Elle heads to college, and she has a secret decision to
 	
 
 ### PAW Patrol: The Movie
-*Released on 2021-08-09, vote average 8.5*
+*Released on 2021-08-09, vote average 8.1*
 
 Ryder and the pups are called to Adventure City to stop Mayor Humdinger from turning the bustling metropolis into a state of chaos, to insure “law and order”.
 
@@ -121,6 +121,50 @@ Ryder and the pups are called to Adventure City to stop Mayor Humdinger from tur
   
 
 
+	
+
+  
+
+
+	
+	
+
+### Untold: Malice at the Palace
+*Released on 2021-08-10, vote average 7.4*
+
+Key figures from an infamous 2004 incident between players and fans at an NBA game in Michigan discuss the fight, its fallout and its lasting legacy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IqoESUUdrA0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Monster Hunter: Legends of the Guild
+*Released on 2021-08-12, vote average 6.6*
+
+In a world where humans and fearsome monsters live in an uneasy balance, young hunter Aiden fights to save his village from destruction by a dragon.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PqFjjs_qNn4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -149,21 +193,11 @@ Max S. reveals how he built a drug empire from his childhood bedroom as a teen i
 
 
 	
+
+  
+
+
 	
-
-### Monster Hunter: Legends of the Guild
-*Released on 2021-08-12, vote average 6.3*
-
-In a world where humans and fearsome monsters live in an uneasy balance, young hunter Aiden fights to save his village from destruction by a dragon.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/PqFjjs_qNn4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -173,20 +207,25 @@ In a world where humans and fearsome monsters live in an uneasy balance, young h
 	
 	
 
-### Untold: Malice at the Palace
-*Released on 2021-08-10, vote average 7.3*
+### Beckett
+*Released on 2021-08-04, vote average 6.3*
 
-Key figures from an infamous 2004 incident between players and fans at an NBA game in Michigan discuss the fight, its fallout and its lasting legacy.
+Whilst vacationing in Greece, Beckett, becomes the target of a manhunt after a devastating car accident forces him to run for his life across the country to clear his name but tensions escalate as the authorities close in and political unrest mounts which makes Beckett fall even deeper into a dangerous web of conspiracy.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/IqoESUUdrA0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/EPT_PNucTWE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -216,38 +255,6 @@ When ex-mob boss Ben Myers is targeted in a home robbery, he goes on a deadly ra
 
 	
 	
-
-### Bhuj: The Pride of India
-*Released on 2021-08-13, vote average 5*
-
-Set in the backdrop of the 1971 Indo-Pakistan War, the film tells the story of the IAF Squadron Leader Vijay Karnik, and his bravery, patriotism and determination.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/YngLZzBuzHA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -257,7 +264,7 @@ Set in the backdrop of the 1971 Indo-Pakistan War, the film tells the story of t
 	
 
 ### Respect
-*Released on 2021-08-12, vote average 8*
+*Released on 2021-08-12, vote average 7.3*
 
 The rise of Aretha Franklin’s career from a child singing in her father’s church’s choir to her international superstardom.
 
@@ -277,24 +284,17 @@ The rise of Aretha Franklin’s career from a child singing in her father’s ch
 
 	
 	
-	
 
-  
+### Bhuj: The Pride of India
+*Released on 2021-08-13, vote average 5.3*
 
-
-	
-	
-
-### Beckett
-*Released on 2021-08-04, vote average 6.2*
-
-Whilst vacationing in Greece, Beckett, becomes the target of a manhunt after a devastating car accident forces him to run for his life across the country to clear his name but tensions escalate as the authorities close in and political unrest mounts which makes Beckett fall even deeper into a dangerous web of conspiracy.
+Set in the backdrop of the 1971 Indo-Pakistan War, the film tells the story of the IAF Squadron Leader Vijay Karnik, and his bravery, patriotism and determination.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/EPT_PNucTWE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/YngLZzBuzHA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -304,8 +304,6 @@ Whilst vacationing in Greece, Beckett, becomes the target of a manhunt after a d
   
 
 
-	
-	
 	
 
   
@@ -351,6 +349,8 @@ Whilst vacationing in Greece, Beckett, becomes the target of a manhunt after a d
 	
 
 	
+	
+	
 
 	
 
@@ -358,8 +358,6 @@ Whilst vacationing in Greece, Beckett, becomes the target of a manhunt after a d
 
 	
 
-	
-	
 	
 
 
