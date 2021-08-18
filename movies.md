@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Free Guy
-*Released on 2021-08-11, vote average 8*
+*Released on 2021-08-11, vote average 8.1*
 
 A bank teller called Guy realizes he is a background character in an open world video game called Free City that will soon go offline.
 
@@ -47,7 +47,7 @@ A bank teller called Guy realizes he is a background character in an open world 
 	
 
 ### Don&#39;t Breathe 2
-*Released on 2021-08-12, vote average 7.5*
+*Released on 2021-08-12, vote average 7.8*
 
 The Blind Man has been hiding out for several years in an isolated cabin and has taken in and raised a young girl orphaned from a devastating house fire. Their quiet life together is shattered when a group of criminals kidnap the girl, forcing the Blind Man to leave his safe haven to save her.
 
@@ -95,6 +95,23 @@ It’s the summer before Elle heads to college, and she has a secret decision to
 
 
 	
+	
+
+### PAW Patrol: The Movie
+*Released on 2021-08-09, vote average 8.1*
+
+Ryder and the pups are called to Adventure City to stop Mayor Humdinger from turning the bustling metropolis into a state of chaos.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LRMTr2VZcr8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -102,16 +119,16 @@ It’s the summer before Elle heads to college, and she has a secret decision to
 	
 	
 
-### PAW Patrol: The Movie
-*Released on 2021-08-09, vote average 8.1*
+### Eggs Run
+*Released on 2021-08-12, vote average 3*
 
-Ryder and the pups are called to Adventure City to stop Mayor Humdinger from turning the bustling metropolis into a state of chaos, to insure “law and order”.
+Toto and Di are the parents of two beautiful eggs: Uly and Max.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/LRMTr2VZcr8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/82Sc7KJikX4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -130,7 +147,7 @@ Ryder and the pups are called to Adventure City to stop Mayor Humdinger from tur
 	
 
 ### Untold: Malice at the Palace
-*Released on 2021-08-10, vote average 7.4*
+*Released on 2021-08-10, vote average 7.3*
 
 Key figures from an infamous 2004 incident between players and fans at an NBA game in Michigan discuss the fight, its fallout and its lasting legacy.
 
@@ -150,48 +167,6 @@ Key figures from an infamous 2004 incident between players and fans at an NBA ga
 
 	
 	
-
-### Monster Hunter: Legends of the Guild
-*Released on 2021-08-12, vote average 6.6*
-
-In a world where humans and fearsome monsters live in an uneasy balance, young hunter Aiden fights to save his village from destruction by a dragon.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/PqFjjs_qNn4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Shiny_Flakes: The Teenage Drug Lord
-*Released on 2021-08-03, vote average 8.4*
-
-Max S. reveals how he built a drug empire from his childhood bedroom as a teen in the real story behind the series &#34;How to Sell Drugs Online (Fast).&#34;
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LMl93KgG72Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -208,7 +183,7 @@ Max S. reveals how he built a drug empire from his childhood bedroom as a teen i
 	
 
 ### Beckett
-*Released on 2021-08-04, vote average 6.3*
+*Released on 2021-08-04, vote average 6.1*
 
 Whilst vacationing in Greece, Beckett, becomes the target of a manhunt after a devastating car accident forces him to run for his life across the country to clear his name but tensions escalate as the authorities close in and political unrest mounts which makes Beckett fall even deeper into a dangerous web of conspiracy.
 
@@ -227,23 +202,18 @@ Whilst vacationing in Greece, Beckett, becomes the target of a manhunt after a d
 
 
 	
-
-  
-
-
-	
 	
 
-### Crime Story
-*Released on 2021-08-13, vote average 5.4*
+### Monster Hunter: Legends of the Guild
+*Released on 2021-08-12, vote average 6.4*
 
-When ex-mob boss Ben Myers is targeted in a home robbery, he goes on a deadly rampage of vengeance. But with his family caught in the crosshairs, Myers must finally face the consequences of his dark past.
+In a world where humans and fearsome monsters live in an uneasy balance, young hunter Aiden fights to save his village from destruction by a dragon.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/3j9M8xFx_j8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/PqFjjs_qNn4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -253,8 +223,6 @@ When ex-mob boss Ben Myers is targeted in a home robbery, he goes on a deadly ra
   
 
 
-	
-	
 	
 
   
@@ -285,6 +253,62 @@ The rise of Aretha Franklin’s career from a child singing in her father’s ch
 	
 	
 
+### Peligro en tu mirada
+*Released on 2021-08-06, vote average 7.4*
+
+A female photographer is coerced into spying on the affaire of a political candidate, becoming the sole witness of a crime of which he is falsely accused
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/bWdJ7vmQnHo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Crime Story
+*Released on 2021-08-13, vote average 5.4*
+
+When ex-mob boss Ben Myers is targeted in a home robbery, he goes on a deadly rampage of vengeance. But with his family caught in the crosshairs, Myers must finally face the consequences of his dark past.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3j9M8xFx_j8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### Bhuj: The Pride of India
 *Released on 2021-08-13, vote average 5.3*
 
@@ -305,10 +329,22 @@ Set in the backdrop of the 1971 Indo-Pakistan War, the film tells the story of t
 
 
 	
+	
 
-  
+### Spin
+*Released on 2021-08-13, vote average 6*
 
+Rhea lives with her tight-knit multigenerational family. After her mother’s death, she has been her father’s emotional rock, and her life revolves around her family’s restaurant, her eclectic group of friends, and her after-school coding club. Everything changes when she falls for aspiring DJ Max and a long lost passion for music is reignited. Rhea discovers that she has a natural gift for creating beats and producing music that blends her Indian heritage, but must find the courage to follow her true inner talent.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZzXQSqpTR-o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -329,6 +365,8 @@ Set in the backdrop of the 1971 Indo-Pakistan War, the film tells the story of t
 	
 
 	
+	
+	
 
 	
 
@@ -339,6 +377,8 @@ Set in the backdrop of the 1971 Indo-Pakistan War, the film tells the story of t
 	
 
 	
+	
+	
 
 	
 
@@ -348,8 +388,6 @@ Set in the backdrop of the 1971 Indo-Pakistan War, the film tells the story of t
 
 	
 
-	
-	
 	
 
 	
