@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Free Guy
-*Released on 2021-08-11, vote average 8.1*
+*Released on 2021-08-11, vote average 8*
 
 A bank teller called Guy realizes he is a background character in an open world video game called Free City that will soon go offline.
 
@@ -46,30 +46,8 @@ A bank teller called Guy realizes he is a background character in an open world 
 	
 	
 
-### Don&#39;t Breathe 2
-*Released on 2021-08-12, vote average 7.8*
-
-The Blind Man has been hiding out for several years in an isolated cabin and has taken in and raised a young girl orphaned from a devastating house fire. Their quiet life together is shattered when a group of criminals kidnap the girl, forcing the Blind Man to leave his safe haven to save her.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/dCDLPlZAoeY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Kissing Booth 3
-*Released on 2021-08-11, vote average 7.8*
+*Released on 2021-08-11, vote average 7.7*
 
 It’s the summer before Elle heads to college, and she has a secret decision to make. Elle has been accepted into Harvard, where boyfriend Noah is matriculating, and also Berkeley, where her BFF Lee is headed and has to decide if she should stay or not.
 
@@ -88,6 +66,21 @@ It’s the summer before Elle heads to college, and she has a secret decision to
 
 
 	
+	
+
+### Don&#39;t Breathe 2
+*Released on 2021-08-12, vote average 7.6*
+
+The Blind Man has been hiding out for several years in an isolated cabin and has taken in and raised a young girl orphaned from a devastating house fire. Their quiet life together is shattered when a group of criminals kidnap the girl, forcing the Blind Man to leave his safe haven to save her.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/dCDLPlZAoeY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -145,9 +138,21 @@ Toto and Di are the parents of two beautiful eggs: Uly and Max.
 
 	
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 
 ### Untold: Malice at the Palace
-*Released on 2021-08-10, vote average 7.3*
+*Released on 2021-08-10, vote average 7.2*
 
 Key figures from an infamous 2004 incident between players and fans at an NBA game in Michigan discuss the fight, its fallout and its lasting legacy.
 
@@ -166,37 +171,6 @@ Key figures from an infamous 2004 incident between players and fans at an NBA ga
 
 
 	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Beckett
-*Released on 2021-08-04, vote average 6.1*
-
-Whilst vacationing in Greece, Beckett, becomes the target of a manhunt after a devastating car accident forces him to run for his life across the country to clear his name but tensions escalate as the authorities close in and political unrest mounts which makes Beckett fall even deeper into a dangerous web of conspiracy.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EPT_PNucTWE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -205,7 +179,7 @@ Whilst vacationing in Greece, Beckett, becomes the target of a manhunt after a d
 	
 
 ### Monster Hunter: Legends of the Guild
-*Released on 2021-08-12, vote average 6.4*
+*Released on 2021-08-12, vote average 6.3*
 
 In a world where humans and fearsome monsters live in an uneasy balance, young hunter Aiden fights to save his village from destruction by a dragon.
 
@@ -231,30 +205,8 @@ In a world where humans and fearsome monsters live in an uneasy balance, young h
 	
 	
 
-### Respect
-*Released on 2021-08-12, vote average 7.3*
-
-The rise of Aretha Franklin’s career from a child singing in her father’s church’s choir to her international superstardom.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/F-aFpm5BKfs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Peligro en tu mirada
-*Released on 2021-08-06, vote average 7.4*
+*Released on 2021-08-06, vote average 7.2*
 
 A female photographer is coerced into spying on the affaire of a political candidate, becoming the sole witness of a crime of which he is falsely accused
 
@@ -281,21 +233,6 @@ A female photographer is coerced into spying on the affaire of a political candi
 
 	
 	
-
-### Crime Story
-*Released on 2021-08-13, vote average 5.4*
-
-When ex-mob boss Ben Myers is targeted in a home robbery, he goes on a deadly rampage of vengeance. But with his family caught in the crosshairs, Myers must finally face the consequences of his dark past.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3j9M8xFx_j8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -309,16 +246,16 @@ When ex-mob boss Ben Myers is targeted in a home robbery, he goes on a deadly ra
 	
 	
 
-### Bhuj: The Pride of India
-*Released on 2021-08-13, vote average 5.3*
+### Respect
+*Released on 2021-08-12, vote average 8*
 
-Set in the backdrop of the 1971 Indo-Pakistan War, the film tells the story of the IAF Squadron Leader Vijay Karnik, and his bravery, patriotism and determination.
+The rise of Aretha Franklin’s career from a child singing in her father’s church’s choir to her international superstardom.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/YngLZzBuzHA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/F-aFpm5BKfs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -331,20 +268,32 @@ Set in the backdrop of the 1971 Indo-Pakistan War, the film tells the story of t
 	
 	
 
-### Spin
-*Released on 2021-08-13, vote average 6*
+### Naked Singularity
+*Released on 2021-08-06, vote average 6.4*
 
-Rhea lives with her tight-knit multigenerational family. After her mother’s death, she has been her father’s emotional rock, and her life revolves around her family’s restaurant, her eclectic group of friends, and her after-school coding club. Everything changes when she falls for aspiring DJ Max and a long lost passion for music is reignited. Rhea discovers that she has a natural gift for creating beats and producing music that blends her Indian heritage, but must find the courage to follow her true inner talent.
+When a successful New York public defender loses his first case, he is pulled into a drug heist by a former client in an effort to beat the broken system at its own game.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ZzXQSqpTR-o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/MpO6kqPuh9E?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -365,8 +314,6 @@ Rhea lives with her tight-knit multigenerational family. After her mother’s de
 	
 
 	
-	
-	
 
 	
 
@@ -375,9 +322,24 @@ Rhea lives with her tight-knit multigenerational family. After her mother’s de
 	
 
 	
+	
+
+### No Man of God
+*Released on 2021-08-19, vote average 6.2*
+
+Based on real life transcripts culled from conversations between FBI analyst Bill Hagmaier and serial killer Ted Bundy that took place between 1984 and 1989, No Man of God details the complicated relationship that formed between the two men during Bundy’s final years on death row.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2vxm_IbS-6Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
 	
+
 	
 
 	
