@@ -69,7 +69,7 @@ It’s the summer before Elle heads to college, and she has a secret decision to
 	
 
 ### Don&#39;t Breathe 2
-*Released on 2021-08-12, vote average 7.5*
+*Released on 2021-08-12, vote average 7.6*
 
 The Blind Man has been hiding out for several years in an isolated cabin and has taken in and raised a young girl orphaned from a devastating house fire. Their quiet life together is shattered when a group of criminals kidnap the girl, forcing the Blind Man to leave his safe haven to save her.
 
@@ -113,7 +113,7 @@ Ryder and the pups are called to Adventure City to stop Mayor Humdinger from tur
 	
 
 ### Eggs Run
-*Released on 2021-08-12, vote average 3*
+*Released on 2021-08-12, vote average 8.4*
 
 Toto and Di are the parents of two beautiful eggs: Uly and Max.
 
@@ -132,11 +132,6 @@ Toto and Di are the parents of two beautiful eggs: Uly and Max.
 
 
 	
-
-  
-
-
-	
 	
 	
 
@@ -147,7 +142,7 @@ Toto and Di are the parents of two beautiful eggs: Uly and Max.
 	
 
 ### Reminiscence
-*Released on 2021-08-19, vote average 7.8*
+*Released on 2021-08-19, vote average 8.7*
 
 Nicolas Bannister, a rugged and solitary veteran living in a near-future Miami flooded by rising seas, is an expert in a dangerous occupation: he offers clients the chance to relive any memory they desire. His life changes when he meets a mysterious young woman named Mae. What begins as a simple matter of lost and found becomes a passionate love affair. But when a different client&#39;s memories implicate Mae in a series of violent crimes, Bannister must delve through the dark world of the past to uncover the truth about the woman he fell for.
 
@@ -155,11 +150,21 @@ Nicolas Bannister, a rugged and solitary veteran living in a near-future Miami f
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/LU8eNB8N1tg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/zXKdhDLFgkY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -188,6 +193,20 @@ Key figures from an infamous 2004 incident between players and fans at an NBA ga
 
 
 	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
 
   
 
@@ -195,16 +214,16 @@ Key figures from an infamous 2004 incident between players and fans at an NBA ga
 	
 	
 
-### Peligro en tu mirada
-*Released on 2021-08-06, vote average 7.2*
+### Memories of a Murderer: The Nilsen Tapes
+*Released on 2021-08-18, vote average 10*
 
-A female photographer is coerced into spying on the affaire of a political candidate, becoming the sole witness of a crime of which he is falsely accused
+Serial killer Dennis Nilsen narrates his life and horrific crimes via a series of chilling audiotapes recorded from his jail cell.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/bWdJ7vmQnHo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xT0GxjNfoek?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -216,14 +235,27 @@ A female photographer is coerced into spying on the affaire of a political candi
 
 	
 	
+
+### The Secret Diary of an Exchange Student
+*Released on 2021-08-18, vote average 7.7*
+
+Two best friends embark on a life-changing adventure abroad as exchange students.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/rIXv7zEtN3w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
 
 
 	
-	
-	
 
   
 
@@ -238,13 +270,6 @@ A female photographer is coerced into spying on the affaire of a political candi
   
 
 
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -267,16 +292,6 @@ In a world where humans and fearsome monsters live in an uneasy balance, young h
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -320,55 +335,38 @@ Anthony and his partner move into a loft in the now gentrified Cabrini. After a 
 	
 
 	
+
 	
 
-### Habit
-*Released on 2021-08-20, vote average 6.2*
+	
 
-The story of a streetwise party girl who gets mixed up in a violent drug deal and finds a possible way out - by masquerading as a Catholic nun.
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Aurora Teagarden Mysteries: Honeymoon, Honeymurder
+*Released on 2021-08-22, vote average 10*
+
+While on a “pre-honeymoon” getaway, Aurora and Nick discover a body, and as they get closer to finding out what really happened, danger knocks on their doorstep.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/d9mqpESX5-8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xajjeAPUHIY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-	
-	
-
-### Risen
-*Released on 2021-08-20, vote average 6*
-
-Disaster unfolds when a meteor strikes a small town, turning the environment uninhabitable and killing everything in the surrounding area. Exobiologist Lauren Stone is called to find answers to the unearthly event. As she begins to uncover the truth, imminent danger awakens and it becomes a race against time to save mankind.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/gyb2wGcgxEM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
