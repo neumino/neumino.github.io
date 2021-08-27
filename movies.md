@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Eggs Run
-*Released on 2021-08-12, vote average 8.2*
+### Reminiscence
+*Released on 2021-08-19, vote average 7.6*
 
-Toto and Di are the parents of two beautiful eggs: Uly and Max.
+Nicolas Bannister, a rugged and solitary veteran living in a near-future Miami flooded by rising seas, is an expert in a dangerous occupation: he offers clients the chance to relive any memory they desire. His life changes when he meets a mysterious young woman named Mae. What begins as a simple matter of lost and found becomes a passionate love affair. But when a different client&#39;s memories implicate Mae in a series of violent crimes, Bannister must delve through the dark world of the past to uncover the truth about the woman he fell for.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/82Sc7KJikX4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/jeiTCwaYxKE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,59 +46,8 @@ Toto and Di are the parents of two beautiful eggs: Uly and Max.
 	
 	
 
-### Don&#39;t Breathe 2
-*Released on 2021-08-12, vote average 7.3*
-
-The Blind Man has been hiding out for several years in an isolated cabin and has taken in and raised a young girl orphaned from a devastating house fire. Their quiet life together is shattered when a group of criminals kidnap the girl, forcing the Blind Man to leave his safe haven to save her.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/dCDLPlZAoeY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Reminiscence
-*Released on 2021-08-19, vote average 7.7*
-
-Nicolas Bannister, a rugged and solitary veteran living in a near-future Miami flooded by rising seas, is an expert in a dangerous occupation: he offers clients the chance to relive any memory they desire. His life changes when he meets a mysterious young woman named Mae. What begins as a simple matter of lost and found becomes a passionate love affair. But when a different client&#39;s memories implicate Mae in a series of violent crimes, Bannister must delve through the dark world of the past to uncover the truth about the woman he fell for.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jeiTCwaYxKE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
 ### The Loud House Movie
-*Released on 2021-08-20, vote average 8.3*
+*Released on 2021-08-20, vote average 8.2*
 
 The Loud family travel to Scotland and discover they are descendants of Scottish royalty as they move into their giant ancestral castle.
 
@@ -148,16 +97,16 @@ A devastated husband vows to bring justice to the people responsible for his wif
 	
 	
 
-### Monster Hunter: Legends of the Guild
-*Released on 2021-08-12, vote average 6.1*
+### The Witcher: Nightmare of the Wolf
+*Released on 2021-08-23, vote average 7.6*
 
-In a world where humans and fearsome monsters live in an uneasy balance, young hunter Aiden fights to save his village from destruction by a dragon.
+Escaping from poverty to become a witcher, Vesemir slays monsters for coin and glory, but when a new menace rises, he must face the demons of his past.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/PqFjjs_qNn4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/J365hQpaWRw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -192,16 +141,16 @@ Anthony and his partner move into a loft in the now gentrified Cabrini. After a 
 	
 	
 
-### The Witcher: Nightmare of the Wolf
-*Released on 2021-08-23, vote average 7.6*
+### The Stronghold
+*Released on 2021-08-18, vote average 8.1*
 
-Escaping from poverty to become a witcher, Vesemir slays monsters for coin and glory, but when a new menace rises, he must face the demons of his past.
+A police brigade working in the dangerous northern neighborhoods of Marseille, where the level of crime is higher than anywhere else in France.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/J365hQpaWRw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/eB8KbeZaGx4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -212,6 +161,48 @@ Escaping from poverty to become a witcher, Vesemir slays monsters for coin and g
 
 
 	
+	
+
+### The Colony
+*Released on 2021-08-26, vote average 5.5*
+
+In the not-too-distant future: after a global catastrophe has wiped out nearly all of humanity on Earth, an elite astronaut from Space Colony Kepler must make a decision that will seal the fate of the people on both planets.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/H4yKeBYkHn0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Show
+*Released on 2021-08-26, vote average 7*
+
+Inhabited by vampires and masked avengers; and a black hole that lies just beneath the surface of this seemingly peaceful city.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/4J2JQCx0VzI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -241,10 +232,15 @@ Disaster unfolds when a meteor strikes a small town, turning the environment uni
 
 
 	
+
+  
+
+
+	
 	
 
 ### The Protégé
-*Released on 2021-08-19, vote average 6.4*
+*Released on 2021-08-19, vote average 7.1*
 
 Rembrandt and Anna, two world premier assassins who share a mysterious past from Vietnam, traverse the globe competing for high-profile contracts. When Anna&#39;s mentor is murdered, she and Rembrandt must form an uneasy alliance and return to Vietnam to track down his killer.
 
@@ -266,7 +262,7 @@ Rembrandt and Anna, two world premier assassins who share a mysterious past from
 	
 
 ### The Girl Who Got Away
-*Released on 2021-08-20, vote average 6.5*
+*Released on 2021-08-20, vote average 6.4*
 
 Massena, New York, 1998. A decade of terror comes to a close with the capture of Elizabeth Caulfield, a woman who kidnapped five young girls and pretended they were her own. Only one girl, Christina Bowden, managed to get away with her life, the other four found buried behind Caulfield&#39;s decrepit home... 20 years later, Caulfield has escaped from prison and launches a deadly pursuit to finish what she began. Christina&#39;s seemingly perfect life comes crashing down around her as the secrets of her past come back to haunt her.
 
@@ -287,16 +283,16 @@ Massena, New York, 1998. A decade of terror comes to a close with the capture of
 	
 	
 
-### The Colony
-*Released on 2021-08-26, vote average 5.5*
+### Bob Ross: Happy Accidents, Betrayal &amp; Greed
+*Released on 2021-08-25, vote average 7.3*
 
-In the not-too-distant future: after a global catastrophe has wiped out nearly all of humanity on Earth, an elite astronaut from Space Colony Kepler must make a decision that will seal the fate of the people on both planets.
+Bob Ross brought joy to millions as the world&#39;s most famous art instructor. But a battle for his business empire cast a shadow over his happy trees.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/H4yKeBYkHn0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/J6JuA4qNU30?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -309,16 +305,16 @@ In the not-too-distant future: after a global catastrophe has wiped out nearly a
 	
 	
 
-### The Show
-*Released on 2021-08-26, vote average 7*
+### The Forever Room
+*Released on 2021-08-24, vote average 8*
 
-Inhabited by vampires and masked avengers; and a black hole that lies just beneath the surface of this seemingly peaceful city.
+Claire  wakes one day to find herself chained in a basement. Her horror is amplified when she discovers that her captor is her own mother! Helen assures Claire that the situation is necessary and “for her own good.” And to add to Claire’s terror, in the days and nights to follow she is beset by strange apparitions and frightening experiences, finding herself precariously balanced on a razor’s edge between reality and insanity, and ultimately forced to face a dark truth.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/4J2JQCx0VzI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xD6S-YbwgI4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -330,50 +326,16 @@ Inhabited by vampires and masked avengers; and a black hole that lies just benea
 
 	
 	
-
-### Habit
-*Released on 2021-08-20, vote average 5.7*
-
-The story of a streetwise party girl who gets mixed up in a violent drug deal and finds a possible way out - by masquerading as a Catholic nun.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/d9mqpESX5-8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
 
 
 	
-	
-
-### The Secret Diary of an Exchange Student
-*Released on 2021-08-18, vote average 6.7*
-
-Two best friends embark on a life-changing adventure abroad as exchange students.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rIXv7zEtN3w?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
-	
-	
 	
 
   
@@ -389,43 +351,18 @@ Two best friends embark on a life-changing adventure abroad as exchange students
 
 
 	
-
 	
 
-	
-	
+### Shang-Chi and the Legend of the Ten Rings
+*Released on 2021-09-01, vote average 7*
 
-### The Colony
-*Released on 2021-08-26, vote average 5.5*
-
-In the not-too-distant future: after a global catastrophe has wiped out nearly all of humanity on Earth, an elite astronaut from Space Colony Kepler must make a decision that will seal the fate of the people on both planets.
+Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/H4yKeBYkHn0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-	
-
-### The Show
-*Released on 2021-08-26, vote average 7*
-
-Inhabited by vampires and masked avengers; and a black hole that lies just beneath the surface of this seemingly peaceful city.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/4J2JQCx0VzI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/awC8IZIXWts?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -472,22 +409,13 @@ A husband and wife are forced to re-evaluate themselves and their relationship t
 	
 
 	
-	
-
-### Yakuza Princess
-*Released on 2021-08-26, vote average 6.7*
-
-In Brazil, Akemi finds out that she&#39;s the heiress to the Yakuza empire. Just after that, her destiny enters a spiral of violence and mystery, where a gaijin (foreigner) who’s been protecting her all this time, Shiro, may have been actually sent to kill her.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/doV5_j3l7GA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+	
+
+	
+
 	
 
 	
