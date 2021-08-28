@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Reminiscence
-*Released on 2021-08-19, vote average 7.6*
+*Released on 2021-08-19, vote average 7.5*
 
 Nicolas Bannister, a rugged and solitary veteran living in a near-future Miami flooded by rising seas, is an expert in a dangerous occupation: he offers clients the chance to relive any memory they desire. His life changes when he meets a mysterious young woman named Mae. What begins as a simple matter of lost and found becomes a passionate love affair. But when a different client&#39;s memories implicate Mae in a series of violent crimes, Bannister must delve through the dark world of the past to uncover the truth about the woman he fell for.
 
@@ -122,57 +122,13 @@ Escaping from poverty to become a witcher, Vesemir slays monsters for coin and g
 ### Candyman
 *Released on 2021-08-25, vote average 6.8*
 
-Anthony and his partner move into a loft in the now gentrified Cabrini. After a chance encounter with an old-timer exposes Anthony to the true story behind Candyman, he unknowingly opens a door to a complex past that unravels his own sanity and unleashes a terrifying wave of violence.
+Anthony and his partner move into a loft in the now gentrified Cabrini-Green, and after a chance encounter with an old-timer exposes Anthony to the true story behind Candyman, he unknowingly opens a door to a complex past that unravels his own sanity and unleashes a terrifying wave of violence.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/k-mp2j0PeeI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Stronghold
-*Released on 2021-08-18, vote average 8.1*
-
-A police brigade working in the dangerous northern neighborhoods of Marseille, where the level of crime is higher than anywhere else in France.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/eB8KbeZaGx4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Colony
-*Released on 2021-08-26, vote average 5.5*
-
-In the not-too-distant future: after a global catastrophe has wiped out nearly all of humanity on Earth, an elite astronaut from Space Colony Kepler must make a decision that will seal the fate of the people on both planets.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/H4yKeBYkHn0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -212,6 +168,72 @@ Inhabited by vampires and masked avengers; and a black hole that lies just benea
 	
 	
 
+### The Stronghold
+*Released on 2021-08-18, vote average 8.1*
+
+A police brigade working in the dangerous northern neighborhoods of Marseille, where the level of crime is higher than anywhere else in France.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/eB8KbeZaGx4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Protégé
+*Released on 2021-08-19, vote average 6.8*
+
+Rembrandt and Anna, two world premier assassins who share a mysterious past from Vietnam, traverse the globe competing for high-profile contracts. When Anna&#39;s mentor is murdered, she and Rembrandt must form an uneasy alliance and return to Vietnam to track down his killer.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fSqa0a3mGk8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Bob Ross: Happy Accidents, Betrayal &amp; Greed
+*Released on 2021-08-25, vote average 7.9*
+
+Bob Ross brought joy to millions as the world&#39;s most famous art instructor. But a battle for his business empire cast a shadow over his happy trees.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/J6JuA4qNU30?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Risen
 *Released on 2021-08-20, vote average 5.6*
 
@@ -239,16 +261,48 @@ Disaster unfolds when a meteor strikes a small town, turning the environment uni
 	
 	
 
-### The Protégé
-*Released on 2021-08-19, vote average 7.1*
+### The Colony
+*Released on 2021-08-26, vote average 5.5*
 
-Rembrandt and Anna, two world premier assassins who share a mysterious past from Vietnam, traverse the globe competing for high-profile contracts. When Anna&#39;s mentor is murdered, she and Rembrandt must form an uneasy alliance and return to Vietnam to track down his killer.
+In the not-too-distant future: after a global catastrophe has wiped out nearly all of humanity on Earth, an elite astronaut from Space Colony Kepler must make a decision that will seal the fate of the people on both planets.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/fSqa0a3mGk8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/H4yKeBYkHn0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Together
+*Released on 2021-08-27, vote average 5*
+
+A husband and wife are forced to re-evaluate themselves and their relationship through the reality of the Covid-19 lockdown.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/h-2I2VQrUqo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -283,28 +337,6 @@ Massena, New York, 1998. A decade of terror comes to a close with the capture of
 	
 	
 
-### Bob Ross: Happy Accidents, Betrayal &amp; Greed
-*Released on 2021-08-25, vote average 7.3*
-
-Bob Ross brought joy to millions as the world&#39;s most famous art instructor. But a battle for his business empire cast a shadow over his happy trees.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/J6JuA4qNU30?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Forever Room
 *Released on 2021-08-24, vote average 8*
 
@@ -319,23 +351,6 @@ Claire  wakes one day to find herself chained in a basement. Her horror is ampli
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -362,7 +377,7 @@ Shang-Chi must confront the past he thought he left behind when he is drawn into
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/awC8IZIXWts?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/AFAhVqmI-L4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -381,23 +396,6 @@ Shang-Chi must confront the past he thought he left behind when he is drawn into
 
 	
 
-	
-	
-
-### Together
-*Released on 2021-08-27, vote average 5*
-
-A husband and wife are forced to re-evaluate themselves and their relationship through the reality of the Covid-19 lockdown.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/h-2I2VQrUqo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
