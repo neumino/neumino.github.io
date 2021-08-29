@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Reminiscence
-*Released on 2021-08-19, vote average 7.5*
+### The Loud House Movie
+*Released on 2021-08-20, vote average 8.1*
 
-Nicolas Bannister, a rugged and solitary veteran living in a near-future Miami flooded by rising seas, is an expert in a dangerous occupation: he offers clients the chance to relive any memory they desire. His life changes when he meets a mysterious young woman named Mae. What begins as a simple matter of lost and found becomes a passionate love affair. But when a different client&#39;s memories implicate Mae in a series of violent crimes, Bannister must delve through the dark world of the past to uncover the truth about the woman he fell for.
+The Loud family travel to Scotland and discover they are descendants of Scottish royalty as they move into their giant ancestral castle.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/jeiTCwaYxKE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ngTtyroSMB0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -40,28 +40,6 @@ Nicolas Bannister, a rugged and solitary veteran living in a near-future Miami f
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-
-
-	
-	
-
-### The Loud House Movie
-*Released on 2021-08-20, vote average 8.2*
-
-The Loud family travel to Scotland and discover they are descendants of Scottish royalty as they move into their giant ancestral castle.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ngTtyroSMB0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
   
 
 
@@ -97,8 +75,52 @@ A devastated husband vows to bring justice to the people responsible for his wif
 	
 	
 
+### Reminiscence
+*Released on 2021-08-19, vote average 7.4*
+
+Nicolas Bannister, a rugged and solitary veteran living in a near-future Miami flooded by rising seas, is an expert in a dangerous occupation: he offers clients the chance to relive any memory they desire. His life changes when he meets a mysterious young woman named Mae. What begins as a simple matter of lost and found becomes a passionate love affair. But when a different client&#39;s memories implicate Mae in a series of violent crimes, Bannister must delve through the dark world of the past to uncover the truth about the woman he fell for.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jeiTCwaYxKE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Candyman
+*Released on 2021-08-25, vote average 6.2*
+
+Anthony and his partner move into a loft in the now gentrified Cabrini-Green, and after a chance encounter with an old-timer exposes Anthony to the true story behind Candyman, he unknowingly opens a door to a complex past that unravels his own sanity and unleashes a terrifying wave of violence.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/k-mp2j0PeeI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Witcher: Nightmare of the Wolf
-*Released on 2021-08-23, vote average 7.6*
+*Released on 2021-08-23, vote average 7.7*
 
 Escaping from poverty to become a witcher, Vesemir slays monsters for coin and glory, but when a new menace rises, he must face the demons of his past.
 
@@ -119,25 +141,20 @@ Escaping from poverty to become a witcher, Vesemir slays monsters for coin and g
 	
 	
 
-### Candyman
-*Released on 2021-08-25, vote average 6.8*
+### He&#39;s All That
+*Released on 2021-08-27, vote average 6.5*
 
-Anthony and his partner move into a loft in the now gentrified Cabrini-Green, and after a chance encounter with an old-timer exposes Anthony to the true story behind Candyman, he unknowingly opens a door to a complex past that unravels his own sanity and unleashes a terrifying wave of violence.
+After being humiliated online, an influencer decides to get back at her now ex by taking a dare to turn the school&#39;s biggest loser into a Prom King.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/k-mp2j0PeeI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/XqTPaRz8Nx8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -156,28 +173,6 @@ Inhabited by vampires and masked avengers; and a black hole that lies just benea
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/4J2JQCx0VzI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Stronghold
-*Released on 2021-08-18, vote average 8.1*
-
-A police brigade working in the dangerous northern neighborhoods of Marseille, where the level of crime is higher than anywhere else in France.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/eB8KbeZaGx4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -212,16 +207,60 @@ Rembrandt and Anna, two world premier assassins who share a mysterious past from
 	
 	
 
-### Bob Ross: Happy Accidents, Betrayal &amp; Greed
-*Released on 2021-08-25, vote average 7.9*
+### The Stronghold
+*Released on 2021-08-18, vote average 8.1*
 
-Bob Ross brought joy to millions as the world&#39;s most famous art instructor. But a battle for his business empire cast a shadow over his happy trees.
+A police brigade working in the dangerous northern neighborhoods of Marseille, where the level of crime is higher than anywhere else in France.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/J6JuA4qNU30?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/eB8KbeZaGx4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Vacation Friends
+*Released on 2021-08-27, vote average 6.9*
+
+When a straight-laced couple that has fun with a rowdy couple on vacation in Mexico return to the States, they discover that the crazy couple they met in Mexico followed them back home and decide to play tricks on them.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/HFoGrNBkZZU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Jurassic Hunt
+*Released on 2021-08-23, vote average 8*
+
+Female adventurer Parker joins a crew of male trophy hunters in a remote wilderness park. Their goal: slaughter genetically recreated dinosaurs for sport using rifles, arrows, and grenades. After their guide is killed by raptors, the team tries to escape the park – but the hunters quickly become the hunted. Even worse, the park’s manager suspects Parker of being a spy and sends a hit squad after her. This battle’s about to become primitive!
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/H9gpZqn-TtU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -244,6 +283,28 @@ Disaster unfolds when a meteor strikes a small town, turning the environment uni
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/gyb2wGcgxEM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Bob Ross: Happy Accidents, Betrayal &amp; Greed
+*Released on 2021-08-25, vote average 7.9*
+
+Bob Ross brought joy to millions as the world&#39;s most famous art instructor. But a battle for his business empire cast a shadow over his happy trees.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/J6JuA4qNU30?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -286,23 +347,18 @@ In the not-too-distant future: after a global catastrophe has wiped out nearly a
 
 
 	
-
-  
-
-
-	
 	
 
-### Together
-*Released on 2021-08-27, vote average 5*
+### The Secret Diary of an Exchange Student
+*Released on 2021-08-18, vote average 6.9*
 
-A husband and wife are forced to re-evaluate themselves and their relationship through the reality of the Covid-19 lockdown.
+Two best friends embark on a life-changing adventure abroad as exchange students.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/h-2I2VQrUqo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/rIXv7zEtN3w?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -315,38 +371,16 @@ A husband and wife are forced to re-evaluate themselves and their relationship t
 	
 	
 
-### The Girl Who Got Away
-*Released on 2021-08-20, vote average 6.4*
+### If I Can’t Have Love, I Want Power
+*Released on 2021-08-26, vote average 7*
 
-Massena, New York, 1998. A decade of terror comes to a close with the capture of Elizabeth Caulfield, a woman who kidnapped five young girls and pretended they were her own. Only one girl, Christina Bowden, managed to get away with her life, the other four found buried behind Caulfield&#39;s decrepit home... 20 years later, Caulfield has escaped from prison and launches a deadly pursuit to finish what she began. Christina&#39;s seemingly perfect life comes crashing down around her as the secrets of her past come back to haunt her.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/TheZLR9m0ps?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Forever Room
-*Released on 2021-08-24, vote average 8*
-
-Claire  wakes one day to find herself chained in a basement. Her horror is amplified when she discovers that her captor is her own mother! Helen assures Claire that the situation is necessary and “for her own good.” And to add to Claire’s terror, in the days and nights to follow she is beset by strange apparitions and frightening experiences, finding herself precariously balanced on a razor’s edge between reality and insanity, and ultimately forced to face a dark truth.
+If I Can’t Have Love, I Want Power, an hour-long film experience set to the music of Halsey’s upcoming album, introduces a young pregnant Queen, Lila, as she wrestles with the manipulative chokehold of love to ultimately discover that the ability to create life (and end it) unlocks the paranormal power within her.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xD6S-YbwgI4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/i45PAqrGDLc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
