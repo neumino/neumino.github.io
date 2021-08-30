@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### The Loud House Movie
-*Released on 2021-08-20, vote average 8.1*
+### Sweet Girl
+*Released on 2021-08-18, vote average 6.8*
 
-The Loud family travel to Scotland and discover they are descendants of Scottish royalty as they move into their giant ancestral castle.
+A devastated husband vows to bring justice to the people responsible for his wife&#39;s death while protecting the only family he has left, his daughter.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ngTtyroSMB0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Tfmr8pPy_1M?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ The Loud family travel to Scotland and discover they are descendants of Scottish
 	
 	
 
-### Sweet Girl
-*Released on 2021-08-18, vote average 6.8*
+### The Loud House Movie
+*Released on 2021-08-20, vote average 8.2*
 
-A devastated husband vows to bring justice to the people responsible for his wife&#39;s death while protecting the only family he has left, his daughter.
+The Loud family travel to Scotland and discover they are descendants of Scottish royalty as they move into their giant ancestral castle.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Tfmr8pPy_1M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ngTtyroSMB0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -98,7 +98,7 @@ Nicolas Bannister, a rugged and solitary veteran living in a near-future Miami f
 	
 
 ### Candyman
-*Released on 2021-08-25, vote average 6.2*
+*Released on 2021-08-25, vote average 5.9*
 
 Anthony and his partner move into a loft in the now gentrified Cabrini-Green, and after a chance encounter with an old-timer exposes Anthony to the true story behind Candyman, he unknowingly opens a door to a complex past that unravels his own sanity and unleashes a terrifying wave of violence.
 
@@ -142,7 +142,7 @@ Escaping from poverty to become a witcher, Vesemir slays monsters for coin and g
 	
 
 ### He&#39;s All That
-*Released on 2021-08-27, vote average 6.5*
+*Released on 2021-08-27, vote average 6.9*
 
 After being humiliated online, an influencer decides to get back at her now ex by taking a dare to turn the school&#39;s biggest loser into a Prom King.
 
@@ -186,9 +186,9 @@ Inhabited by vampires and masked avengers; and a black hole that lies just benea
 	
 
 ### The Protégé
-*Released on 2021-08-19, vote average 6.8*
+*Released on 2021-08-19, vote average 7.1*
 
-Rembrandt and Anna, two world premier assassins who share a mysterious past from Vietnam, traverse the globe competing for high-profile contracts. When Anna&#39;s mentor is murdered, she and Rembrandt must form an uneasy alliance and return to Vietnam to track down his killer.
+Rescued as a child by the legendary assassin Moody and trained in the family business, Anna is the world’s most skilled contract killer. When Moody, the man who was like a father to her and taught her everything she needs to know about trust and survival, is brutally killed, Anna vows revenge. As she becomes entangled with an enigmatic killer whose attraction to her goes way beyond cat and mouse, their confrontation turns deadly and the loose ends of a life spent killing will weave themselves ever tighter.
 
 <iframe id="player"
 	type="text/html"
@@ -207,30 +207,8 @@ Rembrandt and Anna, two world premier assassins who share a mysterious past from
 	
 	
 
-### The Stronghold
-*Released on 2021-08-18, vote average 8.1*
-
-A police brigade working in the dangerous northern neighborhoods of Marseille, where the level of crime is higher than anywhere else in France.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/eB8KbeZaGx4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Vacation Friends
-*Released on 2021-08-27, vote average 6.9*
+*Released on 2021-08-27, vote average 7.2*
 
 When a straight-laced couple that has fun with a rowdy couple on vacation in Mexico return to the States, they discover that the crazy couple they met in Mexico followed them back home and decide to play tricks on them.
 
@@ -251,8 +229,30 @@ When a straight-laced couple that has fun with a rowdy couple on vacation in Mex
 	
 	
 
+### The Stronghold
+*Released on 2021-08-18, vote average 8.2*
+
+A police brigade working in the dangerous northern neighborhoods of Marseille, where the level of crime is higher than anywhere else in France.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/eB8KbeZaGx4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Jurassic Hunt
-*Released on 2021-08-23, vote average 8*
+*Released on 2021-08-23, vote average 8.8*
 
 Female adventurer Parker joins a crew of male trophy hunters in a remote wilderness park. Their goal: slaughter genetically recreated dinosaurs for sport using rifles, arrows, and grenades. After their guide is killed by raptors, the team tries to escape the park – but the hunters quickly become the hunted. Even worse, the park’s manager suspects Parker of being a spy and sends a hit squad after her. This battle’s about to become primitive!
 
@@ -261,6 +261,82 @@ Female adventurer Parker joins a crew of male trophy hunters in a remote wildern
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/H9gpZqn-TtU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Rushed
+*Released on 2021-08-27, vote average 10*
+
+Barbara O’Brien, an Irish Catholic mother, has her life turned upside-down when her son, a freshman in college, is involved in a tragic hazing incident. Taking justice into her own hands, she travels across the country recording mothers who have lost sons to hazing in an effort to prove the university’s liability. When she is confronted by corruption and cover ups, she seeks revenge on the one person she finds truly responsible, proving that hell hath no fury like a mother scorned.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/szE47rZ3dXo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Bob Ross: Happy Accidents, Betrayal &amp; Greed
+*Released on 2021-08-25, vote average 7.7*
+
+Bob Ross brought joy to millions as the world&#39;s most famous art instructor. But a battle for his business empire cast a shadow over his happy trees.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/J6JuA4qNU30?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Colony
+*Released on 2021-08-26, vote average 5.8*
+
+In the not-too-distant future: after a global catastrophe has wiped out nearly all of humanity on Earth, an elite astronaut from Space Colony Kepler must make a decision that will seal the fate of the people on both planets.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/H4yKeBYkHn0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -295,92 +371,16 @@ Disaster unfolds when a meteor strikes a small town, turning the environment uni
 	
 	
 
-### Bob Ross: Happy Accidents, Betrayal &amp; Greed
-*Released on 2021-08-25, vote average 7.9*
+### American Sausage Standoff
+*Released on 2021-08-27, vote average 6*
 
-Bob Ross brought joy to millions as the world&#39;s most famous art instructor. But a battle for his business empire cast a shadow over his happy trees.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/J6JuA4qNU30?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Colony
-*Released on 2021-08-26, vote average 5.5*
-
-In the not-too-distant future: after a global catastrophe has wiped out nearly all of humanity on Earth, an elite astronaut from Space Colony Kepler must make a decision that will seal the fate of the people on both planets.
+A character driven comedy about sausages and friendship. Set in small-town America, it&#39;s a story about two hopeless dreamers who join forces in a quest to erect the ultimate German sausage restaurant.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/H4yKeBYkHn0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Secret Diary of an Exchange Student
-*Released on 2021-08-18, vote average 6.9*
-
-Two best friends embark on a life-changing adventure abroad as exchange students.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rIXv7zEtN3w?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### If I Can’t Have Love, I Want Power
-*Released on 2021-08-26, vote average 7*
-
-If I Can’t Have Love, I Want Power, an hour-long film experience set to the music of Halsey’s upcoming album, introduces a young pregnant Queen, Lila, as she wrestles with the manipulative chokehold of love to ultimately discover that the ability to create life (and end it) unlocks the paranormal power within her.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/i45PAqrGDLc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/XoiNI0rBwc8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -411,7 +411,26 @@ Shang-Chi must confront the past he thought he left behind when he is drawn into
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/AFAhVqmI-L4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/iECT9M3ifVg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### After We Fell
+*Released on 2021-09-01, vote average 10*
+
+Just as Tessa&#39;s life begins to become unglued, nothing is what she thought it would be. Not her friends nor her family. The only person that she should be able to rely on is Hardin, who is furious when he discovers the massive secret that she&#39;s been keeping. Before Tessa makes the biggest decision of her life, everything changes because of revelations about her family.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/NYdNN6C9hfI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -427,7 +446,22 @@ Shang-Chi must confront the past he thought he left behind when he is drawn into
 	
 
 	
+	
 
+### Extinct
+*Released on 2021-09-03, vote average 6*
+
+The original adventure-comedy follows Op and Ed, two adorable donut-shaped animals - flummels - who accidentally time-travel from 1835 to modern-day Shanghai.  There they discover traffic, trans fats, and worst of all, that flummels are now extinct. It&#39;s up to this bumbling pair to save themselves and their species...and, just maybe, change the course of history.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/bk0Q-zuUFfc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
