@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Sweet Girl
-*Released on 2021-08-18, vote average 6.9*
+*Released on 2021-08-18, vote average 7*
 
 A devastated husband vows to bring justice to the people responsible for his wife&#39;s death while protecting the only family he has left, his daughter.
 
@@ -76,7 +76,7 @@ The Loud family travel to Scotland and discover they are descendants of Scottish
 	
 
 ### Reminiscence
-*Released on 2021-08-19, vote average 7.4*
+*Released on 2021-08-19, vote average 7.3*
 
 Nicolas Bannister, a rugged and solitary veteran living in a near-future Miami flooded by rising seas, is an expert in a dangerous occupation: he offers clients the chance to relive any memory they desire. His life changes when he meets a mysterious young woman named Mae. What begins as a simple matter of lost and found becomes a passionate love affair. But when a different client&#39;s memories implicate Mae in a series of violent crimes, Bannister must delve through the dark world of the past to uncover the truth about the woman he fell for.
 
@@ -97,16 +97,38 @@ Nicolas Bannister, a rugged and solitary veteran living in a near-future Miami f
 	
 	
 
-### Candyman
-*Released on 2021-08-25, vote average 6*
+### Shang-Chi and the Legend of the Ten Rings
+*Released on 2021-09-01, vote average 7.9*
 
-Anthony and his partner move into a loft in the now gentrified Cabrini-Green, and after a chance encounter with an old-timer exposes Anthony to the true story behind Candyman, he unknowingly opens a door to a complex past that unravels his own sanity and unleashes a terrifying wave of violence.
+Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/k-mp2j0PeeI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/JoiHvULKrYY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### After We Fell
+*Released on 2021-09-01, vote average 8.9*
+
+Just as Tessa&#39;s life begins to become unglued, nothing is what she thought it would be. Not her friends nor her family. The only person that she should be able to rely on is Hardin, who is furious when he discovers the massive secret that she&#39;s been keeping. Before Tessa makes the biggest decision of her life, everything changes because of revelations about her family.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/NYdNN6C9hfI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -122,7 +144,7 @@ Anthony and his partner move into a loft in the now gentrified Cabrini-Green, an
 ### He&#39;s All That
 *Released on 2021-08-27, vote average 6.9*
 
-An influencer attempts to transform an unpopular classmate into prom king.
+To get revenge on her ex-boyfriend, an influencer attempts to transform an unpopular classmate into prom king.
 
 <iframe id="player"
 	type="text/html"
@@ -163,16 +185,16 @@ Inhabited by vampires and masked avengers; and a black hole that lies just benea
 	
 	
 
-### The Witcher: Nightmare of the Wolf
-*Released on 2021-08-23, vote average 7.7*
+### Candyman
+*Released on 2021-08-25, vote average 6.1*
 
-Escaping from poverty to become a witcher, Vesemir slays monsters for coin and glory, but when a new menace rises, he must face the demons of his past.
+Anthony and his partner move into a loft in the now gentrified Cabrini-Green, and after a chance encounter with an old-timer exposes Anthony to the true story behind Candyman, he unknowingly opens a door to a complex past that unravels his own sanity and unleashes a terrifying wave of violence.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/J365hQpaWRw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/k-mp2j0PeeI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -229,8 +251,30 @@ When a straight-laced couple that has fun with a rowdy couple on vacation in Mex
 	
 	
 
+### The Witcher: Nightmare of the Wolf
+*Released on 2021-08-23, vote average 7.8*
+
+Escaping from poverty to become a witcher, Vesemir slays monsters for coin and glory, but when a new menace rises, he must face the demons of his past.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/J365hQpaWRw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Stronghold
-*Released on 2021-08-18, vote average 8.1*
+*Released on 2021-08-18, vote average 8*
 
 A police brigade working in the dangerous northern neighborhoods of Marseille, where the level of crime is higher than anywhere else in France.
 
@@ -243,11 +287,6 @@ A police brigade working in the dangerous northern neighborhoods of Marseille, w
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -276,22 +315,10 @@ Female adventurer Parker joins a crew of male trophy hunters in a remote wildern
 
 
 	
-	
 
-### Edge of the World
-*Released on 2021-08-27, vote average 5.8*
+  
 
-Biopic about Sir James Brooke, the British adventurer who became King of Sarawak in the 1840&#39;s and embarked on a lifelong crusade to end piracy and head-hunting - only to face charges of murder and piracy himself.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/YQ8mrNmTPjY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -300,16 +327,16 @@ Biopic about Sir James Brooke, the British adventurer who became King of Sarawak
 	
 	
 
-### Risen
-*Released on 2021-08-20, vote average 5.8*
+### No Man of God
+*Released on 2021-08-19, vote average 7.5*
 
-Disaster unfolds when a meteor strikes a small town, turning the environment uninhabitable and killing everything in the surrounding area. Exobiologist Lauren Stone is called to find answers to the unearthly event. As she begins to uncover the truth, imminent danger awakens and it becomes a race against time to save mankind.
+Based on real life transcripts culled from conversations between FBI analyst Bill Hagmaier and serial killer Ted Bundy that took place between 1984 and 1989, No Man of God details the complicated relationship that formed between the two men during Bundy’s final years on death row.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/gyb2wGcgxEM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/2vxm_IbS-6Y?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -344,16 +371,16 @@ In the not-too-distant future: after a global catastrophe has wiped out nearly a
 	
 	
 
-### The Girl Who Got Away
-*Released on 2021-08-20, vote average 6.5*
+### Risen
+*Released on 2021-08-20, vote average 5.9*
 
-Massena, New York, 1998. A decade of terror comes to a close with the capture of Elizabeth Caulfield, a woman who kidnapped five young girls and pretended they were her own. Only one girl, Christina Bowden, managed to get away with her life, the other four found buried behind Caulfield&#39;s decrepit home... 20 years later, Caulfield has escaped from prison and launches a deadly pursuit to finish what she began. Christina&#39;s seemingly perfect life comes crashing down around her as the secrets of her past come back to haunt her.
+Disaster unfolds when a meteor strikes a small town, turning the environment uninhabitable and killing everything in the surrounding area. Exobiologist Lauren Stone is called to find answers to the unearthly event. As she begins to uncover the truth, imminent danger awakens and it becomes a race against time to save mankind.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/TheZLR9m0ps?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/gyb2wGcgxEM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -365,29 +392,17 @@ Massena, New York, 1998. A decade of terror comes to a close with the capture of
 
 	
 	
-	
 
-  
+### Bob Ross: Happy Accidents, Betrayal &amp; Greed
+*Released on 2021-08-25, vote average 7.3*
 
-
-	
-
-  
-
-
-	
-	
-
-### No Man of God
-*Released on 2021-08-19, vote average 7.3*
-
-Based on real life transcripts culled from conversations between FBI analyst Bill Hagmaier and serial killer Ted Bundy that took place between 1984 and 1989, No Man of God details the complicated relationship that formed between the two men during Bundy’s final years on death row.
+Bob Ross brought joy to millions as the world&#39;s most famous art instructor. But a battle for his business empire cast a shadow over his happy trees.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/2vxm_IbS-6Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/J6JuA4qNU30?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -405,7 +420,7 @@ Based on real life transcripts culled from conversations between FBI analyst Bil
 	
 
 ### Shang-Chi and the Legend of the Ten Rings
-*Released on 2021-09-01, vote average 7.5*
+*Released on 2021-09-01, vote average 7.9*
 
 Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.
 
@@ -413,7 +428,7 @@ Shang-Chi must confront the past he thought he left behind when he is drawn into
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/yn6MA1VGNx4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/JoiHvULKrYY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -424,7 +439,7 @@ Shang-Chi must confront the past he thought he left behind when he is drawn into
 	
 
 ### After We Fell
-*Released on 2021-09-01, vote average 9.3*
+*Released on 2021-09-01, vote average 8.9*
 
 Just as Tessa&#39;s life begins to become unglued, nothing is what she thought it would be. Not her friends nor her family. The only person that she should be able to rely on is Hardin, who is furious when he discovers the massive secret that she&#39;s been keeping. Before Tessa makes the biggest decision of her life, everything changes because of revelations about her family.
 
@@ -439,6 +454,23 @@ Just as Tessa&#39;s life begins to become unglued, nothing is what she thought i
 	
 	
 
+	
+	
+
+### Cinderella
+*Released on 2021-09-03, vote average 7*
+
+A modern movie musical take on the classic fairytale of the orphaned girl with an evil stepmother. Our ambitious heroine has big dreams and with the help of her Fab Godmother, she perseveres to make them come true.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/T1NeHRuPpoM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -464,7 +496,7 @@ A woman’s Holocaust memoir takes the world by storm, but a fallout with her pu
 	
 
 ### Malignant
-*Released on 2021-09-02, vote average 10*
+*Released on 2021-09-02, vote average 5.5*
 
 Madison is paralyzed by shocking visions of grisly murders, and her torment worsens as she discovers that these waking dreams are in fact terrifying realities.
 
@@ -483,6 +515,23 @@ Madison is paralyzed by shocking visions of grisly murders, and her torment wors
 
 	
 
+	
+	
+
+### The Gateway
+*Released on 2021-09-03, vote average 5.3*
+
+A social worker assigned to the care of the daughter of a single mother intervenes when the dad returns from prison and lures them into a life of crime.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/dhzRU54jQtk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
