@@ -55,29 +55,7 @@ Shang-Chi must confront the past he thought he left behind when he is drawn into
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ir-mWUYH_uo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### He&#39;s All That
-*Released on 2021-08-27, vote average 7*
-
-To get revenge on her ex-boyfriend, an influencer attempts to transform an unpopular classmate into prom king.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XqTPaRz8Nx8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/IakshlFHetY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -91,7 +69,7 @@ To get revenge on her ex-boyfriend, an influencer attempts to transform an unpop
 	
 
 ### After We Fell
-*Released on 2021-09-01, vote average 8.9*
+*Released on 2021-09-01, vote average 8.8*
 
 Just as Tessa&#39;s life begins to become unglued, nothing is what she thought it would be. Not her friends nor her family. The only person that she should be able to rely on is Hardin, who is furious when he discovers the massive secret that she&#39;s been keeping. Before Tessa makes the biggest decision of her life, everything changes because of revelations about her family.
 
@@ -112,8 +90,30 @@ Just as Tessa&#39;s life begins to become unglued, nothing is what she thought i
 	
 	
 
+### He&#39;s All That
+*Released on 2021-08-27, vote average 7.1*
+
+To get revenge on her ex-boyfriend, an influencer attempts to transform an unpopular classmate into prom king.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/XqTPaRz8Nx8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Vacation Friends
-*Released on 2021-08-27, vote average 7.5*
+*Released on 2021-08-27, vote average 7.6*
 
 When a straight-laced couple that has fun with a rowdy couple on vacation in Mexico return to the States, they discover that the crazy couple they met in Mexico followed them back home and decide to play tricks on them.
 
@@ -135,7 +135,7 @@ When a straight-laced couple that has fun with a rowdy couple on vacation in Mex
 	
 
 ### Cinderella
-*Released on 2021-09-03, vote average 4.5*
+*Released on 2021-09-03, vote average 6.3*
 
 Cinderella, an orphaned girl with an evil stepmother, has big dreams and with the help of her Fabulous Godmother, she perseveres to make them come true.
 
@@ -144,6 +144,50 @@ Cinderella, an orphaned girl with an evil stepmother, has big dreams and with th
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/T1NeHRuPpoM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Jurassic Hunt
+*Released on 2021-08-23, vote average 4.6*
+
+Female adventurer Parker joins a crew of male trophy hunters in a remote wilderness park. Their goal: slaughter genetically recreated dinosaurs for sport using rifles, arrows, and grenades. After their guide is killed by raptors, the team tries to escape the park – but the hunters quickly become the hunted. Even worse, the park’s manager suspects Parker of being a spy and sends a hit squad after her. This battle’s about to become primitive!
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/H9gpZqn-TtU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Mortal Kombat Legends: Battle of the Realms
+*Released on 2021-08-30, vote average 8*
+
+The Earthrealm heroes must journey to the Outworld and fight for the survival of their homeland, invaded by the forces of evil warlord Shao Kahn, in the tournament to end all tournaments: the final Mortal Kombat.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hRRtd7Etato?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -179,7 +223,7 @@ Inhabited by vampires and masked avengers; and a black hole that lies just benea
 	
 
 ### Candyman
-*Released on 2021-08-25, vote average 6.2*
+*Released on 2021-08-25, vote average 6.4*
 
 Anthony and his partner move into a loft in the now gentrified Cabrini-Green, and after a chance encounter with an old-timer exposes Anthony to the true story behind Candyman, he unknowingly opens a door to a complex past that unravels his own sanity and unleashes a terrifying wave of violence.
 
@@ -200,52 +244,8 @@ Anthony and his partner move into a loft in the now gentrified Cabrini-Green, an
 	
 	
 
-### Jurassic Hunt
-*Released on 2021-08-23, vote average 5.6*
-
-Female adventurer Parker joins a crew of male trophy hunters in a remote wilderness park. Their goal: slaughter genetically recreated dinosaurs for sport using rifles, arrows, and grenades. After their guide is killed by raptors, the team tries to escape the park – but the hunters quickly become the hunted. Even worse, the park’s manager suspects Parker of being a spy and sends a hit squad after her. This battle’s about to become primitive!
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/H9gpZqn-TtU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Mortal Kombat Legends: Battle of the Realms
-*Released on 2021-08-30, vote average 7.9*
-
-The Earthrealm heroes must journey to the Outworld and fight for the survival of their homeland, invaded by the forces of evil warlord Shao Kahn, in the tournament to end all tournaments: the final Mortal Kombat.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hRRtd7Etato?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Malignant
-*Released on 2021-09-01, vote average 5.4*
+*Released on 2021-09-01, vote average 5.6*
 
 Madison is paralyzed by shocking visions of grisly murders, and her torment worsens as she discovers that these waking dreams are in fact terrifying realities.
 
@@ -254,28 +254,6 @@ Madison is paralyzed by shocking visions of grisly murders, and her torment wors
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/uRrlAk9kChA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Misha and the Wolves
-*Released on 2021-09-03, vote average 6.5*
-
-A woman’s Holocaust memoir takes the world by storm, but a fallout with her publisher-turned-detective reveals her story as an audacious deception created to hide a darker truth.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xRE5S-B5pJY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -310,6 +288,79 @@ Escaping from poverty to become a witcher, Vesemir slays monsters for coin and g
 	
 	
 
+### Misha and the Wolves
+*Released on 2021-09-03, vote average 6.5*
+
+A woman’s Holocaust memoir takes the world by storm, but a fallout with her publisher-turned-detective reveals her story as an audacious deception created to hide a darker truth.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xRE5S-B5pJY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Afterlife of the Party
+*Released on 2021-09-02, vote average 7*
+
+A social butterfly who dies during her birthday week is given a second chance to right her wrongs on Earth.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kFIbSnJ9tQM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Happier Than Ever: A Love Letter to Los Angeles
+*Released on 2021-09-03, vote average 9.3*
+
+Fresh off the heels of her brand-new album, &#34;Happier Than Ever,&#34; this cinematic concert experience features an intimate performance of every song in the album&#39;s sequential order – for the first and only time – from the stage of the legendary Hollywood Bowl.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/B1q_mxkGUTg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Gateway
 *Released on 2021-09-03, vote average 5.5*
 
@@ -331,51 +382,17 @@ A social worker assigned to the care of the daughter of a single mother interven
 
 	
 	
-	
 
-  
+### Zone 414
+*Released on 2021-09-03, vote average 6*
 
-
-	
-
-  
-
-
-	
-	
-
-### Afterlife of the Party
-*Released on 2021-09-02, vote average 6.9*
-
-A social butterfly who dies during her birthday week is given a second chance to right her wrongs on Earth.
+In the near future on a colony of state-of-the-art robots, a private investigator is hired by the colony&#39;s creator to bring his missing daughter home.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/kFIbSnJ9tQM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### 9/11: Inside the President&#39;s War Room
-*Released on 2021-08-31, vote average 5*
-
-Experience the events of September 11, 2001 through the eyes of President Bush and his closest advisors as they personally detail the crucial hours and key decisions from that historic day.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/4BcKbOCYOpA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/a-7FSyHFl6s?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -417,6 +434,8 @@ Experience the events of September 11, 2001 through the eyes of President Bush a
 
 	
 
+	
+	
 	
 
 	
