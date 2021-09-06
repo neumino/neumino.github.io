@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Tomorrow War
-*Released on 2021-09-03, vote average 8.1*
+*Released on 2021-09-03, vote average 8*
 
 The world is stunned when a group of time travelers arrive from the year 2051 to deliver an urgent message: Thirty years in the future, mankind is losing a global war against a deadly alien species. The only hope for survival is for soldiers and civilians from the present to be transported to the future and join the fight. Among those recruited is high school teacher and family man Dan Forester. Determined to save the world for his young daughter, Dan teams up with a brilliant scientist and his estranged father in a desperate quest to rewrite the fate of the planet.
 
@@ -47,7 +47,7 @@ The world is stunned when a group of time travelers arrive from the year 2051 to
 	
 
 ### Shang-Chi and the Legend of the Ten Rings
-*Released on 2021-09-01, vote average 7.9*
+*Released on 2021-09-01, vote average 8*
 
 Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.
 
@@ -69,7 +69,7 @@ Shang-Chi must confront the past he thought he left behind when he is drawn into
 	
 
 ### After We Fell
-*Released on 2021-09-01, vote average 8.8*
+*Released on 2021-09-01, vote average 8.9*
 
 Just as Tessa&#39;s life begins to become unglued, nothing is what she thought it would be. Not her friends nor her family. The only person that she should be able to rely on is Hardin, who is furious when he discovers the massive secret that she&#39;s been keeping. Before Tessa makes the biggest decision of her life, everything changes because of revelations about her family.
 
@@ -78,28 +78,6 @@ Just as Tessa&#39;s life begins to become unglued, nothing is what she thought i
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/NYdNN6C9hfI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### He&#39;s All That
-*Released on 2021-08-27, vote average 7.1*
-
-To get revenge on her ex-boyfriend, an influencer attempts to transform an unpopular classmate into prom king.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XqTPaRz8Nx8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,8 +112,30 @@ When a straight-laced couple that has fun with a rowdy couple on vacation in Mex
 	
 	
 
+### He&#39;s All That
+*Released on 2021-08-27, vote average 7.2*
+
+To get revenge on her ex-boyfriend, an influencer attempts to transform an unpopular classmate into prom king.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/XqTPaRz8Nx8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Cinderella
-*Released on 2021-09-03, vote average 6.3*
+*Released on 2021-09-03, vote average 6.7*
 
 Cinderella, an orphaned girl with an evil stepmother, has big dreams and with the help of her Fabulous Godmother, she perseveres to make them come true.
 
@@ -157,7 +157,7 @@ Cinderella, an orphaned girl with an evil stepmother, has big dreams and with th
 	
 
 ### Jurassic Hunt
-*Released on 2021-08-23, vote average 4.6*
+*Released on 2021-08-23, vote average 4.8*
 
 Female adventurer Parker joins a crew of male trophy hunters in a remote wilderness park. Their goal: slaughter genetically recreated dinosaurs for sport using rifles, arrows, and grenades. After their guide is killed by raptors, the team tries to escape the park – but the hunters quickly become the hunted. Even worse, the park’s manager suspects Parker of being a spy and sends a hit squad after her. This battle’s about to become primitive!
 
@@ -179,7 +179,7 @@ Female adventurer Parker joins a crew of male trophy hunters in a remote wildern
 	
 
 ### Mortal Kombat Legends: Battle of the Realms
-*Released on 2021-08-30, vote average 8*
+*Released on 2021-08-30, vote average 8.3*
 
 The Earthrealm heroes must journey to the Outworld and fight for the survival of their homeland, invaded by the forces of evil warlord Shao Kahn, in the tournament to end all tournaments: the final Mortal Kombat.
 
@@ -245,7 +245,7 @@ Anthony and his partner move into a loft in the now gentrified Cabrini-Green, an
 	
 
 ### Malignant
-*Released on 2021-09-01, vote average 5.6*
+*Released on 2021-09-01, vote average 5.8*
 
 Madison is paralyzed by shocking visions of grisly murders, and her torment worsens as she discovers that these waking dreams are in fact terrifying realities.
 
@@ -254,50 +254,6 @@ Madison is paralyzed by shocking visions of grisly murders, and her torment wors
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/uRrlAk9kChA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Witcher: Nightmare of the Wolf
-*Released on 2021-08-23, vote average 7.8*
-
-Escaping from poverty to become a witcher, Vesemir slays monsters for coin and glory, but when a new menace rises, he must face the demons of his past.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/J365hQpaWRw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Misha and the Wolves
-*Released on 2021-09-03, vote average 6.5*
-
-A woman’s Holocaust memoir takes the world by storm, but a fallout with her publisher-turned-detective reveals her story as an audacious deception created to hide a darker truth.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xRE5S-B5pJY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -318,7 +274,7 @@ A woman’s Holocaust memoir takes the world by storm, but a fallout with her pu
 	
 
 ### Afterlife of the Party
-*Released on 2021-09-02, vote average 7*
+*Released on 2021-09-02, vote average 7.1*
 
 A social butterfly who dies during her birthday week is given a second chance to right her wrongs on Earth.
 
@@ -327,6 +283,28 @@ A social butterfly who dies during her birthday week is given a second chance to
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/kFIbSnJ9tQM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Witcher: Nightmare of the Wolf
+*Released on 2021-08-23, vote average 7.9*
+
+Escaping from poverty to become a witcher, Vesemir slays monsters for coin and glory, but when a new menace rises, he must face the demons of his past.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/J365hQpaWRw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -361,16 +339,16 @@ Fresh off the heels of her brand-new album, &#34;Happier Than Ever,&#34; this ci
 	
 	
 
-### The Gateway
-*Released on 2021-09-03, vote average 5.5*
+### Misha and the Wolves
+*Released on 2021-09-03, vote average 8.3*
 
-A social worker assigned to the care of the daughter of a single mother intervenes when the dad returns from prison and lures them into a life of crime.
+A woman’s Holocaust memoir takes the world by storm, but a fallout with her publisher-turned-detective reveals her story as an audacious deception created to hide a darker truth.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/dhzRU54jQtk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xRE5S-B5pJY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -403,10 +381,66 @@ In the near future on a colony of state-of-the-art robots, a private investigato
 
 
 	
+	
+
+### Karen
+*Released on 2021-09-03, vote average 5.8*
+
+A racist woman makes it her personal mission to displace the new Black family that has just moved in next door to her. A community activist and his wife are the couple she&#39;s targeting -- but they won&#39;t back down without a fight.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nfEPWa1ay0U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
+	
+	
+
+### Edge of the World
+*Released on 2021-08-27, vote average 7.2*
+
+Biopic about Sir James Brooke, the British adventurer who became King of Sarawak in the 1840&#39;s and embarked on a lifelong crusade to end piracy and head-hunting - only to face charges of murder and piracy himself.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/YQ8mrNmTPjY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### We Need to Do Something
+*Released on 2021-09-03, vote average 5*
+
+Seeking shelter from a storm, a family finds themselves trapped in a bathroom for days with no sign of rescue and untold evils lurking just beyond the walls.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hpc1KSIabvc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -435,8 +469,6 @@ In the near future on a colony of state-of-the-art robots, a private investigato
 	
 
 	
-	
-	
 
 	
 
@@ -452,6 +484,23 @@ In the near future on a colony of state-of-the-art robots, a private investigato
 
 	
 
+	
+	
+
+### Black Box
+*Released on 2021-09-08, vote average 8*
+
+Matthieu is a young and talented black box analyst on a mission to solve the reason behind the deadly crash of a brand new aircraft. Yet, when the case is closed by authorities, Matthieu cannot help but sense there is something wrong with the evidence. As he listens to the tracks again, he starts detecting some seriously disturbing details. Could the tape have been modified? Going against his boss&#39; orders, Matthieu begins his own rogue investigation - an obsessional and dangerous quest for truth that will quickly threatan far more than his career...
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PXuDemvLFjc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
