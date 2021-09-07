@@ -69,7 +69,7 @@ Shang-Chi must confront the past he thought he left behind when he is drawn into
 	
 
 ### After We Fell
-*Released on 2021-09-01, vote average 8.9*
+*Released on 2021-09-01, vote average 8.8*
 
 Just as Tessa&#39;s life begins to become unglued, nothing is what she thought it would be. Not her friends nor her family. The only person that she should be able to rely on is Hardin, who is furious when he discovers the massive secret that she&#39;s been keeping. Before Tessa makes the biggest decision of her life, everything changes because of revelations about her family.
 
@@ -113,7 +113,7 @@ When a straight-laced couple that has fun with a rowdy couple on vacation in Mex
 	
 
 ### He&#39;s All That
-*Released on 2021-08-27, vote average 7.2*
+*Released on 2021-08-27, vote average 7.1*
 
 To get revenge on her ex-boyfriend, an influencer attempts to transform an unpopular classmate into prom king.
 
@@ -135,7 +135,7 @@ To get revenge on her ex-boyfriend, an influencer attempts to transform an unpop
 	
 
 ### Cinderella
-*Released on 2021-09-03, vote average 6.7*
+*Released on 2021-09-03, vote average 6.8*
 
 Cinderella, an orphaned girl with an evil stepmother, has big dreams and with the help of her Fabulous Godmother, she perseveres to make them come true.
 
@@ -144,28 +144,6 @@ Cinderella, an orphaned girl with an evil stepmother, has big dreams and with th
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/T1NeHRuPpoM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Jurassic Hunt
-*Released on 2021-08-23, vote average 4.8*
-
-Female adventurer Parker joins a crew of male trophy hunters in a remote wilderness park. Their goal: slaughter genetically recreated dinosaurs for sport using rifles, arrows, and grenades. After their guide is killed by raptors, the team tries to escape the park – but the hunters quickly become the hunted. Even worse, the park’s manager suspects Parker of being a spy and sends a hit squad after her. This battle’s about to become primitive!
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/H9gpZqn-TtU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -222,6 +200,28 @@ Inhabited by vampires and masked avengers; and a black hole that lies just benea
 	
 	
 
+### Malignant
+*Released on 2021-09-01, vote average 6*
+
+Madison is paralyzed by shocking visions of grisly murders, and her torment worsens as she discovers that these waking dreams are in fact terrifying realities.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/uRrlAk9kChA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Candyman
 *Released on 2021-08-25, vote average 6.4*
 
@@ -244,37 +244,8 @@ Anthony and his partner move into a loft in the now gentrified Cabrini-Green, an
 	
 	
 
-### Malignant
-*Released on 2021-09-01, vote average 5.8*
-
-Madison is paralyzed by shocking visions of grisly murders, and her torment worsens as she discovers that these waking dreams are in fact terrifying realities.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/uRrlAk9kChA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
 ### Afterlife of the Party
-*Released on 2021-09-02, vote average 7.1*
+*Released on 2021-09-02, vote average 7.2*
 
 A social butterfly who dies during her birthday week is given a second chance to right her wrongs on Earth.
 
@@ -294,21 +265,6 @@ A social butterfly who dies during her birthday week is given a second chance to
 
 	
 	
-
-### The Witcher: Nightmare of the Wolf
-*Released on 2021-08-23, vote average 7.9*
-
-Escaping from poverty to become a witcher, Vesemir slays monsters for coin and glory, but when a new menace rises, he must face the demons of his past.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/J365hQpaWRw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -318,7 +274,7 @@ Escaping from poverty to become a witcher, Vesemir slays monsters for coin and g
 	
 
 ### Happier Than Ever: A Love Letter to Los Angeles
-*Released on 2021-09-03, vote average 9.3*
+*Released on 2021-09-03, vote average 8.6*
 
 Fresh off the heels of her brand-new album, &#34;Happier Than Ever,&#34; this cinematic concert experience features an intimate performance of every song in the album&#39;s sequential order – for the first and only time – from the stage of the legendary Hollywood Bowl.
 
@@ -339,30 +295,8 @@ Fresh off the heels of her brand-new album, &#34;Happier Than Ever,&#34; this ci
 	
 	
 
-### Misha and the Wolves
-*Released on 2021-09-03, vote average 8.3*
-
-A woman’s Holocaust memoir takes the world by storm, but a fallout with her publisher-turned-detective reveals her story as an audacious deception created to hide a darker truth.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xRE5S-B5pJY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Zone 414
-*Released on 2021-09-03, vote average 6*
+*Released on 2021-09-03, vote average 5.9*
 
 In the near future on a colony of state-of-the-art robots, a private investigator is hired by the colony&#39;s creator to bring his missing daughter home.
 
@@ -371,28 +305,6 @@ In the near future on a colony of state-of-the-art robots, a private investigato
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/a-7FSyHFl6s?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Karen
-*Released on 2021-09-03, vote average 5.8*
-
-A racist woman makes it her personal mission to displace the new Black family that has just moved in next door to her. A community activist and his wife are the couple she&#39;s targeting -- but they won&#39;t back down without a fight.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nfEPWa1ay0U?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -427,6 +339,72 @@ Biopic about Sir James Brooke, the British adventurer who became King of Sarawak
 	
 	
 
+### Misha and the Wolves
+*Released on 2021-09-03, vote average 8.9*
+
+A woman’s Holocaust memoir takes the world by storm, but a fallout with her publisher-turned-detective reveals her story as an audacious deception created to hide a darker truth.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xRE5S-B5pJY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Card Counter
+*Released on 2021-09-03, vote average 6.8*
+
+William Tell just wants to play cards. His spartan existence on the casino trail is shattered when he is approached by Cirk, a vulnerable and angry young man seeking help to execute his plan for revenge on a military colonel. Tell sees a chance at redemption through his relationship with Cirk. But keeping Cirk on the straight-and-narrow proves impossible, dragging Tell back into the darkness of his past.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/7RvVT1cDiNc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Worth
+*Released on 2021-08-27, vote average 6.9*
+
+Kenneth Feinberg, a powerful D.C. lawyer appointed Special Master of the 9/11 Fund, fights off the cynicism, bureaucracy, and politics associated with administering government funds and, in doing so, discovers what life is worth.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/OOAemeB9CAw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### We Need to Do Something
 *Released on 2021-09-03, vote average 5*
 
@@ -437,6 +415,28 @@ Seeking shelter from a storm, a family finds themselves trapped in a bathroom fo
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/hpc1KSIabvc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Burial Ground Massacre
+*Released on 2021-09-03, vote average 2*
+
+A group of college students spend a night at an old, eerie manor, only to realize that a terrifying stalker is watching their every move as he begins plans to repossess an ancient Native American artifact located inside.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/H6lfr-IxnMM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -457,23 +457,22 @@ Seeking shelter from a storm, a family finds themselves trapped in a bathroom fo
 	
 
 	
-
 	
 
-	
+### All the Streets Are Silent: The Convergence of Hip Hop and Skateboarding (1987-1997)
+*Released on 2021-09-07, vote average 7*
+
+In the late 1980s and early 1990s, skateboarding and hip-hop culture collide in downtown Manhattan. Archival footage from the era showcases the fusion of these two forms of expression.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/I47ZfSDoZcQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
@@ -501,6 +500,24 @@ Matthieu is a young and talented black box analyst on a mission to solve the rea
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
