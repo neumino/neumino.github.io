@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### The Tomorrow War
-*Released on 2021-09-03, vote average 7.8*
+### Shang-Chi and the Legend of the Ten Rings
+*Released on 2021-09-01, vote average 8*
 
-The world is stunned when a group of time travelers arrive from the year 2051 to deliver an urgent message: Thirty years in the future, mankind is losing a global war against a deadly alien species. The only hope for survival is for soldiers and civilians from the present to be transported to the future and join the fight. Among those recruited is high school teacher and family man Dan Forester. Determined to save the world for his young daughter, Dan teams up with a brilliant scientist and his estranged father in a desperate quest to rewrite the fate of the planet.
+Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/6nqKBKw7bDA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/EhJ__cEzMd0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,38 +46,16 @@ The world is stunned when a group of time travelers arrive from the year 2051 to
 	
 	
 
-### Shang-Chi and the Legend of the Ten Rings
-*Released on 2021-09-01, vote average 8*
+### The Tomorrow War
+*Released on 2021-09-03, vote average 7.8*
 
-Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IakshlFHetY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### After We Fell
-*Released on 2021-09-01, vote average 8.8*
-
-Just as Tessa&#39;s life begins to become unglued, nothing is what she thought it would be. Not her friends nor her family. The only person that she should be able to rely on is Hardin, who is furious when he discovers the massive secret that she&#39;s been keeping. Before Tessa makes the biggest decision of her life, everything changes because of revelations about her family.
+The world is stunned when a group of time travelers arrive from the year 2051 to deliver an urgent message: Thirty years in the future, mankind is losing a global war against a deadly alien species. The only hope for survival is for soldiers and civilians from the present to be transported to the future and join the fight. Among those recruited is high school teacher and family man Dan Forester. Determined to save the world for his young daughter, Dan teams up with a brilliant scientist and his estranged father in a desperate quest to rewrite the fate of the planet.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/NYdNN6C9hfI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/6nqKBKw7bDA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,38 +90,16 @@ Cinderella, an orphaned girl with an evil stepmother, has big dreams and with th
 	
 	
 
-### Vacation Friends
-*Released on 2021-08-27, vote average 7.5*
+### After We Fell
+*Released on 2021-09-01, vote average 8.7*
 
-When a straight-laced couple that has fun with a rowdy couple on vacation in Mexico return to the States, they discover that the crazy couple they met in Mexico followed them back home and decide to play tricks on them.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/HFoGrNBkZZU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### He&#39;s All That
-*Released on 2021-08-27, vote average 7.1*
-
-To get revenge on her ex-boyfriend, an influencer attempts to transform an unpopular classmate into prom king.
+Just as Tessa&#39;s life begins to become unglued, nothing is what she thought it would be. Not her friends nor her family. The only person that she should be able to rely on is Hardin, who is furious when he discovers the massive secret that she&#39;s been keeping. Before Tessa makes the biggest decision of her life, everything changes because of revelations about her family.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/XqTPaRz8Nx8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/NYdNN6C9hfI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -178,16 +134,60 @@ The Earthrealm heroes must journey to the Outworld and fight for the survival of
 	
 	
 
-### The Show
-*Released on 2021-08-26, vote average 6.5*
+### Vacation Friends
+*Released on 2021-08-27, vote average 7.4*
 
-Inhabited by vampires and masked avengers; and a black hole that lies just beneath the surface of this seemingly peaceful city.
+When a straight-laced couple that has fun with a rowdy couple on vacation in Mexico return to the States, they discover that the crazy couple they met in Mexico followed them back home and decide to play tricks on them.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/4J2JQCx0VzI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/HFoGrNBkZZU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### He&#39;s All That
+*Released on 2021-08-27, vote average 7*
+
+To get revenge on her ex-boyfriend, an influencer attempts to transform an unpopular classmate into prom king.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/XqTPaRz8Nx8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Afterlife of the Party
+*Released on 2021-09-02, vote average 7.1*
+
+A social butterfly who dies during her birthday week is given a second chance to right her wrongs on Earth.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kFIbSnJ9tQM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -222,60 +222,16 @@ Madison is paralyzed by shocking visions of grisly murders, and her torment wors
 	
 	
 
-### Afterlife of the Party
-*Released on 2021-09-02, vote average 7.2*
+### The Show
+*Released on 2021-08-26, vote average 6.2*
 
-A social butterfly who dies during her birthday week is given a second chance to right her wrongs on Earth.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kFIbSnJ9tQM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Candyman
-*Released on 2021-08-25, vote average 6.5*
-
-Anthony and his partner move into a loft in the now gentrified Cabrini-Green, and after a chance encounter with an old-timer exposes Anthony to the true story behind Candyman, he unknowingly opens a door to a complex past that unravels his own sanity and unleashes a terrifying wave of violence.
+Inhabited by vampires and masked avengers; and a black hole that lies just beneath the surface of this seemingly peaceful city.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/k-mp2j0PeeI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Zone 414
-*Released on 2021-09-03, vote average 5.9*
-
-In the near future on a colony of state-of-the-art robots, a private investigator is hired by the colony&#39;s creator to bring his missing daughter home.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/a-7FSyHFl6s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/4J2JQCx0VzI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -289,7 +245,7 @@ In the near future on a colony of state-of-the-art robots, a private investigato
 	
 
 ### Edge of the World
-*Released on 2021-08-27, vote average 7.2*
+*Released on 2021-08-27, vote average 5.9*
 
 Biopic about Sir James Brooke, the British adventurer who became King of Sarawak in the 1840&#39;s and embarked on a lifelong crusade to end piracy and head-hunting - only to face charges of murder and piracy himself.
 
@@ -317,8 +273,30 @@ Biopic about Sir James Brooke, the British adventurer who became King of Sarawak
 	
 	
 
+### Worth
+*Released on 2021-08-27, vote average 7.3*
+
+Kenneth Feinberg, a powerful D.C. lawyer appointed Special Master of the 9/11 Fund, fights off the cynicism, bureaucracy, and politics associated with administering government funds and, in doing so, discovers what life is worth.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/OOAemeB9CAw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Happier Than Ever: A Love Letter to Los Angeles
-*Released on 2021-09-03, vote average 8.6*
+*Released on 2021-09-03, vote average 8.3*
 
 Fresh off the heels of her brand-new album, &#34;Happier Than Ever,&#34; this cinematic concert experience features an intimate performance of every song in the album&#39;s sequential order – for the first and only time – from the stage of the legendary Hollywood Bowl.
 
@@ -330,6 +308,35 @@ Fresh off the heels of her brand-new album, &#34;Happier Than Ever,&#34; this ci
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+	
+
+### Zone 414
+*Released on 2021-09-03, vote average 6.3*
+
+In the near future on a colony of state-of-the-art robots, a private investigator is hired by the colony&#39;s creator to bring his missing daughter home.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/a-7FSyHFl6s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -361,37 +368,8 @@ A woman’s Holocaust memoir takes the world by storm, but a fallout with her pu
 	
 	
 
-### Worth
-*Released on 2021-08-27, vote average 7.2*
-
-Kenneth Feinberg, a powerful D.C. lawyer appointed Special Master of the 9/11 Fund, fights off the cynicism, bureaucracy, and politics associated with administering government funds and, in doing so, discovers what life is worth.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/OOAemeB9CAw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
 ### Yakuza Princess
-*Released on 2021-08-26, vote average 6.6*
+*Released on 2021-08-26, vote average 6.8*
 
 In Brazil, Akemi finds out that she&#39;s the heiress to the Yakuza empire. Just after that, her destiny enters a spiral of violence and mystery, where a gaijin (foreigner) who’s been protecting her all this time, Shiro, may have been actually sent to kill her.
 
@@ -416,6 +394,28 @@ In Brazil, Akemi finds out that she&#39;s the heiress to the Yakuza empire. Just
   
 
 
+	
+	
+
+### Megalodon Rising
+*Released on 2021-08-27, vote average 6.8*
+
+When history’s greatest aquatic predator returns, the armada of modern warships sent to destroy it has no chance at all.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Ai5raaW_fPM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -423,26 +423,18 @@ In Brazil, Akemi finds out that she&#39;s the heiress to the Yakuza empire. Just
 	
 
 	
-
 	
 
-	
+### Dune
+*Released on 2021-09-15, vote average 2*
 
-	
-
-	
-	
-
-### Black Box
-*Released on 2021-09-08, vote average 8*
-
-Matthieu is a young and talented black box analyst on a mission to solve the reason behind the deadly crash of a brand new aircraft. Yet, when the case is closed by authorities, Matthieu cannot help but sense there is something wrong with the evidence. As he listens to the tracks again, he starts detecting some seriously disturbing details. Could the tape have been modified? Going against his boss&#39; orders, Matthieu begins his own rogue investigation - an obsessional and dangerous quest for truth that will quickly threatan far more than his career...
+Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet&#39;s exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity&#39;s greatest potential-only those who can conquer their fear will survive.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/PXuDemvLFjc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/8g18jFHCLXk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -467,6 +459,31 @@ Matthieu is a young and talented black box analyst on a mission to solve the rea
 
 	
 
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Howard Lovecraft and the Kingdom of Madness
+*Released on 2021-09-09, vote average 9*
+
+Returning from his previous adventure,  Howard Lovecraft must lead an expedition  to Antarctica, to prevent the awakening of Cthulhu!
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/412EGH2OxzI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
