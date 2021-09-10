@@ -21,7 +21,7 @@ Shang-Chi must confront the past he thought he left behind when he is drawn into
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/EhJ__cEzMd0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/MjVmL5x2Uvc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -47,7 +47,7 @@ Shang-Chi must confront the past he thought he left behind when he is drawn into
 	
 
 ### The Tomorrow War
-*Released on 2021-09-03, vote average 7.8*
+*Released on 2021-09-03, vote average 7.7*
 
 The world is stunned when a group of time travelers arrive from the year 2051 to deliver an urgent message: Thirty years in the future, mankind is losing a global war against a deadly alien species. The only hope for survival is for soldiers and civilians from the present to be transported to the future and join the fight. Among those recruited is high school teacher and family man Dan Forester. Determined to save the world for his young daughter, Dan teams up with a brilliant scientist and his estranged father in a desperate quest to rewrite the fate of the planet.
 
@@ -90,30 +90,8 @@ Cinderella, an orphaned girl with an evil stepmother, has big dreams and with th
 	
 	
 
-### After We Fell
-*Released on 2021-09-01, vote average 8.7*
-
-Just as Tessa&#39;s life begins to become unglued, nothing is what she thought it would be. Not her friends nor her family. The only person that she should be able to rely on is Hardin, who is furious when he discovers the massive secret that she&#39;s been keeping. Before Tessa makes the biggest decision of her life, everything changes because of revelations about her family.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/NYdNN6C9hfI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Mortal Kombat Legends: Battle of the Realms
-*Released on 2021-08-30, vote average 8.3*
+*Released on 2021-08-30, vote average 8.2*
 
 The Earthrealm heroes must journey to the Outworld and fight for the survival of their homeland, invaded by the forces of evil warlord Shao Kahn, in the tournament to end all tournaments: the final Mortal Kombat.
 
@@ -134,8 +112,30 @@ The Earthrealm heroes must journey to the Outworld and fight for the survival of
 	
 	
 
+### After We Fell
+*Released on 2021-09-01, vote average 8.6*
+
+Just as Tessa&#39;s life begins to become unglued, nothing is what she thought it would be. Not her friends nor her family. The only person that she should be able to rely on is Hardin, who is furious when he discovers the massive secret that she&#39;s been keeping. Before Tessa makes the biggest decision of her life, everything changes because of revelations about her family.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/NYdNN6C9hfI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Vacation Friends
-*Released on 2021-08-27, vote average 7.4*
+*Released on 2021-08-27, vote average 7.5*
 
 When a straight-laced couple that has fun with a rowdy couple on vacation in Mexico return to the States, they discover that the crazy couple they met in Mexico followed them back home and decide to play tricks on them.
 
@@ -157,7 +157,7 @@ When a straight-laced couple that has fun with a rowdy couple on vacation in Mex
 	
 
 ### He&#39;s All That
-*Released on 2021-08-27, vote average 7*
+*Released on 2021-08-27, vote average 7.1*
 
 To get revenge on her ex-boyfriend, an influencer attempts to transform an unpopular classmate into prom king.
 
@@ -201,7 +201,7 @@ A social butterfly who dies during her birthday week is given a second chance to
 	
 
 ### Malignant
-*Released on 2021-09-01, vote average 6.3*
+*Released on 2021-09-01, vote average 6.4*
 
 Madison is paralyzed by shocking visions of grisly murders, and her torment worsens as she discovers that these waking dreams are in fact terrifying realities.
 
@@ -210,28 +210,6 @@ Madison is paralyzed by shocking visions of grisly murders, and her torment wors
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/uRrlAk9kChA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Show
-*Released on 2021-08-26, vote average 6.2*
-
-Inhabited by vampires and masked avengers; and a black hole that lies just beneath the surface of this seemingly peaceful city.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/4J2JQCx0VzI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -265,13 +243,6 @@ Biopic about Sir James Brooke, the British adventurer who became King of Sarawak
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Worth
 *Released on 2021-08-27, vote average 7.3*
@@ -294,9 +265,23 @@ Kenneth Feinberg, a powerful D.C. lawyer appointed Special Master of the 9/11 Fu
 
 	
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
 
 ### Happier Than Ever: A Love Letter to Los Angeles
-*Released on 2021-09-03, vote average 8.3*
+*Released on 2021-09-03, vote average 8.2*
 
 Fresh off the heels of her brand-new album, &#34;Happier Than Ever,&#34; this cinematic concert experience features an intimate performance of every song in the album&#39;s sequential order – for the first and only time – from the stage of the legendary Hollywood Bowl.
 
@@ -308,35 +293,6 @@ Fresh off the heels of her brand-new album, &#34;Happier Than Ever,&#34; this ci
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
-	
-
-### Zone 414
-*Released on 2021-09-03, vote average 6.3*
-
-In the near future on a colony of state-of-the-art robots, a private investigator is hired by the colony&#39;s creator to bring his missing daughter home.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/a-7FSyHFl6s?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -366,18 +322,23 @@ A woman’s Holocaust memoir takes the world by storm, but a fallout with her pu
 
 
 	
+
+  
+
+
+	
 	
 
-### Yakuza Princess
-*Released on 2021-08-26, vote average 6.8*
+### Zone 414
+*Released on 2021-09-03, vote average 5.9*
 
-In Brazil, Akemi finds out that she&#39;s the heiress to the Yakuza empire. Just after that, her destiny enters a spiral of violence and mystery, where a gaijin (foreigner) who’s been protecting her all this time, Shiro, may have been actually sent to kill her.
+In the near future on a colony of state-of-the-art robots, a private investigator is hired by the colony&#39;s creator to bring his missing daughter home.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/doV5_j3l7GA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/a-7FSyHFl6s?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -388,7 +349,10 @@ In Brazil, Akemi finds out that she&#39;s the heiress to the Yakuza empire. Just
 
 
 	
-	
+
+  
+
+
 	
 
   
@@ -398,7 +362,7 @@ In Brazil, Akemi finds out that she&#39;s the heiress to the Yakuza empire. Just
 	
 
 ### Megalodon Rising
-*Released on 2021-08-27, vote average 6.8*
+*Released on 2021-08-27, vote average 7*
 
 When history’s greatest aquatic predator returns, the armada of modern warships sent to destroy it has no chance at all.
 
@@ -426,7 +390,7 @@ When history’s greatest aquatic predator returns, the armada of modern warship
 	
 
 ### Dune
-*Released on 2021-09-15, vote average 2*
+*Released on 2021-09-15, vote average 5.8*
 
 Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet&#39;s exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity&#39;s greatest potential-only those who can conquer their fear will survive.
 
@@ -458,6 +422,8 @@ Paul Atreides, a brilliant and gifted young man born into a great destiny beyond
 	
 
 	
+	
+	
 
 	
 
@@ -470,16 +436,16 @@ Paul Atreides, a brilliant and gifted young man born into a great destiny beyond
 	
 	
 
-### Howard Lovecraft and the Kingdom of Madness
-*Released on 2021-09-09, vote average 9*
+### The Wonderful: Stories from the Space Station
+*Released on 2021-09-10, vote average 10*
 
-Returning from his previous adventure,  Howard Lovecraft must lead an expedition  to Antarctica, to prevent the awakening of Cthulhu!
+In unusual circumstances, scientists from different countries work together to achieve a common scientific goal. Locked in their spinning space lab, they are isolated from the world — family and friends - and can only watch from the outside as life on Earth continues without them. The space station is a monument not only to the weaknesses of humanity, but also to its ability to do the impossible for the sake of life in space.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/412EGH2OxzI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/6J6pzE_JfmE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
