@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Shang-Chi and the Legend of the Ten Rings
-*Released on 2021-09-01, vote average 7.9*
+*Released on 2021-09-01, vote average 8*
 
 Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.
 
@@ -91,7 +91,7 @@ Cinderella, an orphaned girl with an evil stepmother, has big dreams and with th
 	
 
 ### Mortal Kombat Legends: Battle of the Realms
-*Released on 2021-08-30, vote average 8.3*
+*Released on 2021-08-30, vote average 8.2*
 
 The Earthrealm heroes must journey to the Outworld and fight for the survival of their homeland, invaded by the forces of evil warlord Shao Kahn, in the tournament to end all tournaments: the final Mortal Kombat.
 
@@ -135,7 +135,7 @@ Just as Tessa&#39;s life begins to become unglued, nothing is what she thought i
 	
 
 ### Afterlife of the Party
-*Released on 2021-09-02, vote average 7.1*
+*Released on 2021-09-02, vote average 7*
 
 A social butterfly who dies during her birthday week is given a second chance to right her wrongs on Earth.
 
@@ -157,7 +157,7 @@ A social butterfly who dies during her birthday week is given a second chance to
 	
 
 ### Malignant
-*Released on 2021-09-01, vote average 6.4*
+*Released on 2021-09-01, vote average 7*
 
 Madison is paralyzed by shocking visions of grisly murders, and her torment worsens as she discovers that these waking dreams are in fact terrifying realities.
 
@@ -177,16 +177,9 @@ Madison is paralyzed by shocking visions of grisly murders, and her torment wors
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Kate
-*Released on 2021-09-10, vote average 5.5*
+*Released on 2021-09-10, vote average 6.8*
 
 After she&#39;s irreversibly poisoned, a ruthless criminal operative has less than 24 hours to exact revenge on her enemies and in the process forms an unexpected bond with the daughter of one of her past victims.
 
@@ -195,6 +188,57 @@ After she&#39;s irreversibly poisoned, a ruthless criminal operative has less th
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/MysGjRS9jFU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### JJ Plus E
+*Released on 2021-09-08, vote average 6.3*
+
+Elisabeth and John-John live in the same city, but they inhabit different worlds.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/HAyYPe-zCcQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Blood Brothers: Malcolm X And Muhammad Ali
+*Released on 2021-09-09, vote average 7.8*
+
+From a chance meeting to a tragic fallout, Malcolm X and Muhammad Ali&#39;s extraordinary bond cracks under the weight of distrust and shifting ideals.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/gvOAuxFCGeU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -227,18 +271,23 @@ A woman’s Holocaust memoir takes the world by storm, but a fallout with her pu
 
 
 	
+
+  
+
+
+	
 	
 
-### Small Engine Repair
-*Released on 2021-09-10, vote average 2*
+### Happier Than Ever: A Love Letter to Los Angeles
+*Released on 2021-09-03, vote average 8.2*
 
-Blue collar childhood buddies Frank, Swaino and Packie - deeply bonded over Frank’s daughter Crystal, who they helped raise - meet off-hours one night in Frank’s out-of-the-way repair shop under cloudy circumstances that only Frank seems to have a handle on. Enter Chad, a rich, college jock, whose arrival ignites a long-simmering resentment that sets this dark, twisty drama on its breathless course.
+Fresh off the heels of her brand-new album, &#34;Happier Than Ever,&#34; this cinematic concert experience features an intimate performance of every song in the album&#39;s sequential order – for the first and only time – from the stage of the legendary Hollywood Bowl.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/XTuRa0dqX7s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/B1q_mxkGUTg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -252,7 +301,7 @@ Blue collar childhood buddies Frank, Swaino and Packie - deeply bonded over Fran
 	
 
 ### Zone 414
-*Released on 2021-09-03, vote average 6.4*
+*Released on 2021-09-03, vote average 6.2*
 
 In the near future on a colony of state-of-the-art robots, a private investigator is hired by the colony&#39;s creator to bring his missing daughter home.
 
@@ -293,18 +342,23 @@ Op and Ed, two adorable donut-shaped animals - flummels - accidentally time-trav
 
 
 	
+
+  
+
+
+	
 	
 
-### Happier Than Ever: A Love Letter to Los Angeles
-*Released on 2021-09-03, vote average 8.2*
+### Prey
+*Released on 2021-09-10, vote average 4.7*
 
-Fresh off the heels of her brand-new album, &#34;Happier Than Ever,&#34; this cinematic concert experience features an intimate performance of every song in the album&#39;s sequential order – for the first and only time – from the stage of the legendary Hollywood Bowl.
+A hiking trip into the wild turns into a desperate bid for survival for five friends on the run from a mysterious shooter.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/B1q_mxkGUTg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/XeZmKxWqqbs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -317,74 +371,20 @@ Fresh off the heels of her brand-new album, &#34;Happier Than Ever,&#34; this ci
 	
 	
 
-### JJ Plus E
-*Released on 2021-09-08, vote average 5.6*
+### Small Engine Repair
+*Released on 2021-09-10, vote average 2*
 
-Elisabeth and John-John live in the same city, but they inhabit different worlds.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/HAyYPe-zCcQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Copshop
-*Released on 2021-09-09, vote average 2*
-
-Screaming through the Nevada desert in a bullet-ridden Crown Vic, wily con artist Teddy Murretto hatches a desperate plan to hide out from lethal hitman Bob Viddick: he sucker-punches rookie officer Valerie Young to get himself arrested and locked up in a small-town police station. But jail can’t protect Murretto for long, and Viddick soon schemes his own way into detention, biding his time in a nearby cell until he can complete his mission. When the arrival of a competing assassin ignites all-out mayhem, mounting threats force Viddick to get creative if he wants to finish the job and escape the explosive situation.
+Blue collar childhood buddies Frank, Swaino and Packie - deeply bonded over Frank’s daughter Crystal, who they helped raise - meet off-hours one night in Frank’s out-of-the-way repair shop under cloudy circumstances that only Frank seems to have a handle on. Enter Chad, a rich, college jock, whose arrival ignites a long-simmering resentment that sets this dark, twisty drama on its breathless course.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/uFlyLJbzCt4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/XTuRa0dqX7s?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Blood Brothers: Malcolm X &amp; Muhammad Ali
-*Released on 2021-09-09, vote average 7.5*
-
-From a chance meeting to a tragic fallout, Malcolm X and Muhammad Ali&#39;s extraordinary bond cracks under the weight of distrust and shifting ideals.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/gvOAuxFCGeU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -403,7 +403,7 @@ From a chance meeting to a tragic fallout, Malcolm X and Muhammad Ali&#39;s extr
 	
 
 ### Dune
-*Released on 2021-09-15, vote average 5.8*
+*Released on 2021-09-15, vote average 4.6*
 
 Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet&#39;s exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity&#39;s greatest potential-only those who can conquer their fear will survive.
 
