@@ -134,30 +134,8 @@ Just as Tessa&#39;s life begins to become unglued, nothing is what she thought i
 	
 	
 
-### Afterlife of the Party
-*Released on 2021-09-02, vote average 7*
-
-A social butterfly who dies during her birthday week is given a second chance to right her wrongs on Earth.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kFIbSnJ9tQM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Malignant
-*Released on 2021-09-01, vote average 7*
+*Released on 2021-09-01, vote average 7.2*
 
 Madison is paralyzed by shocking visions of grisly murders, and her torment worsens as she discovers that these waking dreams are in fact terrifying realities.
 
@@ -178,8 +156,30 @@ Madison is paralyzed by shocking visions of grisly murders, and her torment wors
 	
 	
 
+### Afterlife of the Party
+*Released on 2021-09-02, vote average 7.1*
+
+A social butterfly who dies during her birthday week is given a second chance to right her wrongs on Earth.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kFIbSnJ9tQM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Kate
-*Released on 2021-09-10, vote average 6.8*
+*Released on 2021-09-10, vote average 6.1*
 
 After she&#39;s irreversibly poisoned, a ruthless criminal operative has less than 24 hours to exact revenge on her enemies and in the process forms an unexpected bond with the daughter of one of her past victims.
 
@@ -199,16 +199,9 @@ After she&#39;s irreversibly poisoned, a ruthless criminal operative has less th
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### JJ Plus E
-*Released on 2021-09-08, vote average 6.3*
+*Released on 2021-09-08, vote average 6*
 
 Elisabeth and John-John live in the same city, but they inhabit different worlds.
 
@@ -228,8 +221,37 @@ Elisabeth and John-John live in the same city, but they inhabit different worlds
 
 	
 	
+	
 
-### Blood Brothers: Malcolm X And Muhammad Ali
+  
+
+
+	
+	
+
+### Happier Than Ever: A Love Letter to Los Angeles
+*Released on 2021-09-03, vote average 8.4*
+
+Fresh off the heels of her brand-new album, &#34;Happier Than Ever,&#34; this cinematic concert experience features an intimate performance of every song in the album&#39;s sequential order – for the first and only time – from the stage of the legendary Hollywood Bowl.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/B1q_mxkGUTg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Blood Brothers: Malcolm X and Muhammad Ali
 *Released on 2021-09-09, vote average 7.8*
 
 From a chance meeting to a tragic fallout, Malcolm X and Muhammad Ali&#39;s extraordinary bond cracks under the weight of distrust and shifting ideals.
@@ -271,6 +293,23 @@ A woman’s Holocaust memoir takes the world by storm, but a fallout with her pu
 
 
 	
+	
+
+### Prey
+*Released on 2021-09-10, vote average 3.7*
+
+A hiking trip into the wild turns into a desperate bid for survival for five friends on the run from a mysterious shooter.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/XeZmKxWqqbs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -278,16 +317,16 @@ A woman’s Holocaust memoir takes the world by storm, but a fallout with her pu
 	
 	
 
-### Happier Than Ever: A Love Letter to Los Angeles
-*Released on 2021-09-03, vote average 8.2*
+### Come From Away
+*Released on 2021-09-10, vote average 8.5*
 
-Fresh off the heels of her brand-new album, &#34;Happier Than Ever,&#34; this cinematic concert experience features an intimate performance of every song in the album&#39;s sequential order – for the first and only time – from the stage of the legendary Hollywood Bowl.
+7,000 passengers are stranded in the small town of Gander, Newfoundland after all flights into the US are grounded on September 11, 2001. Filmed live on stage at the Gerald Schoenfeld Theater in New York City.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/B1q_mxkGUTg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Af77C4zUkjs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -322,69 +361,47 @@ In the near future on a colony of state-of-the-art robots, a private investigato
 	
 	
 
-### Extinct
-*Released on 2021-09-03, vote average 6.5*
-
-Op and Ed, two adorable donut-shaped animals - flummels - accidentally time-travel from 1835 to modern-day Shanghai.  There they discover traffic, trans fats, and worst of all, that flummels are now extinct. It&#39;s up to this bumbling pair to save themselves and their species...and, just maybe, change the course of history.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/bk0Q-zuUFfc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Prey
-*Released on 2021-09-10, vote average 4.7*
-
-A hiking trip into the wild turns into a desperate bid for survival for five friends on the run from a mysterious shooter.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XeZmKxWqqbs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Small Engine Repair
+### Dating &amp; New York
 *Released on 2021-09-10, vote average 2*
 
-Blue collar childhood buddies Frank, Swaino and Packie - deeply bonded over Frank’s daughter Crystal, who they helped raise - meet off-hours one night in Frank’s out-of-the-way repair shop under cloudy circumstances that only Frank seems to have a handle on. Enter Chad, a rich, college jock, whose arrival ignites a long-simmering resentment that sets this dark, twisty drama on its breathless course.
+After meeting on the dating app Meet Cute and having a one-night stand, two New York millennials draw up a &#34;Best Friends With Benefits&#34; contract to avoid the pitfalls of a relationship.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/XTuRa0dqX7s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/wKfOZGfyrG8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Catch the Bullet
+*Released on 2021-09-10, vote average 5*
+
+U.S. marshal Britt MacMasters returns from a mission to find his father wounded and his son kidnapped by the outlaw Jed Blake. Hot on their trail, Britt forms a posse with a gunslinging deputy and a stoic Pawnee tracker. But Jed and Britt tread dangerously close to the Red Desert’s Sioux territory.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QBDVS3HzToc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -403,7 +420,7 @@ Blue collar childhood buddies Frank, Swaino and Packie - deeply bonded over Fran
 	
 
 ### Dune
-*Released on 2021-09-15, vote average 4.6*
+*Released on 2021-09-15, vote average 6.4*
 
 Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet&#39;s exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity&#39;s greatest potential-only those who can conquer their fear will survive.
 
@@ -432,6 +449,8 @@ Paul Atreides, a brilliant and gifted young man born into a great destiny beyond
 
 	
 
+	
+	
 	
 
 	
