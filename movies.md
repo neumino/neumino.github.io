@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Shang-Chi and the Legend of the Ten Rings
-*Released on 2021-09-01, vote average 8*
+### The Tomorrow War
+*Released on 2021-09-03, vote average 7.6*
 
-Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.
+The world is stunned when a group of time travelers arrive from the year 2051 to deliver an urgent message: Thirty years in the future, mankind is losing a global war against a deadly alien species. The only hope for survival is for soldiers and civilians from the present to be transported to the future and join the fight. Among those recruited is high school teacher and family man Dan Forester. Determined to save the world for his young daughter, Dan teams up with a brilliant scientist and his estranged father in a desperate quest to rewrite the fate of the planet.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/MjVmL5x2Uvc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/6nqKBKw7bDA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ Shang-Chi must confront the past he thought he left behind when he is drawn into
 	
 	
 
-### The Tomorrow War
-*Released on 2021-09-03, vote average 7.7*
+### Shang-Chi and the Legend of the Ten Rings
+*Released on 2021-09-01, vote average 8*
 
-The world is stunned when a group of time travelers arrive from the year 2051 to deliver an urgent message: Thirty years in the future, mankind is losing a global war against a deadly alien species. The only hope for survival is for soldiers and civilians from the present to be transported to the future and join the fight. Among those recruited is high school teacher and family man Dan Forester. Determined to save the world for his young daughter, Dan teams up with a brilliant scientist and his estranged father in a desperate quest to rewrite the fate of the planet.
+Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/6nqKBKw7bDA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/MjVmL5x2Uvc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -90,30 +90,8 @@ Cinderella, an orphaned girl with an evil stepmother, has big dreams and with th
 	
 	
 
-### Mortal Kombat Legends: Battle of the Realms
-*Released on 2021-08-30, vote average 8.2*
-
-The Earthrealm heroes must journey to the Outworld and fight for the survival of their homeland, invaded by the forces of evil warlord Shao Kahn, in the tournament to end all tournaments: the final Mortal Kombat.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hRRtd7Etato?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### After We Fell
-*Released on 2021-09-01, vote average 8.6*
+*Released on 2021-09-01, vote average 8.5*
 
 Just as Tessa&#39;s life begins to become unglued, nothing is what she thought it would be. Not her friends nor her family. The only person that she should be able to rely on is Hardin, who is furious when he discovers the massive secret that she&#39;s been keeping. Before Tessa makes the biggest decision of her life, everything changes because of revelations about her family.
 
@@ -135,7 +113,7 @@ Just as Tessa&#39;s life begins to become unglued, nothing is what she thought i
 	
 
 ### Malignant
-*Released on 2021-09-01, vote average 7.2*
+*Released on 2021-09-01, vote average 7.3*
 
 Madison is paralyzed by shocking visions of grisly murders, and her torment worsens as she discovers that these waking dreams are in fact terrifying realities.
 
@@ -179,7 +157,7 @@ A social butterfly who dies during her birthday week is given a second chance to
 	
 
 ### Kate
-*Released on 2021-09-10, vote average 6.1*
+*Released on 2021-09-10, vote average 6.5*
 
 After she&#39;s irreversibly poisoned, a ruthless criminal operative has less than 24 hours to exact revenge on her enemies and in the process forms an unexpected bond with the daughter of one of her past victims.
 
@@ -201,7 +179,7 @@ After she&#39;s irreversibly poisoned, a ruthless criminal operative has less th
 	
 
 ### JJ Plus E
-*Released on 2021-09-08, vote average 6*
+*Released on 2021-09-08, vote average 6.3*
 
 Elisabeth and John-John live in the same city, but they inhabit different worlds.
 
@@ -213,13 +191,6 @@ Elisabeth and John-John live in the same city, but they inhabit different worlds
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -250,43 +221,6 @@ Fresh off the heels of her brand-new album, &#34;Happier Than Ever,&#34; this ci
 
 	
 	
-
-### Blood Brothers: Malcolm X and Muhammad Ali
-*Released on 2021-09-09, vote average 7.8*
-
-From a chance meeting to a tragic fallout, Malcolm X and Muhammad Ali&#39;s extraordinary bond cracks under the weight of distrust and shifting ideals.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/gvOAuxFCGeU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Misha and the Wolves
-*Released on 2021-09-03, vote average 8.9*
-
-A woman’s Holocaust memoir takes the world by storm, but a fallout with her publisher-turned-detective reveals her story as an audacious deception created to hide a darker truth.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xRE5S-B5pJY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -296,7 +230,7 @@ A woman’s Holocaust memoir takes the world by storm, but a fallout with her pu
 	
 
 ### Prey
-*Released on 2021-09-10, vote average 3.7*
+*Released on 2021-09-10, vote average 4*
 
 A hiking trip into the wild turns into a desperate bid for survival for five friends on the run from a mysterious shooter.
 
@@ -317,16 +251,16 @@ A hiking trip into the wild turns into a desperate bid for survival for five fri
 	
 	
 
-### Come From Away
-*Released on 2021-09-10, vote average 8.5*
+### Misha and the Wolves
+*Released on 2021-09-03, vote average 8.3*
 
-7,000 passengers are stranded in the small town of Gander, Newfoundland after all flights into the US are grounded on September 11, 2001. Filmed live on stage at the Gerald Schoenfeld Theater in New York City.
+A woman’s Holocaust memoir takes the world by storm, but a fallout with her publisher-turned-detective reveals her story as an audacious deception created to hide a darker truth.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Af77C4zUkjs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xRE5S-B5pJY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -361,16 +295,104 @@ In the near future on a colony of state-of-the-art robots, a private investigato
 	
 	
 
-### Dating &amp; New York
-*Released on 2021-09-10, vote average 2*
+### Blood Brothers: Malcolm X and Muhammad Ali
+*Released on 2021-09-09, vote average 7.4*
 
-After meeting on the dating app Meet Cute and having a one-night stand, two New York millennials draw up a &#34;Best Friends With Benefits&#34; contract to avoid the pitfalls of a relationship.
+From a chance meeting to a tragic fallout, Malcolm X and Muhammad Ali&#39;s extraordinary bond cracks under the weight of distrust and shifting ideals.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/wKfOZGfyrG8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/gvOAuxFCGeU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Come From Away
+*Released on 2021-09-10, vote average 8.8*
+
+7,000 passengers are stranded in the small town of Gander, Newfoundland after all flights into the US are grounded on September 11, 2001. Filmed live on stage at the Gerald Schoenfeld Theater in New York City.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Af77C4zUkjs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Prisoners of the Ghostland
+*Released on 2021-08-31, vote average 7*
+
+In the treacherous frontier city of Samurai Town, a ruthless bank robber is sprung from jail by wealthy warlord The Governor, whose adopted granddaughter Bernice has gone missing. The Governor offers the prisoner his freedom in exchange for retrieving the runaway. Strapped into a leather suit that will self-destruct within five days, the bandit sets off on a journey to find the young woman—and his own path to redemption.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/NWwzX69t3Mc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Card Counter
+*Released on 2021-09-03, vote average 7*
+
+William Tell just wants to play cards. His spartan existence on the casino trail is shattered when he is approached by Cirk, a vulnerable and angry young man seeking help to execute his plan for revenge on a military colonel. Tell sees a chance at redemption through his relationship with Cirk. But keeping Cirk on the straight-and-narrow proves impossible, dragging Tell back into the darkness of his past.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/7RvVT1cDiNc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Copshop
+*Released on 2021-09-09, vote average 3*
+
+Screaming through the Nevada desert in a bullet-ridden Crown Vic, wily con artist Teddy Murretto hatches a desperate plan to hide out from lethal hitman Bob Viddick: he sucker-punches rookie officer Valerie Young to get himself arrested and locked up in a small-town police station. But jail can’t protect Murretto for long, and Viddick soon schemes his own way into detention, biding his time in a nearby cell until he can complete his mission. When the arrival of a competing assassin ignites all-out mayhem, mounting threats force Viddick to get creative if he wants to finish the job and escape the explosive situation.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/uFlyLJbzCt4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -407,11 +429,6 @@ U.S. marshal Britt MacMasters returns from a mission to find his father wounded 
   
 
 
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -436,20 +453,6 @@ Paul Atreides, a brilliant and gifted young man born into a great destiny beyond
 	
 
 	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
 	
 	
 
@@ -463,6 +466,39 @@ Paul Atreides, a brilliant and gifted young man born into a great destiny beyond
 
 	
 
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### All About Sex
+*Released on 2021-09-16, vote average 5*
+
+Three friends in their mid-20s struggle to navigate their professional and personal lives, colliding head on with the messy, hilarious and dreadful growing pangs of adulthood.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EvMyKHsyBgo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
 	
 
 	
