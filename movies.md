@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### The Tomorrow War
-*Released on 2021-09-03, vote average 7.6*
+### Jurassic Hunt
+*Released on 2021-09-01, vote average 4.7*
 
-The world is stunned when a group of time travelers arrive from the year 2051 to deliver an urgent message: Thirty years in the future, mankind is losing a global war against a deadly alien species. The only hope for survival is for soldiers and civilians from the present to be transported to the future and join the fight. Among those recruited is high school teacher and family man Dan Forester. Determined to save the world for his young daughter, Dan teams up with a brilliant scientist and his estranged father in a desperate quest to rewrite the fate of the planet.
+Female adventurer Parker joins a crew of male trophy hunters in a remote wilderness park. Their goal: slaughter genetically recreated dinosaurs for sport using rifles, arrows, and grenades. After their guide is killed by raptors, the team tries to escape the park – but the hunters quickly become the hunted. Even worse, the park’s manager suspects Parker of being a spy and sends a hit squad after her. This battle’s about to become primitive!
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/6nqKBKw7bDA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/H9gpZqn-TtU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,6 +68,28 @@ Shang-Chi must confront the past he thought he left behind when he is drawn into
 	
 	
 
+### The Tomorrow War
+*Released on 2021-09-03, vote average 7.7*
+
+The world is stunned when a group of time travelers arrive from the year 2051 to deliver an urgent message: Thirty years in the future, mankind is losing a global war against a deadly alien species. The only hope for survival is for soldiers and civilians from the present to be transported to the future and join the fight. Among those recruited is high school teacher and family man Dan Forester. Determined to save the world for his young daughter, Dan teams up with a brilliant scientist and his estranged father in a desperate quest to rewrite the fate of the planet.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6nqKBKw7bDA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Cinderella
 *Released on 2021-09-03, vote average 6.9*
 
@@ -90,16 +112,16 @@ Cinderella, an orphaned girl with an evil stepmother, has big dreams and with th
 	
 	
 
-### After We Fell
-*Released on 2021-09-01, vote average 8.5*
+### Malignant
+*Released on 2021-09-01, vote average 7.4*
 
-Just as Tessa&#39;s life begins to become unglued, nothing is what she thought it would be. Not her friends nor her family. The only person that she should be able to rely on is Hardin, who is furious when he discovers the massive secret that she&#39;s been keeping. Before Tessa makes the biggest decision of her life, everything changes because of revelations about her family.
+Madison is paralyzed by shocking visions of grisly murders, and her torment worsens as she discovers that these waking dreams are in fact terrifying realities.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/NYdNN6C9hfI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/uRrlAk9kChA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,16 +134,16 @@ Just as Tessa&#39;s life begins to become unglued, nothing is what she thought i
 	
 	
 
-### Malignant
-*Released on 2021-09-01, vote average 7.3*
+### After We Fell
+*Released on 2021-09-01, vote average 8.5*
 
-Madison is paralyzed by shocking visions of grisly murders, and her torment worsens as she discovers that these waking dreams are in fact terrifying realities.
+Just as Tessa&#39;s life begins to become unglued, nothing is what she thought it would be. Not her friends nor her family. The only person that she should be able to rely on is Hardin, who is furious when he discovers the massive secret that she&#39;s been keeping. Before Tessa makes the biggest decision of her life, everything changes because of revelations about her family.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/uRrlAk9kChA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/NYdNN6C9hfI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -157,7 +179,7 @@ A social butterfly who dies during her birthday week is given a second chance to
 	
 
 ### Kate
-*Released on 2021-09-10, vote average 6.5*
+*Released on 2021-09-10, vote average 6.6*
 
 After she&#39;s irreversibly poisoned, a ruthless criminal operative has less than 24 hours to exact revenge on her enemies and in the process forms an unexpected bond with the daughter of one of her past victims.
 
@@ -178,8 +200,30 @@ After she&#39;s irreversibly poisoned, a ruthless criminal operative has less th
 	
 	
 
+### Dune
+*Released on 2021-09-15, vote average 6.8*
+
+Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet&#39;s exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity&#39;s greatest potential-only those who can conquer their fear will survive.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8g18jFHCLXk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### JJ Plus E
-*Released on 2021-09-08, vote average 6.3*
+*Released on 2021-09-08, vote average 5.9*
 
 Elisabeth and John-John live in the same city, but they inhabit different worlds.
 
@@ -201,7 +245,7 @@ Elisabeth and John-John live in the same city, but they inhabit different worlds
 	
 
 ### Happier Than Ever: A Love Letter to Los Angeles
-*Released on 2021-09-03, vote average 8.4*
+*Released on 2021-09-03, vote average 8.2*
 
 Fresh off the heels of her brand-new album, &#34;Happier Than Ever,&#34; this cinematic concert experience features an intimate performance of every song in the album&#39;s sequential order – for the first and only time – from the stage of the legendary Hollywood Bowl.
 
@@ -221,13 +265,6 @@ Fresh off the heels of her brand-new album, &#34;Happier Than Ever,&#34; this ci
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Prey
 *Released on 2021-09-10, vote average 4*
@@ -239,6 +276,28 @@ A hiking trip into the wild turns into a desperate bid for survival for five fri
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/XeZmKxWqqbs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Zone 414
+*Released on 2021-09-03, vote average 6.1*
+
+In the near future on a colony of state-of-the-art robots, a private investigator is hired by the colony&#39;s creator to bring his missing daughter home.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/a-7FSyHFl6s?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -273,82 +332,16 @@ A woman’s Holocaust memoir takes the world by storm, but a fallout with her pu
 	
 	
 
-### Zone 414
-*Released on 2021-09-03, vote average 6.2*
+### Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog
+*Released on 2021-09-14, vote average 8*
 
-In the near future on a colony of state-of-the-art robots, a private investigator is hired by the colony&#39;s creator to bring his missing daughter home.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/a-7FSyHFl6s?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Blood Brothers: Malcolm X and Muhammad Ali
-*Released on 2021-09-09, vote average 7.4*
-
-From a chance meeting to a tragic fallout, Malcolm X and Muhammad Ali&#39;s extraordinary bond cracks under the weight of distrust and shifting ideals.
+With Mystery, Inc. on the tail of a strange object in Nowhere, Kansas, the strange hometown of Eustice, Muriel, and Courage, the gang soon find themselves contending with a giant cicada monster and her winged warriors.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/gvOAuxFCGeU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Come From Away
-*Released on 2021-09-10, vote average 8.8*
-
-7,000 passengers are stranded in the small town of Gander, Newfoundland after all flights into the US are grounded on September 11, 2001. Filmed live on stage at the Gerald Schoenfeld Theater in New York City.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Af77C4zUkjs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Prisoners of the Ghostland
-*Released on 2021-08-31, vote average 7*
-
-In the treacherous frontier city of Samurai Town, a ruthless bank robber is sprung from jail by wealthy warlord The Governor, whose adopted granddaughter Bernice has gone missing. The Governor offers the prisoner his freedom in exchange for retrieving the runaway. Strapped into a leather suit that will self-destruct within five days, the bandit sets off on a journey to find the young woman—and his own path to redemption.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/NWwzX69t3Mc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/2vnTvMK3vVc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -383,16 +376,38 @@ William Tell just wants to play cards. His spartan existence on the casino trail
 	
 	
 
-### Copshop
-*Released on 2021-09-09, vote average 3*
+### Dating &amp; New York
+*Released on 2021-09-10, vote average 5*
 
-Screaming through the Nevada desert in a bullet-ridden Crown Vic, wily con artist Teddy Murretto hatches a desperate plan to hide out from lethal hitman Bob Viddick: he sucker-punches rookie officer Valerie Young to get himself arrested and locked up in a small-town police station. But jail can’t protect Murretto for long, and Viddick soon schemes his own way into detention, biding his time in a nearby cell until he can complete his mission. When the arrival of a competing assassin ignites all-out mayhem, mounting threats force Viddick to get creative if he wants to finish the job and escape the explosive situation.
+After meeting on the dating app Meet Cute and having a one-night stand, two New York millennials draw up a &#34;Best Friends With Benefits&#34; contract to avoid the pitfalls of a relationship.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/uFlyLJbzCt4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/wKfOZGfyrG8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Blood Brothers: Malcolm X and Muhammad Ali
+*Released on 2021-09-09, vote average 7.4*
+
+From a chance meeting to a tragic fallout, Malcolm X and Muhammad Ali&#39;s extraordinary bond cracks under the weight of distrust and shifting ideals.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/gvOAuxFCGeU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -425,6 +440,23 @@ U.S. marshal Britt MacMasters returns from a mission to find his father wounded 
 
 
 	
+	
+
+### Copshop
+*Released on 2021-09-09, vote average 3*
+
+Screaming through the Nevada desert in a bullet-ridden Crown Vic, wily con artist Teddy Murretto hatches a desperate plan to hide out from lethal hitman Bob Viddick: he sucker-punches rookie officer Valerie Young to get himself arrested and locked up in a small-town police station. But jail can’t protect Murretto for long, and Viddick soon schemes his own way into detention, biding his time in a nearby cell until he can complete his mission. When the arrival of a competing assassin ignites all-out mayhem, mounting threats force Viddick to get creative if he wants to finish the job and escape the explosive situation.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/uFlyLJbzCt4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -437,7 +469,7 @@ U.S. marshal Britt MacMasters returns from a mission to find his father wounded 
 	
 
 ### Dune
-*Released on 2021-09-15, vote average 6.4*
+*Released on 2021-09-15, vote average 6.8*
 
 Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet&#39;s exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity&#39;s greatest potential-only those who can conquer their fear will survive.
 
@@ -457,40 +489,18 @@ Paul Atreides, a brilliant and gifted young man born into a great destiny beyond
 	
 
 	
-
 	
 
-	
+### Cry Macho
+*Released on 2021-09-17, vote average 2*
 
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	
-
-### All About Sex
-*Released on 2021-09-16, vote average 5*
-
-Three friends in their mid-20s struggle to navigate their professional and personal lives, colliding head on with the messy, hilarious and dreadful growing pangs of adulthood.
+Mike Milo, a one-time rodeo star and washed-up horse breeder, takes a job from an ex-boss to bring the man&#39;s young son home from Mexico.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/EvMyKHsyBgo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/JVc8SI5CAKw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -499,6 +509,62 @@ Three friends in their mid-20s struggle to navigate their professional and perso
 
 	
 	
+
+### Lady of the Manor
+*Released on 2021-09-17, vote average 6.6*
+
+An aimless ne&#39;er-do-well becomes a tour guide in a historic estate and winds up befriending the manor&#39;s resident ghost.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Hjh92f8Faxs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Clifford the Big Red Dog
+*Released on 2021-09-17, vote average 2*
+
+As Emily struggles to fit in at home and at school, she discovers a small red puppy who is destined to become her best friend. When Clifford magically undergoes one heck of a growth spurt, becomes a gigantic dog and attracts the attention of a genetics company, Emily and her Uncle Casey have to fight the forces of greed as they go on the run across New York City. Along the way, Clifford affects the lives of everyone around him and teaches Emily and her uncle the true meaning of acceptance and unconditional love.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/4zH5iYM4wJo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+
+	
+	
+	
+
+	
+
+	
+
 	
 
 	
