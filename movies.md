@@ -90,28 +90,6 @@ Paul Atreides, a brilliant and gifted young man born into a great destiny beyond
 	
 	
 
-### JJ Plus E
-*Released on 2021-09-08, vote average 5.7*
-
-Elisabeth and John-John live in the same city, but they inhabit different worlds.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/HAyYPe-zCcQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog
 *Released on 2021-09-14, vote average 8.6*
 
@@ -133,6 +111,28 @@ With Mystery, Inc. on the tail of a strange object in Nowhere, Kansas, the stran
 
 	
 	
+
+### JJ Plus E
+*Released on 2021-09-08, vote average 5.6*
+
+Elisabeth and John-John live in the same city, but they inhabit different worlds.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/HAyYPe-zCcQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -142,7 +142,7 @@ With Mystery, Inc. on the tail of a strange object in Nowhere, Kansas, the stran
 	
 
 ### Cry Macho
-*Released on 2021-09-16, vote average 6*
+*Released on 2021-09-16, vote average 7.2*
 
 Mike Milo, a one-time rodeo star and washed-up horse breeder, takes a job from an ex-boss to bring the man&#39;s young son home from Mexico.
 
@@ -185,6 +185,35 @@ U.S. marshal Britt MacMasters returns from a mission to find his father wounded 
 	
 	
 
+### Nightbooks
+*Released on 2021-09-15, vote average 7*
+
+Alex, a boy obsessed with scary stories, is trapped by a witch in her modern, magical New York City apartment. His original hair-raising tales are the only thing keeping him safe as he desperately tries to find a way out of this twisted place.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/aQO16k5Vdow?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
 ### Blood Brothers: Malcolm X and Muhammad Ali
 *Released on 2021-09-09, vote average 6.6*
 
@@ -207,16 +236,16 @@ From a chance meeting to a tragic fallout, Malcolm X and Muhammad Ali&#39;s extr
 	
 	
 
-### Nightbooks
-*Released on 2021-09-15, vote average 6.9*
+### Schumacher
+*Released on 2021-09-15, vote average 7.2*
 
-Alex, a boy obsessed with scary stories, is trapped by a witch in her modern, magical New York City apartment. His original hair-raising tales are the only thing keeping him safe as he desperately tries to find a way out of this twisted place.
+Through exclusive interviews and archival footage, this documentary traces an intimate portrait of seven-time Formula 1 champion Michael Schumacher.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/aQO16k5Vdow?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ssck-BGc9nQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -226,8 +255,6 @@ Alex, a boy obsessed with scary stories, is trapped by a witch in her modern, ma
   
 
 
-	
-	
 	
 
   
@@ -258,35 +285,8 @@ An aimless ne&#39;er-do-well becomes a tour guide in a historic estate and winds
 	
 	
 
-### Schumacher
-*Released on 2021-09-15, vote average 7.1*
-
-Through exclusive interviews and archival footage, this documentary traces an intimate portrait of seven-time Formula 1 champion Michael Schumacher.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/OQs9ZtdZjY0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### Best Sellers
-*Released on 2021-09-09, vote average 5.7*
+*Released on 2021-09-09, vote average 6.6*
 
 A cranky, retired author reluctantly embarks on a final book tour to help out a young publisher.
 
@@ -310,23 +310,18 @@ A cranky, retired author reluctantly embarks on a final book tour to help out a 
 
 
 	
-
-  
-
-
-	
 	
 
-### A Honeymoon to Remember
-*Released on 2021-09-10, vote average 7.5*
+### The Mad Women&#39;s Ball
+*Released on 2021-09-17, vote average 7.4*
 
-When a devastated Ava’s fiancé leaves her at the altar, she’s determined to enjoy her honeymoon without him. Time away in a beautiful setting helps her figure out what she truly wants from a partner, but when her fiancé shows up unannounced, she’s more confused than ever… Can Ava forgive the man who broke her heart?
+Eugenie has a unique gift: she hears and sees the dead. When her family discovers her secret, at the end of the 19th century, she is taken by her father and brother to the neurological clinic at La Pitié Salpêtrière with no possibility of escaping her fate. Her destiny becomes entwined with that of Geneviève, a nurse at the hospital.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/nRwTO0TA85U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/YW-69FfY7z8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -336,6 +331,8 @@ When a devastated Ava’s fiancé leaves her at the altar, she’s determined to
   
 
 
+	
+	
 	
 
   
@@ -363,22 +360,32 @@ Screaming through the Nevada desert in a bullet-ridden Crown Vic, wily con artis
   
 
 
+	
+
+  
+
+
 
 ## Opening soon
 
 
 	
-
 	
 
-	
+### The Guilty
+*Released on 2021-09-24, vote average 6.6*
+
+A demoted police officer assigned to a call dispatch desk is conflicted when he receives an emergency phone call from a kidnapped woman.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/NaB_ERMAZu4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-	
-
-	
-
 	
 
 	
@@ -402,6 +409,18 @@ After learning she&#39;s been entrusted to take care of her deceased cousin&#39;
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
