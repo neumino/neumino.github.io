@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Kate
-*Released on 2021-09-10, vote average 6.7*
+*Released on 2021-09-10, vote average 6.8*
 
 After she&#39;s irreversibly poisoned, a ruthless criminal operative has less than 24 hours to exact revenge on her enemies and in the process forms an unexpected bond with the daughter of one of her past victims.
 
@@ -69,7 +69,7 @@ A hiking trip into the wild turns into a desperate bid for survival for five fri
 	
 
 ### Dune
-*Released on 2021-09-15, vote average 8.2*
+*Released on 2021-09-15, vote average 8.1*
 
 Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet&#39;s exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity&#39;s greatest potential-only those who can conquer their fear will survive.
 
@@ -91,7 +91,7 @@ Paul Atreides, a brilliant and gifted young man born into a great destiny beyond
 	
 
 ### Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog
-*Released on 2021-09-14, vote average 8.6*
+*Released on 2021-09-14, vote average 8.5*
 
 With Mystery, Inc. on the tail of a strange object in Nowhere, Kansas, the strange hometown of Eustice, Muriel, and Courage, the gang soon find themselves contending with a giant cicada monster and her winged warriors.
 
@@ -100,6 +100,79 @@ With Mystery, Inc. on the tail of a strange object in Nowhere, Kansas, the stran
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/2vnTvMK3vVc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Cry Macho
+*Released on 2021-09-16, vote average 7.5*
+
+Mike Milo, a one-time rodeo star and washed-up horse breeder, takes a job from an ex-boss to bring the man&#39;s young son home from Mexico.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/JVc8SI5CAKw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Catch the Bullet
+*Released on 2021-09-10, vote average 5.2*
+
+U.S. marshal Britt MacMasters returns from a mission to find his father wounded and his son kidnapped by the outlaw Jed Blake. Hot on their trail, Britt forms a posse with a gunslinging deputy and a stoic Pawnee tracker. But Jed and Britt tread dangerously close to the Red Desert’s Sioux territory.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QBDVS3HzToc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Nightbooks
+*Released on 2021-09-15, vote average 7.2*
+
+Alex, a boy obsessed with scary stories, is trapped by a witch in her modern, magical New York City apartment. His original hair-raising tales are the only thing keeping him safe as he desperately tries to find a way out of this twisted place.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/aQO16k5Vdow?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -141,70 +214,19 @@ Elisabeth and John-John live in the same city, but they inhabit different worlds
 	
 	
 
-### Cry Macho
-*Released on 2021-09-16, vote average 7.2*
+### Schumacher
+*Released on 2021-09-15, vote average 7.2*
 
-Mike Milo, a one-time rodeo star and washed-up horse breeder, takes a job from an ex-boss to bring the man&#39;s young son home from Mexico.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/JVc8SI5CAKw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Catch the Bullet
-*Released on 2021-09-10, vote average 3.5*
-
-U.S. marshal Britt MacMasters returns from a mission to find his father wounded and his son kidnapped by the outlaw Jed Blake. Hot on their trail, Britt forms a posse with a gunslinging deputy and a stoic Pawnee tracker. But Jed and Britt tread dangerously close to the Red Desert’s Sioux territory.
+Through exclusive interviews and archival footage, this documentary traces an intimate portrait of seven-time Formula 1 champion Michael Schumacher.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/QBDVS3HzToc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ssck-BGc9nQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
-	
-
-### Nightbooks
-*Released on 2021-09-15, vote average 7*
-
-Alex, a boy obsessed with scary stories, is trapped by a witch in her modern, magical New York City apartment. His original hair-raising tales are the only thing keeping him safe as he desperately tries to find a way out of this twisted place.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/aQO16k5Vdow?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -236,16 +258,16 @@ From a chance meeting to a tragic fallout, Malcolm X and Muhammad Ali&#39;s extr
 	
 	
 
-### Schumacher
-*Released on 2021-09-15, vote average 7.2*
+### The Mad Women&#39;s Ball
+*Released on 2021-09-17, vote average 7.3*
 
-Through exclusive interviews and archival footage, this documentary traces an intimate portrait of seven-time Formula 1 champion Michael Schumacher.
+Eugenie has a unique gift: she hears and sees the dead. When her family discovers her secret, at the end of the 19th century, she is taken by her father and brother to the neurological clinic at La Pitié Salpêtrière with no possibility of escaping her fate. Her destiny becomes entwined with that of Geneviève, a nurse at the hospital.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ssck-BGc9nQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/YW-69FfY7z8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -255,6 +277,18 @@ Through exclusive interviews and archival footage, this documentary traces an in
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -285,53 +319,19 @@ An aimless ne&#39;er-do-well becomes a tour guide in a historic estate and winds
 	
 	
 
-### Best Sellers
-*Released on 2021-09-09, vote average 6.6*
+### The Eyes of Tammy Faye
+*Released on 2021-09-17, vote average 7*
 
-A cranky, retired author reluctantly embarks on a final book tour to help out a young publisher.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/13ixGoK_MgY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Mad Women&#39;s Ball
-*Released on 2021-09-17, vote average 7.4*
-
-Eugenie has a unique gift: she hears and sees the dead. When her family discovers her secret, at the end of the 19th century, she is taken by her father and brother to the neurological clinic at La Pitié Salpêtrière with no possibility of escaping her fate. Her destiny becomes entwined with that of Geneviève, a nurse at the hospital.
+In the 1970s and ’80s, Tammy Faye and Jim Bakker rose from humble beginnings to create the world’s largest religious broadcasting network and a theme park, and were revered for their message of love, acceptance, and prosperity.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/YW-69FfY7z8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/cO1LgR3o15A?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -361,6 +361,8 @@ Screaming through the Nevada desert in a bullet-ridden Crown Vic, wily con artis
 
 
 	
+	
+	
 
   
 
@@ -373,7 +375,7 @@ Screaming through the Nevada desert in a bullet-ridden Crown Vic, wily con artis
 	
 
 ### The Guilty
-*Released on 2021-09-24, vote average 6.6*
+*Released on 2021-09-24, vote average 6.4*
 
 A demoted police officer assigned to a call dispatch desk is conflicted when he receives an emergency phone call from a kidnapped woman.
 
@@ -391,24 +393,24 @@ A demoted police officer assigned to a call dispatch desk is conflicted when he 
 	
 
 	
-
-	
 	
 
-### Finding Love in Mountain View
-*Released on 2021-09-19, vote average 10*
+### Dear Evan Hansen
+*Released on 2021-09-24, vote average 9*
 
-After learning she&#39;s been entrusted to take care of her deceased cousin&#39;s children, an architect is torn between focusing on her career and honoring her cousin&#39;s wish.
+Evan Hansen, a high schooler with social anxiety, unintentionally gets caught up in a lie after the family of a classmate who committed suicide mistakes one of Hansen’s letters for their son’s suicide note.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/h9MCCMMfLvY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/UiCcfBrFl4Y?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
