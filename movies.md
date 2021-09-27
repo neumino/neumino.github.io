@@ -68,16 +68,16 @@ With Mystery, Inc. on the tail of a strange object in Nowhere, Kansas, the stran
 	
 	
 
-### Cry Macho
-*Released on 2021-09-16, vote average 7.1*
+### The Mad Women&#39;s Ball
+*Released on 2021-09-17, vote average 7.4*
 
-Mike Milo, a one-time rodeo star and washed-up horse breeder, takes a job from an ex-boss to bring the man&#39;s young son home from Mexico.
+Eugenie has a unique gift: she hears and sees the dead. When her family discovers her secret, at the end of the 19th century, she is taken by her father and brother to the neurological clinic at La Pitié Salpêtrière with no possibility of escaping her fate. Her destiny becomes entwined with that of Geneviève, a nurse at the hospital.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/JVc8SI5CAKw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/YW-69FfY7z8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -90,16 +90,16 @@ Mike Milo, a one-time rodeo star and washed-up horse breeder, takes a job from a
 	
 	
 
-### The Mad Women&#39;s Ball
-*Released on 2021-09-17, vote average 7.4*
+### Cry Macho
+*Released on 2021-09-16, vote average 7*
 
-Eugenie has a unique gift: she hears and sees the dead. When her family discovers her secret, at the end of the 19th century, she is taken by her father and brother to the neurological clinic at La Pitié Salpêtrière with no possibility of escaping her fate. Her destiny becomes entwined with that of Geneviève, a nurse at the hospital.
+Mike Milo, a one-time rodeo star and washed-up horse breeder, takes a job from an ex-boss to bring the man&#39;s young son home from Mexico.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/YW-69FfY7z8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/JVc8SI5CAKw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -140,16 +140,9 @@ Paul Atreides, a brilliant and gifted young man born into a great destiny beyond
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Lady of the Manor
-*Released on 2021-09-17, vote average 6.4*
+*Released on 2021-09-17, vote average 6.6*
 
 An aimless ne&#39;er-do-well becomes a tour guide in a historic estate and winds up befriending the manor&#39;s resident ghost.
 
@@ -158,6 +151,79 @@ An aimless ne&#39;er-do-well becomes a tour guide in a historic estate and winds
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/Hjh92f8Faxs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### My Little Pony: A New Generation
+*Released on 2021-09-23, vote average 8.7*
+
+Equestria&#39;s divided. But a bright-eyed hero believes Earth Ponies, Pegasi and Unicorns should be pals — and, hoof to heart, she’s determined to prove it.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Pa_PRDVpjSk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Solitary
+*Released on 2021-09-24, vote average 6.2*
+
+A man wakes up inside a room to discover he&#39;s a prisoner sent into space to form Earth&#39;s first colony, and worse - his cell mate Alana is hell bent on destroying everything.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/an_rs7Zx7Qs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Intrusion
+*Released on 2021-09-22, vote average 6.6*
+
+When a husband and wife move to a small town, a home invasion leaves the wife traumatized and suspicious that those around her might not be who they seem.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/tAJVDe205tY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -191,65 +257,6 @@ Through exclusive interviews and archival footage, this documentary traces an in
 
 	
 	
-
-### My Little Pony: A New Generation
-*Released on 2021-09-23, vote average 8.6*
-
-Equestria&#39;s divided. But a bright-eyed hero believes Earth Ponies, Pegasi and Unicorns should be pals — and, hoof to heart, she’s determined to prove it.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Pa_PRDVpjSk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Solitary
-*Released on 2021-09-24, vote average 6.7*
-
-A man wakes up inside a room to discover he&#39;s a prisoner sent into space to form Earth&#39;s first colony, and worse - his cell mate Alana is hell bent on destroying everything.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/an_rs7Zx7Qs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Intrusion
-*Released on 2021-09-22, vote average 6.8*
-
-When a husband and wife move to a small town, a home invasion leaves the wife traumatized and suspicious that those around her might not be who they seem.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tAJVDe205tY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -259,7 +266,7 @@ When a husband and wife move to a small town, a home invasion leaves the wife tr
 	
 
 ### The Guilty
-*Released on 2021-09-24, vote average 6.6*
+*Released on 2021-09-24, vote average 6.7*
 
 A demoted police officer assigned to a call dispatch desk is conflicted when he receives an emergency phone call from a kidnapped woman.
 
@@ -287,48 +294,19 @@ A demoted police officer assigned to a call dispatch desk is conflicted when he 
 	
 	
 
-### Dear Evan Hansen
-*Released on 2021-09-24, vote average 6.6*
+### Birds of Paradise
+*Released on 2021-09-23, vote average 7*
 
-Evan Hansen, a high schooler with social anxiety, unintentionally gets caught up in a lie after the family of a classmate who committed suicide mistakes one of Hansen’s letters for their son’s suicide note.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/UiCcfBrFl4Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Night of the Animated Dead
-*Released on 2021-09-21, vote average 6.8*
-
-An animated retelling of ‘Night of the Living Dead’, in which a group of people in a rural farmhouse struggle to survive the threat of bloodthirsty zombies.
+Two dancers at an elite ballet academy in Paris must compete for a contract to join the highly coveted Opéra National de Paris as they confront their competitive nature, sexual awakenings and how far they would go to win.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/KP_Az90Uiks?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/kC2BawGi6EM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -339,7 +317,7 @@ An animated retelling of ‘Night of the Living Dead’, in which a group of peo
 	
 
 ### Confessions of an Invisible Girl
-*Released on 2021-09-22, vote average 6.8*
+*Released on 2021-09-22, vote average 6.9*
 
 When the clever but socially-awkward Tetê joins a new school, she&#39;ll do anything to fit in. But the queen bee among her classmates has other ideas.
 
@@ -360,16 +338,16 @@ When the clever but socially-awkward Tetê joins a new school, she&#39;ll do any
 	
 	
 
-### Birds of Paradise
-*Released on 2021-09-23, vote average 6.7*
+### Dear Evan Hansen
+*Released on 2021-09-24, vote average 6.4*
 
-Two dancers at an elite ballet academy in Paris must compete for a contract to join the highly coveted Opéra National de Paris as they confront their competitive nature, sexual awakenings and how far they would go to win.
+Evan Hansen, a high schooler with social anxiety, unintentionally gets caught up in a lie after the family of a classmate who committed suicide mistakes one of Hansen’s letters for their son’s suicide note.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/kC2BawGi6EM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/UiCcfBrFl4Y?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -401,6 +379,13 @@ Apache Junction is an outpost of lawlessness, a haven for thieves and cold-blood
   
 
 
+	
+	
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -408,18 +393,33 @@ Apache Junction is an outpost of lawlessness, a haven for thieves and cold-blood
 	
 
 	
+	
+
+### No Time to Die
+*Released on 2021-09-29, vote average 1*
+
+Bond has left active service and is enjoying a tranquil life in Jamaica. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help. The mission to rescue a kidnapped scientist turns out to be far more treacherous than expected, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/N_gD9-Oa0fg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
-	
-	
 	
 
 	
 	
 
 ### Roe v. Wade
-*Released on 2021-09-30, vote average 7.6*
+*Released on 2021-09-30, vote average 7.5*
 
 Dr. Bernard Nathanson and Dr. Mildred Jefferson square off in a national battle in this untold conspiracy that led to the most famous and controversial court case in history.
 
