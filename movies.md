@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Nightbooks
-*Released on 2021-09-15, vote average 6.8*
+*Released on 2021-09-15, vote average 6.7*
 
 Alex, a boy obsessed with scary stories, is trapped by a witch in her modern, magical New York City apartment. His original hair-raising tales are the only thing keeping him safe as he desperately tries to find a way out of this twisted place.
 
@@ -46,30 +46,8 @@ Alex, a boy obsessed with scary stories, is trapped by a witch in her modern, ma
 	
 	
 
-### Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog
-*Released on 2021-09-14, vote average 8.4*
-
-With Mystery, Inc. on the tail of a strange object in Nowhere, Kansas, the strange hometown of Eustice, Muriel, and Courage, the gang soon find themselves contending with a giant cicada monster and her winged warriors.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2vnTvMK3vVc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Mad Women&#39;s Ball
-*Released on 2021-09-17, vote average 7.4*
+*Released on 2021-09-17, vote average 7.3*
 
 Eugenie has a unique gift: she hears and sees the dead. When her family discovers her secret, at the end of the 19th century, she is taken by her father and brother to the neurological clinic at La Pitié Salpêtrière with no possibility of escaping her fate. Her destiny becomes entwined with that of Geneviève, a nurse at the hospital.
 
@@ -91,7 +69,7 @@ Eugenie has a unique gift: she hears and sees the dead. When her family discover
 	
 
 ### Cry Macho
-*Released on 2021-09-16, vote average 7*
+*Released on 2021-09-16, vote average 6.9*
 
 Mike Milo, a one-time rodeo star and washed-up horse breeder, takes a job from an ex-boss to bring the man&#39;s young son home from Mexico.
 
@@ -100,6 +78,28 @@ Mike Milo, a one-time rodeo star and washed-up horse breeder, takes a job from a
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/JVc8SI5CAKw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Lady of the Manor
+*Released on 2021-09-17, vote average 6.4*
+
+An aimless ne&#39;er-do-well becomes a tour guide in a historic estate and winds up befriending the manor&#39;s resident ghost.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Hjh92f8Faxs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,30 +134,8 @@ Paul Atreides, a brilliant and gifted young man born into a great destiny beyond
 	
 	
 
-### Lady of the Manor
-*Released on 2021-09-17, vote average 6.6*
-
-An aimless ne&#39;er-do-well becomes a tour guide in a historic estate and winds up befriending the manor&#39;s resident ghost.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Hjh92f8Faxs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### My Little Pony: A New Generation
-*Released on 2021-09-23, vote average 8.4*
+*Released on 2021-09-23, vote average 8.2*
 
 Equestria&#39;s divided. But a bright-eyed hero believes Earth Ponies, Pegasi and Unicorns should be pals — and, hoof to heart, she’s determined to prove it.
 
@@ -177,16 +155,9 @@ Equestria&#39;s divided. But a bright-eyed hero believes Earth Ponies, Pegasi an
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Solitary
-*Released on 2021-09-24, vote average 6.2*
+*Released on 2021-09-24, vote average 6.7*
 
 A man wakes up inside a room to discover he&#39;s a prisoner sent into space to form Earth&#39;s first colony, and worse - his cell mate Alana is hell bent on destroying everything.
 
@@ -206,16 +177,9 @@ A man wakes up inside a room to discover he&#39;s a prisoner sent into space to 
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Intrusion
-*Released on 2021-09-22, vote average 6.5*
+*Released on 2021-09-22, vote average 6.4*
 
 When a husband and wife move to a small town, a home invasion leaves the wife traumatized and suspicious that those around her might not be who they seem.
 
@@ -227,6 +191,78 @@ When a husband and wife move to a small town, a home invasion leaves the wife tr
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+	
+
+### No Time to Die
+*Released on 2021-09-29, vote average 4.6*
+
+Bond has left active service and is enjoying a tranquil life in Jamaica. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help. The mission to rescue a kidnapped scientist turns out to be far more treacherous than expected, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/N_gD9-Oa0fg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Birds of Paradise
+*Released on 2021-09-23, vote average 7*
+
+Two dancers at an elite ballet academy in Paris must compete for a contract to join the highly coveted Opéra National de Paris as they confront their competitive nature, sexual awakenings and how far they would go to win.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kC2BawGi6EM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -265,30 +301,8 @@ Through exclusive interviews and archival footage, this documentary traces an in
 	
 	
 
-### Birds of Paradise
-*Released on 2021-09-23, vote average 7.5*
-
-Two dancers at an elite ballet academy in Paris must compete for a contract to join the highly coveted Opéra National de Paris as they confront their competitive nature, sexual awakenings and how far they would go to win.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kC2BawGi6EM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Guilty
-*Released on 2021-09-24, vote average 6.9*
+*Released on 2021-09-24, vote average 7.3*
 
 A demoted police officer assigned to a call dispatch desk is conflicted when he receives an emergency phone call from a kidnapped woman.
 
@@ -308,23 +322,9 @@ A demoted police officer assigned to a call dispatch desk is conflicted when he 
 
 	
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
 
 ### Confessions of an Invisible Girl
-*Released on 2021-09-22, vote average 7.4*
+*Released on 2021-09-22, vote average 7*
 
 When the clever but socially-awkward Tetê joins a new school, she&#39;ll do anything to fit in. But the queen bee among her classmates has other ideas.
 
@@ -343,6 +343,23 @@ When the clever but socially-awkward Tetê joins a new school, she&#39;ll do any
 
 
 	
+	
+
+### Night of the Animated Dead
+*Released on 2021-09-21, vote average 6.3*
+
+An animated retelling of ‘Night of the Living Dead’, in which a group of people in a rural farmhouse struggle to survive the threat of bloodthirsty zombies.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KP_Az90Uiks?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -350,16 +367,16 @@ When the clever but socially-awkward Tetê joins a new school, she&#39;ll do any
 	
 	
 
-### Dear Evan Hansen
-*Released on 2021-09-24, vote average 6.5*
+### The Starling
+*Released on 2021-09-17, vote average 7.3*
 
-Evan Hansen, a high schooler with social anxiety, unintentionally gets caught up in a lie after the family of a classmate who committed suicide mistakes one of Hansen’s letters for their son’s suicide note.
+A woman adjusting to life after a loss contends with a feisty bird that&#39;s taken over her garden — and a husband who&#39;s struggling to find a way forward.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/UiCcfBrFl4Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/fYyImx_KXm4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -377,7 +394,7 @@ Evan Hansen, a high schooler with social anxiety, unintentionally gets caught up
 	
 
 ### Venom: Let There Be Carnage
-*Released on 2021-09-30, vote average 8.8*
+*Released on 2021-09-30, vote average 8.4*
 
 Sequel to the box-office hit film &#34;Venom.&#34;
 
@@ -385,7 +402,7 @@ Sequel to the box-office hit film &#34;Venom.&#34;
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/WOhht3fvPYI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/U9Lx4raR_Ls?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -396,7 +413,7 @@ Sequel to the box-office hit film &#34;Venom.&#34;
 	
 
 ### No Time to Die
-*Released on 2021-09-29, vote average 5*
+*Released on 2021-09-29, vote average 4.6*
 
 Bond has left active service and is enjoying a tranquil life in Jamaica. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help. The mission to rescue a kidnapped scientist turns out to be far more treacherous than expected, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.
 
@@ -416,8 +433,31 @@ Bond has left active service and is enjoying a tranquil life in Jamaica. His pea
 	
 	
 
+### The Addams Family 2
+*Released on 2021-10-01, vote average 6*
+
+The Addams get tangled up in more wacky adventures and find themselves involved in hilarious run-ins with all sorts of unsuspecting characters.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/946LiJiMQrQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+	
+
 ### Roe v. Wade
-*Released on 2021-09-30, vote average 7.5*
+*Released on 2021-09-30, vote average 6.6*
 
 Dr. Bernard Nathanson and Dr. Mildred Jefferson square off in a national battle in this untold conspiracy that led to the most famous and controversial court case in history.
 
@@ -430,18 +470,6 @@ Dr. Bernard Nathanson and Dr. Mildred Jefferson square off in a national battle 
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
@@ -472,7 +500,28 @@ Set in the port town of Dover in the South-East of England, Mary Hussain suddenl
 	
 
 	
+	
+	
 
+	
+
+	
+	
+
+### Old Henry
+*Released on 2021-10-01, vote average 2*
+
+A widowed farmer and his son warily take in a mysterious, injured man with a satchel of cash. When a posse of men claiming to be the law come for the money, the farmer must decide who to trust. Defending a siege of his homestead, the farmer reveals a talent for gun-slinging that surprises everyone calling his true identity into question.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fHBdCN62gtk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -480,7 +529,17 @@ Set in the port town of Dover in the South-East of England, Mary Hussain suddenl
 	
 
 	
+	
+	
 
+	
+	
+	
+
+	
+
+	
+	
 	
 
 
