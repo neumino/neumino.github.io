@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Venom: Let There Be Carnage
-*Released on 2021-09-30, vote average 8.6*
+*Released on 2021-09-30, vote average 8.3*
 
 Sequel to the box-office hit film &#34;Venom.&#34;
 
@@ -21,7 +21,7 @@ Sequel to the box-office hit film &#34;Venom.&#34;
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/U9Lx4raR_Ls?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/gU4vcJIbeOU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -47,7 +47,7 @@ Sequel to the box-office hit film &#34;Venom.&#34;
 	
 
 ### My Little Pony: A New Generation
-*Released on 2021-09-23, vote average 8.2*
+*Released on 2021-09-23, vote average 8.1*
 
 Equestria&#39;s divided. But a bright-eyed hero believes Earth Ponies, Pegasi and Unicorns should be pals — and, hoof to heart, she’s determined to prove it.
 
@@ -68,30 +68,8 @@ Equestria&#39;s divided. But a bright-eyed hero believes Earth Ponies, Pegasi an
 	
 	
 
-### The Mad Women&#39;s Ball
-*Released on 2021-09-17, vote average 7.3*
-
-Eugenie has a unique gift: she hears and sees the dead. When her family discovers her secret, at the end of the 19th century, she is taken by her father and brother to the neurological clinic at La Pitié Salpêtrière with no possibility of escaping her fate. Her destiny becomes entwined with that of Geneviève, a nurse at the hospital.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/YW-69FfY7z8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Solitary
-*Released on 2021-09-24, vote average 6.7*
+*Released on 2021-09-24, vote average 6.9*
 
 A man wakes up inside a room to discover he&#39;s a prisoner sent into space to form Earth&#39;s first colony, and worse - his cell mate Alana is hell bent on destroying everything.
 
@@ -134,6 +112,50 @@ When a husband and wife move to a small town, a home invasion leaves the wife tr
 	
 	
 
+### The Mad Women&#39;s Ball
+*Released on 2021-09-17, vote average 7.3*
+
+Eugenie has a unique gift: she hears and sees the dead. When her family discovers her secret, at the end of the 19th century, she is taken by her father and brother to the neurological clinic at La Pitié Salpêtrière with no possibility of escaping her fate. Her destiny becomes entwined with that of Geneviève, a nurse at the hospital.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/YW-69FfY7z8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### No Time to Die
+*Released on 2021-09-29, vote average 7.1*
+
+Bond has left active service and is enjoying a tranquil life in Jamaica. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help. The mission to rescue a kidnapped scientist turns out to be far more treacherous than expected, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/N_gD9-Oa0fg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Lady of the Manor
 *Released on 2021-09-17, vote average 6.4*
 
@@ -156,59 +178,8 @@ An aimless ne&#39;er-do-well becomes a tour guide in a historic estate and winds
 	
 	
 
-### No Time to Die
-*Released on 2021-09-29, vote average 6.6*
-
-Bond has left active service and is enjoying a tranquil life in Jamaica. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help. The mission to rescue a kidnapped scientist turns out to be far more treacherous than expected, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/N_gD9-Oa0fg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Cry Macho
-*Released on 2021-09-16, vote average 6.9*
-
-Mike Milo, a one-time rodeo star and washed-up horse breeder, takes a job from an ex-boss to bring the man&#39;s young son home from Mexico.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/JVc8SI5CAKw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
 ### Birds of Paradise
-*Released on 2021-09-23, vote average 7*
+*Released on 2021-09-23, vote average 6.9*
 
 Two dancers at an elite ballet academy in Paris must compete for a contract to join the highly coveted Opéra National de Paris as they confront their competitive nature, sexual awakenings and how far they would go to win.
 
@@ -220,13 +191,6 @@ Two dancers at an elite ballet academy in Paris must compete for a contract to j
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -271,16 +235,9 @@ When the clever but socially-awkward Tetê joins a new school, she&#39;ll do any
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### The Starling
-*Released on 2021-09-17, vote average 7.4*
+*Released on 2021-09-17, vote average 7.3*
 
 A woman adjusting to life after a loss contends with a feisty bird that&#39;s taken over her garden — and a husband who&#39;s struggling to find a way forward.
 
@@ -289,6 +246,35 @@ A woman adjusting to life after a loss contends with a feisty bird that&#39;s ta
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/fYyImx_KXm4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### The Addams Family 2
+*Released on 2021-10-01, vote average 6*
+
+The Addams get tangled up in more wacky adventures and find themselves involved in hilarious run-ins with all sorts of unsuspecting characters.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/946LiJiMQrQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -323,16 +309,45 @@ A demoted police officer assigned to a call dispatch desk is conflicted when he 
 	
 	
 
-### Je suis Karl
-*Released on 2021-09-16, vote average 5.5*
+### Sounds Like Love
+*Released on 2021-09-29, vote average 4.7*
 
-After most of her family is murdered in a terrorist bombing, a young woman is unknowingly lured into joining the very group that killed them.
+Fashion assistant Maca has just about got her life together after a devastating breakup, when Leo, the man who broke her heart returns. Seeking support from best friends, Adriana and Jime, all three will learn love can be complicated.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Pzg_nWktMAs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/nkf5PSXIn54?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### No One Gets Out Alive
+*Released on 2021-09-29, vote average 5.6*
+
+An immigrant in search of the American dream is forced to take a room in a boarding house and soon finds herself in a nightmare from which she can&#39;t escape.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/sY2TLiK27g4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -345,16 +360,16 @@ After most of her family is murdered in a terrorist bombing, a young woman is un
 	
 	
 
-### Night of the Animated Dead
-*Released on 2021-09-21, vote average 6.3*
+### Roe v. Wade
+*Released on 2021-09-30, vote average 7*
 
-An animated retelling of ‘Night of the Living Dead’, in which a group of people in a rural farmhouse struggle to survive the threat of bloodthirsty zombies.
+Dr. Bernard Nathanson and Dr. Mildred Jefferson square off in a national battle in this untold conspiracy that led to the most famous and controversial court case in history.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/KP_Az90Uiks?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/HUkEpm8kPyQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -364,6 +379,23 @@ An animated retelling of ‘Night of the Living Dead’, in which a group of peo
   
 
 
+	
+	
+
+### Dear Evan Hansen
+*Released on 2021-09-24, vote average 6.7*
+
+Evan Hansen, a high schooler with social anxiety, unintentionally gets caught up in a lie after the family of a classmate who committed suicide mistakes one of Hansen’s letters for their son’s suicide note.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/UiCcfBrFl4Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -376,16 +408,16 @@ An animated retelling of ‘Night of the Living Dead’, in which a group of peo
 	
 	
 
-### Venom: Let There Be Carnage
-*Released on 2021-09-30, vote average 8.6*
+### Hotel Transylvania: Transformania
+*Released on 2021-10-08, vote average 7.5*
 
-Sequel to the box-office hit film &#34;Venom.&#34;
+When Van Helsing&#39;s mysterious invention, the &#34;Monsterfication Ray,&#34; goes haywire, Drac and his monster pals are all transformed into humans, and Johnny becomes a monster. In their new mismatched bodies, Drac and Johnny must team up and race across the globe to find a cure before it&#39;s too late, and before they drive each other crazy.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/U9Lx4raR_Ls?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/7AP86CYeR30?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -412,38 +444,7 @@ The Addams get tangled up in more wacky adventures and find themselves involved 
 	
 
 	
-	
 
-### Roe v. Wade
-*Released on 2021-09-30, vote average 6.6*
-
-Dr. Bernard Nathanson and Dr. Mildred Jefferson square off in a national battle in this untold conspiracy that led to the most famous and controversial court case in history.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/HUkEpm8kPyQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	
 	
 
 	
@@ -474,6 +475,12 @@ A widowed farmer and his son warily take in a mysterious, injured man with a sat
 	
 
 	
+	
+	
+
+	
+	
+	
 
 	
 
@@ -482,7 +489,15 @@ A widowed farmer and his son warily take in a mysterious, injured man with a sat
 	
 
 	
+
 	
+
+	
+
+	
+
+	
+
 	
 
 
