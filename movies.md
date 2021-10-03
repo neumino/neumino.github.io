@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Venom: Let There Be Carnage
-*Released on 2021-09-30, vote average 7.6*
+*Released on 2021-09-30, vote average 7.4*
 
 After finding a host body in investigative reporter Eddie Brock, the alien symbiote must face a new enemy, Carnage, the alter ego of serial killer Cletus Kasady.
 
@@ -47,7 +47,7 @@ After finding a host body in investigative reporter Eddie Brock, the alien symbi
 	
 
 ### My Little Pony: A New Generation
-*Released on 2021-09-23, vote average 8*
+*Released on 2021-09-23, vote average 7.9*
 
 Equestria&#39;s divided. But a bright-eyed hero believes Earth Ponies, Pegasi and Unicorns should be pals — and, hoof to heart, she’s determined to prove it.
 
@@ -69,7 +69,7 @@ Equestria&#39;s divided. But a bright-eyed hero believes Earth Ponies, Pegasi an
 	
 
 ### Solitary
-*Released on 2021-09-24, vote average 6.8*
+*Released on 2021-09-24, vote average 6.7*
 
 A man wakes up inside a room to discover he&#39;s a prisoner sent into space to form Earth&#39;s first colony, and worse - his cell mate Alana is hell bent on destroying everything.
 
@@ -113,7 +113,7 @@ When a husband and wife move to a small town, a home invasion leaves the wife tr
 	
 
 ### No Time to Die
-*Released on 2021-09-29, vote average 7.1*
+*Released on 2021-09-29, vote average 7.2*
 
 Bond has left active service and is enjoying a tranquil life in Jamaica. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help. The mission to rescue a kidnapped scientist turns out to be far more treacherous than expected, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.
 
@@ -132,28 +132,6 @@ Bond has left active service and is enjoying a tranquil life in Jamaica. His pea
 
 
 	
-	
-	
-
-  
-
-
-	
-	
-
-### Birds of Paradise
-*Released on 2021-09-23, vote average 6.8*
-
-Two dancers at an elite ballet academy in Paris must compete for a contract to join the highly coveted Opéra National de Paris as they confront their competitive nature, sexual awakenings and how far they would go to win.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kC2BawGi6EM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -192,8 +170,30 @@ When the clever but socially-awkward Tetê joins a new school, she&#39;ll do any
 	
 	
 
+### Birds of Paradise
+*Released on 2021-09-23, vote average 6.9*
+
+Two dancers at an elite ballet academy in Paris must compete for a contract to join the highly coveted Opéra National de Paris as they confront their competitive nature, sexual awakenings and how far they would go to win.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kC2BawGi6EM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Addams Family 2
-*Released on 2021-10-01, vote average 6*
+*Released on 2021-10-01, vote average 5.5*
 
 The Addams get tangled up in more wacky adventures and find themselves involved in hilarious run-ins with all sorts of unsuspecting characters.
 
@@ -237,7 +237,7 @@ Fashion assistant Maca has just about got her life together after a devastating 
 	
 
 ### No One Gets Out Alive
-*Released on 2021-09-29, vote average 5.7*
+*Released on 2021-09-29, vote average 6.1*
 
 An immigrant in search of the American dream is forced to take a room in a boarding house and soon finds herself in a nightmare from which she can&#39;t escape.
 
@@ -259,7 +259,7 @@ An immigrant in search of the American dream is forced to take a room in a board
 	
 
 ### The Guilty
-*Released on 2021-09-24, vote average 7.2*
+*Released on 2021-09-24, vote average 7*
 
 A demoted police officer assigned to a call dispatch desk is conflicted when he receives an emergency phone call from a kidnapped woman.
 
@@ -286,34 +286,17 @@ A demoted police officer assigned to a call dispatch desk is conflicted when he 
 
 	
 	
-	
 
-  
+### LEGO Star Wars Terrifying Tales
+*Released on 2021-10-01, vote average 7.7*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Dear Evan Hansen
-*Released on 2021-09-24, vote average 6.7*
-
-Evan Hansen, a high schooler with social anxiety, unintentionally gets caught up in a lie after the family of a classmate who committed suicide mistakes one of Hansen’s letters for their son’s suicide note.
+Poe Dameron and BB-8 must face the greedy crime boss Graballa the Hutt, who has purchased Darth Vader’s castle and is renovating it into the galaxy’s first all-inclusive Sith-inspired luxury hotel.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/UiCcfBrFl4Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/a4Xyiun4LXs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -323,6 +306,89 @@ Evan Hansen, a high schooler with social anxiety, unintentionally gets caught up
   
 
 
+	
+	
+
+### Bingo Hell
+*Released on 2021-10-01, vote average 6*
+
+In the Barrio of Oak Springs live a strong and stubborn group of elderly friends who refuse to be gentrified. Their leader, Lupita, keeps them together as a community, a family. But little did they know, their beloved Bingo hall is about to be sold to a much more powerful force than money itself.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/m1DQx4Z-QPU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Many Saints of Newark
+*Released on 2021-09-22, vote average 6.8*
+
+Young Anthony Soprano is growing up in one of the most tumultuous eras in Newark, N.J., history, becoming a man just as rival gangsters start to rise up and challenge the all-powerful DiMeo crime family. Caught up in the changing times is the uncle he idolizes, Dickie Moltisanti, whose influence over his nephew will help shape the impressionable teenager into the all-powerful mob boss, Tony Soprano.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/d9Em4ckh878?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### American Night
+*Released on 2021-10-01, vote average 8*
+
+A neo-noir set in the New York City&#39;s corrupt contemporary art world where the art dealer John Kaplan and the ruthless head of New York&#39;s mafia, Michael Rubino, fight for money, art, power and love.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fmffb2NHruM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Black as Night
+*Released on 2021-10-01, vote average 5*
+
+A teenage girl with self-esteem issues finds confidence in the most unlikely way, by spending her summer battling vampires that prey on New Orleans&#39; disenfranchised with the help of her best friend, the boy she&#39;s always pined for, and a peculiar rich girl.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/iuXnGbxTxDE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
