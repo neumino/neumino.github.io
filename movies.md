@@ -46,30 +46,8 @@ After finding a host body in investigative reporter Eddie Brock, the alien symbi
 	
 	
 
-### My Little Pony: A New Generation
-*Released on 2021-09-23, vote average 7.9*
-
-Equestria&#39;s divided. But a bright-eyed hero believes Earth Ponies, Pegasi and Unicorns should be pals — and, hoof to heart, she’s determined to prove it.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Pa_PRDVpjSk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Solitary
-*Released on 2021-09-24, vote average 6.7*
+*Released on 2021-09-24, vote average 6.9*
 
 A man wakes up inside a room to discover he&#39;s a prisoner sent into space to form Earth&#39;s first colony, and worse - his cell mate Alana is hell bent on destroying everything.
 
@@ -90,16 +68,16 @@ A man wakes up inside a room to discover he&#39;s a prisoner sent into space to 
 	
 	
 
-### Intrusion
-*Released on 2021-09-22, vote average 6.3*
+### My Little Pony: A New Generation
+*Released on 2021-09-23, vote average 8*
 
-When a husband and wife move to a small town, a home invasion leaves the wife traumatized and suspicious that those around her might not be who they seem.
+Equestria&#39;s divided. But a bright-eyed hero believes Earth Ponies, Pegasi and Unicorns should be pals — and, hoof to heart, she’s determined to prove it.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/tAJVDe205tY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Pa_PRDVpjSk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -122,6 +100,28 @@ Bond has left active service and is enjoying a tranquil life in Jamaica. His pea
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/N_gD9-Oa0fg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Intrusion
+*Released on 2021-09-22, vote average 6.3*
+
+When a husband and wife move to a small town, a home invasion leaves the wife traumatized and suspicious that those around her might not be who they seem.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/tAJVDe205tY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -193,7 +193,7 @@ Two dancers at an elite ballet academy in Paris must compete for a contract to j
 	
 
 ### The Addams Family 2
-*Released on 2021-10-01, vote average 5.5*
+*Released on 2021-10-01, vote average 6.6*
 
 The Addams get tangled up in more wacky adventures and find themselves involved in hilarious run-ins with all sorts of unsuspecting characters.
 
@@ -215,7 +215,7 @@ The Addams get tangled up in more wacky adventures and find themselves involved 
 	
 
 ### Sounds Like Love
-*Released on 2021-09-29, vote average 5.8*
+*Released on 2021-09-29, vote average 6*
 
 Fashion assistant Maca has just about got her life together after a devastating breakup, when Leo, the man who broke her heart returns. Seeking support from best friends, Adriana and Jime, all three will learn love can be complicated.
 
@@ -237,7 +237,7 @@ Fashion assistant Maca has just about got her life together after a devastating 
 	
 
 ### No One Gets Out Alive
-*Released on 2021-09-29, vote average 6.1*
+*Released on 2021-09-29, vote average 6.3*
 
 An immigrant in search of the American dream is forced to take a room in a boarding house and soon finds herself in a nightmare from which she can&#39;t escape.
 
@@ -259,7 +259,7 @@ An immigrant in search of the American dream is forced to take a room in a board
 	
 
 ### The Guilty
-*Released on 2021-09-24, vote average 7*
+*Released on 2021-09-24, vote average 6.9*
 
 A demoted police officer assigned to a call dispatch desk is conflicted when he receives an emergency phone call from a kidnapped woman.
 
@@ -288,7 +288,7 @@ A demoted police officer assigned to a call dispatch desk is conflicted when he 
 	
 
 ### LEGO Star Wars Terrifying Tales
-*Released on 2021-10-01, vote average 7.7*
+*Released on 2021-10-01, vote average 7.3*
 
 Poe Dameron and BB-8 must face the greedy crime boss Graballa the Hutt, who has purchased Darth Vader’s castle and is renovating it into the galaxy’s first all-inclusive Sith-inspired luxury hotel.
 
@@ -310,7 +310,7 @@ Poe Dameron and BB-8 must face the greedy crime boss Graballa the Hutt, who has 
 	
 
 ### Bingo Hell
-*Released on 2021-10-01, vote average 6*
+*Released on 2021-10-01, vote average 5.5*
 
 In the Barrio of Oak Springs live a strong and stubborn group of elderly friends who refuse to be gentrified. Their leader, Lupita, keeps them together as a community, a family. But little did they know, their beloved Bingo hall is about to be sold to a much more powerful force than money itself.
 
@@ -332,7 +332,7 @@ In the Barrio of Oak Springs live a strong and stubborn group of elderly friends
 	
 
 ### The Many Saints of Newark
-*Released on 2021-09-22, vote average 6.8*
+*Released on 2021-09-22, vote average 7.1*
 
 Young Anthony Soprano is growing up in one of the most tumultuous eras in Newark, N.J., history, becoming a man just as rival gangsters start to rise up and challenge the all-powerful DiMeo crime family. Caught up in the changing times is the uncle he idolizes, Dickie Moltisanti, whose influence over his nephew will help shape the impressionable teenager into the all-powerful mob boss, Tony Soprano.
 
@@ -354,7 +354,7 @@ Young Anthony Soprano is growing up in one of the most tumultuous eras in Newark
 	
 
 ### American Night
-*Released on 2021-10-01, vote average 8*
+*Released on 2021-10-01, vote average 7.8*
 
 A neo-noir set in the New York City&#39;s corrupt contemporary art world where the art dealer John Kaplan and the ruthless head of New York&#39;s mafia, Michael Rubino, fight for money, art, power and love.
 
@@ -376,7 +376,7 @@ A neo-noir set in the New York City&#39;s corrupt contemporary art world where t
 	
 
 ### Black as Night
-*Released on 2021-10-01, vote average 5*
+*Released on 2021-10-01, vote average 5.7*
 
 A teenage girl with self-esteem issues finds confidence in the most unlikely way, by spending her summer battling vampires that prey on New Orleans&#39; disenfranchised with the help of her best friend, the boy she&#39;s always pined for, and a peculiar rich girl.
 
