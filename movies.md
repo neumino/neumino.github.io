@@ -47,7 +47,7 @@ After finding a host body in investigative reporter Eddie Brock, the alien symbi
 	
 
 ### Solitary
-*Released on 2021-09-24, vote average 6.9*
+*Released on 2021-09-24, vote average 6.8*
 
 A man wakes up inside a room to discover he&#39;s a prisoner sent into space to form Earth&#39;s first colony, and worse - his cell mate Alana is hell bent on destroying everything.
 
@@ -91,7 +91,7 @@ Equestria&#39;s divided. But a bright-eyed hero believes Earth Ponies, Pegasi an
 	
 
 ### No Time to Die
-*Released on 2021-09-29, vote average 7.2*
+*Released on 2021-09-29, vote average 7.3*
 
 Bond has left active service and is enjoying a tranquil life in Jamaica. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help. The mission to rescue a kidnapped scientist turns out to be far more treacherous than expected, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.
 
@@ -113,7 +113,7 @@ Bond has left active service and is enjoying a tranquil life in Jamaica. His pea
 	
 
 ### Intrusion
-*Released on 2021-09-22, vote average 6.3*
+*Released on 2021-09-22, vote average 6.2*
 
 When a husband and wife move to a small town, a home invasion leaves the wife traumatized and suspicious that those around her might not be who they seem.
 
@@ -149,7 +149,7 @@ When a husband and wife move to a small town, a home invasion leaves the wife tr
 	
 
 ### Confessions of an Invisible Girl
-*Released on 2021-09-22, vote average 7.1*
+*Released on 2021-09-22, vote average 7*
 
 When the clever but socially-awkward Tetê joins a new school, she&#39;ll do anything to fit in. But the queen bee among her classmates has other ideas.
 
@@ -158,6 +158,28 @@ When the clever but socially-awkward Tetê joins a new school, she&#39;ll do any
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/uGJBHueplss?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Addams Family 2
+*Released on 2021-10-01, vote average 8*
+
+The Addams get tangled up in more wacky adventures and find themselves involved in hilarious run-ins with all sorts of unsuspecting characters.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/946LiJiMQrQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -192,30 +214,8 @@ Two dancers at an elite ballet academy in Paris must compete for a contract to j
 	
 	
 
-### The Addams Family 2
-*Released on 2021-10-01, vote average 6.6*
-
-The Addams get tangled up in more wacky adventures and find themselves involved in hilarious run-ins with all sorts of unsuspecting characters.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/946LiJiMQrQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Sounds Like Love
-*Released on 2021-09-29, vote average 6*
+*Released on 2021-09-29, vote average 6.4*
 
 Fashion assistant Maca has just about got her life together after a devastating breakup, when Leo, the man who broke her heart returns. Seeking support from best friends, Adriana and Jime, all three will learn love can be complicated.
 
@@ -237,7 +237,7 @@ Fashion assistant Maca has just about got her life together after a devastating 
 	
 
 ### No One Gets Out Alive
-*Released on 2021-09-29, vote average 6.3*
+*Released on 2021-09-29, vote average 6.1*
 
 An immigrant in search of the American dream is forced to take a room in a boarding house and soon finds herself in a nightmare from which she can&#39;t escape.
 
@@ -259,7 +259,7 @@ An immigrant in search of the American dream is forced to take a room in a board
 	
 
 ### The Guilty
-*Released on 2021-09-24, vote average 6.9*
+*Released on 2021-09-24, vote average 6.8*
 
 A demoted police officer assigned to a call dispatch desk is conflicted when he receives an emergency phone call from a kidnapped woman.
 
@@ -288,7 +288,7 @@ A demoted police officer assigned to a call dispatch desk is conflicted when he 
 	
 
 ### LEGO Star Wars Terrifying Tales
-*Released on 2021-10-01, vote average 7.3*
+*Released on 2021-10-01, vote average 6.6*
 
 Poe Dameron and BB-8 must face the greedy crime boss Graballa the Hutt, who has purchased Darth Vader’s castle and is renovating it into the galaxy’s first all-inclusive Sith-inspired luxury hotel.
 
@@ -310,7 +310,7 @@ Poe Dameron and BB-8 must face the greedy crime boss Graballa the Hutt, who has 
 	
 
 ### Bingo Hell
-*Released on 2021-10-01, vote average 5.5*
+*Released on 2021-10-01, vote average 5.7*
 
 In the Barrio of Oak Springs live a strong and stubborn group of elderly friends who refuse to be gentrified. Their leader, Lupita, keeps them together as a community, a family. But little did they know, their beloved Bingo hall is about to be sold to a much more powerful force than money itself.
 
@@ -332,7 +332,7 @@ In the Barrio of Oak Springs live a strong and stubborn group of elderly friends
 	
 
 ### The Many Saints of Newark
-*Released on 2021-09-22, vote average 7.1*
+*Released on 2021-09-22, vote average 6.8*
 
 Young Anthony Soprano is growing up in one of the most tumultuous eras in Newark, N.J., history, becoming a man just as rival gangsters start to rise up and challenge the all-powerful DiMeo crime family. Caught up in the changing times is the uncle he idolizes, Dickie Moltisanti, whose influence over his nephew will help shape the impressionable teenager into the all-powerful mob boss, Tony Soprano.
 
@@ -353,30 +353,8 @@ Young Anthony Soprano is growing up in one of the most tumultuous eras in Newark
 	
 	
 
-### American Night
-*Released on 2021-10-01, vote average 7.8*
-
-A neo-noir set in the New York City&#39;s corrupt contemporary art world where the art dealer John Kaplan and the ruthless head of New York&#39;s mafia, Michael Rubino, fight for money, art, power and love.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/fmffb2NHruM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Black as Night
-*Released on 2021-10-01, vote average 5.7*
+*Released on 2021-10-01, vote average 5.6*
 
 A teenage girl with self-esteem issues finds confidence in the most unlikely way, by spending her summer battling vampires that prey on New Orleans&#39; disenfranchised with the help of her best friend, the boy she&#39;s always pined for, and a peculiar rich girl.
 
@@ -394,6 +372,30 @@ A teenage girl with self-esteem issues finds confidence in the most unlikely way
   
 
 
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Forever Rich
+*Released on 2021-10-01, vote average 7.7*
+
+This is the story of Richie and his journey to become the greatest rap-artist in the Netherlands. One evening he is violently mugged by a group of teenagers and loses his most prized possession: an expensive watch. When images of the humiliating robbery go viral, Richie&#39;s hard-earned reputation is damaged.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/W5T7AOBdgoQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
