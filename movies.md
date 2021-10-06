@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Venom: Let There Be Carnage
-*Released on 2021-09-30, vote average 7.4*
+*Released on 2021-09-30, vote average 7.5*
 
 After finding a host body in investigative reporter Eddie Brock, the alien symbiote must face a new enemy, Carnage, the alter ego of serial killer Cletus Kasady.
 
@@ -47,7 +47,7 @@ After finding a host body in investigative reporter Eddie Brock, the alien symbi
 	
 
 ### Solitary
-*Released on 2021-09-24, vote average 6.8*
+*Released on 2021-09-24, vote average 6.5*
 
 A man wakes up inside a room to discover he&#39;s a prisoner sent into space to form Earth&#39;s first colony, and worse - his cell mate Alana is hell bent on destroying everything.
 
@@ -69,7 +69,7 @@ A man wakes up inside a room to discover he&#39;s a prisoner sent into space to 
 	
 
 ### My Little Pony: A New Generation
-*Released on 2021-09-23, vote average 8*
+*Released on 2021-09-23, vote average 8.1*
 
 Equestria&#39;s divided. But a bright-eyed hero believes Earth Ponies, Pegasi and Unicorns should be pals — and, hoof to heart, she’s determined to prove it.
 
@@ -133,20 +133,6 @@ When a husband and wife move to a small town, a home invasion leaves the wife tr
 
 	
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
 
 ### Confessions of an Invisible Girl
 *Released on 2021-09-22, vote average 7*
@@ -169,9 +155,23 @@ When the clever but socially-awkward Tetê joins a new school, she&#39;ll do any
 
 	
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
 
 ### The Addams Family 2
-*Released on 2021-10-01, vote average 8*
+*Released on 2021-10-01, vote average 8.1*
 
 The Addams get tangled up in more wacky adventures and find themselves involved in hilarious run-ins with all sorts of unsuspecting characters.
 
@@ -192,30 +192,8 @@ The Addams get tangled up in more wacky adventures and find themselves involved 
 	
 	
 
-### Birds of Paradise
-*Released on 2021-09-23, vote average 6.9*
-
-Two dancers at an elite ballet academy in Paris must compete for a contract to join the highly coveted Opéra National de Paris as they confront their competitive nature, sexual awakenings and how far they would go to win.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kC2BawGi6EM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Sounds Like Love
-*Released on 2021-09-29, vote average 6.4*
+*Released on 2021-09-29, vote average 6.7*
 
 Fashion assistant Maca has just about got her life together after a devastating breakup, when Leo, the man who broke her heart returns. Seeking support from best friends, Adriana and Jime, all three will learn love can be complicated.
 
@@ -259,7 +237,7 @@ An immigrant in search of the American dream is forced to take a room in a board
 	
 
 ### The Guilty
-*Released on 2021-09-24, vote average 6.8*
+*Released on 2021-09-24, vote average 6.7*
 
 A demoted police officer assigned to a call dispatch desk is conflicted when he receives an emergency phone call from a kidnapped woman.
 
@@ -268,6 +246,28 @@ A demoted police officer assigned to a call dispatch desk is conflicted when he 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/NaB_ERMAZu4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Birds of Paradise
+*Released on 2021-09-23, vote average 6.9*
+
+Two dancers at an elite ballet academy in Paris must compete for a contract to join the highly coveted Opéra National de Paris as they confront their competitive nature, sexual awakenings and how far they would go to win.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kC2BawGi6EM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -288,7 +288,7 @@ A demoted police officer assigned to a call dispatch desk is conflicted when he 
 	
 
 ### LEGO Star Wars Terrifying Tales
-*Released on 2021-10-01, vote average 6.6*
+*Released on 2021-10-01, vote average 7.3*
 
 Poe Dameron and BB-8 must face the greedy crime boss Graballa the Hutt, who has purchased Darth Vader’s castle and is renovating it into the galaxy’s first all-inclusive Sith-inspired luxury hotel.
 
@@ -310,7 +310,7 @@ Poe Dameron and BB-8 must face the greedy crime boss Graballa the Hutt, who has 
 	
 
 ### Bingo Hell
-*Released on 2021-10-01, vote average 5.7*
+*Released on 2021-10-01, vote average 5.4*
 
 In the Barrio of Oak Springs live a strong and stubborn group of elderly friends who refuse to be gentrified. Their leader, Lupita, keeps them together as a community, a family. But little did they know, their beloved Bingo hall is about to be sold to a much more powerful force than money itself.
 
@@ -332,7 +332,7 @@ In the Barrio of Oak Springs live a strong and stubborn group of elderly friends
 	
 
 ### The Many Saints of Newark
-*Released on 2021-09-22, vote average 6.8*
+*Released on 2021-09-22, vote average 6.6*
 
 Young Anthony Soprano is growing up in one of the most tumultuous eras in Newark, N.J., history, becoming a man just as rival gangsters start to rise up and challenge the all-powerful DiMeo crime family. Caught up in the changing times is the uncle he idolizes, Dickie Moltisanti, whose influence over his nephew will help shape the impressionable teenager into the all-powerful mob boss, Tony Soprano.
 
@@ -354,7 +354,7 @@ Young Anthony Soprano is growing up in one of the most tumultuous eras in Newark
 	
 
 ### Black as Night
-*Released on 2021-10-01, vote average 5.6*
+*Released on 2021-10-01, vote average 5.5*
 
 A teenage girl with self-esteem issues finds confidence in the most unlikely way, by spending her summer battling vampires that prey on New Orleans&#39; disenfranchised with the help of her best friend, the boy she&#39;s always pined for, and a peculiar rich girl.
 
@@ -374,16 +374,9 @@ A teenage girl with self-esteem issues finds confidence in the most unlikely way
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Forever Rich
-*Released on 2021-10-01, vote average 7.7*
+*Released on 2021-10-01, vote average 6.5*
 
 This is the story of Richie and his journey to become the greatest rap-artist in the Netherlands. One evening he is violently mugged by a group of teenagers and loses his most prized possession: an expensive watch. When images of the humiliating robbery go viral, Richie&#39;s hard-earned reputation is damaged.
 
@@ -392,6 +385,28 @@ This is the story of Richie and his journey to become the greatest rap-artist in
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/W5T7AOBdgoQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Swallow
+*Released on 2021-10-01, vote average 6*
+
+Set in the 1980s, Tolani Ajao is a bank secretary in Lagos, who finds herself persuaded by her friend Rose Adamson to enter the world of drug trafficking.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/WH19OJ7k270?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -436,11 +451,15 @@ This is the story of Richie and his journey to become the greatest rap-artist in
 	
 
 	
-
+	
 	
 
 	
 
+	
+
+	
+	
 	
 
 	
