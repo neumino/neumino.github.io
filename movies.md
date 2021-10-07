@@ -69,7 +69,7 @@ A man wakes up inside a room to discover he&#39;s a prisoner sent into space to 
 	
 
 ### My Little Pony: A New Generation
-*Released on 2021-09-23, vote average 8.1*
+*Released on 2021-09-23, vote average 8*
 
 Equestria&#39;s divided. But a bright-eyed hero believes Earth Ponies, Pegasi and Unicorns should be pals — and, hoof to heart, she’s determined to prove it.
 
@@ -91,7 +91,7 @@ Equestria&#39;s divided. But a bright-eyed hero believes Earth Ponies, Pegasi an
 	
 
 ### No Time to Die
-*Released on 2021-09-29, vote average 7.3*
+*Released on 2021-09-29, vote average 7.4*
 
 Bond has left active service and is enjoying a tranquil life in Jamaica. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help. The mission to rescue a kidnapped scientist turns out to be far more treacherous than expected, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.
 
@@ -112,66 +112,8 @@ Bond has left active service and is enjoying a tranquil life in Jamaica. His pea
 	
 	
 
-### Intrusion
-*Released on 2021-09-22, vote average 6.2*
-
-When a husband and wife move to a small town, a home invasion leaves the wife traumatized and suspicious that those around her might not be who they seem.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tAJVDe205tY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Confessions of an Invisible Girl
-*Released on 2021-09-22, vote average 7*
-
-When the clever but socially-awkward Tetê joins a new school, she&#39;ll do anything to fit in. But the queen bee among her classmates has other ideas.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/uGJBHueplss?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
 ### The Addams Family 2
-*Released on 2021-10-01, vote average 8.1*
+*Released on 2021-10-01, vote average 8*
 
 The Addams get tangled up in more wacky adventures and find themselves involved in hilarious run-ins with all sorts of unsuspecting characters.
 
@@ -193,7 +135,7 @@ The Addams get tangled up in more wacky adventures and find themselves involved 
 	
 
 ### Sounds Like Love
-*Released on 2021-09-29, vote average 6.7*
+*Released on 2021-09-29, vote average 7*
 
 Fashion assistant Maca has just about got her life together after a devastating breakup, when Leo, the man who broke her heart returns. Seeking support from best friends, Adriana and Jime, all three will learn love can be complicated.
 
@@ -257,21 +199,6 @@ A demoted police officer assigned to a call dispatch desk is conflicted when he 
 
 	
 	
-
-### Birds of Paradise
-*Released on 2021-09-23, vote average 6.9*
-
-Two dancers at an elite ballet academy in Paris must compete for a contract to join the highly coveted Opéra National de Paris as they confront their competitive nature, sexual awakenings and how far they would go to win.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kC2BawGi6EM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -288,7 +215,7 @@ Two dancers at an elite ballet academy in Paris must compete for a contract to j
 	
 
 ### LEGO Star Wars Terrifying Tales
-*Released on 2021-10-01, vote average 7.3*
+*Released on 2021-10-01, vote average 7.2*
 
 Poe Dameron and BB-8 must face the greedy crime boss Graballa the Hutt, who has purchased Darth Vader’s castle and is renovating it into the galaxy’s first all-inclusive Sith-inspired luxury hotel.
 
@@ -308,9 +235,16 @@ Poe Dameron and BB-8 must face the greedy crime boss Graballa the Hutt, who has 
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Bingo Hell
-*Released on 2021-10-01, vote average 5.4*
+*Released on 2021-10-01, vote average 5.1*
 
 In the Barrio of Oak Springs live a strong and stubborn group of elderly friends who refuse to be gentrified. Their leader, Lupita, keeps them together as a community, a family. But little did they know, their beloved Bingo hall is about to be sold to a much more powerful force than money itself.
 
@@ -331,16 +265,16 @@ In the Barrio of Oak Springs live a strong and stubborn group of elderly friends
 	
 	
 
-### The Many Saints of Newark
-*Released on 2021-09-22, vote average 6.6*
+### Black as Night
+*Released on 2021-10-01, vote average 5.6*
 
-Young Anthony Soprano is growing up in one of the most tumultuous eras in Newark, N.J., history, becoming a man just as rival gangsters start to rise up and challenge the all-powerful DiMeo crime family. Caught up in the changing times is the uncle he idolizes, Dickie Moltisanti, whose influence over his nephew will help shape the impressionable teenager into the all-powerful mob boss, Tony Soprano.
+A teenage girl with self-esteem issues finds confidence in the most unlikely way, by spending her summer battling vampires that prey on New Orleans&#39; disenfranchised with the help of her best friend, the boy she&#39;s always pined for, and a peculiar rich girl.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/d9Em4ckh878?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/iuXnGbxTxDE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -353,16 +287,16 @@ Young Anthony Soprano is growing up in one of the most tumultuous eras in Newark
 	
 	
 
-### Black as Night
-*Released on 2021-10-01, vote average 5.5*
+### Birds of Paradise
+*Released on 2021-09-23, vote average 7.1*
 
-A teenage girl with self-esteem issues finds confidence in the most unlikely way, by spending her summer battling vampires that prey on New Orleans&#39; disenfranchised with the help of her best friend, the boy she&#39;s always pined for, and a peculiar rich girl.
+Two dancers at an elite ballet academy in Paris must compete for a contract to join the highly coveted Opéra National de Paris as they confront their competitive nature, sexual awakenings and how far they would go to win.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/iuXnGbxTxDE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/kC2BawGi6EM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -416,6 +350,55 @@ Set in the 1980s, Tolani Ajao is a bank secretary in Lagos, who finds herself pe
   
 
 
+	
+	
+
+### Escape The Undertaker
+*Released on 2021-10-05, vote average 4*
+
+The Undertaker has set a trap for the decorated tag team The New Day at his mansion. What they don&#39;t know: The Undertaker&#39;s mansion is an extreme Haunted House, packed to the brim with supernatural challenges. It&#39;s up to viewers to decide the fate of these poor souls trying to survive the wrath of The Undertaker.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ldgpvlN8XL4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### VHS 94
+*Released on 2021-09-26, vote average 5.8*
+
+A mysterious VHS tape leads a police S.W.A.T. team to the discovery of a sinister cult whose collection of pre-recorded material reveals a nightmarish conspiracy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/opnSln8Ue2U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -427,6 +410,35 @@ Set in the 1980s, Tolani Ajao is a bank secretary in Lagos, who finds herself pe
 	
 
 	
+	
+
+### Last Night in Soho
+*Released on 2021-10-09, vote average 9*
+
+A young girl, passionate about fashion design, is mysteriously able to enter the 1960s where she encounters her idol, a dazzling wannabe singer. But 1960s London is not what it seems, and time seems to be falling apart with shady consequences.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/AcVnFrxjPjI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+	
 
 	
 
@@ -440,18 +452,6 @@ Set in the 1980s, Tolani Ajao is a bank secretary in Lagos, who finds herself pe
 
 	
 
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	
 	
 
 	
