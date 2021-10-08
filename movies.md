@@ -21,7 +21,7 @@ After finding a host body in investigative reporter Eddie Brock, the alien symbi
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/gU4vcJIbeOU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/jU8VNQKKF-g?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,16 +68,16 @@ A man wakes up inside a room to discover he&#39;s a prisoner sent into space to 
 	
 	
 
-### My Little Pony: A New Generation
-*Released on 2021-09-23, vote average 8*
+### The Addams Family 2
+*Released on 2021-10-01, vote average 8*
 
-Equestria&#39;s divided. But a bright-eyed hero believes Earth Ponies, Pegasi and Unicorns should be pals — and, hoof to heart, she’s determined to prove it.
+The Addams get tangled up in more wacky adventures and find themselves involved in hilarious run-ins with all sorts of unsuspecting characters.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Pa_PRDVpjSk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/946LiJiMQrQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,16 +112,16 @@ Bond has left active service and is enjoying a tranquil life in Jamaica. His pea
 	
 	
 
-### The Addams Family 2
-*Released on 2021-10-01, vote average 8*
+### No One Gets Out Alive
+*Released on 2021-09-29, vote average 6.1*
 
-The Addams get tangled up in more wacky adventures and find themselves involved in hilarious run-ins with all sorts of unsuspecting characters.
+An immigrant in search of the American dream is forced to take a room in a boarding house and soon finds herself in a nightmare from which she can&#39;t escape.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/946LiJiMQrQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/sY2TLiK27g4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -135,7 +135,7 @@ The Addams get tangled up in more wacky adventures and find themselves involved 
 	
 
 ### Sounds Like Love
-*Released on 2021-09-29, vote average 7*
+*Released on 2021-09-29, vote average 6.9*
 
 Fashion assistant Maca has just about got her life together after a devastating breakup, when Leo, the man who broke her heart returns. Seeking support from best friends, Adriana and Jime, all three will learn love can be complicated.
 
@@ -144,28 +144,6 @@ Fashion assistant Maca has just about got her life together after a devastating 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/nkf5PSXIn54?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### No One Gets Out Alive
-*Released on 2021-09-29, vote average 6.1*
-
-An immigrant in search of the American dream is forced to take a room in a boarding house and soon finds herself in a nightmare from which she can&#39;t escape.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/sY2TLiK27g4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -199,23 +177,9 @@ A demoted police officer assigned to a call dispatch desk is conflicted when he 
 
 	
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
 
 ### LEGO Star Wars Terrifying Tales
-*Released on 2021-10-01, vote average 7.2*
+*Released on 2021-10-01, vote average 7.3*
 
 Poe Dameron and BB-8 must face the greedy crime boss Graballa the Hutt, who has purchased Darth Vader’s castle and is renovating it into the galaxy’s first all-inclusive Sith-inspired luxury hotel.
 
@@ -235,16 +199,9 @@ Poe Dameron and BB-8 must face the greedy crime boss Graballa the Hutt, who has 
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Bingo Hell
-*Released on 2021-10-01, vote average 5.1*
+*Released on 2021-10-01, vote average 5.2*
 
 In the Barrio of Oak Springs live a strong and stubborn group of elderly friends who refuse to be gentrified. Their leader, Lupita, keeps them together as a community, a family. But little did they know, their beloved Bingo hall is about to be sold to a much more powerful force than money itself.
 
@@ -256,6 +213,20 @@ In the Barrio of Oak Springs live a strong and stubborn group of elderly friends
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -286,21 +257,6 @@ A teenage girl with self-esteem issues finds confidence in the most unlikely way
 
 	
 	
-
-### Birds of Paradise
-*Released on 2021-09-23, vote average 7.1*
-
-Two dancers at an elite ballet academy in Paris must compete for a contract to join the highly coveted Opéra National de Paris as they confront their competitive nature, sexual awakenings and how far they would go to win.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kC2BawGi6EM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -310,7 +266,7 @@ Two dancers at an elite ballet academy in Paris must compete for a contract to j
 	
 
 ### Forever Rich
-*Released on 2021-10-01, vote average 6.5*
+*Released on 2021-10-01, vote average 5.8*
 
 This is the story of Richie and his journey to become the greatest rap-artist in the Netherlands. One evening he is violently mugged by a group of teenagers and loses his most prized possession: an expensive watch. When images of the humiliating robbery go viral, Richie&#39;s hard-earned reputation is damaged.
 
@@ -354,7 +310,7 @@ Set in the 1980s, Tolani Ajao is a bank secretary in Lagos, who finds herself pe
 	
 
 ### Escape The Undertaker
-*Released on 2021-10-05, vote average 4*
+*Released on 2021-10-05, vote average 5*
 
 The Undertaker has set a trap for the decorated tag team The New Day at his mansion. What they don&#39;t know: The Undertaker&#39;s mansion is an extreme Haunted House, packed to the brim with supernatural challenges. It&#39;s up to viewers to decide the fate of these poor souls trying to survive the wrath of The Undertaker.
 
@@ -399,9 +355,25 @@ A mysterious VHS tape leads a police S.W.A.T. team to the discovery of a siniste
   
 
 
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 
 ## Opening soon
 
+
+	
+
+	
 
 	
 
@@ -437,8 +409,6 @@ A young girl, passionate about fashion design, is mysteriously able to enter the
 	
 
 	
-	
-	
 
 	
 
@@ -454,12 +424,6 @@ A young girl, passionate about fashion design, is mysteriously able to enter the
 
 	
 
-	
-
-	
-
-	
-	
 	
 
 	
