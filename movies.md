@@ -46,30 +46,8 @@ After finding a host body in investigative reporter Eddie Brock, the alien symbi
 	
 	
 
-### Solitary
-*Released on 2021-09-24, vote average 6.5*
-
-A man wakes up inside a room to discover he&#39;s a prisoner sent into space to form Earth&#39;s first colony, and worse - his cell mate Alana is hell bent on destroying everything.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/an_rs7Zx7Qs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Addams Family 2
-*Released on 2021-10-01, vote average 8*
+*Released on 2021-10-01, vote average 7.9*
 
 The Addams get tangled up in more wacky adventures and find themselves involved in hilarious run-ins with all sorts of unsuspecting characters.
 
@@ -78,28 +56,6 @@ The Addams get tangled up in more wacky adventures and find themselves involved 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/946LiJiMQrQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### No Time to Die
-*Released on 2021-09-29, vote average 7.4*
-
-Bond has left active service and is enjoying a tranquil life in Jamaica. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help. The mission to rescue a kidnapped scientist turns out to be far more treacherous than expected, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/N_gD9-Oa0fg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,38 +90,16 @@ An immigrant in search of the American dream is forced to take a room in a board
 	
 	
 
-### Sounds Like Love
-*Released on 2021-09-29, vote average 6.9*
+### No Time to Die
+*Released on 2021-09-29, vote average 7.3*
 
-Fashion assistant Maca has just about got her life together after a devastating breakup, when Leo, the man who broke her heart returns. Seeking support from best friends, Adriana and Jime, all three will learn love can be complicated.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nkf5PSXIn54?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Guilty
-*Released on 2021-09-24, vote average 6.7*
-
-A demoted police officer assigned to a call dispatch desk is conflicted when he receives an emergency phone call from a kidnapped woman.
+Bond has left active service and is enjoying a tranquil life in Jamaica. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help. The mission to rescue a kidnapped scientist turns out to be far more treacherous than expected, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/NaB_ERMAZu4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/N_gD9-Oa0fg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -200,6 +134,28 @@ Poe Dameron and BB-8 must face the greedy crime boss Graballa the Hutt, who has 
 	
 	
 
+### Sounds Like Love
+*Released on 2021-09-29, vote average 6.6*
+
+Fashion assistant Maca has just about got her life together after a devastating breakup, when Leo, the man who broke her heart returns. Seeking support from best friends, Adriana and Jime, all three will learn love can be complicated.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nkf5PSXIn54?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Bingo Hell
 *Released on 2021-10-01, vote average 5.2*
 
@@ -221,20 +177,6 @@ In the Barrio of Oak Springs live a strong and stubborn group of elderly friends
 
 	
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
 
 ### Black as Night
 *Released on 2021-10-01, vote average 5.6*
@@ -246,35 +188,6 @@ A teenage girl with self-esteem issues finds confidence in the most unlikely way
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/iuXnGbxTxDE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Forever Rich
-*Released on 2021-10-01, vote average 5.8*
-
-This is the story of Richie and his journey to become the greatest rap-artist in the Netherlands. One evening he is violently mugged by a group of teenagers and loses his most prized possession: an expensive watch. When images of the humiliating robbery go viral, Richie&#39;s hard-earned reputation is damaged.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/W5T7AOBdgoQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -309,8 +222,59 @@ Set in the 1980s, Tolani Ajao is a bank secretary in Lagos, who finds herself pe
 	
 	
 
+### Forever Rich
+*Released on 2021-10-01, vote average 5.5*
+
+This is the story of Richie and his journey to become the greatest rap-artist in the Netherlands. One evening he is violently mugged by a group of teenagers and loses his most prized possession: an expensive watch. When images of the humiliating robbery go viral, Richie&#39;s hard-earned reputation is damaged.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/W5T7AOBdgoQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### VHS 94
+*Released on 2021-09-26, vote average 6*
+
+A mysterious VHS tape leads a police S.W.A.T. team to the discovery of a sinister cult whose collection of pre-recorded material reveals a nightmarish conspiracy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/opnSln8Ue2U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Escape The Undertaker
-*Released on 2021-10-05, vote average 5*
+*Released on 2021-10-05, vote average 4.3*
 
 The Undertaker has set a trap for the decorated tag team The New Day at his mansion. What they don&#39;t know: The Undertaker&#39;s mansion is an extreme Haunted House, packed to the brim with supernatural challenges. It&#39;s up to viewers to decide the fate of these poor souls trying to survive the wrath of The Undertaker.
 
@@ -330,17 +294,34 @@ The Undertaker has set a trap for the decorated tag team The New Day at his mans
 
 	
 	
+	
 
-### VHS 94
-*Released on 2021-09-26, vote average 5.8*
+  
 
-A mysterious VHS tape leads a police S.W.A.T. team to the discovery of a sinister cult whose collection of pre-recorded material reveals a nightmarish conspiracy.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Last Night in Soho
+*Released on 2021-10-09, vote average 9*
+
+A young girl, passionate about fashion design, is mysteriously able to enter the 1960s where she encounters her idol, a dazzling wannabe singer. But 1960s London is not what it seems, and time seems to be falling apart with shady consequences.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/opnSln8Ue2U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/AcVnFrxjPjI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -356,11 +337,43 @@ A mysterious VHS tape leads a police S.W.A.T. team to the discovery of a siniste
 
 
 	
+	
+
+### Justin Bieber: Our World
+*Released on 2021-10-08, vote average 9*
+
+After a three-year hiatus from a full performance, and with concert venues shut down due to the pandemic, Bieber delivers an electrifying show to close out 2020 on the rooftop of the Beverly Hilton Hotel for 240 invited guests—and millions of fans across the globe watching via livestream. The film follows Bieber and his close-knit team in the month leading up to the show, as they rehearse and construct a monumental stage while adhering to strict health and safety protocols. The film also captures personal, self-shot moments between Bieber and his wife Hailey.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/CdR_o-y8GLA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
 	
+	
+
+### The Amityville Moon
+*Released on 2021-10-05, vote average 9*
+
+As Alyssa and Karla try to escape from the church home that holds them captive, Karla is slaughtered by a vicious, semi-human creature. After Detective Kimball tracks down Alyssa at a rowdy biker bar, she tells Kimball that women inmates disappear every full moon, and shows him the silver bullets in her gun. Now the two must return to the halfway house to confront the priest and nuns—and the snarling, savage evil—that dwell within.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZZ6oyiC8-ng?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -370,10 +383,6 @@ A mysterious VHS tape leads a police S.W.A.T. team to the discovery of a siniste
 
 ## Opening soon
 
-
-	
-
-	
 
 	
 
@@ -398,6 +407,10 @@ A young girl, passionate about fashion design, is mysteriously able to enter the
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
 	
 
 	
