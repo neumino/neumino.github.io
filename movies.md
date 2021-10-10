@@ -68,6 +68,28 @@ The Addams get tangled up in more wacky adventures and find themselves involved 
 	
 	
 
+### LEGO Star Wars Terrifying Tales
+*Released on 2021-10-01, vote average 7.4*
+
+Poe Dameron and BB-8 must face the greedy crime boss Graballa the Hutt, who has purchased Darth Vader’s castle and is renovating it into the galaxy’s first all-inclusive Sith-inspired luxury hotel.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/a4Xyiun4LXs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### No One Gets Out Alive
 *Released on 2021-09-29, vote average 6.1*
 
@@ -112,30 +134,8 @@ Bond has left active service and is enjoying a tranquil life in Jamaica. His pea
 	
 	
 
-### LEGO Star Wars Terrifying Tales
-*Released on 2021-10-01, vote average 7.3*
-
-Poe Dameron and BB-8 must face the greedy crime boss Graballa the Hutt, who has purchased Darth Vader’s castle and is renovating it into the galaxy’s first all-inclusive Sith-inspired luxury hotel.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/a4Xyiun4LXs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Sounds Like Love
-*Released on 2021-09-29, vote average 6.6*
+*Released on 2021-09-29, vote average 6.7*
 
 Fashion assistant Maca has just about got her life together after a devastating breakup, when Leo, the man who broke her heart returns. Seeking support from best friends, Adriana and Jime, all three will learn love can be complicated.
 
@@ -144,28 +144,6 @@ Fashion assistant Maca has just about got her life together after a devastating 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/nkf5PSXIn54?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Bingo Hell
-*Released on 2021-10-01, vote average 5.2*
-
-In the Barrio of Oak Springs live a strong and stubborn group of elderly friends who refuse to be gentrified. Their leader, Lupita, keeps them together as a community, a family. But little did they know, their beloved Bingo hall is about to be sold to a much more powerful force than money itself.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/m1DQx4Z-QPU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -188,6 +166,28 @@ A teenage girl with self-esteem issues finds confidence in the most unlikely way
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/iuXnGbxTxDE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Bingo Hell
+*Released on 2021-10-01, vote average 4.9*
+
+In the Barrio of Oak Springs live a strong and stubborn group of elderly friends who refuse to be gentrified. Their leader, Lupita, keeps them together as a community, a family. But little did they know, their beloved Bingo hall is about to be sold to a much more powerful force than money itself.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/m1DQx4Z-QPU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -223,7 +223,7 @@ Set in the 1980s, Tolani Ajao is a bank secretary in Lagos, who finds herself pe
 	
 
 ### Forever Rich
-*Released on 2021-10-01, vote average 5.5*
+*Released on 2021-10-01, vote average 5.6*
 
 This is the story of Richie and his journey to become the greatest rap-artist in the Netherlands. One evening he is violently mugged by a group of teenagers and loses his most prized possession: an expensive watch. When images of the humiliating robbery go viral, Richie&#39;s hard-earned reputation is damaged.
 
@@ -251,8 +251,8 @@ This is the story of Richie and his journey to become the greatest rap-artist in
 	
 	
 
-### VHS 94
-*Released on 2021-09-26, vote average 6*
+### V/H/S/94
+*Released on 2021-09-26, vote average 5.7*
 
 A mysterious VHS tape leads a police S.W.A.T. team to the discovery of a sinister cult whose collection of pre-recorded material reveals a nightmarish conspiracy.
 
@@ -274,7 +274,7 @@ A mysterious VHS tape leads a police S.W.A.T. team to the discovery of a siniste
 	
 
 ### Escape The Undertaker
-*Released on 2021-10-05, vote average 4.3*
+*Released on 2021-10-05, vote average 4.6*
 
 The Undertaker has set a trap for the decorated tag team The New Day at his mansion. What they don&#39;t know: The Undertaker&#39;s mansion is an extreme Haunted House, packed to the brim with supernatural challenges. It&#39;s up to viewers to decide the fate of these poor souls trying to survive the wrath of The Undertaker.
 
@@ -294,16 +294,6 @@ The Undertaker has set a trap for the decorated tag team The New Day at his mans
 
 	
 	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -340,7 +330,7 @@ A young girl, passionate about fashion design, is mysteriously able to enter the
 	
 
 ### Justin Bieber: Our World
-*Released on 2021-10-08, vote average 9*
+*Released on 2021-10-08, vote average 7.5*
 
 After a three-year hiatus from a full performance, and with concert venues shut down due to the pandemic, Bieber delivers an electrifying show to close out 2020 on the rooftop of the Beverly Hilton Hotel for 240 invited guests—and millions of fans across the globe watching via livestream. The film follows Bieber and his close-knit team in the month leading up to the show, as they rehearse and construct a monumental stage while adhering to strict health and safety protocols. The film also captures personal, self-shot moments between Bieber and his wife Hailey.
 
@@ -361,16 +351,43 @@ After a three-year hiatus from a full performance, and with concert venues shut 
 	
 	
 
-### The Amityville Moon
-*Released on 2021-10-05, vote average 9*
+### The Manor
+*Released on 2021-10-08, vote average 6*
 
-As Alyssa and Karla try to escape from the church home that holds them captive, Karla is slaughtered by a vicious, semi-human creature. After Detective Kimball tracks down Alyssa at a rowdy biker bar, she tells Kimball that women inmates disappear every full moon, and shows him the silver bullets in her gun. Now the two must return to the halfway house to confront the priest and nuns—and the snarling, savage evil—that dwell within.
+After suffering a stroke, Judith moves into a historic nursing home, where she begins to suspect something supernatural is preying on the residents. With no one willing to believe her, Judith must either escape the confines of the manor, or fall victim to the evil that dwells within it.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ZZ6oyiC8-ng?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/kKIhdhesFTk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Madres
+*Released on 2021-10-08, vote average 5.5*
+
+A Mexican-American couple expecting their first child relocate to a migrant farming community in 1970&#39;s California. When the wife begins to experience strange symptoms and terrifying visions, she tries to determine if it&#39;s related to a legendary curse or something more nefarious
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/GNusqV6dUfY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -390,23 +407,6 @@ As Alyssa and Karla try to escape from the church home that holds them captive, 
 
 	
 
-	
-	
-
-### Last Night in Soho
-*Released on 2021-10-09, vote average 9*
-
-A young girl, passionate about fashion design, is mysteriously able to enter the 1960s where she encounters her idol, a dazzling wannabe singer. But 1960s London is not what it seems, and time seems to be falling apart with shady consequences.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/AcVnFrxjPjI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
