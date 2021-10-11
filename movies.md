@@ -47,7 +47,7 @@ After finding a host body in investigative reporter Eddie Brock, the alien symbi
 	
 
 ### The Addams Family 2
-*Released on 2021-10-01, vote average 7.9*
+*Released on 2021-10-01, vote average 7.8*
 
 The Addams get tangled up in more wacky adventures and find themselves involved in hilarious run-ins with all sorts of unsuspecting characters.
 
@@ -69,7 +69,7 @@ The Addams get tangled up in more wacky adventures and find themselves involved 
 	
 
 ### LEGO Star Wars Terrifying Tales
-*Released on 2021-10-01, vote average 7.4*
+*Released on 2021-10-01, vote average 7.3*
 
 Poe Dameron and BB-8 must face the greedy crime boss Graballa the Hutt, who has purchased Darth Vader’s castle and is renovating it into the galaxy’s first all-inclusive Sith-inspired luxury hotel.
 
@@ -78,6 +78,28 @@ Poe Dameron and BB-8 must face the greedy crime boss Graballa the Hutt, who has 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/a4Xyiun4LXs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### No Time to Die
+*Released on 2021-09-29, vote average 7.4*
+
+Bond has left active service and is enjoying a tranquil life in Jamaica. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help. The mission to rescue a kidnapped scientist turns out to be far more treacherous than expected, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/N_gD9-Oa0fg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -100,28 +122,6 @@ An immigrant in search of the American dream is forced to take a room in a board
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/sY2TLiK27g4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### No Time to Die
-*Released on 2021-09-29, vote average 7.3*
-
-Bond has left active service and is enjoying a tranquil life in Jamaica. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help. The mission to rescue a kidnapped scientist turns out to be far more treacherous than expected, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/N_gD9-Oa0fg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -179,7 +179,7 @@ A teenage girl with self-esteem issues finds confidence in the most unlikely way
 	
 
 ### Bingo Hell
-*Released on 2021-10-01, vote average 4.9*
+*Released on 2021-10-01, vote average 5*
 
 In the Barrio of Oak Springs live a strong and stubborn group of elderly friends who refuse to be gentrified. Their leader, Lupita, keeps them together as a community, a family. But little did they know, their beloved Bingo hall is about to be sold to a much more powerful force than money itself.
 
@@ -223,7 +223,7 @@ Set in the 1980s, Tolani Ajao is a bank secretary in Lagos, who finds herself pe
 	
 
 ### Forever Rich
-*Released on 2021-10-01, vote average 5.6*
+*Released on 2021-10-01, vote average 6.3*
 
 This is the story of Richie and his journey to become the greatest rap-artist in the Netherlands. One evening he is violently mugged by a group of teenagers and loses his most prized possession: an expensive watch. When images of the humiliating robbery go viral, Richie&#39;s hard-earned reputation is damaged.
 
@@ -242,28 +242,6 @@ This is the story of Richie and his journey to become the greatest rap-artist in
 
 
 	
-	
-	
-
-  
-
-
-	
-	
-
-### V/H/S/94
-*Released on 2021-09-26, vote average 5.7*
-
-A mysterious VHS tape leads a police S.W.A.T. team to the discovery of a sinister cult whose collection of pre-recorded material reveals a nightmarish conspiracy.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/opnSln8Ue2U?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -302,35 +280,8 @@ The Undertaker has set a trap for the decorated tag team The New Day at his mans
 	
 	
 
-### Last Night in Soho
-*Released on 2021-10-09, vote average 9*
-
-A young girl, passionate about fashion design, is mysteriously able to enter the 1960s where she encounters her idol, a dazzling wannabe singer. But 1960s London is not what it seems, and time seems to be falling apart with shady consequences.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/AcVnFrxjPjI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### Justin Bieber: Our World
-*Released on 2021-10-08, vote average 7.5*
+*Released on 2021-10-08, vote average 8.3*
 
 After a three-year hiatus from a full performance, and with concert venues shut down due to the pandemic, Bieber delivers an electrifying show to close out 2020 on the rooftop of the Beverly Hilton Hotel for 240 invited guests—and millions of fans across the globe watching via livestream. The film follows Bieber and his close-knit team in the month leading up to the show, as they rehearse and construct a monumental stage while adhering to strict health and safety protocols. The film also captures personal, self-shot moments between Bieber and his wife Hailey.
 
@@ -352,7 +303,7 @@ After a three-year hiatus from a full performance, and with concert venues shut 
 	
 
 ### The Manor
-*Released on 2021-10-08, vote average 6*
+*Released on 2021-10-08, vote average 4.8*
 
 After suffering a stroke, Judith moves into a historic nursing home, where she begins to suspect something supernatural is preying on the residents. With no one willing to believe her, Judith must either escape the confines of the manor, or fall victim to the evil that dwells within it.
 
@@ -365,11 +316,6 @@ After suffering a stroke, Judith moves into a historic nursing home, where she b
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -397,12 +343,119 @@ A Mexican-American couple expecting their first child relocate to a migrant farm
   
 
 
+	
+
+  
+
+
+	
+	
+
+### Grudge
+*Released on 2021-10-08, vote average 6.1*
+
+Ahead of a promotion, a police chief becomes entangled in a deadly incident and uncovers an intrigue fueled by grudge that threatens his colleagues.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LM2sdqqk5Uo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### South of Heaven
+*Released on 2021-10-08, vote average 6*
+
+Convicted felon Jimmy gets early parole after serving twelve years for armed robbery. Upon his release, he vows to give Annie, his childhood love, now dying from cancer, the best last year of her life – unfortunately it’s not that simple.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nBFlIvCJTo8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Survive the Game
+*Released on 2021-10-08, vote average 9*
+
+When cop David is injured in a drug bust gone wrong, his partner Cal chases the two criminals who shot him. They all land at a remote farm owned by troubled vet Eric, and as Cal and Eric plot their defense, more of the gang arrives - along with a wounded David. Outnumbered, the three heroes must use stealth, smarts, and good shooting to take down the drug-dealing mob.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xT8uydi9bDQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 
 ## Opening soon
 
 
 	
+	
 
+### Halloween Kills
+*Released on 2021-10-14, vote average 5*
+
+After Laurie, Karen and Allyson leave the masked monster Michael Myers caged and burning in Laurie&#39;s basement, Laurie is rushed to the hospital with fatal injuries, believing she has finally killed her algorithm.  But when Michael manages to free himself from Laurie&#39;s trap, his bloodbath ritual begins again. As she fights her pain and prepares to defend against it, she inspires everyone in Haddonfield to rise up against The Shape.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hL6R3HmQfPc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+	
+
+### The Last Duel
+*Released on 2021-10-13, vote average 7.3*
+
+King Charles VI declares that Knight Jean de Carrouges settle his dispute with his squire by challenging him to a duel.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QTBSb0i09kI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -436,9 +489,41 @@ A Mexican-American couple expecting their first child relocate to a migrant farm
 	
 
 	
-
 	
 
+### The Velvet Underground
+*Released on 2021-10-15, vote average 6*
+
+Experience the iconic rock band&#39;s legacy in the first major documentary to tell their story. Directed with the era’s avant-garde spirit by Todd Haynes, this kaleidoscopic oral history combines exclusive interviews with dazzling archival footage.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hWq7a8Tin8g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### The Worst Person in the World
+*Released on 2021-10-13, vote average 9*
+
+Chronicles four years in the life of Julie, a young woman who navigates the troubled waters of her love life and struggles to find her career path, leading her to take a realistic look at who she really is.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/55M5ZgAqbWo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 
