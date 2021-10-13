@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Venom: Let There Be Carnage
-*Released on 2021-09-30, vote average 7.5*
+*Released on 2021-09-30, vote average 7.4*
 
 After finding a host body in investigative reporter Eddie Brock, the alien symbiote must face a new enemy, Carnage, the alter ego of serial killer Cletus Kasady.
 
@@ -178,6 +178,35 @@ A teenage girl with self-esteem issues finds confidence in the most unlikely way
 	
 	
 
+### Escape The Undertaker
+*Released on 2021-10-05, vote average 4.2*
+
+The Undertaker has set a trap for the decorated tag team The New Day at his mansion. What they don&#39;t know: The Undertaker&#39;s mansion is an extreme Haunted House, packed to the brim with supernatural challenges. It&#39;s up to viewers to decide the fate of these poor souls trying to survive the wrath of The Undertaker.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ldgpvlN8XL4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
 ### Bingo Hell
 *Released on 2021-10-01, vote average 5.1*
 
@@ -243,35 +272,6 @@ This is the story of Richie and his journey to become the greatest rap-artist in
 
 	
 	
-
-### Escape The Undertaker
-*Released on 2021-10-05, vote average 4.3*
-
-The Undertaker has set a trap for the decorated tag team The New Day at his mansion. What they don&#39;t know: The Undertaker&#39;s mansion is an extreme Haunted House, packed to the brim with supernatural challenges. It&#39;s up to viewers to decide the fate of these poor souls trying to survive the wrath of The Undertaker.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ldgpvlN8XL4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -281,7 +281,7 @@ The Undertaker has set a trap for the decorated tag team The New Day at his mans
 	
 
 ### Justin Bieber: Our World
-*Released on 2021-10-08, vote average 7.4*
+*Released on 2021-10-08, vote average 7.8*
 
 After a three-year hiatus from a full performance, and with concert venues shut down due to the pandemic, Bieber delivers an electrifying show to close out 2020 on the rooftop of the Beverly Hilton Hotel for 240 invited guests—and millions of fans across the globe watching via livestream. The film follows Bieber and his close-knit team in the month leading up to the show, as they rehearse and construct a monumental stage while adhering to strict health and safety protocols. The film also captures personal, self-shot moments between Bieber and his wife Hailey.
 
@@ -303,7 +303,7 @@ After a three-year hiatus from a full performance, and with concert venues shut 
 	
 
 ### The Manor
-*Released on 2021-10-08, vote average 4.5*
+*Released on 2021-10-08, vote average 5.2*
 
 After suffering a stroke, Judith moves into a historic nursing home, where she begins to suspect something supernatural is preying on the residents. With no one willing to believe her, Judith must either escape the confines of the manor, or fall victim to the evil that dwells within it.
 
@@ -325,7 +325,7 @@ After suffering a stroke, Judith moves into a historic nursing home, where she b
 	
 
 ### Madres
-*Released on 2021-10-08, vote average 5*
+*Released on 2021-10-08, vote average 5.6*
 
 A Mexican-American couple expecting their first child relocate to a migrant farming community in 1970&#39;s California. When the wife begins to experience strange symptoms and terrifying visions, she tries to determine if it&#39;s related to a legendary curse or something more nefarious
 
@@ -347,7 +347,7 @@ A Mexican-American couple expecting their first child relocate to a migrant farm
 	
 
 ### Injustice
-*Released on 2021-10-09, vote average 5.5*
+*Released on 2021-10-09, vote average 7.9*
 
 When Lois Lane is killed, an unhinged Superman decides to take control of the Earth. Determined to stop him, Batman creates a team of freedom-fighting heroes. But when superheroes go to war, can the world survive?
 
@@ -390,8 +390,30 @@ Ahead of a promotion, a police chief becomes entangled in a deadly incident and 
 	
 	
 
+### The Last Duel
+*Released on 2021-10-13, vote average 8*
+
+King Charles VI declares that Knight Jean de Carrouges settle his dispute with his squire by challenging him to a duel.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QTBSb0i09kI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Muppets Haunted Mansion
-*Released on 2021-10-08, vote average 5.8*
+*Released on 2021-10-08, vote average 6.2*
 
 Gonzo is challenged to spend one night in The Haunted Mansion on Halloween night.
 
@@ -409,28 +431,6 @@ Gonzo is challenged to spend one night in The Haunted Mansion on Halloween night
   
 
 
-	
-	
-
-### My Brother, My Sister
-*Released on 2021-10-08, vote average 7*
-
-When their father&#39;s will forces them to live together, siblings Nik and Tesla — and Tesla&#39;s kids — try to overcome their differences to become a family.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/lIhlwbDz510?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -439,15 +439,34 @@ When their father&#39;s will forces them to live together, siblings Nik and Tesl
 	
 
 ### Halloween Kills
-*Released on 2021-10-14, vote average 6.8*
+*Released on 2021-10-14, vote average 8.4*
 
-The nightmare isn&#39;t over as unstoppable killer Michael Myers escapes from Laurie Strode&#39;s trap to continue his ritual bloodbath. Injured and taken to the hospital, Laurie fights through the pain as she inspires residents of Haddonfield, Ill., to rise up against Myers. Taking matters into their own hands, the Strode women and other survivors form a vigilante mob to hunt down Michael and end his reign of terror once and for all.
+The nightmare isn&#39;t over as unstoppable killer Michael Myers escapes from Laurie Strode&#39;s trap to continue his ritual bloodbath. Injured and taken to the hospital, Laurie fights through the pain as she inspires the residents of Haddonfield to rise up against Myers. Taking matters into their own hands, the Strode women and other survivors form a vigilante mob to hunt down Michael and end his reign of terror once and for all.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/hL6R3HmQfPc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### The Last Duel
+*Released on 2021-10-13, vote average 8*
+
+King Charles VI declares that Knight Jean de Carrouges settle his dispute with his squire by challenging him to a duel.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QTBSb0i09kI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -476,31 +495,6 @@ In a world where walking, talking, digitally connected bots have become children
 	
 
 	
-	
-
-### The Last Duel
-*Released on 2021-10-13, vote average 8*
-
-King Charles VI declares that Knight Jean de Carrouges settle his dispute with his squire by challenging him to a duel.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/QTBSb0i09kI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
-
-	
 
 	
 	
@@ -519,6 +513,12 @@ Chronicles four years in the life of Julie, a young woman who navigates the trou
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
 	
 
 	
