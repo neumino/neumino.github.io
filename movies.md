@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Venom: Let There Be Carnage
-*Released on 2021-09-30, vote average 7.4*
+*Released on 2021-09-30, vote average 7.2*
 
 After finding a host body in investigative reporter Eddie Brock, the alien symbiote must face a new enemy, Carnage, the alter ego of serial killer Cletus Kasady.
 
@@ -47,7 +47,7 @@ After finding a host body in investigative reporter Eddie Brock, the alien symbi
 	
 
 ### The Addams Family 2
-*Released on 2021-10-01, vote average 7.7*
+*Released on 2021-10-01, vote average 7.6*
 
 The Addams get tangled up in more wacky adventures and find themselves involved in hilarious run-ins with all sorts of unsuspecting characters.
 
@@ -90,16 +90,16 @@ Poe Dameron and BB-8 must face the greedy crime boss Graballa the Hutt, who has 
 	
 	
 
-### No One Gets Out Alive
-*Released on 2021-09-29, vote average 6.1*
+### Escape The Undertaker
+*Released on 2021-10-05, vote average 4.2*
 
-An immigrant in search of the American dream is forced to take a room in a boarding house and soon finds herself in a nightmare from which she can&#39;t escape.
+The Undertaker has set a trap for the decorated tag team The New Day at his mansion. What they don&#39;t know: The Undertaker&#39;s mansion is an extreme Haunted House, packed to the brim with supernatural challenges. It&#39;s up to viewers to decide the fate of these poor souls trying to survive the wrath of The Undertaker.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/sY2TLiK27g4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ldgpvlN8XL4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -110,43 +110,6 @@ An immigrant in search of the American dream is forced to take a room in a board
 
 
 	
-	
-
-### No Time to Die
-*Released on 2021-09-29, vote average 7.3*
-
-Bond has left active service and is enjoying a tranquil life in Jamaica. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help. The mission to rescue a kidnapped scientist turns out to be far more treacherous than expected, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/N_gD9-Oa0fg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Sounds Like Love
-*Released on 2021-09-29, vote average 6.8*
-
-Fashion assistant Maca has just about got her life together after a devastating breakup, when Leo, the man who broke her heart returns. Seeking support from best friends, Adriana and Jime, all three will learn love can be complicated.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nkf5PSXIn54?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -178,99 +141,19 @@ A teenage girl with self-esteem issues finds confidence in the most unlikely way
 	
 	
 
-### Escape The Undertaker
-*Released on 2021-10-05, vote average 4.2*
+### Halloween Kills
+*Released on 2021-10-14, vote average 8.4*
 
-The Undertaker has set a trap for the decorated tag team The New Day at his mansion. What they don&#39;t know: The Undertaker&#39;s mansion is an extreme Haunted House, packed to the brim with supernatural challenges. It&#39;s up to viewers to decide the fate of these poor souls trying to survive the wrath of The Undertaker.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ldgpvlN8XL4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Bingo Hell
-*Released on 2021-10-01, vote average 5.1*
-
-In the Barrio of Oak Springs live a strong and stubborn group of elderly friends who refuse to be gentrified. Their leader, Lupita, keeps them together as a community, a family. But little did they know, their beloved Bingo hall is about to be sold to a much more powerful force than money itself.
+Minutes after Laurie Strode, her daughter Karen and granddaughter Allyson left masked monster Michael Myers caged and burning in Laurie&#39;s basement, Laurie is rushed to the hospital with life-threatening injuries, believing she finally killed her lifelong tormentor. But when Michael manages to free himself from Laurie&#39;s trap, his ritual bloodbath resumes. As Laurie fights her pain and prepares to defend herself against him, she inspires all of Haddonfield to rise up against their unstoppable monster. The Strode women join a group of other survivors of Michael&#39;s first rampage who decide to take matters into their own hands, forming a vigilante mob that sets out to hunt Michael down, once and for all.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/m1DQx4Z-QPU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/hL6R3HmQfPc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
-	
-
-### Swallow
-*Released on 2021-10-01, vote average 4.7*
-
-Set in the 1980s, Tolani Ajao is a bank secretary in Lagos, who finds herself persuaded by her friend Rose Adamson to enter the world of drug trafficking.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/WH19OJ7k270?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Forever Rich
-*Released on 2021-10-01, vote average 5.9*
-
-This is the story of Richie and his journey to become the greatest rap-artist in the Netherlands. One evening he is violently mugged by a group of teenagers and loses his most prized possession: an expensive watch. When images of the humiliating robbery go viral, Richie&#39;s hard-earned reputation is damaged.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/W5T7AOBdgoQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -281,7 +164,7 @@ This is the story of Richie and his journey to become the greatest rap-artist in
 	
 
 ### Justin Bieber: Our World
-*Released on 2021-10-08, vote average 7.8*
+*Released on 2021-10-08, vote average 8.1*
 
 After a three-year hiatus from a full performance, and with concert venues shut down due to the pandemic, Bieber delivers an electrifying show to close out 2020 on the rooftop of the Beverly Hilton Hotel for 240 invited guests—and millions of fans across the globe watching via livestream. The film follows Bieber and his close-knit team in the month leading up to the show, as they rehearse and construct a monumental stage while adhering to strict health and safety protocols. The film also captures personal, self-shot moments between Bieber and his wife Hailey.
 
@@ -302,16 +185,16 @@ After a three-year hiatus from a full performance, and with concert venues shut 
 	
 	
 
-### The Manor
-*Released on 2021-10-08, vote average 5.2*
+### Bingo Hell
+*Released on 2021-10-01, vote average 5.1*
 
-After suffering a stroke, Judith moves into a historic nursing home, where she begins to suspect something supernatural is preying on the residents. With no one willing to believe her, Judith must either escape the confines of the manor, or fall victim to the evil that dwells within it.
+In the Barrio of Oak Springs live a strong and stubborn group of elderly friends who refuse to be gentrified. Their leader, Lupita, keeps them together as a community, a family. But little did they know, their beloved Bingo hall is about to be sold to a much more powerful force than money itself.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/kKIhdhesFTk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/m1DQx4Z-QPU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -346,8 +229,30 @@ A Mexican-American couple expecting their first child relocate to a migrant farm
 	
 	
 
+### Swallow
+*Released on 2021-10-01, vote average 4.7*
+
+Set in the 1980s, Tolani Ajao is a bank secretary in Lagos, who finds herself persuaded by her friend Rose Adamson to enter the world of drug trafficking.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/WH19OJ7k270?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Injustice
-*Released on 2021-10-09, vote average 7.9*
+*Released on 2021-10-09, vote average 8.1*
 
 When Lois Lane is killed, an unhinged Superman decides to take control of the Earth. Determined to stop him, Batman creates a team of freedom-fighting heroes. But when superheroes go to war, can the world survive?
 
@@ -369,7 +274,7 @@ When Lois Lane is killed, an unhinged Superman decides to take control of the Ea
 	
 
 ### Grudge
-*Released on 2021-10-08, vote average 5.3*
+*Released on 2021-10-08, vote average 6.1*
 
 Ahead of a promotion, a police chief becomes entangled in a deadly incident and uncovers an intrigue fueled by grudge that threatens his colleagues.
 
@@ -390,6 +295,28 @@ Ahead of a promotion, a police chief becomes entangled in a deadly incident and 
 	
 	
 
+### Forever Rich
+*Released on 2021-10-01, vote average 5.8*
+
+This is the story of Richie and his journey to become the greatest rap-artist in the Netherlands. One evening he is violently mugged by a group of teenagers and loses his most prized possession: an expensive watch. When images of the humiliating robbery go viral, Richie&#39;s hard-earned reputation is damaged.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/W5T7AOBdgoQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Last Duel
 *Released on 2021-10-13, vote average 8*
 
@@ -399,7 +326,29 @@ King Charles VI declares that Knight Jean de Carrouges settle his dispute with h
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/QTBSb0i09kI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/rPapNDpFoeY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Manor
+*Released on 2021-10-08, vote average 5.3*
+
+After suffering a stroke, Judith moves into a historic nursing home, where she begins to suspect something supernatural is preying on the residents. With no one willing to believe her, Judith must either escape the confines of the manor, or fall victim to the evil that dwells within it.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kKIhdhesFTk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -413,7 +362,7 @@ King Charles VI declares that Knight Jean de Carrouges settle his dispute with h
 	
 
 ### Muppets Haunted Mansion
-*Released on 2021-10-08, vote average 6.2*
+*Released on 2021-10-08, vote average 6*
 
 Gonzo is challenged to spend one night in The Haunted Mansion on Halloween night.
 
@@ -431,6 +380,55 @@ Gonzo is challenged to spend one night in The Haunted Mansion on Halloween night
   
 
 
+	
+	
+
+### My Brother, My Sister
+*Released on 2021-10-08, vote average 6.9*
+
+When their father&#39;s will forces them to live together, siblings Nik and Tesla — and Tesla&#39;s kids — try to overcome their differences to become a family.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/lIhlwbDz510?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Old Henry
+*Released on 2021-10-01, vote average 7.6*
+
+A widowed farmer and his son warily take in a mysterious, injured man with a satchel of cash. When a posse of men claiming to be the law come for the money, the farmer must decide who to trust. Defending a siege of his homestead, the farmer reveals a talent for gun-slinging that surprises everyone calling his true identity into question.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fHBdCN62gtk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -441,32 +439,13 @@ Gonzo is challenged to spend one night in The Haunted Mansion on Halloween night
 ### Halloween Kills
 *Released on 2021-10-14, vote average 8.4*
 
-The nightmare isn&#39;t over as unstoppable killer Michael Myers escapes from Laurie Strode&#39;s trap to continue his ritual bloodbath. Injured and taken to the hospital, Laurie fights through the pain as she inspires the residents of Haddonfield to rise up against Myers. Taking matters into their own hands, the Strode women and other survivors form a vigilante mob to hunt down Michael and end his reign of terror once and for all.
+Minutes after Laurie Strode, her daughter Karen and granddaughter Allyson left masked monster Michael Myers caged and burning in Laurie&#39;s basement, Laurie is rushed to the hospital with life-threatening injuries, believing she finally killed her lifelong tormentor. But when Michael manages to free himself from Laurie&#39;s trap, his ritual bloodbath resumes. As Laurie fights her pain and prepares to defend herself against him, she inspires all of Haddonfield to rise up against their unstoppable monster. The Strode women join a group of other survivors of Michael&#39;s first rampage who decide to take matters into their own hands, forming a vigilante mob that sets out to hunt Michael down, once and for all.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/hL6R3HmQfPc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### The Last Duel
-*Released on 2021-10-13, vote average 8*
-
-King Charles VI declares that Knight Jean de Carrouges settle his dispute with his squire by challenging him to a duel.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/QTBSb0i09kI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -497,18 +476,26 @@ In a world where walking, talking, digitally connected bots have become children
 	
 
 	
+
 	
 
-### The Worst Person in the World
-*Released on 2021-10-13, vote average 9*
+	
 
-Chronicles four years in the life of Julie, a young woman who navigates the troubled waters of her love life and struggles to find her career path, leading her to take a realistic look at who she really is.
+	
+
+	
+	
+
+### The Velvet Underground
+*Released on 2021-10-15, vote average 6*
+
+Experience the iconic rock band&#39;s legacy in the first major documentary to tell their story. Directed with the era’s avant-garde spirit by Todd Haynes, this kaleidoscopic oral history combines exclusive interviews with dazzling archival footage.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/55M5ZgAqbWo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/hWq7a8Tin8g?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -518,7 +505,7 @@ Chronicles four years in the life of Julie, a young woman who navigates the trou
 	
 
 	
-
+	
 	
 
 	
@@ -526,9 +513,22 @@ Chronicles four years in the life of Julie, a young woman who navigates the trou
 	
 
 	
-
 	
 
+### Nussa
+*Released on 2021-10-14, vote average 9*
+
+Planning to impress his father who is coming home after being abroad for a year, Nussa the smart 9-year-old kid participates in his school’s science competition. But when he receives news that his father cancelled his trip home and is unable to attend the competition, and at the same time a new, smart student named Jonni quickly becomes his rival in the school&#39;s science competition, Nussa learns the true meaning of gratitude.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/rbJ4VaOW8cs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
