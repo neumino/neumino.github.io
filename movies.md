@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### The Addams Family 2
-*Released on 2021-10-01, vote average 7.6*
+### Escape The Undertaker
+*Released on 2021-10-05, vote average 4.4*
 
-The Addams get tangled up in more wacky adventures and find themselves involved in hilarious run-ins with all sorts of unsuspecting characters.
+The Undertaker has set a trap for the decorated tag team The New Day at his mansion. What they don&#39;t know: The Undertaker&#39;s mansion is an extreme Haunted House, packed to the brim with supernatural challenges. It&#39;s up to viewers to decide the fate of these poor souls trying to survive the wrath of The Undertaker.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/946LiJiMQrQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ldgpvlN8XL4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,59 +46,8 @@ The Addams get tangled up in more wacky adventures and find themselves involved 
 	
 	
 
-### LEGO Star Wars Terrifying Tales
-*Released on 2021-10-01, vote average 7*
-
-Poe Dameron and BB-8 must face the greedy crime boss Graballa the Hutt, who has purchased Darth Vader’s castle and is renovating it into the galaxy’s first all-inclusive Sith-inspired luxury hotel.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/a4Xyiun4LXs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Escape The Undertaker
-*Released on 2021-10-05, vote average 4.3*
-
-The Undertaker has set a trap for the decorated tag team The New Day at his mansion. What they don&#39;t know: The Undertaker&#39;s mansion is an extreme Haunted House, packed to the brim with supernatural challenges. It&#39;s up to viewers to decide the fate of these poor souls trying to survive the wrath of The Undertaker.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ldgpvlN8XL4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
 ### Halloween Kills
-*Released on 2021-10-14, vote average 8.4*
+*Released on 2021-10-14, vote average 8.9*
 
 Minutes after Laurie Strode, her daughter Karen and granddaughter Allyson left masked monster Michael Myers caged and burning in Laurie&#39;s basement, Laurie is rushed to the hospital with life-threatening injuries, believing she finally killed her lifelong tormentor. But when Michael manages to free himself from Laurie&#39;s trap, his ritual bloodbath resumes. As Laurie fights her pain and prepares to defend herself against him, she inspires all of Haddonfield to rise up against their unstoppable monster. The Strode women join a group of other survivors of Michael&#39;s first rampage who decide to take matters into their own hands, forming a vigilante mob that sets out to hunt Michael down, once and for all.
 
@@ -142,7 +91,7 @@ A Mexican-American couple expecting their first child relocate to a migrant farm
 	
 
 ### Injustice
-*Released on 2021-10-09, vote average 8.2*
+*Released on 2021-10-09, vote average 8.3*
 
 When Lois Lane is killed, an unhinged Superman decides to take control of the Earth. Determined to stop him, Batman creates a team of freedom-fighting heroes. But when superheroes go to war, can the world survive?
 
@@ -164,7 +113,7 @@ When Lois Lane is killed, an unhinged Superman decides to take control of the Ea
 	
 
 ### Grudge
-*Released on 2021-10-08, vote average 6.9*
+*Released on 2021-10-08, vote average 7.1*
 
 Ahead of a promotion, a police chief becomes entangled in a deadly incident and uncovers an intrigue fueled by grudge that threatens his colleagues.
 
@@ -185,30 +134,8 @@ Ahead of a promotion, a police chief becomes entangled in a deadly incident and 
 	
 	
 
-### Black as Night
-*Released on 2021-10-01, vote average 5.6*
-
-A teenage girl with self-esteem issues finds confidence in the most unlikely way, by spending her summer battling vampires that prey on New Orleans&#39; disenfranchised with the help of her best friend, the boy she&#39;s always pined for, and a peculiar rich girl.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/iuXnGbxTxDE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Muppets Haunted Mansion
-*Released on 2021-10-08, vote average 6*
+*Released on 2021-10-08, vote average 6.3*
 
 Gonzo is challenged to spend one night in The Haunted Mansion on Halloween night.
 
@@ -217,50 +144,6 @@ Gonzo is challenged to spend one night in The Haunted Mansion on Halloween night
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/sN_m0GeeCTg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Justin Bieber: Our World
-*Released on 2021-10-08, vote average 8.4*
-
-After a three-year hiatus from a full performance, and with concert venues shut down due to the pandemic, Bieber delivers an electrifying show to close out 2020 on the rooftop of the Beverly Hilton Hotel for 240 invited guests—and millions of fans across the globe watching via livestream. The film follows Bieber and his close-knit team in the month leading up to the show, as they rehearse and construct a monumental stage while adhering to strict health and safety protocols. The film also captures personal, self-shot moments between Bieber and his wife Hailey.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/CdR_o-y8GLA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Bingo Hell
-*Released on 2021-10-01, vote average 5.1*
-
-In the Barrio of Oak Springs live a strong and stubborn group of elderly friends who refuse to be gentrified. Their leader, Lupita, keeps them together as a community, a family. But little did they know, their beloved Bingo hall is about to be sold to a much more powerful force than money itself.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/m1DQx4Z-QPU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -317,52 +200,8 @@ King Charles VI declares that Knight Jean de Carrouges settle his dispute with h
 	
 	
 
-### Swallow
-*Released on 2021-10-01, vote average 4.7*
-
-Set in the 1980s, Tolani Ajao is a bank secretary in Lagos, who finds herself persuaded by her friend Rose Adamson to enter the world of drug trafficking.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/WH19OJ7k270?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Forever Rich
-*Released on 2021-10-01, vote average 5.8*
-
-This is the story of Richie and his journey to become the greatest rap-artist in the Netherlands. One evening he is violently mugged by a group of teenagers and loses his most prized possession: an expensive watch. When images of the humiliating robbery go viral, Richie&#39;s hard-earned reputation is damaged.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/W5T7AOBdgoQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Ron&#39;s Gone Wrong
-*Released on 2021-10-15, vote average 2*
+*Released on 2021-10-15, vote average 1.5*
 
 In a world where walking, talking, digitally connected bots have become children&#39;s best friends, an 11-year-old finds that his robot buddy doesn&#39;t quite work the same as the others do.
 
@@ -383,8 +222,35 @@ In a world where walking, talking, digitally connected bots have become children
 	
 	
 
+### Justin Bieber: Our World
+*Released on 2021-10-08, vote average 8.4*
+
+After a three-year hiatus from a full performance, and with concert venues shut down due to the pandemic, Bieber delivers an electrifying show to close out 2020 on the rooftop of the Beverly Hilton Hotel for 240 invited guests—and millions of fans across the globe watching via livestream. The film follows Bieber and his close-knit team in the month leading up to the show, as they rehearse and construct a monumental stage while adhering to strict health and safety protocols. The film also captures personal, self-shot moments between Bieber and his wife Hailey.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/CdR_o-y8GLA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### The Manor
-*Released on 2021-10-08, vote average 5.5*
+*Released on 2021-10-08, vote average 5.6*
 
 After suffering a stroke, Judith moves into a historic nursing home, where she begins to suspect something supernatural is preying on the residents. With no one willing to believe her, Judith must either escape the confines of the manor, or fall victim to the evil that dwells within it.
 
@@ -403,45 +269,75 @@ After suffering a stroke, Judith moves into a historic nursing home, where she b
 
 
 	
-
-  
-
-
-	
-	
 	
 
-  
+### Bright: Samurai Soul
+*Released on 2021-10-12, vote average 6.8*
 
-
-
-## Opening soon
-
-
-	
-	
-
-### Ron&#39;s Gone Wrong
-*Released on 2021-10-15, vote average 2*
-
-In a world where walking, talking, digitally connected bots have become children&#39;s best friends, an 11-year-old finds that his robot buddy doesn&#39;t quite work the same as the others do.
+Izo, a Ronin, and Raiden, an orc, work to bring a young elf girl and the wand she carries to the land of the elves in the north.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/8I8nMtzN05s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/CthU2bsh6Fs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
 	
 
+  
+
+
 	
+	
+
+### Survive the Game
+*Released on 2021-10-08, vote average 5.9*
+
+When cop David is injured in a drug bust gone wrong, his partner Cal chases the two criminals who shot him. They all land at a remote farm owned by troubled vet Eric, and as Cal and Eric plot their defense, more of the gang arrives - along with a wounded David. Outnumbered, the three heroes must use stealth, smarts, and good shooting to take down the drug-dealing mob.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xT8uydi9bDQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
 
 	
 
+  
+
+
 	
+	
+
+### The Cleaner
+*Released on 2021-10-12, vote average 9*
+
+When middle-aged house cleaner Buck Enderly takes on an eccentric new client, he gets roped into locating her estranged son. Buck tracks down the disturbed young man but in another twist of fate becomes an accomplice to a violent crime. Buck must then decide whether to hide the truth from his family or come clean with everyone and move on with his life
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/DmMfVrovN4Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
 
 	
 	
@@ -462,47 +358,79 @@ Experience the iconic rock band&#39;s legacy in the first major documentary to t
 	
 	
 
-	
+  
+
 
 	
 
-	
+  
 
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
 
 	
 	
 
-### Son of Monarchs
-*Released on 2021-10-15, vote average 5*
+### Dave Chappelle: The Closer
+*Released on 2021-10-05, vote average 7.4*
 
-A Mexican biologist living in New York returns to his hometown, nestled in the majestic butterfly forests of Michoacán. The journey forces him to confront past traumas and reflect on his hybrid identity, sparking a personal metamorphosis.
+As he closes out his state of comedy specials, Dave takes the stage to try and set the record straight - and get a few things off his chest.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/hYvyucTJt-s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/i1UEj_6T1RE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+
+## Opening soon
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
