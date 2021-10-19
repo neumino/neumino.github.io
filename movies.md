@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Escape The Undertaker
-*Released on 2021-10-05, vote average 4.6*
+### Halloween Kills
+*Released on 2021-10-14, vote average 7.7*
 
-The Undertaker has set a trap for the decorated tag team The New Day at his mansion. What they don&#39;t know: The Undertaker&#39;s mansion is an extreme Haunted House, packed to the brim with supernatural challenges. It&#39;s up to viewers to decide the fate of these poor souls trying to survive the wrath of The Undertaker.
+Minutes after Laurie Strode, her daughter Karen and granddaughter Allyson left masked monster Michael Myers caged and burning in Laurie&#39;s basement, Laurie is rushed to the hospital with life-threatening injuries, believing she finally killed her lifelong tormentor. But when Michael manages to free himself from Laurie&#39;s trap, his ritual bloodbath resumes. As Laurie fights her pain and prepares to defend herself against him, she inspires all of Haddonfield to rise up against their unstoppable monster. The Strode women join a group of other survivors of Michael&#39;s first rampage who decide to take matters into their own hands, forming a vigilante mob that sets out to hunt Michael down, once and for all.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ldgpvlN8XL4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/hL6R3HmQfPc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ The Undertaker has set a trap for the decorated tag team The New Day at his mans
 	
 	
 
-### Halloween Kills
-*Released on 2021-10-14, vote average 7.7*
+### Escape The Undertaker
+*Released on 2021-10-05, vote average 4.6*
 
-Minutes after Laurie Strode, her daughter Karen and granddaughter Allyson left masked monster Michael Myers caged and burning in Laurie&#39;s basement, Laurie is rushed to the hospital with life-threatening injuries, believing she finally killed her lifelong tormentor. But when Michael manages to free himself from Laurie&#39;s trap, his ritual bloodbath resumes. As Laurie fights her pain and prepares to defend herself against him, she inspires all of Haddonfield to rise up against their unstoppable monster. The Strode women join a group of other survivors of Michael&#39;s first rampage who decide to take matters into their own hands, forming a vigilante mob that sets out to hunt Michael down, once and for all.
+The Undertaker has set a trap for the decorated tag team The New Day at his mansion. What they don&#39;t know: The Undertaker&#39;s mansion is an extreme Haunted House, packed to the brim with supernatural challenges. It&#39;s up to viewers to decide the fate of these poor souls trying to survive the wrath of The Undertaker.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/hL6R3HmQfPc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ldgpvlN8XL4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@ Minutes after Laurie Strode, her daughter Karen and granddaughter Allyson left m
 	
 
 ### Madres
-*Released on 2021-10-08, vote average 5.4*
+*Released on 2021-10-08, vote average 5.5*
 
 A Mexican-American couple expecting their first child relocate to a migrant farming community in 1970&#39;s California. When the wife begins to experience strange symptoms and terrifying visions, she tries to determine if it&#39;s related to a legendary curse or something more nefarious
 
@@ -135,7 +135,7 @@ Ahead of a promotion, a police chief becomes entangled in a deadly incident and 
 	
 
 ### Muppets Haunted Mansion
-*Released on 2021-10-08, vote average 7*
+*Released on 2021-10-08, vote average 7.2*
 
 Gonzo is challenged to spend one night in The Haunted Mansion on Halloween night.
 
@@ -154,10 +154,15 @@ Gonzo is challenged to spend one night in The Haunted Mansion on Halloween night
 
 
 	
+
+  
+
+
+	
 	
 
 ### The Last Duel
-*Released on 2021-10-13, vote average 7.7*
+*Released on 2021-10-13, vote average 7.8*
 
 King Charles VI declares that Knight Jean de Carrouges settle his dispute with his squire by challenging him to a duel.
 
@@ -176,11 +181,6 @@ King Charles VI declares that Knight Jean de Carrouges settle his dispute with h
 
 
 	
-
-  
-
-
-	
 	
 
 ### My Brother, My Sister
@@ -193,6 +193,28 @@ When their father&#39;s will forces them to live together, siblings Nik and Tesl
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/lIhlwbDz510?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Bright: Samurai Soul
+*Released on 2021-10-12, vote average 6.4*
+
+Izo, a Ronin, and Raiden, an orc, work to bring a young elf girl and the wand she carries to the land of the elves in the north.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/CthU2bsh6Fs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -248,28 +270,6 @@ After a three-year hiatus from a full performance, and with concert venues shut 
 
 	
 	
-
-### Bright: Samurai Soul
-*Released on 2021-10-12, vote average 6.4*
-
-Izo, a Ronin, and Raiden, an orc, work to bring a young elf girl and the wand she carries to the land of the elves in the north.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/CthU2bsh6Fs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -299,17 +299,24 @@ A devoted husband will stop at nothing to save his marriage when it&#39;s destro
 
 	
 	
+	
 
-### A World Without
-*Released on 2021-10-14, vote average 6*
+  
 
-Founded by the power couple, Ali and Sofia Khan, The Light is a training center that claims to be a self-betterment organization, focused on helping youths take charge of their life for a brighter future. But when three best friends join this organization, they soon realize that dark shadows lurk behind The Light and must find a way to escape.
+
+	
+	
+
+### Last Man Down
+*Released on 2021-10-19, vote average 4.8*
+
+After civilization succumbs to a deadly pandemic and his wife is murdered, a special forces soldier abandons his duty and becomes a hermit in the Nordic wilderness. Years later, a wounded woman appears on his doorstep. She&#39;s escaped from a lab and her pursuers believe her blood is the key to a worldwide cure. He&#39;s hesitant to get involved, but all doubts are cast aside when he discovers her pursuer is none other than Commander Stone, the man that murdered his wife some years ago.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-w_Ccy2EAkI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Cs5AVa6-M6A?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -322,16 +329,16 @@ Founded by the power couple, Ali and Sofia Khan, The Light is a training center 
 	
 	
 
-### The Velvet Underground
-*Released on 2021-10-15, vote average 7.3*
+### Fever Dream
+*Released on 2021-10-06, vote average 6.3*
 
-Experience the iconic rock band&#39;s legacy in the first major documentary to tell their story. Directed with the era’s avant-garde spirit by Todd Haynes, this kaleidoscopic oral history combines exclusive interviews with dazzling archival footage.
+A woman named Amanda lies stricken, far from home. A young boy named David questions her, trying to make her remember. She&#39;s not his mother, he&#39;s not her son. As her time is running out, he helps her unravel a powerful, haunting story of obsessive jealousy, an invisible danger, and the power of a mother&#39;s love for her child.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/hWq7a8Tin8g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/3_P3eM4FltM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -344,16 +351,16 @@ Experience the iconic rock band&#39;s legacy in the first major documentary to t
 	
 	
 
-### Survive the Game
-*Released on 2021-10-08, vote average 6.5*
+### Convergence: Courage in a Crisis
+*Released on 2021-10-08, vote average 7*
 
-When cop David is injured in a drug bust gone wrong, his partner Cal chases the two criminals who shot him. They all land at a remote farm owned by troubled vet Eric, and as Cal and Eric plot their defense, more of the gang arrives - along with a wounded David. Outnumbered, the three heroes must use stealth, smarts, and good shooting to take down the drug-dealing mob.
+Activists and volunteers work through the darkest days of 2020, galvanizing social change amidst chaos as governments start to fail local communities. This epic, globally spanning and deeply passionate documentary serves as a clarion call that great change can be born of crisis.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xT8uydi9bDQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/6mw3Ev1CIt0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -367,7 +374,7 @@ When cop David is injured in a drug bust gone wrong, his partner Cal chases the 
 	
 
 ### The Manor
-*Released on 2021-10-08, vote average 5.6*
+*Released on 2021-10-08, vote average 5.5*
 
 After suffering a stroke, Judith moves into a historic nursing home, where she begins to suspect something supernatural is preying on the residents. With no one willing to believe her, Judith must either escape the confines of the manor, or fall victim to the evil that dwells within it.
 
@@ -387,11 +394,21 @@ After suffering a stroke, Judith moves into a historic nursing home, where she b
 
 	
 	
+
+### Survive the Game
+*Released on 2021-10-08, vote average 6.6*
+
+When cop David is injured in a drug bust gone wrong, his partner Cal chases the two criminals who shot him. They all land at a remote farm owned by troubled vet Eric, and as Cal and Eric plot their defense, more of the gang arrives - along with a wounded David. Outnumbered, the three heroes must use stealth, smarts, and good shooting to take down the drug-dealing mob.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xT8uydi9bDQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
-
-  
-
-
 	
 
   
@@ -405,7 +422,7 @@ After suffering a stroke, Judith moves into a historic nursing home, where she b
 	
 
 ### Last Man Down
-*Released on 2021-10-19, vote average 4.2*
+*Released on 2021-10-19, vote average 4.8*
 
 After civilization succumbs to a deadly pandemic and his wife is murdered, a special forces soldier abandons his duty and becomes a hermit in the Nordic wilderness. Years later, a wounded woman appears on his doorstep. She&#39;s escaped from a lab and her pursuers believe her blood is the key to a worldwide cure. He&#39;s hesitant to get involved, but all doubts are cast aside when he discovers her pursuer is none other than Commander Stone, the man that murdered his wife some years ago.
 
@@ -423,10 +440,14 @@ After civilization succumbs to a deadly pandemic and his wife is murdered, a spe
 	
 
 	
+
+	
+
+	
 	
 
 ### Last Night in Soho
-*Released on 2021-10-21, vote average 7.7*
+*Released on 2021-10-21, vote average 7.4*
 
 A young girl, passionate about fashion design, is mysteriously able to enter the 1960s where she encounters her idol, a dazzling wannabe singer. But 1960s London is not what it seems, and time seems to be falling apart with shady consequences.
 
@@ -448,9 +469,22 @@ A young girl, passionate about fashion design, is mysteriously able to enter the
 	
 
 	
-
 	
 
+### Found
+*Released on 2021-10-20, vote average 10*
+
+Follows the story of three American teenage girls—each adopted from China—who discover they are blood-related cousins on 23andMe. Their online meeting inspires the young women to confront the burning questions they have about their lost history.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/r7i_E6zm8lM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
