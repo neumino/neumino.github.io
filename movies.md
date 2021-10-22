@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Halloween Kills
-*Released on 2021-10-14, vote average 7.5*
+*Released on 2021-10-14, vote average 7.6*
 
 Minutes after Laurie Strode, her daughter Karen and granddaughter Allyson left masked monster Michael Myers caged and burning in Laurie&#39;s basement, Laurie is rushed to the hospital with life-threatening injuries, believing she finally killed her lifelong tormentor. But when Michael manages to free himself from Laurie&#39;s trap, his ritual bloodbath resumes. As Laurie fights her pain and prepares to defend herself against him, she inspires all of Haddonfield to rise up against their unstoppable monster. The Strode women join a group of other survivors of Michael&#39;s first rampage who decide to take matters into their own hands, forming a vigilante mob that sets out to hunt Michael down, once and for all.
 
@@ -47,7 +47,7 @@ Minutes after Laurie Strode, her daughter Karen and granddaughter Allyson left m
 	
 
 ### Grudge
-*Released on 2021-10-08, vote average 6.5*
+*Released on 2021-10-08, vote average 6.4*
 
 Ahead of a promotion, a police chief becomes entangled in a deadly incident and uncovers an intrigue fueled by grudge that threatens his colleagues.
 
@@ -91,7 +91,7 @@ When Lois Lane is killed, an unhinged Superman decides to take control of the Ea
 	
 
 ### Muppets Haunted Mansion
-*Released on 2021-10-08, vote average 7*
+*Released on 2021-10-08, vote average 6.8*
 
 Gonzo is challenged to spend one night in The Haunted Mansion on Halloween night.
 
@@ -100,6 +100,28 @@ Gonzo is challenged to spend one night in The Haunted Mansion on Halloween night
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/sN_m0GeeCTg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Bright: Samurai Soul
+*Released on 2021-10-12, vote average 6.1*
+
+Izo, a Ronin, and Raiden, an orc, work to bring a young elf girl and the wand she carries to the land of the elves in the north.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/CthU2bsh6Fs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,16 +156,16 @@ A Mexican-American couple expecting their first child relocate to a migrant farm
 	
 	
 
-### Bright: Samurai Soul
-*Released on 2021-10-12, vote average 6.1*
+### Under Wraps
+*Released on 2021-10-08, vote average 7.1*
 
-Izo, a Ronin, and Raiden, an orc, work to bring a young elf girl and the wand she carries to the land of the elves in the north.
+Three friends try to save their mummified friend, Harold, from greedy criminals by returning him to his resting place before midnight on Halloween.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/CthU2bsh6Fs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Ktf31p4Z-Qg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -155,11 +177,6 @@ Izo, a Ronin, and Raiden, an orc, work to bring a young elf girl and the wand sh
 
 	
 	
-	
-
-  
-
-
 	
 
   
@@ -212,19 +229,26 @@ In a world where walking, talking, digitally connected bots have become children
 	
 	
 
-### My Brother, My Sister
-*Released on 2021-10-08, vote average 6.8*
+### Convergence: Courage in a Crisis
+*Released on 2021-10-08, vote average 4.5*
 
-When their father&#39;s will forces them to live together, siblings Nik and Tesla — and Tesla&#39;s kids — try to overcome their differences to become a family.
+Activists and volunteers work through the darkest days of 2020, galvanizing social change amidst chaos as governments start to fail local communities. This epic, globally spanning and deeply passionate documentary serves as a clarion call that great change can be born of crisis.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/lIhlwbDz510?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/6mw3Ev1CIt0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -247,64 +271,6 @@ After a three-year hiatus from a full performance, and with concert venues shut 
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
-	
-
-### Convergence: Courage in a Crisis
-*Released on 2021-10-08, vote average 4.5*
-
-Activists and volunteers work through the darkest days of 2020, galvanizing social change amidst chaos as governments start to fail local communities. This epic, globally spanning and deeply passionate documentary serves as a clarion call that great change can be born of crisis.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/6mw3Ev1CIt0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Needle in a Timestack
-*Released on 2021-10-15, vote average 6.1*
-
-A devoted husband will stop at nothing to save his marriage when it&#39;s destroyed by a time-traveling rival.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZPKL9aSgbCw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -343,16 +309,16 @@ Founded by the power couple, Ali and Sofia Khan, The Light is a training center 
 	
 	
 
-### Last Man Down
-*Released on 2021-10-19, vote average 4.8*
+### My Brother, My Sister
+*Released on 2021-10-08, vote average 6.8*
 
-After civilization succumbs to a deadly pandemic and his wife is murdered, a special forces soldier abandons his duty and becomes a hermit in the Nordic wilderness. Years later, a wounded woman appears on his doorstep. She&#39;s escaped from a lab and her pursuers believe her blood is the key to a worldwide cure. He&#39;s hesitant to get involved, but all doubts are cast aside when he discovers her pursuer is none other than Commander Stone, the man that murdered his wife some years ago.
+When their father&#39;s will forces them to live together, siblings Nik and Tesla — and Tesla&#39;s kids — try to overcome their differences to become a family.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Cs5AVa6-M6A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/lIhlwbDz510?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -366,7 +332,7 @@ After civilization succumbs to a deadly pandemic and his wife is murdered, a spe
 	
 
 ### Night Teeth
-*Released on 2021-10-20, vote average 6*
+*Released on 2021-10-20, vote average 6.4*
 
 A college student moonlighting as a chauffeur picks up two mysterious women for a night of party-hopping across LA. But when he uncovers their bloodthirsty intentions - and their dangerous, shadowy underworld - he must fight to stay alive.
 
@@ -375,6 +341,72 @@ A college student moonlighting as a chauffeur picks up two mysterious women for 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/ZNu-G-rd4H4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Needle in a Timestack
+*Released on 2021-10-15, vote average 6.1*
+
+A devoted husband will stop at nothing to save his marriage when it&#39;s destroyed by a time-traveling rival.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZPKL9aSgbCw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Warning
+*Released on 2021-10-22, vote average 5.5*
+
+Loneliness, death and the meaning of life, explored through vastly separate lives colliding in interweaving short stories set in future Earth.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vWhg9-OVWfo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Last Night in Soho
+*Released on 2021-10-21, vote average 7.8*
+
+A young girl, passionate about fashion design, is mysteriously able to enter the 1960s where she encounters her idol, a dazzling wannabe singer. But 1960s London is not what it seems, and time seems to be falling apart with shady consequences.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/XgNrL4Kf7yU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -401,44 +433,6 @@ Loneliness, death and the meaning of life, explored through vastly separate live
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/vWhg9-OVWfo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Last Night in Soho
-*Released on 2021-10-21, vote average 7.8*
-
-A young girl, passionate about fashion design, is mysteriously able to enter the 1960s where she encounters her idol, a dazzling wannabe singer. But 1960s London is not what it seems, and time seems to be falling apart with shady consequences.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XgNrL4Kf7yU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### The French Dispatch
-*Released on 2021-10-21, vote average 8*
-
-The staff of a European publication decides to publish a memorial edition highlighting the three best stories from the last decade: an artist sentenced to life imprisonment, student riots, and a kidnapping resolved by a chef.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qrpbzEwPNyE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -478,6 +472,27 @@ Gunning for revenge, outlaw Nat Love saddles up with his gang to take down enemy
 
 	
 
+	
+
+	
+
+	
+	
+
+### Every Last One of Them
+*Released on 2021-10-22, vote average 5.5*
+
+Desperate to find his missing daughter, a man tracks her last known whereabouts to a small desert town only to discover that the head of a deeply funded security firm and his vicious younger sister are protecting a family secret that could potentially derail a billion dollar water deal between his boss and the US government.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MKMo-1PJTNY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
