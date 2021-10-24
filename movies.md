@@ -46,28 +46,6 @@ Minutes after Laurie Strode, her daughter Karen and granddaughter Allyson left m
 	
 	
 
-### Injustice
-*Released on 2021-10-09, vote average 8.1*
-
-When Lois Lane is killed, an unhinged Superman decides to take control of the Earth. Determined to stop him, Batman creates a team of freedom-fighting heroes. But when superheroes go to war, can the world survive?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/gPE8pvqmnBg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Bright: Samurai Soul
 *Released on 2021-10-12, vote average 6.1*
 
@@ -89,16 +67,9 @@ Izo, a Ronin, and Raiden, an orc, work to bring a young elf girl and the wand sh
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Ron&#39;s Gone Wrong
-*Released on 2021-10-15, vote average 4.3*
+*Released on 2021-10-15, vote average 5.3*
 
 In a world where walking, talking, digitally connected bots have become children&#39;s best friends, an 11-year-old finds that his robot buddy doesn&#39;t quite work the same as the others do.
 
@@ -125,6 +96,35 @@ In a world where walking, talking, digitally connected bots have become children
 
 	
 	
+	
+
+  
+
+
+	
+	
+
+### Night Teeth
+*Released on 2021-10-20, vote average 6.6*
+
+A college student moonlighting as a chauffeur picks up two mysterious women for a night of party-hopping across LA. But when he uncovers their bloodthirsty intentions - and their dangerous, shadowy underworld - he must fight to stay alive.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZNu-G-rd4H4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
 
 ### The Last Duel
 *Released on 2021-10-13, vote average 7.7*
@@ -136,6 +136,28 @@ King Charles VI declares that Knight Jean de Carrouges settle his dispute with h
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/rPapNDpFoeY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Warning
+*Released on 2021-10-22, vote average 5.9*
+
+Loneliness, death and the meaning of life, explored through vastly separate lives colliding in interweaving short stories set in future Earth.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vWhg9-OVWfo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -170,59 +192,8 @@ Founded by the power couple, Ali and Sofia Khan, The Light is a training center 
 	
 	
 
-### Night Teeth
-*Released on 2021-10-20, vote average 6.1*
-
-A college student moonlighting as a chauffeur picks up two mysterious women for a night of party-hopping across LA. But when he uncovers their bloodthirsty intentions - and their dangerous, shadowy underworld - he must fight to stay alive.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZNu-G-rd4H4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Warning
-*Released on 2021-10-22, vote average 5.5*
-
-Loneliness, death and the meaning of life, explored through vastly separate lives colliding in interweaving short stories set in future Earth.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vWhg9-OVWfo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
 ### Found
-*Released on 2021-10-13, vote average 6*
+*Released on 2021-10-13, vote average 7.7*
 
 Follows the story of three American teenage girls—each adopted from China—who discover they are blood-related cousins on 23andMe. Their online meeting inspires the young women to confront the burning questions they have about their lost history.
 
@@ -241,6 +212,50 @@ Follows the story of three American teenage girls—each adopted from China—wh
 
 
 	
+	
+	
+
+  
+
+
+	
+	
+
+### Stuck Together
+*Released on 2021-10-20, vote average 6*
+
+Seven families live in the Parisian apartment building at 8, Rue de l’Humanite - and they didn’t escape to the countryside at the arrival of the coronavirus. Three months of life under lockdown will reveal the best and worst of these neighbours.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/H5psDW5PG4s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The French Dispatch
+*Released on 2021-10-21, vote average 7.6*
+
+The staff of a European publication decides to publish a memorial edition highlighting the three best stories from the last decade: an artist sentenced to life imprisonment, student riots, and a kidnapping resolved by a chef.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qrpbzEwPNyE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -272,60 +287,16 @@ A young girl, passionate about fashion design, is mysteriously able to enter the
 	
 	
 
-### The French Dispatch
-*Released on 2021-10-21, vote average 7.3*
+### Broadcast Signal Intrusion
+*Released on 2021-10-22, vote average 5*
 
-The staff of a European publication decides to publish a memorial edition highlighting the three best stories from the last decade: an artist sentenced to life imprisonment, student riots, and a kidnapping resolved by a chef.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qrpbzEwPNyE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Needle in a Timestack
-*Released on 2021-10-15, vote average 5.9*
-
-A devoted husband will stop at nothing to save his marriage when it&#39;s destroyed by a time-traveling rival.
+In the late 90s, a video archivist unearths a series of sinister pirate broadcasts and becomes obsessed with uncovering the dark conspiracy behind them.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ZPKL9aSgbCw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Stuck Together
-*Released on 2021-10-20, vote average 6.2*
-
-Seven families live in the Parisian apartment building at 8, Rue de l’Humanite - and they didn’t escape to the countryside at the arrival of the coronavirus. Three months of life under lockdown will reveal the best and worst of these neighbours.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/H5psDW5PG4s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Y-zCemn5GuE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -380,18 +351,45 @@ After civilization succumbs to a deadly pandemic and his wife is murdered, a spe
 
 
 	
+
+  
+
+
+	
 	
 
-### Four Hours at the Capitol
-*Released on 2021-10-20, vote average 7.5*
+### Needle in a Timestack
+*Released on 2021-10-15, vote average 5.4*
 
-The documentary is an immersive chronicle of the insurrection at the U.S. Capitol on January 6, 2021, when thousands of American citizens from across the country gathered in Washington D.C. to protest the results of the 2020 presidential election, many with the intent of disrupting the certification of Joe Biden’s presidency.
+A devoted husband will stop at nothing to save his marriage when it&#39;s destroyed by a time-traveling rival.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/qlcdaAx5hu8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ZPKL9aSgbCw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Every Last One of Them
+*Released on 2021-10-22, vote average 5.5*
+
+Desperate to find his missing daughter, a man tracks her last known whereabouts to a small desert town only to discover that the head of a deeply funded security firm and his vicious younger sister are protecting a family secret that could potentially derail a billion dollar water deal between his boss and the US government.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MKMo-1PJTNY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
