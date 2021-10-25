@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Halloween Kills
-*Released on 2021-10-14, vote average 7.5*
+*Released on 2021-10-14, vote average 7.4*
 
 Minutes after Laurie Strode, her daughter Karen and granddaughter Allyson left masked monster Michael Myers caged and burning in Laurie&#39;s basement, Laurie is rushed to the hospital with life-threatening injuries, believing she finally killed her lifelong tormentor. But when Michael manages to free himself from Laurie&#39;s trap, his ritual bloodbath resumes. As Laurie fights her pain and prepares to defend herself against him, she inspires all of Haddonfield to rise up against their unstoppable monster. The Strode women join a group of other survivors of Michael&#39;s first rampage who decide to take matters into their own hands, forming a vigilante mob that sets out to hunt Michael down, once and for all.
 
@@ -69,7 +69,7 @@ Izo, a Ronin, and Raiden, an orc, work to bring a young elf girl and the wand sh
 	
 
 ### Ron&#39;s Gone Wrong
-*Released on 2021-10-15, vote average 5.3*
+*Released on 2021-10-15, vote average 6.4*
 
 In a world where walking, talking, digitally connected bots have become children&#39;s best friends, an 11-year-old finds that his robot buddy doesn&#39;t quite work the same as the others do.
 
@@ -105,7 +105,7 @@ In a world where walking, talking, digitally connected bots have become children
 	
 
 ### Night Teeth
-*Released on 2021-10-20, vote average 6.6*
+*Released on 2021-10-20, vote average 6.8*
 
 A college student moonlighting as a chauffeur picks up two mysterious women for a night of party-hopping across LA. But when he uncovers their bloodthirsty intentions - and their dangerous, shadowy underworld - he must fight to stay alive.
 
@@ -114,6 +114,28 @@ A college student moonlighting as a chauffeur picks up two mysterious women for 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/ZNu-G-rd4H4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Warning
+*Released on 2021-10-22, vote average 6.2*
+
+Loneliness, death and the meaning of life, explored through vastly separate lives colliding in interweaving short stories set in future Earth.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vWhg9-OVWfo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -148,19 +170,26 @@ King Charles VI declares that Knight Jean de Carrouges settle his dispute with h
 	
 	
 
-### Warning
-*Released on 2021-10-22, vote average 5.9*
+### Found
+*Released on 2021-10-13, vote average 7.4*
 
-Loneliness, death and the meaning of life, explored through vastly separate lives colliding in interweaving short stories set in future Earth.
+Follows the story of three American teenage girls—each adopted from China—who discover they are blood-related cousins on 23andMe. Their online meeting inspires the young women to confront the burning questions they have about their lost history.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/vWhg9-OVWfo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/r7i_E6zm8lM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -183,35 +212,6 @@ Founded by the power couple, Ali and Sofia Khan, The Light is a training center 
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
-	
-
-### Found
-*Released on 2021-10-13, vote average 7.7*
-
-Follows the story of three American teenage girls—each adopted from China—who discover they are blood-related cousins on 23andMe. Their online meeting inspires the young women to confront the burning questions they have about their lost history.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/r7i_E6zm8lM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -244,7 +244,7 @@ Seven families live in the Parisian apartment building at 8, Rue de l’Humanite
 	
 
 ### The French Dispatch
-*Released on 2021-10-21, vote average 7.6*
+*Released on 2021-10-21, vote average 7.4*
 
 The staff of a European publication decides to publish a memorial edition highlighting the three best stories from the last decade: an artist sentenced to life imprisonment, student riots, and a kidnapping resolved by a chef.
 
@@ -265,6 +265,35 @@ The staff of a European publication decides to publish a memorial edition highli
 	
 	
 
+### Every Last One of Them
+*Released on 2021-10-22, vote average 5.6*
+
+Desperate to find his missing daughter, a man tracks her last known whereabouts to a small desert town only to discover that the head of a deeply funded security firm and his vicious younger sister are protecting a family secret that could potentially derail a billion dollar water deal between his boss and the US government.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MKMo-1PJTNY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
 ### Last Night in Soho
 *Released on 2021-10-21, vote average 7.8*
 
@@ -275,50 +304,6 @@ A young girl, passionate about fashion design, is mysteriously able to enter the
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/XgNrL4Kf7yU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Broadcast Signal Intrusion
-*Released on 2021-10-22, vote average 5*
-
-In the late 90s, a video archivist unearths a series of sinister pirate broadcasts and becomes obsessed with uncovering the dark conspiracy behind them.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Y-zCemn5GuE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Harder They Fall
-*Released on 2021-10-22, vote average 2*
-
-Gunning for revenge, outlaw Nat Love saddles up with his gang to take down enemy Rufus Buck, a ruthless crime boss who just got sprung from prison.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Poc55U2RPMw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -351,23 +336,18 @@ After civilization succumbs to a deadly pandemic and his wife is murdered, a spe
 
 
 	
-
-  
-
-
-	
 	
 
-### Needle in a Timestack
-*Released on 2021-10-15, vote average 5.4*
+### Broadcast Signal Intrusion
+*Released on 2021-10-22, vote average 5*
 
-A devoted husband will stop at nothing to save his marriage when it&#39;s destroyed by a time-traveling rival.
+In the late 90s, a video archivist unearths a series of sinister pirate broadcasts and becomes obsessed with uncovering the dark conspiracy behind them.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ZPKL9aSgbCw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Y-zCemn5GuE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -378,18 +358,23 @@ A devoted husband will stop at nothing to save his marriage when it&#39;s destro
 
 
 	
+
+  
+
+
+	
 	
 
-### Every Last One of Them
-*Released on 2021-10-22, vote average 5.5*
+### 13 Fanboy
+*Released on 2021-10-22, vote average 6*
 
-Desperate to find his missing daughter, a man tracks her last known whereabouts to a small desert town only to discover that the head of a deeply funded security firm and his vicious younger sister are protecting a family secret that could potentially derail a billion dollar water deal between his boss and the US government.
+An obsessed fan stalks his favorite actors from the Friday the 13th films and beyond, mirroring his idol Jason Voorhees.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/MKMo-1PJTNY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-pmLCoze21U?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -407,6 +392,23 @@ Desperate to find his missing daughter, a man tracks her last known whereabouts 
 
 	
 
+	
+	
+
+### Monster Family 2
+*Released on 2021-10-28, vote average 6*
+
+To free Baba Yaga and Renfield from the clutches of Monster Hunter Mila Starr, the Wishbone Family once more transforms into a Vampire, Frankenstein&#39;s Monster, a Mummy and a Werewolf. Aided and abetted by their three pet bats, our Monster Family zooms around the world again to save their friends, make new monstrous acquaintances and finally come to the realization that ‘Nobody’s Perfect’ – even those with flaws can find happiness.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/46stXhjVF8Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
