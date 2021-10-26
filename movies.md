@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Halloween Kills
-*Released on 2021-10-14, vote average 7.4*
+*Released on 2021-10-14, vote average 7.3*
 
 Minutes after Laurie Strode, her daughter Karen and granddaughter Allyson left masked monster Michael Myers caged and burning in Laurie&#39;s basement, Laurie is rushed to the hospital with life-threatening injuries, believing she finally killed her lifelong tormentor. But when Michael manages to free himself from Laurie&#39;s trap, his ritual bloodbath resumes. As Laurie fights her pain and prepares to defend herself against him, she inspires all of Haddonfield to rise up against their unstoppable monster. The Strode women join a group of other survivors of Michael&#39;s first rampage who decide to take matters into their own hands, forming a vigilante mob that sets out to hunt Michael down, once and for all.
 
@@ -69,7 +69,7 @@ Izo, a Ronin, and Raiden, an orc, work to bring a young elf girl and the wand sh
 	
 
 ### Ron&#39;s Gone Wrong
-*Released on 2021-10-15, vote average 6.4*
+*Released on 2021-10-15, vote average 6.8*
 
 In a world where walking, talking, digitally connected bots have become children&#39;s best friends, an 11-year-old finds that his robot buddy doesn&#39;t quite work the same as the others do.
 
@@ -96,16 +96,9 @@ In a world where walking, talking, digitally connected bots have become children
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Night Teeth
-*Released on 2021-10-20, vote average 6.8*
+*Released on 2021-10-20, vote average 7.1*
 
 A college student moonlighting as a chauffeur picks up two mysterious women for a night of party-hopping across LA. But when he uncovers their bloodthirsty intentions - and their dangerous, shadowy underworld - he must fight to stay alive.
 
@@ -127,7 +120,7 @@ A college student moonlighting as a chauffeur picks up two mysterious women for 
 	
 
 ### Warning
-*Released on 2021-10-22, vote average 6.2*
+*Released on 2021-10-22, vote average 6.1*
 
 Loneliness, death and the meaning of life, explored through vastly separate lives colliding in interweaving short stories set in future Earth.
 
@@ -147,9 +140,23 @@ Loneliness, death and the meaning of life, explored through vastly separate live
 
 	
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
 
 ### The Last Duel
-*Released on 2021-10-13, vote average 7.7*
+*Released on 2021-10-13, vote average 7.6*
 
 King Charles VI declares that Knight Jean de Carrouges settle his dispute with his squire by challenging him to a duel.
 
@@ -158,6 +165,50 @@ King Charles VI declares that Knight Jean de Carrouges settle his dispute with h
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/rPapNDpFoeY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### A World Without
+*Released on 2021-10-14, vote average 4.3*
+
+Founded by the power couple, Ali and Sofia Khan, The Light is a training center that claims to be a self-betterment organization, focused on helping youths take charge of their life for a brighter future. But when three best friends join this organization, they soon realize that dark shadows lurk behind The Light and must find a way to escape.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-w_Ccy2EAkI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Stuck Together
+*Released on 2021-10-20, vote average 5.9*
+
+Seven families live in the Parisian apartment building at 8, Rue de l’Humanite - and they didn’t escape to the countryside at the arrival of the coronavirus. Three months of life under lockdown will reveal the best and worst of these neighbours.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/H5psDW5PG4s?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -191,82 +242,9 @@ Follows the story of three American teenage girls—each adopted from China—wh
 
 	
 	
-	
-
-  
-
-
-	
-	
-
-### A World Without
-*Released on 2021-10-14, vote average 3.7*
-
-Founded by the power couple, Ali and Sofia Khan, The Light is a training center that claims to be a self-betterment organization, focused on helping youths take charge of their life for a brighter future. But when three best friends join this organization, they soon realize that dark shadows lurk behind The Light and must find a way to escape.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-w_Ccy2EAkI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Stuck Together
-*Released on 2021-10-20, vote average 6*
-
-Seven families live in the Parisian apartment building at 8, Rue de l’Humanite - and they didn’t escape to the countryside at the arrival of the coronavirus. Three months of life under lockdown will reveal the best and worst of these neighbours.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/H5psDW5PG4s?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The French Dispatch
-*Released on 2021-10-21, vote average 7.4*
-
-The staff of a European publication decides to publish a memorial edition highlighting the three best stories from the last decade: an artist sentenced to life imprisonment, student riots, and a kidnapping resolved by a chef.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qrpbzEwPNyE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
 
 ### Every Last One of Them
-*Released on 2021-10-22, vote average 5.6*
+*Released on 2021-10-22, vote average 5.5*
 
 Desperate to find his missing daughter, a man tracks her last known whereabouts to a small desert town only to discover that the head of a deeply funded security firm and his vicious younger sister are protecting a family secret that could potentially derail a billion dollar water deal between his boss and the US government.
 
@@ -294,16 +272,38 @@ Desperate to find his missing daughter, a man tracks her last known whereabouts 
 	
 	
 
-### Last Night in Soho
-*Released on 2021-10-21, vote average 7.8*
+### The French Dispatch
+*Released on 2021-10-21, vote average 7.5*
 
-A young girl, passionate about fashion design, is mysteriously able to enter the 1960s where she encounters her idol, a dazzling wannabe singer. But 1960s London is not what it seems, and time seems to be falling apart with shady consequences.
+The staff of a European publication decides to publish a memorial edition highlighting the three best stories from the last decade: an artist sentenced to life imprisonment, student riots, and a kidnapping resolved by a chef.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/XgNrL4Kf7yU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/qrpbzEwPNyE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Christmas in My Heart
+*Released on 2021-10-23, vote average 7*
+
+With Christmas fast approaching, concert violinist Beth returns to her hometown after the recent death of her mother, the elementary school’s beloved music department head.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vRhuOzlhQ24?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -338,16 +338,16 @@ After civilization succumbs to a deadly pandemic and his wife is murdered, a spe
 	
 	
 
-### Broadcast Signal Intrusion
-*Released on 2021-10-22, vote average 5*
+### Last Night in Soho
+*Released on 2021-10-21, vote average 7.8*
 
-In the late 90s, a video archivist unearths a series of sinister pirate broadcasts and becomes obsessed with uncovering the dark conspiracy behind them.
+A young girl, passionate about fashion design, is mysteriously able to enter the 1960s where she encounters her idol, a dazzling wannabe singer. But 1960s London is not what it seems, and time seems to be falling apart with shady consequences.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Y-zCemn5GuE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/XgNrL4Kf7yU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -358,6 +358,23 @@ In the late 90s, a video archivist unearths a series of sinister pirate broadcas
 
 
 	
+	
+
+### Needle in a Timestack
+*Released on 2021-10-15, vote average 5.4*
+
+A devoted husband will stop at nothing to save his marriage when it&#39;s destroyed by a time-traveling rival.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZPKL9aSgbCw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -365,16 +382,16 @@ In the late 90s, a video archivist unearths a series of sinister pirate broadcas
 	
 	
 
-### 13 Fanboy
-*Released on 2021-10-22, vote average 6*
+### The Estate
+*Released on 2021-10-22, vote average 4*
 
-An obsessed fan stalks his favorite actors from the Friday the 13th films and beyond, mirroring his idol Jason Voorhees.
+When the spoiled son and newest wife of a billionaire patriarch plot to murder him, they form a psycho-sexual bond with their brutally handsome hitman as they kill and kill (and kill) in their quest for wealth and recognition.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-pmLCoze21U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/nTItUEujzCw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -396,7 +413,7 @@ An obsessed fan stalks his favorite actors from the Friday the 13th films and be
 	
 
 ### Monster Family 2
-*Released on 2021-10-28, vote average 6*
+*Released on 2021-10-28, vote average 4*
 
 To free Baba Yaga and Renfield from the clutches of Monster Hunter Mila Starr, the Wishbone Family once more transforms into a Vampire, Frankenstein&#39;s Monster, a Mummy and a Werewolf. Aided and abetted by their three pet bats, our Monster Family zooms around the world again to save their friends, make new monstrous acquaintances and finally come to the realization that ‘Nobody’s Perfect’ – even those with flaws can find happiness.
 
@@ -441,6 +458,8 @@ To free Baba Yaga and Renfield from the clutches of Monster Hunter Mila Starr, t
 
 	
 
+	
+	
 	
 
 	
