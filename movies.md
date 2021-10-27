@@ -46,59 +46,8 @@ Minutes after Laurie Strode, her daughter Karen and granddaughter Allyson left m
 	
 	
 
-### Bright: Samurai Soul
-*Released on 2021-10-12, vote average 6.1*
-
-Izo, a Ronin, and Raiden, an orc, work to bring a young elf girl and the wand she carries to the land of the elves in the north.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/CthU2bsh6Fs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Ron&#39;s Gone Wrong
-*Released on 2021-10-15, vote average 6.8*
-
-In a world where walking, talking, digitally connected bots have become children&#39;s best friends, an 11-year-old finds that his robot buddy doesn&#39;t quite work the same as the others do.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8I8nMtzN05s?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
 ### Night Teeth
-*Released on 2021-10-20, vote average 7.1*
+*Released on 2021-10-20, vote average 7.2*
 
 A college student moonlighting as a chauffeur picks up two mysterious women for a night of party-hopping across LA. But when he uncovers their bloodthirsty intentions - and their dangerous, shadowy underworld - he must fight to stay alive.
 
@@ -119,8 +68,30 @@ A college student moonlighting as a chauffeur picks up two mysterious women for 
 	
 	
 
+### Ron&#39;s Gone Wrong
+*Released on 2021-10-15, vote average 7.1*
+
+In a world where walking, talking, digitally connected bots have become children&#39;s best friends, an 11-year-old finds that his robot buddy doesn&#39;t quite work the same as the others do.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8I8nMtzN05s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Warning
-*Released on 2021-10-22, vote average 6.1*
+*Released on 2021-10-22, vote average 5.9*
 
 Loneliness, death and the meaning of life, explored through vastly separate lives colliding in interweaving short stories set in future Earth.
 
@@ -139,6 +110,35 @@ Loneliness, death and the meaning of life, explored through vastly separate live
 
 
 	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Stuck Together
+*Released on 2021-10-20, vote average 5.9*
+
+Seven families live in the Parisian apartment building at 8, Rue de l’Humanite - and they didn’t escape to the countryside at the arrival of the coronavirus. Three months of life under lockdown will reveal the best and worst of these neighbours.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/H5psDW5PG4s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -178,7 +178,7 @@ King Charles VI declares that Knight Jean de Carrouges settle his dispute with h
 	
 
 ### A World Without
-*Released on 2021-10-14, vote average 4.3*
+*Released on 2021-10-14, vote average 4.6*
 
 Founded by the power couple, Ali and Sofia Khan, The Light is a training center that claims to be a self-betterment organization, focused on helping youths take charge of their life for a brighter future. But when three best friends join this organization, they soon realize that dark shadows lurk behind The Light and must find a way to escape.
 
@@ -187,28 +187,6 @@ Founded by the power couple, Ali and Sofia Khan, The Light is a training center 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/-w_Ccy2EAkI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Stuck Together
-*Released on 2021-10-20, vote average 5.9*
-
-Seven families live in the Parisian apartment building at 8, Rue de l’Humanite - and they didn’t escape to the countryside at the arrival of the coronavirus. Three months of life under lockdown will reveal the best and worst of these neighbours.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/H5psDW5PG4s?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -264,35 +242,6 @@ Desperate to find his missing daughter, a man tracks her last known whereabouts 
 
 	
 	
-	
-
-  
-
-
-	
-	
-
-### The French Dispatch
-*Released on 2021-10-21, vote average 7.5*
-
-The staff of a European publication decides to publish a memorial edition highlighting the three best stories from the last decade: an artist sentenced to life imprisonment, student riots, and a kidnapping resolved by a chef.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qrpbzEwPNyE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
 
 ### Christmas in My Heart
 *Released on 2021-10-23, vote average 7*
@@ -316,16 +265,16 @@ With Christmas fast approaching, concert violinist Beth returns to her hometown 
 	
 	
 
-### Last Man Down
-*Released on 2021-10-19, vote average 4.9*
+### The French Dispatch
+*Released on 2021-10-21, vote average 7.6*
 
-After civilization succumbs to a deadly pandemic and his wife is murdered, a special forces soldier abandons his duty and becomes a hermit in the Nordic wilderness. Years later, a wounded woman appears on his doorstep. She&#39;s escaped from a lab and her pursuers believe her blood is the key to a worldwide cure. He&#39;s hesitant to get involved, but all doubts are cast aside when he discovers her pursuer is none other than Commander Stone, the man that murdered his wife some years ago.
+The staff of a European publication decides to publish a memorial edition highlighting the three best stories from the last decade: an artist sentenced to life imprisonment, student riots, and a kidnapping resolved by a chef.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Cs5AVa6-M6A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/qrpbzEwPNyE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -337,9 +286,16 @@ After civilization succumbs to a deadly pandemic and his wife is murdered, a spe
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Last Night in Soho
-*Released on 2021-10-21, vote average 7.8*
+*Released on 2021-10-21, vote average 8.2*
 
 A young girl, passionate about fashion design, is mysteriously able to enter the 1960s where she encounters her idol, a dazzling wannabe singer. But 1960s London is not what it seems, and time seems to be falling apart with shady consequences.
 
@@ -382,19 +338,48 @@ A devoted husband will stop at nothing to save his marriage when it&#39;s destro
 	
 	
 
-### The Estate
-*Released on 2021-10-22, vote average 4*
+### Nussa
+*Released on 2021-10-14, vote average 5.5*
 
-When the spoiled son and newest wife of a billionaire patriarch plot to murder him, they form a psycho-sexual bond with their brutally handsome hitman as they kill and kill (and kill) in their quest for wealth and recognition.
+Planning to impress his father who is coming home after being abroad for a year, Nussa the smart 9-year-old kid participates in his school’s science competition. But when he receives news that his father cancelled his trip home and is unable to attend the competition, and at the same time a new, smart student named Jonni quickly becomes his rival in the school&#39;s science competition, Nussa learns the true meaning of gratitude.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/nTItUEujzCw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/rbJ4VaOW8cs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+	
+
+### Last Man Down
+*Released on 2021-10-19, vote average 4.9*
+
+After civilization succumbs to a deadly pandemic and his wife is murdered, a special forces soldier abandons his duty and becomes a hermit in the Nordic wilderness. Years later, a wounded woman appears on his doorstep. She&#39;s escaped from a lab and her pursuers believe her blood is the key to a worldwide cure. He&#39;s hesitant to get involved, but all doubts are cast aside when he discovers her pursuer is none other than Commander Stone, the man that murdered his wife some years ago.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Cs5AVa6-M6A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -408,12 +393,31 @@ When the spoiled son and newest wife of a billionaire patriarch plot to murder h
 	
 
 	
+	
+
+### Planet Dune
+*Released on 2021-10-29, vote average 2*
+
+A crew on a mission to rescue a marooned base on a desert planet turns deadly when the crew finds themselves hunted and attacked by the planet’s apex predators: giant sand worms.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZwVZ-2WuJo4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
 
 	
 	
 
 ### Monster Family 2
-*Released on 2021-10-28, vote average 4*
+*Released on 2021-10-28, vote average 6*
 
 To free Baba Yaga and Renfield from the clutches of Monster Hunter Mila Starr, the Wishbone Family once more transforms into a Vampire, Frankenstein&#39;s Monster, a Mummy and a Werewolf. Aided and abetted by their three pet bats, our Monster Family zooms around the world again to save their friends, make new monstrous acquaintances and finally come to the realization that ‘Nobody’s Perfect’ – even those with flaws can find happiness.
 
@@ -447,19 +451,51 @@ To free Baba Yaga and Renfield from the clutches of Monster Hunter Mila Starr, t
 	
 
 	
+	
+
+### 13 Minutes
+*Released on 2021-10-29, vote average 10*
+
+As a new day begins in the small American town of Minninnewah, the residents start their day as ordinary as the next. Mother Nature, however, has other plans for them. Inhabitants have just 13 minutes to seek shelter before the largest tornado on record ravages the town, leaving them struggling to protect their loved ones and fighting for their lives. Left to deal with the aftermath, four families must overcome their differences and find strength in each other in order to survive.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/YiEFZLRyRQo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### Paranormal Activity: Next of Kin
+*Released on 2021-10-29, vote average 10*
+
+Margot, a documentary filmmaker, heads to a secluded Amish community in the hopes of learning about her long-lost mother and extended family. Following a string of strange occurrences and discoveries, she comes to realize this community may not be what it seems.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/cyrhAScX80k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
 	
+	
+	
 
 	
 
-	
-
-	
-
-	
-	
 	
 
 	
