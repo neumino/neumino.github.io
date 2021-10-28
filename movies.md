@@ -47,7 +47,7 @@ Minutes after Laurie Strode, her daughter Karen and granddaughter Allyson left m
 	
 
 ### Night Teeth
-*Released on 2021-10-20, vote average 7.2*
+*Released on 2021-10-20, vote average 7.1*
 
 A college student moonlighting as a chauffeur picks up two mysterious women for a night of party-hopping across LA. But when he uncovers their bloodthirsty intentions - and their dangerous, shadowy underworld - he must fight to stay alive.
 
@@ -56,28 +56,6 @@ A college student moonlighting as a chauffeur picks up two mysterious women for 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/ZNu-G-rd4H4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Ron&#39;s Gone Wrong
-*Released on 2021-10-15, vote average 7.1*
-
-In a world where walking, talking, digitally connected bots have become children&#39;s best friends, an 11-year-old finds that his robot buddy doesn&#39;t quite work the same as the others do.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8I8nMtzN05s?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -111,6 +89,21 @@ Loneliness, death and the meaning of life, explored through vastly separate live
 
 	
 	
+
+### Ron&#39;s Gone Wrong
+*Released on 2021-10-15, vote average 7.2*
+
+In a world where walking, talking, digitally connected bots have become children&#39;s best friends, an 11-year-old finds that his robot buddy doesn&#39;t quite work the same as the others do.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8I8nMtzN05s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -127,7 +120,7 @@ Loneliness, death and the meaning of life, explored through vastly separate live
 	
 
 ### Stuck Together
-*Released on 2021-10-20, vote average 5.9*
+*Released on 2021-10-20, vote average 6*
 
 Seven families live in the Parisian apartment building at 8, Rue de l’Humanite - and they didn’t escape to the countryside at the arrival of the coronavirus. Three months of life under lockdown will reveal the best and worst of these neighbours.
 
@@ -153,21 +146,6 @@ Seven families live in the Parisian apartment building at 8, Rue de l’Humanite
 
 
 	
-	
-
-### The Last Duel
-*Released on 2021-10-13, vote average 7.6*
-
-King Charles VI declares that Knight Jean de Carrouges settle his dispute with his squire by challenging him to a duel.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rPapNDpFoeY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -198,65 +176,6 @@ Founded by the power couple, Ali and Sofia Khan, The Light is a training center 
 
 	
 	
-
-### Found
-*Released on 2021-10-13, vote average 7.4*
-
-Follows the story of three American teenage girls—each adopted from China—who discover they are blood-related cousins on 23andMe. Their online meeting inspires the young women to confront the burning questions they have about their lost history.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/r7i_E6zm8lM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Every Last One of Them
-*Released on 2021-10-22, vote average 5.5*
-
-Desperate to find his missing daughter, a man tracks her last known whereabouts to a small desert town only to discover that the head of a deeply funded security firm and his vicious younger sister are protecting a family secret that could potentially derail a billion dollar water deal between his boss and the US government.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MKMo-1PJTNY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Christmas in My Heart
-*Released on 2021-10-23, vote average 7*
-
-With Christmas fast approaching, concert violinist Beth returns to her hometown after the recent death of her mother, the elementary school’s beloved music department head.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vRhuOzlhQ24?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -266,7 +185,7 @@ With Christmas fast approaching, concert violinist Beth returns to her hometown 
 	
 
 ### The French Dispatch
-*Released on 2021-10-21, vote average 7.6*
+*Released on 2021-10-21, vote average 7.5*
 
 The staff of a European publication decides to publish a memorial edition highlighting the three best stories from the last decade: an artist sentenced to life imprisonment, student riots, and a kidnapping resolved by a chef.
 
@@ -285,6 +204,26 @@ The staff of a European publication decides to publish a memorial edition highli
 
 
 	
+
+  
+
+
+	
+	
+
+### Every Last One of Them
+*Released on 2021-10-22, vote average 5.6*
+
+Desperate to find his missing daughter, a man tracks her last known whereabouts to a small desert town only to discover that the head of a deeply funded security firm and his vicious younger sister are protecting a family secret that could potentially derail a billion dollar water deal between his boss and the US government.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MKMo-1PJTNY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -316,16 +255,16 @@ A young girl, passionate about fashion design, is mysteriously able to enter the
 	
 	
 
-### Needle in a Timestack
-*Released on 2021-10-15, vote average 5.4*
+### Monster Family 2
+*Released on 2021-10-28, vote average 6*
 
-A devoted husband will stop at nothing to save his marriage when it&#39;s destroyed by a time-traveling rival.
+To free Baba Yaga and Renfield from the clutches of Monster Hunter Mila Starr, the Wishbone Family once more transforms into a Vampire, Frankenstein&#39;s Monster, a Mummy and a Werewolf. Aided and abetted by their three pet bats, our Monster Family zooms around the world again to save their friends, make new monstrous acquaintances and finally come to the realization that ‘Nobody’s Perfect’ – even those with flaws can find happiness.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ZPKL9aSgbCw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/46stXhjVF8Y?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -338,16 +277,16 @@ A devoted husband will stop at nothing to save his marriage when it&#39;s destro
 	
 	
 
-### Nussa
-*Released on 2021-10-14, vote average 5.5*
+### Christmas in My Heart
+*Released on 2021-10-23, vote average 5.3*
 
-Planning to impress his father who is coming home after being abroad for a year, Nussa the smart 9-year-old kid participates in his school’s science competition. But when he receives news that his father cancelled his trip home and is unable to attend the competition, and at the same time a new, smart student named Jonni quickly becomes his rival in the school&#39;s science competition, Nussa learns the true meaning of gratitude.
+With Christmas fast approaching, concert violinist Beth returns to her hometown after the recent death of her mother, the elementary school’s beloved music department head.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/rbJ4VaOW8cs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/vRhuOzlhQ24?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -386,9 +325,38 @@ After civilization succumbs to a deadly pandemic and his wife is murdered, a spe
   
 
 
+	
+
+  
+
+
+	
+	
+
+### Nussa
+*Released on 2021-10-14, vote average 5.5*
+
+Planning to impress his father who is coming home after being abroad for a year, Nussa the smart 9-year-old kid participates in his school’s science competition. But when he receives news that his father cancelled his trip home and is unable to attend the competition, and at the same time a new, smart student named Jonni quickly becomes his rival in the school&#39;s science competition, Nussa learns the true meaning of gratitude.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/rbJ4VaOW8cs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 
 ## Opening soon
 
+
+	
 
 	
 
@@ -412,8 +380,6 @@ A crew on a mission to rescue a marooned base on a desert planet turns deadly wh
 	
 
 	
-
-	
 	
 
 ### Monster Family 2
@@ -433,7 +399,22 @@ To free Baba Yaga and Renfield from the clutches of Monster Hunter Mila Starr, t
 	
 
 	
+	
 
+### Army of Thieves
+*Released on 2021-10-29, vote average 2*
+
+A mysterious woman recruits bank teller Ludwig Dieter to lead a group of aspiring thieves on a top-secret heist during the early stages of the zombie apocalypse.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Ith2WetKXlg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -445,9 +426,22 @@ To free Baba Yaga and Renfield from the clutches of Monster Hunter Mila Starr, t
 	
 
 	
-
 	
 
+### Paranormal Activity: Next of Kin
+*Released on 2021-10-29, vote average 6*
+
+Margot, a documentary filmmaker, heads to a secluded Amish community in the hopes of learning about her long-lost mother and extended family. Following a string of strange occurrences and discoveries, she comes to realize this community may not be what it seems.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/cyrhAScX80k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -470,18 +464,22 @@ As a new day begins in the small American town of Minninnewah, the residents sta
 	
 
 	
+
 	
 
-### Paranormal Activity: Next of Kin
-*Released on 2021-10-29, vote average 10*
+	
+	
 
-Margot, a documentary filmmaker, heads to a secluded Amish community in the hopes of learning about her long-lost mother and extended family. Following a string of strange occurrences and discoveries, she comes to realize this community may not be what it seems.
+### The Souvenir Part II
+*Released on 2021-10-29, vote average 6*
+
+In the aftermath of her tumultuous relationship with a charismatic and manipulative older man, Julie begins to untangle her fraught love for him in making her graduation film, sorting fact from his elaborately constructed fiction.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/cyrhAScX80k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/3PR_ZK57c54?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -491,7 +489,7 @@ Margot, a documentary filmmaker, heads to a secluded Amish community in the hope
 	
 
 	
-	
+
 	
 
 	
