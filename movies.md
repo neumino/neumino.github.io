@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Night Teeth
-*Released on 2021-10-20, vote average 7.2*
+*Released on 2021-10-20, vote average 7.1*
 
 A college student moonlighting as a chauffeur picks up two mysterious women for a night of party-hopping across LA. But when he uncovers their bloodthirsty intentions - and their dangerous, shadowy underworld - he must fight to stay alive.
 
@@ -45,13 +45,6 @@ A college student moonlighting as a chauffeur picks up two mysterious women for 
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Warning
 *Released on 2021-10-22, vote average 5.9*
@@ -75,30 +68,8 @@ Loneliness, death and the meaning of life, explored through vastly separate live
 	
 	
 
-### Ron&#39;s Gone Wrong
-*Released on 2021-10-15, vote average 7.3*
-
-In a world where walking, talking, digitally connected bots have become children&#39;s best friends, an 11-year-old finds that his robot buddy doesn&#39;t quite work the same as the others do.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8I8nMtzN05s?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Stuck Together
-*Released on 2021-10-20, vote average 5.9*
+*Released on 2021-10-20, vote average 5.8*
 
 Seven families live in the Parisian apartment building at 8, Rue de l’Humanite - and they didn’t escape to the countryside at the arrival of the coronavirus. Three months of life under lockdown will reveal the best and worst of these neighbours.
 
@@ -125,11 +96,21 @@ Seven families live in the Parisian apartment building at 8, Rue de l’Humanite
 
 	
 	
+
+### Antlers
+*Released on 2021-10-28, vote average 5.8*
+
+A young teacher discovers that her troubled student&#39;s father and younger brother harbor a deadly supernatural secret. Taking the boy into her care, the teacher must fight for their survival against horrors beyond imagination.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2aiYxwVuZ1o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
-
-  
-
-
 	
 
   
@@ -148,6 +129,94 @@ A young girl, passionate about fashion design, is mysteriously able to enter the
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/XgNrL4Kf7yU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Planet Dune
+*Released on 2021-10-29, vote average 2*
+
+A crew on a mission to rescue a marooned base on a desert planet turns deadly when the crew finds themselves hunted and attacked by the planet’s apex predators: giant sand worms.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZwVZ-2WuJo4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The French Dispatch
+*Released on 2021-10-21, vote average 7.5*
+
+The staff of a European publication decides to publish a memorial edition highlighting the three best stories from the last decade: an artist sentenced to life imprisonment, student riots, and a kidnapping resolved by a chef.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qrpbzEwPNyE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Army of Thieves
+*Released on 2021-10-29, vote average 7.2*
+
+A mysterious woman recruits bank teller Ludwig Dieter to lead a group of aspiring thieves on a top-secret heist during the early stages of the zombie apocalypse.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Ith2WetKXlg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Hypnotic
+*Released on 2021-10-27, vote average 5.9*
+
+A young woman seeking self-improvement enlists the help of a renowned hypnotist but, after a handful of intense sessions, discovers unexpected and deadly consequences.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/eHsWYmnXk1o?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -182,133 +251,8 @@ To free Baba Yaga and Renfield from the clutches of Monster Hunter Mila Starr, t
 	
 	
 
-### The French Dispatch
-*Released on 2021-10-21, vote average 7.6*
-
-The staff of a European publication decides to publish a memorial edition highlighting the three best stories from the last decade: an artist sentenced to life imprisonment, student riots, and a kidnapping resolved by a chef.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qrpbzEwPNyE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Planet Dune
-*Released on 2021-10-29, vote average 2*
-
-A crew on a mission to rescue a marooned base on a desert planet turns deadly when the crew finds themselves hunted and attacked by the planet’s apex predators: giant sand worms.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZwVZ-2WuJo4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Army of Thieves
-*Released on 2021-10-27, vote average 6*
-
-A mysterious woman recruits bank teller Ludwig Dieter to lead a group of aspiring thieves on a top-secret heist during the early stages of the zombie apocalypse.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Ith2WetKXlg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Hypnotic
-*Released on 2021-10-27, vote average 5.2*
-
-A young woman seeking self-improvement enlists the help of a renowned hypnotist but, after a handful of intense sessions, discovers unexpected and deadly consequences.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/eHsWYmnXk1o?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Every Last One of Them
-*Released on 2021-10-22, vote average 5.6*
-
-Desperate to find his missing daughter, a man tracks her last known whereabouts to a small desert town only to discover that the head of a deeply funded security firm and his vicious younger sister are protecting a family secret that could potentially derail a billion dollar water deal between his boss and the US government.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MKMo-1PJTNY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### Nobody Sleeps in the Woods Tonight 2
-*Released on 2021-10-27, vote average 5.3*
+*Released on 2021-10-27, vote average 5.6*
 
 A perverse, ironic, grotesque and bloody story about looking for love and discovering one’s own self in a world that divides us more than it unites us.
 
@@ -330,7 +274,7 @@ A perverse, ironic, grotesque and bloody story about looking for love and discov
 	
 
 ### Paranormal Activity: Next of Kin
-*Released on 2021-10-29, vote average 6*
+*Released on 2021-10-29, vote average 4.7*
 
 Margot, a documentary filmmaker, heads to a secluded Amish community in the hopes of learning about her long-lost mother and extended family. Following a string of strange occurrences and discoveries, she comes to realize this community may not be what it seems.
 
@@ -347,54 +291,6 @@ Margot, a documentary filmmaker, heads to a secluded Amish community in the hope
 
   
 
-
-
-## Opening soon
-
-
-	
-
-	
-
-	
-	
-
-### Planet Dune
-*Released on 2021-10-29, vote average 2*
-
-A crew on a mission to rescue a marooned base on a desert planet turns deadly when the crew finds themselves hunted and attacked by the planet’s apex predators: giant sand worms.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZwVZ-2WuJo4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-	
-
-### Paranormal Activity: Next of Kin
-*Released on 2021-10-29, vote average 6*
-
-Margot, a documentary filmmaker, heads to a secluded Amish community in the hopes of learning about her long-lost mother and extended family. Following a string of strange occurrences and discoveries, she comes to realize this community may not be what it seems.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cyrhAScX80k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 	
@@ -415,6 +311,28 @@ As a new day begins in the small American town of Minninnewah, the residents sta
 	
 	
 
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 	
 
@@ -434,21 +352,36 @@ In the aftermath of her tumultuous relationship with a charismatic and manipulat
 	
 	
 
+  
+
+
 	
+
+  
+
+
+	
+
+  
+
+
+
+## Opening soon
+
 
 	
 	
 
-### Scooby-Doo, Where Are You Now!
-*Released on 2021-10-29, vote average 10*
+### Eternals
+*Released on 2021-11-03, vote average 9.3*
 
-After 52 years of solving mysteries, the Scooby gang reunite at Warner Bros. Studios to reminisce about their favorite cases and how they were filmed. But it turns out that the back lot may have its OWN monster problem. Fred, Daphne, Velma, Shaggy, and Scooby-Doo investigate this mystery while celebrating the legacy of the franchise.
+The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind’s most ancient enemy, the Deviants.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/bb_Dbcd0aSc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Xi65rX01bLo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -462,22 +395,13 @@ After 52 years of solving mysteries, the Scooby gang reunite at Warner Bros. Stu
 	
 
 	
-	
-
-### Compartment No. 6
-*Released on 2021-10-29, vote average 9*
-
-End of the 90s. Finnish student Laura travels from Moscow to Murmansk to see ancient rock paintings. Her only neighbor in the compartment is a miner named Ljoha, a gloomy unsociable type. The long road through the snow brings them closer. Long railway. But Ljoha and Laura have something else in common, besides the coupe, which they are forced to share: both feel like strangers in this world.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FQcdKFioAz4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+	
+
+	
+
 	
 
 	
@@ -487,7 +411,13 @@ End of the 90s. Finnish student Laura travels from Moscow to Murmansk to see anc
 	
 
 	
+
 	
+
+	
+
+	
+
 	
 
 	
