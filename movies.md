@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Night Teeth
-*Released on 2021-10-20, vote average 7.1*
+*Released on 2021-10-20, vote average 7*
 
 A college student moonlighting as a chauffeur picks up two mysterious women for a night of party-hopping across LA. But when he uncovers their bloodthirsty intentions - and their dangerous, shadowy underworld - he must fight to stay alive.
 
@@ -47,7 +47,7 @@ A college student moonlighting as a chauffeur picks up two mysterious women for 
 	
 
 ### Warning
-*Released on 2021-10-22, vote average 5.9*
+*Released on 2021-10-22, vote average 5.8*
 
 Loneliness, death and the meaning of life, explored through vastly separate lives colliding in interweaving short stories set in future Earth.
 
@@ -67,9 +67,16 @@ Loneliness, death and the meaning of life, explored through vastly separate live
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Stuck Together
-*Released on 2021-10-20, vote average 5.8*
+*Released on 2021-10-20, vote average 5.9*
 
 Seven families live in the Parisian apartment building at 8, Rue de l’Humanite - and they didn’t escape to the countryside at the arrival of the coronavirus. Three months of life under lockdown will reveal the best and worst of these neighbours.
 
@@ -89,24 +96,17 @@ Seven families live in the Parisian apartment building at 8, Rue de l’Humanite
 
 	
 	
-	
 
-  
+### Last Night in Soho
+*Released on 2021-10-21, vote average 7.8*
 
-
-	
-	
-
-### Antlers
-*Released on 2021-10-28, vote average 5.8*
-
-A young teacher discovers that her troubled student&#39;s father and younger brother harbor a deadly supernatural secret. Taking the boy into her care, the teacher must fight for their survival against horrors beyond imagination.
+A young girl, passionate about fashion design, is mysteriously able to enter the 1960s where she encounters her idol, a dazzling wannabe singer. But 1960s London is not what it seems, and time seems to be falling apart with shady consequences.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/2aiYxwVuZ1o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/XgNrL4Kf7yU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -119,16 +119,16 @@ A young teacher discovers that her troubled student&#39;s father and younger bro
 	
 	
 
-### Last Night in Soho
-*Released on 2021-10-21, vote average 8*
+### Antlers
+*Released on 2021-10-28, vote average 6.2*
 
-A young girl, passionate about fashion design, is mysteriously able to enter the 1960s where she encounters her idol, a dazzling wannabe singer. But 1960s London is not what it seems, and time seems to be falling apart with shady consequences.
+A young teacher discovers that her troubled student&#39;s father and younger brother harbor a deadly supernatural secret. Taking the boy into her care, the teacher must fight for their survival against horrors beyond imagination.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/XgNrL4Kf7yU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/2aiYxwVuZ1o?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -163,30 +163,8 @@ A crew on a mission to rescue a marooned base on a desert planet turns deadly wh
 	
 	
 
-### The French Dispatch
-*Released on 2021-10-21, vote average 7.5*
-
-The staff of a European publication decides to publish a memorial edition highlighting the three best stories from the last decade: an artist sentenced to life imprisonment, student riots, and a kidnapping resolved by a chef.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qrpbzEwPNyE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Army of Thieves
-*Released on 2021-10-29, vote average 7.2*
+*Released on 2021-10-29, vote average 6.9*
 
 A mysterious woman recruits bank teller Ludwig Dieter to lead a group of aspiring thieves on a top-secret heist during the early stages of the zombie apocalypse.
 
@@ -208,7 +186,7 @@ A mysterious woman recruits bank teller Ludwig Dieter to lead a group of aspirin
 	
 
 ### Hypnotic
-*Released on 2021-10-27, vote average 5.9*
+*Released on 2021-10-27, vote average 5.8*
 
 A young woman seeking self-improvement enlists the help of a renowned hypnotist but, after a handful of intense sessions, discovers unexpected and deadly consequences.
 
@@ -217,6 +195,104 @@ A young woman seeking self-improvement enlists the help of a renowned hypnotist 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/eHsWYmnXk1o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Nobody Sleeps in the Woods Tonight 2
+*Released on 2021-10-27, vote average 5.4*
+
+When something horrible happens to the only survivor of a bloody massacre, an insecure rookie cop must overcome his fears to stop further carnage.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/R_wIaGkiUBI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Paranormal Activity: Next of Kin
+*Released on 2021-10-29, vote average 4.5*
+
+Margot, a documentary filmmaker, heads to a secluded Amish community in the hopes of learning about her long-lost mother and extended family. Following a string of strange occurrences and discoveries, she comes to realize this community may not be what it seems.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/cyrhAScX80k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The French Dispatch
+*Released on 2021-10-21, vote average 7.6*
+
+The staff of a European publication decides to publish a memorial edition highlighting the three best stories from the last decade: an artist sentenced to life imprisonment, student riots, and a kidnapping resolved by a chef.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qrpbzEwPNyE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Spine of Night
+*Released on 2021-10-29, vote average 6*
+
+In this ultra-violent, fantasy epic, ancient dark magic falls into sinister hands and unleashes ages of suffering onto mankind. A group of heroes from different eras and cultures must band together in order to defeat it at all costs.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/OXQbav9GcXI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -251,50 +327,6 @@ To free Baba Yaga and Renfield from the clutches of Monster Hunter Mila Starr, t
 	
 	
 
-### Nobody Sleeps in the Woods Tonight 2
-*Released on 2021-10-27, vote average 5.6*
-
-A perverse, ironic, grotesque and bloody story about looking for love and discovering one’s own self in a world that divides us more than it unites us.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/R_wIaGkiUBI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Paranormal Activity: Next of Kin
-*Released on 2021-10-29, vote average 4.7*
-
-Margot, a documentary filmmaker, heads to a secluded Amish community in the hopes of learning about her long-lost mother and extended family. Following a string of strange occurrences and discoveries, she comes to realize this community may not be what it seems.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cyrhAScX80k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### 13 Minutes
 *Released on 2021-10-29, vote average 10*
 
@@ -315,18 +347,21 @@ As a new day begins in the small American town of Minninnewah, the residents sta
 
 
 	
-
-  
-
-
-	
-	
 	
 
-  
+### Snakehead
+*Released on 2021-10-29, vote average 7*
 
+Sister Tse is brought to New York by a Snakehead, a human smuggler. Although she is indebted to the crime family responsible for her transport, her survival instincts help her gain favor with the matriarch, and she rises quickly in the ranks. Soon Tse must reconcile her success with her real reason for coming to America—to find the child that was taken from her. In the end, Sister Tse must draw on the strength she found in transforming her victimhood into power.
 
-	
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/JILrh-Ct7ac?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -356,10 +391,22 @@ In the aftermath of her tumultuous relationship with a charismatic and manipulat
 
 
 	
+	
 
-  
+### Scooby-Doo, Where Are You Now!
+*Released on 2021-10-29, vote average 9*
 
+After 52 years of solving mysteries, the Scooby gang reunite at Warner Bros. Studios to reminisce about their favorite cases and how they were filmed. But it turns out that the back lot may have its OWN monster problem. Fred, Daphne, Velma, Shaggy, and Scooby-Doo investigate this mystery while celebrating the legacy of the franchise.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/AuInJeFuPjs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -373,7 +420,7 @@ In the aftermath of her tumultuous relationship with a charismatic and manipulat
 	
 
 ### Eternals
-*Released on 2021-11-03, vote average 9.3*
+*Released on 2021-11-03, vote average 9.6*
 
 The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind’s most ancient enemy, the Deviants.
 
