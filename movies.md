@@ -45,9 +45,16 @@ A college student moonlighting as a chauffeur picks up two mysterious women for 
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Warning
-*Released on 2021-10-22, vote average 5.8*
+*Released on 2021-10-22, vote average 6*
 
 Loneliness, death and the meaning of life, explored through vastly separate lives colliding in interweaving short stories set in future Earth.
 
@@ -67,16 +74,9 @@ Loneliness, death and the meaning of life, explored through vastly separate live
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Stuck Together
-*Released on 2021-10-20, vote average 5.9*
+*Released on 2021-10-20, vote average 6.1*
 
 Seven families live in the Parisian apartment building at 8, Rue de l’Humanite - and they didn’t escape to the countryside at the arrival of the coronavirus. Three months of life under lockdown will reveal the best and worst of these neighbours.
 
@@ -97,16 +97,38 @@ Seven families live in the Parisian apartment building at 8, Rue de l’Humanite
 	
 	
 
-### Last Night in Soho
-*Released on 2021-10-21, vote average 7.8*
+### Army of Thieves
+*Released on 2021-10-29, vote average 6.8*
 
-A young girl, passionate about fashion design, is mysteriously able to enter the 1960s where she encounters her idol, a dazzling wannabe singer. But 1960s London is not what it seems, and time seems to be falling apart with shady consequences.
+A mysterious woman recruits bank teller Ludwig Dieter to lead a group of aspiring thieves on a top-secret heist during the early stages of the zombie apocalypse.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/XgNrL4Kf7yU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Ith2WetKXlg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Hypnotic
+*Released on 2021-10-27, vote average 5.7*
+
+A young woman seeking self-improvement enlists the help of a renowned hypnotist but, after a handful of intense sessions, discovers unexpected and deadly consequences.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/eHsWYmnXk1o?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -120,7 +142,7 @@ A young girl, passionate about fashion design, is mysteriously able to enter the
 	
 
 ### Antlers
-*Released on 2021-10-28, vote average 6.2*
+*Released on 2021-10-28, vote average 5.9*
 
 A young teacher discovers that her troubled student&#39;s father and younger brother harbor a deadly supernatural secret. Taking the boy into her care, the teacher must fight for their survival against horrors beyond imagination.
 
@@ -129,6 +151,28 @@ A young teacher discovers that her troubled student&#39;s father and younger bro
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/2aiYxwVuZ1o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Last Night in Soho
+*Released on 2021-10-21, vote average 7.6*
+
+A young girl, passionate about fashion design, is mysteriously able to enter the 1960s where she encounters her idol, a dazzling wannabe singer. But 1960s London is not what it seems, and time seems to be falling apart with shady consequences.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/XgNrL4Kf7yU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -163,52 +207,8 @@ A crew on a mission to rescue a marooned base on a desert planet turns deadly wh
 	
 	
 
-### Army of Thieves
-*Released on 2021-10-29, vote average 6.9*
-
-A mysterious woman recruits bank teller Ludwig Dieter to lead a group of aspiring thieves on a top-secret heist during the early stages of the zombie apocalypse.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Ith2WetKXlg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Hypnotic
-*Released on 2021-10-27, vote average 5.8*
-
-A young woman seeking self-improvement enlists the help of a renowned hypnotist but, after a handful of intense sessions, discovers unexpected and deadly consequences.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/eHsWYmnXk1o?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Nobody Sleeps in the Woods Tonight 2
-*Released on 2021-10-27, vote average 5.4*
+*Released on 2021-10-27, vote average 5.1*
 
 When something horrible happens to the only survivor of a bloody massacre, an insecure rookie cop must overcome his fears to stop further carnage.
 
@@ -230,7 +230,7 @@ When something horrible happens to the only survivor of a bloody massacre, an in
 	
 
 ### Paranormal Activity: Next of Kin
-*Released on 2021-10-29, vote average 4.5*
+*Released on 2021-10-29, vote average 6.4*
 
 Margot, a documentary filmmaker, heads to a secluded Amish community in the hopes of learning about her long-lost mother and extended family. Following a string of strange occurrences and discoveries, she comes to realize this community may not be what it seems.
 
@@ -249,10 +249,15 @@ Margot, a documentary filmmaker, heads to a secluded Amish community in the hope
 
 
 	
+
+  
+
+
+	
 	
 
 ### The French Dispatch
-*Released on 2021-10-21, vote average 7.6*
+*Released on 2021-10-21, vote average 7.4*
 
 The staff of a European publication decides to publish a memorial edition highlighting the three best stories from the last decade: an artist sentenced to life imprisonment, student riots, and a kidnapping resolved by a chef.
 
@@ -271,20 +276,10 @@ The staff of a European publication decides to publish a memorial edition highli
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### The Spine of Night
-*Released on 2021-10-29, vote average 6*
+*Released on 2021-10-29, vote average 7*
 
 In this ultra-violent, fantasy epic, ancient dark magic falls into sinister hands and unleashes ages of suffering onto mankind. A group of heroes from different eras and cultures must band together in order to defeat it at all costs.
 
@@ -305,19 +300,26 @@ In this ultra-violent, fantasy epic, ancient dark magic falls into sinister hand
 	
 	
 
-### Monster Family 2
-*Released on 2021-10-28, vote average 6*
+### Snakehead
+*Released on 2021-10-29, vote average 8*
 
-To free Baba Yaga and Renfield from the clutches of Monster Hunter Mila Starr, the Wishbone Family once more transforms into a Vampire, Frankenstein&#39;s Monster, a Mummy and a Werewolf. Aided and abetted by their three pet bats, our Monster Family zooms around the world again to save their friends, make new monstrous acquaintances and finally come to the realization that ‘Nobody’s Perfect’ – even those with flaws can find happiness.
+Sister Tse is brought to New York by a Snakehead, a human smuggler. Although she is indebted to the crime family responsible for her transport, her survival instincts help her gain favor with the matriarch, and she rises quickly in the ranks. Soon Tse must reconcile her success with her real reason for coming to America—to find the child that was taken from her. In the end, Sister Tse must draw on the strength she found in transforming her victimhood into power.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/46stXhjVF8Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/JILrh-Ct7ac?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -347,18 +349,23 @@ As a new day begins in the small American town of Minninnewah, the residents sta
 
 
 	
+
+  
+
+
+	
 	
 
-### Snakehead
-*Released on 2021-10-29, vote average 7*
+### Horror Noire
+*Released on 2021-10-28, vote average 6*
 
-Sister Tse is brought to New York by a Snakehead, a human smuggler. Although she is indebted to the crime family responsible for her transport, her survival instincts help her gain favor with the matriarch, and she rises quickly in the ranks. Soon Tse must reconcile her success with her real reason for coming to America—to find the child that was taken from her. In the end, Sister Tse must draw on the strength she found in transforming her victimhood into power.
+Delving into a century of genre films that by turns utilised, caricatured, exploited, sidelined, and finally embraced them, this is the untold history of Black Americans in Hollywood through their connection to the horror genre.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/JILrh-Ct7ac?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/eLc626VoUMY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -369,43 +376,6 @@ Sister Tse is brought to New York by a Snakehead, a human smuggler. Although she
 
 
 	
-	
-
-### The Souvenir Part II
-*Released on 2021-10-29, vote average 6*
-
-In the aftermath of her tumultuous relationship with a charismatic and manipulative older man, Julie begins to untangle her fraught love for him in making her graduation film, sorting fact from his elaborately constructed fiction.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3PR_ZK57c54?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Scooby-Doo, Where Are You Now!
-*Released on 2021-10-29, vote average 9*
-
-After 52 years of solving mysteries, the Scooby gang reunite at Warner Bros. Studios to reminisce about their favorite cases and how they were filmed. But it turns out that the back lot may have its OWN monster problem. Fred, Daphne, Velma, Shaggy, and Scooby-Doo investigate this mystery while celebrating the legacy of the franchise.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/AuInJeFuPjs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -420,7 +390,7 @@ After 52 years of solving mysteries, the Scooby gang reunite at Warner Bros. Stu
 	
 
 ### Eternals
-*Released on 2021-11-03, vote average 9.6*
+*Released on 2021-11-03, vote average 8.4*
 
 The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind’s most ancient enemy, the Deviants.
 
@@ -428,7 +398,7 @@ The Eternals are a team of ancient aliens who have been living on Earth in secre
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Xi65rX01bLo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/i0_Q80DngtU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -443,6 +413,8 @@ The Eternals are a team of ancient aliens who have been living on Earth in secre
 
 	
 
+	
+	
 	
 
 	
