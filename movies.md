@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Night Teeth
-*Released on 2021-10-20, vote average 7*
+*Released on 2021-10-20, vote average 6.9*
 
 A college student moonlighting as a chauffeur picks up two mysterious women for a night of party-hopping across LA. But when he uncovers their bloodthirsty intentions - and their dangerous, shadowy underworld - he must fight to stay alive.
 
@@ -98,7 +98,7 @@ Seven families live in the Parisian apartment building at 8, Rue de l’Humanite
 	
 
 ### Army of Thieves
-*Released on 2021-10-29, vote average 6.8*
+*Released on 2021-10-29, vote average 6.6*
 
 A mysterious woman recruits bank teller Ludwig Dieter to lead a group of aspiring thieves on a top-secret heist during the early stages of the zombie apocalypse.
 
@@ -120,7 +120,7 @@ A mysterious woman recruits bank teller Ludwig Dieter to lead a group of aspirin
 	
 
 ### Hypnotic
-*Released on 2021-10-27, vote average 5.7*
+*Released on 2021-10-27, vote average 5.9*
 
 A young woman seeking self-improvement enlists the help of a renowned hypnotist but, after a handful of intense sessions, discovers unexpected and deadly consequences.
 
@@ -141,8 +141,74 @@ A young woman seeking self-improvement enlists the help of a renowned hypnotist 
 	
 	
 
+### Nobody Sleeps in the Woods Tonight 2
+*Released on 2021-10-27, vote average 4.9*
+
+When something horrible happens to the only survivor of a bloody massacre, an insecure rookie cop must overcome his fears to stop further carnage.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/R_wIaGkiUBI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Paranormal Activity: Next of Kin
+*Released on 2021-10-29, vote average 6.5*
+
+Margot, a documentary filmmaker, heads to a secluded Amish community in the hopes of learning about her long-lost mother and extended family. Following a string of strange occurrences and discoveries, she comes to realize this community may not be what it seems.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/cyrhAScX80k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Last Night in Soho
+*Released on 2021-10-21, vote average 7.5*
+
+A young girl, passionate about fashion design, is mysteriously able to enter the 1960s where she encounters her idol, a dazzling wannabe singer. But 1960s London is not what it seems, and time seems to be falling apart with shady consequences.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/XgNrL4Kf7yU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Antlers
-*Released on 2021-10-28, vote average 5.9*
+*Released on 2021-10-28, vote average 5.4*
 
 A young teacher discovers that her troubled student&#39;s father and younger brother harbor a deadly supernatural secret. Taking the boy into her care, the teacher must fight for their survival against horrors beyond imagination.
 
@@ -163,16 +229,16 @@ A young teacher discovers that her troubled student&#39;s father and younger bro
 	
 	
 
-### Last Night in Soho
-*Released on 2021-10-21, vote average 7.6*
+### Safer at Home
+*Released on 2021-11-01, vote average 5.8*
 
-A young girl, passionate about fashion design, is mysteriously able to enter the 1960s where she encounters her idol, a dazzling wannabe singer. But 1960s London is not what it seems, and time seems to be falling apart with shady consequences.
+Two years into the pandemic, a group of friends throw an online party with a night of games, drinking and drugs. After taking an ecstasy pill, things go terribly wrong and the safety of their home becomes more terrifying than the raging chaos outside.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/XgNrL4Kf7yU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/FxSuRp0a-hw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -195,50 +261,6 @@ A crew on a mission to rescue a marooned base on a desert planet turns deadly wh
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/ZwVZ-2WuJo4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Nobody Sleeps in the Woods Tonight 2
-*Released on 2021-10-27, vote average 5.1*
-
-When something horrible happens to the only survivor of a bloody massacre, an insecure rookie cop must overcome his fears to stop further carnage.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/R_wIaGkiUBI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Paranormal Activity: Next of Kin
-*Released on 2021-10-29, vote average 6.4*
-
-Margot, a documentary filmmaker, heads to a secluded Amish community in the hopes of learning about her long-lost mother and extended family. Following a string of strange occurrences and discoveries, she comes to realize this community may not be what it seems.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cyrhAScX80k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -277,21 +299,6 @@ The staff of a European publication decides to publish a memorial edition highli
 
 	
 	
-
-### The Spine of Night
-*Released on 2021-10-29, vote average 7*
-
-In this ultra-violent, fantasy epic, ancient dark magic falls into sinister hands and unleashes ages of suffering onto mankind. A group of heroes from different eras and cultures must band together in order to defeat it at all costs.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/OXQbav9GcXI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -301,7 +308,7 @@ In this ultra-violent, fantasy epic, ancient dark magic falls into sinister hand
 	
 
 ### Snakehead
-*Released on 2021-10-29, vote average 8*
+*Released on 2021-10-29, vote average 7.5*
 
 Sister Tse is brought to New York by a Snakehead, a human smuggler. Although she is indebted to the crime family responsible for her transport, her survival instincts help her gain favor with the matriarch, and she rises quickly in the ranks. Soon Tse must reconcile her success with her real reason for coming to America—to find the child that was taken from her. In the end, Sister Tse must draw on the strength she found in transforming her victimhood into power.
 
@@ -320,7 +327,15 @@ Sister Tse is brought to New York by a Snakehead, a human smuggler. Although she
 
 
 	
+
+  
+
+
 	
+
+  
+
+
 	
 
   
@@ -348,40 +363,6 @@ As a new day begins in the small American town of Minninnewah, the residents sta
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Horror Noire
-*Released on 2021-10-28, vote average 6*
-
-Delving into a century of genre films that by turns utilised, caricatured, exploited, sidelined, and finally embraced them, this is the untold history of Black Americans in Hollywood through their connection to the horror genre.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/eLc626VoUMY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -390,7 +371,7 @@ Delving into a century of genre films that by turns utilised, caricatured, explo
 	
 
 ### Eternals
-*Released on 2021-11-03, vote average 8.4*
+*Released on 2021-11-03, vote average 7.3*
 
 The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind’s most ancient enemy, the Deviants.
 
@@ -398,7 +379,7 @@ The Eternals are a team of ancient aliens who have been living on Earth in secre
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/i0_Q80DngtU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/n0xiX1cKlD8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -414,8 +395,6 @@ The Eternals are a team of ancient aliens who have been living on Earth in secre
 	
 
 	
-	
-	
 
 	
 
@@ -432,9 +411,28 @@ The Eternals are a team of ancient aliens who have been living on Earth in secre
 	
 
 	
+	
+
+### Paris, 13th District
+*Released on 2021-11-03, vote average 9*
+
+Émilie meets Camille who is attracted to Nora, who crosses paths with Amber. Three girls and a boy – They’re friends, sometimes lovers and often both.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KSRww3PRyLI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
+	
+	
 	
 
 	
