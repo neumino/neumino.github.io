@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Night Teeth
-*Released on 2021-10-20, vote average 6.9*
+*Released on 2021-10-20, vote average 6.8*
 
 A college student moonlighting as a chauffeur picks up two mysterious women for a night of party-hopping across LA. But when he uncovers their bloodthirsty intentions - and their dangerous, shadowy underworld - he must fight to stay alive.
 
@@ -40,6 +40,28 @@ A college student moonlighting as a chauffeur picks up two mysterious women for 
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+  
+
+
+	
+	
+
+### Eternals
+*Released on 2021-11-03, vote average 7.3*
+
+The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind’s most ancient enemy, the Deviants.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/lXed5Inp844?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
   
 
 
@@ -75,28 +97,6 @@ Loneliness, death and the meaning of life, explored through vastly separate live
 	
 	
 
-### Stuck Together
-*Released on 2021-10-20, vote average 6.1*
-
-Seven families live in the Parisian apartment building at 8, Rue de l’Humanite - and they didn’t escape to the countryside at the arrival of the coronavirus. Three months of life under lockdown will reveal the best and worst of these neighbours.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/H5psDW5PG4s?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Army of Thieves
 *Released on 2021-10-29, vote average 6.6*
 
@@ -120,7 +120,7 @@ A mysterious woman recruits bank teller Ludwig Dieter to lead a group of aspirin
 	
 
 ### Hypnotic
-*Released on 2021-10-27, vote average 5.9*
+*Released on 2021-10-27, vote average 6*
 
 A young woman seeking self-improvement enlists the help of a renowned hypnotist but, after a handful of intense sessions, discovers unexpected and deadly consequences.
 
@@ -141,8 +141,30 @@ A young woman seeking self-improvement enlists the help of a renowned hypnotist 
 	
 	
 
+### Stuck Together
+*Released on 2021-10-20, vote average 6.1*
+
+Seven families live in the Parisian apartment building at 8, Rue de l’Humanite - and they didn’t escape to the countryside at the arrival of the coronavirus. Three months of life under lockdown will reveal the best and worst of these neighbours.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/H5psDW5PG4s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Nobody Sleeps in the Woods Tonight 2
-*Released on 2021-10-27, vote average 4.9*
+*Released on 2021-10-27, vote average 4.5*
 
 When something horrible happens to the only survivor of a bloody massacre, an insecure rookie cop must overcome his fears to stop further carnage.
 
@@ -185,8 +207,30 @@ Margot, a documentary filmmaker, heads to a secluded Amish community in the hope
 	
 	
 
+### Safer at Home
+*Released on 2021-11-01, vote average 4*
+
+Two years into the pandemic, a group of friends throw an online party with a night of games, drinking and drugs. After taking an ecstasy pill, things go terribly wrong and the safety of their home becomes more terrifying than the raging chaos outside.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FxSuRp0a-hw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Last Night in Soho
-*Released on 2021-10-21, vote average 7.5*
+*Released on 2021-10-21, vote average 7.6*
 
 A young girl, passionate about fashion design, is mysteriously able to enter the 1960s where she encounters her idol, a dazzling wannabe singer. But 1960s London is not what it seems, and time seems to be falling apart with shady consequences.
 
@@ -208,7 +252,7 @@ A young girl, passionate about fashion design, is mysteriously able to enter the
 	
 
 ### Antlers
-*Released on 2021-10-28, vote average 5.4*
+*Released on 2021-10-28, vote average 5.7*
 
 A young teacher discovers that her troubled student&#39;s father and younger brother harbor a deadly supernatural secret. Taking the boy into her care, the teacher must fight for their survival against horrors beyond imagination.
 
@@ -227,43 +271,6 @@ A young teacher discovers that her troubled student&#39;s father and younger bro
 
 
 	
-	
-
-### Safer at Home
-*Released on 2021-11-01, vote average 5.8*
-
-Two years into the pandemic, a group of friends throw an online party with a night of games, drinking and drugs. After taking an ecstasy pill, things go terribly wrong and the safety of their home becomes more terrifying than the raging chaos outside.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FxSuRp0a-hw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Planet Dune
-*Released on 2021-10-29, vote average 2*
-
-A crew on a mission to rescue a marooned base on a desert planet turns deadly when the crew finds themselves hunted and attacked by the planet’s apex predators: giant sand worms.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZwVZ-2WuJo4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -299,6 +306,43 @@ The staff of a European publication decides to publish a memorial edition highli
 
 	
 	
+
+### 13 Minutes
+*Released on 2021-10-29, vote average 5.8*
+
+As a new day begins in the small American town of Minninnewah, the residents start their day as ordinary as the next. Mother Nature, however, has other plans for them. Inhabitants have just 13 minutes to seek shelter before the largest tornado on record ravages the town, leaving them struggling to protect their loved ones and fighting for their lives. Left to deal with the aftermath, four families must overcome their differences and find strength in each other in order to survive.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/YiEFZLRyRQo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Planet Dune
+*Released on 2021-10-29, vote average 2*
+
+A crew on a mission to rescue a marooned base on a desert planet turns deadly when the crew finds themselves hunted and attacked by the planet’s apex predators: giant sand worms.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZwVZ-2WuJo4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -308,7 +352,7 @@ The staff of a European publication decides to publish a memorial edition highli
 	
 
 ### Snakehead
-*Released on 2021-10-29, vote average 7.5*
+*Released on 2021-10-29, vote average 6.3*
 
 Sister Tse is brought to New York by a Snakehead, a human smuggler. Although she is indebted to the crime family responsible for her transport, her survival instincts help her gain favor with the matriarch, and she rises quickly in the ranks. Soon Tse must reconcile her success with her real reason for coming to America—to find the child that was taken from her. In the end, Sister Tse must draw on the strength she found in transforming her victimhood into power.
 
@@ -332,28 +376,18 @@ Sister Tse is brought to New York by a Snakehead, a human smuggler. Although she
 
 
 	
-
-  
-
-
 	
 
-  
+### Scooby-Doo, Where Are You Now!
+*Released on 2021-10-29, vote average 9*
 
-
-	
-	
-
-### 13 Minutes
-*Released on 2021-10-29, vote average 10*
-
-As a new day begins in the small American town of Minninnewah, the residents start their day as ordinary as the next. Mother Nature, however, has other plans for them. Inhabitants have just 13 minutes to seek shelter before the largest tornado on record ravages the town, leaving them struggling to protect their loved ones and fighting for their lives. Left to deal with the aftermath, four families must overcome their differences and find strength in each other in order to survive.
+After 52 years of solving mysteries, the Scooby gang reunite at Warner Bros. Studios to reminisce about their favorite cases and how they were filmed. But it turns out that the back lot may have its OWN monster problem. Fred, Daphne, Velma, Shaggy, and Scooby-Doo investigate this mystery while celebrating the legacy of the franchise.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/YiEFZLRyRQo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/AuInJeFuPjs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -379,7 +413,26 @@ The Eternals are a team of ancient aliens who have been living on Earth in secre
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/n0xiX1cKlD8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/lXed5Inp844?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### Red Notice
+*Released on 2021-11-05, vote average 6.7*
+
+An Interpol-issued Red Notice is a global alert to hunt and capture the world&#39;s most wanted. But when a daring heist brings together the FBI&#39;s top profiler and two rival criminals, there&#39;s no telling what will happen.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Pj0wz7zu3Ms?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -389,21 +442,22 @@ The Eternals are a team of ancient aliens who have been living on Earth in secre
 	
 
 	
-
 	
 
-	
+### Finch
+*Released on 2021-11-05, vote average 10*
+
+On a post-apocalyptic Earth, a robot, built to protect the life of his dying creator&#39;s beloved dog, learns about life, love, friendship, and what it means to be human.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-0bYWnP3jH4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
@@ -430,9 +484,40 @@ The Eternals are a team of ancient aliens who have been living on Earth in secre
 	
 
 	
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
 
 	
 	
+
+### Vicious Fun
+*Released on 2021-11-04, vote average 6*
+
+A loser whose life is passing him by accidentally stumbles into a secret underground self-help group for serial killers. Stuck with only two options - kill or be killed - Joel must match wits with five killers and make it through the night alive.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xo4uoI4QBQo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
 	
 
 	
