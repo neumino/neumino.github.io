@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Eternals
-*Released on 2021-11-03, vote average 7.3*
+*Released on 2021-11-03, vote average 7.5*
 
 The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind’s most ancient enemy, the Deviants.
 
@@ -21,7 +21,7 @@ The Eternals are a team of ancient aliens who have been living on Earth in secre
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/lIQ7PzDqAOE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/dWyusOS1Rqw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -45,16 +45,9 @@ The Eternals are a team of ancient aliens who have been living on Earth in secre
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Army of Thieves
-*Released on 2021-10-29, vote average 6.6*
+*Released on 2021-10-29, vote average 6.7*
 
 A mysterious woman recruits bank teller Ludwig Dieter to lead a group of aspiring thieves on a top-secret heist during the early stages of the zombie apocalypse.
 
@@ -98,7 +91,7 @@ A young woman seeking self-improvement enlists the help of a renowned hypnotist 
 	
 
 ### Nobody Sleeps in the Woods Tonight 2
-*Released on 2021-10-27, vote average 4.3*
+*Released on 2021-10-27, vote average 4.2*
 
 When something horrible happens to the only survivor of a bloody massacre, an insecure rookie cop must overcome his fears to stop further carnage.
 
@@ -118,9 +111,16 @@ When something horrible happens to the only survivor of a bloody massacre, an in
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Warning
-*Released on 2021-10-22, vote average 6*
+*Released on 2021-10-22, vote average 5.9*
 
 Loneliness, death and the meaning of life, explored through vastly separate lives colliding in interweaving short stories set in future Earth.
 
@@ -129,6 +129,35 @@ Loneliness, death and the meaning of life, explored through vastly separate live
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/vWhg9-OVWfo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Red Notice
+*Released on 2021-11-05, vote average 6*
+
+An Interpol-issued Red Notice is a global alert to hunt and capture the world&#39;s most wanted. But when a daring heist brings together the FBI&#39;s top profiler and two rival criminals, there&#39;s no telling what will happen.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Pj0wz7zu3Ms?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -184,24 +213,17 @@ Margot, a documentary filmmaker, heads to a secluded Amish community in the hope
 
 	
 	
-	
 
-  
+### 13 Minutes
+*Released on 2021-10-29, vote average 5.7*
 
-
-	
-	
-
-### Last Night in Soho
-*Released on 2021-10-21, vote average 7.4*
-
-A young girl, passionate about fashion design, is mysteriously able to enter the 1960s where she encounters her idol, a dazzling wannabe singer. But 1960s London is not what it seems, and time seems to be falling apart with shady consequences.
+As a new day begins in the small American town of Minninnewah, the residents start their day as ordinary as the next. Mother Nature, however, has other plans for them. Inhabitants have just 13 minutes to seek shelter before the largest tornado on record ravages the town, leaving them struggling to protect their loved ones and fighting for their lives. Left to deal with the aftermath, four families must overcome their differences and find strength in each other in order to survive.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/XgNrL4Kf7yU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/YiEFZLRyRQo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -215,7 +237,7 @@ A young girl, passionate about fashion design, is mysteriously able to enter the
 	
 
 ### Antlers
-*Released on 2021-10-28, vote average 5.9*
+*Released on 2021-10-28, vote average 6*
 
 A young teacher discovers that her troubled student&#39;s father and younger brother harbor a deadly supernatural secret. Taking the boy into her care, the teacher must fight for their survival against horrors beyond imagination.
 
@@ -236,16 +258,16 @@ A young teacher discovers that her troubled student&#39;s father and younger bro
 	
 	
 
-### 13 Minutes
-*Released on 2021-10-29, vote average 4.7*
+### Finch
+*Released on 2021-11-05, vote average 6.3*
 
-As a new day begins in the small American town of Minninnewah, the residents start their day as ordinary as the next. Mother Nature, however, has other plans for them. Inhabitants have just 13 minutes to seek shelter before the largest tornado on record ravages the town, leaving them struggling to protect their loved ones and fighting for their lives. Left to deal with the aftermath, four families must overcome their differences and find strength in each other in order to survive.
+On a post-apocalyptic Earth, a robot, built to protect the life of his dying creator&#39;s beloved dog, learns about life, love, friendship, and what it means to be human.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/YiEFZLRyRQo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-0bYWnP3jH4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -280,16 +302,16 @@ One month after Kayaba Akihiko&#39;s game of death began, the death toll continu
 	
 	
 
-### The French Dispatch
-*Released on 2021-10-21, vote average 7.3*
+### Love Hard
+*Released on 2021-11-05, vote average 2*
 
-The staff of a European publication decides to publish a memorial edition highlighting the three best stories from the last decade: an artist sentenced to life imprisonment, student riots, and a kidnapping resolved by a chef.
+An LA girl, unlucky in love, falls for an East Coast guy on a dating app and decides to surprise him for Christmas, only to discover that she’s been catfished. But the object of her affection actually lives in the same town, and the guy who duped her offers to set them up if she pretends to be his own girlfriend for the holidays.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/qrpbzEwPNyE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/3boMRfx6cjE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -302,19 +324,26 @@ The staff of a European publication decides to publish a memorial edition highli
 	
 	
 
-### Planet Dune
-*Released on 2021-10-29, vote average 2*
+### Spencer
+*Released on 2021-11-05, vote average 10*
 
-A crew on a mission to rescue a marooned base on a desert planet turns deadly when the crew finds themselves hunted and attacked by the planet’s apex predators: giant sand worms.
+During her Christmas holidays with the royal family at the Sandringham estate in Norfolk, England, Diana decides to leave her marriage to Prince Charles.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ZwVZ-2WuJo4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/zF4gmEND2HI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -344,11 +373,6 @@ Sister Tse is brought to New York by a Snakehead, a human smuggler. Although she
 
 
 	
-
-  
-
-
-	
 	
 	
 
@@ -358,38 +382,16 @@ Sister Tse is brought to New York by a Snakehead, a human smuggler. Although she
 	
 	
 
-### Jai Bhim
-*Released on 2021-11-02, vote average 7.5*
+### Planet Dune
+*Released on 2021-10-29, vote average 2*
 
-A pregnant woman from a primitive tribal community, searches desperately for her husband, who is missing from police custody. So as to find her husband and seek justice for them, as their voice, a High Court advocate rises in support. Will their battle for justice succeed?
+A crew on a mission to rescue a marooned base on a desert planet turns deadly when the crew finds themselves hunted and attacked by the planet’s apex predators: giant sand worms.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ElXnVVDl8cA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Monster Family 2
-*Released on 2021-10-28, vote average 6.5*
-
-To free Baba Yaga and Renfield from the clutches of Monster Hunter Mila Starr, the Wishbone Family once more transforms into a Vampire, Frankenstein&#39;s Monster, a Mummy and a Werewolf. Aided and abetted by their three pet bats, our Monster Family zooms around the world again to save their friends, make new monstrous acquaintances and finally come to the realization that ‘Nobody’s Perfect’ – even those with flaws can find happiness.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/46stXhjVF8Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ZwVZ-2WuJo4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -407,7 +409,7 @@ To free Baba Yaga and Renfield from the clutches of Monster Hunter Mila Starr, t
 	
 
 ### Red Notice
-*Released on 2021-11-05, vote average 5.5*
+*Released on 2021-11-05, vote average 6*
 
 An Interpol-issued Red Notice is a global alert to hunt and capture the world&#39;s most wanted. But when a daring heist brings together the FBI&#39;s top profiler and two rival criminals, there&#39;s no telling what will happen.
 
@@ -428,7 +430,7 @@ An Interpol-issued Red Notice is a global alert to hunt and capture the world&#3
 	
 
 ### Finch
-*Released on 2021-11-05, vote average 6*
+*Released on 2021-11-05, vote average 6.3*
 
 On a post-apocalyptic Earth, a robot, built to protect the life of his dying creator&#39;s beloved dog, learns about life, love, friendship, and what it means to be human.
 
@@ -437,6 +439,25 @@ On a post-apocalyptic Earth, a robot, built to protect the life of his dying cre
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/-0bYWnP3jH4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### Love Hard
+*Released on 2021-11-05, vote average 2*
+
+An LA girl, unlucky in love, falls for an East Coast guy on a dating app and decides to surprise him for Christmas, only to discover that she’s been catfished. But the object of her affection actually lives in the same town, and the guy who duped her offers to set them up if she pretends to be his own girlfriend for the holidays.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3boMRfx6cjE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -467,41 +488,6 @@ During her Christmas holidays with the royal family at the Sandringham estate in
 	
 
 	
-	
-	
-
-	
-	
-
-### Vicious Fun
-*Released on 2021-11-04, vote average 6*
-
-A loser whose life is passing him by accidentally stumbles into a secret underground self-help group for serial killers. Stuck with only two options - kill or be killed - Joel must match wits with five killers and make it through the night alive.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xo4uoI4QBQo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-	
-
-	
-	
-	
-
-	
-
-	
-
-	
 
 	
 
@@ -522,6 +508,33 @@ Mark and Mary&#39;s meet-cute happens at a neighborhood drug store, where she is
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Christmas vs. The Walters
+*Released on 2021-11-05, vote average 2*
+
+Diane Walters, an over-burdened mother of two with a third child on the way, strives to create the perfect Christmas while her loving but dysfunctional family falls apart around her.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5_kEzJF0ZRo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
 	
 
 	
