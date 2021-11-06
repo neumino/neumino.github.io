@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Eternals
-*Released on 2021-11-03, vote average 7.5*
+*Released on 2021-11-03, vote average 7.4*
 
 The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind’s most ancient enemy, the Deviants.
 
@@ -47,7 +47,7 @@ The Eternals are a team of ancient aliens who have been living on Earth in secre
 	
 
 ### Army of Thieves
-*Released on 2021-10-29, vote average 6.7*
+*Released on 2021-10-29, vote average 6.8*
 
 A mysterious woman recruits bank teller Ludwig Dieter to lead a group of aspiring thieves on a top-secret heist during the early stages of the zombie apocalypse.
 
@@ -69,7 +69,7 @@ A mysterious woman recruits bank teller Ludwig Dieter to lead a group of aspirin
 	
 
 ### Hypnotic
-*Released on 2021-10-27, vote average 6*
+*Released on 2021-10-27, vote average 6.1*
 
 A young woman seeking self-improvement enlists the help of a renowned hypnotist but, after a handful of intense sessions, discovers unexpected and deadly consequences.
 
@@ -91,7 +91,7 @@ A young woman seeking self-improvement enlists the help of a renowned hypnotist 
 	
 
 ### Nobody Sleeps in the Woods Tonight 2
-*Released on 2021-10-27, vote average 4.2*
+*Released on 2021-10-27, vote average 4.1*
 
 When something horrible happens to the only survivor of a bloody massacre, an insecure rookie cop must overcome his fears to stop further carnage.
 
@@ -111,45 +111,9 @@ When something horrible happens to the only survivor of a bloody massacre, an in
 
 	
 	
-	
-
-  
-
-
-	
-	
-
-### Warning
-*Released on 2021-10-22, vote average 5.9*
-
-Loneliness, death and the meaning of life, explored through vastly separate lives colliding in interweaving short stories set in future Earth.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vWhg9-OVWfo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
 
 ### Red Notice
-*Released on 2021-11-05, vote average 6*
+*Released on 2021-11-05, vote average 6.7*
 
 An Interpol-issued Red Notice is a global alert to hunt and capture the world&#39;s most wanted. But when a daring heist brings together the FBI&#39;s top profiler and two rival criminals, there&#39;s no telling what will happen.
 
@@ -192,6 +156,28 @@ Two years into the pandemic, a group of friends throw an online party with a nig
 	
 	
 
+### Finch
+*Released on 2021-11-04, vote average 7.3*
+
+On a post-apocalyptic Earth, a robot, built to protect the life of his dying creator&#39;s beloved dog, learns about life, love, friendship, and what it means to be human.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-0bYWnP3jH4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Paranormal Activity: Next of Kin
 *Released on 2021-10-29, vote average 6.7*
 
@@ -214,16 +200,16 @@ Margot, a documentary filmmaker, heads to a secluded Amish community in the hope
 	
 	
 
-### 13 Minutes
-*Released on 2021-10-29, vote average 5.7*
+### Love Hard
+*Released on 2021-11-05, vote average 2*
 
-As a new day begins in the small American town of Minninnewah, the residents start their day as ordinary as the next. Mother Nature, however, has other plans for them. Inhabitants have just 13 minutes to seek shelter before the largest tornado on record ravages the town, leaving them struggling to protect their loved ones and fighting for their lives. Left to deal with the aftermath, four families must overcome their differences and find strength in each other in order to survive.
+An LA girl, unlucky in love, falls for an East Coast guy on a dating app and decides to surprise him for Christmas, only to discover that she’s been catfished. But the object of her affection actually lives in the same town, and the guy who duped her offers to set them up if she pretends to be his own girlfriend for the holidays.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/YiEFZLRyRQo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/3boMRfx6cjE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -258,16 +244,38 @@ A young teacher discovers that her troubled student&#39;s father and younger bro
 	
 	
 
-### Finch
-*Released on 2021-11-05, vote average 6.3*
+### Spencer
+*Released on 2021-11-05, vote average 9*
 
-On a post-apocalyptic Earth, a robot, built to protect the life of his dying creator&#39;s beloved dog, learns about life, love, friendship, and what it means to be human.
+During her Christmas holidays with the royal family at the Sandringham estate in Norfolk, England, Diana decides to leave her marriage to Prince Charles.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-0bYWnP3jH4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/zF4gmEND2HI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### 13 Minutes
+*Released on 2021-10-29, vote average 6.1*
+
+As a new day begins in the small American town of Minninnewah, the residents start their day as ordinary as the next. Mother Nature, however, has other plans for them. Inhabitants have just 13 minutes to seek shelter before the largest tornado on record ravages the town, leaving them struggling to protect their loved ones and fighting for their lives. Left to deal with the aftermath, four families must overcome their differences and find strength in each other in order to survive.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/YiEFZLRyRQo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -302,77 +310,51 @@ One month after Kayaba Akihiko&#39;s game of death began, the death toll continu
 	
 	
 
-### Love Hard
+### Dangerous
+*Released on 2021-11-05, vote average 5*
+
+A reformed sociopath heads to a remote island after the death of his brother. Soon after his arrival, the island falls under siege from a deadly gang of mercenaries, and when he discovers their role in his brother’s demise, he sets out on a relentless quest for vengeance.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/rFq52e7wYws?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Mark, Mary &#43; Some Other People
 *Released on 2021-11-05, vote average 2*
 
-An LA girl, unlucky in love, falls for an East Coast guy on a dating app and decides to surprise him for Christmas, only to discover that she’s been catfished. But the object of her affection actually lives in the same town, and the guy who duped her offers to set them up if she pretends to be his own girlfriend for the holidays.
+Mark and Mary&#39;s meet-cute happens at a neighborhood drug store, where she is busy buying a pregnancy test, and he has to make an effort to remind her they met in college. After asking her out, he accompanies her as she takes the test, and upon it showing negative, she agrees to a date. One year later, they have fallen deeply, passionately, head over heels in love, and their whirlwind romance leads to marriage. So when Mary suddenly requests they open their relationship to “ethical non-monogamy”, Mark is taken by surprise, but agrees to try it. And that&#39;s where this story really begins.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/3boMRfx6cjE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/BnmnoFixAo0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
-	
-
-### Spencer
-*Released on 2021-11-05, vote average 10*
-
-During her Christmas holidays with the royal family at the Sandringham estate in Norfolk, England, Diana decides to leave her marriage to Prince Charles.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zF4gmEND2HI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Snakehead
-*Released on 2021-10-29, vote average 6.1*
-
-Sister Tse is brought to New York by a Snakehead, a human smuggler. Although she is indebted to the crime family responsible for her transport, her survival instincts help her gain favor with the matriarch, and she rises quickly in the ranks. Soon Tse must reconcile her success with her real reason for coming to America—to find the child that was taken from her. In the end, Sister Tse must draw on the strength she found in transforming her victimhood into power.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/JILrh-Ct7ac?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -401,67 +383,39 @@ A crew on a mission to rescue a marooned base on a desert planet turns deadly wh
   
 
 
+	
+
+  
+
+
+	
+	
+
+### Snakehead
+*Released on 2021-10-29, vote average 6.1*
+
+Sister Tse is brought to New York by a Snakehead, a human smuggler. Although she is indebted to the crime family responsible for her transport, her survival instincts help her gain favor with the matriarch, and she rises quickly in the ranks. Soon Tse must reconcile her success with her real reason for coming to America—to find the child that was taken from her. In the end, Sister Tse must draw on the strength she found in transforming her victimhood into power.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/JILrh-Ct7ac?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 
 ## Opening soon
 
 
 	
-	
 
-### Red Notice
-*Released on 2021-11-05, vote average 6*
-
-An Interpol-issued Red Notice is a global alert to hunt and capture the world&#39;s most wanted. But when a daring heist brings together the FBI&#39;s top profiler and two rival criminals, there&#39;s no telling what will happen.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Pj0wz7zu3Ms?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-	
-
-### Finch
-*Released on 2021-11-05, vote average 6.3*
-
-On a post-apocalyptic Earth, a robot, built to protect the life of his dying creator&#39;s beloved dog, learns about life, love, friendship, and what it means to be human.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-0bYWnP3jH4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Love Hard
-*Released on 2021-11-05, vote average 2*
-
-An LA girl, unlucky in love, falls for an East Coast guy on a dating app and decides to surprise him for Christmas, only to discover that she’s been catfished. But the object of her affection actually lives in the same town, and the guy who duped her offers to set them up if she pretends to be his own girlfriend for the holidays.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3boMRfx6cjE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
@@ -469,45 +423,7 @@ An LA girl, unlucky in love, falls for an East Coast guy on a dating app and dec
 	
 
 	
-	
 
-### Spencer
-*Released on 2021-11-05, vote average 10*
-
-During her Christmas holidays with the royal family at the Sandringham estate in Norfolk, England, Diana decides to leave her marriage to Prince Charles.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zF4gmEND2HI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
-	
-
-### Mark, Mary &#43; Some Other People
-*Released on 2021-11-05, vote average 2*
-
-Mark and Mary&#39;s meet-cute happens at a neighborhood drug store, where she is busy buying a pregnancy test, and he has to make an effort to remind her they met in college. After asking her out, he accompanies her as she takes the test, and upon it showing negative, she agrees to a date. One year later, they have fallen deeply, passionately, head over heels in love, and their whirlwind romance leads to marriage. So when Mary suddenly requests they open their relationship to “ethical non-monogamy”, Mark is taken by surprise, but agrees to try it. And that&#39;s where this story really begins.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/BnmnoFixAo0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
@@ -517,22 +433,13 @@ Mark and Mary&#39;s meet-cute happens at a neighborhood drug store, where she is
 	
 
 	
-	
-
-### Christmas vs. The Walters
-*Released on 2021-11-05, vote average 2*
-
-Diane Walters, an over-burdened mother of two with a third child on the way, strives to create the perfect Christmas while her loving but dysfunctional family falls apart around her.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/5_kEzJF0ZRo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+	
+
+	
+
 	
 
 	
