@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Eternals
-*Released on 2021-11-03, vote average 7.4*
+*Released on 2021-11-03, vote average 7.2*
 
 The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind’s most ancient enemy, the Deviants.
 
@@ -21,7 +21,7 @@ The Eternals are a team of ancient aliens who have been living on Earth in secre
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/dWyusOS1Rqw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/0e8v6uHM8MM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,28 +68,6 @@ A mysterious woman recruits bank teller Ludwig Dieter to lead a group of aspirin
 	
 	
 
-### Hypnotic
-*Released on 2021-10-27, vote average 6.1*
-
-A young woman seeking self-improvement enlists the help of a renowned hypnotist but, after a handful of intense sessions, discovers unexpected and deadly consequences.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/eHsWYmnXk1o?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Nobody Sleeps in the Woods Tonight 2
 *Released on 2021-10-27, vote average 4.1*
 
@@ -112,8 +90,30 @@ When something horrible happens to the only survivor of a bloody massacre, an in
 	
 	
 
+### Hypnotic
+*Released on 2021-10-27, vote average 6.1*
+
+A young woman seeking self-improvement enlists the help of a renowned hypnotist but, after a handful of intense sessions, discovers unexpected and deadly consequences.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/eHsWYmnXk1o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Red Notice
-*Released on 2021-11-05, vote average 6.7*
+*Released on 2021-11-05, vote average 7.1*
 
 An Interpol-issued Red Notice is a global alert to hunt and capture the world&#39;s most wanted. But when a daring heist brings together the FBI&#39;s top profiler and two rival criminals, there&#39;s no telling what will happen.
 
@@ -134,30 +134,8 @@ An Interpol-issued Red Notice is a global alert to hunt and capture the world&#3
 	
 	
 
-### Safer at Home
-*Released on 2021-11-01, vote average 4*
-
-Two years into the pandemic, a group of friends throw an online party with a night of games, drinking and drugs. After taking an ecstasy pill, things go terribly wrong and the safety of their home becomes more terrifying than the raging chaos outside.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FxSuRp0a-hw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Finch
-*Released on 2021-11-04, vote average 7.3*
+*Released on 2021-11-04, vote average 7.5*
 
 On a post-apocalyptic Earth, a robot, built to protect the life of his dying creator&#39;s beloved dog, learns about life, love, friendship, and what it means to be human.
 
@@ -178,8 +156,52 @@ On a post-apocalyptic Earth, a robot, built to protect the life of his dying cre
 	
 	
 
+### Safer at Home
+*Released on 2021-11-01, vote average 4.5*
+
+Two years into the pandemic, a group of friends throw an online party with a night of games, drinking and drugs. After taking an ecstasy pill, things go terribly wrong and the safety of their home becomes more terrifying than the raging chaos outside.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FxSuRp0a-hw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Love Hard
+*Released on 2021-11-05, vote average 6.2*
+
+An LA girl, unlucky in love, falls for an East Coast guy on a dating app and decides to surprise him for Christmas, only to discover that she’s been catfished. But the object of her affection actually lives in the same town, and the guy who duped her offers to set them up if she pretends to be his own girlfriend for the holidays.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3boMRfx6cjE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Paranormal Activity: Next of Kin
-*Released on 2021-10-29, vote average 6.7*
+*Released on 2021-10-29, vote average 6.8*
 
 Margot, a documentary filmmaker, heads to a secluded Amish community in the hopes of learning about her long-lost mother and extended family. Following a string of strange occurrences and discoveries, she comes to realize this community may not be what it seems.
 
@@ -200,16 +222,16 @@ Margot, a documentary filmmaker, heads to a secluded Amish community in the hope
 	
 	
 
-### Love Hard
-*Released on 2021-11-05, vote average 2*
+### Spencer
+*Released on 2021-11-05, vote average 8*
 
-An LA girl, unlucky in love, falls for an East Coast guy on a dating app and decides to surprise him for Christmas, only to discover that she’s been catfished. But the object of her affection actually lives in the same town, and the guy who duped her offers to set them up if she pretends to be his own girlfriend for the holidays.
+During her Christmas holidays with the royal family at the Sandringham estate in Norfolk, England, Diana decides to leave her marriage to Prince Charles.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/3boMRfx6cjE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/zF4gmEND2HI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -244,38 +266,16 @@ A young teacher discovers that her troubled student&#39;s father and younger bro
 	
 	
 
-### Spencer
-*Released on 2021-11-05, vote average 9*
+### Dangerous
+*Released on 2021-11-05, vote average 4.3*
 
-During her Christmas holidays with the royal family at the Sandringham estate in Norfolk, England, Diana decides to leave her marriage to Prince Charles.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zF4gmEND2HI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### 13 Minutes
-*Released on 2021-10-29, vote average 6.1*
-
-As a new day begins in the small American town of Minninnewah, the residents start their day as ordinary as the next. Mother Nature, however, has other plans for them. Inhabitants have just 13 minutes to seek shelter before the largest tornado on record ravages the town, leaving them struggling to protect their loved ones and fighting for their lives. Left to deal with the aftermath, four families must overcome their differences and find strength in each other in order to survive.
+A reformed sociopath heads to a remote island after the death of his brother. Soon after his arrival, the island falls under siege from a deadly gang of mercenaries, and when he discovers their role in his brother’s demise, he sets out on a relentless quest for vengeance.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/YiEFZLRyRQo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/rFq52e7wYws?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -308,32 +308,27 @@ One month after Kayaba Akihiko&#39;s game of death began, the death toll continu
 
 
 	
+
+  
+
+
+	
 	
 
-### Dangerous
-*Released on 2021-11-05, vote average 5*
+### 13 Minutes
+*Released on 2021-10-29, vote average 6.1*
 
-A reformed sociopath heads to a remote island after the death of his brother. Soon after his arrival, the island falls under siege from a deadly gang of mercenaries, and when he discovers their role in his brother’s demise, he sets out on a relentless quest for vengeance.
+As a new day begins in the small American town of Minninnewah, the residents start their day as ordinary as the next. Mother Nature, however, has other plans for them. Inhabitants have just 13 minutes to seek shelter before the largest tornado on record ravages the town, leaving them struggling to protect their loved ones and fighting for their lives. Left to deal with the aftermath, four families must overcome their differences and find strength in each other in order to survive.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/rFq52e7wYws?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/YiEFZLRyRQo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -362,18 +357,23 @@ Mark and Mary&#39;s meet-cute happens at a neighborhood drug store, where she is
 
 
 	
+
+  
+
+
+	
 	
 
-### Planet Dune
-*Released on 2021-10-29, vote average 2*
+### Amina
+*Released on 2021-11-04, vote average 9*
 
-A crew on a mission to rescue a marooned base on a desert planet turns deadly when the crew finds themselves hunted and attacked by the planet’s apex predators: giant sand worms.
+In 16th-century Zazzau, now Zaria, Nigeria, Amina must utilize her military skills and tactics to defend her family&#39;s kingdom. Based on a true story.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ZwVZ-2WuJo4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/RW87asYGq7g?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -391,16 +391,16 @@ A crew on a mission to rescue a marooned base on a desert planet turns deadly wh
 	
 	
 
-### Snakehead
-*Released on 2021-10-29, vote average 6.1*
+### A Man Named Scott
+*Released on 2021-11-05, vote average 7.7*
 
-Sister Tse is brought to New York by a Snakehead, a human smuggler. Although she is indebted to the crime family responsible for her transport, her survival instincts help her gain favor with the matriarch, and she rises quickly in the ranks. Soon Tse must reconcile her success with her real reason for coming to America—to find the child that was taken from her. In the end, Sister Tse must draw on the strength she found in transforming her victimhood into power.
+In 2009, Scott Mescudi aka Kid Cudi released his debut LP, Man on the Moon: The End of Day. A genre-bending album that broke barriers by featuring songs dealing with depression, anxiety and loneliness, it resonated deeply with young listeners and launched Cudi as a musical star and cultural hero. A Man Named Scott explores Cudi’s journey over a decade of creative choices, struggles and breakthroughs, making music that continues to move and empower his millions of fans around the world.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/JILrh-Ct7ac?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/kqWT5zfhmLI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
