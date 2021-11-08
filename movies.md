@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Eternals
-*Released on 2021-11-03, vote average 7.2*
+*Released on 2021-11-03, vote average 7.1*
 
 The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind’s most ancient enemy, the Deviants.
 
@@ -21,7 +21,7 @@ The Eternals are a team of ancient aliens who have been living on Earth in secre
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/0e8v6uHM8MM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/sXoSILzgFug?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -113,7 +113,7 @@ A young woman seeking self-improvement enlists the help of a renowned hypnotist 
 	
 
 ### Red Notice
-*Released on 2021-11-05, vote average 7.1*
+*Released on 2021-11-05, vote average 7.5*
 
 An Interpol-issued Red Notice is a global alert to hunt and capture the world&#39;s most wanted. But when a daring heist brings together the FBI&#39;s top profiler and two rival criminals, there&#39;s no telling what will happen.
 
@@ -135,7 +135,7 @@ An Interpol-issued Red Notice is a global alert to hunt and capture the world&#3
 	
 
 ### Finch
-*Released on 2021-11-04, vote average 7.5*
+*Released on 2021-11-04, vote average 7.6*
 
 On a post-apocalyptic Earth, a robot, built to protect the life of his dying creator&#39;s beloved dog, learns about life, love, friendship, and what it means to be human.
 
@@ -144,6 +144,28 @@ On a post-apocalyptic Earth, a robot, built to protect the life of his dying cre
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/-0bYWnP3jH4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Love Hard
+*Released on 2021-11-05, vote average 6.3*
+
+An LA girl, unlucky in love, falls for an East Coast guy on a dating app and decides to surprise him for Christmas, only to discover that she’s been catfished. But the object of her affection actually lives in the same town, and the guy who duped her offers to set them up if she pretends to be his own girlfriend for the holidays.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3boMRfx6cjE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -178,16 +200,65 @@ Two years into the pandemic, a group of friends throw an online party with a nig
 	
 	
 
-### Love Hard
-*Released on 2021-11-05, vote average 6.2*
+### Dangerous
+*Released on 2021-11-05, vote average 5.3*
 
-An LA girl, unlucky in love, falls for an East Coast guy on a dating app and decides to surprise him for Christmas, only to discover that she’s been catfished. But the object of her affection actually lives in the same town, and the guy who duped her offers to set them up if she pretends to be his own girlfriend for the holidays.
+A reformed sociopath heads to a remote island after the death of his brother. Soon after his arrival, the island falls under siege from a deadly gang of mercenaries, and when he discovers their role in his brother’s demise, he sets out on a relentless quest for vengeance.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/3boMRfx6cjE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/rFq52e7wYws?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Spencer
+*Released on 2021-11-05, vote average 7.4*
+
+During her Christmas holidays with the royal family at the Sandringham estate in Norfolk, England, Diana decides to leave her marriage to Prince Charles.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/f-FBHQAGLnY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### One Shot
+*Released on 2021-11-05, vote average 4.8*
+
+In an effort to prevent a terrorist attack on Washington D.C., an elite squad of Navy SEALs led by Lt. Jake Harris and a junior CIA analyst Zoe Anderson must retrieve a prisoner from a CIA black site island prison. Tensions flare as Deputy Site Manager Jack Yorke refuses to release the suspected terrorist based solely on Anderson&#39;s intel, but when the base comes under attack by waves of insurgents they must band together to complete the mission.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/R8-KVcksvzo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -222,30 +293,8 @@ Margot, a documentary filmmaker, heads to a secluded Amish community in the hope
 	
 	
 
-### Spencer
-*Released on 2021-11-05, vote average 8*
-
-During her Christmas holidays with the royal family at the Sandringham estate in Norfolk, England, Diana decides to leave her marriage to Prince Charles.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zF4gmEND2HI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Antlers
-*Released on 2021-10-28, vote average 6*
+*Released on 2021-10-28, vote average 5.8*
 
 A young teacher discovers that her troubled student&#39;s father and younger brother harbor a deadly supernatural secret. Taking the boy into her care, the teacher must fight for their survival against horrors beyond imagination.
 
@@ -266,16 +315,16 @@ A young teacher discovers that her troubled student&#39;s father and younger bro
 	
 	
 
-### Dangerous
-*Released on 2021-11-05, vote average 4.3*
+### Amina
+*Released on 2021-11-04, vote average 9*
 
-A reformed sociopath heads to a remote island after the death of his brother. Soon after his arrival, the island falls under siege from a deadly gang of mercenaries, and when he discovers their role in his brother’s demise, he sets out on a relentless quest for vengeance.
+In 16th-century Zazzau, now Zaria, Nigeria, Amina must utilize her military skills and tactics to defend her family&#39;s kingdom. Based on a true story.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/rFq52e7wYws?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/RW87asYGq7g?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -308,11 +357,6 @@ One month after Kayaba Akihiko&#39;s game of death began, the death toll continu
 
 
 	
-
-  
-
-
-	
 	
 
 ### 13 Minutes
@@ -337,52 +381,20 @@ As a new day begins in the small American town of Minninnewah, the residents sta
 	
 	
 
-### Mark, Mary &#43; Some Other People
-*Released on 2021-11-05, vote average 2*
+### We Couldn&#39;t Become Adults
+*Released on 2021-11-05, vote average 5*
 
-Mark and Mary&#39;s meet-cute happens at a neighborhood drug store, where she is busy buying a pregnancy test, and he has to make an effort to remind her they met in college. After asking her out, he accompanies her as she takes the test, and upon it showing negative, she agrees to a date. One year later, they have fallen deeply, passionately, head over heels in love, and their whirlwind romance leads to marriage. So when Mary suddenly requests they open their relationship to “ethical non-monogamy”, Mark is taken by surprise, but agrees to try it. And that&#39;s where this story really begins.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/BnmnoFixAo0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Amina
-*Released on 2021-11-04, vote average 9*
-
-In 16th-century Zazzau, now Zaria, Nigeria, Amina must utilize her military skills and tactics to defend her family&#39;s kingdom. Based on a true story.
+A friend request with a lost love sends a man back into his memories of the &#39;90s, when life seemed to burn a little brighter
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/RW87asYGq7g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/QudoMSz0e6s?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -410,6 +422,28 @@ In 2009, Scott Mescudi aka Kid Cudi released his debut LP, Man on the Moon: The 
   
 
 
+	
+	
+
+### Sooryavanshi
+*Released on 2021-11-05, vote average 3.8*
+
+Sooryavanshi follows DCP Veer Sooryavanshi, the Chief of India’s Anti-Terrorism Squad, as he attempts to protect Mumbai from one of the worst terror attacks in history.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/u5r77-OQwa8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -426,6 +460,8 @@ In 2009, Scott Mescudi aka Kid Cudi released his debut LP, Man on the Moon: The 
 
 	
 
+	
+	
 	
 
 	
