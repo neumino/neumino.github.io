@@ -21,7 +21,7 @@ The Eternals are a team of ancient aliens who have been living on Earth in secre
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/sXoSILzgFug?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/QzBh_O3AIko?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@ A mysterious woman recruits bank teller Ludwig Dieter to lead a group of aspirin
 	
 
 ### Nobody Sleeps in the Woods Tonight 2
-*Released on 2021-10-27, vote average 4.1*
+*Released on 2021-10-27, vote average 4*
 
 When something horrible happens to the only survivor of a bloody massacre, an insecure rookie cop must overcome his fears to stop further carnage.
 
@@ -112,28 +112,6 @@ A young woman seeking self-improvement enlists the help of a renowned hypnotist 
 	
 	
 
-### Red Notice
-*Released on 2021-11-05, vote average 7.2*
-
-An Interpol-issued Red Notice is a global alert to hunt and capture the world&#39;s most wanted. But when a daring heist brings together the FBI&#39;s top profiler and two rival criminals, there&#39;s no telling what will happen.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Pj0wz7zu3Ms?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Finch
 *Released on 2021-11-04, vote average 8*
 
@@ -156,8 +134,30 @@ On a post-apocalyptic Earth, a robot, built to protect the life of his dying cre
 	
 	
 
+### Red Notice
+*Released on 2021-11-05, vote average 7.2*
+
+An Interpol-issued Red Notice is a global alert to hunt and capture the world&#39;s most wanted. But when a daring heist brings together the FBI&#39;s top profiler and two rival criminals, there&#39;s no telling what will happen.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Pj0wz7zu3Ms?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Love Hard
-*Released on 2021-11-05, vote average 6.5*
+*Released on 2021-11-05, vote average 6.6*
 
 An LA girl, unlucky in love, falls for an East Coast guy on a dating app and decides to surprise him for Christmas, only to discover that she’s been catfished. But the object of her affection actually lives in the same town, and the guy who duped her offers to set them up if she pretends to be his own girlfriend for the holidays.
 
@@ -178,8 +178,64 @@ An LA girl, unlucky in love, falls for an East Coast guy on a dating app and dec
 	
 	
 
+### Amina
+*Released on 2021-11-04, vote average 6*
+
+In 16th-century Zazzau, now Zaria, Nigeria, Amina must utilize her military skills and tactics to defend her family&#39;s kingdom. Based on a true story.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/RW87asYGq7g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### We Couldn&#39;t Become Adults
+*Released on 2021-11-05, vote average 4*
+
+A friend request with a lost love sends a man back into his memories of the &#39;90s, when life seemed to burn a little brighter
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QudoMSz0e6s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### Dangerous
-*Released on 2021-11-05, vote average 5.2*
+*Released on 2021-11-05, vote average 5.4*
 
 A reformed sociopath heads to a remote island after the death of his brother. Soon after his arrival, the island falls under siege from a deadly gang of mercenaries, and when he discovers their role in his brother’s demise, he sets out on a relentless quest for vengeance.
 
@@ -207,52 +263,8 @@ A reformed sociopath heads to a remote island after the death of his brother. So
 	
 	
 
-### Amina
-*Released on 2021-11-04, vote average 6.4*
-
-In 16th-century Zazzau, now Zaria, Nigeria, Amina must utilize her military skills and tactics to defend her family&#39;s kingdom. Based on a true story.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/RW87asYGq7g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### One Shot
-*Released on 2021-11-05, vote average 4.7*
-
-An elite squad of Navy SEAL&#39;s, on a covert mission to transport a prisoner off a CIA black site island prison, are trapped when insurgents attack while trying to rescue the same prisoner.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/R8-KVcksvzo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Antlers
-*Released on 2021-10-28, vote average 5.8*
+*Released on 2021-10-28, vote average 5.9*
 
 A young teacher discovers that her troubled student&#39;s father and younger brother harbor a deadly supernatural secret. Taking the boy into her care, the teacher must fight for their survival against horrors beyond imagination.
 
@@ -274,7 +286,7 @@ A young teacher discovers that her troubled student&#39;s father and younger bro
 	
 
 ### Paranormal Activity: Next of Kin
-*Released on 2021-10-29, vote average 6.7*
+*Released on 2021-10-29, vote average 6.8*
 
 Margot, a documentary filmmaker, heads to a secluded Amish community in the hopes of learning about her long-lost mother and extended family. Following a string of strange occurrences and discoveries, she comes to realize this community may not be what it seems.
 
@@ -283,6 +295,28 @@ Margot, a documentary filmmaker, heads to a secluded Amish community in the hope
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/cyrhAScX80k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### One Shot
+*Released on 2021-11-05, vote average 4.8*
+
+An elite squad of Navy SEAL&#39;s, on a covert mission to transport a prisoner off a CIA black site island prison, are trapped when insurgents attack while trying to rescue the same prisoner.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/R8-KVcksvzo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -317,16 +351,16 @@ During her Christmas holidays with the royal family at the Sandringham estate in
 	
 	
 
-### We Couldn&#39;t Become Adults
-*Released on 2021-11-05, vote average 3.5*
+### Sword Art Online the Movie -Progressive- Aria of a Starless Night
+*Released on 2021-10-30, vote average 8*
 
-A friend request with a lost love sends a man back into his memories of the &#39;90s, when life seemed to burn a little brighter
+One month after Kayaba Akihiko&#39;s game of death began, the death toll continues to rise, two thousand players having already lost their lives to the ultra-difficult VRMMO world of Sword Art Online. On the day of the strategy meeting to plan out the first-floor boss battle, Kirito, a solo player who vows to fight alone to get stronger, runs into a rare, high-level female player. She gracefully dispatches powerful monsters with a single rapier that flashes like a shooting star in the night...
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/QudoMSz0e6s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/j8M5DaTWZ5k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -339,16 +373,16 @@ A friend request with a lost love sends a man back into his memories of the &#39
 	
 	
 
-### Sword Art Online the Movie -Progressive- Aria of a Starless Night
-*Released on 2021-10-30, vote average 8*
+### A Cop Movie
+*Released on 2021-10-28, vote average 6.7*
 
-One month after Kayaba Akihiko&#39;s game of death began, the death toll continues to rise, two thousand players having already lost their lives to the ultra-difficult VRMMO world of Sword Art Online. On the day of the strategy meeting to plan out the first-floor boss battle, Kirito, a solo player who vows to fight alone to get stronger, runs into a rare, high-level female player. She gracefully dispatches powerful monsters with a single rapier that flashes like a shooting star in the night...
+This documentary walks the line between fact and fiction, delving into corruption in the Mexican police through the experiences of two officers.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/j8M5DaTWZ5k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/b_m3jC4hGn0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -380,46 +414,27 @@ Kamaru Usman vs. Colby Covington (Welterweight) Rose Namajunas vs. Zhang Weili 
   
 
 
-	
-	
-	
 
-  
+## Opening soon
 
 
 	
 	
 
-### 13 Minutes
-*Released on 2021-10-29, vote average 6.1*
+### Apex
+*Released on 2021-11-12, vote average 5.3*
 
-As a new day begins in the small American town of Minninnewah, the residents start their day as ordinary as the next. Mother Nature, however, has other plans for them. Inhabitants have just 13 minutes to seek shelter before the largest tornado on record ravages the town, leaving them struggling to protect their loved ones and fighting for their lives. Left to deal with the aftermath, four families must overcome their differences and find strength in each other in order to survive.
+Ex-cop James Malone is serving a life sentence for a crime he didn’t commit. He is offered a chance at freedom if he can survive a deadly game of Apex, in which six hunters pay for the pleasure of hunting another human on a remote island. He accepts, and once he arrives, all hell breaks loose.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/YiEFZLRyRQo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Pompk1znaIw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-
-## Opening soon
-
-
 	
 
 	
@@ -444,11 +459,22 @@ When a single mom and her two kids arrive in a small town, they begin to discove
 	
 
 	
-
-	
-	
 	
 
+### Home Sweet Home Alone
+*Released on 2021-11-12, vote average 2*
+
+After being left at home by himself for the holidays, 10-year-old Max Mercer must work to defend his home from a married couple who tries to steal back a valuable heirloom.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FOXW8ur2jr4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -468,6 +494,10 @@ On the cusp of his 30th birthday, a promising young theater composer navigates l
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
 	
 
 	
