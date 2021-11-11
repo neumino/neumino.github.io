@@ -46,72 +46,6 @@ The Eternals are a team of ancient aliens who have been living on Earth in secre
 	
 	
 
-### Army of Thieves
-*Released on 2021-10-29, vote average 6.9*
-
-A mysterious woman recruits bank teller Ludwig Dieter to lead a group of aspiring thieves on a top-secret heist during the early stages of the zombie apocalypse.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Ith2WetKXlg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Nobody Sleeps in the Woods Tonight 2
-*Released on 2021-10-27, vote average 4*
-
-When something horrible happens to the only survivor of a bloody massacre, an insecure rookie cop must overcome his fears to stop further carnage.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/R_wIaGkiUBI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Hypnotic
-*Released on 2021-10-27, vote average 6.2*
-
-A young woman seeking self-improvement enlists the help of a renowned hypnotist but, after a handful of intense sessions, discovers unexpected and deadly consequences.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/eHsWYmnXk1o?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Finch
 *Released on 2021-11-04, vote average 8*
 
@@ -135,7 +69,7 @@ On a post-apocalyptic Earth, a robot, built to protect the life of his dying cre
 	
 
 ### Red Notice
-*Released on 2021-11-05, vote average 7.2*
+*Released on 2021-11-05, vote average 7.4*
 
 An Interpol-issued Red Notice is a global alert to hunt and capture the world&#39;s most wanted. But when a daring heist brings together the FBI&#39;s top profiler and two rival criminals, there&#39;s no telling what will happen.
 
@@ -199,6 +133,21 @@ In 16th-century Zazzau, now Zaria, Nigeria, Amina must utilize her military skil
 
 	
 	
+
+### Ghostbusters: Afterlife
+*Released on 2021-11-11, vote average 7.9*
+
+When a single mom and her two kids arrive in a small town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/lnKmAVLC3jU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -233,9 +182,23 @@ A friend request with a lost love sends a man back into his memories of the &#39
 
 	
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
 
 ### Dangerous
-*Released on 2021-11-05, vote average 5.4*
+*Released on 2021-11-05, vote average 5.5*
 
 A reformed sociopath heads to a remote island after the death of his brother. Soon after his arrival, the island falls under siege from a deadly gang of mercenaries, and when he discovers their role in his brother’s demise, he sets out on a relentless quest for vengeance.
 
@@ -247,13 +210,6 @@ A reformed sociopath heads to a remote island after the death of his brother. So
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -286,7 +242,7 @@ A young teacher discovers that her troubled student&#39;s father and younger bro
 	
 
 ### Paranormal Activity: Next of Kin
-*Released on 2021-10-29, vote average 6.8*
+*Released on 2021-10-29, vote average 6.9*
 
 Margot, a documentary filmmaker, heads to a secluded Amish community in the hopes of learning about her long-lost mother and extended family. Following a string of strange occurrences and discoveries, she comes to realize this community may not be what it seems.
 
@@ -295,6 +251,50 @@ Margot, a documentary filmmaker, heads to a secluded Amish community in the hope
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/cyrhAScX80k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### A Cop Movie
+*Released on 2021-10-28, vote average 7*
+
+This documentary walks the line between fact and fiction, delving into corruption in the Mexican police through the experiences of two officers.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/b_m3jC4hGn0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Spencer
+*Released on 2021-11-05, vote average 7.2*
+
+During her Christmas holidays with the royal family at the Sandringham estate in Norfolk, England, Diana decides to leave her marriage to Prince Charles.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/f-FBHQAGLnY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -329,28 +329,6 @@ An elite squad of Navy SEAL&#39;s, on a covert mission to transport a prisoner o
 	
 	
 
-### Spencer
-*Released on 2021-11-05, vote average 7.3*
-
-During her Christmas holidays with the royal family at the Sandringham estate in Norfolk, England, Diana decides to leave her marriage to Prince Charles.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/f-FBHQAGLnY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Sword Art Online the Movie -Progressive- Aria of a Starless Night
 *Released on 2021-10-30, vote average 8*
 
@@ -373,16 +351,16 @@ One month after Kayaba Akihiko&#39;s game of death began, the death toll continu
 	
 	
 
-### A Cop Movie
-*Released on 2021-10-28, vote average 6.7*
+### Come and Learn with Pibby!
+*Released on 2021-10-30, vote average 7.3*
 
-This documentary walks the line between fact and fiction, delving into corruption in the Mexican police through the experiences of two officers.
+Pibby is ripped out of her safe, preschool world and thrown into unknøwn lands. She has to grow up, 💜LEARN💜, and become a b∆dass to stop the cartoon A₱⊙C⋀L¥⍴$∑//////////////////////
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/b_m3jC4hGn0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Btu0O47u3rY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -394,17 +372,24 @@ This documentary walks the line between fact and fiction, delving into corruptio
 
 	
 	
+	
 
-### UFC 268: Usman vs. Covington 2
-*Released on 2021-11-06, vote average 2*
+  
 
-Kamaru Usman vs. Colby Covington (Welterweight) Rose Namajunas vs. Zhang Weili (Strawweight) Frankie Edgar vs. Marlon Vera (Bantamweight) Shane Burgos vs. Billy Quarantillo (Featherweight) Justin Gaethje vs. Michael Chandler (Lightweight)
+
+	
+	
+
+### tick, tick...BOOM!
+*Released on 2021-11-11, vote average 2*
+
+On the cusp of his 30th birthday, a promising young theater composer navigates love, friendship, and the pressures to create something great before time runs out.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ybbjeNFtzj8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/YJserno8tyU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -441,7 +426,7 @@ Ex-cop James Malone is serving a life sentence for a crime he didn’t commit. H
 	
 
 ### Ghostbusters: Afterlife
-*Released on 2021-11-11, vote average 7.3*
+*Released on 2021-11-11, vote average 7.9*
 
 When a single mom and her two kids arrive in a small town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.
 
@@ -457,12 +442,10 @@ When a single mom and her two kids arrive in a small town, they begin to discove
 	
 
 	
-
-	
 	
 
 ### Home Sweet Home Alone
-*Released on 2021-11-12, vote average 2*
+*Released on 2021-11-12, vote average 6*
 
 After being left at home by himself for the holidays, 10-year-old Max Mercer must work to defend his home from a married couple who tries to steal back a valuable heirloom.
 
@@ -475,6 +458,8 @@ After being left at home by himself for the holidays, 10-year-old Max Mercer mus
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
@@ -514,6 +499,8 @@ On the cusp of his 30th birthday, a promising young theater composer navigates l
 
 	
 
+	
+	
 	
 
 	
