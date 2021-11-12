@@ -47,7 +47,7 @@ The Eternals are a team of ancient aliens who have been living on Earth in secre
 	
 
 ### Finch
-*Released on 2021-11-04, vote average 8*
+*Released on 2021-11-04, vote average 8.1*
 
 On a post-apocalyptic Earth, a robot, built to protect the life of his dying creator&#39;s beloved dog, learns about life, love, friendship, and what it means to be human.
 
@@ -68,16 +68,16 @@ On a post-apocalyptic Earth, a robot, built to protect the life of his dying cre
 	
 	
 
-### Red Notice
-*Released on 2021-11-05, vote average 7.4*
+### Apex
+*Released on 2021-11-12, vote average 5.4*
 
-An Interpol-issued Red Notice is a global alert to hunt and capture the world&#39;s most wanted. But when a daring heist brings together the FBI&#39;s top profiler and two rival criminals, there&#39;s no telling what will happen.
+Ex-cop James Malone is serving a life sentence for a crime he didn’t commit. He is offered a chance at freedom if he can survive a deadly game of Apex, in which six hunters pay for the pleasure of hunting another human on a remote island. He accepts, and once he arrives, all hell breaks loose.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Pj0wz7zu3Ms?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Pompk1znaIw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -90,16 +90,16 @@ An Interpol-issued Red Notice is a global alert to hunt and capture the world&#3
 	
 	
 
-### Love Hard
-*Released on 2021-11-05, vote average 6.6*
+### Red Notice
+*Released on 2021-11-04, vote average 7.2*
 
-An LA girl, unlucky in love, falls for an East Coast guy on a dating app and decides to surprise him for Christmas, only to discover that she’s been catfished. But the object of her affection actually lives in the same town, and the guy who duped her offers to set them up if she pretends to be his own girlfriend for the holidays.
+An Interpol-issued Red Notice is a global alert to hunt and capture the world&#39;s most wanted. But when a daring heist brings together the FBI&#39;s top profiler and two rival criminals, there&#39;s no telling what will happen.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/3boMRfx6cjE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Pj0wz7zu3Ms?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,8 +134,30 @@ In 16th-century Zazzau, now Zaria, Nigeria, Amina must utilize her military skil
 	
 	
 
+### Love Hard
+*Released on 2021-11-05, vote average 6.8*
+
+An LA girl, unlucky in love, falls for an East Coast guy on a dating app and decides to surprise him for Christmas, only to discover that she’s been catfished. But the object of her affection actually lives in the same town, and the guy who duped her offers to set them up if she pretends to be his own girlfriend for the holidays.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3boMRfx6cjE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Ghostbusters: Afterlife
-*Released on 2021-11-11, vote average 7.9*
+*Released on 2021-11-11, vote average 8.3*
 
 When a single mom and her two kids arrive in a small town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.
 
@@ -175,6 +197,23 @@ A friend request with a lost love sends a man back into his memories of the &#39
   
 
 
+	
+	
+
+### Clifford the Big Red Dog
+*Released on 2021-11-10, vote average 8*
+
+As Emily struggles to fit in at home and at school, she discovers a small red puppy who is destined to become her best friend. When Clifford magically undergoes one heck of a growth spurt, becomes a gigantic dog and attracts the attention of a genetics company, Emily and her Uncle Casey have to fight the forces of greed as they go on the run across New York City. Along the way, Clifford affects the lives of everyone around him and teaches Emily and her uncle the true meaning of acceptance and unconditional love.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PsE3aHTkQYk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -219,72 +258,6 @@ A reformed sociopath heads to a remote island after the death of his brother. So
 	
 	
 
-### Antlers
-*Released on 2021-10-28, vote average 5.9*
-
-A young teacher discovers that her troubled student&#39;s father and younger brother harbor a deadly supernatural secret. Taking the boy into her care, the teacher must fight for their survival against horrors beyond imagination.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2aiYxwVuZ1o?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Paranormal Activity: Next of Kin
-*Released on 2021-10-29, vote average 6.9*
-
-Margot, a documentary filmmaker, heads to a secluded Amish community in the hopes of learning about her long-lost mother and extended family. Following a string of strange occurrences and discoveries, she comes to realize this community may not be what it seems.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cyrhAScX80k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### A Cop Movie
-*Released on 2021-10-28, vote average 7*
-
-This documentary walks the line between fact and fiction, delving into corruption in the Mexican police through the experiences of two officers.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/b_m3jC4hGn0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Spencer
 *Released on 2021-11-05, vote average 7.2*
 
@@ -295,28 +268,6 @@ During her Christmas holidays with the royal family at the Sandringham estate in
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/f-FBHQAGLnY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### One Shot
-*Released on 2021-11-05, vote average 4.8*
-
-An elite squad of Navy SEAL&#39;s, on a covert mission to transport a prisoner off a CIA black site island prison, are trapped when insurgents attack while trying to rescue the same prisoner.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/R8-KVcksvzo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -351,16 +302,16 @@ One month after Kayaba Akihiko&#39;s game of death began, the death toll continu
 	
 	
 
-### Come and Learn with Pibby!
-*Released on 2021-10-30, vote average 7.3*
+### Paranormal Activity: Next of Kin
+*Released on 2021-10-29, vote average 6.9*
 
-Pibby is ripped out of her safe, preschool world and thrown into unknøwn lands. She has to grow up, 💜LEARN💜, and become a b∆dass to stop the cartoon A₱⊙C⋀L¥⍴$∑//////////////////////
+Margot, a documentary filmmaker, heads to a secluded Amish community in the hopes of learning about her long-lost mother and extended family. Following a string of strange occurrences and discoveries, she comes to realize this community may not be what it seems.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Btu0O47u3rY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/cyrhAScX80k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -371,6 +322,43 @@ Pibby is ripped out of her safe, preschool world and thrown into unknøwn lands.
 
 
 	
+	
+
+### One Shot
+*Released on 2021-11-05, vote average 5.1*
+
+An elite squad of Navy SEAL&#39;s, on a covert mission to transport a prisoner off a CIA black site island prison, are trapped when insurgents attack while trying to rescue the same prisoner.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/R8-KVcksvzo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Home Sweet Home Alone
+*Released on 2021-11-12, vote average 6*
+
+After being left at home by himself for the holidays, 10-year-old Max Mercer must work to defend his home from a married couple who tries to steal back a valuable heirloom.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FOXW8ur2jr4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -399,6 +387,33 @@ On the cusp of his 30th birthday, a promising young theater composer navigates l
   
 
 
+	
+	
+
+### Come and Learn with Pibby!
+*Released on 2021-10-30, vote average 7.3*
+
+Pibby is ripped out of her safe, preschool world and thrown into unknøwn lands. She has to grow up, 💜LEARN💜, and become a b∆dass to stop the cartoon A₱⊙C⋀L¥⍴$∑//////////////////////
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Btu0O47u3rY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -407,7 +422,7 @@ On the cusp of his 30th birthday, a promising young theater composer navigates l
 	
 
 ### Apex
-*Released on 2021-11-12, vote average 5.3*
+*Released on 2021-11-12, vote average 5.4*
 
 Ex-cop James Malone is serving a life sentence for a crime he didn’t commit. He is offered a chance at freedom if he can survive a deadly game of Apex, in which six hunters pay for the pleasure of hunting another human on a remote island. He accepts, and once he arrives, all hell breaks loose.
 
@@ -416,25 +431,6 @@ Ex-cop James Malone is serving a life sentence for a crime he didn’t commit. H
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/Pompk1znaIw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Ghostbusters: Afterlife
-*Released on 2021-11-11, vote average 7.9*
-
-When a single mom and her two kids arrive in a small town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/lnKmAVLC3jU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -463,23 +459,6 @@ After being left at home by himself for the holidays, 10-year-old Max Mercer mus
 	
 
 	
-	
-
-### tick, tick...BOOM!
-*Released on 2021-11-11, vote average 2*
-
-On the cusp of his 30th birthday, a promising young theater composer navigates love, friendship, and the pressures to create something great before time runs out.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/YJserno8tyU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
@@ -500,7 +479,7 @@ On the cusp of his 30th birthday, a promising young theater composer navigates l
 	
 
 	
-	
+
 	
 
 	
