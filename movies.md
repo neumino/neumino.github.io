@@ -69,7 +69,7 @@ On a post-apocalyptic Earth, a robot, built to protect the life of his dying cre
 	
 
 ### Apex
-*Released on 2021-11-12, vote average 5.4*
+*Released on 2021-11-12, vote average 5.3*
 
 Ex-cop James Malone is serving a life sentence for a crime he didn’t commit. He is offered a chance at freedom if he can survive a deadly game of Apex, in which six hunters pay for the pleasure of hunting another human on a remote island. He accepts, and once he arrives, all hell breaks loose.
 
@@ -78,28 +78,6 @@ Ex-cop James Malone is serving a life sentence for a crime he didn’t commit. H
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/Pompk1znaIw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Red Notice
-*Released on 2021-11-04, vote average 7.2*
-
-An Interpol-issued Red Notice is a global alert to hunt and capture the world&#39;s most wanted. But when a daring heist brings together the FBI&#39;s top profiler and two rival criminals, there&#39;s no telling what will happen.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Pj0wz7zu3Ms?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,8 +112,52 @@ In 16th-century Zazzau, now Zaria, Nigeria, Amina must utilize her military skil
 	
 	
 
+### Red Notice
+*Released on 2021-11-04, vote average 7.4*
+
+An Interpol-issued Red Notice is a global alert to hunt and capture the world&#39;s most wanted. But when a daring heist brings together the FBI&#39;s top profiler and two rival criminals, there&#39;s no telling what will happen.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Pj0wz7zu3Ms?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Clifford the Big Red Dog
+*Released on 2021-11-10, vote average 6.5*
+
+As Emily struggles to fit in at home and at school, she discovers a small red puppy who is destined to become her best friend. When Clifford magically undergoes one heck of a growth spurt, becomes a gigantic dog and attracts the attention of a genetics company, Emily and her Uncle Casey have to fight the forces of greed as they go on the run across New York City. Along the way, Clifford affects the lives of everyone around him and teaches Emily and her uncle the true meaning of acceptance and unconditional love.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PsE3aHTkQYk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Love Hard
-*Released on 2021-11-05, vote average 6.8*
+*Released on 2021-11-05, vote average 7*
 
 An LA girl, unlucky in love, falls for an East Coast guy on a dating app and decides to surprise him for Christmas, only to discover that she’s been catfished. But the object of her affection actually lives in the same town, and the guy who duped her offers to set them up if she pretends to be his own girlfriend for the holidays.
 
@@ -154,21 +176,6 @@ An LA girl, unlucky in love, falls for an East Coast guy on a dating app and dec
 
 
 	
-	
-
-### Ghostbusters: Afterlife
-*Released on 2021-11-11, vote average 8.3*
-
-When a single mom and her two kids arrive in a small town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/lnKmAVLC3jU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -200,16 +207,38 @@ A friend request with a lost love sends a man back into his memories of the &#39
 	
 	
 
-### Clifford the Big Red Dog
-*Released on 2021-11-10, vote average 8*
+### Ghostbusters: Afterlife
+*Released on 2021-11-11, vote average 8.9*
 
-As Emily struggles to fit in at home and at school, she discovers a small red puppy who is destined to become her best friend. When Clifford magically undergoes one heck of a growth spurt, becomes a gigantic dog and attracts the attention of a genetics company, Emily and her Uncle Casey have to fight the forces of greed as they go on the run across New York City. Along the way, Clifford affects the lives of everyone around him and teaches Emily and her uncle the true meaning of acceptance and unconditional love.
+When a single mom and her two kids arrive in a small town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/PsE3aHTkQYk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/lnKmAVLC3jU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Home Sweet Home Alone
+*Released on 2021-11-12, vote average 4.3*
+
+After being left at home by himself for the holidays, 10-year-old Max Mercer must work to defend his home from a married couple who tries to steal back a valuable heirloom.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FOXW8ur2jr4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -228,16 +257,9 @@ As Emily struggles to fit in at home and at school, she discovers a small red pu
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Dangerous
-*Released on 2021-11-05, vote average 5.5*
+*Released on 2021-11-05, vote average 5.6*
 
 A reformed sociopath heads to a remote island after the death of his brother. Soon after his arrival, the island falls under siege from a deadly gang of mercenaries, and when he discovers their role in his brother’s demise, he sets out on a relentless quest for vengeance.
 
@@ -280,16 +302,16 @@ During her Christmas holidays with the royal family at the Sandringham estate in
 	
 	
 
-### Sword Art Online the Movie -Progressive- Aria of a Starless Night
-*Released on 2021-10-30, vote average 8*
+### Happiness Ever After
+*Released on 2021-11-10, vote average 5*
 
-One month after Kayaba Akihiko&#39;s game of death began, the death toll continues to rise, two thousand players having already lost their lives to the ultra-difficult VRMMO world of Sword Art Online. On the day of the strategy meeting to plan out the first-floor boss battle, Kirito, a solo player who vows to fight alone to get stronger, runs into a rare, high-level female player. She gracefully dispatches powerful monsters with a single rapier that flashes like a shooting star in the night...
+This sequel to &#34;Happiness is a Four-Letter Word&#34; finds Zaza, Princess and Zim living new chapters of their lives amid loss, family grudges and new love.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/j8M5DaTWZ5k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/GhGzYbUK5Jw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -301,17 +323,29 @@ One month after Kayaba Akihiko&#39;s game of death began, the death toll continu
 
 	
 	
+	
 
-### Paranormal Activity: Next of Kin
-*Released on 2021-10-29, vote average 6.9*
+  
 
-Margot, a documentary filmmaker, heads to a secluded Amish community in the hopes of learning about her long-lost mother and extended family. Following a string of strange occurrences and discoveries, she comes to realize this community may not be what it seems.
+
+	
+
+  
+
+
+	
+	
+
+### tick, tick...BOOM!
+*Released on 2021-11-11, vote average 7*
+
+On the cusp of his 30th birthday, a promising young theater composer navigates love, friendship, and the pressures of life as an artist in New York City.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/cyrhAScX80k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/YJserno8tyU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -325,7 +359,7 @@ Margot, a documentary filmmaker, heads to a secluded Amish community in the hope
 	
 
 ### One Shot
-*Released on 2021-11-05, vote average 5.1*
+*Released on 2021-11-05, vote average 5.7*
 
 An elite squad of Navy SEAL&#39;s, on a covert mission to transport a prisoner off a CIA black site island prison, are trapped when insurgents attack while trying to rescue the same prisoner.
 
@@ -334,50 +368,6 @@ An elite squad of Navy SEAL&#39;s, on a covert mission to transport a prisoner o
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/R8-KVcksvzo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Home Sweet Home Alone
-*Released on 2021-11-12, vote average 6*
-
-After being left at home by himself for the holidays, 10-year-old Max Mercer must work to defend his home from a married couple who tries to steal back a valuable heirloom.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FOXW8ur2jr4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### tick, tick...BOOM!
-*Released on 2021-11-11, vote average 2*
-
-On the cusp of his 30th birthday, a promising young theater composer navigates love, friendship, and the pressures to create something great before time runs out.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/YJserno8tyU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -409,57 +399,37 @@ Pibby is ripped out of her safe, preschool world and thrown into unknøwn lands.
   
 
 
-	
-
-  
-
-
 
 ## Opening soon
 
 
 	
+
 	
 
-### Apex
-*Released on 2021-11-12, vote average 5.4*
+	
 
-Ex-cop James Malone is serving a life sentence for a crime he didn’t commit. He is offered a chance at freedom if he can survive a deadly game of Apex, in which six hunters pay for the pleasure of hunting another human on a remote island. He accepts, and once he arrives, all hell breaks loose.
+	
+	
+	
+
+	
+	
+
+### The Power of the Dog
+*Released on 2021-11-17, vote average 6*
+
+A domineering, magnetic rancher responds with mocking cruelty when his brother brings home a new wife and her son, until the unexpected comes to pass.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Pompk1znaIw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/LRDPo0CHrko?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-	
-	
-
-### Home Sweet Home Alone
-*Released on 2021-11-12, vote average 6*
-
-After being left at home by himself for the holidays, 10-year-old Max Mercer must work to defend his home from a married couple who tries to steal back a valuable heirloom.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FOXW8ur2jr4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
 	
 
 	
