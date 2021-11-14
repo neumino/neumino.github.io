@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Eternals
-*Released on 2021-11-03, vote average 7.1*
+*Released on 2021-11-03, vote average 7.2*
 
 The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind’s most ancient enemy, the Deviants.
 
@@ -21,7 +21,7 @@ The Eternals are a team of ancient aliens who have been living on Earth in secre
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/QzBh_O3AIko?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/_YKiiPEoWBY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@ On a post-apocalyptic Earth, a robot, built to protect the life of his dying cre
 	
 
 ### Apex
-*Released on 2021-11-12, vote average 5.3*
+*Released on 2021-11-12, vote average 5.6*
 
 Ex-cop James Malone is serving a life sentence for a crime he didn’t commit. He is offered a chance at freedom if he can survive a deadly game of Apex, in which six hunters pay for the pleasure of hunting another human on a remote island. He accepts, and once he arrives, all hell breaks loose.
 
@@ -91,7 +91,7 @@ Ex-cop James Malone is serving a life sentence for a crime he didn’t commit. H
 	
 
 ### Amina
-*Released on 2021-11-04, vote average 6*
+*Released on 2021-11-04, vote average 5.2*
 
 In 16th-century Zazzau, now Zaria, Nigeria, Amina must utilize her military skills and tactics to defend her family&#39;s kingdom. Based on a true story.
 
@@ -113,7 +113,7 @@ In 16th-century Zazzau, now Zaria, Nigeria, Amina must utilize her military skil
 	
 
 ### Red Notice
-*Released on 2021-11-04, vote average 7.4*
+*Released on 2021-11-04, vote average 7.1*
 
 An Interpol-issued Red Notice is a global alert to hunt and capture the world&#39;s most wanted. But when a daring heist brings together the FBI&#39;s top profiler and two rival criminals, there&#39;s no telling what will happen.
 
@@ -135,7 +135,7 @@ An Interpol-issued Red Notice is a global alert to hunt and capture the world&#3
 	
 
 ### Clifford the Big Red Dog
-*Released on 2021-11-10, vote average 6.5*
+*Released on 2021-11-10, vote average 6.9*
 
 As Emily struggles to fit in at home and at school, she discovers a small red puppy who is destined to become her best friend. When Clifford magically undergoes one heck of a growth spurt, becomes a gigantic dog and attracts the attention of a genetics company, Emily and her Uncle Casey have to fight the forces of greed as they go on the run across New York City. Along the way, Clifford affects the lives of everyone around him and teaches Emily and her uncle the true meaning of acceptance and unconditional love.
 
@@ -147,6 +147,13 @@ As Emily struggles to fit in at home and at school, she discovers a small red pu
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -169,13 +176,6 @@ An LA girl, unlucky in love, falls for an East Coast guy on a dating app and dec
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -208,7 +208,7 @@ A friend request with a lost love sends a man back into his memories of the &#39
 	
 
 ### Ghostbusters: Afterlife
-*Released on 2021-11-11, vote average 8.9*
+*Released on 2021-11-11, vote average 8.5*
 
 When a single mom and her two kids arrive in a small town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.
 
@@ -230,7 +230,7 @@ When a single mom and her two kids arrive in a small town, they begin to discove
 	
 
 ### Home Sweet Home Alone
-*Released on 2021-11-12, vote average 4.3*
+*Released on 2021-11-12, vote average 5*
 
 After being left at home by himself for the holidays, 10-year-old Max Mercer must work to defend his home from a married couple who tries to steal back a valuable heirloom.
 
@@ -239,57 +239,6 @@ After being left at home by himself for the holidays, 10-year-old Max Mercer mus
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/FOXW8ur2jr4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Dangerous
-*Released on 2021-11-05, vote average 5.6*
-
-A reformed sociopath heads to a remote island after the death of his brother. Soon after his arrival, the island falls under siege from a deadly gang of mercenaries, and when he discovers their role in his brother’s demise, he sets out on a relentless quest for vengeance.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rFq52e7wYws?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Spencer
-*Released on 2021-11-05, vote average 7.2*
-
-During her Christmas holidays with the royal family at the Sandringham estate in Norfolk, England, Diana decides to leave her marriage to Prince Charles.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/f-FBHQAGLnY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -329,6 +278,8 @@ This sequel to &#34;Happiness is a Four-Letter Word&#34; finds Zaza, Princess an
 
 
 	
+	
+	
 
   
 
@@ -336,16 +287,16 @@ This sequel to &#34;Happiness is a Four-Letter Word&#34; finds Zaza, Princess an
 	
 	
 
-### tick, tick...BOOM!
-*Released on 2021-11-11, vote average 7*
+### Ciao Alberto
+*Released on 2021-11-12, vote average 7.5*
 
-On the cusp of his 30th birthday, a promising young theater composer navigates love, friendship, and the pressures of life as an artist in New York City.
+With his best friend Luca away at school, Alberto is enjoying his new life in Portorosso working alongside Massimo - the imposing, tattooed, one-armed fisherman of a few words - who&#39;s quite possibly the coolest human in the entire world as far as Alberto is concerned. He wants more than anything to impress his mentor, but it&#39;s easier said than done.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/YJserno8tyU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/KJZS7oXX5SE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -358,16 +309,43 @@ On the cusp of his 30th birthday, a promising young theater composer navigates l
 	
 	
 
-### One Shot
-*Released on 2021-11-05, vote average 5.7*
+### Spencer
+*Released on 2021-11-05, vote average 7.4*
 
-An elite squad of Navy SEAL&#39;s, on a covert mission to transport a prisoner off a CIA black site island prison, are trapped when insurgents attack while trying to rescue the same prisoner.
+During her Christmas holidays with the royal family at the Sandringham estate in Norfolk, England, Diana decides to leave her marriage to Prince Charles.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/R8-KVcksvzo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/f-FBHQAGLnY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### 7 Prisoners
+*Released on 2021-11-11, vote average 6*
+
+An impoverished teen seeking to escape the clutches of a human trafficker must weigh living up to his moral code against his struggle to survive.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vupNkHJGBQ8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -380,16 +358,38 @@ An elite squad of Navy SEAL&#39;s, on a covert mission to transport a prisoner o
 	
 	
 
-### Come and Learn with Pibby!
-*Released on 2021-10-30, vote average 7.3*
+### Dangerous
+*Released on 2021-11-05, vote average 5.6*
 
-Pibby is ripped out of her safe, preschool world and thrown into unknøwn lands. She has to grow up, 💜LEARN💜, and become a b∆dass to stop the cartoon A₱⊙C⋀L¥⍴$∑//////////////////////
+A reformed sociopath heads to a remote island after the death of his brother. Soon after his arrival, the island falls under siege from a deadly gang of mercenaries, and when he discovers their role in his brother’s demise, he sets out on a relentless quest for vengeance.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Btu0O47u3rY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/rFq52e7wYws?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Marvel Studios&#39; 2021 Disney&#43; Day Special
+*Released on 2021-11-12, vote average 7.3*
+
+Explore the Disney&#43; series of the MCU—past, present and future.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/WoaaDDYy7yA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -404,13 +404,24 @@ Pibby is ripped out of her safe, preschool world and thrown into unknøwn lands.
 
 
 	
-
 	
 
-	
+### King Richard
+*Released on 2021-11-18, vote average 6.5*
+
+Richard Williams serves as a coach to his daughters Venus and Serena, who will soon become two of the most legendary tennis players in history.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_6bsugyNpDU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
 	
+
 	
 
 	
@@ -430,6 +441,10 @@ A domineering, magnetic rancher responds with mocking cruelty when his brother b
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
 	
 
 	
