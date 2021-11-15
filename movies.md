@@ -21,7 +21,7 @@ The Eternals are a team of ancient aliens who have been living on Earth in secre
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/_YKiiPEoWBY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ue1xsZR40fo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@ On a post-apocalyptic Earth, a robot, built to protect the life of his dying cre
 	
 
 ### Apex
-*Released on 2021-11-12, vote average 5.6*
+*Released on 2021-11-12, vote average 5.7*
 
 Ex-cop James Malone is serving a life sentence for a crime he didn’t commit. He is offered a chance at freedom if he can survive a deadly game of Apex, in which six hunters pay for the pleasure of hunting another human on a remote island. He accepts, and once he arrives, all hell breaks loose.
 
@@ -135,7 +135,7 @@ An Interpol-issued Red Notice is a global alert to hunt and capture the world&#3
 	
 
 ### Clifford the Big Red Dog
-*Released on 2021-11-10, vote average 6.9*
+*Released on 2021-11-10, vote average 7.5*
 
 As Emily struggles to fit in at home and at school, she discovers a small red puppy who is destined to become her best friend. When Clifford magically undergoes one heck of a growth spurt, becomes a gigantic dog and attracts the attention of a genetics company, Emily and her Uncle Casey have to fight the forces of greed as they go on the run across New York City. Along the way, Clifford affects the lives of everyone around him and teaches Emily and her uncle the true meaning of acceptance and unconditional love.
 
@@ -164,7 +164,7 @@ As Emily struggles to fit in at home and at school, she discovers a small red pu
 	
 
 ### Love Hard
-*Released on 2021-11-05, vote average 7*
+*Released on 2021-11-05, vote average 7.1*
 
 An LA girl, unlucky in love, falls for an East Coast guy on a dating app and decides to surprise him for Christmas, only to discover that she’s been catfished. But the object of her affection actually lives in the same town, and the guy who duped her offers to set them up if she pretends to be his own girlfriend for the holidays.
 
@@ -173,6 +173,28 @@ An LA girl, unlucky in love, falls for an East Coast guy on a dating app and dec
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/3boMRfx6cjE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Ghostbusters: Afterlife
+*Released on 2021-11-11, vote average 8.4*
+
+When a single mom and her two kids arrive in a small town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/lnKmAVLC3jU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -207,32 +229,10 @@ A friend request with a lost love sends a man back into his memories of the &#39
 	
 	
 
-### Ghostbusters: Afterlife
-*Released on 2021-11-11, vote average 8.5*
-
-When a single mom and her two kids arrive in a small town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/lnKmAVLC3jU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Home Sweet Home Alone
-*Released on 2021-11-12, vote average 5*
+*Released on 2021-11-12, vote average 5.8*
 
-After being left at home by himself for the holidays, 10-year-old Max Mercer must work to defend his home from a married couple who tries to steal back a valuable heirloom.
+After the success that was 1990&#39;s Home Alone, some greedy fucktards at Disney decide to reboot the franchise. This time starring some fat hairy retard as Kevin, and two fags as the wet bandits.
 
 <iframe id="player"
 	type="text/html"
@@ -252,7 +252,7 @@ After being left at home by himself for the holidays, 10-year-old Max Mercer mus
 	
 
 ### Happiness Ever After
-*Released on 2021-11-10, vote average 5*
+*Released on 2021-11-10, vote average 7*
 
 This sequel to &#34;Happiness is a Four-Letter Word&#34; finds Zaza, Princess and Zim living new chapters of their lives amid loss, family grudges and new love.
 
@@ -279,16 +279,9 @@ This sequel to &#34;Happiness is a Four-Letter Word&#34; finds Zaza, Princess an
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Ciao Alberto
-*Released on 2021-11-12, vote average 7.5*
+*Released on 2021-11-12, vote average 7.1*
 
 With his best friend Luca away at school, Alberto is enjoying his new life in Portorosso working alongside Massimo - the imposing, tattooed, one-armed fisherman of a few words - who&#39;s quite possibly the coolest human in the entire world as far as Alberto is concerned. He wants more than anything to impress his mentor, but it&#39;s easier said than done.
 
@@ -308,26 +301,6 @@ With his best friend Luca away at school, Alberto is enjoying his new life in Po
 
 	
 	
-
-### Spencer
-*Released on 2021-11-05, vote average 7.4*
-
-During her Christmas holidays with the royal family at the Sandringham estate in Norfolk, England, Diana decides to leave her marriage to Prince Charles.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/f-FBHQAGLnY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -337,7 +310,7 @@ During her Christmas holidays with the royal family at the Sandringham estate in
 	
 
 ### 7 Prisoners
-*Released on 2021-11-11, vote average 6*
+*Released on 2021-11-11, vote average 8.1*
 
 An impoverished teen seeking to escape the clutches of a human trafficker must weigh living up to his moral code against his struggle to survive.
 
@@ -356,18 +329,23 @@ An impoverished teen seeking to escape the clutches of a human trafficker must w
 
 
 	
+
+  
+
+
+	
 	
 
-### Dangerous
-*Released on 2021-11-05, vote average 5.6*
+### Marvel Studios&#39; 2021 Disney&#43; Day Special
+*Released on 2021-11-12, vote average 7.5*
 
-A reformed sociopath heads to a remote island after the death of his brother. Soon after his arrival, the island falls under siege from a deadly gang of mercenaries, and when he discovers their role in his brother’s demise, he sets out on a relentless quest for vengeance.
+Explore the Disney&#43; series of the MCU—past, present and future.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/rFq52e7wYws?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/WoaaDDYy7yA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -379,17 +357,24 @@ A reformed sociopath heads to a remote island after the death of his brother. So
 
 	
 	
+	
 
-### Marvel Studios&#39; 2021 Disney&#43; Day Special
+  
+
+
+	
+	
+
+### Under the Helmet: The Legacy of Boba Fett
 *Released on 2021-11-12, vote average 7.3*
 
-Explore the Disney&#43; series of the MCU—past, present and future.
+A special celebrating the origins and legacy of Star Wars&#39; legendary bounty hunter, Boba Fett.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/WoaaDDYy7yA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/aYoUL-OqzxY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -455,6 +440,8 @@ A domineering, magnetic rancher responds with mocking cruelty when his brother b
 
 	
 
+	
+	
 	
 
 	
