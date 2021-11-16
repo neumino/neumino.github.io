@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Eternals
-*Released on 2021-11-03, vote average 7.2*
+### Finch
+*Released on 2021-11-04, vote average 8.1*
 
-The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind’s most ancient enemy, the Deviants.
+On a post-apocalyptic Earth, a robot, built to protect the life of his dying creator&#39;s beloved dog, learns about life, love, friendship, and what it means to be human.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ue1xsZR40fo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-0bYWnP3jH4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ The Eternals are a team of ancient aliens who have been living on Earth in secre
 	
 	
 
-### Finch
-*Released on 2021-11-04, vote average 8.1*
+### Eternals
+*Released on 2021-11-03, vote average 7.1*
 
-On a post-apocalyptic Earth, a robot, built to protect the life of his dying creator&#39;s beloved dog, learns about life, love, friendship, and what it means to be human.
+The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind’s most ancient enemy, the Deviants.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-0bYWnP3jH4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ue1xsZR40fo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@ On a post-apocalyptic Earth, a robot, built to protect the life of his dying cre
 	
 
 ### Apex
-*Released on 2021-11-12, vote average 5.7*
+*Released on 2021-11-12, vote average 5.8*
 
 Ex-cop James Malone is serving a life sentence for a crime he didn’t commit. He is offered a chance at freedom if he can survive a deadly game of Apex, in which six hunters pay for the pleasure of hunting another human on a remote island. He accepts, and once he arrives, all hell breaks loose.
 
@@ -113,7 +113,7 @@ In 16th-century Zazzau, now Zaria, Nigeria, Amina must utilize her military skil
 	
 
 ### Red Notice
-*Released on 2021-11-04, vote average 7.1*
+*Released on 2021-11-04, vote average 7*
 
 An Interpol-issued Red Notice is a global alert to hunt and capture the world&#39;s most wanted. But when a daring heist brings together the FBI&#39;s top profiler and two rival criminals, there&#39;s no telling what will happen.
 
@@ -135,7 +135,7 @@ An Interpol-issued Red Notice is a global alert to hunt and capture the world&#3
 	
 
 ### Clifford the Big Red Dog
-*Released on 2021-11-10, vote average 7.5*
+*Released on 2021-11-10, vote average 8.1*
 
 As Emily struggles to fit in at home and at school, she discovers a small red puppy who is destined to become her best friend. When Clifford magically undergoes one heck of a growth spurt, becomes a gigantic dog and attracts the attention of a genetics company, Emily and her Uncle Casey have to fight the forces of greed as they go on the run across New York City. Along the way, Clifford affects the lives of everyone around him and teaches Emily and her uncle the true meaning of acceptance and unconditional love.
 
@@ -186,7 +186,7 @@ An LA girl, unlucky in love, falls for an East Coast guy on a dating app and dec
 	
 
 ### Ghostbusters: Afterlife
-*Released on 2021-11-11, vote average 8.4*
+*Released on 2021-11-11, vote average 8.8*
 
 When a single mom and her two kids arrive in a small town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.
 
@@ -232,7 +232,7 @@ A friend request with a lost love sends a man back into his memories of the &#39
 ### Home Sweet Home Alone
 *Released on 2021-11-12, vote average 5.8*
 
-After the success that was 1990&#39;s Home Alone, some greedy fucktards at Disney decide to reboot the franchise. This time starring some fat hairy retard as Kevin, and two fags as the wet bandits.
+After being left at home by himself for the holidays, 10-year-old Max Mercer must work to defend his home from a married couple who tries to steal back a valuable heirloom.
 
 <iframe id="player"
 	type="text/html"
@@ -252,7 +252,7 @@ After the success that was 1990&#39;s Home Alone, some greedy fucktards at Disne
 	
 
 ### Happiness Ever After
-*Released on 2021-11-10, vote average 7*
+*Released on 2021-11-10, vote average 7.7*
 
 This sequel to &#34;Happiness is a Four-Letter Word&#34; finds Zaza, Princess and Zim living new chapters of their lives amid loss, family grudges and new love.
 
@@ -281,7 +281,7 @@ This sequel to &#34;Happiness is a Four-Letter Word&#34; finds Zaza, Princess an
 	
 
 ### Ciao Alberto
-*Released on 2021-11-12, vote average 7.1*
+*Released on 2021-11-12, vote average 7.8*
 
 With his best friend Luca away at school, Alberto is enjoying his new life in Portorosso working alongside Massimo - the imposing, tattooed, one-armed fisherman of a few words - who&#39;s quite possibly the coolest human in the entire world as far as Alberto is concerned. He wants more than anything to impress his mentor, but it&#39;s easier said than done.
 
@@ -308,26 +308,13 @@ With his best friend Luca away at school, Alberto is enjoying his new life in Po
 
 	
 	
-
-### 7 Prisoners
-*Released on 2021-11-11, vote average 8.1*
-
-An impoverished teen seeking to escape the clutches of a human trafficker must weigh living up to his moral code against his struggle to survive.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vupNkHJGBQ8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
 
 
+	
+	
 	
 
   
@@ -357,6 +344,21 @@ Explore the Disney&#43; series of the MCU—past, present and future.
 
 	
 	
+
+### Spencer
+*Released on 2021-11-05, vote average 7.5*
+
+During her Christmas holidays with the royal family at the Sandringham estate in Norfolk, England, Diana decides to leave her marriage to Prince Charles.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/f-FBHQAGLnY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -365,16 +367,16 @@ Explore the Disney&#43; series of the MCU—past, present and future.
 	
 	
 
-### Under the Helmet: The Legacy of Boba Fett
-*Released on 2021-11-12, vote average 7.3*
+### AEW Full Gear 2021
+*Released on 2021-11-13, vote average 6.5*
 
-A special celebrating the origins and legacy of Star Wars&#39; legendary bounty hunter, Boba Fett.
+It&#39;s November 13th and it&#39;s time for AEW: Full Gear 2021 live straight from Target Center in Minneapolis, Minnesota.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/aYoUL-OqzxY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/TH_CpEtULwk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -387,6 +389,25 @@ A special celebrating the origins and legacy of Star Wars&#39; legendary bounty 
 
 ## Opening soon
 
+
+	
+	
+
+### The Power of the Dog
+*Released on 2021-11-17, vote average 6*
+
+A domineering, magnetic rancher responds with mocking cruelty when his brother brings home a new wife and her son, until the unexpected comes to pass.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LRDPo0CHrko?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 	
@@ -407,25 +428,6 @@ Richard Williams serves as a coach to his daughters Venus and Serena, who will s
 	
 	
 
-	
-
-	
-	
-
-### The Power of the Dog
-*Released on 2021-11-17, vote average 6*
-
-A domineering, magnetic rancher responds with mocking cruelty when his brother brings home a new wife and her son, until the unexpected comes to pass.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LRDPo0CHrko?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
