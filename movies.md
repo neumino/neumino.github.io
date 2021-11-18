@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Finch
-*Released on 2021-11-04, vote average 8.2*
+*Released on 2021-11-04, vote average 8.1*
 
 On a post-apocalyptic Earth, a robot, built to protect the life of his dying creator&#39;s beloved dog, learns about life, love, friendship, and what it means to be human.
 
@@ -47,7 +47,7 @@ On a post-apocalyptic Earth, a robot, built to protect the life of his dying cre
 	
 
 ### Apex
-*Released on 2021-11-12, vote average 5.7*
+*Released on 2021-11-12, vote average 5.8*
 
 Ex-cop James Malone is serving a life sentence for a crime he didn’t commit. He is offered a chance at freedom if he can survive a deadly game of Apex, in which six hunters pay for the pleasure of hunting another human on a remote island. He accepts, and once he arrives, all hell breaks loose.
 
@@ -68,30 +68,8 @@ Ex-cop James Malone is serving a life sentence for a crime he didn’t commit. H
 	
 	
 
-### Eternals
-*Released on 2021-11-03, vote average 7.1*
-
-The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind’s most ancient enemy, the Deviants.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ue1xsZR40fo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Amina
-*Released on 2021-11-04, vote average 5.8*
+*Released on 2021-11-04, vote average 5.9*
 
 In 16th-century Zazzau, now Zaria, Nigeria, Amina must utilize her military skills and tactics to defend her family&#39;s kingdom. Based on a true story.
 
@@ -135,7 +113,7 @@ An Interpol-issued Red Notice is a global alert to hunt and capture the world&#3
 	
 
 ### Clifford the Big Red Dog
-*Released on 2021-11-10, vote average 8.1*
+*Released on 2021-11-10, vote average 8*
 
 As Emily struggles to fit in at home and at school, she discovers a small red puppy who is destined to become her best friend. When Clifford magically undergoes one heck of a growth spurt, becomes a gigantic dog and attracts the attention of a genetics company, Emily and her Uncle Casey have to fight the forces of greed as they go on the run across New York City. Along the way, Clifford affects the lives of everyone around him and teaches Emily and her uncle the true meaning of acceptance and unconditional love.
 
@@ -164,7 +142,7 @@ As Emily struggles to fit in at home and at school, she discovers a small red pu
 	
 
 ### Home Sweet Home Alone
-*Released on 2021-11-12, vote average 5.5*
+*Released on 2021-11-12, vote average 5.7*
 
 After being left at home by himself for the holidays, 10-year-old Max Mercer must work to defend his home from a married couple who tries to steal back a valuable heirloom.
 
@@ -173,6 +151,57 @@ After being left at home by himself for the holidays, 10-year-old Max Mercer mus
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/FOXW8ur2jr4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Ciao Alberto
+*Released on 2021-11-12, vote average 7.9*
+
+With his best friend Luca away at school, Alberto is enjoying his new life in Portorosso working alongside Massimo - the imposing, tattooed, one-armed fisherman of a few words - who&#39;s quite possibly the coolest human in the entire world as far as Alberto is concerned. He wants more than anything to impress his mentor, but it&#39;s easier said than done.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KJZS7oXX5SE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Happiness Ever After
+*Released on 2021-11-10, vote average 8.3*
+
+This sequel to &#34;Happiness is a Four-Letter Word&#34; finds Zaza, Princess and Zim living new chapters of their lives amid loss, family grudges and new love.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/GhGzYbUK5Jw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -208,37 +237,15 @@ When a single mom and her two kids arrive in a small town, they begin to discove
 	
 
 ### Love Hard
-*Released on 2021-11-05, vote average 7.1*
+*Released on 2021-11-05, vote average 7.2*
 
-An LA girl, unlucky in love, falls for an East Coast guy on a dating app and decides to surprise him for Christmas, only to discover that she’s been catfished. But the object of her affection actually lives in the same town, and the guy who duped her offers to set them up if she pretends to be his own girlfriend for the holidays.
+An LA girl, unlucky in love, falls for an East Coast guy on a dating app and decides to surprise him for Christmas, only to discover that she&#39;s been catfished. But the object of her affection actually lives in the same town, and the guy who duped her offers to set them up if she pretends to be his own girlfriend for the holidays.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/3boMRfx6cjE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Happiness Ever After
-*Released on 2021-11-10, vote average 8.3*
-
-This sequel to &#34;Happiness is a Four-Letter Word&#34; finds Zaza, Princess and Zim living new chapters of their lives amid loss, family grudges and new love.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/GhGzYbUK5Jw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -259,7 +266,7 @@ This sequel to &#34;Happiness is a Four-Letter Word&#34; finds Zaza, Princess an
 	
 
 ### We Couldn&#39;t Become Adults
-*Released on 2021-11-05, vote average 4*
+*Released on 2021-11-05, vote average 4.8*
 
 A friend request with a lost love sends a man back into his memories of the &#39;90s, when life seemed to burn a little brighter
 
@@ -280,16 +287,16 @@ A friend request with a lost love sends a man back into his memories of the &#39
 	
 	
 
-### Ciao Alberto
-*Released on 2021-11-12, vote average 7.8*
+### Never Back Down: Revolt
+*Released on 2021-11-15, vote average 6*
 
-With his best friend Luca away at school, Alberto is enjoying his new life in Portorosso working alongside Massimo - the imposing, tattooed, one-armed fisherman of a few words - who&#39;s quite possibly the coolest human in the entire world as far as Alberto is concerned. He wants more than anything to impress his mentor, but it&#39;s easier said than done.
+Centers on a woman who is kidnapped and forced to compete in elite underground fights and has to battle her way out to freedom.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/KJZS7oXX5SE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/SZ8X3uF1FQM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -300,6 +307,50 @@ With his best friend Luca away at school, Alberto is enjoying his new life in Po
 
 
 	
+	
+
+### King Richard
+*Released on 2021-11-18, vote average 6.5*
+
+Richard Williams serves as a coach to his daughters Venus and Serena, who will soon become two of the most legendary tennis players in history.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_6bsugyNpDU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### The Power of the Dog
+*Released on 2021-11-17, vote average 7*
+
+A domineering, magnetic rancher responds with mocking cruelty when his brother brings home a new wife and her son, until the unexpected comes to pass.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LRDPo0CHrko?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -330,18 +381,6 @@ With his best friend Luca away at school, Alberto is enjoying his new life in Po
 
 	
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 
 ### Marvel Studios&#39; 2021 Disney&#43; Day Special
 *Released on 2021-11-12, vote average 7.5*
@@ -356,13 +395,6 @@ Explore the Disney&#43; series of the MCU—past, present and future.
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -399,36 +431,11 @@ Richard Williams serves as a coach to his daughters Venus and Serena, who will s
 	
 
 	
-	
-
-### The Power of the Dog
-*Released on 2021-11-17, vote average 6*
-
-A domineering, magnetic rancher responds with mocking cruelty when his brother brings home a new wife and her son, until the unexpected comes to pass.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LRDPo0CHrko?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
 	
 
-	
-
-	
-
-	
-
-	
-	
 	
 
 	
@@ -453,9 +460,15 @@ A group of toy store employees must protect each other from a horde of parasite 
 	
 
 	
-	
+
 	
 
+	
+
+	
+
+	
+	
 	
 
 	
