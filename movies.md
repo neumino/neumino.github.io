@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Finch
-*Released on 2021-11-04, vote average 8.1*
+### Apex
+*Released on 2021-11-12, vote average 5.7*
 
-On a post-apocalyptic Earth, a robot, built to protect the life of his dying creator&#39;s beloved dog, learns about life, love, friendship, and what it means to be human.
+Ex-cop James Malone is serving a life sentence for a crime he didn’t commit. He is offered a chance at freedom if he can survive a deadly game of Apex, in which six hunters pay for the pleasure of hunting another human on a remote island. He accepts, and once he arrives, all hell breaks loose.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-0bYWnP3jH4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Pompk1znaIw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,74 +46,8 @@ On a post-apocalyptic Earth, a robot, built to protect the life of his dying cre
 	
 	
 
-### Apex
-*Released on 2021-11-12, vote average 5.8*
-
-Ex-cop James Malone is serving a life sentence for a crime he didn’t commit. He is offered a chance at freedom if he can survive a deadly game of Apex, in which six hunters pay for the pleasure of hunting another human on a remote island. He accepts, and once he arrives, all hell breaks loose.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Pompk1znaIw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Amina
-*Released on 2021-11-04, vote average 5.9*
-
-In 16th-century Zazzau, now Zaria, Nigeria, Amina must utilize her military skills and tactics to defend her family&#39;s kingdom. Based on a true story.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/RW87asYGq7g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Red Notice
-*Released on 2021-11-04, vote average 6.9*
-
-An Interpol-issued Red Notice is a global alert to hunt and capture the world&#39;s most wanted. But when a daring heist brings together the FBI&#39;s top profiler and two rival criminals, there&#39;s no telling what will happen.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Pj0wz7zu3Ms?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Clifford the Big Red Dog
-*Released on 2021-11-10, vote average 8*
+*Released on 2021-11-10, vote average 8.1*
 
 As Emily struggles to fit in at home and at school, she discovers a small red puppy who is destined to become her best friend. When Clifford magically undergoes one heck of a growth spurt, becomes a gigantic dog and attracts the attention of a genetics company, Emily and her Uncle Casey have to fight the forces of greed as they go on the run across New York City. Along the way, Clifford affects the lives of everyone around him and teaches Emily and her uncle the true meaning of acceptance and unconditional love.
 
@@ -191,17 +125,24 @@ With his best friend Luca away at school, Alberto is enjoying his new life in Po
 
 	
 	
+	
 
-### Happiness Ever After
-*Released on 2021-11-10, vote average 8.3*
+  
 
-This sequel to &#34;Happiness is a Four-Letter Word&#34; finds Zaza, Princess and Zim living new chapters of their lives amid loss, family grudges and new love.
+
+	
+	
+
+### Ghostbusters: Afterlife
+*Released on 2021-11-11, vote average 8.2*
+
+When a single mom and her two kids arrive in a small town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/GhGzYbUK5Jw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/lnKmAVLC3jU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -214,16 +155,16 @@ This sequel to &#34;Happiness is a Four-Letter Word&#34; finds Zaza, Princess an
 	
 	
 
-### Ghostbusters: Afterlife
-*Released on 2021-11-11, vote average 8.8*
+### Happiness Ever After
+*Released on 2021-11-10, vote average 8*
 
-When a single mom and her two kids arrive in a small town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.
+This sequel to &#34;Happiness is a Four-Letter Word&#34; finds Zaza, Princess and Zim living new chapters of their lives amid loss, family grudges and new love.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/lnKmAVLC3jU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/GhGzYbUK5Jw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -249,13 +190,6 @@ An LA girl, unlucky in love, falls for an East Coast guy on a dating app and dec
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -337,9 +271,16 @@ Richard Williams serves as a coach to his daughters Venus and Serena, who will s
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### The Power of the Dog
-*Released on 2021-11-17, vote average 7*
+*Released on 2021-11-17, vote average 8*
 
 A domineering, magnetic rancher responds with mocking cruelty when his brother brings home a new wife and her son, until the unexpected comes to pass.
 
@@ -363,7 +304,7 @@ A domineering, magnetic rancher responds with mocking cruelty when his brother b
 ### Spencer
 *Released on 2021-11-05, vote average 7.2*
 
-
+During her Christmas holidays with the royal family at the Sandringham estate in Norfolk, England, Diana decides to leave her marriage to Prince Charles.
 
 <iframe id="player"
 	type="text/html"
@@ -380,22 +321,15 @@ A domineering, magnetic rancher responds with mocking cruelty when his brother b
 
 
 	
-	
 
-### Marvel Studios&#39; 2021 Disney&#43; Day Special
-*Released on 2021-11-12, vote average 7.5*
+  
 
-Explore the Disney&#43; series of the MCU—past, present and future.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/WoaaDDYy7yA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
 	
 
   
@@ -404,33 +338,6 @@ Explore the Disney&#43; series of the MCU—past, present and future.
 
 ## Opening soon
 
-
-	
-
-	
-
-	
-
-	
-	
-
-### King Richard
-*Released on 2021-11-18, vote average 6.5*
-
-Richard Williams serves as a coach to his daughters Venus and Serena, who will soon become two of the most legendary tennis players in history.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/_6bsugyNpDU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
 
 	
 
@@ -458,6 +365,27 @@ A group of toy store employees must protect each other from a horde of parasite 
 	
 
 	
+	
+	
+
+	
+	
+
+### Pups Alone
+*Released on 2021-11-19, vote average 5.8*
+
+After receiving an exciting new job opportunity at a cutting edge Pet Invention company, Robert, his teenage daughter Jenna and their trusty and special border collie Charlie make the move to the new neighborhood, right before Christmas. Upon arriving, Robert meets his gorgeous next door neighbor Holly, and her sassy and spunky border collie Gidget. Before the sparks can fly, they are set upon my Robert’s conniving and obnoxious next door neighbor and project manager Victor, his neighborhood bully bulldog “Vinnie P” and the sycophantic sidekick Chihuahua “Jose”.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/P5RfSoHnnUk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
@@ -468,7 +396,13 @@ A group of toy store employees must protect each other from a horde of parasite 
 	
 
 	
+
 	
+
+	
+
+	
+
 	
 
 	
