@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Apex
-*Released on 2021-11-12, vote average 5.7*
+### Clifford the Big Red Dog
+*Released on 2021-11-10, vote average 8*
 
-Ex-cop James Malone is serving a life sentence for a crime he didn’t commit. He is offered a chance at freedom if he can survive a deadly game of Apex, in which six hunters pay for the pleasure of hunting another human on a remote island. He accepts, and once he arrives, all hell breaks loose.
+As Emily struggles to fit in at home and at school, she discovers a small red puppy who is destined to become her best friend. When Clifford magically undergoes one heck of a growth spurt, becomes a gigantic dog and attracts the attention of a genetics company, Emily and her Uncle Casey have to fight the forces of greed as they go on the run across New York City. Along the way, Clifford affects the lives of everyone around him and teaches Emily and her uncle the true meaning of acceptance and unconditional love.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Pompk1znaIw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/o9ri5DYLvkU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,26 +46,19 @@ Ex-cop James Malone is serving a life sentence for a crime he didn’t commit. H
 	
 	
 
-### Clifford the Big Red Dog
-*Released on 2021-11-10, vote average 8.1*
+### Apex
+*Released on 2021-11-12, vote average 5.6*
 
-As Emily struggles to fit in at home and at school, she discovers a small red puppy who is destined to become her best friend. When Clifford magically undergoes one heck of a growth spurt, becomes a gigantic dog and attracts the attention of a genetics company, Emily and her Uncle Casey have to fight the forces of greed as they go on the run across New York City. Along the way, Clifford affects the lives of everyone around him and teaches Emily and her uncle the true meaning of acceptance and unconditional love.
+Ex-cop James Malone is serving a life sentence for a crime he didn’t commit. He is offered a chance at freedom if he can survive a deadly game of Apex, in which six hunters pay for the pleasure of hunting another human on a remote island. He accepts, and once he arrives, all hell breaks loose.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/PsE3aHTkQYk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Pompk1znaIw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -105,7 +98,7 @@ After being left at home by himself for the holidays, 10-year-old Max Mercer mus
 	
 
 ### Ciao Alberto
-*Released on 2021-11-12, vote average 7.9*
+*Released on 2021-11-12, vote average 7.8*
 
 With his best friend Luca away at school, Alberto is enjoying his new life in Portorosso working alongside Massimo - the imposing, tattooed, one-armed fisherman of a few words - who&#39;s quite possibly the coolest human in the entire world as far as Alberto is concerned. He wants more than anything to impress his mentor, but it&#39;s easier said than done.
 
@@ -132,9 +125,16 @@ With his best friend Luca away at school, Alberto is enjoying his new life in Po
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Ghostbusters: Afterlife
-*Released on 2021-11-11, vote average 8.2*
+*Released on 2021-11-11, vote average 8*
 
 When a single mom and her two kids arrive in a small town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.
 
@@ -156,7 +156,7 @@ When a single mom and her two kids arrive in a small town, they begin to discove
 	
 
 ### Happiness Ever After
-*Released on 2021-11-10, vote average 8*
+*Released on 2021-11-10, vote average 7.6*
 
 This sequel to &#34;Happiness is a Four-Letter Word&#34; finds Zaza, Princess and Zim living new chapters of their lives amid loss, family grudges and new love.
 
@@ -177,52 +177,8 @@ This sequel to &#34;Happiness is a Four-Letter Word&#34; finds Zaza, Princess an
 	
 	
 
-### Love Hard
-*Released on 2021-11-05, vote average 7.2*
-
-An LA girl, unlucky in love, falls for an East Coast guy on a dating app and decides to surprise him for Christmas, only to discover that she&#39;s been catfished. But the object of her affection actually lives in the same town, and the guy who duped her offers to set them up if she pretends to be his own girlfriend for the holidays.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3boMRfx6cjE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### We Couldn&#39;t Become Adults
-*Released on 2021-11-05, vote average 4.8*
-
-A friend request with a lost love sends a man back into his memories of the &#39;90s, when life seemed to burn a little brighter
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/QudoMSz0e6s?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Never Back Down: Revolt
-*Released on 2021-11-15, vote average 6*
+*Released on 2021-11-15, vote average 4.7*
 
 Centers on a woman who is kidnapped and forced to compete in elite underground fights and has to battle her way out to freedom.
 
@@ -242,11 +198,18 @@ Centers on a woman who is kidnapped and forced to compete in elite underground f
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### King Richard
-*Released on 2021-11-18, vote average 6.5*
+*Released on 2021-11-18, vote average 7.2*
 
-Richard Williams serves as a coach to his daughters Venus and Serena, who will soon become two of the most legendary tennis players in history.
+The TRUE STORY of how Richard Williams served as a coach to his daughters Venus and Serena, who will soon become two of the most legendary tennis players in history.
 
 <iframe id="player"
 	type="text/html"
@@ -264,6 +227,21 @@ Richard Williams serves as a coach to his daughters Venus and Serena, who will s
 
 	
 	
+
+### Zeros and Ones
+*Released on 2021-11-18, vote average 6*
+
+Called to Rome to stop an imminent terrorist bombing, a soldier desperately seeks news of his imprisoned brother — a rebel with knowledge that could thwart the attack. Navigating the capital&#39;s darkened streets, he races to a series of ominous encounters to keep the Vatican from being blown to bits.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/RHje2IaqZGg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -271,6 +249,92 @@ Richard Williams serves as a coach to his daughters Venus and Serena, who will s
 
 	
 	
+
+### The Princess Switch 3: Romancing the Star
+*Released on 2021-11-18, vote average 7*
+
+When a priceless relic is stolen, Queen Margaret and Princess Stacy enlist the help of Margaret’s audacious look-alike cousin Fiona again who teams with a dashing, mysterious man from her past to retrieve it, rekindling the sparks of a tantalizing Christmas romance and resulting in a very unexpected switch.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/CfXzd8fgy6Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Bruised
+*Released on 2021-11-17, vote average 7*
+
+Jackie Justice is a mixed martial arts fighter who leaves the sport in disgrace. Down on her luck and simmering with rage and regret years after the fight, she&#39;s coaxed into a brutal underground fight by her manager and boyfriend Desi and grabs the attention of a fight league promoter who promises Jackie a life back in the Octagon. But the road to redemption becomes unexpectedly personal when Manny - the son she gave up as an infant - shows up at her doorstep. A triumphant story of a fighter who reclaims her power, in and out of the ring, when everyone has counted her out
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EMu8K0l8ggA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Black Friday
+*Released on 2021-11-19, vote average 9*
+
+A group of toy store employees must protect each other from a horde of parasite infected shoppers.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/coHgeUp38m0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Just Short of Perfect
+*Released on 2021-11-18, vote average 5.4*
+
+A divorced lawyer falls for a charismatic cardiologist. But when their difference in size leads to family friction, is she ready to listen to her heart?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LXSQed_-84g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -300,36 +364,6 @@ A domineering, magnetic rancher responds with mocking cruelty when his brother b
 
 	
 	
-
-### Spencer
-*Released on 2021-11-05, vote average 7.2*
-
-During her Christmas holidays with the royal family at the Sandringham estate in Norfolk, England, Diana decides to leave her marriage to Prince Charles.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/f-FBHQAGLnY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -340,24 +374,18 @@ During her Christmas holidays with the royal family at the Sandringham estate in
 
 
 	
-
 	
 
-	
+### Encanto
+*Released on 2021-11-24, vote average 6*
 
-	
-	
-
-### Black Friday
-*Released on 2021-11-19, vote average 9*
-
-A group of toy store employees must protect each other from a horde of parasite infected shoppers.
+The tale of an extraordinary family, the Madrigals, who live hidden in the mountains of Colombia, in a magical house, in a vibrant town, in a wondrous, charmed place called an Encanto. The magic of the Encanto has blessed every child in the family with a unique gift from super strength to the power to heal—every child except one, Mirabel. But when she discovers that the magic surrounding the Encanto is in danger, Mirabel decides that she, the only ordinary Madrigal, might just be her exceptional family&#39;s last hope.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/coHgeUp38m0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/CaimKeDcudo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -365,26 +393,30 @@ A group of toy store employees must protect each other from a horde of parasite 
 	
 
 	
-	
-	
 
 	
 	
 
-### Pups Alone
-*Released on 2021-11-19, vote average 5.8*
+### House of Gucci
+*Released on 2021-11-24, vote average 2*
 
-After receiving an exciting new job opportunity at a cutting edge Pet Invention company, Robert, his teenage daughter Jenna and their trusty and special border collie Charlie make the move to the new neighborhood, right before Christmas. Upon arriving, Robert meets his gorgeous next door neighbor Holly, and her sassy and spunky border collie Gidget. Before the sparks can fly, they are set upon my Robert’s conniving and obnoxious next door neighbor and project manager Victor, his neighborhood bully bulldog “Vinnie P” and the sycophantic sidekick Chihuahua “Jose”.
+The true story of how Patrizia Reggiani plotted to kill her husband Maurizio Gucci, the grandson of renowned fashion designer Guccio Gucci.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/P5RfSoHnnUk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/rd2w82j7XS8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
 	
 
 	
