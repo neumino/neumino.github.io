@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Clifford the Big Red Dog
-*Released on 2021-11-10, vote average 8*
+*Released on 2021-11-10, vote average 7.9*
 
 As Emily struggles to fit in at home and at school, she discovers a small red puppy who is destined to become her best friend. When Clifford magically undergoes one heck of a growth spurt, becomes a gigantic dog and attracts the attention of a genetics company, Emily and her Uncle Casey have to fight the forces of greed as they go on the run across New York City. Along the way, Clifford affects the lives of everyone around him and teaches Emily and her uncle the true meaning of acceptance and unconditional love.
 
@@ -69,7 +69,7 @@ Ex-cop James Malone is serving a life sentence for a crime he didn’t commit. H
 	
 
 ### Home Sweet Home Alone
-*Released on 2021-11-12, vote average 5.7*
+*Released on 2021-11-12, vote average 5.6*
 
 After being left at home by himself for the holidays, 10-year-old Max Mercer must work to defend his home from a married couple who tries to steal back a valuable heirloom.
 
@@ -81,13 +81,6 @@ After being left at home by himself for the holidays, 10-year-old Max Mercer mus
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -134,7 +127,7 @@ With his best friend Luca away at school, Alberto is enjoying his new life in Po
 	
 
 ### Ghostbusters: Afterlife
-*Released on 2021-11-11, vote average 8*
+*Released on 2021-11-11, vote average 7.6*
 
 When a single mom and her two kids arrive in a small town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.
 
@@ -146,6 +139,42 @@ When a single mom and her two kids arrive in a small town, they begin to discove
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Never Back Down: Revolt
+*Released on 2021-11-15, vote average 6*
+
+Centers on a woman who is kidnapped and forced to compete in elite underground fights and has to battle her way out to freedom.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/SZ8X3uF1FQM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -177,37 +206,8 @@ This sequel to &#34;Happiness is a Four-Letter Word&#34; finds Zaza, Princess an
 	
 	
 
-### Never Back Down: Revolt
-*Released on 2021-11-15, vote average 4.7*
-
-Centers on a woman who is kidnapped and forced to compete in elite underground fights and has to battle her way out to freedom.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/SZ8X3uF1FQM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
 ### King Richard
-*Released on 2021-11-18, vote average 7.2*
+*Released on 2021-11-18, vote average 7.4*
 
 The TRUE STORY of how Richard Williams served as a coach to his daughters Venus and Serena, who will soon become two of the most legendary tennis players in history.
 
@@ -251,7 +251,7 @@ Called to Rome to stop an imminent terrorist bombing, a soldier desperately seek
 	
 
 ### The Princess Switch 3: Romancing the Star
-*Released on 2021-11-18, vote average 7*
+*Released on 2021-11-18, vote average 7.1*
 
 When a priceless relic is stolen, Queen Margaret and Princess Stacy enlist the help of Margaret’s audacious look-alike cousin Fiona again who teams with a dashing, mysterious man from her past to retrieve it, rekindling the sparks of a tantalizing Christmas romance and resulting in a very unexpected switch.
 
@@ -264,6 +264,33 @@ When a priceless relic is stolen, Queen Margaret and Princess Stacy enlist the h
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Just Short of Perfect
+*Released on 2021-11-18, vote average 5.8*
+
+A divorced lawyer falls for a charismatic cardiologist. But when their difference in size leads to family friction, is she ready to listen to her heart?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LXSQed_-84g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -292,45 +319,6 @@ Jackie Justice is a mixed martial arts fighter who leaves the sport in disgrace.
 
 
 	
-	
-
-### Black Friday
-*Released on 2021-11-19, vote average 9*
-
-A group of toy store employees must protect each other from a horde of parasite infected shoppers.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/coHgeUp38m0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Just Short of Perfect
-*Released on 2021-11-18, vote average 5.4*
-
-A divorced lawyer falls for a charismatic cardiologist. But when their difference in size leads to family friction, is she ready to listen to her heart?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LXSQed_-84g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -344,7 +332,7 @@ A divorced lawyer falls for a charismatic cardiologist. But when their differenc
 	
 
 ### The Power of the Dog
-*Released on 2021-11-17, vote average 8*
+*Released on 2021-11-17, vote average 7.8*
 
 A domineering, magnetic rancher responds with mocking cruelty when his brother brings home a new wife and her son, until the unexpected comes to pass.
 
@@ -356,13 +344,6 @@ A domineering, magnetic rancher responds with mocking cruelty when his brother b
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -400,19 +381,36 @@ The tale of an extraordinary family, the Madrigals, who live hidden in the mount
 ### House of Gucci
 *Released on 2021-11-24, vote average 2*
 
-The true story of how Patrizia Reggiani plotted to kill her husband Maurizio Gucci, the grandson of renowned fashion designer Guccio Gucci.
+When Patrizia Reggiani, an outsider from humble beginnings, marries into the Gucci family, her unbridled ambition begins to unravel the family legacy and triggers a reckless spiral of betrayal, decadence, revenge, and ultimately…murder.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/rd2w82j7XS8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/yCNn1Q4_vys?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
 	
 
+	
+	
+
+### The King&#39;s Man
+*Released on 2021-11-22, vote average 1*
+
+As a collection of history&#39;s worst tyrants and criminal masterminds gather to plot a war to wipe out millions, one man must race against time to stop them.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5A_wi6TiwBs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
