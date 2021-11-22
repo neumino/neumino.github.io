@@ -118,16 +118,9 @@ With his best friend Luca away at school, Alberto is enjoying his new life in Po
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Ghostbusters: Afterlife
-*Released on 2021-11-11, vote average 7.6*
+*Released on 2021-11-11, vote average 7.8*
 
 When a single mom and her two kids arrive in a small town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.
 
@@ -156,7 +149,7 @@ When a single mom and her two kids arrive in a small town, they begin to discove
 	
 
 ### Never Back Down: Revolt
-*Released on 2021-11-15, vote average 6*
+*Released on 2021-11-15, vote average 6.6*
 
 Centers on a woman who is kidnapped and forced to compete in elite underground fights and has to battle her way out to freedom.
 
@@ -175,6 +168,28 @@ Centers on a woman who is kidnapped and forced to compete in elite underground f
 
 
 	
+	
+	
+
+  
+
+
+	
+	
+
+### King Richard
+*Released on 2021-11-18, vote average 8*
+
+The TRUE STORY of how Richard Williams served as a coach to his daughters Venus and Serena, who will soon become two of the most legendary tennis players in history.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_6bsugyNpDU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -206,30 +221,8 @@ This sequel to &#34;Happiness is a Four-Letter Word&#34; finds Zaza, Princess an
 	
 	
 
-### King Richard
-*Released on 2021-11-18, vote average 7.4*
-
-The TRUE STORY of how Richard Williams served as a coach to his daughters Venus and Serena, who will soon become two of the most legendary tennis players in history.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/_6bsugyNpDU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Zeros and Ones
-*Released on 2021-11-18, vote average 6*
+*Released on 2021-11-18, vote average 5.8*
 
 Called to Rome to stop an imminent terrorist bombing, a soldier desperately seeks news of his imprisoned brother — a rebel with knowledge that could thwart the attack. Navigating the capital&#39;s darkened streets, he races to a series of ominous encounters to keep the Vatican from being blown to bits.
 
@@ -251,7 +244,7 @@ Called to Rome to stop an imminent terrorist bombing, a soldier desperately seek
 	
 
 ### The Princess Switch 3: Romancing the Star
-*Released on 2021-11-18, vote average 7.1*
+*Released on 2021-11-18, vote average 6.9*
 
 When a priceless relic is stolen, Queen Margaret and Princess Stacy enlist the help of Margaret’s audacious look-alike cousin Fiona again who teams with a dashing, mysterious man from her past to retrieve it, rekindling the sparks of a tantalizing Christmas romance and resulting in a very unexpected switch.
 
@@ -273,7 +266,7 @@ When a priceless relic is stolen, Queen Margaret and Princess Stacy enlist the h
 	
 
 ### Just Short of Perfect
-*Released on 2021-11-18, vote average 5.8*
+*Released on 2021-11-18, vote average 5.9*
 
 A divorced lawyer falls for a charismatic cardiologist. But when their difference in size leads to family friction, is she ready to listen to her heart?
 
@@ -292,23 +285,18 @@ A divorced lawyer falls for a charismatic cardiologist. But when their differenc
 
 
 	
-
-  
-
-
-	
 	
 
-### Bruised
-*Released on 2021-11-17, vote average 7*
+### A House on the Bayou
+*Released on 2021-11-19, vote average 2*
 
-Jackie Justice is a mixed martial arts fighter who leaves the sport in disgrace. Down on her luck and simmering with rage and regret years after the fight, she&#39;s coaxed into a brutal underground fight by her manager and boyfriend Desi and grabs the attention of a fight league promoter who promises Jackie a life back in the Octagon. But the road to redemption becomes unexpectedly personal when Manny - the son she gave up as an infant - shows up at her doorstep. A triumphant story of a fighter who reclaims her power, in and out of the ring, when everyone has counted her out
+In an effort to reconnect and mend their relationship, a troubled couple and their preteen daughter seek an idyllic getaway to a remote mansion in rural Louisiana. But when unexpected visitors arrive, their facade of family unity starts to unravel, as terrifying secrets come to light.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/EMu8K0l8ggA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/8lqWoF3YrvM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -319,10 +307,44 @@ Jackie Justice is a mixed martial arts fighter who leaves the sport in disgrace.
 
 
 	
+	
+
+### The King&#39;s Man
+*Released on 2021-11-22, vote average 1*
+
+As a collection of history&#39;s worst tyrants and criminal masterminds gather to plot a war to wipe out millions, one man must race against time to stop them.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5A_wi6TiwBs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
+	
+	
+
+### Hide and Seek
+*Released on 2021-11-19, vote average 2*
+
+When a wealthy businessman follows a lead to find his missing brother, he dives headlong into a twisted underworld of squatters and vagrants that threatens to tear apart his family as he struggles to maintain his sanity.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/bE3dMvPUEko?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -332,7 +354,7 @@ Jackie Justice is a mixed martial arts fighter who leaves the sport in disgrace.
 	
 
 ### The Power of the Dog
-*Released on 2021-11-17, vote average 7.8*
+*Released on 2021-11-17, vote average 7.3*
 
 A domineering, magnetic rancher responds with mocking cruelty when his brother brings home a new wife and her son, until the unexpected comes to pass.
 
@@ -350,6 +372,50 @@ A domineering, magnetic rancher responds with mocking cruelty when his brother b
   
 
 
+	
+	
+
+### Dhamaka
+*Released on 2021-11-19, vote average 7.1*
+
+When a cynical ex-TV news anchor gets an alarming call on his radio show, he sees a chance for a career comeback — but it may cost his conscience.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qRESnWFYYho?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Love Me Instead
+*Released on 2021-11-19, vote average 7.8*
+
+Accompanied by a ward, a prisoner travels to his hometown to reconnect with his daughter and make amends, but a tragic truth mars his journey.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vDflHvmB-D4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -358,7 +424,7 @@ A domineering, magnetic rancher responds with mocking cruelty when his brother b
 	
 
 ### Encanto
-*Released on 2021-11-24, vote average 6*
+*Released on 2021-11-24, vote average 7*
 
 The tale of an extraordinary family, the Madrigals, who live hidden in the mountains of Colombia, in a magical house, in a vibrant town, in a wondrous, charmed place called an Encanto. The magic of the Encanto has blessed every child in the family with a unique gift from super strength to the power to heal—every child except one, Mirabel. But when she discovers that the magic surrounding the Encanto is in danger, Mirabel decides that she, the only ordinary Madrigal, might just be her exceptional family&#39;s last hope.
 
@@ -373,6 +439,23 @@ The tale of an extraordinary family, the Madrigals, who live hidden in the mount
 	
 	
 
+	
+	
+
+### Resident Evil: Welcome to Raccoon City
+*Released on 2021-11-24, vote average 6.9*
+
+Once the booming home of pharmaceutical giant Umbrella Corporation, Raccoon City is now a dying Midwestern town. The company’s exodus left the city a wasteland…with great evil brewing below the surface. When that evil is unleashed, the townspeople are forever…changed…and a small group of survivors must work together to uncover the truth behind Umbrella and make it through the night.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IQqqAWMIIAQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -414,13 +497,47 @@ As a collection of history&#39;s worst tyrants and criminal masterminds gather t
 	
 
 	
+	
 
+### The Unforgivable
+*Released on 2021-11-24, vote average 2*
+
+Released from prison into a society that won&#39;t forgive her past, a woman seeks redemption by searching for the sister she left behind.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/JNUjx7LZoiU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
 
 	
 
+	
+
+	
+	
+
+### Son
+*Released on 2021-11-25, vote average 5*
+
+When a young boy contracts a mysterious illness, his mother must decide how far she will go to protect him from terrifying forces in her past.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/OxwA_E0ywUs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
