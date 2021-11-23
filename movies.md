@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Clifford the Big Red Dog
-*Released on 2021-11-10, vote average 7.9*
+*Released on 2021-11-10, vote average 7.8*
 
 As Emily struggles to fit in at home and at school, she discovers a small red puppy who is destined to become her best friend. When Clifford magically undergoes one heck of a growth spurt, becomes a gigantic dog and attracts the attention of a genetics company, Emily and her Uncle Casey have to fight the forces of greed as they go on the run across New York City. Along the way, Clifford affects the lives of everyone around him and teaches Emily and her uncle the true meaning of acceptance and unconditional love.
 
@@ -47,7 +47,7 @@ As Emily struggles to fit in at home and at school, she discovers a small red pu
 	
 
 ### Apex
-*Released on 2021-11-12, vote average 5.6*
+*Released on 2021-11-12, vote average 5.7*
 
 Ex-cop James Malone is serving a life sentence for a crime he didn’t commit. He is offered a chance at freedom if he can survive a deadly game of Apex, in which six hunters pay for the pleasure of hunting another human on a remote island. He accepts, and once he arrives, all hell breaks loose.
 
@@ -69,7 +69,7 @@ Ex-cop James Malone is serving a life sentence for a crime he didn’t commit. H
 	
 
 ### Home Sweet Home Alone
-*Released on 2021-11-12, vote average 5.6*
+*Released on 2021-11-12, vote average 5.5*
 
 After being left at home by himself for the holidays, 10-year-old Max Mercer must work to defend his home from a married couple who tries to steal back a valuable heirloom.
 
@@ -91,7 +91,7 @@ After being left at home by himself for the holidays, 10-year-old Max Mercer mus
 	
 
 ### Ciao Alberto
-*Released on 2021-11-12, vote average 7.8*
+*Released on 2021-11-12, vote average 7.7*
 
 With his best friend Luca away at school, Alberto is enjoying his new life in Portorosso working alongside Massimo - the imposing, tattooed, one-armed fisherman of a few words - who&#39;s quite possibly the coolest human in the entire world as far as Alberto is concerned. He wants more than anything to impress his mentor, but it&#39;s easier said than done.
 
@@ -120,7 +120,7 @@ With his best friend Luca away at school, Alberto is enjoying his new life in Po
 	
 
 ### Ghostbusters: Afterlife
-*Released on 2021-11-11, vote average 7.8*
+*Released on 2021-11-11, vote average 7.6*
 
 When a single mom and her two kids arrive in a small town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.
 
@@ -149,7 +149,7 @@ When a single mom and her two kids arrive in a small town, they begin to discove
 	
 
 ### Never Back Down: Revolt
-*Released on 2021-11-15, vote average 6.6*
+*Released on 2021-11-15, vote average 6.5*
 
 Centers on a woman who is kidnapped and forced to compete in elite underground fights and has to battle her way out to freedom.
 
@@ -178,7 +178,7 @@ Centers on a woman who is kidnapped and forced to compete in elite underground f
 	
 
 ### King Richard
-*Released on 2021-11-18, vote average 8*
+*Released on 2021-11-18, vote average 8.1*
 
 The TRUE STORY of how Richard Williams served as a coach to his daughters Venus and Serena, who will soon become two of the most legendary tennis players in history.
 
@@ -199,30 +199,8 @@ The TRUE STORY of how Richard Williams served as a coach to his daughters Venus 
 	
 	
 
-### Happiness Ever After
-*Released on 2021-11-10, vote average 7.6*
-
-This sequel to &#34;Happiness is a Four-Letter Word&#34; finds Zaza, Princess and Zim living new chapters of their lives amid loss, family grudges and new love.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/GhGzYbUK5Jw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Zeros and Ones
-*Released on 2021-11-18, vote average 5.8*
+*Released on 2021-11-18, vote average 5.5*
 
 Called to Rome to stop an imminent terrorist bombing, a soldier desperately seeks news of his imprisoned brother — a rebel with knowledge that could thwart the attack. Navigating the capital&#39;s darkened streets, he races to a series of ominous encounters to keep the Vatican from being blown to bits.
 
@@ -244,7 +222,7 @@ Called to Rome to stop an imminent terrorist bombing, a soldier desperately seek
 	
 
 ### The Princess Switch 3: Romancing the Star
-*Released on 2021-11-18, vote average 6.9*
+*Released on 2021-11-18, vote average 7.3*
 
 When a priceless relic is stolen, Queen Margaret and Princess Stacy enlist the help of Margaret’s audacious look-alike cousin Fiona again who teams with a dashing, mysterious man from her past to retrieve it, rekindling the sparks of a tantalizing Christmas romance and resulting in a very unexpected switch.
 
@@ -287,38 +265,16 @@ A divorced lawyer falls for a charismatic cardiologist. But when their differenc
 	
 	
 
-### A House on the Bayou
-*Released on 2021-11-19, vote average 2*
+### Happiness Ever After
+*Released on 2021-11-10, vote average 7.6*
 
-In an effort to reconnect and mend their relationship, a troubled couple and their preteen daughter seek an idyllic getaway to a remote mansion in rural Louisiana. But when unexpected visitors arrive, their facade of family unity starts to unravel, as terrifying secrets come to light.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8lqWoF3YrvM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The King&#39;s Man
-*Released on 2021-11-22, vote average 1*
-
-As a collection of history&#39;s worst tyrants and criminal masterminds gather to plot a war to wipe out millions, one man must race against time to stop them.
+This sequel to &#34;Happiness is a Four-Letter Word&#34; finds Zaza, Princess and Zim living new chapters of their lives amid loss, family grudges and new love.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/5A_wi6TiwBs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/GhGzYbUK5Jw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -353,30 +309,8 @@ When a wealthy businessman follows a lead to find his missing brother, he dives 
 	
 	
 
-### The Power of the Dog
-*Released on 2021-11-17, vote average 7.3*
-
-A domineering, magnetic rancher responds with mocking cruelty when his brother brings home a new wife and her son, until the unexpected comes to pass.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LRDPo0CHrko?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Dhamaka
-*Released on 2021-11-19, vote average 7.1*
+*Released on 2021-11-19, vote average 6.5*
 
 When a cynical ex-TV news anchor gets an alarming call on his radio show, he sees a chance for a career comeback — but it may cost his conscience.
 
@@ -398,9 +332,9 @@ When a cynical ex-TV news anchor gets an alarming call on his radio show, he see
 	
 
 ### Love Me Instead
-*Released on 2021-11-19, vote average 7.8*
+*Released on 2021-11-19, vote average 7.2*
 
-Accompanied by a ward, a prisoner travels to his hometown to reconnect with his daughter and make amends, but a tragic truth mars his journey.
+One day, Sedat, who works as a prison guard in Konya, is given the duty to take one of the prisoners, Musa, to his hometown. Musa does not intend to return until he finds out why his daughter was killed.
 
 <iframe id="player"
 	type="text/html"
@@ -411,6 +345,38 @@ Accompanied by a ward, a prisoner travels to his hometown to reconnect with his 
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### tick, tick...BOOM!
+*Released on 2021-11-11, vote average 8*
+
+On the cusp of his 30th birthday, Jonathon Larson, a promising young theater composer navigates love, friendship, and the pressures of life as an artist in New York City.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kCt1MWLel1Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -462,7 +428,7 @@ Once the booming home of pharmaceutical giant Umbrella Corporation, Raccoon City
 	
 
 ### House of Gucci
-*Released on 2021-11-24, vote average 2*
+*Released on 2021-11-24, vote average 1.5*
 
 When Patrizia Reggiani, an outsider from humble beginnings, marries into the Gucci family, her unbridled ambition begins to unravel the family legacy and triggers a reckless spiral of betrayal, decadence, revenge, and ultimately…murder.
 
@@ -471,25 +437,6 @@ When Patrizia Reggiani, an outsider from humble beginnings, marries into the Guc
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/yCNn1Q4_vys?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### The King&#39;s Man
-*Released on 2021-11-22, vote average 1*
-
-As a collection of history&#39;s worst tyrants and criminal masterminds gather to plot a war to wipe out millions, one man must race against time to stop them.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/5A_wi6TiwBs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -516,12 +463,6 @@ Released from prison into a society that won&#39;t forgive her past, a woman see
 	
 
 	
-
-	
-
-	
-
-	
 	
 
 ### Son
@@ -538,6 +479,14 @@ When a young boy contracts a mysterious illness, his mother must decide how far 
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
 	
 
 	
