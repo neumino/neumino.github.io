@@ -49,35 +49,13 @@ As Emily struggles to fit in at home and at school, she discovers a small red pu
 ### Apex
 *Released on 2021-11-12, vote average 5.7*
 
-Ex-cop James Malone is serving a life sentence for a crime he didn’t commit. He is offered a chance at freedom if he can survive a deadly game of Apex, in which six hunters pay for the pleasure of hunting another human on a remote island. He accepts, and once he arrives, all hell breaks loose.
+Ex-cop Thomas Malone is serving a life sentence for a crime he didn’t commit. He is offered a chance at freedom if he can survive a deadly game of Apex, in which six hunters pay for the pleasure of hunting another human on a remote island. He accepts, and once he arrives, all hell breaks loose.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/Pompk1znaIw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Home Sweet Home Alone
-*Released on 2021-11-12, vote average 5.5*
-
-After being left at home by himself for the holidays, 10-year-old Max Mercer must work to defend his home from a married couple who tries to steal back a valuable heirloom.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FOXW8ur2jr4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -111,24 +89,17 @@ With his best friend Luca away at school, Alberto is enjoying his new life in Po
 
 	
 	
-	
 
-  
+### Home Sweet Home Alone
+*Released on 2021-11-12, vote average 5.6*
 
-
-	
-	
-
-### Ghostbusters: Afterlife
-*Released on 2021-11-11, vote average 7.6*
-
-When a single mom and her two kids arrive in a small town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.
+After being left at home by himself for the holidays, 10-year-old Max Mercer must work to defend his home from a married couple who tries to steal back a valuable heirloom.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/lnKmAVLC3jU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/FOXW8ur2jr4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -148,8 +119,52 @@ When a single mom and her two kids arrive in a small town, they begin to discove
 	
 	
 
+### Encanto
+*Released on 2021-11-24, vote average 5.7*
+
+The tale of an extraordinary family, the Madrigals, who live hidden in the mountains of Colombia, in a magical house, in a vibrant town, in a wondrous, charmed place called an Encanto. The magic of the Encanto has blessed every child in the family with a unique gift from super strength to the power to heal—every child except one, Mirabel. But when she discovers that the magic surrounding the Encanto is in danger, Mirabel decides that she, the only ordinary Madrigal, might just be her exceptional family&#39;s last hope.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/CaimKeDcudo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Ghostbusters: Afterlife
+*Released on 2021-11-11, vote average 7.7*
+
+When a single mom and her two kids arrive in a small town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/lnKmAVLC3jU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Never Back Down: Revolt
-*Released on 2021-11-15, vote average 6.5*
+*Released on 2021-11-15, vote average 6.4*
 
 Centers on a woman who is kidnapped and forced to compete in elite underground fights and has to battle her way out to freedom.
 
@@ -176,9 +191,16 @@ Centers on a woman who is kidnapped and forced to compete in elite underground f
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### King Richard
-*Released on 2021-11-18, vote average 8.1*
+*Released on 2021-11-18, vote average 8.2*
 
 The TRUE STORY of how Richard Williams served as a coach to his daughters Venus and Serena, who will soon become two of the most legendary tennis players in history.
 
@@ -200,7 +222,7 @@ The TRUE STORY of how Richard Williams served as a coach to his daughters Venus 
 	
 
 ### Zeros and Ones
-*Released on 2021-11-18, vote average 5.5*
+*Released on 2021-11-18, vote average 5.6*
 
 Called to Rome to stop an imminent terrorist bombing, a soldier desperately seeks news of his imprisoned brother — a rebel with knowledge that could thwart the attack. Navigating the capital&#39;s darkened streets, he races to a series of ominous encounters to keep the Vatican from being blown to bits.
 
@@ -243,8 +265,30 @@ When a priceless relic is stolen, Queen Margaret and Princess Stacy enlist the h
 	
 	
 
+### Resident Evil: Welcome to Raccoon City
+*Released on 2021-11-24, vote average 6.9*
+
+Once the booming home of pharmaceutical giant Umbrella Corporation, Raccoon City is now a dying Midwestern town. The company’s exodus left the city a wasteland…with great evil brewing below the surface. When that evil is unleashed, the townspeople are forever…changed…and a small group of survivors must work together to uncover the truth behind Umbrella and make it through the night.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IQqqAWMIIAQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Just Short of Perfect
-*Released on 2021-11-18, vote average 5.9*
+*Released on 2021-11-18, vote average 6*
 
 A divorced lawyer falls for a charismatic cardiologist. But when their difference in size leads to family friction, is she ready to listen to her heart?
 
@@ -253,6 +297,50 @@ A divorced lawyer falls for a charismatic cardiologist. But when their differenc
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/LXSQed_-84g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### House of Gucci
+*Released on 2021-11-24, vote average 7.4*
+
+When Patrizia Reggiani, an outsider from humble beginnings, marries into the Gucci family, her unbridled ambition begins to unravel the family legacy and triggers a reckless spiral of betrayal, decadence, revenge, and ultimately…murder.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/M-ryepMZ5aY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Dhamaka
+*Released on 2021-11-19, vote average 6.7*
+
+When a cynical ex-TV news anchor gets an alarming call on his radio show, he sees a chance for a career comeback — but it may cost his conscience.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qRESnWFYYho?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -287,38 +375,16 @@ This sequel to &#34;Happiness is a Four-Letter Word&#34; finds Zaza, Princess an
 	
 	
 
-### Hide and Seek
-*Released on 2021-11-19, vote average 2*
+### tick, tick...BOOM!
+*Released on 2021-11-11, vote average 8.1*
 
-When a wealthy businessman follows a lead to find his missing brother, he dives headlong into a twisted underworld of squatters and vagrants that threatens to tear apart his family as he struggles to maintain his sanity.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/bE3dMvPUEko?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Dhamaka
-*Released on 2021-11-19, vote average 6.5*
-
-When a cynical ex-TV news anchor gets an alarming call on his radio show, he sees a chance for a career comeback — but it may cost his conscience.
+On the cusp of his 30th birthday, Jonathon Larson, a promising young theater composer, navigates love, friendship, and the pressures of life as an artist in New York City.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/qRESnWFYYho?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/kCt1MWLel1Q?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -332,7 +398,7 @@ When a cynical ex-TV news anchor gets an alarming call on his radio show, he see
 	
 
 ### Love Me Instead
-*Released on 2021-11-19, vote average 7.2*
+*Released on 2021-11-19, vote average 7.4*
 
 One day, Sedat, who works as a prison guard in Konya, is given the duty to take one of the prisoners, Musa, to his hometown. Musa does not intend to return until he finds out why his daughter was killed.
 
@@ -350,38 +416,6 @@ One day, Sedat, who works as a prison guard in Konya, is given the duty to take 
   
 
 
-	
-	
-
-### tick, tick...BOOM!
-*Released on 2021-11-11, vote average 8*
-
-On the cusp of his 30th birthday, Jonathon Larson, a promising young theater composer navigates love, friendship, and the pressures of life as an artist in New York City.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kCt1MWLel1Q?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -390,7 +424,7 @@ On the cusp of his 30th birthday, Jonathon Larson, a promising young theater com
 	
 
 ### Encanto
-*Released on 2021-11-24, vote average 7*
+*Released on 2021-11-24, vote average 5.7*
 
 The tale of an extraordinary family, the Madrigals, who live hidden in the mountains of Colombia, in a magical house, in a vibrant town, in a wondrous, charmed place called an Encanto. The magic of the Encanto has blessed every child in the family with a unique gift from super strength to the power to heal—every child except one, Mirabel. But when she discovers that the magic surrounding the Encanto is in danger, Mirabel decides that she, the only ordinary Madrigal, might just be her exceptional family&#39;s last hope.
 
@@ -428,7 +462,7 @@ Once the booming home of pharmaceutical giant Umbrella Corporation, Raccoon City
 	
 
 ### House of Gucci
-*Released on 2021-11-24, vote average 1.5*
+*Released on 2021-11-24, vote average 7.4*
 
 When Patrizia Reggiani, an outsider from humble beginnings, marries into the Gucci family, her unbridled ambition begins to unravel the family legacy and triggers a reckless spiral of betrayal, decadence, revenge, and ultimately…murder.
 
@@ -436,7 +470,7 @@ When Patrizia Reggiani, an outsider from humble beginnings, marries into the Guc
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/yCNn1Q4_vys?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/M-ryepMZ5aY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -463,6 +497,58 @@ Released from prison into a society that won&#39;t forgive her past, a woman see
 	
 
 	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Happening
+*Released on 2021-11-24, vote average 8.3*
+
+An adaptation of Annie Ernaux&#39;s eponymous novel, looking back on her experience with abortion when it was still illegal in France in the 1960s.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/HGe_O7Ll3HY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### JFK Revisited: Through The Looking Glass
+*Released on 2021-11-26, vote average 8*
+
+Thirty years after his film JFK, filmmaker Oliver Stone takes viewers on a journey though recently declassified evidence in the assassination of President Kennedy - the most consequential American murder mystery of the twentieth century. Joined by Oscar-winning narrators Whoopi Goldberg and Donald Sutherland, as well as a distinguished team of forensics, medical and ballistics experts, historians, and witnesses, Stone presents compelling evidence that in the Kennedy case “conspiracy theory” is now “conspiracy fact.”
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KH3F7rT_eNQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
 	
 
 ### Son
@@ -479,24 +565,6 @@ When a young boy contracts a mysterious illness, his mother must decide how far 
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
