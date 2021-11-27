@@ -11,6 +11,21 @@ This is a convenient page that embeds trailers of movies released in the past
 
 	
 	
+
+### Never Back Down: Revolt
+*Released on 2021-11-15, vote average 6.9*
+
+An amateur fighter is lured by a trafficking syndicate specializing in elite underground fighting where her brutal captor forces her to fight or face certain death.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/SZ8X3uF1FQM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -31,74 +46,8 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Ciao Alberto
-*Released on 2021-11-12, vote average 7.7*
-
-With his best friend Luca away at school, Alberto is enjoying his new life in Portorosso working alongside Massimo - the imposing, tattooed, one-armed fisherman of a few words - who&#39;s quite possibly the coolest human in the entire world as far as Alberto is concerned. He wants more than anything to impress his mentor, but it&#39;s easier said than done.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/KJZS7oXX5SE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Apex
-*Released on 2021-11-12, vote average 5.7*
-
-Ex-cop Thomas Malone is serving a life sentence for a crime he didn’t commit. He is offered a chance at freedom if he can survive a deadly game of Apex, in which six hunters pay for the pleasure of hunting another human on a remote island. He accepts, and once he arrives, all hell breaks loose.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Pompk1znaIw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Never Back Down: Revolt
-*Released on 2021-11-15, vote average 6.6*
-
-An amateur fighter is lured by a trafficking syndicate specializing in elite underground fighting where her brutal captor forces her to fight or face certain death.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/SZ8X3uF1FQM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Encanto
-*Released on 2021-11-24, vote average 7.3*
+*Released on 2021-11-24, vote average 7.9*
 
 The tale of an extraordinary family, the Madrigals, who live hidden in the mountains of Colombia, in a magical house, in a vibrant town, in a wondrous, charmed place called an Encanto. The magic of the Encanto has blessed every child in the family with a unique gift from super strength to the power to heal—every child except one, Mirabel. But when she discovers that the magic surrounding the Encanto is in danger, Mirabel decides that she, the only ordinary Madrigal, might just be her exceptional family&#39;s last hope.
 
@@ -107,28 +56,6 @@ The tale of an extraordinary family, the Madrigals, who live hidden in the mount
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/CaimKeDcudo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Home Sweet Home Alone
-*Released on 2021-11-12, vote average 5.5*
-
-After being left at home by himself for the holidays, 10-year-old Max Mercer must work to defend his home from a married couple who tries to steal back a valuable heirloom.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FOXW8ur2jr4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -164,7 +91,7 @@ Called to Rome to stop an imminent terrorist bombing, a soldier desperately seek
 	
 
 ### The Princess Switch 3: Romancing the Star
-*Released on 2021-11-18, vote average 7.3*
+*Released on 2021-11-18, vote average 7.4*
 
 When a priceless relic is stolen, Queen Margaret and Princess Stacy enlist the help of Margaret’s audacious look-alike cousin Fiona again who teams with a dashing, mysterious man from her past to retrieve it, rekindling the sparks of a tantalizing Christmas romance and resulting in a very unexpected switch.
 
@@ -183,6 +110,21 @@ When a priceless relic is stolen, Queen Margaret and Princess Stacy enlist the h
 
 
 	
+	
+
+### Resident Evil: Welcome to Raccoon City
+*Released on 2021-11-24, vote average 6.3*
+
+Once the booming home of pharmaceutical giant Umbrella Corporation, Raccoon City is now a dying Midwestern town. The company’s exodus left the city a wasteland…with great evil brewing below the surface. When that evil is unleashed, the townspeople are forever…changed…and a small group of survivors must work together to uncover the truth behind Umbrella and make it through the night.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IQqqAWMIIAQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -214,30 +156,8 @@ The TRUE STORY of how Richard Williams served as a coach to his daughters Venus 
 	
 	
 
-### Resident Evil: Welcome to Raccoon City
-*Released on 2021-11-24, vote average 6.7*
-
-Once the booming home of pharmaceutical giant Umbrella Corporation, Raccoon City is now a dying Midwestern town. The company’s exodus left the city a wasteland…with great evil brewing below the surface. When that evil is unleashed, the townspeople are forever…changed…and a small group of survivors must work together to uncover the truth behind Umbrella and make it through the night.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IQqqAWMIIAQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### House of Gucci
-*Released on 2021-11-24, vote average 7.5*
+*Released on 2021-11-24, vote average 7.4*
 
 When Patrizia Reggiani, an outsider from humble beginnings, marries into the Gucci family, her unbridled ambition begins to unravel the family legacy and triggers a reckless spiral of betrayal, decadence, revenge, and ultimately…murder.
 
@@ -258,30 +178,8 @@ When Patrizia Reggiani, an outsider from humble beginnings, marries into the Guc
 	
 	
 
-### Just Short of Perfect
-*Released on 2021-11-18, vote average 6*
-
-A divorced lawyer falls for a charismatic cardiologist. But when their difference in size leads to family friction, is she ready to listen to her heart?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LXSQed_-84g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Dhamaka
-*Released on 2021-11-19, vote average 7.2*
+*Released on 2021-11-19, vote average 7.1*
 
 When a cynical ex-TV news anchor gets an alarming call on his radio show, he sees a chance for a career comeback — but it may cost his conscience.
 
@@ -324,8 +222,30 @@ One day, Sedat, who works as a prison guard in Konya, is given the duty to take 
 	
 	
 
+### Just Short of Perfect
+*Released on 2021-11-18, vote average 6.1*
+
+A divorced lawyer falls for a charismatic cardiologist. But when their difference in size leads to family friction, is she ready to listen to her heart?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LXSQed_-84g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Black Friday
-*Released on 2021-11-19, vote average 5.7*
+*Released on 2021-11-19, vote average 5.5*
 
 A group of toy store employees must protect each other from a horde of parasite infected shoppers.
 
@@ -346,43 +266,16 @@ A group of toy store employees must protect each other from a horde of parasite 
 	
 	
 
-### The Unforgivable
-*Released on 2021-11-24, vote average 2*
+### South Park: Post Covid
+*Released on 2021-11-25, vote average 7*
 
-Released from prison into a society that won&#39;t forgive her past, a woman seeks redemption by searching for the sister she left behind.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/JNUjx7LZoiU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Jonas Brothers Family Roast
-*Released on 2021-11-23, vote average 7.3*
-
-A comedy roast of the pop band Jonas Brothers includes sketches, songs, games, and special guests.
+What happened to the children who lived through the Pandemic? Stan, Kyle, Cartman and Kenny survived but will never be the same Post Covid.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ocQZd8L2UYc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/DhVsTHZvOPw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -396,7 +289,7 @@ A comedy roast of the pop band Jonas Brothers includes sketches, songs, games, a
 	
 
 ### A Boy Called Christmas
-*Released on 2021-11-25, vote average 8.3*
+*Released on 2021-11-25, vote average 8*
 
 An ordinary young boy called Nikolas sets out on an extraordinary adventure into the snowy north in search of his father who is on a quest to discover the fabled village of the elves, Elfhelm. Taking with him a headstrong reindeer called Blitzen and a loyal pet mouse, Nikolas soon meets his destiny in this magical and endearing story that proves nothing is impossible…
 
@@ -414,11 +307,93 @@ An ordinary young boy called Nikolas sets out on an extraordinary adventure into
   
 
 
+	
+	
 
-## Opening soon
+### The Humans
+*Released on 2021-11-24, vote average 7.9*
+
+Erik Blake has gathered three generations of his Pennsylvania family to celebrate Thanksgiving at his daughter’s apartment in lower Manhattan. As darkness falls outside and eerie things start to go bump in the night, the group’s deepest fears are laid bare.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/dnj2AKrQUac?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
 
 
 	
+	
+
+### Bruised
+*Released on 2021-11-17, vote average 7.9*
+
+Jackie Justice is a mixed martial arts fighter who leaves the sport in disgrace. Down on her luck and simmering with rage and regret years after the fight, she&#39;s coaxed into a brutal underground fight by her manager and boyfriend Desi and grabs the attention of a fight league promoter who promises Jackie a life back in the Octagon. But the road to redemption becomes unexpectedly personal when Manny - the son she gave up as an infant - shows up at her doorstep. A triumphant story of a fighter who reclaims her power, in and out of the ring, when everyone has counted her out
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EMu8K0l8ggA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### 8-Bit Christmas
+*Released on 2021-11-24, vote average 6.3*
+
+In suburban Chicago during the late 1980s, ten-year-old Jake Doyle embarks on a herculean quest to get the latest and greatest video game system for Christmas.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/CI-YWRK0VPo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Unforgivable
+*Released on 2021-11-24, vote average 1.5*
+
+Released from prison into a society that won&#39;t forgive her past, a woman seeks redemption by searching for the sister she left behind.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/JNUjx7LZoiU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
 
 	
 	
@@ -439,31 +414,86 @@ Queen Poppy plans the first annual Trolls Kingdom Secret Holiday Gift Swap, but,
 	
 	
 
-	
+  
+
 
 	
 
-	
+  
+
 
 	
 	
 
-### JFK Revisited: Through The Looking Glass
-*Released on 2021-11-26, vote average 9*
+### Licorice Pizza
+*Released on 2021-11-26, vote average 6*
 
-Thirty years after his film JFK, filmmaker Oliver Stone takes viewers on a journey though recently declassified evidence in the assassination of President Kennedy - the most consequential American murder mystery of the twentieth century. Joined by Oscar-winning narrators Whoopi Goldberg and Donald Sutherland, as well as a distinguished team of forensics, medical and ballistics experts, historians, and witnesses, Stone presents compelling evidence that in the Kennedy case “conspiracy theory” is now “conspiracy fact.”
+The story of Alana Kane and Gary Valentine growing up, running around and going through the treacherous navigation of first love in the San Fernando Valley, 1973.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/KH3F7rT_eNQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Lq4oAY-HDL0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
 	
 
+  
+
+
+
+## Opening soon
+
+
+	
+	
+
+### Sing 2
+*Released on 2021-12-01, vote average 9*
+
+Buster and his new cast now have their sights set on debuting a new show at the Crystal Tower Theater in glamorous Redshore City. But with no connections, he and his singers must sneak into the Crystal Entertainment offices, run by the ruthless wolf mogul Jimmy Crystal, where the gang pitches the ridiculous idea of casting the lion rock legend Clay Calloway in their show. Buster must embark on a quest to find the now-isolated Clay and persuade him to return to the stage.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EPZu5MA2uqI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### My Fiona
+*Released on 2021-11-27, vote average 10*
+
+Best friends for life, Jane and Fiona have done everything together since kindergarten – Jane following wherever Fiona will lead. Left devastated and adrift following Fiona’s sudden suicide, Jane’s only way to make sense of everything is by helping Fiona’s widow Gemma care for their young son Bailey. Polar-opposites, the two women have nothing in common save for their shared grief and love for Fiona.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PTI3ZRV-uBw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
