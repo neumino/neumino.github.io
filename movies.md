@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Encanto
-*Released on 2021-11-24, vote average 8.1*
+*Released on 2021-11-24, vote average 7.8*
 
 The tale of an extraordinary family, the Madrigals, who live hidden in the mountains of Colombia, in a magical house, in a vibrant town, in a wondrous, charmed place called an Encanto. The magic of the Encanto has blessed every child in the family with a unique gift from super strength to the power to heal—every child except one, Mirabel. But when she discovers that the magic surrounding the Encanto is in danger, Mirabel decides that she, the only ordinary Madrigal, might just be her exceptional family&#39;s last hope.
 
@@ -47,7 +47,7 @@ The tale of an extraordinary family, the Madrigals, who live hidden in the mount
 	
 
 ### Never Back Down: Revolt
-*Released on 2021-11-15, vote average 6.9*
+*Released on 2021-11-15, vote average 6.2*
 
 An amateur fighter is lured by a trafficking syndicate specializing in elite underground fighting where her brutal captor forces her to fight or face certain death.
 
@@ -69,7 +69,7 @@ An amateur fighter is lured by a trafficking syndicate specializing in elite und
 	
 
 ### Zeros and Ones
-*Released on 2021-11-18, vote average 5.5*
+*Released on 2021-11-18, vote average 5.3*
 
 Called to Rome to stop an imminent terrorist bombing, a soldier desperately seeks news of his imprisoned brother — a rebel with knowledge that could thwart the attack. Navigating the capital&#39;s darkened streets, he races to a series of ominous encounters to keep the Vatican from being blown to bits.
 
@@ -90,52 +90,8 @@ Called to Rome to stop an imminent terrorist bombing, a soldier desperately seek
 	
 	
 
-### The Princess Switch 3: Romancing the Star
-*Released on 2021-11-18, vote average 7.4*
-
-When a priceless relic is stolen, Queen Margaret and Princess Stacy enlist the help of Margaret’s audacious look-alike cousin Fiona again who teams with a dashing, mysterious man from her past to retrieve it, rekindling the sparks of a tantalizing Christmas romance and resulting in a very unexpected switch.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/CfXzd8fgy6Q?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Resident Evil: Welcome to Raccoon City
-*Released on 2021-11-24, vote average 6.1*
-
-Once the booming home of pharmaceutical giant Umbrella Corporation, Raccoon City is now a dying Midwestern town. The company’s exodus left the city a wasteland…with great evil brewing below the surface. When that evil is unleashed, the townspeople are forever…changed…and a small group of survivors must work together to uncover the truth behind Umbrella and make it through the night.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IQqqAWMIIAQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Dhamaka
-*Released on 2021-11-19, vote average 7*
+*Released on 2021-11-19, vote average 6.7*
 
 When a cynical ex-TV news anchor gets an alarming call on his radio show, he sees a chance for a career comeback — but it may cost his conscience.
 
@@ -156,8 +112,52 @@ When a cynical ex-TV news anchor gets an alarming call on his radio show, he see
 	
 	
 
+### Resident Evil: Welcome to Raccoon City
+*Released on 2021-11-24, vote average 6.2*
+
+Once the booming home of pharmaceutical giant Umbrella Corporation, Raccoon City is now a dying Midwestern town. The company’s exodus left the city a wasteland…with great evil brewing below the surface. When that evil is unleashed, the townspeople are forever…changed…and a small group of survivors must work together to uncover the truth behind Umbrella and make it through the night.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IQqqAWMIIAQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Princess Switch 3: Romancing the Star
+*Released on 2021-11-18, vote average 7.3*
+
+When a priceless relic is stolen, Queen Margaret and Princess Stacy enlist the help of Margaret’s audacious look-alike cousin Fiona again who teams with a dashing, mysterious man from her past to retrieve it, rekindling the sparks of a tantalizing Christmas romance and resulting in a very unexpected switch.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/CfXzd8fgy6Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### House of Gucci
-*Released on 2021-11-24, vote average 7.3*
+*Released on 2021-11-24, vote average 7.2*
 
 When Patrizia Reggiani, an outsider from humble beginnings, marries into the Gucci family, her unbridled ambition begins to unravel the family legacy and triggers a reckless spiral of betrayal, decadence, revenge, and ultimately…murder.
 
@@ -179,7 +179,7 @@ When Patrizia Reggiani, an outsider from humble beginnings, marries into the Guc
 	
 
 ### King Richard
-*Released on 2021-11-18, vote average 8.3*
+*Released on 2021-11-18, vote average 8.4*
 
 The TRUE STORY of how Richard Williams served as a coach to his daughters Venus and Serena, who will soon become two of the most legendary tennis players in history.
 
@@ -223,7 +223,7 @@ One day, Sedat, who works as a prison guard in Konya, is given the duty to take 
 	
 
 ### Just Short of Perfect
-*Released on 2021-11-18, vote average 5.9*
+*Released on 2021-11-18, vote average 6*
 
 A divorced lawyer falls for a charismatic cardiologist. But when their difference in size leads to family friction, is she ready to listen to her heart?
 
@@ -245,7 +245,7 @@ A divorced lawyer falls for a charismatic cardiologist. But when their differenc
 	
 
 ### South Park: Post Covid
-*Released on 2021-11-25, vote average 7.2*
+*Released on 2021-11-25, vote average 7.5*
 
 What happened to the children who lived through the Pandemic? Stan, Kyle, Cartman and Kenny survived but will never be the same Post Covid.
 
@@ -254,28 +254,6 @@ What happened to the children who lived through the Pandemic? Stan, Kyle, Cartma
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/M19gImHO754?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Black Friday
-*Released on 2021-11-19, vote average 5.4*
-
-A group of toy store employees must protect each other from a horde of parasite infected shoppers.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/coHgeUp38m0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -311,7 +289,7 @@ An ordinary young boy called Nikolas sets out on an extraordinary adventure into
 	
 
 ### Bruised
-*Released on 2021-11-17, vote average 7.2*
+*Released on 2021-11-17, vote average 6.9*
 
 Jackie Justice is a mixed martial arts fighter who leaves the sport in disgrace. Down on her luck and simmering with rage and regret years after the fight, she&#39;s coaxed into a brutal underground fight by her manager and boyfriend Desi and grabs the attention of a fight league promoter who promises Jackie a life back in the Octagon. But the road to redemption becomes unexpectedly personal when Manny - the son she gave up as an infant - shows up at her doorstep. A triumphant story of a fighter who reclaims her power, in and out of the ring, when everyone has counted her out
 
@@ -333,7 +311,7 @@ Jackie Justice is a mixed martial arts fighter who leaves the sport in disgrace.
 	
 
 ### 8-Bit Christmas
-*Released on 2021-11-25, vote average 6.2*
+*Released on 2021-11-25, vote average 6.4*
 
 In suburban Chicago during the late 1980s, ten-year-old Jake Doyle embarks on a herculean quest to get the latest and greatest video game system for Christmas.
 
@@ -351,6 +329,67 @@ In suburban Chicago during the late 1980s, ten-year-old Jake Doyle embarks on a 
   
 
 
+	
+	
+
+### Black Friday
+*Released on 2021-11-19, vote average 5.6*
+
+A group of toy store employees must protect each other from a horde of parasite infected shoppers.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/coHgeUp38m0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Humans
+*Released on 2021-11-24, vote average 6.8*
+
+Erik Blake has gathered three generations of his Pennsylvania family to celebrate Thanksgiving at his daughter’s apartment in lower Manhattan. As darkness falls outside and eerie things start to go bump in the night, the group’s deepest fears are laid bare.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/dnj2AKrQUac?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### A Castle for Christmas
+*Released on 2021-11-26, vote average 6.4*
+
+To escape a scandal, a bestselling author journeys to Scotland, where she falls in love with a castle -- and faces off with the grumpy duke who owns it.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/T_JbFba2i6s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -379,49 +418,10 @@ Released from prison into a society that won&#39;t forgive her past, a woman see
 
 
 	
-	
-
-### The Humans
-*Released on 2021-11-24, vote average 6.6*
-
-Erik Blake has gathered three generations of his Pennsylvania family to celebrate Thanksgiving at his daughter’s apartment in lower Manhattan. As darkness falls outside and eerie things start to go bump in the night, the group’s deepest fears are laid bare.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/dnj2AKrQUac?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
-	
-
-  
-
-
-	
-	
-
-### A Castle for Christmas
-*Released on 2021-11-26, vote average 6.3*
-
-To escape a scandal, a bestselling author journeys to Scotland, where she falls in love with a castle -- and faces off with the grumpy duke who owns it.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/T_JbFba2i6s?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -435,7 +435,7 @@ To escape a scandal, a bestselling author journeys to Scotland, where she falls 
 	
 
 ### Sing 2
-*Released on 2021-12-01, vote average 8.2*
+*Released on 2021-12-01, vote average 8.1*
 
 Buster and his new cast now have their sights set on debuting a new show at the Crystal Tower Theater in glamorous Redshore City. But with no connections, he and his singers must sneak into the Crystal Entertainment offices, run by the ruthless wolf mogul Jimmy Crystal, where the gang pitches the ridiculous idea of casting the lion rock legend Clay Calloway in their show. Buster must embark on a quest to find the now-isolated Clay and persuade him to return to the stage.
 
@@ -474,6 +474,23 @@ Buster and his new cast now have their sights set on debuting a new show at the 
 
 	
 
+	
+	
+
+### Zoey&#39;s Extraordinary Christmas
+*Released on 2021-12-01, vote average 10*
+
+A follow up Christmas-themed feature film to the hit TV series Zoey’s Extraordinary Playlist.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-xiKiHB_2ks?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
