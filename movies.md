@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Encanto
-*Released on 2021-11-24, vote average 7.6*
+*Released on 2021-11-24, vote average 7.5*
 
 The tale of an extraordinary family, the Madrigals, who live hidden in the mountains of Colombia, in a magical house, in a vibrant town, in a wondrous, charmed place called an Encanto. The magic of the Encanto has blessed every child in the family with a unique gift from super strength to the power to heal—every child except one, Mirabel. But when she discovers that the magic surrounding the Encanto is in danger, Mirabel decides that she, the only ordinary Madrigal, might just be her exceptional family&#39;s last hope.
 
@@ -47,7 +47,7 @@ The tale of an extraordinary family, the Madrigals, who live hidden in the mount
 	
 
 ### Zeros and Ones
-*Released on 2021-11-18, vote average 5.5*
+*Released on 2021-11-18, vote average 5.2*
 
 Called to Rome to stop an imminent terrorist bombing, a soldier desperately seeks news of his imprisoned brother — a rebel with knowledge that could thwart the attack. Navigating the capital&#39;s darkened streets, he races to a series of ominous encounters to keep the Vatican from being blown to bits.
 
@@ -156,52 +156,8 @@ When Patrizia Reggiani, an outsider from humble beginnings, marries into the Guc
 	
 	
 
-### King Richard
-*Released on 2021-11-18, vote average 8.4*
-
-The TRUE STORY of how Richard Williams served as a coach to his daughters Venus and Serena, who will soon become two of the most legendary tennis players in history.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/_6bsugyNpDU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Love Me Instead
-*Released on 2021-11-19, vote average 7.4*
-
-One day, Sedat, who works as a prison guard in Konya, is given the duty to take one of the prisoners, Musa, to his hometown. Musa does not intend to return until he finds out why his daughter was killed.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vDflHvmB-D4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### A Boy Called Christmas
-*Released on 2021-11-25, vote average 8.3*
+*Released on 2021-11-25, vote average 8.1*
 
 An ordinary young boy called Nikolas sets out on an extraordinary adventure into the snowy north in search of his father who is on a quest to discover the fabled village of the elves, Elfhelm. Taking with him a headstrong reindeer called Blitzen and a loyal pet mouse, Nikolas soon meets his destiny in this magical and endearing story that proves nothing is impossible…
 
@@ -222,16 +178,16 @@ An ordinary young boy called Nikolas sets out on an extraordinary adventure into
 	
 	
 
-### Just Short of Perfect
-*Released on 2021-11-18, vote average 6.3*
+### King Richard
+*Released on 2021-11-18, vote average 8.3*
 
-A divorced lawyer falls for a charismatic cardiologist. But when their difference in size leads to family friction, is she ready to listen to her heart?
+The TRUE STORY of how Richard Williams served as a coach to his daughters Venus and Serena, who will soon become two of the most legendary tennis players in history.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/LXSQed_-84g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/_6bsugyNpDU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -245,7 +201,7 @@ A divorced lawyer falls for a charismatic cardiologist. But when their differenc
 	
 
 ### Bruised
-*Released on 2021-11-17, vote average 6.8*
+*Released on 2021-11-17, vote average 6.7*
 
 Jackie Justice is a mixed martial arts fighter who leaves the sport in disgrace. Down on her luck and simmering with rage and regret years after the fight, she&#39;s coaxed into a brutal underground fight by her manager and boyfriend Desi and grabs the attention of a fight league promoter who promises Jackie a life back in the Octagon. But the road to redemption becomes unexpectedly personal when Manny - the son she gave up as an infant - shows up at her doorstep. A triumphant story of a fighter who reclaims her power, in and out of the ring, when everyone has counted her out
 
@@ -266,16 +222,16 @@ Jackie Justice is a mixed martial arts fighter who leaves the sport in disgrace.
 	
 	
 
-### South Park: Post Covid
-*Released on 2021-11-25, vote average 7.2*
+### Sing 2
+*Released on 2021-12-01, vote average 7.5*
 
-What happened to the children who lived through the Pandemic? Stan, Kyle, Cartman and Kenny survived but will never be the same Post Covid.
+Buster and his new cast now have their sights set on debuting a new show at the Crystal Tower Theater in glamorous Redshore City. But with no connections, he and his singers must sneak into the Crystal Entertainment offices, run by the ruthless wolf mogul Jimmy Crystal, where the gang pitches the ridiculous idea of casting the lion rock legend Clay Calloway in their show. Buster must embark on a quest to find the now-isolated Clay and persuade him to return to the stage.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/M19gImHO754?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/EPZu5MA2uqI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -310,8 +266,96 @@ In suburban Chicago during the late 1980s, ten-year-old Jake Doyle embarks on a 
 	
 	
 
+### Love Me Instead
+*Released on 2021-11-19, vote average 7.2*
+
+One day, Sedat, who works as a prison guard in Konya, is given the duty to take one of the prisoners, Musa, to his hometown. Musa does not intend to return until he finds out why his daughter was killed.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vDflHvmB-D4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Just Short of Perfect
+*Released on 2021-11-18, vote average 6.4*
+
+A divorced lawyer falls for a charismatic cardiologist. But when their difference in size leads to family friction, is she ready to listen to her heart?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LXSQed_-84g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### South Park: Post Covid
+*Released on 2021-11-25, vote average 7.4*
+
+What happened to the children who lived through the Pandemic? Stan, Kyle, Cartman and Kenny survived but will never be the same Post Covid.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/M19gImHO754?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### A Castle for Christmas
+*Released on 2021-11-26, vote average 5.9*
+
+To escape a scandal, a bestselling author journeys to Scotland, where she falls in love with a castle -- and faces off with the grumpy duke who owns it.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/T_JbFba2i6s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Black Friday
-*Released on 2021-11-19, vote average 5.7*
+*Released on 2021-11-19, vote average 5.5*
 
 A group of toy store employees must protect each other from a horde of parasite infected shoppers.
 
@@ -332,16 +376,16 @@ A group of toy store employees must protect each other from a horde of parasite 
 	
 	
 
-### A Castle for Christmas
-*Released on 2021-11-26, vote average 6.2*
+### The Unforgivable
+*Released on 2021-11-24, vote average 1.5*
 
-To escape a scandal, a bestselling author journeys to Scotland, where she falls in love with a castle -- and faces off with the grumpy duke who owns it.
+Released from prison into a society that won&#39;t forgive her past, a woman seeks redemption by searching for the sister she left behind.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/T_JbFba2i6s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/JNUjx7LZoiU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -375,53 +419,28 @@ Queen Poppy plans the first annual Trolls Kingdom Secret Holiday Gift Swap, but 
 
 	
 	
+	
 
-### Christmas at Castle Hart
-*Released on 2021-11-27, vote average 6*
+  
 
-Brooke Bennett goes to Ireland for Christmas to search for her Irish roots. While there, she meets Aiden Hart, Earl of Glaslough. Mistaken for an elite event planner, she’s hired to host his castle’s epic Christmas party.
+
+	
+	
+
+### Time for Them to Come Home for Christmas
+*Released on 2021-11-27, vote average 4*
+
+During the holidays, a woman with amnesia catches a ride with her handsome nurse to investigate the only clue to her identity: a newspaper clipping for a Christmas Festival with a cryptic invitation.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/XZGdZC7BG08?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/3jCGmye3HTk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Humans
-*Released on 2021-11-24, vote average 6.8*
-
-Erik Blake has gathered three generations of his Pennsylvania family to celebrate Thanksgiving at his daughter’s apartment in lower Manhattan. As darkness falls outside and eerie things start to go bump in the night, the group’s deepest fears are laid bare.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/dnj2AKrQUac?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -435,7 +454,7 @@ Erik Blake has gathered three generations of his Pennsylvania family to celebrat
 	
 
 ### Sing 2
-*Released on 2021-12-01, vote average 8.1*
+*Released on 2021-12-01, vote average 7.5*
 
 Buster and his new cast now have their sights set on debuting a new show at the Crystal Tower Theater in glamorous Redshore City. But with no connections, he and his singers must sneak into the Crystal Entertainment offices, run by the ruthless wolf mogul Jimmy Crystal, where the gang pitches the ridiculous idea of casting the lion rock legend Clay Calloway in their show. Buster must embark on a quest to find the now-isolated Clay and persuade him to return to the stage.
 
@@ -453,7 +472,22 @@ Buster and his new cast now have their sights set on debuting a new show at the 
 	
 
 	
+	
 
+### Toys of Terror
+*Released on 2021-12-02, vote average 5.6*
+
+A big family moves into a dusty old house in the snowy woods of Washington with hopes of it being a nice holiday escape. But the kids soon discover a stash of old toys that just so happen to belong to a creepy ghost boy. As stranger and stranger things start to happen, some of the kids begin to sense that something in the house is not quite right…
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/VwxIsArT5c0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -477,6 +511,8 @@ A follow up Christmas-themed feature film to the hit TV series Zoey’s Extraor
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
