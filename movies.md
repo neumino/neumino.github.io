@@ -113,7 +113,7 @@ Once the booming home of pharmaceutical giant Umbrella Corporation, Raccoon City
 	
 
 ### A Castle for Christmas
-*Released on 2021-11-26, vote average 6.3*
+*Released on 2021-11-26, vote average 6.4*
 
 To escape a scandal, a bestselling author journeys to Scotland, where she falls in love with a castle -- and faces off with the grumpy duke who owns it.
 
@@ -157,7 +157,7 @@ When Patrizia Reggiani, an outsider from humble beginnings, marries into the Guc
 	
 
 ### Sing 2
-*Released on 2021-12-01, vote average 7.9*
+*Released on 2021-12-01, vote average 8.1*
 
 Buster and his new cast now have their sights set on debuting a new show at the Crystal Tower Theater in glamorous Redshore City. But with no connections, he and his singers must sneak into the Crystal Entertainment offices, run by the ruthless wolf mogul Jimmy Crystal, where the gang pitches the ridiculous idea of casting the lion rock legend Clay Calloway in their show. Buster must embark on a quest to find the now-isolated Clay and persuade him to return to the stage.
 
@@ -176,10 +176,15 @@ Buster and his new cast now have their sights set on debuting a new show at the 
 
 
 	
+
+  
+
+
+	
 	
 
 ### South Park: Post Covid
-*Released on 2021-11-25, vote average 7.3*
+*Released on 2021-11-25, vote average 7.4*
 
 What happened to the children who lived through the Pandemic? Stan, Kyle, Cartman and Kenny survived but will never be the same Post Covid.
 
@@ -198,20 +203,10 @@ What happened to the children who lived through the Pandemic? Stan, Kyle, Cartma
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 
 ### Silent Night
-*Released on 2021-12-03, vote average 10*
+*Released on 2021-12-03, vote average 8.5*
 
 Nell, Simon, and their boy Art are ready to welcome friends and family for what promises to be a perfect Christmas gathering. Perfect except for one thing: everyone is going to die.
 
@@ -220,6 +215,62 @@ Nell, Simon, and their boy Art are ready to welcome friends and family for what 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/u1dOECVgqIQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Single All the Way
+*Released on 2021-12-02, vote average 5.6*
+
+Desperate to avoid his family’s judgment about his perpetual single status, Peter convinces his best friend Nick to join him for the holidays and pretend that they’re now in a relationship. But when Peter’s mother sets him up on a blind date with her handsome trainer James, the plan goes awry.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kCQxxqdowOg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Trolls Holiday in Harmony
+*Released on 2021-11-26, vote average 7.5*
+
+Queen Poppy plans the first annual Trolls Kingdom Secret Holiday Gift Swap, but things don&#39;t go quite as expected.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/okb_--K7p14?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -252,45 +303,18 @@ On her first holiday without her father, Zoey attempts to create a magical Chris
 
 
 	
-
-  
-
-
-	
 	
 
-### Nightmare Alley
-*Released on 2021-12-02, vote average 7.5*
+### Christmas ...Again?!
+*Released on 2021-12-03, vote average 5*
 
-An ambitious young carny with a talent for manipulating people with a few well-chosen words hooks up with a female psychiatrist who is even more dangerous than he is.
+Rowena &#34;Ro&#34; is a high-spirited 11-year-old hoping to add more spunk to her Christmas celebrations when her parents’ divorce is going anything but smoothly.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Q81Yf46Oj3s?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Single All the Way
-*Released on 2021-12-02, vote average 6.2*
-
-Desperate to avoid his family’s judgment about his perpetual single status, Peter convinces his best friend Nick to join him for the holidays and pretend that they’re now in a relationship. But when Peter’s mother sets him up on a blind date with her handsome trainer James, the plan goes awry.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kCQxxqdowOg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Tu97_zZ-Rk4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -308,8 +332,30 @@ Desperate to avoid his family’s judgment about his perpetual single status, Pe
 	
 	
 
-### The Unforgivable
-*Released on 2021-11-24, vote average 4.3*
+### The Whole Truth
+*Released on 2021-12-02, vote average 5.7*
+
+When two siblings stumble on a strange hole in the wall of their grandparents’ house, horrifying incidents reveal sinister secrets about their family.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wNIY6wfkQxM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Непрощённая
+*Released on 2021-11-24, vote average 5.8*
 
 Released from prison into a society that won&#39;t forgive her past, a woman seeks redemption by searching for the sister she left behind.
 
@@ -328,15 +374,7 @@ Released from prison into a society that won&#39;t forgive her past, a woman see
 
 
 	
-
-  
-
-
 	
-
-  
-
-
 	
 
   
@@ -349,14 +387,29 @@ Released from prison into a society that won&#39;t forgive her past, a woman see
 	
 
 	
+	
 
+### Red Rocket
+*Released on 2021-12-10, vote average 8*
+
+Finding himself down and out in Los Angeles, ex porn star Mikey Saber decides to crawl back to his hometown of Texas City, Texas, where his estranged wife and mother-in-law are living. Just as this dysfunctional family seems to be making things work, Mikey meets a young woman named Strawberry working the cash register at a local doughnut shop.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Wfndmy-6e28?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
 	
 
 ### West Side Story
-*Released on 2021-12-08, vote average 1*
+*Released on 2021-12-08, vote average 8.2*
 
 Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy.
 
@@ -369,22 +422,6 @@ Two youngsters from rival New York City gangs fall in love, but tensions between
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
@@ -418,6 +455,24 @@ Miranda and Paul, two business rivals who playfully despise each other, work tog
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 
