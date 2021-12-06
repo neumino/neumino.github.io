@@ -69,7 +69,7 @@ An ordinary young boy called Nikolas sets out on an extraordinary adventure into
 	
 
 ### 8-Bit Christmas
-*Released on 2021-11-25, vote average 6.6*
+*Released on 2021-11-25, vote average 6.7*
 
 In suburban Chicago during the late 1980s, ten-year-old Jake Doyle embarks on a herculean quest to get the latest and greatest video game system for Christmas.
 
@@ -112,6 +112,50 @@ Once the booming home of pharmaceutical giant Umbrella Corporation, Raccoon City
 	
 	
 
+### Sing 2
+*Released on 2021-12-01, vote average 7.8*
+
+Buster and his new cast now have their sights set on debuting a new show at the Crystal Tower Theater in glamorous Redshore City. But with no connections, he and his singers must sneak into the Crystal Entertainment offices, run by the ruthless wolf mogul Jimmy Crystal, where the gang pitches the ridiculous idea of casting the lion rock legend Clay Calloway in their show. Buster must embark on a quest to find the now-isolated Clay and persuade him to return to the stage.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EPZu5MA2uqI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### House of Gucci
+*Released on 2021-11-24, vote average 7*
+
+When Patrizia Reggiani, an outsider from humble beginnings, marries into the Gucci family, her unbridled ambition begins to unravel the family legacy and triggers a reckless spiral of betrayal, decadence, revenge, and ultimately…murder.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/M-ryepMZ5aY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### A Castle for Christmas
 *Released on 2021-11-26, vote average 6.4*
 
@@ -134,47 +178,20 @@ To escape a scandal, a bestselling author journeys to Scotland, where she falls 
 	
 	
 
-### House of Gucci
-*Released on 2021-11-24, vote average 7.1*
+### Silent Night
+*Released on 2021-12-03, vote average 5.1*
 
-When Patrizia Reggiani, an outsider from humble beginnings, marries into the Gucci family, her unbridled ambition begins to unravel the family legacy and triggers a reckless spiral of betrayal, decadence, revenge, and ultimately…murder.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/M-ryepMZ5aY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Sing 2
-*Released on 2021-12-01, vote average 8.1*
-
-Buster and his new cast now have their sights set on debuting a new show at the Crystal Tower Theater in glamorous Redshore City. But with no connections, he and his singers must sneak into the Crystal Entertainment offices, run by the ruthless wolf mogul Jimmy Crystal, where the gang pitches the ridiculous idea of casting the lion rock legend Clay Calloway in their show. Buster must embark on a quest to find the now-isolated Clay and persuade him to return to the stage.
+Nell, Simon, and their boy Art are ready to welcome friends and family for what promises to be a perfect Christmas gathering. Perfect except for one thing: everyone is going to die.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/EPZu5MA2uqI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/u1dOECVgqIQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -205,30 +222,8 @@ What happened to the children who lived through the Pandemic? Stan, Kyle, Cartma
 	
 	
 
-### Silent Night
-*Released on 2021-12-03, vote average 8.5*
-
-Nell, Simon, and their boy Art are ready to welcome friends and family for what promises to be a perfect Christmas gathering. Perfect except for one thing: everyone is going to die.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/u1dOECVgqIQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Single All the Way
-*Released on 2021-12-02, vote average 5.6*
+*Released on 2021-12-02, vote average 6.2*
 
 Desperate to avoid his family’s judgment about his perpetual single status, Peter convinces his best friend Nick to join him for the holidays and pretend that they’re now in a relationship. But when Peter’s mother sets him up on a blind date with her handsome trainer James, the plan goes awry.
 
@@ -247,11 +242,6 @@ Desperate to avoid his family’s judgment about his perpetual single status, Pe
 
 
 	
-
-  
-
-
-	
 	
 	
 
@@ -262,7 +252,7 @@ Desperate to avoid his family’s judgment about his perpetual single status, Pe
 	
 
 ### Trolls Holiday in Harmony
-*Released on 2021-11-26, vote average 7.5*
+*Released on 2021-11-26, vote average 7.6*
 
 Queen Poppy plans the first annual Trolls Kingdom Secret Holiday Gift Swap, but things don&#39;t go quite as expected.
 
@@ -281,23 +271,6 @@ Queen Poppy plans the first annual Trolls Kingdom Secret Holiday Gift Swap, but 
 
 
 	
-	
-
-### Zoey&#39;s Extraordinary Christmas
-*Released on 2021-12-01, vote average 10*
-
-On her first holiday without her father, Zoey attempts to create a magical Christmas for her family just like the ones Mitch used to do.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FmORNMgzHnA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -306,7 +279,7 @@ On her first holiday without her father, Zoey attempts to create a magical Chris
 	
 
 ### Christmas ...Again?!
-*Released on 2021-12-03, vote average 5*
+*Released on 2021-12-03, vote average 5.5*
 
 Rowena &#34;Ro&#34; is a high-spirited 11-year-old hoping to add more spunk to her Christmas celebrations when her parents’ divorce is going anything but smoothly.
 
@@ -325,6 +298,23 @@ Rowena &#34;Ro&#34; is a high-spirited 11-year-old hoping to add more spunk to h
 
 
 	
+	
+
+### Castle Falls
+*Released on 2021-12-03, vote average 6*
+
+Rival gangs seek out millions of dollars hidden inside a luxury condominium that&#39;s scheduled to be demolished, but first they have to deal with the demolition prep crewman who found the loot first.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/XetRSFqprNM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -333,7 +323,7 @@ Rowena &#34;Ro&#34; is a high-spirited 11-year-old hoping to add more spunk to h
 	
 
 ### The Whole Truth
-*Released on 2021-12-02, vote average 5.7*
+*Released on 2021-12-02, vote average 6.6*
 
 When two siblings stumble on a strange hole in the wall of their grandparents’ house, horrifying incidents reveal sinister secrets about their family.
 
@@ -354,16 +344,16 @@ When two siblings stumble on a strange hole in the wall of their grandparents’
 	
 	
 
-### Непрощённая
-*Released on 2021-11-24, vote average 5.8*
+### Deadlock
+*Released on 2021-12-03, vote average 4.5*
 
-Released from prison into a society that won&#39;t forgive her past, a woman seeks redemption by searching for the sister she left behind.
+Mack is a former soldier who, after the war, moved to a town with a nuclear power plant, where nearly everybody works. Life is peaceful for him there, until a gang of mercenaries led by Ron storm the reactor and take everybody hostage, including a group of children on a school trip. Now Mack is in a race against the clock and must use his military training to defeat Ron before he puts the reactor into meltdown. Along the way he discovers Ron’s motive, which unravels a greater secret Mack’s town is hiding.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/JNUjx7LZoiU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/jpLbR3_Mb9Y?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -374,6 +364,65 @@ Released from prison into a society that won&#39;t forgive her past, a woman see
 
 
 	
+	
+
+### Diary of a Wimpy Kid
+*Released on 2021-12-03, vote average 6.9*
+
+Greg Heffley is a scrawny but ambitious kid with an active imagination and big plans to be rich and famous – he just has to survive middle school first.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/VKhCPUa-glo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Mixtape
+*Released on 2021-12-03, vote average 8*
+
+On the eve of Y2K, orphaned 12-year-old Beverly discovers a broken mixtape crafted by her teen parents. Raised by her grandmother - who struggles talking about her late daughter - Beverly sees the mixtape as a chance to finally learn more about her parents.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IAxDaDw7TfM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Shaun the Sheep: The Flight Before Christmas
+*Released on 2021-12-03, vote average 8*
+
+Shaun&#39;s seasonal excitement turns to dismay when a farmhouse raid to get bigger stockings for the flock inadvertently leads to Timmy going missing. Can Shaun get Timmy back before he becomes someone else’s present?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QtVCreYpNZY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -387,29 +436,12 @@ Released from prison into a society that won&#39;t forgive her past, a woman see
 	
 
 	
-	
-
-### Red Rocket
-*Released on 2021-12-10, vote average 8*
-
-Finding himself down and out in Los Angeles, ex porn star Mikey Saber decides to crawl back to his hometown of Texas City, Texas, where his estranged wife and mother-in-law are living. Just as this dysfunctional family seems to be making things work, Mikey meets a young woman named Strawberry working the cash register at a local doughnut shop.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Wfndmy-6e28?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 	
 
 ### West Side Story
-*Released on 2021-12-08, vote average 8.2*
+*Released on 2021-12-08, vote average 7.8*
 
 Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy.
 
@@ -438,23 +470,6 @@ Two youngsters from rival New York City gangs fall in love, but tensions between
 
 	
 
-	
-	
-
-### Secretly Santa
-*Released on 2021-12-06, vote average 2*
-
-Miranda and Paul, two business rivals who playfully despise each other, work together on a holiday gift-giving app, and unexpected feelings develop for one another.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/W_p4sVEaNK0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
