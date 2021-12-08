@@ -47,7 +47,7 @@ The tale of an extraordinary family, the Madrigals, who live hidden in the mount
 	
 
 ### A Boy Called Christmas
-*Released on 2021-11-25, vote average 8.1*
+*Released on 2021-11-25, vote average 8*
 
 An ordinary young boy called Nikolas sets out on an extraordinary adventure into the snowy north in search of his father who is on a quest to discover the fabled village of the elves, Elfhelm. Taking with him a headstrong reindeer called Blitzen and a loyal pet mouse, Nikolas soon meets his destiny in this magical and endearing story that proves nothing is impossible…
 
@@ -69,7 +69,7 @@ An ordinary young boy called Nikolas sets out on an extraordinary adventure into
 	
 
 ### 8-Bit Christmas
-*Released on 2021-11-25, vote average 6.6*
+*Released on 2021-11-25, vote average 6.5*
 
 In suburban Chicago during the late 1980s, ten-year-old Jake Doyle embarks on a herculean quest to get the latest and greatest video game system for Christmas.
 
@@ -157,7 +157,7 @@ When Patrizia Reggiani, an outsider from humble beginnings, marries into the Guc
 	
 
 ### A Castle for Christmas
-*Released on 2021-11-26, vote average 6.4*
+*Released on 2021-11-26, vote average 6.3*
 
 To escape a scandal, a bestselling author journeys to Scotland, where she falls in love with a castle -- and faces off with the grumpy duke who owns it.
 
@@ -199,28 +199,6 @@ Desperate to avoid his family’s judgment about his perpetual single status, Pe
 
 	
 	
-
-### Silent Night
-*Released on 2021-12-03, vote average 5.4*
-
-Nell, Simon, and their boy Art are ready to welcome friends and family for what promises to be a perfect Christmas gathering. Perfect except for one thing: everyone is going to die.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/u1dOECVgqIQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -230,7 +208,7 @@ Nell, Simon, and their boy Art are ready to welcome friends and family for what 
 	
 
 ### Trolls Holiday in Harmony
-*Released on 2021-11-26, vote average 7.9*
+*Released on 2021-11-26, vote average 7.6*
 
 Queen Poppy plans the first annual Trolls Kingdom Secret Holiday Gift Swap, but things don&#39;t go quite as expected.
 
@@ -251,30 +229,8 @@ Queen Poppy plans the first annual Trolls Kingdom Secret Holiday Gift Swap, but 
 	
 	
 
-### A Very Merry Bridesmaid
-*Released on 2021-12-04, vote average 6*
-
-Leah&#39;s 30th birthday is on Christmas Eve, the same day as her brother&#39;s wedding. Her childhood crush is back in town for the wedding and he is determined to make sure her birthday does not go by the wayside.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/bmkg2XMZLCw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Whole Truth
-*Released on 2021-12-02, vote average 6.7*
+*Released on 2021-12-02, vote average 6.6*
 
 When two siblings stumble on a strange hole in the wall of their grandparents’ house, horrifying incidents reveal sinister secrets about their family.
 
@@ -296,7 +252,7 @@ When two siblings stumble on a strange hole in the wall of their grandparents’
 	
 
 ### Christmas ...Again?!
-*Released on 2021-12-03, vote average 7.2*
+*Released on 2021-12-03, vote average 7.1*
 
 Rowena &#34;Ro&#34; is a high-spirited 11-year-old hoping to add more spunk to her Christmas celebrations when her parents’ divorce is going anything but smoothly.
 
@@ -317,30 +273,8 @@ Rowena &#34;Ro&#34; is a high-spirited 11-year-old hoping to add more spunk to h
 	
 	
 
-### South Park: Post Covid
-*Released on 2021-11-25, vote average 7.4*
-
-What happened to the children who lived through the Pandemic? Stan, Kyle, Cartman and Kenny survived but will never be the same Post Covid.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/M19gImHO754?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Diary of a Wimpy Kid
-*Released on 2021-12-03, vote average 6.9*
+*Released on 2021-12-03, vote average 7.1*
 
 Greg Heffley is a scrawny but ambitious kid with an active imagination and big plans to be rich and famous – he just has to survive middle school first.
 
@@ -362,7 +296,7 @@ Greg Heffley is a scrawny but ambitious kid with an active imagination and big p
 	
 
 ### Mixtape
-*Released on 2021-12-03, vote average 7.9*
+*Released on 2021-12-03, vote average 7.8*
 
 On the eve of Y2K, orphaned 12-year-old Beverly discovers a broken mixtape crafted by her teen parents. Raised by her grandmother - who struggles talking about her late daughter - Beverly sees the mixtape as a chance to finally learn more about her parents.
 
@@ -384,7 +318,7 @@ On the eve of Y2K, orphaned 12-year-old Beverly discovers a broken mixtape craft
 	
 
 ### Don&#39;t Look Up
-*Released on 2021-12-07, vote average 10*
+*Released on 2021-12-07, vote average 9*
 
 Two astronomers go on a media tour to warn humankind of a planet-killing comet hurtling toward Earth. The response from a distracted world: Meh.
 
@@ -427,20 +361,69 @@ Shaun&#39;s seasonal excitement turns to dismay when a farmhouse raid to get big
 	
 	
 
-### Deadlock
-*Released on 2021-12-03, vote average 4.5*
+### Last Shoot Out
+*Released on 2021-12-03, vote average 7.5*
 
-Mack is a former soldier who, after the war, moved to a town with a nuclear power plant, where nearly everybody works. Life is peaceful for him there, until a gang of mercenaries led by Ron storm the reactor and take everybody hostage, including a group of children on a school trip. Now Mack is in a race against the clock and must use his military training to defeat Ron before he puts the reactor into meltdown. Along the way he discovers Ron’s motive, which unravels a greater secret Mack’s town is hiding.
+Soon after a newlywed learns that her husband had her father shot down, she flees from the Callahan ranch in fear. She&#39;s rescued by a gunman who safeguards her at a remote outpost as he staves off her husband&#39;s attempts to reclaim his bride.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/jpLbR3_Mb9Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/PqqYBoz2Y4c?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### A Very Merry Bridesmaid
+*Released on 2021-12-04, vote average 5.8*
+
+Leah&#39;s 30th birthday is on Christmas Eve, the same day as her brother&#39;s wedding. Her childhood crush is back in town for the wedding and he is determined to make sure her birthday does not go by the wayside.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/lueXF7CDZkQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Silent Night
+*Released on 2021-12-03, vote average 5.4*
+
+Nell, Simon, and their boy Art are ready to welcome friends and family for what promises to be a perfect Christmas gathering. Perfect except for one thing: everyone is going to die.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/u1dOECVgqIQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -451,29 +434,14 @@ Mack is a former soldier who, after the war, moved to a town with a nuclear powe
 
 
 	
-	
 
-### Don&#39;t Look Up
-*Released on 2021-12-07, vote average 10*
-
-Two astronomers go on a media tour to warn humankind of a planet-killing comet hurtling toward Earth. The response from a distracted world: Meh.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/RbIxYm3mKzI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
 	
 
 ### West Side Story
-*Released on 2021-12-08, vote average 8*
+*Released on 2021-12-08, vote average 7.8*
 
 Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy.
 
@@ -492,8 +460,6 @@ Two youngsters from rival New York City gangs fall in love, but tensions between
 
 	
 	
-	
-
 	
 
 	
