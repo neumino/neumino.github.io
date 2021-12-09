@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Encanto
-*Released on 2021-11-24, vote average 7.5*
+### A Boy Called Christmas
+*Released on 2021-11-25, vote average 8*
 
-The tale of an extraordinary family, the Madrigals, who live hidden in the mountains of Colombia, in a magical house, in a vibrant town, in a wondrous, charmed place called an Encanto. The magic of the Encanto has blessed every child in the family with a unique gift from super strength to the power to heal—every child except one, Mirabel. But when she discovers that the magic surrounding the Encanto is in danger, Mirabel decides that she, the only ordinary Madrigal, might just be her exceptional family&#39;s last hope.
+An ordinary young boy called Nikolas sets out on an extraordinary adventure into the snowy north in search of his father who is on a quest to discover the fabled village of the elves, Elfhelm. Taking with him a headstrong reindeer called Blitzen and a loyal pet mouse, Nikolas soon meets his destiny in this magical and endearing story that proves nothing is impossible…
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/CaimKeDcudo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/aFI_aiidke0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,30 +46,8 @@ The tale of an extraordinary family, the Madrigals, who live hidden in the mount
 	
 	
 
-### A Boy Called Christmas
-*Released on 2021-11-25, vote average 8*
-
-An ordinary young boy called Nikolas sets out on an extraordinary adventure into the snowy north in search of his father who is on a quest to discover the fabled village of the elves, Elfhelm. Taking with him a headstrong reindeer called Blitzen and a loyal pet mouse, Nikolas soon meets his destiny in this magical and endearing story that proves nothing is impossible…
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/aFI_aiidke0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### 8-Bit Christmas
-*Released on 2021-11-25, vote average 6.5*
+*Released on 2021-11-25, vote average 6.4*
 
 In suburban Chicago during the late 1980s, ten-year-old Jake Doyle embarks on a herculean quest to get the latest and greatest video game system for Christmas.
 
@@ -78,28 +56,6 @@ In suburban Chicago during the late 1980s, ten-year-old Jake Doyle embarks on a 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/CI-YWRK0VPo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Resident Evil: Welcome to Raccoon City
-*Released on 2021-11-24, vote average 6*
-
-Once the booming home of pharmaceutical giant Umbrella Corporation, Raccoon City is now a dying Midwestern town. The company’s exodus left the city a wasteland…with great evil brewing below the surface. When that evil is unleashed, the townspeople are forever…changed…and a small group of survivors must work together to uncover the truth behind Umbrella and make it through the night.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IQqqAWMIIAQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,52 +90,8 @@ Buster and his new cast now have their sights set on debuting a new show at the 
 	
 	
 
-### House of Gucci
-*Released on 2021-11-24, vote average 7*
-
-When Patrizia Reggiani, an outsider from humble beginnings, marries into the Gucci family, her unbridled ambition begins to unravel the family legacy and triggers a reckless spiral of betrayal, decadence, revenge, and ultimately…murder.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/M-ryepMZ5aY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### A Castle for Christmas
-*Released on 2021-11-26, vote average 6.3*
-
-To escape a scandal, a bestselling author journeys to Scotland, where she falls in love with a castle -- and faces off with the grumpy duke who owns it.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/T_JbFba2i6s?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Single All the Way
-*Released on 2021-12-02, vote average 6.3*
+*Released on 2021-12-02, vote average 6.4*
 
 Desperate to avoid his family’s judgment about his perpetual single status, Peter convinces his best friend Nick to join him for the holidays and pretend that they’re now in a relationship. But when Peter’s mother sets him up on a blind date with her handsome trainer James, the plan goes awry.
 
@@ -199,16 +111,9 @@ Desperate to avoid his family’s judgment about his perpetual single status, Pe
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Trolls Holiday in Harmony
-*Released on 2021-11-26, vote average 7.6*
+*Released on 2021-11-26, vote average 7.7*
 
 Queen Poppy plans the first annual Trolls Kingdom Secret Holiday Gift Swap, but things don&#39;t go quite as expected.
 
@@ -251,8 +156,30 @@ When two siblings stumble on a strange hole in the wall of their grandparents’
 	
 	
 
+### A Castle for Christmas
+*Released on 2021-11-26, vote average 6.2*
+
+To escape a scandal, a bestselling author journeys to Scotland, where she falls in love with a castle -- and faces off with the grumpy duke who owns it.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/T_JbFba2i6s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Christmas ...Again?!
-*Released on 2021-12-03, vote average 7.1*
+*Released on 2021-12-03, vote average 7.3*
 
 Rowena &#34;Ro&#34; is a high-spirited 11-year-old hoping to add more spunk to her Christmas celebrations when her parents’ divorce is going anything but smoothly.
 
@@ -274,7 +201,7 @@ Rowena &#34;Ro&#34; is a high-spirited 11-year-old hoping to add more spunk to h
 	
 
 ### Diary of a Wimpy Kid
-*Released on 2021-12-03, vote average 7.1*
+*Released on 2021-12-03, vote average 7.3*
 
 Greg Heffley is a scrawny but ambitious kid with an active imagination and big plans to be rich and famous – he just has to survive middle school first.
 
@@ -296,7 +223,7 @@ Greg Heffley is a scrawny but ambitious kid with an active imagination and big p
 	
 
 ### Mixtape
-*Released on 2021-12-03, vote average 7.8*
+*Released on 2021-12-03, vote average 8*
 
 On the eve of Y2K, orphaned 12-year-old Beverly discovers a broken mixtape crafted by her teen parents. Raised by her grandmother - who struggles talking about her late daughter - Beverly sees the mixtape as a chance to finally learn more about her parents.
 
@@ -315,21 +242,6 @@ On the eve of Y2K, orphaned 12-year-old Beverly discovers a broken mixtape craft
 
 
 	
-	
-
-### Don&#39;t Look Up
-*Released on 2021-12-07, vote average 9*
-
-Two astronomers go on a media tour to warn humankind of a planet-killing comet hurtling toward Earth. The response from a distracted world: Meh.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/RbIxYm3mKzI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -383,16 +295,60 @@ Soon after a newlywed learns that her husband had her father shot down, she flee
 	
 	
 
-### A Very Merry Bridesmaid
-*Released on 2021-12-04, vote average 5.8*
+### Don&#39;t Look Up
+*Released on 2021-12-07, vote average 9.4*
 
-Leah&#39;s 30th birthday is on Christmas Eve, the same day as her brother&#39;s wedding. Her childhood crush is back in town for the wedding and he is determined to make sure her birthday does not go by the wayside.
+Two astronomers go on a media tour to warn humankind of a planet-killing comet hurtling toward Earth. The response from a distracted world: Meh.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/lueXF7CDZkQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/RbIxYm3mKzI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### South Park: Post Covid
+*Released on 2021-11-25, vote average 7.4*
+
+What happened to the children who lived through the Pandemic? Stan, Kyle, Cartman and Kenny survived but will never be the same Post Covid.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_L8dVgTgopA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### West Side Story
+*Released on 2021-12-08, vote average 7.8*
+
+Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/snf7Pdn3Giw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -406,7 +362,7 @@ Leah&#39;s 30th birthday is on Christmas Eve, the same day as her brother&#39;s 
 	
 
 ### Silent Night
-*Released on 2021-12-03, vote average 5.4*
+*Released on 2021-12-03, vote average 5.1*
 
 Nell, Simon, and their boy Art are ready to welcome friends and family for what promises to be a perfect Christmas gathering. Perfect except for one thing: everyone is going to die.
 
@@ -429,6 +385,50 @@ Nell, Simon, and their boy Art are ready to welcome friends and family for what 
   
 
 
+	
+	
+
+### A Very Merry Bridesmaid
+*Released on 2021-12-04, vote average 5.8*
+
+Leah&#39;s 30th birthday is on Christmas Eve, the same day as her brother&#39;s wedding. Her childhood crush is back in town for the wedding and he is determined to make sure her birthday does not go by the wayside.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/lueXF7CDZkQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### David and the Elves
+*Released on 2021-12-06, vote average 7.3*
+
+Christmas is drawing near, but it’s not a happy time for David. After moving to a big city, his parents have been bogged down with work and forgotten the meaning of Christmas. David decides to change that. Together with Albert the Elf, who escaped from the land of Santa to figure out what Christmas is all about, David sets off to Tatra Mountains, where his grandparents live, on a journey full of adventures.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mQqGOdHFsrY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -438,27 +438,25 @@ Nell, Simon, and their boy Art are ready to welcome friends and family for what 
 	
 
 	
+
 	
 
-### West Side Story
-*Released on 2021-12-08, vote average 7.8*
+	
+	
 
-Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy.
+### The Hating Game
+*Released on 2021-12-09, vote average 5.3*
+
+Resolving to achieve professional success without compromising her ethics, Lucy embarks on a ruthless game of one-upmanship against cold and efficient nemesis Joshua, a rivalry that is complicated by her growing attraction to him.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/snf7Pdn3Giw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/j3qBGOD4b4A?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-	
-
-	
 	
 	
 
