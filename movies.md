@@ -47,7 +47,7 @@ Desperate to avoid his family’s judgment about his perpetual single status, Pe
 	
 
 ### The Whole Truth
-*Released on 2021-12-02, vote average 6.3*
+*Released on 2021-12-02, vote average 6.6*
 
 When two siblings stumble on a strange hole in the wall of their grandparents’ house, horrifying incidents reveal sinister secrets about their family.
 
@@ -69,7 +69,7 @@ When two siblings stumble on a strange hole in the wall of their grandparents’
 	
 
 ### Christmas ...Again?!
-*Released on 2021-12-03, vote average 7.2*
+*Released on 2021-12-03, vote average 7.3*
 
 Rowena &#34;Ro&#34; is a high-spirited 11-year-old hoping to add more spunk to her Christmas celebrations when her parents’ divorce is going anything but smoothly.
 
@@ -100,6 +100,50 @@ Greg Heffley is a scrawny but ambitious kid with an active imagination and big p
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/VKhCPUa-glo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Shaun the Sheep: The Flight Before Christmas
+*Released on 2021-12-03, vote average 7*
+
+Shaun&#39;s seasonal excitement turns to dismay when a farmhouse raid to get bigger stockings for the flock inadvertently leads to Timmy going missing. Can Shaun get Timmy back before he becomes someone else’s present?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QtVCreYpNZY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Last Shoot Out
+*Released on 2021-12-03, vote average 6.6*
+
+Soon after a newlywed learns that her husband had her father shot down, she flees from the Callahan ranch in fear. She&#39;s rescued by a gunman who safeguards her at a remote outpost as he staves off her husband&#39;s attempts to reclaim his bride.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PqqYBoz2Y4c?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -156,52 +200,8 @@ Buster and his new cast now have their sights set on debuting a new show at the 
 	
 	
 
-### Shaun the Sheep: The Flight Before Christmas
-*Released on 2021-12-03, vote average 7*
-
-Shaun&#39;s seasonal excitement turns to dismay when a farmhouse raid to get bigger stockings for the flock inadvertently leads to Timmy going missing. Can Shaun get Timmy back before he becomes someone else’s present?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/QtVCreYpNZY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Last Shoot Out
-*Released on 2021-12-03, vote average 6.8*
-
-Soon after a newlywed learns that her husband had her father shot down, she flees from the Callahan ranch in fear. She&#39;s rescued by a gunman who safeguards her at a remote outpost as he staves off her husband&#39;s attempts to reclaim his bride.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/PqqYBoz2Y4c?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### David and the Elves
-*Released on 2021-12-06, vote average 6.8*
+*Released on 2021-12-06, vote average 6.9*
 
 Christmas is drawing near, but it’s not a happy time for David. After moving to a big city, his parents have been bogged down with work and forgotten the meaning of Christmas. David decides to change that. Together with Albert the Elf, who escaped from the land of Santa to figure out what Christmas is all about, David sets off to Tatra Mountains, where his grandparents live, on a journey full of adventures.
 
@@ -223,7 +223,7 @@ Christmas is drawing near, but it’s not a happy time for David. After moving t
 	
 
 ### Don&#39;t Look Up
-*Released on 2021-12-07, vote average 8.7*
+*Released on 2021-12-07, vote average 8.3*
 
 Two astronomers go on a media tour to warn humankind of a planet-killing comet hurtling toward Earth. The response from a distracted world: Meh.
 
@@ -244,30 +244,8 @@ Two astronomers go on a media tour to warn humankind of a planet-killing comet h
 	
 	
 
-### West Side Story
-*Released on 2021-12-08, vote average 7*
-
-Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/snf7Pdn3Giw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Mickey and Minnie Wish Upon a Christmas
-*Released on 2021-12-02, vote average 7.1*
+*Released on 2021-12-02, vote average 6.8*
 
 After a series of mishaps, Mickey, Minnie and the gang are separated all over the world and must try to get back to Hot Dog Hills by Christmas Eve. A mysterious and jolly stranger shows up to tell them about The Wishing Star, which could be the secret to bringing everybody home in time to celebrate together.
 
@@ -288,8 +266,30 @@ After a series of mishaps, Mickey, Minnie and the gang are separated all over th
 	
 	
 
+### West Side Story
+*Released on 2021-12-08, vote average 7.1*
+
+Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/snf7Pdn3Giw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Silent Night
-*Released on 2021-12-03, vote average 6.5*
+*Released on 2021-12-03, vote average 6.4*
 
 Nell, Simon, and their boy Art are ready to welcome friends and family for what promises to be a perfect Christmas gathering. Perfect except for one thing: everyone is going to die.
 
@@ -339,35 +339,6 @@ The story of the rise and fall of the first American-born drug lord in Mexico, t
 	
 	
 
-### Being the Ricardos
-*Released on 2021-12-10, vote average 1*
-
-Follows Lucille Ball and Desi Arnaz as they face a crisis that could end their careers and another that could end their marriage.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/WvrjCdtB0zM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
 ### A Royal Queens Christmas
 *Released on 2021-12-11, vote average 6*
 
@@ -377,7 +348,7 @@ A prince finds his way to Queens during Christmas when a local woman enlists his
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/tCXnYHFyADc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/de5oAwRFqyI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -388,15 +359,10 @@ A prince finds his way to Queens during Christmas when a local woman enlists his
 
 
 	
-
-  
-
-
-	
 	
 
 ### The Hating Game
-*Released on 2021-12-09, vote average 4.6*
+*Released on 2021-12-09, vote average 5.5*
 
 Resolving to achieve professional success without compromising her ethics, Lucy embarks on a ruthless game of one-upmanship against cold and efficient nemesis Joshua, a rivalry that is complicated by her growing attraction to him.
 
@@ -405,6 +371,57 @@ Resolving to achieve professional success without compromising her ethics, Lucy 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/j3qBGOD4b4A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### The Last Son
+*Released on 2021-12-10, vote average 4*
+
+Sam Worthington stars as Isaac LeMay, a murderous outlaw who learns he is cursed by a prophecy: one of his children will kill him. To prevent this, he hunts down each of his estranged children including long-lost son Cal (Colson Baker). With bounty hunters and Sheriff Solomon (Thomas Jane) on his tail, LeMay must find a way to stop his children and end the curse.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KilcySbvmP8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Asakusa Kid
+*Released on 2021-12-09, vote average 6*
+
+In 1965, Takeshi Kitano drops out of a university and enters the Asakusa France Za, which is a performance theater. He becomes an apprentice to Senzaburo Fukami, who is a legendary entertainer. Senzaburo Fukami demands that Takeshi Kitano keep the mindset of an entertainer, not only on stage, but also in his daily life. Takeshi Kitano cultivates his dream of becoming an entertainer with other apprentices. Due to the popularity of TV, people attend the theater less and less, but Takeshi Kitano spends his youthful days with Senzaburo Fukami and other apprentices who are full of talent and unique personalities.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KhzBFfkvn44?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -424,50 +441,14 @@ Resolving to achieve professional success without compromising her ethics, Lucy 
 
 	
 	
-
-### A Royal Queens Christmas
-*Released on 2021-12-11, vote average 6*
-
-A prince finds his way to Queens during Christmas when a local woman enlists his help with a children&#39;s Christmas show.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tCXnYHFyADc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
 	
 
 	
 
 	
-	
-
-### Christmas in the Rockies
-*Released on 2021-12-11, vote average 6*
-
-Katie Jolly is a driven young woman with aspirations to leave her small town of Homewood and the family business behind for a career in New York City. Katie’s dreams come to a halt when her father’s sudden injury leaves the future of the company on her shoulders. Saddled with Jolly Lumber’s looming financial troubles, she must also navigate the complexities of love and family as well as the pressure to win the annual Lumberjack Competition.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nvu1gSY0yJo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
-	
 
-	
-	
 	
 
 	
