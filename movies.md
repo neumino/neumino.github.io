@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Single All the Way
-*Released on 2021-12-02, vote average 6.4*
+*Released on 2021-12-02, vote average 6.5*
 
 Desperate to avoid his family’s judgment about his perpetual single status, Peter convinces his best friend Nick to join him for the holidays and pretend that they’re now in a relationship. But when Peter’s mother sets him up on a blind date with her handsome trainer James, the plan goes awry.
 
@@ -47,7 +47,7 @@ Desperate to avoid his family’s judgment about his perpetual single status, Pe
 	
 
 ### The Whole Truth
-*Released on 2021-12-02, vote average 6.6*
+*Released on 2021-12-02, vote average 6.5*
 
 When two siblings stumble on a strange hole in the wall of their grandparents’ house, horrifying incidents reveal sinister secrets about their family.
 
@@ -91,7 +91,7 @@ Rowena &#34;Ro&#34; is a high-spirited 11-year-old hoping to add more spunk to h
 	
 
 ### Diary of a Wimpy Kid
-*Released on 2021-12-03, vote average 7*
+*Released on 2021-12-03, vote average 7.1*
 
 Greg Heffley is a scrawny but ambitious kid with an active imagination and big plans to be rich and famous – he just has to survive middle school first.
 
@@ -113,7 +113,7 @@ Greg Heffley is a scrawny but ambitious kid with an active imagination and big p
 	
 
 ### Shaun the Sheep: The Flight Before Christmas
-*Released on 2021-12-03, vote average 7*
+*Released on 2021-12-03, vote average 6.9*
 
 Shaun&#39;s seasonal excitement turns to dismay when a farmhouse raid to get bigger stockings for the flock inadvertently leads to Timmy going missing. Can Shaun get Timmy back before he becomes someone else’s present?
 
@@ -135,7 +135,7 @@ Shaun&#39;s seasonal excitement turns to dismay when a farmhouse raid to get big
 	
 
 ### Last Shoot Out
-*Released on 2021-12-03, vote average 6.6*
+*Released on 2021-12-03, vote average 6.9*
 
 Soon after a newlywed learns that her husband had her father shot down, she flees from the Callahan ranch in fear. She&#39;s rescued by a gunman who safeguards her at a remote outpost as he staves off her husband&#39;s attempts to reclaim his bride.
 
@@ -179,7 +179,7 @@ On the eve of Y2K, orphaned 12-year-old Beverly discovers a broken mixtape craft
 	
 
 ### Sing 2
-*Released on 2021-12-01, vote average 7.8*
+*Released on 2021-12-01, vote average 7.9*
 
 Buster and his new cast now have their sights set on debuting a new show at the Crystal Tower Theater in glamorous Redshore City. But with no connections, he and his singers must sneak into the Crystal Entertainment offices, run by the ruthless wolf mogul Jimmy Crystal, where the gang pitches the ridiculous idea of casting the lion rock legend Clay Calloway in their show. Buster must embark on a quest to find the now-isolated Clay and persuade him to return to the stage.
 
@@ -187,7 +187,7 @@ Buster and his new cast now have their sights set on debuting a new show at the 
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/EPZu5MA2uqI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Uic3FIIUekE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -222,6 +222,50 @@ Christmas is drawing near, but it’s not a happy time for David. After moving t
 	
 	
 
+### Mickey and Minnie Wish Upon a Christmas
+*Released on 2021-12-02, vote average 6.9*
+
+After a series of mishaps, Mickey, Minnie and the gang are separated all over the world and must try to get back to Hot Dog Hills by Christmas Eve. A mysterious and jolly stranger shows up to tell them about The Wishing Star, which could be the secret to bringing everybody home in time to celebrate together.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IOG_Rul-34M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### American Sicario
+*Released on 2021-12-10, vote average 6*
+
+The story of the rise and fall of the first American-born drug lord in Mexico, this tale of power, money, greed and betrayal amongst rival members of the drug cartels finds American gangster Erik Vasquez scheming to become the top dog in the Mexican underworld, only to find himself making enemies out of both the powerful cartels and his own allies.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5EugiAQoLnQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Don&#39;t Look Up
 *Released on 2021-12-07, vote average 8.3*
 
@@ -243,21 +287,6 @@ Two astronomers go on a media tour to warn humankind of a planet-killing comet h
 
 	
 	
-
-### Mickey and Minnie Wish Upon a Christmas
-*Released on 2021-12-02, vote average 6.8*
-
-After a series of mishaps, Mickey, Minnie and the gang are separated all over the world and must try to get back to Hot Dog Hills by Christmas Eve. A mysterious and jolly stranger shows up to tell them about The Wishing Star, which could be the secret to bringing everybody home in time to celebrate together.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IOG_Rul-34M?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -267,7 +296,7 @@ After a series of mishaps, Mickey, Minnie and the gang are separated all over th
 	
 
 ### West Side Story
-*Released on 2021-12-08, vote average 7.1*
+*Released on 2021-12-08, vote average 7.2*
 
 Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy.
 
@@ -289,7 +318,7 @@ Two youngsters from rival New York City gangs fall in love, but tensions between
 	
 
 ### Silent Night
-*Released on 2021-12-03, vote average 6.4*
+*Released on 2021-12-03, vote average 6.5*
 
 Nell, Simon, and their boy Art are ready to welcome friends and family for what promises to be a perfect Christmas gathering. Perfect except for one thing: everyone is going to die.
 
@@ -310,59 +339,8 @@ Nell, Simon, and their boy Art are ready to welcome friends and family for what 
 	
 	
 
-### American Sicario
-*Released on 2021-12-10, vote average 2*
-
-The story of the rise and fall of the first American-born drug lord in Mexico, this tale of power, money, greed and betrayal amongst rival members of the drug cartels finds American gangster Erik Vasquez scheming to become the top dog in the Mexican underworld, only to find himself making enemies out of both the powerful cartels and his own allies.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/5EugiAQoLnQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### A Royal Queens Christmas
-*Released on 2021-12-11, vote average 6*
-
-A prince finds his way to Queens during Christmas when a local woman enlists his help with a children&#39;s Christmas show.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/de5oAwRFqyI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Hating Game
-*Released on 2021-12-09, vote average 5.5*
+*Released on 2021-12-09, vote average 5.9*
 
 Resolving to achieve professional success without compromising her ethics, Lucy embarks on a ruthless game of one-upmanship against cold and efficient nemesis Joshua, a rivalry that is complicated by her growing attraction to him.
 
@@ -382,16 +360,9 @@ Resolving to achieve professional success without compromising her ethics, Lucy 
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### The Last Son
-*Released on 2021-12-10, vote average 4*
+*Released on 2021-12-10, vote average 5.7*
 
 Sam Worthington stars as Isaac LeMay, a murderous outlaw who learns he is cursed by a prophecy: one of his children will kill him. To prevent this, he hunts down each of his estranged children including long-lost son Cal (Colson Baker). With bounty hunters and Sheriff Solomon (Thomas Jane) on his tail, LeMay must find a way to stop his children and end the curse.
 
@@ -411,17 +382,46 @@ Sam Worthington stars as Isaac LeMay, a murderous outlaw who learns he is cursed
 
 	
 	
+	
 
-### Asakusa Kid
-*Released on 2021-12-09, vote average 6*
+  
 
-In 1965, Takeshi Kitano drops out of a university and enters the Asakusa France Za, which is a performance theater. He becomes an apprentice to Senzaburo Fukami, who is a legendary entertainer. Senzaburo Fukami demands that Takeshi Kitano keep the mindset of an entertainer, not only on stage, but also in his daily life. Takeshi Kitano cultivates his dream of becoming an entertainer with other apprentices. Due to the popularity of TV, people attend the theater less and less, but Takeshi Kitano spends his youthful days with Senzaburo Fukami and other apprentices who are full of talent and unique personalities.
+
+	
+	
+
+### Agnes
+*Released on 2021-12-10, vote average 6*
+
+Rumors of demonic possession at a religious convent prompts a church investigation into the strange goings-on among its nuns. A disaffected priest and his neophyte are confronted with temptation, bloodshed and a crisis of faith.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/KhzBFfkvn44?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/WEWQbBOFcz4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### American Refugee
+*Released on 2021-12-10, vote average 7.2*
+
+A story of a family seeking shelter in a neighbor’s bunker while the American economy is in collapse and the nation under martial law. There they find the danger inside is potentially greater than the danger outside.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/aGjReL9ByIA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -440,13 +440,13 @@ In 1965, Takeshi Kitano drops out of a university and enters the Asakusa France 
 	
 
 	
-	
-	
 
 	
 
 	
 
+	
+	
 	
 
 	
