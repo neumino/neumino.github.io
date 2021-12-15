@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### The Whole Truth
-*Released on 2021-12-02, vote average 6.6*
+### Spider-Man: No Way Home
+*Released on 2021-12-15, vote average 8.5*
 
-When two siblings stumble on a strange hole in the wall of their grandparents’ house, horrifying incidents reveal sinister secrets about their family.
+Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/wNIY6wfkQxM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/UV2ZWTSHjSs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,60 @@ When two siblings stumble on a strange hole in the wall of their grandparents’
 	
 	
 
-### Christmas ...Again?!
-*Released on 2021-12-03, vote average 7.5*
+### Diary of a Wimpy Kid
+*Released on 2021-12-03, vote average 7.1*
 
-Rowena &#34;Ro&#34; is a high-spirited 11-year-old hoping to add more spunk to her Christmas celebrations when her parents’ divorce is going anything but smoothly.
+Greg Heffley is a scrawny but ambitious kid with an active imagination and big plans to be rich and famous – he just has to survive middle school first.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Tu97_zZ-Rk4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/VKhCPUa-glo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Whole Truth
+*Released on 2021-12-02, vote average 6.5*
+
+When two siblings stumble on a strange hole in the wall of their grandparents’ house, horrifying incidents reveal sinister secrets about their family.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wNIY6wfkQxM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Last Shoot Out
+*Released on 2021-12-03, vote average 6.8*
+
+Soon after a newlywed learns that her husband had her father shot down, she flees from the Callahan ranch in fear. She&#39;s rescued by a gunman who safeguards her at a remote outpost as he staves off her husband&#39;s attempts to reclaim his bride.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PqqYBoz2Y4c?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -90,6 +134,28 @@ Desperate to avoid his family’s judgment about his perpetual single status, Pe
 	
 	
 
+### Christmas ...Again?!
+*Released on 2021-12-03, vote average 7.6*
+
+Rowena &#34;Ro&#34; is a high-spirited 11-year-old hoping to add more spunk to her Christmas celebrations when her parents’ divorce is going anything but smoothly.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Tu97_zZ-Rk4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Shaun the Sheep: The Flight Before Christmas
 *Released on 2021-12-03, vote average 6.9*
 
@@ -112,52 +178,8 @@ Shaun&#39;s seasonal excitement turns to dismay when a farmhouse raid to get big
 	
 	
 
-### Last Shoot Out
-*Released on 2021-12-03, vote average 6.9*
-
-Soon after a newlywed learns that her husband had her father shot down, she flees from the Callahan ranch in fear. She&#39;s rescued by a gunman who safeguards her at a remote outpost as he staves off her husband&#39;s attempts to reclaim his bride.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/PqqYBoz2Y4c?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Diary of a Wimpy Kid
-*Released on 2021-12-03, vote average 7*
-
-Greg Heffley is a scrawny but ambitious kid with an active imagination and big plans to be rich and famous – he just has to survive middle school first.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/VKhCPUa-glo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Sing 2
-*Released on 2021-12-01, vote average 8*
+*Released on 2021-12-01, vote average 7.8*
 
 Buster and his new cast now have their sights set on debuting a new show at the Crystal Tower Theater in glamorous Redshore City. But with no connections, he and his singers must sneak into the Crystal Entertainment offices, run by the ruthless wolf mogul Jimmy Crystal, where the gang pitches the ridiculous idea of casting the lion rock legend Clay Calloway in their show. Buster must embark on a quest to find the now-isolated Clay and persuade him to return to the stage.
 
@@ -165,7 +187,29 @@ Buster and his new cast now have their sights set on debuting a new show at the 
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Uic3FIIUekE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/wo2myV-7la4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### David and the Elves
+*Released on 2021-12-06, vote average 6.9*
+
+Christmas is drawing near, but it’s not a happy time for David. After moving to a big city, his parents have been bogged down with work and forgotten the meaning of Christmas. David decides to change that. Together with Albert the Elf, who escaped from the land of Santa to figure out what Christmas is all about, David sets off to Tatra Mountains, where his grandparents live, on a journey full of adventures.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mQqGOdHFsrY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -200,37 +244,8 @@ On the eve of Y2K, orphaned 12-year-old Beverly discovers a broken mixtape craft
 	
 	
 
-### David and the Elves
-*Released on 2021-12-06, vote average 7*
-
-Christmas is drawing near, but it’s not a happy time for David. After moving to a big city, his parents have been bogged down with work and forgotten the meaning of Christmas. David decides to change that. Together with Albert the Elf, who escaped from the land of Santa to figure out what Christmas is all about, David sets off to Tatra Mountains, where his grandparents live, on a journey full of adventures.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/mQqGOdHFsrY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
 ### Mickey and Minnie Wish Upon a Christmas
-*Released on 2021-12-02, vote average 7*
+*Released on 2021-12-02, vote average 7.2*
 
 After a series of mishaps, Mickey, Minnie and the gang are separated all over the world and must try to get back to Hot Dog Hills by Christmas Eve. A mysterious and jolly stranger shows up to tell them about The Wishing Star, which could be the secret to bringing everybody home in time to celebrate together.
 
@@ -250,43 +265,6 @@ After a series of mishaps, Mickey, Minnie and the gang are separated all over th
 
 	
 	
-
-### American Sicario
-*Released on 2021-12-10, vote average 6*
-
-The story of the rise and fall of the first American-born drug lord in Mexico, this tale of power, money, greed and betrayal amongst rival members of the drug cartels finds American gangster Erik Vasquez scheming to become the top dog in the Mexican underworld, only to find himself making enemies out of both the powerful cartels and his own allies.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/5EugiAQoLnQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Don&#39;t Look Up
-*Released on 2021-12-07, vote average 8.3*
-
-Two astronomers go on a media tour to warn humankind of a planet-killing comet hurtling toward Earth. The response from a distracted world: Meh.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/RbIxYm3mKzI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -296,7 +274,7 @@ Two astronomers go on a media tour to warn humankind of a planet-killing comet h
 	
 
 ### The Hating Game
-*Released on 2021-12-09, vote average 6.6*
+*Released on 2021-12-09, vote average 7.1*
 
 Resolving to achieve professional success without compromising her ethics, Lucy embarks on a ruthless game of one-upmanship against cold and efficient nemesis Joshua, a rivalry that is complicated by her growing attraction to him.
 
@@ -317,8 +295,30 @@ Resolving to achieve professional success without compromising her ethics, Lucy 
 	
 	
 
+### Don&#39;t Look Up
+*Released on 2021-12-07, vote average 8.1*
+
+Two astronomers go on a media tour to warn humankind of a planet-killing comet hurtling toward Earth. The response from a distracted world: Meh.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/RbIxYm3mKzI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### West Side Story
-*Released on 2021-12-08, vote average 7.2*
+*Released on 2021-12-08, vote average 7.4*
 
 Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy.
 
@@ -340,7 +340,7 @@ Two youngsters from rival New York City gangs fall in love, but tensions between
 	
 
 ### Silent Night
-*Released on 2021-12-03, vote average 6.5*
+*Released on 2021-12-03, vote average 6.4*
 
 Nell, Simon, and their boy Art are ready to welcome friends and family for what promises to be a perfect Christmas gathering. Perfect except for one thing: everyone is going to die.
 
@@ -361,16 +361,16 @@ Nell, Simon, and their boy Art are ready to welcome friends and family for what 
 	
 	
 
-### The Last Son
-*Released on 2021-12-10, vote average 6.3*
+### Encounter
+*Released on 2021-12-03, vote average 6.3*
 
-Sam Worthington stars as Isaac LeMay, a murderous outlaw who learns he is cursed by a prophecy: one of his children will kill him. To prevent this, he hunts down each of his estranged children including long-lost son Cal (Colson Baker). With bounty hunters and Sheriff Solomon (Thomas Jane) on his tail, LeMay must find a way to stop his children and end the curse.
+A decorated Marine goes on a rescue mission to save his two young sons from an unhuman threat. As their journey takes them in increasingly dangerous directions, the boys will need to leave their childhoods behind.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/KilcySbvmP8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/SB44bZVe-c4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -381,10 +381,15 @@ Sam Worthington stars as Isaac LeMay, a murderous outlaw who learns he is cursed
 
 
 	
+
+  
+
+
+	
 	
 
 ### Snoopy Presents: For Auld Lang Syne
-*Released on 2021-12-09, vote average 7*
+*Released on 2021-12-09, vote average 7.8*
 
 After finding out her grandmother won&#39;t be visiting for Christmas, Lucy decides to cheer herself up by throwing the ultimate New Year&#39;s Eve party. Meanwhile, Charlie Brown tries to fulfill one of his resolutions before the clock strikes midnight.
 
@@ -404,24 +409,17 @@ After finding out her grandmother won&#39;t be visiting for Christmas, Lucy deci
 
 	
 	
-	
 
-  
+### Back to the Outback
+*Released on 2021-12-03, vote average 8*
 
-
-	
-	
-
-### A Royal Queens Christmas
-*Released on 2021-12-11, vote average 6*
-
-A prince finds his way to Queens during Christmas when a local woman enlists his help with a children&#39;s Christmas show.
+Tired of being locked in a reptile house where humans gawk at them like they are monsters, a ragtag group of Australia’s deadliest creatures plot an escape from their zoo to the Outback, a place where they’ll fit in without being judged.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/eI3yDeA9Fi8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/3WmgiZngHkg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -439,7 +437,7 @@ A prince finds his way to Queens during Christmas when a local woman enlists his
 	
 
 ### Spider-Man: No Way Home
-*Released on 2021-12-15, vote average 8.4*
+*Released on 2021-12-15, vote average 8.5*
 
 Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.
 
@@ -458,7 +456,7 @@ Peter Parker is unmasked and no longer able to separate his normal life from the
 	
 
 ### The Matrix Resurrections
-*Released on 2021-12-16, vote average 8*
+*Released on 2021-12-16, vote average 8.7*
 
 Plagued by strange memories, Neo&#39;s life takes an unexpected turn when he finds himself back inside the Matrix.
 
@@ -486,7 +484,22 @@ Plagued by strange memories, Neo&#39;s life takes an unexpected turn when he fin
 	
 
 	
+	
 
+### Fortress
+*Released on 2021-12-17, vote average 5*
+
+The story revolves around a top-secret resort for retired U.S. intelligence officers. A group of criminals led by Balzary breach the compound, hellbent on revenge on Robert, forcing the retired officer and his son to save the day.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/GNGXauix9Mo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -502,13 +515,34 @@ Plagued by strange memories, Neo&#39;s life takes an unexpected turn when he fin
 	
 
 	
-
+	
 	
 
 	
 
 	
 
+	
+
+	
+
+	
+	
+
+### Glass Jaw
+*Released on 2021-12-16, vote average 9*
+
+Glass Jaw is the redemption story of Travis Austin, a one time champion boxer who goes to prison and loses everything. After his release, he experiences the trials and tribulations of redeeming his reputation, his belt, and his true love.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jrzg9m4mbiA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 
