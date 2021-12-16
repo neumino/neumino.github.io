@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Spider-Man: No Way Home
-*Released on 2021-12-15, vote average 8.5*
+*Released on 2021-12-15, vote average 8.4*
 
 Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.
 
@@ -68,30 +68,8 @@ Greg Heffley is a scrawny but ambitious kid with an active imagination and big p
 	
 	
 
-### The Whole Truth
-*Released on 2021-12-02, vote average 6.5*
-
-When two siblings stumble on a strange hole in the wall of their grandparents’ house, horrifying incidents reveal sinister secrets about their family.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wNIY6wfkQxM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Last Shoot Out
-*Released on 2021-12-03, vote average 6.8*
+*Released on 2021-12-03, vote average 7.1*
 
 Soon after a newlywed learns that her husband had her father shot down, she flees from the Callahan ranch in fear. She&#39;s rescued by a gunman who safeguards her at a remote outpost as he staves off her husband&#39;s attempts to reclaim his bride.
 
@@ -112,16 +90,38 @@ Soon after a newlywed learns that her husband had her father shot down, she flee
 	
 	
 
-### Single All the Way
-*Released on 2021-12-02, vote average 6.4*
+### The Whole Truth
+*Released on 2021-12-02, vote average 6.6*
 
-Desperate to avoid his family’s judgment about his perpetual single status, Peter convinces his best friend Nick to join him for the holidays and pretend that they’re now in a relationship. But when Peter’s mother sets him up on a blind date with her handsome trainer James, the plan goes awry.
+When two siblings stumble on a strange hole in the wall of their grandparents’ house, horrifying incidents reveal sinister secrets about their family.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/kCQxxqdowOg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/wNIY6wfkQxM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Shaun the Sheep: The Flight Before Christmas
+*Released on 2021-12-03, vote average 7*
+
+Shaun&#39;s seasonal excitement turns to dismay when a farmhouse raid to get bigger stockings for the flock inadvertently leads to Timmy going missing. Can Shaun get Timmy back before he becomes someone else’s present?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QtVCreYpNZY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -156,38 +156,16 @@ Rowena &#34;Ro&#34; is a high-spirited 11-year-old hoping to add more spunk to h
 	
 	
 
-### Shaun the Sheep: The Flight Before Christmas
-*Released on 2021-12-03, vote average 6.9*
+### Single All the Way
+*Released on 2021-12-02, vote average 6.4*
 
-Shaun&#39;s seasonal excitement turns to dismay when a farmhouse raid to get bigger stockings for the flock inadvertently leads to Timmy going missing. Can Shaun get Timmy back before he becomes someone else’s present?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/QtVCreYpNZY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Sing 2
-*Released on 2021-12-01, vote average 7.8*
-
-Buster and his new cast now have their sights set on debuting a new show at the Crystal Tower Theater in glamorous Redshore City. But with no connections, he and his singers must sneak into the Crystal Entertainment offices, run by the ruthless wolf mogul Jimmy Crystal, where the gang pitches the ridiculous idea of casting the lion rock legend Clay Calloway in their show. Buster must embark on a quest to find the now-isolated Clay and persuade him to return to the stage.
+Desperate to avoid his family’s judgment about his perpetual single status, Peter convinces his best friend Nick to join him for the holidays and pretend that they’re now in a relationship. But when Peter’s mother sets him up on a blind date with her handsome trainer James, the plan goes awry.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/wo2myV-7la4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/kCQxxqdowOg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -210,28 +188,6 @@ Christmas is drawing near, but it’s not a happy time for David. After moving t
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/mQqGOdHFsrY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Mixtape
-*Released on 2021-12-03, vote average 7.6*
-
-On the eve of Y2K, orphaned 12-year-old Beverly discovers a broken mixtape crafted by her teen parents. Raised by her grandmother - who struggles talking about her late daughter - Beverly sees the mixtape as a chance to finally learn more about her parents.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IAxDaDw7TfM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -273,8 +229,52 @@ After a series of mishaps, Mickey, Minnie and the gang are separated all over th
 	
 	
 
+### Mixtape
+*Released on 2021-12-03, vote average 7.6*
+
+On the eve of Y2K, orphaned 12-year-old Beverly discovers a broken mixtape crafted by her teen parents. Raised by her grandmother - who struggles talking about her late daughter - Beverly sees the mixtape as a chance to finally learn more about her parents.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IAxDaDw7TfM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Matrix Resurrections
+*Released on 2021-12-16, vote average 8.9*
+
+Plagued by strange memories, Neo&#39;s life takes an unexpected turn when he finds himself back inside the Matrix.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/GlDr6aKBtFg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Hating Game
-*Released on 2021-12-09, vote average 7.1*
+*Released on 2021-12-09, vote average 7.4*
 
 Resolving to achieve professional success without compromising her ethics, Lucy embarks on a ruthless game of one-upmanship against cold and efficient nemesis Joshua, a rivalry that is complicated by her growing attraction to him.
 
@@ -295,8 +295,52 @@ Resolving to achieve professional success without compromising her ethics, Lucy 
 	
 	
 
+### Encounter
+*Released on 2021-12-03, vote average 6.3*
+
+A decorated Marine goes on a rescue mission to save his two young sons from an unhuman threat. As their journey takes them in increasingly dangerous directions, the boys will need to leave their childhoods behind.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/SB44bZVe-c4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Snoopy Presents: For Auld Lang Syne
+*Released on 2021-12-09, vote average 7.6*
+
+After finding out her grandmother won&#39;t be visiting for Christmas, Lucy decides to cheer herself up by throwing the ultimate New Year&#39;s Eve party. Meanwhile, Charlie Brown tries to fulfill one of his resolutions before the clock strikes midnight.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/feu3E6aSBvE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Don&#39;t Look Up
-*Released on 2021-12-07, vote average 8.1*
+*Released on 2021-12-07, vote average 8.2*
 
 Two astronomers go on a media tour to warn humankind of a planet-killing comet hurtling toward Earth. The response from a distracted world: Meh.
 
@@ -317,8 +361,30 @@ Two astronomers go on a media tour to warn humankind of a planet-killing comet h
 	
 	
 
+### Back to the Outback
+*Released on 2021-12-03, vote average 7.8*
+
+Tired of being locked in a reptile house where humans gawk at them like they are monsters, a ragtag group of Australia’s deadliest creatures plot an escape from their zoo to the Outback, a place where they’ll fit in without being judged.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3WmgiZngHkg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### West Side Story
-*Released on 2021-12-08, vote average 7.4*
+*Released on 2021-12-08, vote average 7.5*
 
 Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy.
 
@@ -360,70 +426,6 @@ Nell, Simon, and their boy Art are ready to welcome friends and family for what 
 
 	
 	
-
-### Encounter
-*Released on 2021-12-03, vote average 6.3*
-
-A decorated Marine goes on a rescue mission to save his two young sons from an unhuman threat. As their journey takes them in increasingly dangerous directions, the boys will need to leave their childhoods behind.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/SB44bZVe-c4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Snoopy Presents: For Auld Lang Syne
-*Released on 2021-12-09, vote average 7.8*
-
-After finding out her grandmother won&#39;t be visiting for Christmas, Lucy decides to cheer herself up by throwing the ultimate New Year&#39;s Eve party. Meanwhile, Charlie Brown tries to fulfill one of his resolutions before the clock strikes midnight.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/feu3E6aSBvE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Back to the Outback
-*Released on 2021-12-03, vote average 8*
-
-Tired of being locked in a reptile house where humans gawk at them like they are monsters, a ragtag group of Australia’s deadliest creatures plot an escape from their zoo to the Outback, a place where they’ll fit in without being judged.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3WmgiZngHkg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -436,27 +438,8 @@ Tired of being locked in a reptile house where humans gawk at them like they are
 	
 	
 
-### Spider-Man: No Way Home
-*Released on 2021-12-15, vote average 8.5*
-
-Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/UV2ZWTSHjSs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
 ### The Matrix Resurrections
-*Released on 2021-12-16, vote average 8.7*
+*Released on 2021-12-16, vote average 8.9*
 
 Plagued by strange memories, Neo&#39;s life takes an unexpected turn when he finds himself back inside the Matrix.
 
@@ -469,14 +452,6 @@ Plagued by strange memories, Neo&#39;s life takes an unexpected turn when he fin
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-	
-	
-
 	
 
 	
@@ -509,17 +484,7 @@ The story revolves around a top-secret resort for retired U.S. intelligence offi
 	
 
 	
-
 	
-
-	
-
-	
-	
-	
-
-	
-
 	
 
 	
@@ -543,6 +508,43 @@ Glass Jaw is the redemption story of Travis Austin, a one time champion boxer wh
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### The Tender Bar
+*Released on 2021-12-17, vote average 8*
+
+J.R. is a fatherless boy growing up in the glow of a bar where the bartender, his Uncle Charlie, is the sharpest and most colorful of an assortment of quirky and demonstrative father figures. As the boy’s determined mother struggles to provide her son with opportunities denied to her — and leave the dilapidated home of her outrageous if begrudgingly supportive father — J.R. begins to gamely, if not always gracefully, pursue his romantic and professional dreams, with one foot persistently placed in Uncle Charlie’s bar.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5-DS9vtLeEs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+	
+	
+
+	
+
+	
+
 	
 
 
