@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Spider-Man: No Way Home
-*Released on 2021-12-15, vote average 8.4*
+*Released on 2021-12-15, vote average 8.7*
 
 Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.
 
@@ -69,7 +69,7 @@ Greg Heffley is a scrawny but ambitious kid with an active imagination and big p
 	
 
 ### Last Shoot Out
-*Released on 2021-12-03, vote average 7.1*
+*Released on 2021-12-03, vote average 6.8*
 
 Soon after a newlywed learns that her husband had her father shot down, she flees from the Callahan ranch in fear. She&#39;s rescued by a gunman who safeguards her at a remote outpost as he staves off her husband&#39;s attempts to reclaim his bride.
 
@@ -90,16 +90,16 @@ Soon after a newlywed learns that her husband had her father shot down, she flee
 	
 	
 
-### The Whole Truth
-*Released on 2021-12-02, vote average 6.6*
+### Christmas ...Again?!
+*Released on 2021-12-03, vote average 7.7*
 
-When two siblings stumble on a strange hole in the wall of their grandparents’ house, horrifying incidents reveal sinister secrets about their family.
+Rowena &#34;Ro&#34; is a high-spirited 11-year-old hoping to add more spunk to her Christmas celebrations when her parents’ divorce is going anything but smoothly.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/wNIY6wfkQxM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Tu97_zZ-Rk4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,52 +134,8 @@ Shaun&#39;s seasonal excitement turns to dismay when a farmhouse raid to get big
 	
 	
 
-### Christmas ...Again?!
-*Released on 2021-12-03, vote average 7.6*
-
-Rowena &#34;Ro&#34; is a high-spirited 11-year-old hoping to add more spunk to her Christmas celebrations when her parents’ divorce is going anything but smoothly.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Tu97_zZ-Rk4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Single All the Way
-*Released on 2021-12-02, vote average 6.4*
-
-Desperate to avoid his family’s judgment about his perpetual single status, Peter convinces his best friend Nick to join him for the holidays and pretend that they’re now in a relationship. But when Peter’s mother sets him up on a blind date with her handsome trainer James, the plan goes awry.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kCQxxqdowOg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### David and the Elves
-*Released on 2021-12-06, vote average 6.9*
+*Released on 2021-12-06, vote average 6.8*
 
 Christmas is drawing near, but it’s not a happy time for David. After moving to a big city, his parents have been bogged down with work and forgotten the meaning of Christmas. David decides to change that. Together with Albert the Elf, who escaped from the land of Santa to figure out what Christmas is all about, David sets off to Tatra Mountains, where his grandparents live, on a journey full of adventures.
 
@@ -199,50 +155,6 @@ Christmas is drawing near, but it’s not a happy time for David. After moving t
 
 	
 	
-
-### Mickey and Minnie Wish Upon a Christmas
-*Released on 2021-12-02, vote average 7.2*
-
-After a series of mishaps, Mickey, Minnie and the gang are separated all over the world and must try to get back to Hot Dog Hills by Christmas Eve. A mysterious and jolly stranger shows up to tell them about The Wishing Star, which could be the secret to bringing everybody home in time to celebrate together.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IOG_Rul-34M?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Mixtape
-*Released on 2021-12-03, vote average 7.6*
-
-On the eve of Y2K, orphaned 12-year-old Beverly discovers a broken mixtape crafted by her teen parents. Raised by her grandmother - who struggles talking about her late daughter - Beverly sees the mixtape as a chance to finally learn more about her parents.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IAxDaDw7TfM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -252,7 +164,7 @@ On the eve of Y2K, orphaned 12-year-old Beverly discovers a broken mixtape craft
 	
 
 ### The Matrix Resurrections
-*Released on 2021-12-16, vote average 8.9*
+*Released on 2021-12-16, vote average 9.1*
 
 Plagued by strange memories, Neo&#39;s life takes an unexpected turn when he finds himself back inside the Matrix.
 
@@ -273,16 +185,16 @@ Plagued by strange memories, Neo&#39;s life takes an unexpected turn when he fin
 	
 	
 
-### The Hating Game
-*Released on 2021-12-09, vote average 7.4*
+### Mixtape
+*Released on 2021-12-03, vote average 7.6*
 
-Resolving to achieve professional success without compromising her ethics, Lucy embarks on a ruthless game of one-upmanship against cold and efficient nemesis Joshua, a rivalry that is complicated by her growing attraction to him.
+On the eve of Y2K, orphaned 12-year-old Beverly discovers a broken mixtape crafted by her teen parents. Raised by her grandmother - who struggles talking about her late daughter - Beverly sees the mixtape as a chance to finally learn more about her parents.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/j3qBGOD4b4A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/IAxDaDw7TfM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -339,28 +251,6 @@ After finding out her grandmother won&#39;t be visiting for Christmas, Lucy deci
 	
 	
 
-### Don&#39;t Look Up
-*Released on 2021-12-07, vote average 8.2*
-
-Two astronomers go on a media tour to warn humankind of a planet-killing comet hurtling toward Earth. The response from a distracted world: Meh.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/RbIxYm3mKzI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Back to the Outback
 *Released on 2021-12-03, vote average 7.8*
 
@@ -405,8 +295,52 @@ Two youngsters from rival New York City gangs fall in love, but tensions between
 	
 	
 
+### The Hating Game
+*Released on 2021-12-09, vote average 7.3*
+
+Resolving to achieve professional success without compromising her ethics, Lucy embarks on a ruthless game of one-upmanship against cold and efficient nemesis Joshua, a rivalry that is complicated by her growing attraction to him.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/j3qBGOD4b4A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Don&#39;t Look Up
+*Released on 2021-12-07, vote average 8*
+
+Two astronomers go on a media tour to warn humankind of a planet-killing comet hurtling toward Earth. The response from a distracted world: Meh.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/RbIxYm3mKzI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Silent Night
-*Released on 2021-12-03, vote average 6.4*
+*Released on 2021-12-03, vote average 6.5*
 
 Nell, Simon, and their boy Art are ready to welcome friends and family for what promises to be a perfect Christmas gathering. Perfect except for one thing: everyone is going to die.
 
@@ -426,6 +360,53 @@ Nell, Simon, and their boy Art are ready to welcome friends and family for what 
 
 	
 	
+
+### Asakusa Kid
+*Released on 2021-12-09, vote average 7.2*
+
+In 1965, Takeshi Kitano drops out of a university and enters the Asakusa France Za, which is a performance theater. He becomes an apprentice to Senzaburo Fukami, who is a legendary entertainer. Senzaburo Fukami demands that Takeshi Kitano keep the mindset of an entertainer, not only on stage, but also in his daily life. Takeshi Kitano cultivates his dream of becoming an entertainer with other apprentices. Due to the popularity of TV, people attend the theater less and less, but Takeshi Kitano spends his youthful days with Senzaburo Fukami and other apprentices who are full of talent and unique personalities.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KhzBFfkvn44?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Last Son
+*Released on 2021-12-10, vote average 6.3*
+
+Sam Worthington stars as Isaac LeMay, a murderous outlaw who learns he is cursed by a prophecy: one of his children will kill him. To prevent this, he hunts down each of his estranged children including long-lost son Cal (Colson Baker). With bounty hunters and Sheriff Solomon (Thomas Jane) on his tail, LeMay must find a way to stop his children and end the curse.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KilcySbvmP8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -436,33 +417,12 @@ Nell, Simon, and their boy Art are ready to welcome friends and family for what 
 
 
 	
-	
-
-### The Matrix Resurrections
-*Released on 2021-12-16, vote average 8.9*
-
-Plagued by strange memories, Neo&#39;s life takes an unexpected turn when he finds himself back inside the Matrix.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/GlDr6aKBtFg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
 
 	
 	
 
 ### Fortress
-*Released on 2021-12-17, vote average 5*
+*Released on 2021-12-17, vote average 5.3*
 
 The story revolves around a top-secret resort for retired U.S. intelligence officers. A group of criminals led by Balzary breach the compound, hellbent on revenge on Robert, forcing the retired officer and his son to save the day.
 
@@ -478,32 +438,18 @@ The story revolves around a top-secret resort for retired U.S. intelligence offi
 	
 
 	
-
 	
 
-	
+### Swan Song
+*Released on 2021-12-17, vote average 6*
 
-	
-	
-	
-
-	
-
-	
-
-	
-	
-
-### Glass Jaw
-*Released on 2021-12-16, vote average 9*
-
-Glass Jaw is the redemption story of Travis Austin, a one time champion boxer who goes to prison and loses everything. After his release, he experiences the trials and tribulations of redeeming his reputation, his belt, and his true love.
+In the near future, Cameron Turner is diagnosed with a terminal illness. Presented with an experimental solution to shield his wife and son from grief, he grapples with altering their fate.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/jrzg9m4mbiA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/LxftqrrlSqc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -536,6 +482,16 @@ J.R. is a fatherless boy growing up in the glow of a bar where the bartender, hi
 	
 
 	
+	
+	
+
+	
+
+	
+
+	
+
+	
 
 	
 	
@@ -543,6 +499,31 @@ J.R. is a fatherless boy growing up in the glow of a bar where the bartender, hi
 
 	
 
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### I Am What I Am
+*Released on 2021-12-17, vote average 10*
+
+This film tells the story of the growth of the left-behind teenager Ah Juan and his friends Ah Cat and Ah Dog in the training of the retired lion king Salty Strong to participate in the lion dance competition
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/a08iNDTLPZU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
