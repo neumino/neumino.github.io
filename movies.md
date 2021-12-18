@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Spider-Man: No Way Home
-*Released on 2021-12-15, vote average 8.7*
+*Released on 2021-12-15, vote average 8.8*
 
 Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.
 
@@ -46,96 +46,8 @@ Peter Parker is unmasked and no longer able to separate his normal life from the
 	
 	
 
-### Diary of a Wimpy Kid
-*Released on 2021-12-03, vote average 7.1*
-
-Greg Heffley is a scrawny but ambitious kid with an active imagination and big plans to be rich and famous – he just has to survive middle school first.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/VKhCPUa-glo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Last Shoot Out
-*Released on 2021-12-03, vote average 6.8*
-
-Soon after a newlywed learns that her husband had her father shot down, she flees from the Callahan ranch in fear. She&#39;s rescued by a gunman who safeguards her at a remote outpost as he staves off her husband&#39;s attempts to reclaim his bride.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/PqqYBoz2Y4c?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Christmas ...Again?!
-*Released on 2021-12-03, vote average 7.7*
-
-Rowena &#34;Ro&#34; is a high-spirited 11-year-old hoping to add more spunk to her Christmas celebrations when her parents’ divorce is going anything but smoothly.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Tu97_zZ-Rk4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Shaun the Sheep: The Flight Before Christmas
-*Released on 2021-12-03, vote average 7*
-
-Shaun&#39;s seasonal excitement turns to dismay when a farmhouse raid to get bigger stockings for the flock inadvertently leads to Timmy going missing. Can Shaun get Timmy back before he becomes someone else’s present?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/QtVCreYpNZY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### David and the Elves
-*Released on 2021-12-06, vote average 6.8*
+*Released on 2021-12-06, vote average 6.7*
 
 Christmas is drawing near, but it’s not a happy time for David. After moving to a big city, his parents have been bogged down with work and forgotten the meaning of Christmas. David decides to change that. Together with Albert the Elf, who escaped from the land of Santa to figure out what Christmas is all about, David sets off to Tatra Mountains, where his grandparents live, on a journey full of adventures.
 
@@ -164,7 +76,7 @@ Christmas is drawing near, but it’s not a happy time for David. After moving t
 	
 
 ### The Matrix Resurrections
-*Released on 2021-12-16, vote average 9.1*
+*Released on 2021-12-16, vote average 8.7*
 
 Plagued by strange memories, Neo&#39;s life takes an unexpected turn when he finds himself back inside the Matrix.
 
@@ -185,52 +97,8 @@ Plagued by strange memories, Neo&#39;s life takes an unexpected turn when he fin
 	
 	
 
-### Mixtape
-*Released on 2021-12-03, vote average 7.6*
-
-On the eve of Y2K, orphaned 12-year-old Beverly discovers a broken mixtape crafted by her teen parents. Raised by her grandmother - who struggles talking about her late daughter - Beverly sees the mixtape as a chance to finally learn more about her parents.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IAxDaDw7TfM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Encounter
-*Released on 2021-12-03, vote average 6.3*
-
-A decorated Marine goes on a rescue mission to save his two young sons from an unhuman threat. As their journey takes them in increasingly dangerous directions, the boys will need to leave their childhoods behind.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/SB44bZVe-c4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Snoopy Presents: For Auld Lang Syne
-*Released on 2021-12-09, vote average 7.6*
+*Released on 2021-12-09, vote average 7.7*
 
 After finding out her grandmother won&#39;t be visiting for Christmas, Lucy decides to cheer herself up by throwing the ultimate New Year&#39;s Eve party. Meanwhile, Charlie Brown tries to fulfill one of his resolutions before the clock strikes midnight.
 
@@ -251,16 +119,65 @@ After finding out her grandmother won&#39;t be visiting for Christmas, Lucy deci
 	
 	
 
-### Back to the Outback
-*Released on 2021-12-03, vote average 7.8*
+### Asakusa Kid
+*Released on 2021-12-09, vote average 7.2*
 
-Tired of being locked in a reptile house where humans gawk at them like they are monsters, a ragtag group of Australia’s deadliest creatures plot an escape from their zoo to the Outback, a place where they’ll fit in without being judged.
+In 1965, Takeshi Kitano drops out of a university and enters the Asakusa France Za, which is a performance theater. He becomes an apprentice to Senzaburo Fukami, who is a legendary entertainer. Senzaburo Fukami demands that Takeshi Kitano keep the mindset of an entertainer, not only on stage, but also in his daily life. Takeshi Kitano cultivates his dream of becoming an entertainer with other apprentices. Due to the popularity of TV, people attend the theater less and less, but Takeshi Kitano spends his youthful days with Senzaburo Fukami and other apprentices who are full of talent and unique personalities.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/3WmgiZngHkg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/KhzBFfkvn44?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### South Park: Post Covid: The Return of Covid
+*Released on 2021-12-16, vote average 7.5*
+
+If Stan, Kyle and Cartman could just work together, they could go back in time to make sure Covid never happened. But traveling back to the past seems to be the easy answer until they meet Victor Chaos.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/rMsbqO3O9ck?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Hating Game
+*Released on 2021-12-09, vote average 7.3*
+
+Resolving to achieve professional success without compromising her ethics, Lucy embarks on a ruthless game of one-upmanship against cold and efficient nemesis Joshua, a rivalry that is complicated by her growing attraction to him.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/j3qBGOD4b4A?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -295,28 +212,6 @@ Two youngsters from rival New York City gangs fall in love, but tensions between
 	
 	
 
-### The Hating Game
-*Released on 2021-12-09, vote average 7.3*
-
-Resolving to achieve professional success without compromising her ethics, Lucy embarks on a ruthless game of one-upmanship against cold and efficient nemesis Joshua, a rivalry that is complicated by her growing attraction to him.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/j3qBGOD4b4A?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Don&#39;t Look Up
 *Released on 2021-12-07, vote average 8*
 
@@ -339,52 +234,20 @@ Two astronomers go on a media tour to warn humankind of a planet-killing comet h
 	
 	
 
-### Silent Night
-*Released on 2021-12-03, vote average 6.5*
+### Fortress
+*Released on 2021-12-17, vote average 5.4*
 
-Nell, Simon, and their boy Art are ready to welcome friends and family for what promises to be a perfect Christmas gathering. Perfect except for one thing: everyone is going to die.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/u1dOECVgqIQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Asakusa Kid
-*Released on 2021-12-09, vote average 7.2*
-
-In 1965, Takeshi Kitano drops out of a university and enters the Asakusa France Za, which is a performance theater. He becomes an apprentice to Senzaburo Fukami, who is a legendary entertainer. Senzaburo Fukami demands that Takeshi Kitano keep the mindset of an entertainer, not only on stage, but also in his daily life. Takeshi Kitano cultivates his dream of becoming an entertainer with other apprentices. Due to the popularity of TV, people attend the theater less and less, but Takeshi Kitano spends his youthful days with Senzaburo Fukami and other apprentices who are full of talent and unique personalities.
+The story revolves around a top-secret resort for retired U.S. intelligence officers. A group of criminals led by Balzary breach the compound, hellbent on revenge on Robert, forcing the retired officer and his son to save the day.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/KhzBFfkvn44?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/GNGXauix9Mo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -412,30 +275,12 @@ Sam Worthington stars as Isaac LeMay, a murderous outlaw who learns he is cursed
   
 
 
-
-## Opening soon
-
-
 	
-
 	
 	
 
-### Fortress
-*Released on 2021-12-17, vote average 5.3*
+  
 
-The story revolves around a top-secret resort for retired U.S. intelligence officers. A group of criminals led by Balzary breach the compound, hellbent on revenge on Robert, forcing the retired officer and his son to save the day.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/GNGXauix9Mo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 	
@@ -456,11 +301,40 @@ In the near future, Cameron Turner is diagnosed with a terminal illness. Present
 	
 	
 
-	
+  
+
 
 	
 
+  
+
+
 	
+
+  
+
+
+	
+	
+
+### A California Christmas: City Lights
+*Released on 2021-12-16, vote average 6.3*
+
+Follows Callie and Joseph one year after they fell in love, now running a dairy farm and winery, but their romance is threatened when business and family obligations call Joseph back to the city.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/agh1Mm281Tw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
 
 	
 	
@@ -481,45 +355,101 @@ J.R. is a fatherless boy growing up in the glow of a bar where the bartender, hi
 	
 	
 
-	
-	
-	
+  
 
-	
-
-	
-
-	
-
-	
-
-	
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
 
 	
 	
 
-### I Am What I Am
-*Released on 2021-12-17, vote average 10*
+### Mr. Birthday
+*Released on 2021-12-17, vote average 5*
 
-This film tells the story of the growth of the left-behind teenager Ah Juan and his friends Ah Cat and Ah Dog in the training of the retired lion king Salty Strong to participate in the lion dance competition
+While working his maintenance job at an upscale hotel, Barry encounters the mysterious Mr. Jay. He introduces Barry to the International Birthday Network, an agency which helps children across the globe suffering from miserable birthdays.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/a08iNDTLPZU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xG8yZvrUGL0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+
+## Opening soon
+
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### The Christmas House 2: Deck Those Halls
+*Released on 2021-12-18, vote average 2*
+
+The Mitchell brothers compete to see who can create the best Christmas House.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PznNeHvuGaw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Under the Christmas Tree
+*Released on 2021-12-19, vote average 10*
+
+Marketing whiz Alma Beltran and Christmas tree whisperer Charlie Freemont cross paths when Charlie finds the perfect tree for the Maine Governor&#39;s Holiday Celebration — right in Alma&#39;s back yard. While they initially spar, romantic sparks soon begin to fly between the two women as the enchanting tree and some Christmas fairy dust from the town&#39;s pâtissière extraordinaire bring out the best in them and spark each other to take leaps of faith and fight for love and Christmas magic.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/17lgndN4Zvs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
