@@ -21,7 +21,7 @@ Peter Parker is unmasked and no longer able to separate his normal life from the
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/UV2ZWTSHjSs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Ylufh8C79BI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -76,7 +76,7 @@ Christmas is drawing near, but it’s not a happy time for David. After moving t
 	
 
 ### The Matrix Resurrections
-*Released on 2021-12-16, vote average 8.7*
+*Released on 2021-12-16, vote average 8.3*
 
 Plagued by strange memories, Neo&#39;s life takes an unexpected turn when he finds himself back inside the Matrix.
 
@@ -84,7 +84,7 @@ Plagued by strange memories, Neo&#39;s life takes an unexpected turn when he fin
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/GlDr6aKBtFg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/aH6ZzDZglS4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -98,7 +98,7 @@ Plagued by strange memories, Neo&#39;s life takes an unexpected turn when he fin
 	
 
 ### Snoopy Presents: For Auld Lang Syne
-*Released on 2021-12-09, vote average 7.7*
+*Released on 2021-12-09, vote average 7.5*
 
 After finding out her grandmother won&#39;t be visiting for Christmas, Lucy decides to cheer herself up by throwing the ultimate New Year&#39;s Eve party. Meanwhile, Charlie Brown tries to fulfill one of his resolutions before the clock strikes midnight.
 
@@ -120,7 +120,7 @@ After finding out her grandmother won&#39;t be visiting for Christmas, Lucy deci
 	
 
 ### Asakusa Kid
-*Released on 2021-12-09, vote average 7.2*
+*Released on 2021-12-09, vote average 7.1*
 
 In 1965, Takeshi Kitano drops out of a university and enters the Asakusa France Za, which is a performance theater. He becomes an apprentice to Senzaburo Fukami, who is a legendary entertainer. Senzaburo Fukami demands that Takeshi Kitano keep the mindset of an entertainer, not only on stage, but also in his daily life. Takeshi Kitano cultivates his dream of becoming an entertainer with other apprentices. Due to the popularity of TV, people attend the theater less and less, but Takeshi Kitano spends his youthful days with Senzaburo Fukami and other apprentices who are full of talent and unique personalities.
 
@@ -142,7 +142,7 @@ In 1965, Takeshi Kitano drops out of a university and enters the Asakusa France 
 	
 
 ### South Park: Post Covid: The Return of Covid
-*Released on 2021-12-16, vote average 7.5*
+*Released on 2021-12-16, vote average 7.1*
 
 If Stan, Kyle and Cartman could just work together, they could go back in time to make sure Covid never happened. But traveling back to the past seems to be the easy answer until they meet Victor Chaos.
 
@@ -169,7 +169,7 @@ If Stan, Kyle and Cartman could just work together, they could go back in time t
 	
 
 ### The Hating Game
-*Released on 2021-12-09, vote average 7.3*
+*Released on 2021-12-09, vote average 7.2*
 
 Resolving to achieve professional success without compromising her ethics, Lucy embarks on a ruthless game of one-upmanship against cold and efficient nemesis Joshua, a rivalry that is complicated by her growing attraction to him.
 
@@ -190,16 +190,16 @@ Resolving to achieve professional success without compromising her ethics, Lucy 
 	
 	
 
-### West Side Story
-*Released on 2021-12-08, vote average 7.5*
+### Swan Song
+*Released on 2021-12-17, vote average 6.6*
 
-Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy.
+In the near future, Cameron Turner is diagnosed with a terminal illness. Presented with an experimental solution to shield his wife and son from grief, he grapples with altering their fate.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/snf7Pdn3Giw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/LxftqrrlSqc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -232,6 +232,11 @@ Two astronomers go on a media tour to warn humankind of a planet-killing comet h
 
 
 	
+
+  
+
+
+	
 	
 
 ### Fortress
@@ -244,6 +249,99 @@ The story revolves around a top-secret resort for retired U.S. intelligence offi
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/GNGXauix9Mo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### A California Christmas: City Lights
+*Released on 2021-12-16, vote average 6.4*
+
+Follows Callie and Joseph one year after they fell in love, now running a dairy farm and winery, but their romance is threatened when business and family obligations call Joseph back to the city.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/agh1Mm281Tw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### West Side Story
+*Released on 2021-12-08, vote average 7.5*
+
+Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/snf7Pdn3Giw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Novice
+*Released on 2021-12-17, vote average 7*
+
+A queer college freshman joins her university’s rowing team and undertakes an obsessive physical and psychological journey to make it to the top varsity boat, no matter the cost.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Z4zCPgMdbo0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Mother/Android
+*Released on 2021-12-17, vote average 7.3*
+
+Georgia and her boyfriend Sam go on a treacherous journey to escape their country, which is caught in an unexpected war with artificial intelligence. Days away from the arrival of their first child, the couple must face No Man’s Land—a stronghold of the android uprising—in hopes of reaching safety before giving birth.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/JRl214mDZ-g?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -276,106 +374,6 @@ Sam Worthington stars as Isaac LeMay, a murderous outlaw who learns he is cursed
 
 
 	
-	
-	
-
-  
-
-
-	
-	
-
-### Swan Song
-*Released on 2021-12-17, vote average 6*
-
-In the near future, Cameron Turner is diagnosed with a terminal illness. Presented with an experimental solution to shield his wife and son from grief, he grapples with altering their fate.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LxftqrrlSqc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### A California Christmas: City Lights
-*Released on 2021-12-16, vote average 6.3*
-
-Follows Callie and Joseph one year after they fell in love, now running a dairy farm and winery, but their romance is threatened when business and family obligations call Joseph back to the city.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/agh1Mm281Tw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Tender Bar
-*Released on 2021-12-17, vote average 8*
-
-J.R. is a fatherless boy growing up in the glow of a bar where the bartender, his Uncle Charlie, is the sharpest and most colorful of an assortment of quirky and demonstrative father figures. As the boy’s determined mother struggles to provide her son with opportunities denied to her — and leave the dilapidated home of her outrageous if begrudgingly supportive father — J.R. begins to gamely, if not always gracefully, pursue his romantic and professional dreams, with one foot persistently placed in Uncle Charlie’s bar.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/5-DS9vtLeEs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Mr. Birthday
-*Released on 2021-12-17, vote average 5*
-
-While working his maintenance job at an upscale hotel, Barry encounters the mysterious Mr. Jay. He introduces Barry to the International Birthday Network, an agency which helps children across the globe suffering from miserable birthdays.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xG8yZvrUGL0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -385,42 +383,22 @@ While working his maintenance job at an upscale hotel, Barry encounters the myst
 
 
 	
-
 	
 
-	
+### The King&#39;s Man
+*Released on 2021-12-21, vote average 9*
 
-	
-
-	
-	
-
-### The Christmas House 2: Deck Those Halls
-*Released on 2021-12-18, vote average 2*
-
-The Mitchell brothers compete to see who can create the best Christmas House.
+As a collection of history&#39;s worst tyrants and criminal masterminds gather to plot a war to wipe out millions, one man must race against time to stop them.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/PznNeHvuGaw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/5A_wi6TiwBs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
@@ -454,6 +432,26 @@ Marketing whiz Alma Beltran and Christmas tree whisperer Charlie Freemont cross 
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
