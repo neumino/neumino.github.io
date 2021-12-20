@@ -67,16 +67,9 @@ Christmas is drawing near, but it’s not a happy time for David. After moving t
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### The Matrix Resurrections
-*Released on 2021-12-16, vote average 8.3*
+*Released on 2021-12-16, vote average 8.2*
 
 Plagued by strange memories, Neo&#39;s life takes an unexpected turn when he finds himself back inside the Matrix.
 
@@ -96,9 +89,16 @@ Plagued by strange memories, Neo&#39;s life takes an unexpected turn when he fin
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Snoopy Presents: For Auld Lang Syne
-*Released on 2021-12-09, vote average 7.5*
+*Released on 2021-12-09, vote average 7.4*
 
 After finding out her grandmother won&#39;t be visiting for Christmas, Lucy decides to cheer herself up by throwing the ultimate New Year&#39;s Eve party. Meanwhile, Charlie Brown tries to fulfill one of his resolutions before the clock strikes midnight.
 
@@ -107,6 +107,28 @@ After finding out her grandmother won&#39;t be visiting for Christmas, Lucy deci
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/feu3E6aSBvE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### South Park: Post Covid: The Return of Covid
+*Released on 2021-12-16, vote average 7.1*
+
+If Stan, Kyle and Cartman could just work together, they could go back in time to make sure Covid never happened. But traveling back to the past seems to be the easy answer until they meet Victor Chaos.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/rMsbqO3O9ck?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -141,16 +163,16 @@ In 1965, Takeshi Kitano drops out of a university and enters the Asakusa France 
 	
 	
 
-### South Park: Post Covid: The Return of Covid
-*Released on 2021-12-16, vote average 7.1*
+### Swan Song
+*Released on 2021-12-17, vote average 7.1*
 
-If Stan, Kyle and Cartman could just work together, they could go back in time to make sure Covid never happened. But traveling back to the past seems to be the easy answer until they meet Victor Chaos.
+In the near future, Cameron Turner is diagnosed with a terminal illness. Presented with an experimental solution to shield his wife and son from grief, he grapples with altering their fate.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/rMsbqO3O9ck?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/LxftqrrlSqc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -160,6 +182,55 @@ If Stan, Kyle and Cartman could just work together, they could go back in time t
   
 
 
+	
+
+  
+
+
+	
+	
+
+### A California Christmas: City Lights
+*Released on 2021-12-16, vote average 6.2*
+
+Follows Callie and Joseph one year after they fell in love, now running a dairy farm and winery, but their romance is threatened when business and family obligations call Joseph back to the city.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/agh1Mm281Tw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Don&#39;t Look Up
+*Released on 2021-12-07, vote average 8*
+
+Two astronomers go on a media tour to warn humankind of a planet-killing comet hurtling toward Earth. The response from a distracted world: Meh.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/RbIxYm3mKzI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -190,47 +261,20 @@ Resolving to achieve professional success without compromising her ethics, Lucy 
 	
 	
 
-### Swan Song
-*Released on 2021-12-17, vote average 6.6*
+### A Naija Christmas
+*Released on 2021-12-16, vote average 8*
 
-In the near future, Cameron Turner is diagnosed with a terminal illness. Presented with an experimental solution to shield his wife and son from grief, he grapples with altering their fate.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LxftqrrlSqc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Don&#39;t Look Up
-*Released on 2021-12-07, vote average 8*
-
-Two astronomers go on a media tour to warn humankind of a planet-killing comet hurtling toward Earth. The response from a distracted world: Meh.
+Three sons try to make their mother’s dreams come true by bringing home wives for Christmas.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/RbIxYm3mKzI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/LMIG-cFv-Cc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -240,7 +284,7 @@ Two astronomers go on a media tour to warn humankind of a planet-killing comet h
 	
 
 ### Fortress
-*Released on 2021-12-17, vote average 5.4*
+*Released on 2021-12-17, vote average 5.7*
 
 The story revolves around a top-secret resort for retired U.S. intelligence officers. A group of criminals led by Balzary breach the compound, hellbent on revenge on Robert, forcing the retired officer and his son to save the day.
 
@@ -261,47 +305,20 @@ The story revolves around a top-secret resort for retired U.S. intelligence offi
 	
 	
 
-### A California Christmas: City Lights
-*Released on 2021-12-16, vote average 6.4*
+### Mother/Android
+*Released on 2021-12-17, vote average 7*
 
-Follows Callie and Joseph one year after they fell in love, now running a dairy farm and winery, but their romance is threatened when business and family obligations call Joseph back to the city.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/agh1Mm281Tw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### West Side Story
-*Released on 2021-12-08, vote average 7.5*
-
-Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy.
+Georgia and her boyfriend Sam go on a treacherous journey to escape their country, which is caught in an unexpected war with artificial intelligence. Days away from the arrival of their first child, the couple must face No Man’s Land—a stronghold of the android uprising—in hopes of reaching safety before giving birth.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/snf7Pdn3Giw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/JRl214mDZ-g?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -332,16 +349,16 @@ A queer college freshman joins her university’s rowing team and undertakes an 
 	
 	
 
-### Mother/Android
-*Released on 2021-12-17, vote average 7.3*
+### West Side Story
+*Released on 2021-12-08, vote average 7.6*
 
-Georgia and her boyfriend Sam go on a treacherous journey to escape their country, which is caught in an unexpected war with artificial intelligence. Days away from the arrival of their first child, the couple must face No Man’s Land—a stronghold of the android uprising—in hopes of reaching safety before giving birth.
+Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/JRl214mDZ-g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/snf7Pdn3Giw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -352,27 +369,27 @@ Georgia and her boyfriend Sam go on a treacherous journey to escape their countr
 
 
 	
+
+  
+
+
+	
 	
 
-### The Last Son
-*Released on 2021-12-10, vote average 6.3*
+### Rumble
+*Released on 2021-12-15, vote average 7.8*
 
-Sam Worthington stars as Isaac LeMay, a murderous outlaw who learns he is cursed by a prophecy: one of his children will kill him. To prevent this, he hunts down each of his estranged children including long-lost son Cal (Colson Baker). With bounty hunters and Sheriff Solomon (Thomas Jane) on his tail, LeMay must find a way to stop his children and end the curse.
+In a world where monster wrestling is a global sport and monsters are superstar athletes, teenage Winnie seeks to follow in her father’s footsteps by coaching a loveable underdog monster into a champion.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/KilcySbvmP8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/2GdXU-0Cfqc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -386,7 +403,7 @@ Sam Worthington stars as Isaac LeMay, a murderous outlaw who learns he is cursed
 	
 
 ### The King&#39;s Man
-*Released on 2021-12-21, vote average 9*
+*Released on 2021-12-21, vote average 9.5*
 
 As a collection of history&#39;s worst tyrants and criminal masterminds gather to plot a war to wipe out millions, one man must race against time to stop them.
 
@@ -415,23 +432,6 @@ As a collection of history&#39;s worst tyrants and criminal masterminds gather t
 
 	
 
-	
-	
-
-### Under the Christmas Tree
-*Released on 2021-12-19, vote average 10*
-
-Marketing whiz Alma Beltran and Christmas tree whisperer Charlie Freemont cross paths when Charlie finds the perfect tree for the Maine Governor&#39;s Holiday Celebration — right in Alma&#39;s back yard. While they initially spar, romantic sparks soon begin to fly between the two women as the enchanting tree and some Christmas fairy dust from the town&#39;s pâtissière extraordinaire bring out the best in them and spark each other to take leaps of faith and fight for love and Christmas magic.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/17lgndN4Zvs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
