@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Spider-Man: No Way Home
-*Released on 2021-12-15, vote average 8.8*
+*Released on 2021-12-15, vote average 8.7*
 
 Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.
 
@@ -46,30 +46,8 @@ Peter Parker is unmasked and no longer able to separate his normal life from the
 	
 	
 
-### David and the Elves
-*Released on 2021-12-06, vote average 6.7*
-
-Christmas is drawing near, but it’s not a happy time for David. After moving to a big city, his parents have been bogged down with work and forgotten the meaning of Christmas. David decides to change that. Together with Albert the Elf, who escaped from the land of Santa to figure out what Christmas is all about, David sets off to Tatra Mountains, where his grandparents live, on a journey full of adventures.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/mQqGOdHFsrY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Matrix Resurrections
-*Released on 2021-12-16, vote average 8.2*
+*Released on 2021-12-16, vote average 7.8*
 
 Plagued by strange memories, Neo&#39;s life takes an unexpected turn when he finds himself back inside the Matrix.
 
@@ -89,16 +67,9 @@ Plagued by strange memories, Neo&#39;s life takes an unexpected turn when he fin
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Snoopy Presents: For Auld Lang Syne
-*Released on 2021-12-09, vote average 7.4*
+*Released on 2021-12-09, vote average 7.6*
 
 After finding out her grandmother won&#39;t be visiting for Christmas, Lucy decides to cheer herself up by throwing the ultimate New Year&#39;s Eve party. Meanwhile, Charlie Brown tries to fulfill one of his resolutions before the clock strikes midnight.
 
@@ -118,9 +89,16 @@ After finding out her grandmother won&#39;t be visiting for Christmas, Lucy deci
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### South Park: Post Covid: The Return of Covid
-*Released on 2021-12-16, vote average 7.1*
+*Released on 2021-12-16, vote average 7.5*
 
 If Stan, Kyle and Cartman could just work together, they could go back in time to make sure Covid never happened. But traveling back to the past seems to be the easy answer until they meet Victor Chaos.
 
@@ -129,6 +107,50 @@ If Stan, Kyle and Cartman could just work together, they could go back in time t
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/rMsbqO3O9ck?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Swan Song
+*Released on 2021-12-17, vote average 7.4*
+
+In the near future, Cameron Turner is diagnosed with a terminal illness. Presented with an experimental solution to shield his wife and son from grief, he grapples with altering their fate.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LxftqrrlSqc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The King&#39;s Man
+*Released on 2021-12-21, vote average 9.5*
+
+As a collection of history&#39;s worst tyrants and criminal masterminds gather to plot a war to wipe out millions, one man must race against time to stop them.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5A_wi6TiwBs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -163,35 +185,8 @@ In 1965, Takeshi Kitano drops out of a university and enters the Asakusa France 
 	
 	
 
-### Swan Song
-*Released on 2021-12-17, vote average 7.1*
-
-In the near future, Cameron Turner is diagnosed with a terminal illness. Presented with an experimental solution to shield his wife and son from grief, he grapples with altering their fate.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LxftqrrlSqc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### A California Christmas: City Lights
-*Released on 2021-12-16, vote average 6.2*
+*Released on 2021-12-16, vote average 6.4*
 
 Follows Callie and Joseph one year after they fell in love, now running a dairy farm and winery, but their romance is threatened when business and family obligations call Joseph back to the city.
 
@@ -209,6 +204,45 @@ Follows Callie and Joseph one year after they fell in love, now running a dairy 
   
 
 
+	
+	
+
+### A Naija Christmas
+*Released on 2021-12-16, vote average 7.8*
+
+Three sons try to make their mother’s dreams come true by bringing home wives for Christmas.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LMIG-cFv-Cc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Mother/Android
+*Released on 2021-12-17, vote average 6.9*
+
+Georgia and her boyfriend Sam go on a treacherous journey to escape their country, which is caught in an unexpected war with artificial intelligence. Days away from the arrival of their first child, the couple must face No Man’s Land—a stronghold of the android uprising—in hopes of reaching safety before giving birth.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/JRl214mDZ-g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -238,9 +272,48 @@ Two astronomers go on a media tour to warn humankind of a planet-killing comet h
 
 	
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Rumble
+*Released on 2021-12-15, vote average 7.9*
+
+In a world where monster wrestling is a global sport and monsters are superstar athletes, teenage Winnie seeks to follow in her father’s footsteps by coaching a loveable underdog monster into a champion.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2GdXU-0Cfqc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
 
 ### The Hating Game
-*Released on 2021-12-09, vote average 7.2*
+*Released on 2021-12-09, vote average 7.3*
 
 Resolving to achieve professional success without compromising her ethics, Lucy embarks on a ruthless game of one-upmanship against cold and efficient nemesis Joshua, a rivalry that is complicated by her growing attraction to him.
 
@@ -261,30 +334,8 @@ Resolving to achieve professional success without compromising her ethics, Lucy 
 	
 	
 
-### A Naija Christmas
-*Released on 2021-12-16, vote average 8*
-
-Three sons try to make their mother’s dreams come true by bringing home wives for Christmas.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LMIG-cFv-Cc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Fortress
-*Released on 2021-12-17, vote average 5.7*
+*Released on 2021-12-17, vote average 7.1*
 
 The story revolves around a top-secret resort for retired U.S. intelligence officers. A group of criminals led by Balzary breach the compound, hellbent on revenge on Robert, forcing the retired officer and his son to save the day.
 
@@ -304,43 +355,6 @@ The story revolves around a top-secret resort for retired U.S. intelligence offi
 
 	
 	
-
-### Mother/Android
-*Released on 2021-12-17, vote average 7*
-
-Georgia and her boyfriend Sam go on a treacherous journey to escape their country, which is caught in an unexpected war with artificial intelligence. Days away from the arrival of their first child, the couple must face No Man’s Land—a stronghold of the android uprising—in hopes of reaching safety before giving birth.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/JRl214mDZ-g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Novice
-*Released on 2021-12-17, vote average 7*
-
-A queer college freshman joins her university’s rowing team and undertakes an obsessive physical and psychological journey to make it to the top varsity boat, no matter the cost.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Z4zCPgMdbo0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -359,33 +373,6 @@ Two youngsters from rival New York City gangs fall in love, but tensions between
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/snf7Pdn3Giw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Rumble
-*Released on 2021-12-15, vote average 7.8*
-
-In a world where monster wrestling is a global sport and monsters are superstar athletes, teenage Winnie seeks to follow in her father’s footsteps by coaching a loveable underdog monster into a champion.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2GdXU-0Cfqc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
