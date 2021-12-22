@@ -21,7 +21,7 @@ Peter Parker is unmasked and no longer able to separate his normal life from the
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Ylufh8C79BI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xGjmWfbLPzQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -47,7 +47,7 @@ Peter Parker is unmasked and no longer able to separate his normal life from the
 	
 
 ### The Matrix Resurrections
-*Released on 2021-12-16, vote average 7.8*
+*Released on 2021-12-16, vote average 7.7*
 
 Plagued by strange memories, Neo&#39;s life takes an unexpected turn when he finds himself back inside the Matrix.
 
@@ -69,7 +69,7 @@ Plagued by strange memories, Neo&#39;s life takes an unexpected turn when he fin
 	
 
 ### Snoopy Presents: For Auld Lang Syne
-*Released on 2021-12-09, vote average 7.6*
+*Released on 2021-12-09, vote average 7.5*
 
 After finding out her grandmother won&#39;t be visiting for Christmas, Lucy decides to cheer herself up by throwing the ultimate New Year&#39;s Eve party. Meanwhile, Charlie Brown tries to fulfill one of his resolutions before the clock strikes midnight.
 
@@ -98,7 +98,7 @@ After finding out her grandmother won&#39;t be visiting for Christmas, Lucy deci
 	
 
 ### South Park: Post Covid: The Return of Covid
-*Released on 2021-12-16, vote average 7.5*
+*Released on 2021-12-16, vote average 7*
 
 If Stan, Kyle and Cartman could just work together, they could go back in time to make sure Covid never happened. But traveling back to the past seems to be the easy answer until they meet Victor Chaos.
 
@@ -163,6 +163,79 @@ As a collection of history&#39;s worst tyrants and criminal masterminds gather t
 	
 	
 
+### A Naija Christmas
+*Released on 2021-12-16, vote average 7.9*
+
+Three sons try to make their mother’s dreams come true by bringing home wives for Christmas.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LMIG-cFv-Cc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Rumble
+*Released on 2021-12-15, vote average 7.6*
+
+In a world where monster wrestling is a global sport and monsters are superstar athletes, teenage Winnie seeks to follow in her father’s footsteps by coaching a loveable underdog monster into a champion.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2GdXU-0Cfqc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Mother/Android
+*Released on 2021-12-17, vote average 7.1*
+
+Georgia and her boyfriend Sam go on a treacherous journey to escape their country, which is caught in an unexpected war with artificial intelligence. Days away from the arrival of their first child, the couple must face No Man’s Land—a stronghold of the android uprising—in hopes of reaching safety before giving birth.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/JRl214mDZ-g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Asakusa Kid
 *Released on 2021-12-09, vote average 7.1*
 
@@ -186,7 +259,7 @@ In 1965, Takeshi Kitano drops out of a university and enters the Asakusa France 
 	
 
 ### A California Christmas: City Lights
-*Released on 2021-12-16, vote average 6.4*
+*Released on 2021-12-16, vote average 6.6*
 
 Follows Callie and Joseph one year after they fell in love, now running a dairy farm and winery, but their romance is threatened when business and family obligations call Joseph back to the city.
 
@@ -207,121 +280,16 @@ Follows Callie and Joseph one year after they fell in love, now running a dairy 
 	
 	
 
-### A Naija Christmas
-*Released on 2021-12-16, vote average 7.8*
+### Mamá o papá
+*Released on 2021-12-17, vote average 7.5*
 
-Three sons try to make their mother’s dreams come true by bringing home wives for Christmas.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LMIG-cFv-Cc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Mother/Android
-*Released on 2021-12-17, vote average 6.9*
-
-Georgia and her boyfriend Sam go on a treacherous journey to escape their country, which is caught in an unexpected war with artificial intelligence. Days away from the arrival of their first child, the couple must face No Man’s Land—a stronghold of the android uprising—in hopes of reaching safety before giving birth.
+Flora and Victor are fun, modern, caring parents. That is, until they decide to get a divorce, and the perfect job opportunity turns up for them. They now have one problem: custody.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/JRl214mDZ-g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Don&#39;t Look Up
-*Released on 2021-12-07, vote average 8*
-
-Two astronomers go on a media tour to warn humankind of a planet-killing comet hurtling toward Earth. The response from a distracted world: Meh.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/RbIxYm3mKzI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Rumble
-*Released on 2021-12-15, vote average 7.9*
-
-In a world where monster wrestling is a global sport and monsters are superstar athletes, teenage Winnie seeks to follow in her father’s footsteps by coaching a loveable underdog monster into a champion.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2GdXU-0Cfqc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Hating Game
-*Released on 2021-12-09, vote average 7.3*
-
-Resolving to achieve professional success without compromising her ethics, Lucy embarks on a ruthless game of one-upmanship against cold and efficient nemesis Joshua, a rivalry that is complicated by her growing attraction to him.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/j3qBGOD4b4A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/j6l3u0at97o?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -335,7 +303,7 @@ Resolving to achieve professional success without compromising her ethics, Lucy 
 	
 
 ### Fortress
-*Released on 2021-12-17, vote average 7.1*
+*Released on 2021-12-17, vote average 6.9*
 
 The story revolves around a top-secret resort for retired U.S. intelligence officers. A group of criminals led by Balzary breach the compound, hellbent on revenge on Robert, forcing the retired officer and his son to save the day.
 
@@ -347,13 +315,6 @@ The story revolves around a top-secret resort for retired U.S. intelligence offi
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -382,27 +343,49 @@ Two youngsters from rival New York City gangs fall in love, but tensions between
   
 
 
-
-## Opening soon
-
-
 	
 	
 
-### The King&#39;s Man
-*Released on 2021-12-21, vote average 9.5*
+### The Hating Game
+*Released on 2021-12-09, vote average 7.2*
 
-As a collection of history&#39;s worst tyrants and criminal masterminds gather to plot a war to wipe out millions, one man must race against time to stop them.
+Resolving to achieve professional success without compromising her ethics, Lucy embarks on a ruthless game of one-upmanship against cold and efficient nemesis Joshua, a rivalry that is complicated by her growing attraction to him.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/5A_wi6TiwBs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/j3qBGOD4b4A?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+
+## Opening soon
+
+
 	
 
 	
