@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Spider-Man: No Way Home
-*Released on 2021-12-15, vote average 8.7*
+*Released on 2021-12-15, vote average 8.6*
 
 Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.
 
@@ -47,7 +47,7 @@ Peter Parker is unmasked and no longer able to separate his normal life from the
 	
 
 ### The Matrix Resurrections
-*Released on 2021-12-16, vote average 7.7*
+*Released on 2021-12-16, vote average 7.5*
 
 Plagued by strange memories, Neo&#39;s life takes an unexpected turn when he finds himself back inside the Matrix.
 
@@ -97,8 +97,30 @@ After finding out her grandmother won&#39;t be visiting for Christmas, Lucy deci
 	
 	
 
-### South Park: Post Covid: The Return of Covid
-*Released on 2021-12-16, vote average 7*
+### Swan Song
+*Released on 2021-12-17, vote average 7.5*
+
+In the near future, Cameron Turner is diagnosed with a terminal illness. Presented with an experimental solution to shield his wife and son from grief, he grapples with altering their fate.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LxftqrrlSqc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### South Park: Post COVID: The Return of COVID
+*Released on 2021-12-16, vote average 7.3*
 
 If Stan, Kyle and Cartman could just work together, they could go back in time to make sure Covid never happened. But traveling back to the past seems to be the easy answer until they meet Victor Chaos.
 
@@ -119,16 +141,16 @@ If Stan, Kyle and Cartman could just work together, they could go back in time t
 	
 	
 
-### Swan Song
-*Released on 2021-12-17, vote average 7.4*
+### A Naija Christmas
+*Released on 2021-12-16, vote average 8*
 
-In the near future, Cameron Turner is diagnosed with a terminal illness. Presented with an experimental solution to shield his wife and son from grief, he grapples with altering their fate.
+Three sons try to make their mother’s dreams come true by bringing home wives for Christmas.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/LxftqrrlSqc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/LMIG-cFv-Cc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -150,29 +172,7 @@ As a collection of history&#39;s worst tyrants and criminal masterminds gather t
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/5A_wi6TiwBs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### A Naija Christmas
-*Released on 2021-12-16, vote average 7.9*
-
-Three sons try to make their mother’s dreams come true by bringing home wives for Christmas.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LMIG-cFv-Cc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/MGoCwNHE4ys?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -214,8 +214,30 @@ In a world where monster wrestling is a global sport and monsters are superstar 
 	
 	
 
+### Mamá o papá
+*Released on 2021-12-17, vote average 6.1*
+
+Flora and Victor are fun, modern, caring parents. That is, until they decide to get a divorce, and the perfect job opportunity turns up for them. They now have one problem: custody.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/j6l3u0at97o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Mother/Android
-*Released on 2021-12-17, vote average 7.1*
+*Released on 2021-12-17, vote average 6.7*
 
 Georgia and her boyfriend Sam go on a treacherous journey to escape their country, which is caught in an unexpected war with artificial intelligence. Days away from the arrival of their first child, the couple must face No Man’s Land—a stronghold of the android uprising—in hopes of reaching safety before giving birth.
 
@@ -237,7 +259,7 @@ Georgia and her boyfriend Sam go on a treacherous journey to escape their countr
 	
 
 ### Asakusa Kid
-*Released on 2021-12-09, vote average 7.1*
+*Released on 2021-12-09, vote average 7*
 
 In 1965, Takeshi Kitano drops out of a university and enters the Asakusa France Za, which is a performance theater. He becomes an apprentice to Senzaburo Fukami, who is a legendary entertainer. Senzaburo Fukami demands that Takeshi Kitano keep the mindset of an entertainer, not only on stage, but also in his daily life. Takeshi Kitano cultivates his dream of becoming an entertainer with other apprentices. Due to the popularity of TV, people attend the theater less and less, but Takeshi Kitano spends his youthful days with Senzaburo Fukami and other apprentices who are full of talent and unique personalities.
 
@@ -256,45 +278,6 @@ In 1965, Takeshi Kitano drops out of a university and enters the Asakusa France 
 
 
 	
-	
-
-### A California Christmas: City Lights
-*Released on 2021-12-16, vote average 6.6*
-
-Follows Callie and Joseph one year after they fell in love, now running a dairy farm and winery, but their romance is threatened when business and family obligations call Joseph back to the city.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/agh1Mm281Tw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Mamá o papá
-*Released on 2021-12-17, vote average 7.5*
-
-Flora and Victor are fun, modern, caring parents. That is, until they decide to get a divorce, and the perfect job opportunity turns up for them. They now have one problem: custody.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/j6l3u0at97o?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -303,7 +286,7 @@ Flora and Victor are fun, modern, caring parents. That is, until they decide to 
 	
 
 ### Fortress
-*Released on 2021-12-17, vote average 6.9*
+*Released on 2021-12-17, vote average 6.7*
 
 The story revolves around a top-secret resort for retired U.S. intelligence officers. A group of criminals led by Balzary breach the compound, hellbent on revenge on Robert, forcing the retired officer and his son to save the day.
 
@@ -324,16 +307,16 @@ The story revolves around a top-secret resort for retired U.S. intelligence offi
 	
 	
 
-### West Side Story
-*Released on 2021-12-08, vote average 7.6*
+### A California Christmas: City Lights
+*Released on 2021-12-16, vote average 6.7*
 
-Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy.
+Follows Callie and Joseph one year after they fell in love, now running a dairy farm and winery, but their romance is threatened when business and family obligations call Joseph back to the city.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/snf7Pdn3Giw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/agh1Mm281Tw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -347,7 +330,7 @@ Two youngsters from rival New York City gangs fall in love, but tensions between
 	
 
 ### The Hating Game
-*Released on 2021-12-09, vote average 7.2*
+*Released on 2021-12-09, vote average 7.1*
 
 Resolving to achieve professional success without compromising her ethics, Lucy embarks on a ruthless game of one-upmanship against cold and efficient nemesis Joshua, a rivalry that is complicated by her growing attraction to him.
 
@@ -371,11 +354,43 @@ Resolving to achieve professional success without compromising her ethics, Lucy 
 
 
 	
+	
+
+### The Last Warrior: A Messenger of Darkness
+*Released on 2021-12-23, vote average 10*
+
+Now that Ivan is about to turn 21, he is now grown up and finally old enough to marry the beautiful Vasilisa. But when Vasilisa is kidnapped and trapped in modern Moscow, Ivan and his friends must travel to the present day to rescue her.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xp_fNfcIP9Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
 	
+	
+
+### The Novice
+*Released on 2021-12-17, vote average 7.1*
+
+A queer college freshman joins her university’s rowing team and undertakes an obsessive physical and psychological journey to make it to the top varsity boat, no matter the cost.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Z4zCPgMdbo0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -388,6 +403,23 @@ Resolving to achieve professional success without compromising her ethics, Lucy 
 
 	
 
+	
+	
+
+### The Last Warrior: A Messenger of Darkness
+*Released on 2021-12-23, vote average 10*
+
+Now that Ivan is about to turn 21, he is now grown up and finally old enough to marry the beautiful Vasilisa. But when Vasilisa is kidnapped and trapped in modern Moscow, Ivan and his friends must travel to the present day to rescue her.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xp_fNfcIP9Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
