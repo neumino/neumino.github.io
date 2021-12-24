@@ -47,7 +47,7 @@ Peter Parker is unmasked and no longer able to separate his normal life from the
 	
 
 ### The Matrix Resurrections
-*Released on 2021-12-16, vote average 7.5*
+*Released on 2021-12-16, vote average 7.3*
 
 Plagued by strange memories, Neo&#39;s life takes an unexpected turn when he finds himself back inside the Matrix.
 
@@ -59,35 +59,6 @@ Plagued by strange memories, Neo&#39;s life takes an unexpected turn when he fin
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
-	
-
-### Snoopy Presents: For Auld Lang Syne
-*Released on 2021-12-09, vote average 7.5*
-
-After finding out her grandmother won&#39;t be visiting for Christmas, Lucy decides to cheer herself up by throwing the ultimate New Year&#39;s Eve party. Meanwhile, Charlie Brown tries to fulfill one of his resolutions before the clock strikes midnight.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/feu3E6aSBvE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -118,21 +89,6 @@ In the near future, Cameron Turner is diagnosed with a terminal illness. Present
 
 	
 	
-
-### South Park: Post COVID: The Return of COVID
-*Released on 2021-12-16, vote average 7.3*
-
-If Stan, Kyle and Cartman could just work together, they could go back in time to make sure Covid never happened. But traveling back to the past seems to be the easy answer until they meet Victor Chaos.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rMsbqO3O9ck?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -142,7 +98,7 @@ If Stan, Kyle and Cartman could just work together, they could go back in time t
 	
 
 ### A Naija Christmas
-*Released on 2021-12-16, vote average 8*
+*Released on 2021-12-16, vote average 8.2*
 
 Three sons try to make their mother’s dreams come true by bringing home wives for Christmas.
 
@@ -151,28 +107,6 @@ Three sons try to make their mother’s dreams come true by bringing home wives 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/LMIG-cFv-Cc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The King&#39;s Man
-*Released on 2021-12-21, vote average 9.5*
-
-As a collection of history&#39;s worst tyrants and criminal masterminds gather to plot a war to wipe out millions, one man must race against time to stop them.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MGoCwNHE4ys?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -193,7 +127,7 @@ As a collection of history&#39;s worst tyrants and criminal masterminds gather t
 	
 
 ### Rumble
-*Released on 2021-12-15, vote average 7.6*
+*Released on 2021-12-15, vote average 7.4*
 
 In a world where monster wrestling is a global sport and monsters are superstar athletes, teenage Winnie seeks to follow in her father’s footsteps by coaching a loveable underdog monster into a champion.
 
@@ -214,8 +148,52 @@ In a world where monster wrestling is a global sport and monsters are superstar 
 	
 	
 
+### South Park: Post COVID: The Return of COVID
+*Released on 2021-12-16, vote average 7.1*
+
+If Stan, Kyle and Cartman could just work together, they could go back in time to make sure Covid never happened. But traveling back to the past seems to be the easy answer until they meet Victor Chaos.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/rMsbqO3O9ck?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The King&#39;s Man
+*Released on 2021-12-21, vote average 8.3*
+
+As a collection of history&#39;s worst tyrants and criminal masterminds gather to plot a war to wipe out millions, one man must race against time to stop them.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MGoCwNHE4ys?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Mamá o papá
-*Released on 2021-12-17, vote average 6.1*
+*Released on 2021-12-17, vote average 6.5*
 
 Flora and Victor are fun, modern, caring parents. That is, until they decide to get a divorce, and the perfect job opportunity turns up for them. They now have one problem: custody.
 
@@ -235,48 +213,6 @@ Flora and Victor are fun, modern, caring parents. That is, until they decide to 
 
 	
 	
-
-### Mother/Android
-*Released on 2021-12-17, vote average 6.7*
-
-Georgia and her boyfriend Sam go on a treacherous journey to escape their country, which is caught in an unexpected war with artificial intelligence. Days away from the arrival of their first child, the couple must face No Man’s Land—a stronghold of the android uprising—in hopes of reaching safety before giving birth.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/JRl214mDZ-g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Asakusa Kid
-*Released on 2021-12-09, vote average 7*
-
-In 1965, Takeshi Kitano drops out of a university and enters the Asakusa France Za, which is a performance theater. He becomes an apprentice to Senzaburo Fukami, who is a legendary entertainer. Senzaburo Fukami demands that Takeshi Kitano keep the mindset of an entertainer, not only on stage, but also in his daily life. Takeshi Kitano cultivates his dream of becoming an entertainer with other apprentices. Due to the popularity of TV, people attend the theater less and less, but Takeshi Kitano spends his youthful days with Senzaburo Fukami and other apprentices who are full of talent and unique personalities.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/KhzBFfkvn44?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -305,23 +241,6 @@ The story revolves around a top-secret resort for retired U.S. intelligence offi
 
 
 	
-	
-
-### A California Christmas: City Lights
-*Released on 2021-12-16, vote average 6.7*
-
-Follows Callie and Joseph one year after they fell in love, now running a dairy farm and winery, but their romance is threatened when business and family obligations call Joseph back to the city.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/agh1Mm281Tw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -329,25 +248,20 @@ Follows Callie and Joseph one year after they fell in love, now running a dairy 
 	
 	
 
-### The Hating Game
-*Released on 2021-12-09, vote average 7.1*
+### Mother/Android
+*Released on 2021-12-17, vote average 6.4*
 
-Resolving to achieve professional success without compromising her ethics, Lucy embarks on a ruthless game of one-upmanship against cold and efficient nemesis Joshua, a rivalry that is complicated by her growing attraction to him.
+Georgia and her boyfriend Sam go on a treacherous journey to escape their country, which is caught in an unexpected war with artificial intelligence. Days away from the arrival of their first child, the couple must face No Man’s Land—a stronghold of the android uprising—in hopes of reaching safety before giving birth.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/j3qBGOD4b4A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/JRl214mDZ-g?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -366,6 +280,62 @@ Now that Ivan is about to turn 21, he is now grown up and finally old enough to 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/xp_fNfcIP9Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Last Train to Christmas
+*Released on 2021-12-18, vote average 6.3*
+
+Tony Towers is a successful nightclub manager in 1985, a local celebrity and engaged to a much younger woman, Sue. But when he embarks upon the 3:17 to Nottingham for a Christmas family reunion, things get a little strange. Tony discovers that by moving up and down this fateful train, he can transport himself forward and backward to various stages of his life. Not only that, but the actions he takes in one carriage directly affect his life in the next. The question is, can Tony change his life – and the lives of the people he loves – for the better, or will he just make things worse?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_FRoPUn5tOY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### A California Christmas: City Lights
+*Released on 2021-12-16, vote average 6.8*
+
+Follows Callie and Joseph one year after they fell in love, now running a dairy farm and winery, but their romance is threatened when business and family obligations call Joseph back to the city.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/agh1Mm281Tw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -404,18 +374,36 @@ A queer college freshman joins her university’s rowing team and undertakes an 
 	
 
 	
+
 	
 
-### The Last Warrior: A Messenger of Darkness
-*Released on 2021-12-23, vote average 10*
+	
 
-Now that Ivan is about to turn 21, he is now grown up and finally old enough to marry the beautiful Vasilisa. But when Vasilisa is kidnapped and trapped in modern Moscow, Ivan and his friends must travel to the present day to rescue her.
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### American Underdog
+*Released on 2021-12-25, vote average 10*
+
+The true story of Kurt Warner, who went from a stockboy at a grocery store to a two-time NFL MVP, Super Bowl champion, and Hall of Fame quarterback.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xp_fNfcIP9Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/_6rn-6lKBJ8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -423,25 +411,41 @@ Now that Ivan is about to turn 21, he is now grown up and finally old enough to 
 	
 
 	
+	
 
+### Minnal Murali
+*Released on 2021-12-24, vote average 8*
+
+A tailor gains special powers after being struck by lightning, but must take down an unexpected foe if he is to become the superhero his hometown in Kerala needs.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/YBUKclK5xoc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
-
 	
 
-	
+### Atrangi Re
+*Released on 2021-12-24, vote average 9*
+
+Runaway Rinku gets forcefully married to already engaged Vishu. Both don&#39;t want this marriage and make a deal to go on their separate ways. The equation gets weirder when Rinku&#39;s lover Sajjad shows up and both she and Vishu start developing feelings for each other.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/x3oMm5JGXZM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
