@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Spider-Man: No Way Home
-*Released on 2021-12-15, vote average 8.6*
+*Released on 2021-12-15, vote average 8.5*
 
 Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.
 
@@ -21,7 +21,7 @@ Peter Parker is unmasked and no longer able to separate his normal life from the
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xGjmWfbLPzQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/N2G2CKudbeQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -47,7 +47,7 @@ Peter Parker is unmasked and no longer able to separate his normal life from the
 	
 
 ### The Matrix Resurrections
-*Released on 2021-12-16, vote average 7.3*
+*Released on 2021-12-16, vote average 7.6*
 
 Plagued by strange memories, Neo&#39;s life takes an unexpected turn when he finds himself back inside the Matrix.
 
@@ -89,13 +89,6 @@ In the near future, Cameron Turner is diagnosed with a terminal illness. Present
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### A Naija Christmas
 *Released on 2021-12-16, vote average 8.2*
@@ -127,7 +120,7 @@ Three sons try to make their mother’s dreams come true by bringing home wives 
 	
 
 ### Rumble
-*Released on 2021-12-15, vote average 7.4*
+*Released on 2021-12-15, vote average 7.5*
 
 In a world where monster wrestling is a global sport and monsters are superstar athletes, teenage Winnie seeks to follow in her father’s footsteps by coaching a loveable underdog monster into a champion.
 
@@ -136,6 +129,28 @@ In a world where monster wrestling is a global sport and monsters are superstar 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/2GdXU-0Cfqc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The King&#39;s Man
+*Released on 2021-12-21, vote average 8.1*
+
+As a collection of history&#39;s worst tyrants and criminal masterminds gather to plot a war to wipe out millions, one man must race against time to stop them.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MGoCwNHE4ys?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -170,30 +185,8 @@ If Stan, Kyle and Cartman could just work together, they could go back in time t
 	
 	
 
-### The King&#39;s Man
-*Released on 2021-12-21, vote average 8.3*
-
-As a collection of history&#39;s worst tyrants and criminal masterminds gather to plot a war to wipe out millions, one man must race against time to stop them.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MGoCwNHE4ys?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Mamá o papá
-*Released on 2021-12-17, vote average 6.5*
+*Released on 2021-12-17, vote average 7.6*
 
 Flora and Victor are fun, modern, caring parents. That is, until they decide to get a divorce, and the perfect job opportunity turns up for them. They now have one problem: custody.
 
@@ -222,7 +215,7 @@ Flora and Victor are fun, modern, caring parents. That is, until they decide to 
 	
 
 ### Fortress
-*Released on 2021-12-17, vote average 6.7*
+*Released on 2021-12-17, vote average 6.8*
 
 The story revolves around a top-secret resort for retired U.S. intelligence officers. A group of criminals led by Balzary breach the compound, hellbent on revenge on Robert, forcing the retired officer and his son to save the day.
 
@@ -246,21 +239,6 @@ The story revolves around a top-secret resort for retired U.S. intelligence offi
 
 
 	
-	
-
-### Mother/Android
-*Released on 2021-12-17, vote average 6.4*
-
-Georgia and her boyfriend Sam go on a treacherous journey to escape their country, which is caught in an unexpected war with artificial intelligence. Days away from the arrival of their first child, the couple must face No Man’s Land—a stronghold of the android uprising—in hopes of reaching safety before giving birth.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/JRl214mDZ-g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -292,16 +270,65 @@ Now that Ivan is about to turn 21, he is now grown up and finally old enough to 
 	
 	
 
-### Last Train to Christmas
-*Released on 2021-12-18, vote average 6.3*
+### Christmas is Cancelled
+*Released on 2021-12-16, vote average 7.1*
 
-Tony Towers is a successful nightclub manager in 1985, a local celebrity and engaged to a much younger woman, Sue. But when he embarks upon the 3:17 to Nottingham for a Christmas family reunion, things get a little strange. Tony discovers that by moving up and down this fateful train, he can transport himself forward and backward to various stages of his life. Not only that, but the actions he takes in one carriage directly affect his life in the next. The question is, can Tony change his life – and the lives of the people he loves – for the better, or will he just make things worse?
+Emma&#39;s father and her high school frenemy start dating so she embarks on a mission to break up the happy couple.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/_FRoPUn5tOY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Lq_9-ZbVb5s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Mother/Android
+*Released on 2021-12-17, vote average 6.5*
+
+Georgia and her boyfriend Sam go on a treacherous journey to escape their country, which is caught in an unexpected war with artificial intelligence. Days away from the arrival of their first child, the couple must face No Man’s Land—a stronghold of the android uprising—in hopes of reaching safety before giving birth.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/JRl214mDZ-g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Pushpa: The Rise
+*Released on 2021-12-16, vote average 7.6*
+
+Pushpa Raj is a coolie who rises in the world of red sandalwood smuggling. Along the way, he doesn’t shy from making an enemy or two.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8KLCadalvfQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -319,15 +346,10 @@ Tony Towers is a successful nightclub manager in 1985, a local celebrity and eng
 
 
 	
-
-  
-
-
-	
 	
 
 ### A California Christmas: City Lights
-*Released on 2021-12-16, vote average 6.8*
+*Released on 2021-12-16, vote average 6.9*
 
 Follows Callie and Joseph one year after they fell in love, now running a dairy farm and winery, but their romance is threatened when business and family obligations call Joseph back to the city.
 
@@ -345,41 +367,9 @@ Follows Callie and Joseph one year after they fell in love, now running a dairy 
   
 
 
-	
-	
-
-### The Novice
-*Released on 2021-12-17, vote average 7.1*
-
-A queer college freshman joins her university’s rowing team and undertakes an obsessive physical and psychological journey to make it to the top varsity boat, no matter the cost.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Z4zCPgMdbo0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 
 ## Opening soon
 
-
-	
-
-	
-
-	
-
-	
-
-	
 
 	
 
@@ -411,41 +401,17 @@ The true story of Kurt Warner, who went from a stockboy at a grocery store to a 
 	
 
 	
-	
-
-### Minnal Murali
-*Released on 2021-12-24, vote average 8*
-
-A tailor gains special powers after being struck by lightning, but must take down an unexpected foe if he is to become the superhero his hometown in Kerala needs.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/YBUKclK5xoc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
 	
 
 	
-	
-
-### Atrangi Re
-*Released on 2021-12-24, vote average 9*
-
-Runaway Rinku gets forcefully married to already engaged Vishu. Both don&#39;t want this marriage and make a deal to go on their separate ways. The equation gets weirder when Rinku&#39;s lover Sajjad shows up and both she and Vishu start developing feelings for each other.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/x3oMm5JGXZM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+	
+
 	
 
 	
