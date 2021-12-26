@@ -47,7 +47,7 @@ Peter Parker is unmasked and no longer able to separate his normal life from the
 	
 
 ### The Matrix Resurrections
-*Released on 2021-12-16, vote average 7.6*
+*Released on 2021-12-16, vote average 7.7*
 
 Plagued by strange memories, Neo&#39;s life takes an unexpected turn when he finds himself back inside the Matrix.
 
@@ -55,7 +55,7 @@ Plagued by strange memories, Neo&#39;s life takes an unexpected turn when he fin
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/aH6ZzDZglS4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/OZF7aFzcK4I?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -91,7 +91,7 @@ In the near future, Cameron Turner is diagnosed with a terminal illness. Present
 	
 
 ### A Naija Christmas
-*Released on 2021-12-16, vote average 8.2*
+*Released on 2021-12-16, vote average 8.1*
 
 Three sons try to make their mother’s dreams come true by bringing home wives for Christmas.
 
@@ -111,82 +111,9 @@ Three sons try to make their mother’s dreams come true by bringing home wives 
 
 	
 	
-	
-
-  
-
-
-	
-	
-
-### Rumble
-*Released on 2021-12-15, vote average 7.5*
-
-In a world where monster wrestling is a global sport and monsters are superstar athletes, teenage Winnie seeks to follow in her father’s footsteps by coaching a loveable underdog monster into a champion.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2GdXU-0Cfqc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The King&#39;s Man
-*Released on 2021-12-21, vote average 8.1*
-
-As a collection of history&#39;s worst tyrants and criminal masterminds gather to plot a war to wipe out millions, one man must race against time to stop them.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MGoCwNHE4ys?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### South Park: Post COVID: The Return of COVID
-*Released on 2021-12-16, vote average 7.1*
-
-If Stan, Kyle and Cartman could just work together, they could go back in time to make sure Covid never happened. But traveling back to the past seems to be the easy answer until they meet Victor Chaos.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rMsbqO3O9ck?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
 
 ### Mamá o papá
-*Released on 2021-12-17, vote average 7.6*
+*Released on 2021-12-17, vote average 7.8*
 
 Flora and Victor are fun, modern, caring parents. That is, until they decide to get a divorce, and the perfect job opportunity turns up for them. They now have one problem: custody.
 
@@ -213,9 +140,16 @@ Flora and Victor are fun, modern, caring parents. That is, until they decide to 
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Fortress
-*Released on 2021-12-17, vote average 6.8*
+*Released on 2021-12-17, vote average 6.7*
 
 The story revolves around a top-secret resort for retired U.S. intelligence officers. A group of criminals led by Balzary breach the compound, hellbent on revenge on Robert, forcing the retired officer and his son to save the day.
 
@@ -240,6 +174,65 @@ The story revolves around a top-secret resort for retired U.S. intelligence offi
 
 	
 	
+
+### The King&#39;s Man
+*Released on 2021-12-21, vote average 8.2*
+
+As a collection of history&#39;s worst tyrants and criminal masterminds gather to plot a war to wipe out millions, one man must race against time to stop them.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MGoCwNHE4ys?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### South Park: Post COVID: The Return of COVID
+*Released on 2021-12-16, vote average 7.2*
+
+If Stan, Kyle and Cartman could just work together, they could go back in time to make sure Covid never happened. But traveling back to the past seems to be the easy answer until they meet Victor Chaos.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/rMsbqO3O9ck?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Rumble
+*Released on 2021-12-15, vote average 7.4*
+
+In a world where monster wrestling is a global sport and monsters are superstar athletes, teenage Winnie seeks to follow in her father’s footsteps by coaching a loveable underdog monster into a champion.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2GdXU-0Cfqc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -249,7 +242,7 @@ The story revolves around a top-secret resort for retired U.S. intelligence offi
 	
 
 ### The Last Warrior: A Messenger of Darkness
-*Released on 2021-12-23, vote average 10*
+*Released on 2021-12-23, vote average 9*
 
 Now that Ivan is about to turn 21, he is now grown up and finally old enough to marry the beautiful Vasilisa. But when Vasilisa is kidnapped and trapped in modern Moscow, Ivan and his friends must travel to the present day to rescue her.
 
@@ -271,7 +264,7 @@ Now that Ivan is about to turn 21, he is now grown up and finally old enough to 
 	
 
 ### Christmas is Cancelled
-*Released on 2021-12-16, vote average 7.1*
+*Released on 2021-12-16, vote average 7*
 
 Emma&#39;s father and her high school frenemy start dating so she embarks on a mission to break up the happy couple.
 
@@ -290,10 +283,44 @@ Emma&#39;s father and her high school frenemy start dating so she embarks on a m
 
 
 	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### 1000 Miles From Christmas
+*Released on 2021-12-24, vote average 6.5*
+
+A Christmas tale, a romantic comedy and the story of a man in his 30s who learns — reluctantly — to get carried away by the Christmas spirit.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fsnb67yC-Rw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 
 ### Mother/Android
-*Released on 2021-12-17, vote average 6.5*
+*Released on 2021-12-17, vote average 6.4*
 
 Georgia and her boyfriend Sam go on a treacherous journey to escape their country, which is caught in an unexpected war with artificial intelligence. Days away from the arrival of their first child, the couple must face No Man’s Land—a stronghold of the android uprising—in hopes of reaching safety before giving birth.
 
@@ -312,23 +339,18 @@ Georgia and her boyfriend Sam go on a treacherous journey to escape their countr
 
 
 	
-
-  
-
-
-	
 	
 
-### Pushpa: The Rise
-*Released on 2021-12-16, vote average 7.6*
+### The Novice
+*Released on 2021-12-17, vote average 7.2*
 
-Pushpa Raj is a coolie who rises in the world of red sandalwood smuggling. Along the way, he doesn’t shy from making an enemy or two.
+A queer college freshman joins her university’s rowing team and undertakes an obsessive physical and psychological journey to make it to the top varsity boat, no matter the cost.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/8KLCadalvfQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Z4zCPgMdbo0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -338,30 +360,6 @@ Pushpa Raj is a coolie who rises in the world of red sandalwood smuggling. Along
   
 
 
-	
-	
-	
-
-  
-
-
-	
-	
-
-### A California Christmas: City Lights
-*Released on 2021-12-16, vote average 6.9*
-
-Follows Callie and Joseph one year after they fell in love, now running a dairy farm and winery, but their romance is threatened when business and family obligations call Joseph back to the city.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/agh1Mm281Tw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -381,23 +379,6 @@ Follows Callie and Joseph one year after they fell in love, now running a dairy 
 
 	
 
-	
-	
-
-### American Underdog
-*Released on 2021-12-25, vote average 10*
-
-The true story of Kurt Warner, who went from a stockboy at a grocery store to a two-time NFL MVP, Super Bowl champion, and Hall of Fame quarterback.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/_6rn-6lKBJ8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
