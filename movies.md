@@ -47,7 +47,7 @@ Peter Parker is unmasked and no longer able to separate his normal life from the
 	
 
 ### The Matrix Resurrections
-*Released on 2021-12-16, vote average 7.7*
+*Released on 2021-12-16, vote average 7.6*
 
 Plagued by strange memories, Neo&#39;s life takes an unexpected turn when he finds himself back inside the Matrix.
 
@@ -69,7 +69,7 @@ Plagued by strange memories, Neo&#39;s life takes an unexpected turn when he fin
 	
 
 ### Swan Song
-*Released on 2021-12-17, vote average 7.5*
+*Released on 2021-12-17, vote average 7.6*
 
 In the near future, Cameron Turner is diagnosed with a terminal illness. Presented with an experimental solution to shield his wife and son from grief, he grapples with altering their fate.
 
@@ -78,6 +78,50 @@ In the near future, Cameron Turner is diagnosed with a terminal illness. Present
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/LxftqrrlSqc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Mamá o papá
+*Released on 2021-12-17, vote average 7.6*
+
+Flora and Victor are fun, modern, caring parents. That is, until they decide to get a divorce, and the perfect job opportunity turns up for them. They now have one problem: custody.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/j6l3u0at97o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Fortress
+*Released on 2021-12-17, vote average 6.7*
+
+The story revolves around a top-secret resort for retired U.S. intelligence officers. A group of criminals led by Balzary breach the compound, hellbent on revenge on Robert, forcing the retired officer and his son to save the day.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/GNGXauix9Mo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -110,63 +154,12 @@ Three sons try to make their mother’s dreams come true by bringing home wives 
 
 
 	
-	
-
-### Mamá o papá
-*Released on 2021-12-17, vote average 7.8*
-
-Flora and Victor are fun, modern, caring parents. That is, until they decide to get a divorce, and the perfect job opportunity turns up for them. They now have one problem: custody.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/j6l3u0at97o?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
 	
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Fortress
-*Released on 2021-12-17, vote average 6.7*
-
-The story revolves around a top-secret resort for retired U.S. intelligence officers. A group of criminals led by Balzary breach the compound, hellbent on revenge on Robert, forcing the retired officer and his son to save the day.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/GNGXauix9Mo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -176,7 +169,7 @@ The story revolves around a top-secret resort for retired U.S. intelligence offi
 	
 
 ### The King&#39;s Man
-*Released on 2021-12-21, vote average 8.2*
+*Released on 2021-12-21, vote average 8*
 
 As a collection of history&#39;s worst tyrants and criminal masterminds gather to plot a war to wipe out millions, one man must race against time to stop them.
 
@@ -196,9 +189,16 @@ As a collection of history&#39;s worst tyrants and criminal masterminds gather t
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### South Park: Post COVID: The Return of COVID
-*Released on 2021-12-16, vote average 7.2*
+*Released on 2021-12-16, vote average 7.1*
 
 If Stan, Kyle and Cartman could just work together, they could go back in time to make sure Covid never happened. But traveling back to the past seems to be the easy answer until they meet Victor Chaos.
 
@@ -262,9 +262,26 @@ Now that Ivan is about to turn 21, he is now grown up and finally old enough to 
 
 	
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 
 ### Christmas is Cancelled
-*Released on 2021-12-16, vote average 7*
+*Released on 2021-12-16, vote average 6.8*
 
 Emma&#39;s father and her high school frenemy start dating so she embarks on a mission to break up the happy couple.
 
@@ -283,30 +300,18 @@ Emma&#39;s father and her high school frenemy start dating so she embarks on a m
 
 
 	
-
-  
-
-
-	
-	
 	
 
-  
+### Minnal Murali
+*Released on 2021-12-24, vote average 8*
 
-
-	
-	
-
-### 1000 Miles From Christmas
-*Released on 2021-12-24, vote average 6.5*
-
-A Christmas tale, a romantic comedy and the story of a man in his 30s who learns — reluctantly — to get carried away by the Christmas spirit.
+A tailor gains special powers after being struck by lightning, but must take down an unexpected foe if he is to become the superhero his hometown in Kerala needs.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/fsnb67yC-Rw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/YBUKclK5xoc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -317,21 +322,6 @@ A Christmas tale, a romantic comedy and the story of a man in his 30s who learns
 
 
 	
-	
-
-### Mother/Android
-*Released on 2021-12-17, vote average 6.4*
-
-Georgia and her boyfriend Sam go on a treacherous journey to escape their country, which is caught in an unexpected war with artificial intelligence. Days away from the arrival of their first child, the couple must face No Man’s Land—a stronghold of the android uprising—in hopes of reaching safety before giving birth.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/JRl214mDZ-g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -342,7 +332,7 @@ Georgia and her boyfriend Sam go on a treacherous journey to escape their countr
 	
 
 ### The Novice
-*Released on 2021-12-17, vote average 7.2*
+*Released on 2021-12-17, vote average 7*
 
 A queer college freshman joins her university’s rowing team and undertakes an obsessive physical and psychological journey to make it to the top varsity boat, no matter the cost.
 
@@ -355,11 +345,6 @@ A queer college freshman joins her university’s rowing team and undertakes an 
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
