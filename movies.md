@@ -47,7 +47,7 @@ Peter Parker is unmasked and no longer able to separate his normal life from the
 	
 
 ### The Matrix Resurrections
-*Released on 2021-12-16, vote average 7.6*
+*Released on 2021-12-16, vote average 7.5*
 
 Plagued by strange memories, Neo&#39;s life takes an unexpected turn when he finds himself back inside the Matrix.
 
@@ -68,30 +68,8 @@ Plagued by strange memories, Neo&#39;s life takes an unexpected turn when he fin
 	
 	
 
-### Swan Song
-*Released on 2021-12-17, vote average 7.6*
-
-In the near future, Cameron Turner is diagnosed with a terminal illness. Presented with an experimental solution to shield his wife and son from grief, he grapples with altering their fate.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LxftqrrlSqc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Mamá o papá
-*Released on 2021-12-17, vote average 7.6*
+*Released on 2021-12-17, vote average 7.7*
 
 Flora and Victor are fun, modern, caring parents. That is, until they decide to get a divorce, and the perfect job opportunity turns up for them. They now have one problem: custody.
 
@@ -112,8 +90,59 @@ Flora and Victor are fun, modern, caring parents. That is, until they decide to 
 	
 	
 
+### Swan Song
+*Released on 2021-12-17, vote average 7.5*
+
+In the near future, Cameron Turner is diagnosed with a terminal illness. Presented with an experimental solution to shield his wife and son from grief, he grapples with altering their fate.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LxftqrrlSqc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### A Naija Christmas
+*Released on 2021-12-16, vote average 7.8*
+
+Three sons try to make their mother’s dreams come true by bringing home wives for Christmas.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LMIG-cFv-Cc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
 ### Fortress
-*Released on 2021-12-17, vote average 6.7*
+*Released on 2021-12-17, vote average 6.5*
 
 The story revolves around a top-secret resort for retired U.S. intelligence officers. A group of criminals led by Balzary breach the compound, hellbent on revenge on Robert, forcing the retired officer and his son to save the day.
 
@@ -133,61 +162,27 @@ The story revolves around a top-secret resort for retired U.S. intelligence offi
 
 	
 	
+	
 
-### A Naija Christmas
-*Released on 2021-12-16, vote average 8.1*
+  
 
-Three sons try to make their mother’s dreams come true by bringing home wives for Christmas.
+
+	
+	
+
+### Jujutsu Kaisen 0: The Movie
+*Released on 2021-12-24, vote average 8*
+
+Yuta Okkotsu is a nervous high school student who is suffering from a serious problem—his childhood friend Rika has turned into a curse and won&#39;t leave him alone. Since Rika is no ordinary curse, his plight is noticed by Satoru Gojo, a teacher at Jujutsu High, a school where fledgling exorcists learn how to combat curses. Gojo convinces Yuta to enroll, but can he learn enough in time to confront the curse that haunts him?
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/LMIG-cFv-Cc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/eGSL-l95VXw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### The King&#39;s Man
-*Released on 2021-12-21, vote average 8*
-
-As a collection of history&#39;s worst tyrants and criminal masterminds gather to plot a war to wipe out millions, one man must race against time to stop them.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MGoCwNHE4ys?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -198,7 +193,7 @@ As a collection of history&#39;s worst tyrants and criminal masterminds gather t
 	
 
 ### South Park: Post COVID: The Return of COVID
-*Released on 2021-12-16, vote average 7.1*
+*Released on 2021-12-16, vote average 7.2*
 
 If Stan, Kyle and Cartman could just work together, they could go back in time to make sure Covid never happened. But traveling back to the past seems to be the easy answer until they meet Victor Chaos.
 
@@ -207,6 +202,28 @@ If Stan, Kyle and Cartman could just work together, they could go back in time t
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/rMsbqO3O9ck?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The King&#39;s Man
+*Released on 2021-12-21, vote average 7.3*
+
+As a collection of history&#39;s worst tyrants and criminal masterminds gather to plot a war to wipe out millions, one man must race against time to stop them.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MGoCwNHE4ys?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -240,6 +257,62 @@ In a world where monster wrestling is a global sport and monsters are superstar 
 
 	
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Minnal Murali
+*Released on 2021-12-24, vote average 7.5*
+
+A tailor gains special powers after being struck by lightning, but must take down an unexpected foe if he is to become the superhero his hometown in Kerala needs.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/YBUKclK5xoc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Christmas is Cancelled
+*Released on 2021-12-16, vote average 6.3*
+
+Emma&#39;s father and her high school frenemy start dating so she embarks on a mission to break up the happy couple.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Lq_9-ZbVb5s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
 
 ### The Last Warrior: A Messenger of Darkness
 *Released on 2021-12-23, vote average 9*
@@ -261,17 +334,12 @@ Now that Ivan is about to turn 21, he is now grown up and finally old enough to 
 
 
 	
-	
-	
 
   
 
 
 	
-
-  
-
-
+	
 	
 
   
@@ -280,67 +348,16 @@ Now that Ivan is about to turn 21, he is now grown up and finally old enough to 
 	
 	
 
-### Christmas is Cancelled
-*Released on 2021-12-16, vote average 6.8*
+### Pushpa: The Rise
+*Released on 2021-12-16, vote average 7.6*
 
-Emma&#39;s father and her high school frenemy start dating so she embarks on a mission to break up the happy couple.
+Pushpa Raj is a coolie who rises in the world of red sandalwood smuggling. Along the way, he doesn’t shy from making an enemy or two.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Lq_9-ZbVb5s?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Minnal Murali
-*Released on 2021-12-24, vote average 8*
-
-A tailor gains special powers after being struck by lightning, but must take down an unexpected foe if he is to become the superhero his hometown in Kerala needs.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/YBUKclK5xoc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### The Novice
-*Released on 2021-12-17, vote average 7*
-
-A queer college freshman joins her university’s rowing team and undertakes an obsessive physical and psychological journey to make it to the top varsity boat, no matter the cost.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Z4zCPgMdbo0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/8KLCadalvfQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
