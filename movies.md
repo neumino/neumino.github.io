@@ -47,7 +47,7 @@ Peter Parker is unmasked and no longer able to separate his normal life from the
 	
 
 ### The Matrix Resurrections
-*Released on 2021-12-16, vote average 7.5*
+*Released on 2021-12-16, vote average 7.4*
 
 Plagued by strange memories, Neo&#39;s life takes an unexpected turn when he finds himself back inside the Matrix.
 
@@ -89,50 +89,6 @@ Flora and Victor are fun, modern, caring parents. That is, until they decide to 
 
 	
 	
-
-### Swan Song
-*Released on 2021-12-17, vote average 7.5*
-
-In the near future, Cameron Turner is diagnosed with a terminal illness. Presented with an experimental solution to shield his wife and son from grief, he grapples with altering their fate.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LxftqrrlSqc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### A Naija Christmas
-*Released on 2021-12-16, vote average 7.8*
-
-Three sons try to make their mother’s dreams come true by bringing home wives for Christmas.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LMIG-cFv-Cc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -142,7 +98,7 @@ Three sons try to make their mother’s dreams come true by bringing home wives 
 	
 
 ### Fortress
-*Released on 2021-12-17, vote average 6.5*
+*Released on 2021-12-17, vote average 6.4*
 
 The story revolves around a top-secret resort for retired U.S. intelligence officers. A group of criminals led by Balzary breach the compound, hellbent on revenge on Robert, forcing the retired officer and his son to save the day.
 
@@ -162,24 +118,17 @@ The story revolves around a top-secret resort for retired U.S. intelligence offi
 
 	
 	
-	
 
-  
+### Swan Song
+*Released on 2021-12-17, vote average 7.4*
 
-
-	
-	
-
-### Jujutsu Kaisen 0: The Movie
-*Released on 2021-12-24, vote average 8*
-
-Yuta Okkotsu is a nervous high school student who is suffering from a serious problem—his childhood friend Rika has turned into a curse and won&#39;t leave him alone. Since Rika is no ordinary curse, his plight is noticed by Satoru Gojo, a teacher at Jujutsu High, a school where fledgling exorcists learn how to combat curses. Gojo convinces Yuta to enroll, but can he learn enough in time to confront the curse that haunts him?
+In the near future, Cameron Turner is diagnosed with a terminal illness. Presented with an experimental solution to shield his wife and son from grief, he grapples with altering their fate.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/eGSL-l95VXw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/LxftqrrlSqc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -214,8 +163,37 @@ If Stan, Kyle and Cartman could just work together, they could go back in time t
 	
 	
 
+### A Naija Christmas
+*Released on 2021-12-16, vote average 7.4*
+
+Three sons try to make their mother’s dreams come true by bringing home wives for Christmas.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LMIG-cFv-Cc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
 ### The King&#39;s Man
-*Released on 2021-12-21, vote average 7.3*
+*Released on 2021-12-21, vote average 7.4*
 
 As a collection of history&#39;s worst tyrants and criminal masterminds gather to plot a war to wipe out millions, one man must race against time to stop them.
 
@@ -236,8 +214,37 @@ As a collection of history&#39;s worst tyrants and criminal masterminds gather t
 	
 	
 
+### Jujutsu Kaisen 0: The Movie
+*Released on 2021-12-24, vote average 8*
+
+Yuta Okkotsu is a nervous high school student who is suffering from a serious problem—his childhood friend Rika has turned into a curse and won&#39;t leave him alone. Since Rika is no ordinary curse, his plight is noticed by Satoru Gojo, a teacher at Jujutsu High, a school where fledgling exorcists learn how to combat curses. Gojo convinces Yuta to enroll, but can he learn enough in time to confront the curse that haunts him?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/eGSL-l95VXw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
 ### Rumble
-*Released on 2021-12-15, vote average 7.4*
+*Released on 2021-12-15, vote average 7.3*
 
 In a world where monster wrestling is a global sport and monsters are superstar athletes, teenage Winnie seeks to follow in her father’s footsteps by coaching a loveable underdog monster into a champion.
 
@@ -256,13 +263,6 @@ In a world where monster wrestling is a global sport and monsters are superstar 
 
 
 	
-	
-	
-
-  
-
-
-	
 
   
 
@@ -271,7 +271,7 @@ In a world where monster wrestling is a global sport and monsters are superstar 
 	
 
 ### Minnal Murali
-*Released on 2021-12-24, vote average 7.5*
+*Released on 2021-12-24, vote average 7.6*
 
 A tailor gains special powers after being struck by lightning, but must take down an unexpected foe if he is to become the superhero his hometown in Kerala needs.
 
@@ -293,7 +293,7 @@ A tailor gains special powers after being struck by lightning, but must take dow
 	
 
 ### Christmas is Cancelled
-*Released on 2021-12-16, vote average 6.3*
+*Released on 2021-12-16, vote average 6.4*
 
 Emma&#39;s father and her high school frenemy start dating so she embarks on a mission to break up the happy couple.
 
@@ -313,17 +313,24 @@ Emma&#39;s father and her high school frenemy start dating so she embarks on a m
 
 	
 	
+	
 
-### The Last Warrior: A Messenger of Darkness
-*Released on 2021-12-23, vote average 9*
+  
 
-Now that Ivan is about to turn 21, he is now grown up and finally old enough to marry the beautiful Vasilisa. But when Vasilisa is kidnapped and trapped in modern Moscow, Ivan and his friends must travel to the present day to rescue her.
+
+	
+	
+
+### Death to 2021
+*Released on 2021-12-27, vote average 6.4*
+
+This comedic retrospective mixes archival footage and scripted sketches as it revisits all the dread — and occasional delight — that 2021 had to offer.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xp_fNfcIP9Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/aGZQ5RK13LY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -340,24 +347,17 @@ Now that Ivan is about to turn 21, he is now grown up and finally old enough to 
 
 	
 	
-	
 
-  
+### Vicky and Her Mystery
+*Released on 2021-12-15, vote average 7.8*
 
-
-	
-	
-
-### Pushpa: The Rise
-*Released on 2021-12-16, vote average 7.6*
-
-Pushpa Raj is a coolie who rises in the world of red sandalwood smuggling. Along the way, he doesn’t shy from making an enemy or two.
+Stéphane decides to move to the beautiful mountains of Cantal in order to reconnect with his 8-year-old daughter, Victoria, who has been silent since her mother&#39;s disappearance. During a walk in the forest, a shepherd gives Victoria a puppy named &#34;Mystery&#34; who will gradually give her a taste for life. But very quickly, Stéphane discovers that the animal is in reality a wolf… Despite the warnings and the danger of this situation, he cannot bring himself to separate his daughter from this seemingly harmless ball of hair.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/8KLCadalvfQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/EXuJsmqd-M0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -374,9 +374,28 @@ Pushpa Raj is a coolie who rises in the world of red sandalwood smuggling. Along
 	
 
 	
+	
+	
 
 	
 
+	
+	
+
+### Gabriel&#39;s Rapture: Part One
+*Released on 2021-12-31, vote average 9*
+
+4th installment  Based on the best selling novel from by Sylvain Reynard.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/rtJlpSAkcao?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
