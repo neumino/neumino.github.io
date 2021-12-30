@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Spider-Man: No Way Home
-*Released on 2021-12-15, vote average 8.5*
+### The Matrix Resurrections
+*Released on 2021-12-16, vote average 7.3*
 
-Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.
+Plagued by strange memories, Neo&#39;s life takes an unexpected turn when he finds himself back inside the Matrix.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/N2G2CKudbeQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/OZF7aFzcK4I?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,30 +46,8 @@ Peter Parker is unmasked and no longer able to separate his normal life from the
 	
 	
 
-### The Matrix Resurrections
-*Released on 2021-12-16, vote average 7.4*
-
-Plagued by strange memories, Neo&#39;s life takes an unexpected turn when he finds himself back inside the Matrix.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/OZF7aFzcK4I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Mamá o papá
-*Released on 2021-12-17, vote average 7.7*
+*Released on 2021-12-17, vote average 7.6*
 
 Flora and Victor are fun, modern, caring parents. That is, until they decide to get a divorce, and the perfect job opportunity turns up for them. They now have one problem: custody.
 
@@ -89,16 +67,9 @@ Flora and Victor are fun, modern, caring parents. That is, until they decide to 
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Fortress
-*Released on 2021-12-17, vote average 6.4*
+*Released on 2021-12-17, vote average 6.5*
 
 The story revolves around a top-secret resort for retired U.S. intelligence officers. A group of criminals led by Balzary breach the compound, hellbent on revenge on Robert, forcing the retired officer and his son to save the day.
 
@@ -110,6 +81,13 @@ The story revolves around a top-secret resort for retired U.S. intelligence offi
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -141,16 +119,16 @@ In the near future, Cameron Turner is diagnosed with a terminal illness. Present
 	
 	
 
-### South Park: Post COVID: The Return of COVID
-*Released on 2021-12-16, vote average 7.2*
+### The King&#39;s Man
+*Released on 2021-12-21, vote average 7.2*
 
-If Stan, Kyle and Cartman could just work together, they could go back in time to make sure Covid never happened. But traveling back to the past seems to be the easy answer until they meet Victor Chaos.
+As a collection of history&#39;s worst tyrants and criminal masterminds gather to plot a war to wipe out millions, one man must race against time to stop them.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/rMsbqO3O9ck?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/MGoCwNHE4ys?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -192,28 +170,6 @@ Three sons try to make their mother’s dreams come true by bringing home wives 
 	
 	
 
-### The King&#39;s Man
-*Released on 2021-12-21, vote average 7.4*
-
-As a collection of history&#39;s worst tyrants and criminal masterminds gather to plot a war to wipe out millions, one man must race against time to stop them.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MGoCwNHE4ys?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Jujutsu Kaisen 0: The Movie
 *Released on 2021-12-24, vote average 8*
 
@@ -235,27 +191,27 @@ Yuta Okkotsu is a nervous high school student who is suffering from a serious pr
 
 	
 	
+
+### South Park: Post COVID: The Return of COVID
+*Released on 2021-12-16, vote average 7.1*
+
+If Stan, Kyle and Cartman could just work together, they could go back in time to make sure Covid never happened. But traveling back to the past seems to be the easy answer until they meet Victor Chaos.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/rMsbqO3O9ck?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
 
 
 	
-	
-
-### Rumble
-*Released on 2021-12-15, vote average 7.3*
-
-In a world where monster wrestling is a global sport and monsters are superstar athletes, teenage Winnie seeks to follow in her father’s footsteps by coaching a loveable underdog monster into a champion.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2GdXU-0Cfqc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -271,7 +227,7 @@ In a world where monster wrestling is a global sport and monsters are superstar 
 	
 
 ### Minnal Murali
-*Released on 2021-12-24, vote average 7.6*
+*Released on 2021-12-24, vote average 7.4*
 
 A tailor gains special powers after being struck by lightning, but must take down an unexpected foe if he is to become the superhero his hometown in Kerala needs.
 
@@ -280,28 +236,6 @@ A tailor gains special powers after being struck by lightning, but must take dow
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/YBUKclK5xoc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Christmas is Cancelled
-*Released on 2021-12-16, vote average 6.4*
-
-Emma&#39;s father and her high school frenemy start dating so she embarks on a mission to break up the happy couple.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Lq_9-ZbVb5s?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -322,7 +256,7 @@ Emma&#39;s father and her high school frenemy start dating so she embarks on a m
 	
 
 ### Death to 2021
-*Released on 2021-12-27, vote average 6.4*
+*Released on 2021-12-27, vote average 6.2*
 
 This comedic retrospective mixes archival footage and scripted sketches as it revisits all the dread — and occasional delight — that 2021 had to offer.
 
@@ -341,6 +275,18 @@ This comedic retrospective mixes archival footage and scripted sketches as it re
 
 
 	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 
   
 
@@ -348,16 +294,38 @@ This comedic retrospective mixes archival footage and scripted sketches as it re
 	
 	
 
-### Vicky and Her Mystery
-*Released on 2021-12-15, vote average 7.8*
+### A California Christmas: City Lights
+*Released on 2021-12-16, vote average 6.8*
 
-Stéphane decides to move to the beautiful mountains of Cantal in order to reconnect with his 8-year-old daughter, Victoria, who has been silent since her mother&#39;s disappearance. During a walk in the forest, a shepherd gives Victoria a puppy named &#34;Mystery&#34; who will gradually give her a taste for life. But very quickly, Stéphane discovers that the animal is in reality a wolf… Despite the warnings and the danger of this situation, he cannot bring himself to separate his daughter from this seemingly harmless ball of hair.
+Follows Callie and Joseph one year after they fell in love, now running a dairy farm and winery, but their romance is threatened when business and family obligations call Joseph back to the city.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/EXuJsmqd-M0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/agh1Mm281Tw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### American Underdog
+*Released on 2021-12-25, vote average 8*
+
+The true story of Kurt Warner, who went from a stockboy at a grocery store to a two-time NFL MVP, Super Bowl champion, and Hall of Fame quarterback.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_6rn-6lKBJ8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -372,6 +340,23 @@ Stéphane decides to move to the beautiful mountains of Cantal in order to recon
 
 
 	
+	
+
+### Harry Potter 20th Anniversary: Return to Hogwarts
+*Released on 2022-01-01, vote average 3*
+
+An enchanting making-of story told through all-new in-depth interviews and cast conversations, inviting fans on a magical first-person journey through one of the most beloved film franchises of all time.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fFGS4zZWGoA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 	
@@ -383,7 +368,7 @@ Stéphane decides to move to the beautiful mountains of Cantal in order to recon
 	
 
 ### Gabriel&#39;s Rapture: Part One
-*Released on 2021-12-31, vote average 9*
+*Released on 2021-12-31, vote average 8.4*
 
 4th installment  Based on the best selling novel from by Sylvain Reynard.
 
