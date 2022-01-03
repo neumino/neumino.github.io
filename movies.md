@@ -11,6 +11,21 @@ This is a convenient page that embeds trailers of movies released in the past
 
 	
 	
+
+### Minnal Murali
+*Released on 2021-12-24, vote average 7.2*
+
+A tailor gains special powers after being struck by lightning, but must take down an unexpected foe if he is to become the superhero his hometown in Kerala needs.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/YBUKclK5xoc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -30,28 +45,6 @@ This is a convenient page that embeds trailers of movies released in the past
 
 	
 	
-
-### Minnal Murali
-*Released on 2021-12-24, vote average 7.2*
-
-A tailor gains special powers after being struck by lightning, but must take down an unexpected foe if he is to become the superhero his hometown in Kerala needs.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/YBUKclK5xoc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -61,7 +54,7 @@ A tailor gains special powers after being struck by lightning, but must take dow
 	
 
 ### Harry Potter 20th Anniversary: Return to Hogwarts
-*Released on 2022-01-01, vote average 7.7*
+*Released on 2022-01-01, vote average 8.7*
 
 An enchanting making-of story told through all-new in-depth interviews and cast conversations, inviting fans on a magical first-person journey through one of the most beloved film franchises of all time.
 
@@ -81,9 +74,16 @@ An enchanting making-of story told through all-new in-depth interviews and cast 
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### The King&#39;s Man
-*Released on 2021-12-21, vote average 6.9*
+*Released on 2021-12-21, vote average 6.8*
 
 As a collection of history&#39;s worst tyrants and criminal masterminds gather to plot a war to wipe out millions, one man must race against time to stop them.
 
@@ -144,7 +144,7 @@ Yuta Okkotsu is a nervous high school student who is suffering from a serious pr
 	
 
 ### Hilda and the Mountain King
-*Released on 2021-12-30, vote average 7.3*
+*Released on 2021-12-30, vote average 8.6*
 
 When Hilda wakes up in the body of a troll, she must use her wits and courage to get back home, become human again — and save the city of Trolberg.
 
@@ -156,13 +156,6 @@ When Hilda wakes up in the body of a troll, she must use her wits and courage to
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -198,9 +191,21 @@ This comedic retrospective mixes archival footage and scripted sketches as it re
 
 	
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 
 ### Gabriel&#39;s Rapture: Part One
-*Released on 2021-12-31, vote average 8.5*
+*Released on 2021-12-31, vote average 8.4*
 
 4th installment  Based on the best selling novel from by Sylvain Reynard.
 
@@ -219,38 +224,6 @@ This comedic retrospective mixes archival footage and scripted sketches as it re
 
 
 	
-	
-
-### The Gardener
-*Released on 2021-12-28, vote average 8*
-
-A troubled wealthy family gathers in a quaint manor home for the holidays, never suspecting that bloodthirsty, sadistic Volker and his crew linger at the gates, ready to attack, rob, and maim them at nightfall. But they didn’t count on the estate’s quiet gardener, Peter Juhasz , who must return to the savage ways he learned as a soldier to save the family.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/aU4KmFs8X44?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 
   
 
@@ -262,6 +235,16 @@ A troubled wealthy family gathers in a quaint manor home for the holidays, never
 
 	
 	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -298,11 +281,11 @@ A troubled wealthy family gathers in a quaint manor home for the holidays, never
 	
 
 	
+	
+	
 
 	
 
-	
-	
 	
 
 	
