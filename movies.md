@@ -54,7 +54,7 @@ A tailor gains special powers after being struck by lightning, but must take dow
 	
 
 ### Harry Potter 20th Anniversary: Return to Hogwarts
-*Released on 2022-01-01, vote average 8.7*
+*Released on 2022-01-01, vote average 8.6*
 
 An enchanting making-of story told through all-new in-depth interviews and cast conversations, inviting fans on a magical first-person journey through one of the most beloved film franchises of all time.
 
@@ -163,10 +163,15 @@ When Hilda wakes up in the body of a troll, she must use her wits and courage to
 
 
 	
+
+  
+
+
+	
 	
 
 ### Death to 2021
-*Released on 2021-12-27, vote average 6.1*
+*Released on 2021-12-27, vote average 6*
 
 This comedic retrospective mixes archival footage and scripted sketches as it revisits all the dread — and occasional delight — that 2021 had to offer.
 
@@ -179,23 +184,6 @@ This comedic retrospective mixes archival footage and scripted sketches as it re
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 	
 
   
@@ -224,6 +212,15 @@ This comedic retrospective mixes archival footage and scripted sketches as it re
 
 
 	
+	
+	
+
+  
+
+
+	
+	
+	
 
   
 
@@ -234,12 +231,49 @@ This comedic retrospective mixes archival footage and scripted sketches as it re
 
 
 	
+
+  
+
+
+	
+	
+
+### The Last Warrior: A Messenger of Darkness
+*Released on 2021-12-23, vote average 9*
+
+Now that Ivan is about to turn 21, he is now grown up and finally old enough to marry the beautiful Vasilisa. But when Vasilisa is kidnapped and trapped in modern Moscow, Ivan and his friends must travel to the present day to rescue her.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xp_fNfcIP9Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
   
 
 
+	
+	
+
+### Sensation
+*Released on 2021-12-31, vote average 7*
+
+When a lowly postman is inducted into a top-secret superhuman DNA program at a research facility, it&#39;s revealed that he&#39;ll be able to receive, control and send information based on the senses of others.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/au750jTS_2I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -257,6 +291,35 @@ This comedic retrospective mixes archival footage and scripted sketches as it re
 	
 
 	
+	
+
+### American Siege
+*Released on 2022-01-07, vote average 3.5*
+
+An ex-NYPD officer-turned-sheriff of a small rural Georgia town has to contend with a gang of thieves who have taken a wealthy doctor hostage.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/AdI6ea_0T0s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+	
 
 	
 
@@ -270,18 +333,6 @@ This comedic retrospective mixes archival footage and scripted sketches as it re
 
 	
 
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	
 	
 
 	
