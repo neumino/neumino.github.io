@@ -45,13 +45,6 @@ A tailor gains special powers after being struck by lightning, but must take dow
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Harry Potter 20th Anniversary: Return to Hogwarts
 *Released on 2022-01-01, vote average 8.6*
@@ -81,9 +74,16 @@ An enchanting making-of story told through all-new in-depth interviews and cast 
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### The King&#39;s Man
-*Released on 2021-12-21, vote average 6.8*
+*Released on 2022-01-05, vote average 6.9*
 
 As a collection of history&#39;s worst tyrants and criminal masterminds gather to plot a war to wipe out millions, one man must race against time to stop them.
 
@@ -102,6 +102,26 @@ As a collection of history&#39;s worst tyrants and criminal masterminds gather t
 
 
 	
+
+  
+
+
+	
+	
+
+### Time Is Up
+*Released on 2022-01-03, vote average 7*
+
+Vivien, an accomplished student with a passion for physics, and Roy, a troubled young man, are involved in an accident that forces them to reclaim their lives one minute at the time.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/rWdMJOTRYa0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -136,15 +156,10 @@ Yuta Okkotsu is a nervous high school student who is suffering from a serious pr
 
 
 	
-
-  
-
-
-	
 	
 
 ### Hilda and the Mountain King
-*Released on 2021-12-30, vote average 8.6*
+*Released on 2021-12-30, vote average 8.1*
 
 When Hilda wakes up in the body of a troll, she must use her wits and courage to get back home, become human again — and save the city of Trolberg.
 
@@ -168,21 +183,18 @@ When Hilda wakes up in the body of a troll, she must use her wits and courage to
 
 
 	
+
+  
+
+
+	
+	
 	
 
-### Death to 2021
-*Released on 2021-12-27, vote average 6*
+  
 
-This comedic retrospective mixes archival footage and scripted sketches as it revisits all the dread — and occasional delight — that 2021 had to offer.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/aGZQ5RK13LY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
+	
 	
 	
 
@@ -193,7 +205,7 @@ This comedic retrospective mixes archival footage and scripted sketches as it re
 	
 
 ### Gabriel&#39;s Rapture: Part One
-*Released on 2021-12-31, vote average 8.4*
+*Released on 2021-12-31, vote average 8.6*
 
 4th installment  Based on the best selling novel from by Sylvain Reynard.
 
@@ -213,18 +225,21 @@ This comedic retrospective mixes archival footage and scripted sketches as it re
 
 	
 	
+
+### Death to 2021
+*Released on 2021-12-27, vote average 6.1*
+
+This comedic retrospective mixes archival footage and scripted sketches as it revisits all the dread — and occasional delight — that 2021 had to offer.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/aGZQ5RK13LY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 	
 
   
@@ -258,27 +273,12 @@ Now that Ivan is about to turn 21, he is now grown up and finally old enough to 
 
 
 	
-	
-
-### Sensation
-*Released on 2021-12-31, vote average 7*
-
-When a lowly postman is inducted into a top-secret superhuman DNA program at a research facility, it&#39;s revealed that he&#39;ll be able to receive, control and send information based on the senses of others.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/au750jTS_2I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
+	
+	
 	
 
   
@@ -287,6 +287,27 @@ When a lowly postman is inducted into a top-secret superhuman DNA program at a r
 
 ## Opening soon
 
+
+	
+	
+
+### The King&#39;s Man
+*Released on 2022-01-05, vote average 6.9*
+
+As a collection of history&#39;s worst tyrants and criminal masterminds gather to plot a war to wipe out millions, one man must race against time to stop them.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MGoCwNHE4ys?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
 
 	
 
@@ -310,9 +331,7 @@ An ex-NYPD officer-turned-sheriff of a small rural Georgia town has to contend w
 	
 
 	
-
 	
-
 	
 
 	
