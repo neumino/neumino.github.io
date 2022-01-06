@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Minnal Murali
-*Released on 2021-12-24, vote average 7.2*
+### Harry Potter 20th Anniversary: Return to Hogwarts
+*Released on 2022-01-01, vote average 8.6*
 
-A tailor gains special powers after being struck by lightning, but must take down an unexpected foe if he is to become the superhero his hometown in Kerala needs.
+An enchanting making-of story told through all-new in-depth interviews and cast conversations, inviting fans on a magical first-person journey through one of the most beloved film franchises of all time.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/YBUKclK5xoc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/fFGS4zZWGoA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ A tailor gains special powers after being struck by lightning, but must take dow
 	
 	
 
-### Harry Potter 20th Anniversary: Return to Hogwarts
-*Released on 2022-01-01, vote average 8.6*
+### Minnal Murali
+*Released on 2021-12-24, vote average 7.3*
 
-An enchanting making-of story told through all-new in-depth interviews and cast conversations, inviting fans on a magical first-person journey through one of the most beloved film franchises of all time.
+A tailor gains special powers after being struck by lightning, but must take down an unexpected foe if he is to become the superhero his hometown in Kerala needs.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/fFGS4zZWGoA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/YBUKclK5xoc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -67,23 +67,9 @@ An enchanting making-of story told through all-new in-depth interviews and cast 
 
 	
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
 
 ### The King&#39;s Man
-*Released on 2022-01-05, vote average 6.9*
+*Released on 2021-12-26, vote average 6.7*
 
 As a collection of history&#39;s worst tyrants and criminal masterminds gather to plot a war to wipe out millions, one man must race against time to stop them.
 
@@ -102,27 +88,24 @@ As a collection of history&#39;s worst tyrants and criminal masterminds gather t
 
 
 	
+	
+	
 
   
 
 
 	
 	
+	
 
-### Time Is Up
-*Released on 2022-01-03, vote average 7*
+  
 
-Vivien, an accomplished student with a passion for physics, and Roy, a troubled young man, are involved in an accident that forces them to reclaim their lives one minute at the time.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rWdMJOTRYa0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
 	
 
   
@@ -145,11 +128,6 @@ Yuta Okkotsu is a nervous high school student who is suffering from a serious pr
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -203,21 +181,6 @@ When Hilda wakes up in the body of a troll, she must use her wits and courage to
 
 	
 	
-
-### Gabriel&#39;s Rapture: Part One
-*Released on 2021-12-31, vote average 8.6*
-
-4th installment  Based on the best selling novel from by Sylvain Reynard.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rtJlpSAkcao?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -227,7 +190,7 @@ When Hilda wakes up in the body of a troll, she must use her wits and courage to
 	
 
 ### Death to 2021
-*Released on 2021-12-27, vote average 6.1*
+*Released on 2021-12-27, vote average 6*
 
 This comedic retrospective mixes archival footage and scripted sketches as it revisits all the dread — and occasional delight — that 2021 had to offer.
 
@@ -253,8 +216,30 @@ This comedic retrospective mixes archival footage and scripted sketches as it re
 	
 	
 
+### Gabriel&#39;s Rapture: Part One
+*Released on 2021-12-31, vote average 8.7*
+
+4th installment  Based on the best selling novel from by Sylvain Reynard.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/rtJlpSAkcao?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Last Warrior: A Messenger of Darkness
-*Released on 2021-12-23, vote average 9*
+*Released on 2021-12-23, vote average 8*
 
 Now that Ivan is about to turn 21, he is now grown up and finally old enough to marry the beautiful Vasilisa. But when Vasilisa is kidnapped and trapped in modern Moscow, Ivan and his friends must travel to the present day to rescue her.
 
@@ -278,8 +263,6 @@ Now that Ivan is about to turn 21, he is now grown up and finally old enough to 
 
 
 	
-	
-	
 
   
 
@@ -287,27 +270,6 @@ Now that Ivan is about to turn 21, he is now grown up and finally old enough to 
 
 ## Opening soon
 
-
-	
-	
-
-### The King&#39;s Man
-*Released on 2022-01-05, vote average 6.9*
-
-As a collection of history&#39;s worst tyrants and criminal masterminds gather to plot a war to wipe out millions, one man must race against time to stop them.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MGoCwNHE4ys?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
 
 	
 
@@ -331,13 +293,13 @@ An ex-NYPD officer-turned-sheriff of a small rural Georgia town has to contend w
 	
 
 	
-	
-	
 
 	
 
 	
+
 	
+
 	
 
 	
