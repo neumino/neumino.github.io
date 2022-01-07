@@ -67,9 +67,16 @@ A tailor gains special powers after being struck by lightning, but must take dow
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### The King&#39;s Man
-*Released on 2021-12-26, vote average 6.7*
+*Released on 2021-12-26, vote average 6.9*
 
 As a collection of history&#39;s worst tyrants and criminal masterminds gather to plot a war to wipe out millions, one man must race against time to stop them.
 
@@ -88,8 +95,6 @@ As a collection of history&#39;s worst tyrants and criminal masterminds gather t
 
 
 	
-	
-	
 
   
 
@@ -106,6 +111,23 @@ As a collection of history&#39;s worst tyrants and criminal masterminds gather t
   
 
 
+	
+	
+
+### Hilda and the Mountain King
+*Released on 2021-12-30, vote average 8.1*
+
+When Hilda wakes up in the body of a troll, she must use her wits and courage to get back home, become human again — and save the city of Trolberg.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/4MnjzxvsBNM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -136,16 +158,16 @@ Yuta Okkotsu is a nervous high school student who is suffering from a serious pr
 	
 	
 
-### Hilda and the Mountain King
-*Released on 2021-12-30, vote average 8.1*
+### The 355
+*Released on 2022-01-05, vote average 5.9*
 
-When Hilda wakes up in the body of a troll, she must use her wits and courage to get back home, become human again — and save the city of Trolberg.
+A group of top female agents from government agencies around the globe try to stop an organization from acquiring a deadly weapon to send the world into chaos.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/4MnjzxvsBNM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/MFVmUCB10aY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -154,124 +176,6 @@ When Hilda wakes up in the body of a troll, she must use her wits and courage to
 
   
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Death to 2021
-*Released on 2021-12-27, vote average 6*
-
-This comedic retrospective mixes archival footage and scripted sketches as it revisits all the dread — and occasional delight — that 2021 had to offer.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/aGZQ5RK13LY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Gabriel&#39;s Rapture: Part One
-*Released on 2021-12-31, vote average 8.7*
-
-4th installment  Based on the best selling novel from by Sylvain Reynard.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rtJlpSAkcao?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Last Warrior: A Messenger of Darkness
-*Released on 2021-12-23, vote average 8*
-
-Now that Ivan is about to turn 21, he is now grown up and finally old enough to marry the beautiful Vasilisa. But when Vasilisa is kidnapped and trapped in modern Moscow, Ivan and his friends must travel to the present day to rescue her.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xp_fNfcIP9Q?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-
-## Opening soon
-
-
-	
 
 	
 	
@@ -292,6 +196,119 @@ An ex-NYPD officer-turned-sheriff of a small rural Georgia town has to contend w
 	
 	
 
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Death to 2021
+*Released on 2021-12-27, vote average 6.1*
+
+This comedic retrospective mixes archival footage and scripted sketches as it revisits all the dread — and occasional delight — that 2021 had to offer.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/aGZQ5RK13LY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Gabriel&#39;s Rapture: Part One
+*Released on 2021-12-31, vote average 8.6*
+
+4th installment  Based on the best selling novel from by Sylvain Reynard.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/rtJlpSAkcao?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+
+## Opening soon
+
+
+	
+
+	
+
+	
+	
+
+### American Siege
+*Released on 2022-01-07, vote average 3.5*
+
+An ex-NYPD officer-turned-sheriff of a small rural Georgia town has to contend with a gang of thieves who have taken a wealthy doctor hostage.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/AdI6ea_0T0s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
