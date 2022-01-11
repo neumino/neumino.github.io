@@ -76,7 +76,7 @@ When Hilda wakes up in the body of a troll, she must use her wits and courage to
 	
 
 ### The 355
-*Released on 2022-01-05, vote average 6.3*
+*Released on 2022-01-05, vote average 6.8*
 
 A group of top female agents from government agencies around the globe try to stop an organization from acquiring a deadly weapon to send the world into chaos.
 
@@ -105,7 +105,7 @@ A group of top female agents from government agencies around the globe try to st
 	
 
 ### The Commando
-*Released on 2022-01-07, vote average 7.4*
+*Released on 2022-01-07, vote average 6.5*
 
 An elite DEA agent returns home after a failed mission when his family makes an unexpected discovery in their house – a stash of money worth $3 million. They soon face the danger and threat of a newly released criminal and his crew, who will do whatever it takes to retrieve the money, including kidnap the agent’s daughters. Stakes are high and lives are at risk in this head-to-head battle as the agent stops at nothing to protect his family against the money-hungry criminals.
 
@@ -149,7 +149,7 @@ While vacationing in Mexico, a couple discovers their son&#39;s disappearance is
 	
 
 ### See for Me
-*Released on 2022-01-07, vote average 5.7*
+*Released on 2022-01-07, vote average 5*
 
 When blind former skier Sophie cat-sits in a secluded mansion, three thieves invade for the hidden safe. Sophie&#39;s only defense is army veteran Kelly, who she meets on the See For Me app. Kelly helps Sophie defend herself against the invaders and survive.
 
@@ -176,24 +176,17 @@ When blind former skier Sophie cat-sits in a secluded mansion, three thieves inv
 
 	
 	
-	
 
-  
+### The Winter Palace
+*Released on 2022-01-08, vote average 4.5*
 
-
-	
-	
-
-### Death to 2021
-*Released on 2021-12-27, vote average 6.1*
-
-This comedic retrospective mixes archival footage and scripted sketches as it revisits all the dread — and occasional delight — that 2021 had to offer.
+A novelist with a severe case of writer’s block is given the chance to finish her book at an empty winter chateau. She&#39;s surprised when the property&#39;s owner, a prince, decides to come stay as well.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/aGZQ5RK13LY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/zZC6SAXv4Js?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -203,6 +196,74 @@ This comedic retrospective mixes archival footage and scripted sketches as it re
   
 
 
+	
+	
+	
+
+  
+
+
+	
+	
+
+### The Wedding Veil
+*Released on 2022-01-08, vote average 6*
+
+Three longtime college friends who discover a mysterious, antique veil fabled to unite its bearer with her true love. After discovering a long-lost painting, museum curator Avery and successful, new board member Peter investigate the artwork&#39;s origins as they plan a charity fundraiser to unveil its restoration.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/9wE1QKClDEk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### North to Home
+*Released on 2022-01-09, vote average 2*
+
+Suzanne McBride is excited to spend her birthday with her family. It will be the first time that her three adopted daughters will be together in years. This seems like a great time for a family reunion, but the sisters are each wrestling with unique challenges that threaten to derail this special occasion.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8Pf6WuEv-L0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Gabriel&#39;s Rapture: Part One
+*Released on 2021-12-31, vote average 8*
+
+4th installment  Based on the best selling novel from by Sylvain Reynard.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/rtJlpSAkcao?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -236,23 +297,6 @@ An ex-NYPD officer-turned-sheriff of a small rural Georgia town has to contend w
 
 
 	
-	
-
-### Gabriel&#39;s Rapture: Part One
-*Released on 2021-12-31, vote average 8.3*
-
-4th installment  Based on the best selling novel from by Sylvain Reynard.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rtJlpSAkcao?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -263,15 +307,7 @@ An ex-NYPD officer-turned-sheriff of a small rural Georgia town has to contend w
 
 
 	
-
-  
-
-
 	
-
-  
-
-
 	
 
   
@@ -292,7 +328,7 @@ An ex-NYPD officer-turned-sheriff of a small rural Georgia town has to contend w
 	
 
 ### Scream
-*Released on 2022-01-12, vote average 6*
+*Released on 2022-01-12, vote average 7.3*
 
 Twenty-five years after a streak of brutal murders shocked the quiet town of Woodsboro, a new killer has donned the Ghostface mask and begins targeting a group of teenagers to resurrect secrets from the town’s deadly past.
 
@@ -300,7 +336,7 @@ Twenty-five years after a streak of brutal murders shocked the quiet town of Woo
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/5jcHMab1XZU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/SQB1wvvHiCg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -326,15 +362,17 @@ Twenty-five years after a streak of brutal murders shocked the quiet town of Woo
 	
 
 	
+	
+	
 
 	
 
 	
+	
+	
 
 	
 
-	
-	
 	
 
 	
