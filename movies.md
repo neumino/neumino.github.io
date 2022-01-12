@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Harry Potter 20th Anniversary: Return to Hogwarts
-*Released on 2022-01-01, vote average 8.5*
+*Released on 2022-01-01, vote average 8.4*
 
 An enchanting making-of story told through all-new in-depth interviews and cast conversations, inviting fans on a magical first-person journey through one of the most beloved film franchises of all time.
 
@@ -47,7 +47,7 @@ An enchanting making-of story told through all-new in-depth interviews and cast 
 	
 
 ### Hilda and the Mountain King
-*Released on 2021-12-30, vote average 7.8*
+*Released on 2021-12-30, vote average 7.9*
 
 When Hilda wakes up in the body of a troll, she must use her wits and courage to get back home, become human again — and save the city of Trolberg.
 
@@ -67,24 +67,17 @@ When Hilda wakes up in the body of a troll, she must use her wits and courage to
 
 	
 	
-	
 
-  
+### Scream
+*Released on 2022-01-12, vote average 8.4*
 
-
-	
-	
-
-### The 355
-*Released on 2022-01-05, vote average 6.8*
-
-A group of top female agents from government agencies around the globe try to stop an organization from acquiring a deadly weapon to send the world into chaos.
+Twenty-five years after a streak of brutal murders shocked the quiet town of Woodsboro, a new killer has donned the Ghostface mask and begins targeting a group of teenagers to resurrect secrets from the town’s deadly past.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/MFVmUCB10aY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/nRwLyKIBNU8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -103,17 +96,24 @@ A group of top female agents from government agencies around the globe try to st
 
 	
 	
+	
 
-### The Commando
-*Released on 2022-01-07, vote average 6.5*
+  
 
-An elite DEA agent returns home after a failed mission when his family makes an unexpected discovery in their house – a stash of money worth $3 million. They soon face the danger and threat of a newly released criminal and his crew, who will do whatever it takes to retrieve the money, including kidnap the agent’s daughters. Stakes are high and lives are at risk in this head-to-head battle as the agent stops at nothing to protect his family against the money-hungry criminals.
+
+	
+	
+
+### The 355
+*Released on 2022-01-05, vote average 6.8*
+
+
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/_EoLNs5m-7Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/MFVmUCB10aY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -136,6 +136,28 @@ While vacationing in Mexico, a couple discovers their son&#39;s disappearance is
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/cvW9sPW2j3k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Commando
+*Released on 2022-01-07, vote average 7.1*
+
+An elite DEA agent returns home after a failed mission when his family makes an unexpected discovery in their house – a stash of money worth $3 million. They soon face the danger and threat of a newly released criminal and his crew, who will do whatever it takes to retrieve the money, including kidnap the agent’s daughters. Stakes are high and lives are at risk in this head-to-head battle as the agent stops at nothing to protect his family against the money-hungry criminals.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_EoLNs5m-7Y?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -206,28 +228,6 @@ A novelist with a severe case of writer’s block is given the chance to finish 
 	
 	
 
-### The Wedding Veil
-*Released on 2022-01-08, vote average 6*
-
-Three longtime college friends who discover a mysterious, antique veil fabled to unite its bearer with her true love. After discovering a long-lost painting, museum curator Avery and successful, new board member Peter investigate the artwork&#39;s origins as they plan a charity fundraiser to unveil its restoration.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/9wE1QKClDEk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### North to Home
 *Released on 2022-01-09, vote average 2*
 
@@ -251,7 +251,7 @@ Suzanne McBride is excited to spend her birthday with her family. It will be the
 	
 
 ### Gabriel&#39;s Rapture: Part One
-*Released on 2021-12-31, vote average 8*
+*Released on 2021-12-31, vote average 7.8*
 
 4th installment  Based on the best selling novel from by Sylvain Reynard.
 
@@ -264,6 +264,43 @@ Suzanne McBride is excited to spend her birthday with her family. It will be the
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### A Bridesmaid in Love
+*Released on 2022-01-10, vote average 3.5*
+
+Professional bridesmaid Cate James is excited to help her best friend with her wedding day and meets Maxine&#39;s handsome brother Matt, who&#39;s in town for his sister&#39;s wedding. Will sparks fly between Cate and Matt?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/36XQb_87uIE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -292,27 +329,22 @@ An ex-NYPD officer-turned-sheriff of a small rural Georgia town has to contend w
 
 
 	
-
-  
-
-
 	
 
-  
+### Grohon - The Eclipse
+*Released on 2022-01-10, vote average 2*
 
+A female journalist travels to a remote place outside the city to interview an award winning male writer. The writer is a recluse, living alone in a strange house. He has a dual personality and has two different people living within him — one who is a good-natured, harmless family-man, and the other a demon who wants to awaken the evil inside people and conquer the whole world by power. The journalist comes face to face with an experience that changes her forever.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/WTPVC0SiMrk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 	
 
   
@@ -323,12 +355,29 @@ An ex-NYPD officer-turned-sheriff of a small rural Georgia town has to contend w
 
 
 	
+	
+
+### Hotel Transylvania: Transformania
+*Released on 2022-01-13, vote average 10*
+
+When Van Helsing&#39;s mysterious invention, the &#34;Monsterfication Ray,&#34; goes haywire, Drac and his monster pals are all transformed into humans, and Johnny becomes a monster. In their new mismatched bodies, Drac and Johnny must team up and race across the globe to find a cure before it&#39;s too late, and before they drive each other crazy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Fieqiemy0rA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 	
 
 ### Scream
-*Released on 2022-01-12, vote average 7.3*
+*Released on 2022-01-12, vote average 8.4*
 
 Twenty-five years after a streak of brutal murders shocked the quiet town of Woodsboro, a new killer has donned the Ghostface mask and begins targeting a group of teenagers to resurrect secrets from the town’s deadly past.
 
@@ -336,7 +385,7 @@ Twenty-five years after a streak of brutal murders shocked the quiet town of Woo
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/SQB1wvvHiCg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/nRwLyKIBNU8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -350,6 +399,12 @@ Twenty-five years after a streak of brutal murders shocked the quiet town of Woo
 	
 
 	
+	
+	
+
+	
+	
+	
 
 	
 
@@ -362,13 +417,7 @@ Twenty-five years after a streak of brutal murders shocked the quiet town of Woo
 	
 
 	
-	
-	
 
-	
-
-	
-	
 	
 
 	
