@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Harry Potter 20th Anniversary: Return to Hogwarts
-*Released on 2022-01-01, vote average 8.4*
+*Released on 2022-01-01, vote average 8.5*
 
 An enchanting making-of story told through all-new in-depth interviews and cast conversations, inviting fans on a magical first-person journey through one of the most beloved film franchises of all time.
 
@@ -68,8 +68,30 @@ When Hilda wakes up in the body of a troll, she must use her wits and courage to
 	
 	
 
+### Hotel Transylvania: Transformania
+*Released on 2022-01-13, vote average 6*
+
+When Van Helsing&#39;s mysterious invention, the &#34;Monsterfication Ray,&#34; goes haywire, Drac and his monster pals are all transformed into humans, and Johnny becomes a monster. In their new mismatched bodies, Drac and Johnny must team up and race across the globe to find a cure before it&#39;s too late, and before they drive each other crazy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Fieqiemy0rA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Scream
-*Released on 2022-01-12, vote average 8.4*
+*Released on 2022-01-12, vote average 7.2*
 
 Twenty-five years after a streak of brutal murders shocked the quiet town of Woodsboro, a new killer has donned the Ghostface mask and begins targeting a group of teenagers to resurrect secrets from the town’s deadly past.
 
@@ -81,13 +103,6 @@ Twenty-five years after a streak of brutal murders shocked the quiet town of Woo
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -125,6 +140,13 @@ Twenty-five years after a streak of brutal murders shocked the quiet town of Woo
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### The Legend of La Llorona
 *Released on 2022-01-07, vote average 6*
@@ -148,8 +170,30 @@ While vacationing in Mexico, a couple discovers their son&#39;s disappearance is
 	
 	
 
+### How I Fell in Love with a Gangster
+*Released on 2022-01-12, vote average 6.3*
+
+A mysterious woman recounts the rise and fall of Nikodem &#34;Nikoś&#34; Skotarczak, one of the biggest gangsters in Poland&#39;s history. Inspired by a true story.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/si62hnUQpPY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Commando
-*Released on 2022-01-07, vote average 7.1*
+*Released on 2022-01-07, vote average 7.2*
 
 An elite DEA agent returns home after a failed mission when his family makes an unexpected discovery in their house – a stash of money worth $3 million. They soon face the danger and threat of a newly released criminal and his crew, who will do whatever it takes to retrieve the money, including kidnap the agent’s daughters. Stakes are high and lives are at risk in this head-to-head battle as the agent stops at nothing to protect his family against the money-hungry criminals.
 
@@ -162,6 +206,23 @@ An elite DEA agent returns home after a failed mission when his family makes an 
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -190,7 +251,37 @@ When blind former skier Sophie cat-sits in a secluded mansion, three thieves inv
 
 
 	
+
+  
+
+
 	
+
+  
+
+
+	
+	
+
+### Gabriel&#39;s Rapture: Part One
+*Released on 2021-12-31, vote average 7.9*
+
+4th installment  Based on the best selling novel from by Sylvain Reynard.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/rtJlpSAkcao?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -200,7 +291,7 @@ When blind former skier Sophie cat-sits in a secluded mansion, three thieves inv
 	
 
 ### The Winter Palace
-*Released on 2022-01-08, vote average 4.5*
+*Released on 2022-01-08, vote average 5.5*
 
 A novelist with a severe case of writer’s block is given the chance to finish her book at an empty winter chateau. She&#39;s surprised when the property&#39;s owner, a prince, decides to come stay as well.
 
@@ -225,131 +316,6 @@ A novelist with a severe case of writer’s block is given the chance to finish 
   
 
 
-	
-	
-
-### North to Home
-*Released on 2022-01-09, vote average 2*
-
-Suzanne McBride is excited to spend her birthday with her family. It will be the first time that her three adopted daughters will be together in years. This seems like a great time for a family reunion, but the sisters are each wrestling with unique challenges that threaten to derail this special occasion.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8Pf6WuEv-L0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Gabriel&#39;s Rapture: Part One
-*Released on 2021-12-31, vote average 7.8*
-
-4th installment  Based on the best selling novel from by Sylvain Reynard.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rtJlpSAkcao?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### A Bridesmaid in Love
-*Released on 2022-01-10, vote average 3.5*
-
-Professional bridesmaid Cate James is excited to help her best friend with her wedding day and meets Maxine&#39;s handsome brother Matt, who&#39;s in town for his sister&#39;s wedding. Will sparks fly between Cate and Matt?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/36XQb_87uIE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### American Siege
-*Released on 2022-01-07, vote average 4.3*
-
-An ex-NYPD officer-turned-sheriff of a small rural Georgia town has to contend with a gang of thieves who have taken a wealthy doctor hostage.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/AdI6ea_0T0s?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Grohon - The Eclipse
-*Released on 2022-01-10, vote average 2*
-
-A female journalist travels to a remote place outside the city to interview an award winning male writer. The writer is a recluse, living alone in a strange house. He has a dual personality and has two different people living within him — one who is a good-natured, harmless family-man, and the other a demon who wants to awaken the evil inside people and conquer the whole world by power. The journalist comes face to face with an experience that changes her forever.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/WTPVC0SiMrk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -358,7 +324,7 @@ A female journalist travels to a remote place outside the city to interview an a
 	
 
 ### Hotel Transylvania: Transformania
-*Released on 2022-01-13, vote average 10*
+*Released on 2022-01-13, vote average 6*
 
 When Van Helsing&#39;s mysterious invention, the &#34;Monsterfication Ray,&#34; goes haywire, Drac and his monster pals are all transformed into humans, and Johnny becomes a monster. In their new mismatched bodies, Drac and Johnny must team up and race across the globe to find a cure before it&#39;s too late, and before they drive each other crazy.
 
@@ -374,23 +340,6 @@ When Van Helsing&#39;s mysterious invention, the &#34;Monsterfication Ray,&#34; 
 	
 
 	
-	
-
-### Scream
-*Released on 2022-01-12, vote average 8.4*
-
-Twenty-five years after a streak of brutal murders shocked the quiet town of Woodsboro, a new killer has donned the Ghostface mask and begins targeting a group of teenagers to resurrect secrets from the town’s deadly past.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nRwLyKIBNU8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
@@ -399,11 +348,7 @@ Twenty-five years after a streak of brutal murders shocked the quiet town of Woo
 	
 
 	
-	
-	
 
-	
-	
 	
 
 	
