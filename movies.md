@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Hotel Transylvania: Transformania
-*Released on 2022-01-13, vote average 7.8*
+*Released on 2022-01-13, vote average 7.7*
 
 When Van Helsing&#39;s mysterious invention, the &#34;Monsterfication Ray,&#34; goes haywire, Drac and his monster pals are all transformed into humans, and Johnny becomes a monster. In their new mismatched bodies, Drac and Johnny must team up and race across the globe to find a cure before it&#39;s too late, and before they drive each other crazy.
 
@@ -91,7 +91,7 @@ Mystery writer Grace Miller has killer instincts when it comes to motive - and s
 	
 
 ### Ray Donovan: The Movie
-*Released on 2022-01-14, vote average 7.1*
+*Released on 2022-01-14, vote average 7*
 
 A showdown decades in the making brings the Donovan family legacy full circle. As the events that made Ray who he is today finally come to light, the Donovans find themselves drawn back to Boston to face the past. Each of them struggles to overcome their violent upbringing, but destiny dies hard, and only their fierce love for each other keeps them in the fight.
 
@@ -121,7 +121,7 @@ King Louis XIV&#39;s quest for immortality leads him to capture and steal a merm
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/0yuwbPwGNEw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/NjGSWdmVVHM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -138,6 +138,45 @@ King Louis XIV&#39;s quest for immortality leads him to capture and steal a merm
   
 
 
+	
+	
+
+### The Northman
+*Released on 2022-01-21, vote average 10*
+
+A young Viking prince embarks on a quest to avenge his father’s murder.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/oMSdFM12hOw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Royal Treatment
+*Released on 2022-01-20, vote average 6.3*
+
+Isabella runs her own salon and isn’t afraid to speak her mind, while Prince Thomas runs his own country and is about to marry for duty rather than love. When Izzy and her fellow stylists get the opportunity of a lifetime to do the hair for the royal wedding, she and Prince Thomas learn that taking control of their own destiny requires following their hearts.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KWxJXZ3S3-g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -188,18 +227,23 @@ Avery, a teenager with a tendency towards perfectionism, enlists her friend Lars
 
 
 	
+
+  
+
+
+	
 	
 
-### The Runner
-*Released on 2022-01-21, vote average 2*
+### Warhunt
+*Released on 2022-01-21, vote average 6.2*
 
-A woman escapes from a massacre in a motel bedroom.
+1945. A U.S. military cargo plane loses control and violently crashes behind enemy lines in the middle of the German black forest. Major Johnson sends a squad of his bravest soldiers on a rescue mission to retrieve the top-secret material the plane was carrying, led by Sergeants Brewer and Walsh. They soon discover hanged Nazi soldiers and other dead bodies bearing ancient, magical symbols. Suddenly their compasses fail, their perceptions twist and straying from the group leads to profound horrors as they are attacked by a powerful, supernatural force.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ze-avj_hPjE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/c-N_6zCwJOU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -211,17 +255,24 @@ A woman escapes from a massacre in a motel bedroom.
 
 	
 	
+	
 
-### The Royal Treatment
-*Released on 2022-01-20, vote average 5.9*
+  
 
-Isabella runs her own salon and isn’t afraid to speak her mind, while Prince Thomas runs his own country and is about to marry for duty rather than love. When Izzy and her fellow stylists get the opportunity of a lifetime to do the hair for the royal wedding, she and Prince Thomas learn that taking control of their own destiny requires following their hearts.
+
+	
+	
+
+### The Tiger Rising
+*Released on 2022-01-21, vote average 2*
+
+When 12-year-old Rob Horton discovers a caged tiger in the woods near his home, his imagination runs wild and life begins to change in the most unexpected ways. With the help of a wise and mysterious maid, Willie May  and the stubborn new girl in school, he must navigate through childhood memories, heartache, and wondrous adventures.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/KWxJXZ3S3-g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/AHxMGndzvEI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -256,16 +307,16 @@ A young botanist relocates to a small desert town to study an invasive plant spe
 	
 	
 
-### The Tiger Rising
-*Released on 2022-01-21, vote average 2*
+### A Shot Through the Wall
+*Released on 2022-01-21, vote average 7*
 
-When 12-year-old Rob Horton discovers a caged tiger in the woods near his home, his imagination runs wild and life begins to change in the most unexpected ways. With the help of a wise and mysterious maid, Willie May  and the stubborn new girl in school, he must navigate through childhood memories, heartache, and wondrous adventures.
+A young Chinese-American cop unravels after accidentally shooting an innocent African-American man through a wall.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/AHxMGndzvEI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/y0mNBuTeSzw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -276,6 +327,23 @@ When 12-year-old Rob Horton discovers a caged tiger in the woods near his home, 
 
 
 	
+	
+
+### The Runner
+*Released on 2022-01-21, vote average 2*
+
+A woman escapes from a massacre in a motel bedroom.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ze-avj_hPjE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -284,7 +352,7 @@ When 12-year-old Rob Horton discovers a caged tiger in the woods near his home, 
 	
 
 ### Shattered
-*Released on 2022-01-14, vote average 6.9*
+*Released on 2022-01-14, vote average 6.6*
 
 Chris, a wealthy divorcee, lives in a high-tech house of his own design in Montana. His life changes when he meets Sky, a mysterious young woman who draws him out of his shell and moves in after Chris is injured.
 
@@ -296,40 +364,6 @@ Chris, a wealthy divorcee, lives in a high-tech house of his own design in Monta
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Warhunt
-*Released on 2022-01-21, vote average 5.3*
-
-1945. A U.S. military cargo plane loses control and violently crashes behind enemy lines in the middle of the German black forest. Major Johnson sends a squad of his bravest soldiers on a rescue mission to retrieve the top-secret material the plane was carrying, led by Sergeants Brewer and Walsh. They soon discover hanged Nazi soldiers and other dead bodies bearing ancient, magical symbols. Suddenly their compasses fail, their perceptions twist and straying from the group leads to profound horrors as they are attacked by a powerful, supernatural force.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/c-N_6zCwJOU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -361,11 +395,26 @@ Chris, a wealthy divorcee, lives in a high-tech house of his own design in Monta
 	
 
 	
+	
+
+### The Fallout
+*Released on 2022-01-28, vote average 10*
+
+In the wake of a school tragedy, Vada, Mia and Quinton form a unique and dynamic bond as they navigate the never linear, often confusing journey to heal in a world that feels forever changed.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Gtl-6RCOl84?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
-	
-	
 	
 
 	
