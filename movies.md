@@ -46,6 +46,28 @@ When Van Helsing&#39;s mysterious invention, the &#34;Monsterfication Ray,&#34; 
 	
 	
 
+### Brazen
+*Released on 2022-01-13, vote average 4.7*
+
+Mystery writer Grace Miller has killer instincts when it comes to motive - and she&#39;ll need every bit of expertise to help solve her sister&#39;s murder.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/WJPSSL2lSjU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Scream
 *Released on 2022-01-12, vote average 7.3*
 
@@ -68,16 +90,16 @@ Twenty-five years after a streak of brutal murders shocked the quiet town of Woo
 	
 	
 
-### Brazen
-*Released on 2022-01-13, vote average 4.7*
+### The King&#39;s Daughter
+*Released on 2022-01-21, vote average 7.7*
 
-Mystery writer Grace Miller has killer instincts when it comes to motive - and she&#39;ll need every bit of expertise to help solve her sister&#39;s murder.
+King Louis XIV&#39;s quest for immortality leads him to capture and steal a mermaid&#39;s life force, a move that is further complicated by his illegitimate daughter&#39;s discovery of the creature.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/WJPSSL2lSjU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/NjGSWdmVVHM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -111,50 +133,6 @@ A showdown decades in the making brings the Donovan family legacy full circle. A
 
 	
 	
-
-### The King&#39;s Daughter
-*Released on 2022-01-21, vote average 7.6*
-
-King Louis XIV&#39;s quest for immortality leads him to capture and steal a mermaid&#39;s life force, a move that is further complicated by his illegitimate daughter&#39;s discovery of the creature.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/NjGSWdmVVHM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### The Northman
-*Released on 2022-01-21, vote average 10*
-
-A young Viking prince embarks on a quest to avenge his father’s murder.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/oMSdFM12hOw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -164,7 +142,7 @@ A young Viking prince embarks on a quest to avenge his father’s murder.
 	
 
 ### The Royal Treatment
-*Released on 2022-01-20, vote average 6.3*
+*Released on 2022-01-20, vote average 6.6*
 
 Isabella runs her own salon and isn’t afraid to speak her mind, while Prince Thomas runs his own country and is about to marry for duty rather than love. When Izzy and her fellow stylists get the opportunity of a lifetime to do the hair for the royal wedding, she and Prince Thomas learn that taking control of their own destiny requires following their hearts.
 
@@ -185,57 +163,8 @@ Isabella runs her own salon and isn’t afraid to speak her mind, while Prince T
 	
 	
 
-### Redeeming Love
-*Released on 2022-01-21, vote average 9*
-
-A retelling of the biblical book of Hosea set against the backdrop of the California Gold Rush of 1850.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/NJSjS36Pgx8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Sex Appeal
-*Released on 2022-01-14, vote average 5.9*
-
-Avery, a teenager with a tendency towards perfectionism, enlists her friend Larson to help her prepare for her first time with her long-distance boyfriend.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/A207HN4bRJM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### Warhunt
-*Released on 2022-01-21, vote average 6.2*
+*Released on 2022-01-21, vote average 6.8*
 
 1945. A U.S. military cargo plane loses control and violently crashes behind enemy lines in the middle of the German black forest. Major Johnson sends a squad of his bravest soldiers on a rescue mission to retrieve the top-secret material the plane was carrying, led by Sergeants Brewer and Walsh. They soon discover hanged Nazi soldiers and other dead bodies bearing ancient, magical symbols. Suddenly their compasses fail, their perceptions twist and straying from the group leads to profound horrors as they are attacked by a powerful, supernatural force.
 
@@ -244,57 +173,6 @@ Avery, a teenager with a tendency towards perfectionism, enlists her friend Lars
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/c-N_6zCwJOU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### The Tiger Rising
-*Released on 2022-01-21, vote average 2*
-
-When 12-year-old Rob Horton discovers a caged tiger in the woods near his home, his imagination runs wild and life begins to change in the most unexpected ways. With the help of a wise and mysterious maid, Willie May  and the stubborn new girl in school, he must navigate through childhood memories, heartache, and wondrous adventures.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/AHxMGndzvEI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Borrego
-*Released on 2022-01-14, vote average 5.8*
-
-A young botanist relocates to a small desert town to study an invasive plant species. While out on research, she comes to the aid of a downed plane only to find herself taken captive by an inexperienced drug mule who forces her to lead a trek across the sweltering desert to his drop. A local sheriff is drawn into the hunt as his rebellious daughter sets out to find the missing botanist, all the while being pursued by a local drug receiver.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/LfDUXeQKJ0Y?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -329,16 +207,16 @@ A young Chinese-American cop unravels after accidentally shooting an innocent Af
 	
 	
 
-### The Runner
-*Released on 2022-01-21, vote average 2*
+### Shattered
+*Released on 2022-01-14, vote average 6.6*
 
-A woman escapes from a massacre in a motel bedroom.
+Chris, a wealthy divorcee, lives in a high-tech house of his own design in Montana. His life changes when he meets Sky, a mysterious young woman who draws him out of his shell and moves in after Chris is injured.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ze-avj_hPjE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/DNGdiJihwbM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -351,16 +229,106 @@ A woman escapes from a massacre in a motel bedroom.
 	
 	
 
-### Shattered
-*Released on 2022-01-14, vote average 6.6*
+### Redeeming Love
+*Released on 2022-01-21, vote average 9*
 
-Chris, a wealthy divorcee, lives in a high-tech house of his own design in Montana. His life changes when he meets Sky, a mysterious young woman who draws him out of his shell and moves in after Chris is injured.
+A retelling of the biblical book of Hosea set against the backdrop of the California Gold Rush of 1850.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/DNGdiJihwbM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/NJSjS36Pgx8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### My Father&#39;s Violin
+*Released on 2022-01-21, vote average 6.8*
+
+Through their shared grief and connection to music, an orphaned girl bonds with her emotionally aloof, successful violinist uncle.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZyhWDaS8YYE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Sex Appeal
+*Released on 2022-01-14, vote average 6*
+
+Avery, a teenager with a tendency towards perfectionism, enlists her friend Larson to help her prepare for her first time with her long-distance boyfriend.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/A207HN4bRJM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Borrego
+*Released on 2022-01-14, vote average 5.8*
+
+A young botanist relocates to a small desert town to study an invasive plant species. While out on research, she comes to the aid of a downed plane only to find herself taken captive by an inexperienced drug mule who forces her to lead a trek across the sweltering desert to his drop. A local sheriff is drawn into the hunt as his rebellious daughter sets out to find the missing botanist, all the while being pursued by a local drug receiver.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LfDUXeQKJ0Y?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -391,14 +359,10 @@ Chris, a wealthy divorcee, lives in a high-tech house of his own design in Monta
 	
 
 	
-
-	
-
-	
 	
 
 ### The Fallout
-*Released on 2022-01-28, vote average 10*
+*Released on 2022-01-28, vote average 8*
 
 In the wake of a school tragedy, Vada, Mia and Quinton form a unique and dynamic bond as they navigate the never linear, often confusing journey to heal in a world that feels forever changed.
 
@@ -411,6 +375,10 @@ In the wake of a school tragedy, Vada, Mia and Quinton form a unique and dynamic
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
 	
 
 	
