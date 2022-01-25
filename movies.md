@@ -47,7 +47,7 @@ When Van Helsing&#39;s mysterious invention, the &#34;Monsterfication Ray,&#34; 
 	
 
 ### Brazen
-*Released on 2022-01-13, vote average 4.7*
+*Released on 2022-01-13, vote average 4.8*
 
 Mystery writer Grace Miller has killer instincts when it comes to motive - and she&#39;ll need every bit of expertise to help solve her sister&#39;s murder.
 
@@ -111,9 +111,16 @@ King Louis XIV&#39;s quest for immortality leads him to capture and steal a merm
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Ray Donovan: The Movie
-*Released on 2022-01-14, vote average 7*
+*Released on 2022-01-14, vote average 6.9*
 
 A showdown decades in the making brings the Donovan family legacy full circle. As the events that made Ray who he is today finally come to light, the Donovans find themselves drawn back to Boston to face the past. Each of them struggles to overcome their violent upbringing, but destiny dies hard, and only their fierce love for each other keeps them in the fight.
 
@@ -133,16 +140,9 @@ A showdown decades in the making brings the Donovan family legacy full circle. A
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### The Royal Treatment
-*Released on 2022-01-20, vote average 6.6*
+*Released on 2022-01-20, vote average 6.8*
 
 Isabella runs her own salon and isn’t afraid to speak her mind, while Prince Thomas runs his own country and is about to marry for duty rather than love. When Izzy and her fellow stylists get the opportunity of a lifetime to do the hair for the royal wedding, she and Prince Thomas learn that taking control of their own destiny requires following their hearts.
 
@@ -185,38 +185,16 @@ Isabella runs her own salon and isn’t afraid to speak her mind, while Prince T
 	
 	
 
-### A Shot Through the Wall
-*Released on 2022-01-21, vote average 7*
+### My Father&#39;s Violin
+*Released on 2022-01-21, vote average 9.1*
 
-A young Chinese-American cop unravels after accidentally shooting an innocent African-American man through a wall.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/y0mNBuTeSzw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Shattered
-*Released on 2022-01-14, vote average 6.6*
-
-Chris, a wealthy divorcee, lives in a high-tech house of his own design in Montana. His life changes when he meets Sky, a mysterious young woman who draws him out of his shell and moves in after Chris is injured.
+Through their shared grief and connection to music, an orphaned girl bonds with her emotionally aloof, successful violinist uncle.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/DNGdiJihwbM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ZyhWDaS8YYE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -249,18 +227,45 @@ A retelling of the biblical book of Hosea set against the backdrop of the Califo
 
 
 	
+
+  
+
+
+	
 	
 
-### My Father&#39;s Violin
-*Released on 2022-01-21, vote average 6.8*
+### Shattered
+*Released on 2022-01-14, vote average 6.6*
 
-Through their shared grief and connection to music, an orphaned girl bonds with her emotionally aloof, successful violinist uncle.
+Chris, a wealthy divorcee, lives in a high-tech house of his own design in Montana. His life changes when he meets Sky, a mysterious young woman who draws him out of his shell and moves in after Chris is injured.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ZyhWDaS8YYE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/DNGdiJihwbM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### UFC 270: Ngannou vs. Gane
+*Released on 2022-01-22, vote average 6*
+
+Francis Ngannou vs. Cyril Gane (Heavyweight)  Brandon Moreno vs. Deiveson Figueiredo (Flyweight)  Michel Pereira vs. Andre Fialho (Welterweight)  Cody Stamann vs. Said Nurmagomedov (Bantamweight)  Rodolfo Vieira vs. Wellington Turman (Middleweight)
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/JZOI0bhnops?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -293,42 +298,62 @@ Avery, a teenager with a tendency towards perfectionism, enlists her friend Lars
 
 
 	
-
-  
-
-
 	
 
-  
+### Don&#39;t Forget I Love You
+*Released on 2022-01-22, vote average 6*
 
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Borrego
-*Released on 2022-01-14, vote average 5.8*
-
-A young botanist relocates to a small desert town to study an invasive plant species. While out on research, she comes to the aid of a downed plane only to find herself taken captive by an inexperienced drug mule who forces her to lead a trek across the sweltering desert to his drop. A local sheriff is drawn into the hunt as his rebellious daughter sets out to find the missing botanist, all the while being pursued by a local drug receiver.
+Taylor is a successful woman whose job is her life. Her thirtieth birthday arrives, where it turns out that her previously deceased mother has placed various tasks for her in a time capsule. They are the basis for stepping out of your comfort zone and gaining new experiences.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/LfDUXeQKJ0Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/HG-yK2zo858?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Hugas
+*Released on 2022-01-14, vote average 8*
+
+Ex-gang members and newlyweds Al and Liezl run away with a big bag of cash, but their ex-boss will go to the ends of the earth to find them.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/GFpCna8wjdc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### A Shot Through the Wall
+*Released on 2022-01-21, vote average 7*
+
+A young Chinese-American cop unravels after accidentally shooting an innocent African-American man through a wall.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kMHM5IQ4o2A?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -348,9 +373,18 @@ A young botanist relocates to a small desert town to study an invasive plant spe
   
 
 
+	
+	
+	
+
+  
+
+
 
 ## Opening soon
 
+
+	
 
 	
 
@@ -402,7 +436,7 @@ In the wake of a school tragedy, Vada, Mia and Quinton form a unique and dynamic
 	
 
 	
-
+	
 	
 
 	
