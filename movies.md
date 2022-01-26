@@ -67,9 +67,16 @@ Mystery writer Grace Miller has killer instincts when it comes to motive - and s
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Scream
-*Released on 2022-01-12, vote average 7.3*
+*Released on 2022-01-12, vote average 7.2*
 
 Twenty-five years after a streak of brutal murders shocked the quiet town of Woodsboro, a new killer has donned the Ghostface mask and begins targeting a group of teenagers to resurrect secrets from the town’s deadly past.
 
@@ -103,13 +110,6 @@ King Louis XIV&#39;s quest for immortality leads him to capture and steal a merm
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -161,18 +161,23 @@ Isabella runs her own salon and isn’t afraid to speak her mind, while Prince T
 
 
 	
+
+  
+
+
+	
 	
 
-### Warhunt
-*Released on 2022-01-21, vote average 6.8*
+### My Father&#39;s Violin
+*Released on 2022-01-21, vote average 9*
 
-1945. A U.S. military cargo plane loses control and violently crashes behind enemy lines in the middle of the German black forest. Major Johnson sends a squad of his bravest soldiers on a rescue mission to retrieve the top-secret material the plane was carrying, led by Sergeants Brewer and Walsh. They soon discover hanged Nazi soldiers and other dead bodies bearing ancient, magical symbols. Suddenly their compasses fail, their perceptions twist and straying from the group leads to profound horrors as they are attacked by a powerful, supernatural force.
+Through their shared grief and connection to music, an orphaned girl bonds with her emotionally aloof, successful violinist uncle.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/c-N_6zCwJOU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ZyhWDaS8YYE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -185,16 +190,16 @@ Isabella runs her own salon and isn’t afraid to speak her mind, while Prince T
 	
 	
 
-### My Father&#39;s Violin
-*Released on 2022-01-21, vote average 9.1*
+### Warhunt
+*Released on 2022-01-21, vote average 6.4*
 
-Through their shared grief and connection to music, an orphaned girl bonds with her emotionally aloof, successful violinist uncle.
+1945. A U.S. military cargo plane loses control and violently crashes behind enemy lines in the middle of the German black forest. Major Johnson sends a squad of his bravest soldiers on a rescue mission to retrieve the top-secret material the plane was carrying, led by Sergeants Brewer and Walsh. They soon discover hanged Nazi soldiers and other dead bodies bearing ancient, magical symbols. Suddenly their compasses fail, their perceptions twist and straying from the group leads to profound horrors as they are attacked by a powerful, supernatural force.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ZyhWDaS8YYE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/c-N_6zCwJOU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -217,99 +222,6 @@ A retelling of the biblical book of Hosea set against the backdrop of the Califo
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/NJSjS36Pgx8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Shattered
-*Released on 2022-01-14, vote average 6.6*
-
-Chris, a wealthy divorcee, lives in a high-tech house of his own design in Montana. His life changes when he meets Sky, a mysterious young woman who draws him out of his shell and moves in after Chris is injured.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/DNGdiJihwbM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### UFC 270: Ngannou vs. Gane
-*Released on 2022-01-22, vote average 6*
-
-Francis Ngannou vs. Cyril Gane (Heavyweight)  Brandon Moreno vs. Deiveson Figueiredo (Flyweight)  Michel Pereira vs. Andre Fialho (Welterweight)  Cody Stamann vs. Said Nurmagomedov (Bantamweight)  Rodolfo Vieira vs. Wellington Turman (Middleweight)
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/JZOI0bhnops?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Sex Appeal
-*Released on 2022-01-14, vote average 6*
-
-Avery, a teenager with a tendency towards perfectionism, enlists her friend Larson to help her prepare for her first time with her long-distance boyfriend.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/A207HN4bRJM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Don&#39;t Forget I Love You
-*Released on 2022-01-22, vote average 6*
-
-Taylor is a successful woman whose job is her life. Her thirtieth birthday arrives, where it turns out that her previously deceased mother has placed various tasks for her in a time capsule. They are the basis for stepping out of your comfort zone and gaining new experiences.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/HG-yK2zo858?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -344,16 +256,111 @@ Ex-gang members and newlyweds Al and Liezl run away with a big bag of cash, but 
 	
 	
 
-### A Shot Through the Wall
-*Released on 2022-01-21, vote average 7*
+### Shattered
+*Released on 2022-01-14, vote average 6.6*
 
-A young Chinese-American cop unravels after accidentally shooting an innocent African-American man through a wall.
+Chris, a wealthy divorcee, lives in a high-tech house of his own design in Montana. His life changes when he meets Sky, a mysterious young woman who draws him out of his shell and moves in after Chris is injured.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/kMHM5IQ4o2A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/DNGdiJihwbM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Sex Appeal
+*Released on 2022-01-14, vote average 6*
+
+Avery, a teenager with a tendency towards perfectionism, enlists her friend Larson to help her prepare for her first time with her long-distance boyfriend.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/A207HN4bRJM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The House
+*Released on 2022-01-14, vote average 7.1*
+
+Across different eras, a poor family, an anxious developer and a fed-up landlady become tied to the same mysterious house in this animated dark comedy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wqbZlAEUb5w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Don&#39;t Forget I Love You
+*Released on 2022-01-22, vote average 6*
+
+Taylor is a successful woman whose job is her life. Her thirtieth birthday arrives, where it turns out that her previously deceased mother has placed various tasks for her in a time capsule. They are the basis for stepping out of your comfort zone and gaining new experiences.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/HG-yK2zo858?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Tom and Jerry Cowboy Up!
+*Released on 2022-01-24, vote average 7*
+
+This time, the rivals team up to help a cowgirl and her brother save their homestead from a greedy land-grabber, and they’re going to need some help! Jerry’s three precocious nephews are all ready for action, and Tom is rounding up a posse of prairie dogs. But can a ragtag band of varmints defeat a deceitful desperado determined to deceive a damsel in distress? No matter what happens with Tom and Jerry in the saddle, it’ll be a rootin’ tootin’ good time!
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/s5iqJVzhb3Q?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -368,13 +375,6 @@ A young Chinese-American cop unravels after accidentally shooting an innocent Af
   
 
 
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -418,7 +418,28 @@ In the wake of a school tragedy, Vada, Mia and Quinton form a unique and dynamic
 	
 
 	
+	
+	
 
+	
+
+	
+	
+
+### Ben &amp; Jody
+*Released on 2022-01-27, vote average 10*
+
+Since deciding to leave Filosofi Kopi, Ben has lived in his hometown and has been actively defending farmer groups whose lands have been taken over by the Company. At the same time, Jody is preparing a new concept for Filosofi Kopi which will be launched soon. Ahead of the launch event, Ben who was scheduled to attend suddenly disappears. Jody sets out to find Ben. In order to save Ben, they face life and death adventures against gangs of illegal loggers led by Tubir, until their encounter with a traditional village group that changes the map of their resistance.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mB2H_M9a_4g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -434,8 +455,21 @@ In the wake of a school tragedy, Vada, Mia and Quinton form a unique and dynamic
 	
 
 	
-
 	
+
+### Promises
+*Released on 2022-01-26, vote average 5*
+
+Clémence, the fearless mayor of a town near Paris, is completing the final term of her political career. With her faithful right-hand man Yazid, she has long fought for this town plagued by inequality, unemployment and slumlords. However, when Clémence is approached to become Minister, her ambition arises, questioning her devotion and commitment to her citizens. Will her political integrity and election promises survive her newly found ambition?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IiM9fkLUUNM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
