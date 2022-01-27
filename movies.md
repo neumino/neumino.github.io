@@ -75,30 +75,8 @@ Mystery writer Grace Miller has killer instincts when it comes to motive - and s
 	
 	
 
-### Scream
-*Released on 2022-01-12, vote average 7.2*
-
-Twenty-five years after a streak of brutal murders shocked the quiet town of Woodsboro, a new killer has donned the Ghostface mask and begins targeting a group of teenagers to resurrect secrets from the town’s deadly past.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nRwLyKIBNU8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The King&#39;s Daughter
-*Released on 2022-01-21, vote average 7.7*
+*Released on 2022-01-21, vote average 7.8*
 
 King Louis XIV&#39;s quest for immortality leads him to capture and steal a mermaid&#39;s life force, a move that is further complicated by his illegitimate daughter&#39;s discovery of the creature.
 
@@ -119,8 +97,30 @@ King Louis XIV&#39;s quest for immortality leads him to capture and steal a merm
 	
 	
 
+### The Royal Treatment
+*Released on 2022-01-20, vote average 6.7*
+
+Isabella runs her own salon and isn’t afraid to speak her mind, while Prince Thomas runs his own country and is about to marry for duty rather than love. When Izzy and her fellow stylists get the opportunity of a lifetime to do the hair for the royal wedding, she and Prince Thomas learn that taking control of their own destiny requires following their hearts.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KWxJXZ3S3-g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Ray Donovan: The Movie
-*Released on 2022-01-14, vote average 6.9*
+*Released on 2022-01-14, vote average 6.8*
 
 A showdown decades in the making brings the Donovan family legacy full circle. As the events that made Ray who he is today finally come to light, the Donovans find themselves drawn back to Boston to face the past. Each of them struggles to overcome their violent upbringing, but destiny dies hard, and only their fierce love for each other keeps them in the fight.
 
@@ -141,35 +141,8 @@ A showdown decades in the making brings the Donovan family legacy full circle. A
 	
 	
 
-### The Royal Treatment
-*Released on 2022-01-20, vote average 6.8*
-
-Isabella runs her own salon and isn’t afraid to speak her mind, while Prince Thomas runs his own country and is about to marry for duty rather than love. When Izzy and her fellow stylists get the opportunity of a lifetime to do the hair for the royal wedding, she and Prince Thomas learn that taking control of their own destiny requires following their hearts.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/KWxJXZ3S3-g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### My Father&#39;s Violin
-*Released on 2022-01-21, vote average 9*
+*Released on 2022-01-21, vote average 8.8*
 
 Through their shared grief and connection to music, an orphaned girl bonds with her emotionally aloof, successful violinist uncle.
 
@@ -178,50 +151,6 @@ Through their shared grief and connection to music, an orphaned girl bonds with 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/ZyhWDaS8YYE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Warhunt
-*Released on 2022-01-21, vote average 6.4*
-
-1945. A U.S. military cargo plane loses control and violently crashes behind enemy lines in the middle of the German black forest. Major Johnson sends a squad of his bravest soldiers on a rescue mission to retrieve the top-secret material the plane was carrying, led by Sergeants Brewer and Walsh. They soon discover hanged Nazi soldiers and other dead bodies bearing ancient, magical symbols. Suddenly their compasses fail, their perceptions twist and straying from the group leads to profound horrors as they are attacked by a powerful, supernatural force.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/c-N_6zCwJOU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Redeeming Love
-*Released on 2022-01-21, vote average 9*
-
-A retelling of the biblical book of Hosea set against the backdrop of the California Gold Rush of 1850.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/NJSjS36Pgx8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -256,38 +185,16 @@ Ex-gang members and newlyweds Al and Liezl run away with a big bag of cash, but 
 	
 	
 
-### Shattered
-*Released on 2022-01-14, vote average 6.6*
+### Redeeming Love
+*Released on 2022-01-21, vote average 9.5*
 
-Chris, a wealthy divorcee, lives in a high-tech house of his own design in Montana. His life changes when he meets Sky, a mysterious young woman who draws him out of his shell and moves in after Chris is injured.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/DNGdiJihwbM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Sex Appeal
-*Released on 2022-01-14, vote average 6*
-
-Avery, a teenager with a tendency towards perfectionism, enlists her friend Larson to help her prepare for her first time with her long-distance boyfriend.
+A retelling of the biblical book of Hosea set against the backdrop of the California Gold Rush of 1850.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/A207HN4bRJM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/NJSjS36Pgx8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -322,35 +229,6 @@ Across different eras, a poor family, an anxious developer and a fed-up landlady
 	
 	
 
-### Don&#39;t Forget I Love You
-*Released on 2022-01-22, vote average 6*
-
-Taylor is a successful woman whose job is her life. Her thirtieth birthday arrives, where it turns out that her previously deceased mother has placed various tasks for her in a time capsule. They are the basis for stepping out of your comfort zone and gaining new experiences.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/HG-yK2zo858?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
 ### Tom and Jerry Cowboy Up!
 *Released on 2022-01-24, vote average 7*
 
@@ -375,6 +253,96 @@ This time, the rivals team up to help a cowgirl and her brother save their homes
   
 
 
+	
+	
+
+### Sex Appeal
+*Released on 2022-01-14, vote average 6.4*
+
+Avery, a teenager with a tendency towards perfectionism, enlists her friend Larson to help her prepare for her first time with her long-distance boyfriend.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/A207HN4bRJM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Warhunt
+*Released on 2022-01-21, vote average 6.4*
+
+1945. A U.S. military cargo plane loses control and violently crashes behind enemy lines in the middle of the German black forest. Major Johnson sends a squad of his bravest soldiers on a rescue mission to retrieve the top-secret material the plane was carrying, led by Sergeants Brewer and Walsh. They soon discover hanged Nazi soldiers and other dead bodies bearing ancient, magical symbols. Suddenly their compasses fail, their perceptions twist and straying from the group leads to profound horrors as they are attacked by a powerful, supernatural force.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/c-N_6zCwJOU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Shattered
+*Released on 2022-01-14, vote average 6.6*
+
+Chris, a wealthy divorcee, lives in a high-tech house of his own design in Montana. His life changes when he meets Sky, a mysterious young woman who draws him out of his shell and moves in after Chris is injured.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/DNGdiJihwbM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -416,14 +384,6 @@ In the wake of a school tragedy, Vada, Mia and Quinton form a unique and dynamic
 	
 
 	
-
-	
-	
-	
-
-	
-
-	
 	
 
 ### Ben &amp; Jody
@@ -455,22 +415,11 @@ Since deciding to leave Filosofi Kopi, Ben has lived in his hometown and has bee
 	
 
 	
-	
-
-### Promises
-*Released on 2022-01-26, vote average 5*
-
-Clémence, the fearless mayor of a town near Paris, is completing the final term of her political career. With her faithful right-hand man Yazid, she has long fought for this town plagued by inequality, unemployment and slumlords. However, when Clémence is approached to become Minister, her ambition arises, questioning her devotion and commitment to her citizens. Will her political integrity and election promises survive her newly found ambition?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IiM9fkLUUNM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+	
+
 	
 
 	
