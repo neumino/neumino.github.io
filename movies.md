@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Hotel Transylvania: Transformania
-*Released on 2022-01-13, vote average 7.7*
+### The King&#39;s Daughter
+*Released on 2022-01-21, vote average 7.7*
 
-When Van Helsing&#39;s mysterious invention, the &#34;Monsterfication Ray,&#34; goes haywire, Drac and his monster pals are all transformed into humans, and Johnny becomes a monster. In their new mismatched bodies, Drac and Johnny must team up and race across the globe to find a cure before it&#39;s too late, and before they drive each other crazy.
+King Louis XIV&#39;s quest for immortality leads him to capture and steal a mermaid&#39;s life force, a move that is further complicated by his illegitimate daughter&#39;s discovery of the creature.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/KKL6aGwybHg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/NjGSWdmVVHM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,59 +46,8 @@ When Van Helsing&#39;s mysterious invention, the &#34;Monsterfication Ray,&#34; 
 	
 	
 
-### Brazen
-*Released on 2022-01-13, vote average 4.8*
-
-Mystery writer Grace Miller has killer instincts when it comes to motive - and she&#39;ll need every bit of expertise to help solve her sister&#39;s murder.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/WJPSSL2lSjU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### The King&#39;s Daughter
-*Released on 2022-01-21, vote average 7.8*
-
-King Louis XIV&#39;s quest for immortality leads him to capture and steal a mermaid&#39;s life force, a move that is further complicated by his illegitimate daughter&#39;s discovery of the creature.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/NjGSWdmVVHM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Royal Treatment
-*Released on 2022-01-20, vote average 6.7*
+*Released on 2022-01-20, vote average 6.8*
 
 Isabella runs her own salon and isn’t afraid to speak her mind, while Prince Thomas runs his own country and is about to marry for duty rather than love. When Izzy and her fellow stylists get the opportunity of a lifetime to do the hair for the royal wedding, she and Prince Thomas learn that taking control of their own destiny requires following their hearts.
 
@@ -133,6 +82,11 @@ A showdown decades in the making brings the Donovan family legacy full circle. A
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -185,16 +139,16 @@ Ex-gang members and newlyweds Al and Liezl run away with a big bag of cash, but 
 	
 	
 
-### Redeeming Love
-*Released on 2022-01-21, vote average 9.5*
+### The Fallout
+*Released on 2022-01-28, vote average 8*
 
-A retelling of the biblical book of Hosea set against the backdrop of the California Gold Rush of 1850.
+In the wake of a school tragedy, Vada, Mia and Quinton form a unique and dynamic bond as they navigate the never linear, often confusing journey to heal in a world that feels forever changed.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/NJSjS36Pgx8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Gtl-6RCOl84?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -254,6 +208,60 @@ This time, the rivals team up to help a cowgirl and her brother save their homes
 
 
 	
+
+  
+
+
+	
+	
+
+### Redeeming Love
+*Released on 2022-01-21, vote average 9.5*
+
+A retelling of the biblical book of Hosea set against the backdrop of the California Gold Rush of 1850.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/NJSjS36Pgx8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Requin
+*Released on 2022-01-28, vote average 5*
+
+A couple on a romantic getaway find themselves stranded at sea when a tropical storm sweeps away their villa. In order to survive, they are forced to fight the elements, while sharks circle below.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kWXK5fibfko?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 
 ### Sex Appeal
@@ -266,6 +274,62 @@ Avery, a teenager with a tendency towards perfectionism, enlists her friend Lars
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/A207HN4bRJM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Ben &amp; Jody
+*Released on 2022-01-27, vote average 10*
+
+Since deciding to leave Filosofi Kopi, Ben has lived in his hometown and has been actively defending farmer groups whose lands have been taken over by the Company. At the same time, Jody is preparing a new concept for Filosofi Kopi which will be launched soon. Ahead of the launch event, Ben who was scheduled to attend suddenly disappears. Jody sets out to find Ben. In order to save Ben, they face life and death adventures against gangs of illegal loggers led by Tubir, until their encounter with a traditional village group that changes the map of their resistance.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mB2H_M9a_4g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Aziz Ansari: Nightclub Comedian
+*Released on 2022-01-25, vote average 6.5*
+
+After another year of lockdowns, Aziz takes the stage to skewer pandemic life, quarantines, vaccine cards, celebrity side-gigs, smartphones and more.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/iOZCBvKpAq8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -297,62 +361,9 @@ Avery, a teenager with a tendency towards perfectionism, enlists her friend Lars
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Shattered
-*Released on 2022-01-14, vote average 6.6*
-
-Chris, a wealthy divorcee, lives in a high-tech house of his own design in Montana. His life changes when he meets Sky, a mysterious young woman who draws him out of his shell and moves in after Chris is injured.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/DNGdiJihwbM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 
 ## Opening soon
 
-
-	
 
 	
 
@@ -384,18 +395,20 @@ In the wake of a school tragedy, Vada, Mia and Quinton form a unique and dynamic
 	
 
 	
+
+	
 	
 
-### Ben &amp; Jody
-*Released on 2022-01-27, vote average 10*
+### The Requin
+*Released on 2022-01-28, vote average 5*
 
-Since deciding to leave Filosofi Kopi, Ben has lived in his hometown and has been actively defending farmer groups whose lands have been taken over by the Company. At the same time, Jody is preparing a new concept for Filosofi Kopi which will be launched soon. Ahead of the launch event, Ben who was scheduled to attend suddenly disappears. Jody sets out to find Ben. In order to save Ben, they face life and death adventures against gangs of illegal loggers led by Tubir, until their encounter with a traditional village group that changes the map of their resistance.
+A couple on a romantic getaway find themselves stranded at sea when a tropical storm sweeps away their villa. In order to survive, they are forced to fight the elements, while sharks circle below.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/mB2H_M9a_4g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/kWXK5fibfko?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -421,9 +434,28 @@ Since deciding to leave Filosofi Kopi, Ben has lived in his hometown and has bee
 	
 
 	
+	
+	
 
 	
 
+	
+	
+
+### Taming the Garden
+*Released on 2022-01-28, vote average 7.2*
+
+A powerful man, who is also the former prime minister of Georgia, has developed an unusual hobby. He buys century-old trees, some as tall as 15-floor buildings, and has them excavated along the Georgian coastline to collect them for his private garden. In order to transplant trees of such dimensions, the landscape surrounding them is ripped apart and the people living around them are forced to adapt to the disruption. As the film follows this process, it portrays the needs and values of today’s Georgian society and reflects on the theme of forced migration, where &#34;uprooting&#34; is more than a metaphor.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QombIwKQf0M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 
