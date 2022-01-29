@@ -47,7 +47,7 @@ King Louis XIV&#39;s quest for immortality leads him to capture and steal a merm
 	
 
 ### The Royal Treatment
-*Released on 2022-01-20, vote average 6.8*
+*Released on 2022-01-20, vote average 6.7*
 
 Isabella runs her own salon and isn’t afraid to speak her mind, while Prince Thomas runs his own country and is about to marry for duty rather than love. When Izzy and her fellow stylists get the opportunity of a lifetime to do the hair for the royal wedding, she and Prince Thomas learn that taking control of their own destiny requires following their hearts.
 
@@ -56,28 +56,6 @@ Isabella runs her own salon and isn’t afraid to speak her mind, while Prince T
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/KWxJXZ3S3-g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Ray Donovan: The Movie
-*Released on 2022-01-14, vote average 6.8*
-
-A showdown decades in the making brings the Donovan family legacy full circle. As the events that made Ray who he is today finally come to light, the Donovans find themselves drawn back to Boston to face the past. Each of them struggles to overcome their violent upbringing, but destiny dies hard, and only their fierce love for each other keeps them in the fight.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/PqW2Uj38vH4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -117,30 +95,8 @@ Through their shared grief and connection to music, an orphaned girl bonds with 
 	
 	
 
-### Hugas
-*Released on 2022-01-14, vote average 8*
-
-Ex-gang members and newlyweds Al and Liezl run away with a big bag of cash, but their ex-boss will go to the ends of the earth to find them.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/GFpCna8wjdc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Fallout
-*Released on 2022-01-28, vote average 8*
+*Released on 2022-01-28, vote average 8.3*
 
 In the wake of a school tragedy, Vada, Mia and Quinton form a unique and dynamic bond as they navigate the never linear, often confusing journey to heal in a world that feels forever changed.
 
@@ -161,30 +117,8 @@ In the wake of a school tragedy, Vada, Mia and Quinton form a unique and dynamic
 	
 	
 
-### The House
-*Released on 2022-01-14, vote average 7.1*
-
-Across different eras, a poor family, an anxious developer and a fed-up landlady become tied to the same mysterious house in this animated dark comedy.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wqbZlAEUb5w?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Tom and Jerry Cowboy Up!
-*Released on 2022-01-24, vote average 7*
+*Released on 2022-01-24, vote average 6.9*
 
 This time, the rivals team up to help a cowgirl and her brother save their homestead from a greedy land-grabber, and they’re going to need some help! Jerry’s three precocious nephews are all ready for action, and Tom is rounding up a posse of prairie dogs. But can a ragtag band of varmints defeat a deceitful desperado determined to deceive a damsel in distress? No matter what happens with Tom and Jerry in the saddle, it’ll be a rootin’ tootin’ good time!
 
@@ -216,7 +150,7 @@ This time, the rivals team up to help a cowgirl and her brother save their homes
 	
 
 ### Redeeming Love
-*Released on 2022-01-21, vote average 9.5*
+*Released on 2022-01-21, vote average 8*
 
 A retelling of the biblical book of Hosea set against the backdrop of the California Gold Rush of 1850.
 
@@ -229,11 +163,6 @@ A retelling of the biblical book of Hosea set against the backdrop of the Califo
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -262,22 +191,10 @@ A couple on a romantic getaway find themselves stranded at sea when a tropical s
 
 
 	
-	
 
-### Sex Appeal
-*Released on 2022-01-14, vote average 6.4*
+  
 
-Avery, a teenager with a tendency towards perfectionism, enlists her friend Larson to help her prepare for her first time with her long-distance boyfriend.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/A207HN4bRJM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -287,7 +204,7 @@ Avery, a teenager with a tendency towards perfectionism, enlists her friend Lars
 	
 
 ### Ben &amp; Jody
-*Released on 2022-01-27, vote average 10*
+*Released on 2022-01-27, vote average 8.8*
 
 Since deciding to leave Filosofi Kopi, Ben has lived in his hometown and has been actively defending farmer groups whose lands have been taken over by the Company. At the same time, Jody is preparing a new concept for Filosofi Kopi which will be launched soon. Ahead of the launch event, Ben who was scheduled to attend suddenly disappears. Jody sets out to find Ben. In order to save Ben, they face life and death adventures against gangs of illegal loggers led by Tubir, until their encounter with a traditional village group that changes the map of their resistance.
 
@@ -306,8 +223,6 @@ Since deciding to leave Filosofi Kopi, Ben has lived in his hometown and has bee
 
 
 	
-	
-	
 
   
 
@@ -317,23 +232,6 @@ Since deciding to leave Filosofi Kopi, Ben has lived in his hometown and has bee
   
 
 
-	
-	
-
-### Aziz Ansari: Nightclub Comedian
-*Released on 2022-01-25, vote average 6.5*
-
-After another year of lockdowns, Aziz takes the stage to skewer pandemic life, quarantines, vaccine cards, celebrity side-gigs, smartphones and more.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/iOZCBvKpAq8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -361,6 +259,38 @@ After another year of lockdowns, Aziz takes the stage to skewer pandemic life, q
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Love for Starters
+*Released on 2022-01-27, vote average 5*
+
+To save her father’s lake-front restaurant, a talented interior designer must partner with the celebrity chef her father hired without her knowledge to revamp the place before time runs out.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/P69qCb0bRT4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -372,23 +302,6 @@ After another year of lockdowns, Aziz takes the stage to skewer pandemic life, q
 	
 
 	
-	
-
-### The Fallout
-*Released on 2022-01-28, vote average 8*
-
-In the wake of a school tragedy, Vada, Mia and Quinton form a unique and dynamic bond as they navigate the never linear, often confusing journey to heal in a world that feels forever changed.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Gtl-6RCOl84?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
@@ -397,22 +310,7 @@ In the wake of a school tragedy, Vada, Mia and Quinton form a unique and dynamic
 	
 
 	
-	
 
-### The Requin
-*Released on 2022-01-28, vote average 5*
-
-A couple on a romantic getaway find themselves stranded at sea when a tropical storm sweeps away their villa. In order to survive, they are forced to fight the elements, while sharks circle below.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kWXK5fibfko?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
@@ -434,28 +332,7 @@ A couple on a romantic getaway find themselves stranded at sea when a tropical s
 	
 
 	
-	
-	
 
-	
-
-	
-	
-
-### Taming the Garden
-*Released on 2022-01-28, vote average 7.2*
-
-A powerful man, who is also the former prime minister of Georgia, has developed an unusual hobby. He buys century-old trees, some as tall as 15-floor buildings, and has them excavated along the Georgian coastline to collect them for his private garden. In order to transplant trees of such dimensions, the landscape surrounding them is ripped apart and the people living around them are forced to adapt to the disruption. As the film follows this process, it portrays the needs and values of today’s Georgian society and reflects on the theme of forced migration, where &#34;uprooting&#34; is more than a metaphor.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/QombIwKQf0M?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 
