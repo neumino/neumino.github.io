@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### The King&#39;s Daughter
-*Released on 2022-01-21, vote average 7.7*
+### The Royal Treatment
+*Released on 2022-01-20, vote average 6.7*
 
-King Louis XIV&#39;s quest for immortality leads him to capture and steal a mermaid&#39;s life force, a move that is further complicated by his illegitimate daughter&#39;s discovery of the creature.
+Isabella runs her own salon and isn’t afraid to speak her mind, while Prince Thomas runs his own country and is about to marry for duty rather than love. When Izzy and her fellow stylists get the opportunity of a lifetime to do the hair for the royal wedding, she and Prince Thomas learn that taking control of their own destiny requires following their hearts.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/NjGSWdmVVHM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/KWxJXZ3S3-g?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ King Louis XIV&#39;s quest for immortality leads him to capture and steal a merm
 	
 	
 
-### The Royal Treatment
-*Released on 2022-01-20, vote average 6.7*
+### The King&#39;s Daughter
+*Released on 2022-01-21, vote average 7.7*
 
-Isabella runs her own salon and isn’t afraid to speak her mind, while Prince Thomas runs his own country and is about to marry for duty rather than love. When Izzy and her fellow stylists get the opportunity of a lifetime to do the hair for the royal wedding, she and Prince Thomas learn that taking control of their own destiny requires following their hearts.
+King Louis XIV&#39;s quest for immortality leads him to capture and steal a mermaid&#39;s life force, a move that is further complicated by his illegitimate daughter&#39;s discovery of the creature.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/KWxJXZ3S3-g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/NjGSWdmVVHM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -66,6 +66,23 @@ Isabella runs her own salon and isn’t afraid to speak her mind, while Prince T
 
 
 	
+	
+
+### The Ice Age Adventures of Buck Wild
+*Released on 2022-01-28, vote average 6.3*
+
+The fearless one-eyed weasel Buck teams up with mischievous possum brothers Crash &amp; Eddie as they head off on a new adventure into Buck&#39;s home: The Dinosaur World.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0U0L4uT0btQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -74,7 +91,7 @@ Isabella runs her own salon and isn’t afraid to speak her mind, while Prince T
 	
 
 ### My Father&#39;s Violin
-*Released on 2022-01-21, vote average 8.8*
+*Released on 2022-01-21, vote average 8.7*
 
 Through their shared grief and connection to music, an orphaned girl bonds with her emotionally aloof, successful violinist uncle.
 
@@ -96,7 +113,7 @@ Through their shared grief and connection to music, an orphaned girl bonds with 
 	
 
 ### The Fallout
-*Released on 2022-01-28, vote average 8.3*
+*Released on 2022-01-28, vote average 8*
 
 In the wake of a school tragedy, Vada, Mia and Quinton form a unique and dynamic bond as they navigate the never linear, often confusing journey to heal in a world that feels forever changed.
 
@@ -118,7 +135,7 @@ In the wake of a school tragedy, Vada, Mia and Quinton form a unique and dynamic
 	
 
 ### Tom and Jerry Cowboy Up!
-*Released on 2022-01-24, vote average 6.9*
+*Released on 2022-01-24, vote average 7.8*
 
 This time, the rivals team up to help a cowgirl and her brother save their homestead from a greedy land-grabber, and they’re going to need some help! Jerry’s three precocious nephews are all ready for action, and Tom is rounding up a posse of prairie dogs. But can a ragtag band of varmints defeat a deceitful desperado determined to deceive a damsel in distress? No matter what happens with Tom and Jerry in the saddle, it’ll be a rootin’ tootin’ good time!
 
@@ -141,6 +158,67 @@ This time, the rivals team up to help a cowgirl and her brother save their homes
   
 
 
+	
+	
+
+### The Requin
+*Released on 2022-01-28, vote average 3.8*
+
+A couple on a romantic getaway find themselves stranded at sea when a tropical storm sweeps away their villa. In order to survive, they are forced to fight the elements, while sharks circle below.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kWXK5fibfko?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Black Phone
+*Released on 2022-01-28, vote average 1*
+
+Finney Shaw, a shy but clever 13-year-old boy, is abducted by a sadistic killer and trapped in a soundproof basement where screaming is of little use. When a disconnected phone on the wall begins to ring, Finney discovers that he can hear the voices of the killer’s previous victims. And they are dead set on making sure that what happened to them doesn’t happen to Finney.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3eGP6im8AZA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Clean
+*Released on 2022-01-28, vote average 7.8*
+
+Tormented by a past life, garbage man Clean attempts a life of quiet redemption. But when his good intentions mark him a target of a local crime boss, Clean is forced to reconcile with the violence of his past
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/G747avZgnSc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -169,18 +247,50 @@ A retelling of the biblical book of Hosea set against the backdrop of the Califo
 
 
 	
+
+  
+
+
 	
 
-### The Requin
-*Released on 2022-01-28, vote average 5*
+  
 
-A couple on a romantic getaway find themselves stranded at sea when a tropical storm sweeps away their villa. In order to survive, they are forced to fight the elements, while sharks circle below.
+
+	
+	
+
+### Home Team
+*Released on 2022-01-28, vote average 6.9*
+
+Two years after a Super Bowl win when NFL head coach Sean Payton is suspended, he goes back to his hometown and finds himself reconnecting with his 12-year-old son by coaching his Pop Warner football team.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/kWXK5fibfko?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xppbyXSxPlo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Damon&#39;s Revenge
+*Released on 2022-01-28, vote average 4*
+
+A group of young adults spend the weekend at a friend&#39;s house by the lake. Joined by the local sheriff, the group encounters an escaped convict Native American chief, a copycat killer and the return of the terrifying masked killer, Damon.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/np3v1T-mUAM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -196,26 +306,6 @@ A couple on a romantic getaway find themselves stranded at sea when a tropical s
 
 
 	
-
-  
-
-
-	
-	
-
-### Ben &amp; Jody
-*Released on 2022-01-27, vote average 8.8*
-
-Since deciding to leave Filosofi Kopi, Ben has lived in his hometown and has been actively defending farmer groups whose lands have been taken over by the Company. At the same time, Jody is preparing a new concept for Filosofi Kopi which will be launched soon. Ahead of the launch event, Ben who was scheduled to attend suddenly disappears. Jody sets out to find Ben. In order to save Ben, they face life and death adventures against gangs of illegal loggers led by Tubir, until their encounter with a traditional village group that changes the map of their resistance.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/mB2H_M9a_4g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -233,58 +323,6 @@ Since deciding to leave Filosofi Kopi, Ben has lived in his hometown and has bee
 
 
 	
-
-  
-
-
-	
-	
-
-### Warhunt
-*Released on 2022-01-21, vote average 6.4*
-
-1945. A U.S. military cargo plane loses control and violently crashes behind enemy lines in the middle of the German black forest. Major Johnson sends a squad of his bravest soldiers on a rescue mission to retrieve the top-secret material the plane was carrying, led by Sergeants Brewer and Walsh. They soon discover hanged Nazi soldiers and other dead bodies bearing ancient, magical symbols. Suddenly their compasses fail, their perceptions twist and straying from the group leads to profound horrors as they are attacked by a powerful, supernatural force.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/c-N_6zCwJOU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Love for Starters
-*Released on 2022-01-27, vote average 5*
-
-To save her father’s lake-front restaurant, a talented interior designer must partner with the celebrity chef her father hired without her knowledge to revamp the place before time runs out.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/P69qCb0bRT4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
