@@ -46,30 +46,8 @@ Isabella runs her own salon and isn’t afraid to speak her mind, while Prince T
 	
 	
 
-### The King&#39;s Daughter
-*Released on 2022-01-21, vote average 7.7*
-
-King Louis XIV&#39;s quest for immortality leads him to capture and steal a mermaid&#39;s life force, a move that is further complicated by his illegitimate daughter&#39;s discovery of the creature.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/NjGSWdmVVHM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Ice Age Adventures of Buck Wild
-*Released on 2022-01-28, vote average 6.3*
+*Released on 2022-01-28, vote average 8*
 
 The fearless one-eyed weasel Buck teams up with mischievous possum brothers Crash &amp; Eddie as they head off on a new adventure into Buck&#39;s home: The Dinosaur World.
 
@@ -90,8 +68,30 @@ The fearless one-eyed weasel Buck teams up with mischievous possum brothers Cras
 	
 	
 
+### The King&#39;s Daughter
+*Released on 2022-01-21, vote average 7.6*
+
+King Louis XIV&#39;s quest for immortality leads him to capture and steal a mermaid&#39;s life force, a move that is further complicated by his illegitimate daughter&#39;s discovery of the creature.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/NjGSWdmVVHM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### My Father&#39;s Violin
-*Released on 2022-01-21, vote average 8.7*
+*Released on 2022-01-21, vote average 8.6*
 
 Through their shared grief and connection to music, an orphaned girl bonds with her emotionally aloof, successful violinist uncle.
 
@@ -113,7 +113,7 @@ Through their shared grief and connection to music, an orphaned girl bonds with 
 	
 
 ### The Fallout
-*Released on 2022-01-28, vote average 8*
+*Released on 2022-01-28, vote average 7.7*
 
 In the wake of a school tragedy, Vada, Mia and Quinton form a unique and dynamic bond as they navigate the never linear, often confusing journey to heal in a world that feels forever changed.
 
@@ -134,8 +134,8 @@ In the wake of a school tragedy, Vada, Mia and Quinton form a unique and dynamic
 	
 	
 
-### Tom and Jerry Cowboy Up!
-*Released on 2022-01-24, vote average 7.8*
+### Tom and Jerry: Cowboy Up!
+*Released on 2022-01-24, vote average 7.7*
 
 This time, the rivals team up to help a cowgirl and her brother save their homestead from a greedy land-grabber, and they’re going to need some help! Jerry’s three precocious nephews are all ready for action, and Tom is rounding up a posse of prairie dogs. But can a ragtag band of varmints defeat a deceitful desperado determined to deceive a damsel in distress? No matter what happens with Tom and Jerry in the saddle, it’ll be a rootin’ tootin’ good time!
 
@@ -183,6 +183,62 @@ A couple on a romantic getaway find themselves stranded at sea when a tropical s
 	
 	
 
+### Clean
+*Released on 2022-01-28, vote average 6.6*
+
+Tormented by a past life, garbage man Clean attempts a life of quiet redemption. But when his good intentions mark him a target of a local crime boss, Clean is forced to reconcile with the violence of his past
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/G747avZgnSc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Home Team
+*Released on 2022-01-28, vote average 7*
+
+Two years after a Super Bowl win when NFL head coach Sean Payton is suspended, he goes back to his hometown and finds himself reconnecting with his 12-year-old son by coaching his Pop Warner football team.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xppbyXSxPlo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Black Phone
 *Released on 2022-01-28, vote average 1*
 
@@ -203,21 +259,33 @@ Finney Shaw, a shy but clever 13-year-old boy, is abducted by a sadistic killer 
 
 
 	
+
+  
+
+
+	
 	
 
-### Clean
-*Released on 2022-01-28, vote average 7.8*
+### Damon&#39;s Revenge
+*Released on 2022-01-28, vote average 4*
 
-Tormented by a past life, garbage man Clean attempts a life of quiet redemption. But when his good intentions mark him a target of a local crime boss, Clean is forced to reconcile with the violence of his past
+A group of young adults spend the weekend at a friend&#39;s house by the lake. Joined by the local sheriff, the group encounters an escaped convict Native American chief, a copycat killer and the return of the terrifying masked killer, Damon.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/G747avZgnSc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/np3v1T-mUAM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -252,78 +320,12 @@ A retelling of the biblical book of Hosea set against the backdrop of the Califo
 
 
 	
-
-  
-
-
-	
-	
-
-### Home Team
-*Released on 2022-01-28, vote average 6.9*
-
-Two years after a Super Bowl win when NFL head coach Sean Payton is suspended, he goes back to his hometown and finds himself reconnecting with his 12-year-old son by coaching his Pop Warner football team.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xppbyXSxPlo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
   
 
 
-	
-	
-
-### Damon&#39;s Revenge
-*Released on 2022-01-28, vote average 4*
-
-A group of young adults spend the weekend at a friend&#39;s house by the lake. Joined by the local sheriff, the group encounters an escaped convict Native American chief, a copycat killer and the return of the terrifying masked killer, Damon.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/np3v1T-mUAM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -351,6 +353,23 @@ A group of young adults spend the weekend at a friend&#39;s house by the lake. J
 
 	
 
+	
+	
+
+### Fireheart
+*Released on 2022-02-02, vote average 7.8*
+
+The film explores the world of firefighters in 1920s New York City and tells the story of a 16-year-old girl who will have to become a hero in order to save her city.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ZUy_ygJSIag?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
