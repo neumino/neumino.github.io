@@ -47,7 +47,7 @@ Isabella runs her own salon and isn’t afraid to speak her mind, while Prince T
 	
 
 ### The Ice Age Adventures of Buck Wild
-*Released on 2022-01-28, vote average 8*
+*Released on 2022-01-28, vote average 7.8*
 
 The fearless one-eyed weasel Buck teams up with mischievous possum brothers Crash &amp; Eddie as they head off on a new adventure into Buck&#39;s home: The Dinosaur World.
 
@@ -56,6 +56,28 @@ The fearless one-eyed weasel Buck teams up with mischievous possum brothers Cras
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/0U0L4uT0btQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Harry Potter 20th Anniversary: Return to Hogwarts
+*Released on 2022-01-31, vote average 8.3*
+
+An enchanting making-of story told through all-new in-depth interviews and cast conversations, inviting fans on a magical first-person journey through one of the most beloved film franchises of all time.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/JYbPYqd7Hfo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -91,7 +113,7 @@ King Louis XIV&#39;s quest for immortality leads him to capture and steal a merm
 	
 
 ### My Father&#39;s Violin
-*Released on 2022-01-21, vote average 8.6*
+*Released on 2022-01-21, vote average 8.4*
 
 Through their shared grief and connection to music, an orphaned girl bonds with her emotionally aloof, successful violinist uncle.
 
@@ -135,7 +157,7 @@ In the wake of a school tragedy, Vada, Mia and Quinton form a unique and dynamic
 	
 
 ### Tom and Jerry: Cowboy Up!
-*Released on 2022-01-24, vote average 7.7*
+*Released on 2022-01-24, vote average 7.4*
 
 This time, the rivals team up to help a cowgirl and her brother save their homestead from a greedy land-grabber, and they’re going to need some help! Jerry’s three precocious nephews are all ready for action, and Tom is rounding up a posse of prairie dogs. But can a ragtag band of varmints defeat a deceitful desperado determined to deceive a damsel in distress? No matter what happens with Tom and Jerry in the saddle, it’ll be a rootin’ tootin’ good time!
 
@@ -154,15 +176,10 @@ This time, the rivals team up to help a cowgirl and her brother save their homes
 
 
 	
-
-  
-
-
-	
 	
 
 ### The Requin
-*Released on 2022-01-28, vote average 3.8*
+*Released on 2022-01-28, vote average 3*
 
 A couple on a romantic getaway find themselves stranded at sea when a tropical storm sweeps away their villa. In order to survive, they are forced to fight the elements, while sharks circle below.
 
@@ -182,9 +199,16 @@ A couple on a romantic getaway find themselves stranded at sea when a tropical s
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Clean
-*Released on 2022-01-28, vote average 6.6*
+*Released on 2022-01-28, vote average 6.2*
 
 Tormented by a past life, garbage man Clean attempts a life of quiet redemption. But when his good intentions mark him a target of a local crime boss, Clean is forced to reconcile with the violence of his past
 
@@ -203,12 +227,12 @@ Tormented by a past life, garbage man Clean attempts a life of quiet redemption.
 
 
 	
+	
+	
 
   
 
 
-	
-	
 	
 
   
@@ -218,7 +242,7 @@ Tormented by a past life, garbage man Clean attempts a life of quiet redemption.
 	
 
 ### Home Team
-*Released on 2022-01-28, vote average 7*
+*Released on 2022-01-28, vote average 7.2*
 
 Two years after a Super Bowl win when NFL head coach Sean Payton is suspended, he goes back to his hometown and finds himself reconnecting with his 12-year-old son by coaching his Pop Warner football team.
 
@@ -239,8 +263,30 @@ Two years after a Super Bowl win when NFL head coach Sean Payton is suspended, h
 	
 	
 
+### Dracula: The Original Living Vampire
+*Released on 2022-01-28, vote average 10*
+
+Detective Amelia Van Helsing is on the desperate hunt for the killer responsible for a string of grisly murders targeting young women. Matters only worsen when all evidence leads to the seemingly untouchable Count Dracula. And when Van Helsing’s girlfriend vanishes, she is forced to question the very existence of monsters in a final showdown with the enigmatic count.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/4166M7xMEuc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Black Phone
-*Released on 2022-01-28, vote average 1*
+*Released on 2022-01-28, vote average 5.5*
 
 Finney Shaw, a shy but clever 13-year-old boy, is abducted by a sadistic killer and trapped in a soundproof basement where screaming is of little use. When a disconnected phone on the wall begins to ring, Finney discovers that he can hear the voices of the killer’s previous victims. And they are dead set on making sure that what happened to them doesn’t happen to Finney.
 
@@ -259,33 +305,21 @@ Finney Shaw, a shy but clever 13-year-old boy, is abducted by a sadistic killer 
 
 
 	
-
-  
-
-
-	
 	
 
-### Damon&#39;s Revenge
-*Released on 2022-01-28, vote average 4*
+### The Beatles: Get Back - The Rooftop Concert
+*Released on 2022-01-30, vote average 10*
 
-A group of young adults spend the weekend at a friend&#39;s house by the lake. Joined by the local sheriff, the group encounters an escaped convict Native American chief, a copycat killer and the return of the terrifying masked killer, Damon.
+On the 30th of January, 1969, the Beatles performed an unannounced concert from the rooftop of their Apple Corps headquarters at Savile Row, within central London&#39;s office and fashion district. Experience the final and unforgettable iconic performance of The Beatles in a special 60-minute presentation, digitally remastered into the image and sound quality of IMAX DMR technology.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/np3v1T-mUAM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/f3Ta3dNdVS8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -321,6 +355,21 @@ A retelling of the biblical book of Hosea set against the backdrop of the Califo
 
 	
 	
+
+### Butlers in Love
+*Released on 2022-01-29, vote average 4.5*
+
+In a prestigious butler academy, passionate Emma and rebellious Henry train to become royal butlers where the competition is fierce and sparks fly.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/LPwh8ewaw0s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -346,18 +395,10 @@ A retelling of the biblical book of Hosea set against the backdrop of the Califo
 	
 
 	
-
-	
-
-	
-
-	
-
-	
 	
 
 ### Fireheart
-*Released on 2022-02-02, vote average 7.8*
+*Released on 2022-02-02, vote average 7.2*
 
 The film explores the world of firefighters in 1920s New York City and tells the story of a 16-year-old girl who will have to become a hero in order to save her city.
 
@@ -376,6 +417,16 @@ The film explores the world of firefighters in 1920s New York City and tells the
 
 	
 
+	
+
+	
+
+	
+
+	
+
+	
+	
 	
 
 	
