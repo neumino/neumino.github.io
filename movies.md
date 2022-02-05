@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Ice Age Adventures of Buck Wild
-*Released on 2022-01-28, vote average 7.7*
+*Released on 2022-01-28, vote average 7.6*
 
 The fearless one-eyed weasel Buck teams up with mischievous possum brothers Crash &amp; Eddie as they head off on a new adventure into Buck&#39;s home: The Dinosaur World.
 
@@ -47,7 +47,7 @@ The fearless one-eyed weasel Buck teams up with mischievous possum brothers Cras
 	
 
 ### The Fallout
-*Released on 2022-01-28, vote average 7.6*
+*Released on 2022-01-28, vote average 7.7*
 
 In the wake of a school tragedy, Vada, Mia and Quinton form a unique and dynamic bond as they navigate the never linear, often confusing journey to heal in a world that feels forever changed.
 
@@ -69,7 +69,7 @@ In the wake of a school tragedy, Vada, Mia and Quinton form a unique and dynamic
 	
 
 ### Tom and Jerry: Cowboy Up!
-*Released on 2022-01-24, vote average 7.5*
+*Released on 2022-01-24, vote average 7.4*
 
 This time, the rivals team up to help a cowgirl and her brother save their homestead from a greedy land-grabber, and they’re going to need some help! Jerry’s three precocious nephews are all ready for action, and Tom is rounding up a posse of prairie dogs. But can a ragtag band of varmints defeat a deceitful desperado determined to deceive a damsel in distress? No matter what happens with Tom and Jerry in the saddle, it’ll be a rootin’ tootin’ good time!
 
@@ -91,7 +91,7 @@ This time, the rivals team up to help a cowgirl and her brother save their homes
 	
 
 ### The Requin
-*Released on 2022-01-28, vote average 5.3*
+*Released on 2022-01-28, vote average 5.1*
 
 A couple on a romantic getaway find themselves stranded at sea when a tropical storm sweeps away their villa. In order to survive, they are forced to fight the elements, while sharks circle below.
 
@@ -135,7 +135,7 @@ Raquel&#39;s longtime crush on her next-door neighbor turns into something more 
 	
 
 ### Moonfall
-*Released on 2022-02-03, vote average 6.5*
+*Released on 2022-02-03, vote average 6.4*
 
 A mysterious force knocks the moon from its orbit around Earth and sends it hurtling on a collision course with life as we know it.
 
@@ -144,50 +144,6 @@ A mysterious force knocks the moon from its orbit around Earth and sends it hurt
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/ivIwdQBlS10?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The King&#39;s Daughter
-*Released on 2022-01-21, vote average 7.6*
-
-King Louis XIV&#39;s quest for immortality leads him to capture and steal a mermaid&#39;s life force, a move that is further complicated by his illegitimate daughter&#39;s discovery of the creature.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/NjGSWdmVVHM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### My Father&#39;s Violin
-*Released on 2022-01-21, vote average 8.3*
-
-Through their shared grief and connection to music, an orphaned girl bonds with her emotionally aloof, successful violinist uncle.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZyhWDaS8YYE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -220,6 +176,30 @@ Two years after a Super Bowl win when NFL head coach Sean Payton is suspended, h
 
 
 	
+	
+
+### Jackass Forever
+*Released on 2022-02-01, vote average 8.5*
+
+Celebrate the joy of a perfectly executed shot to the groin as Johnny Knoxville, Steve-O and the rest of the gang return alongside some newcomers for one final round of hilarious, wildly absurd and often dangerous displays of stunts and comedy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/uhTksVuvhps?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
 
   
 
@@ -235,7 +215,7 @@ Two years after a Super Bowl win when NFL head coach Sean Payton is suspended, h
 	
 
 ### Clean
-*Released on 2022-01-28, vote average 6.6*
+*Released on 2022-01-28, vote average 6.7*
 
 Tormented by a past life, garbage man Clean attempts a life of quiet redemption. But when his good intentions mark him a target of a local crime boss, Clean is forced to reconcile with the violence of his past
 
@@ -247,13 +227,6 @@ Tormented by a past life, garbage man Clean attempts a life of quiet redemption.
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -300,6 +273,11 @@ Detective Amelia Van Helsing is on the desperate hunt for the killer responsible
 
 
 	
+
+  
+
+
+	
 	
 
 ### The Black Phone
@@ -322,44 +300,15 @@ Finney Shaw, a shy but clever 13-year-old boy, is abducted by a sadistic killer 
 
 
 	
-	
-
-### Fireheart
-*Released on 2022-02-02, vote average 6.4*
-
-The film explores the world of firefighters in 1920s New York City and tells the story of a 16-year-old girl who will have to become a hero in order to save her city.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZUy_ygJSIag?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
 
 	
-	
 
-### Redeeming Love
-*Released on 2022-01-21, vote average 8.6*
+  
 
-A retelling of the biblical book of Hosea set against the backdrop of the California Gold Rush of 1850.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/NJSjS36Pgx8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -370,18 +319,24 @@ A retelling of the biblical book of Hosea set against the backdrop of the Califo
 
 
 	
+
 	
 
-### Through My Window
-*Released on 2022-02-04, vote average 10*
+	
 
-Raquel&#39;s longtime crush on her next-door neighbor turns into something more when he starts developing feelings for her, despite his family&#39;s objections.
+	
+	
+
+### Catwoman: Hunted
+*Released on 2022-02-07, vote average 7.5*
+
+Catwoman&#39;s attempt to steal a priceless jewel puts her squarely in the crosshairs of both a powerful consortium of villains and the ever-resourceful Interpol, not to mention Batwoman.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/_zxhK3Z-R0c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/vE8x9JiQ4sM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -412,31 +367,6 @@ Raquel&#39;s longtime crush on her next-door neighbor turns into something more 
 
 	
 
-	
-
-	
-	
-
-### The Long Night
-*Released on 2022-02-04, vote average 10*
-
-A devoted couple&#39;s quiet weekend takes a bizarre turn when a nightmarish cult and their maniacal leader come to fulfill an apocalyptic prophesy.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/RSIcJNkR4tk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-	
 	
 
 	
