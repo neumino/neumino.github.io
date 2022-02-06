@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Ice Age Adventures of Buck Wild
-*Released on 2022-01-28, vote average 7.6*
+*Released on 2022-01-28, vote average 7.5*
 
 The fearless one-eyed weasel Buck teams up with mischievous possum brothers Crash &amp; Eddie as they head off on a new adventure into Buck&#39;s home: The Dinosaur World.
 
@@ -90,30 +90,8 @@ This time, the rivals team up to help a cowgirl and her brother save their homes
 	
 	
 
-### The Requin
-*Released on 2022-01-28, vote average 5.1*
-
-A couple on a romantic getaway find themselves stranded at sea when a tropical storm sweeps away their villa. In order to survive, they are forced to fight the elements, while sharks circle below.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kWXK5fibfko?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Through My Window
-*Released on 2022-02-04, vote average 10*
+*Released on 2022-02-04, vote average 8.7*
 
 Raquel&#39;s longtime crush on her next-door neighbor turns into something more when he starts developing feelings for her, despite his family&#39;s objections.
 
@@ -156,8 +134,30 @@ A mysterious force knocks the moon from its orbit around Earth and sends it hurt
 	
 	
 
+### The Requin
+*Released on 2022-01-28, vote average 4.7*
+
+A couple on a romantic getaway find themselves stranded at sea when a tropical storm sweeps away their villa. In order to survive, they are forced to fight the elements, while sharks circle below.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kWXK5fibfko?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Home Team
-*Released on 2022-01-28, vote average 7*
+*Released on 2022-01-28, vote average 7.1*
 
 Two years after a Super Bowl win when NFL head coach Sean Payton is suspended, he goes back to his hometown and finds himself reconnecting with his 12-year-old son by coaching his Pop Warner football team.
 
@@ -179,7 +179,7 @@ Two years after a Super Bowl win when NFL head coach Sean Payton is suspended, h
 	
 
 ### Jackass Forever
-*Released on 2022-02-01, vote average 8.5*
+*Released on 2022-02-01, vote average 7.1*
 
 Celebrate the joy of a perfectly executed shot to the groin as Johnny Knoxville, Steve-O and the rest of the gang return alongside some newcomers for one final round of hilarious, wildly absurd and often dangerous displays of stunts and comedy.
 
@@ -212,34 +212,34 @@ Celebrate the joy of a perfectly executed shot to the groin as Johnny Knoxville,
 
 
 	
+
+  
+
+
+	
+	
 	
 
-### Clean
-*Released on 2022-01-28, vote average 6.7*
+  
 
-Tormented by a past life, garbage man Clean attempts a life of quiet redemption. But when his good intentions mark him a target of a local crime boss, Clean is forced to reconcile with the violence of his past
+
+	
+	
+
+### Last Survivors
+*Released on 2022-02-04, vote average 7.5*
+
+The pic is set in the aftermath of an apocalyptic event that forces people into extreme isolation. A father and son, who have been living off grid for 20 years, encounter an outsider who threatens to destroy the utopia they’ve built.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/G747avZgnSc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/vqjV4_UFh1M?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 	
 
   
@@ -273,6 +273,35 @@ Detective Amelia Van Helsing is on the desperate hunt for the killer responsible
 
 
 	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Long Night
+*Released on 2022-02-04, vote average 10*
+
+A devoted couple&#39;s quiet weekend takes a bizarre turn when a nightmarish cult and their maniacal leader come to fulfill an apocalyptic prophesy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/RSIcJNkR4tk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -300,15 +329,22 @@ Finney Shaw, a shy but clever 13-year-old boy, is abducted by a sadistic killer 
 
 
 	
-
-  
-
-
 	
 
-  
+### I Am Mortal
+*Released on 2022-02-01, vote average 10*
 
+Set 200 years in the future, a small band of rebels face off against the status quo where humans have achieved immortality through genetic engineering
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/TZ-2IMZTc-0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -328,7 +364,7 @@ Finney Shaw, a shy but clever 13-year-old boy, is abducted by a sadistic killer 
 	
 
 ### Catwoman: Hunted
-*Released on 2022-02-07, vote average 7.5*
+*Released on 2022-02-07, vote average 7.4*
 
 Catwoman&#39;s attempt to steal a priceless jewel puts her squarely in the crosshairs of both a powerful consortium of villains and the ever-resourceful Interpol, not to mention Batwoman.
 
@@ -360,7 +396,7 @@ Catwoman&#39;s attempt to steal a priceless jewel puts her squarely in the cross
 	
 
 	
-
+	
 	
 
 	
@@ -373,6 +409,25 @@ Catwoman&#39;s attempt to steal a priceless jewel puts her squarely in the cross
 
 	
 
+	
+
+	
+	
+
+### Love &amp; Where to Find It
+*Released on 2022-02-07, vote average 6*
+
+Two local coffee shop business owners despise each other in real life, but fall in love while unknowingly sending each other messages via a dating app on their friends’ behalf.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5A1TnYMjxlE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 
