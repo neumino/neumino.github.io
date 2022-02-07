@@ -47,7 +47,7 @@ The fearless one-eyed weasel Buck teams up with mischievous possum brothers Cras
 	
 
 ### The Fallout
-*Released on 2022-01-28, vote average 7.7*
+*Released on 2022-01-28, vote average 7.8*
 
 In the wake of a school tragedy, Vada, Mia and Quinton form a unique and dynamic bond as they navigate the never linear, often confusing journey to heal in a world that feels forever changed.
 
@@ -69,7 +69,7 @@ In the wake of a school tragedy, Vada, Mia and Quinton form a unique and dynamic
 	
 
 ### Tom and Jerry: Cowboy Up!
-*Released on 2022-01-24, vote average 7.4*
+*Released on 2022-01-24, vote average 7.3*
 
 This time, the rivals team up to help a cowgirl and her brother save their homestead from a greedy land-grabber, and they’re going to need some help! Jerry’s three precocious nephews are all ready for action, and Tom is rounding up a posse of prairie dogs. But can a ragtag band of varmints defeat a deceitful desperado determined to deceive a damsel in distress? No matter what happens with Tom and Jerry in the saddle, it’ll be a rootin’ tootin’ good time!
 
@@ -90,8 +90,30 @@ This time, the rivals team up to help a cowgirl and her brother save their homes
 	
 	
 
+### The Requin
+*Released on 2022-01-28, vote average 4.3*
+
+A couple on a romantic getaway find themselves stranded at sea when a tropical storm sweeps away their villa. In order to survive, they are forced to fight the elements, while sharks circle below.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kWXK5fibfko?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Through My Window
-*Released on 2022-02-04, vote average 8.7*
+*Released on 2022-02-04, vote average 8.4*
 
 Raquel&#39;s longtime crush on her next-door neighbor turns into something more when he starts developing feelings for her, despite his family&#39;s objections.
 
@@ -121,29 +143,7 @@ A mysterious force knocks the moon from its orbit around Earth and sends it hurt
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ivIwdQBlS10?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Requin
-*Released on 2022-01-28, vote average 4.7*
-
-A couple on a romantic getaway find themselves stranded at sea when a tropical storm sweeps away their villa. In order to survive, they are forced to fight the elements, while sharks circle below.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kWXK5fibfko?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/1Z3MXc8KloU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -179,7 +179,7 @@ Two years after a Super Bowl win when NFL head coach Sean Payton is suspended, h
 	
 
 ### Jackass Forever
-*Released on 2022-02-01, vote average 7.1*
+*Released on 2022-02-01, vote average 7.2*
 
 Celebrate the joy of a perfectly executed shot to the groin as Johnny Knoxville, Steve-O and the rest of the gang return alongside some newcomers for one final round of hilarious, wildly absurd and often dangerous displays of stunts and comedy.
 
@@ -206,6 +206,28 @@ Celebrate the joy of a perfectly executed shot to the groin as Johnny Knoxville,
 
 	
 	
+
+### Catwoman: Hunted
+*Released on 2022-02-07, vote average 7.4*
+
+Catwoman&#39;s attempt to steal a priceless jewel puts her squarely in the crosshairs of both a powerful consortium of villains and the ever-resourceful Interpol, not to mention Batwoman.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vE8x9JiQ4sM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -217,6 +239,21 @@ Celebrate the joy of a perfectly executed shot to the groin as Johnny Knoxville,
 
 
 	
+	
+
+### Sex, Shame and Tears 2
+*Released on 2022-02-04, vote average 5*
+
+Twenty years have passed since those two apartments in the heart of Mexico City were the battlefield of a war of the sexes between Ana, Carlos, Andrea, Miguel, Tomás and María. All that is left of those apartments are memories and the image of Tomás&#39; dead body at the bottom of the elevator shaft. Their lives have changed, their families have grown and new and unexpected characters have come to unsettle their daily lives and trigger a chain of events that will make them realize that modesty has been replaced by public disclosure; sex is only an app away; but love...love is still something elusive that everyone in today&#39;s banal and chaotic world is seeking.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/t1EO0CNAmKc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -227,7 +264,7 @@ Celebrate the joy of a perfectly executed shot to the groin as Johnny Knoxville,
 	
 
 ### Last Survivors
-*Released on 2022-02-04, vote average 7.5*
+*Released on 2022-02-04, vote average 6.8*
 
 The pic is set in the aftermath of an apocalyptic event that forces people into extreme isolation. A father and son, who have been living off grid for 20 years, encounter an outsider who threatens to destroy the utopia they’ve built.
 
@@ -246,26 +283,6 @@ The pic is set in the aftermath of an apocalyptic event that forces people into 
 
 
 	
-
-  
-
-
-	
-	
-
-### Dracula: The Original Living Vampire
-*Released on 2022-01-28, vote average 10*
-
-Detective Amelia Van Helsing is on the desperate hunt for the killer responsible for a string of grisly murders targeting young women. Matters only worsen when all evidence leads to the seemingly untouchable Count Dracula. And when Van Helsing’s girlfriend vanishes, she is forced to question the very existence of monsters in a final showdown with the enigmatic count.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/4166M7xMEuc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -274,11 +291,6 @@ Detective Amelia Van Helsing is on the desperate hunt for the killer responsible
 
 	
 	
-	
-
-  
-
-
 	
 
   
@@ -288,7 +300,7 @@ Detective Amelia Van Helsing is on the desperate hunt for the killer responsible
 	
 
 ### The Long Night
-*Released on 2022-02-04, vote average 10*
+*Released on 2022-02-04, vote average 5*
 
 A devoted couple&#39;s quiet weekend takes a bizarre turn when a nightmarish cult and their maniacal leader come to fulfill an apocalyptic prophesy.
 
@@ -309,16 +321,16 @@ A devoted couple&#39;s quiet weekend takes a bizarre turn when a nightmarish cul
 	
 	
 
-### The Black Phone
-*Released on 2022-01-28, vote average 5.5*
+### A Violent Man
+*Released on 2022-02-04, vote average 4*
 
-Finney Shaw, a shy but clever 13-year-old boy, is abducted by a sadistic killer and trapped in a soundproof basement where screaming is of little use. When a disconnected phone on the wall begins to ring, Finney discovers that he can hear the voices of the killer’s previous victims. And they are dead set on making sure that what happened to them doesn’t happen to Finney.
+Steve Mackleson is a dangerous prisoner, incarcerated for double murder in a maximum security prison. We follow, as he navigates his struggle against redemption the system and his inner turmoil, when a young black gang member becomes his unlikely new cell mate and a daughter he has never met, finally requests to meet her estranged father, face to face.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/3eGP6im8AZA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/VqQp-r36j1I?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -329,22 +341,10 @@ Finney Shaw, a shy but clever 13-year-old boy, is abducted by a sadistic killer 
 
 
 	
-	
 
-### I Am Mortal
-*Released on 2022-02-01, vote average 10*
+  
 
-Set 200 years in the future, a small band of rebels face off against the status quo where humans have achieved immortality through genetic engineering
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/TZ-2IMZTc-0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -358,6 +358,23 @@ Set 200 years in the future, a small band of rebels face off against the status 
 
 	
 
+	
+	
+
+### Death on the Nile
+*Released on 2022-02-09, vote average 3.5*
+
+Belgian sleuth Hercule Poirot’s Egyptian vacation aboard a glamorous river steamer turns into a terrifying search for a murderer when a picture-perfect couple’s idyllic honeymoon is tragically cut short.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Ru6jhGltdzc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -384,34 +401,6 @@ Catwoman&#39;s attempt to steal a priceless jewel puts her squarely in the cross
 	
 
 	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
 	
 
 ### Love &amp; Where to Find It
@@ -428,6 +417,32 @@ Two local coffee shop business owners despise each other in real life, but fall 
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 
