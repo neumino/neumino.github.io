@@ -47,7 +47,7 @@ The fearless one-eyed weasel Buck teams up with mischievous possum brothers Cras
 	
 
 ### The Requin
-*Released on 2022-01-28, vote average 4.2*
+*Released on 2022-01-28, vote average 4.3*
 
 A couple on a romantic getaway find themselves stranded at sea when a tropical storm sweeps away their villa. In order to survive, they are forced to fight the elements, while sharks circle below.
 
@@ -69,7 +69,7 @@ A couple on a romantic getaway find themselves stranded at sea when a tropical s
 	
 
 ### Through My Window
-*Released on 2022-02-04, vote average 8.3*
+*Released on 2022-02-04, vote average 8.2*
 
 Raquel&#39;s longtime crush on her next-door neighbor turns into something more when he starts developing feelings for her, despite his family&#39;s objections.
 
@@ -135,7 +135,7 @@ Two years after a Super Bowl win when NFL head coach Sean Payton is suspended, h
 	
 
 ### Moonfall
-*Released on 2022-02-03, vote average 6.8*
+*Released on 2022-02-03, vote average 6.6*
 
 A mysterious force knocks the moon from its orbit around Earth and sends it hurtling on a collision course with life as we know it.
 
@@ -157,7 +157,7 @@ A mysterious force knocks the moon from its orbit around Earth and sends it hurt
 	
 
 ### Jackass Forever
-*Released on 2022-02-01, vote average 7.2*
+*Released on 2022-02-01, vote average 7.4*
 
 Celebrate the joy of a perfectly executed shot to the groin as Johnny Knoxville, Steve-O and the rest of the gang return alongside some newcomers for one final round of hilarious, wildly absurd and often dangerous displays of stunts and comedy.
 
@@ -179,7 +179,7 @@ Celebrate the joy of a perfectly executed shot to the groin as Johnny Knoxville,
 	
 
 ### Catwoman: Hunted
-*Released on 2022-02-07, vote average 7.3*
+*Released on 2022-02-07, vote average 6.4*
 
 Catwoman&#39;s attempt to steal a priceless jewel puts her squarely in the crosshairs of both a powerful consortium of villains and the ever-resourceful Interpol, not to mention Batwoman.
 
@@ -198,6 +198,43 @@ Catwoman&#39;s attempt to steal a priceless jewel puts her squarely in the cross
 
 
 	
+	
+
+### Marry Me
+*Released on 2022-02-09, vote average 10*
+
+Explores the possibilities of what might happen when a superstar marries an average Joe as a joke and discovers that perhaps there are no accidents.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Ebv9_rNb5Ig?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Death on the Nile
+*Released on 2022-02-09, vote average 3.5*
+
+Belgian sleuth Hercule Poirot’s Egyptian vacation aboard a glamorous river steamer turns into a terrifying search for a murderer when a picture-perfect couple’s idyllic honeymoon is tragically cut short.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Ru6jhGltdzc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -228,9 +265,30 @@ Twenty years have passed since those two apartments in the heart of Mexico City 
 
 	
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
 
 ### Last Survivors
-*Released on 2022-02-04, vote average 6.7*
+*Released on 2022-02-04, vote average 6.5*
 
 The pic is set in the aftermath of an apocalyptic event that forces people into extreme isolation. A father and son, who have been living off grid for 20 years, encounter an outsider who threatens to destroy the utopia they’ve built.
 
@@ -249,8 +307,6 @@ The pic is set in the aftermath of an apocalyptic event that forces people into 
 
 
 	
-	
-	
 
   
 
@@ -262,24 +318,17 @@ The pic is set in the aftermath of an apocalyptic event that forces people into 
 
 	
 	
-	
 
-  
+### Peek at the Fire
+*Released on 2022-01-28, vote average 4*
 
-
-	
-	
-
-### The Long Night
-*Released on 2022-02-04, vote average 5.5*
-
-A devoted couple&#39;s quiet weekend takes a bizarre turn when a nightmarish cult and their maniacal leader come to fulfill an apocalyptic prophesy.
+Take a peek at the life of an unhappy housewife who finds passionate love from her neighbor and how their affair brings them closer to fire.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/RSIcJNkR4tk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/JlXNve2jXuM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -318,42 +367,46 @@ Finney Shaw, a shy but clever 13-year-old boy, is abducted by a sadistic killer 
   
 
 
-	
 
-  
-
-
-	
-
-  
+## Opening soon
 
 
 	
 	
 
-### Moon Crash
-*Released on 2022-02-04, vote average 5*
+### Uncharted
+*Released on 2022-02-10, vote average 9.3*
 
-Mockbuster from The Asylum along lines of Moonfall. A global steelworks company partners with an aerospace firm to mine the Moon. But when a drilling accident causes a giant piece of the Moon to crack off and hurtle towards Earth, the surviving space team and the head of the firm must figure out how to destroy the meteoroid before it wipes out the entire planet
+A young street-smart, Nathan Drake and his wisecracking partner Victor “Sully” Sullivan embark on a dangerous pursuit of “the greatest treasure never found” while also tracking clues that may lead to Nathan’s long-lost brother.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/l24COWkEHgI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Rk-DG-fuLAY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
 	
 
-  
+	
+	
 
+### Marry Me
+*Released on 2022-02-09, vote average 10*
 
+Explores the possibilities of what might happen when a superstar marries an average Joe as a joke and discovers that perhaps there are no accidents.
 
-## Opening soon
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Ebv9_rNb5Ig?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
-
+	
 	
 
 	
@@ -386,6 +439,31 @@ Belgian sleuth Hercule Poirot’s Egyptian vacation aboard a glamorous river ste
 	
 
 	
+	
+	
+
+	
+
+	
+
+	
+	
+
+### I Want to Talk About Duras
+*Released on 2022-02-09, vote average 5.5*
+
+In 1982, Yann Andréa and Marguerite Duras have been living together for two years. She is almost 70 years old, while he is 38 years her junior. Andréa asks journalist and writer Michèle Manceaux to interview him about his life with Duras, an obsession that both impassions him and drives him mad. He believes by entrusting their story to Manceaux, he may gain more clarity of the relationship. What follows is an intense and compelling conversation delving into the deepest recesses of modern love.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hVfJWrB795I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
@@ -396,17 +474,9 @@ Belgian sleuth Hercule Poirot’s Egyptian vacation aboard a glamorous river ste
 	
 
 	
-
 	
-
 	
 
-	
-
-	
-
-	
-	
 	
 
 	
