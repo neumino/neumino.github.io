@@ -46,60 +46,16 @@ Raquel&#39;s longtime crush on her next-door neighbor turns into something more 
 	
 	
 
-### The Requin
-*Released on 2022-01-28, vote average 4.4*
+### Catwoman: Hunted
+*Released on 2022-02-07, vote average 6.3*
 
-A couple on a romantic getaway find themselves stranded at sea when a tropical storm sweeps away their villa. In order to survive, they are forced to fight the elements, while sharks circle below.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kWXK5fibfko?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Ice Age Adventures of Buck Wild
-*Released on 2022-01-28, vote average 7.3*
-
-The fearless one-eyed weasel Buck teams up with mischievous possum brothers Crash &amp; Eddie as they head off on a new adventure into Buck&#39;s home: The Dinosaur World.
+Catwoman&#39;s attempt to steal a priceless jewel puts her squarely in the crosshairs of both a powerful consortium of villains and the ever-resourceful Interpol, not to mention Batwoman.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/0U0L4uT0btQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Fallout
-*Released on 2022-01-28, vote average 7.5*
-
-In the wake of a school tragedy, Vada, Mia and Quinton form a unique and dynamic bond as they navigate the never linear, often confusing journey to heal in a world that feels forever changed.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/NZJLgoHJmy0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/vE8x9JiQ4sM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -113,7 +69,7 @@ In the wake of a school tragedy, Vada, Mia and Quinton form a unique and dynamic
 	
 
 ### Moonfall
-*Released on 2022-02-03, vote average 6.2*
+*Released on 2022-02-03, vote average 6.1*
 
 A mysterious force knocks the moon from its orbit around Earth and sends it hurtling on a collision course with life as we know it.
 
@@ -134,30 +90,8 @@ A mysterious force knocks the moon from its orbit around Earth and sends it hurt
 	
 	
 
-### Home Team
-*Released on 2022-01-28, vote average 6.9*
-
-Two years after a Super Bowl win when NFL head coach Sean Payton is suspended, he goes back to his hometown and finds himself reconnecting with his 12-year-old son by coaching his Pop Warner football team.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xppbyXSxPlo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Uncharted
-*Released on 2022-02-10, vote average 8.8*
+*Released on 2022-02-10, vote average 9*
 
 A young street-smart, Nathan Drake and his wisecracking partner Victor “Sully” Sullivan embark on a dangerous pursuit of “the greatest treasure never found” while also tracking clues that may lead to Nathan’s long-lost brother.
 
@@ -177,17 +111,24 @@ A young street-smart, Nathan Drake and his wisecracking partner Victor “Sully�
 
 	
 	
+	
 
-### Catwoman: Hunted
-*Released on 2022-02-07, vote average 6.2*
+  
 
-Catwoman&#39;s attempt to steal a priceless jewel puts her squarely in the crosshairs of both a powerful consortium of villains and the ever-resourceful Interpol, not to mention Batwoman.
+
+	
+	
+
+### Marry Me
+*Released on 2022-02-09, vote average 7.4*
+
+Explores the possibilities of what might happen when a superstar marries an average Joe as a joke and discovers that perhaps there are no accidents.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/vE8x9JiQ4sM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Ebv9_rNb5Ig?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -222,54 +163,10 @@ Celebrate the joy of a perfectly executed shot to the groin as Johnny Knoxville,
 	
 	
 
-### Sex, Shame and Tears 2
-*Released on 2022-02-04, vote average 3*
-
-Twenty years have passed since those two apartments in the heart of Mexico City were the battlefield of a war of the sexes between Ana, Carlos, Andrea, Miguel, Tomás and María. All that is left of those apartments are memories and the image of Tomás&#39; dead body at the bottom of the elevator shaft. Their lives have changed, their families have grown and new and unexpected characters have come to unsettle their daily lives and trigger a chain of events that will make them realize that modesty has been replaced by public disclosure; sex is only an app away; but love...love is still something elusive that everyone in today&#39;s banal and chaotic world is seeking.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cy0W6Z6we-s?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Marry Me
-*Released on 2022-02-09, vote average 7.3*
-
-Explores the possibilities of what might happen when a superstar marries an average Joe as a joke and discovers that perhaps there are no accidents.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Ebv9_rNb5Ig?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Death on the Nile
-*Released on 2022-02-09, vote average 5.7*
+*Released on 2022-02-09, vote average 6.3*
 
-Belgian sleuth Hercule Poirot’s Egyptian vacation aboard a glamorous river steamer turns into a terrifying search for a murderer when a picture-perfect couple’s idyllic honeymoon is tragically cut short.
+Belgian sleuth Hercule Poirot boards a glamorous river steamer with enough champagne to fill the Nile. But his Egyptian vacation turns into a thrilling search for a murderer when a picture-perfect couple’s idyllic honeymoon is tragically cut short.
 
 <iframe id="player"
 	type="text/html"
@@ -316,16 +213,9 @@ Posing as a wealthy, jet-setting diamond mogul, an Israeli conman wooed women on
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Miss Willoughby and the Haunted Bookshop
-*Released on 2022-02-08, vote average 5*
+*Released on 2022-02-08, vote average 4.8*
 
 Miss Willoughby is an educator and keen adventurer, an heiress to a family fortune who, along with her ex-forces butler, Robert, and cheeky but reliable Jack Russell, Bentley, gets pulled into mystery and adventure surrounding a haunted antique bookshop.
 
@@ -347,7 +237,7 @@ Miss Willoughby is an educator and keen adventurer, an heiress to a family fortu
 	
 
 ### Blacklight
-*Released on 2022-02-10, vote average 2*
+*Released on 2022-02-10, vote average 4.5*
 
 Travis Block, a shadowy Government agent who specializes in removing operatives whose covers have been exposed, uncovers a deadly conspiracy within his own ranks that reaches the highest echelons of power.
 
@@ -355,7 +245,7 @@ Travis Block, a shadowy Government agent who specializes in removing operatives 
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/d4K9Rzy2_DA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/k_N9pU4FMOs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -366,6 +256,77 @@ Travis Block, a shadowy Government agent who specializes in removing operatives 
 
 
 	
+	
+	
+
+  
+
+
+	
+	
+
+### Kimi
+*Released on 2022-02-10, vote average 6.9*
+
+A tech worker with agoraphobia discovers recorded evidence of a violent crime, but is met with resistance when she tries to report it. Seeking justice, she must do the thing she fears the most: she must leave her apartment.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/67S8ru4K4x4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Last Survivors
+*Released on 2022-02-04, vote average 6.3*
+
+The pic is set in the aftermath of an apocalyptic event that forces people into extreme isolation. A father and son, who have been living off grid for 20 years, encounter an outsider who threatens to destroy the utopia they’ve built.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vqjV4_UFh1M?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Exorcist Vengeance
+*Released on 2022-02-08, vote average 3*
+
+When a prominent family is terrorized by a demonic force, a priest that the Vatican calls upon to do their dirty work has to root out the evil, soon realizing that the solution to this mystery is tied to his own past.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/BCUcQzDxIy0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -395,21 +356,11 @@ High school student Jane Shipley seeks to mend her splintering relationship with
 
 
 	
+
+  
+
+
 	
-
-### Last Survivors
-*Released on 2022-02-04, vote average 6.3*
-
-The pic is set in the aftermath of an apocalyptic event that forces people into extreme isolation. A father and son, who have been living off grid for 20 years, encounter an outsider who threatens to destroy the utopia they’ve built.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vqjV4_UFh1M?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -454,8 +405,6 @@ The pic is set in the aftermath of an apocalyptic event that forces people into 
 
 	
 
-	
-	
 	
 
 	
