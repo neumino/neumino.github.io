@@ -47,7 +47,7 @@ Raquel&#39;s longtime crush on her next-door neighbor turns into something more 
 	
 
 ### Catwoman: Hunted
-*Released on 2022-02-07, vote average 6.3*
+*Released on 2022-02-07, vote average 6.4*
 
 Catwoman&#39;s attempt to steal a priceless jewel puts her squarely in the crosshairs of both a powerful consortium of villains and the ever-resourceful Interpol, not to mention Batwoman.
 
@@ -68,30 +68,8 @@ Catwoman&#39;s attempt to steal a priceless jewel puts her squarely in the cross
 	
 	
 
-### Moonfall
-*Released on 2022-02-03, vote average 6.1*
-
-A mysterious force knocks the moon from its orbit around Earth and sends it hurtling on a collision course with life as we know it.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/1Z3MXc8KloU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Uncharted
-*Released on 2022-02-10, vote average 9*
+*Released on 2022-02-10, vote average 8.6*
 
 A young street-smart, Nathan Drake and his wisecracking partner Victor “Sully” Sullivan embark on a dangerous pursuit of “the greatest treasure never found” while also tracking clues that may lead to Nathan’s long-lost brother.
 
@@ -119,8 +97,30 @@ A young street-smart, Nathan Drake and his wisecracking partner Victor “Sully�
 	
 	
 
+### Moonfall
+*Released on 2022-02-03, vote average 6.2*
+
+A mysterious force knocks the moon from its orbit around Earth and sends it hurtling on a collision course with life as we know it.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/1Z3MXc8KloU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Marry Me
-*Released on 2022-02-09, vote average 7.4*
+*Released on 2022-02-09, vote average 7.6*
 
 Explores the possibilities of what might happen when a superstar marries an average Joe as a joke and discovers that perhaps there are no accidents.
 
@@ -129,6 +129,35 @@ Explores the possibilities of what might happen when a superstar marries an aver
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/Ebv9_rNb5Ig?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Death on the Nile
+*Released on 2022-02-09, vote average 6.7*
+
+Belgian sleuth Hercule Poirot boards a glamorous river steamer with enough champagne to fill the Nile. But his Egyptian vacation turns into a thrilling search for a murderer when a picture-perfect couple’s idyllic honeymoon is tragically cut short.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Ru6jhGltdzc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -163,37 +192,8 @@ Celebrate the joy of a perfectly executed shot to the groin as Johnny Knoxville,
 	
 	
 
-### Death on the Nile
-*Released on 2022-02-09, vote average 6.3*
-
-Belgian sleuth Hercule Poirot boards a glamorous river steamer with enough champagne to fill the Nile. But his Egyptian vacation turns into a thrilling search for a murderer when a picture-perfect couple’s idyllic honeymoon is tragically cut short.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Ru6jhGltdzc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
 ### The Tinder Swindler
-*Released on 2022-02-02, vote average 7*
+*Released on 2022-02-02, vote average 7.1*
 
 Posing as a wealthy, jet-setting diamond mogul, an Israeli conman wooed women online then conned them out of millions of dollars. Now some victims plan for payback.
 
@@ -235,6 +235,57 @@ Miss Willoughby is an educator and keen adventurer, an heiress to a family fortu
 
 	
 	
+	
+
+  
+
+
+	
+	
+
+### Kimi
+*Released on 2022-02-10, vote average 7*
+
+A tech worker with agoraphobia discovers recorded evidence of a violent crime, but is met with resistance when she tries to report it. Seeking justice, she must do the thing she fears the most: she must leave her apartment.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/67S8ru4K4x4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Tall Girl 2
+*Released on 2022-02-11, vote average 6.5*
+
+After Jodi Kreyman gains popularity, her miscommunications start causing rifts with those around her and now she really needs to &#34;stand tall&#34;.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2-1qlHIhWXE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
 
 ### Blacklight
 *Released on 2022-02-10, vote average 4.5*
@@ -257,24 +308,17 @@ Travis Block, a shadowy Government agent who specializes in removing operatives 
 
 	
 	
-	
 
-  
+### The Sky Is Everywhere
+*Released on 2022-02-11, vote average 7*
 
-
-	
-	
-
-### Kimi
-*Released on 2022-02-10, vote average 6.9*
-
-A tech worker with agoraphobia discovers recorded evidence of a violent crime, but is met with resistance when she tries to report it. Seeking justice, she must do the thing she fears the most: she must leave her apartment.
+Lennie is a teen musical prodigy grieving the death of her sister when she finds herself caught between a new guy at school and her sister&#39;s devastated boyfriend. Through her vivid imagination and conflicted heart, Lennie navigates first love and first loss.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/67S8ru4K4x4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/7R_5fSWvGs4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -287,43 +331,16 @@ A tech worker with agoraphobia discovers recorded evidence of a violent crime, b
 	
 	
 
-### Last Survivors
-*Released on 2022-02-04, vote average 6.3*
+### Love and Leashes
+*Released on 2022-02-11, vote average 6.7*
 
-The pic is set in the aftermath of an apocalyptic event that forces people into extreme isolation. A father and son, who have been living off grid for 20 years, encounter an outsider who threatens to destroy the utopia they’ve built.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vqjV4_UFh1M?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Exorcist Vengeance
-*Released on 2022-02-08, vote average 3*
-
-When a prominent family is terrorized by a demonic force, a priest that the Vatican calls upon to do their dirty work has to root out the evil, soon realizing that the solution to this mystery is tied to his own past.
+Love never hurt so good for two co-workers who enter a contractual relationship as partners in consensual play, pleasure and pain.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/BCUcQzDxIy0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/UEW3JpGCa5Q?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -336,16 +353,16 @@ When a prominent family is terrorized by a demonic force, a priest that the Vati
 	
 	
 
-### Student Body
-*Released on 2022-02-08, vote average 3.7*
+### I Want You Back
+*Released on 2022-02-10, vote average 6.4*
 
-High school student Jane Shipley seeks to mend her splintering relationship with childhood best friend Merritt, and fit in with her rebellious peers. When Jane&#39;s math teacher oversteps his bounds, an apathetic high school administration forces Jane and Merritt to take matters into their own hands, driving their relationship into further turmoil and inciting deadly consequences.
+Peter and Emma thought they were on the precipice of life’s biggest moments – marriage, kids, and houses in the suburbs – until their respective partners dumped them. Horrified to learn that the loves of their lives have already moved on, Peter and Emma hatch a hilarious plan to win back their exes with unexpected results.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/WFbp-cJiaDc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/o31abr8E0qU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -356,11 +373,43 @@ High school student Jane Shipley seeks to mend her splintering relationship with
 
 
 	
+	
+
+### Bigbug
+*Released on 2022-02-11, vote average 5.6*
+
+Humans have ceded most tasks to AI in 2045, even in nostalgic Alice&#39;s home. So when robots stage a coup, her androids protectively lock her doors.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/N-sWlgFhUGo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
 	
+	
+
+### The In Between
+*Released on 2022-02-11, vote average 5*
+
+After surviving a car accident that took the life of her boyfriend, a teenage girl believes he&#39;s attempting to reconnect with her from the after world.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/26z3pzzQYYA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
