@@ -45,16 +45,9 @@ Raquel&#39;s longtime crush on her next-door neighbor turns into something more 
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Marry Me
-*Released on 2022-02-09, vote average 7.4*
+*Released on 2022-02-09, vote average 6.9*
 
 Explores the possibilities of what might happen when a superstar marries an average Joe as a joke and discovers that perhaps there are no accidents.
 
@@ -66,6 +59,42 @@ Explores the possibilities of what might happen when a superstar marries an aver
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Uncharted
+*Released on 2022-02-10, vote average 7.9*
+
+A young street-smart, Nathan Drake and his wisecracking partner Victor “Sully” Sullivan embark on a dangerous pursuit of “the greatest treasure never found” while also tracking clues that may lead to Nathan’s long-lost brother.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/T1H423_jrAY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -97,57 +126,6 @@ Catwoman&#39;s attempt to steal a priceless jewel puts her squarely in the cross
 	
 	
 
-### Uncharted
-*Released on 2022-02-10, vote average 7.9*
-
-A young street-smart, Nathan Drake and his wisecracking partner Victor “Sully” Sullivan embark on a dangerous pursuit of “the greatest treasure never found” while also tracking clues that may lead to Nathan’s long-lost brother.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/T1H423_jrAY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Moonfall
-*Released on 2022-02-03, vote average 6.2*
-
-A mysterious force knocks the moon from its orbit around Earth and sends it hurtling on a collision course with life as we know it.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/1Z3MXc8KloU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
 ### The Tinder Swindler
 *Released on 2022-02-02, vote average 7*
 
@@ -170,16 +148,16 @@ Posing as a wealthy, jet-setting diamond mogul, an Israeli conman wooed women on
 	
 	
 
-### Death on the Nile
-*Released on 2022-02-09, vote average 6.7*
+### Moonfall
+*Released on 2022-02-03, vote average 6.1*
 
-Belgian sleuth Hercule Poirot boards a glamorous river steamer with enough champagne to fill the Nile. But his Egyptian vacation turns into a thrilling search for a murderer when a picture-perfect couple’s idyllic honeymoon is tragically cut short.
+A mysterious force knocks the moon from its orbit around Earth and sends it hurtling on a collision course with life as we know it.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Ru6jhGltdzc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/1Z3MXc8KloU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -192,16 +170,16 @@ Belgian sleuth Hercule Poirot boards a glamorous river steamer with enough champ
 	
 	
 
-### Jackass Forever
-*Released on 2022-02-01, vote average 6.8*
+### Death on the Nile
+*Released on 2022-02-09, vote average 6.8*
 
-Celebrate the joy of a perfectly executed shot to the groin as Johnny Knoxville, Steve-O and the rest of the gang return alongside some newcomers for one final round of hilarious, wildly absurd and often dangerous displays of stunts and comedy.
+Belgian sleuth Hercule Poirot boards a glamorous river steamer with enough champagne to fill the Nile. But his Egyptian vacation turns into a thrilling search for a murderer when a picture-perfect couple’s idyllic honeymoon is tragically cut short.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/uhTksVuvhps?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Ru6jhGltdzc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -222,7 +200,7 @@ Celebrate the joy of a perfectly executed shot to the groin as Johnny Knoxville,
 	
 
 ### Kimi
-*Released on 2022-02-10, vote average 6.4*
+*Released on 2022-02-10, vote average 6.5*
 
 A tech worker with agoraphobia discovers recorded evidence of a violent crime, but is met with resistance when she tries to report it. Seeking justice, she must do the thing she fears the most: she must leave her apartment.
 
@@ -288,7 +266,7 @@ Lennie is a teen musical prodigy grieving the death of her sister when she finds
 	
 
 ### Love and Leashes
-*Released on 2022-02-11, vote average 5.9*
+*Released on 2022-02-11, vote average 6.1*
 
 Love never hurt so good for two co-workers who enter a contractual relationship as partners in consensual play, pleasure and pain.
 
@@ -310,7 +288,7 @@ Love never hurt so good for two co-workers who enter a contractual relationship 
 	
 
 ### I Want You Back
-*Released on 2022-02-10, vote average 6.1*
+*Released on 2022-02-10, vote average 6.2*
 
 Peter and Emma thought they were on the precipice of life’s biggest moments – marriage, kids, and houses in the suburbs – until their respective partners dumped them. Horrified to learn that the loves of their lives have already moved on, Peter and Emma hatch a hilarious plan to win back their exes with unexpected results.
 
@@ -332,7 +310,7 @@ Peter and Emma thought they were on the precipice of life’s biggest moments �
 	
 
 ### Bigbug
-*Released on 2022-02-11, vote average 5.7*
+*Released on 2022-02-11, vote average 5.6*
 
 Humans have ceded most tasks to AI in 2045, even in nostalgic Alice&#39;s home. So when robots stage a coup, her androids protectively lock her doors.
 
@@ -353,30 +331,8 @@ Humans have ceded most tasks to AI in 2045, even in nostalgic Alice&#39;s home. 
 	
 	
 
-### Blacklight
-*Released on 2022-02-10, vote average 3.9*
-
-Travis Block, a shadowy Government agent who specializes in removing operatives whose covers have been exposed, uncovers a deadly conspiracy within his own ranks that reaches the highest echelons of power.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/k_N9pU4FMOs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Love Tactics
-*Released on 2022-02-11, vote average 6.8*
+*Released on 2022-02-11, vote average 6.9*
 
 An ad executive and a fashion designer-blogger don&#39;t believe in love, so they place a bet to make the other fall head over heels - with unusual tactics.
 
@@ -401,34 +357,140 @@ An ad executive and a fashion designer-blogger don&#39;t believe in love, so the
   
 
 
+	
+	
+
+### Blacklight
+*Released on 2022-02-10, vote average 4.1*
+
+Travis Block, a shadowy Government agent who specializes in removing operatives whose covers have been exposed, uncovers a deadly conspiracy within his own ranks that reaches the highest echelons of power.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/k_N9pU4FMOs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Catch the Fair One
+*Released on 2022-02-11, vote average 5.3*
+
+A Native American boxer embarks on the fight of her life when she goes in search of her missing sister.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/lITIDvp1_o8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 
 ## Opening soon
 
 
 	
+	
+
+### Dog
+*Released on 2022-02-17, vote average 6*
+
+An army ranger and his dog embark on a road trip along the Pacific Coast Highway to attend a friend&#39;s funeral.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/JL6p4IAI23Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### Jeepers Creepers: Reborn
+*Released on 2022-02-17, vote average 2*
+
+Forced to travel with her boyfriend to a horror festival, Laine begins to experience disturbing visions associated with the urban legend of The Creeper. As the festival arrives and the blood-soaked entertainment builds to a frenzy, she believes that something unearthly has been summoned… and that she is at the center of it.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/X68NG1ST_TQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### Texas Chainsaw Massacre
+*Released on 2022-02-18, vote average 5.5*
+
+After nearly 50 years of hiding, Leatherface returns to terrorize a group of idealistic young friends who accidentally disrupt his carefully shielded world in a remote Texas town.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zcI6SFiK_yk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
 	
-
 	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
 
 	
 	
+
+### The Ledge
+*Released on 2022-02-18, vote average 8.3*
+
+A rock climbing adventure between two friends turns into a terrifying nightmare. After Kelly captures the murder of her best friend on camera, she becomes the next target of a tight-knit group of friends who will stop at nothing to destroy the evidence and anyone in their way. Desperate for her safety, she begins a treacherous climb up a mountain cliff and her survival instincts are put to the test when she becomes trapped with the killers just 20 feet away.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/JGBa03UPCBU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
+	
+	
 	
 
 	
@@ -451,6 +513,50 @@ An ad executive and a fashion designer-blogger don&#39;t believe in love, so the
 	
 
 	
+	
+	
+
+	
+	
+
+### Pinocchio: A True Story
+*Released on 2022-02-17, vote average 2*
+
+Think you know the story of Pinocchio? Think again! In this thrilling, humorous take on the classic tale, the wooden hero is a skilled acrobat who performs stunts with his beloved horse, the wisecracking Tybalt. He runs off to join a circus, where he falls for the ringmaster’s daughter, Bella. But when Pinocchio learns the circus is a cover-up for robberies, he must stop the crime spree in order to save Bella – and, hopefully, become human.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Z4ArXSwALDU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### The Desperate Hour
+*Released on 2022-02-17, vote average 2*
+
+A woman desperately races to save her child after police place her hometown on lockdown due to an active shooter incident.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/1MWECKYcyJk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
 
 	
 
@@ -461,9 +567,28 @@ An ad executive and a fashion designer-blogger don&#39;t believe in love, so the
 	
 
 	
+	
+	
 
 	
 
+	
+	
+
+### After Blue (Dirty Paradise)
+*Released on 2022-02-16, vote average 2*
+
+In a distant future, on a savage planet, the lonely teenager Roxy frees a criminal buried in the sand. Once freed, the woman starts spreading fear and death again. Roxy and her mother Zora are deemed responsible, exiled from their community and sentenced to track down the killer. Thus, they begin roaming the fantastical and spectral territories of their dirty paradise.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8-oKZ1cJPHM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 
