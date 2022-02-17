@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Through My Window
-*Released on 2022-02-04, vote average 8*
+### Marry Me
+*Released on 2022-02-09, vote average 7.1*
 
-Raquel&#39;s longtime crush on her next-door neighbor turns into something more when he starts developing feelings for her, despite his family&#39;s objections.
+Explores the possibilities of what might happen when a superstar marries an average Joe as a joke and discovers that perhaps there are no accidents.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/_zxhK3Z-R0c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Ebv9_rNb5Ig?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,19 +46,26 @@ Raquel&#39;s longtime crush on her next-door neighbor turns into something more 
 	
 	
 
-### Marry Me
-*Released on 2022-02-09, vote average 6.9*
+### Through My Window
+*Released on 2022-02-04, vote average 7.9*
 
-Explores the possibilities of what might happen when a superstar marries an average Joe as a joke and discovers that perhaps there are no accidents.
+Raquel&#39;s longtime crush on her next-door neighbor turns into something more when he starts developing feelings for her, despite his family&#39;s objections.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Ebv9_rNb5Ig?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/_zxhK3Z-R0c?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -76,7 +83,7 @@ Explores the possibilities of what might happen when a superstar marries an aver
 	
 
 ### Uncharted
-*Released on 2022-02-10, vote average 7.9*
+*Released on 2022-02-10, vote average 7.8*
 
 A young street-smart, Nathan Drake and his wisecracking partner Victor “Sully” Sullivan embark on a dangerous pursuit of “the greatest treasure never found” while also tracking clues that may lead to Nathan’s long-lost brother.
 
@@ -88,13 +95,6 @@ A young street-smart, Nathan Drake and his wisecracking partner Victor “Sully�
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -126,30 +126,8 @@ Catwoman&#39;s attempt to steal a priceless jewel puts her squarely in the cross
 	
 	
 
-### The Tinder Swindler
-*Released on 2022-02-02, vote average 7*
-
-Posing as a wealthy, jet-setting diamond mogul, an Israeli conman wooed women online then conned them out of millions of dollars. Now some victims plan for payback.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/_R3LWM_Vt70?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Moonfall
-*Released on 2022-02-03, vote average 6.1*
+*Released on 2022-02-03, vote average 6*
 
 A mysterious force knocks the moon from its orbit around Earth and sends it hurtling on a collision course with life as we know it.
 
@@ -158,28 +136,6 @@ A mysterious force knocks the moon from its orbit around Earth and sends it hurt
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/1Z3MXc8KloU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Death on the Nile
-*Released on 2022-02-09, vote average 6.8*
-
-Belgian sleuth Hercule Poirot boards a glamorous river steamer with enough champagne to fill the Nile. But his Egyptian vacation turns into a thrilling search for a murderer when a picture-perfect couple’s idyllic honeymoon is tragically cut short.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Ru6jhGltdzc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -221,8 +177,30 @@ A tech worker with agoraphobia discovers recorded evidence of a violent crime, b
 	
 	
 
+### Death on the Nile
+*Released on 2022-02-09, vote average 6.8*
+
+Belgian sleuth Hercule Poirot boards a glamorous river steamer with enough champagne to fill the Nile. But his Egyptian vacation turns into a thrilling search for a murderer when a picture-perfect couple’s idyllic honeymoon is tragically cut short.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Ru6jhGltdzc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Tall Girl 2
-*Released on 2022-02-11, vote average 6.5*
+*Released on 2022-02-11, vote average 6.3*
 
 After Jodi Kreyman gains popularity, her miscommunications start causing rifts with those around her and now she really needs to &#34;stand tall&#34;.
 
@@ -266,7 +244,7 @@ Lennie is a teen musical prodigy grieving the death of her sister when she finds
 	
 
 ### Love and Leashes
-*Released on 2022-02-11, vote average 6.1*
+*Released on 2022-02-11, vote average 6.2*
 
 Love never hurt so good for two co-workers who enter a contractual relationship as partners in consensual play, pleasure and pain.
 
@@ -288,7 +266,7 @@ Love never hurt so good for two co-workers who enter a contractual relationship 
 	
 
 ### I Want You Back
-*Released on 2022-02-10, vote average 6.2*
+*Released on 2022-02-10, vote average 6.1*
 
 Peter and Emma thought they were on the precipice of life’s biggest moments – marriage, kids, and houses in the suburbs – until their respective partners dumped them. Horrified to learn that the loves of their lives have already moved on, Peter and Emma hatch a hilarious plan to win back their exes with unexpected results.
 
@@ -310,7 +288,7 @@ Peter and Emma thought they were on the precipice of life’s biggest moments �
 	
 
 ### Bigbug
-*Released on 2022-02-11, vote average 5.6*
+*Released on 2022-02-11, vote average 5.5*
 
 Humans have ceded most tasks to AI in 2045, even in nostalgic Alice&#39;s home. So when robots stage a coup, her androids protectively lock her doors.
 
@@ -332,7 +310,7 @@ Humans have ceded most tasks to AI in 2045, even in nostalgic Alice&#39;s home. 
 	
 
 ### Love Tactics
-*Released on 2022-02-11, vote average 6.9*
+*Released on 2022-02-11, vote average 7*
 
 An ad executive and a fashion designer-blogger don&#39;t believe in love, so they place a bet to make the other fall head over heels - with unusual tactics.
 
@@ -351,6 +329,28 @@ An ad executive and a fashion designer-blogger don&#39;t believe in love, so the
 
 
 	
+	
+	
+
+  
+
+
+	
+	
+
+### Dog
+*Released on 2022-02-17, vote average 6*
+
+An army ranger and his dog embark on a road trip along the Pacific Coast Highway to attend a friend&#39;s funeral.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/JL6p4IAI23Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -382,16 +382,16 @@ Travis Block, a shadowy Government agent who specializes in removing operatives 
 	
 	
 
-### Catch the Fair One
-*Released on 2022-02-11, vote average 5.3*
+### Shut In
+*Released on 2022-02-10, vote average 6.4*
 
-A Native American boxer embarks on the fight of her life when she goes in search of her missing sister.
+A young single mother is held captive along with her two children by a violent ex and must plot their escape before it’s too late
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/lITIDvp1_o8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ERKAYaXDorM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -463,9 +463,49 @@ After nearly 50 years of hiding, Leatherface returns to terrorize a group of ide
 	
 
 	
+	
+	
 
 	
 	
+
+### The Desperate Hour
+*Released on 2022-02-17, vote average 2*
+
+A woman desperately races to save her child after police place her hometown on lockdown due to an active shooter incident.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/1MWECKYcyJk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### Pinocchio: A True Story
+*Released on 2022-02-17, vote average 2*
+
+Think you know the story of Pinocchio? Think again! In this thrilling, humorous take on the classic tale, the wooden hero is a skilled acrobat who performs stunts with his beloved horse, the wisecracking Tybalt. He runs off to join a circus, where he falls for the ringmaster’s daughter, Bella. But when Pinocchio learns the circus is a cover-up for robberies, he must stop the crime spree in order to save Bella – and, hopefully, become human.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Z4ArXSwALDU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
 	
 
 	
@@ -490,68 +530,13 @@ A rock climbing adventure between two friends turns into a terrifying nightmare.
 	
 
 	
-	
+
 	
 
 	
-	
-
-### Jews of the Wild West
-*Released on 2022-02-16, vote average 2*
-
-“Jews of the Wild West” is a feature-length documentary completed in December 2021. The independent not-for-profit project is produced by Electric Yolk Media and directed by award-winning filmmaker Amanda Kinsey. Through on-camera interviews, compelling footage, and historical photographs, the film tells the positive immigration story and highlights the dynamic contributions Jewish Americans made to shaping the Western United States.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EX00KWGgn2w?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
-	
 
-	
-	
-	
-
-	
-	
-
-### Pinocchio: A True Story
-*Released on 2022-02-17, vote average 2*
-
-Think you know the story of Pinocchio? Think again! In this thrilling, humorous take on the classic tale, the wooden hero is a skilled acrobat who performs stunts with his beloved horse, the wisecracking Tybalt. He runs off to join a circus, where he falls for the ringmaster’s daughter, Bella. But when Pinocchio learns the circus is a cover-up for robberies, he must stop the crime spree in order to save Bella – and, hopefully, become human.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Z4ArXSwALDU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### The Desperate Hour
-*Released on 2022-02-17, vote average 2*
-
-A woman desperately races to save her child after police place her hometown on lockdown due to an active shooter incident.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/1MWECKYcyJk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
@@ -561,34 +546,7 @@ A woman desperately races to save her child after police place her hometown on l
 	
 
 	
-	
-	
 
-	
-
-	
-	
-	
-
-	
-
-	
-	
-
-### After Blue (Dirty Paradise)
-*Released on 2022-02-16, vote average 2*
-
-In a distant future, on a savage planet, the lonely teenager Roxy frees a criminal buried in the sand. Once freed, the woman starts spreading fear and death again. Roxy and her mother Zora are deemed responsible, exiled from their community and sentenced to track down the killer. Thus, they begin roaming the fantastical and spectral territories of their dirty paradise.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8-oKZ1cJPHM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 
