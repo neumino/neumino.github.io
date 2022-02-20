@@ -47,7 +47,7 @@ Music superstars Kat Valdez and Bastian are getting married before a global audi
 	
 
 ### Uncharted
-*Released on 2022-02-10, vote average 7.5*
+*Released on 2022-02-10, vote average 7.3*
 
 A young street-smart, Nathan Drake and his wisecracking partner Victor “Sully” Sullivan embark on a dangerous pursuit of “the greatest treasure never found” while also tracking clues that may lead to Nathan’s long-lost brother.
 
@@ -55,10 +55,17 @@ A young street-smart, Nathan Drake and his wisecracking partner Victor “Sully�
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/bHqzxjQkgXc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/pENp92K_mnM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -78,28 +85,6 @@ A tech worker with agoraphobia discovers recorded evidence of a violent crime, b
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/67S8ru4K4x4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Catwoman: Hunted
-*Released on 2022-02-07, vote average 6.4*
-
-Catwoman&#39;s attempt to steal a priceless jewel puts her squarely in the crosshairs of both a powerful consortium of villains and the ever-resourceful Interpol, not to mention Batwoman.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vE8x9JiQ4sM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -133,13 +118,6 @@ After Jodi Kreyman gains popularity, her miscommunications start causing rifts w
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### The Sky Is Everywhere
 *Released on 2022-02-11, vote average 6.3*
@@ -151,6 +129,28 @@ Lennie is a teen musical prodigy grieving the death of her sister when she finds
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/7R_5fSWvGs4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Bigbug
+*Released on 2022-02-11, vote average 5.5*
+
+Humans have ceded most tasks to AI in 2045, even in nostalgic Alice&#39;s home. So when robots stage a coup, her androids protectively lock her doors.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/N-sWlgFhUGo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -185,16 +185,38 @@ Love never hurt so good for two co-workers who enter a contractual relationship 
 	
 	
 
-### Bigbug
-*Released on 2022-02-11, vote average 5.5*
+### Catwoman: Hunted
+*Released on 2022-02-07, vote average 6.2*
 
-Humans have ceded most tasks to AI in 2045, even in nostalgic Alice&#39;s home. So when robots stage a coup, her androids protectively lock her doors.
+Catwoman&#39;s attempt to steal a priceless jewel puts her squarely in the crosshairs of both a powerful consortium of villains and the ever-resourceful Interpol, not to mention Batwoman.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/N-sWlgFhUGo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/vE8x9JiQ4sM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Love Tactics
+*Released on 2022-02-11, vote average 7*
+
+An ad executive and a fashion designer-blogger don&#39;t believe in love, so they place a bet to make the other fall head over heels - with unusual tactics.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ExfET5C8dFg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -250,50 +272,6 @@ Belgian sleuth Hercule Poirot boards a glamorous river steamer with enough champ
 
 	
 	
-
-### Love Tactics
-*Released on 2022-02-11, vote average 7*
-
-An ad executive and a fashion designer-blogger don&#39;t believe in love, so they place a bet to make the other fall head over heels - with unusual tactics.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ExfET5C8dFg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Dog
-*Released on 2022-02-17, vote average 4.7*
-
-An army ranger and his dog embark on a road trip along the Pacific Coast Highway to attend a friend&#39;s funeral.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/JL6p4IAI23Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -312,6 +290,72 @@ After nearly 50 years of hiding, Leatherface returns to terrorize a group of ide
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/zcI6SFiK_yk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Dog
+*Released on 2022-02-17, vote average 4.7*
+
+An army ranger and his dog embark on a road trip along the Pacific Coast Highway to attend a friend&#39;s funeral.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ymzLYEFU6wo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### AI Love You
+*Released on 2022-02-15, vote average 4.9*
+
+A modern love story set in the near future where an AI building is powered by human feelings. Due to a software glitch, it falls in love with a real girl, escapes the building into the body of a real man, and tries to win her affections.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kVlPF24TXsM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Fistful of Vengeance
+*Released on 2022-02-17, vote average 5.9*
+
+A revenge mission becomes a fight to save the world from an ancient threat when superpowered assassin Kai tracks a killer to Bangkok.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vC_n_L1KGbo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -345,21 +389,6 @@ Travis Block, a shadowy Government agent who specializes in removing operatives 
 
 	
 	
-
-### AI Love You
-*Released on 2022-02-15, vote average 5.2*
-
-A modern love story set in the near future where an AI building is powered by human feelings. Due to a software glitch, it falls in love with a real girl, escapes the building into the body of a real man, and tries to win her affections.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kVlPF24TXsM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -368,60 +397,16 @@ A modern love story set in the near future where an AI building is powered by hu
 	
 	
 
-### Fistful of Vengeance
-*Released on 2022-02-17, vote average 6.2*
-
-A revenge mission becomes a fight to save the world from an ancient threat when superpowered assassin Kai tracks a killer to Bangkok.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vC_n_L1KGbo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Jeepers Creepers: Reborn
+### King Knight
 *Released on 2022-02-17, vote average 2*
 
-Forced to travel with her boyfriend to a horror festival, Laine begins to experience disturbing visions associated with the urban legend of The Creeper. As the festival arrives and the blood-soaked entertainment builds to a frenzy, she believes that something unearthly has been summoned… and that she is at the center of it.
+The High Priest of a modern-day coven finds his life thrown into turmoil and ventures out on a journey of self-discovery.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/X68NG1ST_TQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Ledge
-*Released on 2022-02-18, vote average 6.6*
-
-A rock climbing adventure between two friends turns into a terrifying nightmare. After Kelly captures the murder of her best friend on camera, she becomes the next target of a tight-knit group of friends who will stop at nothing to destroy the evidence and anyone in their way. Desperate for her safety, she begins a treacherous climb up a mountain cliff and her survival instincts are put to the test when she becomes trapped with the killers just 20 feet away.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/JGBa03UPCBU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/T8n-RXlYSe0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -454,23 +439,6 @@ A murder investigation is reignited in a house that is considered haunted by the
 	
 	
 
-	
-	
-
-### The Wedding Veil Legacy
-*Released on 2022-02-19, vote average 2*
-
-Trаcy meets Nick in the third instаllment of the trilogy, аnd he helps her sаve аn originаl drаft of The New Colossus in exchаnge for her helping him run his restаurаnt. Trаcy begins to feel uneаsy аs they get closer.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/fYIGy0W1w50?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
