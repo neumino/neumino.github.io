@@ -47,7 +47,7 @@ Music superstars Kat Valdez and Bastian are getting married before a global audi
 	
 
 ### Uncharted
-*Released on 2022-02-10, vote average 7.3*
+*Released on 2022-02-10, vote average 7.1*
 
 A young street-smart, Nathan Drake and his wisecracking partner Victor “Sully” Sullivan embark on a dangerous pursuit of “the greatest treasure never found” while also tracking clues that may lead to Nathan’s long-lost brother.
 
@@ -55,17 +55,10 @@ A young street-smart, Nathan Drake and his wisecracking partner Victor “Sully�
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/pENp92K_mnM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Dh7SZ5xDb00?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -96,9 +89,38 @@ A tech worker with agoraphobia discovers recorded evidence of a violent crime, b
 
 	
 	
+	
+
+  
+
+
+	
+	
+
+### Bigbug
+*Released on 2022-02-11, vote average 5.5*
+
+Humans have ceded most tasks to AI in 2045, even in nostalgic Alice&#39;s home. So when robots stage a coup, her androids protectively lock her doors.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/N-sWlgFhUGo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
 
 ### Tall Girl 2
-*Released on 2022-02-11, vote average 6*
+*Released on 2022-02-11, vote average 5.9*
 
 After Jodi Kreyman gains popularity, her miscommunications start causing rifts with those around her and now she really needs to &#34;stand tall&#34;.
 
@@ -120,7 +142,7 @@ After Jodi Kreyman gains popularity, her miscommunications start causing rifts w
 	
 
 ### The Sky Is Everywhere
-*Released on 2022-02-11, vote average 6.3*
+*Released on 2022-02-11, vote average 6*
 
 Lennie is a teen musical prodigy grieving the death of her sister when she finds herself caught between a new guy at school and her sister&#39;s devastated boyfriend. Through her vivid imagination and conflicted heart, Lennie navigates first love and first loss.
 
@@ -141,16 +163,16 @@ Lennie is a teen musical prodigy grieving the death of her sister when she finds
 	
 	
 
-### Bigbug
-*Released on 2022-02-11, vote average 5.5*
+### Love Tactics
+*Released on 2022-02-11, vote average 6.9*
 
-Humans have ceded most tasks to AI in 2045, even in nostalgic Alice&#39;s home. So when robots stage a coup, her androids protectively lock her doors.
+An ad executive and a fashion designer-blogger don&#39;t believe in love, so they place a bet to make the other fall head over heels - with unusual tactics.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/N-sWlgFhUGo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ExfET5C8dFg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -186,7 +208,7 @@ Love never hurt so good for two co-workers who enter a contractual relationship 
 	
 
 ### Catwoman: Hunted
-*Released on 2022-02-07, vote average 6.2*
+*Released on 2022-02-07, vote average 6.4*
 
 Catwoman&#39;s attempt to steal a priceless jewel puts her squarely in the crosshairs of both a powerful consortium of villains and the ever-resourceful Interpol, not to mention Batwoman.
 
@@ -207,30 +229,8 @@ Catwoman&#39;s attempt to steal a priceless jewel puts her squarely in the cross
 	
 	
 
-### Love Tactics
-*Released on 2022-02-11, vote average 7*
-
-An ad executive and a fashion designer-blogger don&#39;t believe in love, so they place a bet to make the other fall head over heels - with unusual tactics.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ExfET5C8dFg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### I Want You Back
-*Released on 2022-02-10, vote average 6.1*
+*Released on 2022-02-10, vote average 6*
 
 Peter and Emma thought they were on the precipice of life’s biggest moments – marriage, kids, and houses in the suburbs – until their respective partners dumped them. Horrified to learn that the loves of their lives have already moved on, Peter and Emma hatch a hilarious plan to win back their exes with unexpected results.
 
@@ -281,7 +281,7 @@ Belgian sleuth Hercule Poirot boards a glamorous river steamer with enough champ
 	
 
 ### Texas Chainsaw Massacre
-*Released on 2022-02-18, vote average 5.5*
+*Released on 2022-02-18, vote average 5.3*
 
 After nearly 50 years of hiding, Leatherface returns to terrorize a group of idealistic young friends who accidentally disrupt his carefully shielded world in a remote Texas town.
 
@@ -290,28 +290,6 @@ After nearly 50 years of hiding, Leatherface returns to terrorize a group of ide
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/zcI6SFiK_yk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Dog
-*Released on 2022-02-17, vote average 4.7*
-
-An army ranger and his dog embark on a road trip along the Pacific Coast Highway to attend a friend&#39;s funeral.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ymzLYEFU6wo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -347,7 +325,7 @@ A modern love story set in the near future where an AI building is powered by hu
 	
 
 ### Fistful of Vengeance
-*Released on 2022-02-17, vote average 5.9*
+*Released on 2022-02-17, vote average 5.7*
 
 A revenge mission becomes a fight to save the world from an ancient threat when superpowered assassin Kai tracks a killer to Bangkok.
 
@@ -359,6 +337,35 @@ A revenge mission becomes a fight to save the world from an ancient threat when 
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+	
+
+### Dog
+*Released on 2022-02-17, vote average 6*
+
+An army ranger and his dog embark on a road trip along the Pacific Coast Highway to attend a friend&#39;s funeral.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ymzLYEFU6wo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -394,61 +401,39 @@ Travis Block, a shadowy Government agent who specializes in removing operatives 
   
 
 
-	
-	
-
-### King Knight
-*Released on 2022-02-17, vote average 2*
-
-The High Priest of a modern-day coven finds his life thrown into turmoil and ventures out on a journey of self-discovery.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/T8n-RXlYSe0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 
 ## Opening soon
 
 
 	
+
 	
 
-### Aurora Teagarden Mysteries: Haunted By Murder
-*Released on 2022-02-20, vote average 2*
+	
 
-A murder investigation is reignited in a house that is considered haunted by the Lawrenceton locals and where years ago Aurora and Sally, as teenagers, discovered a body.
+	
+
+	
+
+	
+
+	
+	
+
+### Three Months
+*Released on 2022-02-23, vote average 9*
+
+A darkly comedic, coming-of-age film, that tells the story of Caleb, a punk gay teenager from Miami who is exposed to HIV the weekend of his high school graduation. Unsure of his future, he starts a new relationship with someone from his support group as he waits the three months it takes to get tested.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/P4fqdqusRdk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/9QUnHtGBEug?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
