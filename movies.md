@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Marry Me
-*Released on 2022-02-09, vote average 7*
+*Released on 2022-02-09, vote average 6.9*
 
 Music superstars Kat Valdez and Bastian are getting married before a global audience of fans. But when Kat learns, seconds before her vows, that Bastian has been unfaithful, she decides to marry Charlie, a stranger in the crowd, instead.
 
@@ -47,7 +47,7 @@ Music superstars Kat Valdez and Bastian are getting married before a global audi
 	
 
 ### Uncharted
-*Released on 2022-02-10, vote average 7.1*
+*Released on 2022-02-10, vote average 7.2*
 
 A young street-smart, Nathan Drake and his wisecracking partner Victor “Sully” Sullivan embark on a dangerous pursuit of “the greatest treasure never found” while also tracking clues that may lead to Nathan’s long-lost brother.
 
@@ -69,7 +69,7 @@ A young street-smart, Nathan Drake and his wisecracking partner Victor “Sully�
 	
 
 ### Kimi
-*Released on 2022-02-10, vote average 6.3*
+*Released on 2022-02-10, vote average 6.2*
 
 A tech worker with agoraphobia discovers recorded evidence of a violent crime, but is met with resistance when she tries to report it. Seeking justice, she must do the thing she fears the most: she must leave her apartment.
 
@@ -142,7 +142,7 @@ After Jodi Kreyman gains popularity, her miscommunications start causing rifts w
 	
 
 ### The Sky Is Everywhere
-*Released on 2022-02-11, vote average 6*
+*Released on 2022-02-11, vote average 6.1*
 
 Lennie is a teen musical prodigy grieving the death of her sister when she finds herself caught between a new guy at school and her sister&#39;s devastated boyfriend. Through her vivid imagination and conflicted heart, Lennie navigates first love and first loss.
 
@@ -164,7 +164,7 @@ Lennie is a teen musical prodigy grieving the death of her sister when she finds
 	
 
 ### Love Tactics
-*Released on 2022-02-11, vote average 6.9*
+*Released on 2022-02-11, vote average 7*
 
 An ad executive and a fashion designer-blogger don&#39;t believe in love, so they place a bet to make the other fall head over heels - with unusual tactics.
 
@@ -186,7 +186,7 @@ An ad executive and a fashion designer-blogger don&#39;t believe in love, so the
 	
 
 ### Love and Leashes
-*Released on 2022-02-11, vote average 6.4*
+*Released on 2022-02-11, vote average 6.5*
 
 Love never hurt so good for two co-workers who enter a contractual relationship as partners in consensual play, pleasure and pain.
 
@@ -207,30 +207,8 @@ Love never hurt so good for two co-workers who enter a contractual relationship 
 	
 	
 
-### Catwoman: Hunted
-*Released on 2022-02-07, vote average 6.4*
-
-Catwoman&#39;s attempt to steal a priceless jewel puts her squarely in the crosshairs of both a powerful consortium of villains and the ever-resourceful Interpol, not to mention Batwoman.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vE8x9JiQ4sM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### I Want You Back
-*Released on 2022-02-10, vote average 6*
+*Released on 2022-02-10, vote average 6.1*
 
 Peter and Emma thought they were on the precipice of life’s biggest moments – marriage, kids, and houses in the suburbs – until their respective partners dumped them. Horrified to learn that the loves of their lives have already moved on, Peter and Emma hatch a hilarious plan to win back their exes with unexpected results.
 
@@ -272,18 +250,11 @@ Belgian sleuth Hercule Poirot boards a glamorous river steamer with enough champ
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Texas Chainsaw Massacre
 *Released on 2022-02-18, vote average 5.3*
 
-After nearly 50 years of hiding, Leatherface returns to terrorize a group of idealistic young friends who accidentally disrupt his carefully shielded world in a remote Texas town.
+In this sequel, influencers looking to breathe new life into a Texas ghost town encounter Leatherface, an infamous killer who wears a mask of human skin.
 
 <iframe id="player"
 	type="text/html"
@@ -293,6 +264,13 @@ After nearly 50 years of hiding, Leatherface returns to terrorize a group of ide
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -325,7 +303,7 @@ A modern love story set in the near future where an AI building is powered by hu
 	
 
 ### Fistful of Vengeance
-*Released on 2022-02-17, vote average 5.7*
+*Released on 2022-02-17, vote average 5.9*
 
 A revenge mission becomes a fight to save the world from an ancient threat when superpowered assassin Kai tracks a killer to Bangkok.
 
@@ -347,7 +325,7 @@ A revenge mission becomes a fight to save the world from an ancient threat when 
 	
 
 ### Dog
-*Released on 2022-02-17, vote average 6*
+*Released on 2022-02-17, vote average 6.5*
 
 An army ranger and his dog embark on a road trip along the Pacific Coast Highway to attend a friend&#39;s funeral.
 
@@ -374,9 +352,16 @@ An army ranger and his dog embark on a road trip along the Pacific Coast Highway
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Blacklight
-*Released on 2022-02-10, vote average 5.4*
+*Released on 2022-02-10, vote average 5*
 
 Travis Block, a shadowy Government agent who specializes in removing operatives whose covers have been exposed, uncovers a deadly conspiracy within his own ranks that reaches the highest echelons of power.
 
@@ -396,6 +381,21 @@ Travis Block, a shadowy Government agent who specializes in removing operatives 
 
 	
 	
+
+### Ted K
+*Released on 2022-02-18, vote average 6.4*
+
+The True Story of Ted Kaczynski, the infamous Unabomber, who wants to destroy modern technology to create a world for himself in the Montana wilderness.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qKxmdETbxT8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -404,8 +404,6 @@ Travis Block, a shadowy Government agent who specializes in removing operatives 
 
 ## Opening soon
 
-
-	
 
 	
 
@@ -448,6 +446,10 @@ A darkly comedic, coming-of-age film, that tells the story of Caleb, a punk gay 
 
 	
 
+	
+
+	
+	
 	
 
 	
