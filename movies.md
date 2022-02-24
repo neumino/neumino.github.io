@@ -46,28 +46,6 @@ A tech worker with agoraphobia discovers recorded evidence of a violent crime bu
 	
 	
 
-### Marry Me
-*Released on 2022-02-09, vote average 6.9*
-
-Music superstars Kat Valdez and Bastian are getting married before a global audience of fans. But when Kat learns, seconds before her vows, that Bastian has been unfaithful, she decides to marry Charlie, a stranger in the crowd, instead.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Ebv9_rNb5Ig?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Uncharted
 *Released on 2022-02-10, vote average 7.2*
 
@@ -89,13 +67,6 @@ A young street-smart, Nathan Drake and his wisecracking partner Victor “Sully�
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Bigbug
 *Released on 2022-02-11, vote average 5.5*
@@ -107,6 +78,28 @@ Humans have ceded most tasks to AI in 2045, even in nostalgic Alice&#39;s home. 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/N-sWlgFhUGo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Texas Chainsaw Massacre
+*Released on 2022-02-18, vote average 5.2*
+
+In this sequel, influencers looking to breathe new life into a Texas ghost town encounter Leatherface, an infamous killer who wears a mask of human skin.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zcI6SFiK_yk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -207,16 +200,38 @@ Love never hurt so good for two co-workers who enter a contractual relationship 
 	
 	
 
-### Texas Chainsaw Massacre
-*Released on 2022-02-18, vote average 5.3*
+### AI Love You
+*Released on 2022-02-15, vote average 4.9*
 
-In this sequel, influencers looking to breathe new life into a Texas ghost town encounter Leatherface, an infamous killer who wears a mask of human skin.
+A modern love story set in the near future where an AI building is powered by human feelings. Due to a software glitch, it falls in love with a real girl, escapes the building into the body of a real man, and tries to win her affections.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/zcI6SFiK_yk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/kVlPF24TXsM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Fistful of Vengeance
+*Released on 2022-02-17, vote average 5.6*
+
+A revenge mission becomes a fight to save the world from an ancient threat when superpowered assassin Kai tracks a killer to Bangkok.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vC_n_L1KGbo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -250,65 +265,6 @@ Peter and Emma thought they were on the precipice of life’s biggest moments �
 
 	
 	
-
-### Death on the Nile
-*Released on 2022-02-09, vote average 6.7*
-
-Belgian sleuth Hercule Poirot boards a glamorous river steamer with enough champagne to fill the Nile. But his Egyptian vacation turns into a thrilling search for a murderer when a picture-perfect couple’s idyllic honeymoon is tragically cut short.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Ru6jhGltdzc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### AI Love You
-*Released on 2022-02-15, vote average 4.9*
-
-A modern love story set in the near future where an AI building is powered by human feelings. Due to a software glitch, it falls in love with a real girl, escapes the building into the body of a real man, and tries to win her affections.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kVlPF24TXsM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Fistful of Vengeance
-*Released on 2022-02-17, vote average 5.7*
-
-A revenge mission becomes a fight to save the world from an ancient threat when superpowered assassin Kai tracks a killer to Bangkok.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vC_n_L1KGbo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -322,35 +278,6 @@ A revenge mission becomes a fight to save the world from an ancient threat when 
 
 
 	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Dog
-*Released on 2022-02-17, vote average 6.5*
-
-An army ranger and his dog embark on a road trip along the Pacific Coast Highway to attend a friend&#39;s funeral.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ymzLYEFU6wo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -382,6 +309,72 @@ A murder investigation is reignited in a house that is considered haunted by the
 	
 	
 
+### Dog
+*Released on 2022-02-17, vote average 6.6*
+
+An army ranger and his dog embark on a road trip along the Pacific Coast Highway to attend a friend&#39;s funeral.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ymzLYEFU6wo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Wedding Veil Legacy
+*Released on 2022-02-19, vote average 6*
+
+Trаcy meets Nick in the third instаllment of the trilogy, аnd he helps her sаve аn originаl drаft of The New Colossus in exchаnge for her helping him run his restаurаnt. Trаcy begins to feel uneаsy аs they get closer.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fYIGy0W1w50?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Ted K
+*Released on 2022-02-18, vote average 5.8*
+
+The True Story of Ted Kaczynski, the infamous Unabomber, who wants to destroy modern technology to create a world for himself in the Montana wilderness.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qKxmdETbxT8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The In Between
 *Released on 2022-02-11, vote average 6.8*
 
@@ -392,6 +385,28 @@ After surviving a car accident that took the life of her boyfriend, a teenage gi
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/XpRmKWeLpjc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Blacklight
+*Released on 2022-02-10, vote average 5*
+
+Travis Block, a shadowy Government agent who specializes in removing operatives whose covers have been exposed, uncovers a deadly conspiracy within his own ranks that reaches the highest echelons of power.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/k_N9pU4FMOs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -428,17 +443,50 @@ Legendary rock band Foo Fighters move into an Encino mansion steeped in grisly r
 
 	
 	
+	
 
-### Three Months
-*Released on 2022-02-23, vote average 5.5*
+	
 
-A darkly comedic, coming-of-age film, that tells the story of Caleb, a punk gay teenager from Miami who is exposed to HIV the weekend of his high school graduation. Unsure of his future, he starts a new relationship with someone from his support group as he waits the three months it takes to get tested.
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Dark Glasses
+*Released on 2022-02-24, vote average 4*
+
+A serial killer who preys on prostitutes sets his sights on Diana. As he pursues her, he causes a car crash in which she is blinded and 10-year-old Chin’s entire family dies. Despite her blindness, Diane resolves to take the boy in. But the killer is still on the loose...
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/9QUnHtGBEug?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/_t0r8wZhjM0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### Tyler Perry&#39;s A Madea Homecoming
+*Released on 2022-02-25, vote average 10*
+
+Madea&#39;s back - hallelujer! And she&#39;s not putting up with any nonsense as family drama erupts at her great-grandson&#39;s college graduation celebration.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/afJXk-RgzoQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -448,25 +496,24 @@ A darkly comedic, coming-of-age film, that tells the story of Caleb, a punk gay 
 	
 
 	
-	
-	
-
-	
 
 	
 	
-	
+
+### Gasoline Alley
+*Released on 2022-02-25, vote average 2*
+
+A man implicated in the triple homicide of three Hollywood starlets begins his own investigation. Needing assistance, he enlists the two detectives on his tail in order to expose a conspiracy more explosive than any of them imagined.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/RN01Qcw_85E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
