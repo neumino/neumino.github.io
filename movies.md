@@ -148,28 +148,6 @@ Detective Breslin crosses paths with Calloway, a ruthless hacker desperate to fi
 	
 	
 
-### Dog
-*Released on 2022-02-17, vote average 8*
-
-An army ranger and his dog embark on a road trip along the Pacific Coast Highway to attend a friend&#39;s funeral.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ymzLYEFU6wo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### No Exit
 *Released on 2022-02-25, vote average 6.5*
 
@@ -192,16 +170,16 @@ Stranded at a rest stop in the mountains during a blizzard, a young woman discov
 	
 	
 
-### The Wedding Veil Legacy
-*Released on 2022-02-19, vote average 6*
+### Dog
+*Released on 2022-02-17, vote average 8.1*
 
-Trаcy meets Nick in the third instаllment of the trilogy, аnd he helps her sаve аn originаl drаft of The New Colossus in exchаnge for her helping him run his restаurаnt. Trаcy begins to feel uneаsy аs they get closer.
+An army ranger and his dog embark on a road trip along the Pacific Coast Highway to attend a friend&#39;s funeral.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/fYIGy0W1w50?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ymzLYEFU6wo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -212,21 +190,6 @@ Trаcy meets Nick in the third instаllment of the trilogy, аnd he helps her s�
 
 
 	
-	
-
-### Three Months
-*Released on 2022-02-23, vote average 6.3*
-
-A darkly comedic, coming-of-age film, that tells the story of Caleb, a punk gay teenager from Miami who is exposed to HIV the weekend of his high school graduation. Unsure of his future, he starts a new relationship with someone from his support group as he waits the three months it takes to get tested.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/9QUnHtGBEug?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -237,7 +200,7 @@ A darkly comedic, coming-of-age film, that tells the story of Caleb, a punk gay 
 	
 
 ### Tyler Perry&#39;s A Madea Homecoming
-*Released on 2022-02-25, vote average 6*
+*Released on 2022-02-25, vote average 7.1*
 
 Madea&#39;s back - hallelujer! And she&#39;s not putting up with any nonsense as family drama erupts at her great-grandson&#39;s college graduation celebration.
 
@@ -249,13 +212,6 @@ Madea&#39;s back - hallelujer! And she&#39;s not putting up with any nonsense as
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -287,16 +243,89 @@ A man implicated in the triple homicide of three Hollywood starlets begins his o
 	
 	
 
-### Aurora Teagarden Mysteries: Haunted By Murder
-*Released on 2022-02-20, vote average 4.5*
+### The Wedding Veil Legacy
+*Released on 2022-02-19, vote average 6.3*
 
-A murder investigation is reignited in a house that is considered haunted by the Lawrenceton locals and where years ago Aurora and Sally, as teenagers, discovered a body.
+Trаcy meets Nick in the third instаllment of the trilogy, аnd he helps her sаve аn originаl drаft of The New Colossus in exchаnge for her helping him run his restаurаnt. Trаcy begins to feel uneаsy аs they get closer.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/P4fqdqusRdk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/fYIGy0W1w50?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Desperate Riders
+*Released on 2022-02-25, vote average 7*
+
+After Kansas Red rescues young Billy from a card-game shootout, the boy asks Red for help protecting his family from the outlaw Thorn, who’s just kidnapped Billy’s mother, Carol. As Red and Billy ride off to rescue Carol, they run into beautiful, tough-as-nails Leslie, who’s managed to escape Thorn’s men. The three race to stop Thorn’s wedding to Carol with guns a-blazing - but does she want to be rescued?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/AAwn9GqBiSY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Restless
+*Released on 2022-02-25, vote average 5.5*
+
+After going to extremes to cover up an accident, a corrupt cop&#39;s life spirals out of control when he starts receiving threats from a mysterious witness.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/L8tCoWmooRE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Three Months
+*Released on 2022-02-23, vote average 6.3*
+
+Caleb, a gay teenager from Miami, is exposed to HIV the weekend of his high school graduation. Unsure of his future, he starts a new relationship with someone from his support group as he waits the three months it takes to get tested.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/9QUnHtGBEug?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -310,7 +339,7 @@ A murder investigation is reignited in a house that is considered haunted by the
 	
 
 ### Studio 666
-*Released on 2022-02-24, vote average 2*
+*Released on 2022-02-24, vote average 4.8*
 
 Legendary rock band Foo Fighters move into an Encino mansion steeped in grisly rock and roll history to record their much anticipated 10th album. Once in the house, Dave Grohl finds himself grappling with supernatural forces that threaten both the completion of the album and the lives of the band.
 
@@ -328,28 +357,6 @@ Legendary rock band Foo Fighters move into an Encino mansion steeped in grisly r
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Family Squares
-*Released on 2022-02-25, vote average 5*
-
-The Worth Family has been divided for years but when the matriarch, Grandma Mabel dies suddenly, the family has to come together. The story of Family Squares takes the Worth Family on a journey discovering that not only did Grandma Mabel keep some secrets, so did everyone else. They find their way back to each other and realize that while you can’t choose your family, you can choose to be friends with them.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/4-iqHRDMbIk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -377,28 +384,6 @@ Recounts the story of fledgling writer Samuel Liston and his experiences with Fl
   
 
 
-	
-	
-
-### Desperate Riders
-*Released on 2022-02-25, vote average 6.3*
-
-After Kansas Red rescues young Billy from a card-game shootout, the boy asks Red for help protecting his family from the outlaw Thorn, who’s just kidnapped Billy’s mother, Carol. As Red and Billy ride off to rescue Carol, they run into beautiful, tough-as-nails Leslie, who’s managed to escape Thorn’s men. The three race to stop Thorn’s wedding to Carol with guns a-blazing - but does she want to be rescued?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/AAwn9GqBiSY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -407,7 +392,7 @@ After Kansas Red rescues young Billy from a card-game shootout, the boy asks Red
 	
 
 ### The Batman
-*Released on 2022-03-01, vote average 7.4*
+*Released on 2022-03-01, vote average 5.9*
 
 In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.
 
@@ -448,6 +433,23 @@ In his second year of fighting crime, Batman uncovers corruption in Gotham City 
 
 	
 
+	
+	
+
+### Zero Fucks Given
+*Released on 2022-03-02, vote average 7.5*
+
+Cassandra, 26, is a flight attendant for a low-cost airline. Based in Lanzarote, she’s always willing to take on extra hours and carries out her duties with robotic efficiency. On the side, she just goes with the flow and floats between Tinder, parties and lazy days. When she suddenly gets dismissed, she is forced to return home.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/DC6D6sgALgU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
