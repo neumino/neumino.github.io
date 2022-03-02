@@ -46,6 +46,28 @@ In this sequel, influencers looking to breathe new life into a Texas ghost town 
 	
 	
 
+### Fistful of Vengeance
+*Released on 2022-02-17, vote average 5.3*
+
+A revenge mission becomes a fight to save the world from an ancient threat when superpowered assassin Kai tracks a killer to Bangkok.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vC_n_L1KGbo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Hotel Transylvania: Transformania
 *Released on 2022-02-25, vote average 6.9*
 
@@ -68,59 +90,8 @@ When Van Helsing&#39;s mysterious invention, the &#34;Monsterfication Ray,&#34; 
 	
 	
 
-### Fistful of Vengeance
-*Released on 2022-02-17, vote average 5.4*
-
-A revenge mission becomes a fight to save the world from an ancient threat when superpowered assassin Kai tracks a killer to Bangkok.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vC_n_L1KGbo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### AI Love You
-*Released on 2022-02-15, vote average 4.4*
-
-A modern love story set in the near future where an AI building is powered by human feelings. Due to a software glitch, it falls in love with a real girl, escapes the building into the body of a real man, and tries to win her affections.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kVlPF24TXsM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
 ### The Batman
-*Released on 2022-03-01, vote average 7.1*
+*Released on 2022-03-01, vote average 7.3*
 
 In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.
 
@@ -132,6 +103,13 @@ In his second year of fighting crime, Batman uncovers corruption in Gotham City 
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -171,7 +149,7 @@ Detective Breslin crosses paths with Calloway, a ruthless hacker desperate to fi
 	
 
 ### No Exit
-*Released on 2022-02-25, vote average 6.5*
+*Released on 2022-02-25, vote average 6.3*
 
 Stranded at a rest stop in the mountains during a blizzard, a recovering addict discovers a kidnapped child hidden in a car belonging to one of the people inside the building which sets her on a terrifying struggle to identify who among them is the kidnapper.
 
@@ -200,7 +178,7 @@ Stranded at a rest stop in the mountains during a blizzard, a recovering addict 
 	
 
 ### Tyler Perry&#39;s A Madea Homecoming
-*Released on 2022-02-25, vote average 6.8*
+*Released on 2022-02-25, vote average 6.7*
 
 Madea&#39;s back - hallelujer! And she&#39;s not putting up with any nonsense as family drama erupts at her great-grandson&#39;s college graduation celebration.
 
@@ -222,7 +200,7 @@ Madea&#39;s back - hallelujer! And she&#39;s not putting up with any nonsense as
 	
 
 ### Dog
-*Released on 2022-02-17, vote average 7.9*
+*Released on 2022-02-17, vote average 7.8*
 
 An army ranger and his dog embark on a road trip along the Pacific Coast Highway to attend a friend&#39;s funeral.
 
@@ -231,50 +209,6 @@ An army ranger and his dog embark on a road trip along the Pacific Coast Highway
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/ymzLYEFU6wo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Big Gold Brick
-*Released on 2022-02-25, vote average 4*
-
-Recounts the story of fledgling writer Samuel Liston and his experiences with Floyd Deveraux, the enigmatic, middle-aged father of two who enlists Samuel to write his biography.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/uDoQ2qzO8Rw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Desperate Riders
-*Released on 2022-02-25, vote average 7*
-
-After Kansas Red rescues young Billy from a card-game shootout, the boy asks Red for help protecting his family from the outlaw Thorn, who’s just kidnapped Billy’s mother, Carol. As Red and Billy ride off to rescue Carol, they run into beautiful, tough-as-nails Leslie, who’s managed to escape Thorn’s men. The three race to stop Thorn’s wedding to Carol with guns a-blazing - but does she want to be rescued?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/AAwn9GqBiSY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -309,16 +243,82 @@ After going to extremes to cover up an accident, a corrupt cop&#39;s life spiral
 	
 	
 
-### The Wedding Veil Legacy
-*Released on 2022-02-19, vote average 5.8*
+### The Wonderful Winter of Mickey Mouse
+*Released on 2022-02-18, vote average 7*
 
-Trаcy meets Nick in the third instаllment of the trilogy, аnd he helps her sаve аn originаl drаft of The New Colossus in exchаnge for her helping him run his restаurаnt. Trаcy begins to feel uneаsy аs they get closer.
+The wonder of the winter season takes Mickey Mouse and his friends on a journey through three magical stories.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/fYIGy0W1w50?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xHU5Fnzxcm4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Desperate Hour
+*Released on 2022-02-17, vote average 5.4*
+
+A woman desperately races to save her child after police place her hometown on lockdown due to an active shooter incident.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pDBZ3KGrQBs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Desperate Riders
+*Released on 2022-02-25, vote average 7.5*
+
+After Kansas Red rescues young Billy from a card-game shootout, the boy asks Red for help protecting his family from the outlaw Thorn, who’s just kidnapped Billy’s mother, Carol. As Red and Billy ride off to rescue Carol, they run into beautiful, tough-as-nails Leslie, who’s managed to escape Thorn’s men. The three race to stop Thorn’s wedding to Carol with guns a-blazing - but does she want to be rescued?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/AAwn9GqBiSY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Big Gold Brick
+*Released on 2022-02-25, vote average 4.7*
+
+Recounts the story of fledgling writer Samuel Liston and his experiences with Floyd Deveraux, the enigmatic, middle-aged father of two who enlists Samuel to write his biography.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/uDoQ2qzO8Rw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -359,26 +359,28 @@ A man implicated in the triple homicide of three Hollywood starlets begins his o
 
 	
 	
-
-### The Wonderful Winter of Mickey Mouse
-*Released on 2022-02-18, vote average 7*
-
-The wonder of the winter season takes Mickey Mouse and his friends on a journey through three magical stories.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xHU5Fnzxcm4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
 
 
+	
+	
+
+### The Wedding Veil Legacy
+*Released on 2022-02-19, vote average 5.8*
+
+Trаcy meets Nick in the third instаllment of the trilogy, аnd he helps her sаve аn originаl drаft of The New Colossus in exchаnge for her helping him run his restаurаnt. Trаcy begins to feel uneаsy аs they get closer.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fYIGy0W1w50?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -389,18 +391,22 @@ The wonder of the winter season takes Mickey Mouse and his friends on a journey 
 
 
 	
+
 	
 
-### The Batman
-*Released on 2022-03-01, vote average 7.1*
+	
+	
 
-In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.
+### Zero Fucks Given
+*Released on 2022-03-02, vote average 7.5*
+
+Cassandra, 26, is a flight attendant for a low-cost airline. Based in Lanzarote, she’s always willing to take on extra hours and carries out her duties with robotic efficiency. On the side, she just goes with the flow and floats between Tinder, parties and lazy days. When she suddenly gets dismissed, she is forced to return home.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Jtdh0Tkqfdw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/DC6D6sgALgU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -432,9 +438,7 @@ In his second year of fighting crime, Batman uncovers corruption in Gotham City 
 	
 
 	
-
 	
-
 	
 
 	
