@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Texas Chainsaw Massacre
-*Released on 2022-02-18, vote average 5.1*
+### Fistful of Vengeance
+*Released on 2022-02-17, vote average 5.2*
 
-In this sequel, influencers looking to breathe new life into a Texas ghost town encounter Leatherface, an infamous killer who wears a mask of human skin.
+A revenge mission becomes a fight to save the world from an ancient threat when superpowered assassin Kai tracks a killer to Bangkok.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/zcI6SFiK_yk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/vC_n_L1KGbo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ In this sequel, influencers looking to breathe new life into a Texas ghost town 
 	
 	
 
-### Fistful of Vengeance
-*Released on 2022-02-17, vote average 5.3*
+### Texas Chainsaw Massacre
+*Released on 2022-02-18, vote average 5.1*
 
-A revenge mission becomes a fight to save the world from an ancient threat when superpowered assassin Kai tracks a killer to Bangkok.
+In this sequel, influencers looking to breathe new life into a Texas ghost town encounter Leatherface, an infamous killer who wears a mask of human skin.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/vC_n_L1KGbo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/zcI6SFiK_yk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@ A revenge mission becomes a fight to save the world from an ancient threat when 
 	
 
 ### Hotel Transylvania: Transformania
-*Released on 2022-02-25, vote average 6.9*
+*Released on 2022-02-25, vote average 7*
 
 When Van Helsing&#39;s mysterious invention, the &#34;Monsterfication Ray,&#34; goes haywire, Drac and his monster pals are all transformed into humans, and Johnny becomes a monster. In their new mismatched bodies, Drac and Johnny must team up and race across the globe to find a cure before it&#39;s too late, and before they drive each other crazy.
 
@@ -91,7 +91,7 @@ When Van Helsing&#39;s mysterious invention, the &#34;Monsterfication Ray,&#34; 
 	
 
 ### The Batman
-*Released on 2022-03-01, vote average 7.3*
+*Released on 2022-03-01, vote average 8.1*
 
 In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.
 
@@ -127,7 +127,7 @@ In his second year of fighting crime, Batman uncovers corruption in Gotham City 
 	
 
 ### Pursuit
-*Released on 2022-02-18, vote average 6.8*
+*Released on 2022-02-18, vote average 6.4*
 
 Detective Breslin crosses paths with Calloway, a ruthless hacker desperate to find his wife, who has been kidnapped by a drug cartel. When Calloway escapes police custody, Breslin joins forces with a no-nonsense female cop to reclaim his prisoner. But is Calloway’s crime-boss father somehow involved in this explosive situation?
 
@@ -157,7 +157,7 @@ Stranded at a rest stop in the mountains during a blizzard, a recovering addict 
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/GFvupyiNEz0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Tt-PDDyiM2E?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -178,7 +178,7 @@ Stranded at a rest stop in the mountains during a blizzard, a recovering addict 
 	
 
 ### Tyler Perry&#39;s A Madea Homecoming
-*Released on 2022-02-25, vote average 6.7*
+*Released on 2022-02-25, vote average 7*
 
 Madea&#39;s back - hallelujer! And she&#39;s not putting up with any nonsense as family drama erupts at her great-grandson&#39;s college graduation celebration.
 
@@ -187,28 +187,6 @@ Madea&#39;s back - hallelujer! And she&#39;s not putting up with any nonsense as
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/afJXk-RgzoQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Dog
-*Released on 2022-02-17, vote average 7.8*
-
-An army ranger and his dog embark on a road trip along the Pacific Coast Highway to attend a friend&#39;s funeral.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ymzLYEFU6wo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -265,8 +243,30 @@ The wonder of the winter season takes Mickey Mouse and his friends on a journey 
 	
 	
 
+### Dog
+*Released on 2022-02-17, vote average 8.1*
+
+An army ranger and his dog embark on a road trip along the Pacific Coast Highway to attend a friend&#39;s funeral.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ymzLYEFU6wo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Desperate Hour
-*Released on 2022-02-17, vote average 5.4*
+*Released on 2022-02-17, vote average 5.3*
 
 A woman desperately races to save her child after police place her hometown on lockdown due to an active shooter incident.
 
@@ -286,9 +286,23 @@ A woman desperately races to save her child after police place her hometown on l
 
 	
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
 
 ### Desperate Riders
-*Released on 2022-02-25, vote average 7.5*
+*Released on 2022-02-25, vote average 7.9*
 
 After Kansas Red rescues young Billy from a card-game shootout, the boy asks Red for help protecting his family from the outlaw Thorn, who’s just kidnapped Billy’s mother, Carol. As Red and Billy ride off to rescue Carol, they run into beautiful, tough-as-nails Leslie, who’s managed to escape Thorn’s men. The three race to stop Thorn’s wedding to Carol with guns a-blazing - but does she want to be rescued?
 
@@ -310,7 +324,7 @@ After Kansas Red rescues young Billy from a card-game shootout, the boy asks Red
 	
 
 ### Big Gold Brick
-*Released on 2022-02-25, vote average 4.7*
+*Released on 2022-02-25, vote average 5*
 
 Recounts the story of fledgling writer Samuel Liston and his experiences with Floyd Deveraux, the enigmatic, middle-aged father of two who enlists Samuel to write his biography.
 
@@ -322,13 +336,6 @@ Recounts the story of fledgling writer Samuel Liston and his experiences with Fl
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -359,24 +366,17 @@ A man implicated in the triple homicide of three Hollywood starlets begins his o
 
 	
 	
-	
 
-  
+### Studio 666
+*Released on 2022-02-24, vote average 5.8*
 
-
-	
-	
-
-### The Wedding Veil Legacy
-*Released on 2022-02-19, vote average 5.8*
-
-Trаcy meets Nick in the third instаllment of the trilogy, аnd he helps her sаve аn originаl drаft of The New Colossus in exchаnge for her helping him run his restаurаnt. Trаcy begins to feel uneаsy аs they get closer.
+Legendary rock band Foo Fighters move into an Encino mansion steeped in grisly rock and roll history to record their much anticipated 10th album. Once in the house, Dave Grohl finds himself grappling with supernatural forces that threaten both the completion of the album and the lives of the band.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/fYIGy0W1w50?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/n2GdzsTmu7A?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -395,21 +395,12 @@ Trаcy meets Nick in the third instаllment of the trilogy, аnd he helps her s�
 	
 
 	
+
 	
 
-### Zero Fucks Given
-*Released on 2022-03-02, vote average 7.5*
+	
 
-Cassandra, 26, is a flight attendant for a low-cost airline. Based in Lanzarote, she’s always willing to take on extra hours and carries out her duties with robotic efficiency. On the side, she just goes with the flow and floats between Tinder, parties and lazy days. When she suddenly gets dismissed, she is forced to return home.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/DC6D6sgALgU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
+	
 	
 	
 
@@ -431,14 +422,6 @@ Cassandra, 26, is a flight attendant for a low-cost airline. Based in Lanzarote,
 
 	
 
-	
-
-	
-
-	
-
-	
-	
 	
 
 	
