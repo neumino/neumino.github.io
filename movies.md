@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Fistful of Vengeance
-*Released on 2022-02-17, vote average 5.2*
+### Texas Chainsaw Massacre
+*Released on 2022-02-18, vote average 5.1*
 
-A revenge mission becomes a fight to save the world from an ancient threat when superpowered assassin Kai tracks a killer to Bangkok.
+In this sequel, influencers looking to breathe new life into a Texas ghost town encounter Leatherface, an infamous killer who wears a mask of human skin.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/vC_n_L1KGbo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/zcI6SFiK_yk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,52 +46,8 @@ A revenge mission becomes a fight to save the world from an ancient threat when 
 	
 	
 
-### Texas Chainsaw Massacre
-*Released on 2022-02-18, vote average 5.1*
-
-In this sequel, influencers looking to breathe new life into a Texas ghost town encounter Leatherface, an infamous killer who wears a mask of human skin.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zcI6SFiK_yk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Hotel Transylvania: Transformania
-*Released on 2022-02-25, vote average 7*
-
-When Van Helsing&#39;s mysterious invention, the &#34;Monsterfication Ray,&#34; goes haywire, Drac and his monster pals are all transformed into humans, and Johnny becomes a monster. In their new mismatched bodies, Drac and Johnny must team up and race across the globe to find a cure before it&#39;s too late, and before they drive each other crazy.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/KKL6aGwybHg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Batman
-*Released on 2022-03-01, vote average 8.1*
+*Released on 2022-03-01, vote average 8.3*
 
 In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.
 
@@ -111,12 +67,20 @@ In his second year of fighting crime, Batman uncovers corruption in Gotham City 
 
 	
 	
-	
 
-  
+### Hotel Transylvania: Transformania
+*Released on 2022-02-25, vote average 7.1*
 
+When Van Helsing&#39;s mysterious invention, the &#34;Monsterfication Ray,&#34; goes haywire, Drac and his monster pals are all transformed into humans, and Johnny becomes a monster. In their new mismatched bodies, Drac and Johnny must team up and race across the globe to find a cure before it&#39;s too late, and before they drive each other crazy.
 
-	
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KKL6aGwybHg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -149,7 +113,7 @@ Detective Breslin crosses paths with Calloway, a ruthless hacker desperate to fi
 	
 
 ### No Exit
-*Released on 2022-02-25, vote average 6.3*
+*Released on 2022-02-25, vote average 6.4*
 
 Stranded at a rest stop in the mountains during a blizzard, a recovering addict discovers a kidnapped child hidden in a car belonging to one of the people inside the building which sets her on a terrifying struggle to identify who among them is the kidnapper.
 
@@ -178,7 +142,7 @@ Stranded at a rest stop in the mountains during a blizzard, a recovering addict 
 	
 
 ### Tyler Perry&#39;s A Madea Homecoming
-*Released on 2022-02-25, vote average 7*
+*Released on 2022-02-25, vote average 7.1*
 
 Madea&#39;s back - hallelujer! And she&#39;s not putting up with any nonsense as family drama erupts at her great-grandson&#39;s college graduation celebration.
 
@@ -241,52 +205,6 @@ The wonder of the winter season takes Mickey Mouse and his friends on a journey 
 
 
 	
-	
-
-### Dog
-*Released on 2022-02-17, vote average 8.1*
-
-An army ranger and his dog embark on a road trip along the Pacific Coast Highway to attend a friend&#39;s funeral.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ymzLYEFU6wo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Desperate Hour
-*Released on 2022-02-17, vote average 5.3*
-
-A woman desperately races to save her child after police place her hometown on lockdown due to an active shooter incident.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pDBZ3KGrQBs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
 
   
 
@@ -322,6 +240,72 @@ After Kansas Red rescues young Billy from a card-game shootout, the boy asks Red
 
 	
 	
+	
+
+  
+
+
+	
+	
+
+### Beneath the Surface
+*Released on 2022-03-01, vote average 4*
+
+A young woman survives a great white shark attack, whilst on a family boating vacation, however soon realizes the nightmare is far from over. Those around her can not be trusted, and she must face her demons, if she is to step back in the water.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Yqsrmv6Ubto?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Studio 666
+*Released on 2022-02-24, vote average 6.2*
+
+Legendary rock band Foo Fighters move into an Encino mansion steeped in grisly rock and roll history to record their much anticipated 10th album. Once in the house, Dave Grohl finds himself grappling with supernatural forces that threaten both the completion of the album and the lives of the band.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/n2GdzsTmu7A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
 
 ### Big Gold Brick
 *Released on 2022-02-25, vote average 5*
@@ -346,7 +330,7 @@ Recounts the story of fledgling writer Samuel Liston and his experiences with Fl
 	
 
 ### Gasoline Alley
-*Released on 2022-02-25, vote average 5*
+*Released on 2022-02-25, vote average 5.1*
 
 A man implicated in the triple homicide of three Hollywood starlets begins his own investigation. Needing assistance, he enlists the two detectives on his tail in order to expose a conspiracy more explosive than any of them imagined.
 
@@ -355,28 +339,6 @@ A man implicated in the triple homicide of three Hollywood starlets begins his o
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/RN01Qcw_85E?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Studio 666
-*Released on 2022-02-24, vote average 5.8*
-
-Legendary rock band Foo Fighters move into an Encino mansion steeped in grisly rock and roll history to record their much anticipated 10th album. Once in the house, Dave Grohl finds himself grappling with supernatural forces that threaten both the completion of the album and the lives of the band.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/n2GdzsTmu7A?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -401,8 +363,6 @@ Legendary rock band Foo Fighters move into an Encino mansion steeped in grisly r
 	
 
 	
-	
-	
 
 	
 
@@ -430,6 +390,23 @@ Legendary rock band Foo Fighters move into an Encino mansion steeped in grisly r
 
 	
 
+	
+	
+
+### The Sanctity of Space
+*Released on 2022-03-04, vote average 6.7*
+
+Seventy-five years after Brad Washburn, one of the greatest aerial mountain photographers of all time, first shot Alaska’s Denali Mountain from the open door of an airplane, climbing buddies Renan Ozturk, Freddie Wilkinson, and Zack Smith look at some of his mountain photographs and have this crazy idea. Rather than go up, their dream is to go sideways — across the range’s most foreboding peaks, the Moose’s Tooth massif. It’s a fresh new way to explore the same landscape Washburn first discovered. As the group endures rough conditions, disintegrating ropes, and constant rockfall, their desire to be the first to complete the audacious line grows into an obsession. But friendships begin to fray when Renan suffers a near fatal brain injury, forcing all three partners to decide what’s most important to them.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0NT1vfXKy5g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 
