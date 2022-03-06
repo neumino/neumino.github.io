@@ -91,7 +91,7 @@ Stranded at a rest stop in the mountains during a blizzard, a recovering addict 
 	
 
 ### Tyler Perry&#39;s A Madea Homecoming
-*Released on 2022-02-25, vote average 7*
+*Released on 2022-02-25, vote average 6.7*
 
 Madea&#39;s back - hallelujer! And she&#39;s not putting up with any nonsense as family drama erupts at her great-grandson&#39;s college graduation celebration.
 
@@ -111,16 +111,9 @@ Madea&#39;s back - hallelujer! And she&#39;s not putting up with any nonsense as
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Restless
-*Released on 2022-02-25, vote average 5.8*
+*Released on 2022-02-25, vote average 5.9*
 
 After going to extremes to cover up an accident, a corrupt cop&#39;s life spirals out of control when he starts receiving threats from a mysterious witness.
 
@@ -139,6 +132,8 @@ After going to extremes to cover up an accident, a corrupt cop&#39;s life spiral
 
 
 	
+	
+	
 
   
 
@@ -154,7 +149,7 @@ After going to extremes to cover up an accident, a corrupt cop&#39;s life spiral
 	
 
 ### Desperate Riders
-*Released on 2022-02-25, vote average 7.9*
+*Released on 2022-02-25, vote average 7.3*
 
 After Kansas Red rescues young Billy from a card-game shootout, the boy asks Red for help protecting his family from the outlaw Thorn, who’s just kidnapped Billy’s mother, Carol. As Red and Billy ride off to rescue Carol, they run into beautiful, tough-as-nails Leslie, who’s managed to escape Thorn’s men. The three race to stop Thorn’s wedding to Carol with guns a-blazing - but does she want to be rescued?
 
@@ -173,10 +168,15 @@ After Kansas Red rescues young Billy from a card-game shootout, the boy asks Red
 
 
 	
+
+  
+
+
+	
 	
 
 ### The Weekend Away
-*Released on 2022-03-03, vote average 5.4*
+*Released on 2022-03-03, vote average 5.7*
 
 When her best friend vanishes during a girls&#39; trip to Croatia, Beth races to figure out what happened. But each clue yields another unsettling deception.
 
@@ -203,29 +203,56 @@ When her best friend vanishes during a girls&#39; trip to Croatia, Beth races to
 
 	
 	
-	
 
-  
+### A Day to Die
+*Released on 2022-03-04, vote average 5*
 
-
-	
-
-  
-
-
-	
-	
-
-### Big Gold Brick
-*Released on 2022-02-25, vote average 5*
-
-Recounts the story of fledgling writer Samuel Liston and his experiences with Floyd Deveraux, the enigmatic, middle-aged father of two who enlists Samuel to write his biography.
+A disgraced parole officer is indebted to a local gang leader and forced to pull off a series of dangerous drug heists within twelve hours in order to pay the $2 million dollars he owes, rescue his kidnapped pregnant wife, and settle a score with the city&#39;s corrupt police chief, who is working with the gang leader and double-crossed him years ago.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/uDoQ2qzO8Rw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/kPSCoh_vJbM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Invisible Thread
+*Released on 2022-03-04, vote average 6.2*
+
+The teenage son of two fathers makes a documentary film about his parents but is surprised when a real-life plot twist occurs in his family.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/GPQjkpViSH4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -246,39 +273,12 @@ Recounts the story of fledgling writer Samuel Liston and his experiences with Fl
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Studio 666
-*Released on 2022-02-24, vote average 6.2*
-
-Legendary rock band Foo Fighters move into an Encino mansion steeped in grisly rock and roll history to record their much anticipated 10th album. Once in the house, Dave Grohl finds himself grappling with supernatural forces that threaten both the completion of the album and the lives of the band.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/n2GdzsTmu7A?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
   
 
 
-	
-	
 	
 
   
@@ -288,6 +288,23 @@ Legendary rock band Foo Fighters move into an Encino mansion steeped in grisly r
 ## Opening soon
 
 
+	
+	
+
+### Turning Red
+*Released on 2022-03-10, vote average 10*
+
+Thirteen-year-old Mei is experiencing the awkwardness of being a teenager with a twist – when she gets too excited, she transforms into a giant red panda.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3U7KaI_NPGg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
