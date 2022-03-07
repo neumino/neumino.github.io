@@ -69,7 +69,7 @@ When Van Helsing&#39;s mysterious invention, the &#34;Monsterfication Ray,&#34; 
 	
 
 ### No Exit
-*Released on 2022-02-25, vote average 6.4*
+*Released on 2022-02-25, vote average 6.3*
 
 Stranded at a rest stop in the mountains during a blizzard, a recovering addict discovers a kidnapped child hidden in a car belonging to one of the people inside the building which sets her on a terrifying struggle to identify who among them is the kidnapper.
 
@@ -113,7 +113,7 @@ Madea&#39;s back - hallelujer! And she&#39;s not putting up with any nonsense as
 	
 
 ### Restless
-*Released on 2022-02-25, vote average 5.9*
+*Released on 2022-02-25, vote average 6*
 
 After going to extremes to cover up an accident, a corrupt cop&#39;s life spirals out of control when he starts receiving threats from a mysterious witness.
 
@@ -125,13 +125,6 @@ After going to extremes to cover up an accident, a corrupt cop&#39;s life spiral
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -168,6 +161,8 @@ After Kansas Red rescues young Billy from a card-game shootout, the boy asks Red
 
 
 	
+	
+	
 
   
 
@@ -176,7 +171,7 @@ After Kansas Red rescues young Billy from a card-game shootout, the boy asks Red
 	
 
 ### The Weekend Away
-*Released on 2022-03-03, vote average 5.7*
+*Released on 2022-03-03, vote average 5.6*
 
 When her best friend vanishes during a girls&#39; trip to Croatia, Beth races to figure out what happened. But each clue yields another unsettling deception.
 
@@ -225,26 +220,9 @@ A disgraced parole officer is indebted to a local gang leader and forced to pull
 
 	
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 
 ### The Invisible Thread
-*Released on 2022-03-04, vote average 6.2*
+*Released on 2022-03-04, vote average 6.8*
 
 The teenage son of two fathers makes a documentary film about his parents but is surprised when a real-life plot twist occurs in his family.
 
@@ -263,6 +241,52 @@ The teenage son of two fathers makes a documentary film about his parents but is
 
 
 	
+	
+
+### Nightride
+*Released on 2022-03-04, vote average 8*
+
+In this single shot thriller, we&#39;re in the driver&#39;s seat with small-time dealer Budge as he tries to pull one last deal with cash borrowed from a dangerous loan shark. When the handover goes catastrophically wrong, Budge finds himself in a race against time to find his missing product and get a new buyer before the loan shark tracks him down.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/04EMi4TrVHY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Asking For It
+*Released on 2022-03-04, vote average 10*
+
+After small town waitress Joey is sexually assaulted after a date with her old friend Mike, she befriends mysterious stranger Regina. Regina introducers her to The Cherry Bombers, an all femme gang including Beatrice, Lily, Sal, Jett, Angie, and Fala. All suffering from past traumas, together they fight a misogynistic society by targeting violent frat boys, a corrupt police force of human traffickers led by Sheriff Morel, and the dangerous alt-right group MFM (Men’s First Movement) headed by Mark Vanderhill. As Joey is drawn further into their chaotic world, Sal’s old flame, Logan County Sheriff Vernon, investigates MFM, leading to a thrilling showdown.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/gpOeRsyfQ3E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
 
   
 
@@ -274,11 +298,55 @@ The teenage son of two fathers makes a documentary film about his parents but is
 
 	
 	
+
+### Fresh
+*Released on 2022-03-03, vote average 7.2*
+
+Frustrated by scrolling dating apps only to end up on lame, tedious dates, Noa takes a chance by giving her number to the awkwardly charming Steve after a produce-section meet-cute at the grocery store.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8pBTazzXLNY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
 
 
+	
+
+  
+
+
+	
+	
+
+### Studio 666
+*Released on 2022-02-24, vote average 6.6*
+
+Legendary rock band Foo Fighters move into an Encino mansion steeped in grisly rock and roll history to record their much anticipated 10th album. Once in the house, Dave Grohl finds himself grappling with supernatural forces that threaten both the completion of the album and the lives of the band.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/n2GdzsTmu7A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
 	
 
   
