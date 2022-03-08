@@ -69,7 +69,7 @@ When Van Helsing&#39;s mysterious invention, the &#34;Monsterfication Ray,&#34; 
 	
 
 ### No Exit
-*Released on 2022-02-25, vote average 6.3*
+*Released on 2022-02-25, vote average 6.4*
 
 Stranded at a rest stop in the mountains during a blizzard, a recovering addict discovers a kidnapped child hidden in a car belonging to one of the people inside the building which sets her on a terrifying struggle to identify who among them is the kidnapper.
 
@@ -91,7 +91,7 @@ Stranded at a rest stop in the mountains during a blizzard, a recovering addict 
 	
 
 ### Tyler Perry&#39;s A Madea Homecoming
-*Released on 2022-02-25, vote average 6.7*
+*Released on 2022-02-25, vote average 6.6*
 
 Madea&#39;s back - hallelujer! And she&#39;s not putting up with any nonsense as family drama erupts at her great-grandson&#39;s college graduation celebration.
 
@@ -113,7 +113,7 @@ Madea&#39;s back - hallelujer! And she&#39;s not putting up with any nonsense as
 	
 
 ### Restless
-*Released on 2022-02-25, vote average 6*
+*Released on 2022-02-25, vote average 5.9*
 
 After going to extremes to cover up an accident, a corrupt cop&#39;s life spirals out of control when he starts receiving threats from a mysterious witness.
 
@@ -142,7 +142,7 @@ After going to extremes to cover up an accident, a corrupt cop&#39;s life spiral
 	
 
 ### Desperate Riders
-*Released on 2022-02-25, vote average 7.3*
+*Released on 2022-02-25, vote average 6.7*
 
 After Kansas Red rescues young Billy from a card-game shootout, the boy asks Red for help protecting his family from the outlaw Thorn, who’s just kidnapped Billy’s mother, Carol. As Red and Billy ride off to rescue Carol, they run into beautiful, tough-as-nails Leslie, who’s managed to escape Thorn’s men. The three race to stop Thorn’s wedding to Carol with guns a-blazing - but does she want to be rescued?
 
@@ -171,7 +171,7 @@ After Kansas Red rescues young Billy from a card-game shootout, the boy asks Red
 	
 
 ### The Weekend Away
-*Released on 2022-03-03, vote average 5.6*
+*Released on 2022-03-03, vote average 5.9*
 
 When her best friend vanishes during a girls&#39; trip to Croatia, Beth races to figure out what happened. But each clue yields another unsettling deception.
 
@@ -200,7 +200,7 @@ When her best friend vanishes during a girls&#39; trip to Croatia, Beth races to
 	
 
 ### A Day to Die
-*Released on 2022-03-04, vote average 5*
+*Released on 2022-03-04, vote average 4.5*
 
 A disgraced parole officer is indebted to a local gang leader and forced to pull off a series of dangerous drug heists within twelve hours in order to pay the $2 million dollars he owes, rescue his kidnapped pregnant wife, and settle a score with the city&#39;s corrupt police chief, who is working with the gang leader and double-crossed him years ago.
 
@@ -222,7 +222,7 @@ A disgraced parole officer is indebted to a local gang leader and forced to pull
 	
 
 ### The Invisible Thread
-*Released on 2022-03-04, vote average 6.8*
+*Released on 2022-03-04, vote average 6.7*
 
 The teenage son of two fathers makes a documentary film about his parents but is surprised when a real-life plot twist occurs in his family.
 
@@ -235,62 +235,6 @@ The teenage son of two fathers makes a documentary film about his parents but is
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### Nightride
-*Released on 2022-03-04, vote average 8*
-
-In this single shot thriller, we&#39;re in the driver&#39;s seat with small-time dealer Budge as he tries to pull one last deal with cash borrowed from a dangerous loan shark. When the handover goes catastrophically wrong, Budge finds himself in a race against time to find his missing product and get a new buyer before the loan shark tracks him down.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/04EMi4TrVHY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Asking For It
-*Released on 2022-03-04, vote average 10*
-
-After small town waitress Joey is sexually assaulted after a date with her old friend Mike, she befriends mysterious stranger Regina. Regina introducers her to The Cherry Bombers, an all femme gang including Beatrice, Lily, Sal, Jett, Angie, and Fala. All suffering from past traumas, together they fight a misogynistic society by targeting violent frat boys, a corrupt police force of human traffickers led by Sheriff Morel, and the dangerous alt-right group MFM (Men’s First Movement) headed by Mark Vanderhill. As Joey is drawn further into their chaotic world, Sal’s old flame, Logan County Sheriff Vernon, investigates MFM, leading to a thrilling showdown.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/gpOeRsyfQ3E?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 	
 
   
@@ -319,6 +263,74 @@ Frustrated by scrolling dating apps only to end up on lame, tedious dates, Noa t
 
 
 	
+	
+
+### Nightride
+*Released on 2022-03-04, vote average 5*
+
+In this single shot thriller, we&#39;re in the driver&#39;s seat with small-time dealer Budge as he tries to pull one last deal with cash borrowed from a dangerous loan shark. When the handover goes catastrophically wrong, Budge finds himself in a race against time to find his missing product and get a new buyer before the loan shark tracks him down.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/04EMi4TrVHY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Last Mark
+*Released on 2022-02-25, vote average 2*
+
+After a young woman witnesses a mob hit, a seasoned assassin and his psychotic partner must track her down before she turns them in, but she proves to be the hardest mark to kill.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/DHhfmthOB2I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Asking For It
+*Released on 2022-03-04, vote average 6*
+
+After small town waitress Joey is sexually assaulted after a date with her old friend Mike, she befriends mysterious stranger Regina. Regina introducers her to The Cherry Bombers, an all femme gang including Beatrice, Lily, Sal, Jett, Angie, and Fala. All suffering from past traumas, together they fight a misogynistic society by targeting violent frat boys, a corrupt police force of human traffickers led by Sheriff Morel, and the dangerous alt-right group MFM (Men’s First Movement) headed by Mark Vanderhill. As Joey is drawn further into their chaotic world, Sal’s old flame, Logan County Sheriff Vernon, investigates MFM, leading to a thrilling showdown.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/gpOeRsyfQ3E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -346,7 +358,10 @@ Legendary rock band Foo Fighters move into an Encino mansion steeped in grisly r
 
 
 	
-	
+
+  
+
+
 	
 
   
@@ -360,7 +375,7 @@ Legendary rock band Foo Fighters move into an Encino mansion steeped in grisly r
 	
 
 ### Turning Red
-*Released on 2022-03-10, vote average 10*
+*Released on 2022-03-10, vote average 7.3*
 
 Thirteen-year-old Mei is experiencing the awkwardness of being a teenager with a twist – when she gets too excited, she transforms into a giant red panda.
 
@@ -377,6 +392,23 @@ Thirteen-year-old Mei is experiencing the awkwardness of being a teenager with a
 
 	
 
+	
+	
+
+### The Contractor
+*Released on 2022-03-10, vote average 8*
+
+After being involuntarily discharged from the U.S. Special Forces, James Harper decides to support his family by joining a private contracting organization alongside his best friend and under the command of a fellow veteran. Overseas on a covert mission, Harper must evade those trying to kill him while making his way back home.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/e7glvM8Xh0w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
