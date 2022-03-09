@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### The Batman
-*Released on 2022-03-01, vote average 8.2*
+*Released on 2022-03-01, vote average 8.1*
 
 In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.
 
@@ -21,7 +21,7 @@ In his second year of fighting crime, Batman uncovers corruption in Gotham City 
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Jtdh0Tkqfdw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/FqnbVhfniys?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -40,28 +40,6 @@ In his second year of fighting crime, Batman uncovers corruption in Gotham City 
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-
-
-	
-	
-
-### Hotel Transylvania: Transformania
-*Released on 2022-02-25, vote average 7*
-
-When Van Helsing&#39;s mysterious invention, the &#34;Monsterfication Ray,&#34; goes haywire, Drac and his monster pals are all transformed into humans, and Johnny becomes a monster. In their new mismatched bodies, Drac and Johnny must team up and race across the globe to find a cure before it&#39;s too late, and before they drive each other crazy.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/KKL6aGwybHg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
   
 
 
@@ -90,16 +68,16 @@ Stranded at a rest stop in the mountains during a blizzard, a recovering addict 
 	
 	
 
-### Tyler Perry&#39;s A Madea Homecoming
-*Released on 2022-02-25, vote average 6.6*
+### Hotel Transylvania: Transformania
+*Released on 2022-02-25, vote average 7*
 
-Madea&#39;s back - hallelujer! And she&#39;s not putting up with any nonsense as family drama erupts at her great-grandson&#39;s college graduation celebration.
+When Van Helsing&#39;s mysterious invention, the &#34;Monsterfication Ray,&#34; goes haywire, Drac and his monster pals are all transformed into humans, and Johnny becomes a monster. In their new mismatched bodies, Drac and Johnny must team up and race across the globe to find a cure before it&#39;s too late, and before they drive each other crazy.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/afJXk-RgzoQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/KKL6aGwybHg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -132,6 +110,21 @@ After going to extremes to cover up an accident, a corrupt cop&#39;s life spiral
 
 
 	
+	
+
+### Tyler Perry&#39;s A Madea Homecoming
+*Released on 2022-02-25, vote average 6.6*
+
+Madea&#39;s back - hallelujer! And she&#39;s not putting up with any nonsense as family drama erupts at her great-grandson&#39;s college graduation celebration.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/afJXk-RgzoQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -198,9 +191,16 @@ When her best friend vanishes during a girls&#39; trip to Croatia, Beth races to
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### A Day to Die
-*Released on 2022-03-04, vote average 4.5*
+*Released on 2022-03-04, vote average 4.8*
 
 A disgraced parole officer is indebted to a local gang leader and forced to pull off a series of dangerous drug heists within twelve hours in order to pay the $2 million dollars he owes, rescue his kidnapped pregnant wife, and settle a score with the city&#39;s corrupt police chief, who is working with the gang leader and double-crossed him years ago.
 
@@ -221,8 +221,30 @@ A disgraced parole officer is indebted to a local gang leader and forced to pull
 	
 	
 
+### The Adam Project
+*Released on 2022-03-09, vote average 2*
+
+After accidentally crash-landing in 2022, time-traveling fighter pilot Adam Reed teams up with his 12-year-old self on a mission to save the future.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IE8HIsIrq4o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Invisible Thread
-*Released on 2022-03-04, vote average 6.7*
+*Released on 2022-03-04, vote average 6.8*
 
 The teenage son of two fathers makes a documentary film about his parents but is surprised when a real-life plot twist occurs in his family.
 
@@ -244,7 +266,7 @@ The teenage son of two fathers makes a documentary film about his parents but is
 	
 
 ### Fresh
-*Released on 2022-03-03, vote average 7.2*
+*Released on 2022-03-03, vote average 7.1*
 
 Frustrated by scrolling dating apps only to end up on lame, tedious dates, Noa takes a chance by giving her number to the awkwardly charming Steve after a produce-section meet-cute at the grocery store.
 
@@ -253,6 +275,42 @@ Frustrated by scrolling dating apps only to end up on lame, tedious dates, Noa t
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/8pBTazzXLNY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### The Fourth Musketeer
+*Released on 2022-03-07, vote average 6*
+
+At the behest of his father, young d&#39;Artagnan travels from rural Gascony to Paris, where he becomes embroiled in a devious plot between the King&#39;s Musketeers and the Guardsmen of Cardinal Richelieu.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/NnyOAmRVm1g?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -313,60 +371,6 @@ After a young woman witnesses a mob hit, a seasoned assassin and his psychotic p
   
 
 
-	
-	
-
-### Asking For It
-*Released on 2022-03-04, vote average 6*
-
-After small town waitress Joey is sexually assaulted after a date with her old friend Mike, she befriends mysterious stranger Regina. Regina introducers her to The Cherry Bombers, an all femme gang including Beatrice, Lily, Sal, Jett, Angie, and Fala. All suffering from past traumas, together they fight a misogynistic society by targeting violent frat boys, a corrupt police force of human traffickers led by Sheriff Morel, and the dangerous alt-right group MFM (Men’s First Movement) headed by Mark Vanderhill. As Joey is drawn further into their chaotic world, Sal’s old flame, Logan County Sheriff Vernon, investigates MFM, leading to a thrilling showdown.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/gpOeRsyfQ3E?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Studio 666
-*Released on 2022-02-24, vote average 6.6*
-
-Legendary rock band Foo Fighters move into an Encino mansion steeped in grisly rock and roll history to record their much anticipated 10th album. Once in the house, Dave Grohl finds himself grappling with supernatural forces that threaten both the completion of the album and the lives of the band.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/n2GdzsTmu7A?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -375,7 +379,7 @@ Legendary rock band Foo Fighters move into an Encino mansion steeped in grisly r
 	
 
 ### Turning Red
-*Released on 2022-03-10, vote average 7.3*
+*Released on 2022-03-10, vote average 8*
 
 Thirteen-year-old Mei is experiencing the awkwardness of being a teenager with a twist – when she gets too excited, she transforms into a giant red panda.
 
@@ -391,12 +395,31 @@ Thirteen-year-old Mei is experiencing the awkwardness of being a teenager with a
 	
 
 	
+	
+
+### The Adam Project
+*Released on 2022-03-09, vote average 2*
+
+After accidentally crash-landing in 2022, time-traveling fighter pilot Adam Reed teams up with his 12-year-old self on a mission to save the future.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IE8HIsIrq4o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
 
 	
 	
 
 ### The Contractor
-*Released on 2022-03-10, vote average 8*
+*Released on 2022-03-10, vote average 5*
 
 After being involuntarily discharged from the U.S. Special Forces, James Harper decides to support his family by joining a private contracting organization alongside his best friend and under the command of a fellow veteran. Overseas on a covert mission, Harper must evade those trying to kill him while making his way back home.
 
@@ -424,11 +447,13 @@ After being involuntarily discharged from the U.S. Special Forces, James Harper 
 	
 
 	
-
+	
 	
 
 	
 
+	
+	
 	
 
 	
