@@ -47,7 +47,7 @@ In his second year of fighting crime, Batman uncovers corruption in Gotham City 
 	
 
 ### Turning Red
-*Released on 2022-03-10, vote average 7.3*
+*Released on 2022-03-10, vote average 7.4*
 
 Thirteen-year-old Mei is experiencing the awkwardness of being a teenager with a twist – when she gets too excited, she transforms into a giant red panda.
 
@@ -111,16 +111,9 @@ The teenage son of two fathers makes a documentary film about his parents but is
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### The Adam Project
-*Released on 2022-03-11, vote average 7.3*
+*Released on 2022-03-11, vote average 7.1*
 
 After accidentally crash-landing in 2022, time-traveling fighter pilot Adam Reed teams up with his 12-year-old self on a mission to save the future.
 
@@ -141,8 +134,35 @@ After accidentally crash-landing in 2022, time-traveling fighter pilot Adam Reed
 	
 	
 
+### Surviving Paradise: A Family Tale
+*Released on 2022-03-03, vote average 6.8*
+
+As the Kalahari Desert faces a worsening dry season, prides, packs and herds of all kinds must rely on the power of family to survive.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/80yPDHB-YJY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### A Day to Die
-*Released on 2022-03-04, vote average 5*
+*Released on 2022-03-04, vote average 4.6*
 
 A disgraced parole officer is indebted to a local gang leader and forced to pull off a series of dangerous drug heists within twelve hours in order to pay the $2 million dollars he owes, rescue his kidnapped pregnant wife, and settle a score with the city&#39;s corrupt police chief, who is working with the gang leader and double-crossed him years ago.
 
@@ -155,6 +175,18 @@ A disgraced parole officer is indebted to a local gang leader and forced to pull
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -242,8 +274,6 @@ When his young daughter&#39;s beloved companion — an android named Yang — ma
 
 
 	
-	
-	
 
   
 
@@ -256,20 +286,7 @@ When his young daughter&#39;s beloved companion — an android named Yang — ma
 
 
 	
-
-  
-
-
 	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
