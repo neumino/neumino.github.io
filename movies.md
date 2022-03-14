@@ -47,7 +47,7 @@ In his second year of fighting crime, Batman uncovers corruption in Gotham City 
 	
 
 ### Turning Red
-*Released on 2022-03-10, vote average 7.4*
+*Released on 2022-03-10, vote average 7.6*
 
 Thirteen-year-old Mei is experiencing the awkwardness of being a teenager with a twist – when she gets too excited, she transforms into a giant red panda.
 
@@ -113,7 +113,7 @@ The teenage son of two fathers makes a documentary film about his parents but is
 	
 
 ### The Adam Project
-*Released on 2022-03-11, vote average 7.1*
+*Released on 2022-03-11, vote average 7*
 
 After accidentally crash-landing in 2022, time-traveling fighter pilot Adam Reed teams up with his 12-year-old self on a mission to save the future.
 
@@ -121,7 +121,7 @@ After accidentally crash-landing in 2022, time-traveling fighter pilot Adam Reed
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/IE8HIsIrq4o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/e98C4I1XmM0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -160,6 +160,40 @@ As the Kalahari Desert faces a worsening dry season, prides, packs and herds of 
 
 	
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Ash &amp; Dust
+*Released on 2022-03-11, vote average 1*
+
+The film is set in a small town where two modest couples find themselves caught up in a game of life &amp; death with a vicious gang after the discovery of a mysterious box buried long ago.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/gLZutfSm7nQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
 
 ### A Day to Die
 *Released on 2022-03-04, vote average 4.6*
@@ -188,6 +222,30 @@ A disgraced parole officer is indebted to a local gang leader and forced to pull
 
 
 	
+	
+
+### Offseason
+*Released on 2022-03-11, vote average 4*
+
+Upon receiving a mysterious letter that her mother&#39;s grave has been vandalized, Marie travels to the desolate island town where she&#39;s buried. Just as she arrives, the island closes for the season, leaving Marie trapped in a nightmare.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QPtKRTlnWNA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
 
   
 
@@ -195,16 +253,60 @@ A disgraced parole officer is indebted to a local gang leader and forced to pull
 	
 	
 
-### The Fourth Musketeer
-*Released on 2022-03-07, vote average 6*
+### Ultrasound
+*Released on 2022-03-11, vote average 6*
 
-At the behest of his father, young d&#39;Artagnan travels from rural Gascony to Paris, where he becomes embroiled in a devious plot between the King&#39;s Musketeers and the Guardsmen of Cardinal Richelieu.
+After his car breaks down, Glen spends one hell of an odd night with a married couple, setting into motion a chain of events that alter their lives plus those of several random strangers.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/NnyOAmRVm1g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/hlQo9XI_fQ8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Kashmir Files
+*Released on 2022-03-11, vote average 10*
+
+Based on a true tragedy, the emotionally triggering film sheds light on the plight of Kashmiri Pandits (Hindus), a religious minority in the 1990s Kashmir valley, who were compelled to flee their homes by the Islamic militants.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/A179apttY58?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Maaran
+*Released on 2022-03-11, vote average 8*
+
+An investigative journalist gets into trouble when he publishes an article that exposes bitter truths about a corrupt politician.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Z-mYvlGZU1U?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -218,7 +320,7 @@ At the behest of his father, young d&#39;Artagnan travels from rural Gascony to 
 	
 
 ### The Girl on the Mountain
-*Released on 2022-03-08, vote average 7.5*
+*Released on 2022-03-08, vote average 7*
 
 When a reclusive backwoodsman finds a mute little girl wandering alone in the forest, he must protect her from the evil forces determined to end her life.
 
@@ -263,40 +365,6 @@ When his young daughter&#39;s beloved companion — an android named Yang — ma
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -317,6 +385,8 @@ When his young daughter&#39;s beloved companion — an android named Yang — ma
 
 	
 
+	
+	
 	
 
 	
