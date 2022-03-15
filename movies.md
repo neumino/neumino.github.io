@@ -47,7 +47,7 @@ In his second year of fighting crime, Batman uncovers corruption in Gotham City 
 	
 
 ### Turning Red
-*Released on 2022-03-10, vote average 7.6*
+*Released on 2022-03-10, vote average 7.5*
 
 Thirteen-year-old Mei is experiencing the awkwardness of being a teenager with a twist – when she gets too excited, she transforms into a giant red panda.
 
@@ -166,26 +166,28 @@ As the Kalahari Desert faces a worsening dry season, prides, packs and herds of 
 
 
 	
-
-  
-
-
-	
 	
 
-### Ash &amp; Dust
-*Released on 2022-03-11, vote average 1*
+### Outsiders
+*Released on 2022-03-11, vote average 5.5*
 
-The film is set in a small town where two modest couples find themselves caught up in a game of life &amp; death with a vicious gang after the discovery of a mysterious box buried long ago.
+When a young black man’s girlfriend mysteriously disappears, he’s forced to go on the run, staying one step ahead of suspicious police to clear his name and to find out if otherworldly forces are to blame.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/gLZutfSm7nQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/kXMm21osbKc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -216,75 +218,17 @@ A disgraced parole officer is indebted to a local gang leader and forced to pull
 
 	
 	
-	
 
-  
+### Ash &amp; Dust
+*Released on 2022-03-11, vote average 1*
 
-
-	
-	
-
-### Offseason
-*Released on 2022-03-11, vote average 4*
-
-Upon receiving a mysterious letter that her mother&#39;s grave has been vandalized, Marie travels to the desolate island town where she&#39;s buried. Just as she arrives, the island closes for the season, leaving Marie trapped in a nightmare.
+The film is set in a small town where two modest couples find themselves caught up in a game of life &amp; death with a vicious gang after the discovery of a mysterious box buried long ago.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/QPtKRTlnWNA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Ultrasound
-*Released on 2022-03-11, vote average 6*
-
-After his car breaks down, Glen spends one hell of an odd night with a married couple, setting into motion a chain of events that alter their lives plus those of several random strangers.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hlQo9XI_fQ8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Kashmir Files
-*Released on 2022-03-11, vote average 10*
-
-Based on a true tragedy, the emotionally triggering film sheds light on the plight of Kashmiri Pandits (Hindus), a religious minority in the 1990s Kashmir valley, who were compelled to flee their homes by the Islamic militants.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/A179apttY58?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/gLZutfSm7nQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -318,17 +262,24 @@ An investigative journalist gets into trouble when he publishes an article that 
 
 	
 	
+	
 
-### The Girl on the Mountain
-*Released on 2022-03-08, vote average 7*
+  
 
-When a reclusive backwoodsman finds a mute little girl wandering alone in the forest, he must protect her from the evil forces determined to end her life.
+
+	
+	
+
+### Radhe Shyam
+*Released on 2022-03-10, vote average 8*
+
+Vikramaditya, a world-renowned palmist, believes love does not exist in his stars, until he meets Prerana. But when destiny tries to pull them apart, will love prevail?
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/_acPLAE0Zgw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/GGmK2iW9ZgM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -338,6 +289,23 @@ When a reclusive backwoodsman finds a mute little girl wandering alone in the fo
   
 
 
+	
+	
+
+### Offseason
+*Released on 2022-03-11, vote average 5.5*
+
+Upon receiving a mysterious letter that her mother&#39;s grave has been vandalized, Marie travels to the desolate island town where she&#39;s buried. Just as she arrives, the island closes for the season, leaving Marie trapped in a nightmare.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QPtKRTlnWNA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -365,6 +333,38 @@ When his young daughter&#39;s beloved companion — an android named Yang — ma
   
 
 
+	
+
+  
+
+
+	
+	
+
+### Ultrasound
+*Released on 2022-03-11, vote average 6*
+
+After his car breaks down, Glen spends one hell of an odd night with a married couple, setting into motion a chain of events that alter their lives plus those of several random strangers.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hlQo9XI_fQ8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -372,7 +372,22 @@ When his young daughter&#39;s beloved companion — an android named Yang — ma
 	
 
 	
+	
 
+### Ambulance
+*Released on 2022-03-16, vote average 8*
+
+Decorated veteran Will Sharp, desperate for money to cover his wife&#39;s medical bills, asks for help from his adoptive brother Danny. A charismatic career criminal, Danny instead offers him a score: the biggest bank heist in Los Angeles history: $32 million.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ev82iHoLk8s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -386,6 +401,25 @@ When his young daughter&#39;s beloved companion — an android named Yang — ma
 	
 
 	
+	
+	
+
+	
+	
+
+### Panama
+*Released on 2022-03-17, vote average 6*
+
+An ex-marine is hired by a defense contractor to travel to Panama to complete an arms deal. In the process he becomes involved with the U.S. invasion of Panama, and learns an important lesson about the true nature of political power.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mIPKKpWWAI8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
