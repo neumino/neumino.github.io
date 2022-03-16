@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### The Batman
-*Released on 2022-03-01, vote average 8*
+### Turning Red
+*Released on 2022-03-10, vote average 7.4*
 
-In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.
+Thirteen-year-old Mei is experiencing the awkwardness of being a teenager with a twist – when she gets too excited, she transforms into a giant red panda.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/FqnbVhfniys?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/3U7KaI_NPGg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -40,28 +40,6 @@ In his second year of fighting crime, Batman uncovers corruption in Gotham City 
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-
-
-	
-	
-
-### Turning Red
-*Released on 2022-03-10, vote average 7.5*
-
-Thirteen-year-old Mei is experiencing the awkwardness of being a teenager with a twist – when she gets too excited, she transforms into a giant red panda.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3U7KaI_NPGg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
   
 
 
@@ -90,16 +68,16 @@ When her best friend vanishes during a girls&#39; trip to Croatia, Beth races to
 	
 	
 
-### The Invisible Thread
-*Released on 2022-03-04, vote average 6.8*
+### The Adam Project
+*Released on 2022-03-11, vote average 7.1*
 
-The teenage son of two fathers makes a documentary film about his parents but is surprised when a real-life plot twist occurs in his family.
+After accidentally crash-landing in 2022, time-traveling fighter pilot Adam Reed teams up with his 12-year-old self on a mission to save the future.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/GPQjkpViSH4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/e98C4I1XmM0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,16 +90,16 @@ The teenage son of two fathers makes a documentary film about his parents but is
 	
 	
 
-### The Adam Project
-*Released on 2022-03-11, vote average 7*
+### The Invisible Thread
+*Released on 2022-03-04, vote average 6.9*
 
-After accidentally crash-landing in 2022, time-traveling fighter pilot Adam Reed teams up with his 12-year-old self on a mission to save the future.
+The teenage son of two fathers makes a documentary film about his parents but is surprised when a real-life plot twist occurs in his family.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/e98C4I1XmM0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/GPQjkpViSH4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -153,6 +131,35 @@ As the Kalahari Desert faces a worsening dry season, prides, packs and herds of 
   
 
 
+	
+	
+
+### Ambulance
+*Released on 2022-03-16, vote average 9*
+
+Decorated veteran Will Sharp, desperate for money to cover his wife&#39;s medical bills, asks for help from his adoptive brother Danny. A charismatic career criminal, Danny instead offers him a score: the biggest bank heist in Los Angeles history: $32 million.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ev82iHoLk8s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -189,13 +196,6 @@ When a young black man’s girlfriend mysteriously disappears, he’s forced to 
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### A Day to Die
 *Released on 2022-03-04, vote average 4.6*
@@ -211,6 +211,11 @@ A disgraced parole officer is indebted to a local gang leader and forced to pull
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -241,16 +246,16 @@ The film is set in a small town where two modest couples find themselves caught 
 	
 	
 
-### Maaran
-*Released on 2022-03-11, vote average 8*
+### Radhe Shyam
+*Released on 2022-03-10, vote average 8*
 
-An investigative journalist gets into trouble when he publishes an article that exposes bitter truths about a corrupt politician.
+Vikramaditya, a world-renowned palmist, believes love does not exist in his stars, until he meets Prerana. But when destiny tries to pull them apart, will love prevail?
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Z-mYvlGZU1U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/GGmK2iW9ZgM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -270,16 +275,16 @@ An investigative journalist gets into trouble when he publishes an article that 
 	
 	
 
-### Radhe Shyam
-*Released on 2022-03-10, vote average 8*
+### The Kashmir Files
+*Released on 2022-03-11, vote average 10*
 
-Vikramaditya, a world-renowned palmist, believes love does not exist in his stars, until he meets Prerana. But when destiny tries to pull them apart, will love prevail?
+Based on a true tragedy, the emotionally triggering film sheds light on the plight of Kashmiri Pandits (Hindus), a religious minority in the 1990s Kashmir valley, who were compelled to flee their homes by the Islamic militants.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/GGmK2iW9ZgM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/A179apttY58?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -312,10 +317,20 @@ Upon receiving a mysterious letter that her mother&#39;s grave has been vandaliz
 
 
 	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 
 ### After Yang
-*Released on 2022-03-04, vote average 7.3*
+*Released on 2022-03-04, vote average 7.2*
 
 When his young daughter&#39;s beloved companion — an android named Yang — malfunctions, Jake searches for a way to repair him. In the process, Jake discovers the life that has been passing in front of him, reconnecting with his wife and daughter across a distance he didn&#39;t know was there.
 
@@ -333,38 +348,6 @@ When his young daughter&#39;s beloved companion — an android named Yang — ma
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Ultrasound
-*Released on 2022-03-11, vote average 6*
-
-After his car breaks down, Glen spends one hell of an odd night with a married couple, setting into motion a chain of events that alter their lives plus those of several random strangers.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hlQo9XI_fQ8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -375,7 +358,7 @@ After his car breaks down, Glen spends one hell of an odd night with a married c
 	
 
 ### Ambulance
-*Released on 2022-03-16, vote average 8*
+*Released on 2022-03-16, vote average 9*
 
 Decorated veteran Will Sharp, desperate for money to cover his wife&#39;s medical bills, asks for help from his adoptive brother Danny. A charismatic career criminal, Danny instead offers him a score: the biggest bank heist in Los Angeles history: $32 million.
 
@@ -395,13 +378,26 @@ Decorated veteran Will Sharp, desperate for money to cover his wife&#39;s medica
 	
 
 	
+	
+
+### Umma
+*Released on 2022-03-18, vote average 10*
+
+Amanda and her daughter live a quiet life on an American farm, but when the remains of her estranged mother arrive from Korea, Amanda becomes haunted by the fear of turning into her own mother.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/QQdXvvtu-iI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
-	
-
-	
-	
 	
 
 	
@@ -428,7 +424,22 @@ An ex-marine is hired by a defense contractor to travel to Panama to complete an
 	
 
 	
+	
 
+### Cheaper by the Dozen
+*Released on 2022-03-18, vote average 10*
+
+This remake of the beloved classic follows the raucous exploits of a blended family of 12, the Bakers, as they navigate a hectic home life while simultaneously managing their family business.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Wq8Nsc5r2So?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -437,6 +448,12 @@ An ex-marine is hired by a defense contractor to travel to Panama to complete an
 
 	
 
+	
+
+	
+
+	
+	
 	
 
 	
