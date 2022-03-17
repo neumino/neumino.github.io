@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Turning Red
-*Released on 2022-03-10, vote average 7.4*
+*Released on 2022-03-10, vote average 7.5*
 
 Thirteen-year-old Mei is experiencing the awkwardness of being a teenager with a twist – when she gets too excited, she transforms into a giant red panda.
 
@@ -47,7 +47,7 @@ Thirteen-year-old Mei is experiencing the awkwardness of being a teenager with a
 	
 
 ### The Weekend Away
-*Released on 2022-03-03, vote average 5.9*
+*Released on 2022-03-03, vote average 6*
 
 When her best friend vanishes during a girls&#39; trip to Croatia, Beth races to figure out what happened. But each clue yields another unsettling deception.
 
@@ -112,6 +112,28 @@ The teenage son of two fathers makes a documentary film about his parents but is
 	
 	
 
+### The Bad Guys
+*Released on 2022-03-17, vote average 10*
+
+When the infamous Bad Guys are finally caught after years of countless heists and being the world’s most-wanted villains, Mr. Wolf brokers a deal to save them all from prison.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zpDuBXB_glk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Surviving Paradise: A Family Tale
 *Released on 2022-03-03, vote average 6.8*
 
@@ -143,7 +165,7 @@ Decorated veteran Will Sharp, desperate for money to cover his wife&#39;s medica
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ev82iHoLk8s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/td-RoKXgZz0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -159,35 +181,16 @@ Decorated veteran Will Sharp, desperate for money to cover his wife&#39;s medica
 
 
 	
-	
+
+  
+
+
 	
 
   
 
 
 	
-	
-	
-
-  
-
-
-	
-	
-
-### Outsiders
-*Released on 2022-03-11, vote average 5.5*
-
-When a young black man’s girlfriend mysteriously disappears, he’s forced to go on the run, staying one step ahead of suspicious police to clear his name and to find out if otherworldly forces are to blame.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/kXMm21osbKc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -207,33 +210,6 @@ A disgraced parole officer is indebted to a local gang leader and forced to pull
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/kPSCoh_vJbM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Ash &amp; Dust
-*Released on 2022-03-11, vote average 1*
-
-The film is set in a small town where two modest couples find themselves caught up in a game of life &amp; death with a vicious gang after the discovery of a mysterious box buried long ago.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/gLZutfSm7nQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -267,46 +243,17 @@ Vikramaditya, a world-renowned palmist, believes love does not exist in his star
 
 	
 	
-	
 
-  
-
-
-	
-	
-
-### The Kashmir Files
-*Released on 2022-03-11, vote average 10*
-
-Based on a true tragedy, the emotionally triggering film sheds light on the plight of Kashmiri Pandits (Hindus), a religious minority in the 1990s Kashmir valley, who were compelled to flee their homes by the Islamic militants.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/A179apttY58?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Offseason
+### Outsiders
 *Released on 2022-03-11, vote average 5.5*
 
-Upon receiving a mysterious letter that her mother&#39;s grave has been vandalized, Marie travels to the desolate island town where she&#39;s buried. Just as she arrives, the island closes for the season, leaving Marie trapped in a nightmare.
+When a young black man’s girlfriend mysteriously disappears, he’s forced to go on the run, staying one step ahead of suspicious police to clear his name and to find out if otherworldly forces are to blame.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/QPtKRTlnWNA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/kXMm21osbKc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -317,32 +264,68 @@ Upon receiving a mysterious letter that her mother&#39;s grave has been vandaliz
 
 
 	
-
-  
-
-
 	
 
-  
+### Ash &amp; Dust
+*Released on 2022-03-11, vote average 1*
 
-
-	
-	
-
-### After Yang
-*Released on 2022-03-04, vote average 7.2*
-
-When his young daughter&#39;s beloved companion — an android named Yang — malfunctions, Jake searches for a way to repair him. In the process, Jake discovers the life that has been passing in front of him, reconnecting with his wife and daughter across a distance he didn&#39;t know was there.
+The film is set in a small town where two modest couples find themselves caught up in a game of life &amp; death with a vicious gang after the discovery of a mysterious box buried long ago.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Kwp32zLc08c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/gLZutfSm7nQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Adam by Eve: A Live in Animation
+*Released on 2022-03-15, vote average 6.3*
+
+Anime, live action and music by cutting-edge artist Eve — all weave together into this dreamlike sonic experience inspired by the story of Adam and Eve.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/icJUbB27b9w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -353,24 +336,24 @@ When his young daughter&#39;s beloved companion — an android named Yang — ma
 
 
 	
-
-	
 	
 
-### Ambulance
-*Released on 2022-03-16, vote average 9*
+### The Bad Guys
+*Released on 2022-03-17, vote average 10*
 
-Decorated veteran Will Sharp, desperate for money to cover his wife&#39;s medical bills, asks for help from his adoptive brother Danny. A charismatic career criminal, Danny instead offers him a score: the biggest bank heist in Los Angeles history: $32 million.
+When the infamous Bad Guys are finally caught after years of countless heists and being the world’s most-wanted villains, Mr. Wolf brokers a deal to save them all from prison.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ev82iHoLk8s?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/zpDuBXB_glk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
@@ -397,10 +380,6 @@ Amanda and her daughter live a quiet life on an American farm, but when the rema
 	
 
 	
-
-	
-
-	
 	
 
 ### Panama
@@ -417,6 +396,12 @@ An ex-marine is hired by a defense contractor to travel to Panama to complete an
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
 	
 
 	
@@ -447,13 +432,26 @@ This remake of the beloved classic follows the raucous exploits of a blended fam
 	
 
 	
+	
+
+### The Bunker Game
+*Released on 2022-03-17, vote average 2*
+
+Laura, 25, is an actress in a L.A.R.P. (Live Action Role Playing) Game, where the participants play the survivors of an atomic war who live underground in a sealed bunker. After several mysterious accidents, the game is interrupted and the players leave the bunker while the staff remain behind to investigate the disappearance of Greg, the mastermind of the game. They soon find themselves trapped inside and in peril as they begin to die in mysterious ways and the group realizes that someone or something paranormal is playing a twisted game with them which quickly plunges into a terrifying fight for survival.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0_kTGhPwA1Q?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
-	
-
-	
-	
 	
 
 	
