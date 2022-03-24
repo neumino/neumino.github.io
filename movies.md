@@ -47,7 +47,7 @@ Thirteen-year-old Mei is experiencing the awkwardness of being a teenager with a
 	
 
 ### The Adam Project
-*Released on 2022-03-11, vote average 7.1*
+*Released on 2022-03-11, vote average 7*
 
 After accidentally crash-landing in 2022, time-traveling fighter pilot Adam Reed teams up with his 12-year-old self on a mission to save the future.
 
@@ -69,7 +69,7 @@ After accidentally crash-landing in 2022, time-traveling fighter pilot Adam Reed
 	
 
 ### The Bad Guys
-*Released on 2022-03-17, vote average 8.1*
+*Released on 2022-03-17, vote average 8.2*
 
 When the infamous Bad Guys are finally caught after years of countless heists and being the world’s most-wanted villains, Mr. Wolf brokers a deal to save them all from prison.
 
@@ -91,7 +91,7 @@ When the infamous Bad Guys are finally caught after years of countless heists an
 	
 
 ### Deep Water
-*Released on 2022-03-18, vote average 5.6*
+*Released on 2022-03-18, vote average 5.5*
 
 Vic and Melinda Van Allen are a couple in the small town of Little Wesley. Their loveless marriage is held together only by a precarious arrangement whereby, in order to avoid the messiness of divorce, Melinda is allowed to take any number of lovers as long as she does not desert her family.
 
@@ -113,7 +113,7 @@ Vic and Melinda Van Allen are a couple in the small town of Little Wesley. Their
 	
 
 ### Ambulance
-*Released on 2022-03-16, vote average 7.1*
+*Released on 2022-03-16, vote average 7.3*
 
 Decorated veteran Will Sharp, desperate for money to cover his wife&#39;s medical bills, asks for help from his adoptive brother Danny. A charismatic career criminal, Danny instead offers him a score: the biggest bank heist in Los Angeles history: $32 million.
 
@@ -135,7 +135,7 @@ Decorated veteran Will Sharp, desperate for money to cover his wife&#39;s medica
 	
 
 ### Rescued by Ruby
-*Released on 2022-03-17, vote average 7.4*
+*Released on 2022-03-17, vote average 7.3*
 
 Chasing his dream to join an elite K-9 unit, a state trooper partners with a fellow underdog: clever but naughty shelter pup Ruby. Based on a true story.
 
@@ -179,7 +179,7 @@ About young boy DOM 23th , is trying everything to achieve his dream as an actor
 	
 
 ### Cheaper by the Dozen
-*Released on 2022-03-18, vote average 6.3*
+*Released on 2022-03-18, vote average 6.2*
 
 This remake of the beloved classic follows the raucous exploits of a blended family of 12, the Bakers, as they navigate a hectic home life while simultaneously managing their family business.
 
@@ -244,8 +244,30 @@ The opposite lives of a workaholic architect and a fiery artist are upended when
 	
 	
 
+### The Lost City
+*Released on 2022-03-24, vote average 9.3*
+
+Follows a reclusive romance novelist who was sure nothing could be worse than getting stuck on a book tour with her cover model, until a kidnapping attempt sweeps them both into a cutthroat jungle adventure, proving life can be so much stranger, and more romantic, than any of her paperback fictions.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5f9VcZqxFO4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Panama
-*Released on 2022-03-17, vote average 5.9*
+*Released on 2022-03-17, vote average 6.3*
 
 An ex-marine is hired by a defense contractor to travel to Panama to complete an arms deal. In the process he becomes involved with the U.S. invasion of Panama, and learns an important lesson about the true nature of political power.
 
@@ -267,7 +289,7 @@ An ex-marine is hired by a defense contractor to travel to Panama to complete an
 	
 
 ### X
-*Released on 2022-03-17, vote average 7.4*
+*Released on 2022-03-17, vote average 7.5*
 
 In 1979, a group of young filmmakers set out to make an adult film in rural Texas, but when their reclusive, elderly hosts catch them in the act, the cast find themselves fighting for their lives.
 
@@ -317,8 +339,30 @@ At an elite New England university built on the site of a Salem-era gallows hill
 	
 	
 
+### Windfall
+*Released on 2022-03-11, vote average 5.5*
+
+A man breaks into a tech billionaire&#39;s empty vacation home, but things go sideways when the arrogant mogul and his wife arrive for a last-minute getaway.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/BaPdGDBcY5A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Loveland
-*Released on 2022-03-17, vote average 5*
+*Released on 2022-03-17, vote average 5.5*
 
 In an uncharted future, two hardened souls meet and confront each other with the things they have done and what they have become.
 
@@ -344,23 +388,6 @@ In an uncharted future, two hardened souls meet and confront each other with the
 
 
 	
-	
-
-### Windfall
-*Released on 2022-03-11, vote average 5.6*
-
-A man breaks into a tech billionaire&#39;s empty vacation home, but things go sideways when the arrogant mogul and his wife arrive for a last-minute getaway.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/BaPdGDBcY5A?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -368,60 +395,16 @@ A man breaks into a tech billionaire&#39;s empty vacation home, but things go si
 	
 	
 
-### The Bunker Game
-*Released on 2022-03-16, vote average 4*
+### The Kashmir Files
+*Released on 2022-03-11, vote average 8.6*
 
-Laura, 25, is an actress in a L.A.R.P. (Live Action Role Playing) Game, where the participants play the survivors of an atomic war who live underground in a sealed bunker. After several mysterious accidents, the game is interrupted and the players leave the bunker while the staff remain behind to investigate the disappearance of Greg, the mastermind of the game. They soon find themselves trapped inside and in peril as they begin to die in mysterious ways and the group realizes that someone or something paranormal is playing a twisted game with them which quickly plunges into a terrifying fight for survival.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0_kTGhPwA1Q?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Ultraman Trigger: Episode Z
-*Released on 2022-03-18, vote average 3.5*
-
-Set two years after the events of Ultraman Trigger, an ultra-ancient threat re-emerges, leading to the return of Ultraman Trigger and Ultraman Zett to save the day, but all is not as it seems.
+Based on a true tragedy, the emotionally triggering film sheds light on the plight of Kashmiri Pandits (Hindus), a religious minority in the 1990s Kashmir valley, who were compelled to flee their homes by the Islamic militants.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/To_WBHx13M4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Umma
-*Released on 2022-03-18, vote average 6.5*
-
-Amanda and her daughter live a quiet life on an American farm, but when the remains of her estranged mother arrive from Korea, Amanda becomes haunted by the fear of turning into her own mother.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/QQdXvvtu-iI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/A179apttY58?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -443,7 +426,7 @@ Amanda and her daughter live a quiet life on an American farm, but when the rema
 	
 
 ### The Lost City
-*Released on 2022-03-24, vote average 9*
+*Released on 2022-03-24, vote average 9.3*
 
 Follows a reclusive romance novelist who was sure nothing could be worse than getting stuck on a book tour with her cover model, until a kidnapping attempt sweeps them both into a cutthroat jungle adventure, proving life can be so much stranger, and more romantic, than any of her paperback fictions.
 
@@ -456,6 +439,10 @@ Follows a reclusive romance novelist who was sure nothing could be worse than ge
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
 	
 
 	
@@ -484,6 +471,8 @@ A young single mother is held captive along with her two children by a violent e
 	
 
 	
+	
+	
 
 	
 
@@ -497,12 +486,6 @@ A young single mother is held captive along with her two children by a violent e
 
 	
 
-	
-
-	
-
-	
-	
 	
 
 	
