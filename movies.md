@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Deep Water
-*Released on 2022-03-18, vote average 5.6*
+*Released on 2022-03-18, vote average 5.5*
 
 Vic and Melinda Van Allen are a couple in the small town of Little Wesley. Their loveless marriage is held together only by a precarious arrangement whereby, in order to avoid the messiness of divorce, Melinda is allowed to take any number of lovers as long as she does not desert her family.
 
@@ -47,7 +47,7 @@ Vic and Melinda Van Allen are a couple in the small town of Little Wesley. Their
 	
 
 ### The Bad Guys
-*Released on 2022-03-17, vote average 8*
+*Released on 2022-03-17, vote average 7.5*
 
 When the infamous Bad Guys are finally caught after years of countless heists and being the world’s most-wanted villains, Mr. Wolf brokers a deal to save them all from prison.
 
@@ -56,28 +56,6 @@ When the infamous Bad Guys are finally caught after years of countless heists an
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/BolPXJLYywA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Cheaper by the Dozen
-*Released on 2022-03-18, vote average 6.1*
-
-This remake of the beloved classic follows the raucous exploits of a blended family of 12, the Bakers, as they navigate a hectic home life while simultaneously managing their family business.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Wq8Nsc5r2So?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,8 +112,30 @@ The opposite lives of a workaholic architect and a fiery artist are upended when
 	
 	
 
+### Cheaper by the Dozen
+*Released on 2022-03-18, vote average 6.1*
+
+This remake of the beloved classic follows the raucous exploits of a blended family of 12, the Bakers, as they navigate a hectic home life while simultaneously managing their family business.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Wq8Nsc5r2So?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Rescued by Ruby
-*Released on 2022-03-17, vote average 7.2*
+*Released on 2022-03-17, vote average 7.3*
 
 Chasing his dream to join an elite K-9 unit, a state trooper partners with a fellow underdog: clever but naughty shelter pup Ruby. Based on a true story.
 
@@ -157,7 +157,7 @@ Chasing his dream to join an elite K-9 unit, a state trooper partners with a fel
 	
 
 ### Ambulance
-*Released on 2022-03-16, vote average 7*
+*Released on 2022-03-16, vote average 6.8*
 
 Decorated veteran Will Sharp, desperate for money to cover his wife&#39;s medical bills, asks for help from his adoptive brother Danny. A charismatic career criminal, Danny instead offers him a score: the biggest bank heist in Los Angeles history: $32 million.
 
@@ -179,7 +179,7 @@ Decorated veteran Will Sharp, desperate for money to cover his wife&#39;s medica
 	
 
 ### The Lost City
-*Released on 2022-03-24, vote average 7.9*
+*Released on 2022-03-24, vote average 7.7*
 
 Follows a reclusive romance novelist who was sure nothing could be worse than getting stuck on a book tour with her cover model, until a kidnapping attempt sweeps them both into a cutthroat jungle adventure, proving life can be so much stranger, and more romantic, than any of her paperback fictions.
 
@@ -191,6 +191,42 @@ Follows a reclusive romance novelist who was sure nothing could be worse than ge
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### OLIVIA RODRIGO: driving home 2 u (a SOUR film)
+*Released on 2022-03-25, vote average 6.6*
+
+Grammy® nominated singer-songwriter Olivia Rodrigo takes a familiar road trip from Salt Lake City, where she began writing her debut album “SOUR,” to Los Angeles. Along the way, Rodrigo recounts the memories of writing and creating her record-breaking debut album and shares her feelings as a young woman navigating a specific time in her life. Through new live arrangements of her songs, intimate interviews and never-before-seen footage from the making of the album, audiences will follow Olivia along on a cinematic journey exploring the story of “SOUR.”
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/O3FNru8idcY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -221,23 +257,9 @@ Dom came to Jakarta with a dream of becoming an actor. His encounter with Pingka
 
 	
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
 
 ### RRR
-*Released on 2022-03-24, vote average 8.4*
+*Released on 2022-03-24, vote average 8.6*
 
 A fictional history of two legendary revolutionaries&#39; journey away from home before they began fighting for their country in the 1920s.
 
@@ -259,7 +281,7 @@ A fictional history of two legendary revolutionaries&#39; journey away from home
 	
 
 ### X
-*Released on 2022-03-17, vote average 7.5*
+*Released on 2022-03-17, vote average 7.4*
 
 In 1979, a group of young filmmakers set out to make an adult film in rural Texas, but when their reclusive, elderly hosts catch them in the act, the cast find themselves fighting for their lives.
 
@@ -280,30 +302,8 @@ In 1979, a group of young filmmakers set out to make an adult film in rural Texa
 	
 	
 
-### OLIVIA RODRIGO: driving home 2 u (a SOUR film)
-*Released on 2022-03-25, vote average 7.2*
-
-Grammy® nominated singer-songwriter Olivia Rodrigo takes a familiar road trip from Salt Lake City, where she began writing her debut album “SOUR,” to Los Angeles. Along the way, Rodrigo recounts the memories of writing and creating her record-breaking debut album and shares her feelings as a young woman navigating a specific time in her life. Through new live arrangements of her songs, intimate interviews and never-before-seen footage from the making of the album, audiences will follow Olivia along on a cinematic journey exploring the story of “SOUR.”
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/O3FNru8idcY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Panama
-*Released on 2022-03-17, vote average 6*
+*Released on 2022-03-17, vote average 5.7*
 
 An ex-marine is hired by a defense contractor to travel to Panama to complete an arms deal. In the process he becomes involved with the U.S. invasion of Panama, and learns an important lesson about the true nature of political power.
 
@@ -324,8 +324,30 @@ An ex-marine is hired by a defense contractor to travel to Panama to complete an
 	
 	
 
+### Everything Everywhere All at Once
+*Released on 2022-03-24, vote average 6*
+
+When an interdimensional rupture unravels reality, an unlikely hero must channel her newfound powers to fight bewildering dangers from the multiverse, as the fate of everything hangs in the balance.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/a5X-2dhFvEQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Love Like the Falling Petals
-*Released on 2022-03-24, vote average 6.5*
+*Released on 2022-03-24, vote average 7.7*
 
 Haruto Asakura falls in love with hairdresser Misaki Ariake and asks her out. Watching Misaki Ariake work hard to achieve what she wants, Haruto Asakura, who almost gave up his dream to become a photographer, begins to pursue his dream again, but Misaki Ariake is diagnosed with a disease that ages her 10x faster than normal.
 
@@ -368,35 +390,6 @@ At an elite New England university built on the site of a Salem-era gallows hill
 	
 	
 
-### Everything Everywhere All at Once
-*Released on 2022-03-24, vote average 2*
-
-When an interdimensional rupture unravels reality, an unlikely hero must channel her newfound powers to fight bewildering dangers from the multiverse, as the fate of everything hangs in the balance.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/a5X-2dhFvEQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
 ### Moonshot
 *Released on 2022-03-23, vote average 2*
 
@@ -416,6 +409,13 @@ In a future where Mars is terraformed and colonized by the best humanity has to 
   
 
 
+	
+	
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -424,7 +424,7 @@ In a future where Mars is terraformed and colonized by the best humanity has to 
 	
 
 ### Sonic the Hedgehog 2
-*Released on 2022-03-30, vote average 6.6*
+*Released on 2022-03-30, vote average 7.8*
 
 After settling in Green Hills, Sonic is eager to prove he has what it takes to be a true hero. His test comes when Dr. Robotnik returns, this time with a new partner, Knuckles, in search for an emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands.
 
@@ -432,7 +432,7 @@ After settling in Green Hills, Sonic is eager to prove he has what it takes to b
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/47r8FXYZWNU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/qdJfgKGgHP4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -459,42 +459,65 @@ Dangerously ill with a rare blood disorder, and determined to save others suffer
 	
 
 	
-
-	
-	
 	
 
-	
+### The Northman
+*Released on 2022-03-31, vote average 2*
 
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	
-	
-
-	
-	
-
-### Operation Mincemeat
-*Released on 2022-04-01, vote average 2*
-
-In 1943, two British intelligence officers concoct Operation Mincemeat, wherein their plan to drop a corpse with false papers off the coast of Spain would fool Nazi spies into believing the Allied forces were planning to attack by way of Greece rather than Sicily.
+A young Viking prince embarks on a quest to avenge his father’s murder.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/naactPCbIgQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/oMSdFM12hOw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Eraser: Reborn
+*Released on 2022-03-31, vote average 5*
+
+It is based on U.S. Marshal Mason Pollard who is specialized in engineering the fake deaths of witnesses that leaves no trace of their existence.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/u2_IiOM0vkY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -506,13 +529,7 @@ In 1943, two British intelligence officers concoct Operation Mincemeat, wherein 
 	
 
 	
-
 	
-
-	
-
-	
-
 	
 
 
