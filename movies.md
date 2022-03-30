@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Deep Water
-*Released on 2022-03-18, vote average 5.5*
+### Black Crab
+*Released on 2022-03-18, vote average 6.1*
 
-Vic and Melinda Van Allen are a couple in the small town of Little Wesley. Their loveless marriage is held together only by a precarious arrangement whereby, in order to avoid the messiness of divorce, Melinda is allowed to take any number of lovers as long as she does not desert her family.
+To end an apocalyptic war and save her daughter, a reluctant soldier embarks on a desperate mission to cross a frozen sea carrying a top-secret cargo.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/rw11fzw5e6k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/fmjKsL_-rfw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ Vic and Melinda Van Allen are a couple in the small town of Little Wesley. Their
 	
 	
 
-### The Bad Guys
-*Released on 2022-03-17, vote average 7.5*
+### Deep Water
+*Released on 2022-03-18, vote average 5.6*
 
-When the infamous Bad Guys are finally caught after years of countless heists and being the world’s most-wanted villains, Mr. Wolf brokers a deal to save them all from prison.
+Vic and Melinda Van Allen are a couple in the small town of Little Wesley. Their loveless marriage is held together only by a precarious arrangement whereby, in order to avoid the messiness of divorce, Melinda is allowed to take any number of lovers as long as she does not desert her family.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/BolPXJLYywA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/rw11fzw5e6k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,16 +68,38 @@ When the infamous Bad Guys are finally caught after years of countless heists an
 	
 	
 
-### Black Crab
-*Released on 2022-03-18, vote average 6.1*
+### The Bad Guys
+*Released on 2022-03-17, vote average 7.4*
 
-To end an apocalyptic war and save her daughter, a reluctant soldier embarks on a desperate mission to cross a frozen sea carrying a top-secret cargo.
+When the infamous Bad Guys are finally caught after years of countless heists and being the world’s most-wanted villains, Mr. Wolf brokers a deal to save them all from prison.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/fmjKsL_-rfw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/luC0Xm8fKKQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Sonic the Hedgehog 2
+*Released on 2022-03-30, vote average 7.6*
+
+After settling in Green Hills, Sonic is eager to prove he has what it takes to be a true hero. His test comes when Dr. Robotnik returns, this time with a new partner, Knuckles, in search for an emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qdJfgKGgHP4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -91,7 +113,7 @@ To end an apocalyptic war and save her daughter, a reluctant soldier embarks on 
 	
 
 ### Without Saying Goodbye
-*Released on 2022-03-18, vote average 7.2*
+*Released on 2022-03-18, vote average 7.1*
 
 The opposite lives of a workaholic architect and a fiery artist are upended when their chance encounter in breathtaking Peru shifts their views on life.
 
@@ -113,7 +135,7 @@ The opposite lives of a workaholic architect and a fiery artist are upended when
 	
 
 ### Cheaper by the Dozen
-*Released on 2022-03-18, vote average 6.1*
+*Released on 2022-03-18, vote average 6*
 
 This remake of the beloved classic follows the raucous exploits of a blended family of 12, the Bakers, as they navigate a hectic home life while simultaneously managing their family business.
 
@@ -122,6 +144,28 @@ This remake of the beloved classic follows the raucous exploits of a blended fam
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/Wq8Nsc5r2So?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Morbius
+*Released on 2022-03-30, vote average 7.3*
+
+Dangerously ill with a rare blood disorder, and determined to save others suffering his same fate, Dr. Michael Morbius attempts a desperate gamble. What at first appears to be a radical success soon reveals itself to be a remedy potentially worse than the disease.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Pgo2sky90DU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -157,7 +201,7 @@ Chasing his dream to join an elite K-9 unit, a state trooper partners with a fel
 	
 
 ### Ambulance
-*Released on 2022-03-16, vote average 6.8*
+*Released on 2022-03-16, vote average 6.9*
 
 Decorated veteran Will Sharp, desperate for money to cover his wife&#39;s medical bills, asks for help from his adoptive brother Danny. A charismatic career criminal, Danny instead offers him a score: the biggest bank heist in Los Angeles history: $32 million.
 
@@ -179,7 +223,7 @@ Decorated veteran Will Sharp, desperate for money to cover his wife&#39;s medica
 	
 
 ### The Lost City
-*Released on 2022-03-24, vote average 7.7*
+*Released on 2022-03-24, vote average 7.8*
 
 Follows a reclusive romance novelist who was sure nothing could be worse than getting stuck on a book tour with her cover model, until a kidnapping attempt sweeps them both into a cutthroat jungle adventure, proving life can be so much stranger, and more romantic, than any of her paperback fictions.
 
@@ -188,6 +232,57 @@ Follows a reclusive romance novelist who was sure nothing could be worse than ge
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/5f9VcZqxFO4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### RRR
+*Released on 2022-03-24, vote average 8.7*
+
+A fictional history of two legendary revolutionaries&#39; journey away from home before they began fighting for their country in the 1920s.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Xsgz7Q0iWzA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Jakarta, City of Dreamers
+*Released on 2022-03-19, vote average 5.3*
+
+Dom came to Jakarta with a hope of becoming an actor. His encounter with Pingkan and Radit brings him deep into the labyrinth of drug trafficking. Will he abandon his dream?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/dfPBHv-jsjo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -217,57 +312,6 @@ Grammy® nominated singer-songwriter Olivia Rodrigo takes a familiar road trip f
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/O3FNru8idcY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Jakarta, City of Dreamers
-*Released on 2022-03-19, vote average 5.3*
-
-Dom came to Jakarta with a dream of becoming an actor. His encounter with Pingkan and Radit brings him deep into the labyrinth of drug trafficking. Will his dream be long forgotten?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/dfPBHv-jsjo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### RRR
-*Released on 2022-03-24, vote average 8.6*
-
-A fictional history of two legendary revolutionaries&#39; journey away from home before they began fighting for their country in the 1920s.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Xsgz7Q0iWzA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -323,6 +367,13 @@ An ex-marine is hired by a defense contractor to travel to Panama to complete an
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Everything Everywhere All at Once
 *Released on 2022-03-24, vote average 6*
@@ -346,30 +397,8 @@ When an interdimensional rupture unravels reality, an unlikely hero must channel
 	
 	
 
-### Love Like the Falling Petals
-*Released on 2022-03-24, vote average 7.7*
-
-Haruto Asakura falls in love with hairdresser Misaki Ariake and asks her out. Watching Misaki Ariake work hard to achieve what she wants, Haruto Asakura, who almost gave up his dream to become a photographer, begins to pursue his dream again, but Misaki Ariake is diagnosed with a disease that ages her 10x faster than normal.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/l4nYFakFMDo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Master
-*Released on 2022-03-18, vote average 5.2*
+*Released on 2022-03-18, vote average 5.3*
 
 At an elite New England university built on the site of a Salem-era gallows hill, two black women strive to find their place. Navigating politics and privilege, they encounter increasingly terrifying manifestations of the school&#39;s haunted past… and present.
 
@@ -387,35 +416,6 @@ At an elite New England university built on the site of a Salem-era gallows hill
   
 
 
-	
-	
-
-### Moonshot
-*Released on 2022-03-23, vote average 2*
-
-In a future where Mars is terraformed and colonized by the best humanity has to offer, two very different college students wind up joining forces and sneak onboard a space shuttle to the red planet in order to be united with their significant others.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/oHqfe3LcOOE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -424,7 +424,7 @@ In a future where Mars is terraformed and colonized by the best humanity has to 
 	
 
 ### Sonic the Hedgehog 2
-*Released on 2022-03-30, vote average 7.8*
+*Released on 2022-03-30, vote average 7.6*
 
 After settling in Green Hills, Sonic is eager to prove he has what it takes to be a true hero. His test comes when Dr. Robotnik returns, this time with a new partner, Knuckles, in search for an emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands.
 
@@ -443,7 +443,7 @@ After settling in Green Hills, Sonic is eager to prove he has what it takes to b
 	
 
 ### Morbius
-*Released on 2022-03-30, vote average 6.9*
+*Released on 2022-03-30, vote average 7.3*
 
 Dangerously ill with a rare blood disorder, and determined to save others suffering his same fate, Dr. Michael Morbius attempts a desperate gamble. What at first appears to be a radical success soon reveals itself to be a remedy potentially worse than the disease.
 
@@ -459,18 +459,50 @@ Dangerously ill with a rare blood disorder, and determined to save others suffer
 	
 
 	
+
+	
+	
 	
 
-### The Northman
-*Released on 2022-03-31, vote average 2*
+	
 
-A young Viking prince embarks on a quest to avenge his father’s murder.
+	
+
+	
+
+	
+
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+
+	
+
+	
+	
+	
+
+	
+	
+
+### The Bubble
+*Released on 2022-04-01, vote average 10*
+
+Sneaking out. Hooking up. Melting down. The cast and crew of a blockbuster action franchise attempt to shoot a sequel while quarantining at a posh hotel.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/oMSdFM12hOw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ZBD8X5zLG4U?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -482,27 +514,22 @@ A young Viking prince embarks on a quest to avenge his father’s murder.
 	
 
 	
-
 	
 
-	
+### The Great Movement
+*Released on 2022-03-30, vote average 2*
+
+A symphony of the city in the heights, the illness of a worker, the nightmare and his redemption.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2XveJwNcN0c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
@@ -528,8 +555,6 @@ It is based on U.S. Marshal Mason Pollard who is specialized in engineering the 
 
 	
 
-	
-	
 	
 
 
