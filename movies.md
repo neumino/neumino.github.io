@@ -68,6 +68,28 @@ Vic and Melinda Van Allen are a couple in the small town of Little Wesley. Their
 	
 	
 
+### Sonic the Hedgehog 2
+*Released on 2022-03-30, vote average 7.8*
+
+After settling in Green Hills, Sonic is eager to prove he has what it takes to be a true hero. His test comes when Dr. Robotnik returns, this time with a new partner, Knuckles, in search for an emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/qdJfgKGgHP4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Bad Guys
 *Released on 2022-03-17, vote average 7.4*
 
@@ -90,30 +112,8 @@ When the infamous Bad Guys are finally caught after years of countless heists an
 	
 	
 
-### Sonic the Hedgehog 2
-*Released on 2022-03-30, vote average 7.6*
-
-After settling in Green Hills, Sonic is eager to prove he has what it takes to be a true hero. His test comes when Dr. Robotnik returns, this time with a new partner, Knuckles, in search for an emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qdJfgKGgHP4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Without Saying Goodbye
-*Released on 2022-03-18, vote average 7.1*
+*Released on 2022-03-18, vote average 6.8*
 
 The opposite lives of a workaholic architect and a fiery artist are upended when their chance encounter in breathtaking Peru shifts their views on life.
 
@@ -157,7 +157,7 @@ This remake of the beloved classic follows the raucous exploits of a blended fam
 	
 
 ### Morbius
-*Released on 2022-03-30, vote average 7.3*
+*Released on 2022-03-30, vote average 7.6*
 
 Dangerously ill with a rare blood disorder, and determined to save others suffering his same fate, Dr. Michael Morbius attempts a desperate gamble. What at first appears to be a radical success soon reveals itself to be a remedy potentially worse than the disease.
 
@@ -165,7 +165,7 @@ Dangerously ill with a rare blood disorder, and determined to save others suffer
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Pgo2sky90DU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/y74OxW8O1Eg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -177,9 +177,16 @@ Dangerously ill with a rare blood disorder, and determined to save others suffer
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Rescued by Ruby
-*Released on 2022-03-17, vote average 7.3*
+*Released on 2022-03-17, vote average 7.2*
 
 Chasing his dream to join an elite K-9 unit, a state trooper partners with a fellow underdog: clever but naughty shelter pup Ruby. Based on a true story.
 
@@ -200,30 +207,8 @@ Chasing his dream to join an elite K-9 unit, a state trooper partners with a fel
 	
 	
 
-### Ambulance
-*Released on 2022-03-16, vote average 6.9*
-
-Decorated veteran Will Sharp, desperate for money to cover his wife&#39;s medical bills, asks for help from his adoptive brother Danny. A charismatic career criminal, Danny instead offers him a score: the biggest bank heist in Los Angeles history: $32 million.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tFWOyZNHjX8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Lost City
-*Released on 2022-03-24, vote average 7.8*
+*Released on 2022-03-24, vote average 7.4*
 
 Follows a reclusive romance novelist who was sure nothing could be worse than getting stuck on a book tour with her cover model, until a kidnapping attempt sweeps them both into a cutthroat jungle adventure, proving life can be so much stranger, and more romantic, than any of her paperback fictions.
 
@@ -235,13 +220,6 @@ Follows a reclusive romance novelist who was sure nothing could be worse than ge
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -301,6 +279,35 @@ Dom came to Jakarta with a hope of becoming an actor. His encounter with Pingkan
 
 	
 	
+	
+
+  
+
+
+	
+	
+
+### X
+*Released on 2022-03-17, vote average 7.5*
+
+In 1979, a group of young filmmakers set out to make an adult film in rural Texas, but when their reclusive, elderly hosts catch them in the act, the cast find themselves fighting for their lives.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Awg3cWuHfoc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
 
 ### OLIVIA RODRIGO: driving home 2 u (a SOUR film)
 *Released on 2022-03-25, vote average 6.6*
@@ -324,30 +331,8 @@ Grammy® nominated singer-songwriter Olivia Rodrigo takes a familiar road trip f
 	
 	
 
-### X
-*Released on 2022-03-17, vote average 7.4*
-
-In 1979, a group of young filmmakers set out to make an adult film in rural Texas, but when their reclusive, elderly hosts catch them in the act, the cast find themselves fighting for their lives.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Awg3cWuHfoc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Panama
-*Released on 2022-03-17, vote average 5.7*
+*Released on 2022-03-17, vote average 5.4*
 
 An ex-marine is hired by a defense contractor to travel to Panama to complete an arms deal. In the process he becomes involved with the U.S. invasion of Panama, and learns an important lesson about the true nature of political power.
 
@@ -367,16 +352,9 @@ An ex-marine is hired by a defense contractor to travel to Panama to complete an
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Everything Everywhere All at Once
-*Released on 2022-03-24, vote average 6*
+*Released on 2022-03-24, vote average 6.7*
 
 When an interdimensional rupture unravels reality, an unlikely hero must channel her newfound powers to fight bewildering dangers from the multiverse, as the fate of everything hangs in the balance.
 
@@ -395,22 +373,10 @@ When an interdimensional rupture unravels reality, an unlikely hero must channel
 
 
 	
-	
 
-### Master
-*Released on 2022-03-18, vote average 5.3*
+  
 
-At an elite New England university built on the site of a Salem-era gallows hill, two black women strive to find their place. Navigating politics and privilege, they encounter increasingly terrifying manifestations of the school&#39;s haunted past… and present.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0gShIU_i7O0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -421,73 +387,9 @@ At an elite New England university built on the site of a Salem-era gallows hill
 
 
 	
-	
-
-### Sonic the Hedgehog 2
-*Released on 2022-03-30, vote average 7.6*
-
-After settling in Green Hills, Sonic is eager to prove he has what it takes to be a true hero. His test comes when Dr. Robotnik returns, this time with a new partner, Knuckles, in search for an emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qdJfgKGgHP4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Morbius
-*Released on 2022-03-30, vote average 7.3*
-
-Dangerously ill with a rare blood disorder, and determined to save others suffering his same fate, Dr. Michael Morbius attempts a desperate gamble. What at first appears to be a radical success soon reveals itself to be a remedy potentially worse than the disease.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Pgo2sky90DU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
-	
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	
-	
-
-	
-	
-	
-
-	
-	
-	
-
-	
-
-	
-	
 	
 
 	
@@ -516,25 +418,6 @@ Sneaking out. Hooking up. Melting down. The cast and crew of a blockbuster actio
 	
 	
 
-### The Great Movement
-*Released on 2022-03-30, vote average 2*
-
-A symphony of the city in the heights, the illness of a worker, the nightmare and his redemption.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2XveJwNcN0c?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
 ### Eraser: Reborn
 *Released on 2022-03-31, vote average 5*
 
@@ -549,6 +432,47 @@ It is based on U.S. Marshal Mason Pollard who is specialized in engineering the 
   allowfullscreen></iframe>
 
 	
+	
+
+	
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Operation Mincemeat
+*Released on 2022-04-01, vote average 2*
+
+In 1943, two British intelligence officers concoct Operation Mincemeat, wherein their plan to drop a corpse with false papers off the coast of Spain would fool Nazi spies into believing the Allied forces were planning to attack by way of Greece rather than Sicily.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/naactPCbIgQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
 	
 
 	
