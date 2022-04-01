@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Black Crab
-*Released on 2022-03-18, vote average 6.1*
+*Released on 2022-03-18, vote average 6*
 
 To end an apocalyptic war and save her daughter, a reluctant soldier embarks on a desperate mission to cross a frozen sea carrying a top-secret cargo.
 
@@ -69,7 +69,7 @@ Vic and Melinda Van Allen are a couple in the small town of Little Wesley. Their
 	
 
 ### Sonic the Hedgehog 2
-*Released on 2022-03-30, vote average 7.8*
+*Released on 2022-03-30, vote average 8*
 
 After settling in Green Hills, Sonic is eager to prove he has what it takes to be a true hero. His test comes when Dr. Robotnik returns, this time with a new partner, Knuckles, in search for an emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands.
 
@@ -90,16 +90,16 @@ After settling in Green Hills, Sonic is eager to prove he has what it takes to b
 	
 	
 
-### The Bad Guys
-*Released on 2022-03-17, vote average 7.4*
+### Morbius
+*Released on 2022-03-30, vote average 6.5*
 
-When the infamous Bad Guys are finally caught after years of countless heists and being the world’s most-wanted villains, Mr. Wolf brokers a deal to save them all from prison.
+Dangerously ill with a rare blood disorder, and determined to save others suffering his same fate, Dr. Michael Morbius attempts a desperate gamble. What at first appears to be a radical success soon reveals itself to be a remedy potentially worse than the disease.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/luC0Xm8fKKQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Vz7WGflQfl4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -113,7 +113,7 @@ When the infamous Bad Guys are finally caught after years of countless heists an
 	
 
 ### Without Saying Goodbye
-*Released on 2022-03-18, vote average 6.8*
+*Released on 2022-03-18, vote average 6.9*
 
 The opposite lives of a workaholic architect and a fiery artist are upended when their chance encounter in breathtaking Peru shifts their views on life.
 
@@ -155,50 +155,6 @@ This remake of the beloved classic follows the raucous exploits of a blended fam
 
 	
 	
-
-### Morbius
-*Released on 2022-03-30, vote average 7.6*
-
-Dangerously ill with a rare blood disorder, and determined to save others suffering his same fate, Dr. Michael Morbius attempts a desperate gamble. What at first appears to be a radical success soon reveals itself to be a remedy potentially worse than the disease.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/y74OxW8O1Eg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Rescued by Ruby
-*Released on 2022-03-17, vote average 7.2*
-
-Chasing his dream to join an elite K-9 unit, a state trooper partners with a fellow underdog: clever but naughty shelter pup Ruby. Based on a true story.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-Pwxr307O4w?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -226,23 +182,6 @@ Follows a reclusive romance novelist who was sure nothing could be worse than ge
   
 
 
-	
-	
-
-### RRR
-*Released on 2022-03-24, vote average 8.7*
-
-A fictional history of two legendary revolutionaries&#39; journey away from home before they began fighting for their country in the 1920s.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Xsgz7Q0iWzA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -279,6 +218,33 @@ Dom came to Jakarta with a hope of becoming an actor. His encounter with Pingkan
 
 	
 	
+
+### RRR
+*Released on 2022-03-24, vote average 8.5*
+
+A fictional history of two legendary revolutionaries&#39; journey away from home before they began fighting for their country in the 1920s.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Xsgz7Q0iWzA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -287,16 +253,16 @@ Dom came to Jakarta with a hope of becoming an actor. His encounter with Pingkan
 	
 	
 
-### X
-*Released on 2022-03-17, vote average 7.5*
+### Trust No One: The Hunt for the Crypto King
+*Released on 2022-03-30, vote average 5.6*
 
-In 1979, a group of young filmmakers set out to make an adult film in rural Texas, but when their reclusive, elderly hosts catch them in the act, the cast find themselves fighting for their lives.
+When the young founder of a collapsing cryptocurrency exchange dies unexpectedly, irate investors suspect there&#39;s more to his death than meets the eye.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Awg3cWuHfoc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/vW2BPQ15OSw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -331,16 +297,16 @@ Grammy® nominated singer-songwriter Olivia Rodrigo takes a familiar road trip f
 	
 	
 
-### Panama
-*Released on 2022-03-17, vote average 5.4*
+### Infinite Storm
+*Released on 2022-03-25, vote average 5.5*
 
-An ex-marine is hired by a defense contractor to travel to Panama to complete an arms deal. In the process he becomes involved with the U.S. invasion of Panama, and learns an important lesson about the true nature of political power.
+One woman&#39;s journey for self-discovery and turns into a harrowing tale of survival.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/mIPKKpWWAI8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/zRaUIPMq-u0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -373,10 +339,29 @@ When an interdimensional rupture unravels reality, an unlikely hero must channel
 
 
 	
+	
+	
 
   
 
 
+	
+	
+
+### Moonshot
+*Released on 2022-03-23, vote average 2*
+
+In a future where Mars is terraformed and colonized by the best humanity has to offer, two very different college students wind up joining forces and sneak onboard a space shuttle to the red planet in order to be united with their significant others.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/H5iAFUObF6o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -390,6 +375,10 @@ When an interdimensional rupture unravels reality, an unlikely hero must channel
 
 	
 
+	
+
+	
+	
 	
 
 	
@@ -412,45 +401,6 @@ Sneaking out. Hooking up. Melting down. The cast and crew of a blockbuster actio
 	
 
 	
-	
-	
-
-	
-	
-
-### Eraser: Reborn
-*Released on 2022-03-31, vote average 5*
-
-It is based on U.S. Marshal Mason Pollard who is specialized in engineering the fake deaths of witnesses that leaves no trace of their existence.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/u2_IiOM0vkY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
 
 	
 	
@@ -469,6 +419,39 @@ In 1943, two British intelligence officers concoct Operation Mincemeat, wherein 
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+	
+
+### The Devil You Know
+*Released on 2022-04-01, vote average 7*
+
+Once-incarcerated Marcus Cowans is trying to turn over a new leaf with the support of his loving family. Upon discovering that one of his brothers may have been involved in a horrific crime, Marcus grapples with the limits of brotherhood and loyalty. He and his family, increasingly weary of the justice system’s failings, end up in the crosshairs of a seasoned but jaded detective.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/eb_ZpN98pg8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
