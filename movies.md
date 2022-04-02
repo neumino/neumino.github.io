@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Black Crab
-*Released on 2022-03-18, vote average 6*
+### Sonic the Hedgehog 2
+*Released on 2022-03-30, vote average 7.9*
 
-To end an apocalyptic war and save her daughter, a reluctant soldier embarks on a desperate mission to cross a frozen sea carrying a top-secret cargo.
+After settling in Green Hills, Sonic is eager to prove he has what it takes to be a true hero. His test comes when Dr. Robotnik returns, this time with a new partner, Knuckles, in search for an emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/fmjKsL_-rfw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/qdJfgKGgHP4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,52 +46,8 @@ To end an apocalyptic war and save her daughter, a reluctant soldier embarks on 
 	
 	
 
-### Deep Water
-*Released on 2022-03-18, vote average 5.6*
-
-Vic and Melinda Van Allen are a couple in the small town of Little Wesley. Their loveless marriage is held together only by a precarious arrangement whereby, in order to avoid the messiness of divorce, Melinda is allowed to take any number of lovers as long as she does not desert her family.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/rw11fzw5e6k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Sonic the Hedgehog 2
-*Released on 2022-03-30, vote average 8*
-
-After settling in Green Hills, Sonic is eager to prove he has what it takes to be a true hero. His test comes when Dr. Robotnik returns, this time with a new partner, Knuckles, in search for an emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qdJfgKGgHP4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Morbius
-*Released on 2022-03-30, vote average 6.5*
+*Released on 2022-03-30, vote average 5.8*
 
 Dangerously ill with a rare blood disorder, and determined to save others suffering his same fate, Dr. Michael Morbius attempts a desperate gamble. What at first appears to be a radical success soon reveals itself to be a remedy potentially worse than the disease.
 
@@ -103,57 +59,6 @@ Dangerously ill with a rare blood disorder, and determined to save others suffer
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
-	
-
-### Without Saying Goodbye
-*Released on 2022-03-18, vote average 6.9*
-
-The opposite lives of a workaholic architect and a fiery artist are upended when their chance encounter in breathtaking Peru shifts their views on life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/P6xDEDscFko?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Cheaper by the Dozen
-*Released on 2022-03-18, vote average 6*
-
-This remake of the beloved classic follows the raucous exploits of a blended family of 12, the Bakers, as they navigate a hectic home life while simultaneously managing their family business.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Wq8Nsc5r2So?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -183,23 +88,18 @@ Follows a reclusive romance novelist who was sure nothing could be worse than ge
 
 
 	
-
-  
-
-
-	
 	
 
-### Jakarta, City of Dreamers
-*Released on 2022-03-19, vote average 5.3*
+### The Northman
+*Released on 2022-04-01, vote average 10*
 
-Dom came to Jakarta with a hope of becoming an actor. His encounter with Pingkan and Radit brings him deep into the labyrinth of drug trafficking. Will he abandon his dream?
+A young Viking prince embarks on a quest to avenge his father’s murder.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/dfPBHv-jsjo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/oMSdFM12hOw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -240,11 +140,28 @@ A fictional history of two legendary revolutionaries&#39; journey away from home
 
 	
 	
+
+### Jakarta, City of Dreamers
+*Released on 2022-03-19, vote average 5.3*
+
+Dom came to Jakarta with a hope of becoming an actor. His encounter with Pingkan and Radit brings him deep into the labyrinth of drug trafficking. Will he abandon his dream?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/dfPBHv-jsjo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
 
 
+	
+	
 	
 
   
@@ -254,7 +171,7 @@ A fictional history of two legendary revolutionaries&#39; journey away from home
 	
 
 ### Trust No One: The Hunt for the Crypto King
-*Released on 2022-03-30, vote average 5.6*
+*Released on 2022-03-30, vote average 5.8*
 
 When the young founder of a collapsing cryptocurrency exchange dies unexpectedly, irate investors suspect there&#39;s more to his death than meets the eye.
 
@@ -274,42 +191,12 @@ When the young founder of a collapsing cryptocurrency exchange dies unexpectedly
 
 	
 	
-
-### OLIVIA RODRIGO: driving home 2 u (a SOUR film)
-*Released on 2022-03-25, vote average 6.6*
-
-Grammy® nominated singer-songwriter Olivia Rodrigo takes a familiar road trip from Salt Lake City, where she began writing her debut album “SOUR,” to Los Angeles. Along the way, Rodrigo recounts the memories of writing and creating her record-breaking debut album and shares her feelings as a young woman navigating a specific time in her life. Through new live arrangements of her songs, intimate interviews and never-before-seen footage from the making of the album, audiences will follow Olivia along on a cinematic journey exploring the story of “SOUR.”
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/O3FNru8idcY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
 
 
 	
-	
-
-### Infinite Storm
-*Released on 2022-03-25, vote average 5.5*
-
-One woman&#39;s journey for self-discovery and turns into a harrowing tale of survival.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zRaUIPMq-u0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -340,16 +227,9 @@ When an interdimensional rupture unravels reality, an unlikely hero must channel
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Moonshot
-*Released on 2022-03-23, vote average 2*
+*Released on 2022-03-23, vote average 5.4*
 
 In a future where Mars is terraformed and colonized by the best humanity has to offer, two very different college students wind up joining forces and sneak onboard a space shuttle to the red planet in order to be united with their significant others.
 
@@ -367,25 +247,33 @@ In a future where Mars is terraformed and colonized by the best humanity has to 
   
 
 
-
-## Opening soon
-
-
-	
-
-	
-
-	
-
 	
 	
+
+### OLIVIA RODRIGO: driving home 2 u (a SOUR film)
+*Released on 2022-03-25, vote average 6.8*
+
+Grammy® nominated singer-songwriter Olivia Rodrigo takes a familiar road trip from Salt Lake City, where she began writing her debut album “SOUR,” to Los Angeles. Along the way, Rodrigo recounts the memories of writing and creating her record-breaking debut album and shares her feelings as a young woman navigating a specific time in her life. Through new live arrangements of her songs, intimate interviews and never-before-seen footage from the making of the album, audiences will follow Olivia along on a cinematic journey exploring the story of “SOUR.”
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/O3FNru8idcY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
+	
+
+  
+
 
 	
 	
 
 ### The Bubble
-*Released on 2022-04-01, vote average 10*
+*Released on 2022-04-01, vote average 6*
 
 Sneaking out. Hooking up. Melting down. The cast and crew of a blockbuster action franchise attempt to shoot a sequel while quarantining at a posh hotel.
 
@@ -400,7 +288,57 @@ Sneaking out. Hooking up. Melting down. The cast and crew of a blockbuster actio
 	
 	
 
+  
+
+
 	
+	
+
+### Night&#39;s End
+*Released on 2022-03-31, vote average 3*
+
+An anxious shut-in unwittingly moves into a haunted apartment and hires a mysterious stranger to perform an exorcism which takes a horrific turn.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Qm1KEbud4AY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Infinite Storm
+*Released on 2022-03-25, vote average 5.5*
+
+One woman&#39;s journey for self-discovery and turns into a harrowing tale of survival.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zRaUIPMq-u0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
 
 	
 	
@@ -421,27 +359,38 @@ In 1943, two British intelligence officers concoct Operation Mincemeat, wherein 
 	
 	
 
+  
+
+
+	
+	
+	
+
+  
+
+
+
+## Opening soon
+
+
 	
 
 	
 
 	
-	
-
-### The Devil You Know
-*Released on 2022-04-01, vote average 7*
-
-Once-incarcerated Marcus Cowans is trying to turn over a new leaf with the support of his loving family. Upon discovering that one of his brothers may have been involved in a horrific crime, Marcus grapples with the limits of brotherhood and loyalty. He and his family, increasingly weary of the justice system’s failings, end up in the crosshairs of a seasoned but jaded detective.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/eb_ZpN98pg8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
