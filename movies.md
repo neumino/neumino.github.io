@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Sonic the Hedgehog 2
-*Released on 2022-03-30, vote average 7.9*
+*Released on 2022-03-30, vote average 8.2*
 
 After settling in Green Hills, Sonic is eager to prove he has what it takes to be a true hero. His test comes when Dr. Robotnik returns, this time with a new partner, Knuckles, in search for an emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands.
 
@@ -47,7 +47,7 @@ After settling in Green Hills, Sonic is eager to prove he has what it takes to b
 	
 
 ### Morbius
-*Released on 2022-03-30, vote average 5.8*
+*Released on 2022-03-30, vote average 5.7*
 
 Dangerously ill with a rare blood disorder, and determined to save others suffering his same fate, Dr. Michael Morbius attempts a desperate gamble. What at first appears to be a radical success soon reveals itself to be a remedy potentially worse than the disease.
 
@@ -55,7 +55,7 @@ Dangerously ill with a rare blood disorder, and determined to save others suffer
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Vz7WGflQfl4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/j8eRKItWNbw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -81,6 +81,13 @@ Follows a reclusive romance novelist who was sure nothing could be worse than ge
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -119,8 +126,30 @@ A young Viking prince embarks on a quest to avenge his father’s murder.
 	
 	
 
+### Trust No One: The Hunt for the Crypto King
+*Released on 2022-03-30, vote average 5.7*
+
+When the young founder of a collapsing cryptocurrency exchange dies unexpectedly, irate investors suspect there&#39;s more to his death than meets the eye.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/vW2BPQ15OSw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### RRR
-*Released on 2022-03-24, vote average 8.5*
+*Released on 2022-03-24, vote average 8.4*
 
 A fictional history of two legendary revolutionaries&#39; journey away from home before they began fighting for their country in the 1920s.
 
@@ -141,95 +170,8 @@ A fictional history of two legendary revolutionaries&#39; journey away from home
 	
 	
 
-### Jakarta, City of Dreamers
-*Released on 2022-03-19, vote average 5.3*
-
-Dom came to Jakarta with a hope of becoming an actor. His encounter with Pingkan and Radit brings him deep into the labyrinth of drug trafficking. Will he abandon his dream?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/dfPBHv-jsjo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Trust No One: The Hunt for the Crypto King
-*Released on 2022-03-30, vote average 5.8*
-
-When the young founder of a collapsing cryptocurrency exchange dies unexpectedly, irate investors suspect there&#39;s more to his death than meets the eye.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vW2BPQ15OSw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Everything Everywhere All at Once
-*Released on 2022-03-24, vote average 6.7*
-
-When an interdimensional rupture unravels reality, an unlikely hero must channel her newfound powers to fight bewildering dangers from the multiverse, as the fate of everything hangs in the balance.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/a5X-2dhFvEQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Moonshot
-*Released on 2022-03-23, vote average 5.4*
+*Released on 2022-03-23, vote average 6.5*
 
 In a future where Mars is terraformed and colonized by the best humanity has to offer, two very different college students wind up joining forces and sneak onboard a space shuttle to the red planet in order to be united with their significant others.
 
@@ -250,16 +192,16 @@ In a future where Mars is terraformed and colonized by the best humanity has to 
 	
 	
 
-### OLIVIA RODRIGO: driving home 2 u (a SOUR film)
-*Released on 2022-03-25, vote average 6.8*
+### The Bubble
+*Released on 2022-04-01, vote average 5.7*
 
-Grammy® nominated singer-songwriter Olivia Rodrigo takes a familiar road trip from Salt Lake City, where she began writing her debut album “SOUR,” to Los Angeles. Along the way, Rodrigo recounts the memories of writing and creating her record-breaking debut album and shares her feelings as a young woman navigating a specific time in her life. Through new live arrangements of her songs, intimate interviews and never-before-seen footage from the making of the album, audiences will follow Olivia along on a cinematic journey exploring the story of “SOUR.”
+Sneaking out. Hooking up. Melting down. The cast and crew of a blockbuster action franchise attempt to shoot a sequel while quarantining at a posh hotel.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/O3FNru8idcY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ZBD8X5zLG4U?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -271,17 +213,31 @@ Grammy® nominated singer-songwriter Olivia Rodrigo takes a familiar road trip f
 
 	
 	
+	
 
-### The Bubble
-*Released on 2022-04-01, vote average 6*
+  
 
-Sneaking out. Hooking up. Melting down. The cast and crew of a blockbuster action franchise attempt to shoot a sequel while quarantining at a posh hotel.
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### OLIVIA RODRIGO: driving home 2 u (a SOUR film)
+*Released on 2022-03-25, vote average 6.8*
+
+Grammy® nominated singer-songwriter Olivia Rodrigo takes a familiar road trip from Salt Lake City, where she began writing her debut album “SOUR,” to Los Angeles. Along the way, Rodrigo recounts the memories of writing and creating her record-breaking debut album and shares her feelings as a young woman navigating a specific time in her life. Through new live arrangements of her songs, intimate interviews and never-before-seen footage from the making of the album, audiences will follow Olivia along on a cinematic journey exploring the story of “SOUR.”
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ZBD8X5zLG4U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/O3FNru8idcY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -321,16 +277,43 @@ An anxious shut-in unwittingly moves into a haunted apartment and hires a myster
 	
 	
 
-### Infinite Storm
-*Released on 2022-03-25, vote average 5.5*
+### Everything Everywhere All at Once
+*Released on 2022-03-24, vote average 6.7*
 
-One woman&#39;s journey for self-discovery and turns into a harrowing tale of survival.
+When an interdimensional rupture unravels reality, an unlikely hero must channel her newfound powers to fight bewildering dangers from the multiverse, as the fate of everything hangs in the balance.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/zRaUIPMq-u0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/a5X-2dhFvEQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Boon
+*Released on 2022-04-01, vote average 8*
+
+Mercenary Nick Boon is trying to atone for his life as an enforcer for a ruthless syndicate. Running from his past, Boon moves to a remote area in the pacific northwest where he meets a struggling widow and her son. When he finds the pair living in fear of a criminal kingpin, Boon realizes the only way to protect them is to do what he does best: kill.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-S5BAq7UDRw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -343,16 +326,16 @@ One woman&#39;s journey for self-discovery and turns into a harrowing tale of su
 	
 	
 
-### Operation Mincemeat
-*Released on 2022-04-01, vote average 2*
+### Battle: Freestyle
+*Released on 2022-04-01, vote average 5*
 
-In 1943, two British intelligence officers concoct Operation Mincemeat, wherein their plan to drop a corpse with false papers off the coast of Spain would fool Nazi spies into believing the Allied forces were planning to attack by way of Greece rather than Sicily.
+Amalie and Mikael lead their street dance team to the finals in France but tough competition and personal distractions threaten to ruin their dreams.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/naactPCbIgQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-1GHgadFmuA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -363,6 +346,21 @@ In 1943, two British intelligence officers concoct Operation Mincemeat, wherein 
 
 
 	
+	
+
+### Jessie and the Elf Boy
+*Released on 2022-04-01, vote average 7*
+
+Determined to become a renowned hair stylist, a plucky teenager strikes up a partnership with an unexpected helper – an artistic forest elf.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/1hEVu0-WMH8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
