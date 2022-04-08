@@ -47,7 +47,7 @@ After settling in Green Hills, Sonic is eager to prove he has what it takes to b
 	
 
 ### Morbius
-*Released on 2022-03-30, vote average 5.7*
+*Released on 2022-03-30, vote average 5.8*
 
 Dangerously ill with a rare blood disorder, and determined to save others suffering his same fate, Dr. Michael Morbius attempts a desperate gamble. What at first appears to be a radical success soon reveals itself to be a remedy potentially worse than the disease.
 
@@ -55,7 +55,7 @@ Dangerously ill with a rare blood disorder, and determined to save others suffer
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/j8eRKItWNbw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/TNyatOHDRoQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -76,7 +76,7 @@ Dangerously ill with a rare blood disorder, and determined to save others suffer
 	
 
 ### Fantastic Beasts: The Secrets of Dumbledore
-*Released on 2022-04-07, vote average 5.7*
+*Released on 2022-04-07, vote average 6.8*
 
 In an effort to thwart Grindelwald&#39;s plans of raising pure-blood wizards to rule over all non-magical beings, Albus Dumbledore enlists his former student Newt Scamander, who agrees to help, though he&#39;s unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world.
 
@@ -84,7 +84,7 @@ In an effort to thwart Grindelwald&#39;s plans of raising pure-blood wizards to 
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/U6quJDpAOIY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-aaw-Or2iCY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -98,7 +98,7 @@ In an effort to thwart Grindelwald&#39;s plans of raising pure-blood wizards to 
 	
 
 ### The Bubble
-*Released on 2022-03-25, vote average 4.9*
+*Released on 2022-03-25, vote average 5*
 
 Sneaking out. Hooking up. Melting down. The cast and crew of a blockbuster action franchise attempt to shoot a sequel while quarantining at a posh hotel.
 
@@ -117,55 +117,11 @@ Sneaking out. Hooking up. Melting down. The cast and crew of a blockbuster actio
 
 
 	
-	
-	
 
   
 
 
 	
-	
-
-### The Lost City
-*Released on 2022-03-24, vote average 7.3*
-
-Follows a reclusive romance novelist who was sure nothing could be worse than getting stuck on a book tour with her cover model, until a kidnapping attempt sweeps them both into a cutthroat jungle adventure, proving life can be so much stranger, and more romantic, than any of her paperback fictions.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/5f9VcZqxFO4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Trust No One: The Hunt for the Crypto King
-*Released on 2022-03-30, vote average 5.5*
-
-When the young founder of a collapsing cryptocurrency exchange dies unexpectedly, irate investors suspect there&#39;s more to his death than meets the eye.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/vW2BPQ15OSw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -198,7 +154,7 @@ Amalie and Mikael lead their street dance team to the finals in France but tough
 	
 
 ### The Northman
-*Released on 2022-04-01, vote average 10*
+*Released on 2022-04-08, vote average 10*
 
 Prince Amleth is on the verge of becoming a man when his father is brutally murdered by his uncle, who kidnaps the boy&#39;s mother. Two decades later, Amleth is now a Viking who&#39;s on a mission to save his mother, kill his uncle and avenge his father.
 
@@ -219,38 +175,16 @@ Prince Amleth is on the verge of becoming a man when his father is brutally murd
 	
 	
 
-### Apollo 10½:  A Space Age Childhood
-*Released on 2022-03-24, vote average 7.1*
+### Trust No One: The Hunt for the Crypto King
+*Released on 2022-03-30, vote average 5.7*
 
-A man narrates stories of his life as a 10-year-old boy in 1969 Houston, weaving tales of nostalgia with a fantastical account of a journey to the moon.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Dzuz5s_Qk-A?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Everything Everywhere All at Once
-*Released on 2022-03-24, vote average 7.9*
-
-When an interdimensional rupture unravels reality, an unlikely hero must channel her newfound powers to fight bewildering dangers from the multiverse, as the fate of everything hangs in the balance.
+When the young founder of a collapsing cryptocurrency exchange dies unexpectedly, irate investors suspect there&#39;s more to his death than meets the eye.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/a5X-2dhFvEQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/vW2BPQ15OSw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -264,7 +198,7 @@ When an interdimensional rupture unravels reality, an unlikely hero must channel
 	
 
 ### In Space with Markiplier
-*Released on 2022-04-04, vote average 10*
+*Released on 2022-04-04, vote average 7.3*
 
 When the star-ship Invincible II seemingly becomes trapped in an inescapable time loop, its up to you, it&#39;s captain, to save the entire crew. An interactive experience.
 
@@ -285,16 +219,16 @@ When the star-ship Invincible II seemingly becomes trapped in an inescapable tim
 	
 	
 
-### RRR
-*Released on 2022-03-24, vote average 8.2*
+### Jurassic Island
+*Released on 2022-04-05, vote average 1*
 
-A fictional history of two legendary revolutionaries&#39; journey away from home before they began fighting for their country in the 1920s.
+Ava uncovers the whereabouts of her missing father to an unchartered Island; a mythical lost world uncovered before them by her grandfather. Joined by a group of adventurers and scientists, they arrive at Jurassic Island where it becomes clear that the previous team had run into disaster. Dinosaurs and toxic leeches mean it’s no longer a search for her father, but a battle for survival.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Xsgz7Q0iWzA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/XAmtxaxA_ng?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -305,37 +239,22 @@ A fictional history of two legendary revolutionaries&#39; journey away from home
 
 
 	
-
-  
-
-
 	
 
-  
+### Serial (Bad) Weddings 3
+*Released on 2022-04-06, vote average 6*
 
-
-	
-	
-
-### Hunting Souls
-*Released on 2022-04-04, vote average 1*
-
-Hunting Souls is the story of an American couple who are dealing with the hardships of caring for their sick child. They discover that they are being hunted by a demon.
+Claude and Marie Verneuil will soon be celebrating their 40th wedding anniversary. For the occasion, their four daughters - Isabelle, Odile, Ségolène and Laure - decide to organize a big surprise party in their family home in Chinon. They also decide to invite, each, the parents of their respective husbands - Rachid Benassem, David Benichou, Chao Ling and Charles Koffi.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/wUilm4CZhLM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ZxlLzojqHUE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -345,7 +264,7 @@ Hunting Souls is the story of an American couple who are dealing with the hardsh
 	
 
 ### Prototype
-*Released on 2022-04-05, vote average 4*
+*Released on 2022-04-05, vote average 2.3*
 
 In the near future, life-like androids with artificial intelligence have been created to help people with menial household tasks. The prototype, One, created by Roger Marshall and tested by his family, proves to be popular but flawed. Roger has been working on a new model, Two, whose improved features show promise of its super-human abilities. As tensions rise between Roger and wife Shelley, the androids malfunction and the lives of the whole family are soon in danger of Two&#39;s sinister plans.
 
@@ -363,38 +282,11 @@ In the near future, life-like androids with artificial intelligence have been cr
   
 
 
-
-## Opening soon
-
-
-	
-	
-
-### Fantastic Beasts: The Secrets of Dumbledore
-*Released on 2022-04-07, vote average 5.7*
-
-In an effort to thwart Grindelwald&#39;s plans of raising pure-blood wizards to rule over all non-magical beings, Albus Dumbledore enlists his former student Newt Scamander, who agrees to help, though he&#39;s unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/U6quJDpAOIY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
 	
 	
 
 ### Return to Space
-*Released on 2022-04-07, vote average 9.8*
+*Released on 2022-04-07, vote average 9.4*
 
 The inspirational rise of SpaceX as well as Elon Musk&#39;s two-decade effort to resurrect America’s space travel ambitions.
 
@@ -407,6 +299,78 @@ The inspirational rise of SpaceX as well as Elon Musk&#39;s two-decade effort to
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### All the Old Knives
+*Released on 2022-04-08, vote average 7*
+
+Two CIA agents and ex-lovers are brought back together years after a failed rescue attempt and forced to blur the lines between profession and passion.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6s7NziAetNs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+
+## Opening soon
+
+
+	
+	
+
+### The Northman
+*Released on 2022-04-08, vote average 10*
+
+Prince Amleth is on the verge of becoming a man when his father is brutally murdered by his uncle, who kidnaps the boy&#39;s mother. Two decades later, Amleth is now a Viking who&#39;s on a mission to save his mother, kill his uncle and avenge his father.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/MFpZNicfhyE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
 	
 
 	
@@ -447,7 +411,9 @@ Two CIA agents and ex-lovers are brought back together years after a failed resc
 	
 
 	
+
 	
+
 	
 
 	
