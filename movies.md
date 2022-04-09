@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Sonic the Hedgehog 2
-*Released on 2022-03-30, vote average 7.8*
+*Released on 2022-03-30, vote average 7.6*
 
 After settling in Green Hills, Sonic is eager to prove he has what it takes to be a true hero. His test comes when Dr. Robotnik returns, this time with a new partner, Knuckles, in search for an emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands.
 
@@ -47,7 +47,7 @@ After settling in Green Hills, Sonic is eager to prove he has what it takes to b
 	
 
 ### Morbius
-*Released on 2022-03-30, vote average 5.8*
+*Released on 2022-03-30, vote average 5.9*
 
 Dangerously ill with a rare blood disorder, and determined to save others suffering his same fate, Dr. Michael Morbius attempts a desperate gamble. What at first appears to be a radical success soon reveals itself to be a remedy potentially worse than the disease.
 
@@ -76,7 +76,7 @@ Dangerously ill with a rare blood disorder, and determined to save others suffer
 	
 
 ### Fantastic Beasts: The Secrets of Dumbledore
-*Released on 2022-04-07, vote average 6.8*
+*Released on 2022-04-07, vote average 7.3*
 
 In an effort to thwart Grindelwald&#39;s plans of raising pure-blood wizards to rule over all non-magical beings, Albus Dumbledore enlists his former student Newt Scamander, who agrees to help, though he&#39;s unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world.
 
@@ -95,35 +95,6 @@ In an effort to thwart Grindelwald&#39;s plans of raising pure-blood wizards to 
 
 
 	
-	
-
-### The Bubble
-*Released on 2022-03-25, vote average 5*
-
-Sneaking out. Hooking up. Melting down. The cast and crew of a blockbuster action franchise attempt to shoot a sequel while quarantining at a posh hotel.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZBD8X5zLG4U?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
 
   
 
@@ -132,7 +103,7 @@ Sneaking out. Hooking up. Melting down. The cast and crew of a blockbuster actio
 	
 
 ### Battle: Freestyle
-*Released on 2022-04-01, vote average 5.1*
+*Released on 2022-04-01, vote average 5.2*
 
 Amalie and Mikael lead their street dance team to the finals in France but tough competition and personal distractions threaten to ruin their dreams.
 
@@ -152,9 +123,16 @@ Amalie and Mikael lead their street dance team to the finals in France but tough
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### The Northman
-*Released on 2022-04-08, vote average 10*
+*Released on 2022-04-08, vote average 8*
 
 Prince Amleth is on the verge of becoming a man when his father is brutally murdered by his uncle, who kidnaps the boy&#39;s mother. Two decades later, Amleth is now a Viking who&#39;s on a mission to save his mother, kill his uncle and avenge his father.
 
@@ -197,28 +175,6 @@ When the young founder of a collapsing cryptocurrency exchange dies unexpectedly
 	
 	
 
-### In Space with Markiplier
-*Released on 2022-04-04, vote average 7.3*
-
-When the star-ship Invincible II seemingly becomes trapped in an inescapable time loop, its up to you, it&#39;s captain, to save the entire crew. An interactive experience.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/R1sHd39XQUk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Jurassic Island
 *Released on 2022-04-05, vote average 1*
 
@@ -241,52 +197,8 @@ Ava uncovers the whereabouts of her missing father to an unchartered Island; a m
 	
 	
 
-### Serial (Bad) Weddings 3
-*Released on 2022-04-06, vote average 6*
-
-Claude and Marie Verneuil will soon be celebrating their 40th wedding anniversary. For the occasion, their four daughters - Isabelle, Odile, Ségolène and Laure - decide to organize a big surprise party in their family home in Chinon. They also decide to invite, each, the parents of their respective husbands - Rachid Benassem, David Benichou, Chao Ling and Charles Koffi.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ZxlLzojqHUE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Prototype
-*Released on 2022-04-05, vote average 2.3*
-
-In the near future, life-like androids with artificial intelligence have been created to help people with menial household tasks. The prototype, One, created by Roger Marshall and tested by his family, proves to be popular but flawed. Roger has been working on a new model, Two, whose improved features show promise of its super-human abilities. As tensions rise between Roger and wife Shelley, the androids malfunction and the lives of the whole family are soon in danger of Two&#39;s sinister plans.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/1eCEvyGnd7U?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Return to Space
-*Released on 2022-04-07, vote average 9.4*
+*Released on 2022-04-07, vote average 8.5*
 
 The inspirational rise of SpaceX as well as Elon Musk&#39;s two-decade effort to resurrect America’s space travel ambitions.
 
@@ -308,9 +220,9 @@ The inspirational rise of SpaceX as well as Elon Musk&#39;s two-decade effort to
 	
 
 ### All the Old Knives
-*Released on 2022-04-08, vote average 7*
+*Released on 2022-04-08, vote average 6.3*
 
-Two CIA agents and ex-lovers are brought back together years after a failed rescue attempt and forced to blur the lines between profession and passion.
+When the CIA discovers one of its agents leaked information that cost more than 100 people their lives, veteran operative Henry Pelham is assigned to root out the mole with his former lover and colleague Celia Harrison.
 
 <iframe id="player"
 	type="text/html"
@@ -332,12 +244,66 @@ Two CIA agents and ex-lovers are brought back together years after a failed resc
 
 
 	
+	
+
+### In Space with Markiplier
+*Released on 2022-04-04, vote average 7.3*
+
+When the star-ship Invincible II seemingly becomes trapped in an inescapable time loop, its up to you, it&#39;s captain, to save the entire crew. An interactive experience.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/R1sHd39XQUk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
 	
 	
+
+### Laura Pausini – Pleased to Meet You
+*Released on 2022-04-07, vote average 7*
+
+It&#39;s the movie that retraces the Laura’s life in a wholly original way. Through never-seen-before footage of her real and fictional life, the artist shows us her essence, giving an honest and bold analysis of her life and how it could have been without that victory at Sanremo that, in 1993, changed her destiny forever.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/lTu1CLS932U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -353,43 +319,9 @@ Two CIA agents and ex-lovers are brought back together years after a failed resc
 
 
 	
-	
-
-### The Northman
-*Released on 2022-04-08, vote average 10*
-
-Prince Amleth is on the verge of becoming a man when his father is brutally murdered by his uncle, who kidnaps the boy&#39;s mother. Two decades later, Amleth is now a Viking who&#39;s on a mission to save his mother, kill his uncle and avenge his father.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/MFpZNicfhyE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
-	
-	
-
-### All the Old Knives
-*Released on 2022-04-08, vote average 7*
-
-Two CIA agents and ex-lovers are brought back together years after a failed rescue attempt and forced to blur the lines between profession and passion.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/6s7NziAetNs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
@@ -414,6 +346,8 @@ Two CIA agents and ex-lovers are brought back together years after a failed resc
 
 	
 
+	
+	
 	
 
 	
