@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Sonic the Hedgehog 2
-*Released on 2022-03-30, vote average 7.6*
+*Released on 2022-03-30, vote average 7.7*
 
 After settling in Green Hills, Sonic is eager to prove he has what it takes to be a true hero. His test comes when Dr. Robotnik returns, this time with a new partner, Knuckles, in search for an emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands.
 
@@ -76,7 +76,7 @@ Dangerously ill with a rare blood disorder, and determined to save others suffer
 	
 
 ### Fantastic Beasts: The Secrets of Dumbledore
-*Released on 2022-04-07, vote average 7.3*
+*Released on 2022-04-07, vote average 7.2*
 
 In an effort to thwart Grindelwald&#39;s plans of raising pure-blood wizards to rule over all non-magical beings, Albus Dumbledore enlists his former student Newt Scamander, who agrees to help, though he&#39;s unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world.
 
@@ -89,11 +89,6 @@ In an effort to thwart Grindelwald&#39;s plans of raising pure-blood wizards to 
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -116,6 +111,11 @@ Amalie and Mikael lead their street dance team to the finals in France but tough
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -154,7 +154,7 @@ Prince Amleth is on the verge of becoming a man when his father is brutally murd
 	
 
 ### Trust No One: The Hunt for the Crypto King
-*Released on 2022-03-30, vote average 5.7*
+*Released on 2022-03-30, vote average 5.8*
 
 When the young founder of a collapsing cryptocurrency exchange dies unexpectedly, irate investors suspect there&#39;s more to his death than meets the eye.
 
@@ -175,30 +175,8 @@ When the young founder of a collapsing cryptocurrency exchange dies unexpectedly
 	
 	
 
-### Jurassic Island
-*Released on 2022-04-05, vote average 1*
-
-Ava uncovers the whereabouts of her missing father to an unchartered Island; a mythical lost world uncovered before them by her grandfather. Joined by a group of adventurers and scientists, they arrive at Jurassic Island where it becomes clear that the previous team had run into disaster. Dinosaurs and toxic leeches mean it’s no longer a search for her father, but a battle for survival.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XAmtxaxA_ng?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Return to Space
-*Released on 2022-04-07, vote average 8.5*
+*Released on 2022-04-07, vote average 8.4*
 
 The inspirational rise of SpaceX as well as Elon Musk&#39;s two-decade effort to resurrect America’s space travel ambitions.
 
@@ -220,7 +198,7 @@ The inspirational rise of SpaceX as well as Elon Musk&#39;s two-decade effort to
 	
 
 ### All the Old Knives
-*Released on 2022-04-08, vote average 6.3*
+*Released on 2022-04-08, vote average 6.1*
 
 When the CIA discovers one of its agents leaked information that cost more than 100 people their lives, veteran operative Henry Pelham is assigned to root out the mole with his former lover and colleague Celia Harrison.
 
@@ -239,6 +217,23 @@ When the CIA discovers one of its agents leaked information that cost more than 
 
 
 	
+	
+
+### Metal Lords
+*Released on 2022-04-08, vote average 5.7*
+
+For teenage misfits Hunter and Kevin, the path to glory is clear: Devote themselves to metal. Win Battle of the Bands. And be worshipped like gods.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/TzAAtZx6xzk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -246,16 +241,38 @@ When the CIA discovers one of its agents leaked information that cost more than 
 	
 	
 
-### In Space with Markiplier
-*Released on 2022-04-04, vote average 7.3*
+### Jurassic Island
+*Released on 2022-04-05, vote average 2.5*
 
-When the star-ship Invincible II seemingly becomes trapped in an inescapable time loop, its up to you, it&#39;s captain, to save the entire crew. An interactive experience.
+Ava uncovers the whereabouts of her missing father to an unchartered Island; a mythical lost world uncovered before them by her grandfather. Joined by a group of adventurers and scientists, they arrive at Jurassic Island where it becomes clear that the previous team had run into disaster. Dinosaurs and toxic leeches mean it’s no longer a search for her father, but a battle for survival.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/R1sHd39XQUk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/XAmtxaxA_ng?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Yaksha: Ruthless Operations
+*Released on 2022-04-08, vote average 7.3*
+
+Nicknamed after a human-devouring spirit, the ruthless leader of an overseas black ops team takes up a dangerous mission in a city riddled with spies.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/G71-DM4X01A?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -269,7 +286,7 @@ When the star-ship Invincible II seemingly becomes trapped in an inescapable tim
 	
 
 ### Laura Pausini – Pleased to Meet You
-*Released on 2022-04-07, vote average 7*
+*Released on 2022-04-07, vote average 7.6*
 
 It&#39;s the movie that retraces the Laura’s life in a wholly original way. Through never-seen-before footage of her real and fictional life, the artist shows us her essence, giving an honest and bold analysis of her life and how it could have been without that victory at Sanremo that, in 1993, changed her destiny forever.
 
@@ -299,11 +316,28 @@ It&#39;s the movie that retraces the Laura’s life in a wholly original way. Th
 
 	
 	
+
+### As They Made Us
+*Released on 2022-04-08, vote average 6.5*
+
+Recently divorced Abigail arrives right in the midst of her parents&#39; chaotic antics. After a lifetime of dysfunctional hilarity, the family – accompanied by an estranged brother – find it within themselves to embrace for one final goodbye.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/u8fcdbzThrs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
 
 
+	
+	
 	
 
   
@@ -329,6 +363,16 @@ It&#39;s the movie that retraces the Laura’s life in a wholly original way. Th
 	
 
 	
+	
+	
+
+	
+
+	
+
+	
+	
+	
 
 	
 
@@ -340,14 +384,6 @@ It&#39;s the movie that retraces the Laura’s life in a wholly original way. Th
 
 	
 
-	
-
-	
-
-	
-
-	
-	
 	
 
 	
