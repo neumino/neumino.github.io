@@ -47,7 +47,7 @@ After settling in Green Hills, Sonic is eager to prove he has what it takes to b
 	
 
 ### Morbius
-*Released on 2022-03-30, vote average 5.9*
+*Released on 2022-03-30, vote average 5.8*
 
 Dangerously ill with a rare blood disorder, and determined to save others suffering his same fate, Dr. Michael Morbius attempts a desperate gamble. What at first appears to be a radical success soon reveals itself to be a remedy potentially worse than the disease.
 
@@ -55,7 +55,7 @@ Dangerously ill with a rare blood disorder, and determined to save others suffer
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/TNyatOHDRoQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/nivJJr-vtSo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -76,7 +76,7 @@ Dangerously ill with a rare blood disorder, and determined to save others suffer
 	
 
 ### Fantastic Beasts: The Secrets of Dumbledore
-*Released on 2022-04-07, vote average 7.2*
+*Released on 2022-04-07, vote average 7.4*
 
 In an effort to thwart Grindelwald&#39;s plans of raising pure-blood wizards to rule over all non-magical beings, Albus Dumbledore enlists his former student Newt Scamander, who agrees to help, though he&#39;s unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world.
 
@@ -175,6 +175,50 @@ When the young founder of a collapsing cryptocurrency exchange dies unexpectedly
 	
 	
 
+### All the Old Knives
+*Released on 2022-04-08, vote average 6.2*
+
+When the CIA discovers one of its agents leaked information that cost more than 100 people their lives, veteran operative Henry Pelham is assigned to root out the mole with his former lover and colleague Celia Harrison.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6s7NziAetNs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Metal Lords
+*Released on 2022-04-08, vote average 6.9*
+
+For teenage misfits Hunter and Kevin, the path to glory is clear: Devote themselves to metal. Win Battle of the Bands. And be worshipped like gods.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/TzAAtZx6xzk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Return to Space
 *Released on 2022-04-07, vote average 8.4*
 
@@ -197,16 +241,16 @@ The inspirational rise of SpaceX as well as Elon Musk&#39;s two-decade effort to
 	
 	
 
-### All the Old Knives
-*Released on 2022-04-08, vote average 6.1*
+### Yaksha: Ruthless Operations
+*Released on 2022-04-08, vote average 7*
 
-When the CIA discovers one of its agents leaked information that cost more than 100 people their lives, veteran operative Henry Pelham is assigned to root out the mole with his former lover and colleague Celia Harrison.
+Nicknamed after a human-devouring spirit, the ruthless leader of an overseas black ops team takes up a dangerous mission in a city riddled with spies.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/6s7NziAetNs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/G71-DM4X01A?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -219,19 +263,53 @@ When the CIA discovers one of its agents leaked information that cost more than 
 	
 	
 
-### Metal Lords
-*Released on 2022-04-08, vote average 5.7*
+### Agent Game
+*Released on 2022-04-08, vote average 8.5*
 
-For teenage misfits Hunter and Kevin, the path to glory is clear: Devote themselves to metal. Win Battle of the Bands. And be worshipped like gods.
+In this riveting spy thriller, no one is safe. Harris, a CIA interrogator at an Agency black site, finds himself the target of a rendition operation after being scapegoated for an interrogation gone horribly wrong. As the team tasked to bring Harris in begins to question their orders -- and each other --Olsen (Mel Gibson), a senior intelligence officer, and his subordinate, Visser, raise the stakes. Now, it&#39;s up to Harris and some newfound allies to uncover the truth and turn the tables.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/TzAAtZx6xzk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ZXgS5a2aqC4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### As They Made Us
+*Released on 2022-04-08, vote average 7.7*
+
+Recently divorced Abigail arrives right in the midst of her parents&#39; chaotic antics. After a lifetime of dysfunctional hilarity, the family – accompanied by an estranged brother – find it within themselves to embrace for one final goodbye.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/u8fcdbzThrs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -263,16 +341,16 @@ Ava uncovers the whereabouts of her missing father to an unchartered Island; a m
 	
 	
 
-### Yaksha: Ruthless Operations
-*Released on 2022-04-08, vote average 7.3*
+### Coast
+*Released on 2022-04-08, vote average 7*
 
-Nicknamed after a human-devouring spirit, the ruthless leader of an overseas black ops team takes up a dangerous mission in a city riddled with spies.
+Desperate to escape the trappings of her small coastal farming town, 16-year-old Abby falls for the lead singer of a touring rock band and must decide whether or not to leave her family and friends behind. With live music performances and an exciting ensemble cast, COAST is about female friendships, finding your truth, and letting the music take you home.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/G71-DM4X01A?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ZMvyn-rRmxA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -304,50 +382,6 @@ It&#39;s the movie that retraces the Laura’s life in a wholly original way. Th
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### As They Made Us
-*Released on 2022-04-08, vote average 6.5*
-
-Recently divorced Abigail arrives right in the midst of her parents&#39; chaotic antics. After a lifetime of dysfunctional hilarity, the family – accompanied by an estranged brother – find it within themselves to embrace for one final goodbye.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/u8fcdbzThrs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -355,6 +389,31 @@ Recently divorced Abigail arrives right in the midst of her parents&#39; chaotic
 	
 
 	
+	
+
+### Father Stu
+*Released on 2022-04-13, vote average 10*
+
+The true-life story of boxer-turned-priest, Father Stuart Long, whose journey from self-destruction to redemption inspired countless people along the way.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0_-txl7veKY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+	
+
+	
+	
+	
 
 	
 
@@ -363,15 +422,7 @@ Recently divorced Abigail arrives right in the midst of her parents&#39; chaotic
 	
 
 	
-	
-	
 
-	
-
-	
-
-	
-	
 	
 
 	
