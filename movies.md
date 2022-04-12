@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Sonic the Hedgehog 2
-*Released on 2022-03-30, vote average 7.7*
+*Released on 2022-03-30, vote average 7.8*
 
 After settling in Green Hills, Sonic is eager to prove he has what it takes to be a true hero. His test comes when Dr. Robotnik returns, this time with a new partner, Knuckles, in search for an emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands.
 
@@ -55,7 +55,7 @@ Dangerously ill with a rare blood disorder, and determined to save others suffer
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/nivJJr-vtSo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Dl_VBL9RrY4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -76,7 +76,7 @@ Dangerously ill with a rare blood disorder, and determined to save others suffer
 	
 
 ### Fantastic Beasts: The Secrets of Dumbledore
-*Released on 2022-04-07, vote average 7.4*
+*Released on 2022-04-07, vote average 7.5*
 
 In an effort to thwart Grindelwald&#39;s plans of raising pure-blood wizards to rule over all non-magical beings, Albus Dumbledore enlists his former student Newt Scamander, who agrees to help, though he&#39;s unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world.
 
@@ -84,7 +84,7 @@ In an effort to thwart Grindelwald&#39;s plans of raising pure-blood wizards to 
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-aaw-Or2iCY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Fo6TfHkLW6Y?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -98,7 +98,7 @@ In an effort to thwart Grindelwald&#39;s plans of raising pure-blood wizards to 
 	
 
 ### Battle: Freestyle
-*Released on 2022-04-01, vote average 5.2*
+*Released on 2022-04-01, vote average 5.1*
 
 Amalie and Mikael lead their street dance team to the finals in France but tough competition and personal distractions threaten to ruin their dreams.
 
@@ -132,7 +132,7 @@ Amalie and Mikael lead their street dance team to the finals in France but tough
 	
 
 ### The Northman
-*Released on 2022-04-08, vote average 8*
+*Released on 2022-04-08, vote average 8.3*
 
 Prince Amleth is on the verge of becoming a man when his father is brutally murdered by his uncle, who kidnaps the boy&#39;s mother. Two decades later, Amleth is now a Viking who&#39;s on a mission to save his mother, kill his uncle and avenge his father.
 
@@ -154,7 +154,7 @@ Prince Amleth is on the verge of becoming a man when his father is brutally murd
 	
 
 ### Trust No One: The Hunt for the Crypto King
-*Released on 2022-03-30, vote average 5.8*
+*Released on 2022-03-30, vote average 5.9*
 
 When the young founder of a collapsing cryptocurrency exchange dies unexpectedly, irate investors suspect there&#39;s more to his death than meets the eye.
 
@@ -219,30 +219,8 @@ For teenage misfits Hunter and Kevin, the path to glory is clear: Devote themsel
 	
 	
 
-### Return to Space
-*Released on 2022-04-07, vote average 8.4*
-
-The inspirational rise of SpaceX as well as Elon Musk&#39;s two-decade effort to resurrect America’s space travel ambitions.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/sIME4sLR4-8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Yaksha: Ruthless Operations
-*Released on 2022-04-08, vote average 7*
+*Released on 2022-04-08, vote average 7.1*
 
 Nicknamed after a human-devouring spirit, the ruthless leader of an overseas black ops team takes up a dangerous mission in a city riddled with spies.
 
@@ -264,7 +242,7 @@ Nicknamed after a human-devouring spirit, the ruthless leader of an overseas bla
 	
 
 ### Agent Game
-*Released on 2022-04-08, vote average 8.5*
+*Released on 2022-04-08, vote average 7*
 
 In this riveting spy thriller, no one is safe. Harris, a CIA interrogator at an Agency black site, finds himself the target of a rendition operation after being scapegoated for an interrogation gone horribly wrong. As the team tasked to bring Harris in begins to question their orders -- and each other --Olsen (Mel Gibson), a senior intelligence officer, and his subordinate, Visser, raise the stakes. Now, it&#39;s up to Harris and some newfound allies to uncover the truth and turn the tables.
 
@@ -289,6 +267,35 @@ In this riveting spy thriller, no one is safe. Harris, a CIA interrogator at an 
 
 	
 	
+	
+
+  
+
+
+	
+	
+
+### Return to Space
+*Released on 2022-04-07, vote average 8.4*
+
+The inspirational rise of SpaceX as well as Elon Musk&#39;s two-decade effort to resurrect America’s space travel ambitions.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/sIME4sLR4-8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
 
 ### As They Made Us
 *Released on 2022-04-08, vote average 7.7*
@@ -303,13 +310,6 @@ Recently divorced Abigail arrives right in the midst of her parents&#39; chaotic
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -341,16 +341,16 @@ Ava uncovers the whereabouts of her missing father to an unchartered Island; a m
 	
 	
 
-### Coast
-*Released on 2022-04-08, vote average 7*
+### A Royal Runaway Romance
+*Released on 2022-04-09, vote average 6*
 
-Desperate to escape the trappings of her small coastal farming town, 16-year-old Abby falls for the lead singer of a touring rock band and must decide whether or not to leave her family and friends behind. With live music performances and an exciting ensemble cast, COAST is about female friendships, finding your truth, and letting the music take you home.
+Princess Amelia of Bundbury travels across America to explore a budding romance with an artist, only to fall in love with her bodyguard, Grady.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ZMvyn-rRmxA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/1IuZfieb_Cc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -360,23 +360,6 @@ Desperate to escape the trappings of her small coastal farming town, 16-year-old
   
 
 
-	
-	
-
-### Laura Pausini – Pleased to Meet You
-*Released on 2022-04-07, vote average 7.6*
-
-It&#39;s the movie that retraces the Laura’s life in a wholly original way. Through never-seen-before footage of her real and fictional life, the artist shows us her essence, giving an honest and bold analysis of her life and how it could have been without that victory at Sanremo that, in 1993, changed her destiny forever.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/lTu1CLS932U?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -412,8 +395,6 @@ The true-life story of boxer-turned-priest, Father Stuart Long, whose journey fr
 	
 
 	
-	
-	
 
 	
 
@@ -435,6 +416,8 @@ The true-life story of boxer-turned-priest, Father Stuart Long, whose journey fr
 
 	
 
+	
+	
 	
 
 	
