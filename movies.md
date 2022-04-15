@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Fantastic Beasts: The Secrets of Dumbledore
-*Released on 2022-04-07, vote average 7.4*
+*Released on 2022-04-07, vote average 7.2*
 
 In an effort to thwart Grindelwald&#39;s plans of raising pure-blood wizards to rule over all non-magical beings, Albus Dumbledore enlists his former student Newt Scamander, who agrees to help, though he&#39;s unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world.
 
@@ -46,33 +46,6 @@ In an effort to thwart Grindelwald&#39;s plans of raising pure-blood wizards to 
 	
 	
 
-### Battle: Freestyle
-*Released on 2022-04-01, vote average 5.1*
-
-Amalie and Mikael lead their street dance team to the finals in France but tough competition and personal distractions threaten to ruin their dreams.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-1GHgadFmuA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### All the Old Knives
 *Released on 2022-04-08, vote average 6.1*
 
@@ -96,7 +69,7 @@ When the CIA discovers one of its agents leaked information that cost more than 
 	
 
 ### Metal Lords
-*Released on 2022-04-08, vote average 6.6*
+*Released on 2022-04-08, vote average 6.7*
 
 For teenage misfits Hunter and Kevin, the path to glory is clear: Devote themselves to metal. Win Battle of the Bands. And be worshipped like gods.
 
@@ -117,30 +90,8 @@ For teenage misfits Hunter and Kevin, the path to glory is clear: Devote themsel
 	
 	
 
-### The Northman
-*Released on 2022-04-08, vote average 8.5*
-
-Prince Amleth is on the verge of becoming a man when his father is brutally murdered by his uncle, who kidnaps the boy&#39;s mother. Two decades later, Amleth is now a Viking who&#39;s on a mission to save his mother, kill his uncle and avenge his father.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/VugnkcXzQtc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Yaksha: Ruthless Operations
-*Released on 2022-04-08, vote average 6.8*
+*Released on 2022-04-08, vote average 6.6*
 
 Nicknamed after a human-devouring spirit, the ruthless leader of an overseas black ops team takes up a dangerous mission in a city riddled with spies.
 
@@ -159,12 +110,56 @@ Nicknamed after a human-devouring spirit, the ruthless leader of an overseas bla
 
 
 	
+
+  
+
+
+	
+	
+
+### Battle: Freestyle
+*Released on 2022-04-01, vote average 5.1*
+
+Amalie and Mikael lead their street dance team to the finals in France but tough competition and personal distractions threaten to ruin their dreams.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-1GHgadFmuA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
   
 
 
+	
+	
+	
+
+  
+
+
+	
+	
+
+### The Northman
+*Released on 2022-04-08, vote average 8.8*
+
+Prince Amleth is on the verge of becoming a man when his father is brutally murdered by his uncle, who kidnaps the boy&#39;s mother. Two decades later, Amleth is now a Viking who&#39;s on a mission to save his mother, kill his uncle and avenge his father.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/E7wNR9sHQ2g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -193,6 +188,11 @@ The inspirational rise of SpaceX as well as Elon Musk&#39;s two-decade effort to
 
 
 	
+
+  
+
+
+	
 	
 
 ### Father Stu
@@ -209,6 +209,33 @@ The true-life story of boxer-turned-priest, Father Stuart Long, whose journey fr
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -237,54 +264,12 @@ Harris, a CIA interrogator at an Agency black site, finds himself the target of 
 
 
 	
-
-  
-
-
-	
 	
 	
 
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Jurassic Island
-*Released on 2022-04-05, vote average 2.5*
-
-Ava uncovers the whereabouts of her missing father to an unchartered Island; a mythical lost world uncovered before them by her grandfather. Joined by a group of adventurers and scientists, they arrive at Jurassic Island where it becomes clear that the previous team had run into disaster. Dinosaurs and toxic leeches mean it’s no longer a search for her father, but a battle for survival.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XAmtxaxA_ng?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
