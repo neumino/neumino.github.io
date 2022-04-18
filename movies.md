@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Fantastic Beasts: The Secrets of Dumbledore
-*Released on 2022-04-07, vote average 7.1*
+*Released on 2022-04-07, vote average 7*
 
 In an effort to thwart Grindelwald&#39;s plans of raising pure-blood wizards to rule over all non-magical beings, Albus Dumbledore enlists his former student Newt Scamander, who agrees to help, though he&#39;s unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world.
 
@@ -47,7 +47,7 @@ In an effort to thwart Grindelwald&#39;s plans of raising pure-blood wizards to 
 	
 
 ### All the Old Knives
-*Released on 2022-04-08, vote average 6.1*
+*Released on 2022-04-08, vote average 6*
 
 When the CIA discovers one of its agents leaked information that cost more than 100 people their lives, veteran operative Henry Pelham is assigned to root out the mole with his former lover and colleague Celia Harrison.
 
@@ -91,7 +91,7 @@ For teenage misfits Hunter and Kevin, the path to glory is clear: Devote themsel
 	
 
 ### Yaksha: Ruthless Operations
-*Released on 2022-04-08, vote average 6.3*
+*Released on 2022-04-08, vote average 6.1*
 
 Nicknamed after a human-devouring spirit, the ruthless leader of an overseas black ops team takes up a dangerous mission in a city riddled with spies.
 
@@ -120,7 +120,7 @@ Nicknamed after a human-devouring spirit, the ruthless leader of an overseas bla
 	
 
 ### The Northman
-*Released on 2022-04-08, vote average 8.8*
+*Released on 2022-04-07, vote average 8.6*
 
 Prince Amleth is on the verge of becoming a man when his father is brutally murdered by his uncle, who kidnaps the boy&#39;s mother. Two decades later, Amleth is now a Viking who&#39;s on a mission to save his mother, kill his uncle and avenge his father.
 
@@ -128,7 +128,7 @@ Prince Amleth is on the verge of becoming a man when his father is brutally murd
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/E7wNR9sHQ2g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/r7bg7swhCvw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -147,7 +147,7 @@ Prince Amleth is on the verge of becoming a man when his father is brutally murd
 	
 
 ### Return to Space
-*Released on 2022-04-07, vote average 7.1*
+*Released on 2022-04-07, vote average 7*
 
 The inspirational rise of SpaceX as well as Elon Musk&#39;s two-decade effort to resurrect America’s space travel ambitions.
 
@@ -166,48 +166,6 @@ The inspirational rise of SpaceX as well as Elon Musk&#39;s two-decade effort to
 
 
 	
-
-  
-
-
-	
-	
-
-### K.G.F: Chapter 2
-*Released on 2022-04-13, vote average 8.1*
-
-The blood-soaked land of Kolar Gold Fields (KGF) has a new overlord now - Rocky, whose name strikes fear in the heart of his foes. His allies look up to Rocky as their Savior, the government sees him as a threat to law and order; enemies are clamoring for revenge and conspiring for his downfall. Bloodier battles and darker days await as Rocky continues on his quest for unchallenged supremacy.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Qah9sSIXJqk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Father Stu
-*Released on 2022-04-13, vote average 7.5*
-
-The true-life story of boxer-turned-priest, Father Stuart Long, whose journey from self-destruction to redemption inspired countless people along the way.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0_-txl7veKY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -225,7 +183,7 @@ The true-life story of boxer-turned-priest, Father Stuart Long, whose journey fr
 	
 
 ### Choose or Die
-*Released on 2022-04-15, vote average 4.8*
+*Released on 2022-04-15, vote average 5*
 
 In pursuit of an unclaimed $125,000 prize, a broke college dropout decides to play an obscure, 1980s survival computer game. But the game curses her, and she’s faced with dangerous choices and reality-warping challenges. After a series of unexpectedly terrifying moments, she realizes she’s no longer playing for the money but for her life.
 
@@ -244,11 +202,21 @@ In pursuit of an unclaimed $125,000 prize, a broke college dropout decides to pl
 
 
 	
-
-  
-
-
 	
+
+### K.G.F: Chapter 2
+*Released on 2022-04-13, vote average 8.4*
+
+The blood-soaked land of Kolar Gold Fields (KGF) has a new overlord now - Rocky, whose name strikes fear in the heart of his foes. His allies look up to Rocky as their Savior, the government sees him as a threat to law and order; enemies are clamoring for revenge and conspiring for his downfall. Bloodier battles and darker days await as Rocky continues on his quest for unchallenged supremacy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Qah9sSIXJqk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -278,10 +246,37 @@ Romance novelist Emilia is a whirlwind who blows back into the lives of her adul
 
 
 	
+
+  
+
+
+	
+	
+
+### Father Stu
+*Released on 2022-04-13, vote average 6.9*
+
+The true-life story of boxer-turned-priest, Father Stuart Long, whose journey from self-destruction to redemption inspired countless people along the way.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0_-txl7veKY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 
 ### Chariot
-*Released on 2022-04-15, vote average 9*
+*Released on 2022-04-15, vote average 5.3*
 
 Odd, eccentric specialist Dr. Karn guides unknowing patients through the reincarnation transition. When Harrison experiences mysterious recurring dreams, he turns to Dr. Karn for help and reveals his encounter with a woman he loved in a previous life. Noticing a glitch in the system, the doctor must fix the issue before permanently derailing his patient&#39;s future.
 
@@ -303,7 +298,7 @@ Odd, eccentric specialist Dr. Karn guides unknowing patients through the reincar
 	
 
 ### Titanic 666
-*Released on 2022-04-15, vote average 10*
+*Released on 2022-04-15, vote average 4.8*
 
 After a mammoth cruise ship sails over the site of the Titanic’s disaster, dark and deadly events start to occur on board. As the ship’s captain investigate the tragic occurrences, it becomes clear that the passengers from the original Titanic have returned.
 
@@ -325,7 +320,7 @@ After a mammoth cruise ship sails over the site of the Titanic’s disaster, dar
 	
 
 ### Room 203
-*Released on 2022-04-15, vote average 4.3*
+*Released on 2022-04-15, vote average 5.8*
 
 Two female roommates were tormented by the vengeful spirits dwelling in their gothic-style, rented apartment, which contains an ornate centerpiece.
 
@@ -344,6 +339,28 @@ Two female roommates were tormented by the vengeful spirits dwelling in their go
 
 
 	
+	
+	
+
+  
+
+
+	
+	
+
+### Snoopy Presents: It’s the Small Things, Charlie Brown
+*Released on 2022-04-15, vote average 4*
+
+Charlie Brown is determined to win the big baseball game. But things turn into a fiasco right before the matchup, when Sally bonds with a little flower on the pitcher’s mound and vows to protect it at all costs.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/0-2VQe7JcuE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -379,6 +396,23 @@ Creatively unfulfilled and facing financial ruin, Nick Cage must accept a $1 mil
 
 	
 
+	
+	
+
+### Slapface
+*Released on 2022-04-21, vote average 4*
+
+A boy deals with the loss of his mother by creating a relationship with a dangerous monster.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PjX2jAQPYtg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
