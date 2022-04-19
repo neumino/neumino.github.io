@@ -15,7 +15,7 @@ This is a convenient page that embeds trailers of movies released in the past
 ### Fantastic Beasts: The Secrets of Dumbledore
 *Released on 2022-04-07, vote average 7*
 
-In an effort to thwart Grindelwald&#39;s plans of raising pure-blood wizards to rule over all non-magical beings, Albus Dumbledore enlists his former student Newt Scamander, who agrees to help, though he&#39;s unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world.
+Professor Albus Dumbledore knows the powerful, dark wizard Gellert Grindelwald is moving to seize control of the wizarding world. Unable to stop him alone, he entrusts magizoologist Newt Scamander to lead an intrepid team of wizards and witches. They soon encounter an array of old and new beasts as they clash with Grindelwald&#39;s growing legion of followers.
 
 <iframe id="player"
 	type="text/html"
@@ -91,7 +91,7 @@ For teenage misfits Hunter and Kevin, the path to glory is clear: Devote themsel
 	
 
 ### Yaksha: Ruthless Operations
-*Released on 2022-04-08, vote average 6.1*
+*Released on 2022-04-08, vote average 6.2*
 
 Nicknamed after a human-devouring spirit, the ruthless leader of an overseas black ops team takes up a dangerous mission in a city riddled with spies.
 
@@ -117,10 +117,15 @@ Nicknamed after a human-devouring spirit, the ruthless leader of an overseas bla
 
 
 	
+
+  
+
+
+	
 	
 
 ### The Northman
-*Released on 2022-04-07, vote average 8.6*
+*Released on 2022-04-07, vote average 8.5*
 
 Prince Amleth is on the verge of becoming a man when his father is brutally murdered by his uncle, who kidnaps the boy&#39;s mother. Two decades later, Amleth is now a Viking who&#39;s on a mission to save his mother, kill his uncle and avenge his father.
 
@@ -133,11 +138,6 @@ Prince Amleth is on the verge of becoming a man when his father is brutally murd
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -159,13 +159,6 @@ The inspirational rise of SpaceX as well as Elon Musk&#39;s two-decade effort to
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -204,8 +197,37 @@ In pursuit of an unclaimed $125,000 prize, a broke college dropout decides to pl
 	
 	
 
-### K.G.F: Chapter 2
-*Released on 2022-04-13, vote average 8.4*
+### Love, Classified
+*Released on 2022-04-16, vote average 3.7*
+
+Romance novelist Emilia is a whirlwind who blows back into the lives of her adult children, Taylor and Zach, under the pretense of a book signing arranged by her hometown&#39;s local book shop. As Emilia tries to reconnect, Taylor and Zach explore new and past relationships through an app that boasts old-fashioned human connection by way of the classified ad. Zach is given a chance to heal old wounds while Taylor matches with a woman that changes the way she&#39;s always thought about love.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fL7vxZllxqI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### K.G.F Chapter 2
+*Released on 2022-04-13, vote average 8.5*
 
 The blood-soaked land of Kolar Gold Fields (KGF) has a new overlord now - Rocky, whose name strikes fear in the heart of his foes. His allies look up to Rocky as their Savior, the government sees him as a threat to law and order; enemies are clamoring for revenge and conspiring for his downfall. Bloodier battles and darker days await as Rocky continues on his quest for unchallenged supremacy.
 
@@ -226,16 +248,16 @@ The blood-soaked land of Kolar Gold Fields (KGF) has a new overlord now - Rocky,
 	
 	
 
-### Love, Classified
-*Released on 2022-04-16, vote average 2*
+### Titanic 666
+*Released on 2022-04-15, vote average 4.8*
 
-Romance novelist Emilia is a whirlwind who blows back into the lives of her adult children, Taylor and Zach, under the pretense of a book signing arranged by her hometown&#39;s local book shop. As Emilia tries to reconnect, Taylor and Zach explore new and past relationships through an app that boasts old-fashioned human connection by way of the classified ad. Zach is given a chance to heal old wounds while Taylor matches with a woman that changes the way she&#39;s always thought about love.
+After a mammoth cruise ship sails over the site of the Titanic’s disaster, dark and deadly events start to occur on board. As the ship’s captain investigate the tragic occurrences, it becomes clear that the passengers from the original Titanic have returned.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/fL7vxZllxqI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/uervktH6Ahs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -276,7 +298,7 @@ The true-life story of boxer-turned-priest, Father Stuart Long, whose journey fr
 	
 
 ### Chariot
-*Released on 2022-04-15, vote average 5.3*
+*Released on 2022-04-15, vote average 5.5*
 
 Odd, eccentric specialist Dr. Karn guides unknowing patients through the reincarnation transition. When Harrison experiences mysterious recurring dreams, he turns to Dr. Karn for help and reveals his encounter with a woman he loved in a previous life. Noticing a glitch in the system, the doctor must fix the issue before permanently derailing his patient&#39;s future.
 
@@ -294,23 +316,6 @@ Odd, eccentric specialist Dr. Karn guides unknowing patients through the reincar
   
 
 
-	
-	
-
-### Titanic 666
-*Released on 2022-04-15, vote average 4.8*
-
-After a mammoth cruise ship sails over the site of the Titanic’s disaster, dark and deadly events start to occur on board. As the ship’s captain investigate the tragic occurrences, it becomes clear that the passengers from the original Titanic have returned.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/uervktH6Ahs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -345,28 +350,6 @@ Two female roommates were tormented by the vengeful spirits dwelling in their go
   
 
 
-	
-	
-
-### Snoopy Presents: It’s the Small Things, Charlie Brown
-*Released on 2022-04-15, vote average 4*
-
-Charlie Brown is determined to win the big baseball game. But things turn into a fiasco right before the matchup, when Sally bonds with a little flower on the pitcher’s mound and vows to protect it at all costs.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0-2VQe7JcuE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -395,12 +378,10 @@ Creatively unfulfilled and facing financial ruin, Nick Cage must accept a $1 mil
 	
 
 	
-
-	
 	
 
 ### Slapface
-*Released on 2022-04-21, vote average 4*
+*Released on 2022-04-21, vote average 6*
 
 A boy deals with the loss of his mother by creating a relationship with a dangerous monster.
 
@@ -413,6 +394,8 @@ A boy deals with the loss of his mother by creating a relationship with a danger
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
