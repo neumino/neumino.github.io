@@ -47,7 +47,7 @@ When the CIA discovers one of its agents leaked information that cost more than 
 	
 
 ### Yaksha: Ruthless Operations
-*Released on 2022-04-08, vote average 6.2*
+*Released on 2022-04-08, vote average 6.3*
 
 Nicknamed after a human-devouring spirit, the ruthless leader of an overseas black ops team takes up a dangerous mission in a city riddled with spies.
 
@@ -56,28 +56,6 @@ Nicknamed after a human-devouring spirit, the ruthless leader of an overseas bla
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/G71-DM4X01A?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Fantastic Beasts: The Secrets of Dumbledore
-*Released on 2022-04-07, vote average 6.9*
-
-Professor Albus Dumbledore knows the powerful, dark wizard Gellert Grindelwald is moving to seize control of the wizarding world. Unable to stop him alone, he entrusts magizoologist Newt Scamander to lead an intrepid team of wizards and witches. They soon encounter an array of old and new beasts as they clash with Grindelwald&#39;s growing legion of followers.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qDd3eAuFZjM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -119,35 +97,8 @@ For teenage misfits Hunter and Kevin, the path to glory is clear: Devote themsel
 	
 	
 
-### The Northman
-*Released on 2022-04-07, vote average 8.4*
-
-Prince Amleth is on the verge of becoming a man when his father is brutally murdered by his uncle, who kidnaps the boy&#39;s mother. Amleth flees, and, years later, having grown into a Viking berserker who raids Slavic villages, he encounters a seeress who reminds him of his youthful vow – to avenge his father, kill his uncle, and save his mother.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/6WrpvCmv0hk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### Choose or Die
-*Released on 2022-04-15, vote average 5.1*
+*Released on 2022-04-15, vote average 5.3*
 
 In pursuit of an unclaimed $125,000 prize, a broke college dropout decides to play an obscure, 1980s survival computer game. But the game curses her, and she’s faced with dangerous choices and reality-warping challenges. After a series of unexpectedly terrifying moments, she realizes she’s no longer playing for the money but for her life.
 
@@ -159,6 +110,13 @@ In pursuit of an unclaimed $125,000 prize, a broke college dropout decides to pl
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -190,16 +148,16 @@ Romance novelist Emilia is a whirlwind who blows back into the lives of her adul
 	
 	
 
-### Return to Space
-*Released on 2022-04-07, vote average 7*
+### K.G.F: Chapter 2
+*Released on 2022-04-14, vote average 8.6*
 
-The inspirational rise of SpaceX as well as Elon Musk&#39;s two-decade effort to resurrect America’s space travel ambitions.
+The blood-soaked land of Kolar Gold Fields (KGF) has a new overlord now - Rocky, whose name strikes fear in the heart of his foes. His allies look up to Rocky as their Savior, the government sees him as a threat to law and order; enemies are clamoring for revenge and conspiring for his downfall. Bloodier battles and darker days await as Rocky continues on his quest for unchallenged supremacy.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/sIME4sLR4-8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Qah9sSIXJqk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -211,16 +169,9 @@ The inspirational rise of SpaceX as well as Elon Musk&#39;s two-decade effort to
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### The Unbearable Weight of Massive Talent
-*Released on 2022-04-20, vote average 6.8*
+*Released on 2022-04-20, vote average 6.9*
 
 Creatively unfulfilled and facing financial ruin, Nick Cage must accept a $1 million offer to attend the birthday of a dangerous superfan. Things take a wildly unexpected turn when Cage is recruited by a CIA operative and forced to live up to his own legend, channeling his most iconic and beloved on-screen characters in order to save himself and his loved ones.
 
@@ -263,16 +214,16 @@ Samuel forsakes his harsh religious upbringing to live his own life — but his 
 	
 	
 
-### K.G.F: Chapter 2
-*Released on 2022-04-14, vote average 8.6*
+### White Hot: The Rise &amp; Fall of Abercrombie &amp; Fitch
+*Released on 2022-04-19, vote average 5.9*
 
-The blood-soaked land of Kolar Gold Fields (KGF) has a new overlord now - Rocky, whose name strikes fear in the heart of his foes. His allies look up to Rocky as their Savior, the government sees him as a threat to law and order; enemies are clamoring for revenge and conspiring for his downfall. Bloodier battles and darker days await as Rocky continues on his quest for unchallenged supremacy.
+All the cool kids were wearing it. This documentary explores A&amp;F&#39;s pop culture reign in the late &#39;90s and early 2000s and how it thrived on exclusion.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Qah9sSIXJqk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/3yperp-SFYM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -284,6 +235,16 @@ The blood-soaked land of Kolar Gold Fields (KGF) has a new overlord now - Rocky,
 
 	
 	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -314,33 +275,6 @@ The true-life story of boxer-turned-priest, Father Stuart Long, whose journey fr
 	
 	
 
-### White Hot: The Rise &amp; Fall of Abercrombie &amp; Fitch
-*Released on 2022-04-19, vote average 6.4*
-
-All the cool kids were wearing it. This documentary explores A&amp;F&#39;s pop culture reign in the late &#39;90s and early 2000s and how it thrived on exclusion.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3yperp-SFYM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### Snoopy Presents: It’s the Small Things, Charlie Brown
 *Released on 2022-04-15, vote average 6*
 
@@ -362,37 +296,10 @@ Charlie Brown is determined to win the big baseball game. But things turn into a
 
 	
 	
-
-### The Godfather Buck
-*Released on 2022-04-19, vote average 2*
-
-Two brothers, who meet once a year at a cabin in Big Bear to hunt white-tailed deer for a week, uncover hidden family secrets and lies when their stepbrother drops by for an evening, changing their lives forever.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/VjBBXOXtIIU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
 
-
-
-## Opening soon
-
-
-	
-
-	
-
-	
-	
-	
 
 	
 	
@@ -413,6 +320,31 @@ A boy deals with the loss of his mother by creating a relationship with a danger
 	
 	
 
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+
+## Opening soon
+
+
+	
+
+	
+
+	
+
+	
+	
 	
 
 	
@@ -434,7 +366,13 @@ A boy deals with the loss of his mother by creating a relationship with a danger
 	
 
 	
+	
+	
 
+	
+
+	
+	
 	
 
 	
