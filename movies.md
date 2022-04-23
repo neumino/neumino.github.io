@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### All the Old Knives
-*Released on 2022-04-08, vote average 6*
+### Choose or Die
+*Released on 2022-04-15, vote average 5.3*
 
-When the CIA discovers one of its agents leaked information that cost more than 100 people their lives, veteran operative Henry Pelham is assigned to root out the mole with his former lover and colleague Celia Harrison.
+In pursuit of an unclaimed $125,000 prize, a broke college dropout decides to play an obscure, 1980s survival computer game. But the game curses her, and she’s faced with dangerous choices and reality-warping challenges. After a series of unexpectedly terrifying moments, she realizes she’s no longer playing for the money but for her life.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/6s7NziAetNs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/7vUQYzZ_UZc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -44,101 +44,6 @@ When the CIA discovers one of its agents leaked information that cost more than 
 
 
 	
-	
-
-### Yaksha: Ruthless Operations
-*Released on 2022-04-08, vote average 6.3*
-
-Nicknamed after a human-devouring spirit, the ruthless leader of an overseas black ops team takes up a dangerous mission in a city riddled with spies.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/G71-DM4X01A?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Metal Lords
-*Released on 2022-04-08, vote average 6.7*
-
-For teenage misfits Hunter and Kevin, the path to glory is clear: Devote themselves to metal. Win Battle of the Bands. And be worshipped like gods.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/TzAAtZx6xzk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Choose or Die
-*Released on 2022-04-15, vote average 5.3*
-
-In pursuit of an unclaimed $125,000 prize, a broke college dropout decides to play an obscure, 1980s survival computer game. But the game curses her, and she’s faced with dangerous choices and reality-warping challenges. After a series of unexpectedly terrifying moments, she realizes she’s no longer playing for the money but for her life.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/7vUQYzZ_UZc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Love, Classified
-*Released on 2022-04-16, vote average 6.3*
-
-Romance novelist Emilia is a whirlwind who blows back into the lives of her adult children, Taylor and Zach, under the pretense of a book signing arranged by her hometown&#39;s local book shop. As Emilia tries to reconnect, Taylor and Zach explore new and past relationships through an app that boasts old-fashioned human connection by way of the classified ad. Zach is given a chance to heal old wounds while Taylor matches with a woman that changes the way she&#39;s always thought about love.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/fL7vxZllxqI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -180,6 +85,28 @@ Creatively unfulfilled and facing financial ruin, Nick Cage must accept a $1 mil
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/kWkdYnAvg0g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Love, Classified
+*Released on 2022-04-16, vote average 6.7*
+
+Romance novelist Emilia is a whirlwind who blows back into the lives of her adult children, Taylor and Zach, under the pretense of a book signing arranged by her hometown&#39;s local book shop. As Emilia tries to reconnect, Taylor and Zach explore new and past relationships through an app that boasts old-fashioned human connection by way of the classified ad. Zach is given a chance to heal old wounds while Taylor matches with a woman that changes the way she&#39;s always thought about love.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fL7vxZllxqI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -246,6 +173,8 @@ All the cool kids were wearing it. This documentary explores A&amp;F&#39;s pop c
 
 
 	
+	
+	
 
   
 
@@ -274,17 +203,46 @@ The true-life story of boxer-turned-priest, Father Stuart Long, whose journey fr
 
 	
 	
+	
 
-### Snoopy Presents: It’s the Small Things, Charlie Brown
-*Released on 2022-04-15, vote average 6*
+  
 
-Charlie Brown is determined to win the big baseball game. But things turn into a fiasco right before the matchup, when Sally bonds with a little flower on the pitcher’s mound and vows to protect it at all costs.
+
+	
+	
+
+### Brut Force
+*Released on 2022-04-21, vote average 2*
+
+Newly-fired reporter Sloane Sawyer reluctantly returns to her rural California hometown to investigate the harassment of local vineyard workers and uncorks a tangled web of crime and corruption behind wine country&#39;s shiny facade.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/0-2VQe7JcuE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/AV7hQzKR1ec?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Room 203
+*Released on 2022-04-15, vote average 6.4*
+
+Two female roommates were tormented by the vengeful spirits dwelling in their gothic-style, rented apartment, which contains an ornate centerpiece.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/1HZF7PEQQ3Q?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -329,6 +287,20 @@ A boy deals with the loss of his mother by creating a relationship with a danger
 
 
 	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
 
   
 
@@ -344,8 +316,6 @@ A boy deals with the loss of his mother by creating a relationship with a danger
 	
 
 	
-	
-	
 
 	
 
@@ -366,13 +336,9 @@ A boy deals with the loss of his mother by creating a relationship with a danger
 	
 
 	
-	
-	
 
 	
 
-	
-	
 	
 
 	
