@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Choose or Die
-*Released on 2022-04-15, vote average 5.2*
+### 365 Days: This Day
+*Released on 2022-04-27, vote average 2*
 
-In pursuit of an unclaimed $125,000 prize, a broke college dropout decides to play an obscure, 1980s survival computer game. But the game curses her, and she’s faced with dangerous choices and reality-warping challenges. After a series of unexpectedly terrifying moments, she realizes she’s no longer playing for the money but for her life.
+Laura and Massimo are back and hotter than ever. But the reunited couple&#39;s new beginning is complicated by Massimo’s family ties and a mysterious man who enters Laura’s life to win her heart and trust, at any cost.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/7vUQYzZ_UZc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/pyM3z73oMAk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -47,7 +47,7 @@ In pursuit of an unclaimed $125,000 prize, a broke college dropout decides to pl
 	
 
 ### Virus:32
-*Released on 2022-04-21, vote average 8.3*
+*Released on 2022-04-21, vote average 7.3*
 
 A virus is unleashed and a chilling massacre runs through the streets of Montevideo.
 
@@ -56,6 +56,28 @@ A virus is unleashed and a chilling massacre runs through the streets of Montevi
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/qqGQzBGZ0FY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Choose or Die
+*Released on 2022-04-15, vote average 5.3*
+
+In pursuit of an unclaimed $125,000 prize, a broke college dropout decides to play an obscure, 1980s survival computer game. But the game curses her, and she’s faced with dangerous choices and reality-warping challenges. After a series of unexpectedly terrifying moments, she realizes she’s no longer playing for the money but for her life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/7vUQYzZ_UZc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -97,8 +119,30 @@ Creatively unfulfilled and facing financial ruin, Nick Cage must accept a $1 mil
 	
 	
 
+### Polar Bear
+*Released on 2022-04-22, vote average 8.4*
+
+Tells the story of a new mother whose memories of her own youth prepare her to navigate motherhood in the increasingly challenging world that polar bears face today.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/zH3c875odA4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### K.G.F: Chapter 2
-*Released on 2022-04-14, vote average 8.4*
+*Released on 2022-04-14, vote average 8.2*
 
 The blood-soaked land of Kolar Gold Fields (KGF) has a new overlord now - Rocky, whose name strikes fear in the heart of his foes. His allies look up to Rocky as their Savior, the government sees him as a threat to law and order; enemies are clamoring for revenge and conspiring for his downfall. Bloodier battles and darker days await as Rocky continues on his quest for unchallenged supremacy.
 
@@ -119,16 +163,38 @@ The blood-soaked land of Kolar Gold Fields (KGF) has a new overlord now - Rocky,
 	
 	
 
-### Polar Bear
-*Released on 2022-04-22, vote average 8.7*
+### Father Stu
+*Released on 2022-04-13, vote average 7.2*
 
-Tells the story of a new mother whose memories of her own youth prepare her to navigate motherhood in the increasingly challenging world that polar bears face today.
+The true-life story of boxer-turned-priest, Father Stuart Long, whose journey from self-destruction to redemption inspired countless people along the way.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/zH3c875odA4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/y1b6JDBb2dQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Simpsons: When Billie Met Lisa
+*Released on 2022-04-22, vote average 6.3*
+
+Lisa Simpson is discovered by chart-topping artists Billie Eilish and FINNEAS while searching for a quiet place to practice her saxophone. Billie invites Lisa to her studio for a special jam session she’ll never forget.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PE0j_lgwwbI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -163,16 +229,16 @@ Romance novelist Emilia is a whirlwind who blows back into the lives of her adul
 	
 	
 
-### Father Stu
-*Released on 2022-04-13, vote average 7.1*
+### Downton Abbey: A New Era
+*Released on 2022-04-27, vote average 4*
 
-The true-life story of boxer-turned-priest, Father Stuart Long, whose journey from self-destruction to redemption inspired countless people along the way.
+The residents of Downton Abbey go on a new adventure that takes them to a Spanish villa.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/y1b6JDBb2dQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/GLKTPdIrjuU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -184,28 +250,26 @@ The true-life story of boxer-turned-priest, Father Stuart Long, whose journey fr
 
 	
 	
-	
 
-  
+### 9 Bullets
+*Released on 2022-04-14, vote average 5.9*
 
-
-	
-	
-
-### The Simpsons: When Billie Met Lisa
-*Released on 2022-04-22, vote average 6.3*
-
-Lisa Simpson is discovered by chart-topping artists Billie Eilish and FINNEAS while searching for a quiet place to practice her saxophone. Billie invites Lisa to her studio for a special jam session she’ll never forget.
+A former burlesque dancer turned author (Lena Headey) discovers a second chance at life and redemption when she risks everything to rescue her young neighbor after he witnesses his parents’ murder. Now on the run from the local crime boss (Sam Worthington), who happens to be her longtime ex, she makes a desperate attempt to get the boy to safety.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/PE0j_lgwwbI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/FyZcUWLvyos?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -248,6 +312,37 @@ Follows elite climber Alex Honnold and a world-class climbing team led by Nation
 
 
 	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Meet Me in New York
+*Released on 2022-04-25, vote average 5*
+
+Ambitious New York events planner Kelly is one of the best in the business. But when Joe, a stubborn, but influential website editor, hires her to organize his niece&#39;s birthday, Kelly soon realizes that she may have met her match.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pqAE-wdpYH8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -274,102 +369,11 @@ Samuel forsakes his harsh religious upbringing to live his own life — but his 
   
 
 
-	
-	
-
-### A Cowgirl&#39;s Song
-*Released on 2022-04-22, vote average 2*
-
-An aspiring but adrift teen singer goes to live with her grandmother, once a country music legend, but has fallen on hard times after the death of her husband five years earlier. Together, they overcome adversity and find redemption through their love of music.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/uRpcMRQB0Y0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### 9 Bullets
-*Released on 2022-04-14, vote average 6.2*
-
-A former burlesque dancer turned author (Lena Headey) discovers a second chance at life and redemption when she risks everything to rescue her young neighbor after he witnesses his parents’ murder. Now on the run from the local crime boss (Sam Worthington), who happens to be her longtime ex, she makes a desperate attempt to get the boy to safety.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FyZcUWLvyos?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### We&#39;re All Going to the World&#39;s Fair
-*Released on 2022-04-15, vote average 5.3*
-
-Reality and fantasy begin to blur when teenager Casey, alone in her attic bedroom, immerses herself in a role-playing horror game online.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/y0AnGfzgh_w?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### White Hot: The Rise &amp; Fall of Abercrombie &amp; Fitch
-*Released on 2022-04-19, vote average 5.9*
-
-All the cool kids were wearing it. This documentary explores A&amp;F&#39;s pop culture reign in the late &#39;90s and early 2000s and how it thrived on exclusion.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3yperp-SFYM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
+
+	
 
 	
 	
@@ -391,8 +395,6 @@ Laura and Massimo are back and hotter than ever. But the reunited couple&#39;s n
 	
 
 	
-
-	
 	
 
 ### Memory
@@ -409,6 +411,8 @@ Alex, an assassin-for-hire, finds that he&#39;s become a target after he refuses
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
@@ -433,10 +437,12 @@ The residents of Downton Abbey go on a new adventure that takes them to a Spanis
 	
 
 	
+
+	
 	
 
 ### En la mira
-*Released on 2022-04-28, vote average 2*
+*Released on 2022-04-28, vote average 6*
 
 &#34;En la mira&#34; is a suspense film, which takes place in a gloomy Buenos Aires.
 
@@ -458,7 +464,26 @@ The residents of Downton Abbey go on a new adventure that takes them to a Spanis
 	
 
 	
+	
+	
 
+	
+	
+
+### Marmaduke
+*Released on 2022-04-28, vote average 2*
+
+Great Dane Marmaduke epitomizes the overgrown lapdog, with an irascible streak and a penchant for mischief that is tempered with a deep sense of love and responsibility for his human family, the Winslows. The new animation is set in the world of elite dog shows, rife divas, rivalries and slapstick comedy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wDXYjxxnALU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -474,9 +499,7 @@ The residents of Downton Abbey go on a new adventure that takes them to a Spanis
 	
 
 	
-
 	
-
 	
 
 
