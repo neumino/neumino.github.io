@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### 365 Days: This Day
-*Released on 2022-04-27, vote average 6*
+*Released on 2022-04-27, vote average 6.2*
 
 Laura and Massimo are back and hotter than ever. But the reunited couple&#39;s new beginning is complicated by Massimo’s family ties and a mysterious man who enters Laura’s life to win her heart and trust, at any cost.
 
@@ -47,7 +47,7 @@ Laura and Massimo are back and hotter than ever. But the reunited couple&#39;s n
 	
 
 ### Virus:32
-*Released on 2022-04-21, vote average 6.6*
+*Released on 2022-04-21, vote average 6.8*
 
 A virus is unleashed and a chilling massacre runs through the streets of Montevideo.
 
@@ -90,16 +90,16 @@ In pursuit of an unclaimed $125,000 prize, a broke college dropout decides to pl
 	
 	
 
-### Polar Bear
-*Released on 2022-04-22, vote average 8.6*
+### Memory
+*Released on 2022-04-28, vote average 6*
 
-Tells the story of a new mother whose memories of her own youth prepare her to navigate motherhood in the increasingly challenging world that polar bears face today.
+Alex, an assassin-for-hire, finds that he&#39;s become a target after he refuses to complete a job for a dangerous criminal organization. With the crime syndicate and FBI in hot pursuit, Alex has the skills to stay ahead, except for one thing: he is struggling with severe memory loss, affecting his every move. Alex must question his every action and whom he can ultimately trust.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/zH3c875odA4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ye63hQLDj4k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -113,7 +113,7 @@ Tells the story of a new mother whose memories of her own youth prepare her to n
 	
 
 ### Downton Abbey: A New Era
-*Released on 2022-04-27, vote average 4*
+*Released on 2022-04-27, vote average 6*
 
 The residents of Downton Abbey go on a new adventure that takes them to a Spanish villa.
 
@@ -156,16 +156,16 @@ Creatively unfulfilled and facing financial ruin, Nick Cage must accept a $1 mil
 	
 	
 
-### Memory
-*Released on 2022-04-28, vote average 6*
+### The Mystery of Marilyn Monroe: The Unheard Tapes
+*Released on 2022-04-27, vote average 5.4*
 
-Alex, an assassin-for-hire, finds that he&#39;s become a target after he refuses to complete a job for a dangerous criminal organization. With the crime syndicate and FBI in hot pursuit, Alex has the skills to stay ahead, except for one thing: he is struggling with severe memory loss, affecting his every move. Alex must question his every action and whom he can ultimately trust.
+This documentary explores the mystery surrounding the death of movie icon Marilyn Monroe through previously unheard interviews with her inner circle.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ye63hQLDj4k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/f2OGhJoypPw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -178,16 +178,65 @@ Alex, an assassin-for-hire, finds that he&#39;s become a target after he refuses
 	
 	
 
-### 9 Bullets
-*Released on 2022-04-14, vote average 5.9*
+### Polar Bear
+*Released on 2022-04-22, vote average 8.6*
 
-A former burlesque dancer turned author (Lena Headey) discovers a second chance at life and redemption when she risks everything to rescue her young neighbor after he witnesses his parents’ murder. Now on the run from the local crime boss (Sam Worthington), who happens to be her longtime ex, she makes a desperate attempt to get the boy to safety.
+Tells the story of a new mother whose memories of her own youth prepare her to navigate motherhood in the increasingly challenging world that polar bears face today.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/FyZcUWLvyos?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/zH3c875odA4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### En la mira
+*Released on 2022-04-28, vote average 6*
+
+&#34;En la mira&#34; is a suspense film, which takes place in a gloomy Buenos Aires.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/9U2ZARjPamk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Simpsons: When Billie Met Lisa
+*Released on 2022-04-22, vote average 6.1*
+
+Lisa Simpson is discovered by chart-topping artists Billie Eilish and FINNEAS while searching for a quiet place to practice her saxophone. Billie invites Lisa to her studio for a special jam session she’ll never forget.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PE0j_lgwwbI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -222,16 +271,16 @@ Romance novelist Emilia is a whirlwind who blows back into the lives of her adul
 	
 	
 
-### The Simpsons: When Billie Met Lisa
-*Released on 2022-04-22, vote average 6.4*
+### Marmaduke
+*Released on 2022-04-28, vote average 2*
 
-Lisa Simpson is discovered by chart-topping artists Billie Eilish and FINNEAS while searching for a quiet place to practice her saxophone. Billie invites Lisa to her studio for a special jam session she’ll never forget.
+Great Dane Marmaduke epitomizes the overgrown lapdog, with an irascible streak and a penchant for mischief that is tempered with a deep sense of love and responsibility for his human family, the Winslows. The new animation is set in the world of elite dog shows, rife divas, rivalries and slapstick comedy.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/PE0j_lgwwbI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/wDXYjxxnALU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -244,44 +293,20 @@ Lisa Simpson is discovered by chart-topping artists Billie Eilish and FINNEAS wh
 	
 	
 
-### K.G.F: Chapter 2
-*Released on 2022-04-14, vote average 8.1*
+### Silverton Siege
+*Released on 2022-04-27, vote average 6.4*
 
-The blood-soaked land of Kolar Gold Fields (KGF) has a new overlord now - Rocky, whose name strikes fear in the heart of his foes. His allies look up to Rocky as their Savior, the government sees him as a threat to law and order; enemies are clamoring for revenge and conspiring for his downfall. Bloodier battles and darker days await as Rocky continues on his quest for unchallenged supremacy.
+After a failed sabotage mission, a trio of anti-apartheid freedom fighters ends up in a tense bank hostage situation. Based on a true story.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Qah9sSIXJqk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/L23I_XopoA0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -291,7 +316,7 @@ The blood-soaked land of Kolar Gold Fields (KGF) has a new overlord now - Rocky,
 	
 
 ### Explorer: The Last Tepui
-*Released on 2022-04-22, vote average 7.5*
+*Released on 2022-04-22, vote average 7.6*
 
 Follows elite climber Alex Honnold and a world-class climbing team led by National Geographic Explorer and climber Mark Synnott on a grueling mission deep in the Amazon jungle as they attempt a first-ascent climb up a 1000 foot sheer cliff.
 
@@ -316,20 +341,12 @@ Follows elite climber Alex Honnold and a world-class climbing team led by Nation
 
 	
 	
+	
 
-### En la mira
-*Released on 2022-04-28, vote average 6*
+  
 
-&#34;En la mira&#34; is a suspense film, which takes place in a gloomy Buenos Aires.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/9U2ZARjPamk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
+	
 	
 	
 
@@ -353,20 +370,18 @@ Follows elite climber Alex Honnold and a world-class climbing team led by Nation
 	
 
 	
-
-	
 	
 
-### Memory
-*Released on 2022-04-28, vote average 6*
+### Moonshot
+*Released on 2022-05-05, vote average 10*
 
-Alex, an assassin-for-hire, finds that he&#39;s become a target after he refuses to complete a job for a dangerous criminal organization. With the crime syndicate and FBI in hot pursuit, Alex has the skills to stay ahead, except for one thing: he is struggling with severe memory loss, affecting his every move. Alex must question his every action and whom he can ultimately trust.
+In a future where Mars is terraformed and colonized by the best humanity has to offer, two very different college students wind up joining forces and sneak onboard a space shuttle to the red planet in order to be united with their significant others.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ye63hQLDj4k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/KtEoKAIVntg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -376,46 +391,6 @@ Alex, an assassin-for-hire, finds that he&#39;s become a target after he refuses
 	
 
 	
-
-	
-	
-
-### En la mira
-*Released on 2022-04-28, vote average 6*
-
-&#34;En la mira&#34; is a suspense film, which takes place in a gloomy Buenos Aires.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/9U2ZARjPamk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Marmaduke
-*Released on 2022-04-28, vote average 2*
-
-Great Dane Marmaduke epitomizes the overgrown lapdog, with an irascible streak and a penchant for mischief that is tempered with a deep sense of love and responsibility for his human family, the Winslows. The new animation is set in the world of elite dog shows, rife divas, rivalries and slapstick comedy.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wDXYjxxnALU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
 	
 	
 
@@ -434,9 +409,17 @@ Great Dane Marmaduke epitomizes the overgrown lapdog, with an irascible streak a
 	
 
 	
+	
+	
 
 	
+
 	
+
+	
+
+	
+
 	
 
 	
