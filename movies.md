@@ -47,7 +47,7 @@ Laura and Massimo are back and hotter than ever. But the reunited couple&#39;s n
 	
 
 ### Virus:32
-*Released on 2022-04-21, vote average 7.2*
+*Released on 2022-04-21, vote average 7.3*
 
 A virus is unleashed and a chilling massacre runs through the streets of Montevideo.
 
@@ -69,7 +69,7 @@ A virus is unleashed and a chilling massacre runs through the streets of Montevi
 	
 
 ### The Mystery of Marilyn Monroe: The Unheard Tapes
-*Released on 2022-04-27, vote average 6.6*
+*Released on 2022-04-27, vote average 6.5*
 
 This documentary explores the mystery surrounding the death of movie icon Marilyn Monroe through previously unheard interviews with her inner circle.
 
@@ -78,6 +78,28 @@ This documentary explores the mystery surrounding the death of movie icon Marily
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/f2OGhJoypPw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Silverton Siege
+*Released on 2022-04-27, vote average 6.5*
+
+After a failed sabotage mission, a trio of anti-apartheid freedom fighters ends up in a tense bank hostage situation. Based on a true story.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/L23I_XopoA0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -111,9 +133,43 @@ Alex, an assassin-for-hire, finds that he&#39;s become a target after he refuses
 
 	
 	
+	
+
+  
+
+
+	
+	
+
+### Crush
+*Released on 2022-04-29, vote average 7.1*
+
+When an aspiring young artist is forced to join her high school track team, she uses it as an opportunity to pursue the girl she&#39;s been harboring a long-time crush on. But she soon finds herself falling for an unexpected teammate and discovers what real love feels like.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/NHxwLymYHWA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 
 ### Downton Abbey: A New Era
-*Released on 2022-04-27, vote average 6.8*
+*Released on 2022-04-27, vote average 6.9*
 
 The residents of Downton Abbey go on a new adventure that takes them to a Spanish villa.
 
@@ -156,16 +212,97 @@ Creatively unfulfilled and facing financial ruin, Nick Cage must accept a $1 mil
 	
 	
 
-### Silverton Siege
-*Released on 2022-04-27, vote average 6.4*
+### Honeymoon With My Mother
+*Released on 2022-04-29, vote average 6.5*
 
-After a failed sabotage mission, a trio of anti-apartheid freedom fighters ends up in a tense bank hostage situation. Based on a true story.
+José Luis has been jilted at the altar but everything has its bright side, and he goes on a honeymoon with his mother. On this trip, he discovers he doesn&#39;t know his mother and he loves her.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/L23I_XopoA0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Y3jXdxCS05U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Fortress: Sniper&#39;s Eye
+*Released on 2022-04-29, vote average 7.3*
+
+Weeks after the deadly assault on Fortress Camp, Robert makes a daring rescue to save Sasha, the widow of his old nemesis Balzary. But back in the camp&#39;s command bunker, it appears Sasha may have devious plans of her own. As a new attack breaks out, Robert is confronted with a familiar face he thought he&#39;d never see again…
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/uF4f_nlJpvY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Aviary
+*Released on 2022-04-29, vote average 6*
+
+A twisted journey of two women’s desperate flee to escape the clutches of Skylight, an insidious cult. Lured in by the promise of “freedom” in the isolated desert campus called The Aviary, Jillian and Blair join forces to escape in hopes of real freedom. Consumed by fear and paranoia, they can’t shake the feeling that they are being followed by the cult’s leader, Seth, a man as seductive as he is controlling. The more distance the pair gains from the cult, the more Seth holds control of their minds. With supplies dwindling and their senses failing, Jillian and Blair are faced with a horrifying question: how do you run from an enemy who lives inside your head?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/_-90I4kLHug?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Simpsons: When Billie Met Lisa
+*Released on 2022-04-22, vote average 6*
+
+Lisa Simpson is discovered by chart-topping artists Billie Eilish and FINNEAS while searching for a quiet place to practice her saxophone. Billie invites Lisa to her studio for a special jam session she’ll never forget.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PE0j_lgwwbI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -198,109 +335,6 @@ After a failed sabotage mission, a trio of anti-apartheid freedom fighters ends 
 
 
 	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Polar Bear
-*Released on 2022-04-22, vote average 8.5*
-
-Tells the story of a new mother whose memories of her own youth prepare her to navigate motherhood in the increasingly challenging world that polar bears face today.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zH3c875odA4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Hostile Territory
-*Released on 2022-04-22, vote average 4*
-
-Former P.O.W. Jack Calgrove moves Heaven and Earth to be reunited with his children following the Civil War. After returning home, Jack discovers that his wife has tragically died and his children, presumed to be orphans, are heading deep into the West on a train crossing enemy lines, with the intent of being placed into new homes. Calgrove and another soldier team up with a troop of Native American sharpshooters and a freed slave as they try to stop the train.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Ebpye4wRQII?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Simpsons: When Billie Met Lisa
-*Released on 2022-04-22, vote average 5.9*
-
-Lisa Simpson is discovered by chart-topping artists Billie Eilish and FINNEAS while searching for a quiet place to practice her saxophone. Billie invites Lisa to her studio for a special jam session she’ll never forget.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/PE0j_lgwwbI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
 
   
 
@@ -320,7 +354,7 @@ Lisa Simpson is discovered by chart-topping artists Billie Eilish and FINNEAS wh
 	
 
 ### Moonshot
-*Released on 2022-05-05, vote average 9.5*
+*Released on 2022-05-05, vote average 9.8*
 
 In a future where Mars is terraformed and colonized by the best humanity has to offer, two very different college students wind up joining forces and sneak onboard a space shuttle to the red planet in order to be united with their significant others.
 
@@ -333,6 +367,8 @@ In a future where Mars is terraformed and colonized by the best humanity has to 
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
@@ -355,33 +391,7 @@ John Constantine wakes up in the eerie House of Mystery with no recollection of 
 	
 
 	
-
 	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
@@ -390,7 +400,7 @@ John Constantine wakes up in the eerie House of Mystery with no recollection of 
 	
 
 ### Hellbender
-*Released on 2022-05-05, vote average 5.9*
+*Released on 2022-05-05, vote average 6*
 
 A teen and her mother live simply in a home in the woods, spending their time making metal music. A chance encounter with a fellow teen causes her to uncover a connection between her family and witchcraft, which causes a rift with her mother.
 
@@ -403,6 +413,34 @@ A teen and her mother live simply in a home in the woods, spending their time ma
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 
