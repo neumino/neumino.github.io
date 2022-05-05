@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### 365 Days: This Day
-*Released on 2022-04-27, vote average 6.1*
+*Released on 2022-04-27, vote average 5.9*
 
 Laura and Massimo are back and hotter than ever. But the reunited couple&#39;s new beginning is complicated by Massimo’s family ties and a mysterious man who enters Laura’s life to win her heart and trust, at any cost.
 
@@ -47,7 +47,7 @@ Laura and Massimo are back and hotter than ever. But the reunited couple&#39;s n
 	
 
 ### Virus:32
-*Released on 2022-04-21, vote average 6.9*
+*Released on 2022-04-21, vote average 7*
 
 A virus is unleashed and a chilling massacre runs through the streets of Montevideo.
 
@@ -69,7 +69,7 @@ A virus is unleashed and a chilling massacre runs through the streets of Montevi
 	
 
 ### Doctor Strange in the Multiverse of Madness
-*Released on 2022-05-04, vote average 7*
+*Released on 2022-05-04, vote average 7.2*
 
 Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.
 
@@ -113,7 +113,7 @@ After a failed sabotage mission, a trio of anti-apartheid freedom fighters ends 
 	
 
 ### Crush
-*Released on 2022-04-29, vote average 7*
+*Released on 2022-04-29, vote average 7.2*
 
 When an aspiring young artist is forced to join her high school track team, she uses it as an opportunity to pursue the girl she&#39;s been harboring a long-time crush on. But she soon finds herself falling for an unexpected teammate and discovers what real love feels like.
 
@@ -125,6 +125,40 @@ When an aspiring young artist is forced to join her high school track team, she 
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+	
+
+### Moonshot
+*Released on 2022-05-05, vote average 9*
+
+In a future where Mars is terraformed and colonized by the best humanity has to offer, two very different college students wind up joining forces and sneak onboard a space shuttle to the red planet in order to be united with their significant others.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KtEoKAIVntg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 	
 
@@ -147,7 +181,7 @@ When an aspiring young artist is forced to join her high school track team, she 
 	
 
 ### Honeymoon With My Mother
-*Released on 2022-04-29, vote average 6.2*
+*Released on 2022-04-29, vote average 6.4*
 
 José Luis has been jilted at the altar but everything has its bright side, and he goes on a honeymoon with his mother. On this trip, he discovers he doesn&#39;t know his mother and he loves her.
 
@@ -159,18 +193,6 @@ José Luis has been jilted at the altar but everything has its bright side, and 
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 	
 
@@ -202,16 +224,16 @@ Weeks after the deadly assault on Fortress Camp, Robert makes a daring rescue to
 	
 	
 
-### The Unbearable Weight of Massive Talent
-*Released on 2022-04-20, vote average 7.2*
+### The Mystery of Marilyn Monroe: The Unheard Tapes
+*Released on 2022-04-27, vote average 6.7*
 
-Creatively unfulfilled and facing financial ruin, Nick Cage must accept a $1 million offer to attend the birthday of a dangerous superfan. Things take a wildly unexpected turn when Cage is recruited by a CIA operative and forced to live up to his own legend, channeling his most iconic and beloved on-screen characters in order to save himself and his loved ones.
+This documentary explores the mystery surrounding the death of movie icon Marilyn Monroe through previously unheard interviews with her inner circle.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/kWkdYnAvg0g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/mqsikkkyy_s?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -245,38 +267,9 @@ John Constantine wakes up in the eerie House of Mystery with no recollection of 
 
 	
 	
-	
-
-  
-
-
-	
-	
-
-### The Mystery of Marilyn Monroe: The Unheard Tapes
-*Released on 2022-04-27, vote average 6.7*
-
-This documentary explores the mystery surrounding the death of movie icon Marilyn Monroe through previously unheard interviews with her inner circle.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/mqsikkkyy_s?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
 
 ### Memory
-*Released on 2022-04-28, vote average 5.4*
+*Released on 2022-04-28, vote average 5*
 
 Alex, an assassin-for-hire, finds that he&#39;s become a target after he refuses to complete a job for a dangerous criminal organization. With the crime syndicate and FBI in hot pursuit, Alex has the skills to stay ahead, except for one thing: he is struggling with severe memory loss, affecting his every move. Alex must question his every action and whom he can ultimately trust.
 
@@ -296,9 +289,21 @@ Alex, an assassin-for-hire, finds that he&#39;s become a target after he refuses
 
 	
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 
 ### Downton Abbey: A New Era
-*Released on 2022-04-27, vote average 7.3*
+*Released on 2022-04-27, vote average 7.4*
 
 The residents of Downton Abbey go on a new adventure that takes them to a Spanish villa.
 
@@ -317,23 +322,18 @@ The residents of Downton Abbey go on a new adventure that takes them to a Spanis
 
 
 	
-
-  
-
-
-	
 	
 
-### The Simpsons: When Billie Met Lisa
-*Released on 2022-04-22, vote average 6*
+### Hold Your Breath: The Ice Dive
+*Released on 2022-05-03, vote average 6.5*
 
-Lisa Simpson is discovered by chart-topping artists Billie Eilish and FINNEAS while searching for a quiet place to practice her saxophone. Billie invites Lisa to her studio for a special jam session she’ll never forget.
+Follow free diver Johanna Nordblad in this documentary as she attempts to break the world record for distance traveled under ice with one breath.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/PE0j_lgwwbI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/0_QWamRowc0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -346,16 +346,16 @@ Lisa Simpson is discovered by chart-topping artists Billie Eilish and FINNEAS wh
 	
 	
 
-### Corrective Measures
-*Released on 2022-04-29, vote average 6*
+### Hellbender
+*Released on 2022-05-05, vote average 6.3*
 
-Set in San Tiburon, the world&#39;s most dangerous maximum-security penitentiary and home to the world&#39;s most treacherous superpowered criminals, where tensions among the inmates and staff heighten, leading to anarchy that engulfs the prison and order is turned upside down.
+A teen and her mother live simply in a home in the woods, spending their time making metal music. A chance encounter with a fellow teen causes her to uncover a connection between her family and witchcraft, which causes a rift with her mother.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/HKsrw-LXxHY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/G_YWjP-blNw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -368,25 +368,6 @@ Set in San Tiburon, the world&#39;s most dangerous maximum-security penitentiary
 
 ## Opening soon
 
-
-	
-	
-
-### Doctor Strange in the Multiverse of Madness
-*Released on 2022-05-04, vote average 7*
-
-Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/iRPabXACKFI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 	
@@ -434,7 +415,7 @@ A teen and her mother live simply in a home in the woods, spending their time ma
 	
 
 ### Black Site
-*Released on 2022-05-05, vote average 10*
+*Released on 2022-05-05, vote average 6.5*
 
 A group of officers based in a labyrinthine top-secret must fight for their lives against Hatchet, a brilliant and infamous high-value detainee. When he escapes, his mysterious and deadly agenda has far reaching and dire consequences.
 
@@ -452,7 +433,7 @@ A group of officers based in a labyrinthine top-secret must fight for their live
 	
 
 	
-	
+
 	
 
 	
