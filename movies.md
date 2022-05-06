@@ -46,30 +46,8 @@ Laura and Massimo are back and hotter than ever. But the reunited couple&#39;s n
 	
 	
 
-### Virus:32
-*Released on 2022-04-21, vote average 7*
-
-A virus is unleashed and a chilling massacre runs through the streets of Montevideo.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/qqGQzBGZ0FY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Doctor Strange in the Multiverse of Madness
-*Released on 2022-05-04, vote average 7.2*
+*Released on 2022-05-04, vote average 7.4*
 
 Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.
 
@@ -77,7 +55,7 @@ Doctor Strange, with the help of mystical allies both old and new, traverses the
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/iRPabXACKFI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Rf8LAYJSOL8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -91,7 +69,7 @@ Doctor Strange, with the help of mystical allies both old and new, traverses the
 	
 
 ### Silverton Siege
-*Released on 2022-04-27, vote average 6.7*
+*Released on 2022-04-27, vote average 6.8*
 
 After a failed sabotage mission, a trio of anti-apartheid freedom fighters ends up in a tense bank hostage situation. Based on a true story.
 
@@ -166,22 +144,10 @@ In a future where Mars is terraformed and colonized by the best humanity has to 
 
 
 	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
 	
 
 ### Honeymoon With My Mother
-*Released on 2022-04-29, vote average 6.4*
+*Released on 2022-04-29, vote average 6.5*
 
 José Luis has been jilted at the altar but everything has its bright side, and he goes on a honeymoon with his mother. On this trip, he discovers he doesn&#39;t know his mother and he loves her.
 
@@ -203,7 +169,7 @@ José Luis has been jilted at the altar but everything has its bright side, and 
 	
 
 ### Fortress: Sniper&#39;s Eye
-*Released on 2022-04-29, vote average 5.1*
+*Released on 2022-04-29, vote average 5.4*
 
 Weeks after the deadly assault on Fortress Camp, Robert makes a daring rescue to save Sasha, the widow of his old nemesis Balzary. But back in the camp&#39;s command bunker, it appears Sasha may have devious plans of her own. As a new attack breaks out, Robert is confronted with a familiar face he thought he&#39;d never see again…
 
@@ -222,10 +188,15 @@ Weeks after the deadly assault on Fortress Camp, Robert makes a daring rescue to
 
 
 	
+
+  
+
+
+	
 	
 
 ### The Mystery of Marilyn Monroe: The Unheard Tapes
-*Released on 2022-04-27, vote average 6.7*
+*Released on 2022-04-27, vote average 6.5*
 
 This documentary explores the mystery surrounding the death of movie icon Marilyn Monroe through previously unheard interviews with her inner circle.
 
@@ -245,9 +216,38 @@ This documentary explores the mystery surrounding the death of movie icon Marily
 
 	
 	
+	
+
+  
+
+
+	
+	
+
+### Memory
+*Released on 2022-04-28, vote average 5.3*
+
+Alex, an assassin-for-hire, finds that he&#39;s become a target after he refuses to complete a job for a dangerous criminal organization. With the crime syndicate and FBI in hot pursuit, Alex has the skills to stay ahead, except for one thing: he is struggling with severe memory loss, affecting his every move. Alex must question his every action and whom he can ultimately trust.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ye63hQLDj4k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
 
 ### Constantine: The House of Mystery
-*Released on 2022-05-02, vote average 5.3*
+*Released on 2022-05-02, vote average 5.8*
 
 John Constantine wakes up in the eerie House of Mystery with no recollection of how he got there. Fortunately, Zatanna and his friends are all there. Unfortunately, they have a bad habit of turning into demons and ripping him to shreds, over and over again!
 
@@ -268,64 +268,8 @@ John Constantine wakes up in the eerie House of Mystery with no recollection of 
 	
 	
 
-### Memory
-*Released on 2022-04-28, vote average 5*
-
-Alex, an assassin-for-hire, finds that he&#39;s become a target after he refuses to complete a job for a dangerous criminal organization. With the crime syndicate and FBI in hot pursuit, Alex has the skills to stay ahead, except for one thing: he is struggling with severe memory loss, affecting his every move. Alex must question his every action and whom he can ultimately trust.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ye63hQLDj4k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Downton Abbey: A New Era
-*Released on 2022-04-27, vote average 7.4*
-
-The residents of Downton Abbey go on a new adventure that takes them to a Spanish villa.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/FnLpiqqjTA4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Hold Your Breath: The Ice Dive
-*Released on 2022-05-03, vote average 6.5*
+*Released on 2022-05-03, vote average 6.2*
 
 Follow free diver Johanna Nordblad in this documentary as she attempts to break the world record for distance traveled under ice with one breath.
 
@@ -347,7 +291,7 @@ Follow free diver Johanna Nordblad in this documentary as she attempts to break 
 	
 
 ### Hellbender
-*Released on 2022-05-05, vote average 6.3*
+*Released on 2022-05-05, vote average 6.1*
 
 A teen and her mother live simply in a home in the woods, spending their time making metal music. A chance encounter with a fellow teen causes her to uncover a connection between her family and witchcraft, which causes a rift with her mother.
 
@@ -365,57 +309,77 @@ A teen and her mother live simply in a home in the woods, spending their time ma
   
 
 
-
-## Opening soon
-
-
 	
 	
 
-### Moonshot
-*Released on 2022-05-05, vote average 9*
+### Polar Bear
+*Released on 2022-04-22, vote average 8.1*
 
-In a future where Mars is terraformed and colonized by the best humanity has to offer, two very different college students wind up joining forces and sneak onboard a space shuttle to the red planet in order to be united with their significant others.
+Tells the story of a new mother whose memories of her own youth prepare her to navigate motherhood in the increasingly challenging world that polar bears face today.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/KtEoKAIVntg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/zH3c875odA4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
 	
 
-	
+  
+
 
 	
 	
 
-### Hellbender
-*Released on 2022-05-05, vote average 6.3*
+### Spider-Man: All Roads Lead to No Way Home
+*Released on 2022-05-03, vote average 7.3*
 
-A teen and her mother live simply in a home in the woods, spending their time making metal music. A chance encounter with a fellow teen causes her to uncover a connection between her family and witchcraft, which causes a rift with her mother.
+Join our hosts JB Smoove and Martin Starr for a celebration of 20 years of Spider-Man™ movies!  From the original Sam Raimi trilogy to Marc Webb’s “amazing” movies to the latest trio from Director Jon Watts, we will take viewers through the stars, the stunts and action, the villains and heroes and an homage to Stan Lee, along with a few surprises. Find your favourite Spider-Man pajamas and prepare to swing through the past two decades of Spider-Man at the movies!
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/G_YWjP-blNw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/M6aV0mAc2-8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
 	
 
+  
+
+
 	
+	
+
+### Downton Abbey: A New Era
+*Released on 2022-04-27, vote average 7.6*
+
+The Crawley family goes on a grand journey to the South of France to uncover the mystery of the dowager countess&#39;s newly inherited villa.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/FnLpiqqjTA4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
 
 	
 	
 
 ### Black Site
-*Released on 2022-05-05, vote average 6.5*
+*Released on 2022-05-05, vote average 6*
 
 A group of officers based in a labyrinthine top-secret must fight for their lives against Hatchet, a brilliant and infamous high-value detainee. When he escapes, his mysterious and deadly agenda has far reaching and dire consequences.
 
@@ -428,6 +392,23 @@ A group of officers based in a labyrinthine top-secret must fight for their live
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+
+## Opening soon
+
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
