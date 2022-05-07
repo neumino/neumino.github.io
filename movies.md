@@ -47,7 +47,7 @@ Laura and Massimo are back and hotter than ever. But the reunited couple&#39;s n
 	
 
 ### Doctor Strange in the Multiverse of Madness
-*Released on 2022-05-04, vote average 7.4*
+*Released on 2022-05-04, vote average 7.6*
 
 Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.
 
@@ -68,16 +68,16 @@ Doctor Strange, with the help of mystical allies both old and new, traverses the
 	
 	
 
-### Silverton Siege
-*Released on 2022-04-27, vote average 6.8*
+### Crush
+*Released on 2022-04-29, vote average 7.4*
 
-After a failed sabotage mission, a trio of anti-apartheid freedom fighters ends up in a tense bank hostage situation. Based on a true story.
+When an aspiring young artist is forced to join her high school track team, she uses it as an opportunity to pursue the girl she&#39;s been harboring a long-time crush on. But she soon finds herself falling for an unexpected teammate and discovers what real love feels like.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/L23I_XopoA0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/NHxwLymYHWA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -90,16 +90,16 @@ After a failed sabotage mission, a trio of anti-apartheid freedom fighters ends 
 	
 	
 
-### Crush
-*Released on 2022-04-29, vote average 7.2*
+### Silverton Siege
+*Released on 2022-04-27, vote average 6.9*
 
-When an aspiring young artist is forced to join her high school track team, she uses it as an opportunity to pursue the girl she&#39;s been harboring a long-time crush on. But she soon finds herself falling for an unexpected teammate and discovers what real love feels like.
+After a failed sabotage mission, a trio of anti-apartheid freedom fighters ends up in a tense bank hostage situation. Based on a true story.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/NHxwLymYHWA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/L23I_XopoA0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -146,16 +146,16 @@ In a future where Mars is terraformed and colonized by the best humanity has to 
 	
 	
 
-### Honeymoon With My Mother
-*Released on 2022-04-29, vote average 6.5*
+### Fortress: Sniper&#39;s Eye
+*Released on 2022-04-29, vote average 6.1*
 
-José Luis has been jilted at the altar but everything has its bright side, and he goes on a honeymoon with his mother. On this trip, he discovers he doesn&#39;t know his mother and he loves her.
+Weeks after the deadly assault on Fortress Camp, Robert makes a daring rescue to save Sasha, the widow of his old nemesis Balzary. But back in the camp&#39;s command bunker, it appears Sasha may have devious plans of her own. As a new attack breaks out, Robert is confronted with a familiar face he thought he&#39;d never see again…
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Y3jXdxCS05U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/uF4f_nlJpvY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -168,16 +168,16 @@ José Luis has been jilted at the altar but everything has its bright side, and 
 	
 	
 
-### Fortress: Sniper&#39;s Eye
-*Released on 2022-04-29, vote average 5.4*
+### Honeymoon With My Mother
+*Released on 2022-04-29, vote average 6.6*
 
-Weeks after the deadly assault on Fortress Camp, Robert makes a daring rescue to save Sasha, the widow of his old nemesis Balzary. But back in the camp&#39;s command bunker, it appears Sasha may have devious plans of her own. As a new attack breaks out, Robert is confronted with a familiar face he thought he&#39;d never see again…
+José Luis has been jilted at the altar but everything has its bright side, and he goes on a honeymoon with his mother. On this trip, he discovers he doesn&#39;t know his mother and he loves her.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/uF4f_nlJpvY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Y3jXdxCS05U?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -224,16 +224,16 @@ This documentary explores the mystery surrounding the death of movie icon Marily
 	
 	
 
-### Memory
-*Released on 2022-04-28, vote average 5.3*
+### Constantine: The House of Mystery
+*Released on 2022-05-02, vote average 5.8*
 
-Alex, an assassin-for-hire, finds that he&#39;s become a target after he refuses to complete a job for a dangerous criminal organization. With the crime syndicate and FBI in hot pursuit, Alex has the skills to stay ahead, except for one thing: he is struggling with severe memory loss, affecting his every move. Alex must question his every action and whom he can ultimately trust.
+John Constantine wakes up in the eerie House of Mystery with no recollection of how he got there. Fortunately, Zatanna and his friends are all there. Unfortunately, they have a bad habit of turning into demons and ripping him to shreds, over and over again!
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ye63hQLDj4k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/7W_6J9esLYY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -246,16 +246,16 @@ Alex, an assassin-for-hire, finds that he&#39;s become a target after he refuses
 	
 	
 
-### Constantine: The House of Mystery
-*Released on 2022-05-02, vote average 5.8*
+### Memory
+*Released on 2022-04-28, vote average 5.3*
 
-John Constantine wakes up in the eerie House of Mystery with no recollection of how he got there. Fortunately, Zatanna and his friends are all there. Unfortunately, they have a bad habit of turning into demons and ripping him to shreds, over and over again!
+Alex, an assassin-for-hire, finds that he&#39;s become a target after he refuses to complete a job for a dangerous criminal organization. With the crime syndicate and FBI in hot pursuit, Alex has the skills to stay ahead, except for one thing: he is struggling with severe memory loss, affecting his every move. Alex must question his every action and whom he can ultimately trust.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/7W_6J9esLYY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ye63hQLDj4k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -290,6 +290,28 @@ Follow free diver Johanna Nordblad in this documentary as she attempts to break 
 	
 	
 
+### Black Site
+*Released on 2022-05-05, vote average 6*
+
+A group of officers based in a labyrinthine top-secret must fight for their lives against Hatchet, a brilliant and infamous high-value detainee. When he escapes, his mysterious and deadly agenda has far reaching and dire consequences.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Gs9Z-XP57Hk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Hellbender
 *Released on 2022-05-05, vote average 6.1*
 
@@ -312,16 +334,16 @@ A teen and her mother live simply in a home in the woods, spending their time ma
 	
 	
 
-### Polar Bear
-*Released on 2022-04-22, vote average 8.1*
+### KKN di Desa Penari
+*Released on 2022-04-30, vote average 5.5*
 
-Tells the story of a new mother whose memories of her own youth prepare her to navigate motherhood in the increasingly challenging world that polar bears face today.
+Six students were terrorized by a mysterious dancer while running a community service program in a remote village. Apparently, one of them violates the most fatal rule in the village.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/zH3c875odA4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/01BPk6M37qs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -357,7 +379,7 @@ Join our hosts JB Smoove and Martin Starr for a celebration of 20 years of Spide
 	
 
 ### Downton Abbey: A New Era
-*Released on 2022-04-27, vote average 7.6*
+*Released on 2022-04-27, vote average 7.5*
 
 The Crawley family goes on a grand journey to the South of France to uncover the mystery of the dowager countess&#39;s newly inherited villa.
 
@@ -375,32 +397,27 @@ The Crawley family goes on a grand journey to the South of France to uncover the
   
 
 
+
+## Opening soon
+
+
 	
 	
 
-### Black Site
-*Released on 2022-05-05, vote average 6*
+### Jurassic World Dominion
+*Released on 2022-05-08, vote average 4*
 
-A group of officers based in a labyrinthine top-secret must fight for their lives against Hatchet, a brilliant and infamous high-value detainee. When he escapes, his mysterious and deadly agenda has far reaching and dire consequences.
+Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history’s most fearsome creatures.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Gs9Z-XP57Hk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/DtQycgMD4HQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-
-## Opening soon
-
-
 	
 
 	
