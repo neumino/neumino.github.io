@@ -47,7 +47,7 @@ Doctor Strange, with the help of mystical allies both old and new, traverses the
 	
 
 ### 365 Days: This Day
-*Released on 2022-04-27, vote average 5.8*
+*Released on 2022-04-27, vote average 5.7*
 
 Laura and Massimo are back and hotter than ever. But the reunited couple&#39;s new beginning is complicated by Massimo’s family ties and a mysterious man who enters Laura’s life to win her heart and trust, at any cost.
 
@@ -89,9 +89,16 @@ After a failed sabotage mission, a trio of anti-apartheid freedom fighters ends 
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Crush
-*Released on 2022-04-29, vote average 7.5*
+*Released on 2022-04-29, vote average 7.6*
 
 When an aspiring young artist is forced to join her high school track team, she uses it as an opportunity to pursue the girl she&#39;s been harboring a long-time crush on. But she soon finds herself falling for an unexpected teammate and discovers what real love feels like.
 
@@ -103,13 +110,6 @@ When an aspiring young artist is forced to join her high school track team, she 
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -149,7 +149,7 @@ José Luis has been jilted at the altar but everything has its bright side, and 
 	
 
 ### Fortress: Sniper&#39;s Eye
-*Released on 2022-04-29, vote average 6.1*
+*Released on 2022-04-29, vote average 6.2*
 
 Weeks after the deadly assault on Fortress Camp, Robert makes a daring rescue to save Sasha, the widow of his old nemesis Balzary. But back in the camp&#39;s command bunker, it appears Sasha may have devious plans of her own. As a new attack breaks out, Robert is confronted with a familiar face he thought he&#39;d never see again…
 
@@ -214,28 +214,6 @@ In a future where Mars is terraformed and colonized by the best humanity has to 
 	
 	
 
-### Escape the Field
-*Released on 2022-05-06, vote average 6.1*
-
-Six strangers suddenly awaken in a remote, endless cornfield. Stripped of their possessions, they are left with only six items: a gun with a single bullet, matches, a lantern, a knife, a compass, and a flask of water. As mysterious sirens blare in the distance and traps appear at every turn, the group realizes it’s been plunged into a cat-and-mouse game with an unseen evil, and survival depends upon solving a diabolical and deadly puzzle.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/D-iZ9sdOm18?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### KKN di Desa Penari
 *Released on 2022-04-30, vote average 5.5*
 
@@ -259,7 +237,7 @@ Six students were terrorized by a mysterious dancer while running a community se
 	
 
 ### The Takedown
-*Released on 2022-05-06, vote average 6.1*
+*Released on 2022-05-06, vote average 5.8*
 
 Ousmane Diakité and François Monge are two cops with very different styles, backgrounds and careers. The unlikely pair are reunited once again for a new investigation that takes them across France. What seemed to be a simple drug deal turns out to be a much bigger criminal case wrapped in danger and unexpected comedy.
 
@@ -280,16 +258,16 @@ Ousmane Diakité and François Monge are two cops with very different styles, ba
 	
 	
 
-### Memory
-*Released on 2022-04-28, vote average 6.2*
+### Hold Your Breath: The Ice Dive
+*Released on 2022-05-03, vote average 6.7*
 
-Alex, an assassin-for-hire, finds that he&#39;s become a target after he refuses to complete a job for a dangerous criminal organization. With the crime syndicate and FBI in hot pursuit, Alex has the skills to stay ahead, except for one thing: he is struggling with severe memory loss, affecting his every move. Alex must question his every action and whom he can ultimately trust.
+Follow free diver Johanna Nordblad in this documentary as she attempts to break the world record for distance traveled under ice with one breath.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ye63hQLDj4k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/0_QWamRowc0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -302,16 +280,38 @@ Alex, an assassin-for-hire, finds that he&#39;s become a target after he refuses
 	
 	
 
-### Hold Your Breath: The Ice Dive
-*Released on 2022-05-03, vote average 6.5*
+### Escape the Field
+*Released on 2022-05-06, vote average 6.1*
 
-Follow free diver Johanna Nordblad in this documentary as she attempts to break the world record for distance traveled under ice with one breath.
+Six strangers suddenly awaken in a remote, endless cornfield. Stripped of their possessions, they are left with only six items: a gun with a single bullet, matches, a lantern, a knife, a compass, and a flask of water. As mysterious sirens blare in the distance and traps appear at every turn, the group realizes it’s been plunged into a cat-and-mouse game with an unseen evil, and survival depends upon solving a diabolical and deadly puzzle.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/0_QWamRowc0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/D-iZ9sdOm18?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Along for the Ride
+*Released on 2022-05-06, vote average 7*
+
+The summer before college Auden meets the mysterious Eli, a fellow insomniac. While the seaside town of Colby sleeps, the two embark on a nightly quest to help Auden experience the fun, carefree teen life she never knew she wanted.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/A1PTIxYrTVw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -346,16 +346,16 @@ A black and white silent short film, set on the Greek Cycladic island of Tenos. 
 	
 	
 
-### Along for the Ride
-*Released on 2022-05-06, vote average 7.2*
+### Memory
+*Released on 2022-04-28, vote average 6.5*
 
-The summer before college Auden meets the mysterious Eli, a fellow insomniac. While the seaside town of Colby sleeps, the two embark on a nightly quest to help Auden experience the fun, carefree teen life she never knew she wanted.
+Alex, an assassin-for-hire, finds that he&#39;s become a target after he refuses to complete a job for a dangerous criminal organization. With the crime syndicate and FBI in hot pursuit, Alex has the skills to stay ahead, except for one thing: he is struggling with severe memory loss, affecting his every move. Alex must question his every action and whom he can ultimately trust.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/A1PTIxYrTVw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ye63hQLDj4k?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -365,30 +365,6 @@ The summer before college Auden meets the mysterious Eli, a fellow insomniac. Wh
   
 
 
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Snoopy Presents: To Mom (and Dad), With Love
-*Released on 2022-05-06, vote average 6*
-
-Mother’s Day is almost here, and the gang is excited—except Peppermint Patty. For her, it’s a reminder that she didn’t grow up with a mom. But good pal Marcie helps Peppermint Patty see that families come in all shapes and sizes.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/NXdFlyFwCCc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -398,7 +374,7 @@ Mother’s Day is almost here, and the gang is excited—except Peppermint Patty
 	
 
 ### Black Site
-*Released on 2022-05-05, vote average 7.3*
+*Released on 2022-05-05, vote average 6.8*
 
 A group of officers based in a labyrinthine top-secret must fight for their lives against Hatchet, a brilliant and infamous high-value detainee. When he escapes, his mysterious and deadly agenda has far reaching and dire consequences.
 
@@ -416,23 +392,47 @@ A group of officers based in a labyrinthine top-secret must fight for their live
   
 
 
-
-## Opening soon
-
-
 	
 	
 
-### Bubble
-*Released on 2022-05-13, vote average 7.8*
+### Constantine: The House of Mystery
+*Released on 2022-05-02, vote average 5.8*
 
-In an abandoned Tokyo overrun by bubbles and gravitational abnormalities, one gifted young man has a fateful meeting with a mysterious girl.
+John Constantine wakes up in the eerie House of Mystery with no recollection of how he got there. Fortunately, Zatanna and his friends are all there. Unfortunately, they have a bad habit of turning into demons and ripping him to shreds, over and over again!
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/8pbWblLkHHk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/7W_6J9esLYY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+
+## Opening soon
+
+
+	
+
+	
+	
+
+### Firestarter
+*Released on 2022-05-12, vote average 9.3*
+
+A girl with extraordinary pyrokinetic powers fights to protect her family and herself from sinister forces that seek to capture and control her.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/59MJfJPP5eo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -447,10 +447,6 @@ In an abandoned Tokyo overrun by bubbles and gravitational abnormalities, one gi
 
 	
 
-	
-
-	
-	
 	
 
 	
