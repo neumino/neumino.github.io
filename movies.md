@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Doctor Strange in the Multiverse of Madness
-*Released on 2022-05-04, vote average 7.6*
+*Released on 2022-05-04, vote average 7.5*
 
 Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.
 
@@ -21,7 +21,7 @@ Doctor Strange, with the help of mystical allies both old and new, traverses the
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/mz7P-mJN6Hk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/3IhB-PFLBbg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@ Laura and Massimo are back and hotter than ever. But the reunited couple&#39;s n
 	
 
 ### Silverton Siege
-*Released on 2022-04-27, vote average 6.7*
+*Released on 2022-04-27, vote average 6.5*
 
 After a failed sabotage mission, a trio of anti-apartheid freedom fighters ends up in a tense bank hostage situation. Based on a true story.
 
@@ -97,8 +97,52 @@ After a failed sabotage mission, a trio of anti-apartheid freedom fighters ends 
 	
 	
 
+### Fortress: Sniper&#39;s Eye
+*Released on 2022-04-29, vote average 5.9*
+
+Weeks after the deadly assault on Fortress Camp, Robert makes a daring rescue to save Sasha, the widow of his old nemesis Balzary. But back in the camp&#39;s command bunker, it appears Sasha may have devious plans of her own. As a new attack breaks out, Robert is confronted with a familiar face he thought he&#39;d never see again…
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/uF4f_nlJpvY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Honeymoon With My Mother
+*Released on 2022-04-29, vote average 6.4*
+
+José Luis has been jilted at the altar but everything has its bright side, and he goes on a honeymoon with his mother. On this trip, he discovers he doesn&#39;t know his mother and he loves her.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Y3jXdxCS05U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Crush
-*Released on 2022-04-29, vote average 7.6*
+*Released on 2022-04-29, vote average 7.4*
 
 When an aspiring young artist is forced to join her high school track team, she uses it as an opportunity to pursue the girl she&#39;s been harboring a long-time crush on. But she soon finds herself falling for an unexpected teammate and discovers what real love feels like.
 
@@ -126,52 +170,8 @@ When an aspiring young artist is forced to join her high school track team, she 
 	
 	
 
-### Honeymoon With My Mother
-*Released on 2022-04-29, vote average 6.5*
-
-José Luis has been jilted at the altar but everything has its bright side, and he goes on a honeymoon with his mother. On this trip, he discovers he doesn&#39;t know his mother and he loves her.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Y3jXdxCS05U?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Fortress: Sniper&#39;s Eye
-*Released on 2022-04-29, vote average 6.2*
-
-Weeks after the deadly assault on Fortress Camp, Robert makes a daring rescue to save Sasha, the widow of his old nemesis Balzary. But back in the camp&#39;s command bunker, it appears Sasha may have devious plans of her own. As a new attack breaks out, Robert is confronted with a familiar face he thought he&#39;d never see again…
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/uF4f_nlJpvY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Mystery of Marilyn Monroe: The Unheard Tapes
-*Released on 2022-04-27, vote average 6.4*
+*Released on 2022-04-27, vote average 6.3*
 
 This documentary explores the mystery surrounding the death of movie icon Marilyn Monroe through previously unheard interviews with her inner circle.
 
@@ -193,7 +193,7 @@ This documentary explores the mystery surrounding the death of movie icon Marily
 	
 
 ### Moonshot
-*Released on 2022-05-05, vote average 8.2*
+*Released on 2022-05-05, vote average 7.9*
 
 In a future where Mars is terraformed and colonized by the best humanity has to offer, two very different college students wind up joining forces and sneak onboard a space shuttle to the red planet in order to be united with their significant others.
 
@@ -215,7 +215,7 @@ In a future where Mars is terraformed and colonized by the best humanity has to 
 	
 
 ### KKN di Desa Penari
-*Released on 2022-04-30, vote average 5.5*
+*Released on 2022-04-30, vote average 3.8*
 
 Six students were terrorized by a mysterious dancer while running a community service program in a remote village. Apparently, one of them violates the most fatal rule in the village.
 
@@ -237,7 +237,7 @@ Six students were terrorized by a mysterious dancer while running a community se
 	
 
 ### The Takedown
-*Released on 2022-05-06, vote average 5.8*
+*Released on 2022-05-06, vote average 5.7*
 
 Ousmane Diakité and François Monge are two cops with very different styles, backgrounds and careers. The unlikely pair are reunited once again for a new investigation that takes them across France. What seemed to be a simple drug deal turns out to be a much bigger criminal case wrapped in danger and unexpected comedy.
 
@@ -259,7 +259,7 @@ Ousmane Diakité and François Monge are two cops with very different styles, ba
 	
 
 ### Hold Your Breath: The Ice Dive
-*Released on 2022-05-03, vote average 6.7*
+*Released on 2022-05-03, vote average 6.1*
 
 Follow free diver Johanna Nordblad in this documentary as she attempts to break the world record for distance traveled under ice with one breath.
 
@@ -280,30 +280,8 @@ Follow free diver Johanna Nordblad in this documentary as she attempts to break 
 	
 	
 
-### Escape the Field
-*Released on 2022-05-06, vote average 6.1*
-
-Six strangers suddenly awaken in a remote, endless cornfield. Stripped of their possessions, they are left with only six items: a gun with a single bullet, matches, a lantern, a knife, a compass, and a flask of water. As mysterious sirens blare in the distance and traps appear at every turn, the group realizes it’s been plunged into a cat-and-mouse game with an unseen evil, and survival depends upon solving a diabolical and deadly puzzle.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/D-iZ9sdOm18?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Along for the Ride
-*Released on 2022-05-06, vote average 7*
+*Released on 2022-05-06, vote average 6.9*
 
 The summer before college Auden meets the mysterious Eli, a fellow insomniac. While the seaside town of Colby sleeps, the two embark on a nightly quest to help Auden experience the fun, carefree teen life she never knew she wanted.
 
@@ -322,21 +300,6 @@ The summer before college Auden meets the mysterious Eli, a fellow insomniac. Wh
 
 
 	
-	
-
-### Bleat
-*Released on 2022-05-06, vote average 8.5*
-
-A black and white silent short film, set on the Greek Cycladic island of Tenos. A woman in black is mourning inside a simple house. Reality blends with dreamy imagination, and tradition with insidious desires.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/4VrMvg-m_PE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -366,23 +329,18 @@ Alex, an assassin-for-hire, finds that he&#39;s become a target after he refuses
 
 
 	
-
-  
-
-
-	
 	
 
-### Black Site
-*Released on 2022-05-05, vote average 6.8*
+### Escape the Field
+*Released on 2022-05-06, vote average 5.8*
 
-A group of officers based in a labyrinthine top-secret must fight for their lives against Hatchet, a brilliant and infamous high-value detainee. When he escapes, his mysterious and deadly agenda has far reaching and dire consequences.
+Six strangers suddenly awaken in a remote, endless cornfield. Stripped of their possessions, they are left with only six items: a gun with a single bullet, matches, a lantern, a knife, a compass, and a flask of water. As mysterious sirens blare in the distance and traps appear at every turn, the group realizes it’s been plunged into a cat-and-mouse game with an unseen evil, and survival depends upon solving a diabolical and deadly puzzle.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Gs9Z-XP57Hk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/D-iZ9sdOm18?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -395,16 +353,60 @@ A group of officers based in a labyrinthine top-secret must fight for their live
 	
 	
 
-### Constantine: The House of Mystery
-*Released on 2022-05-02, vote average 5.8*
+### Spring Awakening: Those You&#39;ve Known
+*Released on 2022-05-03, vote average 5.5*
 
-John Constantine wakes up in the eerie House of Mystery with no recollection of how he got there. Fortunately, Zatanna and his friends are all there. Unfortunately, they have a bad habit of turning into demons and ripping him to shreds, over and over again!
+Fifteen years after the smash, Tony-winning Broadway run of &#34;Spring Awakening,&#34; the original cast and creative team reunite for a spectacular, one-night only reunion concert to benefit The Actors Fund. Chronicling their whirlwind journey back to the stage, this documentary follows the players as they reconnect and rediscover the beauty and timelessness of the hit musical.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/7W_6J9esLYY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/f59eioQGL-c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Marmaduke
+*Released on 2022-04-28, vote average 5.4*
+
+Great Dane Marmaduke epitomizes the overgrown lapdog, with an irascible streak and a penchant for mischief that is tempered with a deep sense of love and responsibility for his human family, the Winslows. The new animation is set in the world of elite dog shows, rife divas, rivalries and slapstick comedy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wDXYjxxnALU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Bleat
+*Released on 2022-05-06, vote average 5.3*
+
+A black and white silent short film, set on the Greek Cycladic island of Tenos. A woman in black is mourning inside a simple house. Reality blends with dreamy imagination, and tradition with insidious desires.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/4VrMvg-m_PE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -419,12 +421,10 @@ John Constantine wakes up in the eerie House of Mystery with no recollection of 
 
 
 	
-
-	
 	
 
 ### Firestarter
-*Released on 2022-05-12, vote average 9.3*
+*Released on 2022-05-12, vote average 8.3*
 
 A girl with extraordinary pyrokinetic powers fights to protect her family and herself from sinister forces that seek to capture and control her.
 
@@ -440,7 +440,66 @@ A girl with extraordinary pyrokinetic powers fights to protect her family and he
 	
 
 	
+	
+	
 
+	
+	
+
+### Senior Year
+*Released on 2022-05-13, vote average 10*
+
+A thirty-seven-year-old woman wakes up from a twenty-year coma and returns to the high school where she was once a popular cheerleader to finish her senior year and become prom queen.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/HCtDkpe89aY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+	
+
+### Our Father
+*Released on 2022-05-11, vote average 2*
+
+After a woman&#39;s at-home DNA test reveals multiple half-siblings, she discovers a shocking scheme involving donor sperm and a popular fertility doctor.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/phQxK5u8IEs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### Monstrous
+*Released on 2022-05-13, vote average 2*
+
+Laura, traumatized by an abusive relationship, runs away from her former husband with her seven-year-old son Cody. But in their new, idyllic and remote sanctuary, they find they have another, bigger and more terrifying monster to deal with…
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/4bRnHRf6zv4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -456,9 +515,7 @@ A girl with extraordinary pyrokinetic powers fights to protect her family and he
 	
 
 	
-
 	
-
 	
 
 	
