@@ -45,50 +45,6 @@ Doctor Strange, with the help of mystical allies both old and new, traverses the
 
 	
 	
-
-### 365 Days: This Day
-*Released on 2022-04-27, vote average 5.7*
-
-Laura and Massimo are back and hotter than ever. But the reunited couple&#39;s new beginning is complicated by Massimo’s family ties and a mysterious man who enters Laura’s life to win her heart and trust, at any cost.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pyM3z73oMAk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Silverton Siege
-*Released on 2022-04-27, vote average 6.5*
-
-After a failed sabotage mission, a trio of anti-apartheid freedom fighters ends up in a tense bank hostage situation. Based on a true story.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/L23I_XopoA0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -98,7 +54,7 @@ After a failed sabotage mission, a trio of anti-apartheid freedom fighters ends 
 	
 
 ### Fortress: Sniper&#39;s Eye
-*Released on 2022-04-29, vote average 5.9*
+*Released on 2022-04-29, vote average 5.7*
 
 Weeks after the deadly assault on Fortress Camp, Robert makes a daring rescue to save Sasha, the widow of his old nemesis Balzary. But back in the camp&#39;s command bunker, it appears Sasha may have devious plans of her own. As a new attack breaks out, Robert is confronted with a familiar face he thought he&#39;d never see again…
 
@@ -120,7 +76,7 @@ Weeks after the deadly assault on Fortress Camp, Robert makes a daring rescue to
 	
 
 ### Honeymoon With My Mother
-*Released on 2022-04-29, vote average 6.4*
+*Released on 2022-04-29, vote average 6.3*
 
 José Luis has been jilted at the altar but everything has its bright side, and he goes on a honeymoon with his mother. On this trip, he discovers he doesn&#39;t know his mother and he loves her.
 
@@ -129,6 +85,28 @@ José Luis has been jilted at the altar but everything has its bright side, and 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/Y3jXdxCS05U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### 2000 Mules
+*Released on 2022-05-02, vote average 7.7*
+
+True the Vote has been working with Dinesh D’Souza to create a bombshell movie that uses footage they obtained of ballot boxes in key states across America to steal the election in 2020.  100 Percent Fed Up reports – Using geo-tracking devices, True the Vote was able to take footage from drop boxes across America in key states like Georgia and others to track over 2,000 ‘mules” wearing gloves and disguises to stuff ballot boxes.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/A3gqSaTh2fQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -151,57 +129,6 @@ When an aspiring young artist is forced to join her high school track team, she 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/NHxwLymYHWA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### The Mystery of Marilyn Monroe: The Unheard Tapes
-*Released on 2022-04-27, vote average 6.3*
-
-This documentary explores the mystery surrounding the death of movie icon Marilyn Monroe through previously unheard interviews with her inner circle.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/mqsikkkyy_s?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Moonshot
-*Released on 2022-05-05, vote average 7.9*
-
-In a future where Mars is terraformed and colonized by the best humanity has to offer, two very different college students wind up joining forces and sneak onboard a space shuttle to the red planet in order to be united with their significant others.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/KtEoKAIVntg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -258,8 +185,52 @@ Ousmane Diakité and François Monge are two cops with very different styles, ba
 	
 	
 
+### Along for the Ride
+*Released on 2022-05-06, vote average 6.8*
+
+The summer before college Auden meets the mysterious Eli, a fellow insomniac. While the seaside town of Colby sleeps, the two embark on a nightly quest to help Auden experience the fun, carefree teen life she never knew she wanted.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/A1PTIxYrTVw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Moonshot
+*Released on 2022-05-05, vote average 7.5*
+
+In a future where Mars is terraformed and colonized by the best humanity has to offer, two very different college students wind up joining forces and sneak onboard a space shuttle to the red planet in order to be united with their significant others.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KtEoKAIVntg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Hold Your Breath: The Ice Dive
-*Released on 2022-05-03, vote average 6.1*
+*Released on 2022-05-03, vote average 6.2*
 
 Follow free diver Johanna Nordblad in this documentary as she attempts to break the world record for distance traveled under ice with one breath.
 
@@ -280,67 +251,16 @@ Follow free diver Johanna Nordblad in this documentary as she attempts to break 
 	
 	
 
-### Along for the Ride
-*Released on 2022-05-06, vote average 6.9*
+### Firestarter
+*Released on 2022-05-12, vote average 8.3*
 
-The summer before college Auden meets the mysterious Eli, a fellow insomniac. While the seaside town of Colby sleeps, the two embark on a nightly quest to help Auden experience the fun, carefree teen life she never knew she wanted.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/A1PTIxYrTVw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Memory
-*Released on 2022-04-28, vote average 6.5*
-
-Alex, an assassin-for-hire, finds that he&#39;s become a target after he refuses to complete a job for a dangerous criminal organization. With the crime syndicate and FBI in hot pursuit, Alex has the skills to stay ahead, except for one thing: he is struggling with severe memory loss, affecting his every move. Alex must question his every action and whom he can ultimately trust.
+A girl with extraordinary pyrokinetic powers fights to protect her family and herself from sinister forces that seek to capture and control her.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ye63hQLDj4k?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Escape the Field
-*Released on 2022-05-06, vote average 5.8*
-
-Six strangers suddenly awaken in a remote, endless cornfield. Stripped of their possessions, they are left with only six items: a gun with a single bullet, matches, a lantern, a knife, a compass, and a flask of water. As mysterious sirens blare in the distance and traps appear at every turn, the group realizes it’s been plunged into a cat-and-mouse game with an unseen evil, and survival depends upon solving a diabolical and deadly puzzle.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/D-iZ9sdOm18?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/59MJfJPP5eo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -397,16 +317,92 @@ Great Dane Marmaduke epitomizes the overgrown lapdog, with an irascible streak a
 	
 	
 
-### Bleat
-*Released on 2022-05-06, vote average 5.3*
+### Memory
+*Released on 2022-04-28, vote average 6.5*
 
-A black and white silent short film, set on the Greek Cycladic island of Tenos. A woman in black is mourning inside a simple house. Reality blends with dreamy imagination, and tradition with insidious desires.
+Alex, an assassin-for-hire, finds that he&#39;s become a target after he refuses to complete a job for a dangerous criminal organization. With the crime syndicate and FBI in hot pursuit, Alex has the skills to stay ahead, except for one thing: he is struggling with severe memory loss, affecting his every move. Alex must question his every action and whom he can ultimately trust.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/4VrMvg-m_PE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ye63hQLDj4k?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Escape the Field
+*Released on 2022-05-06, vote average 5.8*
+
+Six strangers suddenly awaken in a remote, endless cornfield. Stripped of their possessions, they are left with only six items: a gun with a single bullet, matches, a lantern, a knife, a compass, and a flask of water. As mysterious sirens blare in the distance and traps appear at every turn, the group realizes it’s been plunged into a cat-and-mouse game with an unseen evil, and survival depends upon solving a diabolical and deadly puzzle.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/D-iZ9sdOm18?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Constantine: The House of Mystery
+*Released on 2022-05-02, vote average 5*
+
+John Constantine wakes up in the eerie House of Mystery with no recollection of how he got there. Fortunately, Zatanna and his friends are all there. Unfortunately, they have a bad habit of turning into demons and ripping him to shreds, over and over again!
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/7W_6J9esLYY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Our Father
+*Released on 2022-05-11, vote average 2*
+
+After a woman&#39;s at-home DNA test reveals multiple half-siblings, she discovers a shocking scheme involving donor sperm and a popular fertility doctor.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/phQxK5u8IEs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -441,13 +437,9 @@ A girl with extraordinary pyrokinetic powers fights to protect her family and he
 
 	
 	
-	
-
-	
-	
 
 ### Senior Year
-*Released on 2022-05-13, vote average 10*
+*Released on 2022-05-13, vote average 6*
 
 A thirty-seven-year-old woman wakes up from a twenty-year coma and returns to the high school where she was once a popular cheerleader to finish her senior year and become prom queen.
 
@@ -455,32 +447,13 @@ A thirty-seven-year-old woman wakes up from a twenty-year coma and returns to th
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/HCtDkpe89aY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/cKt4BzXkZT8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
 	
 
-	
-
-	
-	
-
-### Our Father
-*Released on 2022-05-11, vote average 2*
-
-After a woman&#39;s at-home DNA test reveals multiple half-siblings, she discovers a shocking scheme involving donor sperm and a popular fertility doctor.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/phQxK5u8IEs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
@@ -515,7 +488,9 @@ Laura, traumatized by an abusive relationship, runs away from her former husband
 	
 
 	
+
 	
+
 	
 
 	
