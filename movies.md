@@ -45,86 +45,6 @@ Doctor Strange, with the help of mystical allies both old and new, traverses the
 
 	
 	
-	
-
-  
-
-
-	
-	
-
-### Fortress: Sniper&#39;s Eye
-*Released on 2022-04-29, vote average 5.8*
-
-Weeks after the deadly assault on Fortress Camp, Robert makes a daring rescue to save Sasha, the widow of his old nemesis Balzary. But back in the camp&#39;s command bunker, it appears Sasha may have devious plans of her own. As a new attack breaks out, Robert is confronted with a familiar face he thought he&#39;d never see again…
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/uF4f_nlJpvY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Honeymoon With My Mother
-*Released on 2022-04-29, vote average 6.2*
-
-José Luis has been jilted at the altar but everything has its bright side, and he goes on a honeymoon with his mother. On this trip, he discovers he doesn&#39;t know his mother and he loves her.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Y3jXdxCS05U?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Crush
-*Released on 2022-04-29, vote average 7.3*
-
-When an aspiring young artist is forced to join her high school track team, she uses it as an opportunity to pursue the girl she&#39;s been harboring a long-time crush on. But she soon finds herself falling for an unexpected teammate and discovers what real love feels like.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/NHxwLymYHWA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
 
 ### The Takedown
 *Released on 2022-05-06, vote average 5.7*
@@ -149,7 +69,7 @@ Ousmane Diakité and François Monge are two cops with very different styles, ba
 	
 
 ### Along for the Ride
-*Released on 2022-05-06, vote average 6.8*
+*Released on 2022-05-06, vote average 6.9*
 
 The summer before college Auden meets the mysterious Eli, a fellow insomniac. While the seaside town of Colby sleeps, the two embark on a nightly quest to help Auden experience the fun, carefree teen life she never knew she wanted.
 
@@ -161,6 +81,13 @@ The summer before college Auden meets the mysterious Eli, a fellow insomniac. Wh
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -215,9 +142,9 @@ In a future where Mars is terraformed and colonized by the best humanity has to 
 	
 
 ### Firestarter
-*Released on 2022-05-12, vote average 8.3*
+*Released on 2022-05-12, vote average 7.8*
 
-A girl with extraordinary pyrokinetic powers fights to protect her family and herself from sinister forces that seek to capture and control her.
+For more than a decade, parents Andy and Vicky have been on the run, desperate to hide their daughter Charlie from a shadowy federal agency that wants to harness her unprecedented gift for creating fire into a weapon of mass destruction. Andy has taught Charlie how to defuse her power, which is triggered by anger or pain. But as Charlie turns 11, the fire becomes harder and harder to control. After an incident reveals the family&#39;s location, a mysterious operative is deployed to hunt down the family and seize Charlie once and for all. Charlie has other plans.
 
 <iframe id="player"
 	type="text/html"
@@ -281,7 +208,7 @@ Fifteen years after the smash, Tony-winning Broadway run of &#34;Spring Awakenin
 	
 
 ### Our Father
-*Released on 2022-05-11, vote average 5.2*
+*Released on 2022-05-11, vote average 6.4*
 
 After a woman&#39;s at-home DNA test reveals multiple half-siblings, she discovers a shocking scheme involving donor sperm and a popular fertility doctor.
 
@@ -290,6 +217,28 @@ After a woman&#39;s at-home DNA test reveals multiple half-siblings, she discove
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/phQxK5u8IEs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Monstrous
+*Released on 2022-05-13, vote average 2*
+
+Laura, traumatized by an abusive relationship, runs away from her former husband with her seven-year-old son Cody. But in their new, idyllic and remote sanctuary, they find they have another, bigger and more terrifying monster to deal with…
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/4bRnHRf6zv4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -322,6 +271,23 @@ A thirty-seven-year-old woman wakes up from a twenty-year coma and returns to th
 
 
 	
+	
+
+### Shark Bait
+*Released on 2022-05-13, vote average 2*
+
+A group of friends enjoying a weekend steal a couple of jetskis racing them out to sea, ending up in a horrific head-on collision. They struggle to find a way home with a badly injured friend while from the waters below predators lurk.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3U09a_Gyv6w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -348,6 +314,74 @@ John Constantine wakes up in the eerie House of Mystery with no recollection of 
   
 
 
+	
+	
+
+### Family Camp
+*Released on 2022-05-13, vote average 2*
+
+When workaholic Tommy&#39;s wife insists that he spend more time with his family, he agrees to sign up for Family Camp. What Tommy didn&#39;t count on was being forced to share a yurt at camp with the larger-than-life Sanders family.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/VQ6qHA3dbLM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Lockdown
+*Released on 2022-05-10, vote average 3*
+
+Chaos reigns in Los Angeles when three criminals, led by a psychotic mastermind named McMasters, takes over a police station and threaten to kill everyone in it unless a large ransom is paid. FBI special agent Roger Kinkaid uses his extensive knowledge in a bid to outwit the criminals and save the hostages, but one question remains: even if they get their money, how can they possibly escape?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/bIV_190JWGY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Escape the Field
+*Released on 2022-05-06, vote average 5.8*
+
+Six strangers suddenly awaken in a remote, endless cornfield. Stripped of their possessions, they are left with only six items: a gun with a single bullet, matches, a lantern, a knife, a compass, and a flask of water. As mysterious sirens blare in the distance and traps appear at every turn, the group realizes it’s been plunged into a cat-and-mouse game with an unseen evil, and survival depends upon solving a diabolical and deadly puzzle.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/D-iZ9sdOm18?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
 	
 
   
@@ -385,56 +419,32 @@ When El, an aspiring sneaker designer from Queens, meets Kira King, the fiercely
 
 
 	
+
 	
 
-### Monstrous
-*Released on 2022-05-13, vote average 2*
+	
 
-Laura, traumatized by an abusive relationship, runs away from her former husband with her seven-year-old son Cody. But in their new, idyllic and remote sanctuary, they find they have another, bigger and more terrifying monster to deal with…
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Heart of the Matter
+*Released on 2022-05-15, vote average 2*
+
+Andie is a cardiologist who is devastated by the accidental death of a patient. As she and his grieving mother overcome their sorrow through forgiveness, they learn that acceptance leads to hope.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/4bRnHRf6zv4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Shark Bait
-*Released on 2022-05-13, vote average 2*
-
-A group of friends enjoying a weekend steal a couple of jetskis racing them out to sea, ending up in a horrific head-on collision. They struggle to find a way home with a badly injured friend while from the waters below predators lurk.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3U09a_Gyv6w?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Family Camp
-*Released on 2022-05-13, vote average 2*
-
-When workaholic Tommy&#39;s wife insists that he spend more time with his family, he agrees to sign up for Family Camp. What Tommy didn&#39;t count on was being forced to share a yurt at camp with the larger-than-life Sanders family.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/VQ6qHA3dbLM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/EbWJwqZ5C84?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -446,19 +456,28 @@ When workaholic Tommy&#39;s wife insists that he spend more time with his family
 	
 
 	
-
+	
 	
 
 	
 
 	
-
 	
 
-	
+### BTS 2021 Muster Sowoozoo
+*Released on 2022-05-16, vote average 2*
+
+BTS 2021 MUSTER SOWOOZOO was a two-day pay-per-view streaming Muster fan club event by BTS. The events were held both on June 13, 2021 and June 14, 2021 online.  The word “소우주” is the Korean name for their song, &#34;Mikrokosmos&#34;.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/YiTMyu-r_Ko?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 	
-
 	
 
 	
