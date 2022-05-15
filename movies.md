@@ -21,7 +21,7 @@ Doctor Strange, with the help of mystical allies both old and new, traverses the
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/FgaHvAmq0rM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/6O8XCGq58YE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -89,24 +89,17 @@ The summer before college Auden meets the mysterious Eli, a fellow insomniac. Wh
 
 	
 	
-	
 
-  
+### Firestarter
+*Released on 2022-05-12, vote average 7.1*
 
-
-	
-	
-
-### KKN di Desa Penari
-*Released on 2022-04-30, vote average 3.8*
-
-Six students were terrorized by a mysterious dancer while running a community service program in a remote village. Apparently, one of them violates the most fatal rule in the village.
+For more than a decade, parents Andy and Vicky have been on the run, desperate to hide their daughter Charlie from a shadowy federal agency that wants to harness her unprecedented gift for creating fire into a weapon of mass destruction. Andy has taught Charlie how to defuse her power, which is triggered by anger or pain. But as Charlie turns 11, the fire becomes harder and harder to control. After an incident reveals the family&#39;s location, a mysterious operative is deployed to hunt down the family and seize Charlie once and for all. Charlie has other plans.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/01BPk6M37qs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/59MJfJPP5eo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -140,17 +133,24 @@ In a future where Mars is terraformed and colonized by the best humanity has to 
 
 	
 	
+	
 
-### Firestarter
-*Released on 2022-05-12, vote average 7.8*
+  
 
-For more than a decade, parents Andy and Vicky have been on the run, desperate to hide their daughter Charlie from a shadowy federal agency that wants to harness her unprecedented gift for creating fire into a weapon of mass destruction. Andy has taught Charlie how to defuse her power, which is triggered by anger or pain. But as Charlie turns 11, the fire becomes harder and harder to control. After an incident reveals the family&#39;s location, a mysterious operative is deployed to hunt down the family and seize Charlie once and for all. Charlie has other plans.
+
+	
+	
+
+### Our Father
+*Released on 2022-05-11, vote average 6.2*
+
+After a woman&#39;s at-home DNA test reveals multiple half-siblings, she discovers a shocking scheme involving donor sperm and a popular fertility doctor.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/59MJfJPP5eo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/phQxK5u8IEs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -185,6 +185,28 @@ Follow free diver Johanna Nordblad in this documentary as she attempts to break 
 	
 	
 
+### Monstrous
+*Released on 2022-05-13, vote average 4.3*
+
+Laura, traumatized by an abusive relationship, runs away from her former husband with her seven-year-old son Cody. But in their new, idyllic and remote sanctuary, they find they have another, bigger and more terrifying monster to deal with…
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/4bRnHRf6zv4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Spring Awakening: Those You&#39;ve Known
 *Released on 2022-05-03, vote average 5.5*
 
@@ -207,52 +229,8 @@ Fifteen years after the smash, Tony-winning Broadway run of &#34;Spring Awakenin
 	
 	
 
-### Our Father
-*Released on 2022-05-11, vote average 6.4*
-
-After a woman&#39;s at-home DNA test reveals multiple half-siblings, she discovers a shocking scheme involving donor sperm and a popular fertility doctor.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/phQxK5u8IEs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Monstrous
-*Released on 2022-05-13, vote average 2*
-
-Laura, traumatized by an abusive relationship, runs away from her former husband with her seven-year-old son Cody. But in their new, idyllic and remote sanctuary, they find they have another, bigger and more terrifying monster to deal with…
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/4bRnHRf6zv4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Senior Year
-*Released on 2022-05-11, vote average 6*
+*Released on 2022-05-11, vote average 6.1*
 
 A thirty-seven-year-old woman wakes up from a twenty-year coma and returns to the high school where she was once a popular cheerleader to finish her senior year and become prom queen.
 
@@ -295,16 +273,111 @@ A group of friends enjoying a weekend steal a couple of jetskis racing them out 
 	
 	
 
-### Constantine: The House of Mystery
-*Released on 2022-05-02, vote average 5*
+### Private Property
+*Released on 2022-05-13, vote average 2*
 
-John Constantine wakes up in the eerie House of Mystery with no recollection of how he got there. Fortunately, Zatanna and his friends are all there. Unfortunately, they have a bad habit of turning into demons and ripping him to shreds, over and over again!
+Kathryn, a struggling actress and unfulfilled housewife, becomes involved with her new gardener, Ben. As he gives her the attention and sensitivity she craves, they start to fall for each other. But Ben is not what he seems.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/7W_6J9esLYY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/hH1X_epP_f4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Sneakerella
+*Released on 2022-05-11, vote average 6.3*
+
+When El, an aspiring sneaker designer from Queens, meets Kira King, the fiercely independent daughter of legendary basketball star and sneaker tycoon Darius King, sparks fly as the two bond over their mutual affinity for sneakers. With a little nudge from his best friend and a sprinkle of Fairy Godfather magic, El finds the courage to use his talent to pursue his dream of becoming a ‘legit’ sneaker designer in the industry.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5vmaG3MUrYg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Tankhouse
+*Released on 2022-05-13, vote average 2*
+
+After being blacklisted from the NYC theatre industry, two Upper East Side New Yorkers, Tucker and Sandrene, decide their only course of action is to move to Fargo, North Dakota and start a theatrical revolution.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xACT699rBCw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### On the Count of Three
+*Released on 2022-05-13, vote average 6*
+
+Val has reached a place where he feels the only way out is to end things. But he considers himself a bit of a failure—his effectiveness lacking—so he figures he could use some help. As luck would have it, Val’s best friend, Kevin, is recovering from a failed suicide attempt, so he seems like the perfect partner for executing this double suicide plan. But before they go, they have some unfinished business to attend to.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pmeDHDmtJws?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Shin Ultraman
+*Released on 2022-05-13, vote average 5*
+
+Shin Ultraman is a 2022 Japanese superhero kaiju film directed by Shinji Higuchi and written and produced by Hideaki Anno. A reimagining of Ultraman, the film is a co-production between Toho Pictures and Cine Bazar, and presented by Tsuburaya Productions, Toho Co., Ltd, and Khara, Inc..
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2XK23KGM-eA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -339,72 +412,16 @@ When workaholic Tommy&#39;s wife insists that he spend more time with his family
 	
 	
 
-### Lockdown
-*Released on 2022-05-10, vote average 3*
+### Puzhu
+*Released on 2022-05-13, vote average 5*
 
-Chaos reigns in Los Angeles when three criminals, led by a psychotic mastermind named McMasters, takes over a police station and threaten to kill everyone in it unless a large ransom is paid. FBI special agent Roger Kinkaid uses his extensive knowledge in a bid to outwit the criminals and save the hostages, but one question remains: even if they get their money, how can they possibly escape?
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/bIV_190JWGY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Escape the Field
-*Released on 2022-05-06, vote average 5.8*
-
-Six strangers suddenly awaken in a remote, endless cornfield. Stripped of their possessions, they are left with only six items: a gun with a single bullet, matches, a lantern, a knife, a compass, and a flask of water. As mysterious sirens blare in the distance and traps appear at every turn, the group realizes it’s been plunged into a cat-and-mouse game with an unseen evil, and survival depends upon solving a diabolical and deadly puzzle.
+Kuttan, an annoyingly disciplined and a bigoted upper-caste retired police officer, is living with his son Kichu. After Bharati, Kuttan’s younger sister, falls in love with lower caste Kuttappan and elopes with him against her family’s wish, the attempts on Kuttan&#39;s life increases and his paranoia make the lives around him miserable.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/D-iZ9sdOm18?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Sneakerella
-*Released on 2022-05-11, vote average 2*
-
-When El, an aspiring sneaker designer from Queens, meets Kira King, the fiercely independent daughter of legendary basketball star and sneaker tycoon Darius King, sparks fly as the two bond over their mutual affinity for sneakers. With a little nudge from his best friend and a sprinkle of Fairy Godfather magic, El finds the courage to use his talent to pursue his dream of becoming a ‘legit’ sneaker designer in the industry.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/5vmaG3MUrYg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/d64ck4nkE_M?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -417,14 +434,6 @@ When El, an aspiring sneaker designer from Queens, meets Kira King, the fiercely
 
 ## Opening soon
 
-
-	
-
-	
-
-	
-
-	
 
 	
 
@@ -456,10 +465,6 @@ Andie is a cardiologist who is devastated by the accidental death of a patient. 
 	
 
 	
-	
-	
-
-	
 
 	
 	
@@ -484,6 +489,33 @@ BTS 2021 MUSTER SOWOOZOO was a two-day pay-per-view streaming Muster fan club ev
 
 	
 
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Vendetta
+*Released on 2022-05-17, vote average 6*
+
+When his daughter is murdered, William Duncan takes the law into his own hands, setting out on a quest for retribution. After killing the street thug responsible for her death, he finds himself in the middle of a war with the thug&#39;s brother, father, and their gang, who are equally hell-bent on getting even. What ensues is a tense back-and-forth game of vengeance. By the end, William comes to find that the quest for revenge never has a winner.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fktB6Mk-GKI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
