@@ -91,7 +91,7 @@ The summer before college Auden meets the mysterious Eli, a fellow insomniac. Wh
 	
 
 ### Firestarter
-*Released on 2022-05-12, vote average 7.1*
+*Released on 2022-05-12, vote average 6.7*
 
 For more than a decade, parents Andy and Vicky have been on the run, desperate to hide their daughter Charlie from a shadowy federal agency that wants to harness her unprecedented gift for creating fire into a weapon of mass destruction. Andy has taught Charlie how to defuse her power, which is triggered by anger or pain. But as Charlie turns 11, the fire becomes harder and harder to control. After an incident reveals the family&#39;s location, a mysterious operative is deployed to hunt down the family and seize Charlie once and for all. Charlie has other plans.
 
@@ -133,16 +133,9 @@ In a future where Mars is terraformed and colonized by the best humanity has to 
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Our Father
-*Released on 2022-05-11, vote average 6.2*
+*Released on 2022-05-11, vote average 6.7*
 
 After a woman&#39;s at-home DNA test reveals multiple half-siblings, she discovers a shocking scheme involving donor sperm and a popular fertility doctor.
 
@@ -154,6 +147,13 @@ After a woman&#39;s at-home DNA test reveals multiple half-siblings, she discove
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -186,7 +186,7 @@ Follow free diver Johanna Nordblad in this documentary as she attempts to break 
 	
 
 ### Monstrous
-*Released on 2022-05-13, vote average 4.3*
+*Released on 2022-05-13, vote average 5.3*
 
 Laura, traumatized by an abusive relationship, runs away from her former husband with her seven-year-old son Cody. But in their new, idyllic and remote sanctuary, they find they have another, bigger and more terrifying monster to deal with…
 
@@ -195,6 +195,50 @@ Laura, traumatized by an abusive relationship, runs away from her former husband
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/4bRnHRf6zv4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Senior Year
+*Released on 2022-05-11, vote average 6.3*
+
+A thirty-seven-year-old woman wakes up from a twenty-year coma and returns to the high school where she was once a popular cheerleader to finish her senior year and become prom queen.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/cKt4BzXkZT8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Shark Bait
+*Released on 2022-05-13, vote average 7.6*
+
+A group of friends enjoying a weekend steal a couple of jetskis racing them out to sea, ending up in a horrific head-on collision. They struggle to find a way home with a badly injured friend while from the waters below predators lurk.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3U09a_Gyv6w?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -217,50 +261,6 @@ Fifteen years after the smash, Tony-winning Broadway run of &#34;Spring Awakenin
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/f59eioQGL-c?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Senior Year
-*Released on 2022-05-11, vote average 6.1*
-
-A thirty-seven-year-old woman wakes up from a twenty-year coma and returns to the high school where she was once a popular cheerleader to finish her senior year and become prom queen.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cKt4BzXkZT8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Shark Bait
-*Released on 2022-05-13, vote average 2*
-
-A group of friends enjoying a weekend steal a couple of jetskis racing them out to sea, ending up in a horrific head-on collision. They struggle to find a way home with a badly injured friend while from the waters below predators lurk.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3U09a_Gyv6w?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -296,7 +296,7 @@ Kathryn, a struggling actress and unfulfilled housewife, becomes involved with h
 	
 
 ### Sneakerella
-*Released on 2022-05-11, vote average 6.3*
+*Released on 2022-05-11, vote average 5.7*
 
 When El, an aspiring sneaker designer from Queens, meets Kira King, the fiercely independent daughter of legendary basketball star and sneaker tycoon Darius King, sparks fly as the two bond over their mutual affinity for sneakers. With a little nudge from his best friend and a sprinkle of Fairy Godfather magic, El finds the courage to use his talent to pursue his dream of becoming a ‘legit’ sneaker designer in the industry.
 
@@ -305,6 +305,28 @@ When El, an aspiring sneaker designer from Queens, meets Kira King, the fiercely
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/5vmaG3MUrYg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Shin Ultraman
+*Released on 2022-05-13, vote average 5*
+
+Shin Ultraman is a 2022 Japanese superhero kaiju film directed by Shinji Higuchi and written and produced by Hideaki Anno. A reimagining of Ultraman, the film is a co-production between Toho Pictures and Cine Bazar, and presented by Tsuburaya Productions, Toho Co., Ltd, and Khara, Inc..
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2XK23KGM-eA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -340,7 +362,7 @@ After being blacklisted from the NYC theatre industry, two Upper East Side New Y
 	
 
 ### On the Count of Three
-*Released on 2022-05-13, vote average 6*
+*Released on 2022-05-13, vote average 5.5*
 
 Val has reached a place where he feels the only way out is to end things. But he considers himself a bit of a failure—his effectiveness lacking—so he figures he could use some help. As luck would have it, Val’s best friend, Kevin, is recovering from a failed suicide attempt, so he seems like the perfect partner for executing this double suicide plan. But before they go, they have some unfinished business to attend to.
 
@@ -360,24 +382,17 @@ Val has reached a place where he feels the only way out is to end things. But he
 
 	
 	
-	
 
-  
+### Constantine: The House of Mystery
+*Released on 2022-05-02, vote average 5.2*
 
-
-	
-	
-
-### Shin Ultraman
-*Released on 2022-05-13, vote average 5*
-
-Shin Ultraman is a 2022 Japanese superhero kaiju film directed by Shinji Higuchi and written and produced by Hideaki Anno. A reimagining of Ultraman, the film is a co-production between Toho Pictures and Cine Bazar, and presented by Tsuburaya Productions, Toho Co., Ltd, and Khara, Inc..
+John Constantine wakes up in the eerie House of Mystery with no recollection of how he got there. Fortunately, Zatanna and his friends are all there. Unfortunately, they have a bad habit of turning into demons and ripping him to shreds, over and over again!
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/2XK23KGM-eA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/7W_6J9esLYY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -390,16 +405,16 @@ Shin Ultraman is a 2022 Japanese superhero kaiju film directed by Shinji Higuchi
 	
 	
 
-### Family Camp
-*Released on 2022-05-13, vote average 2*
+### The Valet
+*Released on 2022-05-11, vote average 2*
 
-When workaholic Tommy&#39;s wife insists that he spend more time with his family, he agrees to sign up for Family Camp. What Tommy didn&#39;t count on was being forced to share a yurt at camp with the larger-than-life Sanders family.
+World famous movie star Olivia faces a PR disaster when a paparazzi snaps a photo of her with her married lover, Vincent. The hard-working valet Antonio accidentally appears in the same photo and is enlisted to pose as Olivia’s new boyfriend as a cover-up. This ruse with Olivia thrusts Antonio into the spotlight and unexpected chaos.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/VQ6qHA3dbLM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/1iyz4d8WoqQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -408,38 +423,6 @@ When workaholic Tommy&#39;s wife insists that he spend more time with his family
 
   
 
-
-	
-	
-
-### Puzhu
-*Released on 2022-05-13, vote average 5*
-
-Kuttan, an annoyingly disciplined and a bigoted upper-caste retired police officer, is living with his son Kichu. After Bharati, Kuttan’s younger sister, falls in love with lower caste Kuttappan and elopes with him against her family’s wish, the attempts on Kuttan&#39;s life increases and his paranoia make the lives around him miserable.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/d64ck4nkE_M?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-
-## Opening soon
-
-
-	
-
-	
-
-	
 
 	
 	
@@ -460,8 +443,30 @@ Andie is a cardiologist who is devastated by the accidental death of a patient. 
 	
 	
 
+  
+
+
+
+## Opening soon
+
+
+	
 	
 
+### Top Gun: Maverick
+*Released on 2022-05-19, vote average 5.5*
+
+After more than thirty years of service as one of the Navy&#39;s top aviators, Pete Mitchell is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5MdmUjC2hk4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -494,12 +499,6 @@ BTS 2021 MUSTER SOWOOZOO was a two-day pay-per-view streaming Muster fan club ev
 	
 
 	
-
-	
-
-	
-
-	
 	
 
 ### Vendetta
@@ -516,6 +515,22 @@ When his daughter is murdered, William Duncan takes the law into his own hands, 
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
