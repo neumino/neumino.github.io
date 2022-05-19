@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Doctor Strange in the Multiverse of Madness
-*Released on 2022-05-04, vote average 7.5*
+### The Takedown
+*Released on 2022-05-06, vote average 5.7*
 
-Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.
+Ousmane Diakité and François Monge are two cops with very different styles, backgrounds and careers. The unlikely pair are reunited once again for a new investigation that takes them across France. What seemed to be a simple drug deal turns out to be a much bigger criminal case wrapped in danger and unexpected comedy.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Q7eWNIJGuoc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/iReeddMo_ao?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,30 +46,8 @@ Doctor Strange, with the help of mystical allies both old and new, traverses the
 	
 	
 
-### The Takedown
-*Released on 2022-05-06, vote average 5.8*
-
-Ousmane Diakité and François Monge are two cops with very different styles, backgrounds and careers. The unlikely pair are reunited once again for a new investigation that takes them across France. What seemed to be a simple drug deal turns out to be a much bigger criminal case wrapped in danger and unexpected comedy.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/iReeddMo_ao?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Along for the Ride
-*Released on 2022-05-06, vote average 6.9*
+*Released on 2022-05-06, vote average 6.8*
 
 The summer before college Auden meets the mysterious Eli, a fellow insomniac. While the seaside town of Colby sleeps, the two embark on a nightly quest to help Auden experience the fun, carefree teen life she never knew she wanted.
 
@@ -113,7 +91,7 @@ For more than a decade, parents Andy and Vicky have been on the run, desperate t
 	
 
 ### Our Father
-*Released on 2022-05-11, vote average 6.8*
+*Released on 2022-05-11, vote average 6.7*
 
 After a woman&#39;s at-home DNA test reveals multiple half-siblings, she discovers a shocking scheme involving donor sperm and a popular fertility doctor.
 
@@ -122,6 +100,72 @@ After a woman&#39;s at-home DNA test reveals multiple half-siblings, she discove
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/phQxK5u8IEs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Top Gun: Maverick
+*Released on 2022-05-19, vote average 5.5*
+
+After more than thirty years of service as one of the Navy&#39;s top aviators, Pete Mitchell is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/bPSZ2hvlFh8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Senior Year
+*Released on 2022-05-11, vote average 6.1*
+
+A thirty-seven-year-old woman wakes up from a twenty-year coma and returns to the high school where she was once a popular cheerleader to finish her senior year and become prom queen. The main plot is the empowerment of LGBTQ rights and progress through the years.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/cKt4BzXkZT8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Sneakerella
+*Released on 2022-05-11, vote average 6.3*
+
+When El, an aspiring sneaker designer from Queens, meets Kira King, the fiercely independent daughter of legendary basketball star and sneaker tycoon Darius King, sparks fly as the two bond over their mutual affinity for sneakers. With a little nudge from his best friend and a sprinkle of Fairy Godfather magic, El finds the courage to use his talent to pursue his dream of becoming a ‘legit’ sneaker designer in the industry.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5vmaG3MUrYg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -144,50 +188,6 @@ In a future where Mars is terraformed and colonized by the best humanity has to 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/KtEoKAIVntg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Senior Year
-*Released on 2022-05-11, vote average 6*
-
-A thirty-seven-year-old woman wakes up from a twenty-year coma and returns to the high school where she was once a popular cheerleader to finish her senior year and become prom queen.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cKt4BzXkZT8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Sneakerella
-*Released on 2022-05-11, vote average 6.4*
-
-When El, an aspiring sneaker designer from Queens, meets Kira King, the fiercely independent daughter of legendary basketball star and sneaker tycoon Darius King, sparks fly as the two bond over their mutual affinity for sneakers. With a little nudge from his best friend and a sprinkle of Fairy Godfather magic, El finds the courage to use his talent to pursue his dream of becoming a ‘legit’ sneaker designer in the industry.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/5vmaG3MUrYg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -223,7 +223,7 @@ Laura, traumatized by an abusive relationship, runs away from her former husband
 	
 
 ### Shark Bait
-*Released on 2022-05-13, vote average 7.5*
+*Released on 2022-05-13, vote average 7*
 
 A group of friends enjoying a weekend steal a couple of jetskis racing them out to sea, ending up in a horrific head-on collision. They struggle to find a way home with a badly injured friend while from the waters below predators lurk.
 
@@ -232,72 +232,6 @@ A group of friends enjoying a weekend steal a couple of jetskis racing them out 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/3U09a_Gyv6w?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Private Property
-*Released on 2022-05-13, vote average 3*
-
-Kathryn, a struggling actress and unfulfilled housewife, becomes involved with her new gardener, Ben. As he gives her the attention and sensitivity she craves, they start to fall for each other. But Ben is not what he seems.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hH1X_epP_f4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Shin Ultraman
-*Released on 2022-05-13, vote average 5*
-
-Follows Shinji Kaminaga, a man who can transform into a building-sized hero when various creatures threaten his city.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2XK23KGM-eA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Valet
-*Released on 2022-05-11, vote average 2*
-
-World famous movie star Olivia faces a PR disaster when a paparazzi snaps a photo of her with her married lover, Vincent. The hard-working valet Antonio accidentally appears in the same photo and is enlisted to pose as Olivia’s new boyfriend as a cover-up. This ruse with Olivia thrusts Antonio into the spotlight and unexpected chaos.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/1iyz4d8WoqQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -354,16 +288,16 @@ When his daughter is murdered, William Duncan takes the law into his own hands, 
 	
 	
 
-### Road Trip Romance
-*Released on 2022-05-14, vote average 4*
+### Shin Ultraman
+*Released on 2022-05-13, vote average 5*
 
-An escalating series of unfortunate events keeps delaying a young woman’s journey to her sister’s wedding – a journey she is forced to take with the guy who was her biggest rival in high school.
+Follows Shinji Kaminaga, a man who can transform into a building-sized hero when various creatures threaten his city.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/rFeubMtLXAw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/2XK23KGM-eA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -374,23 +308,18 @@ An escalating series of unfortunate events keeps delaying a young woman’s jour
 
 
 	
-
-  
-
-
-	
 	
 
-### BTS 2021 Muster Sowoozoo
-*Released on 2022-05-16, vote average 2*
+### The Valet
+*Released on 2022-05-11, vote average 2*
 
-BTS 2021 MUSTER SOWOOZOO was a two-day pay-per-view streaming Muster fan club event by BTS. The events were held both on June 13, 2021 and June 14, 2021 online.  The word “소우주” is the Korean name for their song, &#34;Mikrokosmos&#34;.
+World famous movie star Olivia faces a PR disaster when a paparazzi snaps a photo of her with her married lover, Vincent. The hard-working valet Antonio accidentally appears in the same photo and is enlisted to pose as Olivia’s new boyfriend as a cover-up. This ruse with Olivia thrusts Antonio into the spotlight and unexpected chaos.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/YiTMyu-r_Ko?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/1iyz4d8WoqQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -400,6 +329,79 @@ BTS 2021 MUSTER SOWOOZOO was a two-day pay-per-view streaming Muster fan club ev
   
 
 
+	
+	
+
+### Final Cut
+*Released on 2022-05-17, vote average 7.5*
+
+Things go badly for a small film crew shooting a low-budget zombie movie when they are attacked by real zombies.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/b_QOabhHFMA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Private Property
+*Released on 2022-05-13, vote average 3*
+
+Kathryn, a struggling actress and unfulfilled housewife, becomes involved with her new gardener, Ben. As he gives her the attention and sensitivity she craves, they start to fall for each other. But Ben is not what he seems.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hH1X_epP_f4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Last Seen Alive
+*Released on 2022-05-19, vote average 6*
+
+Will Spann is driving his soon-to-be ex-wife Lisa to her parents’ home when she mysteriously disappears without a trace during a stop at a gas station. A frantic Will engages the local police and Lisa’s parents in a desperate attempt to find her, but as time passes and suspicion falls on him, he must take matters into his own hands, delving into the town’s criminal underbelly while running from the authorities in a race against time to find Lisa.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/BNOtkWjZbZk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -426,32 +428,11 @@ After more than thirty years of service as one of the Navy&#39;s top aviators, P
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/5MdmUjC2hk4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/bPSZ2hvlFh8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-	
-	
-
-### The Roundup
-*Released on 2022-05-18, vote average 2*
-
-The sequel to the 2017 crime action movie &#34;The Outlaws&#34;.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8b7bvcyJrvs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
 	
 
 	
@@ -476,7 +457,22 @@ In the aftermath of a personal tragedy, Harper retreats alone to the beautiful E
 	
 
 	
+	
 
+### Chip &#39;n Dale: Rescue Rangers
+*Released on 2022-05-20, vote average 2*
+
+Decades since their successful television series was canceled, Chip has succumbed to a life of suburban domesticity as an insurance salesman. Dale, meanwhile, has had CGI surgery and works the nostalgia convention circuit, desperate to relive his glory days. When a former cast mate mysteriously disappears, Chip and Dale must repair their broken friendship and take on their Rescue Rangers detective personas once again to save their friend’s life.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Fw--FtImaGY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -485,7 +481,7 @@ In the aftermath of a personal tragedy, Harper retreats alone to the beautiful E
 	
 
 ### Last Seen Alive
-*Released on 2022-05-19, vote average 2*
+*Released on 2022-05-19, vote average 6*
 
 Will Spann is driving his soon-to-be ex-wife Lisa to her parents’ home when she mysteriously disappears without a trace during a stop at a gas station. A frantic Will engages the local police and Lisa’s parents in a desperate attempt to find her, but as time passes and suspicion falls on him, he must take matters into his own hands, delving into the town’s criminal underbelly while running from the authorities in a race against time to find Lisa.
 
@@ -501,19 +497,29 @@ Will Spann is driving his soon-to-be ex-wife Lisa to her parents’ home when sh
 	
 
 	
-
 	
-	
-	
-
 	
 
 	
 
 	
+	
+	
 
 	
 
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
 	
 
 	
