@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Senior Year
-*Released on 2022-05-11, vote average 6.1*
+*Released on 2022-05-11, vote average 6*
 
 A thirty-seven-year-old woman wakes up from a twenty-year coma and returns to the high school where she was once a popular cheerleader to finish her senior year and become prom queen. The main plot is the empowerment of LGBTQ rights and progress through the years.
 
@@ -69,7 +69,7 @@ When El, an aspiring sneaker designer from Queens, meets Kira King, the fiercely
 	
 
 ### Firestarter
-*Released on 2022-05-12, vote average 6.5*
+*Released on 2022-05-12, vote average 6.4*
 
 For more than a decade, parents Andy and Vicky have been on the run, desperate to hide their daughter Charlie from a shadowy federal agency that wants to harness her unprecedented gift for creating fire into a weapon of mass destruction. Andy has taught Charlie how to defuse her power, which is triggered by anger or pain. But as Charlie turns 11, the fire becomes harder and harder to control. After an incident reveals the family&#39;s location, a mysterious operative is deployed to hunt down the family and seize Charlie once and for all. Charlie has other plans.
 
@@ -91,7 +91,7 @@ For more than a decade, parents Andy and Vicky have been on the run, desperate t
 	
 
 ### Our Father
-*Released on 2022-05-11, vote average 6.7*
+*Released on 2022-05-11, vote average 6.8*
 
 After a woman&#39;s at-home DNA test reveals multiple half-siblings, she discovers a shocking scheme involving donor sperm and a popular fertility doctor.
 
@@ -134,25 +134,20 @@ The sequel to the 2017 crime action movie &#34;The Outlaws&#34;.
 	
 	
 
-### Vendetta
-*Released on 2022-05-17, vote average 6.5*
+### Jackass 4.5
+*Released on 2022-05-20, vote average 5.6*
 
-When his daughter is murdered, William Duncan takes the law into his own hands, setting out on a quest for retribution. After killing the street thug responsible for her death, he finds himself in the middle of a war with the thug&#39;s brother, father, and their gang, who are equally hell-bent on getting even. What ensues is a tense back-and-forth game of vengeance. By the end, William comes to find that the quest for revenge never has a winner.
+Through outrageous, never-before-seen footage, witness the making of the Jackass crew&#39;s last go at wild stunts.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/fktB6Mk-GKI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xxEfgufpiL4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -162,7 +157,7 @@ When his daughter is murdered, William Duncan takes the law into his own hands, 
 	
 
 ### Chip &#39;n Dale: Rescue Rangers
-*Released on 2022-05-20, vote average 6*
+*Released on 2022-05-20, vote average 7.3*
 
 Decades since their successful television series was canceled, Chip has succumbed to a life of suburban domesticity as an insurance salesman. Dale, meanwhile, has had CGI surgery and works the nostalgia convention circuit, desperate to relive his glory days. When a former cast mate mysteriously disappears, Chip and Dale must repair their broken friendship and take on their Rescue Rangers detective personas once again to save their friend’s life.
 
@@ -170,29 +165,7 @@ Decades since their successful television series was canceled, Chip has succumbe
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/mHm7-5-5qOg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Men
-*Released on 2022-05-20, vote average 2*
-
-In the aftermath of a personal tragedy, Harper retreats alone to the beautiful English countryside, hoping to find a place to heal. But someone — or something — from the surrounding woods appears to be stalking her, and what begins as simmering dread becomes a fully-formed nightmare, inhabited by her darkest memories and fears.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/HC3-EKo91Dc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/p8E02oEkVok?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -228,7 +201,7 @@ To land a major client, an LA wine exec travels to an Australian sheep station, 
 	
 
 ### Cyber Hell: Exposing an Internet Horror
-*Released on 2022-05-17, vote average 5.7*
+*Released on 2022-05-17, vote average 6.1*
 
 Anonymous and exploitative, a network of online chat rooms ran rampant with sex crimes. The hunt to take down its operators required guts and tenacity.
 
@@ -250,7 +223,7 @@ Anonymous and exploitative, a network of online chat rooms ran rampant with sex 
 	
 
 ### Toscana
-*Released on 2022-05-18, vote average 6.6*
+*Released on 2022-05-18, vote average 6.7*
 
 When a Danish chef travels to Tuscany to sell his father&#39;s business, he meets a local woman who inspires him to rethink his approach to life and love.
 
@@ -271,8 +244,30 @@ When a Danish chef travels to Tuscany to sell his father&#39;s business, he meet
 	
 	
 
+### Men
+*Released on 2022-05-20, vote average 6.5*
+
+In the aftermath of a personal tragedy, Harper retreats alone to the beautiful English countryside, hoping to find a place to heal. But someone — or something — from the surrounding woods appears to be stalking her, and what begins as simmering dread becomes a fully-formed nightmare, inhabited by her darkest memories and fears.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/HC3-EKo91Dc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Valet
-*Released on 2022-05-11, vote average 2*
+*Released on 2022-05-11, vote average 6.3*
 
 World famous movie star Olivia faces a PR disaster when a paparazzi snaps a photo of her with her married lover, Vincent. The hard-working valet Antonio accidentally appears in the same photo and is enlisted to pose as Olivia’s new boyfriend as a cover-up. This ruse with Olivia thrusts Antonio into the spotlight and unexpected chaos.
 
@@ -281,6 +276,101 @@ World famous movie star Olivia faces a PR disaster when a paparazzi snaps a phot
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/1iyz4d8WoqQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Vendetta
+*Released on 2022-05-17, vote average 6.5*
+
+When his daughter is murdered, William Duncan takes the law into his own hands, setting out on a quest for retribution. After killing the street thug responsible for her death, he finds himself in the middle of a war with the thug&#39;s brother, father, and their gang, who are equally hell-bent on getting even. What ensues is a tense back-and-forth game of vengeance. By the end, William comes to find that the quest for revenge never has a winner.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fktB6Mk-GKI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Good Mourning
+*Released on 2022-05-20, vote average 2*
+
+Movie star London Clash gets his world turned upside down when he must choose between pursuing his one true love and landing a life-changing starring role in a major motion picture.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/mplZ0HtF2qk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Bhool Bhulaiyaa 2
+*Released on 2022-05-20, vote average 4*
+
+Reet gets possessed by the feared witch Manjulika after the conman, who passes himself as a ghostbuster, Ruhan opens the spooky door, which he was categorically told not to.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KlDUtTDm5jY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Torn Hearts
+*Released on 2022-05-20, vote average 5*
+
+A promising up-and-coming country duo seek out the secluded mansion of their idol Harper Dutch a former country music star and Nashville royalty turned recluse. What starts out as a friendly visit devolves into a twisted series of horrors forcing the friends to confront the lengths they will go to realize their dreams.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/NszozSIwrqk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -313,10 +403,15 @@ Laura, traumatized by an abusive relationship, runs away from her former husband
 
 
 	
+
+  
+
+
+	
 	
 
 ### Shark Bait
-*Released on 2022-05-13, vote average 7.1*
+*Released on 2022-05-13, vote average 7*
 
 A group of friends enjoying a weekend steal a couple of jetskis racing them out to sea, ending up in a horrific head-on collision. They struggle to find a way home with a badly injured friend while from the waters below predators lurk.
 
@@ -334,67 +429,6 @@ A group of friends enjoying a weekend steal a couple of jetskis racing them out 
   
 
 
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Good Mourning
-*Released on 2022-05-20, vote average 2*
-
-Movie star London Clash gets his world turned upside down when he must choose between pursuing his one true love and landing a life-changing starring role in a major motion picture.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/mplZ0HtF2qk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Last Seen Alive
-*Released on 2022-05-19, vote average 6*
-
-Will Spann is driving his soon-to-be ex-wife Lisa to her parents’ home when she mysteriously disappears without a trace during a stop at a gas station. A frantic Will engages the local police and Lisa’s parents in a desperate attempt to find her, but as time passes and suspicion falls on him, he must take matters into his own hands, delving into the town’s criminal underbelly while running from the authorities in a race against time to find Lisa.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/BNOtkWjZbZk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -403,7 +437,7 @@ Will Spann is driving his soon-to-be ex-wife Lisa to her parents’ home when sh
 	
 
 ### Top Gun: Maverick
-*Released on 2022-05-24, vote average 7.7*
+*Released on 2022-05-24, vote average 8.7*
 
 After more than thirty years of service as one of the Navy&#39;s top aviators, Pete Mitchell is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him.
 
@@ -421,6 +455,23 @@ After more than thirty years of service as one of the Navy&#39;s top aviators, P
 	
 
 	
+	
+
+### Teen Titans Go! &amp; DC Super Hero Girls: Mayhem in the Multiverse
+*Released on 2022-05-23, vote average 6.5*
+
+With the help of an ancient Kryptonian power, Lex Luthor unites the world’s Super-Villains to capture all of Earth&#39;s Super Heroes, until…only the DC Super Hero Girls are left to stop the Legion of Doom. Our heroes must cross dimensions to rescue their fellow Super Heroes from the Phantom Zone, but a fortuitous wrong turn leads them to Titans Tower – where they find much-needed allies in the Teen Titans!
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PqiokC8HTOA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
@@ -434,8 +485,6 @@ After more than thirty years of service as one of the Navy&#39;s top aviators, P
 
 	
 
-	
-	
 	
 
 	
