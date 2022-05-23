@@ -112,16 +112,16 @@ After a woman&#39;s at-home DNA test reveals multiple half-siblings, she discove
 	
 	
 
-### The Roundup
-*Released on 2022-05-18, vote average 2*
+### Jackass 4.5
+*Released on 2022-05-20, vote average 6.8*
 
-The sequel to the 2017 crime action movie &#34;The Outlaws&#34;.
+Through outrageous, never-before-seen footage, witness the making of the Jackass crew&#39;s last go at wild stunts.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ziG80PNrJYI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xxEfgufpiL4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,16 +134,16 @@ The sequel to the 2017 crime action movie &#34;The Outlaws&#34;.
 	
 	
 
-### Jackass 4.5
-*Released on 2022-05-20, vote average 5.6*
+### The Roundup
+*Released on 2022-05-18, vote average 2*
 
-Through outrageous, never-before-seen footage, witness the making of the Jackass crew&#39;s last go at wild stunts.
+The sequel to the 2017 crime action movie &#34;The Outlaws&#34;.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xxEfgufpiL4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ziG80PNrJYI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -179,7 +179,7 @@ Decades since their successful television series was canceled, Chip has succumbe
 	
 
 ### A Perfect Pairing
-*Released on 2022-05-19, vote average 6.7*
+*Released on 2022-05-19, vote average 7*
 
 To land a major client, an LA wine exec travels to an Australian sheep station, where she signs on as a ranch hand and hits it off with a rugged local.
 
@@ -200,16 +200,16 @@ To land a major client, an LA wine exec travels to an Australian sheep station, 
 	
 	
 
-### Cyber Hell: Exposing an Internet Horror
-*Released on 2022-05-17, vote average 6.1*
+### The Valet
+*Released on 2022-05-11, vote average 7.3*
 
-Anonymous and exploitative, a network of online chat rooms ran rampant with sex crimes. The hunt to take down its operators required guts and tenacity.
+World famous movie star Olivia faces a PR disaster when a paparazzi snaps a photo of her with her married lover, Vincent. The hard-working valet Antonio accidentally appears in the same photo and is enlisted to pose as Olivia’s new boyfriend as a cover-up. This ruse with Olivia thrusts Antonio into the spotlight and unexpected chaos.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/wdRGoeQ-ubg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/1iyz4d8WoqQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -221,9 +221,16 @@ Anonymous and exploitative, a network of online chat rooms ran rampant with sex 
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### Toscana
-*Released on 2022-05-18, vote average 6.7*
+*Released on 2022-05-18, vote average 6.2*
 
 When a Danish chef travels to Tuscany to sell his father&#39;s business, he meets a local woman who inspires him to rethink his approach to life and love.
 
@@ -244,16 +251,16 @@ When a Danish chef travels to Tuscany to sell his father&#39;s business, he meet
 	
 	
 
-### Men
-*Released on 2022-05-20, vote average 6.5*
+### Good Mourning
+*Released on 2022-05-20, vote average 6*
 
-In the aftermath of a personal tragedy, Harper retreats alone to the beautiful English countryside, hoping to find a place to heal. But someone — or something — from the surrounding woods appears to be stalking her, and what begins as simmering dread becomes a fully-formed nightmare, inhabited by her darkest memories and fears.
+Movie star London Clash gets his world turned upside down when he must choose between pursuing his one true love and landing a life-changing starring role in a major motion picture.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/HC3-EKo91Dc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/mplZ0HtF2qk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -266,16 +273,38 @@ In the aftermath of a personal tragedy, Harper retreats alone to the beautiful E
 	
 	
 
-### The Valet
-*Released on 2022-05-11, vote average 6.3*
+### Cyber Hell: Exposing an Internet Horror
+*Released on 2022-05-17, vote average 6.4*
 
-World famous movie star Olivia faces a PR disaster when a paparazzi snaps a photo of her with her married lover, Vincent. The hard-working valet Antonio accidentally appears in the same photo and is enlisted to pose as Olivia’s new boyfriend as a cover-up. This ruse with Olivia thrusts Antonio into the spotlight and unexpected chaos.
+Anonymous and exploitative, a network of online chat rooms ran rampant with sex crimes. The hunt to take down its operators required guts and tenacity.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/1iyz4d8WoqQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/wdRGoeQ-ubg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Men
+*Released on 2022-05-20, vote average 7.5*
+
+In the aftermath of a personal tragedy, Harper retreats alone to the beautiful English countryside, hoping to find a place to heal. But someone — or something — from the surrounding woods appears to be stalking her, and what begins as simmering dread becomes a fully-formed nightmare, inhabited by her darkest memories and fears.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/HC3-EKo91Dc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -309,60 +338,9 @@ When his daughter is murdered, William Duncan takes the law into his own hands, 
 
 	
 	
-	
-
-  
-
-
-	
-	
-
-### Good Mourning
-*Released on 2022-05-20, vote average 2*
-
-Movie star London Clash gets his world turned upside down when he must choose between pursuing his one true love and landing a life-changing starring role in a major motion picture.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/mplZ0HtF2qk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Bhool Bhulaiyaa 2
-*Released on 2022-05-20, vote average 4*
-
-Reet gets possessed by the feared witch Manjulika after the conman, who passes himself as a ghostbuster, Ruhan opens the spooky door, which he was categorically told not to.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/KlDUtTDm5jY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
 
 ### Torn Hearts
-*Released on 2022-05-20, vote average 5*
+*Released on 2022-05-20, vote average 6.7*
 
 A promising up-and-coming country duo seek out the secluded mansion of their idol Harper Dutch a former country music star and Nashville royalty turned recluse. What starts out as a friendly visit devolves into a twisted series of horrors forcing the friends to confront the lengths they will go to realize their dreams.
 
@@ -403,6 +381,28 @@ Laura, traumatized by an abusive relationship, runs away from her former husband
 
 
 	
+	
+
+### Teen Titans Go! &amp; DC Super Hero Girls: Mayhem in the Multiverse
+*Released on 2022-05-23, vote average 6.5*
+
+With the help of an ancient Kryptonian power, Lex Luthor unites the world’s Super-Villains to capture all of Earth&#39;s Super Heroes, until…only the DC Super Hero Girls are left to stop the Legion of Doom. Our heroes must cross dimensions to rescue their fellow Super Heroes from the Phantom Zone, but a fortuitous wrong turn leads them to Titans Tower – where they find much-needed allies in the Teen Titans!
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/PqiokC8HTOA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 
   
 
@@ -410,16 +410,16 @@ Laura, traumatized by an abusive relationship, runs away from her former husband
 	
 	
 
-### Shark Bait
-*Released on 2022-05-13, vote average 7*
+### Bhool Bhulaiyaa 2
+*Released on 2022-05-20, vote average 7*
 
-A group of friends enjoying a weekend steal a couple of jetskis racing them out to sea, ending up in a horrific head-on collision. They struggle to find a way home with a badly injured friend while from the waters below predators lurk.
+Reet gets possessed by the feared witch Manjulika after the conman, who passes himself as a ghostbuster, Ruhan opens the spooky door, which he was categorically told not to.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/3U09a_Gyv6w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/KlDUtTDm5jY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -455,6 +455,8 @@ After more than thirty years of service as one of the Navy&#39;s top aviators, P
 	
 
 	
+
+	
 	
 
 ### Teen Titans Go! &amp; DC Super Hero Girls: Mayhem in the Multiverse
@@ -476,7 +478,41 @@ With the help of an ancient Kryptonian power, Lex Luthor unites the world’s Su
 	
 
 	
+	
 
+### Crimes of the Future
+*Released on 2022-05-25, vote average 10*
+
+As the human species adapts to a synthetic environment, the body undergoes new transformations and mutations. With his partner Caprice, celebrity performance artist Saul Tenser publicly showcases the metamorphosis of his organs in avant-garde performances. Timlin, an investigator from the National Organ Registry, obsessively tracks their movements, which is when a mysterious group is revealed. Their mission – to use Saul’s notoriety to shed light on the next phase of human evolution.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/cH1xxrAWp7I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### The Bob&#39;s Burgers Movie
+*Released on 2022-05-25, vote average 4.3*
+
+When a ruptured water main creates an enormous sinkhole right in front of Bob&#39;s Burgers, it blocks the entrance indefinitely and ruins the Belchers’ plans for a successful summer. While Bob and Linda struggle to keep the business afloat, the kids try to solve a mystery that could save their family&#39;s restaurant. As the dangers mount, these underdogs help each other find hope and fight to get back behind the counter, where they belong.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5XuREWj8kpM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -492,9 +528,11 @@ With the help of an ancient Kryptonian power, Lex Luthor unites the world’s Su
 	
 
 	
-
+	
 	
 
+	
+	
 	
 
 	
