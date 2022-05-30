@@ -15,7 +15,7 @@ This is a convenient page that embeds trailers of movies released in the past
 ### Top Gun: Maverick
 *Released on 2022-05-24, vote average 8.2*
 
-After more than thirty years of service as one of the Navy&#39;s top aviators, Pete Mitchell is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him.
+After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen. Facing an uncertain future and confronting the ghosts of his past, Maverick is drawn into a confrontation with his own deepest fears, culminating in a mission that demands the ultimate sacrifice from those who will be chosen to fly it.
 
 <iframe id="player"
 	type="text/html"
@@ -46,16 +46,16 @@ After more than thirty years of service as one of the Navy&#39;s top aviators, P
 	
 	
 
-### Jackass 4.5
-*Released on 2022-05-20, vote average 6.6*
+### Chip &#39;n Dale: Rescue Rangers
+*Released on 2022-05-20, vote average 7.1*
 
-Through outrageous, never-before-seen footage, witness the making of the Jackass crew&#39;s last go at wild stunts.
+Decades after their successful television series was canceled, Chip and Dale must repair their broken friendship and take on their Rescue Rangers detective personas once again when a former cast mate mysteriously disappears.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xxEfgufpiL4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/2B9OS0pFzBA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,16 +68,16 @@ Through outrageous, never-before-seen footage, witness the making of the Jackass
 	
 	
 
-### Chip &#39;n Dale: Rescue Rangers
-*Released on 2022-05-20, vote average 7.2*
+### Jackass 4.5
+*Released on 2022-05-20, vote average 6.6*
 
-Decades after their successful television series was canceled, Chip and Dale must repair their broken friendship and take on their Rescue Rangers detective personas once again when a former cast mate mysteriously disappears.
+Through outrageous, never-before-seen footage, witness the making of the Jackass crew&#39;s last go at wild stunts.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/2B9OS0pFzBA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xxEfgufpiL4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -113,7 +113,7 @@ To land a major client, an LA wine exec travels to an Australian sheep station, 
 	
 
 ### Teen Titans Go! &amp; DC Super Hero Girls: Mayhem in the Multiverse
-*Released on 2022-05-23, vote average 7.1*
+*Released on 2022-05-23, vote average 7.4*
 
 With the help of an ancient Kryptonian power, Lex Luthor unites the world’s Super-Villains to capture all of Earth&#39;s Super Heroes, until…only the DC Super Hero Girls are left to stop the Legion of Doom. Our heroes must cross dimensions to rescue their fellow Super Heroes from the Phantom Zone, but a fortuitous wrong turn leads them to Titans Tower – where they find much-needed allies in the Teen Titans!
 
@@ -122,28 +122,6 @@ With the help of an ancient Kryptonian power, Lex Luthor unites the world’s Su
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/PqiokC8HTOA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Roundup
-*Released on 2022-05-18, vote average 2*
-
-The sequel to the 2017 crime action movie &#34;The Outlaws&#34;.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ziG80PNrJYI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -164,7 +142,7 @@ The sequel to the 2017 crime action movie &#34;The Outlaws&#34;.
 	
 
 ### Godspeed
-*Released on 2022-05-23, vote average 7*
+*Released on 2022-05-23, vote average 6.8*
 
 An ex-army captain travels to Dalyan to stop his friend&#39;s beloved from marrying another man, but grief and trauma from a combat tragedy mar his journey.
 
@@ -183,6 +161,157 @@ An ex-army captain travels to Dalyan to stop his friend&#39;s beloved from marry
 
 
 	
+	
+
+### Minions: The Rise of Gru
+*Released on 2022-05-30, vote average 10*
+
+A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6DxjJzmYsXo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Cyber Hell: Exposing an Internet Horror
+*Released on 2022-05-17, vote average 7*
+
+Anonymous and exploitative, a network of online chat rooms ran rampant with sex crimes. The hunt to take down its operators required guts and tenacity.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wdRGoeQ-ubg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Black Phone
+*Released on 2022-05-29, vote average 4*
+
+Finney Shaw, a shy but clever 13-year-old boy, is abducted by a sadistic killer and trapped in a soundproof basement where screaming is of little use. When a disconnected phone on the wall begins to ring, Finney discovers that he can hear the voices of the killer’s previous victims. And they are dead set on making sure that what happened to them doesn’t happen to Finney.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nQWAVkx8O74?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Roundup
+*Released on 2022-05-18, vote average 5*
+
+The sequel to the 2017 crime action movie &#34;The Outlaws&#34;.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ziG80PNrJYI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### There Are No Saints
+*Released on 2022-05-27, vote average 5.6*
+
+A man is imprisoned for a crime he didn&#39;t commit. When his wife is murdered and his son kidnapped and taken to Mexico, he devises an elaborate and dangerous plan to rescue his son and avenge the murder.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/R1ZrmMFp-vU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Zero Contact
+*Released on 2022-05-27, vote average 2.3*
+
+Produced in 17 different countries entirely virtually during the 2020 global pandemic, the film follows five characters based all over the world, connected only by their devotion to the late founder and tech titan Finley Hart. Forced to work together to shut down Hart’s most secret invention, a machine that is either the solution to mankind’s problems or the end of the earth.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/T5Vj9r3AfJ0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -213,104 +342,9 @@ Join the likes of Oscar Isaac and Ethan Hawke as they reveal how Marvel Studios&
 
 	
 	
-	
-
-  
-
-
-	
-	
-
-### Cyber Hell: Exposing an Internet Horror
-*Released on 2022-05-17, vote average 6.9*
-
-Anonymous and exploitative, a network of online chat rooms ran rampant with sex crimes. The hunt to take down its operators required guts and tenacity.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wdRGoeQ-ubg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Captors
-*Released on 2022-05-24, vote average 4*
-
-Alys - a human trafficking victim who narrowly escaped her captors ten years ago - confronts her traumatic past when a relative leaves her his remote, snowbound mansion. Although the new house first presents the promise of a new chapter in her life, Alys is soon besieged by strange hallucinations and deadly adversaries and must fight to survive while keeping her sanity intact.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/oIH-lHQjdfs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Ricky Gervais: SuperNature
-*Released on 2022-05-24, vote average 7.5*
-
-With his signature pitch-black sense of humor, Ricky Gervais takes the stage at the London Palladium in this provocative stand-up comedy special.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ovSe80zSptE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Crimes of the Future
-*Released on 2022-05-25, vote average 6.5*
-
-As the human species adapts to a synthetic environment, the body undergoes new transformations and mutations. Accompanied by his partner Caprice, celebrity performance artist Saul Tenser showcases the metamorphosis of his organs. Meanwhile, a mysterious group tries to use Saul&#39;s notoriety to shed light on the next phase of human evolution.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cH1xxrAWp7I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
 
 ### The Bob&#39;s Burgers Movie
-*Released on 2022-05-25, vote average 4.3*
+*Released on 2022-05-25, vote average 6.8*
 
 When a ruptured water main creates an enormous sinkhole right in front of Bob&#39;s Burgers, it blocks the entrance indefinitely and ruins the Belchers’ plans for a successful summer. While Bob and Linda struggle to keep the business afloat, the kids try to solve a mystery that could save their family&#39;s restaurant. As the dangers mount, these underdogs help each other find hope and fight to get back behind the counter, where they belong.
 
@@ -331,48 +365,16 @@ When a ruptured water main creates an enormous sinkhole right in front of Bob&#3
 	
 	
 
-### Men
-*Released on 2022-05-20, vote average 6*
+### Crimes of the Future
+*Released on 2022-05-25, vote average 6.4*
 
-In the aftermath of a personal tragedy, Harper retreats alone to the beautiful English countryside, hoping to find a place to heal. But someone — or something — from the surrounding woods appears to be stalking her, and what begins as simmering dread becomes a fully-formed nightmare, inhabited by her darkest memories and fears.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/HC3-EKo91Dc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Interceptor
-*Released on 2022-05-26, vote average 2*
-
-An Army lieutenant uses her years of tactical training to save humanity from sixteen nuclear missiles launched at the U.S. as a violent coordinated attack simultaneously threatens her remote missile interceptor station.
+As the human species adapts to a synthetic environment, the body undergoes new transformations and mutations. Accompanied by his partner Caprice, celebrity performance artist Saul Tenser showcases the metamorphosis of his organs. Meanwhile, a mysterious group tries to use Saul&#39;s notoriety to shed light on the next phase of human evolution.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/OQSoII4Bj1o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/cH1xxrAWp7I?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -386,6 +388,23 @@ An Army lieutenant uses her years of tactical training to save humanity from six
 ## Opening soon
 
 
+	
+	
+
+### Jurassic World Dominion
+*Released on 2022-06-01, vote average 8*
+
+Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history’s most fearsome creatures.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/DtQycgMD4HQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -408,36 +427,36 @@ A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan
 	
 
 	
+
 	
 
-### The Black Phone
-*Released on 2022-05-29, vote average 4*
+	
 
-Finney Shaw, a shy but clever 13-year-old boy, is abducted by a sadistic killer and trapped in a soundproof basement where screaming is of little use. When a disconnected phone on the wall begins to ring, Finney discovers that he can hear the voices of the killer’s previous victims. And they are dead set on making sure that what happened to them doesn’t happen to Finney.
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### South Park: The Streaming Wars
+*Released on 2022-06-01, vote average 2*
+
+Cartman locks horns with his mom in a battle of wills while an epic conflict unfolds that threatens South Park’s very existence.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/nQWAVkx8O74?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/pUIxa1Q6lY4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
