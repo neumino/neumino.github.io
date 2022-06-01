@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Top Gun: Maverick
-*Released on 2022-05-24, vote average 8.2*
+### Chip &#39;n Dale: Rescue Rangers
+*Released on 2022-05-18, vote average 7.1*
 
-After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen. Facing an uncertain future and confronting the ghosts of his past, Maverick is drawn into a confrontation with his own deepest fears, culminating in a mission that demands the ultimate sacrifice from those who will be chosen to fly it.
+Decades after their successful television series was canceled, Chip and Dale must repair their broken friendship and take on their Rescue Rangers detective personas once again when a former cast mate mysteriously disappears.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/bPSZ2hvlFh8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/2B9OS0pFzBA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,38 @@ After more than thirty years of service as one of the Navy’s top aviators, and
 	
 	
 
-### Chip &#39;n Dale: Rescue Rangers
-*Released on 2022-05-20, vote average 7.1*
+### Top Gun: Maverick
+*Released on 2022-05-24, vote average 8.2*
 
-Decades after their successful television series was canceled, Chip and Dale must repair their broken friendship and take on their Rescue Rangers detective personas once again when a former cast mate mysteriously disappears.
+After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen. Facing an uncertain future and confronting the ghosts of his past, Maverick is drawn into a confrontation with his own deepest fears, culminating in a mission that demands the ultimate sacrifice from those who will be chosen to fly it.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/2B9OS0pFzBA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/91IAIbYqCqs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Jurassic World Dominion
+*Released on 2022-06-01, vote average 7.9*
+
+Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history’s most fearsome creatures.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/DtQycgMD4HQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -113,7 +135,7 @@ To land a major client, an LA wine exec travels to an Australian sheep station, 
 	
 
 ### Teen Titans Go! &amp; DC Super Hero Girls: Mayhem in the Multiverse
-*Released on 2022-05-23, vote average 7.4*
+*Released on 2022-05-23, vote average 7.1*
 
 With the help of an ancient Kryptonian power, Lex Luthor unites the world’s Super-Villains to capture all of Earth&#39;s Super Heroes, until…only the DC Super Hero Girls are left to stop the Legion of Doom. Our heroes must cross dimensions to rescue their fellow Super Heroes from the Phantom Zone, but a fortuitous wrong turn leads them to Titans Tower – where they find much-needed allies in the Teen Titans!
 
@@ -142,7 +164,7 @@ With the help of an ancient Kryptonian power, Lex Luthor unites the world’s Su
 	
 
 ### Godspeed
-*Released on 2022-05-23, vote average 6.8*
+*Released on 2022-05-23, vote average 6.6*
 
 An ex-army captain travels to Dalyan to stop his friend&#39;s beloved from marrying another man, but grief and trauma from a combat tragedy mar his journey.
 
@@ -162,50 +184,11 @@ An ex-army captain travels to Dalyan to stop his friend&#39;s beloved from marry
 
 	
 	
-
-### Minions: The Rise of Gru
-*Released on 2022-05-30, vote average 10*
-
-A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/6DxjJzmYsXo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
 
 
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Cyber Hell: Exposing an Internet Horror
-*Released on 2022-05-17, vote average 7*
-
-Anonymous and exploitative, a network of online chat rooms ran rampant with sex crimes. The hunt to take down its operators required guts and tenacity.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/wdRGoeQ-ubg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -237,9 +220,9 @@ Finney Shaw, a shy but clever 13-year-old boy, is abducted by a sadistic killer 
 	
 
 ### The Roundup
-*Released on 2022-05-18, vote average 5*
+*Released on 2022-05-18, vote average 6.8*
 
-The sequel to the 2017 crime action movie &#34;The Outlaws&#34;.
+Followed by Ma Seok-do, who heads to a foreign country to extradite a suspect. However, he discovers additional murder cases and learns about a killer who had committed crimes against tourists for many years.
 
 <iframe id="player"
 	type="text/html"
@@ -256,51 +239,10 @@ The sequel to the 2017 crime action movie &#34;The Outlaws&#34;.
 
 
 	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### There Are No Saints
-*Released on 2022-05-27, vote average 5.6*
-
-A man is imprisoned for a crime he didn&#39;t commit. When his wife is murdered and his son kidnapped and taken to Mexico, he devises an elaborate and dangerous plan to rescue his son and avenge the murder.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/R1ZrmMFp-vU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
 	
 
 ### Zero Contact
-*Released on 2022-05-27, vote average 2.3*
+*Released on 2022-05-27, vote average 5*
 
 Produced in 17 different countries entirely virtually during the 2020 global pandemic, the film follows five characters based all over the world, connected only by their devotion to the late founder and tech titan Finley Hart. Forced to work together to shut down Hart’s most secret invention, a machine that is either the solution to mankind’s problems or the end of the earth.
 
@@ -312,6 +254,35 @@ Produced in 17 different countries entirely virtually during the 2020 global pan
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+	
+
+### Emergency
+*Released on 2022-05-20, vote average 5.8*
+
+Ready for a night of legendary partying, three college students must weigh the pros and cons of calling the police when faced with an unexpected situation.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/P2v03A3b1vs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 	
 	
 
@@ -343,16 +314,16 @@ Join the likes of Oscar Isaac and Ethan Hawke as they reveal how Marvel Studios&
 	
 	
 
-### The Bob&#39;s Burgers Movie
-*Released on 2022-05-25, vote average 6.8*
+### Norm Macdonald: Nothing Special
+*Released on 2022-05-30, vote average 7.5*
 
-When a ruptured water main creates an enormous sinkhole right in front of Bob&#39;s Burgers, it blocks the entrance indefinitely and ruins the Belchers’ plans for a successful summer. While Bob and Linda struggle to keep the business afloat, the kids try to solve a mystery that could save their family&#39;s restaurant. As the dangers mount, these underdogs help each other find hope and fight to get back behind the counter, where they belong.
+In his last comedy special, Norm ponders casinos, cannibals, living wills and more. After his set, Norm&#39;s friends and fellow comics gather to salute him.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/so0ycgVYtUk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/HZUwSDWC_lA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -365,19 +336,31 @@ When a ruptured water main creates an enormous sinkhole right in front of Bob&#3
 	
 	
 
-### Crimes of the Future
-*Released on 2022-05-25, vote average 6.4*
+### The Bob&#39;s Burgers Movie
+*Released on 2022-05-25, vote average 6.6*
 
-As the human species adapts to a synthetic environment, the body undergoes new transformations and mutations. Accompanied by his partner Caprice, celebrity performance artist Saul Tenser showcases the metamorphosis of his organs. Meanwhile, a mysterious group tries to use Saul&#39;s notoriety to shed light on the next phase of human evolution.
+When a ruptured water main creates an enormous sinkhole right in front of Bob&#39;s Burgers, it blocks the entrance indefinitely and ruins the Belchers’ plans for a successful summer. While Bob and Linda struggle to keep the business afloat, the kids try to solve a mystery that could save their family&#39;s restaurant. As the dangers mount, these underdogs help each other find hope and fight to get back behind the counter, where they belong.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/cH1xxrAWp7I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/nzaZyRfyxkU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
 	
 	
 
@@ -392,7 +375,7 @@ As the human species adapts to a synthetic environment, the body undergoes new t
 	
 
 ### Jurassic World Dominion
-*Released on 2022-06-01, vote average 8*
+*Released on 2022-06-01, vote average 7.9*
 
 Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history’s most fearsome creatures.
 
@@ -405,39 +388,6 @@ Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alon
   allowfullscreen></iframe>
 
 	
-	
-
-	
-	
-
-### Minions: The Rise of Gru
-*Released on 2022-05-30, vote average 10*
-
-A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/6DxjJzmYsXo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
@@ -473,6 +423,24 @@ Cartman locks horns with his mom in a battle of wills while an epic conflict unf
 
 	
 
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
 	
 
 	
