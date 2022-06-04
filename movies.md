@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Jurassic World Dominion
-*Released on 2022-06-01, vote average 7.2*
+*Released on 2022-06-01, vote average 6.8*
 
 Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history’s most fearsome creatures.
 
@@ -47,7 +47,7 @@ Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alon
 	
 
 ### Top Gun: Maverick
-*Released on 2022-05-24, vote average 8.2*
+*Released on 2022-05-24, vote average 8.3*
 
 After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen. Facing an uncertain future and confronting the ghosts of his past, Maverick is drawn into a confrontation with his own deepest fears, culminating in a mission that demands the ultimate sacrifice from those who will be chosen to fly it.
 
@@ -67,13 +67,6 @@ After more than thirty years of service as one of the Navy’s top aviators, and
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Teen Titans Go! &amp; DC Super Hero Girls: Mayhem in the Multiverse
 *Released on 2022-05-23, vote average 6.8*
@@ -85,28 +78,6 @@ With the help of an ancient Kryptonian power, Lex Luthor unites the world’s Su
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/PqiokC8HTOA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Jackass 4.5
-*Released on 2022-05-20, vote average 6.6*
-
-Through outrageous, never-before-seen footage, witness the making of the Jackass crew&#39;s last go at wild stunts.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xxEfgufpiL4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -148,28 +119,6 @@ An ex-army captain travels to Dalyan to stop his friend&#39;s beloved from marry
 	
 	
 
-### Emergency
-*Released on 2022-05-20, vote average 5.8*
-
-Ready for a night of legendary partying, three college students must weigh the pros and cons of calling the police when faced with an unexpected situation.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/P2v03A3b1vs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Black Phone
 *Released on 2022-05-29, vote average 7*
 
@@ -191,16 +140,9 @@ Finney Shaw, a shy but clever 13-year-old boy, is abducted by a sadistic killer 
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### South Park: The Streaming Wars
-*Released on 2022-06-01, vote average 6.4*
+*Released on 2022-06-01, vote average 6.5*
 
 Cartman locks horns with his mom in a battle of wills while an epic conflict unfolds that threatens South Park’s very existence.
 
@@ -220,9 +162,48 @@ Cartman locks horns with his mom in a battle of wills while an epic conflict unf
 
 	
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Crimes of the Future
+*Released on 2022-05-25, vote average 5.9*
+
+As the human species adapts to a synthetic environment, the body undergoes new transformations and mutations. Accompanied by his partner Caprice, celebrity performance artist Saul Tenser showcases the metamorphosis of his organs. Meanwhile, a mysterious group tries to use Saul&#39;s notoriety to shed light on the next phase of human evolution.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/cH1xxrAWp7I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
 
 ### The Making of Moon Knight
-*Released on 2022-05-25, vote average 4.4*
+*Released on 2022-05-25, vote average 5.8*
 
 Join the likes of Oscar Isaac and Ethan Hawke as they reveal how Marvel Studios&#39; Moon Knight was painstakingly brought to life. Through insightful interviews with cast and crew, along with immersive footage from the set, and a  candid &#34;roundtable discussion&#34; with the series&#39; directors, this &#34;making-of&#34; pulls back the curtain on the groundbreaking series of Marvel Studios&#39; newest hero.
 
@@ -243,16 +224,16 @@ Join the likes of Oscar Isaac and Ethan Hawke as they reveal how Marvel Studios&
 	
 	
 
-### Zero Contact
-*Released on 2022-05-27, vote average 4.7*
+### Fire Island
+*Released on 2022-06-03, vote average 2*
 
-Produced in 17 different countries entirely virtually during the 2020 global pandemic, the film follows five characters based all over the world, connected only by their devotion to the late founder and tech titan Finley Hart. Forced to work together to shut down Hart’s most secret invention, a machine that is either the solution to mankind’s problems or the end of the earth.
+Two gay best friends take a trip to the Pines, a hamlet on New York’s Fire Island that’s a hotspot for queer culture. Over the course of their vacation, they party with friends and develop flirtations with two other, significantly wealthier vacationers.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/T5Vj9r3AfJ0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/fUGIP8088MY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -264,11 +245,6 @@ Produced in 17 different countries entirely virtually during the 2020 global pan
 
 	
 	
-	
-
-  
-
-
 	
 
   
@@ -297,22 +273,20 @@ When a ruptured water main creates an enormous sinkhole right in front of Bob&#3
 
 
 	
-	
 
-### Norm Macdonald: Nothing Special
-*Released on 2022-05-30, vote average 6.3*
+  
 
-In his last comedy special, Norm ponders casinos, cannibals, living wills and more. After his set, Norm&#39;s friends and fellow comics gather to salute him.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/HZUwSDWC_lA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -321,47 +295,20 @@ In his last comedy special, Norm ponders casinos, cannibals, living wills and mo
 	
 	
 
-### Crimes of the Future
-*Released on 2022-05-25, vote average 6.1*
+### Dashcam
+*Released on 2022-06-03, vote average 4.7*
 
-As the human species adapts to a synthetic environment, the body undergoes new transformations and mutations. Accompanied by his partner Caprice, celebrity performance artist Saul Tenser showcases the metamorphosis of his organs. Meanwhile, a mysterious group tries to use Saul&#39;s notoriety to shed light on the next phase of human evolution.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cH1xxrAWp7I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Interceptor
-*Released on 2022-05-26, vote average 3.8*
-
-An Army lieutenant uses her years of tactical training to save humanity from sixteen nuclear missiles launched at the U.S. as a violent coordinated attack simultaneously threatens her remote missile interceptor station.
+At the start of the pandemic, an indulgent and self-deluded livestreaming improv musician abandons L.A. for London, steals her ex-bandmate&#39;s car, and makes the fateful decision to give a ride to an elderly woman who is not what she seems.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/OQSoII4Bj1o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/uOqHr1bC7iw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
@@ -383,6 +330,23 @@ An Army lieutenant uses her years of tactical training to save humanity from six
 
 	
 
+	
+	
+
+### Father of the Bride
+*Released on 2022-06-05, vote average 10*
+
+A father coming to grips with his daughter’s upcoming wedding through the prism of multiple relationships within a big, sprawling Cuban-American family
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Iwm0IO-NFRM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
