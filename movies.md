@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Jurassic World Dominion
-*Released on 2022-06-01, vote average 6.8*
+*Released on 2022-06-01, vote average 6.9*
 
 Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history’s most fearsome creatures.
 
@@ -69,7 +69,7 @@ After more than thirty years of service as one of the Navy’s top aviators, and
 	
 
 ### Teen Titans Go! &amp; DC Super Hero Girls: Mayhem in the Multiverse
-*Released on 2022-05-23, vote average 6.8*
+*Released on 2022-05-23, vote average 7*
 
 With the help of an ancient Kryptonian power, Lex Luthor unites the world’s Super-Villains to capture all of Earth&#39;s Super Heroes, until…only the DC Super Hero Girls are left to stop the Legion of Doom. Our heroes must cross dimensions to rescue their fellow Super Heroes from the Phantom Zone, but a fortuitous wrong turn leads them to Titans Tower – where they find much-needed allies in the Teen Titans!
 
@@ -119,6 +119,28 @@ An ex-army captain travels to Dalyan to stop his friend&#39;s beloved from marry
 	
 	
 
+### South Park: The Streaming Wars
+*Released on 2022-06-01, vote average 6.9*
+
+Cartman locks horns with his mom in a battle of wills while an epic conflict unfolds that threatens South Park’s very existence.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2nByi1v_l5g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Black Phone
 *Released on 2022-05-29, vote average 7*
 
@@ -139,18 +161,23 @@ Finney Shaw, a shy but clever 13-year-old boy, is abducted by a sadistic killer 
 
 
 	
+
+  
+
+
+	
 	
 
-### South Park: The Streaming Wars
-*Released on 2022-06-01, vote average 6.5*
+### Hollywood Stargirl
+*Released on 2022-06-03, vote average 8.2*
 
-Cartman locks horns with his mom in a battle of wills while an epic conflict unfolds that threatens South Park’s very existence.
+When Stargirl&#39;s mother is hired as the costume designer on a movie, they relocate to L.A., where Stargirl quickly becomes involved with an eclectic assortment of characters.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/2nByi1v_l5g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/F5BVUR0BsMk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -167,6 +194,116 @@ Cartman locks horns with his mom in a battle of wills while an epic conflict unf
   
 
 
+	
+	
+
+### Fire Island
+*Released on 2022-06-03, vote average 5*
+
+Two gay best friends take a trip to the Pines, a hamlet on New York’s Fire Island that’s a hotspot for queer culture. Over the course of their vacation, they party with friends and develop flirtations with two other, significantly wealthier vacationers.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fUGIP8088MY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Wolf Hound
+*Released on 2022-06-03, vote average 3*
+
+Inspired by the real-life German special operations unit KG 200 that shot down, repaired, and flew Allied aircraft as Trojan horses, &#34;Wolf Hound&#34; takes place in 1944 German-occupied France and follows the daring exploits of Jewish-American fighter pilot Captain David Holden. Ambushed behind enemy lines, Holden must rescue a captured B-17 Flying Fortress crew, evade a ruthless enemy stalking him at every turn, and foil a plot that could completely alter the outcome of World War II.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fQxrQ1oOPQM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### White Elephant
+*Released on 2022-06-03, vote average 5.5*
+
+An ex-marine enforcer must battle his conscience and code of honor when he is forced to do things for the mob.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5zEPU7Ekz00?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Dashcam
+*Released on 2022-06-03, vote average 4.8*
+
+At the start of the pandemic, an indulgent and self-deluded livestreaming improv musician abandons L.A. for London, steals her ex-bandmate&#39;s car, and makes the fateful decision to give a ride to an elderly woman who is not what she seems.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/uOqHr1bC7iw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Interceptor
+*Released on 2022-05-26, vote average 5.6*
+
+An Army lieutenant uses her years of tactical training to save humanity from sixteen nuclear missiles launched at the U.S. as a violent coordinated attack simultaneously threatens her remote missile interceptor station.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/OQSoII4Bj1o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -195,74 +332,18 @@ As the human species adapts to a synthetic environment, the body undergoes new t
 
 
 	
-
-  
-
-
-	
 	
 
-### The Making of Moon Knight
-*Released on 2022-05-25, vote average 5.8*
+### Unhuman
+*Released on 2022-06-03, vote average 5.8*
 
-Join the likes of Oscar Isaac and Ethan Hawke as they reveal how Marvel Studios&#39; Moon Knight was painstakingly brought to life. Through insightful interviews with cast and crew, along with immersive footage from the set, and a  candid &#34;roundtable discussion&#34; with the series&#39; directors, this &#34;making-of&#34; pulls back the curtain on the groundbreaking series of Marvel Studios&#39; newest hero.
+After their school bus crashes, a group of high school students is thrown into a terrifying fight for survival as they try to take down a group of unhuman savages… before they kill each other first.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/5m8IA63GyPY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Fire Island
-*Released on 2022-06-03, vote average 2*
-
-Two gay best friends take a trip to the Pines, a hamlet on New York’s Fire Island that’s a hotspot for queer culture. Over the course of their vacation, they party with friends and develop flirtations with two other, significantly wealthier vacationers.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/fUGIP8088MY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### The Bob&#39;s Burgers Movie
-*Released on 2022-05-25, vote average 6.6*
-
-When a ruptured water main creates an enormous sinkhole right in front of Bob&#39;s Burgers, it blocks the entrance indefinitely and ruins the Belchers’ plans for a successful summer. While Bob and Linda struggle to keep the business afloat, the kids try to solve a mystery that could save their family&#39;s restaurant. As the dangers mount, these underdogs help each other find hope and fight to get back behind the counter, where they belong.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nzaZyRfyxkU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/_ucMjSgVNqg?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -278,36 +359,6 @@ When a ruptured water main creates an enormous sinkhole right in front of Bob&#3
 
 
 	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Dashcam
-*Released on 2022-06-03, vote average 4.7*
-
-At the start of the pandemic, an indulgent and self-deluded livestreaming improv musician abandons L.A. for London, steals her ex-bandmate&#39;s car, and makes the fateful decision to give a ride to an elderly woman who is not what she seems.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/uOqHr1bC7iw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -317,12 +368,6 @@ At the start of the pandemic, an indulgent and self-deluded livestreaming improv
 
 ## Opening soon
 
-
-	
-
-	
-
-	
 
 	
 
@@ -347,6 +392,12 @@ A father coming to grips with his daughter’s upcoming wedding through the pris
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
 	
 
 	
