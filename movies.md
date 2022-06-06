@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Jurassic World Dominion
-*Released on 2022-06-01, vote average 6.9*
+*Released on 2022-06-01, vote average 6.8*
 
 Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history’s most fearsome creatures.
 
@@ -97,16 +97,16 @@ With the help of an ancient Kryptonian power, Lex Luthor unites the world’s Su
 	
 	
 
-### Godspeed
-*Released on 2022-05-23, vote average 6.5*
+### South Park: The Streaming Wars
+*Released on 2022-06-01, vote average 7.4*
 
-An ex-army captain travels to Dalyan to stop his friend&#39;s beloved from marrying another man, but grief and trauma from a combat tragedy mar his journey.
+Cartman locks horns with his mom in a battle of wills while an epic conflict unfolds that threatens South Park’s very existence.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Rbs-1C6DECE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/2nByi1v_l5g?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -119,16 +119,16 @@ An ex-army captain travels to Dalyan to stop his friend&#39;s beloved from marry
 	
 	
 
-### South Park: The Streaming Wars
-*Released on 2022-06-01, vote average 6.9*
+### Godspeed
+*Released on 2022-05-23, vote average 6.5*
 
-Cartman locks horns with his mom in a battle of wills while an epic conflict unfolds that threatens South Park’s very existence.
+An ex-army captain travels to Dalyan to stop his friend&#39;s beloved from marrying another man, but grief and trauma from a combat tragedy mar his journey.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/2nByi1v_l5g?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Rbs-1C6DECE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -169,7 +169,7 @@ Finney Shaw, a shy but clever 13-year-old boy, is abducted by a sadistic killer 
 	
 
 ### Hollywood Stargirl
-*Released on 2022-06-03, vote average 8.2*
+*Released on 2022-06-03, vote average 8*
 
 When Stargirl&#39;s mother is hired as the costume designer on a movie, they relocate to L.A., where Stargirl quickly becomes involved with an eclectic assortment of characters.
 
@@ -189,16 +189,9 @@ When Stargirl&#39;s mother is hired as the costume designer on a movie, they rel
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Fire Island
-*Released on 2022-06-03, vote average 5*
+*Released on 2022-06-03, vote average 4.5*
 
 Two gay best friends take a trip to the Pines, a hamlet on New York’s Fire Island that’s a hotspot for queer culture. Over the course of their vacation, they party with friends and develop flirtations with two other, significantly wealthier vacationers.
 
@@ -242,7 +235,7 @@ Inspired by the real-life German special operations unit KG 200 that shot down, 
 	
 
 ### White Elephant
-*Released on 2022-06-03, vote average 5.5*
+*Released on 2022-06-03, vote average 5.8*
 
 An ex-marine enforcer must battle his conscience and code of honor when he is forced to do things for the mob.
 
@@ -263,35 +256,8 @@ An ex-marine enforcer must battle his conscience and code of honor when he is fo
 	
 	
 
-### Dashcam
-*Released on 2022-06-03, vote average 4.8*
-
-At the start of the pandemic, an indulgent and self-deluded livestreaming improv musician abandons L.A. for London, steals her ex-bandmate&#39;s car, and makes the fateful decision to give a ride to an elderly woman who is not what she seems.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/uOqHr1bC7iw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### Interceptor
-*Released on 2022-05-26, vote average 5.6*
+*Released on 2022-05-26, vote average 5.9*
 
 An Army lieutenant uses her years of tactical training to save humanity from sixteen nuclear missiles launched at the U.S. as a violent coordinated attack simultaneously threatens her remote missile interceptor station.
 
@@ -312,30 +278,8 @@ An Army lieutenant uses her years of tactical training to save humanity from six
 	
 	
 
-### Crimes of the Future
-*Released on 2022-05-25, vote average 5.9*
-
-As the human species adapts to a synthetic environment, the body undergoes new transformations and mutations. Accompanied by his partner Caprice, celebrity performance artist Saul Tenser showcases the metamorphosis of his organs. Meanwhile, a mysterious group tries to use Saul&#39;s notoriety to shed light on the next phase of human evolution.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cH1xxrAWp7I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Unhuman
-*Released on 2022-06-03, vote average 5.8*
+*Released on 2022-06-03, vote average 5.2*
 
 After their school bus crashes, a group of high school students is thrown into a terrifying fight for survival as they try to take down a group of unhuman savages… before they kill each other first.
 
@@ -354,12 +298,53 @@ After their school bus crashes, a group of high school students is thrown into a
 
 
 	
+	
+	
 
   
 
 
 	
 	
+	
+
+  
+
+
+	
+	
+
+### Crimes of the Future
+*Released on 2022-05-25, vote average 5.8*
+
+As the human species adapts to a synthetic environment, the body undergoes new transformations and mutations. Accompanied by his partner Caprice, celebrity performance artist Saul Tenser showcases the metamorphosis of his organs. Meanwhile, a mysterious group tries to use Saul&#39;s notoriety to shed light on the next phase of human evolution.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/cH1xxrAWp7I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -375,23 +360,6 @@ After their school bus crashes, a group of high school students is thrown into a
 
 	
 
-	
-	
-
-### Father of the Bride
-*Released on 2022-06-05, vote average 10*
-
-A father coming to grips with his daughter’s upcoming wedding through the prism of multiple relationships within a big, sprawling Cuban-American family
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Iwm0IO-NFRM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
