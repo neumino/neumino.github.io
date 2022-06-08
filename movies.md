@@ -45,50 +45,6 @@ Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alon
 
 	
 	
-
-### Top Gun: Maverick
-*Released on 2022-05-24, vote average 8.3*
-
-After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen. Facing an uncertain future and confronting the ghosts of his past, Maverick is drawn into a confrontation with his own deepest fears, culminating in a mission that demands the ultimate sacrifice from those who will be chosen to fly it.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/91IAIbYqCqs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Teen Titans Go! &amp; DC Super Hero Girls: Mayhem in the Multiverse
-*Released on 2022-05-23, vote average 7*
-
-With the help of an ancient Kryptonian power, Lex Luthor unites the world’s Super-Villains to capture all of Earth&#39;s Super Heroes, until…only the DC Super Hero Girls are left to stop the Legion of Doom. Our heroes must cross dimensions to rescue their fellow Super Heroes from the Phantom Zone, but a fortuitous wrong turn leads them to Titans Tower – where they find much-needed allies in the Teen Titans!
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/PqiokC8HTOA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
 	
 
   
@@ -98,7 +54,7 @@ With the help of an ancient Kryptonian power, Lex Luthor unites the world’s Su
 	
 
 ### South Park: The Streaming Wars
-*Released on 2022-06-01, vote average 7.4*
+*Released on 2022-06-01, vote average 7.5*
 
 Cartman locks horns with his mom in a battle of wills while an epic conflict unfolds that threatens South Park’s very existence.
 
@@ -119,16 +75,60 @@ Cartman locks horns with his mom in a battle of wills while an epic conflict unf
 	
 	
 
-### Godspeed
-*Released on 2022-05-23, vote average 6.5*
+### Hollywood Stargirl
+*Released on 2022-06-03, vote average 8.3*
 
-An ex-army captain travels to Dalyan to stop his friend&#39;s beloved from marrying another man, but grief and trauma from a combat tragedy mar his journey.
+When Stargirl&#39;s mother is hired as the costume designer on a movie, they relocate to L.A., where Stargirl quickly becomes involved with an eclectic assortment of characters.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Rbs-1C6DECE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/F5BVUR0BsMk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Fire Island
+*Released on 2022-06-03, vote average 5.9*
+
+Two gay best friends take a trip to the Pines, a hamlet on New York’s Fire Island that’s a hotspot for queer culture. Over the course of their vacation, they party with friends and develop flirtations with two other, significantly wealthier vacationers.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/O_jpjO89Vks?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Interceptor
+*Released on 2022-05-26, vote average 6.3*
+
+A U.S. Army Captain uses her years of tactical training to save humanity from sixteen nuclear missiles launched at the U.S. as a violent attack threatens her remote missile interceptor station.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jurfaDbAadU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -161,70 +161,6 @@ Finney Shaw, a shy but clever 13-year-old boy, is abducted by a sadistic killer 
 
 
 	
-
-  
-
-
-	
-	
-
-### Hollywood Stargirl
-*Released on 2022-06-03, vote average 8*
-
-When Stargirl&#39;s mother is hired as the costume designer on a movie, they relocate to L.A., where Stargirl quickly becomes involved with an eclectic assortment of characters.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/F5BVUR0BsMk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Fire Island
-*Released on 2022-06-03, vote average 4.5*
-
-Two gay best friends take a trip to the Pines, a hamlet on New York’s Fire Island that’s a hotspot for queer culture. Over the course of their vacation, they party with friends and develop flirtations with two other, significantly wealthier vacationers.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/fUGIP8088MY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Wolf Hound
-*Released on 2022-06-03, vote average 3*
-
-Inspired by the real-life German special operations unit KG 200 that shot down, repaired, and flew Allied aircraft as Trojan horses, &#34;Wolf Hound&#34; takes place in 1944 German-occupied France and follows the daring exploits of Jewish-American fighter pilot Captain David Holden. Ambushed behind enemy lines, Holden must rescue a captured B-17 Flying Fortress crew, evade a ruthless enemy stalking him at every turn, and foil a plot that could completely alter the outcome of World War II.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/fQxrQ1oOPQM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -235,7 +171,7 @@ Inspired by the real-life German special operations unit KG 200 that shot down, 
 	
 
 ### White Elephant
-*Released on 2022-06-03, vote average 5.8*
+*Released on 2022-06-03, vote average 5.9*
 
 An ex-marine enforcer must battle his conscience and code of honor when he is forced to do things for the mob.
 
@@ -256,16 +192,45 @@ An ex-marine enforcer must battle his conscience and code of honor when he is fo
 	
 	
 
-### Interceptor
-*Released on 2022-05-26, vote average 5.9*
+### Wolf Hound
+*Released on 2022-06-03, vote average 4*
 
-An Army lieutenant uses her years of tactical training to save humanity from sixteen nuclear missiles launched at the U.S. as a violent coordinated attack simultaneously threatens her remote missile interceptor station.
+Inspired by the real-life German special operations unit KG 200 that shot down, repaired, and flew Allied aircraft as Trojan horses, &#34;Wolf Hound&#34; takes place in 1944 German-occupied France and follows the daring exploits of Jewish-American fighter pilot Captain David Holden. Ambushed behind enemy lines, Holden must rescue a captured B-17 Flying Fortress crew, evade a ruthless enemy stalking him at every turn, and foil a plot that could completely alter the outcome of World War II.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/OQSoII4Bj1o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Ld9joQp2aeU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### What Is a Woman?
+*Released on 2022-06-01, vote average 6*
+
+Matt Walsh of The Daily Wire travels around the world to ask one of the biggest questions of this generation.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/42ivIRd9N8E?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -279,7 +244,7 @@ An Army lieutenant uses her years of tactical training to save humanity from six
 	
 
 ### Unhuman
-*Released on 2022-06-03, vote average 5.2*
+*Released on 2022-06-03, vote average 4.5*
 
 After their school bus crashes, a group of high school students is thrown into a terrifying fight for survival as they try to take down a group of unhuman savages… before they kill each other first.
 
@@ -315,7 +280,7 @@ After their school bus crashes, a group of high school students is thrown into a
 	
 
 ### Crimes of the Future
-*Released on 2022-05-25, vote average 5.8*
+*Released on 2022-05-25, vote average 5.9*
 
 As the human species adapts to a synthetic environment, the body undergoes new transformations and mutations. Accompanied by his partner Caprice, celebrity performance artist Saul Tenser showcases the metamorphosis of his organs. Meanwhile, a mysterious group tries to use Saul&#39;s notoriety to shed light on the next phase of human evolution.
 
@@ -334,12 +299,32 @@ As the human species adapts to a synthetic environment, the body undergoes new t
 
 
 	
+	
+
+### Broker
+*Released on 2022-06-08, vote average 6*
+
+A group of people, brought together by a baby box, set off on a journey that will lead to destinations they never expected.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/p8jrKedaZvE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
 	
-	
+
+  
+
+
 	
 
   
@@ -359,7 +344,41 @@ As the human species adapts to a synthetic environment, the body undergoes new t
 	
 
 	
+	
 
+### Broker
+*Released on 2022-06-08, vote average 6*
+
+A group of people, brought together by a baby box, set off on a journey that will lead to destinations they never expected.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/p8jrKedaZvE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### Halftime
+*Released on 2022-06-08, vote average 2*
+
+Global superstar Jennifer Lopez reflects on her multifaceted career and the pressure of life in the spotlight in this intimate documentary.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/rpMZOZTqcQw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -375,7 +394,7 @@ As the human species adapts to a synthetic environment, the body undergoes new t
 	
 
 	
-
+	
 	
 
 	
@@ -388,6 +407,10 @@ As the human species adapts to a synthetic environment, the body undergoes new t
 
 	
 
+	
+
+	
+	
 	
 
 	
