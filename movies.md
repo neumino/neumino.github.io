@@ -21,7 +21,7 @@ Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alon
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/DtQycgMD4HQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/oMzCG2Xa7rY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -45,38 +45,9 @@ Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alon
 
 	
 	
-	
-
-  
-
-
-	
-	
-
-### South Park: The Streaming Wars
-*Released on 2022-06-01, vote average 7.5*
-
-Cartman locks horns with his mom in a battle of wills while an epic conflict unfolds that threatens South Park’s very existence.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2nByi1v_l5g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
 
 ### Hollywood Stargirl
-*Released on 2022-06-03, vote average 8.3*
+*Released on 2022-06-03, vote average 7.9*
 
 When Stargirl&#39;s mother is hired as the costume designer on a movie, they relocate to L.A., where Stargirl quickly becomes involved with an eclectic assortment of characters.
 
@@ -98,7 +69,7 @@ When Stargirl&#39;s mother is hired as the costume designer on a movie, they rel
 	
 
 ### Fire Island
-*Released on 2022-06-03, vote average 5.9*
+*Released on 2022-06-03, vote average 6.3*
 
 Two gay best friends take a trip to the Pines, a hamlet on New York’s Fire Island that’s a hotspot for queer culture. Over the course of their vacation, they party with friends and develop flirtations with two other, significantly wealthier vacationers.
 
@@ -119,16 +90,16 @@ Two gay best friends take a trip to the Pines, a hamlet on New York’s Fire Isl
 	
 	
 
-### Interceptor
-*Released on 2022-05-26, vote average 6.3*
+### Dragon Ball Super: Super Hero
+*Released on 2022-06-11, vote average 4.3*
 
-A U.S. Army Captain uses her years of tactical training to save humanity from sixteen nuclear missiles launched at the U.S. as a violent attack threatens her remote missile interceptor station.
+The Red Ribbon Army, an evil organization that was once destroyed by Goku in the past, has been reformed by a group of people who have created new and mightier Androids, Gamma 1 and Gamma 2, and seek vengeance against Goku and his family.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/jurfaDbAadU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/t5CIs0jDqC8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -142,7 +113,7 @@ A U.S. Army Captain uses her years of tactical training to save humanity from si
 	
 
 ### The Black Phone
-*Released on 2022-05-29, vote average 7*
+*Released on 2022-05-29, vote average 8.5*
 
 Finney Shaw, a shy but clever 13-year-old boy, is abducted by a sadistic killer and trapped in a soundproof basement where screaming is of little use. When a disconnected phone on the wall begins to ring, Finney discovers that he can hear the voices of the killer’s previous victims. And they are dead set on making sure that what happened to them doesn’t happen to Finney.
 
@@ -170,38 +141,16 @@ Finney Shaw, a shy but clever 13-year-old boy, is abducted by a sadistic killer 
 	
 	
 
-### White Elephant
-*Released on 2022-06-03, vote average 5.9*
+### South Park: The Streaming Wars
+*Released on 2022-06-01, vote average 7.6*
 
-An ex-marine enforcer must battle his conscience and code of honor when he is forced to do things for the mob.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/5zEPU7Ekz00?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Wolf Hound
-*Released on 2022-06-03, vote average 4*
-
-Inspired by the real-life German special operations unit KG 200 that shot down, repaired, and flew Allied aircraft as Trojan horses, &#34;Wolf Hound&#34; takes place in 1944 German-occupied France and follows the daring exploits of Jewish-American fighter pilot Captain David Holden. Ambushed behind enemy lines, Holden must rescue a captured B-17 Flying Fortress crew, evade a ruthless enemy stalking him at every turn, and foil a plot that could completely alter the outcome of World War II.
+Cartman locks horns with his mom in a battle of wills while an epic conflict unfolds that threatens South Park’s very existence.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Ld9joQp2aeU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/2nByi1v_l5g?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -221,74 +170,16 @@ Inspired by the real-life German special operations unit KG 200 that shot down, 
 	
 	
 
-### What Is a Woman?
-*Released on 2022-06-01, vote average 6*
+### Hustle
+*Released on 2022-06-03, vote average 7.4*
 
-Matt Walsh of The Daily Wire travels around the world to ask one of the biggest questions of this generation.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/42ivIRd9N8E?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Unhuman
-*Released on 2022-06-03, vote average 4.5*
-
-After their school bus crashes, a group of high school students is thrown into a terrifying fight for survival as they try to take down a group of unhuman savages… before they kill each other first.
+After discovering a once-in-a-lifetime player with a rocky past abroad, a down on his luck basketball scout takes it upon himself to bring the phenom to the States without his team&#39;s approval. Against the odds, they have one final shot to prove they have what it takes to make it in the NBA.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/_ucMjSgVNqg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Crimes of the Future
-*Released on 2022-05-25, vote average 5.9*
-
-As the human species adapts to a synthetic environment, the body undergoes new transformations and mutations. Accompanied by his partner Caprice, celebrity performance artist Saul Tenser showcases the metamorphosis of his organs. Meanwhile, a mysterious group tries to use Saul&#39;s notoriety to shed light on the next phase of human evolution.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/cH1xxrAWp7I?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/nM4iy0reaCA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -302,7 +193,7 @@ As the human species adapts to a synthetic environment, the body undergoes new t
 	
 
 ### Broker
-*Released on 2022-06-08, vote average 6*
+*Released on 2022-06-08, vote average 4*
 
 A group of people, brought together by a baby box, set off on a journey that will lead to destinations they never expected.
 
@@ -320,6 +211,111 @@ A group of people, brought together by a baby box, set off on a journey that wil
   
 
 
+	
+	
+
+### Satria Dewa: Gatotkaca
+*Released on 2022-06-09, vote average 9.2*
+
+Realizing that he’s the lineal descendant of Gatotkaca from Pandawa family, Satrio must fight his way to unlock the power lies inside him and face Aswatama, the remaining Kurawa warrior who lives on to destroy the world by changing the history of Bharatayudha.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/R7SjBDyaWJk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Gladbeck: The Hostage Crisis
+*Released on 2022-06-08, vote average 8*
+
+In August 1988, two armed bank robbers keep German police at bay for 54 hours during a hostage-taking drama that ends in a shootout and three deaths.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/61yP5BRLhUE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Tales from the Other Side
+*Released on 2022-06-07, vote average 3.3*
+
+Three kids sought out to have the most legendary Halloween night ever. Their Trick-or-treat adventure brings them to the home of the local town legend &#34;Scary Mary&#34;. Legends say that she is a woman of pure evil, but one thing is for certain - She knows just the right spooky tales to give these three kids the scare of their life. Sharing six unique stories that will lead the children down a mysterious path to the unexpected.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3lBlk0R1GmM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### White Elephant
+*Released on 2022-06-03, vote average 5.3*
+
+An ex-marine enforcer must battle his conscience and code of honor when he is forced to do things for the mob.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/5zEPU7Ekz00?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -340,22 +336,18 @@ A group of people, brought together by a baby box, set off on a journey that wil
 
 
 	
-
 	
 
-	
-	
+### Dragon Ball Super: Super Hero
+*Released on 2022-06-11, vote average 4.3*
 
-### Broker
-*Released on 2022-06-08, vote average 6*
-
-A group of people, brought together by a baby box, set off on a journey that will lead to destinations they never expected.
+The Red Ribbon Army, an evil organization that was once destroyed by Goku in the past, has been reformed by a group of people who have created new and mightier Androids, Gamma 1 and Gamma 2, and seek vengeance against Goku and his family.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/p8jrKedaZvE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/t5CIs0jDqC8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -365,16 +357,35 @@ A group of people, brought together by a baby box, set off on a journey that wil
 	
 	
 
-### Halftime
-*Released on 2022-06-08, vote average 2*
+### Minions: The Rise of Gru
+*Released on 2022-06-16, vote average 6.5*
 
-Global superstar Jennifer Lopez reflects on her multifaceted career and the pressure of life in the spotlight in this intimate documentary.
+A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/rpMZOZTqcQw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/HhIl_XJ-OGA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### Lightyear
+*Released on 2022-06-15, vote average 2*
+
+Legendary Space Ranger Buzz Lightyear embarks on an intergalactic adventure alongside a group of ambitious recruits and his robot companion Sox.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KVPTqACAQy8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -388,12 +399,6 @@ Global superstar Jennifer Lopez reflects on her multifaceted career and the pres
 	
 
 	
-
-	
-
-	
-
-	
 	
 	
 
@@ -410,7 +415,13 @@ Global superstar Jennifer Lopez reflects on her multifaceted career and the pres
 	
 
 	
+
 	
+
+	
+
+	
+
 	
 
 	
