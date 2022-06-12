@@ -46,30 +46,8 @@ Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alon
 	
 	
 
-### Hollywood Stargirl
-*Released on 2022-06-03, vote average 7.9*
-
-When Stargirl&#39;s mother is hired as the costume designer on a movie, they relocate to L.A., where Stargirl quickly becomes involved with an eclectic assortment of characters.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/F5BVUR0BsMk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Fire Island
-*Released on 2022-06-03, vote average 6.3*
+*Released on 2022-06-03, vote average 6.6*
 
 Two gay best friends take a trip to the Pines, a hamlet on New York’s Fire Island that’s a hotspot for queer culture. Over the course of their vacation, they party with friends and develop flirtations with two other, significantly wealthier vacationers.
 
@@ -112,6 +90,57 @@ The Red Ribbon Army, an evil organization that was once destroyed by Goku in the
 	
 	
 
+### Hollywood Stargirl
+*Released on 2022-06-03, vote average 7.9*
+
+When Stargirl&#39;s mother is hired as the costume designer on a movie, they relocate to L.A., where Stargirl quickly becomes involved with an eclectic assortment of characters.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/F5BVUR0BsMk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Hustle
+*Released on 2022-06-03, vote average 7.7*
+
+After discovering a once-in-a-lifetime player with a rocky past abroad, a down on his luck basketball scout takes it upon himself to bring the phenom to the States without his team&#39;s approval. Against the odds, they have one final shot to prove they have what it takes to make it in the NBA.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nM4iy0reaCA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Black Phone
 *Released on 2022-05-29, vote average 8.5*
 
@@ -142,7 +171,7 @@ Finney Shaw, a shy but clever 13-year-old boy, is abducted by a sadistic killer 
 	
 
 ### South Park: The Streaming Wars
-*Released on 2022-06-01, vote average 7.6*
+*Released on 2022-06-01, vote average 7.7*
 
 Cartman locks horns with his mom in a battle of wills while an epic conflict unfolds that threatens South Park’s very existence.
 
@@ -162,6 +191,21 @@ Cartman locks horns with his mom in a battle of wills while an epic conflict unf
 
 	
 	
+
+### Gladbeck: Rehine Krizi
+*Released on 2022-06-08, vote average 7.8*
+
+In August 1988, two armed bank robbers keep German police at bay for 54 hours during a hostage-taking drama that ends in a shootout and three deaths.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/61yP5BRLhUE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -170,16 +214,38 @@ Cartman locks horns with his mom in a battle of wills while an epic conflict unf
 	
 	
 
-### Hustle
-*Released on 2022-06-03, vote average 7.4*
+### Beyond Infinity: Buzz and the Journey to Lightyear
+*Released on 2022-06-10, vote average 9*
 
-After discovering a once-in-a-lifetime player with a rocky past abroad, a down on his luck basketball scout takes it upon himself to bring the phenom to the States without his team&#39;s approval. Against the odds, they have one final shot to prove they have what it takes to make it in the NBA.
+Explore the evolution of Buzz Lightyear from toy to human in the making of Pixar’s Lightyear. Dive into the origin and cultural impact of everyone’s favorite Space Ranger, the art of designing a new “human Buzz,” and the challenges faced by the Lightyear crew along the way.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/nM4iy0reaCA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/UgQbPITUGD0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### My Fake Boyfriend
+*Released on 2022-06-10, vote average 4*
+
+A young man in a tricky situation follows the advice of his unconventional best friend and uses social media to create a fake boyfriend to keep his awful ex-lover out of his life. But everything backfires when he meets the real love of his life, and breaking up with his fake boyfriend proves hard to do.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/sGqRPJqqkJ4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -234,98 +300,53 @@ Realizing that he’s the lineal descendant of Gatotkaca from Pandawa family, Sa
 
 
 	
+
+  
+
+
+	
+	
 	
 
-### Gladbeck: The Hostage Crisis
-*Released on 2022-06-08, vote average 8*
+  
 
-In August 1988, two armed bank robbers keep German police at bay for 54 hours during a hostage-taking drama that ends in a shootout and three deaths.
+
+	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### The Siege of Robin Hood
+*Released on 2022-06-03, vote average 4.7*
+
+In a time of chaos and tyranny, the once great nation of England teeters perilously on the brink of mass revolution. After the merciless Sheriff of Nottingham orders a brutal attack on his family, a young man named Robin swears bloody revenge on the men responsible, vowing to restore freedom to those trapped under the realm’s oppressive rule. Advised and mentored by the reclusive magician Merlin, Robin and his right-hand man Lancelot recruit a deadly team of exiled fighters and skilled mavericks to rally the villagers for an explosive all-out assault on the Crown’s castle.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/61yP5BRLhUE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-bipF5GxOUo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Tales from the Other Side
-*Released on 2022-06-07, vote average 3.3*
-
-Three kids sought out to have the most legendary Halloween night ever. Their Trick-or-treat adventure brings them to the home of the local town legend &#34;Scary Mary&#34;. Legends say that she is a woman of pure evil, but one thing is for certain - She knows just the right spooky tales to give these three kids the scare of their life. Sharing six unique stories that will lead the children down a mysterious path to the unexpected.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/3lBlk0R1GmM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### White Elephant
-*Released on 2022-06-03, vote average 5.3*
-
-An ex-marine enforcer must battle his conscience and code of honor when he is forced to do things for the mob.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/5zEPU7Ekz00?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -338,16 +359,16 @@ An ex-marine enforcer must battle his conscience and code of honor when he is fo
 	
 	
 
-### Dragon Ball Super: Super Hero
-*Released on 2022-06-11, vote average 4.3*
+### Lightyear
+*Released on 2022-06-15, vote average 2*
 
-The Red Ribbon Army, an evil organization that was once destroyed by Goku in the past, has been reformed by a group of people who have created new and mightier Androids, Gamma 1 and Gamma 2, and seek vengeance against Goku and his family.
+Legendary Space Ranger Buzz Lightyear embarks on an intergalactic adventure alongside a group of ambitious recruits and his robot companion Sox.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/t5CIs0jDqC8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/KVPTqACAQy8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -374,25 +395,6 @@ A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan
 	
 
 	
-	
-
-### Lightyear
-*Released on 2022-06-15, vote average 2*
-
-Legendary Space Ranger Buzz Lightyear embarks on an intergalactic adventure alongside a group of ambitious recruits and his robot companion Sox.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/KVPTqACAQy8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
 
 	
 
@@ -400,6 +402,8 @@ Legendary Space Ranger Buzz Lightyear embarks on an intergalactic adventure alon
 
 	
 	
+	
+
 	
 
 	
