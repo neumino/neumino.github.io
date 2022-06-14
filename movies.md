@@ -46,16 +46,16 @@ Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alon
 	
 	
 
-### Fire Island
-*Released on 2022-06-09, vote average 6.7*
+### Dragon Ball Super: Super Hero
+*Released on 2022-06-11, vote average 5.8*
 
-Two gay best friends take a trip to the Pines, a hamlet on New York’s Fire Island that’s a hotspot for queer culture. Over the course of their vacation, they party with friends and develop flirtations with two other, significantly wealthier vacationers.
+The Red Ribbon Army, an evil organization that was once destroyed by Goku in the past, has been reformed by a group of people who have created new and mightier Androids, Gamma 1 and Gamma 2, and seek vengeance against Goku and his family.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/O_jpjO89Vks?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/t5CIs0jDqC8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,16 +68,16 @@ Two gay best friends take a trip to the Pines, a hamlet on New York’s Fire Isl
 	
 	
 
-### Dragon Ball Super: Super Hero
-*Released on 2022-06-11, vote average 5.8*
+### Fire Island
+*Released on 2022-06-09, vote average 6.6*
 
-The Red Ribbon Army, an evil organization that was once destroyed by Goku in the past, has been reformed by a group of people who have created new and mightier Androids, Gamma 1 and Gamma 2, and seek vengeance against Goku and his family.
+A group of queer best friends gather in the Fire Island Pines for their annual week of love and laughter, but when a sudden change of events jeopardizes their summer in gay paradise, their bonds as a chosen family are pushed to the limit.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/t5CIs0jDqC8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/O_jpjO89Vks?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -113,7 +113,7 @@ When Stargirl&#39;s mother is hired as the costume designer on a movie, they rel
 	
 
 ### Hustle
-*Released on 2022-06-03, vote average 7.7*
+*Released on 2022-06-03, vote average 7.8*
 
 After discovering a once-in-a-lifetime player with a rocky past abroad, a down on his luck basketball scout takes it upon himself to bring the phenom to the States without his team&#39;s approval. Against the odds, they have one final shot to prove they have what it takes to make it in the NBA.
 
@@ -140,38 +140,9 @@ After discovering a once-in-a-lifetime player with a rocky past abroad, a down o
 
 	
 	
-	
 
-  
-
-
-	
-	
-
-### South Park: The Streaming Wars
-*Released on 2022-06-01, vote average 7.6*
-
-Cartman locks horns with his mom in a battle of wills while an epic conflict unfolds that threatens South Park’s very existence.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2nByi1v_l5g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Gladbeck: Rehine Krizi
-*Released on 2022-06-08, vote average 7.6*
+### Gladbeck: Das Geiseldrama
+*Released on 2022-06-08, vote average 6.7*
 
 In August 1988, two armed bank robbers keep German police at bay for 54 hours during a hostage-taking drama that ends in a shootout and three deaths.
 
@@ -193,7 +164,7 @@ In August 1988, two armed bank robbers keep German police at bay for 54 hours du
 	
 
 ### Beyond Infinity: Buzz and the Journey to Lightyear
-*Released on 2022-06-10, vote average 8.2*
+*Released on 2022-06-10, vote average 8*
 
 Explore the evolution of Buzz Lightyear from toy to human in the making of Pixar’s Lightyear. Dive into the origin and cultural impact of everyone’s favorite Space Ranger, the art of designing a new “human Buzz,” and the challenges faced by the Lightyear crew along the way.
 
@@ -202,6 +173,35 @@ Explore the evolution of Buzz Lightyear from toy to human in the making of Pixar
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/UgQbPITUGD0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### South Park: The Streaming Wars
+*Released on 2022-06-01, vote average 7.6*
+
+Cartman locks horns with his mom in a battle of wills while an epic conflict unfolds that threatens South Park’s very existence.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/2nByi1v_l5g?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -257,18 +257,6 @@ In a time of chaos and tyranny, the once great nation of England teeters perilou
 
 	
 	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
 
 ### Broker
 *Released on 2022-06-08, vote average 4*
@@ -290,8 +278,6 @@ A group of people, brought together by a baby box, set off on a journey that wil
 
 
 	
-	
-	
 
   
 
@@ -302,6 +288,8 @@ A group of people, brought together by a baby box, set off on a journey that wil
 
 
 	
+	
+	
 
   
 
@@ -309,20 +297,47 @@ A group of people, brought together by a baby box, set off on a journey that wil
 	
 	
 
-### Satria Dewa: Gatotkaca
-*Released on 2022-06-09, vote average 9.2*
+### Amy Schumer&#39;s Parental Advisory
+*Released on 2022-06-11, vote average 4.5*
 
-Realizing that he’s the lineal descendant of Gatotkaca from Pandawa family, Satrio must fight his way to unlock the power lies inside him and face Aswatama, the remaining Kurawa warrior who lives on to destroy the world by changing the history of Bharatayudha.
+Amy Schumer welcomes her favorite comedians to the stage in this special about family life, from the pressures of parenting to the joys of remarriage.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/R7SjBDyaWJk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/s_nbcEETPi4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### King Tweety
+*Released on 2022-06-13, vote average 7.5*
+
+Everyone&#39;s favorite yellow canary unexpectedly becomes next in line for the crown when the queen of an island paradise disappears. His Little Highness’ entourage includes motorbike daredevil Granny and sly Sylvester, whose allegiance is tested when he uncovers a sinister plot to eliminate Tweety for good.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/7DBwuCoG2FM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -341,7 +356,7 @@ Realizing that he’s the lineal descendant of Gatotkaca from Pandawa family, Sa
 	
 
 ### Lightyear
-*Released on 2022-06-15, vote average 5.5*
+*Released on 2022-06-15, vote average 6*
 
 Legendary Space Ranger Buzz Lightyear embarks on an intergalactic adventure alongside a group of ambitious recruits and his robot companion Sox.
 
@@ -360,7 +375,7 @@ Legendary Space Ranger Buzz Lightyear embarks on an intergalactic adventure alon
 	
 
 ### Minions: The Rise of Gru
-*Released on 2022-06-16, vote average 8*
+*Released on 2022-06-16, vote average 7.7*
 
 A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.
 
@@ -399,22 +414,11 @@ The life of a legendary sea monster hunter is turned upside down when a young gi
 	
 
 	
-	
-
-### King Tweety
-*Released on 2022-06-13, vote average 7.5*
-
-Everyone&#39;s favorite yellow canary unexpectedly becomes next in line for the crown when the queen of an island paradise disappears. His Little Highness’ entourage includes motorbike daredevil Granny and sly Sylvester, whose allegiance is tested when he uncovers a sinister plot to eliminate Tweety for good.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/fmh-OmhUYsc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+	
+
 	
 
 	
@@ -425,6 +429,8 @@ Everyone&#39;s favorite yellow canary unexpectedly becomes next in line for the 
 
 	
 
+	
+	
 	
 
 	
@@ -446,12 +452,6 @@ Nancy Stokes doesn’t know good sex. Whatever it may be, Nancy, a retired schoo
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
 	
 
 	
