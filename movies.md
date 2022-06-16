@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Jurassic World Dominion
-*Released on 2022-06-01, vote average 6.8*
+### Dragon Ball Super: Super Hero
+*Released on 2022-06-11, vote average 6.8*
 
-Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history’s most fearsome creatures.
+The Red Ribbon Army, an evil organization that was once destroyed by Goku in the past, has been reformed by a group of people who have created new and mightier Androids, Gamma 1 and Gamma 2, and seek vengeance against Goku and his family.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/oMzCG2Xa7rY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/W9JHZwtObqs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,30 +46,8 @@ Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alon
 	
 	
 
-### Dragon Ball Super: Super Hero
-*Released on 2022-06-11, vote average 6.3*
-
-The Red Ribbon Army, an evil organization that was once destroyed by Goku in the past, has been reformed by a group of people who have created new and mightier Androids, Gamma 1 and Gamma 2, and seek vengeance against Goku and his family.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/t5CIs0jDqC8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Fire Island
-*Released on 2022-06-09, vote average 6.6*
+*Released on 2022-06-09, vote average 6.4*
 
 A group of queer best friends gather in the Fire Island Pines for their annual week of love and laughter, but when a sudden change of events jeopardizes their summer in gay paradise, their bonds as a chosen family are pushed to the limit.
 
@@ -99,7 +77,29 @@ After discovering a once-in-a-lifetime player with a rocky past abroad, a down o
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/nM4iy0reaCA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/BXTm_arU7Aw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Lightyear
+*Released on 2022-06-15, vote average 6.8*
+
+Legendary Space Ranger Buzz Lightyear embarks on an intergalactic adventure alongside a group of ambitious recruits and his robot companion Sox.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/VwwxMs-GYN8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,30 +134,8 @@ When Stargirl&#39;s mother is hired as the costume designer on a movie, they rel
 	
 	
 
-### Lightyear
-*Released on 2022-06-15, vote average 6.2*
-
-Legendary Space Ranger Buzz Lightyear embarks on an intergalactic adventure alongside a group of ambitious recruits and his robot companion Sox.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/VwwxMs-GYN8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Beyond Infinity: Buzz and the Journey to Lightyear
-*Released on 2022-06-10, vote average 7.8*
+*Released on 2022-06-10, vote average 7.5*
 
 Explore the evolution of Buzz Lightyear from toy to human in the making of Pixar’s Lightyear. Dive into the origin and cultural impact of everyone’s favorite Space Ranger, the art of designing a new “human Buzz,” and the challenges faced by the Lightyear crew along the way.
 
@@ -178,8 +156,30 @@ Explore the evolution of Buzz Lightyear from toy to human in the making of Pixar
 	
 	
 
+### Minions: The Rise of Gru
+*Released on 2022-06-16, vote average 7.6*
+
+A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/HhIl_XJ-OGA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### My Fake Boyfriend
-*Released on 2022-06-10, vote average 5.9*
+*Released on 2022-06-10, vote average 6.2*
 
 A young man in a tricky situation follows the advice of his unconventional best friend and uses social media to create a fake boyfriend to keep his awful ex-lover out of his life. But everything backfires when he meets the real love of his life, and breaking up with his fake boyfriend proves hard to do.
 
@@ -206,15 +206,8 @@ A young man in a tricky situation follows the advice of his unconventional best 
 
 	
 	
-	
 
-  
-
-
-	
-	
-
-### Gladbeck: Das Geiseldrama
+### Gladbeck: The Hostage Crisis
 *Released on 2022-06-08, vote average 7.1*
 
 In August 1988, two armed bank robbers keep German police at bay for 54 hours during a hostage-taking drama that ends in a shootout and three deaths.
@@ -234,33 +227,6 @@ In August 1988, two armed bank robbers keep German police at bay for 54 hours du
 
 
 	
-	
-
-### South Park: The Streaming Wars
-*Released on 2022-06-01, vote average 7.6*
-
-Cartman locks horns with his mom in a battle of wills while an epic conflict unfolds that threatens South Park’s very existence.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/2nByi1v_l5g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 
   
 
@@ -278,38 +244,6 @@ The life of a legendary sea monster hunter is turned upside down when a young gi
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/P-E-IGQCsPo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Broker
-*Released on 2022-06-08, vote average 4*
-
-A group of people, brought together by a baby box, set off on a journey that will lead to destinations they never expected.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/p8jrKedaZvE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -346,91 +280,42 @@ A prisoner in a state-of-the-art penitentiary begins to question the purpose of 
   
 
 
-
-## Opening soon
-
-
 	
 	
 
-### Lightyear
-*Released on 2022-06-15, vote average 6.2*
+### King Tweety
+*Released on 2022-06-13, vote average 6.8*
 
-Legendary Space Ranger Buzz Lightyear embarks on an intergalactic adventure alongside a group of ambitious recruits and his robot companion Sox.
+Everyone&#39;s favorite yellow canary unexpectedly becomes next in line for the crown when the queen of an island paradise disappears. His Little Highness’ entourage includes motorbike daredevil Granny and sly Sylvester, whose allegiance is tested when he uncovers a sinister plot to eliminate Tweety for good.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/VwwxMs-GYN8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/7DBwuCoG2FM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
 	
 
-	
-	
+  
 
-### Minions: The Rise of Gru
-*Released on 2022-06-16, vote average 7.3*
-
-A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/HhIl_XJ-OGA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 
-	
+  
+
 
 	
 
-	
-	
+  
 
-### The Sea Beast
-*Released on 2022-06-15, vote average 6*
-
-The life of a legendary sea monster hunter is turned upside down when a young girl stows away on his ship.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/P-E-IGQCsPo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
-	
 
-	
-	
+  
 
-### Spiderhead
-*Released on 2022-06-15, vote average 2*
-
-A prisoner in a state-of-the-art penitentiary begins to question the purpose of the emotion-controlling drugs he&#39;s testing for a pharmaceutical genius.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Wd_G_rvP3QU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 	
@@ -451,6 +336,58 @@ Convinced the tragic deaths of her loved ones were orchestrated by a famous nove
 	
 	
 
+  
+
+
+	
+
+  
+
+
+
+## Opening soon
+
+
+	
+	
+
+### Minions: The Rise of Gru
+*Released on 2022-06-16, vote average 7.6*
+
+A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/HhIl_XJ-OGA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+	
+
+### Mad God
+*Released on 2022-06-16, vote average 6*
+
+Follow The Assassin through a forbidding world of tortured souls, decrepit bunkers, and wretched monstrosities forged from the most primordial horrors of the subconscious mind.  Every set, creature, and effigy in this macabre masterpiece is hand-crafted and painstakingly animated using traditional stop-motion techniques. MAD GOD is a labor of love, a testament to the power of creative grit, and an homage to the timeless art of stop-motion animation.  Ready your eyes. Ready your spirit. Prepare to meet your maker.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jas8OABbn0Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -470,33 +407,6 @@ Nancy Stokes doesn’t know good sex. Whatever it may be, Nancy, a retired schoo
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
-	
-	
-
-### Mrs. Harris Goes to Paris
-*Released on 2022-06-15, vote average 10*
-
-A new adaptation of Paul Gallico&#39;s much-loved novel about a cleaning lady in 1950s London who falls in love with an haute couture dress by Christian Dior and decides to gamble everything for the sake of this folly.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/iO9JcPbbmAA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
 	
 
 	
@@ -523,6 +433,12 @@ Inspired by the classic tale of Peter Pan, The Lost Girls chronicles four genera
 	
 
 	
+
+	
+
+	
+
+	
 	
 
 ### Cha Cha Real Smooth
@@ -542,22 +458,19 @@ Fresh out of college and stuck at his New Jersey home without a clear path forwa
 	
 
 	
-	
-
-### Incredible But True
-*Released on 2022-06-15, vote average 8*
-
-Alain and Marie moved to the suburb house of their dreams. But the real estate agent warned them: what is in the basement may well change their lives forever.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/farxNXfFr4A?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 
