@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Dragon Ball Super: Super Hero
-*Released on 2022-06-11, vote average 6.8*
+*Released on 2022-06-11, vote average 7.4*
 
 The Red Ribbon Army, an evil organization that was once destroyed by Goku in the past, has been reformed by a group of people who have created new and mightier Androids, Gamma 1 and Gamma 2, and seek vengeance against Goku and his family.
 
@@ -46,16 +46,16 @@ The Red Ribbon Army, an evil organization that was once destroyed by Goku in the
 	
 	
 
-### Hustle
-*Released on 2022-06-03, vote average 7.8*
+### Lightyear
+*Released on 2022-06-15, vote average 7.3*
 
-After discovering a once-in-a-lifetime player with a rocky past abroad, a down on his luck basketball scout takes it upon himself to bring the phenom to the States without his team&#39;s approval. Against the odds, they have one final shot to prove they have what it takes to make it in the NBA.
+Legendary Space Ranger Buzz Lightyear embarks on an intergalactic adventure alongside a group of ambitious recruits and his robot companion Sox.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/BXTm_arU7Aw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ED1Sg7dBbXo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -90,35 +90,8 @@ A group of queer best friends gather in the Fire Island Pines for their annual w
 	
 	
 
-### Lightyear
-*Released on 2022-06-15, vote average 7.2*
-
-Legendary Space Ranger Buzz Lightyear embarks on an intergalactic adventure alongside a group of ambitious recruits and his robot companion Sox.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ED1Sg7dBbXo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
 ### Beyond Infinity: Buzz and the Journey to Lightyear
-*Released on 2022-06-10, vote average 7.5*
+*Released on 2022-06-10, vote average 7.6*
 
 Explore the evolution of Buzz Lightyear from toy to human in the making of Pixar’s Lightyear. Dive into the origin and cultural impact of everyone’s favorite Space Ranger, the art of designing a new “human Buzz,” and the challenges faced by the Lightyear crew along the way.
 
@@ -127,50 +100,6 @@ Explore the evolution of Buzz Lightyear from toy to human in the making of Pixar
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/UgQbPITUGD0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Minions: The Rise of Gru
-*Released on 2022-06-16, vote average 7.6*
-
-A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/HhIl_XJ-OGA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Hollywood Stargirl
-*Released on 2022-06-03, vote average 7.7*
-
-When Stargirl&#39;s mother is hired as the costume designer on a movie, they relocate to L.A., where Stargirl quickly becomes involved with an eclectic assortment of characters.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/F5BVUR0BsMk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -203,11 +132,48 @@ A young man in a tricky situation follows the advice of his unconventional best 
 
 
 	
+	
+
+### Minions: The Rise of Gru
+*Released on 2022-06-16, vote average 7.5*
+
+A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/HhIl_XJ-OGA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
 	
+
+  
+
+
+	
+	
+
+### King Tweety
+*Released on 2022-06-13, vote average 7.1*
+
+Everyone&#39;s favorite yellow canary unexpectedly becomes next in line for the crown when the queen of an island paradise disappears. His Little Highness’ entourage includes motorbike daredevil Granny and sly Sylvester, whose allegiance is tested when he uncovers a sinister plot to eliminate Tweety for good.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/7DBwuCoG2FM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -218,7 +184,7 @@ A young man in a tricky situation follows the advice of his unconventional best 
 	
 
 ### Gladbeck: The Hostage Crisis
-*Released on 2022-06-08, vote average 7.1*
+*Released on 2022-06-08, vote average 7*
 
 In August 1988, two armed bank robbers keep German police at bay for 54 hours during a hostage-taking drama that ends in a shootout and three deaths.
 
@@ -238,17 +204,46 @@ In August 1988, two armed bank robbers keep German police at bay for 54 hours du
 
 	
 	
+	
 
-### King Tweety
-*Released on 2022-06-13, vote average 6.7*
+  
 
-Everyone&#39;s favorite yellow canary unexpectedly becomes next in line for the crown when the queen of an island paradise disappears. His Little Highness’ entourage includes motorbike daredevil Granny and sly Sylvester, whose allegiance is tested when he uncovers a sinister plot to eliminate Tweety for good.
+
+	
+	
+
+### Mad God
+*Released on 2022-06-16, vote average 6*
+
+Follow The Assassin through a forbidding world of tortured souls, decrepit bunkers, and wretched monstrosities forged from the most primordial horrors of the subconscious mind.  Every set, creature, and effigy in this macabre masterpiece is hand-crafted and painstakingly animated using traditional stop-motion techniques. MAD GOD is a labor of love, a testament to the power of creative grit, and an homage to the timeless art of stop-motion animation.  Ready your eyes. Ready your spirit. Prepare to meet your maker.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/7DBwuCoG2FM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/jas8OABbn0Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Centauro
+*Released on 2022-06-15, vote average 6.7*
+
+Rafa&#39;s hooked on the pure, fiery feelings he gets from speed racing, but when his kid&#39;s mom gets mixed up with drug dealers, he burns rubber to save her.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/p8CXKceGvAo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -270,7 +265,7 @@ A prisoner in a state-of-the-art penitentiary begins to question the purpose of 
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Wd_G_rvP3QU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/mmZqK8v4NjU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -283,16 +278,16 @@ A prisoner in a state-of-the-art penitentiary begins to question the purpose of 
 	
 	
 
-### The Wrath of God
-*Released on 2022-06-15, vote average 4.6*
+### The Lost Girls
+*Released on 2022-06-17, vote average 7.7*
 
-Convinced the tragic deaths of her loved ones were orchestrated by a famous novelist she worked for, Luciana turns to a journalist to expose her truth.
+Inspired by the classic tale of Peter Pan, The Lost Girls chronicles four generations of Darling women as they struggle in the aftermath of their adventures with Peter Pan in Neverland. Like her grandmother and her mother Jane before her, Wendy must escape Pan’s hold on her and the promise he desperately wants her to keep. As her daughter Berry comes into Peter’s orbit, Wendy must fight to save her relationship with her daughter while reconciling her legacy.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/rCl3iDhNdms?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/j3g18XVwCaM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -301,111 +296,6 @@ Convinced the tragic deaths of her loved ones were orchestrated by a famous nove
 
   
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Isolated
-*Released on 2022-06-14, vote average 3*
-
-A woman wakes up trapped inside a room with no memory of who she is or how she got there. As she fights to find a way to escape, she starts to remember things from her past that lead her to question not only where she might be, but also what she might be.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/h1ADhCftNaE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Centauro
-*Released on 2022-06-15, vote average 6.9*
-
-Rafa&#39;s hooked on the pure, fiery feelings he gets from speed racing, but when his kid&#39;s mom gets mixed up with drug dealers, he burns rubber to save her.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/p8CXKceGvAo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-
-## Opening soon
-
-
-	
-
-	
-
-	
-	
-
-### The Sea Beast
-*Released on 2022-06-24, vote average 6*
-
-The life of a legendary sea monster hunter is turned upside down when a young girl stows away on his ship.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/P-E-IGQCsPo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### Cha Cha Real Smooth
-*Released on 2022-06-17, vote average 10*
-
-Fresh out of college and stuck at his New Jersey home without a clear path forward, 22-year-old Andrew begins working as a party starter for bar/bat mitzvahs—where he strikes up a unique friendship with a young mom and her teenage daughter.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xg17CQrmY8E?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
 	
 	
@@ -426,23 +316,101 @@ Nancy Stokes doesn’t know good sex. Whatever it may be, Nancy, a retired schoo
 	
 	
 
+  
+
+
+	
 	
 	
 
-### The Lost Girls
-*Released on 2022-06-17, vote average 7.7*
+  
 
-Inspired by the classic tale of Peter Pan, The Lost Girls chronicles four generations of Darling women as they struggle in the aftermath of their adventures with Peter Pan in Neverland. Like her grandmother and her mother Jane before her, Wendy must escape Pan’s hold on her and the promise he desperately wants her to keep. As her daughter Berry comes into Peter’s orbit, Wendy must fight to save her relationship with her daughter while reconciling her legacy.
+
+	
+	
+
+### Terror on the Prairie
+*Released on 2022-06-14, vote average 8*
+
+A pioneering family fights back against a gang of vicious outlaws that is terrorizing them on their newly-built farm on the plains of Montana.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/j3g18XVwCaM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/zCYVBMXI8zw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Cha Cha Real Smooth
+*Released on 2022-06-17, vote average 9.3*
+
+Fresh out of college and stuck at his New Jersey home without a clear path forward, 22-year-old Andrew begins working as a party starter for bar/bat mitzvahs—where he strikes up a unique friendship with a young mom and her teenage daughter.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xg17CQrmY8E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Jennifer Lopez:  Halftime
+*Released on 2022-06-08, vote average 7.2*
+
+Global superstar Jennifer Lopez reflects on her multifaceted career and the pressure of life in the spotlight in this intimate documentary.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/rpMZOZTqcQw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+
+## Opening soon
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
