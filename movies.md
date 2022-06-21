@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Dragon Ball Super: Super Hero
-*Released on 2022-06-11, vote average 7.6*
+*Released on 2022-06-11, vote average 8*
 
 The Red Ribbon Army, an evil organization that was once destroyed by Goku in the past, has been reformed by a group of people who have created new and mightier Androids, Gamma 1 and Gamma 2, and seek vengeance against Goku and his family.
 
@@ -69,7 +69,7 @@ Legendary Space Ranger Buzz Lightyear embarks on an intergalactic adventure alon
 	
 
 ### Beyond Infinity: Buzz and the Journey to Lightyear
-*Released on 2022-06-10, vote average 7.6*
+*Released on 2022-06-10, vote average 7.5*
 
 Explore the evolution of Buzz Lightyear from toy to human in the making of Pixar’s Lightyear. Dive into the origin and cultural impact of everyone’s favorite Space Ranger, the art of designing a new “human Buzz,” and the challenges faced by the Lightyear crew along the way.
 
@@ -154,6 +154,28 @@ A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan
 
 
 	
+	
+
+### Ip Man: The Awakening
+*Released on 2022-06-21, vote average 6.8*
+
+When a young Master Ip stops a kidnapping, he ignites a turf war with a ruthless human trafficking ring. In retaliation, the gang kidnaps one of Ip Man’s close friends, forcing him to face the group’s brutal boxing champion head-on.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/yVCiktvgHb4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
 
   
 
@@ -162,7 +184,7 @@ A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan
 	
 
 ### King Tweety
-*Released on 2022-06-13, vote average 6.7*
+*Released on 2022-06-13, vote average 7*
 
 Everyone&#39;s favorite yellow canary unexpectedly becomes next in line for the crown when the queen of an island paradise disappears. His Little Highness’ entourage includes motorbike daredevil Granny and sly Sylvester, whose allegiance is tested when he uncovers a sinister plot to eliminate Tweety for good.
 
@@ -181,50 +203,6 @@ Everyone&#39;s favorite yellow canary unexpectedly becomes next in line for the 
 
 
 	
-	
-	
-
-  
-
-
-	
-	
-
-### Mad God
-*Released on 2022-06-16, vote average 7.3*
-
-Follow The Assassin through a forbidding world of tortured souls, decrepit bunkers, and wretched monstrosities forged from the most primordial horrors of the subconscious mind.  Every set, creature, and effigy in this macabre masterpiece is hand-crafted and painstakingly animated using traditional stop-motion techniques. MAD GOD is a labor of love, a testament to the power of creative grit, and an homage to the timeless art of stop-motion animation.  Ready your eyes. Ready your spirit. Prepare to meet your maker.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jas8OABbn0Y?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Gladbeck: The Hostage Crisis
-*Released on 2022-06-08, vote average 7.1*
-
-In August 1988, two armed bank robbers keep German police at bay for 54 hours during a hostage-taking drama that ends in a shootout and three deaths.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/61yP5BRLhUE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
 	
 
@@ -257,7 +235,7 @@ Rafa&#39;s hooked on the pure, fiery feelings he gets from speed racing, but whe
 	
 
 ### Spiderhead
-*Released on 2022-06-15, vote average 6.2*
+*Released on 2022-06-15, vote average 5.7*
 
 A prisoner in a state-of-the-art penitentiary begins to question the purpose of the emotion-controlling drugs he&#39;s testing for a pharmaceutical genius.
 
@@ -265,29 +243,7 @@ A prisoner in a state-of-the-art penitentiary begins to question the purpose of 
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/mmZqK8v4NjU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Lost Girls
-*Released on 2022-06-17, vote average 7*
-
-Inspired by the classic tale of Peter Pan, The Lost Girls chronicles four generations of Darling women as they struggle in the aftermath of their adventures with Peter Pan in Neverland. Like her grandmother and her mother Jane before her, Wendy must escape Pan’s hold on her and the promise he desperately wants her to keep. As her daughter Berry comes into Peter’s orbit, Wendy must fight to save her relationship with her daughter while reconciling her legacy.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/j3g18XVwCaM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/VS_ub1QaIYQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -301,7 +257,7 @@ Inspired by the classic tale of Peter Pan, The Lost Girls chronicles four genera
 	
 
 ### Good Luck to You, Leo Grande
-*Released on 2022-06-17, vote average 7.2*
+*Released on 2022-06-17, vote average 7.4*
 
 Nancy Stokes doesn’t know good sex. Whatever it may be, Nancy, a retired schoolteacher, is pretty sure she has never had it, but she is determined to finally do something about that. She even has a plan: It involves an anonymous hotel room, and a young sex worker who calls himself Leo Grande.
 
@@ -330,7 +286,7 @@ Nancy Stokes doesn’t know good sex. Whatever it may be, Nancy, a retired schoo
 	
 
 ### Cha Cha Real Smooth
-*Released on 2022-06-17, vote average 8.1*
+*Released on 2022-06-17, vote average 7.7*
 
 Fresh out of college and stuck at his New Jersey home without a clear path forward, 22-year-old Andrew begins working as a party starter for bar/bat mitzvahs—where he strikes up a unique friendship with a young mom and her teenage daughter.
 
@@ -396,7 +352,7 @@ Global superstar Jennifer Lopez reflects on her multifaceted career and the pres
 	
 
 ### Collision
-*Released on 2022-06-16, vote average 6.7*
+*Released on 2022-06-16, vote average 6.6*
 
 Over the course of one fateful day, a corrupt businessman and his socialite wife race to save their daughter from a notorious crime lord.
 
@@ -414,6 +370,50 @@ Over the course of one fateful day, a corrupt businessman and his socialite wife
   
 
 
+	
+	
+
+### Mad God
+*Released on 2022-06-16, vote average 7.4*
+
+Follow The Assassin through a forbidding world of tortured souls, decrepit bunkers, and wretched monstrosities forged from the most primordial horrors of the subconscious mind.  Every set, creature, and effigy in this macabre masterpiece is hand-crafted and painstakingly animated using traditional stop-motion techniques. MAD GOD is a labor of love, a testament to the power of creative grit, and an homage to the timeless art of stop-motion animation.  Ready your eyes. Ready your spirit. Prepare to meet your maker.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jas8OABbn0Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Lost Girls
+*Released on 2022-06-17, vote average 6.1*
+
+Inspired by the classic tale of Peter Pan, The Lost Girls chronicles four generations of Darling women as they struggle in the aftermath of their adventures with Peter Pan in Neverland. Like her grandmother and her mother Jane before her, Wendy must escape Pan’s hold on her and the promise he desperately wants her to keep. As her daughter Berry comes into Peter’s orbit, Wendy must fight to save her relationship with her daughter while reconciling her legacy.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/j3g18XVwCaM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -422,7 +422,7 @@ Over the course of one fateful day, a corrupt businessman and his socialite wife
 	
 
 ### Ip Man: The Awakening
-*Released on 2022-06-21, vote average 7.2*
+*Released on 2022-06-21, vote average 6.8*
 
 When a young Master Ip stops a kidnapping, he ignites a turf war with a ruthless human trafficking ring. In retaliation, the gang kidnaps one of Ip Man’s close friends, forcing him to face the group’s brutal boxing champion head-on.
 
@@ -438,11 +438,28 @@ When a young Master Ip stops a kidnapping, he ignites a turf war with a ruthless
 	
 
 	
-
 	
 
+### Elvis
+*Released on 2022-06-22, vote average 8.3*
+
+The life story of Elvis Presley as seen through the complicated relationship with his enigmatic manager, Colonel Tom Parker.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kw1VA7j-64w?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
+
+	
+	
+	
+
 	
 
 	
