@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Beyond Infinity: Buzz and the Journey to Lightyear
-*Released on 2022-06-10, vote average 7.5*
+*Released on 2022-06-10, vote average 7.4*
 
 Explore the evolution of Buzz Lightyear from toy to human in the making of Pixar’s Lightyear. Dive into the origin and cultural impact of everyone’s favorite Space Ranger, the art of designing a new “human Buzz,” and the challenges faced by the Lightyear crew along the way.
 
@@ -47,7 +47,7 @@ Explore the evolution of Buzz Lightyear from toy to human in the making of Pixar
 	
 
 ### Lightyear
-*Released on 2022-06-15, vote average 7*
+*Released on 2022-06-15, vote average 6.9*
 
 Legendary Space Ranger Buzz Lightyear embarks on an intergalactic adventure alongside a group of ambitious recruits and his robot companion Sox.
 
@@ -90,74 +90,8 @@ The Red Ribbon Army, an evil organization that was once destroyed by Goku in the
 	
 	
 
-### Fire Island
-*Released on 2022-06-09, vote average 6.7*
-
-A group of queer best friends gather in the Fire Island Pines for their annual week of love and laughter, but when a sudden change of events jeopardizes their summer in gay paradise, their bonds as a chosen family are pushed to the limit.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/O_jpjO89Vks?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Minions: The Rise of Gru
-*Released on 2022-06-16, vote average 8*
-
-A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/HhIl_XJ-OGA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### My Fake Boyfriend
-*Released on 2022-06-10, vote average 6.4*
-
-A young man in a tricky situation follows the advice of his unconventional best friend and uses social media to create a fake boyfriend to keep his awful ex-lover out of his life. But everything backfires when he meets the real love of his life, and breaking up with his fake boyfriend proves hard to do.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/sGqRPJqqkJ4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### King Tweety
-*Released on 2022-06-13, vote average 7.2*
+*Released on 2022-06-13, vote average 7.1*
 
 Everyone&#39;s favorite yellow canary unexpectedly becomes next in line for the crown when the queen of an island paradise disappears. His Little Highness’ entourage includes motorbike daredevil Granny and sly Sylvester, whose allegiance is tested when he uncovers a sinister plot to eliminate Tweety for good.
 
@@ -177,27 +111,27 @@ Everyone&#39;s favorite yellow canary unexpectedly becomes next in line for the 
 
 	
 	
-
-### Ip Man: The Awakening
-*Released on 2022-06-21, vote average 7.1*
-
-When a young Master Ip stops a kidnapping, he ignites a turf war with a ruthless human trafficking ring. In retaliation, the gang kidnaps one of Ip Man’s close friends, forcing him to face the group’s brutal boxing champion head-on.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/yVCiktvgHb4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
 
 
 	
+	
+
+### Minions: The Rise of Gru
+*Released on 2022-06-16, vote average 7.9*
+
+A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/HhIl_XJ-OGA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -250,6 +184,101 @@ A prisoner in a state-of-the-art penitentiary begins to question the purpose of 
 
 	
 	
+	
+
+  
+
+
+	
+	
+
+### My Fake Boyfriend
+*Released on 2022-06-10, vote average 6.4*
+
+A young man in a tricky situation follows the advice of his unconventional best friend and uses social media to create a fake boyfriend to keep his awful ex-lover out of his life. But everything backfires when he meets the real love of his life, and breaking up with his fake boyfriend proves hard to do.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/sGqRPJqqkJ4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Ip Man: The Awakening
+*Released on 2022-06-21, vote average 7.2*
+
+When a young Master Ip stops a kidnapping, he ignites a turf war with a ruthless human trafficking ring. In retaliation, the gang kidnaps one of Ip Man’s close friends, forcing him to face the group’s brutal boxing champion head-on.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/yVCiktvgHb4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Collision
+*Released on 2022-06-16, vote average 6.1*
+
+Over the course of one fateful day, a corrupt businessman and his socialite wife race to save their daughter from a notorious crime lord.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/UmDxTrJa3XA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Cha Cha Real Smooth
+*Released on 2022-06-17, vote average 7.3*
+
+Fresh out of college and stuck at his New Jersey home without a clear path forward, 22-year-old Andrew begins working as a party starter for bar/bat mitzvahs—where he strikes up a unique friendship with a young mom and her teenage daughter.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xg17CQrmY8E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
 
 ### The Witch: Part 2. The Other One
 *Released on 2022-06-15, vote average 4.5*
@@ -272,13 +301,6 @@ A girl wakes up in a huge secret laboratory. then accidentally meets another gir
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Elvis
 *Released on 2022-06-22, vote average 8.1*
@@ -289,73 +311,7 @@ The life story of Elvis Presley as seen through the complicated relationship wit
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/kw1VA7j-64w?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Collision
-*Released on 2022-06-16, vote average 6.4*
-
-Over the course of one fateful day, a corrupt businessman and his socialite wife race to save their daughter from a notorious crime lord.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/UmDxTrJa3XA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Cha Cha Real Smooth
-*Released on 2022-06-17, vote average 7.4*
-
-Fresh out of college and stuck at his New Jersey home without a clear path forward, 22-year-old Andrew begins working as a party starter for bar/bat mitzvahs—where he strikes up a unique friendship with a young mom and her teenage daughter.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/xg17CQrmY8E?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Good Neighbor
-*Released on 2022-06-17, vote average 6.5*
-
-A nightmarish evening unfolds for David, a former New York Times journalist, when he and his strange new neighbor Robert, accidentally hit a girl on her bike. Buzzed and disoriented, David lets Robert convince him to flee the scene and leave the girl for dead, in order to protect his career. Robert shows no remorse, and in the name of friendship he does unspeakable things to protect the secret. Now that the police are full-on hunting for the hit-and-run killer, things begin to spiral out of control when David’s local newspaper sends him to cover the story where he meets the deceased girl’s sister Vanessa. Despite the circumstances, and her deep desire to find her sister’s killer, the two immediately have a romantic connection, which surprises and haunts David, while pushing Robert to take brutal steps to keep his new friend to himself.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hYUtMkRUkjs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Fb1PECm0Jh8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -390,8 +346,30 @@ Nancy Stokes doesn’t know good sex. Whatever it may be, Nancy, a retired schoo
 	
 	
 
+### The Good Neighbor
+*Released on 2022-06-17, vote average 6.7*
+
+A nightmarish evening unfolds for David, a former New York Times journalist, when he and his strange new neighbor Robert, accidentally hit a girl on her bike. Buzzed and disoriented, David lets Robert convince him to flee the scene and leave the girl for dead, in order to protect his career. Robert shows no remorse, and in the name of friendship he does unspeakable things to protect the secret. Now that the police are full-on hunting for the hit-and-run killer, things begin to spiral out of control when David’s local newspaper sends him to cover the story where he meets the deceased girl’s sister Vanessa. Despite the circumstances, and her deep desire to find her sister’s killer, the two immediately have a romantic connection, which surprises and haunts David, while pushing Robert to take brutal steps to keep his new friend to himself.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hYUtMkRUkjs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Jerry &amp; Marge Go Large
-*Released on 2022-06-15, vote average 6.8*
+*Released on 2022-06-15, vote average 7.2*
 
 The remarkable true story of how retiree Jerry Selbee discovers a mathematical loophole in the Massachusetts lottery and, with the help of his wife, Marge, wins $27 million dollars and uses the money to revive their small Michigan town.
 
@@ -431,6 +409,11 @@ A figure known as &#34;The Assassin&#34; descends from the heavens into a nightm
   
 
 
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -442,14 +425,6 @@ A figure known as &#34;The Assassin&#34; descends from the heavens into a nightm
 	
 
 	
-
-	
-
-	
-
-	
-
-	
 	
 	
 
@@ -460,47 +435,23 @@ A figure known as &#34;The Assassin&#34; descends from the heavens into a nightm
 	
 
 	
-	
 
-### My Sassy Girl
-*Released on 2022-06-23, vote average 10*
-
-Gian, a young man saves Sisy, a woman who makes drunk, depressed and wants to kill herself at a train station at night. Their love story started from this.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/IEm0t4YW0Xw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
-	
 
-### Cop Secret
-*Released on 2022-06-23, vote average 5*
-
-Iceland’s toughest cop will stop at nothing to solve a string of violent bank robberies. But when he is forced to take on a new partner, the pressures of solving the case prove too much for the tough-as-nails renegade.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/63OdtSiAt-I?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
 
 	
 
+	
+
+	
+
+	
+	
 	
 
 	
