@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Beyond Infinity: Buzz and the Journey to Lightyear
-*Released on 2022-06-10, vote average 7.4*
+### Lightyear
+*Released on 2022-06-15, vote average 7*
 
-Explore the evolution of Buzz Lightyear from toy to human in the making of Pixar’s Lightyear. Dive into the origin and cultural impact of everyone’s favorite Space Ranger, the art of designing a new “human Buzz,” and the challenges faced by the Lightyear crew along the way.
+Legendary Space Ranger Buzz Lightyear embarks on an intergalactic adventure alongside a group of ambitious recruits and his robot companion Sox.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/UgQbPITUGD0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/DmZGrhz4tAY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -40,28 +40,6 @@ Explore the evolution of Buzz Lightyear from toy to human in the making of Pixar
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-
-
-	
-	
-
-### Lightyear
-*Released on 2022-06-15, vote average 6.9*
-
-Legendary Space Ranger Buzz Lightyear embarks on an intergalactic adventure alongside a group of ambitious recruits and his robot companion Sox.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/DmZGrhz4tAY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
   
 
 
@@ -89,9 +67,16 @@ The Red Ribbon Army, an evil organization that was once destroyed by Goku in the
 
 	
 	
+	
+
+  
+
+
+	
+	
 
 ### King Tweety
-*Released on 2022-06-13, vote average 7.1*
+*Released on 2022-06-13, vote average 7.3*
 
 Everyone&#39;s favorite yellow canary unexpectedly becomes next in line for the crown when the queen of an island paradise disappears. His Little Highness’ entourage includes motorbike daredevil Granny and sly Sylvester, whose allegiance is tested when he uncovers a sinister plot to eliminate Tweety for good.
 
@@ -100,35 +85,6 @@ Everyone&#39;s favorite yellow canary unexpectedly becomes next in line for the 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/7DBwuCoG2FM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Minions: The Rise of Gru
-*Released on 2022-06-16, vote average 7.9*
-
-A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/HhIl_XJ-OGA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -192,16 +148,60 @@ A prisoner in a state-of-the-art penitentiary begins to question the purpose of 
 	
 	
 
-### My Fake Boyfriend
-*Released on 2022-06-10, vote average 6.4*
+### Minions: The Rise of Gru
+*Released on 2022-06-16, vote average 7.9*
 
-A young man in a tricky situation follows the advice of his unconventional best friend and uses social media to create a fake boyfriend to keep his awful ex-lover out of his life. But everything backfires when he meets the real love of his life, and breaking up with his fake boyfriend proves hard to do.
+A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/sGqRPJqqkJ4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/HhIl_XJ-OGA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Collision
+*Released on 2022-06-16, vote average 6.2*
+
+Over the course of one fateful day, a corrupt businessman and his socialite wife race to save their daughter from a notorious crime lord.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/UmDxTrJa3XA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Cha Cha Real Smooth
+*Released on 2022-06-17, vote average 7.2*
+
+Fresh out of college and stuck at his New Jersey home without a clear path forward, 22-year-old Andrew begins working as a party starter for bar/bat mitzvahs—where he strikes up a unique friendship with a young mom and her teenage daughter.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/xg17CQrmY8E?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -236,38 +236,16 @@ When a young Master Ip stops a kidnapping, he ignites a turf war with a ruthless
 	
 	
 
-### Collision
-*Released on 2022-06-16, vote average 6.1*
+### Elvis
+*Released on 2022-06-22, vote average 7.8*
 
-Over the course of one fateful day, a corrupt businessman and his socialite wife race to save their daughter from a notorious crime lord.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/UmDxTrJa3XA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Cha Cha Real Smooth
-*Released on 2022-06-17, vote average 7.3*
-
-Fresh out of college and stuck at his New Jersey home without a clear path forward, 22-year-old Andrew begins working as a party starter for bar/bat mitzvahs—where he strikes up a unique friendship with a young mom and her teenage daughter.
+The life story of Elvis Presley as seen through the complicated relationship with his enigmatic manager, Colonel Tom Parker.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xg17CQrmY8E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Fb1PECm0Jh8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -302,16 +280,16 @@ A girl wakes up in a huge secret laboratory. then accidentally meets another gir
 	
 	
 
-### Elvis
-*Released on 2022-06-22, vote average 8.1*
+### Good Luck to You, Leo Grande
+*Released on 2022-06-17, vote average 7.4*
 
-The life story of Elvis Presley as seen through the complicated relationship with his enigmatic manager, Colonel Tom Parker.
+Nancy Stokes doesn’t know good sex. Whatever it may be, Nancy, a retired schoolteacher, is pretty sure she has never had it, but she is determined to finally do something about that. She even has a plan: It involves an anonymous hotel room, and a young sex worker who calls himself Leo Grande.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Fb1PECm0Jh8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/pdn8UOh1-Yw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -324,16 +302,16 @@ The life story of Elvis Presley as seen through the complicated relationship wit
 	
 	
 
-### Good Luck to You, Leo Grande
-*Released on 2022-06-17, vote average 7.4*
+### Jerry &amp; Marge Go Large
+*Released on 2022-06-15, vote average 7.3*
 
-Nancy Stokes doesn’t know good sex. Whatever it may be, Nancy, a retired schoolteacher, is pretty sure she has never had it, but she is determined to finally do something about that. She even has a plan: It involves an anonymous hotel room, and a young sex worker who calls himself Leo Grande.
+The remarkable true story of how retiree Jerry Selbee discovers a mathematical loophole in the Massachusetts lottery and, with the help of his wife, Marge, wins $27 million dollars and uses the money to revive their small Michigan town.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/pdn8UOh1-Yw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/DhVVDF0YiNs?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -368,16 +346,16 @@ A nightmarish evening unfolds for David, a former New York Times journalist, whe
 	
 	
 
-### Jerry &amp; Marge Go Large
-*Released on 2022-06-15, vote average 7.2*
+### Love &amp; Gelato
+*Released on 2022-06-22, vote average 5.4*
 
-The remarkable true story of how retiree Jerry Selbee discovers a mathematical loophole in the Massachusetts lottery and, with the help of his wife, Marge, wins $27 million dollars and uses the money to revive their small Michigan town.
+Lina is about to graduate high school and has her sights set on her future at MIT. But when her mom gets sick, she encourages Lina to follow in her footsteps and have “the summer of a lifetime” in Rome. Using her mom’s old diary as a guide, she explores the romantic and magical city, where she just might find love... and gelato, of course.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/DhVVDF0YiNs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/XIkQFUlBXF0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -388,18 +366,23 @@ The remarkable true story of how retiree Jerry Selbee discovers a mathematical l
 
 
 	
+
+  
+
+
+	
 	
 
-### Mad God
-*Released on 2022-06-16, vote average 7.7*
+### Beavis and Butt-Head Do the Universe
+*Released on 2022-06-23, vote average 7*
 
-A figure known as &#34;The Assassin&#34; descends from the heavens into a nightmarish pit full of monsters, titans and cruelty.
+After a &#34;creative&#34; judge sentences them to space camp, a black hole sends our adolescent heroes 24 years into the modern future where the duo misuse iPhones, embark on a quest to score, and become targets of the Deep State.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/jas8OABbn0Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/EaHbTnA3qSA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -425,8 +408,6 @@ A figure known as &#34;The Assassin&#34; descends from the heavens into a nightm
 	
 
 	
-	
-	
 
 	
 
@@ -450,8 +431,6 @@ A figure known as &#34;The Assassin&#34; descends from the heavens into a nightm
 
 	
 
-	
-	
 	
 
 	
