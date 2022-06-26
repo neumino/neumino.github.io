@@ -45,50 +45,6 @@ Legendary Space Ranger Buzz Lightyear embarks on an intergalactic adventure alon
 
 	
 	
-
-### Dragon Ball Super: Super Hero
-*Released on 2022-06-11, vote average 8.3*
-
-The Red Ribbon Army, an evil organization that was once destroyed by Goku in the past, has been reformed by a group of people who have created new and mightier Androids, Gamma 1 and Gamma 2, and seek vengeance against Goku and his family.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/W9JHZwtObqs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### King Tweety
-*Released on 2022-06-13, vote average 7.3*
-
-Everyone&#39;s favorite yellow canary unexpectedly becomes next in line for the crown when the queen of an island paradise disappears. His Little Highness’ entourage includes motorbike daredevil Granny and sly Sylvester, whose allegiance is tested when he uncovers a sinister plot to eliminate Tweety for good.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/7DBwuCoG2FM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -140,24 +96,17 @@ A prisoner in a state-of-the-art penitentiary begins to question the purpose of 
 
 	
 	
-	
 
-  
+### King Tweety
+*Released on 2022-06-13, vote average 7.2*
 
-
-	
-	
-
-### Minions: The Rise of Gru
-*Released on 2022-06-16, vote average 7.9*
-
-A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.
+Everyone&#39;s favorite yellow canary unexpectedly becomes next in line for the crown when the queen of an island paradise disappears. His Little Highness’ entourage includes motorbike daredevil Granny and sly Sylvester, whose allegiance is tested when he uncovers a sinister plot to eliminate Tweety for good.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/HhIl_XJ-OGA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/7DBwuCoG2FM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -192,16 +141,16 @@ Over the course of one fateful day, a corrupt businessman and his socialite wife
 	
 	
 
-### Cha Cha Real Smooth
-*Released on 2022-06-17, vote average 7.2*
+### Minions: The Rise of Gru
+*Released on 2022-06-16, vote average 7.9*
 
-Fresh out of college and stuck at his New Jersey home without a clear path forward, 22-year-old Andrew begins working as a party starter for bar/bat mitzvahs—where he strikes up a unique friendship with a young mom and her teenage daughter.
+A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xg17CQrmY8E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/HhIl_XJ-OGA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -213,17 +162,24 @@ Fresh out of college and stuck at his New Jersey home without a clear path forwa
 
 	
 	
+	
 
-### Ip Man: The Awakening
-*Released on 2022-06-21, vote average 7.2*
+  
 
-When a young Master Ip stops a kidnapping, he ignites a turf war with a ruthless human trafficking ring. In retaliation, the gang kidnaps one of Ip Man’s close friends, forcing him to face the group’s brutal boxing champion head-on.
+
+	
+	
+
+### Cha Cha Real Smooth
+*Released on 2022-06-17, vote average 7.2*
+
+Fresh out of college and stuck at his New Jersey home without a clear path forward, 22-year-old Andrew begins working as a party starter for bar/bat mitzvahs—where he strikes up a unique friendship with a young mom and her teenage daughter.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/yVCiktvgHb4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/xg17CQrmY8E?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -280,16 +236,16 @@ A girl wakes up in a huge secret laboratory. then accidentally meets another gir
 	
 	
 
-### Good Luck to You, Leo Grande
-*Released on 2022-06-17, vote average 7.4*
+### Ip Man: The Awakening
+*Released on 2022-06-21, vote average 7.3*
 
-Nancy Stokes doesn’t know good sex. Whatever it may be, Nancy, a retired schoolteacher, is pretty sure she has never had it, but she is determined to finally do something about that. She even has a plan: It involves an anonymous hotel room, and a young sex worker who calls himself Leo Grande.
+When a young Master Ip stops a kidnapping, he ignites a turf war with a ruthless human trafficking ring. In retaliation, the gang kidnaps one of Ip Man’s close friends, forcing him to face the group’s brutal boxing champion head-on.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/pdn8UOh1-Yw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/yVCiktvgHb4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -324,6 +280,94 @@ The remarkable true story of how retiree Jerry Selbee discovers a mathematical l
 	
 	
 
+### Love &amp; Gelato
+*Released on 2022-06-22, vote average 5.3*
+
+Lina is about to graduate high school and has her sights set on her future at MIT. But when her mom gets sick, she encourages Lina to follow in her footsteps and have “the summer of a lifetime” in Rome. Using her mom’s old diary as a guide, she explores the romantic and magical city, where she just might find love... and gelato, of course.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/XIkQFUlBXF0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Good Luck to You, Leo Grande
+*Released on 2022-06-17, vote average 7.3*
+
+Nancy Stokes doesn’t know good sex. Whatever it may be, Nancy, a retired schoolteacher, is pretty sure she has never had it, but she is determined to finally do something about that. She even has a plan: It involves an anonymous hotel room, and a young sex worker who calls himself Leo Grande.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pdn8UOh1-Yw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Beavis and Butt-Head Do the Universe
+*Released on 2022-06-23, vote average 7.4*
+
+After a &#34;creative&#34; judge sentences them to space camp, a black hole sends our adolescent heroes 24 years into the modern future where the duo misuse iPhones, embark on a quest to score, and become targets of the Deep State.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EaHbTnA3qSA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Man From Toronto
+*Released on 2022-06-24, vote average 5.9*
+
+In a case of mistaken identity, the world’s deadliest assassin, known as the Man from Toronto, and a New York City screw-up are forced to team up after being confused for each other at an Airbnb.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/T4mb7yh4xKA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### The Good Neighbor
 *Released on 2022-06-17, vote average 6.7*
 
@@ -346,16 +390,16 @@ A nightmarish evening unfolds for David, a former New York Times journalist, whe
 	
 	
 
-### Love &amp; Gelato
-*Released on 2022-06-22, vote average 5.4*
+### Rise
+*Released on 2022-06-23, vote average 7.6*
 
-Lina is about to graduate high school and has her sights set on her future at MIT. But when her mom gets sick, she encourages Lina to follow in her footsteps and have “the summer of a lifetime” in Rome. Using her mom’s old diary as a guide, she explores the romantic and magical city, where she just might find love... and gelato, of course.
+After emigrating to Greece from Nigeria, Vera and Charles Antetokounmpo struggled to survive and provide for their five children, while living under the daily threat of deportation. Desperate to obtain Greek citizenship but undermined by a system that blocked them at every turn, the family&#39;s vision, determination and faith lifted them out of obscurity to launch the careers of three NBA champions.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/XIkQFUlBXF0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/numzJtJWT8c?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -366,32 +410,22 @@ Lina is about to graduate high school and has her sights set on her future at MI
 
 
 	
-
-  
-
-
-	
 	
 
-### Beavis and Butt-Head Do the Universe
-*Released on 2022-06-23, vote average 7*
+### Virgin Forest
+*Released on 2022-06-24, vote average 4*
 
-After a &#34;creative&#34; judge sentences them to space camp, a black hole sends our adolescent heroes 24 years into the modern future where the duo misuse iPhones, embark on a quest to score, and become targets of the Deep State.
+A photographer is tasked to take a photo of a rare flower thriving in the mountain, but he discovers women trapped in a hidden brothel for illegal loggers.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/EaHbTnA3qSA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/yGFHH1tJ6EM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
 	
 
   
