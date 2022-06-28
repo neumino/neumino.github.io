@@ -11,21 +11,6 @@ This is a convenient page that embeds trailers of movies released in the past
 
 	
 	
-
-### Lightyear
-*Released on 2022-06-15, vote average 7*
-
-Legendary Space Ranger Buzz Lightyear embarks on an intergalactic adventure alongside a group of ambitious recruits and his robot companion Sox.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/DmZGrhz4tAY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -45,6 +30,21 @@ Legendary Space Ranger Buzz Lightyear embarks on an intergalactic adventure alon
 
 	
 	
+
+### Lightyear
+*Released on 2022-06-15, vote average 7*
+
+Legendary Space Ranger Buzz Lightyear embarks on an intergalactic adventure alongside a group of ambitious recruits and his robot companion Sox.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/DmZGrhz4tAY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -54,7 +54,7 @@ Legendary Space Ranger Buzz Lightyear embarks on an intergalactic adventure alon
 	
 
 ### Centauro
-*Released on 2022-06-15, vote average 6.8*
+*Released on 2022-06-15, vote average 6.6*
 
 Rafa&#39;s hooked on the pure, fiery feelings he gets from speed racing, but when his kid&#39;s mom gets mixed up with drug dealers, he burns rubber to save her.
 
@@ -76,7 +76,7 @@ Rafa&#39;s hooked on the pure, fiery feelings he gets from speed racing, but whe
 	
 
 ### Spiderhead
-*Released on 2022-06-15, vote average 5.7*
+*Released on 2022-06-15, vote average 5.6*
 
 A prisoner in a state-of-the-art penitentiary begins to question the purpose of the emotion-controlling drugs he&#39;s testing for a pharmaceutical genius.
 
@@ -97,30 +97,8 @@ A prisoner in a state-of-the-art penitentiary begins to question the purpose of 
 	
 	
 
-### King Tweety
-*Released on 2022-06-13, vote average 7.2*
-
-Everyone&#39;s favorite yellow canary unexpectedly becomes next in line for the crown when the queen of an island paradise disappears. His Little Highness’ entourage includes motorbike daredevil Granny and sly Sylvester, whose allegiance is tested when he uncovers a sinister plot to eliminate Tweety for good.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/7DBwuCoG2FM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Collision
-*Released on 2022-06-16, vote average 6.2*
+*Released on 2022-06-16, vote average 6*
 
 Over the course of one fateful day, a corrupt businessman and his socialite wife race to save their daughter from a notorious crime lord.
 
@@ -142,7 +120,7 @@ Over the course of one fateful day, a corrupt businessman and his socialite wife
 	
 
 ### Minions: The Rise of Gru
-*Released on 2022-06-16, vote average 7.9*
+*Released on 2022-06-16, vote average 8.1*
 
 A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.
 
@@ -171,7 +149,7 @@ A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan
 	
 
 ### Cha Cha Real Smooth
-*Released on 2022-06-17, vote average 7.2*
+*Released on 2022-06-17, vote average 7.1*
 
 Fresh out of college and stuck at his New Jersey home without a clear path forward, 22-year-old Andrew begins working as a party starter for bar/bat mitzvahs—where he strikes up a unique friendship with a young mom and her teenage daughter.
 
@@ -193,7 +171,7 @@ Fresh out of college and stuck at his New Jersey home without a clear path forwa
 	
 
 ### Elvis
-*Released on 2022-06-22, vote average 7.8*
+*Released on 2022-06-22, vote average 7.9*
 
 The life story of Elvis Presley as seen through the complicated relationship with his enigmatic manager, Colonel Tom Parker.
 
@@ -202,50 +180,6 @@ The life story of Elvis Presley as seen through the complicated relationship wit
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/Fb1PECm0Jh8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Witch: Part 2. The Other One
-*Released on 2022-06-15, vote average 4.5*
-
-A girl wakes up in a huge secret laboratory. then accidentally meets another girl who is trying to protect her house from a gang. The mystery girl overthrows the gang with her unexpected powers, and laboratory staff set out to find her.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jhF5zIGJsXs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Ip Man: The Awakening
-*Released on 2022-06-21, vote average 7.3*
-
-When a young Master Ip stops a kidnapping, he ignites a turf war with a ruthless human trafficking ring. In retaliation, the gang kidnaps one of Ip Man’s close friends, forcing him to face the group’s brutal boxing champion head-on.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/yVCiktvgHb4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -280,8 +214,52 @@ The remarkable true story of how retiree Jerry Selbee discovers a mathematical l
 	
 	
 
+### Ip Man: The Awakening
+*Released on 2022-06-21, vote average 7.1*
+
+When a young Master Ip stops a kidnapping, he ignites a turf war with a ruthless human trafficking ring. In retaliation, the gang kidnaps one of Ip Man’s close friends, forcing him to face the group’s brutal boxing champion head-on.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/yVCiktvgHb4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Witch: Part 2. The Other One
+*Released on 2022-06-15, vote average 6.3*
+
+A girl wakes up in a huge secret laboratory. then accidentally meets another girl who is trying to protect her house from a gang. The mystery girl overthrows the gang with her unexpected powers, and laboratory staff set out to find her.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jhF5zIGJsXs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Love &amp; Gelato
-*Released on 2022-06-22, vote average 5.3*
+*Released on 2022-06-22, vote average 5.1*
 
 Lina is about to graduate high school and has her sights set on her future at MIT. But when her mom gets sick, she encourages Lina to follow in her footsteps and have “the summer of a lifetime” in Rome. Using her mom’s old diary as a guide, she explores the romantic and magical city, where she just might find love... and gelato, of course.
 
@@ -302,52 +280,8 @@ Lina is about to graduate high school and has her sights set on her future at MI
 	
 	
 
-### Good Luck to You, Leo Grande
-*Released on 2022-06-17, vote average 7.3*
-
-Nancy Stokes doesn’t know good sex. Whatever it may be, Nancy, a retired schoolteacher, is pretty sure she has never had it, but she is determined to finally do something about that. She even has a plan: It involves an anonymous hotel room, and a young sex worker who calls himself Leo Grande.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pdn8UOh1-Yw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Beavis and Butt-Head Do the Universe
-*Released on 2022-06-23, vote average 7.4*
-
-After a &#34;creative&#34; judge sentences them to space camp, a black hole sends our adolescent heroes 24 years into the modern future where the duo misuse iPhones, embark on a quest to score, and become targets of the Deep State.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EaHbTnA3qSA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### The Man From Toronto
-*Released on 2022-06-24, vote average 5.9*
+*Released on 2022-06-24, vote average 6.1*
 
 In a case of mistaken identity, the world’s deadliest assassin, known as the Man from Toronto, and a New York City screw-up are forced to team up after being confused for each other at an Airbnb.
 
@@ -368,30 +302,8 @@ In a case of mistaken identity, the world’s deadliest assassin, known as the M
 	
 	
 
-### The Good Neighbor
-*Released on 2022-06-17, vote average 6.7*
-
-A nightmarish evening unfolds for David, a former New York Times journalist, when he and his strange new neighbor Robert, accidentally hit a girl on her bike. Buzzed and disoriented, David lets Robert convince him to flee the scene and leave the girl for dead, in order to protect his career. Robert shows no remorse, and in the name of friendship he does unspeakable things to protect the secret. Now that the police are full-on hunting for the hit-and-run killer, things begin to spiral out of control when David’s local newspaper sends him to cover the story where he meets the deceased girl’s sister Vanessa. Despite the circumstances, and her deep desire to find her sister’s killer, the two immediately have a romantic connection, which surprises and haunts David, while pushing Robert to take brutal steps to keep his new friend to himself.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hYUtMkRUkjs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Rise
-*Released on 2022-06-23, vote average 7.6*
+*Released on 2022-06-23, vote average 6.8*
 
 After emigrating to Greece from Nigeria, Vera and Charles Antetokounmpo struggled to survive and provide for their five children, while living under the daily threat of deportation. Desperate to obtain Greek citizenship but undermined by a system that blocked them at every turn, the family&#39;s vision, determination and faith lifted them out of obscurity to launch the careers of three NBA champions.
 
@@ -413,7 +325,7 @@ After emigrating to Greece from Nigeria, Vera and Charles Antetokounmpo struggle
 	
 
 ### Virgin Forest
-*Released on 2022-06-24, vote average 4*
+*Released on 2022-06-24, vote average 3*
 
 A photographer is tasked to take a photo of a rare flower thriving in the mountain, but he discovers women trapped in a hidden brothel for illegal loggers.
 
@@ -422,6 +334,94 @@ A photographer is tasked to take a photo of a rare flower thriving in the mounta
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/yGFHH1tJ6EM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Beavis and Butt-Head Do the Universe
+*Released on 2022-06-23, vote average 6.8*
+
+After a &#34;creative&#34; judge sentences them to space camp, a black hole sends our adolescent heroes 24 years into the modern future where the duo misuse iPhones, embark on a quest to score, and become targets of the Deep State.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EaHbTnA3qSA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Good Neighbor
+*Released on 2022-06-17, vote average 6.3*
+
+A nightmarish evening unfolds for David, a former New York Times journalist, when he and his strange new neighbor Robert, accidentally hit a girl on her bike. Buzzed and disoriented, David lets Robert convince him to flee the scene and leave the girl for dead, in order to protect his career. Robert shows no remorse, and in the name of friendship he does unspeakable things to protect the secret. Now that the police are full-on hunting for the hit-and-run killer, things begin to spiral out of control when David’s local newspaper sends him to cover the story where he meets the deceased girl’s sister Vanessa. Despite the circumstances, and her deep desire to find her sister’s killer, the two immediately have a romantic connection, which surprises and haunts David, while pushing Robert to take brutal steps to keep his new friend to himself.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/hYUtMkRUkjs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Good Luck to You, Leo Grande
+*Released on 2022-06-17, vote average 7.2*
+
+Nancy Stokes doesn’t know good sex. Whatever it may be, Nancy, a retired schoolteacher, is pretty sure she has never had it, but she is determined to finally do something about that. She even has a plan: It involves an anonymous hotel room, and a young sex worker who calls himself Leo Grande.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/pdn8UOh1-Yw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Murder at Yellowstone City
+*Released on 2022-06-24, vote average 6*
+
+A former slave who arrives in Yellowstone City, Montana, a desolate former boomtown now on the decline, looking for a place to call home. On that same day, a local prospector discovers gold - and is murdered.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3b1zQDcyPhw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -450,7 +450,11 @@ A photographer is tasked to take a photo of a rare flower thriving in the mounta
 	
 
 	
+	
+	
 
+	
+	
 	
 
 	
@@ -471,6 +475,8 @@ A photographer is tasked to take a photo of a rare flower thriving in the mounta
 
 	
 
+	
+	
 	
 
 	
