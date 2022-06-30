@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Centauro
-*Released on 2022-06-15, vote average 6.6*
+### Collision
+*Released on 2022-06-16, vote average 5.8*
 
-Rafa&#39;s hooked on the pure, fiery feelings he gets from speed racing, but when his kid&#39;s mom gets mixed up with drug dealers, he burns rubber to save her.
+Over the course of one fateful day, a corrupt businessman and his socialite wife race to save their daughter from a notorious crime lord.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/p8CXKceGvAo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/UmDxTrJa3XA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -40,79 +40,6 @@ Rafa&#39;s hooked on the pure, fiery feelings he gets from speed racing, but whe
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-
-
-	
-	
-
-### Spiderhead
-*Released on 2022-06-15, vote average 5.6*
-
-A prisoner in a state-of-the-art penitentiary begins to question the purpose of the emotion-controlling drugs he&#39;s testing for a pharmaceutical genius.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/VS_ub1QaIYQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Collision
-*Released on 2022-06-16, vote average 6*
-
-Over the course of one fateful day, a corrupt businessman and his socialite wife race to save their daughter from a notorious crime lord.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/UmDxTrJa3XA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Lightyear
-*Released on 2022-06-15, vote average 7*
-
-Legendary Space Ranger Buzz Lightyear embarks on an intergalactic adventure alongside a group of ambitious recruits and his robot companion Sox.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/DmZGrhz4tAY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
   
 
 
@@ -140,6 +67,21 @@ A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan
 
 	
 	
+
+### Love &amp; Gelato
+*Released on 2022-06-22, vote average 5*
+
+Lina is about to graduate high school and has her sights set on her future at MIT. But when her mom gets sick, she encourages Lina to follow in her footsteps and have “the summer of a lifetime” in Rome. Using her mom’s old diary as a guide, she explores the romantic and magical city, where she just might find love... and gelato, of course.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/XIkQFUlBXF0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -158,72 +100,6 @@ Fresh out of college and stuck at his New Jersey home without a clear path forwa
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/xg17CQrmY8E?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Jerry &amp; Marge Go Large
-*Released on 2022-06-15, vote average 7.1*
-
-The remarkable true story of how retiree Jerry Selbee discovers a mathematical loophole in the Massachusetts lottery and, with the help of his wife, Marge, wins $27 million dollars and uses the money to revive their small Michigan town.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/DhVVDF0YiNs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Elvis
-*Released on 2022-06-22, vote average 7.9*
-
-The life story of Elvis Presley as seen through the complicated relationship with his enigmatic manager, Colonel Tom Parker.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Fb1PECm0Jh8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Love &amp; Gelato
-*Released on 2022-06-22, vote average 5.1*
-
-Lina is about to graduate high school and has her sights set on her future at MIT. But when her mom gets sick, she encourages Lina to follow in her footsteps and have “the summer of a lifetime” in Rome. Using her mom’s old diary as a guide, she explores the romantic and magical city, where she just might find love... and gelato, of course.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XIkQFUlBXF0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -258,16 +134,16 @@ In a case of mistaken identity, the world’s deadliest assassin, known as the M
 	
 	
 
-### The Witch: Part 2. The Other One
-*Released on 2022-06-15, vote average 6.3*
+### Elvis
+*Released on 2022-06-22, vote average 7.9*
 
-A girl wakes up in a huge secret laboratory. then accidentally meets another girl who is trying to protect her house from a gang. The mystery girl overthrows the gang with her unexpected powers, and laboratory staff set out to find her.
+The life story of Elvis Presley as seen through the complicated relationship with his enigmatic manager, Colonel Tom Parker.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/jhF5zIGJsXs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Fb1PECm0Jh8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -281,7 +157,7 @@ A girl wakes up in a huge secret laboratory. then accidentally meets another gir
 	
 
 ### Rise
-*Released on 2022-06-23, vote average 6.9*
+*Released on 2022-06-23, vote average 7.1*
 
 After emigrating to Greece from Nigeria, Vera and Charles Antetokounmpo struggled to survive and provide for their five children, while living under the daily threat of deportation. Desperate to obtain Greek citizenship but undermined by a system that blocked them at every turn, the family&#39;s vision, determination and faith lifted them out of obscurity to launch the careers of three NBA champions.
 
@@ -346,28 +222,6 @@ A photographer is tasked to take a photo of a rare flower thriving in the mounta
 	
 	
 
-### Beavis and Butt-Head Do the Universe
-*Released on 2022-06-23, vote average 6.7*
-
-After a &#34;creative&#34; judge sentences them to space camp, a black hole sends our adolescent heroes 24 years into the modern future where the duo misuse iPhones, embark on a quest to score, and become targets of the Deep State.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EaHbTnA3qSA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Good Luck to You, Leo Grande
 *Released on 2022-06-17, vote average 7.1*
 
@@ -390,20 +244,54 @@ Nancy Stokes doesn’t know good sex. Whatever it may be, Nancy, a retired schoo
 	
 	
 
-### Murder at Yellowstone City
-*Released on 2022-06-24, vote average 6*
+### Beavis and Butt-Head Do the Universe
+*Released on 2022-06-23, vote average 6.6*
 
-A former slave who arrives in Yellowstone City, Montana, a desolate former boomtown now on the decline, looking for a place to call home. On that same day, a local prospector discovers gold - and is murdered.
+After a &#34;creative&#34; judge sentences them to space camp, a black hole sends our adolescent heroes 24 years into the modern future where the duo misuse iPhones, embark on a quest to score, and become targets of the Deep State.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/3b1zQDcyPhw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/EaHbTnA3qSA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Decision to Leave
+*Released on 2022-06-29, vote average 7*
+
+Hae-Joon, a seasoned detective, investigates the suspicious death of a man on a mountaintop. Soon, he begins to suspect Seo-rae, the deceased&#39;s wife, while being unsettled by his attraction to her.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/s91GMZ097RM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -431,6 +319,50 @@ A nightmarish evening unfolds for David, a former New York Times journalist, whe
   
 
 
+	
+	
+
+### Murder at Yellowstone City
+*Released on 2022-06-24, vote average 6.3*
+
+A former slave who arrives in Yellowstone City, Montana, a desolate former boomtown now on the decline, looking for a place to call home. On that same day, a local prospector discovers gold - and is murdered.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/3b1zQDcyPhw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 
 ## Opening soon
 
@@ -446,12 +378,6 @@ A nightmarish evening unfolds for David, a former New York Times journalist, whe
 	
 
 	
-	
-	
-
-	
-	
-	
 
 	
 
@@ -459,6 +385,21 @@ A nightmarish evening unfolds for David, a former New York Times journalist, whe
 
 	
 	
+
+### Biyak
+*Released on 2022-07-01, vote average 4*
+
+
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8Ju5rGX0NtE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -478,11 +419,9 @@ A nightmarish evening unfolds for David, a former New York Times journalist, whe
 	
 
 	
-	
-	
 
 	
-	
+
 	
 
 
