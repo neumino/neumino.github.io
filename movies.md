@@ -55,29 +55,7 @@ In a case of mistaken identity, the world’s deadliest assassin, known as the M
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/T4mb7yh4xKA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Love &amp; Gelato
-*Released on 2022-06-22, vote average 5.1*
-
-Lina is about to graduate high school and has her sights set on her future at MIT. But when her mom gets sick, she encourages Lina to follow in her footsteps and have “the summer of a lifetime” in Rome. Using her mom’s old diary as a guide, she explores the romantic and magical city, where she just might find love... and gelato, of course.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XIkQFUlBXF0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/_gp_-5rswxQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,16 +90,16 @@ After emigrating to Greece from Nigeria, Vera and Charles Antetokounmpo struggle
 	
 	
 
-### Cha Cha Real Smooth
-*Released on 2022-06-17, vote average 7.1*
+### Love &amp; Gelato
+*Released on 2022-06-22, vote average 5.1*
 
-Fresh out of college and stuck at his New Jersey home without a clear path forward, 22-year-old Andrew begins working as a party starter for bar/bat mitzvahs—where he strikes up a unique friendship with a young mom and her teenage daughter.
+Lina is about to graduate high school and has her sights set on her future at MIT. But when her mom gets sick, she encourages Lina to follow in her footsteps and have “the summer of a lifetime” in Rome. Using her mom’s old diary as a guide, she explores the romantic and magical city, where she just might find love... and gelato, of course.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xg17CQrmY8E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/XIkQFUlBXF0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -135,7 +113,7 @@ Fresh out of college and stuck at his New Jersey home without a clear path forwa
 	
 
 ### Elvis
-*Released on 2022-06-22, vote average 7.9*
+*Released on 2022-06-22, vote average 7.8*
 
 The life story of Elvis Presley as seen through the complicated relationship with his enigmatic manager, Colonel Tom Parker.
 
@@ -199,16 +177,9 @@ A photographer is tasked to take a photo of a rare flower thriving in the mounta
 
 	
 	
-	
-
-  
-
-
-	
-	
 
 ### Decision to Leave
-*Released on 2022-06-29, vote average 7.9*
+*Released on 2022-06-29, vote average 7.6*
 
 Hae-Joon, a seasoned detective, investigates the suspicious death of a man on a mountaintop. Soon, he begins to suspect Seo-rae, the deceased&#39;s wife, while being unsettled by his attraction to her.
 
@@ -235,7 +206,7 @@ Hae-Joon, a seasoned detective, investigates the suspicious death of a man on a 
 	
 
 ### Murder at Yellowstone City
-*Released on 2022-06-24, vote average 6.3*
+*Released on 2022-06-24, vote average 6.1*
 
 A former slave who arrives in Yellowstone City, Montana, a desolate former boomtown now on the decline, looking for a place to call home. On that same day, a local prospector discovers gold - and is murdered.
 
@@ -254,22 +225,10 @@ A former slave who arrives in Yellowstone City, Montana, a desolate former boomt
 
 
 	
-	
 
-### Good Luck to You, Leo Grande
-*Released on 2022-06-17, vote average 7.2*
+  
 
-Nancy Stokes doesn’t know good sex. Whatever it may be, Nancy, a retired schoolteacher, is pretty sure she has never had it, but she is determined to finally do something about that. She even has a plan: It involves an anonymous hotel room, and a young sex worker who calls himself Leo Grande.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/pdn8UOh1-Yw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -279,7 +238,7 @@ Nancy Stokes doesn’t know good sex. Whatever it may be, Nancy, a retired schoo
 	
 
 ### Beavis and Butt-Head Do the Universe
-*Released on 2022-06-23, vote average 6.6*
+*Released on 2022-06-23, vote average 6.7*
 
 After a &#34;creative&#34; judge sentences them to space camp, a black hole sends our adolescent heroes 24 years into the modern future where the duo misuse iPhones, embark on a quest to score, and become targets of the Deep State.
 
@@ -296,82 +255,6 @@ After a &#34;creative&#34; judge sentences them to space camp, a black hole send
 
   
 
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### The Good Neighbor
-*Released on 2022-06-17, vote average 6.3*
-
-A nightmarish evening unfolds for David, a former New York Times journalist, when he and his strange new neighbor Robert, accidentally hit a girl on her bike. Buzzed and disoriented, David lets Robert convince him to flee the scene and leave the girl for dead, in order to protect his career. Robert shows no remorse, and in the name of friendship he does unspeakable things to protect the secret. Now that the police are full-on hunting for the hit-and-run killer, things begin to spiral out of control when David’s local newspaper sends him to cover the story where he meets the deceased girl’s sister Vanessa. Despite the circumstances, and her deep desire to find her sister’s killer, the two immediately have a romantic connection, which surprises and haunts David, while pushing Robert to take brutal steps to keep his new friend to himself.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/hYUtMkRUkjs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-
-## Opening soon
-
-
-	
-	
-
-### Thor: Love and Thunder
-*Released on 2022-07-06, vote average 9.4*
-
-After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now inexplicably wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/9iDLJ_F2zek?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
 
 	
 	
@@ -392,9 +275,30 @@ Violet reconnects with her biological mother and her half-sister, Samantha. The 
 	
 	
 
-	
+  
+
 
 	
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
 
 	
 	
@@ -402,13 +306,44 @@ Violet reconnects with her biological mother and her half-sister, Samantha. The 
 ### Code Name Banshee
 *Released on 2022-07-01, vote average 9*
 
-A complex story of revenge and family, follows Banshee, a freelance assassin, ambushed by the mercenary that killed her father.
+Caleb, a former government assassin in hiding, who resurfaces when his protégé, the equally deadly killer known as Banshee, discovers a bounty has been placed on Caleb&#39;s head.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Cj876ciYN0E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/RUiVdTlqCag?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+
+## Opening soon
+
+
+	
+	
+
+### Thor: Love and Thunder
+*Released on 2022-07-06, vote average 6.9*
+
+After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now inexplicably wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/S5bVvAHLUYY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -422,6 +357,18 @@ A complex story of revenge and family, follows Banshee, a freelance assassin, am
 	
 
 	
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
 
 	
 
@@ -433,21 +380,8 @@ A complex story of revenge and family, follows Banshee, a freelance assassin, am
 
 	
 	
-
-### Mamá no enRedes
-*Released on 2022-07-01, vote average 2*
-
-
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/uAdOi1DaUTw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
 	
+
 	
 
 	
