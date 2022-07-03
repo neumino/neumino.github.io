@@ -47,7 +47,7 @@ Finney Shaw, a shy but clever 13-year-old boy, is abducted by a sadistic killer 
 	
 
 ### The Man From Toronto
-*Released on 2022-06-24, vote average 6.2*
+*Released on 2022-06-24, vote average 6.1*
 
 In a case of mistaken identity, the world’s deadliest assassin, known as the Man from Toronto, and a New York City screw-up are forced to team up after being confused for each other at an Airbnb.
 
@@ -69,7 +69,7 @@ In a case of mistaken identity, the world’s deadliest assassin, known as the M
 	
 
 ### Rise
-*Released on 2022-06-23, vote average 7.2*
+*Released on 2022-06-23, vote average 7.3*
 
 After emigrating to Greece from Nigeria, Vera and Charles Antetokounmpo struggled to survive and provide for their five children, while living under the daily threat of deportation. Desperate to obtain Greek citizenship but undermined by a system that blocked them at every turn, the family&#39;s vision, determination and faith lifted them out of obscurity to launch the careers of three NBA champions.
 
@@ -78,28 +78,6 @@ After emigrating to Greece from Nigeria, Vera and Charles Antetokounmpo struggle
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/numzJtJWT8c?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Love &amp; Gelato
-*Released on 2022-06-22, vote average 5.1*
-
-Lina is about to graduate high school and has her sights set on her future at MIT. But when her mom gets sick, she encourages Lina to follow in her footsteps and have “the summer of a lifetime” in Rome. Using her mom’s old diary as a guide, she explores the romantic and magical city, where she just might find love... and gelato, of course.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XIkQFUlBXF0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -134,6 +112,28 @@ The life story of Elvis Presley as seen through the complicated relationship wit
 	
 	
 
+### Love &amp; Gelato
+*Released on 2022-06-22, vote average 5.2*
+
+Lina is about to graduate high school and has her sights set on her future at MIT. But when her mom gets sick, she encourages Lina to follow in her footsteps and have “the summer of a lifetime” in Rome. Using her mom’s old diary as a guide, she explores the romantic and magical city, where she just might find love... and gelato, of course.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/XIkQFUlBXF0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Ip Man: The Awakening
 *Released on 2022-06-21, vote average 7.1*
 
@@ -144,6 +144,28 @@ When a young Master Ip stops a kidnapping, he ignites a turf war with a ruthless
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/yVCiktvgHb4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Glamour Girls
+*Released on 2022-06-24, vote average 7.3*
+
+Their life as luxury escorts offered these women glamour, money and a chance to reinvent themselves…until a murder and a robbery ruined everything.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/al25p_srkWU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -178,8 +200,30 @@ A photographer is tasked to take a photo of a rare flower thriving in the mounta
 	
 	
 
+### Biyak
+*Released on 2022-07-01, vote average 4*
+
+Violet reconnects with her biological mother and her half-sister, Samantha. The sisters find their common ground as both of their worlds revolve around drugs and sexual abuse.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/8Ju5rGX0NtE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Decision to Leave
-*Released on 2022-06-29, vote average 7.6*
+*Released on 2022-06-29, vote average 7.7*
 
 Hae-Joon, a seasoned detective, investigates the suspicious death of a man on a mountaintop. Soon, he begins to suspect Seo-rae, the deceased&#39;s wife, while being unsettled by his attraction to her.
 
@@ -187,11 +231,136 @@ Hae-Joon, a seasoned detective, investigates the suspicious death of a man on a 
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/s91GMZ097RM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-nrhjRigcBQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### Hot Seat
+*Released on 2022-07-01, vote average 5.5*
+
+An ex-hacker is forced to break into high-level banking institutions, another man must try to penetrate the booby-trapped building to get the young man off the hot seat.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/twQePz-lkXE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Code Name Banshee
+*Released on 2022-07-01, vote average 5.8*
+
+Caleb, a former government assassin in hiding, who resurfaces when his protégé, the equally deadly killer known as Banshee, discovers a bounty has been placed on Caleb&#39;s head.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/RUiVdTlqCag?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### The Forgiven
+*Released on 2022-07-01, vote average 5*
+
+Over a weekend in the High Atlas Mountains of Morocco, a random accident reverberates through the lives of both the local Muslims and Western visitors to a house party in a grand villa.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Oun6C4O2wh0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Rubikon
+*Released on 2022-07-01, vote average 6.2*
+
+The company soldier Hannah and the scientists Gavin and Dimitri are researching an algae project on board the Rubikon space station, which is supposed to permanently supply humanity with oxygen and food. But suddenly the earth disappears below them in a brown, toxic fog and all contact is broken off - are they the last survivors of humanity? Should they initiate the safe station, dare the return flight and thereby risk their lives?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/kEefW375vag?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Beavis and Butt-Head Do the Universe
+*Released on 2022-06-23, vote average 6.7*
+
+After a &#34;creative&#34; judge sentences them to space camp, a black hole sends our adolescent heroes 24 years into the modern future where the duo misuse iPhones, embark on a quest to score, and become targets of the Deep State.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EaHbTnA3qSA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -224,109 +393,6 @@ A former slave who arrives in Yellowstone City, Montana, a desolate former boomt
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Beavis and Butt-Head Do the Universe
-*Released on 2022-06-23, vote average 6.7*
-
-After a &#34;creative&#34; judge sentences them to space camp, a black hole sends our adolescent heroes 24 years into the modern future where the duo misuse iPhones, embark on a quest to score, and become targets of the Deep State.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EaHbTnA3qSA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Biyak
-*Released on 2022-07-01, vote average 4*
-
-Violet reconnects with her biological mother and her half-sister, Samantha. The sisters find their common ground as both of their worlds revolve around drugs and sexual abuse.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/8Ju5rGX0NtE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Code Name Banshee
-*Released on 2022-07-01, vote average 9*
-
-Caleb, a former government assassin in hiding, who resurfaces when his protégé, the equally deadly killer known as Banshee, discovers a bounty has been placed on Caleb&#39;s head.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/RUiVdTlqCag?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -335,7 +401,7 @@ Caleb, a former government assassin in hiding, who resurfaces when his protégé
 	
 
 ### Thor: Love and Thunder
-*Released on 2022-07-06, vote average 6.9*
+*Released on 2022-07-06, vote average 7.2*
 
 After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now inexplicably wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.
 
@@ -357,6 +423,10 @@ After his retirement is interrupted by Gorr the God Butcher, a galactic killer w
 	
 
 	
+
+	
+
+	
 	
 	
 
@@ -367,6 +437,8 @@ After his retirement is interrupted by Gorr the God Butcher, a galactic killer w
 	
 
 	
+	
+	
 
 	
 
@@ -374,12 +446,6 @@ After his retirement is interrupted by Gorr the God Butcher, a galactic killer w
 
 	
 
-	
-
-	
-
-	
-	
 	
 
 	
