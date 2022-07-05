@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Minions: The Rise of Gru
-*Released on 2022-06-29, vote average 8*
+*Released on 2022-06-29, vote average 8.1*
 
 A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.
 
@@ -47,7 +47,7 @@ A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan
 	
 
 ### The Black Phone
-*Released on 2022-06-22, vote average 7.1*
+*Released on 2022-06-22, vote average 7.2*
 
 Finney Shaw, a shy but clever 13-year-old boy, is abducted by a sadistic killer and trapped in a soundproof basement where screaming is of little use. When a disconnected phone on the wall begins to ring, Finney discovers that he can hear the voices of the killer’s previous victims. And they are dead set on making sure that what happened to them doesn’t happen to Finney.
 
@@ -121,7 +121,7 @@ The life story of Elvis Presley as seen through the complicated relationship wit
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Fb1PECm0Jh8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/VdLthni_0aY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -135,7 +135,7 @@ The life story of Elvis Presley as seen through the complicated relationship wit
 	
 
 ### Love &amp; Gelato
-*Released on 2022-06-22, vote average 5.2*
+*Released on 2022-06-22, vote average 5.3*
 
 Lina is about to graduate high school and has her sights set on her future at MIT. But when her mom gets sick, she encourages Lina to follow in her footsteps and have “the summer of a lifetime” in Rome. Using her mom’s old diary as a guide, she explores the romantic and magical city, where she just might find love... and gelato, of course.
 
@@ -157,7 +157,7 @@ Lina is about to graduate high school and has her sights set on her future at MI
 	
 
 ### Glamour Girls
-*Released on 2022-06-24, vote average 7.3*
+*Released on 2022-06-24, vote average 6.6*
 
 Their life as luxury escorts offered these women glamour, money and a chance to reinvent themselves…until a murder and a robbery ruined everything.
 
@@ -244,16 +244,16 @@ Caleb, a former government assassin in hiding, who resurfaces when his protégé
 	
 	
 
-### Biyak
-*Released on 2022-07-01, vote average 4*
+### Rubikon
+*Released on 2022-07-01, vote average 6.9*
 
-Violet reconnects with her biological mother and her half-sister, Samantha. The sisters find their common ground as both of their worlds revolve around drugs and sexual abuse.
+The company soldier Hannah and the scientists Gavin and Dimitri are researching an algae project on board the Rubikon space station, which is supposed to permanently supply humanity with oxygen and food. But suddenly the earth disappears below them in a brown, toxic fog and all contact is broken off - are they the last survivors of humanity? Should they initiate the safe station, dare the return flight and thereby risk their lives?
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/8Ju5rGX0NtE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/FC9tH9rJHH4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -288,16 +288,16 @@ A photographer is tasked to take a photo of a rare flower thriving in the mounta
 	
 	
 
-### Rubikon
-*Released on 2022-07-01, vote average 6.8*
+### Biyak
+*Released on 2022-07-01, vote average 3*
 
-The company soldier Hannah and the scientists Gavin and Dimitri are researching an algae project on board the Rubikon space station, which is supposed to permanently supply humanity with oxygen and food. But suddenly the earth disappears below them in a brown, toxic fog and all contact is broken off - are they the last survivors of humanity? Should they initiate the safe station, dare the return flight and thereby risk their lives?
+Violet reconnects with her biological mother and her half-sister, Samantha. The sisters find their common ground as both of their worlds revolve around drugs and sexual abuse.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/FC9tH9rJHH4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/8Ju5rGX0NtE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -308,6 +308,23 @@ The company soldier Hannah and the scientists Gavin and Dimitri are researching 
 
 
 	
+	
+
+### Kira &amp; El Gin
+*Released on 2022-06-30, vote average 10*
+
+The movie focuses on the fury state that was among the people in synchronization with the main event in Egypt: The Egyptian revolution &#34;1919&#34; which unites the fates of Keera and El Gin to participate in the struggle against the English occupation.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ezQlEh6Fs6o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -316,7 +333,7 @@ The company soldier Hannah and the scientists Gavin and Dimitri are researching 
 	
 
 ### Decision to Leave
-*Released on 2022-06-29, vote average 7.5*
+*Released on 2022-06-29, vote average 7.6*
 
 Hae-Joon, a seasoned detective, investigates the suspicious death of a man on a mountaintop. Soon, he begins to suspect Seo-rae, the deceased&#39;s wife, while being unsettled by his attraction to her.
 
@@ -335,23 +352,6 @@ Hae-Joon, a seasoned detective, investigates the suspicious death of a man on a 
 
 
 	
-	
-
-### Blasted
-*Released on 2022-06-22, vote average 5.7*
-
-When a former childhood friend crashes Sebastian&#39;s bachelor party and makes it all about himself, only an alien invasion can make them put aside their bad blood and reunite as the kick-ass laser-tag duo they once were.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/R5546NL6gkE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
 
   
 
@@ -367,7 +367,7 @@ When a former childhood friend crashes Sebastian&#39;s bachelor party and makes 
 	
 
 ### Beavis and Butt-Head Do the Universe
-*Released on 2022-06-23, vote average 6.8*
+*Released on 2022-06-23, vote average 7*
 
 After a &#34;creative&#34; judge sentences them to space camp, a black hole sends our adolescent heroes 24 years into the modern future where the duo misuse iPhones, embark on a quest to score, and become targets of the Deep State.
 
@@ -386,27 +386,27 @@ After a &#34;creative&#34; judge sentences them to space camp, a black hole send
 
 
 	
-
-  
-
-
-	
 	
 
-### Murder at Yellowstone City
-*Released on 2022-06-24, vote average 6.1*
+### Gatlopp: Hell of a Game
+*Released on 2022-06-27, vote average 6.8*
 
-A former slave who arrives in Yellowstone City, Montana, a desolate former boomtown now on the decline, looking for a place to call home. On that same day, a local prospector discovers gold - and is murdered.
+Four friends get together for a nostalgic evening of fun and games after a decade of absence, which takes a dark turn.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/3b1zQDcyPhw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/psSICL1yNV8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -428,33 +428,11 @@ After his retirement is interrupted by Gorr the God Butcher, a galactic killer w
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/S5bVvAHLUYY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/smfEF8xeBu4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	
-	
-
-	
-
-	
-
-	
-
-	
-
 	
 
 	
@@ -484,6 +462,45 @@ Each year dozens of encounters with upright canids are reported in North America
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/YPMr5a6ZwlI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### The 68th Birthday of Carmela, The Tortoise
+*Released on 2022-07-05, vote average 2*
+
+Marcos celebrates his tortoise&#39;s birthday, but no one shows up. Until two strangers ring the bell...
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/f-Qit9cZiCE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
