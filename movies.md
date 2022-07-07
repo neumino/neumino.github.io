@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Minions: The Rise of Gru
-*Released on 2022-06-29, vote average 8.1*
+*Released on 2022-06-29, vote average 8*
 
 A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.
 
@@ -21,7 +21,7 @@ A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/HhIl_XJ-OGA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/s-yxOBW--JQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -46,16 +46,16 @@ A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan
 	
 	
 
-### The Black Phone
-*Released on 2022-06-22, vote average 7.2*
+### The Man From Toronto
+*Released on 2022-06-24, vote average 6.1*
 
-Finney Shaw, a shy but clever 13-year-old boy, is abducted by a sadistic killer and trapped in a soundproof basement where screaming is of little use. When a disconnected phone on the wall begins to ring, Finney discovers that he can hear the voices of the killer’s previous victims. And they are dead set on making sure that what happened to them doesn’t happen to Finney.
+In a case of mistaken identity, the world’s deadliest assassin, known as the Man from Toronto, and a New York City screw-up are forced to team up after being confused for each other at an Airbnb.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Q8jzmUi3zas?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/_gp_-5rswxQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -68,16 +68,38 @@ Finney Shaw, a shy but clever 13-year-old boy, is abducted by a sadistic killer 
 	
 	
 
-### The Man From Toronto
-*Released on 2022-06-24, vote average 6.1*
+### Thor: Love and Thunder
+*Released on 2022-07-06, vote average 7.4*
 
-In a case of mistaken identity, the world’s deadliest assassin, known as the Man from Toronto, and a New York City screw-up are forced to team up after being confused for each other at an Airbnb.
+After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now inexplicably wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/_gp_-5rswxQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/smfEF8xeBu4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Glamour Girls
+*Released on 2022-06-24, vote average 5.9*
+
+Their life as luxury escorts offered these women glamour, money and a chance to reinvent themselves…until a murder and a robbery ruined everything.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/al25p_srkWU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,82 +134,16 @@ After emigrating to Greece from Nigeria, Vera and Charles Antetokounmpo struggle
 	
 	
 
-### Elvis
-*Released on 2022-06-22, vote average 7.8*
+### Rubikon
+*Released on 2022-07-01, vote average 6.6*
 
-The life story of Elvis Presley as seen through the complicated relationship with his enigmatic manager, Colonel Tom Parker.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/VdLthni_0aY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Love &amp; Gelato
-*Released on 2022-06-22, vote average 5.3*
-
-Lina is about to graduate high school and has her sights set on her future at MIT. But when her mom gets sick, she encourages Lina to follow in her footsteps and have “the summer of a lifetime” in Rome. Using her mom’s old diary as a guide, she explores the romantic and magical city, where she just might find love... and gelato, of course.
+The company soldier Hannah and the scientists Gavin and Dimitri are researching an algae project on board the Rubikon space station, which is supposed to permanently supply humanity with oxygen and food. But suddenly the earth disappears below them in a brown, toxic fog and all contact is broken off - are they the last survivors of humanity? Should they initiate the safe station, dare the return flight and thereby risk their lives?
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/XIkQFUlBXF0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Glamour Girls
-*Released on 2022-06-24, vote average 6.6*
-
-Their life as luxury escorts offered these women glamour, money and a chance to reinvent themselves…until a murder and a robbery ruined everything.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/al25p_srkWU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Ip Man: The Awakening
-*Released on 2022-06-21, vote average 7*
-
-When a young Master Ip stops a kidnapping, he ignites a turf war with a ruthless human trafficking ring. In retaliation, the gang kidnaps one of Ip Man’s close friends, forcing him to face the group’s brutal boxing champion head-on.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/yVCiktvgHb4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/FC9tH9rJHH4?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -201,7 +157,7 @@ When a young Master Ip stops a kidnapping, he ignites a turf war with a ruthless
 	
 
 ### Hot Seat
-*Released on 2022-07-01, vote average 5.5*
+*Released on 2022-07-01, vote average 6.3*
 
 An ex-hacker is forced to break into high-level banking institutions, another man must try to penetrate the booby-trapped building to get the young man off the hot seat.
 
@@ -223,7 +179,7 @@ An ex-hacker is forced to break into high-level banking institutions, another ma
 	
 
 ### Code Name Banshee
-*Released on 2022-07-01, vote average 5.4*
+*Released on 2022-07-01, vote average 5.5*
 
 Caleb, a former government assassin in hiding, who resurfaces when his protégé, the equally deadly killer known as Banshee, discovers a bounty has been placed on Caleb&#39;s head.
 
@@ -244,16 +200,16 @@ Caleb, a former government assassin in hiding, who resurfaces when his protégé
 	
 	
 
-### Rubikon
-*Released on 2022-07-01, vote average 6.9*
+### Gatlopp: Hell of a Game
+*Released on 2022-06-27, vote average 6.3*
 
-The company soldier Hannah and the scientists Gavin and Dimitri are researching an algae project on board the Rubikon space station, which is supposed to permanently supply humanity with oxygen and food. But suddenly the earth disappears below them in a brown, toxic fog and all contact is broken off - are they the last survivors of humanity? Should they initiate the safe station, dare the return flight and thereby risk their lives?
+Four friends get together for a nostalgic evening of fun and games after a decade of absence, which takes a dark turn.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/FC9tH9rJHH4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/psSICL1yNV8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -264,18 +220,23 @@ The company soldier Hannah and the scientists Gavin and Dimitri are researching 
 
 
 	
+
+  
+
+
+	
 	
 
-### Virgin Forest
-*Released on 2022-06-24, vote average 3*
+### Bigfoot or Bust
+*Released on 2022-07-05, vote average 2*
 
-A photographer is tasked to take a photo of a rare flower thriving in the mountain, but he discovers women trapped in a hidden brothel for illegal loggers.
+A team of celebrities head out on a quest to search for the Bigfoot, unaware another group of time traveling women from the future are also looking for the creature.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/yGFHH1tJ6EM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/0wvMHfTtWJE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -310,16 +271,38 @@ Violet reconnects with her biological mother and her half-sister, Samantha. The 
 	
 	
 
-### Kira &amp; El Gin
-*Released on 2022-06-30, vote average 10*
+### Virgin Forest
+*Released on 2022-06-24, vote average 3*
 
-The movie focuses on the fury state that was among the people in synchronization with the main event in Egypt: The Egyptian revolution &#34;1919&#34; which unites the fates of Keera and El Gin to participate in the struggle against the English occupation.
+A photographer is tasked to take a photo of a rare flower thriving in the mountain, but he discovers women trapped in a hidden brothel for illegal loggers.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ezQlEh6Fs6o?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/yGFHH1tJ6EM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### American Werewolves
+*Released on 2022-07-05, vote average 8*
+
+Each year dozens of encounters with upright canids are reported in North America. These beings often behave in similar ways with many reports recounting a creature that is aggressive, ghastly, and disturbing. While many theorize that the Dogman is some sort of unidentified species of animal, many believe that what they were confronted by was something else. Something more.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/YPMr5a6ZwlI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -333,7 +316,7 @@ The movie focuses on the fury state that was among the people in synchronization
 	
 
 ### Decision to Leave
-*Released on 2022-06-29, vote average 7.6*
+*Released on 2022-06-29, vote average 7.3*
 
 Hae-Joon, a seasoned detective, investigates the suspicious death of a man on a mountaintop. Soon, he begins to suspect Seo-rae, the deceased&#39;s wife, while being unsettled by his attraction to her.
 
@@ -357,7 +340,15 @@ Hae-Joon, a seasoned detective, investigates the suspicious death of a man on a 
 
 
 	
+
+  
+
+
 	
+
+  
+
+
 	
 
   
@@ -365,48 +356,6 @@ Hae-Joon, a seasoned detective, investigates the suspicious death of a man on a 
 
 	
 	
-
-### Beavis and Butt-Head Do the Universe
-*Released on 2022-06-23, vote average 7*
-
-After a &#34;creative&#34; judge sentences them to space camp, a black hole sends our adolescent heroes 24 years into the modern future where the duo misuse iPhones, embark on a quest to score, and become targets of the Deep State.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EaHbTnA3qSA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Gatlopp: Hell of a Game
-*Released on 2022-06-27, vote average 6.8*
-
-Four friends get together for a nostalgic evening of fun and games after a decade of absence, which takes a dark turn.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/psSICL1yNV8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -417,22 +366,13 @@ Four friends get together for a nostalgic evening of fun and games after a decad
 
 
 	
-	
-
-### Thor: Love and Thunder
-*Released on 2022-07-06, vote average 7*
-
-After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now inexplicably wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/smfEF8xeBu4?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
+	
+
+	
+
 	
 
 	
@@ -451,27 +391,6 @@ After his retirement is interrupted by Gorr the God Butcher, a galactic killer w
 
 	
 	
-
-### American Werewolves
-*Released on 2022-07-05, vote average 8*
-
-Each year dozens of encounters with upright canids are reported in North America. These beings often behave in similar ways with many reports recounting a creature that is aggressive, ghastly, and disturbing. While many theorize that the Dogman is some sort of unidentified species of animal, many believe that what they were confronted by was something else. Something more.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/YPMr5a6ZwlI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-	
 	
 
 	
@@ -484,27 +403,6 @@ Each year dozens of encounters with upright canids are reported in North America
 
 	
 
-	
-
-	
-
-	
-	
-
-### The 68th Birthday of Carmela, The Tortoise
-*Released on 2022-07-05, vote average 2*
-
-Marcos celebrates his tortoise&#39;s birthday, but no one shows up. Until two strangers ring the bell...
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/f-Qit9cZiCE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
