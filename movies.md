@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Minions: The Rise of Gru
-*Released on 2022-06-29, vote average 7.9*
+*Released on 2022-06-29, vote average 7.8*
 
 A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.
 
@@ -47,7 +47,7 @@ A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan
 	
 
 ### Thor: Love and Thunder
-*Released on 2022-07-06, vote average 7.2*
+*Released on 2022-07-06, vote average 7.1*
 
 After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now inexplicably wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.
 
@@ -55,7 +55,7 @@ After his retirement is interrupted by Gorr the God Butcher, a galactic killer w
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/M30iVU51U6c?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/uVrlq2tT90U?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -91,7 +91,7 @@ Four friends get together for a nostalgic evening of fun and games after a decad
 	
 
 ### Hello, Goodbye, and Everything in Between
-*Released on 2022-07-06, vote average 5*
+*Released on 2022-07-06, vote average 5.7*
 
 Clare and Aidan, who after making a pact that they would break up before college, find themselves retracing the steps of their relationship on their last evening as a couple. The epic date leads them to familiar landmarks, unexpected places, and causes them to question whether high school love is meant to last.
 
@@ -100,6 +100,138 @@ Clare and Aidan, who after making a pact that they would break up before college
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/MX6wAGuIMCg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Girl in the Picture
+*Released on 2022-07-06, vote average 7.1*
+
+A young mother’s mysterious death and her son’s subsequent kidnapping blow open a decades-long mystery about the woman’s true identity, and the murderous federal fugitive at the center of it all.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/jnJ4BGNpby8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Hot Seat
+*Released on 2022-07-01, vote average 6.8*
+
+An ex-hacker is forced to break into high-level banking institutions, another man must try to penetrate the booby-trapped building to get the young man off the hot seat.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/twQePz-lkXE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Thor: God of Thunder
+*Released on 2022-07-08, vote average 6*
+
+Thor’s villainous brother Loki has escaped Asgard to search for Yggdrasil — The Tree of the Nine Realms. The tree holds the power of the Universe, and is secreted away on Earth. With the help of giant wolf god Fenrir, Loki plans to destroy the tree and replant it in his image, giving him dominion over all. Now Thor must follow Loki to Earth to wage an epic battle that will hold the two worlds in its balance.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Lv4ME566BKQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### The Wonderful Summer of Mickey Mouse
+*Released on 2022-07-08, vote average 8*
+
+Mickey Mouse and his friends each recall the wild events leading up to the Annual Summer Fireworks Spectacular from their point-of-view.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ubkbxn7tFwQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Code Name Banshee
+*Released on 2022-07-01, vote average 5*
+
+Caleb, a former government assassin in hiding, who resurfaces when his protégé, the equally deadly killer known as Banshee, discovers a bounty has been placed on Caleb&#39;s head.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Cj876ciYN0E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Dangerous Liaisons
+*Released on 2022-07-08, vote average 5.8*
+
+The innocent Célène might be falling in love with popular surfer Tristan at her new school. But she has no idea that, in actuality, she’s the object of a cruel bet between Tristan and Instagram influencer Vanessa.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/gUHOSIe922E?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -132,76 +264,27 @@ The company soldier Hannah and the scientists Gavin and Dimitri are researching 
 
 
 	
+
+  
+
+
+	
 	
 
-### Hot Seat
-*Released on 2022-07-01, vote average 6.3*
+### The Making of Doctor Strange in the Multiverse of Madness
+*Released on 2022-07-08, vote average 5.8*
 
-An ex-hacker is forced to break into high-level banking institutions, another man must try to penetrate the booby-trapped building to get the young man off the hot seat.
+Join visionary director Sam Raimi and the cast of the film as they recount their experiences bringing Marvel’s darkest story to life.  From world-building to universe-building, hear first hand accounts from the cast and crew on what it took to design, create and make each universe unique and believable.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/twQePz-lkXE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/RjYmr_QuU2Q?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### Girl in the Picture
-*Released on 2022-07-06, vote average 6.8*
-
-A young mother’s mysterious death and her son’s subsequent kidnapping blow open a decades-long mystery about the woman’s true identity, and the murderous federal fugitive at the center of it all.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/jnJ4BGNpby8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Code Name Banshee
-*Released on 2022-07-01, vote average 5.3*
-
-Caleb, a former government assassin in hiding, who resurfaces when his protégé, the equally deadly killer known as Banshee, discovers a bounty has been placed on Caleb&#39;s head.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Cj876ciYN0E?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -211,7 +294,7 @@ Caleb, a former government assassin in hiding, who resurfaces when his protégé
 	
 
 ### The Summoned
-*Released on 2022-07-07, vote average 6*
+*Released on 2022-07-07, vote average 5*
 
 Two high profile couples are forced to examine the cost of success when they&#39;re invited to an exclusive self-help retreat where their ancestors sold their souls generations prior.
 
@@ -230,18 +313,38 @@ Two high profile couples are forced to examine the cost of success when they&#39
 
 
 	
+
+  
+
+
 	
 
-### Biyak
-*Released on 2022-07-01, vote average 3*
+  
 
-Violet reconnects with her biological mother and her half-sister, Samantha. The sisters find their common ground as both of their worlds revolve around drugs and sexual abuse.
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Take the Night
+*Released on 2022-07-08, vote average 7.1*
+
+When a resentful brother organizes a prank kidnapping, he unwittingly hires career criminals who have plans of their own.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/8Ju5rGX0NtE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/k09Y4mCARYY?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -251,109 +354,6 @@ Violet reconnects with her biological mother and her half-sister, Samantha. The 
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Bigfoot or Bust
-*Released on 2022-07-05, vote average 2*
-
-A team of celebrities head out on a quest to search for the Bigfoot, unaware another group of time traveling women from the future are also looking for the creature.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/0wvMHfTtWJE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Decision to Leave
-*Released on 2022-06-29, vote average 7.4*
-
-Hae-Joon, a seasoned detective, investigates the suspicious death of a man on a mountaintop. Soon, he begins to suspect Seo-rae, the deceased&#39;s wife, while being unsettled by his attraction to her.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-nrhjRigcBQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Thor: God of Thunder
-*Released on 2022-07-08, vote average 6*
-
-Thor’s villainous brother Loki has escaped Asgard to search for Yggdrasil — The Tree of the Nine Realms. The tree holds the power of the Universe, and is secreted away on Earth. With the help of giant wolf god Fenrir, Loki plans to destroy the tree and replant it in his image, giving him dominion over all. Now Thor must follow Loki to Earth to wage an epic battle that will hold the two worlds in its balance.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Lv4ME566BKQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Texas Chainsaw Mascara
-*Released on 2022-07-07, vote average 2*
-
-A group of New Yorkers take a road trip to Texas, to visit the locations from the Texas Chainsaw Massacre. Their car is disabled. As they wait in a desolate part of the state, a hiker discovers the travelers and offers refuge at her home, which happens to be five hours away by foot. When the gang arrives at what looks like a hovel, their northern attitudes and prejudices clash with the southerners, and a sadistic game ensues. All will learn what it means when someone says, &#34;Don&#39;t mess with Texas.&#34;
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/DzUcqf3obWk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -383,23 +383,6 @@ A group of New Yorkers take a road trip to Texas, to visit the locations from th
 
 	
 
-	
-	
-
-### My Grown-Up Christmas List
-*Released on 2022-07-09, vote average 10*
-
-Taylor, a journalist, and Luke, in the military, share a special bond that grows between them over the course of several Christmases that they spend together and apart.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/d_-NVsRa75g?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
