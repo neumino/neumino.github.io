@@ -68,30 +68,8 @@ After his retirement is interrupted by Gorr the God Butcher, a galactic killer w
 	
 	
 
-### Gatlopp: Hell of a Game
-*Released on 2022-06-27, vote average 5.6*
-
-Four friends get together for a nostalgic evening of fun and games after a decade of absence, which takes a dark turn.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/psSICL1yNV8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Hello, Goodbye, and Everything in Between
-*Released on 2022-07-06, vote average 5.7*
+*Released on 2022-07-06, vote average 5.9*
 
 Clare and Aidan, who after making a pact that they would break up before college, find themselves retracing the steps of their relationship on their last evening as a couple. The epic date leads them to familiar landmarks, unexpected places, and causes them to question whether high school love is meant to last.
 
@@ -113,7 +91,7 @@ Clare and Aidan, who after making a pact that they would break up before college
 	
 
 ### Girl in the Picture
-*Released on 2022-07-06, vote average 7.1*
+*Released on 2022-07-06, vote average 7*
 
 A young mother’s mysterious death and her son’s subsequent kidnapping blow open a decades-long mystery about the woman’s true identity, and the murderous federal fugitive at the center of it all.
 
@@ -135,7 +113,7 @@ A young mother’s mysterious death and her son’s subsequent kidnapping blow o
 	
 
 ### Hot Seat
-*Released on 2022-07-01, vote average 6.8*
+*Released on 2022-07-01, vote average 7.2*
 
 An ex-hacker is forced to break into high-level banking institutions, another man must try to penetrate the booby-trapped building to get the young man off the hot seat.
 
@@ -200,28 +178,6 @@ Mickey Mouse and his friends each recall the wild events leading up to the Annua
 	
 	
 
-### Code Name Banshee
-*Released on 2022-07-01, vote average 5*
-
-Caleb, a former government assassin in hiding, who resurfaces when his protégé, the equally deadly killer known as Banshee, discovers a bounty has been placed on Caleb&#39;s head.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Cj876ciYN0E?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Dangerous Liaisons
 *Released on 2022-07-08, vote average 5.8*
 
@@ -244,8 +200,35 @@ The innocent Célène might be falling in love with popular surfer Tristan at he
 	
 	
 
+### Code Name Banshee
+*Released on 2022-07-01, vote average 5.1*
+
+Caleb, a former government assassin in hiding, who resurfaces when his protégé, the equally deadly killer known as Banshee, discovers a bounty has been placed on Caleb&#39;s head.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Cj876ciYN0E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### Rubikon
-*Released on 2022-07-01, vote average 6.4*
+*Released on 2022-07-01, vote average 6.5*
 
 The company soldier Hannah and the scientists Gavin and Dimitri are researching an algae project on board the Rubikon space station, which is supposed to permanently supply humanity with oxygen and food. But suddenly the earth disappears below them in a brown, toxic fog and all contact is broken off - are they the last survivors of humanity? Should they initiate the safe station, dare the return flight and thereby risk their lives?
 
@@ -264,6 +247,23 @@ The company soldier Hannah and the scientists Gavin and Dimitri are researching 
 
 
 	
+	
+
+### Decision to Leave
+*Released on 2022-06-29, vote average 7.5*
+
+Hae-Joon, a seasoned detective, investigates the suspicious death of a man on a mountaintop. Soon, he begins to suspect Seo-rae, the deceased&#39;s wife, while being unsettled by his attraction to her.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/-nrhjRigcBQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -272,7 +272,7 @@ The company soldier Hannah and the scientists Gavin and Dimitri are researching 
 	
 
 ### The Making of Doctor Strange in the Multiverse of Madness
-*Released on 2022-07-08, vote average 5.8*
+*Released on 2022-07-08, vote average 6.2*
 
 Join visionary director Sam Raimi and the cast of the film as they recount their experiences bringing Marvel’s darkest story to life.  From world-building to universe-building, hear first hand accounts from the cast and crew on what it took to design, create and make each universe unique and believable.
 
@@ -285,6 +285,26 @@ Join visionary director Sam Raimi and the cast of the film as they recount their
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -322,43 +342,6 @@ Two high profile couples are forced to examine the cost of success when they&#39
   
 
 
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Take the Night
-*Released on 2022-07-08, vote average 7.1*
-
-When a resentful brother organizes a prank kidnapping, he unwittingly hires career criminals who have plans of their own.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/k09Y4mCARYY?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -370,7 +353,43 @@ When a resentful brother organizes a prank kidnapping, he unwittingly hires care
 	
 
 	
+	
 
+### The Gray Man
+*Released on 2022-07-14, vote average 3*
+
+When the CIA&#39;s most skilled mercenary known as Court Gentry, aka Sierra Six, accidentally uncovers dark agency secrets, he becomes a primary target and is hunted around the world by psychopathic former colleague Lloyd Hansen and international assassins.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6q93pzTw2rY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+	
+
+### South Park the Streaming Wars Part 2
+*Released on 2022-07-13, vote average 10*
+
+A drought has brought the town of South Park to the brink of disaster.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/XfifPt9Lqls?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -386,7 +405,43 @@ When a resentful brother organizes a prank kidnapping, he unwittingly hires care
 	
 
 	
+	
 
+### The Reef: Stalked
+*Released on 2022-07-14, vote average 2*
+
+After her sister&#39;s murder, Nic, her younger sister and two friends seek solace through a Pacific island kayaking adventure. Hours into the trip the women are stalked by a shark and must band together, face their fears and save each other.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/nIp6z5WtQPw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+	
+
+### Holy Spider
+*Released on 2022-07-13, vote average 8*
+
+A journalist descends into the dark underbelly of the Iranian holy city of Mashhad as she investigates the serial killings of sex workers by the so called &#34;Spider Killer&#34;, who believes he is cleansing the streets of sinners.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/djtAE8Op-zs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -394,9 +449,7 @@ When a resentful brother organizes a prank kidnapping, he unwittingly hires care
 	
 
 	
-
 	
-
 	
 
 	
