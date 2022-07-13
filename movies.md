@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### Minions: The Rise of Gru
-*Released on 2022-06-29, vote average 7.8*
+*Released on 2022-06-29, vote average 7.9*
 
 A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.
 
@@ -47,7 +47,7 @@ A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan
 	
 
 ### Thor: Love and Thunder
-*Released on 2022-07-06, vote average 7.1*
+*Released on 2022-07-06, vote average 7*
 
 After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now inexplicably wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.
 
@@ -69,7 +69,7 @@ After his retirement is interrupted by Gorr the God Butcher, a galactic killer w
 	
 
 ### Hello, Goodbye, and Everything in Between
-*Released on 2022-07-06, vote average 5.9*
+*Released on 2022-07-06, vote average 5.8*
 
 Clare and Aidan, who after making a pact that they would break up before college, find themselves retracing the steps of their relationship on their last evening as a couple. The epic date leads them to familiar landmarks, unexpected places, and causes them to question whether high school love is meant to last.
 
@@ -91,7 +91,7 @@ Clare and Aidan, who after making a pact that they would break up before college
 	
 
 ### Girl in the Picture
-*Released on 2022-07-06, vote average 7*
+*Released on 2022-07-06, vote average 7.1*
 
 A young mother’s mysterious death and her son’s subsequent kidnapping blow open a decades-long mystery about the woman’s true identity, and the murderous federal fugitive at the center of it all.
 
@@ -113,7 +113,7 @@ A young mother’s mysterious death and her son’s subsequent kidnapping blow o
 	
 
 ### Hot Seat
-*Released on 2022-07-01, vote average 7.2*
+*Released on 2022-07-01, vote average 7.3*
 
 An ex-hacker is forced to break into high-level banking institutions, another man must try to penetrate the booby-trapped building to get the young man off the hot seat.
 
@@ -121,7 +121,29 @@ An ex-hacker is forced to break into high-level banking institutions, another ma
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/twQePz-lkXE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/9Y59imeaYCo?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Z-O-M-B-I-E-S 3
+*Released on 2022-07-09, vote average 9.5*
+
+Zed and Addison are beginning their final year at Seabrook High in the town that’s become a safe haven for monsters and humans alike. Zed is anticipating an athletic scholarship that will make him the first Zombie to attend college, while Addison is gearing up for Seabrook’s first international cheer-off competition. Then suddenly, extraterrestrial beings appear around Seabrook, provoking something other than friendly competition
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EGsoC0bWakU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -135,7 +157,7 @@ An ex-hacker is forced to break into high-level banking institutions, another ma
 	
 
 ### Thor: God of Thunder
-*Released on 2022-07-08, vote average 6*
+*Released on 2022-07-08, vote average 4.7*
 
 Thor’s villainous brother Loki has escaped Asgard to search for Yggdrasil — The Tree of the Nine Realms. The tree holds the power of the Universe, and is secreted away on Earth. With the help of giant wolf god Fenrir, Loki plans to destroy the tree and replant it in his image, giving him dominion over all. Now Thor must follow Loki to Earth to wage an epic battle that will hold the two worlds in its balance.
 
@@ -157,7 +179,7 @@ Thor’s villainous brother Loki has escaped Asgard to search for Yggdrasil — 
 	
 
 ### The Wonderful Summer of Mickey Mouse
-*Released on 2022-07-08, vote average 8*
+*Released on 2022-07-08, vote average 5*
 
 Mickey Mouse and his friends each recall the wild events leading up to the Annual Summer Fireworks Spectacular from their point-of-view.
 
@@ -179,7 +201,7 @@ Mickey Mouse and his friends each recall the wild events leading up to the Annua
 	
 
 ### Dangerous Liaisons
-*Released on 2022-07-08, vote average 5.8*
+*Released on 2022-07-08, vote average 5.6*
 
 The innocent Célène might be falling in love with popular surfer Tristan at her new school. But she has no idea that, in actuality, she’s the object of a cruel bet between Tristan and Instagram influencer Vanessa.
 
@@ -228,7 +250,7 @@ Caleb, a former government assassin in hiding, who resurfaces when his protégé
 	
 
 ### Rubikon
-*Released on 2022-07-01, vote average 6.5*
+*Released on 2022-07-01, vote average 6.2*
 
 The company soldier Hannah and the scientists Gavin and Dimitri are researching an algae project on board the Rubikon space station, which is supposed to permanently supply humanity with oxygen and food. But suddenly the earth disappears below them in a brown, toxic fog and all contact is broken off - are they the last survivors of humanity? Should they initiate the safe station, dare the return flight and thereby risk their lives?
 
@@ -249,16 +271,38 @@ The company soldier Hannah and the scientists Gavin and Dimitri are researching 
 	
 	
 
-### Decision to Leave
-*Released on 2022-06-29, vote average 7.5*
+### South Park the Streaming Wars Part 2
+*Released on 2022-07-13, vote average 10*
 
-Hae-Joon, a seasoned detective, investigates the suspicious death of a man on a mountaintop. Soon, he begins to suspect Seo-rae, the deceased&#39;s wife, while being unsettled by his attraction to her.
+A drought has brought the town of South Park to the brink of disaster.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/-nrhjRigcBQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/XfifPt9Lqls?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Kira &amp; El Gin
+*Released on 2022-06-30, vote average 10*
+
+The movie focuses on the fury state that was among the people in synchronization with the main event in Egypt: The Egyptian revolution &#34;1919&#34; which unites the fates of Keera and El Gin to participate in the struggle against the English occupation.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ezQlEh6Fs6o?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -291,42 +335,32 @@ Join visionary director Sam Raimi and the cast of the film as they recount their
 
 
 	
-
-  
-
-
 	
 
-  
+### Decision to Leave
+*Released on 2022-06-29, vote average 7.4*
 
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### The Summoned
-*Released on 2022-07-07, vote average 5*
-
-Two high profile couples are forced to examine the cost of success when they&#39;re invited to an exclusive self-help retreat where their ancestors sold their souls generations prior.
+Hae-Joon, a seasoned detective, investigates the suspicious death of a man on a mountaintop. Soon, he begins to suspect Seo-rae, the deceased&#39;s wife, while being unsettled by his attraction to her.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/1glV9CUfdrY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/-nrhjRigcBQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -349,7 +383,22 @@ Two high profile couples are forced to examine the cost of success when they&#39
 	
 
 	
+	
 
+### Father There Is Only One 3
+*Released on 2022-07-15, vote average 10*
+
+Christmas is coming. The children accidentally break a Nativity scene figurine from their father&#39;s collection and must by all means get an equal one, the problem is that it is a unique antique piece. Sara, the eldest daughter breaks up with her boyfriend, Ocho, who will try to recover her favors with the help of her father-in-law, Javier. Precisely Javier&#39;s father-in-law, Marisa&#39;s father, will be welcomed into the family home to spend the holidays after her recent separation, which will not leave Javier&#39;s mother, Milagros, indifferent. Rocío, the folklore of the family, who has been playing the Virgin for several Christmases, is relegated this year to playing the shepherdess, something that her father, Javier, is not willing to assume.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/yvftz2RyXOI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
@@ -364,11 +413,13 @@ When the CIA&#39;s most skilled mercenary known as Court Gentry, aka Sierra Six,
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/6q93pzTw2rY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/D346arxIYBk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
 	
 
 	
@@ -399,6 +450,23 @@ A drought has brought the town of South Park to the brink of disaster.
 	
 
 	
+	
+
+### Holy Spider
+*Released on 2022-07-13, vote average 8*
+
+A journalist descends into the dark underbelly of the Iranian holy city of Mashhad as she investigates the serial killings of sex workers by the so called &#34;Spider Killer&#34;, who believes he is cleansing the streets of sinners.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/djtAE8Op-zs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
@@ -426,22 +494,9 @@ After her sister&#39;s murder, Nic, her younger sister and two friends seek sola
 	
 
 	
-	
-
-### Holy Spider
-*Released on 2022-07-13, vote average 8*
-
-A journalist descends into the dark underbelly of the Iranian holy city of Mashhad as she investigates the serial killings of sex workers by the so called &#34;Spider Killer&#34;, who believes he is cleansing the streets of sinners.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/djtAE8Op-zs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
 
 	
+
 	
 
 	
@@ -450,10 +505,6 @@ A journalist descends into the dark underbelly of the Iranian holy city of Mashh
 
 	
 	
-	
-
-	
-
 	
 
 
