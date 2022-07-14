@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Minions: The Rise of Gru
-*Released on 2022-06-29, vote average 7.9*
+### Thor: Love and Thunder
+*Released on 2022-07-06, vote average 6.9*
 
-A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.
+After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now inexplicably wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/HhIl_XJ-OGA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/uVrlq2tT90U?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -40,28 +40,6 @@ A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-
-
-	
-	
-
-### Thor: Love and Thunder
-*Released on 2022-07-06, vote average 7*
-
-After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now inexplicably wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/uVrlq2tT90U?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
   
 
 
@@ -91,7 +69,7 @@ Clare and Aidan, who after making a pact that they would break up before college
 	
 
 ### Girl in the Picture
-*Released on 2022-07-06, vote average 7.1*
+*Released on 2022-07-06, vote average 7.2*
 
 A young mother’s mysterious death and her son’s subsequent kidnapping blow open a decades-long mystery about the woman’s true identity, and the murderous federal fugitive at the center of it all.
 
@@ -122,28 +100,6 @@ An ex-hacker is forced to break into high-level banking institutions, another ma
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/9Y59imeaYCo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Z-O-M-B-I-E-S 3
-*Released on 2022-07-09, vote average 9.5*
-
-Zed and Addison are beginning their final year at Seabrook High in the town that’s become a safe haven for monsters and humans alike. Zed is anticipating an athletic scholarship that will make him the first Zombie to attend college, while Addison is gearing up for Seabrook’s first international cheer-off competition. Then suddenly, extraterrestrial beings appear around Seabrook, provoking something other than friendly competition
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EGsoC0bWakU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -200,8 +156,30 @@ Mickey Mouse and his friends each recall the wild events leading up to the Annua
 	
 	
 
+### Z-O-M-B-I-E-S 3
+*Released on 2022-07-09, vote average 5.8*
+
+Zed and Addison are beginning their final year at Seabrook High in the town that’s become a safe haven for monsters and humans alike. Zed is anticipating an athletic scholarship that will make him the first Zombie to attend college, while Addison is gearing up for Seabrook’s first international cheer-off competition. Then suddenly, extraterrestrial beings appear around Seabrook, provoking something other than friendly competition
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EGsoC0bWakU?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Dangerous Liaisons
-*Released on 2022-07-08, vote average 5.6*
+*Released on 2022-07-08, vote average 5.7*
 
 The innocent Célène might be falling in love with popular surfer Tristan at her new school. But she has no idea that, in actuality, she’s the object of a cruel bet between Tristan and Instagram influencer Vanessa.
 
@@ -222,6 +200,33 @@ The innocent Célène might be falling in love with popular surfer Tristan at he
 	
 	
 
+### The Gray Man
+*Released on 2022-07-14, vote average 3*
+
+When the CIA&#39;s most skilled mercenary known as Court Gentry, aka Sierra Six, accidentally uncovers dark agency secrets, he becomes a primary target and is hunted around the world by psychopathic former colleague Lloyd Hansen and international assassins.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/D346arxIYBk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
 ### Code Name Banshee
 *Released on 2022-07-01, vote average 5.1*
 
@@ -232,6 +237,28 @@ Caleb, a former government assassin in hiding, who resurfaces when his protégé
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/Cj876ciYN0E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### South Park the Streaming Wars Part 2
+*Released on 2022-07-13, vote average 6*
+
+A drought has brought the town of South Park to the brink of disaster.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/9cRTa0Pk_NM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -270,21 +297,60 @@ The company soldier Hannah and the scientists Gavin and Dimitri are researching 
 
 	
 	
+	
 
-### South Park the Streaming Wars Part 2
-*Released on 2022-07-13, vote average 10*
+  
 
-A drought has brought the town of South Park to the brink of disaster.
+
+	
+	
+
+### Bill Burr: Live at Red Rocks
+*Released on 2022-07-12, vote average 7.5*
+
+Comedian Bill Burr sounds off on cancel culture, feminism, getting bad reviews from his wife and a life-changing epiphany during a fiery stand-up set.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/XfifPt9Lqls?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/GzFBZY_wEMQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+	
+
+### Holy Spider
+*Released on 2022-07-13, vote average 8*
+
+A journalist descends into the dark underbelly of the Iranian holy city of Mashhad as she investigates the serial killings of sex workers by the so called &#34;Spider Killer&#34;, who believes he is cleansing the streets of sinners.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/djtAE8Op-zs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
 	
 
   
@@ -312,70 +378,6 @@ The movie focuses on the fury state that was among the people in synchronization
   
 
 
-	
-	
-
-### The Making of Doctor Strange in the Multiverse of Madness
-*Released on 2022-07-08, vote average 6.2*
-
-Join visionary director Sam Raimi and the cast of the film as they recount their experiences bringing Marvel’s darkest story to life.  From world-building to universe-building, hear first hand accounts from the cast and crew on what it took to design, create and make each universe unique and believable.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/RjYmr_QuU2Q?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Decision to Leave
-*Released on 2022-06-29, vote average 7.4*
-
-Hae-Joon, a seasoned detective, investigates the suspicious death of a man on a mountaintop. Soon, he begins to suspect Seo-rae, the deceased&#39;s wife, while being unsettled by his attraction to her.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/-nrhjRigcBQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
 
 ## Opening soon
 
@@ -386,7 +388,7 @@ Hae-Joon, a seasoned detective, investigates the suspicious death of a man on a 
 	
 
 ### Father There Is Only One 3
-*Released on 2022-07-15, vote average 10*
+*Released on 2022-07-15, vote average 6*
 
 Christmas is coming. The children accidentally break a Nativity scene figurine from their father&#39;s collection and must by all means get an equal one, the problem is that it is a unique antique piece. Sara, the eldest daughter breaks up with her boyfriend, Ocho, who will try to recover her favors with the help of her father-in-law, Javier. Precisely Javier&#39;s father-in-law, Marisa&#39;s father, will be welcomed into the family home to spend the holidays after her recent separation, which will not leave Javier&#39;s mother, Milagros, indifferent. Rocío, the folklore of the family, who has been playing the Virgin for several Christmases, is relegated this year to playing the shepherdess, something that her father, Javier, is not willing to assume.
 
@@ -427,49 +429,20 @@ When the CIA&#39;s most skilled mercenary known as Court Gentry, aka Sierra Six,
 	
 	
 
-### South Park the Streaming Wars Part 2
-*Released on 2022-07-13, vote average 10*
+### Where the Crawdads Sing
+*Released on 2022-07-15, vote average 2*
 
-A drought has brought the town of South Park to the brink of disaster.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/XfifPt9Lqls?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
-
-	
-	
-
-### Holy Spider
-*Released on 2022-07-13, vote average 8*
-
-A journalist descends into the dark underbelly of the Iranian holy city of Mashhad as she investigates the serial killings of sex workers by the so called &#34;Spider Killer&#34;, who believes he is cleansing the streets of sinners.
+Abandoned by her family, Kya raises herself all alone in the marshes outside of her small town. When her former boyfriend is found dead, Kya is instantly branded by the local townspeople and law enforcement as the prime suspect for his murder.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/djtAE8Op-zs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/sKhij0869XQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-	
-
 	
 
 	
@@ -494,6 +467,67 @@ After her sister&#39;s murder, Nic, her younger sister and two friends seek sola
 	
 
 	
+	
+
+### American Carnage
+*Released on 2022-07-15, vote average 6*
+
+After a governor issues an executive order to arrest the children of undocumented immigrants, the detained youth are offered an opportunity to have their charges dropped by volunteering to provide care to the elderly. Once inside the elder care facility, however, they discover more twisted secrets than they could have possibly imagined.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/6tkqLPCg7x0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### Belong To Us
+*Released on 2022-07-14, vote average 9*
+
+An injured dog finds it&#39;s way into the hearts of a family after escaping an underground dog-fighting ring.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Sk3r7mHwWSw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Mrs. Harris Goes to Paris
+*Released on 2022-07-15, vote average 2*
+
+A new adaptation of Paul Gallico&#39;s much-loved novel about a cleaning lady in 1950s London who falls in love with an haute couture dress by Christian Dior and decides to gamble everything for the sake of this folly.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/v27flYOY3_Y?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
@@ -504,7 +538,7 @@ After her sister&#39;s murder, Nic, her younger sister and two friends seek sola
 	
 
 	
-	
+
 	
 
 
