@@ -21,7 +21,7 @@ After his retirement is interrupted by Gorr the God Butcher, a galactic killer w
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/uVrlq2tT90U?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/GiN9pn41XDw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -44,10 +44,15 @@ After his retirement is interrupted by Gorr the God Butcher, a galactic killer w
 
 
 	
+
+  
+
+
+	
 	
 
 ### Hello, Goodbye, and Everything in Between
-*Released on 2022-07-06, vote average 5.8*
+*Released on 2022-07-06, vote average 5.9*
 
 Clare and Aidan, who after making a pact that they would break up before college, find themselves retracing the steps of their relationship on their last evening as a couple. The epic date leads them to familiar landmarks, unexpected places, and causes them to question whether high school love is meant to last.
 
@@ -68,16 +73,16 @@ Clare and Aidan, who after making a pact that they would break up before college
 	
 	
 
-### Girl in the Picture
-*Released on 2022-07-06, vote average 7.2*
+### Father There Is Only One 3
+*Released on 2022-07-15, vote average 6*
 
-A young mother’s mysterious death and her son’s subsequent kidnapping blow open a decades-long mystery about the woman’s true identity, and the murderous federal fugitive at the center of it all.
+Christmas is coming. The children accidentally break a Nativity scene figurine from their father&#39;s collection and must by all means get an equal one, the problem is that it is a unique antique piece. Sara, the eldest daughter breaks up with her boyfriend, Ocho, who will try to recover her favors with the help of her father-in-law, Javier. Precisely Javier&#39;s father-in-law, Marisa&#39;s father, will be welcomed into the family home to spend the holidays after her recent separation, which will not leave Javier&#39;s mother, Milagros, indifferent. Rocío, the folklore of the family, who has been playing the Virgin for several Christmases, is relegated this year to playing the shepherdess, something that her father, Javier, is not willing to assume.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/jnJ4BGNpby8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/yvftz2RyXOI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -91,7 +96,7 @@ A young mother’s mysterious death and her son’s subsequent kidnapping blow o
 	
 
 ### Hot Seat
-*Released on 2022-07-01, vote average 7.3*
+*Released on 2022-07-01, vote average 7*
 
 An ex-hacker is forced to break into high-level banking institutions, another man must try to penetrate the booby-trapped building to get the young man off the hot seat.
 
@@ -112,16 +117,16 @@ An ex-hacker is forced to break into high-level banking institutions, another ma
 	
 	
 
-### Thor: God of Thunder
-*Released on 2022-07-08, vote average 4.7*
+### Girl in the Picture
+*Released on 2022-07-06, vote average 7.3*
 
-Thor’s villainous brother Loki has escaped Asgard to search for Yggdrasil — The Tree of the Nine Realms. The tree holds the power of the Universe, and is secreted away on Earth. With the help of giant wolf god Fenrir, Loki plans to destroy the tree and replant it in his image, giving him dominion over all. Now Thor must follow Loki to Earth to wage an epic battle that will hold the two worlds in its balance.
+A young mother’s mysterious death and her son’s subsequent kidnapping blow open a decades-long mystery about the woman’s true identity, and the murderous federal fugitive at the center of it all.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Lv4ME566BKQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/jnJ4BGNpby8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -144,6 +149,28 @@ Mickey Mouse and his friends each recall the wild events leading up to the Annua
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/ubkbxn7tFwQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Thor: God of Thunder
+*Released on 2022-07-08, vote average 4.7*
+
+Thor’s villainous brother Loki has escaped Asgard to search for Yggdrasil — The Tree of the Nine Realms. The tree holds the power of the Universe, and is secreted away on Earth. With the help of giant wolf god Fenrir, Loki plans to destroy the tree and replant it in his image, giving him dominion over all. Now Thor must follow Loki to Earth to wage an epic battle that will hold the two worlds in its balance.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Lv4ME566BKQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -179,7 +206,7 @@ Zed and Addison are beginning their final year at Seabrook High in the town that
 	
 
 ### Dangerous Liaisons
-*Released on 2022-07-08, vote average 5.7*
+*Released on 2022-07-08, vote average 5.5*
 
 The innocent Célène might be falling in love with popular surfer Tristan at her new school. But she has no idea that, in actuality, she’s the object of a cruel bet between Tristan and Instagram influencer Vanessa.
 
@@ -227,30 +254,8 @@ When the CIA&#39;s most skilled mercenary known as Court Gentry, aka Sierra Six,
 	
 	
 
-### Code Name Banshee
-*Released on 2022-07-01, vote average 5.1*
-
-Caleb, a former government assassin in hiding, who resurfaces when his protégé, the equally deadly killer known as Banshee, discovers a bounty has been placed on Caleb&#39;s head.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Cj876ciYN0E?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### South Park the Streaming Wars Part 2
-*Released on 2022-07-13, vote average 6*
+*Released on 2022-07-13, vote average 6.3*
 
 A drought has brought the town of South Park to the brink of disaster.
 
@@ -268,6 +273,89 @@ A drought has brought the town of South Park to the brink of disaster.
   
 
 
+	
+	
+
+### My Daughter&#39;s Killer
+*Released on 2022-07-12, vote average 7*
+
+A father fights for decades to bring his daughter&#39;s killer to justice in France and Germany before taking extreme measures.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/KeG31dmeYyk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Bill Burr: Live at Red Rocks
+*Released on 2022-07-12, vote average 8.2*
+
+Comedian Bill Burr sounds off on cancel culture, feminism, getting bad reviews from his wife and a life-changing epiphany during a fiery stand-up set.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/GzFBZY_wEMQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Where the Crawdads Sing
+*Released on 2022-07-15, vote average 2*
+
+Abandoned by her family, Kya raises herself all alone in the marshes outside of her small town. When her former boyfriend is found dead, Kya is instantly branded by the local townspeople and law enforcement as the prime suspect for his murder.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/sKhij0869XQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Code Name Banshee
+*Released on 2022-07-01, vote average 5.1*
+
+Caleb, a former government assassin in hiding, who resurfaces when his protégé, the equally deadly killer known as Banshee, discovers a bounty has been placed on Caleb&#39;s head.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Cj876ciYN0E?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -297,24 +385,17 @@ The company soldier Hannah and the scientists Gavin and Dimitri are researching 
 
 	
 	
-	
 
-  
+### The Reef: Stalked
+*Released on 2022-07-14, vote average 2*
 
-
-	
-	
-
-### Bill Burr: Live at Red Rocks
-*Released on 2022-07-12, vote average 7.5*
-
-Comedian Bill Burr sounds off on cancel culture, feminism, getting bad reviews from his wife and a life-changing epiphany during a fiery stand-up set.
+After her sister&#39;s murder, Nic, her younger sister and two friends seek solace through a Pacific island kayaking adventure. Hours into the trip the women are stalked by a shark and must band together, face their fears and save each other.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/GzFBZY_wEMQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/nIp6z5WtQPw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -324,55 +405,6 @@ Comedian Bill Burr sounds off on cancel culture, feminism, getting bad reviews f
   
 
 
-	
-
-  
-
-
-	
-	
-
-### Holy Spider
-*Released on 2022-07-13, vote average 8*
-
-A journalist descends into the dark underbelly of the Iranian holy city of Mashhad as she investigates the serial killings of sex workers by the so called &#34;Spider Killer&#34;, who believes he is cleansing the streets of sinners.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/djtAE8Op-zs?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-
-### Kira &amp; El Gin
-*Released on 2022-06-30, vote average 10*
-
-The movie focuses on the fury state that was among the people in synchronization with the main event in Egypt: The Egyptian revolution &#34;1919&#34; which unites the fates of Keera and El Gin to participate in the struggle against the English occupation.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ezQlEh6Fs6o?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -406,29 +438,6 @@ Christmas is coming. The children accidentally break a Nativity scene figurine f
 	
 	
 
-### The Gray Man
-*Released on 2022-07-14, vote average 3*
-
-When the CIA&#39;s most skilled mercenary known as Court Gentry, aka Sierra Six, accidentally uncovers dark agency secrets, he becomes a primary target and is hunted around the world by psychopathic former colleague Lloyd Hansen and international assassins.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/D346arxIYBk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
-	
-
 ### Where the Crawdads Sing
 *Released on 2022-07-15, vote average 2*
 
@@ -439,25 +448,6 @@ Abandoned by her family, Kya raises herself all alone in the marshes outside of 
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/sKhij0869XQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-	
-
-### The Reef: Stalked
-*Released on 2022-07-14, vote average 2*
-
-After her sister&#39;s murder, Nic, her younger sister and two friends seek solace through a Pacific island kayaking adventure. Hours into the trip the women are stalked by a shark and must band together, face their fears and save each other.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/nIp6z5WtQPw?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -486,27 +476,6 @@ After a governor issues an executive order to arrest the children of undocumente
 	
 
 	
-	
-
-### Belong To Us
-*Released on 2022-07-14, vote average 9*
-
-An injured dog finds it&#39;s way into the hearts of a family after escaping an underground dog-fighting ring.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Sk3r7mHwWSw?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
 
 	
 
@@ -530,7 +499,53 @@ A new adaptation of Paul Gallico&#39;s much-loved novel about a cleaning lady in
 	
 
 	
+	
 
+### The Railway Children Return
+*Released on 2022-07-15, vote average 10*
+
+Follow a group of children who are evacuated to a Yorkshire village during the Second World War, where they encounter a young soldier who, like them, is far away from home.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Y0tDXTY5AKk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+### Gone in the Night
+*Released on 2022-07-15, vote average 10*
+
+Upon arriving at a remote cabin in the redwoods, Kath and her boyfriend find a mysterious younger couple already there — the rental has apparently been double-booked. They decide to share the cabin with these strangers until the next morning, but her boyfriend disappears with the young woman, which sends Kath in a spiral to find an explanation for their sudden breakup — but the truth is far stranger than she could have imagined.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/tu8xCKo_SCA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
