@@ -46,6 +46,28 @@ After his retirement is interrupted by Gorr the God Butcher, a galactic killer w
 	
 	
 
+### Father There Is Only One 3
+*Released on 2022-07-15, vote average 5.8*
+
+Christmas is coming. The children accidentally break a Nativity scene figurine from their father&#39;s collection and must by all means get an equal one, the problem is that it is a unique antique piece. Sara, the eldest daughter breaks up with her boyfriend, Ocho, who will try to recover her favors with the help of her father-in-law, Javier. Precisely Javier&#39;s father-in-law, Marisa&#39;s father, will be welcomed into the family home to spend the holidays after her recent separation, which will not leave Javier&#39;s mother, Milagros, indifferent. Rocío, the folklore of the family, who has been playing the Virgin for several Christmases, is relegated this year to playing the shepherdess, something that her father, Javier, is not willing to assume.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/yvftz2RyXOI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Padre no hay más que uno 3
 *Released on 2022-07-15, vote average 8.5*
 
@@ -68,52 +90,8 @@ Christmas is coming. The children accidentally break a Nativity scene figurine f
 	
 	
 
-### Father There Is Only One 3
-*Released on 2022-07-15, vote average 7.3*
-
-Christmas is coming. The children accidentally break a Nativity scene figurine from their father&#39;s collection and must by all means get an equal one, the problem is that it is a unique antique piece. Sara, the eldest daughter breaks up with her boyfriend, Ocho, who will try to recover her favors with the help of her father-in-law, Javier. Precisely Javier&#39;s father-in-law, Marisa&#39;s father, will be welcomed into the family home to spend the holidays after her recent separation, which will not leave Javier&#39;s mother, Milagros, indifferent. Rocío, the folklore of the family, who has been playing the Virgin for several Christmases, is relegated this year to playing the shepherdess, something that her father, Javier, is not willing to assume.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/yvftz2RyXOI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### The Wonderful Summer of Mickey Mouse
-*Released on 2022-07-08, vote average 6.7*
-
-Mickey Mouse and his friends each recall the wild events leading up to the Annual Summer Fireworks Spectacular from their point-of-view.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ubkbxn7tFwQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Hello, Goodbye, and Everything in Between
-*Released on 2022-07-06, vote average 5.9*
+*Released on 2022-07-06, vote average 5.8*
 
 Clare and Aidan, who after making a pact that they would break up before college, find themselves retracing the steps of their relationship on their last evening as a couple. The epic date leads them to familiar landmarks, unexpected places, and causes them to question whether high school love is meant to last.
 
@@ -156,8 +134,30 @@ Zed and Addison are beginning their final year at Seabrook High in the town that
 	
 	
 
+### The Wonderful Summer of Mickey Mouse
+*Released on 2022-07-08, vote average 5.3*
+
+Mickey Mouse and his friends each recall the wild events leading up to the Annual Summer Fireworks Spectacular from their point-of-view.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ubkbxn7tFwQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Girl in the Picture
-*Released on 2022-07-06, vote average 7.2*
+*Released on 2022-07-06, vote average 7.1*
 
 A young mother’s mysterious death and her son’s subsequent kidnapping blow open a decades-long mystery about the woman’s true identity, and the murderous federal fugitive at the center of it all.
 
@@ -178,30 +178,8 @@ A young mother’s mysterious death and her son’s subsequent kidnapping blow o
 	
 	
 
-### Thor: God of Thunder
-*Released on 2022-07-08, vote average 4.7*
-
-Thor’s villainous brother Loki has escaped Asgard to search for Yggdrasil — The Tree of the Nine Realms. The tree holds the power of the Universe, and is secreted away on Earth. With the help of giant wolf god Fenrir, Loki plans to destroy the tree and replant it in his image, giving him dominion over all. Now Thor must follow Loki to Earth to wage an epic battle that will hold the two worlds in its balance.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Lv4ME566BKQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### My Daughter&#39;s Killer
-*Released on 2022-07-12, vote average 7.5*
+*Released on 2022-07-12, vote average 6.5*
 
 A father fights for decades to bring his daughter&#39;s killer to justice in France and Germany before taking extreme measures.
 
@@ -222,16 +200,16 @@ A father fights for decades to bring his daughter&#39;s killer to justice in Fra
 	
 	
 
-### The Gray Man
-*Released on 2022-07-13, vote average 5.3*
+### Thor: God of Thunder
+*Released on 2022-07-08, vote average 3.8*
 
-When the CIA&#39;s most skilled mercenary known as Court Gentry, aka Sierra Six, accidentally uncovers dark agency secrets, he becomes a primary target and is hunted around the world by psychopathic former colleague Lloyd Hansen and international assassins.
+Thor’s villainous brother Loki has escaped Asgard to search for Yggdrasil — The Tree of the Nine Realms. The tree holds the power of the Universe, and is secreted away on Earth. With the help of giant wolf god Fenrir, Loki plans to destroy the tree and replant it in his image, giving him dominion over all. Now Thor must follow Loki to Earth to wage an epic battle that will hold the two worlds in its balance.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/D346arxIYBk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Lv4ME566BKQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -242,11 +220,50 @@ When the CIA&#39;s most skilled mercenary known as Court Gentry, aka Sierra Six,
 
 
 	
+	
+
+### Green Lantern: Beware My Power
+*Released on 2022-07-12, vote average 4.3*
+
+Recently discharged Marine sniper John Stewart is at a crossroads in his life, one which is only complicated by receiving an extraterrestrial ring which grants him the powers of the Green Lantern of Earth. Unfortunately, the ring doesn&#39;t come with instructions - but it does come with baggage, like a horde of interplanetary killers bent on eliminating every Green Lantern in the universe. Now, with the aid of the light-hearted Green Arrow, Adam Strange and Hawkgirl, this reluctant soldier must journey into the heart of a galactic Rann/Thanagar war and somehow succeed where all other Green Lanterns have failed.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/bjD3r8wPQQA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
 
 	
+	
+	
+
+  
+
+
+	
+	
+
+### The Gray Man
+*Released on 2022-07-13, vote average 5.3*
+
+When the CIA&#39;s most skilled mercenary known as Court Gentry, aka Sierra Six, accidentally uncovers dark agency secrets, he becomes a primary target and is hunted around the world by psychopathic former colleague Lloyd Hansen and international assassins.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/fBpdF_Vrh40?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
 	
 	
 
@@ -257,7 +274,7 @@ When the CIA&#39;s most skilled mercenary known as Court Gentry, aka Sierra Six,
 	
 
 ### South Park the Streaming Wars Part 2
-*Released on 2022-07-13, vote average 7*
+*Released on 2022-07-13, vote average 6.7*
 
 A drought has brought the town of South Park to the brink of disaster.
 
@@ -279,7 +296,7 @@ A drought has brought the town of South Park to the brink of disaster.
 	
 
 ### Dangerous Liaisons
-*Released on 2022-07-08, vote average 5.5*
+*Released on 2022-07-08, vote average 5.4*
 
 The innocent Célène might be falling in love with popular surfer Tristan at her new school. But she has no idea that, in actuality, she’s the object of a cruel bet between Tristan and Instagram influencer Vanessa.
 
@@ -291,35 +308,6 @@ The innocent Célène might be falling in love with popular surfer Tristan at he
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
-	
-
-### Paws of Fury: The Legend of Hank
-*Released on 2022-07-14, vote average 5.5*
-
-A hard-on-his-luck hound Hank finds himself in a town full of cats who need a hero to defend them from a ruthless villain&#39;s evil plot to wipe their village off the map. With help from a reluctant teacher to train him, our underdog must assume the role of town samurai and team up with the villagers to save the day.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/SZgwEeOSQi0?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -351,8 +339,44 @@ A methamphetamine cook hunts down the former police chief of a small town in ord
 	
 	
 
+### Paws of Fury: The Legend of Hank
+*Released on 2022-07-14, vote average 3.6*
+
+A hard-on-his-luck hound Hank finds himself in a town full of cats who need a hero to defend them from a ruthless villain&#39;s evil plot to wipe their village off the map. With help from a reluctant teacher to train him, our underdog must assume the role of town samurai and team up with the villagers to save the day.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/SZgwEeOSQi0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
 ### Love Accidentally
-*Released on 2022-07-15, vote average 6.5*
+*Released on 2022-07-15, vote average 6.4*
 
 Alexa and Jason are competing for a position at an advertising firm when their partners break up with them. Alexa mistakenly texts Jason, and they start a phone-only relationship. When they meet and the truth comes out, will true love prevail?
 
@@ -371,10 +395,22 @@ Alexa and Jason are competing for a position at an advertising firm when their p
 
 
 	
+	
 
-  
+### She Will
+*Released on 2022-07-15, vote average 5*
 
+Veronica, an aging film star, retreats to the Scottish countryside with her nurse Desi to recover from  a double mastectomy. While there, mysterious forces give Veronica the power to enact revenge within her dreams.
 
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/1gAw-8JnFrI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -384,6 +420,23 @@ Alexa and Jason are competing for a position at an advertising firm when their p
 ## Opening soon
 
 
+	
+	
+
+### Nope
+*Released on 2022-07-20, vote average 4.5*
+
+Residents in a lonely gulch of inland California bear witness to an uncanny, chilling discovery.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/dxGReS_Cnrc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
