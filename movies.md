@@ -47,7 +47,7 @@ After his retirement is interrupted by Gorr the God Butcher, a galactic killer w
 	
 
 ### Z-O-M-B-I-E-S 3
-*Released on 2022-07-09, vote average 8.3*
+*Released on 2022-07-09, vote average 8.1*
 
 Zed and Addison are beginning their final year at Seabrook High in the town that’s become a safe haven for monsters and humans alike. Zed is anticipating an athletic scholarship that will make him the first Zombie to attend college, while Addison is gearing up for Seabrook’s first international cheer-off competition. Then suddenly, extraterrestrial beings appear around Seabrook, provoking something other than friendly competition.
 
@@ -112,28 +112,6 @@ Christmas is coming. The children accidentally break a Nativity scene figurine f
 	
 	
 
-### The Wonderful Summer of Mickey Mouse
-*Released on 2022-07-08, vote average 5.4*
-
-Mickey Mouse and his friends each recall the wild events leading up to the Annual Summer Fireworks Spectacular from their point-of-view.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/ubkbxn7tFwQ?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
 ### Green Lantern: Beware My Power
 *Released on 2022-07-12, vote average 6.8*
 
@@ -163,16 +141,16 @@ Recently discharged Marine sniper John Stewart is at a crossroads in his life, o
 	
 	
 
-### My Daughter&#39;s Killer
-*Released on 2022-07-12, vote average 6.6*
+### The Wonderful Summer of Mickey Mouse
+*Released on 2022-07-08, vote average 5.4*
 
-A father fights for decades to bring his daughter&#39;s killer to justice in France and Germany before taking extreme measures.
+Mickey Mouse and his friends each recall the wild events leading up to the Annual Summer Fireworks Spectacular from their point-of-view.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/KeG31dmeYyk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/ubkbxn7tFwQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -186,7 +164,7 @@ A father fights for decades to bring his daughter&#39;s killer to justice in Fra
 	
 
 ### Thor: God of Thunder
-*Released on 2022-07-08, vote average 4.8*
+*Released on 2022-07-08, vote average 4.5*
 
 Thor’s villainous brother Loki has escaped Asgard to search for Yggdrasil — The Tree of the Nine Realms. The tree holds the power of the Universe, and is secreted away on Earth. With the help of giant wolf god Fenrir, Loki plans to destroy the tree and replant it in his image, giving him dominion over all. Now Thor must follow Loki to Earth to wage an epic battle that will hold the two worlds in its balance.
 
@@ -207,16 +185,16 @@ Thor’s villainous brother Loki has escaped Asgard to search for Yggdrasil — 
 	
 	
 
-### Nope
-*Released on 2022-07-20, vote average 3.7*
+### My Daughter&#39;s Killer
+*Released on 2022-07-12, vote average 6.7*
 
-Residents in a lonely gulch of inland California bear witness to an uncanny, chilling discovery.
+A father fights for decades to bring his daughter&#39;s killer to justice in France and Germany before taking extreme measures.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/dxGReS_Cnrc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/KeG31dmeYyk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -230,7 +208,7 @@ Residents in a lonely gulch of inland California bear witness to an uncanny, chi
 	
 
 ### The Gray Man
-*Released on 2022-07-13, vote average 5.9*
+*Released on 2022-07-13, vote average 6.2*
 
 When the CIA&#39;s most skilled mercenary known as Court Gentry, aka Sierra Six, accidentally uncovers dark agency secrets, he becomes a primary target and is hunted around the world by psychopathic former colleague Lloyd Hansen and international assassins.
 
@@ -239,6 +217,28 @@ When the CIA&#39;s most skilled mercenary known as Court Gentry, aka Sierra Six,
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/fBpdF_Vrh40?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Nope
+*Released on 2022-07-20, vote average 6*
+
+Residents in a lonely gulch of inland California bear witness to an uncanny, chilling discovery.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/dxGReS_Cnrc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -315,6 +315,11 @@ A hard-on-his-luck hound Hank finds himself in a town full of cats who need a he
 
 
 	
+
+  
+
+
+	
 	
 
 ### Wrong Place
@@ -337,10 +342,15 @@ A methamphetamine cook hunts down the former police chief of a small town in ord
 
 
 	
+
+  
+
+
+	
 	
 
 ### Where the Crawdads Sing
-*Released on 2022-07-15, vote average 5.5*
+*Released on 2022-07-15, vote average 5.1*
 
 Abandoned by her family, Kya raises herself all alone in the marshes outside of her small town. When her former boyfriend is found dead, Kya is instantly branded by the local townspeople and law enforcement as the prime suspect for his murder.
 
@@ -359,6 +369,8 @@ Abandoned by her family, Kya raises herself all alone in the marshes outside of 
 
 
 	
+	
+	
 
   
 
@@ -366,31 +378,19 @@ Abandoned by her family, Kya raises herself all alone in the marshes outside of 
 	
 	
 
-### Nikki Glaser: Good Clean Filth
-*Released on 2022-07-16, vote average 4.5*
+### Kitty K7
+*Released on 2022-07-08, vote average 4*
 
-Comedian and actress Nikki Glaser takes on a range of topics in her brutally-honest yet conversational style. Whether she’s dishing about sex, outlining the do’s and dont’s of dating (and how to trick someone into marriage), or oversharing about her (not-so-private) parts, Glaser delivers an hour of unapologetic and no-holds-barred comedy around topics often considered “taboo,” and showcases her ability to pivot from humiliating moments to being an empowering voice for women: the kind she yearned for as a confused adolescent.
+After her boyfriend broke up with her, Hana, an underpaid graphic artist, reinvents herself as Kitty K-7, the newest camgirl of the alter world.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/xwbJ-Z96MTc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/lihUv1NVIKo?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
 	
 	
 
