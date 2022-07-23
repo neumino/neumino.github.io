@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### Thor: Love and Thunder
-*Released on 2022-07-08, vote average 6.8*
+### Z-O-M-B-I-E-S 3
+*Released on 2022-07-09, vote average 7.9*
 
-After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now inexplicably wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.
+Zed and Addison are beginning their final year at Seabrook High in the town that’s become a safe haven for monsters and humans alike. Zed is anticipating an athletic scholarship that will make him the first Zombie to attend college, while Addison is gearing up for Seabrook’s first international cheer-off competition. Then suddenly, extraterrestrial beings appear around Seabrook, provoking something other than friendly competition.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/sN3HEtWOcjA?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/EGsoC0bWakU?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -40,72 +40,6 @@ After his retirement is interrupted by Gorr the God Butcher, a galactic killer w
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-
-
-	
-	
-
-### Z-O-M-B-I-E-S 3
-*Released on 2022-07-09, vote average 8.1*
-
-Zed and Addison are beginning their final year at Seabrook High in the town that’s become a safe haven for monsters and humans alike. Zed is anticipating an athletic scholarship that will make him the first Zombie to attend college, while Addison is gearing up for Seabrook’s first international cheer-off competition. Then suddenly, extraterrestrial beings appear around Seabrook, provoking something other than friendly competition.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/EGsoC0bWakU?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Father There Is Only One 3
-*Released on 2022-07-15, vote average 5.8*
-
-Christmas is coming. The children accidentally break a Nativity scene figurine from their father&#39;s collection and must by all means get an equal one, the problem is that it is a unique antique piece. Sara, the eldest daughter breaks up with her boyfriend, Ocho, who will try to recover her favors with the help of her father-in-law, Javier. Precisely Javier&#39;s father-in-law, Marisa&#39;s father, will be welcomed into the family home to spend the holidays after her recent separation, which will not leave Javier&#39;s mother, Milagros, indifferent. Rocío, the folklore of the family, who has been playing the Virgin for several Christmases, is relegated this year to playing the shepherdess, something that her father, Javier, is not willing to assume.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/yvftz2RyXOI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Padre no hay más que uno 3
-*Released on 2022-07-15, vote average 6.3*
-
-Christmas is coming. The children accidentally break a Nativity scene figurine from their father&#39;s collection and must by all means get an equal one, the problem is that it is a unique antique piece. Sara, the eldest daughter breaks up with her boyfriend, Ocho, who will try to recover her favors with the help of her father-in-law, Javier. Precisely Javier&#39;s father-in-law, Marisa&#39;s father, will be welcomed into the family home to spend the holidays after her recent separation, which will not leave Javier&#39;s mother, Milagros, indifferent. Rocío, the folklore of the family, who has been playing the Virgin for several Christmases, is relegated this year to playing the shepherdess, something that her father, Javier, is not willing to assume.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/NM9Hbc1m2Lk?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
   
 
 
@@ -133,24 +67,17 @@ Recently discharged Marine sniper John Stewart is at a crossroads in his life, o
 
 	
 	
-	
 
-  
+### Father There Is Only One 3
+*Released on 2022-07-15, vote average 5.5*
 
-
-	
-	
-
-### The Wonderful Summer of Mickey Mouse
-*Released on 2022-07-08, vote average 5.4*
-
-Mickey Mouse and his friends each recall the wild events leading up to the Annual Summer Fireworks Spectacular from their point-of-view.
+Christmas is coming. The children accidentally break a Nativity scene figurine from their father&#39;s collection and must by all means get an equal one, the problem is that it is a unique antique piece. Sara, the eldest daughter breaks up with her boyfriend, Ocho, who will try to recover her favors with the help of her father-in-law, Javier. Precisely Javier&#39;s father-in-law, Marisa&#39;s father, will be welcomed into the family home to spend the holidays after her recent separation, which will not leave Javier&#39;s mother, Milagros, indifferent. Rocío, the folklore of the family, who has been playing the Virgin for several Christmases, is relegated this year to playing the shepherdess, something that her father, Javier, is not willing to assume.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/ubkbxn7tFwQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/yvftz2RyXOI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -162,17 +89,24 @@ Mickey Mouse and his friends each recall the wild events leading up to the Annua
 
 	
 	
+	
 
-### Thor: God of Thunder
-*Released on 2022-07-08, vote average 4.5*
+  
 
-Thor’s villainous brother Loki has escaped Asgard to search for Yggdrasil — The Tree of the Nine Realms. The tree holds the power of the Universe, and is secreted away on Earth. With the help of giant wolf god Fenrir, Loki plans to destroy the tree and replant it in his image, giving him dominion over all. Now Thor must follow Loki to Earth to wage an epic battle that will hold the two worlds in its balance.
+
+	
+	
+
+### Padre no hay más que uno 3
+*Released on 2022-07-15, vote average 6.3*
+
+Christmas is coming. The children accidentally break a Nativity scene figurine from their father&#39;s collection and must by all means get an equal one, the problem is that it is a unique antique piece. Sara, the eldest daughter breaks up with her boyfriend, Ocho, who will try to recover her favors with the help of her father-in-law, Javier. Precisely Javier&#39;s father-in-law, Marisa&#39;s father, will be welcomed into the family home to spend the holidays after her recent separation, which will not leave Javier&#39;s mother, Milagros, indifferent. Rocío, the folklore of the family, who has been playing the Virgin for several Christmases, is relegated this year to playing the shepherdess, something that her father, Javier, is not willing to assume.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Lv4ME566BKQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/NM9Hbc1m2Lk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -216,7 +150,7 @@ When the CIA&#39;s most skilled mercenary known as Court Gentry, aka Sierra Six,
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/fBpdF_Vrh40?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Anp4SdWoyqM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -230,7 +164,7 @@ When the CIA&#39;s most skilled mercenary known as Court Gentry, aka Sierra Six,
 	
 
 ### Nope
-*Released on 2022-07-20, vote average 6*
+*Released on 2022-07-20, vote average 6.7*
 
 Residents in a lonely gulch of inland California bear witness to an uncanny, chilling discovery.
 
@@ -239,50 +173,6 @@ Residents in a lonely gulch of inland California bear witness to an uncanny, chi
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/dxGReS_Cnrc?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Dangerous Liaisons
-*Released on 2022-07-08, vote average 5.4*
-
-The innocent Célène might be falling in love with popular surfer Tristan at her new school. But she has no idea that, in actuality, she’s the object of a cruel bet between Tristan and Instagram influencer Vanessa.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/gUHOSIe922E?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### South Park the Streaming Wars Part 2
-*Released on 2022-07-13, vote average 6.5*
-
-A drought has brought the town of South Park to the brink of disaster.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/9cRTa0Pk_NM?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -309,6 +199,43 @@ A hard-on-his-luck hound Hank finds himself in a town full of cats who need a he
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+
+### South Park the Streaming Wars Part 2
+*Released on 2022-07-13, vote average 6.4*
+
+A drought has brought the town of South Park to the brink of disaster.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/9cRTa0Pk_NM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+
+  
+
+
+	
+
+  
+
+
 	
 
   
@@ -342,11 +269,6 @@ A methamphetamine cook hunts down the former police chief of a small town in ord
 
 
 	
-
-  
-
-
-	
 	
 
 ### Where the Crawdads Sing
@@ -369,29 +291,20 @@ Abandoned by her family, Kya raises herself all alone in the marshes outside of 
 
 
 	
-	
+
+  
+
+
 	
 
   
 
 
 	
-	
 
-### Kitty K7
-*Released on 2022-07-08, vote average 4*
+  
 
-After her boyfriend broke up with her, Hana, an underpaid graphic artist, reinvents herself as Kitty K-7, the newest camgirl of the alter world.
 
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/lihUv1NVIKo?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
@@ -405,6 +318,23 @@ After her boyfriend broke up with her, Hana, an underpaid graphic artist, reinve
 
 	
 
+	
+	
+
+### They/Them
+*Released on 2022-07-24, vote average 10*
+
+Campers at an LGBTQ&#43; conversion camp endure unsettling psychological techniques while the campsite is stalked by a mysterious killer.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/HtQk6sANmKs?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
 	
