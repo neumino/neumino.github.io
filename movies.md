@@ -12,16 +12,16 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 	
 
-### The Gray Man
-*Released on 2022-07-13, vote average 6.8*
+### Father There Is Only One 3
+*Released on 2022-07-15, vote average 5.4*
 
-When a shadowy CIA agent uncovers damning agency secrets, he&#39;s hunted across the globe by a sociopathic rogue operative who&#39;s put a bounty on his head.
+Christmas is coming. The children accidentally break a Nativity scene figurine from their father&#39;s collection and must by all means get an equal one, the problem is that it is a unique antique piece. Sara, the eldest daughter breaks up with her boyfriend, Ocho, who will try to recover her favors with the help of her father-in-law, Javier. Precisely Javier&#39;s father-in-law, Marisa&#39;s father, will be welcomed into the family home to spend the holidays after her recent separation, which will not leave Javier&#39;s mother, Milagros, indifferent. Rocío, the folklore of the family, who has been playing the Virgin for several Christmases, is relegated this year to playing the shepherdess, something that her father, Javier, is not willing to assume.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Anp4SdWoyqM?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/yvftz2RyXOI?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -40,35 +40,6 @@ When a shadowy CIA agent uncovers damning agency secrets, he&#39;s hunted across
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Father There Is Only One 3
-*Released on 2022-07-15, vote average 5.4*
-
-Christmas is coming. The children accidentally break a Nativity scene figurine from their father&#39;s collection and must by all means get an equal one, the problem is that it is a unique antique piece. Sara, the eldest daughter breaks up with her boyfriend, Ocho, who will try to recover her favors with the help of her father-in-law, Javier. Precisely Javier&#39;s father-in-law, Marisa&#39;s father, will be welcomed into the family home to spend the holidays after her recent separation, which will not leave Javier&#39;s mother, Milagros, indifferent. Rocío, the folklore of the family, who has been playing the Virgin for several Christmases, is relegated this year to playing the shepherdess, something that her father, Javier, is not willing to assume.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/yvftz2RyXOI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
   
 
 
@@ -98,7 +69,7 @@ Christmas is coming. The children accidentally break a Nativity scene figurine f
 	
 
 ### DC League of Super-Pets
-*Released on 2022-07-27, vote average 7.3*
+*Released on 2022-07-27, vote average 6.6*
 
 When Superman and the rest of the Justice League are kidnapped, Krypto the Super-Dog must convince a rag-tag shelter pack - Ace the hound, PB the potbellied pig, Merton the turtle and Chip the squirrel - to master their own newfound powers and help him rescue the superheroes.
 
@@ -107,50 +78,6 @@ When Superman and the rest of the Justice League are kidnapped, Krypto the Super
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/tFHMkB6dZxI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Father of the Bride
-*Released on 2022-07-21, vote average 6.7*
-
-A father coming to grips with his daughter’s upcoming wedding through the prism of multiple relationships within a big, sprawling Cuban-American family.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/Jqo-9bpmIR8?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Nope
-*Released on 2022-07-20, vote average 6.8*
-
-Residents in a lonely gulch of inland California bear witness to an uncanny, chilling discovery.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/dxGReS_Cnrc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -185,8 +112,52 @@ A hard-on-his-luck hound finds himself in a town full of cats who need a hero to
 	
 	
 
+### Father of the Bride
+*Released on 2022-07-21, vote average 6.8*
+
+A father coming to grips with his daughter’s upcoming wedding through the prism of multiple relationships within a big, sprawling Cuban-American family.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/Jqo-9bpmIR8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Nope
+*Released on 2022-07-20, vote average 6.7*
+
+Residents in a lonely gulch of inland California bear witness to an uncanny, chilling discovery.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/dxGReS_Cnrc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
 ### Rubius X
-*Released on 2022-07-21, vote average 8.8*
+*Released on 2022-07-21, vote average 8.9*
 
 
 
@@ -195,6 +166,50 @@ A hard-on-his-luck hound finds himself in a town full of cats who need a hero to
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/jtdPrhuE-RI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Anything&#39;s Possible
+*Released on 2022-07-22, vote average 6*
+
+Anything’s Possible is a delightfully modern Gen Z coming-of-age story that follows Kelsa, a confident high school girl who is trans, as she navigates through senior year. When her classmate Khal gets a crush on her, he musters up the courage to ask her out, despite the drama he knows it could cause. What transpires is a romance that showcases the joy, tenderness, and pain of young love.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/EIVDSy-TqQI?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Alienoid
+*Released on 2022-07-20, vote average 8.3*
+
+Alien have been keeping their prisoners locked in the human brain for a very long time. In year 2022, the &#34;Guard&#34; in charge of managing of alien prisoners opens the gate of time to prevent the prisoners from escaping human brains. Meanwhile 600 years ago in the past, the clumsy chi master &#39;Muruk&#39; competes with the &#39;The Girl who Shoots Thunder&#39; in a race to get hold of a Divine Blade with a huge bounty, As he discovers a spaceship stuck in the river, another shocking truth reveals itself...
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/NgP9RBPDJQA?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -229,69 +244,20 @@ Abandoned by her family, Kya raises herself all alone in the marshes outside of 
 	
 	
 
-### South Park the Streaming Wars Part 2
-*Released on 2022-07-13, vote average 6.8*
+### Christmas in Toyland
+*Released on 2022-07-23, vote average 7*
 
-A drought has brought the town of South Park to the brink of disaster.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/9cRTa0Pk_NM?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Anything&#39;s Possible
-*Released on 2022-07-22, vote average 6*
-
-Anything’s Possible is a delightfully modern Gen Z coming-of-age story that follows Kelsa, a confident high school girl who is trans, as she navigates through senior year. When her classmate Khal gets a crush on her, he musters up the courage to ask her out, despite the drama he knows it could cause. What transpires is a romance that showcases the joy, tenderness, and pain of young love.
+When Charlie Sawyer, a data analyst at a toy store chain, discovers the only way to keep their brick and mortar locations open is to replicate whatever the company’s best performing location is doing, she&#39;s sent by corporate to meet convivial, yet stubborn, store manager, Grant Levinson, whose secret to success will challenge her to open up her mind… and her heart.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/_yhGTo6kkFk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/mmFBT2RIBr8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-
-### Alienoid
-*Released on 2022-07-20, vote average 8.3*
-
-Alien have been keeping their prisoners locked in the human brain for a very long time. In year 2022, the &#34;Guard&#34; in charge of managing of alien prisoners opens the gate of time to prevent the prisoners from escaping human brains. Meanwhile 600 years ago in the past, the clumsy chi master &#39;Muruk&#39; competes with the &#39;The Girl who Shoots Thunder&#39; in a race to get hold of a Divine Blade with a huge bounty, As he discovers a spaceship stuck in the river, another shocking truth reveals itself...
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/NgP9RBPDJQA?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
 	
 
   
@@ -314,6 +280,11 @@ In 1592, admiral Yi Sun-sin and his fleet face off against the might of the inva
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
 	
 
   
@@ -348,6 +319,21 @@ Campers at an LGBTQ&#43; conversion camp endure unsettling psychological techniq
 
 	
 	
+
+### Recurrence
+*Released on 2022-07-27, vote average 2*
+
+Years after moving to a remote town, ex-cop Pipa is pulled back into the dark world she thought she&#39;d left behind when a corpse appears on her property.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/bYxEkL7J1tw?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -380,27 +366,20 @@ A methamphetamine cook hunts down the former police chief of a small town in ord
   
 
 
+	
+
+  
+
+
+	
+
+  
+
+
 
 ## Opening soon
 
 
-	
-	
-
-### DC League of Super-Pets
-*Released on 2022-07-27, vote average 7.3*
-
-When Superman and the rest of the Justice League are kidnapped, Krypto the Super-Dog must convince a rag-tag shelter pack - Ace the hound, PB the potbellied pig, Merton the turtle and Chip the squirrel - to master their own newfound powers and help him rescue the superheroes.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/tFHMkB6dZxI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
 	
@@ -446,36 +425,7 @@ An ambitious young woman, desperate for followers and fame, fakes a trip to Pari
 	
 
 	
-	
 
-### Hansan: Rising Dragon
-*Released on 2022-07-27, vote average 10*
-
-In 1592, admiral Yi Sun-sin and his fleet face off against the might of the invading Japanese navy and its formidable warships. As the Korean forces fall into crisis, the admiral resorts to using his secret weapon, the dragon head ships known as geobukseon, in order to change the tide of this epic battle at sea.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/VSrdp5WPh08?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	
 	
 
 	
@@ -507,6 +457,16 @@ A truck driver has been forced to smuggle illicit cargo to save her brother from
   allowfullscreen></iframe>
 
 	
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
