@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### DC League of Super-Pets
-*Released on 2022-07-27, vote average 7.4*
+*Released on 2022-07-27, vote average 7.2*
 
 When Superman and the rest of the Justice League are kidnapped, Krypto the Super-Dog must convince a rag-tag shelter pack - Ace the hound, PB the potbellied pig, Merton the turtle and Chip the squirrel - to master their own newfound powers and help him rescue the superheroes.
 
@@ -66,6 +66,45 @@ When Superman and the rest of the Justice League are kidnapped, Krypto the Super
 
 
 	
+	
+
+### Prey
+*Released on 2022-07-21, vote average 10*
+
+On the Great Plains in 1719, Naru, a fierce and highly skilled Comanche warrior, sets out to protect her people when an unknown danger threatens them. But the prey she’s stalking turns out to be a highly evolved alien predator with a technically advanced arsenal.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/JS6vdG03Rk0?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### Purple Hearts
+*Released on 2022-07-29, vote average 8.5*
+
+An aspiring musician agrees to a marriage of convenience with a soon-to-deploy Marine, but a tragedy soon turns their fake relationship all too real.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/WTLgg8oRSBE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
   
 
@@ -95,16 +134,45 @@ A father coming to grips with his daughter’s upcoming wedding through the pris
 	
 	
 
-### Purple Hearts
-*Released on 2022-07-29, vote average 8*
+### Not Okay
+*Released on 2022-07-29, vote average 7*
 
-An aspiring musician agrees to a marriage of convenience with a soon-to-deploy Marine, but a tragedy soon turns their fake relationship all too real.
+An ambitious young woman, desperate for followers and fame, fakes a trip to Paris to up her social media presence. When a terrifying incident takes place in the real world and becomes part of her imaginary trip, her white lie becomes a moral quandary that offers her all the attention she’s wanted.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/WTLgg8oRSBE?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/sTDtHFZ25UQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Nope
+*Released on 2022-07-20, vote average 6.9*
+
+Residents in a lonely gulch of inland California bear witness to an uncanny, chilling discovery.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/dxGReS_Cnrc?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -117,16 +185,16 @@ An aspiring musician agrees to a marriage of convenience with a soon-to-deploy M
 	
 	
 
-### Nope
-*Released on 2022-07-20, vote average 6.8*
+### Paradise Highway
+*Released on 2022-07-29, vote average 6.8*
 
-Residents in a lonely gulch of inland California bear witness to an uncanny, chilling discovery.
+A truck driver has been forced to smuggle illicit cargo to save her brother from a deadly prison gang. With FBI operatives hot on her trail, Sally&#39;s conscience is challenged when the final package turns out to be a teenage girl.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/dxGReS_Cnrc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/zjv83li96BE?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -160,17 +228,46 @@ In 1592, admiral Yi Sun-sin and his fleet face off against the might of the inva
 
 	
 	
+	
 
-### Not Okay
-*Released on 2022-07-29, vote average 6.7*
+  
 
-An ambitious young woman, desperate for followers and fame, fakes a trip to Paris to up her social media presence. When a terrifying incident takes place in the real world and becomes part of her imaginary trip, her white lie becomes a moral quandary that offers her all the attention she’s wanted.
+
+	
+	
+
+### Honor Society
+*Released on 2022-07-23, vote average 7.4*
+
+Honor is an ambitious high school senior whose sole focus is getting into Harvard, assuming she can first score the coveted recommendation from her guidance counselor, Mr. Calvin. Willing to do whatever it takes, Honor concocts a Machiavellian-like plan to take down her top three student competitors, until things take a turn when she unexpectedly falls for her biggest competition, Michael.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/sTDtHFZ25UQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/L4z67u7TNFY?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+
+### UFC 277: Peña vs. Nunes 2
+*Released on 2022-07-30, vote average 2*
+
+Julianna Peña vs. Amanda Nunes (Bantamweight) Brandon Moreno vs. Kai Kara-France (Flyweight) Derrick Lewis vs. Sergei Pavlovich (Heavyweight) Alexandre Pantoja vs. Alex Perez (Flyweight) Magomed Ankalaev vs. Anthony Smith (Light Heavyweight)
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/SYUXrBSdcKk?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -189,28 +286,16 @@ An ambitious young woman, desperate for followers and fame, fakes a trip to Pari
 
 	
 	
-
-### Paradise Highway
-*Released on 2022-07-29, vote average 6*
-
-A truck driver has been forced to smuggle illicit cargo to save her brother from a deadly prison gang. With FBI operatives hot on her trail, Sally&#39;s conscience is challenged when the final package turns out to be a teenage girl.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/zjv83li96BE?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
 	
 
   
 
 
 	
-	
+
+  
+
+
 	
 
   
@@ -239,6 +324,8 @@ After the murder of her two Scandinavian friends in Morocco, a Russian blogger d
 
 
 	
+	
+	
 
   
 
@@ -247,7 +334,7 @@ After the murder of her two Scandinavian friends in Morocco, a Russian blogger d
 	
 
 ### Anything&#39;s Possible
-*Released on 2022-07-22, vote average 6*
+*Released on 2022-07-22, vote average 6.1*
 
 Anything’s Possible is a delightfully modern Gen Z coming-of-age story that follows Kelsa, a confident high school girl who is trans, as she navigates through senior year. When her classmate Khal gets a crush on her, he musters up the courage to ask her out, despite the drama he knows it could cause. What transpires is a romance that showcases the joy, tenderness, and pain of young love.
 
@@ -259,59 +346,6 @@ Anything’s Possible is a delightfully modern Gen Z coming-of-age story that fo
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-
-### Joyride
-*Released on 2022-07-29, vote average 8*
-
-A train-wreck on an adventure who is ready to give away her new-born baby. Joined by a cheeky street urchin, they are two diamonds in the rough on the run.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/e1INFVrVKPg?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
 	
 	
 
@@ -350,9 +384,17 @@ Kate and her daughter Beth live alone in an isolated farmhouse in the woods, but
 	
 
 	
+	
+	
 
 	
 
+	
+
+	
+
+	
+	
 	
 
 	
@@ -375,12 +417,6 @@ In an isolated family mansion, a group of rich 20-somethings decides to play Bod
   frameborder="0"
   allowfullscreen></iframe>
 
-	
-	
-
-	
-
-	
 	
 	
 
