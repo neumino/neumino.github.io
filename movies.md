@@ -13,7 +13,7 @@ This is a convenient page that embeds trailers of movies released in the past
 	
 
 ### DC League of Super-Pets
-*Released on 2022-07-27, vote average 7.2*
+*Released on 2022-07-27, vote average 7.3*
 
 When Superman and the rest of the Justice League are kidnapped, Krypto the Super-Dog must convince a rag-tag shelter pack - Ace the hound, PB the potbellied pig, Merton the turtle and Chip the squirrel - to master their own newfound powers and help him rescue the superheroes.
 
@@ -47,7 +47,7 @@ When Superman and the rest of the Justice League are kidnapped, Krypto the Super
 	
 
 ### Rubius X
-*Released on 2022-07-21, vote average 8.7*
+*Released on 2022-07-21, vote average 8.8*
 
 
 
@@ -56,28 +56,6 @@ When Superman and the rest of the Justice League are kidnapped, Krypto the Super
 	width="819"
 	height="460"
   src="//www.youtube.com/embed/jtdPrhuE-RI?enablejsapi=1&origin=http://blog.justonepixel.com"
-  frameborder="0"
-  allowfullscreen></iframe>
-
-	
-	
-
-  
-
-
-	
-	
-
-### Prey
-*Released on 2022-07-21, vote average 10*
-
-On the Great Plains in 1719, Naru, a fierce and highly skilled Comanche warrior, sets out to protect her people when an unknown danger threatens them. But the prey she’s stalking turns out to be a highly evolved alien predator with a technically advanced arsenal.
-
-<iframe id="player"
-	type="text/html"
-	width="819"
-	height="460"
-  src="//www.youtube.com/embed/JS6vdG03Rk0?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -112,16 +90,16 @@ An aspiring musician agrees to a marriage of convenience with a soon-to-deploy M
 	
 	
 
-### Father of the Bride
-*Released on 2022-07-21, vote average 6.9*
+### Prey
+*Released on 2022-07-26, vote average 6*
 
-A father coming to grips with his daughter’s upcoming wedding through the prism of multiple relationships within a big, sprawling Cuban-American family.
+On the Great Plains in 1719, Naru, a fierce and highly skilled Comanche warrior, sets out to protect her people when an unknown danger threatens them. But the prey she’s stalking turns out to be a highly evolved alien predator with a technically advanced arsenal.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/Jqo-9bpmIR8?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/p6mihTmEuD8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -163,16 +141,16 @@ An ambitious young woman, desperate for followers and fame, fakes a trip to Pari
 	
 	
 
-### Nope
-*Released on 2022-07-20, vote average 6.9*
+### Father of the Bride
+*Released on 2022-07-21, vote average 6.9*
 
-Residents in a lonely gulch of inland California bear witness to an uncanny, chilling discovery.
+A father coming to grips with his daughter’s upcoming wedding through the prism of multiple relationships within a big, sprawling Cuban-American family.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/dxGReS_Cnrc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/Jqo-9bpmIR8?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
@@ -186,7 +164,7 @@ Residents in a lonely gulch of inland California bear witness to an uncanny, chi
 	
 
 ### Paradise Highway
-*Released on 2022-07-29, vote average 6.8*
+*Released on 2022-07-29, vote average 6.5*
 
 A truck driver has been forced to smuggle illicit cargo to save her brother from a deadly prison gang. With FBI operatives hot on her trail, Sally&#39;s conscience is challenged when the final package turns out to be a teenage girl.
 
@@ -228,6 +206,21 @@ In 1592, admiral Yi Sun-sin and his fleet face off against the might of the inva
 
 	
 	
+
+### Nope
+*Released on 2022-07-20, vote average 6.9*
+
+Residents in a lonely gulch of inland California bear witness to an uncanny, chilling discovery.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/dxGReS_Cnrc?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
 	
 
   
@@ -237,7 +230,7 @@ In 1592, admiral Yi Sun-sin and his fleet face off against the might of the inva
 	
 
 ### Honor Society
-*Released on 2022-07-23, vote average 7.4*
+*Released on 2022-07-23, vote average 7.5*
 
 Honor is an ambitious high school senior whose sole focus is getting into Harvard, assuming she can first score the coveted recommendation from her guidance counselor, Mr. Calvin. Willing to do whatever it takes, Honor concocts a Machiavellian-like plan to take down her top three student competitors, until things take a turn when she unexpectedly falls for her biggest competition, Michael.
 
@@ -257,45 +250,28 @@ Honor is an ambitious high school senior whose sole focus is getting into Harvar
 
 	
 	
+	
 
-### UFC 277: Peña vs. Nunes 2
-*Released on 2022-07-30, vote average 2*
+  
 
-Julianna Peña vs. Amanda Nunes (Bantamweight) Brandon Moreno vs. Kai Kara-France (Flyweight) Derrick Lewis vs. Sergei Pavlovich (Heavyweight) Alexandre Pantoja vs. Alex Perez (Flyweight) Magomed Ankalaev vs. Anthony Smith (Light Heavyweight)
+
+	
+	
+
+### Don&#39;t Blame Karma!
+*Released on 2022-08-03, vote average 1*
+
+The travails of Sara, a frustrated fashion designer who blames karma for her bad luck. Fate will put her face to face with her sister, Lucy, who enjoys very different luck, and in a series of events and reunions that will lead her to make a radical decision.
 
 <iframe id="player"
 	type="text/html"
 	width="819"
 	height="460"
-  src="//www.youtube.com/embed/SYUXrBSdcKk?enablejsapi=1&origin=http://blog.justonepixel.com"
+  src="//www.youtube.com/embed/IFiSehgP7jQ?enablejsapi=1&origin=http://blog.justonepixel.com"
   frameborder="0"
   allowfullscreen></iframe>
 
 	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-	
-	
-
-  
-
-
-	
-
-  
-
-
 	
 
   
@@ -318,6 +294,47 @@ After the murder of her two Scandinavian friends in Morocco, a Russian blogger d
   allowfullscreen></iframe>
 
 	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
+	
+	
+
+### Into the Deep
+*Released on 2022-07-31, vote average 3*
+
+Follows a woman desperate to escape her town, she meets a stranger who promises a romantic escape, but it results in deceit, mistrust, and violence.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/ylAsPDEz2w4?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+  
+
+
+	
+	
+	
+
+  
+
+
 	
 
   
@@ -380,21 +397,28 @@ Kate and her daughter Beth live alone in an isolated farmhouse in the woods, but
 	
 
 	
+	
+
+### Don&#39;t Blame Karma!
+*Released on 2022-08-03, vote average 1*
+
+The travails of Sara, a frustrated fashion designer who blames karma for her bad luck. Fate will put her face to face with her sister, Lucy, who enjoys very different luck, and in a series of events and reunions that will lead her to make a radical decision.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/IFiSehgP7jQ?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
 
 	
 
 	
-	
-	
 
-	
-
-	
-
-	
-
-	
-	
 	
 
 	
@@ -427,7 +451,49 @@ In an isolated family mansion, a group of rich 20-somethings decides to play Bod
 	
 
 	
+	
 
+### Easter Sunday
+*Released on 2022-08-05, vote average 10*
+
+A man returns home for an Easter celebration with his riotous, bickering, eating, drinking, laughing, loving family, in this love letter to the Filipino-American community.
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/YIixb42aJPg?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+	
+
+### I Love You
+*Released on 2022-08-03, vote average 9.8*
+
+Ali, a self-made middle-class businessman, finds himself torn between two loves: The woman he&#39;s about to marry and his old flame who barges back into his life. What will his heart dictate?
+
+<iframe id="player"
+	type="text/html"
+	width="819"
+	height="460"
+  src="//www.youtube.com/embed/wb57WhkW3as?enablejsapi=1&origin=http://blog.justonepixel.com"
+  frameborder="0"
+  allowfullscreen></iframe>
+
+	
+	
+
+	
+
+	
+
+	
+	
 	
 
 	
