@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-        <title>Justonepixel.com - {{ page.title }}</title>
+        <title>justonepixel - {{ page.title }}</title>
         {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
         <meta name="author" content="{{ site.author.name }}">
 
@@ -30,10 +30,7 @@
                     <li><a href="/search.html"><img src="{{ ASSET_PATH }}/img/search.png" /></a></li>
                     <li><a href="https://github.com/neumino"><img src="{{ ASSET_PATH }}/img/github.png" /></a></li>
                     <li><a href="http://www.strava.com/athletes/1952902"><img src="{{ ASSET_PATH }}/img/strava.png" /></a></li>
-                    <li><a href="https://twitter.com/neumino"><img src="{{ ASSET_PATH }}/img/twitter.png" /></a></li>
-                    <li><a href="https://www.facebook.com/michel.tu"><img src="{{ ASSET_PATH }}/img/facebook.png" /></a></li>
                     <li><a href="http://www.linkedin.com/in/tumichel"><img src="{{ ASSET_PATH }}/img/linkedin.png" /></a></li>
-                    <li><a href="https://plus.google.com/u/0/111745051853861893359/posts"><img src="{{ ASSET_PATH }}/img/googleplus.png" /></a></li>
                 </ul>
             </div>
         </div>
@@ -59,19 +56,6 @@
       <link rel="stylesheet" type="text/css" href="{{ ASSET_PATH }}/bootstrap/css/bootstrap.2.2.2.min.css"/>
       <link rel="stylesheet" type="text/css" href="{{ ASSET_PATH }}/css/style.css?body=1"/>
     </noscript>
-    <script>
-      var loadDeferredStyles = function() {
-        var addStylesNode = document.getElementById("deferred-styles");
-        var replacement = document.createElement("div");
-        replacement.innerHTML = addStylesNode.textContent;
-        document.body.appendChild(replacement)
-        addStylesNode.parentElement.removeChild(addStylesNode);
-      };
-      var raf = requestAnimationFrame || mozRequestAnimationFrame ||
-          webkitRequestAnimationFrame || msRequestAnimationFrame;
-      if (raf) raf(function() { window.setTimeout(loadDeferredStyles, 0); });
-      else window.addEventListener('load', loadDeferredStyles);
-    </script>
 		{% include JB/analytics %}
     </body>
 </html>
